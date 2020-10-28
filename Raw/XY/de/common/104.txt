@@ -1,0 +1,95 @@
+Überprüfe GTS-Status...
+Das abgelegte Pokémon[0x000A]wurde getauscht!
+Willkommen bei der GTS![0x000A]Was möchtest du tun?
+Pokémon suchen
+Pokémon ablegen
+Bericht von {0x0102,0x0000}
+GTS verlassen
+Pokémon suchen
+Gesucht
+Geschlecht
+Level
+Mit diesen Kriterien suchen!
+Optionen
+Zurück
+
+Nach Eingabe eines Pokémon-Namens[0x000A]ist keine Geschlechterauswahl möglich.
+Dein Wunsch-Pokémon wird gesucht...
+Welche Art von Pokémon suchst du?
+Selbst eingeben
+ガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッ[0x000A]
+カキクケコサシスセソタチツテトハヒフヘホハヒフヘホアイウエオツ
+アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワ
+{0x0101,0x0001}
+Wähle das Geschlecht.
+Egal
+{0xFF00,0x0002}♂{0xFF00,0x0000}
+{0xFF00,0x0001}♀{0xFF00,0x0000}
+Wähle den Level.
+Egal
+1-10
+11-20
+21-30
+31-40
+41-50
+51-60
+61-70
+71-80
+81-90
+91 oder höher
+Triff Einstellungen.
+Spieler auf der Suche nach[0x000A]besonderen Pokémon
+Suchen
+Nicht suchen
+Bitte wähle einen Tauschpartner.
+Lv.
+Nach weiteren Treffern wird gesucht...[0x000A]Bitte warte einen Moment.
+Bitte wähle die Kriterien aus.
+Vom Tauschpartner gewünschtes Pokémon
+Region
+Nach diesen Suchkriterien filtern
+Zurück
+Die Suchkriterien haben keine Treffer geliefert!
+Nach Wunsch-Pokémon des Partners filtern
+Egal
+Eigene Pokémon
+Zurück
+Nach Region des Tauschpartners filtern
+Egal
+Dieselbe Region wie deine
+Eine andere Region als deine
+Zurück
+{0xBDFF:0x003D}
+{0xBDFF:0x003E}
+{0xBDFF:0x003F}
+{0xBDFF:0x0040}
+{0xBDFF:0x0041}
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}
+{0xBDFF:0x0046}
+{0xBDFF:0x0047}
+{0xBDFF:0x0048}
+{0xBDFF:0x0049}
+Mitteilung
+Unter diesen Kriterien ablegen
+Zurück
+Wähle aus, welches Pokémon du willst.
+Willst du {0x0102,0x0000} zurücknehmen?
+Zurücknehmen
+{0x0202,0x0000}
+{0x0109,0x0000}
+Die GTS wird momentan gewartet.
+Die GTS ist momentan überlastet.{0xBE01}[0x000A]Bitte versuche es später noch einmal.[0x000A]
+Suche fehlgeschlagen...
+Fehler bei der Datenübertragung.
+Verbindungsaufbau zur GTS[0x000A]fehlgeschlagen...
+Die Verbindung zur GTS[0x000A]wurde getrennt.
+Die Suche erzielte keine Treffer.
+Wähle ein Wunsch-Pokémon aus, bevor[0x000A]du ein Pokémon in der GTS ablegst.
+Wähle ein Wunsch-Pokémon aus.
+{0xBDFF:0x005B}
+Dieses Pokémon wurde bereits getauscht.
+Deine abgelegten Pokémon sind[0x000A]zurückgekommen!
+Dieses Pokémon kann nicht zum Tausch[0x000A]angeboten werden.

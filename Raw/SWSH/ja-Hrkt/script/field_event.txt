@@ -1,0 +1,15 @@
+msg_fld_ev_spray_01=スプレーの　こうかが　きれた！
+msg_fld_ev_spray_02=スプレーの　こうかが　きれた！[0x000A]つづけて　つかいますか？
+msg_fld_ev_spray_03={0x0100,0x0000}は[0x000A]{0x0109,0x0001}を　つかった！
+msg_fld_ev_bookshelf_01={0xBDFF:0x0003}
+msg_fld_ev_kowaserurock_01=がんじょう　そうな　いわだ……！[0x000A]ポケモンの　パワーなら　こわせるかも？
+msg_fld_ev_tv_common_01={0xBDFF:0x0005}
+msg_fld_ev_oserurock_01=おおきくて　おもそうな　いわだ……！[0x000A]ポケモンの　パワーなら　おせるかも？
+msg_egg_event_01=……おや？
+msg_ride_check_01=ケンタロスを　よびだしますか？
+msg_ride_check_02=カイリキーを　よびだしますか？
+msg_ride_check_03=サメハダーを　よびだしますか？
+msg_ride_check_ng_01=ここでは　ばしょが　せまくて[0x000A]ライドポケモンを　よびだせない
+msg_bicycle_01=いまは　じてんしゃに[0x000A]のることが　できない
+msg_bicycle_02=いまは　じてんしゃから[0x000A]おりることが　できない
+msg_fld_ev_boxfull_01=ポケモンボックスが　いっぱいで[0x000A]はなしかけられない！！{0xBE00}[0x000A]……また　あとで　こよう

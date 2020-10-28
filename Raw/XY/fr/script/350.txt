@@ -1,0 +1,140 @@
+Bonjour[0xE07F]!
+Nos coiffeurs visagistes sont à votre écoute[0x000A]pour vous proposer le style qui correspond{0xBE00}[0x000A]le mieux à vos attentes.
+Bonjour[0xE07F]![0x000A]Oh[0xE07F]! Mais c’est {0x0100,0x0000}[0xE07F]!{0xBE01}[0x000A]Il y a un moment que vous n’étiez[0x000A]pas venu{0x1100,0x00FF,0x0100}e nous voir.
+Bonjour[0xE07F]![0x000A][0xE08D]{0xBE01}[0x000A]Oh[0xE08D] mais c’est {0x0100,0x0000}[0xE07F]![0x000A]Je suis désolée[0xE07F]!{0xBE01}[0x000A]Quelle allure[0xE07F]! Vous m’avez tellement éblouie[0x000A]que je ne vous ai même pas reconnu{0x1100,0x00FF,0x0100}e[0xE07F]!{0xBE01}[0x000A]Laissez-moi reprendre mes esprits[0xE08D]
+Que puis-je faire pour vous aujourd’hui[0xE07F]?
+Voulez-vous changer de coupe ou juste égaliser[0x000A]la frange[0xE07F]?
+Comme vous voudrez[0xE07F]!
+Le forfait coupe et coloration est à {0x0204,0x0000,0xE07F} $.[0x000A]Est-ce bien ce que vous voulez[0xE07F]?
+Le forfait frange et coloration est à {0x0204,0x0000,0xE07F} $.[0x000A]Est-ce bien ce que vous voulez[0xE07F]?
+La coupe de cheveux simple est à {0x0204,0x0000,0xE07F} $.[0x000A]Est-ce bien ce que vous voulez[0xE07F]?
+La coloration simple est à {0x0204,0x0000,0xE07F} $.[0x000A]Est-ce bien ce que vous voulez[0xE07F]?
+L’égalisation de la frange est à {0x0204,0x0000,0xE07F} $.[0x000A]Est-ce bien ce que vous voulez[0xE07F]?
+Oh, je suis désolée[0xE08D][0x000A]Il me semble que vous n’avez pas assez d’argent[0xE08D]
+Suivez-moi, je vais vous installer.{0xBE01}[0x000A]Mais avant tout, confiez-moi[0x000A]votre chapeau.
+Appelez-moi quand vous aurez fait votre choix.
+Coupe et coloration
+Coupe
+Coloration
+Rien
+Coupe
+Frange
+Rien, merci.
+Avez-vous une idée[0x000A]du style qui vous plairait[0xE07F]?
+J’ai préparé une sélection de coiffures pour[0x000A]mettre votre visage en valeur.{0xBE01}[0x000A]Y a-t-il un style qui vous attire particulièrement[0xE07F]?
+Court
+Carré
+Mi-long
+Long
+Je vous fais confiance
+Suivant
+Précédent
+Très court
+Court
+Mi-long
+Mi-long bouclé
+Queue-de-cheval
+Couettes
+Comme vous voudrez[0xE07F]![0x000A]Je vais donc couper court.
+Au carré[0xE07F]? Comme vous voudrez[0xE07F]!
+Mi-long[0xE07F]? Aucun problème[0xE07F]!
+Long[0xE07F]? Très bien.
+Vous ne le regretterez pas.
+Ne vous attendez pas à un changement[0x000A]spectaculaire. Êtes-vous bien sûr{0x1100,0x00FF,0x0100}e[0xE07F]?
+Très bien.{0xBE01}[0x000A]Dans ce cas, je vais juste égaliser les pointes.
+Très court[0xE07F]?[0x000A]C’est comme si c’était fait[0xE07F]!
+Une coupe courte, alors.[0x000A]Faites-moi confiance[0xE07F]!
+Mi-long[0xE07F]?[0x000A]Très bon choix.
+Mi-long avec des boucles[0xE07F]?[0x000A]Tout ce que vous désirez.
+Une queue-de-cheval[0xE07F]?[0x000A]Cela ne prendra qu’une minute.
+Des couettes[0xE07F]?[0x000A]Comme vous voulez.
+Avez-vous réfléchi à la couleur[0x000A]que vous désirez[0xE07F]?
+Plus clair
+Plus foncé
+Comme maintenant
+Blond
+Roux
+Châtain clair
+Châtain foncé
+Noir
+Blond comme les blés[0xE07F]?[0x000A]Comme vous voudrez[0xE07F]!
+Ce sera donc un beau roux cuivré[0xE08D]
+Je suis sûre que le châtain clair[0x000A]vous ira très bien.
+Le châtain foncé, un classique[0xE08D]
+Noir Corboss[0xE07F]? Je m’en charge[0xE07F]!
+Merci de votre confiance[0xE07F]!
+Très bien[0xE07F]!{0xBE01}[0x000A]Je vais préparer un soin pour entretenir[0x000A]votre couleur actuelle.
+Quel type de frange préférez-vous[0xE07F]?
+Vous voulez la laisser telle qu’elle est[0xE07F]?
+Sage comme une image[0xE07F]?[0x000A]Comme vous voudrez.
+Un brin de fantaisie[0xE07F]?[0x000A]C’est comme si c’était fait.
+Laissez-moi faire[0xE08D]
+Sage
+Dégradée
+Et voilà[0xE07F]![0x000A]C’est terminé[0xE07F]!
+Votre nouvelle coiffure vous va à ravir[0xE07F]!
+Alors, un forfait coupe et coloration[0xE08D][0x000A]Cela fera {0x0204,0x0000,0xE07F} $, s’il vous plaît.
+Alors, un forfait frange et coloration[0xE08D][0x000A]Cela fera {0x0204,0x0000,0xE07F} $, s’il vous plaît.
+Alors, une coupe simple[0xE08D][0x000A]Cela fera {0x0204,0x0000,0xE07F} $, s’il vous plaît.
+Alors, pour une frange simple[0xE08D][0x000A]Cela fera {0x0204,0x0000,0xE07F} $, s’il vous plaît.
+Alors, pour une couleur simple[0xE08D][0x000A]Cela fera {0x0204,0x0000,0xE07F} $, s’il vous plaît.
+Merci beaucoup de votre visite.[0x000A]Si vous avez envie de changer de tête{0xBE00}[0x000A]ou de vous changer les idées, revenez nous voir[0xE07F]!
+Votre nouvelle coupe met vraiment[0x000A]votre visage en valeur[0xE07F]!{0xBE01}[0x000A]Revenez nous voir quand vous voudrez.
+Cette couleur vous va à ravir[0xE07F]!{0xBE01}[0x000A]N’oubliez pas d’utiliser un soin adapté[0xE07F]!
+Le roux vous va très bien.{0xBE01}[0x000A]Les couleurs vives donnent vraiment du pep[0xE07F]!
+La coloration est très réussie[0xE07F]!{0xBE01}[0x000A]Cela adoucit les traits de votre visage,[0x000A]j’aime beaucoup.
+Voilà une couleur qui vous ressemble[0xE07F]![0x000A]Cela vous met en valeur tout en restant naturel.
+Quand les cheveux noirs sont bien brillants,[0x000A]c’est magnifique.{0xBE01}[0x000A]Si j’étais vous, je porterais des vêtements[0x000A]de couleur claire.
+Les cheveux longs vous vont bien[0xE07F]![0x000A]Je dirais même qu’ils vous vont très bien[0xE07F]!
+J’aime aussi cette longueur, ça change.
+Votre nouvelle coupe vous va à merveille[0xE07F]!
+C’est très joli, très jeune.
+Ah, voilà une belle frange bien nette[0xE07F]!
+C’est charmant, cette frange[0xE07F]![0x000A]C’est parfait pour vous.
+Ces derniers temps, je me suis découverte[0x000A]une passion pour les cafés.{0xBE01}[0x000A]Il y a même des cafés à thèmes,[0x000A]je trouve ça génial[0xE07F]!{0xBE01}[0x000A]Illumis est vraiment une référence[0x000A]en la matière.{0xBE01}[0x000A]Si cela vous dit, je pourrais vous[0x000A]en recommander un, {0x0100,0x0000}.
+L’autre jour, j’ai déniché un café intéressant :[0x000A]le Café Toutou[0xE07F]!{0xBE01}[0x000A]Comme son nom l’indique, c’est le rendez-vous[0x000A]des amoureux des Couafarel.{0xBE01}[0x000A]Enfin, à ce stade-là, ce n’est plus de l’amour,[0x000A]c’est de la passion[0xE07F]!{0xBE01}[0x000A]C’était vraiment décoiffant.
+Avec votre nouvelle coiffure,[0x000A]vous voudrez peut-être faire un tour{0xBE00}[0x000A]au Studio de Vidéos Dresseur[0xE07F]?{0xBE01}[0x000A]Mais attention, vous risquez de devenir[0x000A]complètement accro[0xE07F]!{0xBE01}[0x000A]Moi-même, je ne peux plus m’en passer.
+J’aurais mieux fait de ne pas vous en parler.{0xBE01}[0x000A]Après vous avoir conseillé{0x1100,0x00FF,0x0100}e, je mourais d’envie[0x000A]de retourner tourner une vidéo.{0xBE01}[0x000A]Alors j’ai fini par céder à la tentation.{0xBE01}[0x000A]Mon Pokémon et moi nous sommes laissés[0x000A]prendre au jeu et le résultat est grandiose[0xE07F]!{0xBE01}[0x000A]Je me suis beaucoup amusée.
+Ces derniers temps, un homme étrange[0x000A]traîne dans les parages[0xE08D]{0xBE01}[0x000A]Je ne saurais pas dire précisément[0x000A]ce qui me dérange à son sujet[0xE08D]{0xBE01}[0x000A]Il marmonnait des propos incompréhensibles[0x000A]à propos du pouvoir de quelque chose[0xE08D]{0xBE01}[0x000A]et puis pouf, il a disparu d’un seul coup[0xE07F]!
+Vous vous rappelez du drôle de bonhomme[0x000A]dont je vous ai parlé la dernière fois[0xE07F]?{0xBE01}[0x000A]Je suis encore tombée sur lui, mais je ne[0x000A]m’attendais pas à ce qui s’est passé ensuite.{0xBE01}[0x000A]J’ai écouté ses explications, et j’ai réussi à utiliser[0x000A]son machin[0xE08D] son bidule[0xE08D]{0xBE01}[0x000A]J’avoue que je ne comprends toujours pas bien[0x000A]ce qui s’est passé, mais je me sens privilégiée.
+{0xBDFF:0x0063}
+{0xBDFF:0x0064}
+Vous saviez qu’il existe un salon de toilettage[0x000A]réservé aux Couafarel[0xE07F]?{0xBE01}[0x000A]J’aimerais beaucoup y emmener le mien,[0x000A]mais il y a trop de choix au niveau des coupes{0xBE00}[0x000A]et je n’arrive pas à me décider[0xE08D]
+Hier, j’ai pris mon courage à deux mains et je[0x000A]suis allée au salon de toilettage pour Couafarel.{0xBE01}[0x000A]Après avoir bien réfléchi, j’ai fini par me décider[0x000A]pour la Coupe Cœur[0xE07F]!{0xBE01}[0x000A]Je suis très contente de mon choix, mais[0x000A]les autres coupes ont toutes leur charme[0xE08D]{0xBE01}[0x000A]Il paraît même que certaines sont réservées[0x000A]aux clients réguliers, alors forcément{0xBE00}[0x000A]ça titille ma curiosité[0xE07F]!{0xBE01}[0x000A]Je pense déjà à ma prochaine visite[0xE08D]
+{0xBDFF:0x0067}
+{0xBDFF:0x0068}
+{0xBDFF:0x0069}
+{0xBDFF:0x006A}
+{0xBDFF:0x006B}
+{0xBDFF:0x006C}
+{0xBDFF:0x006D}
+{0xBDFF:0x006E}
+{0xBDFF:0x006F}
+{0xBDFF:0x0070}
+Oh[0xE07F]! Mais vos vêtements vous vont à ravir,[0x000A]{0x0100,0x0000}[0xE07F]!{0xBE01}[0x000A]Je ne sais pas pourquoi, j’en ai des frissons[0xE07F]!
+Oh[0xE07F]! Mais vos vêtements vous vont à ravir,[0x000A]{0x0100,0x0000}[0xE07F]!{0xBE01}[0x000A]Sur vous, cela rend si bien[0xE08D][0x000A]Vous m’en voyez verte de jalousie[0xE07F]!
+Je change complètement de sujet, mais[0xE08D][0x000A]j’aime beaucoup ce que vous portez aujourd’hui,{0xBE00}[0x000A]{0x0100,0x0000}.{0xBE01}[0x000A]Je me demande où vous avez acheté[0x000A]ces vêtements[0xE08D]{0xBE01}[0x000A]Est-ce que vous pourriez me donner le nom[0x000A]de la boutique plus tard[0xE07F]?{0xBE01}[0x000A]Je pourrais aller y faire un tour avec mon mari[0x000A]dès mon prochain jour de congé[0xE08D]
+Je change complètement de sujet, mais[0xE08D][0x000A]j’aime beaucoup ce que vous portez aujourd’hui,{0xBE00}[0x000A]{0x0100,0x0000}.{0xBE01}[0x000A]Je me demande où vous avez acheté[0x000A]ces vêtements[0xE08D]{0xBE01}[0x000A]Est-ce que vous pourriez me donner le nom[0x000A]de la boutique plus tard[0xE07F]?{0xBE01}[0x000A]Je pourrais aller y faire un tour[0x000A]dès mon prochain jour de congé[0xE08D]
+Ah, je voulais vous dire[0xE07F]!{0xBE01}[0x000A]Je suis allée à la boutique dont vous m’avez parlé[0x000A]l’autre jour.{0xBE01}[0x000A]C’était vraiment bien[0xE08D][0x000A]J’ai eu un mal fou à choisir.{0xBE01}[0x000A]Même mon mari a trouvé des choses à son goût,[0x000A]alors je l’ai laissé faire le beau, pour une fois.
+Ah, je voulais vous dire[0xE07F]!{0xBE01}[0x000A]Je suis allée à la boutique dont vous[0x000A]m’avez parlé l’autre jour.{0xBE01}[0x000A]C’était vraiment bien[0xE08D][0x000A]J’ai eu un mal fou à choisir.{0xBE01}[0x000A]Il y avait même des vêtements appropriés[0x000A]pour mon âge.{0xBE01}[0x000A]Il y avait longtemps que je n’avais pas[0x000A]acheté tant de choses[0xE07F]!
+Oh, mais vous avez attrapé un {0x0101,0x0000}[0xE07F]!{0xBE01}[0x000A]Je savais que c’était un Pokémon rare[0xE08D][0x000A]mais j’ai même entendu dire que c’était un{0xBE00}[0x000A]Pokémon fabuleux, le roi des fabuleux, oui[0xE07F]!{0xBE01}[0x000A]Vous êtes vraiment un grand Dresseur,[0x000A]{0x0100,0x0001}.
+{0xBDFF:0x0078}
+{0x0100,0x0000}[0xE07F]! Ou plutôt, Maître[0xE07F]!{0xBE01}[0x000A]J’ai appris que vous aviez vaincu[0x000A]la Ligue Pokémon[0xE07F]!{0xBE01}[0x000A]J’ai vu la parade l’autre jour,[0x000A]toutes mes félicitations[0xE07F]!{0xBE01}[0x000A]Je suis tellement fière de compter[0x000A]une telle célébrité parmi mes habitués[0xE07F]!
+Mais[0xE08D] Si je me souviens bien[0xE08D][0x000A]C’est votre anniversaire aujourd’hui, n’est-ce pas[0xE07F]?{0xBE00}[0x000A]Joyeux anniversaire[0xE07F]!{0xBE01}[0x000A]Je vais déployer tout mon talent[0x000A]pour que vous soyez particulièrement{0xBE00}[0x000A]{0x1100,0x00FF,0x0F09}séduisantresplendissante, aujourd’hui.
+Je suis coiffeuse, vous êtes m{0x1100,0x00FF,0x0909}on clienta cliente et nos[0x000A]relations sont strictement professionnelles.{0xBE01}[0x000A]Pourtant, à titre personnel[0xE08D][0x000A]c’est un peu bête à dire, mais{0xBE00}[0x000A]je vous apprécie énormément.{0xBE01}[0x000A]J’espère que vous reviendrez souvent.
+{0xBDFF:0x007C}
+{0xBDFF:0x007D}
+{0xBDFF:0x007E}
+{0xBDFF:0x007F}
+{0xBDFF:0x0080}
+{0xBDFF:0x0081}
+{0xBDFF:0x0082}
+{0xBDFF:0x0083}
+{0xBDFF:0x0084}
+{0xBDFF:0x0085}
+{0xBDFF:0x0086}
+{0xBDFF:0x0087}
+{0xBDFF:0x0088}
+{0xBDFF:0x0089}
+C’est presque frustrant : j’ai beau essayer tous[0x000A]les styles, tout me va à ravir[0xE07F]!
+Mon objectif, c’est de réussir à représenter[0x000A]tous les Pokémon à travers la coiffure.

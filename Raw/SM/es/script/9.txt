@@ -1,0 +1,10 @@
+Sí
+No
+{0x0206,0x0008,0xE07F} $
+¿Quieres guardar la partida?
+Guardando...[0x000A]No apagues la consola.
+Se ha guardado la partida.
+Ya hay una partida guardada, por lo que no[0x000A]es posible guardar ahora.{0xBE01}[0x000A]Para obtener más información, consulta el[0x000A]manual de instrucciones.
+No se ha podido guardar la partida.
+Has recibido {0x0207,0x0002,0xE07F} $.
+Has obtenido {0x1702,0x0001}{0x0101,0x0001}.

@@ -1,0 +1,10 @@
+ui_msg_xmenu_timeline_weather_00=Annonce météo :[0x000A]Orages dans les Terres Sauvages !
+ui_msg_xmenu_timeline_weather_01=Annonce météo :[0x000A]Blizzard dans les Terres Sauvages !
+ui_msg_xmenu_timeline_weather_02=Annonce météo :[0x000A]Tempête de sable dans les Terres Sauvages !
+ui_msg_xmenu_timeline_weather_03=Annonce météo :[0x000A]Brume dans les Terres Sauvages !
+ui_msg_xmenu_timeline_suana_00=Un Pokémon Dynamax a été aperçu[0x000A]dans les Terres Sauvages !
+ui_msg_xmenu_timeline_pokejob_00=Un Pokémon est revenu de son Poké Service !
+ui_msg_xmenu_timeline_camp_00=Vous ne pouvez pas camper ici.
+ui_msg_xmenu_timeline_update_00={0xBDFF:0x0007}
+ui_msg_xmenu_timeline_communication_00=D’autres joueurs souhaitent vous contacter[0x000A]via Comm-Y !
+ui_msg_xmenu_timeline_info_00=Voir la Carte

@@ -1,0 +1,7 @@
+main_event_0240_rival_01=Sag mal, {0x0100,0x0000}...{0xBE01}[0x000A]Für einen echten Trainer ist die {0xFF00,0x0006}Arena-Challenge{0xFF00,0x0000}[0x000A]doch eigentlich ein Muss, oder?{0x0114,0x0005}
+main_event_0240_select_01=Die Arena-Challenge?
+main_event_0240_select_02=Was ist das?
+main_event_0240_rival_02=Du weißt nicht, was die Arena-Challenge ist?!{0xBE01}[0x000A]Na, das ist dieser riesige Wettbewerb,[0x000A]der einmal im Jahr stattfindet!{0xBE01}[0x000A]Der Gewinner hat gute Chancen, am Ende[0x000A]gegen den Champ antreten zu dürfen.{0x0114,0x0005}
+main_event_0240_rival_03=Um sich für die Teilnahme zu qualifizieren,[0x000A]braucht man allerdings einen Empfehlungsbrief.{0xBE01}[0x000A]Delion könnte mir jederzeit einen ausstellen,[0x000A]aber leider stellt er sich quer...{0xBE01}[0x000A]Deshalb will ich jetzt die Professorin um[0x000A]Rat fragen.{0x0114,0x0005}
+main_event_0240_rival_04=Du wirst doch bestimmt auch an der[0x000A]Arena-Challenge teilnehmen, oder?{0xBE01}[0x000A]Dann könnten wir uns beide gegenseitig[0x000A]anspornen. Wie echte Rivalen!{0x0114,0x0005}
+main_event_0240_rival_05=Die Professorin wohnt am Ende von Route 2.[0x000A]Vergiss nicht, unterwegs ordentlich zu trainieren!{0x0114,0x0005}

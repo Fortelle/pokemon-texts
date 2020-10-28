@@ -1,0 +1,9 @@
+main_event_1435_leader_01=Hey! {0x1003}{0x0100,0x0000}!{0x0114,0x0017}
+main_event_1435_leader_02=Sorry to hold you up, but there[0x000A]was something I forgot.{0x0114,0x0017}
+main_event_1435_leader_04=First off, as a sign of my respect...[0x000A]Here. TM99. It contains the move Breaking Swipe.{0x0114,0x0017}
+main_event_1435_leader_05=And secondly...here’s the Dragon-type Gym[0x000A]uniform, the mark of true strength!{0x0114,0x0017}
+main_event_1435_leader_03=Number {0x01C4,0x0001}, Challenger {0x0100,0x0000}!{0xBE01}[0x000A]You’ve completed the Gym Challenge!{0xBE01}[0x000A]Good on you, kid. Now, prove your strength to[0x000A]the whole region at the Champion Cup!{0x0114,0x0017}
+main_event_1435_rivl_01=Raihan! I’m here to see just how good you are!{0x0114,0x0005}
+main_event_1435_leader_06=There you are, Leon’s little brother!{0xBE01}[0x000A]Don’t worry—I’ll give you a battle that’ll make[0x000A]you want to quit the Gym Challenge altogether!{0x0114,0x0017}
+main_event_1435_rivl_02=I’ve tried out lots of different strategies, and I’ve[0x000A]made up my mind about how I want to battle.{0xBE00}[0x000A]I’m not gonna lose!{0xBE01}[0x000A]I’m gonna beat you, and {0x0100,0x0000}, and[0x000A]even Lee!{0x0114,0x0005}
+main_event_1435_leader_07=I’ll be seeing you, {0x0100,0x0000}![0x000A]Let’s have another epic battle someday!{0xBE01}[0x000A]If you’re feeling up to it, you might want to go[0x000A]train hard in the Wild Area!{0x0114,0x0017}

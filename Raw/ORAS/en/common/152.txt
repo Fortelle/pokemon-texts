@@ -1,0 +1,207 @@
+{0x0102,0x0000}
+{0x0101,0x0000}
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+-
+Lv.
+{0x0202,0x0000}
+DEX NO.
+{0x0202,0x0000}
+???
+HP
+{0x0202,0x0000}
+/
+{0x0202,0x0000}
+ATTACK
+{0x0202,0x0000}
+DEFENSE
+{0x0202,0x0000}
+SP. ATK
+{0x0202,0x0000}
+SP. DEF
+{0x0202,0x0000}
+SPEED
+{0x0202,0x0000}
+NATURE
+{0x0108,0x0000}
+ABILITY
+{0x0106,0x0000}
+ITEM
+{0x0109,0x0000}
+MOVES LEARNED
+{0x0107,0x0000}
+{0x0107,0x0000}
+{0x0107,0x0000}
+{0x0107,0x0000}
+{0x010B,0x0000}
+BATTLE BOX
+DEPOSIT
+WITHDRAW
+MOVE
+ITEM
+SUMMARY
+MARKING
+SWITCH BOX
+WALLPAPER
+NAME
+SCENERY 1
+SCENERY 2
+SCENERY 3
+MISC.
+SPECIAL
+FOREST
+CITY
+DESERT
+SAVANNA
+CRAG
+VOLCANO
+SNOW
+CAVE
+BEACH
+SEAFLOOR
+RIVER
+SKY
+POKÉ CENTER
+MACHINE
+CHECKS
+SIMPLE
+SPECIAL 1
+SPECIAL 2
+SPECIAL 3
+SPECIAL 4
+SPECIAL 5
+SPECIAL 6
+SPECIAL 7
+SPECIAL 8
+NEXT
+PREVIOUS
+BACK
+CONFIRM
+BAG
+GIVE
+RELEASE
+CANCEL
+YES
+NO
+Continue operations?
+{0x0102,0x0000} is selected.
+{0xBDFF:0x0057}
+You need to keep a healthy Pokémon!
+Place it in which Box?
+The Box is full.
+Your party is full!
+What do you want to do?
+Jump to where?
+Please pick a theme.
+Pick a wallpaper.
+Take th{0x1101,0x0000,0x0102}ise {0x0109,0x0000}?
+The Bag is full.
+Placed the {0x0109,0x0000} in the Bag.
+A Pokémon Egg cannot hold an item.
+Choose a mark.
+Release this Pokémon?
+{0x0102,0x0000} was released.
+Bye-bye, {0x0102,0x0000}!
+{0x0109,0x0000} selected.
+It can hold an item.
+You cannot release a Pokémon Egg.
+Your Battle Box is locked.[0x000A]You cannot move your Pokémon.
+You cannot release the fused Kyurem.
+{0x0102,0x0000} came back!
+Was it worried about you?
+You cannot change it in the Battle Box!
+{0x0102,0x0000} is selected.
+TRADE
+DEPOSIT
+CANCEL
+It has learned an HM move.[0x000A]You cannot let it leave your party.
+You need that Pokémon to[0x000A]get through your adventure!
+The Pokémon cannot be traded.
+Offer the Pokémon for trade?
+YES
+NO
+You cannot offer a Pokémon Egg in trade.
+{0x0201,0x0000}
+You cannot include a Pokémon Egg!
+Your Battle Box is locked.[0x000A]You cannot move your Pokémon.
+Your Battle Box is locked.[0x000A]Items cannot be given or taken.
+You can register Pokémon you use in battle.
+Your Battle Box is locked.[0x000A]You cannot mark your Pokémon.
+RESET
+SEARCH
+CANCEL
+Pokémon
+{0x0101,0x0000}
+Type 1
+{0x0103,0x0000}
+Type 2
+{0x0103,0x0000}
+Move
+{0x0107,0x0000}
+TMs & HMs
+{0x0107,0x0000}
+Ability
+{0x0106,0x0000}
+Nature
+{0x0108,0x0000}
+Gender
+[0xE08E]
+[0xE08F]
+Unknown
+-
+Held Item
+{0x0109,0x0000}
+Mark
+Holding Item
+Not Holding Item
+Choose the conditions, and press “SEARCH”[0x000A]to turn on the filter.
+Filter Pokémon
+Choose the first letter of the Pokémon’s name.
+Choose a Pokémon.
+Choose Type 1.
+Choose Type 2.
+Choose the first letter of the move.
+You can check whether any Pokémon can use[0x000A]the selected TM or HM.
+Please choose a Nature.
+Please choose the first letter of an Ability.
+Please choose a gender.
+You can check Pokémon with items.
+You can check Pokémon with marks.
+{0x0101,0x0000}
+{0x0103,0x0001}
+{0x0103,0x0002}
+{0xBDFF:0x00AC}
+{0x0107,0x0000}
+{0x0108,0x0000}
+{0x0106,0x0000}
+Every stat grows in a balanced way.
+Attack grows faster.[0x000A]Defense grows slower.
+Attack grows faster.[0x000A]Speed grows slower.
+Attack grows faster.[0x000A]Sp. Atk grows slower.
+Attack grows faster.[0x000A]Sp. Def grows slower.
+Defense grows faster.[0x000A]Attack grows slower.
+Every stat grows in a balanced way.
+Defense grows faster.[0x000A]Speed grows slower.
+Defense grows faster.[0x000A]Sp. Atk grows slower.
+Defense grows faster.[0x000A]Sp. Def grows slower.
+Speed grows faster.[0x000A]Attack grows slower.
+Speed grows faster.[0x000A]Defense grows slower.
+Every stat grows in a balanced way.
+Speed grows faster.[0x000A]Sp. Atk grows slower.
+Speed grows faster.[0x000A]Sp. Def grows slower.
+Sp. Atk grows faster.[0x000A]Attack grows slower.
+Sp. Atk grows faster.[0x000A]Defense grows slower.
+Sp. Atk grows faster.[0x000A]Speed grows slower.
+Every stat grows in a balanced way.
+Sp. Atk grows faster.[0x000A]Sp. Def grows slower.
+Sp. Def grows faster.[0x000A]Attack grows slower.
+Sp. Def grows faster.[0x000A]Defense grows slower.
+Sp. Def grows faster.[0x000A]Speed grows slower.
+Sp. Def grows faster.[0x000A]Sp. Atk grows slower.
+Every stat grows in a balanced way.
+It’s a special Pokémon.[0x000A]You cannot trade it!
+Please choose a move.
+Please choose an Ability.
+The Pokémon has a special item.[0x000A]You cannot offer it for trade.
+OT
+{0x0100,0x0000}

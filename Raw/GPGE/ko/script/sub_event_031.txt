@@ -1,0 +1,9 @@
+msg_sub031_bigman_01=흐아암~! 햇볕을 쬐다가[0x000A]나도 모르게 잠들어버렸어!
+msg_sub031_bigman_02=...이상한 꿈을 꿨어
+msg_sub031_bigman_03=길 잃은 영혼이 불꽃으로[0x000A]변하더니 주변을 맴돌았어!{0xBE01}[0x000A]...어라? 나도 모르는 사이에[0x000A]기술머신을 가지고 있었네?
+msg_sub031_bigman_04=으음...[0x000A]뭔가 불길해!{0xBE00}[0x000A]이거 너한테 줄게!
+msg_sub031_bigman_05=기술머신11의 안에는...[0x000A]도깨비불이 있어... 우우우~
+msg_bigman1_01_p01_field_t002={0xBDFF:0x0005}
+msg_bigman1_01_p02_field_t002={0xBDFF:0x0006}
+msg_bigman1_01_p03_field_t002={0xBDFF:0x0007}
+msg_bigman1_01_p04_field_t002={0xBDFF:0x0008}

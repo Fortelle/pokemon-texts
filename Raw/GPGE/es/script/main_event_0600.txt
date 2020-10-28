@@ -1,0 +1,13 @@
+msg_main0600_oldwoman_01={0xBDFF:0x0000}
+msg_main0600_sys_01_old={0xBDFF:0x0001}
+msg_main0600_oldwoman_02={0xBDFF:0x0002}
+msg_main0600_oldwoman_03={0xBDFF:0x0003}
+msg_main0600_rock_01={0xFF00,0x0009}Brock:{0xFF00,0x0000} ¡Hola! No esperaba encontrarte por aquí.
+msg_main0600_rock_02=Me pillas volviendo del Gimnasio de Ciudad[0x000A]Azulona.{0xBE01}[0x000A]Es importante que los líderes estemos en[0x000A]contacto y nos pongamos al día de vez en{0xBE00}[0x000A]cuando.
+msg_main0600_rock_03=Pero, por algún motivo, Erika no ha podido[0x000A]atenderme hoy.
+msg_main0600_rock_04=Así que ahora no sé qué hacer con estos Rokikos[0x000A]que le había traído. Toma, ¡te los doy!
+msg_main0600_sys_01=Brock te ha entregado una bolsa de Rokikos.
+msg_main0600_rock_05=Los Rokikos te dejan la garganta muy seca, así[0x000A]que será mejor que te los tomes con un Té.
+msg_main0600_sys_02=Brock te ha entregado una taza de {0xFF00,0x0006}Té{0xFF00,0x0000}.
+msg_main0600_rock_07=¡Ahí va! Acabo de caer en que iba a compartir[0x000A]mi Té con cierto guarda sediento, pero ahora te{0xBE00}[0x000A]lo he dado todo a ti...{0xBE01}[0x000A]En fin, ¡a lo hecho, pecho!
+msg_main0600_rock_06=Por cierto, me consta que estás enfrentándote a[0x000A]todos los Líderes de Gimnasio de la región.{0xBE01}[0x000A]¡Te deseo mucha suerte!

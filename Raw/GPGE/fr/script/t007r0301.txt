@@ -1,0 +1,8 @@
+msg_t007r0301_cook_01=Salut ! On fait une p’tite pause, là.
+msg_t007r0301_middlef_01=Mes Pokémon sont faibles, alors je vais souvent[0x000A]au centre commercial pour acheter de quoi{0xBE00}[0x000A]les requinquer.
+msg_t007r0301_middlem_01=Pssst ! Il paraît que la salle d’arcade comprend[0x000A]des sous-sols...
+msg_t007r0301_fat_01=Miam... Le curry, c’est la vie !
+msg_middlem1_01_p01_t007_r0501=Ah, je me suis tellement amusé à la salle d’arcade[0x000A]que j’en ai mal aux mains !{0xBE01}[0x000A]Les jeux ont bien évolué, quand on y pense ![0x000A]Ils sont devenus tellement fun que je sais plus{0xBE00}[0x000A]où donner de la tête !
+msg_middlem1_01_p02_t007_r0501={0xBDFF:0x0005}
+msg_middlem1_01_p03_t007_r0501={0xBDFF:0x0006}
+msg_middlem1_01_p04_t007_r0501={0xBDFF:0x0007}

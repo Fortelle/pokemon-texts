@@ -1,0 +1,60 @@
+Bienvenue[0xE07F]!{0xBE01}[0x000A]La Synchro-Jeu est un système qui[0x000A]permet de synchroniser le site Internet{0xBE00}[0x000A]du Pokémon Global Link, exploité par{0xBE00}[0x000A]The Pokémon Company et ses sociétés{0xBE00}[0x000A]affiliées, et votre jeu Pokémon Rubis Oméga{0xBE00}[0x000A]ou Pokémon Saphir Alpha.{0xBE01}[0x000A]Générez votre ID de Synchro-Jeu dans[0x000A]Pokémon Rubis Oméga ou{0xBE00}[0x000A]Pokémon Saphir Alpha, et enregistrez-le{0xBE00}[0x000A]dans le Pokémon Global Link pour profiter{0xBE00}[0x000A]de nombreux services.{0xBE01}[0x000A]Pour en savoir plus, choisissez «[0xE07F]Explications[0xE07F]».{0xBE01}
+Synchronisation impossible.{0xBE01}[0x000A]L’ID de Synchro-Jeu n’est pas enregistré[0x000A]sur le Pokémon Global Link.{0xBE01}[0x000A]Veuillez vous connecter au site Internet[0x000A]du Pokémon Global Link et y enregistrer{0xBE00}[0x000A]votre ID de Synchro-Jeu.{0xBE01}
+Voulez-vous générer votre ID pour[0x000A]commencer à utiliser la Synchro-Jeu[0xE07F]?
+Connexion en cours[0xE08D][0x000A]Veuillez patienter.
+Sauvegarde en cours[0xE08D][0x000A]Ne pas éteindre la console.
+Votre ID de Synchro-Jeu a été généré[0xE07F]!{0xBE01}[0x000A]Vous pouvez l’enregistrer sur le site Internet[0x000A]du Pokémon Global Link.{0xBE01}[0x000A]Une fois l’enregistrement effectué,[0x000A]il sera possible d’utiliser la Synchro-Jeu.{0xBE01}[0x000A]Notez que les paramètres actuels sont :[0x000A]Synchronisation automatique — Activée{0xBE00}[0x000A]Poké Miles — Tout envoyer{0xBE01}[0x000A]Vous pouvez les modifier à tout moment[0x000A]dans le menu «[0xE07F]Changer les paramètres[0xE07F]».{0xBE01}[0x000A]Pour plus de détails sur l’utilisation de la[0x000A]Synchro-Jeu, veuillez consulter la section{0xBE00}[0x000A]«[0xE07F]Explications[0xE07F]».{0xBE01}
+Changement des paramètres effectué[0xE07F]!{0xBE01}
+{0xBDFF:0x0007}
+Le serveur est surchargé et la synchronisation[0x000A]a été interrompue.{0xBE01}[0x000A]Veuillez patienter quelques instants, puis[0x000A]réessayez.
+Le serveur est surchargé et la génération de[0x000A]votre ID de Synchro-Jeu a été interrompue.{0xBE01}[0x000A]Veuillez patienter quelques instants, puis[0x000A]réessayez.
+{0xBDFF:0x000A}
+Synchronisation en cours[0xE08D][0x000A]Ne pas éteindre la console.
+{0xBDFF:0x000C}
+Synchronisation effectuée[0xE07F]!
+{0xBDFF:0x000E}
+Oui
+Non
+Synchro-Jeu
+Générer votre ID de Synchro-Jeu
+Explications
+Synchroniser
+Changer les paramètres
+{0xBDFF:0x0016}
+Qu’est-ce que la Synchro-Jeu[0xE07F]?
+Préparation de la Synchro-Jeu
+Qu’est-ce que la Synchro-Jeu[0xE07F]?
+Préparation de la Synchro-Jeu
+Comment utiliser la Synchro-Jeu
+Changer les paramètres
+Synchronisation automatique
+Activée
+Désactivée
+Poké Miles
+Tout envoyer
+Ne pas envoyer
+Explications sur la Synchro-Jeu
+ID de Synchro-Jeu
+Connectez-vous au site Internet du Pokémon Global Link,[0x000A]exploité par The Pokémon Company et ses sociétés[0x000A]affiliées, pour y enregistrer l’ID de Synchro-Jeu ci-dessus[0x000A]pour pouvoir utiliser la Synchro-Jeu.[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+— Historique de la Synchro-Jeu —[0x000A]Synchro-Jeu effectuée le {0xFF00,0x0002}{0x0201,0x0002}/{0x0201,0x0001}/20{0x0201,0x0000}{0xFF00,0x0000} à {0xFF00,0x0002}{0x0201,0x0003}:{0x0201,0x0004}{0xFF00,0x0000}[0x000A]{0xFF00,0x0002}{0x0202,0x0005}{0xFF00,0x0000} colis reçu{0x1101,0x0005,0x0100}s.[0x000A][0x000A]— Pokémon Global Link —[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+{0x0200,0x0000}/{0x0200,0x0001}
+L’ID de Synchro-Jeu affiché ci-dessus[0x000A]est enregistré sur le Pokémon Global Link.[0x000A][0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+— Historique de la Synchro-Jeu —[0x000A]Synchro-Jeu effectuée le {0xFF00,0x0002}{0x0201,0x0002}/{0x0201,0x0001}/20{0x0201,0x0000}{0xFF00,0x0000} à {0xFF00,0x0002}{0x0201,0x0003}:{0x0201,0x0004}{0xFF00,0x0000}[0x000A][0x000A]— Pokémon Global Link —[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+Il s’agit d’un système permettant de[0x000A]synchroniser Pokémon Rubis Oméga[0x000A]ou Pokémon Saphir Alpha avec le site[0x000A]Internet du Pokémon Global Link :[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+Vous pouvez utiliser la Synchro-Jeu pour[0x000A]partager votre sauvegarde avec le Pokémon[0x000A]Global Link.
+Sur le Pokémon Global Link, vous pouvez[0x000A]consulter l’état de votre sauvegarde de[0x000A]Pokémon Rubis Oméga ou de Pokémon[0x000A]Saphir Alpha, ou bien jouer à des jeux[0x000A]qui vous feront gagner des objets.[0x000A]Ces objets pourront ensuite être envoyés[0x000A]dans Pokémon Rubis Oméga ou Pokémon[0x000A]Saphir Alpha.
+Pour utiliser la Synchro-Jeu, vous devez :[0x000A][0x000A]1) Sélectionner[0x000A]«[0xE07F]Générer votre ID de Synchro-Jeu[0xE07F]»[0x000A]dans le menu de la Synchro-Jeu.
+2) Vous connecter sur le site Internet du[0x000A]Pokémon Global Link[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/[0x000A]{0xFF00,0x0000}et y enregistrer cet ID de Synchro-Jeu.[0x000A][0x000A]Une fois ceci effectué, la Synchro-Jeu[0x000A]est prête à être utilisée[0xE07F]!
+Veuillez noter que pour enregistrer votre ID,[0x000A]vous aurez besoin d’un compte sur le site[0x000A]Internet du Pokémon Global Link, exploité[0x000A]par The Pokémon Company et ses sociétés[0x000A]affiliées.[0x000A]Pour plus d’informations, veuillez consulter[0x000A]le site Internet du Pokémon Global Link.
+Il s’agit d’un système permettant de[0x000A]synchroniser Pokémon Rubis Oméga[0x000A]ou Pokémon Saphir Alpha avec le site[0x000A]Internet du Pokémon Global Link :[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+Vous pouvez utiliser la Synchro-Jeu pour[0x000A]partager votre sauvegarde avec le Pokémon[0x000A]Global Link.
+Sur le Pokémon Global Link, vous pouvez[0x000A]consulter l’état de votre sauvegarde de[0x000A]Pokémon Rubis Oméga ou de Pokémon[0x000A]Saphir Alpha, ou bien jouer à des jeux[0x000A]qui vous feront gagner des objets.[0x000A]Ces objets pourront ensuite être envoyés[0x000A]dans Pokémon Rubis Oméga ou Pokémon[0x000A]Saphir Alpha.
+Vous pouvez vous connecter sur le site[0x000A]Internet du Pokémon Global Link[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/[0x000A]{0xFF00,0x0000}et y enregistrer votre ID de Synchro-Jeu.
+Veuillez noter que pour enregistrer votre ID,[0x000A]vous aurez besoin d’un compte sur le site[0x000A]Internet du Pokémon Global Link, exploité[0x000A]par The Pokémon Company et ses sociétés[0x000A]affiliées.[0x000A]Pour plus d’informations, veuillez consulter[0x000A]le site Internet du Pokémon Global Link.
+Choisissez «[0xE07F]Synchroniser[0xE07F]» pour vous[0x000A]connecter au Pokémon Global Link.[0x000A]Attention : si vous n’avez pas enregistré[0x000A]votre ID de Synchro-Jeu sur le[0x000A]Pokémon Global Link, vous ne pourrez pas[0x000A]vous connecter et vous amuser sur le site.
+Si vous activez la synchronisation automatique[0x000A]dans le menu «[0xE07F]Changer les paramètres[0xE07F]»,[0x000A]celle-ci se fera sans intervention de votre part[0x000A]à chaque sauvegarde.[0x000A]Le PSS (système de recherche de joueurs)[0x000A]doit être connecté à Internet pour que[0x000A]cette option fonctionne.
+Vous pouvez utiliser les Poké Miles que[0x000A]vous avez accumulés en les envoyant au[0x000A]Pokémon Global Link.[0x000A]Choisissez dans les paramètres l’option[0x000A]«[0xE07F]Tout envoyer[0xE07F]» ou «[0xE07F]Ne pas envoyer[0xE07F]».
+Lorsque vous recevez des objets obtenus sur[0x000A]le Pokémon Global Link via la Synchro-Jeu,[0x000A]une livreuse apparaît dans les Centres[0x000A]Pokémon. Parlez-lui pour obtenir vos objets.
+Vous pouvez aussi envoyer les photos prises[0x000A]durant un Concours Pokémon Live[0xE07F]![0x000A]Quand vous prenez une photo, souvenez-vous[0x000A]que vous pouvez utiliser la Synchro-Jeu[0xE07F]!
+Attention : vous ne pouvez sauvegarder sur[0x000A]la carte SD de votre console qu’une seule[0x000A]photo à envoyer via la Synchro-Jeu.[0x000A]Si vous prenez une autre photo avant d’avoir[0x000A]envoyé la précédente, cette dernière sera[0x000A]remplacée.
+{0xBDFF:0x003B}

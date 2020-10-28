@@ -1,0 +1,15 @@
+main_event_0770_11=Hallo, Challenger! Bist du hier, um Arenaleiter[0x000A]Kabu herauszufordern?{0xBE01}[0x000A]Dann brauchst du erst den Pflanzen-Orden aus[0x000A]Turffield und den Wasser-Orden aus Keelton.
+main_event_0770_12=Hallo, Arena-Challenger! Wie ich sehe, hast du[0x000A]dir schon zwei Orden verdient. Hut ab!{0xBE01}[0x000A]Wenn du Kabu suchst, der widmet sich gerade[0x000A]seinem Training in der Galar-Mine 2.{0xBE01}[0x000A]Von Keelton kommst du am leichtesten dorthin.
+main_event_0770_01=Hallo, Arena-Challenger! Schön, dich zu sehen.{0xBE01}[0x000A]Es gibt nicht viele, die es weit genug bringen,[0x000A]um Kabu herauszufordern.{0xBE01}[0x000A]Willst du sofort einen Versuch wagen?
+main_event_0770_select_01=Ja, will ich!
+main_event_0770_select_02=Nein, noch nicht.
+main_event_0770_09=In Ordnung! Du weißt ja, wo du mich findest,[0x000A]wenn du bereit bist.
+main_event_0770_07=Wenn du dich an der Arena-Mission versuchen[0x000A]willst, musst du erst in deine Uniform schlüpfen.
+main_event_0770_08=Herzlichen Glückwunsch zur bestandenen[0x000A]Arena-Mission. Das war sehr gute Arbeit!{0xBE01}[0x000A]Arenaleiter Kabu erwartet dich bereits.{0xBE01}[0x000A]Ich bin gespannt, in wem von euch der[0x000A]Siegeswille heißer brennen wird!
+main_event_0770_02=Die Arena-Mission vom Typ Feuer ist etwas[0x000A]ungewöhnlich. Hier entlang bitte!
+main_event_0770_03=Zur Feier des Tages überreiche ich dir diese TM.[0x000A]Bitte schön!
+main_event_0770_10=Hier hast du außerdem eine Nachbildung von[0x000A]Kabus Uniform...
+main_event_0770_04=Es gibt nicht viele, die es weit genug bringen,[0x000A]um Kabu herauszufordern.{0xBE01}[0x000A]Und nur den allerwenigsten gelingt es, ihn auch[0x000A]zu besiegen. Ich bin sehr gespannt darauf, wie du{0xBE00}[0x000A]dich im Verlauf der Arena-Challenge schlägst!
+main_event_0770_05=Du willst dich an der Arena-Mission versuchen,[0x000A]oder? Dann sammle fleißig Punkte!
+main_event_0770_06={0xBDFF:0x000D}
+main_event_0770_rival_01=Hey, {0x0100,0x0000}! Bei meinem Kampf gegen[0x000A]Kabu sind echt die Funken geflogen!{0x0114,0x0005}

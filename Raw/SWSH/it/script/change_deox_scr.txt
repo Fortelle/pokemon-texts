@@ -1,0 +1,9 @@
+msg_deoxys_01=Deoxys sta reagendo al meteorite...{0xBE01}[0x000A]Vuoi che gli si avvicini?
+msg_deoxys_02=Quale Deoxys vuoi far avvicinare al meteorite?
+msg_deoxys_03=Questo Pokémon non reagisce al meteorite.
+msg_deoxys_04=L’Uovo non reagisce al meteorite.
+msg_deoxys_05={0x0102,0x0000} ha assunto la Forma Normale!
+msg_deoxys_06={0x0102,0x0000} ha assunto la Forma Attacco!
+msg_deoxys_07={0x0102,0x0000} ha assunto la Forma Difesa!
+msg_deoxys_08={0x0102,0x0000} ha assunto la Forma Velocità!
+msg_deoxys_09=È un misterioso meteorite caduto dallo spazio...

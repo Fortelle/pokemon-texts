@@ -1,0 +1,12 @@
+main_event_1340_sister_01=Aaah... Basta! Silenzio!{0x0114,0x000D}
+main_event_1340_sister_02=Ah! {0x0100,0x0000}...{0x0114,0x000D}
+main_event_1340_sister_03=Scusa!{0xBE01}[0x000A]Quelli di Spikeville dicono di aver chiuso[0x000A]la saracinesca per fare un favore a me...{0xBE01}[0x000A]Che babbei!{0x0114,0x000D}
+main_event_1340_trainer1_01=Spikeville va sempre più in rovina...{0xBE01}[0x000A]E il Capopalestra Ginepro che fa?[0x000A]Si limita a dire che si sistemerà tutto!{0x0114,0x0043}
+main_event_1340_trainer2_01=Per questo... abbiamo pensato di travestirci[0x000A]da Team Yell e ostacolare tutti gli Sfidapalestre!{0x0114,0x0044}
+main_event_1340_trainer1_02=Se avessimo tolto di mezzo gli altri concorrenti,[0x000A]la signorina sarebbe arrivata di sicuro fino alla{0xBE00}[0x000A]Coppa Campione!!{0x0114,0x0043}
+main_event_1340_trainer2_02=E avrebbe avuto più probabilità di diventare[0x000A]la nuova Campionessa...{0x0114,0x0044}
+main_event_1340_sister_04=Che vergogna![0x000A]Questo lo chiamate fare il tifo?{0x0114,0x000D}
+main_event_1340_sister_05=Non preoccuparti, {0x0100,0x0000},[0x000A]non c’è bisogno che ti registri!{0xBE01}[0x000A]Vai! Sfida il Capopalestra!{0x0114,0x000D}
+main_event_1340_trainer1_03=Mamma mia, quanto sono lunghe le ramanzine[0x000A]della signorina...{0xBE01}[0x000A]Una volta ha fatto addormentare il suo Morpeko[0x000A]a furia di rimproveri...{0x0114,0x0043}
+main_event_1340_trainer2_03=Ginepro sta dando il meglio con la musica![0x000A]Senti che coro, i suoi Pokémon!{0x0114,0x0044}
+main_event_1340_trainer3_01=Farò tremare lo stadio col mio tifo![0x000A]Gi-ne-pro vincerà! Il più grande sarà!{0x0114,0x005E}

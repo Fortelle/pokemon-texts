@@ -1,0 +1,18 @@
+Awaiting the other player’s decision...[0x000A]Please wait.
+The last battle cannot be recorded.
+Would you like to save the last battle[0x000A]as your Battle Video?
+The last battle will not be saved.[0x000A]OK?
+Saving your Battle Video.[0x000A]Please wait.
+The Battle Video has been saved.
+The Battle Video records are now full!
+Please note that you can’t save any more[0x000A]Battle Videos.
+There was an error.[0x000A]The Battle Video couldn’t be saved.
+{0xBDFF:0x0009}
+You cannot record videos[0x000A]with this Trainer... Please wait.
+You cannot record videos[0x000A]with this Trainer.
+YES
+NO
+TIME LIMIT
+{0x0201,0x0000}:{0x0201,0x0001}
+The Battle Video can’t be saved,[0x000A]because there’s no space available.
+The Battle Video can’t be saved,[0x000A]because the SD Card is full.

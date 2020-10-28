@@ -1,0 +1,11 @@
+msg_main0200_scientist_01=Halt! Stopp! Finger weg!
+msg_main0200_scientist_05=Ich habe diese Fossilien gefunden, also gehören[0x000A]sie auch mir.
+msg_main0200_scientist_06=Wer zuerst kommt, mahlt zuerst!
+msg_science_02_02={0xBDFF:0x0003}
+msg_main0200_scientist_02=Na schön, teilen wir. Es gibt ein Fossil pro Kopf.[0x000A]Aber bloß nicht gierig werden!
+msg_main0200_sys_01=Entscheidest du dich für das Domfossil?
+msg_main0200_sys_02=Entscheidest du dich für das Helixfossil?
+msg_main0200_sys_03=Du erhältst das Helixfossil!
+msg_main0200_sys_04=Du erhältst das Domfossil!
+msg_main0200_scientist_03=Nun gut, dann nehme ich das hier.
+msg_main0200_scientist_04=Auf der fernen Zinnoberinsel steht ein Pokémon-[0x000A]Labor. Es heißt, man versuche dort, Fossilien in{0xBE00}[0x000A]Pokémon zurückzuverwandeln...

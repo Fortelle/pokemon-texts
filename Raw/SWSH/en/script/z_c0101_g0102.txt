@@ -1,0 +1,8 @@
+msg_ui_fire_00={0x0189,0x0000}
+msg_ui_fire_01={0xBDFF:0x0001}
+msg_ui_fire_02={0x0200,0x0000}
+msg_ui_fire_03=Points
+msg_ui_fire_06=Point
+msg_ui_fire_07=Points
+msg_ui_fire_04={0xBDFF:0x0006}
+msg_ui_fire_05=There {0x1101,0x0000,0x0302}isare {0x0200,0x0000} more point{0x1101,0x0000,0x0100}s needed to clear the Fire[0x000A]Gym mission![0x000A]Keep that fire burning! (Gym Leader Kabu)

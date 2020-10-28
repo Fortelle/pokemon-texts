@@ -1,0 +1,5 @@
+msg_t009r0202_diary_01=日记　７月５日{0xBE01}[0x000A]我们在丛林的深处[0x000A]发现了新种宝可梦。
+msg_t009r0202_diary_02=日记　７月10日[0x000A]我给新发现的宝可梦{0xBE00}[0x000A]取名为梦幻。
+msg_t009r0202_switch_01={0xBDFF:0x0002}
+msg_t009r0202_switch_02={0xBDFF:0x0003}
+msg_t009r0202_switch_03={0xBDFF:0x0004}

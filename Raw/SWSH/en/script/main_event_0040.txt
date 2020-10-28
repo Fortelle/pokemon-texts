@@ -1,0 +1,14 @@
+main_event_0040_rival_01=Mum! Is he here?!{0x0114,0x0005}
+main_event_0040_rivalmama_01=There you are at last, Hop!
+main_event_0040_rivalmama_02=Oh, and you’ve brought along {0x0100,0x0000}.[0x000A]Hello, dear.
+main_event_0040_rivalmama_03=Oh, and you’ve brought along {0x0100,0x0000}.[0x000A]Hello, dear.
+main_event_0040_rival_02=Yeah, yeah, but where’s Lee?[0x000A]Have you got him crammed in a cupboard?{0x0114,0x0005}
+main_event_0040_rivalmama_04=He’s still not here yet! For the hundredth time...[0x000A]Honestly, Hop, you must learn some patience!
+main_event_0040_rivalmama_05=He’s probably only just arrived at the station[0x000A]in Wedgehurst.
+main_event_0040_rival_03=Then that’s where I’m going![0x000A]You know Lee is hopeless with directions.{0xBE00}[0x000A]I’ll make sure he doesn’t get lost on the way!{0x0114,0x0005}
+main_event_0040_rivalmama_06=Oh, will you?[0x000A]Yes, that probably is for the best...
+main_event_0040_rival_04=You’ve got to come with, {0x0100,0x0000}.[0x000A]You’ve still never met my big bro, right?{0xBE01}[0x000A]You can’t miss out on your chance to meet the[0x000A]undefeated Champion!{0x0114,0x0005}
+main_event_0040_rival_05=I’ll wait for you out on the route!{0x0114,0x0005}
+main_event_0040_rivalmama_07=Go on with Hop to pick up Leon, won’t you,[0x000A]{0x0100,0x0000}? I know you’re the reliable sort.
+main_event_0040_rivalmama_08=Go on with Hop to pick up Leon, won’t you,[0x000A]{0x0100,0x0000}? I know you’re the reliable sort.
+main_event_0040_rivalmama_09=I’ll have everything ready for a barbecue in the[0x000A]garden by the time you’re all back!

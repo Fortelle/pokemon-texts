@@ -1,0 +1,6 @@
+msg_t009r0104_bg_01=Il a l’air de faire tout frais, à l’intérieur !
+msg_t009r0104_bg_02=La machine est légèrement chaude au toucher...
+msg_t009r0104_researcher_01=Toutes les matières sont en fait un amas de[0x000A]particules microscopiques !{0xBE01}[0x000A]L’argent, c’est un peu pareil : en amassant plein[0x000A]de pièces de 1 [0xE300], on peut obtenir 10 000 [0xE300] !
+msg_t009r0104_researcher_02=Tu crois que si je me changeais en fossile,[0x000A]on me restaurerait aussi, un jour ?
+msg_t009r0104_researcher_03=Regarder un écran à longueur de temps,[0x000A]ça fatigue les yeux.{0xBE00}[0x000A]Il faut penser à faire des pauses !
+test_00={0xBDFF:0x0005}

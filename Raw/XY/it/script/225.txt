@@ -1,0 +1,184 @@
+Benvenut{0x1100,0x00FF,0x0101}oa a Villa Lotta!
+Cosa vuoi fare?
+Cosa vuoi che ti spieghi?
+Qui alla Villa Lotta offriamo un’ampia gamma[0x000A]di lotte contro diversi Allenatori.{0xBE01}[0x000A]Puoi scegliere fra diversi tipi di lotte:[0x000A]Lotta in Singolo, in Doppio, in Triplo,{0xBE00}[0x000A]a Rotazione e Multipla.{0xBE01}[0x000A]Continuerai a lottare finché non perdi.[0x000A]Il tuo scopo è accumulare più vittorie di fila.{0xBE01}[0x000A]Fai attenzione, però: se perdi anche solo[0x000A]una volta, dovrai ricominciare da capo.{0xBE01}[0x000A]Inoltre, a ogni vittoria riceverai dei PL, cioè[0x000A]dei Punti Lotta. I punti che ricevi aumentano{0xBE00}[0x000A]man mano che accumuli vittorie.{0xBE01}[0x000A]Metticela tutta!
+Per apprezzare al meglio le sfide[0x000A]offerte dalla Villa Lotta, è necessario{0xBE00}[0x000A]tenere presenti alcune regole.{0xBE01}[0x000A]Primo: i Pokémon di livello superiore[0x000A]a 50 verranno portati a 50{0xBE00}[0x000A]per tutta la durata delle lotte.{0xBE01}[0x000A]Secondo: ogni sfida richiede[0x000A]un certo numero di Pokémon, ovvero{0xBE01}[0x000A]tre Pokémon per la Lotta in Singolo,{0xBE01}[0x000A]quattro per la Lotta in Doppio,{0xBE01}[0x000A]sei per la Lotta in Triplo e{0xBE01}[0x000A]quattro per Lotta a Rotazione.{0xBE01}[0x000A]Nella Lotta Multipla, ogni Allenatore[0x000A]deve avere due Pokémon.{0xBE01}[0x000A]Terzo: tutti i Pokémon e i loro strumenti[0x000A]devono essere diversi.{0xBE01}[0x000A]Tuttavia, nella Lotta Multipla possono[0x000A]esserci doppioni fra i Pokémon o{0xBE00}[0x000A]gli strumenti dei due giocatori.
+Torna presto a trovarci!
+Che tipo di lotta vuoi affrontare?
+Vittorie consecutive: {0x0203,0x0001,0x002E}!
+Lotta in Singolo, giusto?
+Superlotta in Singolo, giusto?
+Lotta in Doppio, giusto?
+Superlotta in Doppio, giusto?
+Lotta in Triplo, giusto?
+Superlotta in Triplo, giusto?
+Lotta a Rotazione, giusto?
+Superlotta a Rotazione, giusto?
+Lotta Multipla, giusto?
+Superlotta Multipla, giusto?
+Vuoi affrontare questa sfida in link[0x000A]assieme a un amico?
+Hai scelto un tipo di lotta diverso[0x000A]dal tuo amico!{0xBE01}[0x000A]Mettetevi d’accordo e scegliete[0x000A]lo stesso tipo di lotta.
+Scegli l’Allenatore che farà coppia con te.
+Bene! Via alle Lotte in Singolo!
+Bene! Via alle Superlotte in Singolo!
+Bene! Via alle Lotte in Doppio!
+Bene! Via alle Superlotte in Doppio!
+Bene! Via alle Lotte in Triplo!
+Bene! Via alle Superlotte in Triplo!
+Bene! Via alle Lotte a Rotazione!
+Bene! Via alle Superlotte a Rotazione!
+Bene! Via alle Lotte Multiple!
+Bene! Via alle Superlotte Multiple!
+Salvataggio dei dati in corso.[0x000A]Attendi...
+Complimenti! Le Dame della lotta[0x000A]sono Allenatrici davvero temibili!{0xBE01}[0x000A]Per questa tua memorabile[0x000A]vittoria riceverai dei PL!
+Complimenti!{0xBE01}[0x000A]Le Dame della lotta danno sempre il meglio[0x000A]di sé e non è facile sconfiggerle!{0xBE00}[0x000A]Per la memorabile vittoria riceverai dei PL!
+{0x0100,0x0000} riceve {0x0201,0x0005} PL!
+Inoltre, adesso puoi cimentarti[0x000A]nelle Superlotte in Singolo.
+Inoltre, adesso puoi cimentarti[0x000A]nelle Superlotte in Doppio.
+Inoltre, adesso puoi cimentarti[0x000A]nelle Superlotte in Triplo.
+Inoltre, adesso puoi cimentarti[0x000A]nelle Superlotte a Rotazione.
+Inoltre, adesso puoi cimentarti[0x000A]nelle Superlotte Multiple.
+Grazie per aver partecipato alle[0x000A]Lotte in Singolo!{0xBE01}[0x000A]Da questo momento hanno inizio[0x000A]le Superlotte in Singolo.{0xBE00}[0x000A]Buon divertimento!
+Grazie per aver partecipato alle[0x000A]Lotte in Doppio!{0xBE01}[0x000A]Da questo momento hanno inizio[0x000A]le Superlotte in Doppio.{0xBE00}[0x000A]Buon divertimento!
+Grazie per aver partecipato alle[0x000A]Lotte in Triplo!{0xBE01}[0x000A]Da questo momento hanno inizio[0x000A]le Superlotte in Triplo.{0xBE00}[0x000A]Buon divertimento!
+Grazie per aver partecipato alle[0x000A]Lotte a Rotazione!{0xBE01}[0x000A]Da questo momento hanno inizio[0x000A]le Superlotte a Rotazione.{0xBE00}[0x000A]Buon divertimento!
+Grazie per aver partecipato alle[0x000A]Lotte Multiple!{0xBE01}[0x000A]Da questo momento hanno inizio[0x000A]le Superlotte Multiple.{0xBE00}[0x000A]Buon divertimento!
+{0x0100,0x0000}![0x000A]Che risultato straordinario!{0xBE01}[0x000A]Per celebrare questa impresa erigeremo[0x000A]un monumento nella Villa Lotta!
+La prossima lotta sarà la n° {0x0203,0x0001,0x002E}.[0x000A]Vuoi continuare?
+La prossima lotta sarà la n° {0x0203,0x0001,0x002E}.{0xBE01}[0x000A]Fai attenzione, le Dame della lotta[0x000A]sono delle temibili avversarie!{0xBE01}[0x000A]Sei pront{0x1100,0x00FF,0x0101}oa?
+Vuoi sospendere la lotta?
+La lotta è stata sospesa.
+Comunicazione in corso.
+Al momento è selezionata la musica n° {0x0200,0x0000}.[0x000A]Che musica vorresti durante le lotte?
+La musica è stata impostata.
+Voglio lottare!
+Come funziona?
+Come non detto!
+Cos’è la Villa Lotta?
+Spiegami le regole!
+Voglio lottare!
+Lotta in Singolo
+Superlotta in Singolo
+Lotta in Doppio
+Superlotta in Doppio
+Lotta in Triplo
+Superlotta in Triplo
+Lotta Multipla
+Superlotta Multipla
+Continua
+Salva il Video Lotta
+Sospendi le lotte
+Musica 1
+Musica 2
+Musica 3
+Musica 4
+Cambia musica
+Io s-sono il miglior allievo[0x000A]di {0x0134,0x0000}.{0xBE01}[0x000A]Ti prometto che ce la metterò tutta.[0x000A]Abbi fiducia in me fino alla fine!
+Salve! Sono un amico di {0x0134,0x0000}!{0xBE01}[0x000A]Ti darò una mano, ma cerca di[0x000A]collaborare anche tu, ok?
+Conosci {0x0134,0x0000}?{0xBE01}[0x000A]Sono fiero di essere suo amico.{0xBE01}[0x000A]Oggi voglio mettere a tua disposizione[0x000A]le mie mirabili capacità.
+Io sono il miglior amico di {0x0134,0x0000}!{0xBE01}[0x000A]Combatterò insieme a te e[0x000A]schiaccerò tutti i tuoi avversari!
+Ciao! Io sono l’allieva prediletta[0x000A]dell’intramontabile {0x0134,0x0000}!{0xBE01}[0x000A]Terrò alto il suo nome[0x000A]e mi farò valere nelle lotte!
+Io e {0x0134,0x0000} abbiamo una relazione[0x000A]un po’ particolare. Non siamo grandi amici,{0xBE00}[0x000A]ma nemmeno dei semplici conoscenti.{0xBE01}[0x000A]Chissà invece che tipo di relazione avremo[0x000A]io e te... Ad ogni modo, mettiamocela tutta!
+Io e {0x0134,0x0000} siamo uniti[0x000A]da un legame spirituale...{0xBE01}[0x000A]È un grande piacere fare[0x000A]la tua conoscenza.
+Io sono una grande amica di {0x0134,0x0000}!{0xBE01}[0x000A]E per rendere onore al suo nome,[0x000A]ti guiderò verso la vittoria!
+Iiiiih! Non posso riferire a {0x0134,0x0000}[0x000A]questo risultato! Mi punirebbe sicuramente...
+Che peccato... È andata così, pazienza...{0xBE01}[0x000A]Sono sicuro che {0x0134,0x0000} direbbe[0x000A]lo stesso e ci faremmo tutti una risata!
+Ugh... Sono un fallimento...[0x000A]Dovrò ricominciare da zero{0xBE00}[0x000A]il mio allenamento con {0x0134,0x0000}...
+Argh... Basta![0x000A]Me ne torno da {0x0134,0x0000}...
+Accidenti! Perdonami {0x0134,0x0000},[0x000A]mia unica guida...
+Oh! Che peccato...{0xBE01}[0x000A]Comunque... anche con un risultato del genere,[0x000A]{0x0134,0x0000} saprà sicuramente come tirarmi{0xBE00}[0x000A]su di morale.
+Ugh... Non ho parole...{0xBE01}[0x000A]Spero che {0x0134,0x0000}[0x000A]possa perdonarmi...
+Non avrò più il coraggio di guardare[0x000A]in faccia {0x0134,0x0000}...{0xBE01}[0x000A]Passiamo subito alla prossima sfida![0x000A]Dobbiamo riscattarci!
+I-Incredibile! Ora possiamo affrontare[0x000A]le Superlotte Multiple!{0xBE01}[0x000A]Vado subito a riferirlo a {0x0134,0x0000}!
+Abbiamo superato tutte le Lotte Multiple![0x000A]Ah ah ah! Ce l’abbiamo fatta!{0xBE01}[0x000A]Corro subito a dirlo a {0x0134,0x0000}!
+Abbiamo vinto soprattutto grazie alla mia[0x000A]maestria... Devi essermene riconoscente.{0xBE01}[0x000A]Bene, vado a informare {0x0134,0x0000}[0x000A]del risultato.
+Sei forte! SEI UN PORTENTO!{0xBE01}[0x000A]Vali almeno quanto[0x000A]la metà di {0x0134,0x0000}!
+Sei grande! Sul serio![0x000A]Voglio lottare ancora con te!{0xBE01}[0x000A]Ti rispetto almeno quanto {0x0134,0x0000}!
+Wow! È stato tutto merito tuo[0x000A]se abbiamo vinto!{0xBE01}[0x000A]Vado subito a riferire questo[0x000A]incredibile risultato a {0x0134,0x0000}!
+Io e te... Il nostro affiatamento ci ha[0x000A]portato a questo risultato...
+Una forza del tutto degna di {0x0134,0x0000}!{0xBE01}[0x000A]Non mi dispiacerebbe lottare[0x000A]di nuovo in coppia con te!
+Ma come... Te ne vai?![0x000A]Ma... Ma... E io che faccio?
+Ah, hai un impegno? Va be’...[0x000A]Pazienza! Sarà per un’altra volta!
+Per il momento basta così?[0x000A]E va bene... Alla prossima, allora!
+Se te ne vai...[0x000A]me ne vado anch’io.
+Ok, può bastare.[0x000A]Un po’ di tregua.
+Ma come? Già finito?[0x000A]Uffa... Che peccato! Proprio ora!
+Ti mancano le forze?[0x000A]E va bene... Sarà per un’altra volta.
+Che succede? Proprio sul più bello[0x000A]devi andare in bagno?!
+Io e te abbiamo obiettivi diversi.{0xBE01}[0x000A]Ma se riusciremo a muoverci in sintonia,[0x000A]nessuno potrà batterci.
+Non siamo riusciti a capirci.{0xBE01}[0x000A]Non c’era sintonia tra di noi e i nostri[0x000A]due ego hanno preso il sopravvento.
+Proprio perché siamo così diversi, agendo[0x000A]in sintonia raggiungiamo uno stile e una{0xBE00}[0x000A]potenza che da soli non possiamo ottenere.
+Uhm... Hai ragione. È meglio interrompere,[0x000A]anche se un po’ mi dispiace...
+Rispettandoci a vicenda riusciremo[0x000A]a dare il meglio di noi.{0xBE01}[0x000A]Vedrai, nessuno potrà sconfiggerci!
+Il risultato lascia a desiderare, ma io[0x000A]ce l’ho messa tutta per cercare di capirti.
+Mi piace molto vincere le lotte agendo[0x000A]all’unisono con i miei Pokémon.{0xBE01}[0x000A]Però anche lottare e vincere con te[0x000A]è stato molto divertente.
+Va bene, allora...[0x000A]Fermiamoci qui.
+Quando sono con te, {0x0189,0x0001},[0x000A]è tutto più divertente. ♪
+Ah! La prossima volta farò meglio!
+È tutto merito tuo, {0x0189,0x0001}!{0xBE01}[0x000A]Quando sono con persone eccezionali come te,[0x000A]finisco per sentirmi eccezionale anch’io! ♪
+Uhm... E va bene.
+Evviva! Se tu sei al mio fianco, {0x0189,0x0001},[0x000A]sono sicuro che vinceremo.
+Scusami...{0xBE01}[0x000A]Ero così preso dalle mosse dei Pokémon che[0x000A]non mi sono concentrato abbastanza nella lotta.
+Sono proprio soddisfatto! Ho visto un sacco[0x000A]di fantastiche mosse dei Pokémon!
+Come, vuoi già smettere?![0x000A]E va bene. Alla prossima, allora!
+{0x0189,0x0001}...{0xBE01}[0x000A]Voglio mostrarti tutto quello che ho[0x000A]imparato completando il Pokédex.
+Si dice spesso che tra il dire e il fare[0x000A]c’è di mezzo il mare...{0xBE01}[0x000A]In effetti...
+{0x0189,0x0001}, tu conosci davvero[0x000A]bene i Pokémon, per questo sei forte!{0xBE01}[0x000A]O forse il punto è un altro...{0xBE01}[0x000A]Sei così abile nelle lotte perché ti prendi[0x000A]particolare cura dei tuoi Pokémon.
+Eh? Vuoi già smettere?{0xBE01}[0x000A]Proprio quando le cose cominciavano[0x000A]a farsi interessanti...
+Aaah! Se non ci fosse il soffitto, potrei[0x000A]esibirmi nella mia specialità: la Lotta Aerea.
+Il primo piano è riservato agli spettatori.{0xBE01}[0x000A]Mi piace guardare le sfide[0x000A]e cercare di indovinare chi vincerà!
+Io e la mia ragazza siamo qui come spettatori.{0xBE01}[0x000A]Tu sei uno sfidante e forse non lo sai,[0x000A]ma gli spettatori devono pagare il biglietto.
+Hai già incontrato le Dame della lotta?{0xBE01}[0x000A]Sono quattro affascinanti sorelle,[0x000A]proprietarie della Villa Lotta.{0xBE01}[0x000A]Se collezioni una bella serie di vittorie[0x000A]consecutive, avrai l’onore di affrontarle!{0xBE01}[0x000A]La mia Dama della lotta preferita è[0x000A]Aurora, la maggiore delle sorelle,{0xBE00}[0x000A]specialista nelle Lotte a Rotazione!{0xBE01}[0x000A]Quando la vedrai, capirai perché!
+Puuurr!
+Eh? Vuoi che rimetta in sesto[0x000A]i tuoi Pokémon?!{0xBE01}[0x000A]Senti, oggi è il mio giorno di riposo.{0xBE01}[0x000A]Fuori dal Centro Pokémon,[0x000A]sono una ragazza come le altre!{0xBE01}[0x000A]E oggi voglio guardarmi le lotte in pace[0x000A]e dimenticare lo stress del lavoro.{0xBE01}[0x000A]Se verrai al Centro Pokémon, sarò felice[0x000A]di accontentarti, ma ora lasciami tranquilla!
+Sigh... sigh...{0xBE01}[0x000A]Sembra che la signorina Vespera,[0x000A]la mia musa, oggi non salirà sul palco.{0xBE01}[0x000A]È così triste dover lavorare in sala tutto[0x000A]il giorno senza poter ammirare la sua{0xBE00}[0x000A]esile figura...{0xBE01}[0x000A]Ma tu... sei un{0x1100,0x00FF,0x0B0A} Allenator'Allenatrice, o sbaglio?[0x000A]Ti prego, cerca di vincere nelle Lotte in Doppio!{0xBE01}[0x000A]Non posso andarmene senza aver visto[0x000A]la signorina Vespera risplendere sul palco!
+Un valente Allenatore e i suoi Pokémon:[0x000A]ecco una combinazione vincente!{0xBE01}[0x000A]Le lotte qui sono una cosa seria...[0x000A]un vero spettacolo!
+Io... Io voglio diventare un allievo[0x000A]di {0x0134,0x0000}...{0xBE01}[0x000A]Voglio resistere fino all’ultimo e[0x000A]per questo ho bisogno dei tuoi consigli.
+Io voglio diventare amico di {0x0134,0x0000}.{0xBE01}[0x000A]Forza, mettiamocela tutta!
+Faccio allenamento giorno e notte per[0x000A]diventare amico di {0x0134,0x0000}.{0xBE01}[0x000A]E oggi voglio cimentarmi in una lotta vera!
+Credo che potrei diventare amico[0x000A]di {0x0134,0x0000}...{0xBE01}[0x000A]Ma oggi voglio lottare assieme a te...
+Il mio sogno è diventare allieva[0x000A]di {0x0134,0x0000}!{0xBE01}[0x000A]Oggi approfitterò di questa lotta[0x000A]come una forma di allenamento.{0xBE00}[0x000A]Mi impegnerò al massimo!
+Voglio che la mia relazione con[0x000A]{0x0134,0x0000} sia speciale!{0xBE01}[0x000A]Forse se mi impegno nelle lotte[0x000A]si accorgerà di me!{0xBE00}[0x000A]Sì! Ce la metterò tutta!
+Sento che il mio spirito e quello[0x000A]di {0x0134,0x0000} sono in sintonia...{0xBE00}[0x000A]Siamo uniti da un legame invisibile!{0xBE01}[0x000A]Anche adesso mi sembra di sentire[0x000A]la sua voce che mi sprona: “Forza, lotta”!
+Sono sicura che presto io e[0x000A]{0x0134,0x0000} saremo grandi amici.{0xBE01}[0x000A]E in nome della nostra futura amicizia[0x000A]voglio guidarti verso la vittoria!
+Ugh... Di questo passo non potrò[0x000A]mai diventare allievo di {0x0134,0x0000}...
+Argh... Che figura! {0x0134,0x0000}[0x000A]non mi vorrà mai come amico!
+Ah... Non posso crederci!{0xBE01}[0x000A]Con un risultato del genere, {0x0134,0x0000}[0x000A]non mi accetterà mai come suo amico!
+Ugh... Sono stanco...[0x000A]{0x0134,0x0000}...{0xBE00}[0x000A]Ho fame...
+Voglio diventare forte![0x000A]Forte come {0x0134,0x0000}!
+Se anch’io potessi essere forte[0x000A]come {0x0134,0x0000}...
+Sento lo spirito di {0x0134,0x0000} che mi parla...{0xBE01}[0x000A]E mi dice: “Ritirati”...
+Non avrò il coraggio di guardare[0x000A]in faccia {0x0134,0x0000}...{0xBE01}[0x000A]La nostra amicizia è finita ancora[0x000A]prima di nascere...
+P-Pensa! Ora possiamo cimentarci[0x000A]nelle Superlotte Multiple!{0xBE01}[0x000A]Chissà se {0x0134,0x0000} mi accetterà[0x000A]come suo allievo adesso!
+Abbiamo superato tutte le Lotte Multiple...[0x000A]Faremo grandi cose, noi due insieme.
+Questi risultati li devo tutti a {0x0134,0x0000},[0x000A]che di sicuro starà facendo il tifo per me...
+Sono forte come {0x0134,0x0000}.[0x000A]Non credi?
+{0x0134,0x0000}, mia unica guida...[0x000A]Mi stavi guardando?
+Forse potrei anche vantarmi di[0x000A]questo risultato con {0x0134,0x0000}... No?
+Sento che lo spirito di {0x0134,0x0000} mi parla...{0xBE01}[0x000A]E mi dice: “Brava!”
+Chissà se {0x0134,0x0000}[0x000A]mi accetterà come amica...
+Ma come... Te ne vai?![0x000A]Ma... Ma... E io che faccio?
+Ah, hai un impegno? Va be’...[0x000A]Pazienza! Sarà per un’altra volta!
+Per il momento basta così?[0x000A]E va bene... Alla prossima, allora!
+Se te ne vai...[0x000A]me ne vado anch’io.
+Ok, può bastare.[0x000A]Un po’ di tregua.
+Ma come? Già finito?[0x000A]Uffa... Che peccato! Proprio ora!
+Ti mancano le forze?[0x000A]E va bene... Sarà per un’altra volta.
+Che succede? Proprio sul più bello[0x000A]devi andare in bagno?!
+Signore e signori, ecco a voi Notturna,[0x000A]Dama della lotta!
+Signore e signori, ecco a voi Vespera,[0x000A]Dama della lotta!
+Signore e signori, ecco a voi Meridia,[0x000A]Dama della lotta!
+Signore e signori, ecco a voi Aurora,[0x000A]Dama della lotta!
+Signore e signori, ecco a voi le Dame della lotta[0x000A]Vespera e Meridia, insieme sul palco!
+Signore e signori, ecco a voi le Dame della lotta[0x000A]Aurora e Vespera, insieme sul palco!
+Signore e signori, ecco a voi le Dame della lotta[0x000A]Aurora e Notturna, insieme sul palco!
+Signore e signori, ecco a voi le Dame della lotta[0x000A]Notturna e Meridia, insieme sul palco!
+Mi dispiace!{0xBE01}[0x000A]L’ultima volta hai interrotto la sfida[0x000A]senza salvare, vero?{0xBE01}[0x000A]Quindi è stata annullata.
+Io mi occupo della registrazione dei dati[0x000A]alla Villa Lotta. Vuoi vedere i tuoi risultati?
+Quali risultati vuoi vedere?
+Attualmente sei alla vittoria n° {0x0203,0x0000,0x002E} e[0x000A]il tuo record di vittorie consecutive è {0x0203,0x0001,0x002E}!
+Lotta a Rotazione
+Superlotta a Rotazione
+La comunicazione wireless è disattivata.{0xBE01}[0x000A]Spingi l’interruttore wireless verso l’alto[0x000A]per attivarla.
+Non puoi lottare con la squadra di Pokémon[0x000A]dell’altro giocatore.
+Non puoi lottare con questo giocatore.

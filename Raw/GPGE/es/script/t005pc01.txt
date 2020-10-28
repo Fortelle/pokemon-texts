@@ -1,0 +1,7 @@
+msg_t005pc01_gentlem_01=El Team Rocket no se anda con chiquitas.[0x000A]Ningún trabajo es demasiado sucio, ningún acto{0xBE00}[0x000A]demasiado ruin si hay dinero de por medio.
+msg_t005pc01_jevenilef_01=Vi a la madre de un Cubone intentando huir del[0x000A]Team Rocket, pero la pobre no lo consiguió.{0xBE00}[0x000A]Se la llevaron y yo fui incapaz de ayudarla.
+msg_t005pc01_jevenilem_01=Sabes que los Cubone llevan cráneos, ¿no?[0x000A]¡La gente pagaría mucho por uno de ellos!
+msg_middlem_01_p01_t005_pc01={0xBDFF:0x0003}
+msg_t005pc01_book_01=Hay un panfleto entre las revistas.
+msg_t005pc01_select_01=¿Quieres leerlo?
+msg_t005pc01_book_02="Los voluntarios de la Casa Pokémon queremos[0x000A]expresarle nuestro más sentido agradecimiento.{0xBE01}[0x000A]El mes pasado, dos de nuestros Pokémon[0x000A]tuvieron la fortuna de encontrar un nuevo hogar{0xBE00}[0x000A]junto a dos Entrenadores.{0xBE01}[0x000A]Muchas gracias a todos por su esfuerzo, ya que[0x000A]sin su ayuda esto no habría sido posible.{0xBE01}[0x000A]Aprovechamos también para pedir disculpas[0x000A]por las molestias que puedan ocasionar los{0xBE00}[0x000A]gritos de los Pokémon y solicitamos su apoyo{0xBE00}[0x000A]en lo sucesivo para la Casa Pokémon".

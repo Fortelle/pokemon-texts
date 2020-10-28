@@ -1,0 +1,3 @@
+msg_ui_fn_trd_00=A trade partner has been found![0x000A]Time for a trade!
+msg_ui_fn_btl_00=An opposing Trainer has been found![0x000A]Time for a battle!
+msg_ui_fn_lic_00=You’ve received a League Card[0x000A]from {0x0100,0x0000}!

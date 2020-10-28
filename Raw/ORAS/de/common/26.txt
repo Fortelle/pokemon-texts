@@ -1,0 +1,46 @@
+Name:
+{0x0100,0x0000}
+ID-Nr.:
+{0x0204,0x0000,0x0000}
+Hoenn-Pokédex:
+{0x0202,0x0000}
+
+Geld:
+{0x0206,0x0000,0x002E} $
+{0xBDFF:0x0009}
+Spielzeit:
+{0x0202,0x0000}
+:
+{0x0201,0x0001}
+Abenteuer gestartet am:
+{0x0201,0x0002}.{0x0201,0x0001}.{0x0203,0x0000,0x0000}
+Trainer-Info
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+Debüt in der Ruhmeshalle:
+PM:
+{0x0206,0x0000,0x0020}
+GP:
+{0x0206,0x0000,0x0020}
+Orden ansehen
+Steinorden[0x000A]Arenaleiterin: Felizia
+Knöchelorden[0x000A]Arenaleiter: Kamillo
+Dynamo-Orden[0x000A]Arenaleiter: Walter
+Hitzeorden[0x000A]Arenaleiterin: Flavia
+Balanceorden[0x000A]Arenaleiter: Norman
+Federorden[0x000A]Arenaleiterin: Wibke
+Mentalorden[0x000A]Arenaleiter: Ben und Svenja
+Schauerorden[0x000A]Arenaleiter: Wassili
+Arenaleiterin: Felizia
+Arenaleiter: Kamillo
+Arenaleiter: Walter
+Arenaleiterin: Flavia
+Arenaleiter: Norman
+Arenaleiterin: Wibke
+Arenaleiter: Ben und Svenja
+Arenaleiter: Wassili
+Nationaler Pokédex:

@@ -1,0 +1,28 @@
+Es una señal de vista panorámica.[0x000A]¿Quieres llamar a Marco Carrete, el fotógrafo?
+Hazme una foto
+Enséñame una foto
+Explícame cómo va esto
+Adiós
+Información sobre la señal de vista panorámica.{0xBE01}[0x000A]Esta señal con el símbolo de una cámara impreso[0x000A]sirve para llamar a Marco Carrete, el fotógrafo.{0xBE01}[0x000A]¿Quieres ponerte en contacto con él?
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+¡Epa, aquí estoy![0x000A]¿Qué puedo hacer por ti?
+¡Faltaría más!{0xBE01}[0x000A]Venga, busca un lugar bonito donde posar.[0x000A]¡Y acuérdate de mirar al pajarito y decir pa-ta-ta!
+Uy, me vas a tener que perdonar.{0xBE01}[0x000A]Pero es que en esta tarjeta SD no hay bloques[0x000A]libres suficientes, alma de cántaro.{0xBE01}[0x000A]Como no liberes alguno, no vamos a poder sacar ni[0x000A]una foto.{0xBE01}[0x000A]¡Se siente! Hala, hasta la próxima.
+Ah, pues mira, esta es la última foto que te hice.
+¿Pero qué foto quieres ver, alma cándida?[0x000A]¡Si todavía no te he sacado ninguna!{0xBE01}[0x000A]¡Eso hay que arreglarlo al instante![0x000A]Venga, ¿qué tal si te hago una?
+Hala, ya la he sacado.[0x000A]Ha quedado fenomenal.
+Uy, disculpa.[0x000A]Pero es que a la cámara le pasa algo raro.{0xBE01}[0x000A]No he podido guardar la foto.{0xBE01}[0x000A]Mil perdones.[0x000A]Seguro que a la próxima va la vencida.{0xBE00}[0x000A]¿Qué tal si probamos otra vez?
+Tienes un talento natural para esto de posar.[0x000A]Yo lo llamo “fotogenia innata”.{0xBE00}[0x000A]Hale, ¡hasta la próxima!
+Pues nada, ¡que te vaya bien!
+Pues hala, hasta la próxima.
+Como bien sabrás, la cámara es un dispositivo que[0x000A]sirve para sacar fotos.{0xBE01}[0x000A]Para tomar una instantánea, basta con pulsar el[0x000A]botón R o tocar el icono verde en la pantalla táctil.{0xBE01}[0x000A]Pulsando derecha e izquierda en la cruz de control[0x000A]podrás acercar o alejar la imagen, respectivamente.{0xBE01}[0x000A]Por otro lado, el botón A te permitirá alternar entre[0x000A]el modo automático y el manual.{0xBE01}[0x000A]¡Con este último podrás hacer auténticas virguerías!{0xBE01}[0x000A]Si te has hecho un lío y quieres volver a situar la[0x000A]cámara en el ángulo inicial, pulsa START.{0xBE01}[0x000A]A todo esto, las fotos que saques se guardarán en[0x000A]la tarjeta SD. Esto no solo te permitirá verlas con{0xBE00}[0x000A]la Cámara de Nintendo 3DS, sino que también{0xBE00}[0x000A]podrás enviarlas a Pokémon Global Link mediante{0xBE00}[0x000A]la función Sincronizar Juego.{0xBE01}[0x000A]Venga, ¿a qué esperas para dar envidia a los[0x000A]demás con unas fotos dignas de museo?
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+Uy, va a ser que no.{0xBE01}[0x000A]Has alcanzado el número máximo de fotos que[0x000A]puedes almacenar en la Cámara de Nintendo 3DS.{0xBE01}[0x000A]No puedo hacer fotos nuevas si no quitas algunas[0x000A]de las que tienes guardadas.{0xBE01}[0x000A]¡Se siente! Hale, hasta la próxima.
+¡Ah! Parece que hay algún problema con la tarjeta[0x000A]SD de la consola Nintendo 3DS.{0xBE01}[0x000A]Lo siento, pero así no se puede sacar ninguna foto.[0x000A]Hale, hasta la próxima.
+¿Quieres sacar fotos sin tener ni un bloque libre[0x000A]en tu tarjeta SD? ¡Menudo disparate!{0xBE01}[0x000A]Será mejor que organices un poco los datos para[0x000A]liberar espacio, ¡porque si no estamos apañados!{0xBE01}[0x000A]¡Se siente! Hale, hasta la próxima.
+Esta señal no está aún en funcionamiento...
+¡Aviso!{0xBE01}[0x000A]La última foto sacada no se ha enviado a Pokémon[0x000A]Global Link.{0xBE01}[0x000A]Utiliza la función Sincronizar Juego para enviarla.{0xBE01}[0x000A]Si no lo haces, cuando saques una foto nueva, se[0x000A]sobrescribirá la anterior.
+{0xBDFF:0x001B}

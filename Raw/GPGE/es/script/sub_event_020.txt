@@ -1,0 +1,17 @@
+msg_sub020_sys_01=¡Un Pokémon dormido bloquea el camino!
+msg_sub020_sys_02=¿Quieres usar la Poké Flauta?
+msg_sub020_sys_03=Has tocado la Poké Flauta.
+msg_sub020_sys_04=¡Snorlax se ha despertado!
+msg_sub020_sys_07=Snorlax te está mirando con cara de tener[0x000A]hambre.
+msg_sub020_fuji_01={0xFF00,0x0009}???:{0xFF00,0x0000} ¡{0x0100,0x0000}!
+msg_sub020_fuji_02={0xFF00,0x0009}Sr. Fuji:{0xFF00,0x0000} Hay algo que se me olvidó decirte[0x000A]cuando te entregué la Poké Flauta...
+msg_sub020_fuji_03=¡Oh, vaya! Veo que he llegado en buen[0x000A]momento.
+msg_sub020_fuji_05=Cuando Snorlax despierta, confunde la primera[0x000A]cosa que ve con comida e intenta zampársela.{0xBE01}[0x000A]A veces le pasa con Entrenadores y, bueno, se[0x000A]ha llegado a abalanzar sobre alguno para tratar{0xBE00}[0x000A]de hincarle el diente. ¡Criaturita!
+msg_sub020_fuji_06=Puede ser bastante peligroso. Si se diese el caso,[0x000A]lo mejor que puedes hacer es combatir contra él{0xBE00}[0x000A]hasta que se calme.
+msg_sub020_fuji_07=Una vez que lo hayas vencido y se tranquilice,[0x000A]podrás capturarlo como cualquier otro Pokémon{0xBE00}[0x000A]salvaje.
+msg_sub020_sys_06=¡Snorlax se abalanza sobre ti con cara de sueño!
+msg_sub020_sys_05=Snorlax se ha calmado. Se ha perdido en la[0x000A]montaña tras dejar escapar un gran bostezo.
+msg_sub020_fuji_08={0xFF00,0x0009}Sr. Fuji:{0xFF00,0x0000} ¡Me has dejado boquiabierto,[0x000A]{0x0100,0x0000}! ¡Muy bien hecho!
+msg_sub020_fuji_09={0xFF00,0x0009}Sr. Fuji:{0xFF00,0x0000} Vaya, qué lástima...
+msg_sub020_fuji_10=Escucha. Hay algunos Pokémon que intentarán[0x000A]atacarte, al igual que ha hecho Snorlax ahora{0xBE00}[0x000A]mismo.{0xBE01}[0x000A]Si quieres capturarlos, primero tendrás que[0x000A]vencerlos en combate, ¿entiendes?{0xBE01}[0x000A]Primero los derribas y luego lanzas la Poké Ball.
+msg_sub020_fuji_11=Pues nada, ¡hasta luego!

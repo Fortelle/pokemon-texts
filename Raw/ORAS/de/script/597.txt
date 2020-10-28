@@ -1,0 +1,15 @@
+Die Konstruktion eines großen Schiffes ist[0x000A]eher vergleichbar mit der eines Gebäudes{0xBE00}[0x000A]als mit der eines Transportmittels.
+Findest du es nicht auch seltsam, dass ein Schiff[0x000A]aus schwerem Eisen auf dem Meer schwimmt?{0xBE01}[0x000A]Es schwimmt aufgrund des sogenannten Auftriebs!
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+Das ist die Blaupause eines im Bau befindlichen Schiffes.{0xBE01}[0x000A]Anbei liegt eine Notiz mit folgendem Inhalt:{0xBE01}[0x000A]„Für die neue Generation von Unterwasserantriebsmotoren[0x000A]soll die gleiche Technologie eingesetzt werden, die für{0xBE00}[0x000A]den Train à Méga-Vitesse, den Hochgeschwindigkeitszug{0xBE00}[0x000A]der Kalos-Region, genutzt wurde.“
+{0xBDFF:0x000A}
+Du bist auf Abenteuerreise, oder?{0xBE01}[0x000A]Warst du schon mal bei Seewoge Malvenfroh?[0x000A]Das liegt in der Nähe von Route 108.
+Verstehe...{0xBE01}[0x000A]Seewoge Malvenfroh ist ein von Menschenhand[0x000A]erschaffener Ort, gilt aber gleichzeitig auch als Naturerbe.{0xBE01}[0x000A]Eine seltene Kombination, was?{0xBE01}[0x000A]Du solltest unbedingt einen Zwischenstopp[0x000A]dort einplanen!
+Oh, das freut mich!{0xBE01}[0x000A]Aber wo sind eigentlich meine Manieren? Ich habe mich[0x000A]ja noch gar nicht vorgestellt... Ich heiße Albrecht!{0xBE01}[0x000A]Vor vielen Jahren habe ich in Seewoge Malvenfroh[0x000A]gearbeitet.{0xBE01}[0x000A]Dieser Ort ist für mich mit vielen Erinnerungen verbunden.{0xBE01}[0x000A]Ich rühre immer fleißig die Werbetrommel für ihn, um der[0x000A]Jugend zu zeigen, was seine Faszination ausmacht.
+Oh, hallo! Wie geht’s denn so?{0xBE01}[0x000A]Ich bin neulich durch Zufall einem alten Kollegen[0x000A]aus meinen Tagen in Seewoge Malvenfroh begegnet.{0xBE00}[0x000A]Inzwischen ist er ein hohes Tier bei irgendeiner Firma.{0xBE01}[0x000A]Trotzdem scheint er sich immer noch für ein paar Pannen[0x000A]zu schämen, die ihm damals bei der Arbeit passiert sind.{0xBE01}[0x000A]Offenbar hat er irgendwann mal einen {0xFF00,0x0002}Spiritkern{0xFF00,0x0000} verlegt...[0x000A]Ich hatte die Geschichte schon längst vergessen, aber{0xBE00}[0x000A]er wollte sich unbedingt noch mal dafür entschuldigen.{0xBE01}[0x000A]Es war toll, mal wieder über die alten Zeiten zu reden!

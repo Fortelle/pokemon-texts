@@ -1,0 +1,184 @@
+Bienvenid{0x1100,0x00FF,0x0101}oa a la Mansión Batalla. Ahora mismo te[0x000A]encuentras en el salón principal.
+¿En qué te puedo ayudar?
+¿Sobre qué tema quieres información?
+Esta es la Mansión Batalla, y aquí se dan cita[0x000A]Entrenadores de lo más variopinto para enfrentarse{0xBE00}[0x000A]en diferentes tipos de combates. Puedes elegir{0xBE00}[0x000A]entre lo siguientes: Individual, Doble, Triple,{0xBE00}[0x000A]Rotatorio y Múltiple.{0xBE01}[0x000A]Los clientes han de combatir sin descanso hasta[0x000A]que pierdan, con el objetivo de ser quien ostente{0xBE00}[0x000A]el mayor número de victorias consecutivas.{0xBE01}[0x000A]Es decir, que en cuanto sufras una derrota se[0x000A]detendrá el contador de victorias, y tendrás que{0xBE00}[0x000A]empezar de nuevo desde cero.{0xBE01}[0x000A]Por último, has de saber que tras ganar a cualquier[0x000A]Entrenador recibirás Puntos de Batalla, también{0xBE00}[0x000A]conocidos como PB, como premio por tu victoria.{0xBE01}[0x000A]A mayor número de victorias consecutivas, mayor[0x000A]será también la cantidad de PB que recibas. Así{0xBE00}[0x000A]que ya sabes: ¡esfuérzate y obtendrás un regalo!
+Para disfrutar plenamente de lo que ofrece la[0x000A]Mansión Batalla, es mejor estar al corriente de las{0xBE00}[0x000A]reglas.{0xBE01}[0x000A]Presta atención, por favor: los Pokémon que salgan[0x000A]al combate y que tengan un nivel superior a 50{0xBE00}[0x000A]pasarán automáticamente a contar con Nivel 50,{0xBE00}[0x000A]así que tenlo en cuenta.{0xBE01}[0x000A]Además, el número de Pokémon necesarios difiere[0x000A]según el tipo de combate en el cual se participe:{0xBE00}[0x000A]3 Pokémon para Combates Individuales;{0xBE00}[0x000A]4 para Combates Dobles; 6 para Combates Triples;{0xBE00}[0x000A]4 para Combates Rotatorios y 2 Pokémon por{0xBE00}[0x000A]Entrenador en los Combates Múltiples.{0xBE01}[0x000A]Por último, todos los Pokémon y sus respectivos[0x000A]objetos deben ser diferentes, aunque en los{0xBE00}[0x000A]Combates Múltiples, dos Entrenadores podrán{0xBE00}[0x000A]tener los mismos Pokémon y objetos.
+Espero verte pronto. Estaré a tu disposición[0x000A]si lo necesitas.
+¿En qué tipo de combate quieres participar?
+Tu racha de victorias consecutivas obtenidas hasta[0x000A]el momento asciende a {0x0203,0x0001,0x0000}.
+¿Quieres participar en Combates Individuales?
+¿Quieres participar en Supercombates Individuales?
+¿Quieres participar en Combates Dobles?
+¿Quieres participar en Supercombates Dobles?
+¿Quieres participar en Combates Triples?
+¿Quieres participar en Supercombates Triples?
+¿Quieres participar en Combates Rotatorios?
+¿Quieres participar en Supercombates Rotatorios?
+¿Quieres participar en Combates Múltiples?
+¿Quieres participar en Supercombates Múltiples?
+¿Quieres conectarte con un amigo para afrontar[0x000A]este reto en equipo?
+La opción elegida por tu amigo es diferente a la[0x000A]que has elegido tú. Ponte de acuerdo con tu{0xBE00}[0x000A]amigo e inténtalo de nuevo.
+Elige con qué Entrenador quieres formar equipo.
+Muy bien. Prosigamos entonces con los[0x000A]Combates Individuales.
+Muy bien. Prosigamos entonces con los[0x000A]Supercombates Individuales.
+Muy bien. Prosigamos entonces con los[0x000A]Combates Dobles.
+Muy bien. Prosigamos entonces con los[0x000A]Supercombates Dobles.
+Muy bien. Prosigamos entonces con los[0x000A]Combates Triples.
+Muy bien. Prosigamos entonces con los[0x000A]Supercombates Triples.
+Muy bien. Prosigamos entonces con los[0x000A]Combates Rotatorios.
+Muy bien. Prosigamos entonces con los[0x000A]Supercombates Rotatorios.
+Muy bien. Prosigamos entonces con los[0x000A]Combates Múltiples.
+Muy bien. Prosigamos entonces con los[0x000A]Supercombates Múltiples.
+Guardando...[0x000A]Por favor, espera.
+¡Enhorabuena por tan magnífico combate!{0xBE01}[0x000A]Obtener una victoria contra las Damas del[0x000A]Combate se merece un obsequio: aquí tienes PB.
+¡Enhorabuena por tan magnífico combate!{0xBE01}[0x000A]Obtener una victoria contra las Damas del[0x000A]Combate cuando van a por todas se merece un{0xBE00}[0x000A]obsequio: aquí tienes PB.
+{0x0100,0x0000} ha obtenido {0x0201,0x0005} PB.
+A partir de ahora, {0x0100,0x0000}, también podrás[0x000A]participar en los Supercombates Individuales.
+A partir de ahora, {0x0100,0x0000}, también podrás[0x000A]participar en los Supercombates Dobles.
+A partir de ahora, {0x0100,0x0000}, también podrás[0x000A]participar en los Supercombates Triples.
+A partir de ahora, {0x0100,0x0000}, también podrás[0x000A]participar en los Supercombates Rotatorios.
+A partir de ahora, {0x0100,0x0000}, también podrás[0x000A]participar en los Supercombates Múltiples.
+Muchas gracias por participar en la Mansión Batalla.[0x000A]Los retos de Combate Individual han finalizado por{0xBE00}[0x000A]ahora. ¡No te olvides de disfrutar de los{0xBE00}[0x000A]Supercombates Individuales!
+Muchas gracias por participar en la Mansión Batalla.[0x000A]Los retos de Combate Doble han finalizado por{0xBE00}[0x000A]ahora. ¡No te olvides de disfrutar de los{0xBE00}[0x000A]Supercombates Dobles!
+Muchas gracias por participar en la Mansión Batalla.[0x000A]Los retos de Combate Triple han finalizado por{0xBE00}[0x000A]ahora. ¡No te olvides de disfrutar de los{0xBE00}[0x000A]Supercombates Triples!
+Muchas gracias por participar en la Mansión Batalla.[0x000A]Los retos de Combate Rotatorio han finalizado por{0xBE00}[0x000A]ahora. ¡No te olvides de disfrutar de los{0xBE00}[0x000A]Supercombates Rotatorios!
+Muchas gracias por participar en la Mansión Batalla.[0x000A]Los retos de Combate Múltiple han finalizado por{0xBE00}[0x000A]ahora. ¡No te olvides de disfrutar de los{0xBE00}[0x000A]Supercombates Múltiples!
+¡{0x0100,0x0000}! Me has dejado con la boca[0x000A]abierta. ¡Menuda victoria!{0xBE01}[0x000A]Como obsequio por tan magnífica hazaña, hemos[0x000A]decidido erigir una estatua en tu honor.
+El próximo combate será el número {0x0203,0x0001,0x0000}.[0x000A]¿Quieres que dé comienzo?
+El próximo combate será el número {0x0203,0x0001,0x0000}. ¡Ve con[0x000A]cuidado, las Damas del Combate son duras de roer!{0xBE01}[0x000A]¿Quieres comenzar ya?
+¿Quieres pausar el reto?
+Se ha interrumpido el reto.
+Esperando a que se establezca la conexión...
+El tema musical que suena ahora durante[0x000A]los combates es el n.º {0x0200,0x0000}.{0xBE01}[0x000A]Elige otro tema si quieres.
+Tema musical elegido.
+Combatir
+Quiero información
+No quiero nada
+Sobre la Mansión Batalla
+Sobre los tipos de combate
+Combatir
+Combate Individual
+Supercombate Individual
+Combate Doble
+Supercombate Doble
+Combate Triple
+Supercombate Triple
+Combate Múltiple
+Supercombate Múltiple
+Continuar
+Guardar Vídeo de Combate
+Pausar
+Melodía 1
+Melodía 2
+Melodía 3
+Melodía 4
+Cambiar la melodía
+Yo... Yo soy el discípulo de {0x0134,0x0000}.[0x000A]Encantado de conocerte.{0xBE01}[0x000A]Me entregaré a fondo, así que perdóname si meto[0x000A]la pata al principio. ¡Aprenderé!
+¡Eh, qué tal! Yo conozco a {0x0134,0x0000}.{0xBE01}[0x000A]Bueno, te voy a echar un cable, pero tampoco te[0x000A]esperes maravillas, ¿eh?
+¿Conoces a {0x0134,0x0000}? Es la pera entrenando[0x000A]Pokémon, ¿a que sí? Yo soy uno de sus amigos.{0xBE01}[0x000A]He venido a ayudarte, así que manos a la obra.
+{0x0134,0x0000}...[0x000A]Es mi mejor colega...{0xBE01}[0x000A]Lucharé contigo...[0x000A]¡Y aplastaré a tus enemigos!
+¡Hola! Soy la discípula favorita de {0x0134,0x0000}.{0xBE01}[0x000A]Creo que no hace falta que te explique quién es,[0x000A]¿a que no? Su fama le precede, y como aprendiz{0xBE00}[0x000A]suya que soy, me esforzaré al máximo para no{0xBE00}[0x000A]mancillar su honor.
+{0x0134,0x0000} y yo tenemos una relación un tanto[0x000A]peculiar; no sabría cómo describirla. No llegamos{0xBE00}[0x000A]a ser amigos, pero tampoco solo conocidos...{0xBE01}[0x000A]Y contigo, ¿qué relación tendré? Bueno, basta de[0x000A]suposiciones y conjeturas. ¡Vamos allá!
+{0x0134,0x0000} y yo somos almas gemelas.[0x000A]Un placer conocerte a ti también.
+Soy la mejor amiga de {0x0134,0x0000} y, para no[0x000A]manchar su reputación, te llevaré a la victoria.
+Vaya... Si {0x0134,0x0000} se entera de este[0x000A]resultado, seguro que se enfada conmigo.
+Es una pena, pero estas cosas pasan hasta en las[0x000A]mejores familias. Seguro que {0x0134,0x0000}{0xBE00}[0x000A]pensaría lo mismo, je, je.
+Arg, qué vergüenza... Tendré que entrenarme con[0x000A]{0x0134,0x0000} desde el principio.
+Bah, estoy harto. Voy a buscar a {0x0134,0x0000}.
+¡Maldición! Perdóname, {0x0134,0x0000}...
+Vaya, qué mala pata. En cuanto {0x0134,0x0000} se[0x000A]entere de este resultado, seguro que me animará.
+Buf, qué chasco tan grande me he llevado.[0x000A]Espero que {0x0134,0x0000} me perdone...
+Ahora no podré mirar a la cara a {0x0134,0x0000}.[0x000A]Venga, que dé comienzo el siguiente combate.{0xBE01}[0x000A]¡La próxima vez no habrá quien me gane!
+Vaya, así que ahora podemos participar en los[0x000A]Supercombates Múltiples, ¿no? Avisaré a{0xBE00}[0x000A]{0x0134,0x0000} del resultado.
+¡Viva! Hemos completado los Combates Múltiples.{0xBE01}[0x000A]¡Qué contento estoy, je, je! Estoy seguro de que[0x000A]esta noticia alegrará a {0x0134,0x0000}.
+Si no fuera por mí, no sé si lo habrías conseguido...[0x000A]Espero que me lo agradezcas como me merezco.{0xBE01}[0x000A]En fin, creo que voy a buscar a {0x0134,0x0000} para[0x000A]contarle qué tal me ha ido.
+¡Pues sí que eres fuerte! ¡Eres genial![0x000A]Estás a años luz de {0x0134,0x0000}, pero molas.
+Guau, eres la mar de fuerte. ¡Quiero luchar de[0x000A]nuevo contigo, eh! Que sepas que te respeto{0xBE00}[0x000A]tanto como a {0x0134,0x0000}.
+Buuuf. Menos mal que tienes una pericia que para[0x000A]qué, porque yo sola no habría podido. Le voy a{0xBE00}[0x000A]contar a {0x0134,0x0000} lo maravillos{0x1100,0x00FF,0x0101}oas que somos.
+Tú y yo...{0xBE01}[0x000A]Nuestras almas nos han conducido hasta[0x000A]este momento, a esta respuesta.
+Has demostrado estar a la par de {0x0134,0x0000}.[0x000A]La verdad es que no me importaría volver a formar{0xBE00}[0x000A]equipo contigo.
+Pero... ¿acaso te vas? Entonces yo...[0x000A]No sé qué hacer...
+¿Tienes otros asuntos de los que encargarte?[0x000A]Muy bien. Espero que podamos combatir de nuevo.
+¿Nos despedimos entonces por ahora?[0x000A]Como quieras. ¡Que te vaya bien!
+¿Te vas?[0x000A]Pues yo también...
+Muy bien. Nuestros adversarios se pueden dar con[0x000A]un canto en los dientes, je.
+¿Quéee? ¿No quieres seguir combatiendo?[0x000A]¡Yo me he quedado con ganas de más!
+¿Tu alma está cansada? Entonces nos vemos en[0x000A]otro momento, si te parece bien.
+¿Qué pasa? Se estaba poniendo muy interesante.[0x000A]¿Es que tienes que ir al servicio?
+Tú y yo tenemos diferentes objetivos, pero si[0x000A]formamos equipo, ¡seremos invencibles!
+Vaya, parece ser que no hemos acabado de[0x000A]encajar. ¿Acaso nuestro ego se ha interpuesto{0xBE00}[0x000A]en nuestro camino?
+Supongo que se debe al hecho de que seamos tan[0x000A]diferentes, pero jamás había demostrado tal poder.
+¿De veras quieres dejarlo? Es una pena, pero[0x000A]acato tu decisión.
+Si nos respetamos mutuamente estoy segura[0x000A]de que podremos dar lo mejor de nosotros.{0xBE00}[0x000A]Entonces, nadie nos podrá vencer.
+Puede que el resultado del combate no haya sido[0x000A]muy satisfactorio, pero al menos me ha servido{0xBE00}[0x000A]para conocerte mejor.
+Me encanta compenetrarme con mis Pokémon[0x000A]y combatir como si fuéramos uno.{0xBE01}[0x000A]Y también me agrada esforzarme al máximo para[0x000A]que podamos hacernos con la victoria.
+Vaya, ¿quieres acabar ya? Como quieras...
+♪¿Sabes qué, {0x0189,0x0001}? Contigo siempre[0x000A]me lo paso muy bien.♪
+Jopetas. Bueno, la próxima vez saldrá mejor, fijo.
+¡Y todo gracias a ti, {0x0189,0x0001}!{0xBE01}[0x000A]Cuando se tienen amigos tan fuertes, hasta uno[0x000A]mismo se siente con más fortaleza.
+Pues vaya...
+{0x0189,0x0001}, si tú y yo unimos fuerzas, no[0x000A]perderemos ni en sueños.
+Lo siento mucho por lo que a mí respecta, pero[0x000A]los movimientos de esos Pokémon me tenían{0xBE00}[0x000A]casi hipnotizado. ¡Se movían que daba gusto!
+¡Qué de movimientos he visto en el combate![0x000A]Estoy más que contento.
+¿Quéee? ¿De veras quieres abandonar ya?[0x000A]Bueno, en otra ocasión será...
+{0x0189,0x0001}, déjame que te muestre todo lo[0x000A]que he aprendido durante mis aventuras para{0xBE00}[0x000A]completar la Pokédex.
+Ya lo había oído, pero es cierto que no resulta tan[0x000A]fácil aplicar la teoría a los combates. A partir de{0xBE00}[0x000A]ahora debería intentar aplicar mis conocimientos{0xBE00}[0x000A]de manera más práctica.
+Tú sí que sabes un porrón sobre los Pokémon...{0xBE01}[0x000A]O quizá se deba a que los tratas muy bien y por[0x000A]eso se te dan de perlas los combates.
+¿Cómo? ¿Eso es todo? Y yo que pensaba que[0x000A]esto era tan solo el principio...
+Yo suelo participar en Combates Aéreos y, como[0x000A]la Mansión Batalla es un lugar cerrado, no puedo{0xBE00}[0x000A]participar. ¡Qué rabia me da!
+El primer piso está reservado para aquellas[0x000A]personas que no participan en los combates.{0xBE01}[0x000A]Me divierto observando a los contrincantes y[0x000A]adivinando quién se hará con la victoria.
+Yo, al igual que mi novia, tan solo estoy aquí para[0x000A]ver cómo se desarrollan los combates. Quizá no lo{0xBE00}[0x000A]sepas, pero los espectadores tenemos que pagar{0xBE00}[0x000A]una entrada para acceder a la Mansión Batalla.
+¿Has conocido ya a todas las Damas del Combate?{0xBE01}[0x000A]Son cuatro hermanas, y no solo son las dueñas de[0x000A]la Mansión Batalla, sino que desbordan fuerza y{0xBE00}[0x000A]elegancia. Todo un primor.{0xBE01}[0x000A]Si logras encadenar muchas victorias consecutivas,[0x000A]se mostrarán ante ti.{0xBE01}[0x000A]Mi favorita, sin lugar a dudas, es la mayor de[0x000A]todas: Aurora. No te dejes engañar por su aspecto,{0xBE00}[0x000A]porque es una fiera en los Combates Rotatorios.{0xBE01}[0x000A]Estoy seguro de que será tu favorita en cuanto[0x000A]la veas, créeme.
+¡Puuurr!
+¿Cómo? ¿Quieres que restablezca la salud[0x000A]de tus Pokémon? Quizá no te hayas fijado, pero{0xBE00}[0x000A]me he tomado el día libre.{0xBE01}[0x000A]Cuando abandono mi puesto de trabajo en el[0x000A]Centro Pokémon, soy una chica normal y corriente.{0xBE01}[0x000A]De hecho, últimamente estoy muy estresada en el[0x000A]trabajo, así que he venido aquí a calmarme un poco{0xBE00}[0x000A]viendo combates Pokémon.{0xBE01}[0x000A]Lo siento, pero no te puedo ayudar. Necesito este[0x000A]día para mí, supongo que me comprendes.
+Joooo... Mi musa, Vésper, no sale al escenario.{0xBE01}[0x000A]Si no puedo contemplar su precioso rostro, no[0x000A]creo que encuentre la inspiración suficiente como{0xBE00}[0x000A]para centrarme mañana en el trabajo.{0xBE01}[0x000A]Oye, ¿tú eres Entrenador{0x1100,0x00FF,0x0100}a? Por favor, procura[0x000A]ganar tantos Combates Dobles como puedas, y así{0xBE00}[0x000A]Vésper hará acto de presencia.{0xBE01}[0x000A]Si no, ¡esta noche no podré pegar ojo!
+Es ambrosía para los ojos poder ser testigo de las[0x000A]magníficas combinaciones entre los Pokémon y sus{0xBE00}[0x000A]Entrenadores. Los combates que se libran aquí no{0xBE00}[0x000A]son cosa baladí e implican una gran pericia.
+Yo... Esto... Quiero convertirme en el aprendiz de[0x000A]{0x0134,0x0000}... Me esforzaré al máximo, así que{0xBE00}[0x000A]agradezco tu ayuda.
+¿Sabes qué? Creo que me molaría ser colega[0x000A]de {0x0134,0x0000}. Bueno, vamos a darlo todo.
+Estoy practicando día y noche para poder hacerme[0x000A]amigo de {0x0134,0x0000}. Hoy, en vez de entrenar,{0xBE00}[0x000A]he decidido venir aquí para enfrentarme a los retos.
+Quiero ser amigo de {0x0134,0x0000}, pero hoy voy[0x000A]a combatir junto a ti.
+Mi sueño consiste en hacerme aprendiz de[0x000A]{0x0134,0x0000}.{0xBE01}[0x000A]Espero que esta experiencia de hoy me sirva de[0x000A]entrenamiento.
+Me gustaría que {0x0134,0x0000} y yo fuéramos[0x000A]más amigos, así que pretendo hacerme notar para{0xBE00}[0x000A]que se fije en mí. Espero que funcione.
+Tengo la sensación de que {0x0134,0x0000} y yo...[0x000A]No sé cómo explicarlo con palabras...{0xBE01}[0x000A]Quizá exista algún vínculo entre nuestras almas.[0x000A]Ahora mismo, por ejemplo, tengo la sensación de{0xBE00}[0x000A]oír la voz de {0x0134,0x0000}. Es extraño, pero...{0xBE00}[0x000A]Bueno, combatamos, si te parece bien.
+Tengo la firme convicción de que {0x0134,0x0000}[0x000A]y yo haremos muy buenas migas dentro de poco.{0xBE01}[0x000A]Para contar con su beneplácito, te conduciré hasta[0x000A]la victoria.
+Buf... Con resultados como este no creo que pueda[0x000A]convertirme en aprendiz de {0x0134,0x0000}.
+¡Qué mal! ¿Cómo pretendo que {0x0134,0x0000} se[0x000A]fije en mí si no doy ni una?
+¡No! No sé cómo ha podido suceder esto.[0x000A]Con resultados tan malos como este, no creo que{0xBE00}[0x000A]{0x0134,0x0000} quiera que seamos amigos.
+Brrr... Estoy cansado. Si {0x0134,0x0000} estuviera[0x000A]aquí... Y encima, tengo hambre...
+¡Quiero hacerme tan fuerte como {0x0134,0x0000}!
+Me encantaría hacerme algún día tan fuerte como[0x000A]{0x0134,0x0000}, je, je.
+No me preguntes cómo, pero percibo la voz de[0x000A]{0x0134,0x0000}, y me insta a que vuelva a casa.
+Ahora no podré mirar a la cara a {0x0134,0x0000}[0x000A]si coincidimos...
+¡Genial! Ya podemos participar en Supercombates[0x000A]Múltiples. Quizá {0x0134,0x0000} decida aceptarme{0xBE00}[0x000A]ahora como su aprendiz.
+Vaya, supongo que hacemos buen equipo si hemos[0x000A]superado el reto de los Combates Múltiples.
+Este magnífico resultado no solo se debe a mi[0x000A]habilidad, sino a que en algún lugar {0x0134,0x0000}{0xBE00}[0x000A]está animándome. Lo sé...
+Soy tan fuerte como {0x0134,0x0000}, ¿no?
+{0x0134,0x0000}... ¿Has visto qué bien lo he hecho?
+Espero que este resultado sea suficiente para[0x000A]satisfacer a {0x0134,0x0000}.
+Percibo la voz de {0x0134,0x0000}...[0x000A]Me felicita por la victoria.
+Me pregunto si {0x0134,0x0000} querrá ahora que[0x000A]sea su amiga...
+Pero... ¿acaso te vas? Entonces yo...[0x000A]No sé qué hacer...
+¿Tienes otros asuntos de los que encargarte?[0x000A]Muy bien. Espero que podamos combatir de nuevo.
+¿Nos despedimos entonces por ahora?[0x000A]Como quieras. ¡Que te vaya bien!
+¿Te vas?[0x000A]Pues yo también...
+Muy bien. Nuestros adversarios se pueden dar con[0x000A]un canto en los dientes, je.
+¿Quéee? ¿No quieres seguir combatiendo?[0x000A]¡Yo me he quedado con ganas de más!
+¿Tu alma está cansada? Entonces nos vemos en[0x000A]otro momento, si te parece bien.
+¿Qué pasa? Se estaba poniendo muy interesante.[0x000A]¿Es que tienes que ir al servicio?
+Aquí está Nocta, una de las Damas del Combate.
+Aquí está Vésper, una de las Damas del Combate.
+Aquí está Meridia, una de las Damas del Combate.
+Aquí está Aurora, una de las Damas del Combate.
+Aquí están Vésper y Meridia, dos de las Damas[0x000A]del Combate.
+Aquí están Vésper y Aurora, dos de las Damas[0x000A]del Combate.
+Aquí están Nocta y Aurora, dos de las Damas[0x000A]del Combate.
+Aquí están Nocta y Meridia, dos de las Damas[0x000A]del Combate.
+Lo siento mucho, pero parece ser que la última vez[0x000A]no guardaste tu partida, ¿cierto?{0xBE01}[0x000A]En tal caso, me temo que tendrás que comenzar el[0x000A]reto desde el principio.
+Yo me encargo del registro de la Mansión Batalla.[0x000A]¿Quieres consultar tus resultados?
+¿Qué resultados deseas consultar?
+Tu racha actual es de {0x0203,0x0000,0x0000} victoria{0x1101,0x0000,0x0100}s.[0x000A]Tu mejor racha hasta ahora es de {0x0203,0x0001,0x0000} victoria{0x1101,0x0001,0x0100}s.
+Combate Rotatorio
+Supercombate Rotatorio
+La comunicación inalámbrica está[0x000A]desactivada.{0xBE01}[0x000A]Usa el interruptor de la comunicación[0x000A]inalámbrica para activarla.
+No puedes combatir con ese jugador a causa[0x000A]de los Pokémon de su equipo.
+No puedes combatir con ese jugador.

@@ -1,0 +1,28 @@
+Pokémon Link
+Yes
+No
+Info
+Would you like to retrieve data using[0x000A]Pokémon Link?
+{0xBDFF:0x0005}
+Retrieving data...[0x000A]Do not turn off the power.
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+No data could be found.{0xBE01}[0x000A]Please send data from Nintendo 3DS[0x000A]downloadable software that is able{0xBE00}[0x000A]to use Pokémon Link.{0xBE01}
+{0xBDFF:0x000B}
+Data could not be retrieved.{0xBE01}[0x000A]In order to retrieve this data, you must have[0x000A]at least six empty spots in your Boxes.{0xBE01}[0x000A]Please reorganize your Boxes and try again.{0xBE01}
+Any Pokémon have been transferred[0x000A]to your Boxes.{0xBE05,0x0000}{0xBE01}
+Any items have been sent to your Bag.{0xBE05,0x0000}{0xBE01}
+The received data was corrupted.{0xBE01}
+The data is now being reinitialized...
+Data has been reinitialized.{0xBE01}[0x000A]Start up the downloadable software,[0x000A]and try to send your data again.{0xBE01}
+Data could not be retrieved.{0xBE01}[0x000A]In order to retrieve data, you must have[0x000A]received a Pokédex first.{0xBE01}
+{0xBDFF:0x0013}
+Data has been successfully retrieved from[0x000A]{0x0196,0x0001}!{0xBE05,0x0000}{0xBE01}
+{0x0100,0x0002} has been sent[0x000A]{0x0206,0x0001,0x002C} Poké Mile{0x1101,0x0001,0x0100}s!{0xBE05,0x0000}{0xBE01}
+{0x0100,0x0002} has been sent[0x000A]{0x0206,0x0001,0x002C} Battle Point{0x1101,0x0001,0x0100}s!{0xBE05,0x0000}{0xBE01}
+Any Pokémon Eggs have been transferred[0x000A]to your Boxes.{0xBE05,0x0000}{0xBE01}
+Any Berries have been sent to your Bag.{0xBE05,0x0000}{0xBE01}
+{0xBDFF:0x0019}
+You can retrieve data from Nintendo 3DS[0x000A]downloadable software using Pokémon Link.{0xBE01}[0x000A]Any Pokémon or items that you retrieve will[0x000A]be transferred directly to your Boxes or Bag.{0xBE01}
+Any TMs have been sent to your Bag.{0xBE05,0x0000}{0xBE01}

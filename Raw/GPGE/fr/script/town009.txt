@@ -1,0 +1,14 @@
+msg_town009_kanban_01=Cramois’Île[0x000A]« Rouge comme les flammes »
+msg_town009_kanban_02=Laboratoire de Cramois’Île
+msg_town009_kanban_03=Arène Pokémon de Cramois’Île{0xBE01}[0x000A]Champion : Auguste[0x000A]Le maître du quiz !
+msg_town009_door_01=Quelque chose est écrit en petit sur la porte :{0xBE01}[0x000A]« Question :[0x000A]Où est la clé de cette Arène ?{0xBE01}[0x000A]Indice :[0x000A]Peut-être se trouve-t-elle quelque part{0xBE00}[0x000A]à l’intérieur d’un bâtiment dont la façade{0xBE00}[0x000A]est couverte de plantes grimpantes... ? »
+msg_town009_youngf_01_01=Auguste, de l’Arène de Cramois’Île, est un type[0x000A]étrange.{0xBE01}[0x000A]Il vit ici depuis bien avant la construction[0x000A]du laboratoire.
+msg_town009_oldm_01_01=Ici, c’est le Manoir Pokémon. On voit parfois des[0x000A]scientifiques y entrer pour faire des recherches.
+msg_town009_poke_01={0xFF00,0x0009}Magmar :{0xFF00,0x0000} Maaar !
+msg_town009_poke_02={0xFF00,0x0009}Stari :{0xFF00,0x0000} Stariii !
+msg_masaki_01_p01_field_t009={0xBDFF:0x0008}
+msg_masaki_01_p02_field_t009={0xBDFF:0x0009}
+msg_masaki_01_p03_field_t009={0xBDFF:0x000A}
+msg_masaki_01_p04_field_t009={0xBDFF:0x000B}
+msg_masaki_01_p05_field_t009={0xBDFF:0x000C}
+msg_masaki_01_p06_field_t009={0xBDFF:0x000D}

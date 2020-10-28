@@ -1,0 +1,52 @@
+Die SD Card wird überprüft...[0x000A]Bitte warte einen Moment.
+Unzureichender Speicherplatz auf der SD Card.[0x000A]Bitte schaffe neuen Platz auf deiner SD Card.{0xBE01}
+Der Speicher der Kamera-Anwendung ist voll.[0x000A]Du kannst keine weiteren Fotos mehr speichern.{0xBE01}[0x000A]Bitte lösche einige Fotos auf deinem System.{0xBE01}
+Bei der Kamera-Anwendung ist ein Fehler[0x000A]aufgetreten.{0xBE01}
+Die Daten auf deiner SD Card waren[0x000A]fehlerhaft und wurden daher gelöscht.{0xBE01}
+Die SD Card ist voll. Du kannst keine weiteren[0x000A]Fotos mehr speichern.{0xBE01}[0x000A]Bitte schaffe neuen Speicherplatz auf der[0x000A]SD Card deines Systems.{0xBE01}
+Achtung: Es k{0x1101,0x0000,0x0402}anönnen nur noch {0x0200,0x0000} Foto{0x1101,0x0000,0x0100}s über den[0x000A]Alola-Fotoclub gespeichert werden.{0xBE01}
+Die maximale Anzahl an Fotos, die du über den[0x000A]Alola-Fotoclub speichern kannst, ist erreicht.{0xBE01}[0x000A]Bitte schaffe neuen Platz, indem du nicht[0x000A]benötigte Fotos in deinem Bilderalbum löschst.{0xBE01}
+Daten werden auf der SD Card gespeichert...[0x000A]Bitte das System nicht ausschalten.
+Um zusätzliche Deko-Elemente einzufügen,[0x000A]musst du zunächst andere löschen.{0xBE01}
+Der Speicher der Kamera-Anwendung ist voll.[0x000A]Du kannst keine weiteren Fotos mehr speichern.{0xBE01}[0x000A]Bitte lösche einige Fotos auf deinem System.{0xBE01}
+Die SD Card ist voll. Du kannst keine weiteren[0x000A]Fotos mehr speichern.{0xBE01}[0x000A]Bitte schaffe neuen Speicherplatz auf der[0x000A]SD Card deines Systems.{0xBE01}
+Die Fotodaten wurden auf der SD Card[0x000A]gespeichert.{0xBE01}
+Soll dieses Foto gespeichert werden?
+Zuvor gespeicherte Fotodaten werden gelöscht.[0x000A]Möchtest du wirklich fortfahren?
+Du kannst keine weiteren Fotos in deinem[0x000A]Bilderalbum speichern.{0xBE01}[0x000A]Um weitere Fotos speichern zu können, musst[0x000A]du die Option „Überschreiben“ wählen.{0xBE01}
+Das von dir bearbeitete Foto wird nicht[0x000A]gespeichert. Willst du wirklich fortfahren?
+Überschreiben
+Als Kopie speichern
+Nicht speichern
+Zurück
+Ja
+Nein
+Hier kannst du die von dir geschossenen Fotos[0x000A]mit Deko-Elementen verzieren.
+Berühre die Icons am unteren Rand des[0x000A]Touchscreens, um Deko-Elemente aus[0x000A]unterschiedlichen Kategorien zu wählen.
+Um deinem Foto ein Deko-Element hinzuzufügen,[0x000A]musst du es berühren und auf die gewünschte[0x000A]Stelle ziehen.
+Deko-Elemente, die du deinem Foto hinzufügst,[0x000A]können mithilfe des Touchpens beliebig[0x000A]verschoben werden.
+Um ein hinzugefügtes Deko-Element zu löschen,[0x000A]musst du es auf das Mülleimer-Symbol ziehen,[0x000A]das erscheint, sobald du es berührst.
+Bist du mit dem Verzieren des Fotos fertig,[0x000A]dann drücke den A-Knopf, um es zu speichern.[0x000A][0x000A]{0xFF00,0x0001}Warnung: Nachdem du ein Foto verziert und[0x000A]gespeichert hast, kannst du ihm keine weiteren[0x000A]Deko-Elemente mehr hinzufügen.{0xFF00,0x0000}
+fs_deco_info_07
+fs_deco_info_08
+fs_deco_info_09
+fs_deco_info_10
+fs_deco_info_11
+fs_deco_info_12
+fs_deco_info_13
+fs_deco_info_14
+fs_deco_info_15
+fs_deco_info_16
+fs_deco_info_17
+fs_deco_info_18
+fs_deco_info_19
+fs_deco_info_20
+fs_deco_info_21
+fs_deco_info_22
+fs_deco_info_23
+fs_deco_info_24
+fs_deco_info_25
+{0x0200,0x0000}
+/
+Abbrechen
+Das Foto wurde nicht verändert.[0x000A]Möchtest du die Bearbeitung abbrechen?

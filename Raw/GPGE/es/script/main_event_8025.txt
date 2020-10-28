@@ -1,0 +1,8 @@
+msg_main8025_gym_01=¡Anda, aquí viene un{0x1100,0x00FF,0x110F} futuro Campeóna futura Campeona!
+msg_main8025_gym_02=Este edificio que ves aquí es el Gimnasio de[0x000A]Ciudad Carmín.
+msg_main8025_gym_05=Sin embargo, solo puedes acceder a él si eres[0x000A]capaz de {0xFF00,0x0006}talar arbustos{0xFF00,0x0000}.
+msg_main8025_gym_06=¿No sabes cómo hacerlo? Hmmm, si no recuerdo[0x000A]mal, el Capitán del S. S. Anne podría ayudarte.{0xBE01}[0x000A]Conoce una técnica para cortar arbustos, así que[0x000A]ve a hablar con él.
+msg_main8025_gym_03=Este edificio que ves aquí es el Gimnasio de[0x000A]Ciudad Carmín.
+msg_main8025_gym_07=Sin embargo, solo puedes acceder a él si eres[0x000A]capaz de {0xFF00,0x0006}talar arbustos{0xFF00,0x0000}.
+msg_main8025_gym_08=Si el instinto no me falla, tu {0x0101,0x0002} es capaz de[0x000A]hacerlo. Venga, ¡pruébalo!
+msg_main8025_gym_04=¡Muy bien hecho! ¡Has {0xFF00,0x0006}talado el arbusto{0xFF00,0x0000}!{0xBE05,0x0004}{0xBE05,0x0001}{0xBE01}[0x000A]Puesto que has cumplido el requisito para entrar[0x000A]en el gimnasio, allí te estaré esperando.

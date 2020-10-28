@@ -1,0 +1,22 @@
+CONTINUE
+Badges:
+
+Pokédex:
+
+Time:
+:
+{0x0100,0x0000}
+{0x0105,0x0000}
+{0x0200,0x0000}
+{0x0202,0x0000}
+{0x0202,0x0000}
+{0x0201,0x0000}
+POKÉMON LINK
+MYSTERY GIFT
+LIVE COMPETITION
+{0xBDFF:0x0010}
+The saved data was erased!
+Delete all saved data?
+Once the data has been deleted,[0x000A]there is no way to recover it.{0xBE01}[0x000A]Is it really OK to delete this saved data?
+YES
+NO

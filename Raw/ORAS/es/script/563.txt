@@ -1,0 +1,33 @@
+Eh, ¿qué tal vamos? ¡Escucha algo que te va a[0x000A]interesar! ¿Camino de convertirte en Campe{0x1100,0x00FF,0x0302}ónona?{0xBE01}[0x000A]Yo no soy Entrenador, pero te puedo dar un par[0x000A]de buenos consejos.
+¡Pues ya está decidido! ¡Tú y yo vamos a alzarnos[0x000A]con el título de Campeón Pokémon juntos!{0xBE01}[0x000A]Un Entrenador tiene que reunir Medallas de[0x000A]Gimnasio, ¿no?{0xBE01}[0x000A]¡Pero ganar a los Líderes no es pan comido![0x000A]¡Y ahí entro yo! Puedo asesorarte como nadie.
+Petra, la Líder del Gimnasio, usa Pokémon de tipo[0x000A]Roca.{0xBE01}[0x000A]El tipo Roca es muy resistente, pero no tiene[0x000A]ninguna oportunidad si se usan movimientos de{0xBE00}[0x000A]tipo Agua o Planta.{0xBE01}[0x000A]Si derrotas a la Líder, ven a verme. ¡Venga, a por todas!
+¡Guau, vaya pedazo de victoria! ¡Seguro que ha[0x000A]sido por todo lo que te he animado desde aquí!{0xBE01}[0x000A]¡Genial! Consulta tu Ficha de Entrenador. Debería[0x000A]aparecer la Medalla Piedra que has conseguido.{0xBE01}[0x000A]Dicho de otra forma... ¡Has dado el primer paso[0x000A]hacia la cima! ¡Tiene que ser superemocionante!
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+Tal y como esperaba...{0xBE01}[0x000A]Estaba segura de que seríais capaces de llegar hasta[0x000A]mí sin mayores dificultades.{0xBE01}[0x000A]¿Me harías el favor de enseñarme tus Pokémon y tus[0x000A]técnicas de combate?
+{0xBDFF:0x000B}
+Qué se le va a hacer.{0xBE01}[0x000A]Según las reglas de la Liga Pokémon, los Entrenadores[0x000A]deben recibir esto si derrotan a un Líder.{0xBE01}[0x000A]Te entrego la Medalla Piedra oficial de la Liga Pokémon.
+{0x0100,0x0000} ha recibido la Medalla Piedra de manos[0x000A]de Petra.
+Con la Medalla Piedra, todos los Pokémon de hasta[0x000A]Nv. 20 te obedecerán sin rechistar, incluso los que{0xBE00}[0x000A]hayas recibido mediante intercambios.{0xBE01}[0x000A]Además, podrán usar la MO Corte fuera del combate.[0x000A]Y como guinda especial, quiero darte esto.
+Tumba Rocas es un movimiento en el que se lanzan[0x000A]rocas al rival, lo que no solo le causa daño, sino que{0xBE00}[0x000A]también reduce su Velocidad.{0xBE01}[0x000A]Usa la MT para enseñarle ese movimiento a un Pokémon.{0xBE01}[0x000A]Además, como la puedes utilizar todas las veces que[0x000A]quieras, no tendrás que andarte con miramientos.{0xBE01}[0x000A]¡Pruébala sin falta!
+Ya que eres tan fuerte, deberías desafiar a otros Líderes.{0xBE01}[0x000A]Pero antes lucha contra muchos Entrenadores para ganar[0x000A]experiencia.
+Gimnasio Pokémon de Ciudad Férrica
+Gimnasio Pokémon de Ciudad Férrica[0x000A]Líder del Gimnasio: Petra{0xBE01}[0x000A]Entrenadores reconocidos:[0x000A]{0x0100,0x0000}
+Ah, hola.{0xBE01}[0x000A]Tú debes de ser un{0x1100,0x00FF,0x0706} nuevoa nueva aspirante, ¿verdad?
+Yo soy Petra, la Líder del Gimnasio Pokémon de Ciudad[0x000A]Férrica.
+Me convertí en Líder para poder aplicar lo que había[0x000A]aprendido en la Escuela de Entrenadores Pokémon.
+Si me derrotas en combate, te entregaré una Medalla de[0x000A]Gimnasio como prueba de tu fuerza.{0xBE01}[0x000A]Acepta el desafío cuando estés list{0x1100,0x00FF,0x0101}oa.
+Estaré esperando con impaciencia el momento en que[0x000A]podamos medir nuestras fuerzas.{0xBE01}[0x000A]Hasta entonces, te deseo un buen viaje.
+Hay expuestos fósiles de varios tipos.
+Hay expuestos varios fósiles. En la placa puede leerse:[0x000A]“Bosque petrificado”.{0xBE01}[0x000A]No sabía que los árboles también podían fosilizarse...
+Hay objetos útiles para extraer fósiles.
+¡Qué bonito ámbar!
+Hay expuestas varias piedras. En la placa puede leerse:[0x000A]“Muestra de minerales de Kalos”.{0xBE01}[0x000A]Al parecer, existen yacimientos mineros en un lugar[0x000A]llamado “Cueva Brillante”.
+Enhorabuena por haberte alzado con el título de[0x000A]Campe{0x1100,0x00FF,0x0302}ónona.{0xBE01}[0x000A]¿Sabes? De vez en cuando, me acuerdo del día en el[0x000A]que te entregué la Medalla Piedra y de la sensación que{0xBE00}[0x000A]tuve al combatir contigo.{0xBE01}[0x000A]Me haría mucha ilusión que algún día volviéramos a medir[0x000A]nuestras fuerzas.
+Entre mis conocidos, se encuentra cierto individuo[0x000A]llamado Máximo...{0xBE01}[0x000A]Si le hablas de gemas singulares o de Pokémon de tipo[0x000A]Acero, no puede evitar emocionarse.{0xBE01}[0x000A]Le brillan los ojos, empieza a hablar precipitadamente,[0x000A]le cambia la voz, la cara... No parece él mismo.{0xBE00}[0x000A]¡Hasta parece guapo!
+Gimnasio Pokémon de Ciudad Férrica[0x000A]Líder del Gimnasio: Petra{0xBE01}[0x000A]Entrenadores reconocidos:[0x000A]{0x0100,0x0000}{0xBE00}[0x000A]Blasco
+Hay expuesta una maqueta. En la placa puede leerse:[0x000A]“Corte de los estratos geológicos de Pardal”.{0xBE01}[0x000A]En los alrededores de Pueblo Pardal se hallan algunos[0x000A]de los más importantes yacimientos fósiles de Hoenn.

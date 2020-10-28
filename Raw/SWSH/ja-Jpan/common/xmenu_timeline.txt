@@ -1,0 +1,10 @@
+ui_msg_xmenu_timeline_weather_00=ワイルドエリアにて[0x000A]豪雨　発生中！
+ui_msg_xmenu_timeline_weather_01=ワイルドエリアにて[0x000A]吹雪　発生中！
+ui_msg_xmenu_timeline_weather_02=ワイルドエリアにて[0x000A]砂嵐　発生中！
+ui_msg_xmenu_timeline_weather_03=ワイルドエリアにて[0x000A]霧　発生中！
+ui_msg_xmenu_timeline_suana_00=ダイマックスポケモンが[0x000A]ワイルドエリアに　いるようです！
+ui_msg_xmenu_timeline_pokejob_00=ポケジョブから　ポケモンが[0x000A]帰ってきた　ようですよ！
+ui_msg_xmenu_timeline_camp_00=ここでは　キャンプを　開けません
+ui_msg_xmenu_timeline_update_00={0xBDFF:0x0007}
+ui_msg_xmenu_timeline_communication_00=ＹＹ通信で　遊べる[0x000A]人が　いるようです！
+ui_msg_xmenu_timeline_info_00=みにいく

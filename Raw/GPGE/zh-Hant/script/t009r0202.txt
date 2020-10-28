@@ -1,0 +1,5 @@
+msg_t009r0202_diary_01=日記  ７月５日{0xBE01}[0x000A]我們在叢林的深處[0x000A]發現了新種寶可夢。
+msg_t009r0202_diary_02=日記 ７月10日[0x000A]我把新發現的寶可夢{0xBE00}[0x000A]命名為夢幻。
+msg_t009r0202_switch_01={0xBDFF:0x0002}
+msg_t009r0202_switch_02={0xBDFF:0x0003}
+msg_t009r0202_switch_03={0xBDFF:0x0004}

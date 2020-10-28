@@ -1,0 +1,61 @@
+Es ist kein Kampfvideo vorhanden.[0x000A][0x000A]Kampfvideos können zum Beispiel während[0x000A]eines Link-Kampfes aufgezeichnet werden.
+Soll dieses Kampfvideo gelöscht werden?
+Das Kampfvideo wird gelöscht...[0x000A]Bitte das System nicht ausschalten.
+Das Kampfvideo wurde gelöscht.
+Server wird überprüft...[0x000A]Bitte das System nicht ausschalten.
+Soll dieses Kampfvideo nicht länger[0x000A]öffentlich zugänglich sein?
+Dieses Kampfvideo ist nicht mehr[0x000A]öffentlich zugänglich.
+Das Kampfvideo wurde[0x000A]nicht gefunden.
+Dieses Kampfvideo kann[0x000A]nicht abgespielt werden.
+Der Öffentlichkeit zugänglich gemachte[0x000A]Kampfvideos können frühestens am Tag nach{0xBE00}[0x000A]ihrer Veröffentlichung wieder entfernt werden.{0xBE01}[0x000A]Möchtest du dieses Kampfvideo im Internet[0x000A]der Öffentlichkeit zugänglich machen?
+Das Kampfvideo wurde im Internet[0x000A]der Öffentlichkeit zugänglich gemacht.
+Dieses Kampfvideo kann der Öffentlichkeit[0x000A]nicht zugänglich gemacht werden.
+Mit welchem Trainer möchtest[0x000A]du dir einen Probekampf liefern?
+Mit welchen Pokémon möchtest[0x000A]du einen Probekampf bestreiten?
+Du hast nicht genug Pokémon[0x000A]für einen Probekampf!
+Möchtest du mit dem[0x000A]Probekampf beginnen?
+Kampfvideo wird gesendet...[0x000A]Bitte das System nicht ausschalten.
+Beende öffentlichen Zugriff auf Kampfvideo...[0x000A]Bitte das System nicht ausschalten.
+Bitte wähle ein Kampfvideo aus, das du der[0x000A]Öffentlichkeit zugänglich machen möchtest.
+Wiedergabe des Kampfvideos[0x000A]wird vorbereitet...
+Der öffentliche Zugriff auf das Kampfvideo[0x000A]kann erst am nächsten Tag widerrufen werden.
+Für Kampfvideos von Multikämpfen[0x000A]ist kein Probekampf möglich.
+Danke, dass du die Kampfkamera verwendest.{0xBE01}[0x000A]Wenn du über das PSS eine Verbindung mit[0x000A]dem Internet herstellst und die Kampfkamera{0xBE00}[0x000A]benutzt, kannst du ein Kampfvideo hochladen,{0xBE00}[0x000A]das du zuvor aufgezeichnet hast.{0xBE01}[0x000A]Wenn du deinen Freunden den Code deines[0x000A]Kampfvideos mitteilst, können diese es über{0xBE00}[0x000A]das Internet herunterladen und ansehen,{0xBE00}[0x000A]auch wenn sie weit entfernt sind.{0xBE01}[0x000A]Viel Spaß mit der Kampfkamera und den[0x000A]Kampfvideos!
+Das Kampfvideo wird gesucht...
+Wiedergaben:
+{0xBDFF:0x0019}
+Die SD Card wird überprüft...[0x000A]Bitte das System nicht ausschalten.
+Beschädigte Kampfvideos[0x000A]wurden entfernt.
+Suche per Code
+{0x0202,0x0000}/{0x0202,0x0001}
+{0xBDFF:0x001E}
+Pokémon-Team
+Kampfbox
+Abbrechen
+{0x0100,0x0000}
+Registriert am:
+{0x0201,0x0002}.{0x0201,0x0001}.{0x0203,0x0000,0x0000}
+Wiedergaben:
+{0x0206,0x0000,0x0020}
+{0x0203,0x0000,0x0020}.
+Kampf
+Umkehrkampf
+Einzelkampf
+Doppelkampf
+Dreierkampf
+Reihumkampf
+Multikampf
+{0xBDFF:0x002F}
+Link-Kampf
+Kampfhaus
+Super-Einzelkampf
+Super-Doppelkampf
+Super-Dreierkampf
+Super-Reihumkampf
+Super-Multikampf
+Kampf-Plaza
+Freier Modus
+Bewertungsmodus
+Spezialmodus
+Ein Verbindungsfehler ist aufgetreten.[0x000A]Bitte beginne von vorne.
+{0xBDFF:0x003C}

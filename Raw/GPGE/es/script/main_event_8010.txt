@@ -1,0 +1,17 @@
+msg_main8010_water_01=Hola, ¿qué tal?
+msg_main8010_water_05=¿Qué táctica utilizas para entrenar Pokémon?
+msg_main8010_water_06=¡La mía es la ofensiva total con los Pokémon de[0x000A]tipo Agua!
+msg_main8010_water_07=¡Estás delante de Misty! Vas a ver que no solo[0x000A]soy una cara bonita. ¡Que empiece el combate!
+msg_main8010_water_08=¿Estás preparad{0x1100,0x00FF,0x0101}oa?
+msg_gymleader_02_01={0xBDFF:0x0005}
+msg_gymleader_02_06={0xBDFF:0x0006}
+msg_main8010_water_02=¡Vaaale!{0xBE01}[0x000A]¡Toma la Medalla Cascada para que todos sepan[0x000A]que me has ganado!
+msg_main8010_sys_01=Misty te ha entregado la {0xFF00,0x0006}Medalla Cascada{0xFF00,0x0000}.
+msg_main8010_water_03=Con la Medalla Cascada, los Pokémon de hasta[0x000A]Nv. 30 siempre te obedecerán sin rechistar,{0xBE00}[0x000A]incluso los que recibas de otros Entrenadores.{0xBE01}[0x000A]Y toma, llévate también esta MT, mi favorita.
+msg_main8010_sys_02=Misty te ha entregado la {0x0109,0x0001}, que permite[0x000A]enseñar el movimiento {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000}.
+msg_main8010_water_04=La MT29 te permite enseñar a un Pokémon el[0x000A]movimiento Escaldar, que resulta aún más útil{0xBE00}[0x000A]si lo usan Pokémon de tipo Agua.
+msg_gymleader_02_05={0xBDFF:0x000C}
+msg_gymleader_02_02={0xBDFF:0x000D}
+msg_gymleader_02_03={0xBDFF:0x000E}
+msg_gymleader_02_04={0xBDFF:0x000F}
+msg_gymleader_02_07={0xBDFF:0x0010}

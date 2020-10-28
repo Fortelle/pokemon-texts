@@ -1,0 +1,10 @@
+Yes
+No
+$<var>
+Would you like to save your adventure so far?
+Now saving your adventure... Don't turn off the power.
+You saved the game.
+There's already a saved game file, so you can't save now. Refer to the electronic manual for details.
+Saving failed.
+You received $<var>!
+You received <var>!

@@ -1,0 +1,15 @@
+main_event_0770_11=Bonjour, Challenger !{0xBE01}[0x000A]Pour affronter notre grand et estimé Champion,[0x000A]il faut être en possession du Badge Plante,{0xBE00}[0x000A]de Greenbury, et du Badge Eau, de Skifford !
+main_event_0770_12=Bonjour, Challenger !{0xBE01}[0x000A]Je vois que vous possédez bien les Badges[0x000A]nécessaires pour affronter notre Champion.{0xBE01}[0x000A]Malheureusement, le grand Kabu est parti[0x000A]s’entraîner à la Mine de Galar nº 2.{0xBE01}[0x000A]Comment gagner la mine, me demandez-vous ?[0x000A]Le plus simple est encore de passer par Skifford.
+main_event_0770_01=Bravo, Challenger ![0x000A]Tu as réussi à parvenir jusqu’ici !{0xBE01}[0x000A]Rares sont les Dresseurs capables de défier[0x000A]le grand Kabu, vu la difficulté de sa Mission{0xBE00}[0x000A]d’Arène ! Es-tu suffisamment échauffé{0x1100,0x00FF,0x0100}e ?
+main_event_0770_select_01=Oui, on peut y aller !
+main_event_0770_select_02=Non, il me faut un peu de temps.
+main_event_0770_09=Je ne bouge pas, tu sauras où me trouver[0x000A]quand tu seras vraiment prêt{0x1100,0x00FF,0x0100}e !
+main_event_0770_07=Pour participer au Défi des Arènes,[0x000A]il faut être en uniforme. Va te changer !
+main_event_0770_08=Mission accomplie ! Bravo ![0x000A]C’était impressionnant !{0xBE01}[0x000A]Tu vas enfin pouvoir affronter Kabu. Qui de[0x000A]vous deux aura la plus brûlante détermination ?
+main_event_0770_02=Notre Mission d’Arène n’a rien d’une Mission[0x000A]ordinaire ! En piste !
+main_event_0770_03=Accepte cette CT pour fêter tes exploits[0x000A]d’aujourd’hui !
+main_event_0770_10=Et voici également un uniforme avec le même[0x000A]design que celui de Kabu ! Magnifique, non ?
+main_event_0770_04=Peu de Dresseurs parviennent à défier le grand[0x000A]Kabu, mais moins encore arrivent à le vaincre !{0xBE01}[0x000A]Je vais garder un œil sur toi, je suis curieux de voir[0x000A]ce que tu vas devenir !
+main_event_0770_05=C’est pour la Mission ?[0x000A]N’oublie pas, il suffit de marquer des points !
+main_event_0770_06={0xBDFF:0x000D}
+main_event_0770_rival_01=J’étais « on fire » pour mon combat contre Kabu ![0x000A]T’aurais dû voir ça !{0x0114,0x0005}

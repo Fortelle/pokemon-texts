@@ -1,0 +1,10 @@
+Sì
+No
+{0x0206,0x0008,0x002E} $
+Vuoi salvare il gioco?
+Salvataggio in corso.[0x000A]Non spegnere la console.
+{0x0100,0x0000} ha salvato il gioco.
+Esiste già un salvataggio e non puoi crearne[0x000A]un altro.{0xBE01}[0x000A]Consulta il manuale di istruzioni per ulteriori[0x000A]informazioni.
+Il salvataggio non è riuscito.
+{0x0100,0x0000} riceve {0x0207,0x0002,0x002E} $!
+{0x0100,0x0000} ottiene {0x1502,0x0001}{0x0101,0x0001}!

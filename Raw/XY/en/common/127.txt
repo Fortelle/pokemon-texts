@@ -1,0 +1,83 @@
+PP
+Lv.
+NEXT LV.
+HP
+ATTACK
+DEFENSE
+SP. ATK
+SP. DEF
+SPEED
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+{0xBDFF:0x000B}
+SUMMARY
+CHECK MOVES
+CATEGORY
+POWER
+ACCURACY
+STATUS
+PHYSICAL
+SPECIAL
+Choose a Pokémon.
+Use on which Pokémon?
+Battle using which Pokémon?
+SWITCH
+IN BATTLE
+CANNOT BATTLE
+PARTNER’S
+RESTORE
+SUMMARY
+CHECK MOVES
+{0x0102,0x0001} is already in battle!
+{0x0102,0x0001} has no energy left to battle!
+An Egg can’t battle!
+You cannot decide for your partner!
+{0x0102,0x0001} can’t be switched out!
+RESTORE HP/PP
+RESTORE STATUS
+Restore which move?
+{0xBDFF:0x0026}
+{0xBDFF:0x0027}
+HP/PP[0x000A]RESTORE
+STATUS[0x000A]RESTORE
+{0xBDFF:0x002A}
+POKÉ BALLS
+BATTLE ITEMS
+LAST USED ITEM
+USE
+{0xBDFF:0x002F}
+It’s no good! It’s impossible to aim[0x000A]unless there is only one Pokémon!
+There is no room left in the PC!
+It’s no good! It’s impossible to aim[0x000A]at a Pokémon that’s not in sight!
+It’s impossible to aim without being focused!
+{0x0107,0x0001}’s effect prevents the[0x000A]item’s use on {0x0102,0x0000}!
+YES
+NO
+USE NEXT POKÉMON
+RUN
+FORGET
+KEEP OLD MOVES!
+SWITCH POKÉMON
+KEEP BATTLING
+Use it where?
+Restore which move?
+It won’t have any effect.
+HM moves can’t be forgotten now.
+QUIT
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}
+{0x0202,0x0000}
+×
+/
+/
+L
+Right
+Left
+Center
+{0x0204,0x0000,0x002C}
+-
+Standing by
+{0x0102,0x0001} has already been selected.
+Sycamore’s words echoed...[0x000A]There’s a time and place for everything,{0xBE00}[0x000A]but not now.

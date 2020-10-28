@@ -1,0 +1,24 @@
+Orden:
+
+{0x0200,0x0000}
+Pokédex:
+
+{0x0202,0x0000}
+Spielzeit:
+{0x0202,0x0000}
+{0x0201,0x0000}
+Zuletzt gespeichert am:
+:
+{0x0201,0x0002}.{0x0201,0x0001}.{0x0203,0x0000,0x0000}
+{0x0201,0x0000}
+{0x0201,0x0000}
+{0x0105,0x0000}
+Möchtest du das Spiel speichern?
+Speichervorgang...[0x000A]Bitte das System nicht ausschalten.
+{0x0100,0x0000} hat das Spiel gespeichert.
+Es gibt bereits einen Spielstand.[0x000A]Speichern ist daher nicht möglich.{0xBE01}[0x000A]Weitere Details dazu findest du[0x000A]in der Spielanleitung.
+Speichern fehlgeschlagen.
+Spielsynchro wird ausgeführt...[0x000A]Bitte das System nicht ausschalten.
+Der Server ist momentan überlastet.[0x000A]Die Spielsynchro wird abgebrochen...
+{0xBDFF:0x0016}
+Die Daten, die für die Internetverbindung[0x000A]nötig sind, wurden empfangen.{0xBE01}[0x000A]Möchtest du das Spiel speichern?

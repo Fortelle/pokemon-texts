@@ -1,0 +1,167 @@
+Money
+{0xBDFF:0x0001}
+Battle Points
+Festival Coins
+${0x0206,0x0000,0x002C}
+${0x0204,0x0000,0x002C}
+——
+{0xBDFF:0x0007}
+{0x0204,0x0000,0x002C} BP
+{0x0206,0x0000,0x002C} FC
+Quit
+{0x0109,0x0000}
+{0x0107,0x0000}
+Quit making a selection and go back to the[0x000A]previous screen.
+In Bag:
+{0x0202,0x0000}
+×
+{0x0201,0x0000}
+Here you go.[0x000A]Thank you.
+You don’t have enough money.
+You can’t take any more of this item.
+Yes
+No
+Welcome to the Poké Mart![0x000A]May I help you?
+Welcome to the Poké Mart![0x000A]How can I help our Champion today?
+Buy
+Sell
+No thanks!
+Please come again!
+Is there anything else I can do for you?
+{0x1001}{0x0109,0x0000}? Certainly.[0x000A]How many would you like?
+You want {0x0201,0x0001} {0x1000}{0x0109,0x0000}.[0x000A]That will be ${0x0206,0x0002,0x002C}. Is that OK?
+You want {0x0201,0x0001} {0x1001}{0x0109,0x0000}.[0x000A]That will be ${0x0206,0x0002,0x002C}. Is that OK?
+You put your purchase away in the[0x000A]{0x0112,0x0001} Pocket.
+You also get a Premier Ball as an added bonus.
+...Oh?[0x000A]You have a discount coupon!{0xBE01}[0x000A]Then allow me to take a special ${0x0206,0x0000,0x002C}[0x000A]off of your total for you!
+You can reuse your discount coupon as many[0x000A]times as you’d like until you leave the shop,{0xBE00}[0x000A]so I hope you use it again!
+Welcome to the Technical Machine shop![0x000A]May I help you?
+You already have it!
+No. {0x0202,0x0000}, {0x0107,0x0001}?[0x000A]That will be ${0x0206,0x0002,0x002C}. OK?
+You put away {0x0107,0x0000}[0x000A]in the {0x0112,0x0001} Pocket.
+Hello. Welcome!{0xBE01}[0x000A]Do you want to trade in your BP, Battle Points,[0x000A]for some prizes?
+Collect Battle Points and come again![0x000A]Promise?
+I’m so sorry, but you don’t have enough[0x000A]Battle Points.
+How many {0x1001}{0x0109,0x0000} do you want?
+You want {0x0201,0x0001} {0x1000}{0x0109,0x0000}.[0x000A]That will be {0x0206,0x0002,0x002C} BP. Is that OK?
+You want {0x0201,0x0001} {0x1001}{0x0109,0x0000}.[0x000A]That will be {0x0206,0x0002,0x002C} BP. Is that OK?
+{0xBDFF:0x002F}
+We can’t provide any more of that today.[0x000A]Please come again tomorrow.
+We can’t provide any more of that today.[0x000A]Please come again tomorrow.
+{0x1303,0x0000}{0x0109,0x0000}?[0x000A]That would put you out {0x0206,0x0001,0x0000} FC, OK?
+{0x1303,0x0000}{0x0109,0x0000}?[0x000A]That would cost you {0x0206,0x0001,0x0000} FC, OK?
+Then here you are.[0x000A]Thank you for your business!
+Here you go.[0x000A]Thank you for your business!
+You put away {0x0107,0x0000} in the[0x000A]{0x0112,0x0001} Pocket.
+Then I’ll be taking your Festival Coins.
+Then allow me to collect your Festival Coins.
+You don’t have enough Festival Coins!
+You haven’t got enough Festival Coins!
+It looks like your Bag is too full!
+It looks like your Bag is too full!
+Which Pokémon would you like to use it on?
+Which Pokémon would you like to use it on?
+But it doesn’t look like it will have any effect on[0x000A]that particular Pokémon!
+But it doesn’t look like it will have any effect on[0x000A]that particular Pokémon!
+{0xBDFF:0x0041}
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}
+{0xBDFF:0x0046}
+{0xBDFF:0x0047}
+{0xBDFF:0x0048}
+Thanks for stopping by!{0xBE01}[0x000A]Do you want me to teach your Pokémon a move[0x000A]in exchange for some BP?
+Save up those Battle Points and come again!
+Which Pokémon do you want me to tutor?
+Choose a move that you’d like your Pokémon to[0x000A]forget so it can learn {0x0107,0x0001}.
+{0x0102,0x0000} did not learn[0x000A]{0x0107,0x0001}.
+1, {0xBE02:0x0014}2, and{0xBE02:0x0014}... {0xBE02:0x0014}... {0xBE02:0x0014}... Ta-da!{0xBE05,0x0003}{0xBE05,0x0005}{0xBE01}[0x000A]{0x0102,0x0000} forgot how to use[0x000A]{0x0107,0x0002}.{0xBE01}[0x000A]And...
+{0x0102,0x0000} learned[0x000A]{0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+Do you want me to teach your Pokémon any[0x000A]other moves while you’re here?
+It looks like your Pokémon already knows[0x000A]that move.
+I’m afraid it looks like that Pokémon of yours[0x000A]can’t learn that move.
+Lovely![0x000A]Then I’ll be taking your BP, if you don’t mind...
+You don’t have enough BP for that, though...
+Wouldn’t you like some lovely smelling incense?
+Come again! I’ll be waiting.
+Is there anything I can offer you?
+Oooh, the {0x0109,0x0000}, is it?[0x000A]And how many would you like?
+Well, {0x0201,0x0001} set of {0x0109,0x0000} will[0x000A]cost you ${0x0206,0x0002,0x002C}.
+Well, {0x0201,0x0001} sets of {0x0109,0x0000} will[0x000A]cost you ${0x0206,0x0002,0x002C}.
+And here is your incense![0x000A]Thank you and enjoy!
+I’m sorry, but it looks like you have no space[0x000A]for any more incense.
+Oh! Um. You don’t have the money, dear!
+Yo! I’m an herb seller!{0xBE01}[0x000A]I’m self-taught, but I sell good quality herbs!
+Come again!
+Anything else today?
+How many {0x1001}{0x0109,0x0000}[0x000A]do you want?
+OK, {0x0201,0x0001} {0x0109,0x0000}![0x000A]Your total is ${0x0206,0x0002,0x002C}—sound all right?
+OK, {0x0201,0x0001} {0x1001}{0x0109,0x0000}![0x000A]Your total is ${0x0206,0x0002,0x002C}—sound all right?
+And here you go.[0x000A]They’re very effective, you know!
+Hey. You can’t carry any more items.
+Ohh, sorry.[0x000A]You don’t seem to have enough cash.
+Welcome to Olivia’s jewelry shop!
+Please come again!
+Need anything else?
+How many {0x1001}{0x0109,0x0000} would you[0x000A]like to purchase?
+So you would like {0x0201,0x0001} {0x1000}{0x0109,0x0000}.[0x000A]That will be ${0x0206,0x0002,0x002C}.
+So you would like {0x0201,0x0001} {0x1001}{0x0109,0x0000}.[0x000A]That will be ${0x0206,0x0002,0x002C}.
+I’ve wrapped your purchase in this beautiful[0x000A]paper. Here you are.
+You have too many items.[0x000A]You can’t carry any more.
+I’m sorry, but you don’t have enough money.
+Are you interested in fashion?[0x000A]Do you want fashion items?
+If you become interested in fashion,[0x000A]please speak to me again.
+Is there anything else you want to buy?
+How many {0x1001}{0x0109,0x0000} do you want?
+You want {0x0201,0x0001} {0x1000}{0x0109,0x0000}.[0x000A]That’ll be ${0x0206,0x0002,0x002C}.
+You want {0x0201,0x0001} {0x1001}{0x0109,0x0000}.[0x000A]That’ll be ${0x0206,0x0002,0x002C}.
+I’m pretty sure everything you bought will look[0x000A]perfect on you.
+Aren’t you shopping too much?[0x000A]You can’t carry any more.
+Wait.[0x000A]You don’t have enough money.
+Welcome!
+Thank you!
+Oh, you have a sparkling Z-Crystal...
+You cleared Ilima’s trial.
+You cleared Lana’s trial.
+You cleared Kiawe’s trial.
+You cleared Mallow’s trial.
+You cleared Sophocles’s trial.
+You cleared Acerola’s trial.
+You cleared the trial at the Vast Poni Canyon.
+Congratulations!{0xBE01}[0x000A]Now you can purchase more items.[0x000A]So...
+You’re the first-ever Champion in Alola.[0x000A]Congratulations!{0xBE01}[0x000A]Thank you for coming here!
+It looks like your island challenge will continue[0x000A]even after becoming the Champion.
+We, the Poké Mart staff, are happy to keep[0x000A]supporting your adventure.
+Welcome to the Thrifty Megamart where the[0x000A]sales are explosive! What would you like to do?
+Thank you very much![0x000A]Please come again!
+Is there anything else I can help you with?
+{0x1001}{0x0109,0x0000}, certainly.[0x000A]How many would you like to purchase?
+You want {0x0201,0x0001} {0x1000}{0x0109,0x0000}.[0x000A]That will be ${0x0206,0x0002,0x002C}.
+You want {0x0201,0x0001} {0x1001}{0x0109,0x0000}.[0x000A]That will be ${0x0206,0x0002,0x002C}.
+Here you go.[0x000A]Thank you very much!
+Please make sure you’ve got enough money.
+I’m so sorry, but you can’t carry any more.
+Do you need anything else?
+Here you go.[0x000A]Thank you.
+You can’t carry any more!
+Hi! Welcome.{0xBE01}[0x000A]Would you like to trade BP or Battle Points[0x000A]for prizes?
+Collect Battle Points and come again!
+I’m terribly sorry to say, but you don’t have[0x000A]enough Battle Points.
+How many {0x1001}{0x0109,0x0000} [0x000A]would you like?
+You want {0x0201,0x0001} {0x1000}{0x0109,0x0000}.[0x000A]That will be {0x0206,0x0002,0x002C} BP. Is that OK?
+You want {0x0201,0x0001} {0x1001}{0x0109,0x0000}.[0x000A]That will be {0x0206,0x0002,0x002C} BP. Is that OK?
+Anything else?
+Here you go.[0x000A]Thank you.
+You can’t take any more!
+Welcome to our BP shop!{0xBE01}[0x000A]This is where you can exchange Beach Points[0x000A]for rewards!{0xBE00}[0x000A]Or wait...was it Battle Points?{0xBE00}[0x000A]What did BP stand for anyway? Huh...{0xBE01}[0x000A]Anyway! Do you want to hand over some of[0x000A]your hard-earned BP for a prize?
+Come by anytime you’ve saved up some BP!
+I’m sorry, but it looks like you don’t have enough[0x000A]BP right now!
+And how many {0x1001}{0x0109,0x0000} did you[0x000A]think you’d need today?
+So it was {0x1001}{0x0109,0x0000} you were wanting,[0x000A]and you want to get {0x0201,0x0001} of them...{0xBE00}[0x000A]That’ll be {0x0206,0x0002,0x002C} BP!
+So it was {0x1001}{0x0109,0x0000} you were wanting,[0x000A]and you want to get {0x0201,0x0001} of them...{0xBE00}[0x000A]That’ll be {0x0206,0x0002,0x002C} BP!
+Is there anything else you wanted?
+All right![0x000A]Thank you for shopping with us today!
+It looks like you can’t carry any more of those!
+You cleared Mina’s trial.
+Congratulations!{0xBE01}[0x000A]You can’t actually purchase any new items this[0x000A]time, but we’re still always happy to serve you!

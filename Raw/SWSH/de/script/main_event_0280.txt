@@ -1,0 +1,12 @@
+main_event_0280_rival_01=Ich will der allerbeste Trainer überhaupt werden!{0xBE01}[0x000A]Aber dafür brauche ich diese Empfehlung, sonst[0x000A]wird das nichts mit der Arena-Challenge.{0x0114,0x0005}
+main_event_0280_rival_02=Wir müssen Delion in diesem Kampf zeigen, was[0x000A]in uns steckt. Überzeugen wir ihn davon, dass wir{0xBE00}[0x000A]das Zeug für die Arena-Challenge haben!{0x0114,0x0005}
+main_event_0280_champion_01={0xBDFF:0x0002}
+main_event_0280_doctor_01=Den Kampf zwischen euch zwei jungen Trainern[0x000A]will ich mir auf keinen Fall entgehen lassen.{0x0114,0x000A}
+main_event_0280_champion_02=Für mich ist jeder Kampf eine Chance, etwas[0x000A]Neues zu lernen. Nur so kann ich meinem Ruf als{0xBE00}[0x000A]„Delion, der Unschlagbare“ gerecht werden.{0xBE01}[0x000A]Liefert mir einen Kampf, der sich gewaschen hat![0x000A]Lasst anständig die Fetzen fliegen, hört ihr?{0x0114,0x0004}
+main_event_0280_rival_03=Wird gemacht, Bruderherz!{0xBE01}[0x000A]Und wieder beginnt ein neues Kapitel in der[0x000A]Legende von Hop!{0xBE01}[0x000A]Zeig mir, was du draufhast, {0x0100,0x0000}!{0x0114,0x0005}
+main_event_0280_select_01=Okay! Los geht’s!
+main_event_0280_select_02=Äh, Sekunde noch...
+main_event_0280_rival_04=Jetzt geht die Legende von Hop erst[0x000A]so richtig los!{0x0114,0x0005}
+main_event_0280_rival_05=Na schön... Dann warte ich eben noch.{0x0114,0x0005}
+main_event_0280_rival_06=Du willst diese Empfehlung von Delion doch[0x000A]genauso sehr wie ich, oder nicht?{0xBE01}[0x000A]Komm schon! Kämpf gegen mich,[0x000A]{0x0100,0x0000}!{0x0114,0x0005}
+main_event_0280_champion_03=Vergiss nicht, was ich dir gesagt habe...{0xBE01}[0x000A]Du hast jede Menge Potenzial. Deshalb will ich[0x000A]auch, dass du {0x1100,0x00FF,0x0B0A,0x0000}der Rivaledie Rivalin meines Bruders wirst.{0x0114,0x0004}

@@ -1,0 +1,30 @@
+¡Bienvenid{0x1100,0x00FF,0x0101}oa! Este es el Despacho de Lotería Pokémon.{0xBE01}[0x000A]Todos los clientes de nuestro centro comercial pueden[0x000A]elegir al azar un billete de Lotería Pokémon.{0xBE01}[0x000A]Si el número del billete coincide con el del ID de uno de[0x000A]tus Pokémon, ganas un gran premio.{0xBE01}[0x000A]¿Quieres probar suerte?
+Coge un billete. A ver...
+...{0xBE02:0x000A} ...{0xBE02:0x000A} ...
+El número del billete de lotería es el {0x0204,0x0000,0x0000}.{0xBE01}[0x000A]Debo comprobar si alguno de los dígitos coincide con[0x000A]los del ID de alguno de tus Pokémon.{0xBE01}[0x000A]Espera un momento.
+¡Felicidades! Al menos un dígito del billete de lotería[0x000A]coincide con uno del número ID del siguiente miembro{0xBE00}[0x000A]de tu equipo: {0x0102,0x0001}.
+¡Felicidades! Al menos un dígito del billete de lotería[0x000A]coincide con alguno del número ID del siguiente{0xBE00}[0x000A]Pokémon: {0x0102,0x0001}, que se encuentra en una de{0xBE00}[0x000A]las cajas de tu PC.
+¡Guau! ¡Coinciden los cinco dígitos!{0xBE01}[0x000A]¡Has ganado el premio especial! ¡Una Master Ball!
+Coincidían cuatro dígitos, así que has ganado el primer[0x000A]premio... ¡Un magnífico Caramelo Raro!
+Coincidían tres dígitos, así que has ganado el segundo[0x000A]premio: ¡un magnífico PP Máximos!
+Coincidían dos dígitos, así que has ganado el tercer[0x000A]premio: ¡Un magnífico Más PP!
+Pues coincide un número, por lo que veo.{0xBE01}[0x000A]Bueno, menos da una piedra. Al menos te llevas el cuarto[0x000A]premio: ¡una botella de Leche Mu-mu!
+Lo siento. No coincide ningún dígito.
+¡Esperamos volver a verte!
+Lo siento, en este centro a la lotería[0x000A]solo se puede jugar una vez al día.{0xBE01}[0x000A]Y sin haberlo deseado, me ha salido un pareado.[0x000A]Vuelve mañana para tentar a la suerte de nuevo.
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+{0xBDFF:0x001A}
+{0xBDFF:0x001B}
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}

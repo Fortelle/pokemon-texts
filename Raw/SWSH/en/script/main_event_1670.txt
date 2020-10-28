@@ -1,0 +1,13 @@
+main_event_1670_telop_01=The next evening...
+main_event_1670_rival_01=This is it.[0x000A]Did you get enough sleep?{0x0114,0x0005}
+main_event_1670_rival_02=You and your team are the ones battling, but I’ve[0x000A]had Butterfree in my stomach since I woke up...{0x0114,0x0005}
+main_event_1670_stuff_01=Challenger {0x0100,0x0000}?{0xBE01}[0x000A]The Finals will be starting shortly.[0x000A]I’m here to escort you to the stadium.
+main_event_1670_rival_03=What’s all this! Didn’t learn your lesson yesterday?!{0xBE01}[0x000A]If you need another helping of Hop and his trusty[0x000A]{0x0101,0x0001}, I’ll be happy to give you one!{0x0114,0x0005}
+main_event_1670_stuff_02=No! Wait, please!{0xBE01}[0x000A]I’m not like those other League staff![0x000A]I’m a good one! If I may say so myself...
+main_event_1670_stuff_03=I heard about what happened yesterday.{0xBE01}[0x000A]Ms. Oleana can be a little extreme in her desire[0x000A]to assist the chairman with his goals, I’m afraid.
+main_event_1670_stuff_04=It seems she was cultivating her own group of[0x000A]League staff in secret to be deployed for...{0xBE00}[0x000A]well...things like that debacle last night.
+main_event_1670_stuff_05=But you’ve no need to worry about today’s staff![0x000A]All of us are here for the right reasons.
+main_event_1670_rival_04=Well, that’s what she says...{0xBE01}[0x000A]I guess we trust her, then, yeah, {0x0100,0x0000}?[0x000A]Let’s go! I can’t wait another minute!{0x0114,0x0005}
+main_event_1670_stuff_06=Would you like me to show you the way to[0x000A]Wyndon Stadium?
+main_event_1670_stuff_07=Then let’s be on our way!
+main_event_1670_stuff_08=Understood.{0xBE01}[0x000A]Come talk with me again if you need any help,[0x000A]or use one of the Flying Taxis out front.

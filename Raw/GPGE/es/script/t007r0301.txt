@@ -1,0 +1,8 @@
+msg_t007r0301_cook_01=¡Hola!{0xBE01}[0x000A]Ahora estamos descansando.
+msg_t007r0301_middlef_01=Suelo pasarme por el centro comercial para[0x000A]comprar medicinas porque mis Pokémon son{0xBE00}[0x000A]algo débiles.
+msg_t007r0301_middlem_01=¡Pssst![0x000A]Hay un sótano debajo de la Sala de Juegos.
+msg_t007r0301_fat_01=Ñam, ñam, ñam...{0xBE01}[0x000A]¡Cómo se curran el curri!
+msg_middlem1_01_p01_t007_r0501=Ay, madre...{0xBE01}[0x000A]Llevo tanto rato jugando que me tiemblan las[0x000A]manos...{0xBE01}[0x000A]Más me vale empezar a controlarme un poco...
+msg_middlem1_01_p02_t007_r0501={0xBDFF:0x0005}
+msg_middlem1_01_p03_t007_r0501={0xBDFF:0x0006}
+msg_middlem1_01_p04_t007_r0501={0xBDFF:0x0007}

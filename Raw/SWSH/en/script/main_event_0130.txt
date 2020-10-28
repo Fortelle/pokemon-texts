@@ -1,0 +1,13 @@
+main_event_0130_sound_01=*CRASH*
+main_event_0130_rival_01={0x1003}{0x0100,0x0000}![0x000A]Did you hear that just now?{0x0114,0x0005}
+main_event_0130_rival_02=The gate’s open![0x000A]And the Wooloo that was there...{0x0114,0x0005}
+main_event_0130_rival_03=It was tackling the fence pretty hard earlier.[0x000A]You don’t think it actually broke through there,{0xBE00}[0x000A]do you?{0x0114,0x0005}
+main_event_0130_rival_04=But it’s off-limits![0x000A]Nobody’s supposed to go in there!{0xBE01}[0x000A]I remember the professor’s granddaughter went[0x000A]in once, and she came back in a real state...{0xBE01}[0x000A]And that was nothing compared to the earful[0x000A]she got from the professor afterward!{0x0114,0x0005}
+main_event_0130_rival_05={0x1003}{0x0100,0x0000}... What do you say?{0x0114,0x0005}
+main_event_0130_select_01=We’ve got to save it!
+main_event_0130_select_02=I don’t know...
+main_event_0130_rival_06=Right? Even if we’re not supposed to, this is the[0x000A]kind of scene where you simply have to do{0xBE00}[0x000A]what’s needed!{0x0114,0x0005}
+main_event_0130_rival_07=Right...[0x000A]No one wants to get in trouble, least of all me.{0xBE01}[0x000A]But deep down you want to save that Pokémon,[0x000A]too, don’t you?{0x0114,0x0005}
+main_event_0130_rival_08=Hope you’re ready for anything, because we’re[0x000A]going in, {0x0100,0x0000}!{0x0114,0x0005}
+main_event_0130_middlem_01={0xBDFF:0x000B}
+main_event_0130_rival_09=Come on, {0x0100,0x0000}![0x000A]We can’t just leave that Pokémon on its own!

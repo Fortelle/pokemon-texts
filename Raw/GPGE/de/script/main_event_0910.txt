@@ -1,0 +1,17 @@
+msg_main0910_rocketchief_01={0xFF00,0x0009}Atlas:{0xFF00,0x0000} Du bist doch...!
+msg_main0910_rocketf_01={0xFF00,0x0009}Rüpel:{0xFF00,0x0000} Atlas, kennst du {0x1100,0x00FF,0x0F0E,0x0000}diesen Jungen?dieses Mädchen?
+msg_main0910_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Hey, {0x0100,0x0000}![0x000A]Kennst du diesen Typen?
+msg_main0910_rocketf_02={0xBDFF:0x0003}
+msg_main0910_rival_02={0xBDFF:0x0004}
+msg_main0910_rocketchief_02={0xFF00,0x0009}Atlas:{0xFF00,0x0000} Dieses Kind hat es sich in den Kopf[0x000A]gesetzt, uns das Leben schwer zu machen.{0xBE01}[0x000A]Und bedauerlicherweise ist {0x1100,0x00FF,0x0302,0x0000}ersie dazu auch noch[0x000A]ein exzellenter Trainer.
+msg_main0910_rival_03={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Ah, verstehe!{0xBE01}[0x000A]Dieser Typ ist sauer auf dich und will deshalb[0x000A]jetzt uns beiden das Leben schwer machen.{0xBE01}[0x000A]Wie kindisch!
+msg_main0910_rocketf_03={0xFF00,0x0009}Rüpel:{0xFF00,0x0000} So eine Unverschämtheit![0x000A]Du wagst es, Atlas kindisch zu nennen?!{0xBE01}[0x000A]Da rüttelt aber jemand gewaltig am[0x000A]Ohrfeigenbaum!
+msg_main0910_rocketchief_03={0xFF00,0x0009}Atlas:{0xFF00,0x0000} Kein Grund, sich so zu ereifern.{0xBE01}[0x000A]Ich weiß genau, wie mit solch einem Gesindel[0x000A]umzugehen ist...
+msg_main0910_dummy_01={0xBDFF:0x0009}
+msg_main0910_dummy_02={0xBDFF:0x000A}
+msg_main0910_rocketchief_04={0xFF00,0x0009}Atlas:{0xFF00,0x0000} Damit steht fest, dass dein letzter Sieg[0x000A]gegen mich nicht durch Glück zustande kam...{0xBE01}[0x000A]Ich habe dich unterschätzt. Aber aus Fehlern[0x000A]lernt man.{0xBE01}[0x000A]Ich werde mich in Zukunft vor euch beiden[0x000A]in Acht nehmen.
+msg_main0910_rocketf_04={0xFF00,0x0009}Rüpel:{0xFF00,0x0000} Aus dem Weg!
+msg_main0910_rival_04={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Autsch!!
+msg_main0910_rival_05=Oh, schau mal! Sie hat was verloren...
+msg_main0910_sys_01=Du erhältst eine {0xFF00,0x0006}Schlüsselkarte{0xFF00,0x0000} von[0x000A]{0x0100,0x0001}!
+msg_main0910_rival_06={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Ich würde vorschlagen, du[0x000A]behältst diese Schlüsselkarte, bis wir die{0xBE00}[0x000A]Silph Company von Team Rocket befreit haben.

@@ -1,0 +1,5 @@
+msg_t009r0202_diary_01=« Rapport du 5 juillet :[0x000A]Jungle X.{0xBE01}[0x000A]Une nouvelle espèce de Pokémon a été[0x000A]découverte au fin fond de la jungle. »
+msg_t009r0202_diary_02=« Rapport du 10 juillet :[0x000A]J’ai baptisé ce Pokémon "Mew". »
+msg_t009r0202_switch_01={0xBDFF:0x0002}
+msg_t009r0202_switch_02={0xBDFF:0x0003}
+msg_t009r0202_switch_03={0xBDFF:0x0004}

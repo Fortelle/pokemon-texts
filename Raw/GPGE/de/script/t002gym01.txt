@@ -1,0 +1,8 @@
+msg_t002gym01_gym_01=Howdy, zukünftiger Champ![0x000A]Wie geht’s, wie steht’s?{0xBE01}[0x000A]Die Identität des Arenaleiters von Vertania City[0x000A]kenne nicht einmal ich.{0xBE01}[0x000A]Aber eins weiß ich.{0xBE01}[0x000A]Dank deiner {0xFF00,0x0006}sieben Arenaorden{0xFF00,0x0000} hast du das[0x000A]Zeug dazu, den Arenaleiter herauszufordern.{0xBE01}[0x000A]Alles was ich noch dazu sagen kann, ist, dass er[0x000A]stärker ist als alle Trainer, denen du bis jetzt im{0xBE00}[0x000A]Kampf begegnet bist.{0xBE01}[0x000A]Ach ja, und die Trainer hier setzen wohl gerne[0x000A]Boden-Pokémon ein!
+msg_t002gym01_gym_02=Das gibt’s doch nicht! Giovanni war also der[0x000A]Arenaleiter hier in Vertania City?!{0xBE01}[0x000A]Es war da hinten immer so dunkel, da hab ich[0x000A]das gar nicht bemerkt...
+msg_t002gym01_gym_03=Die Arena von Vertania City hat einen[0x000A]neuen Arenaleiter!
+msg_t002gym01_green_01={0xFF00,0x0009}Blau:{0xFF00,0x0000} Was denn, du bist extra nochmal[0x000A]hierhergekommen, um mich zu besuchen?{0xBE01}[0x000A]Wie du siehst, geht’s mir blendend.{0xBE01}[0x000A]Seit ich Arenaleiter von dieser Bude bin, kriegen[0x000A]die Pokémon-Trainer in Kanto endlich mal wieder{0xBE00}[0x000A]eine anständige Herausforderung geboten.
+msg_t002gym01_poke_01={0xFF00,0x0009}Snobilikat:{0xFF00,0x0000} Snob...
+msg_t002gym01_statue_01=Pokémon-Arena von Vertania City
+msg_t002gym01_statue_02=Pokémon-Arena von Vertania City[0x000A]Arenaleiter: Giovanni{0xBE01}[0x000A]Anerkannte Trainer:[0x000A]{0x0100,0x0000}
+msg_t002gym01_statue_03=Pokémon-Arena von Vertania City[0x000A]Arenaleiter: Giovanni{0xBE01}[0x000A]Anerkannte Trainer:[0x000A]{0x0100,0x0000}{0xBE01}[0x000A]Arenaleiter: Blau{0xBE01}[0x000A]Anerkannte Trainer:[0x000A]{0x0100,0x0001}

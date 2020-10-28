@@ -1,0 +1,39 @@
+{0x0181,0x0000}
+Argent
+{0x0206,0x0000,0xE07F} $
+Que souhaitez-vous acheter[0xE07F]?
+Se regarder
+Se changer
+Acheté
+{0x0184,0x0000}
+Que souhaitez-vous essayer[0xE07F]?
+Aucun chapeau disponible.
+Aucun accessoire disponible.
+Aucune paire de lunettes disponible.
+Aucun haut disponible.
+Aucun bas disponible.
+Aucune paire de chaussettes disponible.
+Aucune paire de chaussures disponible.
+Aucun sac disponible.
+Cela vous fera {0x0206,0x0000,0xE07F} $.[0x000A]OK[0xE07F]?
+Souhaitez-vous porter votre nouvelle tenue[0xE07F]?
+Vous avez sélectionné un article.[0x000A]Voulez-vous le porter[0xE07F]?
+Merci[0xE07F]! Si vous voulez vous changer, la cabine[0x000A]d’essayage est juste là[0xE07F]!
+Vous n’avez pas assez d’argent[0xE07F]!
+Vous avez déjà acheté cet article.
+Impossible de sélectionner cet article.
+Cela vous fera {0x0206,0x0000,0xE07F} $.{0xBE01}[0x000A]Cet article n’est toutefois pas compatible avec[0x000A]votre allure actuelle. Cela vous convient-il[0xE07F]?
+Oui
+Non
+Bouton Y : Zoom[0x000A][0x000A]Bouton L / bouton R : Pivoter à gauche ou[0x000A]à droite[0x000A][0x000A]Manette + / pad circulaire : Bouger la caméra[0x000A]verticalement
+Festipièces
+{0x0206,0x0000,0xE07F} FP
+Choisissez une combinaison.
+Vo{0x1101,0x0000,0x0103}tres {0x0181,0x0000}[0x000A]ser{0x1101,0x0000,0x0301}aont teint{0x1102,0x0000,0x0100,0x0201}eses en cette couleur. OK[0xE07F]?
+Cela vous fera {0x0206,0x0000,0xE07F} FP.[0x000A]OK[0xE07F]?
+Merci beaucoup[0xE07F]!{0xBE01}[0x000A]*Froush froush froush froush*{0xBE01}[0x000A]*Flap flap flap*{0xBE01}[0x000A]*Viouuuuum*{0xBE01}[0x000A]...{0xBE01}[0x000A]Et voilà[0xE07F]!{0xBE01}
+Voulez-vous essayer votre article fraîchement[0x000A]teint[0xE07F]?
+Vous n’avez pas assez de Festipièces[0xE07F]!
+Vous n’avez pas d’article à teindre.
+Et en cadeau, je vous tire un nouveau portrait[0x000A]pour votre Passe Dresseur[0xE07F]!
+Quel article voulez-vous teindre[0xE07F]?

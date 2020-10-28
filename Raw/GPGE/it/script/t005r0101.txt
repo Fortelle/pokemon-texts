@@ -1,0 +1,8 @@
+msg_t005r0101_youngm_01=Strano, Mr. Fuji non c’è...[0x000A]Dove se ne sarà andato?
+msg_t005r0101_youngm_02=Mr. Fuji pregava per la madre di Cubone.
+msg_t005r0101_juveniles_01=Questa è la casa di Mr. Fuji.[0x000A]È davvero una cara persona!{0xBE01}[0x000A]Si prende cura dei Pokémon orfani[0x000A]e abbandonati!
+msg_t005r0101_juveniles_02=Abbracciare i Pokémon è bellissimo,[0x000A]sono così caldi!
+msg_t005r0101_poke_01={0xFF00,0x0009}Nidorino:{0xFF00,0x0000} Nidooor!
+msg_t005r0101_poke_02={0xFF00,0x0009}Psyduck:{0xFF00,0x0000} Psyduuu!
+msg_book_01_p01_t005_r0101=In palio ricchi premi con il concorso della[0x000A]rivista mensile “Fan dei Pokémon”!{0xBE01}[0x000A]Qualcuno ha già preso il modulo di iscrizione...
+msg_book_02_p01_t005_r0101=Ci sono delle riviste sui Pokémon...{0xBE01}[0x000A]“Tutto Pokémon”...{0xBE01}[0x000A]“OK Pokémon”...

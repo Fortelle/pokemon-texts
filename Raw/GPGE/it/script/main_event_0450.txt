@@ -1,0 +1,10 @@
+msg_main_0450_water_01={0xFF00,0x0009}Misty:{0xFF00,0x0000} Ehilà!
+msg_main_0450_water_02=Sei riuscit{0x1100,0x00FF,0x0101}oa davvero a battere Lt. Surge?!{0xBE01}[0x000A]Accidenti, stai diventando sempre più forte![0x000A]Ben fatto, ragazzin{0x1100,0x00FF,0x0101}oa!
+msg_main_0450_sys_01=Misty ha rimesso in sesto il tuo Pokémon!
+msg_main_0450_sys_02=Misty ha rimesso in sesto i tuoi Pokémon!
+msg_main_0450_water_03={0xFF00,0x0009}Misty:{0xFF00,0x0000} Che ci faccio io qui?[0x000A]Sto andando a fare un bagno nel mare!{0xBE01}[0x000A]A volte la piscina mi sta un po’ stretta,[0x000A]quindi mi viene voglia di fare un tuffo{0xBE00}[0x000A]in acque più vaste!
+msg_main_0450_water_04={0xFF00,0x0009}Misty:{0xFF00,0x0000} E tu invece, dove te ne vai? Per caso[0x000A]sei dirett{0x1100,0x00FF,0x0101}oa alla Grotta Diglett?{0xBE01}[0x000A]Posso accompagnartici io, se non ci sei ancora[0x000A]stat{0x1100,0x00FF,0x0101}oa. Che ne dici?
+msg_main_0450_water_05=No? Come sei scortese a rifiutare[0x000A]un invito così gentile!
+msg_main_0450_water_06=Benissimo, allora andiamo!
+msg_main_0450_water_07={0xFF00,0x0009}Misty:{0xFF00,0x0000} Eccoci qui! Questa è la Grotta Diglett!{0xBE01}[0x000A]Si chiama così perché i suoi tunnel sono stati[0x000A]scavati dai Diglett.{0xBE01}[0x000A]Beh, allora io vado... Ti auguro di trovare[0x000A]tanti Pokémon!
+msg_main_0450_water_08={0xBDFF:0x0009}

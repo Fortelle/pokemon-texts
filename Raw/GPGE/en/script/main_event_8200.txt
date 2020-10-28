@@ -1,0 +1,9 @@
+msg_main8200_rival_01={0x01CD,0x0001}: You did it, {0x0100,0x0000}![0x000A]Oh man, that’s great... I’ve been waiting!
+msg_main8200_rival_02=I beat the Elite Four and became the Champion!
+msg_main8200_rival_07=You probably heard from the professor, right?{0xBE01}[0x000A]From now on, the Champion will be part of the[0x000A]Pokémon League and battle all kinds of Trainers!
+msg_main8200_rival_03=I’m really glad my first opponent turned out to[0x000A]be you, {0x0100,0x0000}!
+msg_main8200_rival_08=You’re the one Trainer I want to test my best[0x000A]against, after all!
+msg_main8200_rival_04=Let’s battle, {0x0100,0x0000}![0x000A]The Champion’s seat is on the line!
+msg_main8200_rival_05={0x01CD,0x0001}: I’ve been waiting for you...[0x000A]Champion!
+msg_main8200_rival_06=I’ve been training every day to try to[0x000A]beat you, {0x0100,0x0000}!{0xBE01}[0x000A]And I’m not gonna lose today! Let’s battle!
+msg_rival_01_p01_cave_d1405={0xBDFF:0x0008}

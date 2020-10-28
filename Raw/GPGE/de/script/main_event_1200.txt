@@ -1,0 +1,17 @@
+msg_main1200_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Verschlossen, wie gedacht...[0x000A]Aber warum?
+msg_main1200_rival_02=Sesam, öffne dich!
+msg_main1200_rival_03=So wird das nichts...
+msg_main1200_rival_04=Huch...
+msg_main1200_rival_05=Hey, {0x0100,0x0000}![0x000A]Sag doch was, anstatt mir dabei zuzusehen,{0xBE00}[0x000A]wie ich mich hier zum Hampelmann mache!
+msg_main1200_rival_06=Aber ist ja auch nicht so wichtig...{0xBE01}[0x000A]Verrat mir lieber, wie viele Orden du dir schon[0x000A]erkämpft hast.
+msg_main1200_rival_10=Sieben?! Damit liegen wir ja Kopf an Kopf!{0xBE01}[0x000A]Fehlt bloß noch die Arena von Vertania City,[0x000A]aber aus irgendeinem Grund ist sie nie offen...
+msg_main1200_rival_07=Wir müssen jemanden finden, der uns sagen[0x000A]kann, warum wir nicht in die Arena kommen.{0xBE01}[0x000A]Fällt dir jemand ein, der uns helfen könnte?
+msg_main1200_select_01=Professor Eich!
+msg_main1200_select_02={0x0101,0x0003}!
+msg_main1200_select_03=Der alte Mann da!
+msg_main1200_oldman_01={0xFF00,0x0009}Alter Mann:{0xFF00,0x0000} Wie bitte? Ich weiß von gar nichts!
+msg_main1200_rival_11={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} N-Natürlich nicht, sorry!{0xBE01}[0x000A]Das müssen wir uns noch mal durch den Kopf[0x000A]gehen lassen.
+msg_main1200_rival_08=Natürlich, wer sonst! Na los, machen wir uns auf[0x000A]die Socken!
+msg_main1200_poke_01=Pika, pika!
+msg_main1200_poke_02=Voli!
+msg_main1200_rival_09={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Aha, meinst du? Okay...{0xBE01}[0x000A]Ich hab kein Wort verstanden.

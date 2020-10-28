@@ -1,0 +1,11 @@
+{0x0100,0x0000}...{0x0114,0x000D}
+Vous avez suivi mon sillage jusqu’ici...{0x0114,0x000D}
+Vous avez franchi le portail du Capitaine. Vous[0x000A]savez ce que cela signifie[0xE07F]?{0xBE00}[0x000A]Que l’Épreuve a déjà commencé[0xE07F]!{0x0114,0x000D}
+Pour réussir mon Épreuve, vous allez devoir[0x000A]vaincre le Pokémon Dominant, un vrai tyran{0xBE00}[0x000A]d’eau[0xE07F]!{0x0114,0x000D}
+Regardez comme l’eau bout furieusement...[0x000A]C’est là que se trouve le Pokémon Dominant...{0xBE01}[0x000A]À moins que ce ne soit le Froussardine de[0x000A]tout à l’heure qui veut sa revanche[0xE07F]?{0xBE01}[0x000A]Dans tous les cas, allez-y et montrez-moi[0x000A]votre valeur[0xE07F]!{0x0114,0x000D}
+Il va sans dire que vous ne pouvez pas[0x000A]capturer de Pokémon tant que l’Épreuve{0xBE00}[0x000A]n’est pas réussie.{0xBE01}[0x000A]C’est parti[0xE07F]!{0x0114,0x000D}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+Alors, montrez-moi ce que vous valez et[0x000A]venez à bout du Pokémon Dominant à l’origine{0xBE00}[0x000A]des remous.{0xBE01}[0x000A]Un conseil : utilisez des capacités de type[0x000A]Plante ou Électrik et vous aurez l’avantage{0xBE00}[0x000A]contre lui... Enfin, peut-être.{0xBE01}[0x000A]Sinon, servez-vous autant que possible[0x000A]d’objets tels que Déf. Spé. + et Muscle +.{0xBE01}[0x000A]Quoi qu’il en soit, ce sera un combat difficile...[0x000A]Une seconde d’inattention contre le Pokémon{0xBE00}[0x000A]Dominant et vous risquez de boire la tasse[0xE07F]!{0x0114,0x000D}
+{0x0100,0x0000}...{0xBE01}[0x000A]Ça y est, vous vous sentez d’attaque[0x000A]pour mon Épreuve[0xE07F]?{0x0114,0x000D}

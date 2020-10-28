@@ -1,0 +1,16 @@
+Yes
+No
+${0x0206,0x0008,0x002C}
+Would you like to save the game?
+Saving...[0x000A]Don’t turn off the power.
+{0x0100,0x0000} saved the game.
+There’s already a saved game file,[0x000A]so you can’t save now.{0xBE01}[0x000A]Refer to the electronic manual for details.
+Saving failed.
+Received {0x0101,0x0000}!
+{0x0101,0x0000} was sent to[0x000A]{0x010B,0x0001}!
+Holo Clip received!
+Welcome home, {0x0100,0x0000}!{0xBE01}[0x000A]It looks like you and your Pokémon[0x000A]have been working hard out there.{0xBE01}[0x000A]It’s straight off to bed for you!
+Much better! You and your Pokémon[0x000A]are both bursting with energy now!{0xBE01}[0x000A]You know, {0x0100,0x0000}, when[0x000A]your Pokémon get run down, you{0xBE00}[0x000A]can come on home for a while.{0xBE01}[0x000A]Remember what your dad always says...{0xBE01}[0x000A]The world of Pokémon battling is not a[0x000A]forgiving one. Never assume your{0xBE00}[0x000A]team can win if it’s not in top form!{0xBE01}[0x000A]Stay safe out there, {0x0100,0x0000},[0x000A]and come home again soon!{0xBE00}[0x000A]Do your best, but know your limits!
+First, let’s restore your Pokémon to full health.
+Please visit a Pokémon Center if[0x000A]your Pokémon’s HP goes down.{0xBE01}[0x000A]If you’re planning to travel any[0x000A]great distance, you should stock{0xBE00}[0x000A]up on Potions at a Poké Mart.{0xBE01}[0x000A]Good luck out there, Trainer!
+There! All happy and healthy!{0xBE01}[0x000A]Good luck and take care!

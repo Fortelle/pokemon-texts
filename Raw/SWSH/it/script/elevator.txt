@@ -1,0 +1,16 @@
+msg_elevator_c03_01=Dove vuoi andare?
+msg_elevator_c03_02=Hotel Yondlands Rose
+msg_elevator_c03_03=Stadio di Goalwick
+msg_elevator_c03_04=Stazione della monorotaia
+msg_elevator_c03_05=Rose Tower
+msg_elevator_c03_06=Torre Lotta
+msg_elevator_c03_07=Esci
+msg_elevator_c02_01=L’ascensore non può essere usato adesso.
+msg_elevator_start=A che piano vuoi andare?
+msg_elevator_cancel=Esci
+msg_elevator_1f=T
+msg_elevator_3f=2
+msg_elevator_ap_1f=T: Ingresso
+msg_elevator_ap_2f=1: Zona protetta
+msg_elevator_ap_b1f=-1: Molo
+msg_elevator_ap_b2f=-2: Laboratori

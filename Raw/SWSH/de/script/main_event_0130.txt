@@ -1,0 +1,13 @@
+main_event_0130_sound_01=*Krrrrach!*
+main_event_0130_rival_01=Hey! Was war das gerade für ein Geräusch?[0x000A]Hast du das auch gehört, {0x0100,0x0000}?{0x0114,0x0005}
+main_event_0130_rival_02=Oh nein... Das Tor ist offen! Und das Wolly[0x000A]ist spurlos verschwunden!{0x0114,0x0005}
+main_event_0130_rival_03=Es hat vorhin doch immer wieder versucht,[0x000A]das Tor einzurennen...{0xBE01}[0x000A]Sag mir bitte nicht, dass es da reingerannt ist!{0x0114,0x0005}
+main_event_0130_rival_04=So ein Mist... Da ist doch eigentlich Zutritt[0x000A]verboten!{0xBE01}[0x000A]Als die Enkelin der Professorin noch klein war,[0x000A]ist sie im Wald angeblich mal in ernsthafte{0xBE00}[0x000A]Schwierigkeiten geraten.{0xBE01}[0x000A]Ihre Großmutter muss sie danach wohl ordentlich[0x000A]zusammengestaucht haben.{0x0114,0x0005}
+main_event_0130_rival_05=Was machen wir jetzt, {0x0100,0x0000}?{0x0114,0x0005}
+main_event_0130_select_01=Retten wir das Pokémon!
+main_event_0130_select_02=Das fragst du mich?!
+main_event_0130_rival_06=Ich wusste, dass du das sagen würdest!{0xBE01}[0x000A]Klar, eigentlich ist hier Zutritt verboten.[0x000A]Aber das zählt ja wohl eindeutig als Notfall!{0x0114,0x0005}
+main_event_0130_rival_07=Das ist echt knifflig... Ich hab auch keine Lust,[0x000A]später einen auf den Deckel zu kriegen.{0xBE01}[0x000A]Aber wer weiß, was mit dem armen Pokémon[0x000A]passiert, wenn wir es dort alleinlassen!{0x0114,0x0005}
+main_event_0130_rival_08=Da hilft nur eins: Augen zu und durch.[0x000A]Komm, {0x0100,0x0000}. Jetzt wird rangeklotzt!{0x0114,0x0005}
+main_event_0130_middlem_01={0xBDFF:0x000B}
+main_event_0130_rival_09=Na los, {0x0100,0x0000}![0x000A]Wir müssen dem armen Pokémon helfen!

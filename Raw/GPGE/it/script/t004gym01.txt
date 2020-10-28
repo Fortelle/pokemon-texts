@@ -1,0 +1,4 @@
+msg_t004gym01_gym_01=Ti do un consiglio!{0xBE01}[0x000A]La Capopalestra Misty è esperta di Pokémon[0x000A]di tipo Acqua ed è fortissima!{0xBE01}[0x000A]Puoi provare a batterla usando mosse[0x000A]di tipo Erba o Elettro!
+msg_t004gym01_gym_02=Hai battuto Misty! Ben fatto!{0xBE01}[0x000A]E che gran lotta! Gli spruzzi d’acqua arrivavano[0x000A]fin qui!
+msg_t004gym01_statue_01=Palestra di Celestopoli{0xBE01}[0x000A]Allenatori certificati da Misty:[0x000A]{0x0100,0x0001}
+msg_t004gym01_statue_02=Palestra di Celestopoli{0xBE01}[0x000A]Allenatori certificati da Misty:[0x000A]{0x0100,0x0001} e {0x0100,0x0000}

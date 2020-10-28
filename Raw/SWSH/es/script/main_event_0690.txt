@@ -1,0 +1,17 @@
+main_event_0690_chairman_01=¡Hola, {0x0100,0x0000}![0x000A]¡Celebremos tu victoria!{0x0114,0x0006}
+main_event_0690_assistant_01=¡Anda! No sabía que te habían invitado a ti[0x000A]también.{0x0114,0x000B}
+main_event_0690_chairman_02=Oh, ¿ya os conocéis, vosotr{0x1100,0x00FF,0x0101}oas dos? Qué feliz[0x000A]coincidencia. Desde luego, Galar es un pañuelo.{0xBE01}[0x000A]Pero venga, sentémonos, no nos quedemos de pie.{0x0114,0x0006}
+main_event_0690_chairman_03=Pueblo Amura es una villa pesquera, y eso[0x000A]implica una visita obligada a su restaurante.{0xBE01}[0x000A]Las especialidades locales son una verdadera[0x000A]delicia por la frescura de sus ingredientes.{0x0114,0x0006}
+main_event_0690_chairman_04=Por cierto, ¿cómo le va a la Profesora Magnolia?[0x000A]Espero que tan bien como siempre.{0x0114,0x0006}
+main_event_0690_chairman_05=Le debo mucho a esa gran mujer. De no haber[0x000A]sido por su investigación, no habríamos podido{0xBE00}[0x000A]fabricar las Muñequeras Dinamax.{0xBE01}[0x000A]Fue ella quien descubrió la forma de extraer y[0x000A]controlar la energía de las Estrellas Deseo para{0xBE00}[0x000A]agigantar a los Pokémon.{0x0114,0x0006}
+main_event_0690_assistant_02=Ay... Pues en su opinión, aún queda mucho por[0x000A]descubrir acerca del fenómeno Dinamax.{0xBE01}[0x000A]No sé... La noto algo preocupada.{0x0114,0x000B}
+main_event_0690_assistant_03=Incluso me ha dado un buscanodos para llevarlo[0x000A]encima en todo momento.{0x0114,0x000B}
+main_event_0690_chairman_06=¡Un buscanodos! Sí, conozco bien ese aparato.{0xBE01}[0x000A]Es lo que he utilizado para localizar nodos[0x000A]energéticos, los puntos que emiten partículas{0xBE00}[0x000A]Galar y permiten que los Pokémon alcancen el{0xBE00}[0x000A]estado Dinamax.{0x0114,0x0006}
+main_event_0690_chairman_07=Pero me disgusta saber que la profesora está[0x000A]intranquila. Ojalá pudiera ayudar en algo...{0x0114,0x0006}
+main_event_0690_chairman_08=Tal vez convendría que visitaras la cámara[0x000A]heptagonal de Ciudad Artejo, querida Sonia.{0xBE01}[0x000A]Estoy convencido de que la clave para esclarecer[0x000A]el misterio del fenómeno Dinamax reside en la{0xBE00}[0x000A]historia de nuestra región.{0x0114,0x0006}
+main_event_0690_administrator_01=Tomo nota, señor. Dispondré los preparativos.{0x0114,0x0007}
+main_event_0690_administrator_02=Y disculpe, pero tal vez vaya siendo hora de[0x000A]retirarnos, ¿no le parece?{0x0114,0x0007}
+main_event_0690_chairman_09=¿Ya? Si ni siquiera he tenido tiempo de hablar[0x000A]con {0x0100,0x0000}...{0xBE01}[0x000A]Lamento tener que despedirme de este modo,[0x000A]pero el deber me llama. ¡Ha sido un placer!{0x0114,0x0006}
+main_event_0690_assistant_04=No sé si le gusta recalcar lo obvio o lo ha dicho[0x000A]con cierto retintín...{0xBE01}[0x000A]¡Pues claro que es buena idea visitar la cámara[0x000A]heptagonal! Ya se me había ocurrido a mí solita.{0x0114,0x000B}
+main_event_0690_assistant_05=Pero bueno, aún no te he felicitado por haber[0x000A]ganado la Medalla Agua. Tiene mucho mérito{0xBE00}[0x000A]derrotar a Cathy. Toma esta MT para celebrarlo.{0x0114,0x000B}
+main_event_0690_assistant_06=Cathy y yo somos buenas amigas. Creo que iré a[0x000A]verla un rato. ¡Hasta otra, Aspirante!{0x0114,0x000B}

@@ -1,0 +1,5 @@
+msg_t006r0401_birdkeeper_01=Mon Roucool va apporter une lettre jusqu’à[0x000A]Safrania, au nord !
+msg_t006r0401_poke_01={0xFF00,0x0009}Roucool :{0xFF00,0x0000} Rourou !
+msg_t006r0401_letter_01=« Chère Juliette,[0x000A]J’espère te voir très bientôt.{0xBE01}[0x000A]Il paraît que Safrania est tourmentée[0x000A]par la présence de la Team Rocket !{0xBE01}[0x000A]Ici, à Carmin sur Mer, tout est tranquille.[0x000A]Espérons que cela dure... »
+msg_t006r0401_miniskirt_01=J’aimerais tellement partir en croisière sur[0x000A]L’Océane et me faire des amis venus du{0xBE00}[0x000A]monde entier...
+msg_t006r0401_poke_02={0xFF00,0x0009}Nidoran♀ :{0xFF00,0x0000} Nido !

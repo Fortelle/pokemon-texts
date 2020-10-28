@@ -1,0 +1,10 @@
+msg_main0210_musashi_01=???: Stop right there!
+msg_main0210_musashi_02=???: Hands off![0x000A]That Fossil belongs to us!
+msg_main0210_kojiro_01=???: Rrrggghhh![0x000A]How did you even get here ahead of us?!
+msg_main0210_musashi_04=JESSIE: We’re Team Rocket![0x000A]I’m Jessie!
+msg_main0210_kojiro_02=JAMES: And I’m James!
+msg_main0210_musashi_05=JESSIE: And the two of us are going to take[0x000A]that Fossil back!
+msg_main0210_dummy_01={0xBDFF:0x0006}
+msg_main0210_dummy_02={0xBDFF:0x0007}
+msg_main0210_musashi_03=JESSIE & JAMES: Looks like Team Rocket’s[0x000A]blasting off!
+msg_main0210_musashi_back=JESSIE: Hey, twerp, you can’t battle the both of[0x000A]us with just one Pokémon!{0xBE01}[0x000A]You’d better go get another and come back to[0x000A]take us on!

@@ -1,0 +1,16 @@
+main_event_1820_assistant_01=Tiens, salut, Nabil et {0x0100,0x0000}.{0xBE01}[0x000A]Attendez un peu... Qu’est-ce que vous fichez ici ?[0x000A]Et le Match Ultime ?!{0x0114,0x000B}
+main_event_1820_mama_01=Annulé, à cause du président de la Ligue.[0x000A]Il faut se tenir au courant, ma petite Sonya !{0x0114,0x0008}
+main_event_1820_assistant_02=Quoi ?[0x000A]Annulé ?!{0xBE01}[0x000A]Mais il s’est passé quoi, pendant que je faisais[0x000A]mes recherches ?{0x0114,0x000B}
+main_event_1820_mama_02=Un vortex noir est apparu au-dessus du Stade[0x000A]de Kickenham... Je crois qu’ils l’appellent{0xBE00}[0x000A]la « Nuit Noire »... En tout cas, c’est la panique !{0x0114,0x0008}
+main_event_1820_mama_03=Mais il n’y a pas à s’inquiéter, car notre Maître[0x000A]Invaincu est parti s’en occuper !{0x0114,0x0008}
+main_event_1820_assistant_03=A-attendez ![0x000A]Vous avez dit la « Nuit Noire » ?!{0x0114,0x000B}
+main_event_1820_assistant_09=Mais c’est le nom du vortex sombre qui a failli[0x000A]détruire la région de Galar dans les légendes !{0x0114,0x000B}
+main_event_1820_assistant_08=Enfin, ça n’explique toujours pas ce que[0x000A]tu es venu{0x1100,0x00FF,0x0100}e faire ici, {0x0100,0x0000} !{0x0114,0x000B}
+main_event_1820_select_01=On est venus vaincre la Nuit Noire.
+main_event_1820_select_02=On est venus chercher le Pokémon Épée.
+main_event_1820_select_03=On est venus chercher le Pokémon Bouclier.
+main_event_1820_assistant_04=Vaincre la Nuit Noire ? ...{0xBE01}[0x000A]En recherchant les Pokémon Épée et Bouclier,[0x000A]j’imagine ?{0x0114,0x000B}
+main_event_1820_assistant_05=Je vois...{0xBE01}[0x000A]Si la légende est vraie, les Pokémon Épée[0x000A]et Bouclier peuvent nous aider à affronter{0xBE00}[0x000A]la Nuit Noire...{0x0114,0x000B}
+main_event_1820_assistant_06=Dans ce cas, il n’y a pas une minute à perdre.[0x000A]J’ai un truc à vérifier, ne m’attendez pas !{0xBE01}[0x000A]Je vous rejoins plus tard ![0x000A]Prenez ça et filez vers la Forêt de Sleepwood.{0x0114,0x000B}
+main_event_1820_assistant_07=Il faut que je me renseigne sur l’origine[0x000A]du Pokémon Épée et du Pokémon Bouclier !{0x0114,0x000B}
+main_event_1820_mama_04=Maman est très fière de voir son bébé[0x000A]faire de son mieux pour aider ses camarades !{0xBE01}[0x000A]C’est un{0x1100,0x00FF,0x0100}e vrai{0x1100,0x00FF,0x0100}e Dresseu{0x1100,0x00FF,0x0201}rse Pokémon, maintenant !{0x0114,0x0008}

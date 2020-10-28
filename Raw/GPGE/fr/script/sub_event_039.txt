@@ -1,0 +1,8 @@
+msg_sub039_policef_01=Je viens juste de capturer ce Carapuce, car ce[0x000A]petit filou embêtait tout le monde !{0xBE01}[0x000A]Il va lui falloir un bon Dresseur pour le remettre[0x000A]dans le droit chemin.
+msg_sub039_policef_06=Peut-être que tu ferais l’affaire ?[0x000A]Combien de Pokémon as-tu capturés ?{0xBE00}[0x000A]Quoi, {0x0208,0x0000,0x202F}, vraiment ?
+msg_sub039_policef_02=Tu dois être un{0x1100,0x00FF,0x0B09} Dresseure Dresseuse à la hauteur, alors !{0xBE01}[0x000A]Tu veux bien t’occuper de lui ? Il fait rien que[0x000A]des bêtises, mais tu devrais pouvoir t’en sortir !
+msg_sub039_policef_03=Super ! Occupe-toi bien de lui !
+msg_sub039_policef_07=Écoute, si ce petit t’intéresse, reviens me voir[0x000A]quand tu auras attrapé au moins {0x0202,0x0000} Pokémon,{0xBE00}[0x000A]OK ?
+msg_sub039_policef_04=Ah bon... Ben qu’est-ce que je vais en faire,[0x000A]du coup ?
+msg_sub039_policef_05=Comment va Carapuce ?
+msg_sub039_poke_01={0xFF00,0x0009}Carapuce :{0xFF00,0x0000} Pupuce !

@@ -1,0 +1,15 @@
+Player
+{0x0100,0x0000}
+GAME FREAK
+Staff
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+This document certifies that you[0x000A]have successfully completed your[0x000A]National Pokédex. Congratulations[0x000A]on your outstanding achievement!
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+This document certifies that you have[0x000A]successfully completed your Pokédex.[0x000A]Congratulations on your achievement!
+We hereby certify that this Trainer[0x000A]has shown unwavering friendship and[0x000A]unbreakable bonds with {0x0102,0x0000}.

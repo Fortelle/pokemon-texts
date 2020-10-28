@@ -1,0 +1,188 @@
+Bienvenue. Vous vous trouvez à l’accueil[0x000A]de la Maison de Combat.
+Que souhaitez-vous faire[0xE07F]?
+De quoi désirez-vous parler[0xE07F]?
+La Maison de Combat permet aux Dresseurs[0x000A]de s’affronter dans divers types de combats.{0xBE01}[0x000A]Vous pourrez pratiquer ici des Combats Solo,[0x000A]Duo, Trio, Rotatifs et Multi.{0xBE01}[0x000A]Les affrontements continueront jusqu’à votre[0x000A]défaite. L’objectif est de gagner le plus de{0xBE00}[0x000A]combats possible à la suite.{0xBE01}[0x000A]Si vous êtes vaincu{0x1100,0x00FF,0x0100}e, vous devrez recommencer[0x000A]votre série de combats depuis le début.{0xBE01}[0x000A]Chaque victoire vous rapporte des Points de[0x000A]Combat, ou PCo, que vous pourrez échanger{0xBE00}[0x000A]contre de merveilleux prix[0xE07F]!
+La Maison de Combat fonctionne selon les règles[0x000A]spécifiques suivantes :{0xBE01}[0x000A]1. Vos Pokémon de haut niveau seront ramenés au[0x000A]N. 50 pour la durée des combats.{0xBE01}[0x000A]2. Vous dirigerez une équipe de trois Pokémon[0x000A]pour les Combats Solo, quatre pour les Combats{0xBE00}[0x000A]Duo, six pour les Combats Trio et quatre pour{0xBE00}[0x000A]les Combats Rotatifs. Les Combats Multi se jouent{0xBE00}[0x000A]avec deux Pokémon par Dresseur.{0xBE01}[0x000A]3. L’équipe d’un Dresseur ne peut comporter[0x000A]qu’un seul Pokémon d’une même espèce, et tous{0xBE00}[0x000A]les objets tenus doivent être différents.{0xBE01}[0x000A]Évidemment, en cas de Combat Multi,[0x000A]les doublons entre Dresseurs sont permis[0xE07F]!
+Au plaisir de vous revoir.
+À quel type de combat voulez-vous participer[0xE07F]?
+Votre record actuel est de {0x0203,0x0001,0xE07F} victoire{0x1101,0x0001,0x0B00}s d'affilée.
+Voulez-vous participer à des Combats Solo[0xE07F]?
+Voulez-vous participer à des Combats Super Solo[0xE07F]?
+Voulez-vous participer à des Combats Duo[0xE07F]?
+Voulez-vous participer à des Combats Super Duo[0xE07F]?
+Voulez-vous participer à des Combats Trio[0xE07F]?
+Voulez-vous participer à des Combats Super Trio[0xE07F]?
+Voulez-vous participer à des Combats Rotatifs[0xE07F]?
+Voulez-vous participer à des Combats[0x000A]Super Rotatifs[0xE07F]?
+Voulez-vous participer à des Combats Multi[0xE07F]?
+Voulez-vous participer à des Combats Super Multi[0xE07F]?
+Voulez-vous vous connecter avec un ami[0x000A]pour relever ce défi[0xE07F]?
+Vous et votre partenaire avez choisi un type[0x000A]de combat différent.{0xBE01}[0x000A]Revenez quand vous vous serez mis d’accord.
+Veuillez choisir votre partenaire.
+Très bien.[0x000A]Les Combats Solo vont commencer.
+Très bien.[0x000A]Les Combats Super Solo vont commencer.
+Très bien.[0x000A]Les Combats Duo vont commencer.
+Très bien.[0x000A]Les Combats Super Duo vont commencer.
+Très bien.[0x000A]Les Combats Trio vont commencer.
+Très bien.[0x000A]Les Combats Super Trio vont commencer.
+Très bien.[0x000A]Les Combats Rotatifs vont commencer.
+Très bien.[0x000A]Les Combats Super Rotatifs vont commencer.
+Très bien.[0x000A]Les Combats Multi vont commencer.
+Très bien.[0x000A]Les Combats Super Multi vont commencer.
+Sauvegarde en cours…[0x000A]Ne pas éteindre la console.
+Félicitations[0xE07F]!{0xBE01}[0x000A]Chaque victoire contre les Châtelaines Combat[0x000A]vous donne droit à des PCo supplémentaires[0xE07F]!
+Félicitations[0xE07F]!{0xBE01}[0x000A]Vaincre les Châtelaines Combat alors qu’elles[0x000A]donnent le meilleur d’elles-mêmes est un exploit[0xE07F]!{0xBE01}[0x000A]Vous avez mérité encore plus de PCo[0xE07F]!
+{0x0100,0x0000} reçoit {0x0201,0x0005} PCo[0xE07F]!
+Vous pouvez désormais participer[0x000A]aux Combats Super Solo.
+Vous pouvez désormais participer[0x000A]aux Combats Super Duo.
+Vous pouvez désormais participer[0x000A]aux Combats Super Trio.
+Vous pouvez désormais participer[0x000A]aux Combats Super Rotatifs.
+Vous pouvez désormais participer[0x000A]aux Combats Super Multi.
+Merci de votre participation.[0x000A]Les Combats Solo sont à présent terminés.{0xBE01}[0x000A]N’oubliez pas de profiter des[0x000A]Combats Super Solo[0xE07F]!
+Merci de votre participation.[0x000A]Les Combats Duo sont à présent terminés.{0xBE01}[0x000A]N’oubliez pas de profiter des[0x000A]Combats Super Duo[0xE07F]!
+Merci de votre participation.[0x000A]Les Combats Trio sont à présent terminés.{0xBE01}[0x000A]N’oubliez pas de profiter des[0x000A]Combats Super Trio[0xE07F]!
+Merci de votre participation.[0x000A]Les Combats Rotatifs sont à présent terminés.{0xBE01}[0x000A]N’oubliez pas de profiter des[0x000A]Combats Super Rotatifs[0xE07F]!
+Merci de votre participation.[0x000A]Les Combats Multi sont à présent terminés.{0xBE01}[0x000A]N’oubliez pas de profiter des[0x000A]Combats Super Multi[0xE07F]!
+C’est un honneur de vous avoir servi{0x1100,0x00FF,0x0100}e.{0xBE01}[0x000A]Nous nous sommes permis de commander une[0x000A]modeste décoration pour célébrer votre exploit[0xE07F]!
+Vous arrivez au combat nº {0x0203,0x0001,0xE07F}.[0x000A]Voulez-vous continuer[0xE07F]?
+Vous arrivez au combat nº {0x0203,0x0001,0xE07F}.[0x000A]Attention[0xE07F]! Les Châtelaines Combat sont des{0xBE00}[0x000A]adversaires redoutables[0xE07F]! Voulez-vous continuer[0xE07F]?
+Voulez-vous faire une pause[0xE07F]?
+Votre défi a été interrompu.
+En attente de communication[0xE08D]
+La musique {0x0200,0x0000} est actuellement[0x000A]sélectionnée.{0xBE01}[0x000A]Quelle musique désirez-vous écouter lors[0x000A]des combats[0xE07F]?
+Voilà, j’ai changé la musique selon votre goût[0xE07F]!
+Combattre
+Discuter
+Annuler
+La Maison de Combat
+Les règles
+Combattre
+Combat Solo
+Combat Super Solo
+Combat Duo
+Combat Super Duo
+Combat Trio
+Combat Super Trio
+Combat Multi
+Combat Super Multi
+Continuer
+Sauvegarder la Vidéo de Combat
+Faire une pause
+Musique 1
+Musique 2
+Musique 3
+Musique 4
+Changer de musique
+{0xBDFF:0x004B}
+{0xBDFF:0x004C}
+{0xBDFF:0x004D}
+{0xBDFF:0x004E}
+{0xBDFF:0x004F}
+{0xBDFF:0x0050}
+{0xBDFF:0x0051}
+{0xBDFF:0x0052}
+{0xBDFF:0x0053}
+{0xBDFF:0x0054}
+{0xBDFF:0x0055}
+{0xBDFF:0x0056}
+{0xBDFF:0x0057}
+{0xBDFF:0x0058}
+{0xBDFF:0x0059}
+{0xBDFF:0x005A}
+{0xBDFF:0x005B}
+{0xBDFF:0x005C}
+{0xBDFF:0x005D}
+{0xBDFF:0x005E}
+{0xBDFF:0x005F}
+{0xBDFF:0x0060}
+{0xBDFF:0x0061}
+{0xBDFF:0x0062}
+{0xBDFF:0x0063}
+{0xBDFF:0x0064}
+{0xBDFF:0x0065}
+{0xBDFF:0x0066}
+{0xBDFF:0x0067}
+{0xBDFF:0x0068}
+{0xBDFF:0x0069}
+{0xBDFF:0x006A}
+Avec toi, c’est sûr que je vais faire de mon mieux,[0x000A]{0x0100,0x0000}[0xE07F]!{0xBE01}[0x000A]Alors toi aussi, donne-toi à fond[0xE07F]!
+Hum[0xE08D] On a eu un petit problème de coordination[0xE08D]{0xBE01}[0x000A]Bah, il suffira de faire mieux la prochaine fois[0xE07F]!
+Tant que je fais équipe avec toi, je me dis qu’on peut[0x000A]battre n’importe qui[0xE07F]!{0xBE01}[0x000A]J’espère qu’on aura l’occasion de remettre ça[0xE07F]!
+Ah bon[0xE08D] Dommage[0xE08D][0x000A]À une prochaine fois, peut-être[0xE07F]?
+Hourra[0xE07F]!{0xBE01}[0x000A]Avec toi, je sais que je pourrai donner mon maximum[0xE07F]!
+Aïe aïe aïe[0xE08D][0x000A]C’était vraiment une équipe redoutable[0xE08D]{0xBE01}[0x000A]Reprenons notre entraînement pour gagner[0x000A]la prochaine fois[0xE07F]!
+{0x0100,0x0000}[0xE07F]! On a gagné[0xE07F]!{0xBE01}[0x000A]Quand nos deux équipes se combinent, plus rien[0x000A]ne nous arrête[0xE07F]!
+Oh, dommage[0xE08D][0x000A]Bah, on remettra ça une autre fois[0xE07F]!
+J’essaierai d’être à la hauteur[0xE07F]!{0xBE01}[0x000A]Si on m’avait dit que je ferais un jour équipe[0x000A]avec le Maître de la région[0xE08D]
+Pa-pardon[0xE08D]{0xBE01}[0x000A]C’est ma faute… C’est mon équipe et moi qui t’avons[0x000A]fait perdre[0xE08D]
+Merci pour tout, {0x0100,0x0000}[0xE07F]!{0xBE01}[0x000A]Mes Pokémon et moi avons beaucoup appris grâce à toi[0xE07F]!
+Oh[0xE08D][0x000A]Dommage[0xE08D]{0xBE01}[0x000A]J’espère qu’on aura l’occasion de refaire équipe un jour.
+Hahahahaha[0xE07F]! Ça alors[0xE07F]![0x000A]C’est toi, m{0x1100,0x00FF,0x0102}ona partenaire[0xE07F]?{0xBE01}[0x000A]Ensemble, on est probablement l’équipe[0x000A]la plus balèze de tout Hoenn[0xE07F]!
+Hahahahaha[0xE07F]!{0xBE01}[0x000A]Même pour une équipe de malade comme toi et moi,[0x000A]quand ça veut pas gagner, ça veut pas[0xE07F]!{0xBE01}[0x000A]Heureusement qu’y a des moments comme ça[0xE07F]![0x000A]C’est pour ça qu’on peut pas se passer des combats[0xE07F]!
+Hahahahaha[0xE07F]!{0xBE01}[0x000A]Mes Pokémon et moi, on t’avait pour couvrir nos arrières,[0x000A]alors on a vraiment pu s’donner à fond[0xE07F]!{0xBE01}[0x000A]Merci pour le coup de main, gamin{0x1100,0x00FF,0x0100}e[0xE07F]![0x000A]Faudra qu’on r’fasse ça[0xE07F]!
+Bon, on s’en tient là pour cette fois, alors[0xE07F]?{0xBE01}[0x000A]La prochaine fois qu’tu te sens d’y aller, appelle-moi[0xE07F]![0x000A]Si c’est pour t’filer un coup de main, je répondrai{0xBE00}[0x000A]toujours présent[0xE07F]!
+C’est donc avec toi que le grand Max va faire[0x000A]équipe aujourd’hui[0xE07F]?{0xBE01}[0x000A]Ha[0xE07F]![0x000A]Je sens que mon cœur tremble d’impatience[0xE07F]!{0xBE00}[0x000A]Ces combats vont être intéressants, j’en suis sûr[0xE07F]!
+La défaite reste donc possible, même quand[0x000A]tu fais équipe avec moi[0xE08D]{0xBE01}[0x000A]Quel résultat inattendu[0xE07F]! Même une probabilité[0x000A]inférieure à 1 % n’est pas égale à 0.
+Ha ha ha[0xE07F]!{0xBE01}[0x000A]On forme une belle équipe[0xE07F]![0x000A]Le résultat était écrit d’avance[0xE07F]!{0xBE01}[0x000A]J’attends avec impatience la prochaine fois que[0x000A]je pourrai ressentir une extase aussi totale[0xE07F]!
+Tout arrive à son terme, nécessairement.{0xBE01}[0x000A]Lorsqu’un nouveau cycle sera prêt à commencer,[0x000A]je serai là, à t’attendre.
+Bonne chance[0xE07F]!{0xBE01}[0x000A]J’espère que faire équipe avec toi me permettra[0x000A]de découvrir de nouveaux horizons[0xE07F]!
+Je vois.{0xBE01}[0x000A]Même si nous avons perdu, j’ai aperçu de nouveaux[0x000A]horizons à explorer. Merci.
+Je vois.{0xBE01}[0x000A]Lorsque les deux Dresseurs les plus forts de la région[0x000A]font équipe, la victoire est la seule possibilité.
+Je vois. C’est assez pour aujourd’hui.{0xBE01}[0x000A]Mais je sais aussi que ton équipe et toi n’avez[0x000A]pas encore donné votre plein potentiel[0xE08D]{0xBE01}[0x000A]Quand j’imagine la portée de votre puissance[0xE08D][0x000A]Pour être honnête, j’ai presque peur[0xE07F]!{0xBE01}[0x000A]J’attends avec impatience le jour où nous pourrons[0x000A]faire équipe à nouveau.
+Et voilà pour la Reine Venin[0xE07F]! Scott, t’es un as[0xE07F]!{0xBE01}[0x000A]Ah, y a-t-il un Dresseur au monde capable de nous[0x000A]égaler, mes lunettes et moi[0xE07F]?[0xE08D]
+L’étage est réservé aux spectateurs.[0x000A]On apprend beaucoup par ici, et la vue est imprenable[0xE07F]!
+Qui[0xE08D] qui es-tu[0xE07F]?[0x000A]Mon Séviper tremble en te voyant[0xE08D]
+J’ai contemplé les combats qui se donnent en contrebas,[0x000A]mais je n’ai vu que des débutants[0xE07F]! Des amateurs[0xE07F]!{0xBE01}[0x000A]Ces[0xE08D] Châtelaines Combat[0xE08D] sont bien les seules à avoir[0x000A]une chance d’égaler ma force et ma beauté.{0xBE01}[0x000A]Et encore, elles ont du chemin à parcourir,[0x000A]ces charmantes gamines[0xE07F]!
+Cooooool[0xE08D]
+Hein[0xE07F]? Tu veux que je soigne tes Pokémon[0xE07F]?[0x000A]Non mais ça va, oui[0xE07F]?{0xBE01}[0x000A]Désolée, mais je suis en vacances, là.[0x000A]Tu la vois où, ma machine pour soigner[0xE07F]?{0xBE01}[0x000A]Tu crois qu’ils donnent des jours de congé[0x000A]comme ça, dans les Centres Pokémon[0xE07F]?{0xBE01}[0x000A]C’est ma première heure de vacances depuis[0x000A]vingt jours, alors j’aimerais avoir la paix[0xE07F]!
+Tu[0xE08D] tu as vu les Châtelaines Combat[0xE07F]?[0x000A]C’est des vraies stars, et elles sont en tournée à Hoenn[0xE07F]!{0xBE01}[0x000A]Quand je vois leur ferveur au combat, je sens mon cœur[0x000A]battre à tout rompre dans ma poitrine[0xE07F]!
+Les Dresseurs sont de minuscules insectes attirés par[0x000A]le feu des combats Pokémon[0xE08D]{0xBE01}[0x000A]Séduits par l’éclat de la bataille, nous nous approchons[0x000A]du succès, encore et encore, jusqu’à brûler nos ailes[0xE08D]
+{0xBDFF:0x008B}
+{0xBDFF:0x008C}
+{0xBDFF:0x008D}
+{0xBDFF:0x008E}
+{0xBDFF:0x008F}
+{0xBDFF:0x0090}
+{0xBDFF:0x0091}
+{0xBDFF:0x0092}
+{0xBDFF:0x0093}
+{0xBDFF:0x0094}
+{0xBDFF:0x0095}
+{0xBDFF:0x0096}
+{0xBDFF:0x0097}
+{0xBDFF:0x0098}
+{0xBDFF:0x0099}
+{0xBDFF:0x009A}
+{0xBDFF:0x009B}
+{0xBDFF:0x009C}
+{0xBDFF:0x009D}
+{0xBDFF:0x009E}
+{0xBDFF:0x009F}
+{0xBDFF:0x00A0}
+{0xBDFF:0x00A1}
+{0xBDFF:0x00A2}
+{0xBDFF:0x00A3}
+{0xBDFF:0x00A4}
+{0xBDFF:0x00A5}
+{0xBDFF:0x00A6}
+{0xBDFF:0x00A7}
+{0xBDFF:0x00A8}
+{0xBDFF:0x00A9}
+{0xBDFF:0x00AA}
+Et la voilà[0xE07F]![0x000A]La Châtelaine Combat, Nix[0xE07F]!!!
+Et la voilà[0xE07F]![0x000A]La Châtelaine Combat, Vesper[0xE07F]!!!
+Et la voilà[0xE07F]![0x000A]La Châtelaine Combat, Méridia[0xE07F]!!!
+Et la voilà[0xE07F]![0x000A]La Châtelaine Combat, Aurore[0xE07F]!!!
+Et les voilà[0xE07F]![0x000A]Les Châtelaines Combat, Vesper et Méridia[0xE07F]!!!
+Et les voilà[0xE07F]![0x000A]Les Châtelaines Combat, Aurore et Vesper[0xE07F]!!!
+Et les voilà[0xE07F]![0x000A]Les Châtelaines Combat, Aurore et Nix[0xE07F]!!!
+Et les voilà[0xE07F]![0x000A]Les Châtelaines Combat, Nix et Méridia[0xE07F]!!!
+Toutes mes excuses, mais vous n’avez[0x000A]pas enregistré votre progression après{0xBE00}[0x000A]votre dernière série[0xE08D]{0xBE01}[0x000A]Vous allez devoir recommencer depuis le début[0xE07F]!
+Je suis la responsable des archives de la Maison[0x000A]de Combat. Désirez-vous consulter vos résultats[0xE07F]?
+Quels résultats souhaitez-vous consulter en[0x000A]particulier[0xE07F]?
+Vous en êtes actuellement à {0x0203,0x0000,0xE07F} victoire{0x1101,0x0000,0x0B00}s d'affilée.[0x000A]Votre record personnel est de {0x0203,0x0001,0xE07F} victoire{0x1101,0x0001,0x0B00}s d'affilée.
+Combat Rotatif
+Combat Super Rotatif
+La communication sans fil est désactivée.{0xBE01}[0x000A]Activez la communication sans fil.
+Impossible de se battre avec cette personne[0x000A]à cause des Pokémon de son équipe.
+Impossible de se battre avec cette personne.

@@ -1,0 +1,11 @@
+main_event_3092_system_01=*Biep! Biep! Biep!*
+main_event_3092_rival_01=Ist das dein Smart-Rotom, das da klingelt,[0x000A]{0x0100,0x0000}?{0x0114,0x0005}
+main_event_3092_doctor_01={0x0100,0x0000}, wir haben ein Problem!{0xBE01}[0x000A]Die beiden Clowns sind im Pokémon-Labor[0x000A]aufgetaucht!{0x0114,0x000B}
+main_event_3092_rival_02=Was?! Sania, alles okay bei dir?!{0x0114,0x0005}
+main_event_3092_doctor_02=Momentan nerven mich die zwei nur rigoros[0x000A]damit, dass sie die Wunschsterne haben wollen...{0xBE01}[0x000A]Noch kann ich sie in Schach halten, aber...[0x000A]Könntet ihr trotzdem schnell hier vorbeischauen?{0x0114,0x000B}
+main_event_3092_system_02=*Biep!*
+main_event_3092_aku_01=Diese Witzbolde haben es auf die Wunschsterne[0x000A]abgesehen?{0x0114,0x0016}
+main_event_3092_rival_03=Wir müssen Sania helfen und {0x1604,0x0001,0x0000}{0x010B,0x0001}[0x000A]zurückholen!{0x0114,0x0005}
+main_event_3092_rival_04=Los, gehen wir zum Pokémon-Labor,[0x000A]{0x0100,0x0000}!{0x0114,0x0005}
+main_event_3092_aku_02=Schon wieder stürzt er völlig unüberlegt los.{0xBE01}[0x000A]Ich weiß nicht, ob das einfach nur Naivität[0x000A]oder Mut ist...{0x0114,0x0016}
+main_event_3092_aku_03=Zum Pokémon-Labor? Na, mir soll’s recht sein.[0x000A]Ich zieh das mit euch bis zum Ende durch.{0x0114,0x0016}

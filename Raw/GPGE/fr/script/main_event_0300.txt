@@ -1,0 +1,13 @@
+msg_main0300_rival_01=OUAAARGH !
+msg_main0300_rival_02={0xFF00,0x0009}{0x0100,0x0001} : {0xFF00,0x0000}Gaaah ![0x000A]{0x0100,0x0000} !{0xBE01}[0x000A]J’ai vu...[0x000A]Un Po... Un Po-po... Un Pokiparl...{0xBE01}[0x000A]Zut, j’arrive pas à me calmer ! Il me faut un[0x000A]combat pour faire redescendre toute cette{0xBE00}[0x000A]adrénaline !{0xBE01}[0x000A]On réfléchit pas, on y va et on donne tout[0x000A]ce qu’on a !
+msg_main0300_dummy_01={0xBDFF:0x0002}
+msg_main0300_rival_03={0xFF00,0x0009}{0x0100,0x0001} :{0xFF00,0x0000} Purée...[0x000A]Désolé, hein. Je panique pas comme ça,{0xBE00}[0x000A]d’habitude...{0xBE01}[0x000A]Euh... Je voulais te dire un truc, mais avec toutes[0x000A]ces émotions...{0xBE00}[0x000A]Ah ! Ouais, ça me revient !
+msg_main0300_rival_04=En fait, si tu continues par là, tu tomberas sur[0x000A]la maison d’un Pokémaniac qui s’appelle Léo.{0xBE01}[0x000A]Il paraît qu’il a plein de Pokémon rares qu’il[0x000A]aime bien montrer à qui veut, donc j’ai voulu{0xBE00}[0x000A]aller y faire un tour...
+msg_main0300_rival_05=Mais t’imagineras jamais ce que j’ai trouvé[0x000A]en arrivant !
+msg_main0300_rival_06=Déjà, aucune trace du Léo en question.[0x000A]Par contre, en plein milieu de la pièce, il y avait...{0xBE01}[0x000A]Un Pokémon qui parlait !!![0x000A]Oooh, le malaise ! C’était super glauque !
+msg_main0300_rival_07=Je me sauve le plus loin possible de ce truc ![0x000A]Fais attention à toi, si tu décides d’y aller !
+msg_rival_01_p01_field_t005={0xBDFF:0x0008}
+msg_rival_01_p02_field_t005={0xBDFF:0x0009}
+msg_rival_01_p03_field_t005={0xBDFF:0x000A}
+msg_rival_01_p05_field_t005={0xBDFF:0x000B}
+msg_rival_01_p06_field_t005={0xBDFF:0x000C}

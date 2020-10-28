@@ -1,0 +1,6 @@
+msg_ui_tournament_01={0x0100,0x0000}
+msg_ui_tournament_10=¡Estos son los participantes!{0xBE01}
+msg_ui_tournament_11=¡Estos son los resultados de la primera ronda!{0xBE01}
+msg_ui_tournament_12=¡Estos son los resultados de la segunda ronda!{0xBE01}
+msg_ui_tournament_13=¡Estos son los resultados de la ronda final!{0xBE01}
+msg_ui_tournament_14=¡Estos son los resultados de la segunda ronda!{0xBE01}[0x000A]¡Oh! ¡Menuda victoria! ¡Roy ha derrotado a Nerio[0x000A]en un encuentro portentoso!{0xBE01}

@@ -1,0 +1,299 @@
+{0x0100,0x0000}, congratulations on ranking up![0x000A]You’re doing great!{0x0114,0x0010}
+You’ve livened up this place, so I’ll introduce a[0x000A]new facility to you.{0xBE01}[0x000A]It’s {0x01B9,0x0000},[0x000A]one of the {0x01B8,0x0002}s.{0xBE01}[0x000A]It’s run by {0x1302,0x0001}{0x010E,0x0001}!{0x0114,0x0010}
+Are you sure you don’t want to host[0x000A]the facility?{0x0114,0x0010}
+Were you able to picture it?{0x0114,0x0010}
+When you rank up again, I’ll introduce[0x000A]another one.{0xBE01}[0x000A]This is a small token of my gratitude.{0x0114,0x0010}
+See you.[0x000A]Keep it up.{0x0114,0x0010}
+OK! Let’s host[0x000A]{0x01B9,0x0000}!{0x0114,0x0010}
+Very good.{0xBE01}[0x000A]Keep it up!{0x0114,0x0010}
+{0xBDFF:0x0008}
+{0x0100,0x0000}, you’re doing great!{0x0114,0x0010}
+I have a little present for you today.{0xBE01}[0x000A]I made it possible for people who come to[0x000A]Festival Plaza to introduce their favorite{0xBE00}[0x000A]facilities to you.{0xBE01}[0x000A]Speak to them, and say,[0x000A]“Do you know any good facilities?”{0x0114,0x0010}
+To host another player’s favorite facility,[0x000A]you need Festival Coins.{0xBE01}[0x000A]OK. Keep it up!{0x0114,0x0010}
+{0x0100,0x0000}, you’re doing great!{0x0114,0x0010}
+I have a little present for you today.{0xBE01}[0x000A]I made it possible for people who come to[0x000A]Festival Plaza to tell you their favorite{0xBE00}[0x000A]fashion items.{0xBE01}[0x000A]Speak to them, and say,[0x000A]“Your outfit looks great!”{0x0114,0x0010}
+To order fashion items, you need Festival Coins.{0xBE01}[0x000A]OK. Keep it up!{0x0114,0x0010}
+{0x0100,0x0000}, you’re doing great!{0x0114,0x0010}
+I have a little present for you today.{0xBE01}[0x000A]I made it possible for you to host missions[0x000A]to liven up Festival Plaza.{0xBE01}[0x000A]Speak to the receptionist for missions right in[0x000A]front of the castle to host a mission.{0xBE01}[0x000A]Let’s go have a look.{0x0114,0x0010}
+{0x0100,0x0000}, you’re really impressive!{0x0114,0x0010}
+I can leave this place to you with confidence.{0xBE01}[0x000A]Festival Plaza is yours both in name[0x000A]and reality.{0xBE01}[0x000A]All right! As proof, you can change the name[0x000A]of Festival Plaza!{0x0114,0x0010}
+{0x01BA,0x0000}!{0xBE01}[0x000A]{0x01BA,0x0000}![0x000A]{0x01B7,0x0001}{0xBE01}[0x000A]{0x01BA,0x0000}![0x000A]{0x01B7,0x0002}{0xBE01}[0x000A]{0x01BA,0x0000}![0x000A]It has a nice ring to it.
+Keep livening up {0x01BA,0x0000}!{0x0114,0x0010}
+You can change the name anytime you want, so[0x000A]don’t worry too much about the name you pick.{0x0114,0x0010}
+{0x0100,0x0000}, you’re doing great!{0x0114,0x0010}
+I have a little present for you today.{0xBE01}[0x000A]I’ve added premium services for you,[0x000A]the Champion.{0xBE01}[0x000A]The facilities for the premium services are...{0xBE01}[0x000A]goody shops, food stalls, and bouncy houses.[0x000A]Check them out!{0x0114,0x0010}
+Keep livening up {0x01BA,0x0000}!{0x0114,0x0010}
+{0x0100,0x0000}, you’re doing great!{0x0114,0x0010}
+I have a little present for you today.{0xBE01}[0x000A]I brought a bunch of music to change the mood[0x000A]if you’d like.{0xBE01}[0x000A]Please speak to the receptionist for remodeling.{0x0114,0x0010}
+Keep livening up[0x000A]{0x01BA,0x0000}!{0x0114,0x0010}
+{0x0100,0x0000}.{0xBE01}[0x000A]Please speak to me for remodeling.
+{0x0100,0x0000}, you’re doing great!{0x0114,0x0010}
+I have a little present for you today.{0xBE01}[0x000A]Now you can change the design of[0x000A]the castle.{0xBE01}[0x000A]Please speak to the receptionist[0x000A]for remodeling.{0x0114,0x0010}
+{0x0100,0x0000}.{0xBE01}[0x000A]Please speak to me for remodeling.
+Keep livening up {0x01BA,0x0000}!{0x0114,0x0010}
+What would you like to do with[0x000A]{0x01B9,0x0000}?
+Please select a facility to be replaced.
+{0x01B9,0x0000} will be[0x000A]gone. Is that OK?
+{0x01B9,0x0000}[0x000A]has arrived!
+You don’t want to host the facility?{0x0114,0x0010}
+Now you can ask,[0x000A]“Do you know any good facilities?”
+Now you can change the name of[0x000A]Festival Plaza!
+Now you can change the music!
+Now you can change the exterior of the castle[0x000A]to “Theme: A fairy tale.”
+Now you can change the exterior of the castle[0x000A]to “Theme: Glitz.”
+Now you can change the exterior of the castle[0x000A]to “Theme: Subdued tone.”
+Now you can say, “Your outfit looks great!”
+Now you can enjoy missions!{0xBE01}[0x000A]Go to the receptionist for missions in front[0x000A]of the castle!{0xBE01}[0x000A]Use communication features and enjoy[0x000A]missions with other players!
+Now you can use the following message:[0x000A]{0xFF00,0x0002}{0x01B7,0x0000}{0xFF00,0x0000}
+{0xBDFF:0x002F}
+{0xBDFF:0x0030}
+{0xBDFF:0x0031}
+{0xBDFF:0x0032}
+{0xBDFF:0x0033}
+{0xBDFF:0x0034}
+This is the PC that you can use for[0x000A]communication. What would you like to do?
+Game Sync ID[0x000A]{0x012D,0x0000}-{0x012D,0x0001}-{0x012D,0x0002}-{0x012D,0x0003}
+What would you like to do?
+Please select a person you would like to page.
+What would you like to learn about?
+Please select a facility to switch.
+Which facility would you like to switch the[0x000A]facility with?
+Please select a theme you like.
+Would you like to change the theme to[0x000A]this theme?
+Please select a song to play on the jukebox.
+Would you like to change the song to this song?
+What would you like to learn about?
+You received {0x0206,0x0004,0x002C} FC!
+View Battle Video
+Game Sync
+Check Game Sync ID
+Quit
+Page someone
+What can I do?
+Nothing
+About communications
+What is Festival Plaza?
+What should I do?
+About Festival Coins
+Bye
+Switch facilities
+Change themes
+Change songs
+Info
+Song 1
+Song 2
+Song 3
+Song 4
+Song 5
+Song 6
+Song 7
+Song 8
+Song 9
+{0xFF00,0x0002}Song 1{0xFF00,0x0000}
+{0xFF00,0x0002}Song 2{0xFF00,0x0000}
+{0xFF00,0x0002}Song 3{0xFF00,0x0000}
+{0xFF00,0x0002}Song 4{0xFF00,0x0000}
+{0xFF00,0x0002}Song 5{0xFF00,0x0000}
+{0xFF00,0x0002}Song 6{0xFF00,0x0000}
+{0xFF00,0x0002}Song 7{0xFF00,0x0000}
+{0xFF00,0x0002}Song 8{0xFF00,0x0000}
+{0xFF00,0x0002}Song 9{0xFF00,0x0000}
+1. {0x01B8,0x0000}
+2. {0x01B8,0x0000}
+3. {0x01B8,0x0000}
+4. {0x01B8,0x0000}
+5. {0x01B8,0x0000}
+6. {0x01B8,0x0000}
+7. {0x01B8,0x0000}
+{0xFF00,0x0002}1. {0x01B8,0x0000}{0xFF00,0x0000}
+{0xFF00,0x0002}2. {0x01B8,0x0000}{0xFF00,0x0000}
+{0xFF00,0x0002}3. {0x01B8,0x0000}{0xFF00,0x0000}
+{0xFF00,0x0002}4. {0x01B8,0x0000}{0xFF00,0x0000}
+{0xFF00,0x0002}5. {0x01B8,0x0000}{0xFF00,0x0000}
+{0xFF00,0x0002}6. {0x01B8,0x0000}{0xFF00,0x0000}
+{0xFF00,0x0002}7. {0x01B8,0x0000}{0xFF00,0x0000}
+Basic
+A fairy tale
+Glitz
+Subdued tone
+{0xFF00,0x0002}Basic{0xFF00,0x0000}
+{0xFF00,0x0002}A fairy tale{0xFF00,0x0000}
+{0xFF00,0x0002}Glitz{0xFF00,0x0000}
+{0xFF00,0x0002}Subdued tone{0xFF00,0x0000}
+Yes
+No
+Participate
+Check
+What are global missions?
+How can I try a mission?
+Host
+About communication settings
+About Help
+{0x0100,0x0000},[0x000A]who are you looking for?
+Here, we can page a visitor in[0x000A]{0x01BA,0x0001}.{0xBE01}[0x000A]Please select a person you want to talk to.
+Please come again.
+{0x0100,0x0000}.{0xBE01}[0x000A]Leave the explanation about[0x000A]{0x01BA,0x0001} to me.
+Please come again.
+You can enjoy communication features[0x000A]via local wireless communication or the{0xBE00}[0x000A]Internet here in Festival Plaza.{0xBE01}[0x000A]You can switch communication methods and[0x000A]select battle or trade on the lower screen.{0xBE00}[0x000A]Please give it a try.
+A Trainers’ festival takes place here via[0x000A]communication features.{0xBE01}[0x000A]People you met via local wireless communication[0x000A]or the Internet come to Festival Plaza.{0xBE01}[0x000A]Please speak to them.
+Please interact with visitors as a person who[0x000A]boosts the festivity here.{0xBE01}[0x000A]If visitors enjoy interacting with you, they will[0x000A]give you Festival Coins.{0xBE01}[0x000A]The number of Festival Coins is the proof that[0x000A]you’re boosting the festivity, so please collect{0xBE00}[0x000A]a lot of Festival Coins.
+You can use Festival Coins in facilities here.{0xBE01}[0x000A]You can receive rare services and items, so[0x000A]please have a look.
+In Festival Plaza, information about your ongoing[0x000A]adventure will be sent to those you are{0xBE00}[0x000A]communicating with.{0xBE01}[0x000A]Select your profile icon on the lower screen to[0x000A]change your communication settings.
+{0x0100,0x0001}, even when you are not in[0x000A]Festival Plaza, you can check the information{0xBE00}[0x000A]about Festival Plaza on the X menu on your{0xBE00}[0x000A]lower screen.{0xBE01}[0x000A]Would you like to learn more about this?
+If people nearby are playing in Festival Plaza[0x000A]via local wireless communication, the number of{0xBE00}[0x000A]people will be displayed on the icon of{0xBE00}[0x000A]Festival Plaza.{0xBE01}[0x000A]If a person in Festival Plaza wants to ask[0x000A]you a favor, an exclamation mark will be{0xBE00}[0x000A]displayed on the icon of Festival Plaza.
+{0x0100,0x0000}. Please leave remodeling of[0x000A]{0x01BA,0x0001} to me.
+Please come again.
+Please select two facilities you want to switch.{0xBE01}[0x000A]Facilities are listed counterclockwise from the[0x000A]right of the castle entrance.{0xBE01}[0x000A]The facility at the top of the list will be[0x000A]introduced to those you are communicating with{0xBE00}[0x000A]as your favorite facility.
+I’ll switch them!
+That’s the same place.
+That’s the current theme.
+I’ll change the exterior of the castle.{0xBE01}[0x000A]Please pick a theme you like.
+The music is already playing.
+I’ll change music on the jukebox.[0x000A]Please select music you like.
+Here, you can make changes to[0x000A]{0x01BA,0x0001}.{0xBE01}[0x000A]Please select what you would like to change.
+I changed the music for[0x000A]{0x01BA,0x0001}.
+{0x0100,0x0000},[0x000A]welcome to global missions!
+A global mission is a festival that people[0x000A]all over the world participate in.{0xBE01}[0x000A]If you achieve a goal, everyone who registered[0x000A]for the mission can receive a reward.{0xBE01}[0x000A]To participate in a global mission, you need[0x000A]a Game Sync ID.{0xBE01}[0x000A]Please have your Game Sync ID issued[0x000A]at the PC right next to you.
+{0x0100,0x0000}, you don’t seem to have[0x000A]a Game Sync ID.{0xBE01}[0x000A]Please have your Game Sync ID issued[0x000A]at the PC right next to you.
+Please come back again.
+To participate in a global mission, you need[0x000A]a Game Sync ID.{0xBE01}[0x000A]Please have your Game Sync ID issued[0x000A]at the PC right next to you.
+A global mission is a festival that people[0x000A]all over the world participate in.{0xBE01}[0x000A]If you achieve a goal, everyone who registered[0x000A]for the mission can receive a reward.{0xBE01}[0x000A]To participate in a global mission, you need[0x000A]a Game Sync ID.{0xBE01}[0x000A]Please have your Game Sync ID issued[0x000A]at the PC right next to you.
+You can participate in a global mission[0x000A]by connecting to the Internet.{0xBE01}[0x000A]Please come to me when you achieve a record[0x000A]in a mission.
+A reward has been delivered from the global[0x000A]mission. Here it is!
+The owner is here.[0x000A]Please speak to him.
+{0x0100,0x0000},{0xBE01}[0x000A]you’re really something else! Awesome!{0x0114,0x0010}
+Let’s tell everyone around the world about[0x000A]how awesome you are in that you raised{0xBE00}[0x000A]{0x01BA,0x0000} to Rank 100!{0x0114,0x0010}
+{0x0100,0x0000}, your {0x01BA,0x0001}[0x000A]is the greatest!{0x0114,0x0010}
+I changed the exterior of the castle.
+{0x0100,0x0000}![0x000A]Welcome to {0x01BA,0x0001}!
+{0x0100,0x0000}, nice to meet you.[0x000A]I’ve been waiting for you.{0xBE01}[0x000A]This is the place where we support you,[0x000A]{0x0100,0x0000}.{0xBE01}[0x000A]Let me briefly explain about this place.
+First of all, I’m the receptionist at the[0x000A]information desk.{0xBE01}[0x000A]If you want to know about Festival Plaza,[0x000A]please speak to me.
+This is a PC exclusively for communications.{0xBE01}[0x000A]It will connect you to the services that require[0x000A]an Internet connection.{0xBE01}[0x000A]The services currently available are[0x000A]Battle Videos and Game Sync.
+This is the reception desk for global missions.{0xBE01}[0x000A]A global mission is an event in which you[0x000A]cooperate with Trainers all over the world to{0xBE00}[0x000A]achieve a world record.{0xBE01}[0x000A]You can participate in a global mission via[0x000A]the Internet.
+This is where you can page Trainers.{0xBE01}[0x000A]Please use the service when you want to talk[0x000A]to a particular visitor.
+This is where you can do remodeling.[0x000A]You can switch the order of facilities.
+We’ll do our best to boost the mood of this[0x000A]place. We look forward to working with you.
+{0x0100,0x0000} has arrived![0x000A]Please speak to {0x0100,0x0000}!
+{0x01B7,0x0000}
+{0x01B7,0x0000}
+Speak to the visitors!
+Go to the reception desk for remodeling!
+Select the profile icon on the lower screen,[0x000A]and give it a try.
+Use the message! The message is in the[0x000A]category, “Let’s Communicate.”
+{0x0100,0x0000} is already here.
+I’m here, so speak to me anytime you need me.
+Paging the person failed.
+Premium services have been added to facilities.
+You’ve collected {0x0206,0x0000,0x002C} FC in total.
+The rank of {0x01BA,0x0001} went up[0x000A]to {0x0202,0x0002}!
+Sophocles has come to the castle to[0x000A]congratulate you! Get your reward!
+{0xBDFF:0x00BD}
+{0xBDFF:0x00BE}
+{0xBDFF:0x00BF}
+{0xBDFF:0x00C0}
+{0xBDFF:0x00C1}
+{0xBDFF:0x00C2}
+{0xBDFF:0x00C3}
+{0xBDFF:0x00C4}
+{0xBDFF:0x00C5}
+{0xBDFF:0x00C6}
+{0xBDFF:0x00C7}
+{0xBDFF:0x00C8}
+{0xBDFF:0x00C9}
+{0xBDFF:0x00CA}
+{0xBDFF:0x00CB}
+{0xBDFF:0x00CC}
+{0xBDFF:0x00CD}
+{0xBDFF:0x00CE}
+{0xBDFF:0x00CF}
+{0xBDFF:0x00D0}
+{0xBDFF:0x00D1}
+{0xBDFF:0x00D2}
+{0xBDFF:0x00D3}
+{0xBDFF:0x00D4}
+{0xBDFF:0x00D5}
+{0xBDFF:0x00D6}
+{0xBDFF:0x00D7}
+{0xBDFF:0x00D8}
+{0xBDFF:0x00D9}
+{0xBDFF:0x00DA}
+{0xBDFF:0x00DB}
+{0xBDFF:0x00DC}
+{0xBDFF:0x00DD}
+{0xBDFF:0x00DE}
+{0xBDFF:0x00DF}
+{0xBDFF:0x00E0}
+{0xBDFF:0x00E1}
+{0xBDFF:0x00E2}
+{0xBDFF:0x00E3}
+{0xBDFF:0x00E4}
+{0xBDFF:0x00E5}
+{0xBDFF:0x00E6}
+{0xBDFF:0x00E7}
+{0xBDFF:0x00E8}
+{0xBDFF:0x00E9}
+{0xBDFF:0x00EA}
+{0xBDFF:0x00EB}
+{0xBDFF:0x00EC}
+{0xBDFF:0x00ED}
+{0xBDFF:0x00EE}
+{0xBDFF:0x00EF}
+{0xBDFF:0x00F0}
+{0xBDFF:0x00F1}
+{0xBDFF:0x00F2}
+{0xBDFF:0x00F3}
+{0xBDFF:0x00F4}
+{0xBDFF:0x00F5}
+{0xBDFF:0x00F6}
+{0xBDFF:0x00F7}
+{0xBDFF:0x00F8}
+{0xBDFF:0x00F9}
+{0xBDFF:0x00FA}
+{0xBDFF:0x00FB}
+{0xBDFF:0x00FC}
+{0xBDFF:0x00FD}
+{0xBDFF:0x00FE}
+{0xBDFF:0x00FF}
+{0xBDFF:0x0100}
+{0xBDFF:0x0101}
+{0xBDFF:0x0102}
+{0xBDFF:0x0103}
+{0xBDFF:0x0104}
+Maybe...perhaps...by any chance, are you[0x000A]interested in Bottle Caps?
+If you insist, I don’t mind trading one Bottle Cap[0x000A]for {0x0202,0x0000} colored shards.
+Which shards will you trade?
+Are you OK with trading {0x0202,0x0000} {0x1001}{0x0109,0x0001}[0x000A]for one Bottle Cap?
+All right. The trade is done![0x000A]Use it wisely, young {0x1100,0x00FF,0x0403}manlady!
+Do you want to trade again?
+But you don’t have enough colored shards.{0xBE01}[0x000A]I’ll trade your shards for my Bottle Cap when[0x000A]you collect {0x0202,0x0000} shards with the same color,{0xBE00}[0x000A]such as Red Shards.
+Too bad.[0x000A]If you change your mind, come back again.
+{0x0202,0x0000} Red Shards
+{0x0202,0x0000} Blue Shards
+{0x0202,0x0000} Yellow Shards
+{0x0202,0x0000} Green Shards
+No thanks
+{0xBDFF:0x0112}
+{0xBDFF:0x0113}
+{0xBDFF:0x0114}
+{0xBDFF:0x0115}
+{0xBDFF:0x0116}
+... ... ...
+You chilled out.
+{0xBDFF:0x0119}
+Thank you for getting rid of Team[0x000A]Rainbow Rocket...
+Now you can change the exterior of the castle[0x000A]to “Theme: Team Rainbow Rocket.”
+Team Rainbow Rocket
+{0xFF00,0x0002}Team Rainbow Rocket{0xFF00,0x0000}
+Welcome to the Battle Agency reception desk.[0x000A]Not to brag, but this facility is pretty sweet...
+First, go ahead and borrow a Pokémon at the[0x000A]reception desk.
+You can choose one of three Pokémon.
+Once you’ve borrowed a Pokémon, next is[0x000A]asking Trainers to join your team.
+Look for Trainers who have strong Pokémon.
+Battle alongside your teammates and[0x000A]get rewards!
+If you keep winning, your grade will go up.
+If your grade goes up, you can battle with[0x000A]stronger Pokémon!
+Battle a lot and raise your grade.
+That’s how it works.[0x000A]Go ahead and give it a try.
+Song 10
+{0xFF00,0x0002}Song 10{0xFF00,0x0000}
+Now we still have preparations to do.[0x000A]Please come back again!

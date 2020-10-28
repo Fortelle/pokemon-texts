@@ -1,0 +1,15 @@
+msg_sub032_youngf_01={0xBDFF:0x0000}
+msg_sub032_youngf_02=¡Cada vez que voy de compras a Ciudad[0x000A]Plateada, tengo que atravesar los sinuosos{0xBE00}[0x000A]caminos del Bosque Verde!
+msg_sub032_oldm_01={0xBDFF:0x0002}
+msg_sub032_oldm_02=Oh, veo que estás trabajando en tu Pokédex...[0x000A]Pues deja que te dé un consejillo.{0xBE01}[0x000A]¡Asegúrate de ir bien provist{0x1100,0x00FF,0x0101}oa de Poké Balls[0x000A]vayas a donde vayas!{0xBE01}[0x000A]Si se te acaban, pásate por la Tienda Pokémon[0x000A]para comprar más.
+msg_sub032_musashi_01={0xFF00,0x0009}???:{0xFF00,0x0000} ¿Eh? ¿Qué quieres?[0x000A]¡¿No ves que no se puede pasar por aquí?!{0xBE01}[0x000A]Estamos en medio de algo muy importante, ¡así[0x000A]que aire, niñ{0x1100,0x00FF,0x0101}oa!
+msg_sub032_musashi_02={0xFF00,0x0009}???:{0xFF00,0x0000} ¡Que te he dicho que no se puede pasar[0x000A]por aquí!{0xBE01}[0x000A]¿Por qué no te vas a ayudar a tu mamá o algo?
+msg_sub032_kojiro_01={0xFF00,0x0009}???:{0xFF00,0x0000} ¿Qué se te ha perdido por aquí, niñat{0x1100,0x00FF,0x0101}oa?[0x000A]¡Venga, largo!
+msg_sub032_kojiro_02={0xFF00,0x0009}???:{0xFF00,0x0000} Vale que sea nuestra obligación, pero[0x000A]esto de montar guardia es un rollazo.{0xBE01}[0x000A]Ojalá pudiese ir a la Tienda Pokémon a pasar[0x000A]el rato...
+msg_sub032_nyasu_01={0xFF00,0x0009}Meowth:{0xFF00,0x0000} ¡Meooow!
+msg_oyaji4_01_p03_field_t002={0xBDFF:0x0009}
+msg_oyaji4_01_p04_field_t002={0xBDFF:0x000A}
+msg_oyaji4_01_p05_field_t002={0xBDFF:0x000B}
+msg_oyaji4_01_p06_field_t002={0xBDFF:0x000C}
+msg_oyaji4_01_p07_field_t002={0xBDFF:0x000D}
+msg_oyaji4_01_p08_field_t002={0xBDFF:0x000E}

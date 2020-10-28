@@ -1,0 +1,8 @@
+msg_sub027_clerkm_01=화장실에 가고 싶은데[0x000A]또 손님이 오다니!{0xBE01}[0x000A]교대해줄 후배가[0x000A]아직 오지 않았어~!{0xBE01}[0x000A]아 아무나 헬프...![0x000A]도우미 플리즈!{0xBE00}[0x000A]...그래서 말인데
+msg_sub027_sys_01={0xBDFF:0x0001}
+msg_sub027_clerkm_02=기술머신03 안에는[0x000A]도우미가 있어!{0xBE01}[0x000A]도움받은 동료의[0x000A]기술의 위력을 높여준단다
+msg_sub027_clerkm_03=도우미는 잘 사용하고 있니?[0x000A]나도 슬슬{0xBE00}[0x000A]도우미가 필요한데...
+msg_sub027_clerkm_01_nouse={0xBDFF:0x0004}
+msg_sub027_clerkm_02_nouse={0xBDFF:0x0005}
+msg_sub027_clerkm_03_nouse={0xBDFF:0x0006}
+msg_sub027_clerkm_04={0xBDFF:0x0007}

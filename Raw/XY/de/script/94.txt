@@ -1,0 +1,16 @@
+Wenn du möchtest, bringe ich einem deiner[0x000A]Pokémon die stärkste Drachen-Attacke bei,{0xBE00}[0x000A]die es gibt.{0xBE01}[0x000A]Also, soll ich sie einem Pokémon beibringen?
+Auch gut.[0x000A]Komm einfach wieder, wenn dir danach ist!
+Hmmm...{0xBE01}[0x000A]Du hast zwar ein Pokémon, das diese Attacke[0x000A]erlernen könnte, aber ich befürchte, es hat sich{0xBE00}[0x000A]noch nicht so richtig mit dir anfreunden können...{0xBE01}[0x000A]Deshalb kann ich ihm meine Attacke auch noch[0x000A]nicht beibringen.
+Verstehe...{0xBE01}[0x000A]Aber es sieht nicht so aus, als hättest du ein[0x000A]Pokémon im Team, das die Attacke erlernen kann.
+Welchem Pokémon soll ich[0x000A]die Attacke beibringen?
+Ich bedauere, aber...{0xBE01}[0x000A]Dieses Pokémon kann die Attacke[0x000A]leider nicht erlernen.
+Hm, sei mir nicht böse, aber...{0xBE01}[0x000A]Ich befürchte, es ist mir nicht möglich,[0x000A]einem Ei diese Attacke beizubringen.
+Hm... aber dieses Pokémon hat[0x000A]{0x0107,0x0001} bereits erlernt.
+Draco Meteor ist eine wahrlich mächtige Attacke!{0xBE01}[0x000A]Allerdings sinkt nach ihrem Einsatz der eigene[0x000A]Spezial-Angriffs-Wert dramatisch.
+Bist du damit einverstanden, dass {0x0101,0x0000}[0x000A]die Attacke doch nicht erlernt?
+{0x0101,0x0000} erlernt {0x0107,0x0001}!
+{0x0101,0x0000} versucht,[0x000A]{0x0107,0x0001} zu erlernen.{0xBE01}[0x000A]Aber {0x0101,0x0000} kann nur[0x000A]maximal vier Attacken erlernen.{0xBE01}[0x000A]Soll eine andere Attacke durch[0x000A]{0x0107,0x0001} ersetzt werden?
+Aufgeben, {0x0107,0x0001} zu erlernen?
+{0x0101,0x0000} hat {0x0107,0x0001}[0x000A]nicht erlernt.
+Bist du damit einverstanden, dass das Pokémon[0x000A]{0x0107,0x0002} vergisst?
+Eins,{0xBE02:0x0014} zwei{0xBE02:0x0014} und{0xBE02:0x0014}... schwupp!{0xBE05,0x0003}{0xBE05,0x0006}{0xBE01}[0x000A]{0x0102,0x0000} hat {0x0107,0x0002}[0x000A]vergessen.{0xBE01}[0x000A]Und...

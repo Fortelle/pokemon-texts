@@ -1,0 +1,13 @@
+msg_sub024_researcher_01=Salut !{0xBE01}[0x000A]Je suis un scientifique très sérieux ![0x000A]J’étudie les fossiles de Pokémon anciens !{0xBE01}[0x000A]Dis-moi, tu n’aurais pas un fossile pour moi ?
+msg_sub024_select_01=Nautile
+msg_sub024_select_02=Fossile Dôme
+msg_sub024_select_03=Vieil Ambre
+msg_sub024_select_04=Non...
+msg_sub024_researcher_02=C’est bien dommage !
+msg_sub024_researcher_03=C’est une réussite !{0xBE01}[0x000A]Ton fossile a permis de reconstituer[0x000A]un {0x0101,0x0004} !
+msg_sub024_sys_01=Vous récupérez {0x0101,0x0004} de la part[0x000A]du scientifique !
+msg_sub024_researcher_04=Oh ! Ce {0x0109,0x0002} est un fossile[0x000A]{0x1408,0x0001}{0x0101,0x0001}, un Pokémon éteint !{0xBE01}[0x000A]Ma machine va permettre de reconstituer cet[0x000A]ancien Pokémon ! Ça t’intéresse ?
+msg_sub024_researcher_05=Allez ![0x000A]Dépêche-toi et donne-moi ton échantillon !
+msg_sub024_sys_02=Malgré vos doutes, vous avez confié votre[0x000A]{0x0109,0x0002} au scientifique !
+msg_sub024_researcher_06={0xBDFF:0x000B}
+msg_sub024_researcher_07=Allez ! À la prochaine !

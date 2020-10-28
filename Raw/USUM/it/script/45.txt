@@ -1,0 +1,24 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+...
+Ciao... Tutto ok?
+{0xBDFF:0x0009}
+Ciao... Chi sei?
+Aiutami... per favore...
+{0xBDFF:0x000C}
+Io... Ti prego, aiutami!
+Devi salvarlo...!
+Salva Nebulino!
+Moog...
+Quegli Spearow l’hanno attaccato...{0xBE01}[0x000A]Vorrei aiutarlo... ma non sono un’Allenatrice...
+Ti prego![0x000A]Salva Nebulino!
+{0xBDFF:0x0013}
+Fammi rimettere in sesto il tuo Pokémon...
+{0xBDFF:0x0015}
+Hai scacciato uno degli Spearow...[0x000A]ma gli altri non si sono scoraggiati!
+Ti supplico, fai qualcosa! Aiuta Nebulino!{0xBE01}[0x000A]Però stai attent{0x1100,0x00FF,0x0101}oa... Il Ponte Sospeso sembra[0x000A]danneggiato...{0xBE00}[0x000A]Potrebbe cedere in qualsiasi momento...

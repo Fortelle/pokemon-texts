@@ -1,0 +1,7 @@
+msg_sub036_researcher_01=Hallo! Erinnerst du dich an mich?[0x000A]Ich bin es!{0xBE01}[0x000A]Professor Eichs Assistent!{0xBE01}[0x000A]Ich soll dir vom Professor einige Hyperbälle[0x000A]überreichen, wenn du in deinem Pokédex{0xBE00}[0x000A]mindestens 40 verschiedene Arten von{0xBE00}[0x000A]Pokémon registriert hast.{0xBE01}[0x000A]Also, {0x0100,0x0000}! Hast du mehr als 40[0x000A]unterschiedliche Pokémon-Arten gefangen?
+msg_sub036_researcher_02=Alles klar! Du hast {0x0202,0x0004} verschiedene Pokémon-[0x000A]Arten gefangen.{0xBE01}[0x000A]Einfach klasse! Hier, das hast du dir redlich[0x000A]verdient!
+msg_sub036_sys_01=Du erhältst 30 Hyperbälle von Professor Eichs[0x000A]Assistenten!
+msg_sub036_researcher_03=Mit einem Hyperball lassen sich Pokémon viel[0x000A]leichter fangen.{0xBE01}[0x000A]Das ist so ziemlich der beste Pokéball...{0xBE01}[0x000A]Es sei denn, die Silph Company entwickelt[0x000A]gerade einen neuen.
+msg_sub036_researcher_04=Mal schauen...[0x000A]Du hast...{0xBE01}[0x000A]Oh! Du hast erst {0x0202,0x0004} Pokémon-Art{0x1101,0x0004,0x0200}en gefangen.{0xBE01}[0x000A]Komm wieder, wenn du 40 verschiedene[0x000A]Pokémon besitzt. Ich lege die Hyperbälle{0xBE00}[0x000A]so lange für dich zurück.
+msg_sub036_researcher_06={0xBDFF:0x0005}
+msg_sub036_researcher_05=Okay, verstehe.{0xBE01}[0x000A]Komm einfach wieder, wenn du 40 verschiedene[0x000A]Pokémon-Arten gefangen hast. Ich lege die{0xBE00}[0x000A]Hyperbälle so lange für dich zurück.

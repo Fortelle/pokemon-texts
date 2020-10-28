@@ -1,0 +1,9 @@
+msg_t001r0101_mother_01={0xFF00,0x0009}Mama:{0xFF00,0x0000} Sag mal, hast du nicht einen Termin bei[0x000A]Professor Eich?{0xBE01}[0x000A]{0x0100,0x0001} wollte doch mit dir eure[0x000A]Pokémon abholen gehen!
+msg_t001r0101_mother_02={0xFF00,0x0009}Mama:{0xFF00,0x0000} Sag mal, hast du nicht einen Termin bei[0x000A]Professor Eich?{0xBE01}[0x000A]{0x0100,0x0001} wollte doch mit dir eure[0x000A]Pokémon abholen gehen!
+msg_t001r0101_mother_03={0xFF00,0x0009}Mama:{0xFF00,0x0000} {0x0100,0x0000}! Du solltest eine[0x000A]kurze Pause einlegen.
+msg_t001r0101_mother_04=Sehr gut! Du und dein{0x1101,0x00FD,0x0100}e Pokémon seht wieder[0x000A]topfit aus. Passt gut auf euch auf, ja?
+msg_t001r0101_mother_05={0xFF00,0x0009}Mama:{0xFF00,0x0000} {0x0100,0x0000}!{0xBE01}[0x000A]Du scheinst eine Menge Spaß auf deiner Reise[0x000A]mit deine{0x1101,0x00FD,0x0101}mn Pokémon zu haben. Das freut mich!
+msg_t001r0101_mother_06={0xBDFF:0x0005}
+msg_t001r0101_tv_01=Es läuft gerade ein Film.{0xBE01}[0x000A]Vier Jungen laufen auf Bahnschienen...{0xBE01}[0x000A]Aber es ist Zeit aufzubrechen!
+msg_t001r0101_tv_02=Es läuft gerade ein Film.{0xBE01}[0x000A]Ein Mädchen mit Zöpfen läuft eine Straße aus[0x000A]gelben Ziegelsteinen entlang.{0xBE01}[0x000A]Aber es ist Zeit aufzubrechen!
+msg_t001r0101_tv_03=Von hier aus kannst du leider nicht sehen,[0x000A]was im Fernsehen läuft...

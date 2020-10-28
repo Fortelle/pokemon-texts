@@ -1,0 +1,9 @@
+main_event_1860_rival_01=Hey, wo wollt ihr hin? Wir brauchen eure Hilfe!{0x0114,0x0005}
+main_event_1860_assistant_01=Nanu? Warum steht ihr hier so tatenlos rum?{0x0114,0x000B}
+main_event_1860_rival_02=Was meinst du? Die Pokémon des Schwertes[0x000A]und des Schildes waren doch eben hier!{0xBE01}[0x000A]Hast du sie etwa nicht gesehen?![0x000A]Sie sind gerade in den Wald verschwunden!{0x0114,0x0005}
+main_event_1860_assistant_02=Was faselst du denn da? Außer euch war hier[0x000A]weit und breit niemand zu sehen!{0x0114,0x000B}
+main_event_1860_rival_03=Aber... Was haben wir dann eben gesehen?[0x000A]Eine Vision, oder was?{0x0114,0x0005}
+main_event_1860_assistant_03=Das weiß ich leider auch nicht... Aber ich hab[0x000A]jede Menge Bücher gewälzt, darunter auch{0xBE00}[0x000A]welche, die nicht aus Galar stammen.{0xBE01}[0x000A]In einem davon bin ich endlich auf neue[0x000A]Informationen gestoßen.{0xBE01}[0x000A]Das Pokémon des Schwertes heißt Zacian[0x000A]und das Pokémon des Schildes Zamazenta.{0xBE01}[0x000A]Angeblich wurden die beiden vor langer, langer[0x000A]Zeit jenseits des Schlummerwaldes geboren.{0x0114,0x000B}
+main_event_1860_rival_04=Verstehe... Danke, Sania!{0x0114,0x0005}
+main_event_1860_rival_05=Okay! Wir sind den beiden Pokémon begegnet,[0x000A]selbst wenn es nur in einer Vision war.{0xBE01}[0x000A]Das heißt, das Schwert und der Schild, die sie[0x000A]bei sich führten, können auch nicht weit sein!{0x0114,0x0005}
+main_event_1860_assistant_04=Zacian und Zamazenta...{0xBE01}[0x000A]Die Pokémon des Schwertes und des Schildes[0x000A]ruhen womöglich hier im Schlummerwald,{0xBE00}[0x000A]ganz in der Nähe meiner Heimat.{0xBE01}[0x000A]Tief in einem friedlichen Wäldchen, in das sonst[0x000A]keine Menschenseele einen Fuß setzt...{0x0114,0x000B}

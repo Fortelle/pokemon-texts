@@ -1,0 +1,42 @@
+Quel est votre nom ?
+Votre nom est <var>. Voulez-vous le valider ?
+Vous ne pouvez pas utiliser ce nom.
+Vous ne pouvez pas utiliser le mot « <var> ».
+Veuillez saisir un nom.
+Quel surnom donner à <var> ?
+Quel surnom donner <var> mâle ?
+Quel surnom donner <var> femelle ?
+<var>
+Son surnom sera <var>. Voulez-vous le valider ?
+Quel nom voulez-vous donner à la Boîte ?
+<var>
+Quel nom voulez-vous donner à l'Équipe Combat ?
+<var>
+Son nom sera <var>. Voulez-vous le valider ?
+Veuillez saisir le code ou le mot de passe.
+Le code que vous avez saisi n'existe pas.
+Veuillez saisir un mot de passe.
+Veuillez saisir votre numéro de dossard.
+Votre numéro de dossard sera <var>. Voulez-vous le valider ?
+Vous ne pouvez pas utiliser ce numéro.
+Quel est votre mois de naissance ?
+Quel est votre jour de naissance ?
+Par exemple, si vous êtes né le 2 janvier, veuillez saisir 02 et 01.
+Votre date de naissance est le <var>/<var>. Voulez-vous la valider ?
+Veuillez saisir une date valide.
+Vous pouvez saisir un mot de passe à quatre chiffres.
+Veuillez saisir un mot de passe à quatre chiffres.
+Veuillez saisir un ID Compétition.
+Veuillez saisir un numéro de groupe de combat.
+Veuillez saisir l'ID de l'équipe que vous souhaitez emprunter.
+Veuillez saisir un code carte.
+Veuillez saisir un nom pour la compétition.
+Veuillez saisir un sous-titre pour la compétition.
+L'ajout d'un sous-titre est facultatif.
+Vous pouvez saisir cinq chiffres maximum.
+
+Veuillez saisir un chiffre entre 1 et 12.
+Veuillez saisir un chiffre entre 1 et 31.
+Veuillez saisir un chiffre entre 1 et 30.
+Veuillez saisir un chiffre entre 1 et 29.
+Les données saisies sont invalides.

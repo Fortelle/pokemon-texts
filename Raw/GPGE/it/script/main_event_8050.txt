@@ -1,0 +1,11 @@
+msg_main8050_poison_01={0xFF00,0x0009}Koga:{0xFF00,0x0000} Ihahahaha!
+msg_main8050_poison_06=Un{0x1100,0x00FF,0x0D0C} mocciosettoa mocciosetta come te osa sfidarmi?![0x000A]Ridicolo! Davvero ridicolo!
+msg_main8050_poison_07=Il veleno ti corroderà.[0x000A]Non avrai modo di resistere.
+msg_main8050_poison_08=Preparati ad assaggiare la potenza[0x000A]di un maestro ninja!
+msg_gym06_01_02={0xBDFF:0x0004}
+msg_main8050_poison_02=Molto bene. Ti sei guadagnat{0x1100,0x00FF,0x0101}oa[0x000A]la Medaglia Anima.
+msg_main8050_sys_01={0x0100,0x0000} riceve la {0xFF00,0x0006}Medaglia Anima{0xFF00,0x0000}[0x000A]da Koga!
+msg_main8050_poison_03=Chiunque possegga questa Medaglia potrà dare[0x000A]istruzioni a qualsiasi Pokémon fino al livello {0x0201,0x0004}.{0xBE01}[0x000A]A proposito... Accetta anche questa!
+msg_main8050_sys_02={0x0100,0x0000} riceve la {0x0109,0x0001}[0x000A]che contiene {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000} da Koga!
+msg_main8050_poison_04=La MT27 contiene Tossina!{0xBE01}[0x000A]È una mossa arcana, tramandata nella mia[0x000A]famiglia da più di 400 anni!
+msg_main8050_poison_05=I Pokémon colpiti dal veleno di Tossina[0x000A]subiscono ogni turno danni di entità{0xBE00}[0x000A]sempre maggiore!{0xBE01}[0x000A]Con questa mossa potrai seminare[0x000A]il terrore nei tuoi avversari.

@@ -1,0 +1,18 @@
+Pokédex
+{0x0202,0x0000}
+
+Tempo di gioco
+{0x0202,0x0000}:{0x0201,0x0001}
+{0x0202,0x0000}
+:
+{0x0201,0x0000}
+Ultimo salvataggio
+{0x0201,0x0002}/{0x0201,0x0001}/{0x0203,0x0000,0x0000}
+{0x0105,0x0000}
+Vuoi salvare il gioco?
+Salvataggio in corso.[0x000A]Non spegnere la console.
+{0x0100,0x0000} ha salvato il gioco.
+Il salvataggio non è riuscito.
+Sì
+No
+Dati necessari al collegamento a Internet[0x000A]ottenuti. Vuoi salvare il gioco?

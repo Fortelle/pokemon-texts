@@ -1,0 +1,16 @@
+main_event_0670_leader2_01=Bienvenue dans mon Arène, Challenger !{0x0114,0x000F}
+main_event_0670_leader2_02=Comme tu le sais, je me nomme Donna.[0x000A]Désolée que tu aies eu à me chercher.{0x0114,0x000F}
+main_event_0670_leader2_03=Tu es venu{0x1100,0x00FF,0x0100}e à bout de ma Mission d’Arène[0x000A]qui était pourtant relativement complexe,{0xBE00}[0x000A]et je dis cela en toute humilité.{0xBE01}[0x000A]Tu possèdes un esprit affûté qui te prédispose[0x000A]à la carrière de Dresseu{0x1100,0x00FF,0x0201}rse Pokémon.{0x0114,0x000F}
+main_event_0670_leader2_04=Mais ton discernement suffira-t-il à te sauver[0x000A]face au torrent de mes attaques ?{0x0114,0x000F}
+main_event_0670_leader2_05=In... incroyable !{0x0114,0x000F}
+main_event_0670_leader2_06=Ma foi...[0x000A]Je ne peux que reconnaître ta victoire.{0x0114,0x000F}
+main_event_0670_leader2_07=Poursuis ton avancée victorieuse tout au long[0x000A]du Défi des Arènes avec l’aide de ton {0x1101,0x00FD,0x0607}Pokémonéquipe.{0xBE01}[0x000A]Qui sait, ta fougue te mènera peut-être[0x000A]jusqu’au titre de Maître ?!{0x0114,0x000F}
+main_event_0670_leader2_08=Ton {0x1101,0x00FD,0x0607}Pokémonéquipe et toi avez su vous montrer[0x000A]dignes de ce Badge ! Porte-le fièrement !{0x0114,0x000F}
+main_event_0670_badge_01=Vous pouvez maintenant capturer des Pokémon[0x000A]jusqu’au niveau 30 !
+main_event_0670_leader2_09=Je pense que le Champion du type Feu se fera[0x000A]une joie de vous affronter, étant donné ton niveau.{0x0114,0x000F}
+main_event_0670_counterw_03=Bravo ! Tu as vaincu Donna, la Championne ![0x000A]Accepte cette CT en souvenir de ce jour !
+main_event_0670_counterw_04=Et voici une copie de son uniforme, en prime !
+main_event_0670_counterw_01=Ton {0x1101,0x00FD,0x0607}Pokémonéquipe et toi, vous avez remporté le Badge[0x000A]Eau avec brio ! Je garderai un œil sur vous{0xBE00}[0x000A]pour savoir jusqu’où vous irez comme ça !
+main_event_0670_counterw_02=Les combats contre Donna, c’est jamais[0x000A]gagné d’avance ! Encore bravo !
+main_event_0670_system_01=Voulez-vous retourner à la réception ?
+main_event_0670_system_02=Vous êtes retourné{0x1100,0x00FF,0x0100}e à la réception.

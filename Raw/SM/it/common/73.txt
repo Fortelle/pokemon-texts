@@ -1,0 +1,80 @@
+{0x0102,0x0000}
+{0xBDFF:0x0001}
+{0x0107,0x0000}
+{0x0109,0x0000}
+{0x0100,0x0000}
+{0xBDFF:0x0005}
+l
+{0x0202,0x0000}
+/
+{0x0202,0x0000}
+Info
+Rimedi
+Strumenti
+Usa una mossa
+Esci
+Usa/Dai
+Prendi
+Sposta
+Partecipa
+Non partecipa
+Affida
+Ok
+{0xBDFF:0x0016}
+Pokémon
+Strumenti
+Scegli un Pokémon.
+Quale Pokémon vuoi spostare?
+Quale strumento vuoi spostare?
+Dove vuoi spostarlo?
+Dove vuoi spostare lo strumento?
+Su quale Pokémon vuoi usarla?
+Pokémon selezionato: {0x0102,0x0000}
+Quale mossa vuoi che usi {0x0102,0x0000}?
+Chi vuoi inviare ai Box del PC?
+Chi vuoi mandare in campo?
+Scegli uno strumento dalla Borsa per usarlo[0x000A]o darlo a un Pokémon.
+Metti lo strumento del Pokémon nella Borsa.
+Sposta lo strumento del Pokémon.
+{0x0102,0x0000} non ha nessuno strumento!
+Hai preso {0x1500,0x0001}{0x0109,0x0001}[0x000A]di {0x0102,0x0000}!
+Hai raggiunto il limite per questo oggetto!
+Non puoi usarla su questo Pokémon.
+PS insufficienti!
+{0x0101,0x0000} ha cambiato forma!
+Non si può usare qui.
+{0xBDFF:0x002D}
+{0xBDFF:0x002E}
+{0xBDFF:0x002F}
+{0xBDFF:0x0030}
+{0xBDFF:0x0031}
+Può partecipare un solo Pokémon!
+Non possono partecipare più di due Pokémon!
+Non possono partecipare più di tre Pokémon!
+Non possono partecipare più di quattro[0x000A]Pokémon!
+Non possono partecipare più di cinque[0x000A]Pokémon!
+Non ammesso
+{0xFF00,0x0002}Primo{0xFF00,0x0000}
+{0xFF00,0x0002}Secondo{0xFF00,0x0000}
+{0xFF00,0x0002}Terzo{0xFF00,0x0000}
+{0xFF00,0x0002}Quarto{0xFF00,0x0000}
+{0xFF00,0x0002}Quinto{0xFF00,0x0000}
+{0xFF00,0x0002}Sesto{0xFF00,0x0000}
+Può impararla!
+{0xFF00,0x0001}Non può impararla!{0xFF00,0x0000}
+{0xFF00,0x0002}La conosce già.{0xFF00,0x0000}
+{0xFF00,0x0001}Non disponibile{0xFF00,0x0000}
+I tuoi Pokémon devono essere tutti diversi.
+Gli strumenti dei tuoi Pokémon devono essere[0x000A]tutti diversi.
+La somma dei livelli di tutti i componenti[0x000A]della squadra supera {0x0202,0x0000}.
+Ci sono {0x0200,0x0000} o più Pokémon speciali.
+Manca uno dei Pokémon la cui partecipazione[0x000A]è obbligatoria.
+I requisiti di partecipazione non sono stati[0x000A]rispettati. Non puoi partecipare.
+Comunicazione in corso.[0x000A]Attendi...
+Tempo rimasto
+{0x0201,0x0000}:{0x0201,0x0001}
+{0x0201,0x0001}
+In attesa...
+Sì
+No
+{0x0200,0x0000}/{0x0200,0x0001}

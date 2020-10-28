@@ -1,0 +1,8 @@
+msg_main0010_rival_04={0xFF00,0x0009}{0x0100,0x0001} : {0xFF00,0x0000}Yo ! C’est moi !
+msg_main0010_rival_05=T’es debout, {0x0100,0x0000} ?[0x000A]Je monte !
+msg_main0010_rival_01={0xFF00,0x0009}{0x0100,0x0001} :{0xFF00,0x0000} Salut !
+msg_main0010_rival_08=Ha ha, tu devrais voir ta tête ![0x000A]Tu viens d’émerger, ou quoi ?
+msg_main0010_rival_02=Oooh ! Tu rêvais fort à de petits Pokémon ?[0x000A]Flash info, {0x1100,0x00FF,0x0408}mon potegirl : arrête de rêvasser,{0xBE00}[0x000A]secoue-toi le popotin... et t’en auras un !{0xBE01}[0x000A]T’as oublié, ou quoi ? Aujourd’hui, on doit aller[0x000A]voir le Professeur Chen pour recevoir{0xBE00}[0x000A]nos Pokémon ! C’est le grand jour !{0xBE00}[0x000A]On va enfin devenir {0xFF00,0x0006}Dresseurs{0xFF00,0x0000} !
+msg_main0010_rival_06=Ah ! Au fait...
+msg_main0010_rival_07=Je sais pas si t’as vu, mais je t’ai envoyé[0x000A]un e-mail, hier ! Jettes-y un œil avant de partir,{0xBE00}[0x000A]si tu l’as pas encore lu.
+msg_main0010_rival_03=Bon, je fonce ![0x000A]Je t’attends chez le Professeur Chen !

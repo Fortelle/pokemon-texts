@@ -1,0 +1,11 @@
+msg_main1300_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¡{0x0100,0x0000}!
+msg_main1300_rival_02=Te estaba buscando para contarte... ¡que yo[0x000A]también tengo la Medalla Tierra!{0xBE01}[0x000A]¡Ya podemos ir a la Liga Pokémon!
+msg_main1300_rival_03=He oído que los del Alto Mando tienen una[0x000A]fuerza que tira para atrás... ¡pero tenemos que ir!
+msg_main1300_rival_06=¿Tú te ves preparad{0x1100,0x00FF,0x0101}oa, {0x0100,0x0000}?[0x000A]Venga, muéstrame cómo está{0x1101,0x00FD,0x0100}n tu{0x1101,0x00FD,0x0100}s Pokémon.
+msg_main1300_rival_04=Si te digo la verdad, desde pequeño he sentido[0x000A]que tenía que cuidar de ti...{0xBE01}[0x000A]Pero lo de entrenar Pokémon siempre se te ha[0x000A]dado mejor. Tienes un don natural.
+msg_main1300_rival_05=Nunca había sentido esta extraña mezcla de[0x000A]frustración y afán de superación.{0xBE01}[0x000A]Aunque esa es precisamente la salsa de esto[0x000A]de entrenar y combatir con Pokémon, ¿no?
+msg_main1300_rival_07=¡En cualquier caso, que sepas que sigo[0x000A]negándome a reconocer la derrota!
+msg_main1300_rival_08=Te parecerá una tontería, pero deja que sea yo[0x000A]quien afronte primero este reto.
+msg_rival_01_p05_field_r022={0xBDFF:0x0008}
+msg_rival_01_p06_field_r022={0xBDFF:0x0009}
+msg_rival_01_p07_field_r022={0xBDFF:0x000A}

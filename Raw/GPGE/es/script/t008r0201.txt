@@ -1,0 +1,14 @@
+msg_t008r0201_goods_01=En las vitrinas se ven fósiles de Pokémon y[0x000A]piedras poco comunes.
+msg_t008r0201_goods_02=Hay toda suerte de viejos productos[0x000A]relacionados con los Pokémon.
+msg_t008r0201_dig_01={0xFF00,0x0009}Diglett: {0xFF00,0x0000}¡Diiig!
+msg_t008r0201_system_01=Diglett te ha entregado una {0xFF00,0x0006}Pepita{0xFF00,0x0000}.
+msg_t008r0201_dig_02={0xFF00,0x0009}Diglett: {0xFF00,0x0000}¡Glett, glett!
+msg_workerm1_01_p01_t008_r0501={0xBDFF:0x0005}
+msg_workerm1_01_p02_t008_r0501={0xBDFF:0x0006}
+msg_workerm1_01_p03_t008_r0501={0xBDFF:0x0007}
+msg_workerm1_01_p04_t008_r0501={0xBDFF:0x0008}
+msg_workerm1_01_p05_t008_r0501={0xBDFF:0x0009}
+msg_workerm1_01_p06_t008_r0501={0xBDFF:0x000A}
+msg_workerm1_01_p06_t008_r0501_fm={0xBDFF:0x000B}
+msg_workerm1_01_p07_t008_r0501={0xBDFF:0x000C}
+msg_workerm1_01_p08_t008_r0501={0xBDFF:0x000D}

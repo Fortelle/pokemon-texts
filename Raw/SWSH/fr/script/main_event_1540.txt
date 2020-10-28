@@ -1,0 +1,8 @@
+main_event_1540_rival_01=Tu te souviens, quand on est partis de Paddoxton ?{0x0114,0x0005}
+main_event_1540_rival_02=Le frangin venait tout juste de nous donner[0x000A]nos Pokémon. Et maintenant, on est là.{0xBE00}[0x000A]À deux doigts d’entrer dans l’Histoire !{0x0114,0x0005}
+main_event_1540_rival_03=Je m’étais promis de devenir le Maître, en partant.[0x000A]C’est le moment de vérité !{0x0114,0x0005}
+main_event_1540_live_01=L’affrontement des Challengers ayant remporté[0x000A]le Défi des Arènes prend fin !{0xBE01}[0x000A]Et la victoire du Tournoi des Médaillés revient à...[0x000A]{0x0100,0x0000} !{0x0114,0x0018}
+main_event_1540_rival_04=Tu te souviens, quand Sonya nous disait[0x000A]qu’on deviendrait peut-être des héros ?{0xBE01}[0x000A]Pour être honnête, je m’en suis jamais[0x000A]senti capable...{0x0114,0x0005}
+main_event_1540_rival_05=Mais toi ! Tu vas accomplir de grandes choses ![0x000A]Je le sens !{0x0114,0x0005}
+main_event_1540_rival_06=Bravo à toi et {0x0101,0x0001} !{0x0114,0x0005}
+main_event_1540_rival_07=Bravo à toi, {0x0100,0x0000} ![0x000A]Et à {0x0101,0x0001} et toute ton équipe !{0x0114,0x0005}

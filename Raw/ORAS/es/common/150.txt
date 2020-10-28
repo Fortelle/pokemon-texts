@@ -1,0 +1,85 @@
+PP
+Nv.
+Para subir de nivel
+PS
+Ataque
+Defensa
+At. Esp.
+Def. Esp.
+Velocidad
+{0xFF00,0x0002}♂{0xFF00,0x0000}
+{0xFF00,0x0001}♀{0xFF00,0x0000}
+{0xBDFF:0x000B}
+Datos
+Movimientos
+Categoría
+Potencia
+Precisión
+Estado
+Físico
+Especial
+Exhibición
+Interferencia
+Elige un Pokémon.
+¿Con qué Pokémon quieres usarlo?
+¿Con qué Pokémon quieres combatir?
+Cambiar
+En combate
+No puede luchar
+Compañero
+Curar
+Datos
+Movimientos
+{0x0102,0x0001} ya está luchando.
+¡A {0x0102,0x0001} no le quedan fuerzas para[0x000A]luchar!
+Los Huevos no pueden luchar.
+¡No puedes cambiar tu Pokémon por uno del[0x000A]equipo de tu compañero!
+¡No se puede cambiar a {0x0102,0x0001}!
+Restaurar PS/PP
+Curar un cambio de estado
+¿Restaurar PP de qué movimiento?
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+Restaurar[0x000A]PS/PP
+Curación[0x000A]de estados
+{0xBDFF:0x002C}
+Poké Balls
+Obj. combate
+Último objeto usado
+Usar
+{0xBDFF:0x0031}
+¡No se puede apuntar cuando hay más de un[0x000A]Pokémon!
+¡No queda sitio en el PC!
+¡Es difícil apuntar a un Pokémon que no está[0x000A]a la vista!
+¡Hay que estar concentrado para poder[0x000A]apuntar bien!
+¡El efecto de {0x0107,0x0001} impide[0x000A]usar el objeto con {0x0102,0x0000}!
+Sí
+No
+Sacar a otro Pokémon
+Huir
+Olvidar
+Conservar movimientos antiguos
+Cambiar Pokémon
+Seguir luchando
+¿En qué posición quieres que salga?
+¿Qué movimiento quieres restaurar?
+No tendría ningún efecto.
+Los movimientos de MO no se pueden olvidar[0x000A]así.
+Cancelar
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}
+{0xBDFF:0x0046}
+{0xBDFF:0x0047}
+{0x0202,0x0000}
+x
+/
+/
+L
+Derecha
+Izquierda
+Centro
+{0x0204,0x0000,0xE07F}
+-
+En espera...
+{0x0102,0x0001} ya ha sido seleccionado.
+Las palabras de papá te vienen a la memoria:[0x000A]“Cada cosa a su debido tiempo”.

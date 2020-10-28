@@ -1,0 +1,22 @@
+Weiter
+Orden:
+
+Pokédex:
+
+Spielzeit:
+:
+{0x0100,0x0000}
+{0x0105,0x0000}
+{0x0200,0x0000}
+{0x0202,0x0000}
+{0x0202,0x0000}
+{0x0201,0x0000}
+Pokémon-Link
+Geheimgeschehen
+Hautnahturnier
+{0xBDFF:0x0010}
+Der Spielstand wurde gelöscht!
+Sollen alle gespeicherten Daten[0x000A]gelöscht werden?
+Sobald die Daten gelöscht wurden, können[0x000A]sie nicht mehr wiederhergestellt werden.{0xBE01}[0x000A]Den Löschvorgang trotzdem fortsetzen?
+Ja
+Nein

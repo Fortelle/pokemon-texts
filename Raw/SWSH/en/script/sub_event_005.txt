@@ -1,0 +1,11 @@
+sub_event_005_npc_01=It’s a Toxel! A real Toxel!{0xBE01}[0x000A]I found an Egg, and carried it around with me—[0x000A]and it hatched into a Toxel!{0xBE01}[0x000A]Why don’t you raise it?[0x000A]It’s a real shocking Pokémon!
+sub_event_005_poke1_01=Tox tox!
+sub_event_005_npc_02=And take these, too![0x000A]They’ll help your Pokémon grow if you use them!
+sub_event_005_npc_03=Eggs are found at Pokémon Nurseries![0x000A]Exp. Candies are found from Max Raid Battles!{0xBE00}[0x000A]And you’ve found yourself a real nice friend{0xBE00}[0x000A]today, wouldn’t you say?
+sub_event_005_npc_04=What?! You can’t even take one more Pokémon?![0x000A]You must really love Pokémon, all right!
+sub_event_005_oldf_01={0xBDFF:0x0005}
+sub_event_005_oldf_02={0xBDFF:0x0006}
+sub_event_005_poke_01={0xBDFF:0x0007}
+sub_event_005_poke_02={0xBDFF:0x0008}
+sub_event_005_poke_03={0xBDFF:0x0009}
+sub_event_005_system_01={0xBDFF:0x000A}

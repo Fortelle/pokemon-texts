@@ -1,0 +1,16 @@
+msg_elevator_c03_01=Wohin möchtest du fahren?
+msg_elevator_c03_02=Zum Hotel La Rose Ronde
+msg_elevator_c03_03=Zum Score-Stadion
+msg_elevator_c03_04=Zum Bahnhof von Score City
+msg_elevator_c03_05=Zum Rose Tower
+msg_elevator_c03_06=Zum Kampfturm
+msg_elevator_c03_07=Abbrechen
+msg_elevator_c02_01=Dieser Lift ist derzeit außer Betrieb.
+msg_elevator_start=In welches Stockwerk möchtest du?
+msg_elevator_cancel=Abbrechen
+msg_elevator_1f=EG
+msg_elevator_3f=2. OG
+msg_elevator_ap_1f=EG: Eingang
+msg_elevator_ap_2f=1. OG: Schutzzone
+msg_elevator_ap_b1f=1. UG: Anlegestelle
+msg_elevator_ap_b2f=2. UG: Laborbereich

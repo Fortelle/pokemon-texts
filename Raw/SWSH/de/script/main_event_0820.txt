@@ -1,0 +1,15 @@
+main_event_0820_rival_01=Komm, gehen wir, {0x0100,0x0000}!{0x0114,0x0005}
+main_event_0820_rival_02=Huch?{0x0114,0x0005}
+main_event_0820_rival_03=Der Arenaleiter kommt persönlich vorbei,[0x000A]um uns zu verabschieden? Wow...{0xBE01}[0x000A]Ha, ich weiß! Sie haben sicher eingesehen,[0x000A]dass ich der nächste Champ werde, oder?{0x0114,0x0005}
+main_event_0820_leader3_01=Tja, viele der Arena-Challenger geben auf,[0x000A]noch bevor sie sich die ersten drei Orden{0xBE00}[0x000A]erkämpft haben.{0xBE01}[0x000A]Es bestehen tatsächlich nur so wenige gegen[0x000A]mich, dass ich mir gerne die Zeit nehme, jeden{0xBE00}[0x000A]persönlich zu verabschieden, der mein Stadion{0xBE00}[0x000A]mit dem Feuer-Orden verlässt.{0x0114,0x0010}
+main_event_0820_leader2_01=Puh! Gerade noch rechtzeitig...[0x000A]Ein Glück, dass das Flugtaxi so schnell da war!{0x0114,0x000F}
+main_event_0820_leader2_02={0x0100,0x0000}, Hop – meinen Glückwunsch!{0xBE01}[0x000A]Reife Leistung, gegen Kabu zu gewinnen!{0x0114,0x000F}
+main_event_0820_leader1_01=Wir sind hier, um euch alles Gute für den Rest[0x000A]eurer Challenge zu wünschen.{0xBE01}[0x000A]Aber nicht nur als Arenaleiter, sondern auch als[0x000A]eure Fans!{0x0114,0x000E}
+main_event_0820_leader3_02=In der Tat. Und um mit der Zeit zu gehen, habe[0x000A]ich mir einen Fan-Gesang für euch ausgedacht.{0x0114,0x0010}
+main_event_0820_leader3_03=Hopp, hopp, hopp, unser Hop ist total Top![0x000A]Und {0x0100,0x0000}, ist doch ganz klar,{0xBE00}[0x000A]ist genauso unschlagbar!{0x0114,0x0010}
+main_event_0820_leader3_04=Die Arenaleiter, die euch ab jetzt erwarten,[0x000A]haben es ganz schön in sich.{0xBE01}[0x000A]Doch wenn ihr weiter an euch und eure Pokémon[0x000A]glaubt, dann werdet ihr sie besiegen.{0xBE00}[0x000A]Da bin ich mir ganz sicher.{0x0114,0x0010}
+main_event_0820_rival_04=Danke, das werden wir auch!{0xBE01}[0x000A]Ich meine, wir MÜSSEN sie ja besiegen, weil wir[0x000A]am Ende der Arena-Challenge gegeneinander{0xBE00}[0x000A]antreten wollen!{0x0114,0x0005}
+main_event_0820_leader3_06=Komm, weiter geht’s, {0x0100,0x0000}![0x000A]Claw City wartet auf uns!{0x0114,0x0005}
+main_event_0820_leader3_05=Erkennt eure Schwächen und arbeitet an ihnen.{0xBE01}[0x000A]Wahres Wachstum beginnt, wenn man lernt,[0x000A]sich selbst zu verstehen.{0x0114,0x0010}
+main_event_0820_leader1_02=Wenn man auf dem Feld arbeitet, muss man[0x000A]ständig mit Überraschungen rechnen.{0xBE01}[0x000A]Hauptsache ist, dass man dranbleibt und[0x000A]niemals die Gabel ins Heu wirft... oder so...{0x0114,0x000E}
+main_event_0820_leader2_03=Ehrgeiz ist wichtig bei der Challenge, aber man[0x000A]darf es auch nicht übertreiben mit dem Kämpfen.{0xBE01}[0x000A]Wenn es dir irgendwann mal zu viel wird, gönn[0x000A]dir eine Auszeit im Restaurant Wellenflucht.{0x0114,0x000F}

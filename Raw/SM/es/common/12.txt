@@ -1,0 +1,131 @@
+{0x0102,0x0000}
+{0x0102,0x0000}
+{0x0107,0x0000}
+{0x01B0,0x0000}
+{0x0106,0x0000}
+{0x0109,0x0000}
+{0x0100,0x0000}
+Oponente
+{0x01B1,0x0000}
+PP
+L
+l
+{0x0201,0x0000}
+{0x0202,0x0000}
+{0x0203,0x0000,0x0000}
+{0x0202,0x0000}
+{0x0202,0x0000}
+× {0x0200,0x0000}
+{0x0200,0x0000}/{0x0200,0x0001}
+PS
+Ataque
+Defensa
+At. Esp.
+Def. Esp.
+Velocidad
+{0xBDFF:0x0019}
+{0xBDFF:0x001A}
+Cambiar
+En combate
+No puede luchar
+Compañero
+En espera...
+Curar
+Datos
+Categoría
+Potencia
+Precisión
+Evasión
+No puedes usar ningún movimiento.
+Elige un Pokémon.
+¿Con qué Pokémon quieres usarlo?
+¿Con qué Pokémon quieres combatir?
+{0xBDFF:0x002A}
+{0x0102,0x0001} ya está luchando.
+¡A {0x0102,0x0001} no le quedan fuerzas para[0x000A]luchar!
+¡No puedes elegir los Pokémon de otro[0x000A]Entrenador!
+¡No se puede cambiar a {0x0102,0x0001}!
+{0x0102,0x0001} ya ha sido seleccionado.
+Los Huevos no pueden luchar.
+¿Restaurar PP de qué movimiento?
+Olvidar este movimiento
+Volver al menú de selección
+No aprender el movimiento
+Restaurar PS/PP
+Curación de estados
+Poké Balls
+Obj. combate
+Usar
+¡No se puede apuntar cuando hay más de un[0x000A]Pokémon!
+¡No queda sitio en el PC!
+¡Hay que estar concentrado para poder[0x000A]apuntar bien!
+¡Es difícil apuntar a un Pokémon que no está[0x000A]a la vista!
+¡El efecto de {0x0107,0x0001} impide[0x000A]usar el objeto con {0x0102,0x0000}!
+¡No podrás atrapar Pokémon hasta haber[0x000A]superado la prueba!
+{0xBDFF:0x0040}
+Las palabras del profesor te vienen a la[0x000A]memoria: “¡Cada cosa en su momento!”.
+¡No puedes lanzar Poké Balls en la reserva!
+Vacío
+Sí
+No
+Cambiar Pokémon
+Seguir luchando
+Sacar a otro Pokémon
+Huir
+Olvidar
+Conservar movimientos antiguos
+¿En qué posición quieres que salga?
+{0xBDFF:0x004D}
+Derecha
+Izquierda
+×
+/
+/
+L
+{0x0204,0x0000,0x0000}
+{0x0204,0x0000,0x0000}
+-
+Puntos: 
+:
+L + A: Información
+Cuidar
+Conectando... Por favor, espera.
+{0x0202,0x0000}
+/
+Turno anterior
+Turno siguiente
+Cambiando de escena...[0x000A]Por favor, espera.
+Has detenido el vídeo.[0x000A]Por favor, espera.
+{0xBDFF:0x0062}
+{0xBDFF:0x0063}
+{0xBDFF:0x0064}
+Efecto del Poder Z: golpes críticos ↑
+Efecto del Poder Z: Ataque ↑
+Efecto del Poder Z: Defensa ↑
+Efecto del Poder Z: Ataque Especial ↑
+Efecto del Poder Z: Defensa Especial ↑
+Efecto del Poder Z: Velocidad ↑
+Efecto del Poder Z: Precisión ↑
+Efecto del Poder Z: Evasión ↑
+Efecto del Poder Z: Ataque ↑↑
+Efecto del Poder Z: Defensa ↑↑
+Efecto del Poder Z: Ataque Especial ↑↑
+Efecto del Poder Z: Defensa Especial ↑↑
+Efecto del Poder Z: Velocidad ↑↑
+Efecto del Poder Z: Precisión ↑↑
+Efecto del Poder Z: Evasión ↑↑
+Efecto del Poder Z: Ataque ↑↑↑
+Efecto del Poder Z: Defensa ↑↑↑
+Efecto del Poder Z: Ataque Especial ↑↑↑
+Efecto del Poder Z: Defensa Especial ↑↑↑
+Efecto del Poder Z: Velocidad ↑↑↑
+Efecto del Poder Z: Precisión ↑↑↑
+Efecto del Poder Z: Evasión ↑↑↑
+Efecto del Poder Z: características ↑
+Efecto del Poder Z: características ↑↑
+Efecto del Poder Z: características ↑↑↑
+Efecto del Poder Z: restaura características ↓
+Efecto del Poder Z: restaura PS del usuario
+Efecto del Poder Z: restaura PS al relevo
+Efecto del Poder Z: centra la atención sobre sí
+Efecto del Poder Z: cambia según el tipo

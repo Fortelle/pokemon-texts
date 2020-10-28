@@ -1,0 +1,16 @@
+msg_main0950_president_01=PRESIDENT: Oh, dear boy![0x000A]Thank you for saving us here at Silph!
+msg_main0950_president_02=PRESIDENT: Oh, dear girl![0x000A]Thank you for saving us here at Silph!
+msg_main0950_partner_a_01=Pika pika!
+msg_main0950_partner_b_01=Vee vee!
+msg_main0950_president_08=Wahaha! I suppose that’s so. It wasn’t just you—[0x000A]it was that wonderful partner of yours, too!
+msg_main0950_president_05=I will never forget how you saved us in our[0x000A]moment of peril.
+msg_main0950_president_06=I have to thank you in some way. And I’m quite[0x000A]magnanimous, so I can give you anything.{0xBE01}[0x000A]Here, maybe this will do?
+msg_main0950_sys_01=You got the {0xFF00,0x0006}Master Ball{0xFF00,0x0000} from the president!
+msg_main0950_president_03=PRESIDENT: You can’t buy that anywhere.[0x000A]It’s our secret prototype, the Master Ball.
+msg_main0950_president_07=It will catch any Pokémon without fail![0x000A]Truthfully, we’ve only succeeded in making{0xBE00}[0x000A]just the one.
+msg_main0950_president_09=So you should probably be quiet about using it.
+msg_main0950_president_04=PRESIDENT: Ah! Our saviors![0x000A]Thank you again for saving Silph Co. for us!
+msg_main0950_president_10=PRESIDENT: Oh! Wait for a moment! Please let[0x000A]me reward you!
+msg_workerm1_01_p04_cave_d1011={0xBDFF:0x000D}
+msg_main0950_stafff_01=SECRETARY: Thank you for rescuing all of us.{0xBE01}[0x000A]We, from the president on down, are indebted[0x000A]to you for what you did.
+msg_main0950_stafff_02=SECRETARY: A Poké Ball that can catch any[0x000A]Pokémon without fail...{0xBE01}[0x000A]It’s not something to be given to just any[0x000A]ordinary Trainer. That’s why the president{0xBE00}[0x000A]entrusted it to you.

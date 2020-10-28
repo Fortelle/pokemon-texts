@@ -1,0 +1,85 @@
+Checking your SD Card...[0x000A]Please wait.
+Your SD Card does not have enough free space.[0x000A]Please delete some data from your SD Card.{0xBE01}
+The Nintendo 3DS Camera application has no[0x000A]room for additional photos, so your photo{0xBE00}[0x000A]cannot be saved. Please delete some photos{0xBE00}[0x000A]from your SD Card first.{0xBE01}
+An error has occurred with[0x000A]Nintendo 3DS Camera.{0xBE01}
+Due to errors detected within the files on your[0x000A]SD Card, your data has been deleted.{0xBE01}
+The photo cannot be saved because your[0x000A]SD Card is full.{0xBE01}[0x000A]Please delete some data from the SD Card[0x000A]in your Nintendo 3DS system.{0xBE01}
+Please note that you can save {0x0200,0x0000} more photo{0x1101,0x0000,0x0100}s[0x000A]at the Alola Photo Club.{0xBE01}
+You have run out of space to save photos in[0x000A]your Photo Album.{0xBE01}[0x000A]Please delete some photos you don’t need from[0x000A]your Photo Album.{0xBE01}
+Saving the photo to your SD Card...[0x000A]Please don’t turn off the power.
+The selected photo(s) will be deleted.[0x000A]Are you sure about this?
+The Nintendo 3DS Camera application has no[0x000A]room for additional photos.{0xBE01}[0x000A]Please delete some photos from your[0x000A]Nintendo 3DS system or your Photo Album.{0xBE01}
+The photo cannot be saved because your[0x000A]SD Card is full.{0xBE01}[0x000A]Please close the game and make some space on[0x000A]your SD Card.{0xBE01}
+The photo has been saved to your SD Card.{0xBE01}
+Deleting the photo(s)...[0x000A]Please don’t turn off the power.
+Deleted the photo(s).{0xBE01}
+You registered the photo as a favorite.{0xBE01}
+You removed the photo from your favorites.{0xBE01}
+Please select the photo(s) you want to delete.{0xBE01}
+{0xBDFF:0x0012}
+Updating your SD Card...[0x000A]Please don’t turn off the power.
+Your SD Card has been updated.{0xBE01}
+{0x0101,0x0000}
+{0x0201,0x0001}/{0x0201,0x0002}/{0x0203,0x0000,0x0000}
+{0x0202,0x0000}
+/
+Delete
+Select conditions and press Search to filter photos.
+Sort by
+Pokémon
+Stickers
+Favorites
+Models
+Background
+Shared
+Old to new
+New to old
+Pokédex number
+—
+{0x0101,0x0000}
+No
+Yes
+Your Pokémon only
+You and your Pokémon
+Background 1
+Background 2
+Background 3
+Background 4
+Background 5
+Background 6
+Background 7
+Background 8
+Confirm
+Reset
+Please select how to sort your photos.
+Please select the first letter of the Pokémon’s name.
+Please select a Pokémon.
+Would you like to search for decorated photos?
+Would you like to search for photos[0x000A]you’ve favorited?
+Please select which models you would like to[0x000A]search for.
+Please select a background to search for.
+Would you like to search shared photos?
+Add stickers
+Delete
+Register as a favorite
+Remove from favorites
+Back
+Yes
+No
+What would you like to do with this photo?
+Share
+Don’t share
+This photo has been registered as the photo[0x000A]that will be shown to everyone.{0xBE01}
+This photo won’t be shared.{0xBE01}
+You can’t delete your favorited or[0x000A]shared photos.{0xBE01}
+You’ve shared another photo, but would you like[0x000A]to share this one instead?
+This photo will be shared with other players.[0x000A]Is that OK?
+In your Photo Album, you can view the photos[0x000A]that you saved at the Alola Photo Club.[0x000A][0x000A]You can also add stickers to decorate your[0x000A]photos and show one of your photos to other[0x000A]players you meet in Festival Plaza.
+To decorate your photo, tap Add stickers.[0x000A][0x000A]If you want to show your photo to other players,[0x000A]tap Share.
+Dummy
+Dummy
+Dummy
+Search
+You can’t alter this photo further because[0x000A]you’ve already decorated it once before.{0xBE01}
+Dummy
+Dummy

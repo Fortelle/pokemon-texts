@@ -1,0 +1,9 @@
+msg_main0057_mother_01={0xFF00,0x0009}Mamma:{0xFF00,0x0000} Oh, che carino! Il Professore ti ha dato[0x000A]proprio un bel Pokémon!
+msg_main0057_mother_02=Cosa?! L’hai catturato da sol{0x1100,0x00FF,0x0101}oa?[0x000A]Ma è fantastico! Bravissim{0x1100,0x00FF,0x0101}oa!{0xBE01}[0x000A]E come si chiama?{0xBE01}[0x000A]{0x0102,0x0003}?[0x000A]Che bel nome! È davvero perfetto!
+msg_main0057_poke_01=Pika pikaaa!
+msg_main0057_poke_02=Veeee!
+msg_main0057_mother_03={0xFF00,0x0009}Mamma: {0xFF00,0x0000}Oooh, guarda com’è felice!
+msg_main0057_mother_05=Siete pronti per iniziare la vostra avventura, eh?[0x000A]Allora è giunto il momento di darti questa!{0xBE01}[0x000A]L’ho tenuta da parte perché sapevo che questo[0x000A]giorno sarebbe arrivato!
+msg_main0057_sys_01={0x0100,0x0000} riceve la {0xFF00,0x0006}Mappa città{0xFF00,0x0000}[0x000A]dalla mamma!
+msg_main0057_sys_02={0xBDFF:0x0007}
+msg_main0057_mother_04=Se vuoi sapere dove ti trovi, apri la Borsa[0x000A]e controlla la Mappa città!{0xBE01}[0x000A]Beh, andate adesso! L’avventura vi aspetta!{0xBE01}[0x000A]Ciao {0x0100,0x0000}![0x000A]Ciao {0x0102,0x0003}!

@@ -1,0 +1,6 @@
+main_event_0630_rival_01={0x0100,0x0000}! Eccoti, finalmente!{0x0114,0x0005}
+main_event_0630_rival_02=Occhio! Se ti avvicini ancora un po’ scatta[0x000A]la sfida, eh!{0x0114,0x0005}
+main_event_0630_rival_03=Ti avevo avvisat{0x1100,0x00FF,0x0101}oa!{0xBE01}[0x000A]Ora abbiamo entrambi la Medaglia Erba[0x000A]e se vogliamo proseguire nella gara{0xBE00}[0x000A]dobbiamo battere il ferro finché è caldo!{0xBE01}[0x000A]Ogni momento è buono per allenarsi!{0x0114,0x0005}
+main_event_0630_rival_04=Però, hai fatto progressi, {0x0100,0x0000}!{0xBE01}[0x000A]Vorrà dire che dovrò allenarmi di più!{0x0114,0x0005}
+main_event_0630_rival_05=Che bella lotta! Tieni, guarda cosa ti do![0x000A]Sono certo che ti sarà utile!{0x0114,0x0005}
+main_event_0630_rival_06=È ora di affrontare Azzurra, la Capopalestra[0x000A]di tipo Acqua!{0x0114,0x0005}

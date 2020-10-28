@@ -1,0 +1,8 @@
+msg_t003r0101_scientist_01_01=Willkommen![0x000A]Für Kinder beträgt der Eintritt 50 [0xE300].{0xBE01}[0x000A]Möchtest du dir die Ausstellung ansehen?
+msg_t003r0101_scientist_01_02=Komm bald wieder!
+msg_t003r0101_scientist_01_03=Alles klar, das macht 50 [0xE300].[0x000A]Vielen Dank!
+msg_t003r0101_scientist_01_04=Oh, du hast nicht genug Geld.
+msg_t003r0101_scientist_01_05=Viel Vergnügen!
+msg_t003r0101_scientist_01_06=Du bist wohl ganz clever, einfach durch den[0x000A]Hintereingang zu kommen und keinen Eintritt{0xBE00}[0x000A]zu zahlen, was?{0xBE01}[0x000A]Na ja, egal! Weißt du, was Bernstein ist?
+msg_t003r0101_scientist_01_07=Es soll irgendwo ein Labor geben, in dem man[0x000A]großartige Experimente mit Bernstein durchführt.{0xBE01}[0x000A]Mit dem darin eingeschlossenen genetischen[0x000A]Material sollen angeblich Pokémon aus der{0xBE00}[0x000A]Urzeit wieder zum Leben erweckt werden!
+msg_t003r0101_scientist_01_08=Bernstein nennt man Harz, das vor langer, langer[0x000A]Zeit aus Bäumen ausgetreten und hart wie ein{0xBE00}[0x000A]Fossil geworden ist.

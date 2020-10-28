@@ -1,0 +1,11 @@
+msg_main0120_sister_01={0x0100,0x0000} !
+msg_main0120_sister_08=Oooh ! Avec {0x0101,0x0002} perché sur toi,[0x000A]on voit direct que vous êtes déjà complices !
+msg_main0120_sister_09=Dans ce cas, ça tombe bien ![0x000A]J’ai pile ce qu’il vous faut !
+msg_main0120_sister_02={0x0100,0x0000} !
+msg_main0120_sister_03=Vous obtenez une {0xFF00,0x0006}Tenue Relax{0xFF00,0x0000} !
+msg_main0120_sister_10=Vous rangez la {0xFF00,0x0006}Tenue Relax{0xFF00,0x0000} dans votre[0x000A]Malle à Costumes !
+msg_woman1_01_p04_t001_r0201={0xBDFF:0x0006}
+msg_main0120_sister_04=C’est une tenue pour ton {0x0101,0x0002} ![0x000A]Comme ça, vous êtes assortis ! Hihi !
+msg_main0120_sister_06=... Tiens ?
+msg_main0120_sister_05=Hihi ! Ton {0x0101,0x0002} a envie de jouer, on dirait ![0x000A]N’oublie pas de le chouchouter de temps{0xBE00}[0x000A]en temps !
+msg_main0120_sister_07=Vous pouvez jouer avec votre partenaire à tout[0x000A]moment en appuyant sur le {0xFF00,0x0006}bouton X{0xFF00,0x0000} puis en{0xBE00}[0x000A]sélectionnant l’{0xFF00,0x0006}icône {0xFF00,0x0000}de votre compagnon !

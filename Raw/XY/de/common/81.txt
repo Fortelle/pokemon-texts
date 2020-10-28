@@ -1,0 +1,18 @@
+Wundertausch
+Der Wundertausch ist eine unkomplizierte Möglichkeit,[0x000A]mit Spielern aus aller Welt Pokémon zu tauschen.
+Willst du einen Wundertausch durchführen?
+Willst du {0x0102,0x0000}[0x000A]zum Tausch anbieten?
+Suche nach Tauschpartnern...[0x000A]Bitte warte einen Moment.
+Tauschpartner gefunden![0x000A]Bitte warte einen Moment...
+Es wurde kein Tauschpartner gefunden.{0xBE01}[0x000A]Bitte versuche es später noch einmal.
+Verbindung wird getrennt.[0x000A]Bitte warte einen Moment...
+Ja
+Nein
+Dieses Pokémon kann nicht[0x000A]zum Tausch angeboten werden.
+{0x0202,0x0000}
+{0x0109,0x0001}
+{0x0102,0x0002}
+{0x0100,0x0004}
+Lv.
+{0xFF00,0x0002}♂{0xFF00,0x0000}
+{0xFF00,0x0001}♀{0xFF00,0x0000}

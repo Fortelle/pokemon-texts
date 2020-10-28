@@ -1,0 +1,8 @@
+msg_sub027_clerkm_01=トイレ　行きたいのに[0x000A]また　お客！{0xBE01}[0x000A]交代　して　くれる　後輩が[0x000A]遅刻　してるん　だよー！{0xBE01}[0x000A]だ　誰か　ヘルプ……！[0x000A]てだすけ　プリーズ！{0xBE00}[0x000A]…………と　いう　わけで
+msg_sub027_sys_01={0xBDFF:0x0001}
+msg_sub027_clerkm_02=わざマシン０３の　中身は[0x000A]てだすけ！{0xBE01}[0x000A]てだすけ　された　仲間の[0x000A]技の　威力を　あげるのさ
+msg_sub027_clerkm_03=てだすけ　使ってる？[0x000A]わたしも　そろそろ{0xBE00}[0x000A]てだすけ　されたいよ……
+msg_sub027_clerkm_01_nouse={0xBDFF:0x0004}
+msg_sub027_clerkm_02_nouse={0xBDFF:0x0005}
+msg_sub027_clerkm_03_nouse={0xBDFF:0x0006}
+msg_sub027_clerkm_04={0xBDFF:0x0007}

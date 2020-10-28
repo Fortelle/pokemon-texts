@@ -1,0 +1,14 @@
+Ready, and...{0x0114,0x003E}
+Grass, Fire, Water!{0x0114,0x003F}
+Um...[0x000A]Which one wins again?{0x0114,0x003E}
+Which would win in a matchup between Fire[0x000A]type and Water type?{0x0114,0x003F}
+Which would win in a matchup between Fire[0x000A]type and Grass type?{0x0114,0x003F}
+Which would win in a matchup between Water[0x000A]type and Fire type?{0x0114,0x003F}
+Which would win in a matchup between Water[0x000A]type and Grass type?{0x0114,0x003F}
+Which would win in a matchup between Grass[0x000A]type and Fire type?{0x0114,0x003F}
+Which would win in a matchup between Grass[0x000A]type and Water type?{0x0114,0x003F}
+Fire
+Water
+Grass
+Right, right! Yeah, that’s it.[0x000A]You must be a great Trainer!{0x0114,0x003F}
+You sure? I’m pretty sure it’s not...[0x000A]Are you messing with us maybe?{0x0114,0x003E}

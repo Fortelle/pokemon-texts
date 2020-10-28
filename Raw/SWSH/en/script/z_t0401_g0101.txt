@@ -1,0 +1,13 @@
+msg_t0401_g0101_npc1_01=When to Dynamax...?{0xBE01}[0x000A]It might be a good idea to think ahead about[0x000A]which Pokémon is able to withstand Nessa’s{0xBE00}[0x000A]Max Moves.
+msg_t0401_g0101_npc1_02=I like your team—it’s very charming!{0xBE01}[0x000A]Let’s both do our best to complete the[0x000A]Gym Challenge, OK?
+msg_t0401_g0101_npc2_01=Why do we have to figure out a puzzle just[0x000A]to face the Gym Leader...?{0xBE01}[0x000A]Maybe it’s to tell us Trainers that we need to[0x000A]have some mental flexibility?
+msg_t0401_g0101_npc2_02={0x1003}{0x0100,0x0000}...[0x000A]I’ll remember your name.
+msg_t0401_g0101_npc3_01=Challenger {0x0100,0x0000}![0x000A]Beat Nessa, OK? Promise!
+msg_t0401_g0101_npc3_02=I’m glad I became your fan,[0x000A]Challenger {0x0100,0x0000}!
+msg_t0401_g0101_poke1_01_pop=Bugugug.
+msg_t0401_g0101_npc4_01_pop=A challenger!
+msg_t0401_g0101_npc4_02_pop=What a fierce battle!
+msg_t0401_g0101_npc4_03_pop=Champion!
+msg_t0401_g0101_npc5_01_pop=Nessa is strong, and that’s[0x000A]what’s beautiful!
+msg_t0401_g0101_npc5_02_pop=Nice battle!
+msg_t0401_g0101_npc5_03_pop=Hey! It’s the best Champion[0x000A]of them all!

@@ -1,0 +1,17 @@
+main_event_1570_telop_01=Qualche ora dopo...
+main_event_1570_rival_01=Ma dove si è perso?![0x000A]Non è da lui fare così tardi...!{0x0114,0x0005}
+main_event_1570_rival_02=Dandel mantiene sempre le promesse!{0xBE01}[0x000A]Quando ero piccolo mi aveva promesso che[0x000A]sarebbe diventato Campione, e infatti lo è diventato!{0x0114,0x0005}
+main_event_1570_rival_03=... E arrivare in orario dovrebbe essere[0x000A]un gioco da ragazzi, per uno così!{0x0114,0x0005}
+main_event_1570_leader_01=Che lagna che sei...{0xBE01}[0x000A]Invece di sprecare tutta questa energia per[0x000A]lamentarti, perché non la usi per i tuoi incontri?{0x0114,0x0016}
+main_event_1570_rival_04=Ehi... guarda che sono preoccupato per davvero!{0xBE01}[0x000A]E comunque è inutile che mi fai la morale![0x000A]Ti sei visto allo specchio?{0x0114,0x0005}
+main_event_1570_leader_02=... L’abito non fa il monaco.{0xBE01}[0x000A]Non mi stupisce che tu sia un perdente,[0x000A]se giudichi gli altri in base all’apparenza.{0x0114,0x0016}
+main_event_1570_leader_03=Comunque... se cercate il Campione, l’ho visto[0x000A]andare alla Rose Tower.{0x0114,0x0016}
+main_event_1570_select_01=Come mai?
+main_event_1570_select_02=Alla Rose Tower?
+main_event_1570_leader_04=Non so che gli frullava in testa...[0x000A]L’ho incontrato alla stazione della monorotaia.{0xBE01}[0x000A]Mi ha detto di avvisarvi che avrebbe tardato[0x000A]perché doveva passare alla Rose Tower.{0x0114,0x0016}
+main_event_1570_rival_05=Ma per quale ragione dovrebbe...?[0x000A]È davvero strano...{0x0114,0x0005}
+main_event_1570_rival_06=Ginepro... potresti farci un favore e portarci[0x000A]alla Rose Tower?{0xBE01}[0x000A]Io e {0x0100,0x0000} non sappiamo come[0x000A]arrivarci...{0x0114,0x0005}
+main_event_1570_leader_05=Tu e tuo fratello siete proprio uguali...{0xBE01}[0x000A]Appena potete, approfittate subito della[0x000A]gentilezza altrui.{0x0114,0x0016}
+main_event_1570_leader_06=Uhm... Però, in effetti...{0xBE01}[0x000A]Se il Torneo delle Finali fosse rinviato sarebbe[0x000A]un problema anche per me.{0xBE01}[0x000A]Tra l’altro non mi state nemmeno troppo[0x000A]sullo stomaco per avermi battuto...{0x0114,0x0016}
+main_event_1570_leader_07=Ok. Potrebbe essere una buona occasione per[0x000A]far sentire al presidente la voce del Team Yell!{0x0114,0x0016}
+main_event_1570_rival_07=Grazie, Ginepro! Mi piace come ragioni.[0x000A]Forza, non perdiamo altro tempo! Andiamo!{0x0114,0x0005}

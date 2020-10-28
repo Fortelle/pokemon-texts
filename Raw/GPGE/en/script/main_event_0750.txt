@@ -1,0 +1,9 @@
+msg_main0750_rival_01={0x01CD,0x0001}: So that’s Cubone’s mom...?!
+msg_main0750_youngf_01=GIRL: That’s right!{0xBE01}[0x000A]Team Rocket keeps on going after Marowak so[0x000A]it can sell those skulls they wear for profit...{0xBE01}[0x000A]I think Cubone is still looking for its mother,[0x000A]even though she’s gone...{0xBE01}[0x000A]I just can’t forgive that Team Rocket!
+msg_main0750_rival_02={0x01CD,0x0001}: Me neither!{0xBE01}[0x000A]I saw Cubone heading into the tower a little[0x000A]while ago, too...{0xBE01}[0x000A]I’ll go look for it—and I’ll keep an eye out for[0x000A]that Mr. Fuji, too! The one who’s been missing!
+msg_main0750_youngf_02=GIRL: Thank you...[0x000A]And be careful!
+msg_main0750_rival_03={0x01CD,0x0001}: I r-really don’t like ghosts...[0x000A]But I’ve gotta do this!
+msg_main0750_rival_04={0xBDFF:0x0005}
+msg_main0750_rival_05={0xBDFF:0x0006}
+msg_main0750_rival_06={0xBDFF:0x0007}
+msg_main0750_rival_07={0xBDFF:0x0008}

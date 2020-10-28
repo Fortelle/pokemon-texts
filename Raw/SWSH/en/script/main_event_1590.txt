@@ -1,0 +1,16 @@
+main_event_1590_rival_01=So this is Rose Tower!{0xBE01}[0x000A]Just how tall do you think it is?[0x000A]I can’t even see the top, up there in the clouds.{0x0114,0x0005}
+main_event_1590_sister_01=So what should we do?{0xBE01}[0x000A]Team Yell is gonna have their hands full[0x000A]holdin’ up those bad League staff members.{0xBE00}[0x000A]They won’t be catchin’ up anytime soon.{0x0114,0x000D}
+main_event_1590_rival_02=Yeah, {0x0100,0x0000}.[0x000A]What should we do?{0x0114,0x0005}
+main_event_1590_select_01=Let’s go ahead!
+main_event_1590_select_02=Wait for the others to catch up?
+main_event_1590_rival_03=Good thinking![0x000A]Let’s go collect Lee and get out of here!{0xBE01}[0x000A]Without him, there’s no Champion for you to[0x000A]challenge in the Champion Cup!{0x0114,0x0005}
+main_event_1590_rival_04=’Fraid I can’t agree to that, mate.{0xBE01}[0x000A]Team Yell’s giving it their all to help us out so[0x000A]we can go ahead and help Lee.{0x0114,0x0005}
+main_event_1590_sister_02={0x1003}{0x0100,0x0000}, you cleared the way to[0x000A]Rose Tower.{0xBE01}[0x000A]Now all you gotta do is charge on ahead.{0x0114,0x000D}
+main_event_1590_sister_04=An employee’s an employee I guess...[0x000A]Seems that exec lady hid the monorail key{0xBE00}[0x000A]to try and impress the chairman.{0x0114,0x000D}
+main_event_1590_sister_05=Chairman Rose’s been keepin’ the Champion[0x000A]holed up inside. Wonder what he’s plottin’.{0x0114,0x000D}
+main_event_1590_leader_01={0xBDFF:0x000A}
+main_event_1590_leader_02=Times like this—when tension and passion run[0x000A]high—remind me of Spikemuth in the old days.{0xBE01}[0x000A]Some right wild concerts we had back then.[0x000A]But no encores!{0x0114,0x0016}
+main_event_1590_leader_04=Wait, you’re still here?{0x0114,0x0016}
+main_event_1590_leader_03=You better get goin’! I’ll send some support your[0x000A]way with a yell!{0x0114,0x0016}
+main_event_1590_rival_05=Let’s go, {0x0100,0x0000}!{0x0114,0x0005}
+main_event_1590_sister_03=Gotta stick around to make sure my bro doesn’t[0x000A]do anythin’ too crazy, right? Come back if you{0xBE00}[0x000A]need anythin’.{0x0114,0x000D}

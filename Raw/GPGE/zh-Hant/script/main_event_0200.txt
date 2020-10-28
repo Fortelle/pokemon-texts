@@ -1,0 +1,11 @@
+msg_main0200_scientist_01={0x1100,0x00FF,0x0101}你妳給我站住！
+msg_main0200_scientist_05=這化石是我先找到的。
+msg_main0200_scientist_06=兩個都是我的！
+msg_science_02_02={0xBDFF:0x0003}
+msg_main0200_scientist_02=我和{0x1100,0x00FF,0x0101}你妳一人一個化石！[0x000A]不許獨吞！
+msg_main0200_sys_01=要選甲殼化石嗎？
+msg_main0200_sys_02=要選貝殼化石嗎？
+msg_main0200_sys_03=得到了貝殼化石！
+msg_main0200_sys_04=得到了甲殼化石！
+msg_main0200_scientist_03=那另一個就歸我了！
+msg_main0200_scientist_04=雖然距離這裡很遠……{0xBE01}[0x000A]在紅蓮鎮有一座研究所，[0x000A]據說那裡有人在研究{0xBE00}[0x000A]如何讓化石復活喔！

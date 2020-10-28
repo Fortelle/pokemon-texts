@@ -1,0 +1,5 @@
+msg_sub053_police_F_01=Dieses Gesindel von Team Rocket...[0x000A]Egal, wie viele von ihnen wir auch dingfest{0xBE00}[0x000A]machen, es nimmt einfach kein Ende!
+msg_sub053_police_F_02=Sag bloß, du warst es, {0x1100,0x00FF,0x0303,0x0000}derdie Team Rocket[0x000A]vertrieben hat?{0xBE01}[0x000A]Du musst nichts sagen, ich erkenne es an deinem[0x000A]entschlossenen Blick.{0xBE00}[0x000A]Hier, nimm das als Dankeschön.
+msg_sub053_sys_01=Du erhältst ein {0xFF00,0x0006}Polizisten-Set{0xFF00,0x0000} von der Polizistin!
+msg_sub053_sys_02=Du verstaust das {0xFF00,0x0006}Polizisten-Set{0xFF00,0x0000} in deinem[0x000A]Klamottenkoffer.
+msg_sub053_police_F_03=Du bist anscheinend {0x1100,0x00FF,0x1C1A,0x0000}ein viel besserer Polizisteine viel bessere Polizistin[0x000A]als ich.{0xBE01}[0x000A]Vielen Dank, dass du Recht und Ordnung in[0x000A]Saffronia City wiederhergestellt hast!

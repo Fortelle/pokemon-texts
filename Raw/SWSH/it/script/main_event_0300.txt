@@ -1,0 +1,10 @@
+main_event_0300_champion_01={0x0100,0x0000}! Hop! Non ho parole...[0x000A]Che incontro incredibile!{0xBE01}[0x000A]Ora mi resta solo una cosa da fare...[0x000A]Ecco le vostre Referenze!{0x0114,0x0004}
+main_event_0300_rival_01=Grazie, Dandel! Vedrai, vincerò sicuramente[0x000A]la Sfida delle Palestre! Ne sono più che certo!{0x0114,0x0005}
+main_event_0300_champion_02=Il vostro modo di lottare è ancora un po’[0x000A]grezzo, ma nondimeno è stato un incontro{0xBE00}[0x000A]davvero fenomenale!{0xBE01}[0x000A]Ha riempito di entusiasmo ogni cellula del mio[0x000A]corpo... Persino Charizard si è infervorato!{0x0114,0x0004}
+main_event_0300_champion_03=Hop, pensavo che per te essere un Allenatore[0x000A]fosse più una questione di come lanciare le Poké{0xBE00}[0x000A]Ball e... una faccenda di stile, insomma.{0xBE01}[0x000A]E che non ti interessasse di capire fino in fondo[0x000A]l’essenza e la vera forza dei Pokémon...{0xBE01}[0x000A]Sono felice di vedere che sei cresciuto!{0x0114,0x0004}
+main_event_0300_champion_04={0x0100,0x0000}, spero che anche tu ci[0x000A]regalerai altre lotte spettacolari!{0x0114,0x0004}
+main_event_0300_rival_02=Alleniamoci senza sosta, {0x0100,0x0000}!{0xBE01}[0x000A]Solo così riusciremo a strappare il titolo[0x000A]di Campione a mio fratello!{0x0114,0x0005}
+main_event_0300_select_01=Hai ragione!
+main_event_0300_select_02=Assieme?
+main_event_0300_rival_03=Non c’è nulla di meglio di un po’ di sana[0x000A]competizione per diventare sempre più forti!{0x0114,0x0005}
+main_event_0300_rival_04=In fin dei conti, sei o non sei {0x1100,0x00FF,0x0202}illa mi{0x1100,0x00FF,0x0101}oa rivale?!{0x0114,0x0005}

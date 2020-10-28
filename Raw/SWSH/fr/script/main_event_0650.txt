@@ -1,0 +1,11 @@
+main_event_0650_counterw_01=Bonjour, jeune Challenger ! Je suppose[0x000A]que tu prends part au Défi des Arènes et que{0xBE00}[0x000A]tu viens affronter la Championne du type Eau ?
+main_event_0650_select_01=Oui !
+main_event_0650_select_02=Oui, mais pas tout de suite.
+main_event_0650_counterw_09=Pas de souci ![0x000A]Fais-moi signe quand tu seras prêt{0x1100,0x00FF,0x0100}e !
+main_event_0650_counterw_02=Commence par enfiler ton uniforme ![0x000A]Les vestiaires sont sur ta droite.
+main_event_0650_counterw_03=Parfait. Il te va à merveille ! Tu peux maintenant[0x000A]commencer la Mission d’Arène.{0xBE01}[0x000A]Attention : une fois la Mission commencée,[0x000A]tu ne pourras plus accéder à ta Boîte Pokémon !
+main_event_0650_counterw_04=Notre Championne, Donna, est de sortie.[0x000A]Elle devrait être du côté du phare.{0xBE00}[0x000A]Peut-être pourrais-tu aller la chercher ?{0xBE01}[0x000A]Pour trouver le phare, c’est simple ![0x000A]Sors du stade et dirige-toi vers la mer !
+main_event_0650_counterw_05=Tu désires retenter la Mission ?{0xBE01}[0x000A]Comme on dit : « Tant va la cruche à l’eau[0x000A]qu’à la fin... ça passe ! »
+main_event_0650_counterw_06={0xBDFF:0x0008}
+main_event_0650_counterw_07=Bravo ! Tu as réussi la Mission d’Arène ![0x000A]Il est désormais temps pour toi de faire face{0xBE00}[0x000A]à Donna, la Championne, en personne !
+main_event_0650_counterw_08=Quel dommage...[0x000A]Reviens quand tu te sentiras d’attaque !

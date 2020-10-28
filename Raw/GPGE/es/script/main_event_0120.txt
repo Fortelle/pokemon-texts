@@ -1,0 +1,11 @@
+msg_main0120_sister_01=Hola, {0x0100,0x0000}.
+msg_main0120_sister_08=Ay, pero mira qué monada tu {0x0101,0x0002}, que no se[0x000A]separa de ti. ¡Sois tal para cual!
+msg_main0120_sister_09=Toma esto. Es el regalo perfecto para el dúo tan[0x000A]cuco que formáis.
+msg_main0120_sister_02=Hola, {0x0100,0x0000}.
+msg_main0120_sister_03=Has conseguido un {0xFF00,0x0006}Conjunto Deportivo{0xFF00,0x0000}.
+msg_main0120_sister_10=Has puesto el {0xFF00,0x0006}Conjunto Deportivo{0xFF00,0x0000} en la Maleta.
+msg_woman1_01_p04_t001_r0201={0xBDFF:0x0006}
+msg_main0120_sister_04=¿Por qué no pruebas a ponerle este conjuntito a[0x000A]{0x0101,0x0002}?{0xBE01}[0x000A]Así iréis a juego mientras vivís mil aventuras.
+msg_main0120_sister_06=¡Oh!
+msg_main0120_sister_05=Ji, ji, ji. Me parece que {0x0101,0x0002} quiere jugar[0x000A]contigo.{0xBE01}[0x000A]¡No olvides prestarle atención de vez en cuando!
+msg_main0120_sister_07=Abre el menú con el {0xFF00,0x0006}botón X {0xFF00,0x0000}y selecciona la[0x000A]opción {0xFF00,0x0006}Jugar con {0x0102,0x0003}{0xFF00,0x0000} siempre{0xBE00}[0x000A]que quieras darle unos mimos.

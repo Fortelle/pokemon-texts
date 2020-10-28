@@ -1,0 +1,10 @@
+msg_sub028_sys_01=Un distributore![0x000A]Ecco i prodotti...
+msg_sub028_select_01=Acqua fresca {0xBD03,0x0000}{0x0202,0x0001} [0xE300]
+msg_sub028_select_02=Gassosa {0xBD03,0x0000}{0x0202,0x0001} [0xE300]
+msg_sub028_select_03=Lemonsucco {0xBD03,0x0000}{0x0202,0x0001} [0xE300]
+msg_sub028_select_04=Niente
+msg_sub028_sys_02=Non hai abbastanza soldi!
+msg_sub028_sys_03=È uscita {0x1502,0x0004}{0x010A,0x0004}!
+msg_sub028_sys_04=Non hai spazio per nient’altro!
+msg_sub028_sys_05=Non compri niente.
+msg_sub028_sys_06=Vuoi comprare qualcos’altro?

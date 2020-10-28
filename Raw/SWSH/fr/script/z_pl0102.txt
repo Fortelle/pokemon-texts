@@ -1,0 +1,10 @@
+msg_pl0102_npc1_01=Je suis navré, mais l’accès à cette salle[0x000A]est réservé au personnel.
+msg_pl0102_npc4_01=Le premier round du Tournoi des Champions[0x000A]va commencer !{0xBE01}[0x000A]Dirigez-vous vers le terrain dès que[0x000A]vous serez prêt{0x1100,0x00FF,0x0100}e.
+msg_pl0102_npc4_02=Le second round du Tournoi des Champions[0x000A]va commencer !{0xBE01}[0x000A]Dirigez-vous vers le terrain dès que[0x000A]vous serez prêt{0x1100,0x00FF,0x0100}e.
+msg_pl0102_npc4_03=La finale du Tournoi des Champions[0x000A]va commencer !{0xBE01}[0x000A]Dirigez-vous vers le terrain dès que[0x000A]vous serez prêt{0x1100,0x00FF,0x0100}e.
+msg_pl0102_npc4_07=L’heure est enfin venue ![0x000A]Le Match Ultime va bientôt commencer !{0xBE01}[0x000A]Dirigez-vous vers le terrain dès que[0x000A]vous serez prêt{0x1100,0x00FF,0x0100}e.
+msg_pl0102_npc4_04=Le Tournoi des Médaillés va commencer !{0xBE01}[0x000A]Vous n’êtes que quatre Dresseurs à avoir réussi[0x000A]le Défi des Arènes... J’ai hâte de voir lequel{0xBE00}[0x000A]d’entre vous va triompher des autres !{0xBE01}[0x000A]Dirigez-vous vers le terrain dès que[0x000A]vous serez prêt{0x1100,0x00FF,0x0100}e.
+msg_pl0102_npc4_05=C’est la finale du Tournoi des Médaillés !{0xBE01}[0x000A]Et ce sont les deux Dresseurs recommandés[0x000A]par le Maître en personne qui s’affrontent ! Ouah !{0xBE01}[0x000A]Dirigez-vous vers le terrain dès que[0x000A]vous serez prêt{0x1100,0x00FF,0x0100}e.
+msg_pl0102_npc4_06=La cérémonie d’ouverture du Tournoi[0x000A]des Champions va commencer !{0xBE01}[0x000A]Dirigez-vous vers le terrain dès que[0x000A]vous serez prêt{0x1100,0x00FF,0x0100}e.
+msg_pl0102_npc2_01=La finale du Tournoi des Médaillés[0x000A]va bientôt commencer !{0xBE01}[0x000A]Les deux jeunes Dresseurs qui s’affronteront[0x000A]sous le regard des spectateurs ne sont autres que{0xBE00}[0x000A]Nabil et {0x0100,0x0000}, les deux Challengers{0xBE00}[0x000A]recommandés par le Maître en personne !
+msg_pl0102_npc3_01=J’suis caméraman chez MC TV. C’est pas que[0x000A]j’ai pas envie de parler, hein, mais j’bosse, là...

@@ -1,0 +1,16 @@
+msg_road017_kanban_01=Da hängt ein Hinweis...{0xBE01}[0x000A]„Halte die Augen offen nach weggeworfenen[0x000A]Items!“
+msg_road017_kanban_02=Tipps für Trainer{0xBE01}[0x000A]Wenn du zwei Pokémon derselben Art mit[0x000A]identischem Level fängst, unterscheiden sie{0xBE00}[0x000A]sich immer geringfügig in ihrem Potenzial.{0xBE01}[0x000A]Wenn du sie fleißig trainierst, werden diese[0x000A]Unterschiede immer deutlicher.
+msg_road017_kanban_03={0xBDFF:0x0002}
+msg_road017_kanban_07=Tipps für Trainer{0xBE01}[0x000A]Beim Fangen von Pokémon solltest du stets in[0x000A]die Mitte des farbigen Rings zielen.{0xBE01}[0x000A]Je kleiner dieser Ring ist, desto leichter wird es,[0x000A]einen „guten Wurf“ oder einen „großartigen{0xBE01}[0x000A]Wurf“ zu erzielen und das Pokémon zu fangen!
+msg_road017_kanban_04=Route 17[0x000A]Verbindet Prismania City mit Fuchsania City
+msg_road017_kanban_05=Da hängt ein Hinweis...{0xBE01}[0x000A]„Wirf nicht die Konsole. Wirf lieber Pokébälle!“
+msg_road017_kanban_06=Auf diesem Weg laufen Menschen und Pokémon[0x000A]Seite an Seite.
+msg_road017_poke_01={0xFF00,0x0009}Schillok:{0xFF00,0x0000} Schill, schill!
+msg_road017_poke_02={0xFF00,0x0009}Kokowei:{0xFF00,0x0000} Koko!
+msg_road017_poke_03={0xFF00,0x0009}Snobilikat:{0xFF00,0x0000} Snobili, snobili!
+msg_road017_poke_04={0xFF00,0x0009}Aquana:{0xFF00,0x0000} Quana!
+msg_road017_poke_05={0xFF00,0x0009}Ultrigaria:{0xFF00,0x0000} Garia!
+msg_road017_poke_06={0xFF00,0x0009}Flamara:{0xFF00,0x0000} Mara!
+msg_road017_poke_07={0xFF00,0x0009}Rasaff:{0xFF00,0x0000} Raaaas!!
+msg_road017_poke_08={0xFF00,0x0009}Vulpix:{0xFF00,0x0000} Vul, vul!
+msg_road017_poke_09={0xFF00,0x0009}Blitza:{0xFF00,0x0000} Zaaa...

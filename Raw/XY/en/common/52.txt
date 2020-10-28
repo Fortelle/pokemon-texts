@@ -1,0 +1,24 @@
+Gym Badges:
+
+{0x0200,0x0000}
+Pokédex:
+
+{0x0202,0x0000}
+Time:
+{0x0202,0x0000}
+{0x0201,0x0000}
+Last saved on
+:
+{0x0201,0x0001}/{0x0201,0x0002}/{0x0203,0x0000,0x0000}
+{0x0201,0x0000}
+{0x0201,0x0000}
+{0x0105,0x0000}
+Would you like to save your adventure so far?
+Now saving your adventure...[0x000A]Don’t turn off the power.
+{0x0100,0x0000} saved the game.
+There’s already a saved game file,[0x000A]so you can’t save now.{0xBE01}[0x000A]Refer to the electronic manual for details.
+Failed to save the game.
+Game Sync is in progress...[0x000A]Don’t turn off the power.
+The server is busy.[0x000A]Quitting Game Sync...
+{0xBDFF:0x0016}
+The data necessary for the Internet connection[0x000A]has been obtained.{0xBE01}[0x000A]Would you like to save the game?[0x000A]

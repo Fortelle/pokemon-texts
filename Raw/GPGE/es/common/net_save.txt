@@ -1,0 +1,8 @@
+net_save_win_01=Guardando...[0x000A]Por favor, espera.
+net_save_win_02=¡Aviso![0x000A][0x000A]Si se produce un error de conexión o se apaga[0x000A]la consola en mitad de un intercambio de[0x000A]Pokémon, deberás esperar un tiempo antes de[0x000A]intentarlo de nuevo.
+net_save_win_03=Conectando...[0x000A]Por favor, espera.
+net_save_win_04=¿Quieres interrumpir la conexión?
+net_save_sel_01=Sí
+net_save_sel_02=No
+net_save_sel_03=Cancelar
+net_save_win_05=Se ha interrumpido la conexión.[0x000A]El intercambio no tendrá lugar.

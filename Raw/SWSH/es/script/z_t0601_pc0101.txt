@@ -1,0 +1,4 @@
+msg_t0601pc0101_npc1_01=Algo me ha traído hasta este pueblo...[0x000A]Es un lugar curioso, no sabría cómo describirlo.
+msg_t0601pc0101_npc2_01=Las setas brillantes y misteriosas son cosa de los[0x000A]Pokémon de tipo Hada. ¡Les encanta gastarles{0xBE00}[0x000A]bromas a quienes se adentran en el bosque!
+msg_t0601pc0101_npc3_01=Si te acabas perdiendo en el Bosque Lumirinto,[0x000A]puedes estar casi segur{0x1100,0x00FF,0x0101}oa de que se trata de una{0xBE00}[0x000A]travesura de un Pokémon de tipo Hada.
+msg_t0601_pc0101_poke1_01_pop=¿Indeeee...?

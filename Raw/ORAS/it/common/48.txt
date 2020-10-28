@@ -1,0 +1,15 @@
+Giocatore
+{0x0100,0x0000}
+Lo staff
+di GAME FREAK
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+Questo documento attesta che hai[0x000A]completato il Pokédex Nazionale.
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+Questo documento certifica che hai[0x000A]catturato tutti i Pokémon di Hoenn,[0x000A]raggiungendo così un traguardo[0x000A]straordinario.
+Questo documento attesta[0x000A]la tua ininterrotta amicizia[0x000A]con {0x0102,0x0000}[0x000A]e il profondo legame che vi unisce.

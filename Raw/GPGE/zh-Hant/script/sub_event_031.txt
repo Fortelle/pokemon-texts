@@ -1,0 +1,9 @@
+msg_sub031_bigman_01=呼啊～曬太陽[0x000A]曬著曬著居然就這樣睡著了！
+msg_sub031_bigman_02=……我做了個奇怪的夢。
+msg_sub031_bigman_03=我夢到一個迷失的靈魂[0x000A]化身成火焰到處徘徊！{0xBE01}[0x000A]……哦？我手裡什麼時候[0x000A]多了一個招式學習器啊？
+msg_sub031_bigman_04=嗯……[0x000A]真讓人不舒服！{0xBE00}[0x000A]這個就給{0x1100,0x00FF,0x0101}你妳吧！
+msg_sub031_bigman_05=招式學習器11是「鬼火」喔……[0x000A]咻～咚隆咚隆～
+msg_bigman1_01_p01_field_t002={0xBDFF:0x0005}
+msg_bigman1_01_p02_field_t002={0xBDFF:0x0006}
+msg_bigman1_01_p03_field_t002={0xBDFF:0x0007}
+msg_bigman1_01_p04_field_t002={0xBDFF:0x0008}

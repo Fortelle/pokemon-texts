@@ -1,0 +1,10 @@
+msg_main0210_musashi_01={0xFF00,0x0009}???:{0xFF00,0x0000} Stehengeblieben!
+msg_main0210_musashi_02={0xFF00,0x0009}???:{0xFF00,0x0000} Dieses Fossil gehört uns, klar?
+msg_main0210_kojiro_01={0xFF00,0x0009}???:{0xFF00,0x0000} Wie und wann hast du uns überhaupt[0x000A]überholt, hm?! Unverschämtheit!
+msg_main0210_musashi_04={0xFF00,0x0009}Jessie:{0xFF00,0x0000} Ich bin Jessie.
+msg_main0210_kojiro_02={0xFF00,0x0009}James:{0xFF00,0x0000} Und ich bin James.
+msg_main0210_musashi_05={0xFF00,0x0009}Jessie:{0xFF00,0x0000} Zusammen sind wir Team Rocket![0x000A]Und wir werden uns zurückholen, was wir uns{0xBE00}[0x000A]rechtmäßig erklauen wollten!
+msg_main0210_dummy_01={0xBDFF:0x0006}
+msg_main0210_dummy_02={0xBDFF:0x0007}
+msg_main0210_musashi_03={0xFF00,0x0009}Team Rocket:{0xFF00,0x0000} Das war wohl ein Schuss in[0x000A]den Ofen!
+msg_main0210_musashi_back={0xFF00,0x0009}Jessie:{0xFF00,0x0000} Du wolltest uns doch nicht etwa mit nur[0x000A]einem Pokémon entgegentreten?{0xBE01}[0x000A]Komm wieder, wenn dein Team mehr hermacht.[0x000A]Zwei Pokémon brauchst du mindestens!

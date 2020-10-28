@@ -1,0 +1,16 @@
+msg_main0950_president_01={0xFF00,0x0009}Präsident:{0xFF00,0x0000} Ich danke dir für deine Hilfe,[0x000A]mein lieber Junge!
+msg_main0950_president_02={0xFF00,0x0009}Präsident:{0xFF00,0x0000} Ich danke dir für deine Hilfe,[0x000A]mein liebes Kind!
+msg_main0950_partner_a_01=Pika, pikaaa!
+msg_main0950_partner_b_01=Voli!
+msg_main0950_president_08={0xFF00,0x0009}Präsident:{0xFF00,0x0000} Haha, du hast ja recht! Dich darf ich[0x000A]natürlich nicht auslassen, mein kleiner Freund!
+msg_main0950_president_05=Ich werde niemals vergessen, dass ihr uns aus[0x000A]unserer Notlage gerettet habt.
+msg_main0950_president_06=Oh, ich will mich natürlich auch noch dafür[0x000A]erkenntlich zeigen!{0xBE01}[0x000A]Ich könnte dir alles geben, was es für Geld[0x000A]zu kaufen gibt.{0xBE01}[0x000A]Aber warum machen wir es nicht etwas[0x000A]spannender?
+msg_main0950_sys_01=Du erhältst einen {0xFF00,0x0006}Meisterball{0xFF00,0x0000} vom Präsidenten[0x000A]der Silph Company!
+msg_main0950_president_03={0xFF00,0x0009}Präsident: {0xFF00,0x0000}Was du da in deinen Händen hältst,[0x000A]findest du mit Sicherheit in keinem Laden.{0xBE01}[0x000A]Das ist der streng geheime Prototyp unseres[0x000A]Meisterballs.
+msg_main0950_president_07=Mit ihm fängst du garantiert jedes Pokémon!{0xBE01}[0x000A]Wir haben allerdings nur dieses eine Exemplar[0x000A]fertiggestellt.
+msg_main0950_president_09=Ich wäre dir also verbunden, wenn du den[0x000A]Meisterball unauffällig einsetzen könntest.
+msg_main0950_president_04={0xFF00,0x0009}Präsident:{0xFF00,0x0000} Ah, {0x1100,0x00FF,0x0F0C,0x0000}unser Retterunsere Retterin in der Not![0x000A]Nochmals Danke für deine Hilfe!
+msg_main0950_president_10={0xFF00,0x0009}Präsident:{0xFF00,0x0000} Hey, warte! Nicht so schnell![0x000A]Ich habe hier noch etwas für dich.
+msg_workerm1_01_p04_cave_d1011={0xBDFF:0x000D}
+msg_main0950_stafff_01={0xFF00,0x0009}Sekretärin:{0xFF00,0x0000} Danke, dass du uns gerettet hast!{0xBE01}[0x000A]Der Präsident und die Belegschaft sind dir dafür[0x000A]zutiefst verbunden.
+msg_main0950_stafff_02={0xFF00,0x0009}Sekretärin:{0xFF00,0x0000} Ein Pokéball, mit dem man ein[0x000A]Pokémon garantiert fangen kann...{0xBE01}[0x000A]So etwas sollte nicht in die Hände von Trainern[0x000A]gelangen, denen es am nötigen Potenzial fehlt.{0xBE01}[0x000A]Ich glaube, das ist der Grund dafür, dass der[0x000A]Präsident dir den Meisterball anvertraut hat.

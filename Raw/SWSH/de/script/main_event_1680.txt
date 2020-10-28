@@ -1,0 +1,13 @@
+main_event_1680_stuff_01=Die Eröffnungszeremonie beginnt bald.[0x000A]Möchtest du den Kampfplatz betreten?
+main_event_1680_select_01=Ja, es kann losgehen!
+main_event_1680_select_02=Einen Moment noch, bitte!
+main_event_1680_stuff_02=Gut! Dort entlang, bitte.
+main_event_1680_stuff_03=Willst du erst noch ein paar Worte mit den[0x000A]anderen wechseln? Gerne!
+main_event_1680_leader1_01=Ich stelle mich stets neuen Herausforderungen,[0x000A]damit ich als Pokémon-Trainer nicht irgendwann{0xBE00}[0x000A]auf der Strecke bleibe.{0xBE01}[0x000A]Wenn du immerzu versuchst, über dich selbst[0x000A]hinauszuwachsen, ermattet dein Glanz nie.{0x0114,0x0010}
+main_event_1680_leader2_01=Ich treff gleich im ersten Kampf auf Roy.[0x000A]Das nenn ich mal Pech...{0xBE01}[0x000A]Aber ich gebe mich nicht so schnell geschlagen![0x000A]Selbst wenn er wieder mit dem Wetter spielt...{0x0114,0x000E}
+main_event_1680_leader3_01=Hallo, lange nicht gesehen! Unser Kampf bei der[0x000A]Arena-Challenge war nichts weiter als ein Test.{0xBE01}[0x000A]Hier wird alles anders. Schluss mit Weichspüler![0x000A]Jetzt wird Ernst gemacht!{0x0114,0x000F}
+main_event_1680_leader4_01=Seltsam... Mein Herz rast vor Aufregung.[0x000A]Aber das ist sicher nur Vorfreude.{0x0114,0x0011}
+main_event_1680_leader5_01=Mit der Konkurrenz mach ich kurzen Prozess,[0x000A]du wirst schon sehen.{0xBE01}[0x000A]Meine Pokémon und ich werden beim Publikum[0x000A]einen bleibenden Eindruck hinterlassen.{0x0114,0x0014}
+main_event_1680_leader6_01=Ich werde das Finalturnier gewinnen und mir so[0x000A]das Recht erkämpfen, Delion herauszufordern!{0xBE01}[0x000A]Nur so kann ich mich bei Duraludon und meinen[0x000A]anderen Team-Pokémon gebührend bedanken.{0x0114,0x0017}
+main_event_1680_leader7_01=Mein Ziel? Gewinnen, würde ich sagen.{0xBE01}[0x000A]Und zwar ganz ohne Dynamax. Mir geht es um[0x000A]die Ehre der Bewohner von Spikeford.{0xBE01}[0x000A]Ich will, dass sie wieder lächeln können.{0x0114,0x0016}
+main_event_1680_stuff_04=Die Eröffnungszeremonie beginnt in Kürze.[0x000A]Bitte begib dich zum Kampfplatz!

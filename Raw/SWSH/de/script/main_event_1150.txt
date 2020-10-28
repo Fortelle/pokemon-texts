@@ -1,0 +1,6 @@
+main_event_1150_leader_01=Warte, Kindchen.{0x0114,0x0013}
+main_event_1150_leader_02=Ich muss noch ein paar Besorgungen in Claw City[0x000A]machen. Möchtest du mich vielleicht begleiten?{0xBE01}[0x000A]Wenn du zum nächsten Arena-Stadion willst,[0x000A]musst du so oder so zurück nach Claw City.{0x0114,0x0013}
+main_event_1150_select_01=Gerne!
+main_event_1150_select_02=Geht leider gerade nicht...
+main_event_1150_leader_03=Dann komm.{0x0114,0x0013}
+main_event_1150_leader_04=Ha! Schon verstanden.{0xBE01}[0x000A]Mir gefällt, dass du dich ganz auf die[0x000A]Arena-Challenge konzentrieren willst.{0xBE01}[0x000A]Aber da deine nächste Station Circhester ist,[0x000A]musst du ohnehin durch Claw City.{0x0114,0x0013}

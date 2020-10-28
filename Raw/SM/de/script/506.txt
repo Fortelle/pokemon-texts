@@ -1,0 +1,20 @@
+Eine Fähigkeit ist ein besonderes Talent,[0x000A]über das ein Pokémon verfügt.{0xBE01}[0x000A]Ein Pokémon mit der Fähigkeit Flexibilität kann[0x000A]zum Beispiel nicht durch gegnerische Attacken{0xBE00}[0x000A]paralysiert werden!
+Wer sich als Trainer verbessern will, muss auch[0x000A]auf die Fähigkeiten seiner Pokémon achten.{0xBE00}[0x000A]Dadurch wird man stärker!
+Jedes Pokémon verfügt über eine Fähigkeit,[0x000A]aber Pokémon derselben Art haben nicht immer{0xBE00}[0x000A]die gleiche Fähigkeit.{0xBE01}[0x000A]Welche Fähigkeit ein Trainer bevorzugt,[0x000A]hängt davon ab, auf welche Weise er kämpft.
+Hm, was steht hier...?{0xBE01}[0x000A]„Über welche Fähigkeit ein Pokémon verfügt,[0x000A]kann man in seinem Bericht nachlesen.{0xBE01}[0x000A]Berührt man das dazugehörige Informations-[0x000A]Symbol, erhält man eine Erklärung der Fähigkeit.“{0xBE01}[0x000A]Ich wünschte, Lehrbuchtexte wären etwas[0x000A]spannender!
+Hier, für dich![0x000A]Das hat mein Yorkleff aufgelesen.
+Mein Yorkleff hat die Fähigkeit Mitnahme.[0x000A]Die ist auch außerhalb eines Kampfes aktiv!{0xBE01}[0x000A]Ich bin extra zur Nachbarinsel Akala, um ein[0x000A]Pokémon mit dieser Fähigkeit zu fangen.
+An der Tafel sind Statusprobleme aufgelistet,[0x000A]von denen Pokémon im Kampf betroffen werden{0xBE00}[0x000A]können.
+Worüber möchtest du mehr erfahren?
+Wenn ein Pokémon vergiftet wurde,[0x000A]verliert es im Kampf nach und nach KP.{0xBE01}[0x000A]Die Vergiftung bleibt auch nach dem Kampf[0x000A]bestehen. Mit einem Gegengift kann das{0xBE00}[0x000A]Pokémon geheilt werden.
+Wurde ein Pokémon paralysiert, sinkt seine[0x000A]Initiative und es kann passieren, dass es{0xBE00}[0x000A]während des Kampfes nicht angreifen kann.{0xBE01}[0x000A]Die Paralyse hält auch nach dem Kampf an.[0x000A]Heile das Pokémon mit einem Para-Heiler.
+Wenn ein Pokémon einschläft, kann es nicht[0x000A]mehr angreifen.{0xBE01}[0x000A]Ein schlafendes Pokémon wacht manchmal von[0x000A]selbst wieder auf, aber wenn der Kampf endet,{0xBE00}[0x000A]bevor dies geschieht, schläft es weiter.{0xBE01}[0x000A]Das Item Aufwecker sollte in diesem Fall Abhilfe[0x000A]schaffen.
+Erleidet ein Pokémon Verbrennungen, sinkt sein[0x000A]Angriffs-Wert und seine KP nehmen stetig ab.{0xBE01}[0x000A]Eine Verbrennung hält auch nach dem Kampf an.[0x000A]Heile sie mit einem Feuerheiler.
+Wurde ein Pokémon eingefroren,[0x000A]ist es völlig hilflos.{0xBE01}[0x000A]Ein eingefrorenes Pokémon taut manchmal von[0x000A]selbst wieder auf, aber wenn der Kampf endet,{0xBE00}[0x000A]bevor dies geschieht, hält der Zustand an.{0xBE01}[0x000A]Taue es mit einem Eisheiler auf.
+Vergiftung
+Paralyse
+Schlaf
+Verbrennung
+Gefroren
+Abbrechen
+– Aktivierung von Fähigkeiten –[0x000A]Fall 1: Manche Fähigkeiten werden aktiviert,[0x000A]sobald das Pokémon das Kampffeld betritt und[0x000A]wirken so lange, wie es am Kampf teilnimmt.{0xBE01}[0x000A]Fall 2: Manche Fähigkeiten werden aktiviert,[0x000A]wenn das Pokémon von einer gegnerischen[0x000A]Attacke getroffen wird.[0x000A]Fall 3: Manche Fähigkeiten werden außerhalb[0x000A]eines Kampfes aktiviert.

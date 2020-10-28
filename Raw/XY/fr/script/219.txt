@@ -1,0 +1,16 @@
+Oui
+Non
+{0x0206,0x0008,0xE07F} $
+Voulez-vous sauvegarder la partie[0xE07F]?
+Sauvegarde en cours[0xE08D][0x000A]Ne pas éteindre la console.
+{0x0100,0x0000} a sauvegardé la partie.
+Une autre partie est déjà sauvegardée.[0x000A]Sauvegarde impossible.{0xBE01}[0x000A]Veuillez vous référer au mode d’emploi[0x000A]pour plus d’informations.
+Échec de la sauvegarde.
+Vous avez reçu {0x0101,0x0000}[0xE07F]!
+{0x0101,0x0000} a été envoyé vers[0x000A]la {0x010B,0x0001}[0xE07F]!
+Vous avez reçu un message sur votre Holokit[0xE07F]!
+Coucou m{0x1100,0x00FF,0x0808}on chéria chérie[0xE07F]!{0xBE01}[0x000A]Mais dis-moi, on dirait que tu n’as pas[0x000A]fait semblant. Repose-toi donc un peu[0xE07F]!{0xBE01}[0x000A]…[0x000A]…
+Alors[0xE07F]? Ça vous a fait du bien, n’est-ce pas[0xE07F]?{0xBE01}[0x000A]Toi et tes Pokémon, vous pouvez venir vous[0x000A]reposer ici quand vous le voudrez[0xE07F]! Un Dresseur{0xBE00}[0x000A]ne prend jamais assez soin de son équipe[0xE07F]!{0xBE01}[0x000A]Si tu es trop loin d’ici, pense à acheter des[0x000A]Potions dans les Boutiques[0xE07F]!{0xBE01}[0x000A]Il y en a partout, pas seulement à Quarellis[0xE07F]!{0xBE01}[0x000A]Allez, bon courage[0xE07F]!
+Avant toute chose, soignons vos Pokémon.
+Si les Points de Vie de vos Pokémon[0x000A]sont faibles, venez nous voir.{0xBE01}[0x000A]Si vous prévoyez de partir loin,[0x000A]vous devriez acheter des Potions{0xBE00}[0x000A]dans une Boutique Pokémon.{0xBE01}[0x000A]Nous vous souhaitons bonne chance.
+Vos Pokémon ont été soignés.{0xBE01}[0x000A]Nous vous souhaitons bonne chance.

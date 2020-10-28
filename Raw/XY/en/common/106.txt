@@ -1,0 +1,58 @@
+Welcome to Game Sync!{0xBE01}[0x000A]Game Sync connects[0x000A]the Pokémon Global Link website and{0xBE00}[0x000A]Pokémon X and Pokémon Y.{0xBE01}[0x000A]Register the Game Sync ID obtained in[0x000A]Pokémon X or Pokémon Y{0xBE00}[0x000A]at the Pokémon Global Link,{0xBE00}[0x000A]and you can enjoy various features.{0xBE01}[0x000A]For details, please read “Info.”{0xBE01}
+Game Sync failed because the Game Sync ID[0x000A]wasn’t registered at the Pokémon Global Link.{0xBE01}[0x000A]Please access the Pokémon Global Link[0x000A]and enter the Game Sync ID.{0xBE01}
+Will you create a Game Sync ID to use[0x000A]Game Sync?
+Connecting to the Internet.[0x000A]Please stand by...
+Saving...[0x000A]Don’t turn off the power.
+Your Game Sync ID has been issued.{0xBE01}[0x000A]Please register your Game Sync ID at[0x000A]the Pokémon Global Link.{0xBE01}[0x000A]Once it’s registered, you can use Game Sync.{0xBE01}[0x000A]The current Game Sync settings of[0x000A]this game are:{0xBE01}[0x000A]Auto Sync--On, and[0x000A]Poké Miles--Send all.{0xBE01}[0x000A]You can change these settings in “Settings”[0x000A]anytime you want.{0xBE01}[0x000A]For details about how to use Game Sync,[0x000A]please read “Info.”{0xBE01}
+The Game Sync settings have been[0x000A]changed.{0xBE01}
+{0xBDFF:0x0007}
+Game Sync ended because the server is busy.[0x000A]Please try again later.
+Issuing a Game Sync ID was canceled[0x000A]because the server is busy.{0xBE01}[0x000A]Please wait and try again later.
+{0xBDFF:0x000A}
+Game Sync is in progress...[0x000A]Don’t turn off the power.
+{0xBDFF:0x000C}
+Game Sync complete!
+{0xBDFF:0x000E}
+Yes
+No
+Welcome to Game Sync!
+Create your Game Sync ID
+Info
+Game Sync
+Settings
+{0xBDFF:0x0016}
+What is Game Sync?
+Prep for Game Sync
+What is Game Sync?
+Prep for Game Sync
+How to use Game Sync
+Settings
+Auto Sync
+On
+Off
+Poké Miles
+Send all
+Don’t send
+Info about Game Sync
+Game Sync ID
+Visit the Pokémon Global Link[0x000A]website, and enter your Game Sync ID[0x000A]displayed on the screen to register it.[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+Game Sync Log[0x000A]You used Game Sync at {0xFF00,0x0002}{0x0201,0x0003}:{0x0201,0x0004}{0xFF00,0x0000}[0x000A]on {0xFF00,0x0002}{0x0201,0x0001}/{0x0201,0x0002}/20{0x0201,0x0000}{0xFF00,0x0000}.[0x000A]Items delivered: {0xFF00,0x0002}{0x0202,0x0005}{0xFF00,0x0000}[0x000A][0x000A]Pokémon Global Link[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+{0x0200,0x0000}/{0x0200,0x0001}
+Your Game Sync ID displayed on the[0x000A]screen has been registered at[0x000A]the Pokémon Global Link.[0x000A][0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+<Game Sync Log>[0x000A]You used Game Sync at {0xFF00,0x0002}{0x0201,0x0003}:{0x0201,0x0004}{0xFF00,0x0000}[0x000A]on {0xFF00,0x0002}{0x0201,0x0001}/{0x0201,0x0002}/20{0x0201,0x0000}{0xFF00,0x0000}.[0x000A][0x000A]<Pokémon Global Link>[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+Game Sync connects[0x000A]Pokémon X or Pokémon Y and[0x000A]the Pokémon Global Link website,[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}.[0x000A]Use Game Sync to send[0x000A]your saved game to[0x000A]the Pokémon Global Link.
+Use the Pokémon Global Link to obtain items[0x000A]and to check the saved data in your[0x000A]Pokémon X or Pokémon Y game.[0x000A]Use Game Sync to send any obtained items[0x000A]to your Pokémon X or Pokémon Y game.
+Follow the steps below to use Game Sync:[0x000A][0x000A]Step 1.[0x000A]Choose “Create your Game Sync ID”[0x000A]in the Game Sync menu to[0x000A]obtain your Game Sync ID.
+Step 2.[0x000A]Visit the Pokémon Global Link website,[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000},[0x000A]and register your Game Sync ID.[0x000A]You’ll then be able to use Game Sync.
+To register your Game Sync ID, you need to[0x000A]register a Pokémon Global Link account.[0x000A]Visit the Pokémon Global Link for details.
+Game Sync connects[0x000A]Pokémon X or Pokémon Y and[0x000A]the Pokémon Global Link website,[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}.[0x000A]Use Game Sync to send[0x000A]your saved game to[0x000A]the Pokémon Global Link.
+Use the Pokémon Global Link to obtain items[0x000A]and to check the saved data in your[0x000A]Pokémon X or Pokémon Y game.[0x000A]Use Game Sync to send any obtained items[0x000A]to your Pokémon X or Pokémon Y game.
+Visit the Pokémon Global Link website,[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000},[0x000A]and register your Game Sync ID[0x000A]to use Game Sync.
+To register your Game Sync ID, you need to[0x000A]register a Pokémon Global Link account.[0x000A]Visit the Pokémon Global Link for details.
+Choose “Game Sync” to connect to[0x000A]the Pokémon Global Link.[0x000A]Please note that you can’t connect to[0x000A]the site to play if you haven’t first[0x000A]registered your Game Sync ID at[0x000A]the Pokémon Global Link.
+If you set Auto Sync “On”[0x000A]in Settings and PSS (Player Search System) is[0x000A]connected to the Internet, Game[0x000A]Sync will be done automatically every time[0x000A]you save the game in the menu.
+To use the Poké Miles you[0x000A]have collected, send them to[0x000A]the Pokémon Global Link via Game Sync.[0x000A]In Settings, choose “Send all”[0x000A]for your Poké Miles.
+When you receive items you obtained in[0x000A]the Pokémon Global Link via Game Sync,[0x000A]a delivery girl shows up at a Pokémon Center.[0x000A]Speak to her to receive the items.
+Game Sync also allows you to send[0x000A]a photo that Phil the Photo Guy took[0x000A]to the Pokémon Global Link.[0x000A]After a photo shoot, use Game Sync.
+Only one photo will be saved[0x000A]to be sent by Game Sync.[0x000A]Please note that if you take a new[0x000A]photo before sending an old one,[0x000A]the photo will be overwritten.
+{0xBDFF:0x0039}

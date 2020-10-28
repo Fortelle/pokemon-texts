@@ -1,0 +1,17 @@
+msg_sub015_partner_a_01=피카~!
+msg_sub015_partner_b_01=큐이~!
+msg_sub015_system_01={0x0102,0x0003}{0x1900,0x0001}[0x000A]들뜬 모양이다!
+msg_sub015_system_02={0x0102,0x0003}{0x1900,0x0001}[0x000A]배의 앞쪽을 구경하고 싶은 모양이다!
+msg_sub015_partner_a_02=피카피!
+msg_sub015_partner_b_02=이브이!
+msg_sub015_partner_a_03=피~
+msg_sub015_partner_b_03=브이~
+msg_sub015_system_03={0x0100,0x0000}{0x1900,0x0004} {0x0102,0x0003}{0x1900,0x0001}[0x000A]끝없이 펼쳐진 바다를{0xBE00}[0x000A]함께 바라보았다!
+msg_sub015_system_04={0x0102,0x0003}{0x1900,0x0001}[0x000A]매우 기뻐 보인다!
+msg_sub015_angler_01={0xBDFF:0x000A}
+msg_sub015_angler_02={0xBDFF:0x000B}
+msg_sub015_sys_01={0xBDFF:0x000C}
+msg_sub015_angler_03={0xBDFF:0x000D}
+msg_sub015_angler_04={0xBDFF:0x000E}
+msg_sub015_angler_05={0xBDFF:0x000F}
+msg_fishing1_01_p07_t006_r0101={0xBDFF:0x0010}

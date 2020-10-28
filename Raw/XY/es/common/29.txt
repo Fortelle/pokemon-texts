@@ -1,0 +1,122 @@
+Buscando datos de Tests de Combate.[0x000A]Espera, por favor...
+Selecciona el Test de Combate que quieras[0x000A]descargar.{0xBE01}
+¿Quieres cancelar la descarga de Tests de[0x000A]Combate?
+¿Quieres descargar[0x000A]{0x0193,0x0000}?
+Ya has descargado ese Test de Combate.{0xBE01}
+Se han recibido los datos del Test de[0x000A]Combate.{0xBE01}
+Descargando el Test de Combate...[0x000A]No apagues la consola.
+Se ha descargado el Test de Combate.{0xBE01}
+Selecciona el Test de Combate que quieras[0x000A]borrar.{0xBE01}
+¿Prefieres cancelar el borrado del Test de[0x000A]Combate?
+¿Quieres borrar[0x000A]{0x0193,0x0000}?
+Se han borrado los datos del Test de[0x000A]Combate.{0xBE01}
+Selecciona cómo quieres recibir los datos.
+¿Quieres conectarte a internet?
+Comprobando la tarjeta SD...[0x000A]No apagues la consola.
+Se va a interrumpir la conexión a internet.[0x000A]Espera, por favor...
+Hay demasiados datos guardados.[0x000A]¿Quieres borrar algunos?
+No se han encontrado datos de Tests de[0x000A]Combate.{0xBE01}[0x000A]Descarga datos de Tests de Combate.{0xBE01}
+¿Seguro que quieres interrumpir la conexión[0x000A]a internet?
+Interrumpiendo la conexión a internet...
+La comunicación inalámbrica está desactivada.{0xBE01}[0x000A]Usa el interruptor de la comunicación[0x000A]inalámbrica para activarla.{0xBE01}
+Se han detectado errores en los archivos[0x000A]guardados en la tarjeta SD.{0xBE00}[0x000A]Los datos se han borrado.{0xBE01}
+¿Seguro que quieres borrar[0x000A]{0x0193,0x0000}?
+No hay suficiente espacio libre en la tarjeta[0x000A]SD para descargar los datos.{0xBE01}[0x000A]Libera espacio en la tarjeta SD.{0xBE01}
+No se ha podido leer la tarjeta SD.{0xBE01}[0x000A]Sal del juego y comprueba el contenido de[0x000A]la tarjeta.{0xBE01}
+No se han podido guardar los datos en la[0x000A]tarjeta SD.{0xBE01}[0x000A]Sal del juego y comprueba el contenido de[0x000A]la tarjeta.{0xBE01}
+No se han encontrado datos.{0xBE01}
+No se han encontrado datos.{0xBE01}
+No se han encontrado datos.{0xBE01}
+Se ha interrumpido la descarga de datos.{0xBE01}
+Selecciona el Test de Combate en el que[0x000A]quieres participar.{0xBE01}
+¿Quieres participar en[0x000A]{0x0193,0x0000}?
+¿Prefieres no participar?
+Sí
+No
+Participar
+Ver detalles
+Salir
+Comunicación local
+Internet
+Salir
+Ver detalles
+Descargar
+Salir
+Ver detalles
+Borrar
+Salir
+Lista de Tests de Combate
+{0x0193,0x0000}
+{0x0101,0x0000}
+{0x0109,0x0000}
+{0x0107,0x0000}
+Pokémon prohibidos:
+Objetos prohibidos:
+Movimientos prohibidos:
+Ninguno
+Reglas del combate:
+{0xBDFF:0x0039}
+{0xBDFF:0x003A}
+{0xBDFF:0x003B}
+Selecciona el tipo de combate en el que[0x000A]quieres participar.{0xBE01}
+¿Quieres realizar el Test de Combate[0x000A]Individual?
+¿Quieres realizar el Test de Combate Doble?
+¿Quieres participar en un Combate Individual?
+¿Quieres participar en un Combate Doble?
+¿Quieres participar en un Combate Triple?
+¿Quieres participar en un Combate Rotatorio?
+¿Quieres participar en un Combate Múltiple?
+¿Quieres participar en un Supercombate[0x000A]Individual?
+¿Quieres participar en un Supercombate[0x000A]Doble?
+¿Quieres participar en un Supercombate[0x000A]Triple?
+¿Quieres participar en un Supercombate[0x000A]Rotatorio?
+¿Quieres participar en un Supercombate[0x000A]Múltiple?
+¿Quieres dejar de participar?
+No tienes 3 Pokémon que cumplan los[0x000A]requisitos para poder participar.{0xBE01}[0x000A]Consulta la sección “Ver detalles” para[0x000A]informarte acerca de las reglas de combate.{0xBE01}
+No tienes 4 Pokémon que cumplan los[0x000A]requisitos para poder participar.{0xBE01}[0x000A]Consulta la sección “Ver detalles” para[0x000A]informarte acerca de las reglas de combate.{0xBE01}
+No tienes 6 Pokémon que cumplan los[0x000A]requisitos para poder participar.{0xBE01}[0x000A]Consulta la sección “Ver detalles” para[0x000A]informarte acerca de las reglas de combate.{0xBE01}
+No tienes 4 Pokémon que cumplan los[0x000A]requisitos para poder participar.{0xBE01}[0x000A]Consulta la sección “Ver detalles” para[0x000A]informarte acerca de las reglas de combate.{0xBE01}
+No tienes 2 Pokémon que cumplan los[0x000A]requisitos para poder participar.{0xBE01}[0x000A]Consulta la sección “Ver detalles” para[0x000A]informarte acerca de las reglas de combate.{0xBE01}
+No puedes realizar este Test de Combate.{0xBE01}
+Necesitas al menos un Pokémon para[0x000A]participar.{0xBE01}[0x000A]Selecciona “Ver detalles” para comprobar las[0x000A]reglas.{0xBE01}
+Necesitas al menos dos Pokémon para[0x000A]participar.{0xBE01}[0x000A]Selecciona “Ver detalles” para comprobar las[0x000A]reglas.{0xBE01}
+Necesitas al menos tres Pokémon para[0x000A]participar.{0xBE01}[0x000A]Selecciona “Ver detalles” para comprobar las[0x000A]reglas.{0xBE01}
+Necesitas al menos cuatro Pokémon para[0x000A]participar.{0xBE01}[0x000A]Selecciona “Ver detalles” para comprobar las[0x000A]reglas.{0xBE01}
+Necesitas al menos cinco Pokémon para[0x000A]participar.{0xBE01}[0x000A]Selecciona “Ver detalles” para comprobar las[0x000A]reglas.{0xBE01}
+Necesitas al menos seis Pokémon para[0x000A]participar.{0xBE01}[0x000A]Selecciona “Ver detalles” para comprobar las[0x000A]reglas.{0xBE01}
+Sí
+No
+Participar
+Ver detalles
+Salir
+Test de Combate Individual
+Test de Combate Doble
+Combate Individual
+Combate Doble
+Combate Triple
+Combate Rotatorio
+Combate Múltiple
+Supercombate Individual
+Supercombate Doble
+Supercombate Triple
+Supercombate Rotatorio
+Supercombate Múltiple
+Lista de Tests de Combate
+Mansión Batalla
+Individual
+Doble
+Rotatorio
+Múltiple
+Todos los Pokémon pasan a ser de Nv. 50.[0x000A]Pokémon participantes: 3.[0x000A]No podrán usarse dos Pokémon u objetos iguales.[0x000A]No se admiten determinados Pokémon.[0x000A]Queda prohibido el uso de ciertos objetos.[0x000A]
+Todos los Pokémon pasan a ser de Nv. 50.[0x000A]Pokémon participantes: 4.[0x000A]No podrán usarse dos Pokémon u objetos iguales.[0x000A]No se admiten determinados Pokémon.[0x000A]Queda prohibido el uso de ciertos objetos.
+El nivel de los Pokémon se reduce a Nv. 50[0x000A]en caso de que lo sobrepasen.[0x000A]Pokémon participantes: 3.[0x000A]No podrán usarse dos Pokémon u objetos iguales.[0x000A]No se admiten determinados Pokémon.[0x000A]Queda prohibido el uso de ciertos objetos.
+El nivel de los Pokémon se reduce a Nv. 50[0x000A]en caso de que lo sobrepasen.[0x000A]Pokémon participantes: 4.[0x000A]No podrán usarse dos Pokémon u objetos iguales.[0x000A]No se admiten determinados Pokémon.[0x000A]Queda prohibido el uso de ciertos objetos.
+El nivel de los Pokémon se reduce a Nv. 50[0x000A]en caso de que lo sobrepasen.[0x000A]Pokémon participantes: 6.[0x000A]No podrán usarse dos Pokémon u objetos iguales.[0x000A]No se admiten determinados Pokémon.[0x000A]Queda prohibido el uso de ciertos objetos.
+El nivel de los Pokémon se reduce a Nv. 50[0x000A]en caso de que lo sobrepasen.[0x000A]Pokémon participantes: 4.[0x000A]No podrán usarse dos Pokémon u objetos iguales.[0x000A]No se admiten determinados Pokémon.[0x000A]Queda prohibido el uso de ciertos objetos.
+El nivel de los Pokémon se reduce a Nv. 50[0x000A]en caso de que lo sobrepasen.[0x000A]Pokémon participantes: 2.[0x000A]No podrán usarse dos Pokémon u objetos iguales.[0x000A]No se admiten determinados Pokémon.[0x000A]Queda prohibido el uso de ciertos objetos.[0x000A]Debes formar equipo con un amigo o conocido.
+El nivel de los Pokémon se reduce a Nv. 50[0x000A]en caso de que lo sobrepasen.[0x000A]Pokémon participantes: 3.[0x000A]No podrán usarse dos Pokémon u objetos iguales.[0x000A]No se admiten determinados Pokémon.[0x000A]Queda prohibido el uso de ciertos objetos.
+El nivel de los Pokémon se reduce a Nv. 50[0x000A]en caso de que lo sobrepasen.[0x000A]Pokémon participantes: 4.[0x000A]No podrán usarse dos Pokémon u objetos iguales.[0x000A]No se admiten determinados Pokémon.[0x000A]Queda prohibido el uso de ciertos objetos.
+El nivel de los Pokémon se reduce a Nv. 50[0x000A]en caso de que lo sobrepasen.[0x000A]Pokémon participantes: 6.[0x000A]No podrán usarse dos Pokémon u objetos iguales.[0x000A]No se admiten determinados Pokémon.[0x000A]Queda prohibido el uso de ciertos objetos.
+El nivel de los Pokémon se reduce a Nv. 50[0x000A]en caso de que lo sobrepasen.[0x000A]Pokémon participantes: 4.[0x000A]No podrán usarse dos Pokémon u objetos iguales.[0x000A]No se admiten determinados Pokémon.[0x000A]Queda prohibido el uso de ciertos objetos.
+El nivel de los Pokémon se reduce a Nv. 50[0x000A]en caso de que lo sobrepasen.[0x000A]Pokémon participantes: 2.[0x000A]No podrán usarse dos Pokémon u objetos iguales.[0x000A]No se admiten determinados Pokémon.[0x000A]Queda prohibido el uso de ciertos objetos.[0x000A]Debes formar equipo con un amigo o conocido.
+Triple

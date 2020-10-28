@@ -1,0 +1,264 @@
+Elige el número de Pokéhabas que quieres[0x000A]meter en la caja.{0x0114,0x002F}
+¡Menuda alegría se van a llevar los Pokémon!{0x0114,0x002F}
+Todavía hay Pokéhabas activas. Puedes meter[0x000A]más en la caja cuando se vacíe.{0x0114,0x002F}
+¡Mete Pokéhabas en la cesta cuando tus[0x000A]Pokémon estén de visita para hacerlos felices!{0x0114,0x002F}
+¿Qué puedo hacer por ti?{0x0114,0x002F}
+Ya has enviado un frasco hoy. Solo se puede[0x000A]mandar uno al día.{0x0114,0x002F}
+Se enviará el Frasco de Pokéhabas con siete[0x000A]Pokéhabas Lisas dentro. ¿Te parece bien?{0x0114,0x002F}
+¡No tienes Pokéhabas!{0xBE01}[0x000A]Pero eso tiene fácil solución: recoge las que[0x000A]haya desperdigadas en Cayo Recreo.{0x0114,0x002F}
+¡Chachi! Entonces dejaré que la marea se[0x000A]lleve el Frasco de Pokéhabas.{0x0114,0x002F}
+Ojalá que la fortuna te sonría hoy.{0x0114,0x002F}
+No dispones de suficientes Pokémon en tus [0x000A]cajas para desarrollar ese resort.{0x0114,0x002F}
+No dispones del número de Pokéhabas Lisas[0x000A]necesarias para desarrollar ese resort.{0x0114,0x002F}
+¡Chachi! Las obras comenzarán enseguida.{0x0114,0x002F}
+{0xBDFF:0x000D}
+Yo diría que ese resort se puede desarrollar.{0x0114,0x002F}
+Elige el número de Pokéhabas que deseas[0x000A]intercambiar.{0x0114,0x002F}
+No puedes llevar más Pokéhabas Lisas de las[0x000A]que ya tienes.{0x0114,0x002F}
+No tienes Pokéhabas para intercambiar, por[0x000A]desgracia.{0xBE01}[0x000A]Te daré 3 Pokéhabas Lisas por cada Pokéhaba[0x000A]Decorada y 7 por cada Pokéhaba Irisada.{0x0114,0x002F}
+¡No tienes Pokéhabas Lisas suficientes!{0xBE01}[0x000A]Para enviar un Frasco de Pokéhabas tienes que[0x000A]meter dentro 7 Pokéhabas Lisas.{0xBE01}[0x000A]Procura recoger todas las que puedas en Cayo[0x000A]Recreo.{0x0114,0x002F}
+{0xBE05,0x0002}Has obtenido {0x0202,0x0000} Pokéhaba{0x1101,0x0000,0x0100}s Lisa{0x1101,0x0000,0x0100}s.{0xBE05,0x0003}
+¿Qué bayas quieres plantar?{0x0114,0x002F}
+¡Chachi! Ahora solo queda esperar la cosecha[0x000A]con ilusión.{0x0114,0x002F}
+No dispones de bayas.{0x0114,0x002F}
+No puedes plantar bayas si no tienes Pokémon[0x000A]que se encarguen de cuidarlas.{0xBE01}[0x000A]Captura más Pokémon y deposítalos en las[0x000A]cajas.{0x0114,0x002F}
+{0xBE05,0x0000}La expedición ha dado sus frutos.{0xBE01}[0x000A]¡Este botín es para ti!{0xBE05,0x0001}{0x0114,0x002F}
+No hay ningún objeto en el cofre.{0x0114,0x002F}
+¿Qué ruta se debería seguir en la expedición?{0x0114,0x002F}
+¡Muy bien! ¡Comienza la exploración de la cueva!{0xBE01}[0x000A]¡Ojalá te reporte un buen botín!{0x0114,0x002F}
+No puedes explorar la cueva sin Pokémon.{0xBE01}[0x000A]Captura más Pokémon y deposítalos en las[0x000A]cajas.{0x0114,0x002F}
+¿Quieres cancelar la expedición actual?{0x0114,0x002F}
+¡Vale! Se ha cancelado la expedición.{0xBE01}[0x000A]Si quieres emprender otra, no tienes más que[0x000A]tocar el cartel para decírmelo.{0x0114,0x002F}
+No parece haber Pokémon.{0xBE01}[0x000A]¡Usa Pokéhabas cuando los Pokémon partan de[0x000A]expedición para hacerlos felices!{0x0114,0x002F}
+No se ha emprendido ninguna expedición.{0xBE01}[0x000A]¡Usa Pokéhabas cuando los Pokémon partan de[0x000A]expedición para hacerlos felices!{0x0114,0x002F}
+¿Podrías recoger lo que hay en el cofre antes[0x000A]de que parta la siguiente expedición?
+Escoge qué Pokémon quieres entrenar a base[0x000A]de ejercicios sanos y divertidos.{0x0114,0x002F}
+¿Qué bebida en concreto quieres preparar?{0x0114,0x002F}
+¿Cuántas sesiones de ejercicio vas a programar[0x000A]para este grupo?{0x0114,0x002F}
+¡Chachi!{0xBE01}[0x000A]Cualquier Pokémon lo pasa en grande con este[0x000A]tipo de ejercicios, porque puede volverse más{0xBE00}[0x000A]fuerte mientras disfruta jugando.{0x0114,0x002F}
+Aquí uno se lo pasa pipa jugando y haciendo[0x000A]ejercicio a la vez.{0x0114,0x002F}
+¿Quieres interrumpir la sesión?{0x0114,0x002F}
+¡Vale! Se ha interrumpido la sesión.{0xBE01}[0x000A]Cuando quieras retirar Pokémon, toca el[0x000A]cartel para avisarme.{0x0114,0x002F}
+¿Has venido a retirar los Pokémon?{0x0114,0x002F}
+Si no te importa, ¿podrías meter de nuevo en las[0x000A]cajas a todos los Pokémon?{0xBE01}[0x000A]Antes de invitar a otros Pokémon me gustaría[0x000A]inspeccionar esta zona recreativa.{0x0114,0x002F}
+¡Perfecto! Esta zona recreativa ya está lista de[0x000A]nuevo.{0xBE01}[0x000A]Si quieres que los Pokémon se diviertan[0x000A]ejercitándose aquí, ¡dame un toque!{0x0114,0x002F}
+Por lo visto, no tienes espacio suficiente en tus[0x000A]cajas.{0xBE01}[0x000A]Vuelve cuando las hayas reorganizado para[0x000A]poder retirar los Pokémon.{0x0114,0x002F}
+No hay Pokémon jugando aquí.{0xBE01}[0x000A]Lo primero es lo primero: ¿qué tal si invitas a[0x000A]algún Pokémon a hacer ejercicio?{0x0114,0x002F}
+No hay ninguna sesión activa.{0xBE01}[0x000A]¡Usa Pokéhabas cuando los Pokémon estén[0x000A]jugando para hacerlos felices!{0x0114,0x002F}
+Elige a qué Pokémon quieres agasajar con un[0x000A]baño termal bien relajante.{0x0114,0x002F}
+Vale, enviaré a {0x0101,0x0000} a la caja.{0x0114,0x002F}
+Este Huevo podría eclosionar de un momento a[0x000A]otro, pero me temo que en tus cajas no hay{0xBE00}[0x000A]espacio suficiente.{0xBE01}[0x000A]¿Qué tal si las reorganizas un poco para hacerle[0x000A]un hueco al Pokémon de su interior?{0x0114,0x002F}
+Este Huevo está a punto de eclosionar.{0x0114,0x002F}
+Este Huevo debería de abrirse pronto.{0x0114,0x002F}
+A este Huevo aún le queda para eclosionar...{0x0114,0x002F}
+¡Usa Pokéhabas cuando tus Pokémon estén[0x000A]de visita para hacerlos felices!{0x0114,0x002F}
+¡Chachi! Los Pokémon se alegrarán horrores, de[0x000A]eso no me cabe la menor duda.{0x0114,0x002F}
+¡Chachi! Los Pokémon se van a llevar un buen[0x000A]alegrón.{0xBE01}[0x000A]Seguro que ponen mucho más ahínco en sus[0x000A]tareas a partir de ahora.{0x0114,0x002F}
+¡Chachi! Los Pokémon se van a llevar un buen[0x000A]alegrón.{0xBE01}[0x000A]Seguro que ahora partirán de aventuras con[0x000A]mayor ilusión todavía.{0x0114,0x002F}
+¡Chachi! Los Pokémon se van a llevar un buen[0x000A]alegrón.{0xBE01}[0x000A]Seguro que ahora disfrutarán aún más al hacer[0x000A]ejercicio.{0x0114,0x002F}
+¡Chachi! Los Pokémon se van a llevar un buen[0x000A]alegrón.{0xBE01}[0x000A]Seguro que se relajan aún más a partir de ahora.{0x0114,0x002F}
+{0xBE05,0x0004}Ha aumentado la probabilidad de que aparezcan[0x000A]Pokémon salvajes.{0xBE05,0x0005}{0x0114,0x002F}
+{0xBE05,0x0004}Se ha duplicado la velocidad a la que crecen[0x000A]las bayas.{0xBE05,0x0005}{0x0114,0x002F}
+{0xBE05,0x0004}Se ha duplicado la velocidad a la que los[0x000A]Pokémon realizan su expedición.{0xBE05,0x0005}{0x0114,0x002F}
+{0xBE05,0x0004}Se ha duplicado la velocidad a la que hacen[0x000A]ejercicio los Pokémon.{0xBE05,0x0005}{0x0114,0x002F}
+{0xBE05,0x0004}Los Pokémon se relajarán con más facilidad.{0xBE05,0x0005}{0x0114,0x002F}
+¿Quieres saber más cosas de {0x0102,0x0000}?{0x0114,0x002F}
+¡El {0x0101,0x0000} salvaje parece feliz por tus[0x000A]atenciones!{0xBE01}[0x000A]¡A este paso seguro que se queda en tu Poké[0x000A]Resort!{0xBE01}[0x000A]¡Chachi! Pásate de nuevo por aquí mañana a[0x000A]ver si es verdad.{0x0114,0x002F}
+¡{0x0102,0x0000} parece feliz!{0x0114,0x002F}
+¡{0x0101,0x0000} parece feliz!{0x0114,0x002F}
+¡Se ve que {0x0102,0x0000} es de naturaleza[0x000A]fuerte!{0x0114,0x002F}
+¡Se ve que {0x0102,0x0000} es de naturaleza[0x000A]huraña!{0x0114,0x002F}
+¡Se ve que {0x0102,0x0000} es de naturaleza[0x000A]audaz!{0x0114,0x002F}
+¡Se ve que {0x0102,0x0000} es de naturaleza[0x000A]firme!{0x0114,0x002F}
+¡Se ve que {0x0102,0x0000} es de naturaleza[0x000A]pícara!{0x0114,0x002F}
+¡Se ve que {0x0102,0x0000} es de naturaleza[0x000A]osada!{0x0114,0x002F}
+¡Se ve que {0x0102,0x0000} es de naturaleza[0x000A]dócil!{0x0114,0x002F}
+¡Se ve que {0x0102,0x0000} es de naturaleza[0x000A]plácida!{0x0114,0x002F}
+¡Se ve que {0x0102,0x0000} es de naturaleza[0x000A]agitada!{0x0114,0x002F}
+¡Se ve que {0x0102,0x0000} es de naturaleza[0x000A]floja!{0x0114,0x002F}
+¡Se ve que {0x0102,0x0000} es de naturaleza[0x000A]miedosa!{0x0114,0x002F}
+¡Se ve que {0x0102,0x0000} es de naturaleza[0x000A]activa!{0x0114,0x002F}
+¡Se ve que {0x0102,0x0000} es de naturaleza[0x000A]seria!{0x0114,0x002F}
+¡Se ve que {0x0102,0x0000} es de naturaleza[0x000A]alegre!{0x0114,0x002F}
+¡Se ve que {0x0102,0x0000} es de naturaleza[0x000A]ingenua!{0x0114,0x002F}
+¡Se ve que {0x0102,0x0000} es de naturaleza[0x000A]modesta!{0x0114,0x002F}
+¡Se ve que {0x0102,0x0000} es de naturaleza[0x000A]afable!{0x0114,0x002F}
+¡Se ve que {0x0102,0x0000} es de naturaleza[0x000A]mansa!{0x0114,0x002F}
+¡Se ve que {0x0102,0x0000} es de naturaleza[0x000A]tímida!{0x0114,0x002F}
+¡Se ve que {0x0102,0x0000} es de naturaleza[0x000A]alocada!{0x0114,0x002F}
+¡Se ve que {0x0102,0x0000} es de naturaleza[0x000A]serena!{0x0114,0x002F}
+¡Se ve que {0x0102,0x0000} es de naturaleza[0x000A]amable!{0x0114,0x002F}
+¡Se ve que {0x0102,0x0000} es de naturaleza[0x000A]grosera!{0x0114,0x002F}
+¡Se ve que {0x0102,0x0000} es de naturaleza[0x000A]cauta!{0x0114,0x002F}
+¡Se ve que {0x0102,0x0000} es de naturaleza[0x000A]rara!{0x0114,0x002F}
+¿Qué tal si incorporas a {0x0102,0x0000} a tu[0x000A]equipo? ¡Porque yo diría que tiene ganas de{0xBE00}[0x000A]jugar contigo!{0x0114,0x002F}
+A {0x0101,0x0000} parece encantarle el Poké[0x000A]Resort.{0x0114,0x002F}
+A {0x0101,0x0000} tienen pinta de gustarle los[0x000A]combates Pokémon.{0x0114,0x002F}
+¿Qué tal si incorporas a {0x0101,0x0000} a tu[0x000A]equipo? ¡Porque yo diría que le hace mucha{0xBE00}[0x000A]ilusión vivir aventuras contigo!{0x0114,0x002F}
+{0x0101,0x0000} estaba jugando junto a[0x000A]{0x0101,0x0001} hace un rato.{0xBE01}[0x000A]¿Será este el comienzo de una bonita amistad?{0x0114,0x002F}
+{0xBDFF:0x0062}
+{0xBDFF:0x0063}
+{0xBDFF:0x0064}
+{0xBDFF:0x0065}
+{0x0101,0x0000} ha traído una Pokéhaba.{0x0114,0x002F}
+{0xBE05,0x0002}Has obtenido una Pokéhaba Lisa.{0xBE05,0x0003}{0x0114,0x002F}
+{0xBE05,0x0002}Has obtenido una Pokéhaba Decorada.{0xBE05,0x0003}{0x0114,0x002F}
+{0xBE05,0x0002}Has obtenido una Pokéhaba Irisada.{0xBE05,0x0003}
+Cayo Activo parece haberle llamado la atención[0x000A]a {0x0101,0x0000}.{0xBE01}[0x000A]¿Qué tal si invitas a este Pokémon a una sesión[0x000A]de ejercicios?{0x0114,0x002F}
+Cayo Termal parece haberle llamado la atención[0x000A]a {0x0101,0x0000}.{0xBE01}[0x000A]¿Qué tal si invitas a este Pokémon a un baño[0x000A]relajante?{0x0114,0x002F}
+¿Eh?{0xBE01}[0x000A]¡Por lo visto un Pokémon salvaje ha venido a[0x000A]visitarte!{0xBE01}[0x000A]Seguro que las Pokéhabas han servido de[0x000A]reclamo.{0x0114,0x002F}
+Al {0x0101,0x0000} salvaje le ha gustado tanto[0x000A]tu Poké Resort que se ha quedado por aquí.{0xBE01}[0x000A]Como a este Pokémon no lo vas a quitar de aquí[0x000A]ni con espátula, ¿qué tal si trabas amistad?{0x0114,0x002F}
+¿De veras? Pues es una pena.{0xBE01}[0x000A]Si cambias de idea, dame un toque.{0x0114,0x002F}
+Las cajas están llenas a rebosar de Pokémon.[0x000A]¡Vuelve cuando las hayas reorganizado un poco!{0x0114,0x002F}
+¡Así se habla!{0xBE01}[0x000A]¡Colma de mimos a {0x0101,0x0000}!{0x0114,0x002F}
+{0xBDFF:0x0071}
+{0xBDFF:0x0072}
+{0xBDFF:0x0073}
+{0xBDFF:0x0074}
+{0x0101,0x0000} se está entregando en cuerpo[0x000A]y alma al cultivo del huerto.{0x0114,0x002F}
+A {0x0101,0x0000} parece gustarle ayudar a los[0x000A]demás Pokémon.{0x0114,0x002F}
+{0x0101,0x0000} es un hacha protegiendo las[0x000A]bayas frente a Pokémon insecto.{0x0114,0x002F}
+{0x0101,0x0000} tiene pinta de ser un Pokémon[0x000A]muy meticuloso plantando bayas.{0x0114,0x002F}
+{0x0101,0x0000} ha causado un estropicio en[0x000A]el huerto al intentar proteger las bayas frente{0xBE00}[0x000A]a Pokémon insecto.{0x0114,0x002F}
+¡{0x0101,0x0000} estaba catando bayas a[0x000A]hurtadillas!{0x0114,0x002F}
+Seguramente, lo que más le llama la atención a[0x000A]{0x0101,0x0000} es lo de regar bayas.{0x0114,0x002F}
+A {0x0101,0x0000} parece gustarle contemplar[0x000A]el huerto de bayas.{0x0114,0x002F}
+{0x0101,0x0000} es un hacha espantando a los[0x000A]Pokémon insecto.{0x0114,0x002F}
+{0x0101,0x0000} se zampa de vez en cuando[0x000A]alguna baya como quien no quiere la cosa.{0x0114,0x002F}
+{0x0101,0x0000} no se corta un pelo a la hora[0x000A]de esparcir fertilizante.{0x0114,0x002F}
+A {0x0101,0x0000} se le da fenomenal lo de[0x000A]esparcir fertilizante.{0x0114,0x002F}
+{0x0101,0x0000} arranca las malas hierbas[0x000A]hasta no dejar ni una.{0x0114,0x002F}
+{0x0101,0x0000} estaba disfrutando de lo lindo[0x000A]cultivando el huerto.{0x0114,0x002F}
+{0x0101,0x0000} se pasa el día catando bayas.{0x0114,0x002F}
+{0x0101,0x0000} siempre esparce más bien[0x000A]poco fertilizante.{0x0114,0x002F}
+{0x0101,0x0000} planta las bayas siempre con[0x000A]sumo cuidado.{0x0114,0x002F}
+{0x0101,0x0000} cuida del huerto con extrema[0x000A]eficiencia.{0x0114,0x002F}
+{0x0101,0x0000} arranca las malas hierbas en[0x000A]un visto y no visto.{0x0114,0x002F}
+{0x0101,0x0000} se olvida a veces de esparcir[0x000A]fertilizante.{0x0114,0x002F}
+A {0x0101,0x0000} parece gustarle la labor de[0x000A]cultivar el huerto.{0x0114,0x002F}
+{0x0101,0x0000} procura regar las bayas con[0x000A]asiduidad.{0x0114,0x002F}
+{0x0101,0x0000} parece considerarse el mejor[0x000A]Pokémon a la hora de regar bayas.{0x0114,0x002F}
+{0x0101,0x0000} hace gala de una delicadeza[0x000A]extraordinaria al plantar bayas.{0x0114,0x002F}
+Por lo visto, {0x0101,0x0000} cata alguna baya[0x000A]a hurtadillas de vez en cuando.{0x0114,0x002F}
+{0x0102,0x0000} parece estar en plena forma.{0x0114,0x002F}
+{0x0102,0x0000} se ha ejercitado mucho.[0x000A]Ha subido {0x0202,0x0001} nivel{0x1101,0x0001,0x0200}es.{0x0114,0x002F}
+{0x0102,0x0000} se ha ejercitado mucho.[0x000A]Ha subido {0x0202,0x0001} nivel{0x1101,0x0001,0x0200}es.{0xBE01}[0x000A]¡Más no se le puede pedir, creo yo!{0x0114,0x002F}
+{0x0102,0x0000} parece en plena forma.{0xBE01}[0x000A]Yo diría que no puede subir más de nivel.{0x0114,0x002F}
+Los PS de base de {0x0102,0x0000}[0x000A]han aumentado {0x0202,0x0001} punto{0x1101,0x0001,0x0100}s.{0x0114,0x002F}
+Los PS de base de {0x0102,0x0000}[0x000A]han aumentado {0x0202,0x0001} punto{0x1101,0x0001,0x0100}s.{0xBE01}[0x000A]¡Más no se le puede pedir, creo yo!{0x0114,0x002F}
+{0x0102,0x0000} parece en plena forma.{0xBE01}[0x000A]Yo diría que no puede aumentar más sus PS de[0x000A]base.
+Ha aumentado {0x0202,0x0001} punto{0x1101,0x0001,0x0100}s el Ataque de base[0x000A]de {0x0102,0x0000}.{0x0114,0x002F}
+Ha aumentado {0x0202,0x0001} punto{0x1101,0x0001,0x0100}s el Ataque de base[0x000A]de {0x0102,0x0000}.{0xBE01}[0x000A]¡Más no se le puede pedir, creo yo!{0x0114,0x002F}
+{0x0102,0x0000} parece en plena forma.{0xBE01}[0x000A]Yo diría que no puede aumentar más su Ataque[0x000A]de base.
+Ha aumentado {0x0202,0x0001} punto{0x1101,0x0001,0x0100}s la Defensa de base[0x000A]de {0x0102,0x0000}.{0x0114,0x002F}
+Ha aumentado {0x0202,0x0001} punto{0x1101,0x0001,0x0100}s la Defensa de base[0x000A]de {0x0102,0x0000}.{0xBE01}[0x000A]¡Más no se le puede pedir, creo yo!{0x0114,0x002F}
+{0x0102,0x0000} parece en plena forma.{0xBE01}[0x000A]Yo diría que no puede aumentar más su Defensa[0x000A]de base.
+Ha aumentado {0x0202,0x0001} punto{0x1101,0x0001,0x0100}s el Ataque Especial[0x000A]de base de {0x0102,0x0000}.{0x0114,0x002F}
+Ha aumentado {0x0202,0x0001} punto{0x1101,0x0001,0x0100}s el Ataque Especial[0x000A]de base de {0x0102,0x0000}.{0xBE01}[0x000A]¡Más no se le puede pedir, creo yo!{0x0114,0x002F}
+{0x0102,0x0000} parece en plena forma.{0xBE01}[0x000A]Yo diría que no puede aumentar más su Ataque[0x000A]Especial de base.
+Ha aumentado {0x0202,0x0001} punto{0x1101,0x0001,0x0100}s la Defensa Especial[0x000A]de base de {0x0102,0x0000}.{0x0114,0x002F}
+Ha aumentado {0x0202,0x0001} punto{0x1101,0x0001,0x0100}s la Defensa Especial[0x000A]de base de {0x0102,0x0000}.{0xBE01}[0x000A]¡Más no se le puede pedir, creo yo!{0x0114,0x002F}
+{0x0102,0x0000} parece en plena forma.{0xBE01}[0x000A]Yo diría que no puede aumentar más su Defensa[0x000A]Especial de base.
+Ha aumentado {0x0202,0x0001} punto{0x1101,0x0001,0x0100}s la Velocidad de base[0x000A]de {0x0102,0x0000}.{0x0114,0x002F}
+Ha aumentado {0x0202,0x0001} punto{0x1101,0x0001,0x0100}s la Velocidad de base[0x000A]de {0x0102,0x0000}.{0xBE01}[0x000A]¡Más no se le puede pedir, creo yo!{0x0114,0x002F}
+{0x0102,0x0000} parece en plena forma.{0xBE01}[0x000A]Me da a mí que ya no puede aumentar más su[0x000A]Velocidad de base.
+A {0x0102,0x0000} parece gustarle Cayo Termal.{0x0114,0x002F}
+{0x0102,0x0000} se está relajando.{0x0114,0x002F}
+{0x0102,0x0000} se está relajando un montón.{0x0114,0x002F}
+{0x0102,0x0000} ha alcanzado el grado de relax[0x000A]máximo.{0x0114,0x002F}
+Tanto baño parecía que le iba a provocar un[0x000A]bajón de tensión a {0x0102,0x0000}.{0xBE01}[0x000A]¡Pero en cuanto te ha visto, se ha recuperado[0x000A]al instante!{0x0114,0x002F}
+{0xBDFF:0x00A9}
+{0xBDFF:0x00AA}
+{0xBDFF:0x00AB}
+{0xBDFF:0x00AC}
+{0xBDFF:0x00AD}
+{0xBDFF:0x00AE}
+{0xBDFF:0x00AF}
+{0xBDFF:0x00B0}
+{0xBDFF:0x00B1}
+{0xBDFF:0x00B2}
+¡Bienvenid{0x1100,0x00FF,0x0101}oa al Poké Resort! Unas islas desiertas[0x000A]dedicadas al esparcimiento de los Pokémon.{0xBE01}[0x000A]Uy, ¿pero dónde están mis modales? Ni siquiera[0x000A]me he presentado como es debido.{0xBE01}[0x000A]Me llamo Polo y soy el gerente del Poké Resort.{0x0114,0x0030}
+¡Me alegro de volver a verte!{0xBE01}[0x000A]¡Bienvenid{0x1100,0x00FF,0x0101}oa al Poké Resort! Unas islas desiertas[0x000A]dedicadas al esparcimiento de los Pokémon.{0xBE01}[0x000A]Por si no te acuerdas, yo me llamo Polo y soy el[0x000A]gerente.{0x0114,0x002F}
+Y tú te llamas {0x0100,0x0000}, ¿verdad?[0x000A]¡Encantado de conocerte!{0xBE01}[0x000A]Chachi. Hechas las presentaciones de rigor,[0x000A]¿qué tal si me echas una mano?{0x0114,0x002F}
+Los Pokémon que tengas en tus Cajas del PC[0x000A]pueden visitar el Poké Resort con plena libertad.{0xBE01}[0x000A]De momento, no hay más que una isla pequeña,[0x000A]pero seguro que eso cambiará con tu ayuda.{0xBE01}[0x000A]Pero vayamos pasito a pasito. Para empezar,[0x000A]¿podrías recoger las Pokéhabas que hay{0xBE00}[0x000A]tiradas por ahí?{0x0114,0x002F}
+A los Pokémon les encantan las Pokéhabas que[0x000A]crecen en el árbol plantado en medio de la isla.{0xBE01}[0x000A]Y no es para menos, porque son muy nutritivas[0x000A]y tienen un sabor exquisito.{0xBE01}[0x000A]La que has recogido es una Pokéhaba Lisa, pero[0x000A]en el futuro también podrás encontrar otras más{0xBE00}[0x000A]raras: las Pokéhabas Irisadas y las Pokéhabas{0xBE00}[0x000A]Decoradas.{0xBE01}[0x000A]Pero ya sabes lo que dicen: ¡el movimiento se[0x000A]demuestra andando! Prueba a sacudir el árbol.{0x0114,0x002F}
+Acabas de verlo con tus propios ojos: al sacudir[0x000A]el árbol caen las Pokéhabas que haya.{0xBE01}[0x000A]Y ya sabes, tanto si son habas contadas como[0x000A]si no, ¡debes recogerlas todas toditas todas!{0xBE01}[0x000A]¿Qué te parece? Está chupado, ¿no?{0xBE01}[0x000A]Si ves que no caen más, basta con esperar al[0x000A]día siguiente.{0x0114,0x002F}
+Mete las Pokéhabas que recojas en la caja de[0x000A]Pokéhabas.{0xBE01}[0x000A]Así los Pokémon a los que les rujan las tripas[0x000A]podrán saciar su hambre en cualquier momento.{0x0114,0x002F}
+Para ti es una caja normal y corriente, ¡pero los[0x000A]Pokémon la ven como un cofre del tesoro!{0xBE00}[0x000A]Cuando se zampan alguna Pokéhaba, se vuelven{0xBE00}[0x000A]pletóricos.{0xBE01}[0x000A]Las Pokéhabas de la caja también atraen a los[0x000A]Pokémon salvajes, que te harán una visita con{0xBE00}[0x000A]el objetivo de llevárselas a la boca.{0xBE01}[0x000A]¿No te pica la curiosidad por descubrir qué[0x000A]Pokémon podrían venir a visitarte?{0x0114,0x002F}
+¡Ah, y ten en cuenta que cuanto más rara sea la[0x000A]Pokéhaba en cuestión, más durará el efecto!{0xBE01}[0x000A]En cualquier caso, tú procura que la caja esté[0x000A]llena a rebosar.{0xBE01}[0x000A]Si quieres verme, no te cortes y pulsa el icono[0x000A]de la Choza Flotante.{0x0114,0x002F}
+Esta es mi humilde morada: ¡la Choza Flotante!{0xBE01}[0x000A]El día que decidí convertir estas islas desiertas[0x000A]en un resort para el disfrute de los Pokémon, me{0xBE00}[0x000A]puse a construirla yo solito, ¡y a mucha honra!{0xBE01}[0x000A]Tiene todo lo necesario para administrar el Poké[0x000A]Resort.{0x0114,0x002F}
+¡A todo esto, {0x0100,0x0000}!{0xBE01}[0x000A]Como creo que eres un{0x1100,0x00FF,0x0100}a Entrenador{0x1100,0x00FF,0x0100}a talentos{0x1100,0x00FF,0x0101}oa,[0x000A]me gustaría pedirte un favorcillo.{0xBE01}[0x000A]Ahora mismo el Poké Resort no es más que una[0x000A]islita, como un Pokémon de Nivel 1 que acaba{0xBE00}[0x000A]de salir de su Huevo.{0xBE01}[0x000A]Por eso quiero que tus Pokémon y tú me ayudéis[0x000A]a desarrollar los resorts hasta alcanzar nuevas{0xBE00}[0x000A]cotas de excelencia.{0x0114,0x002F}
+Y con desarrollar resorts me refiero a expandir[0x000A]los existentes o a construir unos nuevos.{0xBE01}[0x000A]Para eso cuentas con la inestimable ayuda de[0x000A]los Pokémon depositados en las cajas.{0xBE01}[0x000A]También necesitarás Pokéhabas Lisas. Con el[0x000A]estómago vacío uno no rinde como es debido,{0xBE00}[0x000A]y los Pokémon no son una excepción.{0x0114,0x002F}
+¡Chachi, pues con esto damos por terminada la[0x000A]visita guiada!{0xBE01}[0x000A]Si quieres ayudarme a expandir el Poké Resort,[0x000A]pásate por la Choza Flotante.{0x0114,0x002F}
+Eso es todo por parte de un servidor.{0x0114,0x002F}
+Han concluido las obras para la expansión de[0x000A]Cayo Recreo.{0xBE05,0x0006}{0x0114,0x002F}
+Han concluido las obras para la expansión de[0x000A]Cayo Recreo.{0xBE05,0x0006}{0xBE01}[0x000A]Este resort ha alcanzado su grado de desarrollo[0x000A]máximo.{0x0114,0x002F}
+Han concluido las obras para la construcción de[0x000A]Cayo Brote.{0xBE05,0x0006}{0x0114,0x002F}
+Han concluido las obras para la expansión de[0x000A]Cayo Brote.{0xBE05,0x0006}{0x0114,0x002F}
+Han concluido las obras para la expansión de[0x000A]Cayo Brote.{0xBE05,0x0006}{0xBE01}[0x000A]Este resort ha alcanzado su grado de desarrollo[0x000A]máximo.{0x0114,0x002F}
+Han concluido las obras para la construcción de[0x000A]Cayo Aventura.{0xBE05,0x0006}{0x0114,0x002F}
+Han concluido las obras para la expansión de[0x000A]Cayo Aventura.{0xBE05,0x0006}{0x0114,0x002F}
+Han concluido las obras para la expansión de[0x000A]Cayo Aventura.{0xBE05,0x0006}{0xBE01}[0x000A]Este resort ha alcanzado su grado de desarrollo[0x000A]máximo.{0x0114,0x002F}
+Han concluido las obras para la construcción de[0x000A]Cayo Activo.{0xBE05,0x0006}{0x0114,0x002F}
+Han concluido las obras para la expansión de[0x000A]Cayo Activo.{0xBE05,0x0006}{0x0114,0x002F}
+Han concluido las obras para la expansión de[0x000A]Cayo Activo.{0xBE05,0x0006}{0xBE01}[0x000A]Este resort ha alcanzado su grado de desarrollo[0x000A]máximo.{0x0114,0x002F}
+Han concluido las obras para la construcción de[0x000A]Cayo Termal.{0xBE05,0x0006}{0x0114,0x002F}
+Han concluido las obras para la expansión de[0x000A]Cayo Termal.{0xBE05,0x0006}{0x0114,0x002F}
+Han concluido las obras para la expansión de[0x000A]Cayo Termal.{0xBE05,0x0006}{0xBE01}[0x000A]Este resort ha alcanzado su grado de desarrollo[0x000A]máximo.{0x0114,0x002F}
+Como el árbol de Pokéhabas ha crecido mucho,[0x000A]seguro que dará más Pokéhabas.{0xBE01}[0x000A]Por otro lado, deberían visitarte más Pokémon[0x000A]salvajes.{0xBE01}[0x000A]A los Pokémon, desde luego, parece hacerles[0x000A]mucha ilusión. ¡Cuida bien de este resort!{0x0114,0x002F}
+El árbol de Pokéhabas ha crecido tanto que va[0x000A]a ser todavía más fructífero si cabe.{0xBE01}[0x000A]Además, ¿no te pica la curiosidad por saber qué[0x000A]Pokémon salvajes vendrán a visitarte?{0xBE01}[0x000A]A los Pokémon también parece hacerles mucha[0x000A]ilusión este cambio. ¡Gracias por tu ayuda!{0x0114,0x002F}
+¿Qué, te gusta?{0xBE01}[0x000A]He aprovechado el terreno llano que ofrece para[0x000A]preparar un huerto donde plantar bayas.{0xBE01}[0x000A]Estoy seguro de que los Pokémon se lo van a[0x000A]pasar en grande dedicándose a su cultivo.{0x0114,0x002F}
+Los Pokémon han trabajado duro para ampliar[0x000A]el número de huertos cultivables.{0xBE01}[0x000A]Ya puedes tener plantadas 12 bayas a la vez,[0x000A]sean del tipo que sean.{0xBE01}[0x000A]Ahora también es más fácil regarlas, por lo que[0x000A]obtendrás una cosecha mayor, ¡digo yo!{0xBE01}[0x000A]Los Pokémon también parecen muy contentos[0x000A]con el cambio. ¡Cuida bien de este resort!{0x0114,0x002F}
+¡Ahora se puede cultivar todo el terreno del que[0x000A]dispone Cayo Brote!{0xBE01}[0x000A]Ya puedes tener plantadas 18 bayas a la vez,[0x000A]sean del tipo que sean.{0xBE01}[0x000A]Como regarlas va a ser pan comido, la cosecha[0x000A]que obtendrás será aún mayor, ¡digo yo!{0xBE01}[0x000A]¡Gracias por tu ayuda!{0x0114,0x002F}
+¿Qué, te gusta?{0xBE01}[0x000A]Como había una gran cueva, la he dispuesto de[0x000A]forma que se puedan emprender expediciones.{0xBE01}[0x000A]Estoy seguro de que los Pokémon se divertirán[0x000A]un montón explorando su interior.{0x0114,0x002F}
+Al excavar más la cueva se ha incrementado el[0x000A]número de rutas disponibles.{0xBE01}[0x000A]Es posible que los Pokémon encuentren en su[0x000A]interior piedras de lo más raras.{0xBE01}[0x000A]Los Pokémon parecen entusiasmados con el[0x000A]cambio. ¡Cuida bien de este resort!{0x0114,0x002F}
+Se ha abierto una nueva ruta que llega hasta el[0x000A]propio subsuelo de la isla.{0xBE01}[0x000A]Se podrían llegar a encontrar tesoros de gran[0x000A]valor.{0xBE01}[0x000A]Los Pokémon parecen entusiasmados con el[0x000A]cambio. ¡Gracias por tu ayuda!{0x0114,0x002F}
+¿Qué, te gusta?{0xBE01}[0x000A]He aprovechado la arena y la madera traída por[0x000A]la corriente para construir una zona recreativa.{0xBE01}[0x000A]Aquí los Pokémon podrán fortalecerse mientras[0x000A]se divierten jugando.{0x0114,0x002F}
+Se ha construido una nueva zona recreativa.{0xBE01}[0x000A]Ahora podrás tener hasta 12 Pokémon[0x000A]ejercitándose a la vez que se divierten.{0xBE01}[0x000A]Los Pokémon también parecen muy contentos[0x000A]con el cambio. ¡Cuida bien de este resort!{0x0114,0x002F}
+Ha aumentado el número de zonas recreativas[0x000A]gracias a la madera encontrada bajo la arena.{0xBE01}[0x000A]Ahora podrás invitar hasta 18 Pokémon.{0xBE01}[0x000A]Los Pokémon están como unas castañuelas con[0x000A]este cambio, me da a mí. ¡Gracias por tu ayuda!{0x0114,0x002F}
+¿Qué, te gusta?{0xBE01}[0x000A]He aprovechado el agua caliente que brota del[0x000A]manantial para construir un baño termal.{0xBE01}[0x000A]Aquí los Pokémon podrán relajarse de lo lindo.{0x0114,0x002F}
+Se ha construido un nuevo baño termal.{0xBE01}[0x000A]Ahora puedes tener a 12 Pokémon bañándose a[0x000A]la vez.{0xBE01}[0x000A]Tengo la sensación de que, con el aspecto tan[0x000A]magnífico que tiene ahora la fuente, se van a{0xBE00}[0x000A]relajar más todavía.{0xBE01}[0x000A]Desde luego, los Pokémon parecen estar en el[0x000A]séptimo cielo. ¡Cuida bien de este resort!{0x0114,0x002F}
+Se ha destinado todo el espacio que ofrece este[0x000A]resort a los baños termales.{0xBE01}[0x000A]Ahora puedes tener a 18 Pokémon bañándose a[0x000A]la vez.{0xBE01}[0x000A]La fuente construida se podría catalogar como[0x000A]una joya de la escultura: tal es su belleza que{0xBE00}[0x000A]seguramente los Pokémon se relajarán como{0xBE00}[0x000A]nunca contemplándola.{0xBE01}[0x000A]Desde luego, los Pokémon no podrían estar más[0x000A]cómodos. ¡Gracias por tu ayuda!{0x0114,0x002F}
+Toca el cartel para indicarme qué bayas quieres[0x000A]plantar.{0xBE01}[0x000A]Seguro que esto les hace mucha ilusión a los[0x000A]Pokémon. ¡Cuida bien de este resort!{0x0114,0x002F}
+Toca el cartel para indicarme qué ruta quieres[0x000A]emprender.{0xBE01}[0x000A]Si los Pokémon encuentran algún objeto durante[0x000A]la expedición, lo meterán en el cofre que está en{0xBE00}[0x000A]medio de la isla.{0xBE01}[0x000A]Los Pokémon parecen entusiasmados. ¡Sigue así!{0x0114,0x002F}
+Toca el cartel para indicarme qué Pokémon[0x000A]quieres ver ejercitándose en Cayo Activo y el{0xBE00}[0x000A]tónico que debo preparar.{0xBE01}[0x000A]Dichos tónicos son mi forma de recompensar a[0x000A]aquellos Pokémon que se entregan en cuerpo y{0xBE00}[0x000A]alma.{0xBE01}[0x000A]Estoy seguro de que los Pokémon se lo van a[0x000A]pasar bomba aquí. ¡Cuida bien de este resort!{0x0114,0x002F}
+Toca el cartel para indicarme qué Pokémon[0x000A]quieres invitar a un buen baño.{0xBE01}[0x000A]Estoy seguro de que los Pokémon se llevarán[0x000A]una gran alegría. ¡Cuida bien de este resort!{0x0114,0x002F}
+¡Bienvenid{0x1100,0x00FF,0x0101}oa al Poké Resort! Unas islas desiertas[0x000A]dedicadas al esparcimiento de los Pokémon.{0xBE01}[0x000A]¿Eh?{0xBE01}[0x000A]Por lo que veo, no tienes ningún Pokémon en las[0x000A]Cajas del PC.{0xBE01}[0x000A]Este lugar es un resort dedicado a los Pokémon[0x000A]que tienes en tus cajas, así que vuelve cuando{0xBE00}[0x000A]hayas dejado alguno en ellas.
+Por lo que veo, ya tienes al menos 30 Pokémon[0x000A]en tus cajas...{0xBE01}[0x000A]Como necesitarás más Pokéhabas, ¡yo también[0x000A]voy a tener que ponerme las pilas!{0x0114,0x002F}
+¡Uy, ya tienes al menos 90 Pokémon en tus[0x000A]cajas!{0xBE01}[0x000A]Como necesitarás bastantes más Pokéhabas,[0x000A]¡yo también voy a tener que ponerme las pilas!{0x0114,0x002F}
+¡Veo que ya tienes al menos 150 Pokémon en[0x000A]tus cajas!{0xBE01}[0x000A]Como necesitarás un montón de Pokéhabas, ¡yo[0x000A]también voy a tener que ponerme las pilas!{0x0114,0x002F}
+Cada vez hay menos Pokémon en tus cajas. [0x000A]A este paso no va a quedar ni un alma.{0xBE01}[0x000A]Te estaría eternamente agradecido si dejaras al[0x000A]menos la modesta cifra de 30 Pokémon en ellas.{0x0114,0x002F}
+Cada vez hay menos Pokémon en tus cajas.[0x000A]Como siga esta tendencia, el Poké Resort va a{0xBE00}[0x000A]acabar algo desangelado.{0xBE01}[0x000A]¡Anda, deja al menos a 90 Pokémon en ellas [0x000A]y dame una alegría!{0x0114,0x002F}
+Cada vez hay menos Pokémon en tus cajas.{0xBE01}[0x000A]Me llevaría una gran alegría si dejaras al menos[0x000A]a 150 Pokémon en ellas.{0x0114,0x002F}
+¡Bienvenid{0x1100,0x00FF,0x0101}oa al Poké Resort! Unas islas desiertas[0x000A]dedicadas al esparcimiento de los Pokémon que{0xBE00}[0x000A]tienes en tus Cajas del PC.{0xBE01}[0x000A]¿Eh? Por lo que veo, las tuyas están vacías.{0xBE01}[0x000A]Atrapa a muchos Pokémon y pásate por aquí[0x000A]de nuevo cuando tengas alguno en tus cajas.{0x0114,0x002F}
+Hay algún resort que podrías desarrollar.{0xBE01}[0x000A]Te estaré esperando en la Choza Flotante si me[0x000A]necesitas.{0x0114,0x002F}
+¡Enhorabuena, {0x0100,0x0000}![0x000A]¡El Poké Resort ha alcanzado la perfección!{0xBE01}[0x000A]Todo gracias a tu inestimable colaboración.[0x000A]¡No sabes cuán agradecido te estoy!{0xBE01}[0x000A]Y no solo de palabra. Toma, he aquí un pequeño[0x000A]obsequio por tu buen hacer.{0x0114,0x002F}
+{0xBE05,0x0002}Has obtenido 10 Pokéhabas Irisadas.{0xBE05,0x0003}{0x0114,0x002F}
+¡Espero que le sigas sacando el máximo partido[0x000A]al Poké Resort!
+Es la primera vez que vas a enviar un Frasco de[0x000A]Pokéhabas, ¿no? Como su nombre indica, es...{0xBE00}[0x000A]un frasco que contiene Pokéhabas.{0xBE01}[0x000A]En algunas ocasiones acaban recalando en los[0x000A]resorts, traídos por las corrientes marinas.{0xBE01}[0x000A]Son un modo de contactar con otras personas[0x000A]de algún lugar remoto a través del ancho mar.{0xBE01}[0x000A]Como ya te podrás imaginar, las personas que[0x000A]los recogen se llevan una grata sorpresa.{0xBE01}[0x000A]Chachi, ¿eh? ¡Romántico a más no poder!{0x0114,0x002F}
+Hacer feliz a otra persona también te reportará[0x000A]alegrías a ti.{0xBE01}[0x000A]¡Prueba a meter Pokéhabas en el frasco y a[0x000A]dejar que se lo lleve la marea!{0xBE01}[0x000A]Ahora bien, ten presente que solo puedes enviar[0x000A]un Frasco de Pokéhabas al día.{0xBE01}[0x000A]Lo de repartir felicidad no es algo que se deba[0x000A]tomar a la ligera. ¡Todo en su justa medida!{0x0114,0x002F}
+No solo hay Pokéhabas Lisas, sino también las[0x000A]llamadas Pokéhabas Decoradas y las{0xBE00}[0x000A]Pokéhabas Irisadas.{0xBE01}[0x000A]Se trata de ejemplares peculiares que a veces[0x000A]encontrarás desperdigados en Cayo Recreo.{0xBE01}[0x000A]Son tan deliciosas que el Pokémon al que se las[0x000A]des estará más contento que unas castañuelas.{0x0114,0x002F}
+A decir verdad, ni yo mismo me resisto a ese[0x000A]sabor tan exquisito: las Pokéhabas Decoradas{0xBE00}[0x000A]e Irisadas son mi perdición.{0xBE01}[0x000A]Con ese aroma tan embriagador y esa textura[0x000A]tan irresistible, en cuanto les hinco el diente ya{0xBE00}[0x000A]no puedo parar hasta atiborrarme.{0xBE01}[0x000A]Esto...{0xBE01}[0x000A]No me mires así, que todos tenemos nuestras[0x000A]debilidades...{0xBE01}[0x000A]Es lógico que cuando uno lleva un buen tiempo[0x000A]dedicado a administrar el Poké Resort, le acaben{0xBE00}[0x000A]enganchando estos pequeños placeres.{0x0114,0x002F}
+¡Vale, trato hecho!{0x0114,0x002F}
+{0xBDFF:0x00F2}
+¿Entonces me vas a ayudar a expandir el Poké[0x000A]Resort? ¡Chachi, muchas gracias!{0xBE01}[0x000A]¡Pues los resorts que se pueden desarrollar son[0x000A]nada más y nada menos que cinco!{0xBE01}[0x000A]Cada uno de ellos tiene sus propios requisitos[0x000A]en cuanto a cantidad de Pokéhabas Lisas y{0xBE00}[0x000A]Pokémon en las cajas.{0x0114,0x002F}
+Puedes comprobar el número concreto en el[0x000A]recuadro que pone “Necesitas”.{0xBE01}[0x000A]¡Pues eso! Dime qué resort quieres desarrollar.{0x0114,0x002F}
+En fin, corramos un tupido velo sobre mis[0x000A]hábitos alimentarios.{0xBE01}[0x000A]Te daré 3 Pokéhabas Lisas por cada Pokéhaba[0x000A]Decorada y 7 por cada Pokéhaba Irisada.{0x0114,0x002F}
+En ese huerto no queda sitio para más bayas.{0xBE01}[0x000A]Recoge primero la cosecha si quieres seguir[0x000A]plantando.{0x0114,0x002F}
+¡El Poké Resort ha alcanzado una perfección que[0x000A]solo en sueños podría haberme imaginado!{0xBE01}[0x000A]¡Chachi! No, más que eso... ¡Chachi piruli!{0xBE01}[0x000A]Y todo esto se debe a tu increíble labor,[0x000A]{0x0100,0x0000}.{0xBE01}[0x000A]¡Un millón de gracias! El Poké Resort te[0x000A]pertenece, tanto a ti como a tus Pokémon.{0xBE01}[0x000A]Espero que le sigas sacando el máximo partido.{0x0114,0x002F}
+Parece que a este Huevo le va a costar abrirse.{0x0114,0x002F}
+¡Te quedan aún un montón de Pokéhabas Lisas![0x000A]Ven a verme cuando te queden menos.{0x0114,0x002F}
+¡Llegas en el momento justo! Este Huevo está a[0x000A]punto de eclosionar.{0x0114,0x002F}
+¡Usa Pokéhabas tras haber plantado algunas[0x000A]bayas para obtener mejores resultados!{0x0114,0x002F}
+¡Hala! He dejado que las corrientes marinas se[0x000A]lleven el Frasco de Pokéhabas.{0x0114,0x002F}
+¿Quieres salir del Poké Resort?{0x0114,0x002F}
+Vale, ¡vuelve cuando quieras!{0x0114,0x002F}
+Ya puedes desarrollar el Cayo Recreo.{0xBE01}[0x000A]Te estaré esperando en la Choza Flotante si me[0x000A]necesitas.{0x0114,0x002F}
+Ya puedes desarrollar el Cayo Brote.{0xBE01}[0x000A]Te estaré esperando en la Choza Flotante si me[0x000A]necesitas.{0x0114,0x002F}
+Ya puedes desarrollar el Cayo Aventura.{0xBE01}[0x000A]Te estaré esperando en la Choza Flotante si me[0x000A]necesitas.{0x0114,0x002F}
+Ya puedes desarrollar el Cayo Activo.{0xBE01}[0x000A]Te estaré esperando en la Choza Flotante si me[0x000A]necesitas.{0x0114,0x002F}
+Ya puedes desarrollar el Cayo Termal.{0xBE01}[0x000A]Te estaré esperando en la Choza Flotante si me[0x000A]necesitas.{0x0114,0x002F}
+{0x0101,0x0000} se ha metido en una Poké Ball.{0x0114,0x002F}
+{0xBDFF:0x0105}
+{0xBDFF:0x0106}
+Le he dado un repasillo a la zona recreativa y he[0x000A]mantenido tu selección de Pokémon.

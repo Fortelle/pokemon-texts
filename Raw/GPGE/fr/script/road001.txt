@@ -1,0 +1,6 @@
+msg_road001_childm_01=Tu vois tous ces petits talus ?[0x000A]Tu peux les enjamber d’un bond !{0xBE01}[0x000A]Ça fait un peu peur, mais ça permet de revenir[0x000A]plus vite à Bourg Palette !
+msg_road001_kanban_01=Route 1[0x000A]Bourg Palette ⇄ Jadielle
+msg_sub001_clerkm_01={0xBDFF:0x0002}
+msg_road001_8rom_01={0xBDFF:0x0003}
+msg_sub001_clerkm_02={0xBDFF:0x0004}
+msg_road001_shortpants_01=Oh, il est joli, le Pokémon qui t’accompagne !{0xBE01}[0x000A]Moi aussi, j’en ai un ! Je vais aller le chercher[0x000A]et après on se fera un combat !

@@ -1,0 +1,17 @@
+msg_main0910_rocketchief_01=ARCHER: You—!
+msg_main0910_rocketf_01=GRUNT: What is it, Mr. Archer?[0x000A]You know that kid?
+msg_main0910_rival_01={0x01CD,0x0001}: Huh? {0x0100,0x0000}?[0x000A]You know that old guy?
+msg_main0910_rocketf_02={0xBDFF:0x0003}
+msg_main0910_rival_02={0xBDFF:0x0004}
+msg_main0910_rocketchief_02=ARCHER: So you’re fool enough to get in our[0x000A]way, is that it?{0xBE01}[0x000A]What brave little {0x1100,0x00FF,0x0804}boyschildren.
+msg_main0910_rival_03={0x01CD,0x0001}: ...Wait, aren’t they the ones[0x000A]who are getting in our way?
+msg_main0910_rocketf_03=GRUNT: Not even![0x000A]Mr. Archer’s saying you’re in his way, all right?!{0xBE00}[0x000A]You want to go home in tears or what?
+msg_main0910_rocketchief_03=ARCHER: Calm yourself!{0xBE01}[0x000A]I’ll teach these children a good lesson.
+msg_main0910_dummy_01={0xBDFF:0x0009}
+msg_main0910_dummy_02={0xBDFF:0x000A}
+msg_main0910_rocketchief_04=ARCHER: So it wasn’t just a stroke of luck that[0x000A]let you beat me last time...{0xBE01}[0x000A]I understand now.[0x000A]We’ll have to be more careful about you two.
+msg_main0910_rocketf_04=GRUNT: Outta the way!
+msg_main0910_rival_04={0x01CD,0x0001}: Ow!
+msg_main0910_rival_05=Hey, look![0x000A]That Grunt dropped something!
+msg_main0910_sys_01=You took the {0xFF00,0x0006}Card Key{0xFF00,0x0000} from {0x0100,0x0001}!
+msg_main0910_rival_06={0x01CD,0x0001}: We’ll just borrow this until all[0x000A]Silph is free!

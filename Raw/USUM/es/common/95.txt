@@ -1,0 +1,167 @@
+Dinero
+{0xBDFF:0x0001}
+PB
+Festimonedas
+{0x0206,0x0000,0xE07F} $
+{0x0204,0x0000,0xE07F} $
+-
+{0xBDFF:0x0007}
+{0x0204,0x0000,0xE07F} PB
+{0x0206,0x0000,0xE07F} FM
+Cancelar
+{0x0109,0x0000}
+{0x0107,0x0000}
+Cancelar la selección y volver al paso anterior.
+Llevas:
+{0x0202,0x0000}
+×
+{0x0201,0x0000}
+¡Aquí tienes! ¡Gracias!
+No tienes suficiente dinero.
+No te caben más en la Bolsa.
+Sí
+No
+¡Bienvenid{0x1100,0x00FF,0x0101}oa a la Tienda Pokémon![0x000A]¿En qué puedo ayudarte?
+¡Bienvenid{0x1100,0x00FF,0x0101}oa a la Tienda Pokémon, Campe{0x1100,0x00FF,0x0302}ónona![0x000A]¿En qué puedo ayudarte?
+Me gustaría comprar algo
+Me gustaría vender algo
+Solo estoy mirando
+¡Vuelve cuando quieras!
+¿Puedo ayudarte en algo más?
+¿Cuánt{0x1100,0x0000,0x0101}oas {0x1001}{0x0109,0x0000} quieres?
+A ver... {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Serán {0x0206,0x0002,0xE07F} $, ¿de acuerdo?
+A ver... {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Serán {0x0206,0x0002,0xE07F} $, ¿de acuerdo?
+Guardas en el Bolsillo {0x0112,0x0001} [0x000A]lo que acabas de comprar.
+También consigues una Honor Ball extra.
+Vaya... Veo que tienes un cupón. Entonces, te[0x000A]puedo descontar {0x0206,0x0000,0xE07F} $ de tu compra.
+Puedes usar hoy tu cupón tantas veces como[0x000A]quieras. ¡Aquí te estaré esperando!
+Este es el mostrador de venta de MT.[0x000A]¿En qué puedo ayudarte?
+¡Ya tienes esa MT!
+¿La MT{0x0202,0x0000} {0x0107,0x0001}? Vale.[0x000A]Te costará {0x0206,0x0002,0xE07F} $. ¿De acuerdo?
+Has puesto la MT {0x0107,0x0000} en el[0x000A]Bolsillo {0x0112,0x0001}.
+¡Muy buenas!{0xBE01}[0x000A]Así que quieres cambiar tus Puntos de Batalla[0x000A]por regalos, ¿eh?
+Sigue acumulando Puntos de Batalla y vuelve[0x000A]por aquí cuando quieras.
+Lo siento mucho, pero no tienes suficientes[0x000A]Puntos de Batalla.
+¿Cuánt{0x1100,0x0000,0x0101}oas {0x1001}{0x0109,0x0000} quieres?
+Pues... {0x0201,0x0001} te costará {0x0206,0x0002,0xE07F} PB.[0x000A]¿Te parece bien?
+Pues... {0x0201,0x0001} te costarán {0x0206,0x0002,0xE07F} PB.[0x000A]¿Te parece bien?
+{0xBDFF:0x002F}
+Ya no está disponible por hoy.[0x000A]Vuelve mañana.
+Ya no está disponible por hoy.[0x000A]Vuelve mañana.
+¿{0x0109,0x0000} es lo que quieres?[0x000A]Pues eso te costará {0x0206,0x0001,0xE07F} FM.
+¿{0x0109,0x0000} es lo que quieres?[0x000A]Pues eso te costará {0x0206,0x0001,0xE07F} FM.
+¡Pues aquí lo llevas![0x000A]¡Gracias y hasta la próxima!
+¡Pues aquí lo tienes![0x000A]¡Gracias y hasta la próxima!
+Has guardado {0x0107,0x0000} en el[0x000A]Bolsillo {0x0112,0x0001}.
+¡Gracias por las Festimonedas!
+¡Gracias por las Festimonedas!
+¡No tienes suficientes Festimonedas!
+¡No tienes suficientes Festimonedas!
+No tienes suficiente espacio en la Bolsa.
+No tienes suficiente espacio en la Bolsa.
+¿Y para qué Pokémon sería?
+¿Y para qué Pokémon sería?
+Me da la impresión de que no tendría ningún[0x000A]efecto en ese Pokémon...
+Me da la impresión de que no tendría ningún[0x000A]efecto en ese Pokémon...
+{0xBDFF:0x0041}
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}
+{0xBDFF:0x0046}
+{0xBDFF:0x0047}
+{0xBDFF:0x0048}
+¡Buenas!{0xBE01}[0x000A]¿Quieres que le enseñe un movimiento a[0x000A]alguno de tus Pokémon a cambio de PB?
+¡Sigue acumulando PB y pásate cuando quieras[0x000A]gastarlos!
+¿A qué Pokémon quieres que le enseñe un[0x000A]movimiento?
+Selecciona el movimiento que quieres sustituir[0x000A]por {0x0107,0x0001}.
+{0x0102,0x0000} no ha aprendido[0x000A]{0x0107,0x0001}.
+1,{0xBE02:0x0014} 2 y{0xBE02:0x0014}...{0xBE02:0x0014} ¡puf!{0xBE05,0x0003}{0xBE05,0x0003}{0xBE05,0x0005}{0xBE01}[0x000A]¡{0x0102,0x0000} ha olvidado cómo utilizar[0x000A]{0x0107,0x0002}!{0xBE01}[0x000A]Y...
+¡{0x0102,0x0000} ha aprendido[0x000A]{0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+¿Quieres que le enseñe otro movimiento[0x000A]a alguno de tus Pokémon?
+Vaya... Pero si parece que este Pokémon ya[0x000A]conoce ese movimiento...
+Uy... Me da en la nariz que este Pokémon no[0x000A]puede aprender ese movimiento...
+Y ahora, vengan aquí esos Puntos de Batalla.[0x000A]¡Muchas gracias!
+Me parece que no tienes suficientes Puntos de[0x000A]Batalla.
+Al rico incienso fragante que ofrezco a todo[0x000A]viandante... ¿Verdad que quieres?
+¡Hasta la próxima! ¡Aquí estaré!
+¿Deseas alguna cosa más?
+Así que {0x0109,0x0000}, ¿eh?[0x000A]¿Cuántos paquetitos quieres?
+Pues {0x0201,0x0001} {0x0109,0x0000} te saldrá[0x000A]por {0x0206,0x0002,0xE07F} $.
+Pues {0x0201,0x0001} {0x0109,0x0000} te saldrán[0x000A]por {0x0206,0x0002,0xE07F} $.
+Al rico incieeenso fragaaanteee...[0x000A]¡Muchas gracias por tu compra!
+Creo que ya no puedes llevar más.[0x000A]¡Deja algo para los demás!
+No es por nada, pero no tienes dinero suficiente.
+¿Cómo vas, chic{0x1100,0x00FF,0x0101}oa? Soy un herbolario ambulante.[0x000A]Nuestras medicinas tienen las tres bes:{0xBE00}[0x000A]¡buenas, bonitas y baratas!
+Uuuy... Pues nada. Hasta la próxima, entonces.
+¿Quieres alguna cosa más?
+¿Cuántas unidades de {0x0109,0x0000}[0x000A]quieres?
+Así que {0x0201,0x0001} {0x0109,0x0000}, ¿no?[0x000A]Serían {0x0206,0x0002,0xE07F} $. ¿Te parece bien?
+Así que {0x0201,0x0001} {0x1001}{0x0109,0x0000}, ¿no?[0x000A]Serían {0x0206,0x0002,0xE07F} $. ¿Te parece bien?
+Ahí tienes. Ya verás... ¡Mano de santo!
+Válgame... ¡Pero si tú no puedes llevar ya más!
+Lo siento mucho, pero no tienes suficiente[0x000A]dinero.
+¡Bienvenid{0x1100,0x00FF,0x0101}oa, ricura! No te cortes y siéntete como[0x000A]en casa en la Joyería de Mayla.
+¡Espero verte por aquí pronto, ricura!
+¿Te puedo ayudar en algo más?
+Ajá... Interesante elección. ¿Cuántas unidades[0x000A]de {0x0109,0x0000} querrías?
+A ver, {0x0201,0x0001} cuesta {0x0206,0x0002,0xE07F} $.[0x000A]¿Te parece bien?
+A ver, {0x0201,0x0001} cuestan {0x0206,0x0002,0xE07F} $.[0x000A]¿Te parece bien?
+Ahí tienes. Espera... Por ser tú, ricura, te lo voy a[0x000A]envolver con un papel que es una monada.
+Mira, te agradezco la intención, pero creo que ya[0x000A]no puedes llevarte nada más.
+Por mucho aprecio que te tenga, ricura, no te[0x000A]puedo fiar. ¡Necesitas más dinero!
+Hmmm... Tienes cara de estar a la última en[0x000A]tendencias. ¿Quieres algo para realzar tu estilo?
+Bueno, pues si cambias de parecer y quieres[0x000A]renovarte... ya sabes dónde estoy.
+¿Hay algo más que te llame la atención?
+¿Y cuánt{0x1100,0x0000,0x0101}oas {0x1001}{0x0109,0x0000} querrías?
+¿Así que {0x0201,0x0001} {0x0109,0x0000}?[0x000A]Es tuy{0x1100,0x0000,0x0101}oa por el módico precio de {0x0206,0x0002,0xE07F} $.
+¿{0x0201,0x0001} {0x0109,0x0000}?[0x000A]Te saldrá por tan solo {0x0206,0x0002,0xE07F} $.
+¡No tengo la menor duda de que vas a ser un[0x000A]referente en el mundo de la moda!
+Oye, entre tú y yo... A ti te gustan las compras,[0x000A]¿verdad? Lo digo porque llevas la Bolsa a tope.
+Un segundito... ¡No tienes suficiente dinero! Lo[0x000A]siento, pero lo que no puede ser, no puede ser.
+¡Bienvenid{0x1100,0x00FF,0x0101}oa!
+¡Muchas gracias! ¡Hasta la próxima!
+¡Anda! Ese Cristal Z que llevas brilla con mucha[0x000A]intensidad...
+Parece que has superado la prueba de Liam,[0x000A]¿no?
+Parece que has superado la prueba de Nereida,[0x000A]¿no?
+Parece que has superado la prueba de Kiawe,[0x000A]¿no?
+Parece que has superado la prueba de Lulú,[0x000A]¿no?
+Parece que has superado la prueba de Chris,[0x000A]¿no?
+Parece que has superado la prueba de Zarala,[0x000A]¿no?
+Parece que has superado la prueba del Cañón[0x000A]de Poni, ¿no?
+¡Enhorabuena! A partir de ahora, la selección de[0x000A]artículos que podrás comprar será mayor.{0xBE01}[0x000A]Dicho esto...
+¡Alola tiene por primera vez un{0x1100,0x00FF,0x0A08} Campeóna Campeona![0x000A]Y eso hay que conmemorarlo...{0xBE01}[0x000A]¡Gracias por honrarnos con tu visita!
+No obstante, que ahora seas {0x1100,0x00FF,0x0B0A}el Campeónla Campeona no[0x000A]significa que no puedas seguir explorando las{0xBE00}[0x000A]islas y descubrir todas las maravillas de la{0xBE00}[0x000A]región de Alola.
+De ahora en adelante, aquí estaremos, en las[0x000A]Tiendas Pokémon, ¡para apoyarte todo lo que{0xBE00}[0x000A]podamos en tus aventuras!
+¡Festival de precios! ¡Viva la ganga![0x000A]¿Qué podemos hacer por ti?
+¡Muchas gracias![0x000A]¡Te esperamos pronto por aquí!
+De acuerdo. ¿Alguna cosa más en la que te[0x000A]pueda ayudar?
+Así que {0x1001}{0x0109,0x0000}, ¿eh?[0x000A]Muy bien. ¿Cuánt{0x1100,0x0000,0x0101}oas quieres?
+A ver... {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Serán {0x0206,0x0002,0xE07F} $, ¿de acuerdo?
+A ver... {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Serán {0x0206,0x0002,0xE07F} $, ¿de acuerdo?
+Pues aquí tienes.[0x000A]¡Muchas gracias y hasta la próxima!
+Comprueba bien el dinero que te queda, anda.
+Lamentándolo mucho, creo que no puedes llevar[0x000A]ya más.
+¿Hay algo más en lo que te pueda ayudar?
+Aquí tienes.[0x000A]¡Muchas gracias!
+No puedes llevar más. Lo siento de veras.
+¡Bienvenid{0x1100,0x00FF,0x0101}oa!{0xBE01}[0x000A]¿Quieres intercambiar tus Puntos de Batalla por[0x000A]regalos?
+Sigue acumulando Puntos de Batalla y vuelve[0x000A]por aquí cuando quieras.
+Lo siento mucho, pero no tienes suficientes[0x000A]Puntos de Batalla.
+¿Cuánt{0x1100,0x0000,0x0101}oas {0x1001}{0x0109,0x0000} quieres?
+Conque {0x1001}{0x0109,0x0000}, ¿no? Pues {0x0201,0x0001}[0x000A]te costará {0x0206,0x0002,0xE07F} PB. ¿Te parece bien?
+Conque {0x1001}{0x0109,0x0000}, ¿no? Pues {0x0201,0x0001}[0x000A]te costarán {0x0206,0x0002,0xE07F} PB. ¿Te parece bien?
+¿Deseas alguna cosa más?
+Aquí tienes.[0x000A]¡Muchas gracias!
+No puedes llevar más. Lo siento de veras.
+¡Buenas!{0xBE01}[0x000A]¿Quieres intercambiar tus Puntos de Bravura[0x000A]por regalos? Ya sabes, ¡los que acumulas si{0xBE00}[0x000A]eres de l{0x1100,0x00FF,0x0101}oas que no temen la bravura del mar!{0xBE01}[0x000A]Vamos, los PB. La gente los llama Puntos de[0x000A]Batalla, pero a mí me gusta más mi nombre.
+¡Tú acumula PB y vuelve cuando quieras!
+No tienes suficientes PB. ¿Por qué no te vas a[0x000A]peinar las olas con Mantine un rato y vuelves{0xBE00}[0x000A]más tarde?
+¿Cuánt{0x1100,0x0000,0x0101}oas {0x1001}{0x0109,0x0000} quieres?
+¿{0x0201,0x0001}? Esto te saldrá por {0x0206,0x0002,0xE07F} PB.[0x000A]¿Te parece bien?
+¿{0x0201,0x0001}? Esto te saldrá por {0x0206,0x0002,0xE07F} PB.[0x000A]¿Te parece bien?
+¿Algo más?
+¡Aquí tienes! ¡Gracias!
+Llevas la Bolsa a reventar. Lo siento, no cabe[0x000A]nada más.
+Parece que has superado la prueba de Rika,[0x000A]¿no?
+¡Enhorabuena!{0xBE01}[0x000A]Me encantaría decirte que tenemos productos[0x000A]nuevos para celebrar tu victoria, pero lo que ves{0xBE00}[0x000A]es lo que hay. Eso sí, lo que tenemos te lo{0xBE00}[0x000A]vendemos con mucho cariño.

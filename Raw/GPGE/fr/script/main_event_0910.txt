@@ -1,0 +1,17 @@
+msg_main0910_rocketchief_01={0xFF00,0x0009}Amos : {0xFF00,0x0000}Encore toi ?!
+msg_main0910_rocketf_01={0xFF00,0x0009}Sbire : {0xFF00,0x0000}Vous connaissez c{0x1100,0x00FF,0x0A07}e gamin’te gamine,[0x000A]m’sieur Amos ?
+msg_main0910_rival_01={0xFF00,0x0009}{0x0100,0x0001} : {0xFF00,0x0000}Euuuh...[0x000A]C’est qui ce type, {0x0100,0x0000} ?
+msg_main0910_rocketf_02={0xBDFF:0x0003}
+msg_main0910_rival_02={0xBDFF:0x0004}
+msg_main0910_rocketchief_02={0xFF00,0x0009}Amos : {0xFF00,0x0000}Vous avez donc décidé de vous mettre[0x000A]en travers de notre route.{0xBE01}[0x000A]Qui dit jeunesse dit stupidité.
+msg_main0910_rival_03={0xFF00,0x0009}{0x0100,0x0001} : {0xFF00,0x0000}Euh...[0x000A]De notre point de vue, c’est plutôt vous qui êtes{0xBE00}[0x000A]sur notre chemin.
+msg_main0910_rocketf_03={0xFF00,0x0009}Sbire : {0xFF00,0x0000}Quoiii ? Non mais, comment tu parles[0x000A]à m’sieur Amos, là ?! Ça va pas la tête ?{0xBE00}[0x000A]J’vais t’faire avaler tes Poké Balls, moi !
+msg_main0910_rocketchief_03={0xFF00,0x0009}Amos : {0xFF00,0x0000}Du calme !{0xBE01}[0x000A]Donnons une bonne leçon à ces petits[0x000A]impertinents.
+msg_main0910_dummy_01={0xBDFF:0x0009}
+msg_main0910_dummy_02={0xBDFF:0x000A}
+msg_main0910_rocketchief_04={0xFF00,0x0009}Amos : {0xFF00,0x0000}Ta victoire la dernière fois n’était donc[0x000A]pas le fruit du hasard...{0xBE01}[0x000A]Bien. Je vois. Nous allons devoir nous méfier[0x000A]de vous deux.
+msg_main0910_rocketf_04={0xFF00,0x0009}Sbire : {0xFF00,0x0000}Allez, on dégage !
+msg_main0910_rival_04={0xFF00,0x0009}{0x0100,0x0001} : {0xFF00,0x0000}Ouilleuh !
+msg_main0910_rival_05=Hé, regarde ! La Sbire a fait tomber un truc !
+msg_main0910_sys_01={0x0100,0x0001} vous confie la {0xFF00,0x0006}Carte{0xFF00,0x0000}[0x000A]{0xFF00,0x0006}Magnétique{0xFF00,0x0000} !
+msg_main0910_rival_06={0xFF00,0x0009}{0x0100,0x0001} : {0xFF00,0x0000}Gardons cette carte[0x000A]sous le coude, le temps de sauver la Sylphe !

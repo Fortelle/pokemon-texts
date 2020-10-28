@@ -1,0 +1,15 @@
+main_event_0620_yellm1_01=¡Eh, danos la bici esa! ¿Tú has visto este puente[0x000A]tan largo? A mí, al menos, no me apetece{0xBE00}[0x000A]cruzármelo a patita.{0x0114,0x006F}
+main_event_0620_yellm2_01=¡La queremos para sabotear a los Aspirantes![0x000A]¡Los perseguiremos en bici hasta que acaben{0xBE00}[0x000A]hasta el gorro y tiren la toalla!{0x0114,0x006F}
+main_event_0620_doctor_05=¡Pero cómo os atrevéis!{0xBE01}[0x000A]¡Si ni siquiera os acompaña un Rotom...![0x000A]De poco os iba a servir.
+main_event_0620_doctor_06=¡Oh, Aspirante! ¿Vienes a echarme un cablecillo?[0x000A]¡Estos ladrones están causándome problemas!{0xBE01}[0x000A]Te recompensaré generosamente si te libras de[0x000A]ellos.
+main_event_0620_yellm1_02=No somos ladrones, pensamos devolverla.[0x000A]¡Palabra!{0xBE01}[0x000A]La necesitamos para perseguir a los Aspirantes y[0x000A]quitarles todas las ganas de seguir con el desafío{0xBE00}[0x000A]de los gimnasios.{0xBE01}[0x000A]Aunque en tu caso, creo que no vamos a esperar[0x000A]a tener la bici. ¡A ti las ganas te las quitaremos{0xBE00}[0x000A]con un combate Pokémon!{0x0114,0x006F}
+main_event_0620_yellm1_03=¡A tomar viento la bici!{0x0114,0x006F}
+main_event_0620_yellm2_02=¡Quiero esa bici! ¡No seas un incordio y quita de[0x000A]en medio!{0x0114,0x006F}
+main_event_0620_yellm2_03=¡Con Aspirantes tan fuertes como tú no vamos a[0x000A]conseguir que sea ella la que se lleve la victoria{0xBE00}[0x000A]a casa!{0xBE01}[0x000A]¡Ya te enterarás de lo que vale un peine, ya!{0x0114,0x006F}
+main_event_0620_doctor_10=¡Mil gracias por tu ayuda, Entrenador{0x1100,0x00FF,0x0100}a!{0xBE01}[0x000A]Veo que tienes ahí una Pokédex, y eso significa[0x000A]que un Rotom te acompaña. ¡Perfecto!{0xBE01}[0x000A]Deja que te regale esta bici para agradecerte[0x000A]que me hayas salvado. ¡Mejor eso que dejar que{0xBE00}[0x000A]se la lleven esos garrulos!
+main_event_0620_doctor_01=Como ya sabrás, a Rotom le pirran los motores.[0x000A]Motor que ve, ¡motor en el que se mete!{0xBE01}[0x000A]Y un día se me iluminó la bombillita y pensé:[0x000A]"Si le pongo un motor a una bici, ¡fijo que un{0xBE00}[0x000A]Rotom se mete dentro!".
+main_event_0620_select_01=Eh...
+main_event_0620_select_02=Entiendo...
+main_event_0620_doctor_02=¿Qué haces de brazos cruzados? ¡Lo que quiero[0x000A]es que pruebes a montar en bici con Rotom!
+main_event_0620_doctor_03=¡Venga, vamos, vamos!{0xBE01}[0x000A]¡Monta en bici junto a Rotom y date un voltio[0x000A]por ahí!
+main_event_0620_doctor_04=Espera, que te leo el manual en un momentito.[0x000A]¡Ejem, ejem!{0xBE01}[0x000A]♪¡Montar en la Bici Rotom es muy sencillo:[0x000A]basta pulsar el botón + o el botón - para{0xBE00}[0x000A]sacártela del bolsillo!♪{0xBE01}[0x000A]Venga, ¡dale un tiento!

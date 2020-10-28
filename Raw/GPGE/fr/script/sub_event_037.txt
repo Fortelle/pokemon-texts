@@ -1,0 +1,9 @@
+msg_sub037_adultf_01=Je m’occupe de Pokémon blessés.
+msg_sub037_adultf_02=J’ai soigné ce Bulbizarre.[0x000A]Il est d’attaque, maintenant !{0xBE01}[0x000A]Par contre, je cherche un Dresseur chevronné[0x000A]pour s’en occuper. Quelqu’un qui aurait déjà{0xBE00}[0x000A]capturé tout plein de Pokémon, tu vois ?
+msg_sub037_adultf_08=D’ailleurs, combien de Pokémon as-tu capturés ?[0x000A]... {0x0208,0x0000,0x202F} ?!
+msg_sub037_adultf_03=Super ! Ça te dirait de prendre ce Bulbizarre[0x000A]sous ton aile ?
+msg_sub037_adultf_04=Prends bien soin de lui !
+msg_sub037_adultf_09=S’il t’intéresse, reviens me voir quand tu auras[0x000A]capturé au moins {0x0201,0x0000} Pokémon, d’accord ?
+msg_sub037_adultf_05=J’espère que Bulbizarre se porte bien !
+msg_sub037_adultf_06=Oh... C’est fort dommage...
+msg_sub037_poke_01={0xFF00,0x0009}Bulbizarre :{0xFF00,0x0000} Bizaaarre !

@@ -1,0 +1,15 @@
+msg_main0905_sys_01={0xBDFF:0x0000}
+msg_main0905_red_01={0xBDFF:0x0001}
+msg_main0905_dummy_01={0xBDFF:0x0002}
+msg_main0905_red_02={0xBDFF:0x0003}
+msg_main0905_green_01={0xFF00,0x0009}Blu:{0xFF00,0x0000} Vuoi sfidarmi tu per prim{0x1100,0x00FF,0x0101}oa?
+msg_main0905_green_02=Molto bene! Cominciamo!
+msg_main0905_dummy_02={0xBDFF:0x0006}
+msg_main0905_green_03=Ah no? Come preferisci.
+msg_main0905_green_04={0xFF00,0x0009}Blu:{0xFF00,0x0000} Ah ah ah! Direi che sei abbastanza forte[0x000A]per affrontare il Team Rocket!{0xBE01}[0x000A]La Silph S.p.A. è in buone mani.[0x000A]Posso stare tranquillo!
+msg_main0905_red_03={0xBDFF:0x0009}
+msg_main0905_sys_02={0xBDFF:0x000A}
+msg_main0905_green_05=Ok, adesso tocca a te, {0x0100,0x0001}![0x000A]Fatti sotto!
+msg_main0905_rival_01={0xBDFF:0x000C}
+msg_main0905_rival_02={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Uff! Mi sono agitato[0x000A]anche solo a guardarvi lottare...!{0xBE01}[0x000A]Hai visto che sguardo i Pokémon di Blu?![0x000A]Pazzesco...{0xBE01}[0x000A]Ma anche io mi farò valere, vedrai![0x000A]Tu vai pure avanti, {0x0100,0x0000}!
+msg_main0905_stafff_01={0xFF00,0x0009}Receptionist:{0xFF00,0x0000} Blu è un Allenatore famoso, sai?![0x000A]Ed è così forte...{0xBE01}[0x000A]Mi è pure sembrato che facesse sul serio con te.[0x000A]Forse potresti davvero salvare la Silph S.p.A.!

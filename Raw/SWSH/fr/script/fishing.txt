@@ -1,0 +1,2 @@
+msg_fld_ev_fishing_01=Vous avez ramené votre ligne trop vite !
+msg_fld_ev_fishing_02=Vous avez été trop lent{0x1100,0x00FF,0x0100}e !

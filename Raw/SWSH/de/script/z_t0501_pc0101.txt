@@ -1,0 +1,5 @@
+msg_t0501pc0101_npc1_01=Hey, ich hab so viele von den Dingern. Ich teile[0x000A]diesen Überfluss gerne mit dir!
+msg_t0501pc0101_npc1_02=Ich verrate dir mal was Tolles über Fossilien!{0xBE01}[0x000A]Auf Route 6 hält sich eine Professorin auf, die[0x000A]Fossilien wieder in Pokémon zurückverwandelt!{0xBE01}[0x000A]Wenn du hinter verschiedenen Fossilien her bist,[0x000A]dann solltest du die Naturzone durchforsten{0xBE00}[0x000A]oder die Buddel-Brüder dort um Hilfe bitten.
+msg_t0501pc0101_npc2_01=Für sein Training in die Berge zu kommen...[0x000A]Was für ein disziplinierter Schwarzgurt!
+msg_t0501pc0101_npc3_01=Eigentlich sind meine Pokémon diejenigen,[0x000A]die hier oben ihre Übungen durchziehen.{0xBE01}[0x000A]Ich tue nur so, als würde ich was machen.
+msg_t0501_pc0101_poke1_01_pop=Servol! ♪

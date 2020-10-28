@@ -1,0 +1,8 @@
+msg_t007r0301_cook_01=Ciao!{0xBE01}[0x000A]Scusa, siamo in pausa!
+msg_t007r0301_middlef_01=I miei Pokémon sono deboli, quindi vado spesso[0x000A]al centro commerciale per fare scorta di pozioni.
+msg_t007r0301_middlem_01=Pssst! Sembra che sotto la Sala Giochi ci siano[0x000A]dei piani sotterranei!
+msg_t007r0301_fat_01=Gnam gnam...{0xBE01}[0x000A]Questo stufato speziato è proprio... speziale!
+msg_middlem1_01_p01_t007_r0501=Uooh...{0xBE01}[0x000A]Ho giocato così tanto in Sala Giochi[0x000A]che mi fanno male le mani...!
+msg_middlem1_01_p02_t007_r0501={0xBDFF:0x0005}
+msg_middlem1_01_p03_t007_r0501={0xBDFF:0x0006}
+msg_middlem1_01_p04_t007_r0501={0xBDFF:0x0007}

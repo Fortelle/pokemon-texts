@@ -1,0 +1,10 @@
+msg_t006r0307_cook_01=¡Eh, tú, renacuaj{0x1100,0x00FF,0x0101}oa! ¡Ahora estamos ocupados![0x000A]¡Fuera de aquí!
+msg_t006r0307_cook_02=¿Qué te parecen mis cubreplatos de plata?{0xBE01}[0x000A]¡Mantienen la comida calentita durante mucho[0x000A]tiempo para que cuando la sirvamos parezca{0xBE00}[0x000A]recién hecha!
+msg_t006r0307_cook_03=¡Con tanto trajín me estoy mareando![0x000A]Haz el favor y déjame tranquilo.
+msg_t006r0307_cook_04=Patatín, patatán,[0x000A]pelo patatas el día entero.{0xBE01}[0x000A]Patatín, patatón,[0x000A]¡qué rico va a estar este puchero!
+msg_t006r0307_cook_05=¿Has oído hablar de Snorlax? ¡Se pasa todo[0x000A]el día comiendo y durmiendo!
+msg_t006r0307_cook_06=Snif, snif... Yo solo pelo cebollas... Snif...
+msg_t006r0307_cook_07_01=¡Ejem! ¡Yo soy el Chef ici! El menú de hoy es...
+msg_t006r0307_cook_07_02=¡El sushi Torbellino!{0xBE01}[0x000A]¡Aunque puede que los clientes se quejen de[0x000A]su contundente sabor!
+msg_t006r0307_cook_07_03=Una de las especialidades de Kanto:[0x000A]¡los Rokikos!{0xBE01}[0x000A]¡Me temo que los clientes se van a amotinar!
+msg_t006r0307_cook_07_04=¡Un suculento filete Derribo!{0xBE01}[0x000A]Pero ¡¿habrá bastantes filetes para todos?!

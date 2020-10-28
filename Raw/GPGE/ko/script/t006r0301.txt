@@ -1,0 +1,10 @@
+msg_t006r0301_sailor_02_01=상트앙느호는[0x000A]유명한 호화 여객선이야!{0xBE01}[0x000A]1년에 단 1번[0x000A]갈색시티 항구에 정박하지!
+msg_t006r0301_sailor_01_01=상트앙느호에 오신 것을 환영합니다!
+msg_t006r0301_sailor_01_02={0xBDFF:0x0002}
+msg_t006r0301_sys_01={0xBDFF:0x0003}
+msg_t006r0301_sailor_01_03={0xBDFF:0x0004}
+msg_t006r0301_sys_02={0xBDFF:0x0005}
+msg_t006r0301_sailor_01_04={0xBDFF:0x0006}
+msg_t006r0301_sys_03={0xBDFF:0x0007}
+msg_t006r0301_sailor_01_05={0xBDFF:0x0008}
+msg_t006r0301_sailor_01_06=배는 출항했습니다

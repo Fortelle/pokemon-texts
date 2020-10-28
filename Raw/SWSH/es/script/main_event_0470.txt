@@ -1,0 +1,7 @@
+main_event_0470_telop_01=A la mañana siguiente...
+main_event_0470_rival_01=¡Buenos días!{0x0114,0x0005}
+main_event_0470_rival_02=Por fin ha llegado el momento... ¡Hoy dará[0x000A]comienzo oficialmente mi propia leyenda!{0x0114,0x0005}
+main_event_0470_rival_03=¿Estás preparad{0x1100,0x00FF,0x0101}oa, {0x0100,0x0000}?[0x000A]¡Te echo una carrera hasta el estadio!{0x0114,0x0005}
+main_event_0470_sister_01=Así que por fin va a dar comienzo el desafío de[0x000A]los gimnasios, ¿eh?{0xBE01}[0x000A]Es una lástima para vosotros, porque la que va a[0x000A]ganar voy a ser yo.{0x0114,0x000D}
+main_event_0470_rival_04=¡Qué ganas de librar mi primer combate!{0xBE01}[0x000A]Estoy seguro de que ya mismo tendré tantos fans[0x000A]que no podré quitármelos de encima.{0x0114,0x0005}
+main_event_0470_sister_02={0xBDFF:0x0006}

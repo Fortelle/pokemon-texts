@@ -1,0 +1,4 @@
+main_event_0760_rival_01=Ah, te voilà, {0x0100,0x0000} !{0x0114,0x0005}
+main_event_0760_rival_02=J’ai chopé le Badge Feu ![0x000A]J’ai trop géré !{0x0114,0x0005}
+main_event_0760_rival_03=Mais j’ai eu chaud ! Ha ha, normal, tu me diras,[0x000A]pour l’Arène du type Feu.{0xBE01}[0x000A]En tout cas, Kabu assure. J’ai sorti les grands[0x000A]moyens et franchement, j’en ai bavé !{0x0114,0x0005}
+main_event_0760_rival_04=Fonce, {0x0100,0x0000} ![0x000A]Kabu est un grand athlète, mais je sais{0xBE00}[0x000A]que tu seras de taille !{0x0114,0x0005}

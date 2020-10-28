@@ -1,0 +1,80 @@
+In Live Competition mode, you can participate[0x000A]in official competitions at certain events.[0x000A][0x000A]For more information about official competitions,[0x000A]please check the official Pokémon website.
+Receive Digital Player ID?
+Receiving the Digital Player ID...[0x000A]Press the B Button if you would like to cancel.
+Are you sure you would like to cancel?
+You cannot participate in this competition.
+You are already participating or have[0x000A]already participated in this competition.
+Register the Pokémon in this Battle Box[0x000A]for the competition?
+Cancel registering your Battle Box?
+Registering the Battle Box...[0x000A]Don’t turn off the power.
+Welcome to the Live Competition![0x000A]Please choose a mode.
+Searching for an opponent...[0x000A]Please wait a moment.
+Cancel the search?
+Your competition regulations did not match.
+You have already battled against[0x000A]this opponent.
+Wait for the event staff’s instructions[0x000A]before pressing the A Button.
+Saving match results...[0x000A]Don’t turn off the power.
+Good job completing your[0x000A]designated matches!
+This is your previous match.[0x000A]Would you like to view the Battle Video?
+If you cancel your participation in the[0x000A]competition, you won’t be able to play in it!{0xBE01}[0x000A]Are you sure you want to cancel[0x000A]your participation in the competition?
+Are you absolutely sure you would like to[0x000A]cancel your participation?
+Canceling your participation[0x000A]in the competition...
+Your participation has been canceled,[0x000A]and your Battle Box has been unlocked.
+Communicating...[0x000A]Please wait a moment.
+You haven’t played any matches yet!
+Would you also like to cancel your[0x000A]participation in the competition?
+Checking the SD Card.[0x000A]Please don’t turn off the power.
+The battle record is corrupted and[0x000A]the video cannot be played.
+Could not save the battle record[0x000A]because your SD Card is full.
+Canceling the search...
+Could not receive the Digital Player ID.[0x000A]Please try again.
+No battle record was found.
+Live Competition
+Your Battle Box
+{0x0201,0x0001}/{0x0201,0x0002}/{0x0203,0x0000,0x0000}
+Register
+Cancel
+Find an Opponent
+View Previous Match
+Cancel Participation
+View Battle Video
+Back
+Yes
+No
+L
+{0x0202,0x0000}
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+{0xBDFF:0x002F}
+Your Results:
+Wins:
+{0x0201,0x0000}
+Losses:
+{0x0201,0x0000}
+Matches Played:
+{0x0201,0x0000}/{0x0201,0x0001}
+Opponent
+{0xBDFF:0x0038}
+{0xBDFF:0x0039}
+{0xBDFF:0x003A}
+{0xBDFF:0x003B}
+{0x0201,0x0000}
+{0x0100,0x0000} won!
+{0x0100,0x0000} forfeited the match!
+It was a tie!
+There appears to be a problem with one[0x000A]or more Pokémon in your Battle Box.
+Eggs cannot participate.
+You do not have enough Pokémon[0x000A]to participate.
+You have too many Pokémon[0x000A]to participate.
+At least one of the Pokémon[0x000A]required to participate is missing.
+There is at least one Pokémon[0x000A]with a banned move:[0x000A][0x000A]{0x0101,0x0000}[0x000A]{0x0101,0x0001}[0x000A]{0x0101,0x0002}[0x000A]{0x0101,0x0003}[0x000A]{0x0101,0x0004}[0x000A]{0x0101,0x0005}
+One or more of your Pokémon[0x000A]cannot participate:[0x000A][0x000A]{0x0101,0x0000}[0x000A]{0x0101,0x0001}[0x000A]{0x0101,0x0002}[0x000A]{0x0101,0x0003}[0x000A]{0x0101,0x0004}[0x000A]{0x0101,0x0005}
+One or more of your Pokémon is holding[0x000A]an item that is not allowed:[0x000A][0x000A]{0x0109,0x0000}[0x000A]{0x0109,0x0001}[0x000A]{0x0109,0x0002}[0x000A]{0x0109,0x0003}[0x000A]{0x0109,0x0004}[0x000A]{0x0109,0x0005}
+One or more of your Pokémon[0x000A]do not meet the level requirement:[0x000A][0x000A]{0x0101,0x0000}[0x000A]{0x0101,0x0001}[0x000A]{0x0101,0x0002}[0x000A]{0x0101,0x0003}[0x000A]{0x0101,0x0004}[0x000A]{0x0101,0x0005}
+Two or more of your Pokémon share the[0x000A]same National Pokédex number:[0x000A][0x000A]{0x0101,0x0000}[0x000A]{0x0101,0x0001}[0x000A]{0x0101,0x0002}[0x000A]{0x0101,0x0003}[0x000A]{0x0101,0x0004}[0x000A]{0x0101,0x0005}
+Your Pokémon are holding two or more[0x000A]of the same item:[0x000A][0x000A]{0x0109,0x0000}[0x000A]{0x0109,0x0001}[0x000A]{0x0109,0x0002}[0x000A]{0x0109,0x0003}[0x000A]{0x0109,0x0004}[0x000A]{0x0109,0x0005}
+The number of special Pokémon you[0x000A]have exceeds the limit.
+You cannot participate in the Live Competition,[0x000A]because you are currently participating in an{0xBE00}[0x000A]Online Competition.{0xBE01}[0x000A]Would you like to cancel your participation[0x000A]in the Online Competition?
+If you cancel your participation in the[0x000A]Online Competition, you won’t be{0xBE00}[0x000A]able to participate in it again.{0xBE01}[0x000A]Are you absolutely sure you’d like to[0x000A]cancel your participation in it?
+Canceling your participation...[0x000A]Don’t turn off the power.
+Your participation in the Online Competition[0x000A]has been successfully canceled.

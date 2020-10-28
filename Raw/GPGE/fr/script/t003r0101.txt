@@ -1,0 +1,12 @@
+msg_t003r0101_oldm_01_01=Quelle chance j’ai de voir les ossements des[0x000A]monstres sacrés de jadis !
+msg_t003r0101_scientist_02_01=Nous avons plusieurs fossiles de Pokémon[0x000A]préhistoriques dont nous sommes très fiers !
+msg_t003r0101_tenji_01_01=Il y a un beau morceau d’ambre qui luit[0x000A]d’un éclat doré !
+msg_t003r0101_tenji_02_01=C’est un fossile de Ptéra, un Pokémon[0x000A]préhistorique très rare !
+msg_t003r0101_tenji_03_01=C’est un fossile de Kabutops, un Pokémon[0x000A]préhistorique très rare !
+msg_t003r0101_tenji_04_01=Oooh ! C’est un Pokémon ancien ![0x000A]... Ah bah non, c’est juste une vieille réplique...
+msg_t003r0101_tenji_05_01=Il y a divers fossiles trouvés sur le Mont Sélénite.
+msg_studym1_03_p01_t003_r0101={0xBDFF:0x0007}
+msg_studym1_03_p02_t003_r0101={0xBDFF:0x0008}
+msg_studym1_03_p03_t003_r0101={0xBDFF:0x0009}
+msg_studym1_03_p04_t003_r0101={0xBDFF:0x000A}
+msg_t003r0101_scientist_03_01=Les secrets de l’espace...[0x000A]Les mystères de la terre...{0xBE01}[0x000A]Il y a tant de choses que nous ne comprenons[0x000A]pas encore, mais cela doit nous motiver{0xBE00}[0x000A]à apprendre davantage !

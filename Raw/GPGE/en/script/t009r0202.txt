@@ -1,0 +1,5 @@
+msg_t009r0202_diary_01=“Diary: July 5[0x000A]We discovered a new Pokémon deep in{0xBE00}[0x000A]the jungle.”
+msg_t009r0202_diary_02=“Diary: July 10[0x000A]We christened the newly discovered{0xBE00}[0x000A]Pokémon ‘Mew.’”
+msg_t009r0202_switch_01={0xBDFF:0x0002}
+msg_t009r0202_switch_02={0xBDFF:0x0003}
+msg_t009r0202_switch_03={0xBDFF:0x0004}

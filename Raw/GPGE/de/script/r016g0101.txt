@@ -1,0 +1,5 @@
+msg_r016g0101_workerm1_01=Der Pokémon-Weg ist eine abschüssige[0x000A]Küstenstraße.{0xBE01}[0x000A]Unternimm dort mit deinen Pokémon einen[0x000A]schönen Spaziergang!
+msg_r016g0101_guard_01=Es gibt fliegende Pokémon, die ihren Trainer auf[0x000A]dem Rücken tragen können.{0xBE01}[0x000A]Am allerbesten funktioniert das auf dem[0x000A]Pokémon-Weg, da können sie nämlich höher{0xBE00}[0x000A]fliegen als irgendwo sonst!
+msg_r016g0101_workerm1_01_nouse={0xBDFF:0x0002}
+msg_r016g0101_workerm1_02={0xBDFF:0x0003}
+msg_r016g0101_workerm1_03={0xBDFF:0x0004}

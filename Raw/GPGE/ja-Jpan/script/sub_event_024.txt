@@ -1,0 +1,13 @@
+msg_sub024_researcher_01=はいー！{0xBE01}[0x000A]わたしは　エラーイ　博士{0xBE01}[0x000A]いつも　珍しい　カセキ[0x000A]研究　してる　アルよ！{0xBE01}[0x000A]あなた！[0x000A]いい　カセキ　持ってるか？
+msg_sub024_select_01=かいのカセキ
+msg_sub024_select_02=こうらのカセキ
+msg_sub024_select_03=ひみつのコハク
+msg_sub024_select_04=やめる
+msg_sub024_researcher_02=持ってない　アルね……
+msg_sub024_researcher_03=成功　した　アルよ！{0xBE01}[0x000A]やっぱり　カセキは[0x000A]{0x0101,0x0004}　だった　アルね！
+msg_sub024_sys_01={0x0100,0x0000}は　博士から[0x000A]{0x0101,0x0004}を　受け取った！
+msg_sub024_researcher_04=おお！[0x000A]それは　{0x0109,0x0002}！{0xBE01}[0x000A]大昔の　ポケモン[0x000A]{0x0101,0x0001}　いう　カセキね！{0xBE01}[0x000A]わたしの　作った[0x000A]カセキ　再生マシンで{0xBE01}[0x000A]これ！[0x000A]生き返らせて　みせるね！
+msg_sub024_researcher_05=はいー！　じゃ　それ[0x000A]はやく　こっちに　よこす　よろし！
+msg_sub024_sys_02={0x0100,0x0000}は　変な　博士に[0x000A]{0x0109,0x0002}を　預けた！
+msg_sub024_researcher_06={0xBDFF:0x000B}
+msg_sub024_researcher_07=じゃー！　また　来る　よろし！

@@ -1,0 +1,30 @@
+Geheimbasis umgestalten
+Deko-Objekt wählen
+Platziere Deko-Objekte, um deine Geheimbasis[0x000A]nach Belieben zu gestalten.
+: Cursor bewegen
+: Ort wählen
+: Objekt wählen
+: Umgestaltung abbrechen
+: Objekt-Auswahl öffnen
+: Objekt bewegen
+: Objekt ablegen
+: Zurück zur Ausgangsposition
+: Zurück zur Objekt-Auswahl
+: Objekt wegräumen
+: Objekt drehen
+Verbleibend:
+{0x0201,0x0000}
+Das kann hier nicht abgelegt werden!
+Möchtest du diese Anordnung beibehalten?
+Ja
+Nein
+Wähle die Kategorie des Deko-Objekts.
+{0x01A6,0x0000}
+Du kannst „Mein Platz“ nicht wegräumen!
+Geheim-Freunde können nicht weggeräumt werden!
+Du kannst nicht mehr als eine Lampe hinstellen!
+Mehr Deko-Objekte kannst du nicht ablegen!
+Du hast keine Deko-Objekte!
+Dieses Objekt kann nicht gedreht werden!
+Dieses Objekt kann nur an der Wand angebracht werden!
+× {0x0201,0x0001}

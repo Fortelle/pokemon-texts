@@ -1,0 +1,98 @@
+Bienvenue. Vous vous trouvez actuellement[0x000A]à l’accueil de l’Arbre de Combat.
+Que souhaitez-vous faire[0xE07F]?
+De quoi désirez-vous parler[0xE07F]?
+L’Arbre de Combat permet aux Dresseurs[0x000A]de s’affronter dans divers types de combats.{0xBE01}[0x000A]Vous pourrez pratiquer ici des Combats Solo,[0x000A]Duo, et Multi.{0xBE01}[0x000A]Les affrontements continueront jusqu’à votre[0x000A]défaite. L’objectif est de gagner le plus de{0xBE00}[0x000A]combats possible à la suite.{0xBE01}[0x000A]Si vous êtes vaincu{0x1100,0x00FF,0x0100}e, vous devrez recommencer[0x000A]votre série de combats depuis le début.{0xBE01}[0x000A]Chaque victoire vous rapporte des Points de[0x000A]Combat, ou PCo, que vous pourrez échanger{0xBE00}[0x000A]contre de merveilleux prix[0xE07F]!{0xBE01}[0x000A]Plus vous enchaînerez de victoires, plus vous[0x000A]obtiendrez de PCo en récompense, alors visez{0xBE00}[0x000A]le meilleur score possible[0xE07F]!
+L’Arbre de Combat fonctionne selon les règles[0x000A]spécifiques suivantes :{0xBE01}[0x000A]1. Vos Pokémon de haut niveau seront ramenés[0x000A]au niveau 50 pour la durée des combats.{0xBE01}[0x000A]2. Vous dirigerez une équipe de trois Pokémon[0x000A]pour les Combats Solo et quatre pour les{0xBE00}[0x000A]Combats Duo. Les Combats Multi se jouent{0xBE00}[0x000A]avec deux Pokémon par Dresseur.{0xBE01}[0x000A]3. L’équipe d’un Dresseur ne peut comporter[0x000A]qu’un seul Pokémon d’une même espèce, et tous{0xBE00}[0x000A]les objets tenus doivent être différents.{0xBE01}[0x000A]Évidemment, en cas de Combat Multi,[0x000A]les doublons entre Dresseurs sont permis[0xE07F]!
+Au plaisir de vous revoir.
+À quel type de combat voulez-vous participer[0xE07F]?
+Votre record actuel est de[0x000A]{0x0203,0x0001,0xE07F} victoire{0x1101,0x0001,0x0B00}s d'affilée.
+Voulez-vous participer à des Combats Solo[0xE07F]?
+Voulez-vous participer à des Combats[0x000A]Super Solo[0xE07F]?
+Voulez-vous participer à des Combats Duo[0xE07F]?
+Voulez-vous participer à des Combats[0x000A]Super Duo[0xE07F]?
+Veuillez choisir les Pokémon à envoyer[0x000A]au combat.
+Voulez-vous participer à des Combats Multi[0xE07F]?
+Voulez-vous participer à des Combats[0x000A]Super Multi[0xE07F]?
+Voulez-vous vous connecter avec un ami[0x000A]pour relever ce défi[0xE07F]?
+Votre partenaire et vous avez choisi un type[0x000A]de combat différent.{0xBE01}[0x000A]Revenez quand vous vous serez mis d’accord.
+Veuillez choisir votre partenaire.
+Très bien.[0x000A]Les Combats Solo vont commencer.
+Très bien.[0x000A]Les Combats Super Solo vont commencer.
+Très bien.[0x000A]Les Combats Duo vont commencer.
+Très bien.[0x000A]Les Combats Super Duo vont commencer.
+Très bien.[0x000A]Les Combats Multi vont commencer.
+Très bien.[0x000A]Les Combats Super Multi vont commencer.
+Sauvegarde en cours...[0x000A]Ne pas éteindre la console.
+Félicitations[0xE07F]!{0xBE01}[0x000A]Vaincre les Dresseurs de légende vous donne[0x000A]droit à des PCo supplémentaires[0xE07F]!
+Félicitations[0xE07F]!{0xBE01}[0x000A]Vaincre les Dresseurs de légende au[0x000A]maximum de leur puissance, quel exploit[0xE07F]!{0xBE01}[0x000A]Vous avez mérité encore plus de PCo[0xE07F]!
+Vous recevez {0x0201,0x0005} PCo[0xE07F]!
+Vous pouvez désormais participer[0x000A]aux Combats Super Solo.
+Vous pouvez désormais participer[0x000A]aux Combats Super Duo.
+Vous pouvez désormais participer[0x000A]aux Combats Super Multi.
+Merci de votre participation.[0x000A]Les Combats Solo sont à présent terminés.{0xBE01}[0x000A]N’oubliez pas de profiter des Combats[0x000A]Super Solo[0xE07F]!
+Merci de votre participation.[0x000A]Les Combats Duo sont à présent terminés.{0xBE01}[0x000A]N’oubliez pas de profiter des Combats[0x000A]Super Duo[0xE07F]!
+Merci de votre participation.[0x000A]Les Combats Multi sont à présent terminés.{0xBE01}[0x000A]N’oubliez pas de profiter des Combats[0x000A]Super Multi[0xE07F]!
+Pour célébrer vos 50 victoires consécutives,[0x000A]laissez-moi tamponner votre Passe Dresseur[0xE07F]!
+Vous arrivez au combat nº {0x0203,0x0001,0xE07F}.[0x000A]Voulez-vous continuer[0xE07F]?
+Vous arrivez au combat nº {0x0203,0x0001,0xE07F}.[0x000A]Attention[0xE07F]! Les Dresseurs de légende{0xBE00}[0x000A]sont des adversaires redoutables[0xE07F]!{0xBE00}[0x000A]Voulez-vous continuer[0xE07F]?
+Voulez-vous faire une pause[0xE07F]?
+Votre défi a été interrompu.
+En attente de communication...
+La musique suivante est actuellement[0x000A]sélectionnée : {0x01C3,0x0000}.{0xBE01}[0x000A]Quelle musique désirez-vous écouter lors[0x000A]des combats[0xE07F]?
+Voilà, j’ai changé la musique selon[0x000A]votre préférence[0xE07F]!
+Combattre
+Discuter
+Annuler
+L’Arbre de Combat
+Les règles
+{0xBDFF:0x002F}
+Combat Solo
+Combat Super Solo
+Combat Duo
+Combat Super Duo
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+Combat Multi
+Combat Super Multi
+Continuer
+Sauvegarder la vidéo
+Faire une pause
+♪ Dresseur Pokémon
+♪ Pokémon sauvage
+♪ Pokémon Dominant
+♪ Doyen/Doyenne
+Changer la musique
+{0xBDFF:0x0040}
+Je suis la responsable des archives de[0x000A]l’Arbre de Combat. Désirez-vous consulter{0xBE00}[0x000A]vos résultats[0xE07F]?
+Quels résultats souhaitez-vous consulter[0x000A]en particulier[0xE07F]?
+Vous en êtes actuellement à[0x000A]{0x0203,0x0000,0xE07F} victoire{0x1101,0x0000,0x0B00}s d'affilée.{0xBE01}[0x000A]Votre record personnel est de[0x000A]{0x0203,0x0001,0xE07F} victoire{0x1101,0x0001,0x0B00}s d'affilée.
+La communication sans fil est désactivée.{0xBE01}[0x000A]Veuillez activer la communication sans fil.
+{0xBDFF:0x0045}
+Impossible de combattre avec cette personne.
+Recrutement
+Pour recruter quelqu’un, il vous faut 10 PCo.
+Recruter ce Dresseur vous coûtera 10 PCo.[0x000A]Voulez-vous continuer[0xE07F]?
+Vous ne pouvez pas recruter plus[0x000A]de Dresseurs[0xE07F]!{0xBE01}[0x000A]Voulez-vous effacer quelqu’un de la liste[0xE07F]?
+Très bien.{0xBE01}[0x000A]{0x019E,0x0000}[0x000A]ne sera pas recruté{0x1100,0x0000,0x0100}e.
+Très bien.{0xBE01}[0x000A]{0x019E,0x0000}[0x000A]sera recruté{0x1100,0x0000,0x0100}e.
+{0xBDFF:0x004D}
+Toutes nos félicitations[0xE07F]!{0xBE01}[0x000A]Vous avez obtenu {0x0203,0x0001,0xE07F} victoire{0x1101,0x0001,0x0B00}s d'affilée.[0x000A]Voici votre récompense[0xE07F]!
+Tenez[0xE07F]!
+Après avoir remporté la victoire contre tant[0x000A]de Dresseurs, vous avez créé ce qu’on pourrait{0xBE00}[0x000A]appeler un nouveau style de combat.{0xBE00}[0x000A]C’est tout simplement époustouflant[0xE07F]!
+Lorsque vous participez à un Combat Multi,[0x000A]vous pouvez choisir un allié parmi les Dresseurs{0xBE00}[0x000A]que vous avez vaincus en Combat Solo ou Duo{0xBE00}[0x000A]à l’Arbre de Combat.{0xBE01}[0x000A]Veuillez noter qu’il est impossible de recruter[0x000A]les Dresseurs de légende.{0xBE01}[0x000A]Partez donc à la recherche d’un partenaire[0x000A]à votre taille[0xE07F]!
+Au sujet du recrutement
+♪ Tili
+♪ VS Gladio
+♪ Team Skull
+♪ Admin Team Skull
+♪ Boss Team Skull
+♪ Fondation Æther
+♪ Elsa-Mina (1)
+♪ Elsa-Mina (2)
+♪ Ultra-Chimère
+♪ VS Conseil 4
+♪ Défense du titre de Maître
+♪ Pokémon légendaire
+♪ Bataille Royale
+♪ Gardien de l’île
+♪ Boss Arbre de Combat

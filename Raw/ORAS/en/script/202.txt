@@ -1,0 +1,79 @@
+The door is locked.{0xBE01}[0x000A]A message is written on the scroll on the door:[0x000A]“Write the secret code here.”
+{0x0100,0x0000} wrote the secret code on the scroll!{0xBE01}[0x000A]“I want to hug Trick Master.”{0xBE01}[0x000A]...{0xBE01}[0x000A]The door was unlocked!
+{0x0100,0x0000} found a scroll!
+{0x0100,0x0000} memorized the secret code[0x000A]written on the scroll.
+A secret code is written on it.
+CLICKETY-CLACK...[0x000A]MECHADOLL 1 AM I!{0xBE01}[0x000A]IF YOU ANSWER QUIZZES FROM ALL[0x000A]FIVE MECHADOLLS CORRECTLY,{0xBE00}[0x000A]YOU CAN OBTAIN THE SECRET CODE.
+MECHADOLL 1 QUIZ{0xBE01}[0x000A]One of these Pokémon is not found[0x000A]on Route 103. Which one is it?
+Zigzagoon
+Nincada
+Poochyena
+MECHADOLL 1 QUIZ{0xBE01}[0x000A]One of these Pokémon is not of the[0x000A]Grass type. Which one is it?
+Nincada
+Lotad
+Roselia
+MECHADOLL 1 QUIZ{0xBE01}[0x000A]One of these Pokémon uses Scratch.[0x000A]Which one is it?
+Shroomish
+Nincada
+Surskit
+CONGRATULATIONS. CORRECT YOU ARE.[0x000A]GO THROUGH, PLEASE.
+BZZZT. ERROR.[0x000A]DISAPPOINTMENT.
+WAHAHAHAHA! WAHAHAHAHA![0x000A]CLICKETY-CLACK!
+YOUR NEXT CHALLENGE WE WAIT FOR.
+CLICKETY-CLACK...[0x000A]MECHADOLL 2 AM I!{0xBE01}[0x000A]MECHADOLL 1’S QUIZ DIFFICULTY LEVEL[0x000A]IS SET TOO LOW.
+MECHADOLL 2 QUIZ{0xBE01}[0x000A]In Professor Birch’s Bag, there were three[0x000A]Pokémon. Which one was at the right?
+Treecko
+Torchic
+Mudkip
+MECHADOLL 2 QUIZ{0xBE01}[0x000A]Which Pokémon was offered for a trade[0x000A]at the Pokémon Trainers’ School?
+Seedot
+Shroomish
+Spinda
+MECHADOLL 2 QUIZ{0xBE01}[0x000A]What Pokémon was the Devon researcher[0x000A]looking for in Petalburg Woods?
+Shroomish
+Zigzagoon
+Wurmple
+CONGRATULATIONS. CORRECT YOU ARE.[0x000A]GO THROUGH, PLEASE.
+CLICKETY-CLACK...[0x000A]MECHADOLL 3 AM I!{0xBE01}[0x000A]MATTERS OF MONEY ARE MY SOLE FOCUS.
+MECHADOLL 3 QUIZ{0xBE01}[0x000A]Which costs more?[0x000A]Three Poké Balls or one Super Potion?
+The Poké Balls
+The Super Potion
+They’re the same price
+MECHADOLL 3 QUIZ{0xBE01}[0x000A]Sell one Escape Rope and buy[0x000A]one Antidote. How much money remains?
+$135
+$155
+$175
+MECHADOLL 3 QUIZ{0xBE01}[0x000A]Which would cost more, a Full Heal plus a Great Ball,[0x000A]or one Revive?
+Full Heal plus Great Ball
+Revive
+They cost the same
+CONGRATULATIONS. CORRECT YOU ARE.[0x000A]THIS IS A PRIZE.
+CONGRATULATIONS. CORRECT YOU ARE.[0x000A]GO THROUGH, PLEASE.
+CLICKETY-CLACK...[0x000A]MECHADOLL 4, THAT IS ME!{0xBE01}[0x000A]MY QUIZ IS AN OBJECT OF BEAUTY.
+MECHADOLL 4 QUIZ{0xBE01}[0x000A]Rustboro Gym Leader Roxanne used a[0x000A]Geodude. Was it female or male?
+Female
+Male
+Neither
+MECHADOLL 4 QUIZ{0xBE01}[0x000A]In Dewford Hall, were there more men[0x000A]or women?
+More men
+More women
+The same number
+MECHADOLL 4 QUIZ{0xBE01}[0x000A]Was the first Trainer in Dewford Gym[0x000A]male or female?
+Male
+Female
+Random
+CONGRATULATIONS. CORRECT YOU ARE.[0x000A]GO THROUGH, PLEASE.
+CLICKETY-CLACK...[0x000A]MECHADOLL 5 AM I!{0xBE01}[0x000A]THE MASTER’S BEST AND PROUDEST[0x000A]ACHIEVEMENT AM I.
+MECHADOLL 5 QUIZ{0xBE01}[0x000A]How many Bikes does Rydel have on[0x000A]display outside his cycle shop?
+One
+Two
+Three
+MECHADOLL 5 QUIZ{0xBE01}[0x000A]How many people give you Berries at the[0x000A]Pretty Petal flower shop?
+One
+Two
+Three
+MECHADOLL 5 QUIZ{0xBE01}[0x000A]How many signs are there in[0x000A]Lilycove City?
+Six
+Seven
+Eight
+CONGRATULATIONS. CORRECT YOU ARE.[0x000A]GO THROUGH, PLEASE.

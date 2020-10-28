@@ -1,0 +1,6 @@
+msg_sub004_researcher_01=Psss...! Ti svelo un segreto! Credo che[0x000A]quest’ambra contenga il DNA di un Pokémon!{0xBE01}[0x000A]Sarebbe magnifico se ci permettesse di[0x000A]rigenerarne uno, ma i miei colleghi non vogliono{0xBE00}[0x000A]sentir ragione...{0xBE01}[0x000A]Per questo ho un grosso favore da chiederti!{0xBE01}[0x000A]Potresti pensarci tu a farla esaminare in un[0x000A]Laboratorio Pokémon?
+msg_sub004_sys_01={0xBDFF:0x0001}
+msg_sub004_researcher_02=Psss...![0x000A]Mi raccomando, fai analizzare l’Ambra antica!
+msg_sub004_researcher_03=Uh? Ma quell’Aerodactyl che hai con te...[0x000A]L’hai per caso rigenerato dall’Ambra antica?!{0xBE01}[0x000A]Allora le mie ipotesi erano corrette![0x000A]Grazie, non sai quanto mi hai reso felice!
+msg_sub004_researcher_04=Consiglio anche a te di metterti a studiare[0x000A]il DNA. È davvero interessante!
+msg_studym1_02_p04_t003_r0101={0xBDFF:0x0005}

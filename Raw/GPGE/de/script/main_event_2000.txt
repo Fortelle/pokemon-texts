@@ -1,0 +1,13 @@
+msg_main2000_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Hallo, ich bin’s![0x000A]Schätze mal, {0x1100,0x00FF,0x0302,0x0000}ersie ist noch oben, oder?{0xBE01}[0x000A]Danke!
+msg_main2000_rival_02=Hey, {0x0100,0x0000}![0x000A]Ich komm mal hoch, ja?
+msg_main2000_rival_03={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Morgen, Champ von Kanto!{0xBE01}[0x000A]Na? Gefällt’s dir, so angesprochen zu werden?
+msg_main2000_rival_09=Gewöhn dich besser nicht allzu sehr an den Titel.{0xBE01}[0x000A]Wenn ich erst mal in Fahrt gekommen bin,[0x000A]gehört der ruckzuck mir!
+msg_main2000_rival_04=Aber das ist erst mal egal. Hast du auch schon[0x000A]von diesem superstarken Pokémon gehört?
+msg_main2000_sel_01=Superstark? Wie stark denn?
+msg_main2000_sel_02=Superstark? Muss ich haben!
+msg_main2000_rival_05=Keine Ahnung, stark eben! Und megacool[0x000A]aussehen soll es auch!
+msg_main2000_rival_06=Haha! Ich wusste doch, dass dich das reizen[0x000A]würde!
+msg_main2000_rival_07=Das Pokémon wurde in der Nähe von {0xFF00,0x0006}Azuria City{0xFF00,0x0000}[0x000A]gesichtet.
+msg_main2000_rival_10=Angeblich hat es sich dort in irgendeiner Höhle[0x000A]versteckt.
+msg_main2000_rival_08=Was sagst du, gehen wir es suchen?
+msg_main2000_rival_11=Wer es zuerst fängt, gewinnt!

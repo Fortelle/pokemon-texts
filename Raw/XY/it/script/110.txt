@@ -1,0 +1,5 @@
+Tu sei {0x0100,0x0000}, vero?[0x000A]Benvenut{0x1100,0x00FF,0x0101}oa alla Lega Pokémon!{0xBE01}[0x000A]Io sono Malva, l’esperta[0x000A]di Pokémon di tipo Fuoco.
+Alla Lega Pokémon troverai noi[0x000A]Superquattro e la Campionessa.
+Ma per sfidare la Campionessa,[0x000A]devi prima sconfiggere noi quattro.{0xBE01}[0x000A]Per un normale Allenatore è un’impresa,[0x000A]ma per te che hai sconfitto il Team Flare{0xBE00}[0x000A]dovrebbe essere una passeggiata... No?
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}

@@ -1,0 +1,11 @@
+msg_ui_player_select_01=¡Elige tu fotografía!
+msg_ui_player_select_02=¿Todo correcto?
+msg_ui_player_select_03={0x0189,0x0000}
+msg_ui_player_select_04=Nombre
+msg_ui_player_select_yes=Sí
+msg_ui_player_select_no=No
+msg_ui_player_select_no_00={0xFF00,0x0006}Ten en cuenta que, una vez elegido el idioma, no podrás cambiarlo.{0xFF00,0x0000}
+msg_ui_player_select_no_01={0xFF00,0x0006}Puedes alternar entre hiragana y kanji cuando quieras en "Opciones".{0xFF00,0x0000}
+msg_ui_player_select_10=¡Hala, pues listo!
+msg_ui_player_select_20=Guardando...
+msg_ui_player_select_21=Este juego guarda tu progreso de forma automática.

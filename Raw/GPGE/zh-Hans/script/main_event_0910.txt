@@ -1,0 +1,17 @@
+msg_main0910_rocketchief_01=阿波罗：你是……！
+msg_main0910_rocketf_01=手下：阿波罗大人，[0x000A]那边那个孩子是谁？
+msg_main0910_rival_01={0x0100,0x0001}：{0x0100,0x0000}，[0x000A]那边那个阿姨是谁？
+msg_main0910_rocketf_02={0xBDFF:0x0003}
+msg_main0910_rival_02={0xBDFF:0x0004}
+msg_main0910_rocketchief_02=阿波罗：{0x1100,0x00FF,0x0101}他她是一个[0x000A]愚蠢到总是来妨碍我们，{0xBE00}[0x000A]但又十分优秀的孩子。
+msg_main0910_rival_03={0x0100,0x0001}：也就是说……[0x000A]对我们来说，{0xBE00}[0x000A]他们才是碍事的一方吗？
+msg_main0910_rocketf_03=手下：臭小子！[0x000A]居然说阿波罗大人碍事！{0xBE00}[0x000A]是想被我们打到哭着回家吗！？
+msg_main0910_rocketchief_03=阿波罗：你冷静一下。{0xBE01}[0x000A]这样的孩子，[0x000A]我们得这么教才行——
+msg_main0910_dummy_01={0xBDFF:0x0009}
+msg_main0910_dummy_02={0xBDFF:0x000A}
+msg_main0910_rocketchief_04=阿波罗：原来上一次你赢我[0x000A]并不是你一时的运气……{0xBE01}[0x000A]我算是明白了。[0x000A]将来我会好好注意你们的。
+msg_main0910_rocketf_04=手下：让开让开！
+msg_main0910_rival_04={0x0100,0x0001}：好疼！
+msg_main0910_rival_05=啊！[0x000A]那个手下把这个东西给落下了！
+msg_main0910_sys_01={0x0100,0x0000}从{0x0100,0x0001}那里[0x000A]得到了{0xFF00,0x0006}钥匙卡{0xFF00,0x0000}！
+msg_main0910_rival_06={0x0100,0x0001}：帮完西尔佛之前，[0x000A]就暂时借用一下咯！

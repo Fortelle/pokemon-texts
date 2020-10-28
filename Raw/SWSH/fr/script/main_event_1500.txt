@@ -1,0 +1,3 @@
+main_event_1500_rival_01=Bien dormi, {0x0100,0x0000} ?{0x0114,0x0005}
+main_event_1500_rival_02=Moi, impossible de dormir, j’avais le cœur[0x000A]qui battait la chamade et l’estomac noué.{0xBE01}[0x000A]Du coup, j’suis allé peaufiner mes lancers.{0x0114,0x0005}
+main_event_1500_rival_03=Bon, j’y vais.{0xBE01}[0x000A]Je vais prendre un taxi volant à l’hôtel,[0x000A]comme ça j’arriverai direct au Stade de Winscor.{0x0114,0x0005}

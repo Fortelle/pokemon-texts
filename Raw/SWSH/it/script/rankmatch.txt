@@ -1,0 +1,8 @@
+msg_rankmatch_01=Lascia che ti spieghi brevemente come[0x000A]funzionano le Lotte Competitive!{0xBE01}[0x000A]Se vuoi posso fare in modo che i tuoi Pokémon[0x000A]possano partecipare.
+msg_rankmatch_02=Vuoi far partecipare qualche Pokémon a[0x000A]una Lotta Competitiva?
+msg_rankmatch_03=Alla prossima, allora! Ciao!
+msg_rankmatch_04=Quale Pokémon vuoi far partecipare[0x000A]a una Lotta Competitiva?
+msg_rankmatch_05={0x1501,0x0000,0x0000}{0x0101,0x0000} che hai scelto può[0x000A]partecipare alle Lotte Competitive!
+msg_rankmatch_06=Allora, posso far dimenticare tutte le mosse[0x000A]a {0x0101,0x0000} e insegnargliene qualcuna{0xBE00}[0x000A]adatta alle Lotte Competitive?
+msg_rankmatch_07=Non ricorderà più le mosse che ha imparato[0x000A]in precedenza.{0xBE01}[0x000A]Va bene lo stesso?
+msg_rankmatch_08=Perfetto! {0x0101,0x0000} è pronto per[0x000A]partecipare alle Lotte Competitive!

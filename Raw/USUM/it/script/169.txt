@@ -1,0 +1,17 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+Quest’erba ti ricorda qualcosa...[0x000A]Vuoi coglierne un po’?
+{0x0100,0x0000} ha trovato la Vitalerba!{0xBE01}[0x000A]La Vitalerba viene messa nel Portaingredienti.
+È la Vitalerba!{0xBE01}[0x000A]No, aspetta... A ben vedere, è solo erbaccia.
+Un Pokémon che era nascosto nell’erba[0x000A]ti attacca!
+Capitano Ibis in ricognizione![0x000A]Hai trovato la Vitalerba... ed è di ottima qualità!{0x0114,0x000E}
+Lo sapevi che ha un sapore così amaro[0x000A]da lasciare di stucco persino un Pokémon?{0x0114,0x000E}
+Yeee! Hai trovato tutti gli ingredienti!{0xBE01}[0x000A]Bene, mano alle padelle![0x000A]Ti aspetto all’entrata della giungla.{0x0114,0x000E}
+Ti manca solo un ingrediente![0x000A]Un ultimo sforzo!{0x0114,0x000E}
+Ti mancano due ingredienti![0x000A]Dai, non mollare!{0x0114,0x000E}
+Altri tre ingredienti da trovare![0x000A]Continua così!{0x0114,0x000E}

@@ -1,0 +1,12 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+Do you nickname your Pokémon?[0x000A]I gave a cool name to mine.{0xBE01}[0x000A]But when I call my Pokémon by that[0x000A]name, people laugh at me...{0xBE01}[0x000A]If it’s OK with you, want to trade[0x000A]your {0x0101,0x0002} for my {0x0101,0x0001}?
+Hee hee hee, ooh, this is so exciting!
+But that’s no {0x0101,0x0002}.[0x000A]Tsk. So disappointing.
+Aww, it’s a good Pokémon...
+Don’t you get curious about what other[0x000A]people named their Pokémon?
+Ah! You only have one Pokémon.[0x000A]Sorry, I can’t trade with you.
+In all sorts of places, there are all[0x000A]sorts of Pokémon and people.{0xBE01}[0x000A]I find that fascinating! It inspires[0x000A]me to go to all sorts of places.

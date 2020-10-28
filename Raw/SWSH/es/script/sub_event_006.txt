@@ -1,0 +1,13 @@
+sub_event_006_childF_01=¿Quieres que te haga un examen para ver si te[0x000A]sabes la compatibilidad entre tipos?
+sub_event_006_childF_02=Chachi. ¡Primera pregunta!
+sub_event_006_childF_03=¿Contra qué tipo de Pokémon son supereficaces[0x000A]los movimientos de tipo {0x0103,0x0001}?
+sub_event_006_childF_04=Contra los de tipo {0x0103,0x0002}
+sub_event_006_childF_05=¡Bieen! ¡Respuesta correcta!
+sub_event_006_childF_06=¡Noo! ¡Respuesta incorrecta!
+sub_event_006_childF_07=¡Siguiente pregunta!
+sub_event_006_childF_08=¡Vuelve a intentarlo!
+sub_event_006_childF_09=¡Has respondido bien a {0x0200,0x0004} pregunta{0x1101,0x0004,0x0100}s de {0x0200,0x0003}!
+sub_event_006_childF_10=¡Te sabes al dedillo las compatibilidades entre[0x000A]tipos!
+sub_event_006_childF_11=¡Te sabes bastante bien las compatibilidades[0x000A]entre tipos!
+sub_event_006_childF_12=Deberías estudiarte más las compatibilidades[0x000A]entre los distintos tipos de los Pokémon...
+sub_event_006_childF_13=¡Toma este regalito por acertar todas mis[0x000A]preguntas por primera vez!

@@ -1,0 +1,8 @@
+msg_hidden_power_01=Ehi tu! Vuoi risvegliare la forza nascosta dei[0x000A]tuoi Pokémon? Ho lo strumento che fa per te!
+msg_hidden_power_02=Io ho il dono di prevedere il tipo di[0x000A]Introforza che un Pokémon{0xBE00}[0x000A]potrebbe imparare!{0xBE01}[0x000A]Vuoi che usi il mio potere speciale?{0xBE01}[0x000A]Indicami un Pokémon e ti dirò che tipo[0x000A]di Introforza può imparare!
+msg_hidden_power_03=Indicami un Pokémon e ti dirò che tipo[0x000A]di Introforza può imparare!
+msg_hidden_power_04=Se questo Pokémon imparasse Introforza,[0x000A]la mossa sarebbe di tipo {0x0103,0x0000}!
+msg_hidden_power_05=La mossa Introforza di questo[0x000A]Pokémon è di tipo {0x0103,0x0000}!
+msg_hidden_power_06=Come vuoi.[0x000A]Se cambi idea, sono qui!
+msg_hidden_power_07=Un Uovo non può usare Introforza!
+msg_hidden_power_08=Eh, no. Questo Pokémon non può[0x000A]imparare la mossa Introforza!

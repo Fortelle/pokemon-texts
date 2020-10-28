@@ -1,0 +1,8 @@
+main_event_1190_rival_01=Merci d’être venu{0x1100,0x00FF,0x0100}e.[0x000A]Je voulais te parler.{0x0114,0x0005}
+main_event_1190_rival_02=J’ai bien réfléchi. Il faut que j’utilise plein[0x000A]de tactiques différentes si je veux essayer{0xBE00}[0x000A]de rattraper mon frangin.{0xBE01}[0x000A]Et je veux pas juste le rattraper.[0x000A]Je veux le dépasser, le battre à plate couture.{0x0114,0x0005}
+main_event_1190_rival_03=Bref, je pense que tu vois où je veux en venir...[0x000A]J’ai vraiment besoin de m’entraîner avec toi.{0xBE00}[0x000A]En garde !{0x0114,0x0005}
+main_event_1190_rival_04=Tu sais, avant qu’on parte à l’aventure... Je matais[0x000A]tout le temps les combats du frangin à la télé.{0xBE01}[0x000A]Il m’en mettait toujours plein la vue. Je réalisais[0x000A]bien qu’il était fort, mais pas à quel point.{0x0114,0x0005}
+main_event_1190_rival_05=Maintenant, je sais. Et clairement, il me manque[0x000A]quelque chose pour arriver à son niveau.{0x0114,0x0005}
+main_event_1190_rival_08=Mais c’est pas grave ![0x000A]Je vais continuer de m’améliorer !{0xBE01}[0x000A]Merci de me laisser tester mes tactiques, t’es un{0x1100,0x00FF,0x0100}e[0x000A]super pote ! Bouge pas, je guéris ton {0x1101,0x00FD,0x0607}Pokémonéquipe.{0x0114,0x0005}
+main_event_1190_rival_06=Ouais, j’en suis sûr, maintenant.[0x000A]Je veux défier mon frangin et le vaincre !{0xBE01}[0x000A]Je vais vaincre le Maître Invaincu !{0x0114,0x0005}
+main_event_1190_rival_07=Je vais décrocher le Badge de Ludester et[0x000A]je t’attendrai au tournant après, pour te vaincre !{0x0114,0x0005}

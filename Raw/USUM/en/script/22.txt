@@ -1,0 +1,18 @@
+This is the Loto-ID Center!{0xBE01}[0x000A]If your drawn number matches the ID No. of any[0x000A]of your Pokémon, you could win fabulous prizes!{0xBE01}[0x000A]Try your luck today![0x000A]Would you like to draw a Loto Ticket?
+Certainly![0x000A]Good luck!
+...{0xBE02:0x000A} ...{0xBE02:0x000A} ...
+Here’s the result![0x000A]Your Loto Ticket number is {0x0204,0x0000,0x0000}!{0xBE01}[0x000A]Let’s see if it matches the ID No. of any of[0x000A]your Pokémon!
+Congratulations!{0xBE01}[0x000A]Spectacularly, the ID number of your team’s[0x000A]{0x0102,0x0001} matches your Loto Ticket’s{0xBE00}[0x000A]number!
+Congratulations!{0xBE01}[0x000A]The ID No. of your team’s {0x0102,0x0001}[0x000A]matches your Loto Ticket number!
+Oh my goodness, five digits matched!{0xBE01}[0x000A]You have incredible luck![0x000A]You’ve won the jackpot prize, a Master Ball!
+Great! Four digits matched!{0xBE01}[0x000A]You have excellent luck![0x000A]You’ve won the first prize, a Rare Candy!
+Oh! Three digits matched!{0xBE01}[0x000A]Your luck is really special![0x000A]You’ve won the second prize, a PP Max!
+Two digits matched!{0xBE01}[0x000A]You have good luck![0x000A]You’ve won the third prize, a PP Up!
+OK. One digit matched.{0xBE01}[0x000A]Your luck is OK, I guess![0x000A]You’ve won the fourth prize, a Moomoo Milk!
+I’m sorry.[0x000A]You didn’t get a match...
+Please do visit again!
+You can draw a Loto Ticket once a day.[0x000A]Please come back tomorrow!
+{0xBDFF:0x000E}
+You obtained {0x1302,0x0001}{0xFF00,0x0002}{0x0109,0x0001}{0xFF00,0x0000}!
+You put away the {0x0109,0x0001} in the[0x000A]{0xFF00,0x0002}{0x0112,0x0002} Pocket{0xFF00,0x0000}.
+Would you please save the game before your[0x000A]drawing?

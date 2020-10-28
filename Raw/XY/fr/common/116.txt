@@ -1,0 +1,101 @@
+Bienvenue au Château de Combat.{0xBE01}[0x000A]En quoi puis-je vous être utile[0x000A]aujourd’hui, {0xFF00,0x0001}Baron {0x0100,0x0000} {0xFF00,0x0000}?
+D’ici, vous pouvez envoyer des invitations[0x000A]aux Dresseurs qui fréquentent ces murs.{0xBE01}[0x000A]Chaque type d’invitation attirera différents[0x000A]Dresseurs.{0xBE01}[0x000A]Ce service vous est proposé en échange[0x000A]d’une somme modique. N’hésitez pas.
+Quel type d’invitation souhaitez-vous envoyer[0xE07F]?
+Si vous publiez un Faire-Part, davantage[0x000A]de Dresseurs viendront visiter ces lieux.{0xBE01}[0x000A]Émettre un Faire-Part vous coûtera {0x0205,0x0004,0xE07F} $.[0x000A]Désirez-vous procéder à la publication[0xE07F]?
+Si vous publiez un Faire-Part Argent,[0x000A]de nombreux Dresseurs se bousculeront{0xBE00}[0x000A]aux portes de ce Château de Combat.{0xBE01}[0x000A]Émettre un Faire-Part Argent vous coûtera[0x000A]{0x0205,0x0004,0xE07F} $. Désirez-vous procéder à la publication[0xE07F]?
+La publication d’un Faire-Part Or attirera entre[0x000A]ces murs les Dresseurs particulièrement aisés.{0xBE01}[0x000A]Émettre un Faire-Part Or vous coûtera {0x0205,0x0004,0xE07F} $.[0x000A]Désirez-vous procéder à la publication[0xE07F]?
+Si vous publiez un Avis de Défi, des Dresseurs[0x000A]plus motivés se presseront devant nos murs.{0xBE01}[0x000A]Émettre un Avis de Défi vous coûtera {0x0205,0x0004,0xE07F} $.[0x000A]Désirez-vous procéder à la publication[0xE07F]?
+La publication d’un Avis de Défi Bleu attirera dans[0x000A]notre Château de Combat des Dresseurs sereins.{0xBE00}[0x000A]Vous pourrez jouter dans une ambiance détendue.{0xBE01}[0x000A]Émettre un Avis de Défi Bleu vous coûtera[0x000A]{0x0205,0x0004,0xE07F} $. Désirez-vous procéder à la publication[0xE07F]?
+Publier un Avis de Défi Rouge attirera dans notre[0x000A]Château de Combat des Dresseurs pugnaces.{0xBE00}[0x000A]Vous pourrez combattre avec ardeur.{0xBE01}[0x000A]Émettre un Avis de Défi Rouge vous coûtera[0x000A]{0x0205,0x0004,0xE07F} $. Désirez-vous procéder à la publication[0xE07F]?
+Très bien, je procède donc à la publication.
+Je suis terriblement désolée, mais il semblerait[0x000A]que vous n’ayez pas la somme nécessaire.
+Si je puis vous être d’une quelconque aide,[0x000A]n’hésitez surtout pas. Je suis à votre service.
+Si vous publiez un Avis de Défi Noir, les Dresseurs[0x000A]les plus belliqueux viendront en ces lieux pour se{0xBE00}[0x000A]livrer à des combats dantesques avec vous.{0xBE01}[0x000A]Émettre un Avis de Défi Noir vous coûtera[0x000A]{0x0205,0x0004,0xE07F} $. Désirez-vous procéder à la publication[0xE07F]?
+Oh, {0x019F,0x0005} {0x0100,0x0000}[0xE07F]![0x000A]Vous tombez à pic : j’ai une excellente nouvelle.{0xBE01}[0x000A]Vos efforts ont été reconnus, et vous avez obtenu[0x000A]le titre de {0x019F,0x0006}[0xE07F]!
+Oh, {0x019F,0x0005} {0x0100,0x0000}[0xE07F]![0x000A]Vous tombez à pic : j’ai une excellente nouvelle.{0xBE01}[0x000A]Vos efforts ont été reconnus, et vous avez obtenu[0x000A]le titre de {0x019F,0x0006}[0xE07F]!
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+Toutes mes félicitations. Au plaisir de vous voir[0x000A]à nouveau dans notre Château de Combat.
+Sniff[0xE08D] Sniff[0xE08D] Oh, Monsieur[0xE08D][0x000A]Nous l’attendions depuis si longtemps[0xE08D]{0xBE01}[0x000A]Je suis tellement émue, les mots me manquent.[0x000A]Oh, Monsieur[0xE08D] Je vous félicite pour votre titre{0xBE00}[0x000A]de {0xFF00,0x0001}Grand-Duc {0xFF00,0x0000}!{0xBE01}[0x000A]Je vous souhaite du plus profond de mon coeur[0x000A]tout le succès du monde[0xE07F]!
+Il semblerait qu’un Faire-Part a déjà été publié.
+Mille excuses, mais cela n’a pas l’air[0x000A]d’être à la portée de votre bourse[0xE08D]
+Bienvenue au Château de Combat.[0x000A]En quoi puis-je vous aider[0xE07F]?
+Les gentes dames et gentilshommes de toute[0x000A]la région se retrouvent ici pour livrer des combats{0xBE00}[0x000A]raffinés entre personnes de qualité.{0xBE01}[0x000A]Ce château est un club très select, dont l’existence[0x000A]reste secrète.{0xBE01}[0x000A]Tous les gens formidables qui fréquentent notre[0x000A]établissement sont à la recherche de quelque{0xBE00}[0x000A]chose de bien particulier.{0xBE01}[0x000A]Certains viennent ici pour se battre[0xE08D]{0xBE01}[0x000A]D’autres cherchent la gloire[0xE08D]{0xBE01}[0x000A]D’autres encore rêvent de richesses[0xE08D]{0xBE01}[0x000A]Les combats sont sans pitié, et ce quel que soit[0x000A]l’adversaire.{0xBE00}[0x000A]N’hésitez pas à vous en donner à cœur joie.{0xBE01}[0x000A]Entre ces murs, nos habitués reçoivent des titres[0x000A]de noblesse, en fonction de leur force.{0xBE01}[0x000A]Donnez le meilleur de vous-même, vous pourrez[0x000A]ainsi progresser rapidement dans la hiérarchie.
+Si nous avons choisi le système de titres[0x000A]de noblesse, c’est pour faire honneur à{0xBE00}[0x000A]l’ardeur de nos habitués.{0xBE01}[0x000A]Votre titre, c’est la seule chose qui vous[0x000A]définit, entre ces murs.{0xBE01}[0x000A]Vous pourrez gravir peu à peu les échelons[0x000A]en vous battant avec nos habitués.{0xBE01}[0x000A]Plus vous gagnez en noblesse, plus le nombre[0x000A]d’habitués fréquentant ce lieu augmentera.{0xBE01}[0x000A]Pour finir, c’est toute la crème de la société[0x000A]qui se retrouvera ici pour vous combattre.
+En espérant que vous profiterez pleinement de tout[0x000A]ce que le Château de Combat a à vous offrir.
+Mesdames et Messieurs, très estimés hôtes[0xE08D]{0xBE01}[0x000A]Le {0xFF00,0x0001}Baron {0x0100,0x0002} {0xFF00,0x0000}vient de nous rejoindre.{0xBE01}[0x000A]Nous vous prions de prendre soin de lui, et de lui[0x000A]enseigner nos us.
+Mesdames et Messieurs, très estimés hôtes[0xE08D]{0xBE01}[0x000A]Le {0xFF00,0x0001}Vicomte {0x0100,0x0002}{0xFF00,0x0000} vient de nous[0x000A]rejoindre.
+Mesdames et Messieurs, très estimés hôtes[0xE08D]{0xBE01}[0x000A]Le {0xFF00,0x0001}Comte {0x0100,0x0002}{0xFF00,0x0000} vient de nous rejoindre.{0xBE01}[0x000A]Nous vous prions de ne pas le sous-estimer lorsque[0x000A]vous vous mesurerez à lui.
+Mesdames et Messieurs, très estimés hôtes[0xE08D]{0xBE01}[0x000A]Le {0xFF00,0x0001}Marquis {0x0100,0x0002} {0xFF00,0x0000}vient de nous[0x000A]rejoindre.{0xBE01}[0x000A]Que tous ceux qui sont suffisamment sûrs[0x000A]de leur force s’aventurent à l’affronter[0xE07F]!
+Mesdames et Messieurs, très estimés hôtes[0xE08D]{0xBE01}[0x000A]Le {0xFF00,0x0001}Duc {0x0100,0x0002}{0xFF00,0x0000} vient de nous[0x000A]rejoindre.{0xBE01}[0x000A]Veuillez l’applaudir et vous préparer à[0x000A]un affrontement inoubliable.
+Envoyer une invitation
+Au sujet des invitations 1
+Quitter
+Faire-Part
+Faire-Part Argent
+Faire-Part Or
+Avis de Défi
+Avis de Défi Bleu
+Avis de Défi Rouge
+Quel est cet endroit[0xE07F]?
+Que signifient les titres[0xE07F]?
+Oui
+Non
+---
+Avis de Défi Noir
+Vous devez savoir deux choses à propos[0x000A]des Faire-Part que vous envoyez.{0xBE01}[0x000A]Premièrement, qu’ils restent actifs jusqu’à[0x000A]minuit le jour de l’envoi.{0xBE01}[0x000A]Deuxièmement, que même si vous êtes libre[0x000A]d’envoyer autant de Faire-Part que vous le{0xBE00}[0x000A]souhaitez, seul le dernier publié sera effectif.
+Au sujet des invitations 2
+Mesdames et Messieurs, très estimés hôtes[0xE08D]{0xBE01}[0x000A]La {0xFF00,0x0001}Baronne {0x0100,0x0002} {0xFF00,0x0000}vient de nous[0x000A]rejoindre.{0xBE01}[0x000A]Nous vous prions de prendre soin d’elle[0x000A]et de lui enseigner nos us.
+Mesdames et Messieurs, très estimés hôtes[0xE08D]{0xBE01}[0x000A]La {0xFF00,0x0001}Vicomtesse {0x0100,0x0002} {0xFF00,0x0000}vient de nous[0x000A]rejoindre.
+Mesdames et Messieurs, très estimés hôtes[0xE08D]{0xBE01}[0x000A]La {0xFF00,0x0001}Comtesse {0x0100,0x0002}{0xFF00,0x0000} vient de nous[0x000A]rejoindre.{0xBE01}[0x000A]Nous vous prions de ne pas la sous-estimer[0x000A]lorsque vous vous mesurerez à elle.
+Mesdames et Messieurs, très estimés hôtes[0xE08D]{0xBE01}[0x000A]La {0xFF00,0x0001}Marquise {0x0100,0x0002} {0xFF00,0x0000}vient de nous[0x000A]rejoindre.{0xBE01}[0x000A]Que tous ceux qui sont suffisamment sûrs de[0x000A]leur force s’aventurent à l’affronter[0xE07F]!
+Mesdames et Messieurs, très estimés hôtes[0xE08D]{0xBE01}[0x000A]La {0xFF00,0x0001}Duchesse {0x0100,0x0002}{0xFF00,0x0000} vient de nous[0x000A]rejoindre.{0xBE01}[0x000A]Veuillez l’applaudir et vous préparer à[0x000A]un affrontement inoubliable.
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+{0xBDFF:0x0036}
+{0xBDFF:0x0037}
+Sniff[0xE08D] Sniff[0xE08D] Oh, Madame[0xE08D][0x000A]Nous l’attendions depuis si longtemps[0xE08D]{0xBE01}[0x000A]Je suis tellement émue, les mots me manquent.[0x000A]Oh, Madame[0xE08D] Je vous félicite pour votre titre{0xBE00}[0x000A]de {0xFF00,0x0001}Grande-Duchesse {0xFF00,0x0000}!{0xBE01}[0x000A]Je vous souhaite du plus profond de mon coeur[0x000A]tout le succès du monde[0xE07F]!
+Bienvenue, {0xFF00,0x0001}Vicomte {0x0100,0x0000}{0xFF00,0x0000}.[0x000A]Que puis-je faire pour vous[0xE07F]?
+Bienvenue, {0xFF00,0x0001}Comte {0x0100,0x0000}{0xFF00,0x0000}.[0x000A]Que puis-je faire pour vous[0xE07F]?
+Bienvenue, {0xFF00,0x0001}Marquis {0x0100,0x0000}{0xFF00,0x0000}.[0x000A]Que puis-je faire pour vous[0xE07F]?
+Bienvenue, {0xFF00,0x0001}Duc {0x0100,0x0000}{0xFF00,0x0000}.[0x000A]Que puis-je faire pour vous[0xE07F]?
+Bienvenue au Château de Combat.{0xBE01}[0x000A]En quoi puis-je vous être utile[0x000A]aujourd’hui, {0xFF00,0x0001}Baronne {0x0100,0x0000} {0xFF00,0x0000}?
+Bienvenue, {0xFF00,0x0001}Vicomtesse {0x0100,0x0000}{0xFF00,0x0000}.[0x000A]Que puis-je faire pour vous[0xE07F]?
+Bienvenue, {0xFF00,0x0001}Comtesse {0x0100,0x0000}{0xFF00,0x0000}.[0x000A]Que puis-je faire pour vous[0xE07F]?
+Bienvenue, {0xFF00,0x0001}Marquise {0x0100,0x0000}{0xFF00,0x0000}.[0x000A]Que puis-je faire pour vous[0xE07F]?
+Bienvenue, {0xFF00,0x0001}Duchesse {0x0100,0x0000}{0xFF00,0x0000}.[0x000A]Que puis-je faire pour vous[0xE07F]?
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+C’est un immense honneur de vous accueillir[0x000A]à nouveau, {0xFF00,0x0001}Grand-Duc {0x0100,0x0000}{0xFF00,0x0000}.{0xBE01}[0x000A]Que puis-je faire pour vous être agréable[0xE07F]?
+C’est un immense honneur de vous accueillir[0x000A]à nouveau, {0xFF00,0x0001}Grande-Duchesse {0x0100,0x0000}{0xFF00,0x0000}.{0xBE01}[0x000A]Que puis-je faire pour vous être agréable[0xE07F]?
+Toutes mes excuses, vous avez déjà envoyé[0x000A]un Faire-Part Argent.
+Toutes mes excuses, vous avez déjà envoyé[0x000A]un Faire-Part Or.
+Toutes mes excuses, vous avez déjà envoyé[0x000A]un Avis de Défi.
+Toutes mes excuses, vous avez déjà envoyé[0x000A]un Avis de Défi Bleu.
+Toutes mes excuses, vous avez déjà envoyé[0x000A]un Avis de Défi Rouge.
+Toutes mes excuses, vous avez déjà envoyé[0x000A]un Avis de Défi Noir.
+Mesdames et Messieurs, le jour tant attendu est[0x000A]enfin arrivé.{0xBE01}[0x000A]Sa puissance lui a permis d’obtenir le titre ultime,[0x000A]celui de {0xFF00,0x0001}Grande-Duchesse{0xFF00,0x0000}.{0xBE01}[0x000A]L’admirable {0x0100,0x0002} nous fait l’honneur[0x000A]de sa présence.{0xBE01}[0x000A]Les mots me manquent pour décrire tant[0x000A]d’élégance. Je vous laisse juger par vous-mêmes.
+Je n’en attendais pas moins d’un membre de[0x000A]la noblesse, mille mercis pour votre bonté.
+[0xE08D]
+Oh, c’est trop aimable de penser ainsi à votre[0x000A]humble serviteur, Maître{0x1100,0x00FF,0x0300}sse {0x0100,0x0000}.
+[0xE08D]
+Pardon, mais vous avez déjà envoyé[0x000A]un Faire-Part.{0xBE01}[0x000A]Êtes-vous certain{0x1100,0x00FF,0x0100}e de vouloir poursuivre[0x000A]votre envoi[0xE07F]?
+Pardon, mais vous avez déjà envoyé[0x000A]un Faire-Part Argent.{0xBE01}[0x000A]Êtes-vous certain{0x1100,0x00FF,0x0100}e de vouloir poursuivre[0x000A]votre envoi[0xE07F]?
+Pardon, mais vous avez déjà envoyé[0x000A]un Avis de Défi.{0xBE01}[0x000A]Êtes-vous certain{0x1100,0x00FF,0x0100}e de vouloir poursuivre[0x000A]votre envoi[0xE07F]?
+Pardon, mais vous avez déjà envoyé[0x000A]un Avis de Défi Bleu.{0xBE01}[0x000A]Êtes-vous certain{0x1100,0x00FF,0x0100}e de vouloir poursuivre[0x000A]votre envoi[0xE07F]?
+Pardon, mais vous avez déjà envoyé[0x000A]un Avis de Défi Rouge.{0xBE01}[0x000A]Êtes-vous certain{0x1100,0x00FF,0x0100}e de vouloir poursuivre[0x000A]votre envoi[0xE07F]?
+Pardon, mais vous avez déjà envoyé[0x000A]un Avis de Défi Noir.{0xBE01}[0x000A]Êtes-vous certain{0x1100,0x00FF,0x0100}e de vouloir poursuivre[0x000A]votre envoi[0xE07F]?
+Que puis-je faire pour vous aujourd’hui[0xE07F]?
+Puis-je vous être d’une quelconque utilité[0xE07F]?
+{0xFF00,0x0001}Baron{0xFF00,0x0000}
+{0xFF00,0x0001}Vicomte{0xFF00,0x0000}
+{0xFF00,0x0001}Comte{0xFF00,0x0000}
+{0xFF00,0x0001}Marquis{0xFF00,0x0000}
+{0xFF00,0x0001}Duc{0xFF00,0x0000}
+{0xFF00,0x0001}Grand-Duc{0xFF00,0x0000}
+{0xFF00,0x0001}Baronne{0xFF00,0x0000}
+{0xFF00,0x0001}Vicomtesse{0xFF00,0x0000}
+{0xFF00,0x0001}Comtesse{0xFF00,0x0000}
+{0xFF00,0x0001}Marquise{0xFF00,0x0000}
+{0xFF00,0x0001}Duchesse{0xFF00,0x0000}
+{0xFF00,0x0001}Grande-Duchesse{0xFF00,0x0000}

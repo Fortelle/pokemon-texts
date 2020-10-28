@@ -1,0 +1,6 @@
+msg_t009pc01_woman_01=Sono venuta fin qui per visitare la Palestra[0x000A]dell’Isola Cannella, ma la porta è chiusa!{0xBE01}[0x000A]Da qualche parte dovrebbe esserci una chiave[0x000A]per aprirla.{0xBE01}[0x000A]Che sia nella villa abbandonata?[0x000A]Pare che ci vivesse un amico del Capopalestra.
+msg_t009pc01_gentlem_01=Hai tanti amici?{0xBE01}[0x000A]Ho sentito che i Pokémon ricevuti tramite[0x000A]scambio salgono di livello più velocemente.{0xBE01}[0x000A]Chissà se è vero... Vale la pena provare!
+msg_t009pc01_bugcatcher_01=I Pokémon possono imparare nuove mosse[0x000A]anche dopo aver interrotto la loro evoluzione.{0xBE01}[0x000A]Puoi approfittarne per fargli imparare qualche[0x000A]altra mossa prima di farli evolvere.
+msg_t009pc01_book_01=C’è una rivista intitolata “La voce del Centro[0x000A]Pokémon”.
+msg_t009pc01_select_01=Vuoi leggerla?
+msg_t009pc01_book_02=Sull’Isola Cannella si è recentemente[0x000A]intensificata l’attività vulcanica.{0xBE01}[0x000A]In caso di eruzioni di portata considerevole,[0x000A]l’isola dovrà essere evacuata immediatamente!{0xBE01}[0x000A]Da parte nostra, cercheremo di tenere aperto[0x000A]il Centro Pokémon il più a lungo possibile.{0xBE01}[0x000A]Vi chiediamo solamente di scuotervi di dosso[0x000A]la cenere vulcanica prima di entrare.

@@ -1,0 +1,58 @@
+The strange creature was sucked into[0x000A]the Zygarde Cube!
+Sina wants to talk to you! Zzt!{0x0114,0x0035}
+I just received a signal from your Zygarde Cube!{0xBE01}[0x000A]The creature that just got sucked into the cube[0x000A]is what we call a “{0xFF00,0x0001}Zygarde Cell{0xFF00,0x0000}”!{0xBE01}[0x000A]The Zygarde Cube I gave you is like a nest for[0x000A]Cells and Cores.{0xBE01}[0x000A]Your mission is to collect all the Cells[0x000A]and Cores!{0xBE01}[0x000A]We’ll get in touch.[0x000A]Bonne chance!{0x0114,0x0026}
+You’ve collected 10% so far.{0xBE01}[0x000A]If you’d like to know what this number means,[0x000A]please come to the Aether Base on Route 16 on{0xBE00}[0x000A]Ula’ula Island!{0xBE01}[0x000A]You are getting warmer![0x000A]Bonne chance!{0x0114,0x0026}
+You’ve collected no less than 50% of all the[0x000A]Cells and Cores!{0xBE01}[0x000A]I wonder how your painstaking efforts will pay[0x000A]off. Why don’t you visit the Aether Base on{0xBE00}[0x000A]Route 16 on Ula’ula Island?{0xBE01}[0x000A]You are getting even warmer![0x000A]Bonne chance!{0x0114,0x0026}
+You’ve collected all the Cells and Cores[0x000A]scattered in the Alola region!{0xBE01}[0x000A]No one else could have done this![0x000A]I knew I chose the right person for this mission!{0xBE01}[0x000A]Now Zygarde’s power is completely yours![0x000A]Time for you to get to the heart of this mystery!{0xBE00}[0x000A]Au revoir!{0x0114,0x0026}
+I just received a signal from your Zygarde Cube!{0xBE01}[0x000A]The creature that just got sucked into the cube[0x000A]is what we call a “{0xFF00,0x0001}Zygarde Core{0xFF00,0x0000}”!{0xBE01}[0x000A]Cores are mysterious creatures that form[0x000A]Zygarde together with Cells!{0xBE01}[0x000A]Also, Cores retain Zygarde’s moves!{0xBE01}[0x000A]You can use the Zygarde Cube to teach[0x000A]your Zygarde a move!{0xBE01}[0x000A]Why don’t you try it sometime?[0x000A]Bonne chance!{0x0114,0x0026}
+I see that you’ve just collected another[0x000A]Zygarde Core!{0xBE01}[0x000A]Each of these Core moves are memorized by[0x000A]the Zygarde Cube, so you can use it to teach{0xBE00}[0x000A]Zygarde moves as many times as you’d like!{0xBE01}[0x000A]Everything is up to you![0x000A]Bonne chance!{0x0114,0x0026}
+What would you like to do?
+Assembly
+Separation
+What is assembly?
+What is separation?
+Quit
+Please select how you’d like[0x000A]to assemble Zygarde.
+Using Zygarde and the Zygarde Cube
+Using the Zygarde Cube only
+What assembly methods are available?
+Please select Zygarde.
+Will you quit the assembly of Zygarde?
+You cannot assemble Pokémon other[0x000A]than Zygarde!
+This Zygarde has the Power Construct Ability,[0x000A]which allows Zygarde to Forme Change!{0xBE01}[0x000A]You cannot perform assembly or separation!
+Quitting assembly operation!
+You don’t have enough Cores and Cells in the[0x000A]Zygarde Cube!{0xBE01}[0x000A]Quitting the assembly operation!
+Your party and Boxes are full.{0xBE01}[0x000A]Quitting the Zygarde assembly operation![0x000A]
+The Zygarde you selected and the {0x0202,0x0000}% stored[0x000A]in the Zygarde Cube will be used to{0xBE00}[0x000A]assemble Zygarde 50% Forme!
+From your chosen Zygarde and the {0x0202,0x0000}% now[0x000A]in the Zygarde Cube, the unified Zygarde with{0xBE00}[0x000A]the Power Construct Ability will be assembled!
+Is that OK?
+The Zygarde has been reassembled!
+A new Zygarde has been assembled!
+It’s Zygarde 10% Forme!
+It’s Zygarde 50% Forme!
+It’s the unified Zygarde with the[0x000A]Power Construct Ability!
+Zygarde has gone into a Poké Ball!
+Zygarde has been sent to the PC!
+Zygarde will be assembled with the Cores[0x000A]and Cells within the Zygarde Cube only!
+{0xBDFF:0x0024}
+{0xBDFF:0x0025}
+The {0x0202,0x0000}% stored in the Zygarde Cube will[0x000A]be used to assemble Zygarde 10% Forme!
+The {0x0202,0x0000}% stored in the Zygarde Cube will[0x000A]be used to assemble Zygarde 50% Forme!
+The {0x0202,0x0000}% stored in the Zygarde Cube will be[0x000A]used to assemble the unified Zygarde with the{0xBE00}[0x000A]Power Construct Ability!
+Please select the Zygarde you’d like to[0x000A]separate into Cells!
+Once separated, the separated Zygarde cannot[0x000A]be put back together!{0xBE01}[0x000A]You’ll lose all its moves, Ribbons—[0x000A]everything about it!{0xBE01}[0x000A]Would you still like to separate the Zygarde[0x000A]you’ve selected?
+Quit separation
+Select another
+Will you quit the separation[0x000A]of Zygarde?
+You cannot separate Pokémon[0x000A]other than Zygarde!
+You cannot separate the unified Zygarde with[0x000A]the Power Construct Ability because its Cells{0xBE00}[0x000A]are bound together so tightly.{0xBE01}[0x000A]Please select a Zygarde that can be separated!
+Quitting separation operation!
+Please select a Zygarde that can be separated!
+You cannot separate that Zygarde because[0x000A]it’s wearing a special Ribbon!
+Zygarde has been separated!{0xBE01}[0x000A]The percentage in the Zygarde Cube has[0x000A]increased by {0x0202,0x0000}!
+You’ll have no Pokémon left to battle![0x000A]Quitting separation operation!
+You cannot separate a Zygarde that is holding[0x000A]an item!{0xBE01}[0x000A]Please take away its item before[0x000A]you try it again!
+It is called “{0xFF00,0x0001}assembly{0xFF00,0x0000}” when Zygarde is formed[0x000A]from the Cells stored in the Zygarde Cube!
+It is called “{0xFF00,0x0001}separation{0xFF00,0x0000}” when Zygarde is[0x000A]turned into Cells and put into the Zygarde Cube!
+There are two ways to achieve[0x000A]Zygarde assembly.{0xBE01}[0x000A]One is to take a Zygarde in your party and add [0x000A]to it the Cells stored in the Zygarde Cube!{0xBE01}[0x000A]The other way is to assemble the Cells stored in[0x000A]the Zygarde Cube to form a whole new Zygarde!
+I’m not sure what this device is for, but it looks[0x000A]pretty awesome!

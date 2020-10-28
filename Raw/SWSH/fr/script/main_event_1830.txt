@@ -1,0 +1,4 @@
+main_event_1830_rival_01=T’es prêt{0x1100,0x00FF,0x0100}e, {0x0100,0x0000} ?{0x0114,0x0005}
+main_event_1830_rival_02=Y’a moyen qu’on se retrouve encore perdus[0x000A]dans la brume... Mais on est plus forts qu’avant !{0x0114,0x0005}
+main_event_1830_rival_03=N’empêche, tout a commencé quand on est[0x000A]allés chercher le Moumouton dans la forêt...{0xBE00}[0x000A]Tu te souviens ?{0xBE01}[0x000A]C’était vraiment un jour trop ouf ![0x000A]Le début de notre histoire ! Hé hé !{0x0114,0x0005}
+main_event_1830_rival_04=Et aujourd’hui, on continue de l’écrire ![0x000A]Allez, c’est parti !{0x0114,0x0005}

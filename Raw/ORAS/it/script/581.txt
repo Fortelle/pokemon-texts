@@ -1,0 +1,33 @@
+Ehi, come va {0x0100,0x0000}, aspirante Campione{0x1100,0x00FF,0x0300}ssa?
+Walter, il Capopalestra di Ciclamipoli, usa Pokémon[0x000A]di tipo Elettro.{0xBE01}[0x000A]Se lo sfidi con Pokémon di tipo Acqua, li folgorerà![0x000A]Bzzzzt!{0xBE01}[0x000A]Tutti gli strani congegni elettrici della sua Palestra sono[0x000A]controllati da interruttori!
+Forza, tieni duro!
+Wow, sei elettrizzante![0x000A]Con la tua energia hai fatto saltare tutte le barriere!
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+Ehi! Come hai fatto ad arrivare qui?
+Non mi dirai che hai superato tutte[0x000A]le mie barriere elettriche?!
+Ah ah ah! Troppo forte!
+Ho dovuto rinunciare al progetto di modernizzare[0x000A]tutta Ciclamipoli.{0xBE01}[0x000A]Ora mi dedico unicamente alle sfide con i giovani[0x000A]Allenatori come te e all’ideazione di nuovi congegni.
+Io, Walter, Capopalestra di Ciclamipoli,[0x000A]ti elettrizzerò!
+{0xBDFF:0x0015}
+Ah ah ah ah! Ok, ho perso!{0xBE01}[0x000A]Mi hai dato la scossa! Prendi questa Medaglia!
+{0x0100,0x0000} riceve la Medaglia Dinamo da Walter.
+Con la Medaglia Dinamo, potrai usare[0x000A]Spaccaroccia fuori dalla lotta.{0xBE01}[0x000A]Inoltre, i Pokémon fino al livello 40 seguiranno[0x000A]puntualmente le tue istruzioni, compresi quelli{0xBE00}[0x000A]ricevuti tramite scambi.
+E ho anche un’altra cosa per te!
+La MT72 contiene Invertivolt.{0xBE01}[0x000A]Quando un Pokémon usa questa mossa, attacca[0x000A]l’avversario e torna subito indietro per farsi sostituire{0xBE00}[0x000A]da un altro Pokémon della squadra.
+Vedere una giovane promessa come te mi riempie[0x000A]di ottimismo!
+Ah ah ah ah![0x000A]Continua così, giovane promessa!
+Palestra di Ciclamipoli
+Palestra di Ciclamipoli{0xBE01}[0x000A]Allenatori certificati da Walter:[0x000A]{0x0100,0x0000}
+Ooh! Hai conquistato il titolo[0x000A]di Campione{0x1100,0x00FF,0x0300}ssa!{0xBE01}[0x000A]Beh, non mi stupisce! Ho capito che avevi[0x000A]talento nel momento in cui ti ho vist{0x1100,0x00FF,0x0101}oa!{0xBE01}[0x000A]Mi aspetto molto da te in futuro!
+Palestra di Ciclamipoli{0xBE01}[0x000A]Allenatori certificati da Walter:[0x000A]{0x0100,0x0000} e Lino

@@ -1,0 +1,10 @@
+È un Distributore.[0x000A]Che bibita vuoi?
+{0x0109,0x0000} {0xBD03,0x0000}{0x0202,0x0001} $
+Esci
+Non ho sete...
+Hai raggiunto il limite per questo oggetto!
+Non hai abbastanza soldi!
+È uscit{0x1100,0x0000,0x0101}oa {0x1502,0x0000}{0x0109,0x0000}!
+Vuoi comprare un’altra bibita?
+Che fortuna! È uscita un’altra bottiglia[0x000A]di {0x0109,0x0000}!
+È un Distributore.{0xBE01}[0x000A]Non c’è nessuna delle tue bibite preferite!

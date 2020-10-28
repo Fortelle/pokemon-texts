@@ -1,0 +1,18 @@
+Wähle ein Motiv oder einen Gegenstand.
+Was möchtest du mit deinen Objekten tun?
+Lege das Objekt ab, wo du möchtest.
+{0x018C,0x0000}
+{0x0201,0x0000}
+Gegenstände
+Objekte
+Pofflés
+Wähle ein Objekt oder ein Pofflé aus.
+Möchtest du das Pofflé ablegen?
+Pofflés verschwinden nach Gebrauch!
+Das Pofflé ins Regal zurücklegen?
+Ablage angebissener Pofflés nicht möglich.
+Da Pokémon zu Besuch sind,[0x000A]kann es nicht zurückgelegt werden.
+Mehr Objekte können nicht platziert werden.
+Pofflé ändern
+Wenn du das Pofflé-Angebot änderst,[0x000A]kehren Pokémon, die zu Besuch sind,[0x000A]nach Hause zurück. Einverstanden?
+{0x01A0,0x0000}

@@ -1,0 +1,13 @@
+main_event_1680_stuff_01=La cérémonie d’ouverture va bientôt commencer.[0x000A]Êtes-vous prêt{0x1100,0x00FF,0x0100}e ?
+main_event_1680_select_01=Fin prêt{0x1100,0x00FF,0x0100}e !
+main_event_1680_select_02=Pas tout à fait...
+main_event_1680_stuff_02=Alors, allez-y !
+main_event_1680_stuff_03=Prenez votre temps. Vous désirez peut-être[0x000A]discuter avec les autres participants au préalable ?
+main_event_1680_leader1_01=Pour survivre en compétition, il faut toujours[0x000A]être prêt à relever n’importe quel défi.{0xBE01}[0x000A]Toujours chercher à dépasser ses limites :[0x000A]c’est ça, être un Dresseur Pokémon !{0x0114,0x0010}
+main_event_1680_leader2_01=Je dois affronter Roy en premier...[0x000A]J’ai vraiment pas de chance !{0xBE01}[0x000A]J’imagine qu’il compte manipuler la météo[0x000A]à son avantage, mais je ne me laisserai pas faire !{0x0114,0x000E}
+main_event_1680_leader3_01=Je suis ravie de te revoir ! J’espère que[0x000A]ton {0x1101,0x00FD,0x0607}Pokémonéquipe et toi vous montrerez à la hauteur{0xBE00}[0x000A]de ce tournoi. Comparé au Défi des Arènes,{0xBE00}[0x000A]le niveau est tout autre !{0x0114,0x000F}
+main_event_1680_leader4_01=Mon cœur bat la chamade...[0x000A]J’ai vraiment hâte que les matchs commencent.{0x0114,0x0011}
+main_event_1680_leader5_01=Tu auras à peine le temps de cligner des yeux[0x000A]que mon match sera déjà terminé.{0xBE01}[0x000A]Mon équipe et moi, on va vous en mettre[0x000A]plein la vue !{0x0114,0x0014}
+main_event_1680_leader6_01=Je vais terrasser tout le monde pour enfin faire[0x000A]face à Tarak et lui montrer qui est le plus fort !{0xBE01}[0x000A]Je le dois à Duralugon et à tous les Pokémon[0x000A]qui m’ont aidé à arriver jusqu’ici. Et à mes fans !{0x0114,0x0017}
+main_event_1680_leader7_01=Je suis venu tenter ma chance au Tournoi[0x000A]des Champions.{0xBE01}[0x000A]Imagine la fierté des gens de Smashings[0x000A]si je gagne sans utiliser le Dynamax !{0x0114,0x0016}
+main_event_1680_stuff_04=La cérémonie d’ouverture va bientôt commencer.[0x000A]Veuillez vous rendre sur le terrain.

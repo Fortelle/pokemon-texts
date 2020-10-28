@@ -1,0 +1,10 @@
+main_event_0300_champion_01=Was für ein Kampf!{0xBE01}[0x000A]{0x0100,0x0000}, Hop... Mir...[0x000A]Mir fehlen die Worte.{0xBE01}[0x000A]Damit habt ihr euch meine Empfehlung für die[0x000A]Arena-Challenge mehr als verdient.{0x0114,0x0004}
+main_event_0300_rival_01=Danke, Delion! Ich schwöre, ich werde bei der[0x000A]Arena-Challenge voll durchstarten!{0x0114,0x0005}
+main_event_0300_champion_02=Man merkt zwar, dass ihr noch jung und[0x000A]unerfahren seid, aber dieser Kampf war grandios!{0xBE01}[0x000A]Glurak und ich sind noch immer völlig begeistert.[0x000A]Ich hab richtig Gänsehaut bekommen!{0x0114,0x0004}
+main_event_0300_champion_03=Hop, früher hatte ich oft das Gefühl, dass du dich[0x000A]zu sehr auf Nebensächlichkeiten konzentrierst...{0xBE01}[0x000A]Wurftechniken für Pokébälle und andere[0x000A]Kleinigkeiten, die mit der wahren Leistung{0xBE00}[0x000A]eines Trainers nichts zu tun haben.{0xBE01}[0x000A]Aber nun scheinst du einen großen Schritt in die[0x000A]richtige Richtung gemacht zu haben!{0x0114,0x0004}
+main_event_0300_champion_04=Dein Kampfstil ist auch unglaublich mitreißend,[0x000A]{0x0100,0x0000}. Davon will ich mehr sehen!{0x0114,0x0004}
+main_event_0300_rival_02=Hast du das gehört, {0x0100,0x0000}?[0x000A]Lass uns ab sofort trainieren, was das Zeug hält!{0xBE01}[0x000A]Versuchen wir, Delion zu übertrumpfen, damit[0x000A]einer von uns der nächste Champ wird!{0x0114,0x0005}
+main_event_0300_select_01=Ich bin dabei!
+main_event_0300_select_02=Einer von uns?
+main_event_0300_rival_03=Klasse! Mit {0x1100,0x00FF,0x0D0D,0x0000}einem Rivaleneiner Rivalin wie dir fällt mir das[0x000A]Training gleich viel leichter!{0x0114,0x0005}
+main_event_0300_rival_04=Na logo! Es kann nur einen geben.[0x000A]Wir sind immerhin Rivalen!{0x0114,0x0005}

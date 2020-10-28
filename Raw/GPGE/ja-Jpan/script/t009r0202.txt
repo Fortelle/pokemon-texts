@@ -1,0 +1,5 @@
+msg_t009r0202_diary_01=日記　７月５日{0xBE01}[0x000A]ジャングルの　奥地で[0x000A]新種の　ポケモンを　発見
+msg_t009r0202_diary_02=日記　７月１０日[0x000A]新発見の　ポケモンを{0xBE00}[0x000A]わたしは　ミュウと　名づけた
+msg_t009r0202_switch_01={0xBDFF:0x0002}
+msg_t009r0202_switch_02={0xBDFF:0x0003}
+msg_t009r0202_switch_03={0xBDFF:0x0004}

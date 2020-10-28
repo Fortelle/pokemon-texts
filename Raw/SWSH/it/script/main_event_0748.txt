@@ -1,0 +1,11 @@
+main_event_0748_sister_01=Tu sei {0x0100,0x0000}, giusto?[0x000A]Vedo che ti alleni fino a tardi.{0x0114,0x000D}
+main_event_0748_sister_02=Già che ci siamo... ci stai per una piccola[0x000A]sfida io e te?{0xBE01}[0x000A]Voglio vedere se sono pronta per la prossima[0x000A]lotta della Sfida delle Palestre.{0x0114,0x000D}
+main_event_0748_select_01=Ci sto!
+main_event_0748_select_02=... Ma devo proprio?
+main_event_0748_sister_07=Oi! Ma dove te ne vai?{0x0114,0x000D}
+main_event_0748_sister_08=Dobbiamo lottare insieme![0x000A]Mica te ne puoi andare così!{0x0114,0x000D}
+main_event_0748_sister_03=Oh! Questo sì che è spirito combattivo!{0x0114,0x000D}
+main_event_0748_sister_04=Ma insomma! Dov’è il tuo spirito combattivo?{0x0114,0x000D}
+main_event_0748_sister_05={0xBDFF:0x0008}
+main_event_0748_sister_06=Meglio andare a dormire adesso. Domani voglio[0x000A]essere in forma. Ti consiglio di fare lo stesso...{0x0114,0x000D}
+main_event_0748_poke1_01=Peeeko!{0x0114,0x0070}

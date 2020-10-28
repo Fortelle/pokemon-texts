@@ -1,0 +1,5 @@
+main_event_1675_stuff_01=Challenger {0x0100,0x0000}.[0x000A]We’ve been waiting for you.{0xBE01}[0x000A]Since you won your way through the Semifinals,[0x000A]you must face off against the Gym Leaders in the{0xBE00}[0x000A]Finals. And they won’t be holding back.{0xBE01}[0x000A]Whoever makes it through this final bracket will[0x000A]win the right to challenge the Champion...{0xBE00}[0x000A]So, are you ready to go to the locker room now?
+main_event_1675_select_01=Yes, straightaway
+main_event_1675_select_02=Not yet
+main_event_1675_stuff_02=Then I’ll show you the way.
+main_event_1675_stuff_03=Then let me know when you’re ready.

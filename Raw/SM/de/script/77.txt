@@ -1,0 +1,9 @@
+Hallo, {0x0100,0x0000}...[0x000A]Dürfte ich dich etwas fragen?{0xBE01}[0x000A]Suchst du dir deine Kleidung eigentlich[0x000A]selbst aus?{0x0114,0x0006}
+Na klar!
+Nein, das macht Mama.
+Natürlich. Wie wohl die meisten anderen Leute[0x000A]auch, nicht wahr...?{0x0114,0x0006}
+Dann hat deine Mutter einen guten Geschmack.[0x000A]I-Ich finde, du bist sehr stilsicher gekleidet!{0x0114,0x0006}
+Ich trage immer nur die Kleidung, die meine[0x000A]Mutter für mich ausgesucht hat...{0xBE01}[0x000A]Daher weiß ich auch nicht so recht, welche[0x000A]Sachen mir überhaupt stehen...{0x0114,0x0006}
+Ach übrigens, {0x0100,0x0000}...{0xBE01}[0x000A]Schau mal, was ich vorhin in der Boutique[0x000A]erhalten habe.{0x0114,0x0006}
+Kaum hatte ich den Laden betreten, hat man mir[0x000A]einfach so {0x1100,0x00FF,0x140E,0x0000}diesen Artikeldiese beiden Artikel überreicht...{0xBE01}[0x000A]Allem Anschein nach war ich der[0x000A]99[0xE07F]999. Kunde der Boutique.{0xBE01}[0x000A]Da ich aber so etwas Ähnliches bereits besitze,[0x000A]w-würde ich {0x1100,0x00FF,0x0303,0x0000}ihnsie gerne dir überlassen.{0x0114,0x0006}
+Jetzt haben wir ja etwas gemeinsam,[0x000A]nicht wahr, {0x0100,0x0000}?{0x0114,0x0006}

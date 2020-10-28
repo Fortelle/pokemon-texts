@@ -1,0 +1,84 @@
+{0x0100,0x0000}’s Base
+Edit secret team settings
+Decorate your base
+Delete favorites
+Select Decorations
+Manage favorites
+About favorites
+Flags collected
+{0x0205,0x0000,0x002C}
+Decorate your base
+Manage QR Code patterns
+Delete favorites
+Edit secret team settings
+Clean up your base
+Power off
+Change team name
+Change team slogan
+Change happy message
+Change encouraging message
+Back
+Place Decorations and other touches around[0x000A]your base, or move those already in place.
+Scan in QR Code patterns for other people’s bases,[0x000A]or make a QR Code for your own Secret Base.
+Remove Secret Bases from your Favorites List.
+Change your base’s team name, slogan,[0x000A]messages, and other details.
+Clean out your Secret Base and move outside.
+Turn off the PC and quit using it.
+Change the {0xFF00,0x0002}name{0xFF00,0x0000} you gave your team.
+Change the {0xFF00,0x0002}slogan{0xFF00,0x0000} you set for your team.
+Change the message you’d like to share with[0x000A]others when you’re {0xFF00,0x0002}feeling happy{0xFF00,0x0000}.
+Change the message you’d like to share with[0x000A]others when you want to {0xFF00,0x0002}encourage them{0xFF00,0x0000}.
+Go back to the previous screen.
+You are about to dismiss all of your Secret Pals.{0xBE01}[0x000A]Are you sure you want to continue?
+Please select the player that you would like to[0x000A]remove from your Favorites List.
+Would you like to remove {0x0100,0x0000}[0x000A]from your Favorites List?
+Would you like to register {0x0100,0x0000}[0x000A]to your Favorites List?
+{0x0100,0x0000} has already been registered[0x000A]to your Favorites List.{0xBE01}[0x000A]Would you like to remove him or her?
+{0x0100,0x0000} has been removed[0x000A]from your Favorites List.
+{0x0100,0x0000} has been added to your Favorites List.
+You have no favorites registered.
+You cannot register any more favorites!{0xBE01}[0x000A]Please select {0xFF00,0x0002}Manage favorites {0xFF00,0x0000}to remove[0x000A]some bases from your Favorites List.
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+{0xBDFF:0x002A}
+{0xBDFF:0x002B}
+Add to favorites
+Delete favorites
+About favorites
+You can register this base’s owner[0x000A]to your Favorites List.
+View an explanation about favorites.
+The Secret Base of any player you register[0x000A]to your Favorites List will never be lost, as{0xBE00}[0x000A]long as that person does not move bases.{0xBE01}[0x000A]You can register up to 15 favorites at a time.{0xBE01}[0x000A]When you discover a base you like, be sure[0x000A]to register its owner as a favorite!
+{0x0100,0x0000}
+{0xBDFF:0x0033}
+{0xBDFF:0x0034}
+Yes
+No
+Desks
+Chairs
+Mats
+Plants
+Objects
+Wall art
+Dolls
+Cushions
+Appliances
+Tricks
+{0xBDFF:0x0041}
+{0x0100,0x0001}’s Secret Base has turned up[0x000A]around {0x0105,0x0002}!
+A special Secret Base has turned up[0x000A]in Mossdeep City!
+Secret Base list
+Secret Base list
+Check out players you know and their Secret Bases.
+{0x0100,0x0000}
+You can delete the base of the person you selected.
+You do not yet know any Secret Base owners.
+{0x0100,0x0000} is one of your Secret Pals.{0xBE01}[0x000A]You cannot delete the bases of your Secret Pals.
+Would you like to delete {0x0100,0x0001}’s Secret[0x000A]Base ({0x0105,0x0000})?
+Are you sure about this?
+{0x0100,0x0000} is registered as one of your favorites.{0xBE01}[0x000A]Are you sure about this?
+You deleted {0x0100,0x0001}’s Secret Base[0x000A]({0x0105,0x0000}).
+Delete Secret Bases
+You can delete this Secret Base.
+Would you like to delete {0x0100,0x0000}’s base?
+You deleted {0x0100,0x0000}’s base.
+Team {0x01AA,0x0000}’s Base

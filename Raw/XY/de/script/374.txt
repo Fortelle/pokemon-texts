@@ -1,0 +1,6 @@
+Da steht ein kuschelweiches Bett.[0x000A]Möchtest du dich ein bisschen ausruhen?
+{0x0100,0x0000} legt sich ins Bett[0x000A]und schläft sofort ein...
+{0x0100,0x0000} und {0x1100,0x00FF,0x0304,0x0000}seinihr Pokémon-Team[0x000A]fühlen sich ausgeruht und fit!
+Gibt’s denn so was?! Warum trägst du denn nicht[0x000A]das geniale Outfit von Team Flare?{0xBE01}[0x000A]Ah, verstehe. Du willst nicht,[0x000A]dass es im Bett Falten schlägt, hab ich recht?
+Du da! Warum musterst du das Bett so intensiv?[0x000A]Hast du etwa vor, dich aufs Ohr zu hauen?{0xBE01}[0x000A]Und noch was:[0x000A]Kennst du dich mit dieser TM aus?
+Pokémon, die unter dem Einfluss von Verhöhner[0x000A]stehen, können nur noch Attacken auswählen,{0xBE00}[0x000A]die dem Ziel Schaden zufügen.

@@ -1,0 +1,14 @@
+Sí
+No
+¿Quieres guardar la última foto en la[0x000A]tarjeta SD?
+Se ha guardado la foto en la Cámara de[0x000A]Nintendo 3DS.
+Si no guardas la foto, será eliminada.[0x000A]¿Quieres continuar sin guardarla?
+Guardando...[0x000A]No apagues la consola.
+{0xBDFF:0x0006}
+Se ha guardado la foto en la Cámara de[0x000A]Nintendo 3DS.{0xBE01}[0x000A]Aviso: La foto que has tomado ocupa[0x000A]demasiado y no podrá enviarse a Pokémon{0xBE00}[0x000A]Global Link.
+La foto no se puede guardar porque no hay[0x000A]espacio suficiente en la tarjeta SD.
+La foto no se ha podido guardar porque la[0x000A]Cámara de Nintendo 3DS no tiene espacio{0xBE00}[0x000A]para almacenar más fotos.
+Se han encontrado datos dañados en la[0x000A]tarjeta SD y se han eliminado.{0xBE01}[0x000A]No se ha podido guardar la foto.
+No se ha podido guardar la foto.
+{0xBDFF:0x000C}
+Listo

@@ -1,0 +1,85 @@
+PP
+L.
+Al livello successivo
+PS
+Attacco
+Difesa
+Att. Sp.
+Dif. Sp.
+Velocità
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+{0xBDFF:0x000B}
+Info
+Mostra mosse
+Categoria
+Potenza
+Precisione
+Di stato
+Fisica
+Speciale
+Fascino
+Intralcio
+Scegli un Pokémon.
+Su quale Pokémon?
+Quale Pokémon mandi in campo?
+Sostituisci
+È già in campo
+Non è in grado di lottare
+Alleato
+Rimedi
+Info
+Mostra mosse
+{0x0102,0x0001} è già in campo!
+{0x0102,0x0001} non ha più energie[0x000A]per lottare!
+Un Uovo non può lottare!
+Impossibile sostituire il Pokémon[0x000A]con quello di un’altra squadra!
+Non puoi sostituire {0x0102,0x0001}!
+Terapie per PS e PP
+Terapie per problemi di stato
+Quale?
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+Terapie[0x000A]PS/PP
+Terapie[0x000A]stato
+{0xBDFF:0x002C}
+Poké Ball
+Strumenti lotta
+Ultimo strumento usato
+Usa
+{0xBDFF:0x0031}
+Non puoi prendere la mira finché[0x000A]non rimane un solo Pokémon!
+I Box del PC sono pieni!
+Non puoi prendere di mira un Pokémon[0x000A]che non si vede!
+Hai bisogno di più concentrazione per[0x000A]lanciare le Poké Ball!
+La mossa {0x0107,0x0001} impedisce[0x000A]di usare lo strumento su {0x0102,0x0000}!
+Sì
+No
+Usa un altro Pokémon
+Fuga
+Fai dimenticare
+Non far dimenticare
+Cambia Pokémon
+Continua a lottare
+Dove vuoi posizionarlo?
+Quale mossa vuoi ricaricare?
+Non avrebbe alcun effetto.
+È una mossa appresa tramite MN.[0x000A]Non puoi fargliela dimenticare ora!
+Esci
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}
+{0xBDFF:0x0046}
+{0xBDFF:0x0047}
+{0x0202,0x0000}
+×
+/
+/
+L
+Destra
+Sinistra
+Centro
+{0x0204,0x0000,0x002E}
+-
+In attesa...
+Hai già selezionato {0x0102,0x0001}.
+Sembra quasi di sentire l’eco[0x000A]delle parole di papà...{0xBE01}[0x000A]“{0x0100,0x0000}, c’è un luogo e un tempo[0x000A]per ogni cosa. Non è il momento, ora!”

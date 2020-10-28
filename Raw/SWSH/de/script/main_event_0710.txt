@@ -1,0 +1,12 @@
+main_event_0710_seniority_01=Du schon wieder...{0x0114,0x000C}
+main_event_0710_seniority_02=Kämpfe gegen minderwertige Gegner sind eine[0x000A]unerträgliche Zumutung für meine Pokémon.{0x0114,0x000C}
+main_event_0710_seniority_03=Ich selbst bin auch nicht in der Stimmung,[0x000A]mich auf dein Niveau herabzulassen.{0xBE01}[0x000A]Aber... Schwächlinge wie dich in ihre Schranken[0x000A]zu weisen, ist irgendwo auch ein Akt der Gnade.{0x0114,0x000C}
+main_event_0710_seniority_04=Wenn du dir tatsächlich einbildest, mich[0x000A]besiegen zu können, hast du meine Erlaubnis,{0xBE00}[0x000A]mich zum Kampf herauszufordern.{0xBE01}[0x000A]Also, was sagst du, Schwächling?{0x0114,0x000C}
+main_event_0710_select_01=Ich fordere dich heraus!
+main_event_0710_select_02=Ich bin noch nicht bereit...
+main_event_0710_seniority_07=Ich wurde von Liga-Präsident Rose persönlich[0x000A]auserwählt. Dass ich verliere, ist völlig undenkbar.{0x0114,0x000C}
+main_event_0710_seniority_05=Pfff... Schwächlinge wie du sollten mir[0x000A]gar nicht erst unter die Augen treten.{0x0114,0x000C}
+main_event_0710_seniority_06=Na schön, ich korrigiere: Ein Schwächling bist du[0x000A]nicht. Dafür aber ein Schwachkopf.{0xBE01}[0x000A]Zu glauben, dass du die Arena-Challenge[0x000A]bestehen könntest, ist reiner Schwachsinn.{0xBE01}[0x000A]Hier hast du schon mal einen kleinen Trostpreis...{0x0114,0x000C}
+main_event_0710_seniority_08=So, jetzt hab ich aber wirklich Wichtigeres zu tun.{0xBE01}[0x000A]Mal sehen... Wo könnte ich als Nächstes auf die[0x000A]Jagd nach Wunschsternen gehen?{0x0114,0x000C}
+main_event_0710_yellm1_01=Ich verkneif mir die Jubelgesänge fürs Erste.{0xBE01}[0x000A]Sonst schickt dieser Fiesling wieder seine[0x000A]Pokémon auf mein Team los...{0x0114,0x0043}
+main_event_0710_yellm2_01=Wenn ich schon nicht in echt gewinne,[0x000A]dann wenigstens im Traum...{0x0114,0x0044}

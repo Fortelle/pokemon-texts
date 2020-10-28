@@ -1,0 +1,4 @@
+msg_t005r0201_poke_01={0xBDFF:0x0000}
+msg_t005r0201_youngf_01=Weißt du, was diese Fieslinge von Team Rocket[0x000A]getan haben?{0xBE01}[0x000A]Sie haben Knogga entführt, die Mutter von dem[0x000A]kleinen Tragosso, um das wir uns jetzt kümmern.{0xBE01}[0x000A]Ich glaube, keiner hat sie je wiedergesehen...[0x000A]Das dürfen die doch nicht einfach machen!
+msg_t005r0201_youngf_03={0xBDFF:0x0002}
+msg_t005r0201_youngf_02=Die rastlose Seele ist aus dem Pokémon-Turm[0x000A]verschwunden! Jemand hat sie wohl besänftigt.{0xBE01}[0x000A]Und das kleine Tragosso wurde von einem[0x000A]Trainer aufgenommen. Ich freue mich so für es!

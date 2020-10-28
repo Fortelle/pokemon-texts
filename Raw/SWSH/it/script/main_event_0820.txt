@@ -1,0 +1,15 @@
+main_event_0820_rival_01=Andiamo, {0x0100,0x0000}!{0x0114,0x0005}
+main_event_0820_rival_02=Oh! Non mi dire!{0x0114,0x0005}
+main_event_0820_rival_03=Un Capopalestra che viene apposta per salutarci?{0xBE01}[0x000A]Kabu... Hai già capito che sarò io il prossimo[0x000A]Campione, eh?{0x0114,0x0005}
+main_event_0820_leader3_01=Vedo spesso Allenatori che gettano la spugna[0x000A]già prima della terza Medaglia.{0xBE01}[0x000A]Per questo ci tengo ad augurare buona fortuna[0x000A]a chiunque sia riuscito a battermi.{0x0114,0x0010}
+main_event_0820_leader2_01=Fiuu... Che corsa! Ce l’abbiamo fatta![0x000A]Meno male che c’è il Volotaxi...{0x0114,0x000F}
+main_event_0820_leader2_02={0x0100,0x0000}, Hop, mi congratulo con voi![0x000A]Vi siete davvero fatti valere contro Kabu!{0x0114,0x000F}
+main_event_0820_leader1_01=Non sono molti gli Sfidapalestre che possono[0x000A]vantarsi di aver ottenuto una Medaglia da Kabu.{0xBE01}[0x000A]Per questo abbiamo deciso di venirvi a salutare![0x000A]Meritate il nostro supporto!{0x0114,0x000E}
+main_event_0820_leader3_02=Già! Meritate proprio un po’ di tifo!{0x0114,0x0010}
+main_event_0820_leader3_03=Vai, vai, Hop![0x000A]Forza, coraggio, {0x0100,0x0000}!{0x0114,0x0010}
+main_event_0820_leader3_04=I Capipalestra che state per affrontare sono[0x000A]degli ossi duri.{0xBE01}[0x000A]Ma con il vostro talento, siamo sicuri[0x000A]che riuscirete a superare ogni ostacolo!{0xBE01}[0x000A]Dovete credere nei vostri Pokémon fino alla fine!{0x0114,0x0010}
+main_event_0820_rival_04=Sono commosso... Grazie mille!{0xBE01}[0x000A]Non ci arrenderemo mai! Vi prometto che[0x000A]faremo di tutto per arrivare fino in fondo!{0x0114,0x0005}
+main_event_0820_leader3_06=Prossima tappa... Knuckleburgh!{0xBE01}[0x000A]Su, {0x0100,0x0000}![0x000A]Andiamo e spacchiamo tutto!{0x0114,0x0005}
+main_event_0820_leader3_05=Cercate in voi ciò che vi manca!{0xBE01}[0x000A]Chi sa comprendere le proprie debolezze[0x000A]ne trae insegnamento e le trasforma in forza!{0x0114,0x0010}
+main_event_0820_leader1_02=Il lavoro dei campi è disseminato di incertezze[0x000A]e spesso ti mette di fronte a eventi inaspettati.{0xBE01}[0x000A]Lo stesso vale per le lotte di Pokémon![0x000A]L’importante è non arrendersi mai!{0x0114,0x000E}
+main_event_0820_leader2_03=Essere stoici ha i suoi lati positivi, però[0x000A]a volte se tiri troppo la corda si spezza.{0xBE01}[0x000A]Quando avrete bisogno di recuperare le forze,[0x000A]venite a trovarmi al ristorante della mia città!{0xBE00}[0x000A]Vi aspetto!{0x0114,0x000F}

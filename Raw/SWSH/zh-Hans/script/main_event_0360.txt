@@ -1,0 +1,14 @@
+main_event_0360_rival_01=站长，这里不是[0x000A]旷野地带的车站吗？{0xBE00}[0x000A]到底发生了什么事啊？{0x0114,0x0005}
+main_event_0360_stationmaster_01=哎呀……有很多毛辫羊[0x000A]跑到了轨道上面……{0xBE00}[0x000A]所以列车暂时无法行驶了。
+main_event_0360_rival_02=这反而是件好事啊！{0x0114,0x0005}
+main_event_0360_select_01=好事？
+main_event_0360_select_02=哪里好？
+main_event_0360_rival_03=旷野地带很宽广！[0x000A]到处都是宝可梦！{0xBE01}[0x000A]你懂吧？{0x0100,0x0000}！[0x000A]我们可以打造最强的队伍啦！{0x0114,0x0005}
+main_event_0360_stationmaster_02=要回木杆镇倒是可以，[0x000A]但机擎市怕是去不成了。{0xBE01}[0x000A]而且我们也不能强行轰走[0x000A]聚集在轨道上的宝可梦啊。
+main_event_0360_assistant_01={0xBDFF:0x0007}
+main_event_0360_rival_05={0xBDFF:0x0008}
+main_event_0360_rival_06={0xBDFF:0x0009}
+main_event_0360_assistant_02={0xBDFF:0x000A}
+main_event_0360_assistant_03={0xBDFF:0x000B}
+main_event_0360_rival_04={0xBDFF:0x000C}
+main_event_0360_assistant_04={0xBDFF:0x000D}

@@ -1,0 +1,5 @@
+msg_main1510_doctor_01={0xFF00,0x0009}Prof. Oak:{0xFF00,0x0000} Ehm ehm![0x000A]Congratulazioni, {0x0100,0x0000}!
+msg_main1510_doctor_02=Questa è la Sala d’Onore.{0xBE01}[0x000A]Qui, di generazione in generazione, vengono[0x000A]consacrati gli Allenatori e i Pokémon{0xBE00}[0x000A]che si sono distinti per il loro valore.
+msg_main1510_doctor_03=Avere il proprio nome immortalato[0x000A]in questo luogo è un grandissimo onore{0xBE00}[0x000A]per un Allenatore.
+msg_main1510_doctor_04={0x0100,0x0000}!{0xBE01}[0x000A]Hai lottato strenuamente per diventare[0x000A]{0x1100,0x00FF,0x0202}illa Campione{0x1100,0x00FF,0x0300}ssa della Lega Pokémon!{0xBE00}[0x000A]Congratulazioni!
+msg_main1510_doctor_05=Il tuo nome e quell{0x1101,0x00FD,0x0101}oi de{0x1101,0x00FD,0x0605}l tuoi tuoi Pokémon[0x000A]verranno acclamati per l’eternità!

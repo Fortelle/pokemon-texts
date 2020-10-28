@@ -1,0 +1,12 @@
+msg_main8110_combat_01={0xFF00,0x0009}Bruno:{0xFF00,0x0000} Io sono Bruno dei Superquattro!
+msg_main8110_combat_05=Con un rigoroso allenamento, le persone e[0x000A]i Pokémon possono raggiungere livelli di forza{0xBE00}[0x000A]inimmaginabili!
+msg_main8110_combat_06=Nella mia vita ho sempre allenato Pokémon[0x000A]di tipo Lotta! E non ho intenzione di smettere!
+msg_main8110_combat_07=Il tuo nome è {0x0100,0x0000}, giusto?!
+msg_main8110_combat_08=Io e la mia squadra ti annienteremo[0x000A]con la nostra forza sovrumana!
+msg_main8110_combat_09=Uaaaaah!
+msg_shiba_01_p02_cave_d1402={0xBDFF:0x0006}
+msg_main8110_combat_02={0xFF00,0x0009}Bruno:{0xFF00,0x0000} Il nostro compito è finito! Vai![0x000A]Una nuova sfida ti aspetta!
+msg_main8110_combat_03={0xFF00,0x0009}Bruno:{0xFF00,0x0000} Durante la tua lotta con Lorelei hai dato[0x000A]del tuo meglio, ragazzin{0x1100,0x00FF,0x0101}oa. Ho percepito{0xBE00}[0x000A]la tua determinazione persino da qui.
+msg_main8110_combat_10=Ho allenato instancabilmente i miei Pokémon[0x000A]di tipo Lotta, e ora sono pronto a mostrarti{0xBE00}[0x000A]i frutti dei miei sforzi!
+msg_main8110_combat_11=Uaaaah![0x000A]Uaaaaaaaaaaaaaaah!!
+msg_main8110_combat_04=Accidenti! Il mio allenamento non è[0x000A]ancora sufficiente...!{0xBE01}[0x000A]Non mi serve la tua compassione, ragazzin{0x1100,0x00FF,0x0101}oa![0x000A]Forza, procedi!

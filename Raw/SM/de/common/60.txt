@@ -1,0 +1,109 @@
+Verbindung wird hergestellt...[0x000A]Bitte warte einen Moment.
+Bitte wähle, wer die Kampfregeln festlegen soll.
+Es wird ein Spieler gewählt, der die Kampfregeln[0x000A]festlegen soll.{0xBE01}
+Bitte wähle, wer die Kampfregeln festlegen soll.{0xBE01}[0x000A]Bei Multikämpfen wird auch die Teamaufteilung[0x000A]festgelegt.{0xBE01}
+Es wird ein Spieler gewählt, der die Kampfregeln[0x000A]festlegt... Bitte warte einen Moment.
+Bitte lege die Kampfregeln fest.{0xBE01}
+Kampfregeln werden übertragen...[0x000A]Bitte warte einen Moment.
+Die gesendeten Regeldaten sind beschädigt.[0x000A]Bitte wähle die Kampfregeln erneut aus.{0xBE01}
+Es gibt ein Problem mit den gesendeten[0x000A]Regeldaten.{0xBE01}[0x000A]Bitte wähle die Kampfregeln erneut aus.{0xBE01}
+Es gibt ein Problem mit den erhaltenen[0x000A]Regeldaten.{0xBE01}[0x000A]Die Kampfregeln werden erneut ausgewählt.{0xBE01}
+Die erhaltenen Regeldaten sind beschädigt.[0x000A]Die Kampfregeln werden erneut ausgewählt.{0xBE01}
+Mindestens ein Spieler kann aufgrund der[0x000A]festgelegten Kampfregeln nicht teilnehmen.{0xBE01}[0x000A]Die Kampfregeln werden erneut ausgewählt.{0xBE01}
+Die Kampfregeln werden erneut ausgewählt.{0xBE01}
+Es wird auf Mitspieler gewartet...[0x000A]Bitte warte einen Moment.
+{0xBDFF:0x000E}
+Bitte lege die Teamaufteilung fest.{0xBE01}
+Die Teamaufteilung wird festgelegt...[0x000A]Bitte warte einen Moment.
+Wer soll Nr. {0x0200,0x0000} werden?
+Bitte wähle die Pokémon, die teilnehmen sollen.
+Möchtest du weiterspielen?
+Du hast den Kampf verlassen.
+Es wird auf Mitspieler gewartet...
+Noch ein Kampf mit geänderten Kampfregeln.
+Ein Mitspieler hat den Kampf verlassen.{0xBE01}
+Noch ein Kampf mit geänderten Kampfregeln.
+Noch ein Kampf mit denselben Kampfregeln.
+Möchtest du die Auswahl beenden und[0x000A]andere Kampfregeln festlegen?
+Deine Ablehnung der Kampfregeln[0x000A]wird übertragen...
+{0xBDFF:0x001C}
+Möchtest du den Kampf verlassen?
+Die Verbindung wird getrennt...
+Der Kampf wird beendet, da ein Spieler[0x000A]die Verbindung getrennt hat.{0xBE01}
+Wenn du aufgrund der ausgewählten[0x000A]Kampfregeln nicht teilnehmen kannst,{0xBE00}[0x000A]wähle bitte „Kann nicht teilnehmen“.{0xBE01}
+Wer soll die Kampfregeln festlegen?
+Möchtest du das Festlegen der Kampfregeln[0x000A]jemand anderem überlassen?
+{0x0100,0x0000} legt die Kampfregeln fest.
+{0x0100,0x0000} hat das Festlegen der[0x000A]Kampfregeln abgebrochen.
+Wähle ein Team aus und beginne den Kampf.
+{0xBDFF:0x0026}
+Es gibt ein Problem mit deinem Kampfteam.
+Überprüfe deine Pokémon und wähle[0x000A]ein anderes Kampfteam aus.
+Du kannst nicht gegen das Kampfteam[0x000A]des anderen Spielers antreten,{0xBE00}[0x000A]da dir die neuesten Zusatzdaten fehlen.{0xBE01}[0x000A]Der andere Spieler wird gebeten, ein anderes[0x000A]Kampfteam auszuwählen.{0xBE01}
+Es gibt ein Problem mit dem Kampfteam[0x000A]des anderen Spielers.
+Ich
+Mitspieler
+Mit anderen Regeln spielen
+Mit denselben Regeln spielen
+{0xBDFF:0x002F}
+{0xBDFF:0x0030}
+{0xBDFF:0x0031}
+Kampf beginnen
+Teilnehmendes Team:
+{0x0122,0x0000}
+Kann nicht teilnehmen
+{0xFF00,0x0001}Nicht ausgewählt{0xFF00,0x0000}
+Team A (1)
+Team A (2)
+Team B (1)
+Team B (2)
+---
+{0x0100,0x0000}
+Diese Teams festlegen
+Ja
+Nein
+{0x0100,0x0000}
+Automatisch
+Zurück
+Neu auswählen
+Bestätigen
+{0x0100,0x0000}
+wählt noch aus...
+Fertig!
+{0xBDFF:0x0048}
+{0xBDFF:0x0049}
+1
+2
+3
+4
+{0xBDFF:0x004E}
+---
+{0xBDFF:0x0050}
+Einzelkampf
+Doppelkampf
+Multikampf
+Battle Royale
+Normale Regeln
+Strenge Regeln
+Keine Einschränkungen
+♪ Trainer ♪
+♪ Wildes Pokémon ♪
+♪ Herrscher-Pokémon ♪
+♪ Inselkönig/Inselkönigin ♪
+♪ Hier kommt Tali ♪
+♪ Hier kommt Gladio ♪
+♪ Team Skull ♪
+♪ Skull-Vorstand ♪
+♪ Skull-Boss ♪
+♪ Æther Foundation ♪
+♪ Samantha (1) ♪
+♪ Samantha (2) ♪
+♪ Ultrabestie ♪
+♪ Top Vier ♪
+♪ Titelverteidigungskampf ♪
+♪ Legendäres Pokémon ♪
+♪ Battle Royale ♪
+♪ Schutzpatron ♪
+♪ Kampfbaum-Leiter ♪
+♪ Stück 20 ♪
+♪ Stück 21 ♪

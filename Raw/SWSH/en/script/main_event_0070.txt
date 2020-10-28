@@ -1,0 +1,17 @@
+main_event_0070_rivalmama_01={0xBDFF:0x0000}
+main_event_0070_champion_01=Take a good look, you two!{0x0114,0x0004}
+main_event_0070_rival_01=Come on, Lee! You promised us a present![0x000A]So out with it!{0xBE01}[0x000A]You brought {0x0100,0x0000} and me Pokémon.[0x000A]You did, didn’t you? I know you must have!{0x0114,0x0005}
+main_event_0070_champion_02=Right then![0x000A]The greatest gift from the greatest Champion...{0xBE01}[0x000A]It’s show time, everyone!{0x0114,0x0004}
+main_event_0070_champion_03=The Grass-type Pokémon...[0x000A]Grookey!{0x0114,0x0004}
+main_event_0070_champion_04=The Fire-type Pokémon...[0x000A]Scorbunny!{0x0114,0x0004}
+main_event_0070_champion_05=And the Water-type Pokémon...[0x000A]Sobble!{0x0114,0x0004}
+main_event_0070_poke1_01={0xBDFF:0x0007}
+main_event_0070_poke2_01={0xBDFF:0x0008}
+main_event_0070_poke3_01={0xBDFF:0x0009}
+main_event_0070_champion_06={0xBDFF:0x000A}
+main_event_0070_rival_02={0xBDFF:0x000B}
+main_event_0080_champion_06=All right![0x000A]Line up, everyone!{0x0114,0x0004}
+main_event_0081_champion_01=Which will you choose?{0x0114,0x0004}
+main_event_0081_poke1_01=Scorbunny
+main_event_0081_poke2_01=Sobble
+main_event_0081_poke3_01=Grookey

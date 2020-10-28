@@ -1,0 +1,12 @@
+msg_main8040_esper_01=Aquí estás, tal y como predije.
+msg_main8040_esper_06=Tengo poderes psíquicos desde que era niña.[0x000A]Todo comenzó cuando me di cuenta de que{0xBE00}[0x000A]podía doblar cucharas con la mente.
+msg_main8040_esper_07=No me gusta combatir, pero puedo leer tu mente[0x000A]y sé que esa es la razón por la que has venido.
+msg_main8040_esper_08=¡Te demostraré de lo que soy capaz!
+msg_gymleader_06_02={0xBDFF:0x0004}
+msg_main8040_esper_02=Te mereces la Medalla Pantano como premio por[0x000A]tu victoria.
+msg_main8040_sys_01=Sabrina te ha entregado la {0xFF00,0x0006}Medalla Pantano{0xFF00,0x0000}.
+msg_main8040_esper_03=Con la Medalla Pantano, los Pokémon de hasta[0x000A]Nv. {0x0201,0x0004} siempre te harán caso, aunque los{0xBE00}[0x000A]recibas de otros Entrenadores.{0xBE01}[0x000A]Ah, y antes de que se me olvide, toma esta MT.
+msg_main8040_sys_02=Sabrina te ha entregado la {0x0109,0x0001}, que permite[0x000A]enseñar el movimiento {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000}.
+msg_main8040_esper_04=La MT33, Paz Mental, permite a un Pokémon[0x000A]concentrarse y aumentar así tanto el Ataque{0xBE00}[0x000A]Especial como la Defensa Especial.
+msg_main8040_esper_05=En cierto modo, todo el mundo tiene poderes[0x000A]psíquicos, aunque muchos lo desconocen.
+msg_gymleader_06_07={0xBDFF:0x000B}

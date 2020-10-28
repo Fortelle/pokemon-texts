@@ -1,0 +1,6 @@
+¿Qué sucede, {0x0100,0x0000}?{0xBE01}[0x000A]¿Quieres abandonar la prueba y prepararte[0x000A]mejor para intentarlo de nuevo?{0xBE01}[0x000A]Ten en cuenta que deberás empezar desde el[0x000A]principio si sales de la cueva.{0x0114,0x000C}
+De acuerdo. Es una lástima, pero como quieras.{0xBE01}[0x000A]Prepárate a conciencia y vuelve cuando estés[0x000A]list{0x1100,0x00FF,0x0101}oa.{0x0114,0x000C}
+¡Muy bien!{0xBE01}[0x000A]Pues ya sabes, derrota a tres Pokémon.{0xBE01}[0x000A]El objetivo final es avanzar hasta el fondo de la[0x000A]cueva para hacerte con el Cristal Z que se halla{0xBE00}[0x000A]en el pedestal.{0x0114,0x000C}
+{0x0100,0x0000}, ¿te sientes list{0x1100,0x00FF,0x0101}oa para afrontar[0x000A]de nuevo la prueba?{0x0114,0x000C}
+Y dicho esto... ¡Que comience la prueba!{0x0114,0x000C}
+Comprendo.{0xBE01}[0x000A]Es una lástima, pero como quieras. Prepárate a[0x000A]conciencia y vuelve cuando estés list{0x1100,0x00FF,0x0101}oa.{0x0114,0x000C}

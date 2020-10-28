@@ -1,0 +1,8 @@
+msg_sub039_policef_01=Ich habe vor Kurzem ein Schiggy gefangen.[0x000A]Aber dieses Pokémon stellt nur Unfug an!{0xBE01}[0x000A]Ich würde es gerne einem talentierten Trainer[0x000A]anvertrauen...
+msg_sub039_policef_06=Aha, bisher hast du also {0x0208,0x0000,0x202F} Pokémon[0x000A]gefangen.
+msg_sub039_policef_02=Du hast mir dein Talent als Trainer ausreichend[0x000A]bewiesen. Ich glaube, du solltest diesen kleinen{0xBE00}[0x000A]Störenfried zähmen können.{0xBE01}[0x000A]Würdest du dich um mein Schiggy kümmern?
+msg_sub039_policef_03=Also gut! Ich verlass mich darauf, dass du dich[0x000A]gut um mein Schiggy kümmerst.
+msg_sub039_policef_07=Sobald du mindestens {0x0202,0x0000} Pokémon gefangen[0x000A]hast, können wir gerne noch mal darüber reden.
+msg_sub039_policef_04=Oh... Was soll ich nur machen?
+msg_sub039_policef_05=Wie geht es Schiggy?
+msg_sub039_poke_01={0xFF00,0x0009}Schiggy:{0xFF00,0x0000} Schiggy! Schiggy!

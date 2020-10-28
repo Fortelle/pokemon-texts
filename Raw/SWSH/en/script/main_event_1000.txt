@@ -1,0 +1,11 @@
+main_event_1000_leader_01=...’M Allister.{0x0114,0x0012}
+main_event_1000_leader_02=H-here...I go...{0x0114,0x0012}
+main_event_1000_leader_03=Crumbs...{0x0114,0x0012}
+main_event_1000_leader_04=...That was ace.{0x0114,0x0012}
+main_event_1000_leader_05=Here... A Ghost Badge...{0x0114,0x0012}
+main_event_1000_badge_01=You can now catch Pokémon of up to Lv. 40!
+main_event_1000_leader_06=G...good luck! With...um...everything...{0x0114,0x0012}
+main_event_1000_npc_01=Challenger {0x0100,0x0000}..[0x000A]You’ve defeated our Gym Leader, Allister...{0xBE01}[0x000A]Take this TM as a reward for your victory...
+main_event_1000_npc_03=And a complimentary Ghost-type uniform...
+main_event_1000_npc_02=The Ghost Badge suits you...[0x000A]You’re right on track, {0x0100,0x0000}...
+main_event_1000_system_01=Do you want to go back to the reception area?

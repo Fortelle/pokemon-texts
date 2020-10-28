@@ -1,0 +1,16 @@
+msg_main8020_volt_01=Bienvenue à l’Arène de Carmin sur Mer !{0xBE01}[0x000A]Ici, on pose son barda et on se prépare[0x000A]au combat !
+msg_main8020_volt_07=Ma parole, un rookie qui débarque ![0x000A]C’est la journée porte ouverte, ou quoi ?
+msg_main8020_volt_08=Tu oses me défier, avec ton petit niveau ?[0x000A]T’as pas froid aux yeux, soldat{0x1100,0x00FF,0x0100}e !
+msg_main8020_volt_09=Qu’est-ce que tu crois ? Les combats Pokémon,[0x000A]c’est la guerre !{0xBE01}[0x000A]Compte tes dents, tu vas morfler !
+msg_main8020_volt_10=Mes Pokémon Électrik vont t’atomiser !
+msg_gymleader_03_07={0xBDFF:0x0005}
+msg_main8020_volt_02=Ouuuh ! T’iras loin, toi.[0x000A]Très bien, prends le Badge Foudre, c’est mérité !
+msg_main8020_sys_01=Vous obtenez le {0xFF00,0x0006}Badge Foudre{0xFF00,0x0000} !
+msg_main8020_volt_03=Et c’est pas tout !{0xBE01}[0x000A]Quelqu’un d’aussi exceptionnel que toi mérite[0x000A]bien de recevoir ceci en bonus ! Prends-en soin !
+msg_main8020_sys_02=Vous obtenez une {0xFF00,0x0006}Dédicace de Bob{0xFF00,0x0000} !
+msg_main8020_volt_04=C’est quoi, cet air déçu ? T’attendais autre[0x000A]chose ?
+msg_main8020_volt_11=Ha ha ha, je blague, soldat{0x1100,0x00FF,0x0100}e ![0x000A]Tiens, cadeau !
+msg_main8020_sys_03=Vous obtenez la {0x0109,0x0001} {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000} !
+msg_main8020_volt_05=C’est la CT36 contenant Tonnerre ![0x000A]Ça dépote à 10 000 volts !{0xBE01}[0x000A]Enseigne-la à un Pokémon Électrik.
+msg_main8020_volt_06=Un p’tit conseil !{0xBE01}[0x000A]L’électricité est très puissante, mais elle ne sert[0x000A]à rien face à des Pokémon Sol !
+msg_gymleader_03_06={0xBDFF:0x000F}

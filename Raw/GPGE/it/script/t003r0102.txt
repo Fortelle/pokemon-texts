@@ -1,0 +1,14 @@
+msg_t003r0102_scientist_01_01=La mostra di questo mese è dedicata allo spazio.
+msg_t003r0102_juvenilem_01_01=Una Pietralunare... Cos’ha di tanto speciale?
+msg_t003r0102_oldm_01_01=Quasi mezzo secolo fa l’uomo ha messo piede[0x000A]sulla luna...{0xBE01}[0x000A]Ora si punta più lontano, ed è il pianeta rosso[0x000A]la nuova meta da raggiungere.{0xBE01}[0x000A]Che emozione! Le notizie sui viaggi nello spazio[0x000A]mi appassionano sempre!
+msg_t003r0102_juveniles_01_01=Voglio {0x1002}{0x1502,0x0002}{0x0101,0x0002}! È così carino![0x000A]Papà, me ne catturi uno?
+msg_t003r0102_fat_01_01=Sì, promesso, avrai il tuo {0x0101,0x0002}!
+msg_t003r0102_fat_01_02=Mmmmh... Volevo chiederti di darmi[0x000A]il tuo {0x0101,0x0002}... ma non me la sento...{0xBE01}[0x000A]Si vede che diventerete grandi amici, voi due...
+msg_t003r0102_fat_01_03=Mi piacerebbe avere il tuo {0x0101,0x0002},[0x000A]ma sembra così affezionato a te...
+msg_t003r0102_tenji_01=Space Shuttle
+msg_t003r0102_tenji_02=Un meteorite caduto sul Monte Luna.[0x000A]Pare si tratti di una Pietralunare.
+msg_t003r0102_tenji_03=Un ologramma tridimensionale intitolato[0x000A]“La mappa dell’universo”.
+msg_t003r0102_tenji_04=Dei frammenti di meteorite.
+msg_t003r0102_tenji_05=L’origine dell’universo.
+msg_t003r0102_bg_01=Percorso di visita
+msg_t003r0102_bg_02=Nel microscopio si vede un meraviglioso[0x000A]cristallo!

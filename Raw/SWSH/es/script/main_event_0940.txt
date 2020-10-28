@@ -1,0 +1,10 @@
+main_event_0940_rival_01={0x0100,0x0000}...{0x0114,0x0005}
+main_event_0940_rival_02=Sigo pensando en eso que te dije antes sobre no[0x000A]dejar a mi hermano en mal lugar.{0xBE00}[0x000A]Y todavía no sé muy bien qué hacer...{0x0114,0x0005}
+main_event_0940_rival_03=Pero sí hay una cosa que tengo bien clarita:[0x000A]¡debo volverme más fuerte!{0xBE01}[0x000A]Para eso necesito ponerme a prueba de muchas[0x000A]formas. ¿Me harías el favor de ayudarme?{0x0114,0x0005}
+main_event_0940_select_01=¡Claro!
+main_event_0940_select_02=Un momento...
+main_event_0940_rival_04=¡Vamos allá! ¡Seguro que si me enfrento a ti se[0x000A]me encenderá la bombillita!{0xBE01}[0x000A]¡Voy a librar un combate dándolo todo!{0x0114,0x0005}
+main_event_0940_rival_05=Vaya chasco... ¿Tu rival está bajo de moral y tú te[0x000A]niegas a echarle una mano?{0x0114,0x0005}
+main_event_0940_rival_06=Hmmm...{0xBE01}[0x000A]He probado a cambiar de equipo para tantear[0x000A]otras opciones, pero no ha cuajado la cosa.{0xBE01}[0x000A]No logro dar con la tecla...[0x000A]¿Será por eso que no doy la talla?{0x0114,0x0005}
+main_event_0940_rival_07=Tengo a mi hermano en un pedestal porque[0x000A]es un auténtico fenómeno como Entrenador.{0xBE01}[0x000A]¡Y me da una rabia tremenda que la gente se[0x000A]burle de él por mi culpa!{0x0114,0x0005}
+main_event_0940_rival_08=¡No puedo permitirlo! Tengo que seguir ahí dale[0x000A]que te pego, experimentando sin parar.{0xBE01}[0x000A]¡Acabaré encontrando Pokémon que saquen a[0x000A]relucir todo mi potencial!{0x0114,0x0005}

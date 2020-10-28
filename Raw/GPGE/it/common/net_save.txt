@@ -1,0 +1,8 @@
+net_save_win_01=Salvataggio in corso.[0x000A]Attendi...
+net_save_win_02=Attenzione![0x000A][0x000A]Se durante uno scambio la console si spegne[0x000A]o si verifica un errore di comunicazione,[0x000A]per un po’ non potrai più fare scambi.
+net_save_win_03=Comunicazione in corso.[0x000A]Attendi...
+net_save_win_04=Vuoi interrompere la connessione?
+net_save_sel_01=Sì
+net_save_sel_02=No
+net_save_sel_03=Annulla
+net_save_win_05=L’altro giocatore ha scelto di terminare[0x000A]lo scambio. Lo scambio verrà annullato.

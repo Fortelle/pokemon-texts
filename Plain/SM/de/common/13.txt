@@ -1,0 +1,2880 @@
+!
+!
+!
+!
+<var> setzt Pfund ein!
+<var> (wild) setzt Pfund ein!
+<var> (Gegner) setzt Pfund ein!
+<var> (Herrscher) setzt Pfund ein!
+<var> setzt Karateschlag ein!
+<var> (wild) setzt Karateschlag ein!
+<var> (Gegner) setzt Karateschlag ein!
+<var> (Herrscher) setzt Karateschlag ein!
+<var> setzt Duplexhieb ein!
+<var> (wild) setzt Duplexhieb ein!
+<var> (Gegner) setzt Duplexhieb ein!
+<var> (Herrscher) setzt Duplexhieb ein!
+<var> setzt Kometenhieb ein!
+<var> (wild) setzt Kometenhieb ein!
+<var> (Gegner) setzt Kometenhieb ein!
+<var> (Herrscher) setzt Kometenhieb ein!
+<var> setzt Megahieb ein!
+<var> (wild) setzt Megahieb ein!
+<var> (Gegner) setzt Megahieb ein!
+<var> (Herrscher) setzt Megahieb ein!
+<var> setzt Zahltag ein!
+<var> (wild) setzt Zahltag ein!
+<var> (Gegner) setzt Zahltag ein!
+<var> (Herrscher) setzt Zahltag ein!
+<var> setzt Feuerschlag ein!
+<var> (wild) setzt Feuerschlag ein!
+<var> (Gegner) setzt Feuerschlag ein!
+<var> (Herrscher) setzt Feuerschlag ein!
+<var> setzt Eishieb ein!
+<var> (wild) setzt Eishieb ein!
+<var> (Gegner) setzt Eishieb ein!
+<var> (Herrscher) setzt Eishieb ein!
+<var> setzt Donnerschlag ein!
+<var> (wild) setzt Donnerschlag ein!
+<var> (Gegner) setzt Donnerschlag ein!
+<var> (Herrscher) setzt Donnerschlag ein!
+<var> setzt Kratzer ein!
+<var> (wild) setzt Kratzer ein!
+<var> (Gegner) setzt Kratzer ein!
+<var> (Herrscher) setzt Kratzer ein!
+<var> setzt Klammer ein!
+<var> (wild) setzt Klammer ein!
+<var> (Gegner) setzt Klammer ein!
+<var> (Herrscher) setzt Klammer ein!
+<var> setzt Guillotine ein!
+<var> (wild) setzt Guillotine ein!
+<var> (Gegner) setzt Guillotine ein!
+<var> (Herrscher) setzt Guillotine ein!
+<var> setzt Klingensturm ein!
+<var> (wild) setzt Klingensturm ein!
+<var> (Gegner) setzt Klingensturm ein!
+<var> (Herrscher) setzt Klingensturm ein!
+<var> setzt Schwerttanz ein!
+<var> (wild) setzt Schwerttanz ein!
+<var> (Gegner) setzt Schwerttanz ein!
+<var> (Herrscher) setzt Schwerttanz ein!
+<var> setzt Zerschneider ein!
+<var> (wild) setzt Zerschneider ein!
+<var> (Gegner) setzt Zerschneider ein!
+<var> (Herrscher) setzt Zerschneider ein!
+<var> setzt Windstoß ein!
+<var> (wild) setzt Windstoß ein!
+<var> (Gegner) setzt Windstoß ein!
+<var> (Herrscher) setzt Windstoß ein!
+<var> setzt Flügelschlag ein!
+<var> (wild) setzt Flügelschlag ein!
+<var> (Gegner) setzt Flügelschlag ein!
+<var> (Herrscher) setzt Flügelschlag ein!
+<var> setzt Wirbelwind ein!
+<var> (wild) setzt Wirbelwind ein!
+<var> (Gegner) setzt Wirbelwind ein!
+<var> (Herrscher) setzt Wirbelwind ein!
+<var> setzt Fliegen ein!
+<var> (wild) setzt Fliegen ein!
+<var> (Gegner) setzt Fliegen ein!
+<var> (Herrscher) setzt Fliegen ein!
+<var> setzt Klammergriff ein!
+<var> (wild) setzt Klammergriff ein!
+<var> (Gegner) setzt Klammergriff ein!
+<var> (Herrscher) setzt Klammergriff ein!
+<var> setzt Slam ein!
+<var> (wild) setzt Slam ein!
+<var> (Gegner) setzt Slam ein!
+<var> (Herrscher) setzt Slam ein!
+<var> setzt Rankenhieb ein!
+<var> (wild) setzt Rankenhieb ein!
+<var> (Gegner) setzt Rankenhieb ein!
+<var> (Herrscher) setzt Rankenhieb ein!
+<var> setzt Stampfer ein!
+<var> (wild) setzt Stampfer ein!
+<var> (Gegner) setzt Stampfer ein!
+<var> (Herrscher) setzt Stampfer ein!
+<var> setzt Doppelkick ein!
+<var> (wild) setzt Doppelkick ein!
+<var> (Gegner) setzt Doppelkick ein!
+<var> (Herrscher) setzt Doppelkick ein!
+<var> setzt Megakick ein!
+<var> (wild) setzt Megakick ein!
+<var> (Gegner) setzt Megakick ein!
+<var> (Herrscher) setzt Megakick ein!
+<var> setzt Sprungkick ein!
+<var> (wild) setzt Sprungkick ein!
+<var> (Gegner) setzt Sprungkick ein!
+<var> (Herrscher) setzt Sprungkick ein!
+<var> setzt Fegekick ein!
+<var> (wild) setzt Fegekick ein!
+<var> (Gegner) setzt Fegekick ein!
+<var> (Herrscher) setzt Fegekick ein!
+<var> setzt Sandwirbel ein!
+<var> (wild) setzt Sandwirbel ein!
+<var> (Gegner) setzt Sandwirbel ein!
+<var> (Herrscher) setzt Sandwirbel ein!
+<var> setzt Kopfnuss ein!
+<var> (wild) setzt Kopfnuss ein!
+<var> (Gegner) setzt Kopfnuss ein!
+<var> (Herrscher) setzt Kopfnuss ein!
+<var> setzt Hornattacke ein!
+<var> (wild) setzt Hornattacke ein!
+<var> (Gegner) setzt Hornattacke ein!
+<var> (Herrscher) setzt Hornattacke ein!
+<var> setzt Furienschlag ein!
+<var> (wild) setzt Furienschlag ein!
+<var> (Gegner) setzt Furienschlag ein!
+<var> (Herrscher) setzt Furienschlag ein!
+<var> setzt Hornbohrer ein!
+<var> (wild) setzt Hornbohrer ein!
+<var> (Gegner) setzt Hornbohrer ein!
+<var> (Herrscher) setzt Hornbohrer ein!
+<var> setzt Tackle ein!
+<var> (wild) setzt Tackle ein!
+<var> (Gegner) setzt Tackle ein!
+<var> (Herrscher) setzt Tackle ein!
+<var> setzt Bodyslam ein!
+<var> (wild) setzt Bodyslam ein!
+<var> (Gegner) setzt Bodyslam ein!
+<var> (Herrscher) setzt Bodyslam ein!
+<var> setzt Wickel ein!
+<var> (wild) setzt Wickel ein!
+<var> (Gegner) setzt Wickel ein!
+<var> (Herrscher) setzt Wickel ein!
+<var> setzt Bodycheck ein!
+<var> (wild) setzt Bodycheck ein!
+<var> (Gegner) setzt Bodycheck ein!
+<var> (Herrscher) setzt Bodycheck ein!
+<var> setzt Fuchtler ein!
+<var> (wild) setzt Fuchtler ein!
+<var> (Gegner) setzt Fuchtler ein!
+<var> (Herrscher) setzt Fuchtler ein!
+<var> setzt Risikotackle ein!
+<var> (wild) setzt Risikotackle ein!
+<var> (Gegner) setzt Risikotackle ein!
+<var> (Herrscher) setzt Risikotackle ein!
+<var> setzt Rutenschlag ein!
+<var> (wild) setzt Rutenschlag ein!
+<var> (Gegner) setzt Rutenschlag ein!
+<var> (Herrscher) setzt Rutenschlag ein!
+<var> setzt Giftstachel ein!
+<var> (wild) setzt Giftstachel ein!
+<var> (Gegner) setzt Giftstachel ein!
+<var> (Herrscher) setzt Giftstachel ein!
+<var> setzt Duonadel ein!
+<var> (wild) setzt Duonadel ein!
+<var> (Gegner) setzt Duonadel ein!
+<var> (Herrscher) setzt Duonadel ein!
+<var> setzt Nadelrakete ein!
+<var> (wild) setzt Nadelrakete ein!
+<var> (Gegner) setzt Nadelrakete ein!
+<var> (Herrscher) setzt Nadelrakete ein!
+<var> setzt Silberblick ein!
+<var> (wild) setzt Silberblick ein!
+<var> (Gegner) setzt Silberblick ein!
+<var> (Herrscher) setzt Silberblick ein!
+<var> setzt Biss ein!
+<var> (wild) setzt Biss ein!
+<var> (Gegner) setzt Biss ein!
+<var> (Herrscher) setzt Biss ein!
+<var> setzt Heuler ein!
+<var> (wild) setzt Heuler ein!
+<var> (Gegner) setzt Heuler ein!
+<var> (Herrscher) setzt Heuler ein!
+<var> setzt Brüller ein!
+<var> (wild) setzt Brüller ein!
+<var> (Gegner) setzt Brüller ein!
+<var> (Herrscher) setzt Brüller ein!
+<var> setzt Gesang ein!
+<var> (wild) setzt Gesang ein!
+<var> (Gegner) setzt Gesang ein!
+<var> (Herrscher) setzt Gesang ein!
+<var> setzt Superschall ein!
+<var> (wild) setzt Superschall ein!
+<var> (Gegner) setzt Superschall ein!
+<var> (Herrscher) setzt Superschall ein!
+<var> setzt Ultraschall ein!
+<var> (wild) setzt Ultraschall ein!
+<var> (Gegner) setzt Ultraschall ein!
+<var> (Herrscher) setzt Ultraschall ein!
+<var> setzt Aussetzer ein!
+<var> (wild) setzt Aussetzer ein!
+<var> (Gegner) setzt Aussetzer ein!
+<var> (Herrscher) setzt Aussetzer ein!
+<var> setzt Säure ein!
+<var> (wild) setzt Säure ein!
+<var> (Gegner) setzt Säure ein!
+<var> (Herrscher) setzt Säure ein!
+<var> setzt Glut ein!
+<var> (wild) setzt Glut ein!
+<var> (Gegner) setzt Glut ein!
+<var> (Herrscher) setzt Glut ein!
+<var> setzt Flammenwurf ein!
+<var> (wild) setzt Flammenwurf ein!
+<var> (Gegner) setzt Flammenwurf ein!
+<var> (Herrscher) setzt Flammenwurf ein!
+<var> setzt Weißnebel ein!
+<var> (wild) setzt Weißnebel ein!
+<var> (Gegner) setzt Weißnebel ein!
+<var> (Herrscher) setzt Weißnebel ein!
+<var> setzt Aquaknarre ein!
+<var> (wild) setzt Aquaknarre ein!
+<var> (Gegner) setzt Aquaknarre ein!
+<var> (Herrscher) setzt Aquaknarre ein!
+<var> setzt Hydropumpe ein!
+<var> (wild) setzt Hydropumpe ein!
+<var> (Gegner) setzt Hydropumpe ein!
+<var> (Herrscher) setzt Hydropumpe ein!
+<var> setzt Surfer ein!
+<var> (wild) setzt Surfer ein!
+<var> (Gegner) setzt Surfer ein!
+<var> (Herrscher) setzt Surfer ein!
+<var> setzt Eisstrahl ein!
+<var> (wild) setzt Eisstrahl ein!
+<var> (Gegner) setzt Eisstrahl ein!
+<var> (Herrscher) setzt Eisstrahl ein!
+<var> setzt Blizzard ein!
+<var> (wild) setzt Blizzard ein!
+<var> (Gegner) setzt Blizzard ein!
+<var> (Herrscher) setzt Blizzard ein!
+<var> setzt Psystrahl ein!
+<var> (wild) setzt Psystrahl ein!
+<var> (Gegner) setzt Psystrahl ein!
+<var> (Herrscher) setzt Psystrahl ein!
+<var> setzt Blubbstrahl ein!
+<var> (wild) setzt Blubbstrahl ein!
+<var> (Gegner) setzt Blubbstrahl ein!
+<var> (Herrscher) setzt Blubbstrahl ein!
+<var> setzt Aurorastrahl ein!
+<var> (wild) setzt Aurorastrahl ein!
+<var> (Gegner) setzt Aurorastrahl ein!
+<var> (Herrscher) setzt Aurorastrahl ein!
+<var> setzt Hyperstrahl ein!
+<var> (wild) setzt Hyperstrahl ein!
+<var> (Gegner) setzt Hyperstrahl ein!
+<var> (Herrscher) setzt Hyperstrahl ein!
+<var> setzt Schnabel ein!
+<var> (wild) setzt Schnabel ein!
+<var> (Gegner) setzt Schnabel ein!
+<var> (Herrscher) setzt Schnabel ein!
+<var> setzt Bohrschnabel ein!
+<var> (wild) setzt Bohrschnabel ein!
+<var> (Gegner) setzt Bohrschnabel ein!
+<var> (Herrscher) setzt Bohrschnabel ein!
+<var> setzt Überroller ein!
+<var> (wild) setzt Überroller ein!
+<var> (Gegner) setzt Überroller ein!
+<var> (Herrscher) setzt Überroller ein!
+<var> setzt Fußkick ein!
+<var> (wild) setzt Fußkick ein!
+<var> (Gegner) setzt Fußkick ein!
+<var> (Herrscher) setzt Fußkick ein!
+<var> setzt Konter ein!
+<var> (wild) setzt Konter ein!
+<var> (Gegner) setzt Konter ein!
+<var> (Herrscher) setzt Konter ein!
+<var> setzt Geowurf ein!
+<var> (wild) setzt Geowurf ein!
+<var> (Gegner) setzt Geowurf ein!
+<var> (Herrscher) setzt Geowurf ein!
+<var> setzt Stärke ein!
+<var> (wild) setzt Stärke ein!
+<var> (Gegner) setzt Stärke ein!
+<var> (Herrscher) setzt Stärke ein!
+<var> setzt Absorber ein!
+<var> (wild) setzt Absorber ein!
+<var> (Gegner) setzt Absorber ein!
+<var> (Herrscher) setzt Absorber ein!
+<var> setzt Megasauger ein!
+<var> (wild) setzt Megasauger ein!
+<var> (Gegner) setzt Megasauger ein!
+<var> (Herrscher) setzt Megasauger ein!
+<var> setzt Egelsamen ein!
+<var> (wild) setzt Egelsamen ein!
+<var> (Gegner) setzt Egelsamen ein!
+<var> (Herrscher) setzt Egelsamen ein!
+<var> setzt Wachstum ein!
+<var> (wild) setzt Wachstum ein!
+<var> (Gegner) setzt Wachstum ein!
+<var> (Herrscher) setzt Wachstum ein!
+<var> setzt Rasierblatt ein!
+<var> (wild) setzt Rasierblatt ein!
+<var> (Gegner) setzt Rasierblatt ein!
+<var> (Herrscher) setzt Rasierblatt ein!
+<var> setzt Solarstrahl ein!
+<var> (wild) setzt Solarstrahl ein!
+<var> (Gegner) setzt Solarstrahl ein!
+<var> (Herrscher) setzt Solarstrahl ein!
+<var> setzt Giftpuder ein!
+<var> (wild) setzt Giftpuder ein!
+<var> (Gegner) setzt Giftpuder ein!
+<var> (Herrscher) setzt Giftpuder ein!
+<var> setzt Stachelspore ein!
+<var> (wild) setzt Stachelspore ein!
+<var> (Gegner) setzt Stachelspore ein!
+<var> (Herrscher) setzt Stachelspore ein!
+<var> setzt Schlafpuder ein!
+<var> (wild) setzt Schlafpuder ein!
+<var> (Gegner) setzt Schlafpuder ein!
+<var> (Herrscher) setzt Schlafpuder ein!
+<var> setzt Blättertanz ein!
+<var> (wild) setzt Blättertanz ein!
+<var> (Gegner) setzt Blättertanz ein!
+<var> (Herrscher) setzt Blättertanz ein!
+<var> setzt Fadenschuss ein!
+<var> (wild) setzt Fadenschuss ein!
+<var> (Gegner) setzt Fadenschuss ein!
+<var> (Herrscher) setzt Fadenschuss ein!
+<var> setzt Drachenwut ein!
+<var> (wild) setzt Drachenwut ein!
+<var> (Gegner) setzt Drachenwut ein!
+<var> (Herrscher) setzt Drachenwut ein!
+<var> setzt Feuerwirbel ein!
+<var> (wild) setzt Feuerwirbel ein!
+<var> (Gegner) setzt Feuerwirbel ein!
+<var> (Herrscher) setzt Feuerwirbel ein!
+<var> setzt Donnerschock ein!
+<var> (wild) setzt Donnerschock ein!
+<var> (Gegner) setzt Donnerschock ein!
+<var> (Herrscher) setzt Donnerschock ein!
+<var> setzt Donnerblitz ein!
+<var> (wild) setzt Donnerblitz ein!
+<var> (Gegner) setzt Donnerblitz ein!
+<var> (Herrscher) setzt Donnerblitz ein!
+<var> setzt Donnerwelle ein!
+<var> (wild) setzt Donnerwelle ein!
+<var> (Gegner) setzt Donnerwelle ein!
+<var> (Herrscher) setzt Donnerwelle ein!
+<var> setzt Donner ein!
+<var> (wild) setzt Donner ein!
+<var> (Gegner) setzt Donner ein!
+<var> (Herrscher) setzt Donner ein!
+<var> setzt Steinwurf ein!
+<var> (wild) setzt Steinwurf ein!
+<var> (Gegner) setzt Steinwurf ein!
+<var> (Herrscher) setzt Steinwurf ein!
+<var> setzt Erdbeben ein!
+<var> (wild) setzt Erdbeben ein!
+<var> (Gegner) setzt Erdbeben ein!
+<var> (Herrscher) setzt Erdbeben ein!
+<var> setzt Geofissur ein!
+<var> (wild) setzt Geofissur ein!
+<var> (Gegner) setzt Geofissur ein!
+<var> (Herrscher) setzt Geofissur ein!
+<var> setzt Schaufler ein!
+<var> (wild) setzt Schaufler ein!
+<var> (Gegner) setzt Schaufler ein!
+<var> (Herrscher) setzt Schaufler ein!
+<var> setzt Toxin ein!
+<var> (wild) setzt Toxin ein!
+<var> (Gegner) setzt Toxin ein!
+<var> (Herrscher) setzt Toxin ein!
+<var> setzt Konfusion ein!
+<var> (wild) setzt Konfusion ein!
+<var> (Gegner) setzt Konfusion ein!
+<var> (Herrscher) setzt Konfusion ein!
+<var> setzt Psychokinese ein!
+<var> (wild) setzt Psychokinese ein!
+<var> (Gegner) setzt Psychokinese ein!
+<var> (Herrscher) setzt Psychokinese ein!
+<var> setzt Hypnose ein!
+<var> (wild) setzt Hypnose ein!
+<var> (Gegner) setzt Hypnose ein!
+<var> (Herrscher) setzt Hypnose ein!
+<var> setzt Meditation ein!
+<var> (wild) setzt Meditation ein!
+<var> (Gegner) setzt Meditation ein!
+<var> (Herrscher) setzt Meditation ein!
+<var> setzt Agilität ein!
+<var> (wild) setzt Agilität ein!
+<var> (Gegner) setzt Agilität ein!
+<var> (Herrscher) setzt Agilität ein!
+<var> setzt Ruckzuckhieb ein!
+<var> (wild) setzt Ruckzuckhieb ein!
+<var> (Gegner) setzt Ruckzuckhieb ein!
+<var> (Herrscher) setzt Ruckzuckhieb ein!
+<var> setzt Raserei ein!
+<var> (wild) setzt Raserei ein!
+<var> (Gegner) setzt Raserei ein!
+<var> (Herrscher) setzt Raserei ein!
+<var> setzt Teleport ein!
+<var> (wild) setzt Teleport ein!
+<var> (Gegner) setzt Teleport ein!
+<var> (Herrscher) setzt Teleport ein!
+<var> setzt Nachtnebel ein!
+<var> (wild) setzt Nachtnebel ein!
+<var> (Gegner) setzt Nachtnebel ein!
+<var> (Herrscher) setzt Nachtnebel ein!
+<var> setzt Mimikry ein!
+<var> (wild) setzt Mimikry ein!
+<var> (Gegner) setzt Mimikry ein!
+<var> (Herrscher) setzt Mimikry ein!
+<var> setzt Kreideschrei ein!
+<var> (wild) setzt Kreideschrei ein!
+<var> (Gegner) setzt Kreideschrei ein!
+<var> (Herrscher) setzt Kreideschrei ein!
+<var> setzt Doppelteam ein!
+<var> (wild) setzt Doppelteam ein!
+<var> (Gegner) setzt Doppelteam ein!
+<var> (Herrscher) setzt Doppelteam ein!
+<var> setzt Genesung ein!
+<var> (wild) setzt Genesung ein!
+<var> (Gegner) setzt Genesung ein!
+<var> (Herrscher) setzt Genesung ein!
+<var> setzt Härtner ein!
+<var> (wild) setzt Härtner ein!
+<var> (Gegner) setzt Härtner ein!
+<var> (Herrscher) setzt Härtner ein!
+<var> setzt Komprimator ein!
+<var> (wild) setzt Komprimator ein!
+<var> (Gegner) setzt Komprimator ein!
+<var> (Herrscher) setzt Komprimator ein!
+<var> setzt Rauchwolke ein!
+<var> (wild) setzt Rauchwolke ein!
+<var> (Gegner) setzt Rauchwolke ein!
+<var> (Herrscher) setzt Rauchwolke ein!
+<var> setzt Konfustrahl ein!
+<var> (wild) setzt Konfustrahl ein!
+<var> (Gegner) setzt Konfustrahl ein!
+<var> (Herrscher) setzt Konfustrahl ein!
+<var> setzt Panzerschutz ein!
+<var> (wild) setzt Panzerschutz ein!
+<var> (Gegner) setzt Panzerschutz ein!
+<var> (Herrscher) setzt Panzerschutz ein!
+<var> setzt Einigler ein!
+<var> (wild) setzt Einigler ein!
+<var> (Gegner) setzt Einigler ein!
+<var> (Herrscher) setzt Einigler ein!
+<var> setzt Barriere ein!
+<var> (wild) setzt Barriere ein!
+<var> (Gegner) setzt Barriere ein!
+<var> (Herrscher) setzt Barriere ein!
+<var> setzt Lichtschild ein!
+<var> (wild) setzt Lichtschild ein!
+<var> (Gegner) setzt Lichtschild ein!
+<var> (Herrscher) setzt Lichtschild ein!
+<var> setzt Dunkelnebel ein!
+<var> (wild) setzt Dunkelnebel ein!
+<var> (Gegner) setzt Dunkelnebel ein!
+<var> (Herrscher) setzt Dunkelnebel ein!
+<var> setzt Reflektor ein!
+<var> (wild) setzt Reflektor ein!
+<var> (Gegner) setzt Reflektor ein!
+<var> (Herrscher) setzt Reflektor ein!
+<var> setzt Energiefokus ein!
+<var> (wild) setzt Energiefokus ein!
+<var> (Gegner) setzt Energiefokus ein!
+<var> (Herrscher) setzt Energiefokus ein!
+<var> setzt Geduld ein!
+<var> (wild) setzt Geduld ein!
+<var> (Gegner) setzt Geduld ein!
+<var> (Herrscher) setzt Geduld ein!
+<var> setzt Metronom ein!
+<var> (wild) setzt Metronom ein!
+<var> (Gegner) setzt Metronom ein!
+<var> (Herrscher) setzt Metronom ein!
+<var> setzt Spiegeltrick ein!
+<var> (wild) setzt Spiegeltrick ein!
+<var> (Gegner) setzt Spiegeltrick ein!
+<var> (Herrscher) setzt Spiegeltrick ein!
+<var> setzt Finale ein!
+<var> (wild) setzt Finale ein!
+<var> (Gegner) setzt Finale ein!
+<var> (Herrscher) setzt Finale ein!
+<var> setzt Eierbombe ein!
+<var> (wild) setzt Eierbombe ein!
+<var> (Gegner) setzt Eierbombe ein!
+<var> (Herrscher) setzt Eierbombe ein!
+<var> setzt Schlecker ein!
+<var> (wild) setzt Schlecker ein!
+<var> (Gegner) setzt Schlecker ein!
+<var> (Herrscher) setzt Schlecker ein!
+<var> setzt Smog ein!
+<var> (wild) setzt Smog ein!
+<var> (Gegner) setzt Smog ein!
+<var> (Herrscher) setzt Smog ein!
+<var> setzt Schlammbad ein!
+<var> (wild) setzt Schlammbad ein!
+<var> (Gegner) setzt Schlammbad ein!
+<var> (Herrscher) setzt Schlammbad ein!
+<var> setzt Knochenkeule ein!
+<var> (wild) setzt Knochenkeule ein!
+<var> (Gegner) setzt Knochenkeule ein!
+<var> (Herrscher) setzt Knochenkeule ein!
+<var> setzt Feuersturm ein!
+<var> (wild) setzt Feuersturm ein!
+<var> (Gegner) setzt Feuersturm ein!
+<var> (Herrscher) setzt Feuersturm ein!
+<var> setzt Kaskade ein!
+<var> (wild) setzt Kaskade ein!
+<var> (Gegner) setzt Kaskade ein!
+<var> (Herrscher) setzt Kaskade ein!
+<var> setzt Schnapper ein!
+<var> (wild) setzt Schnapper ein!
+<var> (Gegner) setzt Schnapper ein!
+<var> (Herrscher) setzt Schnapper ein!
+<var> setzt Sternschauer ein!
+<var> (wild) setzt Sternschauer ein!
+<var> (Gegner) setzt Sternschauer ein!
+<var> (Herrscher) setzt Sternschauer ein!
+<var> setzt Schädelwumme ein!
+<var> (wild) setzt Schädelwumme ein!
+<var> (Gegner) setzt Schädelwumme ein!
+<var> (Herrscher) setzt Schädelwumme ein!
+<var> setzt Dornkanone ein!
+<var> (wild) setzt Dornkanone ein!
+<var> (Gegner) setzt Dornkanone ein!
+<var> (Herrscher) setzt Dornkanone ein!
+<var> setzt Umklammerung ein!
+<var> (wild) setzt Umklammerung ein!
+<var> (Gegner) setzt Umklammerung ein!
+<var> (Herrscher) setzt Umklammerung ein!
+<var> setzt Amnesie ein!
+<var> (wild) setzt Amnesie ein!
+<var> (Gegner) setzt Amnesie ein!
+<var> (Herrscher) setzt Amnesie ein!
+<var> setzt Psykraft ein!
+<var> (wild) setzt Psykraft ein!
+<var> (Gegner) setzt Psykraft ein!
+<var> (Herrscher) setzt Psykraft ein!
+<var> setzt Weichei ein!
+<var> (wild) setzt Weichei ein!
+<var> (Gegner) setzt Weichei ein!
+<var> (Herrscher) setzt Weichei ein!
+<var> setzt Turmkick ein!
+<var> (wild) setzt Turmkick ein!
+<var> (Gegner) setzt Turmkick ein!
+<var> (Herrscher) setzt Turmkick ein!
+<var> setzt Giftblick ein!
+<var> (wild) setzt Giftblick ein!
+<var> (Gegner) setzt Giftblick ein!
+<var> (Herrscher) setzt Giftblick ein!
+<var> setzt Traumfresser ein!
+<var> (wild) setzt Traumfresser ein!
+<var> (Gegner) setzt Traumfresser ein!
+<var> (Herrscher) setzt Traumfresser ein!
+<var> setzt Giftwolke ein!
+<var> (wild) setzt Giftwolke ein!
+<var> (Gegner) setzt Giftwolke ein!
+<var> (Herrscher) setzt Giftwolke ein!
+<var> setzt Stakkato ein!
+<var> (wild) setzt Stakkato ein!
+<var> (Gegner) setzt Stakkato ein!
+<var> (Herrscher) setzt Stakkato ein!
+<var> setzt Blutsauger ein!
+<var> (wild) setzt Blutsauger ein!
+<var> (Gegner) setzt Blutsauger ein!
+<var> (Herrscher) setzt Blutsauger ein!
+<var> setzt Todeskuss ein!
+<var> (wild) setzt Todeskuss ein!
+<var> (Gegner) setzt Todeskuss ein!
+<var> (Herrscher) setzt Todeskuss ein!
+<var> setzt Himmelsfeger ein!
+<var> (wild) setzt Himmelsfeger ein!
+<var> (Gegner) setzt Himmelsfeger ein!
+<var> (Herrscher) setzt Himmelsfeger ein!
+<var> setzt Wandler ein!
+<var> (wild) setzt Wandler ein!
+<var> (Gegner) setzt Wandler ein!
+<var> (Herrscher) setzt Wandler ein!
+<var> setzt Blubber ein!
+<var> (wild) setzt Blubber ein!
+<var> (Gegner) setzt Blubber ein!
+<var> (Herrscher) setzt Blubber ein!
+<var> setzt Irrschlag ein!
+<var> (wild) setzt Irrschlag ein!
+<var> (Gegner) setzt Irrschlag ein!
+<var> (Herrscher) setzt Irrschlag ein!
+<var> setzt Pilzspore ein!
+<var> (wild) setzt Pilzspore ein!
+<var> (Gegner) setzt Pilzspore ein!
+<var> (Herrscher) setzt Pilzspore ein!
+<var> setzt Blitz ein!
+<var> (wild) setzt Blitz ein!
+<var> (Gegner) setzt Blitz ein!
+<var> (Herrscher) setzt Blitz ein!
+<var> setzt Psywelle ein!
+<var> (wild) setzt Psywelle ein!
+<var> (Gegner) setzt Psywelle ein!
+<var> (Herrscher) setzt Psywelle ein!
+<var> setzt Platscher ein!
+<var> (wild) setzt Platscher ein!
+<var> (Gegner) setzt Platscher ein!
+<var> (Herrscher) setzt Platscher ein!
+<var> setzt Säurepanzer ein!
+<var> (wild) setzt Säurepanzer ein!
+<var> (Gegner) setzt Säurepanzer ein!
+<var> (Herrscher) setzt Säurepanzer ein!
+<var> setzt Krabbhammer ein!
+<var> (wild) setzt Krabbhammer ein!
+<var> (Gegner) setzt Krabbhammer ein!
+<var> (Herrscher) setzt Krabbhammer ein!
+<var> setzt Explosion ein!
+<var> (wild) setzt Explosion ein!
+<var> (Gegner) setzt Explosion ein!
+<var> (Herrscher) setzt Explosion ein!
+<var> setzt Kratzfurie ein!
+<var> (wild) setzt Kratzfurie ein!
+<var> (Gegner) setzt Kratzfurie ein!
+<var> (Herrscher) setzt Kratzfurie ein!
+<var> setzt Knochmerang ein!
+<var> (wild) setzt Knochmerang ein!
+<var> (Gegner) setzt Knochmerang ein!
+<var> (Herrscher) setzt Knochmerang ein!
+<var> setzt Erholung ein!
+<var> (wild) setzt Erholung ein!
+<var> (Gegner) setzt Erholung ein!
+<var> (Herrscher) setzt Erholung ein!
+<var> setzt Steinhagel ein!
+<var> (wild) setzt Steinhagel ein!
+<var> (Gegner) setzt Steinhagel ein!
+<var> (Herrscher) setzt Steinhagel ein!
+<var> setzt Hyperzahn ein!
+<var> (wild) setzt Hyperzahn ein!
+<var> (Gegner) setzt Hyperzahn ein!
+<var> (Herrscher) setzt Hyperzahn ein!
+<var> setzt Schärfer ein!
+<var> (wild) setzt Schärfer ein!
+<var> (Gegner) setzt Schärfer ein!
+<var> (Herrscher) setzt Schärfer ein!
+<var> setzt Umwandlung ein!
+<var> (wild) setzt Umwandlung ein!
+<var> (Gegner) setzt Umwandlung ein!
+<var> (Herrscher) setzt Umwandlung ein!
+<var> setzt Triplette ein!
+<var> (wild) setzt Triplette ein!
+<var> (Gegner) setzt Triplette ein!
+<var> (Herrscher) setzt Triplette ein!
+<var> setzt Superzahn ein!
+<var> (wild) setzt Superzahn ein!
+<var> (Gegner) setzt Superzahn ein!
+<var> (Herrscher) setzt Superzahn ein!
+<var> setzt Schlitzer ein!
+<var> (wild) setzt Schlitzer ein!
+<var> (Gegner) setzt Schlitzer ein!
+<var> (Herrscher) setzt Schlitzer ein!
+<var> setzt Delegator ein!
+<var> (wild) setzt Delegator ein!
+<var> (Gegner) setzt Delegator ein!
+<var> (Herrscher) setzt Delegator ein!
+<var> setzt Verzweifler ein!
+<var> (wild) setzt Verzweifler ein!
+<var> (Gegner) setzt Verzweifler ein!
+<var> (Herrscher) setzt Verzweifler ein!
+<var> setzt Nachahmer ein!
+<var> (wild) setzt Nachahmer ein!
+<var> (Gegner) setzt Nachahmer ein!
+<var> (Herrscher) setzt Nachahmer ein!
+<var> setzt Dreifachkick ein!
+<var> (wild) setzt Dreifachkick ein!
+<var> (Gegner) setzt Dreifachkick ein!
+<var> (Herrscher) setzt Dreifachkick ein!
+<var> setzt Raub ein!
+<var> (wild) setzt Raub ein!
+<var> (Gegner) setzt Raub ein!
+<var> (Herrscher) setzt Raub ein!
+<var> setzt Spinnennetz ein!
+<var> (wild) setzt Spinnennetz ein!
+<var> (Gegner) setzt Spinnennetz ein!
+<var> (Herrscher) setzt Spinnennetz ein!
+<var> setzt Willensleser ein!
+<var> (wild) setzt Willensleser ein!
+<var> (Gegner) setzt Willensleser ein!
+<var> (Herrscher) setzt Willensleser ein!
+<var> setzt Nachtmahr ein!
+<var> (wild) setzt Nachtmahr ein!
+<var> (Gegner) setzt Nachtmahr ein!
+<var> (Herrscher) setzt Nachtmahr ein!
+<var> setzt Flammenrad ein!
+<var> (wild) setzt Flammenrad ein!
+<var> (Gegner) setzt Flammenrad ein!
+<var> (Herrscher) setzt Flammenrad ein!
+<var> setzt Schnarcher ein!
+<var> (wild) setzt Schnarcher ein!
+<var> (Gegner) setzt Schnarcher ein!
+<var> (Herrscher) setzt Schnarcher ein!
+<var> setzt Fluch ein!
+<var> (wild) setzt Fluch ein!
+<var> (Gegner) setzt Fluch ein!
+<var> (Herrscher) setzt Fluch ein!
+<var> setzt Dreschflegel ein!
+<var> (wild) setzt Dreschflegel ein!
+<var> (Gegner) setzt Dreschflegel ein!
+<var> (Herrscher) setzt Dreschflegel ein!
+<var> setzt Umwandlung2 ein!
+<var> (wild) setzt Umwandlung2 ein!
+<var> (Gegner) setzt Umwandlung2 ein!
+<var> (Herrscher) setzt Umwandlung2 ein!
+<var> setzt Luftstoß ein!
+<var> (wild) setzt Luftstoß ein!
+<var> (Gegner) setzt Luftstoß ein!
+<var> (Herrscher) setzt Luftstoß ein!
+<var> setzt Baumwollsaat ein!
+<var> (wild) setzt Baumwollsaat ein!
+<var> (Gegner) setzt Baumwollsaat ein!
+<var> (Herrscher) setzt Baumwollsaat ein!
+<var> setzt Gegenschlag ein!
+<var> (wild) setzt Gegenschlag ein!
+<var> (Gegner) setzt Gegenschlag ein!
+<var> (Herrscher) setzt Gegenschlag ein!
+<var> setzt Groll ein!
+<var> (wild) setzt Groll ein!
+<var> (Gegner) setzt Groll ein!
+<var> (Herrscher) setzt Groll ein!
+<var> setzt Pulverschnee ein!
+<var> (wild) setzt Pulverschnee ein!
+<var> (Gegner) setzt Pulverschnee ein!
+<var> (Herrscher) setzt Pulverschnee ein!
+<var> setzt Schutzschild ein!
+<var> (wild) setzt Schutzschild ein!
+<var> (Gegner) setzt Schutzschild ein!
+<var> (Herrscher) setzt Schutzschild ein!
+<var> setzt Tempohieb ein!
+<var> (wild) setzt Tempohieb ein!
+<var> (Gegner) setzt Tempohieb ein!
+<var> (Herrscher) setzt Tempohieb ein!
+<var> setzt Grimasse ein!
+<var> (wild) setzt Grimasse ein!
+<var> (Gegner) setzt Grimasse ein!
+<var> (Herrscher) setzt Grimasse ein!
+<var> setzt Finte ein!
+<var> (wild) setzt Finte ein!
+<var> (Gegner) setzt Finte ein!
+<var> (Herrscher) setzt Finte ein!
+<var> setzt Bitterkuss ein!
+<var> (wild) setzt Bitterkuss ein!
+<var> (Gegner) setzt Bitterkuss ein!
+<var> (Herrscher) setzt Bitterkuss ein!
+<var> setzt Bauchtrommel ein!
+<var> (wild) setzt Bauchtrommel ein!
+<var> (Gegner) setzt Bauchtrommel ein!
+<var> (Herrscher) setzt Bauchtrommel ein!
+<var> setzt Matschbombe ein!
+<var> (wild) setzt Matschbombe ein!
+<var> (Gegner) setzt Matschbombe ein!
+<var> (Herrscher) setzt Matschbombe ein!
+<var> setzt Lehmschelle ein!
+<var> (wild) setzt Lehmschelle ein!
+<var> (Gegner) setzt Lehmschelle ein!
+<var> (Herrscher) setzt Lehmschelle ein!
+<var> setzt Octazooka ein!
+<var> (wild) setzt Octazooka ein!
+<var> (Gegner) setzt Octazooka ein!
+<var> (Herrscher) setzt Octazooka ein!
+<var> setzt Stachler ein!
+<var> (wild) setzt Stachler ein!
+<var> (Gegner) setzt Stachler ein!
+<var> (Herrscher) setzt Stachler ein!
+<var> setzt Blitzkanone ein!
+<var> (wild) setzt Blitzkanone ein!
+<var> (Gegner) setzt Blitzkanone ein!
+<var> (Herrscher) setzt Blitzkanone ein!
+<var> setzt Gesichte ein!
+<var> (wild) setzt Gesichte ein!
+<var> (Gegner) setzt Gesichte ein!
+<var> (Herrscher) setzt Gesichte ein!
+<var> setzt Abgangsbund ein!
+<var> (wild) setzt Abgangsbund ein!
+<var> (Gegner) setzt Abgangsbund ein!
+<var> (Herrscher) setzt Abgangsbund ein!
+<var> setzt Abgesang ein!
+<var> (wild) setzt Abgesang ein!
+<var> (Gegner) setzt Abgesang ein!
+<var> (Herrscher) setzt Abgesang ein!
+<var> setzt Eissturm ein!
+<var> (wild) setzt Eissturm ein!
+<var> (Gegner) setzt Eissturm ein!
+<var> (Herrscher) setzt Eissturm ein!
+<var> setzt Scanner ein!
+<var> (wild) setzt Scanner ein!
+<var> (Gegner) setzt Scanner ein!
+<var> (Herrscher) setzt Scanner ein!
+<var> setzt Knochenhatz ein!
+<var> (wild) setzt Knochenhatz ein!
+<var> (Gegner) setzt Knochenhatz ein!
+<var> (Herrscher) setzt Knochenhatz ein!
+<var> setzt Zielschuss ein!
+<var> (wild) setzt Zielschuss ein!
+<var> (Gegner) setzt Zielschuss ein!
+<var> (Herrscher) setzt Zielschuss ein!
+<var> setzt Wutanfall ein!
+<var> (wild) setzt Wutanfall ein!
+<var> (Gegner) setzt Wutanfall ein!
+<var> (Herrscher) setzt Wutanfall ein!
+<var> setzt Sandsturm ein!
+<var> (wild) setzt Sandsturm ein!
+<var> (Gegner) setzt Sandsturm ein!
+<var> (Herrscher) setzt Sandsturm ein!
+<var> setzt Gigasauger ein!
+<var> (wild) setzt Gigasauger ein!
+<var> (Gegner) setzt Gigasauger ein!
+<var> (Herrscher) setzt Gigasauger ein!
+<var> setzt Ausdauer ein!
+<var> (wild) setzt Ausdauer ein!
+<var> (Gegner) setzt Ausdauer ein!
+<var> (Herrscher) setzt Ausdauer ein!
+<var> setzt Charme ein!
+<var> (wild) setzt Charme ein!
+<var> (Gegner) setzt Charme ein!
+<var> (Herrscher) setzt Charme ein!
+<var> setzt Walzer ein!
+<var> (wild) setzt Walzer ein!
+<var> (Gegner) setzt Walzer ein!
+<var> (Herrscher) setzt Walzer ein!
+<var> setzt Trugschlag ein!
+<var> (wild) setzt Trugschlag ein!
+<var> (Gegner) setzt Trugschlag ein!
+<var> (Herrscher) setzt Trugschlag ein!
+<var> setzt Angeberei ein!
+<var> (wild) setzt Angeberei ein!
+<var> (Gegner) setzt Angeberei ein!
+<var> (Herrscher) setzt Angeberei ein!
+<var> setzt Milchgetränk ein!
+<var> (wild) setzt Milchgetränk ein!
+<var> (Gegner) setzt Milchgetränk ein!
+<var> (Herrscher) setzt Milchgetränk ein!
+<var> setzt Funkensprung ein!
+<var> (wild) setzt Funkensprung ein!
+<var> (Gegner) setzt Funkensprung ein!
+<var> (Herrscher) setzt Funkensprung ein!
+<var> setzt Zornklinge ein!
+<var> (wild) setzt Zornklinge ein!
+<var> (Gegner) setzt Zornklinge ein!
+<var> (Herrscher) setzt Zornklinge ein!
+<var> setzt Stahlflügel ein!
+<var> (wild) setzt Stahlflügel ein!
+<var> (Gegner) setzt Stahlflügel ein!
+<var> (Herrscher) setzt Stahlflügel ein!
+<var> setzt Horrorblick ein!
+<var> (wild) setzt Horrorblick ein!
+<var> (Gegner) setzt Horrorblick ein!
+<var> (Herrscher) setzt Horrorblick ein!
+<var> setzt Anziehung ein!
+<var> (wild) setzt Anziehung ein!
+<var> (Gegner) setzt Anziehung ein!
+<var> (Herrscher) setzt Anziehung ein!
+<var> setzt Schlafrede ein!
+<var> (wild) setzt Schlafrede ein!
+<var> (Gegner) setzt Schlafrede ein!
+<var> (Herrscher) setzt Schlafrede ein!
+<var> setzt Vitalglocke ein!
+<var> (wild) setzt Vitalglocke ein!
+<var> (Gegner) setzt Vitalglocke ein!
+<var> (Herrscher) setzt Vitalglocke ein!
+<var> setzt Rückkehr ein!
+<var> (wild) setzt Rückkehr ein!
+<var> (Gegner) setzt Rückkehr ein!
+<var> (Herrscher) setzt Rückkehr ein!
+<var> setzt Geschenk ein!
+<var> (wild) setzt Geschenk ein!
+<var> (Gegner) setzt Geschenk ein!
+<var> (Herrscher) setzt Geschenk ein!
+<var> setzt Frustration ein!
+<var> (wild) setzt Frustration ein!
+<var> (Gegner) setzt Frustration ein!
+<var> (Herrscher) setzt Frustration ein!
+<var> setzt Bodyguard ein!
+<var> (wild) setzt Bodyguard ein!
+<var> (Gegner) setzt Bodyguard ein!
+<var> (Herrscher) setzt Bodyguard ein!
+<var> setzt Leidteiler ein!
+<var> (wild) setzt Leidteiler ein!
+<var> (Gegner) setzt Leidteiler ein!
+<var> (Herrscher) setzt Leidteiler ein!
+<var> setzt Läuterfeuer ein!
+<var> (wild) setzt Läuterfeuer ein!
+<var> (Gegner) setzt Läuterfeuer ein!
+<var> (Herrscher) setzt Läuterfeuer ein!
+<var> setzt Intensität ein!
+<var> (wild) setzt Intensität ein!
+<var> (Gegner) setzt Intensität ein!
+<var> (Herrscher) setzt Intensität ein!
+<var> setzt Wuchtschlag ein!
+<var> (wild) setzt Wuchtschlag ein!
+<var> (Gegner) setzt Wuchtschlag ein!
+<var> (Herrscher) setzt Wuchtschlag ein!
+<var> setzt Vielender ein!
+<var> (wild) setzt Vielender ein!
+<var> (Gegner) setzt Vielender ein!
+<var> (Herrscher) setzt Vielender ein!
+<var> setzt Feuerodem ein!
+<var> (wild) setzt Feuerodem ein!
+<var> (Gegner) setzt Feuerodem ein!
+<var> (Herrscher) setzt Feuerodem ein!
+<var> setzt Stafette ein!
+<var> (wild) setzt Stafette ein!
+<var> (Gegner) setzt Stafette ein!
+<var> (Herrscher) setzt Stafette ein!
+<var> setzt Zugabe ein!
+<var> (wild) setzt Zugabe ein!
+<var> (Gegner) setzt Zugabe ein!
+<var> (Herrscher) setzt Zugabe ein!
+<var> setzt Verfolgung ein!
+<var> (wild) setzt Verfolgung ein!
+<var> (Gegner) setzt Verfolgung ein!
+<var> (Herrscher) setzt Verfolgung ein!
+<var> setzt Turbodreher ein!
+<var> (wild) setzt Turbodreher ein!
+<var> (Gegner) setzt Turbodreher ein!
+<var> (Herrscher) setzt Turbodreher ein!
+<var> setzt Lockduft ein!
+<var> (wild) setzt Lockduft ein!
+<var> (Gegner) setzt Lockduft ein!
+<var> (Herrscher) setzt Lockduft ein!
+<var> setzt Eisenschweif ein!
+<var> (wild) setzt Eisenschweif ein!
+<var> (Gegner) setzt Eisenschweif ein!
+<var> (Herrscher) setzt Eisenschweif ein!
+<var> setzt Metallklaue ein!
+<var> (wild) setzt Metallklaue ein!
+<var> (Gegner) setzt Metallklaue ein!
+<var> (Herrscher) setzt Metallklaue ein!
+<var> setzt Überwurf ein!
+<var> (wild) setzt Überwurf ein!
+<var> (Gegner) setzt Überwurf ein!
+<var> (Herrscher) setzt Überwurf ein!
+<var> setzt Morgengrauen ein!
+<var> (wild) setzt Morgengrauen ein!
+<var> (Gegner) setzt Morgengrauen ein!
+<var> (Herrscher) setzt Morgengrauen ein!
+<var> setzt Synthese ein!
+<var> (wild) setzt Synthese ein!
+<var> (Gegner) setzt Synthese ein!
+<var> (Herrscher) setzt Synthese ein!
+<var> setzt Mondschein ein!
+<var> (wild) setzt Mondschein ein!
+<var> (Gegner) setzt Mondschein ein!
+<var> (Herrscher) setzt Mondschein ein!
+<var> setzt Kraftreserve ein!
+<var> (wild) setzt Kraftreserve ein!
+<var> (Gegner) setzt Kraftreserve ein!
+<var> (Herrscher) setzt Kraftreserve ein!
+<var> setzt Kreuzhieb ein!
+<var> (wild) setzt Kreuzhieb ein!
+<var> (Gegner) setzt Kreuzhieb ein!
+<var> (Herrscher) setzt Kreuzhieb ein!
+<var> setzt Windhose ein!
+<var> (wild) setzt Windhose ein!
+<var> (Gegner) setzt Windhose ein!
+<var> (Herrscher) setzt Windhose ein!
+<var> setzt Regentanz ein!
+<var> (wild) setzt Regentanz ein!
+<var> (Gegner) setzt Regentanz ein!
+<var> (Herrscher) setzt Regentanz ein!
+<var> setzt Sonnentag ein!
+<var> (wild) setzt Sonnentag ein!
+<var> (Gegner) setzt Sonnentag ein!
+<var> (Herrscher) setzt Sonnentag ein!
+<var> setzt Knirscher ein!
+<var> (wild) setzt Knirscher ein!
+<var> (Gegner) setzt Knirscher ein!
+<var> (Herrscher) setzt Knirscher ein!
+<var> setzt Spiegelcape ein!
+<var> (wild) setzt Spiegelcape ein!
+<var> (Gegner) setzt Spiegelcape ein!
+<var> (Herrscher) setzt Spiegelcape ein!
+<var> setzt Psycho-Plus ein!
+<var> (wild) setzt Psycho-Plus ein!
+<var> (Gegner) setzt Psycho-Plus ein!
+<var> (Herrscher) setzt Psycho-Plus ein!
+<var> setzt Turbotempo ein!
+<var> (wild) setzt Turbotempo ein!
+<var> (Gegner) setzt Turbotempo ein!
+<var> (Herrscher) setzt Turbotempo ein!
+<var> setzt Antik-Kraft ein!
+<var> (wild) setzt Antik-Kraft ein!
+<var> (Gegner) setzt Antik-Kraft ein!
+<var> (Herrscher) setzt Antik-Kraft ein!
+<var> setzt Spukball ein!
+<var> (wild) setzt Spukball ein!
+<var> (Gegner) setzt Spukball ein!
+<var> (Herrscher) setzt Spukball ein!
+<var> setzt Seher ein!
+<var> (wild) setzt Seher ein!
+<var> (Gegner) setzt Seher ein!
+<var> (Herrscher) setzt Seher ein!
+<var> setzt Zertrümmerer ein!
+<var> (wild) setzt Zertrümmerer ein!
+<var> (Gegner) setzt Zertrümmerer ein!
+<var> (Herrscher) setzt Zertrümmerer ein!
+<var> setzt Whirlpool ein!
+<var> (wild) setzt Whirlpool ein!
+<var> (Gegner) setzt Whirlpool ein!
+<var> (Herrscher) setzt Whirlpool ein!
+<var> setzt Prügler ein!
+<var> (wild) setzt Prügler ein!
+<var> (Gegner) setzt Prügler ein!
+<var> (Herrscher) setzt Prügler ein!
+<var> setzt Mogelhieb ein!
+<var> (wild) setzt Mogelhieb ein!
+<var> (Gegner) setzt Mogelhieb ein!
+<var> (Herrscher) setzt Mogelhieb ein!
+<var> setzt Aufruhr ein!
+<var> (wild) setzt Aufruhr ein!
+<var> (Gegner) setzt Aufruhr ein!
+<var> (Herrscher) setzt Aufruhr ein!
+<var> setzt Horter ein!
+<var> (wild) setzt Horter ein!
+<var> (Gegner) setzt Horter ein!
+<var> (Herrscher) setzt Horter ein!
+<var> setzt Entfessler ein!
+<var> (wild) setzt Entfessler ein!
+<var> (Gegner) setzt Entfessler ein!
+<var> (Herrscher) setzt Entfessler ein!
+<var> setzt Verzehrer ein!
+<var> (wild) setzt Verzehrer ein!
+<var> (Gegner) setzt Verzehrer ein!
+<var> (Herrscher) setzt Verzehrer ein!
+<var> setzt Hitzewelle ein!
+<var> (wild) setzt Hitzewelle ein!
+<var> (Gegner) setzt Hitzewelle ein!
+<var> (Herrscher) setzt Hitzewelle ein!
+<var> setzt Hagelsturm ein!
+<var> (wild) setzt Hagelsturm ein!
+<var> (Gegner) setzt Hagelsturm ein!
+<var> (Herrscher) setzt Hagelsturm ein!
+<var> setzt Folterknecht ein!
+<var> (wild) setzt Folterknecht ein!
+<var> (Gegner) setzt Folterknecht ein!
+<var> (Herrscher) setzt Folterknecht ein!
+<var> setzt Schmeichler ein!
+<var> (wild) setzt Schmeichler ein!
+<var> (Gegner) setzt Schmeichler ein!
+<var> (Herrscher) setzt Schmeichler ein!
+<var> setzt Irrlicht ein!
+<var> (wild) setzt Irrlicht ein!
+<var> (Gegner) setzt Irrlicht ein!
+<var> (Herrscher) setzt Irrlicht ein!
+<var> setzt Memento-Mori ein!
+<var> (wild) setzt Memento-Mori ein!
+<var> (Gegner) setzt Memento-Mori ein!
+<var> (Herrscher) setzt Memento-Mori ein!
+<var> setzt Fassade ein!
+<var> (wild) setzt Fassade ein!
+<var> (Gegner) setzt Fassade ein!
+<var> (Herrscher) setzt Fassade ein!
+<var> setzt Power-Punch ein!
+<var> (wild) setzt Power-Punch ein!
+<var> (Gegner) setzt Power-Punch ein!
+<var> (Herrscher) setzt Power-Punch ein!
+<var> setzt Riechsalz ein!
+<var> (wild) setzt Riechsalz ein!
+<var> (Gegner) setzt Riechsalz ein!
+<var> (Herrscher) setzt Riechsalz ein!
+<var> setzt Spotlight ein!
+<var> (wild) setzt Spotlight ein!
+<var> (Gegner) setzt Spotlight ein!
+<var> (Herrscher) setzt Spotlight ein!
+<var> setzt Natur-Kraft ein!
+<var> (wild) setzt Natur-Kraft ein!
+<var> (Gegner) setzt Natur-Kraft ein!
+<var> (Herrscher) setzt Natur-Kraft ein!
+<var> setzt Ladevorgang ein!
+<var> (wild) setzt Ladevorgang ein!
+<var> (Gegner) setzt Ladevorgang ein!
+<var> (Herrscher) setzt Ladevorgang ein!
+<var> setzt Verhöhner ein!
+<var> (wild) setzt Verhöhner ein!
+<var> (Gegner) setzt Verhöhner ein!
+<var> (Herrscher) setzt Verhöhner ein!
+<var> setzt Rechte Hand ein!
+<var> (wild) setzt Rechte Hand ein!
+<var> (Gegner) setzt Rechte Hand ein!
+<var> (Herrscher) setzt Rechte Hand ein!
+<var> setzt Trickbetrug ein!
+<var> (wild) setzt Trickbetrug ein!
+<var> (Gegner) setzt Trickbetrug ein!
+<var> (Herrscher) setzt Trickbetrug ein!
+<var> setzt Rollentausch ein!
+<var> (wild) setzt Rollentausch ein!
+<var> (Gegner) setzt Rollentausch ein!
+<var> (Herrscher) setzt Rollentausch ein!
+<var> spricht einen Wunschtraum aus!
+<var> (wild) spricht einen Wunschtraum aus!
+<var> (Gegner) spricht einen Wunschtraum aus!
+<var> (Herrscher) spricht einen Wunschtraum aus!
+<var> setzt Zuschuss ein!
+<var> (wild) setzt Zuschuss ein!
+<var> (Gegner) setzt Zuschuss ein!
+<var> (Herrscher) setzt Zuschuss ein!
+<var> setzt Verwurzler ein!
+<var> (wild) setzt Verwurzler ein!
+<var> (Gegner) setzt Verwurzler ein!
+<var> (Herrscher) setzt Verwurzler ein!
+<var> setzt Kraftkoloss ein!
+<var> (wild) setzt Kraftkoloss ein!
+<var> (Gegner) setzt Kraftkoloss ein!
+<var> (Herrscher) setzt Kraftkoloss ein!
+<var> setzt Magiemantel ein!
+<var> (wild) setzt Magiemantel ein!
+<var> (Gegner) setzt Magiemantel ein!
+<var> (Herrscher) setzt Magiemantel ein!
+<var> setzt Aufbereitung ein!
+<var> (wild) setzt Aufbereitung ein!
+<var> (Gegner) setzt Aufbereitung ein!
+<var> (Herrscher) setzt Aufbereitung ein!
+<var> setzt Vergeltung ein!
+<var> (wild) setzt Vergeltung ein!
+<var> (Gegner) setzt Vergeltung ein!
+<var> (Herrscher) setzt Vergeltung ein!
+<var> setzt Durchbruch ein!
+<var> (wild) setzt Durchbruch ein!
+<var> (Gegner) setzt Durchbruch ein!
+<var> (Herrscher) setzt Durchbruch ein!
+<var> setzt Gähner ein!
+<var> (wild) setzt Gähner ein!
+<var> (Gegner) setzt Gähner ein!
+<var> (Herrscher) setzt Gähner ein!
+<var> setzt Abschlag ein!
+<var> (wild) setzt Abschlag ein!
+<var> (Gegner) setzt Abschlag ein!
+<var> (Herrscher) setzt Abschlag ein!
+<var> setzt Notsituation ein!
+<var> (wild) setzt Notsituation ein!
+<var> (Gegner) setzt Notsituation ein!
+<var> (Herrscher) setzt Notsituation ein!
+<var> setzt Eruption ein!
+<var> (wild) setzt Eruption ein!
+<var> (Gegner) setzt Eruption ein!
+<var> (Herrscher) setzt Eruption ein!
+<var> setzt Wertewechsel ein!
+<var> (wild) setzt Wertewechsel ein!
+<var> (Gegner) setzt Wertewechsel ein!
+<var> (Herrscher) setzt Wertewechsel ein!
+<var> setzt Begrenzer ein!
+<var> (wild) setzt Begrenzer ein!
+<var> (Gegner) setzt Begrenzer ein!
+<var> (Herrscher) setzt Begrenzer ein!
+<var> setzt Heilung ein!
+<var> (wild) setzt Heilung ein!
+<var> (Gegner) setzt Heilung ein!
+<var> (Herrscher) setzt Heilung ein!
+<var> setzt Nachspiel ein!
+<var> (wild) setzt Nachspiel ein!
+<var> (Gegner) setzt Nachspiel ein!
+<var> (Herrscher) setzt Nachspiel ein!
+<var> setzt Übernahme ein!
+<var> (wild) setzt Übernahme ein!
+<var> (Gegner) setzt Übernahme ein!
+<var> (Herrscher) setzt Übernahme ein!
+<var> setzt Geheimpower ein!
+<var> (wild) setzt Geheimpower ein!
+<var> (Gegner) setzt Geheimpower ein!
+<var> (Herrscher) setzt Geheimpower ein!
+<var> setzt Taucher ein!
+<var> (wild) setzt Taucher ein!
+<var> (Gegner) setzt Taucher ein!
+<var> (Herrscher) setzt Taucher ein!
+<var> setzt Armstoß ein!
+<var> (wild) setzt Armstoß ein!
+<var> (Gegner) setzt Armstoß ein!
+<var> (Herrscher) setzt Armstoß ein!
+<var> setzt Tarnung ein!
+<var> (wild) setzt Tarnung ein!
+<var> (Gegner) setzt Tarnung ein!
+<var> (Herrscher) setzt Tarnung ein!
+<var> setzt Schweifglanz ein!
+<var> (wild) setzt Schweifglanz ein!
+<var> (Gegner) setzt Schweifglanz ein!
+<var> (Herrscher) setzt Schweifglanz ein!
+<var> setzt Scheinwerfer ein!
+<var> (wild) setzt Scheinwerfer ein!
+<var> (Gegner) setzt Scheinwerfer ein!
+<var> (Herrscher) setzt Scheinwerfer ein!
+<var> setzt Nebelball ein!
+<var> (wild) setzt Nebelball ein!
+<var> (Gegner) setzt Nebelball ein!
+<var> (Herrscher) setzt Nebelball ein!
+<var> setzt Daunenreigen ein!
+<var> (wild) setzt Daunenreigen ein!
+<var> (Gegner) setzt Daunenreigen ein!
+<var> (Herrscher) setzt Daunenreigen ein!
+<var> setzt Taumeltanz ein!
+<var> (wild) setzt Taumeltanz ein!
+<var> (Gegner) setzt Taumeltanz ein!
+<var> (Herrscher) setzt Taumeltanz ein!
+<var> setzt Feuerfeger ein!
+<var> (wild) setzt Feuerfeger ein!
+<var> (Gegner) setzt Feuerfeger ein!
+<var> (Herrscher) setzt Feuerfeger ein!
+<var> setzt Lehmsuhler ein!
+<var> (wild) setzt Lehmsuhler ein!
+<var> (Gegner) setzt Lehmsuhler ein!
+<var> (Herrscher) setzt Lehmsuhler ein!
+<var> setzt Frostbeule ein!
+<var> (wild) setzt Frostbeule ein!
+<var> (Gegner) setzt Frostbeule ein!
+<var> (Herrscher) setzt Frostbeule ein!
+<var> setzt Nietenranke ein!
+<var> (wild) setzt Nietenranke ein!
+<var> (Gegner) setzt Nietenranke ein!
+<var> (Herrscher) setzt Nietenranke ein!
+<var> setzt Tagedieb ein!
+<var> (wild) setzt Tagedieb ein!
+<var> (Gegner) setzt Tagedieb ein!
+<var> (Herrscher) setzt Tagedieb ein!
+<var> setzt Schallwelle ein!
+<var> (wild) setzt Schallwelle ein!
+<var> (Gegner) setzt Schallwelle ein!
+<var> (Herrscher) setzt Schallwelle ein!
+<var> setzt Giftzahn ein!
+<var> (wild) setzt Giftzahn ein!
+<var> (Gegner) setzt Giftzahn ein!
+<var> (Herrscher) setzt Giftzahn ein!
+<var> setzt Zermalmklaue ein!
+<var> (wild) setzt Zermalmklaue ein!
+<var> (Gegner) setzt Zermalmklaue ein!
+<var> (Herrscher) setzt Zermalmklaue ein!
+<var> setzt Lohekanonade ein!
+<var> (wild) setzt Lohekanonade ein!
+<var> (Gegner) setzt Lohekanonade ein!
+<var> (Herrscher) setzt Lohekanonade ein!
+<var> setzt Aquahaubitze ein!
+<var> (wild) setzt Aquahaubitze ein!
+<var> (Gegner) setzt Aquahaubitze ein!
+<var> (Herrscher) setzt Aquahaubitze ein!
+<var> setzt Sternenhieb ein!
+<var> (wild) setzt Sternenhieb ein!
+<var> (Gegner) setzt Sternenhieb ein!
+<var> (Herrscher) setzt Sternenhieb ein!
+<var> setzt Erstauner ein!
+<var> (wild) setzt Erstauner ein!
+<var> (Gegner) setzt Erstauner ein!
+<var> (Herrscher) setzt Erstauner ein!
+<var> setzt Meteorologe ein!
+<var> (wild) setzt Meteorologe ein!
+<var> (Gegner) setzt Meteorologe ein!
+<var> (Herrscher) setzt Meteorologe ein!
+<var> setzt Aromakur ein!
+<var> (wild) setzt Aromakur ein!
+<var> (Gegner) setzt Aromakur ein!
+<var> (Herrscher) setzt Aromakur ein!
+<var> setzt Trugträne ein!
+<var> (wild) setzt Trugträne ein!
+<var> (Gegner) setzt Trugträne ein!
+<var> (Herrscher) setzt Trugträne ein!
+<var> setzt Windschnitt ein!
+<var> (wild) setzt Windschnitt ein!
+<var> (Gegner) setzt Windschnitt ein!
+<var> (Herrscher) setzt Windschnitt ein!
+<var> setzt Hitzekoller ein!
+<var> (wild) setzt Hitzekoller ein!
+<var> (Gegner) setzt Hitzekoller ein!
+<var> (Herrscher) setzt Hitzekoller ein!
+<var> setzt Schnüffler ein!
+<var> (wild) setzt Schnüffler ein!
+<var> (Gegner) setzt Schnüffler ein!
+<var> (Herrscher) setzt Schnüffler ein!
+<var> setzt Felsgrab ein!
+<var> (wild) setzt Felsgrab ein!
+<var> (Gegner) setzt Felsgrab ein!
+<var> (Herrscher) setzt Felsgrab ein!
+<var> setzt Silberhauch ein!
+<var> (wild) setzt Silberhauch ein!
+<var> (Gegner) setzt Silberhauch ein!
+<var> (Herrscher) setzt Silberhauch ein!
+<var> setzt Metallsound ein!
+<var> (wild) setzt Metallsound ein!
+<var> (Gegner) setzt Metallsound ein!
+<var> (Herrscher) setzt Metallsound ein!
+<var> setzt Grasflöte ein!
+<var> (wild) setzt Grasflöte ein!
+<var> (Gegner) setzt Grasflöte ein!
+<var> (Herrscher) setzt Grasflöte ein!
+<var> setzt Spaßkanone ein!
+<var> (wild) setzt Spaßkanone ein!
+<var> (Gegner) setzt Spaßkanone ein!
+<var> (Herrscher) setzt Spaßkanone ein!
+<var> setzt Kosmik-Kraft ein!
+<var> (wild) setzt Kosmik-Kraft ein!
+<var> (Gegner) setzt Kosmik-Kraft ein!
+<var> (Herrscher) setzt Kosmik-Kraft ein!
+<var> setzt Fontränen ein!
+<var> (wild) setzt Fontränen ein!
+<var> (Gegner) setzt Fontränen ein!
+<var> (Herrscher) setzt Fontränen ein!
+<var> setzt Ampelleuchte ein!
+<var> (wild) setzt Ampelleuchte ein!
+<var> (Gegner) setzt Ampelleuchte ein!
+<var> (Herrscher) setzt Ampelleuchte ein!
+<var> setzt Finsterfaust ein!
+<var> (wild) setzt Finsterfaust ein!
+<var> (Gegner) setzt Finsterfaust ein!
+<var> (Herrscher) setzt Finsterfaust ein!
+<var> setzt Sondersensor ein!
+<var> (wild) setzt Sondersensor ein!
+<var> (Gegner) setzt Sondersensor ein!
+<var> (Herrscher) setzt Sondersensor ein!
+<var> setzt Himmelhieb ein!
+<var> (wild) setzt Himmelhieb ein!
+<var> (Gegner) setzt Himmelhieb ein!
+<var> (Herrscher) setzt Himmelhieb ein!
+<var> setzt Sandgrab ein!
+<var> (wild) setzt Sandgrab ein!
+<var> (Gegner) setzt Sandgrab ein!
+<var> (Herrscher) setzt Sandgrab ein!
+<var> setzt Eiseskälte ein!
+<var> (wild) setzt Eiseskälte ein!
+<var> (Gegner) setzt Eiseskälte ein!
+<var> (Herrscher) setzt Eiseskälte ein!
+<var> setzt Lehmbrühe ein!
+<var> (wild) setzt Lehmbrühe ein!
+<var> (Gegner) setzt Lehmbrühe ein!
+<var> (Herrscher) setzt Lehmbrühe ein!
+<var> setzt Kugelsaat ein!
+<var> (wild) setzt Kugelsaat ein!
+<var> (Gegner) setzt Kugelsaat ein!
+<var> (Herrscher) setzt Kugelsaat ein!
+<var> setzt Aero-Ass ein!
+<var> (wild) setzt Aero-Ass ein!
+<var> (Gegner) setzt Aero-Ass ein!
+<var> (Herrscher) setzt Aero-Ass ein!
+<var> setzt Eisspeer ein!
+<var> (wild) setzt Eisspeer ein!
+<var> (Gegner) setzt Eisspeer ein!
+<var> (Herrscher) setzt Eisspeer ein!
+<var> setzt Eisenabwehr ein!
+<var> (wild) setzt Eisenabwehr ein!
+<var> (Gegner) setzt Eisenabwehr ein!
+<var> (Herrscher) setzt Eisenabwehr ein!
+<var> setzt Rückentzug ein!
+<var> (wild) setzt Rückentzug ein!
+<var> (Gegner) setzt Rückentzug ein!
+<var> (Herrscher) setzt Rückentzug ein!
+<var> setzt Jauler ein!
+<var> (wild) setzt Jauler ein!
+<var> (Gegner) setzt Jauler ein!
+<var> (Herrscher) setzt Jauler ein!
+<var> setzt Drachenklaue ein!
+<var> (wild) setzt Drachenklaue ein!
+<var> (Gegner) setzt Drachenklaue ein!
+<var> (Herrscher) setzt Drachenklaue ein!
+<var> setzt Flora-Statue ein!
+<var> (wild) setzt Flora-Statue ein!
+<var> (Gegner) setzt Flora-Statue ein!
+<var> (Herrscher) setzt Flora-Statue ein!
+<var> setzt Protzer ein!
+<var> (wild) setzt Protzer ein!
+<var> (Gegner) setzt Protzer ein!
+<var> (Herrscher) setzt Protzer ein!
+<var> setzt Sprungfeder ein!
+<var> (wild) setzt Sprungfeder ein!
+<var> (Gegner) setzt Sprungfeder ein!
+<var> (Herrscher) setzt Sprungfeder ein!
+<var> setzt Lehmschuss ein!
+<var> (wild) setzt Lehmschuss ein!
+<var> (Gegner) setzt Lehmschuss ein!
+<var> (Herrscher) setzt Lehmschuss ein!
+<var> setzt Giftschweif ein!
+<var> (wild) setzt Giftschweif ein!
+<var> (Gegner) setzt Giftschweif ein!
+<var> (Herrscher) setzt Giftschweif ein!
+<var> setzt Bezirzer ein!
+<var> (wild) setzt Bezirzer ein!
+<var> (Gegner) setzt Bezirzer ein!
+<var> (Herrscher) setzt Bezirzer ein!
+<var> setzt Volttackle ein!
+<var> (wild) setzt Volttackle ein!
+<var> (Gegner) setzt Volttackle ein!
+<var> (Herrscher) setzt Volttackle ein!
+<var> setzt Zauberblatt ein!
+<var> (wild) setzt Zauberblatt ein!
+<var> (Gegner) setzt Zauberblatt ein!
+<var> (Herrscher) setzt Zauberblatt ein!
+<var> setzt Nassmacher ein!
+<var> (wild) setzt Nassmacher ein!
+<var> (Gegner) setzt Nassmacher ein!
+<var> (Herrscher) setzt Nassmacher ein!
+<var> setzt Gedankengut ein!
+<var> (wild) setzt Gedankengut ein!
+<var> (Gegner) setzt Gedankengut ein!
+<var> (Herrscher) setzt Gedankengut ein!
+<var> setzt Laubklinge ein!
+<var> (wild) setzt Laubklinge ein!
+<var> (Gegner) setzt Laubklinge ein!
+<var> (Herrscher) setzt Laubklinge ein!
+<var> setzt Drachentanz ein!
+<var> (wild) setzt Drachentanz ein!
+<var> (Gegner) setzt Drachentanz ein!
+<var> (Herrscher) setzt Drachentanz ein!
+<var> setzt Felswurf ein!
+<var> (wild) setzt Felswurf ein!
+<var> (Gegner) setzt Felswurf ein!
+<var> (Herrscher) setzt Felswurf ein!
+<var> setzt Schockwelle ein!
+<var> (wild) setzt Schockwelle ein!
+<var> (Gegner) setzt Schockwelle ein!
+<var> (Herrscher) setzt Schockwelle ein!
+<var> setzt Aquawelle ein!
+<var> (wild) setzt Aquawelle ein!
+<var> (Gegner) setzt Aquawelle ein!
+<var> (Herrscher) setzt Aquawelle ein!
+<var> setzt Kismetwunsch ein!
+<var> (wild) setzt Kismetwunsch ein!
+<var> (Gegner) setzt Kismetwunsch ein!
+<var> (Herrscher) setzt Kismetwunsch ein!
+<var> setzt Psyschub ein!
+<var> (wild) setzt Psyschub ein!
+<var> (Gegner) setzt Psyschub ein!
+<var> (Herrscher) setzt Psyschub ein!
+<var> setzt Ruheort ein!
+<var> (wild) setzt Ruheort ein!
+<var> (Gegner) setzt Ruheort ein!
+<var> (Herrscher) setzt Ruheort ein!
+<var> setzt Erdanziehung ein!
+<var> (wild) setzt Erdanziehung ein!
+<var> (Gegner) setzt Erdanziehung ein!
+<var> (Herrscher) setzt Erdanziehung ein!
+<var> setzt Wunderauge ein!
+<var> (wild) setzt Wunderauge ein!
+<var> (Gegner) setzt Wunderauge ein!
+<var> (Herrscher) setzt Wunderauge ein!
+<var> setzt Weckruf ein!
+<var> (wild) setzt Weckruf ein!
+<var> (Gegner) setzt Weckruf ein!
+<var> (Herrscher) setzt Weckruf ein!
+<var> setzt Hammerarm ein!
+<var> (wild) setzt Hammerarm ein!
+<var> (Gegner) setzt Hammerarm ein!
+<var> (Herrscher) setzt Hammerarm ein!
+<var> setzt Gyroball ein!
+<var> (wild) setzt Gyroball ein!
+<var> (Gegner) setzt Gyroball ein!
+<var> (Herrscher) setzt Gyroball ein!
+<var> setzt Heilopfer ein!
+<var> (wild) setzt Heilopfer ein!
+<var> (Gegner) setzt Heilopfer ein!
+<var> (Herrscher) setzt Heilopfer ein!
+<var> setzt Lake ein!
+<var> (wild) setzt Lake ein!
+<var> (Gegner) setzt Lake ein!
+<var> (Herrscher) setzt Lake ein!
+<var> setzt Beerenkräfte ein!
+<var> (wild) setzt Beerenkräfte ein!
+<var> (Gegner) setzt Beerenkräfte ein!
+<var> (Herrscher) setzt Beerenkräfte ein!
+<var> setzt Offenlegung ein!
+<var> (wild) setzt Offenlegung ein!
+<var> (Gegner) setzt Offenlegung ein!
+<var> (Herrscher) setzt Offenlegung ein!
+<var> setzt Pflücker ein!
+<var> (wild) setzt Pflücker ein!
+<var> (Gegner) setzt Pflücker ein!
+<var> (Herrscher) setzt Pflücker ein!
+<var> setzt Rückenwind ein!
+<var> (wild) setzt Rückenwind ein!
+<var> (Gegner) setzt Rückenwind ein!
+<var> (Herrscher) setzt Rückenwind ein!
+<var> setzt Akupressur ein!
+<var> (wild) setzt Akupressur ein!
+<var> (Gegner) setzt Akupressur ein!
+<var> (Herrscher) setzt Akupressur ein!
+<var> setzt Metallstoß ein!
+<var> (wild) setzt Metallstoß ein!
+<var> (Gegner) setzt Metallstoß ein!
+<var> (Herrscher) setzt Metallstoß ein!
+<var> setzt Kehrtwende ein!
+<var> (wild) setzt Kehrtwende ein!
+<var> (Gegner) setzt Kehrtwende ein!
+<var> (Herrscher) setzt Kehrtwende ein!
+<var> setzt Nahkampf ein!
+<var> (wild) setzt Nahkampf ein!
+<var> (Gegner) setzt Nahkampf ein!
+<var> (Herrscher) setzt Nahkampf ein!
+<var> setzt Gegenstoß ein!
+<var> (wild) setzt Gegenstoß ein!
+<var> (Gegner) setzt Gegenstoß ein!
+<var> (Herrscher) setzt Gegenstoß ein!
+<var> setzt Gewissheit ein!
+<var> (wild) setzt Gewissheit ein!
+<var> (Gegner) setzt Gewissheit ein!
+<var> (Herrscher) setzt Gewissheit ein!
+<var> setzt Itemsperre ein!
+<var> (wild) setzt Itemsperre ein!
+<var> (Gegner) setzt Itemsperre ein!
+<var> (Herrscher) setzt Itemsperre ein!
+<var> setzt Schleuder ein!
+<var> (wild) setzt Schleuder ein!
+<var> (Gegner) setzt Schleuder ein!
+<var> (Herrscher) setzt Schleuder ein!
+<var> setzt Psybann ein!
+<var> (wild) setzt Psybann ein!
+<var> (Gegner) setzt Psybann ein!
+<var> (Herrscher) setzt Psybann ein!
+<var> setzt Trumpfkarte ein!
+<var> (wild) setzt Trumpfkarte ein!
+<var> (Gegner) setzt Trumpfkarte ein!
+<var> (Herrscher) setzt Trumpfkarte ein!
+<var> setzt Heilblockade ein!
+<var> (wild) setzt Heilblockade ein!
+<var> (Gegner) setzt Heilblockade ein!
+<var> (Herrscher) setzt Heilblockade ein!
+<var> setzt Auswringen ein!
+<var> (wild) setzt Auswringen ein!
+<var> (Gegner) setzt Auswringen ein!
+<var> (Herrscher) setzt Auswringen ein!
+<var> setzt Krafttrick ein!
+<var> (wild) setzt Krafttrick ein!
+<var> (Gegner) setzt Krafttrick ein!
+<var> (Herrscher) setzt Krafttrick ein!
+<var> setzt Magensäfte ein!
+<var> (wild) setzt Magensäfte ein!
+<var> (Gegner) setzt Magensäfte ein!
+<var> (Herrscher) setzt Magensäfte ein!
+<var> setzt Beschwörung ein!
+<var> (wild) setzt Beschwörung ein!
+<var> (Gegner) setzt Beschwörung ein!
+<var> (Herrscher) setzt Beschwörung ein!
+<var> setzt Egotrip ein!
+<var> (wild) setzt Egotrip ein!
+<var> (Gegner) setzt Egotrip ein!
+<var> (Herrscher) setzt Egotrip ein!
+<var> setzt Imitator ein!
+<var> (wild) setzt Imitator ein!
+<var> (Gegner) setzt Imitator ein!
+<var> (Herrscher) setzt Imitator ein!
+<var> setzt Krafttausch ein!
+<var> (wild) setzt Krafttausch ein!
+<var> (Gegner) setzt Krafttausch ein!
+<var> (Herrscher) setzt Krafttausch ein!
+<var> setzt Schutztausch ein!
+<var> (wild) setzt Schutztausch ein!
+<var> (Gegner) setzt Schutztausch ein!
+<var> (Herrscher) setzt Schutztausch ein!
+<var> setzt Strafattacke ein!
+<var> (wild) setzt Strafattacke ein!
+<var> (Gegner) setzt Strafattacke ein!
+<var> (Herrscher) setzt Strafattacke ein!
+<var> setzt Zuflucht ein!
+<var> (wild) setzt Zuflucht ein!
+<var> (Gegner) setzt Zuflucht ein!
+<var> (Herrscher) setzt Zuflucht ein!
+<var> setzt Sorgensamen ein!
+<var> (wild) setzt Sorgensamen ein!
+<var> (Gegner) setzt Sorgensamen ein!
+<var> (Herrscher) setzt Sorgensamen ein!
+<var> setzt Tiefschlag ein!
+<var> (wild) setzt Tiefschlag ein!
+<var> (Gegner) setzt Tiefschlag ein!
+<var> (Herrscher) setzt Tiefschlag ein!
+<var> setzt Giftspitzen ein!
+<var> (wild) setzt Giftspitzen ein!
+<var> (Gegner) setzt Giftspitzen ein!
+<var> (Herrscher) setzt Giftspitzen ein!
+<var> setzt Statustausch ein!
+<var> (wild) setzt Statustausch ein!
+<var> (Gegner) setzt Statustausch ein!
+<var> (Herrscher) setzt Statustausch ein!
+<var> setzt Wasserring ein!
+<var> (wild) setzt Wasserring ein!
+<var> (Gegner) setzt Wasserring ein!
+<var> (Herrscher) setzt Wasserring ein!
+<var> setzt Magnetflug ein!
+<var> (wild) setzt Magnetflug ein!
+<var> (Gegner) setzt Magnetflug ein!
+<var> (Herrscher) setzt Magnetflug ein!
+<var> setzt Flammenblitz ein!
+<var> (wild) setzt Flammenblitz ein!
+<var> (Gegner) setzt Flammenblitz ein!
+<var> (Herrscher) setzt Flammenblitz ein!
+<var> setzt Kraftwelle ein!
+<var> (wild) setzt Kraftwelle ein!
+<var> (Gegner) setzt Kraftwelle ein!
+<var> (Herrscher) setzt Kraftwelle ein!
+<var> setzt Aurasphäre ein!
+<var> (wild) setzt Aurasphäre ein!
+<var> (Gegner) setzt Aurasphäre ein!
+<var> (Herrscher) setzt Aurasphäre ein!
+<var> setzt Steinpolitur ein!
+<var> (wild) setzt Steinpolitur ein!
+<var> (Gegner) setzt Steinpolitur ein!
+<var> (Herrscher) setzt Steinpolitur ein!
+<var> setzt Gifthieb ein!
+<var> (wild) setzt Gifthieb ein!
+<var> (Gegner) setzt Gifthieb ein!
+<var> (Herrscher) setzt Gifthieb ein!
+<var> setzt Finsteraura ein!
+<var> (wild) setzt Finsteraura ein!
+<var> (Gegner) setzt Finsteraura ein!
+<var> (Herrscher) setzt Finsteraura ein!
+<var> setzt Nachthieb ein!
+<var> (wild) setzt Nachthieb ein!
+<var> (Gegner) setzt Nachthieb ein!
+<var> (Herrscher) setzt Nachthieb ein!
+<var> setzt Nassschweif ein!
+<var> (wild) setzt Nassschweif ein!
+<var> (Gegner) setzt Nassschweif ein!
+<var> (Herrscher) setzt Nassschweif ein!
+<var> setzt Samenbomben ein!
+<var> (wild) setzt Samenbomben ein!
+<var> (Gegner) setzt Samenbomben ein!
+<var> (Herrscher) setzt Samenbomben ein!
+<var> setzt Luftschnitt ein!
+<var> (wild) setzt Luftschnitt ein!
+<var> (Gegner) setzt Luftschnitt ein!
+<var> (Herrscher) setzt Luftschnitt ein!
+<var> setzt Kreuzschere ein!
+<var> (wild) setzt Kreuzschere ein!
+<var> (Gegner) setzt Kreuzschere ein!
+<var> (Herrscher) setzt Kreuzschere ein!
+<var> setzt Käfergebrumm ein!
+<var> (wild) setzt Käfergebrumm ein!
+<var> (Gegner) setzt Käfergebrumm ein!
+<var> (Herrscher) setzt Käfergebrumm ein!
+<var> setzt Drachenpuls ein!
+<var> (wild) setzt Drachenpuls ein!
+<var> (Gegner) setzt Drachenpuls ein!
+<var> (Herrscher) setzt Drachenpuls ein!
+<var> setzt Drachenstoß ein!
+<var> (wild) setzt Drachenstoß ein!
+<var> (Gegner) setzt Drachenstoß ein!
+<var> (Herrscher) setzt Drachenstoß ein!
+<var> setzt Juwelenkraft ein!
+<var> (wild) setzt Juwelenkraft ein!
+<var> (Gegner) setzt Juwelenkraft ein!
+<var> (Herrscher) setzt Juwelenkraft ein!
+<var> setzt Ableithieb ein!
+<var> (wild) setzt Ableithieb ein!
+<var> (Gegner) setzt Ableithieb ein!
+<var> (Herrscher) setzt Ableithieb ein!
+<var> setzt Vakuumwelle ein!
+<var> (wild) setzt Vakuumwelle ein!
+<var> (Gegner) setzt Vakuumwelle ein!
+<var> (Herrscher) setzt Vakuumwelle ein!
+<var> setzt Fokusstoß ein!
+<var> (wild) setzt Fokusstoß ein!
+<var> (Gegner) setzt Fokusstoß ein!
+<var> (Herrscher) setzt Fokusstoß ein!
+<var> setzt Energieball ein!
+<var> (wild) setzt Energieball ein!
+<var> (Gegner) setzt Energieball ein!
+<var> (Herrscher) setzt Energieball ein!
+<var> setzt Sturzflug ein!
+<var> (wild) setzt Sturzflug ein!
+<var> (Gegner) setzt Sturzflug ein!
+<var> (Herrscher) setzt Sturzflug ein!
+<var> setzt Erdkräfte ein!
+<var> (wild) setzt Erdkräfte ein!
+<var> (Gegner) setzt Erdkräfte ein!
+<var> (Herrscher) setzt Erdkräfte ein!
+<var> setzt Wechseldich ein!
+<var> (wild) setzt Wechseldich ein!
+<var> (Gegner) setzt Wechseldich ein!
+<var> (Herrscher) setzt Wechseldich ein!
+<var> setzt Gigastoß ein!
+<var> (wild) setzt Gigastoß ein!
+<var> (Gegner) setzt Gigastoß ein!
+<var> (Herrscher) setzt Gigastoß ein!
+<var> setzt Ränkeschmied ein!
+<var> (wild) setzt Ränkeschmied ein!
+<var> (Gegner) setzt Ränkeschmied ein!
+<var> (Herrscher) setzt Ränkeschmied ein!
+<var> setzt Patronenhieb ein!
+<var> (wild) setzt Patronenhieb ein!
+<var> (Gegner) setzt Patronenhieb ein!
+<var> (Herrscher) setzt Patronenhieb ein!
+<var> setzt Lawine ein!
+<var> (wild) setzt Lawine ein!
+<var> (Gegner) setzt Lawine ein!
+<var> (Herrscher) setzt Lawine ein!
+<var> setzt Eissplitter ein!
+<var> (wild) setzt Eissplitter ein!
+<var> (Gegner) setzt Eissplitter ein!
+<var> (Herrscher) setzt Eissplitter ein!
+<var> setzt Dunkelklaue ein!
+<var> (wild) setzt Dunkelklaue ein!
+<var> (Gegner) setzt Dunkelklaue ein!
+<var> (Herrscher) setzt Dunkelklaue ein!
+<var> setzt Donnerzahn ein!
+<var> (wild) setzt Donnerzahn ein!
+<var> (Gegner) setzt Donnerzahn ein!
+<var> (Herrscher) setzt Donnerzahn ein!
+<var> setzt Eiszahn ein!
+<var> (wild) setzt Eiszahn ein!
+<var> (Gegner) setzt Eiszahn ein!
+<var> (Herrscher) setzt Eiszahn ein!
+<var> setzt Feuerzahn ein!
+<var> (wild) setzt Feuerzahn ein!
+<var> (Gegner) setzt Feuerzahn ein!
+<var> (Herrscher) setzt Feuerzahn ein!
+<var> setzt Schattenstoß ein!
+<var> (wild) setzt Schattenstoß ein!
+<var> (Gegner) setzt Schattenstoß ein!
+<var> (Herrscher) setzt Schattenstoß ein!
+<var> setzt Schlammbombe ein!
+<var> (wild) setzt Schlammbombe ein!
+<var> (Gegner) setzt Schlammbombe ein!
+<var> (Herrscher) setzt Schlammbombe ein!
+<var> setzt Psychoklinge ein!
+<var> (wild) setzt Psychoklinge ein!
+<var> (Gegner) setzt Psychoklinge ein!
+<var> (Herrscher) setzt Psychoklinge ein!
+<var> setzt Zen-Kopfstoß ein!
+<var> (wild) setzt Zen-Kopfstoß ein!
+<var> (Gegner) setzt Zen-Kopfstoß ein!
+<var> (Herrscher) setzt Zen-Kopfstoß ein!
+<var> setzt Spiegelsalve ein!
+<var> (wild) setzt Spiegelsalve ein!
+<var> (Gegner) setzt Spiegelsalve ein!
+<var> (Herrscher) setzt Spiegelsalve ein!
+<var> setzt Lichtkanone ein!
+<var> (wild) setzt Lichtkanone ein!
+<var> (Gegner) setzt Lichtkanone ein!
+<var> (Herrscher) setzt Lichtkanone ein!
+<var> setzt Kraxler ein!
+<var> (wild) setzt Kraxler ein!
+<var> (Gegner) setzt Kraxler ein!
+<var> (Herrscher) setzt Kraxler ein!
+<var> setzt Auflockern ein!
+<var> (wild) setzt Auflockern ein!
+<var> (Gegner) setzt Auflockern ein!
+<var> (Herrscher) setzt Auflockern ein!
+<var> setzt Bizarroraum ein!
+<var> (wild) setzt Bizarroraum ein!
+<var> (Gegner) setzt Bizarroraum ein!
+<var> (Herrscher) setzt Bizarroraum ein!
+<var> setzt Draco Meteor ein!
+<var> (wild) setzt Draco Meteor ein!
+<var> (Gegner) setzt Draco Meteor ein!
+<var> (Herrscher) setzt Draco Meteor ein!
+<var> setzt Ladungsstoß ein!
+<var> (wild) setzt Ladungsstoß ein!
+<var> (Gegner) setzt Ladungsstoß ein!
+<var> (Herrscher) setzt Ladungsstoß ein!
+<var> setzt Flammensturm ein!
+<var> (wild) setzt Flammensturm ein!
+<var> (Gegner) setzt Flammensturm ein!
+<var> (Herrscher) setzt Flammensturm ein!
+<var> setzt Blättersturm ein!
+<var> (wild) setzt Blättersturm ein!
+<var> (Gegner) setzt Blättersturm ein!
+<var> (Herrscher) setzt Blättersturm ein!
+<var> setzt Blattgeißel ein!
+<var> (wild) setzt Blattgeißel ein!
+<var> (Gegner) setzt Blattgeißel ein!
+<var> (Herrscher) setzt Blattgeißel ein!
+<var> setzt Felswerfer ein!
+<var> (wild) setzt Felswerfer ein!
+<var> (Gegner) setzt Felswerfer ein!
+<var> (Herrscher) setzt Felswerfer ein!
+<var> setzt Giftstreich ein!
+<var> (wild) setzt Giftstreich ein!
+<var> (Gegner) setzt Giftstreich ein!
+<var> (Herrscher) setzt Giftstreich ein!
+<var> setzt Mülltreffer ein!
+<var> (wild) setzt Mülltreffer ein!
+<var> (Gegner) setzt Mülltreffer ein!
+<var> (Herrscher) setzt Mülltreffer ein!
+<var> setzt Eisenschädel ein!
+<var> (wild) setzt Eisenschädel ein!
+<var> (Gegner) setzt Eisenschädel ein!
+<var> (Herrscher) setzt Eisenschädel ein!
+<var> setzt Magnetbombe ein!
+<var> (wild) setzt Magnetbombe ein!
+<var> (Gegner) setzt Magnetbombe ein!
+<var> (Herrscher) setzt Magnetbombe ein!
+<var> setzt Steinkante ein!
+<var> (wild) setzt Steinkante ein!
+<var> (Gegner) setzt Steinkante ein!
+<var> (Herrscher) setzt Steinkante ein!
+<var> setzt Liebreiz ein!
+<var> (wild) setzt Liebreiz ein!
+<var> (Gegner) setzt Liebreiz ein!
+<var> (Herrscher) setzt Liebreiz ein!
+<var> setzt Tarnsteine ein!
+<var> (wild) setzt Tarnsteine ein!
+<var> (Gegner) setzt Tarnsteine ein!
+<var> (Herrscher) setzt Tarnsteine ein!
+<var> setzt Strauchler ein!
+<var> (wild) setzt Strauchler ein!
+<var> (Gegner) setzt Strauchler ein!
+<var> (Herrscher) setzt Strauchler ein!
+<var> setzt Geschwätz ein!
+<var> (wild) setzt Geschwätz ein!
+<var> (Gegner) setzt Geschwätz ein!
+<var> (Herrscher) setzt Geschwätz ein!
+<var> setzt Urteilskraft ein!
+<var> (wild) setzt Urteilskraft ein!
+<var> (Gegner) setzt Urteilskraft ein!
+<var> (Herrscher) setzt Urteilskraft ein!
+<var> setzt Käferbiss ein!
+<var> (wild) setzt Käferbiss ein!
+<var> (Gegner) setzt Käferbiss ein!
+<var> (Herrscher) setzt Käferbiss ein!
+<var> setzt Ladestrahl ein!
+<var> (wild) setzt Ladestrahl ein!
+<var> (Gegner) setzt Ladestrahl ein!
+<var> (Herrscher) setzt Ladestrahl ein!
+<var> setzt Holzhammer ein!
+<var> (wild) setzt Holzhammer ein!
+<var> (Gegner) setzt Holzhammer ein!
+<var> (Herrscher) setzt Holzhammer ein!
+<var> setzt Wasserdüse ein!
+<var> (wild) setzt Wasserdüse ein!
+<var> (Gegner) setzt Wasserdüse ein!
+<var> (Herrscher) setzt Wasserdüse ein!
+<var> setzt Schlagbefehl ein!
+<var> (wild) setzt Schlagbefehl ein!
+<var> (Gegner) setzt Schlagbefehl ein!
+<var> (Herrscher) setzt Schlagbefehl ein!
+<var> setzt Blockbefehl ein!
+<var> (wild) setzt Blockbefehl ein!
+<var> (Gegner) setzt Blockbefehl ein!
+<var> (Herrscher) setzt Blockbefehl ein!
+<var> setzt Heilbefehl ein!
+<var> (wild) setzt Heilbefehl ein!
+<var> (Gegner) setzt Heilbefehl ein!
+<var> (Herrscher) setzt Heilbefehl ein!
+<var> setzt Kopfstoß ein!
+<var> (wild) setzt Kopfstoß ein!
+<var> (Gegner) setzt Kopfstoß ein!
+<var> (Herrscher) setzt Kopfstoß ein!
+<var> setzt Doppelschlag ein!
+<var> (wild) setzt Doppelschlag ein!
+<var> (Gegner) setzt Doppelschlag ein!
+<var> (Herrscher) setzt Doppelschlag ein!
+<var> setzt Zeitenlärm ein!
+<var> (wild) setzt Zeitenlärm ein!
+<var> (Gegner) setzt Zeitenlärm ein!
+<var> (Herrscher) setzt Zeitenlärm ein!
+<var> setzt Raumschlag ein!
+<var> (wild) setzt Raumschlag ein!
+<var> (Gegner) setzt Raumschlag ein!
+<var> (Herrscher) setzt Raumschlag ein!
+<var> setzt Lunartanz ein!
+<var> (wild) setzt Lunartanz ein!
+<var> (Gegner) setzt Lunartanz ein!
+<var> (Herrscher) setzt Lunartanz ein!
+<var> setzt Quetschgriff ein!
+<var> (wild) setzt Quetschgriff ein!
+<var> (Gegner) setzt Quetschgriff ein!
+<var> (Herrscher) setzt Quetschgriff ein!
+<var> setzt Lavasturm ein!
+<var> (wild) setzt Lavasturm ein!
+<var> (Gegner) setzt Lavasturm ein!
+<var> (Herrscher) setzt Lavasturm ein!
+<var> setzt Schlummerort ein!
+<var> (wild) setzt Schlummerort ein!
+<var> (Gegner) setzt Schlummerort ein!
+<var> (Herrscher) setzt Schlummerort ein!
+<var> setzt Schocksamen ein!
+<var> (wild) setzt Schocksamen ein!
+<var> (Gegner) setzt Schocksamen ein!
+<var> (Herrscher) setzt Schocksamen ein!
+<var> setzt Unheilböen ein!
+<var> (wild) setzt Unheilböen ein!
+<var> (Gegner) setzt Unheilböen ein!
+<var> (Herrscher) setzt Unheilböen ein!
+<var> setzt Schemenkraft ein!
+<var> (wild) setzt Schemenkraft ein!
+<var> (Gegner) setzt Schemenkraft ein!
+<var> (Herrscher) setzt Schemenkraft ein!
+<var> setzt Klauenwetzer ein!
+<var> (wild) setzt Klauenwetzer ein!
+<var> (Gegner) setzt Klauenwetzer ein!
+<var> (Herrscher) setzt Klauenwetzer ein!
+<var> setzt Rundumschutz ein!
+<var> (wild) setzt Rundumschutz ein!
+<var> (Gegner) setzt Rundumschutz ein!
+<var> (Herrscher) setzt Rundumschutz ein!
+<var> setzt Schutzteiler ein!
+<var> (wild) setzt Schutzteiler ein!
+<var> (Gegner) setzt Schutzteiler ein!
+<var> (Herrscher) setzt Schutzteiler ein!
+<var> setzt Kraftteiler ein!
+<var> (wild) setzt Kraftteiler ein!
+<var> (Gegner) setzt Kraftteiler ein!
+<var> (Herrscher) setzt Kraftteiler ein!
+<var> setzt Wunderraum ein!
+<var> (wild) setzt Wunderraum ein!
+<var> (Gegner) setzt Wunderraum ein!
+<var> (Herrscher) setzt Wunderraum ein!
+<var> setzt Psychoschock ein!
+<var> (wild) setzt Psychoschock ein!
+<var> (Gegner) setzt Psychoschock ein!
+<var> (Herrscher) setzt Psychoschock ein!
+<var> setzt Giftschock ein!
+<var> (wild) setzt Giftschock ein!
+<var> (Gegner) setzt Giftschock ein!
+<var> (Herrscher) setzt Giftschock ein!
+<var> setzt Autotomie ein!
+<var> (wild) setzt Autotomie ein!
+<var> (Gegner) setzt Autotomie ein!
+<var> (Herrscher) setzt Autotomie ein!
+<var> setzt Wutpulver ein!
+<var> (wild) setzt Wutpulver ein!
+<var> (Gegner) setzt Wutpulver ein!
+<var> (Herrscher) setzt Wutpulver ein!
+<var> setzt Telekinese ein!
+<var> (wild) setzt Telekinese ein!
+<var> (Gegner) setzt Telekinese ein!
+<var> (Herrscher) setzt Telekinese ein!
+<var> setzt Magieraum ein!
+<var> (wild) setzt Magieraum ein!
+<var> (Gegner) setzt Magieraum ein!
+<var> (Herrscher) setzt Magieraum ein!
+<var> setzt Katapult ein!
+<var> (wild) setzt Katapult ein!
+<var> (Gegner) setzt Katapult ein!
+<var> (Herrscher) setzt Katapult ein!
+<var> setzt Bergsturm ein!
+<var> (wild) setzt Bergsturm ein!
+<var> (Gegner) setzt Bergsturm ein!
+<var> (Herrscher) setzt Bergsturm ein!
+<var> setzt Funkenflug ein!
+<var> (wild) setzt Funkenflug ein!
+<var> (Gegner) setzt Funkenflug ein!
+<var> (Herrscher) setzt Funkenflug ein!
+<var> setzt Schlammwoge ein!
+<var> (wild) setzt Schlammwoge ein!
+<var> (Gegner) setzt Schlammwoge ein!
+<var> (Herrscher) setzt Schlammwoge ein!
+<var> setzt Falterreigen ein!
+<var> (wild) setzt Falterreigen ein!
+<var> (Gegner) setzt Falterreigen ein!
+<var> (Herrscher) setzt Falterreigen ein!
+<var> setzt Rammboss ein!
+<var> (wild) setzt Rammboss ein!
+<var> (Gegner) setzt Rammboss ein!
+<var> (Herrscher) setzt Rammboss ein!
+<var> setzt Synchrolärm ein!
+<var> (wild) setzt Synchrolärm ein!
+<var> (Gegner) setzt Synchrolärm ein!
+<var> (Herrscher) setzt Synchrolärm ein!
+<var> setzt Elektroball ein!
+<var> (wild) setzt Elektroball ein!
+<var> (Gegner) setzt Elektroball ein!
+<var> (Herrscher) setzt Elektroball ein!
+<var> setzt Überflutung ein!
+<var> (wild) setzt Überflutung ein!
+<var> (Gegner) setzt Überflutung ein!
+<var> (Herrscher) setzt Überflutung ein!
+<var> setzt Nitroladung ein!
+<var> (wild) setzt Nitroladung ein!
+<var> (Gegner) setzt Nitroladung ein!
+<var> (Herrscher) setzt Nitroladung ein!
+<var> setzt Einrollen ein!
+<var> (wild) setzt Einrollen ein!
+<var> (Gegner) setzt Einrollen ein!
+<var> (Herrscher) setzt Einrollen ein!
+<var> setzt Fußtritt ein!
+<var> (wild) setzt Fußtritt ein!
+<var> (Gegner) setzt Fußtritt ein!
+<var> (Herrscher) setzt Fußtritt ein!
+<var> setzt Säurespeier ein!
+<var> (wild) setzt Säurespeier ein!
+<var> (Gegner) setzt Säurespeier ein!
+<var> (Herrscher) setzt Säurespeier ein!
+<var> setzt Schmarotzer ein!
+<var> (wild) setzt Schmarotzer ein!
+<var> (Gegner) setzt Schmarotzer ein!
+<var> (Herrscher) setzt Schmarotzer ein!
+<var> setzt Wankelstrahl ein!
+<var> (wild) setzt Wankelstrahl ein!
+<var> (Gegner) setzt Wankelstrahl ein!
+<var> (Herrscher) setzt Wankelstrahl ein!
+<var> setzt Zwango ein!
+<var> (wild) setzt Zwango ein!
+<var> (Gegner) setzt Zwango ein!
+<var> (Herrscher) setzt Zwango ein!
+<var> setzt Galanterie ein!
+<var> (wild) setzt Galanterie ein!
+<var> (Gegner) setzt Galanterie ein!
+<var> (Herrscher) setzt Galanterie ein!
+<var> stimmt einen Kanon an!
+<var> (wild) stimmt einen Kanon an!
+<var> (Gegner) stimmt einen Kanon an!
+<var> (Herrscher) stimmt einen Kanon an!
+<var> setzt Widerhall ein!
+<var> (wild) setzt Widerhall ein!
+<var> (Gegner) setzt Widerhall ein!
+<var> (Herrscher) setzt Widerhall ein!
+<var> setzt Zermürben ein!
+<var> (wild) setzt Zermürben ein!
+<var> (Gegner) setzt Zermürben ein!
+<var> (Herrscher) setzt Zermürben ein!
+<var> setzt Klärsmog ein!
+<var> (wild) setzt Klärsmog ein!
+<var> (Gegner) setzt Klärsmog ein!
+<var> (Herrscher) setzt Klärsmog ein!
+<var> setzt Kraftvorrat ein!
+<var> (wild) setzt Kraftvorrat ein!
+<var> (Gegner) setzt Kraftvorrat ein!
+<var> (Herrscher) setzt Kraftvorrat ein!
+<var> setzt Rapidschutz ein!
+<var> (wild) setzt Rapidschutz ein!
+<var> (Gegner) setzt Rapidschutz ein!
+<var> (Herrscher) setzt Rapidschutz ein!
+<var> setzt Seitentausch ein!
+<var> (wild) setzt Seitentausch ein!
+<var> (Gegner) setzt Seitentausch ein!
+<var> (Herrscher) setzt Seitentausch ein!
+<var> setzt Siedewasser ein!
+<var> (wild) setzt Siedewasser ein!
+<var> (Gegner) setzt Siedewasser ein!
+<var> (Herrscher) setzt Siedewasser ein!
+<var> setzt Hausbruch ein!
+<var> (wild) setzt Hausbruch ein!
+<var> (Gegner) setzt Hausbruch ein!
+<var> (Herrscher) setzt Hausbruch ein!
+<var> setzt Heilwoge ein!
+<var> (wild) setzt Heilwoge ein!
+<var> (Gegner) setzt Heilwoge ein!
+<var> (Herrscher) setzt Heilwoge ein!
+<var> setzt Bürde ein!
+<var> (wild) setzt Bürde ein!
+<var> (Gegner) setzt Bürde ein!
+<var> (Herrscher) setzt Bürde ein!
+<var> setzt Freier Fall ein!
+<var> (wild) setzt Freier Fall ein!
+<var> (Gegner) setzt Freier Fall ein!
+<var> (Herrscher) setzt Freier Fall ein!
+<var> setzt Gangwechsel ein!
+<var> (wild) setzt Gangwechsel ein!
+<var> (Gegner) setzt Gangwechsel ein!
+<var> (Herrscher) setzt Gangwechsel ein!
+<var> setzt Überkopfwurf ein!
+<var> (wild) setzt Überkopfwurf ein!
+<var> (Gegner) setzt Überkopfwurf ein!
+<var> (Herrscher) setzt Überkopfwurf ein!
+<var> setzt Einäschern ein!
+<var> (wild) setzt Einäschern ein!
+<var> (Gegner) setzt Einäschern ein!
+<var> (Herrscher) setzt Einäschern ein!
+<var> setzt Verzögerung ein!
+<var> (wild) setzt Verzögerung ein!
+<var> (Gegner) setzt Verzögerung ein!
+<var> (Herrscher) setzt Verzögerung ein!
+<var> setzt Akrobatik ein!
+<var> (wild) setzt Akrobatik ein!
+<var> (Gegner) setzt Akrobatik ein!
+<var> (Herrscher) setzt Akrobatik ein!
+<var> setzt Typenspiegel ein!
+<var> (wild) setzt Typenspiegel ein!
+<var> (Gegner) setzt Typenspiegel ein!
+<var> (Herrscher) setzt Typenspiegel ein!
+<var> setzt Heimzahlung ein!
+<var> (wild) setzt Heimzahlung ein!
+<var> (Gegner) setzt Heimzahlung ein!
+<var> (Herrscher) setzt Heimzahlung ein!
+<var> setzt Wagemut ein!
+<var> (wild) setzt Wagemut ein!
+<var> (Gegner) setzt Wagemut ein!
+<var> (Herrscher) setzt Wagemut ein!
+<var> setzt Offerte ein!
+<var> (wild) setzt Offerte ein!
+<var> (Gegner) setzt Offerte ein!
+<var> (Herrscher) setzt Offerte ein!
+<var> setzt Inferno ein!
+<var> (wild) setzt Inferno ein!
+<var> (Gegner) setzt Inferno ein!
+<var> (Herrscher) setzt Inferno ein!
+<var> setzt Wassersäulen ein!
+<var> (wild) setzt Wassersäulen ein!
+<var> (Gegner) setzt Wassersäulen ein!
+<var> (Herrscher) setzt Wassersäulen ein!
+<var> setzt Feuersäulen ein!
+<var> (wild) setzt Feuersäulen ein!
+<var> (Gegner) setzt Feuersäulen ein!
+<var> (Herrscher) setzt Feuersäulen ein!
+<var> setzt Pflanzensäulen ein!
+<var> (wild) setzt Pflanzensäulen ein!
+<var> (Gegner) setzt Pflanzensäulen ein!
+<var> (Herrscher) setzt Pflanzensäulen ein!
+<var> setzt Voltwechsel ein!
+<var> (wild) setzt Voltwechsel ein!
+<var> (Gegner) setzt Voltwechsel ein!
+<var> (Herrscher) setzt Voltwechsel ein!
+<var> setzt Käfertrutz ein!
+<var> (wild) setzt Käfertrutz ein!
+<var> (Gegner) setzt Käfertrutz ein!
+<var> (Herrscher) setzt Käfertrutz ein!
+<var> setzt Dampfwalze ein!
+<var> (wild) setzt Dampfwalze ein!
+<var> (Gegner) setzt Dampfwalze ein!
+<var> (Herrscher) setzt Dampfwalze ein!
+<var> setzt Eisesodem ein!
+<var> (wild) setzt Eisesodem ein!
+<var> (Gegner) setzt Eisesodem ein!
+<var> (Herrscher) setzt Eisesodem ein!
+<var> setzt Drachenrute ein!
+<var> (wild) setzt Drachenrute ein!
+<var> (Gegner) setzt Drachenrute ein!
+<var> (Herrscher) setzt Drachenrute ein!
+<var> setzt Kraftschub ein!
+<var> (wild) setzt Kraftschub ein!
+<var> (Gegner) setzt Kraftschub ein!
+<var> (Herrscher) setzt Kraftschub ein!
+<var> setzt Elektronetz ein!
+<var> (wild) setzt Elektronetz ein!
+<var> (Gegner) setzt Elektronetz ein!
+<var> (Herrscher) setzt Elektronetz ein!
+<var> setzt Stromstoß ein!
+<var> (wild) setzt Stromstoß ein!
+<var> (Gegner) setzt Stromstoß ein!
+<var> (Herrscher) setzt Stromstoß ein!
+<var> setzt Schlagbohrer ein!
+<var> (wild) setzt Schlagbohrer ein!
+<var> (Gegner) setzt Schlagbohrer ein!
+<var> (Herrscher) setzt Schlagbohrer ein!
+<var> setzt Doppelhieb ein!
+<var> (wild) setzt Doppelhieb ein!
+<var> (Gegner) setzt Doppelhieb ein!
+<var> (Herrscher) setzt Doppelhieb ein!
+<var> setzt Herzstempel ein!
+<var> (wild) setzt Herzstempel ein!
+<var> (Gegner) setzt Herzstempel ein!
+<var> (Herrscher) setzt Herzstempel ein!
+<var> setzt Holzgeweih ein!
+<var> (wild) setzt Holzgeweih ein!
+<var> (Gegner) setzt Holzgeweih ein!
+<var> (Herrscher) setzt Holzgeweih ein!
+<var> setzt Sanctoklinge ein!
+<var> (wild) setzt Sanctoklinge ein!
+<var> (Gegner) setzt Sanctoklinge ein!
+<var> (Herrscher) setzt Sanctoklinge ein!
+<var> setzt Kalkklinge ein!
+<var> (wild) setzt Kalkklinge ein!
+<var> (Gegner) setzt Kalkklinge ein!
+<var> (Herrscher) setzt Kalkklinge ein!
+<var> setzt Brandstempel ein!
+<var> (wild) setzt Brandstempel ein!
+<var> (Gegner) setzt Brandstempel ein!
+<var> (Herrscher) setzt Brandstempel ein!
+<var> setzt Grasmixer ein!
+<var> (wild) setzt Grasmixer ein!
+<var> (Gegner) setzt Grasmixer ein!
+<var> (Herrscher) setzt Grasmixer ein!
+<var> setzt Quetschwalze ein!
+<var> (wild) setzt Quetschwalze ein!
+<var> (Gegner) setzt Quetschwalze ein!
+<var> (Herrscher) setzt Quetschwalze ein!
+<var> setzt Watteschild ein!
+<var> (wild) setzt Watteschild ein!
+<var> (Gegner) setzt Watteschild ein!
+<var> (Herrscher) setzt Watteschild ein!
+<var> setzt Nachtflut ein!
+<var> (wild) setzt Nachtflut ein!
+<var> (Gegner) setzt Nachtflut ein!
+<var> (Herrscher) setzt Nachtflut ein!
+<var> setzt Psychostoß ein!
+<var> (wild) setzt Psychostoß ein!
+<var> (Gegner) setzt Psychostoß ein!
+<var> (Herrscher) setzt Psychostoß ein!
+<var> setzt Kehrschelle ein!
+<var> (wild) setzt Kehrschelle ein!
+<var> (Gegner) setzt Kehrschelle ein!
+<var> (Herrscher) setzt Kehrschelle ein!
+<var> setzt Orkan ein!
+<var> (wild) setzt Orkan ein!
+<var> (Gegner) setzt Orkan ein!
+<var> (Herrscher) setzt Orkan ein!
+<var> setzt Steinschädel ein!
+<var> (wild) setzt Steinschädel ein!
+<var> (Gegner) setzt Steinschädel ein!
+<var> (Herrscher) setzt Steinschädel ein!
+<var> setzt Klikkdiskus ein!
+<var> (wild) setzt Klikkdiskus ein!
+<var> (Gegner) setzt Klikkdiskus ein!
+<var> (Herrscher) setzt Klikkdiskus ein!
+<var> setzt Flammenball ein!
+<var> (wild) setzt Flammenball ein!
+<var> (Gegner) setzt Flammenball ein!
+<var> (Herrscher) setzt Flammenball ein!
+<var> setzt Techblaster ein!
+<var> (wild) setzt Techblaster ein!
+<var> (Gegner) setzt Techblaster ein!
+<var> (Herrscher) setzt Techblaster ein!
+<var> setzt Urgesang ein!
+<var> (wild) setzt Urgesang ein!
+<var> (Gegner) setzt Urgesang ein!
+<var> (Herrscher) setzt Urgesang ein!
+<var> setzt Mystoschwert ein!
+<var> (wild) setzt Mystoschwert ein!
+<var> (Gegner) setzt Mystoschwert ein!
+<var> (Herrscher) setzt Mystoschwert ein!
+<var> setzt Eiszeit ein!
+<var> (wild) setzt Eiszeit ein!
+<var> (Gegner) setzt Eiszeit ein!
+<var> (Herrscher) setzt Eiszeit ein!
+<var> setzt Blitzschlag ein!
+<var> (wild) setzt Blitzschlag ein!
+<var> (Gegner) setzt Blitzschlag ein!
+<var> (Herrscher) setzt Blitzschlag ein!
+<var> setzt Blauflammen ein!
+<var> (wild) setzt Blauflammen ein!
+<var> (Gegner) setzt Blauflammen ein!
+<var> (Herrscher) setzt Blauflammen ein!
+<var> setzt Feuerreigen ein!
+<var> (wild) setzt Feuerreigen ein!
+<var> (Gegner) setzt Feuerreigen ein!
+<var> (Herrscher) setzt Feuerreigen ein!
+<var> setzt Frostvolt ein!
+<var> (wild) setzt Frostvolt ein!
+<var> (Gegner) setzt Frostvolt ein!
+<var> (Herrscher) setzt Frostvolt ein!
+<var> setzt Frosthauch ein!
+<var> (wild) setzt Frosthauch ein!
+<var> (Gegner) setzt Frosthauch ein!
+<var> (Herrscher) setzt Frosthauch ein!
+<var> setzt Standpauke ein!
+<var> (wild) setzt Standpauke ein!
+<var> (Gegner) setzt Standpauke ein!
+<var> (Herrscher) setzt Standpauke ein!
+<var> setzt Eiszapfhagel ein!
+<var> (wild) setzt Eiszapfhagel ein!
+<var> (Gegner) setzt Eiszapfhagel ein!
+<var> (Herrscher) setzt Eiszapfhagel ein!
+<var> setzt V-Generator ein!
+<var> (wild) setzt V-Generator ein!
+<var> (Gegner) setzt V-Generator ein!
+<var> (Herrscher) setzt V-Generator ein!
+<var> setzt Kreuzflamme ein!
+<var> (wild) setzt Kreuzflamme ein!
+<var> (Gegner) setzt Kreuzflamme ein!
+<var> (Herrscher) setzt Kreuzflamme ein!
+<var> setzt Kreuzdonner ein!
+<var> (wild) setzt Kreuzdonner ein!
+<var> (Gegner) setzt Kreuzdonner ein!
+<var> (Herrscher) setzt Kreuzdonner ein!
+<var> setzt Flying Press ein!
+<var> (wild) setzt Flying Press ein!
+<var> (Gegner) setzt Flying Press ein!
+<var> (Herrscher) setzt Flying Press ein!
+<var> setzt Tatami-Schild ein!
+<var> (wild) setzt Tatami-Schild ein!
+<var> (Gegner) setzt Tatami-Schild ein!
+<var> (Herrscher) setzt Tatami-Schild ein!
+<var> setzt Rülpser ein!
+<var> (wild) setzt Rülpser ein!
+<var> (Gegner) setzt Rülpser ein!
+<var> (Herrscher) setzt Rülpser ein!
+<var> setzt Pflüger ein!
+<var> (wild) setzt Pflüger ein!
+<var> (Gegner) setzt Pflüger ein!
+<var> (Herrscher) setzt Pflüger ein!
+<var> setzt Klebenetz ein!
+<var> (wild) setzt Klebenetz ein!
+<var> (Gegner) setzt Klebenetz ein!
+<var> (Herrscher) setzt Klebenetz ein!
+<var> setzt Stachelfinale ein!
+<var> (wild) setzt Stachelfinale ein!
+<var> (Gegner) setzt Stachelfinale ein!
+<var> (Herrscher) setzt Stachelfinale ein!
+<var> setzt Phantomkraft ein!
+<var> (wild) setzt Phantomkraft ein!
+<var> (Gegner) setzt Phantomkraft ein!
+<var> (Herrscher) setzt Phantomkraft ein!
+<var> setzt Halloween ein!
+<var> (wild) setzt Halloween ein!
+<var> (Gegner) setzt Halloween ein!
+<var> (Herrscher) setzt Halloween ein!
+<var> setzt Kampfgebrüll ein!
+<var> (wild) setzt Kampfgebrüll ein!
+<var> (Gegner) setzt Kampfgebrüll ein!
+<var> (Herrscher) setzt Kampfgebrüll ein!
+<var> setzt Plasmaschauer ein!
+<var> (wild) setzt Plasmaschauer ein!
+<var> (Gegner) setzt Plasmaschauer ein!
+<var> (Herrscher) setzt Plasmaschauer ein!
+<var> setzt Parabolladung ein!
+<var> (wild) setzt Parabolladung ein!
+<var> (Gegner) setzt Parabolladung ein!
+<var> (Herrscher) setzt Parabolladung ein!
+<var> setzt Waldesfluch ein!
+<var> (wild) setzt Waldesfluch ein!
+<var> (Gegner) setzt Waldesfluch ein!
+<var> (Herrscher) setzt Waldesfluch ein!
+<var> setzt Blütenwirbel ein!
+<var> (wild) setzt Blütenwirbel ein!
+<var> (Gegner) setzt Blütenwirbel ein!
+<var> (Herrscher) setzt Blütenwirbel ein!
+<var> setzt Gefriertrockner ein!
+<var> (wild) setzt Gefriertrockner ein!
+<var> (Gegner) setzt Gefriertrockner ein!
+<var> (Herrscher) setzt Gefriertrockner ein!
+<var> setzt Säuselstimme ein!
+<var> (wild) setzt Säuselstimme ein!
+<var> (Gegner) setzt Säuselstimme ein!
+<var> (Herrscher) setzt Säuselstimme ein!
+<var> setzt Abgangstirade ein!
+<var> (wild) setzt Abgangstirade ein!
+<var> (Gegner) setzt Abgangstirade ein!
+<var> (Herrscher) setzt Abgangstirade ein!
+<var> setzt Invertigo ein!
+<var> (wild) setzt Invertigo ein!
+<var> (Gegner) setzt Invertigo ein!
+<var> (Herrscher) setzt Invertigo ein!
+<var> setzt Diebeskuss ein!
+<var> (wild) setzt Diebeskuss ein!
+<var> (Gegner) setzt Diebeskuss ein!
+<var> (Herrscher) setzt Diebeskuss ein!
+<var> setzt Trickschutz ein!
+<var> (wild) setzt Trickschutz ein!
+<var> (Gegner) setzt Trickschutz ein!
+<var> (Herrscher) setzt Trickschutz ein!
+<var> setzt Floraschutz ein!
+<var> (wild) setzt Floraschutz ein!
+<var> (Gegner) setzt Floraschutz ein!
+<var> (Herrscher) setzt Floraschutz ein!
+<var> setzt Grasfeld ein!
+<var> (wild) setzt Grasfeld ein!
+<var> (Gegner) setzt Grasfeld ein!
+<var> (Herrscher) setzt Grasfeld ein!
+<var> setzt Nebelfeld ein!
+<var> (wild) setzt Nebelfeld ein!
+<var> (Gegner) setzt Nebelfeld ein!
+<var> (Herrscher) setzt Nebelfeld ein!
+<var> setzt Elektrifizierung ein!
+<var> (wild) setzt Elektrifizierung ein!
+<var> (Gegner) setzt Elektrifizierung ein!
+<var> (Herrscher) setzt Elektrifizierung ein!
+<var> setzt Knuddler ein!
+<var> (wild) setzt Knuddler ein!
+<var> (Gegner) setzt Knuddler ein!
+<var> (Herrscher) setzt Knuddler ein!
+<var> setzt Feenbrise ein!
+<var> (wild) setzt Feenbrise ein!
+<var> (Gegner) setzt Feenbrise ein!
+<var> (Herrscher) setzt Feenbrise ein!
+<var> setzt Mondgewalt ein!
+<var> (wild) setzt Mondgewalt ein!
+<var> (Gegner) setzt Mondgewalt ein!
+<var> (Herrscher) setzt Mondgewalt ein!
+<var> setzt Überschallknall ein!
+<var> (wild) setzt Überschallknall ein!
+<var> (Gegner) setzt Überschallknall ein!
+<var> (Herrscher) setzt Überschallknall ein!
+<var> setzt Feenschloss ein!
+<var> (wild) setzt Feenschloss ein!
+<var> (Gegner) setzt Feenschloss ein!
+<var> (Herrscher) setzt Feenschloss ein!
+<var> setzt Königsschild ein!
+<var> (wild) setzt Königsschild ein!
+<var> (Gegner) setzt Königsschild ein!
+<var> (Herrscher) setzt Königsschild ein!
+<var> setzt Kameradschaft ein!
+<var> (wild) setzt Kameradschaft ein!
+<var> (Gegner) setzt Kameradschaft ein!
+<var> (Herrscher) setzt Kameradschaft ein!
+<var> setzt Vertrauenssache ein!
+<var> (wild) setzt Vertrauenssache ein!
+<var> (Gegner) setzt Vertrauenssache ein!
+<var> (Herrscher) setzt Vertrauenssache ein!
+<var> setzt Diamantsturm ein!
+<var> (wild) setzt Diamantsturm ein!
+<var> (Gegner) setzt Diamantsturm ein!
+<var> (Herrscher) setzt Diamantsturm ein!
+<var> setzt Dampfschwall ein!
+<var> (wild) setzt Dampfschwall ein!
+<var> (Gegner) setzt Dampfschwall ein!
+<var> (Herrscher) setzt Dampfschwall ein!
+<var> setzt Dimensionsloch ein!
+<var> (wild) setzt Dimensionsloch ein!
+<var> (Gegner) setzt Dimensionsloch ein!
+<var> (Herrscher) setzt Dimensionsloch ein!
+<var> setzt Wasser-Shuriken ein!
+<var> (wild) setzt Wasser-Shuriken ein!
+<var> (Gegner) setzt Wasser-Shuriken ein!
+<var> (Herrscher) setzt Wasser-Shuriken ein!
+<var> setzt Magieflamme ein!
+<var> (wild) setzt Magieflamme ein!
+<var> (Gegner) setzt Magieflamme ein!
+<var> (Herrscher) setzt Magieflamme ein!
+<var> setzt Schutzstacheln ein!
+<var> (wild) setzt Schutzstacheln ein!
+<var> (Gegner) setzt Schutzstacheln ein!
+<var> (Herrscher) setzt Schutzstacheln ein!
+<var> setzt Duftwolke ein!
+<var> (wild) setzt Duftwolke ein!
+<var> (Gegner) setzt Duftwolke ein!
+<var> (Herrscher) setzt Duftwolke ein!
+<var> setzt Mystowellen ein!
+<var> (wild) setzt Mystowellen ein!
+<var> (Gegner) setzt Mystowellen ein!
+<var> (Herrscher) setzt Mystowellen ein!
+<var> setzt Giftfalle ein!
+<var> (wild) setzt Giftfalle ein!
+<var> (Gegner) setzt Giftfalle ein!
+<var> (Herrscher) setzt Giftfalle ein!
+<var> setzt Pulverschleuder ein!
+<var> (wild) setzt Pulverschleuder ein!
+<var> (Gegner) setzt Pulverschleuder ein!
+<var> (Herrscher) setzt Pulverschleuder ein!
+<var> setzt Geokontrolle ein!
+<var> (wild) setzt Geokontrolle ein!
+<var> (Gegner) setzt Geokontrolle ein!
+<var> (Herrscher) setzt Geokontrolle ein!
+<var> setzt Magnetregler ein!
+<var> (wild) setzt Magnetregler ein!
+<var> (Gegner) setzt Magnetregler ein!
+<var> (Herrscher) setzt Magnetregler ein!
+<var> setzt Goldene Zeiten ein!
+<var> (wild) setzt Goldene Zeiten ein!
+<var> (Gegner) setzt Goldene Zeiten ein!
+<var> (Herrscher) setzt Goldene Zeiten ein!
+<var> setzt Elektrofeld ein!
+<var> (wild) setzt Elektrofeld ein!
+<var> (Gegner) setzt Elektrofeld ein!
+<var> (Herrscher) setzt Elektrofeld ein!
+<var> setzt Zauberschein ein!
+<var> (wild) setzt Zauberschein ein!
+<var> (Gegner) setzt Zauberschein ein!
+<var> (Herrscher) setzt Zauberschein ein!
+<var> setzt Ehrentag ein!
+<var> (wild) setzt Ehrentag ein!
+<var> (Gegner) setzt Ehrentag ein!
+<var> (Herrscher) setzt Ehrentag ein!
+<var> setzt Händchenhalten ein!
+<var> (wild) setzt Händchenhalten ein!
+<var> (Gegner) setzt Händchenhalten ein!
+<var> (Herrscher) setzt Händchenhalten ein!
+<var> setzt Kulleraugen ein!
+<var> (wild) setzt Kulleraugen ein!
+<var> (Gegner) setzt Kulleraugen ein!
+<var> (Herrscher) setzt Kulleraugen ein!
+<var> setzt Wangenrubbler ein!
+<var> (wild) setzt Wangenrubbler ein!
+<var> (Gegner) setzt Wangenrubbler ein!
+<var> (Herrscher) setzt Wangenrubbler ein!
+<var> setzt Zurückhaltung ein!
+<var> (wild) setzt Zurückhaltung ein!
+<var> (Gegner) setzt Zurückhaltung ein!
+<var> (Herrscher) setzt Zurückhaltung ein!
+<var> setzt Plage ein!
+<var> (wild) setzt Plage ein!
+<var> (Gegner) setzt Plage ein!
+<var> (Herrscher) setzt Plage ein!
+<var> setzt Steigerungshieb ein!
+<var> (wild) setzt Steigerungshieb ein!
+<var> (Gegner) setzt Steigerungshieb ein!
+<var> (Herrscher) setzt Steigerungshieb ein!
+<var> setzt Unheilsschwingen ein!
+<var> (wild) setzt Unheilsschwingen ein!
+<var> (Gegner) setzt Unheilsschwingen ein!
+<var> (Herrscher) setzt Unheilsschwingen ein!
+<var> setzt Tausend Pfeile ein!
+<var> (wild) setzt Tausend Pfeile ein!
+<var> (Gegner) setzt Tausend Pfeile ein!
+<var> (Herrscher) setzt Tausend Pfeile ein!
+<var> setzt Tausend Wellen ein!
+<var> (wild) setzt Tausend Wellen ein!
+<var> (Gegner) setzt Tausend Wellen ein!
+<var> (Herrscher) setzt Tausend Wellen ein!
+<var> setzt Bodengewalt ein!
+<var> (wild) setzt Bodengewalt ein!
+<var> (Gegner) setzt Bodengewalt ein!
+<var> (Herrscher) setzt Bodengewalt ein!
+<var> setzt Lux Calamitatis ein!
+<var> (wild) setzt Lux Calamitatis ein!
+<var> (Gegner) setzt Lux Calamitatis ein!
+<var> (Herrscher) setzt Lux Calamitatis ein!
+<var> setzt Ursprungswoge ein!
+<var> (wild) setzt Ursprungswoge ein!
+<var> (Gegner) setzt Ursprungswoge ein!
+<var> (Herrscher) setzt Ursprungswoge ein!
+<var> setzt Abgrundsklinge ein!
+<var> (wild) setzt Abgrundsklinge ein!
+<var> (Gegner) setzt Abgrundsklinge ein!
+<var> (Herrscher) setzt Abgrundsklinge ein!
+<var> setzt Zenitstürmer ein!
+<var> (wild) setzt Zenitstürmer ein!
+<var> (Gegner) setzt Zenitstürmer ein!
+<var> (Herrscher) setzt Zenitstürmer ein!
+<var> setzt Dimensionswahn ein!
+<var> (wild) setzt Dimensionswahn ein!
+<var> (Gegner) setzt Dimensionswahn ein!
+<var> (Herrscher) setzt Dimensionswahn ein!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<var> setzt Sandsammler ein!
+<var> (wild) setzt Sandsammler ein!
+<var> (Gegner) setzt Sandsammler ein!
+<var> (Herrscher) setzt Sandsammler ein!
+<var> setzt Überrumpler ein!
+<var> (wild) setzt Überrumpler ein!
+<var> (Gegner) setzt Überrumpler ein!
+<var> (Herrscher) setzt Überrumpler ein!
+<var> setzt Bunker ein!
+<var> (wild) setzt Bunker ein!
+<var> (Gegner) setzt Bunker ein!
+<var> (Herrscher) setzt Bunker ein!
+<var> setzt Schattenfessel ein!
+<var> (wild) setzt Schattenfessel ein!
+<var> (Gegner) setzt Schattenfessel ein!
+<var> (Herrscher) setzt Schattenfessel ein!
+<var> setzt Dark Lariat ein!
+<var> (wild) setzt Dark Lariat ein!
+<var> (Gegner) setzt Dark Lariat ein!
+<var> (Herrscher) setzt Dark Lariat ein!
+<var> setzt Schaumserenade ein!
+<var> (wild) setzt Schaumserenade ein!
+<var> (Gegner) setzt Schaumserenade ein!
+<var> (Herrscher) setzt Schaumserenade ein!
+<var> setzt Eishammer ein!
+<var> (wild) setzt Eishammer ein!
+<var> (Gegner) setzt Eishammer ein!
+<var> (Herrscher) setzt Eishammer ein!
+<var> setzt Florakur ein!
+<var> (wild) setzt Florakur ein!
+<var> (Gegner) setzt Florakur ein!
+<var> (Herrscher) setzt Florakur ein!
+<var> setzt Pferdestärke ein!
+<var> (wild) setzt Pferdestärke ein!
+<var> (Gegner) setzt Pferdestärke ein!
+<var> (Herrscher) setzt Pferdestärke ein!
+<var> setzt Kraftabsorber ein!
+<var> (wild) setzt Kraftabsorber ein!
+<var> (Gegner) setzt Kraftabsorber ein!
+<var> (Herrscher) setzt Kraftabsorber ein!
+<var> setzt Solarklinge ein!
+<var> (wild) setzt Solarklinge ein!
+<var> (Gegner) setzt Solarklinge ein!
+<var> (Herrscher) setzt Solarklinge ein!
+<var> setzt Blattwerk ein!
+<var> (wild) setzt Blattwerk ein!
+<var> (Gegner) setzt Blattwerk ein!
+<var> (Herrscher) setzt Blattwerk ein!
+<var> setzt Rampenlicht ein!
+<var> (wild) setzt Rampenlicht ein!
+<var> (Gegner) setzt Rampenlicht ein!
+<var> (Herrscher) setzt Rampenlicht ein!
+<var> setzt Giftfaden ein!
+<var> (wild) setzt Giftfaden ein!
+<var> (Gegner) setzt Giftfaden ein!
+<var> (Herrscher) setzt Giftfaden ein!
+<var> setzt Konzentration ein!
+<var> (wild) setzt Konzentration ein!
+<var> (Gegner) setzt Konzentration ein!
+<var> (Herrscher) setzt Konzentration ein!
+<var> setzt Hilfsmechanik ein!
+<var> (wild) setzt Hilfsmechanik ein!
+<var> (Gegner) setzt Hilfsmechanik ein!
+<var> (Herrscher) setzt Hilfsmechanik ein!
+<var> setzt Neck Strike ein!
+<var> (wild) setzt Neck Strike ein!
+<var> (Gegner) setzt Neck Strike ein!
+<var> (Herrscher) setzt Neck Strike ein!
+<var> setzt Pollenknödel ein!
+<var> (wild) setzt Pollenknödel ein!
+<var> (Gegner) setzt Pollenknödel ein!
+<var> (Herrscher) setzt Pollenknödel ein!
+<var> setzt Ankerschuss ein!
+<var> (wild) setzt Ankerschuss ein!
+<var> (Gegner) setzt Ankerschuss ein!
+<var> (Herrscher) setzt Ankerschuss ein!
+<var> setzt Psychofeld ein!
+<var> (wild) setzt Psychofeld ein!
+<var> (Gegner) setzt Psychofeld ein!
+<var> (Herrscher) setzt Psychofeld ein!
+<var> setzt Anfallen ein!
+<var> (wild) setzt Anfallen ein!
+<var> (Gegner) setzt Anfallen ein!
+<var> (Herrscher) setzt Anfallen ein!
+<var> setzt Feuerpeitsche ein!
+<var> (wild) setzt Feuerpeitsche ein!
+<var> (Gegner) setzt Feuerpeitsche ein!
+<var> (Herrscher) setzt Feuerpeitsche ein!
+<var> setzt Überheblichkeit ein!
+<var> (wild) setzt Überheblichkeit ein!
+<var> (Gegner) setzt Überheblichkeit ein!
+<var> (Herrscher) setzt Überheblichkeit ein!
+<var> setzt Ausbrennen ein!
+<var> (wild) setzt Ausbrennen ein!
+<var> (Gegner) setzt Ausbrennen ein!
+<var> (Herrscher) setzt Ausbrennen ein!
+<var> setzt Initiativetausch ein!
+<var> (wild) setzt Initiativetausch ein!
+<var> (Gegner) setzt Initiativetausch ein!
+<var> (Herrscher) setzt Initiativetausch ein!
+<var> setzt Schmalhorn ein!
+<var> (wild) setzt Schmalhorn ein!
+<var> (Gegner) setzt Schmalhorn ein!
+<var> (Herrscher) setzt Schmalhorn ein!
+<var> setzt Läuterung ein!
+<var> (wild) setzt Läuterung ein!
+<var> (Gegner) setzt Läuterung ein!
+<var> (Herrscher) setzt Läuterung ein!
+<var> setzt Wecktanz ein!
+<var> (wild) setzt Wecktanz ein!
+<var> (Gegner) setzt Wecktanz ein!
+<var> (Herrscher) setzt Wecktanz ein!
+<var> setzt Sanktionskern ein!
+<var> (wild) setzt Sanktionskern ein!
+<var> (Gegner) setzt Sanktionskern ein!
+<var> (Herrscher) setzt Sanktionskern ein!
+<var> setzt Tropenkick ein!
+<var> (wild) setzt Tropenkick ein!
+<var> (Gegner) setzt Tropenkick ein!
+<var> (Herrscher) setzt Tropenkick ein!
+<var> setzt Kommando ein!
+<var> (wild) setzt Kommando ein!
+<var> (Gegner) setzt Kommando ein!
+<var> (Herrscher) setzt Kommando ein!
+<var> setzt Schnabelkanone ein!
+<var> (wild) setzt Schnabelkanone ein!
+<var> (Gegner) setzt Schnabelkanone ein!
+<var> (Herrscher) setzt Schnabelkanone ein!
+<var> setzt Schuppenrasseln ein!
+<var> (wild) setzt Schuppenrasseln ein!
+<var> (Gegner) setzt Schuppenrasseln ein!
+<var> (Herrscher) setzt Schuppenrasseln ein!
+<var> setzt Drachenhammer ein!
+<var> (wild) setzt Drachenhammer ein!
+<var> (Gegner) setzt Drachenhammer ein!
+<var> (Herrscher) setzt Drachenhammer ein!
+<var> setzt Wirbler ein!
+<var> (wild) setzt Wirbler ein!
+<var> (Gegner) setzt Wirbler ein!
+<var> (Herrscher) setzt Wirbler ein!
+<var> setzt Auroraschleier ein!
+<var> (wild) setzt Auroraschleier ein!
+<var> (Gegner) setzt Auroraschleier ein!
+<var> (Herrscher) setzt Auroraschleier ein!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<var> setzt Panzerfalle ein!
+<var> (wild) setzt Panzerfalle ein!
+<var> (Gegner) setzt Panzerfalle ein!
+<var> (Herrscher) setzt Panzerfalle ein!
+<var> setzt Kanonenbouquet ein!
+<var> (wild) setzt Kanonenbouquet ein!
+<var> (Gegner) setzt Kanonenbouquet ein!
+<var> (Herrscher) setzt Kanonenbouquet ein!
+<var> setzt Psychobeißer ein!
+<var> (wild) setzt Psychobeißer ein!
+<var> (Gegner) setzt Psychobeißer ein!
+<var> (Herrscher) setzt Psychobeißer ein!
+<var> setzt Fruststampfer ein!
+<var> (wild) setzt Fruststampfer ein!
+<var> (Gegner) setzt Fruststampfer ein!
+<var> (Herrscher) setzt Fruststampfer ein!
+<var> setzt Schattenknochen ein!
+<var> (wild) setzt Schattenknochen ein!
+<var> (Gegner) setzt Schattenknochen ein!
+<var> (Herrscher) setzt Schattenknochen ein!
+<var> setzt Turbofelsen ein!
+<var> (wild) setzt Turbofelsen ein!
+<var> (Gegner) setzt Turbofelsen ein!
+<var> (Herrscher) setzt Turbofelsen ein!
+<var> setzt Aquadurchstoß ein!
+<var> (wild) setzt Aquadurchstoß ein!
+<var> (Gegner) setzt Aquadurchstoß ein!
+<var> (Herrscher) setzt Aquadurchstoß ein!
+<var> setzt Prisma-Laser ein!
+<var> (wild) setzt Prisma-Laser ein!
+<var> (Gegner) setzt Prisma-Laser ein!
+<var> (Herrscher) setzt Prisma-Laser ein!
+<var> setzt Diebesschatten ein!
+<var> (wild) setzt Diebesschatten ein!
+<var> (Gegner) setzt Diebesschatten ein!
+<var> (Herrscher) setzt Diebesschatten ein!
+<var> setzt Stahlgestirn ein!
+<var> (wild) setzt Stahlgestirn ein!
+<var> (Gegner) setzt Stahlgestirn ein!
+<var> (Herrscher) setzt Stahlgestirn ein!
+<var> setzt Schattenstrahl ein!
+<var> (wild) setzt Schattenstrahl ein!
+<var> (Gegner) setzt Schattenstrahl ein!
+<var> (Herrscher) setzt Schattenstrahl ein!
+<var> setzt Tränendrüse ein!
+<var> (wild) setzt Tränendrüse ein!
+<var> (Gegner) setzt Tränendrüse ein!
+<var> (Herrscher) setzt Tränendrüse ein!
+<var> setzt Elektropikser ein!
+<var> (wild) setzt Elektropikser ein!
+<var> (Gegner) setzt Elektropikser ein!
+<var> (Herrscher) setzt Elektropikser ein!
+<var> setzt Naturzorn ein!
+<var> (wild) setzt Naturzorn ein!
+<var> (Gegner) setzt Naturzorn ein!
+<var> (Herrscher) setzt Naturzorn ein!
+<var> setzt Multi-Angriff ein!
+<var> (wild) setzt Multi-Angriff ein!
+<var> (Gegner) setzt Multi-Angriff ein!
+<var> (Herrscher) setzt Multi-Angriff ein!
+
+
+
+

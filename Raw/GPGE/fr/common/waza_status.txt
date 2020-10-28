@@ -1,0 +1,16 @@
+msg_waza_status_01_01={0x0107,0x0000}
+msg_waza_status_01_02={0x0201,0x0000}
+msg_waza_status_01_03=/
+msg_waza_status_02_01=Catégorie
+msg_waza_status_02_02=Puissance
+msg_waza_status_02_03=Précision
+msg_waza_status_03_01={0x0202,0x0000}
+msg_waza_status_03_02=-
+msg_waza_status_05_01=Oublier cette capacité
+msg_waza_status_05_02=Choisir une autre capacité
+msg_waza_status_05_03=Ne pas apprendre cette capacité
+msg_waza_status_05_04=Se souvenir de cette capacité
+msg_waza_status_06_01=Utiliser
+msg_waza_status_06_02=Retour
+msg_waza_status_07_01={0x0206,0x0000,0x202F} [0xE300]
+msg_waza_status_07_02=Acheter

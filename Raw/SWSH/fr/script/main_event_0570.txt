@@ -1,0 +1,15 @@
+main_event_0570_counterw_01=Bonjour, Challenger ![0x000A]Je suis là pour t’aider à t’inscrire !
+main_event_0570_counterw_02=D’abord, laisse-moi te rappeler les grandes[0x000A]lignes du Défi des Arènes !{0xBE01}[0x000A]Dans chaque Arène, ou stade, si tu préfères,[0x000A]tu devras accomplir une Mission d’Arène{0xBE00}[0x000A]afin de pouvoir affronter le Champion !{0xBE01}[0x000A]Il te faudra vaincre les huit Champions[0x000A]pour récupérer leurs Badges respectifs.
+main_event_0570_select_01=D’accord !
+main_event_0570_select_02=Une Mission d’Arène ? C’est quoi ?
+main_event_0570_counterw_03=Tu veux que je t’inscrive pour la Mission d’Arène,[0x000A]alors ?
+main_event_0570_select_03=Oui ! Je veux participer !
+main_event_0570_select_04=Pas tout de suite...
+main_event_0570_counterw_04=Les {0xFF00,0x0006}Missions d’Arène{0xFF00,0x0000} sont des épreuves[0x000A]à surmonter avant de pouvoir défier le Champion.{0xBE00}[0x000A]C’est un peu comme un échauffement !{0xBE01}[0x000A]Les Missions varient d’une Arène à l’autre.
+main_event_0570_counterw_05=Pour participer, il faut que tu enfiles[0x000A]ton uniforme !
+main_event_0570_counterw_06=C’est le début du Défi des Arènes, pour toi ![0x000A]Bonne chance !
+main_event_0570_counterw_07=Tu es là pour la Mission d’Arène ?[0x000A]C’est bien, faut pas abandonner dans la vie !
+main_event_0570_counterw_08=Mission accomplie !{0xBE01}[0x000A]Mais maintenant, fini de rire ![0x000A]Affronter un Champion, ça demande du doigté{0xBE00}[0x000A]et une équipe équilibrée ! Bon courage !
+main_event_0570_counterw_09=N’hésite pas à revenir me voir quand[0x000A]tu seras prêt{0x1100,0x00FF,0x0100}e pour la Mission !
+main_event_0570_counterw_10={0xBDFF:0x000D}
+main_event_0570_counterw_11={0xBDFF:0x000E}

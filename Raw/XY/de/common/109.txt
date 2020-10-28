@@ -1,0 +1,73 @@
+Willkommen beim Geheimgeschehen!
+Geschenk empfangen
+Kartenalbum ansehen
+Informationen
+Zurück
+Per Lokalem Modus empfangen
+Per Internet empfangen
+Per Infrarot empfangen
+Per Seriencode empfangen
+Zurück
+Geheimgeschehen
+Kartenalbum
+Volles Kartenalbum
+Verbindung wird hergestellt.[0x000A]Fortfahren?
+Wähle bitte aus, auf welche Weise du[0x000A]das Geschenk erhalten möchtest.
+Soll der Lokale Modus gestartet werden?
+Die Infrarotverbindung wird nun gestartet.{0xBE01}[0x000A]Richte deinen Nintendo 3DS auf den eines[0x000A]anderen Spielers aus und drücke den A-Knopf.
+Suche nach Geschenk.[0x000A]Einen Moment bitte...
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+Dieses Geschenk annehmen?
+Geschenk wird empfangen...[0x000A]Bitte das System nicht ausschalten.
+Das Geschenk wurde empfangen!{0xBE01}[0x000A]Bitte hole es von der Lieferantin[0x000A]in einem Pokémon-Center ab!
+Es ist kein Platz für weitere Geschenke.
+Du hast zu viele Wunderkarten!{0xBE01}[0x000A]In deinem Kartenalbum ist kein Platz[0x000A]für weitere Wunderkarten.{0xBE01}[0x000A]Willst du das Kartenalbum verwalten?
+Wähle eine nicht mehr benötigte Karte aus,[0x000A]die du wegwerfen möchtest.
+Solange du keine deiner Karten wegwirfst,[0x000A]kannst du keine neuen Geschenke empfangen.{0xBE00}[0x000A]Dennoch abbrechen?
+{0xBDFF:0x001B}
+Es wurden keine Geschenke gefunden.
+Fehler beim Empfang des Geschenks.
+Es wurde ein Geschenk gefunden. Mit dieser[0x000A]Edition kann es aber nicht empfangen werden.
+Dieses Geschenk hast du bereits empfangen.[0x000A]Ein zweites Mal kannst du es nicht erhalten.
+Keine Geschenke vorhanden.
+Die drahtlose Verbindung ist deaktiviert.{0xBE01}[0x000A]Bitte betätige den WLAN-Schalter, um die[0x000A]drahtlose Verbindung zu aktivieren.
+Wunderkarte
+Empfangsdatum
+A: Beenden
+A: Verwalten
+Kartenalbum
+{0x0201,0x0002}.{0x0201,0x0001}.20{0x0201,0x0000}
+{0x0200,0x0003}/{0x0200,0x0004}
+Was soll mit der Wunderkarte geschehen?
+Da du das Geschenk noch nicht empfangen[0x000A]hast, kannst du die Karte nicht wegwerfen.
+Willst du diese Karte wirklich wegwerfen?
+Bitte wähle die auszutauschende Karte.
+Speichere Albendaten...[0x000A]Bitte das System nicht ausschalten.
+Austauschen
+Karte wegwerfen
+Worüber möchtest du mehr erfahren?
+Das Geheimgeschehen ermöglicht dir, über[0x000A]verschiedene Datenübertragungskanäle{0xBE00}[0x000A]fantastische Geschenke zu erhalten.{0xBE01}[0x000A]Sobald du ein Geschenk angenommen hast,[0x000A]musst du es dir nur noch im Pokémon-Center{0xBE00}[0x000A]von der Lieferantin abholen.
+Für jedes Geschenk, das du über das[0x000A]Geheimgeschehen herunterlädst, erhältst du{0xBE00}[0x000A]eine Wunderkarte für dein Kartenalbum.{0xBE01}[0x000A]Karten, deren zugehöriges Geschenk du schon[0x000A]abgeholt hast, werden abgestempelt.{0xBE01}[0x000A]Geschenke für unabgestempelte Karten[0x000A]solltest du sofort bei der Lieferantin abholen!{0xBE01}[0x000A]Die Zahl der Wunderkarten, die in dein[0x000A]Album passt, ist allerdings auf 24 begrenzt.{0xBE01}[0x000A]Ist das Fassungsvermögen des Albums[0x000A]erschöpft, kannst du keine weiteren Karten{0xBE00}[0x000A]annehmen und musst für mehr Platz sorgen.
+Schlägt der Empfang eines Geschenks fehl,[0x000A]wirf einen Blick in dein Kartenalbum.{0xBE01}[0x000A]Ist das Fassungsvermögen von[0x000A]24 Wunderkarten erschöpft, musst du eine{0xBE00}[0x000A]der Wunderkarten wählen, indem du den{0xBE00}[0x000A]A-Knopf drückst, und sie entsorgen.{0xBE01}[0x000A]Wenn du nicht alle zu den Wunderkarten im[0x000A]Album gehörigen Geschenke abgeholt hast,{0xBE00}[0x000A]musst du zurück ins Spiel und dies bei der{0xBE00}[0x000A]Lieferantin im Pokémon-Center nachholen.
+Internetverbindung wird hergestellt.[0x000A]Einverstanden?
+Verbindung wird hergestellt...[0x000A]Bitte warten.
+Eingabe zurzeit nicht möglich, da der Serien-[0x000A]code wiederholt falsch eingegeben wurde.{0xBE01}[0x000A]Warte eine Weile und versuche es[0x000A]anschließend erneut.{0xBE01}
+Bitte gib den Seriencode ein.{0xBE01}
+Der Seriencode wird überprüft...[0x000A]Bitte das System nicht ausschalten.
+{0xBDFF:0x0039}
+Speichervorgang...[0x000A]Bitte das System nicht ausschalten.
+Der Seriencode ist falsch.[0x000A]Überprüfe bitte deinen Seriencode.{0xBE01}
+Seriencode erneut eingeben?
+Warnung:{0xBE01}[0x000A]Wenn du per Seriencode ein Geschenk[0x000A]empfängst und vor Abschluss des Vorgangs{0xBE00}[0x000A]dein Nintendo 3DS-System ausschaltest,{0xBE00}[0x000A]verliert der Seriencode seine Gültigkeit.{0xBE01}[0x000A]Dies führt dazu, dass du das Geschenk[0x000A]nicht mehr empfangen kannst.{0xBE01}[0x000A]Überprüfe daher im Vorfeld immer[0x000A]den Batteriestatus deines Systems.{0xBE01}[0x000A]Willst du nun per Seriencode[0x000A]ein Geschenk empfangen?
+Der Seriencode ist falsch.[0x000A]Überprüfe bitte deinen Seriencode.{0xBE01}
+Das zum Seriencode gehörige Geschenk kann[0x000A]mit dieser Software nicht empfangen werden.{0xBE01}
+{0xBDFF:0x0040}
+Das zum Seriencode gehörige Geschenk kann[0x000A]mit dieser Software nicht empfangen werden.{0xBE01}
+Du hast dieses Geschenk bereits empfangen.{0xBE01}
+Du hast dieses Geschenk bereits empfangen.{0xBE01}
+{0xBDFF:0x0044}
+Du kannst dieses Geschenk nicht empfangen.{0xBE01}
+Das zu diesem Seriencode gehörige Geschenk[0x000A]kann noch nicht empfangen werden.{0xBE01}
+Das Abholrecht für das Geschenk[0x000A]mit diesem Seriencode ist bereits verfallen.{0xBE01}
+Die Aktualisierung des Seriencodes[0x000A]ist fehlgeschlagen.{0xBE01}[0x000A]Das auf diesem Seriencode registrierte[0x000A]Geschenk kann nicht empfangen werden.{0xBE01}

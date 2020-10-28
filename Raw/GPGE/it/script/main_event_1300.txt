@@ -1,0 +1,11 @@
+msg_main1300_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} {0x0100,0x0000}!
+msg_main1300_rival_02=Ti ho raggiunt{0x1100,0x00FF,0x0101}oa, finalmente...!{0xBE01}[0x000A]Anch’io ho ottenuto la Medaglia Terra![0x000A]Adesso possiamo andare alla Lega Pokémon!
+msg_main1300_rival_03=Ho sentito che i Superquattro sono fortissimi...[0x000A]Ma ora non possiamo proprio tirarci indietro!
+msg_main1300_rival_06={0x0100,0x0000}, tu ti senti pront{0x1100,0x00FF,0x0101}oa?{0xBE01}[0x000A]Avanti, mostrami la tua determinazione lottando[0x000A]insieme alla squadra che hai allenato!
+msg_main1300_rival_04={0x0100,0x0000}, fin da bambino ho sempre[0x000A]pensato di dover essere io a trainare te...{0xBE01}[0x000A]Ma ora mi rendo conto che le tue abilità[0x000A]da Allenat{0x1100,0x00FF,0x0302}orrice sono decisamente superiori{0xBE00}[0x000A]alle mie...
+msg_main1300_rival_05=È la prima volta che provo questo senso[0x000A]di sconfitta...{0xBE01}[0x000A]Ma non sono ancora disposto[0x000A]ad arrendermi definitivamente!
+msg_main1300_rival_07=Chi l’avrebbe detto che le lotte di Pokémon[0x000A]fossero così appassionanti?
+msg_main1300_rival_08=Ad ogni modo...{0xBE01}[0x000A]Potrà sembrarti una richiesta un po’ stupida...[0x000A]Ma lascia che vada per primo!
+msg_rival_01_p05_field_r022={0xBDFF:0x0008}
+msg_rival_01_p06_field_r022={0xBDFF:0x0009}
+msg_rival_01_p07_field_r022={0xBDFF:0x000A}

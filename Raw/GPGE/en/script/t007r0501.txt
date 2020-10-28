@@ -1,0 +1,8 @@
+msg_t007r0501_stafff_01=Hello![0x000A]Welcome to the Celadon Department Store.{0xBE01}[0x000A]Please check the board in the back for[0x000A]the store directory.
+msg_t007r0501_kanban_01=“1F: Service Counter{0xBE01}[0x000A]“2F: Trainers’ Market{0xBE01}[0x000A]“3F: Video Game Shop{0xBE01}[0x000A]“4F: Wiseman Gifts{0xBE01}[0x000A]“5F: Accessory Market{0xBE01}[0x000A]“Roof: Relaxation Space & Vending Machines”
+msg_t007r0501_kanban_02={0xBDFF:0x0002}
+msg_t007r0501_poster_01=Exclusive interview with the Celadon City[0x000A]Gym Leader!{0xBE01}[0x000A]“Good things come to those who nap.[0x000A]...Challengers come, too!”
+msg_t007r0501_adultm_01=Whew! Thank goodness this department store[0x000A]has benches!{0xBE01}[0x000A]...You’ll know exactly what I mean when you[0x000A]get older.
+msg_t007r0501_oldf_01=It’s not like I need anything here.[0x000A]I just come to meet up with friends.
+msg_t007r0501_youngf_01=Will you buy me some Pokémon accessories?
+msg_t007r0501_youngm_01=But it’s such a hassle to go all the way to the[0x000A]fifth floor...{0xBE01}[0x000A]Are you sure you don’t want to go[0x000A]home already?

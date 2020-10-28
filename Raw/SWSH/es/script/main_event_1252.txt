@@ -1,0 +1,12 @@
+main_event_1252_leader_01=Yo soy Mel. Como ya te habrás imaginado, mi[0x000A]equipo se compone de Pokémon de tipo Hielo.{0x0114,0x0015}
+main_event_1252_leader_02=He de darte la enhorabuena. Llegar hasta aquí[0x000A]sin caerte ni una sola vez tiene mucho mérito.{0xBE01}[0x000A]A poco que te descuides, el suelo puede ceder[0x000A]bajo tus pies...{0x0114,0x0015}
+main_event_1252_leader_03=¿No te duele todo el cuerpo de tanto caerte?[0x000A]Ni se te ocurra pensar que te lo voy a poner{0xBE00}[0x000A]fácil solo porque estás un poco magullad{0x1100,0x00FF,0x0101}oa...{0x0114,0x0015}
+main_event_1252_leader_04=Bueno, ¿empezamos? Congelaré a tu{0x1101,0x00FD,0x0100}s Pokémon[0x000A]para que quede{0x1101,0x00FD,0x0100}n a mi merced, y después...{0xBE01}[0x000A]¡Ya verás! ¡Enfrentarse a mí no es moco de pavo!{0x0114,0x0015}
+main_event_1252_leader_05=¡No lo haces nada mal!{0xBE01}[0x000A]Siento una enorme rabia por haber perdido, pero[0x000A]también una gran alegría por haber encontrado a{0xBE00}[0x000A]alguien tan joven con tanto talento.{0x0114,0x0015}
+main_event_1252_leader_06=¡La brillante y reluciente Medalla Hielo es toda[0x000A]tuya!{0x0114,0x0015}
+main_event_1252_badge_01=¡Ahora podrás atrapar Pokémon de hasta Nv. 50!
+main_event_1252_leader_07=No dejo de imaginarme a mi hijo enfrentándose[0x000A]a ti si te conviertes en Campe{0x1100,0x00FF,0x0302}ónona.{0xBE01}[0x000A]Si eso ocurriese, dale una buena paliza de mi[0x000A]parte, ¿eh?{0x0114,0x0015}
+main_event_1252_npc_01=¡Mi más sincera enhorabuena por tu victoria[0x000A]frente a Mel!{0xBE01}[0x000A]¡Para conmemorarla, toma esta MT!
+main_event_1252_npc_03=¡Y llévate también el uniforme de Mel! Es uno[0x000A]de los más populares.
+main_event_1252_npc_02=¡Qué bien te queda la Medalla Hielo![0x000A]¡Sigue así, {0x0100,0x0000}!
+main_event_1252_system_01=¿Quieres volver a recepción?

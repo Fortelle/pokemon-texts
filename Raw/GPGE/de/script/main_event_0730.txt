@@ -1,0 +1,10 @@
+msg_main0730_rocketchief_01={0xFF00,0x0009}???:{0xFF00,0x0000} Dieses Silph Scope hat all meine Zweifel[0x000A]ausgeräumt.
+msg_main0730_rocketchief_02=Ich kann jetzt voller Überzeugung sagen,[0x000A]dass die Silph Company über das technische{0xBE00}[0x000A]Know-how verfügt, um unsere Pläne Realität{0xBE00}[0x000A]werden zu lassen.
+msg_main0730_rocketboss_01={0xFF00,0x0009}???:{0xFF00,0x0000} Hmpf... Dieses Gerät macht also[0x000A]unsichtbare Dinge sichtbar?{0xBE01}[0x000A]Wie lachhaft. Ein Kinderspielzeug.{0xBE01}[0x000A]Aber nichtsdestotrotz...
+msg_main0730_rocketboss_02=Ich bin bereit, mich auf deine Idee einzulassen.{0xBE01}[0x000A]Du kannst mit den Vorbereitungen für die[0x000A]Übernahme der Silph Company beginnen, Atlas.
+msg_main0730_rocketchief_03={0xFF00,0x0009}Atlas:{0xFF00,0x0000} Jawohl!
+msg_main0730_rocketchief_04=Oh, was haben wir denn hier? Ein Kind?
+msg_main0730_rocketchief_05=Ich habe keine Ahnung, wie du hier[0x000A]hereingekommen bist...{0xBE01}[0x000A]Dass du uns obendrein noch dreist belauscht[0x000A]hast, lasse ich dir nicht so einfach durchgehen.
+msg_main0730_rocketchief_06=Ich bin Atlas, ein Mitglied im Vorstand von[0x000A]Team Rocket.{0xBE01}[0x000A]Und im Kampf nehme ich keine Rücksicht,[0x000A]auch nicht auf Kinder!
+msg_main0730_dummy_01={0xBDFF:0x0008}
+msg_main0730_rocketchief_07={0xFF00,0x0009}Atlas:{0xFF00,0x0000} Vergib mir, großer Giovanni![0x000A]Ich habe gegen ein Kind verloren...

@@ -1,0 +1,10 @@
+main_event_0521_staff_01=El presidente me ha pedido que te entregue este[0x000A]regalo, {0x0100,0x0000}.
+main_event_0521_staff_02=Un regalo maravilloso de un presidente igual de[0x000A]maravilloso...
+main_event_0521_staff_03=Ejem, perdona.{0xBE01}[0x000A]El regalo consiste en el permiso para poder usar[0x000A]los taxis voladores de Aerotaxis Galar.
+main_event_0521_staff_04=Con ellos podrás plantarte al {0xFF00,0x0001}vuelo{0xFF00,0x0000} en uno de[0x000A]los lugares que hayas visitado hasta el momento.{0xBE00}[0x000A]¡Es muy práctico!
+main_event_0521_staff_05=¿Cómo funciona? Pues es muy sencillo, basta con[0x000A]seguir estas breves instrucciones...{0xBE01}[0x000A]Ve a la opción "Mapa" del menú principal y elige[0x000A]el sitio al que quieras desplazarte.
+main_event_0521_staff_06=Si no me equivoco, tu siguiente destino debería[0x000A]de ser Pueblo Hoyuelo, ¿verdad?{0xBE01}[0x000A]Me temo que, para visitar nuevos lugares, te[0x000A]toca seguir yendo a pie. ¡Disfruta del paisaje!
+main_event_0521_npc1_01={0xBDFF:0x0006}
+main_event_0521_npc2_01={0xBDFF:0x0007}
+main_event_0521_npc3_01={0xBDFF:0x0008}
+main_event_0521_npc4_01={0xBDFF:0x0009}

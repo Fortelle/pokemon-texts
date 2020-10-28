@@ -1,0 +1,6 @@
+msg_s001r0101_woman_01={0xFF00,0x0009}Julia :{0xFF00,0x0000} Où est Nico, mon petit ami ? On était[0x000A]censés aller attraper des Pokémon ensemble !
+msg_s001r0101_miniskirt_01=Je te donne trois Pokémon que j’ai attrapés !{0xBE01}[0x000A]Un Kangourex, un Ponyta et un Minidraco,[0x000A]ça te va ?
+msg_s001r0101_childm_01=Ouaiiis !{0xBE01}[0x000A]Ma grande sœur, elle est trop cool ! Elle a[0x000A]transféré des Pokémon sur ma Nintendo Switch !
+msg_s001r0101_jeveniles_01=Mon papa m’a dit d’attendre ici ![0x000A]Il est parti attraper des Pokémon pour moi.{0xBE00}[0x000A]Vivement qu’il revienne !
+msg_s001r0101_bg_01=Les Pokémon transférés depuis Pokémon GO ont[0x000A]l’air de bien s’amuser dans le complexe GO Park !
+msg_s001r0101_bg_02=Vous marchez avec plein de Pokémon que vous[0x000A]avez transférés de Pokémon GO !

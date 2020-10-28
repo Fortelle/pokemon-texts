@@ -1,0 +1,16 @@
+main_event_1820_assistant_01=Huh? {0x1003}{0x0100,0x0000} and Hop?{0xBE01}[0x000A]Ah! I completely forgot about the[0x000A]Championship Match!{0xBE00}[0x000A]What’re you two doing here?{0x0114,0x000B}
+main_event_1820_mama_01=Haven’t you been watching the news at all?[0x000A]The tournament is off, Sonia!{0xBE01}[0x000A]The chairman saw to that—and to sending the[0x000A]entire region into a state of havoc!{0x0114,0x0008}
+main_event_1820_assistant_02=Huh?{0xBE01}[0x000A]What?!{0xBE01}[0x000A]What happened while I was researching things in[0x000A]the Slumbering Weald?{0x0114,0x000B}
+main_event_1820_mama_02=Well, for starters, there’s a great black storm or[0x000A]something raging over Hammerlocke Stadium.{0xBE01}[0x000A]What’re they calling it? “The Darkest Day”?[0x000A]It’s thrown everything into disarray!{0x0114,0x0008}
+main_event_1820_mama_03=Still, I’m sure we don’t need to worry too much...{0xBE01}[0x000A]The unbeatable Champion will be able to take[0x000A]care of everything, won’t he?{0x0114,0x0008}
+main_event_1820_assistant_03=Hold on a tick, ma’am. Did you say “the[0x000A]Darkest Day”?{0x0114,0x000B}
+main_event_1820_assistant_09=“The Darkest Day” is the name for the[0x000A]black storm that nearly brought the{0xBE00}[0x000A]Galar region to ruin in ancient times...{0x0114,0x000B}
+main_event_1820_assistant_08=So, what’re you here for, {0x0100,0x0000}?{0x0114,0x000B}
+main_event_1820_select_01=I’m here to stop the Darkest Day!
+main_event_1820_select_02=To search for the sword Pokémon
+main_event_1820_select_03=To search for the shield Pokémon
+main_event_1820_assistant_04=To stop the Darkest Day...{0xBE01}[0x000A]You mean you’re going to search for the sword[0x000A]and shield Pokémon?{0x0114,0x000B}
+main_event_1820_assistant_05=I suppose if the legends are true, then the sword[0x000A]and shield Pokémon should be able to prevent{0xBE00}[0x000A]the Darkest Day from coming to pass...{0xBE01}[0x000A]They may be just what we need to beat back[0x000A]the black storm!{0x0114,0x000B}
+main_event_1820_assistant_06=OK! Here, take this.[0x000A]You should head to the Slumbering Weald.{0xBE01}[0x000A]I’ll catch up with you once I’m done looking[0x000A]into something that’s been bothering me.{0x0114,0x000B}
+main_event_1820_assistant_07=I’ve got to keep looking into the origin of the[0x000A]sword and shield Pokémon!{0x0114,0x000B}
+main_event_1820_mama_04=All that matters is that you do what you can.[0x000A]You’ve become a fine Pokémon Trainer,{0xBE00}[0x000A]after all!{0x0114,0x0008}

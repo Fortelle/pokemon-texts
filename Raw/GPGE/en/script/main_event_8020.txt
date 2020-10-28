@@ -1,0 +1,16 @@
+msg_main8020_volt_01=Ten-hut![0x000A]Welcome to the Vermilion City Gym!
+msg_main8020_volt_07=Will you look at that—a pint-sized challenger!
+msg_main8020_volt_08=Hahaha! You’ve got big and brassy nerves to[0x000A]take me on with your puny power!
+msg_main8020_volt_09=A Pokémon battle is war![0x000A]I’ll show you, civilian!
+msg_main8020_volt_10=I’ll shock you into surrender!
+msg_gymleader_03_07={0xBDFF:0x0005}
+msg_main8020_volt_02=Fine! Then take a Thunder Badge!
+msg_main8020_sys_01=You got a {0xFF00,0x0006}Thunder Badge{0xFF00,0x0000} from Lt. Surge!
+msg_main8020_volt_03=And that’s not all!{0xBE01}[0x000A]You’re special, kid![0x000A]Take this!
+msg_main8020_sys_02=You got Lt. Surge’s {0xFF00,0x0006}Autograph{0xFF00,0x0000}.
+msg_main8020_volt_04=... ... ...
+msg_main8020_volt_11=Dahaha! Don’t worry![0x000A]That’s not all I’m giving you!
+msg_main8020_sys_03=You got {0x0109,0x0001} {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000} from Lt. Surge!
+msg_main8020_volt_05=TM36 contains the electrifying Thunderbolt!{0xBE01}[0x000A]Teach it to an Electric-type Pokémon for some[0x000A]extra shock value!
+msg_main8020_volt_06=And a little word of advice, kid!{0xBE01}[0x000A]Electric-type moves are sure powerful!{0xBE01}[0x000A]But remember that they’ll get sucked right up[0x000A]by Ground-type Pokémon!{0xBE00}[0x000A]Those moves are useless against them!
+msg_gymleader_03_06={0xBDFF:0x000F}

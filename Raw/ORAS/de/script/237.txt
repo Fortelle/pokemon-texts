@@ -1,0 +1,21 @@
+Guten Morgen!{0xBE01}[0x000A]Ich habe eine Lieferung vom Pokémon Global Link[0x000A]für dich.
+Hallo!{0xBE01}[0x000A]Ich habe eine Lieferung vom Pokémon Global Link[0x000A]für dich.
+Guten Abend!{0xBE01}[0x000A]Ich habe eine Lieferung vom Pokémon Global Link[0x000A]für dich.
+Ich habe leider keine weitere Lieferung für dich.[0x000A]Aber bitte nutze den Pokémon Global Link auch weiterhin!
+Nanu? Du hast keinen Platz dafür!{0xBE01}[0x000A]Am besten sortierst du erst mal ein paar Items,[0x000A]dann kannst du ja wiederkommen!
+Ich werde hier warten, bis du deine Lieferung[0x000A]abholen kommst.
+Ich würde dir gerne den Rest deiner Lieferung[0x000A]überreichen, aber du hast keinen Platz dafür.{0xBE01}[0x000A]Am besten sortierst du erst mal deine Items,[0x000A]dann kannst du ja wiederkommen.
+{0x0100,0x0000} hat {0x0202,0x0001} Lieferung{0x1101,0x0001,0x0200}en[0x000A]in Empfang genommen!
+{0xBDFF:0x0008}
+Deine Lieferung beinhaltet:
+{0x0109,0x0000} × {0x0202,0x0001}[0x000A]{0x0109,0x0002} × {0x0202,0x0003}
+{0x0109,0x0000} × {0x0202,0x0001}
+Insgesamt ist es eine Lieferung von {0x0202,0x0001} Item{0x1101,0x0001,0x0100}s.
+Ich verwahre im Moment {0x0202,0x0000} Lieferung{0x1101,0x0000,0x0200}en für dich.[0x000A]Möchtest du sie dir ansehen?
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+Annehmen
+Prüfen
+Abbrechen
+Ja
+Nein

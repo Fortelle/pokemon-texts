@@ -1,0 +1,12 @@
+msg_main8040_esper_01=Te voilà enfin.[0x000A]J’avais prédit ton arrivée.
+msg_main8040_esper_06=J’ai des pouvoirs psychiques depuis l’enfance,[0x000A]vois-tu.
+msg_main8040_esper_07=J’ai appris à plier des cuillers par la force de[0x000A]l’esprit. C’est pas super utile, mais ça en jette.
+msg_main8040_esper_08=Je n’aime pas les combats, mais si tu insistes,[0x000A]je vais te montrer mes pouvoirs.
+msg_gymleader_06_02={0xBDFF:0x0004}
+msg_main8040_esper_02=Voici le Badge Marais. Tu l’as bien mérité.
+msg_main8040_sys_01=Vous obtenez le {0xFF00,0x0006}Badge Marais{0xFF00,0x0000} !
+msg_main8040_esper_03=Avec le Badge Marais, même les Pokémon[0x000A]échangés t’obéiront s’ils sont de niveau {0x0201,0x0004}{0xBE00}[0x000A]ou moins.{0xBE01}[0x000A]Et tiens, prends ça, aussi.
+msg_main8040_sys_02=Vous obtenez la {0x0109,0x0001} {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000} !
+msg_main8040_esper_04=Cette CT contient Plénitude.{0xBE01}[0x000A]Le Pokémon qui utilise cette capacité se[0x000A]concentre pour augmenter son Attaque Spéciale{0xBE00}[0x000A]et sa Défense Spéciale en combat.
+msg_main8040_esper_05=Tout le monde est un peu médium.[0x000A]Il faut juste cultiver ses dons.
+msg_gymleader_06_07={0xBDFF:0x000B}

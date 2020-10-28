@@ -1,0 +1,7 @@
+msg_t001r0201_sister_01=¡Hola, {0x0100,0x0000}!{0xBE01}[0x000A]¿No te has cruzado con {0x0100,0x0001}?[0x000A]Porque mi hermanito acaba de salir a buscarte.{0xBE01}[0x000A]Dice que tiene que ir contigo al Laboratorio del[0x000A]Profesor Oak.
+msg_t001r0101_sister_02=¡Hola, {0x0100,0x0000}!{0xBE01}[0x000A]¿No te has cruzado con {0x0100,0x0001}?[0x000A]Porque mi hermanito acaba de salir a buscarte.{0xBE01}[0x000A]Dice que tiene que ir contigo al Laboratorio del[0x000A]Profesor Oak.
+msg_t001r0101_sister_03={0x0100,0x0001} me ha dicho que os han dado[0x000A]un Pokémon a cada uno. ¡Qué guay!
+msg_t001r0101_sister_04={0x0100,0x0001} me ha dicho que os han dado[0x000A]un Pokémon a cada uno. ¡Qué guay!
+msg_t001r0201_map_02={0xBDFF:0x0004}
+msg_t001r0201_map_01=Es un ejemplar de "El Poké de las cosas".{0xBE01}[0x000A]"Cuida bien de tus Pokémon, deshazte en[0x000A]atenciones con ellos y verás como te acaban{0xBE00}[0x000A]cogiendo cariño".
+msg_t001r0201_photo_01=Es una foto de {0x0100,0x0001}.

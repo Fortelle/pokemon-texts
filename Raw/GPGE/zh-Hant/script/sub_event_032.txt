@@ -1,0 +1,15 @@
+msg_sub032_youngf_01={0xBDFF:0x0000}
+msg_sub032_youngf_02=我偶爾會去深灰市買東西。{0xBE01}[0x000A]可是常青森林的路[0x000A]實在太迂迴曲折了。
+msg_sub032_oldm_01={0xBDFF:0x0002}
+msg_sub032_oldm_02=原來{0x1100,0x00FF,0x0101}你妳在收集寶可夢圖鑑？[0x000A]那我來給{0x1100,0x00FF,0x0101}你妳一些建議吧！{0xBE01}[0x000A]{0x1100,0x00FF,0x0101}你妳最好到友好商店[0x000A]多買一些精靈球！
+msg_sub032_musashi_01=？？？「幹什麼！不行不行！[0x000A]現在這裡禁止通行！{0xBE01}[0x000A]我正在執行重要的把風任務呢！
+msg_sub032_musashi_02=？？？「就說這裡[0x000A]禁止通行了！{0xBE01}[0x000A]小孩子要打發時間，[0x000A]就去幫爸媽跑腿做家事去！
+msg_sub032_kojiro_01=？？？「這個小鬼頭是怎麼回事？[0x000A]……去去！給我滾一邊去！
+msg_sub032_kojiro_02=？？？「雖說是任務，[0x000A]可是把風好無聊啊。{0xBE01}[0x000A]真想到友好商店偷個懶……
+msg_sub032_nyasu_01=喵喵「喵～
+msg_oyaji4_01_p03_field_t002={0xBDFF:0x0009}
+msg_oyaji4_01_p04_field_t002={0xBDFF:0x000A}
+msg_oyaji4_01_p05_field_t002={0xBDFF:0x000B}
+msg_oyaji4_01_p06_field_t002={0xBDFF:0x000C}
+msg_oyaji4_01_p07_field_t002={0xBDFF:0x000D}
+msg_oyaji4_01_p08_field_t002={0xBDFF:0x000E}

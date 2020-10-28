@@ -1,0 +1,16 @@
+msg_main0920_rocketchief_01=ARCHER: That’s far enough!
+msg_main0920_rival_01={0x01CD,0x0001}: Wha—?! You again?!
+msg_main0920_rocketchief_02=ARCHER: Me again. As many times as it takes.{0xBE01}[0x000A]I will not let you reach the boss!
+msg_main0920_rival_02={0x01CD,0x0001}: ...Huh?[0x000A]What was that? Reach the boss?
+msg_main0920_rival_03={0x0100,0x0000}, d’you think—?!
+msg_main0920_select_01=He’s right up ahead!
+msg_main0920_select_02=Giovanni must be here!
+msg_main0920_rival_04={0x01CD,0x0001}: So the boss of Team Rocket[0x000A]is right here in this building!{0xBE01}[0x000A]That makes things easier, then!
+msg_main0920_rival_05={0x01CD,0x0001}: Go, {0x0100,0x0000}![0x000A]This is our best chance to beat their boss!
+msg_main0920_rival_06=Old man, you’ll be dealing with me!
+msg_main0920_rocketchief_03=ARCHER: Ugh![0x000A]I don’t have time for this! I must warn the boss!
+msg_main0920_rival_07={0x01CD,0x0001}: {0x0100,0x0000}, go!{0xBE01}[0x000A]Go beat the Team Rocket boss once and for all!
+msg_rival_01_p01_cave_d1007={0xBDFF:0x000C}
+msg_rival_01_p02_cave_d1007={0xBDFF:0x000D}
+msg_rival_01_p03_cave_d1007={0xBDFF:0x000E}
+msg_rival_01_p05_cave_d1007={0xBDFF:0x000F}

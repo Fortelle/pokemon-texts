@@ -1,0 +1,126 @@
+Bienvenid{0x1100,0x00FF,0x0101}oa al Árbol de Combate.
+¿En qué te puedo ayudar?
+¿Sobre qué tema quieres información?
+En el Árbol de Combate se citan Entrenadores[0x000A]de lo más variopinto para enfrentarse en{0xBE00}[0x000A]todo tipo de combates.{0xBE01}[0x000A]Puedes elegir entre las siguientes modalidades:[0x000A]Individual, Doble o Múltiple.{0xBE01}[0x000A]Los jugadores han de combatir hasta que[0x000A]pierdan, con el objetivo de ser quien ostente{0xBE00}[0x000A]el mayor número de victorias consecutivas.{0xBE01}[0x000A]Es decir, que en cuanto sufras una derrota se[0x000A]detendrá el contador de victorias y tendrás que{0xBE00}[0x000A]empezar de nuevo desde cero.{0xBE01}[0x000A]Existen dos categorías de combate: los[0x000A]combates normales y los supercombates.{0xBE01}[0x000A]Los supercombates de cada modalidad estarán[0x000A]disponibles cuando hayas superado cierto{0xBE00}[0x000A]número de combates normales de la modalidad{0xBE00}[0x000A]correspondiente.{0xBE01}[0x000A]Por último, tras ganar a cualquier Entrenador[0x000A]recibes Puntos de Batalla, también llamados PB,{0xBE00}[0x000A]que puedes canjear por premios o para reclutar{0xBE00}[0x000A]Entrenadores.{0xBE01}[0x000A]Cuantas más victorias consecutivas acumules,[0x000A]mayor será la cantidad de PB que recibas.{0xBE01}[0x000A]Así que ya sabes: ¡el esfuerzo tiene su[0x000A]recompensa!
+Para disfrutar plenamente de lo que ofrece el[0x000A]Árbol de Combate, es mejor estar al corriente{0xBE00}[0x000A]de las reglas. Presta atención, por favor.{0xBE01}[0x000A]Lo primero que debes saber es que en los[0x000A]combates normales puedes usar cualquier{0xBE00}[0x000A]Pokémon, pero en los supercombates, ciertos{0xBE00}[0x000A]Pokémon están restringidos.{0xBE01}[0x000A]Además, en los supercombates, los Pokémon[0x000A]que tengan un nivel superior a 50 pasarán{0xBE00}[0x000A]automáticamente a tener Nv. 50.{0xBE01}[0x000A]Luego, el número de Pokémon necesarios difiere[0x000A]según el tipo de combate en el que se participe:{0xBE01}[0x000A]Tres Pokémon para Combates Individuales,[0x000A]cuatro para Combates Dobles y dos Pokémon{0xBE00}[0x000A]por Entrenador en los Combates Múltiples.{0xBE01}[0x000A]Por último, todos los Pokémon y sus respectivos[0x000A]objetos deben ser diferentes, aunque en los{0xBE00}[0x000A]Combates Múltiples se permite repetir los{0xBE00}[0x000A]mismos Pokémon y objetos.
+Espero verte pronto. Estaré a tu disposición si[0x000A]lo necesitas.
+¿En qué tipo de combate quieres participar?
+Tu racha de victorias consecutivas obtenidas[0x000A]hasta el momento asciende a {0x0203,0x0001,0x0000}.
+¿Quieres participar en Combates Individuales?
+¿Quieres participar en Supercombates[0x000A]Individuales?
+¿Quieres participar en Combates Dobles?
+¿Quieres participar en Supercombates Dobles?
+Selecciona los Pokémon con los que[0x000A]deseas luchar.
+¿Quieres participar en Combates Múltiples?
+¿Quieres participar en Supercombates[0x000A]Múltiples?
+¿Quieres conectarte con un amigo para afrontar[0x000A]este reto en equipo?
+La opción elegida por tu amigo es diferente a la[0x000A]que has elegido tú. Ponte en contacto con tu{0xBE00}[0x000A]amigo o amiga e inténtalo de nuevo.
+Elige con qué Entrenador quieres formar equipo.
+Muy bien. Prosigamos entonces con los[0x000A]Combates Individuales.
+Muy bien. Prosigamos entonces con los[0x000A]Supercombates Individuales.
+Muy bien. Prosigamos entonces con los[0x000A]Combates Dobles.
+Muy bien. Prosigamos entonces con los[0x000A]Supercombates Dobles.
+Muy bien. Prosigamos entonces con los[0x000A]Combates Múltiples.
+Muy bien. Prosigamos entonces con los[0x000A]Supercombates Múltiples.
+Guardando...[0x000A]Por favor, espera.
+¡Enhorabuena por tan magnífico combate!{0xBE01}[0x000A]Derrotar a un Campeón Legendario se merece[0x000A]un obsequio: aquí tienes PB.
+¡Enhorabuena por tan magnífico combate!{0xBE01}[0x000A]Derrotar a un Campeón Legendario cuando va a[0x000A]por todas merece un obsequio: aquí tienes PB.
+Has obtenido {0x0201,0x0005} PB.
+{0x0100,0x0000}, a partir de ahora ya puedes[0x000A]participar en los Supercombates Individuales.
+{0x0100,0x0000}, a partir de ahora ya puedes[0x000A]participar en los Supercombates Dobles.
+{0x0100,0x0000}, a partir de ahora ya puedes[0x000A]participar en los Supercombates Múltiples.
+Gracias por participar en el Árbol de Combate.{0xBE01}[0x000A]Los retos de Combate Individual han finalizado[0x000A]por ahora. ¡No te olvides de disfrutar de los{0xBE00}[0x000A]Supercombates Individuales!
+Gracias por participar en el Árbol de Combate.{0xBE01}[0x000A]Los retos de Combate Doble han finalizado por[0x000A]ahora. ¡No te olvides de disfrutar de los{0xBE00}[0x000A]Supercombates Dobles!
+Gracias por participar en el Árbol de Combate.{0xBE01}[0x000A]Los retos de Combate Múltiple han finalizado[0x000A]por ahora. ¡No te olvides de disfrutar de los{0xBE00}[0x000A]Supercombates Múltiples!
+¡Has obtenido un gran logro, cincuenta victorias[0x000A]consecutivas!{0xBE01}[0x000A]Como obsequio por tan magnífica hazaña, te[0x000A]otorgamos un sello conmemorativo.
+El próximo combate será el número {0x0203,0x0001,0x0000}.[0x000A]¿Quieres que dé comienzo?
+El próximo combate será el número {0x0203,0x0001,0xE07F}. ¡Ve[0x000A]con cuidado, los Campeones Legendarios son{0xBE00}[0x000A]duros de roer! ¿Quieres comenzar ya?
+¿Quieres pausar el reto?
+Se ha interrumpido el reto.
+Esperando a que se establezca la conexión...
+La melodía que suena ahora durante los[0x000A]combates es “{0x01C3,0x0000}”.{0xBE01}[0x000A]Elige otra si quieres.
+Vale, la he cambiado a esa.
+Combatir
+Quiero información
+No quiero nada
+Sobre el Árbol de Combate
+Sobre las modalidades
+{0xBDFF:0x002F}
+Combate Individual
+Supercombate Individual
+Combate Doble
+Supercombate Doble
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+Combate Múltiple
+Supercombate Múltiple
+Continuar
+Guardar Vídeo de Combate
+Pausar
+♪Entrenador 2♪
+♪Pokémon salvaje 2♪
+♪Pokémon dominante♪
+♪Kahuna♪
+Cambiar la melodía
+{0xBDFF:0x0040}
+Yo me encargo del registro del Árbol de[0x000A]Combate. ¿Quieres consultar tus resultados?
+¿Qué resultados deseas consultar?
+Tu racha actual es de {0x0203,0x0000,0x0000}.[0x000A]Tu mejor racha hasta ahora es de {0x0203,0x0001,0x0000}.
+La comunicación inalámbrica está desactivada.{0xBE01}[0x000A]Usa el interruptor de la comunicación[0x000A]inalámbrica para activarla.
+{0xBDFF:0x0045}
+No puedes combatir con ese jugador.
+Reclutar
+¡Para elegir a un compañero necesitas 10 PB!
+Para elegir a un compañero necesitas 10 PB.[0x000A]¿Estás de acuerdo?
+¡No hay espacio para nadie más!{0xBE01}[0x000A]¿Quieres eliminar a alguien de la lista?
+Muy bien, no se elegirá {0x170A,0x0000}[0x000A]{0x019E,0x0000}.
+Muy bien.{0xBE01}[0x000A]Se ha añadido a tu lista de compañeros {0x170A,0x0000}[0x000A]{0x019E,0x0000}.
+{0xBDFF:0x004D}
+¡Enhorabuena, {0x0100,0x0000}! Has superado[0x000A]tu racha anterior de {0x0203,0x0001,0xE07F} victorias.{0xBE01}[0x000A]Aquí tienes un premio.
+Aquí tienes otro premio.
+¡Te has enfrentado con éxito a muchísimos[0x000A]Entrenadores y Entrenadoras de todo el mundo!{0xBE01}[0x000A]Gracias a esta gran experiencia has podido[0x000A]aprender un nuevo estilo de lanzamiento...
+Cuando participes en un Combate Múltiple[0x000A]podrás elegir como compañeros a Entrenadores{0xBE00}[0x000A]a quienes hayas vencido en Combates{0xBE00}[0x000A]Individuales o Dobles en el Árbol de Combate.{0xBE01}[0x000A]La excepción son los Campeones Legendarios, a[0x000A]quienes no podrás seleccionar.{0xBE01}[0x000A]Buena suerte y ojalá encuentres un compañero[0x000A]o compañera que sea de tu agrado.
+Acerca de los Compañeros
+♪Aquí llega Tilo♪
+♪Aquí llega Gladio♪
+♪Team Skull♪
+♪Comandante Skull♪
+♪Jefe del Team Skull♪
+♪Fundación Æther♪
+♪Presidenta Samina♪
+♪Presidenta Samina 2♪
+♪Ultraente♪
+♪Alto Mando♪
+♪Defendiendo el título♪
+♪Pokémon legendario♪
+♪Battle Royale♪
+♪Espíritu guardián♪
+♪Campeón Legendario♪
+♪Team Rainbow Rocket♪
+♪Giovanni♪
+♪Magno y Aquiles♪
+♪Helio♪
+♪Ghechis♪
+♪Lysson♪
+♪Unidad Ultra♪
+♪Necrozma♪
+♪Necrozma 2♪
+♪Mewtwo♪
+♪Pokémon de Kanto♪
+♪Pokémon de Hoenn♪
+♪Legendario de Hoenn 2♪
+♪Legendario de Hoenn♪
+♪Ho-Oh♪
+♪Lugia♪
+♪Legendario de Johto♪
+♪Legendario de Sinnoh 2♪
+♪Legendario de Sinnoh 3♪
+♪Legendario de Sinnoh♪
+♪Giratina♪
+♪Legendario de Teselia♪
+♪Legendario de Teselia 2♪
+♪Legendario de Kalos♪
+♪Entrenador♪
+♪Pokémon salvaje♪
+♪Aquí llega Tilo 2♪
+{0xBDFF:0x007D}

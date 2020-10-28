@@ -1,0 +1,121 @@
+Lotta Aperta
+Lotta a Punteggio
+Gara Online
+Gara Privata
+Lotta in Singolo
+Lotta in Doppio
+Battle Royale
+Lotta Speciale
+Continua la lotta
+Cambia Squadra Lotta
+Abbandona la lotta
+Partecipa a una gara
+Lotta
+Visualizza il Certificato Partecipante
+Abbandona la gara
+Gare precedenti
+Info gara
+Sì
+No
+Pokémon speciali: sì
+Pokémon speciali: no
+Leggi un QR Code
+Lotta WCS
+Punto Lotta
+Lotta a Punteggio
+Lotta Aperta
+Lotta in Singolo
+Lotta in Doppio
+Lotta Speciale
+Battle Royale
+Gara Online
+{0x011A,0x0000}
+{0x011A,0x0000}
+Gara Privata
+Questo è il Punto Lotta![0x000A][0x000A]Qui puoi sfidare giocatori di tutto il mondo e partecipare[0x000A]alle gare per cui hai effettuato la registrazione sul sito[0x000A]del Pokémon Global Link.
+Nella Lotta Aperta, i Pokémon della Squadra Lotta devono[0x000A]essere di specie diverse e non possono avere lo stesso[0x000A]strumento.[0x000A]È anche possibile scegliere se sono ammessi i Pokémon[0x000A]speciali.
+Nella Lotta a Punteggio non sono ammessi Pokémon speciali.[0x000A]I Pokémon della Squadra Lotta devono essere di specie[0x000A]diverse e non possono avere lo stesso strumento.[0x000A]Nella Lotta Speciale e nella Lotta WCS, le regole cambiano[0x000A]a seconda del torneo.
+Per partecipare alle Gare Online, devi registrarti sul sito[0x000A]del Pokémon Global Link.[0x000A][0x000A]Per informazioni sulle gare e sulle regole puoi consultare[0x000A]il sito del Pokémon Global Link:[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+Per partecipare alle Gare Private, devi registrarti sul sito[0x000A]del Pokémon Global Link.[0x000A][0x000A]Per informazioni sulle gare e sulle regole puoi consultare[0x000A]il sito del Pokémon Global Link:[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+Per informazioni dettagliate sulle regole puoi consultare[0x000A]il sito del Pokémon Global Link:[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}[0x000A][0x000A]Puoi leggere il QR Code per aprire direttamente la pagina[0x000A]Internet corrispondente.
+Puoi scegliere di inviare automaticamente al server[0x000A]i Video Lotta delle Lotte a Punteggio, in modo che[0x000A]i relativi codici possano apparire sul sito del Pokémon[0x000A]Global Link.[0x000A][0x000A]Puoi partecipare alle Lotte a Punteggio anche se scegli[0x000A]di non autorizzare l’invio automatico dei video.
+I Pokémon che partecipano verranno registrati[0x000A]prima della lotta iniziale.
+{0xBDFF:0x002A}
+Punteggio:
+{0x0203,0x0000,0x002E}
+Lotte affrontate:
+{0x0206,0x0000,0x002E}
+Vittorie:
+{0x0206,0x0000,0x002E}
+Sconfitte:
+{0x0206,0x0000,0x002E}
+{0x0122,0x0000}
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+l
+{0x0202,0x0000}
+{0x0100,0x0000}
+Punteggio:
+{0x0203,0x0000,0x002E}
+{0x0124,0x0000}
+{0x0125,0x0000}
+{0x011A,0x0000}
+{0x0202,0x0000}° posto
+Avversario 1
+Avversario 2
+Avversario 3
+Scegli una modalità.
+Lotta Aperta![0x000A]Scegli il formato della lotta.
+Lotta a Punteggio![0x000A]Scegli il formato della lotta.
+Vuoi autorizzare l’invio automatico[0x000A]dei Video Lotta?
+Per partecipare a una Lotta a Punteggio, devi[0x000A]registrarti sul sito del Pokémon Global Link:{0xBE00}[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}{0xBE01}
+Collegamento in corso.[0x000A]Attendi...
+Controllo scheda SD in corso.[0x000A]Non spegnere la console.
+Le regole sono state aggiornate.{0xBE01}
+I dati delle regole sono danneggiati.[0x000A]Riprova dall’inizio.{0xBE01}
+I dati delle regole danneggiati sono stati[0x000A]ripristinati.{0xBE01}
+La scheda SD è piena.[0x000A]Impossibile salvare le regole della lotta.{0xBE01}
+Il server è in manutenzione.[0x000A]Riprova più tardi.{0xBE01}
+La stagione è terminata.{0xBE01}
+Vuoi registrare la console per partecipare[0x000A]alle Lotte a Punteggio?
+Registrazione della console in corso.
+Questa console è stata registrata.{0xBE01}[0x000A]Attenzione! Se partecipi a una Lotta a Punteggio[0x000A]con una console diversa, i tuoi risultati saranno{0xBE00}[0x000A]cancellati.{0xBE01}
+Stai cercando di partecipare con una console[0x000A]diversa da quella usata in precedenza.{0xBE01}[0x000A]In questo modo, i tuoi risultati saranno cancellati.[0x000A]Vuoi continuare?
+Cancellazione dei risultati e registrazione[0x000A]di questa console in corso.
+I risultati sono stati cancellati e la console[0x000A]è stata registrata.{0xBE01}
+Ricerca di un avversario in corso.[0x000A]Attendi...
+È stato trovato un avversario![0x000A]La lotta avrà inizio tra breve.
+Non è stato trovato nessun avversario.[0x000A]Attendi un po’ prima di riprovare.{0xBE01}
+Errore di comunicazione.[0x000A]Riprova dall’inizio.{0xBE01}
+L’aggiornamento dei risultati richiederà[0x000A]un po’ di tempo.{0xBE01}[0x000A]Puoi controllare i risultati anche sul sito[0x000A]del Pokémon Global Link.{0xBE01}[0x000A]Vuoi continuare a lottare?
+Vuoi continuare a lottare?
+Controllo dello stato della gara in corso.
+Per partecipare a una gara devi registrarti[0x000A]sul sito del Pokémon Global Link:{0xBE00}[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}{0xBE01}
+Al momento non ci sono gare a cui puoi[0x000A]partecipare.{0xBE01}
+La gara a cui stavi partecipando è terminata.{0xBE01}[0x000A]Per informazioni sulle prossime gare, visita[0x000A]il sito del Pokémon Global Link:{0xBE00}[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}{0xBE01}
+La gara a cui stavi partecipando è terminata.{0xBE01}[0x000A]La Squadra Lotta è stata sbloccata.{0xBE01}[0x000A]Per informazioni sulle prossime gare, visita[0x000A]il sito del Pokémon Global Link:{0xBE00}[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}{0xBE01}
+Non puoi partecipare a questa gara.{0xBE01}
+Se abbandoni la gara non potrai più parteciparvi.{0xBE01}[0x000A]Vuoi abbandonare la gara[0x000A]“{0x01AF,0x0000}”?
+Attenzione: non potrai più partecipare alla gara[0x000A]“{0x01AF,0x0000}”.{0xBE00}[0x000A]Vuoi davvero abbandonare?
+Hai abbandonato la gara.[0x000A]La Squadra Lotta è stata sbloccata.{0xBE01}
+Download del Certificato Partecipante in corso.
+Download del Certificato Partecipante[0x000A]completato.{0xBE01}
+Scegli la Squadra Lotta che vuoi iscrivere[0x000A]alla gara.
+La gara a cui devi partecipare non è ancora[0x000A]iniziata.{0xBE01}[0x000A]Controlla il periodo di svolgimento della gara[0x000A]sul sito del Pokémon Global Link:{0xBE00}[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}{0xBE01}
+Hai abbandonato questa gara.{0xBE01}
+La Squadra Lotta è stata bloccata e il gioco[0x000A]è stato sincronizzato.{0xBE01}[0x000A]L’iscrizione alla gara è stata completata.{0xBE01}
+Questa console è diversa da quella usata per[0x000A]la registrazione.{0xBE01}[0x000A]Controlla la tua console.{0xBE01}
+In questo momento non puoi lottare.{0xBE01}[0x000A]Per informazioni sugli orari in cui è possibile[0x000A]lottare, visita il sito del Pokémon Global Link:{0xBE00}[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}{0xBE01}
+Hai raggiunto il numero massimo di lotte[0x000A]e per oggi non puoi affrontarne altre.{0xBE01}
+Gara in corso.
+Gara precedente.
+Hai abbandonato questa gara.
+Non puoi partecipare a questa gara.
+Avvio della fotocamera per leggere il QR Code.
+Hai ottenuto il Certificato Partecipante.
+Cosa vuoi fare?
+Non è stato trovato un Certificato Partecipante[0x000A]per la gara in corso.{0xBE01}[0x000A]Vuoi abbandonare la gara?
+Non è possibile riprendere una gara in corso[0x000A]dopo averla abbandonata.{0xBE01}[0x000A]Vuoi davvero abbandonare la gara?
+Se abbandoni una gara in corso, conterà come[0x000A]un ritiro e non potrai più partecipare.{0xBE01}[0x000A]Vuoi comunque sbloccare la Squadra Lotta[0x000A]e abbandonare la gara?
+La Squadra Lotta della gara precedente è stata[0x000A]sbloccata per poter partecipare alla nuova{0xBE00}[0x000A]Gara Privata.{0xBE01}
+{0xBDFF:0x0078}

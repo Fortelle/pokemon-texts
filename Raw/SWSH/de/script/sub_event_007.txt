@@ -1,0 +1,17 @@
+sub_event_007_tokkun_01=Du bist tatsächlich zum Champ aufgestiegen?[0x000A]Reife Leistung, ich muss schon sagen.{0xBE01}[0x000A]Dann hast du jetzt die fantastische Möglichkeit,[0x000A]Pokémon, die Level 100 erreicht haben, bei mir{0xBE00}[0x000A]ein Super-Spezialtraining absolvieren zu lassen!
+sub_event_007_tokkun_02=Oh, du scheinst aber keine Silberkronkorken oder[0x000A]Goldkronkorken dabeizuhaben...
+sub_event_007_tokkun_03=Welches deiner Pokémon soll mein[0x000A]Super-Spezialtraining absolvieren?
+sub_event_007_tokkun_04=Nur Pokémon auf Level 100 sind stark genug,[0x000A]um mein Super-Spezialtraining zu bewältigen.
+sub_event_007_tokkun_05=Aber {0x0102,0x0001} ist doch schon superstark![0x000A]Es braucht gar kein Training mehr!
+sub_event_007_tokkun_06=Möchtest du Gold- oder Silberkronkorken[0x000A]einsetzen?
+sub_event_007_tokkun_07=Es sollen also alle Statuswerte per[0x000A]Super-Spezialtraining erhöht werden?
+sub_event_007_tokkun_08=Welche Statuswerte sollen per[0x000A]Super-Spezialtraining erhöht werden?
+tokkun_01_01={0x0109,0x0000} (Im Besitz: {0x0201,0x0001})
+tokkun_01_02=Abbrechen
+tokkun_03_08=Legen wir los!
+tokkun_10_01=Diesen Statuswert kann ich nicht weiter[0x000A]trainieren!
+tokkun_10_02=Du hast keinen {0x0109,0x0000}...
+sub_event_007_tokkun_09=Puh, geschafft! {0x0102,0x0000} ist durch mein[0x000A]Super-Spezialtraining jetzt noch stärker!
+sub_event_007_tokkun_10=Möchtest du das Super-Spezialtraining[0x000A]fortführen?
+sub_event_007_tokkun_11=Hast du es dir anders überlegt?
+sub_event_007_tokkun_12=Komm wieder vorbei, wenn du bereit für mein[0x000A]Super-Spezialtraining bist!

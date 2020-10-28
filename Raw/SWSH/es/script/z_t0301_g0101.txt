@@ -1,0 +1,15 @@
+msg_t0301_g0101_npc1_01=El tipo Planta es débil contra los ataques de[0x000A]tipo Fuego... Es de cajón, vaya.
+msg_t0301_g0101_npc1_02=Bien hecho, ¡conseguir la Medalla Planta no es[0x000A]tarea fácil!{0xBE01}[0x000A]Sigue así y seguro que te harás también con la[0x000A]Medalla Agua.
+msg_t0301_g0101_npc2_01=Antes de enfrentarse al líder, hay que completar[0x000A]la misión de gimnasio.{0xBE01}[0x000A]¿En qué consistirá? A mí solo se me da bien[0x000A]bailar... ¡Miedo me da!
+msg_t0301_g0101_npc2_02=Mira que ponernos a perseguir Wooloo...[0x000A]No me esperaba que Percy tuviese tan mala{0xBE00}[0x000A]baba, la verdad.
+msg_t0301_g0101_npc3_01=Eres un{0x1100,0x00FF,0x0100}a Aspirante, ¿verdad? Prometo acordarme[0x000A]de tu nombre si consigues la Medalla Planta.
+msg_t0301_g0101_npc3_02=Te llamas {0x0100,0x0000}, ¿no?[0x000A]¡Eres superfuerte! Desde ahora soy tu fan.
+msg_t0301_g0101_poke1_01_pop=¡Blip, blip!
+msg_t0301_g0101_npc4_01_pop=¿Es{0x1100,0x00FF,0x0101}ea chic{0x1100,0x00FF,0x0101}oa es un{0x1100,0x00FF,0x0100}a Aspirante?
+msg_t0301_g0101_npc4_02_pop=¡Ha ganado a Percy![0x000A]¡Qué pedazo de combate!
+msg_t0301_g0101_npc4_03_pop=¡Ey, Campe{0x1100,0x00FF,0x0302}ónona!
+msg_t0301_g0101_npc5_01_pop=¡Dicen que l{0x1100,0x00FF,0x0101}oa recomendó[0x000A]Lionel personalmente!
+msg_t0301_g0101_npc5_02_pop=¡Pues no lo hace nada mal!
+msg_t0301_g0101_npc5_03_pop=¡Te he visto en la tele!
+msg_t0301_g0101_npc6_01_pop=Al parecer es {0x1100,0x00FF,0x0202}ella rival de Paul.
+msg_t0301_g0101_npc6_02_pop=Creo que llegará lejos...

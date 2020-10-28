@@ -1,0 +1,12 @@
+msg_t006gym01_gym_01=¡Hola, aspirante al título!{0xBE01}[0x000A]Quizá no lo sepas, pero el Teniente Surge es un[0x000A]hueso duro de roer, además de todo un experto{0xBE00}[0x000A]en Pokémon de tipo Eléctrico, muy eficaces{0xBE00}[0x000A]contra los de tipo Volador o Agua.{0xBE01}[0x000A]Y la parálisis es otro de sus ases bajo la manga.[0x000A]¡Ten cuidado!{0xBE01}[0x000A]El Teniente Surge es muy precavido, así que no[0x000A]te será fácil acceder al área donde se encuentra.
+msg_t006gym01_gym_02=No ha sido un combate corriente, sino...[0x000A]¡electrizante! Se me ha puesto la carne de{0xBE00}[0x000A]gallina.
+msg_t006gym01_statue_01=Gimnasio Pokémon de Ciudad Carmín[0x000A]Líder: Teniente Surge{0xBE01}[0x000A]Entrenadores reconocidos: {0x0100,0x0001}
+msg_t006gym01_statue_02=Gimnasio Pokémon de Ciudad Carmín[0x000A]Líder: Teniente Surge{0xBE01}[0x000A]Entrenadores reconocidos:[0x000A]{0x0100,0x0001} y {0x0100,0x0000}
+msg_t006gym01_gomi_01=En este cubo solo hay basura.
+msg_t006gym01_gomi_02=¡Anda! En el fondo del cubo de basura hay un[0x000A]interruptor. A ver qué ocurre si se pulsa...
+msg_t006gym01_gomi_05=Primera barrera eléctrica desactivada.
+msg_t006gym01_gomi_03=Segunda barrera eléctrica desactivada.[0x000A]Sistema de seguridad desactivado por completo.
+msg_t006gym01_gomi_04=Vaya, la primera barrera se ha vuelto a activar.
+msg_t006gym01_gomi_06=Es un cubo de basura rojo.
+msg_t006gym01_gomi_07=Es un cubo de basura azul.
+msg_t006gym01_gomi_08=Ya has pulsado el interruptor que había en este[0x000A]cubo de basura.

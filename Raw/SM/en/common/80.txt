@@ -1,0 +1,18 @@
+Pokédex:
+{0x0202,0x0000}
+
+Play time:
+{0x0202,0x0000}:{0x0201,0x0001}
+{0x0202,0x0000}
+:
+{0x0201,0x0000}
+Last saved on
+{0x0201,0x0001}/{0x0201,0x0002}/{0x0203,0x0000,0x0000}
+{0x0105,0x0000}
+Would you like to save your adventure so far?
+Now saving your adventure...[0x000A]Don’t turn off the power.
+You saved the game.
+Failed to save the game.
+Yes
+No
+The data necessary for the Internet connection[0x000A]has been obtained.{0xBE01}[0x000A]Would you like to save the game?[0x000A]

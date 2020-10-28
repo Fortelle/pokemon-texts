@@ -1,0 +1,12 @@
+main_event_1870_rival_01={0x0100,0x0000}, guarda!{0x0114,0x0005}
+main_event_1870_rival_02=La spada e lo scudo![0x000A]Non era solo una leggenda, allora!{0x0114,0x0005}
+main_event_1870_rival_03=Io allora prendo lo scudo!{0x0114,0x0005}
+main_event_1870_rival_04=Io allora prendo la spada!{0x0114,0x0005}
+main_event_1870_rival_05=Certo però che sono proprio ridotti male...{0xBE01}[0x000A]Dubito che potremo usarli per sconfiggere[0x000A]la Notte Oscura...{0xBE01}[0x000A]Bah, vorrà dire che ci faranno da portafortuna!{0x0114,0x0005}
+main_event_1870_rival_06=Certo però che sono proprio ridotti male...{0xBE01}[0x000A]Dubito che potremo usarli per sconfiggere[0x000A]la Notte Oscura...{0xBE01}[0x000A]Bah, vorrà dire che ci faranno da portafortuna!{0x0114,0x0005}
+main_event_1870_rival_07=Il Pokémon spada e il Pokémon scudo sono[0x000A]ancora immersi nel sonno...{0xBE01}[0x000A]Questo vuol dire che io e te siamo gli unici[0x000A]che possono salvare Dandel!{0x0114,0x0005}
+main_event_1870_rival_08=Dandel sta lottando contro la Notte Oscura[0x000A]allo Stadio di Knuckleburgh!{0xBE01}[0x000A]Che ne dici, {0x0100,0x0000}? Ci andiamo[0x000A]con un Volotaxi?{0x0114,0x0005}
+main_event_1870_select_01=Va bene!
+main_event_1870_select_02=Dammi un minuto...
+main_event_1870_rival_09=Perfetto! Non perdiamo tempo allora, usciamo[0x000A]dal bosco e voliamo via verso Knuckleburgh!{0x0114,0x0005}
+main_event_1870_rival_10=Ti capisco...{0xBE01}[0x000A]Non è molto incoraggiante vedere la spada e[0x000A]lo scudo della leggenda ridotti a due rottami...{0x0114,0x0005}

@@ -1,0 +1,14 @@
+sub_event_002_sister_01=Alors, {0x0100,0x0000}, tu crois assurer,[0x000A]en tant qu’Maître ?{0x0114,0x000D}
+sub_event_002_sister_02=Moi, j’trouve que j’me débrouille pas mal,[0x000A]comme Championne d’Arène.{0x0114,0x000D}
+sub_event_002_sister_03=J’apprends aux gens qu’on a pas b’soin[0x000A]de dynamaxer ses Pokémon pour être cool !{0x0114,0x000D}
+sub_event_002_sister_04=Enfin bref, j’imagine que t’es pas juste venu{0x1100,0x00FF,0x0100}e[0x000A]pour causer. Tu veux te battre ?{0x0114,0x000D}
+sub_event_002_select_01=Évidemment !
+sub_event_002_select_02=Euh, peut-être plus tard...
+sub_event_002_sister_05=OK, tu l’auras voulu !{0x0114,0x000D}
+sub_event_002_sister_06=T’as peur parce que tu joues pas à domicile,[0x000A]c’est ça ? Ouais, j’comprends.{0x0114,0x000D}
+sub_event_002_sister_07=J’avoue, c’était beau.[0x000A]T’es pas Maître pour rien, c’est clair !{0x0114,0x000D}
+sub_event_002_sister_08=Tiens, pour ta peine.[0x000A]T’as intérêt à en prendre soin !{0x0114,0x000D}
+sub_event_002_sister_09=Repasse me voir quand tu veux.[0x000A]On pourrait s’refaire un combat.{0x0114,0x000D}
+sub_event_002_sister_10={0x0100,0x0000} ! T’es d’jà revenu{0x1100,0x00FF,0x0100}e ?[0x000A]Tu veux t’battre, c’est ça ?{0x0114,0x000D}
+sub_event_002_sister_11=J’vais t’laminer, et réussir là où mon frère[0x000A]s’est planté !{0x0114,0x000D}
+sub_event_002_sister_12=J’avoue, un combat contre le Maître,[0x000A]c’est quand même aut’ chose.{0xBE01}[0x000A]Reviens vite, Morpeko sera content de t’voir!{0x0114,0x000D}

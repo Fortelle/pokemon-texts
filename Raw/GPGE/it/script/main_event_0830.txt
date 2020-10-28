@@ -1,0 +1,6 @@
+msg_main0830_fuji_01={0xFF00,0x0009}Mr. Fuji:{0xFF00,0x0000} {0x0100,0x0000}...{0xBE01}[0x000A]Completare il Pokédex non è un’impresa[0x000A]facile: solo un profondo amore per i Pokémon{0xBE00}[0x000A]ti permetterà di portarla a termine.{0xBE01}[0x000A]Non so se questo ti sarà d’aiuto, ma vorrei[0x000A]comunque che lo tenessi tu.
+msg_main0830_sys_01={0x0100,0x0000} riceve il {0xFF00,0x0006}Poké Flauto{0xFF00,0x0000}[0x000A]da Mr. Fuji!
+msg_main0830_fuji_02=Alcuni Pokémon si destano al suono[0x000A]del Poké Flauto.{0xBE01}[0x000A]Prova a usarlo se trovi un Pokémon[0x000A]assonnato!
+msg_huzi_01_p04_t005_r0101={0xBDFF:0x0003}
+msg_main0830_fuji_03={0xFF00,0x0009}Mr. Fuji:{0xFF00,0x0000} Ti è stato utile il Poké Flauto?
+msg_main0830_fuji_04={0xBDFF:0x0005}

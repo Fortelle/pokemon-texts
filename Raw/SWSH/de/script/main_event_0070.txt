@@ -1,0 +1,17 @@
+main_event_0070_rivalmama_01={0xBDFF:0x0000}
+main_event_0070_champion_01=Los, meine Kleinen! Zeigt den beiden,[0x000A]was in euch steckt!{0x0114,0x0004}
+main_event_0070_rival_01=Jetzt spann uns nicht länger auf die Folter,[0x000A]Bruderherz! Wo ist das versprochene Geschenk?{0xBE01}[0x000A]Oder hast du das etwa vergessen?!{0x0114,0x0005}
+main_event_0070_champion_02=Keineswegs! Ich bin ein Mann meines Wortes.{0xBE01}[0x000A]Wenn ihr die Allerbesten sein wollt, braucht ihr[0x000A]auch die allerbesten Pokémon.{0xBE01}[0x000A]Ich will, dass ihr stark werdet. Deshalb hab ich[0x000A]mich auch nicht lumpen lassen...{0x0114,0x0004}
+main_event_0070_champion_03=Das Pflanzen-Pokémon Chimpep!{0x0114,0x0004}
+main_event_0070_champion_04=Das Feuer-Pokémon Hopplo!{0x0114,0x0004}
+main_event_0070_champion_05=Das Wasser-Pokémon Memmeon!{0x0114,0x0004}
+main_event_0070_poke1_01={0xBDFF:0x0007}
+main_event_0070_poke2_01={0xBDFF:0x0008}
+main_event_0070_poke3_01={0xBDFF:0x0009}
+main_event_0070_champion_06={0xBDFF:0x000A}
+main_event_0070_rival_02={0xBDFF:0x000B}
+main_event_0080_champion_06=Genug gespielt, kommt bitte mal wieder her!{0x0114,0x0004}
+main_event_0081_champion_01=Und, für welches Pokémon entscheidet ihr euch?{0x0114,0x0004}
+main_event_0081_poke1_01=Hopplo
+main_event_0081_poke2_01=Memmeon
+main_event_0081_poke3_01=Chimpep

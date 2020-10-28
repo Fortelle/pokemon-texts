@@ -1,0 +1,14 @@
+msg_main0055_doctor_01=OAK: Oh! Just one more thing!
+msg_main0055_doctor_02=Now that you two are setting out as Trainers,[0x000A]I’d like to ask your help with something.{0xBE01}[0x000A]Take this with you on your journeys.
+msg_main0055_rival_01={0x01CD,0x0001}: What is that thing, Professor?
+msg_main0055_doctor_03=OAK: This is the Pokédex that I’ve designed!{0xBE01}[0x000A]It automatically records data on Pokémon you’ve[0x000A]seen or caught, and it makes an entry for each.{0xBE01}[0x000A]It’s an extremely high-tech tool!
+msg_main0055_doctor_04={0x0100,0x0000} and {0x0100,0x0001}...[0x000A]I want you each to take one with you!
+msg_main0055_sys_01=You got a {0xFF00,0x0006}Pokédex{0xFF00,0x0000} from Professor Oak!
+msg_main0055_doctor_05=OAK: You’ll find you can’t get very detailed data[0x000A]on Pokémon by just seeing them.{0xBE01}[0x000A]You must catch a Pokémon to gather the most[0x000A]complete data!
+msg_main0055_doctor_06=To make a complete guide to all the Pokémon[0x000A]in the world...{0xBE01}[0x000A]That was my dream!
+msg_main0055_doctor_09=But I’m an old man now![0x000A]Too old to get the job done myself.
+msg_main0055_doctor_10=That’s why I want you young Trainers to fulfill[0x000A]my dream for me!
+msg_main0055_doctor_07=Get moving, you two!{0xBE01}[0x000A]This is a great undertaking in Pokémon history!
+msg_main0055_rival_02={0x01CD,0x0001}: A Pokédex, huh?{0xBE01}[0x000A]We’re gonna meet so many Pokémon...[0x000A]This keeps getting better and better!
+msg_main0055_rival_03=I’m setting out right now![0x000A]{0x0100,0x0000}, you should do the same...{0xBE00}[0x000A]If you think you’re ready, that is!
+msg_main0055_doctor_08=OAK: Pokémon are out there waiting for you—[0x000A]the whole world over, {0x0100,0x0000}!

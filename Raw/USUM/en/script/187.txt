@@ -1,0 +1,8 @@
+Hey, hey! {0x0100,0x0000}![0x000A]You ever heard of that Festival Plaza thing?{0xBE01}[0x000A]I guess it’s like a festival or something where[0x000A]lots of people get together and have fun?{0x0114,0x0007}
+You![0x000A]I can tell you’ve been to Festival Plaza before!
+You![0x000A]I can tell you’ve never visited Festival Plaza!
+No worries! I’ll teach you how to visit it.[0x000A]I just heard about it for the first time, too...{0xBE01}[0x000A]Let’s see, I think she said...[0x000A]Yeah, you’re supposed to open up your X menu,{0xBE00}[0x000A]then tap on Festival Plaza!{0x0114,0x0007}
+Festival Plaza seems pretty good, huh?{0xBE01}[0x000A]Even my old gramps tried it out.[0x000A]It’s great to get to meet so many different folks!{0xBE01}[0x000A]Now I’m gonna go have some fun with my team!{0x0114,0x0007}
+What’d you think, {0x0100,0x0000}?[0x000A]Pretty fun, right?{0xBE00}[0x000A]It’s great to get to meet so many different folks!{0xBE01}[0x000A]Now I’m gonna go have some fun with my team!{0x0114,0x0007}
+{0xBDFF:0x0006}
+It’s great to show off the photos you’ve taken[0x000A]in Festival Plaza, isn’t it?

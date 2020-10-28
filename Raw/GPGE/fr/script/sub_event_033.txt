@@ -1,0 +1,8 @@
+msg_t003r0101_scientist_01_01=Le tarif enfant est de 50 [0xE300].[0x000A]Voulez-vous entrer ?
+msg_t003r0101_scientist_01_02=À bientôt !
+msg_t003r0101_scientist_01_03=Merci !
+msg_t003r0101_scientist_01_04=Vous n’avez pas assez d’argent.
+msg_t003r0101_scientist_01_05=Bonne visite !
+msg_t003r0101_scientist_01_06=Alors comme ça, on se faufile par la porte[0x000A]du fond pour essayer d’entrer sans payer ?{0xBE00}[0x000A]Bien tenté, mais c’est raté !{0xBE01}[0x000A]Mais puisque tu es là, sais-tu ce qu’est l’ambre ?
+msg_t003r0101_scientist_01_07=Il existe un laboratoire où l’on essaie de[0x000A]reconstituer des Pokémon préhistoriques{0xBE00}[0x000A]grâce aux informations génétiques contenues{0xBE00}[0x000A]dans des morceaux d’ambre.
+msg_t003r0101_scientist_01_08=Il s’agit en fait de sève d’arbre qui s’est fossilisée[0x000A]avec le temps pour devenir de l’ambre.

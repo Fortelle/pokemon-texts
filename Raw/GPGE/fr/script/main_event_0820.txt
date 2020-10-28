@@ -1,0 +1,6 @@
+msg_main0820_fuji_01={0xBDFF:0x0000}
+msg_main0820_fuji_02={0xFF00,0x0009}M. Fuji :{0xFF00,0x0000} ...
+msg_main0820_fuji_03=Oui ? C’est pour quoi ?
+msg_main0820_fuji_04=Ah bon ? La Team Rocket me menaçait ?[0x000A]Je n’avais pas fait attention.{0xBE01}[0x000A]Je me recueillais en mémoire d’Ossatueur.
+msg_main0820_fuji_05=Il semblerait bien que son esprit soit apaisé,[0x000A]maintenant. Son âme a pris le chemin du ciel.
+msg_main0820_fuji_06=Je voudrais te remercier, mais il faut d’abord que[0x000A]je passe chez moi. Qui m’aime me suive !

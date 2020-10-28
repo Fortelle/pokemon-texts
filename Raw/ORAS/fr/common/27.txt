@@ -1,0 +1,97 @@
+{0x0102,0x0000}
+Stats de base
+MAX[0xE07F]!
+{0x0202,0x0000}
++ {0x0202,0x0000}
+- {0x0202,0x0000}
+{0x0102,0x0000} a trouvé[0x000A]{0x1402,0x0001}{0x010A,0x0001}[0xE07F]!{0xBE02:0x001E}
+Voulez-vous que {0x0102,0x0000} utilise[0x000A]le {0x010A,0x0001}[0xE07F]?
+Voulez-vous jeter le {0x010A,0x0000}[0xE07F]?
+{0x0102,0x0000} bénéficie déjà[0x000A]des effets d’un {0x010A,0x0001}.[0x000A]Utiliser un {0x010A,0x0002}[0x000A]les lui fera perdre[0xE07F]![0x000A]Voulez-vous qu’il utilise[0x000A]ce {0x010A,0x0002} malgré tout[0xE07F]?
+{0x0102,0x0000} est en pleine Préparation[0x000A]et frappe dans un {0x010A,0x0001}.[0x000A]Utiliser un {0x010A,0x0002} vous[0x000A]forcerait à jeter le {0x010A,0x0001}.[0x000A]Voulez-vous qu’il utilise[0x000A]ce {0x010A,0x0002} malgré tout[0xE07F]?
+{0x0102,0x0000} n’a pas l’air de vouloir[0x000A]s’entraîner[0xE08D]{0xBE01}[0x000A]Peut-être devriez-vous attendre qu’il se sente[0x000A]mieux avant d’utiliser un Sac de Sable.
+{0x0102,0x0000} s’est un peu reposé.{0xBE01}[0x000A]Maintenant qu’il est en forme, il est[0x000A]bien plus motivé[0xE07F]!
+Utiliser
+Jeter
+Retour
+Oui
+Non
+
+◆ {0x010A,0x0000}[0x000A]Renforce un peu les PV de base.[0x000A]Entraînement très rapide.
+◆ {0x010A,0x0000}[0x000A]Renforce les PV de base.[0x000A]Entraînement de durée moyenne.
+◆ {0x010A,0x0000}[0x000A]Renforce beaucoup les PV[0x000A]de base.[0x000A]Entraînement très exigeant.
+◆ {0x010A,0x0000}[0x000A]Renforce un peu l’Attaque[0x000A]de base.[0x000A]Entraînement très rapide.
+◆ {0x010A,0x0000}[0x000A]Renforce l’Attaque de base.[0x000A]Entraînement de durée moyenne.
+◆ {0x010A,0x0000}[0x000A]Renforce beaucoup l’Attaque[0x000A]de base.[0x000A]Entraînement très exigeant.
+◆ {0x010A,0x0000}[0x000A]Renforce un peu la Défense[0x000A]de base.[0x000A]Entraînement très rapide.
+◆ {0x010A,0x0000}[0x000A]Renforce la Défense de base.[0x000A]Entraînement de durée moyenne.
+◆ {0x010A,0x0000}[0x000A]Renforce beaucoup la Défense[0x000A]de base.[0x000A]Entraînement très exigeant.
+◆ {0x010A,0x0000}[0x000A]Renforce un peu l’Attaque[0x000A]Spéciale de base.[0x000A]Entraînement très rapide.
+◆ {0x010A,0x0000}[0x000A]Renforce l’Attaque Spéciale[0x000A]de base.[0x000A]Entraînement de durée moyenne.
+◆ {0x010A,0x0000}[0x000A]Renforce beaucoup l’Attaque[0x000A]Spéciale de base.[0x000A]Entraînement très exigeant.
+◆ {0x010A,0x0000}[0x000A]Renforce un peu la Défense[0x000A]Spéciale de base.[0x000A]Entraînement très rapide.
+◆ {0x010A,0x0000}[0x000A]Renforce la Défense Spéciale[0x000A]de base.[0x000A]Entraînement de durée moyenne.
+◆ {0x010A,0x0000}[0x000A]Renforce beaucoup la Défense[0x000A]Spéciale de base.[0x000A]Entraînement très exigeant.
+◆ {0x010A,0x0000}[0x000A]Renforce un peu la Vitesse[0x000A]de base.[0x000A]Entraînement très rapide.
+◆ {0x010A,0x0000}[0x000A]Renforce la Vitesse de base.[0x000A]Entraînement de durée moyenne.
+◆ {0x010A,0x0000}[0x000A]Renforce beaucoup la Vitesse[0x000A]de base.[0x000A]Entraînement très exigeant.
+◆ {0x010A,0x0000}[0x000A]Augmente le nombre de points[0x000A]gagnés à chaque cible touchée[0x000A]lors du prochain Challenge.
+◆ {0x010A,0x0000}[0x000A]Permet de perdre moins de points[0x000A]si un tir ennemi vous touche lors[0x000A]du prochain Challenge.
+◆ {0x010A,0x0000}[0x000A]Rend votre Pokémon plus rapide[0x000A]lors du prochain Challenge.
+◆ {0x010A,0x0000}[0x000A]Permet à votre Pokémon d’être[0x000A]plus précis lors du prochain[0x000A]Challenge.
+◆ {0x010A,0x0000}[0x000A]Double l’augmentation des stats[0x000A]de base lors du prochain[0x000A]Challenge.
+◆ {0x010A,0x0000}[0x000A]Porte le logo de la Team Flare.[0x000A]C’est idéal pour se défouler.
+◆ {0x010A,0x0000}[0x000A]Réinitialise toutes les[0x000A]stats de base.
+◆ {0x010A,0x0000}[0x000A]Augmente un peu l’affection que[0x000A]le Pokémon vous porte.
+Allez, un peu de nerf[0xE07F]![0x000A]Montre ce que tu as dans le ventre[0xE07F]!
+1, 2[0xE08D] du nerf[0xE07F]!
+3, 4[0xE08D] persévère[0xE07F]!
+Vas-y à fond[0xE07F]![0x000A]Jusqu’à ce que ton corps demande grâce[0xE07F]!
+Déchaîne ta force et ta puissance[0xE07F]!
+La meilleure des défenses, c’est l’attaque[0xE07F]!
+Frappe[0xE07F]! Maintenant[0xE07F]![0x000A]Et maintenant[0xE07F]! Et maintenant[0xE07F]!
+Il faut transpirer pour être fort[0xE07F]!
+Une défense en béton, c’est la clé du succès[0xE07F]!
+On se bouge[0xE07F]! Plus vite[0xE07F]![0x000A]Allez, plus vite[0xE07F]! Encore plus vite[0xE07F]!
+Fais-moi un combo à la vitesse de la lumière[0xE07F]![0x000A]Maintenant[0xE07F]!
+Allez allez allez[0xE07F]! Plus vite[0xE07F]!
+Le double[0xE07F]![0x000A]Le double[0xE07F]!!!
+Donne-toi à 200 %[0xE07F]!!!
+Courage[0xE07F]! Avec deux fois plus d’efforts,[0x000A]on est deux fois mieux récompensé[0xE07F]!
+C’est bien[0xE07F]! Vas-y[0xE07F]![0x000A]Encore[0xE07F]! Sans t’arrêter[0xE07F]!
+Brûle-moi ces calories avec l’ardeur[0x000A]d’une éruption solaire[0xE07F]!
+Montre à tout le monde la puissance du poing[0x000A]de la justice[0xE07F]!
+C’est tout ce que tu as dans le ventre[0xE07F]?[0x000A]Ne baisse pas les bras[0xE07F]!
+Tes efforts seront récompensés, tu verras[0xE07F]!
+On n’arrive à rien sans mouiller sa chemise[0xE07F]!
+Fais parler tes poings[0xE07F]![0x000A]Pour l’amour et l’amitié[0xE07F]!
+Que cet effort nous lie à jamais[0xE07F]!
+La confiance demande des efforts[0xE07F]![0x000A]Allez, encore une fois[0xE07F]!
+Les PV de base de {0x0102,0x0000}[0x000A]ont augmenté.
+L’Attaque de base de {0x0102,0x0000}[0x000A]a augmenté.
+La Défense de base de {0x0102,0x0000}[0x000A]a augmenté.
+L’Attaque Spéciale de base[0x000A]de {0x0102,0x0000} a augmenté.
+La Défense Spéciale de base[0x000A]de {0x0102,0x0000} a augmenté.
+La Vitesse de base de {0x0102,0x0000}[0x000A]a augmenté.
+Vous gagnerez plus de points en touchant[0x000A]les cibles lors du prochain Challenge.
+Moins de points seront perdus si un tir[0x000A]ennemi touche lors du prochain Challenge.
+Votre Pokémon sera plus rapide lors du[0x000A]prochain Challenge.
+Votre Pokémon sera plus précis lors du[0x000A]prochain Challenge.
+L’augmentation des stats de base sera[0x000A]doublée lors du prochain Challenge.
+{0x0102,0x0000} est ultra motivé[0xE07F]!
+Les stats de base de {0x0102,0x0000} ont été[0x000A]réinitialisées.
+{0x0102,0x0000} vous apprécie un peu plus[0xE07F]!
+Magnifique[0xE07F]![0x000A]Quelle forme éclatante[0xE07F]!
+Qui aurait cru qu’un Pokémon pouvait[0x000A]bouger comme ça[0xE07F]?!
+Et voici[0xE08D] la botte secrète[0xE07F]!
+Bienvenue au SPV[0xE07F]!{0xBE01}[0x000A]Entraînez votre équipe pour créer[0x000A]des Pokémon Parfaits[0xE07F]!{0xBE01}[0x000A]Pour commencer, touchez le bouton en bas[0x000A]à gauche de votre écran.
+Pour commencer, touchez le bouton SPV[0x000A]en bas à gauche de l’écran tactile.
+Maintenant, utilisons un Sac de Sable[0xE07F]!{0xBE01}[0x000A]Touchez le bouton en bas à droite[0x000A]de l’écran tactile.
+Touchez le bouton en bas à droite de l’écran[0x000A]tactile[0xE07F]!
+Touchez un Sac de Sable dans la liste[0x000A]de gauche pour le choisir.
+Voilà un Sac de Sable[0xE07F]!{0xBE01}[0x000A]Votre Pokémon le frappera chaque fois[0x000A]que vous touchez l’écran tactile.{0xBE00}[0x000A]Les résultats ne se feront pas attendre[0xE07F]!{0xBE01}[0x000A]Si vous ne touchez pas l’écran tactile,[0x000A]votre Pokémon frappera tout de même{0xBE00}[0x000A]le sac environ une fois par minute.
+{0x1401,0x0001}{0x010D,0x0001} de base de[0x000A]{0x0102,0x0000} ne peu{0x1101,0x0001,0x0300}vent plus augmenter.{0xBE01}[0x000A]Vous ne pouvez pas utiliser[0x000A]le {0x010A,0x0002}.
+{0x1401,0x0001}{0x010D,0x0001} de base de[0x000A]{0x0102,0x0000} ne peu{0x1101,0x0001,0x0300}vent plus augmenter.{0xBE01}[0x000A]Quelle maîtrise[0xE07F]!
+Les stats de base de {0x0102,0x0000}[0x000A]ont atteint leur maximum.{0xBE01}[0x000A]Vous ne pouvez pas utiliser[0x000A]le {0x010A,0x0002}.
+{0x0102,0x0000} n’a pas l’air de vouloir[0x000A]s’entraîner[0xE08D]{0xBE01}[0x000A]Peut-être devriez-vous réessayer quand[0x000A]il se sera reposé.
+Les stats de base de {0x0102,0x0000}[0x000A]ne peuvent plus augmenter[0xE07F]!

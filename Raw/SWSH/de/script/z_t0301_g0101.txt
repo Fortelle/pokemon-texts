@@ -1,0 +1,15 @@
+msg_t0301_g0101_npc1_01=Feuer-Attacken sind gegen Pflanzen-Pokémon[0x000A]sehr effektiv... Das gehört zum Grundwissen!
+msg_t0301_g0101_npc1_02=Es sollte mich eigentlich nicht wundern, dass du[0x000A]den Pflanzen-Orden erhalten hast. Gratuliere!{0xBE01}[0x000A]Es wäre super, wenn es gleich so mit dem[0x000A]Wasser-Orden weitergehen könnte, was?
+msg_t0301_g0101_npc2_01=Wer die Arena-Mission nicht erfüllt, kann auch[0x000A]den Arenaleiter nicht herausfordern, richtig?{0xBE01}[0x000A]Woraus die wohl besteht? Ich bin sehr gut im[0x000A]Tanzen, ob das hilft?
+msg_t0301_g0101_npc2_02=Also, dass man hier Wolly durch die Gegend[0x000A]scheuchen muss...{0xBE01}[0x000A]Vielleicht ist Yarro ja doch nicht so lieb und nett,[0x000A]wie er tut!
+msg_t0301_g0101_npc3_01=Du bist doch ein Arena-Challenger, oder?[0x000A]Wenn du dir den Pflanzen-Orden schnappst,{0xBE00}[0x000A]merk ich mir deinen Namen!
+msg_t0301_g0101_npc3_02=Du bist doch {0x0100,0x0000}, oder?[0x000A]Das war super! Ich bin jetzt dein Fan!
+msg_t0301_g0101_poke1_01_pop=Sensect!
+msg_t0301_g0101_npc4_01_pop=Ob {0x1100,0x00FF,0x0303,0x0000}derdie da auch ein[0x000A]Arena-Challenger ist?
+msg_t0301_g0101_npc4_02_pop=Du hast Yarro bezwungen![0x000A]Das war ein klasse Match!
+msg_t0301_g0101_npc4_03_pop=Wow, der Champ!
+msg_t0301_g0101_npc5_01_pop=Dieser Trainer hat wohl eine[0x000A]Empfehlung von Delion.
+msg_t0301_g0101_npc5_02_pop={0x1100,0x00FF,0x0303,0x0000}DerDie macht sich gar nicht[0x000A]schlecht!
+msg_t0301_g0101_npc5_03_pop=Ich hab dich im Fernsehen[0x000A]gesehen! ♪
+msg_t0301_g0101_npc6_01_pop=Dieser Trainer da soll[0x000A]Hops {0x1100,0x00FF,0x0706,0x0000}RivaleRivalin sein.
+msg_t0301_g0101_npc6_02_pop={0x1100,0x00FF,0x0302,0x0000}ErSie könnte sich zum[0x000A]Geheimtipp mausern...

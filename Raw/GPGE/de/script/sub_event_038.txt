@@ -1,0 +1,8 @@
+msg_sub038_adultm_01=Ich... Ich kann einfach keine Pokémon trainieren.{0xBE01}[0x000A]Es tut mir auch total leid, dass dieses Glumanda[0x000A]immer noch so schwach ist.{0xBE01}[0x000A]Ich würde es gerne einem fähigeren Trainer[0x000A]übergeben, der es richtig trainiert.
+msg_sub038_adultm_05=Du hast also bisher {0x0208,0x0000,0x202F} Pokémon[0x000A]gefangen...?
+msg_sub038_adultm_06=Boah, wie cool! Ich will, dass du dich ab jetzt[0x000A]um mein Glumanda kümmerst. Einverstanden?
+msg_sub038_adultm_02=Also dann, ich verlass mich auf dich!
+msg_sub038_adultm_07=Also ich hab {0x0202,0x0000} Pokémon gefangen.{0xBE01}[0x000A]Du musst schon mindestens so viele fangen wie[0x000A]ich, sonst verdienst du mein Glumanda nicht!
+msg_sub038_adultm_03=Oh, verstehe...{0xBE01}[0x000A]Vielleicht übergeb ich’s dann einfach dem[0x000A]Professor.
+msg_sub038_adultm_04=Na, wie geht es Glumanda? Ist es schon stärker[0x000A]geworden?
+msg_sub038_poke_01={0xFF00,0x0009}Glumanda:{0xFF00,0x0000} Glulu!

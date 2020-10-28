@@ -1,0 +1,28 @@
+Nexo Pokémon
+Sí
+No
+Información
+¿Quieres recibir los datos del Nexo Pokémon?
+{0xBDFF:0x0005}
+Recibiendo los datos...[0x000A]No apagues la consola.
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+No se han podido encontrar los datos.{0xBE01}[0x000A]Es necesario que envíes los datos desde[0x000A]un programa descargable para Nintendo 3DS{0xBE00}[0x000A]que sea compatible con el Nexo Pokémon.{0xBE01}
+{0xBDFF:0x000B}
+No se pueden recibir los datos.{0xBE01}[0x000A]Para poder recibirlos, es necesario que haya[0x000A]seis espacios libres en las cajas.{0xBE01}[0x000A]Reorganiza tus cajas e inténtalo de nuevo.{0xBE01}
+Se ha completado la transferencia de[0x000A]Pokémon.{0xBE05,0x0000}{0xBE01}
+Se ha completado la transferencia de objetos[0x000A]a la Bolsa.{0xBE05,0x0000}{0xBE01}
+Los datos recibidos están dañados.{0xBE01}
+Se están reinicializando los datos...
+Se han restablecido los datos.{0xBE01}[0x000A]Inicia el programa descargable y envía los[0x000A]datos de nuevo.{0xBE01}
+No se pueden recibir los datos.{0xBE01}[0x000A]Empieza una partida nueva y selecciona[0x000A]“Guardar” una vez que hayas obtenido{0xBE00}[0x000A]la Pokédex.{0xBE01}
+{0xBDFF:0x0013}
+Se han recibido los datos de[0x000A]{0x0196,0x0001}.{0xBE05,0x0000}{0xBE01}
+Has enviado {0x0206,0x0001,0xE07F} Poké Milla{0x1101,0x0001,0x0100}s a[0x000A]{0x0100,0x0002}.{0xBE05,0x0000}{0xBE01}
+Has enviado {0x0206,0x0001,0xE07F} Punto{0x1101,0x0001,0x0100}s de Batalla a[0x000A]{0x0100,0x0002}.{0xBE05,0x0000}{0xBE01}
+Se ha completado la transferencia de Huevos.{0xBE05,0x0000}{0xBE01}
+Se ha completado la transferencia de bayas[0x000A]a la Bolsa.{0xBE05,0x0000}{0xBE01}
+{0xBDFF:0x0019}
+Puedes enviar datos desde un programa[0x000A]descargable para Nintendo 3DS que sea{0xBE00}[0x000A]compatible con el Nexo Pokémon.{0xBE01}[0x000A]Los Pokémon y objetos que recibas se[0x000A]enviarán directamente a tu Bolsa o a tus{0xBE00}[0x000A]Cajas.{0xBE01}
+Se ha completado la transferencia de MT[0x000A]a la Bolsa.{0xBE05,0x0000}{0xBE01}

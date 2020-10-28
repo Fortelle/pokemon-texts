@@ -1,0 +1,8 @@
+Nouvelle photo
+Prendre une photo
+Bouton Y :[0x000A]- Changer le niveau de zoom[0x000A][0x000A]Bouton L/Bouton R :[0x000A]- Pivoter vers la gauche/droite[0x000A][0x000A]Haut/Bas sur la manette + :[0x000A]- Déplacer vers le haut ou le bas (en gros plan)
+Bouton Y/Bouton X :[0x000A]- Zoom avant/arrière[0x000A][0x000A]Bouton L/Bouton R :[0x000A]- Pivoter vers la gauche/droite[0x000A][0x000A]Haut/Bas/Gauche/Droite sur la manette + :[0x000A]- Modifier la position
+Voulez-vous sauvegarder cette photo[0xE07F]?
+Oui
+Non
+La photo a été sauvegardée[0xE07F]!

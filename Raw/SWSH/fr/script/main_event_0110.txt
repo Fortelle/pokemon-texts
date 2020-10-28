@@ -1,0 +1,12 @@
+main_event_0110_rival_01=Mais c’est pas parce que tu as un Pokémon[0x000A]que ça y est, t’es Dresseu{0x1100,0x00FF,0x0201}rse !{0xBE01}[0x000A]Y’a un entraînement à suivre, avant.[0x000A]Faut se préparer aux combats Pokémon, tout ça !{0x0114,0x0005}
+main_event_0110_champion_01=Exactement ! Et je peux vous dire qu’il n’y a[0x000A]rien de mieux que la pratique !{0xBE01}[0x000A]Je vous propose donc de faire un petit[0x000A]combat amical, tous les deux !{0xBE01}[0x000A]On va voir comment vous vous débrouillez !{0x0114,0x0004}
+main_event_0110_champion_02=Alors, tu es prêt{0x1100,0x00FF,0x0100}e à goûter au premier[0x000A]combat Pokémon de ta vie ?{0x0114,0x0004}
+main_event_0110_champion_03=Dans ce cas, laisse-moi te donner un petit conseil.{0xBE01}[0x000A]Histoire de ne rien perdre de ta progression,[0x000A]pense à sauvegarder avant de combattre !{0x0114,0x0004}
+main_event_0110_champion_04=Croyez fort en votre partenaire et prenez[0x000A]bien soin de lui ! C’est la base.{0xBE01}[0x000A]Mieux vous le connaîtrez, plus ce sera facile[0x000A]de choisir les bonnes capacités, et vos combats{0xBE00}[0x000A]seront plus gratifiants !{0x0114,0x0004}
+main_event_0110_champion_05=OK, tout le monde est là ?[0x000A]Alors, go !{0x0114,0x0004}
+main_event_0110_rival_02=J’ai vu tous les combats de mon frangin à la télé,[0x000A]et j’ai lu tous ses bouquins sur les Pokémon !{0xBE01}[0x000A]Je suis quasiment un expert, en fait ![0x000A]Je vais forcément gagner !{0x0114,0x0005}
+main_event_0110_rival_03=J’hallucine... T’es super balèze, en fait !{0xBE01}[0x000A]Normal que mon frangin ait décidé de te donner[0x000A]un Pokémon, à toi aussi !{0x0114,0x0005}
+main_event_0110_rival_04=Le prends pas mal. J’ai potassé de ouf, je te dis.{0xBE01}[0x000A]Mais tu vois, avoir un Pokémon, ça fait pas tout.[0x000A]Faut bosser dur.{0x0114,0x0005}
+main_event_0110_champion_06=C’était un superbe combat ![0x000A]Vous avez tout donné, et ça se voit !{0xBE01}[0x000A]J’avoue que j’ai failli me joindre à vous en[0x000A]envoyant Dracaufeu, tellement ça avait l’air bien.{0xBE01}[0x000A]Bref ! Après l’effort, le réconfort ![0x000A]Venez ici, que je soigne vos Pokémon !{0x0114,0x0004}
+main_event_0110_champion_07=En tout cas, {0x0100,0x0000}, tu as du talent ![0x000A]Tu seras un{0x1100,0x0000,0x110E} rival parfaite rivale parfaite pour Nabil !{0x0114,0x0004}
+main_event_0110_rival_05=Moi et {0x0101,0x0002}, on est partants[0x000A]pour un combat quand tu veux !{0x0114,0x0005}

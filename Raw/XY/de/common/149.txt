@@ -1,0 +1,28 @@
+Pokémon-Link
+Ja
+Nein
+Details
+Möchtest du versuchen, per Pokémon-Link[0x000A]Daten zu empfangen?
+{0xBDFF:0x0005}
+Datenempfang wird ausgeführt...[0x000A]Bitte das System nicht ausschalten.
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+Es konnten keine Daten gefunden werden.{0xBE01}[0x000A]Bitte sende mit Nintendo 3DS Download[0x000A]Software, die mit Pokémon-Link kompatibel{0xBE00}[0x000A]ist, Daten.{0xBE01}
+{0xBDFF:0x000B}
+Es konnten keine Daten empfangen werden.{0xBE01}[0x000A]Um Daten empfangen zu können, muss in[0x000A]deinen Boxen Platz für mindestens sechs{0xBE00}[0x000A]Pokémon sein.{0xBE01}[0x000A]Bitte verwalte deine Boxen und versuche es[0x000A]dann noch einmal.{0xBE01}
+Pokémon-Transfer in die Boxen[0x000A]abgeschlossen.{0xBE05,0x0000}{0xBE01}
+Item-Transfer in den Beutel abgeschlossen.{0xBE05,0x0000}{0xBE01}
+Die empfangenen Daten sind fehlerhaft.{0xBE01}
+Daten werden formatiert...
+Die Daten wurden formatiert.{0xBE01}[0x000A]Starte die herunterladbare Software[0x000A]und sende neue Daten.{0xBE01}
+Es konnten keine Daten empfangen werden.{0xBE01}[0x000A]Um Daten empfangen zu können, muss ein[0x000A]Spielstand vorliegen, mit dem du bereits{0xBE00}[0x000A]den Pokédex erhalten hast.{0xBE01}
+{0xBDFF:0x0013}
+Daten von {0x0196,0x0001}[0x000A]wurden erfolgreich übertragen.{0xBE05,0x0000}{0xBE01}
+{0x0206,0x0001,0x0020} Poké-Meile{0x1101,0x0001,0x0100}n wurde{0x1101,0x0001,0x0100}n auf das Konto[0x000A]von {0x0100,0x0002} übertragen.{0xBE05,0x0000}{0xBE01}
+{0x0206,0x0001,0x0020} Gewinnpunkt{0x1101,0x0001,0x0100}e wurde{0x1101,0x0001,0x0100}n auf das[0x000A]Konto von {0x0100,0x0002} übertragen.{0xBE05,0x0000}{0xBE01}
+Eier-Transfer in die Boxen abgeschlossen.{0xBE05,0x0000}{0xBE01}
+Beeren-Transfer in den Beutel[0x000A]abgeschlossen.{0xBE05,0x0000}{0xBE01}
+{0xBDFF:0x0019}
+Empfange Daten von Nintendo 3DS Download[0x000A]Software, die mit Pokémon-Link kompatibel ist.{0xBE01}[0x000A]Pokémon und Items, die du auf diese Weise[0x000A]erhältst, wandern automatisch in den Beutel.{0xBE01}
+TM-Transfer in den Beutel abgeschlossen.{0xBE05,0x0000}{0xBE01}

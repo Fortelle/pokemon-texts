@@ -1,0 +1,14 @@
+poke_waza_dragon_01_01=Draco-Météore, c’est la plus puissante[0x000A]des capacités de type Dragon !{0xBE01}[0x000A]Veux-tu que j’enseigne cette technique[0x000A]à un de tes Pokémon ?
+poke_waza_dragon_01_02=C’est ton choix, et je le respecte. Une capacité[0x000A]aussi puissante n’est pas facile à maîtriser !
+poke_waza_dragon_01_03=Ce Pokémon pourrait sans doute apprendre[0x000A]cette capacité formidable, mais j’ai bien peur{0xBE00}[0x000A]qu’il ne se soit pas encore suffisamment{0xBE00}[0x000A]lié d’amitié avec toi...
+poke_waza_dragon_01_04=Navré, mais {0x1101,0x00FD,0x1C17}ton Pokémon ne peut pasaucun de tes Pokémon ne peut[0x000A]apprendre cette technique !{0xBE01}[0x000A]Reviens me voir lorsque tu auras[0x000A]un Pokémon adéquat !
+poke_waza_dragon_01_05=Très bien.[0x000A]Choisis celui qui devra apprendre ma capacité !
+poke_waza_dragon_01_06=Désolé, mais ce Pokémon ne peut pas apprendre[0x000A]cette capacité !
+poke_waza_dragon_01_07=C’est un Œuf...[0x000A]Je ne peux pas lui apprendre de capacité.
+poke_waza_dragon_01_08=Ce Pokémon connaît déjà Draco-Météore...
+poke_waza_dragon_01_09=Draco-Météore est certes la plus puissante[0x000A]des attaques de type Dragon, mais sache que{0xBE00}[0x000A]l’Attaque Spéciale de ton Pokémon baissera{0xBE00}[0x000A]beaucoup après chaque utilisation !
+poke_waza_dragon_sys_01=Choisissez une capacité à oublier pour[0x000A]faire place à {0x0107,0x0000}.
+poke_waza_dragon_sys_02={0x0102,0x0000} apprend[0x000A]{0x0107,0x0001} !{0xBE05,0x0004}{0xBE05,0x0001}
+poke_waza_dragon_sys_03=1{0xBE02:0x0014}, 2{0xBE02:0x0014}, ...{0xBE02:0x0014} ...{0xBE02:0x0014} Tadaaa !{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} a oublié {0x0107,0x0001}.{0xBE01}[0x000A]Et...{0xBE01}[0x000A]Il apprend {0x0107,0x0002} !{0xBE05,0x0004}{0xBE05,0x0001}
+poke_waza_dragon_sys_04={0x0102,0x0000} n’a pas appris[0x000A]{0x0107,0x0001}.
+poke_waza_dragon_01_10=Quelle capacité doit-il oublier ?

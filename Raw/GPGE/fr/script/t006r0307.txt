@@ -1,0 +1,10 @@
+msg_t006r0307_cook_01=Hé ! Toi, là ! Y’en a qui bossent dur, ici ![0x000A]Alors dégage !
+msg_t006r0307_cook_02=On se sert de cloches en argent pour protéger[0x000A]la nourriture et éviter qu’elle ne refroidisse !
+msg_t006r0307_cook_03=J’ai trop de boulot ! J’en ai des vertiges !
+msg_t006r0307_cook_04=Pourquoi ? Pourquoi moi ?![0x000A]J’suis tout l’temps d’corvée d’épluchage !
+msg_t006r0307_cook_05=Tu connais Ronflex ? Il passe ses journées[0x000A]à manger et à dormir !{0xBE01}[0x000A]Niveau Pokémon Pionceur, on ne fait pas mieux[0x000A]que lui !
+msg_t006r0307_cook_06=J’en ai marre d’éplucher...[0x000A]*Snif snif*{0xBE01}[0x000A]Et pis, ça pique les yeux, en plus ![0x000A]*Snif*
+msg_t006r0307_cook_07_01=Hum, hum ! Je suis le chef cuistot ![0x000A]Voilà le menu :
+msg_t006r0307_cook_07_02=Des Sushis Tourbillon bien frais !{0xBE01}[0x000A]Pour ceux qui ne sont pas contents, c’est la[0x000A]même chose !
+msg_t006r0307_cook_07_03=Des Crok’Argenta, le vrai goût de Kanto !{0xBE01}[0x000A]De quoi donner des envies de mutinerie !
+msg_t006r0307_cook_07_04=Un Steak Fonceur bien juteux !{0xBE01}[0x000A]Est-ce qu’il y en aura assez pour tout[0x000A]le monde ?

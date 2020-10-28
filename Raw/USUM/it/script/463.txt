@@ -1,0 +1,10 @@
+Il tronco dell’albero emana un odore pungente...{0xBE01}[0x000A]Vuoi raccogliere la Baccamango caduta[0x000A]ai piedi dell’albero?
+Il tronco dell’albero emana un odore dolce...{0xBE01}[0x000A]Vuoi raccogliere la Baccamango caduta[0x000A]ai piedi dell’albero?
+Il tronco dell’albero emana un odore agrodolce...{0xBE01}[0x000A]Vuoi raccogliere la Baccamango caduta[0x000A]ai piedi dell’albero?
+{0x0100,0x0000} raccoglie la Baccamango[0x000A]e la ripone nel Portaingredienti.
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+Hai già preso una Baccamango in questo punto![0x000A]Vai a cercare gli ingredienti da un’altra parte.
+Hai già raccolto una Baccamango in un altro[0x000A]punto. Vuoi scambiarla con questa?
+Hai riportato la Baccamango nel punto in cui[0x000A]l’avevi trovata.

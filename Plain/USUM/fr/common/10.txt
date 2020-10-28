@@ -1,0 +1,251 @@
+<var>
+<var>
+<var>
+<var>
+<var>
+
+
+-
+l
+Nº Pokédex
+???
+Nom
+Type
+D.O.
+<var>
+PV
+/
+Attaque
+Défense
+Atq. Spé.
+Déf. Spé.
+Vitesse
+Nature
+<var>
+Talent
+<var>
+Objet
+<var>
+Capacités
+<var>
+<var>
+Juge
+Équipe
+
+Groupe 1
+Groupe 2
+Groupe 3
+Déplacer
+Résumé
+Objet
+Marquer
+Relâcher
+Retirer
+Autres Boîtes
+Fonds
+Nom
+Ranger
+Donner
+Assigner
+Quitter
+Paysage 1
+Paysage 2
+Paysage 3
+Autres
+Forêt
+Ville
+Désert
+Savane
+Rochers
+Volcan
+Neige
+Grotte
+Plage
+Mer
+Rivière
+Ciel
+Centre Pokémon
+Métal
+Vichy
+Uni
+Retour
+OK
+Oui
+Non
+Voulez-vous quitter cet écran ?
+<var> sélectionné.
+Il vous faut au moins un Pokémon en forme !
+Boîte sélectionnée.
+Voulez-vous renommer votre équipe ?
+Aller à quelle Boîte ?
+Choisissez un thème.
+Choisissez un fond.
+Prendre <var> ?
+<var> rangéeses dans le Sac.
+Vous avez trop d'exemplaires de cet objet !
+Un Œuf ne peut pas tenir un objet.
+Veuillez effectuer le marquage.
+Relâcher ce Pokémon ?
+<var> a été relâché.
+Bye-bye, <var> !
+Sélection : <var>
+Le Pokémon peut tenir un objet.
+Un Œuf ne peut pas être relâché !
+Un Pokémon fusionné ne peut pas être relâché !
+Impossible d'assigner un Œuf.
+À quelle équipe voulez-vous l'assigner ?
+Voulez-vous retourner à Poké Loisir ?
+Reprendre <var> ?
+Vous avez repris <var> !
+Échanger
+Déposer
+Reprendre
+Quitter
+Oui
+Non
+Vous allez procéder à un échange de Pokémon. Continuer ?
+Voulez-vous le retirer de votre Équipe Combat et l'échanger ?
+Ce Pokémon ne peut pas être échangé.
+Vous avez besoin de ce Pokémon pour progresser dans l'aventure !
+L'échange d'Œufs est impossible.
+Il est impossible d'échanger un Pokémon enregistré dans votre Équipe Combat.
+C'est un Pokémon très spécial. Vous ne pouvez pas l'échanger !
+Ce Pokémon tient un objet très spécial. Vous ne pouvez pas l'échanger !
+Communication en cours... Veuillez patienter.
+Votre Équipe Combat est verrouillée. Impossible de retirer ce Pokémon.
+Il est impossible de déplacer un Pokémon enregistré dans une Équipe Combat verrouillée.
+Votre Équipe Combat est verrouillée. Impossible de changer les objets tenus.
+Votre Équipe Combat est verrouillée. Impossible de marquer les Pokémon.
+Ce Pokémon vous a été confié par Sina. Vous ne pouvez pas le relâcher.
+Ce Pokémon vous a été confié par Sina. Vous ne pouvez pas l'échanger.
+Votre Équipe Combat est verrouillée. Impossible d'ajouter ce Pokémon.
+Impossible de relâcher un Pokémon enregistré dans votre Équipe Combat.
+Impossible d'ajouter un Pokémon d'une Équipe Combat à un groupe.
+En attente d'une réponse... Veuillez patienter.
+Encore :
+
+Pas top...
+Passable...
+Bon !
+Très bon !
+Fantastique !
+Exceptionnel !
+Potentiel correct
+Potentiel supérieur à la moyenne
+Potentiel bien supérieur à la moyenne
+Potentiel exceptionnel !
+Réinitial.
+Chercher
+
+Pokémon
+<var>
+Type 1
+<var>
+Type 2
+<var>
+Capacité
+<var>
+CT
+<var>
+Talent
+<var>
+Nature
+<var>
+Sexe
+♂
+♀
+?
+Objet
+<var>
+Marque
+Avec
+Sans
+Équipe Combat
+Dans une équipe
+Dans aucune équipe
+Équipe
+
+Définissez vos critères et appuyez sur Chercher pour activer la recherche.
+Choisissez la première lettre du nom du Pokémon recherché.
+Veuillez choisir un Pokémon.
+Choisissez le premier type du Pokémon recherché.
+Choisissez le second type du Pokémon recherché.
+Choisissez la première lettre du nom d'une capacité apprise par le Pokémon recherché.
+Choisissez une capacité.
+Sélectionnez une CT utilisable par le Pokémon recherché.
+Saisissez la première lettre du nom du talent possédé par le Pokémon recherché.
+Choisissez un talent.
+Choisissez la nature du Pokémon recherché.
+Choisissez le sexe du Pokémon recherché.
+Choisissez si le Pokémon recherché tient un objet ou non.
+Sélectionnez le marquage du Pokémon recherché.
+Permet d'examiner les Pokémon assignés à une Équipe Combat.
+Permet d'examiner les Pokémon assignés à l'Équipe Combat sélectionnée.
+<var>
+<var>
+<var>
+<var>
+<var>
+Progresse de façon équilibrée.
+Progresse rapidement en Attaque, lentement en Défense.
+Progresse rapidement en Attaque, lentement en Vitesse.
+Progresse rapidement en Attaque, lentement en Attaque Spéciale.
+Progresse rapidement en Attaque, lentement en Défense Spéciale.
+Progresse rapidement en Défense, lentement en Attaque.
+Progresse de façon équilibrée.
+Progresse rapidement en Défense, lentement en Vitesse.
+Progresse rapidement en Défense, lentement en Attaque Spéciale.
+Progresse rapidement en Défense, lentement en Défense Spéciale.
+Progresse rapidement en Vitesse, lentement en Attaque.
+Progresse rapidement en Vitesse, lentement en Défense.
+Progresse de façon équilibrée.
+Progresse rapidement en Vitesse, lentement en Attaque Spéciale.
+Progresse rapidement en Vitesse, lentement en Défense Spéciale.
+Progresse rapidement en Attaque Spéciale, lentement en Attaque.
+Progresse rapidement en Attaque Spéciale, lentement en Défense.
+Progresse rapidement en Attaque Spéciale, lentement en Vitesse.
+Progresse de façon équilibrée.
+Progresse rapidement en Attaque Spéciale, lentement en Défense Spéciale.
+Progresse rapidement en Défense Spéciale, lentement en Attaque.
+Progresse rapidement en Défense Spéciale, lentement en Défense.
+Progresse rapidement en Défense Spéciale, lentement en Vitesse.
+Progresse rapidement en Défense Spéciale, lentement en Attaque Spéciale.
+Progresse de façon équilibrée.
+
+<var>
+/
+Les Boîtes sont des réceptacles où vous pouvez déposer vos Pokémon. Une fois déposés, vous pouvez les organiser comme bon vous semble. Il est possible de vous connecter à vos Boîtes depuis le PC de n'importe quel Centre Pokémon.
+Il y a trois modes de sélection dans les Boîtes. Appuyez sur le bouton X pour passer d'un mode à l'autre. Le premier mode permet de ranger les Boîtes, par exemple en intervertissant les Pokémon de la Boîte avec ceux de votre équipe, ou en les réorganisant selon votre goût.
+Le deuxième mode permet de ranger les objets tenus par les Pokémon. Vous pouvez ainsi donner un objet à chaque Pokémon, ou intervertir les objets tenus par ces Pokémon.
+Le troisième mode permet de créer jusqu'à six Équipes Combat, composées de Pokémon prêts à se battre. Il est possible d'enregistrer le même Pokémon dans plusieurs Équipes Combat, ce qui vous permet d'essayer toutes sortes de variations.
+START et SELECT permettent de changer les contrôles. Les contrôles par défaut sont utilisés quand le curseur est rouge. Le curseur bleu permet d'intervertir rapidement les Pokémon. Enfin, le curseur vert permet de sélectionner plusieurs Pokémon d'un seul coup.
+Le bouton Y permet de chercher des Pokémon selon les critères de votre choix, par exemple en fonction de leur nom, de leur type ou des capacités qu'ils connaissent.
+
+Montrez-moi vos Pokémon !
+J'aimerais obtenir ce Pokémon en échange du mien !
+J'aimerais voir d'autres Pokémon.
+Je n'ai pas d'autre Pokémon.
+À votre bon cœur !
+Merci !
+Pardon.
+Au revoir !
+J'aimerais échanger mon Pokémon contre un <var> !
+Je regarde les stats du Pokémon...
+J'envoie <var> à l'échange.
+Je cherche un Pokémon...
+...
+Votre Pokémon
+Son Pokémon
+Interrompre
+L'autre joueur a interrompu l'échange.
+L'échange a été interrompu.
+Un problème avec le Pokémon de l'autre joueur rend tout échange impossible.
+Voulez-vous arrêter d'échanger des Pokémon ?
+Fin des échanges.
+Interruption de la connexion... Veuillez patienter.
+Si vous échangez ce Pokémon, vous récupérerez <var>. Continuer ?
+Un problème avec votre Pokémon rend tout échange impossible.
+La communication a échoué.
+Au max !
+Les Œufs n'ont rien à faire ici...
+Vous ne pouvez pas sélectionner ce Pokémon.

@@ -1,0 +1,5 @@
+msg_t009r0202_diary_01="Diario: 5 de julio{0xBE01}[0x000A]Se ha descubierto un nuevo tipo de Pokémon en[0x000A]la espesura de la selva".
+msg_t009r0202_diary_02="Diario: 10 de julio[0x000A]Hemos llamado Mew a este nuevo Pokémon".
+msg_t009r0202_switch_01={0xBDFF:0x0002}
+msg_t009r0202_switch_02={0xBDFF:0x0003}
+msg_t009r0202_switch_03={0xBDFF:0x0004}

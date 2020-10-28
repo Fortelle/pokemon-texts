@@ -1,0 +1,17 @@
+main_event_1440_assistant_07={0x0100,0x0000} ! Félicitations pour ta victoire[0x000A]contre Roy ! Je suis super contente pour toi !{0x0114,0x000B}
+main_event_1440_assistant_01=Il faudra qu’on fête ta réussite au Défi[0x000A]des Arènes ! Allez, joins-toi à nous deux minutes !{0x0114,0x000B}
+main_event_1440_assistant_02=Grand-mère, tu avais raison pour la lumière[0x000A]qui a illuminé Kickenham...{0xBE01}[0x000A]Elle correspond en tout point aux descriptions[0x000A]de la Nuit Noire qui a failli détruire Galar,{0xBE00}[0x000A]avec tous les Pokémon qui se dynamaxaient...{0x0114,0x000B}
+main_event_1440_doctor_01=C’est ce que je craignais...{0xBE01}[0x000A]Comme tu le sais déjà, c’est l’énergie contenue[0x000A]dans les Étoiles Vœu tombées sur terre{0xBE00}[0x000A]qui nous permet de dynamaxer les Pokémon.{0x0114,0x000A}
+main_event_1440_doctor_02=Mais nous ignorons toujours comment contrôler[0x000A]cette énergie.{0xBE01}[0x000A]Toutefois, si nous pouvions déterminer[0x000A]qui étaient les deux héros de la légende,{0xBE00}[0x000A]nous trouverions peut-être un indice à ce sujet...{0x0114,0x000A}
+main_event_1440_assistant_03=L’épée et le bouclier légendaires...{0x0114,0x000B}
+main_event_1440_doctor_03=Sonya, ma chère petite-fille. Je pense qu’il est[0x000A]temps que tu hérites de ma blouse blanche.{0x0114,0x000A}
+main_event_1440_assistant_08=Tu... tu es sûre, grand-mère ?[0x000A]Je n’ai pas encore fini mes travaux de recherche...{0x0114,0x000B}
+main_event_1440_doctor_06=Justement, c’est peut-être le coup de pouce[0x000A]qu’il te faut.{0x0114,0x000A}
+main_event_1440_seelct_01=Professeure Sonya !
+main_event_1440_seelct_02=Trop classe !
+main_event_1440_assistant_09=Je... je sais pas quoi dire...[0x000A]Je suis super émue !{0x0114,0x000B}
+main_event_1440_doctor_04=Pour découvrir la vérité, il est primordial[0x000A]d’en apprendre plus sur la Nuit Noire{0xBE00}[0x000A]et les deux héros qui l’ont repoussée par le passé.{0xBE01}[0x000A]Tu es clairement la mieux placée pour démêler[0x000A]l’Histoire de la légende.{0x0114,0x000A}
+main_event_1440_assistant_04=Merci, grand-mère !{0x0114,0x000B}
+main_event_1440_assistant_05=Je vais m’occuper de toute cette histoire,[0x000A]donc concentre-toi sur la compétition !{0xBE01}[0x000A]Je tiens absolument à ce que Nabil ou toi[0x000A]vous battiez contre Tarak en finale !{0xBE01}[0x000A]Allez, va vite à Winscor ![0x000A]Dépêche-toi ou tu vas rater ton train !{0x0114,0x000B}
+main_event_1440_assistant_06=La gare se trouve près de la Route 7.[0x000A]Vas-y, tu as un tournoi à remporter !{0x0114,0x000B}
+main_event_1440_doctor_05=Vous, les jeunes, vous êtes capables de tout.[0x000A]Mais il revient aux adultes de s’occuper{0xBE00}[0x000A]de certaines choses. Chacun son rôle.{0x0114,0x000A}

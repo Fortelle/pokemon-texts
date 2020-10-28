@@ -1,0 +1,11 @@
+main_event_1640_administrator_02=Bienvenue à l’étage exclusivement réservé[0x000A]au président Shehroz.{0xBE00}[0x000A]Nous sommes à 300 mètres d’altitude.{0x0114,0x0007}
+main_event_1640_administrator_03=Je vois que vous avez su vous défaire[0x000A]de mes subalternes. Impressionnant.{0xBE01}[0x000A]Je commence à entrevoir pourquoi Tarak[0x000A]vous a porté tant d’intérêt.{0x0114,0x0007}
+main_event_1640_administrator_04=Mais assez joué.[0x000A]Il est temps de rentrer chez vous, maintenant.{0x0114,0x0007}
+main_event_1640_administrator_05=Car, voyez-vous...{0x0114,0x0007}
+main_event_1640_administrator_06=... je ne laisserai jamais personne se dresser[0x000A]en travers du chemin de monsieur Shehroz !{0x0114,0x0007}
+main_event_1640_administrator_07=Commençons par toi, {0x0100,0x0000} !{0xBE01}[0x000A]Si je te mets hors d’état de nuire,[0x000A]le Maître arrêtera de ne penser qu’à ce combat{0xBE00}[0x000A]et écoutera enfin les sages paroles du président !{0x0114,0x0007}
+main_event_1640_administrator_08=Ah ! Quelle erreur... Je n’aurais pas dû[0x000A]sous-estimer un{0x1100,0x00FF,0x0100}e Challenger finaliste...{0x0114,0x0007}
+main_event_1640_administrator_09=Je comptais vous retenir par tous les moyens[0x000A]possibles, mais après tout... Peu importe !{0xBE01}[0x000A]Les Étoiles Vœu ont été rassemblées,[0x000A]c’est tout ce qui compte.{0x0114,0x0007}
+main_event_1640_rival_01=Tu gères, {0x0100,0x0000} ![0x000A]Vous faites vraiment une équipe du tonnerre,{0xBE00}[0x000A]avec {0x0101,0x0001} !{0x0114,0x0005}
+main_event_1640_rival_02=Fais gaffe, {0x0100,0x0000}...{0x0114,0x0005}
+main_event_1640_administrator_10=Monsieur le président...[0x000A]Je continuerai les préparatifs pour vous...{0x0114,0x0007}

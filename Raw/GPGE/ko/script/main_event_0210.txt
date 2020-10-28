@@ -1,0 +1,10 @@
+msg_main0210_musashi_01=???: 기다려!
+msg_main0210_musashi_02=???: 잠깐![0x000A]그건 우리 화석이거든!
+msg_main0210_kojiro_01=???: 아니~! 어느 틈에[0x000A]앞질러 간 거야! 비겁하게!
+msg_main0210_musashi_04=로사: 우리는 로켓단![0x000A]나는 로사!
+msg_main0210_kojiro_02=로이: 나는 로이!
+msg_main0210_musashi_05=로사: 그 화석은[0x000A]우리가 빼앗아 주겠다!
+msg_main0210_dummy_01={0xBDFF:0x0006}
+msg_main0210_dummy_02={0xBDFF:0x0007}
+msg_main0210_musashi_03=로켓단: 불쌍한 내 인생~!
+msg_main0210_musashi_back=로사: 아니 포켓몬 1마리로는[0x000A]싸울 수가 없잖아!{0xBE01}[0x000A]가서 1마리[0x000A]더 데리고 오라고!

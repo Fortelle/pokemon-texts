@@ -1,0 +1,7 @@
+msg_sub089_jeveniles_no=Schade... Ich wollte dir eigentlich was zeigen,[0x000A]aber das ist mit den Pokémon, die du gerade{0xBE00}[0x000A]im Team hast, ein bisschen schwierig.{0xBE01}[0x000A]Komm doch einfach wieder, wenn du ein paar[0x000A]andere Pokémon hast.
+msg_sub089_jeveniles_01=Wie niedlich, dein Pokémon sitzt auf dir!
+msg_sub089_jeveniles_02=Mir wäre das wahrscheinlich zu schwer.{0xBE01}[0x000A]Ich führe mein Pokémon lieber eine Runde[0x000A]spazieren.
+msg_sub089_poke_01={0xFF00,0x0009}Myrapla:{0xFF00,0x0000} Raaa!
+msg_sub089_sys_01=Öffne einfach das {0xFF00,0x0006}Spielmenü{0xFF00,0x0000} mit dem X-Knopf[0x000A]und schau dir dein „Team“ an.{0xBE01}[0x000A]Hast du dir ein Pokémon ausgesucht, dann wähle[0x000A]die Option „{0xFF00,0x0006}Aus dem Pokéball holen{0xFF00,0x0000}“ und schon{0xBE00}[0x000A]begleitet es dich auf deiner Reise!
+msg_sub089_jeveniles_03=Es gibt nichts Niedlicheres, ich schwöre![0x000A]Pass auf, ich mach das mal für dich...
+msg_sub089_jeveniles_04=Eine Reise macht viel mehr Spaß, wenn man[0x000A]von seinen Pokémon begleitet wird!{0xBE01}[0x000A]Aber das weißt du vermutlich schon, hihi.

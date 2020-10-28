@@ -1,0 +1,11 @@
+msg_strinput_01_01=Quel est votre nom ?
+msg_strinput_01_02=Quel surnom donner à {0x0101,0x0000} ?
+msg_strinput_01_03=Saisissez votre code ou mot de passe.
+msg_strinput_01_04=Quel est le nom de votre rival ?
+msg_strinput_01_05=Veuillez saisir un nom.
+msg_strinput_NG_00=Votre saisie contient un mot interdit.
+msg_strinput_NG_01={0xBDFF:0x0006}
+msg_strinput_NG_02={0xBDFF:0x0007}
+msg_strinput_NG_04=Veuillez saisir un nom.
+msg_strinput_NG_05=Données invalides.
+msg_strinput_NG_06=Vous ne pouvez pas utiliser « {0x012D,0x0000} » dans un nom.

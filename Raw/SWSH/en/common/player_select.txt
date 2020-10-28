@@ -1,0 +1,11 @@
+msg_ui_player_select_01=Choose your photo from the lineup
+msg_ui_player_select_02=Confirm that your information is correct
+msg_ui_player_select_03={0x0189,0x0000}
+msg_ui_player_select_04=Name
+msg_ui_player_select_yes=Yes
+msg_ui_player_select_no=No
+msg_ui_player_select_no_00={0xFF00,0x0006}You can’t change languages after starting your game!{0xFF00,0x0000}
+msg_ui_player_select_no_01={0xFF00,0x0006}For Japanese, you can always switch between kana and kanji from Options.{0xFF00,0x0000}
+msg_ui_player_select_10=Registration complete!
+msg_ui_player_select_20=Now saving...
+msg_ui_player_select_21=Your progress in this game will automatically be saved[0x000A]with the autosave function.

@@ -1,0 +1,9 @@
+msg_t011r0201_youngf_01=¿Conoces al Teniente Surge, el del Gimnasio de[0x000A]Ciudad Carmín? ¡Soy superfán!{0xBE01}[0x000A]¿Cómo dices? ¡¿Que te firmó un Autógrafo?![0x000A]¡Jo, me muero de envidia!
+msg_t011r0201_youngf_02=¡Ahí va! ¡Eres {0x0100,0x0000}, {0x1100,0x00FF,0x0B0A}el Campeónla Campeona,[0x000A]¡¿no?!{0xBE00}[0x000A]¿M-me firmas un a-autógrafo? ¡Porfaplis!
+msg_t011r0201_adultm_01=¿Conoces a Lorelei, del Alto Mando?[0x000A]¡A mí me fascina!{0xBE01}[0x000A]Su fría mirada me resulta tan refrescante como[0x000A]un helado en pleno verano.
+msg_t011r0201_adultm_02=Anda, ¡{0x1100,0x00FF,0x0B0A}el Campeónla Campeona! Tienes que ser muy buen{0x1100,0x00FF,0x0101}oa[0x000A]si has logrado ganar a Lorelei...
+msg_t011r0201_muscle_01=Me molaría ser como Bruno, del Alto Mando.{0xBE01}[0x000A]Tiene un sexto sentido para la lucha y un cuerpo[0x000A]escultural. ¡Parece un armario de tres puertas!
+msg_t011r0201_muscle_02=¡Felicidades, Campe{0x1100,0x00FF,0x0302}ónona!{0xBE01}[0x000A]Por cierto, tú que has podido ver de cerca los[0x000A]músculos de Bruno: ¿está realmente tan cachas?
+msg_t011r0201_juvenilesf_01=Nadie sabe quién es el Líder de Gimnasio de[0x000A]Ciudad Verde.{0xBE01}[0x000A]Jo, ¿quién será? ¡Me pica la curiosidad!
+msg_t011r0201_juvenilesf_02=¿Entonces el Líder de Gimnasio de Ciudad Verde[0x000A]era el Jefe del Team Rocket?{0xBE01}[0x000A]¿Y tú ganaste a alguien así? ¡Qué pasada! ¡Eres[0x000A]genial! Soy fan tuya a partir de ahora.
+test_00={0xBDFF:0x0008}

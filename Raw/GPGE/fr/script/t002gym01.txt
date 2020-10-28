@@ -1,0 +1,8 @@
+msg_t002gym01_gym_01=Salut, Champion{0x1100,0x00FF,0x0200}ne en herbe !{0xBE01}[0x000A]Tu vas rire : même moi, je ne sais pas qui est[0x000A]le Champion de Jadielle !{0xBE01}[0x000A]Tu peux tenter ta chance car tu possèdes[0x000A]{0xFF00,0x0006}sept Badges{0xFF00,0x0000} ! Mais sache que le Champion{0xBE00}[0x000A]de cette Arène sera plus redoutable que tous{0xBE00}[0x000A]ceux que tu as affrontés jusqu’à présent.{0xBE01}[0x000A]Ah, et pour info... Il paraît que les Dresseurs[0x000A]de cette Arène aiment les Pokémon de type Sol !
+msg_t002gym01_gym_02=Quoi ?! C’était Giovanni, le Champion ?[0x000A]Ben ça alors ! Je ne l’avais pas reconnu,{0xBE00}[0x000A]dans la pénombre.
+msg_t002gym01_gym_03=Le nouveau Champion d’Arène est là !
+msg_t002gym01_green_01={0xFF00,0x0009}Blue : {0xFF00,0x0000}Hé, salut ! Je te manquais et t’as pas[0x000A]pu t’empêcher de venir me voir, j’parie.{0xBE00}[0x000A]Je comprends, je me manquerais aussi.{0xBE01}[0x000A]Maintenant que je suis Champion, je passe[0x000A]mon temps à donner des conseils aux guignols{0xBE00}[0x000A]de tout Kanto.{0xBE01}[0x000A]Je sais, ma bonté me perdra...
+msg_t002gym01_poke_01={0xFF00,0x0009}Persian :{0xFF00,0x0000} Peeer...
+msg_t002gym01_statue_01=Arène Pokémon de Jadielle
+msg_t002gym01_statue_02=Arène Pokémon de Jadielle{0xBE01}[0x000A]Champion : Giovanni[0x000A]Vainqueurs : {0x0100,0x0000}
+msg_t002gym01_statue_03=Arène Pokémon de Jadielle{0xBE01}[0x000A]Champion : Giovanni[0x000A]Vainqueurs : {0x0100,0x0000}{0xBE01}[0x000A]Champion : Blue[0x000A]Vainqueurs : {0x0100,0x0001}

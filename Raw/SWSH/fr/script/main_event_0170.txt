@@ -1,0 +1,15 @@
+main_event_0170_champion_01=Nabil ! {0x0100,0x0000} !{0x0114,0x0004}
+main_event_0170_rival_01=Fran... frangin ? Comment tu nous as trouvés ?[0x000A]T’as zéro sens de l’orientation...{0x0114,0x0005}
+main_event_0170_champion_02=Ah bah d’accord ! Dire que je me faisais du souci[0x000A]pour vous ! C’est comme ça qu’on me remercie ?!{0xBE01}[0x000A]Je vous ai attendus trois plombes, hein.[0x000A]Mais vu que personne ne se pointait,{0xBE00}[0x000A]j’ai fini par partir à votre recherche.{0x0114,0x0004}
+main_event_0170_rival_02=... Moumouton ! Où est le Moumouton ?![0x000A]Il a disparu dans les bois, on doit le sauver !{0x0114,0x0005}
+main_event_0170_poke1_01=Mouuu !
+main_event_0170_champion_03=T’inquiète, il va bien.{0xBE01}[0x000A]Pas comme vous. Quand j’ai débarqué,[0x000A]vous étiez par terre, complètement K.O. !{0xBE01}[0x000A]Ça va pas, la tête ? Vous savez pourtant[0x000A]que la forêt est interdite d’accès !{0xBE01}[0x000A]Enfin... Y’a pas à dire, j’suis quand même fier[0x000A]de vous. C’était courageux de votre part !{0x0114,0x0004}
+main_event_0170_rival_03=Ouf ! On se sera pas retrouvés dans cette forêt[0x000A]brumeuse à se battre contre un drôle de Pokémon{0xBE00}[0x000A]pour rien !{0x0114,0x0005}
+main_event_0170_champion_04=Comment ça, « un drôle de Pokémon » ?[0x000A]De quoi tu parles ?{0x0114,0x0004}
+main_event_0170_rival_04=Y’a un Pokémon super fort qui a déboulé.[0x000A]Je l’avais jamais vu avant. Et impossible de{0xBE00}[0x000A]le toucher, les attaques lui passaient au travers !{0x0114,0x0005}
+main_event_0170_champion_05=Les attaques passaient au travers, tu dis ?[0x000A]Hmmm...{0xBE01}[0x000A]Tu sais, les gens racontent que dans la Forêt de[0x000A]Sleepwood, il y aurait des Pokémon mystérieux.{0xBE01}[0x000A]Si ça se trouve, ce ne sont que des illusions,[0x000A]en fait... ?{0x0114,0x0004}
+main_event_0170_champion_06=Qui sait, si vous vous entraînez dur, vous arriverez[0x000A]peut-être à percer le mystère, un jour !{0x0114,0x0004}
+main_event_0170_champion_07=Mais pour l’instant, vous feriez mieux[0x000A]de sortir d’ici. Allez, venez !{0x0114,0x0004}
+main_event_0170_rival_05=Moi, je dis, on a plutôt assuré ![0x000A]C’est pas mal du tout, comme début d’aventure !{0x0114,0x0005}
+main_event_0170_rival_06=... Même si on s’est un peu fait tirer les oreilles[0x000A]par le frangin...{0x0114,0x0005}
+main_event_0170_rival_07={0xBDFF:0x000E}

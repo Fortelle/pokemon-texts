@@ -1,0 +1,4 @@
+msg_t005r0201_poke_01={0xBDFF:0x0000}
+msg_t005r0201_youngf_01=I can’t ever forgive Team Rocket!{0xBE01}[0x000A]Right now we’re taking care of a Cubone whose[0x000A]mother, Marowak, was...{0xBE01}[0x000A]She was caught by Team Rocket, and that was it.{0xBE01}[0x000A]We never saw her again...
+msg_t005r0201_youngf_03={0xBDFF:0x0002}
+msg_t005r0201_youngf_02=The ghost of the Pokémon Tower is gone![0x000A]Someone must have soothed its restless spirit!{0xBE01}[0x000A]And a Trainer adopted that young Cubone.[0x000A]I’m so glad everything worked out in the end.

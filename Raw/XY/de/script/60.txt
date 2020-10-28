@@ -1,0 +1,90 @@
+Kaufen
+Verkaufen
+Tschüss!
+Willkommen im Pokémon-Supermarkt![0x000A]Womit kann ich dienen?
+Bitte komm bald wieder!
+Gibt es noch etwas,[0x000A]womit ich dienen kann?
+Geld
+Poké-Meilen
+Gewinnpunkte
+{0x0206,0x0000,0x002E} $
+{0x0204,0x0000,0x002E} $
+{0xBDFF:0x000B}
+---
+{0x0206,0x0000,0x0020}
+{0x0204,0x0000,0x0020}
+Abbrechen
+{0x0109,0x0000}
+Du hast:
+{0x0202,0x0000}
+
+
+x
+{0x0201,0x0000}
+Wie viele {0x1001}{0x0109,0x0000}[0x000A]möchtest du kaufen?
+Du hast nicht genügend Geld.
+{0x0109,0x0000}, nicht wahr?[0x000A]{0x0201,0x0001} Stück, das macht {0x0206,0x0002,0x002E} $!
+{0x0109,0x0000}, nicht wahr?[0x000A]{0x0201,0x0001} Stück, das macht {0x0206,0x0002,0x002E} $!
+Ja
+Nein
+Hier, bitte sehr![0x000A]Vielen Dank für deinen Einkauf!
+{0x0109,0x0000} wurde{0x1101,0x0000,0x0100}n in der[0x000A]{0x0112,0x0001}-Tasche verstaut.
+Du hast dafür keinen Platz mehr.
+Du bekommst als Bonus noch[0x000A]einen Premierball dazu.
+Das ist die TM-Abteilung![0x000A]Kann ich helfen?
+Diese TM hast du doch schon!
+Die TM{0x0202,0x0000} {0x0107,0x0001} also?[0x000A]Gut, das kostet dich dann {0x0206,0x0002,0x002E} $.
+{0x0107,0x0000} wurde in der[0x000A]{0x0112,0x0001}-Tasche verstaut.{0xBE01}
+Los, leg dir ein paar dieser Heilkräuter zu![0x000A]Sie stammen aus fernen Regionen und{0xBE00}[0x000A]machen schlappe Pokémon wieder munter!
+Komm bitte bald wieder![0x000A]Vielen, vielen Dank!
+Kann ich dir sonst noch irgendwie helfen?
+Wie viele {0x1001}{0x0109,0x0000}[0x000A]möchtest du kaufen?
+{0x0109,0x0000} also, ja?[0x000A]Und davon {0x0201,0x0001} Stück!{0xBE00}[0x000A]Das macht dann {0x0206,0x0002,0x002E} $.
+{0x0109,0x0000} also, ja?[0x000A]Und davon {0x0201,0x0001} Stück!{0xBE00}[0x000A]Das macht dann {0x0206,0x0002,0x002E} $.
+Hier, bitte! Wie gewünscht![0x000A]Vielen, vielen Dank!
+Mehr kannst du nicht mit[0x000A]dir herumschleppen!
+Du hast nicht genügend Geld!
+Willkommen in der Stein-Boutique.{0xBE01}[0x000A]Hier bringen wir allerlei Steine an den[0x000A]Mann und natürlich auch an die Frau.
+Vielen Dank für deine Kundentreue![0x000A]Bitte beehre uns bald wieder!
+Kann ich dir sonst noch irgendwie helfen?
+{0x1001}{0x0109,0x0000} sollen es sein?[0x000A]Kein Problem! Wie viele denn?
+{0x0201,0x0001} Stück also.[0x000A]Das macht dann {0x0206,0x0002,0x002E} $. Einverstanden?
+{0x0201,0x0001} Stück also.[0x000A]Das macht dann {0x0206,0x0002,0x002E} $. Einverstanden?
+Eine erstklassige Wahl![0x000A]Hier, bitte sehr!
+Oh, anscheinend hast du gar keinen[0x000A]Platz mehr für weitere Steine.
+Ich schlage Kunden nur ungern Wünsche ab,[0x000A]doch du hast nicht genug Geld dabei...
+Willkommen in der Pokéball-Boutique,[0x000A]dem Fachgeschäft für Pokébälle!
+Auf Wiedersehen und weiterhin[0x000A]viel Erfolg auf deiner Reise!
+Darf es sonst noch etwas sein?
+Kauf doch ein paar Bälle auf Vorrat![0x000A]Davon kann man nie genug haben!{0xBE01}[0x000A]Also, wie viele?
+Okay, {0x0201,0x0001} willst du also![0x000A]Das macht dann {0x0206,0x0002,0x002E} $!
+Ja, dann will ich mal hoffen,[0x000A]dass dir ein großer Fang gelingt!
+Nimm’s mir nicht übel, aber in[0x000A]deinem Beutel ist kein Platz!
+Tut mir leid, aber du hast[0x000A]nicht genügend Geld!
+Herzlich willkommen![0x000A]Wir verkaufen nur die allerbesten Tränke!
+Willkommen! Dieses Geschäft hat sich auf den[0x000A]Verkauf von Pokébällen spezialisiert!
+Ich habe die ganze Welt bereist[0x000A]und verschiedene Räucherstäbchen{0xBE00}[0x000A]gesammelt! Eine dufte Sache!
+Du hast nicht genug Poké-Meilen.
+Du hast nicht genug Gewinnpunkte.
+Wie viele {0x1001}{0x0109,0x0000}[0x000A]möchtest du tauschen?
+Wie viele {0x1001}{0x0109,0x0000}[0x000A]möchtest du tauschen?
+{0x0201,0x0001} {0x1000}{0x0109,0x0000}, nicht wahr?[0x000A]Das macht {0x0206,0x0002,0x0020} PM!
+{0x0201,0x0001} {0x1000}{0x0109,0x0000}, nicht wahr?[0x000A]Das macht {0x0206,0x0002,0x0020} GP!
+{0x0201,0x0001} {0x1001}{0x0109,0x0000}, nicht wahr?[0x000A]Das macht {0x0206,0x0002,0x0020} PM!
+{0x0201,0x0001} {0x1001}{0x0109,0x0000}, nicht wahr?[0x000A]Das macht {0x0206,0x0002,0x0020} GP!
+Hier, bitte sehr![0x000A]Vielen Dank.
+Hier, bitte sehr![0x000A]Vielen Dank.
+Du hast dafür keinen Platz mehr.
+Du hast dafür keinen Platz mehr.
+TM{0x0202,0x0000} {0x0107,0x0001}[0x000A]kostet dich {0x0206,0x0002,0x0020} PM.
+TM{0x0202,0x0000} {0x0107,0x0001}[0x000A]kostet dich {0x0206,0x0002,0x0020} GP.
+Möchtest du Poké-Meilen[0x000A]und Preise tauschen?
+Poké-Meilen sind Punkte, die gesammelt[0x000A]werden können, indem du Pokémon tauschst{0xBE00}[0x000A]oder via StreetPass anderen Spielern{0xBE00}[0x000A]begegnest.{0xBE01}[0x000A]Die Anzahl der auf diesem Wege erhältlichen[0x000A]Punkte ist abhängig von der Entfernung der in{0xBE00}[0x000A]den jeweiligen Nintendo 3DS-Systemen{0xBE00}[0x000A]eingetragenen Heimatregionen der Beteiligten{0xBE00}[0x000A]zueinander.{0xBE01}[0x000A]Zudem steigt das eigene Poké-Meilen-Konto[0x000A]selbst dann leicht, wenn man einfach nur{0xBE00}[0x000A]die Kalos-Region durchstreift.{0xBE01}[0x000A]Unter dem Punkt „Poké-Meilen“ auf dem[0x000A]Trainerpass kannst du dich der Anzahl{0xBE00}[0x000A]deiner PM vergewissern.
+Sammle fleißig Poké-Meilen[0x000A]und schau mal wieder vorbei.
+Hallo und willkommen bei der[0x000A]Gewinnpunkte-Tauschbörse!{0xBE01}[0x000A]Möchtest du deine Gewinnpunkte[0x000A]gegen Preise eintauschen?
+Sammle fleißig Gewinnpunkte[0x000A]und schau mal wieder vorbei.
+Ja
+Nein
+Info
+Hey, fescher Trainer![0x000A]Bitte kauf viele Pokébälle!
+Okay, {0x0201,0x0001} Stück also![0x000A]Das macht dann {0x0206,0x0002,0x002E} $!

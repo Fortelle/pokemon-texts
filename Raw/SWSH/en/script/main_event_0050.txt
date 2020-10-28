@@ -1,0 +1,7 @@
+main_event_0050_rival_01=Let’s get a move on!{0x0114,0x0005}
+main_event_0050_rival_02=Only remember, {0x0100,0x0000}...{0xBE01}[0x000A]Wild Pokémon could come out of nowhere if[0x000A]you walk through patches of tall grass.{0x0114,0x0005}
+main_event_0050_rival_03=I’ve got my Wooloo with me, so I’m ready for[0x000A]battles against wild Pokémon, of course.{0x0114,0x0005}
+main_event_0050_rival_04=But not you, {0x0100,0x0000}![0x000A]So we’ll steer clear of the tall grass as we go.{0x0114,0x0005}
+main_event_0050_rival_05={0xBDFF:0x0004}
+main_event_0050_rival_06={0xBDFF:0x0005}
+main_event_0050_rival_07={0xBDFF:0x0006}

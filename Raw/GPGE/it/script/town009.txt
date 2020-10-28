@@ -1,0 +1,14 @@
+msg_town009_kanban_01=Isola Cannella[0x000A]Città ardente!
+msg_town009_kanban_02=Laboratorio dell’Isola Cannella[0x000A]Istituto di ricerca Pokémon
+msg_town009_kanban_03=Palestra dell’Isola Cannella{0xBE01}[0x000A]Capopalestra: Blaine[0x000A]Il cervellotico maestro di quiz!
+msg_town009_door_01=Sulla porta c’è scritto qualcosa in piccolo...[0x000A]“Domanda: dove si trova la chiave{0xBE00}[0x000A]di questa Palestra?{0xBE01}[0x000A]Indizio: cercate in un edificio coperto[0x000A]da piante rampicanti...”
+msg_town009_youngf_01_01=Blaine, della Palestra dell’Isola Cannella,[0x000A]è un uomo strano che vive qui da prima{0xBE00}[0x000A]che fosse costruito il laboratorio.
+msg_town009_oldm_01_01=A volte gli scienziati si chiudono nella[0x000A]Villa Pokémon per fare esperimenti...
+msg_town009_poke_01={0xFF00,0x0009}Magmar:{0xFF00,0x0000} Mar mar!
+msg_town009_poke_02={0xFF00,0x0009}Staryu:{0xFF00,0x0000} Ryuuu!
+msg_masaki_01_p01_field_t009={0xBDFF:0x0008}
+msg_masaki_01_p02_field_t009={0xBDFF:0x0009}
+msg_masaki_01_p03_field_t009={0xBDFF:0x000A}
+msg_masaki_01_p04_field_t009={0xBDFF:0x000B}
+msg_masaki_01_p05_field_t009={0xBDFF:0x000C}
+msg_masaki_01_p06_field_t009={0xBDFF:0x000D}

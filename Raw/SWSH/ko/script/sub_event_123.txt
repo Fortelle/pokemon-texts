@@ -1,0 +1,15 @@
+sub_event_123_director_01=저는 디렉터입니다!
+sub_event_123_director_02=와우! 포켓몬 도감 완성에[0x000A]도전해주고 계시는군요!
+sub_event_123_director_03=감사합니다![0x000A]포켓몬을 많이 많이 찾아주세요!
+sub_event_123_director_04=그렇지! 포켓몬을 잡을 때[0x000A]유용한 부적을 드리겠습니다!
+sub_event_123_director_05=포켓몬 도감을[0x000A]완성하게 되면 제게 알려주세요!
+sub_event_123_director_06=포켓몬 도감을 완성하는 건[0x000A]매우 힘든 일이지만 힘내세요!{0xBE01}[0x000A]나중에 포켓몬 도감을 완성하면[0x000A]제게 보여주세요!
+sub_event_123_director_07=...와우! 굉장합니다!{0xBE01}[0x000A]포켓몬 도감을[0x000A]완성하셨군요!
+sub_event_123_director_08=축하합니다![0x000A]정말 대단한 일을 해내셨습니다!
+sub_event_123_director_14=훌륭한 공적을 기리는 뜻에서{0xBE00}[0x000A]당신에게{0xBE00}[0x000A]상장을 드리겠습니다!
+sub_event_123_director_09=그리고! 리그 카드에[0x000A]표식을 달아드리겠습니다!
+sub_event_123_director_10=자 됐습니다!
+sub_event_123_director_11=그리고 이건 저를 기쁘게 해주신 보답입니다![0x000A]이 부적을 받아주세요!
+sub_event_123_director_12=앞으로도 쭉 포켓몬을[0x000A]사랑해주세요!
+sub_event_123_director_13=포켓몬 도감의[0x000A]완성을 축하합니다!{0xBE01}[0x000A]후후후 표창은[0x000A]얼마든지 해드리겠습니다!
+sub_event_123_system_01={0x0100,0x0000}의 리그 카드에[0x000A]도감 완성 표식이 추가됐다!

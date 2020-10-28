@@ -1,0 +1,4 @@
+msg_main0760_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Ah! {0x0100,0x0000}![0x000A]Capiti proprio al momento giusto!{0xBE01}[0x000A]Hai sentito la nostra conversazione, vero?[0x000A]Che ne dici, vuoi accompagnarmi?
+msg_main0760_rival_02=Me-Menomale...! Ok, allora andiamo!
+msg_main0760_rival_03=Va bene! Allora aspetterò che tu sia pront{0x1100,0x00FF,0x0101}oa!
+msg_main0760_rival_04={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Sei pront{0x1100,0x00FF,0x0101}oa?{0xBE01}[0x000A]Su, vai pure avanti tu! Io ti copro le spalle!

@@ -1,0 +1,17 @@
+Ehi, {0x0100,0x0000}![0x000A]Oh, c’è anche Lylia!{0x0114,0x0007}
+Ciao, Hau! Come mai da queste parti?{0x0114,0x0006}
+Ho completato la mia prova. Tseh eh eh!{0x0114,0x0007}
+{0x0100,0x0000}, facciamo una lotta!{0xBE01}[0x000A]Voglio vedere se sono migliorato!{0x0114,0x0007}
+{0x0100,0x0000}, sei un portento![0x000A]Sei ancora troppo forte per me!{0xBE01}[0x000A]Comunque, entrambi abbiamo sconfitto[0x000A]il Pokémon dominante... Vuol dire che siamo{0xBE00}[0x000A]diventati più forti!{0xBE01}[0x000A]Sento che sono sulla strada giusta, se continuo[0x000A]così riuscirò a sconfiggere anche il nonno!{0x0114,0x0007}
+Ehi, {0x0100,0x0000}! Hai trovato Lylia![0x000A]Sapevo di poter contare su di te. Grazie!{0x0114,0x0005}
+Hau, complimenti anche a te! Ho saputo che[0x000A]hai superato la prova!{0xBE00}[0x000A]Scommetto che hai usato qualche bella mossa!{0x0114,0x0005}
+Tseh eh eh... Tutto merito di {0x0101,0x0001}!{0x0114,0x0007}
+Tuo nonno sarà impaziente!{0x0114,0x0005}
+Impaziente...? Che intende dire, Professore?{0x0114,0x0006}
+Ho superato la prova, quindi la mia prossima[0x000A]sfida sarà contro il Kahuna dell’isola.{0x0114,0x0007}
+Esatto![0x000A]Si tratta della cosiddetta {0xFF00,0x0001}Grande Prova{0xFF00,0x0000}.{0xBE01}[0x000A]Per me che studio le mosse dei Pokémon,[0x000A]non c’è nulla di più interessante di una serie{0xBE00}[0x000A]di sfide entusiasmanti.{0x0114,0x0005}
+Non aspettarti troppo da me, Professore...{0x0114,0x0007}
+Bene! Si torna a Lili, ragazzi!{0xBE01}[0x000A]Voliamo giù per il Percorso 3 come se avessimo[0x000A]il Ventoincoda!{0x0114,0x0005}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+A voi Allenatori basta stare con i vostri[0x000A]Pokémon per essere felici.{0xBE00}[0x000A]È davvero una bella cosa...{0x0114,0x0006}

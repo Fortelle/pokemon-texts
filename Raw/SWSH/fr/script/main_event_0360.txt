@@ -1,0 +1,14 @@
+main_event_0360_rival_01=M’sieur le chef de gare, pourquoi on s’arrête ici ?[0x000A]C’est la Gare des Terres Sauvages, non ?{0x0114,0x0005}
+main_event_0360_stationmaster_01=Un troupeau de Moumouton a envahi les voies[0x000A]et le quai... Il faut interrompre la circulation.
+main_event_0360_rival_02=Trop bien !{0x0114,0x0005}
+main_event_0360_select_01=Trop bien ?
+main_event_0360_select_02=Comment ça ?
+main_event_0360_rival_03=Bah oui ! Les Terres Sauvages, c’est immense ![0x000A]Il y a plein de Pokémon !{0xBE01}[0x000A]C’est notre chance de trouver pile ce qu’il nous[0x000A]faut pour monter l’équipe ultime !{0x0114,0x0005}
+main_event_0360_stationmaster_02=Désolé, impossible d’aller à Motorby pour[0x000A]le moment. On peut vous ramener à Brasswick,{0xBE00}[0x000A]à la rigueur, mais c’est tout.{0xBE01}[0x000A]On ne va pas déranger ces pauvres Pokémon[0x000A]juste parce qu’on a un train à faire rouler.{0xBE00}[0x000A]Il y a des priorités, dans la vie !
+main_event_0360_assistant_01={0xBDFF:0x0007}
+main_event_0360_rival_05={0xBDFF:0x0008}
+main_event_0360_rival_06={0xBDFF:0x0009}
+main_event_0360_assistant_02={0xBDFF:0x000A}
+main_event_0360_assistant_03={0xBDFF:0x000B}
+main_event_0360_rival_04={0xBDFF:0x000C}
+main_event_0360_assistant_04={0xBDFF:0x000D}

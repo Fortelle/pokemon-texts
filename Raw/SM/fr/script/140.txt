@@ -1,0 +1,19 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+Vous avez trouvé un coin à champis[0xE07F]![0x000A]Lequel voulez-vous cueillir[0xE07F]?
+Petit Champi
+Gros Champi
+Vous avez mis un Petit Champi dans le Sac[0x000A]Ingrédients.
+Vous avez essayé de prendre un Gros Champi.
+Le Gros Champi vous attaque sauvagement[0xE07F]!
+Alors, ça bosse[0xE07F]?[0x000A]Ah[0xE07F]! Un Petit Champi, c’est bien[0xE07F]!{0x0114,0x000E}
+Ça a beaucoup de succès auprès de certains[0x000A]connaisseurs. Si tu y goûtes, tu comprendras{0xBE00}[0x000A]ce que je veux dire.{0x0114,0x000E}
+Oh ho[0xE07F]! Tu as tout trouvé, bravo[0xE07F]!{0xBE01}[0x000A]Parfait, je vais commencer la préparation.[0x000A]Reviens à l’entrée de la jungle.{0x0114,0x000E}
+Il ne te reste plus qu’un ingrédient à trouver[0xE07F]![0x000A]Allez, au boulot[0xE07F]!{0x0114,0x000E}
+Il te reste encore deux ingrédients à trouver[0xE07F]![0x000A]Allez, au boulot[0xE07F]!{0x0114,0x000E}
+C’est bien, mais tu as encore trois ingrédients[0x000A]à trouver[0xE07F]! Allez, au boulot[0xE07F]!{0x0114,0x000E}

@@ -1,0 +1,135 @@
+Communicating. Please stand by...
+Please select a person who decides the rules.
+Who decides the battle rules will be selected.{0xBE01}[0x000A]When you battle against a player who plays[0x000A]Pokémon Sun or Pokémon Moon, please select{0xBE00}[0x000A]Decide myself.{0xBE01}
+Who decides the battle rules will be selected.[0x000A]For a Multi Battle, teams will also be decided.{0xBE01}[0x000A]When you battle with a player who plays[0x000A]Pokémon Sun or Pokémon Moon, please select{0xBE00}[0x000A]Decide myself.{0xBE01}
+Who decides the rules will be selected.[0x000A]Please wait.
+Please select battle rules.{0xBE01}
+Sending the rules...[0x000A]Please stand by.
+The rules you sent are corrupted.{0xBE01}[0x000A]Please select rules again.{0xBE01}
+There is a problem with the rules that you sent.[0x000A]Please select rules again.{0xBE01}
+There is a problem with the rules you received.[0x000A]Rules will be reselected.{0xBE01}
+The rules that you received are corrupted.{0xBE01}[0x000A]Rules will be reselected.{0xBE01}
+Battle rules will be reselected because at least[0x000A]one person can’t participate in the battle.{0xBE01}
+Battle rules will be reselected.{0xBE01}
+Waiting for the other player(s)...[0x000A]Please wait.
+{0xBDFF:0x000E}
+Please decide the teams.{0xBE01}
+The teams are being decided...[0x000A]Please wait.
+Who will be Position {0x0200,0x0000}?
+Please select participating Pokémon.
+Would you like to keep playing?
+You decided to quit.
+Waiting for the other player(s)...
+You are going to battle again with[0x000A]different rules.
+Somebody decided to quit.{0xBE01}
+You are going to battle again with[0x000A]different rules.
+You are going to battle again with the[0x000A]same rules.
+Do you prefer other battle rules?
+Sending a message that you won’t participate in[0x000A]a battle with the selected rules...
+{0xBDFF:0x001C}
+Would you like to cancel the battle?
+Ending communication...
+The battle will end because somebody ended[0x000A]communication.{0xBE01}
+If you can’t participate in a battle with the[0x000A]current battle rules, please select{0xBE00}[0x000A]“Can’t participate.”{0xBE01}
+Would you like to decide battle rules?
+Would you like to let another player decide[0x000A]the rules?
+{0x0100,0x0000} is deciding battle rules.
+{0x0100,0x0000} quit deciding rules.
+Select a team to battle, and start the battle.
+{0xBDFF:0x0026}
+There is a problem with the Battle Team[0x000A]you selected.
+Please check and reselect Pokémon.
+You cannot battle against the other player’s[0x000A]Battle Team because there is no latest{0xBE00}[0x000A]additional data.{0xBE01}[0x000A]The other player will reselect his or her[0x000A]Pokémon.{0xBE01}
+There is a problem with the other player’s[0x000A]Battle Team.
+Decide myself
+Let another player decide
+Play with different rules
+Play with the same rules
+{0xBDFF:0x002F}
+{0xBDFF:0x0030}
+{0xBDFF:0x0031}
+Let the battle begin!
+Participating team
+{0x0122,0x0000}
+Can’t participate
+{0xFF00,0x0001}Not selected{0xFF00,0x0000}
+Team A1
+Team A2
+Team B1
+Team B2
+---
+{0x0100,0x0000}
+Confirm the teams
+Yes
+No
+{0x0100,0x0000}
+Automatic
+Back
+Reselect
+Confirm
+{0x0100,0x0000}
+Selecting...
+Done!
+{0xBDFF:0x0048}
+{0xBDFF:0x0049}
+1
+2
+3
+4
+{0xBDFF:0x004E}
+---
+{0xBDFF:0x0050}
+Single Battle
+Double Battle
+Multi Battle
+Battle Royal
+Normal Rules
+Flat Rules
+No Restrictions
+♪ “Trainer, Version 2”
+♪ “Wild Pokémon, Version 2”
+♪ “Totem Pokémon”
+♪ “Island Kahuna”
+♪ “My Friend Hau, Version 1”
+♪ “Gladion”
+♪ “Team Skull”
+♪ “Team Skull Admin”
+♪ “Team Skull Boss”
+♪ “Aether Foundation”
+♪ “Lusamine, Version 1”
+♪ “Lusamine, Version 2”
+♪ “Enter the Ultra Beasts”
+♪ “Elite Four”
+♪ “League Title Defense”
+♪ “Legendary Pokémon”
+♪ “Battle Royal”
+♪ “Guardian Deity”
+♪ “Formidable Battle Legend”
+♪ “Team Rainbow Rocket”
+♪ “Giovanni”
+♪ “Maxie & Archie”
+♪ “Cyrus”
+♪ “Ghetsis”
+♪ “Leader Lysandre”
+♪ “Ultra Recon Squad”
+♪ “Necrozma, Version 1”
+♪ “Necrozma, Version 2”
+♪ “Mewtwo”
+♪ “Kanto Pokémon”
+♪ “Hoenn Pokémon”
+♪ “Hoenn Legend, Version 2”
+♪ “Hoenn Legend, Version 1”
+♪ “Ho-Oh”
+♪ “Lugia”
+♪ “Johto Legend”
+♪ “Sinnoh Legend, Version 2”
+♪ “Sinnoh Legend, Version 3”
+♪ “Sinnoh Legend, Version 1”
+♪ “Giratina”
+♪ “Unova Legend, Version 1”
+♪ “Unova Legend, Version 2”
+♪ “Kalos Legend”
+♪ “Trainer, Version 1”
+♪ “Wild Pokémon, Version 1”
+♪ “My Friend Hau, Version 2”
+{0xBDFF:0x0086}

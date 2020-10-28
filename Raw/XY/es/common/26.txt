@@ -1,0 +1,97 @@
+{0x0102,0x0000}
+Puntos de base
+¡MÁXIMO!
+{0x0202,0x0000}
++ {0x0202,0x0000}
+- {0x0202,0x0000}
+¡{0x0102,0x0000} se ha encontrado[0x000A]un {0x010A,0x0001}!{0xBE02:0x001E}
+¿Quieres que {0x0102,0x0000} use[0x000A]{0x1700,0x0001}{0x010A,0x0001}?
+¿Quieres tirar el {0x010A,0x0000}?
+{0x0102,0x0000} ya está utilizando[0x000A]un {0x010A,0x0001}.[0x000A]Si empieza a usar un {0x010A,0x0002}[0x000A]ahora, perderá las mejoras conseguidas[0x000A]con el anterior.[0x000A]¿Seguro que quieres usar[0x000A]el {0x010A,0x0002}?
+{0x0102,0x0000} ya se está entrenando con[0x000A]un {0x010A,0x0001}.[0x000A]Si empieza a usar un {0x010A,0x0002}[0x000A]tendrás que tirar el {0x010A,0x0001}.[0x000A]¿Seguro que quieres utilizar[0x000A]el {0x010A,0x0002}?
+Parece que a {0x0102,0x0000} no le apetece[0x000A]dedicarse al Entrenamiento Base ahora mismo.{0xBE01}[0x000A]A lo mejor en otro momento, cuando esté con[0x000A]más energía...
+Parece que {0x0102,0x0000} está mucho más[0x000A]descansado después de tomarse un respiro.{0xBE01}[0x000A]¡Ahora está lleno de energía!
+Usar
+Tirar
+Atrás
+Sí
+No
+
+◆ {0x010A,0x0000}[0x000A]Entrenamiento Base muy rápido[0x000A]que consigue potenciar[0x000A]ligeramente los PS de base.
+◆ {0x010A,0x0000}[0x000A]Entrenamiento Base que lleva un[0x000A]tiempo moderado y potencia[0x000A]bastante los PS de base.
+◆ {0x010A,0x0000}[0x000A]Entrenamiento Base bastante[0x000A]intenso que consigue potenciar[0x000A]mucho los PS de base.
+◆ {0x010A,0x0000}[0x000A]Entrenamiento Base muy rápido[0x000A]que consigue potenciar[0x000A]ligeramente el Ataque de base.
+◆ {0x010A,0x0000}[0x000A]Entrenamiento Base que lleva un[0x000A]tiempo moderado y potencia[0x000A]bastante el Ataque de base.
+◆ {0x010A,0x0000}[0x000A]Entrenamiento Base bastante[0x000A]intenso que consigue potenciar[0x000A]mucho el Ataque de base.
+◆ {0x010A,0x0000}[0x000A]Entrenamiento Base muy rápido[0x000A]que consigue potenciar[0x000A]ligeramente la Defensa de base.
+◆ {0x010A,0x0000}[0x000A]Entrenamiento Base que lleva un[0x000A]tiempo moderado y potencia[0x000A]bastante la Defensa de base.
+◆ {0x010A,0x0000}[0x000A]Entrenamiento Base bastante[0x000A]intenso que consigue potenciar[0x000A]mucho la Defensa de base.
+◆ {0x010A,0x0000}[0x000A]Entrenamiento Base muy rápido[0x000A]que consigue mejorar ligeramente[0x000A]el Ataque Especial de base.
+◆ {0x010A,0x0000}[0x000A]Entrenamiento Base que lleva un[0x000A]tiempo moderado y potencia[0x000A]bastante el At. Esp. de base.
+◆ {0x010A,0x0000}[0x000A]Entrenamiento Base bastante[0x000A]intenso que consigue potenciar[0x000A]mucho el At. Esp. de base.
+◆ {0x010A,0x0000}[0x000A]Entrenamiento Base muy rápido[0x000A]que consigue mejorar ligeramente[0x000A]la Defensa Especial de base.
+◆ {0x010A,0x0000}[0x000A]Entrenamiento Base que lleva un[0x000A]tiempo moderado y potencia[0x000A]bastante la Def. Esp. de base.
+◆ {0x010A,0x0000}[0x000A]Entrenamiento Base bastante[0x000A]intenso que consigue potenciar[0x000A]mucho la Def. Esp. de base.
+◆ {0x010A,0x0000}[0x000A]Entrenamiento Base muy rápido[0x000A]que consigue potenciar[0x000A]ligeramente la Velocidad de base.
+◆ {0x010A,0x0000}[0x000A]Entrenamiento Base que lleva un[0x000A]tiempo moderado y potencia[0x000A]bastante la Velocidad de base.
+◆ {0x010A,0x0000}[0x000A]Entrenamiento Base bastante[0x000A]intenso que consigue potenciar[0x000A]mucho la Velocidad de base.
+◆ {0x010A,0x0000}[0x000A]Hace que los tiros de tu Pokémon[0x000A]sumen más puntos en el siguiente[0x000A]Superentrenamiento.
+◆ {0x010A,0x0000}[0x000A]Hace que el robot le robe menos[0x000A]puntos a tu Pokémon en el[0x000A]siguiente Superentrenamiento.
+◆ {0x010A,0x0000}[0x000A]Hace que los movimientos de tu[0x000A]Pokémon sean más rápidos en el[0x000A]siguiente Superentrenamiento.
+◆ {0x010A,0x0000}[0x000A]Hace que tu Pokémon dispare[0x000A]los balones con más precisión en[0x000A]el siguiente Superentrenamiento.
+◆ {0x010A,0x0000}[0x000A]Hace que se dupliquen los puntos[0x000A]de base obtenidos en el siguiente[0x000A]Superentrenamiento.
+◆ {0x010A,0x0000}[0x000A]Lleva el logo del Team Flare, así[0x000A]que es ideal para meterle caña y[0x000A]desquitarse.
+◆ {0x010A,0x0000}[0x000A]Restablece a su valor inicial los[0x000A]puntos de base del Pokémon.
+◆ {0x010A,0x0000}[0x000A]Hace que el Pokémon que lo use[0x000A]sea algo más amistoso contigo.
+¡Vamos! ¡Venga! ¡Que se vea que tienes[0x000A]vitalidad!
+Uno, dos... Uno, dos...[0x000A]¡Venga, con energía!
+Tres, cuatro... Tres, cuatro...[0x000A]¡Dándolo todo! ¡Aguanta!
+¡Dale! ¡Dale![0x000A]¡Hasta que te duelan los músculos!
+¡Tu potencia es tu arma secreta![0x000A]¡Ánimo!
+¡Vamos! ¡Un buen ataque es la mejor defensa!
+¡Aguantaaa! ¡Dale![0x000A]¡Pega fuerte!
+El sudor que sale de tus poros...[0x000A]¡es lo que te hará más fuerte!
+¡Vamos! ¡Una buena defensa es el mejor[0x000A]ataque!
+Rápido, rápido... ¡rápido![0x000A]¡Corta el viento con tus golpes!
+¡Que salten chispas! ¡Venga![0x000A]¡A la velocidad de la luz!
+¡Ráaapido! ¡Depriiisa![0x000A]¡La velocidad genera más velocidad!
+¡Así, así![0x000A]¡El doble de fuerte!
+¡Venga! ¡Tienes que dar el 200%!
+¡Vamos! ¡Esfuérzate el doble y obtendrás[0x000A]el doble!
+¡Muy bien! ¡Sigue así![0x000A]¡No pares! ¡Sigue! ¡Sigue!
+¡Sin piedad! ¡No hay dolor![0x000A]¡Todo sea por estar en forma!
+¡Dale duro! ¡Sacúdelo a base de bien![0x000A]¡En nombre del bien y la justicia!
+¡¿Ya está?! ¡¿Eso es todo lo que tienes?!
+¡Tu esfuerzo verá sus frutos![0x000A]¡No desfallezcas!
+¡Hasta las rosas más bellas tienen espinas![0x000A]¡No te vengas abajo! ¡Dale fuerte!
+Amor... amistad... ¡y un puño firme![0x000A]¡Adelante!
+¡Dale con todas tus ganas![0x000A]¡Que la amistad te motive!
+¡Álzate con la victoria![0x000A]¡Refuerza tu confianza!
+Los PS de base de {0x0102,0x0000} han[0x000A]aumentado.
+¡Ha aumentado el Ataque de base de[0x000A]{0x0102,0x0000}!
+¡Ha aumentado la Defensa de base de[0x000A]{0x0102,0x0000}!
+¡Ha aumentado el Ataque Especial de base de[0x000A]{0x0102,0x0000}!
+¡Ha aumentado la Defensa Especial de base de[0x000A]{0x0102,0x0000}!
+¡Ha aumentado la Velocidad de base de[0x000A]{0x0102,0x0000}!
+¡En el próximo Superentrenamiento, sus tiros[0x000A]lograrán más puntos!
+¡En el próximo Superentrenamiento, tu[0x000A]Pokémon perderá menos puntos!
+¡En el próximo Superentrenamiento, tu[0x000A]Pokémon se moverá más rápido!
+¡En el próximo Superentrenamiento, los tiros[0x000A]de tu Pokémon serán más precisos!
+¡En el próximo Superentrenamiento, los puntos[0x000A]de base obtenidos se duplicarán!
+¡{0x0102,0x0000} vuelve a sentirse con energía[0x000A]y ganas de entrenar!
+Todos los puntos de base de {0x0102,0x0000}[0x000A]han vuelto a su valor inicial.
+¡{0x0102,0x0000} es algo más amigo de[0x000A]{0x0100,0x0001}!
+¡Fantástico![0x000A]¡Un tono muscular excelente!
+¡Qué soltura! ¡No sabíamos que los Pokémon[0x000A]podían moverse así!
+¡Guau! ¡Vaya maestría![0x000A]¡Qué golpe tan certero!
+¡Este es el Superentrenamiento![0x000A]O, para abreviar, el SE.{0xBE01}[0x000A]¡Convierte a tu Pokémon en un Pokémon[0x000A]Perfecto a base de entrenamiento intensivo!{0xBE01}[0x000A]Para empezar, toca el botón que aparece en la[0x000A]esquina inferior izquierda de la pantalla táctil.
+Para empezar, toca el botón del[0x000A]Superentrenamiento que aparece en la{0xBE00}[0x000A]esquina inferior izquierda de la pantalla táctil.
+¡Ha llegado la hora de usar un saco de arena!{0xBE01}[0x000A]Toca el icono de la esquina inferior derecha[0x000A]de la pantalla táctil.
+Toca el icono de la esquina inferior derecha[0x000A]de la pantalla táctil.
+Toca uno de los sacos de arena que aparecen[0x000A]a la izquierda para elegirlo.
+¡Ya tienes un saco de arena preparado![0x000A]Ahora haz que tu Pokémon lo utilice.{0xBE01}[0x000A]¡Toca sin parar la pantalla táctil para que[0x000A]golpee el saco y sucederá algo increíble!{0xBE01}[0x000A]Además, si lo dejas a su aire, el Pokémon[0x000A]golpeará el saco él solito una vez por minuto{0xBE00}[0x000A]más o menos.
+{0x1701,0x0001}{0x010D,0x0001} de base de[0x000A]{0x0102,0x0000} está{0x1101,0x0001,0x0100}n al máximo, así que{0xBE00}[0x000A]no puedes usar el {0x010A,0x0002}.
+¡{0x1701,0x0001}{0x010D,0x0001} de base de[0x000A]{0x0102,0x0000} ya no puede{0x1101,0x0001,0x0100}n aumentar más!{0xBE01}[0x000A]Lo cual quiere decir que...[0x000A]¡es un experto en {0x010D,0x0001}!
+Los puntos de base de {0x0102,0x0000}[0x000A]no pueden aumentar más, así que no puede{0xBE00}[0x000A]usar el {0x010A,0x0002}.
+Parece que a {0x0102,0x0000} no le apetece[0x000A]nada participar en el Superentrenamiento.{0xBE01}[0x000A]Intenta que lo haga cuando esté algo más[0x000A]motivado.
+Los puntos de base de {0x0102,0x0000} no[0x000A]pueden potenciarse más.

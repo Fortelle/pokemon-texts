@@ -1,0 +1,11 @@
+main_event_1000_leader_01=... Je... je suis Alistair...{0x0114,0x0012}
+main_event_1000_leader_02=Ba... battons-nous.{0x0114,0x0012}
+main_event_1000_leader_03=... Ouah...{0x0114,0x0012}
+main_event_1000_leader_04=... Quelle force...{0x0114,0x0012}
+main_event_1000_leader_05=Tiens... Le Badge Spectre...{0x0114,0x0012}
+main_event_1000_badge_01=Vous pouvez maintenant capturer des Pokémon[0x000A]jusqu’au niveau 40 !
+main_event_1000_leader_06=Bo... bonne chance pour la suite...{0x0114,0x0012}
+main_event_1000_npc_01=Hiii ! T-tu as gagné contre Alistair...[0x000A]T-toutes mes félicitations...{0xBE01}[0x000A]T-tu as bien mérité cette CT...
+main_event_1000_npc_03=E-et aussi, un uniforme de type Spectre...
+main_event_1000_npc_02=L-le Badge Spectre te va si bien...[0x000A]Continue comme ça, {0x0100,0x0000}...
+main_event_1000_system_01=Voulez-vous retourner à la réception ?

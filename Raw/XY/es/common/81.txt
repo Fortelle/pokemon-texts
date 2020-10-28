@@ -1,0 +1,18 @@
+Intercambio prodigioso
+El intercambio prodigioso hace honor a su nombre,[0x000A]ya que te permite intercambiar Pokémon con gente[0x000A]de cualquier parte del mundo.
+¿Quieres iniciar un intercambio prodigioso?
+¿Quieres intercambiar[0x000A]a {0x0102,0x0000}?
+Buscando un Entrenador que quiera[0x000A]intercambiar Pokémon. Por favor, espera.
+¡Alguien está interesado en el intercambio![0x000A]Espera un momento, por favor.
+No se ha podido encontrar a nadie interesado[0x000A]en el intercambio.{0xBE01}[0x000A]Inténtalo de nuevo más tarde.
+Finalizando la conexión...[0x000A]Espera un momento.
+Sí
+No
+Este Pokémon no se puede intercambiar.
+{0x0202,0x0000}
+{0x0109,0x0001}
+{0x0102,0x0002}
+{0x0100,0x0004}
+Nv.
+{0xFF00,0x0002}♂{0xFF00,0x0000}
+{0xFF00,0x0001}♀{0xFF00,0x0000}

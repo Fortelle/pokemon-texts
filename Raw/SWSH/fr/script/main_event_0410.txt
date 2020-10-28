@@ -1,0 +1,7 @@
+main_event_0410_assistant_01=Ah, Infotisma est disponible !{0x0114,0x000B}
+main_event_0410_assistant_02=Je t’explique. Infotisma est un système[0x000A]d’information très pratique pour les Dresseurs.{0xBE01}[0x000A]D’ailleurs, on peut aussi s’en servir pour[0x000A]personnaliser ses cartes de Ligue Pokémon !{0x0114,0x000B}
+main_event_0410_assistant_03=Tu devrais essayer, c’est marrant !{0xBE01}[0x000A]Tiens, je t’en donne une, des fois que ça t’inspire !{0x0114,0x000B}
+main_event_0410_assistant_04={0xBDFF:0x0003}
+main_event_0410_assistant_05={0xBDFF:0x0004}
+main_event_0410_assistant_06=C’est grand, Motorby, hein ?[0x000A]T’inquiète pas, je vais te faire visiter !{0xBE01}[0x000A]Rejoins-moi dès que tu auras soigné t{0x1101,0x00FD,0x0202}ones Pokémon !{0x0114,0x000B}
+main_event_0410_assistant_07=La cérémonie d’ouverture...[0x000A]Ça me rappelle des souvenirs !{0xBE01}[0x000A]J’oublierai jamais l’excitation de mon tout[0x000A]premier combat sur le terrain du stade !{0x0114,0x000B}

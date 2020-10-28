@@ -1,0 +1,43 @@
+Die SD Card ist voll.[0x000A]Du kannst keine Daten herunterladen.
+Auf dem Server wurden keine Daten[0x000A]gefunden. Bitte versuche es später[0x000A]noch einmal.
+Die Verbindung zum Server[0x000A]wurde unterbrochen.
+{0xBDFF:0x0003}
+Der Vorgang wurde aufgrund eines[0x000A]Fehlers bei der Datenübertragung[0x000A]abgebrochen.
+Die Verbindung zum Spielpartner[0x000A]wurde unterbrochen.
+Die Verbindung zum Server[0x000A]wurde unterbrochen.
+Bei der Datenübertragung ist ein Fehler[0x000A]aufgetreten.
+Der Verbindungsaufbau zum Spielpartner[0x000A]ist fehlgeschlagen. Bitte führe alle[0x000A]Schritte noch einmal durch.
+Der Server wird momentan gewartet.[0x000A]Bitte versuche es später noch einmal.
+Der Infrarot-Sende-Empfänger ist[0x000A]womöglich beschädigt. Bitte führe alle[0x000A]Schritte noch einmal durch. Lässt sich[0x000A]das Problem so nicht beheben, wende[0x000A]dich bitte an den Kundenservice von[0x000A]Nintendo.
+Die Verbindung zum Server[0x000A]wurde unterbrochen.
+Es konnte keine Infrarot-Verbindung[0x000A]hergestellt werden. Bitte wähle[0x000A]dieselbe Spieloption wie dein Freund[0x000A]und versuche es noch einmal.
+Es ist ein Fehler auf dem Server des[0x000A]Pokémon Global Links aufgetreten.[0x000A]Bitte versuche es später noch einmal.[0x000A](Fehler-Code: 090-0200)
+Es ist ein Fehler auf dem Server des[0x000A]Pokémon Global Links aufgetreten.[0x000A]Bitte versuche es später noch einmal.[0x000A](Fehler-Code: 090-0201)
+Es ist ein Fehler auf dem Server des[0x000A]Pokémon Global Links aufgetreten.[0x000A]Bitte versuche es später noch einmal.[0x000A](Fehler-Code: 090-0202)
+Es ist ein Fehler auf dem Server des[0x000A]Pokémon Global Links aufgetreten.[0x000A]Bitte versuche es später noch einmal.[0x000A](Fehler-Code: 090-0203)
+Es ist ein Fehler auf dem Server des[0x000A]Pokémon Global Links aufgetreten.[0x000A]Bitte versuche es später noch einmal.[0x000A](Fehler-Code: 090-0204)
+Es ist ein Fehler auf dem Server des[0x000A]Pokémon Global Links aufgetreten.[0x000A]Bitte versuche es später noch einmal.[0x000A](Fehler-Code: 090-0205)
+Es ist ein Fehler auf dem Server des[0x000A]Pokémon Global Links aufgetreten.[0x000A]Bitte versuche es später noch einmal.[0x000A](Fehler-Code: 090-0206)
+Der Server des Pokémon Global Links[0x000A]ist momentan überlastet.[0x000A]Bitte versuche später noch einmal,[0x000A]eine Spielsynchro durchzuführen.[0x000A](Fehler-Code: 090-0207)
+Es ist ein Fehler auf dem Server des[0x000A]Pokémon Global Links aufgetreten.[0x000A]Bitte versuche es später noch einmal.[0x000A](Fehler-Code: 090-0208)
+Es ist ein Fehler auf dem Server des[0x000A]Pokémon Global Links aufgetreten.[0x000A]Bitte versuche es später noch einmal.[0x000A](Fehler-Code: 090-0209)
+Der Pokémon Global Link ist aufgrund[0x000A]von Wartungsarbeiten nicht erreichbar.[0x000A]Bitte versuche es später noch einmal.[0x000A](Fehler-Code: 090-0210)
+Der gewünschte Dienst steht[0x000A]nicht mehr zur Verfügung.[0x000A]http://www.pokemon-gl.com[0x000A](Fehler-Code: 090-0211)
+Es ist ein Fehler auf dem Server des[0x000A]Pokémon Global Links aufgetreten.[0x000A]Bitte versuche es später noch einmal.[0x000A](HTTP-Fehler: 500)
+Es ist ein Fehler auf dem Server des[0x000A]Pokémon Global Links aufgetreten.[0x000A]Bitte versuche es später noch einmal.[0x000A](HTTP-Fehler: 502)
+Es ist ein Fehler auf dem Server des[0x000A]Pokémon Global Links aufgetreten.[0x000A]Bitte versuche es später noch einmal.[0x000A](HTTP-Fehler: 503)
+{0xBDFF:0x001C}
+Beim Überprüfen des Seriencodes ist[0x000A]ein Fehler auf dem Server aufgetreten.[0x000A]Bitte versuche es später noch einmal.[0x000A](Fehler-Code: 090-0200)
+Beim Überprüfen des Seriencodes ist[0x000A]ein Fehler auf dem Server aufgetreten.[0x000A]Bitte versuche es später noch einmal.[0x000A](Fehler-Code: 090-0201)
+Beim Überprüfen des Seriencodes ist[0x000A]ein Fehler auf dem Server aufgetreten.[0x000A]Bitte versuche es später noch einmal.[0x000A](Fehler-Code: 090-0202)
+Beim Überprüfen des Seriencodes ist[0x000A]ein Fehler auf dem Server aufgetreten.[0x000A]Bitte versuche es später noch einmal.[0x000A](Fehler-Code: 090-0203)
+Beim Überprüfen des Seriencodes ist[0x000A]ein Fehler auf dem Server aufgetreten.[0x000A]Bitte versuche es später noch einmal.[0x000A](Fehler-Code: 090-0204)
+Beim Überprüfen des Seriencodes ist[0x000A]ein Fehler auf dem Server aufgetreten.[0x000A]Bitte versuche es später noch einmal.[0x000A](Fehler-Code: 090-0205)
+Beim Überprüfen des Seriencodes ist[0x000A]ein Fehler auf dem Server aufgetreten.[0x000A]Bitte versuche es später noch einmal.[0x000A](Fehler-Code: 090-0206)
+Der Server, über den die Seriencodes[0x000A]überprüft werden, ist aufgrund von[0x000A]Wartungsarbeiten nicht erreichbar.[0x000A]Bitte versuche es später noch einmal.[0x000A](Fehler-Code: 090-0210)
+Der gewünschte Dienst steht[0x000A]nicht mehr zur Verfügung.[0x000A](Fehler-Code: 090-0211)
+Auf dem Server, über den die[0x000A]Seriencodes überprüft werden,[0x000A]ist ein Fehler aufgetreten.[0x000A]Bitte versuche es später noch einmal.[0x000A](HTTP-Fehler: 500)
+Auf dem Server, über den die[0x000A]Seriencodes überprüft werden,[0x000A]ist ein Fehler aufgetreten.[0x000A]Bitte versuche es später noch einmal.[0x000A](HTTP-Fehler: 502)
+Auf dem Server, über den die[0x000A]Seriencodes überprüft werden,[0x000A]ist ein Fehler aufgetreten.[0x000A]Bitte versuche es später noch einmal.[0x000A](HTTP-Fehler: 503)
+Die SD Card konnte nicht erkannt werden.[0x000A][0x000A]Schalte das System aus und setze die[0x000A]SD Card erneut ein.
+Ein Verbindungsfehler ist aufgetreten.[0x000A][0x000A]Betätige den POWER-Schalter,[0x000A]um das Spiel zu beenden.

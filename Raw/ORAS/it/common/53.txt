@@ -1,0 +1,84 @@
+Base di {0x0100,0x0000}
+Profilo segreto
+Decora la base
+Rimuovi preferiti
+Scegli una decorazione
+Registra preferiti
+Info sui preferiti
+Bandiere raccolte
+{0x0205,0x0000,0x002E}
+Decora la base
+QR Code
+Rimuovi preferiti
+Profilo segreto
+Svuota la base
+Spegni il PC
+Nome del team
+Slogan del team
+Messaggio allegro
+Messaggio di incoraggiamento
+Indietro
+Metti o sposta le decorazioni all’interno[0x000A]della Base Segreta.
+Leggi i QR Code delle Basi Segrete o crea il tuo.
+Rimuovi i giocatori registrati nei preferiti.
+Modifica le informazioni del profilo della Base Segreta.
+Svuota la base ed esci.
+Esci dal menu e spegni il PC.
+Cambia il {0xFF00,0x0002}nome{0xFF00,0x0000} del team.
+Cambia lo {0xFF00,0x0002}slogan{0xFF00,0x0000} del team.
+Cambia il {0xFF00,0x0002}messaggio allegro{0xFF00,0x0000}.
+Cambia il {0xFF00,0x0002}messaggio di incoraggiamento{0xFF00,0x0000}.
+Torna alla schermata precedente.
+Tutti gli amici segreti verranno rimossi.[0x000A]Continuare?
+Scegli chi rimuovere dai preferiti.
+Vuoi rimuovere {0x0100,0x0000} dai preferiti?
+Vuoi registrare {0x0100,0x0000} tra i preferiti?
+{0x0100,0x0000} è già registrat{0x1100,0x0000,0x0101}oa.{0xBE01}[0x000A]Vuoi rimuoverl{0x1100,0x0000,0x0101}oa dai preferiti?
+{0x0100,0x0000} è stat{0x1100,0x0000,0x0909}o rimossoa rimossa dai preferiti.
+{0x0100,0x0000} è stat{0x1100,0x0000,0x0C0C}o registratoa registrata tra i preferiti.
+Non hai registrato nessuno tra i preferiti.
+Non hai più spazio libero nei preferiti!{0xBE01}[0x000A]Seleziona {0xFF00,0x0002}Rimuovi preferiti {0xFF00,0x0000}per rimuovere dei[0x000A]giocatori già registrati.
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+{0xBDFF:0x002A}
+{0xBDFF:0x002B}
+Registra preferiti
+Rimuovi preferiti
+Info sui preferiti
+Registra tra i preferiti il giocatore che ha costruito[0x000A]questa Base Segreta.
+Leggi una spiegazione sulla lista dei preferiti.
+La Base Segreta di un giocatore registrato tra[0x000A]i preferiti non sparisce, a meno che questi{0xBE00}[0x000A]non sposti la base in un altro luogo.{0xBE01}[0x000A]Puoi registrare fino a 15 giocatori tra i preferiti.[0x000A]Se trovi una Base Segreta che ti piace, registra{0xBE00}[0x000A]il giocatore che l’ha costruita tra i preferiti!
+{0x0100,0x0000}
+{0xBDFF:0x0033}
+{0xBDFF:0x0034}
+Sì
+No
+Tavoli
+Sgabelli
+Tappeti
+Piante
+Arredi
+Decorazioni da parete
+Bambole
+Cuscini
+Apparecchiature
+Scherzi
+{0xBDFF:0x0041}
+La Base Segreta di {0x0100,0x0001} è apparsa[0x000A]nel seguente luogo: {0x0105,0x0002}.
+A Verdeazzupoli è apparsa una Base Segreta[0x000A]speciale!
+Lista Basi Segrete
+Lista Basi Segrete
+Consulta la lista dei giocatori che possiedono[0x000A]Basi Segrete.
+{0x0100,0x0000}
+Rimuovi dalla lista le Basi Segrete dei giocatori[0x000A]selezionati.
+Non conosci ancora giocatori che hanno creato una[0x000A]Base Segreta.
+{0x0100,0x0000} è un{0x1100,0x0000,0x0100}a tu{0x1100,0x0000,0x0101}oa amic{0x1100,0x0000,0x0101}oa segret{0x1100,0x0000,0x0101}oa.{0xBE01}[0x000A]Non puoi rimuovere le basi dei tuoi amici segreti.
+Vuoi rimuovere la base di {0x0100,0x0001}?[0x000A]Posizione: {0x0105,0x0000}
+Vuoi davvero rimuovere questa base?
+{0x0100,0x0000} è registrat{0x1100,0x0000,0x0101}oa nella Lista preferiti.[0x000A]Vuoi davvero rimuovere questa base?
+Hai rimosso la base di {0x0100,0x0001}.[0x000A]Posizione: {0x0105,0x0000}
+Rimuovi Base Segreta
+Rimuovi questa Base Segreta.
+Vuoi rimuovere la base di {0x0100,0x0000}?
+Hai rimosso la base di {0x0100,0x0000}.
+Base del team {0x01AA,0x0000}

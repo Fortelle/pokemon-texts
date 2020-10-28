@@ -1,0 +1,452 @@
+PokéJob
+Es gibt einen neuen Job zu erledigen!
+Es gibt neue Jobs zu erledigen!
+NEU!
+Offene Stellen
+Angenommen
+Dauerhaft offene Stellen
+Offene Stellen
+Angenommen
+Dauerhaft offene Stellen
+Erledigt
+
+
+
+Erledigt
+
+Beschreibung
+Job-Beschreibung
+Gewünschte Pokémon
+Maximal <var>
+
+Dauer
+<var> Stunden
+
+EP-Ausbeute
+Sinkender Basiswert
+Bitte wähle den Basiswert, der gesenkt werden soll.
+Steigender Basiswert
+KP
+Ang.
+Vert.
+Sp.-Ang.
+Sp.-Vert.
+Initiative
+
+Bitte wähle einen Job aus.
+Heute gibt es keine offenen Jobangebote. Bitte schau morgen wieder vorbei.
+Möchtest du diesen Job annehmen?
+Ja
+Nein
+Du hilfst bei diesem PokéJob bereits aus. Möchtest du ihn abbrechen?
+Wenn du den Job abbrichst, kehrt dein Pokémon zurück, ohne an Erfahrung gewonnen zu haben. Möchtest du trotzdem fortfahren?
+Dein Pokémon ist vom Auftraggeber zurückgekehrt.
+Deine Pokémon sind vom Auftraggeber zurückgekehrt.
+Möchtest du dein Pokémon entsenden?
+Möchtest du deine Pokémon entsenden?
+Entsenden
+Überprüfen
+Abbrechen
+Du hast die gewünschte Pokémon-Anzahl nicht erfüllt. Möchtest du trotzdem fortfahren?
+Dein Pokémon macht sich auf den Weg. Es wird sein Bestes geben!
+Deine Pokémon machen sich auf den Weg. Sie werden ihr Bestes geben!
+
+Jetzt, wo du mehr Orden besitzt, können deine Pokémon mehr Arten von Jobs erledigen.
+Es gibt ein Jobangebot von <var>!
+Noch <var> Stunden
+<var>
+Glückwunsch! Das positive Feedback deiner letzten Auftraggeber hat dir neue Jobs eingebracht! Mach weiter so!
+Bitte wähle den Basiswert, der erhöht werden soll.
+Neu wählen
+EP-Ausbeute
+Deine Boxen sind voll! Bitte schaffe Platz für deine Pokémon.
+Bitte wähle Pokémon aus deinen Boxen aus.
+Mehr Pokémon kannst du nicht losschicken. Brich einen Job ab oder warte, bis einer erledigt wurde.
+Dieser Job wurde bereits erledigt.
+Wähle aus, wie viel Zeit auf diesen Job verwendet werden soll.
+
+
+
+
+
+
+
+
+
+Deine entsandten Pokémon haben so gute Arbeit geleistet, dass du ein neues Jobangebot erhalten hast!
+Du kannst diesen Job nicht annehmen, da sich keine Pokémon in deinen Boxen befinden.
+Lv.
+Ganzer Tag
+Halber Tag
+Sehr lang
+Lang
+Kurz
+Sehr kurz
+Extrem kurz
+Dein Pokémon ist von seinem Job zurückgekehrt.
+Deine Pokémon sind von ihrem Job zurückgekehrt.
+Basisw.
++ <var>
+Ausgewähltes Pokémon
+Ausgewählte Pokémon
+Überspr.
+ Auswählen
+ Zurück
+Toll gemacht!
+Gut gemacht!
+Erledigt!
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+Dieses Pokémon hat besonders gut gearbeitet!
+Diese Pokémon haben besonders gut gearbeitet!
+Es hat seinen Job toll gemacht und jede Menge Erfahrungspunkte erhalten!
+Alle haben ihren Job toll gemacht und jede Menge Erfahrungspunkte erhalten!
+Es hat seinen Job gut gemacht und viele Erfahrungspunkte erhalten!
+Alle haben ihren Job gut gemacht und viele Erfahrungspunkte erhalten!
+Es hat seinen Job erledigt und Erfahrungspunkte erhalten!
+Alle haben ihren Job erledigt und Erfahrungspunkte erhalten!
+Dein Pokémon war großartig! Es hat den Job zur vollsten Zufriedenheit erledigt!
+Deine Pokémon waren großartig! Sie haben den Job zur vollsten Zufriedenheit erledigt!
+Der Auftraggeber scheint sehr zufrieden zu sein. Gib weiter dein Bestes, um die Wünsche der Auftraggeber zu erfüllen!
+Der Auftraggeber scheint nur mäßig zufrieden zu sein. Beim nächsten Mal solltest du mehr Pokémon entsenden, deren Typen zum Job passen!
+<var> scheint dir etwas geben zu wollen... Als Dank für die tolle Arbeit erhältst du <var> <var>!
+<var> scheint dir etwas geben zu wollen... Als Dank für die gute Arbeit erhältst du <var> <var>!
+<var> scheint dir etwas geben zu wollen... Als Dank für die Arbeit erhältst du <var> <var>!
++ <var>
+<var> scheint dir etwas geben zu wollen... Als Dank für die tolle Arbeit erhältst du <var> ₽!
+<var> scheint dir etwas geben zu wollen... Als Dank für die gute Arbeit erhältst du <var> ₽!
+<var> scheint dir etwas geben zu wollen... Als Dank für die Arbeit erhältst du <var> ₽!
+Der <var>-Basiswert des entsandten Pokémon ist gestiegen.
+Der <var>-Basiswert der entsandten Pokémon ist gestiegen.
+
+dummy
+dummy
+dummy
+dummy
+
+
+
+<var> wurde ausgewählt. Was nun?
+Bericht
+Zurück
+Sicherheit geht vor
+Als Aushilfe bei Wartungsarbeiten suchen wir Pokémon, die problemlos in großen Höhen arbeiten können.
+Fluggeleit
+Als Geleit für unsere Flugreisen suchen wir Pokémon, die als mystische Lebewesen und Gegenstand vieler Legenden angesehen werden.
+Zuverlässiges Wachpersonal
+Flughafensicherheitspersonal gesucht! In Kampfkünsten bewanderte Pokémon erwünscht.
+Wartung der städtischen Stromversorgung
+Hilfe beim Verlegen von Elektroleitungen gesucht! Am besten eignen sich Pokémon, denen Elektrizität absolut nichts ausmacht.
+Ausbau der städtischen Stromversorgung
+Hilfe beim Verlegen von Elektroleitungen gesucht! Am besten eignen sich Pokémon, die gut mit Elektrizität umgehen können.
+Hilfe bei der Fahrzeugwartung
+Zur Unterstützung bei der Inspektion unserer Wagen suchen wir metallähnliche Pokémon, die sich gut mit Stahl auskennen.
+Pokémon mit viel physischer Verteidigung
+Wir suchen kräftige Pokémon, die in felsigen Gebieten gut zurechtkommen. Vorsicht: Stromschlaggefahr.
+Inspektion des Umspannwerks
+Aushilfe für die Inspektion des elektrischen Umspannwerks gesucht. Welcher Pokémon-Typ sich dafür am besten eignet, sollte wohl klar sein!
+Pokémon in ihrem Element
+Für Experimente mit chemischen Reaktionen suchen wir Pokémon, denen giftige Schadstoffe nichts ausmachen.
+Übersinnliche Fähigkeiten
+Wir suchen Pokémon mit übersinnlichen Fähigkeiten als Aushilfe in unserer Abteilung für Forschung und Entwicklung.
+Kein Mysterium bleibt ungelüftet
+Wir wollen die unerklärlichen Mysterien dieser Welt aufdecken und brauchen dafür Pokémon mit einer gespenstischen Erscheinung.
+Eine Serie zum Schaudern
+Für eine revolutionäre Horror-Serie suchen wir noch nach hochgradig gruseligen Pokémon!
+Wir lassen die Muskeln sprechen
+Wir möchten anderen vermitteln, wie wichtig es ist, den eigenen Körper zu trainieren. Dafür suchen wir nach besonders muskulösen Pokémon!
+Köstliche Kochsendung
+Könnte uns jemand Pokémon empfehlen, welche die Gemüter bei einem feurigen Kochduell richtig zum Sieden bringen können?
+Muskelpakete frei Haus
+Auf der Baustelle brauchen wir noch Arbeiter, die kräftig mit anpacken können und eine ordentliche Portion Muskeln mitbringen.
+Abschreckende Wächter
+Wir bräuchten einige zwielichtige Pokémon, die dafür sorgen sollen, dass niemand ein gefährliches Gelände betritt.
+Gründliche Sondierung
+Wir würden gerne den Boden eines Grundstücks sondieren, bevor die Bauarbeiten beginnen und suchen nach Experten, die uns dabei helfen.
+Normal schmeckt's am besten
+Wir wollen ein neues Menü entwickeln, das jeden anspricht. Daher würden wir gerne ganz normale Pokémon um ihre Meinungen bitten!
+Eiskalt transportiert
+Um unsere Tiefkühlwaren unter idealen Bedingungen transportieren zu können, benötigen wir eiskalte Pokémon.
+Geschmack hängt vom Wasser ab
+Sauberes, klares Wasser ist die Grundlage für hochqualitative Lebensmittel! Wir benötigen die Hilfe von Pokémon, die sich gut damit auskennen.
+Wir möchten Versicherungen vermarkten!
+Bei diesem Job geht es einzig darum, Leuten bewusst zu machen, wie gefährlich Gift sein kann. Wir wollen die giftigsten Attacken sehen!
+Pokémon, die der Gefahr trotzen
+Wir freuen uns über Bewerbungen von Pokémon mit dunkler Ausstrahlung, um potenziellen Problemen beim Geldtransport vorzubeugen.
+Zum Schutz unseres Geldes
+Wir suchen nach gefährlich aussehenden Drachen-Pokémon, die jeden Langfinger beim ersten Anblick abschrecken!
+Hilfe in luftigen Höhen
+Egal wann, egal wohin! Wir richten uns an alle Pokémon, die gen Himmel streben – lasst uns zusammen in die Lüfte steigen!
+Warentransport bei widrigem Wetter
+Wir haben offene Stellen für Drachen-Pokémon, die selbst in den widrigsten, stürmischsten Wetterbedingungen unbehelligt weiterfliegen.
+
+
+Bodenständiger Warentransport
+Zum Transport von extrem schweren Paketen brauchen wir Pokémon, die richtig fest am Boden stehen.
+Wartung der Schienen dringend nötig!
+Unsere Schienen machen in letzter Zeit keinen guten Eindruck, also suchen wir Stahl-Pokémon, die sich die Lage mal ansehen.
+Pokémon, die der Kälte trotzen
+Wir hoffen auf zahlreiche Eis-Pokémon, deren Typ es ihnen erlaubt, in einem Schneesturm problemlos Waren zu transportieren.
+Reinigung im Handumdrehen
+Haushälter gesucht! Wir benötigen feenhaft grazile Pokémon, die es beherrschen, im Nu Ordnung ins Chaos zu bringen.
+Stets freundlich
+Zur Betreuung unserer breitgefächerten Klientel sind wir auf der Suche nach Normal-Pokémon.
+Das leckere Geheimnis unseres Hotels
+Beim Kochen dreht sich alles um die Hitze! Wir suchen daher nach Feuer-Pokémon, die gut mit heißen Flammen umgehen können.
+Niedlich und geheimnisvoll
+Wir suchen nach niedlichen und zugleich hart arbeitenden Pokémon, welche die Reinigung unserer Zimmer übernehmen.
+Der perfekte Gästeempfang
+Wir suchen vorbildliche und stressresistente Normal-Pokémon, um unsere Gäste gebührend zu empfangen und zu verabschieden.
+Die Hitze bestimmt den Geschmack
+Küchenassistenten gesucht! Voraussetzung: Es muss sich um Feuer-Pokémon handeln, die sich mit der Regelung der Wärmezufuhr auskennen.
+Eine Sendung mit Gänsehautpotenzial
+Wir arbeiten an einer Sendung zu geisterhaften Erscheinungen auf Fotos. Für die Bilder suchen wir noch nach passenden Pokémon!
+Eine Sendung, die es in sich hat
+Gibt es da draußen Drachen-Pokémon, die uns beim Dreh einiger eindrucksvoller Szenen zur Hand gehen würden?
+Reportage über Sauberkeit
+Für unsere Reportage über die Kanalisation suchen wir nach Gift-Pokémon, denen übler Gestank nichts ausmacht!
+Bei uns ist der Kunde König!
+Systemingenieure müssen die Gedanken ihrer Kunden lesen können. Deshalb suchen wir nach Pokémon mit übersinnlichen Fähigkeiten!
+Netzwerküberwachung
+Wir suchen Pokémon, die einfach nur ein Auge auf die Stromleitungen unseres Netzwerks haben. Sie sollten sich gut mit Elektrizität auskennen!
+Übernatürliche Überprüfung
+Gibt es da draußen Pokémon, die Fehler im System mit ihren übersinnlichen Fähigkeiten aufspüren können?
+Stellen frei in der Beschwerde-Abteilung
+Um unsere unzufriedenen Kunden besser zu verstehen, suchen wir nach Pokémon, die sich mit Groll und Flüchen auskennen.
+Küchenhilfe gesucht
+Wir stellen Aushilfsköche ein! Voraussetzungen: Viel Erfahrung mit der Handhabung von Feuer.
+Strahlend sauberer Boden
+Unsere Böden müssen gewachst werden! Deshalb suchen wir nach Pokémon, die an eisglatte Oberflächen gewöhnt sind.
+Wir wollen Versicherungen verkaufen!
+Durch die Präsenz von Pokémon, die das Jenseits gesehen haben könnten, unterschreiben bestimmt mehr Kunden unsere Versicherungsverträge!
+Wir wollen ja niemanden einschüchtern...
+Wir würden unsere Runden gern in Begleitung von etwas... zwielichtigen Pokémon machen, die gute Überzeugungsarbeit leisten.
+Niedliche Empfangsmitarbeiter gesucht
+Wir suchen nach heiteren, quirligen Pokémon für unsere Rezeption, um unseren Kunden ein Lächeln auf die Lippen zu zaubern!
+Wer bietet den besten Service
+Wir würden gerne Normal-Pokémon einstellen, die auf die Bedürfnisse all unserer Gäste gut eingehen können.
+Problemlöser gesucht!
+Wir würden gerne Psycho-Pokémon einstellen, die sich gut in den Gemütszustand von aufgebrachten Kunden einfühlen können.
+Warm und kuschelig
+Wir suchen nach Reinigungskräften mit hoher Körpertemperatur, um den Aufenthalt für unsere kälteanfälligen Gäste angenehmer zu gestalten.
+Mischung gefährlicher Chemikalien
+Gift und Medizin sind Kehrseiten derselben Medaille. Wir suchen Gift-Pokémon als Aushilfen für die Herstellung von Medizin!
+Pokémon, die gegen Gift immun sind
+Da man bei dieser Arbeit unter anderem mit giftigen Substanzen in Berührung kommt, suchen wir Stahl-Pokémon, die dagegen resistent sind.
+Wir wollen Kunden anlocken!
+Wir würden gerne Pokémon mit niedlicher Ausstrahlung einstellen, die als Maskottchen Kunden anwerben sollen!
+Ab in die Natur!
+Viele unserer Lieferungen gehen an stark bewachsene Orte, daher würden wir uns sehr über die Hilfe von Pflanzen-Pokémon freuen!
+Bücherdetektive aufgepasst!
+Wir suchen dringend nach Psycho-Pokémon, die unsere vorrätigen Bücher mit ihren übersinnlichen Kräften sofort aufspüren können!
+Hilfe beim Büchertragen
+Wir würden uns über die Hilfe von Pokémon sehr freuen, die dank beeindruckender Muskelkraft schwere Bücher ohne Probleme tragen können!
+Werbung für Okkultes
+Wir möchten eine Ecke für okkulte Bücher einrichten und suchen nach Geister-Pokémon, die dafür die Werbetrommel rühren.
+Aufnahme von Rufen
+Qualitativ hochwertige Aufzeichnungen der Rufe von Käfer-Pokémon sind im Kommen! Wer seine Pokémon zu Stars machen will, soll sich melden!
+Wir brauchen Musik!
+Wir suchen nach Pokémon, die sich mit Elektronik und der Verkabelung von Audio-Geräten auskennen.
+Gemüselagerung
+Damit Gemüse knackig und frisch aussieht, braucht es Wasser. Daher suchen wir nach Wasser-Pokémon, die uns aushelfen!
+Flotte Auslieferhilfe gesucht!
+Lieferungen müssen schnell sein, um die Frische zu bewahren! Daher suchen wir nach Pokémon, die sich im Blau des Himmels zurechtfinden!
+Unsere Spezialgerichte brauchen Feuer!
+Grill-Spezialitäten sind unser Aushängeschild! Damit alles schön braun anbrät, brauchen wir die Hilfe von Feuer-Pokémon.
+Bedienung gesucht
+Bei uns wird jeder Gast gleich gut bedient! Damit wir diesen Standard bewahren können, suchen wir vorbildliche Normal-Pokémon.
+Überraschungslieferung
+Wir überraschen unsere Kunden gern, deshalb suchen wir nach Pokémon, die bei der Lieferung die nötige Prise Horror mitbringen können.
+Sie sollen wachsen und gedeihen!
+Pflanzen nehmen ihre Kraft durch den Boden auf. Wir bitten Boden-Pokémon um ihre Hilfe dabei, Dünger zusammenzustellen.
+Was Blumen brauchen
+Pflanzen müssen unbedingt gegossen werden. Wir bitten Wasser-Pokémon um ihre Hilfe dabei, unseren Pflanzen ausreichend Wasser zu geben.
+Unsere Pflanzen sollen wachsen!
+Wir suchen Gesteins-Pokémon, die sich um Pflanzen kümmern können, die nur zwischen Steinen gedeihen.
+Blumensuche im Wald
+Wir wollen Blumen im Wald sammeln und suchen Gift-Pokémon, die uns dank ihrer Resistenz gegen Pflanzen vor Gefahren beschützen können.
+Wir wollen noch besser grillen!
+Aus unbekanntem Grund suchen wir Drachen- Pokémon, die uns bei der Zubereitung unseres Essens helfen, bevor es auf den Grill kommt.
+Ohne Eis nix los!
+In der Gastronomie darf es nie an Eis mangeln! Daher suchen wir Eis-Pokémon, die uns unter die Arme greifen können.
+Zum Würzen unabdingbar
+Um an das Salz in Gesteinen heranzukommen, brauchen wir die Hilfe von ein paar steinharten Pokémon.
+Wir liefern jetzt auch!
+Unsere Kunden sollen ihr Essen so heiß zugestellt bekommen wie nur möglich! Deshalb suchen wir nach blitzschnellen Flug-Pokémon.
+Gutes Wasser für unsere Desserts
+Für unsere köstlich saftigen Desserts suchen wir Wasser-Pokémon, die uns mit dem nötigen Nass versorgen.
+Je kälter, desto leckerer!
+Für unsere gekühlten Desserts suchen wir Eis-Pokémon, welche die Temperatur unserer Kreationen regulieren.
+Die Grundlagen des Kochens
+Wir suchen nach Pokémon, die geübt im Umgang mit Feuer sind, damit sie die Hitzeregulierung in unserer Küche übernehmen können.
+Duft und Farben verleihen Pepp
+Wir wollen unsere Produktregale mit ein paar Pflanzen aufhübschen und suchen deshalb nach Pflanzen-Pokémon, die uns dabei helfen.
+Röstexperten gesucht
+Beim Rösten von Kaffeebohnen kommt es ganz auf die korrekte Temperatur an. Könnten uns Feuer-Pokémon dabei behilflich sein?
+Das Wasser muss hochwertig sein!
+Wir wollen sicherstellen, dass das Wasser, mit dem wir unseren Kaffee aufbrühen, von höchster Qualität ist. Kontrolle durch Experten erwünscht!
+Schnelle und sichere Lieferungen
+Wir wollen unsere Pakete schnell und elegant ausliefern und suchen noch Flug-Pokémon wie Pelipper, die uns aushelfen können!
+Paketesortierer gesucht
+Wir suchen Pokémon, die Lieferungen von elektronischen Geräten sortieren und sich gut mit Metallen auskennen.
+Unser Hof soll der beste sein!
+Suchen dringend Pflanzen-Pokémon, die gewillt sind, die Qualität des Weidegrases auf unserem Bauernhof zu überprüfen.
+Unser Getreide muss geschützt werden!
+Zum Ausdünnen von Unkraut auf unseren Feldern suchen wir dringend Käfer-Pokémon!
+Unsere Felder wollen gepflügt werden!
+Hilfe beim Pflügen unserer Felder gesucht. Wir hoffen, dass sich insbesondere Pokémon mit starken Armen angesprochen fühlen!
+Hilfe bei der Feldarbeit
+Wir suchen Pflanzen-Pokémon für unseren Gemüseanbau. Kommt zu uns, wir wissen euer Feingefühl für Pflanzen zu schätzen!
+Erntezeit
+Wir sind auf der Suche nach ein paar Erntehelfern. Käfer-Pokémon wären uns eine besonders willkommene Hilfe!
+Flächendeckende Bewässerung
+Wir suchen Flug-Pokémon, die dabei helfen sollen, unsere Felder aus der Luft zu bewässern.
+Kraftprotze gesucht
+Auf dem Bau ist Muskelkraft die wichtigste Qualifikation. Deshalb suchen wir dringend nach Kampf-Pokémon, die uns helfen!
+Wir brauchen ein solides Fundament!
+Wir benötigen einige Pokémon vom Typ Boden, die das Gelände für uns planieren, damit wir darauf bauen können.
+Steinfall kann wehtun
+Hilfe, unsere Baustelle ist steinschlaggefährdet! Suchen dringend Pokémon, die sich mit Gestein auskennen!
+Niemand nimmt die Arbeit ernst...
+Wir suchen Pokémon, die jeden mit einem finsteren Blick strafen, der bei der Arbeit schläft. Zwielichtige Pokémon erwünscht!
+Eisenbahnbau auf solidem Fundament
+Wir stellen ein neues Team für den Wagonbau zusammen und suchen dafür nach Pokémon vom Typ Boden, die uns unterstützen.
+Eisenbahnbau
+Wir suchen Stahl-Pokémon, die uns mit ihrer natürlichen Affinität für Metall und Maschinen beim Eisenbahnbau zur Hand gehen.
+Inbetriebnahme unserer Maschinen
+Wir suchen Pokémon, die den nötigen Strom für den Betrieb der Wagonbau-Maschinen erzeugen können.
+Schiffbau
+Gesucht: Stahl-Pokémon, die uns beim Zurechtschneiden von Metallplatten für unser neuestes Schiff zur Hand gehen möchten.
+Inspektion des Schiffsbugs
+Dringend gesucht: Wasser-Pokémon! Wir brauchen jemanden, der für uns ins Wasser taucht und den Schiffsbug von unten inspiziert.
+Schiffbau im großen Stil
+Diesmal gesucht: Pokémon, die uns dabei helfen, größere Blöcke mithilfe von Elektrizität zusammenzuschweißen.
+Wir bauen solide Autos!
+Suchen ein paar kräftige Boden-Pokémon, die gewillt sind, unsere defekte Hebebühne zu ersetzen.
+Ein Vorbild für unsere Autos
+Robuste Stahl-Pokémon für die Produktion von Automobilen gesucht!
+Leidenschaft muss man sehen können!
+Aushilfen mit brennender Leidenschaft für Autos gesucht. Und wenn wir brennend sagen, meinen wir feurig brennend!
+Gift mit Gift bekämpfen
+Im Rahmen unserer neuen Testreihe suchen wir Pokémon vom Typ Gift, denen Giftstoffe nichts ausmachen.
+Experimente mit Heilkräutern
+Gesucht: Pokémon, die uns bei der Verarbeitung von Heilkräutern zur Hand gehen und sich gut mit Blättern und Wurzeln auskennen.
+Netzproduktion
+Wir suchen tüchtige Käfer-Pokémon, die Zeit und Lust haben, uns beim Weben der neuen Netze zur Hand zu gehen.
+Köstliche Eiscreme
+Wir wollen köstliche, klirrend kalte Eiscreme herstellen. Dafür brauchen wir die Hilfe von Eis-Pokémon!
+Eiscreme-Verkoster gesucht!
+Wir sind auf der Suche nach Normal-Pokémon, die unsere Eiscreme genüsslich essen und so anderen richtig Lust darauf machen können.
+Zauberhaftes Marketing
+Um Passanten die zauberhafte Leichtigkeit unserer Eiscreme zu demonstrieren, bräuchten wir ein paar Pokémon vom Typ Fee!
+Aufbereitung des Bodens
+Wir schürfen in der Galar-Region nach Erzen und suchen dafür nach Boden-Pokémon, die sich mit der Materie auskennen.
+Verunreinigungen sind unerwünscht!
+Um Verunreinigungen aus unseren Metallen zu entfernen, suchen wir nach Feuer-Pokémon, welche die nötige Hitze liefern können.
+Schon praktisch, diese Elektrizität!
+Um Kupfer von Verunreinigungen zu befreien, nutzen wir Elektrizität. Deshalb suchen wir nach arbeitswilligen Elektro-Pokémon!
+Diese Steine müssen weg!
+Beim Bergbau kullern einem ständig Steine in den Weg! Wir suchen nach Gesteins-Pokémon, die besser damit umgehen können als wir.
+Unzerstörbarer Stoff
+Wir möchten einen Stoff entwickeln, den keine Schere der Welt zerschneiden kann! Dafür suchen wir händeringend nach Käfer-Pokémon.
+Dunkle Anprobe
+Wir wollen einen Stoff entwickeln, der 100%ig lichtundurchlässig ist, und suchen dafür nach Unlicht-Pokémon für unsere aktuelle Testreihe.
+Weltraumtauglicher Stoff
+Wir wollen einen weltraumtauglichen Stoff entwickeln und suchen Flug-Pokémon für unsere aktuelle Testreihe.
+Gesucht: Models für unsere Entwürfe
+Wir möchten hübsche, niedliche Kleidung entwerfen und suchen nach Feen-Pokémon, die uns dabei helfen.
+Strapazierbarer Stoff
+Wir möchten einen möglichst robusten Stoff herstellen und suchen dafür dringend nach Käfer-Pokémon, die uns unterstützen.
+Der beste Stoff für den Alltag
+Wir suchen nach Normal-Pokémon, die uns dabei helfen, einen neuen Allzweckstoff zu entwickeln, der allen Situationen gewachsen ist!
+Mystischer Stoff
+Wir wollen Stoff weben, aus dem Legenden gesponnen sind! Bitte schickt uns Drachen- Pokémon für unsere aktuelle Testreihe.
+Niedliche Stoffmuster
+Wir möchten mystische und gleichzeitig niedliche Kleidung entwerfen und brauchen dafür die Unterstützung von Feen-Pokémon!
+Sportschuh-Design
+Wir möchten unsere Sportschuhe testen und suchen deshalb Käfer-Pokémon mit möglichst vielen Füßen.
+Ringerschuh-Design
+Wir möchten neue Ringerschuhe entwerfen und würden uns über die Hilfe von muskulösen Kampf-Pokémon freuen.
+Laufschuh-Design
+Wir entwickeln neue Laufschuhe und suchen dafür Elektro-Pokémon, die blitzschnell durch die Gegend flitzen können.
+Wer läuft für uns Probe?
+Wir suchen Tester für unsere neuen Schuhe! Am besten wären rabiate Unlicht-Pokémon, die hemmungslos durch die Gegend rennen.
+Gute Stoffe brauchen gute Fäden
+Liebe Käfer-Pokémon, wo seid ihr? Wir wollen guten Stoff herstellen und würden nicht Nein sagen, wenn ihr uns dabei helfen wolltet!
+Zauberhafter Stoff
+Liebe Feen-Pokémon, wo seid ihr? Wir möchten einen besonders zauberhaften Stoff herstellen und könnten fachkundige Hilfe gebrauchen!
+Psycho-Textilien
+Liebe Psycho-Pokémon, wo seid ihr? Wir brauchen dringend Hilfe für unsere neue Kollektion mit psychedelischen Mustern!
+Luxuriöse Textilien
+Luxuriöse Textilien erfordern Fasern höchster Qualität. Wir suchen nach Käfer-Pokémon, die uns damit versorgen können.
+Geschickte Pokémon gesucht
+Für hochwertige Textilien ist eine sorgfältige Bearbeitung unabdingbar. Wir suchen daher nach Normal-Pokémon, die uns aushelfen können.
+Psycho-Kräfte für raffinierte Fasern
+Wir möchten die Psycho-Kräfte von Pokémon einsetzen, um unseren Textilien eine besondere Haptik zu verleihen. Psycho-Pokémon gesucht!
+Feine Stoffe
+Wir suchen nach Käfer-Pokémon, die uns bei der Herstellung von feinen Stoffen helfen!
+Vielseitige Stoffe
+Wir suchen nach Normal-Pokémon, die uns bei der Herstellung von vielseitigen Stoffen helfen!
+Wir stellen Brillengläser her
+Für das Schleifen und Polieren unserer Linsen benutzen wir extrem harte Steine. Wir würden uns über die Hilfe von Gesteins-Pokémon freuen!
+Unsere neue Schuhserie
+Für unser neuestes Schuhmodell möchten wir Seide verwenden. Deshalb suchen wir nach tüchtigen Käfer-Pokémon.
+Strapazierfähigkeit als Verkaufsargument
+Wir suchen Pokémon vom Typ Kampf, welche die Strapazierfähigkeit unserer Schuhe demonstrieren können.
+Wildes Image
+Um das wilde Image unserer neuen Schuhe zu pflegen, suchen wir nach ein paar zügellosen Pokémon vom Typ Unlicht.
+Kleidung mit Qualität
+Ohne hochwertige Seide keine hochwertige Kleidung! Wir gehen in Großproduktion. Bitte leiht uns eure Käfer-Pokémon!
+Klamotten voller Punk!
+Suchen dringend Gift-Pokémon, die uns zur Optimierung unserer Färbemittel ihre Gifte zur Verfügung stellen wollen.
+Flotter Wassertransport
+Wir suchen Wasser-Pokémon, die für uns Waren über das Wasser transportieren.
+Eisiger Transport
+Wir suchen nach Eis-Pokémon, die für uns Waren über Wasserflächen voller Eisschollen transportieren.
+Personalbewertung
+Wir suchen nach Feen-Pokémon, die uns dabei helfen, fleißige Arbeiter von faulen Bewerbern zu unterscheiden.
+Persönlichkeitstest
+Wir suchen Unlicht-Pokémon, die unsere Kandidaten erschrecken und ihnen so ihre wahre Natur entlocken können.
+Monorail-Wartung
+Für die Wartung und Inspektion unserer Monorail-Bahnen brauchen wir Elektrizität und suchen händeringend nach Elektro-Pokémon!
+Monorail-Wäsche
+Wir suchen nach motivierten Wasser-Pokémon, um unsere Fahrzeuge von Schmutz zu befreien und in neuem Glanz erstrahlen zu lassen.
+Monorail-Wartung mit Muskelkraft
+Wir suchen nach Kampf-Pokémon, die ihre Stärke und Geschicklichkeit einsetzen, um bei der Inspektion unserer Fahrzeuge zu helfen.
+Das KP-Seminar ist eröffnet!
+Wir haben ein Seminar konzipiert, das den KP-Basiswert von Pokémon erhöhen soll, und suchen jetzt Testkandidaten.
+Das Angriffs-Seminar ist eröffnet!
+Wir haben ein Seminar konzipiert, das den Angriffs-Basiswert von Pokémon erhöhen soll, und suchen jetzt Testkandidaten.
+Das Verteidigungs-Seminar ist eröffnet!
+Wir haben ein Seminar konzipiert, das den Verteidigungs-Basiswert von Pokémon erhöhen soll, und suchen jetzt Testkandidaten.
+Das Sp.-Ang.-Seminar ist eröffnet!
+Wir haben ein Seminar konzipiert, das den Spezial-Angriffs-Basiswert von Pokémon erhöhen soll, und suchen jetzt Testkandidaten.
+Das Sp.-Vert.-Seminar ist eröffnet!
+Wir haben ein Seminar konzipiert, das den Spezial-Verteidigungs-Basiswert von Pokémon erhöhen soll, und suchen jetzt Testkandidaten.
+Das Initiative-Seminar ist eröffnet!
+Wir haben ein Seminar konzipiert, das den Initiative-Basiswert von Pokémon erhöhen soll, und suchen jetzt Testkandidaten.
+Bereit für alles
+Um auf alles vorbereitet zu sein, suchen wir nach Pokémon, denen die Typen Feuer, Wasser, Pflanze und Elektro alle nicht viel ausmachen.
+Bereit für das Unbekannte
+Um uns für rätselhafte Vorfälle zu rüsten, suchen wir nach Pokémon, denen die Typen Psycho, Flug und Fee alle nicht viel ausmachen.
+Bereit für die Natur
+Um uns für Vorfälle in der Natur zu rüsten, suchen wir nach Pokémon, denen die Typen Pflanze, Käfer und Fee alle nicht viel ausmachen.
+Gegen Wasser und Feuer
+Bitten um Mithilfe von starken Pokémon, die sich sowohl gegen lodernde Flammen als auch gegen Wasser behaupten können!
+Ein Notfall! Unsere Tanks sind leer!
+Es gibt eine Sache, die wir zum Feuerlöschen dringend brauchen, und wir suchen Pokémon, die die Tanks unserer Einsatzwagen damit füllen!
+Wohltuende Aromatherapie
+Helft uns dabei, unseren Mitarbeitern, die unter gefährlichen Bedingungen arbeiten, mit Blumen und Pokémon den Arbeitsalltag zu verschönern!
+Wir liefern überall hin!
+Wir suchen zähe Pokémon, die gegen Regen, Blitze und Flammen gefeit sind!
+Reinigung unserer Lieferwagen
+Unsere Lieferwagen sind etwas schmutzig, deshalb suchen wir nach Pokémon, die sie für uns reinigen können!
+Blumenlieferung
+Wir möchten einen Blumenlieferdienst anbieten und suchen dafür nach Pokémon, die sich gut mit Pflanzen auskennen.
+GeHEImAuftrAG
+BrAUchE HiLFe bEi einEM geHEimEn AUFtrAg. ObeRSte VeRSchWIegenHEItsPfliCht. Es WArtEt eINe gROßzügIGe BeZAHluNg.

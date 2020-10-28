@@ -1,0 +1,17 @@
+main_event_1110_assistant_01=El incidente ha sacado a la luz estas estatuas...{0x0114,0x000B}
+main_event_1110_assistant_02=¿Qué desvelan sobre la leyenda de Galar?{0x0114,0x000B}
+main_event_1110_select_03=¿Algo de unos Pokémon?
+main_event_1110_select_04=¿Algo de una espada y un escudo?
+main_event_1110_assistant_08=¡Exacto! Más que un héroe, aquí lo que destaca[0x000A]son esas criaturas que parecen Pokémon.{0xBE01}[0x000A]Y, por si fuera poco, ¡portan una espada y un[0x000A]escudo, como si los estuvieran usando!{0x0114,0x000B}
+main_event_1110_assistant_09=¿Hay algo más que te llame la atención?{0x0114,0x000B}
+main_event_1110_select_05=¡Dos héroes otra vez!
+main_event_1110_select_06=¡Es un reflejo de los tapices!
+main_event_1110_assistant_10=¡Exacto! Definitivamente, los héroes en realidad[0x000A]eran dos. Pero, entonces, sigo sin entender por{0xBE00}[0x000A]qué solo había una estatua en el Hotel Budew...{0x0114,0x000B}
+main_event_1110_assistant_11=Estas ruinas datan de mucho antes que los[0x000A]tapices o la estatua. Por lo tanto, cabría esperar{0xBE00}[0x000A]que revelaran una verdad más creíble, con un{0xBE00}[0x000A]menor halo de leyenda.{0x0114,0x000B}
+main_event_1110_assistant_03=Lo que significa que...{0x0114,0x000B}
+main_event_1110_select_01=¡La espada se refiere a un Pokémon!
+main_event_1110_select_02=¡El escudo se refiere a un Pokémon!
+main_event_1110_assistant_04=¡Hipótesis correcta!{0xBE01}[0x000A]En algún momento, se desdibujó la distinción[0x000A]entre la espada, el escudo y ambos Pokémon.{0xBE01}[0x000A]Pasaron a considerarse una única entidad y...[0x000A]acabaron desapareciendo de los anales de la{0xBE00}[0x000A]historia.{0x0114,0x000B}
+main_event_1110_assistant_05=Había dos jóvenes héroes, y la espada y el[0x000A]escudo eran sus respectivos Pokémon.{0xBE01}[0x000A]Pero ¿por qué ocultar tras un mural la verdad[0x000A]que revelan estas estatuas?{0x0114,0x000B}
+main_event_1110_assistant_06=Creo que hemos hecho un gran descubrimiento.[0x000A]¡Y todo gracias a ti!{0xBE01}[0x000A]Toma el regalo de costumbre.{0xBE01}[0x000A]Pero no quiero distraerte del desafío de los[0x000A]gimnasios. Ahora te toca ir a Pueblo Plié, ¿no?{0x0114,0x000B}
+main_event_1110_assistant_07=Una pieza clave del rompecabezas de la historia[0x000A]oculta tras una obra de arte exquisita...{0xBE01}[0x000A]Tengo que investigarla más a fondo.{0x0114,0x000B}

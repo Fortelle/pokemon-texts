@@ -1,0 +1,13 @@
+sub_event_006_childF_01=Sei sicur{0x1100,0x00FF,0x0101}oa di conoscere i rapporti tra i tipi[0x000A]dei Pokémon? Che ne dici di fare un test?
+sub_event_006_childF_02=Ecco la prima domanda!
+sub_event_006_childF_03=Contro quale tipo sono superefficaci le mosse[0x000A]di tipo {0x0103,0x0001}?
+sub_event_006_childF_04=Contro il tipo {0x0103,0x0002}
+sub_event_006_childF_05=Risposta esattaaaa!
+sub_event_006_childF_06=Ahi ahi! Sbagliato!
+sub_event_006_childF_07=Prossima domanda!
+sub_event_006_childF_08=Torna presto!
+sub_event_006_childF_09=Hai risposto correttamente a {0x0200,0x0004} domand{0x1101,0x0004,0x0101}ae su {0x0200,0x0003}.
+sub_event_006_childF_10=Sai tutto sui rapporti tra i tipi! Bravissim{0x1100,0x00FF,0x0101}oa!
+sub_event_006_childF_11=Ne sai abbastanza sui rapporti tra i tipi. Brav{0x1100,0x00FF,0x0101}oa!
+sub_event_006_childF_12=Dovresti studiare meglio i rapporti tra i tipi...
+sub_event_006_childF_13=Hai fatto l’en plein per la prima volta,[0x000A]complimenti! Ti meriti un regalo!

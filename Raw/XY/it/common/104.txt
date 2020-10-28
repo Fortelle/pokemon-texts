@@ -1,0 +1,95 @@
+Verifica dello stato della GTS in corso.
+Il Pokémon che hai offerto è stato scambiato!
+Salve, questa è la GTS![0x000A]Cosa vuoi fare?
+Cerca un Pokémon
+Offri un Pokémon
+Info su {0x0102,0x0000}
+Esci dalla GTS
+Cerca un Pokémon
+Pokémon richiesto
+Sesso
+Livello
+Cerca con questi criteri!
+Opzioni
+Esci
+
+Non puoi scegliere il sesso quando inserisci[0x000A]un nome.
+Ricerca del Pokémon...
+Quale Pokémon cerchi?
+Nome
+ガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッ[0x000A]
+カキクケコサシスセソタチツテトハヒフヘホハヒフヘホアイウエオツ
+アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワ
+{0x0101,0x0001}
+Scegli tra Pokémon maschio o femmina.
+Qualsiasi
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+Scegli il livello.
+Qualsiasi
+1 - 10
+11 - 20
+21 - 30
+31 - 40
+41 - 50
+51 - 60
+61 - 70
+71 - 80
+81 - 90
+91 o superiore
+Affina la ricerca.
+Persone che cercano Pokémon non comuni
+Includi
+Non includere
+Scegli con chi fare lo scambio.
+L.
+Ulteriore ricerca in corso.[0x000A]Attendi...
+Scegli i criteri di ricerca.
+Pokémon cercati dall’altro giocatore
+Luogo
+Filtra con questi criteri.
+Indietro
+Nessun risultato per i criteri impostati!
+Filtra per Pokémon cercati dall’altro giocatore.
+Qualsiasi
+Pokémon che hai
+Indietro
+Filtra per luogo
+Qualsiasi
+Luogo uguale al tuo
+Luogo diverso dal tuo
+Indietro
+{0xBDFF:0x003D}
+{0xBDFF:0x003E}
+{0xBDFF:0x003F}
+{0xBDFF:0x0040}
+{0xBDFF:0x0041}
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}
+{0xBDFF:0x0046}
+{0xBDFF:0x0047}
+{0xBDFF:0x0048}
+{0xBDFF:0x0049}
+Messaggio
+Offri con questi criteri!
+Indietro
+Scegli quale Pokémon vuoi.
+Vuoi riprenderti {0x0102,0x0000}?
+Riprendi
+{0x0202,0x0000}
+{0x0109,0x0000}
+La GTS è in manutenzione.
+Al momento la GTS è troppo affollata.{0xBE01}[0x000A]Riprova a collegarti più tardi.
+Ricerca non riuscita...
+Errore di comunicazione.
+Impossibile collegarsi alla GTS.
+Il collegamento alla GTS è stato interrotto.
+Nessun risultato trovato per questa ricerca.
+Per poter offrire un Pokémon devi prima[0x000A]decidere che Pokémon vuoi ricevere.
+Scegli quale Pokémon vuoi!
+{0xBDFF:0x005B}
+Questo Pokémon è già stato scambiato.
+Il Pokémon offerto è tornato!
+Questo Pokémon non può essere scambiato!

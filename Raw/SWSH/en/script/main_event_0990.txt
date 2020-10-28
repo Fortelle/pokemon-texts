@@ -1,0 +1,12 @@
+main_event_0990_leader_01=Welcome, Gym Challenger.[0x000A]I’m Bea.{0x0114,0x0011}
+main_event_0990_leader_02=Do you have an unshakable spirit that won’t be[0x000A]moved, no matter how you are attacked?{0xBE01}[0x000A]I think I’ll just test that out, shall I?{0x0114,0x0011}
+main_event_0990_leader_03=Thank you for the battle.{0x0114,0x0011}
+main_event_0990_leader_04=Phew...[0x000A]Facing you gave me all the explanation I needed.{0x0114,0x0011}
+main_event_0990_leader_05=Battling against you and your team...[0x000A]I hadn’t expected it, but it made my heart dance.{0xBE01}[0x000A]It’s good to be unshakable in the face of battle.[0x000A]But it’s good to be moved by battle, as well.{0x0114,0x0011}
+main_event_0990_leader_06=Thank you again.[0x000A]Take the Fighting Badge.{0x0114,0x0011}
+main_event_0990_badge_01=You can now catch Pokémon of up to Lv. 40!
+main_event_0990_leader_07=I hope that you’ll meet many more Trainers[0x000A]and have many more matches in the future.{0xBE01}[0x000A]And I hope that every one of those encounters[0x000A]will nourish your spirit.{0x0114,0x0011}
+main_event_0990_npc_01=Challenger {0x0100,0x0000}![0x000A]Congratulations on defeating Leader Bea!{0xBE01}[0x000A]Please take this TM to remember your victory by!
+main_event_0990_npc_03=And take one of our Fighting Gym uniforms[0x000A]as well, as a souvenir.
+main_event_0990_npc_02=The Fighting Badge suits you, {0x0100,0x0000}.[0x000A]I hope you’ll carry on just as you’ve been doing!
+main_event_0990_system_01=Do you want to go back to the reception area?

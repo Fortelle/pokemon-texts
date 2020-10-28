@@ -1,0 +1,13 @@
+main_event_0180_poke1_01=Flammm ?
+main_event_0180_poke2_01=Larrrm...
+main_event_0180_poke3_01=Ouis ! Ouis !
+main_event_0180_mama_01=Qu’il est mignon, ce petit {0x0101,0x0001} ![0x000A]Tu as très bien choisi, m{0x1100,0x00FF,0x0808}on chéria chérie !{0xBE01}[0x000A]Au fait, Tarak m’a dit que tu comptais aller[0x000A]à Brasswick pour récupérer un Pokédex ?{0x0114,0x0008}
+main_event_0180_mama_02=C’est super ! Je vais te donner un peu d’argent[0x000A]de poche pour la route, tiens !{0xBE01}[0x000A]Comme ça, tu pourras t’acheter des Potions[0x000A]ou d’autres bricoles au Centre Pokémon !{0x0114,0x0008}
+main_event_0180_mama_03={0xBDFF:0x0005}
+main_event_0180_mama_04={0xBDFF:0x0006}
+main_event_0180_mama_05=Ton {0x0101,0x0001} va se battre de toutes[0x000A]ses forces pour toi, alors tu dois veiller sur lui !{0x0114,0x0008}
+main_event_0180_poke1_02=Bino !
+main_event_0180_poke2_02=Léon !
+main_event_0180_poke3_02=Tempo !
+main_event_0180_mama_06=Mon joli petit {0x0101,0x0001} ![0x000A]Je te confie {0x0100,0x0000} !{0x0114,0x0008}
+main_event_0180_mama_07=Et n’oublie pas, si tu as des soucis, tu peux[0x000A]toujours rentrer à la maison pour te reposer !{0x0114,0x0008}

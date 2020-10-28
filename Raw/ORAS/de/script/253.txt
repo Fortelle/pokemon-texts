@@ -1,0 +1,153 @@
+Na, was sagst du, {0x0100,0x0000}?[0x000A]Drinnen ist es auch ganz gemütlich, oder?
+Die Pokémon der Umzugsfirma übernehmen[0x000A]für uns das Einräumen und das Saubermachen.{0xBE01}[0x000A]Das ist so was von praktisch!
+Bist du nicht neugierig auf dein neues Zimmer?
+{0x0100,0x0000}, Schatz!{0xBE01}[0x000A]Stell doch bitte kurz die Uhr in deinem Zimmer ein![0x000A]Sie hängt an der Wand zwischen deinem Schreibtisch{0xBE00}[0x000A]und der Landkarte von Hoenn.
+Oh! Da bist du ja, {0x0100,0x0000}![0x000A]Schnell! Komm schnell her!
+Da, siehst du? Das ist die Arena von Blütenburg City![0x000A]Ich glaube, Vati ist gleich im Fernsehen!
+Interviewer: ...
+Interviewer: Und das war unsere Reportage[0x000A]über die Arena von Blütenburg City.{0xBE01}[0x000A]Es folgt eine Ankündigung zur Astronomie-Show,[0x000A]der alle Welt bereits ungeduldig entgegenfiebert…
+Oh... Schon vorbei.{0xBE01}[0x000A]Wenn Vati wirklich im Fernsehen war,[0x000A]dann haben wir ihn leider verpasst. Schade!
+Ach ja, bevor ich’s vergesse...{0xBE01}[0x000A]In dieser Stadt wohnt einer von Vatis Freunden.[0x000A]{0xFF00,0x0002}Professor Birk{0xFF00,0x0000} ist sein Name.{0xBE01}[0x000A]Er wohnt {0xFF00,0x0002}gleich nebenan{0xFF00,0x0000}.[0x000A]Schau doch mal bei ihm vorbei und sag Hallo!
+{0xFF00,0x0002}Professor Birk{0xFF00,0x0000} wohnt {0xFF00,0x0002}gleich nebenan{0xFF00,0x0000}.[0x000A]Schau doch mal bei ihm vorbei und sag Hallo!{0xBE01}[0x000A]Bis später, Schatz!
+Hast du schon bei Professor Birk vorbeigeschaut?
+Wie geht’s dir denn so, {0x0100,0x0000}?[0x000A]Du siehst ganz schön geschafft aus.{0xBE01}[0x000A]Ruh dich hier doch ein bisschen aus...
+Pass auf dich auf, Schatz!
+Oh! Hast du den Orden da etwa von Vati bekommen?{0xBE01}[0x000A]Dann bekommst du auch etwas von deiner Mutti![0x000A]Hier, nimm.
+Überanstreng dich nicht, Liebes. Du kannst jederzeit[0x000A]nach Hause kommen, wenn du mal eine Pause brauchst.{0xBE01}[0x000A]Und jetzt nichts wie los, Schatz! Viel Erfolg!
+Macho, mei, mei...
+Mei, mei, mei!
+Es läuft gerade ein Film.{0xBE01}[0x000A]Ein Erwachsener und ein Kind tanzen[0x000A]auf riesengroßen Klaviertasten.{0xBE01}[0x000A]Aber es wird Zeit zum Aufbrechen!
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+Oh, hallo![0x000A]Wer bist du denn?{0xBE01}[0x000A]...{0xBE01}[0x000A]Ah, du bist {0x0100,0x0000}, unser neuer Nachbar![0x000A]Freut mich sehr!{0xBE01}[0x000A]Wir haben eine Tochter in deinem Alter.{0xBE01}[0x000A]Sie freut sich schon darauf, dich kennenzulernen.{0xBE01}[0x000A]Ich glaube, sie ist {0xFF00,0x0002}oben in ihrem Zimmer{0xFF00,0x0000}.[0x000A]Ich hoffe, ihr werdet gute Freunde!
+Oh, hallo![0x000A]Wer bist du denn?{0xBE01}[0x000A]...{0xBE01}[0x000A]Ah, du bist {0x0100,0x0000}, unsere neue Nachbarin![0x000A]Freut mich sehr!{0xBE01}[0x000A]Wir haben einen Sohn in deinem Alter.{0xBE01}[0x000A]Er freut sich schon darauf, dich kennenzulernen.{0xBE01}[0x000A]Ich glaube, er ist {0xFF00,0x0002}oben in seinem Zimmer{0xFF00,0x0000}.[0x000A]Ich hoffe, ihr werdet gute Freunde!
+Es wäre wundervoll, wenn {0x1100,0x00FF,0x090D,0x0000}meine Tochtermein Sohn[0x000A]und du Freunde werden würdet.{0xBE01}[0x000A]Ich glaube, {0x1100,0x00FF,0x1515,0x0000}sie ist oben in ihremer ist oben in seinem Zimmer.[0x000A]Schau doch mal bei {0x1100,0x00FF,0x0303,0x0000}ihrihm vorbei!
+Wo steckt mein Mann nur wieder? Ausgerechnet jetzt,[0x000A]wo du uns besuchst, ist er nicht da...
+Wo ist denn nur mein Mann? Ausgerechnet jetzt,[0x000A]wo du uns besuchst, ist er nicht da...
+Wenn du Maike suchst, die ist irgendwo[0x000A]draußen unterwegs.{0xBE01}[0x000A]Wie der Vater, so die Tochter.[0x000A]Sie hält es nicht lange drinnen aus.
+Wenn du Brix suchst, der ist irgendwo[0x000A]draußen unterwegs.{0xBE01}[0x000A]Wie der Vater, so der Sohn.[0x000A]Er hält es nicht lange drinnen aus.
+Gemeinsam mit Pokémon Abenteuer zu bestreiten,[0x000A]ist zwar schön, aber du solltest auch manchmal{0xBE00}[0x000A]zu Hause vorbeischauen und deiner Mutter zeigen,{0xBE00}[0x000A]dass es dir gut geht.{0xBE01}[0x000A]Sie lässt es sich nicht anmerken, aber sie macht[0x000A]sich bestimmt Sorgen um dich, {0x0100,0x0000}!
+Gemeinsam mit Pokémon Abenteuer zu bestreiten,[0x000A]ist zwar schön, aber du solltest auch manchmal{0xBE00}[0x000A]zu Hause vorbeischauen und deiner Mutter zeigen,{0xBE00}[0x000A]dass es dir gut geht.{0xBE01}[0x000A]Sie lässt es sich nicht anmerken, aber sie macht[0x000A]sich bestimmt Sorgen um dich, {0x0100,0x0000}!
+{0xBDFF:0x0021}
+Die Uhr ist stehengeblieben.{0xBE01}[0x000A]Du ziehst sie neu auf und stellst sie wieder richtig ein...
+Die Uhr an der Wand tickt fleißig vor sich hin.
+Da hängt eine Uhr an der Wand.[0x000A]Sie sieht irgendwie cool aus!
+Da hängt eine Uhr an der Wand.[0x000A]Sie sieht irgendwie niedlich aus!
+{0x0100,0x0000}, wie gefällt dir dein neues Zimmer?{0xBE01}[0x000A]Wie ich sehe, ist alles wunderbar aufgeräumt. Sehr schön![0x000A]Unten ist auch schon alles komplett eingerichtet.{0xBE01}[0x000A]Pokémon-Umzugshelfer sind wirklich praktisch.{0xBE01}[0x000A]Ach ja, schau mal nach, ob auch auf deinem[0x000A]Schreibtisch nichts fehlt.
+{0xBDFF:0x0027}
+{0xBDFF:0x0028}
+{0x0100,0x0000} blättert durch das Notizbuch...{0xBE01}[0x000A]Tipp Nr. 1 für Abenteurer:[0x000A]Öffne das Menü mit dem X-Knopf.{0xBE01}[0x000A]Tipp Nr. 2 für Abenteurer:[0x000A]Wähle „Speichern“, um deinen Fortschritt zu sichern.
+{0x0100,0x0000} schaut sich die Karte der Hoenn-Region[0x000A]genauer an...
+Da steht eine Wii U-Konsole.[0x000A]Das GamePad hat einen eigenen Bildschirm!
+Pokémon: Bei guter Gesundheit![0x000A]Items: Verstaut. Fehlt noch was?
+Was?[0x000A]Wer... Wer bist du denn?
+...
+Ach, du bist {0x0100,0x0000}![0x000A]Ihr seid also heute hergezogen.
+Ich, äh... Ich bin Maike.[0x000A]Sch-schön, dich kennenzulernen!
+Mein Traum ist es, mit Pokémon aus der[0x000A]ganzen Welt Freundschaft zu schließen.
+Als Papa... äh, ich meine Professor Birk, mir erzählt hat,[0x000A]dass du hier herziehst...{0xBE01}[0x000A]Nun ja, ich hatte gehofft, dass du nett bist[0x000A]und dass wir Freunde werden können...
+Ach, was rede ich denn da schon wieder...[0x000A]Und das bei unserem allerersten Gespräch!
+Tehehe...
+Oh nein! Fast hätte ich’s vergessen...{0xBE01}[0x000A]Ich wollte meinem Vater doch helfen und[0x000A]ein paar wilde Pokémon für ihn fangen!
+B-bis später, {0x0100,0x0000}!
+{0x0100,0x0000}!{0xBE01}[0x000A]Ich schaue mir gerade meinen Pokédex an.{0xBE01}[0x000A]Es gibt eine Menge Pokémon, die ich zwar gesehen,[0x000A]aber nicht gefangen habe.{0xBE01}[0x000A]Und es gibt viele, von denen ich annehme,[0x000A]dass sie sich noch entwickeln.{0xBE01}[0x000A]Jetzt überlege ich, wohin ich als Nächstes gehen soll,[0x000A]um weitere Pokémon zu fangen...
+Wohin soll ich als Nächstes gehen,[0x000A]um Pokémon zu fangen?{0xBE01}[0x000A]Vielleicht treffen wir uns unterwegs ja, {0x0100,0x0000}!
+Pokémon: Quietschfidel!{0xBE01}[0x000A]Items: Verstaut!{0xBE01}[0x000A]Fehlt noch...[0x000A]Hm, was fehlt denn jetzt noch?
+Hey, wer bist du denn?
+Du heißt {0x0100,0x0000}? Ah, jetzt weiß ich’s![0x000A]Ihr seid gerade nebenan eingezogen, stimmt’s?
+Ich wusste nicht, dass du ein Mädchen bist...
+Mein Vater, Professor Birk, hat mir erzählt,[0x000A]dass nebenan das Kind eines Arenaleiters einzieht.{0xBE01}[0x000A]Irgendwie hab ich automatisch gedacht,[0x000A]du wärst ein Junge...
+Ich heiße übrigens Brix.[0x000A]Freut mich, dich kennenzulernen, Nachbarin!
+Aber Moment mal... Hast du etwa kein[0x000A]einziges Pokémon, {0x0100,0x0000}?{0xBE01}[0x000A]Hey, wie wär’s, soll ich eins für dich fangen?
+Aber, nein, Mensch...[0x000A]Fast hätte ich’s vergessen...{0xBE01}[0x000A]Ich hatte meinem Vater versprochen,[0x000A]ein paar wilde Pokémon für ihn zu fangen.
+Ein anderes Mal, okay?
+Hey, {0x0100,0x0000}!{0xBE01}[0x000A]Ich schaue mir gerade meinen Pokédex an.{0xBE01}[0x000A]Es gibt noch viele Pokémon, die ich fangen muss,[0x000A]aber so weit, so gut.{0xBE01}[0x000A]Immer, wenn ich den Pokédex betrachte,[0x000A]bekomme ich Lust, wieder auf Reisen zu gehen...
+Ich weiß nicht, wo ich hingehen soll,[0x000A]um mehr Pokémon zu fangen...{0xBE01}[0x000A]Hey, {0x0100,0x0000}, wenn wir uns unterwegs treffen,[0x000A]können wir ja einen Pokémon-Kampf austragen!
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}
+In dem Notizbuch steht ein schön geschriebener Eintrag...{0xBE01}[0x000A]– Kommt 100 Pro im Test vor, also unbedingt lernen! –{0xBE01}[0x000A]Pokémon können bis zu vier Attacken auf einmal[0x000A]beherrschen.{0xBE01}[0x000A]Was ein Trainer wirklich draufhat, erkennt man[0x000A]an den Attacken, die er seinen Pokémon beibringt.
+In dem Notizbuch steht ein Eintrag in krakeliger Schrift...{0xBE01}[0x000A]– Kommt 100 Pro im Test vor, also unbedingt lernen! –{0xBE01}[0x000A]Pokémon können bis zu vier Attacken auf einmal[0x000A]beherrschen.{0xBE01}[0x000A]Was ein Trainer wirklich draufhat, erkennt man[0x000A]an den Attacken, die er seinen Pokémon beibringt.
+Vielen Dank für alles![0x000A]Gute Arbeit!
+Schau dir doch mal dein Zimmer oben im ersten Stock an!{0xBE01}[0x000A]Vati hat dir als kleines Umzugsgeschenk eine neue Uhr[0x000A]gekauft. Stell sie bitte richtig ein, {0x0100,0x0000}!
+Die Uhr ist jetzt auf {0x0201,0x0000}:{0x0201,0x0001} Uhr eingestellt!
+Hm?
+Hey, wenn das mal nicht {0x0100,0x0000} ist![0x000A]Lange nicht gesehen!{0xBE01}[0x000A]Du siehst irgendwie stärker aus.[0x000A]Das ist zumindest mein Eindruck...
+Aber dein alter Herr hat auch fleißig trainiert!
+Oh, bevor ich es vergesse...[0x000A]Das hier wollte ich dir noch geben.
+Das ist eine Eintrittskarte für die Astronomie-Show[0x000A]im Raumfahrtzentrum von Moosbach City.{0xBE01}[0x000A]Eigentlich wollte ich da mit deiner Mutter hin...
+Aber ich muss leider schon wieder zurück[0x000A]zur Arena in Blütenburg City.
+Ach ja, das ist übrigens ein Zweierticket!
+Wieso lädst du nicht Maike[0x000A]von nebenan ein?
+Wieso lädst du nicht Brix[0x000A]von nebenan ein?
+So, jetzt muss ich aber echt los.[0x000A]Bis später, {0x0100,0x0000}!
+Danke, dass du dich in meiner Abwesenheit[0x000A]hier um alles kümmerst.
+Ist schon gut...[0x000A]Pass auf dich auf!
+Das ist mal wieder typisch Vati.{0xBE01}[0x000A]Da kommt er seit ewigen Zeiten das erste Mal[0x000A]nach Hause und spricht nur über Pokémon...{0xBE01}[0x000A]Warum kann er sich nicht einfach mal ausruhen[0x000A]und vielleicht auch eine Weile hierbleiben?
+Sprecher: ...Es folgen Neuigkeiten zur Astronomie-Show,[0x000A]die morgen endlich ihre Premiere feiert!
+Oh! Gerade haben wir noch davon gesprochen!{0xBE01}[0x000A]Hey, {0x0100,0x0000}, schau mal!
+Sprecher: In Kürze wird es am Nachthimmel von Hoenn[0x000A]im Sternbild Leufeo einen Meteorschauer zu sehen geben!{0xBE01}[0x000A]Im Raumfahrtzentrum von Moosbach City, wo die[0x000A]Astronomie-Show veranstaltet wird, wurde eigens eine{0xBE00}[0x000A]Aussichtsplattform bereitgestellt, von der aus man den{0xBE00}[0x000A]schönsten Ausblick auf die Sternschnuppen haben kann!{0xBE01}[0x000A]Das Zentrum freut sich auf viele Besucher...
+Oh! Das klingt toll, oder?
+Ein Meteorschauer im Sternbild Leufeo...?{0xBE01}[0x000A]Das erinnert mich an den Meteorschauer,[0x000A]den ich vor elf Jahren mit Vati gesehen habe!
+Los, geh schnell rüber und lad das Nachbarskind ein,[0x000A]mit dem du dich angefreundet hast!{0xBE01}[0x000A]Es wäre eine Verschwendung, das Zweierticket[0x000A]von Vati einfach so verfallen zu lassen!
+Es läuft gerade ein Werbespot[0x000A]für die Astronomie-Show...{0xBE01}[0x000A]...{0xBE01}[0x000A]Aber es wird Zeit zum Aufbrechen!
+Autsch...
+Aua...
+Maike! Alles in Ordnung?!{0xBE01}[0x000A]Was hat dieses Biest dir angetan?[0x000A]Sag schon, Kind!
+Brix! Alles in Ordnung?!{0xBE01}[0x000A]Was hat dieses Biest dir angetan?[0x000A]Sag schon, Kind!
+Keine Sorge, Mama...[0x000A]Mir geht’s gut!{0xBE01}[0x000A]Sie hat mich nur angerempelt, sonst nichts...{0xBE01}[0x000A]Autsch...
+Jetzt beruhig dich doch erst mal, Mama!{0xBE01}[0x000A]Sie hat mich nur etwas geschubst.[0x000A]Alles halb so wild!{0xBE01}[0x000A]Autsch...
+...!{0xBE01}[0x000A]{0x0100,0x0000}!
+...!{0xBE01}[0x000A]{0x0100,0x0000}!
+{0x0100,0x0000}... Es geht dir gut...[0x000A]Da bin ich echt erleichtert!
+{0x0100,0x0000}... Dir scheint es gut zu gehen.[0x000A]Schön.
+Ich weiß auch nicht genau, was passiert ist.[0x000A]Es ging alles so schnell...{0xBE01}[0x000A]Auf einmal kam durch das Fenster im ersten Stock[0x000A]eine fremde Frau und dann...{0xBE01}[0x000A]Dann hat sie mir mit Gewalt meinen[0x000A]Schlüssel-Stein entrissen...
+Ich weiß auch nicht genau, was passiert ist.[0x000A]Es ging alles so schnell...{0xBE01}[0x000A]Auf einmal kam durch das Fenster im ersten Stock[0x000A]eine fremde Frau und hat mir meinen{0xBE00}[0x000A]Schlüssel-Stein weggenommen...
+Meine Pokémon und ich haben uns zwar[0x000A]versucht zu wehren, aber...{0xBE01}[0x000A]Sie war unglaublich stark...[0x000A]Wir hatten nicht die geringste Chance.
+Meine Pokémon und ich haben uns zwar[0x000A]versucht zu wehren, aber...{0xBE01}[0x000A]Sie war unglaublich stark...[0x000A]Wir hatten nicht die geringste Chance.
+Sie hat irgendwas vor sich hin gemurmelt.[0x000A]Ich glaube, es war: „{0xFF00,0x0002}Nächster Halt: Blütenburg City{0xFF00,0x0000}“...{0xBE01}[0x000A]Sei bitte vorsichtig, {0x0100,0x0000}...
+Sie hat irgendwas vor sich hin gemurmelt.[0x000A]Ich glaube, es war: „{0xFF00,0x0002}Nächster Halt: Blütenburg City{0xFF00,0x0000}“...{0xBE01}[0x000A]Sei vorsichtig, {0x0100,0x0000}...
+Dass du mal zu Besuch bist, freut mich wirklich.{0xBE01}[0x000A]Leider fühle ich mich nicht so gut...[0x000A]Ich werde mich eine Weile zu Hause ausruhen müssen...
+Dass du mal zu Besuch bist, freut mich wirklich.{0xBE01}[0x000A]Leider fühle ich mich nicht so gut...[0x000A]Ich werde mich eine Weile zu Hause ausruhen müssen...
+Wer um alles in der Welt hat das meinem Kind angetan?
+Oh, hallo! Willkommen![0x000A]Fühl dich wie zu Hause.
+{0xBDFF:0x0073}
+{0xBDFF:0x0074}
+{0xBDFF:0x0075}
+Hm?
+Guten Morgen, {0x0100,0x0000}.
+Du musst echt ganz schön kaputt gewesen sein.[0x000A]Du hast geschlafen wie ein Kleinstein.
+Oh, fast vergessen![0x000A]Ein Mr. Brack hat dir das hier geschickt.
+Hm, ein Bootsticket...?
+Soweit ich weiß, gibt es in Graphitport[0x000A]und Seegrasulb Anlegestellen für Fähren.
+{0x0100,0x0000}, wenn du den Ehrgeiz eines wahren[0x000A]Trainers hast, dann nimm die Fähre zum {0xFF00,0x0002}Kampfresort{0xFF00,0x0000}.{0xBE01}[0x000A]Dort wirst du merken, dass man[0x000A]als Trainer niemals ausgelernt hat.
+Ich geh dann mal zurück nach[0x000A]Blütenburg in die Arena.{0xBE01}[0x000A]Danke, dass du dich hier um alles kümmerst.
+Ach, dein Vati ist mir vielleicht einer.[0x000A]Immer hat er nur seine Arbeit im Kopf!{0xBE01}[0x000A]Er sollte sich lieber mal ausruhen![0x000A]Aber so ist er eben...
+Maike und {0x0100,0x0000} sollten[0x000A]inzwischen angekommen sein, oder?
+Brix und {0x0100,0x0000} sollten[0x000A]inzwischen angekommen sein, oder?
+Stimmt...
+Heute ist das Wetter so gut, dass sie bestimmt[0x000A]einen schönen Sternenhimmel zu sehen bekommen...
+Ich bin wirklich froh, dass wir aus Johto[0x000A]hergezogen sind.
+Ich glaube, die Begegnung mit dir, Birk,[0x000A]deiner Frau und Maike hat das Leben von{0xBE00}[0x000A]{0x0100,0x0000} stark geprägt.
+Frau Birk, ich glaube, die Begegnung mit Ihnen,[0x000A]dem Professor und Brix hat das Leben von{0xBE00}[0x000A]{0x0100,0x0000} stark geprägt.
+Ja, sie haben das Leben {0x1100,0x00FF,0x0E0F,0x0000}unserer Tochterunseres Sohnes[0x000A]eindeutig auch stark bereichert.
+Stimmt’s, Liebling?
+Natürlich!
+Wenn Maike sich mal bei uns blicken lässt, redet sie[0x000A]immer nur von Pokémon und von {0x0100,0x0000}.
+Wenn Brix sich mal bei uns blicken lässt, redet er[0x000A]immer nur von Pokémon und von {0x0100,0x0000}.
+Ich habe das Gefühl, {0x1100,0x00FF,0x0203,0x0000}sieer ist sehr froh darüber,[0x000A]diese Reise gemacht und {0x1100,0x00FF,0x1515,0x0000}einen so guten Freundeine so gute Freundin{0xBE00}[0x000A]gefunden zu haben.
+{0x1100,0x00FF,0x0F0C,0x0000}Unserem SohnUnserer Tochter geht es da nicht anders, glaube ich.[0x000A]Seit unserem Umzug wirkt {0x1100,0x00FF,0x0302,0x0000}ersie immer so glücklich...
+Vielen Dank, dass Sie sich immer so nett um[0x000A]{0x0100,0x0000} kümmern.{0xBE01}[0x000A]Ich hoffe, dass unsere Kinder auch in Zukunft[0x000A]eng miteinander verbunden bleiben werden.
+„Sie“? Warum denn so förmlich?{0xBE01}[0x000A]Und dass wir uns um euer Kind kümmern,[0x000A]ist doch selbstverständlich!{0xBE01}[0x000A]Hahaha!
+Hahaha...[0x000A]Vielen Dank!
+Liebling, wir sollten langsam zurück nach Hause gehen.[0x000A]Ich muss noch das Abendessen vorbereiten.
+Ja, du hast recht! Die Kinder werden sicher[0x000A]auch bald hungrig nach Hause kommen.
+Hmmm, was sollen wir heute zu Abend essen?[0x000A]Was meinst du, Vati?
+Mal überlegen...[0x000A]Wie wär’s mit dem Leibgericht unseres {0x1100,0x00FF,0x0806,0x0000}JungenMädchens?
+Ah!
+Stimmt ja![0x000A]Hier!{0xBE01}[0x000A]Das wollte ich dir noch geben, {0x0100,0x0000}.
+Neulich war doch diese Astronomie-Show.{0xBE01}[0x000A]Am Tag danach habe ich im Gras vor unserem[0x000A]Haus diesen hübschen Stein gefunden.{0xBE01}[0x000A]Ist es nicht schön, wie er in den Farben[0x000A]des Regenbogens funkelt?
+Auf diesem Notizzettel von Mutti steht,[0x000A]was es heute zu essen gibt.
+Auf diesem Notizzettel steht, was es[0x000A]die ganze Woche zu essen gibt.

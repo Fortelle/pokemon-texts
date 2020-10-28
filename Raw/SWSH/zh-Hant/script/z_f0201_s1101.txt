@@ -1,0 +1,9 @@
+msg_f0201_s1101_bellboy_01={0xBDFF:0x0000}
+msg_f0201_s1101_bikini2_01={0xBDFF:0x0001}
+msg_f0201_s1101_poke1_01={0xBDFF:0x0002}
+msg_f0201_s1101_poke2_01={0xBDFF:0x0003}
+msg_f0201_s1101_gentleman_01={0xBDFF:0x0004}
+msg_f0201_s1101_madam_01={0xBDFF:0x0005}
+msg_f0201_s1101_dancer_01={0xBDFF:0x0006}
+msg_f0201_s1101_poke3_01={0xBDFF:0x0007}
+msg_f0201_s1101_sign1_01={0xBDFF:0x0008}

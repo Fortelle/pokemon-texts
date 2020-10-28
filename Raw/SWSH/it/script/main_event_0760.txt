@@ -1,0 +1,4 @@
+main_event_0760_rival_01={0x0100,0x0000}, finalmente!{0x0114,0x0005}
+main_event_0760_rival_02=Indovina un po’? Sono riuscito a conquistare[0x000A]la Medaglia Fuoco!{0x0114,0x0005}
+main_event_0760_rival_03=È stata una lotta intensa, proprio come[0x000A]mi aspettavo!{0xBE01}[0x000A]Kabu è davvero un avversario rovente!{0xBE01}[0x000A]Persino il mio Pokémon più tosto ha rischiato[0x000A]di finire tostato!{0x0114,0x0005}
+main_event_0760_rival_04=Ma sono sicuro che ce la farai anche tu,[0x000A]{0x0100,0x0000}!{0x0114,0x0005}

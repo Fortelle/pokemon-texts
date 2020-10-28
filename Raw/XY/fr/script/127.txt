@@ -1,0 +1,76 @@
+Le sol est meuble.
+Le sol est meuble.[0x000A]Que voulez-vous faire[0xE07F]?
+Du {0x0109,0x0006} a été répandu[0xE07F]!
+Quel engrais voulez-vous répandre[0xE07F]?
+Répandre un engrais
+Planter une Baie
+Ne rien faire
+Voulez-vous répandre un engrais[0xE07F]?
+J’ai changé d’avis
+Voulez-vous planter une Baie[0xE07F]?
+Vous répandez du {0x0109,0x0006}[0xE07F]!
+Vous avez planté une {0x0109,0x0001}[0xE07F]!
+Un Pokémon vous bondit dessus[0xE07F]!
+La terre est couverte de mauvaises herbes.[0x000A]Voulez-vous désherber le lopin[0xE07F]?
+L’arbuste à Baies {0x018E,0x0007} se porte bien[0xE07F]!
+Les bourgeons de l’arbuste à Baies[0x000A]{0x018E,0x0007} sont prometteurs[0xE07F]!
+Les fleurs de l’arbuste à Baies {0x018E,0x0007}[0x000A]se portent merveilleusement[0xE07F]!
+{0x0100,0x0005} a désherbé le lopin[0xE07F]!
+Ici, vous avez planté une {0x0109,0x0001}.
+Une pousse d’arbuste à Baies {0x018E,0x0007}[0x000A]sort du sol[0xE07F]!
+Le plant de Baies {0x018E,0x0007} pousse bien[0xE07F]!
+Le tronc de l’arbuste à Baies {0x018E,0x0007}[0x000A]grossit[0xE07F]!
+L’arbuste à Baies {0x018E,0x0007} bourgeonne[0xE07F]!
+L’arbuste à Baies {0x018E,0x0007} est en fleurs[0xE07F]!
+La terre est desséchée.[0x000A]Il faut arroser les plants[0xE07F]!
+La terre est gorgée d’eau.[0x000A]Inutile d’arroser.
+La terre est desséchée.[0x000A]Voulez-vous arroser[0xE07F]?
+{0xBDFF:0x001B}
+Grâce à ce bon arrosage, le sol est plus fertile[0xE07F]!
+L’arbuste à {0x0109,0x0001} a donné[0x000A]{0x0201,0x0003} Baie{0x1101,0x0003,0x0100}s[0xE07F]!
+Voulez-vous faire une récolte[0xE07F]?
+{0x0201,0x0003} Baie{0x1101,0x0003,0x0100}s récoltée{0x1101,0x0003,0x0100}s sur l’arbuste[0x000A]à {0x0109,0x0001}[0xE07F]!
+Vous remettez la récolte à plus tard.
+Le Sac est plein[0xE08D] Récolte annulée.
+La récolte de l’arbuste à {0x0109,0x0001}[0x000A]est terminée[0xE07F]! Le sol est à nouveau meuble.
+L’arbuste à Baies {0x018E,0x0007} s’est desséché.{0xBE01}[0x000A]Oh[0xE07F]! Une pousse repart[0xE07F]!
+Après une soudaine mutation, l’arbuste produit[0x000A]également une nouvelle sorte de Baies[0xE07F]!{0xBE01}[0x000A]{0x0109,0x0001} : {0x0201,0x0003}[0x000A]{0x0109,0x0002} : {0x0201,0x0004}
+Le Sac est plein[0xE08D] Récolte annulée.
+{0x0100,0x0005} remet la récolte à plus tard.
+Récolte du jour :{0xBE01}[0x000A]{0x0109,0x0001} : {0x0201,0x0003}[0x000A]{0x0109,0x0002} : {0x0201,0x0004}
+La récolte de {0x0109,0x0001} et de[0x000A]{0x0109,0x0002} a été rangée dans le Sac.{0xBE01}[0x000A]Le sol est redevenu meuble.
+{0x0109,0x0006}
+Voici un composteur[0xE07F]![0x000A]Les explications sont écrites sur le couvercle :{0xBE01}[0x000A]«[0xE07F]En déposant trois Baies dans ce composteur,[0x000A]vous pouvez obtenir de l’engrais[0xE07F]!{0xBE01}[0x000A]En répandant de l’engrais sur le sol avant de[0x000A]planter les Baies, vous faciliterez leur croissance[0xE07F]![0xE07F]»{0xBE01}[0x000A][0xE08D][0x000A]Voulez-vous mettre des Baies dans le composteur[0xE07F]?
+Voici un composteur[0xE07F]!{0xBE01}[0x000A]Voulez-vous y mettre des Baies[0xE07F]?
+Les explications sont sur le couvercle[0x000A]du composteur[0xE07F]!{0xBE01}[0x000A]Il faut trois Baies pour obtenir de l’engrais.
+Choisissez la première Baie.
+Choisissez la deuxième Baie.
+Choisissez la troisième Baie.
+{0x0100,0x0005} a mis une {0x0109,0x0000},[0x000A]une {0x0109,0x0001} et une{0xBE00}[0x000A]{0x0109,0x0002} dans le composteur[0xE07F]!
+[0xE08D]
+{0x0100,0x0005} a obtenu[0x000A]{0x0201,0x0003} {0x0109,0x0006}[0xE07F]!
+C’est un puits.
+Hé, m’sieur[0xE07F]! Viens voir[0xE07F]!
+Hé, mam’zelle[0xE07F]! Viens voir[0xE07F]!
+Pépé[0xE07F]! Voilà un Dresseur exceptionnel[0xE07F]![0x000A]Enfin, j’ai l’impression. Regarde[0xE07F]!
+Boudiou[0xE07F]! Je suis sûr que tu feras l’affaire[0xE07F]![0x000A]Regarde-moi ça, c’est mon champ de Baies.{0xBE01}[0x000A]Qu’est-ce que tu dirais si j’te confiais mon champ[0xE07F]?[0x000A]C’est le bonheur, de faire pousser des Baies[0xE07F]!{0xBE01}[0x000A]T’es jeune[0xE07F]! Brasser la terre, ça te forgera le[0x000A]caractère, et je sens que t’es digne de confiance.{0xBE01}[0x000A]Allez, tu peux pas savoir avant d’avoir essayé[0xE07F]![0x000A]Alors, t’en dis quoi[0xE07F]?
+Allons, allons, c’est joli, les Baies.[0x000A]Et j’ai personne d’autre sous la main, moi[0xE07F]!
+Je t’en prie[0xE07F]! Occupe-toi de mon champ[0xE07F]!
+Parfait[0xE07F]! Tope là, euh[0xE08D][0x000A]{0x0100,0x0000}, c’est ça[0xE07F]?{0xBE00}[0x000A]Eh bien merci, {0x0100,0x0000}[0xE07F]!
+Wouah[0xE07F]! C’est super, pépé[0xE07F]!
+Bon, je vais t’expliquer comment ça marche[0xE07F]!
+Ce que tu vois là devant toi,[0x000A]c’est du bon sol meuble.{0xBE01}[0x000A]C’est ici qu’on plante les Baies,[0x000A]ça pousse tout seul, crois-moi[0xE07F]!{0xBE01}[0x000A]C’est pas compliqué, tu choisis une Baie dans[0x000A]ton sac, hop tu la mets dans le sol, et c’est bon[0xE07F]!{0xBE01}[0x000A]Attends, bouge pas. Je vais te donner des Baies.
+Des fois, on peut trouver des Baies au pied de[0x000A]grands arbres. Si tu en trouves, plante-les ici[0xE07F]!
+L’autre chose importante dans la culture,[0x000A]c’est l’arrosage.{0xBE01}[0x000A]Tiens, je te donne ça.
+Avec cet arrosoir, tu vas pouvoir abreuver tes[0x000A]plants. Examines-en un, et si le sol est sec,{0xBE01}[0x000A]arrose-le[0xE07F]! Penser à arroser ce qu’on plante,[0x000A]c’est le b.a.-ba de la culture.
+Prends bien soin de ce champ,[0x000A]jeune {0x0100,0x0000}[0xE07F]!{0xBE01}[0x000A]Ah[0xE08D] Mon dos, mon pauvre dos[0xE08D][0x000A]Je vais enfin pouvoir me reposer[0xE08D]
+J’habite au coin du champ,[0x000A]passe quand tu veux.
+{0x0100,0x0000} a obtenu[0x000A]un {0x0109,0x0001}[0xE07F]!
+Bonjour[0xE07F]! C’est à vous, ce lopin de terre[0xE07F]?
+Oh[0xE07F]! Quel bonheur de vous rencontrer[0xE07F]!{0xBE01}[0x000A]Quand j’ai entendu dire que vous possédiez[0x000A]un bien beau champ, j’ai fait le déplacement.{0xBE01}[0x000A]J’étudie les Baies, voyez-vous. Je m’intéresse[0x000A]aux mutations soudaines des arbustes à Baies.{0xBE01}[0x000A]Si jamais vous en remarquez une quand vous[0x000A]récoltez vos Baies, prévenez-moi tout de suite[0xE07F]!{0xBE01}[0x000A]À très bientôt, j’espère[0xE07F]!
+Vous êtes donc la personne qui en prend soin[0xE07F]?{0xBE01}[0x000A]J’étudie les Baies, voyez-vous. Je m’intéresse[0x000A]aux mutations soudaines des arbustes à Baies.{0xBE01}[0x000A]Si jamais vous en remarquez une quand vous[0x000A]récoltez vos Baies, prévenez-moi tout de suite[0xE07F]!{0xBE01}[0x000A]À très bientôt, j’espère[0xE07F]!
+Super[0xE07F]! Le composteur a produit[0x000A]{0x0201,0x0003} {0x0109,0x0006}[0xE07F]!
+Dommage[0xE07F]! Il n’y a pas de place pour[0x000A]{0x1000}{0x1402,0x0006}{0x0109,0x0006} de plus[0xE07F]!
+Vous renoncez à utiliser le composteur,[0x000A]pour l’instant.
+Pardon[0xE07F]! Excusez-moi[0xE07F]!
+Tiens, pour la peine, voilà pour toi[0xE07F]!

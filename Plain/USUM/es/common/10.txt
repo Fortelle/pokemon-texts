@@ -1,0 +1,251 @@
+<var>
+<var>
+<var>
+<var>
+<var>
+
+
+-
+l
+N.º Pokédex
+(?)
+Nombre
+Tipo
+EO
+<var>
+PS
+/
+Ataque
+Defensa
+At. Esp.
+Def. Esp.
+Velocidad
+Naturaleza
+<var>
+Habilidad
+<var>
+Objeto
+<var>
+Movimientos
+<var>
+<var>
+Juez
+Equipo
+
+Grupo 1
+Grupo 2
+Grupo 3
+Mover
+Datos
+Objeto
+Marcar
+Liberar
+Retirar
+Ir a otra caja
+Fondo
+Nombre
+Bolsa
+Dar
+Registrar
+Salir
+Paisaje 1
+Paisaje 2
+Paisaje 3
+Miscelánea
+Bosque
+Ciudad
+Desierto
+Sabana
+Montaña
+Volcán
+Nieve
+Cueva
+Playa
+Mar
+Río
+Cielo
+Centro Pokémon
+Máquina
+Cuadros
+Sencillo
+Atrás
+Vale
+Sí
+No
+¿Has terminado?
+<var> ha sido seleccionado.
+¡Necesitas al menos un Pokémon en forma!
+¿Qué quieres hacer con esta caja?
+¿Quieres cambiar el nombre del Equipo?
+¿A qué caja quieres ir?
+Elige un tema.
+Elige un fondo.
+¿Quieres coger <var>?
+Has guardado <var>.
+No te caben más en la Bolsa.
+Los Huevos no pueden llevar objetos.
+Realiza una marca.
+¿Quieres liberar a este Pokémon?
+<var> ha sido liberado.
+¡Adiós, <var>!
+Has seleccionado <var>.
+Puede llevar un objeto.
+No puedes liberar Huevos.
+No puedes liberar un Pokémon fusionado.
+No puedes registrar Huevos.
+¿Dónde quieres registrarlo?
+¿Quieres volver al Poké Resort?
+¿Quieres quitarle el <var>?
+¡Le has quitado el <var>!
+Intercambiar
+Dejar
+Quitar
+Salir
+Sí
+No
+Se va a realizar el intercambio. ¿Quieres continuar?
+Este Pokémon está registrado en tu Equipo de Combate. ¿Seguro que quieres intercambiarlo?
+No se puede intercambiar ese Pokémon.
+¡Si intercambias ese Pokémon, no podrás continuar tu aventura!
+No puedes intercambiar un Huevo.
+Este Pokémon está registrado en tu Equipo de Combate, por lo que no lo puedes intercambiar.
+Es un Pokémon especial, por lo que no lo puedes intercambiar.
+Este Pokémon lleva un objeto especial, por lo que no lo puedes intercambiar.
+Conectando... Por favor, espera.
+Tu Equipo de Combate está bloqueado. No puedes retirar a sus miembros.
+Tu Equipo de Combate está bloqueado. No se pueden mover los Pokémon.
+Tu Equipo de Combate está bloqueado. No se pueden cambiar los objetos.
+Tu Equipo de Combate está bloqueado. No puedes poner o quitar marcas.
+Sina te confió este Pokémon para que lo cuidaras. ¡No para liberarlo!
+Sina te confió este Pokémon para que lo cuidaras. ¡No para intercambiarlo!
+Tu Equipo de Combate está bloqueado. No puedes registrar más Pokémon.
+No puedes liberar los Pokémon registrados en tu Equipo de Combate.
+No puedes mover los Pokémon de tu Equipo de Combate.
+Esperando la respuesta del otro jugador...
+Queda:
+
+Cojea un poco
+No está mal
+Notable
+Genial
+Espectacular
+Inmejorable
+Potencial aceptable
+Potencial superior a la media
+Potencial excelente
+Potencial extraordinario
+Reiniciar
+Buscar
+-
+Pokémon
+<var>
+Tipo 1
+<var>
+Tipo 2
+<var>
+Movimiento
+<var>
+MT
+<var>
+Habilidad
+<var>
+Naturaleza
+<var>
+Sexo
+♂
+♀
+Desconocido
+Objeto
+<var>
+Marca
+Con objeto
+Sin objeto
+Registrar
+Sí
+No
+Equipo
+
+Elige los requisitos y toca "Buscar" para activar el filtro.
+Introduce la inicial del nombre del Pokémon.
+Elige un Pokémon.
+Elige el Tipo 1.
+Elige el Tipo 2.
+Introduce la inicial del movimiento.
+Elige un movimiento.
+Comprueba qué Pokémon puede utilizar una determinada MT.
+Introduce la inicial de la habilidad que buscas.
+Elige una habilidad.
+Elige la naturaleza del Pokémon.
+Elige el sexo del Pokémon.
+Comprueba qué Pokémon lleva algún objeto.
+Comprueba qué Pokémon tiene alguna marca.
+Permite consultar los datos de los Pokémon que tienes registrados en tu Equipo de Combate.
+Permite consultar los datos de los Pokémon registrados en el Equipo de Combate seleccionado.
+<var>
+<var>
+<var>
+<var>
+<var>
+Desarrollo equilibrado.
+Facilidad para desarrollar Ataque. Dificultad para desarrollar Defensa.
+Facilidad para desarrollar Ataque. Dificultad para desarrollar Velocidad.
+Facilidad para desarrollar Ataque. Dificultad para desarrollar Ataque Especial.
+Facilidad para desarrollar Ataque. Dificultad para desarrollar Defensa Especial.
+Facilidad para desarrollar Defensa. Dificultad para desarrollar Ataque.
+Desarrollo equilibrado.
+Facilidad para desarrollar Defensa. Dificultad para desarrollar Velocidad.
+Facilidad para desarrollar Defensa. Dificultad para desarrollar Ataque Especial.
+Facilidad para desarrollar Defensa. Dificultad para desarrollar Defensa Especial.
+Facilidad para desarrollar Velocidad. Dificultad para desarrollar Ataque.
+Facilidad para desarrollar Velocidad. Dificultad para desarrollar Defensa.
+Desarrollo equilibrado.
+Facilidad para desarrollar Velocidad. Dificultad para desarrollar Ataque Especial.
+Facilidad para desarrollar Velocidad. Dificultad para desarrollar Defensa Especial.
+Facilidad para desarrollar Ataque Especial. Dificultad para desarrollar Ataque.
+Facilidad para desarrollar Ataque Especial. Dificultad para desarrollar Defensa.
+Facilidad para desarrollar Ataque Especial. Dificultad para desarrollar Velocidad.
+Desarrollo equilibrado.
+Facilidad para desarrollar Ataque Especial. Dificultad para desarrollar Defensa Especial.
+Facilidad para desarrollar Defensa Especial. Dificultad para desarrollar Ataque.
+Facilidad para desarrollar Defensa Especial. Dificultad para desarrollar Defensa.
+Facilidad para desarrollar Defensa Especial. Dificultad para desarrollar Velocidad.
+Facilidad para desarrollar Defensa Especial. Dificultad para desarrollar Ataque Especial.
+Desarrollo equilibrado.
+
+<var>
+/
+Las cajas son dispositivos de almacenamiento donde puedes dejar a tus Pokémon. Puedes mover los Pokémon de sitio para organizar las cajas según te convenga. Se puede acceder a ellas desde cualquiera de los PC que encontrarás en los Centros Pokémon.
+Puedes alternar entre tres modalidades pulsando el botón X. La primera te permite organizar a tu gusto los Pokémon de las cajas. Podrás, por ejemplo, cambiarlos de sitio o intercambiarlos por Pokémon de tu equipo.
+La segunda modalidad permite organizar los objetos que tienen equipados. Puedes dar objetos a tus Pokémon o intercambiarlos entre ellos.
+La tercera es el registro de Equipo de Combate. Puedes registrar un máximo de seis equipos para participar en torneos. Es posible registrar un mismo Pokémon en varios grupos distintos, lo que te da mayor flexibilidad.
+Puedes cambiar los controles pulsando START o SELECT. El cursor rojo indica controles por defecto. El cursor azul permite mover varios Pokémon en sucesión. El cursor verde permite la selección múltiple de Pokémon.
+Pulsa Y para activar el modo de búsqueda. Podrás encontrar rápidamente un Pokémon siguiendo criterios como su nombre, tipo o movimientos.
+
+Muéstrame tus Pokémon.
+¡Quiero intercambiar ese Pokémon!
+Me gustaría ver otros Pokémon.
+No tengo más Pokémon.
+Por favor.
+¡Gracias!
+Lo siento.
+Adiós.
+Quiero cambiar mi Pokémon por un <var>.
+Comprobando los datos del Pokémon...
+Te ofrezco a <var>.
+Buscando Pokémon...
+...
+Ver el mío
+Ver el suyo
+Cancelar
+El otro jugador ha cancelado el intercambio.
+Se ha cancelado el intercambio.
+No se puede realizar el intercambio porque hay un problema con el Pokémon del otro jugador.
+¿Quieres dar por finalizado el intercambio?
+Uno de los jugadores ha cancelado el intercambio.
+Interrumpiendo la conexión... Espera unos instantes.
+El Pokémon perderá su <var> en el intercambio. ¿Quieres continuar?
+No se puede realizar el intercambio porque hay un problema con tu Pokémon.
+Se ha producido un error de conexión.
+¡Al máximo!
+Los Huevos no hacen ejercicio.
+No puedes seleccionar este Pokémon.

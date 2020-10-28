@@ -1,0 +1,20 @@
+Per abilità di un Pokémon si intende una[0x000A]sua speciale capacità.{0xBE01}[0x000A]Ad esempio, un Pokémon con l’abilità[0x000A]Scioltezza è protetto contro gli attacchi{0xBE00}[0x000A]nemici che causano paralisi.
+Il segreto di ogni Allenatore che si rispetti è[0x000A]tenere conto delle abilità dei suoi Pokémon.{0xBE00}[0x000A]È sfruttando le abilità che si diventa più forti!
+Tutti i Pokémon hanno un’abilità, ma questa può[0x000A]essere diversa anche in Pokémon della stessa{0xBE00}[0x000A]specie. A seconda del tuo stile di lotta,{0xBE00}[0x000A]potresti preferirne una anziché un’altra!
+Pensa un po’...{0xBE01}[0x000A]Qui dice che se controlli le Info puoi conoscere[0x000A]l’abilità di un Pokémon.{0xBE01}[0x000A]Per leggere la descrizione di un’abilità, basta[0x000A]toccare l’icona delle informazioni.{0xBE01}[0x000A]Interessante... Peccato però che i libri di testo[0x000A]siano sempre scritti in modo così noioso...
+Guarda cos’ha trovato il mio Lillipup![0x000A]Tieni, a me non serve!
+L’abilità di Lillipup è Raccolta.[0x000A]Ha effetto anche fuori dalla lotta!{0xBE01}[0x000A]Pensa che sono andato fino all’isola di Akala[0x000A]apposta per catturare un Lillipup!
+Sulla lavagna sono descritti i problemi di stato[0x000A]che i Pokémon possono subire durante la lotta.
+Quale problema di stato ti interessa?
+Quando un Pokémon è avvelenato, perde[0x000A]gradualmente PS finché rimane in campo.{0xBE01}[0x000A]Finita la lotta, l’avvelenamento permane.{0xBE01}[0x000A]Per curarlo, usa l’Antidoto!
+La paralisi riduce la Velocità e può impedire[0x000A]il movimento.{0xBE01}[0x000A]Permane anche dopo la lotta.{0xBE01}[0x000A]Per curarla, usa l’Antiparalisi!
+Un Pokémon addormentato non può attaccare.{0xBE01}[0x000A]Può capitare che si svegli da solo, ma se è[0x000A]ancora addormentato a fine lotta, continuerà{0xBE00}[0x000A]a dormire.{0xBE01}[0x000A]Per svegliarlo, utilizza la Sveglia!
+Le scottature riducono l’Attacco e fanno[0x000A]perdere dei PS a ogni turno.{0xBE01}[0x000A]Inoltre, persistono anche dopo la lotta.{0xBE01}[0x000A]Per curarle, usa l’Antiscottatura!
+Se un Pokémon è congelato, non può[0x000A]fare nulla.{0xBE01}[0x000A]Può capitare che si scongeli da solo,[0x000A]ma se a fine lotta è ancora congelato,{0xBE00}[0x000A]dovrai intervenire.{0xBE01}[0x000A]Per curarlo, usa l’Antigelo!
+Veleno
+Paralisi
+Sonno
+Scottatura
+Congelamento
+Nessuno
+Attivazione delle abilità[0x000A]Tipologia 1[0x000A]Abilità che si attivano quando il Pokémon[0x000A]scende in campo e il cui effetto dura finché[0x000A]vi rimane.{0xBE01}[0x000A]Tipologia 2[0x000A]Abilità che si attivano quando il Pokémon[0x000A]subisce un attacco.[0x000A]Tipologia 3[0x000A]Abilità che si attivano fuori dalla lotta.

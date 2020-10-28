@@ -1,0 +1,35 @@
+{0x0100,0x0000}[0xE07F]![0x000A]Je te cherchais[0xE07F]!
+[0xE08D] Oh[0xE07F]?{0xBE01}[0x000A]C’est quoi ce truc à ton poignet[0xE07F]?[0x000A]C’est la première fois que je te vois porter un bijou[0xE08D]
+[0xE08D][0x000A][0xE08D]{0xBE01}[0x000A]Eh bien, Méga-Bracelet, Méga-Évolutions[0xE08D][0x000A]J’imagine que dorénavant, tu seras encore plus proche{0xBE00}[0x000A]de tes Pokémon[0xE07F]? Quelle chance, je t’envie[0xE08D]
+[0xE08D] Mais il en faut plus pour m’abattre[0xE07F]![0x000A]Je vais te le montrer en combat de Pokémon[0xE07F]!
+Ton équipe est prête[0xE07F]?[0x000A][0xE08D] Bah, bien sûr qu’elle est prête. En garde[0xE07F]!
+{0xBDFF:0x0005}
+Merci de m’avoir offert ce combat.[0x000A]Tiens, tu as mérité ceci[0xE07F]!
+Vol te permet de retourner instantanément dans la plupart[0x000A]des endroits que tu as visités précédemment.{0xBE01}[0x000A]Mais attention, pour utiliser cette capacité hors d’un[0x000A]combat, tu auras besoin du Badge de Cimetronelle.
+Et tu peux aussi t’en servir pour rentrer à Bourg-en-Vol[0xE08D]{0xBE01}[0x000A]Je suis sûre que ta maman serait contente de te voir,[0x000A]même un court instant[0xE07F]!
+J’y vais[0xE07F]! J’espère qu’on se reverra très vite[0xE07F]![0x000A]Et cette fois, je gagnerai[0xE07F]!
+{0x0100,0x0000}[0xE07F]![0x000A]Tu cherches des Pokémon[0xE07F]?
+[0xE08D] Oh[0xE07F]?[0x000A]C’est quoi ce bijou à ton poignet[0xE07F]?{0xBE01}[0x000A]Comment dire[0xE08D] Il est vraiment cool[0xE07F]!
+[0xE08D][0x000A][0xE08D]{0xBE01}[0x000A]Eh bien, Méga-Bracelet, Méga-Évolutions[0xE08D][0x000A]On dirait que ton lien avec les Pokémon va devenir{0xBE00}[0x000A]encore plus profond… Quelle chance[0xE08D]
+[0xE08D] Bien[0xE07F]![0x000A]On va voir à quel point tu es devenue forte[0xE07F]!{0xBE01}[0x000A]Ne t’imagine pas que mes Pokémon et moi[0x000A]avons chômé depuis la dernière fois[0xE07F]!
+Allez allez, plus un instant à perdre.[0x000A]En garde[0xE07F]!
+{0xBDFF:0x000F}
+Si tu es si forte, tu peux aller chercher les Pokémon[0x000A]absolument partout, je ne me fais aucun souci pour toi[0xE07F]!{0xBE01}[0x000A]Tiens, prends ça. C’est exactement ce dont tu as besoin.
+Vol te permet de retourner instantanément dans la plupart[0x000A]des endroits que tu as visités précédemment.{0xBE01}[0x000A]Attention, en plus de la capacité, il faut le Badge de[0x000A]Cimetronelle pour que ça fonctionne hors des combats.
+J’y vais[0xE07F]! J’espère qu’on se reverra très vite[0xE07F]![0x000A]Et cette fois, je gagnerai[0xE07F]!
+Chut[0xE07F]! Je fais le guet.{0xBE01}[0x000A]Hé[0xE07F]! Toi[0xE07F]! Attention, c’est dangereux,[0x000A]éloigne-toi du Centre Météo[0xE07F]!
+Qui a laissé ce{0x1100,0x00FF,0x0A06} gamintte gamine s’approcher[0xE07F]! Petit{0x1100,0x00FF,0x0100}e[0xE07F]![0x000A]Attention, ne t’approche pas du Centre Météo[0xE07F]!
+Chut[0xE07F]! Je fais le guet.{0xBE01}[0x000A]Hé[0xE07F]! Toi[0xE07F]! Attention, c’est dangereux,[0x000A]éloigne-toi du Centre Météo[0xE07F]!
+Qui a laissé ce{0x1100,0x00FF,0x0A06} gamintte gamine s’approcher[0xE07F]! Petit{0x1100,0x00FF,0x0100}e[0xE07F]![0x000A]Attention, ne t’approche pas du Centre Météo[0xE07F]!
+Ici : Route 119[0x000A]Cimetronelle →
+Centre Météo
+Conseils aux Dresseurs[0xE07F]!{0xBE01}[0x000A]Si par malheur vous vous retrouvez bloqué dans[0x000A]une Base Secrète, utilisez une Corde Sortie[0xE07F]!{0xBE01}[0x000A]Elle vous permettra d’en sortir sur-le-champ[0xE07F]!
+Est-ce que je vais passer le reste de ma vie ici,[0x000A]à faire le guet en vain[0xE07F]?
+On fait le guet même sur notre temps libre,[0x000A]pendant que nos Admin vaquent à leurs occupations[0xE08D]
+Joli bond[0xE07F]![0x000A]Je ne pensais pas que c’était possible en vélo[0xE07F]!
+J’ai l’habitude de me déplacer en utilisant des capacités[0x000A]Pokémon, mais les vélos, c’est pas mal non plus[0xE08D]{0xBE00}[0x000A]Je vais y penser[0xE07F]!
+Quelque chose d’invisible bloque le passage…
+Voulez-vous utiliser le Devon Scope[0xE07F]?
+{0x0100,0x0000} s’équipe du Devon Scope.
+Un Pokémon était caché… Il est maintenant visible[0xE07F]!
+Effrayé, il passe à l’attaque[0xE07F]!

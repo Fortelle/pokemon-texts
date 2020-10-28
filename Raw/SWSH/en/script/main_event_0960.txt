@@ -1,0 +1,8 @@
+main_event_0960_trainer_01=You’re a Gym Challenger, right? Are you going to[0x000A]apply to challenge this Gym?
+main_event_0960_select_01=I am!
+main_event_0960_select_02=Maybe later
+main_event_0960_trainer_02=Hm! Then head to the changing room and[0x000A]change into your uniform.{0xBE01}[0x000A]Then go to the Gym mission room.
+main_event_0960_trainer_03=Well, I guess that’s one option. I’ll be waiting[0x000A]here if you change your mind.
+main_event_0960_trainer_06=Go, number {0x01C4,0x0000}!
+main_event_0960_trainer_04=Give the Gym mission your all!
+main_event_0960_trainer_05={0xBDFF:0x0007}

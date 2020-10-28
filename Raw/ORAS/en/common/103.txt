@@ -1,0 +1,25 @@
+[0x000A]The game is preparing to load, and additional[0x000A]data is being created.[0x000A][0x000A]Please do not remove your SD Card[0x000A]or turn off the power.
+Use the +Control Pad to select a language.[0x000A]Press the A Button to confirm.[0x000A][0x000A]{0xFF00,0x0001}Once your language has been set, you cannot[0x000A]change it in the middle of the game.{0xFF00,0x0000}[0x000A][0x000A]If you aren’t sure what to do, ask for[0x000A]help setting the language.
+[0x000A][0x000A]Would you like to start the game[0x000A]with this language?[0x000A][0x000A]{0xFF00,0x0001}Once your language has been set, you cannot[0x000A]change it in the middle of the game.{0xFF00,0x0000}
+{0xBDFF:0x0003}
+Play Pokémon Alpha Sapphire in
+Play Pokémon Omega Ruby in
+English
+Spanish
+French
+German
+Italian
+Japanese
+Korean
+Begin game
+Select language
+The saved game data is corrupted.[0x000A][0x000A]Refer to the electronic manual for details.
+The data in the SD Card is corrupted.[0x000A][0x000A]Press the A Button to initialize the data.
+The SD Card couldn’t be recognized.[0x000A][0x000A]Please end the game and start again.
+The saved data is not compatible with[0x000A]this version, so it can’t be used.[0x000A][0x000A]Refer to the electronic manual for details.
+Repairing your saved data.[0x000A][0x000A]Do not turn off the power.
+You can’t start the game because there is[0x000A]not enough space on the SD Card.[0x000A][0x000A]Refer to the electronic manual for details.
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}

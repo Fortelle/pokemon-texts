@@ -1,0 +1,11 @@
+msg_strinput_01_01=Wie lautet dein Name?
+msg_strinput_01_02=Wie soll {0x0101,0x0000} heißen?
+msg_strinput_01_03=Bitte gib einen Seriencode oder ein Passwort ein.
+msg_strinput_01_04=Wie lautet der Name deines Rivalen?
+msg_strinput_01_05=Bitte gib einen Namen ein.
+msg_strinput_NG_00=Diese Eingabe enthält unzulässige Wörter.
+msg_strinput_NG_01={0xBDFF:0x0006}
+msg_strinput_NG_02={0xBDFF:0x0007}
+msg_strinput_NG_04=Bitte gib einen Namen ein.
+msg_strinput_NG_05=Diese Eingabe ist ungültig.
+msg_strinput_NG_06=Der Name darf kein „{0x012D,0x0000}“ enthalten.

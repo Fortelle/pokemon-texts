@@ -1,0 +1,17 @@
+sub_event_007_tokkun_01=Alors comme ça, on est passé{0x1100,0x00FF,0x0100}e Maître ?[0x000A]Félicitations !{0xBE01}[0x000A]Si tu veux, je peux soumettre tes Pokémon[0x000A]de niveau 100 à l’Entraînement Ultime !
+sub_event_007_tokkun_02=Pour avoir accès à ce merveilleux programme[0x000A]qu’est l’Entraînement Ultime, je te demanderai{0xBE00}[0x000A]juste une Capsule d’Or ou d’Argent en guise{0xBE00}[0x000A]de paiement... Mais tu ne sembles pas en avoir.
+sub_event_007_tokkun_03=Alors, quel Pokémon veux-tu soumettre[0x000A]à l’Entraînement Ultime ?
+sub_event_007_tokkun_04=Pas de niveau 100, pas d’entraînement !
+sub_event_007_tokkun_05={0x0102,0x0001} est déjà super bien entraîné ![0x000A]Je pense qu’il peut se passer de mes services !
+sub_event_007_tokkun_06=Veux-tu utiliser une Capsule d’Or[0x000A]ou une Capsule d’Argent ?
+sub_event_007_tokkun_07=Je vais entraîner ton Pokémon pour qu’il soit[0x000A]au top dans toutes ses stats ! Ça te va ?
+sub_event_007_tokkun_08=Quelle stat veux-tu améliorer via l’Entraînement[0x000A]Ultime ?
+tokkun_01_01={0x0109,0x0000} : {0x0201,0x0001}
+tokkun_01_02=Aucune, merci !
+tokkun_03_08=Et c’est parti !
+tokkun_10_01=Ce Pokémon est déjà au max !
+tokkun_10_02=Tu m’as l’air à court {0x1408,0x0000,0x0000}{0x0109,0x0000}...
+sub_event_007_tokkun_09=Et voilà ! {0x0102,0x0000} s’est donné à fond ![0x000A]Il est devenu plus fort, c’est sûr !
+sub_event_007_tokkun_10=Qu’est-ce qu’on fait, maintenant ?[0x000A]On continue l’Entraînement Ultime ?
+sub_event_007_tokkun_11=On laisse tomber la manœuvre ?
+sub_event_007_tokkun_12=Reviens me voir quand tu seras partant{0x1100,0x00FF,0x0100}e[0x000A]pour un Entraînement Ultime !

@@ -1,0 +1,2880 @@
+!
+!
+!
+!
+<var> setzt Z-Pfund ein!
+<var> (wild) setzt Z-Pfund ein!
+<var> (Gegner) setzt Z-Pfund ein!
+<var> (Herrscher) setzt Z-Pfund ein!
+<var> setzt Z-Karateschlag ein!
+<var> (wild) setzt Z-Karateschlag ein!
+<var> (Gegner) setzt Z-Karateschlag ein!
+<var> (Herrscher) setzt Z-Karateschlag ein!
+<var> setzt Z-Duplexhieb ein!
+<var> (wild) setzt Z-Duplexhieb ein!
+<var> (Gegner) setzt Z-Duplexhieb ein!
+<var> (Herrscher) setzt Z-Duplexhieb ein!
+<var> setzt Z-Kometenhieb ein!
+<var> (wild) setzt Z-Kometenhieb ein!
+<var> (Gegner) setzt Z-Kometenhieb ein!
+<var> (Herrscher) setzt Z-Kometenhieb ein!
+<var> setzt Z-Megahieb ein!
+<var> (wild) setzt Z-Megahieb ein!
+<var> (Gegner) setzt Z-Megahieb ein!
+<var> (Herrscher) setzt Z-Megahieb ein!
+<var> setzt Z-Zahltag ein!
+<var> (wild) setzt Z-Zahltag ein!
+<var> (Gegner) setzt Z-Zahltag ein!
+<var> (Herrscher) setzt Z-Zahltag ein!
+<var> setzt Z-Feuerschlag ein!
+<var> (wild) setzt Z-Feuerschlag ein!
+<var> (Gegner) setzt Z-Feuerschlag ein!
+<var> (Herrscher) setzt Z-Feuerschlag ein!
+<var> setzt Z-Eishieb ein!
+<var> (wild) setzt Z-Eishieb ein!
+<var> (Gegner) setzt Z-Eishieb ein!
+<var> (Herrscher) setzt Z-Eishieb ein!
+<var> setzt Z-Donnerschlag ein!
+<var> (wild) setzt Z-Donnerschlag ein!
+<var> (Gegner) setzt Z-Donnerschlag ein!
+<var> (Herrscher) setzt Z-Donnerschlag ein!
+<var> setzt Z-Kratzer ein!
+<var> (wild) setzt Z-Kratzer ein!
+<var> (Gegner) setzt Z-Kratzer ein!
+<var> (Herrscher) setzt Z-Kratzer ein!
+<var> setzt Z-Klammer ein!
+<var> (wild) setzt Z-Klammer ein!
+<var> (Gegner) setzt Z-Klammer ein!
+<var> (Herrscher) setzt Z-Klammer ein!
+<var> setzt Z-Guillotine ein!
+<var> (wild) setzt Z-Guillotine ein!
+<var> (Gegner) setzt Z-Guillotine ein!
+<var> (Herrscher) setzt Z-Guillotine ein!
+<var> setzt Z-Klingensturm ein!
+<var> (wild) setzt Z-Klingensturm ein!
+<var> (Gegner) setzt Z-Klingensturm ein!
+<var> (Herrscher) setzt Z-Klingensturm ein!
+<var> setzt Z-Schwerttanz ein!
+<var> (wild) setzt Z-Schwerttanz ein!
+<var> (Gegner) setzt Z-Schwerttanz ein!
+<var> (Herrscher) setzt Z-Schwerttanz ein!
+<var> setzt Z-Zerschneider ein!
+<var> (wild) setzt Z-Zerschneider ein!
+<var> (Gegner) setzt Z-Zerschneider ein!
+<var> (Herrscher) setzt Z-Zerschneider ein!
+<var> setzt Z-Windstoß ein!
+<var> (wild) setzt Z-Windstoß ein!
+<var> (Gegner) setzt Z-Windstoß ein!
+<var> (Herrscher) setzt Z-Windstoß ein!
+<var> setzt Z-Flügelschlag ein!
+<var> (wild) setzt Z-Flügelschlag ein!
+<var> (Gegner) setzt Z-Flügelschlag ein!
+<var> (Herrscher) setzt Z-Flügelschlag ein!
+<var> setzt Z-Wirbelwind ein!
+<var> (wild) setzt Z-Wirbelwind ein!
+<var> (Gegner) setzt Z-Wirbelwind ein!
+<var> (Herrscher) setzt Z-Wirbelwind ein!
+<var> setzt Z-Fliegen ein!
+<var> (wild) setzt Z-Fliegen ein!
+<var> (Gegner) setzt Z-Fliegen ein!
+<var> (Herrscher) setzt Z-Fliegen ein!
+<var> setzt Z-Klammergriff ein!
+<var> (wild) setzt Z-Klammergriff ein!
+<var> (Gegner) setzt Z-Klammergriff ein!
+<var> (Herrscher) setzt Z-Klammergriff ein!
+<var> setzt Z-Slam ein!
+<var> (wild) setzt Z-Slam ein!
+<var> (Gegner) setzt Z-Slam ein!
+<var> (Herrscher) setzt Z-Slam ein!
+<var> setzt Z-Rankenhieb ein!
+<var> (wild) setzt Z-Rankenhieb ein!
+<var> (Gegner) setzt Z-Rankenhieb ein!
+<var> (Herrscher) setzt Z-Rankenhieb ein!
+<var> setzt Z-Stampfer ein!
+<var> (wild) setzt Z-Stampfer ein!
+<var> (Gegner) setzt Z-Stampfer ein!
+<var> (Herrscher) setzt Z-Stampfer ein!
+<var> setzt Z-Doppelkick ein!
+<var> (wild) setzt Z-Doppelkick ein!
+<var> (Gegner) setzt Z-Doppelkick ein!
+<var> (Herrscher) setzt Z-Doppelkick ein!
+<var> setzt Z-Megakick ein!
+<var> (wild) setzt Z-Megakick ein!
+<var> (Gegner) setzt Z-Megakick ein!
+<var> (Herrscher) setzt Z-Megakick ein!
+<var> setzt Z-Sprungkick ein!
+<var> (wild) setzt Z-Sprungkick ein!
+<var> (Gegner) setzt Z-Sprungkick ein!
+<var> (Herrscher) setzt Z-Sprungkick ein!
+<var> setzt Z-Fegekick ein!
+<var> (wild) setzt Z-Fegekick ein!
+<var> (Gegner) setzt Z-Fegekick ein!
+<var> (Herrscher) setzt Z-Fegekick ein!
+<var> setzt Z-Sandwirbel ein!
+<var> (wild) setzt Z-Sandwirbel ein!
+<var> (Gegner) setzt Z-Sandwirbel ein!
+<var> (Herrscher) setzt Z-Sandwirbel ein!
+<var> setzt Z-Kopfnuss ein!
+<var> (wild) setzt Z-Kopfnuss ein!
+<var> (Gegner) setzt Z-Kopfnuss ein!
+<var> (Herrscher) setzt Z-Kopfnuss ein!
+<var> setzt Z-Hornattacke ein!
+<var> (wild) setzt Z-Hornattacke ein!
+<var> (Gegner) setzt Z-Hornattacke ein!
+<var> (Herrscher) setzt Z-Hornattacke ein!
+<var> setzt Z-Furienschlag ein!
+<var> (wild) setzt Z-Furienschlag ein!
+<var> (Gegner) setzt Z-Furienschlag ein!
+<var> (Herrscher) setzt Z-Furienschlag ein!
+<var> setzt Z-Hornbohrer ein!
+<var> (wild) setzt Z-Hornbohrer ein!
+<var> (Gegner) setzt Z-Hornbohrer ein!
+<var> (Herrscher) setzt Z-Hornbohrer ein!
+<var> setzt Z-Tackle ein!
+<var> (wild) setzt Z-Tackle ein!
+<var> (Gegner) setzt Z-Tackle ein!
+<var> (Herrscher) setzt Z-Tackle ein!
+<var> setzt Z-Bodyslam ein!
+<var> (wild) setzt Z-Bodyslam ein!
+<var> (Gegner) setzt Z-Bodyslam ein!
+<var> (Herrscher) setzt Z-Bodyslam ein!
+<var> setzt Z-Wickel ein!
+<var> (wild) setzt Z-Wickel ein!
+<var> (Gegner) setzt Z-Wickel ein!
+<var> (Herrscher) setzt Z-Wickel ein!
+<var> setzt Z-Bodycheck ein!
+<var> (wild) setzt Z-Bodycheck ein!
+<var> (Gegner) setzt Z-Bodycheck ein!
+<var> (Herrscher) setzt Z-Bodycheck ein!
+<var> setzt Z-Fuchtler ein!
+<var> (wild) setzt Z-Fuchtler ein!
+<var> (Gegner) setzt Z-Fuchtler ein!
+<var> (Herrscher) setzt Z-Fuchtler ein!
+<var> setzt Z-Risikotackle ein!
+<var> (wild) setzt Z-Risikotackle ein!
+<var> (Gegner) setzt Z-Risikotackle ein!
+<var> (Herrscher) setzt Z-Risikotackle ein!
+<var> setzt Z-Rutenschlag ein!
+<var> (wild) setzt Z-Rutenschlag ein!
+<var> (Gegner) setzt Z-Rutenschlag ein!
+<var> (Herrscher) setzt Z-Rutenschlag ein!
+<var> setzt Z-Giftstachel ein!
+<var> (wild) setzt Z-Giftstachel ein!
+<var> (Gegner) setzt Z-Giftstachel ein!
+<var> (Herrscher) setzt Z-Giftstachel ein!
+<var> setzt Z-Duonadel ein!
+<var> (wild) setzt Z-Duonadel ein!
+<var> (Gegner) setzt Z-Duonadel ein!
+<var> (Herrscher) setzt Z-Duonadel ein!
+<var> setzt Z-Nadelrakete ein!
+<var> (wild) setzt Z-Nadelrakete ein!
+<var> (Gegner) setzt Z-Nadelrakete ein!
+<var> (Herrscher) setzt Z-Nadelrakete ein!
+<var> setzt Z-Silberblick ein!
+<var> (wild) setzt Z-Silberblick ein!
+<var> (Gegner) setzt Z-Silberblick ein!
+<var> (Herrscher) setzt Z-Silberblick ein!
+<var> setzt Z-Biss ein!
+<var> (wild) setzt Z-Biss ein!
+<var> (Gegner) setzt Z-Biss ein!
+<var> (Herrscher) setzt Z-Biss ein!
+<var> setzt Z-Heuler ein!
+<var> (wild) setzt Z-Heuler ein!
+<var> (Gegner) setzt Z-Heuler ein!
+<var> (Herrscher) setzt Z-Heuler ein!
+<var> setzt Z-Brüller ein!
+<var> (wild) setzt Z-Brüller ein!
+<var> (Gegner) setzt Z-Brüller ein!
+<var> (Herrscher) setzt Z-Brüller ein!
+<var> setzt Z-Gesang ein!
+<var> (wild) setzt Z-Gesang ein!
+<var> (Gegner) setzt Z-Gesang ein!
+<var> (Herrscher) setzt Z-Gesang ein!
+<var> setzt Z-Superschall ein!
+<var> (wild) setzt Z-Superschall ein!
+<var> (Gegner) setzt Z-Superschall ein!
+<var> (Herrscher) setzt Z-Superschall ein!
+<var> setzt Z-Ultraschall ein!
+<var> (wild) setzt Z-Ultraschall ein!
+<var> (Gegner) setzt Z-Ultraschall ein!
+<var> (Herrscher) setzt Z-Ultraschall ein!
+<var> setzt Z-Aussetzer ein!
+<var> (wild) setzt Z-Aussetzer ein!
+<var> (Gegner) setzt Z-Aussetzer ein!
+<var> (Herrscher) setzt Z-Aussetzer ein!
+<var> setzt Z-Säure ein!
+<var> (wild) setzt Z-Säure ein!
+<var> (Gegner) setzt Z-Säure ein!
+<var> (Herrscher) setzt Z-Säure ein!
+<var> setzt Z-Glut ein!
+<var> (wild) setzt Z-Glut ein!
+<var> (Gegner) setzt Z-Glut ein!
+<var> (Herrscher) setzt Z-Glut ein!
+<var> setzt Z-Flammenwurf ein!
+<var> (wild) setzt Z-Flammenwurf ein!
+<var> (Gegner) setzt Z-Flammenwurf ein!
+<var> (Herrscher) setzt Z-Flammenwurf ein!
+<var> setzt Z-Weißnebel ein!
+<var> (wild) setzt Z-Weißnebel ein!
+<var> (Gegner) setzt Z-Weißnebel ein!
+<var> (Herrscher) setzt Z-Weißnebel ein!
+<var> setzt Z-Aquaknarre ein!
+<var> (wild) setzt Z-Aquaknarre ein!
+<var> (Gegner) setzt Z-Aquaknarre ein!
+<var> (Herrscher) setzt Z-Aquaknarre ein!
+<var> setzt Z-Hydropumpe ein!
+<var> (wild) setzt Z-Hydropumpe ein!
+<var> (Gegner) setzt Z-Hydropumpe ein!
+<var> (Herrscher) setzt Z-Hydropumpe ein!
+<var> setzt Z-Surfer ein!
+<var> (wild) setzt Z-Surfer ein!
+<var> (Gegner) setzt Z-Surfer ein!
+<var> (Herrscher) setzt Z-Surfer ein!
+<var> setzt Z-Eisstrahl ein!
+<var> (wild) setzt Z-Eisstrahl ein!
+<var> (Gegner) setzt Z-Eisstrahl ein!
+<var> (Herrscher) setzt Z-Eisstrahl ein!
+<var> setzt Z-Blizzard ein!
+<var> (wild) setzt Z-Blizzard ein!
+<var> (Gegner) setzt Z-Blizzard ein!
+<var> (Herrscher) setzt Z-Blizzard ein!
+<var> setzt Z-Psystrahl ein!
+<var> (wild) setzt Z-Psystrahl ein!
+<var> (Gegner) setzt Z-Psystrahl ein!
+<var> (Herrscher) setzt Z-Psystrahl ein!
+<var> setzt Z-Blubbstrahl ein!
+<var> (wild) setzt Z-Blubbstrahl ein!
+<var> (Gegner) setzt Z-Blubbstrahl ein!
+<var> (Herrscher) setzt Z-Blubbstrahl ein!
+<var> setzt Z-Aurorastrahl ein!
+<var> (wild) setzt Z-Aurorastrahl ein!
+<var> (Gegner) setzt Z-Aurorastrahl ein!
+<var> (Herrscher) setzt Z-Aurorastrahl ein!
+<var> setzt Z-Hyperstrahl ein!
+<var> (wild) setzt Z-Hyperstrahl ein!
+<var> (Gegner) setzt Z-Hyperstrahl ein!
+<var> (Herrscher) setzt Z-Hyperstrahl ein!
+<var> setzt Z-Schnabel ein!
+<var> (wild) setzt Z-Schnabel ein!
+<var> (Gegner) setzt Z-Schnabel ein!
+<var> (Herrscher) setzt Z-Schnabel ein!
+<var> setzt Z-Bohrschnabel ein!
+<var> (wild) setzt Z-Bohrschnabel ein!
+<var> (Gegner) setzt Z-Bohrschnabel ein!
+<var> (Herrscher) setzt Z-Bohrschnabel ein!
+<var> setzt Z-Überroller ein!
+<var> (wild) setzt Z-Überroller ein!
+<var> (Gegner) setzt Z-Überroller ein!
+<var> (Herrscher) setzt Z-Überroller ein!
+<var> setzt Z-Fußkick ein!
+<var> (wild) setzt Z-Fußkick ein!
+<var> (Gegner) setzt Z-Fußkick ein!
+<var> (Herrscher) setzt Z-Fußkick ein!
+<var> setzt Z-Konter ein!
+<var> (wild) setzt Z-Konter ein!
+<var> (Gegner) setzt Z-Konter ein!
+<var> (Herrscher) setzt Z-Konter ein!
+<var> setzt Z-Geowurf ein!
+<var> (wild) setzt Z-Geowurf ein!
+<var> (Gegner) setzt Z-Geowurf ein!
+<var> (Herrscher) setzt Z-Geowurf ein!
+<var> setzt Z-Stärke ein!
+<var> (wild) setzt Z-Stärke ein!
+<var> (Gegner) setzt Z-Stärke ein!
+<var> (Herrscher) setzt Z-Stärke ein!
+<var> setzt Z-Absorber ein!
+<var> (wild) setzt Z-Absorber ein!
+<var> (Gegner) setzt Z-Absorber ein!
+<var> (Herrscher) setzt Z-Absorber ein!
+<var> setzt Z-Megasauger ein!
+<var> (wild) setzt Z-Megasauger ein!
+<var> (Gegner) setzt Z-Megasauger ein!
+<var> (Herrscher) setzt Z-Megasauger ein!
+<var> setzt Z-Egelsamen ein!
+<var> (wild) setzt Z-Egelsamen ein!
+<var> (Gegner) setzt Z-Egelsamen ein!
+<var> (Herrscher) setzt Z-Egelsamen ein!
+<var> setzt Z-Wachstum ein!
+<var> (wild) setzt Z-Wachstum ein!
+<var> (Gegner) setzt Z-Wachstum ein!
+<var> (Herrscher) setzt Z-Wachstum ein!
+<var> setzt Z-Rasierblatt ein!
+<var> (wild) setzt Z-Rasierblatt ein!
+<var> (Gegner) setzt Z-Rasierblatt ein!
+<var> (Herrscher) setzt Z-Rasierblatt ein!
+<var> setzt Z-Solarstrahl ein!
+<var> (wild) setzt Z-Solarstrahl ein!
+<var> (Gegner) setzt Z-Solarstrahl ein!
+<var> (Herrscher) setzt Z-Solarstrahl ein!
+<var> setzt Z-Giftpuder ein!
+<var> (wild) setzt Z-Giftpuder ein!
+<var> (Gegner) setzt Z-Giftpuder ein!
+<var> (Herrscher) setzt Z-Giftpuder ein!
+<var> setzt Z-Stachelspore ein!
+<var> (wild) setzt Z-Stachelspore ein!
+<var> (Gegner) setzt Z-Stachelspore ein!
+<var> (Herrscher) setzt Z-Stachelspore ein!
+<var> setzt Z-Schlafpuder ein!
+<var> (wild) setzt Z-Schlafpuder ein!
+<var> (Gegner) setzt Z-Schlafpuder ein!
+<var> (Herrscher) setzt Z-Schlafpuder ein!
+<var> setzt Z-Blättertanz ein!
+<var> (wild) setzt Z-Blättertanz ein!
+<var> (Gegner) setzt Z-Blättertanz ein!
+<var> (Herrscher) setzt Z-Blättertanz ein!
+<var> setzt Z-Fadenschuss ein!
+<var> (wild) setzt Z-Fadenschuss ein!
+<var> (Gegner) setzt Z-Fadenschuss ein!
+<var> (Herrscher) setzt Z-Fadenschuss ein!
+<var> setzt Z-Drachenwut ein!
+<var> (wild) setzt Z-Drachenwut ein!
+<var> (Gegner) setzt Z-Drachenwut ein!
+<var> (Herrscher) setzt Z-Drachenwut ein!
+<var> setzt Z-Feuerwirbel ein!
+<var> (wild) setzt Z-Feuerwirbel ein!
+<var> (Gegner) setzt Z-Feuerwirbel ein!
+<var> (Herrscher) setzt Z-Feuerwirbel ein!
+<var> setzt Z-Donnerschock ein!
+<var> (wild) setzt Z-Donnerschock ein!
+<var> (Gegner) setzt Z-Donnerschock ein!
+<var> (Herrscher) setzt Z-Donnerschock ein!
+<var> setzt Z-Donnerblitz ein!
+<var> (wild) setzt Z-Donnerblitz ein!
+<var> (Gegner) setzt Z-Donnerblitz ein!
+<var> (Herrscher) setzt Z-Donnerblitz ein!
+<var> setzt Z-Donnerwelle ein!
+<var> (wild) setzt Z-Donnerwelle ein!
+<var> (Gegner) setzt Z-Donnerwelle ein!
+<var> (Herrscher) setzt Z-Donnerwelle ein!
+<var> setzt Z-Donner ein!
+<var> (wild) setzt Z-Donner ein!
+<var> (Gegner) setzt Z-Donner ein!
+<var> (Herrscher) setzt Z-Donner ein!
+<var> setzt Z-Steinwurf ein!
+<var> (wild) setzt Z-Steinwurf ein!
+<var> (Gegner) setzt Z-Steinwurf ein!
+<var> (Herrscher) setzt Z-Steinwurf ein!
+<var> setzt Z-Erdbeben ein!
+<var> (wild) setzt Z-Erdbeben ein!
+<var> (Gegner) setzt Z-Erdbeben ein!
+<var> (Herrscher) setzt Z-Erdbeben ein!
+<var> setzt Z-Geofissur ein!
+<var> (wild) setzt Z-Geofissur ein!
+<var> (Gegner) setzt Z-Geofissur ein!
+<var> (Herrscher) setzt Z-Geofissur ein!
+<var> setzt Z-Schaufler ein!
+<var> (wild) setzt Z-Schaufler ein!
+<var> (Gegner) setzt Z-Schaufler ein!
+<var> (Herrscher) setzt Z-Schaufler ein!
+<var> setzt Z-Toxin ein!
+<var> (wild) setzt Z-Toxin ein!
+<var> (Gegner) setzt Z-Toxin ein!
+<var> (Herrscher) setzt Z-Toxin ein!
+<var> setzt Z-Konfusion ein!
+<var> (wild) setzt Z-Konfusion ein!
+<var> (Gegner) setzt Z-Konfusion ein!
+<var> (Herrscher) setzt Z-Konfusion ein!
+<var> setzt Z-Psychokinese ein!
+<var> (wild) setzt Z-Psychokinese ein!
+<var> (Gegner) setzt Z-Psychokinese ein!
+<var> (Herrscher) setzt Z-Psychokinese ein!
+<var> setzt Z-Hypnose ein!
+<var> (wild) setzt Z-Hypnose ein!
+<var> (Gegner) setzt Z-Hypnose ein!
+<var> (Herrscher) setzt Z-Hypnose ein!
+<var> setzt Z-Meditation ein!
+<var> (wild) setzt Z-Meditation ein!
+<var> (Gegner) setzt Z-Meditation ein!
+<var> (Herrscher) setzt Z-Meditation ein!
+<var> setzt Z-Agilität ein!
+<var> (wild) setzt Z-Agilität ein!
+<var> (Gegner) setzt Z-Agilität ein!
+<var> (Herrscher) setzt Z-Agilität ein!
+<var> setzt Z-Ruckzuckhieb ein!
+<var> (wild) setzt Z-Ruckzuckhieb ein!
+<var> (Gegner) setzt Z-Ruckzuckhieb ein!
+<var> (Herrscher) setzt Z-Ruckzuckhieb ein!
+<var> setzt Z-Raserei ein!
+<var> (wild) setzt Z-Raserei ein!
+<var> (Gegner) setzt Z-Raserei ein!
+<var> (Herrscher) setzt Z-Raserei ein!
+<var> setzt Z-Teleport ein!
+<var> (wild) setzt Z-Teleport ein!
+<var> (Gegner) setzt Z-Teleport ein!
+<var> (Herrscher) setzt Z-Teleport ein!
+<var> setzt Z-Nachtnebel ein!
+<var> (wild) setzt Z-Nachtnebel ein!
+<var> (Gegner) setzt Z-Nachtnebel ein!
+<var> (Herrscher) setzt Z-Nachtnebel ein!
+<var> setzt Z-Mimikry ein!
+<var> (wild) setzt Z-Mimikry ein!
+<var> (Gegner) setzt Z-Mimikry ein!
+<var> (Herrscher) setzt Z-Mimikry ein!
+<var> setzt Z-Kreideschrei ein!
+<var> (wild) setzt Z-Kreideschrei ein!
+<var> (Gegner) setzt Z-Kreideschrei ein!
+<var> (Herrscher) setzt Z-Kreideschrei ein!
+<var> setzt Z-Doppelteam ein!
+<var> (wild) setzt Z-Doppelteam ein!
+<var> (Gegner) setzt Z-Doppelteam ein!
+<var> (Herrscher) setzt Z-Doppelteam ein!
+<var> setzt Z-Genesung ein!
+<var> (wild) setzt Z-Genesung ein!
+<var> (Gegner) setzt Z-Genesung ein!
+<var> (Herrscher) setzt Z-Genesung ein!
+<var> setzt Z-Härtner ein!
+<var> (wild) setzt Z-Härtner ein!
+<var> (Gegner) setzt Z-Härtner ein!
+<var> (Herrscher) setzt Z-Härtner ein!
+<var> setzt Z-Komprimator ein!
+<var> (wild) setzt Z-Komprimator ein!
+<var> (Gegner) setzt Z-Komprimator ein!
+<var> (Herrscher) setzt Z-Komprimator ein!
+<var> setzt Z-Rauchwolke ein!
+<var> (wild) setzt Z-Rauchwolke ein!
+<var> (Gegner) setzt Z-Rauchwolke ein!
+<var> (Herrscher) setzt Z-Rauchwolke ein!
+<var> setzt Z-Konfustrahl ein!
+<var> (wild) setzt Z-Konfustrahl ein!
+<var> (Gegner) setzt Z-Konfustrahl ein!
+<var> (Herrscher) setzt Z-Konfustrahl ein!
+<var> setzt Z-Panzerschutz ein!
+<var> (wild) setzt Z-Panzerschutz ein!
+<var> (Gegner) setzt Z-Panzerschutz ein!
+<var> (Herrscher) setzt Z-Panzerschutz ein!
+<var> setzt Z-Einigler ein!
+<var> (wild) setzt Z-Einigler ein!
+<var> (Gegner) setzt Z-Einigler ein!
+<var> (Herrscher) setzt Z-Einigler ein!
+<var> setzt Z-Barriere ein!
+<var> (wild) setzt Z-Barriere ein!
+<var> (Gegner) setzt Z-Barriere ein!
+<var> (Herrscher) setzt Z-Barriere ein!
+<var> setzt Z-Lichtschild ein!
+<var> (wild) setzt Z-Lichtschild ein!
+<var> (Gegner) setzt Z-Lichtschild ein!
+<var> (Herrscher) setzt Z-Lichtschild ein!
+<var> setzt Z-Dunkelnebel ein!
+<var> (wild) setzt Z-Dunkelnebel ein!
+<var> (Gegner) setzt Z-Dunkelnebel ein!
+<var> (Herrscher) setzt Z-Dunkelnebel ein!
+<var> setzt Z-Reflektor ein!
+<var> (wild) setzt Z-Reflektor ein!
+<var> (Gegner) setzt Z-Reflektor ein!
+<var> (Herrscher) setzt Z-Reflektor ein!
+<var> setzt Z-Energiefokus ein!
+<var> (wild) setzt Z-Energiefokus ein!
+<var> (Gegner) setzt Z-Energiefokus ein!
+<var> (Herrscher) setzt Z-Energiefokus ein!
+<var> setzt Z-Geduld ein!
+<var> (wild) setzt Z-Geduld ein!
+<var> (Gegner) setzt Z-Geduld ein!
+<var> (Herrscher) setzt Z-Geduld ein!
+<var> setzt Z-Metronom ein!
+<var> (wild) setzt Z-Metronom ein!
+<var> (Gegner) setzt Z-Metronom ein!
+<var> (Herrscher) setzt Z-Metronom ein!
+<var> setzt Z-Spiegeltrick ein!
+<var> (wild) setzt Z-Spiegeltrick ein!
+<var> (Gegner) setzt Z-Spiegeltrick ein!
+<var> (Herrscher) setzt Z-Spiegeltrick ein!
+<var> setzt Z-Finale ein!
+<var> (wild) setzt Z-Finale ein!
+<var> (Gegner) setzt Z-Finale ein!
+<var> (Herrscher) setzt Z-Finale ein!
+<var> setzt Z-Eierbombe ein!
+<var> (wild) setzt Z-Eierbombe ein!
+<var> (Gegner) setzt Z-Eierbombe ein!
+<var> (Herrscher) setzt Z-Eierbombe ein!
+<var> setzt Z-Schlecker ein!
+<var> (wild) setzt Z-Schlecker ein!
+<var> (Gegner) setzt Z-Schlecker ein!
+<var> (Herrscher) setzt Z-Schlecker ein!
+<var> setzt Z-Smog ein!
+<var> (wild) setzt Z-Smog ein!
+<var> (Gegner) setzt Z-Smog ein!
+<var> (Herrscher) setzt Z-Smog ein!
+<var> setzt Z-Schlammbad ein!
+<var> (wild) setzt Z-Schlammbad ein!
+<var> (Gegner) setzt Z-Schlammbad ein!
+<var> (Herrscher) setzt Z-Schlammbad ein!
+<var> setzt Z-Knochenkeule ein!
+<var> (wild) setzt Z-Knochenkeule ein!
+<var> (Gegner) setzt Z-Knochenkeule ein!
+<var> (Herrscher) setzt Z-Knochenkeule ein!
+<var> setzt Z-Feuersturm ein!
+<var> (wild) setzt Z-Feuersturm ein!
+<var> (Gegner) setzt Z-Feuersturm ein!
+<var> (Herrscher) setzt Z-Feuersturm ein!
+<var> setzt Z-Kaskade ein!
+<var> (wild) setzt Z-Kaskade ein!
+<var> (Gegner) setzt Z-Kaskade ein!
+<var> (Herrscher) setzt Z-Kaskade ein!
+<var> setzt Z-Schnapper ein!
+<var> (wild) setzt Z-Schnapper ein!
+<var> (Gegner) setzt Z-Schnapper ein!
+<var> (Herrscher) setzt Z-Schnapper ein!
+<var> setzt Z-Sternschauer ein!
+<var> (wild) setzt Z-Sternschauer ein!
+<var> (Gegner) setzt Z-Sternschauer ein!
+<var> (Herrscher) setzt Z-Sternschauer ein!
+<var> setzt Z-Schädelwumme ein!
+<var> (wild) setzt Z-Schädelwumme ein!
+<var> (Gegner) setzt Z-Schädelwumme ein!
+<var> (Herrscher) setzt Z-Schädelwumme ein!
+<var> setzt Z-Dornkanone ein!
+<var> (wild) setzt Z-Dornkanone ein!
+<var> (Gegner) setzt Z-Dornkanone ein!
+<var> (Herrscher) setzt Z-Dornkanone ein!
+<var> setzt Z-Umklammerung ein!
+<var> (wild) setzt Z-Umklammerung ein!
+<var> (Gegner) setzt Z-Umklammerung ein!
+<var> (Herrscher) setzt Z-Umklammerung ein!
+<var> setzt Z-Amnesie ein!
+<var> (wild) setzt Z-Amnesie ein!
+<var> (Gegner) setzt Z-Amnesie ein!
+<var> (Herrscher) setzt Z-Amnesie ein!
+<var> setzt Z-Psykraft ein!
+<var> (wild) setzt Z-Psykraft ein!
+<var> (Gegner) setzt Z-Psykraft ein!
+<var> (Herrscher) setzt Z-Psykraft ein!
+<var> setzt Z-Weichei ein!
+<var> (wild) setzt Z-Weichei ein!
+<var> (Gegner) setzt Z-Weichei ein!
+<var> (Herrscher) setzt Z-Weichei ein!
+<var> setzt Z-Turmkick ein!
+<var> (wild) setzt Z-Turmkick ein!
+<var> (Gegner) setzt Z-Turmkick ein!
+<var> (Herrscher) setzt Z-Turmkick ein!
+<var> setzt Z-Giftblick ein!
+<var> (wild) setzt Z-Giftblick ein!
+<var> (Gegner) setzt Z-Giftblick ein!
+<var> (Herrscher) setzt Z-Giftblick ein!
+<var> setzt Z-Traumfresser ein!
+<var> (wild) setzt Z-Traumfresser ein!
+<var> (Gegner) setzt Z-Traumfresser ein!
+<var> (Herrscher) setzt Z-Traumfresser ein!
+<var> setzt Z-Giftwolke ein!
+<var> (wild) setzt Z-Giftwolke ein!
+<var> (Gegner) setzt Z-Giftwolke ein!
+<var> (Herrscher) setzt Z-Giftwolke ein!
+<var> setzt Z-Stakkato ein!
+<var> (wild) setzt Z-Stakkato ein!
+<var> (Gegner) setzt Z-Stakkato ein!
+<var> (Herrscher) setzt Z-Stakkato ein!
+<var> setzt Z-Blutsauger ein!
+<var> (wild) setzt Z-Blutsauger ein!
+<var> (Gegner) setzt Z-Blutsauger ein!
+<var> (Herrscher) setzt Z-Blutsauger ein!
+<var> setzt Z-Todeskuss ein!
+<var> (wild) setzt Z-Todeskuss ein!
+<var> (Gegner) setzt Z-Todeskuss ein!
+<var> (Herrscher) setzt Z-Todeskuss ein!
+<var> setzt Z-Himmelsfeger ein!
+<var> (wild) setzt Z-Himmelsfeger ein!
+<var> (Gegner) setzt Z-Himmelsfeger ein!
+<var> (Herrscher) setzt Z-Himmelsfeger ein!
+<var> setzt Z-Wandler ein!
+<var> (wild) setzt Z-Wandler ein!
+<var> (Gegner) setzt Z-Wandler ein!
+<var> (Herrscher) setzt Z-Wandler ein!
+<var> setzt Z-Blubber ein!
+<var> (wild) setzt Z-Blubber ein!
+<var> (Gegner) setzt Z-Blubber ein!
+<var> (Herrscher) setzt Z-Blubber ein!
+<var> setzt Z-Irrschlag ein!
+<var> (wild) setzt Z-Irrschlag ein!
+<var> (Gegner) setzt Z-Irrschlag ein!
+<var> (Herrscher) setzt Z-Irrschlag ein!
+<var> setzt Z-Pilzspore ein!
+<var> (wild) setzt Z-Pilzspore ein!
+<var> (Gegner) setzt Z-Pilzspore ein!
+<var> (Herrscher) setzt Z-Pilzspore ein!
+<var> setzt Z-Blitz ein!
+<var> (wild) setzt Z-Blitz ein!
+<var> (Gegner) setzt Z-Blitz ein!
+<var> (Herrscher) setzt Z-Blitz ein!
+<var> setzt Z-Psywelle ein!
+<var> (wild) setzt Z-Psywelle ein!
+<var> (Gegner) setzt Z-Psywelle ein!
+<var> (Herrscher) setzt Z-Psywelle ein!
+<var> setzt Z-Platscher ein!
+<var> (wild) setzt Z-Platscher ein!
+<var> (Gegner) setzt Z-Platscher ein!
+<var> (Herrscher) setzt Z-Platscher ein!
+<var> setzt Z-Säurepanzer ein!
+<var> (wild) setzt Z-Säurepanzer ein!
+<var> (Gegner) setzt Z-Säurepanzer ein!
+<var> (Herrscher) setzt Z-Säurepanzer ein!
+<var> setzt Z-Krabbhammer ein!
+<var> (wild) setzt Z-Krabbhammer ein!
+<var> (Gegner) setzt Z-Krabbhammer ein!
+<var> (Herrscher) setzt Z-Krabbhammer ein!
+<var> setzt Z-Explosion ein!
+<var> (wild) setzt Z-Explosion ein!
+<var> (Gegner) setzt Z-Explosion ein!
+<var> (Herrscher) setzt Z-Explosion ein!
+<var> setzt Z-Kratzfurie ein!
+<var> (wild) setzt Z-Kratzfurie ein!
+<var> (Gegner) setzt Z-Kratzfurie ein!
+<var> (Herrscher) setzt Z-Kratzfurie ein!
+<var> setzt Z-Knochmerang ein!
+<var> (wild) setzt Z-Knochmerang ein!
+<var> (Gegner) setzt Z-Knochmerang ein!
+<var> (Herrscher) setzt Z-Knochmerang ein!
+<var> setzt Z-Erholung ein!
+<var> (wild) setzt Z-Erholung ein!
+<var> (Gegner) setzt Z-Erholung ein!
+<var> (Herrscher) setzt Z-Erholung ein!
+<var> setzt Z-Steinhagel ein!
+<var> (wild) setzt Z-Steinhagel ein!
+<var> (Gegner) setzt Z-Steinhagel ein!
+<var> (Herrscher) setzt Z-Steinhagel ein!
+<var> setzt Z-Hyperzahn ein!
+<var> (wild) setzt Z-Hyperzahn ein!
+<var> (Gegner) setzt Z-Hyperzahn ein!
+<var> (Herrscher) setzt Z-Hyperzahn ein!
+<var> setzt Z-Schärfer ein!
+<var> (wild) setzt Z-Schärfer ein!
+<var> (Gegner) setzt Z-Schärfer ein!
+<var> (Herrscher) setzt Z-Schärfer ein!
+<var> setzt Z-Umwandlung ein!
+<var> (wild) setzt Z-Umwandlung ein!
+<var> (Gegner) setzt Z-Umwandlung ein!
+<var> (Herrscher) setzt Z-Umwandlung ein!
+<var> setzt Z-Triplette ein!
+<var> (wild) setzt Z-Triplette ein!
+<var> (Gegner) setzt Z-Triplette ein!
+<var> (Herrscher) setzt Z-Triplette ein!
+<var> setzt Z-Superzahn ein!
+<var> (wild) setzt Z-Superzahn ein!
+<var> (Gegner) setzt Z-Superzahn ein!
+<var> (Herrscher) setzt Z-Superzahn ein!
+<var> setzt Z-Schlitzer ein!
+<var> (wild) setzt Z-Schlitzer ein!
+<var> (Gegner) setzt Z-Schlitzer ein!
+<var> (Herrscher) setzt Z-Schlitzer ein!
+<var> setzt Z-Delegator ein!
+<var> (wild) setzt Z-Delegator ein!
+<var> (Gegner) setzt Z-Delegator ein!
+<var> (Herrscher) setzt Z-Delegator ein!
+<var> setzt Z-Verzweifler ein!
+<var> (wild) setzt Z-Verzweifler ein!
+<var> (Gegner) setzt Z-Verzweifler ein!
+<var> (Herrscher) setzt Z-Verzweifler ein!
+<var> setzt Z-Nachahmer ein!
+<var> (wild) setzt Z-Nachahmer ein!
+<var> (Gegner) setzt Z-Nachahmer ein!
+<var> (Herrscher) setzt Z-Nachahmer ein!
+<var> setzt Z-Dreifachkick ein!
+<var> (wild) setzt Z-Dreifachkick ein!
+<var> (Gegner) setzt Z-Dreifachkick ein!
+<var> (Herrscher) setzt Z-Dreifachkick ein!
+<var> setzt Z-Raub ein!
+<var> (wild) setzt Z-Raub ein!
+<var> (Gegner) setzt Z-Raub ein!
+<var> (Herrscher) setzt Z-Raub ein!
+<var> setzt Z-Spinnennetz ein!
+<var> (wild) setzt Z-Spinnennetz ein!
+<var> (Gegner) setzt Z-Spinnennetz ein!
+<var> (Herrscher) setzt Z-Spinnennetz ein!
+<var> setzt Z-Willensleser ein!
+<var> (wild) setzt Z-Willensleser ein!
+<var> (Gegner) setzt Z-Willensleser ein!
+<var> (Herrscher) setzt Z-Willensleser ein!
+<var> setzt Z-Nachtmahr ein!
+<var> (wild) setzt Z-Nachtmahr ein!
+<var> (Gegner) setzt Z-Nachtmahr ein!
+<var> (Herrscher) setzt Z-Nachtmahr ein!
+<var> setzt Z-Flammenrad ein!
+<var> (wild) setzt Z-Flammenrad ein!
+<var> (Gegner) setzt Z-Flammenrad ein!
+<var> (Herrscher) setzt Z-Flammenrad ein!
+<var> setzt Z-Schnarcher ein!
+<var> (wild) setzt Z-Schnarcher ein!
+<var> (Gegner) setzt Z-Schnarcher ein!
+<var> (Herrscher) setzt Z-Schnarcher ein!
+<var> setzt Z-Fluch ein!
+<var> (wild) setzt Z-Fluch ein!
+<var> (Gegner) setzt Z-Fluch ein!
+<var> (Herrscher) setzt Z-Fluch ein!
+<var> setzt Z-Dreschflegel ein!
+<var> (wild) setzt Z-Dreschflegel ein!
+<var> (Gegner) setzt Z-Dreschflegel ein!
+<var> (Herrscher) setzt Z-Dreschflegel ein!
+<var> setzt Z-Umwandlung2 ein!
+<var> (wild) setzt Z-Umwandlung2 ein!
+<var> (Gegner) setzt Z-Umwandlung2 ein!
+<var> (Herrscher) setzt Z-Umwandlung2 ein!
+<var> setzt Z-Luftstoß ein!
+<var> (wild) setzt Z-Luftstoß ein!
+<var> (Gegner) setzt Z-Luftstoß ein!
+<var> (Herrscher) setzt Z-Luftstoß ein!
+<var> setzt Z-Baumwollsaat ein!
+<var> (wild) setzt Z-Baumwollsaat ein!
+<var> (Gegner) setzt Z-Baumwollsaat ein!
+<var> (Herrscher) setzt Z-Baumwollsaat ein!
+<var> setzt Z-Gegenschlag ein!
+<var> (wild) setzt Z-Gegenschlag ein!
+<var> (Gegner) setzt Z-Gegenschlag ein!
+<var> (Herrscher) setzt Z-Gegenschlag ein!
+<var> setzt Z-Groll ein!
+<var> (wild) setzt Z-Groll ein!
+<var> (Gegner) setzt Z-Groll ein!
+<var> (Herrscher) setzt Z-Groll ein!
+<var> setzt Z-Pulverschnee ein!
+<var> (wild) setzt Z-Pulverschnee ein!
+<var> (Gegner) setzt Z-Pulverschnee ein!
+<var> (Herrscher) setzt Z-Pulverschnee ein!
+<var> setzt Z-Schutzschild ein!
+<var> (wild) setzt Z-Schutzschild ein!
+<var> (Gegner) setzt Z-Schutzschild ein!
+<var> (Herrscher) setzt Z-Schutzschild ein!
+<var> setzt Z-Tempohieb ein!
+<var> (wild) setzt Z-Tempohieb ein!
+<var> (Gegner) setzt Z-Tempohieb ein!
+<var> (Herrscher) setzt Z-Tempohieb ein!
+<var> setzt Z-Grimasse ein!
+<var> (wild) setzt Z-Grimasse ein!
+<var> (Gegner) setzt Z-Grimasse ein!
+<var> (Herrscher) setzt Z-Grimasse ein!
+<var> setzt Z-Finte ein!
+<var> (wild) setzt Z-Finte ein!
+<var> (Gegner) setzt Z-Finte ein!
+<var> (Herrscher) setzt Z-Finte ein!
+<var> setzt Z-Bitterkuss ein!
+<var> (wild) setzt Z-Bitterkuss ein!
+<var> (Gegner) setzt Z-Bitterkuss ein!
+<var> (Herrscher) setzt Z-Bitterkuss ein!
+<var> setzt Z-Bauchtrommel ein!
+<var> (wild) setzt Z-Bauchtrommel ein!
+<var> (Gegner) setzt Z-Bauchtrommel ein!
+<var> (Herrscher) setzt Z-Bauchtrommel ein!
+<var> setzt Z-Matschbombe ein!
+<var> (wild) setzt Z-Matschbombe ein!
+<var> (Gegner) setzt Z-Matschbombe ein!
+<var> (Herrscher) setzt Z-Matschbombe ein!
+<var> setzt Z-Lehmschelle ein!
+<var> (wild) setzt Z-Lehmschelle ein!
+<var> (Gegner) setzt Z-Lehmschelle ein!
+<var> (Herrscher) setzt Z-Lehmschelle ein!
+<var> setzt Z-Octazooka ein!
+<var> (wild) setzt Z-Octazooka ein!
+<var> (Gegner) setzt Z-Octazooka ein!
+<var> (Herrscher) setzt Z-Octazooka ein!
+<var> setzt Z-Stachler ein!
+<var> (wild) setzt Z-Stachler ein!
+<var> (Gegner) setzt Z-Stachler ein!
+<var> (Herrscher) setzt Z-Stachler ein!
+<var> setzt Z-Blitzkanone ein!
+<var> (wild) setzt Z-Blitzkanone ein!
+<var> (Gegner) setzt Z-Blitzkanone ein!
+<var> (Herrscher) setzt Z-Blitzkanone ein!
+<var> setzt Z-Gesichte ein!
+<var> (wild) setzt Z-Gesichte ein!
+<var> (Gegner) setzt Z-Gesichte ein!
+<var> (Herrscher) setzt Z-Gesichte ein!
+<var> setzt Z-Abgangsbund ein!
+<var> (wild) setzt Z-Abgangsbund ein!
+<var> (Gegner) setzt Z-Abgangsbund ein!
+<var> (Herrscher) setzt Z-Abgangsbund ein!
+<var> setzt Z-Abgesang ein!
+<var> (wild) setzt Z-Abgesang ein!
+<var> (Gegner) setzt Z-Abgesang ein!
+<var> (Herrscher) setzt Z-Abgesang ein!
+<var> setzt Z-Eissturm ein!
+<var> (wild) setzt Z-Eissturm ein!
+<var> (Gegner) setzt Z-Eissturm ein!
+<var> (Herrscher) setzt Z-Eissturm ein!
+<var> setzt Z-Scanner ein!
+<var> (wild) setzt Z-Scanner ein!
+<var> (Gegner) setzt Z-Scanner ein!
+<var> (Herrscher) setzt Z-Scanner ein!
+<var> setzt Z-Knochenhatz ein!
+<var> (wild) setzt Z-Knochenhatz ein!
+<var> (Gegner) setzt Z-Knochenhatz ein!
+<var> (Herrscher) setzt Z-Knochenhatz ein!
+<var> setzt Z-Zielschuss ein!
+<var> (wild) setzt Z-Zielschuss ein!
+<var> (Gegner) setzt Z-Zielschuss ein!
+<var> (Herrscher) setzt Z-Zielschuss ein!
+<var> setzt Z-Wutanfall ein!
+<var> (wild) setzt Z-Wutanfall ein!
+<var> (Gegner) setzt Z-Wutanfall ein!
+<var> (Herrscher) setzt Z-Wutanfall ein!
+<var> setzt Z-Sandsturm ein!
+<var> (wild) setzt Z-Sandsturm ein!
+<var> (Gegner) setzt Z-Sandsturm ein!
+<var> (Herrscher) setzt Z-Sandsturm ein!
+<var> setzt Z-Gigasauger ein!
+<var> (wild) setzt Z-Gigasauger ein!
+<var> (Gegner) setzt Z-Gigasauger ein!
+<var> (Herrscher) setzt Z-Gigasauger ein!
+<var> setzt Z-Ausdauer ein!
+<var> (wild) setzt Z-Ausdauer ein!
+<var> (Gegner) setzt Z-Ausdauer ein!
+<var> (Herrscher) setzt Z-Ausdauer ein!
+<var> setzt Z-Charme ein!
+<var> (wild) setzt Z-Charme ein!
+<var> (Gegner) setzt Z-Charme ein!
+<var> (Herrscher) setzt Z-Charme ein!
+<var> setzt Z-Walzer ein!
+<var> (wild) setzt Z-Walzer ein!
+<var> (Gegner) setzt Z-Walzer ein!
+<var> (Herrscher) setzt Z-Walzer ein!
+<var> setzt Z-Trugschlag ein!
+<var> (wild) setzt Z-Trugschlag ein!
+<var> (Gegner) setzt Z-Trugschlag ein!
+<var> (Herrscher) setzt Z-Trugschlag ein!
+<var> setzt Z-Angeberei ein!
+<var> (wild) setzt Z-Angeberei ein!
+<var> (Gegner) setzt Z-Angeberei ein!
+<var> (Herrscher) setzt Z-Angeberei ein!
+<var> setzt Z-Milchgetränk ein!
+<var> (wild) setzt Z-Milchgetränk ein!
+<var> (Gegner) setzt Z-Milchgetränk ein!
+<var> (Herrscher) setzt Z-Milchgetränk ein!
+<var> setzt Z-Funkensprung ein!
+<var> (wild) setzt Z-Funkensprung ein!
+<var> (Gegner) setzt Z-Funkensprung ein!
+<var> (Herrscher) setzt Z-Funkensprung ein!
+<var> setzt Z-Zornklinge ein!
+<var> (wild) setzt Z-Zornklinge ein!
+<var> (Gegner) setzt Z-Zornklinge ein!
+<var> (Herrscher) setzt Z-Zornklinge ein!
+<var> setzt Z-Stahlflügel ein!
+<var> (wild) setzt Z-Stahlflügel ein!
+<var> (Gegner) setzt Z-Stahlflügel ein!
+<var> (Herrscher) setzt Z-Stahlflügel ein!
+<var> setzt Z-Horrorblick ein!
+<var> (wild) setzt Z-Horrorblick ein!
+<var> (Gegner) setzt Z-Horrorblick ein!
+<var> (Herrscher) setzt Z-Horrorblick ein!
+<var> setzt Z-Anziehung ein!
+<var> (wild) setzt Z-Anziehung ein!
+<var> (Gegner) setzt Z-Anziehung ein!
+<var> (Herrscher) setzt Z-Anziehung ein!
+<var> setzt Z-Schlafrede ein!
+<var> (wild) setzt Z-Schlafrede ein!
+<var> (Gegner) setzt Z-Schlafrede ein!
+<var> (Herrscher) setzt Z-Schlafrede ein!
+<var> setzt Z-Vitalglocke ein!
+<var> (wild) setzt Z-Vitalglocke ein!
+<var> (Gegner) setzt Z-Vitalglocke ein!
+<var> (Herrscher) setzt Z-Vitalglocke ein!
+<var> setzt Z-Rückkehr ein!
+<var> (wild) setzt Z-Rückkehr ein!
+<var> (Gegner) setzt Z-Rückkehr ein!
+<var> (Herrscher) setzt Z-Rückkehr ein!
+<var> setzt Z-Geschenk ein!
+<var> (wild) setzt Z-Geschenk ein!
+<var> (Gegner) setzt Z-Geschenk ein!
+<var> (Herrscher) setzt Z-Geschenk ein!
+<var> setzt Z-Frustration ein!
+<var> (wild) setzt Z-Frustration ein!
+<var> (Gegner) setzt Z-Frustration ein!
+<var> (Herrscher) setzt Z-Frustration ein!
+<var> setzt Z-Bodyguard ein!
+<var> (wild) setzt Z-Bodyguard ein!
+<var> (Gegner) setzt Z-Bodyguard ein!
+<var> (Herrscher) setzt Z-Bodyguard ein!
+<var> setzt Z-Leidteiler ein!
+<var> (wild) setzt Z-Leidteiler ein!
+<var> (Gegner) setzt Z-Leidteiler ein!
+<var> (Herrscher) setzt Z-Leidteiler ein!
+<var> setzt Z-Läuterfeuer ein!
+<var> (wild) setzt Z-Läuterfeuer ein!
+<var> (Gegner) setzt Z-Läuterfeuer ein!
+<var> (Herrscher) setzt Z-Läuterfeuer ein!
+<var> setzt Z-Intensität ein!
+<var> (wild) setzt Z-Intensität ein!
+<var> (Gegner) setzt Z-Intensität ein!
+<var> (Herrscher) setzt Z-Intensität ein!
+<var> setzt Z-Wuchtschlag ein!
+<var> (wild) setzt Z-Wuchtschlag ein!
+<var> (Gegner) setzt Z-Wuchtschlag ein!
+<var> (Herrscher) setzt Z-Wuchtschlag ein!
+<var> setzt Z-Vielender ein!
+<var> (wild) setzt Z-Vielender ein!
+<var> (Gegner) setzt Z-Vielender ein!
+<var> (Herrscher) setzt Z-Vielender ein!
+<var> setzt Z-Feuerodem ein!
+<var> (wild) setzt Z-Feuerodem ein!
+<var> (Gegner) setzt Z-Feuerodem ein!
+<var> (Herrscher) setzt Z-Feuerodem ein!
+<var> setzt Z-Stafette ein!
+<var> (wild) setzt Z-Stafette ein!
+<var> (Gegner) setzt Z-Stafette ein!
+<var> (Herrscher) setzt Z-Stafette ein!
+<var> setzt Z-Zugabe ein!
+<var> (wild) setzt Z-Zugabe ein!
+<var> (Gegner) setzt Z-Zugabe ein!
+<var> (Herrscher) setzt Z-Zugabe ein!
+<var> setzt Z-Verfolgung ein!
+<var> (wild) setzt Z-Verfolgung ein!
+<var> (Gegner) setzt Z-Verfolgung ein!
+<var> (Herrscher) setzt Z-Verfolgung ein!
+<var> setzt Z-Turbodreher ein!
+<var> (wild) setzt Z-Turbodreher ein!
+<var> (Gegner) setzt Z-Turbodreher ein!
+<var> (Herrscher) setzt Z-Turbodreher ein!
+<var> setzt Z-Lockduft ein!
+<var> (wild) setzt Z-Lockduft ein!
+<var> (Gegner) setzt Z-Lockduft ein!
+<var> (Herrscher) setzt Z-Lockduft ein!
+<var> setzt Z-Eisenschweif ein!
+<var> (wild) setzt Z-Eisenschweif ein!
+<var> (Gegner) setzt Z-Eisenschweif ein!
+<var> (Herrscher) setzt Z-Eisenschweif ein!
+<var> setzt Z-Metallklaue ein!
+<var> (wild) setzt Z-Metallklaue ein!
+<var> (Gegner) setzt Z-Metallklaue ein!
+<var> (Herrscher) setzt Z-Metallklaue ein!
+<var> setzt Z-Überwurf ein!
+<var> (wild) setzt Z-Überwurf ein!
+<var> (Gegner) setzt Z-Überwurf ein!
+<var> (Herrscher) setzt Z-Überwurf ein!
+<var> setzt Z-Morgengrauen ein!
+<var> (wild) setzt Z-Morgengrauen ein!
+<var> (Gegner) setzt Z-Morgengrauen ein!
+<var> (Herrscher) setzt Z-Morgengrauen ein!
+<var> setzt Z-Synthese ein!
+<var> (wild) setzt Z-Synthese ein!
+<var> (Gegner) setzt Z-Synthese ein!
+<var> (Herrscher) setzt Z-Synthese ein!
+<var> setzt Z-Mondschein ein!
+<var> (wild) setzt Z-Mondschein ein!
+<var> (Gegner) setzt Z-Mondschein ein!
+<var> (Herrscher) setzt Z-Mondschein ein!
+<var> setzt Z-Kraftreserve ein!
+<var> (wild) setzt Z-Kraftreserve ein!
+<var> (Gegner) setzt Z-Kraftreserve ein!
+<var> (Herrscher) setzt Z-Kraftreserve ein!
+<var> setzt Z-Kreuzhieb ein!
+<var> (wild) setzt Z-Kreuzhieb ein!
+<var> (Gegner) setzt Z-Kreuzhieb ein!
+<var> (Herrscher) setzt Z-Kreuzhieb ein!
+<var> setzt Z-Windhose ein!
+<var> (wild) setzt Z-Windhose ein!
+<var> (Gegner) setzt Z-Windhose ein!
+<var> (Herrscher) setzt Z-Windhose ein!
+<var> setzt Z-Regentanz ein!
+<var> (wild) setzt Z-Regentanz ein!
+<var> (Gegner) setzt Z-Regentanz ein!
+<var> (Herrscher) setzt Z-Regentanz ein!
+<var> setzt Z-Sonnentag ein!
+<var> (wild) setzt Z-Sonnentag ein!
+<var> (Gegner) setzt Z-Sonnentag ein!
+<var> (Herrscher) setzt Z-Sonnentag ein!
+<var> setzt Z-Knirscher ein!
+<var> (wild) setzt Z-Knirscher ein!
+<var> (Gegner) setzt Z-Knirscher ein!
+<var> (Herrscher) setzt Z-Knirscher ein!
+<var> setzt Z-Spiegelcape ein!
+<var> (wild) setzt Z-Spiegelcape ein!
+<var> (Gegner) setzt Z-Spiegelcape ein!
+<var> (Herrscher) setzt Z-Spiegelcape ein!
+<var> setzt Z-Psycho-Plus ein!
+<var> (wild) setzt Z-Psycho-Plus ein!
+<var> (Gegner) setzt Z-Psycho-Plus ein!
+<var> (Herrscher) setzt Z-Psycho-Plus ein!
+<var> setzt Z-Turbotempo ein!
+<var> (wild) setzt Z-Turbotempo ein!
+<var> (Gegner) setzt Z-Turbotempo ein!
+<var> (Herrscher) setzt Z-Turbotempo ein!
+<var> setzt Z-Antik-Kraft ein!
+<var> (wild) setzt Z-Antik-Kraft ein!
+<var> (Gegner) setzt Z-Antik-Kraft ein!
+<var> (Herrscher) setzt Z-Antik-Kraft ein!
+<var> setzt Z-Spukball ein!
+<var> (wild) setzt Z-Spukball ein!
+<var> (Gegner) setzt Z-Spukball ein!
+<var> (Herrscher) setzt Z-Spukball ein!
+<var> setzt Z-Seher ein!
+<var> (wild) setzt Z-Seher ein!
+<var> (Gegner) setzt Z-Seher ein!
+<var> (Herrscher) setzt Z-Seher ein!
+<var> setzt Z-Zertrümmerer ein!
+<var> (wild) setzt Z-Zertrümmerer ein!
+<var> (Gegner) setzt Z-Zertrümmerer ein!
+<var> (Herrscher) setzt Z-Zertrümmerer ein!
+<var> setzt Z-Whirlpool ein!
+<var> (wild) setzt Z-Whirlpool ein!
+<var> (Gegner) setzt Z-Whirlpool ein!
+<var> (Herrscher) setzt Z-Whirlpool ein!
+<var> setzt Z-Prügler ein!
+<var> (wild) setzt Z-Prügler ein!
+<var> (Gegner) setzt Z-Prügler ein!
+<var> (Herrscher) setzt Z-Prügler ein!
+<var> setzt Z-Mogelhieb ein!
+<var> (wild) setzt Z-Mogelhieb ein!
+<var> (Gegner) setzt Z-Mogelhieb ein!
+<var> (Herrscher) setzt Z-Mogelhieb ein!
+<var> setzt Z-Aufruhr ein!
+<var> (wild) setzt Z-Aufruhr ein!
+<var> (Gegner) setzt Z-Aufruhr ein!
+<var> (Herrscher) setzt Z-Aufruhr ein!
+<var> setzt Z-Horter ein!
+<var> (wild) setzt Z-Horter ein!
+<var> (Gegner) setzt Z-Horter ein!
+<var> (Herrscher) setzt Z-Horter ein!
+<var> setzt Z-Entfessler ein!
+<var> (wild) setzt Z-Entfessler ein!
+<var> (Gegner) setzt Z-Entfessler ein!
+<var> (Herrscher) setzt Z-Entfessler ein!
+<var> setzt Z-Verzehrer ein!
+<var> (wild) setzt Z-Verzehrer ein!
+<var> (Gegner) setzt Z-Verzehrer ein!
+<var> (Herrscher) setzt Z-Verzehrer ein!
+<var> setzt Z-Hitzewelle ein!
+<var> (wild) setzt Z-Hitzewelle ein!
+<var> (Gegner) setzt Z-Hitzewelle ein!
+<var> (Herrscher) setzt Z-Hitzewelle ein!
+<var> setzt Z-Hagelsturm ein!
+<var> (wild) setzt Z-Hagelsturm ein!
+<var> (Gegner) setzt Z-Hagelsturm ein!
+<var> (Herrscher) setzt Z-Hagelsturm ein!
+<var> setzt Z-Folterknecht ein!
+<var> (wild) setzt Z-Folterknecht ein!
+<var> (Gegner) setzt Z-Folterknecht ein!
+<var> (Herrscher) setzt Z-Folterknecht ein!
+<var> setzt Z-Schmeichler ein!
+<var> (wild) setzt Z-Schmeichler ein!
+<var> (Gegner) setzt Z-Schmeichler ein!
+<var> (Herrscher) setzt Z-Schmeichler ein!
+<var> setzt Z-Irrlicht ein!
+<var> (wild) setzt Z-Irrlicht ein!
+<var> (Gegner) setzt Z-Irrlicht ein!
+<var> (Herrscher) setzt Z-Irrlicht ein!
+<var> setzt Z-Memento-Mori ein!
+<var> (wild) setzt Z-Memento-Mori ein!
+<var> (Gegner) setzt Z-Memento-Mori ein!
+<var> (Herrscher) setzt Z-Memento-Mori ein!
+<var> setzt Z-Fassade ein!
+<var> (wild) setzt Z-Fassade ein!
+<var> (Gegner) setzt Z-Fassade ein!
+<var> (Herrscher) setzt Z-Fassade ein!
+<var> setzt Z-Power-Punch ein!
+<var> (wild) setzt Z-Power-Punch ein!
+<var> (Gegner) setzt Z-Power-Punch ein!
+<var> (Herrscher) setzt Z-Power-Punch ein!
+<var> setzt Z-Riechsalz ein!
+<var> (wild) setzt Z-Riechsalz ein!
+<var> (Gegner) setzt Z-Riechsalz ein!
+<var> (Herrscher) setzt Z-Riechsalz ein!
+<var> setzt Z-Spotlight ein!
+<var> (wild) setzt Z-Spotlight ein!
+<var> (Gegner) setzt Z-Spotlight ein!
+<var> (Herrscher) setzt Z-Spotlight ein!
+<var> setzt Z-Natur-Kraft ein!
+<var> (wild) setzt Z-Natur-Kraft ein!
+<var> (Gegner) setzt Z-Natur-Kraft ein!
+<var> (Herrscher) setzt Z-Natur-Kraft ein!
+<var> setzt Z-Ladevorgang ein!
+<var> (wild) setzt Z-Ladevorgang ein!
+<var> (Gegner) setzt Z-Ladevorgang ein!
+<var> (Herrscher) setzt Z-Ladevorgang ein!
+<var> setzt Z-Verhöhner ein!
+<var> (wild) setzt Z-Verhöhner ein!
+<var> (Gegner) setzt Z-Verhöhner ein!
+<var> (Herrscher) setzt Z-Verhöhner ein!
+<var> setzt Z-Rechte Hand ein!
+<var> (wild) setzt Z-Rechte Hand ein!
+<var> (Gegner) setzt Z-Rechte Hand ein!
+<var> (Herrscher) setzt Z-Rechte Hand ein!
+<var> setzt Z-Trickbetrug ein!
+<var> (wild) setzt Z-Trickbetrug ein!
+<var> (Gegner) setzt Z-Trickbetrug ein!
+<var> (Herrscher) setzt Z-Trickbetrug ein!
+<var> setzt Z-Rollentausch ein!
+<var> (wild) setzt Z-Rollentausch ein!
+<var> (Gegner) setzt Z-Rollentausch ein!
+<var> (Herrscher) setzt Z-Rollentausch ein!
+<var> spricht einen Z-Wunschtraum aus!
+<var> (wild) spricht einen Z-Wunschtraum aus!
+<var> (Gegner) spricht einen Z-Wunschtraum aus!
+<var> (Herrscher) spricht einen Z-Wunschtraum aus!
+<var> setzt Z-Zuschuss ein!
+<var> (wild) setzt Z-Zuschuss ein!
+<var> (Gegner) setzt Z-Zuschuss ein!
+<var> (Herrscher) setzt Z-Zuschuss ein!
+<var> setzt Z-Verwurzler ein!
+<var> (wild) setzt Z-Verwurzler ein!
+<var> (Gegner) setzt Z-Verwurzler ein!
+<var> (Herrscher) setzt Z-Verwurzler ein!
+<var> setzt Z-Kraftkoloss ein!
+<var> (wild) setzt Z-Kraftkoloss ein!
+<var> (Gegner) setzt Z-Kraftkoloss ein!
+<var> (Herrscher) setzt Z-Kraftkoloss ein!
+<var> setzt Z-Magiemantel ein!
+<var> (wild) setzt Z-Magiemantel ein!
+<var> (Gegner) setzt Z-Magiemantel ein!
+<var> (Herrscher) setzt Z-Magiemantel ein!
+<var> setzt Z-Aufbereitung ein!
+<var> (wild) setzt Z-Aufbereitung ein!
+<var> (Gegner) setzt Z-Aufbereitung ein!
+<var> (Herrscher) setzt Z-Aufbereitung ein!
+<var> setzt Z-Vergeltung ein!
+<var> (wild) setzt Z-Vergeltung ein!
+<var> (Gegner) setzt Z-Vergeltung ein!
+<var> (Herrscher) setzt Z-Vergeltung ein!
+<var> setzt Z-Durchbruch ein!
+<var> (wild) setzt Z-Durchbruch ein!
+<var> (Gegner) setzt Z-Durchbruch ein!
+<var> (Herrscher) setzt Z-Durchbruch ein!
+<var> setzt Z-Gähner ein!
+<var> (wild) setzt Z-Gähner ein!
+<var> (Gegner) setzt Z-Gähner ein!
+<var> (Herrscher) setzt Z-Gähner ein!
+<var> setzt Z-Abschlag ein!
+<var> (wild) setzt Z-Abschlag ein!
+<var> (Gegner) setzt Z-Abschlag ein!
+<var> (Herrscher) setzt Z-Abschlag ein!
+<var> setzt Z-Notsituation ein!
+<var> (wild) setzt Z-Notsituation ein!
+<var> (Gegner) setzt Z-Notsituation ein!
+<var> (Herrscher) setzt Z-Notsituation ein!
+<var> setzt Z-Eruption ein!
+<var> (wild) setzt Z-Eruption ein!
+<var> (Gegner) setzt Z-Eruption ein!
+<var> (Herrscher) setzt Z-Eruption ein!
+<var> setzt Z-Wertewechsel ein!
+<var> (wild) setzt Z-Wertewechsel ein!
+<var> (Gegner) setzt Z-Wertewechsel ein!
+<var> (Herrscher) setzt Z-Wertewechsel ein!
+<var> setzt Z-Begrenzer ein!
+<var> (wild) setzt Z-Begrenzer ein!
+<var> (Gegner) setzt Z-Begrenzer ein!
+<var> (Herrscher) setzt Z-Begrenzer ein!
+<var> setzt Z-Heilung ein!
+<var> (wild) setzt Z-Heilung ein!
+<var> (Gegner) setzt Z-Heilung ein!
+<var> (Herrscher) setzt Z-Heilung ein!
+<var> setzt Z-Nachspiel ein!
+<var> (wild) setzt Z-Nachspiel ein!
+<var> (Gegner) setzt Z-Nachspiel ein!
+<var> (Herrscher) setzt Z-Nachspiel ein!
+<var> setzt Z-Übernahme ein!
+<var> (wild) setzt Z-Übernahme ein!
+<var> (Gegner) setzt Z-Übernahme ein!
+<var> (Herrscher) setzt Z-Übernahme ein!
+<var> setzt Z-Geheimpower ein!
+<var> (wild) setzt Z-Geheimpower ein!
+<var> (Gegner) setzt Z-Geheimpower ein!
+<var> (Herrscher) setzt Z-Geheimpower ein!
+<var> setzt Z-Taucher ein!
+<var> (wild) setzt Z-Taucher ein!
+<var> (Gegner) setzt Z-Taucher ein!
+<var> (Herrscher) setzt Z-Taucher ein!
+<var> setzt Z-Armstoß ein!
+<var> (wild) setzt Z-Armstoß ein!
+<var> (Gegner) setzt Z-Armstoß ein!
+<var> (Herrscher) setzt Z-Armstoß ein!
+<var> setzt Z-Tarnung ein!
+<var> (wild) setzt Z-Tarnung ein!
+<var> (Gegner) setzt Z-Tarnung ein!
+<var> (Herrscher) setzt Z-Tarnung ein!
+<var> setzt Z-Schweifglanz ein!
+<var> (wild) setzt Z-Schweifglanz ein!
+<var> (Gegner) setzt Z-Schweifglanz ein!
+<var> (Herrscher) setzt Z-Schweifglanz ein!
+<var> setzt Z-Scheinwerfer ein!
+<var> (wild) setzt Z-Scheinwerfer ein!
+<var> (Gegner) setzt Z-Scheinwerfer ein!
+<var> (Herrscher) setzt Z-Scheinwerfer ein!
+<var> setzt Z-Nebelball ein!
+<var> (wild) setzt Z-Nebelball ein!
+<var> (Gegner) setzt Z-Nebelball ein!
+<var> (Herrscher) setzt Z-Nebelball ein!
+<var> setzt Z-Daunenreigen ein!
+<var> (wild) setzt Z-Daunenreigen ein!
+<var> (Gegner) setzt Z-Daunenreigen ein!
+<var> (Herrscher) setzt Z-Daunenreigen ein!
+<var> setzt Z-Taumeltanz ein!
+<var> (wild) setzt Z-Taumeltanz ein!
+<var> (Gegner) setzt Z-Taumeltanz ein!
+<var> (Herrscher) setzt Z-Taumeltanz ein!
+<var> setzt Z-Feuerfeger ein!
+<var> (wild) setzt Z-Feuerfeger ein!
+<var> (Gegner) setzt Z-Feuerfeger ein!
+<var> (Herrscher) setzt Z-Feuerfeger ein!
+<var> setzt Z-Lehmsuhler ein!
+<var> (wild) setzt Z-Lehmsuhler ein!
+<var> (Gegner) setzt Z-Lehmsuhler ein!
+<var> (Herrscher) setzt Z-Lehmsuhler ein!
+<var> setzt Z-Frostbeule ein!
+<var> (wild) setzt Z-Frostbeule ein!
+<var> (Gegner) setzt Z-Frostbeule ein!
+<var> (Herrscher) setzt Z-Frostbeule ein!
+<var> setzt Z-Nietenranke ein!
+<var> (wild) setzt Z-Nietenranke ein!
+<var> (Gegner) setzt Z-Nietenranke ein!
+<var> (Herrscher) setzt Z-Nietenranke ein!
+<var> setzt Z-Tagedieb ein!
+<var> (wild) setzt Z-Tagedieb ein!
+<var> (Gegner) setzt Z-Tagedieb ein!
+<var> (Herrscher) setzt Z-Tagedieb ein!
+<var> setzt Z-Schallwelle ein!
+<var> (wild) setzt Z-Schallwelle ein!
+<var> (Gegner) setzt Z-Schallwelle ein!
+<var> (Herrscher) setzt Z-Schallwelle ein!
+<var> setzt Z-Giftzahn ein!
+<var> (wild) setzt Z-Giftzahn ein!
+<var> (Gegner) setzt Z-Giftzahn ein!
+<var> (Herrscher) setzt Z-Giftzahn ein!
+<var> setzt Z-Zermalmklaue ein!
+<var> (wild) setzt Z-Zermalmklaue ein!
+<var> (Gegner) setzt Z-Zermalmklaue ein!
+<var> (Herrscher) setzt Z-Zermalmklaue ein!
+<var> setzt Z-Lohekanonade ein!
+<var> (wild) setzt Z-Lohekanonade ein!
+<var> (Gegner) setzt Z-Lohekanonade ein!
+<var> (Herrscher) setzt Z-Lohekanonade ein!
+<var> setzt Z-Aquahaubitze ein!
+<var> (wild) setzt Z-Aquahaubitze ein!
+<var> (Gegner) setzt Z-Aquahaubitze ein!
+<var> (Herrscher) setzt Z-Aquahaubitze ein!
+<var> setzt Z-Sternenhieb ein!
+<var> (wild) setzt Z-Sternenhieb ein!
+<var> (Gegner) setzt Z-Sternenhieb ein!
+<var> (Herrscher) setzt Z-Sternenhieb ein!
+<var> setzt Z-Erstauner ein!
+<var> (wild) setzt Z-Erstauner ein!
+<var> (Gegner) setzt Z-Erstauner ein!
+<var> (Herrscher) setzt Z-Erstauner ein!
+<var> setzt Z-Meteorologe ein!
+<var> (wild) setzt Z-Meteorologe ein!
+<var> (Gegner) setzt Z-Meteorologe ein!
+<var> (Herrscher) setzt Z-Meteorologe ein!
+<var> setzt Z-Aromakur ein!
+<var> (wild) setzt Z-Aromakur ein!
+<var> (Gegner) setzt Z-Aromakur ein!
+<var> (Herrscher) setzt Z-Aromakur ein!
+<var> setzt Z-Trugträne ein!
+<var> (wild) setzt Z-Trugträne ein!
+<var> (Gegner) setzt Z-Trugträne ein!
+<var> (Herrscher) setzt Z-Trugträne ein!
+<var> setzt Z-Windschnitt ein!
+<var> (wild) setzt Z-Windschnitt ein!
+<var> (Gegner) setzt Z-Windschnitt ein!
+<var> (Herrscher) setzt Z-Windschnitt ein!
+<var> setzt Z-Hitzekoller ein!
+<var> (wild) setzt Z-Hitzekoller ein!
+<var> (Gegner) setzt Z-Hitzekoller ein!
+<var> (Herrscher) setzt Z-Hitzekoller ein!
+<var> setzt Z-Schnüffler ein!
+<var> (wild) setzt Z-Schnüffler ein!
+<var> (Gegner) setzt Z-Schnüffler ein!
+<var> (Herrscher) setzt Z-Schnüffler ein!
+<var> setzt Z-Felsgrab ein!
+<var> (wild) setzt Z-Felsgrab ein!
+<var> (Gegner) setzt Z-Felsgrab ein!
+<var> (Herrscher) setzt Z-Felsgrab ein!
+<var> setzt Z-Silberhauch ein!
+<var> (wild) setzt Z-Silberhauch ein!
+<var> (Gegner) setzt Z-Silberhauch ein!
+<var> (Herrscher) setzt Z-Silberhauch ein!
+<var> setzt Z-Metallsound ein!
+<var> (wild) setzt Z-Metallsound ein!
+<var> (Gegner) setzt Z-Metallsound ein!
+<var> (Herrscher) setzt Z-Metallsound ein!
+<var> setzt Z-Grasflöte ein!
+<var> (wild) setzt Z-Grasflöte ein!
+<var> (Gegner) setzt Z-Grasflöte ein!
+<var> (Herrscher) setzt Z-Grasflöte ein!
+<var> setzt Z-Spaßkanone ein!
+<var> (wild) setzt Z-Spaßkanone ein!
+<var> (Gegner) setzt Z-Spaßkanone ein!
+<var> (Herrscher) setzt Z-Spaßkanone ein!
+<var> setzt Z-Kosmik-Kraft ein!
+<var> (wild) setzt Z-Kosmik-Kraft ein!
+<var> (Gegner) setzt Z-Kosmik-Kraft ein!
+<var> (Herrscher) setzt Z-Kosmik-Kraft ein!
+<var> setzt Z-Fontränen ein!
+<var> (wild) setzt Z-Fontränen ein!
+<var> (Gegner) setzt Z-Fontränen ein!
+<var> (Herrscher) setzt Z-Fontränen ein!
+<var> setzt Z-Ampelleuchte ein!
+<var> (wild) setzt Z-Ampelleuchte ein!
+<var> (Gegner) setzt Z-Ampelleuchte ein!
+<var> (Herrscher) setzt Z-Ampelleuchte ein!
+<var> setzt Z-Finsterfaust ein!
+<var> (wild) setzt Z-Finsterfaust ein!
+<var> (Gegner) setzt Z-Finsterfaust ein!
+<var> (Herrscher) setzt Z-Finsterfaust ein!
+<var> setzt Z-Sondersensor ein!
+<var> (wild) setzt Z-Sondersensor ein!
+<var> (Gegner) setzt Z-Sondersensor ein!
+<var> (Herrscher) setzt Z-Sondersensor ein!
+<var> setzt Z-Himmelhieb ein!
+<var> (wild) setzt Z-Himmelhieb ein!
+<var> (Gegner) setzt Z-Himmelhieb ein!
+<var> (Herrscher) setzt Z-Himmelhieb ein!
+<var> setzt Z-Sandgrab ein!
+<var> (wild) setzt Z-Sandgrab ein!
+<var> (Gegner) setzt Z-Sandgrab ein!
+<var> (Herrscher) setzt Z-Sandgrab ein!
+<var> setzt Z-Eiseskälte ein!
+<var> (wild) setzt Z-Eiseskälte ein!
+<var> (Gegner) setzt Z-Eiseskälte ein!
+<var> (Herrscher) setzt Z-Eiseskälte ein!
+<var> setzt Z-Lehmbrühe ein!
+<var> (wild) setzt Z-Lehmbrühe ein!
+<var> (Gegner) setzt Z-Lehmbrühe ein!
+<var> (Herrscher) setzt Z-Lehmbrühe ein!
+<var> setzt Z-Kugelsaat ein!
+<var> (wild) setzt Z-Kugelsaat ein!
+<var> (Gegner) setzt Z-Kugelsaat ein!
+<var> (Herrscher) setzt Z-Kugelsaat ein!
+<var> setzt Z-Aero-Ass ein!
+<var> (wild) setzt Z-Aero-Ass ein!
+<var> (Gegner) setzt Z-Aero-Ass ein!
+<var> (Herrscher) setzt Z-Aero-Ass ein!
+<var> setzt Z-Eisspeer ein!
+<var> (wild) setzt Z-Eisspeer ein!
+<var> (Gegner) setzt Z-Eisspeer ein!
+<var> (Herrscher) setzt Z-Eisspeer ein!
+<var> setzt Z-Eisenabwehr ein!
+<var> (wild) setzt Z-Eisenabwehr ein!
+<var> (Gegner) setzt Z-Eisenabwehr ein!
+<var> (Herrscher) setzt Z-Eisenabwehr ein!
+<var> setzt Z-Rückentzug ein!
+<var> (wild) setzt Z-Rückentzug ein!
+<var> (Gegner) setzt Z-Rückentzug ein!
+<var> (Herrscher) setzt Z-Rückentzug ein!
+<var> setzt Z-Jauler ein!
+<var> (wild) setzt Z-Jauler ein!
+<var> (Gegner) setzt Z-Jauler ein!
+<var> (Herrscher) setzt Z-Jauler ein!
+<var> setzt Z-Drachenklaue ein!
+<var> (wild) setzt Z-Drachenklaue ein!
+<var> (Gegner) setzt Z-Drachenklaue ein!
+<var> (Herrscher) setzt Z-Drachenklaue ein!
+<var> setzt Z-Flora-Statue ein!
+<var> (wild) setzt Z-Flora-Statue ein!
+<var> (Gegner) setzt Z-Flora-Statue ein!
+<var> (Herrscher) setzt Z-Flora-Statue ein!
+<var> setzt Z-Protzer ein!
+<var> (wild) setzt Z-Protzer ein!
+<var> (Gegner) setzt Z-Protzer ein!
+<var> (Herrscher) setzt Z-Protzer ein!
+<var> setzt Z-Sprungfeder ein!
+<var> (wild) setzt Z-Sprungfeder ein!
+<var> (Gegner) setzt Z-Sprungfeder ein!
+<var> (Herrscher) setzt Z-Sprungfeder ein!
+<var> setzt Z-Lehmschuss ein!
+<var> (wild) setzt Z-Lehmschuss ein!
+<var> (Gegner) setzt Z-Lehmschuss ein!
+<var> (Herrscher) setzt Z-Lehmschuss ein!
+<var> setzt Z-Giftschweif ein!
+<var> (wild) setzt Z-Giftschweif ein!
+<var> (Gegner) setzt Z-Giftschweif ein!
+<var> (Herrscher) setzt Z-Giftschweif ein!
+<var> setzt Z-Bezirzer ein!
+<var> (wild) setzt Z-Bezirzer ein!
+<var> (Gegner) setzt Z-Bezirzer ein!
+<var> (Herrscher) setzt Z-Bezirzer ein!
+<var> setzt Z-Volttackle ein!
+<var> (wild) setzt Z-Volttackle ein!
+<var> (Gegner) setzt Z-Volttackle ein!
+<var> (Herrscher) setzt Z-Volttackle ein!
+<var> setzt Z-Zauberblatt ein!
+<var> (wild) setzt Z-Zauberblatt ein!
+<var> (Gegner) setzt Z-Zauberblatt ein!
+<var> (Herrscher) setzt Z-Zauberblatt ein!
+<var> setzt Z-Nassmacher ein!
+<var> (wild) setzt Z-Nassmacher ein!
+<var> (Gegner) setzt Z-Nassmacher ein!
+<var> (Herrscher) setzt Z-Nassmacher ein!
+<var> setzt Z-Gedankengut ein!
+<var> (wild) setzt Z-Gedankengut ein!
+<var> (Gegner) setzt Z-Gedankengut ein!
+<var> (Herrscher) setzt Z-Gedankengut ein!
+<var> setzt Z-Laubklinge ein!
+<var> (wild) setzt Z-Laubklinge ein!
+<var> (Gegner) setzt Z-Laubklinge ein!
+<var> (Herrscher) setzt Z-Laubklinge ein!
+<var> setzt Z-Drachentanz ein!
+<var> (wild) setzt Z-Drachentanz ein!
+<var> (Gegner) setzt Z-Drachentanz ein!
+<var> (Herrscher) setzt Z-Drachentanz ein!
+<var> setzt Z-Felswurf ein!
+<var> (wild) setzt Z-Felswurf ein!
+<var> (Gegner) setzt Z-Felswurf ein!
+<var> (Herrscher) setzt Z-Felswurf ein!
+<var> setzt Z-Schockwelle ein!
+<var> (wild) setzt Z-Schockwelle ein!
+<var> (Gegner) setzt Z-Schockwelle ein!
+<var> (Herrscher) setzt Z-Schockwelle ein!
+<var> setzt Z-Aquawelle ein!
+<var> (wild) setzt Z-Aquawelle ein!
+<var> (Gegner) setzt Z-Aquawelle ein!
+<var> (Herrscher) setzt Z-Aquawelle ein!
+<var> setzt Z-Kismetwunsch ein!
+<var> (wild) setzt Z-Kismetwunsch ein!
+<var> (Gegner) setzt Z-Kismetwunsch ein!
+<var> (Herrscher) setzt Z-Kismetwunsch ein!
+<var> setzt Z-Psyschub ein!
+<var> (wild) setzt Z-Psyschub ein!
+<var> (Gegner) setzt Z-Psyschub ein!
+<var> (Herrscher) setzt Z-Psyschub ein!
+<var> setzt Z-Ruheort ein!
+<var> (wild) setzt Z-Ruheort ein!
+<var> (Gegner) setzt Z-Ruheort ein!
+<var> (Herrscher) setzt Z-Ruheort ein!
+<var> setzt Z-Erdanziehung ein!
+<var> (wild) setzt Z-Erdanziehung ein!
+<var> (Gegner) setzt Z-Erdanziehung ein!
+<var> (Herrscher) setzt Z-Erdanziehung ein!
+<var> setzt Z-Wunderauge ein!
+<var> (wild) setzt Z-Wunderauge ein!
+<var> (Gegner) setzt Z-Wunderauge ein!
+<var> (Herrscher) setzt Z-Wunderauge ein!
+<var> setzt Z-Weckruf ein!
+<var> (wild) setzt Z-Weckruf ein!
+<var> (Gegner) setzt Z-Weckruf ein!
+<var> (Herrscher) setzt Z-Weckruf ein!
+<var> setzt Z-Hammerarm ein!
+<var> (wild) setzt Z-Hammerarm ein!
+<var> (Gegner) setzt Z-Hammerarm ein!
+<var> (Herrscher) setzt Z-Hammerarm ein!
+<var> setzt Z-Gyroball ein!
+<var> (wild) setzt Z-Gyroball ein!
+<var> (Gegner) setzt Z-Gyroball ein!
+<var> (Herrscher) setzt Z-Gyroball ein!
+<var> setzt Z-Heilopfer ein!
+<var> (wild) setzt Z-Heilopfer ein!
+<var> (Gegner) setzt Z-Heilopfer ein!
+<var> (Herrscher) setzt Z-Heilopfer ein!
+<var> setzt Z-Lake ein!
+<var> (wild) setzt Z-Lake ein!
+<var> (Gegner) setzt Z-Lake ein!
+<var> (Herrscher) setzt Z-Lake ein!
+<var> setzt Z-Beerenkräfte ein!
+<var> (wild) setzt Z-Beerenkräfte ein!
+<var> (Gegner) setzt Z-Beerenkräfte ein!
+<var> (Herrscher) setzt Z-Beerenkräfte ein!
+<var> setzt Z-Offenlegung ein!
+<var> (wild) setzt Z-Offenlegung ein!
+<var> (Gegner) setzt Z-Offenlegung ein!
+<var> (Herrscher) setzt Z-Offenlegung ein!
+<var> setzt Z-Pflücker ein!
+<var> (wild) setzt Z-Pflücker ein!
+<var> (Gegner) setzt Z-Pflücker ein!
+<var> (Herrscher) setzt Z-Pflücker ein!
+<var> setzt Z-Rückenwind ein!
+<var> (wild) setzt Z-Rückenwind ein!
+<var> (Gegner) setzt Z-Rückenwind ein!
+<var> (Herrscher) setzt Z-Rückenwind ein!
+<var> setzt Z-Akupressur ein!
+<var> (wild) setzt Z-Akupressur ein!
+<var> (Gegner) setzt Z-Akupressur ein!
+<var> (Herrscher) setzt Z-Akupressur ein!
+<var> setzt Z-Metallstoß ein!
+<var> (wild) setzt Z-Metallstoß ein!
+<var> (Gegner) setzt Z-Metallstoß ein!
+<var> (Herrscher) setzt Z-Metallstoß ein!
+<var> setzt Z-Kehrtwende ein!
+<var> (wild) setzt Z-Kehrtwende ein!
+<var> (Gegner) setzt Z-Kehrtwende ein!
+<var> (Herrscher) setzt Z-Kehrtwende ein!
+<var> setzt Z-Nahkampf ein!
+<var> (wild) setzt Z-Nahkampf ein!
+<var> (Gegner) setzt Z-Nahkampf ein!
+<var> (Herrscher) setzt Z-Nahkampf ein!
+<var> setzt Z-Gegenstoß ein!
+<var> (wild) setzt Z-Gegenstoß ein!
+<var> (Gegner) setzt Z-Gegenstoß ein!
+<var> (Herrscher) setzt Z-Gegenstoß ein!
+<var> setzt Z-Gewissheit ein!
+<var> (wild) setzt Z-Gewissheit ein!
+<var> (Gegner) setzt Z-Gewissheit ein!
+<var> (Herrscher) setzt Z-Gewissheit ein!
+<var> setzt Z-Itemsperre ein!
+<var> (wild) setzt Z-Itemsperre ein!
+<var> (Gegner) setzt Z-Itemsperre ein!
+<var> (Herrscher) setzt Z-Itemsperre ein!
+<var> setzt Z-Schleuder ein!
+<var> (wild) setzt Z-Schleuder ein!
+<var> (Gegner) setzt Z-Schleuder ein!
+<var> (Herrscher) setzt Z-Schleuder ein!
+<var> setzt Z-Psybann ein!
+<var> (wild) setzt Z-Psybann ein!
+<var> (Gegner) setzt Z-Psybann ein!
+<var> (Herrscher) setzt Z-Psybann ein!
+<var> setzt Z-Trumpfkarte ein!
+<var> (wild) setzt Z-Trumpfkarte ein!
+<var> (Gegner) setzt Z-Trumpfkarte ein!
+<var> (Herrscher) setzt Z-Trumpfkarte ein!
+<var> setzt Z-Heilblockade ein!
+<var> (wild) setzt Z-Heilblockade ein!
+<var> (Gegner) setzt Z-Heilblockade ein!
+<var> (Herrscher) setzt Z-Heilblockade ein!
+<var> setzt Z-Auswringen ein!
+<var> (wild) setzt Z-Auswringen ein!
+<var> (Gegner) setzt Z-Auswringen ein!
+<var> (Herrscher) setzt Z-Auswringen ein!
+<var> setzt Z-Krafttrick ein!
+<var> (wild) setzt Z-Krafttrick ein!
+<var> (Gegner) setzt Z-Krafttrick ein!
+<var> (Herrscher) setzt Z-Krafttrick ein!
+<var> setzt Z-Magensäfte ein!
+<var> (wild) setzt Z-Magensäfte ein!
+<var> (Gegner) setzt Z-Magensäfte ein!
+<var> (Herrscher) setzt Z-Magensäfte ein!
+<var> setzt Z-Beschwörung ein!
+<var> (wild) setzt Z-Beschwörung ein!
+<var> (Gegner) setzt Z-Beschwörung ein!
+<var> (Herrscher) setzt Z-Beschwörung ein!
+<var> setzt Z-Egotrip ein!
+<var> (wild) setzt Z-Egotrip ein!
+<var> (Gegner) setzt Z-Egotrip ein!
+<var> (Herrscher) setzt Z-Egotrip ein!
+<var> setzt Z-Imitator ein!
+<var> (wild) setzt Z-Imitator ein!
+<var> (Gegner) setzt Z-Imitator ein!
+<var> (Herrscher) setzt Z-Imitator ein!
+<var> setzt Z-Krafttausch ein!
+<var> (wild) setzt Z-Krafttausch ein!
+<var> (Gegner) setzt Z-Krafttausch ein!
+<var> (Herrscher) setzt Z-Krafttausch ein!
+<var> setzt Z-Schutztausch ein!
+<var> (wild) setzt Z-Schutztausch ein!
+<var> (Gegner) setzt Z-Schutztausch ein!
+<var> (Herrscher) setzt Z-Schutztausch ein!
+<var> setzt Z-Strafattacke ein!
+<var> (wild) setzt Z-Strafattacke ein!
+<var> (Gegner) setzt Z-Strafattacke ein!
+<var> (Herrscher) setzt Z-Strafattacke ein!
+<var> setzt Z-Zuflucht ein!
+<var> (wild) setzt Z-Zuflucht ein!
+<var> (Gegner) setzt Z-Zuflucht ein!
+<var> (Herrscher) setzt Z-Zuflucht ein!
+<var> setzt Z-Sorgensamen ein!
+<var> (wild) setzt Z-Sorgensamen ein!
+<var> (Gegner) setzt Z-Sorgensamen ein!
+<var> (Herrscher) setzt Z-Sorgensamen ein!
+<var> setzt Z-Tiefschlag ein!
+<var> (wild) setzt Z-Tiefschlag ein!
+<var> (Gegner) setzt Z-Tiefschlag ein!
+<var> (Herrscher) setzt Z-Tiefschlag ein!
+<var> setzt Z-Giftspitzen ein!
+<var> (wild) setzt Z-Giftspitzen ein!
+<var> (Gegner) setzt Z-Giftspitzen ein!
+<var> (Herrscher) setzt Z-Giftspitzen ein!
+<var> setzt Z-Statustausch ein!
+<var> (wild) setzt Z-Statustausch ein!
+<var> (Gegner) setzt Z-Statustausch ein!
+<var> (Herrscher) setzt Z-Statustausch ein!
+<var> setzt Z-Wasserring ein!
+<var> (wild) setzt Z-Wasserring ein!
+<var> (Gegner) setzt Z-Wasserring ein!
+<var> (Herrscher) setzt Z-Wasserring ein!
+<var> setzt Z-Magnetflug ein!
+<var> (wild) setzt Z-Magnetflug ein!
+<var> (Gegner) setzt Z-Magnetflug ein!
+<var> (Herrscher) setzt Z-Magnetflug ein!
+<var> setzt Z-Flammenblitz ein!
+<var> (wild) setzt Z-Flammenblitz ein!
+<var> (Gegner) setzt Z-Flammenblitz ein!
+<var> (Herrscher) setzt Z-Flammenblitz ein!
+<var> setzt Z-Kraftwelle ein!
+<var> (wild) setzt Z-Kraftwelle ein!
+<var> (Gegner) setzt Z-Kraftwelle ein!
+<var> (Herrscher) setzt Z-Kraftwelle ein!
+<var> setzt Z-Aurasphäre ein!
+<var> (wild) setzt Z-Aurasphäre ein!
+<var> (Gegner) setzt Z-Aurasphäre ein!
+<var> (Herrscher) setzt Z-Aurasphäre ein!
+<var> setzt Z-Steinpolitur ein!
+<var> (wild) setzt Z-Steinpolitur ein!
+<var> (Gegner) setzt Z-Steinpolitur ein!
+<var> (Herrscher) setzt Z-Steinpolitur ein!
+<var> setzt Z-Gifthieb ein!
+<var> (wild) setzt Z-Gifthieb ein!
+<var> (Gegner) setzt Z-Gifthieb ein!
+<var> (Herrscher) setzt Z-Gifthieb ein!
+<var> setzt Z-Finsteraura ein!
+<var> (wild) setzt Z-Finsteraura ein!
+<var> (Gegner) setzt Z-Finsteraura ein!
+<var> (Herrscher) setzt Z-Finsteraura ein!
+<var> setzt Z-Nachthieb ein!
+<var> (wild) setzt Z-Nachthieb ein!
+<var> (Gegner) setzt Z-Nachthieb ein!
+<var> (Herrscher) setzt Z-Nachthieb ein!
+<var> setzt Z-Nassschweif ein!
+<var> (wild) setzt Z-Nassschweif ein!
+<var> (Gegner) setzt Z-Nassschweif ein!
+<var> (Herrscher) setzt Z-Nassschweif ein!
+<var> setzt Z-Samenbomben ein!
+<var> (wild) setzt Z-Samenbomben ein!
+<var> (Gegner) setzt Z-Samenbomben ein!
+<var> (Herrscher) setzt Z-Samenbomben ein!
+<var> setzt Z-Luftschnitt ein!
+<var> (wild) setzt Z-Luftschnitt ein!
+<var> (Gegner) setzt Z-Luftschnitt ein!
+<var> (Herrscher) setzt Z-Luftschnitt ein!
+<var> setzt Z-Kreuzschere ein!
+<var> (wild) setzt Z-Kreuzschere ein!
+<var> (Gegner) setzt Z-Kreuzschere ein!
+<var> (Herrscher) setzt Z-Kreuzschere ein!
+<var> setzt Z-Käfergebrumm ein!
+<var> (wild) setzt Z-Käfergebrumm ein!
+<var> (Gegner) setzt Z-Käfergebrumm ein!
+<var> (Herrscher) setzt Z-Käfergebrumm ein!
+<var> setzt Z-Drachenpuls ein!
+<var> (wild) setzt Z-Drachenpuls ein!
+<var> (Gegner) setzt Z-Drachenpuls ein!
+<var> (Herrscher) setzt Z-Drachenpuls ein!
+<var> setzt Z-Drachenstoß ein!
+<var> (wild) setzt Z-Drachenstoß ein!
+<var> (Gegner) setzt Z-Drachenstoß ein!
+<var> (Herrscher) setzt Z-Drachenstoß ein!
+<var> setzt Z-Juwelenkraft ein!
+<var> (wild) setzt Z-Juwelenkraft ein!
+<var> (Gegner) setzt Z-Juwelenkraft ein!
+<var> (Herrscher) setzt Z-Juwelenkraft ein!
+<var> setzt Z-Ableithieb ein!
+<var> (wild) setzt Z-Ableithieb ein!
+<var> (Gegner) setzt Z-Ableithieb ein!
+<var> (Herrscher) setzt Z-Ableithieb ein!
+<var> setzt Z-Vakuumwelle ein!
+<var> (wild) setzt Z-Vakuumwelle ein!
+<var> (Gegner) setzt Z-Vakuumwelle ein!
+<var> (Herrscher) setzt Z-Vakuumwelle ein!
+<var> setzt Z-Fokusstoß ein!
+<var> (wild) setzt Z-Fokusstoß ein!
+<var> (Gegner) setzt Z-Fokusstoß ein!
+<var> (Herrscher) setzt Z-Fokusstoß ein!
+<var> setzt Z-Energieball ein!
+<var> (wild) setzt Z-Energieball ein!
+<var> (Gegner) setzt Z-Energieball ein!
+<var> (Herrscher) setzt Z-Energieball ein!
+<var> setzt Z-Sturzflug ein!
+<var> (wild) setzt Z-Sturzflug ein!
+<var> (Gegner) setzt Z-Sturzflug ein!
+<var> (Herrscher) setzt Z-Sturzflug ein!
+<var> setzt Z-Erdkräfte ein!
+<var> (wild) setzt Z-Erdkräfte ein!
+<var> (Gegner) setzt Z-Erdkräfte ein!
+<var> (Herrscher) setzt Z-Erdkräfte ein!
+<var> setzt Z-Wechseldich ein!
+<var> (wild) setzt Z-Wechseldich ein!
+<var> (Gegner) setzt Z-Wechseldich ein!
+<var> (Herrscher) setzt Z-Wechseldich ein!
+<var> setzt Z-Gigastoß ein!
+<var> (wild) setzt Z-Gigastoß ein!
+<var> (Gegner) setzt Z-Gigastoß ein!
+<var> (Herrscher) setzt Z-Gigastoß ein!
+<var> setzt Z-Ränkeschmied ein!
+<var> (wild) setzt Z-Ränkeschmied ein!
+<var> (Gegner) setzt Z-Ränkeschmied ein!
+<var> (Herrscher) setzt Z-Ränkeschmied ein!
+<var> setzt Z-Patronenhieb ein!
+<var> (wild) setzt Z-Patronenhieb ein!
+<var> (Gegner) setzt Z-Patronenhieb ein!
+<var> (Herrscher) setzt Z-Patronenhieb ein!
+<var> setzt Z-Lawine ein!
+<var> (wild) setzt Z-Lawine ein!
+<var> (Gegner) setzt Z-Lawine ein!
+<var> (Herrscher) setzt Z-Lawine ein!
+<var> setzt Z-Eissplitter ein!
+<var> (wild) setzt Z-Eissplitter ein!
+<var> (Gegner) setzt Z-Eissplitter ein!
+<var> (Herrscher) setzt Z-Eissplitter ein!
+<var> setzt Z-Dunkelklaue ein!
+<var> (wild) setzt Z-Dunkelklaue ein!
+<var> (Gegner) setzt Z-Dunkelklaue ein!
+<var> (Herrscher) setzt Z-Dunkelklaue ein!
+<var> setzt Z-Donnerzahn ein!
+<var> (wild) setzt Z-Donnerzahn ein!
+<var> (Gegner) setzt Z-Donnerzahn ein!
+<var> (Herrscher) setzt Z-Donnerzahn ein!
+<var> setzt Z-Eiszahn ein!
+<var> (wild) setzt Z-Eiszahn ein!
+<var> (Gegner) setzt Z-Eiszahn ein!
+<var> (Herrscher) setzt Z-Eiszahn ein!
+<var> setzt Z-Feuerzahn ein!
+<var> (wild) setzt Z-Feuerzahn ein!
+<var> (Gegner) setzt Z-Feuerzahn ein!
+<var> (Herrscher) setzt Z-Feuerzahn ein!
+<var> setzt Z-Schattenstoß ein!
+<var> (wild) setzt Z-Schattenstoß ein!
+<var> (Gegner) setzt Z-Schattenstoß ein!
+<var> (Herrscher) setzt Z-Schattenstoß ein!
+<var> setzt Z-Schlammbombe ein!
+<var> (wild) setzt Z-Schlammbombe ein!
+<var> (Gegner) setzt Z-Schlammbombe ein!
+<var> (Herrscher) setzt Z-Schlammbombe ein!
+<var> setzt Z-Psychoklinge ein!
+<var> (wild) setzt Z-Psychoklinge ein!
+<var> (Gegner) setzt Z-Psychoklinge ein!
+<var> (Herrscher) setzt Z-Psychoklinge ein!
+<var> setzt Z-Zen-Kopfstoß ein!
+<var> (wild) setzt Z-Zen-Kopfstoß ein!
+<var> (Gegner) setzt Z-Zen-Kopfstoß ein!
+<var> (Herrscher) setzt Z-Zen-Kopfstoß ein!
+<var> setzt Z-Spiegelsalve ein!
+<var> (wild) setzt Z-Spiegelsalve ein!
+<var> (Gegner) setzt Z-Spiegelsalve ein!
+<var> (Herrscher) setzt Z-Spiegelsalve ein!
+<var> setzt Z-Lichtkanone ein!
+<var> (wild) setzt Z-Lichtkanone ein!
+<var> (Gegner) setzt Z-Lichtkanone ein!
+<var> (Herrscher) setzt Z-Lichtkanone ein!
+<var> setzt Z-Kraxler ein!
+<var> (wild) setzt Z-Kraxler ein!
+<var> (Gegner) setzt Z-Kraxler ein!
+<var> (Herrscher) setzt Z-Kraxler ein!
+<var> setzt Z-Auflockern ein!
+<var> (wild) setzt Z-Auflockern ein!
+<var> (Gegner) setzt Z-Auflockern ein!
+<var> (Herrscher) setzt Z-Auflockern ein!
+<var> setzt Z-Bizarroraum ein!
+<var> (wild) setzt Z-Bizarroraum ein!
+<var> (Gegner) setzt Z-Bizarroraum ein!
+<var> (Herrscher) setzt Z-Bizarroraum ein!
+<var> setzt Z-Draco Meteor ein!
+<var> (wild) setzt Z-Draco Meteor ein!
+<var> (Gegner) setzt Z-Draco Meteor ein!
+<var> (Herrscher) setzt Z-Draco Meteor ein!
+<var> setzt Z-Ladungsstoß ein!
+<var> (wild) setzt Z-Ladungsstoß ein!
+<var> (Gegner) setzt Z-Ladungsstoß ein!
+<var> (Herrscher) setzt Z-Ladungsstoß ein!
+<var> setzt Z-Flammensturm ein!
+<var> (wild) setzt Z-Flammensturm ein!
+<var> (Gegner) setzt Z-Flammensturm ein!
+<var> (Herrscher) setzt Z-Flammensturm ein!
+<var> setzt Z-Blättersturm ein!
+<var> (wild) setzt Z-Blättersturm ein!
+<var> (Gegner) setzt Z-Blättersturm ein!
+<var> (Herrscher) setzt Z-Blättersturm ein!
+<var> setzt Z-Blattgeißel ein!
+<var> (wild) setzt Z-Blattgeißel ein!
+<var> (Gegner) setzt Z-Blattgeißel ein!
+<var> (Herrscher) setzt Z-Blattgeißel ein!
+<var> setzt Z-Felswerfer ein!
+<var> (wild) setzt Z-Felswerfer ein!
+<var> (Gegner) setzt Z-Felswerfer ein!
+<var> (Herrscher) setzt Z-Felswerfer ein!
+<var> setzt Z-Giftstreich ein!
+<var> (wild) setzt Z-Giftstreich ein!
+<var> (Gegner) setzt Z-Giftstreich ein!
+<var> (Herrscher) setzt Z-Giftstreich ein!
+<var> setzt Z-Mülltreffer ein!
+<var> (wild) setzt Z-Mülltreffer ein!
+<var> (Gegner) setzt Z-Mülltreffer ein!
+<var> (Herrscher) setzt Z-Mülltreffer ein!
+<var> setzt Z-Eisenschädel ein!
+<var> (wild) setzt Z-Eisenschädel ein!
+<var> (Gegner) setzt Z-Eisenschädel ein!
+<var> (Herrscher) setzt Z-Eisenschädel ein!
+<var> setzt Z-Magnetbombe ein!
+<var> (wild) setzt Z-Magnetbombe ein!
+<var> (Gegner) setzt Z-Magnetbombe ein!
+<var> (Herrscher) setzt Z-Magnetbombe ein!
+<var> setzt Z-Steinkante ein!
+<var> (wild) setzt Z-Steinkante ein!
+<var> (Gegner) setzt Z-Steinkante ein!
+<var> (Herrscher) setzt Z-Steinkante ein!
+<var> setzt Z-Liebreiz ein!
+<var> (wild) setzt Z-Liebreiz ein!
+<var> (Gegner) setzt Z-Liebreiz ein!
+<var> (Herrscher) setzt Z-Liebreiz ein!
+<var> setzt Z-Tarnsteine ein!
+<var> (wild) setzt Z-Tarnsteine ein!
+<var> (Gegner) setzt Z-Tarnsteine ein!
+<var> (Herrscher) setzt Z-Tarnsteine ein!
+<var> setzt Z-Strauchler ein!
+<var> (wild) setzt Z-Strauchler ein!
+<var> (Gegner) setzt Z-Strauchler ein!
+<var> (Herrscher) setzt Z-Strauchler ein!
+<var> setzt Z-Geschwätz ein!
+<var> (wild) setzt Z-Geschwätz ein!
+<var> (Gegner) setzt Z-Geschwätz ein!
+<var> (Herrscher) setzt Z-Geschwätz ein!
+<var> setzt Z-Urteilskraft ein!
+<var> (wild) setzt Z-Urteilskraft ein!
+<var> (Gegner) setzt Z-Urteilskraft ein!
+<var> (Herrscher) setzt Z-Urteilskraft ein!
+<var> setzt Z-Käferbiss ein!
+<var> (wild) setzt Z-Käferbiss ein!
+<var> (Gegner) setzt Z-Käferbiss ein!
+<var> (Herrscher) setzt Z-Käferbiss ein!
+<var> setzt Z-Ladestrahl ein!
+<var> (wild) setzt Z-Ladestrahl ein!
+<var> (Gegner) setzt Z-Ladestrahl ein!
+<var> (Herrscher) setzt Z-Ladestrahl ein!
+<var> setzt Z-Holzhammer ein!
+<var> (wild) setzt Z-Holzhammer ein!
+<var> (Gegner) setzt Z-Holzhammer ein!
+<var> (Herrscher) setzt Z-Holzhammer ein!
+<var> setzt Z-Wasserdüse ein!
+<var> (wild) setzt Z-Wasserdüse ein!
+<var> (Gegner) setzt Z-Wasserdüse ein!
+<var> (Herrscher) setzt Z-Wasserdüse ein!
+<var> setzt Z-Schlagbefehl ein!
+<var> (wild) setzt Z-Schlagbefehl ein!
+<var> (Gegner) setzt Z-Schlagbefehl ein!
+<var> (Herrscher) setzt Z-Schlagbefehl ein!
+<var> setzt Z-Blockbefehl ein!
+<var> (wild) setzt Z-Blockbefehl ein!
+<var> (Gegner) setzt Z-Blockbefehl ein!
+<var> (Herrscher) setzt Z-Blockbefehl ein!
+<var> setzt Z-Heilbefehl ein!
+<var> (wild) setzt Z-Heilbefehl ein!
+<var> (Gegner) setzt Z-Heilbefehl ein!
+<var> (Herrscher) setzt Z-Heilbefehl ein!
+<var> setzt Z-Kopfstoß ein!
+<var> (wild) setzt Z-Kopfstoß ein!
+<var> (Gegner) setzt Z-Kopfstoß ein!
+<var> (Herrscher) setzt Z-Kopfstoß ein!
+<var> setzt Z-Doppelschlag ein!
+<var> (wild) setzt Z-Doppelschlag ein!
+<var> (Gegner) setzt Z-Doppelschlag ein!
+<var> (Herrscher) setzt Z-Doppelschlag ein!
+<var> setzt Z-Zeitenlärm ein!
+<var> (wild) setzt Z-Zeitenlärm ein!
+<var> (Gegner) setzt Z-Zeitenlärm ein!
+<var> (Herrscher) setzt Z-Zeitenlärm ein!
+<var> setzt Z-Raumschlag ein!
+<var> (wild) setzt Z-Raumschlag ein!
+<var> (Gegner) setzt Z-Raumschlag ein!
+<var> (Herrscher) setzt Z-Raumschlag ein!
+<var> setzt Z-Lunartanz ein!
+<var> (wild) setzt Z-Lunartanz ein!
+<var> (Gegner) setzt Z-Lunartanz ein!
+<var> (Herrscher) setzt Z-Lunartanz ein!
+<var> setzt Z-Quetschgriff ein!
+<var> (wild) setzt Z-Quetschgriff ein!
+<var> (Gegner) setzt Z-Quetschgriff ein!
+<var> (Herrscher) setzt Z-Quetschgriff ein!
+<var> setzt Z-Lavasturm ein!
+<var> (wild) setzt Z-Lavasturm ein!
+<var> (Gegner) setzt Z-Lavasturm ein!
+<var> (Herrscher) setzt Z-Lavasturm ein!
+<var> setzt Z-Schlummerort ein!
+<var> (wild) setzt Z-Schlummerort ein!
+<var> (Gegner) setzt Z-Schlummerort ein!
+<var> (Herrscher) setzt Z-Schlummerort ein!
+<var> setzt Z-Schocksamen ein!
+<var> (wild) setzt Z-Schocksamen ein!
+<var> (Gegner) setzt Z-Schocksamen ein!
+<var> (Herrscher) setzt Z-Schocksamen ein!
+<var> setzt Z-Unheilböen ein!
+<var> (wild) setzt Z-Unheilböen ein!
+<var> (Gegner) setzt Z-Unheilböen ein!
+<var> (Herrscher) setzt Z-Unheilböen ein!
+<var> setzt Z-Schemenkraft ein!
+<var> (wild) setzt Z-Schemenkraft ein!
+<var> (Gegner) setzt Z-Schemenkraft ein!
+<var> (Herrscher) setzt Z-Schemenkraft ein!
+<var> setzt Z-Klauenwetzer ein!
+<var> (wild) setzt Z-Klauenwetzer ein!
+<var> (Gegner) setzt Z-Klauenwetzer ein!
+<var> (Herrscher) setzt Z-Klauenwetzer ein!
+<var> setzt Z-Rundumschutz ein!
+<var> (wild) setzt Z-Rundumschutz ein!
+<var> (Gegner) setzt Z-Rundumschutz ein!
+<var> (Herrscher) setzt Z-Rundumschutz ein!
+<var> setzt Z-Schutzteiler ein!
+<var> (wild) setzt Z-Schutzteiler ein!
+<var> (Gegner) setzt Z-Schutzteiler ein!
+<var> (Herrscher) setzt Z-Schutzteiler ein!
+<var> setzt Z-Kraftteiler ein!
+<var> (wild) setzt Z-Kraftteiler ein!
+<var> (Gegner) setzt Z-Kraftteiler ein!
+<var> (Herrscher) setzt Z-Kraftteiler ein!
+<var> setzt Z-Wunderraum ein!
+<var> (wild) setzt Z-Wunderraum ein!
+<var> (Gegner) setzt Z-Wunderraum ein!
+<var> (Herrscher) setzt Z-Wunderraum ein!
+<var> setzt Z-Psychoschock ein!
+<var> (wild) setzt Z-Psychoschock ein!
+<var> (Gegner) setzt Z-Psychoschock ein!
+<var> (Herrscher) setzt Z-Psychoschock ein!
+<var> setzt Z-Giftschock ein!
+<var> (wild) setzt Z-Giftschock ein!
+<var> (Gegner) setzt Z-Giftschock ein!
+<var> (Herrscher) setzt Z-Giftschock ein!
+<var> setzt Z-Autotomie ein!
+<var> (wild) setzt Z-Autotomie ein!
+<var> (Gegner) setzt Z-Autotomie ein!
+<var> (Herrscher) setzt Z-Autotomie ein!
+<var> setzt Z-Wutpulver ein!
+<var> (wild) setzt Z-Wutpulver ein!
+<var> (Gegner) setzt Z-Wutpulver ein!
+<var> (Herrscher) setzt Z-Wutpulver ein!
+<var> setzt Z-Telekinese ein!
+<var> (wild) setzt Z-Telekinese ein!
+<var> (Gegner) setzt Z-Telekinese ein!
+<var> (Herrscher) setzt Z-Telekinese ein!
+<var> setzt Z-Magieraum ein!
+<var> (wild) setzt Z-Magieraum ein!
+<var> (Gegner) setzt Z-Magieraum ein!
+<var> (Herrscher) setzt Z-Magieraum ein!
+<var> setzt Z-Katapult ein!
+<var> (wild) setzt Z-Katapult ein!
+<var> (Gegner) setzt Z-Katapult ein!
+<var> (Herrscher) setzt Z-Katapult ein!
+<var> setzt Z-Bergsturm ein!
+<var> (wild) setzt Z-Bergsturm ein!
+<var> (Gegner) setzt Z-Bergsturm ein!
+<var> (Herrscher) setzt Z-Bergsturm ein!
+<var> setzt Z-Funkenflug ein!
+<var> (wild) setzt Z-Funkenflug ein!
+<var> (Gegner) setzt Z-Funkenflug ein!
+<var> (Herrscher) setzt Z-Funkenflug ein!
+<var> setzt Z-Schlammwoge ein!
+<var> (wild) setzt Z-Schlammwoge ein!
+<var> (Gegner) setzt Z-Schlammwoge ein!
+<var> (Herrscher) setzt Z-Schlammwoge ein!
+<var> setzt Z-Falterreigen ein!
+<var> (wild) setzt Z-Falterreigen ein!
+<var> (Gegner) setzt Z-Falterreigen ein!
+<var> (Herrscher) setzt Z-Falterreigen ein!
+<var> setzt Z-Rammboss ein!
+<var> (wild) setzt Z-Rammboss ein!
+<var> (Gegner) setzt Z-Rammboss ein!
+<var> (Herrscher) setzt Z-Rammboss ein!
+<var> setzt Z-Synchrolärm ein!
+<var> (wild) setzt Z-Synchrolärm ein!
+<var> (Gegner) setzt Z-Synchrolärm ein!
+<var> (Herrscher) setzt Z-Synchrolärm ein!
+<var> setzt Z-Elektroball ein!
+<var> (wild) setzt Z-Elektroball ein!
+<var> (Gegner) setzt Z-Elektroball ein!
+<var> (Herrscher) setzt Z-Elektroball ein!
+<var> setzt Z-Überflutung ein!
+<var> (wild) setzt Z-Überflutung ein!
+<var> (Gegner) setzt Z-Überflutung ein!
+<var> (Herrscher) setzt Z-Überflutung ein!
+<var> setzt Z-Nitroladung ein!
+<var> (wild) setzt Z-Nitroladung ein!
+<var> (Gegner) setzt Z-Nitroladung ein!
+<var> (Herrscher) setzt Z-Nitroladung ein!
+<var> setzt Z-Einrollen ein!
+<var> (wild) setzt Z-Einrollen ein!
+<var> (Gegner) setzt Z-Einrollen ein!
+<var> (Herrscher) setzt Z-Einrollen ein!
+<var> setzt Z-Fußtritt ein!
+<var> (wild) setzt Z-Fußtritt ein!
+<var> (Gegner) setzt Z-Fußtritt ein!
+<var> (Herrscher) setzt Z-Fußtritt ein!
+<var> setzt Z-Säurespeier ein!
+<var> (wild) setzt Z-Säurespeier ein!
+<var> (Gegner) setzt Z-Säurespeier ein!
+<var> (Herrscher) setzt Z-Säurespeier ein!
+<var> setzt Z-Schmarotzer ein!
+<var> (wild) setzt Z-Schmarotzer ein!
+<var> (Gegner) setzt Z-Schmarotzer ein!
+<var> (Herrscher) setzt Z-Schmarotzer ein!
+<var> setzt Z-Wankelstrahl ein!
+<var> (wild) setzt Z-Wankelstrahl ein!
+<var> (Gegner) setzt Z-Wankelstrahl ein!
+<var> (Herrscher) setzt Z-Wankelstrahl ein!
+<var> setzt Z-Zwango ein!
+<var> (wild) setzt Z-Zwango ein!
+<var> (Gegner) setzt Z-Zwango ein!
+<var> (Herrscher) setzt Z-Zwango ein!
+<var> setzt Z-Galanterie ein!
+<var> (wild) setzt Z-Galanterie ein!
+<var> (Gegner) setzt Z-Galanterie ein!
+<var> (Herrscher) setzt Z-Galanterie ein!
+<var> stimmt einen Z-Kanon an!
+<var> (wild) stimmt einen Z-Kanon an!
+<var> (Gegner) stimmt einen Z-Kanon an!
+<var> (Herrscher) stimmt einen Z-Kanon an!
+<var> setzt Z-Widerhall ein!
+<var> (wild) setzt Z-Widerhall ein!
+<var> (Gegner) setzt Z-Widerhall ein!
+<var> (Herrscher) setzt Z-Widerhall ein!
+<var> setzt Z-Zermürben ein!
+<var> (wild) setzt Z-Zermürben ein!
+<var> (Gegner) setzt Z-Zermürben ein!
+<var> (Herrscher) setzt Z-Zermürben ein!
+<var> setzt Z-Klärsmog ein!
+<var> (wild) setzt Z-Klärsmog ein!
+<var> (Gegner) setzt Z-Klärsmog ein!
+<var> (Herrscher) setzt Z-Klärsmog ein!
+<var> setzt Z-Kraftvorrat ein!
+<var> (wild) setzt Z-Kraftvorrat ein!
+<var> (Gegner) setzt Z-Kraftvorrat ein!
+<var> (Herrscher) setzt Z-Kraftvorrat ein!
+<var> setzt Z-Rapidschutz ein!
+<var> (wild) setzt Z-Rapidschutz ein!
+<var> (Gegner) setzt Z-Rapidschutz ein!
+<var> (Herrscher) setzt Z-Rapidschutz ein!
+<var> setzt Z-Seitentausch ein!
+<var> (wild) setzt Z-Seitentausch ein!
+<var> (Gegner) setzt Z-Seitentausch ein!
+<var> (Herrscher) setzt Z-Seitentausch ein!
+<var> setzt Z-Siedewasser ein!
+<var> (wild) setzt Z-Siedewasser ein!
+<var> (Gegner) setzt Z-Siedewasser ein!
+<var> (Herrscher) setzt Z-Siedewasser ein!
+<var> setzt Z-Hausbruch ein!
+<var> (wild) setzt Z-Hausbruch ein!
+<var> (Gegner) setzt Z-Hausbruch ein!
+<var> (Herrscher) setzt Z-Hausbruch ein!
+<var> setzt Z-Heilwoge ein!
+<var> (wild) setzt Z-Heilwoge ein!
+<var> (Gegner) setzt Z-Heilwoge ein!
+<var> (Herrscher) setzt Z-Heilwoge ein!
+<var> setzt Z-Bürde ein!
+<var> (wild) setzt Z-Bürde ein!
+<var> (Gegner) setzt Z-Bürde ein!
+<var> (Herrscher) setzt Z-Bürde ein!
+<var> setzt Z-Freier Fall ein!
+<var> (wild) setzt Z-Freier Fall ein!
+<var> (Gegner) setzt Z-Freier Fall ein!
+<var> (Herrscher) setzt Z-Freier Fall ein!
+<var> setzt Z-Gangwechsel ein!
+<var> (wild) setzt Z-Gangwechsel ein!
+<var> (Gegner) setzt Z-Gangwechsel ein!
+<var> (Herrscher) setzt Z-Gangwechsel ein!
+<var> setzt Z-Überkopfwurf ein!
+<var> (wild) setzt Z-Überkopfwurf ein!
+<var> (Gegner) setzt Z-Überkopfwurf ein!
+<var> (Herrscher) setzt Z-Überkopfwurf ein!
+<var> setzt Z-Einäschern ein!
+<var> (wild) setzt Z-Einäschern ein!
+<var> (Gegner) setzt Z-Einäschern ein!
+<var> (Herrscher) setzt Z-Einäschern ein!
+<var> setzt Z-Verzögerung ein!
+<var> (wild) setzt Z-Verzögerung ein!
+<var> (Gegner) setzt Z-Verzögerung ein!
+<var> (Herrscher) setzt Z-Verzögerung ein!
+<var> setzt Z-Akrobatik ein!
+<var> (wild) setzt Z-Akrobatik ein!
+<var> (Gegner) setzt Z-Akrobatik ein!
+<var> (Herrscher) setzt Z-Akrobatik ein!
+<var> setzt Z-Typenspiegel ein!
+<var> (wild) setzt Z-Typenspiegel ein!
+<var> (Gegner) setzt Z-Typenspiegel ein!
+<var> (Herrscher) setzt Z-Typenspiegel ein!
+<var> setzt Z-Heimzahlung ein!
+<var> (wild) setzt Z-Heimzahlung ein!
+<var> (Gegner) setzt Z-Heimzahlung ein!
+<var> (Herrscher) setzt Z-Heimzahlung ein!
+<var> setzt Z-Wagemut ein!
+<var> (wild) setzt Z-Wagemut ein!
+<var> (Gegner) setzt Z-Wagemut ein!
+<var> (Herrscher) setzt Z-Wagemut ein!
+<var> setzt Z-Offerte ein!
+<var> (wild) setzt Z-Offerte ein!
+<var> (Gegner) setzt Z-Offerte ein!
+<var> (Herrscher) setzt Z-Offerte ein!
+<var> setzt Z-Inferno ein!
+<var> (wild) setzt Z-Inferno ein!
+<var> (Gegner) setzt Z-Inferno ein!
+<var> (Herrscher) setzt Z-Inferno ein!
+<var> setzt Z-Wassersäulen ein!
+<var> (wild) setzt Z-Wassersäulen ein!
+<var> (Gegner) setzt Z-Wassersäulen ein!
+<var> (Herrscher) setzt Z-Wassersäulen ein!
+<var> setzt Z-Feuersäulen ein!
+<var> (wild) setzt Z-Feuersäulen ein!
+<var> (Gegner) setzt Z-Feuersäulen ein!
+<var> (Herrscher) setzt Z-Feuersäulen ein!
+<var> setzt Z-Pflanzensäulen ein!
+<var> (wild) setzt Z-Pflanzensäulen ein!
+<var> (Gegner) setzt Z-Pflanzensäulen ein!
+<var> (Herrscher) setzt Z-Pflanzensäulen ein!
+<var> setzt Z-Voltwechsel ein!
+<var> (wild) setzt Z-Voltwechsel ein!
+<var> (Gegner) setzt Z-Voltwechsel ein!
+<var> (Herrscher) setzt Z-Voltwechsel ein!
+<var> setzt Z-Käfertrutz ein!
+<var> (wild) setzt Z-Käfertrutz ein!
+<var> (Gegner) setzt Z-Käfertrutz ein!
+<var> (Herrscher) setzt Z-Käfertrutz ein!
+<var> setzt Z-Dampfwalze ein!
+<var> (wild) setzt Z-Dampfwalze ein!
+<var> (Gegner) setzt Z-Dampfwalze ein!
+<var> (Herrscher) setzt Z-Dampfwalze ein!
+<var> setzt Z-Eisesodem ein!
+<var> (wild) setzt Z-Eisesodem ein!
+<var> (Gegner) setzt Z-Eisesodem ein!
+<var> (Herrscher) setzt Z-Eisesodem ein!
+<var> setzt Z-Drachenrute ein!
+<var> (wild) setzt Z-Drachenrute ein!
+<var> (Gegner) setzt Z-Drachenrute ein!
+<var> (Herrscher) setzt Z-Drachenrute ein!
+<var> setzt Z-Kraftschub ein!
+<var> (wild) setzt Z-Kraftschub ein!
+<var> (Gegner) setzt Z-Kraftschub ein!
+<var> (Herrscher) setzt Z-Kraftschub ein!
+<var> setzt Z-Elektronetz ein!
+<var> (wild) setzt Z-Elektronetz ein!
+<var> (Gegner) setzt Z-Elektronetz ein!
+<var> (Herrscher) setzt Z-Elektronetz ein!
+<var> setzt Z-Stromstoß ein!
+<var> (wild) setzt Z-Stromstoß ein!
+<var> (Gegner) setzt Z-Stromstoß ein!
+<var> (Herrscher) setzt Z-Stromstoß ein!
+<var> setzt Z-Schlagbohrer ein!
+<var> (wild) setzt Z-Schlagbohrer ein!
+<var> (Gegner) setzt Z-Schlagbohrer ein!
+<var> (Herrscher) setzt Z-Schlagbohrer ein!
+<var> setzt Z-Doppelhieb ein!
+<var> (wild) setzt Z-Doppelhieb ein!
+<var> (Gegner) setzt Z-Doppelhieb ein!
+<var> (Herrscher) setzt Z-Doppelhieb ein!
+<var> setzt Z-Herzstempel ein!
+<var> (wild) setzt Z-Herzstempel ein!
+<var> (Gegner) setzt Z-Herzstempel ein!
+<var> (Herrscher) setzt Z-Herzstempel ein!
+<var> setzt Z-Holzgeweih ein!
+<var> (wild) setzt Z-Holzgeweih ein!
+<var> (Gegner) setzt Z-Holzgeweih ein!
+<var> (Herrscher) setzt Z-Holzgeweih ein!
+<var> setzt Z-Sanctoklinge ein!
+<var> (wild) setzt Z-Sanctoklinge ein!
+<var> (Gegner) setzt Z-Sanctoklinge ein!
+<var> (Herrscher) setzt Z-Sanctoklinge ein!
+<var> setzt Z-Kalkklinge ein!
+<var> (wild) setzt Z-Kalkklinge ein!
+<var> (Gegner) setzt Z-Kalkklinge ein!
+<var> (Herrscher) setzt Z-Kalkklinge ein!
+<var> setzt Z-Brandstempel ein!
+<var> (wild) setzt Z-Brandstempel ein!
+<var> (Gegner) setzt Z-Brandstempel ein!
+<var> (Herrscher) setzt Z-Brandstempel ein!
+<var> setzt Z-Grasmixer ein!
+<var> (wild) setzt Z-Grasmixer ein!
+<var> (Gegner) setzt Z-Grasmixer ein!
+<var> (Herrscher) setzt Z-Grasmixer ein!
+<var> setzt Z-Quetschwalze ein!
+<var> (wild) setzt Z-Quetschwalze ein!
+<var> (Gegner) setzt Z-Quetschwalze ein!
+<var> (Herrscher) setzt Z-Quetschwalze ein!
+<var> setzt Z-Watteschild ein!
+<var> (wild) setzt Z-Watteschild ein!
+<var> (Gegner) setzt Z-Watteschild ein!
+<var> (Herrscher) setzt Z-Watteschild ein!
+<var> setzt Z-Nachtflut ein!
+<var> (wild) setzt Z-Nachtflut ein!
+<var> (Gegner) setzt Z-Nachtflut ein!
+<var> (Herrscher) setzt Z-Nachtflut ein!
+<var> setzt Z-Psychostoß ein!
+<var> (wild) setzt Z-Psychostoß ein!
+<var> (Gegner) setzt Z-Psychostoß ein!
+<var> (Herrscher) setzt Z-Psychostoß ein!
+<var> setzt Z-Kehrschelle ein!
+<var> (wild) setzt Z-Kehrschelle ein!
+<var> (Gegner) setzt Z-Kehrschelle ein!
+<var> (Herrscher) setzt Z-Kehrschelle ein!
+<var> setzt Z-Orkan ein!
+<var> (wild) setzt Z-Orkan ein!
+<var> (Gegner) setzt Z-Orkan ein!
+<var> (Herrscher) setzt Z-Orkan ein!
+<var> setzt Z-Steinschädel ein!
+<var> (wild) setzt Z-Steinschädel ein!
+<var> (Gegner) setzt Z-Steinschädel ein!
+<var> (Herrscher) setzt Z-Steinschädel ein!
+<var> setzt Z-Klikkdiskus ein!
+<var> (wild) setzt Z-Klikkdiskus ein!
+<var> (Gegner) setzt Z-Klikkdiskus ein!
+<var> (Herrscher) setzt Z-Klikkdiskus ein!
+<var> setzt Z-Flammenball ein!
+<var> (wild) setzt Z-Flammenball ein!
+<var> (Gegner) setzt Z-Flammenball ein!
+<var> (Herrscher) setzt Z-Flammenball ein!
+<var> setzt Z-Techblaster ein!
+<var> (wild) setzt Z-Techblaster ein!
+<var> (Gegner) setzt Z-Techblaster ein!
+<var> (Herrscher) setzt Z-Techblaster ein!
+<var> setzt Z-Urgesang ein!
+<var> (wild) setzt Z-Urgesang ein!
+<var> (Gegner) setzt Z-Urgesang ein!
+<var> (Herrscher) setzt Z-Urgesang ein!
+<var> setzt Z-Mystoschwert ein!
+<var> (wild) setzt Z-Mystoschwert ein!
+<var> (Gegner) setzt Z-Mystoschwert ein!
+<var> (Herrscher) setzt Z-Mystoschwert ein!
+<var> setzt Z-Eiszeit ein!
+<var> (wild) setzt Z-Eiszeit ein!
+<var> (Gegner) setzt Z-Eiszeit ein!
+<var> (Herrscher) setzt Z-Eiszeit ein!
+<var> setzt Z-Blitzschlag ein!
+<var> (wild) setzt Z-Blitzschlag ein!
+<var> (Gegner) setzt Z-Blitzschlag ein!
+<var> (Herrscher) setzt Z-Blitzschlag ein!
+<var> setzt Z-Blauflammen ein!
+<var> (wild) setzt Z-Blauflammen ein!
+<var> (Gegner) setzt Z-Blauflammen ein!
+<var> (Herrscher) setzt Z-Blauflammen ein!
+<var> setzt Z-Feuerreigen ein!
+<var> (wild) setzt Z-Feuerreigen ein!
+<var> (Gegner) setzt Z-Feuerreigen ein!
+<var> (Herrscher) setzt Z-Feuerreigen ein!
+<var> setzt Z-Frostvolt ein!
+<var> (wild) setzt Z-Frostvolt ein!
+<var> (Gegner) setzt Z-Frostvolt ein!
+<var> (Herrscher) setzt Z-Frostvolt ein!
+<var> setzt Z-Frosthauch ein!
+<var> (wild) setzt Z-Frosthauch ein!
+<var> (Gegner) setzt Z-Frosthauch ein!
+<var> (Herrscher) setzt Z-Frosthauch ein!
+<var> setzt Z-Standpauke ein!
+<var> (wild) setzt Z-Standpauke ein!
+<var> (Gegner) setzt Z-Standpauke ein!
+<var> (Herrscher) setzt Z-Standpauke ein!
+<var> setzt Z-Eiszapfhagel ein!
+<var> (wild) setzt Z-Eiszapfhagel ein!
+<var> (Gegner) setzt Z-Eiszapfhagel ein!
+<var> (Herrscher) setzt Z-Eiszapfhagel ein!
+<var> setzt Z-V-Generator ein!
+<var> (wild) setzt Z-V-Generator ein!
+<var> (Gegner) setzt Z-V-Generator ein!
+<var> (Herrscher) setzt Z-V-Generator ein!
+<var> setzt Z-Kreuzflamme ein!
+<var> (wild) setzt Z-Kreuzflamme ein!
+<var> (Gegner) setzt Z-Kreuzflamme ein!
+<var> (Herrscher) setzt Z-Kreuzflamme ein!
+<var> setzt Z-Kreuzdonner ein!
+<var> (wild) setzt Z-Kreuzdonner ein!
+<var> (Gegner) setzt Z-Kreuzdonner ein!
+<var> (Herrscher) setzt Z-Kreuzdonner ein!
+<var> setzt Z-Flying Press ein!
+<var> (wild) setzt Z-Flying Press ein!
+<var> (Gegner) setzt Z-Flying Press ein!
+<var> (Herrscher) setzt Z-Flying Press ein!
+<var> setzt Z-Tatami-Schild ein!
+<var> (wild) setzt Z-Tatami-Schild ein!
+<var> (Gegner) setzt Z-Tatami-Schild ein!
+<var> (Herrscher) setzt Z-Tatami-Schild ein!
+<var> setzt Z-Rülpser ein!
+<var> (wild) setzt Z-Rülpser ein!
+<var> (Gegner) setzt Z-Rülpser ein!
+<var> (Herrscher) setzt Z-Rülpser ein!
+<var> setzt Z-Pflüger ein!
+<var> (wild) setzt Z-Pflüger ein!
+<var> (Gegner) setzt Z-Pflüger ein!
+<var> (Herrscher) setzt Z-Pflüger ein!
+<var> setzt Z-Klebenetz ein!
+<var> (wild) setzt Z-Klebenetz ein!
+<var> (Gegner) setzt Z-Klebenetz ein!
+<var> (Herrscher) setzt Z-Klebenetz ein!
+<var> setzt Z-Stachelfinale ein!
+<var> (wild) setzt Z-Stachelfinale ein!
+<var> (Gegner) setzt Z-Stachelfinale ein!
+<var> (Herrscher) setzt Z-Stachelfinale ein!
+<var> setzt Z-Phantomkraft ein!
+<var> (wild) setzt Z-Phantomkraft ein!
+<var> (Gegner) setzt Z-Phantomkraft ein!
+<var> (Herrscher) setzt Z-Phantomkraft ein!
+<var> setzt Z-Halloween ein!
+<var> (wild) setzt Z-Halloween ein!
+<var> (Gegner) setzt Z-Halloween ein!
+<var> (Herrscher) setzt Z-Halloween ein!
+<var> setzt Z-Kampfgebrüll ein!
+<var> (wild) setzt Z-Kampfgebrüll ein!
+<var> (Gegner) setzt Z-Kampfgebrüll ein!
+<var> (Herrscher) setzt Z-Kampfgebrüll ein!
+<var> setzt Z-Plasmaschauer ein!
+<var> (wild) setzt Z-Plasmaschauer ein!
+<var> (Gegner) setzt Z-Plasmaschauer ein!
+<var> (Herrscher) setzt Z-Plasmaschauer ein!
+<var> setzt Z-Parabolladung ein!
+<var> (wild) setzt Z-Parabolladung ein!
+<var> (Gegner) setzt Z-Parabolladung ein!
+<var> (Herrscher) setzt Z-Parabolladung ein!
+<var> setzt Z-Waldesfluch ein!
+<var> (wild) setzt Z-Waldesfluch ein!
+<var> (Gegner) setzt Z-Waldesfluch ein!
+<var> (Herrscher) setzt Z-Waldesfluch ein!
+<var> setzt Z-Blütenwirbel ein!
+<var> (wild) setzt Z-Blütenwirbel ein!
+<var> (Gegner) setzt Z-Blütenwirbel ein!
+<var> (Herrscher) setzt Z-Blütenwirbel ein!
+<var> setzt Z-Gefriertrockner ein!
+<var> (wild) setzt Z-Gefriertrockner ein!
+<var> (Gegner) setzt Z-Gefriertrockner ein!
+<var> (Herrscher) setzt Z-Gefriertrockner ein!
+<var> setzt Z-Säuselstimme ein!
+<var> (wild) setzt Z-Säuselstimme ein!
+<var> (Gegner) setzt Z-Säuselstimme ein!
+<var> (Herrscher) setzt Z-Säuselstimme ein!
+<var> setzt Z-Abgangstirade ein!
+<var> (wild) setzt Z-Abgangstirade ein!
+<var> (Gegner) setzt Z-Abgangstirade ein!
+<var> (Herrscher) setzt Z-Abgangstirade ein!
+<var> setzt Z-Invertigo ein!
+<var> (wild) setzt Z-Invertigo ein!
+<var> (Gegner) setzt Z-Invertigo ein!
+<var> (Herrscher) setzt Z-Invertigo ein!
+<var> setzt Z-Diebeskuss ein!
+<var> (wild) setzt Z-Diebeskuss ein!
+<var> (Gegner) setzt Z-Diebeskuss ein!
+<var> (Herrscher) setzt Z-Diebeskuss ein!
+<var> setzt Z-Trickschutz ein!
+<var> (wild) setzt Z-Trickschutz ein!
+<var> (Gegner) setzt Z-Trickschutz ein!
+<var> (Herrscher) setzt Z-Trickschutz ein!
+<var> setzt Z-Floraschutz ein!
+<var> (wild) setzt Z-Floraschutz ein!
+<var> (Gegner) setzt Z-Floraschutz ein!
+<var> (Herrscher) setzt Z-Floraschutz ein!
+<var> setzt Z-Grasfeld ein!
+<var> (wild) setzt Z-Grasfeld ein!
+<var> (Gegner) setzt Z-Grasfeld ein!
+<var> (Herrscher) setzt Z-Grasfeld ein!
+<var> setzt Z-Nebelfeld ein!
+<var> (wild) setzt Z-Nebelfeld ein!
+<var> (Gegner) setzt Z-Nebelfeld ein!
+<var> (Herrscher) setzt Z-Nebelfeld ein!
+<var> setzt Z-Elektrifizierung ein!
+<var> (wild) setzt Z-Elektrifizierung ein!
+<var> (Gegner) setzt Z-Elektrifizierung ein!
+<var> (Herrscher) setzt Z-Elektrifizierung ein!
+<var> setzt Z-Knuddler ein!
+<var> (wild) setzt Z-Knuddler ein!
+<var> (Gegner) setzt Z-Knuddler ein!
+<var> (Herrscher) setzt Z-Knuddler ein!
+<var> setzt Z-Feenbrise ein!
+<var> (wild) setzt Z-Feenbrise ein!
+<var> (Gegner) setzt Z-Feenbrise ein!
+<var> (Herrscher) setzt Z-Feenbrise ein!
+<var> setzt Z-Mondgewalt ein!
+<var> (wild) setzt Z-Mondgewalt ein!
+<var> (Gegner) setzt Z-Mondgewalt ein!
+<var> (Herrscher) setzt Z-Mondgewalt ein!
+<var> setzt Z-Überschallknall ein!
+<var> (wild) setzt Z-Überschallknall ein!
+<var> (Gegner) setzt Z-Überschallknall ein!
+<var> (Herrscher) setzt Z-Überschallknall ein!
+<var> setzt Z-Feenschloss ein!
+<var> (wild) setzt Z-Feenschloss ein!
+<var> (Gegner) setzt Z-Feenschloss ein!
+<var> (Herrscher) setzt Z-Feenschloss ein!
+<var> setzt Z-Königsschild ein!
+<var> (wild) setzt Z-Königsschild ein!
+<var> (Gegner) setzt Z-Königsschild ein!
+<var> (Herrscher) setzt Z-Königsschild ein!
+<var> setzt Z-Kameradschaft ein!
+<var> (wild) setzt Z-Kameradschaft ein!
+<var> (Gegner) setzt Z-Kameradschaft ein!
+<var> (Herrscher) setzt Z-Kameradschaft ein!
+<var> setzt Z-Vertrauenssache ein!
+<var> (wild) setzt Z-Vertrauenssache ein!
+<var> (Gegner) setzt Z-Vertrauenssache ein!
+<var> (Herrscher) setzt Z-Vertrauenssache ein!
+<var> setzt Z-Diamantsturm ein!
+<var> (wild) setzt Z-Diamantsturm ein!
+<var> (Gegner) setzt Z-Diamantsturm ein!
+<var> (Herrscher) setzt Z-Diamantsturm ein!
+<var> setzt Z-Dampfschwall ein!
+<var> (wild) setzt Z-Dampfschwall ein!
+<var> (Gegner) setzt Z-Dampfschwall ein!
+<var> (Herrscher) setzt Z-Dampfschwall ein!
+<var> setzt Z-Dimensionsloch ein!
+<var> (wild) setzt Z-Dimensionsloch ein!
+<var> (Gegner) setzt Z-Dimensionsloch ein!
+<var> (Herrscher) setzt Z-Dimensionsloch ein!
+<var> setzt Z-Wasser-Shuriken ein!
+<var> (wild) setzt Z-Wasser-Shuriken ein!
+<var> (Gegner) setzt Z-Wasser-Shuriken ein!
+<var> (Herrscher) setzt Z-Wasser-Shuriken ein!
+<var> setzt Z-Magieflamme ein!
+<var> (wild) setzt Z-Magieflamme ein!
+<var> (Gegner) setzt Z-Magieflamme ein!
+<var> (Herrscher) setzt Z-Magieflamme ein!
+<var> setzt Z-Schutzstacheln ein!
+<var> (wild) setzt Z-Schutzstacheln ein!
+<var> (Gegner) setzt Z-Schutzstacheln ein!
+<var> (Herrscher) setzt Z-Schutzstacheln ein!
+<var> setzt Z-Duftwolke ein!
+<var> (wild) setzt Z-Duftwolke ein!
+<var> (Gegner) setzt Z-Duftwolke ein!
+<var> (Herrscher) setzt Z-Duftwolke ein!
+<var> setzt Z-Mystowellen ein!
+<var> (wild) setzt Z-Mystowellen ein!
+<var> (Gegner) setzt Z-Mystowellen ein!
+<var> (Herrscher) setzt Z-Mystowellen ein!
+<var> setzt Z-Giftfalle ein!
+<var> (wild) setzt Z-Giftfalle ein!
+<var> (Gegner) setzt Z-Giftfalle ein!
+<var> (Herrscher) setzt Z-Giftfalle ein!
+<var> setzt Z-Pulverschleuder ein!
+<var> (wild) setzt Z-Pulverschleuder ein!
+<var> (Gegner) setzt Z-Pulverschleuder ein!
+<var> (Herrscher) setzt Z-Pulverschleuder ein!
+<var> setzt Z-Geokontrolle ein!
+<var> (wild) setzt Z-Geokontrolle ein!
+<var> (Gegner) setzt Z-Geokontrolle ein!
+<var> (Herrscher) setzt Z-Geokontrolle ein!
+<var> setzt Z-Magnetregler ein!
+<var> (wild) setzt Z-Magnetregler ein!
+<var> (Gegner) setzt Z-Magnetregler ein!
+<var> (Herrscher) setzt Z-Magnetregler ein!
+<var> setzt Z-Goldene Zeiten ein!
+<var> (wild) setzt Z-Goldene Zeiten ein!
+<var> (Gegner) setzt Z-Goldene Zeiten ein!
+<var> (Herrscher) setzt Z-Goldene Zeiten ein!
+<var> setzt Z-Elektrofeld ein!
+<var> (wild) setzt Z-Elektrofeld ein!
+<var> (Gegner) setzt Z-Elektrofeld ein!
+<var> (Herrscher) setzt Z-Elektrofeld ein!
+<var> setzt Z-Zauberschein ein!
+<var> (wild) setzt Z-Zauberschein ein!
+<var> (Gegner) setzt Z-Zauberschein ein!
+<var> (Herrscher) setzt Z-Zauberschein ein!
+<var> setzt Z-Ehrentag ein!
+<var> (wild) setzt Z-Ehrentag ein!
+<var> (Gegner) setzt Z-Ehrentag ein!
+<var> (Herrscher) setzt Z-Ehrentag ein!
+<var> setzt Z-Händchenhalten ein!
+<var> (wild) setzt Z-Händchenhalten ein!
+<var> (Gegner) setzt Z-Händchenhalten ein!
+<var> (Herrscher) setzt Z-Händchenhalten ein!
+<var> setzt Z-Kulleraugen ein!
+<var> (wild) setzt Z-Kulleraugen ein!
+<var> (Gegner) setzt Z-Kulleraugen ein!
+<var> (Herrscher) setzt Z-Kulleraugen ein!
+<var> setzt Z-Wangenrubbler ein!
+<var> (wild) setzt Z-Wangenrubbler ein!
+<var> (Gegner) setzt Z-Wangenrubbler ein!
+<var> (Herrscher) setzt Z-Wangenrubbler ein!
+<var> setzt Z-Zurückhaltung ein!
+<var> (wild) setzt Z-Zurückhaltung ein!
+<var> (Gegner) setzt Z-Zurückhaltung ein!
+<var> (Herrscher) setzt Z-Zurückhaltung ein!
+<var> setzt Z-Plage ein!
+<var> (wild) setzt Z-Plage ein!
+<var> (Gegner) setzt Z-Plage ein!
+<var> (Herrscher) setzt Z-Plage ein!
+<var> setzt Z-Steigerungshieb ein!
+<var> (wild) setzt Z-Steigerungshieb ein!
+<var> (Gegner) setzt Z-Steigerungshieb ein!
+<var> (Herrscher) setzt Z-Steigerungshieb ein!
+<var> setzt Z-Unheilsschwingen ein!
+<var> (wild) setzt Z-Unheilsschwingen ein!
+<var> (Gegner) setzt Z-Unheilsschwingen ein!
+<var> (Herrscher) setzt Z-Unheilsschwingen ein!
+<var> setzt Z-Tausend Pfeile ein!
+<var> (wild) setzt Z-Tausend Pfeile ein!
+<var> (Gegner) setzt Z-Tausend Pfeile ein!
+<var> (Herrscher) setzt Z-Tausend Pfeile ein!
+<var> setzt Z-Tausend Wellen ein!
+<var> (wild) setzt Z-Tausend Wellen ein!
+<var> (Gegner) setzt Z-Tausend Wellen ein!
+<var> (Herrscher) setzt Z-Tausend Wellen ein!
+<var> setzt Z-Bodengewalt ein!
+<var> (wild) setzt Z-Bodengewalt ein!
+<var> (Gegner) setzt Z-Bodengewalt ein!
+<var> (Herrscher) setzt Z-Bodengewalt ein!
+<var> setzt Z-Lux Calamitatis ein!
+<var> (wild) setzt Z-Lux Calamitatis ein!
+<var> (Gegner) setzt Z-Lux Calamitatis ein!
+<var> (Herrscher) setzt Z-Lux Calamitatis ein!
+<var> setzt Z-Ursprungswoge ein!
+<var> (wild) setzt Z-Ursprungswoge ein!
+<var> (Gegner) setzt Z-Ursprungswoge ein!
+<var> (Herrscher) setzt Z-Ursprungswoge ein!
+<var> setzt Z-Abgrundsklinge ein!
+<var> (wild) setzt Z-Abgrundsklinge ein!
+<var> (Gegner) setzt Z-Abgrundsklinge ein!
+<var> (Herrscher) setzt Z-Abgrundsklinge ein!
+<var> setzt Z-Zenitstürmer ein!
+<var> (wild) setzt Z-Zenitstürmer ein!
+<var> (Gegner) setzt Z-Zenitstürmer ein!
+<var> (Herrscher) setzt Z-Zenitstürmer ein!
+<var> setzt Z-Dimensionswahn ein!
+<var> (wild) setzt Z-Dimensionswahn ein!
+<var> (Gegner) setzt Z-Dimensionswahn ein!
+<var> (Herrscher) setzt Z-Dimensionswahn ein!
+<var> setzt die Z-Attacke Hyper-Sprintangriff ein!
+<var> (wild) setzt die Z-Attacke Hyper-Sprintangriff ein!
+<var> (Gegner) setzt die Z-Attacke Hyper-Sprintangriff ein!
+<var> (Herrscher) setzt die Z-Attacke Hyper-Sprintangriff ein!
+<var> setzt die Z-Attacke Hyper-Sprintangriff ein!
+<var> (wild) setzt die Z-Attacke Hyper-Sprintangriff ein!
+<var> (Gegner) setzt die Z-Attacke Hyper-Sprintangriff ein!
+<var> (Herrscher) setzt die Z-Attacke Hyper-Sprintangriff ein!
+<var> setzt die Z-Attacke Fulminante Faustschläge ein!
+<var> (wild) setzt die Z-Attacke Fulminante Faustschläge ein!
+<var> (Gegner) setzt die Z-Attacke Fulminante Faustschläge ein!
+<var> (Herrscher) setzt die Z-Attacke Fulminante Faustschläge ein!
+<var> setzt die Z-Attacke Fulminante Faustschläge ein!
+<var> (wild) setzt die Z-Attacke Fulminante Faustschläge ein!
+<var> (Gegner) setzt die Z-Attacke Fulminante Faustschläge ein!
+<var> (Herrscher) setzt die Z-Attacke Fulminante Faustschläge ein!
+<var> setzt die Z-Attacke Finaler Steilflug ein!
+<var> (wild) setzt die Z-Attacke Finaler Steilflug ein!
+<var> (Gegner) setzt die Z-Attacke Finaler Steilflug ein!
+<var> (Herrscher) setzt die Z-Attacke Finaler Steilflug ein!
+<var> setzt die Z-Attacke Finaler Steilflug ein!
+<var> (wild) setzt die Z-Attacke Finaler Steilflug ein!
+<var> (Gegner) setzt die Z-Attacke Finaler Steilflug ein!
+<var> (Herrscher) setzt die Z-Attacke Finaler Steilflug ein!
+<var> setzt die Z-Attacke Vernichtender Säureregen ein!
+<var> (wild) setzt die Z-Attacke Vernichtender Säureregen ein!
+<var> (Gegner) setzt die Z-Attacke Vernichtender Säureregen ein!
+<var> (Herrscher) setzt die Z-Attacke Vernichtender Säureregen ein!
+<var> setzt die Z-Attacke Vernichtender Säureregen ein!
+<var> (wild) setzt die Z-Attacke Vernichtender Säureregen ein!
+<var> (Gegner) setzt die Z-Attacke Vernichtender Säureregen ein!
+<var> (Herrscher) setzt die Z-Attacke Vernichtender Säureregen ein!
+<var> setzt die Z-Attacke Seismische Eruption ein!
+<var> (wild) setzt die Z-Attacke Seismische Eruption ein!
+<var> (Gegner) setzt die Z-Attacke Seismische Eruption ein!
+<var> (Herrscher) setzt die Z-Attacke Seismische Eruption ein!
+<var> setzt die Z-Attacke Seismische Eruption ein!
+<var> (wild) setzt die Z-Attacke Seismische Eruption ein!
+<var> (Gegner) setzt die Z-Attacke Seismische Eruption ein!
+<var> (Herrscher) setzt die Z-Attacke Seismische Eruption ein!
+<var> setzt die Z-Attacke Apokalyptische Steinpresse ein!
+<var> (wild) setzt die Z-Attacke Apokalyptische Steinpresse ein!
+<var> (Gegner) setzt die Z-Attacke Apokalyptische Steinpresse ein!
+<var> (Herrscher) setzt die Z-Attacke Apokalyptische Steinpresse ein!
+<var> setzt die Z-Attacke Apokalyptische Steinpresse ein!
+<var> (wild) setzt die Z-Attacke Apokalyptische Steinpresse ein!
+<var> (Gegner) setzt die Z-Attacke Apokalyptische Steinpresse ein!
+<var> (Herrscher) setzt die Z-Attacke Apokalyptische Steinpresse ein!
+<var> setzt die Z-Attacke Wirbelnder Insektenhieb ein!
+<var> (wild) setzt die Z-Attacke Wirbelnder Insektenhieb ein!
+<var> (Gegner) setzt die Z-Attacke Wirbelnder Insektenhieb ein!
+<var> (Herrscher) setzt die Z-Attacke Wirbelnder Insektenhieb ein!
+<var> setzt die Z-Attacke Wirbelnder Insektenhieb ein!
+<var> (wild) setzt die Z-Attacke Wirbelnder Insektenhieb ein!
+<var> (Gegner) setzt die Z-Attacke Wirbelnder Insektenhieb ein!
+<var> (Herrscher) setzt die Z-Attacke Wirbelnder Insektenhieb ein!
+<var> setzt die Z-Attacke Ewige Nacht ein!
+<var> (wild) setzt die Z-Attacke Ewige Nacht ein!
+<var> (Gegner) setzt die Z-Attacke Ewige Nacht ein!
+<var> (Herrscher) setzt die Z-Attacke Ewige Nacht ein!
+<var> setzt die Z-Attacke Ewige Nacht ein!
+<var> (wild) setzt die Z-Attacke Ewige Nacht ein!
+<var> (Gegner) setzt die Z-Attacke Ewige Nacht ein!
+<var> (Herrscher) setzt die Z-Attacke Ewige Nacht ein!
+<var> setzt die Z-Attacke Turbo-Spiralkombo ein!
+<var> (wild) setzt die Z-Attacke Turbo-Spiralkombo ein!
+<var> (Gegner) setzt die Z-Attacke Turbo-Spiralkombo ein!
+<var> (Herrscher) setzt die Z-Attacke Turbo-Spiralkombo ein!
+<var> setzt die Z-Attacke Turbo-Spiralkombo ein!
+<var> (wild) setzt die Z-Attacke Turbo-Spiralkombo ein!
+<var> (Gegner) setzt die Z-Attacke Turbo-Spiralkombo ein!
+<var> (Herrscher) setzt die Z-Attacke Turbo-Spiralkombo ein!
+<var> setzt die Z-Attacke Dynamische Maxiflamme ein!
+<var> (wild) setzt die Z-Attacke Dynamische Maxiflamme ein!
+<var> (Gegner) setzt die Z-Attacke Dynamische Maxiflamme ein!
+<var> (Herrscher) setzt die Z-Attacke Dynamische Maxiflamme ein!
+<var> setzt die Z-Attacke Dynamische Maxiflamme ein!
+<var> (wild) setzt die Z-Attacke Dynamische Maxiflamme ein!
+<var> (Gegner) setzt die Z-Attacke Dynamische Maxiflamme ein!
+<var> (Herrscher) setzt die Z-Attacke Dynamische Maxiflamme ein!
+<var> setzt die Z-Attacke Super-Wassertornado ein!
+<var> (wild) setzt die Z-Attacke Super-Wassertornado ein!
+<var> (Gegner) setzt die Z-Attacke Super-Wassertornado ein!
+<var> (Herrscher) setzt die Z-Attacke Super-Wassertornado ein!
+<var> setzt die Z-Attacke Super-Wassertornado ein!
+<var> (wild) setzt die Z-Attacke Super-Wassertornado ein!
+<var> (Gegner) setzt die Z-Attacke Super-Wassertornado ein!
+<var> (Herrscher) setzt die Z-Attacke Super-Wassertornado ein!
+<var> setzt die Z-Attacke Brillante Blütenpracht ein!
+<var> (wild) setzt die Z-Attacke Brillante Blütenpracht ein!
+<var> (Gegner) setzt die Z-Attacke Brillante Blütenpracht ein!
+<var> (Herrscher) setzt die Z-Attacke Brillante Blütenpracht ein!
+<var> setzt die Z-Attacke Brillante Blütenpracht ein!
+<var> (wild) setzt die Z-Attacke Brillante Blütenpracht ein!
+<var> (Gegner) setzt die Z-Attacke Brillante Blütenpracht ein!
+<var> (Herrscher) setzt die Z-Attacke Brillante Blütenpracht ein!
+<var> setzt die Z-Attacke Gigavolt-Funkensalve ein!
+<var> (wild) setzt die Z-Attacke Gigavolt-Funkensalve ein!
+<var> (Gegner) setzt die Z-Attacke Gigavolt-Funkensalve ein!
+<var> (Herrscher) setzt die Z-Attacke Gigavolt-Funkensalve ein!
+<var> setzt die Z-Attacke Gigavolt-Funkensalve ein!
+<var> (wild) setzt die Z-Attacke Gigavolt-Funkensalve ein!
+<var> (Gegner) setzt die Z-Attacke Gigavolt-Funkensalve ein!
+<var> (Herrscher) setzt die Z-Attacke Gigavolt-Funkensalve ein!
+<var> setzt die Z-Attacke Psycho-Schmetterschlag ein!
+<var> (wild) setzt die Z-Attacke Psycho-Schmetterschlag ein!
+<var> (Gegner) setzt die Z-Attacke Psycho-Schmetterschlag ein!
+<var> (Herrscher) setzt die Z-Attacke Psycho-Schmetterschlag ein!
+<var> setzt die Z-Attacke Psycho-Schmetterschlag ein!
+<var> (wild) setzt die Z-Attacke Psycho-Schmetterschlag ein!
+<var> (Gegner) setzt die Z-Attacke Psycho-Schmetterschlag ein!
+<var> (Herrscher) setzt die Z-Attacke Psycho-Schmetterschlag ein!
+<var> setzt die Z-Attacke Tobender Geofrost ein!
+<var> (wild) setzt die Z-Attacke Tobender Geofrost ein!
+<var> (Gegner) setzt die Z-Attacke Tobender Geofrost ein!
+<var> (Herrscher) setzt die Z-Attacke Tobender Geofrost ein!
+<var> setzt die Z-Attacke Tobender Geofrost ein!
+<var> (wild) setzt die Z-Attacke Tobender Geofrost ein!
+<var> (Gegner) setzt die Z-Attacke Tobender Geofrost ein!
+<var> (Herrscher) setzt die Z-Attacke Tobender Geofrost ein!
+<var> setzt die Z-Attacke Drastisches Drachendröhnen ein!
+<var> (wild) setzt die Z-Attacke Drastisches Drachendröhnen ein!
+<var> (Gegner) setzt die Z-Attacke Drastisches Drachendröhnen ein!
+<var> (Herrscher) setzt die Z-Attacke Drastisches Drachendröhnen ein!
+<var> setzt die Z-Attacke Drastisches Drachendröhnen ein!
+<var> (wild) setzt die Z-Attacke Drastisches Drachendröhnen ein!
+<var> (Gegner) setzt die Z-Attacke Drastisches Drachendröhnen ein!
+<var> (Herrscher) setzt die Z-Attacke Drastisches Drachendröhnen ein!
+<var> setzt die Z-Attacke Schwarzes Loch des Grauens ein!
+<var> (wild) setzt die Z-Attacke Schwarzes Loch des Grauens ein!
+<var> (Gegner) setzt die Z-Attacke Schwarzes Loch des Grauens ein!
+<var> (Herrscher) setzt die Z-Attacke Schwarzes Loch des Grauens ein!
+<var> setzt die Z-Attacke Schwarzes Loch des Grauens ein!
+<var> (wild) setzt die Z-Attacke Schwarzes Loch des Grauens ein!
+<var> (Gegner) setzt die Z-Attacke Schwarzes Loch des Grauens ein!
+<var> (Herrscher) setzt die Z-Attacke Schwarzes Loch des Grauens ein!
+<var> setzt die Z-Attacke Entzückender Sternenstoß ein!
+<var> (wild) setzt die Z-Attacke Entzückender Sternenstoß ein!
+<var> (Gegner) setzt die Z-Attacke Entzückender Sternenstoß ein!
+<var> (Herrscher) setzt die Z-Attacke Entzückender Sternenstoß ein!
+<var> setzt die Z-Attacke Entzückender Sternenstoß ein!
+<var> (wild) setzt die Z-Attacke Entzückender Sternenstoß ein!
+<var> (Gegner) setzt die Z-Attacke Entzückender Sternenstoß ein!
+<var> (Herrscher) setzt die Z-Attacke Entzückender Sternenstoß ein!
+<var> setzt die Z-Attacke Perfektes Pika-Projektil ein!
+<var> (wild) setzt die Z-Attacke Perfektes Pika-Projektil ein!
+<var> (Gegner) setzt die Z-Attacke Perfektes Pika-Projektil ein!
+<var> (Herrscher) setzt die Z-Attacke Perfektes Pika-Projektil ein!
+<var> setzt Z-Sandsammler ein!
+<var> (wild) setzt Z-Sandsammler ein!
+<var> (Gegner) setzt Z-Sandsammler ein!
+<var> (Herrscher) setzt Z-Sandsammler ein!
+<var> setzt Z-Überrumpler ein!
+<var> (wild) setzt Z-Überrumpler ein!
+<var> (Gegner) setzt Z-Überrumpler ein!
+<var> (Herrscher) setzt Z-Überrumpler ein!
+<var> setzt Z-Bunker ein!
+<var> (wild) setzt Z-Bunker ein!
+<var> (Gegner) setzt Z-Bunker ein!
+<var> (Herrscher) setzt Z-Bunker ein!
+<var> setzt Z-Schattenfessel ein!
+<var> (wild) setzt Z-Schattenfessel ein!
+<var> (Gegner) setzt Z-Schattenfessel ein!
+<var> (Herrscher) setzt Z-Schattenfessel ein!
+<var> setzt Z-Dark Lariat ein!
+<var> (wild) setzt Z-Dark Lariat ein!
+<var> (Gegner) setzt Z-Dark Lariat ein!
+<var> (Herrscher) setzt Z-Dark Lariat ein!
+<var> setzt Z-Schaumserenade ein!
+<var> (wild) setzt Z-Schaumserenade ein!
+<var> (Gegner) setzt Z-Schaumserenade ein!
+<var> (Herrscher) setzt Z-Schaumserenade ein!
+<var> setzt Z-Eishammer ein!
+<var> (wild) setzt Z-Eishammer ein!
+<var> (Gegner) setzt Z-Eishammer ein!
+<var> (Herrscher) setzt Z-Eishammer ein!
+<var> setzt Z-Florakur ein!
+<var> (wild) setzt Z-Florakur ein!
+<var> (Gegner) setzt Z-Florakur ein!
+<var> (Herrscher) setzt Z-Florakur ein!
+<var> setzt Z-Pferdestärke ein!
+<var> (wild) setzt Z-Pferdestärke ein!
+<var> (Gegner) setzt Z-Pferdestärke ein!
+<var> (Herrscher) setzt Z-Pferdestärke ein!
+<var> setzt Z-Kraftabsorber ein!
+<var> (wild) setzt Z-Kraftabsorber ein!
+<var> (Gegner) setzt Z-Kraftabsorber ein!
+<var> (Herrscher) setzt Z-Kraftabsorber ein!
+<var> setzt Z-Solarklinge ein!
+<var> (wild) setzt Z-Solarklinge ein!
+<var> (Gegner) setzt Z-Solarklinge ein!
+<var> (Herrscher) setzt Z-Solarklinge ein!
+<var> setzt Z-Blattwerk ein!
+<var> (wild) setzt Z-Blattwerk ein!
+<var> (Gegner) setzt Z-Blattwerk ein!
+<var> (Herrscher) setzt Z-Blattwerk ein!
+<var> setzt Z-Rampenlicht ein!
+<var> (wild) setzt Z-Rampenlicht ein!
+<var> (Gegner) setzt Z-Rampenlicht ein!
+<var> (Herrscher) setzt Z-Rampenlicht ein!
+<var> setzt Z-Giftfaden ein!
+<var> (wild) setzt Z-Giftfaden ein!
+<var> (Gegner) setzt Z-Giftfaden ein!
+<var> (Herrscher) setzt Z-Giftfaden ein!
+<var> setzt Z-Konzentration ein!
+<var> (wild) setzt Z-Konzentration ein!
+<var> (Gegner) setzt Z-Konzentration ein!
+<var> (Herrscher) setzt Z-Konzentration ein!
+<var> setzt Z-Hilfsmechanik ein!
+<var> (wild) setzt Z-Hilfsmechanik ein!
+<var> (Gegner) setzt Z-Hilfsmechanik ein!
+<var> (Herrscher) setzt Z-Hilfsmechanik ein!
+<var> setzt Z-Neck Strike ein!
+<var> (wild) setzt Z-Neck Strike ein!
+<var> (Gegner) setzt Z-Neck Strike ein!
+<var> (Herrscher) setzt Z-Neck Strike ein!
+<var> setzt Z-Pollenknödel ein!
+<var> (wild) setzt Z-Pollenknödel ein!
+<var> (Gegner) setzt Z-Pollenknödel ein!
+<var> (Herrscher) setzt Z-Pollenknödel ein!
+<var> setzt Z-Ankerschuss ein!
+<var> (wild) setzt Z-Ankerschuss ein!
+<var> (Gegner) setzt Z-Ankerschuss ein!
+<var> (Herrscher) setzt Z-Ankerschuss ein!
+<var> setzt Z-Psychofeld ein!
+<var> (wild) setzt Z-Psychofeld ein!
+<var> (Gegner) setzt Z-Psychofeld ein!
+<var> (Herrscher) setzt Z-Psychofeld ein!
+<var> setzt Z-Anfallen ein!
+<var> (wild) setzt Z-Anfallen ein!
+<var> (Gegner) setzt Z-Anfallen ein!
+<var> (Herrscher) setzt Z-Anfallen ein!
+<var> setzt Z-Feuerpeitsche ein!
+<var> (wild) setzt Z-Feuerpeitsche ein!
+<var> (Gegner) setzt Z-Feuerpeitsche ein!
+<var> (Herrscher) setzt Z-Feuerpeitsche ein!
+<var> setzt Z-Überheblichkeit ein!
+<var> (wild) setzt Z-Überheblichkeit ein!
+<var> (Gegner) setzt Z-Überheblichkeit ein!
+<var> (Herrscher) setzt Z-Überheblichkeit ein!
+<var> setzt Z-Ausbrennen ein!
+<var> (wild) setzt Z-Ausbrennen ein!
+<var> (Gegner) setzt Z-Ausbrennen ein!
+<var> (Herrscher) setzt Z-Ausbrennen ein!
+<var> setzt Z-Initiativetausch ein!
+<var> (wild) setzt Z-Initiativetausch ein!
+<var> (Gegner) setzt Z-Initiativetausch ein!
+<var> (Herrscher) setzt Z-Initiativetausch ein!
+<var> setzt Z-Schmalhorn ein!
+<var> (wild) setzt Z-Schmalhorn ein!
+<var> (Gegner) setzt Z-Schmalhorn ein!
+<var> (Herrscher) setzt Z-Schmalhorn ein!
+<var> setzt Z-Läuterung ein!
+<var> (wild) setzt Z-Läuterung ein!
+<var> (Gegner) setzt Z-Läuterung ein!
+<var> (Herrscher) setzt Z-Läuterung ein!
+<var> setzt Z-Wecktanz ein!
+<var> (wild) setzt Z-Wecktanz ein!
+<var> (Gegner) setzt Z-Wecktanz ein!
+<var> (Herrscher) setzt Z-Wecktanz ein!
+<var> setzt Z-Sanktionskern ein!
+<var> (wild) setzt Z-Sanktionskern ein!
+<var> (Gegner) setzt Z-Sanktionskern ein!
+<var> (Herrscher) setzt Z-Sanktionskern ein!
+<var> setzt Z-Tropenkick ein!
+<var> (wild) setzt Z-Tropenkick ein!
+<var> (Gegner) setzt Z-Tropenkick ein!
+<var> (Herrscher) setzt Z-Tropenkick ein!
+<var> setzt Z-Kommando ein!
+<var> (wild) setzt Z-Kommando ein!
+<var> (Gegner) setzt Z-Kommando ein!
+<var> (Herrscher) setzt Z-Kommando ein!
+<var> setzt Z-Schnabelkanone ein!
+<var> (wild) setzt Z-Schnabelkanone ein!
+<var> (Gegner) setzt Z-Schnabelkanone ein!
+<var> (Herrscher) setzt Z-Schnabelkanone ein!
+<var> setzt Z-Schuppenrasseln ein!
+<var> (wild) setzt Z-Schuppenrasseln ein!
+<var> (Gegner) setzt Z-Schuppenrasseln ein!
+<var> (Herrscher) setzt Z-Schuppenrasseln ein!
+<var> setzt Z-Drachenhammer ein!
+<var> (wild) setzt Z-Drachenhammer ein!
+<var> (Gegner) setzt Z-Drachenhammer ein!
+<var> (Herrscher) setzt Z-Drachenhammer ein!
+<var> setzt Z-Wirbler ein!
+<var> (wild) setzt Z-Wirbler ein!
+<var> (Gegner) setzt Z-Wirbler ein!
+<var> (Herrscher) setzt Z-Wirbler ein!
+<var> setzt Z-Auroraschleier ein!
+<var> (wild) setzt Z-Auroraschleier ein!
+<var> (Gegner) setzt Z-Auroraschleier ein!
+<var> (Herrscher) setzt Z-Auroraschleier ein!
+<var> setzt die Z-Attacke Schatten-Pfeilregen ein!
+<var> (wild) setzt die Z-Attacke Schatten-Pfeilregen ein!
+<var> (Gegner) setzt die Z-Attacke Schatten-Pfeilregen ein!
+<var> (Herrscher) setzt die Z-Attacke Schatten-Pfeilregen ein!
+<var> setzt die Z-Attacke Hyper Dark Crusher ein!
+<var> (wild) setzt die Z-Attacke Hyper Dark Crusher ein!
+<var> (Gegner) setzt die Z-Attacke Hyper Dark Crusher ein!
+<var> (Herrscher) setzt die Z-Attacke Hyper Dark Crusher ein!
+<var> setzt die Z-Attacke Grandiose Meeressymphonie ein!
+<var> (wild) setzt die Z-Attacke Grandiose Meeressymphonie ein!
+<var> (Gegner) setzt die Z-Attacke Grandiose Meeressymphonie ein!
+<var> (Herrscher) setzt die Z-Attacke Grandiose Meeressymphonie ein!
+<var> setzt die Z-Attacke Alolas Wächter ein!
+<var> (wild) setzt die Z-Attacke Alolas Wächter ein!
+<var> (Gegner) setzt die Z-Attacke Alolas Wächter ein!
+<var> (Herrscher) setzt die Z-Attacke Alolas Wächter ein!
+<var> setzt die Z-Attacke Sternbild des Seelenraubes ein!
+<var> (wild) setzt die Z-Attacke Sternbild des Seelenraubes ein!
+<var> (Gegner) setzt die Z-Attacke Sternbild des Seelenraubes ein!
+<var> (Herrscher) setzt die Z-Attacke Sternbild des Seelenraubes ein!
+<var> setzt die Z-Attacke Blitz-Wellenritt ein!
+<var> (wild) setzt die Z-Attacke Blitz-Wellenritt ein!
+<var> (Gegner) setzt die Z-Attacke Blitz-Wellenritt ein!
+<var> (Herrscher) setzt die Z-Attacke Blitz-Wellenritt ein!
+<var> setzt die Z-Attacke Schluss mit lustig ein!
+<var> (wild) setzt die Z-Attacke Schluss mit lustig ein!
+<var> (Gegner) setzt die Z-Attacke Schluss mit lustig ein!
+<var> (Herrscher) setzt die Z-Attacke Schluss mit lustig ein!
+<var> setzt die Z-Attacke Macht der Neun ein!
+<var> (wild) setzt die Z-Attacke Macht der Neun ein!
+<var> (Gegner) setzt die Z-Attacke Macht der Neun ein!
+<var> (Herrscher) setzt die Z-Attacke Macht der Neun ein!
+<var> setzt die Z-Attacke Supernova des Ursprungs ein!
+<var> (wild) setzt die Z-Attacke Supernova des Ursprungs ein!
+<var> (Gegner) setzt die Z-Attacke Supernova des Ursprungs ein!
+<var> (Herrscher) setzt die Z-Attacke Supernova des Ursprungs ein!
+<var> setzt Z-Panzerfalle ein!
+<var> (wild) setzt Z-Panzerfalle ein!
+<var> (Gegner) setzt Z-Panzerfalle ein!
+<var> (Herrscher) setzt Z-Panzerfalle ein!
+<var> setzt Z-Kanonenbouquet ein!
+<var> (wild) setzt Z-Kanonenbouquet ein!
+<var> (Gegner) setzt Z-Kanonenbouquet ein!
+<var> (Herrscher) setzt Z-Kanonenbouquet ein!
+<var> setzt Z-Psychobeißer ein!
+<var> (wild) setzt Z-Psychobeißer ein!
+<var> (Gegner) setzt Z-Psychobeißer ein!
+<var> (Herrscher) setzt Z-Psychobeißer ein!
+<var> setzt Z-Fruststampfer ein!
+<var> (wild) setzt Z-Fruststampfer ein!
+<var> (Gegner) setzt Z-Fruststampfer ein!
+<var> (Herrscher) setzt Z-Fruststampfer ein!
+<var> setzt Z-Schattenknochen ein!
+<var> (wild) setzt Z-Schattenknochen ein!
+<var> (Gegner) setzt Z-Schattenknochen ein!
+<var> (Herrscher) setzt Z-Schattenknochen ein!
+<var> setzt Z-Turbofelsen ein!
+<var> (wild) setzt Z-Turbofelsen ein!
+<var> (Gegner) setzt Z-Turbofelsen ein!
+<var> (Herrscher) setzt Z-Turbofelsen ein!
+<var> setzt Z-Aquadurchstoß ein!
+<var> (wild) setzt Z-Aquadurchstoß ein!
+<var> (Gegner) setzt Z-Aquadurchstoß ein!
+<var> (Herrscher) setzt Z-Aquadurchstoß ein!
+<var> setzt Z-Prisma-Laser ein!
+<var> (wild) setzt Z-Prisma-Laser ein!
+<var> (Gegner) setzt Z-Prisma-Laser ein!
+<var> (Herrscher) setzt Z-Prisma-Laser ein!
+<var> setzt Z-Diebesschatten ein!
+<var> (wild) setzt Z-Diebesschatten ein!
+<var> (Gegner) setzt Z-Diebesschatten ein!
+<var> (Herrscher) setzt Z-Diebesschatten ein!
+<var> setzt Z-Stahlgestirn ein!
+<var> (wild) setzt Z-Stahlgestirn ein!
+<var> (Gegner) setzt Z-Stahlgestirn ein!
+<var> (Herrscher) setzt Z-Stahlgestirn ein!
+<var> setzt Z-Schattenstrahl ein!
+<var> (wild) setzt Z-Schattenstrahl ein!
+<var> (Gegner) setzt Z-Schattenstrahl ein!
+<var> (Herrscher) setzt Z-Schattenstrahl ein!
+<var> setzt Z-Tränendrüse ein!
+<var> (wild) setzt Z-Tränendrüse ein!
+<var> (Gegner) setzt Z-Tränendrüse ein!
+<var> (Herrscher) setzt Z-Tränendrüse ein!
+<var> setzt Z-Elektropikser ein!
+<var> (wild) setzt Z-Elektropikser ein!
+<var> (Gegner) setzt Z-Elektropikser ein!
+<var> (Herrscher) setzt Z-Elektropikser ein!
+<var> setzt Z-Naturzorn ein!
+<var> (wild) setzt Z-Naturzorn ein!
+<var> (Gegner) setzt Z-Naturzorn ein!
+<var> (Herrscher) setzt Z-Naturzorn ein!
+<var> setzt Z-Multi-Angriff ein!
+<var> (wild) setzt Z-Multi-Angriff ein!
+<var> (Gegner) setzt Z-Multi-Angriff ein!
+<var> (Herrscher) setzt Z-Multi-Angriff ein!
+<var> setzt die Z-Attacke Tausendfacher Donnerblitz ein!
+<var> (wild) setzt die Z-Attacke Tausendfacher Donnerblitz ein!
+<var> (Gegner) setzt die Z-Attacke Tausendfacher Donnerblitz ein!
+<var> (Herrscher) setzt die Z-Attacke Tausendfacher Donnerblitz ein!

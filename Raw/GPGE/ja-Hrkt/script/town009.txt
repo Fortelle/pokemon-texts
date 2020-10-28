@@ -1,0 +1,14 @@
+msg_town009_kanban_01=ここは　グレンタウン[0x000A]グレンの　あかは　じょうねつの　いろ
+msg_town009_kanban_02=ここは　グレン　ラボラトリー[0x000A]ポケモン　けんきゅう　しせつ
+msg_town009_kanban_03=グレンじま　ポケモンジム[0x000A]リーダー　カツラ{0xBE00}[0x000A]ねっけつ　クイズおやじ
+msg_town009_door_01=ドアに　ちいさな　もじで[0x000A]なにか　かいてある……！{0xBE01}[0x000A]「もんだい！　この　ジムの[0x000A]　カギは　どこに　あるでしょう？{0xBE01}[0x000A]　ヒント！　くさが　からみついた[0x000A]　たてものの　どこかに……？」
+msg_town009_youngf_01_01=グレンジムの　カツラは[0x000A]ラボが　できる　まえから{0xBE00}[0x000A]すんでて　へんじん　なんだって
+msg_town009_oldm_01_01=ポケモンやしきは[0x000A]けんきゅうの　ため　かがくしゃが{0xBE00}[0x000A]たまに　でいり　しとる　ようだ
+msg_town009_poke_01=ブーバー『ぶっふふーぃ！
+msg_town009_poke_02=ヒトデマン『シュルー
+msg_masaki_01_p01_field_t009={0xBDFF:0x0008}
+msg_masaki_01_p02_field_t009={0xBDFF:0x0009}
+msg_masaki_01_p03_field_t009={0xBDFF:0x000A}
+msg_masaki_01_p04_field_t009={0xBDFF:0x000B}
+msg_masaki_01_p05_field_t009={0xBDFF:0x000C}
+msg_masaki_01_p06_field_t009={0xBDFF:0x000D}

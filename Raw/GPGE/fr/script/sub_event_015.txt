@@ -1,0 +1,17 @@
+msg_sub015_partner_a_01=Pikachu !
+msg_sub015_partner_b_01=Voliii !
+msg_sub015_system_01={0x0102,0x0003} a l’air tout excité !
+msg_sub015_system_02={0x0102,0x0003} semble vouloir regarder à[0x000A]l’avant du bateau !
+msg_sub015_partner_a_02=Pikachu !
+msg_sub015_partner_b_02=Voli !!!
+msg_sub015_partner_a_03=Pika ! Pikachu !
+msg_sub015_partner_b_03=Vo voliii !
+msg_sub015_system_03=Vous regardez les vagues ondoyer paisiblement[0x000A]avec {0x0102,0x0003}.
+msg_sub015_system_04={0x0102,0x0003} a l’air absolument ravi !
+msg_sub015_angler_01={0xBDFF:0x000A}
+msg_sub015_angler_02={0xBDFF:0x000B}
+msg_sub015_sys_01={0xBDFF:0x000C}
+msg_sub015_angler_03={0xBDFF:0x000D}
+msg_sub015_angler_04={0xBDFF:0x000E}
+msg_sub015_angler_05={0xBDFF:0x000F}
+msg_fishing1_01_p07_t006_r0101={0xBDFF:0x0010}

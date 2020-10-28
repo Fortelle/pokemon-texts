@@ -1,0 +1,4 @@
+msg_sub011_middlem_01=Ferm{0x1100,0x00FF,0x0101}oa...! Non dire una parola...!{0xBE01}[0x000A]Volevi questa, non è così?
+msg_sub011_sys_01={0xBDFF:0x0001}
+msg_sub011_middlem_02=Non c’è nemmeno bisogno di dirtelo, vero...?[0x000A]La MT40 contiene la mossa Psichico!{0xBE01}[0x000A]È una mossa d’attacco che può far diminuire[0x000A]la Difesa Speciale dell’avversario!
+msg_trainerm1_01_p04_t011_r0501={0xBDFF:0x0003}

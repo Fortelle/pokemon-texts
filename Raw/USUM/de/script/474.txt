@@ -1,0 +1,17 @@
+Hallo! Schau mal, wie satt und zufrieden die[0x000A]Akkup nach ihrem üppigen Mahl aussehen!{0x0114,0x001C}
+Akkup!
+Aber... Moment mal... 1, 2, 3, 4, 5, 6...[0x000A]Es sollten doch neun sein!{0x0114,0x001C}
+Wärst du so gut, für mich nach den restlichen[0x000A]drei Akkup zu suchen, {0x0100,0x0000}?{0xBE01}[0x000A]Sie müssten sich noch auf der Brachfläche vor[0x000A]der Haltestelle aufhalten und genüsslich vor{0xBE00}[0x000A]sich hin mampfen.{0x0114,0x001C}
+Es fehl{0x1101,0x0001,0x0201}ten noch {0x0200,0x0001} Akkup, {0x0100,0x0000}.{0xBE01}[0x000A]{0x1101,0x0001,0x0806}Es istSie sind bestimmt noch auf der Brachfläche vor[0x000A]der Haltestelle mit Futtern beschäftigt.{0x0114,0x001C}
+Akkuuu!
+Und, hast du die fehlenden Akkup gefunden,[0x000A]{0x0100,0x0000}?{0x0114,0x001C}
+Jetzt fehlt nur noch Siebakk. Den Racker zieht[0x000A]es aber auch immer an die seltsamsten Orte!{0xBE01}[0x000A]Hm, warum siehst du so verwirrt aus?[0x000A]Ach so, „Siebakk“.{0xBE01}[0x000A]Wir rufen unsere Akkup hier bei ihrem[0x000A]Spitznamen, und zwar von Einakk bis Neunakk.{0x0114,0x001C}
+Jetzt fehlt nur noch Siebakk.{0xBE01}[0x000A]Den Racker zieht es aber auch immer an die[0x000A]seltsamsten Orte!{0x0114,0x001C}
+Akkup!
+Sieback! Da bist du ja, du kleiner Racker![0x000A]Danke für deine Hilfe, {0x0100,0x0000}.{0xBE01}[0x000A]Dann nichts wie zurück zur Sternwarte.[0x000A]Chrys wird vor lauter Ausschau halten nach dir{0xBE00}[0x000A]sicher schon einen Hals wie ein Kokowei haben.{0x0114,0x001C}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+Hier scheint sich ein Pokémon vergraben[0x000A]zu haben...
+Akkup...
+Du hast eins von Marlons Akkup aufgespürt!
+Sieht so aus, als hätte sich hier jemand[0x000A]genüsslich den Bauch vollgeschlagen.

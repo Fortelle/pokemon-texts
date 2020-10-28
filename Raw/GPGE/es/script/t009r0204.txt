@@ -1,0 +1,8 @@
+msg_t009r0204_diary_01="Diario: 1 de septiembre[0x000A]Mewtwo es demasiado poderoso.{0xBE01}[0x000A]Su fuerza se nos escapa de las manos".
+msg_t009r0204_bed_01=Hay una cama...[0x000A]A descansar se ha dicho.
+msg_t009r0204_pod_01=Se trata de un gran tanque hecho de cristal[0x000A]blindado.{0xBE01}[0x000A]Unas marcas en el interior sugieren que ha sido[0x000A]golpeado con insistencia.
+msg_t009r0204_pod_02=Es un tanque de cristal blindado.[0x000A]En varios sitios se aprecian marcas de un líquido{0xBE00}[0x000A]que se ha secado.
+msg_t009r0204_pod_03=Es una máquina con muchos interruptores y[0x000A]medidores.{0xBE01}[0x000A]Tiene pinta de no haberse usado en mucho[0x000A]tiempo.
+msg_t009r0204_switch_01={0xBDFF:0x0005}
+msg_t009r0204_switch_02={0xBDFF:0x0006}
+msg_t009r0204_switch_03={0xBDFF:0x0007}

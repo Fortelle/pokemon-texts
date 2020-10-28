@@ -1,0 +1,269 @@
+
+
+Durata (UTC) 
+- Minigioco in corso -
+- Minigioco terminato -
+{0x0201,0x0002}/{0x0201,0x0001}/20{0x0201,0x0000} ･ {0x0201,0x0003}:{0x0201,0x0004} - {0x0201,0x0007}/{0x0201,0x0006}/20{0x0201,0x0005} ･ {0x0201,0x0008}:{0x0201,0x0009}
+Obiettivo
+{0x0209,0x0000,0x002E}
+In data {0x0201,0x0002}/{0x0201,0x0001}/20{0x0201,0x0000} ･ {0x0201,0x0003}:{0x0201,0x0004}
+Punteggio attuale di {0x0100,0x0000}
+Punteggio di {0x0100,0x0000}
+{0x0203,0x0000,0x002E}
+Premio
+{0x0204,0x0000,0x002E} - {0x0204,0x0001,0x002E} FG
+{0x0205,0x0000,0x002E} FG
+{0xFF00,0x0002}Non stai partecipando{0xFF00,0x0000}
+Obiettivo raggiunto!
+{0xFF00,0x0002}Data di ricezione: {0x0201,0x0002}/{0x0201,0x0001}/20{0x0201,0x0000} ･ {0x0201,0x0003}:{0x0201,0x0004}{0xFF00,0x0000}
+Risultato finale
+{0xFF00,0x0002}Puoi ricevere il tuo premio al banco.{0xFF00,0x0000}
+Partecipa
+Verifica delle informazioni in corso.[0x000A]Attendi...
+Aggiornamento delle informazioni in corso.[0x000A]Attendi...
+Vuoi partecipare a questo minigioco globale?
+Informazioni sul minigioco globale in corso[0x000A]aggiornate.{0xBE01}
+Registrazione al minigioco globale completata.{0xBE01}[0x000A]Per aggiornare i risultati del minigioco, parla con[0x000A]l’addetta ai minigiochi globali e scegli “Controlla”,{0xBE00}[0x000A]oppure usa il Sincrogioco.{0xBE01}
+Non ci sono minigiochi globali in corso.{0xBE01}
+Hai ottenuto un premio per un minigioco globale![0x000A]Puoi riceverlo al banco apposito.{0xBE01}
+Impossibile aggiornare il minigioco globale a[0x000A]causa dell’elevato volume di traffico del server.{0xBE01}[0x000A]Riprova più tardi.{0xBE01}
+Impossibile eseguire la registrazione al minigioco[0x000A]globale a causa dell’elevato volume di traffico{0xBE00}[0x000A]del server.{0xBE01}[0x000A]Riprova più tardi.{0xBE01}
+{0x01B5,0x0000}
+Tempo rimasto
+Punteggio totale
+Punteggio individuale
+Numero di partecipanti
+{0x0201,0x0000}
+:
+{0x0204,0x0000,0x002E}
+{0x0202,0x0000}
+Esci
+Parla con Allenatori esperti!
+Parla con Allenatori alle prime armi!
+Trova i giocatori innamorati!
+Trova i giocatori che non sono innamorati!
+Chi si trova meglio con i maschi?
+Chi si trova meglio con le femmine?
+Trova i fratelli e le sorelle maggiori!
+Trova i fratelli e le sorelle di mezzo!
+Trova i fratelli e le sorelle minori!
+Trova i figli unici!
+Il carattere è la cosa più importante!
+L’aspetto è la cosa più importante!
+Trova i giocatori degni di fiducia!
+Trova i giocatori indiscreti!
+Trova i giocatori pantofolai!
+Chi esce nel tempo libero?
+A caccia di fan!
+Gara di costumi!
+Porta gli ospiti alla lotteria!
+Porta gli ospiti alla ludoteca!
+Porta gli ospiti alla casa stregata!
+Porta gli ospiti alla spuntineria!
+Porta gli ospiti alla bottega dei regali!
+Porta gli ospiti alla tenda delle profezie!
+Porta gli ospiti alla tintoria!
+{0xBDFF:0x0041}
+{0xBDFF:0x0042}
+Corso di giapponese!
+Corso di inglese!
+Corso di francese!
+Corso di italiano!
+Corso di tedesco!
+Corso di spagnolo!
+Corso di coreano!
+Corso di cinese!
+Scambio culturale!
+Occhio al travestimento!
+A volto scoperto!
+{0xBDFF:0x004E}
+{0xBDFF:0x004F}
+{0xBDFF:0x0050}
+{0xBDFF:0x0051}
+{0xBDFF:0x0052}
+Mostra i muscoli!
+{0xBDFF:0x0054}
+Spacca le rocce con Tauros!
+{0xBDFF:0x0056}
+Cerca gli amanti del rosso!
+Cerca gli amanti del verde!
+Cerca gli amanti dell’arancione!
+Cerca gli amanti del viola!
+Cerca gli amanti del giallo!
+Cerca gli amanti dell’azzurro!
+Cerca gli amanti del blu!
+Cerca gli amanti del rosa!
+Test sulle compatibilità tra i tipi!
+{0xBDFF:0x0060}
+La compatibilità tra i tipi nella Lotta Inversa!
+{0xBDFF:0x0062}
+Trova i fan del tipo Normale! (1)
+Trova i fan del tipo Fuoco! (1)
+Trova i fan del tipo Acqua! (1)
+Trova i fan del tipo Elettro! (1)
+Trova i fan del tipo Erba! (1)
+Trova i fan del tipo Ghiaccio! (1)
+Trova i fan del tipo Lotta! (1)
+Trova i fan del tipo Veleno! (1)
+Trova i fan del tipo Terra! (1)
+Trova i fan del tipo Volante! (1)
+Trova i fan del tipo Psico! (1)
+Trova i fan del tipo Coleottero! (1)
+Trova i fan del tipo Roccia! (1)
+Trova i fan del tipo Spettro! (1)
+Trova i fan del tipo Drago! (1)
+Trova i fan del tipo Buio! (1)
+Trova i fan del tipo Acciaio! (1)
+Trova i fan del tipo Folletto! (1)
+Trova i fan del tipo Normale! (2)
+Trova i fan del tipo Fuoco! (2)
+Trova i fan del tipo Acqua! (2)
+Trova i fan del tipo Elettro! (2)
+Trova i fan del tipo Erba! (2)
+Trova i fan del tipo Ghiaccio! (2)
+Trova i fan del tipo Lotta! (2)
+Trova i fan del tipo Veleno! (2)
+Trova i fan del tipo Terra! (2)
+Trova i fan del tipo Volante! (2)
+Trova i fan del tipo Psico! (2)
+Trova i fan del tipo Coleottero! (2)
+Trova i fan del tipo Roccia! (2)
+Trova i fan del tipo Spettro! (2)
+Trova i fan del tipo Drago! (2)
+Trova i fan del tipo Buio! (2)
+Trova i fan del tipo Acciaio! (2)
+Trova i fan del tipo Folletto! (2)
+Trova Allenatori che giocano con i Pokémon[0x000A]da almeno cinque anni e salutali![0x000A][0x000A]Se conosci bene i tuoi VIP e il loro profilo,[0x000A]questo minigioco ti risulterà più facile.[0x000A]Cerca giocatori con il seguente messaggio:[0x000A]“Alleno Pokémon da molto tempo!”
+Trova Allenatori che giocano con i Pokémon[0x000A]da non più di cinque anni e salutali![0x000A][0x000A]Se conosci bene i tuoi VIP e il loro profilo,[0x000A]questo minigioco ti risulterà più facile.[0x000A]Cerca giocatori con il seguente messaggio:[0x000A]“Sono alle prime armi con i Pokémon!”
+Trova giocatori innamorati e parla con loro![0x000A][0x000A]Se conosci bene i tuoi VIP e il loro profilo,[0x000A]questo minigioco ti risulterà più facile.[0x000A]Cerca giocatori con il seguente messaggio:[0x000A]“C’è una persona che mi piace!”
+Trova giocatori che non sono innamorati[0x000A]e parla con loro![0x000A][0x000A]Se conosci bene i tuoi VIP e il loro profilo,[0x000A]questo minigioco ti risulterà più facile.[0x000A]Cerca giocatori con il seguente messaggio:[0x000A]“Al momento il mio cuore è libero.”
+Trova giocatori che hanno tanti amici maschi[0x000A]e scambia due chiacchiere con loro![0x000A][0x000A]Se conosci bene i tuoi VIP e il loro profilo,[0x000A]questo minigioco ti risulterà più facile.[0x000A]Cerca giocatori con il seguente messaggio:[0x000A]“Ho tanti amici maschi.”
+Trova giocatori che hanno tante amiche femmine[0x000A]e scambia due chiacchiere con loro![0x000A][0x000A]Se conosci bene i tuoi VIP e il loro profilo,[0x000A]questo minigioco ti risulterà più facile.[0x000A]Cerca giocatori con il seguente messaggio:[0x000A]“Ho tante amiche.”
+Trova fratelli o sorelle maggiori e parla con loro![0x000A][0x000A]Se conosci bene i tuoi VIP e il loro profilo,[0x000A]questo minigioco ti risulterà più facile.[0x000A]Cerca giocatori con il seguente messaggio:[0x000A]“Ho solo fratelli o sorelle minori.”
+Trova fratelli o sorelle di mezzo e parla con loro![0x000A][0x000A]Se conosci bene i tuoi VIP e il loro profilo,[0x000A]questo minigioco ti risulterà più facile.[0x000A]Cerca giocatori con il seguente messaggio:[0x000A]“Ho fratelli o sorelle sia maggiori che minori.”
+Trova fratelli o sorelle minori e parla con loro![0x000A][0x000A]Se conosci bene i tuoi VIP e il loro profilo,[0x000A]questo minigioco ti risulterà più facile.[0x000A]Cerca giocatori con il seguente messaggio:[0x000A]“Ho solo fratelli o sorelle maggiori.”
+Trova figli unici o figlie uniche e parla con loro![0x000A][0x000A]Se conosci bene i tuoi VIP e il loro profilo,[0x000A]questo minigioco ti risulterà più facile.[0x000A]Cerca giocatori con il seguente messaggio:[0x000A]“Non ho fratelli o sorelle.”
+Trova giocatori a cui interessa più il carattere[0x000A]che l’aspetto![0x000A][0x000A]Se conosci bene i tuoi VIP e il loro profilo,[0x000A]questo minigioco ti risulterà più facile.[0x000A]Cerca giocatori con il seguente messaggio:[0x000A]“Il carattere è molto importante.”
+Trova giocatori a cui interessa più l’aspetto[0x000A]che il carattere![0x000A][0x000A]Se conosci bene i tuoi VIP e il loro profilo,[0x000A]questo minigioco ti risulterà più facile.[0x000A]Cerca giocatori con il seguente messaggio:[0x000A]“L’aspetto è molto importante.”
+Trova giocatori che sanno mantenere i segreti![0x000A][0x000A]Se conosci bene i tuoi VIP e il loro profilo,[0x000A]questo minigioco ti risulterà più facile.[0x000A]Cerca giocatori con il seguente messaggio:[0x000A]“So mantenere i segreti.”
+Trova giocatori che non sanno mantenere[0x000A]i segreti![0x000A][0x000A]Se conosci bene i tuoi VIP e il loro profilo,[0x000A]questo minigioco ti risulterà più facile.[0x000A]Cerca giocatori con il seguente messaggio:[0x000A]“Non so mantenere i segreti...”
+Trova giocatori che amano trascorrere il loro[0x000A]tempo libero a casa![0x000A][0x000A]Se conosci bene i tuoi VIP e il loro profilo,[0x000A]questo minigioco ti risulterà più facile.[0x000A]Cerca giocatori con il seguente messaggio:[0x000A]“Adoro stare a casa nel mio tempo libero.”
+Trova giocatori che amano trascorrere il loro[0x000A]tempo libero all’aperto![0x000A][0x000A]Se conosci bene i tuoi VIP e il loro profilo,[0x000A]questo minigioco ti risulterà più facile.[0x000A]Cerca giocatori con il seguente messaggio:[0x000A]“Adoro uscire nel mio tempo libero.”
+I tuoi fan hanno il tuo stesso aspetto e si sono[0x000A]mescolati ai visitatori del tuo Festiplaza.[0x000A]Trovali!
+I tuoi fan hanno indetto una gara di costumi[0x000A]e hanno il tuo stesso aspetto, ma alcuni non[0x000A]sono proprio uguali a te... Trovali!
+Porta dei visitatori alla lotteria![0x000A][0x000A]Ma... attenzione! Assicurati di portarci solo[0x000A]quelli che si mostrano interessati a questo[0x000A]tipo di struttura.
+Porta dei visitatori alla ludoteca![0x000A][0x000A]Ma... attenzione! Assicurati di portarci solo[0x000A]quelli che si mostrano interessati a questo[0x000A]tipo di struttura.
+Porta dei visitatori alla casa stregata![0x000A][0x000A]Ma... attenzione! Assicurati di portarci solo[0x000A]quelli che si mostrano interessati a questo[0x000A]tipo di struttura.
+Porta dei visitatori alla spuntineria![0x000A][0x000A]Ma... attenzione! Assicurati di portarci solo[0x000A]quelli che si mostrano interessati a questo[0x000A]tipo di struttura.
+Porta dei visitatori alla bottega dei regali![0x000A][0x000A]Ma... attenzione! Assicurati di portarci solo[0x000A]quelli che si mostrano interessati a questo[0x000A]tipo di struttura.
+Porta dei visitatori alla tenda delle profezie![0x000A][0x000A]Ma... attenzione! Assicurati di portarci solo[0x000A]quelli che si mostrano interessati a questo[0x000A]tipo di struttura.
+Porta dei visitatori alla tintoria![0x000A][0x000A]Ma... attenzione! Assicurati di portarci solo[0x000A]quelli che si mostrano interessati a questo[0x000A]tipo di struttura.
+{0xBDFF:0x00A0}
+{0xBDFF:0x00A1}
+Saluta le persone che stanno giocando in[0x000A]giapponese![0x000A][0x000A]Cerca giocatori con i seguenti messaggi:[0x000A]“Konnichiwa!”[0x000A]“Arigatō!”[0x000A]“Sayōnara!”
+Saluta le persone che stanno giocando in[0x000A]inglese![0x000A][0x000A]Cerca giocatori con i seguenti messaggi:[0x000A]“Hello!”[0x000A]“Thank you!”[0x000A]“Bye!”
+Saluta le persone che stanno giocando in[0x000A]francese![0x000A][0x000A]Cerca giocatori con i seguenti messaggi:[0x000A]“Bonjour!”[0x000A]“Merci!”[0x000A]“Au revoir!”
+Saluta le persone che stanno giocando in[0x000A]italiano![0x000A][0x000A]Cerca giocatori con i seguenti messaggi:[0x000A]“Buongiorno!”[0x000A]“Grazie!”[0x000A]“Ciao!”
+Saluta le persone che stanno giocando in[0x000A]tedesco![0x000A][0x000A]Cerca giocatori con i seguenti messaggi:[0x000A]“Guten Tag!”[0x000A]“Danke!”[0x000A]“Tschüss!”
+Saluta le persone che stanno giocando in[0x000A]spagnolo![0x000A][0x000A]Cerca giocatori con i seguenti messaggi:[0x000A]“Hola!”[0x000A]“Gracias!”[0x000A]“Adiós!”
+Saluta le persone che stanno giocando in[0x000A]coreano![0x000A][0x000A]Cerca giocatori con i seguenti messaggi:[0x000A]“Annyeonghaseyo!”[0x000A]“Gomawo!”[0x000A]“Annyeonghi gaseyo!”
+Saluta le persone che stanno giocando in[0x000A]cinese tradizionale o semplificato![0x000A][0x000A]Cerca giocatori con i seguenti messaggi:[0x000A]“Nǐhǎo!”[0x000A]“Xièxie!”[0x000A]“Zàijiàn!”
+Saluta le persone che giocano in una lingua[0x000A]diversa dalla tua![0x000A][0x000A]Per aiutarti nell’impresa, presta attenzione[0x000A]ai giocatori che salutano o ringraziano[0x000A]in un’altra lingua.
+Trova le persone che si nascondono dietro[0x000A]cappello e occhiali!
+Trova persone che non indossano né cappelli,[0x000A]né occhiali!
+{0xBDFF:0x00AD}
+{0xBDFF:0x00AE}
+{0xBDFF:0x00AF}
+{0xBDFF:0x00B0}
+{0xBDFF:0x00B1}
+Mostra a tutti il tuo affiatamento con Machamp![0x000A][0x000A]Parla con le persone che incontri e fatti dire[0x000A]che tu e Machamp siete un duo imbattibile![0x000A][0x000A]Suggerimento:[0x000A]･Cerca persone che dicono cose allegre.
+Mostra a tutti il tuo affiatamento con Machamp![0x000A][0x000A]Parla con le persone che incontri e fatti dire[0x000A]che tu e Machamp siete un duo imbattibile![0x000A][0x000A]Suggerimento:[0x000A]･Cerca persone che dicono cose allegre.
+Salta in groppa a Tauros e distruggi le rocce[0x000A]comparse nel Festiplaza!
+Salta in groppa a Tauros e distruggi le rocce[0x000A]che appaiono nel Festiplaza!
+Trova le persone che hanno tinto tutti i loro abiti[0x000A]e accessori di rosso![0x000A][0x000A]Suggerimenti:[0x000A]･Rosso pastello[0x000A]･Rosso scuro[0x000A]･Rosso acceso
+Trova le persone che hanno tinto tutti i loro abiti[0x000A]e accessori di verde![0x000A][0x000A]Suggerimenti:[0x000A]･Verde pastello[0x000A]･Verde scuro[0x000A]･Verde acceso
+Trova le persone che hanno tinto tutti i loro abiti[0x000A]e accessori di arancione![0x000A][0x000A]Suggerimenti:[0x000A]･Arancione pastello[0x000A]･Arancione scuro[0x000A]･Arancione acceso
+Trova le persone che hanno tinto tutti i loro abiti[0x000A]e accessori di viola![0x000A][0x000A]Suggerimenti:[0x000A]･Viola pastello[0x000A]･Viola scuro[0x000A]･Viola acceso
+Trova le persone che hanno tinto tutti i loro abiti[0x000A]e accessori di giallo![0x000A][0x000A]Suggerimenti:[0x000A]･Giallo pastello[0x000A]･Giallo scuro[0x000A]･Giallo acceso
+Trova le persone che hanno tinto tutti i loro abiti[0x000A]e accessori di azzurro![0x000A][0x000A]Suggerimenti:[0x000A]･Azzurro pastello[0x000A]･Azzurro scuro[0x000A]･Azzurro acceso
+Trova le persone che hanno tinto tutti i loro abiti[0x000A]e accessori di blu![0x000A][0x000A]Suggerimenti:[0x000A]･Blu pastello[0x000A]･Blu scuro[0x000A]･Blu acceso
+Trova le persone che hanno tinto tutti i loro abiti[0x000A]e accessori di rosa![0x000A][0x000A]Suggerimenti:[0x000A]･Rosa pastello[0x000A]･Rosa scuro[0x000A]･Rosa acceso
+Ripassiamo le compatibilità tra i tipi![0x000A][0x000A]Dovrai indicare un tipo superefficace contro[0x000A]il Pokémon nemico.
+{0xBDFF:0x00BF}
+Ripassiamo le compatibilità tra i tipi nella Lotta[0x000A]Inversa![0x000A][0x000A]Dovrai indicare un tipo superefficace contro[0x000A]il Pokémon nemico... ma ricorda:[0x000A]in una Lotta Inversa le compatibilità tra i tipi[0x000A]sono invertite rispetto al solito!
+{0xBDFF:0x00C1}
+Trova le persone che amano i Pokémon di tipo[0x000A]Normale e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che si incontrano[0x000A]spesso ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Fuoco e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che si incontrano[0x000A]spesso ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Acqua e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che si incontrano[0x000A]spesso ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Elettro e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che si incontrano[0x000A]spesso ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Erba e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che si incontrano[0x000A]spesso ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Ghiaccio e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che si incontrano[0x000A]spesso ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Lotta e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che si incontrano[0x000A]spesso ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Veleno e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che si incontrano[0x000A]spesso ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Terra e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che si incontrano[0x000A]spesso ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Volante e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che si incontrano[0x000A]spesso ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Psico e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che si incontrano[0x000A]spesso ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Coleottero e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che si incontrano[0x000A]spesso ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Roccia e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che si incontrano[0x000A]spesso ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Spettro e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che si incontrano[0x000A]spesso ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Drago e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che si incontrano[0x000A]spesso ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Buio e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che si incontrano[0x000A]spesso ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Acciaio e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che si incontrano[0x000A]spesso ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Folletto e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che si incontrano[0x000A]spesso ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Normale e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che non si incontrano[0x000A]ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Fuoco e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che non si incontrano[0x000A]ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Acqua e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che non si incontrano[0x000A]ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Elettro e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che non si incontrano[0x000A]ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Erba e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che non si incontrano[0x000A]ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Ghiaccio e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che non si incontrano[0x000A]ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Lotta e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che non si incontrano[0x000A]ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Veleno e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che non si incontrano[0x000A]ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Terra e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che non si incontrano[0x000A]ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Volante e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che non si incontrano[0x000A]ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Psico e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che non si incontrano[0x000A]ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Coleottero e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che non si incontrano[0x000A]ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Roccia e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che non si incontrano[0x000A]ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Spettro e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che non si incontrano[0x000A]ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Drago e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che non si incontrano[0x000A]ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Buio e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che non si incontrano[0x000A]ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Acciaio e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che non si incontrano[0x000A]ad Alola.
+Trova le persone che amano i Pokémon di tipo[0x000A]Folletto e salutale![0x000A][0x000A]Per aiutarti nell’impresa, cerca i giocatori[0x000A]che parlano di Pokémon che non si incontrano[0x000A]ad Alola.
+Acchiappali tutti!
+Scambiamo sulla GTS!
+Incubatrice di Uova!
+Piantagione di Pokégioli!
+Divertimento nel Festiplaza!
+Indagini sul campo con lo Scanner isola!
+Alla conquista dell’Agenzia Lotta!
+Divertiti con il Surf Mantine!
+Pesca miracolosa!
+Alla conquista della Battle Royale!
+Evoluzioni à gogo!
+Pioggia di PL all’Albero della Lotta!
+Cattura più Pokémon selvatici possibile durante il periodo[0x000A]di svolgimento del minigioco!
+Fai più scambi possibile nella GTS durante il periodo[0x000A]di svolgimento del minigioco!
+Fai schiudere più Uova possibile durante il periodo[0x000A]di svolgimento del minigioco!
+Raccogli più Pokégioli possibile nel Poké Resort durante[0x000A]il periodo di svolgimento del minigioco!
+Spendi più festigettoni possibile durante[0x000A]il periodo di svolgimento del minigioco!
+Usa lo Scanner isola per scovare quanti più[0x000A]Pokémon possibile!
+Vinci più sfide possibile all’Agenzia Lotta del Festiplaza[0x000A]durante il periodo di svolgimento del minigioco!
+Ottieni più Punti Lido possibile con il Surf Mantine[0x000A]durante il periodo di svolgimento del minigioco!
+Pesca più Pokémon possibile durante il periodo[0x000A]di svolgimento del minigioco!
+Vinci più Battle Royale possibile durante il periodo[0x000A]di svolgimento del minigioco!
+Fai evolvere più Pokémon possibile durante il periodo[0x000A]di svolgimento del minigioco!
+Ottieni più PL possibile all’Albero della Lotta durante[0x000A]il periodo di svolgimento del minigioco!
+Sì
+No
+{0x0201,0x0000}:{0x0201,0x0001}
+Calcolo in corso.
+Non puoi partecipare a questo minigioco globale.[0x000A]Il periodo di svolgimento è terminato.{0xBE01}
+{0xBDFF:0x0103}
+{0xBDFF:0x0104}
+{0xBDFF:0x0105}
+{0xBDFF:0x0106}
+{0xBDFF:0x0107}
+{0xBDFF:0x0108}
+{0xBDFF:0x0109}
+{0xBDFF:0x010A}
+{0xBDFF:0x010B}
+{0xBDFF:0x010C}

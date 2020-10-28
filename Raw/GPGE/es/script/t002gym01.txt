@@ -1,0 +1,8 @@
+msg_t002gym01_gym_01=¡Hola, Campe{0x1100,0x00FF,0x0302}ónona en ciernes!{0xBE01}[0x000A]¿Quieres saber quién está al mando del[0x000A]Gimnasio de Ciudad Verde?{0xBE01}[0x000A]¡Pues yo también querría saberlo! ¡No tengo ni[0x000A]idea! Pero alguien como tú, con nada menos{0xBE00}[0x000A]que {0xFF00,0x0006}siete medallas{0xFF00,0x0000} en su haber, puede afrontar{0xBE00}[0x000A]el reto para tratar de averiguarlo.{0xBE01}[0x000A]Lo que sí puedo asegurarte es que será un[0x000A]combate mucho más reñido que cualquiera que{0xBE00}[0x000A]hayas librado hasta el momento.{0xBE01}[0x000A]Y un último apunte: los Entrenadores de este[0x000A]gimnasio usan Pokémon de tipo Tierra.
+msg_t002gym01_gym_02=¡¿Qué me dices?! ¿Que el Líder de Gimnasio[0x000A]era Giovanni? ¡Como está tan oscuro no me{0xBE00}[0x000A]había dado cuenta!
+msg_t002gym01_gym_03=¡Tenemos nuevo líder en el Gimnasio de Ciudad[0x000A]Verde!
+msg_t002gym01_green_01={0xFF00,0x0009}Azul:{0xFF00,0x0000} Vaya, ¿has venido expresamente a[0x000A]saludarme?{0xBE01}[0x000A]Ahora que soy Líder de Gimnasio, ¡les apretaré[0x000A]las clavijas a los Entrenadores de Kanto a base{0xBE00}[0x000A]de combates!
+msg_t002gym01_poke_01={0xFF00,0x0009}Persian:{0xFF00,0x0000} Perrr...
+msg_t002gym01_statue_01=Gimnasio Pokémon de Ciudad Verde
+msg_t002gym01_statue_02=Gimnasio Pokémon de Ciudad Verde[0x000A]Líder: Giovanni{0xBE01}[0x000A]Entrenadores reconocidos: {0x0100,0x0000}
+msg_t002gym01_statue_03=Gimnasio Pokémon de Ciudad Verde{0xBE01}[0x000A]Líder: Giovanni[0x000A]Entrenadores reconocidos: {0x0100,0x0000}{0xBE01}[0x000A]Líder: Azul[0x000A]Entrenadores reconocidos: {0x0100,0x0001}

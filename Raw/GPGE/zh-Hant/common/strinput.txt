@@ -1,0 +1,11 @@
+msg_strinput_01_01={0x1100,0x00FF,0x0101}你妳的名字是？
+msg_strinput_01_02={0x0101,0x0000}的暱稱是？
+msg_strinput_01_03=請輸入序號／密語。
+msg_strinput_01_04={0x1100,0x00FF,0x0101}你妳的勁敵的名字是？
+msg_strinput_01_05=請輸入名字。
+msg_strinput_NG_00=名字中包含無法使用的字詞。
+msg_strinput_NG_01={0xBDFF:0x0006}
+msg_strinput_NG_02={0xBDFF:0x0007}
+msg_strinput_NG_04=請輸入名字。
+msg_strinput_NG_05=所輸入的資料無效。
+msg_strinput_NG_06=無法使用「{0x012D,0x0000}」命名。

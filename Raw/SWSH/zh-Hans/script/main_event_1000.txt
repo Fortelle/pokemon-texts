@@ -1,0 +1,11 @@
+main_event_1000_leader_01=……我是欧尼奥。{0x0114,0x0012}
+main_event_1000_leader_02=……我、我要上了。{0x0114,0x0012}
+main_event_1000_leader_03=……厉害！{0x0114,0x0012}
+main_event_1000_leader_04=……太强了。{0x0114,0x0012}
+main_event_1000_leader_05=这是幽灵徽章……{0x0114,0x0012}
+main_event_1000_badge_01=可以捕捉等级４０以下的宝可梦了！
+main_event_1000_leader_06=加、加油！{0x0114,0x0012}
+main_event_1000_npc_01={0x0100,0x0000}，[0x000A]恭喜你战胜了道馆馆主欧尼奥……{0xBE01}[0x000A]作为纪念，[0x000A]请收下这个招式学习器……
+main_event_1000_npc_03=这套幽灵属性的竞技服……[0x000A]也送给你留作纪念……
+main_event_1000_npc_02=幽灵徽章很适合你……[0x000A]{0x0100,0x0000}，请再接再厉……
+main_event_1000_system_01=你要回到报到处吗？

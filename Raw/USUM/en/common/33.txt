@@ -1,0 +1,111 @@
+Use the GTS to deposit a Pokémon to the[0x000A]server and trade Pokémon with people[0x000A]all over the world![0x000A][0x000A]・ Seek Pokémon[0x000A]Pokémon will be traded if you can deposit a[0x000A]Pokémon that a trade partner wants.[0x000A]・ Deposit Pokémon[0x000A]Pokémon will be traded if a trade partner can[0x000A]deposit a Pokémon that you want.
+Checking the GTS’s status...
+The Pokémon you deposited was traded!{0xBE01}
+Welcome to the GTS![0x000A]What would you like to do?
+Your deposited Pokémon came back!{0xBE01}
+{0xBD02}Attention![0x000A][0x000A]{0xBD02}If a communication error occurs or your system[0x000A]{0xBD02}gets turned off while you are trading, you won’t[0x000A]{0xBD02}be able to trade Pokémon for a while.
+Would you like to quit the GTS?
+Please choose a Pokémon you want.{0xBE01}
+No Pokémon was found.{0xBE01}
+What kind of Pokémon are you seeking?
+Please choose its gender.
+Please choose its level.
+Do you want to include people who are seeking[0x000A]Mythical or Legendary Pokémon?
+No result was found with these conditions!{0xBE01}
+Please select who you wish to trade with.
+Communicating...[0x000A]Please wait a moment.
+Searching for the Pokémon you want...
+There is a problem with this Pokémon.{0xBE01}
+This Pokémon has already been traded.{0xBE01}
+Will you take {0x0102,0x0000}?
+You cannot select a gender when you enter[0x000A]a name.{0xBE01}
+Please select conditions.
+Filter by Pokémon desired.
+Filter by region.
+You must decide which Pokémon you want[0x000A]before depositing your Pokémon.{0xBE01}
+Searching for more matches...[0x000A]Please wait.
+Choose the Pokémon that you want.{0xBE01}
+No Pokémon was found by the further search.{0xBE01}[0x000A]The search result has been updated.{0xBE01}
+No Pokémon was found by the further search.{0xBE01}[0x000A]Please choose a Pokémon again.{0xBE01}
+{0xBDFF:0x001D}
+{0xBDFF:0x001E}
+{0xBDFF:0x001F}
+{0xBDFF:0x0020}
+Please select a message you would like to share[0x000A]with your trade partner.
+{0xBD02}Attention![0x000A][0x000A]{0xBD02}If a communication error occurs or your[0x000A]{0xBD02}system gets turned off while you are[0x000A]{0xBD02}depositing a Pokémon, you won’t be able[0x000A]{0xBD02}to trade Pokémon for a while.
+{0xBD02}Attention![0x000A][0x000A]{0xBD02}If a communication error occurs or your[0x000A]{0xBD02}system gets turned off while you are[0x000A]{0xBD02}taking back a Pokémon, you won’t be[0x000A]{0xBD02}able to trade Pokémon for a while.
+Communicating...[0x000A]Please wait a moment.
+Please choose a Pokémon you want.
+Seek Pokémon
+Deposit Pokémon
+Summary of {0x0102,0x0000}
+Pokémon wanted
+{0x0101,0x0000}
+Gender
+Level
+Options
+Search with these conditions!
+Quit
+ 
+Any
+{0xBDFF:0x0032}
+{0xBDFF:0x0033}
+Any
+1 to 10
+11 to 20
+21 to 30
+31 to 40
+41 to 50
+51 to 60
+61 to 70
+71 to 80
+81 to 90
+91 or higher
+What Pokémon?
+Include
+Don’t include
+Pokémon the person wants
+Any
+Pokémon you have
+Region
+Same as your region
+Different from your region
+Filter with these conditions.
+Take back
+Quit
+Seek Pokémon
+{0x0100,0x0000}
+{0x0124,0x0000}
+{0x0125,0x0000}
+Pokémon Deposited in the GTS
+{0x0102,0x0000}
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+l
+{0xBDFF:0x0054}
+Held Item
+None
+{0x0109,0x0000}
+<{0x0100,0x0000}’s message>
+{0x0202,0x0000}
+{0x0202,0x0000}
+Confirm
+Please trade Pokémon with me.[0x000A]Thanks in advance.
+I want to trade for a Pokémon that will help[0x000A]me with my adventure.
+I want to trade for a Pokémon that is strong[0x000A]in battles.
+I want to trade for a treasured Pokémon that[0x000A]has been raised from an Egg.
+I want to fill my Pokédex.
+I want to fill my Pokédex with other languages.
+I want to trade for one of your precious[0x000A]Pokémon you’ve given a nickname to.
+This is a Pokémon I raised very carefully.[0x000A]Please trade with me if you’d like.
+This is a Pokémon that just hatched.[0x000A]Please raise it carefully.
+This is a Pokémon that I raised so that it will do[0x000A]great in battles.
+This is a Pokémon with great potential.[0x000A]Please raise it if you’d like.
+{0xBDFF:0x0067}
+{0xBDFF:0x0068}
+{0xBDFF:0x0069}
+{0xBDFF:0x006A}
+{0xBDFF:0x006B}
+{0xBDFF:0x006C}
+{0xBDFF:0x006D}
+{0xBDFF:0x006E}

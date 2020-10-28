@@ -1,0 +1,17 @@
+msg_sub020_sys_01=Das Pokémon schläft tief und fest.
+msg_sub020_sys_02=Möchtest du auf der Pokéflöte spielen?
+msg_sub020_sys_03=Du spielst auf der Pokéflöte.
+msg_sub020_sys_04=Relaxo ist aufgewacht!
+msg_sub020_sys_07=Relaxo schaut dich mit hungrigen Augen an...
+msg_sub020_fuji_01={0xFF00,0x0009}???:{0xFF00,0x0000} {0x0100,0x0000}!
+msg_sub020_fuji_02={0xFF00,0x0009}Mr. Fuji: {0xFF00,0x0000}Ich habe vergessen, dir etwas zu sagen,[0x000A]als ich dir die Pokéflöte gegeben habe...
+msg_sub020_fuji_03=Oha! Sieht so aus, als käme ich genau im[0x000A]richtigen Augenblick.
+msg_sub020_fuji_05=Es geht nämlich um Relaxo!{0xBE01}[0x000A]Wenn ein Relaxo aufwacht, hält es das Erste,[0x000A]was es sieht, für Nahrung und stürzt sich darauf.
+msg_sub020_fuji_06=Glaub mir, so was kann übel enden.{0xBE01}[0x000A]Deshalb solltest du versuchen, es so schnell wie[0x000A]möglich zu besänftigen.{0xBE01}[0x000A]Und zwar, indem du gegen es kämpfst!
+msg_sub020_fuji_07=Sobald du es besiegt hast, beruhigt es sich[0x000A]wieder und lässt sich wie gewohnt fangen.
+msg_sub020_sys_06=Relaxo ist brummig und greift verschlafen an!
+msg_sub020_sys_05=Relaxo hat sich wieder beruhigt.[0x000A]Es gähnt und stapft in die Berge zurück.
+msg_sub020_fuji_08={0xFF00,0x0009}Mr. Fuji:{0xFF00,0x0000} Gute Arbeit, {0x0100,0x0000}![0x000A]Das war beeindruckend!
+msg_sub020_fuji_09={0xFF00,0x0009}Mr. Fuji:{0xFF00,0x0000} Ach, wie schade...
+msg_sub020_fuji_10=Du wirst immer mal wieder Pokémon wie Relaxo[0x000A]begegnen, die dich unvermittelt angreifen.{0xBE01}[0x000A]Stell dich ihnen zum Kampf und besiege sie.[0x000A]Erst dann kannst du sie fangen.{0xBE01}[0x000A]Verstanden? Erst besiegen, dann fangen.
+msg_sub020_fuji_11=Also dann! Ich mache mich wieder auf den Weg.

@@ -1,0 +1,80 @@
+Die SD Card wird überprüft...[0x000A]Bitte das System nicht ausschalten.
+Die auf der SD Card gespeicherten Kampfregeln[0x000A]waren fehlerhaft und wurden daher gelöscht.{0xBE01}
+Daten werden gesucht...[0x000A]Bitte warte einen Moment.
+{0xBDFF:0x0003}
+Es wurden keine Daten gefunden.{0xBE01}
+Willst du die Suche nach Daten abbrechen?
+{0x0123,0x0000}[0x000A]wurde ausgewählt. Was nun?
+Diese Daten wurden bereits heruntergeladen.{0xBE01}
+Daten werden auf der SD Card gespeichert...[0x000A]Bitte das System nicht ausschalten.
+{0x0123,0x0000}[0x000A]wurde auf der SD Card gespeichert.{0xBE01}
+Für zusätzliche Kampfregeln ist kein Platz mehr.[0x000A]Willst du andere Kampfregeln löschen?
+Bitte wähle aus, welche Daten gelöscht[0x000A]werden sollen.{0xBE01}
+Möchtest du das Löschen von Daten[0x000A]abbrechen?
+{0x0123,0x0000}[0x000A]wird gelöscht. Einverstanden?
+Daten werden gelöscht...[0x000A]Bitte das System nicht ausschalten.
+{0x0123,0x0000}[0x000A]wurde von der SD Card entfernt.{0xBE01}[0x000A]Bitte wähle, welche Kampfregeln[0x000A]neu hinzugefügt werden sollen.{0xBE01}
+{0x0123,0x0000}[0x000A]wurde ausgewählt. Einverstanden?
+Möchtest du das Auswählen neuer[0x000A]Kampfregeln abbrechen?
+Mindestens ein Spieler verwendet eine[0x000A]Software-Version, die nicht mit diesen{0xBE00}[0x000A]Kampfregeln kompatibel ist.{0xBE01}[0x000A]Bitte wähle andere Kampfregeln aus.{0xBE01}
+Unzureichender Speicherplatz auf der SD Card.[0x000A]Die Daten können nicht heruntergeladen werden.{0xBE01}[0x000A]Bitte beende diese Software, schalte das[0x000A]System aus und wieder an und schaffe Platz{0xBE00}[0x000A]auf deiner SD Card.{0xBE01}
+Unzureichender Speicherplatz auf der SD Card.{0xBE01}[0x000A]Willst du Kampfregeln löschen, die momentan[0x000A]auf der SD Card gespeichert sind?
+Unzureichender Speicherplatz auf der SD Card.{0xBE01}[0x000A]Willst du Kampfregeln löschen, die momentan[0x000A]auf der SD Card gespeichert sind?
+Ja
+Nein
+Herunterladen
+Infos
+Zurück
+Löschen
+O.K.
+Infos
+Keine Einschränkungen
+{0x0200,0x0000}
+Mindestens Lv. {0x0202,0x0000}
+{0x0200,0x0000} bis {0x0200,0x0001}
+Alle auf Lv. {0x0202,0x0000}
+Höchstens Lv. {0x0202,0x0000}, sonst ↓
+Erlaubt
+Verboten
+Erlaubt
+Verboten
+Pokémon-Anzahl:
+Level der Pokémon:
+Besondere Pokémon:
+Doppelte Pokémon:
+Doppelte Items:
+Einzelkampf
+Doppelkampf
+Multikampf
+Battle Royale
+Normale Regeln
+Strenge Regeln
+Keine Einschränkungen
+Kampfbaum
+Battle Royale
+{0x0200,0x0000}
+/
+Höchstens Lv. {0x0202,0x0000}
+Mindestens Lv. {0x0202,0x0000}, sonst ↑
+Einzelkampf
+Doppelkampf
+Multikampf
+Super-Einzelkampf
+Super-Doppelkampf
+Super-Multikampf
+Normal-Rang
+Super-Rang
+Hyper-Rang
+Meister-Rang
+Bei Kämpfen mit normalen Regeln werden alle Pokémon[0x000A]auf Level 50 gesetzt.
+Bei Kämpfen mit strengen Regeln werden alle Pokémon[0x000A]über Level 50 auf Level 50 zurückgesetzt.
+Bei Kämpfen ohne Einschränkungen behalten alle Pokémon[0x000A]ihren Level bei.
+Bei Kämpfen im Kampfbaum werden alle Pokémon[0x000A]über Level 50 auf Level 50 zurückgesetzt.
+Beim Battle Royale werden alle Pokémon über Level 50[0x000A]auf Level 50 zurückgesetzt.
+Nicht zulässige Pokémon:[0x000A][0x000A]{0x0101,0x0000}　{0x0101,0x0001}[0x000A]{0x0101,0x0002}　{0x0101,0x0003}[0x000A]{0x0101,0x0004}　{0x0101,0x0005}[0x000A]{0x0101,0x0006}　{0x0101,0x0007}[0x000A]{0x0101,0x0008}　{0x0101,0x0009}[0x000A]{0x0101,0x000A}　{0x0101,0x000B}[0x000A]{0x0101,0x000C}　{0x0101,0x000D}[0x000A]{0x0101,0x000E}　{0x0101,0x000F}
+Nicht zulässige Items:[0x000A][0x000A]{0x0109,0x0000}　{0x0109,0x0001}[0x000A]{0x0109,0x0002}　{0x0109,0x0003}[0x000A]{0x0109,0x0004}　{0x0109,0x0005}[0x000A]{0x0109,0x0006}　{0x0109,0x0007}[0x000A]{0x0109,0x0008}　{0x0109,0x0009}[0x000A]{0x0109,0x000A}　{0x0109,0x000B}[0x000A]{0x0109,0x000C}　{0x0109,0x000D}[0x000A]{0x0109,0x000E}　{0x0109,0x000F}
+Nicht zulässige Attacken:[0x000A][0x000A]{0x0107,0x0000}　{0x0107,0x0001}[0x000A]{0x0107,0x0002}　{0x0107,0x0003}[0x000A]{0x0107,0x0004}　{0x0107,0x0005}[0x000A]{0x0107,0x0006}　{0x0107,0x0007}[0x000A]{0x0107,0x0008}　{0x0107,0x0009}[0x000A]{0x0107,0x000A}　{0x0107,0x000B}[0x000A]{0x0107,0x000C}　{0x0107,0x000D}[0x000A]{0x0107,0x000E}　{0x0107,0x000F}
+Nicht zulässige Pokémon:[0x000A][0x000A]---
+Nicht zulässige Items:[0x000A][0x000A]---
+Nicht zulässige Attacken:[0x000A][0x000A]---
+Mehr Informationen über das Regelwerk[0x000A]kannst du auf der Internetseite des[0x000A]Pokémon Global Links finden:[0x000A]{0xBD00,0x0003,0x0000,0x0000}http://www.pokemon-gl.com/{0xBD01}[0x000A][0x000A]Scannst du mit einem Gerät, das QR Code-Bilder[0x000A]einlesen kann, den QR Code auf der nächsten[0x000A]Seite ein, wirst du direkt zur zugehörigen Seite[0x000A]im Internet weitergeleitet.

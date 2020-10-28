@@ -1,0 +1,13 @@
+tokkun_01_01={0x0109,0x0000}
+tokkun_02_01={0x0202,0x0000}
+tokkun_02_02=/
+tokkun_03_01=PV
+tokkun_03_02=Attaque
+tokkun_03_03=Défense
+tokkun_03_04=Atq. Spé.
+tokkun_03_05=Déf. Spé.
+tokkun_03_06=Vitesse
+tokkun_03_08=Début de l’entraînement !
+tokkun_10_01=Impossible d’augmenter cette stat davantage !{0xBE01}
+tokkun_10_02=Vous n’avez plus {0x1408,0x0000,0x0000}{0x0109,0x0000}.{0xBE01}
+tokkun_04_01=Retour

@@ -1,0 +1,7 @@
+msg_sub002_middlem_01={0xFF00,0x0009}Vieil homme :{0xFF00,0x0000} Bonjour, l’ami ! J’ai une super[0x000A]affaire à te proposer !{0xBE01}[0x000A]Je t’offre un Magicarpe pour juste 500 [0xE300] ![0x000A]Qu’en dis-tu ?
+msg_sub002_middlem_02={0xFF00,0x0009}Vieil homme :{0xFF00,0x0000} Bonjour, l’amie ! J’ai une super[0x000A]affaire à te proposer !{0xBE01}[0x000A]Je t’offre un Magicarpe pour juste 500 [0xE300] ![0x000A]Qu’en dis-tu ?
+msg_sub002_sys_01=Vous vous faites avoir et achetez le Magicarpe...
+msg_sub002_middlem_03=Non ? Allez ! C’est un service que j’te rends !
+msg_middlem1_01_p04_r004_r0101={0xBDFF:0x0004}
+msg_sub002_middlem_04=T’es à sec, c’est vraiment dommage !
+msg_sub002_middlem_05={0xFF00,0x0009}Vieil homme :{0xFF00,0x0000} Ni repris, ni échangé !

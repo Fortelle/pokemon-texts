@@ -1,0 +1,21 @@
+Bonjour[0xE07F]!{0xBE01}[0x000A]J’ai quelque chose pour vous qui[0x000A]vient du Pokémon Global Link.
+Bonjour[0xE07F]!{0xBE01}[0x000A]J’ai quelque chose pour vous qui[0x000A]vient du Pokémon Global Link.
+Bonsoir[0xE07F]!{0xBE01}[0x000A]J’ai quelque chose pour vous qui[0x000A]vient du Pokémon Global Link.
+Je n’ai rien pour vous qui viendrait[0x000A]du Pokémon Global Link.{0xBE01}[0x000A]J’espère que vous repasserez bientôt.
+Mais[0xE07F]?! Votre Sac est plein[0xE07F]![0x000A]Revenez donc quand vous aurez fait un peu de tri[0xE07F]!
+J’attendrai que vous passiez prendre la livraison[0xE08D]
+J’ai encore des choses pour vous,[0x000A]mais votre Sac est plein.{0xBE01}[0x000A]Revenez donc quand vous aurez fait[0x000A]un peu de tri[0xE07F]!
+{0x0100,0x0000} a réceptionné {0x0202,0x0001} colis[0xE07F]!
+{0xBDFF:0x0008}
+Contenu de la livraison :
+{0x0202,0x0001} {0x0109,0x0000}[0x000A]{0x0202,0x0003} {0x0109,0x0002}
+{0x0202,0x0001} {0x0109,0x0000}
+Il y a donc {0x0202,0x0001} objet{0x1101,0x0001,0x0100}s en tout.
+J’ai {0x0202,0x0000} colis pour vous.[0x000A]Voulez-vous en vérifier le contenu[0xE07F]?
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+Réceptionner
+Voir le contenu
+Retour
+Oui
+Non

@@ -1,0 +1,153 @@
+See, {0x0100,0x0000}?[0x000A]Isn’t it nice in here, too?
+The moving company’s Pokémon even[0x000A]help with the unpacking and cleanup.{0xBE00}[0x000A]They really make moving a cinch!
+Well, {0x0100,0x0000}?{0xBE01}[0x000A]Don’t you want to go[0x000A]see your new room?
+{0x0100,0x0000}, go set the clock[0x000A]in your room, honey.{0xBE01}[0x000A]I hung it on the wall, right between[0x000A]your desk and that big map.
+Oh! {0x0100,0x0000}! {0x0100,0x0000}!!![0x000A]Quick! Come quickly!
+It’s the Petalburg Gym![0x000A]Maybe Dad will be on TV!
+Interviewer: ...
+Interviewer: We brought you this report live from[0x000A]in front of Petalburg Gym.{0xBE01}[0x000A]Next up, a special look at a long-awaited meteor shower[0x000A]in the next star show...
+Oh... It’s already ended.{0xBE01}[0x000A]Looks like your dad was on, but we missed his part.{0xBE01}[0x000A]What a shame.
+But that reminds me...[0x000A]One of Dad’s friends lives in this town.{0xBE01}[0x000A]{0xFF00,0x0002}Professor Birch{0xFF00,0x0000} is his name.{0xBE01}[0x000A]He lives {0xFF00,0x0002}right next door{0xFF00,0x0000}, so you should go over and[0x000A]introduce yourself.
+{0xFF00,0x0002}Professor Birch lives right next door{0xFF00,0x0000}.[0x000A]Your dad would want you to go say hi.{0xBE00}[0x000A]Go stop by while I clean up around here.
+Did you get to meet Professor Birch?
+You feeling OK, {0x0100,0x0000}?[0x000A]You look a little tired.{0xBE01}[0x000A]I think you should rest a bit.
+Now take care out there, honey!
+Oh? Did Dad give you that Badge?!{0xBE01}[0x000A]Then here’s something from your mom!
+It’s a wonderful thing to try hard at your passion,[0x000A]but don’t push yourself too hard, dear.{0xBE01}[0x000A]You can always come home if you need to.[0x000A]Good luck, honey!
+Graoh, graoh, graoh...
+Gwagwah gwah...
+A movie is on TV.{0xBE01}[0x000A]Two men are dancing[0x000A]on a big piano keyboard.{0xBE01}[0x000A]Better get going!
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+Oh, hello. And you are?{0xBE01}[0x000A]...{0xBE01}[0x000A]Oh, you’re {0x0100,0x0000},[0x000A]our new next-door neighbor! Welcome!{0xBE01}[0x000A]We have a daughter about the same age as you.{0xBE01}[0x000A]She has been so excited about making a new friend.{0xBE01}[0x000A]She should be in {0xFF00,0x0002}her room upstairs{0xFF00,0x0000}.[0x000A]I hope you’ll go and introduce yourself!
+Oh, hello. And you are?{0xBE01}[0x000A]...{0xBE01}[0x000A]Oh, you’re {0x0100,0x0000},[0x000A]our new next-door neighbor! Welcome!{0xBE01}[0x000A]We have a son who is just about the same age as you.{0xBE01}[0x000A]He has been so excited about making a new friend.{0xBE01}[0x000A]He should be in {0xFF00,0x0002}his room upstairs{0xFF00,0x0000}.[0x000A]I hope you’ll go and introduce yourself!
+I do hope you’ll be[0x000A]friends with my {0x1100,0x00FF,0x0308}daughterson.{0xBE01}[0x000A]{0x1100,0x00FF,0x0102}ShHe should be upstairs.[0x000A]Go on up and say hi.
+Where is that husband of mine?[0x000A]It was so good of you to visit, {0x0100,0x0000},{0xBE00}[0x000A]and yet he’s nowhere to be found!
+Where is that husband of mine?[0x000A]It was so good of you to visit, {0x0100,0x0000},{0xBE00}[0x000A]and yet he’s nowhere to be found!
+Oh? If it’s May you’re wanting,[0x000A]she’s gone off somewhere again.{0xBE01}[0x000A]That child is just like her father![0x000A]Can’t stay in the house for five minutes!
+Oh? If it’s Brendan you’re wanting,[0x000A]he’s gone off somewhere again.{0xBE01}[0x000A]That child is just like his father![0x000A]Can’t stay in the house for five minutes!
+It’s all well and good to want to[0x000A]adventure with your Pokémon...{0xBE01}[0x000A]But kids should at least stop by[0x000A]home from time to time!{0xBE01}[0x000A]You should drop by to reassure[0x000A]your mother that you’re fine.{0xBE01}[0x000A]I’m sure your mother worries[0x000A]about you as well, {0x0100,0x0000}.
+It’s all well and good to want to[0x000A]adventure with your Pokémon...{0xBE01}[0x000A]But kids should at least stop by[0x000A]home from time to time!{0xBE01}[0x000A]You should drop by to reassure[0x000A]your mother that you’re fine.{0xBE01}[0x000A]I’m sure your mother worries[0x000A]about you as well, {0x0100,0x0000}.
+{0xBDFF:0x0021}
+The clock on the wall isn’t moving...{0xBE01}[0x000A]You’ve got to set the time!
+Now the hands are moving right on time!
+It’s a pretty cool wall clock!
+It’s a pretty cute wall clock!
+How do you like your new room, {0x0100,0x0000}?{0xBE01}[0x000A]Good! Everything’s put away neatly!{0xBE01}[0x000A]They finished moving everything in downstairs, too.{0xBE01}[0x000A]It really is so nice having Pokémon around to help us!{0xBE01}[0x000A]Oh, but you should make sure that everything’s all there[0x000A]on your desk.
+{0xBDFF:0x0027}
+{0xBDFF:0x0028}
+{0x0100,0x0000}’s notebook is full of[0x000A]adventure rules {0x1100,0x0000,0x0100}she jotted down!{0xBE01}[0x000A]ADVENTURE RULE NO. 1[0x000A]Open the menu with the X Button.{0xBE01}[0x000A]ADVENTURE RULE NO. 2[0x000A]Record your progress with Save.
+{0x0100,0x0000} peered closely at[0x000A]the Hoenn region’s Town Map!
+It’s a Wii U![0x000A]It has a GamePad with a screen!
+Pokémon fully restored,[0x000A]items all ready, and...
+Huh?!{0xBE01}[0x000A]Who...are you?
+...
+Oh! You must be {0x0100,0x0000}![0x000A]Your move was today, huh?
+Well, I’m May![0x000A]Glad to meet you!
+I...I actually have this dream of becoming[0x000A]friends with Pokémon all over the world.
+And then when Dad—oh, I mean Professor Birch—[0x000A]told me about you moving here, {0x0100,0x0000}...{0xBE01}[0x000A]Well, I was hoping you would be nice[0x000A]and we could be friends.
+...B-but that’s just silly, isn’t it?{0xBE01}[0x000A]I’ve just met you. Right, {0x0100,0x0000}?{0xBE01}[0x000A]So what am I talking about...
+Hee hee...
+Oh no! I forgot!{0xBE01}[0x000A]I was supposed to be going out to[0x000A]help Dad catch some wild Pokémon!
+{0x0100,0x0000}, I’ll see you later!
+{0x0100,0x0000}!{0xBE01}[0x000A]I was just checking my Pokédex.{0xBE01}[0x000A]There’s still a lot of Pokémon that[0x000A]I’ve seen but haven’t caught.{0xBE01}[0x000A]And there are plenty more that[0x000A]I think can still evolve further.{0xBE01}[0x000A]I wonder where I should go[0x000A]next to catch more Pokémon...
+I wonder where I should go[0x000A]next to catch more Pokémon...{0xBE01}[0x000A]Hopefully somewhere that I might[0x000A]run into you again, {0x0100,0x0000}!
+Pokémon fully restored...[0x000A]Items all packed, and...
+Y-you...{0xBE01}[0x000A]Who are you?
+{0x0100,0x0000}?{0xBE01}[0x000A]Oh, you’re the new kid who just moved in next door?!
+Huh...[0x000A]I didn’t know that you’d be a girl.
+Dad—I mean, Professor Birch—told me[0x000A]you were the kid of a Gym Leader,{0xBE00}[0x000A]and I sort of hoped you’d be a guy.
+My name’s Brendan.[0x000A]Well, I guess we are still neighbors, so...{0xBE00}[0x000A]Nice to meet you! Let’s be friends, OK?
+Huh? Hey, {0x0100,0x0000}...[0x000A]Don’t you have any Pokémon?{0xBE01}[0x000A]If you want, I can go catch you one.
+Aw, wait, I forgot...{0xBE01}[0x000A]I’m supposed to be going out to help my dad catch[0x000A]some wild Pokémon.
+Some other time, OK?
+Oh! Hey, {0x0100,0x0000}!{0xBE01}[0x000A]I was just checking out my Pokédex.{0xBE01}[0x000A]I know there are even more Pokémon I need[0x000A]to catch, but it’s still pretty impressive, right?{0xBE01}[0x000A]Checking this Pokédex out gives me the urge[0x000A]to hit the road again on another adventure...
+I’m having a hard time deciding where[0x000A]I should go to catch Pokémon next...{0xBE01}[0x000A]But, hey, if I run into you while I’m out[0x000A]there catching Pokémon, {0x0100,0x0000},{0xBE00}[0x000A]I can pitch you a battle if you want.
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}
+There are some notes on the page,[0x000A]written in cute, round script.{0xBE01}[0x000A]“★ This will be on the next test! ★{0xBE01}[0x000A]Each Pokémon can learn up to four moves![0x000A]Which moves you teach a Pokémon will{0xBE00}[0x000A]show how good of a Trainer you are!”
+There are some notes on the page,[0x000A]written in spare, angular script.{0xBE01}[0x000A]“This’ll be on the test! Don’t forget!{0xBE01}[0x000A]Each Pokémon can learn up to four moves![0x000A]Which moves you teach a Pokémon will{0xBE00}[0x000A]show how good of a Trainer you are!”
+Thanks for all the hard work![0x000A]We really appreciate it!
+You should go and see your new[0x000A]room upstairs, {0x0100,0x0000}!{0xBE01}[0x000A]Dad even bought a new clock for[0x000A]it to help celebrate the big move.{0xBE00}[0x000A]You’ll need to set the time, though!
+The hour hand was set to {0x0201,0x0000}[0x000A]and the minute hand to {0x0201,0x0001}!
+Hm?
+Why, if it isn’t {0x0100,0x0000}!{0xBE01}[0x000A]It’s been some time since I last saw you,[0x000A]but you look...stronger, somehow.{0xBE00}[0x000A]That’s the impression I get.
+But your old man hasn’t given up yet!
+Oh, and before I forget...[0x000A]I was thinking of giving these to you.
+They’re tickets to the star show that’s[0x000A]being held at the Mossdeep Space Center.{0xBE01}[0x000A]I was really planning to go with your mom, but...
+It looks like I’ve got to rush back to the Gym[0x000A]in Petalburg.
+Oh! Hmm.[0x000A]You know, it is a pair of tickets...
+Why don’t you invite that little cutie May from next door[0x000A]to come along?
+Why don’t you invite that Brendan boy from next door[0x000A]to come along?
+Now I’d better be heading back to the Gym.
+Thanks for looking after the house while I’m away, dear.
+Of course, dear. You have a safe trip.
+Ohhh, that dad of yours![0x000A]He comes home for the first time in ages,{0xBE00}[0x000A]and all he talks about is Pokémon!{0xBE01}[0x000A]Why can’t he ever just let go and relax?
+Television: ...And tomorrow the long-[0x000A]awaited star show will finally begin!{0xBE00}[0x000A]We’ve got all the latest news and updates!
+Oh? Well, and just like that...{0xBE01}[0x000A]Look at this, {0x0100,0x0000}!
+Newscaster: At last the Litleonid meteor[0x000A]shower returns to illuminate Hoenn’s night sky!{0xBE01}[0x000A]The star show held at the Mossdeep Space[0x000A]Center will provide the best view of the shooting{0xBE00}[0x000A]stars from the center’s lofty viewing deck!{0xBE01}[0x000A]We hope you all will take the chance to join...
+Oh! It sounds lovely!
+The Litleonids, hmm?{0xBE01}[0x000A]I remember going to see them with your dad[0x000A]11 years ago when they last passed by!
+You should march right over to invite that[0x000A]neighbor {0x1100,0x00FF,0x0304}girlboy you’re friends with.{0xBE01}[0x000A]You can’t let that pair of tickets you got from Dad go[0x000A]to waste—so take h{0x1100,0x00FF,0x0202}erim along!
+It’s an advertisement for the[0x000A]space show in Mossdeep.{0xBE01}[0x000A]...{0xBE01}[0x000A]Better get going!
+Ughhh...
+Owwww...
+May, are you OK?!{0xBE01}[0x000A]Oh, what should I do![0x000A]What should I do?! Oh, wibble...
+Brendan, are you OK?!{0xBE01}[0x000A]Oh, what should I do![0x000A]What should I do?! Oh, wibble...
+It’s not that big of a deal, Mom.[0x000A]She just knocked me down a bit...{0xBE00}[0x000A]Yowch! That stings!
+It’s not that big of a deal, Mom.[0x000A]She just knocked me down a bit...{0xBE00}[0x000A]Yowch! That stings!
+...{0xBE01}[0x000A]Oh! {0x0100,0x0000}!
+...{0xBE01}[0x000A]Oh! H-hey, {0x0100,0x0000}!
+{0x0100,0x0000}, you...[0x000A]You’re all right, huh?{0xBE00}[0x000A]...That’s a relief.
+Looks like she didn’t get you, huh?[0x000A]That’s a relief.
+It all happened so fast that I couldn’t do a thing, but...{0xBE01}[0x000A]Some strange woman came in my window, upstairs...{0xBE01}[0x000A]And then she... She took my Key Stone from me...
+Everything happened so fast that I couldn’t[0x000A]do a thing, but...{0xBE01}[0x000A]Some strange woman came in my window, upstairs...{0xBE01}[0x000A]And then she...[0x000A]She stole my Key Stone...
+I tried to fight her off with my team, but...[0x000A]She was really strong...{0xBE01}[0x000A]I didn’t stand a chance...
+I tried to fight her off with my team, but...[0x000A]She was unstoppable...{0xBE01}[0x000A]I didn’t stand a chance...
+I think I heard her muttering under[0x000A]her breath as she left, though...{0xBE00}[0x000A]Something like “{0xFF00,0x0002}Petalburg’s next{0xFF00,0x0000}...”{0xBE01}[0x000A]{0x0100,0x0000}...be careful.
+I think I heard her muttering under[0x000A]her breath when she left, though...{0xBE00}[0x000A]Something like “{0xFF00,0x0002}Petalburg’s next{0xFF00,0x0000}...”{0xBE01}[0x000A]...You be careful, {0x0100,0x0000}.
+I’m really happy you came to visit[0x000A]me, but...I’m sorry...{0xBE00}[0x000A]I think I’ll have to sit this one out.
+Um, it’s really cool that you[0x000A]came to visit me, but...sorry...{0xBE00}[0x000A]I think I gotta sit this one out...
+Who could have done such[0x000A]a thing to my sweet {0x1100,0x00FF,0x0304}girlboy...
+Oh, hello, sweetie.[0x000A]Feel free to stay awhile.
+{0xBDFF:0x0073}
+{0xBDFF:0x0074}
+{0xBDFF:0x0075}
+Hm?
+Morning, {0x0100,0x0000}.
+You must’ve been bushed.[0x000A]You slept like a log.
+Oh, but before I forget...{0xBE01}[0x000A]This came for you.[0x000A]It’s from someone named Briney.
+Hm, so it was a ferry ticket, was it?
+As I recall, you can catch the ferry[0x000A]from the ports in Slateport and Lilycove.
+{0x0100,0x0000}!{0xBE01}[0x000A]If you have ambition as a Trainer, I want you to take that[0x000A]ferry to the {0xFF00,0x0002}Battle Resort{0xFF00,0x0000}.{0xBE01}[0x000A]I think it will teach you that there is no end to a[0x000A]Trainer’s chosen path.
+I’d better be heading back to the Petalburg Gym, then.{0xBE01}[0x000A]Thanks for looking after the house while I’m away, honey.
+Ohhh, that dad of yours![0x000A]Can’t he ever forget about work?{0xBE01}[0x000A]I wish he could just switch it off[0x000A]and take it easy sometimes!{0xBE01}[0x000A]But I love him just the way he is...
+I suppose May and {0x0100,0x0000} have probably[0x000A]arrived by now...
+I suppose Brendan and {0x0100,0x0000} have probably[0x000A]arrived by now...
+I imagine so.
+The weather is good today.[0x000A]They should get a good view of the stars.
+But you know...I really am glad we moved here[0x000A]from Johto.
+I think that meeting you, Birch, and Mrs. Birch and[0x000A]little May, has had a huge impact on{0xBE00}[0x000A]{0x0100,0x0000}’s life.
+I think that meeting you, Birch, and[0x000A]Mrs. Birch and your boy, has had a{0xBE00}[0x000A]huge impact on {0x0100,0x0000}’s life.
+Oh, it’s just the same for our {0x1100,0x00FF,0x0703}MayBrendan.
+Don’t you agree, dear?
+Of course!
+Whenever she does make it home, all May has to talk[0x000A]about is Pokémon and her precious friend{0xBE00}[0x000A]{0x0100,0x0000}.
+Whenever he does make it home, all Brendan has to talk[0x000A]about is Pokémon and his pal {0x0100,0x0000}.
+I think {0x1100,0x00FF,0x0001}she’s over the moon about this[0x000A]adventure and the great friend {0x1100,0x00FF,0x0001}she’s found.
+I think our {0x1100,0x00FF,0x0403}boygirl is just the same.[0x000A]{0x1100,0x00FF,0x0201}HShe always looks so happy these days.
+I hope you’ll continue to look after our[0x000A]{0x0100,0x0000} for many more years to come.
+Bwahahaha! Why, Norman![0x000A]You don’t even have to ask...{0xBE00}[0x000A]Nothing could make me happier!
+Hahahaha...[0x000A]Thanks, old friend.
+...Well then, dear, isn’t it about time we were headed[0x000A]back home?{0xBE00}[0x000A]I should get supper started...
+Oh, yes! Those kids’ll probably be starving when[0x000A]they get home!
+Oh, I didn’t make any plans yet for dinner...[0x000A]What do you think we should have, dear?
+Hmm.[0x000A]How about our little {0x1100,0x00FF,0x0403}boygirl’s favorite?
+...Oh!
+That reminds me![0x000A]Here!{0xBE01}[0x000A]I’ve been thinking I should[0x000A]give you this, {0x0100,0x0000}...
+Remember the night you went to see the star show?{0xBE01}[0x000A]Well, I found this in the grass out front the next morning!{0xBE01}[0x000A]Isn’t it pretty, the way it sparkles?[0x000A]It’s like a rainbow!
+Looks like Mom jotted something down![0x000A]There are notes about tonight’s dinner plans!
+There are plans for a whole week’s worth of meals!

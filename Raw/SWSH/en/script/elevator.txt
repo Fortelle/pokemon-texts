@@ -1,0 +1,16 @@
+msg_elevator_c03_01=Where would you like to go to?
+msg_elevator_c03_02=The Rose of the Rondelands Hotel
+msg_elevator_c03_03=Wyndon Stadium
+msg_elevator_c03_04=Monorail Station
+msg_elevator_c03_05=Rose Tower
+msg_elevator_c03_06=Battle Tower
+msg_elevator_c03_07=Quit
+msg_elevator_c02_01=There’s a lift, but it seems you can’t use it[0x000A]right now.
+msg_elevator_start=Which floor would you like to go to?
+msg_elevator_cancel=Quit
+msg_elevator_1f=1F
+msg_elevator_3f=3F
+msg_elevator_ap_1f=1F: Entrance
+msg_elevator_ap_2f=2F: Conservation area
+msg_elevator_ap_b1f=B1F: Docks
+msg_elevator_ap_b2f=B2F: Lab area

@@ -1,0 +1,375 @@
+●●
+Ein {0x0101,0x0000} (wild) erscheint!
+Huch! Ein {0x0101,0x0000} (wild) greift an!
+Ein {0x0101,0x0000} (wild) erscheint!
+Ein {0x0101,0x0000} (wild) erscheint!
+Huch! Ein {0x0101,0x0000}, das du beinahe[0x000A]zertrampelt hättest, greift an!
+{0x0101,0x0000} erscheint!
+Eine Gruppe Pokémon (wild) erscheint!
+{0x0101,0x0000} (Herrscher) greift an!
+{0x010E,0x0000} {0x0100,0x0001}[0x000A]forder{0x1101,0x0000,0x0101}tn dich heraus!{0xBE01}
+{0x0100,0x0000} will mit dir kämpfen!{0xBE01}
+{0x010E,0x0000} {0x0100,0x0001} und[0x000A]{0x010E,0x0002} {0x0100,0x0003}{0xBE00}[0x000A]möchten kämpfen!{0xBE01}
+{0x0100,0x0000} und[0x000A]{0x0100,0x0001} möchten kämpfen!{0xBE01}
+Los, {0x0102,0x0000}!
+Los, {0x0102,0x0000} und[0x000A]{0x0102,0x0001}!
+Los, {0x0102,0x0000}, {0x0102,0x0001} und[0x000A]{0x0102,0x0002}!
+{0x010E,0x0000} {0x0100,0x0001}[0x000A]setz{0x1101,0x0000,0x0201}ten {0x0102,0x0002} ein!
+{0x010E,0x0000} {0x0100,0x0001} setz{0x1101,0x0000,0x0201}ten[0x000A]{0x0102,0x0002} und {0x0102,0x0003} ein!
+{0x010E,0x0000} {0x0100,0x0001} setz{0x1101,0x0000,0x0201}ten[0x000A]{0x0102,0x0002}, {0x0102,0x0003} und {0x0102,0x0004} ein!
+{0x0100,0x0000} schickt[0x000A]{0x0102,0x0001} in den Kampf!
+{0x0100,0x0000} schickt {0x0102,0x0001}[0x000A]und {0x0102,0x0002} in den Kampf!
+{0x0100,0x0000} schickt {0x0102,0x0001},[0x000A]{0x0102,0x0002} und {0x0102,0x0003} in den Kampf!
+{0x010E,0x0000} {0x0100,0x0001}[0x000A]setz{0x1101,0x0000,0x0201}ten als Nächstes {0x0102,0x0002} ein.{0xBE00}[0x000A]Möchtest du dein Pokémon wechseln?
+Du schaffst es, {0x0102,0x0000}!
+Streng dich an, {0x0102,0x0000}!
+Nur noch ein bisschen![0x000A]Halte durch, {0x0102,0x0000}!
+Mach es fertig![0x000A]Los, {0x0102,0x0000}!
+{0x0102,0x0000}![0x000A]Komm zurück!
+{0x0102,0x0000}, komm zurück!
+{0x0102,0x0000}, das reicht![0x000A]Komm zurück!
+{0x0102,0x0000}, es ist gut![0x000A]Komm zurück!
+Gut gemacht, {0x0102,0x0000}![0x000A]Komm zurück!
+{0x010E,0x0000} {0x0100,0x0001}[0x000A]ha{0x1101,0x0000,0x0301}tben {0x0102,0x0002} zurückgerufen!
+{0x0100,0x0000} ha{0x1101,0x0000,0x0301}tben[0x000A]{0x0102,0x0001} zurückgerufen!
+{0x0200,0x0000}-mal getroffen!
+{0x0100,0x0000} setz{0x1101,0x0000,0x0201}ten[0x000A]{0x0109,0x0001} ein.
+{0x0100,0x0000} setz{0x1101,0x0000,0x0201}ten[0x000A]{0x0109,0x0001} ein.
+{0x010E,0x0000} {0x0100,0x0001}[0x000A]setz{0x1101,0x0000,0x0201}ten {0x0109,0x0002} ein!
+{0xBDFF:0x0026}
+{0xBDFF:0x0027}
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+{0xBDFF:0x002A}
+{0xBDFF:0x002B}
+{0x010C,0x0000} erhält[0x000A]{0x0206,0x0001,0xE07F} Erfahrungspunkt{0x1101,0x0001,0x0100}e!
+{0x010C,0x0000} erhält[0x000A]{0x0206,0x0001,0xE07F} spezielle{0x1101,0x0001,0x1111}n Erfahrungspunkt Erfahrungspunkte!
+Dank des EP-Teilers erhält auch der Rest[0x000A]deines Pokémon-Teams Erfahrungspunkte!
+{0x010C,0x0000} versucht,[0x000A]{0x0107,0x0001} zu erlernen.{0xBE01}[0x000A]Soll eine andere Attacke durch[0x000A]{0x0107,0x0001} ersetzt werden?
+Eins,{0xBE02:0x0014} zwei{0xBE02:0x0014} und{0xBE02:0x0014}... schwupp!{0xBE05,0x0003}{0xBE05,0x0006}{0xBE01}[0x000A]{0x010C,0x0000} hat[0x000A]{0x0107,0x0001} vergessen.{0xBE01}[0x000A]Und...
+{0x010C,0x0000} erlernt[0x000A]{0x0107,0x0001}!
+{0x010C,0x0000} hat[0x000A]{0x0107,0x0001} nicht erlernt.{0xBE01}
+{0x010E,0x0000} {0x0100,0x0001}[0x000A]wurde besiegt!
+Du besiegst {0x010E,0x0000} {0x0100,0x0001}[0x000A]und {0x010E,0x0002} {0x0100,0x0003}!
+Du verlierst gegen[0x000A]{0x010E,0x0000} {0x0100,0x0001}!
+Patt zwischen dir und[0x000A]{0x010E,0x0000} {0x0100,0x0001}!
+Du besiegst {0x0100,0x0000}!
+Du besiegst {0x0100,0x0000} und {0x0100,0x0001}!
+Du verlierst gegen {0x0100,0x0000}!
+Du verlierst gegen {0x0100,0x0000} und {0x0100,0x0001}!
+Patt zwischen dir und {0x0100,0x0000}!
+Patt zwischen dir, {0x0100,0x0000} und {0x0100,0x0001}!
+{0xBDFF:0x003D}
+Du besiegst {0x0101,0x0000} (Herrscher)!{0xBE01}
+{0x0100,0x0000} hat kein kampffähiges Pokémon mehr!{0xBE01}
+{0x0100,0x0000} gerät in Panik und verliert {0x0204,0x0001,0x002E} $...
+{0x0100,0x0000} gibt {0x0204,0x0001,0x002E} $ Preisgeld...
+...{0xBE01}[0x000A]{0x0100,0x0000} wird schwarz vor Augen!
+{0x0100,0x0000} gewinnt {0x0205,0x0001,0x002E} $!{0xBE01}
+{0x0100,0x0000} hebt {0x0204,0x0001,0x002E} $ auf!
+{0x010C,0x0000} erreicht Lv. {0x0202,0x0001}!
+Mist![0x000A]Das Pokémon hat sich befreit!
+Oh![0x000A]Fast hätte es geklappt!
+Mist![0x000A]Das war knapp!
+Verflixt![0x000A]Es hätte beinahe geklappt!
+Klasse![0x000A]{0x0101,0x0000} wurde gefangen!
+Für {0x0101,0x0000} wurde ein Eintrag im Pokédex[0x000A]angelegt.
+Der Trainer hat den Ball abgeblockt!{0xBE01}[0x000A]Sei kein Dieb!
+Es ist wirkungslos!
+Was soll {0x010C,0x0000} tun?
+Was möchtest du tun?
+{0x010C,0x0000} wartet auf deine Anweisungen...
+Es ist fehlgeschlagen!
+Du bist entkommen!
+Flucht gescheitert!
+Flucht unmöglich!
+{0x0102,0x0000} (wild) ergreift die Flucht!
+Du kannst aus Trainer-Kämpfen nicht fliehen!
+Möchtest du den Kampf jetzt aufgeben?
+Das ist sehr effektiv!
+Das ist nicht sehr effektiv...
+Es hat sich vor Verwirrung selbst verletzt!
+{0xBD00,0x0007,0x0000,0x0000}Ein Volltreffer!{0xBD01}
+Es sind keine AP mehr für diese Attacke übrig!
+Die KP von {0x0102,0x0001} wurden dank des[0x000A]heldenhaften Einsatzes von {0x0100,0x0000} aufgefrischt!
+Das Sonnenlicht wird stärker!
+Es fängt an zu regnen!
+Ein Sandsturm kommt auf!
+Es fängt an zu hageln!
+Ein dichter Nebel breitet sich aus!
+Das Sonnenlicht verliert wieder an Intensität!
+Es hört auf zu regnen!
+Der Sandsturm legt sich!
+Es hört auf zu hageln!
+Der Nebel verschwindet!
+Die wetterbedingten Effekte wurden aufgehoben!
+Der Sandsturm tobt!
+Der Hagelsturm tobt!
+Ein K.O.-Treffer!
+{0x0109,0x0000} schwächt die Stärke von[0x000A]{0x0107,0x0001}!
+{0x0109,0x0000} erlaubt nur den Einsatz von[0x000A]{0x0107,0x0001}!
+{0x0109,0x0000} verhindert den Einsatz[0x000A]von Status-Attacken!
+{0x010C,0x0000} kann keine andere Attacke als[0x000A]{0x0107,0x0001} einsetzen!
+Alle Statusveränderungen wurden aufgehoben!
+Nichts geschieht!
+{0x0106,0x0001} von[0x000A]{0x0102,0x0000} wirkt!
+Intensität 4!
+Intensität 5!
+Intensität 6!
+Intensität 7!
+Intensität 8!
+Intensität 9!
+Intensität 10!!
+Eine Glocke läutet!
+Ein wohltuendes Aroma breitet sich aus!
+Die Kontrahenten teilen sich ihre KP!
+Die Stärke aller Feuer-Attacken wurde reduziert!
+Nassmacher hört auf zu wirken!
+Die Stärke aller Elektro-Attacken wurde reduziert!
+Lehmsuhler hört auf zu wirken!
+Die verdrehte Dimension ist wieder normal!
+Die Erdanziehung wurde verstärkt!
+Die Erdanziehung ist wieder normal!
+Alle Pokémon, die dem Abgesang gelauscht haben,[0x000A]gehen nach drei Runden K.O.!
+Es lässt den Finger schwingen, und schon setzt[0x000A]{0x0107,0x0000} ein!
+Natur-Kraft löst {0x0107,0x0000} aus!
+Es sind überall Münzen verstreut!
+Es ist zu schwach, um einen Delegator einzusetzen!
+Reflektor stärkt Pokémon auf deiner Seite[0x000A]gegen physische Attacken!
+Reflektor stärkt gegnerische Pokémon[0x000A]gegen physische Attacken!
+Reflektor auf deiner Seite hört auf zu wirken!
+Reflektor der gegnerischen Pokémon hört auf zu wirken!
+Lichtschild stärkt Pokémon, die auf deiner[0x000A]Seite kämpfen, gegen Spezial-Attacken!
+Lichtschild stärkt gegnerische Pokémon[0x000A]gegen Spezial-Attacken!
+Lichtschild auf deiner Seite hört auf zu wirken!
+Lichtschild der gegnerischen Pokémon hört auf zu wirken!
+Auroraschleier stärkt Pokémon auf deiner Seite gegen[0x000A]physische und Spezial-Attacken!
+Auroraschleier stärkt gegnerische Pokémon gegen[0x000A]physische und Spezial-Attacken!
+Der Auroraschleier, der dein Team umgab, hat sich gelüftet!
+Der Auroraschleier, der das gegnerische Team umgab,[0x000A]hat sich gelüftet!
+Das Team des Anwenders wird von einem Schleier umhüllt!
+Das gegnerische Team wird von einem Schleier umhüllt!
+Der mystische Schleier, der dein Team umgab,[0x000A]hat sich gelüftet!
+Der mystische Schleier, der das gegnerische Team umgab,[0x000A]hat sich gelüftet!
+Pokémon, die auf deiner Seite kämpfen,[0x000A]werden in Weißnebel gehüllt!
+Gegnerische Pokémon werden in Weißnebel gehüllt!
+Der Weißnebel, der die Pokémon auf deiner Seite umgab,[0x000A]hat sich gelichtet!
+Der Weißnebel, der die gegnerischen[0x000A]Pokémon umgab, hat sich gelichtet!
+Die Pokémon, die auf deiner Seite kämpfen,[0x000A]erhalten Rückenwind!
+Die gegnerischen Pokémon erhalten Rückenwind!
+Der Rückenwind auf deiner Seite hat sich gelegt!
+Der Rückenwind auf gegnerischer Seite hat sich gelegt!
+Beschwörung schützt dein Team vor Volltreffern!
+Beschwörung schützt das gegnerische Team[0x000A]vor Volltreffern!
+Beschwörung deines Teams hört auf zu wirken!
+Beschwörung des gegnerischen Teams hört auf zu wirken!
+Die Pokémon auf deiner Seite sind von Stacheln umgeben!
+Die Pokémon auf gegnerischer Seite sind[0x000A]von Stacheln umgeben!
+Die Stacheln, die auf deiner Seite herumlagen,[0x000A]sind verschwunden!
+Die Stacheln, die auf der gegnerischen Seite herumlagen,[0x000A]sind verschwunden!
+Die Pokémon auf deiner Seite sind überall[0x000A]von giftigen Stacheln umgeben!
+Die Pokémon auf gegnerischer Seite sind überall[0x000A]von giftigen Stacheln umgeben!
+Die giftigen Stacheln, die um die Pokémon auf deiner Seite[0x000A]lagen, sind verschwunden!
+Die giftigen Stacheln, die um die Pokémon auf der[0x000A]gegnerischen Seite lagen, sind verschwunden!
+Um die Pokémon auf deiner Seite schweben spitze Steine!
+Um die Pokémon auf gegnerischer Seite schweben[0x000A]spitze Steine!
+Die spitzen Steine um die Pokémon auf deiner Seite[0x000A]sind verschwunden!
+Die spitzen Steine um die Pokémon auf der[0x000A]gegnerischen Seite sind verschwunden!
+Die Pokémon auf deiner Seite werden von[0x000A]Rundumschutz behütet!
+Die Pokémon auf der gegnerischen Seite werden von[0x000A]Rundumschutz behütet!
+Die Pokémon auf deiner Seite werden von[0x000A]Rapidschutz behütet!
+Die Pokémon auf der gegnerischen Seite werden von[0x000A]Rapidschutz behütet!
+Ein Regenbogen erscheint am Himmel über den Pokémon[0x000A]auf deiner Seite!
+Ein Regenbogen erscheint am Himmel über den Pokémon[0x000A]auf der gegnerischen Seite!
+Der Regenbogen über den Pokémon auf deiner Seite[0x000A]ist verschwunden!
+Der Regenbogen über den Pokémon auf der[0x000A]gegnerischen Seite ist verschwunden!
+Um die Pokémon auf deiner Seite erstreckt sich[0x000A]ein Meer aus Feuer!
+Um die Pokémon auf der gegnerischen Seite erstreckt sich[0x000A]ein Meer aus Feuer!
+Das Meer aus Feuer um die Pokémon auf deiner Seite[0x000A]ist verschwunden!
+Das Meer aus Feuer um die Pokémon auf der[0x000A]gegnerischen Seite ist verschwunden!
+Ein Sumpf tut sich um die Pokémon auf deiner Seite auf!
+Ein Sumpf tut sich um die Pokémon auf der[0x000A]gegnerischen Seite auf!
+Der Sumpf um die Pokémon auf deiner Seite[0x000A]ist verschwunden!
+Der Sumpf um die Pokémon auf der gegnerischen Seite[0x000A]ist verschwunden!
+Die Pokémon auf deiner Seite kriegen vor Anspannung[0x000A]keine Beeren mehr runter!
+Die Pokémon auf der gegnerischen Seite kriegen[0x000A]vor Anspannung keine Beeren mehr runter!
+Es entsteht ein Raum, in dem Verteidigung und[0x000A]Spezial-Verteidigung miteinander vertauscht sind!
+Der Wunderraum verpufft. Verteidigung und[0x000A]Spezial-Verteidigung werden wieder zurückgesetzt!
+Es entsteht ein Raum, in dem getragene Items[0x000A]ihre Wirkung verlieren!
+Der Magieraum verpufft. Getragene Items erhalten[0x000A]ihre Wirkung zurück!
+{0x0109,0x0000} erhöht die Stärke von[0x000A]{0x0107,0x0001}!
+Die Zeit ist abgelaufen![0x000A]Der Kampf wird beendet.
+Die Zeit des anderen Spielers ist abgelaufen![0x000A]Der Kampf wird beendet.
+Deine Zeit ist abgelaufen![0x000A]Der Kampf wird beendet.
+Der Kampf dauert zu lange, um weiter[0x000A]wiedergegeben werden zu können.
+Es verfällt in den Trance-Modus!
+Es verlässt den Trance-Modus!
+Zwei Attacken bilden zusammen eine Kombi-Attacke!
+{0x010C,0x0000} ist ungehorsam!
+{0x010C,0x0000} faulenzt!
+{0x010C,0x0000} wendet sich ab!
+{0x010C,0x0000} gibt vor, nichts zu bemerken!
+{0x010C,0x0000} ignoriert den Befehl!
+{0x010C,0x0000} macht ein Nickerchen!
+{0x010C,0x0000} ignoriert die Befehle.[0x000A]Es schläft!
+Mittig setzen!
+Das Item kann nicht eingesetzt werden, da sich[0x000A]das Pokémon an einer ungeeigneten Stelle befindet!
+Aufgrund von Freier Fall kann {0x010C,0x0000}[0x000A]diese Aktion nicht ausführen!
+Der Kampf wurde aufgegeben.
+Dichtes Gras schießt aus dem Boden!
+Das Grasfeld ist wieder verschwunden!
+Am Boden breitet sich dichter Nebel aus!
+Das Nebelfeld ist wieder verschwunden!
+Elektrische Energie fließt durch den Boden!
+Das Elektrofeld ist wieder verschwunden!
+Die Pokémon auf deiner Seite werden von[0x000A]Trickschutz behütet!
+Die Pokémon auf der gegnerischen Seite werden von[0x000A]Trickschutz behütet!
+{0x0107,0x0000} wurde durch den[0x000A]Tatami-Schild abgewehrt!
+Am Boden um die Pokémon auf deiner Seite entspinnt sich[0x000A]ein Klebenetz!
+Am Boden um die Pokémon auf der gegnerischen Seite[0x000A]entspinnt sich ein Klebenetz!
+Das Klebenetz auf deiner Seite ist wieder verschwunden!
+Das Klebenetz auf der gegnerischen Seite[0x000A]ist wieder verschwunden!
+Die Attacke kann nicht eingesetzt werden, weil das[0x000A]Pokémon keine Beere gegessen hat!
+{0x0100,0x0000} hat das Item[0x000A]{0x0109,0x0001} gefunden!
+{0x010C,0x0000} hält durch, um {0x0100,0x0001}[0x000A]keine Sorgen zu bereiten!
+{0x010C,0x0000} zwingt sich dazu aufzuwachen,[0x000A]um niemandem zur Last zu fallen!
+{0x010C,0x0000} neutralisiert das Gift aus eigener Kraft,[0x000A]um niemandem zur Last zu fallen!
+{0x010C,0x0000} heilt seine Verbrennungen durch schiere[0x000A]Willenskraft, um niemandem zur Last zu fallen!
+{0x010C,0x0000} überwindet aus eigener Kraft die Paralyse,[0x000A]um niemandem zur Last zu fallen!
+{0x010C,0x0000} bringt das Eis mit viel Mühe selbst zum[0x000A]Schmelzen, um niemandem zur Last zu fallen!
+{0x010C,0x0000} reagiert blitzschnell auf einen Warnruf von[0x000A]{0x0100,0x0001} und weicht der Attacke aus!
+{0x010C,0x0000} landet einen {0xBD00,0x0007,0x0000,0x0000}Volltreffer{0xBD01},[0x000A]weil es gelobt werden will!
+{0x010C,0x0000} schaut zu dir rüber[0x000A]und nickt entschlossen!
+{0x010C,0x0000} ist voller Tatendrang und sieht dir mit einem[0x000A]entschlossenen Blick in die Augen!
+{0x010C,0x0000} wartet voller Zuversicht auf deinen[0x000A]nächsten meisterhaften Schachzug!
+{0x010C,0x0000} und du, ihr versteht einander ohne Worte.
+{0x010C,0x0000} mustert neugierig dein Outfit...
+{0x010C,0x0000} schaut zu dir rüber und wirkt gleich[0x000A]viel entspannter.
+{0x010C,0x0000} würde gerne mit dir spielen,[0x000A]aber konzentriert sich stattdessen auf den Kampf.
+Der Geruch des gegnerischen Pokémon hat {0x010C,0x0000}[0x000A]offenbar völlig in seinen Bann gezogen...
+Dein vertrauter Geruch löst bei {0x010C,0x0000}[0x000A]Glücksgefühle aus.
+{0x010C,0x0000} schaut sich vergnügt um.
+{0x010C,0x0000} denkt an den Tag zurück, an dem ihr euch[0x000A]zum ersten Mal begegnet seid.
+{0x010C,0x0000} denkt gerade an Pokébohnen...
+{0x010C,0x0000} ist ein bisschen schläfrig...
+{0x010C,0x0000} macht sich Sorgen, dass der Kampf[0x000A]schieflaufen könnte...
+{0x010C,0x0000} würde offenbar gerne gestreichelt werden.
+Es geht los, {0x010C,0x0000}![0x000A]Du schaffst das!
+Genug, {0x010C,0x0000}![0x000A]Komm zurück! Du hast gut gekämpft!
+Weiter so!
+{0x010C,0x0000} fängt an zu verzweifeln,[0x000A]weil die Lage langsam brenzlig wird...
+{0x010C,0x0000} ist dir sehr dankbar!
+Zzz...
+{0xBDFF:0x0106}
+{0x0200,0x0000} auf einen Streich!
+Formwechsel zur Klingenform!
+Formwechsel zur Schildform!
+Bei {0x0102,0x0000} wurde das Item[0x000A]{0x0109,0x0001} erschnüffelt!
+Goldene Zeiten sind angebrochen!
+{0xBDFF:0x010C}
+Ein elektrisch geladener Niederschlag regnet auf[0x000A]das Kampffeld herab!
+Während der nächsten Runde ist keine Flucht möglich!
+{0x0107,0x0000} bringt das Pulver zum Explodieren!
+({0x0200,0x0000}) Metronom {0x0202,0x0001}: {0x0107,0x0002}
+Huch! Ein {0x0101,0x0000} (wild) ist[0x000A]aus dem hohen Gras gesprungen!
+Huch! Ein {0x0101,0x0000} (wild) ist[0x000A]aus dem Erdboden gesprungen!
+Huch! Ein {0x0101,0x0000} (wild) hat dich[0x000A]aus der Luft angegriffen!
+Huch! Ein {0x0101,0x0000} (wild) ist von der Decke[0x000A]auf dich herabgestürzt!
+Huch! Da war ein {0x0101,0x0000} (wild) im Mülleimer!
+{0xBDFF:0x0116}
+Glückwunsch, {0x0100,0x0000}!
+Die Prüfung ist noch nicht vorbei.[0x000A]Du kannst jetzt nicht einfach davonlaufen!
+Es fängt an, in Strömen zu regnen!
+Der strömende Regen hat aufgehört!
+Das Sonnenlicht wird sehr viel stärker!
+Das Sonnenlicht verliert an Intensität!
+Alle Flug-Pokémon werden von rätselhaften[0x000A]Luftströmungen geschützt!
+Die rätselhaften Luftströmungen haben sich wieder gelegt!
+Der strömende Regen löscht die Feuer-Attacke[0x000A]und macht sie wirkungslos!
+Das intensive Sonnenlicht lässt die Wasser-Attacke[0x000A]verdampfen und macht sie wirkungslos!
+Der strömende Regen lässt nicht nach!
+Das starke Sonnenlicht lässt nicht nach!
+Rätselhafte Luftströmungen haben[0x000A]den Angriff abgeschwächt!
+Die rätselhaften Luftströmungen lassen nicht nach!
+Aber {0x0102,0x0000} kann die Attacke[0x000A]im Moment nicht einsetzen!
+Aber {0x0102,0x0000} kann die Attacke[0x000A]nicht einsetzen!
+Rüpel von {0x010E,0x0000} setz{0x1101,0x0000,0x0201}ten[0x000A]ein Rudel Fiffyen ein!
+Rüpel von {0x010E,0x0000} setz{0x1101,0x0000,0x0201}ten[0x000A]ein Rudel Magnayen ein!
+{0x010E,0x0000} {0x0100,0x0001}[0x000A]forder{0x1101,0x0000,0x0101}tn dich heraus!{0xBE01}
+{0x010E,0x0000} {0x0100,0x0001}[0x000A]wurde{0x1101,0x0000,0x0100}n besiegt!
+{0x01B0,0x0000} wurde durch das[0x000A]Wetter zu {0x01B0,0x0001}!
+{0x0101,0x0000} (Herrscher) hüllt sich in eine besondere[0x000A]Aura und steigert so seinen Angriff!
+{0x0101,0x0000} (Herrscher) hüllt sich in eine besondere[0x000A]Aura und steigert so seinen Angriff stark!
+{0x0101,0x0000} (Herrscher) hüllt sich in eine besondere[0x000A]Aura und steigert so seinen Angriff drastisch!
+{0x0101,0x0000} (Herrscher) hüllt sich in eine besondere[0x000A]Aura und steigert so seine Verteidigung!
+{0x0101,0x0000} (Herrscher) hüllt sich in eine besondere[0x000A]Aura und steigert so seine Verteidigung stark!
+{0x0101,0x0000} (Herrscher) hüllt sich in eine besondere[0x000A]Aura und steigert so seine Verteidigung drastisch!
+{0x0101,0x0000} (Herrscher) hüllt sich in eine besondere[0x000A]Aura und steigert so seinen Spezial-Angriff!
+{0x0101,0x0000} (Herrscher) hüllt sich in eine besondere[0x000A]Aura und steigert so seinen Spezial-Angriff stark!
+{0x0101,0x0000} (Herrscher) hüllt sich in eine besondere[0x000A]Aura und steigert so seinen Spezial-Angriff drastisch!
+{0x0101,0x0000} (Herrscher) hüllt sich in eine besondere[0x000A]Aura und steigert so seine Spezial-Verteidigung!
+{0x0101,0x0000} (Herrscher) hüllt sich in eine besondere[0x000A]Aura und steigert so seine Spezial-Verteidigung stark!
+{0x0101,0x0000} (Herrscher) hüllt sich in eine besondere[0x000A]Aura und steigert so seine Spezial-Verteidigung drastisch!
+{0x0101,0x0000} (Herrscher) hüllt sich in eine besondere[0x000A]Aura und steigert so seine Initiative!
+{0x0101,0x0000} (Herrscher) hüllt sich in eine besondere[0x000A]Aura und steigert so seine Initiative stark!
+{0x0101,0x0000} (Herrscher) hüllt sich in eine besondere[0x000A]Aura und steigert so seine Initiative drastisch!
+{0x0101,0x0000} (Herrscher) hüllt sich in eine besondere[0x000A]Aura und steigert so mehrere Statuswerte!
+{0x0101,0x0000} (Herrscher) hüllt sich in eine besondere[0x000A]Aura und steigert so mehrere Statuswerte stark!
+{0x0101,0x0000} (Herrscher) hüllt sich in eine besondere[0x000A]Aura und steigert so mehrere Statuswerte drastisch!
+{0x0101,0x0000} hüllt sich in eine besondere Aura und[0x000A]steigert so seinen Angriff!
+{0x0101,0x0000} hüllt sich in eine besondere Aura und[0x000A]steigert so seinen Angriff stark!
+{0x0101,0x0000} hüllt sich in eine besondere Aura und[0x000A]steigert so seinen Angriff drastisch!
+{0x0101,0x0000} hüllt sich in eine besondere Aura und[0x000A]steigert so seine Verteidigung!
+{0x0101,0x0000} hüllt sich in eine besondere Aura und[0x000A]steigert so seine Verteidigung stark!
+{0x0101,0x0000} hüllt sich in eine besondere Aura und[0x000A]steigert so seine Verteidigung drastisch!
+{0x0101,0x0000} hüllt sich in eine besondere Aura und[0x000A]steigert so seinen Spezial-Angriff!
+{0x0101,0x0000} hüllt sich in eine besondere Aura und[0x000A]steigert so seinen Spezial-Angriff stark!
+{0x0101,0x0000} hüllt sich in eine besondere Aura und[0x000A]steigert so seinen Spezial-Angriff drastisch!
+{0x0101,0x0000} hüllt sich in eine besondere Aura und[0x000A]steigert so seine Spezial-Verteidigung!
+{0x0101,0x0000} hüllt sich in eine besondere Aura und[0x000A]steigert so seine Spezial-Verteidigung stark!
+{0x0101,0x0000} hüllt sich in eine besondere Aura und[0x000A]steigert so seine Spezial-Verteidigung drastisch!
+{0x0101,0x0000} hüllt sich in eine besondere Aura und[0x000A]steigert so seine Initiative!
+{0x0101,0x0000} hüllt sich in eine besondere Aura und[0x000A]steigert so seine Initiative stark!
+{0x0101,0x0000} hüllt sich in eine besondere Aura und[0x000A]steigert so seine Initiative drastisch!
+{0x0101,0x0000} hüllt sich in eine besondere Aura und[0x000A]steigert so mehrere Statuswerte!
+{0x0101,0x0000} hüllt sich in eine besondere Aura und[0x000A]steigert so mehrere Statuswerte stark!
+{0x0101,0x0000} hüllt sich in eine besondere Aura und[0x000A]steigert so mehrere Statuswerte drastisch!
+{0x0101,0x0000} ruft um Hilfe!
+{0x0101,0x0000} ruft Mitstreiter!
+...{0xBE02:0x0014} ...{0xBE02:0x0014} ...{0xBE02:0x0014}
+Es ist keine Hilfe aufgetaucht.
+Ein {0x0101,0x0000} erscheint!
+Der Zitterorb macht das wilde Pokémon nervös.
+Der Boden fühlt sich seltsam an!
+Das Psychofeld ist wieder verschwunden!
+Wir befinden uns im Dome Royale, dem Austragungsort des[0x000A]Battle Royale!{0xBE02:0x003C}{0xBE01}[0x000A]Das Stadion ist bis auf den letzten Platz gefüllt und die[0x000A]Stimmung kocht fast über!{0xBE02:0x003C}
+Und hier kommen die Kontrahenten!
+In der grünen Ecke...[0x000A]{0x010E,0x0000} {0x0100,0x0001}{0xBE00}[0x000A]mit {0x0102,0x0002}!
+In der gelben Ecke...[0x000A]{0x010E,0x0000} {0x0100,0x0001}{0xBE00}[0x000A]mit {0x0102,0x0002}!
+In der roten Ecke...[0x000A]{0x010E,0x0000} {0x0100,0x0001}{0xBE00}[0x000A]mit {0x0102,0x0002}!
+In der blauen Ecke...[0x000A]{0x010E,0x0000} {0x0100,0x0001}{0xBE00}[0x000A]mit {0x0102,0x0002}!
+In der grünen Ecke...[0x000A]{0x0100,0x0000} mit {0x0102,0x0001}!
+In der gelben Ecke...[0x000A]{0x0100,0x0000} mit {0x0102,0x0001}!
+In der roten Ecke...[0x000A]{0x0100,0x0000} mit {0x0102,0x0001}!
+In der blauen Ecke...[0x000A]{0x0100,0x0000} mit {0x0102,0x0001}!
+Also dann! Der Battle Royale beginnt!
+Der Kampf ist beendet!
+Limitschild wird aktiviert!
+Limitschild wird aufgehoben!
+Du spürst die Präsenz vieler Zellen...!
+???
+Sein Kostüm hat die Attacke absorbiert!
+{0x010E,0x0000} {0x0100,0x0001} und[0x000A]{0x0100,0x0002} forder{0x1101,0x0000,0x0101}tn dich heraus!{0xBE01}
+Du besiegst {0x010E,0x0000} {0x0100,0x0001}[0x000A]und {0x0100,0x0002}!
+Diesem Pokémon bin ich noch nie begegnet, brzzzt!
+{0x0100,0x0000}![0x000A]Diesem Pokémon bin ich noch nie begegnet, brzzzt!
+{0x0100,0x0000}![0x000A]Diesem Pokémon bin ich noch nie begegnet, brzzzt!
+{0x0189,0x0000}![0x000A]Diesem Pokémon bin ich noch nie begegnet, brzzzt!
+
+
+
+
+Die Wahrscheinlichkeit, Pokémon zu fangen, wurde erhöht!
+Rotom ermöglicht es dir, die Z-Kraft noch mal einzusetzen!
+Rotom-Kraft wird aktiviert, brzzzt!
+Ich unterstütze dich mit all meiner Kraft, brzzzt!

@@ -1,0 +1,13 @@
+main_event_0550_system_01=¡Wooloo, vuelve aquí!
+main_event_0550_poke1_01=¡Wooo, woo!
+main_event_0550_system_02=Wooloo choca contra ti y se queda quieto.
+main_event_0550_leader1_01=Uf, te has llevado un buen Placaje... ¿Estás bien?
+main_event_0550_leader1_02=¡Que me pasten! ¿No serás un{0x1100,0x00FF,0x0100}a Aspirante, por[0x000A]casualidad?
+main_event_0550_select_01=¡Pues sí!
+main_event_0550_select_02=Pues no
+main_event_0550_leader1_03=Se te nota en la cara. Y me suena haberte visto[0x000A]en la ceremonia de inauguración.
+main_event_0550_leader1_04=¿Que te crees que me he caído de un guindo?[0x000A]¡Te vi en la ceremonia de inauguración!
+main_event_0550_leader1_05=Me llamo Percy. Soy un Líder de Gimnasio que[0x000A]combate con Pokémon de tipo Planta.{0x0114,0x000E}
+main_event_0550_leader1_06=Quiero ver qué tal se las gasta un{0x1100,0x00FF,0x0100}a Aspirante[0x000A]recomendad{0x1100,0x00FF,0x0101}oa por el mismísimo Campeón.{0xBE01}[0x000A]Anímate y pásate por el gimnasio cuando tengas[0x000A]un rato, anda.{0xBE01}[0x000A]Está a tiro de piedra si sigues por esta ruta.{0x0114,0x000E}
+main_event_0550_leader1_07=¡Y tú, arreando al gimnasio ahora mismo, que hay[0x000A]Aspirantes esperando!{0x0114,0x000E}
+main_event_0550_poke1_02=¡Loooo!

@@ -1,0 +1,6 @@
+main_event_0200_poke1_01=Draaa !
+main_event_0200_champion_01={0xBDFF:0x0001}
+main_event_0200_champion_02={0xBDFF:0x0002}
+main_event_0200_champion_03=Bravo, tu es arrivé{0x1100,0x00FF,0x0100}e au Laboratoire Pokémon[0x000A]sans te paumer !{0xBE01}[0x000A]... Rigole pas, moi, je me perds tout le temps.{0x0114,0x0004}
+main_event_0200_champion_04=T’as vu, ça change vraiment la vie,[0x000A]d’avoir un Pokémon !{0xBE01}[0x000A]Perso, je sais pas comment je retrouverais[0x000A]mon chemin sans Dracaufeu... Enfin bref, entrons !{0x0114,0x0004}
+main_event_0200_poke1_02=Draaa !

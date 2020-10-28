@@ -1,0 +1,16 @@
+msg_main0920_rocketchief_01=阿波罗：到此为止了！
+msg_main0920_rival_01={0x0100,0x0001}：哇，怎么又来了！
+msg_main0920_rocketchief_02=阿波罗：无论几次我都会来的！{0xBE01}[0x000A]因为我是不会让你们[0x000A]到达我们老大那里的！
+msg_main0920_rival_02={0x0100,0x0001}：……咦？[0x000A]他说“老大那里”？
+msg_main0920_rival_03={0x0100,0x0000}，难道说！？
+msg_main0920_select_01=他就在前面！
+msg_main0920_select_02=坂木就在这里！
+msg_main0920_rival_04={0x0100,0x0001}：原来火箭队的[0x000A]老大在这幢楼里……！{0xBE01}[0x000A]很好，既然这样！
+msg_main0920_rival_05={0x0100,0x0001}：{0x0100,0x0000}，[0x000A]去吧！这是打倒火箭队老大的大好机会！
+msg_main0920_rival_06=大叔！我才是你的对手！
+msg_main0920_rocketchief_03=阿波罗：可恶！[0x000A]既然这样，我得赶紧联系老大……
+msg_main0920_rival_07={0x0100,0x0001}：{0x0100,0x0000}，[0x000A]去吧！一定要打倒火箭队的老大啊！
+msg_rival_01_p01_cave_d1007={0xBDFF:0x000C}
+msg_rival_01_p02_cave_d1007={0xBDFF:0x000D}
+msg_rival_01_p03_cave_d1007={0xBDFF:0x000E}
+msg_rival_01_p05_cave_d1007={0xBDFF:0x000F}

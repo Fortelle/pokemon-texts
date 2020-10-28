@@ -1,0 +1,169 @@
+Probetraining
+Supertraining Lv. 1
+Supertraining Lv. 2
+Supertraining Lv. 3
+Geheimtraining 1
+Geheimtraining 2
+Download-Supertraining
+{0x0200,0x0000}/{0x0200,0x0001}
+x {0x0201,0x0000}
+Lv. ?
+Lv. 1
+Lv. 2
+Lv. 3
+Lv. 4
+Lv. 5
+Lv. 6
+Lv. 7
+Lv. 8
+Lv. 9
+Lv. X
+Probetraining mit Purmel!
+Zeig’s Puponcho mit einem Fokusschuss!
+Spezial-Angriffs-Training mit Magnetilo!
+KP-Training mit Wailmer!
+Angriffs-Training mit Milza!
+Spezial-Verteidigungs-Training mit Tentacha!
+Initiative-Training mit eF-eM!
+Verteidigungs-Training mit Kleinstein!
+Die zielgerichteten Schüsse von Magneton!
+Ziele auf das Volltreffertor von Relicanth!
+Nimm Sharfax unter Beschuss!
+Tentoxa und die Bit-Ballons!
+Gib Aerodactyl mit Temposchüssen zu denken!
+Zerstöre Georoks Schutzschild!
+Wehre die Salven von Magnezone ab!
+Stelle dich dem riesigen Wailord!
+Durchschaue die wilden Angriffe von Maxax!
+Knöpf dir Tandrak vor!
+Überwältige das rasende UHaFnir!
+Durchbrich die Defensive von Geowaz!
+Ein Unheil jagt das nächste!
+Erster Preis: Ein Blattstein!
+Erster Preis: Ein Feuerstein!
+Erster Preis: Ein Wasserstein!
+Ziele auf die beweglichen Tore!
+Vorsicht, die zweite Halbzeit hat’s in sich!
+Überstehe die rasante erste Halbzeit!
+Nimm dich in Acht vor den Weitschüssen!
+Purmel schlägt zurück!
+Die Bit-Ballon-Barriere!
+Zeige Trikephalo ein Blitz-K.O.!
+Es kann nur einen geben! (Pokémon X)
+Flunkifer hält die Welt in Atem!
+Das bedrohliche Banette!
+Vorsicht: Stählerne Scherenhände!
+Psi-Löffel ahoi!
+Karpador will hoch hinaus!
+Ein Wunder! Mehrfache Mega-Entwicklungen!
+Es kann nur einen geben! (Pokémon Y)
+Basiswert-Bonus
+Basiswert-Bonus
+Sandsack-Bonus
+Item-Bonus
+{0x010A,0x0003}
+{0x0109,0x0003}
+KP
+Ang.
+Vert.
+Sp.-Ang.
+Sp.-Vert.
+Initiative
++{0x0201,0x0000}
+Ziel (verbleibende Zeit)
+Bestzeit
+{0x0200,0x0000}:{0x0201,0x0001}.{0x0200,0x0002}
+Probetraining 1[0x000A]Erlerne die Grundlagen des Supertrainings.[0x000A]Triff die Tore des Ballon-Roboters!
+Probetraining 2[0x000A]Sammele Kraft, um einen Fokusschuss[0x000A]abzufeuern!
+Trainiere den Spezial-Angriff deines Pokémon![0x000A]Je höher dieser Wert ist, desto stärker[0x000A]fällt der Schuss des Pokémon aus.
+Trainiere die KP deines Pokémon![0x000A]So wird der Schuss des Pokémon präziser und[0x000A]du beugst einem schnellen Ausscheiden vor.
+Trainiere den Angriff deines Pokémon![0x000A]Je höher dieser Wert ist, desto stärker[0x000A]werden sein Schüsse.
+Trainiere die Sp.-Vert. deines Pokémon![0x000A]Je höher dieser Wert ist, desto schneller[0x000A]kannst du einen Fokusschuss aufladen.
+Trainiere die Initiative deines Pokémon![0x000A]Dies erhöht seine Wendigkeit und die[0x000A]Geschwindigkeit seiner Schüsse.
+Trainiere die Verteidigung deines Pokémon![0x000A]Je höher dieser Wert ist, desto schneller[0x000A]kannst du einen Fokusschuss aufladen.
+Weiche den zielgerichteten Schüssen aus![0x000A]Du musst entscheiden, ob du ihnen[0x000A]nach oben, unten oder zur Seite ausweichst!
+Um ein rotes Volltreffertor zum Vorschein zu[0x000A]bringen, musst du zuerst alle weißen Tore[0x000A]mit dem Schuss deines Pokémon treffen.
+In dieser Trainingslektion wird dein Pokémon[0x000A]dauerhaft unter Beschuss genommen.[0x000A]Kannst du allen Schüssen ausweichen?
+Was hat es mit den mysteriösen Bit-Ballons[0x000A]auf sich, die rund um die Ballon-Roboter[0x000A]durch die Luft schweben?
+Bewahre die Nerven, um den umherfliegenden[0x000A]Ballon-Roboter zu treffen!
+Was hat es mit dem Schutzschild auf sich,[0x000A]an dem alle Schüsse abprallen?
+Weiche vertikalen Schüssen horizontal[0x000A]und horizontalen Schüssen vertikal aus!
+Manche Schüsse sind auf dein Pokémon[0x000A]ausgerichtet und manche nicht.
+Jeder noch so wild erscheinende Angriff folgt[0x000A]einem Muster. Deine Aufgabe besteht darin,[0x000A]dieses zu erkennen!
+Du musst entscheiden, ob du die störenden[0x000A]Bit-Ballons abschießt oder ob du sie ignorierst[0x000A]und lieber den Ballon-Roboter erledigst.
+Weiche sofort aus, wenn der Gegner zu einem[0x000A]besonders schnellen Schuss ansetzt!
+Indem du auf den beweglichen gelben Marker[0x000A]schießt, kannst du die Schutzschilde der[0x000A]Ballon-Roboter deaktivieren.
+Lass nicht nach, wenn du den ersten[0x000A]Ballon-Roboter besiegt hast, denn das[0x000A]ist erst der Anfang dieser Trainingsserie!
+Schließt du die Lektion in der Vorgabezeit ab,[0x000A]kann es vorkommen, dass du als Bonus einen[0x000A]Blattstein erhältst!
+Schließt du die Lektion in der Vorgabezeit ab,[0x000A]kann es vorkommen, dass du als Bonus einen[0x000A]Feuerstein erhältst!
+Schließt du die Lektion in der Vorgabezeit ab,[0x000A]kann es vorkommen, dass du als Bonus einen[0x000A]Wasserstein erhältst!
+Präge dir ein, wann und an welcher Stelle ein[0x000A]Tor erscheint, um nicht erst lange deinem Ziel[0x000A]nachjagen zu müssen!
+Ein Vorteil kann schnell zum Nachteil werden.[0x000A]Bist du zu siegessicher, kann der Gegner das[0x000A]Blatt schnell zu seinen Gunsten wenden!
+Ein Nachteil kann schnell zum Vorteil werden.[0x000A]Überstehst du eine schwierige Situation,[0x000A]kannst du sie in einen Sieg verwandeln!
+Behältst du die Schüsse des Gegners immer[0x000A]im Auge und weichst ihnen rechtzeitig aus,[0x000A]nimmst du mit etwas Glück keinen Schaden.
+Es ist so weit! Dein Gegner aus dem[0x000A]Probetraining sinnt auf Rache!
+Triff die beweglichen Tore während du einer[0x000A]Unmenge an Schüssen ausweichst!
+Ein einziger Fehler kann das Aus bedeuten![0x000A]Gewinne, ohne deinem Gegner auch nur einen[0x000A]Volltreffer zu gönnen!
+Geheimtraining[0x000A]Dies ist die letzte Hürde. Mache dich bereit[0x000A]für ein Training der Extraklasse!
+Der Gegner schießt, wenn er dir komplett den[0x000A]Rücken zudreht! Halte die Augen offen und[0x000A]mache dich auf Angriffe gefasst!
+Nach einem Angriff verlangsamen sich[0x000A]die Armbewegungen des Gegners.[0x000A]Nutze diese Chance für einen Gegenangriff!
+Den kreuzförmigen Angriffen dieses Gegners[0x000A]kannst du ganz einfach diagonal ausweichen.[0x000A]Setze zur Not einen Schutzschild ein!
+Es erwarten dich nicht nur zielgerichtete[0x000A]Schüsse und große Bälle, sondern auch[0x000A]Angriffe durch die Bit-Ballons! Pass auf!
+Das Supertraining zahlt sich aus![0x000A]Hier kannst du Items gewinnen,[0x000A]die du teuer verkaufen kannst.
+Du musst gegen mehrere Ballon-Roboter in[0x000A]Folge kämpfen, deren Angriffsmuster sich stark[0x000A]voneinander unterscheiden. Gib dein Bestes!
+{0xBDFF:0x0071}
+{0xBDFF:0x0072}
+{0xBDFF:0x0073}
+{0xBDFF:0x0074}
+{0xBDFF:0x0075}
+{0xBDFF:0x0076}
+{0xBDFF:0x0077}
+{0xBDFF:0x0078}
+{0xBDFF:0x0079}
+{0xBDFF:0x007A}
+{0xBDFF:0x007B}
+Geheimtraining[0x000A]Dies ist die letzte Hürde. Mach dich bereit[0x000A]für ein Training der Extraklasse!
+Glückwunsch zum Abschluss deines Trainings![0x000A]Eine neue Trainingslektion ist jetzt verfügbar:{0xBE01}[0x000A]{0x0197,0x0000}
+Glückwunsch zum Abschluss deines Trainings![0x000A]Eine neue Trainingslektion ist jetzt verfügbar:{0xBE01}[0x000A]{0x0197,0x0000}[0x000A](+ {0x0201,0x0001} weitere)
+Dein Pokémon hat das Supertraining[0x000A]nicht bestanden.
+Dein Pokémon hat das Supertraining[0x000A]abgebrochen.
+An diesem Supertraining kann das[0x000A]Pokémon noch nicht teilnehmen.
+Restzeit:
+Schade! Dein Pokémon hat das Training nicht[0x000A]bestanden. Trainiere es mit den Sandsäcken[0x000A]und wage dann einen neuen Versuch.
+Gute Arbeit! Das war eine saubere Leistung![0x000A]Das Training hat deinem Pokémon gutgetan.[0x000A]Es ist schon viel stärker als vorher!
+Gute Arbeit! Dein Pokémon ist wirklich stark![0x000A]In Sachen Disziplin macht ihm keiner was vor!
+Wow! So einen schnellen Sieg hätte wohl[0x000A]niemand vorausgesehen. Dein Pokémon[0x000A]ist für dieses Training wie geschaffen!
+W-wahnsinn! Eine neue Bestzeit![0x000A]Haben wir es hier etwa mit einem[0x000A]echten Naturtalent zu tun?
+Die Vorgabezeit wurde nicht erreicht.
+Die Vorgabezeit wurde geknackt!
+Dein Pokémon hat ein Abzeichen gewonnen!
+Die Bestzeit wurde geknackt!
+{0x0102,0x0000} ist widerstandsfähiger, da es[0x000A]seinen {0x010D,0x0001}-Wert trainiert hat.
+{0x0102,0x0000} verstärkte durch das Training[0x000A]des {0x010D,0x0001}-Werts seine Schüsse.
+{0x0102,0x0000} hat die Ladedauer seines[0x000A]Fokusschusses verkürzt, weil es seinen{0xBE00}[0x000A]{0x010D,0x0001}-Wert trainiert hat.
+Das {0x010D,0x0001}-Training hat[0x000A]die Wendigkeit von {0x0102,0x0000}{0xBE00}[0x000A]erhöht!
+Das Training war sehr ausgewogen und hat[0x000A]{0x0102,0x0000} rundum stärker gemacht!
+Der {0x010D,0x0001}-Basiswert von[0x000A]{0x0102,0x0000} kann nicht weiter steigen.{0xBE00}[0x000A]Es ist jetzt ein {0x010D,0x0001}-Meister!
+Die Basiswerte von {0x0102,0x0000}[0x000A]können nicht weiter steigen!{0xBE01}[0x000A]Es ist ein wahres Meister-Pokémon!
+Die Basiswerte von {0x0102,0x0000}[0x000A]können nicht weiter steigen!{0xBE01}[0x000A]Es hat außerdem für jede einzelne[0x000A]Trainingslektion ein Abzeichen erhalten!{0xBE01}[0x000A]Es ist ein wahres Großmeister-Pokémon!
+Auch im Geheimtraining hat sich dein Pokémon[0x000A]als wahre Größe erwiesen!
+Lass dein Pokémon fleißig am Supertraining[0x000A]teilnehmen, bis es zum Meister-Pokémon wird!
+Alle Basiswerte wurden vollständig trainiert.[0x000A]Dein Pokémon ist nun ein Meister-Pokémon!{0xBE01}[0x000A]Herzlichen Glückwunsch!
+Dieses Pokémon ist ein wahres[0x000A]Meister-Pokémon!
+Versuche, deinem Pokémon zum Titel[0x000A]Großmeister-Pokémon zu verhelfen,{0xBE00}[0x000A]indem du mit ihm in allen Trainingslektionen{0xBE00}[0x000A]ein Abzeichen abstaubst!
+Fantastisch! Dieses Pokémon hat in allen[0x000A]Trainingslektionen ein Abzeichen erhalten!{0xBE01}[0x000A]Es ist des Titels Großmeister-Pokémon würdig![0x000A]Kolossal! Herzlichen Glückwunsch!
+Dieses Pokémon ist ein wahres[0x000A]Großmeister-Pokémon!
+Unterziehe dein Pokémon einem Supertraining!{0xBE01}[0x000A]Berühre die runde Schaltfläche auf dem[0x000A]Touchscreen und ab geht die Post!
+{0xBDFF:0x009C}
+Gute Arbeit![0x000A]Das war ein gelungenes Supertraining!{0xBE01}[0x000A]Meistert dein Pokémon eine Trainingslektion,[0x000A]erhält es einen Basiswert-Bonus und wird{0xBE00}[0x000A]stärker.
+Schade! Das war ganz knapp!{0xBE01}[0x000A]Wenn dein Pokémon eine Lektion des[0x000A]Supertrainings meistert, erhält es dafür{0xBE00}[0x000A]einen Basiswert-Bonus, der ihm dabei hilft,{0xBE00}[0x000A]stärker zu werden!
+Nimmt dein Pokémon am Supertraining teil,[0x000A]kann es als Belohnung Sandsäcke erhalten.{0xBE01}[0x000A]Mit Sandsäcken wiederum kann es am[0x000A]Basistraining teilnehmen.
+Lass dein Pokémon mit dem Sandsack, den[0x000A]du erhalten hast, ein Basistraining durchführen!
+Dein Eifer in allen Ehren, aber vor dem[0x000A]Supertraining solltest du dein Pokémon{0xBE00}[0x000A]mit dem Sandsack, den du erhalten hast,{0xBE00}[0x000A]einem Basistraining unterziehen!
+Willkommen zurück beim Supertraining!{0xBE01}[0x000A]Da du dich bereits am Probetraining versucht[0x000A]hast, kannst du dich nun einer noch{0xBE00}[0x000A]anspruchsvolleren Herausforderung stellen!{0xBE01}[0x000A]Wenn du diese Lektion meisterst, geht das[0x000A]Supertraining endlich richtig los!
+Du hast keinen Platz für weitere Sandsäcke!
+Du hast keinen Platz für weitere[0x000A]{0x1001}{0x0109,0x0000}!
+Du hast eine Belohnung für deine Teilnahme[0x000A]am Supertraining erhalten!
+Trommelwirbel! Hier kommt die Auswertung...
+Die Anzahl deiner Sandsäcke beträgt nun {0x0201,0x0000}!
+Pokémon, denen der Titel Meister-Pokémon[0x000A]verliehen wurde, können am Geheimtraining,{0xBE00}[0x000A]einer noch schwierigeren Version des{0xBE00}[0x000A]Supertrainings, teilnehmen!

@@ -1,0 +1,15 @@
+main_event_0170_champion_01=Hop! {0x0100,0x0000}!{0x0114,0x0004}
+main_event_0170_rival_01=Delion...? W-Wie hast du uns gefunden?!{0xBE01}[0x000A]Ich meine, du verläufst dich doch sonst bei[0x000A]jeder Gelegenheit...{0x0114,0x0005}
+main_event_0170_champion_02=Das ist nicht witzig! Ihr könnt von Glück reden,[0x000A]dass ich euch gefunden habe.{0xBE01}[0x000A]Ihr seid ewig nicht aufgetaucht, da musste ich[0x000A]euch einfach suchen gehen.{0xBE01}[0x000A]Ich hab mir wahnsinnige Sorgen gemacht!{0x0114,0x0004}
+main_event_0170_rival_02=Da fällt mir ein... Was ist eigentlich mit Wolly?!{0xBE01}[0x000A]Es hatte sich im Wald verlaufen, und wir wollten[0x000A]es retten. Deswegen sind wir überhaupt hier!{0x0114,0x0005}
+main_event_0170_poke1_01=Wo-o-olly!
+main_event_0170_champion_03=Dem geht’s gut, wie ihr seht. Aber als ich hier[0x000A]ankam, wart ihr alle bewusstlos. Hört mal...{0xBE01}[0x000A]Auch wenn das Ganze eine Rettungsaktion war –[0x000A]ihr wisst, dass ihr den Wald nicht betreten dürft!{0xBE01}[0x000A]Einfach loszustürmen, ohne mir Bescheid zu[0x000A]sagen, war verantwortungslos und gefährlich!{0xBE01}[0x000A]Aber... gleichzeitig habt ihr auch eine Menge[0x000A]Mut bewiesen. Das muss ich euch lassen.{0x0114,0x0004}
+main_event_0170_rival_03=Ja, zum Glück ging alles noch mal gut aus...{0xBE01}[0x000A]Dieser wahnsinnige Nebel war ja noch harmlos.[0x000A]Aber der Kampf gegen dieses abgefahrene{0xBE00}[0x000A]Pokémon hätte auch anders ausgehen können...{0xBE01}[0x000A]Na ja, Ende gut, alles gut.{0x0114,0x0005}
+main_event_0170_champion_04=Moment... Welches „abgefahrene“ Pokémon?{0x0114,0x0004}
+main_event_0170_rival_04=Das hättest du mal sehen sollen, Delion![0x000A]Es hatte eine unglaubliche Ausstrahlung...{0xBE01}[0x000A]Unsere Attacken hatten gar keine Wirkung![0x000A]Es war, als würde alles durch es durchgehen.{0x0114,0x0005}
+main_event_0170_champion_05=Die Attacken sind durch es durchgegangen...?{0xBE01}[0x000A]Hm... Im Schlummerwald soll es tatsächlich ein[0x000A]merkwürdiges Pokémon geben.{0xBE01}[0x000A]Aber habt ihr es wirklich gesehen, oder war das[0x000A]nur eine Illusion?{0x0114,0x0004}
+main_event_0170_champion_06=Ich hoffe, dieses Erlebnis hat in euch den Wunsch[0x000A]geweckt, stärker zu werden.{0xBE01}[0x000A]Vielleicht schafft ihr es dann eines Tages,[0x000A]das Geheimnis des Waldes zu lüften.{0x0114,0x0004}
+main_event_0170_champion_07=Aber jetzt sollten wir erst mal wieder umkehren.{0xBE01}[0x000A]Keine Sorge, ich werde dafür sorgen, dass ihr[0x000A]hier sicher wieder rauskommt!{0x0114,0x0004}
+main_event_0170_rival_05=Delion hat uns zwar eine kleine Standpauke[0x000A]gehalten...{0x0114,0x0005}
+main_event_0170_rival_06=Aber das war mir dieses Abenteuer absolut wert![0x000A]Hehehe!{0xBE01}[0x000A]Das wird ein weiteres spannendes Kapitel[0x000A]in der Legende von Hop!{0x0114,0x0005}
+main_event_0170_rival_07={0xBDFF:0x000E}

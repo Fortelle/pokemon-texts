@@ -1,0 +1,33 @@
+Hi, wie geht’s?{0xBE01}[0x000A]Das kommt jetzt zwar etwas plötzlich,[0x000A]aber würdest du nicht gerne Champ werden?{0xBE01}[0x000A]Ich bin zwar selbst kein Trainer, aber ich kann[0x000A]dir trotzdem nützliche Ratschläge geben.
+Also, abgemacht![0x000A]Wir werden dich zum Champ machen!{0xBE01}[0x000A]Als Trainer ist es dein Ziel, die Orden der Arenen[0x000A]zu sammeln, habe ich recht?{0xBE01}[0x000A]Aber die Arenaleiter sind nicht gerade[0x000A]einfach zu besiegen!{0xBE01}[0x000A]Und hier komme ich ins Spiel![0x000A]Ich werde dir Tipps geben!
+Felizia, die Arenaleiterin hier, setzt Gesteins-Pokémon ein.{0xBE01}[0x000A]Gesteins-Pokémon sind sehr zäh, haben aber gegen[0x000A]Wasser- und Pflanzen-Attacken keine Chance.{0xBE01}[0x000A]Komm wieder, wenn du die Arenaleiterin besiegt hast.{0xBE01}[0x000A]Hals- und Beinbruch!
+Hui! Was für ein atemberaubender Sieg![0x000A]Meine Zurufe müssen gewirkt haben! Großartig!{0xBE01}[0x000A]Schau mal auf deinen Trainerpass.{0xBE01}[0x000A]Der Steinorden, den du bekommen hast,[0x000A]müsste dort schon vermerkt sein.{0xBE01}[0x000A]Nun hast du den ersten Schritt auf dem Weg[0x000A]zum Champ schon erfolgreich hinter dir!{0xBE01}[0x000A]Ein großartiges Gefühl, oder?
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+Mein Gefühl hat mich nicht getäuscht!{0xBE01}[0x000A]Ich war mir sicher, dass du und dein Pokémon-Team[0x000A]es bis hierher schaffen würdet!{0xBE01}[0x000A]Dann zeig mir doch mal, welche Pokémon du ausgewählt[0x000A]und was für eine Taktik du dir zurechtgelegt hast!
+{0xBDFF:0x000B}
+Ich verstehe schon.{0xBE01}[0x000A]Die Regeln der Pokémon Liga schreiben vor, dass Trainer,[0x000A]die einen Arenaleiter besiegt haben, das hier erhalten.{0xBE01}[0x000A]Bitte nimm den offiziellen Steinorden[0x000A]der Pokémon Liga an!
+{0x0100,0x0000} erhält den Steinorden[0x000A]von Felizia!
+Der Steinorden ermöglicht es dir, die VM Zerschneider[0x000A]auch außerhalb eines Kampfes einzusetzen.{0xBE01}[0x000A]Außerdem hören alle Pokémon bis Level 20 auf dich,[0x000A]auch solche, die du von anderen erhalten hast.{0xBE01}[0x000A]Und dies möchte ich dir auch noch geben.
+Die Attacke Felsgrab richtet nicht nur Schaden an,[0x000A]indem der Anwender Steine auf das Ziel fallen lässt,{0xBE00}[0x000A]sondern reduziert auch die Initiative des Gegners.{0xBE01}[0x000A]Wenn du eine TM aktivierst, kannst du die Attacke[0x000A]im Handumdrehen einem Pokémon beibringen.{0xBE01}[0x000A]TMs sind übrigens beliebig oft einsetzbar.[0x000A]Du kannst also nach Herzenslust herumexperimentieren!
+Da du so stark bist, solltest du auch[0x000A]die anderen Arenaleiter herausfordern.{0xBE01}[0x000A]Du lernst wertvolle Dinge dazu,[0x000A]wenn du gegen viele Trainer antrittst.
+Pokémon-Arena von Metarost City
+Pokémon-Arena von Metarost City{0xBE01}[0x000A]Von Felizia anerkannte Trainer:[0x000A]{0x0100,0x0000}
+Oh, guten Tag.{0xBE01}[0x000A]Du bist {0x1100,0x00FF,0x1818,0x0000}ein neuer Herausforderereine neue Herausforderin, stimmt’s?
+Ich bin die Arenaleiterin von Metarost City.[0x000A]Mein Name ist Felizia.
+Ich bin Arenaleiterin geworden, um das Wissen,[0x000A]das ich mir in der Trainerschule angeeignet habe,{0xBE00}[0x000A]in der Praxis anwenden zu können.
+Wenn du mich in einem Pokémon-Kampf besiegst,[0x000A]übergebe ich dir einen Orden als Beweis deiner Stärke.{0xBE01}[0x000A]Also fordere mich heraus!
+Ich freue mich schon auf unseren Kampf.{0xBE01}[0x000A]Bis dahin.
+Da sind verschiedene Fossilien aufgereiht.
+Auf dem Hinweisschild zu dem ausgestellten Fossil[0x000A]steht Folgendes: „Versteinerter Baum“.{0xBE01}[0x000A]Dieses Fossil muss wohl früher ein Baum gewesen sein.
+Hier liegt allerlei funktionstüchtiges Werkzeug[0x000A]zum Ausgraben von Fossilien herum.
+Dieses Stück Bernstein ist in fabelhaftem Zustand.
+Gesteinsfund aus Kalos.{0xBE01}[0x000A]Der Stein wurde an einem Ort namens[0x000A]Leuchthöhle zutage gefördert.
+Du hast nun also den Titel des Champs errungen![0x000A]Herzlichen Glückwunsch!{0xBE01}[0x000A]Ab und an denke ich an jenen Augenblick zurück,[0x000A]als ich dir den Steinorden überreicht habe.{0xBE01}[0x000A]Dieses Wohlgefühl, das meinen Körper während[0x000A]unseres Kampfes damals durchströmte...{0xBE01}[0x000A]Ich würde mich sehr freuen, wenn wir irgendwann[0x000A]die Gelegenheit hätten, noch einmal gegeneinander{0xBE00}[0x000A]zu kämpfen.
+Unter meinen von Steinen begeisterten Freunden[0x000A]befindet sich eine Person namens Troy.{0xBE01}[0x000A]Kaum kommt man in seiner Gegenwart auf Steine[0x000A]oder Stahl-Pokémon zu sprechen, beginnen seine{0xBE00}[0x000A]Augen zu funkeln und er wird so aufgeregt,{0xBE00}[0x000A]dass man meinen könnte, man habe es mit{0xBE00}[0x000A]einer vollkommen anderen Person zu tun!{0xBE01}[0x000A]Diese Seite an ihm ist wirklich sehr charmant.
+Pokémon-Arena von Metarost City{0xBE01}[0x000A]Von Felizia anerkannte Trainer:[0x000A]{0x0100,0x0000}{0xBE00}[0x000A]Heiko
+Ein Modell, auf dessen Hinweisschild Folgendes steht:[0x000A]„Gesteinsschicht aus dem Gebiet um Laubwechselfeld“.{0xBE01}[0x000A]Außerdem wird erklärt, dass es in der Umgebung von[0x000A]Laubwechselfeld das größte Fossilienvorkommen{0xBE00}[0x000A]in Hoenn gibt.

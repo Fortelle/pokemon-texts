@@ -1,0 +1,8 @@
+msg_main0930_kojiro_01=Bleib sofort stehen, du Rotzlöffel!
+msg_main0930_kojiro_02={0xFF00,0x0009}James:{0xFF00,0x0000} Der Boss steckt gerade mitten in ’nem[0x000A]wichtigen Gespräch, klar?{0xBE01}[0x000A]Wenn du glaubst, dass wir dich da einfach[0x000A]reinspazieren lassen, hast du dich geschnitten!
+msg_main0930_poke_01={0xFF00,0x0009}Mauzi:{0xFF00,0x0000} Miaaauz!
+msg_main0930_dummy_01={0xBDFF:0x0003}
+msg_main0930_dummy_02={0xBDFF:0x0004}
+msg_main0930_kojiro_03={0xFF00,0x0009}James:{0xFF00,0x0000} Sieht so aus, als wäre das mal wieder...
+msg_main0930_musashi_01={0xFF00,0x0009}Team Rocket:{0xFF00,0x0000} ...ein Schuss in den Ofen!
+msg_main0930_musashi_back={0xFF00,0x0009}Jessie:{0xFF00,0x0000} Du wolltest uns doch nicht etwa mit nur[0x000A]einem Pokémon entgegentreten?{0xBE01}[0x000A]Komm wieder, wenn dein Team mehr hermacht.[0x000A]Zwei Pokémon brauchst du mindestens!

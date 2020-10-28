@@ -1,0 +1,54 @@
+Opciones
+Aceptar
+Salir
+Velocidad del texto
+Lenta
+Media
+Rápida
+Elige entre los tres niveles de velocidad del texto.
+Animaciones combate
+Ver
+No ver
+Activa o desactiva las animaciones durante los combates.
+Tipo de combate
+Con cambios
+Fijo
+Configura las reglas que se aplican en los combates.
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+Caracteres
+Hiragana
+Kanji
+Elige cómo quieres que aparezca el texto japonés[0x000A]en pantalla.
+Fondo de combate
+Estándar
+{0xBDFF:0x001B}
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}
+{0xBDFF:0x001E}
+{0xBDFF:0x001F}
+{0xBDFF:0x0020}
+{0xBDFF:0x0021}
+{0xBDFF:0x0022}
+{0xBDFF:0x0023}
+{0xBDFF:0x0024}
+{0xBDFF:0x0025}
+{0xBDFF:0x0026}
+{0xBDFF:0x0027}
+{0xBDFF:0x0028}
+Elige el fondo que quieres que aparezca en la pantalla[0x000A]táctil durante los combates.
+Configuración botones
+Normal
+Botón L = Botón A
+Sin botones L y R
+Puedes elegir que el botón L funcione como el botón A, lo[0x000A]que desactivará el botón R, o desactivar los botones L y R.
+Guardado obligatorio
+Sí
+No
+Puedes elegir si debes guardar siempre antes de los[0x000A]combates en conexión y otras funciones del PSS.
+¿Cambiar las opciones seleccionadas?
+Sí
+No

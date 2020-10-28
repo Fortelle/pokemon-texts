@@ -1,0 +1,9 @@
+main_event_1860_rival_01=Ehi! Dove siete? Abbiamo bisogno[0x000A]del vostro aiuto!{0x0114,0x0005}
+main_event_1860_assistant_01=Ehi, voi due! Che succede?{0x0114,0x000B}
+main_event_1860_rival_02=Ah! Sonia, li hai visti anche tu, vero?!{0xBE01}[0x000A]C’erano quei due Pokémon spada e scudo![0x000A]Però sono spariti di nuovo...{0x0114,0x0005}
+main_event_1860_assistant_02=Di che parli? Io qui ho visto solo voi due...{0x0114,0x000B}
+main_event_1860_rival_03=Che strano... Possibile che fossero solo[0x000A]delle allucinazioni...?{0x0114,0x0005}
+main_event_1860_assistant_03=Piuttosto, ascoltate... Ho consultato libri di altre[0x000A]regioni e finalmente ho scoperto qualcosa!{0xBE01}[0x000A]Stando ai testi, il Pokémon spada Zacian[0x000A]e il Pokémon scudo Zamazenta nacquero{0xBE00}[0x000A]in tempi remoti in un luogo lontano al di là{0xBE00}[0x000A]del Bosco Assopito.{0x0114,0x000B}
+main_event_1860_rival_04=Oh! Questa sì che è una scoperta![0x000A]Thank you, Sonia!{0x0114,0x0005}
+main_event_1860_rival_05=Ottimo! Allucinazione o no, alla fine li abbiamo[0x000A]incontrati quei due Pokémon!{0xBE01}[0x000A]E sono sicuro che troveremo anche la spada[0x000A]e lo scudo che usarono!{0x0114,0x0005}
+main_event_1860_assistant_04=Zacian e Zamazenta...{0xBE01}[0x000A]Tutto fa pensare che riposino nel Bosco Assopito,[0x000A]il luogo più vicino alla loro terra d’origine.{0xBE01}[0x000A]Nel cuore di un bosco silenzioso e impenetrabile[0x000A]in cui nessuno osa avventurarsi.{0x0114,0x000B}

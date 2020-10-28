@@ -1,0 +1,5 @@
+msg_sub053_police_F_01=Accidenti al Team Rocket...{0xBE01}[0x000A]Abbiamo già catturato un sacco di quei[0x000A]manigoldi, ma continuano a spuntarne!
+msg_sub053_police_F_02=Non dirmi che sei stat{0x1100,0x00FF,0x0101}oa tu a mettere in fuga[0x000A]quelli del Team Rocket...?!{0xBE01}[0x000A]No, non c’è bisogno di rispondere.[0x000A]Te lo leggo in faccia!{0xBE00}[0x000A]Tieni, questo è per te.
+msg_sub053_sys_01={0x0100,0x0000} riceve il {0xFF00,0x0006}completo polizia{0xFF00,0x0000}[0x000A]dall’agente di polizia!
+msg_sub053_sys_02={0x0100,0x0000} ripone il {0xFF00,0x0006}completo polizia{0xFF00,0x0000}[0x000A]nella Valigia vestiti!
+msg_sub053_police_F_03=Hai dimostrato di cavartela molto meglio di me[0x000A]come agente di polizia!{0xBE01}[0x000A]Ti ringrazio per aver salvaguardato la pace[0x000A]di Zafferanopoli!

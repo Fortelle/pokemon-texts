@@ -1,0 +1,7 @@
+msg_t009r0101_researcher_01=Qui studiamo i Pokémon.{0xBE01}[0x000A]Spesso ci portano dei Pokémon rari[0x000A]da esaminare.
+msg_t009r0101_researcher_02=Sei venut{0x1100,0x00FF,0x0101}oa a visitare il nostro laboratorio?[0x000A]Ammirevole! La scienza è importantissima!
+msg_t009r0101_researcher_03=Ehi![0x000A]È vietato correre nel corridoio!{0xBE01}[0x000A]Scusa, ho sempre voluto dire questa frase!
+msg_t009r0101_picture_01=È una foto del fondatore del laboratorio,[0x000A]il Dr. Fuji!
+msg_t009r0101_kanban_01=Laboratorio dell’Isola Cannella[0x000A]Sala riunioni
+msg_t009r0101_kanban_02=Laboratorio dell’Isola Cannella[0x000A]Ricerca e sviluppo
+msg_t009r0101_kanban_03=Laboratorio dell’Isola Cannella[0x000A]Sala esperimenti

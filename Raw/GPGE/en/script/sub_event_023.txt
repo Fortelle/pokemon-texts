@@ -1,0 +1,14 @@
+msg_sub023_karate_01_01=KARATE MASTER: *grunt*{0xBE01}[0x000A]I am the Karate Master![0x000A]I am the leader here!
+msg_sub023_karate_01_09=You wish to challenge us?[0x000A]Expect no mercy!
+msg_sub023_karate_01_10=Fwaaa!
+msg_sub023_karate_01_02=KARATE MASTER: Indeed, I have lost!
+msg_sub023_karate_01_07=But I beseech you—do not take[0x000A]our emblem as your trophy!
+msg_sub023_karate_01_08=In return, I will give you a prized[0x000A]Fighting-type Pokémon!
+msg_sub023_karate_01_06=Choose whichever one you like!
+msg_sub023_karate_01_03=KARATE MASTER: Hyah![0x000A]Stay and train at karate with us!
+msg_sub023_karate_01_04=KARATE MASTER: You want the hard-kicking[0x000A]Hitmonlee?
+msg_sub023_sys_01_01=You got {0x0101,0x0004} from the Karate Master!
+msg_sub023_karate_01_05=KARATE MASTER: You want the piston-punching[0x000A]Hitmonchan?
+msg_sub023_sys_01_02=You can only choose one.
+msg_sub023_poke_01_01=HITMONLEE: Kikick!
+msg_sub023_poke_02_01=HITMONCHAN: Knnnnuckle!

@@ -1,0 +1,80 @@
+Les Compétitions Live sont des compétitions officielles[0x000A]auxquelles vous pouvez participer lors de certains[0x000A]événements.[0x000A][0x000A]Pour plus d’informations sur les événements ou[0x000A]les règles, veuillez consulter le site officiel Pokémon.
+Recevoir la Licence Numérique[0xE07F]?
+Réception de la Licence Numérique[0xE08D][0x000A]Pour annuler, appuyez sur le bouton B.
+Voulez-vous annuler[0xE07F]?
+Impossible de participer à cette Compétition.
+L’inscription à cette Compétition a déjà[0x000A]été effectuée.
+Voulez-vous inscrire les Pokémon de[0x000A]cette Boîte Combat à cette Compétition[0xE07F]?
+Voulez-vous renoncer à inscrire[0x000A]votre Boîte Combat[0xE07F]?
+Inscription de la Boîte Combat[0xE08D][0x000A]Ne pas éteindre la console.
+Bienvenue à cette Compétition Live[0xE07F]![0x000A]Choisissez un mode.
+Recherche d’un adversaire.[0x000A]Veuillez patienter[0xE08D]
+Interrompre la communication[0xE07F]?
+Les conditions de participation de[0x000A]votre adversaire sont différentes.
+Vous avez déjà combattu contre[0x000A]cet adversaire.
+Attendez un signe d’un organisateur[0x000A]pour appuyer sur le bouton A.
+Enregistrement du résultat[0xE08D][0x000A]Ne pas éteindre la console.
+Vous avez disputé le nombre requis[0x000A]de combats. Bravo pour votre courage[0xE07F]!
+Voici le dernier combat que vous avez disputé.[0x000A]Voulez-vous en voir un enregistrement[0xE07F]?
+Si vous abandonnez la Compétition,[0x000A]vous ne pourrez plus vous y réinscrire[0xE07F]!{0xBE01}[0x000A]Voulez-vous vraiment l’abandonner[0xE07F]?
+Voulez-vous vraiment abandonner[0x000A]cette Compétition[0xE07F]?
+Vous abandonnez la Compétition[0xE08D]
+Participation annulée.[0x000A]Votre Boîte Combat est déverrouillée.
+Communication en cours…[0x000A]Veuillez patienter.
+Vous n’avez encore disputé aucun combat[0xE07F]!
+Voulez-vous aussi annuler[0x000A]votre inscription à la Compétition[0xE07F]?
+Vérification de la carte SD[0xE08D][0x000A]Ne pas éteindre la console.
+Les données de combat sont corrompues.[0x000A]Impossible de diffuser la vidéo.
+Impossible de sauvegarder la Vidéo[0x000A]de Combat. La carte SD est pleine.
+Interruption de la communication en cours[0xE08D]
+Échec de la réception.[0x000A]Veuillez reprendre depuis le début.
+Aucune Vidéo de Combat trouvée.
+Compétition Live
+Votre Boîte Combat
+{0x0201,0x0002}/{0x0201,0x0001}/{0x0203,0x0000,0x0000}
+Inscrire
+Retour
+Rechercher un adversaire
+Résultat du combat précédent
+Se désinscrire
+Rediffusion
+Retour
+Oui
+Non
+L
+{0x0202,0x0000}
+{0xFF00,0x0002}♂{0xFF00,0x0000}
+{0xFF00,0x0001}♀{0xFF00,0x0000}
+{0xBDFF:0x002F}
+Vos résultats :
+Victoires :
+{0x0201,0x0000}
+Défaites :
+{0x0201,0x0000}
+Combats disputés :
+{0x0201,0x0000}/{0x0201,0x0001}
+Adversaire :
+{0xBDFF:0x0038}
+{0xBDFF:0x0039}
+{0xBDFF:0x003A}
+{0xBDFF:0x003B}
+{0x0201,0x0000}
+Victoire de {0x0100,0x0000}[0xE07F]!
+{0x0100,0x0000} a déclaré forfait.
+Égalité[0xE07F]!
+Il y a un problème avec les Pokémon[0x000A]de votre Boîte Combat.
+Impossible de faire participer un Œuf.
+Vous n’avez pas assez de Pokémon[0x000A]pour participer.
+Vous avez trop de Pokémon pour participer.
+Il manque au moins un Pokémon requis[0x000A]dans votre équipe.
+L’un de vos Pokémon connaît une capacité[0x000A]interdite :[0x000A][0x000A]{0x0101,0x0000}[0x000A]{0x0101,0x0001}[0x000A]{0x0101,0x0002}[0x000A]{0x0101,0x0003}[0x000A]{0x0101,0x0004}[0x000A]{0x0101,0x0005}
+Pokémon ne pouvant participer :[0x000A][0x000A]{0x0101,0x0000}[0x000A]{0x0101,0x0001}[0x000A]{0x0101,0x0002}[0x000A]{0x0101,0x0003}[0x000A]{0x0101,0x0004}[0x000A]{0x0101,0x0005}
+Objet(s) interdit(s) :[0x000A][0x000A]{0x0109,0x0000}[0x000A]{0x0109,0x0001}[0x000A]{0x0109,0x0002}[0x000A]{0x0109,0x0003}[0x000A]{0x0109,0x0004}[0x000A]{0x0109,0x0005}
+Le niveau d’un ou plusieurs de vos Pokémon[0x000A]ne correspond pas au règlement.[0x000A][0x000A]{0x0101,0x0000}[0x000A]{0x0101,0x0001}[0x000A]{0x0101,0x0002}[0x000A]{0x0101,0x0003}[0x000A]{0x0101,0x0004}[0x000A]{0x0101,0x0005}
+Vous ne pouvez pas inscrire plusieurs[0x000A]Pokémon de la même espèce.[0x000A][0x000A]{0x0101,0x0000}[0x000A]{0x0101,0x0001}[0x000A]{0x0101,0x0002}[0x000A]{0x0101,0x0003}[0x000A]{0x0101,0x0004}[0x000A]{0x0101,0x0005}
+Vous ne pouvez pas faire tenir un objet[0x000A]identique à plusieurs Pokémon.[0x000A][0x000A]{0x0109,0x0000}[0x000A]{0x0109,0x0001}[0x000A]{0x0109,0x0002}[0x000A]{0x0109,0x0003}[0x000A]{0x0109,0x0004}[0x000A]{0x0109,0x0005}
+Vous avez inscrit trop de Pokémon spéciaux.
+Vous ne pouvez pas participer à une[0x000A]Compétition Live, car vous prenez déjà{0xBE00}[0x000A]part à une Compétition Internet.{0xBE01}[0x000A]Voulez-vous annuler votre participation à[0x000A]la Compétition Internet[0xE07F]?
+Attention, tout abandon de la Compétition[0x000A]Internet sera définitif[0xE07F]!{0xBE01}[0x000A]Voulez-vous vraiment abandonner[0xE07F]?
+Abandon de la Compétition Internet en cours[0xE08D][0x000A]Ne pas éteindre la console.
+Compétition Internet abandonnée.

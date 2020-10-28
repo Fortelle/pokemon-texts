@@ -1,0 +1,10 @@
+msg_t007r0103_scientist_01=Moi ? J’suis programmeur !
+msg_t007r0103_scientist_02=T’as complété ton Pokédex ?! Cool !{0xBE01}[0x000A]Ça veut dire que je n’ai pas programmé tout[0x000A]ça pour rien !
+msg_t007r0103_pokemaniac_01=Je fais tous les graphismes ![0x000A]J’ai même créé ton personnage !
+msg_t007r0103_pokemaniac_02=Félicitations pour ton Pokédex ! Tu as l’air[0x000A]d’avoir tellement grandi, d’un coup !{0xBE01}[0x000A]Hmmm ? Mais j’ai pas changé ton modèle,[0x000A]pourtant ?!{0xBE01}[0x000A]... Ah, fais pas attention à ce que je dis !
+msg_t007r0103_fat_01=J’ai écrit l’histoire, tu sais ![0x000A]Erika est mimi, tu trouves pas ?{0xBE00}[0x000A]J’aime bien Ondine et Morgane, aussi !
+msg_t007r0103_fat_02=J’ai entendu dire que tu avais complété[0x000A]ton Pokédex ! Franchement, chapeau !{0xBE01}[0x000A]Mais il te reste encore des tas de choses[0x000A]à faire en jeu !{0xBE00}[0x000A]... Enfin, j’espère !
+msg_t007r0103_pc_01=C’est le programme du jeu ! Si on y touche,[0x000A]tout va planter !
+msg_t007r0103_pc_02=Il y a une partie en cours...[0x000A]Quelqu’un joue au lieu de travailler !
+msg_t007r0103_pc_03=C’est la fin du jeu ![0x000A]Mieux vaut ne pas regarder !
+msg_t007r0103_kanban_01=GAME FREAK[0x000A]Studio de développement

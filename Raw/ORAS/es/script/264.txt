@@ -1,0 +1,17 @@
+¿A qué planta quieres ir?
+Salir
+PB
+P1
+P2
+P3
+P4
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+Error de reconocimiento.[0x000A]Este ascensor es de uso exclusivo para los inquilinos de{0xBE00}[0x000A]Malvalona Hills.
+{0x0100,0x0000}.[0x000A]Reconocimiento finalizado.{0xBE01}[0x000A]Adelante, tiene acceso al ascensor de Malvalona Hills.
+Adelante, tiene acceso al ascensor de Malvalona Hills.

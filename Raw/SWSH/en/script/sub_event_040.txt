@@ -1,0 +1,10 @@
+sub_event_040_null_01=Mugou!
+sub_event_040_leaguestaff_F_01=Electric Memory—on! This’ll help save on the[0x000A]electric bill!
+sub_event_040_null_02=Gumuuu?
+sub_event_040_leaguestaff_F_07=Guess it really doesn’t work until Type: Null[0x000A]evolves. Drat...
+sub_event_040_leaguestaff_F_02=Oh, Champion {0x0100,0x0000}.{0xBE01}[0x000A]It probably goes without saying at this point, but[0x000A]congratulations on your victory!
+sub_event_040_leaguestaff_F_03=To commemorate your achievements, I present[0x000A]you with this rare Pokémon—Type: Null!
+sub_event_040_leaguestaff_F_04=Ah, and these, too.
+sub_event_040_system_01={0x0100,0x0000} received memories!
+sub_event_040_leaguestaff_F_05=Once Type: Null evolves, its type will change[0x000A]depending on which memory you have it hold.
+sub_event_040_leaguestaff_F_06=Ah, Champion! Are you taking good care of[0x000A]Type: Null?

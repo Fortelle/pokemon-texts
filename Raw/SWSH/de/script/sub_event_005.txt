@@ -1,0 +1,11 @@
+sub_event_005_npc_01=Es ist ein Toxel! Ja, ein Toxel!{0xBE01}[0x000A]Ich habe ein Ei gefunden und bin damit[0x000A]rumgelaufen. Jetzt ist daraus ein Toxel{0xBE00}[0x000A]geschlüpft.{0xBE01}[0x000A]Hier, ich möchte, dass du es trainierst![0x000A]Es ist ein schockierend putziges Pokémon.
+sub_event_005_poke1_01=Tox! Toxel!
+sub_event_005_npc_02=Die hier kannst du auch noch haben!{0xBE01}[0x000A]Gibst du sie einem Pokémon, kannst du sein[0x000A]Training damit beschleunigen.
+sub_event_005_npc_03=Pokémon-Eier findest du im Pokémon-Hort.[0x000A]Und EP-Bonbons erhältst du, wenn du{0xBE00}[0x000A]Dyna-Raids bestreitest.
+sub_event_005_npc_04=Was?! Du hast so viele Pokémon, dass du kein[0x000A]weiteres annehmen kannst?{0xBE01}[0x000A]Du musst Pokémon wirklich lieben!
+sub_event_005_oldf_01={0xBDFF:0x0005}
+sub_event_005_oldf_02={0xBDFF:0x0006}
+sub_event_005_poke_01={0xBDFF:0x0007}
+sub_event_005_poke_02={0xBDFF:0x0008}
+sub_event_005_poke_03={0xBDFF:0x0009}
+sub_event_005_system_01={0xBDFF:0x000A}

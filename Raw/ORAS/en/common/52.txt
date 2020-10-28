@@ -1,0 +1,40 @@
+Find a Secret Base
+Share a Secret Base
+Your Message
+Save to SD Card
+You can scan QR Code patterns to load other[0x000A]players’ Secret Bases.{0xBE01}[0x000A]When you scan a QR Code, you will load the[0x000A]layout for another player’s Secret Base and{0xBE00}[0x000A]the brief message they entered.{0xBE01}[0x000A]Do you want to continue?
+You can create a QR Code for your own[0x000A]Secret Base.{0xBE01}[0x000A]This QR Code will contain data for your Secret[0x000A]Base’s layout and the message you entered.{0xBE01}[0x000A]The QR Code you create can be saved on[0x000A]the SD Card in your Nintendo 3DS system.
+Starting up the outer camera(s)...
+Please line up the QR Code within the green[0x000A]square on the upper screen and press the[0x000A]A Button.
+Reading data...
+Data has been read.
+Data could not be read.
+This Secret Base is located in the same spot[0x000A]as {0x0100,0x0000}’s, which you favorited.{0xBE01}[0x000A]As a result, the data could not be loaded.
+You have favorited the maximum allowed[0x000A]number of Secret Bases, so the data could{0xBE00}[0x000A]not be read.{0xBE01}[0x000A]Delete some of your favorites to make space[0x000A]for registering new Secret Bases.
+You cannot scan data from your[0x000A]own Secret Base’s QR Code.
+Now creating QR Code...
+Your QR Code has been generated!
+Your QR Code was not[0x000A]generated correctly.{0xBE01}[0x000A]Please try again.
+Saving to SD Card...
+Saved to SD Card!
+Your SD Card is full[0x000A]so you could not save.
+{0xBDFF:0x0014}
+Pokémon[0x000A]Omega Ruby
+Pokémon[0x000A]Alpha Sapphire
+{0x0100,0x0001}
+{0x0205,0x0002,0x0000}
+{0x0100,0x0003}’s Base
+Stop by my base!
+{0x01AB,0x0004}
+Read in QR Code
+The QR Code failed to be read.[0x000A]Please try again.
+What would you like to do?
+Enter a brief message to share with others,[0x000A]and then save your QR Code!
+Team {0x01AA,0x0000}’s Base
+The Secret Base from the QR Code will[0x000A]be added to your favorites automatically.{0xBE01}[0x000A]If you have already registered the[0x000A]maximum number of favorites, you won’t{0xBE00}[0x000A]be able to add new QR Code patterns.
+This Secret Base is located in the same spot[0x000A]as your Secret Pal {0x0100,0x0000}’s base.{0xBE01}[0x000A]As a result, the data could not be loaded.
+This Secret Base is located in same[0x000A]spot as your own base.{0xBE01}[0x000A]As a result, the data could not be read.
+Yes
+No
+Image failed to be saved because your[0x000A]Nintendo 3DS Camera application is full.
+The QR Code could not be saved.

@@ -1,0 +1,3 @@
+msg_egg_event_01_01=Oh?
+msg_egg_event_02_01={0x0101,0x0000} hatched from the Egg!
+msg_egg_event_03_01=Would you like to give a nickname[0x000A]to the {0x0101,0x0000}?

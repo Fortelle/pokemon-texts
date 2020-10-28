@@ -1,0 +1,232 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+Essayer
+Acheter
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+{0xBDFF:0x001A}
+{0xBDFF:0x001B}
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}
+{0xBDFF:0x001E}
+{0xBDFF:0x001F}
+{0xBDFF:0x0020}
+{0xBDFF:0x0021}
+{0xBDFF:0x0022}
+{0xBDFF:0x0023}
+{0xBDFF:0x0024}
+{0xBDFF:0x0025}
+{0xBDFF:0x0026}
+{0xBDFF:0x0027}
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+{0xBDFF:0x002A}
+{0xBDFF:0x002B}
+{0xBDFF:0x002C}
+{0xBDFF:0x002D}
+{0xBDFF:0x002E}
+{0xBDFF:0x002F}
+{0xBDFF:0x0030}
+{0xBDFF:0x0031}
+{0xBDFF:0x0032}
+{0xBDFF:0x0033}
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+{0xBDFF:0x0036}
+{0xBDFF:0x0037}
+{0xBDFF:0x0038}
+{0xBDFF:0x0039}
+Nous ne vendons que des vêtements pour femme[0x000A]à cet étage.{0xBE01}[0x000A]Vous ne trouverez rien pour vous ici, mais explorez[0x000A]notre collection si le cœur vous en dit[0xE07F]!
+{0xBDFF:0x003B}
+Il n’y a que des vêtements pour femme,[0x000A]et ce n’est pas donné[0xE07F]!
+{0xBDFF:0x003D}
+Nous ne vendons que des vêtements pour homme.{0xBE01}[0x000A]Vous ne trouverez rien pour vous ici, mais explorez[0x000A]notre collection si le cœur vous en dit[0xE07F]!
+{0xBDFF:0x003F}
+Il n’y a que des vêtements pour homme,[0x000A]et ce n’est pas donné[0xE07F]!
+{0xBDFF:0x0041}
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+Retour
+Essayer
+Porte-monnaie
+{0xBDFF:0x0047}
+Voulez-vous sortir de la cabine d’essayage[0x000A]sans vous changer[0xE07F]?
+{0xBDFF:0x0049}
+{0xBDFF:0x004A}
+{0xBDFF:0x004B}
+{0xBDFF:0x004C}
+{0xBDFF:0x004D}
+Bouton Y :[0x000A]Zoom avant/Zoom arrière
+Pad circulaire à gauche ou à droite :[0x000A]Rotation[0x000A]Pad circulaire en haut ou en bas :[0x000A]Balayage vertical de l’image[0x000A]si le zoom est activé.
+{0x0206,0x0000,0xE07F} $
+{0xBDFF:0x0051}
+{0xBDFF:0x0052}
+C’est une cabine d’essayage.[0x000A]Voulez-vous vous changer[0xE07F]?
+C’est une cabine d’essayage.{0xBE01}[0x000A]N’hésitez pas à essayer les articles[0x000A]que vous avez sélectionnés.
+C’est une cabine d’essayage.[0x000A]Que voulez-vous changer[0xE07F]?
+Vêtements
+Lentilles
+Vous n’avez pas de lentilles.
+Quelles lentilles voulez-vous mettre[0xE07F]?
+Marron
+Noisette
+Grises
+Vertes
+Bleues
+Aucune
+Suivant
+Annuler
+Au fait[0xE08D] Vous savez que nous acceptons[0x000A]les Bons de Réduction[0xE07F]?{0xBE01}[0x000A]Un bon vous donne droit à {0x0201,0x0001} % de réduction[0x000A]sur toute notre collection.{0xBE01}[0x000A]Si vous en obtenez un, vous n’avez qu’à[0x000A]me le montrer au moment de payer.
+Au fait[0xE08D] Vous savez que nous acceptons[0x000A]les Bons de Réduction[0xE07F]?{0xBE01}[0x000A]Cela vous donne droit à {0x0201,0x0001} % de réduction[0x000A]sur toute notre collection.{0xBE01}[0x000A]Si vous en obtenez un, vous n’avez qu’à[0x000A]me le montrer au moment de payer.
+{0xBDFF:0x0064}
+{0xBDFF:0x0065}
+{0xBDFF:0x0066}
+{0xBDFF:0x0067}
+{0xBDFF:0x0068}
+{0xBDFF:0x0069}
+{0xBDFF:0x006A}
+{0xBDFF:0x006B}
+Choisissez votre tenue
+Menu
+Choisir une tenue favorite
+Enregistrer dans vos favoris
+Tri alphabétique
+{0xBDFF:0x0071}
+{0xBDFF:0x0072}
+Ouvrir le menu
+Fermer le menu
+Choisir une tenue favorite
+Enregistrer dans vos favoris
+{0xBDFF:0x0077}
+Permet de choisir l’une des tenues que[0x000A]vous avez enregistrées.
+Permet d’enregistrer vos tenues favorites.
+Arrange les articles par ordre alphabétique.
+Réinitialise l’ordre des articles.
+Tenue actuelle
+Tenue nº {0x0200,0x0000}
+{0xBDFF:0x007E}
+Voulez-vous enregistrer votre tenue actuelle[0x000A]sous le nº {0x0200,0x0000}[0xE07F]?
+Le nº {0x0200,0x0000} est déjà utilisé. Voulez-vous remplacer[0x000A]la tenue enregistrée à ce nº[0xE07F]?
+Voulez-vous choisir la tenue nº {0x0200,0x0000}[0xE07F]?
+Aucune tenue n’est enregistrée sous le nº {0x0200,0x0000}.
+Vous avez choisi la tenue nº {0x0200,0x0000}.
+Vous avez enregistré cette tenue sous le nº {0x0200,0x0000}.
+{0xBDFF:0x0085}
+{0xBDFF:0x0086}
+Tri par ordre alphabétique
+Rouge
+Orange
+Jaune
+Vert Clair
+Vert
+Bleu
+Bleu Ciel
+Rose
+Violet
+Marron
+Noir
+Gris
+Bleu Marine
+Beige
+Vert Olive
+Rose Pâle
+Doré
+Argenté
+{0xBDFF:0x009A}
+{0xBDFF:0x009B}
+{0xBDFF:0x009C}
+{0xBDFF:0x009D}
+{0xBDFF:0x009E}
+{0xBDFF:0x009F}
+{0xBDFF:0x00A0}
+{0xBDFF:0x00A1}
+{0xBDFF:0x00A2}
+{0xBDFF:0x00A3}
+{0xBDFF:0x00A4}
+{0xBDFF:0x00A5}
+{0xBDFF:0x00A6}
+Annuler tri alphabétique
+Oui
+Non
+Bonjour[0xE07F]![0x000A]Puis-je vous aider[0xE07F]?
+Bonjour[0xE07F]![0x000A]Que puis-je faire pour vous[0xE07F]?
+Je veux acheter un article.
+Je veux essayer un article.
+Rien, je regarde.
+Pour voir les articles qui sont en magasin,[0x000A]il suffit de regarder les objets exposés au fond{0xBE00}[0x000A]ou d’entrer dans une cabine d’essayage.{0xBE01}[0x000A]Ensuite, il ne vous reste qu’à sélectionner ceux[0x000A]que vous souhaitez acheter.
+Vous pouvez admirer notre collection exposée au[0x000A]fond du magasin ou dans l’intimité d’une cabine{0xBE00}[0x000A]d’essayage.{0xBE01}[0x000A]Ensuite, il vous suffit de sélectionner ce que[0x000A]vous souhaitez acheter.
+Pas de problème[0xE07F]![0x000A]Suivez-moi.
+Laissez-moi vous indiquer une cabine d’essayage.[0x000A]Prenez tout votre temps.
+Alors[0xE07F]?[0x000A]Prenez tout votre temps.
+Alors[0xE07F]?[0x000A]Prenez tout votre temps.
+Cela vous va à ravir[0xE07F]!{0xBE01}[0x000A]Voyons[0xE08D] Vous avez choisi {0x0201,0x0000} article{0x1101,0x0000,0x0100}s,[0x000A]pour un total de {0x0206,0x0001,0xE07F} $.{0xBE01}[0x000A]Voulez-vous procéder à l’achat[0xE07F]?
+Cela vous va à ravir[0xE07F]!{0xBE01}[0x000A]Voyons[0xE08D] Vous avez choisi {0x0201,0x0000} article{0x1101,0x0000,0x0100}s,[0x000A]pour un total de {0x0206,0x0001,0xE07F} $.{0xBE01}[0x000A]Voulez-vous procéder à l’achat[0xE07F]?
+Dans ce cas, je vais remettre[0x000A]ces articles en rayon.
+Dans ce cas, je vais remettre[0x000A]ces articles en rayon.
+Prenez tout votre temps pour examiner le reste de[0x000A]la collection.{0xBE01}[0x000A]Et n’hésitez pas à venir me voir si vous avez des[0x000A]questions.
+Prenez tout votre temps pour examiner[0x000A]le reste de la collection.
+Vous avez un Bon de Réduction, n’est-ce pas[0xE07F]?{0xBE01}[0x000A]Si je vous fais une réduction de {0x0201,0x0001} %[0x000A]il vous restera {0x0206,0x0000,0xE07F} $ à payer.{0xBE01}[0x000A]Voulez-vous utiliser ce coupon maintenant[0xE07F]?
+Il me semble me souvenir que vous avez[0x000A]un Bon de Réduction, n’est-ce pas[0xE07F]?{0xBE01}[0x000A]Si je vous fais une réduction de {0x0201,0x0001} %[0x000A]il vous restera {0x0206,0x0000,0xE07F} $ à payer.{0xBE01}[0x000A]Voulez-vous utiliser ce coupon maintenant[0xE07F]?
+Très bien[0xE07F]! Dans ce cas, nous n’utiliserons pas[0x000A]ce Bon de Réduction aujourd’hui.
+Très bien[0xE07F]!{0xBE01}[0x000A]Vous pouvez l’utiliser quand bon vous semble,[0x000A]n’hésitez pas lors d’une prochaine visite[0xE07F]!
+Très bien[0xE07F]! Dans ce cas, laissez-moi prendre[0x000A]votre Bon de Réduction.
+Très bien[0xE07F]! Dans ce cas, laissez-moi prendre[0x000A]votre Bon de Réduction.
+Vous n’avez pas assez d’argent.
+Vous n’avez pas assez d’argent.
+Cela vous va très bien[0xE07F]![0x000A]Encore merci.
+Cela vous va très bien[0xE07F]![0x000A]Encore merci.
+À très bientôt[0xE07F]!
+Nous espérons vous revoir très bientôt[0xE07F]!
+Vous possédez déjà cet article.
+Vous possédez déjà cet article.
+Il me semble me souvenir que vous avez[0x000A]un Bon de Réduction, n’est-ce pas[0xE07F]?{0xBE01}[0x000A]Si je vous fais une réduction de {0x0201,0x0001} %[0x000A]il vous restera {0x0206,0x0000,0xE07F} $ à payer.{0xBE01}[0x000A]Voulez-vous utiliser ce coupon maintenant[0xE07F]?
+Il me semble me souvenir que vous avez[0x000A]un Bon de Réduction, n’est-ce pas[0xE07F]?{0xBE01}[0x000A]Si je vous fais une réduction de {0x0201,0x0001} %[0x000A]il vous restera {0x0206,0x0000,0xE07F} $ à payer.{0xBE01}[0x000A]Voulez-vous utiliser ce coupon maintenant[0xE07F]?
+Souhaitez-vous acheter votre sélection[0xE07F]?
+Souhaitez-vous acheter votre sélection[0xE07F]?
+Très bien[0xE07F]!{0xBE01}[0x000A]Vous pouvez l’utiliser quand bon vous semblera,[0x000A]prenez votre temps[0xE07F]!
+Très bien[0xE07F]!{0xBE01}[0x000A]Vous pouvez l’utiliser quand bon vous semblera,[0x000A]prenez votre temps[0xE07F]!
+Très bien.[0x000A]Votre Bon de Réduction, s’il vous plaît[0xE07F]!
+Très bien.[0x000A]Votre Bon de Réduction, s’il vous plaît[0xE07F]!
+Vous n’avez pas assez d’argent.
+Vous n’avez pas assez d’argent.
+Je vous remercie[0xE07F]![0x000A]N’oubliez pas vos achats.
+Je vous remercie[0xE07F]![0x000A]N’oubliez pas vos achats.
+Très bien[0xE07F]![0x000A]N’hésitez pas à regarder le reste de la collection.
+Comme vous voudrez, M{0x1100,0x00FF,0x0507}onsieuradame.[0x000A]Prenez tout votre temps.
+Retour
+Confirmer
+Continuer
+Porté actuellement
+C’est votre première visite dans notre boutique,[0x000A]n’est-ce pas[0xE07F]?{0xBE01}[0x000A]Pour commencer, sélectionnez les articles qui[0x000A]vous tentent au fond du magasin.
+C’est la première fois que vous poussez les portes[0x000A]de notre boutique, n’est-ce pas[0xE07F]?{0xBE01}[0x000A]Avant tout, sélectionnez les articles qui vous font[0x000A]envie au fond du magasin.
+Très bien[0xE07F]![0x000A]N’hésitez pas à regarder le reste de la collection.
+Comme vous voudrez, M{0x1100,0x00FF,0x0507}onsieuradame.[0x000A]Prenez tout votre temps.
+C’est une cabine d’essayage.[0x000A]Voulez-vous vous changer[0xE07F]?
+C’est une cabine d’essayage.[0x000A]Voulez-vous vous changer[0xE07F]?
+Vous désirez utiliser la cabine[0xE07F]?[0x000A]Je vous en prie.
+Vous désirez utiliser la cabine[0xE07F]?[0x000A]Je vous en prie.
+Très cher client, les vêtements homme sont situés[0x000A]au premier étage.{0xBE01}[0x000A]Si vous désirez faire des essayages, veuillez donc[0x000A]monter à l’étage.
+Très chère cliente, les vêtements femme sont situés[0x000A]au rez-de-chaussée.{0xBE01}[0x000A]Si vous désirez faire des essayages, veuillez donc[0x000A]descendre à l’étage inférieur.
+Blanc
+Déjà acheté
+Retour

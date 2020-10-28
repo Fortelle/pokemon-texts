@@ -1,0 +1,13 @@
+sub_event_006_childF_01=你有好好掌握[0x000A]宝可梦的属性相克吗？{0xBE01}[0x000A]要不要来做个测试呢？
+sub_event_006_childF_02=那我开始出题了哦！
+sub_event_006_childF_03={0x0103,0x0001}属性的招式[0x000A]对什么属性的宝可梦效果绝佳？
+sub_event_006_childF_04={0x0103,0x0002}
+sub_event_006_childF_05=恭喜你！答对了！
+sub_event_006_childF_06=好遗憾！答错了！
+sub_event_006_childF_07=下一道题是！
+sub_event_006_childF_08=欢迎你再次挑战！
+sub_event_006_childF_09={0x0200,0x0003}道题中，[0x000A]你答对了{0x0200,0x0004}道题！
+sub_event_006_childF_10=看来你对宝可梦的属性相克[0x000A]已经了如指掌了呢！
+sub_event_006_childF_11=看来你对宝可梦的属性相克[0x000A]掌握的还可以哦！
+sub_event_006_childF_12=看来你应该再多花些功夫[0x000A]去研究宝可梦的属性相克……
+sub_event_006_childF_13=恭喜你第一次全部答对！[0x000A]作为奖励这个礼物就送给你了！

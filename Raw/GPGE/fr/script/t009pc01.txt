@@ -1,0 +1,6 @@
+msg_t009pc01_woman_01=Je suis venue visiter l’Arène de Cramois’Île,[0x000A]mais c’est fermé.{0xBE01}[0x000A]Il doit bien y avoir une clé quelque part...[0x000A]Dans ce vieux manoir, peut-être ?{0xBE01}[0x000A]Il paraît qu’un ami du Champion d’Arène vivait[0x000A]là-bas.
+msg_t009pc01_gentlem_01=As-tu beaucoup d’amis ?{0xBE01}[0x000A]Il paraît que les Pokémon que l’on reçoit en[0x000A]faisant un échange avec un ami progressent{0xBE00}[0x000A]plus vite.{0xBE01}[0x000A]Si j’étais toi, j’essaierais, pour voir !
+msg_t009pc01_bugcatcher_01=Les Pokémon peuvent apprendre des capacités[0x000A]même après avoir interrompu une évolution.{0xBE01}[0x000A]Ça peut valoir le coup d’attendre d’avoir[0x000A]enseigné une capacité à un Pokémon avant{0xBE00}[0x000A]de le faire évoluer !
+msg_t009pc01_book_01=C’est un magazine intitulé « La tribune[0x000A]du Centre Pokémon ».
+msg_t009pc01_select_01=Voulez-vous le lire ?
+msg_t009pc01_book_02=« L’activité volcanique s’est récemment[0x000A]intensifiée à Cramois’Île.{0xBE01}[0x000A]En cas d’éruption majeure, veuillez évacuer[0x000A]l’île de toute urgence.{0xBE01}[0x000A]Le Centre Pokémon restera ouvert aussi[0x000A]longtemps que possible.{0xBE01}[0x000A]Nous vous prions seulement d’ôter les cendres[0x000A]volcaniques de vos vêtements avant d’entrer. »

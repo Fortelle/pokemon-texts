@@ -1,0 +1,9 @@
+main_event_1400_rival_01={0x0100,0x0000}!{0x0114,0x0005}
+main_event_1400_rival_02=Non immagini che è successo!{0x0114,0x0005}
+main_event_1400_select_01=Dov’è Dandel?
+main_event_1400_select_02=Cos’era quel boato?
+main_event_1400_rival_03=Eh, vorrei saperlo anch’io![0x000A]Sembrava un’esplosione gigantesca, no?!{0xBE01}[0x000A]E poi è apparsa una luce rossa e tutti i Pokémon[0x000A]selvatici della zona si sono dynamaxizzati...!{0x0114,0x0005}
+main_event_1400_rival_04=Guarda, dai un’occhiata alle notizie!{0x0114,0x0005}
+main_event_1400_rival_07=Vedi? Parlano di Dandel! Guardalo![0x000A]È proprio il più tosto che ci sia!{0x0114,0x0005}
+main_event_1400_rival_05=Dandel e il suo Charizard sono stati straveloci[0x000A]nel domare i Pokémon dynamaxizzati!{0x0114,0x0005}
+main_event_1400_rival_06=Mio fratello si riconferma il più forte di tutti!{0xBE01}[0x000A]Dai, {0x0100,0x0000}, andiamo da lui![0x000A]Allo Stadio di Knuckleburgh, presto!{0x0114,0x0005}

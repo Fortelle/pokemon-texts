@@ -1,0 +1,10 @@
+main_event_0521_staff_01={0x0100,0x0000}, Liga-Präsident Rose hat mich[0x000A]gebeten, dir dieses Geschenk zu überreichen.
+main_event_0521_staff_02=Hach ja! Ein wundervolles Geschenk von unserem[0x000A]wundervollen Liga-Präsidenten... *Seufz...*
+main_event_0521_staff_03=Oh! Verzeihung...{0xBE01}[0x000A]Hier hast du dein Geschenk: einen Dauerpass[0x000A]für die Flugtaxis!
+main_event_0521_staff_04=Wie der Name schon sagt, kannst du mit den[0x000A]Flugtaxis {0xFF00,0x0006}fliegen{0xFF00,0x0000}. Und zwar an jeden beliebigen{0xBE00}[0x000A]Ort, den du zuvor schon mal besucht hast!
+main_event_0521_staff_05=Ähem! Ich zitiere aus der Anleitung der Flugtaxis:{0xBE01}[0x000A]„Bitte öffnen Sie das X-Menü und wählen Sie die[0x000A]Karte. Danach müssen Sie nur noch Ihr Ziel{0xBE00}[0x000A]aussuchen. Guten Flug!“
+main_event_0521_staff_06=Aber das Flugtaxi bringt dich wie gesagt nur an[0x000A]Orte, die du zuvor schon mal besucht hast.{0xBE01}[0x000A]Wenn du als Nächstes nach Turffield willst, musst[0x000A]du also erst mal zu Fuß dorthin.
+main_event_0521_npc1_01={0xBDFF:0x0006}
+main_event_0521_npc2_01={0xBDFF:0x0007}
+main_event_0521_npc3_01={0xBDFF:0x0008}
+main_event_0521_npc4_01={0xBDFF:0x0009}

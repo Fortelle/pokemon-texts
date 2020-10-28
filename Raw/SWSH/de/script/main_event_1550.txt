@@ -1,0 +1,11 @@
+main_event_1550_champion_01={0x0100,0x0000}...{0xBE01}[0x000A]Was für ein bewegender Kampf!{0xBE01}[0x000A]Mir sind glatt die Tränen gekommen. Ich wusste[0x000A]ehrlich gesagt gar nicht, wie mir geschieht...{0x0114,0x0004}
+main_event_1550_champion_02=Seht euch nur an!{0xBE01}[0x000A]Ihr seid aus demselben Dorf aufgebrochen,[0x000A]habt fantastische Teams zusammengestellt{0xBE00}[0x000A]und mit allem gekämpft, was in euch steckt.{0x0114,0x0004}
+main_event_1550_champion_03=Euer Siegeswille war in jeder Attacke zu spüren.{0xBE01}[0x000A]Dieser Kampf hat einfach alles verkörpert, was[0x000A]für mich einen wahren Pokémon-Kampf ausmacht.{0x0114,0x0004}
+main_event_1550_champion_04=Dieser Trainer, der damals gezögert hat, euch[0x000A]eine Empfehlung für die Arena-Challenge zu{0xBE00}[0x000A]schreiben, muss sich jetzt echt dämlich fühlen...{0x0114,0x0004}
+main_event_1550_rival_01=Allerdings! Vor allem, wenn man bedenkt,[0x000A]dass du dieser Trainer warst, Bruderherz!{0x0114,0x0005}
+main_event_1550_champion_05=Du sagst es, Hop!{0xBE01}[0x000A]Wer weiß, wer mein Gegner im Champ-Match[0x000A]sein wird...{0xBE01}[0x000A]Aber meine Pokémon und ich werden ihm oder[0x000A]ihr mit allem, was wir haben, die Stirn bieten.{0x0114,0x0004}
+main_event_1550_champion_06=Ich sag es ganz offen heraus...{0xBE01}[0x000A]Ich wünsche mir von ganzem Herzen, dass du[0x000A]mein Gegner sein wirst, {0x0100,0x0000}.{0x0114,0x0004}
+main_event_1550_rival_02=Genau, {0x0100,0x0000}![0x000A]Jetzt geht’s erst richtig los!{0x0114,0x0005}
+main_event_1550_rival_03=Aber ich bin total alle... Ich geh mich erst mal[0x000A]etwas im Hotel entspannen.{0x0114,0x0005}
+main_event_1550_champion_07=Davor solltest du aber noch Energie tanken, Hop![0x000A]Kommt, lasst uns alle etwas essen gehen!{0x0114,0x0004}
+main_event_1550_rival_04=Können wir gern machen...{0xBE01}[0x000A]Aber wehe, du wählst wieder irgendeinen[0x000A]x-beliebigen Schuppen!{0xBE01}[0x000A]Ich will was Ordentliches zu essen!{0x0114,0x0005}

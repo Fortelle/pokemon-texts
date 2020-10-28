@@ -1,0 +1,9 @@
+msg_main8200_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} {0x0100,0x0000}...![0x000A]Non sai quanto sono contento di vederti!
+msg_main8200_rival_02=Sono riuscito a battere i Superquattro e sono[0x000A]finalmente diventato Campione!
+msg_main8200_rival_07=Immagino che il Professore ti abbia già detto[0x000A]tutto. D’ora in poi il Campione sarà parte{0xBE00}[0x000A]integrante della Lega Pokémon...{0xBE01}[0x000A]... Il che significa che dovrà lottare contro[0x000A]un sacco di Allenatori!
+msg_main8200_rival_03=Sono contento che {0x1100,0x00FF,0x0202}illa mi{0x1100,0x00FF,0x0101}oa prim{0x1100,0x00FF,0x0101}oa avversari{0x1100,0x00FF,0x0101}oa[0x000A]sia tu, {0x0100,0x0000}...!
+msg_main8200_rival_08=Tra tutti gli Allenatori e le Allenatrici del mondo,[0x000A]sei tu l’unic{0x1100,0x00FF,0x0101}oa che voglio battere davvero...{0xBE00}[0x000A]Più di chiunque altro!
+msg_main8200_rival_04=Sarà questa lotta a stabilire chi merita[0x000A]il titolo di Campione...{0xBE00}[0x000A]Sei pront{0x1100,0x00FF,0x0101}oa, {0x0100,0x0000}? Cominciamo!
+msg_main8200_rival_05={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Ti aspettavo, Campione{0x1100,0x00FF,0x0300}ssa!
+msg_main8200_rival_06=Mi sono allenato intensamente tutti i giorni[0x000A]per riuscire a batterti.{0xBE01}[0x000A]Stavolta non mi sconfiggerai![0x000A]Sei pront{0x1100,0x00FF,0x0101}oa, {0x0100,0x0000}? Cominciamo!
+msg_rival_01_p01_cave_d1405={0xBDFF:0x0008}

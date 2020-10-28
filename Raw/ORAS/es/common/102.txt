@@ -1,0 +1,80 @@
+Mediante el modo Torneo en Directo puedes participar[0x000A]en los torneos oficiales que se celebran en distintos[0x000A]emplazamientos.[0x000A][0x000A]Para obtener información sobre los torneos oficiales y[0x000A]sus reglas, visita el sitio web oficial de Pokémon.
+¿Quieres recibir el Certificado Digital de[0x000A]Jugador?
+Recibiendo el Certificado Digital de Jugador...[0x000A]Para cancelar, pulsa el botón B.
+¿Quieres cancelar la recepción?
+No puedes participar en este torneo.
+Ya te has inscrito en este torneo.
+¿Quieres registrar los Pokémon de esta Caja[0x000A]de Combate en el torneo?
+¿Quieres cancelar la inscripción de tu Caja[0x000A]de Combate?
+Registrando la Caja de Combate...[0x000A]No apagues la consola.
+Estás en el Torneo en Directo.[0x000A]Selecciona un modo.
+Buscando contrincante...[0x000A]Por favor, espera.
+¿Quieres interrumpir la búsqueda?
+Vuestros reglamentos del torneo no coinciden.
+Ya has luchado contra este contrincante.
+Pulsa el botón A cuando un miembro de la[0x000A]organización te lo indique.
+Guardando los resultados del torneo...[0x000A]No apagues la consola.
+Has librado el número de combates necesario.[0x000A]¡Bien hecho!
+Este ha sido tu último combate.[0x000A]¿Quieres volver a verlo?
+Si te retiras ahora, no podrás volver a[0x000A]participar en el mismo torneo.{0xBE01}[0x000A]¿Seguro que quieres retirarte?
+¿Seguro que quieres retirarte de este torneo?
+Cancelando tu participación en el torneo...
+Se ha cancelado tu participación en el torneo.[0x000A]La Caja de Combate se ha desbloqueado.
+Conexión en curso...[0x000A]Por favor, espera.
+¡Todavía no has librado ningún combate!
+¿Quieres cancelar tu participación[0x000A]en el torneo?
+Comprobando la tarjeta SD...[0x000A]No apagues la consola.
+Los datos están dañados.[0x000A]No se puede reproducir el Vídeo de Combate.
+No se ha podido grabar el Vídeo de Combate[0x000A]porque la tarjeta SD está llena.
+Cancelando la comunicación...
+Error de recepción.[0x000A]Inténtalo de nuevo desde el principio.
+No se ha encontrado el Vídeo de Combate.
+Torneo en Directo
+Tu Caja de Combate
+{0x0201,0x0002}-{0x0201,0x0001}-{0x0203,0x0000,0x0000}
+Registrar
+Cancelar
+Combatir
+Resultado del último combate
+Abandonar el torneo
+Ver de nuevo
+Atrás
+Sí
+No
+L
+{0x0202,0x0000}
+{0xFF00,0x0002}♂{0xFF00,0x0000}
+{0xFF00,0x0001}♀{0xFF00,0x0000}
+{0xBDFF:0x002F}
+Tus resultados:
+Victorias:
+{0x0201,0x0000}
+Derrotas:
+{0x0201,0x0000}
+Número de combates:
+{0x0201,0x0000}/{0x0201,0x0001}
+Contrincante:
+{0xBDFF:0x0038}
+{0xBDFF:0x0039}
+{0xBDFF:0x003A}
+{0xBDFF:0x003B}
+{0x0201,0x0000}
+¡La victoria es para {0x0100,0x0000}!
+{0x0100,0x0000} se ha retirado del combate.
+Se ha producido un empate.
+Se ha detectado un problema con alguno de[0x000A]los Pokémon de tu Caja de Combate.
+Los Huevos no pueden participar.
+No hay suficientes Pokémon participantes.
+Hay demasiados Pokémon participantes.
+Falta alguno de los Pokémon requeridos para[0x000A]participar.
+Alguno de los Pokémon conoce un movimiento[0x000A]no permitido.[0x000A][0x000A]{0x0101,0x0000}[0x000A]{0x0101,0x0001}[0x000A]{0x0101,0x0002}[0x000A]{0x0101,0x0003}[0x000A]{0x0101,0x0004}[0x000A]{0x0101,0x0005}
+Alguno de tus Pokémon no puede participar:[0x000A][0x000A]{0x0101,0x0000}[0x000A]{0x0101,0x0001}[0x000A]{0x0101,0x0002}[0x000A]{0x0101,0x0003}[0x000A]{0x0101,0x0004}[0x000A]{0x0101,0x0005}
+Alguno de tus Pokémon lleva un objeto no[0x000A]permitido:[0x000A][0x000A]{0x0109,0x0000}[0x000A]{0x0109,0x0001}[0x000A]{0x0109,0x0002}[0x000A]{0x0109,0x0003}[0x000A]{0x0109,0x0004}[0x000A]{0x0109,0x0005}
+El nivel de alguno de tus Pokémon no se ciñe[0x000A]al reglamento:[0x000A][0x000A]{0x0101,0x0000}[0x000A]{0x0101,0x0001}[0x000A]{0x0101,0x0002}[0x000A]{0x0101,0x0003}[0x000A]{0x0101,0x0004}[0x000A]{0x0101,0x0005}
+Algunos Pokémon son de la misma especie:[0x000A][0x000A]{0x0101,0x0000}[0x000A]{0x0101,0x0001}[0x000A]{0x0101,0x0002}[0x000A]{0x0101,0x0003}[0x000A]{0x0101,0x0004}[0x000A]{0x0101,0x0005}
+Algunos Pokémon llevan el mismo objeto:[0x000A][0x000A]{0x0109,0x0000}[0x000A]{0x0109,0x0001}[0x000A]{0x0109,0x0002}[0x000A]{0x0109,0x0003}[0x000A]{0x0109,0x0004}[0x000A]{0x0109,0x0005}
+Has elegido más Pokémon especiales de los[0x000A]permitidos.
+No puedes participar en el Torneo en Directo[0x000A]porque ya estás participando en un Torneo en{0xBE00}[0x000A]Línea.{0xBE01}[0x000A]¿Quieres cancelar tu participación en el Torneo[0x000A]en Línea?
+Si te retiras ahora de este Torneo en Línea, no[0x000A]podrás volver a participar en el mismo.{0xBE01}[0x000A]¿Seguro que quieres retirarte?
+Cancelando tu participación...[0x000A]No apagues la consola.
+Se ha cancelado tu participación en el Torneo[0x000A]en Línea.

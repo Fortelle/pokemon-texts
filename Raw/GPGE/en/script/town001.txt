@@ -1,0 +1,7 @@
+msg_town001_post_01={0x0100,0x0000}’s House
+msg_town001_post_02={0x0100,0x0001}’s House
+msg_town001_kanban_01=Pallet Town:[0x000A]Shades of Your Journey Await!
+msg_town001_kanban_02=Oak Pokémon Research Lab
+msg_town001_youngf_01=I’m raising Pokémon, too.{0xBE01}[0x000A]When they get strong, they’ll be able to[0x000A]protect me.
+msg_town001_fat_01=Technology is incredible!{0xBE01}[0x000A]Now you can connect your smartphone to your[0x000A]game console and send data between them!
+msg_town001_test_01={0xBDFF:0x0006}

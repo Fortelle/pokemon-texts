@@ -1,0 +1,52 @@
+Name:
+{0x0100,0x0000}
+ID-Nr.:
+{0x0205,0x0000,0x0000}
+Alola-Pokédex:
+{0x0202,0x0000}
+
+Geld:
+{0x0206,0x0000,0x002E} $
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+Gewinnpunkte:
+{0x0203,0x0000,0xE07F}
+Spielzeit:
+{0x0202,0x0000}:{0x0201,0x0001}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+Abenteuer gestartet am:
+{0x0201,0x0002}.{0x0201,0x0001}.{0x0203,0x0000,0x0000}
+Spielfigur/Foto knipsen
+{0x0201,0x0000}
+/
+Pokémon-Trainer
+Du hast deinen ersten Schritt als[0x000A]Pokémon-Trainer getan!
+Mele-Mele-Prüfungen[0x000A]bestanden
+Dir gehorchen alle Pokémon bis Level 35.[0x000A]
+Akala-Prüfungen[0x000A]bestanden
+Dir gehorchen alle Pokémon bis Level 50.[0x000A]
+Ula-Ula-Prüfungen[0x000A]bestanden
+Dir gehorchen alle Pokémon bis Level 65.[0x000A]
+Poni-Prüfungen[0x000A]bestanden
+Dir gehorchen alle Pokémon bis Level 80.[0x000A]
+Inselwanderschaft[0x000A]abgeschlossen
+Dir gehorchen alle Pokémon, unabhängig von[0x000A]ihrem Level.
+Mele-Mele-Pokédex[0x000A]vervollständigt
+Du hast alle Pokémon-Arten auf Mele-Mele[0x000A]im Pokédex registriert!
+Akala-Pokédex[0x000A]vervollständigt
+Du hast alle Pokémon-Arten auf Akala[0x000A]im Pokédex registriert!
+Ula-Ula-Pokédex[0x000A]vervollständigt
+Du hast alle Pokémon-Arten auf Ula-Ula[0x000A]im Pokédex registriert!
+Poni-Pokédex[0x000A]vervollständigt
+Du hast alle Pokémon-Arten auf Poni[0x000A]im Pokédex registriert!
+Alola-Pokédex[0x000A]vervollständigt
+Du hast alle Pokémon-Arten der Alola-Region[0x000A]im Pokédex registriert!
+50 Siege in Folge[0x000A]im Einzelkampf
+Du hast im Kampfbaum 50 Einzelkämpfe[0x000A]in Folge gewonnen!
+50 Siege in Folge[0x000A]im Doppelkampf
+Du hast im Kampfbaum 50 Doppelkämpfe[0x000A]in Folge gewonnen!
+Meisterhafter[0x000A]Pokémon-Sucher
+Du hast alle Upgrades für den Pokémon-Sucher[0x000A]erhalten!
+50 Siege in Folge[0x000A]im Multikampf
+Du hast im Kampfbaum 50 Multikämpfe[0x000A]in Folge gewonnen!

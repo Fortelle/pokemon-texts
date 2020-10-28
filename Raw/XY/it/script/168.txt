@@ -1,0 +1,11 @@
+Ehi! Ferm{0x1100,0x00FF,0x0101}oa lì!
+Chi sei?
+Ehi, ragazzin{0x1100,0x00FF,0x0101}oa?
+Da dove sbuchi?
+Cosa vuoi?
+Dove credi di andare?{0xBE01}[0x000A]Qui può entrare solo[0x000A]il personale autorizzato!
+E tu che ci fai qui?{0xBE01}[0x000A]Sparisci! Non vedi che stiamo rubando[0x000A]l’energia elettrica di Luminopoli?!
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}

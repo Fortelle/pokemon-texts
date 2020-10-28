@@ -1,0 +1,251 @@
+{0x0102,0x0000}
+{0x0101,0x0000}
+{0x0202,0x0000}
+{0x0202,0x0000}
+{0x0201,0x0000}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+–
+l
+Pokédex-Nr.
+???
+Name
+Typ
+OT
+{0x0100,0x0000}
+KP
+/
+Angriff
+Vert.
+Sp.-Ang.
+Sp.-Vert.
+Initiative
+Wesen
+{0x0108,0x0000}
+Fähigkeit
+{0x0106,0x0000}
+Item
+{0x0109,0x0000}
+Attacken
+{0x0107,0x0000}
+{0x010B,0x0000}
+Richter
+Team
+{0xBDFF:0x0021}
+Gruppe 1
+Gruppe 2
+Gruppe 3
+Bewegen
+Bericht
+Item
+Markieren
+Freilassen
+Entfernen
+Box wechseln
+Motiv
+Name
+Beutel
+Geben
+Registrieren
+Zurück
+Hintergründe 1
+Hintergründe 2
+Hintergründe 3
+Sonstige
+Wald
+Stadt
+Wüste
+Steppe
+Geröll
+Vulkan
+Schnee
+Höhle
+Strand
+Tiefsee
+Fluss
+Himmel
+Pokémon-Center
+Metall
+Kariert
+Schlicht
+Zurück
+O.K.
+Ja
+Nein
+Bearbeiten der Box beenden?
+Was soll mit {0x0102,0x0000} geschehen?
+Du benötigst ein kampffähiges Pokémon!
+Eine Box wurde ausgewählt. Was nun?
+Den Namen des Teams ändern?
+Zu welcher Box springen?
+Wähle eine Motivkategorie.
+Wähle ein Hintergrundmotiv.
+{0x0109,0x0000} an dich nehmen?
+{0x0109,0x0000} im Beutel verstaut.
+Du hast keinen Platz dafür!
+Ein Ei kann kein Item tragen!
+Wähle eine Markierung aus.
+Dieses Pokémon wirklich freilassen?
+{0x0102,0x0000} ist wieder frei.
+Mach’s gut, {0x0102,0x0000}!
+{0x0109,0x0000} ausgewählt. Was nun?
+Du kannst diesem Pokémon ein Item geben.
+Du kannst kein Ei freilassen!
+Du kannst kein fusioniertes Pokémon freilassen!
+Du kannst ein Ei nicht registrieren!
+Wo registrieren?
+Zurück zum Pokémon-Resort?
+Den {0x0109,0x0000} an dich nehmen?
+{0x0109,0x0000} zurückgenommen.
+Tausch
+Ablegen
+Nehmen
+Zurück
+Ja
+Nein
+Dieses Pokémon wird getauscht.[0x000A]Bist du damit einverstanden?
+Das Pokémon wird aus deinem Kampfteam[0x000A]entfernt und getauscht. Einverstanden?
+Dieses Pokémon kann nicht getauscht werden.
+Wenn du dieses Pokémon tauschst,[0x000A]kannst du dein Abenteuer nicht fortsetzen!
+Ein Ei kann nicht zum Tausch[0x000A]angeboten werden.
+Pokémon, die Teil eines Kampfteams sind,[0x000A]können nicht getauscht werden.
+Ein besonderes Pokémon wie dieses[0x000A]kann nicht zum Tausch angeboten werden!
+Dieses Pokémon kann nicht getauscht werden,[0x000A]da es ein besonderes Item bei sich trägt.
+Verbindung wird hergestellt...[0x000A]Bitte warte einen Moment.
+Pokémon, die Teil eines verriegelten Kampfteams[0x000A]sind, können nicht freigelassen werden.
+Pokémon, die Teil eines verriegelten Kampfteams[0x000A]sind, können nicht bewegt werden.
+Auf Items von Pokémon in verriegelten[0x000A]Kampfteams gibt es keinen Zugriff.
+Pokémon, die Teil eines verriegelten Kampfteams[0x000A]sind, können nicht markiert werden.
+Dieses Pokémon wurde dir von Sina anvertraut.[0x000A]Du kannst es nicht freilassen.
+Dieses Pokémon wurde dir von Sina anvertraut.[0x000A]Du kannst es nicht tauschen.
+Das Kampfteam ist verriegelt. Du kannst keine[0x000A]weiteren Pokémon darin registrieren.
+Pokémon, die Teil eines Kampfteams sind,[0x000A]können nicht freigelassen werden.
+Pokémon, die Teil eines Kampfteams sind,[0x000A]können zu keiner Gruppe hinzugefügt werden.
+Es wird auf die Reaktion des anderen Spielers[0x000A]gewartet... Bitte warte einen Moment.
+Noch:
+{0xBDFF:0x007D}
+Schlecht
+Nicht übel
+Gut
+Sehr gut
+Fantastisch
+Sensationell
+Akzeptables Potenzial
+Überdurchschnittliches Potenzial
+Weit überdurchschnittliches Potenzial
+Herausragendes Potenzial
+Neu
+Suchen
+–
+Pokémon
+{0x0101,0x0000}
+Typ 1
+{0x0103,0x0000}
+Typ 2
+{0x0103,0x0000}
+Attacke
+{0x0107,0x0000}
+TM
+{0x0107,0x0000}
+Fähigkeit
+{0x0106,0x0000}
+Wesen
+{0x0108,0x0000}
+Geschlecht
+[0xE08E]
+[0xE08F]
+?
+Item
+{0x0109,0x0000}
+Markierung
+Trägt ein Item
+Trägt kein Item
+Registriert
+Ja
+Nein
+Team
+{0xBDFF:0x00A6}
+Wähle deine Filterkriterien und bestätige mit „Suchen“,[0x000A]um den Filtervorgang zu starten!
+Gib den Anfangsbuchstaben des gewünschten[0x000A]Pokémon-Namens ein.
+Wähle ein Pokémon.
+Wähle Typ 1.
+Wähle Typ 2.
+Gib den Anfangsbuchstaben der gewünschten Attacke ein.
+Wähle eine Attacke.
+Suche nach Pokémon, auf die eine bestimmte TM[0x000A]angewendet werden kann.
+Gib den Anfangsbuchstaben der gewünschten[0x000A]Fähigkeit ein.
+Wähle eine Fähigkeit.
+Wähle das gewünschte Wesen.
+Wähle das Geschlecht des Pokémon aus.
+Wähle, ob bei der Suche ausschließlich Pokémon[0x000A]mit oder ohne Items berücksichtigt werden sollen.
+Suche nach Pokémon, die du mit einer Markierung[0x000A]versehen hast.
+Wähle, ob bei der Suche nur Pokémon in Teams[0x000A]berücksichtigt werden sollen.
+Suche nach Pokémon, die im ausgewählten Team[0x000A]registriert sind.
+{0x0103,0x0001}
+{0x0103,0x0002}
+{0x0107,0x0000}
+{0x0106,0x0000}
+{0x0108,0x0000}
+Alle Statuswerte steigen in gleichem Maße.
+Erleichtert Training des Angriffs-Werts.[0x000A]Erschwert Training des Verteidigungs-Werts.
+Erleichtert Training des Angriffs-Werts.[0x000A]Erschwert Training des Initiative-Werts.
+Erleichtert Training des Angriffs-Werts.[0x000A]Erschwert Training des Sp.-Ang.-Werts.
+Erleichtert Training des Angriffs-Werts.[0x000A]Erschwert Training des Sp.-Vert.-Werts.
+Erleichtert Training des Vert.-Werts.[0x000A]Erschwert Training des Angriffs-Werts.
+Alle Statuswerte steigen in gleichem Maße.
+Erleichtert Training des Vert.-Werts.[0x000A]Erschwert Training des Initiative-Werts.
+Erleichtert Training des Vert.-Werts.[0x000A]Erschwert Training des Sp.-Ang.-Werts.
+Erleichtert Training des Vert.-Werts.[0x000A]Erschwert Training des Sp.-Vert.-Werts.
+Erleichtert Training des Initiative-Werts.[0x000A]Erschwert Training des Angriffs-Werts.
+Erleichtert Training des Initiative-Werts.[0x000A]Erschwert Training des Vert.-Werts.
+Alle Statuswerte steigen in gleichem Maße.
+Erleichtert Training des Initiative-Werts.[0x000A]Erschwert Training des Sp.-Ang.-Werts.
+Erleichtert Training des Initiative-Werts.[0x000A]Erschwert Training des Sp.-Vert.-Werts.
+Erleichtert Training des Sp.-Ang.-Werts.[0x000A]Erschwert Training des Angriffs-Werts.
+Erleichtert Training des Sp.-Ang.-Werts.[0x000A]Erschwert Training des Vert.-Werts.
+Erleichtert Training des Sp.-Ang.-Werts.[0x000A]Erschwert Training des Initiative-Werts.
+Alle Statuswerte steigen in gleichem Maße.
+Erleichtert Training des Sp.-Ang.-Werts.[0x000A]Erschwert Training des Sp.-Vert.-Werts.
+Erleichtert Training des Sp.-Vert.-Werts.[0x000A]Erschwert Training des Angriffs-Werts.
+Erleichtert Training des Sp.-Vert.-Werts.[0x000A]Erschwert Training des Vert.-Werts.
+Erleichtert Training des Sp.-Vert.-Werts.[0x000A]Erschwert Training des Initiative-Werts.
+Erleichtert Training des Sp.-Vert.-Werts.[0x000A]Erschwert Training des Sp.-Ang.-Werts.
+Alle Statuswerte steigen in gleichem Maße.
+{0xBDFF:0x00D5}
+{0x0200,0x0000}
+/
+In Boxen kannst du deine Pokémon lagern und[0x000A]verwalten.[0x000A][0x000A]Auf die Boxen kannst du über den PC zugreifen,[0x000A]der in jedem Pokémon-Center zu finden ist.
+In den Boxen gibt es drei Modi, zwischen denen[0x000A]du mit dem X-Knopf wechseln kannst.[0x000A][0x000A]Im ersten Modus werden die Boxen verwaltet.[0x000A][0x000A]Du kannst unter anderem die Pokémon aus[0x000A]deinem Team mit Pokémon aus den Boxen[0x000A]austauschen und ihre Anordnung ändern.
+Im zweiten Modus werden die von deinen[0x000A]Pokémon getragenen Items verwaltet.[0x000A][0x000A]Du kannst deinen Pokémon Items zum Tragen[0x000A]geben oder ihre getragenen Items austauschen.
+Im dritten Modus werden Kampfteams[0x000A]registriert.[0x000A][0x000A]Du kannst bis zu sechs Kampfteams festlegen,[0x000A]die du in Kämpfen einsetzen möchtest.[0x000A]Ein Pokémon kann in mehreren Kampfteams[0x000A]gleichzeitig registriert sein, wodurch sich[0x000A]verschiedene Teams zusammenstellen lassen.
+Mit START oder SELECT kannst du den[0x000A]Steuerungsmodus ändern.[0x000A][0x000A]Der rote Pfeil dient der normalen Steuerung.[0x000A]Mit dem blauen Pfeil kannst du die Position[0x000A]eines Pokémon wechseln oder es mit einem[0x000A]anderen Pokémon tauschen.[0x000A]Mit dem grünen Pfeil kannst du mehrere[0x000A]Pokémon gleichzeitig auswählen.
+Mit dem Y-Knopf startest du den Suchmodus.[0x000A][0x000A]Dort kannst du schnell Pokémon finden,[0x000A]indem du nach Namen, Typ, erlernten Attacken[0x000A]usw. suchst.
+{0xBDFF:0x00DE}
+Zeig mir deine Pokémon.
+Dieses Pokémon würde ich gerne[0x000A]gegen meins tauschen!
+Zeig mir bitte ein anderes Pokémon.
+Ich habe keine anderen Pokémon.
+Bitte!
+Danke!
+Tut mir leid.
+Tschüss.
+Ich möchte mein Pokémon gegen[0x000A]ein {0x0101,0x0000} tauschen.
+Ich schaue mir gerade den Bericht[0x000A]des Pokémon an...
+Ich biete mein {0x0101,0x0000}[0x000A]zum Tausch an.
+Ich suche nach einem Pokémon...
+...
+Dein Pokémon
+Anderes Pokémon
+Abbrechen
+Der andere Spieler hat den Tausch[0x000A]abgebrochen.
+Der Tausch wurde abgebrochen.
+Es gibt ein Problem mit dem Pokémon des ande-[0x000A]ren Spielers. Der Tausch kann nicht stattfinden.
+Möchtest du den Pokémon-Tausch beenden?
+Ein Teilnehmer hat den Tausch abgebrochen.[0x000A]Der Tausch wird beendet.
+Die Verbindung wird getrennt...[0x000A]Bitte warte einen Moment.
+Das Item {0x0109,0x0000} wird vor dem[0x000A]Tausch entfernt. Möchtest du fortfahren?
+Da es ein Problem mit deinem Pokémon gibt,[0x000A]kann der Tausch nicht stattfinden.
+Bei der Datenübertragung ist ein Fehler[0x000A]aufgetreten.
+Maximiert
+Du kannst keine Eier mitnehmen.
+Du kannst dieses Pokémon nicht einsetzen.

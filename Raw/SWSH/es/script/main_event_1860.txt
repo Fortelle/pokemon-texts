@@ -1,0 +1,9 @@
+main_event_1860_rival_01=¡¡No!! ¡No os vayáis, por favor! ¡Necesitamos[0x000A]vuestra ayuda!{0x0114,0x0005}
+main_event_1860_assistant_01=¿Qué estáis haciendo aquí parados?{0x0114,0x000B}
+main_event_1860_rival_02=¡Sonia! ¡No me digas que no los has visto!{0xBE01}[0x000A]El Pokémon espada y el Pokémon escudo...[0x000A]¡estaban aquí, delante de nosotros!{0xBE01}[0x000A]Pero se han adentrado en el bosque...{0x0114,0x0005}
+main_event_1860_assistant_02=Pero ¿qué dices? Aquí no había nadie más[0x000A]aparte de vosotros.{0x0114,0x000B}
+main_event_1860_rival_03=¿Eh? ¿No eran más que una ilusión?{0x0114,0x0005}
+main_event_1860_assistant_03=No lo sé, lo único que os puedo decir es que[0x000A]he consultado libros de otras regiones y por fin{0xBE00}[0x000A]he dado con una descripción de estos Pokémon.{0xBE01}[0x000A]Al parecer, sus verdaderos nombres son Zacian y[0x000A]Zamazenta, y se cuenta que, tiempo ha, nacieron{0xBE00}[0x000A]en los confines del Bosque Oniria.{0x0114,0x000B}
+main_event_1860_rival_04=Hala, Sonia, ¡siempre te enteras de las cosas más[0x000A]interesantes! ¡Mil gracias!{0x0114,0x0005}
+main_event_1860_rival_05=¡Pues en marcha! Ilusiones o no, hemos logrado[0x000A]encontrarlos de nuevo.{0xBE01}[0x000A]¡A buscar esa espada y ese escudo que[0x000A]necesitamos como en la leyenda!{0x0114,0x0005}
+main_event_1860_assistant_04=Me cuesta creer que Zacian y Zamazenta, los[0x000A]Pokémon de la leyenda, lleven todo este tiempo{0xBE00}[0x000A]durmiendo en el corazón de este tranquilo e{0xBE00}[0x000A]imperturbable bosque, justo al lado de vuestro{0xBE00}[0x000A]pueblo natal...{0x0114,0x000B}

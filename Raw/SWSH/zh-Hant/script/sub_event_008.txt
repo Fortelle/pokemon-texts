@@ -1,0 +1,17 @@
+sub_event_008_miniskirt_01=啊哈！[0x000A]這個月的生日占卜，{0xBE00}[0x000A]真是超神準的！
+sub_event_008_miniskirt_02=嗯～？[0x000A]{0x1100,0x00FF,0x0101}你妳也想占卜看看嗎？
+sub_event_008_miniskirt_03=那麼可以先告訴我[0x000A]{0x1100,0x00FF,0x0101}你妳的出生月份嗎？
+sub_event_008_miniskirt_16=接著告訴我[0x000A]{0x1100,0x00FF,0x0101}你妳的出生日吧。
+sub_event_008_miniskirt_04=這樣啊～[0x000A]等{0x1100,0x00FF,0x0101}你妳有興趣再來找我吧！
+sub_event_008_miniskirt_05=原來如此！
+sub_event_008_miniskirt_06={0x1100,0x00FF,0x0101}你妳的生日是[0x000A]{0x0201,0x0001}月{0x0201,0x0002}日對嗎？
+sub_event_008_miniskirt_07=不論是誰都有可能會出錯的！[0x000A]可以再告訴我一次{0x1100,0x00FF,0x0101}你妳的生日嗎？
+sub_event_008_miniskirt_cancel=還是算了嗎？[0x000A]好吧，那等{0x1100,0x00FF,0x0101}你妳有興趣再說囉！
+sub_event_008_miniskirt_08={0x0201,0x0001}月{0x0201,0x0002}日[0x000A]出生的{0x1100,0x00FF,0x0101}你妳！！
+sub_event_008_miniskirt_09=讓我瞧瞧……[0x000A]{0x1100,0x00FF,0x0101}你妳是個……
+sub_event_008_miniskirt_10=嗯？哎呀……[0x000A]這裡正好被吃點心時留下的污漬給……
+sub_event_008_miniskirt_11=這一頁髒兮兮的……[0x000A]看不清楚呢……
+sub_event_008_miniskirt_12=……好！
+sub_event_008_miniskirt_13=這天出生的{0x1100,0x00FF,0x0101}你妳，[0x000A]真是超級幸運星！
+sub_event_008_miniskirt_14={0x1100,0x00FF,0x0101}你妳說不定可以遇見傳說的寶可夢！[0x000A]我是說有可能啦！
+sub_event_008_miniskirt_15=那麼再見啦！

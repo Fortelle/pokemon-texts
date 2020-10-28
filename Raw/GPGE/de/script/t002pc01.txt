@@ -1,0 +1,8 @@
+msg_t002pc01_gentleman_01=Das Lesematerial im Magazinstand da hinten[0x000A]ist für alle da.{0xBE01}[0x000A]Darauf hat mich die Dame am Empfang[0x000A]freundlicherweise hingewiesen.
+msg_t002pc01_youngm_01=Wo du von hier aus auch hingehen magst,[0x000A]es gibt in jeder Stadt ein Pokémon-Center.{0xBE01}[0x000A]Dort kannst du jederzeit völlig kostenlos dein[0x000A]Team heilen lassen!
+msg_t002pc01_childm_01=Wenn man sehr viele Pokémon fängt, werden sie[0x000A]in eine Box geschickt.{0xBE01}[0x000A]Du hast in deinem Beutel doch auch so eine Box,[0x000A]oder nicht?
+msg_t002pc01_childf_01=Hast du schon mal gegen einen anderen[0x000A]Trainer gekämpft?{0xBE01}[0x000A]Hier ein kleiner Tipp: Wenn die Initiative deines[0x000A]Pokémon größer als die des gegnerischen ist,{0xBE00}[0x000A]kommt es schneller zum Zug!
+msg_t002pc01_book_01=Hier ist ein Magazin mit dem Titel:[0x000A]„Das Pokémon-Journal“
+msg_t002pc01_select_01=Auf der Rückseite siehst du eine auffällige[0x000A]Anzeige. Möchtest du sie lesen?
+msg_t002pc01_book_02=Mithilfe von Geheimen Techniken kannst auch[0x000A]du Sträucher aus dem Weg räumen oder in{0xBE00}[0x000A]dunklen Höhlen sehen.{0xBE01}[0x000A]Praktisch in jeder Lebenslage!{0xBE01}[0x000A]Jetzt bist du an der Reihe...{0xBE01}[0x000A]Lerne noch heute eine Geheime Technik!{0xBE01}[0x000A]– Vereinigung für Geheime Techniken, Kanto
+msg_t002pc01_pc_01=Es tut mir sehr leid, aber unsere Maschine wird[0x000A]gerade gewartet.{0xBE01}[0x000A]Komm doch bitte etwas später wieder vorbei.

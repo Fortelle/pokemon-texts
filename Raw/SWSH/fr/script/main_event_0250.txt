@@ -1,0 +1,14 @@
+main_event_0250_rival_06=Hé, {0x0100,0x0000} ![0x000A]Viens par ici, j’aimerais te parler d’un truc.{0x0114,0x0005}
+main_event_0250_rival_01=Je me disais, ce serait peut-être bien d’attraper[0x000A]quelques Pokémon, non ?{0x0114,0x0005}
+main_event_0250_champion_01=Eh oui ! Le Pokédex ne va pas se remplir tout seul,[0x000A]les minus !{0x0114,0x0004}
+main_event_0250_rival_02=Frangin ?!{0x0114,0x0005}
+main_event_0250_champion_05=Eh, mais je vois que t’as déjà pigé le truc ![0x000A]Bien ouej, {0x0100,0x0000} !{0xBE01}[0x000A]Je parie que c’est ta mère qui a été prévoyante[0x000A]en te donnant de quoi en attraper !{0x0114,0x0004}
+main_event_0250_champion_02=Tu sais, les types varient en fonction des Pokémon.[0x000A]Et chaque type a ses forces et ses faiblesses.{0xBE01}[0x000A]Donc c’est bien d’avoir un peu de tout,[0x000A]histoire de monter une équipe équilibrée !{0xBE01}[0x000A]Enfin bref, regardez-moi bien, vous deux, je vais[0x000A]vous montrer comment on attrape des Pokémon !{0x0114,0x0004}
+main_event_0250_capturedemo_01={0xBDFF:0x0006}
+main_event_0250_capturedemo_02={0xBDFF:0x0007}
+main_event_0250_capturedemo_03={0xBDFF:0x0008}
+main_event_0250_rival_03=Trop fort, frangin !{0x0114,0x0005}
+main_event_0250_champion_03=Je vais vous filer des Poké Balls, tiens. Faut juste[0x000A]me promettre d’attraper plein de Pokémon avec !{0xBE01}[0x000A]Surtout dans le coin, ça grouille de Pokémon qui[0x000A]n’attendent que de trouver un Dresseur à aimer.{0x0114,0x0004}
+main_event_0250_rival_04=Cool, on va pouvoir gagner des tas de Points[0x000A]d’Expérience en attrapant des Pokémon !{0x0114,0x0005}
+main_event_0250_champion_04=Profitez des Dresseurs qui vous défieront[0x000A]en chemin pour vous faire la main !{0xBE01}[0x000A]Je me demande à quoi ressemblera l’équipe qui[0x000A]vous accompagnera au cours de vos aventures...{0xBE00}[0x000A]En tant que Maître, j’ai vraiment hâte de voir ça !{0x0114,0x0004}
+main_event_0250_rival_05=Bon, c’est décidé ! Je vais attraper un max[0x000A]de Pokémon ! La Prof va être bluffée !{0x0114,0x0005}

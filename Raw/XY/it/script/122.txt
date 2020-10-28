@@ -1,0 +1,14 @@
+Salve! Questo è il Centro Lotteria ID!{0xBE01}[0x000A]Se il numero del biglietto che estrarrai[0x000A]corrisponde all’ID di uno dei tuoi Pokémon,{0xBE00}[0x000A]potrai vincere incredibili premi!{0xBE01}[0x000A]Vuoi tentare la fortuna?
+Benissimo![0x000A]Estraiamo un biglietto!
+{0xBE02:0x000A}... {0xBE02:0x000A}...
+Ecco fatto! Il numero[0x000A]del biglietto è {0x0204,0x0000,0x0000}!{0xBE01}[0x000A]Adesso vediamo se corrisponde[0x000A]all’ID di uno dei tuoi Pokémon.
+Congratulazioni!{0xBE01}[0x000A]L’ID di un membro della tua squadra,[0x000A]{0x0102,0x0001}, contiene almeno un numero{0xBE00}[0x000A]presente nel biglietto estratto!
+Congratulazioni!{0xBE01}[0x000A]L’ID di uno dei Pokémon che hai depositato nel PC,[0x000A]{0x0102,0x0001}, contiene almeno un numero{0xBE00}[0x000A]presente nel biglietto estratto!
+Fantastico! Tutte e cinque[0x000A]le cifre corrispondono!{0xBE01}[0x000A]Una fortuna così grande[0x000A]merita il premio speciale!{0xBE01}[0x000A]Ecco a te una Master Ball!
+Fantastico! Quattro cifre[0x000A]corrispondono!{0xBE01}[0x000A]Proprio una bella fortuna![0x000A]Hai vinto il primo premio!{0xBE01}[0x000A]Ecco a te una Caramella Rara!
+Bene! Tre cifre[0x000A]corrispondono!{0xBE01}[0x000A]Bel colpo! Hai vinto[0x000A]il secondo premio!{0xBE01}[0x000A]Ecco qui un PP-Max!
+Ah! Due cifre[0x000A]corrispondono!{0xBE01}[0x000A]Niente male! Hai vinto[0x000A]il terzo premio!{0xBE01}[0x000A]Ecco a te un PP-Su!
+Sì! Una cifra[0x000A]corrisponde!{0xBE01}[0x000A]Meglio di niente! Hai[0x000A]vinto il quarto premio!{0xBE01}[0x000A]Ecco a te del Latte Mumu!
+Mi spiace...[0x000A]Hai perso...
+Torna a trovarci!
+Al Centro Lotteria ID puoi estrarre[0x000A]un solo biglietto al giorno.{0xBE01}[0x000A]Torna domani!

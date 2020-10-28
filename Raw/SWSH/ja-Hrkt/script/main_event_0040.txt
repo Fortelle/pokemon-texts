@@ -1,0 +1,14 @@
+main_event_0040_rival_01=かーちゃん　ただいま！{0x0114,0x0005}
+main_event_0040_rivalmama_01=おかえり　ホップ
+main_event_0040_rivalmama_02={0x0100,0x0000}くんも　こんにちは！
+main_event_0040_rivalmama_03={0x0100,0x0000}さんも　こんにちは！
+main_event_0040_rival_02=あれ？　アニキは{0x0114,0x0005}
+main_event_0040_rivalmama_04=まだだって　いってるでしょ[0x000A]ほんとに　あわてんぼう　なんだから
+main_event_0040_rivalmama_05=ようやく　ブラッシータウンの[0x000A]えきに　ついたころ　じゃない？
+main_event_0040_rival_03=わかった！　アニキは[0x000A]ほうこうオンチ　だもんな{0xBE00}[0x000A]むかえに　いってやるぞ！{0x0114,0x0005}
+main_event_0040_rivalmama_06=そうね[0x000A]それが　あんしん　かも
+main_event_0040_rival_04={0x0100,0x0000}は[0x000A]まだ　あってないよな{0xBE01}[0x000A]いっしょに　こいよ[0x000A]アニキを　じまん　したいんだ！{0x0114,0x0005}
+main_event_0040_rival_05=どうろで　まってるからな！！{0x0114,0x0005}
+main_event_0040_rivalmama_07={0x0100,0x0000}くん[0x000A]ダンデに　あったら　よろしくね！
+main_event_0040_rivalmama_08={0x0100,0x0000}さん[0x000A]ダンデに　あったら　よろしくね！
+main_event_0040_rivalmama_09=さてと……[0x000A]バーベキューの　じゅんび　よね！

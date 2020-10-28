@@ -1,0 +1,13 @@
+main_event_0271_doctor_01=Vaya, vaya, Paul, parece que tu Wooloo tiene[0x000A]ahora un nuevo amiguito.{0x0114,0x000A}
+main_event_0271_doctor_02=Y tú debes de ser {0x0100,0x0000}.{0xBE01}[0x000A]Sonia te ha dado una Pokédex, ¿verdad?[0x000A]Tu misión ahora consiste en completarla.{0x0114,0x000A}
+main_event_0271_champion_01=Por cierto, {0x0100,0x0000}, ¿has oído hablar[0x000A]alguna vez del fenómeno Dinamax?{0x0114,0x0004}
+main_event_0271_champion_02=Para poder dominarlo, es necesario conocerlo[0x000A]a fondo. Y no hay nadie que haya pasado más{0xBE00}[0x000A]tiempo estudiándolo que la Profesora Magnolia.{0x0114,0x0004}
+main_event_0271_doctor_03=Lionel, siempre hablando de Pokémon...[0x000A]En este mundo hay muchos otros temas igual de{0xBE00}[0x000A]interesantes. Por ejemplo, ¿tienes idea de la{0xBE00}[0x000A]cantidad de tipos de té que existen?{0x0114,0x000A}
+main_event_0271_rival_01=Oiga, profesora, ¡a ver si usted es capaz de[0x000A]convencer a Lionel para que nos recomiende{0xBE00}[0x000A]para el desafío de los gimnasios!{0x0114,0x0005}
+main_event_0271_doctor_04=Vaya... Dime, Lionel, ¿por qué no recomiendas a[0x000A]los chicos?{0x0114,0x000A}
+main_event_0271_champion_04=Pues porque su recorrido como Entrenadores no[0x000A]ha hecho más que empezar...{0xBE01}[0x000A]Me parece que están todavía demasiado verdes.{0x0114,0x0004}
+main_event_0271_doctor_05=Ya veo... Pero, Lionel, ¿no dices siempre que tu[0x000A]sueño es que los Entrenadores de Galar sean los{0xBE00}[0x000A]más fuertes del mundo?{0x0114,0x000A}
+main_event_0271_doctor_06=Hmm... pues sí. Había olvidado que ese es[0x000A]el motivo por el que les he confiado esos{0xBE00}[0x000A]Pokémon...{0x0114,0x0004}
+main_event_0271_champion_05=Vale, ¡ya sé lo que vamos a hacer!{0xBE01}[0x000A]Si queréis ganaros mi Recomendación, tenéis[0x000A]que librar un combate que emocione hasta a{0xBE00}[0x000A]un Campeón como yo.{0xBE01}[0x000A]Quiero que lo deis todo, así que dejad que cure[0x000A]a vuestros Pokémon primero.{0x0114,0x0004}
+main_event_0271_rival_02=¡Entendido, Lionel![0x000A]Venga, {0x0100,0x0000}, te espero fuera.{0x0114,0x0005}
+main_event_0271_doctor_07=Como Entrenador{0x1100,0x00FF,0x0100}a, debes darlo todo en cada[0x000A]combate. No solo por tus Pokémon, sino también{0xBE00}[0x000A]por ti mism{0x1100,0x00FF,0x0101}oa.{0x0114,0x000A}

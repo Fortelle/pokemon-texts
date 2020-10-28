@@ -1,0 +1,207 @@
+{0x0102,0x0000}
+{0x0101,0x0000}
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+-
+N. 
+{0x0202,0x0000}
+Nº Pokédex
+{0x0202,0x0000}
+???
+PV
+{0x0202,0x0000}
+/
+{0x0202,0x0000}
+Attaque
+{0x0202,0x0000}
+Défense
+{0x0202,0x0000}
+Atq. Spé.
+{0x0202,0x0000}
+Déf. Spé.
+{0x0202,0x0000}
+Vitesse
+{0x0202,0x0000}
+Nature
+{0x0108,0x0000}
+Talent
+{0x0106,0x0000}
+Objet
+{0x0109,0x0000}
+Capacités
+{0x0107,0x0000}
+{0x0107,0x0000}
+{0x0107,0x0000}
+{0x0107,0x0000}
+{0x010B,0x0000}
+Boîte Combat
+Déposer
+Retirer
+Déplacer
+Objet
+Résumé
+Marquer
+Autres Boîtes
+Fonds
+Nom
+Paysage 1
+Paysage 2
+Paysage 3
+Autres
+Spécial
+Forêt
+Ville
+Désert
+Savane
+Rochers
+Volcan
+Neige
+Grotte
+Plage
+Mer
+Rivière
+Ciel
+Centre Pokémon
+Métal
+Vichy
+Uni
+Spécial 1
+Spécial 2
+Spécial 3
+Spécial 4
+Spécial 5
+Spécial 6
+Spécial 7
+Spécial 8
+Suivant
+Précédent
+Retour
+OK
+Ranger
+Donner
+Relâcher
+Quitter
+Oui
+Non
+Rester sur cet écran[0xE07F]?
+{0x0102,0x0000} sélectionné.
+{0xBDFF:0x0057}
+Il vous faut au moins un Pokémon en forme[0xE07F]!
+Déposer où[0xE07F]?
+La Boîte est pleine.
+Votre équipe est au complet[0xE07F]!
+Boîte sélectionnée.
+Aller à quelle Boîte[0xE07F]?
+Choisissez un thème.
+Choisissez un fond.
+Prendre {0x1400,0x0000}{0x0109,0x0000}[0xE07F]?
+Vous avez trop d’exemplaires de cet objet[0xE07F]!
+{0x0109,0x0000} remis{0x1102,0x0000,0x0100,0x0200}ees dans le Sac.
+Un Œuf ne peut pas tenir un objet.
+Veuillez effectuer le marquage.
+Relâcher ce Pokémon[0xE07F]?
+{0x0102,0x0000} a été relâché.
+Bye-bye, {0x0102,0x0000}[0xE07F]!
+Sélection : {0x0109,0x0000}
+Le Pokémon peut tenir un objet.
+Un Œuf ne peut pas être relâché[0xE07F]!
+La Boîte Combat est verrouillée.[0x000A]Impossible de relâcher les Pokémon.
+Kyurem fusiorbé ne peut pas être relâché[0xE07F]!
+{0x0102,0x0000} est revenu[0xE07F]!
+Il se faisait peut-être du souci…
+Impossible à changer dans la Boîte Combat.
+{0x0102,0x0000} sélectionné.
+Échanger
+Déposer
+Quitter
+Ce Pokémon a appris une capacité précieuse[0x000A]et doit rester dans votre équipe.
+Vous avez besoin de ce Pokémon pour[0x000A]progresser dans l’aventure[0xE07F]!
+Ce Pokémon ne peut pas être échangé.
+Procéder à l’échange[0xE07F]?
+Oui
+Non
+L’échange d’Œufs est impossible.
+{0x0201,0x0000}
+Impossible de placer un Œuf.
+La Boîte Combat est verrouillée.[0x000A]Impossible de déplacer les Pokémon.
+La Boîte Combat est verrouillée.[0x000A]Impossible de changer les objets tenus.
+Enregistrement des Pokémon pour les combats.
+La Boîte Combat est verrouillée.[0x000A]Impossible de marquer les Pokémon.
+Réinitial.
+Chercher
+Quitter
+Pokémon
+{0x0101,0x0000}
+Type 1
+{0x0103,0x0000}
+Type 2
+{0x0103,0x0000}
+Capacité
+{0x0107,0x0000}
+CT & CS
+{0x0107,0x0000}
+Talent
+{0x0106,0x0000}
+Nature
+{0x0108,0x0000}
+Sexe
+[0xE08E]
+[0xE08F]
+?
+
+Objet
+{0x0109,0x0000}
+Marque
+Oui
+Non
+Définissez vos critères et appuyez sur Chercher[0x000A]pour activer la recherche.
+Chercher un Pokémon
+Saisissez la première lettre du nom du Pokémon recherché.
+Veuillez choisir un Pokémon.
+Choisissez le premier type du Pokémon recherché.
+Choisissez le second type du Pokémon recherché.
+Choisissez la première lettre du nom d’une capacité[0x000A]apprise par le Pokémon recherché.
+Sélectionnez une CS ou une CT utilisable par le Pokémon[0x000A]recherché.
+Choisissez la nature du Pokémon recherché.
+Saisissez la première lettre du nom du talent possédé[0x000A]par le Pokémon recherché.
+Choisissez le sexe du Pokémon recherché.
+Choisissez si le Pokémon recherché tient un objet ou non.
+Sélectionnez le marquage du Pokémon recherché.
+{0x0101,0x0000}
+{0x0103,0x0001}
+{0x0103,0x0002}
+{0xBDFF:0x00AC}
+{0x0107,0x0000}
+{0x0108,0x0000}
+{0x0106,0x0000}
+Progresse de façon équilibrée.
+Progresse rapidement en Attaque, lentement en Défense.
+Progresse rapidement en Attaque, lentement en Vitesse.
+Progresse rapidement en Attaque, lentement en[0x000A]Attaque Spéciale.
+Progresse rapidement en Attaque, lentement en[0x000A]Défense Spéciale.
+Progresse rapidement en Défense, lentement en Attaque.
+Progresse de façon équilibrée.
+Progresse rapidement en Défense, lentement en Vitesse.
+Progresse rapidement en Défense, lentement en[0x000A]Attaque Spéciale.
+Progresse rapidement en Défense, lentement en[0x000A]Défense Spéciale.
+Progresse rapidement en Vitesse, lentement en Attaque.
+Progresse rapidement en Vitesse, lentement en Défense.
+Progresse de façon équilibrée.
+Progresse rapidement en Vitesse, lentement en[0x000A]Attaque Spéciale.
+Progresse rapidement en Vitesse, lentement en[0x000A]Défense Spéciale.
+Progresse rapidement en Attaque Spéciale, lentement en[0x000A]Attaque.
+Progresse rapidement en Attaque Spéciale, lentement en[0x000A]Défense.
+Progresse rapidement en Attaque Spéciale, lentement en[0x000A]Vitesse.
+Progresse de façon équilibrée.
+Progresse rapidement en Attaque Spéciale, lentement en[0x000A]Défense Spéciale.
+Progresse rapidement en Défense Spéciale, lentement en[0x000A]Attaque.
+Progresse rapidement en Défense Spéciale, lentement en[0x000A]Défense.
+Progresse rapidement en Défense Spéciale, lentement en[0x000A]Vitesse.
+Progresse rapidement en Défense Spéciale, lentement en[0x000A]Attaque Spéciale.
+Progresse de façon équilibrée.
+C’est un Pokémon très spécial.[0x000A]Vous ne pouvez pas l’échanger[0xE07F]!
+Choisissez une capacité.
+Choisissez un talent.
+Ce Pokémon tient un objet très spécial.[0x000A]Vous ne pouvez pas l’échanger[0xE07F]!
+D.O.
+{0x0100,0x0000}

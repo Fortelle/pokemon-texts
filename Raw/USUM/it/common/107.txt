@@ -1,0 +1,52 @@
+Nome
+{0x0100,0x0000}
+ID
+{0x0205,0x0000,0x0000}
+Pokédex di Alola
+{0x0202,0x0000}
+
+Soldi
+{0x0206,0x0000,0x002E} $
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+Punti Lotta
+{0x0203,0x0000,0x002E}
+Tempo di gioco
+{0x0202,0x0000}:{0x0201,0x0001}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+Inizio avventura
+{0x0201,0x0002}/{0x0201,0x0001}/{0x0203,0x0000,0x0000}
+Aspetto/Foto
+{0x0201,0x0000}
+/
+Allenat{0x1100,0x00FF,0x0302}orrice di Pokémon[0x000A]a tutti gli effetti
+Questo timbro sancisce il tuo riconoscimento[0x000A]ufficiale come Allenat{0x1100,0x00FF,0x0302}orrice di Pokémon.
+Prove di Mele Mele[0x000A]superate
+Questo timbro sancisce che i Pokémon fino al[0x000A]livello 35 seguiranno sempre le tue indicazioni.
+Prove di Akala[0x000A]superate
+Questo timbro sancisce che i Pokémon fino al[0x000A]livello 50 seguiranno sempre le tue indicazioni.
+Prove di Ula Ula[0x000A]superate
+Questo timbro sancisce che i Pokémon fino al[0x000A]livello 65 seguiranno sempre le tue indicazioni.
+Prove di Poni[0x000A]superate
+Questo timbro sancisce che i Pokémon fino al[0x000A]livello 80 seguiranno sempre le tue indicazioni.
+Giro delle isole[0x000A]completato
+Questo timbro sancisce che tutti i Pokémon[0x000A]seguiranno sempre le tue indicazioni.
+Pokédex di Mele Mele[0x000A]completato
+Questo timbro sancisce la registrazione nel[0x000A]Pokédex di tutti i Pokémon di Mele Mele.
+Pokédex di Akala[0x000A]completato
+Questo timbro sancisce la registrazione nel[0x000A]Pokédex di tutti i Pokémon di Akala.
+Pokédex di Ula Ula[0x000A]completato
+Questo timbro sancisce la registrazione nel[0x000A]Pokédex di tutti i Pokémon di Ula Ula.
+Pokédex di Poni[0x000A]completato
+Questo timbro sancisce la registrazione nel[0x000A]Pokédex di tutti i Pokémon di Poni.
+Pokédex di Alola[0x000A]completato
+Questo timbro sancisce la registrazione nel[0x000A]Pokédex di tutti i Pokémon di Alola.
+50 Lotte in Singolo[0x000A]consecutive
+Questo timbro sancisce 50 vittorie consecutive[0x000A]in Lotte in Singolo all’Albero della Lotta.
+50 Lotte in Doppio[0x000A]consecutive
+Questo timbro sancisce 50 vittorie consecutive[0x000A]in Lotte in Doppio all’Albero della Lotta.
+Luminare del[0x000A]Pokévisore
+Questo timbro sancisce che hai ottenuto tutti[0x000A]gli aggiornamenti del Pokévisore.
+50 Lotte Multiple[0x000A]consecutive
+Questo timbro sancisce 50 vittorie consecutive[0x000A]in Lotte Multiple all’Albero della Lotta.

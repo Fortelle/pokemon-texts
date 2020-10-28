@@ -1,0 +1,3 @@
+main_event_1500_rival_01=¿Has podido descansar bien, {0x0100,0x0000}?{0x0114,0x0005}
+main_event_1500_rival_02=Yo me he pasado todo este rato practicando el[0x000A]lanzamiento de Poké Ball porque no me aguanto{0xBE00}[0x000A]de los nervios.{0x0114,0x0005}
+main_event_1500_rival_03=Me voy ya. ¡No puedo esperar más!{0xBE01}[0x000A]El taxi que hay frente al hotel te llevará volando[0x000A]al Estadio de Puntera. ¡Nos vemos allí!{0x0114,0x0005}

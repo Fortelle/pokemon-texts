@@ -1,0 +1,17 @@
+main_event_1140_leader_01=I suppose it’s a bit late to introduce myself, but...[0x000A]I’m Opal, the Gym Leader.{0x0114,0x0013}
+main_event_1140_leader_p01=I’ve gotten a good look at how you handled[0x000A]those quizzes.{0x0114,0x0013}
+main_event_1140_leader_p02=I’ve gotten a good look at how you handled[0x000A]those quizzes.{0x0114,0x0013}
+main_event_1140_leader_p03=I’ve gotten a good look at how you handled[0x000A]those quizzes.{0x0114,0x0013}
+main_event_1140_leader_p04=I’ve gotten a good look at how you handled[0x000A]those quizzes.{0x0114,0x0013}
+main_event_1140_leader_p05=I’ve gotten a good look at how you handled[0x000A]those quizzes.{0x0114,0x0013}
+main_event_1140_leader_02=The last part of the mission is me...{0xBE01}[0x000A]Let me have a look at how you and your partner[0x000A]Pokémon behave!{0x0114,0x0013}
+main_event_1140_leader_03=Well, good try.{0x0114,0x0013}
+main_event_1140_leader_04=Not bad, not bad at all.[0x000A]Still, not what I’m looking for...{0xBE01}[0x000A]Oh, don’t worry yourself about it, child.[0x000A]It’s just a matter of my preference.{0x0114,0x0013}
+main_event_1140_leader_05=I’ll find the next Gym Leader elsewhere.{0xBE01}[0x000A]In fact, I’ve already got an idea about where[0x000A]to look.{0x0114,0x0013}
+main_event_1140_leader_06=Too bad about the audition, but here’s a Fairy[0x000A]Badge for your efforts.{0x0114,0x0013}
+main_event_1140_badge_01=You can now catch Pokémon of up to Lv. 45!
+main_event_1140_leader_08=Take this TM with you, too.[0x000A]A little bonus from this old lady.{0x0114,0x0013}
+main_event_1140_leader_09=Lastly, here’s a little something for humoring me.[0x000A]This might help add a little more pink to you!{0x0114,0x0013}
+main_event_1140_leader_07=Of course it’s not good to neglect your elders,[0x000A]but old folk like me should also know when it’s{0xBE00}[0x000A]time to step out of the spotlight.{0x0114,0x0013}
+main_event_1140_danpei_01=There were a total of six questions!{0xBE01}[0x000A]Challenger {0x0100,0x0000}, you got...[0x000A]{0x0200,0x0001} of them correct.
+main_event_1140_system_01=Do you want to go back to the reception area?

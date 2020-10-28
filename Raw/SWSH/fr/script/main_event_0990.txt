@@ -1,0 +1,12 @@
+main_event_0990_leader_01=Bienvenue, Challenger.[0x000A]Je me nomme Faïza.{0x0114,0x0011}
+main_event_0990_leader_02=Dirais-tu que tu possèdes un esprit paré[0x000A]à toute épreuve ?{0xBE01}[0x000A]Laisse-moi donc en juger par moi-même.{0x0114,0x0011}
+main_event_0990_leader_03=Merci pour ce combat.{0x0114,0x0011}
+main_event_0990_leader_04=Grâce à toi, j’ai compris quelque chose[0x000A]d’essentiel.{0x0114,0x0011}
+main_event_0990_leader_05=Je pensais avoir un esprit inébranlable,[0x000A]mais ce combat... m’a émue.{0xBE00}[0x000A]Et ce n’est pas une mauvaise chose.{0x0114,0x0011}
+main_event_0990_leader_06=Encore merci pour tout.[0x000A]Prends ce Badge Combat, il est mérité.{0x0114,0x0011}
+main_event_0990_badge_01=Vous pouvez maintenant capturer des Pokémon[0x000A]jusqu’au niveau 40 !
+main_event_0990_leader_07=J’espère que les nombreux combats qui[0x000A]t’attendent serviront à renforcer ton esprit.{0x0114,0x0011}
+main_event_0990_npc_01=Challenger {0x0100,0x0000} !{0xBE01}[0x000A]Bravo pour ta victoire face à Faïza.[0x000A]Tiens, prends cette CT en cadeau !
+main_event_0990_npc_03=Voici l’uniforme Combat ![0x000A]Ça te fera un souvenir !
+main_event_0990_npc_02=Ce Badge Combat te va à merveille ![0x000A]Bon courage pour la suite !
+main_event_0990_system_01=Voulez-vous retourner à la réception ?

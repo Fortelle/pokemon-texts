@@ -1,0 +1,6 @@
+msg_main0830_fuji_01=MR. FUJI: So, {0x0100,0x0000}...{0xBE01}[0x000A]Your Pokédex quest is one that requires[0x000A]strong dedication.{0xBE01}[0x000A]Without deep love for Pokémon, it will be hard[0x000A]to complete such a task.{0xBE01}[0x000A]I’m not sure if this will help you, but I’d like you[0x000A]to have it.
+msg_main0830_sys_01=You got the {0xFF00,0x0006}Poké Flute{0xFF00,0x0000} from Mr. Fuji!
+msg_main0830_fuji_02=Upon hearing the Poké Flute, sleeping Pokémon[0x000A]will spring awake.{0xBE01}[0x000A]Try using it if you ever find a sleeping Pokémon.
+msg_huzi_01_p04_t005_r0101={0xBDFF:0x0003}
+msg_main0830_fuji_03=MR. FUJI: Has my Poké Flute helped you?
+msg_main0830_fuji_04={0xBDFF:0x0005}

@@ -1,0 +1,580 @@
+Team
+<var>
+<var> Lv. <var>
+<var>
+Box
+Übersicht
+Suchen
+<var>
+♂
+♀
+Lv. <var>
+<var>
+Nr. <var>
+<var>
+–
+???
+<var>
+KP
+<var>/<var>
+<var>
+<var>
+Angriff
+Vert.
+Sp.-Ang.
+Sp.-Vert.
+Initiative
+<var>
+Fähigkeit
+<var>
+Item
+<var>
+–
+<var>
+Dynamax-Level
+Pokémon
+Items
+Kampfteams
+Standard
+Viele bewegen
+ Einfach
+<var>
+Box-Info
+<var>
+Was soll mit <var> geschehen?
+Bewegen
+Bericht
+Item
+Markieren
+Freilassen
+Zurück
+Du könntest noch mehr Pokémon auswählen. Reicht dir deine momentane Wahl?
+Wähle eine Markierung aus.
+Möchtest du dieses Pokémon wirklich freilassen?
+Ja
+Nein
+Du hast <var> freigelassen. Mach's gut, <var>!
+Du kannst kein Ei freilassen!
+Du kannst kein fusioniertes <var> freilassen!
+Pokémon, die Teil eines Kampfteams sind, können nicht freigelassen werden.
+Du benötigst ein kampffähiges Pokémon!
+Du kannst kein Pokémon freilassen, das so ein besonderes Item trägt!
+Eine Box wurde ausgewählt. Was nun?
+Box wechseln
+Hintergrund
+Name
+Wähle ein Hintergrundmotiv.
+Hintergrund 1
+Hintergrund 2
+Hintergrund 3
+Hintergrund 4
+Hintergrund 5
+Hintergrund 6
+Hintergrund 7
+Hintergrund 8
+Hintergrund 9
+Hintergrund 10
+Hintergrund 11
+Hintergrund 12
+Hintergrund 13
+Hintergrund 14
+Hintergrund 15
+Hintergrund 16
+Hintergrund 17
+Hintergrund 18
+Hintergrund 19
+<var> ausgewählt. Was nun?
+Bewegen
+Beutel
+<var> im Beutel verstaut.
+Du hast keinen Platz dafür!
+<var> an dich nehmen?
+Du kannst diesem Pokémon ein Item geben.
+Geben
+Ein Ei kann kein Item tragen!
+Registrieren
+Bewegen
+Entfernen
+Pokémon, die Teil eines verriegelten Kampfteams sind, können nicht bewegt werden.
+Pokémon, die Teil eines verriegelten Kampfteams sind, können nicht entfernt werden.
+Auf Items von Pokémon in verriegelten Kampfteams gibt es keinen Zugriff.
+Pokémon, die Teil eines verriegelten Kampfteams sind, können nicht markiert werden.
+Das Kampfteam ist verriegelt. Du kannst keine weiteren Pokémon darin registrieren.
+Den Namen des Teams ändern?
+Du kannst ein Ei nicht registrieren!
+Wähle deine Filterkriterien und bestätige mit „Suchen", um den Filtervorgang zu starten.
+Pokémon
+Typ 1
+Typ 2
+Erlernte Attacke
+Kompatible TM
+Fähigkeit
+Wesen
+Geschlecht
+Item
+Markierung
+Kampfteam
+<var>
+<var>
+<var>
+<var>
+<var>
+<var>
+♂
+♀
+Unbekannt
+<var>
+Trägt ein Item
+Trägt kein Item
+<var>
+Gib den Anfangsbuchstaben des gewünschten Pokémon-Namens ein.
+Wähle ein Pokémon.
+Wähle Typ 1.
+Wähle Typ 2.
+Gib den Anfangsbuchstaben der gewünschten Attacke ein.
+Wähle eine Attacke.
+Suche nach Pokémon, auf die eine bestimmte TM angewendet werden kann.
+Gib den Anfangsbuchstaben der gewünschten Fähigkeit ein.
+Wähle eine Fähigkeit.
+Wähle das gewünschte Wesen.
+Wähle das Geschlecht des Pokémon aus.
+Wähle, ob bei der Suche ausschließlich Pokémon mit oder ohne Items berücksichtigt werden sollen.
+Suche nach Pokémon, die du mit einer Markierung versehen hast.
+
+Suche nach Pokémon, die Teil des ausgewählten Kampfteams sind.
+<var>
+<var>
+<var>
+<var>
+<var>
+Alle Statuswerte steigen in gleichem Maße.
+Erleichtert Training des Angriffs-Werts. Erschwert Training des Verteidigungs-Werts.
+Erleichtert Training des Angriffs-Werts. Erschwert Training des Initiative-Werts.
+Erleichtert Training des Angriffs-Werts. Erschwert Training des Sp.-Ang.-Werts.
+Erleichtert Training des Angriffs-Werts. Erschwert Training des Sp.-Vert.-Werts.
+Erleichtert Training des Vert.-Werts. Erschwert Training des Angriffs-Werts.
+Alle Statuswerte steigen in gleichem Maße.
+Erleichtert Training des Vert.-Werts. Erschwert Training des Initiative-Werts.
+Erleichtert Training des Vert.-Werts. Erschwert Training des Sp.-Ang.-Werts.
+Erleichtert Training des Vert.-Werts. Erschwert Training des Sp.-Vert.-Werts.
+Erleichtert Training des Initiative-Werts. Erschwert Training des Angriffs-Werts.
+Erleichtert Training des Initiative-Werts. Erschwert Training des Vert.-Werts.
+Alle Statuswerte steigen in gleichem Maße.
+Erleichtert Training des Initiative-Werts. Erschwert Training des Sp.-Ang.-Werts.
+Erleichtert Training des Initiative-Werts. Erschwert Training des Sp.-Vert.-Werts.
+Erleichtert Training des Sp.-Ang.-Werts. Erschwert Training des Angriffs-Werts.
+Erleichtert Training des Sp.-Ang.-Werts. Erschwert Training des Vert.-Werts.
+Erleichtert Training des Sp.-Ang.-Werts. Erschwert Training des Initiative-Werts.
+Alle Statuswerte steigen in gleichem Maße.
+Erleichtert Training des Sp.-Ang.-Werts. Erschwert Training des Sp.-Vert.-Werts.
+Erleichtert Training des Sp.-Vert.-Werts. Erschwert Training des Angriffs-Werts.
+Erleichtert Training des Sp.-Vert.-Werts. Erschwert Training des Vert.-Werts.
+Erleichtert Training des Sp.-Vert.-Werts. Erschwert Training des Initiative-Werts.
+Erleichtert Training des Sp.-Vert.-Werts. Erschwert Training des Sp.-Ang.-Werts.
+Alle Statuswerte steigen in gleichem Maße.
+Tauschpartner:
+<var>
+Es wird auf die Reaktion des anderen Spielers gewartet... Bitte warte einen Moment.
+Der Tausch wurde abgebrochen.
+Ein Teilnehmer hat die Verbindung getrennt. Der Tausch wird beendet.
+Der andere Spieler hat den Tausch abgebrochen. Der Tausch wird beendet.
+Möchtest du den Pokémon-Tausch beenden?
+Mit dem Pokémon des anderen Spielers gibt es ein Problem. Der Tausch kann nicht stattfinden.
+Da es ein Problem mit deinem Pokémon gibt, kann der Tausch nicht stattfinden.
+Achtung! Kommt es bei der Abwicklung eines Tausches zu einem Verbindungsfehler oder wird das System abgeschaltet, kannst du für kurze Zeit keine Pokémon mehr tauschen.
+Speichervorgang... Bitte das System nicht ausschalten.
+Verbindung wird hergestellt... Bitte warte einen Moment.
+Möchtest du die Ligakarte deines Tauschpartners empfangen?
+Möchtest du dein <var> gegen das <var> des anderen Spielers tauschen?
+Dieses Ei kann nicht getauscht werden.
+Tausch
+Auswählen
+<var>/<var>
+<var>
+Dieses Pokémon kann nicht getauscht werden.
+Du hast kein Pokémon, das zum Tausch angeboten werden könnte.
+Ein Ei kann nicht zum Tausch angeboten werden.
+Pokémon, die Teil eines Kampfteams sind, können nicht getauscht werden.
+Dieses Pokémon kann nicht getauscht werden, da es ein besonderes Item bei sich trägt.
+Möchtest du <var> auf deine Sperrliste setzen?
+Mit einem gesperrten Spieler kannst du nicht über die Kommunikationsfunktionen spielen. Willst du den Spieler wirklich sperren? (Du kannst Spieler auch wieder entsperren.)
+Der Spieler wurde auf deine Sperrliste gesetzt. Der Tausch wird beendet.
+Diese Person befindet sich bereits auf deiner Sperrliste.
+Diese Person konnte nicht auf deine Sperrliste gesetzt werden.
+ Auswählen
+Bericht des anderen Pokémon
+
+Du kannst keine Änderungen an dem getragenen Item von diesem Pokémon vornehmen, da es für einen Zaubertausch ausgewählt wurde.
+Du kannst dieses Pokémon nicht markieren, da es für einen Zaubertausch ausgewählt wurde.
+Du kannst dieses Pokémon nicht freilassen, da es für einen Zaubertausch ausgewählt wurde.
+Du kannst dieses Pokémon nicht bewegen, da es für einen Zaubertausch ausgewählt wurde.
+Du kannst dieses Pokémon nicht für ein Kampfteam registrieren, da es für einen Zaubertausch ausgewählt wurde.
+Ein Ei kann nicht ausgewählt werden.
+Pokémon, die Teil eines Kampfteams sind, können nicht ausgewählt werden.
+Du kannst dieses Pokémon nicht auswählen, da es für einen Zaubertausch ausgewählt wurde.
+Pokémon, die Teil deines Teams sind, können nicht ausgewählt werden.
+Du kannst keine weiteren Pokémon auswählen.
+Kampfunfähige Pokémon können nicht ausgewählt werden.
+Dieses besondere Pokémon kann nicht für einen Zaubertausch ausgewählt werden.
+
+ Zurück
+ Auswahlmodus
+ Boxenansicht
+ Daten
+ Suchen
+ Neue Suche
+ Ausblenden
+ Alle auswählen
+ Richter
+Akzeptables Potenzial
+Großes Potenzial
+Sehr großes Potenzial
+Exzellentes Potenzial
+Schlecht
+Nicht übel
+Gut
+Sehr gut
+Fantastisch
+Sensationell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Maximiert
+
+

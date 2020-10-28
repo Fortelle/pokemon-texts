@@ -1,0 +1,13 @@
+tokkun_01_01={0x0109,0x0000}
+tokkun_02_01={0x0202,0x0000}
+tokkun_02_02=/
+tokkun_03_01=KP
+tokkun_03_02=Angriff
+tokkun_03_03=Vert.
+tokkun_03_04=Sp.-Ang.
+tokkun_03_05=Sp.-Vert.
+tokkun_03_06=Initiative
+tokkun_03_08=Spezialtraining beginnen!
+tokkun_10_01=Der Statuswert kann nicht weiter trainiert werden!{0xBE01}
+tokkun_10_02=Du hast keine {0x0109,0x0000} mehr.{0xBE01}
+tokkun_04_01=Zurück

@@ -1,0 +1,4 @@
+msg_t005r0201_poke_01={0xBDFF:0x0000}
+msg_t005r0201_youngf_01=Je déteste la Team Rocket, ils sont trop[0x000A]méchants !{0xBE01}[0x000A]Ils ont attrapé Ossatueur, la mère du petit[0x000A]Osselait dont je m’occupe ici... La pauvre...
+msg_t005r0201_youngf_03={0xBDFF:0x0002}
+msg_t005r0201_youngf_02=Le fantôme de la Tour Pokémon est parti ![0x000A]Quelqu’un a dû apaiser son âme tourmentée...{0xBE01}[0x000A]En plus, un Dresseur a eu la gentillesse de[0x000A]recueillir le petit Osselait.{0xBE01}[0x000A]Tout est bien qui finit bien !

@@ -1,0 +1,346 @@
+Please choose a video.
+What would you like to do with the first video?
+This video doesn’t contain any footage.[0x000A]Go to the PR Video Studio!
+What about the second video?
+What about the third video?
+Made this PR Video a favorite!
+Made this PR Video no longer a favorite.
+How would you like to edit it?
+All right.[0x000A]Leave it to me!{0xBE01}[0x000A]How would you like to film it?
+OK, let’s shoot![0x000A]Please go into the studio!
+OK, please stand right there!{0xBE01}[0x000A]Yes, great.[0x000A]You’re full of energy!{0xBE00}[0x000A]You’re exuberant!{0xBE01}[0x000A]...
+OK, please stand right there!{0xBE01}[0x000A]Yeah, nice.[0x000A]Very cool!{0xBE00}[0x000A]Very manly!{0xBE01}[0x000A]...
+OK, please stand right there!{0xBE01}[0x000A]Ha ha ha. Great![0x000A]The mischievous look.{0xBE00}[0x000A]It’s an unexpected side of you!{0xBE01}[0x000A]...
+OK, please stand right there!{0xBE01}[0x000A]Nice, nice.[0x000A]Smile!{0xBE00}[0x000A]Yeah, very cute!{0xBE01}[0x000A]...
+OK, please stand right there!{0xBE01}[0x000A]Oh, nice...[0x000A]You look very mature.{0xBE00}[0x000A]Beautiful!{0xBE01}[0x000A]...
+OK, please stand right there!{0xBE01}[0x000A]Yeah! Great.[0x000A]Be playful!{0xBE00}[0x000A]Yeah, that’s right!{0xBE01}[0x000A]...
+...Thank you![0x000A]The shoot went very well.{0xBE01}[0x000A]I saved it as a video!
+A Pokémon can be in the video, too![0x000A]Please choose one from your party.
+Favorite
+Unfavorite
+View
+Edit
+Back
+Shoot new
+Retake
+Surprise me
+Don’t show
+Reedit the video you took before?
+Retake this PR Video with the current outfit?
+Delete this video and shoot a new one?
+Take a photo
+Make the background a camera
+Turn back the background
+Restart
+Would you like to save this photo?
+It’s saved!
+Saving failed.
+Create by yourself
+Energetic
+Cool
+Fun
+Cute
+Elegant
+Let’s shoot in the studio!
+Let’s shoot in the studio![0x000A]Do you want to change your look?
+{0xBDFF:0x002D}
+{0xBDFF:0x002E}
+{0xBDFF:0x002F}
+{0xBDFF:0x0030}
+{0x0201,0x0000}
+We’ll create a Trainer PR Video.[0x000A]Each video lasts 10 seconds.{0xBE01}[0x000A]You can insert events, such as a pose[0x000A]and a sound effect, in every second.{0xBE01}[0x000A]First, choose the second to work on.[0x000A]Then insert events to create an original video!{0xBE01}
+Select the second in which you want to[0x000A]insert events.
+Now select events you want to insert in[0x000A]Second No. {0x0201,0x0000}.
+Do you want to save the edited video?
+Save
+Don’t save
+Back
+The video is saved!
+The edited video won’t be saved.[0x000A]Is that all right?
+Do you want to set all events in[0x000A]Second No. {0x0201,0x0000} to their default?
+Events in Second No. {0x0201,0x0000} were[0x000A]set back to their default!
+Reset
+This event in Second No. 0 cannot be deleted.
+Backgrounds
+Change brightness
+Normal
+Slightly dark
+Dark
+Very dark
+Pitch black
+Slightly bright
+Bright
+White
+Choose a background
+Trainer
+Space
+Starry sky
+Blue sky
+City skyline
+Pink
+Underwater
+Dance floor
+Sunset
+Forest
+Dots
+House
+Field of flowers
+Fiery stage
+Cartoon frame
+Forest at night
+Pop
+Stormy sea
+Lumiose City
+Stylish!
+Music
+Cute 1
+Cute 2
+Cute 3
+Cute 4
+Elegant 1
+Elegant 2
+Elegant 3
+Elegant 4
+Cool 1
+Cool 2
+Cool 3
+Cool 4
+Classical 1
+Classical 2
+Classical 3
+Classical 4
+Lively 1
+Lively 2
+Lively 3
+Lively 4
+Rhythmical 1
+Rhythmical 2
+Rhythmical 3
+Rhythmical 4
+Mature 1
+Mature 2
+Mature 3
+Mature 4
+Thrilling 1
+Thrilling 2
+Thrilling 3
+Thrilling 4
+No music
+Sound effects
+Thwack 1
+Thwack 2
+Thwack 3
+Sparkle 1
+Sparkle 2
+Applause 1
+Applause 2
+Laughter
+Thump!
+Bang!
+Shine!
+Wonder 1
+Wonder 2
+Beep
+Shutter 1
+Shutter 2
+Kerbonk
+Boing
+Strong winds
+Crash!
+Cymbal
+Wave
+Bell
+Clock
+Heartbeat
+Gulp
+Gong
+Guitar
+Ding
+Vibraslap
+Poses
+Change direction
+Face forward
+Face to the right
+Face to the left
+Face backward
+Rotate to the right
+Rotate to the left
+Choose a pose
+No pose
+Short stylish pose
+Long stylish pose
+Short cute pose
+Long cute pose
+Short turn pose
+Long turn pose
+Short model pose
+Long model pose
+Short dancing pose
+Long dancing pose
+Short pigeon-toed pose
+Long pigeon-toed pose
+Short hand-waving pose
+Long hand-waving pose
+Short transformation pose
+Long transformation pose
+Short curtsy pose
+Long curtsy pose
+Short shivering pose
+Long shivering pose
+Run
+Walk
+No pose
+Short arms-crossed pose
+Long arms-crossed pose
+Short fist-pump pose
+Long fist-pump pose
+Short snobbish pose
+Long snobbish pose
+Short energetic pose
+Long energetic pose
+Short dancing pose
+Long dancing pose
+Short circling pose
+Long circling pose
+Short hand-waving pose
+Long hand-waving pose
+Short guitar pose
+Long guitar pose
+Short greeting pose
+Long greeting pose
+Short dance-performance pose
+Long dance-performance pose
+Run
+Walk
+Silhouette
+Normal
+Make it white
+Make it black
+Effects
+Glitter 1
+Glitter 2
+Ribbon 1
+Ribbon 2
+Power 1
+Power 2
+Spotlights 1
+Spotlights 2
+Hearts
+Saturated linework
+Speed lines
+Fireworks
+Confetti 1
+Confetti 2
+Rain
+Rainbow
+Aurora
+Shooting stars
+Lightning
+Ice
+Stark white
+Jet black
+Lights
+Flame
+Facial expressions
+Eyes
+Face forward
+Close
+Blink
+Look up
+Look down
+Look right
+Look left
+Smile
+Mouth
+Mmm
+Eeee
+Aaaa
+Hmph
+Eh?
+AAAA
+EEEE
+Tiny smile!
+Aha
+Yay
+Big grin
+Hmm?
+Surprise
+Chitchat 1
+Chitchat 2
+Chitchat 3
+Pokémon
+Cast {0x0102,0x0000} in the film
+Return to {0x0100,0x0000}
+Cameras
+Camera 1
+Camera 2
+Camera 3
+Camera 4
+Camera 5
+Camera 6
+Camera 7
+Camera 8
+Camera 9
+Camera 10
+Camera 11
+Camera 12
+Camera 13
+Camera 14
+Camera 15
+Camera for Pokémon 1
+Camera for Pokémon 2
+Camera for Pokémon 3
+Camera for Pokémon 4
+Camera for Pokémon 5
+Captions
+How captions are shown
+Choose a caption
+Choose a caption color
+Slide in on top
+Slide in on bottom
+Slide in from top
+Slowly slide across the top
+Slowly slide across the top (large)
+Slowly slide across the bottom
+Slowly slide across the bottom (large)
+Appear at the top
+Appear at the bottom
+Appear at the top (askew)
+Appear in the center (askew)
+Appear at the bottom (askew)
+Swivel (top)
+Swivel (bottom)
+{0xBDFF:0x0138}
+{0xBDFF:0x0139}
+{0xBDFF:0x013A}
+{0xBDFF:0x013B}
+Basic pose
+Rejoice!
+{0x0201,0x0000}
+Camera 16
+Camera 17
+Camera 18
+Camera 19
+Camera 20
+Caption color 1
+Caption color 2
+Caption color 3
+Caption color 4
+Caption color 5
+Add an event in Second No. {0x0201,0x0000}:[0x000A]Background
+Add an event in Second No. {0x0201,0x0000}:[0x000A]Pose
+Add an event in Second No. {0x0201,0x0000}:[0x000A]Facial expression
+Add an event in Second No. {0x0201,0x0000}:[0x000A]Music
+Add an event in Second No. {0x0201,0x0000}:[0x000A]Sound effect
+Add an event in Second No. {0x0201,0x0000}:[0x000A]Pokémon
+Add an event in Second No. {0x0201,0x0000}:[0x000A]Effect
+Add an event in Second No. {0x0201,0x0000}:[0x000A]Camera
+Add an event in Second No. {0x0201,0x0000}:[0x000A]Caption
+Trainer PR Video
+{0xBDFF:0x0153}
+{0xBDFF:0x0154}
+{0xBDFF:0x0155}
+{0xBDFF:0x0156}
+{0xBDFF:0x0157}
+{0xBDFF:0x0158}
+{0xBDFF:0x0159}

@@ -1,0 +1,90 @@
+Compra
+Vendi
+Esci
+Benvenut{0x1100,0x00FF,0x0101}oa al Pokémon-Market![0x000A]Cosa desideri?
+Torna a trovarci!
+Posso fare altro per te?
+Soldi
+Pokémiglia
+Punti Lotta
+${0x0206,0x0000,0x002E}
+${0x0204,0x0000,0x002E}
+{0xBDFF:0x000B}
+---
+{0x0206,0x0000,0x002E}
+{0x0204,0x0000,0x002E}
+Chiudi
+{0x0109,0x0000}
+Nella Borsa:
+{0x0202,0x0000}
+
+
+×
+{0x0201,0x0000}
+Quant{0x1001}{0x1102,0x0000,0x0101,0x0101}oaie {0x0109,0x0000} vuoi?
+Non hai abbastanza soldi!
+Allora, {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Fanno ${0x0206,0x0002,0x002E}. Va bene?
+Allora, {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Fanno ${0x0206,0x0002,0x002E}. Va bene?
+Sì
+No
+Ecco qua! Grazie mille!
+Trovi tutto nella Tasca {0x0112,0x0001}!
+Non c’è abbastanza spazio nella Borsa!
+Ricevi in omaggio anche una Premier Ball!
+Qui vendiamo Macchine Tecniche![0x000A]In cosa posso esserti utile?
+Hai già questa MT!
+Allora, vuoi la MT{0x0202,0x0000} {0x0107,0x0001}?[0x000A]Fanno ${0x0206,0x0002,0x002E}. Va bene?
+Trovi la MT nella Tasca {0x0112,0x0001}!{0xBE01}
+Le nostre erbe medicinali, provenienti[0x000A]da tutto il mondo, sono eccezionali{0xBE00}[0x000A]per ridare vigore ai Pokémon!
+Grazie mille![0x000A]Torna quando vuoi!
+Desideri altro?
+Quant{0x1001}{0x1102,0x0000,0x0101,0x0101}oaie {0x0109,0x0000} vuoi?
+Allora, {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Fanno ${0x0206,0x0002,0x0000}. Ok?
+Allora, {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Fanno ${0x0206,0x0002,0x0000}. Ok?
+Ecco a te![0x000A]Grazie mille!
+Non c’è abbastanza spazio nella Borsa!
+Non hai abbastanza soldi!
+Benvenut{0x1100,0x00FF,0x0101}oa nella Gioielleria![0x000A]Abbiamo magnifiche pietre preziose!
+Spero di rivederti presto!
+Desideri altro?
+Quant{0x1001}{0x1102,0x0000,0x0101,0x0101}oaie {0x0109,0x0000} vuoi?
+Allora, hai detto {0x0201,0x0001}...[0x000A]Fanno ${0x0206,0x0002,0x002E}. Va bene?
+Allora, hai detto {0x0201,0x0001}...[0x000A]Fanno ${0x0206,0x0002,0x002E}. Va bene?
+Ecco qui! Grazie mille![0x000A]Torna pure se ti serve altro!
+Ah! Non puoi portare[0x000A]altre pietre con te!
+Sbaglio o non hai abbastanza soldi?
+Benvenut{0x1100,0x00FF,0x0101}oa al Negozio di Poké Ball![0x000A]Posso fare qualcosa per te?
+Arrivederci e buon viaggio!
+Desideri altro?
+Faresti bene a fare scorta di Poké Ball![0x000A]Quante ne vuoi?
+{0x0201,0x0001}, allora.[0x000A]Fanno ${0x0206,0x0002,0x002E}. Ok?
+Fantastico! Spero che catturerai[0x000A]dei Pokémon meravigliosi!
+Adesso è veramente troppo!{0xBE01}[0x000A]Ehm, volevo dire... ne hai troppe![0x000A]Non puoi portare altre Poké Ball!
+Non hai abbastanza soldi[0x000A]a quanto pare, eh?
+Benvenut{0x1100,0x00FF,0x0101}oa![0x000A]Da noi trovi solo le migliori pozioni!
+Benvenut{0x1100,0x00FF,0x0101}oa! Questo è un negozio[0x000A]specializzato in Poké Ball!
+Qui vendiamo aromi pregiati[0x000A]provenienti da ogni parte del mondo!
+Spiacente! Non hai abbastanza Pokémiglia!
+Spiacente! Non hai abbastanza Punti Lotta!
+Quant{0x1001}{0x1102,0x0000,0x0101,0x0101}oaie {0x0109,0x0000} vuoi?
+Quant{0x1001}{0x1102,0x0000,0x0101,0x0101}oaie {0x0109,0x0000} vuoi?
+Allora, vediamo, {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Fanno {0x0206,0x0002,0x002E} PM. Va bene?
+Allora, vediamo, {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Fanno {0x0206,0x0002,0x002E} PL. Va bene?
+Allora, vediamo, {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Fanno {0x0206,0x0002,0x002E} PM. Va bene?
+Allora, vediamo, {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Fanno {0x0206,0x0002,0x002E} PL. Va bene?
+Ecco qui, grazie mille!
+Ecco qui, grazie mille!
+Non c’è abbastanza spazio nella Borsa!
+Non c’è abbastanza spazio nella Borsa!
+Allora, vuoi la MT{0x0202,0x0000} {0x0107,0x0001}?[0x000A]Fanno {0x0206,0x0002,0x002E} PM. Va bene?
+Allora, vuoi la MT{0x0202,0x0000} {0x0107,0x0001}?[0x000A]Fanno {0x0206,0x0002,0x002E} PL. Va bene?
+Vuoi spendere delle Pokémiglia[0x000A]per ottenere dei premi?
+Le Pokémiglia si accumulano scambiando[0x000A]Pokémon oppure incrociando altri giocatori{0xBE00}[0x000A]tramite StreetPass.{0xBE01}[0x000A]La quantità di punti ottenuti varia in base alla[0x000A]distanza tra le regioni registrate dai giocatori{0xBE00}[0x000A]nelle rispettive console Nintendo 3DS.{0xBE01}[0x000A]Puoi guadagnare un po’ di punti anche[0x000A]esplorando la regione di Kalos.{0xBE01}[0x000A]Verifica quante Pokémiglia hai accumulato[0x000A]nella Scheda Allenatore.
+Mi raccomando, continua ad accumulare[0x000A]Pokémiglia! A presto!
+Benvenut{0x1100,0x00FF,0x0101}oa all’Ufficio Ritiro Premi![0x000A]Vuoi scambiare i tuoi PL con qualche premio?
+Mi raccomando, continua ad accumulare[0x000A]Punti Lotta! A presto!
+Sì
+No
+Info
+Ehilà! Mi sembri un{0x1100,0x00FF,0x0B0A} Allenator'Allenatrice in gamba![0x000A]Forza! Fai scorta di Poké Ball!
+{0x0201,0x0001}, allora.[0x000A]Fanno ${0x0206,0x0002,0x002E}. Ok?

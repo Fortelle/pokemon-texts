@@ -1,0 +1,15 @@
+Spieler
+{0x0100,0x0000}
+GAME FREAK
+Alle Mitarbeiter
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+Mit dieser Urkunde werden Spieler geehrt,[0x000A]die die erstaunliche Leistung erbracht[0x000A]haben, den Nationalen Pokédex[0x000A]zu vervollständigen.
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+Mit dieser Urkunde werden Spieler geehrt,[0x000A]die die erstaunliche Leistung erbracht[0x000A]haben, den Regionalen Pokédex[0x000A]zu vervollständigen.
+Mit dieser Urkunde wird deine ewige[0x000A]Freundschaft und dein enges Band zu[0x000A]{0x0102,0x0000} geehrt.

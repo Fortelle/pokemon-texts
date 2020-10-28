@@ -1,0 +1,5 @@
+msg_t0701_i0901_npc1_01=Questo è l’Hotel Ionia! Abbiamo stanze[0x000A]disponibili sia in questo edificio che in quello{0xBE00}[0x000A]di fronte. Scegli pure quello che preferisci!
+msg_t0701_i0901_npc2_01=Che lusso, stare in hotel! Non devo pensare alle[0x000A]pulizie, al bucato, alla spesa...
+msg_t0701_i0901_npc3_01=Ci siamo accaparrati i biglietti per dei posti[0x000A]in primissima fila allo stadio!{0xBE01}[0x000A]A volte si rischia di venire colpiti dalle mosse,[0x000A]però ne vale la pena!!
+msg_t0701_i0901_npc4_01=Sto aspettando una persona... Noibat la sta[0x000A]cercando usando i suoi ultrasuoni.
+msg_t0701_i0901_poke1_01_pop=Bat bat bat!

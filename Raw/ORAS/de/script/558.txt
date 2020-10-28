@@ -1,0 +1,42 @@
+An der Tafel sind Statusprobleme aufgelistet, von denen[0x000A]Pokémon im Kampf betroffen werden können.
+Zu welchem Thema möchtest du etwas lesen?
+Vergiftung
+Paralyse
+Schlaf
+Verbrennung
+Gefroren
+Abbrechen
+Wenn ein Pokémon vergiftet wurde,[0x000A]verliert es nach und nach KP.{0xBE01}[0x000A]Die Vergiftung bleibt auch nach dem Kampf bestehen.[0x000A]Mit einem Gegengift kann das Pokémon geheilt werden.
+Wurde ein Pokémon paralysiert, sinkt seine Initiative[0x000A]und es kann passieren, dass es während des Kampfes{0xBE00}[0x000A]nicht angreifen kann.{0xBE01}[0x000A]Die Paralyse hält auch nach dem Kampf an.[0x000A]Heile das Pokémon mit einem Para-Heiler.
+Wenn ein Pokémon einschläft,[0x000A]kann es nicht mehr angreifen.{0xBE01}[0x000A]Ein schlafendes Pokémon wacht manchmal[0x000A]von selbst wieder auf, aber wenn der Kampf endet,{0xBE00}[0x000A]bevor dies geschieht, schläft es weiter.{0xBE01}[0x000A]Das Item Aufwecker sollte in diesem Fall Abhilfe schaffen.
+Erleidet ein Pokémon Verbrennungen, sinkt sein[0x000A]Angriffs-Wert und seine KP nehmen stetig ab.{0xBE01}[0x000A]Eine Verbrennung hält auch nach dem Kampf an.[0x000A]Heile sie mit einem Feuerheiler.
+Wurde ein Pokémon eingefroren, ist es völlig hilflos.{0xBE01}[0x000A]Der Zustand hält auch nach dem Kampf an.[0x000A]Taue es mit einem Eisheiler auf.
+Schüler, die nicht aufpassen,[0x000A]bekommen meine Flinkklaue zu spüren.{0xBE01}[0x000A]Wie du dieses Item einsetzt, zeigt,[0x000A]ob du ein guter Schüler bist oder nicht.
+Ein Pokémon, das eine Flinkklaue trägt, steigert manchmal[0x000A]seine Geschwindigkeit und greift vor dem Gegner an.{0xBE01}[0x000A]Es gibt noch viele andere Items, die von[0x000A]einem Pokémon getragen werden können.{0xBE01}[0x000A]Du kannst also noch viel lernen.
+Ich tausch gerade mit meinem Freund hier Pokémon!
+Ich wollte schon immer ein Samurzel haben.[0x000A]Jetzt hab ich endlich eins!
+Pokémon können zwar Items tragen, aber sie[0x000A]wissen nicht, was sie mit von Menschen gemachten{0xBE00}[0x000A]Items wie Trank oder Gegengift machen sollen.
+Weißt du, dass es Attacken gibt, mit denen man[0x000A]Pokémon verwirren kann?{0xBE01}[0x000A]Ein verwirrtes Pokémon verletzt sich manchmal[0x000A]aus Versehen selbst.{0xBE01}[0x000A]Aber sobald es aus dem Kampf genommen wird,[0x000A]kehrt es zu seinem normalen Zustand zurück.
+Ein Pokémon, das eine Beere trägt, heilt sich selbst.{0xBE01}[0x000A]Es gibt aber noch viele weitere Items,[0x000A]die man einem Pokémon zum Tragen geben kann.{0xBE01}[0x000A]Mensch, wie anstrengend, sich das alles aufzuschreiben!
+Das ist das Heft dieses Schülers...{0xBE01}[0x000A]Pokémon werden mit Pokébällen gefangen.{0xBE01}[0x000A]Ein Trainer kann bis zu sechs Pokémon dabeihaben.{0xBE01}[0x000A]Ein Trainer ist jemand, der Pokémon fängt,[0x000A]sie trainiert und gemeinsam mit ihnen kämpft.{0xBE01}[0x000A]Eines der höchsten Ziele eines Trainers ist es,[0x000A]die starken Trainer und Arenaleiter zu besiegen, die in{0xBE00}[0x000A]den verschiedenen Arenen auf Herausforderer warten!
+Warum siehst du mich so komisch an?[0x000A]Ich bin Rektor dieser Schule!{0xBE01}[0x000A]Als Beweis werde ich dich an meinem schier[0x000A]unendlichen Wissen teilhaben lassen.
+Ich könnte dir zum Beispiel die vielen Orden erklären,[0x000A]die man in der Hoenn-Region erhalten kann.
+Wie öde! Wie gemein![0x000A]Wenn du’s dir anders überlegst, sag Bescheid!
+Wenn du im Besitz des Steinordens bist,[0x000A]gehorchen dir alle Pokémon bis Level 20.
+Wenn du im Besitz des Knöchelordens bist,[0x000A]gehorchen dir alle Pokémon bis Level 30.
+Wenn du im Besitz des Dynamo-Ordens bist,[0x000A]gehorchen dir alle Pokémon bis Level 40.
+Wenn du im Besitz des Hitzeordens bist,[0x000A]gehorchen dir alle Pokémon bis Level 50.
+Wenn du im Besitz des Balanceordens bist,[0x000A]gehorchen dir alle Pokémon bis Level 60.
+Wenn du im Besitz des Federordens bist,[0x000A]gehorchen dir alle Pokémon bis Level 70.
+Wenn du im Besitz des Mentalordens bist,[0x000A]gehorchen dir alle Pokémon bis Level 80.
+Wenn du im Besitz des Schauerordens bist,[0x000A]gehorchen dir alle Pokémon, unabhängig von ihrem Level.
+Über welchen Orden willst du dich schlaumachen?
+Steinorden
+Knöchelorden
+Dynamo-Orden
+Hitzeorden
+Balanceorden
+Federorden
+Mentalorden
+Schauerorden
+Abbrechen

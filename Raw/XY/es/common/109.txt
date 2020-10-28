@@ -1,0 +1,73 @@
+¡Estás en la zona del Regalo Misterioso!
+Recibir regalo
+Ver Álbum de Tarjetas
+Información
+Salir
+Recibir por comunicación local
+Recibir por internet
+Recibir por infrarrojos
+Recibir mediante código
+Atrás
+Acerca de los Regalos Misteriosos
+Sobre el Álbum de Tarjetas
+Cuando el álbum está lleno
+Se va a iniciar la comunicación inalámbrica.[0x000A]¿Quieres continuar?
+Elige cómo quieres recibir tu regalo.
+¿Quieres iniciar la comunicación inalámbrica?
+Se iniciará la comunicación por infrarrojos.{0xBE01}[0x000A]Coloca tu consola Nintendo 3DS frente a la[0x000A]del otro jugador y pulsa el botón A.
+Buscando regalo...[0x000A]Por favor, espera.
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+¿Quieres recibir este regalo?
+Recibiendo el regalo...[0x000A]No apagues la consola.
+¡Se ha recibido el regalo!{0xBE01}[0x000A]Ve a ver a la repartidora en cualquier Centro[0x000A]Pokémon para recogerlo.
+Tienes demasiados regalos.
+¡Tu Álbum de Tarjetas está lleno![0x000A]No puedes recibir más regalos.{0xBE01}[0x000A]¿Quieres eliminar alguna Tarjeta Misteriosa?
+Selecciona una tarjeta que no necesites[0x000A]y elimínala.
+Si no eliminas alguna de las tarjetas, no[0x000A]podrás recibir el regalo.{0xBE01}[0x000A]¿Quieres continuar?
+{0xBDFF:0x001B}
+No se ha encontrado ningún regalo.
+No se ha podido recibir el regalo.
+Se ha encontrado un regalo, pero no[0x000A]se puede recibir en este juego.
+Ya has recibido este regalo.[0x000A]No puedes recibirlo otra vez.
+No se ha encontrado ningún regalo.
+La comunicación inalámbrica está[0x000A]desactivada.{0xBE01}[0x000A]Usa el interruptor de la comunicación[0x000A]inalámbrica para activarla.
+Tarjeta Misteriosa
+Fecha de recepción
+A: Terminar
+A: Ordenar
+Álbum de Tarjetas
+{0x0201,0x0002}-{0x0201,0x0001}-20{0x0201,0x0000}
+{0x0200,0x0003}/{0x0200,0x0004}
+¿Qué quieres hacer con la Tarjeta Misteriosa?
+No puedes eliminar el regalo porque todavía[0x000A]no lo has recibido.
+¿Seguro que quieres eliminar esta tarjeta?
+Elige la tarjeta que quieras remplazar.
+Guardando el álbum...[0x000A]No apagues la consola.
+Mover
+Eliminar tarjeta
+¿Sobre qué quieres información?
+Los Regalos Misteriosos te permiten obtener[0x000A]obsequios extraordinarios mediante la{0xBE00}[0x000A]conexión de tu consola.{0xBE01}[0x000A]Una vez que hayas aceptado un Regalo[0x000A]Misterioso, ve a ver a la repartidora en{0xBE00}[0x000A]cualquier Centro Pokémon para recogerlo.
+Cada vez que recibes un Regalo Misterioso,[0x000A]una Tarjeta Misteriosa se añade a tu Álbum{0xBE00}[0x000A]de Tarjetas.{0xBE01}[0x000A]Cuando la repartidora te entregue el regalo, te[0x000A]pondrá un sello en la tarjeta en cuestión.{0xBE01}[0x000A]Si tienes alguna tarjeta sin sello, significa que[0x000A]aún debes ir a recoger tu regalo.{0xBE01}[0x000A]En el álbum puedes guardar un máximo de 24[0x000A]tarjetas.{0xBE01}[0x000A]Cuando el álbum esté lleno, deberás hacer[0x000A]sitio para poder recibir más regalos.
+Si no puedes recibir ningún regalo, échale[0x000A]un vistazo al Álbum de Tarjetas.{0xBE01}[0x000A]Cuando tengas 24 Tarjetas Misteriosas no[0x000A]podrás almacenar más, así que pulsa el{0xBE00}[0x000A]botón A para elegir una y deshacerte de ella.{0xBE01}[0x000A]Si todavía no has recibido todos los regalos[0x000A]de las tarjetas que tienes en el álbum, ve a ver{0xBE00}[0x000A]a la repartidora en cualquier Centro Pokémon.
+¿Quieres conectarte a internet?
+Conexión en curso...[0x000A]Espera un momento, por favor.
+Has introducido varias veces un código[0x000A]incorrecto, por lo que no puedes volver{0xBE00}[0x000A]a intentarlo hasta dentro de un rato.{0xBE01}
+Introduce el código.{0xBE01}
+Se está comprobando el código...[0x000A]No apagues la consola.
+{0xBDFF:0x0039}
+Guardando...[0x000A]No apagues la consola.
+El código introducido es incorrecto.[0x000A]Compruébalo.{0xBE01}
+¿Quieres introducir de nuevo el código?
+¡Advertencia!{0xBE01}[0x000A]Si la consola Nintendo 3DS se apaga durante[0x000A]la recepción de un regalo mediante un código,{0xBE00}[0x000A]no podrás volver a utilizar ese código para{0xBE00}[0x000A]recibir el regalo.{0xBE01}[0x000A]Comprueba el estado de la batería antes de[0x000A]iniciar la recepción.{0xBE01}[0x000A]¿Quieres usar el código ahora para recibir el[0x000A]regalo?
+El código introducido es incorrecto.[0x000A]Compruébalo.{0xBE01}
+No se puede aceptar el regalo de este código[0x000A]con esta tarjeta de juego.{0xBE01}
+{0xBDFF:0x0040}
+No se puede aceptar el regalo de este código[0x000A]con esta tarjeta de juego.{0xBE01}
+Ya has recibido este regalo.{0xBE01}
+Ya has recibido este regalo.{0xBE01}
+{0xBDFF:0x0044}
+No puedes recibir este regalo.{0xBE01}
+Aún no puedes recibir el regalo de este[0x000A]código.{0xBE01}
+El regalo asociado a este código ya ha[0x000A]expirado.{0xBE01}
+No se ha podido actualizar el código.{0xBE01}[0x000A]No puedes recibir el regalo asociado a este[0x000A]código.{0xBE01}

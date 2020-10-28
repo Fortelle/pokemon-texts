@@ -1,0 +1,15 @@
+main_event_0570_counterw_01=Bienvenid{0x1100,0x00FF,0x0101}oa, Aspirante. Voy a proceder con las[0x000A]formalidades enseguida.
+main_event_0570_counterw_02=Pero, antes de nada, repasemos brevemente[0x000A]la mecánica del desafío de los gimnasios.{0xBE01}[0x000A]Debes completar la misión de gimnasio, vencer[0x000A]al líder y repetir la misma dinámica hasta que{0xBE00}[0x000A]consigas las ocho medallas.
+main_event_0570_select_01=Entendido
+main_event_0570_select_02=¿Misiones de gimnasio?
+main_event_0570_counterw_03=¿Y bien? ¿Te atreves a aceptar el desafío de los[0x000A]gimnasios?
+main_event_0570_select_03=¡Sí!
+main_event_0570_select_04=Dame un momento
+main_event_0570_counterw_04=Las {0xFF00,0x0001}misiones de gimnasio{0xFF00,0x0000} son una especie de[0x000A]pruebas de habilidad que debes superar antes{0xBE00}[0x000A]de enfrentarte al líder.{0xBE01}[0x000A]Afrontarás una misión distinta en cada Gimnasio[0x000A]Pokémon.
+main_event_0570_counterw_05=En tal caso, dirígete al vestuario y ponte el[0x000A]uniforme reglamentario.
+main_event_0570_counterw_06=¡Que comience el desafío![0x000A]¡Aplícate al cien por cien!
+main_event_0570_counterw_07=¿Vienes a probar suerte con la misión de[0x000A]gimnasio?{0xBE01}[0x000A]Te dedico mis palabras favoritas: ¡Nunca te[0x000A]rindas!
+main_event_0570_counterw_08=¡Enhorabuena por superar la misión de gimnasio!{0xBE01}[0x000A]Recuerda que vencer al líder en combate es una[0x000A]cuestión, sobre todo, de... compatibilidad.
+main_event_0570_counterw_09=¡Sin problema! Puedes intentarlo cuando quieras.
+main_event_0570_counterw_10={0xBDFF:0x000D}
+main_event_0570_counterw_11={0xBDFF:0x000E}

@@ -1,0 +1,5 @@
+msg_t007r0701_rocketm_01=Oye, los cartelitos de la Sala de Juegos me los[0x000A]dejas tranquilos.{0xBE01}[0x000A]¡A ver si te vas a creer que hay botones secretos[0x000A]escondidos detrás!
+msg_t007r0701_oldm_01=Ese juego en el que un Pokémon vuela por el[0x000A]cielo está causando furor.{0xBE01}[0x000A]¡Yo al fin he conseguido batir mi récord y estoy[0x000A]como flotando en una nube!
+msg_t007r0701_rocketm_02=Quizá podríamos dar Pokémon de premio y[0x000A]así multiplicaríamos las ganancias...{0xBE01}[0x000A]¿Eh, qué? ¡Esto no te incumbe, niñ{0x1100,0x00FF,0x0101}oa!
+msg_oldman2_01_p01_t007_r0601={0xBDFF:0x0003}
+msg_evilm1_01_p01_t007_r0601={0xBDFF:0x0004}

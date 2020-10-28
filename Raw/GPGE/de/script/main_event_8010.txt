@@ -1,0 +1,17 @@
+msg_main8010_water_01=He, du!
+msg_main8010_water_05=Was ist dein Motto bei Pokémon-Kämpfen?
+msg_main8010_water_06=Also, mein Motto lautet...{0xBE01}[0x000A]„Einen Kampf gewinnt man mit dem gnadenlos[0x000A]offensiven Einsatz von Wasser-Pokémon!“
+msg_main8010_water_07=Also dann, bist du bereit dafür, gegen die[0x000A]weltberühmte Schönheit Misty anzutreten?
+msg_main8010_water_08=Nimm dich vor meinen Lieblingen in Acht!
+msg_gymleader_02_01={0xBDFF:0x0005}
+msg_gymleader_02_06={0xBDFF:0x0006}
+msg_main8010_water_02=Na gut, dann will ich mal nicht so sein.{0xBE01}[0x000A]Ich überlasse dir den Quellorden als Beweis[0x000A]dafür, dass du mich besiegt hast.
+msg_main8010_sys_01=Du erhältst den {0xFF00,0x0006}Quellorden{0xFF00,0x0000} von Misty!
+msg_main8010_water_03=Mit dem Quellorden in der Tasche gehorchen dir[0x000A]alle Pokémon bis Level 30, die du von anderen{0xBE00}[0x000A]Trainern bekommen hast.{0xBE01}[0x000A]Außerdem kriegst du noch diese tolle TM[0x000A]von mir!
+msg_main8010_sys_02=Du erhältst {0x0109,0x0001} {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000} von Misty!
+msg_main8010_water_04=Mit der TM29 kannst du Pokémon die Attacke[0x000A]Siedewasser beibringen.{0xBE01}[0x000A]Wende sie auf Pokémon an, die im Wasser leben!
+msg_gymleader_02_05={0xBDFF:0x000C}
+msg_gymleader_02_02={0xBDFF:0x000D}
+msg_gymleader_02_03={0xBDFF:0x000E}
+msg_gymleader_02_04={0xBDFF:0x000F}
+msg_gymleader_02_07={0xBDFF:0x0010}

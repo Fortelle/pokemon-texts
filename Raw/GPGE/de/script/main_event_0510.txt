@@ -1,0 +1,11 @@
+msg_main0510_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Hey, {0x0100,0x0000}!
+msg_main0510_rival_02=Moment, w-was machst du denn hier?!{0xBE01}[0x000A]Sag nicht, dass eines deiner Pokémon...
+msg_main0510_rival_07=Es ist alles in Ordnung? Puh, da fällt mir ein[0x000A]Stein vom Herzen...{0xBE01}[0x000A]Aber weißt du, womit es mir noch besser gehen[0x000A]würde?
+msg_main0510_rival_03=Wenn du mir in einem Kampf zeigen würdest,[0x000A]dass dein Pokémon auch wirklich fit ist!
+msg_main0510_rival_04=Wenn du mir in einem Kampf zeigen würdest,[0x000A]dass deine Pokémon auch wirklich fit sind!
+msg_main0510_dummy_01={0xBDFF:0x0005}
+msg_main0510_rival_05=Verflixt! Ich hab in der Hitze des Gefechts[0x000A]Tragosso aus den Augen verloren.{0xBE01}[0x000A]Hast du schon mal ein Tragosso gesehen?{0xBE01}[0x000A]Man erkennt sie an dem Schädel, den sie auf[0x000A]dem Kopf tragen.
+msg_main0510_rival_06=Das Tragosso eben hat so ausgesehen, als hätte[0x000A]es irgendwas gesucht.{0xBE01}[0x000A]Hm, vielleicht finde ich es ein paar Stockwerke[0x000A]weiter oben...?
+msg_rival_01_p01_cave_d1702={0xBDFF:0x0008}
+msg_rival_01_p02_cave_d1702={0xBDFF:0x0009}
+msg_rival_01_p03_cave_d1702={0xBDFF:0x000A}

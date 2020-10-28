@@ -1,0 +1,363 @@
+Amigos
+Conocidos
+Transeúntes
+{0xBDFF:0x0003}
+Establecer las reglas
+Dejar que el rival elija las reglas
+Has cambiado de consola.[0x000A]Actualizando la lista de contactos del PSS...
+{0x0124,0x0000}
+{0x0124,0x0000}...
+{0x0100,0x0000}
+Combatir con alguien junto a ti
+Combatir con alguien próximo a ti
+Combatir con alguien lejos de ti
+Intercambiar con alguien junto a ti
+Intercambiar con alguien próximo a ti
+Intercambiar con alguien lejos de ti
+Com. por infrarrojos
+Comunicación local
+Internet
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+Sí
+No
+{0xBDFF:0x0017}
+¿Quieres transmitir un mensaje a los demás[0x000A]jugadores?
+Has enviado a los demás el siguiente mensaje:[0x000A]“{0x018B,0x0000}”.
+¿Quieres cambiar el mensaje actual:[0x000A]“{0x018B,0x0000}”?
+Por favor, espera.
+Cuando la otra persona esté lista, coloca[0x000A]tu transmisor de infrarrojos frente al suyo.
+Las reglas que has establecido no coinciden[0x000A]con las elegidas por el resto de participantes.
+¡Uno de los jugadores tiene que establecer[0x000A]las reglas!
+Podéis separar los transmisores de infrarrojos.[0x000A]Esperad un momento, por favor.
+{0xBDFF:0x0020}
+{0xBDFF:0x0021}
+{0xBDFF:0x0022}
+{0xBDFF:0x0023}
+{0xBDFF:0x0024}
+Se ha excedido el número de participantes,[0x000A]por lo que no podréis jugar juntos.
+{0xBDFF:0x0026}
+¿A quién quieres elegir?
+{0xBDFF:0x0028}
+Invitar a amigos o conocidos
+{0xBDFF:0x002A}
+{0xBDFF:0x002B}
+Vas a invitar a estos jugadores.[0x000A]¿Estás de acuerdo?
+Retando a un combate a tu amig{0x1100,0x0000,0x0101}oa[0x000A]{0x0100,0x0000}...
+Retando a un combate a {0x0100,0x0000}, de[0x000A]la lista de conocidos...
+Retando a un combate a {0x0100,0x0000}, de[0x000A]la lista de transeúntes...
+Buscando adversarios para un combate...
+¿Quieres cancelar la solicitud de combate?
+Jugar con {0x0100,0x0000}
+¿Quieres proponer un Combate Individual con[0x000A]reglas normales?
+¿Quieres proponer un Combate Individual con[0x000A]restricciones?
+¿Quieres proponer un Combate Individual sin[0x000A]restricciones?
+¿Quieres proponer un Combate Doble con[0x000A]reglas normales?
+¿Quieres proponer un Combate Doble con[0x000A]restricciones?
+¿Quieres proponer un Combate Doble sin[0x000A]restricciones?
+¿Quieres proponer un Combate Triple con[0x000A]reglas normales?
+¿Quieres proponer un Combate Triple con[0x000A]restricciones?
+¿Quieres proponer un Combate Triple sin[0x000A]restricciones?
+¿Quieres proponer un Combate Rotatorio con[0x000A]reglas normales?
+¿Quieres proponer un Combate Rotatorio con[0x000A]restricciones?
+¿Quieres proponer un Combate Rotatorio sin[0x000A]restricciones?
+{0xBDFF:0x003F}
+{0xBDFF:0x0040}
+{0xBDFF:0x0041}
+Has recibido un {0x0110,0x0001} de tu[0x000A]amig{0x1100,0x0000,0x0101}oa {0x0100,0x0000}.
+Has recibido un {0x0110,0x0001} de[0x000A]{0x0100,0x0000}, de tu lista de conocidos.
+Has recibido un {0x0110,0x0001} de[0x000A]{0x0100,0x0000}, de la lista de transeúntes.
+¡Has usado un {0x0110,0x0001}!
+¡{0x0100,0x0000} ha usado[0x000A]{0x0110,0x0001}!
+{0xBDFF:0x0047}
+¿Quieres usarlo con {0x0100,0x0000}?
+¡El nivel del {0x0110,0x0001}[0x000A]ha aumentado!
+¡{0x0100,0x0000} ha adquirido[0x000A]{0x0110,0x0001}!
+¿Quieres recibir el poder de {0x0100,0x0000}?
+Elige la clase de combate que quieres[0x000A]disputar.
+Combate
+Número de jugadores
+Dos
+Cuatro
+Modalidad
+Combate Individual
+Combate Doble
+Combate Triple
+Combate Rotatorio
+Combate Múltiple
+Reglas
+Reglas normales
+Con restricciones
+Sin restricciones
+{0xBDFF:0x005B}
+Con hándicap
+Sin hándicap
+Vale
+{0xBDFF:0x005F}
+{0xBDFF:0x0060}
+{0xBDFF:0x0061}
+{0xBDFF:0x0062}
+¡Tu amig{0x1100,0x0000,0x0101}oa {0x0100,0x0000} te ha retado a[0x000A]un combate!
+¡{0x0100,0x0000}, de tu lista de conocidos,[0x000A]te ha retado a un combate!
+{0x0100,0x0000}, de la lista de transeúntes,[0x000A]te ha retado a un combate.
+El combate se disputará con estas reglas.[0x000A]¿Estás de acuerdo?
+El combate se ha cancelado porque falta[0x000A]alguno de los participantes.
+No puedes participar porque no reúnes los[0x000A]requisitos necesarios.
+{0xBDFF:0x0069}
+{0xBDFF:0x006A}
+¿Te apetece disputar un Combate Individual[0x000A]con reglas normales?
+¿Te apetece disputar un Combate Individual[0x000A]con restricciones?
+¿Te apetece disputar un Combate Individual[0x000A]sin restricciones?
+¿Te apetece disputar un Combate Doble con[0x000A]reglas normales?
+¿Te apetece disputar un Combate Doble con[0x000A]restricciones?
+¿Te apetece disputar un Combate Doble sin[0x000A]restricciones?
+¿Te apetece disputar un Combate Triple con[0x000A]reglas normales?
+¿Te apetece disputar un Combate Triple con[0x000A]restricciones?
+¿Te apetece disputar un Combate Triple sin[0x000A]restricciones?
+¿Te apetece disputar un Combate Rotatorio[0x000A]con reglas normales?
+¿Te apetece disputar un Combate Rotatorio[0x000A]con restricciones?
+¿Te apetece disputar un Combate Rotatorio sin[0x000A]restricciones?
+¿Te apetece disputar un Combate Múltiple con[0x000A]reglas normales?
+¿Te apetece disputar un Combate Múltiple con[0x000A]restricciones?
+¿Te apetece disputar un Combate Múltiple sin[0x000A]restricciones?
+Ultimando los preparativos...[0x000A]Espera un momento, por favor.
+{0xBDFF:0x007B}
+{0x0100,0x0000} está buscando contrincantes.
+Buscando jugadores para Comb. Múltiple.
+{0xBDFF:0x007E}
+{0x0100,0x0000}
+Líder
+Respuesta pendiente
+Esperando...
+Número de Pokémon:
+Sin restricciones
+Al menos 2
+Al menos 3
+{0xBDFF:0x0087}
+3
+4
+6
+De 1 a 3
+Nivel de los Pokémon:
+Todos al Nivel 50
+Nivel 50 como máximo
+Sin restricciones
+Pokémon especiales:
+Permitidos
+No permitidos
+Mismos objetos:
+Permitidos
+No permitidos
+Mismos Pokémon:
+Permitidos
+No permitidos
+Hándicap:
+Sí
+No
+{0xBDFF:0x009C}
+{0xBDFF:0x009D}
+Proponiendo un intercambio a tu amig{0x1100,0x0000,0x0101}oa[0x000A]{0x0100,0x0000}...
+Proponiendo un intercambio a[0x000A]{0x0100,0x0000}, de la lista de conocidos...
+Proponiendo un intercambio a[0x000A]{0x0100,0x0000}, de la lista de transeúntes...
+Buscando jugadores para un intercambio...
+¿Quieres cancelar la solicitud de[0x000A]intercambio?
+{0xBDFF:0x00A3}
+{0xBDFF:0x00A4}
+¿Quieres intercambiar Pokémon?
+{0xBDFF:0x00A6}
+{0xBDFF:0x00A7}
+Necesitas al menos dos Pokémon si quieres[0x000A]hacer intercambios.
+Tanto tus cajas como tu equipo están llenos.[0x000A]El intercambio no se puede llevar a cabo.
+Tienes al menos un Pokémon que no se puede[0x000A]seleccionar.
+El intercambio se ha cancelado debido a que[0x000A]el otro jugador no está disponible.
+Tu amig{0x1100,0x0000,0x0101}oa {0x0100,0x0000} te propone un[0x000A]intercambio.
+{0x0100,0x0000}, de la lista de conocidos, te[0x000A]propone un intercambio.
+{0x0100,0x0000}, de la lista de transeúntes, te[0x000A]propone un intercambio.
+{0x0100,0x0000} está buscando jugadores para[0x000A]intercambiar Pokémon.
+¿Te apetece intercambiar Pokémon?
+Charlar con {0x0100,0x0000}
+¿Quieres iniciar un chat de voz?
+Proponiendo un chat de voz a tu amig{0x1100,0x0000,0x0101}oa[0x000A]{0x0100,0x0000}...
+{0xBDFF:0x00B4}
+{0xBDFF:0x00B5}
+¿Quieres cancelar la solicitud de chat de[0x000A]voz?
+{0xBDFF:0x00B7}
+Chat de voz con {0x0100,0x0000}
+¿Quieres finalizar este chat de voz?
+Finalizando el chat de voz...
+{0x0100,0x0000} ha finalizado el chat de voz.
+¡{0x0100,0x0000} te ha invitado a un chat de[0x000A]voz!
+¿Te apetece un chat de voz?
+Ultimando preparativos...[0x000A]Espera un momento, por favor.
+El chat de voz se ha cancelado porque el otro[0x000A]jugador no está disponible.
+{0x0100,0x0000} está difundiendo su vídeo de[0x000A]presentación.
+¿Quieres ver su vídeo de presentación?
+Solicitando permiso a tu amig{0x1100,0x0000,0x0101}oa[0x000A]{0x0100,0x0000}...
+Solicitando permiso a {0x0100,0x0000}, de la[0x000A]lista de conocidos...
+Solicitando permiso a {0x0100,0x0000}, de la[0x000A]lista de transeúntes...
+¿Quieres cancelar la solicitud de permiso para[0x000A]ver el vídeo de presentación?
+{0xBDFF:0x00C6}
+{0xBDFF:0x00C7}
+No se ha recibido la autorización necesaria por[0x000A]parte de la otra persona.
+Tu amig{0x1100,0x0000,0x0101}oa {0x0100,0x0000} quiere ver tu vídeo[0x000A]de presentación.
+{0x0100,0x0000}, de la lista de conocidos,[0x000A]quiere ver tu vídeo de presentación.
+{0x0100,0x0000}, de la lista de transeúntes,[0x000A]quiere ver tu vídeo de presentación.
+¿Quieres enseñarle tu vídeo de presentación?
+Has enviado tu vídeo de presentación.
+Se ha cancelado el proceso porque el otro[0x000A]jugador no está disponible.
+{0x0100,0x0000} y los Poderes O
+Enviarle un Poder O
+Recibir un Poder O
+Salir
+No puedes utilizar el Poder O porque no tienes[0x000A]ningún Pokémon.
+{0x018B,0x0000}
+¿Quieres registrar a {0x0100,0x0000} en tu[0x000A]lista de favoritos?
+¡Tu lista de favoritos está llena!
+¿Quieres eliminar a {0x0100,0x0000} de tu lista[0x000A]de favoritos?
+N.º de favoritos: {0x0202,0x0000}/100
+Tu lista de favoritos no contiene entradas.[0x000A]Para añadir uno a la lista, registra su perfil.
+Batería baja
+¡La batería de la consola está a[0x000A]punto de agotarse!
+Interactuar con otros jugadores
+Conéctate a internet o ve a sitios[0x000A]repletos de gente para interactuar[0x000A]con más jugadores.
+Elegir jugadores
+Si tocas el icono de una persona,[0x000A]podrás jugar con ella.[0x000A]Si alguien despierta tu interés,[0x000A]¡no lo dudes y toca su icono!
+Amigos
+Tus amigos son aquellos jugadores[0x000A]que has registrado en la lista de[0x000A]amigos de tu Nintendo 3DS.[0x000A]¡Pásalo bomba con tus amistades!
+Conocidos
+Se definen como conocidos aquellas[0x000A]personas con las que hayas jugado.[0x000A]Si juegas otra vez con ellos, podrás[0x000A]registrarlos en tu lista de amigos.[0x000A]¡Pásalo pipa con tus conocidos!
+Transeúntes
+Los transeúntes son jugadores que[0x000A]se hallan en cualquier parte del[0x000A]mundo. Si juegas con ellos, pasarán[0x000A]a incluirse en la lista de conocidos.
+Elegir modos de juego
+Si tocas el icono de menú situado en[0x000A]la parte superior de la pantalla táctil,[0x000A]podrás elegir a qué quieres jugar.[0x000A]Los combates o intercambios son[0x000A]dos de las opciones disponibles.
+Intercambios en conexión
+Mediante la conexión inalámbrica[0x000A]puedes intercambiar Pokémon con[0x000A]muchos otros jugadores.[0x000A]¿Quieres hacer un intercambio en[0x000A]conexión?
+Combates en conexión
+Mediante la conexión inalámbrica[0x000A]puedes combatir con muchos otros[0x000A]jugadores.[0x000A]¿Quieres disputar un combate en[0x000A]conexión?
+Chat de voz
+Si el otro jugador está en tu lista de[0x000A]amigos, podrás mantener un chat de[0x000A]voz con esa persona.[0x000A]Así podréis hablar mientras combatís[0x000A]o realizáis intercambios.
+GTS
+Utiliza la GTS para intercambiar[0x000A]Pokémon con jugadores ubicados[0x000A]en cualquier parte del mundo.[0x000A][0x000A]¿Quieres utilizar la GTS?
+Vídeo de presentación
+Toca el icono de cualquier jugador[0x000A]para ver su vídeo de presentación.
+{0xBDFF:0x00F2}
+{0xBDFF:0x00F3}
+Poder O
+¡Has acumulado Poder O![0x000A][0x000A]El Poder O puede resultar útil en la[0x000A]aventura, tanto para ti como para[0x000A]otro jugador. ¿Quieres utilizarlo?
+Favoritos
+Puedes registrar un máximo de 100[0x000A]jugadores en tu lista de favoritos.[0x000A][0x000A]¿Quieres consultar tu lista?
+Saludo
+Si quieres gritar a los cuatro vientos[0x000A]lo feliz que te sientes o simplemente[0x000A]saludar a los jugadores, toca el[0x000A]icono de saludo y envía un mensaje.[0x000A]¿Quieres decirles algo?
+Jugar a través de internet
+Si te conectas a internet, podrás[0x000A]jugar con gente de cualquier parte[0x000A]del mundo.[0x000A][0x000A]¿Quieres conectarte a internet?
+Sincronizar Juego
+Mediante esta función, podrás[0x000A]utilizar los servicios de PGL si[0x000A]te conectas a internet.[0x000A][0x000A]¿Quieres usar Sincronizar Juego?
+{0xBDFF:0x00FE}
+{0xBDFF:0x00FF}
+{0xBDFF:0x0100}
+{0xBDFF:0x0101}
+Área de Combate
+Aquí es donde se reúne la flor y nata[0x000A]de los Entrenadores procedentes de[0x000A]todas partes del mundo.[0x000A]¿Quieres acceder al Área de[0x000A]Combate?
+Perfil
+Hay un cuestionario listo para ti.[0x000A]¿Te gustaría responder unas cuantas[0x000A]preguntas para añadir la información[0x000A]a tu perfil?
+Configuración del PSS
+Utiliza esta opción para cambiar los[0x000A]ajustes de la comunicación del PSS.[0x000A][0x000A]¿Deseas comprobar la configuración[0x000A]actual?
+Holomisor
+¡Tienes un mensaje nuevo![0x000A][0x000A]¿Quieres activar el Holomisor[0x000A]para verlo?
+Intercambio prodigioso
+Intercambia Pokémon con un jugador[0x000A]de cualquier lugar del mundo.[0x000A]No sabrás qué Pokémon te tocará[0x000A]hasta que lo recibas.[0x000A]¿Te gustaría probar fortuna?
+{0xBDFF:0x010C}
+{0xBDFF:0x010D}
+{0xBDFF:0x010E}
+{0xBDFF:0x010F}
+{0xBDFF:0x0110}
+{0xBDFF:0x0111}
+{0xBDFF:0x0112}
+{0xBDFF:0x0113}
+{0xBDFF:0x0114}
+{0xBDFF:0x0115}
+{0xBDFF:0x0116}
+¿Deseas eliminar a {0x0100,0x0000} de tu[0x000A]lista de conocidos?
+Se ha eliminado a {0x0100,0x0000} de tu[0x000A]lista de conocidos.
+{0xBDFF:0x0119}
+{0xBDFF:0x011A}
+Combate
+Intercambio
+Área de Combate
+Perfil
+Favoritos
+Saludo
+GTS
+Poder O
+Holomisor
+Sincronizar Juego
+Intercambio[0x000A]prodigioso
+Configuración[0x000A]del PSS
+Chat de voz
+Vídeo de[0x000A]presentación
+¡Qué chulo!
+Felicidades
+¡Tu amig{0x1100,0x0000,0x0101}oa {0x0100,0x0000} te ha felicitado por tu cumpleaños!
+¡{0x0100,0x0000}, de la lista de conocidos, te ha felicitado por tu cumpleaños!
+¡{0x0100,0x0000}, de la lista de transeúntes, te ha felicitado por tu cumpleaños!
+Tu amig{0x1100,0x0000,0x0101}oa {0x0100,0x0000} te ha dicho: “¡Qué chulo!”.
+{0x0100,0x0000}, de la lista de conocidos, te ha dicho: “¡Qué chulo!”.
+{0x0100,0x0000}, de la lista de transeúntes, te ha dicho: “¡Qué chulo!”.
+{0xBDFF:0x0131}
+Configuración del PSS
+Configurar permisos de conexión
+{0xBDFF:0x0134}
+Desactivar la conexión del PSS
+Mostrar vídeo de presentación: {0xFF00,0x0002}Sí{0xFF00,0x0000}
+Mostrar vídeo de presentación: {0xFF00,0x0001}No{0xFF00,0x0000}
+Chat de voz: {0xFF00,0x0002}Activado{0xFF00,0x0000}
+Chat de voz: {0xFF00,0x0001}Desactivado{0xFF00,0x0000}
+Toca las opciones para decidir con qué[0x000A]categoría de usuarios quieres jugar.
+¿Deseas recibir solicitudes de tus amigos?
+¿Deseas dejar de recibir solicitudes de tus[0x000A]amigos?
+¿Deseas recibir solicitudes de jugadores en[0x000A]la lista de conocidos?
+¿Deseas dejar de recibir solicitudes de[0x000A]jugadores en la lista de conocidos?
+¿Deseas recibir solicitudes de jugadores en[0x000A]la lista de transeúntes?
+¿Deseas dejar de recibir solicitudes de[0x000A]jugadores en la lista de transeúntes?
+Si desactivas la conexión del PSS, no podrás[0x000A]utilizar esta función para jugar con los demás.[0x000A]¿Seguro que quieres desactivarla?
+Se ha desactivado la conexión del PSS.[0x000A]La comunicación inalámbrica de la consola[0x000A]Nintendo 3DS está ahora activa.
+Reactivar la conexión del PSS
+¿Quieres mostrar tu vídeo de presentación a[0x000A]los demás jugadores?
+Sí
+No
+El chat de voz te permite hablar con[0x000A]jugadores que se encuentren lejos.[0x000A]¿Quieres activarlo?
+Sí
+No
+¿Quieres activar el chat de voz mientras[0x000A]juegas con esta persona?
+¿Quieres desactivar el chat de voz mientras[0x000A]juegas con esta persona?
+El control parental no permite cambiar la[0x000A]configuración del chat de voz.
+Le has dicho “¡Qué chulo!” a {0x0100,0x0000}.
+Le has dicho “Felicidades” a {0x0100,0x0000}.
+La conexión inalámbrica está desactivada.
+¿Quieres utilizar el chat de voz?
+¿Deseas activar el chat de voz cuando[0x000A]un amigo acepte tu solicitud?
+El chat de voz se desactivará, ya que el otro[0x000A]jugador no puede utilizarlo.
+El control parental no permite conectarse a[0x000A]internet.
+(?)
+Introduce el código de seguridad para[0x000A]desactivar el control parental.
+Para usar esta función, los padres o tutores[0x000A]legales deben configurar la protección de[0x000A]privacidad en línea para los menores a través[0x000A]de las opciones de control parental.
+{0xBDFF:0x0157}
+El código de seguridad es incorrecto.[0x000A]No puedes utilizar el chat de voz.
+Si te enfrentas a este usuario, se establecerá[0x000A]el Reglamento de Kalos. ¿Te parece bien?
+Reglamento de Kalos
+Es el reglamento que rige los combates contra[0x000A]jugadores de Pokémon X y Pokémon Y.[0x000A][0x000A]Según se indica, no es posible utilizar los[0x000A]nuevos objetos o movimientos añadidos en las[0x000A]ediciones de Pokémon Rubí Omega y[0x000A]Pokémon Zafiro Alfa.
+Tienes un objeto o un movimiento que no se[0x000A]permite según el Reglamento de Kalos.
+Ver detalles
+Atrás
+Caja de Combate
+Equipo Pokémon
+No permitidos
+No permitidos
+No puedes participar por incumplir las[0x000A]condiciones del Reglamento de Kalos.
+Coloca tu transmisor de infrarrojos frente al[0x000A]del anfitrión del combate.
+Ultimando los preparativos...[0x000A]Espera un momento, por favor.
+Coloca tu transmisor de infrarrojos frente a[0x000A]los de los otros miembros del grupo.
+Coloca tu transmisor de infrarrojos frente al[0x000A]de {0x0200,0x0000} persona{0x1101,0x0000,0x0100}s más.
+Clave de amigo:
+Si combates contra esta persona, seguiréis el[0x000A]Reglamento de Kalos. ¿Deseas continuar?
+No tienes suficientes.

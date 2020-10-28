@@ -1,0 +1,9 @@
+msg_main1230_green_01={0xFF00,0x0009}Azul:{0xFF00,0x0000} ¡Enhorabuena!{0xBE01}[0x000A]Y... ¡menuda sorpresa!
+msg_main1230_green_02=Jamás se me habría ocurrido que Giovanni[0x000A]pudiera estar escondido en un gimnasio.{0xBE01}[0x000A]...{0xBE01}[0x000A]¡Ya está! ¡Decidido!
+msg_main1230_green_03=¡Yo me haré cargo del Gimnasio de Ciudad[0x000A]Verde!{0xBE01}[0x000A]Me había negado en el pasado porque no[0x000A]quería ataduras...{0xBE01}[0x000A]Pero ya estoy listo. ¡Seré el Líder de Gimnasio!
+msg_main1230_select_01=¡Bien dicho!
+msg_main1230_select_02=¿Echamos un combate?
+msg_main1230_green_04=¡Gracias![0x000A]Mientras haya un pedazo de Entrenador como{0xBE00}[0x000A]yo en Kanto, la región siempre estará en paz.
+msg_main1230_green_05=Estaría bien.{0xBE01}[0x000A]Pero no es a mí a quien deberías enfrentarte[0x000A]ahora, ¿no crees, {0x0100,0x0000}?
+msg_main1230_green_06=Pues nada, ¡pon rumbo a la {0xFF00,0x0006}Liga Pokémon{0xFF00,0x0000} de[0x000A]una vez!{0xBE01}[0x000A]Abandona la ciudad por el oeste y recorre toda[0x000A]la Ruta 22. La encontrarás justo al final.{0xBE01}[0x000A]El Alto Mando es duro de pelar, pero ¡que no[0x000A]me entere de que pierdes, {0x0100,0x0000}!
+msg_main1230_green_07={0xFF00,0x0009}Azul:{0xFF00,0x0000} Seguro que {0x0100,0x0001} no tarda en[0x000A]llegar...{0xBE01}[0x000A]No se lo pienso poner nada fácil.

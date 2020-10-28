@@ -1,0 +1,33 @@
+Esta roca presenta algunas grietas.[0x000A]Un Pokémon podría ser capaz de partirla.{0xBE01}[0x000A]¿Quieres usar Golpe Roca?
+Esta roca presenta algunas grietas.[0x000A]Un Pokémon podría ser capaz de partirla.
+Hay unas espinas demasiado peligrosas como para[0x000A]pasar, pero un Pokémon podría cortarlas.{0xBE01}[0x000A]¿Quieres usar Corte?
+Hay unas espinas demasiado peligrosas como para[0x000A]pasar, pero un Pokémon podría cortarlas.
+Es una roca enorme, pero un Pokémon podría[0x000A]moverla.{0xBE01}[0x000A]¿Quieres usar Fuerza?
+Es una roca enorme, pero un Pokémon podría[0x000A]moverla.
+Gracias al movimiento Fuerza, puedes desplazar[0x000A]rocas.
+{0x0102,0x0000} va a usar Fuerza.
+¡Esta pared está agrietada![0x000A]Un Pokémon podría ser capaz de derribarla.{0xBE01}[0x000A]¿Quieres usar Golpe Roca?
+¡Esta pared está agrietada![0x000A]Un Pokémon podría ser capaz de derribarla.
+{0x0102,0x0000} va a usar Excavar.
+{0x0102,0x0000} va a usar Teletransporte.
+El agua es de color azul oscuro...[0x000A]¿Quieres hacer Surf?
+{0x0102,0x0000} va a usar Surf.
+Es una gran catarata.[0x000A]¿Quieres usar Cascada?
+{0x0102,0x0000} va a usar Cascada.
+Un muro de agua cae con un estruendo[0x000A]ensordecedor...
+{0x0102,0x0000} va a usar Destello.
+El agua es de color azul oscuro...
+Un muro de agua cae con un estruendo[0x000A]ensordecedor...
+Este lugar es un tanto sospechoso... ¿Ocurrirá[0x000A]algo si un Pokémon usa algún movimiento?{0xBE01}[0x000A]¿Quieres usar Daño Secreto?
+Este lugar es un tanto sospechoso... ¿Ocurrirá[0x000A]algo si un Pokémon usa algún movimiento?
+¡Has descubierto una pequeña cueva!
+¡Has descubierto un pequeño paso!
+¡Ha caído una liana muy gruesa!
+¿Quieres establecer aquí tu Base Secreta?
+Solo puedes tener una Base Secreta.{0xBE01}[0x000A]¿Estás segur{0x1100,0x00FF,0x0101}oa de que quieres abandonar la[0x000A]ubicada en: {0x0105,0x0000}?
+¡El mar es muy profundo en esta zona![0x000A]A lo mejor te puedes sumergir con el movimiento{0xBE00}[0x000A]de algún Pokémon...
+¡El mar es muy profundo en esta zona![0x000A]¿Quieres usar Buceo?
+¡{0x0102,0x0000} va a usar Buceo!
+Llega una luz desde la superficie.[0x000A]¿Quieres usar Buceo?
+Parece que el camino a la superficie está[0x000A]bloqueado y no se puede usar Buceo aquí.
+Parece que la puerta está cerrada.

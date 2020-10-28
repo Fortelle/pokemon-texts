@@ -1,0 +1,12 @@
+msg_common_scr_yes=はい
+msg_common_scr_no=いいえ
+msg_common_money={0x0206,0x0008,0x0000}円
+msg_common_report_01=ここまでの　冒険を[0x000A]レポートに　記録しますか？
+msg_common_report_02=レポートを　書き込んでいます[0x000A]電源を　切らないでください
+msg_common_report_03={0x0100,0x0000}は[0x000A]レポートを　しっかり　書き残した
+msg_common_report_04=すでに　別の　ポケモンレポートが[0x000A]書かれていますので{0xBE00}[0x000A]レポートが　書けません{0xBE01}[0x000A]詳しくは　取り扱い説明書を[0x000A]ご覧ください
+msg_common_report_05=レポートの　記録に[0x000A]失敗しました
+msg_common_getmoney_01={0x0100,0x0000}は[0x000A]{0x0207,0x0002,0x0000}円　もらった！
+msg_common_pokeget_01={0x0100,0x0000}は[0x000A]{0x0101,0x0001}を　もらった！
+msg_common_watt={0x0206,0x0008,0x002C}W
+msg_common_wattget_01={0x0100,0x0000}は[0x000A]{0x0207,0x0002,0x0000}W　手に入れた！

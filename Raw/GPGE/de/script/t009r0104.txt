@@ -1,0 +1,6 @@
+msg_t009r0104_bg_01=Das Innere dieser Maschine ist offenbar[0x000A]ganz kalt.
+msg_t009r0104_bg_02=Diese Maschine fühlt sich sehr warm an.
+msg_t009r0104_researcher_01=Mit einem Mikroskop kann man erkennen, dass[0x000A]jegliche Materie in unserer Welt aus zahllosen{0xBE00}[0x000A]Molekülen besteht.{0xBE01}[0x000A]Egal also, wie groß etwas wirkt, im Prinzip ist es[0x000A]doch nur eine Ansammlung von kleinen Teilchen.{0xBE01}[0x000A]Andererseits können selbst die kleinsten Dinge[0x000A]sich zu etwas ganz Großem zusammensetzen.{0xBE01}[0x000A]Faszinierend, oder?
+msg_t009r0104_researcher_02=Hmm... Vielleicht sollte ich mich zusammenrollen[0x000A]und ein Fossil werden.{0xBE01}[0x000A]Dann könnte man mich in der fernen Zukunft[0x000A]wiederbeleben!
+msg_t009r0104_researcher_03=Wenn ich so lange auf den Computerbildschirm[0x000A]starre, strapaziert das ganz schön meine Augen.{0xBE01}[0x000A]Ich sollte öfter Pausen einlegen. Es ist wichtig,[0x000A]seinen Augen mal eine Auszeit zu gönnen!
+test_00={0xBDFF:0x0005}

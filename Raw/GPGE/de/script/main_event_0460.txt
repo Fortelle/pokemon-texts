@@ -1,0 +1,5 @@
+msg_main_0460_nresercher_01={0xFF00,0x0009}Assistent:{0xFF00,0x0000} Hallo, {0x0100,0x0000}!
+msg_main_0460_nresercher_02=Erinnerst du dich noch an mich?[0x000A]Ich bin’s, Professor Eichs Lieblingsassistent!
+msg_main_0460_nresercher_03=Gut, dass ich dich treffe! Ich will dir was zeigen.
+msg_main_0460_nresercher_04=Aber hier ist es ein bisschen zu hell dafür.
+msg_main_0460_nresercher_05=Am besten wir gehen dafür kurz ins Haus.[0x000A]Ich warte drinnen auf dich, {0x0100,0x0000}.

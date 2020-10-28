@@ -1,0 +1,12 @@
+msg_sub055_rocket_F_01=Shhh! Io sono un’affascinante spia...[0x000A]Acqua in bocca, o rovinerai la mia copertura!
+msg_sub055_rocket_F_02=Cosa ci fa un{0x1100,0x00FF,0x0100}a piccolett{0x1100,0x00FF,0x0101}oa come te in un posto[0x000A]simile?
+msg_sub055_select_01=Voglio sconfiggere il Team Rocket!
+msg_sub055_select_02=Così, tanto per...
+msg_sub055_rocket_F_03=Oh oh oh! Hai carattere! Mi stai simpatic{0x1100,0x00FF,0x0101}oa,[0x000A]piccolett{0x1100,0x00FF,0x0101}oa!
+msg_sub055_rocket_F_04=Oh oh oh! Sei proprio un{0x1100,0x00FF,0x0100}a simpatic{0x1100,0x00FF,0x0101}oa piccolett{0x1100,0x00FF,0x0101}oa!
+msg_sub055_rocket_F_05=Tieni, ti do un regalo per festeggiare[0x000A]il nostro incontro!
+msg_sub055_system_01={0x0100,0x0000} riceve il {0xFF00,0x0006}completo Rocket{0xFF00,0x0000}[0x000A]dalla spia!
+msg_sub055_system_02={0x0100,0x0000} ripone il {0xFF00,0x0006}completo Rocket{0xFF00,0x0000}[0x000A]nella Valigia vestiti!
+msg_sub055_rocket_F_06=Con quei vestiti addosso, ti sentirai anche tu[0x000A]una Recluta del Team Rocket!
+msg_sub055_rocket_F_07=Anche se... mi sa che sei un po’ troppo piccol{0x1100,0x00FF,0x0101}oa[0x000A]per essere una Recluta a tutti gli effetti.{0xBE00}[0x000A]Ti scoprirebbero subito!
+msg_sub055_rocket_F_08=Se scopro che hai fatto la spia sul fatto che[0x000A]sono una spia, te la farò espiare... Guai a te!

@@ -1,0 +1,6 @@
+msg_ui_tournament_01={0x0100,0x0000}
+msg_ui_tournament_10=엔트리를 소개합니다!{0xBE01}
+msg_ui_tournament_11=1회전 결과입니다!{0xBE01}
+msg_ui_tournament_12=2회전 결과입니다!{0xBE01}
+msg_ui_tournament_13=결승전 결과입니다!!{0xBE01}
+msg_ui_tournament_14=2회전 결과입니다!{0xBE01}[0x000A]오오! 금랑 선수는 멋지게[0x000A]두송 선수를 격파했다고 합니다!{0xBE01}

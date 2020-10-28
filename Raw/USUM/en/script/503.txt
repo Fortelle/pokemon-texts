@@ -1,0 +1,15 @@
+I’m devoting what’s left of my life to helping[0x000A]young Trainers grow.{0xBE01}[0x000A]I’d like to teach the ultimate moves to[0x000A]as many successors as I can.{0xBE01}[0x000A]Is it all right to teach them to your[0x000A]Pokémon, too?
+Would it be all right if I taught your Pokémon the[0x000A]ultimate moves?
+Young Trainer, the Pokémon with you can’t[0x000A]learn these moves.{0xBE01}[0x000A]Please thoroughly check the list of Pokémon[0x000A]that can learn these moves.
+Young Trainer, feel free to come visit me[0x000A]anytime you want.
+Well, please tell me which Pokémon I[0x000A]should teach.
+Young Trainer, that Pokémon can’t learn an[0x000A]ultimate move.{0xBE01}[0x000A]Please thoroughly check the list of Pokémon[0x000A]that can learn these moves.
+Young Trainer, I can’t teach a move to[0x000A]an Egg.
+Young Trainer, that Pokémon’s bond with[0x000A]you is not yet strong enough.{0xBE01}[0x000A]It can learn the move once it forms a strong[0x000A]bond with you.
+Young Trainer, that Pokémon already knows[0x000A]the ultimate move.
+Is it all right to teach {0x0107,0x0001}[0x000A]to {0x0101,0x0000}?
+Pokémon that can learn the ultimate[0x000A]moves...{0xBE01}[0x000A]The blazing Fire-type Pokémon:[0x000A]Charizard, Typhlosion, Blaziken, Infernape,[0x000A]Emboar, Delphox, and Incineroar!{0xBE01}[0x000A]The restless Water-type Pokémon:[0x000A]Blastoise, Feraligatr, Swampert, Empoleon,[0x000A]Samurott, Greninja, and Primarina!{0xBE01}[0x000A]The quiet Grass-type Pokémon:[0x000A]Venusaur, Meganium, Sceptile, Torterra,[0x000A]Serperior, Chesnaught, and Decidueye![0x000A]
+Please choose a move that will be replaced[0x000A]with {0x0107,0x0000}.
+{0x0102,0x0000} learned[0x000A]{0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+1, {0xBE02:0x0014}2, and{0xBE02:0x0014}... {0xBE02:0x0014}... {0xBE02:0x0014}... Ta-da!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} forgot how to[0x000A]use {0x0107,0x0001}.{0xBE01}[0x000A]And...{0xBE01}[0x000A]{0x0102,0x0000} learned[0x000A]{0x0107,0x0002}!{0xBE05,0x0004}{0xBE05,0x0001}
+{0x0102,0x0000} did not learn[0x000A]{0x0107,0x0001}.

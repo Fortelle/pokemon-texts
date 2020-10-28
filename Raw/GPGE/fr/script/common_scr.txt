@@ -1,0 +1,11 @@
+msg_common_scr_yes=Oui
+msg_common_scr_no=Non
+msg_common_money={0x0206,0x0008,0x202F} [0xE300]
+msg_common_money_02=Argent
+msg_common_report_01=Voulez-vous sauvegarder la partie ?
+msg_common_report_02=Sauvegarde en cours...[0x000A]Ne pas éteindre la console.
+msg_common_report_03=Partie sauvegardée.
+msg_common_report_04={0xBDFF:0x0007}
+msg_common_report_05=Échec de la sauvegarde.
+msg_common_getmoney_01=Vous avez obtenu {0x0207,0x0002,0x202F} [0xE300] !
+msg_common_pokeget_01={0x0101,0x0001} obtenu !

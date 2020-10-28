@@ -1,0 +1,16 @@
+msg_main8000_rock_01=Sono Brock! Il Capopalestra di Plumbeopoli!
+msg_main8000_rock_06=Il mio motto è determinazione e difesa granitica!
+msg_main8000_rock_07=Ecco perché tutti i miei Pokémon sono[0x000A]di tipo Roccia!
+msg_main8000_rock_08=Vuoi ancora sfidarmi?
+msg_main8000_rock_09=Bene! Mostrami ciò che sai fare!
+msg_main8000_rock_02=Come premio per la tua vittoria ti conferisco[0x000A]una Medaglia ufficiale della Lega Pokémon...{0xBE00}[0x000A]La Medaglia Sasso!
+msg_main8000_sys_01={0x0100,0x0000} riceve la {0xFF00,0x0006}Medaglia Sasso{0xFF00,0x0000}[0x000A]da Brock!
+msg_main8000_rock_03=Con la Medaglia Sasso tutti i Pokémon[0x000A]fino al livello 20 ottenuti tramite scambio{0xBE00}[0x000A]seguiranno le tue indicazioni.{0xBE01}[0x000A]Ah, aspetta! Prendi anche questa!
+msg_main8000_sys_02={0x0100,0x0000} riceve la {0x0109,0x0001}[0x000A]che contiene {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000} da Brock!
+msg_main8000_rock_04=Una MT contiene una mossa che puoi[0x000A]insegnare a un Pokémon.{0xBE00}[0x000A]Puoi usarla quante volte vuoi!{0xBE01}[0x000A]A proposito, la MT01 contiene Bottintesta![0x000A]Il tuo Pokémon infligge danni all’avversario{0xBE00}[0x000A]colpendolo con la sua testa dura come la pietra.
+msg_main8000_rock_05=Al mondo ci sono persone di tutti i tipi!{0xBE01}[0x000A]Alcune allenano i Pokémon, altre invece[0x000A]se ne prendono cura senza farli lottare...{0xBE01}[0x000A]Io, ad esempio, mi sto impegnando per diventare[0x000A]un Allevapokémon di prima classe!{0xBE01}[0x000A]Se il tuo obiettivo è diventare più forte,[0x000A]visita altre Palestre e metti alla prova{0xBE00}[0x000A]le tue abilità.
+msg_main8000_shortpants_01=Sei un{0x1100,0x00FF,0x0B0A} Allenator’Allenatrice, vero?{0xBE01}[0x000A]Brock sta cercando nuovi sfidanti.[0x000A]Vieni!
+msg_main8000_shortpants_02=Se pensi di avere la stoffa, allora vai[0x000A]a sfidare Brock!
+msg_main8000_shortpants_03=Ehi, quella è la Medaglia Sasso![0x000A]Scommetto che l’hai ricevuta da Brock!{0xBE01}[0x000A]Sapevi che più Medaglie hai, più strumenti[0x000A]puoi comprare nei negozi? Bello, eh?
+msg_main8000_shortpants_04=Ah, a proposito... Quegli edifici blu sono[0x000A]i Pokémon-Market.
+msg_main8000_shortpants_05=Scommetto che li hai già visti in giro![0x000A]Si trovano in ogni città!

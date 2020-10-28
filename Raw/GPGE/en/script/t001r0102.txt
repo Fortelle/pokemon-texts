@@ -1,0 +1,5 @@
+msg_t001r0102_game_01=It’s a Nintendo Switch![0x000A]It’s connected to the TV.
+msg_t001r0102_bg_01=How many Pokémon are there in the world?
+msg_t001r0102_bg_02=There’s an email from {0x0100,0x0001}!{0xBE01}[0x000A]“Hey, {0x0100,0x0000}![0x000A]So here’s what you need to know as a Trainer...{0xBE01}[0x000A]“Press the A Button, and you can talk to all[0x000A]kinds of people. And if you tilt the control stick{0xBE00}[0x000A]more, you can run!{0xBE01}[0x000A]“Plus, if you open up the main menu by pressing[0x000A]the X Button, you can save your progress, too.{0xBE01}[0x000A]“Boy, I can’t wait to get started. Can you?[0x000A][0x0009]– {0x0100,0x0001}”
+msg_t001r0102_bg_03=It’s a fluffy Pikachu plush!
+msg_t001r0102_bg_04=It’s a fuzzy Eevee plush!

@@ -1,0 +1,15 @@
+msg_fld_ev_spray_01=The repellent’s effect wore off!
+msg_fld_ev_spray_02=The repellent’s effect wore off![0x000A]Would you like to use another one?
+msg_fld_ev_spray_03=You used {0x1302,0x0001,0x0000}{0x010A,0x0001}.
+msg_fld_ev_bookshelf_01={0xBDFF:0x0003}
+msg_fld_ev_kowaserurock_01=It’s a sturdy-looking rock.[0x000A]Maybe a powerful Pokémon could break it...
+msg_fld_ev_tv_common_01={0xBDFF:0x0005}
+msg_fld_ev_oserurock_01=It’s a big heavy-looking boulder.[0x000A]Maybe a powerful Pokémon could move it...
+msg_egg_event_01=...Oh?
+msg_ride_check_01=Do you want to call Tauros?
+msg_ride_check_02=Do you want to call Machamp?
+msg_ride_check_03=Do you want to call Sharpedo?
+msg_ride_check_ng_01=There is not enough space to call this[0x000A]Ride Pokémon here.
+msg_bicycle_01=You can’t ride your bicycle right now.
+msg_bicycle_02=You can’t get down from your bicycle here.
+msg_fld_ev_boxfull_01=Your Pokémon Boxes are full![0x000A]Better to try again later.

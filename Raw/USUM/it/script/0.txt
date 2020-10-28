@@ -1,0 +1,132 @@
+Benvenut{0x1100,0x00FF,0x0101}oa all’Agenzia Lotta!
+In questa struttura puoi prendere in prestito[0x000A]dei Pokémon e lottare insieme agli Allenatori{0xBE00}[0x000A]in visita al tuo Festiplaza.{0xBE01}[0x000A]Di fatto, sarai un{0x1100,0x00FF,0x0807} nostroa nostra agente e ti verrà[0x000A]assegnato un grado, che aumenterà in base alle{0xBE00}[0x000A]tue prestazioni.{0xBE01}[0x000A]Man mano che il grado aumenta, potrai prendere[0x000A]in prestito Pokémon sempre più forti.{0xBE01}[0x000A]Agente, la tua missione è sfoderare tutta la tua[0x000A]abilità e raggiungere il grado più alto!
+Al momento hai una sfida in sospeso.[0x000A]Per salire di grado devi vincere {0x0200,0x0000} sfid{0x1101,0x0000,0x0101}ae.
+Il tuo grado attuale è {0x0201,0x0001}.[0x000A]Cosa vuoi fare?
+Cosa vuoi che ti spieghi?
+In questa struttura puoi prendere in prestito[0x000A]vari Pokémon e lottare al loro fianco!{0xBE01}[0x000A]Si lotta secondo le regole della Lotta in Singolo[0x000A]e ogni Allenatore ha a disposizione tre Pokémon.{0xBE01}[0x000A]Uno lo prendi in prestito direttamente qui e gli[0x000A]altri due provengono dalle squadre di altri{0xBE00}[0x000A]Allenatori in visita al tuo Festiplaza.{0xBE01}[0x000A]Invita due Allenatori e affronta una sfida!
+Potrai affrontare vari Allenatori in sfide in cui si[0x000A]susseguono tre lotte. Per aggiudicarti una sfida{0xBE00}[0x000A]devi vincere tutte e tre le lotte di seguito.{0xBE01}[0x000A]Vincendo le sfide otterrai dei festigettoni e dei[0x000A]premi. Inoltre, salirai di grado e potrai prendere{0xBE00}[0x000A]in prestito Pokémon sempre più forti.{0xBE01}[0x000A]Gli altri Allenatori vedranno i Pokémon che[0x000A]hai preso in prestito e potranno sceglierti{0xBE00}[0x000A]come alleat{0x1100,0x00FF,0x0101}oa per lottare insieme a loro!{0xBE01}[0x000A]Accumula vittorie, sali di grado e diventa[0x000A]un{0x1100,0x00FF,0x0101} 'agente d’eccezione!
+Torna a trovarci!
+Hai preso in prestito {0x0101,0x0001}.[0x000A]Vuoi scegliere un altro Pokémon?
+Scegli un Pokémon fra quelli disponibili[0x000A]al momento.
+Hai preso in prestito {0x0101,0x0001}!
+Scegli quale dei Pokémon dei tuoi alleati vuoi[0x000A]controllare.
+Hai già invitato due alleati.[0x000A]Vuoi sostituirli con altri?
+Quale alleato vuoi cambiare?
+Seleziona gli alleati.
+Hai invitato {0x0100,0x0000} a lottare con te.
+Salve, Allenat{0x1100,0x00FF,0x0302}orrice! L’ultima volta che hai giocato[0x000A]ti sei dimenticat{0x1100,0x00FF,0x0101}oa di salvare, vero?{0xBE01}[0x000A]Mi dispiace per la brutta notizia, ma le tue lotte[0x000A]precedenti non sono più valide...
+Prima di tutto, scegli un Pokémon da prendere[0x000A]in prestito.
+Lascia che ti presenti anch’io qualcuno che non[0x000A]vede l’ora di lottare con te!
+Accomodati pure!
+Ecco i tuoi alleati per questa lotta!
+Via alla lotta n° {0x0200,0x0000}!
+Complimenti![0x000A]È stata una vittoria strepitosa!
+Hai ricevuto {0x0201,0x0005} festigettoni.
+La prossima lotta sarà la n° {0x0200,0x0000}.[0x000A]Vuoi continuare?
+La prossima lotta sarà la n° {0x0200,0x0000}, contro un[0x000A]avversario fortissimo! Vuoi continuare?
+Vuoi fare una pausa?
+Sei riuscit{0x1100,0x00FF,0x0101}oa a vincere la sfida!
+Ce l’hai fatta! Hai sconfitto un avversario[0x000A]potentissimo!{0xBE01}[0x000A]Che lotta mozzafiato![0x000A]Ecco il tuo premio!
+Cerca di ottenere cinque vittorie consecutive.[0x000A]Buona fortuna!
+Complimenti! Hai raggiunto il grado {0x0201,0x0000}.
+Mi dispiace, non siamo ancora aperti.[0x000A]Quando saremo pronti, il capo ti inviterà!
+Il primo avversario ha {0x0101,0x0000},[0x000A]{0x0101,0x0001} e {0x0101,0x0002}.
+Il secondo avversario ha {0x0101,0x0000},[0x000A]{0x0101,0x0001} e {0x0101,0x0002}.
+Il terzo avversario ha {0x0101,0x0000},[0x000A]{0x0101,0x0001} e {0x0101,0x0002}.
+Il quarto e il quinto avversario hanno a[0x000A]disposizione... Ah... mi dispiace... è un segreto!
+Questa volta non è andata molto bene...[0x000A]Quando hai voglia di ritentare, torna a trovarci!
+{0x01B7,0x0000}
+Voglio lottare!
+Dammi un indizio...
+Voglio scegliere un Pokémon
+Mostrami le info dei Pokémon
+Voglio invitare alleati
+Mostra i Pokémon degli alleati
+Vorrei saperne di più!
+Come non detto!
+Cos’è l’Agenzia Lotta?
+Spiegami le regole!
+Sì
+No
+Mostrami le info
+{0x0101,0x0000}
+{0x0101,0x0001}
+{0x0101,0x0002}
+{0x0100,0x0000}
+{0x0100,0x0001}
+Cambia
+Mostra info Pokémon
+Continua
+Sospendi le lotte
+Salva il Video Lotta
+Prendi in prestito
+{0xBDFF:0x003E}
+{0xBDFF:0x003F}
+Questa è l’Agenzia Lotta, un servizio di cui[0x000A]vado molto fiero!
+Qui puoi prendere in prestito dei Pokémon.
+Ti vengono proposti tre Pokémon e puoi[0x000A]sceglierne uno.
+Poi devi invitare degli Allenatori a lottare insieme[0x000A]a te come tuoi alleati.
+Cerca dei visitatori con Pokémon forti!
+Lottando insieme ai tuoi alleati potrai vincere[0x000A]dei premi!
+Accumulando vittorie salirai di grado.
+E salendo di grado potrai scegliere Pokémon[0x000A]sempre più forti per le tue lotte!
+Dacci dentro con le lotte e punta al grado[0x000A]più alto!
+Ehm... Beh... Ecco come funziona![0x000A]Che ne dici? Provala, se ti va!
+Come non detto...
+Prepara una sfida!
+Molto bene. Prepariamo una sfida!
+Non hai abbastanza alleati.[0x000A]Per partecipare sono necessari due alleati.
+Scegli un’opzione.
+Vuoi scegliere questo Pokémon?
+Sembra che non ci siano visitatori disponibili.{0xBE01}[0x000A]Puoi usare la funzione StreetPass per far[0x000A]arrivare dei visitatori.
+Questi festigettoni sono un regalo per[0x000A]celebrare i tuoi successi fin qui.
+Ecco il tuo premio!
+E tu chi sei?![0x000A]Adesso ti concio per le feste!{0x0114,0x0033}
+Hai fatto molta strada per arrivare fin qui...[0x000A]È giunto il momento di dare il massimo!{0x0114,0x0010}
+...{0x0114,0x0020}
+Agente {0x0100,0x0000}, per salire di grado[0x000A]devi vincere {0x0200,0x0001} sfid{0x1101,0x0001,0x0101}ae.
+Al momento hai una sfida in sospeso.{0xBE01}[0x000A]Tra {0x0200,0x0000} sfid{0x1101,0x0000,0x0101}ae potrai affrontare un avversario[0x000A]fortissimo.
+Tra {0x0200,0x0000} sfid{0x1101,0x0000,0x0101}ae potrai affrontare un avversario[0x000A]fortissimo.
+Ottimo lavoro, agente: il grado 50 non è da tutti![0x000A]Ormai l’Agenzia Lotta non ha più segreti per te!{0xBE01}[0x000A]D’ora in avanti, otterrai una ricompensa ogni[0x000A]volta che vinci cinque sfide di seguito!
+Tieni sempre presente le compatibilità tra i tipi![0x000A]Sapere quali sono i punti deboli e i punti di forza{0xBE00}[0x000A]dei tuoi Pokémon è la chiave per vincere!
+Ricordati che se il Pokémon avversario è di un[0x000A]tipo contro cui il tuo Pokémon in campo è{0xBE00}[0x000A]debole, sostituirlo può essere la strategia giusta.
+Ricordati sempre di controllare l’abilità del tuo[0x000A]Pokémon. E non dimenticare che Pokémon della{0xBE00}[0x000A]stessa specie possono avere abilità diverse!
+Sai, a volte difendersi può essere più saggio e[0x000A]e proficuo che attaccare.{0xBE01}[0x000A]E una mossa di stato usata al momento giusto[0x000A]può fare la differenza.
+Un consiglio: se intuisci che l’avversario sta per[0x000A]sferrare una mossa superefficace contro il tuo{0xBE00}[0x000A]Pokémon, può essere strategico sostituirlo.
+Tieni sempre d’occhio le modifiche alle[0x000A]statistiche del Pokémon avversario!{0xBE01}[0x000A]Tocca l’icona del Pokémon durante la lotta[0x000A]per controllarle!
+È importante capire se il Pokémon avversario è[0x000A]più debole agli attacchi fisici o a quelli speciali.{0xBE01}[0x000A]Se ti trovi di fronte a un Pokémon che sembra[0x000A]resistere particolarmente bene agli attacchi{0xBE00}[0x000A]speciali, prova a usare attacchi fisici!
+A parità di potenza fra due mosse, tieni[0x000A]presente che se la mossa è dello stesso tipo{0xBE00}[0x000A]del Pokémon che la usa, infliggerà più danni!
+Ricordati che il Pokémon che userà per primo la[0x000A]sua mossa sarà quello con la Velocità più alta.{0xBE01}[0x000A]Confrontare la Velocità del tuo Pokémon con[0x000A]quella dell’avversario può essere un’ottima{0xBE00}[0x000A]strategia per una partenza vincente.
+Un consiglio: se il tuo Pokémon non ha nessuna[0x000A]mossa superefficace contro l’avversario, può{0xBE00}[0x000A]essere una buona idea sostituirlo.
+Un’ultima cosa: i nostri agenti sono tenuti a[0x000A]rispettare un certo codice di abbigliamento!{0xBE01}[0x000A]Buona fortuna![0x000A]Ci aspettiamo grandi cose da te!
+Complimenti! Hai raggiunto il grado {0x0201,0x0000}!{0xBE01}[0x000A]Ho qualcosa per te.[0x000A]Sono sicura che ti staranno benissimo!
+Hai ricevuto gli Occhiali agente!
+Installo il programma di lotta... Protocollo[0x000A]“{0x010E,0x0000}” inizializzato!
+Installo il programma di lotta... [0x000A]Protocollo “{0x0100,0x0000}” inizializzato!
+Ora devi invitare due Allenatori: saranno tuoi[0x000A]alleati nella lotta.
+Ora devi invitare degli Allenatori come alleati.{0xBE01}[0x000A]Al momento non ci sono visitatori disponibili...[0x000A]Puoi cercarne usando la funzione StreetPass.
+Per lanciarti in una sfida, seleziona[0x000A]“Voglio lottare!”.
+Hai portato a termine la missione e sei[0x000A]salit{0x1100,0x00FF,0x0101}oa di grado!{0xBE01}[0x000A]Continua così, agente![0x000A]Ci aspettiamo grandi cose da te!
+Ora che sei al grado {0x0201,0x0000}, la tua abilità verrà[0x000A]messa a dura prova introducendo delle{0xBE00}[0x000A]alterazioni allo scenario di lotta, in pratica{0xBE00}[0x000A]delle impostazioni di lotta.{0xBE01}[0x000A]Le alterazioni possono essere certe condizioni[0x000A]atmosferiche o un particolare campo di lotta.{0xBE01}[0x000A]Un{0x1100,0x00FF,0x0706} bravoa brava agente deve saper mettere a punto[0x000A]la strategia migliore in ogni situazione scegliendo{0xBE00}[0x000A]i tipi e le mosse più appropriati!{0xBE01}[0x000A]Se nessuno dei Pokémon disponibili al momento[0x000A]è adatto alla tua strategia di lotta, prova a fare{0xBE00}[0x000A]un salto alla filiale di cambio del Festiplaza.
+Oggi non ci sono impostazioni di lotta attive.
+L’impostazione di lotta attiva oggi è:[0x000A]“sole intenso”.
+L’impostazione di lotta attiva oggi è:[0x000A]“pioggia”.
+L’impostazione di lotta attiva oggi è:[0x000A]“grandine”.
+L’impostazione di lotta attiva oggi è:[0x000A]“tempesta di sabbia”.
+L’impostazione di lotta attiva oggi è:[0x000A]“Campo Elettrico”.
+L’impostazione di lotta attiva oggi è:[0x000A]“Campo Nebbioso”.
+L’impostazione di lotta attiva oggi è:[0x000A]“Campo Psichico”.
+L’impostazione di lotta attiva oggi è:[0x000A]“Campo Erboso”.
+L’impostazione di lotta attiva oggi è:[0x000A]“sole accecante”.
+L’impostazione di lotta attiva oggi è:[0x000A]“acquazzone”.
+L’impostazione di lotta attiva oggi è:[0x000A]“corrente d’aria misteriosa”.
+{0xBDFF:0x007A}
+{0xBDFF:0x007B}
+{0xBDFF:0x007C}
+{0xBDFF:0x007D}
+{0xBDFF:0x007E}
+{0xBDFF:0x007F}
+{0xBDFF:0x0080}
+{0xBDFF:0x0081}
+{0xBDFF:0x0082}
+Tieni, questi festigettoni sono un piccolo premio[0x000A]per aver partecipato!

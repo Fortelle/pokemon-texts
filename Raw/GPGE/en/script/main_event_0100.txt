@@ -1,0 +1,6 @@
+msg_main0100_clerkm_01=Hey![0x000A]You came up from Pallet Town?
+msg_main0100_clerkm_02=You must know Professor Oak, right?{0xBE01}[0x000A]I’ve got a delivery for him, but I really can’t[0x000A]leave the Poké Mart unattended right now.{0xBE01}[0x000A]Can I get you to take this to Professor Oak[0x000A]for me?
+msg_main0100_sys_01=You took the {0xFF00,0x0006}Parcel{0xFF00,0x0000} from the Poké Mart clerk!
+msg_main0100_clerkm_03=Thanks, kid![0x000A]Say hi to Professor Oak for me, too.
+msg_main0100_clerkm_04={0xBDFF:0x0004}
+msg_main0100_sys_02=Do you want to head straight back to the lab?

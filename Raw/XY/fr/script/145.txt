@@ -1,0 +1,14 @@
+À quel étage désirez-vous vous rendre[0xE07F]?
+Rester ici
+RdC
+1[0xE08A]
+2[0xE0A6]
+3[0xE0A6]
+4[0xE0A6]
+-1
+-2
+-3
+Niveau secret
+L’ascenseur ne fonctionne pas sans la clé.
+{0x0100,0x0000} utilise la Clé Ascenseur[0xE07F]!
+On ne s’éclipse pas quand on a du travail, voyons[0xE07F]!

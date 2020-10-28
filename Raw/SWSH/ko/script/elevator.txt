@@ -1,0 +1,16 @@
+msg_elevator_c03_01=어디로 가겠습니까?
+msg_elevator_c03_02=론도로제호텔
+msg_elevator_c03_03=슛스타디움
+msg_elevator_c03_04=모노레일역
+msg_elevator_c03_05=로즈타워
+msg_elevator_c03_06=배틀타워
+msg_elevator_c03_07=그만둔다
+msg_elevator_c02_01=엘리베이터지만[0x000A]지금은 사용할 수 없는 모양이다
+msg_elevator_start=몇 층으로 가겠습니까?
+msg_elevator_cancel=그만둔다
+msg_elevator_1f=1층
+msg_elevator_3f=3층
+msg_elevator_ap_1f=1F: 입구
+msg_elevator_ap_2f=2F: 보호구역
+msg_elevator_ap_b1f=B1F: 선착장
+msg_elevator_ap_b2f=B2F: 랩에리어

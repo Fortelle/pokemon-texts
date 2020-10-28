@@ -1,0 +1,7 @@
+msg_main0420_rival_01={0xFF00,0x0009}{0x0100,0x0001} : {0xFF00,0x0000}Ohé ![0x000A]{0x0100,0x0000} !
+msg_main0420_rival_02=La cabine du capitaine est juste en haut[0x000A]de ces escaliers.{0xBE01}[0x000A]Faut que t’ailles le voir, il peut t’enseigner[0x000A]une {0xFF00,0x0006}Technique Secrète{0xFF00,0x0000} !
+msg_main0420_rival_06=Même s’il est pas au mieux de sa forme...[0x000A]Il a le mal de mer, le pauvre.
+msg_main0420_rival_03=Tu veux tenter un petit combat avant d’aller voir[0x000A]le capitaine, histoire de ?{0xBE01}[0x000A]Ça fait un bail, et j’aimerais vraiment voir[0x000A]ce que donne ton {0x1101,0x00FD,0x0607}Pokémonéquipe !
+msg_main0420_dummy_01={0xBDFF:0x0004}
+msg_main0420_rival_04={0xFF00,0x0009}{0x0100,0x0001} :{0xFF00,0x0000} J’hallucine...[0x000A]T’as grave progressé...
+msg_main0420_rival_05=Je suis super fier de toi !{0xBE01}[0x000A]Maintenant, fonce voir le capitaine pour[0x000A]apprendre sa {0xFF00,0x0006}Technique Secrète{0xFF00,0x0000} ! Allez, tchao !

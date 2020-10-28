@@ -1,0 +1,33 @@
+Ehi, come va?[0x000A]Ascoltami bene... Vuoi diventare Campione{0x1100,0x00FF,0x0300}ssa?{0xBE01}[0x000A]Non sono un Allenatore, ma posso darti alcune dritte[0x000A]per vincere.
+Sì? Ok, affare fatto! Ti aiuterò a diventare Campione{0x1100,0x00FF,0x0300}ssa!{0xBE01}[0x000A]Come Allenatore hai il compito di vincere Medaglie,[0x000A]giusto?{0xBE01}[0x000A]Giusto! Ma i Capipalestra sono degli ossi duri.{0xBE01}[0x000A]Ed è qui che entro in gioco io![0x000A]Ascolta bene quello che sto per dirti!
+Petra, la Capopalestra, usa Pokémon di tipo[0x000A]Roccia.{0xBE01}[0x000A]Il tipo Roccia è molto resistente, ma è debole[0x000A]contro le mosse di tipo Acqua ed Erba.{0xBE01}[0x000A]Se riesci a battere la Capopalestra, torna a trovarmi.[0x000A]Buona fortuna!
+Wow! Che vittoria entusiasmante![0x000A]I miei consigli sono serviti!{0xBE01}[0x000A]Bene, controlla la tua Scheda Allenatore.{0xBE01}[0x000A]Dovrebbe essere stata registrata la[0x000A]Medaglia Pietra che hai vinto.{0xBE01}[0x000A]In altre parole...[0x000A]hai compiuto il primo passo per diventare Campione{0x1100,0x00FF,0x0300}ssa!{0xBE01}[0x000A]Deve essere una sensazione incredibile!
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+Eccoci qua...{0xBE01}[0x000A]Avevo la sensazione che tu e la tua squadra[0x000A]sareste riusciti ad arrivare fin qui...{0xBE01}[0x000A]Mostrami come lotti e quali Pokémon usi!
+{0xBDFF:0x000B}
+Allora... Secondo le regole della Lega Pokémon,[0x000A]agli Allenatori viene conferita una Medaglia{0xBE00}[0x000A]se sconfiggono un Capopalestra.{0xBE01}[0x000A]Ti prego di accettare questo riconoscimento ufficiale[0x000A]della Lega Pokémon, la Medaglia Pietra.
+{0x0100,0x0000} riceve la Medaglia Pietra da Petra.
+Grazie alla Medaglia Pietra, i tuoi Pokémon[0x000A]potranno usare la mossa Taglio fuori dalla lotta.{0xBE01}[0x000A]Inoltre, i Pokémon fino al livello 20 seguiranno[0x000A]diligentemente le tue indicazioni, compresi{0xBE01}[0x000A]quelli ottenuti tramite scambi.[0x000A]E per finire... ti prego di accettare anche questa.
+La MT39 contiene Rocciotomba.{0xBE01}[0x000A]Questa mossa infligge danni scagliando rocce[0x000A]sull’avversario e ne fa diminuire la Velocità.{0xBE01}[0x000A]Usando le MT, i Pokémon impareranno[0x000A]le mosse immediatamente.{0xBE01}[0x000A]Le MT possono essere usate tutte le volte che[0x000A]vuoi, quindi non farti problemi a utilizzarle!
+Visto che sei così forte, dovresti sfidare altri[0x000A]Capipalestra.{0xBE01}[0x000A]Sfidando molti Allenatori, si imparano tante cose.
+Palestra di Ferrugipoli
+Palestra di Ferrugipoli{0xBE01}[0x000A]Allenatori certificati da Petra:[0x000A]{0x0100,0x0000}
+Ah, ciao...[0x000A]Sei un{0x1100,0x00FF,0x0706} nuovoa nuova sfidante?
+Io sono Petra, la Capopalestra di Ferrugipoli.
+Sono diventata Capopalestra per mettere[0x000A]in pratica nella lotta quello che ho imparato{0xBE00}[0x000A]alla Scuola per Allenatori.
+Pensi di essere in grado di sconfiggermi?{0xBE01}[0x000A]Se ci riuscirai, ti consegnerò la Medaglia[0x000A]di questa Palestra!{0xBE01}[0x000A]Vieni a sfidarmi, se hai coraggio!
+Voglio proprio vedere di cosa sei capace.[0x000A]A presto!
+Qui sono esposti tanti fossili diversi!
+La targhetta dice: “Legno silicizzato”.[0x000A]Probabilmente era parte di un albero fossile.
+Qui sono esposti svariati attrezzi[0x000A]per lo scavo e la ricerca di fossili.
+Delle splendide gemme d’ambra!
+La targhetta dice: “Pietra di Kalos”.[0x000A]Pare che sia stata rinvenuta nella Grotta dei Bagliori.
+Ho saputo che hai conquistato il titolo di Campione{0x1100,0x00FF,0x0300}ssa.[0x000A]Ti faccio le mie congratulazioni.{0xBE01}[0x000A]Ogni tanto mi fa piacere ripensare al momento[0x000A]in cui ti ho dato la Medaglia Pietra...{0xBE01}[0x000A]Un giorno vorrei riprovare le meravigliose emozioni[0x000A]che abbiamo condiviso durante la nostra lotta.
+Sai, c’è un ragazzo che ha la mia stessa[0x000A]passione per le pietre. Si chiama Rocco...{0xBE01}[0x000A]Di solito è una persona molto riservata,[0x000A]ma quando si parla di rocce rare{0xBE00}[0x000A]o di Pokémon di tipo Acciaio...{0xBE01}[0x000A]gli si illuminano gli occhi e non la smette[0x000A]più di parlare!{0xBE01}[0x000A]È davvero affascinante quando fa così...
+Palestra di Ferrugipoli{0xBE01}[0x000A]Allenatori certificati da Petra:[0x000A]{0x0100,0x0000} e Lino
+Sulla targhetta di questo modello c’è scritto:[0x000A]“Sezione geologica del terreno nella zona di Brunifoglia.”{0xBE01}[0x000A]Secondo la spiegazione, nei dintorni di Brunifoglia[0x000A]si trova il giacimento di fossili più famoso di Hoenn.

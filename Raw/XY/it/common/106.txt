@@ -1,0 +1,58 @@
+Salve! Questo è il Sincrogioco!{0xBE01}[0x000A]Il Sincrogioco è un sistema che mette in[0x000A]collegamento il Pokémon Global Link{0xBE00}[0x000A]con Pokémon X e Pokémon Y.{0xBE01}[0x000A]Registrando nel Pokémon Global Link[0x000A]l’ID Sincrogioco ottenuto in Pokémon X o{0xBE00}[0x000A]in Pokémon Y, potrai usufruire di varie funzioni.{0xBE01}[0x000A]Per maggiori informazioni, seleziona “Info”.{0xBE01}
+Non puoi usare il Sincrogioco perché[0x000A]l’ID Sincrogioco non è stato registrato{0xBE00}[0x000A]nel Pokémon Global Link.{0xBE01}[0x000A]Accedi al Pokémon Global Link[0x000A]e inserisci il tuo ID Sincrogioco.{0xBE01}
+Vuoi creare un ID Sincrogioco per usare[0x000A]il Sincrogioco?
+Connessione in corso.[0x000A]Attendi...
+Salvataggio in corso.[0x000A]Non spegnere la console.
+L’ID Sincrogioco è stato creato!{0xBE01}[0x000A]Registra l’ID Sincrogioco nel Pokémon[0x000A]Global Link.{0xBE01}[0x000A]Una volta completata la registrazione[0x000A]potrai usare il Sincrogioco.{0xBE01}[0x000A]Per questo software sono attualmente[0x000A]presenti le seguenti impostazioni...{0xBE01}[0x000A]Sincrogioco automatico: attivo[0x000A]Pokémiglia: invia tutte{0xBE01}[0x000A]Puoi modificare le impostazioni[0x000A]in qualsiasi momento da “Opzioni”.{0xBE01}[0x000A]Per maggiori informazioni su come usare[0x000A]il Sincrogioco, seleziona “Info”.{0xBE01}
+Le impostazioni del Sincrogioco sono state[0x000A]modificate!{0xBE01}
+{0xBDFF:0x0007}
+Il Sincrogioco è stato interrotto perché[0x000A]il server sta registrando un alto volume{0xBE00}[0x000A]di traffico. Riprova più tardi.
+L’emissione dell’ID Sincrogioco è stata[0x000A]interrotta perché il server sta registrando{0xBE00}[0x000A]un alto volume di traffico.{0xBE01}[0x000A]Riprova più tardi.
+{0xBDFF:0x000A}
+Sincrogioco in corso.[0x000A]Non spegnere la console.
+{0xBDFF:0x000C}
+Sincrogioco terminato!
+{0xBDFF:0x000E}
+Sì
+No
+Salve! Questo è il Sincrogioco!
+Crea ID Sincrogioco
+Info
+Usa il Sincrogioco
+Opzioni
+{0xBDFF:0x0016}
+Che cos’è il Sincrogioco?
+Preparativi per il Sincrogioco
+Che cos’è il Sincrogioco?
+Preparativi per il Sincrogioco
+Come usare il Sincrogioco
+Opzioni
+Sincrogioco automatico
+Attivo
+Non attivo
+Pokémiglia
+Invia tutte
+Non inviare
+Info sul Sincrogioco
+ID Sincrogioco
+Per procedere alla registrazione[0x000A]nel Pokémon Global Link, accedi[0x000A]al sito e inserisci l’ID Sincrogioco[0x000A]visualizzato a schermo.[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+Cronologia del Sincrogioco[0x000A]Sincrogioco usato[0x000A]il {0xFF00,0x0002}{0x0201,0x0002}/{0x0201,0x0001}/20{0x0201,0x0000} {0xFF00,0x0000}alle {0xFF00,0x0002}{0x0201,0x0003}:{0x0201,0x0004}{0xFF00,0x0000}[0x000A]{0xFF00,0x0002}{0x0202,0x0005}{0xFF00,0x0000} strument{0x1101,0x0005,0x0101}oi consegnat{0x1101,0x0005,0x0101}oi[0x000A][0x000A]Pokémon Global Link[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+{0x0200,0x0000}/{0x0200,0x0001}
+L’ID Sincrogioco visualizzato[0x000A]a schermo è stato registrato[0x000A]nel Pokémon Global Link.[0x000A][0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+Cronologia Sincrogioco[0x000A]Sincrogioco usato[0x000A]il {0xFF00,0x0002}{0x0201,0x0002}/{0x0201,0x0001}/20{0x0201,0x0000} {0xFF00,0x0000}alle {0xFF00,0x0002}{0x0201,0x0003}:{0x0201,0x0004}{0xFF00,0x0000}[0x000A][0x000A]Pokémon Global Link[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+È un sistema che mette in collegamento[0x000A]Pokémon X e Pokémon Y con il Pokémon[0x000A]Global Link ({0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}).[0x000A]Tramite il Sincrogioco, puoi inviare il tuo[0x000A]salvataggio al Pokémon Global Link.
+Nel Pokémon Global Link puoi controllare[0x000A]i progressi della tua avventura in Pokémon X[0x000A]o in Pokémon Y, giocare a dei minigiochi[0x000A]per ottenere strumenti e altro ancora.[0x000A]Tramite il Sincrogioco, puoi inviare gli[0x000A]strumenti ottenuti alla scheda di gioco[0x000A]di Pokémon X o Pokémon Y.
+Per usare il Sincrogioco segui[0x000A]questo procedimento.[0x000A][0x000A]1) Seleziona “Crea ID Sincrogioco”[0x000A]nel menu del Sincrogioco[0x000A]per ottenere l’ID Sincrogioco.
+2) Accedi al Pokémon Global Link[0x000A]({0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000})[0x000A]e registra l’ID Sincrogioco.[0x000A]Una volta terminati questi preparativi[0x000A]potrai usare il Sincrogioco.
+Per la registrazione è necessario[0x000A]avere un account del Pokémon[0x000A]Global Link.[0x000A]Per maggiori informazioni, visita[0x000A]il Pokémon Global Link.
+È un sistema che mette in collegamento[0x000A]Pokémon X e Pokémon Y con il Pokémon[0x000A]Global Link ({0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}).[0x000A]Tramite il Sincrogioco, puoi inviare il tuo[0x000A]salvataggio al Pokémon Global Link.
+Nel Pokémon Global Link puoi controllare[0x000A]i progressi della tua avventura in Pokémon X[0x000A]o in Pokémon Y, giocare a dei minigiochi[0x000A]per ottenere strumenti e altro ancora.[0x000A]Tramite il Sincrogioco, puoi inviare gli[0x000A]strumenti ottenuti alla scheda di gioco[0x000A]di Pokémon X o Pokémon Y.
+Per usare il Sincrogioco,[0x000A]accedi al Pokémon Global Link[0x000A]({0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000})[0x000A]e registra l’ID Sincrogioco.
+Per la registrazione è necessario[0x000A]avere un account del Pokémon[0x000A]Global Link.[0x000A]Per maggiori informazioni, visita[0x000A]il Pokémon Global Link.
+Seleziona “Usa il Sincrogioco” per avviare[0x000A]il collegamento al Pokémon Global Link.[0x000A]Attenzione: se prima non registri il tuo[0x000A]ID Sincrogioco, non potrai collegarti e[0x000A]quindi non potrai usare il Sincrogioco.
+Se attivi il Sincrogioco automatico nelle[0x000A]“Opzioni” e il PSS (Player Search System)[0x000A]è collegato a Internet, il Sincrogioco verrà[0x000A]attivato automaticamente ogni volta che[0x000A]salverai il gioco.
+Con il Sincrogioco, puoi anche inviare[0x000A]le Pokémiglia accumulate al Pokémon[0x000A]Global Link e usarle nel sito.[0x000A]Seleziona “Opzioni” e scegli tra[0x000A]“Invia tutte” e “Non inviare” alla[0x000A]voce relativa alle Pokémiglia.
+Quando ricevi gli strumenti ottenuti[0x000A]nel Pokémon Global Link attraverso[0x000A]il Sincrogioco, una postina apparirà[0x000A]nel Centro Pokémon.[0x000A]Vai a parlarle per farti consegnare[0x000A]gli strumenti.
+Tramite il Sincrogioco puoi anche inviare[0x000A]una foto scattata dal Sig. Grandangolo,[0x000A]il noto fotografo di Kalos.[0x000A]Quando una foto è pronta, prova a usare[0x000A]il Sincrogioco.
+È possibile salvare una sola foto da inviare[0x000A]tramite il Sincrogioco.[0x000A]Fai attenzione, perché se prima di inviare[0x000A]una foto ne scatti un’altra, quella salvata[0x000A]verrà sovrascritta e quindi scomparirà.
+{0xBDFF:0x0039}

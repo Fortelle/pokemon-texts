@@ -1,0 +1,7 @@
+main_event_1115_sister_01=Anda, tú por aquí, {0x0100,0x0000}.{0x0114,0x000D}
+main_event_1115_sister_06=¿Y qué llevas ahí? ¡Cuatro medallas, nada menos![0x000A]Cuidadito contigo, ¿no?{0x0114,0x000D}
+main_event_1115_poke1_01=♪Mor, mor.♪{0x0114,0x0070}
+main_event_1115_sister_02=¿Ves? Hasta Morpeko te mira con recelo.{0x0114,0x000D}
+main_event_1115_sister_03=Espera, para el carro, Morpeko...{0xBE01}[0x000A]A ver si ahora va a resultar que te cae bien {0x1100,0x00FF,0x0202}ella tí{0x1100,0x00FF,0x0101}oa[0x000A]est{0x1100,0x00FF,0x0101}ea.{0x0114,0x000D}
+main_event_1115_sister_04=¡Que es un{0x1100,0x00FF,0x0100}a rival, que no te enteras! ¿O es que[0x000A]ya te has olvidado del combate?{0xBE01}[0x000A]Lo que hay que oír... En fin, toma mi tarjeta.{0x0114,0x000D}
+main_event_1115_sister_05=Sí, no me mires con esa jeta. Es lo que hacen los[0x000A]rivales, no es que ahora seamos amiguit{0x1100,0x00FF,0x0101}oas.{0xBE01}[0x000A]Por cierto, cada vez quedamos menos en el[0x000A]desafío, así que imagino que nos veremos las{0xBE00}[0x000A]caras en la cancha. Ya verás como tengo razón.{0x0114,0x000D}

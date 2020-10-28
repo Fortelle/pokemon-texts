@@ -1,0 +1,13 @@
+msg_t004r0401_childm_01=ポケモンに　乗るの　好き　だけど[0x000A]じてんしゃも　格好いいよね
+msg_t004r0401_youngf_01=珍しい　じてんしゃ[0x000A]見せてくれるの　嬉しいけど{0xBE01}[0x000A]じてんしゃマニアの　彼[0x000A]ウンチク　長いの　よね
+msg_t004r0401_middlef_01={0xBDFF:0x0002}
+msg_t004r0401_jevenilem_01={0xBDFF:0x0003}
+msg_boy5_01_p02_t004_r0501={0xBDFF:0x0004}
+msg_t004r0401_bike_01={0xBDFF:0x0005}
+msg_cycle_01_p01_t004_r0501={0xBDFF:0x0006}
+msg_cycle_01_p02_t004_r0501={0xBDFF:0x0007}
+msg_cycle_01_p03_t004_r0501={0xBDFF:0x0008}
+msg_cycle_01_p04_t004_r0501={0xBDFF:0x0009}
+msg_cycle_01_p05_t004_r0501={0xBDFF:0x000A}
+msg_cycle_01_p06_t004_r0501={0xBDFF:0x000B}
+msg_cycle_01_p07_t004_r0501={0xBDFF:0x000C}

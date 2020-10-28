@@ -1,0 +1,5 @@
+main_event_0400_telop_01=Engine City
+main_event_0400_poke1_01=Vol, vol, vol!
+main_event_0400_assistant_03=Hey, hallo!{0x0114,0x000B}
+main_event_0400_assistant_01=Du hast es durch die Naturzone geschafft, was?[0x000A]Nicht schlecht!{0xBE01}[0x000A]Dein Team ist jetzt sicher ziemlich erschöpft...[0x000A]Los, gehen wir ins Pokémon-Center.{0x0114,0x000B}
+main_event_0400_assistant_02=Wenn du kurz Zeit hast, zeig ich dir da auch[0x000A]etwas, was dich als Trainer bestimmt interessiert.{0x0114,0x000B}

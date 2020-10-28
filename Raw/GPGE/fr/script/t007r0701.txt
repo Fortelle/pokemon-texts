@@ -1,0 +1,5 @@
+msg_t007r0701_rocketm_01=Touche pas à l’affiche, dans la salle d’arcade !{0xBE01}[0x000A]Y’a rien derrière, surtout pas un bouton planqué,[0x000A]alors pas touche !
+msg_t007r0701_oldm_01=Le jeu avec un Pokémon volant rencontre un[0x000A]franc succès ! La borne avale les jetons plus vite{0xBE00}[0x000A]qu’un Tadmorv !{0xBE01}[0x000A]Si ça continue comme ça, mon record va[0x000A]atteindre des sommets !
+msg_t007r0701_rocketm_02=On pourrait se faire bien plus de fric, si on[0x000A]donnait des Pokémon en récompense...{0xBE01}[0x000A]Oups ! T’as rien entendu, hein !
+msg_oldman2_01_p01_t007_r0601={0xBDFF:0x0003}
+msg_evilm1_01_p01_t007_r0601={0xBDFF:0x0004}

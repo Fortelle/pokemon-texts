@@ -1,0 +1,11 @@
+msg_main8100_ice_01={0xFF00,0x0009}Lorelei:{0xFF00,0x0000} Willkommen in der Pokémon-Liga.[0x000A]Ich bin--
+msg_main8100_ice_09=Oh, du bist es! Du hast mich ziemlich lange[0x000A]warten lassen.
+msg_main8100_ice_10=Falls du dich nicht mehr an mich erinnerst:[0x000A]Ich bin Lorelei. Ich gehöre zu den Top Vier.
+msg_main8100_ice_05=Niemand ist so gut im Einsatz von Eis-Pokémon[0x000A]wie ich.
+msg_main8100_ice_06=Attacken, die den Gegner einfrieren, können[0x000A]eine verheerende Wirkung haben.
+msg_main8100_ice_07=Warum? Tja, das liegt ja wohl auf der Hand...{0xBE01}[0x000A]Sobald ich dein{0x1101,0x00FD,0x0100}e Pokémon in Eiswürfel[0x000A]verwandelt habe, {0x1101,0x00FD,0x0806}ist essind sie vollkommen hilflos!
+msg_main8100_ice_08=Hahaha! Also, bist du bereit?
+msg_kanna_01_p02_cave_d1401={0xBDFF:0x0007}
+msg_main8100_ice_02={0xFF00,0x0009}Lorelei:{0xFF00,0x0000} Jetzt wird mir erst klar, wie viel stärker[0x000A]du geworden bist...{0xBE01}[0x000A]Du kannst in den nächsten Raum weitergehen.{0xBE01}[0x000A]Aber sei vorsichtig! Das hier war nur ein[0x000A]Vorgeschmack auf das, was dich in der{0xBE00}[0x000A]Pokémon-Liga noch erwartet...
+msg_main8100_ice_03={0xFF00,0x0009}Lorelei:{0xFF00,0x0000} Willkommen in der Pokémon-Liga!{0xBE01}[0x000A]Du kommst gerade recht, mir ist nämlich nach[0x000A]einem Kampf zumute.{0xBE01}[0x000A]Zieh dich besser warm an!
+msg_main8100_ice_04={0xFF00,0x0009}Lorelei:{0xFF00,0x0000} Ich habe zwar gegen dich verloren, aber[0x000A]es käme mir nie in den Sinn, deshalb meine{0xBE00}[0x000A]geliebten Eis-Pokémon aufzugeben.{0xBE01}[0x000A]Das gilt auch für dich: Halte immer den[0x000A]Pokémon die Treue, für die dein Herz schlägt.

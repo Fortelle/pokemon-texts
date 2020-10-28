@@ -1,0 +1,10 @@
+main_event_1325_sister_01=Ehi, {0x0100,0x0000}! Vieni un attimo qui!{0x0114,0x000D}
+main_event_1325_sister_02=Spikeville è la mia città, la conosco bene.[0x000A]Questo è un ingresso secondario.{0x0114,0x000D}
+main_event_1325_sister_03=Ti porterà direttamente in città.{0xBE01}[0x000A]Ma... siamo rivali! Se vuoi che ti faccia passare,[0x000A]dovrai battermi!{0x0114,0x000D}
+main_event_1325_select_01=Accetto la sfida!
+main_event_1325_select_02=Fammici pensare...
+main_event_1325_sister_04=Eh?! Forse mi sono sbagliata su di te...{0xBE01}[0x000A]Ah, ho capito, hai bisogno di tempo per[0x000A]prepararti. E va bene, ti aspetto qui.{0x0114,0x000D}
+main_event_1325_sister_05=Anche tu sei un{0x1100,0x00FF,0x0101}oa Sfidapalestre con molte[0x000A]vittorie alle spalle e ti stimo come rivale.{0xBE01}[0x000A]Però la posta in palio è troppo alta e non posso[0x000A]permettermi di perdere.{0x0114,0x000D}
+main_event_1325_sister_06=Te le cavi bene. Capisco perché il mio Morpeko[0x000A]sia interessato a te.{0xBE01}[0x000A]Ma io devo pensare agli abitanti di Spikeville!{0x0114,0x000D}
+main_event_1325_sister_08=Otterrò tutte e otto le Medaglie[0x000A]per poterti sfidare ancora.{0xBE01}[0x000A]E mi vendicherò nella Coppa Campione![0x000A]Contaci!{0x0114,0x000D}
+main_event_1325_sister_07=Ora veniamo a quello che ti ho promesso.[0x000A]Seguimi!{0x0114,0x000D}

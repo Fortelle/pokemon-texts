@@ -1,0 +1,9 @@
+msg_t011r0201_youngf_01=Lt. Surge della Palestra di Aranciopoli ha[0x000A]un talento unico! Sono una fan sfegatata!{0xBE01}[0x000A]Che? Ti ha fatto un autografo?[0x000A]Che invidiaaa!
+msg_t011r0201_youngf_02=Aspetta un po’! Tu sei {0x0100,0x0000},[0x000A]{0x1100,0x00FF,0x0E0B}il Campionela Campionessa, giusto?{0xBE01}[0x000A]Vo-Vo...[0x000A]Voglio un autografo!!
+msg_t011r0201_adultm_01=Adoro il fascino algido di Lorelei[0x000A]dei Superquattro...{0xBE01}[0x000A]Come vorrei farmi congelare[0x000A]dai suoi occhi di ghiaccio!
+msg_t011r0201_adultm_02=Ehilà, Campione{0x1100,0x00FF,0x0300}ssa!{0xBE01}[0x000A]Complimenti, sei riuscit{0x1100,0x00FF,0x0101}oa a sconfiggere[0x000A]persino Lorelei! Non dev’essere stato facile...
+msg_t011r0201_muscle_01=Bruno dei Superquattro è il mio idolo!{0xBE01}[0x000A]Il suo fiuto con il tipo Lotta e i suoi muscoli[0x000A]scolpiti sono un esempio per me.
+msg_t011r0201_muscle_02=Complimenti, Campione{0x1100,0x00FF,0x0300}ssa!{0xBE01}[0x000A]Ora capisco come mai nemmeno il corpo[0x000A]statuario di Bruno ti ha intimorit{0x1100,0x00FF,0x0101}oa.{0xBE01}[0x000A]E immagino che dal vivo tutti quei muscoli[0x000A]facciano una certa impressione...
+msg_t011r0201_juvenilesf_01=Quanti misteri avvolgono il Capopalestra[0x000A]di Smeraldopoli!{0xBE01}[0x000A]Nessuno sa davvero chi sia.[0x000A]Che personaggio intrigante...
+msg_t011r0201_juvenilesf_02=Ma dai! Il Capopalestra di Smeraldopoli era[0x000A]il Capo del Team Rocket?{0xBE01}[0x000A]E tu lo hai sconfitto senza lasciarti intimidire![0x000A]Wow! Ti ammiro tantissimo, {0x0100,0x0000}!
+test_00={0xBDFF:0x0008}

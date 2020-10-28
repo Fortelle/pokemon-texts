@@ -1,0 +1,17 @@
+msg_main0910_rocketchief_01={0xFF00,0x0009}Atlas:{0xFF00,0x0000} ¡¿Tú?!
+msg_main0910_rocketf_01={0xFF00,0x0009}Recluta:{0xFF00,0x0000} Jefe, ¿conoce a est{0x1100,0x00FF,0x0606}e críoa cría?
+msg_main0910_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¿Conoces a este tipo,[0x000A]{0x0100,0x0000}?
+msg_main0910_rocketf_02={0xBDFF:0x0003}
+msg_main0910_rival_02={0xBDFF:0x0004}
+msg_main0910_rocketchief_02={0xFF00,0x0009}Atlas:{0xFF00,0x0000} ¿Sois tan necios como para entrometeros[0x000A]en nuestros asuntos?{0xBE01}[0x000A]Para ser tan pequeños tenéis mucho coraje...
+msg_main0910_rival_03={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Por tu tono, diría que nos[0x000A]tienes miedo aunque seamos unos niños.
+msg_main0910_rocketf_03={0xFF00,0x0009}Recluta:{0xFF00,0x0000} ¡Eh, mocoso! ¡No te hagas el listillo con[0x000A]mi jefe o lo lamentarás!
+msg_main0910_rocketchief_03={0xFF00,0x0009}Atlas:{0xFF00,0x0000} Cálmate.{0xBE01}[0x000A]Basta con darles una buena lección a estos[0x000A]jovenzuelos impertinentes.
+msg_main0910_dummy_01={0xBDFF:0x0009}
+msg_main0910_dummy_02={0xBDFF:0x000A}
+msg_main0910_rocketchief_04={0xFF00,0x0009}Atlas:{0xFF00,0x0000} Así que tu victoria en la anterior ocasión[0x000A]no fue fruto de la casualidad...{0xBE01}[0x000A]Está claro que debemos tener más cuidado con[0x000A]vosotros dos.
+msg_main0910_rocketf_04={0xFF00,0x0009}Recluta:{0xFF00,0x0000} ¡Apartaos!
+msg_main0910_rival_04={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¡Eh!
+msg_main0910_rival_05=¡Anda, mira! Se le ha caído algo.
+msg_main0910_sys_01={0x0100,0x0001} te ha entregado la[0x000A]{0xFF00,0x0006}Llave Magnética{0xFF00,0x0000}.
+msg_main0910_rival_06={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Quédate con ella hasta que[0x000A]hayamos liberado Silph S. A. de las garras del{0xBE00}[0x000A]Team Rocket.

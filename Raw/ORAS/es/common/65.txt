@@ -1,0 +1,24 @@
+Medallas:
+
+{0x0200,0x0000}
+Pokédex:
+
+{0x0202,0x0000}
+Tiempo jugado:
+{0x0202,0x0000}
+{0x0201,0x0000}
+Último guardado:
+:
+{0x0201,0x0002}-{0x0201,0x0001}-{0x0203,0x0000,0x0000}
+{0x0201,0x0000}
+{0x0201,0x0000}
+{0x0105,0x0000}
+¿Quieres guardar la partida?
+Guardando...[0x000A]No apagues la consola.
+{0x0100,0x0000} ha guardado la partida.
+Ya hay una partida guardada, por lo que no[0x000A]es posible guardar ahora.{0xBE01}[0x000A]Para obtener más información, consulta el[0x000A]manual de instrucciones.
+No se ha podido guardar la partida.
+Sincronizando el juego...[0x000A]No apagues la consola.
+El servidor está colapsado en este momento.[0x000A]Se cancelará la función Sincronizar Juego.
+{0xBDFF:0x0016}
+Se han obtenido los datos necesarios para[0x000A]efectuar la conexión a internet.{0xBE01}[0x000A]¿Quieres guardar la partida?

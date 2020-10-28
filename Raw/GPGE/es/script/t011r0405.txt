@@ -1,0 +1,8 @@
+msg_t011r0405_staffm_01_01=Parece que el Team Rocket está buscando a[0x000A]un{0x1100,0x00FF,0x0908} intrusoa intrusa que se ha colado en el edificio.{0xBE01}[0x000A]Eres tú, ¿no?
+msg_t011r0405_staffm_01_02=¡El Team Rocket se ha ido![0x000A]¡Gracias! ¡Eres nuestr{0x1100,0x00FF,0x0101}oa salvador{0x1100,0x00FF,0x0100}a!
+msg_t011r0403_report_01=Es un informe sobre Pokémon.{0xBE01}[0x000A]El departamento de I+D ha logrado crear un[0x000A]Pokémon artificial, de nombre Porygon.
+msg_t011r0403_report_02=Es un informe sobre Pokémon.{0xBE01}[0x000A]Se han descubierto más de 200 movimientos[0x000A]que los Pokémon pueden utilizar en combate.
+msg_t011r0403_report_03=Es un informe sobre Pokémon.{0xBE01}[0x000A]Se ha confirmado que algunos Pokémon[0x000A]evolucionan tras ser intercambiados.
+msg_t011r0405_kanban_01=Oficina Central de Silph S. A.[0x000A]P4
+msg_t011r0405_rocketw_01_01=¿Por qué no te vas por ahí? He oído que los[0x000A]espárragos fritos están muy ricos.{0xBE01}[0x000A]Bastante he tenido con el crío de antes... Ha[0x000A]dejado a todos mis Pokémon para el arrastre.
+msg_studym1_01_p01_cave_d1005={0xBDFF:0x0007}

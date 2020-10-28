@@ -1,0 +1,8 @@
+msg_t007r0804_rocketm_01={0xBDFF:0x0000}
+msg_member_18_02={0xBDFF:0x0001}
+msg_t007r0804_rocketm_02={0xBDFF:0x0002}
+msg_t007r0804_sys_01={0xBDFF:0x0003}
+msg_t007r0804_sys_02={0xBDFF:0x0004}
+msg_sakaki_01_p01_cave_d0904={0xBDFF:0x0005}
+msg_sakaki_01_p02_cave_d0904={0xBDFF:0x0006}
+msg_sakaki_01_p03_cave_d0904={0xBDFF:0x0007}

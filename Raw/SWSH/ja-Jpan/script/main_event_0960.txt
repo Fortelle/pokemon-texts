@@ -1,0 +1,8 @@
+main_event_0960_trainer_01=ジムチャレンジャー　だな[0x000A]挑戦の　手続きを　するか？
+main_event_0960_select_01=します！
+main_event_0960_select_02=あとで
+main_event_0960_trainer_02=うむ！　では　更衣室にて[0x000A]ユニフォームに　着替え{0xBE00}[0x000A]ジムミッションの　部屋に　向かえ
+main_event_0960_trainer_03=それも　選択だ[0x000A]いつでも　待っているぞ
+main_event_0960_trainer_06=ゆけい　背番号{0x01C4,0x0000}！
+main_event_0960_trainer_04=ジムミッション　ファイトだ！
+main_event_0960_trainer_05={0xBDFF:0x0007}

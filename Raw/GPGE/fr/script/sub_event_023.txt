@@ -1,0 +1,14 @@
+msg_sub023_karate_01_01=Jeune Dresseu{0x1100,0x00FF,0x0201}rse !{0xBE01}[0x000A]Je suis le Grand Karatéka ![0x000A]Ici, le Champion, c’est moi !
+msg_sub023_karate_01_09=Hein ? Tu me provoques ?[0x000A]Tu veux m’affronter ?{0xBE01}[0x000A]D’accord, mais je n’aurai aucune pitié !
+msg_sub023_karate_01_10=Hahaha ! Yahaaa !
+msg_sub023_karate_01_02=OK, t’as gagné !
+msg_sub023_karate_01_07=Mais ne va pas le crier sur tous les toits ![0x000A]Tu sais te battre, on a compris !
+msg_sub023_karate_01_08=En échange de ton silence... Je sais ![0x000A]Je t’offre un Pokémon Combat !
+msg_sub023_karate_01_06=Choisis celui que tu veux !
+msg_sub023_karate_01_03=Reste avec nous pour faire du karaté !
+msg_sub023_karate_01_04=Tu veux Kicklee, l’expert en coups de pied ?
+msg_sub023_sys_01_01=Vous recevez un {0x0101,0x0004} !
+msg_sub023_karate_01_05=Tu veux Tygnon, le maître de la boxe ?
+msg_sub023_sys_01_02=Tut tut tut ![0x000A]Faut pas être trop gourmand{0x1100,0x00FF,0x0100}e...
+msg_sub023_poke_01_01={0xFF00,0x0009}Kicklee :{0xFF00,0x0000} Kiiick !
+msg_sub023_poke_02_01={0xFF00,0x0009}Tygnon :{0xFF00,0x0000} Gnooon !

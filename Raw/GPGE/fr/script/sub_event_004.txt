@@ -1,0 +1,6 @@
+msg_sub004_researcher_01=Pssst ! Ne le répète pas, mais je crois qu’il y a[0x000A]des traces d’ADN de Pokémon dans ce morceau{0xBE00}[0x000A]d’ambre.{0xBE01}[0x000A]Ce serait une avancée scientifique incroyable,[0x000A]si on pouvait reconstituer un Pokémon à partir{0xBE00}[0x000A]de ça ! Non ?{0xBE01}[0x000A]Mais personne ne m’écoute, ici... !{0xBE01}[0x000A]Bref, j’ai une faveur à te demander !{0xBE01}[0x000A]Apporte ce morceau d’ambre à un Labo Pokémon[0x000A]pour le faire examiner !
+msg_sub004_sys_01={0xBDFF:0x0001}
+msg_sub004_researcher_02=Chut ![0x000A]Va vite faire examiner ce morceau d’ambre !
+msg_sub004_researcher_03=Ce... ce Ptéra, il a été régénéré à partir de mon[0x000A]morceau d’ambre ?!{0xBE01}[0x000A]Mais alors, ma théorie était correcte ! Merci ![0x000A]Merci infiniment !
+msg_sub004_researcher_04=La génétique est une science tellement[0x000A]passionnante !{0xBE00}[0x000A]Tu ne veux pas t’y intéresser, toi aussi ?
+msg_studym1_02_p04_t003_r0101={0xBDFF:0x0005}

@@ -1,0 +1,4 @@
+msg_t004gym01_gym_01=Ich habe einen Tipp für dich!{0xBE01}[0x000A]Misty, die Arenaleiterin, ist ein Profi im Umgang[0x000A]mit Wasser-Pokémon.{0xBE01}[0x000A]Setzt du Pflanzen-Pokémon ein, können dir die[0x000A]Wasser-Attacken wenig anhaben.{0xBE01}[0x000A]Du kannst aber auch Elektro-Pokémon einsetzen,[0x000A]um sie zu schocken!
+msg_t004gym01_gym_02=Du hast Misty besiegt, gut gemacht!{0xBE01}[0x000A]Euer Kampf war ein ganz schönes Spektakel,[0x000A]das Wasser ist bis hierher gespritzt!
+msg_t004gym01_statue_01=Pokémon-Arena von Azuria City[0x000A]Arenaleiterin: Misty{0xBE01}[0x000A]Anerkannte Trainer:[0x000A]{0x0100,0x0001}
+msg_t004gym01_statue_02=Pokémon-Arena von Azuria City[0x000A]Arenaleiterin: Misty{0xBE01}[0x000A]Anerkannte Trainer:[0x000A]{0x0100,0x0001}, {0x0100,0x0000}

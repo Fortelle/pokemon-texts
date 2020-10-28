@@ -1,0 +1,6 @@
+msg_t009r0104_bg_01=L’interno di questo macchinario sembra[0x000A]molto freddo!
+msg_t009r0104_bg_02=Questo macchinario è caldo al tatto...
+msg_t009r0104_researcher_01=La materia è un agglomerato di molecole.{0xBE01}[0x000A]Proprio come tante monetine che[0x000A]messe insieme creano una fortuna!
+msg_t009r0104_researcher_02=Credi che se anch’io diventassi un fossile,[0x000A]mi rigenererebbero in un lontano futuro?
+msg_t009r0104_researcher_03=Stare troppo a lungo davanti al PC stanca[0x000A]gli occhi.{0xBE01}[0x000A]Meglio farli riposare ogni tanto!
+test_00={0xBDFF:0x0005}

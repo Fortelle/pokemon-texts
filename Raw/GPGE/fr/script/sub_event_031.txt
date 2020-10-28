@@ -1,0 +1,9 @@
+msg_sub031_bigman_01=*Bâille* Ah mince, j’ai dû m’endormir au soleil...
+msg_sub031_bigman_02=J’ai... J’ai fait un rêve étrange...
+msg_sub031_bigman_03=Des âmes errantes se transformaient en flammes[0x000A]et s’approchaient de moi pour me tourmenter...{0xBE01}[0x000A]Tiens ? Mais... c’est une CT ! Comment[0x000A]est-elle arrivée ici... ? Se pourrait-il que... ?
+msg_sub031_bigman_04=Brrr... C’est sûrement un mauvais présage ![0x000A]Tiens, prends-la, s’il te plaît !
+msg_sub031_bigman_05=La CT11... Qu’est-ce qu’elle contient, déjà ?[0x000A]Ah oui, Feu Follet...{0xBE00}[0x000A]Brrr... Ça « feu » froid dans le dos !
+msg_bigman1_01_p01_field_t002={0xBDFF:0x0005}
+msg_bigman1_01_p02_field_t002={0xBDFF:0x0006}
+msg_bigman1_01_p03_field_t002={0xBDFF:0x0007}
+msg_bigman1_01_p04_field_t002={0xBDFF:0x0008}

@@ -1,0 +1,109 @@
+¡Bienvenid{0x1100,0x00FF,0x0101}oa! ¿Quiere mesa para uno?
+Sí, por favor
+No, gracias, no voy a comer
+¡Le recomiendo uno de nuestros Menús Z![0x000A]Su precio es 1040 $. Dígame, ¿qué le apetece?
+Menú Z de carne
+Menú Z de pescado
+Menú Z de verduras
+Menú Z especial
+No me apetece nada
+¡Vuelva usted pronto!
+¡Cocina, marchando un Menú Z de carne!
+¡Cocina, marchando un Menú Z de pescado!
+¡Cocina, marchando un Menú Z de verduras!
+Este menú usa muchos ingredientes locales de[0x000A]Alola que le confieren un sabor bastante{0xBE00}[0x000A]peculiar y que, para qué mentir, no es del gusto{0xBE00}[0x000A]de todos. ¿Le parece bien?
+¡Me parece bien!
+Mejor no
+¡Cocina, marchando un Menú Z especial!
+Hola, ¿tenéis sitio?{0x0114,0x0009}
+¡Por supuesto! Usted siempre es bienvenida,[0x000A]señorita Mayla.
+¡Vaya, pero si es {0x0100,0x0000}![0x000A]Pues ya que estamos, te acompaño, ¿vale?{0xBE01}[0x000A]Tomaré lo mismo que {0x1100,0x00FF,0x0402}élella.{0x0114,0x0009}
+Por aquí, por favor.
+¡Aquí llega la comida!
+Ñam, ñam, ñam...{0xBE01}[0x000A]¡Vaya, esto está riquísimo! Han servido la pasta[0x000A]al dente y se combina muy bien con la salsa.{0xBE01}[0x000A]¡Si rompo la yema del huevo frito, se mezcla con[0x000A]la pasta y eso añade más sabor todavía!
+Ñam, ñam, ñam...{0xBE01}[0x000A]¡Vaya, esto está riquísimo! ¡El rebozado es ligero[0x000A]y esponjoso, y la carne del pescado muy fresca!{0xBE01}[0x000A]La sopa tiene muchos tropezones y un regusto[0x000A]picante de lo más provocador...
+Ñam, ñam, ñam...{0xBE01}[0x000A]¡Vaya, esto está riquísimo! El aliño aporta el[0x000A]punto justo de dulzor y realza la frescura de{0xBE00}[0x000A]las verduras sin enmascarar su sabor.{0xBE01}[0x000A]Y aunque sea estrictamente vegetariano, las[0x000A]porciones son generosas y llena a reventar.
+¡Esto es justo lo que buscaba! Como vivo sola, a[0x000A]veces echo mucho de menos la comida casera.{0xBE01}[0x000A]Come, {0x0100,0x0000}, que se te va a quedar[0x000A]frío, y frío no vale nada...{0x0114,0x0009}
+Ñam, ñam, ñam...{0xBE01}[0x000A]¡Puaj! ¿Pero esto qué es? ¡La sopa está muy[0x000A]amarga y el fileteado está lleno de huesecitos!{0xBE01}[0x000A]Las albóndigas están medio crudas y sueltan[0x000A]una agüilla que resbala hasta la barbilla.{0xBE01}[0x000A]Y esta cosa gris que han puesto de guarnición[0x000A]no sabe absolutamente a nada...
+Estaba delicioso...
+Buf, ya no puedo comer más...
+Ah, qué rico estaba... Me da ganas de encontrar[0x000A]a quien me cocine cosas bien ricas, ¿sabes?{0xBE01}[0x000A]Pero {0x0100,0x0000}, ¡si apenas has tocado tu[0x000A]plato! ¿No te ha gustado el Menú Z especial?{0x0114,0x0009}
+Muy bien. Me debe usted exactamente 1040 $.[0x000A]¡Muchas gracias!
+Esto es un regalo que hacemos a todos los[0x000A]clientes que comen en nuestro restaurante.
+¡Esperamos volver a verle pronto!
+Esta vez te invito yo, corazón.{0xBE01}[0x000A]Y hablando de eso, llévate también estas[0x000A]Escamas Corazón que me han dado.{0x0114,0x0009}
+Nos vemos pronto, {0x0100,0x0000}.{0xBE01}[0x000A]¿Sabes? La gente que tiene buen apetito me[0x000A]cae especialmente bien...{0x0114,0x0009}
+Perdón, pero creo que no es suficiente dinero...[0x000A]Todos nuestros menús cuestan 1040 $.
+¡Un{0x1100,0x00FF,0x0908} clientea clienta! Gracias para venir. ¿Qué quieres?
+¡Quiero comer algo!
+No quiero nada, gracias
+Entonces tú escoges plato de menú.{0xBE01}[0x000A]Precio igual para todos: 4000 $. Ahora tú me[0x000A]dices cuál quieres.
+Plato combinado Z “Ninja”
+Plato combinado Z “Samurái”
+Plato combinado Z “Geisha”
+Plato combinado Z “Ronin”
+No me apetece nada
+Esperamos que vuelves pronto.
+Vale, un plato combinado “Ninja”.
+Vale, un plato combinado “Samurái”.
+Vale, un plato combinado “Geisha”.
+Ese plato es para finoli, no para niñ{0x1100,0x00FF,0x0101}oa que crece[0x000A]y quiere comer mucho. ¿Tú estás segur{0x1100,0x00FF,0x0101}oa?
+¡Sí, no hay problema!
+No, mejor pido otra cosa...
+Vale, un plato combinado “Ronin”.
+¿Está abierto?{0x0114,0x000A}
+¡Hola, don Denio! Es un placer por nosotros que[0x000A]nos visitas.
+Conque estás aquí, ¿eh, {0x0100,0x0000}?{0xBE01}[0x000A]Te invito yo y así comemos juntos. Eh, tú,[0x000A]ponme lo de siempre, ¿quieres?{0x0114,0x000A}
+Yo llevar a mesa ahora.
+Aquí estar plato combinado Z.
+Ñam, ñam, ñam...{0xBE01}[0x000A]¡Hum! ¡Delicioso! ¡Este teriyaki recién asado está[0x000A]muy sabroso y tiene la cantidad justa de aceite!{0xBE01}[0x000A]¡Los encurtidos están en su punto y son[0x000A]perfectos para ir cambiando sabores!
+Ñam, ñam, ñam...{0xBE01}[0x000A]¡Hum! ¡Delicioso! ¡Esta agradable combinación de[0x000A]verduras se deshace en la boca al morder!{0xBE01}[0x000A]Y estas pequeñas bolas de arroz tienen[0x000A]diferentes sabores, lo que es muy interesante...
+Ñam, ñam, ñam...{0xBE01}[0x000A]¡Hum! ¡Delicioso! ¡Estas lonchas de carne tan[0x000A]finas casan con la mousse a base de frutas!{0xBE01}[0x000A]La sopa rebosa de hierbas aromáticas y[0x000A]muchos otros ingredientes sabrosísimos...
+Que aproveche, que se me olvidaba...{0x0114,0x000A}
+Ñam, ñam, ñam...[0x000A]¡Oh! ¡Esto está riquísimo!{0xBE01}[0x000A]¡En la mesa hay platos con un aromático arroz[0x000A]blanco, sopa de miso y sabrosos encurtidos!{0xBE01}[0x000A]Es una comida simple, pero el sabor delicioso[0x000A]de cada ingrediente destaca con luz propia...
+¡Estaba todo para chuparse los dedos!
+¡Estaba riquísimo! ¡Ha sido un verdadero festín!
+Mmm...{0xBE01}[0x000A]Hmm... No ha estado nada mal...{0x0114,0x000A}
+Gracias por pagar dineros.
+Ahora tú llevas regalo gratis. Muy bueno.
+¡Esperamos que tú vuelves pronto!
+Esto no lo quiero...{0x0114,0x000A}
+Adiós...{0x0114,0x000A}
+Aquí tú pagas a tocateja y todo cuesta 4000 $.[0x000A]Mira cartera a ver si hay dineros suficientes.
+¡Bienvenid{0x1100,0x00FF,0x0101}oa! ¿Vienes sol{0x1100,0x00FF,0x0101}oa? Mesa para uno, ¿no?
+¡Así es!
+No, gracias
+Bien, elige del menú, por favor. Hoy tenemos una[0x000A]oferta de rebaja de todos los platos a 500 ${0xBE00}[0x000A]para menores de veinte años. ¿Qué te parece?
+Tallarines Z
+Tallarines Z porción doble
+Tallarines Z porción extra
+Tallarines Z porción Z
+No, gracias
+¡Gracias por venir y esperamos que regreses[0x000A]pronto por aquí!
+¡Marchando una normal!
+¡Marchando una doble!
+¡Marchando una extra!
+¡La porción Z lleva extra de todo! ¡Es el zénit de[0x000A]los tallarines! ¿Seguro que podrás con ella?
+¡Sí, seguro!
+Vale, mejor no
+¡Gracias! ¡Marchando una Z!
+¡Tengo más hambre que el Mightyena de[0x000A]un ciego!{0x0114,0x000B}
+¡Muy buenas, Hela! ¡Bienvenida otra vez!
+¡Arrea, pero si es {0x0100,0x0000}!{0xBE01}[0x000A]Nada, esto estaba escrito, nos teníamos que[0x000A]encontrar. Hale, vamos a comer junt{0x1100,0x00FF,0x0101}oas. ¡Jefe!{0xBE01}[0x000A]Me pones lo de siempre y, a mi amig{0x1100,0x00FF,0x0101}oa, tres[0x000A]cuartos de lo mismo.{0x0114,0x000B}
+¡Vamos, que tengo un montón de mesas[0x000A]libres!
+¡Hale, que aproveche! ¡Cuidadito, que queman!
+Slurp, slurp, slurp... ¡Ahí va! ¡Pero si esto está[0x000A]de rechupete!{0xBE01}[0x000A]La sopa es casi transparente, pero tiene un[0x000A]buen regusto. Los fideos están muy suaves.
+Slurp, slurp, slurp... ¡Guau! ¡Esto está[0x000A]increíblemente bueno!{0xBE01}[0x000A]Hay buena cantidad de fideos y de verdura, y[0x000A]da gusto cuando le hincas el diente.{0xBE01}[0x000A]¡Está para comer y comer y seguir comiendo[0x000A]y salir de aquí rodando!
+Slurp, slurp, slurp... ¡Buf! ¡Pero qué bueno está[0x000A]esto!{0xBE01}[0x000A]Hay un montón de fideos y de condimentos y es[0x000A]como si se te llenara toda la boca de cosas.{0xBE01}[0x000A]Si le echas especias puedes seguir zampando[0x000A]aunque ya no te quepa más.{0xBE01}[0x000A]Es un solo plato pero me he puesto las botas.[0x000A]Con esto ya tengo para todo el día.
+¡Esto! ¡Esto es lo que yo buscaba!{0xBE01}[0x000A]Después de estar todo el día trajinando en el[0x000A]campo no tengo tiempo de cocinar.{0xBE01}[0x000A]¡Por eso, cuando me entra la hambruna, me[0x000A]vengo aquí escopeteada! ¡Menuda soy yo!{0x0114,0x000B}
+Slurp, slurp, slurp... ¡Cof, cof! ¡No puedo más!{0xBE01}[0x000A]¡Con esta montaña de ingredientes no puedo[0x000A]ni levantar el bol!{0xBE01}[0x000A]No hago más que comer y comer fideos y[0x000A]verduras y esto no baja ni queriendo.{0xBE01}[0x000A]Me va a explotar la barriga. Creo que voy a[0x000A]parar.
+¡Estaba muy bueno!
+No puedo... No, ya no puedo comer más...
+¡Buf! ¡Bueno, como dicen en mi pueblo, después[0x000A]de la pitanza, bien que se alegra la panza!{0xBE01}[0x000A]Oye, {0x0100,0x0000}, ¿no te vas a comer eso?{0xBE01}[0x000A]¡Pero si ni has tocao el plato! ¡Anda, que tienes[0x000A]que crecer! No lo vamos a tirar, ¿no?{0x0114,0x000B}
+¿Qué tal estaba todo? Son quinientas del ala.[0x000A]¡Se agradece!{0xBE01}[0x000A]¡Venga, a cuidarse! ¡Y a pasarse pronto de[0x000A]nuevo por aquí, eh!
+Ah, y esto es un regalito de la casa.[0x000A]¡A disfrutarlo!
+¡Hale, hasta más ver! ¡Gracias por la visita!
+Como las verduras se las vendo con descuento,[0x000A]muchas veces no me cobra el menú.{0xBE01}[0x000A]Mira qué bien. Has comido de gratis tú también[0x000A]y encima te voy a dar esto. ¡No te quejarás!{0x0114,0x000B}
+Y ahora, cada Mareep a su redil. ¡A cuidarse!{0x0114,0x000B}
+¡Por favor, que hay que pagar la cuenta,[0x000A]y aquí no se fía!{0xBE01}[0x000A]Todos nuestros platos cuestan 500 $ en[0x000A]dinero contante y sonante.
+Al primer piso se sube después de hacer el[0x000A]pedido, por favor. ¡Gracias!

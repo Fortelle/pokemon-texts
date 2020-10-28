@@ -1,0 +1,142 @@
+
+There is no data[0x000A]in the Holo Caster.
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+{0xBDFF:0x001A}
+{0xBDFF:0x001B}
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}
+{0xBDFF:0x001E}
+{0xBDFF:0x001F}
+{0xBDFF:0x0020}
+{0xBDFF:0x0021}
+{0xBDFF:0x0022}
+{0xBDFF:0x0023}
+{0xBDFF:0x0024}
+{0xBDFF:0x0025}
+{0xBDFF:0x0026}
+{0xBDFF:0x0027}
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+{0xBDFF:0x002A}
+{0xBDFF:0x002B}
+{0xBDFF:0x002C}
+{0xBDFF:0x002D}
+{0xBDFF:0x002E}
+{0xBDFF:0x002F}
+{0xBDFF:0x0030}
+{0xBDFF:0x0031}
+{0xBDFF:0x0032}
+{0xBDFF:0x0033}
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+{0xBDFF:0x0036}
+{0xBDFF:0x0037}
+{0xBDFF:0x0038}
+{0xBDFF:0x0039}
+{0xBDFF:0x003A}
+{0xBDFF:0x003B}
+{0xBDFF:0x003C}
+{0xBDFF:0x003D}
+{0xBDFF:0x003E}
+{0xBDFF:0x003F}
+{0xBDFF:0x0040}
+{0xBDFF:0x0041}
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}
+{0xBDFF:0x0046}
+{0xBDFF:0x0047}
+If you have a Holo Caster,[0x000A]you can view video messages{0xBE00}[0x000A]from your Friends and other{0xBE00}[0x000A]people at your convenience.{0xBE01}
+{0xBDFF:0x0049}
+{0xBDFF:0x004A}
+Checking StreetPass data...[0x000A]Don’t turn off the power.
+StreetPass cannot be used until[0x000A]you accept the terms of the{0xBE00}[0x000A]Nintendo 3DS Service User Agreement.
+Please accept the terms of the[0x000A]Nintendo 3DS Service User Agreement.
+Please accept the terms of the[0x000A]Nintendo 3DS Service User Agreement.{0xBE00}[0x000A]If you do not, you cannot use SpotPass.
+You must accept the terms of the newest[0x000A]Nintendo 3DS Service User Agreement{0xBE00}[0x000A]to use StreetPass.{0xBE01}[0x000A]To use StreetPass, go to the[0x000A]Nintendo 3DS system’s System Settings.{0xBE00}[0x000A]Tap Internet Settings, then Other Information.{0xBE00}[0x000A]Next, tap User Agreement and accept{0xBE00}[0x000A]the newest User Agreement.
+You must accept the terms of the newest[0x000A]Nintendo 3DS Service User Agreement{0xBE00}[0x000A]to use SpotPass.{0xBE01}[0x000A]To use SpotPass, go to the[0x000A]Nintendo 3DS system’s System Settings.{0xBE00}[0x000A]Tap Internet Settings, then Other Information.{0xBE00}[0x000A]Next, tap User Agreement and accept{0xBE00}[0x000A]the newest User Agreement.
+Activating StreetPass...[0x000A]Don’t turn off the power.
+StreetPass has been activated!{0xBE01}[0x000A]StreetPass communication will occur even[0x000A]when you are not playing this software.{0xBE01}[0x000A]When you have a StreetPass hit, an update[0x000A]indicator will appear on the icon for this{0xBE00}[0x000A]software in the HOME Menu.{0xBE01}[0x000A]When you see an update indicator, open the[0x000A]Holo Caster and check for new content.
+Cannot activate StreetPass for any more[0x000A]software on this Nintendo 3DS system.{0xBE01}[0x000A]Use StreetPass Management in the System[0x000A]Settings to deactivate StreetPass for{0xBE00}[0x000A]other software.
+StreetPass has not been activated for[0x000A]Pokémon X or Pokémon Y yet.{0xBE01}[0x000A]Activate StreetPass?
+Loading StreetPass data...[0x000A]Don’t turn off the power.
+Failed to load StreetPass data.
+If you receive StreetPass data,[0x000A]your game will be saved.{0xBE01}[0x000A]Check the results of[0x000A]StreetPass communication?
+Yes
+No
+Check announcements
+Update
+Activate SpotPass
+Deactivate SpotPass
+{0xBDFF:0x005E}
+{0xBDFF:0x005F}
+Quit
+Search for special announcements
+Info
+Checking data...[0x000A]Don’t remove the SD Card.
+Updating the Holo Caster...[0x000A]Please wait.
+Saving...[0x000A]Don’t turn off the power.
+Update?
+You will be connected to the Internet.[0x000A]Would you like to continue?
+Saving data to the SD Card...[0x000A]Don’t turn off the power.
+SpotPass has not been activated.{0xBE01}[0x000A]Select “Activate SpotPass” from the menu.
+Would you like to get notifications (including[0x000A]advertisements for Pokémon products){0xBE00}[0x000A]and data related to this game via SpotPass?
+Would you like to get notifications (including[0x000A]advertisements for Pokémon products){0xBE00}[0x000A]and data related to this game via SpotPass?
+Would you like to get notifications (including[0x000A]advertisements for Pokémon products){0xBE00}[0x000A]and data related to this game via SpotPass?
+Would you like to get notifications and[0x000A]data related to this game via SpotPass?
+Would you like to get notifications and[0x000A]data related to this game via SpotPass?
+Activating SpotPass...[0x000A]Don’t remove the SD Card[0x000A]or turn off the power.
+SpotPass has been activated!{0xBE01}[0x000A]When you receive Holo Caster data,[0x000A]an update indicator will appear on the{0xBE00}[0x000A]icon for this software in the HOME Menu.{0xBE01}[0x000A]If you see the update indicator, open[0x000A]the Holo Caster to check for new content.
+SpotPass is currently activated, so you will[0x000A]receive announcements and data.{0xBE00}[0x000A]Change the settings and deactivate SpotPass?
+Deactivating SpotPass...[0x000A]Don’t remove the SD Card[0x000A]or turn off the power.
+SpotPass has been deactivated.
+{0xBDFF:0x0074}
+Searching the Internet for data...[0x000A]Please wait a moment.
+Could not find new data.
+Disconnecting from the Internet...[0x000A]Please wait.
+{0xBDFF:0x0078}
+The connection failed.[0x000A]Please wait a moment and try again.
+You may only update once per day.[0x000A]You already updated once today.
+Checking data...[0x000A]Don’t remove the SD Card[0x000A]or turn off the power.
+There are no announcements.
+StreetPass with other users is[0x000A]restricted by Parental Controls.{0xBE00}[0x000A]StreetPass cannot be used.
+{0xBDFF:0x007E}
+This data contains a link to the website:[0x000A]{0x0191,0x0000}{0xBE01}[0x000A]Open the website in the Internet browser?
+Could not start the Internet browser.{0xBE01}[0x000A]Please go to System Settings and[0x000A]update your Nintendo 3DS system.{0xBE01}
+Wireless communication is currently disabled.[0x000A]Please turn wireless communication on.{0xBE01}
+If a special distribution is happening where[0x000A]you are (at an event, a store, or the like),{0xBE00}[0x000A]you can receive that data.{0xBE01}[0x000A]Search for a special distribution?
+Yes
+No
+StreetPass News!
+On {0x0201,0x0001}/{0x0201,0x0002}/20{0x0201,0x0000},[0x000A]you encountered {0x0201,0x0003} Pokémon player{0x1101,0x0003,0x0100}s.{0xBE01}[0x000A]You received {0x0205,0x0004,0x0000} PM to commemorate this!{0xBE01}[0x000A]You have met {0x0205,0x0005,0x0000} people via StreetPass!{0xBE01}[0x000A]You have earned a total of {0x0208,0x0006,0x0000} Poké Miles[0x000A]since you started playing!{0xBE01}
+The SD Card data is corrupt.[0x000A]Deleting data...[0x000A]Don’t remove the SD Card.
+Insufficient free space remains on the SD Card.[0x000A]New data cannot be received.{0xBE01}[0x000A]Please turn off the power, and create free[0x000A]space on the SD Card.{0xBE01}
+{0xBDFF:0x0089}
+{0xBDFF:0x008A}
+Holo Caster distributions[0x000A]via SpotPass have ended.{0xBE01}[0x000A]Thank you very much for[0x000A]using the Holo Caster.
+Holo Caster distributions[0x000A]via SpotPass have ended.
+Activate SpotPass for this software to receive[0x000A]info such as news and event announcements{0xBE00}[0x000A]via the Holo Caster.{0xBE01}[0x000A]When you see the update indicator on the[0x000A]icon for this software on the HOME Menu{0xBE00}[0x000A]of your Nintendo 3DS system, start the game{0xBE00}[0x000A]and check the Holo Caster.{0xBE01}[0x000A]Also, if an event or store is having a[0x000A]special distribution, receive it by selecting{0xBE00}[0x000A]“Search for special announcements.”

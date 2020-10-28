@@ -1,0 +1,16 @@
+Disculpa, ¿estás buscando el ferry?{0xBE01}[0x000A]Lo siento, pero me temo que el servicio todavía no está[0x000A]en funcionamiento...
+Buenas, ¿vienes para coger el ferry?[0x000A]¿Puedo ver tu ticket?
+{0x0100,0x0000} no tiene ningún ticket.
+Cuánto lo lamento... Necesitas un ticket para poder[0x000A]subir a bordo del ferry.
+{0x0100,0x0000} ha enseñado el ticket.
+Perfecto. Todo está en regla. ¿Adónde te gustaría ir?
+Resort Batalla
+Ciudad Portual
+Ciudad Calagua
+Me quedo aquí
+Muy bien, rumbo al Resort Batalla.
+Muy bien, rumbo a Ciudad Calagua.
+Muy bien, rumbo a Ciudad Portual.
+Estaremos a tu disposición cuando desees navegar[0x000A]con nosotros.
+Sube a bordo y espera a que zarpemos.
+{0xBDFF:0x000F}

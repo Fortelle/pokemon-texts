@@ -1,0 +1,16 @@
+I beg your pardon?[0x000A]You’re looking for a ship?{0xBE01}[0x000A]I’m sorry. The ferry service isn’t available[0x000A]at present...
+Hello. Are you here for the ferry?[0x000A]May I see your ticket?
+{0x0100,0x0000} doesn’t have a ticket!
+I’m terribly sorry.{0xBE01}[0x000A]You must have a ticket to board the ferry.
+{0x0100,0x0000} showed the woman h{0x1100,0x00FF,0x0202}iser ticket.
+Perfect! That’s all you need!{0xBE01}[0x000A]And where would you like to go?
+The Battle Resort
+Slateport City
+Lilycove City
+Nowhere
+To the Battle Resort?
+To Lilycove City?
+To Slateport City?
+Please sail with us another time!
+Please board the ferry and wait for departure.
+{0xBDFF:0x000F}

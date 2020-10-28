@@ -1,0 +1,12 @@
+main_event_1252_leader_01=Ich bin Mel. Wie du dir sicher schon gedacht[0x000A]hast, befehlige ich ein Team aus Eis-Pokémon.{0x0114,0x0015}
+main_event_1252_leader_02=Ich bin schwer beeindruckt, dass du es geschafft[0x000A]hast, die Fallgruben zu umgehen!{0xBE01}[0x000A]Da muss ich mich wohl vor dir in Acht nehmen,[0x000A]sonst holt mich am Ende das alte Sprichwort ein.{0xBE01}[0x000A]Du weiß schon! Wer andern eine Grube gräbt...{0x0114,0x0015}
+main_event_1252_leader_03=Du hast dir auf dem Weg zu mir ein paar blaue[0x000A]Flecken geholt, was?{0xBE01}[0x000A]Tja, meine Fallgruben sind eben unberechenbar!{0xBE01}[0x000A]Aber glaub ja nicht, dass du deshalb von mir[0x000A]das Schonprogramm bekommst.{0x0114,0x0015}
+main_event_1252_leader_04=Sobald ich dich erst mal eingefroren hab,[0x000A]gibt es kein Entkommen mehr!{0xBE01}[0x000A]Was ich dann mit dir mache, fragst du?[0x000A]Tja, das wirst du schon sehen!{0xBE01}[0x000A]Ich werde dich kaltblütig auf Eis legen![0x000A]Das ist eben mein Stil.{0x0114,0x0015}
+main_event_1252_leader_05=Das ist ja mal eine Überraschung...[0x000A]Du hast richtig was auf dem Kasten!{0xBE01}[0x000A]Dass ich verloren hab, ist natürlich frustrierend,[0x000A]aber ein Nachwuchstalent wie dich zu entdecken,{0xBE00}[0x000A]macht das wieder wett.{0x0114,0x0015}
+main_event_1252_leader_06=Hier, nimm dir den Eis-Orden.[0x000A]Schön, wie er glitzert, oder?{0x0114,0x0015}
+main_event_1252_badge_01=Du kannst jetzt alle Pokémon bis einschließlich[0x000A]Level 50 fangen!
+main_event_1252_leader_07=Hm, wie es wohl wäre, wenn du irgendwann als[0x000A]Champ meinem Sohn gegenüberstündest...{0xBE01}[0x000A]Versprich mir, dass du ihn ordentlich in die[0x000A]Mangel nimmst, falls dieser Tag je kommen sollte!{0x0114,0x0015}
+main_event_1252_npc_01=Glückwunsch zu deinem Sieg gegen Mel!{0xBE01}[0x000A]In Anerkennung deiner Leistung überreiche ich[0x000A]dir diese TM.
+main_event_1252_npc_03=Und hier hast du noch eine Nachbildung von[0x000A]Mels berühmter Uniform...
+main_event_1252_npc_02=Der Eis-Orden steht dir gut.[0x000A]Nur weiter so, {0x0100,0x0000}!
+main_event_1252_system_01=Möchtest du zurück zum Empfang?

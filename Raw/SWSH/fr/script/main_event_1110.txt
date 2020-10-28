@@ -1,0 +1,17 @@
+main_event_1110_assistant_01=J’allais dire : « Catastrophe ! », mais regarde ![0x000A]Qui aurait imaginé trouver de telles statues ici ?!{0x0114,0x000B}
+main_event_1110_assistant_02=C’est forcément lié à cette fameuse légende...[0x000A]Qu’est-ce qui te frappe le plus ?{0x0114,0x000B}
+main_event_1110_select_03=Les Pokémon !
+main_event_1110_select_04=L’épée et le bouclier !
+main_event_1110_assistant_08=Oui ! Ces créatures tenant une épée et un bouclier[0x000A]se démarquent clairement du reste !{0xBE01}[0x000A]On dirait deux Pokémon...{0x0114,0x000B}
+main_event_1110_assistant_09=Est-ce que tu remarques autre chose, à part ça ?{0x0114,0x000B}
+main_event_1110_select_05=Il y a deux héros ?
+main_event_1110_select_06=C’est comme sur les tapisseries !
+main_event_1110_assistant_10=Exactement ! Il y avait donc deux héros.{0xBE01}[0x000A]Mais alors, pourquoi n’y a-t-il qu’une seule statue[0x000A]dans le hall du Rozbouton d’Or ?{0x0114,0x000B}
+main_event_1110_assistant_11=Ces sculptures sont les véritables témoins,[0x000A]les clés de la vérité sur le passé.{0xBE00}[0x000A]Bien plus que les tapisseries ou la statue.{0x0114,0x000B}
+main_event_1110_assistant_03=Ce qui veut dire que...{0x0114,0x000B}
+main_event_1110_select_01=L’épée est un Pokémon !
+main_event_1110_select_02=Le bouclier est un Pokémon !
+main_event_1110_assistant_04=Oui ! Exactement ![0x000A]C’est ce que je me disais.{0xBE01}[0x000A]Avec le temps, les Pokémon et les armes ont[0x000A]commencé à ne faire qu’un dans la légende...{0xBE01}[0x000A]Ainsi, l’existence des Pokémon a été doucement[0x000A]effacée de l’Histoire.{0x0114,0x000B}
+main_event_1110_assistant_05=Donc : on a les deux jeunes héros.[0x000A]Et l’épée et le bouclier sont leurs Pokémon.{0xBE01}[0x000A]Mais pourquoi cacher ces ruines et ce qu’elles[0x000A]nous révèlent derrière une œuvre d’art... ?{0x0114,0x000B}
+main_event_1110_assistant_06=Tu réalises l’importance de cette découverte ?[0x000A]Je suis heureuse d’avoir vécu ça à tes côtés !{0xBE01}[0x000A]Tiens, prends ça ! Un évènement pareil, ça se[0x000A]fête ! Ça te servira bien pour le Défi des Arènes.{0xBE00}[0x000A]La prochaine étape pour toi, c’est Corrifey !{0x0114,0x000B}
+main_event_1110_assistant_07=Sous la fresque, l’Histoire... Mais pourquoi ?[0x000A]Pourquoi dissimuler ainsi la vérité ?{0xBE00}[0x000A]Je dois continuer de creuser...{0x0114,0x000B}

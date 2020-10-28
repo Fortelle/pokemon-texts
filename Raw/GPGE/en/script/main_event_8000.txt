@@ -1,0 +1,16 @@
+msg_main8000_rock_01=BROCK: So, you’re here.[0x000A]I’m Brock, Pewter City’s Gym Leader.
+msg_main8000_rock_06=You can see just by looking at my Pokémon how[0x000A]rock hard my willpower is.{0xBE01}[0x000A]My Pokémon are all hard as rock and have true-[0x000A]grit determination!
+msg_main8000_rock_07=That’s right! My Pokémon are all Rock types!
+msg_main8000_rock_08=Fwahaha! You’re going to challenge me even[0x000A]knowing that you’ll lose?{0xBE01}[0x000A]That’s what a Trainer’s honor demands!
+msg_main8000_rock_09=So be it![0x000A]Show me your best!
+msg_main8000_rock_02=BROCK: As proof of your victory, take an official[0x000A]Pokémon League Badge—a Boulder Badge!
+msg_main8000_sys_01=You got a {0xFF00,0x0006}Boulder Badge{0xFF00,0x0000} from Brock!
+msg_main8000_rock_03=BROCK: With a Boulder Badge, Pokémon up to[0x000A]Lv. 20 from other Trainers will listen to you{0xBE00}[0x000A]without question!{0xBE01}[0x000A]Oh...and wait![0x000A]Take this with you, too.
+msg_main8000_sys_02=You got {0x0109,0x0001} {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000} from Brock!
+msg_main8000_rock_04=BROCK: If you use a TM, or Technical Machine,[0x000A]you can teach your Pokémon the move within it.{0xBE01}[0x000A]A TM can be used as many times as you like,[0x000A]so use it on any Pokémon you want.{0xBE01}[0x000A]TM01 contains Headbutt.{0xBE01}[0x000A]It deals damage to your opponent’s Pokémon[0x000A]by ramming them with a head as hard as rock.
+msg_main8000_rock_05=There are all kinds of people in this huge world[0x000A]of ours.{0xBE01}[0x000A]Some have their Pokémon battle—some just like[0x000A]to raise them...{0xBE01}[0x000A]I’m hard at work here to learn how to become[0x000A]a Pokémon Breeder, who helps raise Pokémon.{0xBE01}[0x000A]You’re aiming to become a strong Trainer, right?[0x000A]Then you should challenge all the other Gyms!
+msg_main8000_shortpants_01=You’re a Trainer, right?{0xBE01}[0x000A]Brock’s looking for new challengers. Follow me!
+msg_main8000_shortpants_02=If you think you’ve got the right stuff, you should[0x000A]take on Brock!
+msg_main8000_shortpants_03=Oh, wow, that’s a Boulder Badge![0x000A]You got it from Brock, didn’t you?{0xBE01}[0x000A]When you get new Gym Badges, more items[0x000A]become available to you in the Poké Mart!
+msg_main8000_shortpants_04=By the way, the Poké Mart is that blue building!
+msg_main8000_shortpants_05=Poké Marts are in lots of towns, though, so you[0x000A]probably already knew that, huh?

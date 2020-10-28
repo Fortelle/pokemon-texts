@@ -1,0 +1,102 @@
+Cámara Lucha
+La Cámara Lucha es un dispositivo que te permite grabar[0x000A]combates en conexión, o aquellos que libres en lugares[0x000A]como el Área de Combate, para verlos posteriormente.[0x000A]También es posible recrear a tus contrincantes a partir de[0x000A]los datos guardados para disputar simulacros de combate.
+Puedes publicar en internet Vídeos de Combate que hayas[0x000A]grabado con la Cámara Lucha o ver aquellos publicados[0x000A]por otros jugadores.[0x000A]Al hacer público un Vídeo de Combate recibirás un código[0x000A]de búsqueda. Si lo compartes con tus amigos, podrán[0x000A]visualizar el vídeo en cuestión.
+Combate Inverso
+{0x0100,0x0000}
+Reproducc.:
+Publicado:
+{0xBDFF:0x0007}
+{0x0206,0x0000,0xE07F}
+{0x0201,0x0002}-{0x0201,0x0001}-{0x0203,0x0000,0x0000}
+{0x0203,0x0000,0x0000}-{0x0203,0x0001,0x0000}-{0x0203,0x0002,0x0000}-{0x0203,0x0003,0x0000}
+{0x0202,0x0000}
+:
+Combate n.º {0x0203,0x0000,0xE07F}
+Para ver este Vídeo de Combate, debes disponer de los[0x000A]últimos datos actualizados.
+Turnos:
+Victoria por noquear al rival.
+Victoria por puntos tras agotarse el tiempo.
+Victoria por rendición del rival.
+Empate a puntos.
+Jugador 2
+Jugador 3
+Jugador 4
+/
+No hay Vídeos de Combate.[0x000A][0x000A]Puedes grabar hasta un máximo de 100 vídeos[0x000A]disputando combates en conexión, o bien en[0x000A]lugares como el Área de Combate.[0x000A]Utilízalos para analizar exhaustivamente cada[0x000A]contienda.
+Combate en conexión
+Área de Combate
+Árbol de Combate
+Estadio Royale
+Torneo en Línea
+Torneo en Directo
+Torneo Amistoso
+Activar la Cámara Lucha
+Buscar un Vídeo de Combate
+Publicar un Vídeo de Combate
+Sí
+No
+Eliminar selección
+Eliminar
+Cambiar
+Turno anterior
+Turno siguiente
+Salir
+¡Activa la Cámara Lucha!
+¿Qué quieres hacer?
+Comprobando la tarjeta SD...[0x000A]No apagues la consola.
+Se han eliminado los Vídeos de Combate[0x000A]dañados.{0xBE01}
+Conectando con el servidor...[0x000A]No apagues la consola.
+Se ha conectado la Cámara Lucha a internet.{0xBE01}
+¿Seguro que quieres borrar los {0x0202,0x0000} Vídeos de[0x000A]Combate seleccionados?
+Borrando...[0x000A]No apagues la consola.
+Se han borrado los datos.{0xBE01}
+Selecciona un Equipo de Combate para realizar[0x000A]el simulacro.{0xBE01}
+No podrás retirar ningún Vídeo de Combate[0x000A]que hagas público hasta el día siguiente.{0xBE01}[0x000A]¿Quieres hacer público este Vídeo de[0x000A]Combate en internet?
+Este Vídeo de Combate no puede hacerse[0x000A]público.{0xBE01}
+Enviando el Vídeo de Combate...[0x000A]No apagues la consola.
+El Vídeo de Combate se ha hecho público en[0x000A]internet.{0xBE01}
+¿Quieres retirar este Vídeo de Combate?
+Este Vídeo de Combate no puede retirarse[0x000A]hasta mañana.{0xBE01}
+El Vídeo de Combate se ha retirado.{0xBE01}
+¿Seguro que quieres borrar este Vídeo de[0x000A]Combate?
+Buscando Vídeo de Combate...
+No se ha encontrado el Vídeo de Combate.{0xBE01}
+Para ver este Vídeo de Combate debes[0x000A]disponer de los últimos datos actualizados.
+No se puede reproducir este Vídeo de Combate.{0xBE01}
+Preparando la reproducción del Vídeo de[0x000A]Combate...
+¿Con qué rival quieres disputar un simulacro de[0x000A]combate?{0xBE01}
+Se está retirando el Vídeo de Combate...[0x000A]No apagues la consola.
+Cambiando de escena...[0x000A]Por favor, espera.
+Conectando...[0x000A]Por favor, espera.
+Combate Individual
+Combate Doble
+Battle Royale
+Combate Múltiple
+Combate en conexión
+Área de Combate
+Árbol de Combate
+Estadio Royale
+{0x011A,0x0000}
+Combate Libre
+Combate por Puntos
+Combate Especial
+Individual
+Doble
+Múltiple
+Supercombate Individual
+Supercombate Doble
+Supercombate Múltiple
+Nivel Normal
+Nivel Alto
+Nivel Avanzado
+Nivel Maestro
+{0x011A,0x0000}
+Derrota por noqueo de tu equipo Pokémon.
+Derrota por puntos tras agotarse el tiempo.
+Derrota por tu rendición.
+Primer puesto
+Segundo puesto
+Tercer puesto
+Cuarto puesto
+Combate WCS
+No puedes publicar más Vídeos de Combate, ya[0x000A]que el máximo son 10.{0xBE01}[0x000A]Retira o elimina algún Vídeo de Combate ya[0x000A]publicado.{0xBE01}

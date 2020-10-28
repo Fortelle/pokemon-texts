@@ -1,0 +1,25 @@
+Intercambio prodigioso
+{0x0102,0x0000}
+{0x0202,0x0000}
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+{0x0109,0x0000}
+Tiempo:
+{0x0202,0x0000}
+{0x01B7,0x0000}
+{0x0100,0x0000}
+{0x0124,0x0000}
+{0x0125,0x0000}
+l
+Iniciar
+Guardar
+¿Quieres iniciar un intercambio prodigioso?
+Buscando un Entrenador que quiera[0x000A]intercambiar Pokémon. Por favor, espera.
+Parece que hay un problema con este Pokémon.{0xBE01}
+No se ha podido encontrar a nadie interesado[0x000A]en el intercambio. Inténtalo de nuevo más tarde.{0xBE01}
+¡Alguien está interesado en el intercambio![0x000A]Espera un momento, por favor.
+Debes guardar la partida antes de iniciar un[0x000A]intercambio prodigioso.
+Guardando la partida...[0x000A]No apagues la consola.
+Se ha guardado la partida.{0xBE01}
+Puedes intercambiar Pokémon fácilmente con[0x000A]gente de todo el mundo mediante internet.[0x000A][0x000A]Selecciona un Pokémon y busca a un candidato[0x000A]para iniciar el intercambio.
+No se ha podido conectar con el otro jugador.{0xBE01}

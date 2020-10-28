@@ -1,0 +1,17 @@
+msg_town006_kanban_01=Carmin sur Mer[0x000A]« Le port aux crépuscules flamboyants »
+msg_town006_kanban_02=Avis !{0xBE01}[0x000A]La Route 12 est parfois bloquée par un Pokémon[0x000A]endormi.{0xBE01}[0x000A]Pour rejoindre Lavanville, merci d’emprunter[0x000A]la Grotte Sombre.{0xBE01}[0x000A]— Police de Carmin sur Mer
+msg_town006_kanban_03=Fan Club Pokémon{0xBE01}[0x000A]« Tous les dingues de Pokémon sont les[0x000A]bienvenus ! »
+msg_town006_kanban_04=Arène Pokémon de Carmin sur Mer[0x000A]Champion : Major Bob, alias Mister Survolté
+msg_town006_kanban_05=Port de Carmin sur Mer
+msg_town006_miniskirt_01=Dis, tu savais que les Tadmorv étaient nés dans[0x000A]des boues marines ?{0xBE01}[0x000A]Je peux te dire que j’y réfléchirai à deux fois[0x000A]avant d’aller en thalasso...
+msg_town006_oldm_01_01=As-tu vu L’Océane, au port ?
+msg_town006_oldm_01_02=L’Océane a levé l’ancre ! Il reviendra d’ici un an.
+msg_town006_oldm_02_01=Je construis un immeuble sur mon terrain. Mon[0x000A]Pokémon dame le sol pour faire les fondations.
+msg_town006_poke_01_01={0xFF00,0x0009}Machoc :{0xFF00,0x0000} Maaa ! Machooo !
+msg_town006_poke_01_02=Ce Machoc déborde d’énergie !
+msg_town006_angler_01_01=Si t’y connais rien en Pokémon, passe donc[0x000A]à la maison !{0xBE01}[0x000A]Je la loue pour que les gens puissent s’y réunir[0x000A]et échanger des informations.
+msg_town006_childm_01_01=Y paraît que certains Pokémon préfèrent[0x000A]te porter plutôt que de te suivre !{0xBE01}[0x000A]Ça doit être trop cool d’avoir un Pokémon qui[0x000A]peut te transporter sur l’eau ou dans les airs !
+msg_town006_poke_02_01={0xFF00,0x0009}Magicarpe :{0xFF00,0x0000} Magiii !
+msg_town006_woman_01={0xBDFF:0x000E}
+msg_town006_gentleman_01=Ce que tu vois là ne sert pas à reposer ses[0x000A]jambes, mais à amarrer les bateaux !
+msg_town006_poke_02={0xBDFF:0x0010}

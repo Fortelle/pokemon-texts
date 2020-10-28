@@ -1,0 +1,12 @@
+msg_main3150_doctor_01=Ah, {0x0100,0x0000}!{0x0114,0x000B}
+msg_main3150_doctor_02=Jemand hat gesehen, wie die beiden Clowns[0x000A]durch diese Tür hier gegangen sind!{0x0114,0x000B}
+msg_main3150_doctor_03=Leider ist die Tür elektronisch gesichert.[0x000A]Die Entriegelung wird also etwas dauern...{0x0114,0x000B}
+msg_main3150_dog_01=Vol, vol!
+msg_main3150_doctor_04=Ich werde ein bisschen an diesem Türschloss[0x000A]rumtüfteln, um es hoffentlich zu entriegeln.{0xBE01}[0x000A]Könntest du dich derweil um das Chaos im[0x000A]Stadion kümmern, {0x0100,0x0000}?{0x0114,0x000B}
+msg_main3150_doctor_05=Huch, da bist du ja schon wieder! Ich brauche[0x000A]noch eine Sekunde, okay?{0xBE01}[0x000A]Irgendwas stimmt hier nicht, aber... ich hab’s[0x000A]sicher gleich...{0x0114,0x000B}
+msg_main3150_dog_02=Vol, vol!
+msg_main3150_doctor_07=Was?! Die Tür wurde entriegelt?{0x0114,0x000B}
+msg_main3150_doctor_08=Ich wusste schon immer, dass du ein kleines[0x000A]Genie bist, Voldi! Gut gemacht!{0x0114,0x000B}
+msg_main3150_dog_03=Vol, vo-vol!
+msg_main3150_doctor_06=Die beiden Clowns sind da drin.[0x000A]Wir müssen vorsichtig sein!{0x0114,0x000B}
+msg_main3150_system_01=*Britzel!*

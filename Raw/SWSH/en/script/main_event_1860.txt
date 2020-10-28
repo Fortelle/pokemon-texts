@@ -1,0 +1,9 @@
+main_event_1860_rival_01=Hey! Where’re you going?![0x000A]We need your help over here!{0x0114,0x0005}
+main_event_1860_assistant_01=You two...[0x000A]What in the world are you doing?{0x0114,0x000B}
+main_event_1860_rival_02=What?! Come off it, Sonia![0x000A]You must’ve seen that, right?!{0xBE01}[0x000A]Those...those...sword and shield Pokémon![0x000A]They were right in front of us!{0xBE01}[0x000A]But then they disappeared into the forest...{0x0114,0x0005}
+main_event_1860_assistant_02=Hop, you sure you haven’t lost the plot?[0x000A]There was no one here but the two of you...{0x0114,0x000B}
+main_event_1860_rival_03=Wha...[0x000A]Then were those just...illusions or something?{0x0114,0x0005}
+main_event_1860_assistant_03=Listen! I dug into some literature from other[0x000A]regions, and I finally found something!{0xBE01}[0x000A]Mentions of the sword Pokémon, Zacian,[0x000A]and the shield Pokémon, called Zamazenta.{0xBE01}[0x000A]The writings said that those two Pokémon were[0x000A]born somewhere beyond the Slumbering Weald{0xBE00}[0x000A]sometime long, long ago.{0x0114,0x000B}
+main_event_1860_rival_04=Did they really?[0x000A]Ta, Sonia. Thanks for digging into it.{0x0114,0x0005}
+main_event_1860_rival_05=Even if it is just an illusion or whatever, we did[0x000A]manage to find that Pokémon again...{0xBE01}[0x000A]Maybe the sword and the shield that those two[0x000A]used to carry are still here, too!{0x0114,0x0005}
+main_event_1860_assistant_04=Zacian and Zamazenta...{0xBE01}[0x000A]They may have been sleeping in the Slumbering[0x000A]Weald right next to your hometown all this time.{0xBE01}[0x000A]Perhaps that’s why no one has entered the[0x000A]deepest parts of these woods for so long...{0x0114,0x000B}

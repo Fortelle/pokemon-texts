@@ -1,0 +1,8 @@
+main_event_0960_trainer_01=Eres un{0x1100,0x00FF,0x0100}a Aspirante, ¿no? ¿Has venido a afrontar[0x000A]el reto de este gimnasio?
+main_event_0960_select_01=¡Sí!
+main_event_0960_select_02=Todavía no
+main_event_0960_trainer_02=Muy bien, pues ve primero al vestuario para[0x000A]ponerte el uniforme.{0xBE01}[0x000A]Después podrás acceder a la sala donde tiene[0x000A]lugar la misión de gimnasio.
+main_event_0960_trainer_03=Cada uno es libre de hacer lo que quiera, faltaría[0x000A]más.
+main_event_0960_trainer_06=¡Adelante, dorsal {0x01C4,0x0000}!
+main_event_0960_trainer_04=¡Buena suerte con la misión![0x000A]¡A tope con la taza y cuidado con los topetazos!
+main_event_0960_trainer_05={0xBDFF:0x0007}

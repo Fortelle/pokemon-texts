@@ -1,0 +1,5 @@
+msg_t002r0201_middlem_01=Trouver des surnoms, c’est rigolo, mais c’est[0x000A]difficile !{0xBE01}[0x000A]J’aime bien les surnoms recherchés, comme[0x000A]Pif Piaf Pouf, mais les plus faciles à retenir{0xBE00}[0x000A]sont généralement les meilleurs.
+msg_t002r0201_system_01=Pour changer le surnom d’un Pokémon,[0x000A]appuyez sur le {0xFF00,0x0006}bouton{0xFF00,0x0000} {0xFF00,0x0006}X pour ouvrir le menu{0xFF00,0x0000},{0xBE00}[0x000A]puis sélectionnez ÉQUIPE et choisissez{0xBE00}[0x000A]le Pokémon que vous souhaitez renommer.
+msg_t002r0201_childf_01=J’aime trop les Pokémon ![0x000A]Et mon papa aussi, il les adore !
+msg_t002r0201_poke_01={0xFF00,0x0009}Piaffy :{0xFF00,0x0000} Pia pia !
+msg_t002r0201_poster_01=Piafabec[0x000A]Surnom : Piaffy

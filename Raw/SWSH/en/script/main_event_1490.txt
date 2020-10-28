@@ -1,0 +1,13 @@
+main_event_1490_rival_01=This is the reception desk!{0x0114,0x0005}
+main_event_1490_rival_02=Turns out I was the first to register for the[0x000A]Champion Cup.{0xBE01}[0x000A]In other words, I’m already number one.[0x000A]It’s pretty much in the bag that I’ll win this thing!{0x0114,0x0005}
+main_event_1490_staff_01={0x1003}{0x0100,0x0000}, correct?{0xBE01}[0x000A]We’ve been watching over your performance in[0x000A]the Gym Challenge.{0xBE01}[0x000A]This is just a formality, of course, but I’ll need[0x000A]to check your Gym Badges, if you don’t mind.
+main_event_1490_staff_02={0xBDFF:0x0003}
+main_event_1490_staff_03={0xBDFF:0x0004}
+main_event_1490_staff_04={0xBDFF:0x0005}
+main_event_1490_staff_05={0xBDFF:0x0006}
+main_event_1490_rival_03=I’m all sorted and ready to battle you on the[0x000A]biggest stage of them all!{0x0114,0x0005}
+main_event_1490_rival_04={0xBDFF:0x0008}
+main_event_1490__rival_05=But it looks like Bede couldn’t make it.[0x000A]Hard luck...{0xBE01}[0x000A]Somehow I didn’t think he’d just take being[0x000A]disqualified lying down, you know what I mean?{0x0114,0x0005}
+main_event_1490__rival_06=I guess it is what it is...{0xBE01}[0x000A]Come on, {0x0100,0x0000}.[0x000A]We should head to the locker room!{0x0114,0x0005}
+main_event_1490_sister_01=This is it. I really made it.{0xBE01}[0x000A]I made it through the Gym Challenge. There[0x000A]might be four remainin’ in the Semifinals...{0xBE01}[0x000A]But I’m the one who’s gonna win through[0x000A]and battle the Champion.{0x0114,0x000D}
+main_event_1490_poke1_01=Urara!

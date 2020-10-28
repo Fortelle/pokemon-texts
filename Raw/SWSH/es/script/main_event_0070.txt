@@ -1,0 +1,17 @@
+main_event_0070_rivalmama_01={0xBDFF:0x0000}
+main_event_0070_champion_01=¡Echadles un buen ojo!{0x0114,0x0004}
+main_event_0070_rival_01=Oye, Lionel... No te habrás olvidado de lo que[0x000A]me prometiste, ¿no?{0xBE01}[0x000A]¡Dijiste que nos darías un Pokémon a[0x000A]{0x0100,0x0000} y a mí!{0x0114,0x0005}
+main_event_0070_champion_02=Yo siempre cumplo, Paul. ¡Vuestro Campeón[0x000A]favorito os ha traído un regalo de categoría!{0xBE01}[0x000A]Con estos Pokémon a vuestro lado, podréis hacer[0x000A]vuestros primeros pinitos mientras tratáis de{0xBE00}[0x000A]convertiros en unos Entrenadores de aúpa.{0x0114,0x0004}
+main_event_0070_champion_03=El Pokémon de tipo Planta: ¡Grookey!{0x0114,0x0004}
+main_event_0070_champion_04=El Pokémon de tipo Fuego: ¡Scorbunny!{0x0114,0x0004}
+main_event_0070_champion_05=Y el Pokémon de tipo Agua: ¡Sobble!{0x0114,0x0004}
+main_event_0070_poke1_01={0xBDFF:0x0007}
+main_event_0070_poke2_01={0xBDFF:0x0008}
+main_event_0070_poke3_01={0xBDFF:0x0009}
+main_event_0070_champion_06={0xBDFF:0x000A}
+main_event_0070_rival_02={0xBDFF:0x000B}
+main_event_0080_champion_06=¡Venid aquí, pequeñajos!{0x0114,0x0004}
+main_event_0081_champion_01=¡Ha llegado la hora de que elijáis un Pokémon!{0x0114,0x0004}
+main_event_0081_poke1_01=Scorbunny
+main_event_0081_poke2_01=Sobble
+main_event_0081_poke3_01=Grookey

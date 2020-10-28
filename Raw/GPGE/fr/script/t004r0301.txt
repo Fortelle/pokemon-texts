@@ -1,0 +1,15 @@
+msg_t004r0301_middlef_01=Non, mais quel scandale !{0xBE01}[0x000A]Je souhaitais me rendre à la Boutique Pokémon[0x000A]avec mon amour de Johnnix, et voilà que{0xBE00}[0x000A]l’on me refuse l’entrée ! Tu te rends compte ?!{0xBE01}[0x000A]Il est pourtant sage comme une image, et il entre[0x000A]tout seul dans sa Poké Ball, comme un grand,{0xBE00}[0x000A]quand on se trouve dans un lieu trop exigu !
+msg_t004r0301_poke_01={0xFF00,0x0009}Johnnix :{0xFF00,0x0000} Ooo... Niiix !
+test_00={0xBDFF:0x0002}
+msg_kanpou_01_p01_t004_r0701={0xBDFF:0x0003}
+msg_kanpou_01_p02_t004_r0701={0xBDFF:0x0004}
+msg_kanpou_01_p03_t004_r0701={0xBDFF:0x0005}
+msg_kanpou_01_p04_t004_r0701={0xBDFF:0x0006}
+msg_kanpou_01_p05_t004_r0701={0xBDFF:0x0007}
+msg_kanpou_01_p06_t004_r0701={0xBDFF:0x0008}
+msg_kanpou_01_p07_t004_r0701={0xBDFF:0x0009}
+msg_kanpou_01_p08_t004_r0701={0xBDFF:0x000A}
+msg_kanpou_01_p09_t004_r0701={0xBDFF:0x000B}
+msg_kanpou_01_p10_t004_r0701={0xBDFF:0x000C}
+msg_kanpou_01_p11_t004_r0701={0xBDFF:0x000D}
+msg_kanpou_01_p12_t004_r0701={0xBDFF:0x000E}

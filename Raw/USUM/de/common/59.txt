@@ -1,0 +1,25 @@
+Wundertausch
+{0x0102,0x0000}
+{0x0202,0x0000}
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+{0x0109,0x0000}
+Noch
+{0x0202,0x0000}
+{0x01B7,0x0000}
+{0x0100,0x0000}
+{0x0124,0x0000}
+{0x0125,0x0000}
+l
+Tausch starten
+Speichern
+Willst du einen Wundertausch durchführen?
+Suche nach Tauschpartner...[0x000A]Bitte warte einen Moment.
+Es gibt offenbar ein Problem mit dem Pokémon,[0x000A]das du zum Tausch angeboten hast.{0xBE01}
+Es wurde kein Tauschpartner gefunden.[0x000A]Bitte versuche es später noch einmal.{0xBE01}
+Tauschpartner gefunden![0x000A]Der Tausch wird nun durchgeführt.
+Vor einem Wundertausch muss das Spiel[0x000A]gespeichert werden.
+Speichervorgang...[0x000A]Bitte das System nicht ausschalten.
+Das Spiel wurde gespeichert.{0xBE01}
+Der Wundertausch ist eine unkomplizierte[0x000A]Möglichkeit, über das Internet mit Spielern[0x000A]aus aller Welt Pokémon zu tauschen.[0x000A][0x000A]Wähle ein Pokémon aus und starte den Tausch,[0x000A]um nach einem Tauschpartner zu suchen und[0x000A]einen Wundertausch durchzuführen.
+Der Datenaustausch mit dem Tauschpartner[0x000A]ist fehlgeschlagen.{0xBE01}

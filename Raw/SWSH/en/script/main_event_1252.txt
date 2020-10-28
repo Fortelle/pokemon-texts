@@ -1,0 +1,12 @@
+main_event_1252_leader_01=I am Melony. As you can clearly see, I’ve[0x000A]assembled a team of all Ice-type Pokémon.{0x0114,0x0015}
+main_event_1252_leader_02=Well, fancy that!{0xBE01}[0x000A]You made it all the way to me without falling in a[0x000A]hole. If I’m not careful, you could sweep my feet{0xBE00}[0x000A]right out from under me.{0x0114,0x0015}
+main_event_1252_leader_03=You! You aren’t sore all over from falling in a[0x000A]hole or two, are you? Even if you are, I’m not{0xBE00}[0x000A]going to hold back!{0x0114,0x0015}
+main_event_1252_leader_04=All righty, I suppose we should get started. You[0x000A]won’t be able to escape when I freeze you solid.{0xBE01}[0x000A]And after that... Well, you’ll see. I think you’ll[0x000A]find my battle style is quite severe.{0x0114,0x0015}
+main_event_1252_leader_05=You... You’re pretty good, huh? Of course seeing[0x000A]my Pokémon lose is sad, but to meet someone so{0xBE00}[0x000A]young with such ability is quite grand.{0x0114,0x0015}
+main_event_1252_leader_06=Here, take this sparkling Ice Badge!{0x0114,0x0015}
+main_event_1252_badge_01=You can now catch Pokémon of up to Lv. 50!
+main_event_1252_leader_07=For some reason, I can’t help but imagine my son[0x000A]challenging you after you become the Champion.{0xBE01}[0x000A]If that time comes...give him a right thrashing,[0x000A]would you?{0x0114,0x0015}
+main_event_1252_npc_01={0x1003}{0x0100,0x0000}! My sincere congratulations for[0x000A]your victory over Gym Leader Melony.{0xBE00}[0x000A]Please take this commemorative TM.
+main_event_1252_npc_03=Here’s a uniform for you, too.[0x000A]It’s the same as what Melony wears, so it’s{0xBE00}[0x000A]a quite popular replica!
+main_event_1252_npc_02=That Ice Badge looks great on you![0x000A]Keep at it, Challenger {0x0100,0x0000}!
+main_event_1252_system_01=Do you want to go back to the reception area?

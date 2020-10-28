@@ -1,0 +1,16 @@
+msg_main0170_green_01={0xFF00,0x0009}???: {0xFF00,0x0000}¡Oye, tú!
+msg_main0170_green_02={0xFF00,0x0009}???:{0xFF00,0x0000} Tú eres {0x0100,0x0000}, ¿verdad?
+msg_main0170_select_01={0x1100,0x00FF,0x0808}El mismoLa misma
+msg_main0170_select_02=¿Cómo sabes quién soy?
+msg_main0170_green_03=¿Ves? ¡Lo sabía! No se me escapa una.
+msg_main0170_green_04=¡Eres tal y como te describió mi abuelo!
+msg_main0170_green_05={0xFF00,0x0009}Azul: {0xFF00,0x0000}¡Me llamo Azul!{0xBE01}[0x000A]Soy el nieto del Profesor Oak. Me comentó[0x000A]que un{0x1100,0x00FF,0x0100}a joven de Pueblo Paleta acababa de{0xBE00}[0x000A]emprender su aventura, como hice yo en su día.{0xBE01}[0x000A]Y, claro, no iba a quedarme de brazos cruzados.[0x000A]Quería comprobar enseguida de qué pasta{0xBE00}[0x000A]estabas hech{0x1100,0x00FF,0x0101}oa.
+msg_main0170_green_06=¡Pero te me has adelantado! Yo que venía a[0x000A]darte un par de consejillos para tu combate{0xBE00}[0x000A]contra el Líder de Gimnasio, ¡y resulta que ya lo{0xBE00}[0x000A]has vencido!
+msg_main0170_green_11=Veo que puedes valértelas por ti mism{0x1100,0x00FF,0x0101}oa. Toma,[0x000A]te mereces un premio.
+msg_main0170_red_01={0xBDFF:0x0009}
+msg_main0170_green_07={0xBDFF:0x000A}
+msg_main0170_red_02={0xBDFF:0x000B}
+msg_main0170_dummy_01=Azul te ha entregado 5 {0xFF00,0x0006}Super Balls{0xFF00,0x0000}.
+msg_main0170_green_08={0xFF00,0x0009}Azul: {0xFF00,0x0000}Con estas es más fácil atrapar Pokémon[0x000A]que con las Poké Balls normales.{0xBE01}[0x000A]¡Anda! ¿Es eso la Pokédex? Así que el abuelo[0x000A]por fin ha conseguido ponerla a punto.
+msg_main0170_green_09=En mis tiempos íbamos marcando a lápiz la[0x000A]localización de los Pokémon en un mapa viejo.
+msg_main0170_green_10=Pues nada, ¡espero que ayudes al abuelo con[0x000A]su investigación! Nos vemos.

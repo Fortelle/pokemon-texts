@@ -1,0 +1,9 @@
+msg_t007r0101_poke_01={0xFF00,0x0009}Miaouss :{0xFF00,0x0000} Miaou !
+msg_t007r0101_poke_02={0xFF00,0x0009}Mélofée :{0xFF00,0x0000} Fée ! Fééé fééé !
+msg_t007r0101_poke_03={0xFF00,0x0009}Nidoran♀ :{0xFF00,0x0000} Nido ! Nidooo dooo !
+msg_t007r0101_kanban_01=Résidence Céladon[0x000A]Loge de la concierge
+msg_t007r0101_oldf_01=Il n’y a rien de tel qu’une bonne tasse de thé[0x000A]en compagnie de ses Pokémon chéris.{0xBE01}[0x000A]Je ne manquerais ce moment de la journée[0x000A]pour rien au monde !
+msg_oldwoman1_01_p01_t007_r0101={0xBDFF:0x0005}
+msg_oldwoman1_01_p02_t007_r0101={0xBDFF:0x0006}
+msg_oldwoman1_01_p03_t007_r0101={0xBDFF:0x0007}
+msg_oldwoman1_01_p04_t007_r0101={0xBDFF:0x0008}

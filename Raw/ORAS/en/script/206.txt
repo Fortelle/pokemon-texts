@@ -1,0 +1,5 @@
+The door is locked.{0xBE01}[0x000A]A message is written on the scroll on the door:[0x000A]“Write the secret code here.”
+{0x0100,0x0000} wrote the secret code on the scroll!{0xBE01}[0x000A]“Trick Master is wonderful.”{0xBE01}[0x000A]...{0xBE01}[0x000A]The door was unlocked!
+{0x0100,0x0000} found a scroll!
+{0x0100,0x0000} memorized the secret code[0x000A]written on the scroll.
+A secret code is written on it.

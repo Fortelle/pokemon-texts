@@ -1,0 +1,42 @@
+Ce tableau liste les altérations de statut pouvant toucher[0x000A]les Pokémon au combat.
+Quel sujet voulez-vous lire[0xE07F]?
+Empoisonnement
+Paralysie
+Sommeil
+Brûlure
+Gel
+Quitter
+Si un Pokémon est empoisonné, ses PV diminuent[0x000A]régulièrement pendant le combat.{0xBE01}[0x000A]Le poison ne se dissipe pas une fois le combat terminé,[0x000A]et il faut un Antidote pour le soigner.
+Si un Pokémon est paralysé, sa Vitesse diminue.{0xBE01}[0x000A]Il peut également être dans l’incapacité d’agir pendant[0x000A]le combat.{0xBE01}[0x000A]La paralysie persiste après le combat.[0x000A]Un Anti-Para permet d’y remédier.
+Si un Pokémon s’endort, il est dans l’incapacité[0x000A]d’attaquer.{0xBE01}[0x000A]Le Pokémon peut se réveiller de lui-même, mais si le[0x000A]combat prend fin alors qu’il dort, il conservera l’altération{0xBE00}[0x000A]de statut.{0xBE01}[0x000A]Un Réveil le sortira de son sommeil.
+Une brûlure réduit l’Attaque et les PV de la victime.{0xBE01}[0x000A]Une brûlure persiste après le combat.[0x000A]Un Anti-Brûle permet d’y remédier.
+Si un Pokémon est gelé, il ne peut plus rien faire.{0xBE01}[0x000A]Il restera gelé après le combat.[0x000A]Un Antigel permet de le dégeler.
+Je fais boire une dilution de rognure de ma Vive Griffe[0x000A]aux élèves qui ne travaillent pas[0xE07F]!{0xBE01}[0x000A]La manière dont tu utiliseras cet objet indiquera de façon[0x000A]évidente si tu apprends bien ou pas.
+Un Pokémon qui porte une Vive Griffe pourra parfois[0x000A]attaquer avant son adversaire.{0xBE01}[0x000A]D’autres objets comme celui-ci sont faits pour être tenus[0x000A]par un Pokémon.{0xBE01}[0x000A]Mais celui-ci te donnera déjà matière à réfléchir[0xE07F]!
+Je suis en train d’échanger un Pokémon avec mon ami[0xE07F]!
+J’ai toujours voulu un Grainipiot et j’ai enfin réussi[0x000A]à en avoir un[0xE07F]!
+Les Pokémon peuvent tenir des objets, mais ne savent[0x000A]pas utiliser ceux conçus pour les hommes, comme les{0xBE00}[0x000A]Potions ou les Antidotes.
+Tu sais combien certaines capacités peuvent troubler[0x000A]un Pokémon[0xE07F]?{0xBE01}[0x000A]Un Pokémon confus peut parfois se blesser lui-même[0x000A]sans le vouloir.{0xBE01}[0x000A]Mais après le combat, il retrouve ses esprits.
+Un Pokémon qui tient une Baie se soignera lui-même…{0xBE01}[0x000A]Il existe de nombreuses sortes d’objets qu’un Pokémon[0x000A]peut tenir…{0xBE01}[0x000A]C’est pas facile de tout noter sur son cahier…
+C’est le carnet de cet élève…{0xBE01}[0x000A]«[0xE07F]On attrape les Pokémon avec des Poké Balls.[0x000A]Jusqu’à six Pokémon peuvent accompagner un Dresseur.{0xBE01}[0x000A]Un Dresseur est une personne qui attrape des Pokémon,[0x000A]les élève et les fait combattre.{0xBE01}[0x000A]L’objectif des Dresseurs est de vaincre les autres[0x000A]Dresseurs et les Champions qui les attendent dans{0xBE00}[0x000A]les Arènes.[0xE07F]»
+Pourquoi me regardez-vous de cette façon[0xE07F]?[0x000A]Je suis le proviseur de cet établissement[0xE07F]!{0xBE01}[0x000A]Vous voulez une preuve[0xE07F]?[0x000A]Mon savoir sera ma carte de visite[0xE07F]!
+Beaucoup de Badges peuvent être obtenus à travers[0x000A]Hoenn[0xE07F]! Voulez-vous en savoir plus[0xE07F]?
+Vous ne comprenez pas la joie que peut offrir[0x000A]un apprentissage sérieux.{0xBE01}[0x000A]Revenez quand vous l’aurez découverte[0xE07F]!
+Le Badge Roche permet de se faire obéir[0x000A]par les Pokémon jusqu’au niveau 20.
+Le Badge Poing permet de se faire obéir[0x000A]par les Pokémon jusqu’au niveau 30.
+Le Badge Dynamo permet de se faire obéir[0x000A]par les Pokémon jusqu’au niveau 40.
+Le Badge Chaleur permet de se faire obéir[0x000A]par les Pokémon jusqu’au niveau 50.
+Le Badge Balancier permet de se faire obéir[0x000A]par les Pokémon jusqu’au niveau 60.
+Le Badge Plume permet de se faire obéir[0x000A]par les Pokémon jusqu’au niveau 70.
+Le Badge Esprit permet de se faire obéir[0x000A]par les Pokémon jusqu’au niveau 80.
+Le Badge Pluie permet de se faire obéir[0x000A]par tous les Pokémon, quel que soit leur niveau.
+Allons, je suis sûr que vous voulez en savoir plus[0xE07F]!
+Badge Roche
+Badge Poing
+Badge Dynamo
+Badge Chaleur
+Badge Balancier
+Badge Plume
+Badge Esprit
+Badge Pluie
+Quitter

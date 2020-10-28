@@ -1,0 +1,14 @@
+msg_town009_kanban_01=Zinnoberinsel[0x000A]Hier glüht die Leidenschaft rot wie Feuer!
+msg_town009_kanban_02=Zinnoberinsel-Labor[0x000A]Pokémon-Forschungsinstitut
+msg_town009_kanban_03=Pokémon-Arena der Zinnoberinsel[0x000A]Arenaleiter: Pyro{0xBE00}[0x000A]Der hitzköpfige Quizmaster!
+msg_town009_door_01=Auf der Tür steht etwas in kleiner Schrift[0x000A]geschrieben:{0xBE01}[0x000A]„Frage:[0x000A]Wo befindet sich der Schlüssel zu dieser Arena?{0xBE01}[0x000A]Hinweis:[0x000A]Vielleicht in einem zugewachsenen Gebäude?“
+msg_town009_youngf_01_01=Pyro, der Arenaleiter der Zinnoberinsel, ist ein[0x000A]seltsamer Mann. Er hat hier schon gelebt, bevor{0xBE00}[0x000A]das Labor gebaut wurde.
+msg_town009_oldm_01_01=Hin und wieder sehe ich, wie Forscher in der[0x000A]Pokémon-Villa verschwinden.{0xBE01}[0x000A]Ob sie da drin etwa Experimente durchführen?
+msg_town009_poke_01={0xFF00,0x0009}Magmar:{0xFF00,0x0000} Maaa!
+msg_town009_poke_02={0xFF00,0x0009}Sterndu:{0xFF00,0x0000} Duduuu!
+msg_masaki_01_p01_field_t009={0xBDFF:0x0008}
+msg_masaki_01_p02_field_t009={0xBDFF:0x0009}
+msg_masaki_01_p03_field_t009={0xBDFF:0x000A}
+msg_masaki_01_p04_field_t009={0xBDFF:0x000B}
+msg_masaki_01_p05_field_t009={0xBDFF:0x000C}
+msg_masaki_01_p06_field_t009={0xBDFF:0x000D}

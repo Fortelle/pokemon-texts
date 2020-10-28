@@ -1,0 +1,11 @@
+main_event_0748_sister_01=えーっと[0x000A]{0x0100,0x0000}選手だっけ{0xBE00}[0x000A]おそくまで　がんばっとーねー{0x0114,0x000D}
+main_event_0748_sister_02=そうだ　あんた[0x000A]ちょいと　つきあってよ{0xBE01}[0x000A]あたしが　ジムチャレンジで[0x000A]勝てるか　試しておきたいし{0x0114,0x000D}
+main_event_0748_select_01=わかったよ
+main_event_0748_select_02=ええ……
+main_event_0748_sister_07=ちょっと　待ちなって！{0x0114,0x000D}
+main_event_0748_sister_08=部屋に　戻る　前に[0x000A]ポケモン勝負　しなさいって！{0x0114,0x000D}
+main_event_0748_sister_03=おお！　やる気　やなあ！{0x0114,0x000D}
+main_event_0748_sister_04=おい！　やる気　だしなよ{0x0114,0x000D}
+main_event_0748_sister_05={0xBDFF:0x0008}
+main_event_0748_sister_06=明日に　備えて　寝るか[0x000A]じゃあ　あんたも　おやすみ……{0x0114,0x000D}
+main_event_0748_poke1_01=うらら！{0x0114,0x0070}

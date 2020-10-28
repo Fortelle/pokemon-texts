@@ -1,0 +1,14 @@
+msg_main8030_grass_01=Hallo...[0x000A]Ist das Wetter nicht einfach herrlich?
+msg_main8030_grass_06=Hach, tut das gut...[0x000A]Einfach mal die Seele baumeln lass--{0xBE01}[0x000A]Zzz...
+msg_main8030_grass_07=Du meine Güte...[0x000A]Ich muss kurz eingenickt sein.
+msg_main8030_grass_08=Willkommen.{0xBE01}[0x000A]Ich bin Erika, die Arenaleiterin von[0x000A]Prismania City.
+msg_main8030_grass_09=Meine große Leidenschaft sind Blumengestecke.{0xBE01}[0x000A]Da liegt es auf der Hand, dass ich mich voll und[0x000A]ganz dem Training von Pflanzen-Pokémon{0xBE00}[0x000A]verschrieben habe.
+msg_main8030_grass_10=Wie bitte? Ach, du möchtest gegen mich[0x000A]antreten?
+msg_main8030_grass_11=So sei es.{0xBE01}[0x000A]Ich werde dir zeigen, aus welchem Holz meine[0x000A]Pokémon geschnitzt sind!
+msg_gymleader_04_02={0xBDFF:0x0007}
+msg_main8030_grass_02=Wie es aussieht, werde ich dir den Farborden[0x000A]überreichen müssen.
+msg_main8030_sys_01=Du erhältst den {0xFF00,0x0006}Farborden{0xFF00,0x0000} von Erika!
+msg_main8030_grass_03=Jetzt, wo du im Besitz des Farbordens bist,[0x000A]werden dir alle Pokémon bis Level {0x0201,0x0004},{0xBE00}[0x000A]die du per Tausch erhalten hast, gehorchen.{0xBE01}[0x000A]Dann hätte ich da noch etwas für dich...[0x000A]Hier, bitte.
+msg_main8030_sys_02=Du erhältst {0x0109,0x0001} {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000} von Erika!
+msg_main8030_grass_04=Die TM53 enthält die Attacke Megasauger.{0xBE01}[0x000A]Bringst du sie einem Pokémon bei, erhält es die[0x000A]Hälfte der KP, die sie dem Gegner entzieht.{0xBE01}[0x000A]Faszinierend, findest du nicht?
+msg_main8030_grass_05=Du liebe Güte...{0xBE01}[0x000A]Fängst du wirklich alle möglichen Pokémon,[0x000A]nur um sie in deinem Pokédex zu verzeichnen?{0xBE01}[0x000A]Wenn ich an deiner Stelle wäre, würde ich nur[0x000A]hübsche Pokémon sammeln.

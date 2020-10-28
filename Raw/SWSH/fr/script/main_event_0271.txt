@@ -1,0 +1,13 @@
+main_event_0271_doctor_01=Je vois que tu as trouvé un nouveau compagnon[0x000A]pour Moumouton, Nabil ?{0x0114,0x000A}
+main_event_0271_doctor_02=Et si j’ai bien tout suivi, tu dois donc être[0x000A]{0x0100,0x0000}.{0xBE01}[0x000A]Ma petite Sonya a dû te confier un Pokédex.[0x000A]Remplis-le bien scrupuleusement !{0x0114,0x000A}
+main_event_0271_champion_01={0x0100,0x0000}, tu connais le Dynamax ?{0x0114,0x0004}
+main_event_0271_champion_02=La Professeure Magnolia étudie ce phénomène.{0xBE01}[0x000A]Il va falloir que tu potasses le sujet,[0x000A]si tu veux l’utiliser en combat, toi aussi.{0x0114,0x0004}
+main_event_0271_doctor_03=Tarak, cesse donc de bassiner tout le monde[0x000A]avec tes histoires.{0xBE01}[0x000A]Il n’y a pas que les Pokémon, dans la vie ![0x000A]On pourrait parler thés, ça nous changerait.{0x0114,0x000A}
+main_event_0271_rival_01=Dites, Professeure...{0xBE01}[0x000A]Est-ce que vous voudriez bien convaincre Tarak[0x000A]de nous écrire une Lettre de Recommandation,{0xBE00}[0x000A]pour le Défi des Arènes ?{0x0114,0x0005}
+main_event_0271_doctor_04=Quoi ? Mais, comment ça ?[0x000A]Tarak, pourquoi ne veux-tu pas les recommander ?{0x0114,0x000A}
+main_event_0271_champion_04=Nabil et {0x0100,0x0000} ne sont encore que[0x000A]des enfants, ils ne connaissent rien aux Pokémon.{0xBE00}[0x000A]Ils sont encore novices !{0x0114,0x0004}
+main_event_0271_doctor_05=Balivernes ! C’est toi qui parles tout le temps[0x000A]de faire de Galar une réserve de Super{0xBE00}[0x000A]Dresseurs. Ça ne risque pas d’arriver si tu ne fais{0xBE00}[0x000A]rien pour les aider !{0x0114,0x000A}
+main_event_0271_doctor_06=C’est... c’est pas faux... J’avais complètement[0x000A]zappé cet aspect des choses.{0xBE01}[0x000A]Après tout, si je leur ai confié un Pokémon[0x000A]chacun, c’est pour qu’ils s’entraînent.{0x0114,0x0004}
+main_event_0271_champion_05=Bon, c’est décidé ! Si vous voulez que je vous[0x000A]recommande, les minus, il va falloir assurer !{0xBE01}[0x000A]Montrez-moi que vous en avez dans le ventre ![0x000A]Je vous soigne vos Pokémon, et c’est parti !{0x0114,0x0004}
+main_event_0271_rival_02=Trop bien ![0x000A]Je t’attends dehors, {0x0100,0x0000} !{0x0114,0x0005}
+main_event_0271_doctor_07=Les Pokémon n’aiment rien tant qu’un bon combat[0x000A]où ils peuvent tout donner. Vous apprendrez{0xBE00}[0x000A]qu’il en va sûrement de même pour vous.{0x0114,0x000A}

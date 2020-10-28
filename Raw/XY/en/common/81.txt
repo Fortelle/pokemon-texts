@@ -1,0 +1,18 @@
+Wonder Trade
+With Wonder Trade, you can quickly[0x000A]and easily trade your Pokémon with[0x000A]anyone from anywhere in the world!
+Do you want to start a Wonder Trade?
+Would you like to offer up[0x000A]{0x0102,0x0000} for a trade?
+Searching for a trade partner...[0x000A]Please wait a moment.
+We’ve found you a trade partner![0x000A]Please wait a moment.
+We could not find a trade partner for you...{0xBE01}[0x000A]Please wait a little while, and then try again!
+Ending communication.[0x000A]Please wait.
+Yes
+No
+This Pokémon cannot be offered for trade!
+{0x0202,0x0000}
+{0x0109,0x0001}
+{0x0102,0x0002}
+{0x0100,0x0004}
+Lv.
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}

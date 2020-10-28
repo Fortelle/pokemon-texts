@@ -1,0 +1,15 @@
+msg_fld_ev_spray_01=Das Schutz-Item wirkt nicht mehr!
+msg_fld_ev_spray_02=Das Schutz-Item wirkt nicht mehr![0x000A]Erneut einsetzen?
+msg_fld_ev_spray_03=Du setzt {0x1606,0x0001,0x0000}[0x000A]{0x0110,0x0001} ein.
+msg_fld_ev_bookshelf_01={0xBDFF:0x0003}
+msg_fld_ev_kowaserurock_01=Der Felsen sieht ziemlich robust aus.[0x000A]Vielleicht kann ein Pokémon ihn ja zertrümmern?
+msg_fld_ev_tv_common_01={0xBDFF:0x0005}
+msg_fld_ev_oserurock_01=Der Steinblock sieht groß und schwer aus.[0x000A]Vielleicht kann ein Pokémon ihn ja verschieben?
+msg_egg_event_01=Huch...?
+msg_ride_check_01=Willst du Tauros herbeirufen?
+msg_ride_check_02=Willst du Machomei herbeirufen?
+msg_ride_check_03=Willst du Tohaido herbeirufen?
+msg_ride_check_ng_01=Hier ist es zu eng, um ein Pokémon[0x000A]für PokéMobil zu rufen.
+msg_bicycle_01=Du kannst gerade nicht mit dem Fahrrad fahren.
+msg_bicycle_02=Du kannst gerade nicht vom Fahrrad absteigen.
+msg_fld_ev_boxfull_01=Solange deine PC-Boxen voll sind, kannst du[0x000A]dieses Gespräch nicht führen.{0xBE01}[0x000A]Versuche es später noch mal, wenn du in deinen[0x000A]Boxen mehr Platz hast!

@@ -1,0 +1,28 @@
+Pokémon Link
+Sì
+No
+Info
+Vuoi ricevere i dati del Pokémon Link?
+{0xBDFF:0x0005}
+Ricezione dati in corso.[0x000A]Non spegnere la console.
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+Impossibile trovare i dati.{0xBE01}[0x000A]Invia i dati da un software scaricabile[0x000A]per Nintendo 3DS che sia compatibile{0xBE00}[0x000A]con il Pokémon Link.{0xBE01}
+{0xBDFF:0x000B}
+Impossibile ricevere i dati.{0xBE01}[0x000A]Per ricevere i dati, devi avere almeno sei spazi[0x000A]liberi nei Box.{0xBE01}[0x000A]Riprova dopo aver riorganizzato i Box.{0xBE01}
+Trasferimento Pokémon completato.{0xBE05,0x0000}{0xBE01}
+Trasferimento strumenti completato.{0xBE05,0x0000}{0xBE01}
+I dati ricevuti sono danneggiati.{0xBE01}
+Inizializzazione dati in corso.
+I dati sono stati inizializzati.{0xBE01}[0x000A]Avvia il software scaricabile[0x000A]e invia nuovamente i dati.{0xBE01}
+Impossibile ricevere i dati.{0xBE01}[0x000A]Per ricevere i dati, devi giocare finché non[0x000A]ottieni il Pokédex.{0xBE01}
+{0xBDFF:0x0013}
+I dati di {0x0196,0x0001}[0x000A]sono stati ricevuti!{0xBE05,0x0000}{0xBE01}
+Hai inviato {0x0206,0x0001,0x002E} Pokémigli{0x1101,0x0001,0x0101}oa[0x000A]a {0x0100,0x0002}!{0xBE05,0x0000}{0xBE01}
+Hai inviato {0x0206,0x0001,0x002E} Punt{0x1101,0x0001,0x0101}oi Lotta[0x000A]a {0x0100,0x0002}!{0xBE05,0x0000}{0xBE01}
+Trasferimento Uova completato.{0xBE05,0x0000}{0xBE01}
+Trasferimento bacche completato.{0xBE05,0x0000}{0xBE01}
+{0xBDFF:0x0019}
+Tramite il Pokémon Link, puoi ricevere dati da[0x000A]un software scaricabile per Nintendo 3DS.{0xBE01}[0x000A]I Pokémon e gli strumenti ricevuti verranno[0x000A]spostati direttamente nei Box o nella Borsa.{0xBE01}
+Trasferimento Macchine Tecniche completato.{0xBE05,0x0000}{0xBE01}

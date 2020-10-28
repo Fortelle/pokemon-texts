@@ -1,0 +1,10 @@
+Es una máquina expendedora.[0x000A]¿Qué quieres tomar?
+{0x0109,0x0000} {0xBD03,0x0000}{0x0202,0x0001} $
+Nada
+No has comprado nada.
+No te caben más en la Bolsa.
+No tienes dinero suficiente.
+¡Ha salido {0x1702,0x0000}{0x0109,0x0000}!
+¿Quieres comprar alguna otra cosa?
+¡Qué suerte![0x000A]¡{0x1703,0x0000}{0x0109,0x0000} de regalo!
+Es una máquina expendedora.{0xBE01}[0x000A]Pero no le queda ninguna de tus bebidas[0x000A]favoritas.

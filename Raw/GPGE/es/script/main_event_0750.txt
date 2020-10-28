@@ -1,0 +1,9 @@
+msg_main0750_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} La madre de ese Cubone...[0x000A]¿El Team Rocket la ha...?
+msg_main0750_youngf_01={0xFF00,0x0009}Chica:{0xFF00,0x0000} Sí...{0xBE01}[0x000A]El cráneo de Marowak alcanza un alto precio[0x000A]en el mercado, y esos canallas harían cualquier{0xBE00}[0x000A]cosa por dinero...{0xBE01}[0x000A]El pobre Cubone huerfanito está removiendo[0x000A]cielo y tierra intentando encontrar a su madre...{0xBE01}[0x000A]Jamás les perdonaré lo que han hecho.
+msg_main0750_rival_02={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¡Es que es imperdonable!{0xBE01}[0x000A]Antes vi que Cubone volvía a adentrarse en la[0x000A]torre.{0xBE01}[0x000A]Voy a entrar a ver qué está pasando. E igual[0x000A]también puedo averiguar algo sobre el paradero{0xBE00}[0x000A]del Sr. Fuji.
+msg_main0750_youngf_02={0xFF00,0x0009}Chica:{0xFF00,0x0000} Muchísimas gracias. Ten mucho cuidado.
+msg_main0750_rival_03={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Me dan escalofríos solo de[0x000A]pensar en los fantasmas de la torre, pero...{0xBE01}[0x000A]¡No queda otra, allá voy!
+msg_main0750_rival_04={0xBDFF:0x0005}
+msg_main0750_rival_05={0xBDFF:0x0006}
+msg_main0750_rival_06={0xBDFF:0x0007}
+msg_main0750_rival_07={0xBDFF:0x0008}

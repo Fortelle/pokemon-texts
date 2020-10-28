@@ -1,0 +1,9 @@
+msg_main0890_musasi_01={0xFF00,0x0009}Jessie :{0xFF00,0x0000} Tu vas nous laisser passer, oui ?!
+msg_main0890_rocketm_01={0xFF00,0x0009}Sbire : {0xFF00,0x0000}Nan ! Y’a que les gens qu’ont un[0x000A]laissez-passer qui peuvent entrer !
+msg_main0890_kojiro_01={0xFF00,0x0009}James : {0xFF00,0x0000}Allez, quoi, laisse-nous passer !
+msg_main0890_musasi_02={0xFF00,0x0009}Jessie :{0xFF00,0x0000} Je vais t’en donner, du laissez-passer ![0x000A]Et mon pied au derrière, ça t’irait ?!
+msg_main0890_musasi_03=T’es bouché ou quoi ?[0x000A]Dé-ga-ge !
+msg_main0890_kojiro_02={0xFF00,0x0009}James :{0xFF00,0x0000} Bah ?!{0xFF00,0x0009} {0xFF00,0x0000}Jessie ! Attends-moi, au moins !
+msg_main0890_stop_01=Moi... J’suis un garde.{0xBE01}[0x000A]Les nabots super louches, j’les laisse pas passer !
+msg_main0890_stop_02=*Eurg*
+msg_main0890_stop_03=Il semble avoir perdu connaissance...

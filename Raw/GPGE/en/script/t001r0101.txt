@@ -1,0 +1,9 @@
+msg_t001r0101_mother_01=MOM: Off you go to Professor Oak’s lab!{0xBE01}[0x000A]{0x0100,0x0001} asked the professor to give[0x000A]the two of you Pokémon of your own, didn’t he?
+msg_t001r0101_mother_02=MOM: Off you go to Professor Oak’s lab!{0xBE01}[0x000A]{0x0100,0x0001} asked the professor to give[0x000A]the two of you Pokémon of your own, didn’t he?
+msg_t001r0101_mother_03=MOM: Why, look at you, {0x0100,0x0000}![0x000A]I think you need a little rest.
+msg_t001r0101_mother_04=MOM: Now that’s much better![0x000A]You and your Pokémon look full of energy!
+msg_t001r0101_mother_05=MOM: It looks like you’re having fun on your[0x000A]journey with your Pokémon, {0x0100,0x0000}!
+msg_t001r0101_mother_06={0xBDFF:0x0005}
+msg_t001r0101_tv_01=They are showing a movie on TV.{0xBE01}[0x000A]The scene is showing four boys walking down[0x000A]a set of railroad tracks...{0xBE01}[0x000A]But it’s time you got going!
+msg_t001r0101_tv_02=They are showing a movie on TV.{0xBE01}[0x000A]The scene is showing a girl with her hair in[0x000A]pigtails walking up a brick road...{0xBE01}[0x000A]But it’s time you got going!
+msg_t001r0101_tv_03=Oops, wrong side...

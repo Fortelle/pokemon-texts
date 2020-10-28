@@ -1,0 +1,135 @@
+Communication en cours...[0x000A]Veuillez patienter.
+Choisissez la personne qui décidera des règles.
+Sélection de la personne qui décidera[0x000A]des règles.{0xBE01}[0x000A]Si vous affrontez un adversaire qui joue à[0x000A]Pokémon Soleil ou Pokémon Lune, veuillez{0xBE00}[0x000A]sélectionner «[0xE07F]Décider soi-même[0xE07F]».{0xBE01}
+Sélection de la personne qui décidera[0x000A]des règles et de la répartition des équipes{0xBE00}[0x000A]en Combat Multi.{0xBE01}[0x000A]Si l’un des participants joue à Pokémon Soleil ou[0x000A]Pokémon Lune, veuillez sélectionner «[0xE07F]Décider{0xBE00}[0x000A]soi-même[0xE07F]».{0xBE01}
+Sélection de la personne qui décidera des[0x000A]règles en cours. Veuillez patienter.
+Choisissez les règles de combat.{0xBE01}
+Envoi des données des règles en cours...[0x000A]Veuillez patienter.
+Les données des règles envoyées sont[0x000A]corrompues.{0xBE01}[0x000A]Veuillez reprendre la sélection depuis le début.{0xBE01}
+Un problème a été détecté dans les données[0x000A]des règles envoyées.{0xBE01}[0x000A]Veuillez reprendre la sélection depuis le début.{0xBE01}
+Un problème a été détecté dans les données[0x000A]des règles reçues.{0xBE01}[0x000A]Retour à la sélection.{0xBE01}
+Les données des règles reçues sont[0x000A]corrompues.{0xBE01}[0x000A]Retour à la sélection.{0xBE01}
+Au moins une personne ne peut participer[0x000A]à ce combat avec les règles actuelles.{0xBE01}[0x000A]Retour à la sélection.{0xBE01}
+Retour à la sélection des règles.{0xBE01}
+En attente d’autres joueurs...[0x000A]Veuillez patienter.
+{0xBDFF:0x000E}
+Veuillez sélectionner les équipes.{0xBE01}
+Sélection des équipes en cours...[0x000A]Veuillez patienter.
+Qui sera en position {0x0200,0x0000}[0xE07F]?
+Choisissez les Pokémon participants.
+Voulez-vous continuer à jouer[0xE07F]?
+Vous avez décidé d’abandonner le combat.
+En attente d’une réponse de votre partenaire.
+Début d’un autre combat avec des règles[0x000A]différentes.
+Quelqu’un a décidé de quitter la partie.{0xBE01}
+Début d’un autre combat avec des règles[0x000A]différentes.
+Début d’un autre combat avec les mêmes[0x000A]règles.
+Voulez-vous sélectionner des règles de combat[0x000A]différentes[0xE07F]?
+Envoi de votre réponse : vous ne souhaitez pas[0x000A]combattre en suivant ces règles.
+{0xBDFF:0x001C}
+Voulez-vous annuler le combat[0xE07F]?
+Fin de la communication...
+Un participant a mis fin à la communication.[0x000A]Fin du combat.{0xBE01}
+Si vous ne pouvez pas participer à un combat[0x000A]avec les règles actuelles, sélectionnez l’option{0xBE00}[0x000A]Participation impossible.{0xBE01}
+Choisissez qui va décider des règles.[0x000A]
+Voulez-vous laisser un autre joueur décider[0x000A]des règles[0xE07F]?
+{0x0100,0x0000} est en train de décider[0x000A]des règles.
+{0x0100,0x0000} a refusé de décider des règles.
+Sélectionnez votre équipe, puis commencez[0x000A]le combat.
+{0xBDFF:0x0026}
+Un problème a été détecté dans l’Équipe[0x000A]Combat sélectionnée.
+Veuillez vérifier vos Pokémon et recommencer[0x000A]la sélection.
+Vous ne pouvez pas affronter l’Équipe Combat[0x000A]de votre adversaire car il vous manque{0xBE00}[0x000A]les dernières données additionnelles.{0xBE01}[0x000A]Votre adversaire va recommencer la sélection[0x000A]de son équipe.{0xBE01}
+Un problème a été détecté dans l’Équipe[0x000A]Combat de votre adversaire.
+Décider soi-même
+Laisser un adversaire décider
+Jouer avec des règles différentes
+Jouer avec les mêmes règles
+{0xBDFF:0x002F}
+{0xBDFF:0x0030}
+{0xBDFF:0x0031}
+Que le combat commence[0xE07F]!
+Équipe participante :
+{0x0122,0x0000}
+Participation impossible
+{0xFF00,0x0001}Non sélectionnée{0xFF00,0x0000}
+Équipe A (1)
+Équipe A (2)
+Équipe B (1)
+Équipe B (2)
+---
+{0x0100,0x0000}
+Confirmer les équipes
+Oui
+Non
+{0x0100,0x0000}
+Sélection automatique
+Retour
+Nouvelle sélection
+Confirmer
+{0x0100,0x0000}
+Sélection en cours...
+Terminé[0xE07F]!
+{0xBDFF:0x0048}
+{0xBDFF:0x0049}
+1
+2
+3
+4
+{0xBDFF:0x004E}
+---
+{0xBDFF:0x0050}
+Combat Solo
+Combat Duo
+Combat Multi
+Bataille Royale
+Règles normales
+Règles strictes
+Sans restrictions
+♪ Dresseur Pokémon (2)
+♪ Pokémon sauvage (2)
+♪ Pokémon Dominant
+♪ Doyen/Doyenne
+♪ Tili
+♪ VS Gladio
+♪ Team Skull
+♪ Admin Team Skull
+♪ Boss Team Skull
+♪ Fondation Æther
+♪ Elsa-Mina
+♪ Elsa-Mina (2)
+♪ Ultra-Chimère
+♪ VS Conseil 4
+♪ Défense du titre de Maître
+♪ Pokémon légendaire
+♪ Bataille Royale
+♪ Gardien de l’île
+♪ Dresseur de légende
+♪ Team Rainbow Rocket
+♪ Giovanni
+♪ Max et Arthur
+♪ Hélio
+♪ Ghetis
+♪ Boss Team Flare
+♪ Ultra-Commando
+♪ Necrozma
+♪ Necrozma (2)
+♪ Mewtwo
+♪ Pokémon de Kanto
+♪ Pokémon de Hoenn
+♪ Légende de Hoenn (2)
+♪ Légende de Hoenn
+♪ Ho-Oh
+♪ Lugia
+♪ Légende de Johto
+♪ Légende de Sinnoh (2)
+♪ Légende de Sinnoh (3)
+♪ Légende de Sinnoh
+♪ Giratina
+♪ Légende d’Unys
+♪ Légende d’Unys (2)
+♪ Légende de Kalos
+♪ Dresseur Pokémon
+♪ Pokémon sauvage
+♪ Tili (2)
+{0xBDFF:0x0086}

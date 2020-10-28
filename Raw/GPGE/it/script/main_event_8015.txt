@@ -1,0 +1,4 @@
+msg_main8015_gym_01=Ehi![0x000A]Aspirante Campione{0x1100,0x00FF,0x0300}ssa!{0xBE01}[0x000A]Misty, la Capopalestra di Celestopoli,[0x000A]è un’Allenatrice davvero tosta!{0xBE01}[0x000A]Accetterà la tua sfida solo se hai almeno[0x000A]un Pokémon di {0xFF00,0x0006}livello 15 o superiore{0xFF00,0x0000}!
+msg_main8015_gym_02=Mostrami un Pokémon di {0xFF00,0x0006}livello 15 o superiore{0xFF00,0x0000}[0x000A]e potrai entrare!
+msg_main8015_gym_03=...{0xBE01}[0x000A]Perfetto!{0xBE01}[0x000A]Vedo che hai almeno un Pokémon[0x000A]di{0xFF00,0x0006} livello 15 o superiore{0xFF00,0x0000}!{0xBE05,0x0004}{0xBE05,0x0001}{0xBE01}[0x000A]Beh, che aspetti, allora? Forza, vai![0x000A]Metticela tutta!
+msg_main8015_gym_04=...{0xBE01}[0x000A]Non vedo nessun Pokémon di livello 15[0x000A]o superiore...{0xBE05,0x0005}{0xBE05,0x0000}{0xBE01}[0x000A]Torna quando ne avrai uno! La Palestra[0x000A]di Celestopoli è sempre aperta!

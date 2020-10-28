@@ -1,0 +1,61 @@
+No Battle Videos have been recorded yet.[0x000A][0x000A]You can record a Battle Video in a Link Battle[0x000A]as well as in other types of battles.
+Do you want to delete this Battle Video?
+Deleting the Battle Video...[0x000A]Don’t turn off the power.
+The Battle Video has been deleted.
+Checking the server...[0x000A]Don’t turn off the power.
+Do you want to remove this Battle Video from[0x000A]public view?
+The Battle Video has been removed from[0x000A]public view.
+The Battle Video couldn’t be found.
+This Battle Video can’t be played.
+After you make a Battle Video public, you[0x000A]won’t be able to withdraw it until the next day.{0xBE01}[0x000A]Do you want to make this Battle Video public[0x000A]on the Internet?
+The Battle Video has been made public on[0x000A]the Internet.
+This Battle Video cannot be made public.
+Have a mock battle with which Trainer?
+Have a mock battle with which Pokémon?
+You don’t have enough Pokémon for a[0x000A]mock battle!
+Do you want to start a mock battle?
+Sending the Battle Video...[0x000A]Don’t turn off the power.
+Removing it from public viewing...[0x000A]Don’t turn off the power.
+Please choose a Battle Video you want to[0x000A]make public.
+Preparing to play the Battle Video...
+This Battle Video can’t be withdrawn[0x000A]until tomorrow.
+A mock battle is not available for a Battle[0x000A]Video of a Multi Battle.
+Thank you for using the Vs. Recorder.{0xBE01}[0x000A]Connect to the Internet via the PSS[0x000A]and use the Vs. Recorder, and you can{0xBE00}[0x000A]upload the Battle Video you recorded.{0xBE01}[0x000A]Tell your friends the code of your uploaded[0x000A]Battle Video, and they can download the{0xBE00}[0x000A]Battle Video from the Internet and watch it.{0xBE01}[0x000A]Have fun using the Vs. Recorder and[0x000A]sharing Battle Videos!
+Searching for the Battle Video...
+Played:
+{0xBDFF:0x0019}
+Checking the SD Card.[0x000A]Please don’t turn off the power.
+Corrupted Battle Videos have been deleted.
+Search by code
+{0x0202,0x0000}/{0x0202,0x0001}
+{0xBDFF:0x001E}
+In Party
+Battle Box
+Quit
+{0x0100,0x0000}
+Registered
+{0x0201,0x0001}/{0x0201,0x0002}/{0x0203,0x0000,0x0000}
+Played:
+{0x0206,0x0000,0x002C}
+No. {0x0203,0x0000,0x002C}
+
+Inverse Battle
+Single Battle
+Double Battle
+Triple Battle
+Rotation Battle
+Multi Battle
+{0xBDFF:0x002F}
+Link Battle
+Battle Maison
+Super Single Battle
+Super Double Battle
+Super Triple Battle
+Super Rotation Battle
+Super Multi Battle
+Battle Spot
+Free Battle
+Rating Battle
+Special Battle
+Communication error.[0x000A]Please start again from the beginning.
+{0xBDFF:0x003C}

@@ -1,0 +1,9 @@
+msg_main1230_green_01={0xFF00,0x0009}Blue :{0xFF00,0x0000} Bravo, bien joué ![0x000A]Mais je dois dire, je suis soufflé.
+msg_main1230_green_02=J’imaginais pas qu’une telle crapule puisse[0x000A]se planquer dans une Arène !{0xBE00}[0x000A]C’est grave, si on en est arrivés là...{0xBE01}[0x000A]Ouais, pas le choix. C’est encore une mission[0x000A]pour Super Blue, à ce que je vois.
+msg_main1230_green_03=Je tiens à ma liberté, tu vois.[0x000A]J’ai une âme rebelle, je ne tiens pas en place...{0xBE01}[0x000A]J’ai toujours hésité à devenir Champion pour ça.[0x000A]Ça me disait pas trop de me retrouver enchaîné{0xBE00}[0x000A]à une Arène.{0xBE01}[0x000A]Mais quand il faut, il faut !{0xBE01}[0x000A]À compter d’aujourd’hui, je serai le Champion[0x000A]de cette Arène !
+msg_main1230_select_01=Bien dit !
+msg_main1230_select_02=Un petit combat, pour fêter ça ?
+msg_main1230_green_04=Ouais, t’as vu ?{0xBE01}[0x000A]Peuple de Kanto, grâce à moi tu pourras dormir[0x000A]sur tes deux oreilles, ce soir !{0xBE00}[0x000A]Le grand Blue est là pour veiller au grain !{0xBE00}[0x000A]Bref...
+msg_main1230_green_05=En soi, je veux bien... Mais t’as pas mieux à faire,[0x000A]l{0x1100,0x00FF,0x0706}e naina naine ?
+msg_main1230_green_06=La {0xFF00,0x0006}Ligue Pokémon{0xFF00,0x0000} t’attend !{0xBE01}[0x000A]Tu peux pas la rater : tu prends tout de suite[0x000A]à gauche et c’est au bout de la Route 22.{0xBE01}[0x000A]Fais gaffe au Conseil 4, ils sont redoutables.[0x000A]T’as pas intérêt à perdre et à me faire honte.
+msg_main1230_green_07={0xFF00,0x0009}Blue :{0xFF00,0x0000} Je me demande qui sera mon premier[0x000A]challenger.{0xBE01}[0x000A]{0x0100,0x0001}, je parie ![0x000A]Je vais lui apprendre la vie, à ce nabot.

@@ -1,0 +1,11 @@
+msg_r0501_i0101_npc_01=Oh...! Benvenut{0x1100,0x00FF,0x0101}oa![0x000A]Posso aiutarti con qualche spiegazione?
+msg_r0501_i0101_npc_02=C’è altro che vuoi sapere?
+msg_r0501_i0101_npc_03=Qui all’Ostello Pokémon ci prendiamo cura[0x000A]dei Pokémon che ci affidano gli Allenatori.{0xBE01}[0x000A]I Pokémon non diventano più forti durante la[0x000A]loro permanenza all’ostello, ma quando ce ne{0xBE00}[0x000A]lasciano due a volte ci capita di trovare un Uovo.{0xBE01}[0x000A]Se vuoi affidarci dei Pokémon, parla con mia[0x000A]nipote. La troverai qui fuori.
+msg_r0501_i0101_npc_04=Se metti in squadra un Uovo, dopo un po’[0x000A]si schiuderà e nascerà un Pokémon.{0xBE01}[0x000A]Le Uova di Pokémon sono un vero mistero...[0x000A]Non si sa da dove vengono, ma racchiudono{0xBE00}[0x000A]in sé il segreto della vita!
+msg_r0501_i0101_npc_05=Se vuoi trovare un Uovo, scegli con attenzione[0x000A]i Pokémon che ci affidi!{0xBE01}[0x000A]Se scegli due Pokémon della stessa specie e[0x000A]di sesso opposto, il risultato è assicurato.{0xBE01}[0x000A]Anche con Pokémon di specie simili non è[0x000A]impossibile trovare un Uovo!{0xBE01}[0x000A]Con alcuni Pokémon, però, non c’è nulla da fare:[0x000A]sembra che non ne siano mai state trovate Uova.
+msg_r0501_i0101_npc_06=Torna a trovarci!
+msg_r0501_i0101_npc_choices_01=Parlami dell’Ostello Pokémon
+msg_r0501_i0101_npc_choices_02=Parlami delle Uova di Pokémon
+msg_r0501_i0101_npc_choices_03=Parlami dei Pokémon da affidare
+msg_r0501_i0101_npc_choices_04=No, grazie
+msg_r0501_i0101_bookshelf_01={0xBDFF:0x000A}

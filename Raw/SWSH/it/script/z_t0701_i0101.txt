@@ -1,0 +1,12 @@
+msg_t0701_i0101_poke1_01_pop=Cen-cen-cen!
+msg_t0701_i0101_npc1_01=Ehilà, benvenut{0x1100,0x00FF,0x0101}oa al ristorante di Gustavo!{0xBE01}[0x000A]È con gran gusto che ci prenderemo cura delle[0x000A]tue papille gustative!
+msg_t0701_i0101_npc2_01=Bello quell’arazzo, vero? L’ho comprato[0x000A]a un mercatino dell’antiquariato!
+msg_t0701_i0101_npc3_01=Mangiare è fondamentale, non dimenticarlo mai![0x000A]D’altronde, mica si può lottare a pancia vuota!
+msg_t0701_i0101_npc4_01=Questo ristorante è un po’ fuori mano, ma[0x000A]il cibo è così buono che non mi dispiace affatto{0xBE00}[0x000A]venire fin qua!
+msg_t0701_i0101_npc5_01=Non voglio parlare di lavoro mentre mangio...[0x000A]Se no mi rovino il pranzo!
+msg_t0701_i0101_npc6_01=Il mio piatto è grigliato alla perfezione...[0x000A]È succulento, saporito, e ha la giusta consistenza!{0xBE00}[0x000A]Devo fare assolutamente i complimenti al Cuoco!
+msg_t0701_i0101_npc7_01=Adoro guardare il mio bambino mentre mangia.[0x000A]Ha sempre un’aria così contenta...!
+msg_t0701_i0101_npc8_01=Che piatti deliziosi! Mi piacerebbe cucinarli[0x000A]a casa mia e farli assaggiare ai miei Pokémon...
+msg_t0701_i0101_bg1_01=Questo arazzo raffigura i due eroi che hanno[0x000A]perduto la spada e lo scudo...
+msg_t0701_i0101_bg1_02=Un arazzo dall’aria stranamente familiare.
+msg_t0701_i0101_bg2_01=È il ritratto di Gustavo, il proprietario![0x000A]Il volto di un uomo che ama la griglia alla follia.

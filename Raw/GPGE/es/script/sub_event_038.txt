@@ -1,0 +1,8 @@
+msg_sub038_adultm_01=No se me da demasiado bien entrenar Pokémon.[0x000A]De hecho, mira qué débil es este Charmander.{0xBE01}[0x000A]Prefiero que lo cuide alguien con madera de[0x000A]Entrenador, porque lo que es yo...
+msg_sub038_adultm_05=Por lo visto, has logrado atrapar un total de[0x000A]{0x0208,0x0000,0x202F} Pokémon hasta el momento.
+msg_sub038_adultm_06=¡Así se hace! Me gustaría que te encargaras de[0x000A]este Charmander, si te parece bien.
+msg_sub038_adultm_02=Estupendo. ¡Cuida bien de él!
+msg_sub038_adultm_07=He logrado atrapar un total de {0x0202,0x0000} Pokémon.{0xBE01}[0x000A]Para confiarte a este Charmander tienes que[0x000A]haber capturado al menos tantos como yo.
+msg_sub038_adultm_03=¿En serio? Supongo que entonces lo enviaré al[0x000A]profesor...
+msg_sub038_adultm_04=¿Qué tal le va a Charmander?
+msg_sub038_poke_01={0xFF00,0x0009}Charmander:{0xFF00,0x0000} ¡Char, char!

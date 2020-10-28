@@ -1,0 +1,13 @@
+main_event_1490_rival_01=Der Empfang ist gleich hier.{0x0114,0x0005}
+main_event_1490_rival_02=Ich war der allererste Challenger, der sich[0x000A]angemeldet hat! Ist das nicht cool?{0xBE01}[0x000A]Aber ich bin nicht nur der Allererste, sondern[0x000A]auch der Allerbeste, hab ich recht? Hehe...{0x0114,0x0005}
+main_event_1490_staff_01=Du bist Challenger {0x0100,0x0000}, richtig?[0x000A]Wir haben deine Kämpfe mit Spannung verfolgt!{0xBE01}[0x000A]Gemäß den Regeln muss ich aber trotzdem[0x000A]überprüfen, ob alle Orden in deinem Besitz sind.
+main_event_1490_staff_02={0xBDFF:0x0003}
+main_event_1490_staff_03={0xBDFF:0x0004}
+main_event_1490_staff_04={0xBDFF:0x0005}
+main_event_1490_staff_05={0xBDFF:0x0006}
+main_event_1490_rival_03=Ich bin so was von bereit, endlich vor allen[0x000A]Leuten gegen dich zu kämpfen!{0x0114,0x0005}
+main_event_1490_rival_04={0xBDFF:0x0008}
+main_event_1490__rival_05=Betys wurde ja letzten Endes disqualifiziert...{0xBE01}[0x000A]Aber irgendwie hab ich das Gefühl, dass wir ihn[0x000A]noch nicht zum letzten Mal gesehen haben.{0x0114,0x0005}
+main_event_1490__rival_06=Wie auch immer. Komm, {0x0100,0x0000},[0x000A]lass uns in den Wartebereich gehen.{0x0114,0x0005}
+main_event_1490_sister_01=Endlich ist es so weit...{0xBE01}[0x000A]Die Arena-Challenge war hart, aber wir vier[0x000A]haben uns bis zum Vorturnier durchgebissen.{0xBE01}[0x000A]Den Sieg werde jedoch ich nach Hause tragen![0x000A]Ich werde gegen den Champ kämpfen!{0x0114,0x000D}
+main_event_1490_poke1_01=Peko!

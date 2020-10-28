@@ -1,0 +1,85 @@
+Lecture de la carte SD en cours...[0x000A]Veuillez patienter.
+Espace libre insuffisant sur la carte SD.[0x000A]Supprimez des données pour libérer de l’espace.{0xBE01}
+Espace sur l’appareil photo Nintendo 3DS[0x000A]insuffisant.{0xBE00}[0x000A]Impossible de sauvegarder d’autres photos.{0xBE01}[0x000A]Supprimez des photos sur votre carte SD[0x000A]pour libérer de l’espace.{0xBE01}
+Une erreur s’est produite sur l’appareil photo[0x000A]Nintendo 3DS.{0xBE01}
+Des données sur votre carte SD étaient[0x000A]corrompues et ont été supprimées.{0xBE01}
+Espace libre insuffisant sur la carte SD.{0xBE01}[0x000A]Supprimez des données sur la carte SD de[0x000A]votre Nintendo 3DS pour libérer de l’espace.{0xBE01}
+Vous pouvez encore sauvegarder {0x0200,0x0000} photo{0x1101,0x0000,0x0100}s[0x000A]supplémentaire{0x1101,0x0000,0x0100}s au Studio Photo d’Alola.{0xBE01}
+Vous ne pouvez sauvegarder davantage[0x000A]de photos dans «[0xE07F]Mon Album[0xE07F]».{0xBE01}[0x000A]Libérez de l’espace en supprimant les photos[0x000A]dont vous n’avez pas besoin.{0xBE01}
+Sauvegarde sur la carte SD en cours...[0x000A]N’éteignez pas votre console.
+Les photos sélectionnées vont être supprimées.[0x000A]Continuer[0xE07F]?
+Espace sur l’appareil photo Nintendo 3DS[0x000A]insuffisant.{0xBE00}[0x000A]Impossible de sauvegarder d’autres photos.{0xBE01}[0x000A]Supprimez des photos sur votre Nintendo 3DS[0x000A]ou dans «[0xE07F]Mon Album[0xE07F]» pour libérer de l’espace.{0xBE01}
+Espace libre insuffisant sur la carte SD.{0xBE01}[0x000A]Quittez le jeu puis supprimez des données[0x000A]sur votre carte SD pour libérer de l’espace.{0xBE01}
+Les données ont été sauvegardées sur la carte[0x000A]SD.{0xBE01}
+Suppression des photos en cours...[0x000A]N’éteignez pas votre console.
+Photos supprimées.{0xBE01}
+Cette photo fait maintenant partie de vos[0x000A]Favoris.{0xBE01}
+Cette photo ne fait plus partie de vos Favoris.{0xBE01}
+Sélectionnez une ou plusieurs photos.{0xBE01}
+{0xBDFF:0x0012}
+Mise à jour de la carte SD en cours...[0x000A]N’éteignez pas votre console.
+La carte SD a été mise à jour.{0xBE01}
+{0x0101,0x0000}
+{0x0201,0x0002}/{0x0201,0x0001}/{0x0203,0x0000,0x0000}
+{0x0202,0x0000}
+/
+Supprimer
+Pour affiner la recherche, sélectionnez des critères[0x000A]et touchez Rechercher.
+Ordre
+Pokémon
+Autocollant
+Favoris
+Modèle
+Arrière-plan
+Photo partagée
+Photos anciennes en 1[0xE08A]
+Photos récentes en 1[0xE08A]
+Ordre du Pokédex
+-
+{0x0101,0x0000}
+Non
+Oui
+Pokémon seul
+Pokémon et Dresseur
+Arrière-plan 1
+Arrière-plan 2
+Arrière-plan 3
+Arrière-plan 4
+Arrière-plan 5
+Arrière-plan 6
+Arrière-plan 7
+Arrière-plan 8
+Confirmer
+Réinitial.
+Choisissez l’ordre d’affichage des photos.
+Choisissez la première lettre du nom[0x000A]du Pokémon.
+Choisissez un Pokémon.
+Rechercher des photos personnalisées[0xE07F]?
+Rechercher des photos parmi vos Favoris[0xE07F]?
+Choisissez le style de photo.
+Choisissez l’arrière-plan.
+Rechercher des photos partagées[0xE07F]?
+Ajouter un autocollant
+Supprimer
+Ajouter aux Favoris
+Enlever des Favoris
+Retour
+Oui
+Non
+Choisissez l’action à effectuer pour cette photo.
+Partager
+Ne pas partager
+La photo sera partagée avec tous les joueurs.{0xBE01}
+La photo ne sera pas partagée.{0xBE01}
+Vous ne pouvez pas supprimer une photo[0x000A]partagée ou ajoutée à vos Favoris.{0xBE01}
+Vous partagez actuellement une autre photo.[0x000A]Voulez-vous partager cette photo à sa place[0xE07F]?
+Vous êtes sur le point de partager une photo[0x000A]avec tous les joueurs. Continuer[0xE07F]?
+Au Studio Photo d’Alola, vous pouvez partager[0x000A]les photos que vous avez sauvegardées.[0x000A][0x000A]Vous pouvez aussi personnaliser vos photos[0x000A]avec des autocollants, puis les partager avec[0x000A]les joueurs que vous rencontrez sur la[0x000A]Place Festival.
+Pour personnaliser une photo, sélectionnez[0x000A]Ajouter un autocollant.[0x000A][0x000A]Pour montrer une photo à tous les joueurs,[0x000A]touchez Partager.
+Dummy
+Dummy
+Dummy
+Rechercher
+Action impossible.[0x000A]Cette photo a déjà été personnalisée.{0xBE01}
+Dummy
+Dummy

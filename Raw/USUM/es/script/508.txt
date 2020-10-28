@@ -1,0 +1,26 @@
+¡Bienvenid{0x1100,0x00FF,0x0101}oa al Embarcadero de Melemele!
+¡Bienvenid{0x1100,0x00FF,0x0101}oa al Embarcadero de Akala!
+¡Bienvenid{0x1100,0x00FF,0x0101}oa al Embarcadero de Ula-Ula!
+Desde aquí zarpa el ferry para salir de la Aldea[0x000A]Marina.
+Desde aquí zarpa el ferry para salir del Paraíso[0x000A]Æther.
+¿Adónde te diriges hoy?
+¿A Ciudad Hauoli, en la isla de Melemele?
+¿A Ciudad Kantai, en la isla de Akala?
+¿A Ciudad Malíe, en la isla de Ula-Ula?
+¿A la Aldea Marina, en la isla de Poni?
+¿Al Paraíso Æther?
+El ferry está listo para zarpar.[0x000A]¡Buen viaje!
+Esperamos darte la bienvenida a bordo la[0x000A]próxima ocasión.
+En estos momentos, el servicio está suspendido[0x000A]debido a labores de mantenimiento. Lamentamos{0xBE00}[0x000A]las molestias.
+¡Venga, rumbo al Paraíso Æther! ¿Estás[0x000A]preparad{0x1100,0x00FF,0x0101}oa?{0x0114,0x0013}
+Bien. ¡Vamos!{0x0114,0x0013}
+Vale. Te espero.{0x0114,0x0013}
+Parece que hay cierta tensión en el ambiente...[0x000A]¿Quieres volver a Malíe?
+De acuerdo. Subid a bordo, entonces.[0x000A]Zarparemos inmediatamente.
+De acuerdo. Avísame cuando quieras partir.
+Ciudad Hauoli
+Ciudad Kantai
+Ciudad Malíe
+Aldea Marina
+Paraíso Æther
+Me quedo aquí

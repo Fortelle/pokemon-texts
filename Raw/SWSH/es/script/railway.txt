@@ -1,0 +1,11 @@
+msg_railway_01=¿A qué estación quieres ir?
+msg_railway_select_01=Estación de Par
+msg_railway_select_02=Estación de Par
+msg_railway_select_03=Estación del Área Silvestre
+msg_railway_select_04=Estación de Pistón
+msg_railway_select_05=Estación de Amura
+msg_railway_select_06=Estación de Artejo
+msg_railway_select_07=Estación de Colinablanca
+msg_railway_select_08=Estación de Puntera
+msg_railway_select_09=A ninguna
+msg_railway_stop_01=Servicio suspendido temporalmente por labores[0x000A]de mantenimiento.

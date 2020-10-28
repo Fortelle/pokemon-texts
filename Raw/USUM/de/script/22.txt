@@ -1,0 +1,18 @@
+Willkommen im ID-Lotterie-Zentrum!{0xBE01}[0x000A]Hier hast du die Möglichkeit, fabelhafte Preise[0x000A]zu gewinnen, wenn die gezogene Losnummer{0xBE00}[0x000A]der ID eines deiner Pokémon entspricht!{0xBE01}[0x000A]Wie wär’s? Möchtest du dein Glück versuchen[0x000A]und ein Los ziehen?
+Dann wünsche ich dir jetzt viel Glück!
+...{0xBE02:0x000A} ...{0xBE02:0x000A} ...
+Hier haben wir das Ergebnis![0x000A]Das Los hat die Nummer {0x0204,0x0000,0x0000}!{0xBE01}[0x000A]Dann wollen wir jetzt mal sehen, ob das mit[0x000A]der ID eines deiner Pokémon übereinstimmt!
+Herzlichen Glückwunsch!{0xBE01}[0x000A]Die ID von {0x0102,0x0001} aus deinem Team[0x000A]enthält mindestens eine Übereinstimmung mit{0xBE00}[0x000A]der Losnummer!
+Herzlichen Glückwunsch!{0xBE01}[0x000A]Die ID von {0x0102,0x0001}, das du im PC[0x000A]abgelegt hast, enthält mindestens eine{0xBE00}[0x000A]Übereinstimmung mit der Losnummer!
+Unglaublich! Alle fünf Ziffern stimmen überein!{0xBE01}[0x000A]Glück ist wohl dein zweiter Vorname, was?[0x000A]Du hast das große Los gezogen:{0xBE00}[0x000A]einen Meisterball!
+Fantastisch! Vier Ziffern stimmen überein!{0xBE01}[0x000A]Dir ist das Glück aber wirklich hold, was?[0x000A]Du hast somit unseren ersten Preis gewonnen:{0xBE00}[0x000A]ein Sonderbonbon!
+Oha! Drei Ziffern stimmen überein!{0xBE01}[0x000A]So viel Glück muss man erst mal haben, was?[0x000A]Du hast somit unseren zweiten Preis gewonnen:{0xBE00}[0x000A]ein AP-Top!
+Es stimmen immerhin zwei Ziffern überein!{0xBE01}[0x000A]Glück braucht der Mensch, was?[0x000A]Du hast somit unseren dritten Preis gewonnen:{0xBE00}[0x000A]ein AP-Plus!
+Na gut, es stimmt immerhin eine Ziffer überein!{0xBE01}[0x000A]Da kann man immer noch von Glück sprechen![0x000A]Du hast somit unseren vierten Preis gewonnen:{0xBE00}[0x000A]eine Kuhmuh-Milch!
+Wie schade! Leider keine Übereinstimmungen...
+Wir freuen uns auf deinen nächsten Besuch!
+Du kannst ein Mal pro Tag ein Los ziehen.[0x000A]Komm doch morgen wieder und versuche{0xBE00}[0x000A]erneut dein Glück!
+{0xBDFF:0x000E}
+{0xFF00,0x0002}{0x0109,0x0001}{0xFF00,0x0000} erhalten!
+{0x0109,0x0001} wurde{0x1101,0x0001,0x0100}n in der[0x000A]{0xFF00,0x0002}{0x0112,0x0002}-Tasche{0xFF00,0x0000} verstaut.
+Vor der Ziehung musst du dein Spiel speichern.[0x000A]Bist du damit einverstanden?

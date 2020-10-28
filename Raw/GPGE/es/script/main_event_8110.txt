@@ -1,0 +1,12 @@
+msg_main8110_combat_01={0xFF00,0x0009}Bruno:{0xFF00,0x0000} ¡Yo soy Bruno, del Alto Mando!
+msg_main8110_combat_05=Con un riguroso entrenamiento, la gente y los[0x000A]Pokémon pueden fortalecerse.
+msg_main8110_combat_06=Mis Pokémon y yo hemos vivido y entrenado[0x000A]siempre juntos. ¡Y eso no cambiará!
+msg_main8110_combat_07=¡Prepárate, {0x0100,0x0000}!
+msg_main8110_combat_08=¡Os machacaremos con nuestra gran fuerza!
+msg_main8110_combat_09=¡Al ataque!
+msg_shiba_01_p02_cave_d1402={0xBDFF:0x0006}
+msg_main8110_combat_02={0xFF00,0x0009}Bruno:{0xFF00,0x0000} Me has ganado y eso significa que mi[0x000A]trabajo aquí ha terminado.{0xBE01}[0x000A]¡Adelante! ¡Te espera tu próximo desafío!
+msg_main8110_combat_03={0xFF00,0x0009}Bruno:{0xFF00,0x0000} Tu combate contra Lorelei ha sido[0x000A]memorable. ¡Has derrochado tanta fuerza y{0xBE00}[0x000A]determinación que hasta yo he podido notar su{0xBE00}[0x000A]intensidad desde aquí!
+msg_main8110_combat_10=Eso sí, he entrenado bien duro a mis Pokémon y[0x000A]no pensamos perder.{0xBE01}[0x000A]¡Prepárate para un combate intenso!
+msg_main8110_combat_11=¡En guardia!
+msg_main8110_combat_04=¡No puede ser! ¡Ni todo mi entrenamiento ha[0x000A]sido suficiente para vencerte!{0xBE01}[0x000A]Pero no hay que desanimarse, sino mirar hacia[0x000A]adelante. ¡Y tú también, adelante!

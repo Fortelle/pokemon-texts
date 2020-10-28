@@ -1,0 +1,4 @@
+msg_t011r0301_jevenilef_01=Gracias por escribir.[0x000A]Espero verte pronto.{0xBE01}[0x000A]...{0xBE01}[0x000A]¡Oye! ¡Un poco de intimidad!
+msg_t011r0301_poke_01={0xFF00,0x0009}Pidgey:{0xFF00,0x0000} ¡Pid, pid!
+msg_t011r0301_jevenilem_01=¡La Copiona es tan linda! Parece que su[0x000A]Pokémon favorito es Clefairy.{0xBE01}[0x000A]¡Voy a intentar capturar uno para enseñárselo![0x000A]Seguro que se alegra mucho.
+msg_t011r0301_letter_01="El otro día me regalaron un Más PP.{0xBE01}[0x000A]Los movimientos más fuertes tienen menos PP,[0x000A]¡pero gracias al Más PP ahora podré usarlos más{0xBE00}[0x000A]veces!".

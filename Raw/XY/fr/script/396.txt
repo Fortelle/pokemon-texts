@@ -1,0 +1,33 @@
+Bonjour et bienvenue au Grand Hôtel Le Crésus[0xE07F]!{0xBE01}[0x000A]Tu as l’air d’être quelqu’un de méticuleux[0xE08D][0x000A]Ça te dirait de travailler ici[0xE07F]?
+Est-ce que tu cherches du travail[0xE07F]?
+Il paraît que tu es très méticuleu{0x1100,0x00FF,0x0201}xse.[0x000A]Est-ce que tu cherches du travail[0xE07F]?
+Tu es concierge à part entière maintenant[0xE07F]![0x000A]Est-ce que tu cherches du travail[0xE07F]?
+Quel genre de travail t’intéresse[0xE07F]?
+Quel dommage[0xE07F]![0x000A]Reviens me voir si tu changes d’avis.
+On dirait que tu as terminé ton travail[0x000A]pour aujourd’hui. À demain[0xE07F]!
+Service en chambre
+{0x1100,0x00FF,0x0505}ValetFemme de chambre
+Objets trouvés
+Annuler
+Le service en chambre[0xE07F]? Très bien[0xE07F]![0x000A]Tu peux aller à la réception.
+{0x1100,0x00FF,0x0505}ValetFemme de chambre[0xE07F]? Très bien.[0x000A]Peux-tu t’occuper du {0x0200,0x0000}e{0x1101,0x0000,0x0001}r étage[0xE07F]?
+Le service des objets trouvés[0xE07F]? Très bien[0xE07F]![0x000A]C’est à la réception.
+Merci pour ton dur labeur[0xE07F]![0x000A]Aujourd’hui, ta performance a été jugée[0xE08D]
+[0xE08D] excellente[0xE07F]! J’ai même entendu le manager[0x000A]faire l’éloge de ton travail.
+[0xE08D] satisfaisante[0xE07F]![0x000A]Merci de ton aide.
+[0xE08D] un peu juste. La prochaine fois,[0x000A]il faudra mettre les bouchées doubles.
+Voici tes gages pour aujourd’hui.
+{0x0100,0x0000} a reçu {0x0204,0x0001,0xE07F} $.
+Bonne nouvelle[0xE07F]![0x000A]Tu as été augmenté{0x1100,0x00FF,0x0100}e[0xE07F]!
+Tes gages ont augmenté de {0x0203,0x0000,0xE07F} $,[0x000A]et passent maintenant à {0x0204,0x0001,0xE07F} $.
+Tu es l{0x1100,0x00FF,0x0B0A}e meilleura meilleure concierge du[0x000A]Grand Hôtel Le Crésus.{0xBE01}[0x000A]Félicitations[0xE07F]![0x000A]Le manager aimerait te rencontrer.
+Ch{0x1100,0x00FF,0x0302}erère {0x0100,0x0000}[0xE07F]![0x000A]Je suis le manager de cet hôtel.{0xBE01}[0x000A]Je ne vais pas y aller par quatre chemins.{0xBE01}[0x000A]Nous aimerions t’accueillir au Crésus[0x000A]en tant que concierge.
+Non, n’ajoute rien[0xE08D]{0xBE01}[0x000A]Tu es un{0x1100,0x00FF,0x0100}e concierge, ou plutôt un Dresseur,[0x000A]qui pense beaucoup aux autres.{0xBE01}[0x000A]Ta réponse positive me suffit.{0xBE01}[0x000A]J’aimerais te remercier pour l’aide[0x000A]que tu continues à nous apporter.
+Je comprends[0xE08D][0x000A]Nous ne pouvons pas te retenir dans cet hôtel.{0xBE01}[0x000A]Mais si l’envie te prend, reviens nous aider[0x000A]de temps en temps[0xE07F]!
+Je n’arrive pas à croire que tu as eu un entretien[0x000A]avec notre insaisissable manager[0xE07F]!{0xBE01}[0x000A]Puisqu’elle a reconnu ta valeur, tu seras désormais[0x000A]en charge des suites de luxe.
+Je te remercie, et à la prochaine fois[0xE07F]!
+Euh, désolée[0xE08D]{0xBE01}[0x000A]Je suis occupée avec un client[0xE08D] particulier.[0x000A]Laisse-moi en finir, et je suis à toi[0xE07F]!
+Pour le changement des draps,[0x000A]il faut aller au premier étage[0xE07F]!
+Pour le changement des draps,[0x000A]il faut aller au deuxième étage[0xE07F]!
+Pour le changement des draps,[0x000A]il faut aller au troisième étage[0xE07F]!
+Pour le changement des draps,[0x000A]il faut aller au quatrième étage[0xE07F]!

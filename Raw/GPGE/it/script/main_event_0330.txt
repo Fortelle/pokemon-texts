@@ -1,0 +1,13 @@
+msg_main0330_pc_02=Sullo schermo del PC si vede il Teletrasportatore.
+msg_main0330_masaki_10=Presto, non abbiamo molto tempo![0x000A]Conto su di te!
+msg_main0330_pc_01={0x0100,0x0000} avvia il separatore cellulare[0x000A]del Teletrasportatore!
+msg_main0330_masaki_01={0xFF00,0x0009}Bill:{0xFF00,0x0000} Evviva! Grazie infinite![0x000A]Ti devo un favore!{0xBE01}[0x000A]Oh! Vedo che hai già un {0xFF00,0x0006}Box Pokémon{0xFF00,0x0000}[0x000A]nella Borsa. Bene, bene!
+msg_main0330_masaki_02={0xFF00,0x0009}Bill:{0xFF00,0x0000} Evviva! Grazie infinite![0x000A]Ti devo un favore!{0xBE01}[0x000A]Oh! Vedo che hai già un {0xFF00,0x0006}Box Pokémon{0xFF00,0x0000}[0x000A]nella Borsa. Bene, bene!
+msg_main0330_masaki_06=Se catturi troppi Pokémon e il tuo Box[0x000A]non ne può più contenere, puoi{0xBE00}[0x000A]{0xFF00,0x0006}mandarne alcuni al Professor Oak{0xFF00,0x0000}!
+msg_main0330_masaki_07={0xBDFF:0x0006}
+msg_main0330_sys_03={0xBDFF:0x0007}
+msg_main0330_masaki_05=Ah! Ora che ci penso...! Voglio farti un regalino [0x000A]per ringraziarti del tuo aiuto di poco fa... Tieni!
+msg_main0330_sys_01={0x0100,0x0000} riceve i {0xFF00,0x0006}Biglietti nave{0xFF00,0x0000}[0x000A]da Bill!
+msg_masaki_01_p06_r025_r0101={0xBDFF:0x000A}
+msg_main0330_masaki_03=La Motonave Anna è ancorata al porto di[0x000A]Aranciopoli...{0xBE01}[0x000A]Mi hanno invitato alla festa che si terrà a bordo,[0x000A]ma non amo molto questi eventi mondani...{0xBE01}[0x000A]Perché non ci vai tu al posto mio?{0xBE01}[0x000A]Dovrebbero esserci un paio di biglietti,[0x000A]quindi porta pure un amico, se vuoi.
+msg_main0330_masaki_04={0xFF00,0x0009}Bill:{0xFF00,0x0000} Se catturi troppi Pokémon e il tuo Box[0x000A]non ne può più contenere, puoi mandarli{0xBE00}[0x000A]in blocco al Professor Oak!

@@ -1,0 +1,131 @@
+{0x0102,0x0000}
+{0x0102,0x0000}
+{0x0107,0x0000}
+{0x01B0,0x0000}
+{0x0106,0x0000}
+{0x0109,0x0000}
+{0x0100,0x0000}
+Gegner
+{0x01B1,0x0000}
+AP
+L
+l
+{0x0201,0x0000}
+{0x0202,0x0000}
+{0x0203,0x0000,0xE07F}
+{0x0202,0x0000}
+{0x0202,0x0000}
+× {0x0200,0x0000}
+{0x0200,0x0000}/{0x0200,0x0001}
+KP
+Angriff
+Vert.
+Sp.-Ang.
+Sp.-Vert.
+Initiative
+{0xBDFF:0x0019}
+{0xBDFF:0x001A}
+Tausch
+Schon im Kampf
+Kampfunfähig
+Partner
+In Bereitschaft
+Regenerieren
+Bericht
+Kategorie
+Stärke
+Genauigkeit
+Fluchtwert
+Keine einsetzbare Attacke verfügbar.
+Wähle ein Pokémon.
+Auf welches Pokémon anwenden?
+Mit welchem Pokémon kämpfen?
+{0xBDFF:0x002A}
+{0x0102,0x0001} kämpft bereits!
+{0x0102,0x0001} ist nicht fit genug,[0x000A]um zu kämpfen!
+Pokémon von Mitstreitern können nicht[0x000A]ausgewählt werden!
+{0x0102,0x0001} kann nicht ausgetauscht[0x000A]werden!
+{0x0102,0x0001} wurde bereits ausgewählt!
+Ein Ei kann nicht kämpfen!
+Welche Attacke soll aufgefüllt werden?
+Diese Attacke vergessen
+Zurück zur Attackenwahl
+Die Attacke nicht erlernen
+KP-/AP-Erholung
+Status-Heilmittel
+Bälle
+Kampfitems
+Einsetzen
+Das klappt nicht! Man kann nicht zielen,[0x000A]wenn mehr als ein Pokémon da ist.
+Alle PC-Boxen sind voll!
+Wenn du dich nicht auf eine Sache[0x000A]konzentrierst, triffst du dein Ziel nie!
+Das wird nichts! Man kann nicht auf ein[0x000A]Pokémon zielen, das nicht zu sehen ist.
+{0x0107,0x0001} verhindert den Einsatz[0x000A]des Items bei {0x0102,0x0000}!
+Daraus wird nichts! Du kannst während einer[0x000A]Prüfung keine Pokémon fangen!
+{0xBDFF:0x0040}
+Der Professor sagt immer: „Dies ist weder die[0x000A]rechte Zeit noch der rechte Ort dafür!“
+In der Schutzzone dürfen keine Pokébälle[0x000A]geworfen werden!
+Keine Items vorhanden
+Ja
+Nein
+Pokémon wechseln
+Weiterkämpfen
+Nächstes Pokémon rufen
+Flucht
+Vergessen
+Bekannte Attacken behalten
+Wo einsetzen?
+{0xBDFF:0x004D}
+Rechts
+Links
+×
+/
+/
+L
+{0x0204,0x0000,0x0000}
+{0x0204,0x0000,0x0000}
+-
+Rang: 
+:
+L-Taste+A-Knopf: Attacken-Info
+Pflegen
+Verbindung wird hergestellt... Bitte warten.
+{0x0202,0x0000}
+/
+Zur vorherigen Runde
+Zur nächsten Runde
+Der Vor-/Rücklauf wurde aktiviert.[0x000A]Bitte warte einen Moment.
+Das Video wurde angehalten.[0x000A]Bitte warte einen Moment.
+{0xBDFF:0x0062}
+{0xBDFF:0x0063}
+{0xBDFF:0x0064}
+Z-Kraft-Bonus: Volltrefferquote+
+Z-Kraft-Bonus: Angriff+
+Z-Kraft-Bonus: Verteidigung+
+Z-Kraft-Bonus: Spezial-Angriff+
+Z-Kraft-Bonus: Spezial-Verteidigung+
+Z-Kraft-Bonus: Initiative+
+Z-Kraft-Bonus: Genauigkeit+
+Z-Kraft-Bonus: Fluchtwert+
+Z-Kraft-Bonus: Angriff++
+Z-Kraft-Bonus: Verteidigung++
+Z-Kraft-Bonus: Spezial-Angriff++
+Z-Kraft-Bonus: Spezial-Verteidigung++
+Z-Kraft-Bonus: Initiative++
+Z-Kraft-Bonus: Volltrefferquote++
+Z-Kraft-Bonus: Fluchtwert++
+Z-Kraft-Bonus: Angriff+++
+Z-Kraft-Bonus: Verteidigung+++
+Z-Kraft-Bonus: Spezial-Angriff+++
+Z-Kraft-Bonus: Spezial-Verteidigung+++
+Z-Kraft-Bonus: Initiative+++
+Z-Kraft-Bonus: Genauigkeit+++
+Z-Kraft-Bonus: Fluchtwert+++
+Z-Kraft-Bonus: Statuswerte+
+Z-Kraft-Bonus: Statuswerte++
+Z-Kraft-Bonus: Statuswerte+++
+Z-Kraft-Bonus: Negative Statusver. aufgehoben
+Z-Kraft-Bonus: KP-Regeneration (selbst)
+Z-Kraft-Bonus: KP-Regeneration (Mitstreiter)
+Z-Kraft-Bonus: Attacken-Magnet
+Z-Kraft-Bonus: Variiert je nach Typ

@@ -1,0 +1,154 @@
+Soldi
+{0xBDFF:0x0001}
+Punti Lotta
+Festigettoni
+{0x0206,0x0000,0x002E} $
+{0x0204,0x0000,0x002E} $
+---
+{0xBDFF:0x0007}
+{0x0204,0x0000,0x002E} PL
+{0x0206,0x0000,0x002E} FG
+Chiudi
+{0x0109,0x0000}
+{0x0107,0x0000}
+Torna alla schermata precedente senza effettuare[0x000A]la selezione.
+Ne hai già:
+{0x0202,0x0000}
+×
+{0x0201,0x0000}
+Ecco qua! Grazie mille!
+Non hai abbastanza soldi!
+Hai raggiunto il limite per questo oggetto!
+Sì
+No
+Benvenut{0x1100,0x00FF,0x0101}oa al Pokémon-Market![0x000A]Cosa desideri?
+Compra
+Vendi
+Esci
+Torna a trovarci!
+Posso fare altro per te?
+Quant{0x1001}{0x1102,0x0000,0x0101,0x0101}oaie {0x0109,0x0000} vuoi?
+Allora, {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Fanno {0x0206,0x0002,0x002E} $. Va bene?
+Allora, {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Fanno {0x0206,0x0002,0x002E} $. Va bene?
+Trovi tutto nella tasca {0x0112,0x0001}!
+Ricevi in omaggio anche una Premier Ball!
+Oh, hai un buono sconto!{0xBE01}[0x000A]In questo caso, ti rimborso {0x0206,0x0000,0x002E} $![0x000A]
+Il tuo buono sconto è valido finché non esci dal[0x000A]supermercato: approfittane per fare acquisti!
+Qui vendiamo Macchine Tecniche![0x000A]Cosa desideri?
+Hai già questa MT!
+Allora, vuoi la MT{0x0202,0x0000} {0x0107,0x0001}?[0x000A]Fanno {0x0206,0x0002,0x002E} $. Va bene?
+Trovi la MT nella tasca {0x0112,0x0001}!
+Benvenut{0x1100,0x00FF,0x0101}oa! Vuoi scambiare i tuoi Punti Lotta[0x000A]con qualche premio?
+Quando hai dei Punti Lotta da spendere, vieni[0x000A]a trovarmi!
+Oh, che peccato...[0x000A]Non hai abbastanza Punti Lotta!
+Quant{0x1001}{0x1102,0x0000,0x0101,0x0101}oaie {0x0109,0x0000} vuoi?
+Allora... {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Fanno {0x0206,0x0002,0x002E} PL. Va bene?
+Allora... {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Fanno {0x0206,0x0002,0x002E} PL. Va bene?
+{0xBDFF:0x002E}
+Per oggi non è più disponibile.[0x000A]Riprova domani!
+Per oggi non è più disponibile.[0x000A]Riprova domani!
+{0x0109,0x0000}, eh? Ti costerà[0x000A]{0x0206,0x0001,0x002E} festigettoni. Va bene?
+{0x0109,0x0000}, eh? Ti costerà[0x000A]{0x0206,0x0001,0x002E} festigettoni. Va bene?
+Ecco a te!
+Ecco qua.
+Trovi tutto nella tasca {0x0112,0x0001}!
+Grazie per i festigettoni!
+Allora mi prendo i festigettoni.
+Non hai abbastanza festigettoni...
+Non hai abbastanza festigettoni...
+Hai raggiunto il limite per questo oggetto!
+Hai raggiunto il limite per questo oggetto!
+Scegli un Pokémon.
+Scegli un Pokémon.
+Non avrà effetto su quel Pokémon.
+Non avrà effetto su quel Pokémon.
+{0xBDFF:0x0040}
+{0xBDFF:0x0041}
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}
+{0xBDFF:0x0046}
+{0xBDFF:0x0047}
+{0xBDFF:0x0048}
+{0xBDFF:0x0049}
+{0xBDFF:0x004A}
+{0xBDFF:0x004B}
+{0xBDFF:0x004C}
+{0xBDFF:0x004D}
+{0xBDFF:0x004E}
+{0xBDFF:0x004F}
+{0xBDFF:0x0050}
+{0xBDFF:0x0051}
+{0xBDFF:0x0052}
+Vuoi degli aromi dal profumo delizioso?
+Torna a trovarmi!
+Desideri altro?
+{0x1501,0x0000}{0x0109,0x0000}?[0x000A]{0x1001}Quant{0x1102,0x0000,0x0101,0x0101}oaie ne vuoi?
+{0x0201,0x0001} {0x0109,0x0000}?[0x000A]Fanno {0x0206,0x0002,0x002E} $.
+{0x0201,0x0001} {0x0109,0x0000}?[0x000A]Fanno {0x0206,0x0002,0x002E} $.
+Ecco qui![0x000A]Grazie mille!
+Mi dispiace, hai raggiunto il limite[0x000A]per questo oggetto!
+Ehm... Non hai abbastanza soldi...!
+Ehi! Vuoi comprare dei rimedi naturali?[0x000A]Ho lo zaino pieno!{0xBE01}[0x000A]Che, non ti fidi? Guarda che è ottima merce!
+Ripassa quando vuoi!
+Ma... magari vuoi qualcos’altro?
+{0x1001}{0x0109,0x0000}...[0x000A]Quante ne prendi?
+Allora, {0x0201,0x0001} {0x0109,0x0000}...[0x000A]In tutto fanno {0x0206,0x0002,0x002E} $. Va bene?
+Allora, {0x0201,0x0001} {0x0109,0x0000}...[0x000A]In tutto fanno {0x0206,0x0002,0x002E} $. Va bene?
+Ecco qua, prendi![0x000A]Sono rimedi efficacissimi... vedrai che roba!
+Ehi, non hai abbastanza spazio![0x000A]Dove vorresti metterli tutti questi oggetti?!
+Ma... Ma... guarda che questi soldi non bastano...
+Salve, e benvenut{0x1100,0x00FF,0x0101}oa alla gioielleria di Alyxia!
+Torna a farci visita!
+Desideri altro?
+{0x1001}Quant{0x1102,0x0000,0x0101,0x0101}oaie {0x0109,0x0000} desideri?
+Allora, {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Fanno {0x0206,0x0002,0x002E} $.
+Allora, {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Fanno {0x0206,0x0002,0x002E} $.
+Ecco a te! Ti ho fatto anche un bel pacchetto!
+Non hai più spazio! Vorrei proprio sapere come[0x000A]fai a portarti dietro così tante cose...
+Mi dispiace, ma sembra che tu non abbia[0x000A]abbastanza soldi.
+Ciao! Ti interessa la moda?[0x000A]Vuoi dare una rinfrescata al tuo look?
+Se vuoi stirare a nuovo il tuo look,[0x000A]fammi un fischio!
+Ti interessano altri articoli?
+{0x1001}Quant{0x1102,0x0000,0x0101,0x0101}oaie {0x0109,0x0000} vorresti?
+Dunque, {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Fanno {0x0206,0x0002,0x002E} $. Ok?
+Dunque, {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Fanno {0x0206,0x0002,0x002E} $. Ok?
+Complimenti![0x000A]Il tuo look ha preso una piega di freschezza!
+Vedo che sei un{0x1100,0x00FF,0x0100}a campione{0x1100,0x00FF,0x0300}ssa di acquisti...[0x000A]Non hai più spazio!
+Aspetta... sbaglio... o non hai abbastanza soldi?[0x000A]Argh...
+Benvenut{0x1100,0x00FF,0x0101}oa! Cosa desideri?
+Torna a trovarci!
+Oh! Vedo che hai un brillantissimo Cristallo Z...
+Questo vuol dire che hai superato la prova[0x000A]di Liam!
+Questo vuol dire che hai superato la prova[0x000A]di Suiren!
+Questo vuol dire che hai superato la prova[0x000A]di Kawe!
+Questo vuol dire che hai superato la prova[0x000A]di Ibis!
+Questo vuol dire che hai superato la prova[0x000A]di Chrys!
+Questo vuol dire che hai superato la prova[0x000A]di Malpi!
+Questo vuol dire che hai superato la prova[0x000A]al Canyon di Poni!
+Complimenti! Ora avrai accesso a nuovi articoli[0x000A]nel nostro negozio!
+{0x1100,0x00FF,0x1411}Il primo CampioneLa prima Campionessa di Alola della storia![0x000A]Questo sì che è un giorno da ricordare!{0xBE01}[0x000A]Siamo onorati di averti nel nostro negozio!
+Vedo che il titolo di Campione{0x1100,0x00FF,0x0300}ssa non ti[0x000A]impedisce di continuare a viaggiare e gustare{0xBE00}[0x000A]le emozioni del giro delle isole!
+Spero che sarai un{0x1100,0x00FF,0x1514} cliente affezionatoa cliente affezionata anche[0x000A]ora che sei diventat{0x1100,0x00FF,0x0D0A}o Campionea Campionessa!
+Prezzi stracciati! Veri affaroni![0x000A]Vuoi comprare qualcosa?
+Torna a farci visita!
+Desideri altro?
+{0x1001}{0x1503,0x0000}{0x0109,0x0000}![0x000A]Quant{0x1100,0x0000,0x0101}ie ne vuoi?
+{0x0201,0x0001} {0x0109,0x0000}...[0x000A]Fanno {0x0206,0x0002,0x002E} $. Va bene?
+{0x0201,0x0001} {0x0109,0x0000}...[0x000A]Fanno {0x0206,0x0002,0x002E} $. Va bene?
+Ecco a te![0x000A]Grazie mille!
+Oh... Non hai abbastanza soldi!
+Mi dispiace, ma hai raggiunto il limite per questo[0x000A]oggetto!
+Desideri altro?
+Ecco a te![0x000A]Grazie mille!
+Hai raggiunto il limite per questo oggetto!
+Benvenut{0x1100,0x00FF,0x0101}oa! Vuoi scambiare i tuoi Punti Lotta[0x000A]con qualche premio?
+Quando hai dei Punti Lotta da spendere, vieni[0x000A]a trovarmi!
+Mi dispiace, non hai abbastanza Punti Lotta.
+Quant{0x1001}{0x1102,0x0000,0x0101,0x0101}oaie {0x0109,0x0000} vuoi?
+{0x0201,0x0001} {0x0109,0x0000}?[0x000A]Fanno {0x0206,0x0002,0x002E} PL.
+{0x0201,0x0001} {0x0109,0x0000}?[0x000A]Fanno {0x0206,0x0002,0x002E} PL.
+Desideri altro?
+Ecco a te![0x000A]Grazie mille!
+Hai raggiunto il limite per questo oggetto!

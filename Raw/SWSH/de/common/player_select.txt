@@ -1,0 +1,11 @@
+msg_ui_player_select_01=Bitte wähle dein Foto aus.
+msg_ui_player_select_02=Bist du mit deiner Wahl zufrieden?
+msg_ui_player_select_03={0x0189,0x0000}
+msg_ui_player_select_04=Name
+msg_ui_player_select_yes=Ja
+msg_ui_player_select_no=Nein
+msg_ui_player_select_no_00={0xFF00,0x0006}Die Wahl der Sprache ist endgültig und kann später nicht mehr geändert werden!{0xFF00,0x0000}
+msg_ui_player_select_no_01={0xFF00,0x0006}In den Optionen kannst du jederzeit zwischen Hiragana und Kanji wechseln.{0xFF00,0x0000}
+msg_ui_player_select_10=Registrierung abgeschlossen!
+msg_ui_player_select_20=Speichervorgang...
+msg_ui_player_select_21=Dein Spielfortschritt wird automatisch gespeichert.

@@ -1,0 +1,12 @@
+sub_event_132_newmove_00=Je sens que tu as l’étoffe d’un{0x1100,0x00FF,0x0100}e Dresseu{0x1100,0x00FF,0x0201}rse[0x000A]de talent...{0xBE01}[0x000A]Malheureusement, c’est quelqu’un ayant l’étoffe[0x000A]d’un Maître que je recherche !
+sub_event_132_newmove_01=Oh ouah, le Maître ! Chouette ![0x000A]Je n’irai pas par quatre chemins...{0xBE01}[0x000A]Veux-tu que j’enseigne la capacité[0x000A]{0x0107,0x0001} à {0x1101,0x00FD,0x0902}onun de tes Pokémon ?
+sub_event_132_newmove_02=OK ![0x000A]À plus tard alors !
+sub_event_132_newmove_04=Je crains que t{0x1101,0x00FD,0x0202}ones Pokémon ne puisse{0x1101,0x00FD,0x0200}nt apprendre[0x000A]cette capacité...
+sub_event_132_newmove_05=Dans ce cas, dis-moi à qui je dois enseigner[0x000A]cette capacité !
+sub_event_132_newmove_06={0x0102,0x0001} ne peut pas apprendre[0x000A]cette capacité.
+sub_event_132_newmove_07=Un Œuf ? Mais enfin, soyons sérieux !
+sub_event_132_newmove_08={0x0102,0x0001} connaît déjà cette capacité !
+sub_event_132_newmove_10=Quelle capacité doit-il oublier ?
+sub_event_132_newmove_sys_01={0x0102,0x0000} apprend[0x000A]{0x0107,0x0001} !{0xBE05,0x0004}{0xBE05,0x0001}
+sub_event_132_newmove_sys_02=1{0xBE02:0x0014}, 2{0xBE02:0x0014}, ...{0xBE02:0x0014} ...{0xBE02:0x0014} Tadaaa !{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} a oublié {0x0107,0x0001}.{0xBE01}[0x000A]Et...{0xBE01}[0x000A]Il apprend {0x0107,0x0002} !{0xBE05,0x0004}{0xBE05,0x0001}
+sub_event_132_newmove_09=Métalaser est une capacité d’une puissance[0x000A]incroyable, mais elle inflige aussi beaucoup{0xBE00}[0x000A]de dégâts à son utilisateur.

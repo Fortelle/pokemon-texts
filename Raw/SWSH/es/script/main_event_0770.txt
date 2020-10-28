@@ -1,0 +1,15 @@
+main_event_0770_11=¡Hola, Aspirante!{0xBE01}[0x000A]¡Si pretendes desafiar a Naboru, necesitarás la[0x000A]Medalla Planta de Pueblo Hoyuelo y la Medalla{0xBE00}[0x000A]Agua de Pueblo Amura!
+main_event_0770_12=¡Oh, un{0x1100,0x00FF,0x0100}a Aspirante! ¡Y ya tienes dos medallas![0x000A]¡Impresionante!{0xBE01}[0x000A]Pero, verás, Naboru ahora mismo se encuentra en[0x000A]pleno entrenamiento en la Mina de Galar n.º 2.{0xBE01}[0x000A]Tu mejor opción es dirigirte hasta allí desde[0x000A]Pueblo Amura.
+main_event_0770_01=¡Bienvenid{0x1100,0x00FF,0x0101}oa, Aspirante! La misión de este[0x000A]gimnasio es tan dura que no muchos se atreven{0xBE00}[0x000A]a retar a Naboru. ¿Acaso tú sí?
+main_event_0770_select_01=¡Por supuesto!
+main_event_0770_select_02=Ahora mismo no
+main_event_0770_09=¡Vale! Puedes intentarlo cuando quieras, que te[0x000A]estaremos esperando.
+main_event_0770_07=¡No sabes lo que me alegro! Aunque eso sí, debo[0x000A]pedirte que te pongas el uniforme reglamentario.
+main_event_0770_08=¡Mi más sincera enhorabuena por haber superado[0x000A]la misión de gimnasio!{0xBE01}[0x000A]Ahora te espera el encuentro contra Naboru.{0xBE01}[0x000A]¡Está tan reñida la cosa que no pondría la mano[0x000A]en el fuego por ninguno de los dos!
+main_event_0770_02=La misión de este gimnasio te parecerá un poco[0x000A]peculiar, ya verás. ¡Adelante!
+main_event_0770_03=¡Para conmemorarlo, toma esta MT!
+main_event_0770_10=Y acepta también este uniforme con el mismo[0x000A]diseño que lleva Naboru.
+main_event_0770_04=Si ya son pocos quienes osan retar a Naboru, los[0x000A]que consiguen ganarle se cuentan con los dedos{0xBE00}[0x000A]de una mano.{0xBE01}[0x000A]¡Me hace ilusión pensar cuán lejos llegarás!
+main_event_0770_05=Vienes a probar suerte con la misión de[0x000A]gimnasio, ¿no? ¡Que obtengas muchos puntos!
+main_event_0770_06={0xBDFF:0x000D}
+main_event_0770_rival_01=¡Ey, {0x0100,0x0000}! ¡El combate contra[0x000A]Naboru ha estado al rojo vivo!{0x0114,0x0005}

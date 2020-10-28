@@ -1,0 +1,8 @@
+msg_main0715_rocketm_01=¿Cómo dices? ¿Que el ascensor no funciona?{0xBE01}[0x000A]¡Mua, ja, ja, ja!{0xBE01}[0x000A]¡Pues claro que no! ¡Como que la llave la tengo[0x000A]yo!
+msg_member_18_02={0xBDFF:0x0001}
+msg_main0715_rocketm_02=¡Maldición! ¡Pero vas list{0x1100,0x00FF,0x0101}oa si crees que te la voy[0x000A]a dar así como así!{0xBE01}[0x000A]No quería llegar a esto... ¡Pero me has obligado[0x000A]a tomar medidas drásticas!
+msg_main0715_rocketm_03=¡Allá vaaaaa!
+msg_main0715_rocketm_04=¡Jaaaa, ja, ja!{0xBE01}[0x000A]¡A ver qué haces ahora sin la llave, listill{0x1100,0x00FF,0x0101}oa![0x000A]Sin ella es imposible llegar adonde está el jefe.{0xBE01}[0x000A]¿Te crees que puedes hacerte con ella así de[0x000A]fácil, lumbrera?
+msg_main0715_rocketm_05=¡No vas a conseguir esa llave en la vida, chaval{0x1100,0x00FF,0x0100}a![0x000A]Será mejor que desistas.{0xBE01}[0x000A]La única forma sería que treparas por el muro o[0x000A]algo así, pero eso es imposible. ¡Mua, ja, ja!
+msg_main0715_rocketm_06=Aunque ahora que me fijo, tu Pokémon parece[0x000A]bastante ágil...
+msg_main0715_sys_01=Has conseguido la {0xFF00,0x0006}Llave Ascensor{0xFF00,0x0000}.

@@ -1,0 +1,111 @@
+Les joueurs du monde entier peuvent déposer[0x000A]des Pokémon sur la GTS afin de les échanger.[0x000A][0x000A]・Chercher un Pokémon[0x000A]L’échange aura lieu si vous déposez un Pokémon[0x000A]recherché par un autre joueur.[0x000A][0x000A]・Déposer un Pokémon[0x000A]L’échange aura lieu si un autre joueur dépose[0x000A]un Pokémon que vous recherchez.
+Vérification du statut de la GTS...
+Le Pokémon que vous aviez déposé[0x000A]a été échangé[0xE07F]!{0xBE01}
+Bienvenue sur la GTS.[0x000A]Que voulez-vous faire[0xE07F]?
+Le Pokémon que vous aviez déposé revient[0xE07F]!{0xBE01}
+{0xBD02}Attention[0xE07F]![0x000A][0x000A]{0xBD02}Si vous éteignez votre console ou qu’un[0x000A]{0xBD02}problème de communication survient au cours[0x000A]{0xBD02}d’un échange, vous ne pourrez plus échanger[0x000A]{0xBD02}de Pokémon pendant un certain temps.
+Voulez-vous quitter la GTS[0xE07F]?
+Veuillez spécifier un nom de Pokémon.{0xBE01}
+Aucun Pokémon n’a été trouvé.{0xBE01}
+Quel Pokémon recherchez-vous[0xE07F]?
+Veuillez choisir son sexe.
+Veuillez choisir son niveau.
+Voulez-vous inclure les joueurs cherchant[0x000A]des Pokémon légendaires ou fabuleux[0xE07F]?
+Cette recherche n’a donné aucun résultat.{0xBE01}
+Choisissez un joueur pour cet échange.
+Communication en cours...[0x000A]Veuillez patienter.
+Recherche du Pokémon en cours...
+Il y a un problème avec ce Pokémon.{0xBE01}
+Ce Pokémon a déjà été échangé.{0xBE01}
+Voulez-vous reprendre {0x0102,0x0000}[0xE07F]?
+Lors d’une recherche par nom, vous ne pouvez[0x000A]pas indiquer de sexe.{0xBE01}
+Sélectionnez les critères de recherche.
+Filtrer par Pokémon recherché
+Filtrer par région
+Vous devez définir le Pokémon recherché[0x000A]avant de déposer le vôtre.{0xBE01}
+Nouvelle recherche en cours...[0x000A]Veuillez patienter.
+Veuillez choisir un Pokémon.{0xBE01}
+La nouvelle recherche n’a renvoyé aucun[0x000A]résultat.{0xBE01}[0x000A]Les résultats de recherche ont été mis à jour.{0xBE01}
+La nouvelle recherche n’a renvoyé aucun[0x000A]résultat.{0xBE01}[0x000A]Veuillez de nouveau choisir un Pokémon[0x000A]à rechercher.{0xBE01}
+{0xBDFF:0x001D}
+{0xBDFF:0x001E}
+{0xBDFF:0x001F}
+{0xBDFF:0x0020}
+Choisissez un message à envoyer[0x000A]à votre partenaire d’échange.
+{0xBD02}Attention[0xE07F]![0x000A][0x000A]{0xBD02}Si vous éteignez votre console ou qu’un[0x000A]{0xBD02}problème de communication survient pendant[0x000A]{0xBD02}que vous déposez un Pokémon, vous ne pourrez[0x000A]{0xBD02}plus échanger de Pokémon pendant un certain[0x000A]{0xBD02}temps.
+{0xBD02}Attention[0xE07F]![0x000A][0x000A]{0xBD02}Si vous éteignez votre console ou qu’un[0x000A]{0xBD02}problème de communication survient pendant[0x000A]{0xBD02}que vous récupérez un Pokémon, vous ne[0x000A]{0xBD02}pourrez plus échanger de Pokémon pendant[0x000A]{0xBD02}un certain temps.
+Interruption de la communication...[0x000A]Veuillez patienter.
+Veuillez choisir le Pokémon recherché.
+Chercher un Pokémon
+Déposer un Pokémon
+Infos sur {0x0102,0x0000}
+Recherche
+{0x0101,0x0000}
+Sexe
+Niveau
+Options
+Rechercher avec ces critères
+Quitter
+ 
+Peu importe
+{0xBDFF:0x0032}
+{0xBDFF:0x0033}
+Peu importe
+De 1 à 10
+De 11 à 20
+De 21 à 30
+De 31 à 40
+De 41 à 50
+De 51 à 60
+De 61 à 70
+De 71 à 80
+De 81 à 90
+91 ou plus
+Saisie
+Inclure
+Exclure
+Pokémon recherché par l’autre joueur
+Peu importe
+Pokémon que vous possédez
+Région
+Votre région
+Autre région
+Filtrer les résultats selon ces critères
+Reprendre
+Quitter
+Chercher un Pokémon
+{0x0100,0x0000}
+{0x0124,0x0000}
+{0x0125,0x0000}
+Infos sur les Pokémon déposés sur la GTS
+{0x0102,0x0000}
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+l
+{0xBDFF:0x0054}
+Objet
+Aucun objet
+{0x0109,0x0000}
+Message {0x1408,0x0000}{0x0100,0x0000}
+{0x0202,0x0000}
+{0x0202,0x0000}
+Confirmer
+Merci d’échanger un Pokémon avec moi[0xE07F]!
+J’aimerais avoir un Pokémon qui puisse m’aider[0x000A]dans mon aventure[0xE07F]!
+J’aimerais avoir un Pokémon qui soit super fort[0x000A]en combat[0xE07F]!
+J’aimerais avoir un Pokémon spécial sorti[0x000A]d’un Œuf[0xE07F]!
+J’aimerais remplir mon Pokédex[0xE07F]!
+J’aimerais remplir mon Pokédex avec des[0x000A]descriptions dans d’autres langues[0xE07F]!
+J’aimerais avoir un Pokémon avec un surnom[0x000A]vraiment cool[0xE07F]!
+J’ai élevé ce Pokémon avec tout mon cœur[0xE07F]![0x000A]Si tu le veux, il est à toi[0xE07F]!
+Ce Pokémon vient tout juste d’éclore.[0x000A]Merci de bien prendre soin de lui[0xE07F]!
+J’ai entraîné ce Pokémon pour qu’il excelle[0x000A]au combat[0xE07F]!
+Ce Pokémon a énormément de potentiel.[0x000A]Entraîne-le à ta guise[0xE07F]!
+{0xBDFF:0x0067}
+{0xBDFF:0x0068}
+{0xBDFF:0x0069}
+{0xBDFF:0x006A}
+{0xBDFF:0x006B}
+{0xBDFF:0x006C}
+{0xBDFF:0x006D}
+{0xBDFF:0x006E}

@@ -1,0 +1,9 @@
+msg_t001r0101_mother_01={0xFF00,0x0009}Mamma:{0xFF00,0x0000} Su, vai dal Professor Oak!{0xBE01}[0x000A]Se non sbaglio, {0x0100,0x0001} gli ha chiesto[0x000A]di darvi un Pokémon, no?
+msg_t001r0101_mother_02={0xFF00,0x0009}Mamma:{0xFF00,0x0000} Su, vai dal Professor Oak!{0xBE01}[0x000A]Se non sbaglio, {0x0100,0x0001} gli ha chiesto[0x000A]di darvi un Pokémon, no?
+msg_t001r0101_mother_03={0xFF00,0x0009}Mamma:{0xFF00,0x0000} {0x0100,0x0000}![0x000A]Ora è bene che ti riposi un po’.
+msg_t001r0101_mother_04={0xFF00,0x0009}Mamma:{0xFF00,0x0000} Perfetto![0x000A]Ora tu e i{0x1101,0x00FD,0x0505}l tuo tuoi Pokémon siete in gran forma!
+msg_t001r0101_mother_05={0xFF00,0x0009}Mamma:{0xFF00,0x0000} {0x0100,0x0000}! Vedo che te la stai[0x000A]davvero spassando assieme a{0x1101,0x00FD,0x0101}li tuo{0x1101,0x00FD,0x0100}i Pokémon!
+msg_t001r0101_mother_06={0xBDFF:0x0005}
+msg_t001r0101_tv_01=C’è un film in TV. Quattro ragazzi camminano[0x000A]sui binari.{0xBE01}[0x000A]Ora però è meglio andare!
+msg_t001r0101_tv_02=C’è un film in TV. Una ragazza con le trecce[0x000A]cammina su una strada lastricata.{0xBE01}[0x000A]Ora però è meglio andare!
+msg_t001r0101_tv_03=Lo schermo è dall’altra parte!

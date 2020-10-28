@@ -1,0 +1,13 @@
+msg_main2000_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¡Holaaa!
+msg_main2000_rival_02=¡Oye, {0x0100,0x0000}! ¡Voy a subir!
+msg_main2000_rival_03={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¡Buenos días, Campe{0x1100,0x00FF,0x0302}ónona de[0x000A]Kanto!
+msg_main2000_rival_09=No te acostumbres a que te llame así, porque[0x000A]pienso arrebatarte el título en cuanto pueda.
+msg_main2000_rival_04=Pero bueno, cambiemos de tema.{0xBE01}[0x000A]¿Te has enterado de que se ha avistado un[0x000A]Pokémon que parece la mar de fuerte?
+msg_main2000_sel_01=¿Qué clase de Pokémon?
+msg_main2000_sel_02=¡Quiero atraparlo!
+msg_main2000_rival_05=Por lo visto, mola un montón. ¡Y encima es más[0x000A]fuerte que yo que sé!
+msg_main2000_rival_06=Ja, ja. Ya sabía yo que te pirrarías por él en[0x000A]cuanto te lo contase.
+msg_main2000_rival_07=Lo avistaron cerca de {0xFF00,0x0006}Ciudad Celeste{0xFF00,0x0000}.
+msg_main2000_rival_10=Y, según dicen, se refugió en una cueva.
+msg_main2000_rival_08=A mí también me pica la curiosidad por saber[0x000A]qué clase de Pokémon es. ¡Vamos a buscarlo!
+msg_main2000_rival_11=¡Venga, vamos a ver quién lo encuentra primero!

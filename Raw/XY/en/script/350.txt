@@ -1,0 +1,140 @@
+Welcome!
+Tell us what you’d like, and we’ll come up[0x000A]with the perfect hairstyle and color for you!
+Welcome![0x000A]...Oh!{0xBE01}[0x000A]It’s been a long time,[0x000A]{0x0100,0x0000}!
+Hello...{0xBE01}[0x000A]...[0x000A]...Oh!{0xBE01}[0x000A]S-sorry![0x000A]Oh... Silly me...{0xBE01}[0x000A]{0x0100,0x0000}, you look so great...[0x000A]I was mesmerized by you...{0xBE01}[0x000A]Ahem...[0x000A]Let me collect myself first...
+What would you like to do today?
+Would you like me to style all[0x000A]of your hair or just the front?
+Of course, {0x1100,0x00FF,0x0403}sirmiss!
+For a full style and color,[0x000A]the total will be ${0x0204,0x0000,0x002C}.{0xBE01}[0x000A]Does that sound all right to you?
+For a front style and color,[0x000A]the total will be ${0x0204,0x0000,0x002C}.{0xBE01}[0x000A]Does that sound all right to you?
+For styling all of your hair,[0x000A]the total will be ${0x0204,0x0000,0x002C}.{0xBE01}[0x000A]Does that sound all right to you?
+For just a color,[0x000A]the total will be ${0x0204,0x0000,0x002C}.{0xBE01}[0x000A]Does that sound all right to you?
+For styling just the front,[0x000A]the total will be ${0x0204,0x0000,0x002C}.{0xBE01}[0x000A]Does that sound all right to you?
+Oh, I’m sorry, {0x1100,0x00FF,0x0403}sirmiss.[0x000A]You don’t seem to have enough money.
+All right. Let me show you to a chair.[0x000A]I’ll take your hat and stow it away for now.
+Let me know when you decide.
+Styling and color
+Styling
+Color
+Quit
+All over
+Just the front
+Quit
+What kind of style would you like?
+Oh! I have special styles that suit you[0x000A]perfectly, {0x0100,0x0000}.{0xBE01}[0x000A]What kind of style would you like?
+Short
+Bobbed
+Medium
+Long
+Surprise me!
+Next
+Back
+Very short
+Short
+Medium
+Medium perm
+Ponytail
+Pigtails
+Certainly.[0x000A]Short it is.
+Certainly.[0x000A]A bob it is.
+Certainly.[0x000A]Medium length it is.
+Certainly.[0x000A]Long it is.
+Certainly![0x000A]Leave it up to me!
+You won’t look very different.[0x000A]Is that all right?
+Certainly.[0x000A]I’ll just trim the ends.
+Certainly.[0x000A]Very short it is.
+Certainly.[0x000A]Short it is.
+Certainly.[0x000A]Medium length it is.
+Certainly.[0x000A]Medium perm it is.
+Certainly.[0x000A]Ponytail it is.
+Certainly.[0x000A]Pigtails it is.
+What kind of color would you like?[0x000A]Do you have any idea?
+Something lighter
+Something darker
+Same as now
+Blond{0x1100,0x00FF,0x0100}e
+Orange
+Honey
+Brown
+Black
+Well, it’s said that blond{0x1100,0x00FF,0x0100}es have more fun![0x000A]Blond{0x1100,0x00FF,0x0100}e it is, then!
+A nice vibrant orange, hmm?[0x000A]That’s what we’ll do, then!
+A lovely dark honey...[0x000A]That’s what we’ll do, then!
+So you want to go brown?[0x000A]I can handle brunette!
+All the way to black, is it?[0x000A]I can handle that!
+You’ll leave it up to me?[0x000A]Thank you!
+Certainly.{0xBE01}[0x000A]Then I’ll mix something up that will just[0x000A]help you keep your current color.
+Do you have any preference[0x000A]about how to style the front?
+Do you want to keep the[0x000A]front looking the same?
+Certainly.[0x000A]I’ll sweep the front to the side.
+Certainly.[0x000A]I’ll snip some bangs in the front.
+Certainly![0x000A]I’ll part your hair to suit you.
+Sideswept
+Bangs
+All right![0x000A]It’s all done!
+The new hairstyle suits you very well!
+For a full style and color, that will be ${0x0204,0x0000,0x002C}.
+For a front style and color, that will be ${0x0204,0x0000,0x002C}.
+For styling all your hair, that will be ${0x0204,0x0000,0x002C}.
+For styling the front, that will be ${0x0204,0x0000,0x002C}.
+For the color, that will be ${0x0204,0x0000,0x002C}.
+Thank you very much for coming today.{0xBE01}[0x000A]Next time you want a change,[0x000A]visit us anytime!
+The new hairstyle suits you very well![0x000A]Please come again!
+I brightened your color significantly this time.{0xBE01}[0x000A]Please don’t forget to use conditioner!
+Yes! The orange color suits you very well!{0xBE01}[0x000A]Such a bright color makes you feel energetic,[0x000A]doesn’t it?
+The hair color turned out very nice!{0xBE01}[0x000A]It gives you a soft and gentle look.[0x000A]It looks really great!
+The hair color suits you very well![0x000A]The natural look is very attractive!
+Shiny black hair is really nice!{0xBE01}[0x000A]Clothes with bright colors[0x000A]should go well with that hair!
+The long hair looks great on you![0x000A]Yes, yes! It suits you very well!
+The length like that looks amazing, too!
+The new hairstyle suits you very well!
+It’s a very pleasant look.[0x000A]Very nice!
+It looks great! Wow![0x000A]So does the neatly trimmed front!
+The front looks very cute![0x000A]It’s perfect on you!
+I’m so into café culture lately.{0xBE01}[0x000A]There are several cafés where people[0x000A]with the same interests can gather.{0xBE00}[0x000A]People are having such a blast!{0xBE01}[0x000A]Lumiose is a city of cafés.{0xBE01}[0x000A]I’ll recommend some cafés to you,[0x000A]{0x0100,0x0000}.
+Oh, I found an interesting café the other day!{0xBE01}[0x000A]It’s the café where Furfrou fans gather.[0x000A]The name is Café Woof!{0xBE01}[0x000A]They’re more than fans.[0x000A]All of them are Furfrou freaks.{0xBE01}[0x000A]It was amazing.
+Since you’re changing your hairstyle,[0x000A]you may want to drop by the PR Video Studio later!{0xBE01}[0x000A]Once you go there, you’ll be hooked![0x000A]I’m hooked, too!
+To tell you the truth, {0x0100,0x0000},[0x000A]after I recommended the studio to you,{0xBE00}[0x000A]I had an urge to make a PR Video.{0xBE01}[0x000A]It’s been a while since I made[0x000A]my last video, so I went there!{0xBE01}[0x000A]I struck a lot of great[0x000A]poses with my Pokémon!{0xBE01}[0x000A]I was able to create a unique[0x000A]PR Video. That was so much fun.
+Lately, a strange man has[0x000A]been wandering around here.{0xBE01}[0x000A]I can’t describe what’s[0x000A]strange about him, but...{0xBE01}[0x000A]He said something I couldn’t understand,[0x000A]“Some power is something...something.”{0xBE01}[0x000A]And then he suddenly[0x000A]disappeared into thin air...
+Oh! Do you remember the strange[0x000A]man I told you about the other day?{0xBE01}[0x000A]I bumped into him again after that.[0x000A]And I tell you what!{0xBE01}[0x000A]I listened to his explanation,[0x000A]and I managed to be able to use{0xBE00}[0x000A]that something-or-another power!{0xBE01}[0x000A]I still don’t know what it is[0x000A]exactly, but I felt really lucky!
+{0xBDFF:0x0063}
+{0xBDFF:0x0064}
+Oh, do you know there’s a grooming[0x000A]salon specifically for Furfrou?{0xBE01}[0x000A]I’d like to take my Furfrou next time, but it seems[0x000A]there are a lot of different grooming styles,{0xBE00}[0x000A]and I can’t make up my mind{0xBE00}[0x000A]what my Furfrou should look like.
+I went to the grooming salon[0x000A]for Furfrou yesterday!{0xBE01}[0x000A]I thought and thought and finally[0x000A]decided to go for the Heart Trim.{0xBE01}[0x000A]It looks so great![0x000A]But other cuts are also very charming...{0xBE01}[0x000A]I hear that there are cuts only regular[0x000A]customers can choose.{0xBE01}[0x000A]I’m so curious...[0x000A]When should I go again?
+{0xBDFF:0x0067}
+{0xBDFF:0x0068}
+{0xBDFF:0x0069}
+{0xBDFF:0x006A}
+{0xBDFF:0x006B}
+{0xBDFF:0x006C}
+{0xBDFF:0x006D}
+{0xBDFF:0x006E}
+{0xBDFF:0x006F}
+{0xBDFF:0x0070}
+Oh, {0x0100,0x0000}.[0x000A]Your coordination is really cool!{0xBE00}[0x000A]My heart skipped a beat!
+Oh, {0x0100,0x0000}.[0x000A]Your coordination suits you very well!{0xBE01}[0x000A]You wear everything very nicely.[0x000A]I envy you!
+Sorry I’m totally changing the subject, but...{0xBE01}[0x000A]{0x0100,0x0000}, I really like your[0x000A]coordination today!{0xBE01}[0x000A]I’m so curious about where I can buy those...{0xBE01}[0x000A]Will you tell me the name of the boutique later?{0xBE01}[0x000A]I’ll go to the shop with my husband[0x000A]on my next day off!
+Sorry I’m totally changing the subject, but...{0xBE01}[0x000A]{0x0100,0x0000}, I really like your[0x000A]coordination today!{0xBE01}[0x000A]I’m so curious about where I can buy those...{0xBE01}[0x000A]Will you tell me the name of the boutique later?[0x000A]I’ll go to the shop on my next day off.
+Oh! The boutique you told me[0x000A]about the other day...{0xBE01}[0x000A]I went there! It was really nice, but[0x000A]I couldn’t decide what to buy.{0xBE01}[0x000A]I found some great stuff for my husband,[0x000A]so I let him dress up for the first time in ages!
+Oh! The boutique you told me about[0x000A]the other day.{0xBE01}[0x000A]I went there![0x000A]It was really nice.{0xBE01}[0x000A]I was unable to decide what to buy.{0xBE01}[0x000A]Since I couldn’t make up my mind,[0x000A]I just bought everything I saw!{0xBE00}[0x000A]It’s been ages since my last spree!
+Wow! {0x0100,0x0001}.[0x000A]You’ve caught {0x0101,0x0000}!{0xBE01}[0x000A]My husband was murmuring...{0xBE01}[0x000A]“Very, very Mythical.[0x000A]It’s the king of Mythical Pokémon...”{0xBE01}[0x000A]I knew it was a very rare Pokémon.{0xBE01}[0x000A]{0x0100,0x0001}, as I expected,[0x000A]you’re a great Trainer.
+{0xBDFF:0x0078}
+Oh, oh![0x000A]{0x0100,0x0000}!{0xBE01}[0x000A]The Champion![0x000A]I heard that you won at the Pokémon League!{0xBE01}[0x000A]I was there at your parade the other day![0x000A]Congratulations!{0xBE01}[0x000A]I’m so honored that my customer is the Champion!
+Oh! I remember![0x000A]{0x0100,0x0000}.{0xBE01}[0x000A]Today is your birthday![0x000A]Happy birthday!{0xBE01}[0x000A]I’ll psych myself up[0x000A]and style your hair perfectly{0xBE00}[0x000A]so that it will brighten up{0xBE00}[0x000A]your special day!
+Just a hairstylist and a customer...{0xBE01}[0x000A]If you say so, I guess that’s what[0x000A]we are, but I feel a strong connection{0xBE00}[0x000A]with you, {0x0100,0x0000}.{0xBE01}[0x000A]It’s a bit embarrassing to say[0x000A]this now, but I appreciate{0xBE00}[0x000A]the connection with you!
+{0xBDFF:0x007C}
+{0xBDFF:0x007D}
+{0xBDFF:0x007E}
+{0xBDFF:0x007F}
+{0xBDFF:0x0080}
+{0xBDFF:0x0081}
+{0xBDFF:0x0082}
+{0xBDFF:0x0083}
+{0xBDFF:0x0084}
+{0xBDFF:0x0085}
+{0xBDFF:0x0086}
+{0xBDFF:0x0087}
+{0xBDFF:0x0088}
+{0xBDFF:0x0089}
+No! No matter how many times I change[0x000A]my look, it all looks too good!
+It’s my dream to express[0x000A]all Pokémon by hairstyle.

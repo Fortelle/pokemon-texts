@@ -1,0 +1,13 @@
+Oui
+Non
+Voulez-vous sauvegarder la photo[0x000A]sur votre carte SD[0xE07F]?
+Si vous ne sauvegardez pas la photo, elle sera[0x000A]effacée. Voulez-vous vraiment continuer[0xE07F]?
+Sauvegarde en cours[0xE08D][0x000A]Ne pas éteindre la console.
+Photo sauvegardée dans[0x000A]l’appareil photo Nintendo 3DS.
+Espace insuffisant sur la carte SD.{0xBE01}[0x000A]Les données photo n’ont pas pu[0x000A]être sauvegardées.
+La réserve de photos de l’appareil photo[0x000A]Nintendo 3DS est pleine.{0xBE01}[0x000A]Les données photo n’ont pas pu être[0x000A]sauvegardées.
+Des fichiers endommagés ont été découverts[0x000A]sur la carte SD. Effacement en cours[0xE08D]{0xBE01}[0x000A]Les données photo n’ont pas pu être[0x000A]sauvegardées.
+Les données photo n’ont pas pu[0x000A]être sauvegardées.
+{0x0201,0x0002}/{0x0201,0x0001}/20{0x0201,0x0000}   {0x0201,0x0003}:{0x0201,0x0004}
+{0xBDFF:0x000B}
+{0x0205,0x0005,0xE07F}

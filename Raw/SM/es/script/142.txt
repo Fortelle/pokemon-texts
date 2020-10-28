@@ -1,0 +1,17 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+¡Esta planta tiene una pinta curiosa![0x000A]¿Quieres recogerla?
+¡Es una Hierba Revivir!{0xBE01}[0x000A]Has guardado la Hierba Revivir en el Zurrón.
+¡Es una Hierba Revivir!{0xBE01}[0x000A]O eso parecía. Tras mirarla más de cerca,[0x000A]resulta que es un hierbajo.
+¡Un Pokémon escondido en la hierba se[0x000A]abalanza sobre ti!
+¿Qué, cómo va? Ah, veo que has encontrado[0x000A]una Hierba Revivir. ¡Genial!{0x0114,0x000E}
+¡Tiene un sabor tan amargo que deja incluso a[0x000A]los propios Pokémon estupefactos!{0x0114,0x000E}
+¡Estupendo! ¡Has encontrado todos los[0x000A]ingredientes!{0xBE01}[0x000A]Muy bien. Voy a comenzar la preparación, así[0x000A]que ven a la entrada de la jungla, ¿vale?{0x0114,0x000E}
+¡Solo te falta un ingrediente! ¡Hale, a recoger!{0x0114,0x000E}
+¡Solo te faltan dos ingredientes! Hale, ¡a recoger!{0x0114,0x000E}
+¡Te faltan tres ingredientes más![0x000A]¡A recoger se ha dicho!{0x0114,0x000E}

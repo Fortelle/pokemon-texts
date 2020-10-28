@@ -1,0 +1,16 @@
+msg_main0040_rival_01={0xBDFF:0x0000}
+msg_main0040_doctor_01={0xBDFF:0x0001}
+msg_main0040_doctor_02={0xBDFF:0x0002}
+msg_main0040_doctor_04={0xBDFF:0x0003}
+msg_main0040_doctor_05={0xBDFF:0x0004}
+msg_main0040_doctor_03={0xFF00,0x0009}Prof. Oak:{0xFF00,0x0000} Ehi, ma dove vai?![0x000A]Torna qui!
+msg_main0040_rival_02={0xBDFF:0x0006}
+msg_main0040_new_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Professore! Prima c’erano[0x000A]solo due Poké Ball lì sopra...{0xBE00}[0x000A]Perché adesso ce ne sono tre?!
+msg_main0040_new_doctor_01={0xFF00,0x0009}Prof. Oak:{0xFF00,0x0000} Ah, nella terza c’è[0x000A]{0x1502,0x0002}{0x0101,0x0002} che {0x0100,0x0000} ha{0xBE00}[0x000A]catturato poco fa!
+msg_main0040_new_rival_02={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Cosa?! Hai catturato[0x000A]un Pokémon tutto da sol{0x1100,0x00FF,0x0101}oa, {0x0100,0x0000}?!
+msg_main0040_new_rival_03=Aaah! Che spavento!
+msg_main0040_new_doctor_02={0xFF00,0x0009}Prof. Oak:{0xFF00,0x0000} Ah ah ah ah! Che caratterino,[0x000A]questo Pokémon!
+msg_main0040_new_doctor_04=Su, {0x0100,0x0000}! Prendi la Poké Ball,[0x000A]ma questa volta con mano ferma.
+msg_main0040_new_doctor_03=Su! Vai a prendere il tuo {0x0101,0x0002}!
+msg_main0040_new_rival_04=Il Pokémon che hai catturato tu dovrebbe essere[0x000A]nella Poké Ball in mezzo, {0x0100,0x0000}.
+msg_main0040_new_rival_05={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Sembra che ti stia dicendo[0x000A]che hai scelto la Poké Ball sbagliata!

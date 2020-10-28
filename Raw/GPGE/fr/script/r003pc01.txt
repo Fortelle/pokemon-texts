@@ -1,0 +1,8 @@
+msg_r003pc01_childm_01=J’ai six Poké Balls à ma ceinture. J’en voudrais[0x000A]bien plus, mais j’ai pas le choix : on peut pas{0xBE00}[0x000A]envoyer plus de six Pokémon au combat, même{0xBE00}[0x000A]si on en a plein d’autres dans son Sac !
+msg_r003pc01_gentleman_01=La Team Rocket s’est encore attaquée[0x000A]aux habitants d’Azuria...{0xBE01}[0x000A]Il ne se passe pas une journée sans qu’on parle[0x000A]d’eux !
+msg_r003pc01_jevenilem_01=Si tu n’as plus de place sur toi pour transporter[0x000A]des Pokémon, tu peux les stocker dans ton Sac,{0xBE00}[0x000A]dans la Boîte Pokémon ! Pratique, non ?{0xBE01}[0x000A]Et même si elle contient plein de Pokémon,[0x000A]tu pourras toujours facilement retrouver celui{0xBE00}[0x000A]que tu cherches, donc pas d’inquiétude !
+msg_r003pc01_girlscout_01=Quand tu veux capturer un Pokémon, regarde[0x000A]la couleur du cercle ! Elle te dira s’il est dur{0xBE00}[0x000A]à attraper !{0xBE01}[0x000A]Vert, c’est facile, jaune c’est un peu plus ardu,[0x000A]et rouge, c’est difficile !
+msg_r003pc01_paper_01=C’est un journal.
+msg_r003pc01_book_01=C’est un livre d’illustrations intitulé[0x000A]« Mélofée a rendez-vous avec la lune ».
+msg_r003pc01_select_01=Voulez-vous le lire ?
+msg_r003pc01_book_02=« Tout doux, tout ronds, les Mélofée,[0x000A]Au Mont Sélénite, s’en sont allés.{0xBE01}[0x000A]Tous ensemble, ils ont gravi[0x000A]Le sentier pentu, d’un air ravi.{0xBE01}[0x000A]Mélo, mélo, méli-mélo ♪[0x000A]Ode à la lune, tout là-haut ♪{0xBE01}[0x000A]Mélo, mélo, méli-mélo ♪[0x000A]Chantons ensemble, fa mi ré do ♪{0xBE01}[0x000A]Tournons ! Dansons ![0x000A]La farandole des Mélofée{0xBE01}[0x000A]Dansons ! Rions ![0x000A]Toute la nuit jusqu’au lever. »

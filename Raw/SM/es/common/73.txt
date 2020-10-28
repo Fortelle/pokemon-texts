@@ -1,0 +1,80 @@
+{0x0102,0x0000}
+{0xBDFF:0x0001}
+{0x0107,0x0000}
+{0x0109,0x0000}
+{0x0100,0x0000}
+{0xBDFF:0x0005}
+l
+{0x0202,0x0000}
+/
+{0x0202,0x0000}
+Datos
+Curar
+Objeto
+Usar un movimiento
+Salir
+Usar/Dar
+Quitar
+Pasar objeto
+Participar
+No participar
+Dejar Pokémon
+Vale
+{0xBDFF:0x0016}
+Pokémon
+Objetos
+Elige un Pokémon.
+¿Qué Pokémon quieres mover?
+¿Qué objeto quieres mover?
+¿Adónde quieres moverlo?
+¿A qué Pokémon se lo quieres pasar?
+¿Con qué Pokémon quieres usarlo?
+{0x0102,0x0000} ha sido seleccionado.
+¿Qué movimiento ha de usar {0x0102,0x0000}?
+¿Qué Pokémon quieres enviar?
+¿Con qué Pokémon quieres combatir?
+Puedes elegir un objeto de la Bolsa para[0x000A]usarlo o para dárselo a un Pokémon.
+Puedes quitarle al Pokémon el objeto que[0x000A]lleva y guardarlo en la Bolsa.
+Puedes pasarle el objeto que lleva a otro[0x000A]Pokémon.
+{0x0102,0x0000} no lleva ningún objeto.
+¡Has recibido {0x1700,0x0001}{0x0109,0x0001} de[0x000A]{0x0102,0x0000}!
+No te caben más en la Bolsa.
+No se puede usar con ese Pokémon.
+PS insuficientes...
+{0x0101,0x0000} ha cambiado de forma.
+Aquí no puedes usar eso.
+{0xBDFF:0x002D}
+{0xBDFF:0x002E}
+{0xBDFF:0x002F}
+{0xBDFF:0x0030}
+{0xBDFF:0x0031}
+Solo puede participar un Pokémon.
+No pueden participar más de dos Pokémon.
+No pueden participar más de tres Pokémon.
+No pueden participar más de cuatro Pokémon.
+No pueden participar más de cinco Pokémon.
+No apto
+{0xFF00,0x0002}Primero{0xFF00,0x0000}
+{0xFF00,0x0002}Segundo{0xFF00,0x0000}
+{0xFF00,0x0002}Tercero{0xFF00,0x0000}
+{0xFF00,0x0002}Cuarto{0xFF00,0x0000}
+{0xFF00,0x0002}Quinto{0xFF00,0x0000}
+{0xFF00,0x0002}Sexto{0xFF00,0x0000}
+Apto
+{0xFF00,0x0001}No apto{0xFF00,0x0000}
+{0xFF00,0x0002}Aprendido{0xFF00,0x0000}
+{0xFF00,0x0001}No disponible{0xFF00,0x0000}
+Todos los Pokémon deben ser distintos.
+Algunos Pokémon llevan objetos idénticos.
+La suma de los niveles de los miembros del[0x000A]equipo supera {0x0202,0x0000}.
+Hay {0x0200,0x0000} o más Pokémon especiales.
+Debes elegir Pokémon que puedan participar.
+No se cumplen las condiciones requeridas para[0x000A]participar.
+Conectando...[0x000A]Por favor, espera.
+Tiempo restante
+{0x0201,0x0000}:{0x0201,0x0001}
+{0x0201,0x0001}
+En espera...
+Sí
+No
+{0x0200,0x0000}/{0x0200,0x0001}

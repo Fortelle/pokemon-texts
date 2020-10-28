@@ -1,0 +1,18 @@
+Scambio prodigioso
+Lo scambio prodigioso ti permette di scambiare[0x000A]facilmente i tuoi Pokémon con altri giocatori[0x000A]di tutto il mondo.
+Vuoi eseguire uno scambio prodigioso?
+Vuoi scambiare {0x0102,0x0000}?
+Ricerca di un giocatore disponibile[0x000A]allo scambio. Attendi...
+La ricerca ha avuto successo![0x000A]Attendi...
+Impossibile trovare un giocatore disponibile[0x000A]allo scambio.{0xBE01}[0x000A]Riprova più tardi.
+Il collegamento verrà interrotto.[0x000A]Attendi...
+Sì
+No
+Questo Pokémon non può essere scambiato!
+{0x0202,0x0000}
+{0x0109,0x0001}
+{0x0102,0x0002}
+{0x0100,0x0004}
+L.
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}

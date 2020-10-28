@@ -1,0 +1,11 @@
+{0x0100,0x0000}, Hai qualche idea...?[0x000A]Come facciamo a liberarci del Team Rocket?{0x0114,0x0010}
+Usiamo l’Agenzia Lotta!
+Lottiamo con Pokémon di altri!
+L’Agenzia Lotta...?[0x000A]M-Ma certo!{0x0114,0x0010}
+Lottare con Pokémon di altri...?[0x000A]M-Ma certo!{0x0114,0x0010}
+Non possiamo usare le nostre squadre... ma[0x000A]grazie alle regole dell’Agenzia Lotta, possiamo{0xBE00}[0x000A]lottare con i Pokémon di altri Allenatori!{0x0114,0x0010}
+Aspetta un secondo...{0x0114,0x0010}
+Grazie ai miei privilegi di amministratore, posso[0x000A]accedere in modalità debug...{0xBE00}[0x000A]Fatto. Ora riavvio il programma...{0x0114,0x0010}
+Ecco! Ora anche noi possiamo usare l’Agenzia[0x000A]Lotta!{0x0114,0x0010}
+Questo è tutto quello che posso fare...[0x000A]Mi dispiace...{0x0114,0x0010}
+{0x0100,0x0000}, tu occupati del Team Rocket[0x000A]servendoti dell’Agenzia Lotta!{0xBE01}[0x000A]Nel frattempo io cerco di recuperare[0x000A]completamente i miei privilegi di amministratore!{0x0114,0x0010}

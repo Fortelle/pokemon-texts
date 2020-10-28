@@ -1,0 +1,14 @@
+main_event_0340_rival_01=One last thing before we race, {0x0100,0x0000}.[0x000A]See, I’ve got some great advice for you!{0x0114,0x0005}
+main_event_0340_rival_02=You know how you sometimes see Pokémon[0x000A]wandering about out of the tall grass, yeah?{0x0114,0x0005}
+main_event_0340_rival_03=If you move real slow like, and crouch down,[0x000A]those Pokémon won’t pay you any notice.{0x0114,0x0005}
+main_event_0340_rival_04=But on the other hand...{0xBE01}[0x000A]If you whistle at them, you’ll be SURE to catch[0x000A]their attention!{0x0114,0x0005}
+main_event_0340_rival_05=If you’re a bit rubbish at whistling, just remember[0x000A]this: “Need a fail-proof trick? Press the Left Stick!”{0x0114,0x0005}
+main_event_0340_rival_06=Try it out, and let’s see who can catch the most[0x000A]Pokémon, {0x0100,0x0000}!{0x0114,0x0005}
+main_event_0340_rival_07=You remember Wedgehurst Station, right?[0x000A]Where we went to pick up Lee before.{0xBE00}[0x000A]That’ll be the goal, so see you there!{0x0114,0x0005}
+main_event_0340_rival_14=Come on, {0x0100,0x0000}![0x000A]You’ll never beat me to the station at that pace!{0x0114,0x0005}
+main_event_0340_rival_08=So, out with it, {0x0100,0x0000}![0x000A]How many did you catch?{0xBE01}[0x000A]I caught a really special one!{0x0114,0x0005}
+main_event_0340_rival_09=And you got...{0xBE01}[0x000A]Not one?! What were you doing this whole time?[0x000A]You’re going to want a team if you’re a Trainer!{0x0114,0x0005}
+main_event_0340_rival_10=And you got yourself...{0xBE01}[0x000A]Ooh, just one! Looks like we’re at a draw.[0x000A]Though we are rivals and all, so that’s fair!{0x0114,0x0005}
+main_event_0340_rival_11=But look at how many you caught![0x000A]You’re well on your way to building a fine team.{0x0114,0x0005}
+main_event_0340_rival_12=That’s a technical machine! A TM, mate!{0xBE01}[0x000A]With a TM like that, you can teach your Pokémon[0x000A]a new move in a flash.{0xBE00}[0x000A]And you can use them again and again, too.{0xBE01}[0x000A]That one can teach the move Swift.[0x000A]Lee gave it to me ages ago, and now it’s yours.{0x0114,0x0005}
+main_event_0340_rival_13=The Gym Challenge will begin in Motostoke!{0xBE01}[0x000A]And our train’s waiting, so let’s go!{0x0114,0x0005}

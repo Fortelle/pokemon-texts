@@ -1,0 +1,14 @@
+msg_main0055_doctor_01={0xFF00,0x0009}Chen :{0xFF00,0x0000} Un instant !
+msg_main0055_doctor_02=Maintenant que vous êtes de jeunes Dresseurs,[0x000A]j’ai une faveur à vous demander !{0xBE01}[0x000A]Et pour cela, je dois vous donner une chose[0x000A]bien utile.
+msg_main0055_rival_01={0xFF00,0x0009}{0x0100,0x0001} : {0xFF00,0x0000}C’est quoi ?
+msg_main0055_doctor_03={0xFF00,0x0009}Chen : {0xFF00,0x0000}C’est un petit bijou que j’ai mis au point[0x000A]moi-même. Je vous présente... le Pokédex !{0xBE01}[0x000A]Il enregistre automatiquement les informations[0x000A]sur les Pokémon rencontrés ou capturés !{0xBE01}[0x000A]C’est comme une encyclopédie high-tech !
+msg_main0055_doctor_04={0x0100,0x0000}, {0x0100,0x0001} ![0x000A]En voici un pour chacun !
+msg_main0055_sys_01=Vous obtenez un {0xFF00,0x0006}Pokédex{0xFF00,0x0000} !
+msg_main0055_doctor_05={0xFF00,0x0009}Chen : {0xFF00,0x0000}Attention, par contre ! Il ne suffit pas[0x000A]de voir un Pokémon pour automatiquement{0xBE00}[0x000A]tout connaître à son sujet !{0xBE01}[0x000A]Il faut réussir à l’attraper, hein !
+msg_main0055_doctor_06=J’ai toujours rêvé de créer un guide recensant[0x000A]les Pokémon du monde entier.
+msg_main0055_doctor_09=Mais, pour être honnête, je n’ai plus l’âge[0x000A]pour ça, ha ha !
+msg_main0055_doctor_10=Alors je compte sur vous pour reprendre[0x000A]le flambeau et réaliser mon rêve !
+msg_main0055_doctor_07=Allez, roulez jeunesse ![0x000A]Que la grande quête des Pokémon commence !
+msg_main0055_rival_02={0xFF00,0x0009}{0x0100,0x0001} :{0xFF00,0x0000} Un Pokédex ?[0x000A]Ça me parle !{0xBE01}[0x000A]Rencontrer un max de Pokémon, c’est exactement[0x000A]ce que je veux !
+msg_main0055_rival_03=D’ailleurs, je fonce direct ! Prends ton temps,[0x000A]{0x0100,0x0000}, vas-y à ton rythme.{0xBE01}[0x000A]De toute façon, quelque chose me dit qu’on[0x000A]se recroisera très vite !
+msg_main0055_doctor_08={0xFF00,0x0009}Chen :{0xFF00,0x0000} Les Pokémon du monde entier n’attendent[0x000A]plus que toi, {0x0100,0x0000} !

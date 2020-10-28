@@ -1,0 +1,39 @@
+{0x0181,0x0000}
+Money
+${0x0206,0x0000,0x002C}
+What would you like to buy?
+Check mirror
+Change clothes
+Already purchased
+{0x0184,0x0000}
+What would you like to change into?
+No hats available.
+No hair accessories available.
+No eyewear available.
+No tops available.
+No bottoms available.
+No socks available.
+No shoes available.
+No bags available.
+That will be ${0x0206,0x0000,0x002C}, OK?
+Would you like to put on your latest purchases?
+You’ve selected some different clothing items.[0x000A]Would you like to change into this outfit?
+Thank you very much!{0xBE01}[0x000A]If you’d like to change, feel free to use any[0x000A]nearby fitting room you find!
+You don’t have enough money!
+You’ve already purchased this item.
+You can’t select that item at this time.
+That will be ${0x0206,0x0000,0x0000}.{0xBE01}[0x000A]And it’s OK that you can’t use that accessory[0x000A]with your current style, right?
+Yes
+No
+Y Button:[0x000A]  Zoom In / Zoom Out[0x000A][0x000A]L Button / R Button:[0x000A]  Rotate Left / Rotate Right[0x000A][0x000A]Up/Down:[0x000A]  Move up and down when zoomed in
+Festival Coins
+{0x0206,0x0000,0x002C} FC
+What combination would you like to go with?
+So that’s the color that you’d like to dye your[0x000A]{0x0181,0x0000}?
+It will cost {0x0206,0x0000,0x002C} FC, OK?
+Thanks for putting your trust in us!{0xBE01}[0x000A]*splish splash splash*[0x000A]*swish swish swish*{0xBE01}[0x000A]*flap flap flap*{0xBE01}[0x000A]*vrrrrmmmmmmmm*{0xBE01}[0x000A]... ... ...{0xBE01}[0x000A]Here you are! All done.{0xBE01}
+Would you like to change into the item you just[0x000A]had dyed?
+You don’t have enough Festival Coins!
+You don’t have any items that can be dyed.
+And I’ll just update your ID photo as a special[0x000A]service, too!
+What would you like to dye?

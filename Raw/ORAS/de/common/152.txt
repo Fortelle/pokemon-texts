@@ -1,0 +1,207 @@
+{0x0102,0x0000}
+{0x0101,0x0000}
+{0xFF00,0x0002}♂{0xFF00,0x0000}
+{0xFF00,0x0001}♀{0xFF00,0x0000}
+-
+Lv. 
+{0x0202,0x0000}
+Pokédex-Nr.
+{0x0202,0x0000}
+???
+KP
+{0x0202,0x0000}
+/
+{0x0202,0x0000}
+Angriff
+{0x0202,0x0000}
+Vert.
+{0x0202,0x0000}
+Sp.-Ang.
+{0x0202,0x0000}
+Sp.-Vert.
+{0x0202,0x0000}
+Initiative
+{0x0202,0x0000}
+Wesen
+{0x0108,0x0000}
+Fähigkeit
+{0x0106,0x0000}
+Item
+{0x0109,0x0000}
+Attacken
+{0x0107,0x0000}
+{0x0107,0x0000}
+{0x0107,0x0000}
+{0x0107,0x0000}
+{0x010B,0x0000}
+Kampfbox
+Ablegen
+Mitnehmen
+Bewegen
+Item
+Bericht
+Markieren
+Box wechseln
+Motiv
+Name
+Hintergründe 1
+Hintergründe 2
+Hintergründe 3
+Sonstige
+Spezialmotive
+Wald
+Stadt
+Wüste
+Steppe
+Geröll
+Vulkan
+Schnee
+Höhle
+Strand
+Tiefsee
+Fluss
+Himmel
+Poké-Center
+Metall
+Kariert
+Weiß
+Spezialmotiv 1
+Spezialmotiv 2
+Spezialmotiv 3
+Spezialmotiv 4
+Spezialmotiv 5
+Spezialmotiv 6
+Spezialmotiv 7
+Spezialmotiv 8
+Weiter
+Vorherige
+Zurück
+O.K.
+Beutel
+Geben
+Freilassen
+Zurück
+Ja
+Nein
+Weiter bearbeiten?
+Was soll mit {0x0102,0x0000} geschehen?
+{0xBDFF:0x0057}
+Du benötigst ein kampffähiges Pokémon!
+Wo ablegen?
+Die Box ist voll!
+Dein Team ist voll!
+Eine Box wurde ausgewählt. Was nun?
+Zu welcher Box springen?
+Wähle eine Motivkategorie.
+Wähle ein Hintergrundmotiv.
+{0x0109,0x0000} an dich nehmen?
+Du hast keinen Platz dafür!
+{0x0109,0x0000} im Beutel verstaut.
+Ein Ei kann kein Item tragen!
+Wähle eine Markierung aus.
+Dieses Pokémon wirklich freilassen?
+{0x0102,0x0000} ist wieder frei.
+Mach’s gut, {0x0102,0x0000}!
+{0x0109,0x0000} ausgewählt. Was nun?
+Du kannst diesem Pokémon ein Item geben.
+Du kannst kein Ei freilassen!
+Die Kampfbox wurde abgeriegelt.[0x000A]Pokémon können nicht freigelassen werden.
+Du kannst kein fusioniertes Kyurem freilassen!
+{0x0102,0x0000} ist zurückgekommen!
+War es in Sorge um dich?
+Keine Änderung in der Kampfbox möglich.
+Was soll mit {0x0102,0x0000} geschehen?
+Tausch
+Ablegen
+Zurück
+Das Pokémon verfügt über eine wichtige[0x000A]Attacke und kann nicht getauscht werden.
+Wenn du dieses Pokémon tauschst,[0x000A]kannst du dein Abenteuer nicht fortsetzen!
+Dieses Pokémon kann nicht getauscht werden.
+Dieses Pokémon zum Tausch anbieten?
+Ja
+Nein
+Ein Ei kann nicht zum Tausch[0x000A]angeboten werden.
+{0x0201,0x0000}
+Es kann kein Ei abgelegt werden.
+Die Kampfbox wurde abgeriegelt.[0x000A]Pokémon können nicht bewegt werden.
+Die Kampfbox wurde abgeriegelt.[0x000A]Zugriff auf Items nicht möglich.
+Registriere Pokémon für Kämpfe.
+Die Kampfbox wurde abgeriegelt.[0x000A]Pokémon können nicht markiert werden.
+Neu
+Suchen
+Zurück
+Pokémon
+{0x0101,0x0000}
+Typ 1
+{0x0103,0x0000}
+Typ 2
+{0x0103,0x0000}
+Attacke
+{0x0107,0x0000}
+TM & VM
+{0x0107,0x0000}
+Fähigkeit
+{0x0106,0x0000}
+Wesen
+{0x0108,0x0000}
+Geschlecht
+♂
+♀
+?
+-
+Item
+{0x0109,0x0000}
+Markierung
+Trägt ein Item
+Trägt kein Item
+Wähle deine Filterkriterien und bestätige mit „Suchen“,[0x000A]um den Filtervorgang zu starten!
+Pokémon
+Gib den Anfangsbuchstaben des gewünschten[0x000A]Pokémon-Namens ein.
+Wähle ein Pokémon.
+Wähle Typ 1.
+Wähle Typ 2.
+Gib den Anfangsbuchstaben der gewünschten Attacke ein.
+Suche nach Pokémon, auf die eine bestimmte TM/VM[0x000A]angewendet werden kann.
+Wähle das gewünschte Wesen.
+Gib den Anfangsbuchstaben der gewünschten[0x000A]Fähigkeit ein.
+Wähle das Geschlecht des Pokémon aus.
+Wähle, ob bei der Suche ausschließlich Pokémon[0x000A]mit oder ohne Items berücksichtigt werden sollen.
+Suche nach Pokémon, die du mit[0x000A]einer Markierung versehen hast.
+{0x0101,0x0000}
+{0x0103,0x0001}
+{0x0103,0x0002}
+{0xBDFF:0x00AC}
+{0x0107,0x0000}
+{0x0108,0x0000}
+{0x0106,0x0000}
+Alle Statuswerte steigen in gleichem Maße.
+Erleichtert Training des Angriffs-Werts.[0x000A]Erschwert Training des Verteidigungs-Werts.
+Erleichtert Training des Angriffs-Werts.[0x000A]Erschwert Training der Initiative.
+Erleichtert Training des Angriffs-Werts.[0x000A]Erschwert Training des Sp.-Ang.-Werts.
+Erleichtert Training des Angriffs-Werts.[0x000A]Erschwert Training des Sp.-Vert.-Werts.
+Erleichtert Training des Vert.-Werts.[0x000A]Erschwert Training des Angriffs-Werts.
+Alle Statuswerte steigen in gleichem Maße.
+Erleichtert Training des Vert.-Werts.[0x000A]Erschwert Training der Initiative.
+Erleichtert Training des Vert.-Werts.[0x000A]Erschwert Training des Sp.-Ang.-Werts.
+Erleichtert Training des Vert.-Werts.[0x000A]Erschwert Training des Sp.-Vert.-Werts.
+Erleichtert Training der Initiative.[0x000A]Erschwert Training des Angriffs-Werts.
+Erleichtert Training der Initiative.[0x000A]Erschwert Training des Vert.-Werts.
+Alle Statuswerte steigen in gleichem Maße.
+Erleichtert Training der Initiative.[0x000A]Erschwert Training des Sp.-Ang.-Werts.
+Erleichtert Training der Initiative.[0x000A]Erschwert Training des Sp.-Vert.-Werts.
+Erleichtert Training des Sp.-Ang.-Werts.[0x000A]Erschwert Training des Angriffs-Werts.
+Erleichtert Training des Sp.-Ang.-Werts.[0x000A]Erschwert Training des Vert.-Werts.
+Erleichtert Training des Sp.-Ang.-Werts.[0x000A]Erschwert Training der Initiative.
+Alle Statuswerte steigen in gleichem Maße.
+Erleichtert Training des Sp.-Ang.-Werts.[0x000A]Erschwert Training des Sp.-Vert.-Werts.
+Erleichtert Training des Sp.-Vert.-Werts.[0x000A]Erschwert Training des Angriffs-Werts.
+Erleichtert Training des Sp.-Vert.-Werts.[0x000A]Erschwert Training des Vert.-Werts.
+Erleichtert Training des Sp.-Vert.-Werts.[0x000A]Erschwert Training der Initiative.
+Erleichtert Training des Sp.-Vert.-Werts.[0x000A]Erschwert Training des Sp.-Ang.-Werts.
+Alle Statuswerte steigen in gleichem Maße.
+Ein besonderes Pokémon wie dieses[0x000A]kann nicht zum Tausch angeboten werden!
+Wähle eine Attacke.
+Wähle eine Fähigkeit.
+Dieses Pokémon kann nicht getauscht werden,[0x000A]da es ein besonderes Item bei sich trägt.
+OT
+{0x0100,0x0000}

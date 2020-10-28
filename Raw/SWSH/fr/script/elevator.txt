@@ -1,0 +1,16 @@
+msg_elevator_c03_01=Veuillez choisir une destination.
+msg_elevator_c03_02=Hôtel « La Rose de Winscor »
+msg_elevator_c03_03=Stade de Winscor
+msg_elevator_c03_04=Station de monorail
+msg_elevator_c03_05=Shehroz Tower
+msg_elevator_c03_06=Tour de Combat
+msg_elevator_c03_07=Rester ici
+msg_elevator_c02_01=Vous ne pouvez pas emprunter[0x000A]cet ascenseur pour l’instant.
+msg_elevator_start=À quel étage désirez-vous vous rendre ?
+msg_elevator_cancel=Rester ici
+msg_elevator_1f=RdC
+msg_elevator_3f=2ᵉ
+msg_elevator_ap_1f=RdC : Entrée
+msg_elevator_ap_2f=1ᵉʳ : Réserve Pokémon
+msg_elevator_ap_b1f=-1 : Embarcadère
+msg_elevator_ap_b2f=-2 : Laboratoires

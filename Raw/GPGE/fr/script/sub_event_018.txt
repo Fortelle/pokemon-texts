@@ -1,0 +1,5 @@
+msg_sub018_rocketm_01=Eh ![0x000A]C’est pas chez toi, ici !{0xBE01}[0x000A]Quoi ?[0x000A]Moi ?{0xBE01}[0x000A]J’suis innocent et j’ai un alibi ![0x000A]J’étais... euh... au cinéma ! Ouais !{0xBE01}[0x000A]Quoi ?[0x000A]Tu m’crois pas ?!
+msg_sub018_rocketm_02=OK, t’as gagné, j’vais rendre ce que j’ai volé...
+msg_sub018_sys_01=Vous récupérez {0x1400,0x0001}{0x0109,0x0001} {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000} !
+msg_sub018_rocketm_03=J’décampe...[0x000A]Bye-bye !
+msg_evilm1_01_06={0xBDFF:0x0004}

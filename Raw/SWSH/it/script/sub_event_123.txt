@@ -1,0 +1,15 @@
+sub_event_123_director_01=Io sono il Game Director!
+sub_event_123_director_02=Oh, ma cosa vedo! Stai cercando di completare[0x000A]il Pokédex, vero?
+sub_event_123_director_03=Complimenti! Ci vuole impegno...[0x000A]Ti auguro buona fortuna per la tua impresa!
+sub_event_123_director_04=Ah, a proposito! Ho qualcosa che fa proprio[0x000A]al caso tuo. Ti aiuterà a catturare i Pokémon!
+sub_event_123_director_05=Torna a parlarmi quando avrai completato[0x000A]il Pokédex, mi raccomando!
+sub_event_123_director_06=So che completare il Pokédex non è un’impresa[0x000A]facile, ma so che ce la stai mettendo tutta!{0xBE01}[0x000A]Torna a parlarmi quando avrai completato[0x000A]il Pokédex, mi raccomando!
+sub_event_123_director_07=Ooh...! Incredibile!![0x000A]Hai completato il Pokédex!
+sub_event_123_director_08=I miei più vivi complimenti![0x000A]Che impresa grandiosa! Bravissim{0x1100,0x00FF,0x0101}oa!
+sub_event_123_director_14=Un traguardo strabiliante, degno di lode![0x000A]Ti meriti un riconoscimento ufficiale!
+sub_event_123_director_09=Lascia che aggiunga un simbolo speciale alla tua[0x000A]Card della Lega Pokémon per celebrare questo{0xBE00}[0x000A]strabiliante traguardo!
+sub_event_123_director_10=Ecco fatto!
+sub_event_123_director_11=E questo è un regalo da parte mia!{0xBE01}[0x000A]Mi hai reso felice mostrandomi il tuo Pokédex[0x000A]completo!
+sub_event_123_director_12=Spero che il tuo amore per i Pokémon[0x000A]rimarrà sempre così grande!
+sub_event_123_director_13=Ancora complimenti per aver completato[0x000A]il Pokédex!{0xBE00}[0x000A]Eh eh eh... Non mi stancherò mai di dirtelo!
+sub_event_123_system_01=Il simbolo che attesta il completamento del[0x000A]Pokédex è stato aggiunto alla tua Card della{0xBE00}[0x000A]Lega Pokémon!

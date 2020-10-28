@@ -1,0 +1,4 @@
+msg_main0760_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Ah![0x000A]Du kommst genau richtig, {0x0100,0x0000}!{0xBE01}[0x000A]Unser Gespräch eben hast du gehört, oder?[0x000A]Duuu... willst nicht zufällig mitkommen?
+msg_main0760_rival_02=E-Ein Glück! Ich dachte schon, ich müsste[0x000A]alleine gehen...
+msg_main0760_rival_03=O-Okay... Ach, weißt du was? Ich warte einfach[0x000A]hier, bis du auch bereit bist.
+msg_main0760_rival_04={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Dann mal los!{0xBE01}[0x000A]Geh du einfach vor. Ich bin direkt hinter dir[0x000A]und äh... halte dir den Rücken frei!

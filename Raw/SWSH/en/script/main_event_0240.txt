@@ -1,0 +1,7 @@
+main_event_0240_rival_01=Listen, {0x0100,0x0000}. I’ve been thinking...{0xBE01}[0x000A]If you’re a Pokémon Trainer now, you must want[0x000A]to try your hand at the {0xFF00,0x0006}Gym Challenge{0xFF00,0x0000}, right?{0x0114,0x0005}
+main_event_0240_select_01=The Gym Challenge?
+main_event_0240_select_02=What’s that?
+main_event_0240_rival_02=The Gym Challenge, mate!{0xBE01}[0x000A]The annual competition where Trainers can battle[0x000A]it out for the right to challenge the Champion!{0x0114,0x0005}
+main_event_0240_rival_03=But the trick is that you’ve got to be endorsed[0x000A]if you want to take part.{0xBE01}[0x000A]And Lee doesn’t seem to think I’m up to snuff...{0xBE01}[0x000A]So I’m thinking I ought to talk to the professor[0x000A]and see if she could help!{0x0114,0x0005}
+main_event_0240_rival_04=You’ve got to take part, too!{0xBE01}[0x000A]A proper rival is just the thing every Trainer[0x000A]needs to keep growing stronger, after all.{0xBE00}[0x000A]Keeps you motivated, right?{0x0114,0x0005}
+main_event_0240_rival_05=The professor’s house is way down at the end of[0x000A]Route 2, so let’s head there...and give our teams{0xBE00}[0x000A]the chance to train up a bit along the way!{0x0114,0x0005}

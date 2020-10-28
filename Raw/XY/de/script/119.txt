@@ -1,0 +1,59 @@
+Das ist der Tresen für auserlesene Beerensäfte.{0xBE01}[0x000A]Beerensaft ist gut für deine Pokémon,[0x000A]deswegen solltest du welchen bestellen!{0xBE01}[0x000A]Heute haben wir Folgendes im Angebot...
+Willkommen am Tresen für auserlesene Beerensäfte.{0xBE01}[0x000A]Heute haben wir Folgendes im Angebot...
+Tut mir leid, aber unseren Saft[0x000A]gibt es nur ein Mal pro Tag.{0xBE01}[0x000A]Komm doch bitte morgen wieder.
+Einmal {0x0198,0x0003} macht {0x0206,0x0001,0x002E} $.[0x000A]Möchtest du den Saft kaufen?
+Nein, nein...[0x000A]Pokémon-Eier können keinen Saft trinken.
+Nein, nein...[0x000A]Du hast nicht genügend Geld.
+Hat deinem Pokémon unser heutiges Angebot[0x000A]zugesagt?{0xBE01}[0x000A]Morgen bereiten wir wieder neuen Saft zu.
+Verstehe... Bitte schau bald mal wieder vorbei.
+Das macht dann {0x0206,0x0001,0x002E} $.
+{0x0198,0x0003} {0xBD03,0x0000}{0x0204,0x0002,0x002E} $
+Abbrechen
+Hallöchen! Das hier ist der Tresen[0x000A]für frisch gepressten Beerensaft!{0xBE01}[0x000A]Wenn du mir zwei deiner Beeren gibst,[0x000A]mache ich daraus einen einzigartigen Saft.{0xBE01}[0x000A]Na, was sagst du? Soll ich für deine[0x000A]Pokémon einen Saft herstellen?
+Hallöchen! Willkommen am Tresen[0x000A]für frisch gepressten Beerensaft!{0xBE01}[0x000A]Soll ich aus deinen Beeren Saft herstellen?
+Ich kann nur ein Mal pro Tag Saft herstellen.[0x000A]Tut mir leid. Aber komm doch morgen wieder.
+Oh, was machen wir denn da?[0x000A]Du hast nicht genug Beeren dabei.{0xBE01}[0x000A]Um Saft herstellen zu können,[0x000A]brauche ich zwei Beeren.
+Alles klar, dann wähle bitte die Beeren aus,[0x000A]die gemischt werden sollen.
+Hmmm, eine {0x0109,0x0001}?[0x000A]Eine gute Wahl!{0xBE01}[0x000A]Dann wähle jetzt bitte die zweite Beere aus!
+Hmmm, eine {0x0109,0x0001}?[0x000A]Wieder eine ausgezeichnete Wahl!
+Oh, noch eine {0x0109,0x0001}?[0x000A]Eine ungewöhnliche Wahl!
+Misch und masch...
+Mixerimix...
+Ta-daaa![0x000A]Ich präsentiere: {0x0198,0x0003}!{0xBE01}[0x000A]Welches Pokémon soll den Saft trinken?
+Was? Du möchtest den Saft nicht?![0x000A]Dann trinke ich ihn eben. Bist du dir sicher?
+Hehe, du bist lustig.[0x000A]Pokémon-Eier können keinen Saft trinken.
+Verstanden! Dann lass ich ihn mir schmecken!{0xBE01}[0x000A]Schluck!{0xBE01}[0x000A]Aaah! Der war gut. Danke!
+Hat es deinem Pokémon geschmeckt?[0x000A]Komm doch bald mal wieder!
+Hmmm, schade...[0x000A]Komm bald mal wieder!
+{0x0102,0x0000} nimmt das Getränk[0x000A]{0x0198,0x0003} zu sich!
+{0x0102,0x0000} freut sich!
+{0x0102,0x0000} freut sich sehr!
+{0x0102,0x0000} freut sich unwahrscheinlich!!
+Der KP-Basiswert von {0x0102,0x0000}[0x000A]wurde um {0x0201,0x0001} angehoben.
+Der Angriffs-Basiswert von {0x0102,0x0000}[0x000A]wurde um {0x0201,0x0001} angehoben.
+Der Verteidigungs-Basiswert von {0x0102,0x0000}[0x000A]wurde um {0x0201,0x0001} angehoben.
+Der Spezial-Angriffs-Basiswert von[0x000A]{0x0102,0x0000} wurde um {0x0201,0x0001} angehoben.
+Der Spezial-Verteidigungs-Basiswert von[0x000A]{0x0102,0x0000} wurde um {0x0201,0x0001} angehoben.
+Der Initiative-Basiswert von {0x0102,0x0000}[0x000A]wurde um {0x0201,0x0001} angehoben.
+Der Level von {0x0102,0x0000}[0x000A]ist um den Wert {0x0201,0x0001} gestiegen.
+Die Basiswerte von {0x0102,0x0000}[0x000A]wurden auf Null gesetzt.
+Bunter Shake
+Gelber Saft
+Roter Saft
+Violetter Saft
+Pinker Saft
+Blauer Saft
+Grüner Saft
+Sondersprudel
+Spezialsprudel
+Risikobrühe
+Der Bunte Shake soll es also sein?{0xBE01}[0x000A]Trotz seiner strahlenden Farbe ist er[0x000A]überraschend mild im Geschmack.{0xBE01}[0x000A]Trinkt ihn ein Pokémon, wird es zutraulicher!
+Der Gelbe Saft soll es also sein?{0xBE01}[0x000A]Er ist lieblich im Geschmack und hat eine[0x000A]wärmende Wirkung, als wäre man von{0xBE00}[0x000A]angenehmem Sonnenlicht umgeben.{0xBE01}[0x000A]Trinkt ein Pokémon ihn, steigt sein[0x000A]Verteidigungs-Basiswert.
+Der Rote Saft soll es also sein?{0xBE01}[0x000A]Er ist frisch und anregend im Geschmack[0x000A]und sorgt auf der Stelle für einen Kraftschub.{0xBE01}[0x000A]Trinkt ein Pokémon ihn, steigt sein[0x000A]Angriffs-Basiswert.
+Der Violette Saft soll es also sein?{0xBE01}[0x000A]Er ist intensiv und klar im Geschmack,[0x000A]sanft und doch kräftig.{0xBE01}[0x000A]Trinkt ein Pokémon ihn, steigt sein[0x000A]KP-Basiswert.
+Der Pinke Saft soll es also sein?{0xBE01}[0x000A]Dank seines leichten Aromas und Geschmacks[0x000A]rinnt er im Nu die Kehle hinunter.{0xBE01}[0x000A]Trinkt ein Pokémon ihn, steigt sein[0x000A]Initiative-Basiswert.
+Der Blaue Saft soll es also sein?{0xBE01}[0x000A]Er hat einen herben und reifen Geschmack[0x000A]mit einer einzigartig feinen Note.{0xBE01}[0x000A]Trinkt ein Pokémon ihn, steigt sein[0x000A]Spezial-Angriffs-Basiswert.
+Der Grüne Saft soll es also sein?{0xBE01}[0x000A]Sein unwiderstehlicher, leicht bitterer[0x000A]Geschmack beschwört vor dem inneren{0xBE00}[0x000A]Auge das Bild eines tiefen Waldes herauf.{0xBE01}[0x000A]Trinkt ein Pokémon ihn, steigt sein[0x000A]Spezial-Verteidigungs-Basiswert.
+Der Sondersprudel soll es also sein?{0xBE01}[0x000A]Sein komplexer, unnachahmlicher Geschmack[0x000A]öffnet gewissermaßen das Tor zu einer neuen Welt.{0xBE01}[0x000A]Trinkt ein Pokémon ihn, steigt sein Level.
+Der Spezialsprudel soll es also sein?{0xBE01}[0x000A]Sein Geschmack schlägt ein wie der Urknall[0x000A]und lässt einen den Beginn und das Ende{0xBE00}[0x000A]des Universums spüren.{0xBE01}[0x000A]Trinkt ein Pokémon ihn, steigt sein Level. Und wie!
+Die Risikobrühe soll es also sein?{0xBE01}[0x000A]Sie hat einen drastischen Effekt und fürchterlichen[0x000A]Geschmack, der alles nichtig zu machen scheint.{0xBE01}[0x000A]Trinkt ein Pokémon sie, werden seine Basiswerte[0x000A]auf Null gesetzt.

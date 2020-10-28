@@ -1,0 +1,6 @@
+main_event_0800_rival_01={0x0100,0x0000} ! Je savais que ça irait[0x000A]pour ton {0x0101,0x0001} et toi, mais sans rire,{0xBE00}[0x000A]j’ai stressé de ouf pour vous pendant le combat !{0x0114,0x0005}
+main_event_0800_danpei_01=Bravo, {0x0100,0x0000} ! Tu es à présent[0x000A]détent{0x1100,0x00FF,0x0403}eurrice des Badges Plante, Eau et Feu !{0xBE01}[0x000A]Du bien beau travail !
+main_event_0800_danpei_02=Vu ta puissance, tu es en mesure d’affronter[0x000A]les Champions qui t’attendent à Kickenham{0xBE00}[0x000A]et au-delà.
+main_event_0800_danpei_03=Retourne donc t’aventurer dans les Terres[0x000A]Sauvages et rends-toi à Kickenham !
+main_event_0800_rival_02=Avec nos Badges, on aura aucun mal à affronter[0x000A]les terribles Pokémon qui se cachent tout au fond{0xBE00}[0x000A]des Terres Sauvages ! En route pour l’aventure !{0x0114,0x0005}
+main_event_0800_rival_03={0xBDFF:0x0005}

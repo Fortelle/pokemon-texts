@@ -1,0 +1,41 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+Das ist mein bescheidenes Zuhause.{0xBE01}[0x000A]Ja, ich weiß, es ist recht leer und[0x000A]versprüht nicht gerade viel Charme...{0xBE01}[0x000A]Deshalb habe ich auch nur selten Besuch.[0x000A]Aber lass uns nicht lange um den heißen Brei herumreden!
+Halten wir noch mal ganz genau fest,[0x000A]was hier eigentlich vorgefallen ist...
+Dieser Erdstoß eben...[0x000A]Und dann noch dieser ohrenbetäubende Lärm...{0xBE01}[0x000A]Das sind zwei eindeutige Zeichen dafür, dass das[0x000A]Siegel tief unten im Meer aufgebrochen wurde!
+In einer seit Langem versiegelten Höhle am Meeresgrund[0x000A]nahe Route 128 ruht ein urzeitliches Pokémon.{0xBE01}[0x000A]Das Siegel am Eingang zu dieser Tiefseehöhle entstand[0x000A]mithilfe der Kraft eines bestimmten Pokémon.{0xBE01}[0x000A]Doch durch die Arglist einer Gruppe von Schurken scheint[0x000A]der Bann des Siegels nun gebrochen worden zu sein.{0xBE01}[0x000A]Worauf diese Schufte es abgesehen haben,[0x000A]liegt auf der Hand.{0xBE01}[0x000A]Sie wollen das urzeitliche Pokémon erwecken und[0x000A]seine Kräfte für ihre eigenen Schandtaten missbrauchen!
+{0x0100,0x0000}!
+{0x0100,0x0000}!
+Geraten das urzeitliche Pokémon und seine[0x000A]besonderen Kräfte in die Hände dieser Gauner,{0xBE00}[0x000A]würde das natürliche Gleichgewicht der Welt gestört.{0xBE01}[0x000A]Unser Planet und alles Leben darauf wären somit[0x000A]unvorstellbaren Gefahren ausgesetzt!{0xBE01}[0x000A]Es ist meine Pflicht, alles in meiner Macht Stehende[0x000A]zu tun, um das drohende Unheil abzuwenden.{0xBE01}[0x000A]Doch allein bin ich nicht stark genug.[0x000A]Deshalb möchte ich dich bitten, gemeinsam mit mir{0xBE00}[0x000A]gegen die Schurken von Team Aqua und Team Magma zu{0xBE00}[0x000A]kämpfen. Legen wir ihnen ein für alle Mal das Handwerk!{0xBE01}[0x000A]Noch besteht ein letztes Fünkchen Hoffnung, dass wir[0x000A]diese auf den ersten Blick aussichtslose Situation{0xBE00}[0x000A]unbeschadet überstehen.
+Dies hier möchte ich dir anvertrauen...
+Die VM Taucher lässt dich in Begleitung eines Pokémon[0x000A]bis auf den Meeresgrund hinabtauchen.
+Und damit du auch dort an der Seite deines Pokémon[0x000A]bleiben kannst, gebe ich dir noch das hier.
+Setze die VM Taucher {0xFF00,0x0002}irgendwo auf Route 128 {0xFF00,0x0000}ein.{0xBE01}[0x000A]Von dort aus solltest du zum Eingang[0x000A]der {0xFF00,0x0002}Tiefseehöhle{0xFF00,0x0000} gelangen können.
+Sobald ich meine Aufgabe hier erledigt habe,[0x000A]folge ich dir.
+Halte du bitte solange Team Aqua und Team Magma[0x000A]in Schach. Ich verlasse mich auf dich!
+{0x0100,0x0000} überprüft den Pokéball.{0xBE01}[0x000A]Er enthält das Pokémon Tanhel.{0xBE01}[0x000A]Willst du den Pokéball mitnehmen?
+{0x0100,0x0000} hat Tanhel[0x000A]ins Team aufgenommen.
+In deinem Team ist nicht genug Platz[0x000A]für ein weiteres Pokémon.
+{0x0100,0x0000} legt den Pokéball zurück.
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+Hier liegt ein Brief.
+...
+Lieber {0x0100,0x0000}...
+Liebe {0x0100,0x0000}...
+Ich werde eine Weile auf Reisen sein, um in mich[0x000A]zu gehen und mein Training voranzutreiben.{0xBE01}[0x000A]Es wird sicher einige Zeit dauern, bis ich wieder[0x000A]nach Hause zurückkehre.{0xBE01}[0x000A]Deshalb möchte ich dich um einen Gefallen bitten.{0xBE01}[0x000A]Ich will, dass du den Pokéball an dich nimmst,[0x000A]der auf dem Tisch liegt.{0xBE01}[0x000A]Er enthält mein Lieblings-Pokémon Tanhel.[0x000A]Bitte kümmere dich an meiner Stelle um es.{0xBE01}[0x000A]Auf dass wir uns eines Tages wiedersehen.{0xBE01}[0x000A]Vielen Dank und liebe Grüße,[0x000A]Troy Trumm
+{0xBDFF:0x001C}
+Eine Sammlung seltener Steine,[0x000A]zusammengetragen von Troy.
+...
+Bei genauerer Betrachtung des Umschlags kommt[0x000A]eine Fortsetzung des Briefes zum Vorschein!
+PS:{0xBE01}[0x000A]Ich habe dir übrigens noch ein weiteres[0x000A]besonderes Tanhel zukommen lassen.{0xBE01}[0x000A]Hoffentlich ist es unbeschadet bei dir eingetroffen!{0xBE01}[0x000A]Beide Tanhel strahlen jene Mischung aus kühler Anmut,[0x000A]Stolz und Stärke aus, die allen Pokémon vom Typ Stahl{0xBE00}[0x000A]eigen ist.{0xBE01}[0x000A]Ich hoffe, dass du ihre Gesellschaft als[0x000A]Bereicherung empfindest und sie dir noch viel{0xBE00}[0x000A]Freude bereiten werden!
+Da ist eine Tafel mit einer Aufschrift...{0xBE01}[0x000A]Name: Schalstein[0x000A]Herkunft: Kraterberg in der Sinnoh-Region
+Da ist eine Tafel mit einer Aufschrift...{0xBE01}[0x000A]Name: Hornblende-Biotit-Granit[0x000A]Herkunft: Felstunnel in der Kanto-Region
+Da ist eine Tafel mit einer Aufschrift...{0xBE01}[0x000A]Name: Pechstein[0x000A]Herkunft: Kesselberg in der Johto-Region
+Da ist eine Tafel mit einer Aufschrift...{0xBE01}[0x000A]Name: Hornstein[0x000A]Herkunft: Pyroberg in der Hoenn-Region
+Da ist eine Tafel mit einer Aufschrift...{0xBE01}[0x000A]Name: Grünstein[0x000A]Herkunft: Elektrolithhöhle in der Einall-Region
+Möchtest du dem Tanhel einen Spitznamen geben?
+{0xBDFF:0x0027}
+{0xBDFF:0x0028}

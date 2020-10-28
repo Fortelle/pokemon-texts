@@ -1,0 +1,80 @@
+Der Hautnahturnier-Modus ermöglicht die Teilnahme[0x000A]an Wettkämpfen im Rahmen offizieller Veranstaltungen.[0x000A][0x000A]Weiterführende Einzelheiten zu den Veranstaltungen sind[0x000A]auf der offiziellen Website von Pokémon abrufbar.
+Digitale Ausweisdaten empfangen?
+Empfange digitale Ausweisdaten...[0x000A]Drücke den B-Knopf, um abzubrechen.
+Datenempfang abbrechen?
+Eine Teilnahme an diesem Turnier[0x000A]ist nicht möglich.
+Du hast bereits an diesem Turnier[0x000A]teilgenommen.
+Die Pokémon in deiner Kampfbox[0x000A]zum Turnier anmelden?
+Anmeldevorgang der Kampfbox[0x000A]abbrechen?
+Anmeldevorgang der Kampfbox läuft...[0x000A]Bitte das System nicht ausschalten.
+Willkommen zum Hautnahturnier![0x000A]Bitte wähle einen Spielmodus aus.
+Gegnersuche wird ausgeführt.[0x000A]Bitte warten...
+Verbindung trennen?
+Die Turnierregeln stimmen nicht überein.
+Du hast bereits einen Kampf gegen[0x000A]diesen Gegner bestritten.
+Bitte warte auf Anweisungen der Mitarbeiter,[0x000A]bevor du den A-Knopf drückst.
+Kampfergebnisse werden gespeichert...[0x000A]Bitte das System nicht ausschalten.
+Du hast die vorgesehene Anzahl[0x000A]von Kämpfen bestritten. Gut gemacht!
+Dies ist dein zuletzt bestrittener Kampf. Willst[0x000A]du das zugehörige Kampfvideo ansehen?
+Nach dem Ausstieg ist eine erneute Teilnahme[0x000A]an diesem Turnier nicht möglich.{0xBE01}[0x000A]Dennoch aus dem Turnier aussteigen?
+Die Turnierteilnahme wirklich beenden?
+Du wurdest von dem Turnier abgemeldet.
+Du wurdest von dem Turnier abgemeldet[0x000A]und deine Kampfbox ist wieder freigegeben.
+Datenübertragung wird ausgeführt.[0x000A]Bitte warten...
+Du hast bislang noch keine Kämpfe bestritten.
+Soll die Teilnahme an dem[0x000A]Turnier widerrufen werden?
+Die SD Card wird überprüft...[0x000A]Bitte das System nicht ausschalten.
+Die Aufzeichnung des Kampfes kann aufgrund[0x000A]eines Fehlers nicht wiedergegeben werden.
+Die SD Card ist voll. Die Aufzeichnung des[0x000A]Kampfes konnte nicht gespeichert werden.
+Die Verbindung wird unterbrochen...
+Der Empfang ist fehlgeschlagen.[0x000A]Bitte versuche es noch einmal.
+Es wurden keine Kampfaufzeichnungen[0x000A]gefunden.
+Hautnahturnier
+Deine Kampfbox
+{0x0201,0x0002}.{0x0201,0x0001}.{0x0203,0x0000,0x0000}
+Registrieren
+Abbrechen
+Kämpfen
+Letzten Kampf ansehen
+Turnierteilnahme widerrufen
+Kampfvideo ansehen
+Zurück
+Ja
+Nein
+L
+{0x0202,0x0000}
+{0xFF00,0x0002}♂{0xFF00,0x0000}
+{0xFF00,0x0001}♀{0xFF00,0x0000}
+{0xBDFF:0x002F}
+Deine Statistik
+Siege:
+{0x0201,0x0000}
+Niederlagen:
+{0x0201,0x0000}
+Bestrittene Kämpfe:
+{0x0201,0x0000}/{0x0201,0x0001}
+Gegner
+{0xBDFF:0x0038}
+{0xBDFF:0x0039}
+{0xBDFF:0x003A}
+{0xBDFF:0x003B}
+{0x0201,0x0000}
+{0x0100,0x0000} hat gewonnen.
+{0x0100,0x0000} ist aus dem Kampf ausgestiegen.
+Der Kampf endete unentschieden.
+Es gibt ein Problem mit einem oder[0x000A]mehreren Pokémon in deiner Kampfbox.
+Eier sind von der Teilnahme ausgeschlossen.
+Die zur Teilnahme erforderliche Anzahl[0x000A]an Pokémon wurde nicht erreicht.
+Die zur Teilnahme zulässige Zahl[0x000A]an Pokémon wurde überschritten.
+Zur Teilnahme fehlt dir mindestens[0x000A]noch ein Pokémon.
+Mindestens eines deiner Pokémon beherrscht[0x000A]eine oder mehrere unzulässige Attacken:[0x000A][0x000A]{0x0101,0x0000}[0x000A]{0x0101,0x0001}[0x000A]{0x0101,0x0002}[0x000A]{0x0101,0x0003}[0x000A]{0x0101,0x0004}[0x000A]{0x0101,0x0005}
+Die folgenden Pokémon sind nicht[0x000A]teilnahmeberechtigt:[0x000A][0x000A]{0x0101,0x0000}[0x000A]{0x0101,0x0001}[0x000A]{0x0101,0x0002}[0x000A]{0x0101,0x0003}[0x000A]{0x0101,0x0004}[0x000A]{0x0101,0x0005}
+Die folgenden, von deinem Pokémon-Team[0x000A]getragenen Items sind unzulässig:[0x000A][0x000A]{0x0109,0x0000}[0x000A]{0x0109,0x0001}[0x000A]{0x0109,0x0002}[0x000A]{0x0109,0x0003}[0x000A]{0x0109,0x0004}[0x000A]{0x0109,0x0005}
+Mindestens eines deiner Pokémon erfüllt[0x000A]die Levelanforderungen nicht:[0x000A][0x000A]{0x0101,0x0000}[0x000A]{0x0101,0x0001}[0x000A]{0x0101,0x0002}[0x000A]{0x0101,0x0003}[0x000A]{0x0101,0x0004}[0x000A]{0x0101,0x0005}
+Es darf nur ein Pokémon je Art teilnehmen.[0x000A]Die folgenden Pokémon verletzen diese Regel:[0x000A][0x000A]{0x0101,0x0000}[0x000A]{0x0101,0x0001}[0x000A]{0x0101,0x0002}[0x000A]{0x0101,0x0003}[0x000A]{0x0101,0x0004}[0x000A]{0x0101,0x0005}
+Mindestens zwei deiner Pokémon befinden[0x000A]sich im Besitz des gleichen Items:[0x000A][0x000A]{0x0109,0x0000}[0x000A]{0x0109,0x0001}[0x000A]{0x0109,0x0002}[0x000A]{0x0109,0x0003}[0x000A]{0x0109,0x0004}[0x000A]{0x0109,0x0005}
+Es befinden sich zu viele besondere[0x000A]Pokémon in deiner Auswahl.
+Du kannst nicht am Hautnahturnier teilnehmen,[0x000A]da du gerade am Online-Turnier teilnimmst.{0xBE01}[0x000A]Möchtest du deine Teilnahme am[0x000A]Online-Turnier widerrufen?
+Nach dem Ausstieg ist eine erneute Teilnahme[0x000A]am Online-Turnier nicht möglich.{0xBE01}[0x000A]Dennoch aus dem Turnier aussteigen?
+Du wirst von dem Turnier abgemeldet...[0x000A]Bitte das System nicht ausschalten.
+Du wurdest vom Online-Turnier abgemeldet.

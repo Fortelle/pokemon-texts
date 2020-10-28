@@ -1,0 +1,5 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+I Superquattro aspettano gli sfidanti[0x000A]alla Lega Pokémon.{0xBE01}[0x000A]Ognuno di loro è esperto di un certo[0x000A]tipo di Pokémon: Fuoco, Acqua,{0xBE00}[0x000A]Acciaio o Drago.{0xBE01}[0x000A]Puoi scegliere l’ordine in cui affrontarli.[0x000A]L’importante è sconfiggerli tutti.
+Sei pront{0x1100,0x00FF,0x0101}oa?{0xBE01}[0x000A]Se decidi di procedere, non potrai[0x000A]uscire se non come vincit{0x1100,0x00FF,0x0302}orrice...{0xBE00}[0x000A]o perdente!

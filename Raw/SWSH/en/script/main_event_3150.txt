@@ -1,0 +1,12 @@
+msg_main3150_doctor_01=Oh, {0x0100,0x0000}!{0x0114,0x000B}
+msg_main3150_doctor_02=Someone saw those sword and shield weirdos![0x000A]They said they got through the door!{0x0114,0x000B}
+msg_main3150_doctor_03=But the door’s closed with an electric lock.[0x000A]Opening it might take some time...{0x0114,0x000B}
+msg_main3150_dog_01=Bow wark!
+msg_main3150_doctor_04=I’ll work on getting the door to the roof open.[0x000A]Can you take care of what’s going on in the{0xBE00}[0x000A]stadiums, {0x0100,0x0000}?{0x0114,0x000B}
+msg_main3150_doctor_05=Wha—? You’re back already? Hold on a moment![0x000A]I think I’ve almost got it... Huh? That’s strange...{0x0114,0x000B}
+msg_main3150_dog_02=Yamp! Yamp!
+msg_main3150_doctor_07=What?! It...it opened?!{0x0114,0x000B}
+msg_main3150_doctor_08=Yamper! I should’ve known! Thanks for your help!{0x0114,0x000B}
+msg_main3150_dog_03=Nuphunnn!
+msg_main3150_doctor_06=Those two weird guys are probably up ahead.[0x000A]Be careful!{0x0114,0x000B}
+msg_main3150_system_01=Zzzap!

@@ -1,0 +1,9 @@
+main_event_1120_trainer_01=¡Bienvenid{0x1100,0x00FF,0x0101}oa, Aspirante! ¿Quieres afrontar el reto[0x000A]de nuestro gimnasio?
+main_event_select_01=¡Por supuesto!
+main_event_select_02=Quizá más tarde
+main_event_1120_trainer_02=En ese caso dirígete al vestuario para ponerte el[0x000A]uniforme, si eres tan amable.{0xBE01}[0x000A]Más que una misión, te espera un examen muy[0x000A]concienzudo que medirá tus cualidades.
+main_event_1120_trainer_04=¡Qué bien te sienta el uniforme! Pues nada,[0x000A]¡tú tranquil{0x1100,0x00FF,0x0101}oa y buena suerte!
+main_event_1120_trainer_03=¡Vaya, pues qué lástima!
+main_event_1120_trainer_05=Espero que estés list{0x1100,0x00FF,0x0101}oa para esta misión...[0x000A]¿o debería decir examen?
+main_event_1120_trainer_06=Has recibido una MT de Sally, ¿no?{0xBE01}[0x000A]Pues nada, te toca poner rumbo al siguiente[0x000A]gimnasio, que está en Pueblo Auriga.
+main_event_1120_trainer_07=¡Qué bien te queda la Medalla Hada![0x000A]¡Sigue así, {0x0100,0x0000}!

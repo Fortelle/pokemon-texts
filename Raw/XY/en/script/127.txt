@@ -1,0 +1,76 @@
+It’s soft soil.
+It’s soft soil.[0x000A]What do you want to do?
+{0x0109,0x0006} has been used!
+Which Mulch will you use?
+Use Mulch
+Plant a Berry
+Nothing
+Use Mulch?
+Quit
+Plant a Berry?
+Used {0x0109,0x0006} on the soil.
+Planted {0x1302,0x0001}{0x0109,0x0001}!
+A Pokémon appeared!
+A weed is growing here.[0x000A]Do you want to pull it out?
+The {0x018E,0x0007} tree seems fine!
+The {0x018E,0x0007}’s buds seem fine!
+The {0x018E,0x0007}’s flowers seem fine!
+{0x0100,0x0005} pulled out the weed!
+This is where you planted[0x000A]the {0x0109,0x0001}!
+The {0x018E,0x0007} is sprouting!
+The {0x018E,0x0007}’s seedling is growing well!
+The {0x018E,0x0007}’s trunk is getting bigger!
+The {0x018E,0x0007} tree has buds!
+The {0x018E,0x0007} tree is in bloom!
+The soil is dry...[0x000A]Water it with a watering can!
+The soil is moist.[0x000A]You don’t have to water it.
+The soil is dry...[0x000A]Would you like to water it?
+{0xBDFF:0x001B}
+You watered the soil, and now it’s nice and moist.
+The {0x1000}{0x0109,0x0001} tree has {0x0201,0x0003} Berr{0x1101,0x0003,0x0301}yies!
+Will you harvest the crop?
+Harvested {0x0201,0x0003} Berr{0x1101,0x0003,0x0301}yies from the[0x000A]{0x1000}{0x0109,0x0001} tree!
+{0x0100,0x0005} didn’t harvest the[0x000A]{0x1000}{0x0109,0x0001} crop.
+The Bag was full. You gave up the[0x000A]{0x1000}{0x0109,0x0001} crop.
+Put the {0x1000}{0x0109,0x0001} crop in the Bag![0x000A]The soil is ready to be planted again.
+The {0x018E,0x0007} tree has withered...{0xBE01}[0x000A]...Oh?[0x000A]A new sprout is growing among the dead leaves!
+The tree also has a Berry crop caused by a sudden[0x000A]mutation! They are:{0xBE01}[0x000A]{0x0109,0x0001}: {0x0201,0x0003}[0x000A]{0x0109,0x0002}: {0x0201,0x0004}
+The Bag is full.[0x000A]You gave up harvesting the crop.
+{0x0100,0x0005} didn’t harvest the crop.
+Today’s harvest:{0xBE01}[0x000A]{0x1001}{0x0109,0x0001}: {0x0201,0x0003}[0x000A]{0x1001}{0x0109,0x0002}: {0x0201,0x0004}
+Put the {0x1000}{0x0109,0x0001} and[0x000A]{0x1000}{0x0109,0x0002} crop in the Bag!{0xBE01}[0x000A]The soil is ready to be planted again.
+{0x0109,0x0006}
+It’s a composter![0x000A]The instructions are written on the lid...{0xBE01}[0x000A]Put three Berries in, and you can make Mulch.{0xBE01}[0x000A]Using Mulch on the soil before planting a[0x000A]Berry helps the Berries grow.{0xBE01}[0x000A]Do you want to compost some[0x000A]Berries to make Mulch?
+It’s a composter.[0x000A]Will you compost some Berries to make Mulch?
+The instructions are on the lid of the composter![0x000A]You need three Berries to make Mulch.
+Please choose the first Berry.
+Please choose the second Berry.
+Please choose the third Berry.
+{0x0100,0x0005} put {0x1302,0x0000}{0x0109,0x0000},[0x000A]{0x1302,0x0001}{0x0109,0x0001}, and{0xBE00}[0x000A]{0x1302,0x0002}{0x0109,0x0002} into the composter!
+...
+{0x0100,0x0005} got[0x000A]{0x0201,0x0003} bag{0x1101,0x0003,0x0100}s of {0x0109,0x0006}!
+It’s a well.
+Hey, mister...[0x000A]This way, this way!
+Hey, miss...[0x000A]This way, this way!
+Grandpa! H{0x1100,0x00FF,0x0202}iser Pokémon is cool!
+You!{0xBE01}[0x000A]I know this is an unexpected request, but[0x000A]I need you to take care of my Berry field!{0xBE01}[0x000A]Berries are great![0x000A]One Berry can produce more Berries!{0xBE01}[0x000A]I assure you that you’ll love field work!
+Oh, come on.[0x000A]Please take care of the field for me?
+Please! Please take care of the field!
+Oh, great![0x000A]Er...oh, your name is {0x0100,0x0000}.{0xBE00}[0x000A]Thank you, {0x0100,0x0000}!
+Hooray![0x000A]That’s great, Grandpa!
+I must teach you how to take care of the field[0x000A]right away! Follow me, please.
+Plant a Berry in this soft soil!{0xBE01}[0x000A]Check the soil you want to plant a Berry in,[0x000A]and choose a Berry from your Bag.{0xBE01}[0x000A]Oh, I know![0x000A]I should give you some Berries to plant!
+If you find a Berry in front of a huge tree,[0x000A]come here and plant it!
+Once you plant a Berry, the next step is watering.[0x000A]Here! This is for you!
+Check the soil where you planted a Berry,[0x000A]and if it’s dry, water it!{0xBE01}[0x000A]Take good care of it, and you’ll get more Berries!
+Well, {0x0100,0x0000}.[0x000A]Please take good care of the field!{0xBE01}[0x000A]I’m so relieved.[0x000A]My back has been killing me lately,{0xBE00}[0x000A]and I just can’t garden like I used to.
+We live in the house at the corner of the field!
+{0x0100,0x0000} received a {0x0109,0x0001}!
+Nice to meet you![0x000A]Are you the owner of this place?
+Oh my![0x000A]It’s such an honor to meet you.{0xBE01}[0x000A]I’m researching sudden mutations of Berries!{0xBE01}[0x000A]If you find a sudden mutation,[0x000A]please come to the house!
+I see. You’re the one who’s responsible[0x000A]for taking care of this field!{0xBE01}[0x000A]I’m researching sudden mutations of Berries!{0xBE01}[0x000A]If you find a sudden mutation,[0x000A]please come to the house!
+Yay![0x000A]You got {0x0201,0x0003} bag{0x1101,0x0003,0x0100}s of {0x0109,0x0006}!
+Too bad! There is no more room for[0x000A]{0x1001}{0x0109,0x0006}!
+You gave up on making Mulch.
+Gasp! {0x1100,0x00FF,0x0403}SirMiss! Over there![0x000A]Please wait!
+Well, I might as well give you these Berries, too.

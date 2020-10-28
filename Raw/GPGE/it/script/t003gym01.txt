@@ -1,0 +1,7 @@
+msg_t003gym01_gym_01=Vuoi un consiglio prima di affrontare il Capopalestra?
+msg_t003gym01_gym_02=Perfetto! Allora ascolta!
+msg_t003gym01_gym_03=Il primo Pokémon a scendere in campo è quello[0x000A]in alto a sinistra nella schermata della squadra!{0xBE01}[0x000A]A volte cambiare l’ordine dei Pokémon[0x000A]può aiutare nella lotta! Provaci!
+msg_t003gym01_gym_04=Oh, non mi costa niente, sai?[0x000A]Senti qua!
+msg_t003gym01_gym_05=Come pensavo! Hai le carte in regola[0x000A]per diventare un{0x1100,0x00FF,0x0100}a Campione{0x1100,0x00FF,0x0300}ssa!
+msg_t003gym01_statue_01=Palestra di Plumbeopoli{0xBE01}[0x000A]Allenatori certificati da Brock:[0x000A]{0x0100,0x0001}
+msg_t003gym01_statue_02=Palestra di Plumbeopoli{0xBE01}[0x000A]Allenatori certificati da Brock:[0x000A]{0x0100,0x0001} e {0x0100,0x0000}

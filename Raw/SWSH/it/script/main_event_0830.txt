@@ -1,0 +1,13 @@
+main_event_0830_rival_01=Eccomi di ritorno, Terre Selvagge!{0xBE01}[0x000A]Sono un Allenatore nuovo ora![0x000A]Sono molto più forte di prima!{0x0114,0x0005}
+main_event_0830_rival_02={0x0100,0x0000}![0x000A]Knuckleburgh è da quella parte!{0x0114,0x0005}
+main_event_0830_rival_05=Potremmo anche attraversare le Terre Selvagge[0x000A]tutte d’un fiato, volendo...{0x0114,0x0005}
+main_event_0830_rival_06=Ma ora che abbiamo un po’ di Medaglie,[0x000A]possiamo approfittarne per catturare Pokémon{0xBE00}[0x000A]più forti!{0x0114,0x0005}
+main_event_0830_rival_07=Ho deciso!{0xBE01}[0x000A]Catturerò un Pokémon incredibilmente potente[0x000A]e aggiungerò un altro capitolo alla mia leggenda!{0x0114,0x0005}
+main_event_0830_seniority_01=Ti consiglio di non strafare.{0xBE01}[0x000A]Tanto non hai speranze di spuntarla nella Sfida[0x000A]delle Palestre.{0x0114,0x000C}
+main_event_0830_seniority_02=Umpf... Il Campione deve avere qualche rotella[0x000A]fuori posto se ha sponsorizzato due come voi...{0x0114,0x000C}
+main_event_0830_seniority_03=Prendiamo ad esempio te, Hop. Sei sicuro[0x000A]di sapere come si lancia una Poké Ball?{0x0114,0x000C}
+main_event_0830_rival_03=Che ne vuoi sapere tu?! La mia tecnica è[0x000A]assolutamente impeccabile! E poi...{0xBE01}[0x000A]Forse non ti sei reso conto che mio fratello è il[0x000A]Campione più grande che c’è! Mostra rispetto!{0x0114,0x0005}
+main_event_0830_seniority_04=Uff... Vedo che da solo non ci arrivi.[0x000A]E va bene, andiamo laggiù e sfidiamoci.{0xBE01}[0x000A]Così ti renderai conto una buona volta[0x000A]di quanto sei mediocre.{0x0114,0x000C}
+main_event_0830_rival_04=Ma sentilo! Che faccia tosta!{0xBE01}[0x000A]Come se non avesse perso miseramente[0x000A]contro {0x0100,0x0000} alla Miniera 2!{0xBE01}[0x000A]Ti ricordo che io e l{0x1100,0x00FF,0x0101}uei siamo ottimi rivali.{0xBE01}[0x000A]Questo vuol dire che se l{0x1100,0x00FF,0x0101}uei ti ha battuto,[0x000A]non hai speranze neppure contro di me!{0x0114,0x0005}
+main_event_0830_seniority_05={0x0100,0x0000} di qua, Campione di là...[0x000A]Quante chiacchiere!{0xBE01}[0x000A]Fammi vedere di che pasta sei fatto TU!{0x0114,0x000C}
+main_event_0830_rival_08=Non aspetto altro!{0xBE01}[0x000A]{0x0100,0x0000}, vai pure avanti![0x000A]Ci vediamo a Knuckleburgh!{0x0114,0x0005}

@@ -1,0 +1,268 @@
+●●
+¡Un {0x0101,0x0000} salvaje te corta el paso!
+¡Oh! ¡Un {0x0101,0x0000} se abalanza sobre ti!
+¡Un {0x0101,0x0000} salvaje te corta el paso!
+¡Un {0x0101,0x0000} salvaje te corta el paso!
+¡Es el {0x0101,0x0000} que acabas de pisar!
+¡Es {0x0101,0x0000}!
+¡Te has topado con una horda de Pokémon salvajes!
+¡{0x1709,0x0000}{0x019E,0x0000}[0x000A]te desafía{0x1101,0x0000,0x0100}n!{0xBE01}
+¡{0x0100,0x0000} quiere combatir contigo!{0xBE01}
+¡{0x1709,0x0000}{0x019E,0x0000} y {0x1708,0x0002}[0x000A]{0x019E,0x0002} te desafían!{0xBE01}
+¡{0x0100,0x0000} y[0x000A]{0x0100,0x0001} te desafían!{0xBE01}
+¡Adelante, {0x0102,0x0000}!
+¡Adelante, {0x0102,0x0000} y {0x0102,0x0001}!
+¡Adelante, {0x0102,0x0000}, {0x0102,0x0001}[0x000A]y {0x0102,0x0002}!
+¡{0x1709,0x0000}{0x019E,0x0000} saca{0x1101,0x0000,0x0100}n[0x000A]a {0x0102,0x0002}!
+¡{0x1709,0x0000}{0x019E,0x0000} saca{0x1101,0x0000,0x0100}n a[0x000A]{0x0102,0x0002} y {0x0102,0x0003}!
+¡{0x1709,0x0000}{0x019E,0x0000} saca{0x1101,0x0000,0x0100}n a[0x000A]{0x0102,0x0002}, {0x0102,0x0003} y{0xBE00}[0x000A]{0x0102,0x0004}!
+¡{0x0100,0x0000} saca a {0x0102,0x0001}!
+¡{0x0100,0x0000} saca a {0x0102,0x0001}[0x000A]y {0x0102,0x0002}!
+¡{0x0100,0x0000} saca a {0x0102,0x0001}, {0x0102,0x0002}[0x000A]y {0x0102,0x0003}!
+¡{0x1709,0x0000}{0x019E,0x0000} va{0x1101,0x0000,0x0100}n a[0x000A]sacar a {0x0102,0x0002}!{0xBE00}[0x000A]¿Quieres cambiar de Pokémon?
+¡Vamos, {0x0102,0x0000}!
+¡Tú puedes, {0x0102,0x0000}!
+¡Ya queda poco! ¡Venga, {0x0102,0x0000}!
+¡Tu rival está débil![0x000A]¡A por él, {0x0102,0x0000}!
+¡{0x0102,0x0000}, cambio![0x000A]¡Vuelve aquí!
+¡{0x0102,0x0000}, ven aquí!
+¡{0x0102,0x0000}, está bien![0x000A]¡Ven aquí!
+¡Bien hecho, {0x0102,0x0000}![0x000A]¡Ven aquí!
+¡Muy bien, {0x0102,0x0000}![0x000A]¡Ven aquí!
+¡{0x1709,0x0000}{0x019E,0x0000}[0x000A]ha{0x1101,0x0000,0x0100}n retirado a {0x0102,0x0002} del combate!
+¡{0x0100,0x0000} retira{0x1101,0x0000,0x0100}n a {0x0102,0x0001} del combate!
+N.º de golpes: {0x0200,0x0000}.
+¡{0x0100,0x0000} ha usado {0x1702,0x0001}{0x0109,0x0001}!
+¡{0x0100,0x0000} ha usado {0x1702,0x0001}{0x0109,0x0001}!
+¡{0x1709,0x0000}{0x019E,0x0000}[0x000A]ha{0x1101,0x0000,0x0100}n usado {0x1702,0x0002}{0x0109,0x0002}!
+¡{0x0100,0x0000} ha lanzado {0x1702,0x0002}{0x0109,0x0002}[0x000A]a {0x0102,0x0001}!
+Ahora no puedes usar el Superlanzador.
+El Pokémon de {0x0100,0x0000} rota[0x000A]hacia la izquierda.
+El Pokémon de {0x0100,0x0000} rota[0x000A]hacia la izquierda.
+El Pokémon de {0x0100,0x0000} rota[0x000A]hacia la derecha.
+El Pokémon de {0x0100,0x0000} rota[0x000A]hacia la derecha.
+{0x010C,0x0000} ha ganado {0x0206,0x0001,0xE07F}[0x000A]Punto{0x1101,0x0001,0x0100}s de Experiencia.
+{0x010C,0x0000} ha ganado un total de {0x0206,0x0001,0xE07F}[0x000A]Punto{0x1101,0x0001,0x0100}s de Experiencia.
+El resto del equipo también ha ganado[0x000A]Puntos de Experiencia.
+¡{0x1709,0x0000}{0x019E,0x0000}[0x000A]ha{0x1101,0x0000,0x0100}n perdido!
+¡{0x1709,0x0000}{0x019E,0x0000} y {0x1708,0x0002}[0x000A]{0x019E,0x0002} han perdido!
+¡Has perdido! ¡La victoria es para[0x000A]{0x1708,0x0000}{0x019E,0x0000}!
+¡Has empatado con[0x000A]{0x1708,0x0000}{0x019E,0x0000}!
+¡Has derrotado a {0x0100,0x0000}!
+¡Has derrotado a {0x0100,0x0001} y {0x0100,0x0000}!
+¡Has perdido contra {0x0100,0x0000}!
+¡Has perdido contra {0x0100,0x0001} y[0x000A]{0x0100,0x0000}!
+¡Has empatado con {0x0100,0x0000}!
+¡Has empatado con {0x0100,0x0001}[0x000A]y {0x0100,0x0000}!
+¡A {0x0100,0x0000} no le quedan Pokémon!{0xBE01}
+¡{0x0100,0x0000} se ha desconcertado[0x000A]y se le han caído {0x0204,0x0001,0xE07F} $!
+{0x0100,0x0000} paga {0x0204,0x0001,0xE07F} $[0x000A]por haber perdido el combate.
+...{0xBE01}[0x000A]{0x0100,0x0000} está fuera de combate.
+{0x0100,0x0000} ha ganado {0x0205,0x0001,0xE07F} $ por vencer.{0xBE01}
+{0x0100,0x0000} ha recogido {0x0204,0x0001,0xE07F} $.
+{0x010C,0x0000} ha subido al Nivel {0x0202,0x0001}.
+¡Oh, no! ¡El Pokémon se ha escapado!
+¡Vaya! ¡Parecía que lo habías atrapado!
+¡Qué pena! ¡Te ha faltado poco!
+¡Uy! ¡Casi lo consigues!
+¡Ya está! ¡{0x0101,0x0000} atrapado!
+Los datos de {0x0101,0x0000} se han registrado[0x000A]en la Pokédex.
+¡El Entrenador ha devuelto la Poké Ball!{0xBE01}[0x000A]¡No cojas lo que no es tuyo!
+¡Pero no ha surtido efecto!
+¿Qué debería hacer {0x010C,0x0000}?
+¿Qué debería hacer {0x0100,0x0000}?
+{0x010C,0x0000} espera instrucciones por parte de[0x000A]{0x0100,0x0001}...
+¡Pero ha fallado!
+¡Escapas sin problemas!
+¡No has podido escapar!
+¡No puedes huir!
+¡El {0x0102,0x0000} salvaje ha huido!
+¡No puedes huir de un combate contra un Entrenador!
+¿Quieres abandonar y retirarte del combate?
+¡Es supereficaz!
+No es muy eficaz...
+¡Está tan confuso que se ha herido a sí mismo!
+¡Un golpe crítico!
+¡Pero no le quedan más PP para ejecutar ese movimiento!
+Gracias a que {0x0100,0x0000} ha venido a ayudarte,[0x000A]{0x0102,0x0001} ha recuperado PS.
+¡El sol pega fuerte!
+¡Ha empezado a llover!
+¡Se ha desatado una tormenta de arena!
+¡Ha empezado a granizar!
+¡La niebla empieza a cubrir la zona!
+¡El sol vuelve a brillar como siempre!
+¡Ha dejado de llover!
+¡La tormenta de arena ha amainado!
+¡Ha dejado de granizar!
+¡La niebla se ha disipado!
+El tiempo atmosférico ya no ejerce ninguna influencia.
+La tormenta de arena arrecia...
+¡El granizo cae con violencia!
+¡Es un golpe fulminante!
+¡{0x1701,0x0000}{0x0109,0x0000} ha debilitado la potencia[0x000A]de {0x0107,0x0001}!
+¡A causa de {0x1700,0x0000}{0x0109,0x0000} solo se puede usar[0x000A]{0x0107,0x0001}!
+El efecto {0x1704,0x0000}{0x0109,0x0000} impide[0x000A]la ejecución de ataques de estado.
+¡{0x010C,0x0000} solo puede usar {0x0107,0x0001}!
+¡Se han anulado todos los cambios en las características!
+¡Pero no ha tenido ningún efecto!
+{0x0106,0x0001}[0x000A]de {0x0102,0x0000}
+¡Magnitud 4!
+¡Magnitud 5!
+¡Magnitud 6!
+¡Magnitud 7!
+¡Magnitud 8!
+¡Magnitud 9!
+¡Magnitud 10!
+Ha repicado una campana.
+Un aroma balsámico flota en el aire.
+¡Los combatientes comparten sus PS!
+¡La potencia de los ataques de fuego ha disminuido!
+Hidrochorro ha dejado de surtir efecto.
+¡La potencia de los movimientos eléctricos ha disminuido!
+Chapoteo Lodo ha dejado de surtir efecto.
+Se han restaurado las dimensiones[0x000A]alteradas.
+¡La gravedad se ha incrementado!
+La gravedad ha vuelto a su estado normal.
+¡Los Pokémon que oigan Canto Mortal se debilitarán[0x000A]dentro de tres turnos!
+¡Metrónomo actúa como {0x0107,0x0000}!
+¡Adaptación actúa como {0x0107,0x0000}!
+¡Hay monedas por todas partes!
+¡Está demasiado débil para crear un sustituto!
+¡Reflejo ha subido la Defensa de tu equipo!
+¡Reflejo ha subido la Defensa del equipo enemigo!
+El efecto de Reflejo en tu equipo se ha disipado.
+El efecto de Reflejo en el equipo enemigo se ha disipado.
+¡Pantalla de Luz ha subido la Defensa Especial[0x000A]de tu equipo!
+¡Pantalla de Luz ha subido la Defensa Especial[0x000A]del equipo enemigo!
+El efecto de Pantalla de Luz en tu equipo se ha disipado.
+El efecto de Pantalla de Luz en el equipo enemigo[0x000A]se ha disipado.
+¡Tu equipo se ha protegido con Velo Sagrado!
+¡El equipo enemigo se ha protegido con Velo Sagrado!
+El efecto de Velo Sagrado en tu equipo se ha disipado.
+El efecto de Velo Sagrado en el equipo enemigo[0x000A]se ha disipado.
+¡Neblina ha cubierto a tu equipo!
+¡Neblina ha cubierto al equipo enemigo!
+El efecto de Neblina en tu equipo se ha disipado.
+El efecto de Neblina en el equipo enemigo se ha disipado.
+¡Viento Afín empieza a soplar sobre tu equipo!
+¡Viento Afín empieza a soplar sobre el equipo rival!
+Ha cesado el Viento Afín de tu equipo.
+Ha cesado el Viento Afín del equipo rival.
+¡Conjuro protege a tu equipo de los golpes críticos!
+¡Conjuro protege al equipo rival de los golpes críticos!
+El Conjuro de tu equipo se ha desvanecido.
+El Conjuro del equipo enemigo se ha desvanecido.
+¡Tu equipo ha sido rodeado de púas!
+¡El equipo enemigo ha sido rodeado de púas!
+Las púas lanzadas a tu equipo han desaparecido.
+Las púas lanzadas al equipo enemigo han desaparecido.
+¡Tu equipo ha sido rodeado de púas tóxicas!
+¡El equipo enemigo ha sido rodeado de púas tóxicas!
+Las púas tóxicas lanzadas a tu equipo han desaparecido.
+Las púas tóxicas lanzadas al equipo enemigo[0x000A]han desaparecido.
+¡Tu equipo está rodeado de piedras puntiagudas!
+¡El equipo enemigo está rodeado de piedras puntiagudas!
+Las piedras puntiagudas lanzadas a tu equipo[0x000A]han desaparecido.
+Las piedras puntiagudas lanzadas al equipo enemigo[0x000A]han desaparecido.
+¡Vastaguardia protege a tu equipo!
+¡Vastaguardia protege al equipo rival!
+¡Anticipo protege a tu equipo!
+¡Anticipo protege al equipo rival!
+¡Ha aparecido un arcoíris sobre tu equipo!
+¡Ha aparecido un arcoíris sobre el equipo rival!
+El arcoíris sobre tu equipo ha desaparecido.
+El arcoíris sobre el equipo rival ha desaparecido.
+¡Tu equipo se ve rodeado por un mar de llamas!
+¡El equipo rival se ve rodeado por un mar de llamas!
+El mar de llamas que rodeaba a tu equipo ha desaparecido.
+El mar de llamas que rodeaba al equipo rival[0x000A]ha desaparecido.
+¡Ha aparecido un pantano alrededor de tu equipo!
+¡Ha aparecido un pantano alrededor del equipo rival!
+El pantano que rodeaba a tu equipo ha desaparecido.
+El pantano que rodeaba al equipo rival ha desaparecido.
+¡Tu equipo está muy nervioso y no puede tomar bayas!
+¡El equipo rival está muy nervioso y no puede tomar bayas!
+¡Se ha creado un espacio en el que la Defensa[0x000A]y la Defensa Especial se invierten!
+Los efectos de Zona Extraña sobre la Defensa y la[0x000A]Defensa Especial han desaparecido.
+¡Se ha creado un espacio en el que los efectos de los[0x000A]objetos desaparecen!
+Los efectos de Zona Mágica sobre los objetos[0x000A]han desaparecido.
+¡{0x1701,0x0000}{0x0109,0x0000} refuerza{0x1101,0x0000,0x0100}n el poder[0x000A]de {0x0107,0x0001}!
+¡Se ha acabado el tiempo![0x000A]¡Fin del combate!
+El combate dura demasiado.[0x000A]Se ha detenido la reproducción.
+¡Modo Daruma activado!
+Modo Daruma desactivado.
+¡Los dos movimientos se han unido![0x000A]¡Es un movimiento combinado!
+¡{0x010C,0x0000} no quiere obedecer!
+¡{0x010C,0x0000} está holgazaneando!
+¡{0x010C,0x0000} te da la espalda!
+¡{0x010C,0x0000} se hace el tonto!
+¡{0x010C,0x0000} hace caso omiso de las órdenes!
+¡{0x010C,0x0000} ha decidido echarse una siesta!
+¡{0x010C,0x0000} hace caso omiso de las órdenes[0x000A]y sigue durmiendo!
+Centrando Pokémon
+¡Pero ese objeto no puede usarse con este Pokémon!
+¡{0x010C,0x0000} está bajo los efectos de Caída Libre![0x000A]No puede actuar libremente.
+El combate ha finalizado por una retirada.
+¡El terreno de combate se ha cubierto de hierba!
+La hierba ha desaparecido.
+¡La niebla ha envuelto el terreno de combate!
+La niebla se ha disipado.
+¡Se ha formado un campo de corriente eléctrica[0x000A]en el terreno de combate!
+El campo de corriente eléctrica ha desaparecido.
+¡Truco Defensa protege a tu equipo!
+¡Truco Defensa protege al equipo rival!
+¡Escudo Tatami neutraliza {0x0107,0x0000}!
+¡Una red viscosa se extiende a los pies de tu equipo!
+¡Una red viscosa se extiende a los pies del equipo rival!
+La red viscosa que rodeaba a tu equipo ha desaparecido.
+La red viscosa que rodeaba al equipo rival[0x000A]ha desaparecido.
+El Pokémon no puede ejecutar este movimiento,[0x000A]ya que no ha comido ninguna baya.
+¡{0x0100,0x0000} ha recogido {0x1702,0x0001}{0x0109,0x0001}!
+¡{0x010C,0x0000} aguanta el tipo para mostrar a[0x000A]{0x0100,0x0001} de lo que es capaz!
+¡{0x010C,0x0000} logra despertarse y combate el sueño[0x000A]como puede para no preocupar a {0x0100,0x0001}!
+¡{0x010C,0x0000} se las ha arreglado para neutralizar el[0x000A]veneno y evitar preocupar a {0x0100,0x0001}!
+¡{0x010C,0x0000} calma sus quemaduras con varios[0x000A]soplidos para no preocupar a {0x0100,0x0001}!
+¡{0x010C,0x0000} apela a su espíritu de combate y se zafa[0x000A]de la parálisis para no preocupar a {0x0100,0x0001}!
+¡{0x010C,0x0000} derrite el hielo con sus propias fuerzas[0x000A]para no preocupar a {0x0100,0x0001}!
+¡{0x010C,0x0000} sigue las indicaciones de {0x0100,0x0001}[0x000A]y evita el movimiento!
+¡{0x010C,0x0000} sigue las indicaciones de {0x0100,0x0001}[0x000A]y asesta un golpe crítico!
+{0x010C,0x0000} se gira hacia {0x0100,0x0001}[0x000A]y asiente con decisión.
+{0x010C,0x0000} dirige una mirada a {0x0100,0x0001}[0x000A]rebosante de confianza.
+{0x010C,0x0000} confía en las dotes estratégicas de[0x000A]{0x0100,0x0001}.
+¡{0x010C,0x0000} y {0x0100,0x0001} están compenetrados[0x000A]a la perfección!
+{0x010C,0x0000} parece sentir curiosidad por la Bolsa[0x000A]de {0x0100,0x0001}.
+¡{0x010C,0x0000} tiene el ánimo por las nubes!
+{0x010C,0x0000} está reprimiendo las ganas que tiene[0x000A]de ponerse a jugar con {0x0100,0x0001}.
+{0x010C,0x0000} parece sentir curiosidad por el aroma[0x000A]que emana del Pokémon rival.
+A {0x010C,0x0000} le fascina el olor que desprende[0x000A]{0x0100,0x0001}.
+{0x010C,0x0000} parece sentir curiosidad por el entorno[0x000A]que lo rodea.
+{0x010C,0x0000} se está acordando de cuando conoció a[0x000A]{0x0100,0x0001}.
+{0x010C,0x0000} se está mentalizando para el combate.
+{0x010C,0x0000} está algo abstraído.
+{0x010C,0x0000} parece ligeramente inquieto.
+{0x010C,0x0000} parece un poco nervioso.
+{0x010C,0x0000} se muestra impaciente.
+¡Vamos, {0x010C,0x0000}! ¡Confío en ti!
+¡Vuelve, {0x010C,0x0000}![0x000A]Te vendrá bien un cambio.
+¡Toma ya!
+{0x010C,0x0000} está entre la espada y la pared.[0x000A]Parece desesperado...
+¡{0x010C,0x0000} está como unas castañuelas!
+Zzz...
+¡{0x018D,0x0000} ha enviado un {0x0110,0x0001}!
+¡Has derrotado a {0x0200,0x0000} Pokémon al mismo tiempo!
+¡Cambio a Forma Filo!
+¡Cambio a Forma Escudo!
+¡Al cachear a {0x0102,0x0000} se ha descubierto que[0x000A]tiene {0x1702,0x0001}{0x0109,0x0001}!
+¡La felicidad se respira en el aire!
+¡Ese movimiento no se puede usar en un Combate Aéreo!
+¡Una lluvia de electrones cae sobre el terreno de combate!
+Nadie podrá huir durante el próximo turno.
+¡El polvo ha reaccionado con el movimiento[0x000A]{0x0107,0x0000} y ha explotado!
+Metrónomo de ({0x0200,0x0000}) {0x0202,0x0001}: {0x0107,0x0002}
+¡Un {0x0101,0x0000} salvaje ha salido de entre la hierba!
+¡Un {0x0101,0x0000} salvaje ha salido del suelo!
+¡Un {0x0101,0x0000} salvaje ha llegado por los aires!
+¡Un {0x0101,0x0000} salvaje ha caído del techo!
+¡Un {0x0101,0x0000} salvaje ha salido de la papelera!
+El {0x0110,0x0001} que ha usado {0x018D,0x0000}[0x000A]se ha activado.
+¡Felicidades, {0x0100,0x0000}!

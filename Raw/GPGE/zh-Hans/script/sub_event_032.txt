@@ -1,0 +1,15 @@
+msg_sub032_youngf_01={0xBDFF:0x0000}
+msg_sub032_youngf_02=我偶尔[0x000A]会去深灰市购物。{0xBE01}[0x000A]每次去都要经过[0x000A]常青森林那拐来拐去的路呢。
+msg_sub032_oldm_01={0xBDFF:0x0002}
+msg_sub032_oldm_02=如果你在收集图鉴的话，[0x000A]我就给你个建议好了！{0xBE01}[0x000A]到友好商店预先多买些精灵球，[0x000A]绝对没有坏处唷！
+msg_sub032_musashi_01=？？？：干嘛！不行不行！[0x000A]这里现在禁止通行！{0xBE01}[0x000A]我们正在执行[0x000A]重要的把风任务呢！
+msg_sub032_musashi_02=？？？：我都说了！[0x000A]这里现在禁止通行啦！{0xBE01}[0x000A]小朋友还是快点回去[0x000A]帮爸爸妈妈打酱油去吧！
+msg_sub032_kojiro_01=？？？：这个小鬼头是怎么回事？[0x000A]……嘘！去那边玩儿去！
+msg_sub032_kojiro_02=？？？：虽然说是在执行任务，[0x000A]可是站在这里把风太无聊了……{0xBE01}[0x000A]好想去友好商店[0x000A]愉快地偷个懒啊……
+msg_sub032_nyasu_01=喵喵：喵～～
+msg_oyaji4_01_p03_field_t002={0xBDFF:0x0009}
+msg_oyaji4_01_p04_field_t002={0xBDFF:0x000A}
+msg_oyaji4_01_p05_field_t002={0xBDFF:0x000B}
+msg_oyaji4_01_p06_field_t002={0xBDFF:0x000C}
+msg_oyaji4_01_p07_field_t002={0xBDFF:0x000D}
+msg_oyaji4_01_p08_field_t002={0xBDFF:0x000E}

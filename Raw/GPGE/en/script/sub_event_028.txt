@@ -1,0 +1,10 @@
+msg_sub028_sys_01=A vending machine![0x000A]What does it have?
+msg_sub028_select_01=Fresh Water {0xBD03,0x0000}[0xE300]{0x0202,0x0001}
+msg_sub028_select_02=Soda Pop {0xBD03,0x0000}[0xE300]{0x0202,0x0001}
+msg_sub028_select_03=Lemonade {0xBD03,0x0000}[0xE300]{0x0202,0x0001}
+msg_sub028_select_04=Cancel
+msg_sub028_sys_02=Oops, not enough money!
+msg_sub028_sys_03={0x1303,0x0004}{0x010A,0x0004} popped out!
+msg_sub028_sys_04=There’s no more room for that item!
+msg_sub028_sys_05=You weren’t thirsty.
+msg_sub028_sys_06=Do you want to buy another?

@@ -1,0 +1,13 @@
+msg_main0300_rival_01=¡Aaaah!
+msg_main0300_rival_02={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¡Ay, ay, no vas a creerte lo[0x000A]que acabo de ver, {0x0100,0x0000}!{0xBE01}[0x000A]Un Poké... que ha... ¡aaaaah!
+msg_main0300_dummy_01={0xBDFF:0x0002}
+msg_main0300_rival_03={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Uf... Uf...{0xBE01}[0x000A]Inspirar... Espirar...{0xBE01}[0x000A]Perdón, estaba recobrando la compostura. Esto[0x000A]no es propio de mí.
+msg_main0300_rival_04=Verás, te cuento. Se supone que aquí cerca vive[0x000A]un Pokémaníaco muy famoso, así que decidí{0xBE00}[0x000A]entrar porque pensé que igual tenía algún{0xBE00}[0x000A]Pokémon raro o algo así.
+msg_main0300_rival_05=Pues... pues... ¡no te vas a creer lo que me[0x000A]encontré!
+msg_main0300_rival_06=En lugar del Pokémaníaco... el Bill ese, me[0x000A]encontré...{0xBE01}[0x000A]¡Un Pokémon que habla! ¡Como si fuese un ser[0x000A]humano!
+msg_main0300_rival_07=¡Qué mal rollito, yo me piro![0x000A]¡Será mejor que no entres ahí!
+msg_rival_01_p01_field_t005={0xBDFF:0x0008}
+msg_rival_01_p02_field_t005={0xBDFF:0x0009}
+msg_rival_01_p03_field_t005={0xBDFF:0x000A}
+msg_rival_01_p05_field_t005={0xBDFF:0x000B}
+msg_rival_01_p06_field_t005={0xBDFF:0x000C}

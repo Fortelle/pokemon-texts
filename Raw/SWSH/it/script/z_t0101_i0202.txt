@@ -1,0 +1,13 @@
+msg_t0101_i0202_tv_01=È la TV che Hop usa per guardare tutte[0x000A]le lotte del Campione.
+msg_t0101_i0202_bed_01=Le lenzuola sembrano un po’ stropicciate...
+msg_t0101_i0202_desk_01=Gli scaffali più in alto sono pieni di libri dall’aria[0x000A]piuttosto complicata.
+msg_t0101_i0202_bed2_01=Il letto è stato rifatto con gran cura.{0xBE01}[0x000A]Sembra essere passato molto tempo dall’ultima[0x000A]volta che qualcuno ci ha dormito.
+msg_t0101_i0202_training_01=Una panca per esercizi adatta anche ai Pokémon.[0x000A]A giudicare dall’aspetto, deve essere stata{0xBE00}[0x000A]usata molto.
+msg_t0101_i0202_gureggru_01=I poster dei tre Pokémon più famosi di Galar!
+msg_t0101_i0202_hats_01=Una ricca collezione di berretti.
+msg_t0101_i0202_npc1_01=Dandel è così impegnato che non torna a casa[0x000A]molto spesso...{0xBE01}[0x000A]Ma è sempre meglio tenere la sua stanza pulita[0x000A]e in ordine. Non si sa mai!
+msg_t0101_i0202_npc1_02=Anche se non è più il Campione, Dandel è[0x000A]sempre molto impegnato e resta spesso fuori!{0xBE01}[0x000A]Beh, è bene che faccia quel che vuole finché[0x000A]è ancora giovane!
+msg_t0101_i0202_ball_01=C’è una Poké Ball con dentro Charmander.
+msg_t0101_i0202_ball_02=Leggi la lettera che accompagna la Poké Ball...
+msg_t0101_i0202_ball_03=Car{0x1100,0x00FF,0x0101}oa {0x0100,0x0000},[0x000A]ti affido questo Charmander speciale.[0x000A]Spero che avremo l’occasione di sfidarci[0x000A]di nuovo in un’emozionante lotta infuocata![0x000A]Dandel
+msg_t0101_i0202_ball_04=I Box del PC sono pieni![0x000A]Non puoi ricevere questo Pokémon.

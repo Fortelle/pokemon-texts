@@ -1,0 +1,15 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+Eine Beere ist im Erdreich vergraben!
+Magobeere im Zutatenbeutel verstaut.
+Ich bin’s, Maho![0x000A]Eine feine Magobeere hast du da gefunden!{0x0114,0x000E}
+Je größer eine Magobeere ist, desto krummer ist[0x000A]sie. Und je krummer sie ist, desto süßer ist sie!{0x0114,0x000E}
+Oho! Du hast ja alle Zutaten beisammen.{0xBE01}[0x000A]Prima! Dann fange ich jetzt mal an zu kochen.[0x000A]Geh also bitte zum Eingang des Dschungels.{0x0114,0x000E}
+Jetzt fehlt nur noch eine Zutat![0x000A]Finde sie bitte, so schnell es geht.{0x0114,0x000E}
+Noch fehlen zwei Zutaten![0x000A]Finde sie bitte ganz bald, ja?!{0x0114,0x000E}
+Noch fehlen drei Zutaten![0x000A]Finde sie bitte alle ganz schnell.{0x0114,0x000E}

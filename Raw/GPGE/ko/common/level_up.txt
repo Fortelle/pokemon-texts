@@ -1,0 +1,10 @@
+msg_LvUp_Type_HP=HP
+msg_LvUp_Type_ATK=공격
+msg_LvUp_Type_DEF=방어
+msg_LvUp_Type_SATK=특수공격
+msg_LvUp_Type_SDEF=특수방어
+msg_LvUp_Type_SPD=스피드
+msg_LvUp_Value2=+{0x0201,0x0000}
+msg_LvUp_Value3={0x0202,0x0000}
+msg_LvUp_Cp=CP
+msg_LvUp_Cp_Value6={0x0204,0x0000,0x0000}

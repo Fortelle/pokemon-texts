@@ -1,0 +1,15 @@
+main_event_0170_champion_01=Hop! {0x0100,0x0000}!{0x0114,0x0004}
+main_event_0170_rival_01=Ma che... Dandel?!{0xBE01}[0x000A]E tu come ci sei arrivato fin qui, col tuo[0x000A]pessimo senso dell’orientamento?{0x0114,0x0005}
+main_event_0170_champion_02=Bel modo di ringraziarmi! E io che ero[0x000A]pure preoccupato per voi!{0xBE01}[0x000A]Non tornavate più, quindi sono venuto[0x000A]a cercarvi.{0x0114,0x0004}
+main_event_0170_rival_02=Ah! E il Wooloo...?![0x000A]Siamo venuti qui per aiutarlo, ma...{0x0114,0x0005}
+main_event_0170_poke1_01=Woooh!
+main_event_0170_champion_03=Sano e salvo, come potete vedere.{0xBE01}[0x000A]Ma prima di raggiungervi vi ho visti a[0x000A]terra privi di sensi.{0xBE01}[0x000A]Non sareste dovuti entrare nel bosco[0x000A]senza avvisare nessuno, ma capisco{0xBE00}[0x000A]perché lo avete fatto...{0xBE01}[0x000A]Siete stati coraggiosi, non lo si può negare! Bravi!{0x0114,0x0004}
+main_event_0170_rival_03=Insomma, tutto è bene quel che finisce bene,[0x000A]eh, {0x0100,0x0000}?{0xBE01}[0x000A]Prima ci siamo quasi persi nella nebbia e poi[0x000A]quello strano Pokémon ci ha attaccato...{0xBE01}[0x000A]Ma almeno è servito a qualcosa!{0x0114,0x0005}
+main_event_0170_champion_04=Frena un attimo, Hop! Uno strano Pokémon...?{0x0114,0x0004}
+main_event_0170_rival_04=Beh, sì, sembrava fortissimo, proprio fuori[0x000A]dal comune...{0xBE01}[0x000A]E la cosa strana è che le nostre mosse[0x000A]non avevano alcun effetto su di lui.{0xBE00}[0x000A]Sembrava che non potessero colpirlo!{0x0114,0x0005}
+main_event_0170_champion_05=Le mosse non lo colpivano...?{0xBE01}[0x000A]Forse in realtà il Pokémon del Bosco Assopito[0x000A]di cui la gente parla è una sorta di miraggio...{0x0114,0x0004}
+main_event_0170_champion_06=Chissà, magari quando sarete diventati più forti[0x000A]riuscirete a venire a capo di questo mistero.{0x0114,0x0004}
+main_event_0170_champion_07=Per prima cosa però bisogna cercare di uscire[0x000A]da questo bosco. Tranquilli, vi accompagno io.{0x0114,0x0004}
+main_event_0170_rival_05=È vero, non saremmo dovuti venire qui...{0x0114,0x0005}
+main_event_0170_rival_06=Ma almeno abbiamo fatto un’esperienza unica.{0xBE01}[0x000A]E con questo ho scritto un nuovo capitolo[0x000A]della mia leggenda!{0x0114,0x0005}
+main_event_0170_rival_07={0xBDFF:0x000E}

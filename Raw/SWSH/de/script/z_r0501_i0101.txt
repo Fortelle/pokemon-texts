@@ -1,0 +1,11 @@
+msg_r0501_i0101_npc_01=Huch? Willkommen!{0xBE01}[0x000A]Hast du irgendwelche Fragen, mit denen ich dir[0x000A]helfen kann?
+msg_r0501_i0101_npc_02=Hast du noch mehr Fragen?
+msg_r0501_i0101_npc_03=Hier im Pokémon-Hort kümmern wir uns um[0x000A]die Pokémon, die Trainer bei uns abgeben.{0xBE01}[0x000A]Die Pokémon werden bei uns zwar nicht stärker,[0x000A]aber wenn du zwei Pokémon auf einmal abgibst,{0xBE00}[0x000A]kann es sein, dass ein Ei gefunden wird.{0xBE01}[0x000A]Wenn du Pokémon in unserer Obhut lassen[0x000A]möchtest, sprich draußen mit meiner Enkelin.
+msg_r0501_i0101_npc_04=Wenn du ein Pokémon-Ei in dein Team aufnimmst[0x000A]und mit ihm herumläufst, so schlüpft irgendwann{0xBE00}[0x000A]ein Pokémon daraus.{0xBE01}[0x000A]Niemand weiß wirklich, wo diese mysteriösen[0x000A]Pokémon-Eier herkommen... Das Wunder des{0xBE00}[0x000A]Lebens steckt voller Geheimnisse!
+msg_r0501_i0101_npc_05=Wenn du ein Pokémon-Ei haben möchtest, dann[0x000A]denke gut über die Kombination der Pokémon{0xBE00}[0x000A]nach, die du hier abgibst.{0xBE01}[0x000A]Ein männliches und ein weibliches Pokémon[0x000A]derselben Art wären zum Beispiel eine gute{0xBE00}[0x000A]Wahl.{0xBE01}[0x000A]Doch auch bei unterschiedlichen Pokémon[0x000A]findet man manchmal ein Ei, wenn sie ähnlichen{0xBE00}[0x000A]Arten angehören.{0xBE01}[0x000A]Es gibt allerdings auch Pokémon, bei denen[0x000A]überhaupt keine Eier gefunden werden...
+msg_r0501_i0101_npc_06=Komm gerne wieder.
+msg_r0501_i0101_npc_choices_01=Was ist ein Pokémon-Hort?
+msg_r0501_i0101_npc_choices_02=Was ist ein Pokémon-Ei?
+msg_r0501_i0101_npc_choices_03=Welche Pokémon soll ich abgeben?
+msg_r0501_i0101_npc_choices_04=Beenden
+msg_r0501_i0101_bookshelf_01={0xBDFF:0x000A}

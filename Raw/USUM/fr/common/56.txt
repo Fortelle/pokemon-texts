@@ -1,0 +1,73 @@
+Se lancer dans la Compétition Live
+Oui
+Non
+Rechercher un adversaire
+Voir le combat précédent
+Se désinscrire
+Revoir un combat
+Consulter les résultats précédents
+Recevoir par infrarouge
+Recevoir par QR Code
+Compétition Live
+Le mode Compétition Live vous permet de participer[0x000A]à des compétitions contre d’autres joueurs.[0x000A][0x000A]Pour plus d’informations sur les compétitions[0x000A]officielles, vous pouvez consulter le site officiel[0x000A]Pokémon.
+{0x01AF,0x0000}
+{0x01AF,0x0000}
+{0x0201,0x0002}/{0x0201,0x0001}/{0x0203,0x0000,0x0000}
+Résultats {0x1408,0x0000}{0x0100,0x0000}
+Nombre de combats :
+{0x0201,0x0000}
+/
+{0x0201,0x0000}
+Victoires : 
+{0x0201,0x0000}
+Défaites : 
+{0x0201,0x0000}
+{0x0122,0x0000}
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+{0x0202,0x0000}
+Adversaire
+{0x0100,0x0000}
+{0x0124,0x0000}
+{0x0125,0x0000}
+{0x0100,0x0000} a gagné[0xE07F]!
+Égalité[0xE07F]!
+Victoire {0x1408,0x0000}{0x0100,0x0000} par jugement[0xE07F]!
+{0x0100,0x0001} est à court de temps.[0x000A]Victoire {0x1408,0x0000}{0x0100,0x0000}[0xE07F]!
+{0x0100,0x0001} a déclaré forfait.[0x000A]Victoire {0x1408,0x0000}{0x0100,0x0000}[0xE07F]!
+{0x0200,0x0000}
+{0x0100,0x0000}
+{0x0100,0x0000}
+L
+Bienvenue à la Compétition Live[0xE07F]!
+Vous aurez besoin d’une Licence Numérique[0x000A]pour participer à cette Compétition Live.{0xBE01}[0x000A]Comment désirez-vous la recevoir[0xE07F]?
+Réception de la Licence Numérique... Veuillez[0x000A]orienter correctement votre port infrarouge.
+La réception de la Licence Numérique a été[0x000A]annulée.{0xBE01}
+Vous avez reçu la Licence Numérique.{0xBE01}
+Échec de la réception de la Licence Numérique.[0x000A]Veuillez recommencer depuis le début.{0xBE01}
+Vous avez disputé le nombre requis[0x000A]de combats. Bravo[0xE07F]!{0xBE01}
+Vérification de la carte SD...[0x000A]Ne pas éteindre la console.
+Impossible de sauvegarder le combat.[0x000A]La carte SD est pleine.{0xBE01}
+Les données sont corrompues.[0x000A]Impossible de visionner la vidéo.{0xBE01}
+Voulez-vous interrompre la communication[0xE07F]?
+La communication a été interrompue.
+Veuillez inscrire l’Équipe Combat qui participera[0x000A]à la Compétition.
+Voulez-vous abandonner la Compétition :[0x000A]«[0xE07F]{0x01AF,0x0000}[0xE07F]»[0xE07F]?
+Si vous décidez d’abandonner, vous ne pourrez[0x000A]plus participer à la Compétition :{0xBE00}[0x000A]«[0xE07F]{0x01AF,0x0000}[0xE07F]».{0xBE01}[0x000A]Cela vous convient-il[0xE07F]?
+Votre participation à la Compétition[0x000A]«[0xE07F]{0x01AF,0x0000}[0xE07F]»{0xBE00}[0x000A]a été annulée, et votre Équipe Combat{0xBE00}[0x000A]a été déverrouillée.{0xBE01}
+L’inscription de votre Équipe Combat[0x000A]a été interrompue.{0xBE01}
+Que voulez-vous faire[0xE07F]?
+Vous n’avez pas encore disputé de combat[0xE07F]!{0xBE01}
+Recherche d’un adversaire en cours...[0x000A]Appuyez sur le bouton B pour annuler.
+Communication en cours...[0x000A]Veuillez patienter.
+Au signal de départ, appuyez sur le bouton A.
+Votre équipe ne répond pas aux critères[0x000A]de la Compétition.{0xBE01}
+Il s’agit de votre dernier combat.[0x000A]Voulez-vous voir la Vidéo de Combat[0xE07F]?
+Aucune Vidéo de Combat n’a été trouvée.{0xBE01}
+Les données ont été envoyées.{0xBE01}
+Voulez-vous annuler l’inscription de[0x000A]l’Équipe Combat[0xE07F]?
+Sauvegarde en cours...
+L’inscription à cette Compétition a déjà[0x000A]été effectuée.{0xBE01}
+Inscrire
+Vous vous êtes désinscrit de la Compétition[0x000A]{0x01AF,0x0000}.{0xBE01}
+Impossible de participer à cette Compétition.{0xBE01}

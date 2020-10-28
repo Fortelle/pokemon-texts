@@ -1,0 +1,15 @@
+msg_town002_kanban_01=Jadielle[0x000A]« Verte comme l’espérance »
+msg_town002_kanban_02=Arène Pokémon de Jadielle
+msg_town002_door_01=Les portes de l’Arène sont fermées...
+msg_town002_kanban_03={0xBDFF:0x0003}
+msg_town002_kanban_04=Astuce !{0xBE01}[0x000A]Quand vous vous retrouvez à court de Poké Balls,[0x000A]réapprovisionnez-vous à la Boutique Pokémon !
+msg_town002_kanban_05=École de Dresseurs[0x000A]« L’apprentissage pour apprentis sages ! »
+msg_town002_childm_01_01=Oooh, il est trop mimi, ton Pokémon !{0xBE01}[0x000A]C’est trop bien de pouvoir se promener avec[0x000A]son Pokémon préféré !
+msg_town002_oldm_01_01=Cette Arène Pokémon est toujours fermée.[0x000A]Mais qui en est le Champion ?
+msg_town002_oldm_01_02=L’Arène de Jadielle a de nouveau un Champion !
+msg_town002_bugcatcher_01_01=Tu veux savoir un truc sur Chenipan et Aspicot ?
+msg_town002_bugcatcher_01_02=Bon, tant pis !
+msg_town002_bugcatcher_01_03=Contrairement à Chenipan, Aspicot est venimeux.[0x000A]Attention à sa piqûre !
+msg_town002_jevenile_f_01={0xBDFF:0x000C}
+msg_town002_poke_01={0xFF00,0x0009}Mystherbe :{0xFF00,0x0000} Myyy !
+msg_town002_middlem_01=Oh ! Tu viens de Bourg Palette, toi, non ?[0x000A]Bienvenue à Jadielle !

@@ -1,0 +1,10 @@
+msg_sub028_sys_01=是自动贩卖机！[0x000A]想要的饮料是……
+msg_sub028_select_01=美味之水{0xBD03,0x0000}[0xE300]{0x0202,0x0001}
+msg_sub028_select_02=劲爽汽水{0xBD03,0x0000}[0xE300]{0x0202,0x0001}
+msg_sub028_select_03=果汁牛奶{0xBD03,0x0000}[0xE300]{0x0202,0x0001}
+msg_sub028_select_04=不需要
+msg_sub028_sys_02=钱不够！
+msg_sub028_sys_03={0x0109,0x0004}[0x000A]已滑落至取物口！
+msg_sub028_sys_04=已经拿不下了！
+msg_sub028_sys_05=还是不要了！
+msg_sub028_sys_06=要再买一瓶吗？

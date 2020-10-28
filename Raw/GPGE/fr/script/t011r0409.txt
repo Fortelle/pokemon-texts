@@ -1,0 +1,5 @@
+msg_t011r0409_stafff_01_01=Chut ! Pas un mot ! Tu me reconnais ?[0x000A]C’est moi, la belle espionne, Steffie Fatale.{0xBE00}[0x000A]Je me fais passer pour une infirmière.
+msg_t011r0409_stafff_01_02=Tu as les traits tirés ! Allonge-toi donc une minute[0x000A]pour te reposer !
+msg_t011r0409_stafff_01_03=Attention, si jamais tu racontes à qui que ce soit[0x000A]que je suis une espionne...{0xBE00}[0x000A]Couic !
+msg_t011r0409_stafff_01_04={0xBDFF:0x0003}
+msg_t011r0409_kanban_01=Sylphe SARL[0x000A]8ᵉ étage

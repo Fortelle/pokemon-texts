@@ -1,0 +1,73 @@
+Salve! Qui puoi ricevere un Dono Segreto.
+Ricevi dono
+Guarda Album Schede
+Istruzioni
+Esci
+Via comunicazione locale
+Via Internet
+Via infrarossi
+Tramite codice seriale
+Esci
+Il Dono Segreto
+L’Album Schede
+Quando l’album è pieno
+Vuoi avviare il collegamento wireless?
+Scegli come vuoi ricevere il tuo dono.
+Vuoi avviare la comunicazione locale?
+Per il collegamento a infrarossi, tieni le[0x000A]console Nintendo 3DS una di fronte{0xBE00}[0x000A]all’altra e premi il pulsante A.
+Ricerca di un dono in corso. Attendi...
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+Vuoi ricevere questo dono?
+Ricezione dono in corso.[0x000A]Non spegnere la console.
+Il dono è arrivato!{0xBE01}[0x000A]Ritira il tuo dono dalla postina in un Centro[0x000A]Pokémon qualsiasi.
+Hai raggiunto il numero massimo di doni!
+Hai raggiunto il numero massimo di Schede[0x000A]Segrete e non puoi ricevere altri doni.{0xBE01}[0x000A]Vuoi eliminare qualche Scheda Segreta?
+Scegli ed elimina una scheda[0x000A]che non ti serve più.
+Se non elimini una scheda, non potrai ricevere[0x000A]altri Doni Segreti.{0xBE01}[0x000A]Vuoi procedere comunque?
+{0xBDFF:0x001B}
+Non sono stati trovati doni.
+Non è stato possibile ricevere il dono.
+È stato trovato un dono, ma non puoi riceverlo[0x000A]con questa versione del gioco.
+Hai già ricevuto questo dono.[0x000A]Non puoi riceverlo di nuovo.
+Non sono stati trovati doni.
+La comunicazione wireless è disattivata.{0xBE01}[0x000A]Attiva la comunicazione wireless.
+Scheda Segreta
+Ricevuto il:
+Pulsante A: Chiudi
+Pulsante A: Organizza
+Album Schede
+{0x0201,0x0002}/{0x0201,0x0001}/20{0x0201,0x0000}
+{0x0200,0x0003}/{0x0200,0x0004}
+Scegli cosa fare con la Scheda Segreta.
+Non puoi gettare via un dono che non hai[0x000A]ancora ritirato!
+Vuoi eliminare questa scheda?
+Scegli la scheda da sostituire.
+Salvataggio dell’Album Schede in corso.[0x000A]Non spegnere la console.
+Scambia
+Elimina scheda
+Scegli un argomento.
+Scegliendo questa opzione potrai ricevere[0x000A]dei doni stupendi tramite le varie modalità{0xBE00}[0x000A]di comunicazione della console.{0xBE01}[0x000A]Una volta ricevuto un dono, torna al gioco[0x000A]e recati dalla postina in un Centro Pokémon{0xBE00}[0x000A]qualsiasi per ritirarlo.
+Quando ricevi un Dono Segreto, nell’album[0x000A]viene aggiunta una Scheda Segreta.{0xBE01}[0x000A]Una volta ritirato il dono dalla postina, sulla[0x000A]scheda viene apposto un timbro.{0xBE01}[0x000A]Se una scheda è senza timbro, non hai ancora[0x000A]ritirato quel dono. Non scordarti di farlo!{0xBE01}[0x000A]Nell’album puoi salvare al massimo 24 schede.{0xBE01}[0x000A]Se non hai più spazio libero, non potrai[0x000A]ricevere altri doni.{0xBE00}[0x000A]Elimina qualche scheda dall’album!
+Se non riesci a ricevere un dono, controlla[0x000A]l’Album Schede.{0xBE01}[0x000A]Se hai raggiunto il numero massimo di 24[0x000A]schede, scegli quelle di doni già ricevuti dalla{0xBE00}[0x000A]postina e premi il pulsante A per eliminarle.{0xBE01}[0x000A]Se non hai ancora ritirato nessuno dei doni[0x000A]delle schede contenute nell’album,{0xBE01}[0x000A]torna al gioco e vai in un Centro Pokémon[0x000A]a parlare con la postina.
+Vuoi collegarti a Internet?
+Connessione in corso.[0x000A]Attendi...
+Hai inserito più volte un codice seriale errato.[0x000A]La funzione è temporaneamente sospesa.{0xBE01}[0x000A]Attendi un po’ prima di riprovare.{0xBE01}
+Inserisci il codice seriale.{0xBE01}
+Controllo del codice seriale in corso.[0x000A]Non spegnere la console.
+{0xBDFF:0x0039}
+Salvataggio in corso.[0x000A]Non spegnere la console.
+Codice seriale errato.[0x000A]Verifica di averlo inserito correttamente.{0xBE01}
+Vuoi inserire nuovamente il codice seriale?
+Attenzione!{0xBE01}[0x000A]Se la console si spegne mentre stai ricevendo[0x000A]un dono tramite un codice seriale, non potrai{0xBE01}[0x000A]più riutilizzare lo stesso codice seriale per[0x000A]ricevere un altro dono.{0xBE01}[0x000A]Controlla il livello di carica della batteria[0x000A]della console.{0xBE01}[0x000A]Vuoi ricevere il dono tramite codice seriale?
+Codice seriale errato.[0x000A]Verifica di averlo inserito correttamente.{0xBE01}
+Non puoi ricevere il dono relativo a questo[0x000A]codice seriale utilizzando questo gioco.{0xBE01}
+{0xBDFF:0x0040}
+Non puoi ricevere il dono relativo a questo[0x000A]codice seriale utilizzando questo gioco.{0xBE01}
+Questo dono è già stato ritirato.{0xBE01}
+Hai già ricevuto questo dono.{0xBE01}
+{0xBDFF:0x0044}
+Non puoi ricevere questo dono.{0xBE01}
+Non puoi ancora ricevere il dono relativo[0x000A]a questo codice seriale.{0xBE01}
+Il periodo di validità di questo codice seriale[0x000A]è scaduto.{0xBE01}
+Non è stato possibile rinnovare[0x000A]il codice seriale.{0xBE01}[0x000A]Impossibile ricevere il dono[0x000A]corrispondente.{0xBE01}

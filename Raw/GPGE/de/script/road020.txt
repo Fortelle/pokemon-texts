@@ -1,0 +1,5 @@
+msg_road020_kanban_01=Seeschauminseln
+msg_road020_clerk_01=Hallo! Ich bin eine reisende Vertreterin des[0x000A]Pokémon-Supermarkts.{0xBE01}[0x000A]Schau mal, wie schön man mit unseren Tränken[0x000A]Pokémon heilen kann!
+msg_road020_clerk_02=Deinen Geldbeutel kannst du steckenlassen.[0x000A]Das geht aufs Haus.{0xBE01}[0x000A]Mit Empfehlungen vom Pokémon-Supermarkt!
+msg_road020_clerk_03=Tränke sind superpraktisch, oder? Ich finde,[0x000A]diese Items sind einfach der Renner!
+msg_boyscout1_01_p01_field_r020={0xBDFF:0x0004}

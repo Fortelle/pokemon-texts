@@ -1,0 +1,37 @@
+Bon, bon, bon… Qu’est-ce qu’on a là[0xE07F]?[0x000A]Un{0x1100,0x00FF,0x0907} cliente cliente des plus énergiques, on dirait[0xE07F]!{0xBE01}[0x000A]Moi[0xE07F]? Tu peux m’appeler Rodolphe.[0x000A]Je suis le propriétaire de ce magasin de vélos.
+Tes Chaussures de Sport sont vraiment dans un sale état[0xE07F]!{0xBE01}[0x000A]Tu viens de loin[0xE07F]?
+C’est vrai[0xE07F]?{0xBE01}[0x000A]Dans ce cas, je suppose que[0x000A]tu n’as pas besoin de mes vélos.
+Hum, hum…[0x000A]…{0xBE01}[0x000A]Tu veux dire que tu as fait toute la route depuis[0x000A]Bourg-en-Vol[0xE07F]?{0xBE01}[0x000A]Mais c’est super loin[0xE07F]!{0xBE01}[0x000A]Tu irais beaucoup plus vite avec un de mes vélos.{0xBE01}[0x000A]Tu sais quoi[0xE07F]?[0x000A]Je vais t’en donner un[0xE07F]!{0xBE01}[0x000A]Une petite minute[0xE07F]![0x000A]J’ai oublié de préciser qu’il y a deux sortes de vélos.{0xBE00}[0x000A]Le Vélo de Course, et le Vélo Cross.{0xBE01}[0x000A]Comme son nom l’indique, le Vélo de Course[0x000A]est pour ceux qui veulent filer comme le vent.{0xBE01}[0x000A]Le Vélo Cross est plus lent, mais offre[0x000A]des performances techniques inégalées.{0xBE01}[0x000A]Comme je suis sympa, je vais te laisser choisir.{0xBE01}[0x000A]Alors, lequel tu préfères[0xE07F]?
+Vélo de Course
+Vélo Cross
+{0xBDFF:0x0006}
+{0x0100,0x0000} a choisi le Vélo de Course[0xE07F]!
+{0x0100,0x0000} a choisi le Vélo Cross[0xE07F]!
+Si tu veux l’échanger contre l’autre type de bécane,[0x000A]tu n’as qu’à revenir me voir[0xE07F]!
+Ah, c’est toi[0xE07F]?[0x000A]Alors, c’est le pied de se déplacer en deux roues[0xE07F]?
+Mais, laisse-moi deviner : tu voudrais changer de vélo[0xE07F]?
+{0x0100,0x0000} reçoit le Vélo Cross[0x000A]en échange du Vélo de Course.
+{0x0100,0x0000} reçoit le Vélo de Course[0x000A]en échange du Vélo Cross.
+Pas de souci[0xE07F]![0x000A]Content de voir que ce vélo te plaît en tout cas[0xE07F]!
+{0xBDFF:0x000F}
+Oh, c’est toi[0xE07F]![0x000A]Je suis content de te voir[0xE07F]!{0xBE01}[0x000A]Tu ne t’imagines pas le nombre de clients qui sont[0x000A]passés au magasin après t’avoir croisé{0x1100,0x00FF,0x0100}e.{0xBE00}[0x000A]Tu nous as fait une sacrée pub[0xE07F]!{0xBE01}[0x000A]Pour te remercier, j’aimerais t’offrir un second vélo.
+J’espère que tu auras le vent dans le dos[0xE07F]!
+J’apprends beaucoup de choses sur les vélos depuis que[0x000A]je travaille ici.{0xBE01}[0x000A]Si tu as besoin de conseils, il y a deux ou trois manuels[0x000A]dans l’arrière-boutique.
+C’est un guide sur le Vélo de Course.{0xBE01}[0x000A]Quelle page souhaitez-vous lire[0xE07F]?
+«[0xE07F]Utilisez la manette + ou le pad circulaire pour pédaler[0x000A]dans la direction de votre choix.{0xBE01}[0x000A]Pour ralentir progressivement et s’arrêter en douceur,[0x000A]il suffit de relâcher la manette + ou le pad circulaire.[0xE07F]»{0xBE01}[0x000A]Voulez-vous lire une autre page[0xE07F]?
+«[0xE07F]Le Vélo de Course est rapide, mais il ne peut pas[0x000A]s’arrêter net. Il faut s’habituer à l’inertie pour le maîtriser.{0xBE00}[0x000A]Relâchez la manette + ou le pad circulaire en avance[0xE07F]![0xE07F]»{0xBE01}[0x000A]Voulez-vous lire une autre page[0xE07F]?
+«[0xE07F]De petites pentes raides parsèment toute la région de[0x000A]Hoenn.{0xBE01}[0x000A]Le sable fin sur ces pentes s’effondre facilement et[0x000A]ne peut être franchi en temps normal.{0xBE01}[0x000A]Mais avec le Vélo de Course, il est possible de gravir[0x000A]n’importe quel escarpement[0xE07F]![0xE07F]»{0xBE01}[0x000A]Voulez-vous lire une autre page[0xE07F]?
+Rouler
+S’arrêter
+Les pentes sablonneuses
+Fermer le guide
+C’est un guide sur le Vélo Cross.{0xBE01}[0x000A]Quelle page souhaitez-vous lire[0xE07F]?
+«[0xE07F]Si vous appuyez sur le bouton B en roulant, la roue[0x000A]avant se soulève.{0xBE01}[0x000A]Vous pouvez rouler sur une roue en utilisant la manette +[0x000A]ou le pad circulaire[0xE07F]!{0xBE00}[0x000A]Cela s’appelle faire une {0xFF00,0x0002}roue arrière{0xFF00,0x0000}.[0xE07F]»{0xBE01}[0x000A]Voulez-vous lire une autre page[0xE07F]?
+«[0xE07F]En maintenant le bouton B enfoncé, vous pourrez[0x000A]sauter sur place.{0xBE01}[0x000A]Cette technique est appelée le {0xFF00,0x0002}bunny hop{0xFF00,0x0000}.{0xBE01}[0x000A]Avancer en faisant un bunny hop permet de sauter[0x000A]par-dessus les rebords et les pentes ascendantes.[0xE07F]»{0xBE01}[0x000A]Voulez-vous lire une autre page[0xE07F]?
+«[0xE07F]Sur un Vélo Cross, appuyez simultanément sur[0x000A]le bouton B et sur la manette + ou le pad circulaire{0xBE00}[0x000A]pour faire un saut.{0xBE01}[0x000A]Appuyez sur la direction des côtés pour faire un saut[0x000A]latéral, et sur arrière pour changer de direction en l’air.{0xBE01}[0x000A]Il est même possible de bondir d’un chemin étroit[0x000A]à l’autre.[0xE07F]»{0xBE01}[0x000A]Voulez-vous lire une autre page[0xE07F]?
+Roue arrière
+Bunny hop
+Saut
+Fermer le guide
+On peut lire sur l’écriteau : «[0xE07F]Tout-terrain importé[0x000A]directement de Kalos[0xE07F]! (Modèle d’exposition)[0xE07F]»
+Il y a des tournevis et des clés à molette[0x000A]éparpillés partout.

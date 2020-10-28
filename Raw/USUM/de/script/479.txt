@@ -1,0 +1,12 @@
+{0xBDFF:0x0000}
+Okay, dann schalten wir den Herrschomat[0x000A]mal ein!{0x0114,0x0010}
+Toge!{0x0114,0x003A}
+Der Strom der miteinander verbundenen Akkup[0x000A]fließt durch die Kabel...{0x0114,0x0010}
+Perfekt! Der Herrschomat wird wie erhofft mit[0x000A]Strom versorgt!{0x0114,0x0010}
+Okay, jetzt müsste das herbeigerufene[0x000A]Herrscher-Pokémon eigentlich auftauchen.{0x0114,0x0010}
+Elek!
+Hm, Elekid lieben Elektrizität eben auch.[0x000A]Der Herrschomat muss es angelockt haben.{0x0114,0x001C}
+Es war zwar nicht das Pokémon, das wir wollten,[0x000A]aber der Herrschomat scheint zu funktionieren.{0xBE01}[0x000A]Was machen wir jetzt, Chrys?{0x0114,0x001C}
+Ich denke, eine einzige Reihe Akkup erzeugt[0x000A]nicht genug Strom...{0x0114,0x0010}
+Wenn das so ist, müssen wir die zweite[0x000A]Schaltung auch noch nutzen!{0x0114,0x0010}
+Wenn ich richtig liege, sollten wir so mehr Strom[0x000A]an den Herrschomat schicken können.{0xBE01}[0x000A]{0x0100,0x0000}, meine Prüfung geht weiter!{0x0114,0x0010}

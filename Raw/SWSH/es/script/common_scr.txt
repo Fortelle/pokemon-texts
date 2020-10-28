@@ -1,0 +1,12 @@
+msg_common_scr_yes=Sí
+msg_common_scr_no=No
+msg_common_money={0x0206,0x0008,0x202F} [0xE300]
+msg_common_report_01=¿Quieres guardar la partida?
+msg_common_report_02=Guardando...[0x000A]No apagues la consola.
+msg_common_report_03=Se ha guardado la partida.
+msg_common_report_04=Ya hay una partida guardada, por lo que no[0x000A]es posible guardar ahora.{0xBE01}[0x000A]Para obtener más información, consulta el[0x000A]manual de instrucciones.
+msg_common_report_05=No se ha podido guardar la partida.
+msg_common_getmoney_01=Has recibido {0x0207,0x0002,0x202F} [0xE300].
+msg_common_pokeget_01=Has recibido un {0x0101,0x0001}.
+msg_common_watt={0x0206,0x0008,0x202F} W
+msg_common_wattget_01=Has conseguido {0x0207,0x0002,0x202F} vatios.

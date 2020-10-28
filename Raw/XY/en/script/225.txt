@@ -1,0 +1,184 @@
+Welcome to the Battle Maison.[0x000A]I’m the receptionist.
+What would you like to do today?
+What would you like to hear about?
+This Battle Maison provides various[0x000A]battles with many Trainers.{0xBE01}[0x000A]You can choose from the following[0x000A]battle formats:{0xBE01}[0x000A]Single, Double, Triple, Rotation, or[0x000A]Multi Battles.{0xBE01}[0x000A]You’ll keep battling until you lose,[0x000A]and compete based on how many{0xBE00}[0x000A]people you can defeat.{0xBE01}[0x000A]Please note that if you lose even[0x000A]once, your winning streak will end,{0xBE00}[0x000A]and you’ll start from zero again.{0xBE01}[0x000A]Every time you defeat a Trainer,[0x000A]we’ll give you points called BP.{0xBE01}[0x000A]You’ll earn more BP as you keep[0x000A]winning, so do your best!
+Please note the following three points[0x000A]when you battle in the Battle Maison.{0xBE01}[0x000A]First, while you participate in battles here,[0x000A]Pokémon at levels higher than 50{0xBE00}[0x000A]will be reduced temporarily to Lv. 50.{0xBE01}[0x000A]Second, please note the number of[0x000A]Pokémon you need for a challenge.{0xBE01}[0x000A]You need three Pokémon for[0x000A]Single Battles,{0xBE00}[0x000A]four Pokémon for Double Battles,{0xBE00}[0x000A]six Pokémon for Triple Battles, and{0xBE00}[0x000A]four Pokémon for Rotation Battles.{0xBE01}[0x000A]For Multi Battles, each Trainer needs[0x000A]two Pokémon.{0xBE01}[0x000A]Third, and lastly, all Pokémon and their items[0x000A]should be different.{0xBE01}[0x000A]But for Multi Battles, it’s OK for two players[0x000A]to have the same Pokémon or item.
+We hope to see you again.
+Which battle format would[0x000A]you like to choose?
+M{0x1100,0x00FF,0x0302}r.iss {0x0100,0x0000} has[0x000A]{0x0203,0x0001,0x002C} {0x1101,0x0001,0x0D03}winstraight wins.
+So, would you like to try the[0x000A]Single Battle challenge?
+So, would you like to try the[0x000A]Super Single Battle challenge?
+So, would you like to try the[0x000A]Double Battle challenge?
+So, would you like to try the[0x000A]Super Double Battle challenge?
+So, would you like to try the[0x000A]Triple Battle challenge?
+So, would you like to try the[0x000A]Super Triple Battle challenge?
+So, would you like to try the[0x000A]Rotation Battle challenge?
+So, would you like to try the[0x000A]Super Rotation Battle challenge?
+So, would you like to try the[0x000A]Multi Battle challenge?
+So, would you like to try the[0x000A]Super Multi Battle challenge?
+Would you like to communicate with a[0x000A]Friend and accept this challenge together?
+You and your Friend have[0x000A]chosen different battle formats.{0xBE01}[0x000A]Please confer with your[0x000A]Friend and come back again.
+Please choose your[0x000A]partner Trainer.
+All right. Let the consecutive[0x000A]Single Battle challenge begin.
+All right. Let the consecutive[0x000A]Super Single Battle challenge begin.
+All right. Let the consecutive[0x000A]Double Battle challenge begin.
+All right. Let the consecutive[0x000A]Super Double Battle challenge begin.
+All right. Let the consecutive[0x000A]Triple Battle challenge begin.
+All right. Let the consecutive[0x000A]Super Triple Battle challenge begin.
+All right. Let the consecutive[0x000A]Rotation Battle challenge begin.
+All right. Let the consecutive[0x000A]Super Rotation Battle challenge begin.
+All right. Let the consecutive[0x000A]Multi Battle challenge begin.
+All right. Let the consecutive[0x000A]Super Multi Battle challenge begin.
+Saving...[0x000A]Please wait.
+Congratulations!{0xBE01}[0x000A]I present you with these Battle[0x000A]Points for your victory against{0xBE00}[0x000A]the Battle Chatelaine!
+Congratulations!{0xBE01}[0x000A]I present you with these Battle[0x000A]Points for your super victory{0xBE00}[0x000A]against the Battle Chatelaine!
+{0x0100,0x0000} received[0x000A]{0x0201,0x0005} BP!
+M{0x1100,0x00FF,0x0302}r.iss {0x0100,0x0000},[0x000A]now you can take on the consecutive{0xBE00}[0x000A]Super Single Battles.
+M{0x1100,0x00FF,0x0302}r.iss {0x0100,0x0000},[0x000A]now you can take on the consecutive{0xBE00}[0x000A]Super Double Battles.
+M{0x1100,0x00FF,0x0302}r.iss {0x0100,0x0000},[0x000A]now you can take on the consecutive{0xBE00}[0x000A]Super Triple Battles.
+M{0x1100,0x00FF,0x0302}r.iss {0x0100,0x0000},[0x000A]now you can take on the consecutive{0xBE00}[0x000A]Super Rotation Battles.
+M{0x1100,0x00FF,0x0302}r.iss {0x0100,0x0000},[0x000A]now you can take on the consecutive{0xBE00}[0x000A]Super Multi Battles.
+Thank you for participating.{0xBE01}[0x000A]The challenge for Single[0x000A]Battles has ended.{0xBE01}[0x000A]Next, please challenge[0x000A]Super Single Battles.
+Thank you for participating.{0xBE01}[0x000A]The challenge for Double[0x000A]Battles has ended.{0xBE01}[0x000A]Next, please challenge[0x000A]Super Double Battles.
+Thank you for participating.{0xBE01}[0x000A]The challenge for Triple[0x000A]Battles has ended.{0xBE01}[0x000A]Next, please challenge[0x000A]Super Triple Battles.
+Thank you for participating.{0xBE01}[0x000A]The challenge for Rotation[0x000A]Battles has ended.{0xBE01}[0x000A]Next, please challenge[0x000A]Super Rotation Battles.
+Thank you for participating.{0xBE01}[0x000A]The challenge for Multi[0x000A]Battles has ended.{0xBE01}[0x000A]Next, please challenge[0x000A]Super Multi Battles.
+M{0x1100,0x00FF,0x0302}r.iss {0x0100,0x0000}![0x000A]You won superbly!{0xBE01}[0x000A]To recognize your great achievement,[0x000A]we will erect a monument in the Battle Maison!
+Next is Battle No. {0x0203,0x0001,0x0000}.[0x000A]Would you like to keep battling?
+Next is Battle No. {0x0203,0x0001,0x0000},[0x000A]a battle against a Battle Chatelaine.{0xBE00}[0x000A]Now... Are you ready?
+Would you like to interrupt[0x000A]your challenge?
+The challenge was interrupted.
+Communicating. Please stand by...
+The current selection is Music {0x0200,0x0000}.[0x000A]Which music would you like to choose?
+The music has been set.
+Challenge
+Info
+Quit
+The Battle Maison
+The rules
+Challenge
+Single Battle
+Super Single Battle
+Double Battle
+Super Double Battle
+Triple Battle
+Super Triple Battle
+Multi Battle
+Super Multi Battle
+Continue
+Save
+Interrupt
+Music 1
+Music 2
+Music 3
+Music 4
+Change music
+I’m the number one apprentice of {0x0134,0x0000}.{0xBE01}[0x000A]I’ll do my best, so don’t give up on me.
+Hey, I know {0x0134,0x0000}.[0x000A]Well, I’m kinda {0x0134,0x0000}’s pal!{0xBE01}[0x000A]I’ll help ya out, but don’t drag me down!
+Do you know an awesome Trainer[0x000A]named {0x0134,0x0000}?{0xBE01}[0x000A]I’m a friend of the awesome Trainer.{0xBE01}[0x000A]Today, I’ll lend you my amazing muscle[0x000A]and help you out.
+{0x0134,0x0000}...[0x000A]is my BEST friend...{0xBE01}[0x000A]I WILL FIGHT BESIDE YOU...[0x000A]I WILL KNOCK ALL YOUR ENEMIES DOWN...
+Hey! I’m a favorite apprentice of {0x0134,0x0000},[0x000A]whose name quiets a screaming child!{0xBE01}[0x000A]I can’t bring disgrace on my teacher,[0x000A]so I’ll get psyched up for battle!
+Me and {0x0134,0x0000}?[0x000A]We have a rather ambivalent relationship.{0xBE01}[0x000A]We’re more than strangers but less than best[0x000A]friends.{0xBE01}[0x000A]What kind of relationship will you and I have?[0x000A]Anyway, let’s do our best together!
+{0x0134,0x0000} and I are kindred souls...{0xBE01}[0x000A]A pleasure to meet you.
+I’m {0x0134,0x0000}’s best friend!{0xBE01}[0x000A]I’ll lead you to victory so I won’t disgrace[0x000A]my friend’s name.
+Eek! If I report this kind of result to[0x000A]{0x0134,0x0000},{0xBE00}[0x000A]I’ll be in trouble.
+That’s too bad, but these things happen!{0xBE01}[0x000A]{0x0134,0x0000} would say so and laugh it off!
+Ugh... I’m so ashamed...[0x000A]I’ll start my training with {0x0134,0x0000}{0xBE00}[0x000A]over from the beginning.
+GRR... I’M FED UP.[0x000A]I’m going BACK to {0x0134,0x0000}’s place...
+Argh... I’m so sorry...[0x000A]My teacher, {0x0134,0x0000}...
+Ahh. That’s too bad.{0xBE01}[0x000A]Well, even with a poor result,[0x000A]I’m sure {0x0134,0x0000} will cheer me up,{0xBE00}[0x000A]so I’m OK.
+Gah... Bitterly disappointing...{0xBE01}[0x000A]{0x0134,0x0000}...[0x000A]Sorry...
+I’m too embarrassed to face {0x0134,0x0000}!{0xBE01}[0x000A]Please start the next challenge already![0x000A]We’ll start winning next fight!
+We...we...can challenge the[0x000A]Super Multi Battles!{0xBE01}[0x000A]I’ll let {0x0134,0x0000}[0x000A]know the result!
+We cleared the Multi Battles![0x000A]Haha! We did it!{0xBE01}[0x000A]I should go brag about this to {0x0134,0x0000}!
+We made it mainly because of me...[0x000A]You should thank me, of course.{0xBE01}[0x000A]I’m going to tell {0x0134,0x0000} about this.
+You’re STRONG! You’re GREAT!{0xBE01}[0x000A]You’re HALF as good as {0x0134,0x0000}!
+You’re seriously awesome![0x000A]I wanna battle with you again!{0xBE01}[0x000A]I respect you as much as I[0x000A]respect {0x0134,0x0000}!
+Yay! I owe it all to you!{0xBE01}[0x000A]Well, I’m gonna go to {0x0134,0x0000}’s place[0x000A]to brag about this!
+You and I...[0x000A]Our two spirits led us to this answer...
+You were as strong as {0x0134,0x0000}!{0xBE01}[0x000A]I wouldn’t mind teaming up with you again!
+Eh? Eh? Are you leaving?[0x000A]No... What shall I...
+Do you have some errands to run?[0x000A]Oh well. Let’s battle together again!
+So, we’re stopping here this time?[0x000A]All right. See you again...
+YOU GO HOME...[0x000A]I GO HOME...
+Well, that wasn’t bad! Guess we should lay off of[0x000A]them for a bit.
+What? Is that all?[0x000A]I could keep fighting!
+Are you exhausted body and soul?[0x000A]OK, then, next time...
+What’s the matter? We’re on a roll![0x000A]Do you have to go to the restroom?
+You and I have very different goals,[0x000A]but if we come together and click,{0xBE00}[0x000A]nobody can beat us!
+We didn’t really click, did we?{0xBE01}[0x000A]Did our egos get in the way of understanding[0x000A]what the other wanted to do?
+It’s exactly because we’re so different,[0x000A]that when we click, both of us have a power{0xBE00}[0x000A]and style we don’t have when we’re alone.
+That’s OK, I guess...[0x000A]It’s a shame, but let’s call it quits.
+If we both respect one another and[0x000A]do our very best, no one will be able to beat us!
+The battle may not have turned out great,[0x000A]but I tried my best to get to know you better.
+I really like fighting as one with my[0x000A]Pokémon and winning battles.{0xBE01}[0x000A]I enjoyed working as a team[0x000A]with you to win, too.
+All right... Can’t be helped, I suppose.[0x000A]Might as well call it good.
+If it’s with you, {0x0189,0x0001},[0x000A]everything is fun! [0xE09A]
+Oh... I’ll do better next time!
+{0x0189,0x0001}, you’re really great!{0xBE01}[0x000A]Having amazing friends like you makes[0x000A]me feel like I’ve become great, too!♪
+Aww...[0x000A]If you say so...
+When I join forces with you, {0x0189,0x0001},[0x000A]I feel like we can beat anybody!
+Sorry ’bout that!{0xBE01}[0x000A]Those cool Pokémon moves might’ve[0x000A]distracted me from the battle a little...
+I saw tons and tons of Pokémon moves![0x000A]I’ve had my fill for now!
+Hey what? Done already?[0x000A]Some other time, then, ’K?
+{0x0189,0x0001}.{0xBE01}[0x000A]Let me demonstrate the knowledge I’ve[0x000A]gained from filling up the Pokédex.
+I’ve heard it a lot, but...{0xBE01}[0x000A]It’s one thing to know something,[0x000A]but it’s another thing entirely{0xBE00}[0x000A]to put it to good use...
+{0x0189,0x0001}, you really[0x000A]know a great deal about Pokémon.{0xBE01}[0x000A]Actually, that’s not why you’re good, is it?{0xBE01}[0x000A]I’m sure the real reason you’re such a great[0x000A]battler is that you’re kind to Pokémon.
+Oh? Done already?{0xBE01}[0x000A]And I thought we were just[0x000A]about to really get going, too...
+Sigh... I do Sky Battles only.[0x000A]If there were no roof, I could{0xBE00}[0x000A]take on the challengers, too...
+The second floor is a viewing area[0x000A]for people who don’t battle.{0xBE01}[0x000A]I’m watching battles and guessing[0x000A]who will make it to the end.
+I’m just watching battles with my girlfriend.{0xBE01}[0x000A]Challengers like you don’t know this, but[0x000A]spectators have to pay an admission fee.
+Have you already met the four[0x000A]Battle Chatelaines?{0xBE01}[0x000A]They’re the owners of the Battle Maison.[0x000A]They’re four strong yet elegant sisters!{0xBE01}[0x000A]If you keep winning in battles,[0x000A]they’ll appear in front of you!{0xBE01}[0x000A]My favorite Chatelaine is, of course,[0x000A]the first daughter, Mademoiselle Morgan,{0xBE00}[0x000A]who specializes in Rotation Battles!{0xBE00}[0x000A]No one else!{0xBE01}[0x000A]The minute you see her, I guarantee that[0x000A]you’ll feel the same way!
+Hisssss
+Huh? Do you want me to restore[0x000A]your Pokémon’s health?{0xBE01}[0x000A]...Listen. As you can see,[0x000A]I’m taking a day off today.{0xBE01}[0x000A]Once I leave the Pokémon Center,[0x000A]I’m an ordinary girl, OK?{0xBE01}[0x000A]I’m quite stressed out from work.[0x000A]Today, I’m letting the stress out{0xBE00}[0x000A]by watching battles.{0xBE01}[0x000A]When I go back to work, I’ll do my job,[0x000A]so please leave me alone today, OK?
+Ugh...ugh...{0xBE01}[0x000A]My muse, Mademoiselle Evelyn, won’t show up[0x000A]on the stage...{0xBE01}[0x000A]If I can’t see her dainty face, my fingers won’t[0x000A]dance on the cash register tomorrow...{0xBE01}[0x000A]You! You’re a Trainer, right?[0x000A]Please keep winning in Double Battles!{0xBE01}[0x000A]I can’t go home unless I see Mademoiselle[0x000A]Evelyn, who flourishes on the stage!
+Perfect combinations between[0x000A]strong Trainers and Pokémon.{0xBE01}[0x000A]Pokémon battles here are[0x000A]serious battles.
+I...I...want to be...[0x000A]{0x0134,0x0000}’s apprentice.{0xBE01}[0x000A]I’ll do my best and battle it out,[0x000A]so, um...thank you in advance{0xBE00}[0x000A]for your guidance.
+I wanna be {0x0134,0x0000}’s pal.{0xBE01}[0x000A]Anyway, let’s do our best today!
+I’m training every day to be[0x000A]{0x0134,0x0000}’s friend.{0xBE01}[0x000A]Today, I’ll battle here[0x000A]instead of training.
+I think I can be {0x0134,0x0000}’s[0x000A]BEST friend.{0xBE01}[0x000A]But today, I will battle[0x000A]with YOU...
+My dream is to be {0x0134,0x0000}’s[0x000A]apprentice!{0xBE01}[0x000A]Today, I use this battle as training[0x000A]and do my best!
+I want to have a close relationship[0x000A]with {0x0134,0x0000}.{0xBE01}[0x000A]If I do well here, I might get noticed.[0x000A]So, I’ll get psyched up!
+I’m feeling that {0x0134,0x0000}’s and[0x000A]my minds are connected...{0xBE00}[0x000A]I feel the bond between us...{0xBE01}[0x000A]Even now, I feel I can hear[0x000A]{0x0134,0x0000}’s voice, saying “Fight...”
+I believe that {0x0134,0x0000} and I[0x000A]will be best friends very soon.{0xBE01}[0x000A]I will lead you to victory so[0x000A]I won’t disgrace my future friend!
+Hee... I can’t be {0x0134,0x0000}’s[0x000A]apprentice with such a result.
+With such a pathetic result,[0x000A]{0x0134,0x0000} won’t approve me{0xBE00}[0x000A]as a pal.
+Ahh... This is terrible...{0xBE01}[0x000A]With such a result, {0x0134,0x0000}[0x000A]won’t accept me as a friend...
+ARGH... I’m tired...[0x000A]{0x0134,0x0000}...{0xBE00}[0x000A]I’m hungry...
+I want to be strong just like[0x000A]{0x0134,0x0000}.
+I wish I could be strong like[0x000A]{0x0134,0x0000}...
+I feel {0x0134,0x0000}’s soulful voice[0x000A]saying, “Go home...”
+{0x0134,0x0000}... I’m too embarrassed[0x000A]to face my future friend.
+We...we can now challenge[0x000A]Super Multi Battles!{0xBE01}[0x000A]I wonder if {0x0134,0x0000} will[0x000A]accept me as an apprentice!
+We cleared Multi Battles...[0x000A]I think we can be a good team.
+Not only my great performance[0x000A]but also {0x0134,0x0000},{0xBE00}[0x000A]who’s probably cheering for me,{0xBE00}[0x000A]brought this awesome result...
+I am as strong as[0x000A]{0x0134,0x0000}, RIGHT?
+Teacher, {0x0134,0x0000}...[0x000A]Were you watching me?
+I guess this is the result that I can[0x000A]brag about to {0x0134,0x0000}.
+I can hear {0x0134,0x0000}’s soulful voice[0x000A]saying, “Congratulations...”
+I wonder if {0x0134,0x0000} accepts[0x000A]me as a friend.
+Eh? Eh? Are you leaving?[0x000A]No... What shall I...
+Do you have some errands to run?[0x000A]Oh well. Let’s battle together again!
+Are we going to stop here?[0x000A]All right. See you again...
+YOU GO HOME...[0x000A]I GO HOME...
+Well, that wasn’t bad! Guess we should lay off of[0x000A]them for a bit.
+What? Is that all?[0x000A]I could fight more!
+Are you exhausted in body and mind?[0x000A]OK, then, next time...
+What’s the matter? We’re on a roll![0x000A]Do you have to go to the restroom?
+Here she comes,[0x000A]Battle Chatelaine Nita!
+Here she comes,[0x000A]Battle Chatelaine Evelyn!
+Here she comes,[0x000A]Battle Chatelaine Dana!
+Here she comes,[0x000A]Battle Chatelaine Morgan!
+Here they come, Battle Chatelaines[0x000A]Evelyn and Dana!
+Here they come, Battle Chatelaines[0x000A]Morgan and Evelyn!
+Here they come, Battle Chatelaines[0x000A]Morgan and Nita!
+Here they come, Battle Chatelaines[0x000A]Nita and Dana!
+Excuse me!{0xBE01}[0x000A]You didn’t save before you quit your[0x000A]challenge last time.{0xBE01}[0x000A]I am sorry, but you’ll have to start[0x000A]your challenge over again.
+I’m keeping records in the Battle Maison.[0x000A]Do you want to see your results?
+Which result do you want to see?
+Current record: {0x0203,0x0000,0x002C} straight win{0x1101,0x0000,0x0100}s[0x000A]Best record: {0x0203,0x0001,0x002C} straight win{0x1101,0x0001,0x0100}s
+Rotation Battle
+Super Rotation Battle
+Wireless communication is currently disabled.{0xBE01}[0x000A]Please push the wireless switch to enable[0x000A]wireless communication.
+You can’t battle together with the Pokémon[0x000A]that the other Trainer has.
+You can’t battle together with this Trainer.

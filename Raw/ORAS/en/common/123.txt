@@ -1,0 +1,154 @@
+FIGHT
+BAG
+POKÉMON
+RUN
+SHIFT
+MEGA[0x000A]EVOLUTION
+CAPS
+lower
+Sym.
+NEW
+NEW
+{0xBDFF:0x000B}
+HP
+ATTACK
+DEFENSE
+SP. ATK
+SP. DEF
+SPEED
+CLEARED
+Try Again...
+Success!
+Start
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+{0xBDFF:0x001A}
+{0xBDFF:0x001B}
+JPN
+ENG
+FRE
+GER
+ITA
+KOR
+SPA
+POKÉDEX
+{0xBDFF:0x0024}
+{0xBDFF:0x0025}
+{0xBDFF:0x0026}
+{0xBDFF:0x0027}
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+{0xBDFF:0x002A}
+JPN
+ENG
+FRE
+GER
+ITA
+KOR
+SPA
+PARALYSIS
+ASLEEP
+FROZEN
+BURNED
+POISONED
+FAINTED
+POKÉRUS
+NORMAL
+FIGHTING
+FLYING
+POISON
+GROUND
+ROCK
+BUG
+GHOST
+STEEL
+FIRE
+WATER
+GRASS
+ELECTRIC
+PSYCHIC
+ICE
+DRAGON
+DARK
+FAIRY
+RESULTS
+{0xBDFF:0x004C}
+PLAY
+DECORATE
+SWITCH
+VS
+LOSE
+WIN
+DRAW
+Super Training
+Player Search System
+Pokémon-Amie
+HP
+EXP
+HP
+Lv.
+THE END
+VS
+Sidney
+Phoebe
+Glacia
+Drake
+VS
+Steven
+POKÉMON LEAGUE CHAMPION
+VS
+Roxanne
+Brawly
+Wattson
+Flannery
+Norman
+Winona
+Liza and Tate
+Wallace
+Hall of Fame
+Congratulations!
+Congratulations on becoming{0xBE01}[0x000A]Pokémon League Champion!
+Congratulations on becoming{0xBE01}[0x000A]Pokémon League Champion!
+PRESS START
+Battle Time:
+Command Time:
+Talent Round: Start!
+Talent Round: Complete!
+Normal Rank
+Super Rank
+Hyper Rank
+Master Rank
+{0xBDFF:0x007A}
+{0xBDFF:0x007B}
+{0xBDFF:0x007C}
+{0xBDFF:0x007D}
+{0xBDFF:0x007E}
+CONGRATULATIONS!
+RESULTS
+COOL
+BEAUTIFUL
+CUTE
+CLEVER
+TOUGH
+{0xBDFF:0x0086}
+{0xBDFF:0x0087}
+{0xBDFF:0x0088}
+{0xBDFF:0x0089}
+{0xBDFF:0x008A}
+AreaNav
+PlayNav
+BuzzNav
+DexNav
+Places
+Pokémon
+Trainers
+Bases
+Berries
+Elite Four
+COOLNESS[0x000A]CONTEST
+BEAUTY[0x000A]CONTEST
+CUTENESS[0x000A]CONTEST
+CLEVERNESS[0x000A]CONTEST
+TOUGHNESS[0x000A]CONTEST

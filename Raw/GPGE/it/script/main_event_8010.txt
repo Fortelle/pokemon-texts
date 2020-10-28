@@ -1,0 +1,17 @@
+msg_main8010_water_01=Ehi, tu!
+msg_main8010_water_05=Qual è la tua strategia di lotta?
+msg_main8010_water_06=Io, con i miei Pokémon di tipo Acqua,[0x000A]adotto una strategia molto semplice...{0xBE00}[0x000A]Attacco, attacco e di nuovo attacco!
+msg_main8010_water_07=Forza, allora! Misty, la Capopalestra più bella[0x000A]del mondo, è pronta a lottare contro di te!
+msg_main8010_water_08=Sei pront{0x1100,0x00FF,0x0101}oa? Cominciamo!
+msg_gymleader_02_01={0xBDFF:0x0005}
+msg_gymleader_02_06={0xBDFF:0x0006}
+msg_main8010_water_02=E va bene...{0xBE01}[0x000A]Ti darò la Medaglia Cascata, che dimostrerà[0x000A]che mi hai sconfitto!
+msg_main8010_sys_01={0x0100,0x0000} riceve la {0xFF00,0x0006}Medaglia Cascata{0xFF00,0x0000}[0x000A]da Misty!
+msg_main8010_water_03=Con la Medaglia Cascata tutti i Pokémon[0x000A]fino al livello 30 ottenuti negli scambi{0xBE00}[0x000A]seguiranno le tue indicazioni!{0xBE01}[0x000A]Inoltre... tieni! Ti do la mia MT preferita!
+msg_main8010_sys_02={0x0100,0x0000} riceve la {0x0109,0x0001}[0x000A]che contiene {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000} da Misty!
+msg_main8010_water_04=La MT29 contiene Idrovampata![0x000A]Insegnala ai Pokémon di tipo Acqua!
+msg_gymleader_02_05={0xBDFF:0x000C}
+msg_gymleader_02_02={0xBDFF:0x000D}
+msg_gymleader_02_03={0xBDFF:0x000E}
+msg_gymleader_02_04={0xBDFF:0x000F}
+msg_gymleader_02_07={0xBDFF:0x0010}

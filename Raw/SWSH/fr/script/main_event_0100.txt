@@ -1,0 +1,7 @@
+main_event_0100_telop_01=Le lendemain...
+main_event_0100_champion_01=Alors ? Comment s’est passée votre première[0x000A]soirée avec vos nouveaux partenaires ?{0xBE01}[0x000A]C’est bon, vous avez fait connaissance ?{0x0114,0x0004}
+main_event_0100_rival_01=Carrément !{0xBE01}[0x000A]{0x0101,0x0001} est déjà super fan[0x000A]{0x1408,0x0000,0x0001}{0x0100,0x0000}, ils sont inséparables !{0x0114,0x0005}
+main_event_0100_champion_02=Ah, cool ! Vous avez déjà compris ce qui[0x000A]est le plus important pour un Dresseur{0xBE00}[0x000A]et son Pokémon : la confiance !{0xBE01}[0x000A]À force de combattre côte à côte, vous tisserez[0x000A]des liens aussi forts que ceux qui nous unissent,{0xBE00}[0x000A]Dracaufeu et moi !{0x0114,0x0004}
+main_event_0100_champion_03=Et quand ce sera le cas... Vous serez enfin[0x000A]dignes d’affronter le Maître Invaincu !{0x0114,0x0004}
+main_event_0100_rival_02=Ouais, enfin, ce qui va se passer, c’est que[0x000A]c’est moi qui vais t’affronter ! Y’a aucun doute !{0x0114,0x0005}
+main_event_0100_rival_03=Mais en attendant, {0x0100,0x0000} fera[0x000A]un{0x1100,0x00FF,0x0F0C} rival idéale rivale idéale !{0xBE01}[0x000A]Je te préviens, je vais tout donner pour gagner !{0x0114,0x0005}

@@ -1,0 +1,15 @@
+Hai con te un Pokémon ricevuto dal Kahuna[0x000A]dell’isola?{0xBE01}[0x000A]Qualunque sia il suo stadio evolutivo, se ti è[0x000A]abbastanza affezionato, posso insegnargli{0xBE00}[0x000A]una mossa davvero speciale...{0xBE01}[0x000A]Una mossa combinata![0x000A]Che dici? Vuoi che gliela insegni?
+Allora, vuoi far imparare a un tuo[0x000A]Pokémon una mossa combinata?
+Non posso insegnare nessuna mossa[0x000A]ai Pokémon che hai ora in squadra.
+Ah, no? Come vuoi.[0x000A]Alla prossima, allora!
+A quale Pokémon vuoi che insegni la mossa?
+Questo Pokémon non può imparare mosse[0x000A]combinate.
+Insegnare una mossa a un Uovo?[0x000A]Vuoi scherzare?
+Questo Pokémon non ti è ancora[0x000A]abbastanza affezionato.
+Questo Pokémon conosce già[0x000A]la mossa combinata!
+Vuoi che insegni {0x0107,0x0001}[0x000A]a {0x0101,0x0000}?
+I miei Pokémon preferiti?{0xBE01}[0x000A]Niente di più facile: sono tutti quelli[0x000A]ricevuti da un Professore o da un Kahuna!{0xBE00}[0x000A]E le loro evoluzioni, naturalmente.{0xBE01}[0x000A]A tutti questi Pokékmon posso insegnare una[0x000A]mossa speciale: una mossa combinata!{0xBE01}[0x000A]È la mia specialità!
+Scegli una mossa da sostituire[0x000A]con {0x0107,0x0000}.
+{0x0102,0x0000} impara[0x000A]{0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+Uno,{0xBE02:0x0014} due{0xBE02:0x0014} e{0xBE02:0x0014}...{0xBE02:0x0014} ta-daaaa!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} dimentica[0x000A]{0x0107,0x0001}!{0xBE01}[0x000A]Al suo posto...{0xBE01}[0x000A]{0x0102,0x0000} impara[0x000A]{0x0107,0x0002}!{0xBE05,0x0004}{0xBE05,0x0001}
+{0x0102,0x0000} non ha imparato[0x000A]{0x0107,0x0001}!

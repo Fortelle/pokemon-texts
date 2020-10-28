@@ -1,0 +1,31 @@
+Quel est votre nom[0xE07F]?
+Quel surnom donner à {0x0101,0x0000}[0xE07F]?
+Quel nom voulez-vous donner à la Boîte[0xE07F]?
+Quel est votre message[0xE07F]?
+Quel est votre surnom[0xE07F]?
+Avez-vous un mot à dire à vos partenaires[0x000A]d’échange[0xE07F]?
+Quel Pokémon recherchez-vous[0xE07F]?
+Qu’aimeriez-vous dire aux autres joueurs[0xE07F]?
+Quel Pokémon désirez-vous[0xE07F]?
+Quelle sera votre réponse[0xE07F]?
+Que choisissez-vous[0xE07F]?
+Que dites-vous quand vous êtes de bonne[0x000A]humeur[0xE07F]?
+Que dites-vous pour encourager quelqu’un[0xE07F]?
+Qu’aimeriez-vous dire à tous vos amis[0xE07F]?
+Que voulez-vous écrire[0xE07F]?
+Quel nom voulez-vous donner[0x000A]à l’Équipe Combat[0xE07F]?
+Quel nom voulez-vous donner à[0x000A]votre Place Festival[0xE07F]?
+Saisie impossible.
+Vous ne pouvez pas saisir plus de 5 chiffres.
+Vous ne pouvez pas saisir ce nom.
+Veuillez saisir le surnom.
+Veuillez saisir votre nom.
+Écrivez quelque chose en guise de réponse[0xE07F]!
+Effacer
+OK
+Espace
+Effacer
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+{0x0101,0x0000}
+Votre message pourra être envoyé à d’autres joueurs[0x000A]via les fonctions de communication.

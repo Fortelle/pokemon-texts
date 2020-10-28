@@ -1,0 +1,8 @@
+msg_main0010_rival_04={0xFF00,0x0009}{0x0100,0x0001}: {0xFF00,0x0000}¡Holaaa!
+msg_main0010_rival_05=¡Voy a subir, {0x0100,0x0000}![0x000A]¡Espero que no sigas en pijama!
+msg_main0010_rival_01=¡Buenas!
+msg_main0010_rival_08=Vaya cara tienes...[0x000A]Te acabas de levantar, ¿verdad?
+msg_main0010_rival_02=¡Espabila, {0x1100,0x00FF,0x0506}hombremujer, que ha llegado el gran día!{0xBE01}[0x000A]¡Hoy el Profesor Oak nos entregará nuestro[0x000A]primer Pokémon y, por fin, nos convertiremos{0xBE00}[0x000A]en {0xFF00,0x0006}Entrenadores{0xFF00,0x0000}! ¡Yo estoy de los nervios!
+msg_main0010_rival_06=Pero, antes de nada...
+msg_main0010_rival_07=Supongo que leíste el correo que te envié ayer,[0x000A]¿no? Si no lo has hecho, échale un ojo.
+msg_main0010_rival_03=Bueno, yo me adelanto. ¡Te espero en el[0x000A]Laboratorio del Profesor Oak!

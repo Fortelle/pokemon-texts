@@ -1,0 +1,6 @@
+msg_t009r0104_bg_01=Parece que hace mucho frío en el interior de[0x000A]esta máquina.
+msg_t009r0104_bg_02=La máquina está caliente al tacto.
+msg_t009r0104_researcher_01=¡La materia es un conjunto de moléculas[0x000A]diminutas!{0xBE01}[0x000A]Es como reunir una fortuna inmensa con muchas[0x000A]monedas de poco valor.
+msg_t009r0104_researcher_02=Si yo también me convirtiera en fósil,[0x000A]¿me regenerarían en un futuro lejano?
+msg_t009r0104_researcher_03=Los ojos se me cansan si miro la pantalla del[0x000A]ordenador durante mucho rato.{0xBE01}[0x000A]Es importante descansar la vista.
+test_00={0xBDFF:0x0005}

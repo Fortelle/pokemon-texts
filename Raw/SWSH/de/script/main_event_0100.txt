@@ -1,0 +1,7 @@
+main_event_0100_telop_01=Am nächsten Tag...
+main_event_0100_champion_01=Gib’s zu, Hop, du bist gestern bestimmt bis in die[0x000A]Puppen wach geblieben, um mit deinem neuen{0xBE00}[0x000A]Pokémon zu spielen, stimmt’s?{0xBE01}[0x000A]Ich wette, ihr kommt schon richtig gut[0x000A]miteinander aus.{0x0114,0x0004}
+main_event_0100_rival_01=Und ob, Bruderherz!{0xBE01}[0x000A]{0x0100,0x0000} und {0x0101,0x0001} haben[0x000A]sich auch schon angefreundet!{0x0114,0x0005}
+main_event_0100_champion_02=Sehr schön! Gegenseitiges Vertrauen ist das[0x000A]A und O für einen Trainer und seine Pokémon.{0xBE01}[0x000A]Behaltet immer den Glauben aneinander,[0x000A]gebt nie auf und kämpft, kämpft, kämpft!{0x0114,0x0004}
+main_event_0100_champion_03=Nur dann werdet ihr irgendwann zu meinen[0x000A]würdigen Rivalen!{0x0114,0x0004}
+main_event_0100_rival_02=Hallo? Was schaust du {0x1100,0x00FF,0x0303,0x0000}ihnsie denn dabei an?! Wenn[0x000A]hier jemand dein Rivale wird, dann ja wohl ich!{0x0114,0x0005}
+main_event_0100_rival_03=Na warte, das lass ich nicht auf mir sitzen...{0xBE01}[0x000A]Ab heute sind {0x0100,0x0000} und ich Rivalen[0x000A]im Kampf darum, wer dein Rivale sein darf!{0x0114,0x0005}

@@ -1,0 +1,9 @@
+{0x0100,0x0000}, posso farti una domanda?[0x000A]I tuoi vestiti... li scegli da sol{0x1100,0x00FF,0x0101}oa?{0x0114,0x0006}
+Certo!
+No, li sceglie la mamma
+Capisco... Immagino che quasi tutti si scelgano[0x000A]da soli i vestiti.{0x0114,0x0006}
+Tua madre se ne intende di moda.[0x000A]Mi piace il tuo stile.{0x0114,0x0006}
+Col fatto che ho sempre messo i vestiti che[0x000A]mia madre sceglieva per me, non sono mai sicura{0xBE00}[0x000A]di quali mi stiano bene e quali no.{0x0114,0x0006}
+Ah, ora che ci penso!{0xBE01}[0x000A]Sono appena stata in questo Negozio di Vestiti[0x000A]e mi hanno dato quest{0x1100,0x00FF,0x0101}oi.{0x0114,0x0006}
+A quanto pare ero la cliente numero 99.999,[0x000A]quindi mi hanno dato in omaggio quest{0x1100,0x00FF,0x0101}oi anche{0xBE00}[0x000A]se non ho comprato nulla.{0xBE01}[0x000A]Solo che io ce l{0x1100,0x00FF,0x0201}'i ho già... Magari interessa{0x1100,0x00FF,0x0200}no a te!{0x0114,0x0006}
+Ora abbiamo qualcosa in comune![0x000A]Non è meraviglioso, {0x0100,0x0000}?{0x0114,0x0006}

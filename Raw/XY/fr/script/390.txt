@@ -1,0 +1,36 @@
+Le Professeur poursuit des recherches[0x000A]sur les évolutions et les transformations.{0xBE01}[0x000A]Il paraît qu’il a beaucoup appris à Sinnoh dans[0x000A]sa jeunesse, aux côtés du Professeur Sorbier.
+Je suis en train de développer un outil[0x000A]qui me servira dans mes recherches.{0xBE01}[0x000A]C’est un processus très difficile,[0x000A]cela risque de prendre longtemps.
+Ah, {0x0100,0x0000}[0xE07F]!{0xBE01}[0x000A]J’ai inventé un outil qui facilite[0x000A]la recherche sur les Pokémon.{0xBE01}[0x000A]Si tu veux, tu peux l’utiliser[0xE07F]![0x000A]Cela me permettra de le tester.
+C’est un radar à Pokémon[0xE08D][0x000A]Entre nous, on l’appelle le Poké Radar.{0xBE01}[0x000A]C’est un outil fantastique qui permet à l’utilisateur[0x000A]de détecter les Pokémon qui se cachent à proximité{0xBE00}[0x000A]de lui dans les hautes herbes.
+Mais ce n’est pas tout[0xE07F]!{0xBE01}[0x000A]Une fois que l’utilisateur a rencontré un Pokémon,[0x000A]le radar en cherche d’autres de la même espèce.{0xBE01}[0x000A]Même si évidemment, rien ne garantit[0x000A]qu’il en trouvera un[0xE08D]
+Le principal atout du Poké Radar est qu’il permet[0x000A]de chercher des Pokémon de même espèce.{0xBE01}[0x000A]Après tout, ils sont tous différents les uns des[0x000A]autres, non[0xE07F]?{0xBE01}[0x000A]Pour étudier ces différences, j’ai besoin de récolter[0x000A]des données sur un maximum de Pokémon{0xBE00}[0x000A]de la même espèce.
+C’est moi qui t’indiquerai l’espèce du Pokémon[0x000A]que nous avons besoin d’étudier ce jour-là.{0xBE01}[0x000A]J’aimerais beaucoup que tu nous aides,[0x000A]si cela t’intéresse, bien sûr.
+Bonjour {0x0100,0x0000}[0xE07F]!{0xBE01}[0x000A]Aujourd’hui, nous avons besoin d’étudier les[0x000A]{0x0101,0x0001}.{0xBE01}[0x000A]Merci de ton aide[0xE07F]!
+Ah, {0x0100,0x0000}[0xE07F]!{0xBE01}[0x000A]Peux-tu me montrer les données que[0x000A]tu as récoltées sur les {0x0101,0x0001}{0xBE00}[0x000A]pour ma recherche[0xE07F]?
+{0x0203,0x0002,0xE07F} Pokémon[0xE07F]?[0x000A]Merci quand même[0xE08D]
+{0x0203,0x0002,0xE07F} Pokémon[0xE07F]?[0x000A]C’est fantastique, merci[0xE07F]!
+{0x0203,0x0002,0xE07F} Pokémon[0xE07F]?[0x000A]Voilà qui va vraiment beaucoup m’aider[0xE07F]!
+{0x0203,0x0002,0xE07F} Pokémon[0xE07F]?{0xBE01}[0x000A]Alors là, je suis impressionné[0xE07F]![0x000A]Je vais pouvoir sérieusement avancer dans{0xBE00}[0x000A]mes recherches. Merci beaucoup[0xE07F]!
+Tiens, en guise de remerciement[0xE08D]
+Je compte sur toi[0xE07F]!
+Il existe des Pokémon mâles, des Pokémon[0x000A]femelles[0xE08D] et des Pokémon dont on n’arrive{0xBE00}[0x000A]pas à déterminer le sexe.{0xBE01}[0x000A]Parfois, les Pokémon mâles et femelles[0x000A]n’ont pas le même aspect.
+Pour mieux s’entendre avec un Pokémon, rien de[0x000A]tel que de passer du temps en sa compagnie.{0xBE00}[0x000A]Tiens, prends ces Luxe Balls.
+Les Pokémon attrapés avec une Luxe Ball[0x000A]s’attachent plus facilement à toi.
+Les Pokémon ont de mystérieux pouvoirs[0x000A]appelés talents.{0xBE01}[0x000A]Certains s’activent pendant la bataille, et[0x000A]d’autres sur le terrain.
+Il paraît que pour effectuer des recherches[0x000A]sur un certain Pokémon, une télévision et un{0xBE00}[0x000A]lave-linge sont indispensables. Incroyable[0xE07F]!
+C’est un appareil d’enregistrement, en réseau[0x000A]avec les autres équipements de recherche.
+{0x0100,0x0000} met en marche l’appareil[0x000A]d’enregistrement.
+Quel enregistrement désirez-vous consulter[0xE07F]?
+Projet de recherche en cours
+Dernière recherche terminée
+Recherches archivées
+Quitter
+Projet de recherche en cours :[0x000A]{0x0203,0x0002,0xE07F} {0x0101,0x0001}
+Aucune donnée disponible.
+Dernière recherche terminée :[0x000A]{0x0203,0x0002,0xE07F} {0x0101,0x0001}
+Aucune donnée disponible.
+Recherche archivée, 1[0xE08B] place :[0x000A]{0x0203,0x0002,0xE07F} {0x0101,0x0001}
+Recherche archivée, 2[0xE0A6] place :[0x000A]{0x0203,0x0004,0xE07F} {0x0101,0x0003}{0xBE01}[0x000A]Recherche archivée, 1[0xE08B] place :[0x000A]{0x0203,0x0002,0xE07F} {0x0101,0x0001}
+Recherche archivée, 3[0xE0A6] place :[0x000A]{0x0203,0x0006,0xE07F} {0x0101,0x0005}{0xBE01}[0x000A]Recherche archivée, 2[0xE0A6] place :[0x000A]{0x0203,0x0004,0xE07F} {0x0101,0x0003}{0xBE01}[0x000A]Recherche archivée, 1[0xE08B] place :[0x000A]{0x0203,0x0002,0xE07F} {0x0101,0x0001}
+Aucune donnée disponible.
+Quand je suis synchro avec mon Pokémon favori,[0x000A]j’en ai des frissons[0xE07F]!

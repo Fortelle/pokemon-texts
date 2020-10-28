@@ -1,0 +1,7 @@
+main_event_0470_telop_01=Am nächsten Morgen...
+main_event_0470_rival_01=Guten Morgen!{0x0114,0x0005}
+main_event_0470_rival_02=Ab heute wird es endlich ernst! Dieser Tag wird[0x000A]ein wichtiges Kapitel in der Legende von Hop!{0x0114,0x0005}
+main_event_0470_rival_03=Komm, {0x0100,0x0000}! Machen wir ein[0x000A]Wettrennen bis zum Engine-Stadion!{0x0114,0x0005}
+main_event_0470_sister_01=Bald fängt die Arena-Challenge an.[0x000A]Wird auch langsam Zeit!{0xBE01}[0x000A]Aber... Ich muss dich leider enttäuschen.[0x000A]Den Sieg werde nämlich ich nach Hause tragen!{0x0114,0x000D}
+main_event_0470_rival_04=Ich will sofort mit den Kämpfen loslegen, damit[0x000A]ich endlich auch ein paar Fans bekomme!{0x0114,0x0005}
+main_event_0470_sister_02={0xBDFF:0x0006}

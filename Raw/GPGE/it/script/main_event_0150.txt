@@ -1,0 +1,9 @@
+msg_main0150_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Ah! {0x0100,0x0000}!
+msg_main0150_rival_02=Non pensi che sarebbe fantastico raggiungere[0x000A]la {0xFF00,0x0006}Lega Pokémon{0xFF00,0x0000}?{0xBE01}[0x000A]Là ci sono i famosissimi {0xFF00,0x0006}Superquattro{0xFF00,0x0000}...[0x000A]Sono gli Allenatori più forti di tutti!
+msg_main0150_rival_03=Mi sarebbe piaciuto un sacco dare un’occhiata[0x000A]a come lottano...{0xBE01}[0x000A]Ma non mi hanno fatto passare perché non ho[0x000A]ottenuto Medaglie nelle Palestre Pokémon...
+msg_main0150_rival_04=Beh, ci vorrà ben altro per scoraggiarmi![0x000A]Devo solo impegnarmi al massimo e allenarmi{0xBE00}[0x000A]con serietà!{0xBE01}[0x000A]Avanti, {0x0100,0x0000}! Lottiamo assieme e[0x000A]diventiamo più forti!
+msg_main0150_rival_05=Spero che questa lotta ti sia servita a diventare[0x000A]più forte, {0x0100,0x0000}!
+msg_main0150_rival_06=Mettiamocela tutta e un giorno riusciremo[0x000A]a sfidare la Lega Pokémon assieme!
+msg_rival_01_p01_field_r022={0xBDFF:0x0006}
+msg_rival_01_p02_field_r022={0xBDFF:0x0007}
+msg_rival_01_p03_field_r022={0xBDFF:0x0008}

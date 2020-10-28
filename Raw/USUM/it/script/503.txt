@@ -1,0 +1,15 @@
+Alla mia età, ho molto tempo libero e ho deciso[0x000A]di aiutare i giovani Allenatori.{0xBE01}[0x000A]Voglio trasmettere loro le mie conoscenze[0x000A]sulle mosse eccelse!{0xBE01}[0x000A]Vuoi che ne insegni una a un tuo Pokémon?
+Vuoi che insegni una mossa eccelsa[0x000A]a un tuo Pokémon?
+Giovane Allenat{0x1100,0x00FF,0x0302}orrice, nessuno dei Pokémon[0x000A]che hai con te può imparare questa mossa.{0xBE01}[0x000A]Controlla la lista dei Pokémon che possono[0x000A]apprenderla.
+Torna a trovarmi, giovane Allenat{0x1100,0x00FF,0x0302}orrice!
+A chi vuoi che la insegni?
+Giovane Allenat{0x1100,0x00FF,0x0302}orrice, il tuo Pokémon non può[0x000A]imparare questa mossa.{0xBE01}[0x000A]Controlla la lista dei Pokémon che possono[0x000A]apprenderla.
+Giovane Allenat{0x1100,0x00FF,0x0302}orrice... Un po’ di buon senso![0x000A]Un Uovo non può imparare delle mosse!
+Giovane Allenat{0x1100,0x00FF,0x0302}orrice, il legame che ti unisce a[0x000A]questo Pokémon non è abbastanza forte.{0xBE01}[0x000A]Torna quando ti sarà più affezionato!
+Giovane Allenat{0x1100,0x00FF,0x0302}orrice, il tuo Pokémon conosce già[0x000A]questa mossa.
+Insegnerò {0x0107,0x0001}[0x000A]a {0x0101,0x0000}, d’accordo?
+Ecco tutti i Pokémon che possono imparare[0x000A]mosse eccelse.[0x000A]Fra i divampanti Pokémon Fuoco:[0x000A]Charizard, Typhlosion, Blaziken, Infernape,[0x000A]Emboar, Delphox e Incineroar.{0xBE01}[0x000A]Fra gli irrequieti Pokémon Acqua:[0x000A]Blastoise, Feraligatr, Swampert, Empoleon,[0x000A]Samurott, Greninja e Primarina.{0xBE01}[0x000A]Fra i tranquilli Pokémon Erba:[0x000A]Venusaur, Meganium, Sceptile, Torterra,[0x000A]Serperior, Chesnaught e Decidueye.
+Scegli una mossa da sostituire[0x000A]con {0x0107,0x0000}.
+{0x0102,0x0000} impara[0x000A]{0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+Uno,{0xBE02:0x0014} due{0xBE02:0x0014} e{0xBE02:0x0014}...{0xBE02:0x0014} ta-daaaa!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} dimentica[0x000A]{0x0107,0x0001}!{0xBE01}[0x000A]Al suo posto...{0xBE01}[0x000A]{0x0102,0x0000} impara[0x000A]{0x0107,0x0002}!{0xBE05,0x0004}{0xBE05,0x0001}
+{0x0102,0x0000} non ha imparato[0x000A]{0x0107,0x0001}!

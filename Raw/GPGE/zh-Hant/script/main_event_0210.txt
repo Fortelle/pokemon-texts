@@ -1,0 +1,10 @@
+msg_main0210_musashi_01=？？？「且慢！
+msg_main0210_musashi_02=？？？「我說呀！[0x000A]那可是我們的化石！
+msg_main0210_kojiro_01=？？？「氣死人了！竟然趁我們不注意[0x000A]的時候超越我們，太奸詐了吧！
+msg_main0210_musashi_04=武藏「我們是火箭隊！[0x000A]我是武藏！
+msg_main0210_kojiro_02=小次郎「我是小次郎！
+msg_main0210_musashi_05=武藏「接下來就由我們兩個[0x000A]華麗地搶走{0x1100,0x00FF,0x0101}你妳手裡的化石！
+msg_main0210_dummy_01={0xBDFF:0x0006}
+msg_main0210_dummy_02={0xBDFF:0x0007}
+msg_main0210_musashi_03=火箭隊「好討厭的感覺啊～！
+msg_main0210_musashi_back=武藏「話說，{0x1100,0x00FF,0x0101}你妳只有１隻寶可夢[0x000A]是要怎麼跟我們對戰啊！{0xBE01}[0x000A]給我回去再帶１隻[0x000A]寶可夢過來啦！

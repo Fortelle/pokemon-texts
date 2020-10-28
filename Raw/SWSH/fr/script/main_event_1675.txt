@@ -1,0 +1,5 @@
+main_event_1675_stuff_01={0x0100,0x0000}, je vous attendais.[0x000A]Vous avez remporté le Tournoi des Médaillés !{0xBE01}[0x000A]Vous allez maintenant prendre part[0x000A]au Tournoi des Champions, auquel{0xBE00}[0x000A]participent sept Champions de Galar !{0xBE01}[0x000A]Ils seront sans pitié ! Car le vainqueur[0x000A]du tournoi gagne le droit de défier le Maître !{0xBE01}[0x000A]Êtes-vous prêt{0x1100,0x00FF,0x0100}e à passer aux vestiaires ?
+main_event_1675_select_01=Oui !
+main_event_1675_select_02=Pas tout de suite, non.
+main_event_1675_stuff_02=Parfait, je vous y emmène.
+main_event_1675_stuff_03=Pas de problème. Je reste à votre disposition.

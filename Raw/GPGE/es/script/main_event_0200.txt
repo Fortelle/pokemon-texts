@@ -1,0 +1,11 @@
+msg_main0200_scientist_01=Eh, ¡las manos quietecitas!
+msg_main0200_scientist_05=Los fósiles los he encontrado yo.
+msg_main0200_scientist_06=¡Así que me pertenecen!
+msg_science_02_02={0xBDFF:0x0003}
+msg_main0200_scientist_02=Bueno, bueno, ¡uno para cada uno![0x000A]Tampoco hay que ser avaricioso.
+msg_main0200_sys_01=¿Quieres el Fósil Domo?
+msg_main0200_sys_02=¿Quieres el Fósil Hélix?
+msg_main0200_sys_03=Has conseguido el Fósil Hélix.
+msg_main0200_sys_04=Has conseguido el Fósil Domo.
+msg_main0200_scientist_03=Muy bien. ¡Pues este para mí!
+msg_main0200_scientist_04=Muy lejos, en Isla Canela, hay un laboratorio[0x000A]en el que estudian cómo regenerar los fósiles{0xBE00}[0x000A]de Pokémon.

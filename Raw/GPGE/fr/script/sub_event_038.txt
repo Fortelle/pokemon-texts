@@ -1,0 +1,8 @@
+msg_sub038_adultm_01=Je ne sais pas entraîner les Pokémon, et je songe[0x000A]sincèrement à relâcher mon Salamèche...{0xBE01}[0x000A]S’il reste avec moi, il sera faible pour toujours,[0x000A]le pauvre...{0xBE01}[0x000A]Du coup, je cherche un Dresseur meilleur que[0x000A]moi pour l’entraîner... Quelqu’un qui a capturé{0xBE00}[0x000A]un max de Pokémon, par exemple.
+msg_sub038_adultm_05=Dis voir un peu, t’as capturé combien[0x000A]de Pokémon ?{0xBE00}[0x000A]... {0x0208,0x0000,0x202F} ?!
+msg_sub038_adultm_06=Nickel ! Ça me dirait bien de te confier[0x000A]mon Salamèche, du coup. Ça te tente ?
+msg_sub038_adultm_02=Occupe-toi bien de lui !
+msg_sub038_adultm_07=Perso, j’ai capturé {0x0202,0x0000} Pokémon.[0x000A]S’il t’intéresse, reviens me voir quand tu en auras{0xBE00}[0x000A]au moins autant !
+msg_sub038_adultm_03=Oh... Je vais peut-être le confier au Professeur,[0x000A]alors...
+msg_sub038_adultm_04=Comment va Salamèche ?
+msg_sub038_poke_01={0xFF00,0x0009}Salamèche :{0xFF00,0x0000} Lamèche !

@@ -1,0 +1,84 @@
+Geheimbasis von {0x0100,0x0000}
+Geheim-Profil
+Geheimbasis umgestalten
+Favoriten löschen
+Deko-Objekte
+Favoriten festlegen
+Über Favoriten
+Erbeutete Fahnen
+{0x0205,0x0000,0x0020}
+Geheimbasis umgestalten
+QR Code
+Favoriten löschen
+Geheim-Profil
+Geheimbasis aufräumen
+Ausschalten
+Team-Name
+Team-Slogan
+Ausdruck der Fröhlichkeit
+Ausdruck der Ermutigung
+Zurück
+Hier kannst du Deko-Objekte in deiner Geheimbasis[0x000A]platzieren oder ihre Anordnung verändern.
+Hier kannst du QR Code-Bilder der Geheimbasen anderer[0x000A]Spieler einlesen oder deinen eigenen QR Code erstellen.
+Hier kannst du von dir festgelegte Favoriten[0x000A]wieder entfernen.
+Hier kannst du das Profil deiner Geheimbasis bearbeiten.
+Hier kannst du deine Geheimbasis aufräumen lassen,[0x000A]während du nach draußen transportiert wirst.
+Hier kannst du den PC ausschalten.
+Hier kannst du den {0xFF00,0x0002}Namen deines Teams{0xFF00,0x0000} ändern.
+Hier kannst du den {0xFF00,0x0002}Slogan deines Teams{0xFF00,0x0000} ändern.
+Hier kannst du deinen {0xFF00,0x0002}Ausdruck der Fröhlichkeit{0xFF00,0x0000} ändern.
+Hier kannst du deinen {0xFF00,0x0002}Ausdruck der Ermutigung{0xFF00,0x0000} ändern.
+Damit kehrst du zum vorigen Bildschirm zurück.
+Dadurch werden sämtliche Geheim-Freunde entfernt.{0xBE01}[0x000A]Möchtest du dennoch fortfahren?
+Wähle, welchen Spieler du aus deinen Favoriten[0x000A]entfernen möchtest.
+Soll {0x0100,0x0000} aus deinen Favoriten[0x000A]entfernt werden?
+Soll {0x0100,0x0000} zu deinen Favoriten[0x000A]hinzugefügt werden?
+{0x0100,0x0000} ist bereits als Favorit registriert.[0x000A]Soll {0x1100,0x0000,0x0302,0x0000}ersie aus deinen Favoriten entfernt werden?
+{0x0100,0x0000} wurde aus deinen Favoriten entfernt.
+{0x0100,0x0000} wurde zu deinen Favoriten hinzugefügt.
+Es wurden keine Favoriten festgelegt.
+Es wurde bereits die höchstmögliche Zahl[0x000A]an Favoriten registriert.{0xBE01}[0x000A]Über die Option {0xFF00,0x0002}Favoriten löschen{0xFF00,0x0000} kannst du[0x000A]Favoriten entfernen.
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+{0xBDFF:0x002A}
+{0xBDFF:0x002B}
+Zu Favoriten hinzufügen
+Aus Favoriten entfernen
+Über Favoriten
+Der Besitzer dieser Geheimbasis kann[0x000A]zu deinen Favoriten hinzugefügt werden.
+Hier wird dir erklärt, was Favoriten sind.
+Die Geheimbasis eines als Favoriten registrierten[0x000A]Spielers bleibt solange bestehen, wie dieser nicht{0xBE00}[0x000A]umzieht.{0xBE01}[0x000A]Es können bis zu 15 Kontakte als Favoriten[0x000A]registriert werden.{0xBE01}[0x000A]Wenn du eine Geheimbasis findest, die dir gefällt,[0x000A]solltest du ihren Besitzer als Favorit registrieren.
+{0x0100,0x0000}
+{0xBDFF:0x0033}
+{0xBDFF:0x0034}
+Ja
+Nein
+Tische
+Hocker
+Matten
+Pflanzen
+Verschiedenes
+Wandschmuck
+Puppen
+Kissen
+Geräte
+Scherzartikel
+{0xBDFF:0x0041}
+Die Geheimbasis von {0x0100,0x0001} ist an folgendem[0x000A]Ort erschienen: {0x0105,0x0002}!
+Eine besondere Geheimbasis ist[0x000A]in Moosbach City erschienen!
+Geheimbasen-Liste
+Geheimbasen-Liste
+Hier kannst du sehen, welche Trainer[0x000A]eine Geheimbasis haben.
+{0x0100,0x0000}
+Hier kannst du die Geheimbasis des ausgewählten[0x000A]Spielers aus deiner Geheimbasen-Liste löschen.
+Du kennst niemanden, der eine Geheimbasis hat.
+{0x0100,0x0000} gehört zu deinen Geheim-Freunden.{0xBE01}[0x000A]Die Geheimbasen von Geheim-Freunden[0x000A]können nicht gelöscht werden.
+Die Geheimbasis von {0x0100,0x0001} befindet sich hier:[0x000A]{0x0105,0x0000}.{0xBE00}[0x000A]Möchtest du sie löschen?
+Bist du dir ganz sicher?
+{0x0100,0x0000} gehört zu deinen Favoriten.[0x000A]Bist du dir ganz sicher?
+Du hast die Geheimbasis von {0x0100,0x0001} gelöscht,[0x000A]die sich hier befand: {0x0105,0x0000}
+Geheimbasis löschen
+Hier kannst du diese Geheimbasis löschen.
+Möchtest du die Geheimbasis[0x000A]von {0x0100,0x0000} löschen?
+Du hast die Geheimbasis von {0x0100,0x0000} gelöscht.
+Geheimbasis „{0x01AA,0x0000}“

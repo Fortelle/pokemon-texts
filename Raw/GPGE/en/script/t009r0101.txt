@@ -1,0 +1,7 @@
+msg_t009r0101_researcher_01=We study Pokémon here, day in and day out.{0xBE01}[0x000A]People even bring us rare Pokémon to examine.
+msg_t009r0101_researcher_02=Did you come to have a look at our lab?[0x000A]Most impressive! I like to see that kind of drive!
+msg_t009r0101_researcher_03=HEY![0x000A]No running in the hallways!{0xBE01}[0x000A]...Boy, I’ve always wanted the chance to say[0x000A]something like that!
+msg_t009r0101_picture_01=It’s a photo of the Cinnabar Lab’s[0x000A]founder—Dr. Fuji!
+msg_t009r0101_kanban_01=“Cinnabar Lab:[0x000A]Reception Room”
+msg_t009r0101_kanban_02=“Cinnabar Lab:[0x000A]Research Lab”
+msg_t009r0101_kanban_03=“Cinnabar Lab:[0x000A]Experimental Lab”

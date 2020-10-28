@@ -1,0 +1,15 @@
+msg_main0810_musashi_01={0xFF00,0x0009}Jessie:{0xFF00,0x0000} Stehengeblieben![0x000A]Team Rocket hat immer Vorfahrt!
+msg_main0810_kojiro_01={0xFF00,0x0009}James:{0xFF00,0x0000} Jetzt, wo das Gespenst verschwunden ist,[0x000A]haben wir es endlich zur Spitze geschafft!
+msg_main0810_musashi_02={0xFF00,0x0009}Jessie:{0xFF00,0x0000} Du bist der alte Fuji, oder?
+msg_main0810_musashi_03=Wir wissen, dass du die Pokémon-Forschung[0x000A]an den Nagel gehängt hast.{0xBE01}[0x000A]Aber damit ist jetzt Schluss, du wirst wieder[0x000A]in den Laborkittel schlüpfen müssen!{0xBE01}[0x000A]Und zwar im Namen von Team Rocket!
+msg_main0810_fuji_01={0xFF00,0x0009}Mr. Fuji: {0xFF00,0x0000}...
+msg_main0810_kojiro_02={0xFF00,0x0009}James:{0xFF00,0x0000} Du wagst es, uns zu ignorieren?{0xBE01}[0x000A]Wir werden dich schon dazu bringen,[0x000A]mit unserem Boss zusammenzuarbeiten.{0xBE01}[0x000A]Wart’s nur ab!
+msg_main0810_musashi_04={0xFF00,0x0009}Jessie:{0xFF00,0x0000} Hey, wir halten dem Alten gerade eine[0x000A]Standpauke!
+msg_main0810_kojiro_03={0xFF00,0x0009}James:{0xFF00,0x0000} Wenn du uns dazwischenfunkst,[0x000A]kannst du was erleben!
+msg_main0810_dummy_01={0xBDFF:0x0008}
+msg_main0810_dummy_02={0xBDFF:0x0009}
+msg_main0810_musashi_05={0xFF00,0x0009}Jessie:{0xFF00,0x0000} Grrr! Nicht schon wieder!!
+msg_main0810_kojiro_05={0xFF00,0x0009}James:{0xFF00,0x0000} Das war’s wohl mit unserem Plan...{0xBE01}[0x000A]Wir wollten doch nur den alten Fuji entführen,[0x000A]um uns Fleißsternchen beim Boss zu verdienen!
+msg_main0810_musashi_06={0xFF00,0x0009}Jessie:{0xFF00,0x0000} Was soll’s! Dann gehen wir eben nach[0x000A]{0xFF00,0x0006}Saffronia City{0xFF00,0x0000} und machen brav bei der{0xBE00}[0x000A]{0xFF00,0x0006}Übernahme der{0xFF00,0x0000} {0xFF00,0x0006}Silph Company{0xFF00,0x0000} mit.
+msg_main0810_kojiro_04={0xFF00,0x0009}Team Rocket:{0xFF00,0x0000} Das war mal wieder ein Schuss[0x000A]in den Ofen!
+msg_main0810_musashi_back={0xFF00,0x0009}Jessie:{0xFF00,0x0000} Du wolltest uns doch nicht etwa mit nur[0x000A]einem Pokémon entgegentreten?{0xBE01}[0x000A]Komm wieder, wenn dein Team mehr hermacht.[0x000A]Zwei Pokémon brauchst du mindestens!

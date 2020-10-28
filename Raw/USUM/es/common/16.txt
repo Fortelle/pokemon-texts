@@ -1,0 +1,158 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+Sol
+El cielo está despejado y brilla el sol.[0x000A]La potencia de los movimientos de tipo Fuego[0x000A]aumenta y la de los de tipo Agua disminuye.
+Lluvia
+Está lloviendo. La potencia de los movimientos[0x000A]de tipo Agua aumenta y la de los de tipo Fuego[0x000A]disminuye.
+Tormenta de arena
+Se ha desatado una tormenta de arena que[0x000A]causa daño en cada turno a todos los Pokémon[0x000A]excepto a los de tipo Roca, Tierra y Acero.[0x000A]Además, la Defensa Especial de los Pokémon[0x000A]de tipo Roca aumenta.
+Granizo
+Está granizando. El granizo daña en cada turno[0x000A]a todos los Pokémon excepto a los de tipo Hielo.
+Campo Eléctrico
+Durante cinco turnos, los Pokémon que estén[0x000A]en el suelo no podrán dormirse. La potencia de[0x000A]los movimientos de tipo Eléctrico aumenta.
+Campo de Hierba
+Durante cinco turnos, los Pokémon que estén[0x000A]en el suelo recuperan algunos PS. La potencia[0x000A]de los movimientos de tipo Planta aumenta.
+Campo de Niebla
+Durante cinco turnos, los Pokémon que están[0x000A]en el suelo no sufren cambios de estado y los[0x000A]movimientos de tipo Dragón causan la mitad del[0x000A]daño normal.
+Espacio Raro
+Durante cinco turnos, los Pokémon más lentos[0x000A]se mueven antes que los más rápidos.
+Zona Mágica
+Durante cinco turnos, los Pokémon no pueden[0x000A]usar los objetos que llevan.
+Zona Extraña
+Durante cinco turnos, se intercambian los[0x000A]valores de Defensa y Defensa Especial de[0x000A]todos los Pokémon.
+Más críticos
+El Pokémon tiene más probabilidades de infligir[0x000A]golpes críticos.
+Confusión
+Durante uno y cuatro turnos, el Pokémon corre[0x000A]el riesgo de herirse a sí mismo.
+Enamoramiento
+El Pokémon corre el riesgo de no poder atacar[0x000A]al Pokémon del sexo opuesto del que está[0x000A]enamorado.
+Pesadilla
+El Pokémon pierde PS en cada turno mientras[0x000A]está dormido.
+Somnoliento
+El Pokémon se dormirá en el siguiente turno.
+Otra Vez
+Durante tres turnos, el Pokémon solo puede[0x000A]usar {0x0107,0x0000}.
+Sin habilidad
+La habilidad del Pokémon ya no tiene efecto.
+Tormento
+El Pokémon no puede utilizar el mismo[0x000A]movimiento dos veces seguidas.
+Viento Afín
+Durante cuatro turnos, se duplica la Velocidad[0x000A]de todos los Pokémon en el terreno de combate.
+Conjuro
+Impide que los golpes que alcancen al Pokémon[0x000A]sean críticos.
+Rabia
+Si el Pokémon se debilita por un movimiento del[0x000A]oponente, los PP de dicho movimiento se[0x000A]quedarán a 0.
+Anticura
+Durante cinco turnos, el Pokémon no puede[0x000A]recuperar PS por efecto de movimientos,[0x000A]habilidades u objetos equipados.
+Profecía
+El Pokémon puede ser alcanzado por ciertos[0x000A]movimientos que habitualmente no le afectan.[0x000A]Se ignoran las mejoras en la Evasión al recibir un[0x000A]ataque.
+Anulación
+Durante cuatro turnos, el Pokémon no puede[0x000A]usar {0x0107,0x0000}.
+Huida imposible
+El Pokémon no puede ni huir ni ser cambiado[0x000A]por otro.
+Blanco fijado
+El próximo movimiento que el Pokémon utilice[0x000A]acertará seguro.
+Embargo
+Durante cinco turnos, el Pokémon no puede usar[0x000A]el objeto que lleva. Su Entrenador tampoco[0x000A]puede usar objetos con él.
+Carga
+Si el Pokémon utiliza un movimiento de tipo[0x000A]Eléctrico en el turno siguiente, este tendrá el[0x000A]doble de potencia.
+Gravedad
+La evasión disminuye durante cinco turnos. Los[0x000A]de tipo Volador o con la habilidad Levitación[0x000A]pueden ser alcanzados por movimientos de tipo[0x000A]Tierra. No se pueden usar movimientos en los[0x000A]que el Pokémon se alce en el aire.
+Neblina
+Durante cinco turnos, las características del[0x000A]Pokémon no pueden ser reducidas por otros.
+Velo Sagrado
+Durante cinco turnos, el Pokémon no puede[0x000A]sufrir cambios de estado.
+Trampa Rocas
+Inflige daño a los Pokémon que salen al terreno[0x000A]de combate.
+Reserva
+La Defensa y la Defensa Especial del Pokémon[0x000A]aumentan en cada turno que esté usando[0x000A]Reserva.
+Mofa
+El Pokémon solo puede usar movimientos que[0x000A]causen daño.
+Telequinesis
+Durante tres turnos, el Pokémon levita en el[0x000A]aire y será blanco de todos los movimientos,[0x000A]a excepción de los fulminantes. Sin embargo, no[0x000A]podrá ser alcanzado por movimientos de tipo[0x000A]Tierra.
+Levitón
+Durante cinco turnos, el Pokémon no puede ser[0x000A]alcanzado por movimientos de tipo Tierra.
+Púas Tóxicas
+Envenena a los Pokémon que salen al terreno de[0x000A]combate. No afecta a los Pokémon de tipo[0x000A]Volador o con la habilidad Levitación.
+Chapoteo Lodo
+Durante cinco turnos, la potencia de los[0x000A]movimientos de tipo Eléctrico se reduce a la[0x000A]mitad.
+Deseo
+Se recuperarán PS en el turno siguiente tras[0x000A]haber utilizado Deseo.
+Red Viscosa
+Cuando un Pokémon es cambiado por otro, la[0x000A]Velocidad del que acaba de salir al terreno de[0x000A]combate disminuye.
+Arraigo
+El Pokémon recupera PS al final de cada turno,[0x000A]pero no puede ser cambiado por otro.
+Maldición
+El Pokémon pierde PS al final de cada turno.
+Halloween
+El Pokémon adquiere el tipo Fantasma además[0x000A]de conservar sus propios tipos.
+Pantalla de Luz
+Durante cinco turnos, la potencia de los ataques[0x000A]especiales recibidos se reduce a la mitad.
+Reflejo
+Durante cinco turnos, la potencia de los ataques[0x000A]físicos se reduce a la mitad.
+Cerca
+Ningún Pokémon rival puede utilizar los[0x000A]movimientos que conoce el usuario de Cerca.
+Canto Mortal
+Todos los Pokémon que han escuchado Canto[0x000A]Mortal se debilitan al cabo de tres turnos.
+Púas
+Causa daño a los Pokémon que salen al terreno[0x000A]de combate. No afecta a los Pokémon de tipo[0x000A]Volador o con la habilidad Levitación.
+Hidrochorro
+Durante cinco turnos, la potencia de los[0x000A]movimientos de tipo Fuego se reduce a la mitad.
+Mismo Destino
+Si el Pokémon se debilita por un ataque del[0x000A]oponente, este también se debilitará.
+Condena Silvana
+El Pokémon adquiere el tipo Planta además de[0x000A]conservar sus propios tipos.
+Drenadoras
+Al final de cada turno, las drenadoras absorben[0x000A]PS del Pokémon y los restauran al oponente.
+Blanco fijado
+Los movimientos del oponente alcanzarán[0x000A]seguro al Pokémon sobre el que ha fijado el[0x000A]blanco.
+Atadura
+El Pokémon sufre daño en cada turno.
+Venganza
+Durante dos turnos, el Pokémon encaja los[0x000A]ataques del oponente para luego devolverle el[0x000A]doble del daño recibido.
+Enfado
+El Pokémon ataca enfurecido durante dos o[0x000A]tres turnos y después se queda confuso.
+Golpe
+El Pokémon ataca enfurecido durante dos o[0x000A]tres turnos y después se queda confuso.
+Danza Pétalo
+El Pokémon ataca enfurecido durante dos o[0x000A]tres turnos y después se queda confuso.
+Grav. Envenenado
+El Pokémon está gravemente envenenado.[0x000A]El daño recibido por el veneno aumenta en cada[0x000A]turno.
+Ataque futuro
+El Pokémon está predestinado a recibir daño[0x000A]pasados dos turnos.
+Alboroto
+El Pokémon ataca alborotado durante tres[0x000A]turnos y no deja dormir a otros Pokémon.
+Acua Aro
+El Pokémon está rodeado por un velo de agua[0x000A]que restaura PS en cada turno.
+Aligerar
+El Pokémon reduce su peso, lo que aumenta[0x000A]mucho su Velocidad.
+Antiaéreo
+El Pokémon ha sido derribado mientras estaba[0x000A]en el aire y ha caído al suelo.
+Cerrojo Feérico
+Ningún Pokémon puede huir o ser cambiado en[0x000A]el siguiente turno.
+Arcoíris
+Aumenta las probabilidades de que los[0x000A]movimientos causen su efecto adicional.
+Pantano
+La Velocidad se reduce a un cuarto.
+Mar de llamas
+Todos los Pokémon, salvo los de tipo Fuego,[0x000A]reciben daño en cada turno.
+Sol abrasador
+Hace un calor abrasador. La potencia de los[0x000A]movimientos de tipo Fuego aumenta y se anulan[0x000A]los movimientos de tipo Agua.
+Diluvio
+Está diluviando. La potencia de los movimientos[0x000A]de tipo Agua aumenta y se anulan los[0x000A]movimientos de tipo Fuego.
+Turbulencias
+Se han desatado unas misteriosas turbulencias.[0x000A]Los Pokémon de tipo Volador resisten mejor los[0x000A]movimientos supereficaces.
+Campo Psíquico
+Durante cinco turnos, los Pokémon en el suelo[0x000A]no pueden ser alcanzados por los movimientos[0x000A]con prioridad. La potencia de los movimientos[0x000A]de tipo Psíquico aumenta.
+Golpe Mordaza
+El Pokémon no puede utilizar movimientos[0x000A]sonoros durante dos turnos.
+Velo Aurora
+Durante cinco turnos, la potencia de los ataques[0x000A]físicos y especiales se reduce a la mitad.
+Aguzar
+El movimiento que se emplee en el turno[0x000A]siguiente tras haber utilizado Aguzar será un[0x000A]golpe crítico.
+{0xBDFF:0x0098}
+{0xBDFF:0x0099}
+{0xBDFF:0x009A}
+{0xBDFF:0x009B}
+{0xBDFF:0x009C}
+{0xBDFF:0x009D}

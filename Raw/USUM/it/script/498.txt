@@ -1,0 +1,30 @@
+Io sono... Ecco... io...[0x000A]Ops... Non me lo ricordo più...!{0xBE01}[0x000A]...[0x000A]... ...{0xBE01}[0x000A]Ah, aspetta! Ora mi ricordo![0x000A]Sì! Sono il Cancellamosse!
+Sei qui per far dimenticare delle mosse ai tuoi[0x000A]Pokémon?
+Scegli un Pokémon.
+Ricordati di me quando vuoi far dimenticare[0x000A]una mossa a un tuo Pokémon!
+Il tuo Pokémon conosce solo una mossa.[0x000A]Non puoi fargliela dimenticare!
+Ma... È un Uovo...! Questo Pokémon non è ancora[0x000A]nato, come può avere mosse da dimenticare...?
+Va bene... E poi cosa devo dire...?[0x000A]Ah, sì! Quale mossa vuoi fargli dimenticare?
+Ha funzionato tutto a meraviglia!{0xBE01}[0x000A]Il tuo Pokémon ha completamente[0x000A]dimenticato {0x0107,0x0000}!
+Io sono Memorina. Conosco tutte le mosse[0x000A]che i Pokémon imparano crescendo.{0xBE01}[0x000A]E posso far ricordare loro quelle che hanno[0x000A]dimenticato!{0xBE01}[0x000A]In cambio, ti chiedo solo una Squama Cuore.
+Vuoi far ricordare una mossa a un tuo Pokémon?
+Se vuoi far ricordare una mossa a un Pokémon,[0x000A]portami {0x1502,0x0000}{0x0109,0x0000}!
+Scegli un Pokémon.
+Ma... Quello è un Uovo!
+Anche con le migliori intenzioni, non potrebbe[0x000A]ricordare alcuna mossa...
+Quale mossa vuoi che ricordi?
+In cambio le dai {0x1500,0x0000}{0x0109,0x0000}!
+Ecco fatto, mossa ricordata![0x000A]Torna pure quando vuoi!
+Vuoi che insegni la mossa Locomovolt[0x000A]a Pikachu?
+Se mi porti un Pikachu, gli insegnerò la mossa[0x000A]Locomovolt!
+Il Pikacium Z trasformerà la mossa Locomovolt[0x000A]di Pikachu in una mossa Z!
+A quale Pikachu vuoi che insegni la mossa?
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+Con il Potere Z, Pikachu farà letteralmente[0x000A]scintille!
+Scegli una mossa da sostituire[0x000A]con {0x0107,0x0000}.
+{0x0102,0x0000} impara[0x000A]{0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+Uno,{0xBE02:0x0014} due{0xBE02:0x0014} e{0xBE02:0x0014}...{0xBE02:0x0014} ta-daaaa!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} dimentica[0x000A]{0x0107,0x0001}!{0xBE01}[0x000A]Al suo posto...{0xBE01}[0x000A]{0x0102,0x0000} impara[0x000A]{0x0107,0x0002}!{0xBE05,0x0004}{0xBE05,0x0001}
+{0x0102,0x0000} non ha imparato[0x000A]{0x0107,0x0001}!

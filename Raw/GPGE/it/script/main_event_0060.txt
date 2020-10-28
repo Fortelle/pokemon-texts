@@ -1,0 +1,9 @@
+msg_main0060_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Aspetta!
+msg_main0060_rival_04={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} {0x0100,0x0000}![0x000A]Un {0xFF00,0x0006}Allenatore{0xFF00,0x0000} non deve preoccuparsi solamente{0xBE00}[0x000A]di catturare nuovi Pokémon!{0xBE01}[0x000A]Non ti sarai mica dimenticat{0x1100,0x00FF,0x0101}oa delle {0xFF00,0x0006}lotte{0xFF00,0x0000}[0x000A]tra Allenatori!{0xBE01}[0x000A]Ti faccio vedere di che si tratta!
+msg_main0060_rival_05=Lottiamo!
+msg_main0060_8rom_01={0xBDFF:0x0003}
+msg_main0060_rival_02={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Oh no, che figuraccia![0x000A]Se avessi saputo che mi avresti battuto così{0xBE00}[0x000A]non mi sarei dato tutte quelle arie da esperto!{0xBE01}[0x000A]Forse avrei dovuto allenare un po’ il mio[0x000A]Pokémon prima di lottare, eh?
+msg_main0060_rival_06={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Evvai, ho vinto! Ce l’ho fatta![0x000A]Ah... Ma non preoccuparti! Può capitare a tutti{0xBE00}[0x000A]di perdere!
+msg_main0060_rival_03=La prossima volta voglio la rivincita, intesi?
+msg_main0060_doctor_01={0xFF00,0x0009}Prof. Oak:{0xFF00,0x0000} Allora, {0x0100,0x0000}?[0x000A]Che te ne pare delle lotte Pokémon?{0xBE01}[0x000A]Il tuo piccolo compagno {0x0101,0x0002}[0x000A]ha davvero dato il meglio di sé!
+msg_main0060_doctor_02={0xFF00,0x0009}Prof. Oak:{0xFF00,0x0000} Lotta con tanti Allenatori diversi[0x000A]e allena i tuoi Pokémon al meglio che puoi!{0xBE01}[0x000A]E non dimenticarti di catturare tanti Pokémon[0x000A]nuovi, mi raccomando!

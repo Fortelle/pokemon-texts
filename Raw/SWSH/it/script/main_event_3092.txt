@@ -1,0 +1,11 @@
+main_event_3092_system_01=Bip bip bip bip bip...
+main_event_3092_rival_01=Uh? {0x0100,0x0000}, lo Smart Rotom[0x000A]sta suonando o sbaglio?{0x0114,0x0005}
+main_event_3092_doctor_01={0x0100,0x0000}, abbiamo un problema![0x000A]Quei due tizi strani sono al laboratorio!{0x0114,0x000B}
+main_event_3092_rival_02=Cosa?! Stai bene tu?!{0x0114,0x0005}
+main_event_3092_doctor_02=Per adesso stanno solo cercando di spingermi[0x000A]a dargli le Desiostelle.{0xBE01}[0x000A]Presto, venite! Le cose potrebbero mettersi male!{0x0114,0x000B}
+main_event_3092_system_02=Bip!
+main_event_3092_aku_01=Che vorranno fare con le Desiostelle quei due?{0x0114,0x0016}
+main_event_3092_rival_03=Presto! Dobbiamo andare ad aiutare Sonia[0x000A]e recuperare {0x1500,0x0001,0x0000}{0x0109,0x0001}!{0x0114,0x0005}
+main_event_3092_rival_04={0x0100,0x0000}, corriamo al Laboratorio[0x000A]Pokémon!{0x0114,0x0005}
+main_event_3092_aku_02=Quel ragazzo... Mai una volta che riflettesse[0x000A]prima di agire!{0xBE01}[0x000A]È tutto coraggio e niente strategia!{0x0114,0x0016}
+main_event_3092_aku_03=Allora si va al Laboratorio Pokémon? Oramai ci[0x000A]sono dentro. Suppongo che dovrò finire l’opera...{0x0114,0x0016}

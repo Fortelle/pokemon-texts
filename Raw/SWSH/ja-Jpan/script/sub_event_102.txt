@@ -1,0 +1,12 @@
+msg_sub_event_102_start=自動販売機が　ある！[0x000A]ほしい　飲み物は……
+msg_sub_event_102_menu_item={0x0109,0x0000}{0xBD03,0x0000}　{0x0202,0x0001}円
+msg_sub_event_102_menu_cancel=やめる
+msg_sub_event_102_cancel=……やっぱり　やめた！
+msg_sub_event_102_not_have=これ以上　持ちきれない！
+msg_sub_event_102_not_money=お金が　足りない！
+msg_sub_event_102_appear_item={0x0109,0x0000}が　でてきた！
+msg_sub_event_102_next=もう一本　買う？
+msg_sub_event_102_bingo=当たりだ！　もう一本[0x000A]{0x0109,0x0000}が　でてきた！
+msg_sub_event_102_soldout=自動販売機が　ある！[0x000A]ほしい　飲み物は……{0xBE00}[0x000A]すべて　売り切れだ！
+msg_sub_event_102_select_01=もう一本　買う
+msg_sub_event_102_select_02=別のものを　買う

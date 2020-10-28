@@ -1,0 +1,7 @@
+msg_t011r0401_stafff_01=¡Hola!{0xBE01}[0x000A]¿El presidente? Ahora mismo está en la sala del[0x000A]consejo, en la décima planta.
+msg_t011r0401_kanban_01=Oficina Central de Silph S. A.[0x000A]PB
+msg_t011r0401_staffm_01=¡Dicen que ha sido un{0x1100,0x00FF,0x0908} niño ela niña la que le ha parado[0x000A]los pies al Team Rocket!{0xBE01}[0x000A]Hmm... No serás tú, ¿no?{0xBE01}[0x000A]Nah, eso es imposible.
+msg_t011r0401_staffm_02=La tecnología es increíblemente útil, pero si cae[0x000A]en las manos equivocadas, puede ser un arma{0xBE00}[0x000A]terrible...{0xBE01}[0x000A]Se me ponen los pelos de punta solo de pensar[0x000A]en los usos que el Team Rocket podría darles a{0xBE00}[0x000A]los inventos de Silph S. A.
+msg_t011r0401_staffm_03=Me escaqueo un día del curro y cuando vuelvo[0x000A]me encuentro este panorama... Si es que no{0xBE00}[0x000A]puedo dejarlos solos.
+msg_t011r0401_stafff_02=Pues nada, se acabó el descanso. Toca volver[0x000A]al curro...
+msg_t011r0401_stafff_03=Me pregunto si esto que ha pasado con el Team[0x000A]Rocket contará como accidente laboral...{0xBE01}[0x000A]O por lo menos que me den días libres por el[0x000A]disgusto.

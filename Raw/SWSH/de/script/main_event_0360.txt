@@ -1,0 +1,14 @@
+main_event_0360_rival_01=Entschuldigung, Sie sind doch der[0x000A]Bahnhofsvorsteher, oder?{0xBE01}[0x000A]Wir wollten eigentlich nach Engine City... Warum[0x000A]halten wir jetzt am Naturzonen-Bahnhof?{0x0114,0x0005}
+main_event_0360_stationmaster_01=Tut mir leid, Junge. Eine Herde Wolly blockiert[0x000A]gerade die Gleise. Hier ist also leider erst mal{0xBE00}[0x000A]Endstation.
+main_event_0360_rival_02=Verstehe! Glück im Unglück, würde ich sagen.{0x0114,0x0005}
+main_event_0360_select_01=Glück im Unglück?
+main_event_0360_select_02=Wie meinst du das?
+main_event_0360_rival_03=Na, die Naturzone ist riesengroß! Da kann man[0x000A]die unterschiedlichsten Pokémon fangen.{0xBE01}[0x000A]Du weißt, was das heißt, oder, {0x0100,0x0000}?{0xBE01}[0x000A]Genau! Wenn man sich irgendwo das allerbeste[0x000A]Team der Welt zusammenstellen kann, dann hier!{0x0114,0x0005}
+main_event_0360_stationmaster_02=Ihr könnt jederzeit nach Brassbury zurück, wenn[0x000A]ihr wollt. Aber die Strecke nach Engine City{0xBE00}[0x000A]bleibt wohl bis auf Weiteres gesperrt.{0xBE01}[0x000A]Wir können die armen Pokémon schließlich nicht[0x000A]einfach so gegen ihren Willen verscheuchen!
+main_event_0360_assistant_01={0xBDFF:0x0007}
+main_event_0360_rival_05={0xBDFF:0x0008}
+main_event_0360_rival_06={0xBDFF:0x0009}
+main_event_0360_assistant_02={0xBDFF:0x000A}
+main_event_0360_assistant_03={0xBDFF:0x000B}
+main_event_0360_rival_04={0xBDFF:0x000C}
+main_event_0360_assistant_04={0xBDFF:0x000D}

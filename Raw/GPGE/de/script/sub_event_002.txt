@@ -1,0 +1,7 @@
+msg_sub002_middlem_01=He, Jungchen! Möchtest du ein unschlagbares[0x000A]Geschäft machen?{0xBE01}[0x000A]Ich verkaufe dir das supergeheime Pokémon[0x000A]Karpador für läppische 500 [0xE300]!{0xBE01}[0x000A]Bei dem Angebot schlägst du doch sofort zu,[0x000A]nicht wahr?
+msg_sub002_middlem_02=He, Mädchen! Möchtest du ein unschlagbares[0x000A]Geschäft machen?{0xBE01}[0x000A]Ich verkaufe dir das supergeheime Pokémon[0x000A]Karpador für läppische 500 [0xE300]!{0xBE01}[0x000A]Bei dem Angebot schlägst du doch sofort zu,[0x000A]nicht wahr?
+msg_sub002_sys_01=Du bezahlst den Wucherpreis von 500 [0xE300][0x000A]für ein Karpador!
+msg_sub002_middlem_03=Nein? Wie schade...[0x000A]Für dich, meine ich.
+msg_middlem1_01_p04_r004_r0101={0xBDFF:0x0004}
+msg_sub002_middlem_04=Schade, du hast nicht genug Geld!
+msg_sub002_middlem_05=Pokémon sind selbstverständlich vom Umtausch[0x000A]ausgeschlossen!

@@ -1,0 +1,12 @@
+msg_t003r0101_oldm_01_01=¡Menuda suerte! ¡Nunca pensé que algún día[0x000A]llegaría a ver huesos de dragón!
+msg_t003r0101_scientist_02_01=Tenemos varios fósiles de Pokémon prehistóricos[0x000A]muy raros.
+msg_t003r0101_tenji_01_01=Es un precioso bloque de ámbar color dorado[0x000A]traslúcido.
+msg_t003r0101_tenji_02_01=Fósil de Aerodactyl[0x000A]Un Pokémon prehistórico muy poco común.
+msg_t003r0101_tenji_03_01=Fósil de Kabutops[0x000A]Un Pokémon prehistórico muy poco común.
+msg_t003r0101_tenji_04_01=¡Es un Pokémon prehistórico![0x000A]O una réplica, para ser más precisos.
+msg_t003r0101_tenji_05_01=Selección de fósiles descubiertos en el Monte[0x000A]Moon.
+msg_studym1_03_p01_t003_r0101={0xBDFF:0x0007}
+msg_studym1_03_p02_t003_r0101={0xBDFF:0x0008}
+msg_studym1_03_p03_t003_r0101={0xBDFF:0x0009}
+msg_studym1_03_p04_t003_r0101={0xBDFF:0x000A}
+msg_t003r0101_scientist_03_01=Los secretos del espacio, los misterios de la[0x000A]tierra...{0xBE01}[0x000A]Hay tantas cosas de las que sabemos tan poco...{0xBE01}[0x000A]Pero eso debería incentivarnos a investigar aún[0x000A]más y a no tirar la toalla.

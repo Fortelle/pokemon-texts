@@ -1,0 +1,8 @@
+Photo Shoot
+Take Photo
+Y Button:[0x000A]  Zoom in / Zoom out[0x000A][0x000A]L Button / Right Button:[0x000A]  Rotate left / Rotate right[0x000A][0x000A]Up/Down:[0x000A]　Move camera up or down while zoomed in
+Y Button / X Button:[0x000A]  Zoom in / Zoom out[0x000A][0x000A]L Button / R Button:[0x000A]  Rotate left / Rotate right[0x000A][0x000A]Up/Down/Left/Right:[0x000A]  Move camera around
+Would you like to save the photo you took?
+Yes
+No
+The photo has been saved!

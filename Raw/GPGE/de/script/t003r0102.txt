@@ -1,0 +1,14 @@
+msg_t003r0102_scientist_01_01=In der Ausstellung für diesen Monat dreht sich[0x000A]alles um das Thema Raumfahrt.
+msg_t003r0102_juvenilem_01_01=Ein Mondstein...{0xBE01}[0x000A]Ich frage mich, was daran so besonders sein soll.[0x000A]Sieht aus wie ein gewöhnlicher Stein.
+msg_t003r0102_oldm_01_01=Damals setzte der erste Mensch seinen Fuß auf[0x000A]den Mond.{0xBE01}[0x000A]Und nun, viele Jahrzehnte später, steht als[0x000A]nächstes Ziel der weiter entfernte rote Planet an.{0xBE01}[0x000A]Hach ja, ich freu mich jedes Mal wie ein kleines[0x000A]Kind, wenn es Neues zum Thema Weltraum gibt!
+msg_t003r0102_juveniles_01_01=Ich hätte gerne ein {0x0101,0x0002}![0x000A]Es ist so furchtbar süß!{0xBE01}[0x000A]Fängst du mir eins, Papa? Biiiiitte!
+msg_t003r0102_fat_01_01=Ja, ja, ein {0x0101,0x0002}...[0x000A]Ich besorge dir eins, versprochen!
+msg_t003r0102_fat_01_02=Dein {0x0101,0x0002} scheint ja nicht besonders[0x000A]an dir zu hängen.{0xBE01}[0x000A]Eigentlich könntest du es doch meiner Tochter[0x000A]überlassen!
+msg_t003r0102_fat_01_03=Ein {0x0101,0x0002} wie deins wäre perfekt[0x000A]für meine Tochter, aber so gut wie ihr euch{0xBE00}[0x000A]versteht, kannst du es unmöglich tauschen...
+msg_t003r0102_tenji_01=Raumfähre
+msg_t003r0102_tenji_02=Meteorit vom Mondberg[0x000A]Es handelt sich vermutlich um einen Mondstein.
+msg_t003r0102_tenji_03=Dreidimensionales Hologramm[0x000A]Es trägt den Namen „Weltraumkarte“.
+msg_t003r0102_tenji_04=Meteoritenstücke
+msg_t003r0102_tenji_05=Die Entstehung des Weltalls
+msg_t003r0102_bg_01=Beginn des Rundgangs
+msg_t003r0102_bg_02=Du linst durch das Mikroskop...{0xBE01}[0x000A]Was für schöne Kristalle!

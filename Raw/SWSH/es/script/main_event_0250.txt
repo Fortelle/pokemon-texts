@@ -1,0 +1,14 @@
+main_event_0250_rival_06=¡Eh, {0x0100,0x0000}!{0x0114,0x0005}
+main_event_0250_rival_01=Ahora caigo en que nadie te ha enseñado[0x000A]todavía a capturar Pokémon...{0x0114,0x0005}
+main_event_0250_champion_01=¡Para eso estoy yo aquí![0x000A]Si quieres completar la Pokédex, es fundamental{0xBE00}[0x000A]que sepas atrapar Pokémon.{0x0114,0x0004}
+main_event_0250_rival_02=¡¿Lionel?!{0x0114,0x0005}
+main_event_0250_champion_05=¡Pero bueno, {0x0100,0x0000}![0x000A]¡Si ya te las has arreglado para atrapar alguno!{0xBE01}[0x000A]¿Dices que has usado las Poké Balls que te dio[0x000A]tu madre?{0xBE01}[0x000A]Eres muy espabilad{0x1100,0x00FF,0x0101}oa, ¿eh?{0x0114,0x0004}
+main_event_0250_champion_02=Como sabes, cada Pokémon tiene uno o dos[0x000A]tipos, con sus puntos fuertes y débiles.{0xBE01}[0x000A]Por eso es importante que en tu equipo haya[0x000A]variedad. Para compensar y que puedan cubrirse{0xBE00}[0x000A]entre sí en el terreno de combate.{0xBE01}[0x000A]En realidad es muy sencillo, ya verás.[0x000A]¡Presta atención y aprende del Campeón!{0x0114,0x0004}
+main_event_0250_capturedemo_01={0xBDFF:0x0006}
+main_event_0250_capturedemo_02={0xBDFF:0x0007}
+main_event_0250_capturedemo_03={0xBDFF:0x0008}
+main_event_0250_rival_03=¡Qué pasada, Lionel!{0x0114,0x0005}
+main_event_0250_champion_03=Toma, unas cuantas Poké Balls para que captures[0x000A]un montón de Pokémon.{0xBE01}[0x000A]¡Por aquí seguro que hay cantidad deseando[0x000A]hacerse amigos de algún Entrenador!{0x0114,0x0004}
+main_event_0250_rival_04=¡Y recuerda que tus Pokémon también reciben[0x000A]Puntos de Experiencia cuando capturas Pokémon!{0x0114,0x0005}
+main_event_0250_champion_04=¡Entrena a tu equipo combatiendo contra otros[0x000A]Entrenadores que te encuentres por el camino!{0xBE01}[0x000A]Como Campeón, tengo ganas de ver qué[0x000A]Pokémon elegís cada uno para acompañaros{0xBE00}[0x000A]durante vuestra aventura.{0x0114,0x0004}
+main_event_0250_rival_05=Tú tranqui, ¡voy a atrapar tantos Pokémon que[0x000A]la profesora se va a quedar con la boca abierta!{0xBE01}[0x000A]¡Ya verás!{0x0114,0x0005}

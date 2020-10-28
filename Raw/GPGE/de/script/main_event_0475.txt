@@ -1,0 +1,14 @@
+msg_main0475_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Hey, {0x0100,0x0000}!
+msg_main0475_rival_02=Hast du dir auch die Geheime Technik von[0x000A]Professor Eichs Assistenten beibringen lassen?
+msg_main0475_rival_03=Hä, was? Er hat sie {0x0102,0x0003} an deiner[0x000A]Stelle beigebracht?{0xBE01}[0x000A]Dein Partner zeigt also wie gewohnt allen, wo[0x000A]der Hammer hängt! Echt cool.
+msg_main0475_rival_10=Oh, weißt du was? Ich glaube, ich kenne einen[0x000A]Ort, wo ihr die Technik ausprobieren könnt!{0xBE01}[0x000A]Wie wär’s, soll ich dich hinbringen?
+msg_main0475_select_01=Ja, worauf warten wir noch?
+msg_main0475_select_02=Nein, ich gehe lieber alleine.
+msg_main0475_rival_04=Na dann! Ich bring dich sofort hin.[0x000A]Los geht’s!
+msg_main0475_rival_05=Wir sind jetzt in Azuria City. Von hier aus geht es[0x000A]weiter in Richtung Osten...
+msg_main0475_rival_06=Hier entlang!{0xBE01}[0x000A]Lauf einfach immer weiter, bis du den[0x000A]sogenannten {0xFF00,0x0006}Felstunnel{0xFF00,0x0000} erreichst.{0xBE01}[0x000A]Da drin ist es stockdunkel, sag ich dir!
+msg_main0475_rival_07=Im Inneren des Felstunnels hilft dir die[0x000A]Geheime Technik Lichtflut bestimmt weiter.{0xBE01}[0x000A]Also dann! Ich mach mich mal aus dem Staub.
+msg_main0475_rival_08=Oh... Ach so, okay.{0xBE01}[0x000A]Und du kommst ganz sicher alleine zurecht?
+msg_main0475_select_03=Ja, ich bin lieber alleine unterwegs.
+msg_main0475_select_04=Ach, lass uns doch zusammen hingehen.
+msg_main0475_rival_09=Alles klar! Dann erkläre ich dir besser den Weg...{0xBE01}[0x000A]Geh einfach von {0xFF00,0x0006}Azuria City{0xFF00,0x0000} aus nach Osten,[0x000A]dann solltest du nach einer Weile den{0xBE00}[0x000A]sogenannten {0xFF00,0x0006}Felstunnel{0xFF00,0x0000} erreichen.{0xBE01}[0x000A]Da drin ist es stockdunkel, sag ich dir!{0xBE01}[0x000A]Also dann! Ich mach mich aus dem Staub.

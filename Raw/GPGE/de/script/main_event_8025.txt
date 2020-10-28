@@ -1,0 +1,8 @@
+msg_main8025_gym_01=Howdy, zukünftiger Champ![0x000A]Wie geht’s, wie steht’s?
+msg_main8025_gym_02=Hier geht’s zur Arena von Orania City.
+msg_main8025_gym_05=Aber um sie zu erreichen, musst du irgendwie[0x000A]diesen {0xFF00,0x0006}Strauch zerschneiden{0xFF00,0x0000}.
+msg_main8025_gym_06=Du siehst so aus, als hättest du keinen blassen[0x000A]Schimmer, wie du das anstellen sollst.{0xBE01}[0x000A]Hm, wenn ich mich recht erinnere, ist der[0x000A]Kapitän der MS Anne ein Profi im Stutzen{0xBE00}[0x000A]von Sträuchern. Vielleicht kann er dir ja helfen?
+msg_main8025_gym_03=Hier geht’s zur Arena von Orania City.
+msg_main8025_gym_07=Aber um sie zu erreichen, musst du irgendwie[0x000A]diesen {0xFF00,0x0006}Strauch zerschneiden{0xFF00,0x0000}.
+msg_main8025_gym_08=Für dich und {0x0101,0x0002} sollte das[0x000A]natürlich kein Problem darstellen.{0xBE01}[0x000A]Probier’s am besten gleich mal aus!
+msg_main8025_gym_04=Fabelhaft! Dein Partner hat den {0xFF00,0x0006}Strauch mit{0xFF00,0x0000}[0x000A]{0xFF00,0x0006}einem Streich entfernt{0xFF00,0x0000}.{0xBE01}[0x000A]Der Weg zur Arena steht euch nun offen und du[0x000A]darfst dich offiziell an ihr versuchen.{0xBE05,0x0004}{0xBE05,0x0001}{0xBE01}[0x000A]Ich werde drinnen auf dich warten!

@@ -1,0 +1,9 @@
+msg_deoxys_01=Deoxys is reacting to the meteorite...{0xBE01}[0x000A]Would you like to bring the Deoxys in your party[0x000A]closer to the meteorite?
+msg_deoxys_02=Which Deoxys would you like to bring closer to[0x000A]the meteorite?
+msg_deoxys_03=The Pokémon is not reacting to the meteorite.
+msg_deoxys_04=The Egg is not reacting to the meteorite.
+msg_deoxys_05={0x0102,0x0000} has changed to have[0x000A]balanced stats!
+msg_deoxys_06={0x0102,0x0000} has changed to have[0x000A]superior stats for attacking!
+msg_deoxys_07={0x0102,0x0000} has changed to have[0x000A]superior stats when defending!
+msg_deoxys_08={0x0102,0x0000} has changed to have[0x000A]increased Speed!
+msg_deoxys_09=It’s a meteor that fell from space...

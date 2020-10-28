@@ -1,0 +1,8 @@
+msg_rankmatch_01=Let me explain really nicely how to take part in[0x000A]Ranked Battles!{0xBE01}[0x000A]And I’ll fix you up so your Pokémon can take part[0x000A]in Ranked Battles now, too.
+msg_rankmatch_02=Do you have Pokémon you’d like to enter[0x000A]in a Ranked Battle?
+msg_rankmatch_03=See you around, then!
+msg_rankmatch_04=Which Pokémon would you like to enter in a[0x000A]Ranked Battle?
+msg_rankmatch_05=The {0x0101,0x0000} you chose can take part[0x000A]in this Ranked Battle, all right!
+msg_rankmatch_06=So, we’ll be having {0x0101,0x0000} forget the[0x000A]moves that it knew before in order to learn the{0xBE00}[0x000A]moves for this Ranked Battle. That fine by you?
+msg_rankmatch_07=It might forget some really rare moves that’ll be[0x000A]impossible for it to relearn. That’s all right, too?
+msg_rankmatch_08=Then let’s get {0x0101,0x0000} all sorted![0x000A]It’ll be entered into the Ranked Battle at once!

@@ -1,0 +1,8 @@
+msg_d0201_npc1_01=Ehilà! Io e mia sorella abbiamo messo su[0x000A]un Centro Pokémon ambulante!{0xBE01}[0x000A]La Miniera di Galar può essere un posto[0x000A]insidioso... Ma niente paura!{0xBE01}[0x000A]Ci penseremo noi a rimettere in sesto[0x000A]la tua squadra!
+msg_d0201_npc1_02=Adesso sai dove trovarmi, se hai bisogno di me.[0x000A]Ti aspetto!
+msg_d0201_npc1_03=Benvenut{0x1100,0x00FF,0x0101}oa al mio Centro Pokémon ambulante![0x000A]Vuoi che rimetta in sesto la tua squadra?
+msg_d0201_npc1_04=Ora {0x0101,0x0000} è in perfetta forma!
+msg_d0201_npc1_05=Ora la tua squadra è in perfetta forma!
+msg_d0201_npc2_01=Ciao! Io e mia sorella abbiamo messo su[0x000A]un Centro Pokémon ambulante!{0xBE01}[0x000A]Non è stato facile arrivare fin qui, eh?[0x000A]La tua squadra si merita un po’ di riposo!
+msg_d0201_npc2_02=Dopo la Miniera di Galar c’è il Percorso 4![0x000A]Sei quasi arrivat{0x1100,0x00FF,0x0101}oa a Turffield...{0xBE00}[0x000A]Buona fortuna, Sfidapalestre!
+msg_d0201_npc2_03=Ciao! Io e mia sorella abbiamo messo su[0x000A]un Centro Pokémon ambulante!{0xBE00}[0x000A]Vuoi che rimetta in sesto la tua squadra?

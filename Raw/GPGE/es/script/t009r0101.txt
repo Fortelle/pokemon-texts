@@ -1,0 +1,7 @@
+msg_t009r0101_researcher_01=Aquí estudiamos a los Pokémon.{0xBE01}[0x000A]La gente suele traernos especies poco[0x000A]habituales para analizarlas.
+msg_t009r0101_researcher_02=¿Has venido de visita? ¡Muy bien hecho!
+msg_t009r0101_researcher_03=¡Eh, tú! ¡Está prohibido correr por los pasillos!{0xBE01}[0x000A]...{0xBE01}[0x000A]Siempre he querido decir eso.
+msg_t009r0101_picture_01=Es una foto del fundador del Laboratorio de Isla[0x000A]Canela, el Sr. Fuji.
+msg_t009r0101_kanban_01=Laboratorio de Isla Canela[0x000A]Sala de espera
+msg_t009r0101_kanban_02=Laboratorio de Isla Canela[0x000A]Sala de I+D
+msg_t009r0101_kanban_03=Laboratorio de Isla Canela[0x000A]Sala de pruebas

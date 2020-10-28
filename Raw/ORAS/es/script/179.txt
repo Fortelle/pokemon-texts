@@ -1,0 +1,16 @@
+¡Anda! ¡{0x0100,0x0000}!{0xBE01}[0x000A]Perdona el desorden, es que estoy en medio de una[0x000A]investigación vital y no tengo tiempo para nada...{0xBE01}[0x000A]Qué vergüenza... No le digas a nadie lo desastre que soy.[0x000A]Mira, te daré esto en agradecimiento...
+{0xBDFF:0x0001}
+Son notas de investigación que hablan del contenido de[0x000A]las cajas.{0xBE01}[0x000A]“Cada caja tiene capacidad para 30 Pokémon, por lo que[0x000A]es posible dejar un total de 900 Pokémon en un PC”.{0xBE01}[0x000A]¿Quieres seguir leyendo?
+“Es posible marcar a los Pokémon para facilitar la[0x000A]organización de las cajas, así como modificar el nombre{0xBE00}[0x000A]y los fondos de las mismas”.{0xBE01}[0x000A]¿Quieres seguir leyendo?
+“Por defecto, los Pokémon se envían a la última caja[0x000A]examinada. En caso de estar llena, se enviarán a la{0xBE00}[0x000A]siguiente.{0xBE01}[0x000A]En otras palabras, al examinar una caja, esta se convierte[0x000A]en la caja predeterminada para las transferencias de{0xBE00}[0x000A]Pokémon”.
+{0x0100,0x0000} ha cerrado el cuaderno.
+Alguien ha enviado un correo electrónico al PC...{0xBE01}[0x000A]“¡Hola!{0xBE01}[0x000A]Tu Sistema de Almacenamiento parece mucho mejor que[0x000A]el mío.{0xBE01}[0x000A]Tiene un montón de características que lo hacen más útil[0x000A]y divertido de usar.{0xBE01}[0x000A]Me enorgullece ser parte del equipo que ha desarrollado[0x000A]este sistema.{0xBE01}[0x000A]Espero que tu trabajo mejore aún más los Sistemas de[0x000A]Almacenamiento.{0xBE01}[0x000A]Un abrazo,{0xBE01}[0x000A]Bill”
+El monitor muestra fórmulas muy complejas...
+Hay algo escrito, pero se ve tan mal que no se puede[0x000A]leer...
+Ah, {0x0100,0x0000}.{0xBE01}[0x000A]Imagino que quieres que haga más eficaz la organización[0x000A]de tus cajas, ¿a que sí?
+¿En serio?[0x000A]Pues no acierto a ver tu lógica...
+Ya lo sabía yo.[0x000A]¿Y cómo lo sabía? Muy sencillo.{0xBE01}[0x000A]Porque has venido expresamente a hablar conmigo.[0x000A]Lógica de primero de básica.
+Espera aquí un momento.
+Ya he terminado.{0xBE01}[0x000A]He subido arriba del todo la opción “Mover Pokémon” en[0x000A]el menú de tu PC.{0xBE01}[0x000A]Si quieres revertir los cambios, solo tienes que decírmelo.
+Ah, {0x0100,0x0000}.{0xBE01}[0x000A]¿Quieres revertir los cambios que realicé en el menú de[0x000A]tu PC?
+Ya he terminado.[0x000A]He revertido los cambios realizados en el menú de tu PC.{0xBE01}[0x000A]Si en algún momento quieres que vuelva a poner la[0x000A]opción “Mover Pokémon” en primer lugar, solo tienes que{0xBE00}[0x000A]decírmelo.

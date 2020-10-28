@@ -1,0 +1,4 @@
+msg_r023d0101_spy_01=Ehilà, piccolett{0x1100,0x00FF,0x0101}oa! Che ci fai qui?[0x000A]Sei venut{0x1100,0x00FF,0x0101}oa a sfidare la Lega Pokémon?{0xBE01}[0x000A]Come puoi vedere sono un’affascinante[0x000A]poliziotta nel bel mezzo di un giro di pattuglia...{0xBE00}[0x000A]Ma ho comunque il tempo di fare il tifo per te!
+msg_r023d0101_spy_02=Tu e i{0x1101,0x00FD,0x0505}l tuo tuoi Pokémon siete esausti, vero?[0x000A]Ci penso io a rimettervi in sesto!
+msg_r023d0101_spy_03=Eh eh eh... Ecco fatto! Mi raccomando,[0x000A]mettetecela tutta!
+msg_r023d0101_spy_04=So che puoi farcela, piccolett{0x1100,0x00FF,0x0101}oa! Non darti mai[0x000A]per vint{0x1100,0x00FF,0x0101}oa! Altrimenti... guai a te!

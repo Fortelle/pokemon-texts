@@ -1,0 +1,13 @@
+msg_main0330_pc_02=Auf dem PC läuft ein Programm zur Steuerung[0x000A]des Teleporters.
+msg_main0330_masaki_10=Hey, kannst du dich bitte ’n bisschen beeilen?
+msg_main0330_pc_01=Du setzt das Zellteilungsprogramm des[0x000A]Teleporters in Gang!
+msg_main0330_masaki_01={0xFF00,0x0009}Bill:{0xFF00,0x0000} Puh! Tausend Dank...[0x000A]Du hast echt was gut bei mir.{0xBE01}[0x000A]Hey, was seh’n meine Augen da? Du trägst in[0x000A]deinem Beutel ja ’ne {0xFF00,0x0006}Pokémon-Box{0xFF00,0x0000} mit dir rum!
+msg_main0330_masaki_02={0xFF00,0x0009}Bill:{0xFF00,0x0000} Puh! Tausend Dank...[0x000A]Du hast echt was gut bei mir.{0xBE01}[0x000A]Hey, was seh’n meine Augen da? Du trägst in[0x000A]deinem Beutel ja ’ne {0xFF00,0x0006}Pokémon-Box{0xFF00,0x0000} mit dir rum!
+msg_main0330_masaki_06=Wenn du zu viele Pokémon gefangen hast und[0x000A]deine Pokémon-Box voll is’, kannst du sie{0xBE00}[0x000A]{0xFF00,0x0006}an Professor Eich schicken{0xFF00,0x0000}. Praktisch, was?
+msg_main0330_masaki_07={0xBDFF:0x0006}
+msg_main0330_sys_03={0xBDFF:0x0007}
+msg_main0330_masaki_05=Ach, und noch was! Das hier is’ für dich![0x000A]Als Dankeschön für die Rettung eben.
+msg_main0330_sys_01=Du erhältst {0xFF00,0x0006}Bootstickets{0xFF00,0x0000} von Bill!
+msg_masaki_01_p06_r025_r0101={0xBDFF:0x000A}
+msg_main0330_masaki_03=In Orania City liegt ’n großes Kreuzfahrtschiff[0x000A]vor Anker, die MS Anne.{0xBE01}[0x000A]Ich hab zwar freundlicherweise ’ne Einladung zu[0x000A]’ner Party an Bord gekriegt, aber das is’ nichts{0xBE00}[0x000A]für mich. Zu schnieke für meinen Geschmack!{0xBE01}[0x000A]Das sind mehrere Tickets zum Abreißen, falls du[0x000A]noch jemanden mitbringen willst. Viel Spaß!
+msg_main0330_masaki_04={0xFF00,0x0009}Bill:{0xFF00,0x0000} Wenn du zu viele Pokémon gefangen hast[0x000A]und deine Box voll is’, dann schick einfach ’n{0xBE00}[0x000A]paar an Professor Eich. Merk dir das!

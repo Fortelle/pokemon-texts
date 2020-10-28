@@ -1,0 +1,9 @@
+msg_t007r0105_muscle_01=Come ho scritto fuori, non c’è niente[0x000A]che io non sappia.{0xBE01}[0x000A]So anche che tutto questo mondo in realtà[0x000A]si trova all’interno del tuo Nintendo Switch!{0xBE01}[0x000A]Trovati con i tuoi amici e divertiti a scambiare[0x000A]Pokémon!
+msg_t007r0105_notebook_01=È un opuscolo sulle MT![0x000A]...{0xBE01}[0x000A]In totale le MT sono 60.[0x000A]Silph S.p.A.
+msg_t007r0105_notebook_02=“Come connettersi con altri giocatori”[0x000A]Vuoi leggere?
+msg_t007r0105_notebook_03=Seleziona “Comunicazione” dal menu principale,[0x000A]quindi “Gioca con altri Allenatori”, poi scegli se{0xBE00}[0x000A]connetterti tramite comunicazione locale{0xBE00}[0x000A]o tramite Internet.{0xBE01}[0x000A]Scegli “Scambio in link” o uno dei formati[0x000A]di lotta.{0xBE01}[0x000A]Una volta che entrambi i giocatori avranno[0x000A]scelto lo stesso codice, i software verranno{0xBE00}[0x000A]messi in comunicazione.
+msg_t007r0105_kokuban_01={0xBDFF:0x0004}
+msg_board_01_p02_t007_r0105={0xBDFF:0x0005}
+msg_board_01_p03_t007_r0105={0xBDFF:0x0006}
+msg_board_01_p04_t007_r0105={0xBDFF:0x0007}
+msg_board_01_p05_t007_r0105={0xBDFF:0x0008}

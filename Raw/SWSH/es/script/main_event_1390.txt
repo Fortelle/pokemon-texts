@@ -1,0 +1,9 @@
+main_event_1390_sound_02=¡¡MEEEOOWTH!!
+main_event_1390_champion_01=¡{0x0100,0x0000}!{0xBE01}[0x000A]Te agradezco que hayas venido, pero deja que[0x000A]el Campeón se encargue de esto.{0x0114,0x0004}
+main_event_1390_champion_02=Tú deberías centrar todas tus fuerzas en[0x000A]completar el desafío de los gimnasios.{0x0114,0x0004}
+main_event_1390_champion_03=Ya solamente te falta la medalla que custodia el[0x000A]Líder de Gimnasio de tipo Dragón: Roy.{0xBE01}[0x000A]Para que te hagas una idea de lo fuerte que es,[0x000A]es el único Entrenador de todo Galar al que{0xBE00}[0x000A]considero un rival digno.{0x0114,0x0004}
+main_event_1390_champion_04=¡Ay, que me enrollo! ¡Ya hablamos más tarde![0x000A]¡Lo primero es arreglar este embrollo!{0x0114,0x0004}
+main_event_1390_champion_05=¡No temáis! ¡El Campeón está aquí para proteger[0x000A]vuestro futuro!{0x0114,0x0004}
+main_event_1390_sound_01=¡¡MEEEOOWTH!!
+main_event_1390_champion_06=¡No cabe duda, provenía del túnel!{0xBE01}[0x000A]Tú quédate aquí, que el Campeón irá a echar un[0x000A]vistazo.{0x0114,0x0004}
+main_event_1390_npc_01={0xBDFF:0x0008}

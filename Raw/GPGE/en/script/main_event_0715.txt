@@ -1,0 +1,8 @@
+msg_main0715_rocketm_01=Hahaha! What’s that?[0x000A]You say the elevator doesn’t work?{0xBE01}[0x000A]Course not! I’ve been keeping the Lift Key safe[0x000A]this whole time!
+msg_member_18_02={0xBDFF:0x0001}
+msg_main0715_rocketm_02=Gah! Now how am I supposed to keep you from[0x000A]taking the Lift Key?!{0xBE01}[0x000A]Guess I’ll have to use my own kind of Struggle!
+msg_main0715_rocketm_03=I hope my bosses don’t hear about this!
+msg_main0715_rocketm_04=Hah...hah... Phew!{0xBE01}[0x000A]Without that key, there’s no way you’ll make it[0x000A]to the boss!{0xBE01}[0x000A]If you think you can get it back from up there,[0x000A]then I’d sure like to see you try! Haha!
+msg_main0715_rocketm_05=There’s no way you’re getting that Lift Key now!{0xBE01}[0x000A]Not unless you know some way to walk on top[0x000A]of the walls or something. ...Like that’d happen!
+msg_main0715_rocketm_06=That Pokémon of yours looks pretty nimble,[0x000A]I gotta say...
+msg_main0715_sys_01=You got the {0xFF00,0x0006}Lift Key{0xFF00,0x0000}!

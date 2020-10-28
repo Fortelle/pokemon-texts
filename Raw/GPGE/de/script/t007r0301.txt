@@ -1,0 +1,8 @@
+msg_t007r0301_cook_01=Hey, ein unbekanntes Gesicht!{0xBE01}[0x000A]Die meisten meiner Kunden sind Stammgäste,[0x000A]da tut etwas Abwechslung gut, weißt du?
+msg_t007r0301_middlef_01=Meine Pokémon sind ziemlich schwach, deshalb[0x000A]muss ich im Einkaufscenter immer Medizin für{0xBE00}[0x000A]sie kaufen.
+msg_t007r0301_middlem_01=*Flüster...*{0xBE01}[0x000A]Wusstest du, dass es unter dem Gamer-Paradies[0x000A]noch weitere Räume gibt? *Mampf...*{0xBE01}[0x000A]Hab ich gehört... *Schmatz...*
+msg_t007r0301_fat_01=*Mampf, mampf...*[0x000A]Ich bin scharf auf scharfes Curry!
+msg_middlem1_01_p01_t007_r0501=Urgh...{0xBE01}[0x000A]Ich habe zu viel im Gamer-Paradies gespielt und[0x000A]jetzt zittern meine Hände!{0xBE01}[0x000A]Aber ich kann die Finger nicht davon lassen.[0x000A]Dieses Spiel macht einfach zu viel Spaß!
+msg_middlem1_01_p02_t007_r0501={0xBDFF:0x0005}
+msg_middlem1_01_p03_t007_r0501={0xBDFF:0x0006}
+msg_middlem1_01_p04_t007_r0501={0xBDFF:0x0007}

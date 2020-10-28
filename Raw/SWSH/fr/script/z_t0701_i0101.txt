@@ -1,0 +1,12 @@
+msg_t0701_i0101_poke1_01_pop=Scololo !
+msg_t0701_i0101_npc1_01=Bienvenue chez Bob ! Compte sur moi, tu vas[0x000A]te régaler. Ton palais est entre de bonnes mains !
+msg_t0701_i0101_npc2_01=Elle est classe, cette tapisserie, pas vrai ?[0x000A]Je l’ai dénichée sur un marché d’antiquités !
+msg_t0701_i0101_npc3_01=Si tu manges pas correctement, t’as aucune[0x000A]chance de gagner tes combats !
+msg_t0701_i0101_npc4_01=Les plats ici sont si bons qu’il m’arrive de faire[0x000A]de longs détours rien que pour venir manger !
+msg_t0701_i0101_npc5_01=Y’a rien de tel que parler de boulot[0x000A]pour te couper l’appétit.
+msg_t0701_i0101_npc6_01=Ah, c’est grillé à la perfection ! C’est juteux,[0x000A]tendre sous la dent... Il faut féliciter le chef !
+msg_t0701_i0101_npc7_01=J’aime voir mon fils manger avec plaisir ![0x000A]C’est le plus beau spectacle du monde !
+msg_t0701_i0101_npc8_01=C’est succulent, vraiment.{0xBE01}[0x000A]J’aimerais réussir à imiter la recette[0x000A]pour en faire manger à mon Pokémon.
+msg_t0701_i0101_bg1_01=Une illustration orne cette tapisserie.{0xBE01}[0x000A]Elle représente les deux héros ayant perdu[0x000A]leur épée et leur bouclier...
+msg_t0701_i0101_bg1_02=Il y a une tapisserie au mur.[0x000A]Elle paraît vaguement familière...
+msg_t0701_i0101_bg2_01=C’est le portrait de Bob, le propriétaire ![0x000A]On reconnaît bien là le roi des fourneaux !

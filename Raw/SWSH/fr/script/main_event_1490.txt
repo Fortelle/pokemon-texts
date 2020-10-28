@@ -1,0 +1,13 @@
+main_event_1490_rival_01=Voilà la réception !{0x0114,0x0005}
+main_event_1490_rival_02=Et tu sais quoi ?[0x000A]J’étais le premier à m’inscrire.{0xBE01}[0x000A]Le premier. Tu crois que c’est un signe ?[0x000A]Moi, ouais ! Premier inscrit, premier sur le podium !{0x0114,0x0005}
+main_event_1490_staff_01=Bienvenue, {0x0100,0x0000} !{0xBE01}[0x000A]Nous avons suivi votre performance[0x000A]tout au long du Défi des Arènes.{0xBE01}[0x000A]Permettez-moi un instant de vérifier[0x000A]votre collection de Badges.
+main_event_1490_staff_02={0xBDFF:0x0003}
+main_event_1490_staff_03={0xBDFF:0x0004}
+main_event_1490_staff_04={0xBDFF:0x0005}
+main_event_1490_staff_05={0xBDFF:0x0006}
+main_event_1490_rival_03=Moi, j’ai tout ce qu’il me faut ![0x000A]J’suis prêt à t’affronter !{0x0114,0x0005}
+main_event_1490_rival_04={0xBDFF:0x0008}
+main_event_1490__rival_05=Par contre, je crois que Travis ne sera pas[0x000A]de la partie...{0xBE01}[0x000A]Enfin, ça reste à voir. Quelque chose me dit[0x000A]qu’il a pas dit son dernier mot.{0x0114,0x0005}
+main_event_1490__rival_06=On verra bien.[0x000A]Viens, allons poser nos affaires aux vestiaires !{0x0114,0x0005}
+main_event_1490_sister_01=Ça y est, on a enfin bouclé l’Défi des Arènes.[0x000A]Et on est plus que quatre en lice, pour l’Tournoi{0xBE00}[0x000A]des Médaillés... Mais c’est moi qui vais gagner.{0xBE01}[0x000A]C’est moi qu’affronterai l’Maître.{0x0114,0x000D}
+main_event_1490_poke1_01=Momor !

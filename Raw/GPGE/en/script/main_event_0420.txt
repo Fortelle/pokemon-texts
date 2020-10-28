@@ -1,0 +1,7 @@
+msg_main0420_rival_01={0x01CD,0x0001}: Hey, {0x0100,0x0000}![0x000A]Over here!
+msg_main0420_rival_02=You see those stairs there?[0x000A]The captain’s quarters are up there.{0xBE01}[0x000A]He can teach you this cool {0xFF00,0x0006}Secret Technique{0xFF00,0x0000}[0x000A]if you ask him. He’s really famous for it!
+msg_main0420_rival_06=Though...he looked pretty done in[0x000A]by seasickness when I saw him.
+msg_main0420_rival_03=Hey, before you go to meet him, how about[0x000A]I take a look to see how well you’ve been{0xBE00}[0x000A]raising your Pokémon, huh?
+msg_main0420_dummy_01={0xBDFF:0x0004}
+msg_main0420_rival_04={0x01CD,0x0001}: Wow, {0x0100,0x0000}.[0x000A]You... You’ve gotten pretty strong.
+msg_main0420_rival_05=Oh, uh, nothing! That’s cool!{0xBE01}[0x000A]Anyway, go meet the captain and have him show[0x000A]you his {0xFF00,0x0006}Secret Technique{0xFF00,0x0000}!

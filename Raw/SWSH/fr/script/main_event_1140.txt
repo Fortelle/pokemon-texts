@@ -1,0 +1,17 @@
+main_event_1140_leader_01=Bon, c’est un peu tard pour les présentations,[0x000A]mais enchantée, je suis Sally, la Championne.{0x0114,0x0013}
+main_event_1140_leader_p01=J’ai bien observé ton audition et j’ai jaugé[0x000A]tes réponses au quiz.{0x0114,0x0013}
+main_event_1140_leader_p02=J’ai bien observé ton audition et j’ai jaugé[0x000A]tes réponses au quiz.{0x0114,0x0013}
+main_event_1140_leader_p03=J’ai bien observé ton audition et j’ai jaugé[0x000A]tes réponses au quiz.{0x0114,0x0013}
+main_event_1140_leader_p04=J’ai bien observé ton audition et j’ai jaugé[0x000A]tes réponses au quiz.{0x0114,0x0013}
+main_event_1140_leader_p05=J’ai bien observé ton audition et j’ai jaugé[0x000A]tes réponses au quiz.{0x0114,0x0013}
+main_event_1140_leader_02=Mais maintenant, fini de jouer, passons[0x000A]aux choses sérieuses.{0xBE01}[0x000A]Voyons comment ton partenaire et toi résistez[0x000A]face à la pression.{0x0114,0x0013}
+main_event_1140_leader_03=Merci pour ce combat, jeune {0x1100,0x00FF,0x0404}hommfille.{0x0114,0x0013}
+main_event_1140_leader_04=Je dois avouer que ta prestation était tout à fait[0x000A]convenable. Mais tu n’es pas la personne que{0xBE00}[0x000A]je cherche pour me succéder à la tête de l’Arène.{0x0114,0x0013}
+main_event_1140_leader_05=Je trouverai bien la relève quelque part.[0x000A]J’ai d’ailleurs ma petite idée sur la question...{0x0114,0x0013}
+main_event_1140_leader_06=Allons, oublie cela, ce sont les caprices[0x000A]d’une vieille dame.{0xBE01}[0x000A]Prends le Badge Fée, tu l’as bien mérité.{0x0114,0x0013}
+main_event_1140_badge_01=Vous pouvez maintenant capturer des Pokémon[0x000A]jusqu’au niveau 45 !
+main_event_1140_leader_08=Et cette CT, c’est la maison qui l’offre.{0x0114,0x0013}
+main_event_1140_leader_09=Allez, je me sens d’humeur charitable,[0x000A]je rajoute même un uniforme.{0xBE00}[0x000A]Ça mettra un peu de féérie dans ta vie !{0x0114,0x0013}
+main_event_1140_leader_07=Moi qui espérais pouvoir enfin prendre[0x000A]ma retraite, c’est raté...{0x0114,0x0013}
+main_event_1140_danpei_01=Il y avait donc six questions, dans le quiz.[0x000A]Voyons combien tu as eu de réponses correctes...{0xBE01}[0x000A]{0x0200,0x0001} ! Ma foi...
+main_event_1140_system_01=Voulez-vous retourner à la réception ?

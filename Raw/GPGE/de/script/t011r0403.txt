@@ -1,0 +1,4 @@
+msg_t011r0403_staffm_01_01=Ich arbeite für die Silph Company.[0x000A]Was soll ich bloß machen?
+msg_t011r0403_staffm_01_02=Du und dein{0x1101,0x00FD,0x0100}e Pokémon habt uns gerettet,[0x000A]{0x0100,0x0000}!
+msg_t011r0403_kanban_01=Hauptsitz der Silph Company[0x000A]2. OG
+msg_t011r0403_rocketm_01_01=Die erste halbe Portion, die hier reinspaziert[0x000A]kam, war schon viel zu stark... Und jetzt kommst{0xBE00}[0x000A]auch noch du!{0xBE01}[0x000A]Ihr habt hier überhaupt nichts verloren, was wollt[0x000A]ihr verflixten Kinder denn von uns?!

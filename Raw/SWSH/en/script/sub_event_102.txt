@@ -1,0 +1,12 @@
+msg_sub_event_102_start=It’s a vending machine![0x000A]What kind of drink do you want?
+msg_sub_event_102_menu_item={0x0109,0x0000} {0xBD03,0x0000}[0xE300]{0x0202,0x0001}
+msg_sub_event_102_menu_cancel=Nothing
+msg_sub_event_102_cancel=Yeah, you weren’t thirsty anyway.
+msg_sub_event_102_not_have=But you can’t carry any more!
+msg_sub_event_102_not_money=But you don’t have enough money!
+msg_sub_event_102_appear_item={0x1303,0x0000,0x0000}{0x010A,0x0000} came out!
+msg_sub_event_102_next=Do you want to get one more?
+msg_sub_event_102_bingo=What luck![0x000A]Another {0x010A,0x0000} tumbled down!
+msg_sub_event_102_soldout=It’s a vending machine![0x000A]And all of your favorite drinks to buy are...{0xBE00}[0x000A]completely sold out!
+msg_sub_event_102_select_01=Buy one more
+msg_sub_event_102_select_02=Buy something else

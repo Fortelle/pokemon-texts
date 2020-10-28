@@ -1,0 +1,7 @@
+msg_t009r0101_researcher_01=Ici, on mène des recherches sur les Pokémon.{0xBE01}[0x000A]On nous apporte souvent des Pokémon rares[0x000A]à étudier.
+msg_t009r0101_researcher_02=Tu es là pour visiter ? C’est bien, ça, que les[0x000A]jeunes comme toi s’intéressent à la science !
+msg_t009r0101_researcher_03=Hep hep hep ! On ne court pas dans les couloirs !{0xBE01}[0x000A]Nan, j’rigole, m’écoute pas. J’étais pion dans[0x000A]un bahut, et j’ai pas perdu mes vieux réflexes.
+msg_t009r0101_picture_01=C’est une photo du fondateur de ce laboratoire,[0x000A]le Docteur Fuji !
+msg_t009r0101_kanban_01=Laboratoire de Cramois’Île[0x000A]Salle de réunion
+msg_t009r0101_kanban_02=Laboratoire de Cramois’Île[0x000A]Salle d’analyses
+msg_t009r0101_kanban_03=Laboratoire de Cramois’Île[0x000A]Salle de test

@@ -1,0 +1,64 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+Professor Cozmo was[0x000A]taken to Meteor Falls,{0xBE00}[0x000A]beyond Route 114.{0xBE01}[0x000A]Please save the professor[0x000A]from that Team Magma!
+Professor Cozmo was[0x000A]taken to Meteor Falls,{0xBE00}[0x000A]beyond Route 114.{0xBE01}[0x000A]Please save the professor[0x000A]from that Team Aqua!
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+Y-you see...{0xBE01}[0x000A]Professor Cozmo...
+It’s ridiculous...[0x000A]Professor Cozmo...
+He got abducted by some weird guys calling[0x000A]themselves Team Something or Other...
+They say that he was just up and kidnapped by some[0x000A]nuts calling themselves Team Something or Other...
+Those shady characters...[0x000A]They called themselves Team Magma.
+Those shady characters...[0x000A]They called themselves Team Aqua.
+It seems as though they plan to do[0x000A]something with the Meteorite that{0xBE00}[0x000A]the professor has been researching.{0xBE01}[0x000A]The professor is just too gullible.[0x000A]If you show the least bit of interest{0xBE00}[0x000A]in his research, he would happily go{0xBE00}[0x000A]with you anywhere, without question.
+{0x0100,0x0000}, please...[0x000A]You’ve got to help me save him!{0xBE01}[0x000A]They can’t be planning to do anything[0x000A]good with Professor Cozmo’s research.{0xBE01}[0x000A]We have to do something!
+{0x0100,0x0000}...[0x000A]I know it’s a lot to ask, but we’ve gotta help Cozmo!{0xBE01}[0x000A]I can’t just stand by here and watch them use his[0x000A]life’s work for their own corrupt reasons!
+I...I’m going to head after them right away![0x000A]Let’s meet up at Meteor Falls!
+I’m going to head to Meteor Falls right away.[0x000A]Come catch up to me as soon as you can.
+I’m counting on you, {0x0100,0x0000}!
+I’m counting on you, {0x0100,0x0000}!
+Ahhh! Professor!{0xBE01}[0x000A]Thank the stars above![0x000A]Professor, you’re back!
+Hah...haha...[0x000A]Thanks to these children, I have somehow returned.
+Those crazy jerks...{0xBE01}[0x000A]What do you think they wanted with the professor’s[0x000A]Meteorite anyway?
+Those nuts back there...{0xBE01}[0x000A]What do you think they’re hoping to do with the[0x000A]professor’s Meteorite?
+I’ve gotta say, they sure didn’t look like the[0x000A]good guys...but...
+From the look of them, they kind of seem like[0x000A]bad guys, but...
+I guess we’d both better be careful from here on out.{0xBE01}[0x000A]Not that I’m really worried about you, {0x0100,0x0000}.[0x000A]You and your team’d be fine for sure.
+We’ve both got to be careful.{0xBE01}[0x000A]Though I’m not worried a bit if it’s you and[0x000A]your team, {0x0100,0x0000}!
+{0xBDFF:0x0023}
+{0xBDFF:0x0024}
+{0xBDFF:0x0025}
+{0xBDFF:0x0026}
+{0xBDFF:0x0027}
+Those crooks who took my Meteorite...[0x000A]What will they do next at {0xFF00,0x0002}Mt. Chimney{0xFF00,0x0000}?
+{0xBDFF:0x0029}
+But I need to thank you, as well.[0x000A]You truly saved me from disaster.{0xBE01}[0x000A]I hope you’ll take this TM as some small form[0x000A]of repayment.
+As long as the professor is safe and sound,[0x000A]I don’t need anything else...
+It’s a cutting-edge telescope!{0xBE01}[0x000A]It seems to be focused on some[0x000A]particular sector of space!
+There are many books and papers[0x000A]about Meteorites!{0xBE01}[0x000A]“Relativity of Meteorites and Energy[0x000A]Vol. 1: Pokémon”{0xBE01}[0x000A]“Relativity of Meteorites and Energy[0x000A]Vol. 2: Humanity”{0xBE01}[0x000A]“Relativity of Meteorites and Energy[0x000A]Vol. 3: Nature”
+Thank you, Professor.
+Wow! Thanks, Professor!
+Now that that’s over with...{0xBE01}[0x000A]What’re you planning to do next, {0x0100,0x0000}?
+We-e-ell...{0xBE01}[0x000A]What’re you gonna do next, {0x0100,0x0000}?
+I’m thinking of going for my next Gym Badge.{0xBE01}[0x000A]The one from Mauville City.
+I’m thinking of checking out the next Gym on my list.{0xBE01}[0x000A]It’s the one in Mauville City.
+Wanna make the trip together, {0x0100,0x0000}?[0x000A]To Mauville, that is.
+Why don’t you come with me, {0x0100,0x0000}?[0x000A]To Mauville!
+Ah, right.[0x000A]Well, tell me if you change your mind.{0xBE01}[0x000A]Mauville’s right in the middle of Hoenn,[0x000A]so you can go to all sorts of places from there.{0xBE01}[0x000A]Even Mt. Chimney, the place those guys[0x000A]were talking about at Meteor Falls, is{0xBE00}[0x000A]a pretty short trip from Mauville.
+Oh. Right.[0x000A]Well, tell me if you change your mind!{0xBE01}[0x000A]Mauville’s right in the middle of Hoenn,[0x000A]so you can go to all sorts of places from there.{0xBE01}[0x000A]Even Mt. Chimney, the place those guys[0x000A]were talking about at Meteor Falls, in fact.{0xBE00}[0x000A]It’s just a short trip from Mauville.
+Cool. Let’s go then.
+Right on![0x000A]Let’s hit the road!
+Oh! Why, hello again!
+What good fortune...{0xBE01}[0x000A]I’d been thinking that if I saw you again,[0x000A]I would want to give you this...
+I happened to pick this up some[0x000A]time ago, while doing excavation{0xBE00}[0x000A]at Meteor Falls.{0xBE01}[0x000A]I hoped it might help you and your[0x000A]team along on your journey.{0xBE01}[0x000A]But I’m still astounded by it all.
+A relationship between the Mega Stones, Key[0x000A]Stones, and the Meteorites...{0xBE01}[0x000A]My, but new facts do come to light every day![0x000A]This is what makes my research feel worthwhile!
+I know a man, a dear friend in the Kalos region, who[0x000A]has been researching Mega Evolution.{0xBE01}[0x000A]We worked together a few years back here at Meteor Falls[0x000A]researching Meteorites.{0xBE01}[0x000A]I’ll have to share this information with him at once.{0xBE01}[0x000A]It might propel his research forward, and help future[0x000A]Trainers and Pokémon. I hope it does.
+Oh, welcome, welcome![0x000A]Make yourself at home.

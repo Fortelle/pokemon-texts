@@ -1,0 +1,13 @@
+msg_main8120_ghost_01={0xFF00,0x0009}Agatha:{0xFF00,0x0000} Yo soy Agatha, del Alto Mando.
+msg_main8120_ghost_05=Según he oído, eres el ojito derecho del[0x000A]Profesor Oak, ¿no es así?
+msg_main8120_ghost_06=Ese carcamal era un Entrenador apuesto y hábil,[0x000A]pero ya ha llovido desde entonces. Ahora no es{0xBE00}[0x000A]ni la sombra de lo que fue.
+msg_main8120_ghost_07=Se pasa todo el día jugueteando con la Pokédex[0x000A]esa. ¡Qué pérdida de tiempo!
+msg_main8120_ghost_08=Los Pokémon están para luchar y no para[0x000A]coleccionarlos.
+msg_main8120_ghost_09=Presta atención, criatura, que te voy a enseñar lo[0x000A]que es un buen combate.
+msg_kikuko_01_p02_cave_d1403={0xBDFF:0x0006}
+msg_main8120_ghost_02={0xFF00,0x0009}Agatha:{0xFF00,0x0000} Has ganado, eso no puedo negarlo.[0x000A]Ahora entiendo lo que ve en ti ese vejestorio.
+msg_main8120_ghost_10=No tengo nada más que decirte, salvo esto:[0x000A]¡adelante y sigue tu camino!
+msg_main8120_ghost_03={0xFF00,0x0009}Agatha:{0xFF00,0x0000} Así que has vuelto... Pero no creas que[0x000A]esta vez me ganarás tan fácilmente. ¡En guardia!
+msg_main8120_ghost_04={0xFF00,0x0009}Agatha:{0xFF00,0x0000} Hmmm... Está claro por qué el carcamal[0x000A]de Oak te tiene en tan alta estima.
+msg_main8120_ghost_11=Entre {0x0100,0x0001} y tú veo una sana[0x000A]rivalidad que me recuerda a la que había entre{0xBE00}[0x000A]Oak y yo en nuestros años mozos.
+msg_main8120_ghost_12=Venga, no pierdas más tiempo y ve a la[0x000A]siguiente sala.

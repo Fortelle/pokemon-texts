@@ -1,0 +1,10 @@
+sub_event_003_boy_01=听说在草路镇的某个地方[0x000A]埋藏着宝藏。
+sub_event_003_boy_02=地图上的提示写着……{0xBE01}[0x000A]调查石碑，[0x000A]起始于草，{0xBE00}[0x000A]由强至弱，{0xBE00}[0x000A]追寻两次。{0xBE01}[0x000A]……完全搞不明白啊～！
+sub_event_003_boy_03=哎！你找到宝藏了！？[0x000A]厉害啊！太厉害了！
+sub_event_003_system_01=哦？石碑上刻有文字！[0x000A]“草”
+sub_event_003_system_02=哦？石碑上刻有文字！[0x000A]“水”
+sub_event_003_system_03=哦？石碑上刻有文字！[0x000A]“火”
+sub_event_003_system_04=哦？石碑上刻有文字！[0x000A]“飞行”
+sub_event_003_system_05=哦？石碑上刻有文字！[0x000A]“毒”
+sub_event_003_system_06=哦？石碑上刻有文字！[0x000A]“恶”
+sub_event_003_system_07=……地里好像埋着什么东西！

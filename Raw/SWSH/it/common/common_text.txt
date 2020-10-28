@@ -1,0 +1,5 @@
+msg_ui_common_text_01=Dati di backup caricati.[0x000A]Attenzione: questi saranno i dati che verranno[0x000A]salvati la prossima volta che salverai il gioco.
+msg_ui_common_text_02=Dati di backup non presenti. Impossibile caricare.[0x000A]Tornerai allo schermo del titolo.
+msg_ui_common_text_03=Salvataggio in corso...
+msg_ui_common_text_04=I dati di salvataggio sono danneggiati.[0x000A]Cancella i dati di salvataggio dalla console.
+msg_ui_common_text_05={0xBDFF:0x0004}

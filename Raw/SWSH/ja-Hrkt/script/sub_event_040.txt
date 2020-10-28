@@ -1,0 +1,10 @@
+sub_event_040_null_01=ムゴゥッ！
+sub_event_040_leaguestaff_F_01=エレクトロメモリ……　オン！[0x000A]でんきだい……　せつやく！
+sub_event_040_null_02=グムゥ……？
+sub_event_040_leaguestaff_F_07=やっぱり　タイプ：ヌルを[0x000A]しんか　させないと　ムリか……
+sub_event_040_leaguestaff_F_02=あっ　チャンピオンの　{0x0100,0x0000}さん[0x000A]あらためまして{0xBE00}[0x000A]ゆうしょう　おめでとうございます！
+sub_event_040_leaguestaff_F_03=おいわいに　めずらしい　ポケモンの[0x000A]タイプ：ヌルを　しんてい　いたします！
+sub_event_040_leaguestaff_F_04=あと　こちらの　メモリも
+sub_event_040_system_01={0x0100,0x0000}は[0x000A]いろんなメモリ　を　もらった！
+sub_event_040_leaguestaff_F_05=タイプ：ヌルは　しんかすると[0x000A]もたせる　メモリによって{0xBE00}[0x000A]タイプが　かわります
+sub_event_040_leaguestaff_F_06=あっ　チャンピオンさん！[0x000A]タイプ：ヌル　げんきに　してます？

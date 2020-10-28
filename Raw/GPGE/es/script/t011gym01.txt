@@ -1,0 +1,4 @@
+msg_t011gym01_gym_01=Sabrina no dudará en usar los poderes psíquicos[0x000A]de sus Pokémon para jugar con la mente de los{0xBE00}[0x000A]tuyos.{0xBE01}[0x000A]Ah, y no olvides que los Pokémon de tipo Lucha[0x000A]son débiles contra los de tipo Psíquico.{0xBE01}[0x000A]¡Caerán antes de poder flexionar un solo[0x000A]músculo!
+msg_t011gym01_gym_02=¿Poderes mentales? ¡Quién los tuviera!{0xBE01}[0x000A]Me daría el gustazo de hacer ciertas cosillas que[0x000A]yo me sé, je, je, je...
+msg_t011gym01_statue_01=Gimnasio Pokémon de Ciudad Azafrán[0x000A]Líder: Sabrina{0xBE01}[0x000A]Entrenadores reconocidos:[0x000A]{0x0100,0x0001}
+msg_t011gym01_statue_02=Gimnasio Pokémon de Ciudad Azafrán[0x000A]Líder: Sabrina{0xBE01}[0x000A]Entrenadores reconocidos:[0x000A]{0x0100,0x0001} y {0x0100,0x0000}

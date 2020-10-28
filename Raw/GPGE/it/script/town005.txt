@@ -1,0 +1,12 @@
+msg_town005_kanban_01=Lavandonia[0x000A]Nobile città viola
+msg_town005_kanban_02=La nuova Spettrosonda è ora disponibile[0x000A]e rende visibile l’invisibile!{0xBE00}[0x000A]Silph S.p.A.
+msg_town005_kanban_03=Casa Pokémon[0x000A]Centro di volontariato di Lavandonia
+msg_town005_kanban_04=Torre Pokémon[0x000A]Che le anime dei Pokémon riposino in pace!
+msg_town005_juveniles_01_01=Credi agli spettri?
+msg_town005_juveniles_01_02=Davvero?[0x000A]Non farmi ridere!
+msg_town005_juveniles_01_03=Ah ah ah! Neppure io![0x000A]Quindi quella mano bianca sulla tua spalla...{0xBE00}[0x000A]è solo frutto della mia immaginazione, vero?
+msg_town005_adultm_01=Questa città è famosa per le tombe[0x000A]dei Pokémon.{0xBE01}[0x000A]Quando i Pokémon muoiono vengono portati[0x000A]alla Torre Pokémon, affinché il loro spirito possa{0xBE00}[0x000A]riposare in pace.
+msg_town005_youngm_01=Sono apparsi degli spettri nella Torre Pokémon.{0xBE01}[0x000A]Sembra che siano gli spiriti dei Pokémon che non[0x000A]sono riusciti a sfuggire alle grinfie{0xBE00}[0x000A]del Team Rocket.
+msg_town005_oldf_01=Aaah... Come mi rilassa il profumo dell’incenso...
+msg_town005_poke_01={0xFF00,0x0009}Nidoran♀:{0xFF00,0x0000} Nidooo!
+msg_town005_childf_01=Non si fa rumore nella Torre Pokémon![0x000A]Me lo ha detto la mamma...

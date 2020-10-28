@@ -1,0 +1,8 @@
+msg_t0201i0101_plant_01=These plants take a great deal of care, but they[0x000A]all seem to be flourishing.
+msg_t0201i0101_bg1_01=The whiteboard is positively covered with notes,[0x000A]from top to bottom.
+msg_t0201i0101_bg2_01=Perhaps it’s measuring something?[0x000A]The readings seem to be fluctuating.
+msg_t0201i0101_poke1_01_pop={0xBDFF:0x0003}
+msg_t0201i0101_poke2_01_pop=Yamp! Yamp!
+msg_t0201i0101_bookshelf1_01=“Regarding the Changes Pokémon Can Undergo”[0x000A]Pokémon do not only change in appearance[0x000A]when they level up. They can also do so through[0x000A]the use of certain items or under the influence of[0x000A]the area they are in, in some cases.{0xBE01}[0x000A]It is hypothesized that some factor within the[0x000A]Pokémon itself is what allows for these changes[0x000A]to their form and biology, but thus far, conclusive[0x000A]evidence of such a factor has not been found[0x000A]by researchers.
+msg_t0201i0101_bookshelf2_01=“What Is the Dynamax Phenomenon?”[0x000A]This phenomenon, in which Pokémon take on[0x000A]gigantic forms, has only been observed in the[0x000A]Galar region. Moreover, it only seems to occur[0x000A]in specific locations and under set conditions.
+msg_t0201i0101_bookshelf2_02=“On the Gigantification of Pokémon”[0x000A]While the general principal holds that Pokémon[0x000A]grow stronger and larger by evolving, it is also[0x000A]true that simply making oneself appear larger[0x000A]is another survival strategy with merit.

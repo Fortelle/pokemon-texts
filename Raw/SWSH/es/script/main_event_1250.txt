@@ -1,0 +1,8 @@
+main_event_1250_trainer_01=Bienvenid{0x1100,0x00FF,0x0101}oa, Aspirante. ¿Vas a intentar hacer[0x000A]frente a la misión de este gimnasio?
+main_event_1250_trainer_02=¡Pues claro!
+main_event_1250_trainer_03=Tal vez luego
+main_event_1250_trainer_04=Muy bien.{0xBE01}[0x000A]Entonces pasa al vestuario a ponerte el uniforme,[0x000A]por favor.
+main_event_1250_trainer_08=Toma este detectahoyos. Te hará falta para la[0x000A]misión.
+main_event_1250_trainer_05=¡Entendido! Ven cuando estés preparad{0x1100,0x00FF,0x0101}oa.
+main_event_1250_trainer_06=¿Estás list{0x1100,0x00FF,0x0101}oa para la misión de gimnasio?[0x000A]Como yo siempre digo... ¡la misión es solo la{0xBE00}[0x000A]punta del iceberg!
+main_event_1250_trainer_07=¡El uniforme te queda de maravilla!

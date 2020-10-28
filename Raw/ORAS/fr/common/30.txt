@@ -1,0 +1,122 @@
+Recherche de Tests Combat à télécharger.[0x000A]Veuillez patienter…
+Quel Test Combat voulez-vous télécharger[0xE07F]?{0xBE01}
+Voulez-vous revenir au menu précédent[0xE07F]?
+Voulez-vous télécharger[0x000A]{0x0193,0x0000}[0xE07F]?
+Ce Test Combat est déjà téléchargé.{0xBE01}
+Le Test Combat a été téléchargé.{0xBE01}
+Téléchargement du Test Combat[0xE08D][0x000A]Ne pas éteindre la console.
+Le Test Combat a été téléchargé[0xE07F]!{0xBE01}
+Choisissez le Test Combat à effacer.{0xBE01}
+Voulez-vous arrêter d’effacer les Tests[0x000A]Combat[0xE07F]?
+Voulez-vous effacer[0x000A]{0x0193,0x0000}[0xE07F]?
+Le Test Combat a été effacé.{0xBE01}
+Comment désirez-vous le recevoir[0xE07F]?
+Voulez-vous vous connecter à Internet[0xE07F]?
+Vérification de la carte SD[0xE08D][0x000A]Ne pas éteindre la console.
+Déconnexion en cours.[0x000A]Veuillez patienter[0xE08D]
+Il n’y a plus de place disponible.[0x000A]Voulez-vous effacer un Test Combat[0xE07F]?
+Aucun Test Combat n’a été trouvé.[0x000A]Veuillez en télécharger un.{0xBE01}
+Voulez-vous vous déconnecter[0xE07F]?
+Déconnexion en cours[0xE08D]
+La communication sans fil est désactivée.{0xBE01}[0x000A]Activez la communication sans fil.{0xBE01}
+Des données corrompues ont été trouvées[0x000A]sur la carte SD.{0xBE00}[0x000A]Les données ont été effacées.{0xBE01}
+Voulez-vous vraiment effacer[0x000A]{0x0193,0x0000}[0xE07F]?
+Espace insuffisant sur la carte SD.[0x000A]Impossible de télécharger les données.{0xBE01}[0x000A]Veuillez éteindre votre console et libérer[0x000A]de l’espace sur la carte SD.{0xBE01}
+Impossible de lire la carte SD.{0xBE01}[0x000A]Veuillez quitter le jeu et vérifier la carte SD.{0xBE01}
+Impossible d’écrire sur la carte SD.{0xBE01}[0x000A]Veuillez quitter le jeu et vérifier la carte SD.{0xBE01}
+Aucune donnée trouvée.{0xBE01}
+Aucune donnée trouvée.{0xBE01}
+Aucune donnée trouvée.{0xBE01}
+Téléchargement des données interrompu.{0xBE01}
+Choisissez quel Test Combat vous désirez[0x000A]passer.{0xBE01}
+Voulez-vous passer le Test Combat[0x000A]{0x0193,0x0000}[0xE07F]?
+Voulez-vous annuler votre participation[0xE07F]?
+Oui
+Non
+Participer
+En savoir plus
+Retour
+Mode sans fil local
+Internet
+Quitter
+En savoir plus
+Télécharger
+Quitter
+En savoir plus
+Effacer
+Quitter
+Liste des Tests Combat
+{0x0193,0x0000}
+{0x0101,0x0000}
+{0x0109,0x0000}
+{0x0107,0x0000}
+Pokémon ne pouvant pas participer :
+Objets interdits :
+Capacités interdites :
+—
+Choix des règles
+{0xBDFF:0x0039}
+{0xBDFF:0x003A}
+{0xBDFF:0x003B}
+Choisissez le type de combat auquel[0x000A]vous voulez participer.{0xBE01}
+Participer à un Test Combat Solo[0xE07F]?
+Participer à un Test Combat Duo[0xE07F]?
+Participer à un Combat Solo[0xE07F]?
+Participer à un Combat Duo[0xE07F]?
+Participer à un Combat Trio[0xE07F]?
+Participer à un Combat Rotatif[0xE07F]?
+Participer à un Combat Multi[0xE07F]?
+Participer à un Combat Super Solo[0xE07F]?
+Participer à un Combat Super Duo[0xE07F]?
+Participer à un Combat Super Trio[0xE07F]?
+Participer à un Combat Super Rotatif[0xE07F]?
+Participer à un Combat Super Multi[0xE07F]?
+Voulez-vous annuler votre participation[0xE07F]?
+Il vous faut trois Pokémon conformes[0x000A]au règlement pour participer.{0xBE01}[0x000A]Sélectionnez «[0xE07F]En savoir plus[0xE07F]» pour[0x000A]davantage d’informations.{0xBE01}
+Il vous faut quatre Pokémon conformes[0x000A]au règlement pour participer.{0xBE01}[0x000A]Sélectionnez «[0xE07F]En savoir plus[0xE07F]» pour[0x000A]davantage d’informations.{0xBE01}
+Il vous faut six Pokémon conformes[0x000A]au règlement pour participer.{0xBE01}[0x000A]Sélectionnez «[0xE07F]En savoir plus[0xE07F]» pour[0x000A]davantage d’informations.{0xBE01}
+Il vous faut quatre Pokémon conformes[0x000A]au règlement pour participer.{0xBE01}[0x000A]Sélectionnez «[0xE07F]En savoir plus[0xE07F]» pour[0x000A]davantage d’informations.{0xBE01}
+Il vous faut deux Pokémon conformes[0x000A]au règlement pour participer.{0xBE01}[0x000A]Sélectionnez «[0xE07F]En savoir plus[0xE07F]» pour[0x000A]davantage d’informations.{0xBE01}
+Impossible de participer à ce Test Combat.{0xBE01}
+Il faut un Pokémon pour participer.{0xBE01}[0x000A]Sélectionnez «[0xE07F]En savoir plus[0xE07F]» pour[0x000A]davantage d’informations.{0xBE01}
+Il faut deux Pokémon pour participer.{0xBE01}[0x000A]Sélectionnez «[0xE07F]En savoir plus[0xE07F]» pour[0x000A]davantage d’informations.{0xBE01}
+Il faut trois Pokémon pour participer.{0xBE01}[0x000A]Sélectionnez «[0xE07F]En savoir plus[0xE07F]» pour[0x000A]davantage d’informations.{0xBE01}
+Il faut quatre Pokémon pour participer.{0xBE01}[0x000A]Sélectionnez «[0xE07F]En savoir plus[0xE07F]» pour[0x000A]davantage d’informations.{0xBE01}
+Il faut cinq Pokémon pour participer.{0xBE01}[0x000A]Sélectionnez «[0xE07F]En savoir plus[0xE07F]» pour[0x000A]davantage d’informations.{0xBE01}
+Il faut six Pokémon pour participer.{0xBE01}[0x000A]Sélectionnez «[0xE07F]En savoir plus[0xE07F]» pour[0x000A]davantage d’informations.{0xBE01}
+Oui
+Non
+Participer
+En savoir plus
+Quitter
+Test Combat Solo
+Test Combat Duo
+Combat Solo
+Combat Duo
+Combat Trio
+Combat Rotatif
+Combat Multi
+Combat Super Solo
+Combat Super Duo
+Combat Super Trio
+Combat Super Rotatif
+Combat Super Multi
+Liste des Tests Combat
+Maison de Combat
+Solo
+Duo
+Rotatif
+Multi
+Tous les Pokémon : ramenés à 50[0x000A]Pokémon participants : 3[0x000A]Pokémon et objets identiques : interdits[0x000A]Espèces de Pokémon : limitées[0x000A]Objets : limités
+Tous les Pokémon : ramenés à 50[0x000A]Pokémon participants : 4[0x000A]Pokémon et objets identiques : interdits[0x000A]Espèces de Pokémon : limitées[0x000A]Objets : limités
+Pokémon d’un niveau > 50 : ramenés à 50[0x000A]Pokémon participants : 3[0x000A]Pokémon et objets identiques : interdits[0x000A]Espèces de Pokémon : limitées[0x000A]Objets : limités
+Pokémon d’un niveau > 50 : ramenés à 50[0x000A]Pokémon participants : 4[0x000A]Pokémon et objets identiques : interdits[0x000A]Espèces de Pokémon : limitées[0x000A]Objets : limités
+Pokémon d’un niveau > 50 : ramenés à 50[0x000A]Pokémon participants : 6[0x000A]Pokémon et objets identiques : interdits[0x000A]Espèces de Pokémon : limitées[0x000A]Objets : limités
+Pokémon d’un niveau > 50 : ramenés à 50[0x000A]Pokémon participants : 4[0x000A]Pokémon et objets identiques : interdits[0x000A]Espèces de Pokémon : limitées[0x000A]Objets : limités
+Pokémon d’un niveau > 50 : ramenés à 50[0x000A]Pokémon participants : 2[0x000A]Pokémon et objets identiques : interdits[0x000A]Espèces de Pokémon : limitées[0x000A]Objets : limités[0x000A]Combat en tandem avec un ami ou un copain
+Pokémon d’un niveau > 50 : ramenés à 50[0x000A]Pokémon participants : 3[0x000A]Pokémon et objets identiques : interdits[0x000A]Espèces de Pokémon : limitées[0x000A]Objets : limités
+Pokémon d’un niveau > 50 : ramenés à 50[0x000A]Pokémon participants : 4[0x000A]Pokémon et objets identiques : interdits[0x000A]Espèces de Pokémon : limitées[0x000A]Objets : limités
+Pokémon d’un niveau > 50 : ramenés à 50[0x000A]Pokémon participants : 6[0x000A]Pokémon et objets identiques : interdits[0x000A]Espèces de Pokémon : limitées[0x000A]Objets : limités
+Pokémon d’un niveau > 50 : ramenés à 50[0x000A]Pokémon participants : 4[0x000A]Pokémon et objets identiques : interdits[0x000A]Espèces de Pokémon : limitées[0x000A]Objets : limités
+Pokémon d’un niveau > 50 : ramenés à 50[0x000A]Pokémon participants : 2[0x000A]Pokémon et objets identiques : interdits[0x000A]Espèces de Pokémon : limitées[0x000A]Objets : limités[0x000A]Combat en tandem avec un ami ou un copain
+Trio

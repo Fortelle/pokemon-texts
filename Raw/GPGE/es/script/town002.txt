@@ -1,0 +1,15 @@
+msg_town002_kanban_01=Ciudad Verde[0x000A]El paraíso del eterno verdor.
+msg_town002_kanban_02=Gimnasio Pokémon de Ciudad Verde
+msg_town002_door_01=Las puertas del gimnasio están cerradas...
+msg_town002_kanban_03={0xBDFF:0x0003}
+msg_town002_kanban_04=¡Pistas para Entrenadores!{0xBE01}[0x000A]Si te quedas sin Poké Balls, ve a cualquier[0x000A]Tienda Pokémon para reponer tu inventario.
+msg_town002_kanban_05=Escuela de Entrenadores[0x000A]¡Aprende y crea escuela!
+msg_town002_childm_01_01=Ese que va contigo es tu compañero Pokémon,[0x000A]¿verdad?{0xBE01}[0x000A]¡Es genial poder pasear junto a tu Pokémon[0x000A]favorito!
+msg_town002_oldm_01_01=Este Gimnasio Pokémon está siempre cerrado.[0x000A]Me pregunto quién será el líder.
+msg_town002_oldm_01_02=¡El Líder de Gimnasio de Ciudad Verde ha vuelto!
+msg_town002_bugcatcher_01_01=¿Quieres saber la diferencia entre los dos[0x000A]Pokémon oruga?
+msg_town002_bugcatcher_01_02=Vale, pues nada.
+msg_town002_bugcatcher_01_03=¡Caterpie no es venenoso, pero Weedle sí![0x000A]¡Procura que no te pique!
+msg_town002_jevenile_f_01={0xBDFF:0x000C}
+msg_town002_poke_01={0xFF00,0x0009}Oddish:{0xFF00,0x0000} ¡Dish!
+msg_town002_middlem_01=¡Bienvenid{0x1100,0x00FF,0x0101}oa a nuestra ciudad, paletense!

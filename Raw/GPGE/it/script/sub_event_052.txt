@@ -1,0 +1,12 @@
+msg_sub052_researcher_01=Ciao! Ti ricordi di me?[0x000A]Sono l’assistente del Professor Oak!{0xBE01}[0x000A]Se nel Pokédex hai i dati di almeno 50 specie[0x000A]di Pokémon, ti darò uno {0xFF00,0x0006}strumento prodigioso{0xFF00,0x0000}!{0xBE01}[0x000A]Allora, {0x0100,0x0000}, hai catturato[0x000A]almeno 50 specie di Pokémon?
+msg_sub052_researcher_02=Bene! Hai catturato {0x0202,0x0004} specie di Pokémon!{0xBE01}[0x000A]Congratulazioni! Ti sei meritat{0x1100,0x00FF,0x0101}oa lo strumento[0x000A]prodigioso che ti avevo promesso!
+msg_sub052_researcher_03=Ah... Dov’è...? Non può essere... L’ho perso...!
+msg_sub052_researcher_04=E adesso che faccio?! Non ho niente da darti![0x000A]Mi... Mi dispiace...{0xBE01}[0x000A]Anzi no, aspetta!
+msg_sub052_researcher_05=Uiiiiiuh!
+msg_sub052_researcher_06=Anf anf...[0x000A]Ecco qua, tieni!
+msg_sub052_sys_01={0x0100,0x0000} riceve il {0xFF00,0x0006}completo assistente{0xFF00,0x0000}[0x000A]dall’assistente!
+msg_sub052_sys_02={0x0100,0x0000} ripone il {0xFF00,0x0006}completo assistente{0xFF00,0x0000}[0x000A]nella Valigia vestiti!
+msg_sub052_researcher_07=Ho rimodellato il mio camice per adattarlo[0x000A]a te e al tuo Pokémon.{0xBE01}[0x000A]Ci tengo molto... Abbine cura!
+msg_sub052_researcher_08=Senza camice sembro una persona qualunque,[0x000A]ma... almeno tu, non dimenticare che sono{0xBE00}[0x000A]l’assistente del Professor Oak!
+msg_sub052_researcher_09=Vediamo... Oh! Hai catturato solo {0x0202,0x0004} specie[0x000A]di Pokémon!{0xBE01}[0x000A]Ti servono 50 specie se vuoi ricevere uno[0x000A]{0xFF00,0x0006}strumento prodigioso{0xFF00,0x0000}.
+msg_sub052_researcher_10=Quando avrai 50 specie di Pokémon, torna qui[0x000A]e ti darò uno {0xFF00,0x0006}strumento prodigioso{0xFF00,0x0000} in regalo!

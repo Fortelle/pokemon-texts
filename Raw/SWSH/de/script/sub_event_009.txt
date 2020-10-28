@@ -1,0 +1,8 @@
+sub_event_009_doctor_01=Du hast es geschafft, du bist der neue Champ![0x000A]Herzlichen Glückwunsch!{0xBE01}[0x000A]Hier, das ist für dich... zur Feier deines Titels!{0x0114,0x000A}
+sub_event_009_mama_01=Aber Professor Magnolica! Sie hätten doch nicht[0x000A]extra herkommen müssen.{0x0114,0x0008}
+sub_event_009_doctor_02={0x0100,0x0000} hat so viel für uns vollbracht.[0x000A]Das ist das Mindeste, was ich tun kann.{0x0114,0x000A}
+sub_event_009_doctor_03=Die Wunschsterne, die das Dynamax-Phänomen[0x000A]verursachen, sind Teile von Endynalos.{0xBE01}[0x000A]Als Endynalos erwachte, wurde also die Region[0x000A]mit der Energie durchströmt, die für Dynamax{0xBE00}[0x000A]nötig ist...{0x0114,0x000A}
+sub_event_009_doctor_04=Hätte niemand eingegriffen, wäre Galar einer[0x000A]Horde ungezügelter Dynamax-Pokémon zum{0xBE00}[0x000A]Opfer gefallen.{0xBE01}[0x000A]Aber {0x0100,0x0000} und die anderen haben[0x000A]uns alle gerettet.{0x0114,0x000A}
+sub_event_009_doctor_05=Nun ja... Das Dynamax-Phänomen ist schon seit[0x000A]Langem ein fester Bestandteil der Kultur Galars.{0xBE01}[0x000A]Ich wünsche mir, dass diese Kraft in Zukunft[0x000A]nicht mehr missbraucht wird.{0x0114,0x000A}
+sub_event_009_doctor_06=Also dann, {0x0100,0x0000}...[0x000A]Lebe dein Leben, wie du es für richtig hältst.{0x0114,0x000A}
+sub_event_009_mama_02=Professor Magnolica hat sich so intensiv mit dem[0x000A]Dynamax-Phänomen beschäftigt...{0xBE01}[0x000A]Kein Wunder, dass sie sich solche Gedanken um[0x000A]die Taten des Liga-Präsidenten macht.{0x0114,0x0008}

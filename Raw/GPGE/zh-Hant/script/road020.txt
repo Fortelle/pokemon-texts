@@ -1,0 +1,5 @@
+msg_road020_kanban_01=雙子島
+msg_road020_clerk_01={0x1100,0x00FF,0x0101}你妳好！[0x000A]這裡是流動傷藥服務處～！
+msg_road020_clerk_02=啊，錢就不用給了！{0xBE01}[0x000A]請{0x1100,0x00FF,0x0101}你妳以後也要多多關照[0x000A]友好商店喔～
+msg_road020_clerk_03=哎呀～真是個方便的道具！[0x000A]傷藥真的很不錯吧～！
+msg_boyscout1_01_p01_field_r020={0xBDFF:0x0004}

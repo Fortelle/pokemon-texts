@@ -1,0 +1,11 @@
+main_event_3092_system_01=*beep beep beep*
+main_event_3092_rival_01=Hey, {0x0100,0x0000}?[0x000A]That your Rotom Phone ringing?{0x0114,0x0005}
+main_event_3092_doctor_01={0x1003}{0x0100,0x0000}! We’ve got trouble! Those two[0x000A]weirdos have showed up at the Pokémon Lab!{0x0114,0x000B}
+main_event_3092_rival_02=What?! Sonia, you all right?!{0x0114,0x0005}
+main_event_3092_doctor_02=They keep rudely demanding I hand over[0x000A]Wishing Stars. I’m all right for now, but get over{0xBE00}[0x000A]here quick, OK? These guys are right creepy!{0x0114,0x000B}
+main_event_3092_system_02=*beep*
+main_event_3092_aku_01=What’re those two doin’ goin’ after[0x000A]Wishing Stars?{0x0114,0x0016}
+main_event_3092_rival_03=We’ve got to help Sonia and get back[0x000A]the {0x0109,0x0001}!{0x0114,0x0005}
+main_event_3092_rival_04=Let’s hurry to the Pokémon Lab!{0x0114,0x0005}
+main_event_3092_aku_02=He really doesn’t think anythin’ through...[0x000A]Sure does make him seem a proper fool.{0xBE00}[0x000A]Nah, guess the word would be “reckless.”{0x0114,0x0016}
+main_event_3092_aku_03=We’re headed to the Pokémon Lab next, right?[0x000A]Guess I’ll stick by you till we see this through.{0x0114,0x0016}

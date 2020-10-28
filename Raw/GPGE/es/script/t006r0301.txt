@@ -1,0 +1,10 @@
+msg_t006r0301_sailor_02_01=El S. S. Anne es un famoso y lujoso crucero que[0x000A]atraca una vez al año en Ciudad Carmín.
+msg_t006r0301_sailor_01_01=¡Bienvenid{0x1100,0x00FF,0x0101}oa al S. S. Anne!
+msg_t006r0301_sailor_01_02={0xBDFF:0x0002}
+msg_t006r0301_sys_01={0xBDFF:0x0003}
+msg_t006r0301_sailor_01_03={0xBDFF:0x0004}
+msg_t006r0301_sys_02={0xBDFF:0x0005}
+msg_t006r0301_sailor_01_04={0xBDFF:0x0006}
+msg_t006r0301_sys_03={0xBDFF:0x0007}
+msg_t006r0301_sailor_01_05={0xBDFF:0x0008}
+msg_t006r0301_sailor_01_06=El barco ha zarpado.

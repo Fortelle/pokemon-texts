@@ -1,0 +1,17 @@
+msg_main3080_water_01=Fermi lì, ragazzi! È pericoloso stare qui!{0x0114,0x000F}
+msg_main3080_aku_01=Sì, sì, lo sappiamo. Piuttosto... stanno tutti bene?{0x0114,0x0016}
+msg_main3080_water_02=Sì, abbiamo appena fatto evacuare tutti.{0x0114,0x000F}
+msg_main3080_water_03=Certo che... più vi guardo e più mi chiedo[0x000A]come avete fatto a finire insieme...{0x0114,0x000F}
+msg_main3080_aku_02=Ugh...! Ma cos... che c’entra?! Abbiamo ben[0x000A]altro a cui pensare adesso!{0x0114,0x0016}
+msg_main3080_rival_01=Siamo venuti a dare una mano!{0x0114,0x0005}
+msg_main3080_water_04=In effetti ci farebbe davvero comodo una mano...{0xBE01}[0x000A]Quel Pokémon dynamaxizzato è incontenibile,[0x000A]non so bene come fare per calmarlo.{0x0114,0x000F}
+msg_main3080_water_05=Mi sento più tranquilla se ci siete anche voi[0x000A]al mio fianco.{0x0114,0x000F}
+msg_main3080_water_06=Forza, andiamo!{0x0114,0x000F}
+msg_main3080_poke_01={0xBDFF:0x0009}
+msg_main3080_system_01={0xBDFF:0x000A}
+msg_main3080_poke_02={0xBDFF:0x000B}
+msg_main3080_water_07=Ragazzi, siete stati mitici!{0xBE01}[0x000A]Grazie al vostro aiuto nessuno si è fatto male[0x000A]e tutto è tornato alla normalità.{0x0114,0x000F}
+msg_main3080_water_08=Terrò il Pokémon qui nello stadio finché[0x000A]non si sarà completamente ripreso.{0x0114,0x000F}
+msg_main3080_water_09=E... {0x0100,0x0000}...{0xBE01}[0x000A]Se mai avessi bisogno d’aiuto in futuro,[0x000A]non esitare a chiamarmi!{0x0114,0x000F}
+msg_main3080_water_10=Grazie ancora per quello che avete fatto oggi![0x000A]Alla prossima!{0x0114,0x000F}
+msg_main3080_water_11={0xBDFF:0x0010}

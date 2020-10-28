@@ -1,0 +1,6 @@
+msg_main0160_rival_01={0xFF00,0x0009}{0x0100,0x0001}: {0xFF00,0x0000}Ah, du kommst wie gerufen!
+msg_main0160_rival_02=Wusstest du, dass es in dieser Stadt eine[0x000A]{0xFF00,0x0006}Pokémon-Arena{0xFF00,0x0000} gibt, {0x0100,0x0000}?{0xBE01}[0x000A]Da kann man gegen einen superstarken Trainer[0x000A]antreten, den sogenannten {0xFF00,0x0006}Arenaleiter{0xFF00,0x0000}.
+msg_main0160_rival_05=Gegen einen Arenaleiter zu kämpfen ist zwar[0x000A]kein Zuckerschlecken, aber wenn wir stärker{0xBE00}[0x000A]werden wollen, führt kein Weg daran vorbei.
+msg_main0160_rival_04={0xFF00,0x0009}{0x0100,0x0001}: {0xFF00,0x0000}Schau mal, {0x0102,0x0003}[0x000A]ist auch schon ganz heiß auf einen Arenakampf!{0xBE01}[0x000A]Stimmt doch, oder {0x0102,0x0003}?{0xBE01}[0x000A]Ich stehe auf jeden Fall voll hinter euch. Hier!
+msg_main0160_sys_01=Du erhältst 5 Tränke von {0x0100,0x0001}!
+msg_main0160_rival_03=Ich war in Spendierlaune, weil ich mir ein[0x000A]bisschen Preisgeld angespart hatte.{0xBE01}[0x000A]Hoffentlich helfen sie dir dabei, den Arenaleiter[0x000A]zu besiegen.{0xBE01}[0x000A]Das ist nämlich ein erster wichtiger Schritt auf[0x000A]deinem Weg zur Pokémon-Liga.{0xBE01}[0x000A]Also, viel Glück euch beiden! Ihr schafft das!

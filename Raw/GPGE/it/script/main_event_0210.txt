@@ -1,0 +1,10 @@
+msg_main0210_musashi_01={0xFF00,0x0009}???:{0xFF00,0x0000} Altolà!
+msg_main0210_musashi_02={0xFF00,0x0009}???:{0xFF00,0x0000} Quel fossile appartiene al Team Rocket!
+msg_main0210_kojiro_01={0xFF00,0x0009}???:{0xFF00,0x0000} Che rabbia! Come hai fatto ad arrivare[0x000A]prima di noi? Non vale!
+msg_main0210_musashi_04={0xFF00,0x0009}Jessie:{0xFF00,0x0000} Noi siamo il Team Rocket![0x000A]Io sono Jessie!
+msg_main0210_kojiro_02={0xFF00,0x0009}James:{0xFF00,0x0000} E io sono James!
+msg_main0210_musashi_05={0xFF00,0x0009}Jessie:{0xFF00,0x0000} La nostra missione è impossessarci[0x000A]dei fossili!
+msg_main0210_dummy_01={0xBDFF:0x0006}
+msg_main0210_dummy_02={0xBDFF:0x0007}
+msg_main0210_musashi_03={0xFF00,0x0009}Jessie e James: {0xFF00,0x0000}Il Team Rocket riparte[0x000A]alla velocità della luce!!
+msg_main0210_musashi_back={0xFF00,0x0009}Jessie:{0xFF00,0x0000} Non possiamo lottare se hai solo[0x000A]un Pokémon in squadra, però!{0xBE01}[0x000A]Vanne a prendere un altro e torna subito qui!

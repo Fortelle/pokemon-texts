@@ -1,0 +1,201 @@
+Die SD Card wird überprüft...[0x000A]Bitte warte einen Moment.
+Unzureichender Speicherplatz auf der SD Card.[0x000A]Bitte schaffe neuen Platz auf deiner SD Card.{0xBE01}
+Der Speicher der Kamera-Anwendung ist voll.[0x000A]Du kannst keine weiteren Fotos mehr speichern.{0xBE01}[0x000A]Bitte schaffe neuen Speicherplatz auf deinem[0x000A]System.{0xBE01}
+Bei der Kamera-Anwendung ist ein Fehler[0x000A]aufgetreten.{0xBE01}[0x000A]Die Fotodaten konnten nicht gespeichert[0x000A]werden.{0xBE01}
+Die Daten auf deiner SD Card waren[0x000A]fehlerhaft und wurden daher gelöscht.{0xBE01}
+Die SD Card ist voll. Du kannst keine weiteren[0x000A]Fotos mehr speichern.{0xBE01}[0x000A]Bitte schaffe neuen Speicherplatz auf der[0x000A]SD Card deines Systems.{0xBE01}
+Achtung: Es k{0x1101,0x0000,0x0402}anönnen nur noch {0x0200,0x0000} Foto{0x1101,0x0000,0x0100}s über den[0x000A]Alola-Fotoclub gespeichert werden.{0xBE01}
+Achtung: Es k{0x1101,0x0000,0x0402}anönnen nur noch {0x0200,0x0000} Foto{0x1101,0x0000,0x0100}s über den[0x000A]Alola-Fotoclub gespeichert werden.{0xBE01}[0x000A]Beachte, dass du keine weiteren Fotos schießen[0x000A]kannst, sobald diese Anzahl erreicht wurde.{0xBE01}
+Die maximale Anzahl an Fotos, die du über den[0x000A]Alola-Fotoclub speichern kannst, ist erreicht.{0xBE01}[0x000A]Bitte schaffe neuen Platz, indem du nicht[0x000A]benötigte Fotos in deinem Bilderalbum löschst.{0xBE01}
+Daten werden auf der SD Card gespeichert...[0x000A]Bitte das System nicht ausschalten.
+{0xBDFF:0x000A}
+Der Speicher der Kamera-Anwendung ist voll.[0x000A]Du kannst keine weiteren Fotos mehr speichern.{0xBE01}[0x000A]Bitte schaffe neuen Speicherplatz auf deinem[0x000A]System.{0xBE01}
+Die SD Card ist voll. Du kannst keine weiteren[0x000A]Fotos mehr speichern.{0xBE01}[0x000A]Bitte schaffe neuen Speicherplatz auf deiner[0x000A]SD Card.{0xBE01}
+Die Fotodaten wurden auf der SD Card[0x000A]gespeichert.{0xBE01}
+Du kannst maximal 420 Fotos über den[0x000A]Alola-Fotoclub speichern.{0xBE01}[0x000A]Es k{0x1101,0x0000,0x0402}anönnen demnach noch {0x0200,0x0000} Foto{0x1101,0x0000,0x0100}s über den[0x000A]Alola-Fotoclub gespeichert werden.{0xBE01}[0x000A]Wenn die maximale Anzahl erreicht wurde,[0x000A]kannst du keine weiteren Fotos schießen.{0xBE01}[0x000A]Bitte schaffe neuen Platz, indem du nicht[0x000A]benötigte Fotos in deinem Bilderalbum löschst.{0xBE01}
+Die maximale Anzahl an Fotos, die du über den[0x000A]Alola-Fotoclub speichern kannst, ist erreicht.{0xBE01}[0x000A]Bitte schaffe neuen Platz, indem du nicht[0x000A]benötigte Fotos in deinem Bilderalbum löschst.{0xBE01}
+Steuerkreuz: Position des Pokémon[0x000A]X-Knopf/Y-Knopf: Ausrichtung des Pokémon[0x000A]L-Taste/R-Taste: Ausrichtung der Spielfigur
+Bitte wähle, wer abgebildet werden soll.
+Bitte wähle ein Pokémon aus.
+Bitte wähle einen Hintergrund aus.
+Bitte wähle ein Outfit aus.
+Möchtest du das Fotoshooting abbrechen?
+Ist alles bereit?
+Bist du mit diesem Outfit zufrieden?
+Bist du mit diesem Outfit zufrieden?
+Du bittest {0x0102,0x0000}, dir eine[0x000A]entschlossene Pose wie im Kampf zu zeigen.{0xBE01}
+Du bittest {0x0102,0x0000}, dir eine niedliche[0x000A]Pose wie bei der PokéPause zu zeigen.{0xBE01}
+Du hast einen Satz Fotos geschossen.{0xBE01}
+Die Pose wurde geändert.{0xBE01}
+Fotos, die du nicht ausgewählt hast, werden[0x000A]gelöscht. Möchtest du trotzdem fortfahren?
+Die Fotodaten werden gespeichert...[0x000A]Bitte das System nicht ausschalten.
+Die Fotodaten wurden gespeichert.{0xBE01}
+Die maximale Anzahl an Fotos, die du über den[0x000A]Alola-Fotoclub speichern kannst, ist erreicht.{0xBE01}[0x000A]Bitte schaffe neuen Platz, indem du nicht[0x000A]benötigte Fotos in deinem Bilderalbum löschst.{0xBE01}
+Du kannst maximal 420 Fotos über den[0x000A]Alola-Fotoclub speichern.{0xBE01}[0x000A]Es k{0x1101,0x0000,0x0402}anönnen demnach noch {0x0200,0x0000} Foto{0x1101,0x0000,0x0100}s über den[0x000A]Alola-Fotoclub gespeichert werden.{0xBE01}[0x000A]Wenn die maximale Anzahl erreicht wurde,[0x000A]kannst du keine weiteren Fotos schießen.{0xBE01}[0x000A]Bitte schaffe neuen Platz, indem du nicht[0x000A]benötigte Fotos in deinem Bilderalbum löschst.{0xBE01}
+Du kannst maximal 420 Fotos über den[0x000A]Alola-Fotoclub speichern.{0xBE01}[0x000A]Es k{0x1101,0x0000,0x0402}anönnen demnach noch {0x0200,0x0000} Foto{0x1101,0x0000,0x0100}s gespeichert[0x000A]werden.{0xBE01}
+Pokémon
+Pokémon und Trainer
+{0x0102,0x0000}
+Hintergrund 1
+Abenteuer-Outfit
+Fotomodelle
+Pokémon
+Hintergrund
+Outfit
+Bildaufbau
+Fotoshooting 6
+Fotoshooting starten
+Bitte wähle eine Pose aus.
+O.K.
+Ja
+Nein
+O.K.
+Item ändern
+Abbrechen
+Fotoshooting fortsetzen
+Von vorne anfangen
+Beenden
+Route 1 (A)
+Route 1 (B)
+Fossilienlabor
+Route 3
+Plätscherhügel (A)
+Wela-Vulkanpark
+Mount Lanakila
+Canyon von Poni
+Hauholi-Friedhof
+Verlassener Laden
+Poni-Blumenmeer
+Route 1 (C)
+Mele-Mele-Blumenmeer
+Ula-Ula-Blumenmeer
+Po’u
+Lili’i
+Ohana
+Hauholi City
+Konikoni City
+Route 8
+Trainerschule
+Kala’e-Bucht
+Strand von Hauholi City
+Route 14
+Plätscherhügel (B)
+Route 15
+Tenkarat-Hügel
+Meereshöhle
+Ruinen des Krieges
+Klassenzimmer
+Lottervilla
+Vegetationshöhle
+Kammer der Top Vier (A)
+Kammer der Top Vier (B)
+Kammer der Top Vier (C)
+Kammer der Top Vier (D)
+Saal des Champs
+Æther-Paradies (A)
+Æther-Paradies (C)
+Æther-Paradies (B)
+Sonnenkreis-Podium
+Mondscheiben-Podium
+Kampfbaum
+Battle Royale
+Kampfagentur
+Haina-Wüste
+Mahalo-Bergpfad
+Dorf des Seevolkes
+Malihe-Ziergarten
+Schattendschungel
+Eishöhle
+Ohana-Farm (A)
+Ohana-Farm (B)
+Felsenküste von Poni
+Plattform am See
+Indigo Plateau
+Glockenturm
+Tiefseehöhle
+Speersäule
+Himmelspfeilbrücke
+Illumina City
+Herzchen
+Weltall
+Festkuchen
+Z-Bühne
+Feierlichkeiten
+Hintergrund 67
+Hintergrund 68
+Fotomodelle
+Pokémon
+Hintergrund
+Bildaufbau
+Outfit
+Vorderansicht
+Seitenansicht
+Individuelles Outfit 1
+Individuelles Outfit 2
+Individuelles Outfit 3
+Reitausrüstung (Luft)
+Reitausrüstung (Land)
+Reitausrüstung (Wasser)
+Zurück zur Modus-Auswahl
+Neu
+Bitte wähle einen Bildaufbau aus.
+Hier kannst du es nicht platzieren!
+Hier hat es keinen Platz für Posen!
+Hier hat es kaum Platz für Posen!
+Hier hat es wenig Platz für Posen!
+Die Ausrichtung ist nicht möglich!
+Hier ist kein Platz zum Drehen!
+Bitte wähle eine Pose.
+Bitte drehe die Spielfigur.
+Hier ist kein Platz zum Drehen!
+Die SD Card wird aktualisiert...[0x000A]Bitte das System nicht ausschalten.
+Die SD Card wurde aktualisiert.{0xBE01}
+Ändern
+Löschen
+Favoriten hinzufügen/entfernen
+Abbrechen
+Bitte wähle Fotos aus!{0xBE01}
+Die Auswahl wird gelöscht.[0x000A]Willst du wirklich fortfahren?
+Die Auswahl wird gelöscht...[0x000A]Bitte das System nicht ausschalten.
+Die Auswahl wurde gelöscht.{0xBE01}
+Foto zu Favoriten hinzugefügt.{0xBE01}
+Foto aus Favoriten entfernt.{0xBE01}
+Bitte wähle einen Aufnahmemodus.[0x000A][0x000A]Vereinfachter Modus:[0x000A]Die einfache Methode, um Fotos zu schießen.[0x000A]Alles, was du tun musst, ist Posen festlegen.[0x000A][0x000A]Professioneller Modus:[0x000A]Stelle vor der Aufnahme den Kamerawinkel ein[0x000A]und verändere die Position deines Pokémon.
+Jetzt hast du die Gelegenheit, dich auf das[0x000A]Fotoshooting vorzubereiten. Berühre einzelne[0x000A]Optionen, um Änderungen vorzunehmen.[0x000A]Wenn du fertig bist, musst du die Schaltfläche[0x000A]„Fotoshooting starten“ berühren.
+Im professionellen Modus erhältst du Zugriff auf[0x000A]verschiedene Optionen, die im vereinfachten[0x000A]Modus nicht verfügbar sind. Dazu gehören:[0x000A][0x000A]・Fotomodelle[0x000A]・Hintergrund[0x000A]・Outfit
+Über diese Option kannst du den Hintergrund[0x000A]festlegen. Mit dem Y-Knopf kannst du die[0x000A]Tageszeit ändern, die auf dem Hintergrund zu[0x000A]sehen ist. Es gibt jedoch einige Hintergründe,[0x000A]bei denen das nicht möglich ist.
+Diese Option ermöglicht es dir, das Outfit deiner[0x000A]Spielfigur vorübergehend zu ändern. Möchtest[0x000A]du deine Kleidung selbst zusammenstellen, dann[0x000A]wähle eins der drei individuellen Outfits aus und[0x000A]lege über das Kleidungssymbol in der Ecke[0x000A]rechts unten dein Erscheinungsbild fest.
+Lass dein Pokémon Posen machen, um das[0x000A]perfekte Foto zu schießen.
+Betätige diesen Schalter, damit dein Pokémon[0x000A]entweder eine niedliche oder eine entschlossene[0x000A]Pose einnimmt.
+Berühre den Posierknopf, um dein Pokémon[0x000A]posieren zu lassen. Du kannst den Knopf auch[0x000A]mehrmals berühren, um herauszufinden, welche[0x000A]Posen dein Pokémon beherrscht.
+Berühre den Aktionsknopf, um eine Animation[0x000A]auszuwählen, die deine Spielfigur ausführen soll.[0x000A]Drücke danach den Wiedergabeknopf, um diese[0x000A]abzuspielen. Berührst du diesen Knopf während[0x000A]der Wiedergabe erneut, wird die Animation an[0x000A]der aktuellen Stelle angehalten.
+Über die Schaltflächen am linken Bildschirmrand[0x000A]kannst du verschiedene Menüs aufrufen, um das[0x000A]Bild zu bearbeiten. Die oberste Schaltfläche[0x000A]öffnet das Aufnahmemenü. Mit der untersten[0x000A]öffnest du die Kameraeinstellungen, wo du unter[0x000A]anderem die Position der Kamera ändern kannst.
+Im professionellen Modus erhältst du Zugriff auf[0x000A]Funktionen, die im vereinfachten Modus nicht[0x000A]verfügbar sind. Dazu gehört unter anderem die[0x000A]Möglichkeit, die Position deines Pokémon sowie[0x000A]den Kamerawinkel zu ändern. Optimiere die[0x000A]Einstellungen und schieße das perfekte Foto!
+Die Schaltflächen öffnen die folgenden Menüs:[0x000A]1. Aufnahmemenü[0x000A]2. Pokémon-Positionierungsmenü[0x000A]3. Pokémon-Ausrichtungsmenü[0x000A]4. Spielfigur-Ausrichtungsmenü[0x000A]5. Kameraeinstellungen
+Hier kannst du die Kamera einstellen. Nutze die[0x000A]Schieberegler, um Folgendes zu ändern:[0x000A]- Zoom[0x000A]- Kamerahöhe[0x000A]- Kameraposition
+Im Gegensatz zum vereinfachten Modus kannst[0x000A]du über den professionellen Modus die Kamera[0x000A]drehen. Probiere verschiedene Winkel aus!
+Hier kannst du die Kamera einstellen. Nutze die[0x000A]Schieberegler, um Folgendes zu ändern:[0x000A]- Zoom[0x000A]- Kamerahöhe[0x000A]- Kameraposition[0x000A]- Kamerawinkel
+Hier kannst du die Position deines Pokémon[0x000A]ändern. Berühre das Pokémon-Symbol und[0x000A]ziehe es an eine beliebige Stelle. Färbt sich[0x000A]das Symbol rot, kannst du das Pokémon an[0x000A]dieser Stelle nicht absetzen.
+Hier kannst du dein Pokémon drehen. Rotiere[0x000A]die Pfeile, um die Ausrichtung deines Pokémon[0x000A]beliebig zu ändern. Färbt sich das Symbol[0x000A]deines Pokémon rot, ist der gewählte Winkel[0x000A]nicht zulässig.
+Hier kannst du deine Spielfigur drehen. Rotiere[0x000A]die Pfeile, um die Ausrichtung deiner Spielfigur[0x000A]beliebig zu ändern. Färbt sich das Symbol deiner[0x000A]Spielfigur rot, ist der gewählte Winkel nicht[0x000A]zulässig.
+Jedes Mal, wenn du auf den Auslöser drückst,[0x000A]werden sechs Fotos geschossen. Markiere[0x000A]danach alle Bilder, die du speichern möchtest,[0x000A]indem du sie berührst, und bestätige mit O.K.
+Hier kannst du den Blickwinkel deines Pokémon[0x000A]ändern. Bewege den Touchpen über den[0x000A]Touchscreen, um dein Pokémon zu drehen.
+Hier kannst du den Blickwinkel deiner Spielfigur[0x000A]ändern. Bewege den Touchpen über den[0x000A]Touchscreen, um deine Spielfigur zu drehen.
+Bitte wähle einen Modus aus.
+Vereinfachter Modus
+Professioneller Modus
+Bitte bereite dich auf das Fotoshooting vor.
+{0x0102,0x0000}
+Wähle aus, welche Fotos du behalten möchtest.[0x000A]A-Knopf: Auswählen/Abwählen   Y-Knopf: O.K.
+Willst du weitere Fotos schießen?
+Dummy
+Dummy
+Dummy
+Dummy
+{0x0102,0x0000} sieht sehr fröhlich aus!
+{0x0102,0x0000} schämt sich ein bisschen...
+{0x0102,0x0000} wirkt ziemlich zufrieden!
+{0x0102,0x0000} wirkt ein bisschen überrascht!
+{0x0102,0x0000} wirkt glücklich!
+Die Position des Pokémon wird aus Platzgründen[0x000A]zurückgesetzt. Möchtest du fortfahren?
+Dieser Bildaufbau ist nicht verfügbar!

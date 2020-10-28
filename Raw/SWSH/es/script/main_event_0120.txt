@@ -1,0 +1,10 @@
+main_event_0120_rival_01=Lionel, me voy a volver superfuerte. ¡Vas a ver!{0xBE01}[0x000A]¡Anda, estírate y deja que combata en los[0x000A]{0xFF00,0x0006}Gimnasios Pokémon{0xFF00,0x0000}!{0x0114,0x0005}
+main_event_0120_champion_01=Tú no te andas con medias tintas, ¿eh?{0xBE01}[0x000A]¿Así que quieres participar en el {0xFF00,0x0006}desafío de los{0xFF00,0x0000}[0x000A]{0xFF00,0x0006}gimnasios{0xFF00,0x0000}, el mayor evento de la región de{0xBE00}[0x000A]Galar?{0x0114,0x0004}
+main_event_0120_champion_02=¡No me extraña! Pero, antes de nada, tenéis que[0x000A]aprender más sobre los Pokémon.{0x0114,0x0004}
+main_event_0120_champion_05=¡Y no hay mejor forma de hacerlo que con una[0x000A]Pokédex! Necesitáis conseguirla cuanto antes.{0x0114,0x0004}
+main_event_0120_champion_03=Llevadla siempre encima y podréis obtener[0x000A]información muy útil sobre los Pokémon y de lo{0xBE00}[0x000A]que son capaces.{0xBE01}[0x000A]Pero no creáis que se trata solo de rellenar[0x000A]entradas con datos, no. Es mucho más que eso.{0xBE01}[0x000A]Pronto veréis que completar la Pokédex es una[0x000A]muestra del entusiasmo y amor que se siente por{0xBE00}[0x000A]los Pokémon.{0x0114,0x0004}
+main_event_0120_rival_02=¡Tenemos una misión, {0x0100,0x0000}!{0xBE01}[0x000A]Si queremos una Pokédex, tenemos que ir al[0x000A]Laboratorio Pokémon.{0x0114,0x0005}
+main_event_0120_champion_04=¡Me gusta este entusiasmo que os traéis! Se lo[0x000A]haré notar a la profesora.{0x0114,0x0004}
+main_event_0120_rival_03=¡Yo voy a ser el nuevo Campeón!{0xBE01}[0x000A]Completar la Pokédex será pan comido. ¡Y solo[0x000A]el principio! Me pienso convertir en una leyenda.{0x0114,0x0005}
+main_event_0120_rival_04=Deberías contarle a tu madre que nos vamos a[0x000A]buscar una Pokédex.{0x0114,0x0005}
+main_event_0120_rivalmama_01=¡Uy, veo que has encontrado un compañero[0x000A]monísimo! ¡Felicidades!

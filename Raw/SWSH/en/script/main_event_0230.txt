@@ -1,0 +1,10 @@
+main_event_0230_rival_01=Level with me, {0x0100,0x0000}.[0x000A]Is this your first time in a Pokémon Center?{0x0114,0x0005}
+main_event_0230_select_01=Yes...
+main_event_0230_select_02=Of course not
+main_event_0230_rival_02=Then I don’t think you need me to tell you what[0x000A]you already know.{0x0114,0x0005}
+main_event_0230_rival_03=Then the future Champion’s got you covered!{0x0114,0x0005}
+main_event_0230_rival_04=First things first—you talk to the lady at the[0x000A]counter if you want your Pokémon healed up.{0x0114,0x0005}
+main_event_0230_rival_05=And Pokémon you catch are kept in computers[0x000A]like the one you can find here, see?{0xBE01}[0x000A]After all, you can only bring six Pokémon with[0x000A]you on the road in your party.{0x0114,0x0005}
+main_event_0230_youngm_01=The Potions they sell at the Poké Mart got me[0x000A]out of a real rough spot the other day!
+main_event_0230_middlem_01=If you two kids are Pokémon Trainers, you might[0x000A]want to buy some Potions before you head out!
+main_event_0230_rival_06=Cheers! I’m already good, though.{0xBE01}[0x000A]I’m heading to Route 2, {0x0100,0x0000}![0x000A]Come find me, maybe, when you’re done here!{0x0114,0x0005}

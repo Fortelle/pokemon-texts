@@ -1,0 +1,17 @@
+main_event_0070_rivalmama_01={0xBDFF:0x0000}
+main_event_0070_champion_01=仔細瞧瞧[0x000A]牠們是什麼樣的寶可夢吧！{0x0114,0x0004}
+main_event_0070_rival_01=大哥！[0x000A]說好的禮物呢！？{0xBE01}[0x000A]你不是說過要送寶可夢[0x000A]給我跟{0x0100,0x0000}嗎？{0x0114,0x0005}
+main_event_0070_champion_02=當然囉！就讓我這最強的冠軍[0x000A]送給你們最棒的禮物吧！{0xBE01}[0x000A]來！出色的寶可夢們，[0x000A]大家出來秀一下吧！{0x0114,0x0004}
+main_event_0070_champion_03=草屬性寶可夢[0x000A]敲音猴！{0x0114,0x0004}
+main_event_0070_champion_04=火屬性寶可夢[0x000A]炎兔兒！{0x0114,0x0004}
+main_event_0070_champion_05=水屬性寶可夢[0x000A]淚眼蜥！{0x0114,0x0004}
+main_event_0070_poke1_01={0xBDFF:0x0007}
+main_event_0070_poke2_01={0xBDFF:0x0008}
+main_event_0070_poke3_01={0xBDFF:0x0009}
+main_event_0070_champion_06={0xBDFF:0x000A}
+main_event_0070_rival_02={0xBDFF:0x000B}
+main_event_0080_champion_06=OK！大家集合！{0x0114,0x0004}
+main_event_0081_champion_01=如何？要選哪一隻寶可夢呢？{0x0114,0x0004}
+main_event_0081_poke1_01=炎兔兒
+main_event_0081_poke2_01=淚眼蜥
+main_event_0081_poke3_01=敲音猴

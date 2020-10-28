@@ -1,0 +1,12 @@
+main_event_1340_sister_01=Z’ALLEZ LA BOUCLER, OUI ?!{0x0114,0x000D}
+main_event_1340_sister_02=Ah, {0x0100,0x0000} !{0x0114,0x000D}
+main_event_1340_sister_03=J’suis désolée...{0xBE01}[0x000A]Ces idiots de l’Arène viennent de m’dire[0x000A]que c’est pour moi qu’ils ont fermé le rideau...{0x0114,0x000D}
+main_event_1340_trainer1_01=Fallait bien qu’on trouve quelque chose ![0x000A]Smashings est en train de tomber à l’abandon !{0xBE01}[0x000A]Et Peterson, le soi-disant Champion, il fait rien ![0x000A]Il se contente de dire : « Ça va alleeer... » !{0x0114,0x0043}
+main_event_1340_trainer2_01=Donc on... Bah on a décidé de créer la Team Yell.[0x000A]On s’est dit qu’il fallait mettre des bâtons{0xBE00}[0x000A]dans les roues des autres Challengers.{0x0114,0x0044}
+main_event_1340_trainer1_02=S’ils peuvent pas entrer dans l’Arène,[0x000A]ils seront bloqués, tu vois ?{0xBE01}[0x000A]Et Rosemary, tu s’rais la seule à pouvoir[0x000A]terminer le Défi et à aller aux Poké Masters !{0x0114,0x0043}
+main_event_1340_trainer2_02=Voilà. Ça augmenterait tes chances de d’venir[0x000A]Maître, tu vois ?{0x0114,0x0044}
+main_event_1340_sister_04=J’hallucine ![0x000A]On n’a pas la même définition de « supporters » !{0x0114,0x000D}
+main_event_1340_sister_05={0x0100,0x0000}, t’occupe pas de tout ça,[0x000A]et fonce.{0x0114,0x000D}
+main_event_1340_trainer1_03=On va s’faire passer un savon par la choupinette,[0x000A]la lose. Ils sont interminables, ses sermons...{0xBE01}[0x000A]Je me souviens qu’un jour, elle enguirlandait[0x000A]son Morpeko...{0xBE00}[0x000A]Eh ben l’machin, il s’est endormi avant la fin.{0x0114,0x0043}
+main_event_1340_trainer2_03=Peterson, c’est trop un bon chanteur ! Il a de la[0x000A]voix ! J’aime bien son chœur de Pokémon, aussi.{0x0114,0x0044}
+main_event_1340_trainer3_01=J’vais encourager Peterson à donf !{0x0114,0x005E}

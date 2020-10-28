@@ -1,0 +1,8 @@
+msg_t007r0301_cook_01=Hey, a new face! Welcome!{0xBE01}[0x000A]This place is always packed with regulars.
+msg_t007r0301_middlef_01=My Pokémon are weak, so I often buy medicines[0x000A]at the department store.
+msg_t007r0301_middlem_01=Hey, you... Mmm...nmm...nom...[0x000A]Y’know what I heard?{0xBE01}[0x000A]Seems there’re several floors hidden below[0x000A]the Game Corner...
+msg_t007r0301_fat_01=Mmm...nom...nmmm...{0xBE01}[0x000A]I’ll eat all the curry they can carry!
+msg_middlem1_01_p01_t007_r0501=Yeesh...{0xBE01}[0x000A]I played so much at the Game Corner that my[0x000A]hands are twitching.{0xBE01}[0x000A]Games are way too much fun these days!
+msg_middlem1_01_p02_t007_r0501={0xBDFF:0x0005}
+msg_middlem1_01_p03_t007_r0501={0xBDFF:0x0006}
+msg_middlem1_01_p04_t007_r0501={0xBDFF:0x0007}

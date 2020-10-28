@@ -1,0 +1,8 @@
+Du da! Benutze das hier, um die Kraftreserven[0x000A]deiner Pokémon freizusetzen! Das kommt gut!
+Ich besitze die Gabe, den Typ der Kraftreserve[0x000A]zu erahnen.{0xBE01}[0x000A]Wenn ein Pokémon die Attacke Kraftreserve[0x000A]erlernt, weiß ich genau, welchen Typs diese{0xBE00}[0x000A]sein wird.{0xBE01}[0x000A]Keine Ahnung, weshalb ich über diese Fähigkeit[0x000A]verfüge, aber wo ich sie schon mal habe...{0xBE01}[0x000A]Ich demonstriere dir mein Können gerne[0x000A]an einem Pokémon deiner Wahl.
+Meine besondere Gabe lässt mich voraussagen,[0x000A]welchen Typs die Kraftreserve eines Pokémon{0xBE00}[0x000A]deiner Wahl sein wird.{0xBE01}[0x000A]Habe ich dein Interesse geweckt?
+Würde dieses Pokémon Kraftreserve erlernen,[0x000A]dann wäre die Attacke vom Typ {0x0103,0x0000}.
+Wenn dieses Pokémon Kraftreserve einsetzt,[0x000A]dann ist die Attacke vom Typ {0x0103,0x0000}.
+Wenn du noch Fragen hast, lass es mich wissen.[0x000A]Für dich hab ich immer etwas Kraft in Reserve!
+Ein Ei kann Kraftreserve nicht erlernen.
+Dieses Pokémon kann Kraftreserve leider nicht[0x000A]erlernen.

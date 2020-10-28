@@ -1,0 +1,80 @@
+{0x0102,0x0000}
+{0xBDFF:0x0001}
+{0x0107,0x0000}
+{0x0109,0x0000}
+{0x0100,0x0000}
+{0xBDFF:0x0005}
+l
+{0x0202,0x0000}
+/
+{0x0202,0x0000}
+Bericht
+Regenerieren
+Item
+Terrain-Attacke
+Zurück
+Benutzen/Geben
+Nehmen
+Weitergeben
+Teilnehmen
+Nicht teilnehmen
+Pokémon abgeben
+O.K.
+{0xBDFF:0x0016}
+Pokémon
+Items
+Wähle ein Pokémon.
+Welches Pokémon willst du bewegen?
+Welches Item möchtest du bewegen?
+An welche Stelle möchtest du es setzen?
+An welche Stelle möchtest du es setzen?
+Auf welches Pokémon anwenden?
+{0x0102,0x0000} wurde ausgewählt.[0x000A]Was nun?
+Welche Terrain-Attacke soll {0x0102,0x0000}[0x000A]einsetzen?
+Welches Pokémon willst du bewegen?
+Mit welchem Pokémon kämpfen?
+Wähle ein Item aus dem Beutel aus und[0x000A]benutze es oder gib es einem Pokémon.
+Lege ein Item, mit dem ein Pokémon[0x000A]ausgestattet ist, in den Beutel zurück.
+Gib ein Item, mit dem ein Pokémon[0x000A]ausgestattet ist, einem anderen Pokémon.
+{0x0102,0x0000} trägt kein Item bei sich.
+{0x0109,0x0001} von[0x000A]{0x0102,0x0000} erhalten.
+Du hast keinen Platz dafür!
+Das kann nicht auf dieses Pokémon[0x000A]angewendet werden.
+Nicht genügend KP...
+{0x0101,0x0000} hat seine Form verändert!
+Das lässt sich hier nicht einsetzen.
+{0xBDFF:0x002D}
+{0xBDFF:0x002E}
+{0xBDFF:0x002F}
+{0xBDFF:0x0030}
+{0xBDFF:0x0031}
+Es kann nicht mehr als ein Pokémon[0x000A]teilnehmen.
+Es können nicht mehr als zwei Pokémon[0x000A]teilnehmen.
+Es können nicht mehr als drei Pokémon[0x000A]teilnehmen.
+Es können nicht mehr als vier Pokémon[0x000A]teilnehmen.
+Es können nicht mehr als fünf Pokémon[0x000A]teilnehmen.
+Nicht zulässig
+{0xFF00,0x0002}NUMMER 1{0xFF00,0x0000}
+{0xFF00,0x0002}NUMMER 2{0xFF00,0x0000}
+{0xFF00,0x0002}NUMMER 3{0xFF00,0x0000}
+{0xFF00,0x0002}NUMMER 4{0xFF00,0x0000}
+{0xFF00,0x0002}NUMMER 5{0xFF00,0x0000}
+{0xFF00,0x0002}NUMMER 6{0xFF00,0x0000}
+O.K.!
+{0xFF00,0x0001}Nein!{0xFF00,0x0000}
+{0xFF00,0x0002}Kennt Attacke!{0xFF00,0x0000}
+{0xFF00,0x0001}Nicht wählbar!{0xFF00,0x0000}
+Du kannst nur mit unterschiedlichen Pokémon[0x000A]antreten.
+Einige Pokémon sind mit identischen Items[0x000A]ausgestattet.
+Der Gesamt-Level aller Team-Pokémon[0x000A]liegt über {0x0202,0x0000}.
+Es sind {0x0200,0x0000} oder mehr besondere Pokémon[0x000A]vorhanden.
+Es wurde kein Pokémon zur Teilnahme[0x000A]ausgewählt.
+Die Teilnahmebedingungen wurden nicht erfüllt.
+Verbindung wird hergestellt...[0x000A]Bitte warte einen Moment.
+Restzeit
+{0x0201,0x0000}:{0x0201,0x0001}
+{0x0201,0x0001}
+Bereit
+Ja
+Nein
+{0x0200,0x0000}/{0x0200,0x0001}

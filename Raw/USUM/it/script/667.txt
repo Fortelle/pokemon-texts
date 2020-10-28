@@ -1,0 +1,14 @@
+Dai, giochiamo!{0x0114,0x003E}
+Acquaaa, Erbaaa, Fuoco!{0x0114,0x003F}
+Mmh...[0x000A]Chi è che vince, in questo caso?{0x0114,0x003E}
+Chi vince tra Fuoco e Acqua?{0x0114,0x003F}
+Chi vince tra Fuoco ed Erba?{0x0114,0x003F}
+Chi vince tra Acqua e Fuoco?{0x0114,0x003F}
+Chi vince tra Acqua ed Erba?{0x0114,0x003F}
+Chi vince tra Erba e Fuoco?{0x0114,0x003F}
+Chi vince tra Erba e Acqua?{0x0114,0x003F}
+Fuoco
+Acqua
+Erba
+Aaah, giusto![0x000A]Si vede che te ne intendi!{0x0114,0x003F}
+Sicur{0x1100,0x00FF,0x0101}oa? Non mi pare proprio...[0x000A]Ci stai prendendo in giro, per caso?{0x0114,0x003E}

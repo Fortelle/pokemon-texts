@@ -1,0 +1,9 @@
+main_event_1435_leader_01=Hey, {0x0100,0x0000}!{0x0114,0x0017}
+main_event_1435_leader_02=Ich will dich nicht lange aufhalten, aber ich hatte[0x000A]da noch was vergessen...{0x0114,0x0017}
+main_event_1435_leader_04=Erstens wollte ich dir als Zeichen meines[0x000A]Respekts noch die TM99 geben. Sie enthält{0xBE00}[0x000A]die Attacke Breitseite.{0x0114,0x0017}
+main_event_1435_leader_05=Und zweitens wollte ich dir die Uniform[0x000A]der Drachen-Arenatrainer überreichen.{0xBE01}[0x000A]Die kriegen nur echte Gewinnertypen wie[0x000A]du und ich!{0x0114,0x0017}
+main_event_1435_leader_03=Hiermit hast du, Challenger {0x0100,0x0000}[0x000A]mit der Trikotnummer {0x01C4,0x0001},{0xBE00}[0x000A]die Arena-Challenge abgeschlossen.{0xBE00}[0x000A]Herzlichen Glückwunsch!{0xBE01}[0x000A]Jetzt kannst du deine Stärke beim Champ-Cup[0x000A]unter Beweis stellen!{0x0114,0x0017}
+main_event_1435_rivl_01=Und du, Roy, musst mir nun deine Stärke[0x000A]beweisen!{0x0114,0x0005}
+main_event_1435_leader_06=Aha, da ist er ja endlich! Delions kleiner Bruder!{0xBE01}[0x000A]Ich nehme deine Herausforderung an. Und ich[0x000A]werde dich ordentlich in die Mangel nehmen!{0xBE01}[0x000A]Nach diesem Kampf wird dir nichts anderes[0x000A]übrigbleiben, als das Handtuch zu werfen und{0xBE00}[0x000A]die Arena-Challenge aufzugeben!{0x0114,0x0017}
+main_event_1435_rivl_02=Aufgeben kommt für mich nicht in Frage.{0xBE01}[0x000A]Ich habe jede Menge herumexperimentiert[0x000A]und bin stärker, als du dir je vorstellen könntest!{0xBE01}[0x000A]Ich werde euch alle besiegen.{0xBE01}[0x000A]Roy, {0x0100,0x0000} und natürlich auch meinen[0x000A]Bruder... Einfach jeden von euch!{0x0114,0x0005}
+main_event_1435_leader_07=Mach’s gut, {0x0100,0x0000}! Ich freu mich[0x000A]schon auf unseren nächsten Kampf!{0xBE01}[0x000A]Aber ich rate dir, vorher fleißig in der Naturzone[0x000A]zu trainieren.{0x0114,0x0017}

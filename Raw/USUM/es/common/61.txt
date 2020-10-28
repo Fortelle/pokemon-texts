@@ -1,0 +1,127 @@
+No tienes espacio para recibir más regalos.[0x000A]Haz sitio en tu Álbum de Tarjetas.{0xBE01}[0x000A]Ve a ver al repartidor en cualquier Centro[0x000A]Pokémon para recoger cualquier regalo que no{0xBE00}[0x000A]hayas recibido todavía.{0xBE01}
+Aún te queda{0x1101,0x0000,0x0100}n {0x0200,0x0000} regalo{0x1101,0x0000,0x0100}s por recibir.{0xBE01}[0x000A]Ve a ver al repartidor en cualquier Centro[0x000A]Pokémon para recogerlo{0x1101,0x0000,0x0100}s.{0xBE01}
+Elige cómo quieres recibir tu regalo.
+Se iniciará la comunicación por infrarrojos.{0xBE01}[0x000A]Coloca tu consola frente a la del otro jugador y[0x000A]selecciona “Sí”.
+Buscando regalo...[0x000A]Progreso: {0x0202,0x0000}/100
+No se ha podido recibir el regalo.{0xBE01}
+{0xBDFF:0x0006}
+¡Advertencia!{0xBE01}[0x000A]Si la consola se apaga o la conexión se[0x000A]interrumpe mientras estás recibiendo un regalo{0xBE00}[0x000A]mediante un código o una contraseña, es posible{0xBE00}[0x000A]que no puedas volver a utilizar ese código o esa{0xBE00}[0x000A]contraseña para recibir el regalo.{0xBE01}[0x000A]Comprueba el estado de la batería y la[0x000A]estabilidad de la conexión antes de iniciar la{0xBE00}[0x000A]recepción.{0xBE01}[0x000A]¿Quieres usar el código o contraseña ahora[0x000A]para recibir el regalo?
+¿Quieres conectarte a internet?
+Conexión en curso...[0x000A]Espera un momento.
+Has introducido varias veces un código o una[0x000A]contraseña incorrectos, por lo que no puedes{0xBE00}[0x000A]volver a intentarlo hasta dentro de un rato.{0xBE01}
+Introduce el código o contraseña.{0xBE01}
+Se está realizando la comprobación...[0x000A]No apagues la consola.
+La contraseña o el código introducido son[0x000A]incorrectos. Compruébalo, por favor.{0xBE01}
+¿Quieres introducir de nuevo el código o la[0x000A]contraseña?
+No se ha encontrado ningún regalo.{0xBE01}
+Ya has recibido este regalo.[0x000A]No puedes volver a recibirlo.{0xBE01}
+¿Quieres cancelar la recepción del regalo?
+Recibiendo el regalo...[0x000A]No apagues la consola.
+Solo puedes recibir este regalo una vez al día.{0xBE01}[0x000A]Ya has recibido este regalo hoy.[0x000A]Vuelve a intentarlo mañana.{0xBE01}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+Solo puedes recibir este regalo una vez al día.{0xBE01}[0x000A]Una vez recibido, tendrás que esperar hasta el[0x000A]día siguiente para poder obtenerlo otra vez.{0xBE01}
+¡Se ha recibido el regalo![0x000A]Pulsa el botón A.{0xBE01}
+¿Qué quieres hacer con la Tarjeta Misteriosa?
+¿Seguro que quieres eliminar esta tarjeta?
+¡No se puede eliminar la Tarjeta Misteriosa[0x000A]porque aún no has recibido este regalo!{0xBE01}
+Elige la tarjeta que quieras mover.
+Guardando el álbum...[0x000A]No apagues la consola.
+No tienes espacio para recibir más regalos.{0xBE01}[0x000A]Ve a ver al repartidor en cualquier Centro[0x000A]Pokémon para recoger tus regalos.{0xBE01}
+¡Tu Álbum de Tarjetas está lleno![0x000A]No puedes recibir más regalos.{0xBE01}[0x000A]¿Quieres eliminar alguna Tarjeta Misteriosa?
+Selecciona una o más tarjetas que no necesites[0x000A]y elimínalas.{0xBE01}
+Si no eliminas alguna de las tarjetas, no podrás[0x000A]recibir más regalos.{0xBE01}[0x000A]¿Quieres salir?
+¿Seguro que quieres eliminar esta tarjeta?
+¿Sobre qué quieres información?
+En estos momentos no hay ningún regalo que[0x000A]puedas recibir.{0xBE01}[0x000A]Pulsa el botón B o toca Atrás para salir.{0xBE01}
+Se ha cancelado la operación porque no hay[0x000A]ningún regalo que puedas recibir.{0xBE01}
+Solo puedes recibir 10 regalos al día. Hoy ya has[0x000A]alcanzado ese máximo y no puedes recibir más.{0xBE01}[0x000A]Vuelve a intentarlo mañana.{0xBE01}
+La comunicación inalámbrica está desactivada.[0x000A]Activa la comunicación inalámbrica.{0xBE01}
+Hay datos de actualización disponibles para[0x000A]este juego.{0xBE01}[0x000A]Esos datos son necesarios para que el juego[0x000A]pueda establecer la conexión a internet.{0xBE01}[0x000A]¿Quieres salir del juego y acceder a[0x000A]Nintendo eShop para descargarlos?
+No se ha podido establecer la conexión a[0x000A]internet.{0xBE01}
+{0xBDFF:0x002C}
+Se ha eliminado la tarjeta.{0xBE01}
+Todavía no has recibido este regalo.[0x000A]¿Seguro que quieres hacerlo?
+La contraseña o el código introducido son[0x000A]incorrectos. Compruébalo, por favor.{0xBE01}
+No se puede recibir el regalo de este código o[0x000A]contraseña con este juego.{0xBE01}
+No se puede recibir el regalo de este código o[0x000A]contraseña con esta versión del juego.{0xBE01}
+Este código ya ha sido utilizado anteriormente.{0xBE01}[0x000A]No puede volver a usarse ni en este ni en ningún[0x000A]otro juego.{0xBE01}
+Ya has recibido el regalo que se ofrece con[0x000A]este código o contraseña.{0xBE01}
+Este código ya se ha utilizado en otro juego.{0xBE01}
+Aún no puedes recibir el regalo asociado a este[0x000A]código o contraseña.{0xBE01}
+La contraseña o código asociado a este regalo[0x000A]ya ha expirado, por lo que no podrás recibirlo.{0xBE01}
+No se ha podido actualizar el código o[0x000A]contraseña.{0xBE01}[0x000A]No se ha completado la recepción de este[0x000A]regalo.{0xBE01}
+Recibir regalo
+Ver Álbum de Tarjetas
+Información
+Sí
+No
+Ver reverso
+Ver anverso
+Eliminar tarjeta
+Mover
+Sobre el Álbum de Tarjetas
+Cuando el álbum está lleno
+Acerca de los Regalos Misteriosos
+Recibir por comunicación local
+Recibir por internet
+Recibir por infrarrojos
+Recibir mediante código o contraseña
+{0xBDFF:0x0048}
+Atrás
+{0x0200,0x0000}
+/
+Información
+¿Sobre qué quieres información?
+{0x012E,0x0000}
+{0x012E,0x0000}[0x000A]{0x012E,0x0001}[0x000A]{0x012E,0x0002}[0x000A]{0x012E,0x0003}[0x000A]{0x012E,0x0004}[0x000A]{0x012E,0x0005}[0x000A]{0x012E,0x0006}[0x000A]{0x012E,0x0007}
+{0x012D,0x0000}
+Botón A: Terminar
+Tarjeta Misteriosa
+Fecha de recepción
+{0x0201,0x0002}-{0x0201,0x0001}-20{0x0201,0x0000}
+{0x0201,0x0000}
+/
+{0x0201,0x0000}
+Distribución del regalo en curso: {0xFF00,0x0002}{0x012E,0x0000}{0xFF00,0x0000}
+Objetos entregados:[0x000A]{0x0202,0x0001} {0x0109,0x0000}
+Pokémon entregado:[0x000A]{0x0102,0x0000}　Nv. {0x0202,0x0001}
+Puntos de Batalla entregados:[0x000A]{0x0205,0x0000,0xE07F}
+Objetos entregados:[0x000A]{0x0202,0x0001} {0x0109,0x0000}[0x000A]{0x0202,0x0003} {0x0109,0x0002}
+Objetos entregados:[0x000A]{0x0202,0x0001} {0x0109,0x0000}[0x000A]{0x0202,0x0003} {0x0109,0x0002}[0x000A]{0x0202,0x0005} {0x0109,0x0004}
+Objetos entregados:[0x000A]{0x0202,0x0001} {0x0109,0x0000}[0x000A]{0x0202,0x0003} {0x0109,0x0002}[0x000A]{0x0202,0x0005} {0x0109,0x0004}[0x000A]{0x0202,0x0007} {0x0109,0x0006}
+Objetos entregados:[0x000A]{0x0202,0x0001} {0x0109,0x0000}[0x000A]{0x0202,0x0003} {0x0109,0x0002}[0x000A]{0x0202,0x0005} {0x0109,0x0004}[0x000A]{0x0202,0x0007} {0x0109,0x0006}[0x000A]{0x0202,0x0009} {0x0109,0x0008}
+Objetos entregados:[0x000A]{0x0202,0x0001} {0x0109,0x0000}[0x000A]{0x0202,0x0003} {0x0109,0x0002}[0x000A]{0x0202,0x0005} {0x0109,0x0004}[0x000A]{0x0202,0x0007} {0x0109,0x0006}[0x000A]{0x0202,0x0009} {0x0109,0x0008}[0x000A]{0x0202,0x000B} {0x0109,0x000A}
+{0xBD00,0x0003,0x0000,0x0000}Ya has recibido este regalo.{0xBD01}
+{0xBD00,0x0003,0x0000,0x0000}Hoy no puedes recibir más regalos.{0xBD01}
+Regalo entregado:[0x000A]Huevo Pokémon
+Álbum de Tarjetas
+Has recibido:[0x000A]{0x0102,0x0000}　Nv. {0x0202,0x0001}[0x000A]{0x0109,0x0002}
+Acerca de los Regalos Misteriosos
+Sobre el Álbum de Tarjetas
+Cuando el álbum está lleno
+Recibir regalo
+¿De qué modo quieres recibirlo?
+Regalo de PGL
+¡Estás en la zona del Regalo Misterioso![0x000A][0x000A]Aquí puedes utilizar los distintos modos de[0x000A]conexión para recibir obsequios extraordinarios.[0x000A][0x000A]Una vez que hayas aceptado un Regalo [0x000A]Misterioso, ve a ver al repartidor en cualquier[0x000A]Centro Pokémon para recogerlo.
+Cada vez que recibes un Regalo Misterioso,[0x000A]una Tarjeta Misteriosa se añade a tu Álbum[0x000A]de Tarjetas.[0x000A][0x000A]Cuando el repartidor te entregue el regalo, te[0x000A]pondrá un sello en la tarjeta en cuestión.[0x000A][0x000A]Si tienes alguna tarjeta sin sello, significa que[0x000A]aún debes ir a recoger tu regalo.
+En el álbum puedes guardar un máximo de 48[0x000A]tarjetas.[0x000A][0x000A]Cuando el álbum esté lleno, deberás hacer[0x000A]sitio para poder recibir más regalos.
+En el álbum puedes guardar un máximo de 48[0x000A]tarjetas.[0x000A][0x000A]Cuando el álbum esté lleno, deberás hacer[0x000A]sitio para poder recibir más regalos.
+Si no puedes recibir ningún regalo, échale[0x000A]un vistazo al Álbum de Tarjetas.[0x000A][0x000A]Cuando tengas 48 Tarjetas Misteriosas, no[0x000A]podrás almacenar más. Elige alguna cuyo regalo[0x000A]ya hayas recibido y deshazte de ella.
+Si todavía no has recibido todos los regalos[0x000A]de las tarjetas que tienes en el álbum, ve a ver[0x000A]al repartidor en cualquier Centro Pokémon.
+Si todavía no has recibido todos los regalos[0x000A]de las tarjetas que tienes en el álbum, ve a ver[0x000A]al repartidor en cualquier Centro Pokémon.
+En la zona del Regalo Misterioso puedes utilizar[0x000A]los distintos modos de conexión para recibir[0x000A]obsequios extraordinarios.[0x000A][0x000A]Una vez que hayas aceptado un Regalo[0x000A]Misterioso, vuelve al juego y ve a ver al[0x000A]repartidor en cualquier Centro Pokémon para[0x000A]recogerlo.
+Puedes recibir regalos de varios modos.[0x000A][0x000A]Selecciona el modo que prefieras para cada[0x000A]regalo que vayas a recibir:[0x000A]- Comunicación local[0x000A]- Internet[0x000A]- Infrarrojos[0x000A]- Código o contraseña
+No tienes tarjetas en el álbum.{0xBE01}
+Has recibido:[0x000A]{0x0202,0x0000} Pokéhaba{0x1101,0x0000,0x0100}s Irisada{0x1101,0x0000,0x0100}s
+Interrumpiendo la conexión...[0x000A]Por favor, espera.
+No es posible acceder a Nintendo eShop.{0xBE01}
+Se han eliminado todas las Tarjetas Misteriosas[0x000A]del Álbum de Tarjetas.{0xBE01}
+Se ha encontrado un regalo, pero no puede[0x000A]recibirse en este juego.{0xBE01}
+{0xBDFF:0x007B}
+{0xBDFF:0x007C}
+{0xBDFF:0x007D}
+{0xBDFF:0x007E}

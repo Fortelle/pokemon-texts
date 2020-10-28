@@ -1,0 +1,15 @@
+msg_main0905_sys_01={0xBDFF:0x0000}
+msg_main0905_red_01={0xBDFF:0x0001}
+msg_main0905_dummy_01={0xBDFF:0x0002}
+msg_main0905_red_02={0xBDFF:0x0003}
+msg_main0905_green_01={0xFF00,0x0009}Azul:{0xFF00,0x0000} ¿Quieres empezar tú, {0x0100,0x0000}?
+msg_main0905_green_02=Así se habla. ¡Prepárate!
+msg_main0905_dummy_02={0xBDFF:0x0006}
+msg_main0905_green_03=Bueno, pues allá tú.
+msg_main0905_green_04={0xFF00,0x0009}Azul:{0xFF00,0x0000} ¡Ajá! Estás más que preparad{0x1100,0x00FF,0x0101}oa para luchar[0x000A]contra el Team Rocket.{0xBE01}[0x000A]Dejo el destino de Silph S. A. en tus manos.
+msg_main0905_red_03={0xBDFF:0x0009}
+msg_main0905_sys_02={0xBDFF:0x000A}
+msg_main0905_green_05=¡Vale! Ahora te toca a ti, {0x0100,0x0001}.[0x000A]¡No pienso andarme con chiquitas!
+msg_main0905_rival_01={0xBDFF:0x000C}
+msg_main0905_rival_02={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Buf... Solo de veros ya se me[0x000A]han puesto los pelos de punta.{0xBE01}[0x000A]¡Cómo impone la mirada de los Pokémon de[0x000A]Azul! A ver qué tal se me da.{0xBE01}[0x000A]{0x0100,0x0000}, ve tirando, que ahora[0x000A]te alcanzo.
+msg_main0905_stafff_01={0xFF00,0x0009}Recepcionista:{0xFF00,0x0000} Azul es famoso por su destreza...[0x000A]Y no parece que te haya dejado ganar.{0xBE01}[0x000A]¡Impresionante! ¡Ojalá puedas ayudarnos a salvar[0x000A]a Silph S. A.!

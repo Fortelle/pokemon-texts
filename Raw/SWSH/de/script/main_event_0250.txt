@@ -1,0 +1,14 @@
+main_event_0250_rival_06=Hey, {0x0100,0x0000}!{0x0114,0x0005}
+main_event_0250_rival_01=Sag mal... Weißt du überhaupt schon, wie man[0x000A]Pokémon fängt? Falls nicht, erklär ich’s di--{0x0114,0x0005}
+main_event_0250_champion_01=Falls nicht, erklär ICH’S dir!{0xBE01}[0x000A]Wer einen Pokédex füllen will, sollte schließlich[0x000A]auch wissen, wie man Pokémon fängt.{0x0114,0x0004}
+main_event_0250_rival_02=Delion?!{0x0114,0x0005}
+main_event_0250_champion_05=Oh! Wie ich sehe, hast du bereits Pokémon[0x000A]gefangen. Gute Arbeit, {0x0100,0x0000}!{0xBE01}[0x000A]Die Pokébälle hat dir bestimmt deine Mutter[0x000A]geschenkt.{0x0114,0x0004}
+main_event_0250_champion_02=Jedes Pokémon gehört einem oder zwei Typen[0x000A]an, und jeder Typ hat Stärken und Schwächen!{0xBE01}[0x000A]Deshalb ist es sehr wichtig, dass du dir ein Team[0x000A]von Pokémon zusammenstellst, die ihre Stärken{0xBE00}[0x000A]und Schwächen gegenseitig ausgleichen können.{0xBE01}[0x000A]Aber genug der trockenen Theorie. Ich bin schon[0x000A]ganz heiß darauf, dir zu zeigen, wie man{0xBE00}[0x000A]Pokémon in der Praxis fängt! It’s champ time!{0x0114,0x0004}
+main_event_0250_capturedemo_01={0xBDFF:0x0006}
+main_event_0250_capturedemo_02={0xBDFF:0x0007}
+main_event_0250_capturedemo_03={0xBDFF:0x0008}
+main_event_0250_rival_03=Du hast es so was von drauf, Delion!{0x0114,0x0005}
+main_event_0250_champion_03=Hier habt ihr ein paar Pokébälle. Versprecht mir,[0x000A]dass ihr fleißig Pokémon fangt!{0xBE01}[0x000A]Hier in der Gegend kommen einem die Pokémon[0x000A]ja praktisch in die Arme gelaufen... Es ist fast so,{0xBE00}[0x000A]als suchten sie alle einen neuen Trainer!{0x0114,0x0004}
+main_event_0250_rival_04=Wenn ihr ein Pokémon fangt, bekommt euer[0x000A]Team dafür übrigens auch Erfahrungspunkte.{0x0114,0x0005}
+main_event_0250_champion_04=Stellt euch allen Trainern, die ihr unterwegs[0x000A]trefft, um eure Teams zu trainieren.{0xBE01}[0x000A]Als Champ bin ich schon sehr gespannt,[0x000A]welche Pokémon ihr euch aussuchen werdet.{0x0114,0x0004}
+main_event_0250_rival_05=Wartet’s nur ab! Ich werde in Nullkommanichts[0x000A]das allerbeste Team der Welt beisammen haben.{0xBE01}[0x000A]Die Professorin wird den Mund vor Staunen[0x000A]gar nicht mehr zukriegen!{0x0114,0x0005}

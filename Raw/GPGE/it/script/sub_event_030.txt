@@ -1,0 +1,9 @@
+msg_sub030_oldm_01=Ehilà, ehilà!{0xBE01}[0x000A]Ti ho vist{0x1100,0x00FF,0x0101}oa passare spesso da queste parti...[0x000A]Mi chiedevo quando saresti venut{0x1100,0x00FF,0x0101}oa a parlarmi!{0xBE00}[0x000A]Sai, a volte mi sento molto solo...{0xBE01}[0x000A]Ma perché mai avrò fatto costruire quel laghetto[0x000A]di fronte a casa mia...?
+msg_sub030_oldm_02=Non sai che fatica anche solo fare una semplice[0x000A]passeggiata...{0xBE01}[0x000A]Che sciocco che sono stato, da giovane...![0x000A]Un vero citrullo...!
+msg_sub030_oldm_05=Ero davvero un grandissimo babbeo!
+msg_sub030_oldm_03=Aah...! Che bello sfogo! Mi ci voleva proprio![0x000A]Mi sembra di essermi tolto un peso dalle spalle!{0xBE01}[0x000A]Grazie per avermi ascoltato! In cambio, voglio[0x000A]regalarti questa MT!
+msg_sub030_oldm_04=La MT26 contiene Velenpuntura. È una mossa[0x000A]che ti permette di sputare veleno su qualcuno...{0xBE00}[0x000A]Scherzo!{0xBE01}[0x000A]È una temibile mossa con cui il Pokémon[0x000A]colpisce l’avversario con un arto intriso di{0xBE00}[0x000A]veleno, e a volte riesce anche ad avvelenarlo!
+msg_oldman2_01_p01_field_t007={0xBDFF:0x0005}
+msg_oldman2_01_p02_field_t007={0xBDFF:0x0006}
+msg_oldman2_01_p03_field_t007={0xBDFF:0x0007}
+msg_oldman2_01_p04_field_t007={0xBDFF:0x0008}

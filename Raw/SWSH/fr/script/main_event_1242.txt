@@ -1,0 +1,12 @@
+main_event_1242_leader_01=Salut ! Moi, c’est Chaz.{0x0114,0x0014}
+main_event_1242_leader_02=Tu as réussi à venir jusqu’à moi en évitant[0x000A]tous les trous ! Bien !{0xBE01}[0x000A]Enfin, « bien »... C’est vraiment le minimum,[0x000A]si tu veux avoir une chance de m’affronter.{0x0114,0x0014}
+main_event_1242_leader_03=On ne peut pas dire que tu m’as impressionné,[0x000A]pendant cette Mission...{0xBE01}[0x000A]Mais bon, tu t’es accroché{0x1100,0x00FF,0x0100}e pour la compléter,[0x000A]c’est déjà ça.{0x0114,0x0014}
+main_event_1242_leader_04=Ça me fait de la peine de devoir humilier[0x000A]publiquement un{0x1100,0x00FF,0x0100}e petit{0x1100,0x00FF,0x0100}e jeune qui se lance...{0xBE01}[0x000A]Mais je compte bien utiliser ce combat pour[0x000A]prouver la supériorité écrasante de mes Pokémon !{0x0114,0x0014}
+main_event_1242_leader_05=Pas mal, pas mal.{0x0114,0x0014}
+main_event_1242_leader_06=Comme convenu, voici le Badge Roche.{0x0114,0x0014}
+main_event_1242_badge_01=Vous pouvez maintenant capturer des Pokémon[0x000A]jusqu’au niveau 50 !
+main_event_1242_leader_07=Oh, ne t’en fais pas pour moi.[0x000A]Je vis bien la défaite. Bien. Bien, bien, bien.{0xBE00}[0x000A]Je vais juste reprendre l’entraînement à fond.{0x0114,0x0014}
+main_event_1242_npc_01=Pour fêter ta victoire contre Chaz,[0x000A]tu obtiens cette CT !
+main_event_1242_npc_03=Et hop, cadeau : l’uniforme de Chaz ![0x000A]Comme ça, tu seras aussi classe que lui !
+main_event_1242_npc_02=Le Badge Roche te va super bien ![0x000A]Continue comme ça, {0x0100,0x0000} !
+main_event_1242_system_01=Voulez-vous retourner à la réception ?

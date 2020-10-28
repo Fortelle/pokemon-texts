@@ -1,0 +1,6 @@
+msg_main0160_rival_01={0xFF00,0x0009}{0x0100,0x0001} : {0xFF00,0x0000}Ah, cool ![0x000A]Je te cherchais !
+msg_main0160_rival_02=Il y a une {0xFF00,0x0006}Arène Pokémon{0xFF00,0x0000}, ici ! On peut y[0x000A]affronter son {0xFF00,0x0006}Champion{0xFF00,0x0000}, qui est super fort !
+msg_main0160_rival_05=Les Champions d’Arène sont impressionnants,[0x000A]mais si on veut progresser, il y a pas 36 solutions.{0xBE01}[0x000A]Il faut les affronter !
+msg_main0160_rival_04={0xFF00,0x0009}{0x0100,0x0001} :{0xFF00,0x0000} Je suis sûr que ton[0x000A]petit {0x0102,0x0003} brûle d’en{0xBE00}[0x000A]découdre, lui aussi !{0xBE01}[0x000A]D’ailleurs, pendant que j’y pense ![0x000A]J’ai des trucs pour toi.
+msg_main0160_sys_01={0x0100,0x0001} vous donne 5 Potions !
+msg_main0160_rival_03=J’ai fait des stocks grâce à l’argent que j’ai[0x000A]gagné en combattant ! Du coup, je t’ai pris{0xBE00}[0x000A]un petit quelque chose !{0xBE01}[0x000A]Bonne chance ! Si tu arrives à gagner contre[0x000A]un Champion d’Arène, c’est le signe que tu{0xBE00}[0x000A]commences à devenir un{0x1100,0x00FF,0x0100}e Dresseu{0x1100,0x00FF,0x0201}rse, un{0x1100,0x00FF,0x0100}e vrai{0x1100,0x00FF,0x0100}e !

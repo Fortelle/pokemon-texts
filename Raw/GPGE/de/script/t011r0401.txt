@@ -1,0 +1,7 @@
+msg_t011r0401_stafff_01=Oh, willkommen!{0xBE01}[0x000A]Du suchst den Präsidenten? Der befindet sich in[0x000A]seinem Büro im 10. Stock.
+msg_t011r0401_kanban_01=Hauptsitz der Silph Company[0x000A]EG
+msg_t011r0401_staffm_01=Offenbar waren es Kinder, die Team Rocket[0x000A]aus der Silph Company vertrieben haben!{0xBE00}[0x000A]Das warst doch nicht etwa...?{0xBE01}[0x000A]Ach, was red ich denn da! So ein Unsinn.
+msg_t011r0401_staffm_02=Jedes Werkzeug kann man sowohl zum Guten[0x000A]als auch zum Schlechten verwenden.{0xBE01}[0x000A]Wenn ich daran denke, was Team Rocket mit der[0x000A]Technologie der Silph Company hätte anstellen{0xBE00}[0x000A]können, läuft es mir eiskalt den Rücken runter...
+msg_t011r0401_staffm_03=Ich bin heute später in die Firma gekommen,[0x000A]weil ich ein Weilchen blaumachen wollte...{0xBE01}[0x000A]Und kaum bin ich wieder da, muss ich erfahren,[0x000A]was Team Rocket hier angestellt hat!{0xBE01}[0x000A]Das war vielleicht ein Schreck, sag ich dir!
+msg_t011r0401_stafff_02=Diese Sache mit der Übernahme hat uns ganz[0x000A]schön in Verzug gebracht, weil wir die ganze{0xBE00}[0x000A]Zeit über nicht arbeiten konnten...{0xBE01}[0x000A]Das müssen wir jetzt erst mal wieder aufholen!
+msg_t011r0401_stafff_03=Ob es bei meiner Versicherung als Arbeitsunfall[0x000A]durchgeht, dass Team Rocket mich eine Weile{0xBE00}[0x000A]lang festgehalten hat?

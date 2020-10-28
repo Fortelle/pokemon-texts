@@ -1,0 +1,9 @@
+msg_main0150_rival_01={0xFF00,0x0009}{0x0100,0x0001} : {0xFF00,0x0000}Hé ![0x000A]Salut, {0x0100,0x0000} !
+msg_main0150_rival_02=Tu voulais aller faire un tour à la {0xFF00,0x0006}Ligue Pokémon{0xFF00,0x0000},[0x000A]toi aussi ?{0xBE01}[0x000A]Normal, après tout, c’est là qu’on peut affronter[0x000A]les Dresseurs les plus puissants de la région...{0xBE00}[0x000A]le {0xFF00,0x0006}Conseil 4{0xFF00,0x0000} !
+msg_main0150_rival_03=J’aurais trop aimé réussir à les apercevoir,[0x000A]même de loin.{0xBE01}[0x000A]Mais tant qu’on a pas de Badges, c’est même[0x000A]pas la peine. On se fait refouler à l’entrée !
+msg_main0150_rival_04=Je crois qu’on a pas trop le choix, on va devoir[0x000A]faire ça dans les règles, un Badge après l’autre !{0xBE01}[0x000A]Du coup, on se fait un petit combat sérieux[0x000A]pour s’échauffer ?
+msg_main0150_rival_05=Ha ha ! Je crois que t’avais pas besoin[0x000A]d’échauffement !
+msg_main0150_rival_06=Mais ça me va, tout entraînement est bon[0x000A]à prendre si on veut tenter notre chance{0xBE00}[0x000A]à la Ligue Pokémon, un jour !
+msg_rival_01_p01_field_r022={0xBDFF:0x0006}
+msg_rival_01_p02_field_r022={0xBDFF:0x0007}
+msg_rival_01_p03_field_r022={0xBDFF:0x0008}

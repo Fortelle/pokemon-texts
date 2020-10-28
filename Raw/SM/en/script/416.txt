@@ -1,0 +1,10 @@
+It’s a vending machine![0x000A]What kind of drink do you want?
+{0x0109,0x0000} {0xBD03,0x0000}${0x0202,0x0001}
+Nothing
+That’s right.[0x000A]You don’t need anything more to carry now.
+But you can’t carry any more!
+But you don’t have enough money!
+{0x1303,0x0000}{0x0109,0x0000} came out!
+Do you want to get one more?
+What luck![0x000A]Another {0x0109,0x0000} tumbled down!
+It’s a vending machine![0x000A]And all of your favorite drinks to buy are...{0xBE00}[0x000A]completely sold out!

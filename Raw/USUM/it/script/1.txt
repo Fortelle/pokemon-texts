@@ -1,0 +1,126 @@
+Benvenut{0x1100,0x00FF,0x0101}oa all’Albero della Lotta!
+Cosa vuoi fare?
+Cosa vuoi che ti spieghi?
+Qui all’Albero della Lotta offriamo un’ampia[0x000A]gamma di lotte contro diversi Allenatori.{0xBE01}[0x000A]Puoi scegliere fra tre tipi di lotte:[0x000A]Lotta in Singolo, in Doppio e Multipla.{0xBE01}[0x000A]Continuerai a lottare finché non perdi.[0x000A]Il tuo scopo è accumulare più vittorie di fila.{0xBE01}[0x000A]Fai attenzione, però: se perdi anche solo[0x000A]una volta, dovrai ricominciare da capo.{0xBE01}[0x000A]Ci sono due livelli di lotte: normale e super.{0xBE01}[0x000A]Una volta superate le lotte di livello normale,[0x000A]potrai affrontare quelle di livello super.{0xBE01}[0x000A]Inoltre, a ogni vittoria riceverai dei PL, cioè[0x000A]dei Punti Lotta che potrai scambiare{0xBE01}[0x000A]con dei premi oppure usare per reclutare[0x000A]altri Allenatori affinché lottino assieme a te.{0xBE01}[0x000A]I punti che ricevi aumentano[0x000A]man mano che accumuli vittorie.{0xBE01}[0x000A]Metticela tutta e punta al massimo!
+Per apprezzare al meglio le sfide offerte[0x000A]dall’Albero della Lotta, è necessario tenere{0xBE00}[0x000A]presenti tre regole fondamentali.{0xBE01}[0x000A]Primo: nelle lotte di livello normale sono ammessi[0x000A]tutti i Pokémon, mentre in quelle di livello super{0xBE00}[0x000A]alcuni Pokémon non sono ammessi.{0xBE01}[0x000A]Le lotte di livello super sono tutte lotte alla pari.{0xBE01}[0x000A]I Pokémon di livello superiore a 50 verranno[0x000A]portati a 50 per tutta la durata delle lotte.{0xBE01}[0x000A]Secondo: ogni sfida richiede un certo numero[0x000A]di Pokémon, ovvero tre Pokémon per la Lotta{0xBE00}[0x000A]in Singolo e quattro per la Lotta in Doppio.{0xBE01}[0x000A]Nella Lotta Multipla, ogni Allenatore deve avere[0x000A]due Pokémon.{0xBE01}[0x000A]Terzo: tutti i Pokémon e i loro strumenti[0x000A]devono essere diversi.{0xBE01}[0x000A]Tuttavia, nella Lotta Multipla possono esserci[0x000A]doppioni fra i Pokémon o gli strumenti dei due{0xBE00}[0x000A]giocatori che lottano insieme.
+Torna presto a trovarci!
+Che tipo di lotta vuoi affrontare?
+Al momento il tuo record è di[0x000A]{0x0203,0x0001,0x002E} vittori{0x1101,0x0001,0x0D01}ae consecutive!
+Lotta in Singolo, giusto?
+Superlotta in Singolo, giusto?
+Lotta in Doppio, giusto?
+Superlotta in Doppio, giusto?
+Scegli i Pokémon con cui partecipare.
+Lotta Multipla, giusto?
+Superlotta Multipla, giusto?
+Vuoi affrontare questa sfida in link assieme[0x000A]a un amico?
+Hai scelto un tipo di lotta diverso dal tuo amico!{0xBE01}[0x000A]Mettetevi d’accordo e scegliete lo stesso[0x000A]tipo di lotta.
+Scegli l’Allenatore che farà coppia con te.
+Bene! Via alle Lotte in Singolo!
+Bene! Via alle Superlotte in Singolo!
+Bene! Via alle Lotte in Doppio!
+Bene! Via alle Superlotte in Doppio!
+Bene! Via alle Lotte Multiple!
+Bene! Via alle Superlotte Multiple!
+Salvataggio dei dati in corso.[0x000A]Attendi...
+Complimenti! Le Leggende della lotta sono[0x000A]avversari davvero temibili!{0xBE01}[0x000A]Per questa memorabile vittoria riceverai[0x000A]Punti Lotta extra!
+Incredibile! Le Leggende della lotta sono[0x000A]avversari davvero temibili!{0xBE01}[0x000A]Per questa memorabile vittoria riceverai[0x000A]moltissimi Punti Lotta!
+{0x0100,0x0000} riceve {0x0201,0x0005} PL!
+Inoltre, adesso puoi cimentarti nelle[0x000A]Superlotte in Singolo.
+Inoltre, adesso puoi cimentarti nelle[0x000A]Superlotte in Doppio.
+Inoltre, adesso puoi cimentarti nelle[0x000A]Superlotte Multiple.
+Grazie per aver partecipato alle Lotte in Singolo!{0xBE01}[0x000A]Da questo momento hanno inizio[0x000A]le Superlotte in Singolo. Buon divertimento!
+Grazie per aver partecipato alle Lotte in Doppio!{0xBE01}[0x000A]Da questo momento hanno inizio[0x000A]le Superlotte in Doppio. Buon divertimento!
+Grazie per aver partecipato alle Lotte Multiple!{0xBE01}[0x000A]Da questo momento hanno inizio[0x000A]le Superlotte Multiple. Buon divertimento!
+Hai raggiunto un traguardo memorabile:[0x000A]50 vittorie consecutive!{0xBE01}[0x000A]Per celebrare questa impresa voglio conferirti[0x000A]un timbro commemorativo!
+La prossima lotta sarà la n° {0x0203,0x0001,0x002E}.[0x000A]Vuoi continuare?
+La prossima lotta sarà la n° {0x0203,0x0001,0x002E}.{0xBE01}[0x000A]Fai attenzione, le Leggende della lotta sono[0x000A]avversari temibili! Sei pront{0x1100,0x00FF,0x0101}oa?
+Vuoi fare una pausa?
+La lotta è stata sospesa.
+Comunicazione in corso.
+Al momento è selezionata la musica:[0x000A]“{0x01C3,0x0000}”.{0xBE00}[0x000A]Che musica vorresti durante le lotte?
+Fatto!
+Voglio lottare!
+Come funziona?
+Come non detto!
+Cos’è l’Albero della Lotta?
+Spiegami le regole!
+{0xBDFF:0x002F}
+Lotta in Singolo
+Superlotta in Singolo
+Lotta in Doppio
+Superlotta in Doppio
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+Lotta Multipla
+Superlotta Multipla
+Continua
+Salva il Video Lotta
+Sospendi le lotte
+[0xE09A] Allenatore 2 [0xE09A]
+[0xE09A] Pokémon selvatico 2 [0xE09A]
+[0xE09A] Pokémon dominante [0xE09A]
+[0xE09A] Kahuna [0xE09A]
+Cambia musica
+{0xBDFF:0x0040}
+Io mi occupo della registrazione dei dati[0x000A]all’Albero della Lotta. Vuoi vedere i tuoi risultati?
+Quali risultati vuoi vedere?
+Attualmente sei alla vittoria n° {0x0203,0x0000,0x002E} e il tuo[0x000A]record di vittorie consecutive è {0x0203,0x0001,0x002E}!
+La comunicazione wireless è disattivata.{0xBE01}[0x000A]Attiva la comunicazione wireless.
+{0xBDFF:0x0045}
+Non puoi lottare con questo giocatore.
+Recluta
+Servono 10 PL per reclutare qualcuno!
+Per il reclutamento sono necessari 10 PL.[0x000A]Vuoi continuare?
+Non hai spazio per reclutare altri Allenatori!{0xBE01}[0x000A]Vuoi togliere qualcuno dalla lista?
+D’accordo. Allora {0x0100,0x0001}[0x000A]({0x010E,0x0000}) non verrà reclutat{0x1100,0x0000,0x0101}oa.
+Ok! Hai reclutato {0x0100,0x0001}[0x000A]({0x010E,0x0000})!
+{0xBDFF:0x004D}
+Complimenti, {0x0100,0x0000}![0x000A]Hai totalizzato {0x0203,0x0001,0x002E} vittorie consecutive!{0xBE00}[0x000A]Meriti un premio!
+Ed eccone un altro!
+Hai affrontato i migliori Allenatori del mondo![0x000A]Questa esperienza ti ha permesso di imparare{0xBE00}[0x000A]i segreti di un nuovo stile di lancio!
+Quando partecipi alle Lotte Multiple, puoi[0x000A]reclutare un Allenatore che lotti al tuo fianco{0xBE01}[0x000A]dopo averlo battuto in una Lotta in Singolo[0x000A]o in una Lotta in Doppio nell’Albero della Lotta.{0xBE01}[0x000A]Scegli gli alleati che preferisci, ma ricordati che[0x000A]non puoi reclutare le Leggende della lotta!
+Reclutare Allenatori
+[0xE09A] Il mio amico Hau 1 [0xE09A]
+[0xE09A] Iridio [0xE09A]
+[0xE09A] Team Skull [0xE09A]
+[0xE09A] Ufficiale del Team Skull [0xE09A]
+[0xE09A] Capo del Team Skull [0xE09A]
+[0xE09A] Fondazione Æther [0xE09A]
+[0xE09A] Direttrice Samina 1 [0xE09A]
+[0xE09A] Direttrice Samina 2 [0xE09A]
+[0xE09A] Ultracreatura [0xE09A]
+[0xE09A] Superquattro [0xE09A]
+[0xE09A] Difesa del titolo [0xE09A]
+[0xE09A] Pokémon leggendario [0xE09A]
+[0xE09A] Battle Royale [0xE09A]
+[0xE09A] Protettore dell’isola [0xE09A]
+[0xE09A] Leggenda della lotta [0xE09A]
+[0xE09A] Team Rainbow Rocket [0xE09A]
+[0xE09A] Giovanni [0xE09A]
+[0xE09A] Max e Ivan [0xE09A]
+[0xE09A] Cyrus [0xE09A]
+[0xE09A] Ghecis [0xE09A]
+[0xE09A] Il temibile Elisio [0xE09A]
+[0xE09A] Ultrapattuglia [0xE09A]
+[0xE09A] Necrozma 1 [0xE09A]
+[0xE09A] Necrozma 2 [0xE09A]
+[0xE09A] Mewtwo [0xE09A]
+[0xE09A] Pokémon di Kanto [0xE09A]
+[0xE09A] Pokémon di Hoenn [0xE09A]
+[0xE09A] Leggendario di Hoenn 2 [0xE09A]
+[0xE09A] Leggendario di Hoenn 1 [0xE09A]
+[0xE09A] Ho-Oh [0xE09A]
+[0xE09A] Lugia [0xE09A]
+[0xE09A] Leggendario di Johto [0xE09A]
+[0xE09A] Leggendario di Sinnoh 2 [0xE09A]
+[0xE09A] Leggendario di Sinnoh 3 [0xE09A]
+[0xE09A] Leggendario di Sinnoh 1 [0xE09A]
+[0xE09A] Giratina [0xE09A]
+[0xE09A] Leggendario di Unima 1 [0xE09A]
+[0xE09A] Leggendario di Unima 2 [0xE09A]
+[0xE09A] Leggendario di Kalos [0xE09A]
+[0xE09A] Allenatore 1 [0xE09A]
+[0xE09A] Pokémon selvatico 1 [0xE09A]
+[0xE09A] Il mio amico Hau 2 [0xE09A]
+{0xBDFF:0x007D}

@@ -1,0 +1,9 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+Ordenador: Iniciando análisis de retina...{0xBE01}[0x000A]Finalizado. Sujeto no identificado.{0xBE01}[0x000A]Acceso permitido solo al personal de Malvalanova.
+Ordenador: Iniciando análisis de retina.{0xBE01}[0x000A]Finalizado. Identidad confirmada.[0x000A]Acceso permitido a las instalaciones.
+Hay un ordenador. ¿Quieres activarlo?
+Ordenador: Bienvenid{0x1100,0x00FF,0x0101}oa al sistema de control de[0x000A]Malvalanova.{0xBE01}[0x000A]Iniciando comprobación del sistema...{0xBE01}[0x000A]...
+Comprobación finalizada.{0xBE01}[0x000A]El sistema funciona correctamente.[0x000A]No se han detectado errores críticos.{0xBE01}[0x000A]Enviando resultados de búsqueda.
+La puerta está firmemente cerrada.

@@ -1,0 +1,10 @@
+main_event_1325_sister_01=¡Oye, espera, {0x0100,0x0000}!{0x0114,0x000D}
+main_event_1325_sister_02=Yo nací aquí, así que conozco una especie de[0x000A]entrada alternativa.{0x0114,0x000D}
+main_event_1325_sister_03=Si quieres visitar el pueblo, te digo dónde está[0x000A]y te acompaño.{0xBE01}[0x000A]Pero no te voy a hacer el favor por el morro.[0x000A]Como eres mi rival, te pongo primero una sola{0xBE00}[0x000A]condición: ganarme.{0x0114,0x000D}
+main_event_1325_select_01=¡Hecho!
+main_event_1325_select_02=Déjame que lo piense...
+main_event_1325_sister_04=Uy, ¿no me habré equivocado contigo?{0xBE01}[0x000A]Ah, o igual es que simplemente necesitas tiempo[0x000A]para prepararte. Vale, pues te espero aquí.{0x0114,0x000D}
+main_event_1325_sister_05=Tú también llevas una buena racha como[0x000A]Aspirante.{0xBE01}[0x000A]Y, como ya te dije una vez, te respeto como rival.{0xBE01}[0x000A]Pero aquí hay mucho en juego y no me puedo[0x000A]permitir perder, ¿lo pillas?{0x0114,0x000D}
+main_event_1325_sister_06=Creo que ya capto por qué Morpeko siente[0x000A]tanto interés por ti, aunque sea mi propio{0xBE00}[0x000A]compañero.{0xBE01}[0x000A]Pero que te quede clarita una cosa: ¡a la gente[0x000A]de Pueblo Crampón pienso darles una alegría!{0x0114,0x000D}
+main_event_1325_sister_08=Ya me vengaré en la Copa de Campeones.[0x000A]¡Me haré con las ocho Medallas de Gimnasio{0xBE00}[0x000A]para tener la revancha! ¡Que no se te olvide!{0x0114,0x000D}
+main_event_1325_sister_07=Bueno, lo prometido es deuda. ¡Sígueme!{0x0114,0x000D}

@@ -1,0 +1,13 @@
+poke_waza_garyoutensei_01_01=Fammi indovinare! Vuoi che insegni la mossa[0x000A]Ascesa del Drago a un tuo Pokémon, vero?
+poke_waza_garyoutensei_01_02=Mi spiace, ma solo Rayquaza può imparare[0x000A]Ascesa del Drago e non lo vedo in squadra!
+poke_waza_garyoutensei_01_03=Se avrai bisogno di me, mi troverai qui!
+poke_waza_garyoutensei_01_04=A quale Pokémon vuoi che insegni la mossa?
+poke_waza_garyoutensei_01_05=Quel Pokémon non può imparare[0x000A]Ascesa del Drago.{0xBE01}[0x000A]Solo Rayquaza è in grado di apprenderla!
+poke_waza_garyoutensei_01_06=Vuoi che insegni Ascesa del Drago a un Uovo?![0x000A]Questa non l’avevo ancora sentita!
+poke_waza_garyoutensei_01_07=Quel Rayquaza conosce già Ascesa del Drago!
+poke_waza_garyoutensei_01_08=Vuoi che {0x0101,0x0000} impari[0x000A]Ascesa del Drago?
+poke_waza_garyoutensei_01_09=Ascesa del Drago è una mossa potentissima,[0x000A]esclusiva di Rayquaza.{0xBE01}[0x000A]Si dice che possa ridurre in briciole[0x000A]un enorme meteorite!
+poke_waza_garyoutensei_sys_01=Scegli una mossa da sostituire[0x000A]con {0x0107,0x0000}.
+poke_waza_garyoutensei_sys_02={0x0102,0x0000} impara {0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+poke_waza_garyoutensei_sys_03=Uno,{0xBE02:0x0014} due{0xBE02:0x0014} e{0xBE02:0x0014}...{0xBE02:0x0014} ta-daaaa!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} dimentica {0x0107,0x0001}!{0xBE01}[0x000A]Al suo posto...{0xBE01}[0x000A]{0x0102,0x0000} impara {0x0107,0x0002}!{0xBE05,0x0004}{0xBE05,0x0001}
+poke_waza_garyoutensei_sys_04={0x0102,0x0000} non ha imparato[0x000A]{0x0107,0x0001}!

@@ -1,0 +1,13 @@
+main_event_0610_assistant_01=¡Gracias, Yamper!{0x0114,0x000B}
+main_event_0610_poke1_01=¡Yam, yam!
+main_event_0610_assistant_02=Te he hecho venir hasta aquí porque quería[0x000A]preguntarte una cosa...{0x0114,0x000B}
+main_event_0610_assistant_03=¿Qué crees que representa ese geoglifo gigante?{0x0114,0x000B}
+main_event_0610_select_01=¿La Negra Noche?
+main_event_0610_select_02=¿El fenómeno Dinamax?
+main_event_0610_assistant_04=¡Sí que eres espabilad{0x1100,0x00FF,0x0101}oa!{0xBE01}[0x000A]Y eso que apenas queda rastro de la parte[0x000A]donde está representado el vórtice negro.{0x0114,0x000B}
+main_event_0610_assistant_05=Coincido... Desde luego, tiene toda la pinta de[0x000A]ser un Pokémon gigante.{0xBE01}[0x000A]Por mucha imaginación que tuviesen los[0x000A]habitantes de Galar de hace tres mil años, no{0xBE00}[0x000A]creo que dibujasen algo así sin haberlo visto en{0xBE00}[0x000A]persona.{0x0114,0x000B}
+main_event_0610_assistant_06=Remontándonos a los hechos de la leyenda,[0x000A]hace mucho tiempo, un vórtice negro cubrió el{0xBE00}[0x000A]cielo de Galar y surgieron Pokémon gigantes{0xBE00}[0x000A]que lo arrasaron todo a su paso...{0xBE01}[0x000A]Pero ¿qué era aquel vórtice al que llamaban[0x000A]la Negra Noche y qué relación guarda con el{0xBE00}[0x000A]fenómeno Dinamax?{0x0114,0x000B}
+main_event_0610_assistant_07=Es mi deber desentrañar ese misterio...[0x000A]¡Ya podría mi abuela haberme dado una tarea{0xBE00}[0x000A]un poco más facilita!{0x0114,0x000B}
+main_event_0610_assistant_08=¡Gracias por tu valiosa ayuda![0x000A]Toma, una Tarjeta de Liga para ti.{0x0114,0x000B}
+main_event_0610_assistant_09=Percy usa Pokémon de tipo Planta.[0x000A]Si usas movimientos de tipo Fuego, Bicho o{0xBE00}[0x000A]Volador, ganarle será pan comido.{0xBE01}[0x000A]¡Toma un par de estos también! Tu{0x1101,0x00FD,0x0100}s Pokémon[0x000A]tiene{0x1101,0x00FD,0x0100}n que estar en plena forma.{0x0114,0x000B}
+main_event_0610_assistant_10=¡Ahora ve y esfuérzate al máximo en el Estadio[0x000A]de Hoyuelo!{0x0114,0x000B}

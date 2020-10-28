@@ -1,0 +1,93 @@
+¡Es un placer conocerte! Mi nombre es Recaredo[0x000A]y soy el encargado del servicio de habitaciones.{0xBE01}[0x000A]Me gustaría que tomaras nota de los platos que[0x000A]solicitan los huéspedes.{0xBE00}[0x000A]¿Te parece? ¡Pues venga!
+Procura recordar con exactitud qué quieren, ¿vale?[0x000A]¡Confío en ti!
+¡Oh, pero si es {0x0100,0x0000}![0x000A]Me vienes como agua de mayo,{0xBE00}[0x000A]porque estoy que no doy abasto.
+¡Otra llamada![0x000A]Venga, coge el teléfono y presta atención.
+¡Buenas! Quería hacer un pedido. A ver...{0xBE01}[0x000A]{0x0199,0x0003} de {0x0109,0x0002} al estilo[0x000A]{0x0107,0x0001} para alguien como yo, más{0xBE00}[0x000A]bien {0x0108,0x0000}.
+¡Eeeh! ¿Está el mozo? ¡Que se ponga![0x000A]¿Qué dices, que eres tú? Ah, pues toma nota:{0xBE01}[0x000A]{0x0199,0x0003} de {0x0109,0x0002} al[0x000A]estilo {0x0107,0x0001} para alguien tan{0xBE00}[0x000A]tremendamente {0x0108,0x0000} como yo.{0xBE01}[0x000A]¿Se me escucha? ¿Lo has apuntado todo?[0x000A]¿Qué pasa que no ha llegado todavía? ¡Más brío!
+Hola, este es mi pedido:{0xBE01}[0x000A]{0x0199,0x0003} de {0x0109,0x0002} al estilo[0x000A]{0x0107,0x0001} para alguien un tanto{0xBE00}[0x000A]{0x0108,0x0000}.
+Hola...[0x000A]Me gustaría encargar mi última cena:{0xBE01}[0x000A]{0x0199,0x0003} de {0x0109,0x0002} al estilo[0x000A]{0x0107,0x0001}. ¡Que no se diga!{0xBE00}[0x000A]Si es que a {0x0108,0x0000} no me gana nadie.
+...[0x000A]Buenas. Seré breve:{0xBE01}[0x000A]{0x0199,0x0003} de {0x0109,0x0002} al estilo[0x000A]{0x0107,0x0001}. Con lo {0x0108,0x0000} que{0xBE00}[0x000A]soy, no queda otra.
+¡Hola, holita! Me apetece comer...[0x000A]Ay, que no me acuerdo. ¿Qué era? ¡Ah, sí!{0xBE01}[0x000A]{0x0199,0x0003} de {0x0109,0x0002} al estilo[0x000A]{0x0107,0x0001}. Me han dicho que va muy{0xBE00}[0x000A]bien para el cutis de una mujer tan divina y con un{0xBE00}[0x000A]carácter tan {0x0108,0x0000} como el mío.{0xBE01}[0x000A]Pues hala, me pego una duchita y espero.
+Hola, ¿qué tal? Me gustaría encargar un tentempié.[0x000A]¿Me hace el favor de tomar nota? Mire, quería...{0xBE01}[0x000A]{0x0199,0x0003} de {0x0109,0x0002} al estilo[0x000A]{0x0107,0x0001}. Solo una ración, si es tan{0xBE00}[0x000A]amable. Es que yo para estas cosas tengo un{0xBE00}[0x000A]temperamento algo {0x0108,0x0000}, ¿sabe?
+¿Hola? ¿Hay alguien ahí? ¿Furula el trasto este?[0x000A]¡Ay, estos aparatitos me tienen loca!{0xBE00}[0x000A]Bueno, en fin, yo pido y a ver si suena la flauta.{0xBE01}[0x000A]{0x0199,0x0003} de {0x0109,0x0002}[0x000A]al estilo {0x0107,0x0001} para mí, que tengo{0xBE00}[0x000A]un carácter bastante {0x0108,0x0000}.{0xBE01}[0x000A]¿Vale? Lo repito por si las moscas:{0xBE01}[0x000A]{0x0199,0x0003} de {0x0109,0x0002} al estilo[0x000A]{0x0107,0x0001} para una persona con un{0xBE00}[0x000A]carácter bastante {0x0108,0x0000}.
+Oye, oye, ¡que tengo un hambre canina y ya no[0x000A]puedo aguantar más! Toma nota, porfa:{0xBE01}[0x000A]{0x0199,0x0003} de {0x0109,0x0002} al estilo[0x000A]{0x0107,0x0001}. Vamos, lo que pediría{0xBE00}[0x000A]cualquier mujer con un carácter tan {0x0108,0x0000}{0xBE00}[0x000A]como el mío.
+Bonjour![0x000A]Quería pedir esto:{0xBE01}[0x000A]{0x0199,0x0003} de {0x0109,0x0002} al estilo[0x000A]{0x0107,0x0001}. Suena ideal pour una{0xBE00}[0x000A]femme de carácter {0x0108,0x0000} como yo.
+Bueno, ahora hay que encargar la comida.
+¿Qué plato ha pedido el huésped n.º {0x0200,0x0000}?
+para alguien {0x0108,0x0000}
+para alguien {0x0108,0x0001}
+para alguien {0x0108,0x0002}
+para alguien {0x0108,0x0003}
+al estilo {0x0107,0x0000}
+al estilo {0x0107,0x0001}
+al estilo {0x0107,0x0002}
+al estilo {0x0107,0x0003}
+de {0x0109,0x0000}
+de {0x0109,0x0001}
+de {0x0109,0x0002}
+de {0x0109,0x0003}
+{0x0199,0x0000}
+{0x0199,0x0001}
+{0x0199,0x0002}
+{0x0199,0x0003}
+{0x0199,0x0003} de {0x0109,0x0002}[0x000A]al estilo {0x0107,0x0001} para un huésped{0xBE00}[0x000A]{0x0108,0x0000}. ¿Seguro?
+Vale, pues voy a encargar la comida.
+Vaya, ¡qué rapidez!
+Muchas gracias.
+¿Eh? Pero si lo que yo pedí era otra cosa, a saber:[0x000A]{0x0199,0x0003} de {0x0109,0x0002} al estilo{0xBE00}[0x000A]{0x0107,0x0001} para un tipo más bien{0xBE00}[0x000A]{0x0108,0x0000} como yo.
+¡Buf, me ha crecido la barba medio nanómetro de[0x000A]tanto esperar! ¡A ver si espabilamos!
+¡Viva y bravo, has dado en el clavo!
+¿Pero qué inmundicia es esta? ¡En mi vida había[0x000A]visto un popurrí tan repulsivo! Mi pedido era claro:{0xBE01}[0x000A]{0x0199,0x0003} de {0x0109,0x0002} al estilo[0x000A]{0x0107,0x0001} para alguien {0x0108,0x0000}.{0xBE01}[0x000A]¿Estamos sordos o qué?
+Hola...
+Qué bien huele.[0x000A]Sí, es justo lo que quería.
+Hmm, esto parece algo distinto a lo que yo pedí:{0xBE01}[0x000A]{0x0199,0x0003} de {0x0109,0x0002} al estilo[0x000A]{0x0107,0x0001} para alguien un tanto{0xBE00}[0x000A]{0x0108,0x0000}.
+Hmm, ¿habrá llegado la hora de mi última cena?
+Si piensas en lo que vas a comer como si fuera tu[0x000A]última cena, ¡está aún más rica de lo normal!
+Vaya, parece que no habrá última cena...{0xBE01}[0x000A]{0x0199,0x0003} de {0x0109,0x0002} al estilo[0x000A]{0x0107,0x0001}. Con lo bien que sonaba el{0xBE00}[0x000A]plato para un tipo {0x0108,0x0000} como yo...
+Ya era hora...
+Bien, gracias.
+{0x0199,0x0003} de {0x0109,0x0002} al estilo[0x000A]{0x0107,0x0001} para un individuo harto{0xBE00}[0x000A]{0x0108,0x0000}. Eso era lo que quería, no esto.
+Perdona, es que antes de comer es indispensable[0x000A]para mí asearme, adecentarme y emperifollarme.
+¡Estupendo! ¡Justo lo que había pedido!
+Bueno, eso que has traído seguro que está rico,[0x000A]pero yo había pedido otra cosa. Algo así como:{0xBE01}[0x000A]{0x0199,0x0003} de {0x0109,0x0002} al estilo[0x000A]{0x0107,0x0001} para una mujer de bandera{0xBE00}[0x000A]y con carácter {0x0108,0x0000}.{0xBE01}[0x000A]Pensaba que lo había dejado claro.
+Hola, ¿cómo está?
+¡Ah, perfecto! Muchas gracias, muy amable.{0xBE01}[0x000A]Si no fuera porque estoy a dieta, me metería entre[0x000A]pecho y espalda diez raciones, sin ir más lejos.
+Es todo un detalle por su parte traer ex profeso un[0x000A]plato distinto al que he pedido, al tener en cuenta{0xBE00}[0x000A]la dieta que estoy siguiendo.{0xBE01}[0x000A]Pero bueno, es que me había costado decidirme.{0xBE01}[0x000A]{0x0199,0x0003} de {0x0109,0x0002} al estilo[0x000A]{0x0107,0x0001} es justo el tipo de comida{0xBE00}[0x000A]que le conviene a alguien con el temperamento tan{0xBE00}[0x000A]{0x0108,0x0000} que tengo yo.
+Hola, buenas.
+Hmm, si no me falla la memoria, yo diría que esto[0x000A]es lo que he pedido. A ver si está todo...{0xBE01}[0x000A]¡Pues sí, fíjate![0x000A]¡Tiene buena pinta! O al menos eso creo yo...
+Uy, ¿pero yo no había encargado otra cosa?[0x000A]A ver, deje que haga memoria. Juraría que era...{0xBE01}[0x000A]{0x0199,0x0003} de {0x0109,0x0002}[0x000A]al estilo {0x0107,0x0001} para una persona{0xBE00}[0x000A]de carácter {0x0108,0x0000}.{0xBE01}[0x000A]¿No es así? Entonces se ha equivocado, majete.
+Te estaba esperando con un ansia que no veas,[0x000A]como si fueses mi príncipe azul. ¡O más, fíjate!
+¡Buf, trae para acá! ¡No voy a dejar ni las migas!
+¡No, no! ¡Craso error![0x000A]Yo quería otra cosa:{0xBE01}[0x000A]{0x0199,0x0003} de {0x0109,0x0002} al estilo[0x000A]{0x0107,0x0001} para una mujer de carácter{0xBE00}[0x000A]{0x0108,0x0000}.
+Très bien!
+C’est magnifique! Por algo elegí este hotel.[0x000A]¡Pour deleitarme con estos suculentos manjares!
+Non, non! Ce n’est pas possible! Yo quería esto:{0xBE01}[0x000A]{0x0199,0x0003} de {0x0109,0x0002} al estilo[0x000A]{0x0107,0x0001} pour una femme de carácter{0xBE00}[0x000A]{0x0108,0x0000}.
+Gracias por tu esfuerzo. Vamos a dejarlo por hoy.[0x000A]En cuanto a tu rendimiento...
+¡Pues te diré que no se te escapa ni una, eh![0x000A]¡Sí, señor! Con gente así da gusto trabajar.{0xBE00}[0x000A]¡Vuelve cuando quieras para echarme una mano!
+La verdad es que me has ayudado bastante.[0x000A]Será un placer trabajar contigo la próxima vez.
+Bueno, nadie es perfecto.[0x000A]Al menos lo has hecho lo mejor que has podido.{0xBE01}[0x000A]¡Seguro que tienes más suerte en la próxima[0x000A]ocasión!
+Sopa
+Gelatina
+Potaje
+Vichyssoise
+Paté
+Cruasán
+Quiche
+Salteado
+Tortilla
+Ensalada
+Guiso
+Confitura
+Lasaña
+Albóndigas
+Estofado
+Caldereta
+Canapés
+Puré
+Croquetas
+Flan
+Buñuelos
+Empanada
+Pisto
+Cocido
+Disculpe, soy del servicio de habitaciones.[0x000A]Le traigo su pedido:{0xBE01}[0x000A]{0x0199,0x0003} de {0x0109,0x0002} al estilo[0x000A]{0x0107,0x0001} para alguien {0x0108,0x0000}.

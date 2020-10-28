@@ -1,0 +1,59 @@
+Bonjour et bienvenue[0xE07F]![0x000A]Ce comptoir est réservé aux grands crus.{0xBE01}[0x000A]Vos Pokémon méritent ce qu’il y a de meilleur.{0xBE01}[0x000A]Aujourd’hui, nous vous proposons un millésime[0x000A]exceptionnel[0xE08D]
+Ici, nous ne servons que les plus grands crus.{0xBE01}[0x000A]Aujourd’hui, nous vous proposons un millésime[0x000A]exceptionnel[0xE08D]
+Je suis désolé, mais ce Jus est si exceptionnel[0x000A]qu’il est limité à un verre par jour et par client.{0xBE01}[0x000A]N’hésitez pas à revenir nous voir demain pour[0x000A]découvrir un nouveau millésime.
+Un {0x0198,0x0003} coûte {0x0206,0x0001,0xE07F} $.[0x000A]Est-ce que cela vous convient[0xE07F]?
+Je suis désolé, un tel Jus ne convient pas[0x000A]aux Œufs[0xE08D]
+Tiens[0xE08D][0xE07F]?[0x000A]Il semble que vous n’avez pas assez d’argent.
+Votre précieux compagnon a-t-il pleinement[0x000A]apprécié le bouquet de ce cru extraordinaire[0xE07F]?{0xBE01}[0x000A]Demain, nous vous proposerons un nouveau[0x000A]grand cru d’exception.
+N’hésitez pas à revenir nous voir un autre jour.
+Très bien. Cela fera donc {0x0206,0x0001,0xE07F} $,[0x000A]je vous prie[0xE07F]!
+{0x0198,0x0003} {0xBD03,0x0000}{0x0204,0x0002,0xE07F} $
+Annuler
+Bonjour et bienvenue[0xE07F]! Ce comptoir est réservé[0x000A]aux Jus fraîchement pressés.{0xBE01}[0x000A]Si vous le souhaitez, je peux vous préparer un Jus[0x000A]sur mesure en combinant deux de vos Baies.
+Bonjour et bienvenue[0xE07F]! Ce comptoir est réservé[0x000A]aux Jus fraîchement pressés.{0xBE01}[0x000A]Souhaitez-vous que je prépare un Jus sur mesure[0x000A]en combinant deux de vos Baies[0xE07F]?
+Je suis vraiment désolée, mais je ne peux pas[0x000A]préparer plus d’un Jus par jour et par client.{0xBE01}[0x000A]Pour une nouvelle expérience gustative,[0x000A]revenez me voir demain[0xE07F]!
+Oh, non[0xE07F]! On dirait que vous n’avez pas assez[0x000A]de Baies.{0xBE01}[0x000A]Pour préparer un Jus, j’ai besoin de deux Baies.
+Parfait[0xE07F]! Choisissons la première Baie[0xE08D]
+Oh, une {0x0109,0x0001}[0xE07F]! Excellent choix[0xE07F]![0x000A]On dirait que j’ai affaire à un{0x1100,0x00FF,0x0E0C} connaisseure connaisseuse[0xE07F]!{0xBE01}[0x000A]Quelle sera la seconde Baie à entrer dans la[0x000A]composition de votre Jus bien frais[0xE07F]?
+Une {0x0109,0x0001}[0xE07F]?[0x000A]Encore un très bon choix[0xE07F]!
+Une autre {0x0109,0x0001}[0xE07F]?[0x000A]Je vois que vous avez vos petites préférences[0xE08D]
+Pressi-pressa[0xE08D]
+Hop, hop[0xE07F]!
+Et voilà[0xE07F]![0x000A]Un bon {0x0198,0x0003} bien frais[0xE07F]!{0xBE01}[0x000A]Quel Pokémon va avoir la chance de le déguster[0xE07F]?
+Vous n’en voulez pas[0xE07F]? Dans ce cas, je vais être[0x000A]forcée de le boire moi-même[0xE08D]
+Ça alors, quelle drôle d’idée[0xE07F]![0x000A]Les Œufs ne boivent pas de Jus, que je sache[0xE07F]!
+Puisque vous insistez, je le bois[0xE07F]![0x000A]Glou[0xE08D] glou[0xE08D] glou[0xE08D]{0xBE01}[0x000A]Ahhhh[0xE07F]! Quelle fraîcheur[0xE07F]! Un vrai délice[0xE07F]![0x000A]Encore merci[0xE07F]!
+Alors, votre Pokémon est-il satisfait[0xE07F]?[0x000A]Revenez nous voir quand vous voudrez[0xE07F]!
+Quel dommage[0xE07F]![0x000A]Mais la porte vous sera toujours ouverte[0xE07F]!
+{0x0102,0x0000} boit le {0x0198,0x0003}.
+{0x0102,0x0000} est content[0xE07F]!
+{0x0102,0x0000} est très content[0xE07F]!
+{0x0102,0x0000} est aux anges[0xE07F]!
+Les PV de base de {0x0102,0x0000}[0x000A]ont augmenté de {0x0201,0x0001}.
+L’Attaque de base de {0x0102,0x0000}[0x000A]a augmenté de {0x0201,0x0001}.
+La Défense de base de {0x0102,0x0000}[0x000A]a augmenté de {0x0201,0x0001}.
+L’Attaque Spéciale de base de {0x0102,0x0000}[0x000A]a augmenté de {0x0201,0x0001}.
+La Défense Spéciale de base de {0x0102,0x0000}[0x000A]a augmenté de {0x0201,0x0001}.
+La Vitesse de base de {0x0102,0x0000}[0x000A]a augmenté de {0x0201,0x0001}.
+{0x0102,0x0000} a gagné {0x0201,0x0001} niveau{0x1101,0x0001,0x0100}x.
+Les stats de base de {0x0102,0x0000}[0x000A]ont été ramenées à zéro[0xE07F]!
+Shake Bariolé
+Jus Topaze
+Jus Rubis
+Jus Améthyste
+Jus Corail
+Jus Saphir
+Jus Émeraude
+Super Soda
+Hyper Soda
+Brouet Risqué
+Ah, ce merveilleux Shake Bariolé[0xE08D]{0xBE01}[0x000A]Malgré sa robe un rien criarde, il vous étonnera[0x000A]par une incroyable rondeur en bouche.{0xBE01}[0x000A]Les Pokémon qui y goûtent deviennent[0x000A]plus affectueux.
+Ah, cet étonnant Jus Topaze[0xE08D]{0xBE01}[0x000A]Son moelleux incomparable vous enveloppera[0x000A]d’une douceur solaire.{0xBE01}[0x000A]Il a pour propriété de renforcer la Défense[0x000A]de base des Pokémon qui le dégustent.
+Ah, cet incroyable Jus Rubis[0xE08D]{0xBE01}[0x000A]Enjoué et généreux, c’est un excellent tonifiant.{0xBE01}[0x000A]Il a pour propriété de renforcer l’Attaque[0x000A]de base des Pokémon qui le dégustent.
+Ah, ce pur Jus Améthyste[0xE08D]{0xBE01}[0x000A]Léger et puissant à la fois, il dégage[0x000A]des arômes complexes.{0xBE01}[0x000A]Il a pour propriété d’augmenter les PV[0x000A]de base des Pokémon qui le dégustent.
+Ah, ce délicieux Jus Corail[0xE08D]{0xBE01}[0x000A]Son caractère souple et velouté lui confère[0x000A]une grande douceur.{0xBE01}[0x000A]Il a pour propriété d’augmenter la Vitesse[0x000A]de base des Pokémon qui le dégustent.
+Ah, ce précieux Jus Saphir[0xE08D]{0xBE01}[0x000A]Viril et complexe, il fait le bonheur[0x000A]des connaisseurs.{0xBE01}[0x000A]Il a pour propriété de renforcer l’Attaque Spéciale[0x000A]de base des Pokémon qui le dégustent.
+Ah, cet exquis Jus Émeraude[0xE08D]{0xBE01}[0x000A]Il dégage des notes de sous-bois portées[0x000A]par une certaine fermeté.{0xBE01}[0x000A]Il a pour propriété de renforcer la Défense Spéciale[0x000A]de base des Pokémon qui le dégustent.
+Ah, cet inclassable Super Soda[0xE08D]{0xBE01}[0x000A]Il distille des arômes d’une autre dimension,[0x000A]que je serais bien à mal de décrire.{0xBE01}[0x000A]Il a pour propriété de faire monter de niveau[0x000A]les Pokémon qui le dégustent.
+Ah, ce pétillant Hyper Soda[0xE08D]{0xBE01}[0x000A]Guilleret, il dégage un véritable feu d’artifice[0x000A]de saveurs.{0xBE01}[0x000A]Il a pour propriété de faire monter de niveau[0x000A]les Pokémon qui le dégustent.
+Ah, ce dangereux Brouet Risqué[0xE08D]{0xBE01}[0x000A]Sûr, il a tourné à l’aigre[0xE08D]{0xBE01}[0x000A]Vous ferez de même quand votre Pokémon[0x000A]l’aura bu et que ses stats de base auront été{0xBE00}[0x000A]remises à zéro[0xE07F]!

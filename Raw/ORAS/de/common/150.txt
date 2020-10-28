@@ -1,0 +1,85 @@
+AP
+Lv.
+Nächster Level
+KP
+Angriff
+Vert.
+Sp.-Ang.
+Sp.-Vert.
+Initiative
+{0xFF00,0x0002}♂{0xFF00,0x0000}
+{0xFF00,0x0001}♀{0xFF00,0x0000}
+{0xBDFF:0x000B}
+Bericht
+Attacken
+Kategorie
+Stärke
+Genauigkeit
+Status
+Physisch
+Spezial
+Kunststück
+Stören
+Wähle ein Pokémon.
+Auf welches Pokémon anwenden?
+Mit welchem Pokémon kämpfen?
+Tausch
+Schon im Kampf
+Kampfunfähig
+Partner
+Regenerieren
+Bericht
+Attacken
+{0x0102,0x0001} kämpft bereits!
+{0x0102,0x0001} ist nicht fit genug,[0x000A]um zu kämpfen!
+Ein Ei kann nicht kämpfen!
+Pokémon von Mitstreitern können nicht[0x000A]ausgewählt werden!
+{0x0102,0x0001} kann nicht ausgetauscht[0x000A]werden!
+KP/AP auffüllen
+Statusprobleme heilen
+Welche Attacke soll aufgefüllt werden?
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+KP-/AP-[0x000A]Erholung
+Status-[0x000A]Heilmittel
+{0xBDFF:0x002C}
+Bälle
+Kampfitems
+Zuletzt verwendetes Item
+Einsetzen
+{0xBDFF:0x0031}
+Das klappt nicht! Man kann nicht zielen,[0x000A]wenn mehr als ein Pokémon da ist.
+Alle PC-Boxen sind voll!
+Das wird nichts! Man kann nicht auf ein[0x000A]Pokémon zielen, das nicht zu sehen ist.
+Wenn du dich nicht auf eine Sache[0x000A]konzentrierst, triffst du dein Ziel nie!
+{0x0107,0x0001} verhindert den Einsatz[0x000A]des Items bei {0x0102,0x0000}!
+Ja
+Nein
+Nächstes Pokémon rufen
+Flucht
+Vergessen!
+Bekannte Attacken behalten
+Pokémon wechseln
+Weiterkämpfen
+Wo einsetzen?
+Welche Attacke auffüllen?
+Es wird keine Wirkung haben.
+Das ist eine besonders wichtige Attacke,[0x000A]die jetzt nicht vergessen werden kann!
+Abbrechen
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}
+{0xBDFF:0x0046}
+{0xBDFF:0x0047}
+{0x0202,0x0000}
+x
+/
+/
+L
+Rechts
+Links
+Mitte
+{0x0204,0x0000,0x0020}
+-
+In Bereitschaft
+{0x0102,0x0001} wurde bereits ausgewählt!
+Vati sagt immer: „Das ist weder der rechte Ort[0x000A]noch die rechte Zeit dafür!“

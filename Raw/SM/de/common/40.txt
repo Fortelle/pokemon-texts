@@ -1,0 +1,111 @@
+Lokaler Modus aktiv
+Internetverbindung aktiv
+Y-Knopf: Beenden
+Kämpfen
+Tauschen
+Y-Knopf: Teilnehmen
+Sperren
+Link-Tausch
+GTS
+Wundertausch
+Link-Kampf
+Zum Kampf-Plaza
+Regeln herunterladen
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+Einzelkampf
+Doppelkampf
+Multikampf
+Battle Royale
+Y-Knopf: Sperren
+Ja
+Nein
+Drahtlose Verbindung AUS
+{0xBDFF:0x0018}
+Zustimmen
+Möchtest du den Festival-Plaza verlassen und[0x000A]die Verbindung trennen?
+Die Verbindung wird getrennt...[0x000A]Bitte warte einen Moment.
+{0x0100,0x0000} lädt dich zu einem[0x000A]Einzelkampf ein.
+{0x0100,0x0000} lädt dich zu einem[0x000A]Doppelkampf ein.
+{0x0100,0x0000} lädt dich zu einem[0x000A]Multikampf ein.
+{0x0100,0x0000} lädt dich zu einem[0x000A]Battle Royale ein.
+Was möchtest du tun?
+Was möchtest du tun?
+Wie möchtest du nach anderen Spielern suchen?
+Bitte wähle ein Kampfformat.
+Gesperrte Spieler können dich nicht mehr über[0x000A]die Kommunikationsfunktionen kontaktieren.{0xBE01}[0x000A]Soll dieser Spieler wirklich gesperrt werden?
+Die Liste der gesperrten Spieler wurde[0x000A]aktualisiert.{0xBE01}
+Du kannst keine weiteren Spieler sperren,[0x000A]da die SD Card voll ist.{0xBE01}[0x000A]Bitte beende die Software und schaffe[0x000A]mehr Speicherplatz auf der SD Card.
+Deine Einladung zu einem Einzelkampf[0x000A]wird verschickt...
+Deine Einladung zu einem Doppelkampf[0x000A]wird verschickt...
+Deine Einladung zu einem Multikampf[0x000A]wird verschickt...
+Deine Einladung zu einem Battle Royale[0x000A]wird verschickt...
+Alle Teilnehmer haben die Einladung[0x000A]angenommen.
+{0x0100,0x0000} hat die Einladung angenommen.
+{0x0100,0x0000} hat die Einladung abgelehnt.{0xBE01}
+Die Teilnehmersuche läuft...
+{0x0100,0x0000} hat dir eine Einladung[0x000A]geschickt.
+Möchtest du die Teilnehmersuche abbrechen?
+Möchtest du die Einladung zurückziehen?
+Die Einladung wurde zurückgezogen.
+Die Verbindung wurde unterbrochen.{0xBE01}
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+Das Spektakel wird beendet...[0x000A]Bitte warte einen Moment.
+Die drahtlose Verbindung ist derzeit deaktiviert.{0xBE01}[0x000A]Es kann keine Verbindung hergestellt werden,[0x000A]deshalb wird der Vorgang beendet.{0xBE01}
+{0xBDFF:0x0038}
+Deine Anfrage wird bearbeitet...[0x000A]Bitte warte einen Moment.
+Die Verbindung wurde unterbrochen.{0xBE01}
+{0xBDFF:0x003B}
+{0xBDFF:0x003C}
+{0xBDFF:0x003D}
+{0xBDFF:0x003E}
+Die Vorbereitungen laufen...[0x000A]Bitte warte einen Moment.
+Deine Einladung zu einem Link-Tausch[0x000A]wird verschickt...
+{0x0100,0x0000} lädt dich zu einem[0x000A]Link-Tausch ein.
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}
+{0xBDFF:0x0046}
+Das Spektakel „{0x01B5,0x0000}“ ist im Gange... Tippe hier, wenn du teilnehmen möchtest!
+{0xBDFF:0x0048}
+Es kann keine Verbindung hergestellt werden,[0x000A]da die drahtlose Verbindung deaktiviert ist.[0x000A][0x000A]Bitte aktiviere die drahtlose Verbindung.
+Dein letzter Link-Tausch beziehungsweise deine[0x000A]letzte Nutzung der GTS wurde durch einen[0x000A]Verbindungsfehler, unerwartetes Ausschalten[0x000A]des Systems oder aus ähnlichen Ursachen[0x000A]abgebrochen. Du kannst daher vorübergehend[0x000A]keine Pokémon tauschen.[0x000A]{0xFF00,0x0002}Bitte versuche es später noch einmal.{0xFF00,0x0000}
+Um Pokémon tauschen zu können, musst du[0x000A]mindestens zwei Pokémon haben.[0x000A][0x000A]Fange noch mindestens ein weiteres[0x000A]und versuche es erneut.
+Du kannst kein Pokémon aus der GTS[0x000A]zurücknehmen, da sowohl in deinem Team[0x000A]als auch deinen Boxen kein Platz mehr ist.[0x000A][0x000A]Schaffe Platz in deinen Boxen und[0x000A]versuche es erneut.
+Du hast keine zwei Pokémon. Du kannst deshalb[0x000A]keinen Doppelkampf austragen.[0x000A][0x000A]Füge deinem Team ein paar Pokémon hinzu[0x000A]und versuche es erneut.
+Die Internetfunktionen wurden über die[0x000A]Altersbeschränkungen dauerhaft deaktiviert.
+{0xBDFF:0x004F}
+{0xBDFF:0x0050}
+{0xBDFF:0x0051}
+{0xBDFF:0x0052}
+{0xBDFF:0x0053}
+{0xBDFF:0x0054}
+{0xBDFF:0x0055}
+{0xBDFF:0x0056}
+{0xBDFF:0x0057}
+{0xBDFF:0x0058}
+{0xBDFF:0x0059}
+{0xBDFF:0x005A}
+{0xBDFF:0x005B}
+{0xBDFF:0x005C}
+Restzeit:
+{0x0201,0x0000}
+{0x0200,0x0000}
+/
+{0x0100,0x0000}
+---
+Möchtest du das Spektakel beenden?
+{0x0201,0x0000}:{0x0201,0x0001}
+{0x01B5,0x0000}
+Restzeit:
+Gesamtpunktzahl:
+Individuelle Punktzahl:
+Teilnehmerzahl:
+{0x0201,0x0000}
+:
+{0x0204,0x0000,0xE07F}
+{0x0202,0x0000}
+Y-Knopf: Beenden

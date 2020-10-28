@@ -1,0 +1,12 @@
+main_event_1870_rival_01={0x0100,0x0000}, regarde !{0x0114,0x0005}
+main_event_1870_rival_02=L’épée et le bouclier ! Ils sont là ![0x000A]La légende disait vrai !{0x0114,0x0005}
+main_event_1870_rival_03=Je prends le bouclier !{0x0114,0x0005}
+main_event_1870_rival_04=Je prends l’épée !{0x0114,0x0005}
+main_event_1870_rival_05=Par contre, il est tout vieux et tout rouillé...[0x000A]Je sais pas si ça va vraiment nous aider,{0xBE00}[0x000A]contre la Nuit Noire...{0xBE01}[0x000A]Bah, au pire, ça nous portera chance !{0x0114,0x0005}
+main_event_1870_rival_06=Par contre, elle est toute vieille et toute rouillée...[0x000A]Je sais pas si ça va vraiment nous aider,{0xBE00}[0x000A]contre la Nuit Noire...{0xBE01}[0x000A]Bah, au pire, ça nous portera chance !{0x0114,0x0005}
+main_event_1870_rival_07=Les Pokémon Épée et Bouclier sont peut-être[0x000A]encore endormis quelque part...{0xBE01}[0x000A]Enfin, tant pis, on va faire avec ce qu’on a ![0x000A]Allons aider mon frangin !{0x0114,0x0005}
+main_event_1870_rival_08=Tarak est en train d’affronter la Nuit Noire[0x000A]à Kickenham !{0xBE01}[0x000A]{0x0100,0x0000}, on chope un taxi volant[0x000A]pour aller jusqu’au Stade de Kickenham ?{0x0114,0x0005}
+main_event_1870_select_01=Ouais !
+main_event_1870_select_02=Laisse-moi le temps de me remettre...
+main_event_1870_rival_09=Cool ![0x000A]Tirons-nous d’ici et fonçons à Kickenham.{0x0114,0x0005}
+main_event_1870_rival_10=Ouais, je comprends, moi aussi je suis un peu[0x000A]déçu... Je comptais vraiment sur ces Pokémon...{0xBE00}[0x000A]Et en fait, on a juste de vieux trucs rouillés...{0x0114,0x0005}

@@ -1,0 +1,5 @@
+field_camp_01_01=Would you like to visit {0x0100,0x0000}’s[0x000A]Pokémon Camp?
+field_camp_01_02=Visiting the Pokémon Camp...
+field_camp_01_03=You couldn’t visit the Pokémon Camp.
+field_camp_02_01=Yes
+field_camp_02_02=No

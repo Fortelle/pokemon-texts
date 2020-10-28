@@ -1,0 +1,16 @@
+msg_elevator_c03_01=要去哪里？
+msg_elevator_c03_02=伦度罗瑟酒店
+msg_elevator_c03_03=宫门竞技场
+msg_elevator_c03_04=单轨总站
+msg_elevator_c03_05=洛兹大厦
+msg_elevator_c03_06=对战塔
+msg_elevator_c03_07=退出
+msg_elevator_c02_01=电梯目前无法使用
+msg_elevator_start=要去几层？
+msg_elevator_cancel=取消
+msg_elevator_1f=１层
+msg_elevator_3f=３层
+msg_elevator_ap_1f=１Ｆ：入口
+msg_elevator_ap_2f=２Ｆ：保护区
+msg_elevator_ap_b1f=Ｂ１Ｆ：码头
+msg_elevator_ap_b2f=Ｂ２Ｆ：研究室区域

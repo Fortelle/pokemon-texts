@@ -1,0 +1,9 @@
+msg_sub037_adultf_01=I’m taking care of injured Pokémon here.
+msg_sub037_adultf_02=Bulbasaur is fully recovered, so I’d like to[0x000A]give this Pokémon to a Trainer who’s caught{0xBE00}[0x000A]a lot of Pokémon and I can trust.
+msg_sub037_adultf_08=The number of Pokémon you’ve caught so far[0x000A]is {0x0208,0x0000,0x002C}?!
+msg_sub037_adultf_03=Incredible![0x000A]Would you take care of this Bulbasaur?
+msg_sub037_adultf_04=Please take care of Bulbasaur!
+msg_sub037_adultf_09=Ah... If you’ve caught at least {0x0201,0x0000} Pokémon,[0x000A]will you come back to get Bulbasaur?
+msg_sub037_adultf_05=Is Bulbasaur doing well?
+msg_sub037_adultf_06=Oh... That’s too bad...
+msg_sub037_poke_01=BULBASAUR: Bubba! Zoar!

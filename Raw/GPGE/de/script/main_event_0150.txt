@@ -1,0 +1,9 @@
+msg_main0150_rival_01={0xFF00,0x0009}{0x0100,0x0001}: {0xFF00,0x0000}Hey, {0x0100,0x0000}!
+msg_main0150_rival_02=Wolltest du auch bei der {0xFF00,0x0006}Pokémon-Liga{0xFF00,0x0000}[0x000A]vorbeischauen?{0xBE01}[0x000A]Da drin kann man gegen die stärksten aller[0x000A]Trainer kämpfen. Gegen die {0xFF00,0x0006}Top Vier{0xFF00,0x0000}!
+msg_main0150_rival_03=Ich hätte die Top Vier zu gern mal in Aktion[0x000A]gesehen, aber das Personal der Pokémon-Liga{0xBE00}[0x000A]lässt nur Trainer mit allen Arenaorden durch.
+msg_main0150_rival_04=Da hilft nur eins... Wir müssen unser Bestes[0x000A]geben und immer stärker werden.{0xBE01}[0x000A]Du weißt, worauf ich hinauswill, oder?[0x000A]Los, {0x0100,0x0000}! Lass uns kämpfen und{0xBE00}[0x000A]stärker werden!
+msg_main0150_rival_05=So, hoffentlich konnte ich dir helfen,[0x000A]ein bisschen stärker zu werden.
+msg_main0150_rival_06=Wenn wir so weitermachen, schaffen wir es[0x000A]garantiert beide bis zur Pokémon-Liga!
+msg_rival_01_p01_field_r022={0xBDFF:0x0006}
+msg_rival_01_p02_field_r022={0xBDFF:0x0007}
+msg_rival_01_p03_field_r022={0xBDFF:0x0008}

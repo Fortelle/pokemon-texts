@@ -1,0 +1,8 @@
+msg_d0201_npc1_01=Je suis une infirmière itinérante[0x000A]du Centre Pokémon !{0xBE01}[0x000A]La Mine de Galar n’est pas une promenade[0x000A]de santé. Laissez-moi soigner votre {0x1101,0x00FD,0x0607}Pokémonéquipe !
+msg_d0201_npc1_02=Si jamais vous avez besoin de moi,[0x000A]n’hésitez pas à revenir me voir !
+msg_d0201_npc1_03=C’est moi, l’infirmière itinérante ![0x000A]Voulez-vous que je soigne votre {0x1101,0x00FD,0x0607}Pokémonéquipe ?
+msg_d0201_npc1_04=Et voilà ![0x000A]Votre {0x0101,0x0000} a retrouvé la santé !
+msg_d0201_npc1_05=Et voilà, votre équipe a retrouvé la santé !
+msg_d0201_npc2_01=Je suis la petite sœur de l’infirmière itinérante[0x000A]du Centre Pokémon !{0xBE01}[0x000A]Le trajet a dû vous fatiguer ![0x000A]Laissez-moi soigner votre {0x1101,0x00FD,0x0607}Pokémonéquipe !
+msg_d0201_npc2_02=Après la Mine de Galar se trouve la Route 4.[0x000A]Courage, Challenger ! Greenbury est à deux pas !
+msg_d0201_npc2_03=C’est moi, la petite sœur de l’infirmière[0x000A]itinérante du Centre Pokémon !{0xBE00}[0x000A]Voulez-vous que je soigne votre {0x1101,0x00FD,0x0607}Pokémonéquipe ?

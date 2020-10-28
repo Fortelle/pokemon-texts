@@ -1,0 +1,9 @@
+msg_main0182_system_01=Da schläft ein Pokémon!{0xBE01}[0x000A]Du lässt deine Pokébälle lieber stecken.[0x000A]Wer weiß, wem es gehört.
+msg_main0182_musashi_01={0xFF00,0x0009}???:{0xFF00,0x0000} Hier drüben scheint nichts zu sein...
+msg_main0182_kojiro_01={0xFF00,0x0009}???:{0xFF00,0x0000} Vielleicht ist es etwas weiter dort hinten?
+msg_main0182_musashi_02={0xFF00,0x0009}???:{0xFF00,0x0000} Hey, du da! Hast du uns etwa gerade[0x000A]belauscht? Wie viel hast du gehört?!
+msg_main0182_kojiro_02={0xFF00,0x0009}???:{0xFF00,0x0000} Wie kann das sein?! Wir hatten Mauzi doch[0x000A]extra aufgetragen, Wache zu schieben...!
+msg_main0182_nyasu_01={0xFF00,0x0009}Mauzi:{0xFF00,0x0000} Miauz!
+msg_main0182_musashi_03={0xFF00,0x0009}???:{0xFF00,0x0000} Da du uns so frech bespitzelt hast, weißt du[0x000A]bestimmt, dass wir hier unten auf der Suche nach{0xBE00}[0x000A]seltenen Fossilien sind.{0xBE01}[0x000A]Aber glaub bloß nicht, dass wir sie Knirpsen wie[0x000A]dir überlassen werden!
+msg_main0182_kojiro_03={0xFF00,0x0009}???:{0xFF00,0x0000} Ganz genau! Wenn jemand diese staubigen,[0x000A]alten Steine in Zaster verwandelt, dann wir!
+msg_main0182_musashi_04={0xFF00,0x0009}???:{0xFF00,0x0000} Muahahaha!!

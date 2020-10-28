@@ -1,0 +1,11 @@
+{0x0100,0x0000}...{0x0114,0x000D}
+Has llegado bien lejos. Se podría decir incluso[0x000A]que has mordido el anzuelo.{0x0114,0x000D}
+Ya te imaginas por qué lo digo, ¿no? Atravesar[0x000A]la puerta del Capitán tiene una consecuencia:{0xBE00}[0x000A]¡que estás a punto de afrontar una prueba!{0x0114,0x000D}
+Y la mía consiste en derrotar al Pokémon[0x000A]dominante que llaman el Amo y Señor de los{0xBE00}[0x000A]Mares.{0x0114,0x000D}
+¿Ves esas salpicaduras a lo lejos? Tal vez se[0x000A]deban a la presencia de un Pokémon dominante.{0xBE01}[0x000A]Quién sabe, quizá los Wishiwashi de antes han[0x000A]vuelto con refuerzos para vengarse.{0xBE01}[0x000A]¡Demuéstrame tu valía derribando al Pokémon[0x000A]dominante!{0x0114,0x000D}
+Huelga decir que, hasta que superes la prueba,[0x000A]no podrás atrapar a ningún Pokémon.{0xBE01}[0x000A]¡Que comience la prueba!{0x0114,0x000D}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+Demuéstrame tu valía derrotando al Pokémon[0x000A]dominante que está causando las salpicaduras.{0xBE01}[0x000A]Si quieres mi opinión, los movimientos de tipo[0x000A]Eléctrico o Planta podrían darte cierta ventaja{0xBE00}[0x000A]durante el combate.{0xBE01}[0x000A]También podrías intentar usar un Directo o un[0x000A]Defensa Esp. X si fuera necesario.{0xBE01}[0x000A]Pero hagas lo que hagas, no te despistes ni un[0x000A]momento en combates con Pokémon dominantes.{0x0114,0x000D}
+Aquí estás, {0x0100,0x0000}...{0xBE01}[0x000A]Espero que hayas vuelto con las pilas cargadas.{0x0114,0x000D}

@@ -1,0 +1,26 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+Non trovi che sia bello qui?[0x000A]Io non sto nella pelle!{0xBE01}[0x000A]Si dice che qui vivano dei Pokémon straordinari!
+Sniff sniff...{0xBE01}[0x000A]Lo sapevo! Qui da qualche parte si nasconde[0x000A]un Pokémon raro...{0xBE01}[0x000A]Noi ragazze abbiamo l’olfatto sensibile!
+Questo posto è stato chiuso per creare un habitat[0x000A]per i Pokémon.{0xBE01}[0x000A]Io da giovane lavoravo qui... Mi fa un certo effetto[0x000A]vedere che è cambiato tutto!
+Non posso avanzare più di così...[0x000A]Se solo avessi un Pokémon che conosce {0xFF00,0x0002}Sub{0xFF00,0x0000}...
+Oh! Hai la MT Sub!{0xBE01}[0x000A]Io non potrei mai immergermi[0x000A]perché ho la ciambella! Ah ah ah!
+Oh! Hai la MT Sub!{0xBE01}[0x000A]Io non potrei mai immergermi[0x000A]perché ho la ciambella! Ah ah ah!
+La porta è chiusa.{0xBE01}[0x000A]Sulla porta c’è scritto “Stanza 1”.
+La porta è chiusa.{0xBE01}[0x000A]Sulla porta c’è scritto “Stanza 2”.
+La porta è chiusa.{0xBE01}[0x000A]Sulla porta c’è scritto “Stanza 4”.
+La porta è chiusa.{0xBE01}[0x000A]Sulla porta c’è scritto “Stanza 6”.
+{0x0100,0x0000} usa[0x000A]{0x1500,0x0001}{0x0109,0x0001}!{0xBE01}[0x000A]La chiave è rimasta incastrata,[0x000A]ma la porta si è aperta!
+Ehi, ragazzin{0x1100,0x00FF,0x0101}oa!
+Secondo mio zio, in questo posto[0x000A]è nascosto un favoloso tesoro.{0xBE01}[0x000A]Tu ne sai qualcosa? No, vero?[0x000A]Beh... In effetti, come potresti...{0xBE01}[0x000A]Ma se scopri qualcosa, vieni[0x000A]subito a dirmelo, capito?
+Un favoloso tesoro, eh?{0xBE01}[0x000A]Ma quanto deve essere favoloso un tesoro[0x000A]per essere considerato... favoloso?{0xBE01}[0x000A]Eh eh eh! Mi sento come un bambino[0x000A]in un negozio di dolciumi...
+Questo posto sembra fatto apposta[0x000A]per essere esplorato! Che emozione!{0xBE01}[0x000A]E si dice anche che ci siano nascosti[0x000A]dei tesori!
+Non so a cosa serva, ma...[0x000A]ho trovato una chiave!{0xBE01}[0x000A]Chissà a cosa serve...[0x000A]Beh, la vuoi?
+Ecco a te!
+Non fare complimenti,[0x000A]tieni!
+Che emozione! Chissà che cosa aprirà![0x000A]Se lo scopri, dimmelo!
+Oh! Era la Chiave della stanza 1!{0xBE01}[0x000A]In effetti c’era scritto qualcosa, ma[0x000A]non riuscivo a leggerlo...{0xBE01}[0x000A]Adesso che lo so, non c’è più gusto![0x000A]Era più divertente fantasticare!
+Questo una volta era un impianto di energia elettrica.
+Sniff sniff... Senti senti...{0xBE01}[0x000A]Tu hai incontrato o catturato un Pokémon[0x000A]raro, vero?{0xBE01}[0x000A]Sniff sniff...{0xBE01}[0x000A]Però questo non è l’odore di un Pokémon[0x000A]di Hoenn.
+È un’insegna tutta rovinata.{0xBE01}[0x000A]“Le 10 regole d’oro di Ciclamare per rendere il posto[0x000A]di lavoro piacevole e divertente:{0xBE01}[0x000A]1. Salutare con entusiasmo al mattino.{0xBE01}[0x000A]2. Non portare Pokémon al lavoro.{0xBE01}[0x000A]3. In caso di ritardo, è doveroso fermarsi più a lungo.{0xBE01}[0x000A]4. La sicurezza prima di tutto.{0xBE01}[0x000A]5. Lavoro di squadra e responsabilità collettiva.{0xBE01}[0x000A]6. Obbedienza assoluta agli ordini dei superiori.{0xBE01}[0x000A]7. La qualità prima di tutto, il resto non conta.{0xBE01}[0x000A]8. Rispettare e ammirare i fondatori.{0xBE01}[0x000A]9. Niente vacanze fino alla pensione.{0xBE01}[0x000A]10. Pensare meno, lavorare di più.”

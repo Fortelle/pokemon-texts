@@ -1,0 +1,6 @@
+msg_t010champ01_gym_01=¡Hola, aspirante al título!{0xBE01}[0x000A]En la Liga Pokémon tendrás que luchar contra[0x000A]todos los miembros del Alto Mando, uno tras{0xBE00}[0x000A]otro.{0xBE01}[0x000A]Si pierdes, tendrás que volver a empezar.{0xBE01}[0x000A]Eso es todo. ¡A por ellos!
+msg_t010champ01_gym_02=Me muero por ver con qué nos sorprendes hoy[0x000A]en tus enfrentamientos.{0xBE01}[0x000A]¡Espero grandes cosas de ti!
+msg_t010champ01_elitef_01_01=Ahora lucharás contra todos los del Alto Mando,[0x000A]sin excepción.{0xBE01}[0x000A]Si ganas, se abrirá una puerta y pasarás al[0x000A]siguiente Entrenador.{0xBE01}[0x000A]¡Buena suerte!
+msg_t010champ01_elitem_01_01=¿Has comprado todo lo que tenías que comprar?[0x000A]¿Llevas el Botiquín repleto de objetos?{0xBE01}[0x000A]Te aguarda un reto extremadamente difícil, así[0x000A]que será mejor que no te descuides y que te{0xBE00}[0x000A]prepares bien antes de afrontar este desafío.
+msg_t010champ01_juggler_01_01=Madre mía, no consigo vencer ni a un solo[0x000A]miembro del Alto Mando...{0xBE01}[0x000A]No exageraban cuando decían que en la[0x000A]Liga Pokémon se encontraba la crème de la{0xBE00}[0x000A]crème de la región de Kanto.
+msg_t010champ01_kanban_01=Meseta Añil{0xBE01}[0x000A]Sede central de la Liga Pokémon, la máxima[0x000A]autoridad en lo que a Pokémon respecta.

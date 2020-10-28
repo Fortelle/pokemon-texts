@@ -1,0 +1,7 @@
+main_event_0470_telop_01=Le lendemain matin...
+main_event_0470_rival_01=Salut !{0x0114,0x0005}
+main_event_0470_rival_02=Je crois que le grand jour est arrivé ![0x000A]Notre histoire va commencer !{0x0114,0x0005}
+main_event_0470_rival_03=Viens, {0x0100,0x0000} ![0x000A]On fait la course jusqu’au Stade de Motorby !{0x0114,0x0005}
+main_event_0470_sister_01=Ça y est, le Défi des Arènes est lancé ! J’te dirais[0x000A]bien bonne chance, mais eh, j’vais gagner.{0x0114,0x000D}
+main_event_0470_rival_04=J’ai trop hâte de combattre ![0x000A]J’espère que j’aurai des fans, moi aussi !{0x0114,0x0005}
+main_event_0470_sister_02={0xBDFF:0x0006}

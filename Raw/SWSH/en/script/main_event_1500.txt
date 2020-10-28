@@ -1,0 +1,3 @@
+main_event_1500_rival_01=You sleep well, {0x0100,0x0000}?{0x0114,0x0005}
+main_event_1500_rival_02=My heart just wouldn’t stop racing somehow, and[0x000A]I couldn’t sleep a wink.{0xBE01}[0x000A]I spent the whole night practicing my ball throw...{0x0114,0x0005}
+main_event_1500_rival_03=That’s it! I’m heading to the stadium!{0xBE01}[0x000A]The Flying Taxis out front of the hotel can take[0x000A]you straight to it, so I’ll see you there, yeah?{0x0114,0x0005}

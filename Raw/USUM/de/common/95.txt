@@ -1,0 +1,167 @@
+Geld
+{0xBDFF:0x0001}
+Gewinnpunkte
+Festival-Münzen
+{0x0206,0x0000,0x002E} $
+{0x0204,0x0000,0x002E} $
+---
+{0xBDFF:0x0007}
+{0x0204,0x0000,0x0020} GP
+{0x0206,0x0000,0x002E} FM
+Abbrechen
+{0x0109,0x0000}
+{0x0107,0x0000}
+Die Auswahl wird abgebrochen und du kehrst ins[0x000A]vorherige Menü zurück.
+Du hast:
+{0x0202,0x0000}
+×
+{0x0201,0x0000}
+Hier, bitte sehr![0x000A]Vielen Dank für deinen Einkauf!
+Du hast nicht genügend Geld.
+Du hast dafür keinen Platz mehr.
+Ja
+Nein
+Willkommen beim Pokémon-Supermarkt![0x000A]Was möchtest du tun?
+Willkommen beim Pokémon-Supermarkt, Champ![0x000A]Was möchtest du tun?
+Ich will etwas kaufen.
+Ich will etwas verkaufen.
+Ich bin wunschlos glücklich.
+Wir freuen uns auf deinen nächsten Besuch!
+Gibt es noch etwas, womit ich dienen kann?
+Wie viele {0x1001}{0x0109,0x0000}[0x000A]möchtest du kaufen?
+Du möchtest also {0x0201,0x0001} {0x0109,0x0000}?[0x000A]Das macht dann {0x0206,0x0002,0x002E} $.
+Du möchtest also {0x0201,0x0001} {0x0109,0x0000}?[0x000A]Das macht dann {0x0206,0x0002,0x002E} $.
+Du hast deinen Einkauf in der[0x000A]{0x0112,0x0001}-Tasche verstaut.
+Du bekommst als Bonus noch[0x000A]einen Premierball dazu.
+Da du einen Coupon hast, bekommst du[0x000A]{0x0206,0x0000,0x002E} $ zurück.
+Du kannst deinen Coupon beliebig oft[0x000A]verwenden, solange du hier bist. Wir freuen{0xBE00}[0x000A]uns schon auf deinen nächsten Einkauf!
+Hier kannst du TMs kaufen![0x000A]Kann ich helfen?
+Diese TM hast du doch schon!
+Die TM{0x0202,0x0000} {0x0107,0x0001} also?[0x000A]Gut, das kostet dich dann {0x0206,0x0002,0x002E} $.
+{0x0107,0x0000} wurde in der[0x000A]{0x0112,0x0001}-Tasche verstaut.
+Hallo und willkommen bei der[0x000A]Gewinnpunkte-Tauschbörse!{0xBE01}[0x000A]Möchtest du deine Gewinnpunkte gegen Preise[0x000A]eintauschen?
+Sammle fleißig Gewinnpunkte und schau mal[0x000A]wieder vorbei.
+Tut mir echt leid, aber du hast nicht genug[0x000A]Gewinnpunkte...
+Wie viele {0x1001}{0x0109,0x0000}[0x000A]möchtest du tauschen?
+{0x0201,0x0001} {0x1000}{0x0109,0x0000}, nicht wahr?[0x000A]Das macht {0x0206,0x0002,0xE07F} GP.
+{0x0201,0x0001} {0x1001}{0x0109,0x0000}, nicht wahr?[0x000A]Das macht {0x0206,0x0002,0xE07F} GP.
+{0xBDFF:0x002F}
+Das ist für heute leider ausverkauft.[0x000A]Schau bitte morgen wieder vorbei!
+Das ist für heute leider ausverkauft.[0x000A]Schau bitte morgen wieder vorbei!
+{0x0109,0x0000}, richtig?[0x000A]Das macht {0x0206,0x0001,0x002E} FM. Schlägst du zu?
+{0x0109,0x0000}, richtig?[0x000A]Das macht {0x0206,0x0001,0x002E} FM. Schlägst du zu?
+Vielen Dank! Hier hast du dein Item.
+Vielen Dank! Hier hast du dein Item.
+{0x0107,0x0000} wurde in der[0x000A]{0x0112,0x0001}-Tasche verstaut.
+Dann mal her mit den Festival-Münzen!
+Dann mal her mit den Festival-Münzen!
+Du hast nicht genug Festival-Münzen!
+Du hast nicht genug Festival-Münzen!
+In deinem Beutel ist nicht genug Platz!
+In deinem Beutel ist nicht genug Platz!
+Um welches Pokémon soll ich mich kümmern?
+Um welches Pokémon soll ich mich kümmern?
+Ich glaube, bei diesem Pokémon bringt das[0x000A]nichts.
+Ich glaube, bei diesem Pokémon bringt das[0x000A]nichts.
+{0xBDFF:0x0041}
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}
+{0xBDFF:0x0046}
+{0xBDFF:0x0047}
+{0xBDFF:0x0048}
+Hallo!{0xBE01}[0x000A]Soll ich einem deiner Pokémon im Tausch[0x000A]gegen GP eine Attacke beibringen?
+Schau mal wieder vorbei, wenn du GP[0x000A]ausgeben willst!
+Welchem Pokémon soll ich eine Attacke[0x000A]beibringen?
+Welche Attacke soll durch[0x000A]{0x0107,0x0001} ersetzt werden?
+{0x0102,0x0000} hat[0x000A]{0x0107,0x0001} nicht erlernt.
+Eins,{0xBE02:0x0014} zwei{0xBE02:0x0014} und{0xBE02:0x0014}... schwupp!{0xBE05,0x0003}{0xBE05,0x0005}{0xBE01}[0x000A]{0x0102,0x0000} hat[0x000A]{0x0107,0x0002} vergessen.{0xBE01}[0x000A]Und...
+{0x0102,0x0000} erlernt[0x000A]{0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+Soll noch eine Attacke erlernt werden?
+Oh. Wie’s aussieht, beherrscht dieses[0x000A]Pokémon die Attacke bereits.
+Oh! Dieses Pokémon kann die Attacke[0x000A]nicht erlernen.
+Dann nehm ich mal die GP an mich.[0x000A]Vielen Dank!
+Du hast leider nicht genügend GP...
+Wie wäre es mit etwas wohlriechendem Rauch?
+Komm bald mal wieder!
+Kann ich sonst noch was für dich tun?
+{0x0109,0x0000} also.[0x000A]Wie viele Exemplare möchtest du kaufen?
+{0x0201,0x0001} Exemplar {0x0109,0x0000} kostet[0x000A]{0x0206,0x0002,0x002E} $. Schlägst du zu?
+{0x0201,0x0001} Exemplare {0x0109,0x0000} kosten[0x000A]{0x0206,0x0002,0x002E} $. Schlägst du zu?
+Vielen Dank! Hier hast du deinen Rauch.
+Tut mir echt leid, aber in deinem Beutel[0x000A]ist nicht mehr genug Platz...
+Äh... Sorry, aber du hast nicht genug Geld.
+Hi, ich verkaufe Naturheilmittel. Das ist nur ein[0x000A]Hobby von mir, aber meine Ware ist erstklassig!
+Komm bald wieder!
+Darf es sonst noch etwas sein?
+Wie viele {0x1001}{0x0109,0x0000}[0x000A]sollen es sein?
+{0x0201,0x0001} Exemplar des Items {0x0109,0x0000}[0x000A]macht {0x0206,0x0002,0x002E} $. Bist du dabei?
+{0x0201,0x0001} Exemplare des Items {0x0109,0x0000}[0x000A]machen {0x0206,0x0002,0x002E} $. Bist du dabei?
+Hier hast du deine Ware.[0x000A]Glaub mir, diese Kräuter sind sehr wirksam!
+Oha, dafür hast du leider keinen Platz!
+Tut mir echt leid, aber du hast nicht genug[0x000A]Geld dabei...
+Willkommen bei Maylas Schmuckstücken!
+Komm bald mal wieder!
+Kann ich sonst noch was für dich tun?
+Wie viele {0x1001}{0x0109,0x0000}[0x000A]möchtest du haben?
+{0x0201,0x0001} Exemplar des Items {0x0109,0x0000}[0x000A]macht {0x0206,0x0002,0x002E} $. Schlägst du zu?
+{0x0201,0x0001} Exemplare des Items {0x0109,0x0000}[0x000A]machen {0x0206,0x0002,0x002E} $. Schlägst du zu?
+Hier hast du deine Ware. Ich hab sie extra[0x000A]für dich hübsch verpackt.
+Das kannst du nicht mehr tragen, du schleppst[0x000A]schon zu viel davon mit dir herum!
+Tut mir wirklich leid, aber du hast nicht[0x000A]genug Geld...
+Interessierst du dich für Mode?[0x000A]Für Mode-Artikel, meine ich?
+Wenn dir der Sinn nach Mode-Artikeln steht,[0x000A]dann komm einfach zu mir!
+Möchtest du noch etwas anderes kaufen?
+Wie viele {0x1001}{0x0109,0x0000}[0x000A]möchtest du haben?
+{0x0201,0x0001} Exemplar des Items {0x0109,0x0000}[0x000A]macht {0x0206,0x0002,0x002E} $. Schlägst du zu?
+{0x0201,0x0001} Exemplare des Items {0x0109,0x0000}[0x000A]machen {0x0206,0x0002,0x002E} $. Schlägst du zu?
+Eine sehr modebewusste Wahl![0x000A]Hier hast du deine Ware.
+Du scheinst im Kaufrausch zu sein! In deinem[0x000A]Beutel ist auf jeden Fall kein Platz mehr dafür.
+Moment mal... Du hast ja gar nicht genug[0x000A]Geld dabei!
+Willkommen!
+Vielen Dank!
+Oh! Werte{0x1100,0x00FF,0x0001,0x0000}r {0x1100,0x00FF,0x0605,0x0000}KundeKundin! Dieser glänzende Z-Kristall...
+Du hast offenbar Elimas Prüfung bestanden!
+Du hast offenbar Tracys Prüfung bestanden!
+Du hast offenbar Kiawes Prüfung bestanden!
+Du hast offenbar Mahos Prüfung bestanden!
+Du hast offenbar Chrys’ Prüfung bestanden!
+Du hast offenbar Lolas Prüfung bestanden!
+Du hast offenbar die Prüfung im Canyon[0x000A]von Poni bestanden!
+Herzlichen Glückwunsch!{0xBE01}[0x000A]Das Warensortiment hat sich erweitert.[0x000A]Hoffentlich ist etwas für dich dabei...!
+Es ist uns eine ganz besondere Ehre, den ersten[0x000A]Champ der Alola-Region in unserem Geschäft{0xBE00}[0x000A]begrüßen zu dürfen!
+Du bist jetzt zwar der Champ, aber auf gewisse[0x000A]Weise geht deine Inselwanderschaft dennoch{0xBE00}[0x000A]weiter, oder?
+Wir vom Pokémon-Supermarkt hoffen sehr,[0x000A]dich auch in Zukunft bei deinen Abenteuern{0xBE00}[0x000A]mit allerlei Items unterstützen zu können!
+Billiger geht’s nicht! Hier ist jedes Angebot[0x000A]ein Schnäppchen! Was darf’s denn sein?
+Vielen Dank! Beehre uns bald wieder!
+Darf es sonst noch etwas sein?
+Das Item {0x0109,0x0000} erweckt dein[0x000A]Interesse? Wie viele Exemplare möchtest du?
+Das Item {0x0109,0x0000} also, alles klar![0x000A]{0x0201,0x0001} Exemplar{0x1101,0x0001,0x0100}e koste{0x1101,0x0001,0x0101}tn {0x0206,0x0002,0x002E} $!
+Das Item {0x0109,0x0000} also, alles klar![0x000A]{0x0201,0x0001} Exemplar{0x1101,0x0001,0x0100}e koste{0x1101,0x0001,0x0101}tn {0x0206,0x0002,0x002E} $!
+Hier ist deine Ware. Danke für deinen Einkauf!
+Ich fürchte, du hast nicht genügend Geld.
+Ich fürchte, dafür hast du keinen Platz.
+Sonst noch einen Wunsch?
+Hier, bitte sehr. Danke für deinen Einkauf!
+Du hast dafür keinen Platz mehr!
+Willkommen!{0xBE01}[0x000A]Möchtest du deine Gewinnpunkte gegen Preise[0x000A]eintauschen?
+Komm doch wieder vorbei, wenn du genügend[0x000A]Gewinnpunkte angesammelt hast.
+Ich bin wirklich untröstlich, aber deine[0x000A]Gewinnpunkte reichen nicht aus.
+Wie viele {0x1001}{0x0109,0x0000} möchtest du[0x000A]tauschen?
+{0x0201,0x0001} Exemplar des Items {0x0109,0x0000}[0x000A]kostet {0x0206,0x0002,0xE07F} GP. Greifst du zu?
+{0x0201,0x0001} Exemplare des Items {0x1000}{0x0109,0x0000}[0x000A]kosten {0x0206,0x0002,0xE07F} GP. Greifst du zu?
+Sonst noch einen Wunsch?
+Hier, bitte sehr. Vielen Dank!
+Du hast dafür keinen Platz mehr!
+Alola, Trainer! Willst du deine Gischtpunkte,[0x000A]äh, Gewinnpunkte gegen Preise eintauschen?
+Komm doch wieder vorbeigesurft, wenn du[0x000A]genügend GP angesammelt hast.
+Deine GP reichen leider nicht aus. Bezwing doch[0x000A]ein paar Wellen auf Mantax, um das zu ändern!
+Wie viele {0x1001}{0x0109,0x0000} möchtest du[0x000A]tauschen?
+{0x0201,0x0001} Exemplar des Items {0x0109,0x0000}[0x000A]kostet {0x0206,0x0002,0xE07F} GP. Greifst du zu?
+{0x0201,0x0001} Exemplare des Items {0x1000}{0x0109,0x0000}[0x000A]kosten {0x0206,0x0002,0xE07F} GP. Greifst du zu?
+Gibt es noch etwas, das dein Surfer-Herz[0x000A]höherschlagen lässt?
+Hier, bitte sehr. Vielen Dank auch!
+Scheint, als wäre dein Beutel voll. Tut mir leid,[0x000A]da musst du wohl erst mal etwas aufräumen.
+Hey, sieht aus, als hättest du Matsurikas[0x000A]Prüfung bestanden!
+Herzlichen Glückwunsch!{0xBE01}[0x000A]Das Warensortiment hat sich diesmal zwar nicht[0x000A]erweitert, aber wir alle hier freuen uns mächtig{0xBE00}[0x000A]über deinen Erfolg und sind stets für dich da!

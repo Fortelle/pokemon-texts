@@ -1,0 +1,9 @@
+main_event_1120_trainer_01=Challenger, souhaites-tu relever le défi[0x000A]de notre Arène ?
+main_event_select_01=Bien sûr !
+main_event_select_02=Pas tout de suite.
+main_event_1120_trainer_02=Dans ce cas, va te changer, je te prie.[0x000A]Tu dois revêtir ton uniforme !{0xBE01}[0x000A]Ce n’est pas une Mission à proprement parler[0x000A]qui t’attend, mais un véritable test de fortitude.
+main_event_1120_trainer_04=Ouah ! L’uniforme te va super bien ![0x000A]Respire un bon coup, ça va aller. Bonne chance !
+main_event_1120_trainer_03=Hum. Tâche de venir préparé{0x1100,0x00FF,0x0100}e, la prochaine fois.
+main_event_1120_trainer_05=J’espère que tu apprécieras la Mission ![0x000A]Le plus important, c’est de s’amuser !
+main_event_1120_trainer_06=Sally t’a déjà donné une CT, n’est-ce pas ?[0x000A]Alors c’est parfait.{0xBE01}[0x000A]Prochaine étape pour toi : l’Arène de Ludester !
+main_event_1120_trainer_07=Oooh, que le Badge Fée te va bien ![0x000A]Continue comme ça, {0x0100,0x0000} !

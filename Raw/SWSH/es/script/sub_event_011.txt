@@ -1,0 +1,13 @@
+sub_event_011_master_01=¡Hola! Te doy la bienvenida al Café Combate.
+sub_event_011_master_02=¿Hmm? Parece que ya has tenido tu ración diaria[0x000A]de combates. ¡Mañana más y mejor!
+sub_event_011_master_03=¡Un intento al día! Si ganas, podrás llevarte[0x000A]suculentos premios.{0xBE01}[0x000A]¿Qué me dices? ¿Te hace un combate?
+sub_event_011_master_04=¡Maravilloso! ¡Que dé comienzo el combate!
+sub_event_011_master_05a=¡Ha sido un combate tan exquisito como un vaso[0x000A]de Leche Mu-mu de la mejor calidad!
+sub_event_011_master_05b=¡Ha sido un combate tan fragante como un vaso[0x000A]de Limonada recién exprimida!
+sub_event_011_master_05c=¡Ha sido un combate tan reconfortante como[0x000A]una taza calentita de Skittolate!
+sub_event_011_master_05d=¡Ha sido un combate tan intenso como el sabor[0x000A]de un Zumo de Pinia!
+sub_event_011_master_05e=¡Ha sido un combate tan elegante y refinado[0x000A]como una buena taza de Té Roserade!
+sub_event_011_master_05f=¡Ha sido un combate tan estimulante como una[0x000A]taza de Expreso Granbull!
+sub_event_011_master_06=Aquí tienes el suculento premio que te prometí.
+sub_event_011_master_07=Me temo que aquí solo se celebran Combates[0x000A]Dobles, de modo que tendrás que volver con al{0xBE00}[0x000A]menos dos Pokémon que puedan combatir.
+sub_event_011_master_08=¡Esperamos verte de nuevo por aquí!

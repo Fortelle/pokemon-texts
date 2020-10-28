@@ -1,0 +1,43 @@
+La carte SD est pleine.[0x000A]Impossible de télécharger les données.
+Aucune donnée n’a été trouvée sur[0x000A]le serveur.[0x000A]Réessayez ultérieurement.
+La connexion avec le serveur a été[0x000A]interrompue.
+{0xBDFF:0x0003}
+Un problème de connexion est survenu[0x000A]et celle-ci a été interrompue.
+La communication avec votre partenaire[0x000A]a été interrompue.
+La connexion avec le serveur a été[0x000A]interrompue.
+Échec de la connexion.
+Échec de la communication avec votre[0x000A]partenaire. Veuillez recommencer depuis[0x000A]le début.
+Le serveur est en cours de maintenance.[0x000A]Réssayez ultérieurement.
+Le port infrarouge de votre console est[0x000A]peut-être endommagé.[0x000A]Veuillez recommencer depuis le début.[0x000A]Si le problème persiste, veuillez[0x000A]contacter le service consommateurs[0x000A]Nintendo.
+La connexion avec le serveur a été[0x000A]interrompue.
+La communication infrarouge a échoué.[0x000A]Veuillez vous assurer de choisir la même[0x000A]option de jeu que votre partenaire,[0x000A]puis essayez à nouveau.
+Erreur du serveur du Pokémon Global[0x000A]Link.[0x000A]Réessayez ultérieurement.[0x000A](Code d’erreur : 090-0200)
+Erreur du serveur du Pokémon Global[0x000A]Link.[0x000A]Réessayez ultérieurement.[0x000A](Code d’erreur : 090-0201)
+Erreur du serveur du Pokémon Global[0x000A]Link.[0x000A]Réessayez ultérieurement.[0x000A](Code d’erreur : 090-0202)
+Erreur du serveur du Pokémon Global[0x000A]Link.[0x000A]Réessayez ultérieurement.[0x000A](Code d’erreur : 090-0203)
+Erreur du serveur du Pokémon Global[0x000A]Link.[0x000A]Réessayez ultérieurement.[0x000A](Code d’erreur : 090-0204)
+Erreur du serveur du Pokémon Global[0x000A]Link.[0x000A]Réessayez ultérieurement.[0x000A](Code d’erreur : 090-0205)
+Erreur du serveur du Pokémon Global[0x000A]Link.[0x000A]Réessayez ultérieurement.[0x000A](Code d’erreur : 090-0206)
+Le serveur du Pokémon Global Link[0x000A]est surchargé.[0x000A]Veuillez laisser s’écouler un peu de[0x000A]temps avant de relancer la Synchro-Jeu.[0x000A](Code d’erreur : 090-0207)
+Erreur du serveur du Pokémon Global[0x000A]Link.[0x000A]Réessayez ultérieurement.[0x000A](Code d’erreur : 090-0208)
+Erreur du serveur du Pokémon Global[0x000A]Link.[0x000A]Réessayez ultérieurement.[0x000A](Code d’erreur : 090-0209)
+Une opération de maintenance est en[0x000A]cours sur le site du Pokémon Global[0x000A]Link.[0x000A]Veuillez laisser s’écouler un peu de[0x000A]temps avant de réessayer.[0x000A](Code d’erreur : 090-0210)
+Le service pour ce logiciel a été[0x000A]interrompu.[0x000A]http://www.pokemon-gl.com[0x000A](Code d’erreur : 090-0211)
+Erreur du serveur du Pokémon Global[0x000A]Link.[0x000A]Veuillez laisser s’écouler un peu de[0x000A]temps avant de réessayer.[0x000A](Erreur HTTP : 500)
+Erreur du serveur du Pokémon Global[0x000A]Link.[0x000A]Veuillez laisser s’écouler un peu de[0x000A]temps avant de réessayer.[0x000A](Erreur HTTP : 502)
+Erreur du serveur du Pokémon Global[0x000A]Link.[0x000A]Veuillez laisser s’écouler un peu de[0x000A]temps avant de réessayer.[0x000A](Erreur HTTP : 503)
+{0xBDFF:0x001C}
+Une erreur est survenue avec le serveur[0x000A]d’authentification du code.[0x000A]Réessayez ultérieurement.[0x000A](Code d’erreur : 090-0200)
+Une erreur est survenue avec le serveur[0x000A]d’authentification du code.[0x000A]Réessayez ultérieurement.[0x000A](Code d’erreur : 090-0201)
+Une erreur est survenue avec le serveur[0x000A]d’authentification du code.[0x000A]Réessayez ultérieurement.[0x000A](Code d’erreur : 090-0202)
+Une erreur est survenue avec le serveur[0x000A]d’authentification du code.[0x000A]Réessayez ultérieurement.[0x000A](Code d’erreur : 090-0203)
+Une erreur est survenue avec le serveur[0x000A]d’authentification du code.[0x000A]Réessayez ultérieurement.[0x000A](Code d’erreur : 090-0204)
+Une erreur est survenue avec le serveur[0x000A]d’authentification du code.[0x000A]Réessayez ultérieurement.[0x000A](Code d’erreur : 090-0205)
+Une erreur est survenue avec le serveur[0x000A]d’authentification du code.[0x000A]Réessayez ultérieurement.[0x000A](Code d’erreur : 090-0206)
+Impossible d’accéder au serveur[0x000A]d’authentification du code pour[0x000A]cause de maintenance.[0x000A]Veuillez laisser s’écouler un peu de[0x000A]temps avant de réessayer.[0x000A](Code d’erreur : 090-0210)
+Le service pour ce logiciel a été[0x000A]interrompu.[0x000A](Code d’erreur : 090-0211)
+Une erreur est survenue avec le serveur[0x000A]d’authentification du code.[0x000A]Veuillez laisser s’écouler un peu de[0x000A]temps avant de réessayer.[0x000A](Erreur HTTP : 500)
+Une erreur est survenue avec le serveur[0x000A]d’authentification du code.[0x000A]Veuillez laisser s’écouler un peu de[0x000A]temps avant de réessayer.[0x000A](Erreur HTTP : 502)
+Une erreur est survenue avec le serveur[0x000A]d’authentification du code.[0x000A]Veuillez laisser s’écouler un peu de[0x000A]temps avant de réessayer.[0x000A](Erreur HTTP : 503)
+La carte SD n’est pas reconnue.[0x000A][0x000A]Veuillez éteindre la console, retirer[0x000A]la carte SD, puis la réinsérer.
+Erreur de communication.[0x000A][0x000A]Maintenez le bouton POWER[0x000A]enfoncé pour éteindre la console,[0x000A]puis rallumez-la et réessayez.

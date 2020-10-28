@@ -1,0 +1,12 @@
+main_event_0270_rival_01=ほら　博士だぞ！{0x0114,0x0005}
+main_event_0270_champion_01=ダイマックスの　秘密は[0x000A]１００パーセント　あきらかに？{0x0114,0x0004}
+main_event_0270_doctor_01=いえいえ　そんな……[0x000A]まだまだ　謎ばかりですよ{0xBE01}[0x000A]孫が　ひきついで　くれれば……[0x000A]そんな風に　考えて　いましたが{0x0114,0x0042}
+main_event_0270_doctor_02=おやおや　ごめんなさいね[0x000A]お客さまに　気づかないだなんて{0x0114,0x0042}
+main_event_0270_doctor_03=わたしは　マグノリア[0x000A]ようこそ　若い　トレーナーたち{0xBE00}[0x000A]ひとまず　家に　いらっしゃいな{0x0114,0x000A}
+main_event_0270_rival_02={0xBDFF:0x0005}
+main_event_0270_doctor_04={0xBDFF:0x0006}
+main_event_0270_champion_02={0xBDFF:0x0007}
+main_event_0270_doctor_05={0xBDFF:0x0008}
+main_event_0270_champion_03={0xBDFF:0x0009}
+main_event_0270_champion_04={0xBDFF:0x000A}
+main_event_0270_doctor_06={0xBDFF:0x000B}

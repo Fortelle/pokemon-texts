@@ -1,0 +1,40 @@
+Oui
+Non
+Voulez-vous arrêter[0xE07F]?
+Combat Solo
+Combat Duo
+Combat Trio
+Combat Rotatif
+Combat Multi
+Règles normales
+Règles strictes
+Tout est permis
+COLISÉE
+Pokémon au combat
+Boîte Combat
+Équipe Pokémon
+{0xFF00,0x0002}♂{0xFF00,0x0000}
+{0xFF00,0x0001}♀{0xFF00,0x0000}
+{0xBDFF:0x0011}
+L
+{0x0202,0x0000}
+Position
+1[0xE08A]
+2[0xE0A6]
+3[0xE0A6]
+4[0xE0A6]
+???
+Équipe Pokémon
+Sac
+Que le combat commence[0xE07F]!
+Veuillez choisir les Pokémon que vous voulez[0x000A]inscrire.
+En attente…
+Un problème est survenu.[0x000A]Fin de la rencontre.
+Vous ne remplissez pas les conditions.[0x000A]Impossible de participer.
+Préparation en cours[0xE08D][0x000A]Veuillez patienter.
+Êtes-vous doué{0x1100,0x00FF,0x0100}e en combats[0xE07F]?
+Vous avez quitté la partie[0xE08D]
+Très[0xE07F]!
+Moyennement.
+Je débute[0xE08D]
+Mise à jour des positions en cours[0xE08D][0x000A]Veuillez patienter.

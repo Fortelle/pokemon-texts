@@ -1,0 +1,37 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+Frente de Batalla de Sinnoh
+Región de Johto
+Región de Teselia
+Jardín del palacio
+Ciudad Romantis
+Cueva Brillante
+Reloj Solar de Fluxus
+Según la explicación de la audioguía:{0xBE01}[0x000A]“En el campo de batalla de Sinnoh se pueden[0x000A]encontrar unas instalaciones relacionadas con los{0xBE00}[0x000A]combates Pokémon, compuestas por un total de{0xBE00}[0x000A]cinco edificios: Torre Batalla, Fábrica Batalla,{0xBE00}[0x000A]Ruleta Batalla, Sala Batalla y Castillo Batalla”.
+Según la explicación de la audioguía:{0xBE01}[0x000A]“En esta región abundan leyendas y antiguas[0x000A]historias acerca de Pokémon”.
+Según la explicación de la audioguía:{0xBE01}[0x000A]“En esta región se reúnen multitud de Pokémon y[0x000A]de personas, como si se tratara de un mosaico, y{0xBE00}[0x000A]de ahí es de donde procede su nombre.{0xBE01}[0x000A]Los mosaicos están formados por un sinfín de[0x000A]teselas, por lo que decidieron bautizar a la región{0xBE00}[0x000A]como Teselia”.
+Según la explicación de la audioguía:[0x000A]“Los jardines del Palacio Cénit.{0xBE01}[0x000A]En este cuadro se puede contemplar una preciosa[0x000A]estatua que conmemora la colaboración de{0xBE00}[0x000A]humanos y Pokémon. Esta pieza forma parte de una{0xBE00}[0x000A]colección de cuadros que artistas extranjeros han{0xBE00}[0x000A]pintado durante sus viajes por la región de Kalos”.
+Según la explicación de la audioguía:{0xBE01}[0x000A]“Ciudad que se asemeja a un recóndito claro de[0x000A]bosque habitado por hadas. En su zona central se{0xBE00}[0x000A]yergue un enorme árbol que aloja el Gimnasio{0xBE00}[0x000A]Pokémon. Esta pieza forma parte de una colección{0xBE00}[0x000A]de cuadros que artistas extranjeros han pintado{0xBE00}[0x000A]durante sus viajes por la región de Kalos”.
+Según la explicación de la audioguía:{0xBE01}[0x000A]“Cueva oscura y angosta, cuyo interior está[0x000A]tenuemente iluminado por la lúgubre luz del{0xBE00}[0x000A]Musgo Brillante que crece en sus paredes.{0xBE01}[0x000A]Esta pieza forma parte de una colección de cuadros[0x000A]que artistas extranjeros han pintado durante sus{0xBE00}[0x000A]viajes por la región de Kalos”.
+Según la explicación de la audioguía:{0xBE01}[0x000A]“Reloj que brilla cuando inciden sobre él los rayos[0x000A]de sol durante el crepúsculo. Se desconoce{0xBE00}[0x000A]el porqué, pero el autor ha representado el reloj{0xBE00}[0x000A]reflejado en un espejo.{0xBE01}[0x000A]Esta pieza forma parte de una colección de cuadros[0x000A]que artistas extranjeros han pintado durante{0xBE00}[0x000A]sus viajes por la región de Kalos”.
+Bienvenid{0x1100,0x00FF,0x0101}oa al Museo de Arte de Luminalia.{0xBE01}[0x000A]La entrada es gratuita, así que cualquiera puede[0x000A]disfrutar del arte.{0xBE01}[0x000A]¿Quiere entrar?
+Bienvenid{0x1100,0x00FF,0x0101}oa al Museo de Arte de Luminalia.{0xBE01}[0x000A]¿Quiere entrar?
+Que tenga un buen día.
+Tenemos a su disposición un servicio de audioguías[0x000A]que le proporcionan información detallada acerca{0xBE00}[0x000A]de las obras del museo, por tan solo 200 $.{0xBE01}[0x000A]¿Quiere una audioguía?
+Muy bien. Aquí tiene su audioguía. Acérquese al[0x000A]dispositivo que hay al lado de cada obra y actívela{0xBE00}[0x000A]para escuchar la explicación.
+Me temo que no tiene suficiente dinero para hacer[0x000A]uso del servicio de audioguías, pero aun así puede{0xBE00}[0x000A]entrar en el museo. ¿Quiere entrar?
+Disfrute de su visita.
+La salida está a la izquierda de la recepción.
+Recuerde que ha de devolver la audioguía cuando[0x000A]decida abandonar el museo. ¿Quiere salir?
+Muchas gracias por su visita.
+Muy bien. Espero que disfrute de su visita.
+La entrada está a la derecha de la recepción.
+¡Qué preciosidad!
+Shh, baja la voz...
+Mmm, me da en la nariz que no eres de la región[0x000A]de Kalos, ¿a que no?{0xBE01}[0x000A]¿Acaso te has mudado a esta ciudad? En tal caso,[0x000A]toma este pequeño regalo de bienvenida.
+Cola Dragón es un movimiento que no solo inflige[0x000A]daño al enemigo, sino que lo expulsa del combate.{0xBE01}[0x000A]Mi querido Pokémon aprendió este movimiento en[0x000A]la Aldea de los Dragones. Úsalo cuando te haga{0xBE00}[0x000A]falta.
+Con una audioguía puedes obtener información[0x000A]detallada acerca de las obras de arte.
+Soy la conservadora de este museo, y mis tareas[0x000A]consisten en organizar exposiciones de arte y{0xBE00}[0x000A]coleccionar las obras más interesantes.{0xBE01}[0x000A]Ahora que caigo, ¿“conservadora” no te suena[0x000A]casi a nombre de un movimiento Pokémon?
+¡Guaaau! Los cuadros se hacen grandes y después[0x000A]pequeños. Molaaa.
+Cada uno disfruta del arte de maneras diferentes.[0x000A]La belleza es subjetiva, al fin y al cabo.
+Como es un{0x1100,0x00FF,0x0100}a visitante de lo más estilos{0x1100,0x00FF,0x0101}oa, me[0x000A]agrada informarle de que le obsequiamos con un{0xBE00}[0x000A]servicio de audioguías gratuito.

@@ -1,0 +1,5 @@
+msg_sub053_police_F_01=Da igual a cuántos miembros del Team Rocket[0x000A]atrapemos, siempre acaban apareciendo más...{0xBE01}[0x000A]¡Salen hasta de debajo de las piedras!
+msg_sub053_police_F_02=¿Tú no eres quien nos ha estado ayudando a[0x000A]darle al Team Rocket su merecido?{0xBE01}[0x000A]No hace falta que digas nada, puedo leerte[0x000A]como un libro abierto. ¡Toma esto como{0xBE00}[0x000A]agradecimiento por tu inestimable ayuda!
+msg_sub053_sys_01=La agente te ha hecho entrega de un[0x000A]{0xFF00,0x0006}Conjunto Policía{0xFF00,0x0000}.
+msg_sub053_sys_02=Has puesto el {0xFF00,0x0006}Conjunto Policía {0xFF00,0x0000}en la Maleta.
+msg_sub053_police_F_03=Desde luego, te mereces llevar el uniforme de[0x000A]policía con todos los galones. Yo diría que eres{0xBE00}[0x000A]incluso mejor agente que yo.{0xBE01}[0x000A]Muchas gracias por proteger la paz y el bienestar[0x000A]de Ciudad Azafrán.

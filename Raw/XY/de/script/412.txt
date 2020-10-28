@@ -1,0 +1,20 @@
+Oh! Sieh an, ein neues Gesicht![0x000A]Ausgezeichnet. Hier, das ist für dich!
+Und das hier ebenso!
+In einem Pokémon-Kampf kann es deinem Partner[0x000A]den Hals retten, wenn du als Trainer in jeder{0xBE00}[0x000A]Situation das richtige Item parat hast.
+Was es mit den Wechselwirkungen zwischen[0x000A]den Typen auf sich hat, möchtest du wissen?{0xBE01}[0x000A]Ich sag’s dir! Wasser ist sehr effektiv gegen Feuer.[0x000A]Feuer dagegen schlägt Pflanze und Wasser zieht{0xBE00}[0x000A]gegen Pflanze den Kürzeren.
+Wie du sicherlich bereits weißt,[0x000A]kannst du Pokémon Items zum Tragen geben.
+Auch Attacken werden bestimmten Typen zugeteilt.{0xBE01}[0x000A]Setzt dein Pokémon eine Attacke ein, deren Typ[0x000A]mit seinem eigenen Typ übereinstimmt,{0xBE00}[0x000A]steigt die Stärke der Attacke.
+Am Kampf beteiligte Team-Pokémon erhalten, auch[0x000A]wenn du ein wildes Pokémon fängst, E.-Punkte!{0xBE01}[0x000A]Woher ich das weiß? Eines meiner Pokémon ist[0x000A]auf diese Weise mal einen Level aufgestiegen!
+Auf der Tafel stehen Erläuterungen zu den[0x000A]Statusproblemen, die sich Pokémon im Kampf{0xBE00}[0x000A]zuziehen können.
+Welche möchtest du lesen?
+Wenn ein Pokémon vergiftet wurde,[0x000A]verliert es im Kampf Runde um Runde KP.{0xBE01}[0x000A]Das Gift wirkt auch noch in den[0x000A]darauffolgenden Kämpfen.{0xBE01}[0x000A]Mit einem Gegengift kann das Pokémon[0x000A]geheilt werden.
+Paralyse verringert die Initiative eines Pokémon[0x000A]und hindert es gelegentlich am Angriff.{0xBE01}[0x000A]Da Paralyse auch nach dem Kampf wirkt,[0x000A]solltest du sie mit einem Para-Heiler aufheben.
+Wenn ein Pokémon einschläft,[0x000A]kann es nicht mehr wie gewohnt angreifen.{0xBE01}[0x000A]Mit etwas Glück wachen schlafende Pokémon[0x000A]von selbst wieder auf. Wenn der Kampf aber endet,{0xBE00}[0x000A]bevor dies geschieht, schlafen sie erst mal weiter.{0xBE01}[0x000A]In diesem Fall schafft das Item Aufwecker Abhilfe.
+Verbrennungen senken die Angriffskraft[0x000A]und führen wiederholt zu KP-Verlusten.{0xBE01}[0x000A]Das Statusproblem bleibt auch in den[0x000A]darauffolgenden Kämpfen bestehen.{0xBE01}[0x000A]Setze einen Feuerheiler ein, um es aufzuheben.
+Wird ein Pokémon eingefroren, ist es völlig hilflos.{0xBE01}[0x000A]In manchen Fällen taut es von selbst während[0x000A]des Kampfes wieder auf.{0xBE01}[0x000A]Ist der Kampf jedoch zu Ende, bleibt es gefroren![0x000A]Setze einen Eisheiler ein, um es aufzutauen.
+Vergiftung
+Paralyse
+Schlaf
+Verbrennung
+Gefroren
+Abbrechen

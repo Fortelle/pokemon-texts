@@ -1,0 +1,14 @@
+msg_main0475_rival_01={0xFF00,0x0009}{0x0100,0x0001} :{0xFF00,0x0000} Yop ![0x000A]{0x0100,0x0000} !
+msg_main0475_rival_02=C’est bon, l’assistant t’a enseigné la Technique[0x000A]Secrète Lumière ? Tu gères ?
+msg_main0475_rival_03=Quoi ?! C’est pas toi qui l’as apprise,[0x000A]c’est {0x0102,0x0003} ?{0xBE01}[0x000A]C’est fou quand même, tout ce qu’il sait faire...
+msg_main0475_rival_10=En tout cas, je connais un coin où cette technique[0x000A]pourrait bien te servir.{0xBE01}[0x000A]C’est pas loin, tu veux que je t’y emmène ?
+msg_main0475_select_01=Ouais ! Allons-y ensemble !
+msg_main0475_select_02=Je crois que je préfère y aller tout{0x1100,0x00FF,0x0100}e seul{0x1100,0x00FF,0x0100}e.
+msg_main0475_rival_04=Cool ! Suis-moi !
+msg_main0475_rival_05=Alors, une fois sortis d’Azuria par l’est...
+msg_main0475_rival_06=Voilà, c’est par ici ! Si tu continues tout droit,[0x000A]tu vas tomber sur la {0xFF00,0x0006}Grotte Sombre{0xFF00,0x0000}.{0xBE01}[0x000A]Comme son nom l’indique, bah... c’est une grotte[0x000A]où on ne voit rien du tout.
+msg_main0475_rival_07=Donc ce sera bien pratique d’avoir la TS Lumière[0x000A]là-bas, histoire de voir où tu mets les pieds.{0xBE01}[0x000A]Amuse-toi bien !
+msg_main0475_rival_08=T’es sûr{0x1100,0x00FF,0x0100}e ? Ça va aller ?
+msg_main0475_select_03=Oui, je veux y aller tout{0x1100,0x00FF,0x0100}e seul{0x1100,0x00FF,0x0100}e !
+msg_main0475_select_04=Finalement, je préfère que tu me guides !
+msg_main0475_rival_09=Ça roule ! Je vais te dire où c’est, comme ça[0x000A]tu pourras pas te tromper.{0xBE01}[0x000A]C’est pas sorcier : tu sors d’{0xFF00,0x0006}Azuria {0xFF00,0x0000}par l’est[0x000A]et tu suis la route.{0xBE01}[0x000A]Au bout d’un moment, tu vas tomber sur[0x000A]un panneau qui dit « {0xFF00,0x0006}Grotte Sombre {0xFF00,0x0000}». C’est là !{0xBE01}[0x000A]Fais attention et amuse-toi bien !

@@ -1,0 +1,14 @@
+main_event_0020_rival_06=Hello, hello!{0x0114,0x0005}
+main_event_0020_rival_01=Oh! That your flash new phone, {0x0100,0x0000}?{0xBE01}[0x000A]Were you watching Lee’s exhibition match on it?[0x000A]But you can’t cheer him on with your hands full!{0xBE01}[0x000A]You know the only way to properly cheer on Lee[0x000A]would be with his famous Charizard pose!{0x0114,0x0005}
+main_event_0020_mama_01=Hop! Didn’t expect to see you here today, dear.[0x000A]Isn’t this the big day?{0x0114,0x0008}
+main_event_0020_rival_02=Yeah, that’s exactly why I came running over to[0x000A]get {0x0100,0x0000}!{0x0114,0x0005}
+main_event_0020_rival_03=Never mind watching the match now!{0xBE01}[0x000A]I’ve got it recording at home anyway.[0x000A]I record all my brother’s matches.{0x0114,0x0005}
+main_event_0020_rival_04=Come with me, {0x0100,0x0000}![0x000A]He should be here any minute!{0xBE01}[0x000A]And Lee always brings presents when he visits,[0x000A]so I wouldn’t forget that Bag if I were you!{0x0114,0x0005}
+main_event_0020_rival_05=Now I’ve got to run! See you at mine later!{0x0114,0x0005}
+main_event_0020_mama_02=What is it, love?[0x000A]Isn’t Hop expecting you?{0x0114,0x0008}
+main_event_0020_mama_03=Rushing off in that state, {0x0100,0x0000}?[0x000A]Didn’t Hop say you should bring your Bag?{0xBE01}[0x000A]I last saw it in your room. And don’t forget to[0x000A]grab a hat for the weather!{0x0114,0x0008}
+main_event_0020_system_01=You grabbed your dad’s old Bag!
+main_event_0020_system_02=You grabbed your mum’s old Bag!
+main_event_0020_system_03={0xBDFF:0x000B}
+main_event_0020_system_04={0xBDFF:0x000C}
+main_event_0020_mama_04=Oh, don’t you look a treat![0x000A]I knew that Bag would suit you.{0xBE01}[0x000A]Now hurry along. Hop is waiting, isn’t he?{0xBE01}[0x000A]But remember—no going into the forest for[0x000A]the two of you!{0x0114,0x0008}

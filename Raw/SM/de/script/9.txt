@@ -1,0 +1,10 @@
+Ja
+Nein
+{0x0206,0x0008,0x002E} $
+Möchtest du das Spiel speichern?
+Speichervorgang...[0x000A]Bitte das System nicht ausschalten.
+Du hast das Spiel gespeichert.
+Es gibt bereits einen Spielstand.[0x000A]Speichern ist daher nicht möglich.{0xBE01}[0x000A]Weitere Details dazu findest du in der[0x000A]elektronischen Bedienungsanleitung.
+Speichern fehlgeschlagen.
+Du erhältst {0x0207,0x0002,0x002E} $!
+{0x0101,0x0001} erhalten!

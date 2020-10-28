@@ -1,0 +1,8 @@
+msg_t005r0101_youngm_01=¡Qué raro! El Sr. Fuji no está aquí.[0x000A]¿Adónde habrá ido?
+msg_t005r0101_youngm_02=El Sr. Fuji estaba rindiendo homenaje a la madre[0x000A]del Cubone.
+msg_t005r0101_juveniles_01=Esta es la casa del Sr. Fuji.[0x000A]Es un hombre muy amable que cuida de los{0xBE00}[0x000A]Pokémon huérfanos y abandonados.
+msg_t005r0101_juveniles_02=¡Es tan bonito abrazar a los Pokémon!
+msg_t005r0101_poke_01={0xFF00,0x0009}Nidorino:{0xFF00,0x0000} ¡Nidor!
+msg_t005r0101_poke_02={0xFF00,0x0009}Psyduck:{0xFF00,0x0000} ¡Duuuck!
+msg_book_01_p01_t005_r0101="¡Gran concurso mensual de dibujo de la revista[0x000A]'Nuestros amigos Pokémon'!{0xBE01}[0x000A]Puedes encontrar el formulario en..."{0xBE01}[0x000A]¡Anda, se lo han llevado!
+msg_book_02_p01_t005_r0101=Hay revistas sobre los Pokémon, cuadernos de[0x000A]Pokémon y dibujos de Pokémon.

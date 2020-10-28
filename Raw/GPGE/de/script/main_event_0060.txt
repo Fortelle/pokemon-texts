@@ -1,0 +1,9 @@
+msg_main0060_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Augenblick!
+msg_main0060_rival_04={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Das Trainer-Dasein besteht[0x000A]nicht nur aus dem Fangen von Pokémon.{0xBE01}[0x000A]{0xFF00,0x0006}Trainer{0xFF00,0x0000} tragen untereinander nämlich auch[0x000A]{0xFF00,0x0006}Kämpfe{0xFF00,0x0000} mit ihnen aus!{0xBE01}[0x000A]Ich zeige dir mal, wie das geht!
+msg_main0060_rival_05=Los, kämpfen wir!
+msg_main0060_8rom_01={0xBDFF:0x0003}
+msg_main0060_rival_02={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Oh Mann, hätte ich den Mund[0x000A]bloß nicht so voll genommen... Wie peinlich!{0xBE01}[0x000A]Ich hätte mein Pokémon vor unserem ersten[0x000A]Kampf richtig trainieren sollen...
+msg_main0060_rival_06={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Hehe, gewonnen!{0xBE01}[0x000A]Oh, ich meine... Mach dir nichts draus. Okay?
+msg_main0060_rival_03=Lass uns das bald mal wiederholen!
+msg_main0060_doctor_01={0xFF00,0x0009}Prof. Eich:{0xFF00,0x0000} Na, wie war dein erster Kampf?{0xBE01}[0x000A]Dein Partner {0x0101,0x0002} hat sich ganz[0x000A]ausgezeichnet gemacht, muss ich sagen!
+msg_main0060_doctor_02={0xFF00,0x0009}Prof. Eich:{0xFF00,0x0000} Kämpfe unterwegs gegen zahlreiche[0x000A]Trainer und trainiere deine Pokémon sorgfältig.{0xBE01}[0x000A]Versuche außerdem, viele neue Pokémon[0x000A]zu fangen!

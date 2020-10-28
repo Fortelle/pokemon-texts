@@ -1,0 +1,101 @@
+Bienvenido al Bastión Batalla, {0xFF00,0x0001}Barón{0xFF00,0x0000}[0x000A]{0xFF00,0x0001}{0x0100,0x0000}{0xFF00,0x0000}.{0xBE01}[0x000A]¿En qué puedo ayudarle hoy, señor?
+Desde aquí puede enviar invitaciones al resto de[0x000A]Entrenadores que frecuentan el Bastión Batalla.{0xBE01}[0x000A]Comprobará que, según el tipo de invitación[0x000A]enviada, acudirán Entrenadores de distinta índole.{0xBE01}[0x000A]Debo añadir, no obstante, que cobramos una[0x000A]tarifa por nuestros servicios.
+¿Qué clase de invitación desea enviar?
+Esta Invitación propiciará que acudan Entrenadores[0x000A]al Bastión Batalla con mayor frecuencia de lo{0xBE00}[0x000A]habitual.{0xBE01}[0x000A]Enviarla le costará {0x0205,0x0004,0xE07F} $. ¿Está de acuerdo?
+Esta Invitación de Plata propiciará que los[0x000A]Entrenadores acudan raudos al Bastión Batalla.{0xBE01}[0x000A]Enviarla le costará {0x0205,0x0004,0xE07F} $. ¿Está de acuerdo?
+Esta Invitación de Oro propiciará que acudan al[0x000A]Bastión Batalla Entrenadores particularmente{0xBE00}[0x000A]acaudalados.{0xBE01}[0x000A]Enviarla le costará {0x0205,0x0004,0xE07F} $. ¿Está de acuerdo?
+Este Desafío propiciará que acudan al Bastión[0x000A]Batalla Entrenadores particularmente motivados.{0xBE01}[0x000A]Enviarlo le costará {0x0205,0x0004,0xE07F} $. ¿Está de acuerdo?
+Este Desafío Azul propiciará que acudan al Bastión[0x000A]Batalla Entrenadores que gustan de librar combates{0xBE00}[0x000A]con mayor relajación de lo habitual.{0xBE01}[0x000A]Enviarlo le costará {0x0205,0x0004,0xE07F} $. ¿Está de acuerdo?
+Este Desafío Rojo propiciará que acudan al Bastión[0x000A]Batalla Entrenadores que gustan de librar combates{0xBE00}[0x000A]con mayor fiereza de lo habitual.{0xBE01}[0x000A]Enviarlo le costará {0x0205,0x0004,0xE07F} $. ¿Está de acuerdo?
+Muy bien. Procederé a enviar la solicitud de[0x000A]inmediato.
+Lo lamento profundamente, pero no cuenta con[0x000A]fondos suficientes.
+Para cualquier duda o petición, no dude en[0x000A]dirigirse a mí.
+Este Desafío Negro propiciará que acudan al[0x000A]Bastión Batalla los Entrenadores más fieros,{0xBE00}[0x000A]poderosos e implacables que pueda imaginar.{0xBE01}[0x000A]Enviarlo le costará {0x0205,0x0004,0xE07F} $. ¿Está de acuerdo?
+¡Oh, tengo una noticia excelente que darle,[0x000A]{0x019F,0x0005} {0x0100,0x0000}!{0xBE01}[0x000A]En reconocimiento a su buen hacer en combate,[0x000A]le ha sido otorgado recientemente el título de{0xBE00}[0x000A]{0x019F,0x0006}. Enhorabuena, señor.
+¡Oh, tengo una noticia excelente que darle,[0x000A]{0x019F,0x0005} {0x0100,0x0000}!{0xBE01}[0x000A]En reconocimiento a su buen hacer en combate,[0x000A]le ha sido otorgado recientemente el título de{0xBE00}[0x000A]{0x019F,0x0006}. ¡Enhorabuena!
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+Mi más sincera enhorabuena.{0xBE01}[0x000A]Esperamos que no tarde en volver a honrar el[0x000A]Bastión Batalla con uno de sus combates.
+Snif... Snif... Después de tanto tiempo, sudor y[0x000A]lágrimas...{0xBE01}[0x000A]Siento tal emoción que apenas puedo pronunciar[0x000A]palabra...{0xBE01}[0x000A]Snif... ¡Mi más sentida y sincera enhorabuena,[0x000A]señor!{0xBE01}[0x000A]Le deseo todo lo mejor y toda suerte de éxitos[0x000A]en su nueva posición como {0xFF00,0x0001}Gran Duque{0xFF00,0x0000}.
+Me temo que ya ha enviado esa invitación.
+Me temo que no cuenta con suficiente efectivo.
+Bienvenid{0x1100,0x00FF,0x0101}oa al Bastión Batalla.[0x000A]¿Puedo ayudarle en algo?
+Me alegra que me haga esa pregunta.{0xBE01}[0x000A]Este es un club social exclusivo, reservado a la[0x000A]élite más selecta, donde damas y caballeros{0xBE00}[0x000A]pueden gozar de combates al máximo nivel.{0xBE01}[0x000A]Solo los más excelsos Entrenadores nos honran[0x000A]con su visita, cada uno por sus propios motivos.{0xBE01}[0x000A]Algunos en busca de desafíos...{0xBE01}[0x000A]Otros, por la fama...{0xBE01}[0x000A]Otros, por ansias de riqueza...{0xBE01}[0x000A]Ni que decir tiene que cualquiera de nuestros[0x000A]miembros le proporcionará un reto digno.{0xBE01}[0x000A]Así que no se contenga, pues nuestro objetivo[0x000A]es complacer sus ansias de combate.{0xBE01}[0x000A]Le informo que por norma otorgamos títulos[0x000A]a nuestros miembros según su pericia en combate,{0xBE00}[0x000A]a semejanza de la jerarquía aristocrática.{0xBE01}[0x000A]Le deseo suerte en su camino a la cumbre y,[0x000A]sobre todo, disfrute de los combates.
+Me alegra que me haga esa pregunta.{0xBE01}[0x000A]Nuestra jerarquía de títulos aristocráticos sirve para[0x000A]honrar la destreza de nuestros miembros.{0xBE01}[0x000A]Intramuros, su título lo es todo. Es cuanto le define[0x000A]ante los demás.{0xBE01}[0x000A]A medida que vaya sumando victorias en combate,[0x000A]irá afianzando su honra con títulos de cada vez{0xBE00}[0x000A]mayor renombre.{0xBE01}[0x000A]Y es menester resaltar que, a medida que aumente[0x000A]su prestigio, también lo hará el número de{0xBE00}[0x000A]Entrenadores que acudan atraídos por el mismo.{0xBE01}[0x000A]Si la suerte le sonríe, es posible que en algún[0x000A]momento se vea librando combates contra{0xBE00}[0x000A]nuestros miembros más destacados.
+Espero que disfrute de su experiencia en el Bastión[0x000A]Batalla.
+Damas y caballeros... El {0xFF00,0x0001}Barón {0x0100,0x0002}{0xFF00,0x0000}[0x000A]nos honra hoy con su visita.{0xBE01}[0x000A]Les ruego lo acojan en el seno de la comunidad[0x000A]con la debida firmeza.
+Atención, damas y caballeros. Tengo el honor de[0x000A]anunciar la llegada del {0xFF00,0x0001}Vizconde {0x0100,0x0002}{0xFF00,0x0000}.
+Atención, damas y caballeros. Tengo el honor de[0x000A]anunciar la llegada del {0xFF00,0x0001}Conde {0x0100,0x0002}{0xFF00,0x0000}.{0xBE01}[0x000A]Disfruten de sus combates y, si me permiten el[0x000A]consejo, no bajen la guardia en ningún momento.
+Atención, damas y caballeros. Tengo el honor de[0x000A]anunciar la llegada del {0xFF00,0x0001}Marqués {0x0100,0x0002}{0xFF00,0x0000}.{0xBE01}[0x000A]Quienes crean estar a su altura, siéntanse libres[0x000A]de aceptar el reto.
+Atención, damas y caballeros.{0xBE01}[0x000A]Tengo el gran honor de anunciar la llegada del[0x000A]distinguido {0xFF00,0x0001}Duque {0x0100,0x0002}{0xFF00,0x0000}.{0xBE01}[0x000A]Denle la más cálida de las bienvenidas y gocen[0x000A]de un reto como encontrarán pocos.
+Enviar una invitación
+Sobre las invitaciones 1
+Salir
+Invitación
+Invitación de Plata
+Invitación de Oro
+Desafío
+Desafío Azul
+Desafío Rojo
+¿Qué es este lugar?
+¿Qué es la jerarquía?
+Sí
+No
+-
+Desafío Negro
+Quisiera llamar su atención sobre dos puntos en[0x000A]lo que a invitaciones se refiere.{0xBE01}[0x000A]En primer lugar, toda invitación tendrá validez[0x000A]hasta la medianoche del día de su emisión.{0xBE01}[0x000A]En segundo lugar, puede enviar cuantas[0x000A]invitaciones quiera.{0xBE01}[0x000A]En caso de emitir dos de similares repercusiones,[0x000A]solo tendrá efecto la última que se haya enviado.
+Sobre las invitaciones 2
+Damas y caballeros... La {0xFF00,0x0001}Baronesa {0x0100,0x0002}{0xFF00,0x0000}[0x000A]nos honra hoy con su visita.{0xBE01}[0x000A]Les ruego la acojan en el seno de la comunidad[0x000A]con la debida firmeza.
+Atención, damas y caballeros.{0xBE01}[0x000A]Tengo el honor de anunciar la llegada de la[0x000A]{0xFF00,0x0001}Vizcondesa {0x0100,0x0002}{0xFF00,0x0000}.
+Atención, damas y caballeros. Tengo el honor de[0x000A]anunciar la llegada de la {0xFF00,0x0001}Condesa {0x0100,0x0002}{0xFF00,0x0000}.{0xBE01}[0x000A]Disfruten de sus combates y, si me permiten el[0x000A]consejo, no bajen la guardia en ningún momento.
+Atención, damas y caballeros.{0xBE01}[0x000A]Tengo el gran honor de anunciar la llegada[0x000A]de la {0xFF00,0x0001}Marquesa {0x0100,0x0002}{0xFF00,0x0000}.{0xBE01}[0x000A]Quienes crean estar a su altura, siéntanse libres[0x000A]de aceptar el reto.
+Atención, damas y caballeros.{0xBE01}[0x000A]Tengo el gran honor de anunciar la llegada de[0x000A]la distinguida {0xFF00,0x0001}Duquesa {0x0100,0x0002}{0xFF00,0x0000}.{0xBE01}[0x000A]Denle la más cálida de las bienvenidas y gocen[0x000A]de un reto como encontrarán pocos.
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+{0xBDFF:0x0036}
+{0xBDFF:0x0037}
+Snif... Snif... Después de tanto tiempo, sudor y[0x000A]lágrimas...{0xBE01}[0x000A]Siento tal emoción que apenas puedo pronunciar[0x000A]palabra...{0xBE01}[0x000A]Snif... ¡Mi más sentida y sincera enhorabuena,[0x000A]señorita!{0xBE01}[0x000A]Le deseo todo lo mejor y toda suerte de éxitos[0x000A]en su nueva posición como {0xFF00,0x0001}Gran Duquesa{0xFF00,0x0000}.
+Bienvenido al Bastión Batalla, {0xFF00,0x0001}Vizconde{0xFF00,0x0000}[0x000A]{0xFF00,0x0001}{0x0100,0x0000}{0xFF00,0x0000}.{0xBE01}[0x000A]¿En qué puedo ayudarle hoy, señor?
+Bienvenido al Bastión Batalla, estimado {0xFF00,0x0001}Conde{0xFF00,0x0000}[0x000A]{0xFF00,0x0001}{0x0100,0x0000}{0xFF00,0x0000}.{0xBE01}[0x000A]¿En qué puedo ayudarle hoy?
+Bienvenido al Bastión Batalla. Espero no haberle[0x000A]hecho esperar, estimado {0xFF00,0x0001}Marqués {0x0100,0x0000}{0xFF00,0x0000}.{0xBE01}[0x000A]¿En qué puedo ayudarle hoy?
+Bienvenido al Bastión Batalla. Es siempre un placer[0x000A]recibirlo, estimado {0xFF00,0x0001}Duque {0x0100,0x0000}{0xFF00,0x0000}.{0xBE01}[0x000A]¿En qué puedo ayudarle hoy?
+Bienvenida al Bastión Batalla, {0xFF00,0x0001}Baronesa{0xFF00,0x0000}[0x000A]{0xFF00,0x0001}{0x0100,0x0000}{0xFF00,0x0000}.{0xBE01}[0x000A]¿En qué puedo ayudarla hoy, señorita?
+Bienvenida al Bastión Batalla, {0xFF00,0x0001}Vizcondesa{0xFF00,0x0000}[0x000A]{0xFF00,0x0001}{0x0100,0x0000}{0xFF00,0x0000}.{0xBE01}[0x000A]¿En qué puedo ayudarla hoy, señorita?
+Bienvenida al Bastión Batalla, estimada[0x000A]{0xFF00,0x0001}Condesa {0x0100,0x0000}{0xFF00,0x0000}.{0xBE01}[0x000A]¿En qué puedo ayudarla hoy?
+Bienvenida al Bastión Batalla. Espero no haberla[0x000A]hecho esperar, querida {0xFF00,0x0001}Marquesa {0x0100,0x0000}{0xFF00,0x0000}.{0xBE01}[0x000A]¿En qué puedo ayudarla hoy?
+Bienvenida al Bastión Batalla. Es siempre un placer[0x000A]recibirla, estimada {0xFF00,0x0001}Duquesa {0x0100,0x0000}{0xFF00,0x0000}.{0xBE01}[0x000A]¿En qué puedo ayudarla hoy?
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+Bienvenido al Bastión Batalla. Me postro a sus[0x000A]pies, {0xFF00,0x0001}Gran Duque {0x0100,0x0000}{0xFF00,0x0000}.{0xBE01}[0x000A]¿En qué puedo ayudarle hoy?
+Bienvenida al Bastión Batalla. Me postro a sus[0x000A]pies, {0xFF00,0x0001}Gran Duquesa {0x0100,0x0000}{0xFF00,0x0000}.{0xBE01}[0x000A]¿En qué puedo ayudarla hoy?
+Me temo que ya ha enviado una Invitación de Plata.
+Me temo que ya ha enviado una Invitación de Oro.
+Me temo que ya ha enviado un Desafío.
+Me temo que ya ha enviado un Desafío Azul.
+Me temo que ya ha enviado un Desafío Rojo.
+Me temo que ya ha enviado un Desafío Negro.
+Atención, damas y caballeros.[0x000A]Ha llegado el momento que todos esperaban.{0xBE01}[0x000A]La excelentísima {0xFF00,0x0001}Gran Duquesa {0x0100,0x0002}{0xFF00,0x0000},[0x000A]que con orgullo ostenta el más elevado título{0xBE00}[0x000A]de toda Kalos, muestra de su legendaria fuerza,{0xBE00}[0x000A]nos honra hoy con su excelsa presencia.{0xBE01}[0x000A]Su nobleza y calidad no es algo que se describa[0x000A]con palabras... ¡Se experimenta en carnes propias!{0xBE00}[0x000A]¡Gocen del desafío definitivo!
+No esperaba menos de su excelentísima persona.[0x000A]Mi humilde y sentido agradecimiento.
+...
+Es usted muy amable al tenerme presente en sus[0x000A]ilustres pensamientos.
+...
+Me temo que ya ha enviado una Invitación.[0x000A]¿Quiere enviar esta de todas formas?
+Me temo que ya ha enviado una Invitación de Plata.[0x000A]¿Quiere enviar esta de todas formas?
+Me temo que ya ha enviado un Desafío.[0x000A]¿Quiere enviar este de todas formas?
+Me temo que ya ha enviado un Desafío Azul.[0x000A]¿Quiere enviar este de todas formas?
+Me temo que ya ha enviado un Desafío Rojo.[0x000A]¿Quiere enviar este de todas formas?
+Me temo que ya ha enviado un Desafío Negro.[0x000A]¿Quiere enviar este de todas formas?
+¿En qué puedo ayudarl{0x1100,0x00FF,0x0101}ea hoy?
+¿Puedo ayudarl{0x1100,0x00FF,0x0101}ea en algo?
+{0xFF00,0x0001}Barón{0xFF00,0x0000}
+{0xFF00,0x0001}Vizconde{0xFF00,0x0000}
+{0xFF00,0x0001}Conde{0xFF00,0x0000}
+{0xFF00,0x0001}Marqués{0xFF00,0x0000}
+{0xFF00,0x0001}Duque{0xFF00,0x0000}
+{0xFF00,0x0001}Gran Duque{0xFF00,0x0000}
+{0xFF00,0x0001}Baronesa{0xFF00,0x0000}
+{0xFF00,0x0001}Vizcondesa{0xFF00,0x0000}
+{0xFF00,0x0001}Condesa{0xFF00,0x0000}
+{0xFF00,0x0001}Marquesa{0xFF00,0x0000}
+{0xFF00,0x0001}Duquesa{0xFF00,0x0000}
+{0xFF00,0x0001}Gran Duquesa{0xFF00,0x0000}

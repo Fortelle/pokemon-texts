@@ -1,0 +1,164 @@
+Willkommen im Restaurant Solala![0x000A]Wenn dir nach Durchschnitt ist, bist du hier richtig!
+Oh! Wenn das mal nicht {0x0100,0x0000} ist![0x000A]Wir haben dich schon vermisst!
+Speisen
+Info
+Ein andermal
+Unsere Empfehlung des Tages lautet:
+Für dich auch heute wieder nur das Beste![0x000A]Unsere Empfehlungen des Tages lauten:
+Doppelkampf-Menü
+★Doppelkampf-Menü
+Zurück
+Unser Doppelkampf-Menü besteht aus drei[0x000A]unwiderstehlichen Doppelkämpfen am Stück.{0xBE01}[0x000A]Unsere Speisen werden stets auf den Punkt[0x000A]serviert, vertreibe dir also bitte mit Kämpfen{0xBE00}[0x000A]die Zeit, bis das Essen fertig ist.{0xBE01}[0x000A]Gewinnst du jeden Kampf innerhalb der[0x000A]vorgegebenen Anzahl an Runden,{0xBE00}[0x000A]erwarten dich wahre Gaumenfreuden!{0xBE01}[0x000A]Nur um das klarzustellen, eine Runde ist vorbei,[0x000A]wenn ein Trainer seine Befehle gegeben hat.
+Wir freuen uns auf deinen nächsten Besuch!
+Wir freuen uns stets auf deinen nächsten Besuch,[0x000A]{0x0100,0x0000}!
+Das Menü kostet {0x0205,0x0001,0x002E} $.[0x000A]Möchtest du bei uns essen?
+Also, {0x0100,0x0000}!{0xBE01}[0x000A]Das Menü kostet {0x0205,0x0001,0x002E} $.[0x000A]Isst du auch heute bei uns?
+Sehr gerne. Wenn du mir bitte folgen würdest!
+Wir fegen hier immer ganz besonders gründlich,[0x000A]für den Fall, dass du uns mit einem Besuch beehrst,{0xBE00}[0x000A]{0x0100,0x0000}!
+Leider verfügst du nicht über genug Geld.{0xBE01}[0x000A]Ich mag deinen Sinn für Humor ja wirklich,[0x000A]aber wir führen hier nun mal ein Geschäft...
+Ich bin wirklich untröstlich, {0x0100,0x0000},[0x000A]aber leider verfügst du nicht über genug Geld.{0xBE01}[0x000A]Ich mag zwar deinen Sinn für Humor sehr,[0x000A]aber wir führen hier nun mal ein Geschäft...
+Ich will dir ja nicht den Appetit verderben...{0xBE01}[0x000A]Aber um dieses Menü genießen zu können,[0x000A]benötigst du mindestens {0x0200,0x0001} Pokémon.
+Ich will dir wirklich nicht den Appetit verderben,[0x000A]{0x0100,0x0000}...{0xBE01}[0x000A]Aber um dieses Menü genießen zu können,[0x000A]benötigst du mindestens {0x0200,0x0001} Pokémon.
+Ich serviere als Erstes die Vorspeise.[0x000A]Ein handgepflückter Salat frisch aus dem Garten!{0xBE01}[0x000A]Wir empfehlen, nach exakt {0x0201,0x0001} Runde{0x1101,0x0001,0x0100}n[0x000A]mit dem Verzehr zu beginnen!
+Du hast {0x0201,0x0002} Runde{0x1101,0x0002,0x0100}n gebraucht[0x000A]und {0x0200,0x0003} Pokémon {0x1101,0x0003,0x0403}istsind K.O. gegangen.{0xBE01}[0x000A]Ich wünsche weiterhin guten Appetit!
+Ich serviere jetzt die Suppe. Kaum gewürzt,[0x000A]damit man die Zutaten besser herausschmeckt!{0xBE01}[0x000A]Wir empfehlen, nach exakt {0x0201,0x0001} Runde{0x1101,0x0001,0x0100}n[0x000A]mit dem Verzehr zu beginnen!
+Du hast {0x0201,0x0002} Runde{0x1101,0x0002,0x0100}n gebraucht[0x000A]und {0x0200,0x0003} Pokémon {0x1101,0x0003,0x0403}istsind K.O. gegangen.{0xBE01}[0x000A]Ich wünsche weiterhin guten Appetit!
+Ich präsentiere dir hiermit die Hauptspeise![0x000A]Frischer Fisch à la meunière, auf Müllerinart!{0xBE01}[0x000A]Wir empfehlen, nach exakt {0x0201,0x0001} Runde{0x1101,0x0001,0x0100}n[0x000A]mit dem Verzehr zu beginnen!
+Du hast {0x0201,0x0002} Runde{0x1101,0x0002,0x0100}n gebraucht[0x000A]und {0x0200,0x0003} Pokémon {0x1101,0x0003,0x0403}istsind K.O. gegangen.{0xBE01}[0x000A]Ich wünsche weiterhin guten Appetit!
+Ich hoffe, das Menü hat gemundet?{0xBE01}[0x000A]Hier ist deine Nachspeise, und dazu[0x000A]serviere ich gleich die Rechnung!
+Also, {0x0100,0x0000}![0x000A]Ich hoffe, das Menü hat gemundet?{0xBE01}[0x000A]Hier ist deine Nachspeise, und dazu[0x000A]serviere ich gleich die Rechnung!
+Restaurant Solala[0x000A]Rechnung für ein Doppelkampf-Menü
+Als kleines Dankeschön erhältst du von uns[0x000A]{0x0201,0x0007} Exemplar{0x1101,0x0007,0x0100}e des Items {0x0109,0x0006}!
+Beehre uns bitte bald wieder.
+Unfassbar!{0xBE01}[0x000A]Einfach nur unfassbar!{0xBE01}[0x000A]Also ich bin völlig überwältigt!{0xBE01}[0x000A]Unser bescheidenes Etablissement hat so einen[0x000A]Gast wie dich gar nicht verdient, {0x0100,0x0000}!
+Willkommen im Restaurant chez Norme![0x000A]Hier erwarten dich Zwei-Sterne-Essen und -Service.{0xBE00}[0x000A]Dürfen wir dich als Gast begrüßen?
+Wenn das mal nicht {0x0100,0x0000} ist![0x000A]Wir haben dich in letzter Zeit schon vermisst!{0xBE01}[0x000A]Darf ich dich zu deinem Stammplatz führen?
+Speisen
+Info
+Ein andermal
+Fein! Das hören wir doch gerne.[0x000A]Welches Menü darf es denn sein?
+Das hören wir doch gerne. Es ist uns immer[0x000A]eine große Ehre, dich begrüßen zu dürfen!{0xBE01}[0x000A]Welches Menü darf es denn heute sein,[0x000A]{0x0100,0x0000}?
+Dreierkampf-Menü
+★Dreierkampf-Menü
+Reihumkampf-Menü
+★Reihumkampf-Menü
+Zurück
+Unser Dreierkampf-Menü besteht aus vier[0x000A]unwiderstehlichen Dreierkämpfen am Stück.{0xBE01}[0x000A]Unsere Gerichte werden stets auf den Punkt[0x000A]serviert, vertreibe dir also bitte mit Kämpfen{0xBE00}[0x000A]die Zeit, bis das Mahl zubereitet ist!{0xBE01}[0x000A]Gewinnst du jeden Kampf innerhalb der[0x000A]vorgegebenen Anzahl an Runden,{0xBE00}[0x000A]erwarten dich exquisite Gaumenfreuden!{0xBE01}[0x000A]Nur um das klarzustellen, eine Runde ist vorbei,[0x000A]wenn ein Trainer seine Befehle gegeben hat!
+Wir freuen uns auf deinen nächsten Besuch.
+Es ist immer schade, wenn du wieder gehen musst.[0x000A]Ich spreche für alle hier, wenn ich sage, wir freuen{0xBE00}[0x000A]uns auf deinen nächsten Besuch, {0x0100,0x0000}!
+Sehr gerne.[0x000A]Du hast dich also für dieses Menü entschieden?{0xBE01}[0x000A]Das macht dann {0x0205,0x0001,0x002E} $. In Ordnung?
+Mit dem größten Vergnügen, {0x0100,0x0000}![0x000A]Du hast dich also für dieses Menü entschieden?{0xBE01}[0x000A]Das macht dann {0x0205,0x0001,0x002E} $. In Ordnung?
+Sehr gerne. Wenn du mir bitte folgen würdest!
+Unser Koch hat sich heute besondere Mühe[0x000A]gegeben, extra für dich, {0x0100,0x0000}.{0xBE01}[0x000A]Hoffentlich genießt du dein Menü!
+Ich sage das wirklich nur ungern,[0x000A]aber du hast nicht genug Geld bei dir.
+Haha! Deine Witze sind einfach die besten,[0x000A]{0x0100,0x0000}! Was für ein toller Humor!{0xBE01}[0x000A]Trotzdem muss ich dich rein aus geschäftlicher[0x000A]Hinsicht darauf hinweisen, dass du leider nicht{0xBE00}[0x000A]genug Geld mit dir führst. Sei mir nicht böse!
+Ich will dir wirklich nicht zu nahe treten,[0x000A]aber bei uns sind {0x0200,0x0001} Pokémon Voraussetzung...
+Haha! Dein spezieller Humor bringt mich doch[0x000A]immer wieder zum Lachen, {0x0100,0x0000}!{0xBE01}[0x000A]Trotzdem muss ich dich darauf hinweisen,[0x000A]dass bei uns {0x0200,0x0001} Pokémon Voraussetzung sind.
+Danke für deine Geduld.[0x000A]Hier kommt auch schon die Vorspeise!{0xBE01}[0x000A]Diese erfrischende Pirsif-Pastete[0x000A]ist wirklich ein wahrer Hochgenuss!{0xBE01}[0x000A]Wir empfehlen, nach exakt {0x0201,0x0001} Runde{0x1101,0x0001,0x0100}n[0x000A]mit dem Verzehr zu beginnen!{0xBE01}[0x000A]Die Zeit bis dahin kannst du dir ja mit einem[0x000A]Kampf gegen meine Wenigkeit vertreiben!
+Du hast {0x0201,0x0002} Runde{0x1101,0x0002,0x0100}n gebraucht[0x000A]und {0x0200,0x0003} Pokémon {0x1101,0x0003,0x0403}istsind K.O. gegangen.{0xBE01}[0x000A]Deine erfrischende Art, mit deinen Pokémon[0x000A]umzugehen, hat mich wirklich beeindruckt!{0xBE01}[0x000A]Also, einen guten Appetit!
+Danke für deine Geduld.[0x000A]Hier kommt auch schon die Suppe!{0xBE01}[0x000A]Eine schwermütige Potage, also ein üppiger Eintopf[0x000A]aus Eipfelbeeren, die durch Spiegelcape und{0xBE00}[0x000A]108 verschiedene Gewürze komplementiert wird!{0xBE01}[0x000A]Wir empfehlen, nach exakt {0x0201,0x0001} Runde{0x1101,0x0001,0x0100}n[0x000A]mit dem Verzehr zu beginnen!{0xBE01}[0x000A]Die Zeit bis dahin kannst du dir ja mit einem[0x000A]Kampf gegen meine Wenigkeit vertreiben!
+Du hast {0x0201,0x0002} Runde{0x1101,0x0002,0x0100}n gebraucht[0x000A]und {0x0200,0x0003} Pokémon {0x1101,0x0003,0x0403}istsind K.O. gegangen.{0xBE01}[0x000A]Deine kunstvolle Art, mit deinen Pokémon[0x000A]umzugehen, hat mich sehr beeindruckt!{0xBE01}[0x000A]Also, weiterhin noch einen guten Appetit!
+Danke für deine Geduld.[0x000A]Ich bin der Restaurant-Manager.{0xBE01}[0x000A]Ich hoffe doch, das Menü ist bisher[0x000A]ganz nach deinem Gusto?{0xBE01}[0x000A]Kommen wir nun zum Fleischgericht des Menüs,[0x000A]mit den besten Empfehlungen vom Chefkoch!{0xBE01}[0x000A]Gebratene Flegmonrute aus der Azurbucht![0x000A]Dazu gibt es Pyapabeeren, gebraten in Sinel-Öl.{0xBE00}[0x000A]Die kulinarische Entsprechung eines Nebulak,{0xBE00}[0x000A]das eine Hexe anstarrt!{0xBE01}[0x000A]Wir empfehlen, nach exakt {0x0201,0x0001} Runde{0x1101,0x0001,0x0100}n[0x000A]mit dem Verzehr zu beginnen!{0xBE01}[0x000A]Die Zeit bis dahin kannst du dir ja mit[0x000A]einem Kampf gegen mich vertreiben!
+Du hast {0x0201,0x0002} Runde{0x1101,0x0002,0x0100}n gebraucht[0x000A]und {0x0200,0x0003} Pokémon {0x1101,0x0003,0x0403}istsind K.O. gegangen.{0xBE01}[0x000A]Eine wahrlich meisterliche Vorstellung deinerseits!{0xBE01}[0x000A]Der Restaurantbesitzer, der zugleich auch Chefkoch[0x000A]ist, wird dir persönlich seine Aufwartung machen!{0xBE01}[0x000A]Also, weiterhin noch einen guten Appetit!
+Danke für deine Geduld.{0xBE01}[0x000A]Ich bin der Besitzer des Restaurant chez Norme[0x000A]sowie auch mein eigener Chefkoch.{0xBE01}[0x000A]Ich wollte dir unbedingt persönlich gratulieren[0x000A]und mich für deinen Besuch heute bedanken!{0xBE01}[0x000A]Zum Abschluss deines Menüs freue ich mich,[0x000A]dir einen handverlesenen Käse zu servieren.{0xBE01}[0x000A]Dieser Hartkäse ist 180 Jahre lang gereift,[0x000A]und so riecht er auch! Doch lass dich davon{0xBE00}[0x000A]nicht abschrecken. Ein Bissen und du bist im{0xBE00}[0x000A]Käsehimmel, auch wenn dir der Geruch die{0xBE00}[0x000A]Nasenhaare verbrennt. Das liegt vor allem{0xBE00}[0x000A]am Toxin eines Arbok, mit dem dieser Käse{0xBE00}[0x000A]nach alter Tradition hergestellt wird.{0xBE01}[0x000A]Wir empfehlen, nach exakt {0x0201,0x0001} Runde{0x1101,0x0001,0x0100}n[0x000A]mit dem Verzehr zu beginnen!{0xBE01}[0x000A]Die Zeit bis dahin kannst du dir ja mit[0x000A]einem Kampf gegen mich vertreiben!
+Du hast {0x0201,0x0002} Runde{0x1101,0x0002,0x0100}n gebraucht[0x000A]und {0x0200,0x0003} Pokémon {0x1101,0x0003,0x0403}istsind K.O. gegangen.{0xBE01}[0x000A]Was für eine großartige Erfahrung![0x000A]Bitte beehre uns doch bald wieder!{0xBE01}[0x000A]Also, weiterhin noch einen guten Appetit!
+Ich hoffe doch sehr, es hat gemundet?[0x000A]Zum Abschluss gibt es noch das Dessert!{0xBE01}[0x000A]Ein Sorbet aus Kiwan- und Fragiabeeren[0x000A]an feiner Kräuter-Mousse.{0xBE01}[0x000A]Nochmals ganz herzlichen Dank,[0x000A]dass du heute bei uns gespeist hast!{0xBE01}[0x000A]Somit bleibt mir jetzt nur noch,[0x000A]dir die Rechnung zu servieren.
+Wie hat dir das Menü heute geschmeckt?[0x000A]Ich hoffe, alles war zu deiner Zufriedenheit!{0xBE01}[0x000A]Zu guter Letzt habe ich hier noch ein[0x000A]ganz besonderes Dessert, nur für dich!{0xBE01}[0x000A]Eine Mousse gemacht aus, äh... Dingsbums,[0x000A]dazu noch ein Püree aus, äh... du weißt schon!{0xBE01}[0x000A]Also wir freuen uns immer über deinen Besuch![0x000A]Die Rechnung lasse ich schon mal hier liegen...
+Restaurant chez Norme[0x000A]Rechnung für ein Dreierkampf-Menü
+Restaurant chez Norme[0x000A]Rechnung für ein Reihumkampf-Menü
+Als bescheidenes Dankeschön erhältst du[0x000A]{0x0201,0x0007} Exemplar{0x1101,0x0007,0x0100}e des Items {0x0109,0x0006}!
+Vielen Dank für deinen Besuch! Wir freuen uns alle,[0x000A]dich schon bald wieder bei uns begrüßen zu dürfen!
+Kaum zu glauben, dass du alle Gänge[0x000A]zum perfekten Zeitpunkt verspeist hast!{0xBE01}[0x000A]Ich wusste doch gleich, du bist ein Gourmet!
+Hier im Restaurant de Luxe gilt für uns stets[0x000A]das Motto: Für unsere Gäste nur das Beste!
+Oh! Wie schön, dich zu sehen, {0x0100,0x0000}![0x000A]Bei uns bekommst du natürlich immer einen Platz!
+Speisen
+Info
+Ein andermal
+Welches unserer Menüs löst in dir den Wunsch aus,[0x000A]dich heute kulinarisch in unsere Obhut zu begeben?
+Ausschweifende Erklärungen sind bei dir[0x000A]nicht mehr nötig, was, {0x0100,0x0000}?{0xBE01}[0x000A]Sag mir doch bitte einfach,[0x000A]womit ich dir heute dienen kann!
+Doppelkampf-Menü
+★Doppelkampf-Menü
+Dreierkampf-Menü
+★Dreierkampf-Menü
+Reihumkampf-Menü
+★Reihumkampf-Menü
+Zurück
+Unsere Kreationen werden stets auf den Punkt[0x000A]serviert. Einige der Gerichte müssen eine Weile{0xBE00}[0x000A]ziehen, vertreibe dir solange am besten{0xBE00}[0x000A]mit Kämpfen gegen das Personal die Zeit.{0xBE01}[0x000A]Gewinnst du jeden Kampf innerhalb der[0x000A]vorgegebenen Anzahl an Runden,{0xBE00}[0x000A]erwarten dich grandiose Gaumenfreuden!{0xBE01}[0x000A]Nur um das klarzustellen, eine Runde ist vorbei,[0x000A]wenn ein Trainer seine Befehle gegeben hat!{0xBE01}[0x000A]Bitte beachte, dass all unsere Menüs[0x000A]aus fünf aufeinanderfolgenden Kämpfen bestehen.
+Wir freuen uns schon auf deinen nächsten Besuch!
+Komm wieder, wenn dir der Sinn danach steht!
+Dieses Menü schlägt mit {0x0205,0x0001,0x002E} $ zu Buche.[0x000A]Darf ich dem Koch Bescheid sagen?
+Zweifelsohne bist du mit unseren Preisen[0x000A]gut vertraut. Das Menü macht {0x0205,0x0001,0x002E} $.{0xBE00}[0x000A]Darf ich dem Koch Bescheid sagen?
+Eine exzellente Wahl, wenn ich das sagen darf.[0x000A]Wenn du mir nun bitte folgen würdest?
+Eine exzellente Wahl, wenn ich das sagen darf.[0x000A]Wenn du mir nun bitte folgen würdest?
+Ich habe das vollste Verständnis für dich.[0x000A]Ehrlich, mir passiert das auch ständig!{0xBE01}[0x000A]Da öffnet man nichts ahnend sein Portemonnaie[0x000A]und findet darin gerade mal 100 $!{0xBE01}[0x000A]Seien wir froh, dass dir das aufgefallen ist,[0x000A]bevor es mit dem Essen losging, was?{0xBE00}[0x000A]Lass uns das einfach vergessen.
+Ich habe vollstes Verständnis für dich,[0x000A]{0x0100,0x0000}, das meine ich ernst!{0xBE01}[0x000A]Wenn jemand so erfolgreich ist wie du,[0x000A]dann kann man sein Geld schon mal ausgeben,{0xBE00}[0x000A]ohne sich groß Gedanken darüber zu machen.{0xBE01}[0x000A]So jung und schon so eine Persönlichkeit!
+Ich bin untröstlich, aber um das Menü[0x000A]in vollen Zügen genießen zu können,{0xBE00}[0x000A]benötigst du mindestens {0x0200,0x0001} Pokémon!
+Oje. Wie sage ich dir das jetzt[0x000A]am besten, {0x0100,0x0000}...?{0xBE01}[0x000A]Ich bin untröstlich, aber um das Menü[0x000A]in vollen Zügen genießen zu können,{0xBE00}[0x000A]benötigst du mindestens {0x0200,0x0001} Pokémon!
+Ich danke dir für deine Geduld![0x000A]Ich bin der Besitzer des Restaurant de Luxe.{0xBE01}[0x000A]Als Vorspeise darf ich dir heute[0x000A]die ultimative Terrine servieren.{0xBE01}[0x000A]Sie wurde auf Basis eines Pürees aus[0x000A]64 Beerensorten hergestellt, die alle{0xBE00}[0x000A]ganz kurz über sehr effektivem{0xBE00}[0x000A]Funkenflug flambiert wurden.{0xBE01}[0x000A]So bleibt der natürliche Geschmack erhalten,[0x000A]Beere für Beere, und dennoch ergibt sich{0xBE00}[0x000A]eine harmonische Gesamtkomposition!{0xBE01}[0x000A]Ich empfehle, nach exakt {0x0201,0x0001} Runde{0x1101,0x0001,0x0100}n[0x000A]mit dem Verzehr zu beginnen!{0xBE01}[0x000A]Wollen wir bis dahin ein Kämpfchen wagen?
+Das war ganz ausgezeichnet!{0xBE01}[0x000A]Du hast {0x0201,0x0002} Runde{0x1101,0x0002,0x0100}n gebraucht[0x000A]und {0x0200,0x0003} Pokémon {0x1101,0x0003,0x0403}istsind K.O. gegangen.{0xBE01}[0x000A]Du und dein Pokémon-Team, ihr seid wirklich[0x000A]beeindruckend! Zum Dahinschmelzen!
+Ich danke dir für deine Geduld[0x000A]und gebe mir erneut die Ehre!{0xBE01}[0x000A]Ich erlaube mir, dir als Nächstes[0x000A]die ultimative Suppe zu servieren.{0xBE01}[0x000A]Eine Consommé aus einem 3 000 Jahre alten[0x000A]Steinknochen, der hundert Tage lang in{0xBE00}[0x000A]Schneewasser aus der Frosthöhle gekocht wurde!{0xBE01}[0x000A]Ich versichere dir, dass dir der Geschmack[0x000A]in Mark und Bein übergehen wird!{0xBE01}[0x000A]Ich empfehle, nach exakt {0x0201,0x0001} Runde{0x1101,0x0001,0x0100}n[0x000A]mit dem Verzehr zu beginnen!{0xBE01}[0x000A]Wollen wir bis dahin ein Kämpfchen wagen?
+Das war... atemberaubend...!{0xBE01}[0x000A]Du hast... {0x0201,0x0002} Runde{0x1101,0x0002,0x0100}n gebraucht...[0x000A]und... {0x0200,0x0003} Pokémon {0x1101,0x0003,0x0403}istsind K.O. gegangen...{0xBE01}[0x000A]Du und dein Pokémon-Team... seid einfach super...[0x000A]Ich muss erst wieder... zu Atem kommen...
+Ich danke dir für deine Geduld.{0xBE01}[0x000A]Der Besitzer muss sich leider um eine dringliche[0x000A]Angelegenheit kümmern, doch ich hoffe sehr,{0xBE00}[0x000A]dass dir meine Wenigkeit ebenso dienen kann.{0xBE01}[0x000A]Kommen wir nun zum Fischgericht deines Menüs:[0x000A]diverse Filetstücke, zart pochiert.{0xBE01}[0x000A]Der Fang stammt aus den Küstengewässern von[0x000A]Relievera City und wurde im eigenen Salzwasser{0xBE00}[0x000A]schonend gegart, damit er schön zart bleibt.{0xBE01}[0x000A]Ich empfehle, nach exakt {0x0201,0x0001} Runde{0x1101,0x0001,0x0100}n{0xBE01}[0x000A]mit dem Verzehr zu beginnen![0x000A]Wollen wir bis dahin einen Kampf austragen?
+Vielen Dank für diesen Kampf!{0xBE01}[0x000A]Du hast {0x0201,0x0002} Runde{0x1101,0x0002,0x0100}n gebraucht[0x000A]und {0x0200,0x0003} Pokémon {0x1101,0x0003,0x0403}istsind K.O. gegangen.{0xBE01}[0x000A]Deine feine Art zu kämpfen erinnert an[0x000A]die feine Küche unseres Hauses!
+Als Nächstes folgt das heutige Hauptgericht,[0x000A]eine ganz besondere Fleischköstlichkeit!{0xBE01}[0x000A]Genauer gesagt, ein Rostbraten, so saftig[0x000A]und kross, dass er Urinstinkte in dir weckt!{0xBE01}[0x000A]Ich serviere ihn dir Sekunden vor dem idealen[0x000A]Verzehrzeitpunkt, damit er optimal durch ist!{0xBE01}[0x000A]Gedulde dich bitte noch exakt {0x0201,0x0001} Runde{0x1101,0x0001,0x0100}n![0x000A]Also, wollen wir dann mal?
+Vielen Dank für diesen spannenden Kampf!{0xBE01}[0x000A]Du hast {0x0201,0x0002} Runde{0x1101,0x0002,0x0100}n gebraucht[0x000A]und {0x0200,0x0003} Pokémon {0x1101,0x0003,0x0403}istsind K.O. gegangen.{0xBE01}[0x000A]Mit deinem erbarmungslosen Kampfstil[0x000A]hast du mich an ein Pyroleo erinnert,{0xBE00}[0x000A]das ein Scoppel jagt!
+„Vielen Dank für deine Geduld. Als Nächstes[0x000A]dürfen wir dir erlesenen Käse servieren.{0xBE01}[0x000A]Es handelt sich um einen edlen Tomme,[0x000A]gefertigt aus der Milch eines Mähikel.{0xBE01}[0x000A]Ich empfehle, nach exakt {0x0201,0x0001} Runde{0x1101,0x0001,0x0100}n[0x000A]mit dem Verzehr zu beginnen!“{0xBE01}[0x000A]Das steht auf dem Zettel, den das Mähikel[0x000A]gerade genüsslich verspeist...
+Ich bin wirklich absolut untröstlich!{0xBE01}[0x000A]Da habe ich nur kurz nicht aufgepasst[0x000A]und schon war das freche Mähikel{0xBE00}[0x000A]mit meinen Notizen durchgebrannt!{0xBE01}[0x000A]Du hast {0x0201,0x0002} Runde{0x1101,0x0002,0x0100}n gebraucht[0x000A]und {0x0200,0x0003} Pokémon {0x1101,0x0003,0x0403}istsind K.O. gegangen.{0xBE01}[0x000A]Denke beim Verzehr des Käses[0x000A]bitte an unser Mähikel!
+Zum Abschluss deines heutigen Menüs[0x000A]servieren wir dir einen echten Klassiker.{0xBE01}[0x000A]Die Spezialität unseres Hauses,[0x000A]eine perfekte Crème brûlée!{0xBE01}[0x000A]Die Rechnung lege ich diskret daneben...
+Zum Abschluss deines heutigen Menüs[0x000A]servieren wir dir einen echten Klassiker.{0xBE01}[0x000A]Die Spezialität unseres Hauses,[0x000A]eine perfekte Crème brûlée!{0xBE01}[0x000A]Die Karamelschicht hat der Chefkoch[0x000A]mittels V-Generator mit seinem Victini{0xBE00}[0x000A]extra für dich so knusperzart gezaubert!{0xBE01}[0x000A]Du bist überhaupt der einzige Gast,[0x000A]der in diesen seltenen Genuss kommt!{0xBE01}[0x000A]Die Rechnung lege ich diskret daneben...
+Restaurant de Luxe[0x000A]Rechnung für ein Doppelkampf-Menü
+Restaurant de Luxe[0x000A]Rechnung für ein Dreierkampf-Menü
+Restaurant de Luxe[0x000A]Rechnung für ein Reihumkampf-Menü
+Als freundliches Dankeschön erhältst du[0x000A]{0x0201,0x0007} {0x0109,0x0006}!{0xBE01}[0x000A]Leicht vorgewärmt, damit du gleich in den Genuss[0x000A]kommen kannst, falls es dich danach gelüstet!
+Vielen Dank für deinen Besuch heute![0x000A]Bitte beehre uns schon bald wieder!
+Den perfekten Gast das perfekte Mahl[0x000A]zur perfekten Zeit genießen zu sehen...{0xBE01}[0x000A]Das ist die perfekte Verbindung von Mensch,[0x000A]Pokémon und Gastronomie! Vielen Dank!
+Tritt ein, bring Glück herein![0x000A]Bei uns hier im Sushi-Wok geht’s rund!{0xBE01}[0x000A]Also, wofür kann ich dich heute begeistern?
+Welch Freude, unseren Lieblingsgast[0x000A]begrüßen zu dürfen, {0x0100,0x0000}!{0xBE01}[0x000A]Tritt ein, bring Glück herein![0x000A]Bei uns hier im Sushi-Wok geht’s rund!{0xBE01}[0x000A]Also, wofür kann ich dich heute begeistern?
+Speisen
+Info
+Ein andermal
+Sehr gerne! Welches Menü darf’s denn sein?
+Es ist uns wie immer eine Freude,[0x000A]{0x0100,0x0000}.{0xBE01}[0x000A]Was darf’s sein? Das Übliche?
+Doppelkampf-Menü
+★Doppelkampf-Menü
+Dreierkampf-Menü
+★Dreierkampf-Menü
+Reihumkampf-Menü
+★Reihumkampf-Menü
+Zurück
+Unser Restaurant ist, wie sollte es anders sein,[0x000A]vor allem für das Reihumkampf-Menü bekannt!{0xBE01}[0x000A]Unser Sushi wird stets auf den Punkt serviert,[0x000A]vertreibe dir also bitte mit Kämpfen die Zeit,{0xBE00}[0x000A]bis das Essen fertig ist!{0xBE01}[0x000A]Gewinnst du jeden Kampf innerhalb der[0x000A]vorgegebenen Anzahl an Runden,{0xBE00}[0x000A]erwarten dich immense Gaumenfreuden!{0xBE01}[0x000A]Nur um das klarzustellen, eine Runde ist vorbei,[0x000A]wenn ein Trainer seine Befehle gegeben hat!
+Komm bald wieder!
+Ach, und ich hab mich schon so gefreut![0x000A]Dann hoffentlich bis bald, {0x0100,0x0000}!
+Eine gute Wahl! Für dieses Menü müssen wir[0x000A]{0x0205,0x0001,0x002E} $ in Rechnung stellen. In Ordnung?
+Für dich nur das Beste, {0x0100,0x0000}!{0xBE01}[0x000A]Eine gute Wahl! Für dieses Menü müssen wir[0x000A]{0x0205,0x0001,0x002E} $ in Rechnung stellen. In Ordnung?
+Alles klar! Dann lassen wir es mal rundgehen![0x000A]Folge mir bitte, ich bringe dich zu deinem Tisch!
+Alles klar, {0x0100,0x0000}! Dann bringe ich dich[0x000A]gleich mal zu deinem Stammplatz! Folge mir bitte!
+Oh, du hast nicht genug Bares![0x000A]Das ist jetzt aber schade...
+Du willst doch nicht etwa für lau essen,[0x000A]{0x0100,0x0000}? Das passt nicht zu dir!{0xBE01}[0x000A]Tut mir sehr leid, aber auch du musst bei uns[0x000A]bezahlen, also verdiene erst mal etwas Geld!
+Halt, warte! Du brauchst mindestens {0x0200,0x0001} Pokémon,[0x000A]wenn du hier speisen möchtest!
+Nicht doch, {0x0100,0x0000}![0x000A]Du brichst mir das Herz!{0xBE01}[0x000A]Schon vergessen, dass du {0x0200,0x0001} Pokémon[0x000A]brauchst, wenn du hier essen willst?
+Danke fürs Warten! Hier sind deine Onigiri!{0xBE01}[0x000A]Ich empfehle, nach exakt {0x0201,0x0001} Runde{0x1101,0x0001,0x0100}n[0x000A]mit dem Verzehr zu beginnen!{0xBE01}[0x000A]Okay, lass uns bis dahin kämpfen!
+Du hast {0x0201,0x0002} Runde{0x1101,0x0002,0x0100}n gebraucht[0x000A]und {0x0200,0x0003} Pokémon {0x1101,0x0003,0x0403}istsind K.O. gegangen.{0xBE01}[0x000A]Echt nicht schlecht! Und jetzt hau rein!
+Danke fürs Warten! Hier ist deine Miso-Suppe!{0xBE01}[0x000A]Ich empfehle, nach exakt {0x0201,0x0001} Runde{0x1101,0x0001,0x0100}n[0x000A]mit dem Verzehr zu beginnen!{0xBE01}[0x000A]Also dann, lass uns bis dahin kämpfen!
+Du hast {0x0201,0x0002} Runde{0x1101,0x0002,0x0100}n gebraucht[0x000A]und {0x0200,0x0003} Pokémon {0x1101,0x0003,0x0403}istsind K.O. gegangen.{0xBE01}[0x000A]Du hast dich echt gut geschlagen![0x000A]Und jetzt hau rein!
+Danke fürs Warten! Hier ist dein Sashimi!{0xBE01}[0x000A]Ich empfehle, nach exakt {0x0201,0x0001} Runde{0x1101,0x0001,0x0100}n[0x000A]mit dem Verzehr zu beginnen!{0xBE01}[0x000A]Alsdann, lass uns bis dahin kämpfen!
+Du hast {0x0201,0x0002} Runde{0x1101,0x0002,0x0100}n gebraucht[0x000A]und {0x0200,0x0003} Pokémon {0x1101,0x0003,0x0403}istsind K.O. gegangen.{0xBE01}[0x000A]Eine sehr beeindruckende Vorstellung![0x000A]Und jetzt hau rein!
+Danke fürs Warten! Hier ist dein Shabu-Shabu!{0xBE01}[0x000A]Ich empfehle, nach exakt {0x0201,0x0001} Runde{0x1101,0x0001,0x0100}n[0x000A]mit dem Verzehr zu beginnen!{0xBE01}[0x000A]Nun denn, lass uns bis dahin kämpfen!
+Du hast {0x0201,0x0002} Runde{0x1101,0x0002,0x0100}n gebraucht[0x000A]und {0x0200,0x0003} Pokémon {0x1101,0x0003,0x0403}istsind K.O. gegangen.{0xBE01}[0x000A]Du hast gut gekämpft, Trainer![0x000A]Und jetzt hau rein!
+Willkommen, willkommen! Sehr nett von dir,[0x000A]uns heute zu beehren. Na, bist du schon satt?{0xBE01}[0x000A]Kurz zu meiner Person: Mir gehört der Laden.[0x000A]Ich bin demnach hier der Chef, jawohl!{0xBE01}[0x000A]Der nächste Gang wird dich begeistern![0x000A]Wasabi-Käse, ganz nach alter Tradition!{0xBE01}[0x000A]Ich empfehle, nach exakt {0x0201,0x0001} Runde{0x1101,0x0001,0x0100}n[0x000A]mit dem Verzehr zu beginnen!{0xBE01}[0x000A]Gut, lass uns bis dahin kämpfen!
+Du hast {0x0201,0x0002} Runde{0x1101,0x0002,0x0100}n gebraucht[0x000A]und {0x0200,0x0003} Pokémon {0x1101,0x0003,0x0403}istsind K.O. gegangen.{0xBE01}[0x000A]Das war auf jeden Fall gut genug![0x000A]Und jetzt hau rein!
+Na, wie läuft’s? Als Rausschmeißer gibt’s noch[0x000A]etwas Inari-Sushi, eben das Beste zum Schluss!{0xBE01}[0x000A]Nochmals vielen Dank für deinen Besuch heute![0x000A]Hier ist deine Rechnung...
+Danke, dass du uns immer wieder beehrst,[0x000A]{0x0100,0x0000}!{0xBE01}[0x000A]Nur für dich haben wir uns extra angestrengt[0x000A]und Tegone-Sushi gezaubert! Also hau rein!{0xBE01}[0x000A]Jeder deiner Besuche ist für uns ein Grund[0x000A]zur Freude, ehrlich wahr!{0xBE01}[0x000A]Aber auch für dich gibt’s leider nichts umsonst.[0x000A]Ich darf dir also deine Rechnung servieren...
+Sushi-Wok[0x000A]Rechnung für ein Doppelkampf-Menü
+Sushi-Wok[0x000A]Rechnung für ein Dreierkampf-Menü
+Sushi-Wok[0x000A]Rechnung für ein Reihumkampf-Menü
+Hier noch ein kleines Dankeschön für dich,[0x000A]{0x0201,0x0007} Exemplar{0x1101,0x0007,0x0100}e des Items {0x0109,0x0006}!
+Danke, dass du heute bei uns gespeist hast![0x000A]Komm doch so schnell du kannst wieder!
+Du hast Gang für Gang alles zum[0x000A]perfekten Zeitpunkt verputzt! Bravo!{0xBE01}[0x000A]Dein Magen muss ein schwarzes Loch sein!
+Die Vorspeise isst du am besten nach {0x0200,0x0001} Runde{0x1101,0x0001,0x0100}n.[0x000A]Runden: {0x0201,0x0002} / K.O. gegangene Pokémon: {0x0200,0x0003}
+Die Suppe isst du am besten nach {0x0200,0x0001} Runde{0x1101,0x0001,0x0100}n.[0x000A]Runden: {0x0201,0x0002} / K.O. gegangene Pokémon: {0x0200,0x0003}
+Den Fisch isst du am besten nach {0x0200,0x0001} Runde{0x1101,0x0001,0x0100}n.[0x000A]Runden: {0x0201,0x0002} / K.O. gegangene Pokémon: {0x0200,0x0003}
+Das Fleisch isst du am besten nach {0x0200,0x0001} Runde{0x1101,0x0001,0x0100}n.[0x000A]Runden: {0x0201,0x0002} / K.O. gegangene Pokémon: {0x0200,0x0003}
+Den Käse isst du am besten nach {0x0200,0x0001} Runde{0x1101,0x0001,0x0100}n.[0x000A]Runden: {0x0201,0x0002} / K.O. gegangene Pokémon: {0x0200,0x0003}
+Runden insgesamt: {0x0203,0x0001,0x0020}[0x000A]K.O. gegangene Pokémon insgesamt: {0x0201,0x0002}
+Ich bin zwar untröstlich, das so klipp und klar[0x000A]sagen zu müssen, aber nur wer auf Augenhöhe{0xBE00}[0x000A]mit dem Champ ist, darf hier speisen.

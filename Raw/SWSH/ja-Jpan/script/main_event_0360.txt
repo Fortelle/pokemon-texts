@@ -1,0 +1,14 @@
+main_event_0360_rival_01=駅長さん！　ここって[0x000A]ワイルドエリアの　駅だよね？{0xBE00}[0x000A]いったい　なにが　あったんだ？{0x0114,0x0005}
+main_event_0360_stationmaster_01=はい……　線路の　上に[0x000A]ウールーが　集まって……{0xBE00}[0x000A]列車は　足止め　されています
+main_event_0360_rival_02=むしろ　ラッキーだぞ！{0x0114,0x0005}
+main_event_0360_select_01=ラッキー？
+main_event_0360_select_02=なにが？
+main_event_0360_rival_03=ワイルドエリアは　とにかく　でかい！[0x000A]ポケモンが　たくさん　いる！{0xBE01}[0x000A]わかるだろ　{0x0100,0x0000}！[0x000A]最強の　チームに　できるぞ！{0x0114,0x0005}
+main_event_0360_stationmaster_02=ブラッシータウンに　戻れても[0x000A]エンジンシティへは　行けないようです{0xBE01}[0x000A]集まった　ポケモンたちを　無理やり[0x000A]追いはらう　わけにも　いきませんしね
+main_event_0360_assistant_01={0xBDFF:0x0007}
+main_event_0360_rival_05={0xBDFF:0x0008}
+main_event_0360_rival_06={0xBDFF:0x0009}
+main_event_0360_assistant_02={0xBDFF:0x000A}
+main_event_0360_assistant_03={0xBDFF:0x000B}
+main_event_0360_rival_04={0xBDFF:0x000C}
+main_event_0360_assistant_04={0xBDFF:0x000D}

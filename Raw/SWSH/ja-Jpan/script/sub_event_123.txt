@@ -1,0 +1,15 @@
+sub_event_123_director_01=ぼく　ディレクター！
+sub_event_123_director_02=わぁ！　ポケモン図鑑の[0x000A]完成を　めざして　くれてるの？
+sub_event_123_director_03=ありがとう！　どんどん[0x000A]ポケモンを　探して　くださいね
+sub_event_123_director_04=そうだ！　ポケモンを　捕まえるのに[0x000A]役立つ　おまもりを　あげるよ！
+sub_event_123_director_05=ポケモン図鑑が[0x000A]完成したら　教えてね！
+sub_event_123_director_06=ポケモン図鑑の　完成は　すごく[0x000A]大変だけど　がんばってね！{0xBE01}[0x000A]もし　図鑑を　完成させたら[0x000A]ぼくに　みせてね！
+sub_event_123_director_07=……わぁ！　すごい！{0xBE01}[0x000A]ポケモン図鑑を[0x000A]完成させたんだね！
+sub_event_123_director_08=おめでとう！[0x000A]本当に　すごい　ことだよ！
+sub_event_123_director_14=きみの　すばらしい[0x000A]功績を　称えて{0xBE00}[0x000A]表彰　させてください！
+sub_event_123_director_09=それと！　リーグカードに[0x000A]しるしを　つけて　あげよう！
+sub_event_123_director_10=これで　よし！
+sub_event_123_director_11=うれしくなった　お礼だよ！[0x000A]こちらの　おまもりも　プレゼント！
+sub_event_123_director_12=これからも　ポケモンを[0x000A]ずっと　大好きで　いてね！
+sub_event_123_director_13=ポケモン図鑑[0x000A]完成　おめでとう！{0xBE01}[0x000A]ふふふ　何度でも[0x000A]表彰してあげるよ！
+sub_event_123_system_01={0x0100,0x0000}の　リーグカードに[0x000A]図鑑完成の　しるしが　ついた！

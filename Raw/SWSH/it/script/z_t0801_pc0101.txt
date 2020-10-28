@@ -1,0 +1,8 @@
+msg_t0801pc0101_npc1_01=Ehi, tu... Non osare far piangere il Morpeko[0x000A]di Mary!
+msg_t0801pc0101_npc1_02=Ehi, tu... Sai già che succederà quando lotterai[0x000A]contro Mary, vero?
+msg_t0801pc0101_npc2_01=Ormai sei entrat{0x1100,0x00FF,0x0101}oa, tanto vale che ti prepari[0x000A]ad affrontare Ginepro... Sei pront{0x1100,0x00FF,0x0101}oa?
+msg_t0801pc0101_npc2_02=Ginepro non vede di buon occhio il presidente[0x000A]Rose... Però è un grande fan della Sfida{0xBE00}[0x000A]delle Palestre!
+msg_t0801pc0101_npc3_01=Gli Allenatori che riescono ad arrivare fino a[0x000A]Spikeville... hanno tutti uno sguardo così tosto!
+msg_t0801pc0101_npc3_02=E vabbè... Andrò a fare la mima con Mr. Mime...
+msg_t0501_pc0101_poke1_01_pop={0xBDFF:0x0006}
+msg_t0801_pc0101_poke1_01_pop=Indee-de!

@@ -1,0 +1,269 @@
+
+
+Veranstaltungszeitraum (UTC)
+ im Gange.
+ beendet.
+{0x0201,0x0002}.{0x0201,0x0001}.20{0x0201,0x0000} {0x0201,0x0003}:{0x0201,0x0004} Uhr bis {0x0201,0x0007}.{0x0201,0x0006}.20{0x0201,0x0005} {0x0201,0x0008}:{0x0201,0x0009} Uhr
+Ziel:
+{0x0209,0x0000,0xE07F}
+Datum: {0x0201,0x0002}.{0x0201,0x0001}.20{0x0201,0x0000} {0x0201,0x0003}:{0x0201,0x0004} Uhr
+Aktueller Rekord von {0x0100,0x0000}
+Rekord von {0x0100,0x0000}
+{0x0203,0x0000,0xE07F}
+Belohnung:
+{0x0204,0x0000,0x002E}/{0x0204,0x0001,0x002E} FM
+{0x0205,0x0000,0x002E} FM
+{0xFF00,0x0002}Du nimmst nicht teil{0xFF00,0x0000}
+Neuer Rekord!
+{0xFF00,0x0002}Am {0x0201,0x0002}.{0x0201,0x0001}.20{0x0201,0x0000} um {0x0201,0x0003}:{0x0201,0x0004} Uhr erhalten!{0xFF00,0x0000}
+Endergebnis:
+{0xFF00,0x0002}Belohnung am Empfang abholbar{0xFF00,0x0000}
+Teilnehmen
+Daten werden überprüft...[0x000A]Bitte warte einen Moment.
+Daten werden aktualisiert...[0x000A]Bitte warte einen Moment.
+Willst du an diesem Globalen Spektakel[0x000A]teilnehmen?
+Die Daten des Globalen Spektakels wurden[0x000A]aktualisiert.{0xBE01}
+Du wurdest als Teilnehmer für das Globale[0x000A]Spektakel registriert.{0xBE01}[0x000A]Knackst du während deiner Teilnahme an dem[0x000A]Globalen Spektakel den Rekord, sprich die{0xBE00}[0x000A]Assistentin am Empfang für Globale Spektakel{0xBE00}[0x000A]an und wähle „Ansehen“, um die Rekorddaten{0xBE00}[0x000A]zu aktualisieren.{0xBE01}[0x000A]Sie werden auch aktualisiert, wenn du eine[0x000A]Spielsynchro durchführst.{0xBE01}
+Es werden zurzeit keine Globalen Spektakel[0x000A]veranstaltet.{0xBE01}
+Du hast eine Belohnung für deine Teilnahme[0x000A]an einem Globalen Spektakel erhalten!{0xBE01}[0x000A]Bitte hole sie dir am Empfang für Globale[0x000A]Spektakel ab.{0xBE01}
+Die Liste der Globalen Spektakel kann nicht[0x000A]aktualisiert werden, da der Server überlastet ist.{0xBE01}[0x000A]Bitte versuche es später noch einmal.{0xBE01}
+Du kannst dich zurzeit nicht für die Teilnahme[0x000A]an einem Globalen Spektakel anmelden, da der{0xBE00}[0x000A]Server überlastet ist.{0xBE01}[0x000A]Bitte versuche es später noch einmal.{0xBE01}
+{0x01B5,0x0000}
+Restzeit
+Gesamtpunktzahl
+Individuelle Punktzahl
+Teilnehmerzahl
+{0x0201,0x0000}
+:
+{0x0204,0x0000,0xE07F}
+{0x0202,0x0000}
+Beenden
+Begrüße erfahrene Trainer!
+Plaudere mit frischgebackenen Trainern!
+Finde verliebte Trainer!
+Finde einsame Einzelgänger!
+Umfrage: Mehr Jungs als Mädchen?
+Umfrage: Mehr Mädchen als Jungs?
+Finde große Brüder und Schwestern!
+Finde Spieler, die das mittlere Kind sind!
+Finde kleine Brüder und Schwestern!
+Finde Einzelkinder!
+Auf den Charakter kommt es an!
+Auf das Aussehen kommt es an!
+Finde vertrauenswürdige Trainer!
+Finde indiskrete Trainer!
+Umfrage: Freizeit zu Hause verbringen?
+Umfrage: Freizeit draußen verbringen?
+Finde deine Fans!
+Der große Kostümwettbewerb
+Zur Losbude geht’s hier entlang!
+Zur Ballonturnbude geht’s hier entlang!
+Zur Gruselbude geht’s hier entlang!
+Zur Imbissbude geht’s hier entlang!
+Zur Souvenirbude geht’s hier entlang!
+Zur Orakelbude geht’s hier entlang!
+Zur Färbebude geht’s hier entlang!
+{0xBDFF:0x0041}
+{0xBDFF:0x0042}
+Grundkurs Japanisch
+Grundkurs Englisch
+Grundkurs Französisch
+Grundkurs Italienisch
+Grundkurs Deutsch
+Grundkurs Spanisch
+Grundkurs Koreanisch
+Grundkurs Chinesisch
+Sprachaustausch
+Tarnung
+In natura
+{0xBDFF:0x004E}
+{0xBDFF:0x004F}
+{0xBDFF:0x0050}
+{0xBDFF:0x0051}
+{0xBDFF:0x0052}
+Lass die Muskeln spielen!
+{0xBDFF:0x0054}
+Zertrümmere mit dem Rammbock Felsen!
+{0xBDFF:0x0056}
+Modeschau in Rot
+Modeschau in Grün
+Modeschau in Orange
+Modeschau in Violett
+Modeschau in Gelb
+Modeschau in Blau
+Modeschau in Ultramarin
+Modeschau in Rosa
+Typen-Konter
+{0xBDFF:0x0060}
+Umgekehrter Typen-Konter
+{0xBDFF:0x0062}
+Finde Spieler, die den Typ Normal mögen! (1)
+Finde Spieler, die den Typ Feuer mögen! (1)
+Finde Spieler, die den Typ Wasser mögen! (1)
+Finde Spieler, die den Typ Elektro mögen! (1)
+Finde Spieler, die den Typ Pflanze mögen! (1)
+Finde Spieler, die den Typ Eis mögen! (1)
+Finde Spieler, die den Typ Kampf mögen! (1)
+Finde Spieler, die den Typ Gift mögen! (1)
+Finde Spieler, die den Typ Boden mögen! (1)
+Finde Spieler, die den Typ Flug mögen! (1)
+Finde Spieler, die den Typ Psycho mögen! (1)
+Finde Spieler, die den Typ Käfer mögen! (1)
+Finde Spieler, die den Typ Gestein mögen! (1)
+Finde Spieler, die den Typ Geist mögen! (1)
+Finde Spieler, die den Typ Drache mögen! (1)
+Finde Spieler, die den Typ Unlicht mögen! (1)
+Finde Spieler, die den Typ Stahl mögen! (1)
+Finde Spieler, die den Typ Fee mögen! (1)
+Finde Spieler, die den Typ Normal mögen! (2)
+Finde Spieler, die den Typ Feuer mögen! (2)
+Finde Spieler, die den Typ Wasser mögen! (2)
+Finde Spieler, die den Typ Elektro mögen! (2)
+Finde Spieler, die den Typ Pflanze mögen! (2)
+Finde Spieler, die den Typ Eis mögen! (2)
+Finde Spieler, die den Typ Kampf mögen! (2)
+Finde Spieler, die den Typ Gift mögen! (2)
+Finde Spieler, die den Typ Boden mögen! (2)
+Finde Spieler, die den Typ Flug mögen! (2)
+Finde Spieler, die den Typ Psycho mögen! (2)
+Finde Spieler, die den Typ Käfer mögen! (2)
+Finde Spieler, die den Typ Gestein mögen! (2)
+Finde Spieler, die den Typ Geist mögen! (2)
+Finde Spieler, die den Typ Drache mögen! (2)
+Finde Spieler, die den Typ Unlicht mögen! (2)
+Finde Spieler, die den Typ Stahl mögen! (2)
+Finde Spieler, die den Typ Fee mögen! (2)
+Finde Spieler, die seit mindestens fünf Jahren[0x000A]Pokémon spielen, und begrüße sie höflich![0x000A][0x000A]Tipps:[0x000A]・Informiere dich gut über deine VIPs![0x000A]・Suche Spieler mit der folgenden Nachricht:[0x000A]    - „Ich bin ein erfahrener Trainer!“
+Finde Spieler, die seit maximal fünf Jahren[0x000A]Pokémon spielen, und plaudere mit ihnen![0x000A][0x000A]Tipps:[0x000A]・Informiere dich gut über deine VIPs![0x000A]・Suche Spieler mit der folgenden Nachricht:[0x000A]    - „Ich bin ein frischgebackener Trainer!“
+Finde Spieler, die in jemanden verliebt sind,[0x000A]und sprich sie an![0x000A][0x000A]Tipps:[0x000A]・Informiere dich gut über deine VIPs![0x000A]・Suche Spieler mit der folgenden Nachricht:[0x000A]    - „Ich bin in jemanden verliebt!“
+Finde Spieler, die in niemanden verliebt sind,[0x000A]und sprich sie an![0x000A][0x000A]Tipps:[0x000A]・Informiere dich gut über deine VIPs![0x000A]・Suche Spieler mit der folgenden Nachricht:[0x000A]    - „Ich bin in niemanden verliebt...“
+Finde Spieler, die mehr Jungs als Mädchen[0x000A]kennen, und tausche dich rege mit ihnen aus![0x000A][0x000A]Tipps:[0x000A]・Informiere dich gut über deine VIPs![0x000A]・Suche Spieler mit der folgenden Nachricht:[0x000A]    - „In meinem Freundeskreis gibt’s viele[0x000A]      Jungs!“
+Finde Spieler, die mehr Mädchen als Jungs[0x000A]kennen, und tausche dich rege mit ihnen aus![0x000A][0x000A]Tipps:[0x000A]・Informiere dich gut über deine VIPs![0x000A]・Suche Spieler mit der folgenden Nachricht:[0x000A]    - „In meinem Freundeskreis gibt’s viele[0x000A]      Mädchen!“
+Finde Spieler, deren Geschwister jünger als sie[0x000A]selbst sind, und sprich sie an![0x000A][0x000A]Tipps:[0x000A]・Informiere dich gut über deine VIPs![0x000A]・Suche Spieler mit der folgenden Nachricht:[0x000A]    - „Meine Geschwister sind jünger als ich!“
+Finde Spieler, die ältere und jüngere[0x000A]Geschwister haben, und sprich sie an![0x000A][0x000A]Tipps:[0x000A]・Informiere dich gut über deine VIPs![0x000A]・Suche Spieler mit der folgenden Nachricht:[0x000A]    - „Ich habe ältere und jüngere Geschwister!“
+Finde Spieler, deren Geschwister älter als sie[0x000A]selbst sind, und sprich sie an![0x000A][0x000A]Tipps:[0x000A]・Informiere dich gut über deine VIPs![0x000A]・Suche Spieler mit der folgenden Nachricht:[0x000A]    - „Meine Geschwister sind älter als ich!“
+Finde Spieler, die Einzelkinder sind, und sprich[0x000A]sie an![0x000A][0x000A]Tipps:[0x000A]・Informiere dich gut über deine VIPs![0x000A]・Suche Spieler mit der folgenden Nachricht:[0x000A]    - „Ich habe keine Geschwister!“
+Finde Spieler, die bei einem Menschen vor allem[0x000A]Wert auf den Charakter legen![0x000A][0x000A]Tipps:[0x000A]・Informiere dich gut über deine VIPs![0x000A]・Suche Spieler mit der folgenden Nachricht:[0x000A]    - „Ich achte immer auf den Charakter[0x000A]      anderer!“
+Finde Spieler, die bei einem Menschen vor allem[0x000A]Wert auf das Aussehen legen![0x000A][0x000A]Tipps:[0x000A]・Informiere dich gut über deine VIPs![0x000A]・Suche Spieler mit der folgenden Nachricht:[0x000A]    - „Ich achte immer auf das Aussehen[0x000A]      anderer!“
+Finde vertrauenswürdige Spieler,[0x000A]die nie Geheimnisse ausplaudern![0x000A][0x000A]Tipps:[0x000A]・Informiere dich gut über deine VIPs![0x000A]・Suche Spieler mit der folgenden Nachricht:[0x000A]    - „Ich behalte Geheimnisse immer für mich!“
+Finde indiskrete Spieler, die Geheimnisse nie für[0x000A]sich behalten können![0x000A][0x000A]Tipps:[0x000A]・Informiere dich gut über deine VIPs![0x000A]・Suche Spieler mit der folgenden Nachricht:[0x000A]    - „Ich erzähle Geheimnisse immer gleich rum!“
+Starte eine Umfrage, wie viele Spieler in ihrer[0x000A]Freizeit am liebsten zu Hause bleiben![0x000A][0x000A]Tipps:[0x000A]・Informiere dich gut über deine VIPs![0x000A]・Suche Spieler mit der folgenden Nachricht:[0x000A]    - „In meiner Freizeit bin ich am liebsten zu[0x000A]      Hause!“
+Starte eine Umfrage, wie viele Spieler in ihrer[0x000A]Freizeit am liebsten nach draußen gehen![0x000A][0x000A]Tipps:[0x000A]・Informiere dich gut über deine VIPs![0x000A]・Suche Spieler mit der folgenden Nachricht:[0x000A]    - „In meiner Freizeit bin ich am liebsten[0x000A]      draußen!“
+Deine Fans haben sich genauso angezogen wie[0x000A]du und sich unter die Besucher des Festival-[0x000A]Plazas gemischt. Finde sie und sprich sie an!
+Deine Fans halten einen Kostümwettbewerb ab,[0x000A]bei dem alle so angezogen sein müssen wie du.[0x000A]Manche von ihnen tragen jedoch Kostüme, die[0x000A]nicht ganz originalgetreu sind. Finde sie und[0x000A]weise sie darauf hin!
+Stelle anderen Spielern die Losbude vor![0x000A][0x000A]Ziel ist es, möglichst vielen Spielern, die sich[0x000A]genau das gewünscht haben, ihren Wunsch zu[0x000A]erfüllen.
+Stelle anderen Spielern die Ballonturnbude vor![0x000A][0x000A]Ziel ist es, möglichst vielen Spielern, die sich[0x000A]genau das gewünscht haben, ihren Wunsch zu[0x000A]erfüllen.
+Stelle anderen Spielern die Gruselbude vor![0x000A][0x000A]Ziel ist es, möglichst vielen Spielern, die sich[0x000A]genau das gewünscht haben, ihren Wunsch zu[0x000A]erfüllen.
+Stelle anderen Spielern die Imbissbude vor![0x000A][0x000A]Ziel ist es, möglichst vielen Spielern, die sich[0x000A]genau das gewünscht haben, ihren Wunsch zu[0x000A]erfüllen.
+Stelle anderen Spielern die Souvenirbude vor![0x000A][0x000A]Ziel ist es, möglichst vielen Spielern, die sich[0x000A]genau das gewünscht haben, ihren Wunsch zu[0x000A]erfüllen.
+Stelle anderen Spielern die Orakelbude vor![0x000A][0x000A]Ziel ist es, möglichst vielen Spielern, die sich[0x000A]genau das gewünscht haben, ihren Wunsch zu[0x000A]erfüllen.
+Stelle anderen Spielern die Färbebude vor![0x000A][0x000A]Ziel ist es, möglichst vielen Spielern, die sich[0x000A]genau das gewünscht haben, ihren Wunsch zu[0x000A]erfüllen.
+{0xBDFF:0x00A0}
+{0xBDFF:0x00A1}
+Begrüße Besucher, die das Spiel auf Japanisch[0x000A]spielen![0x000A][0x000A]Tipps:[0x000A]・Suche Spieler mit den folgenden Nachrichten:[0x000A]    - „Konnichiwa!“[0x000A]    - „Arigatō!“[0x000A]    - „Sayōnara!“
+Begrüße Besucher, die das Spiel auf Englisch[0x000A]spielen![0x000A][0x000A]Tipps:[0x000A]・Suche Spieler mit den folgenden Nachrichten:[0x000A]    - „Hello!“[0x000A]    - „Thank you!“[0x000A]    - „Bye!“
+Begrüße Besucher, die das Spiel auf Französisch[0x000A]spielen![0x000A][0x000A]Tipps:[0x000A]・Suche Spieler mit den folgenden Nachrichten:[0x000A]    - „Bonjour !“[0x000A]    - „Merci !“[0x000A]    - „Au revoir !“
+Begrüße Besucher, die das Spiel auf Italienisch[0x000A]spielen![0x000A][0x000A]Tipps:[0x000A]・Suche Spieler mit den folgenden Nachrichten:[0x000A]    - „Buongiorno!“[0x000A]    - „Grazie!“[0x000A]    - „Ciao!“
+Begrüße Besucher, die das Spiel auf Deutsch[0x000A]spielen![0x000A][0x000A]Tipps:[0x000A]・Suche Spieler mit den folgenden Nachrichten:[0x000A]    - „Guten Tag!“[0x000A]    - „Danke!“[0x000A]    - „Tschüss!“
+Begrüße Besucher, die das Spiel auf Spanisch[0x000A]spielen![0x000A][0x000A]Tipps:[0x000A]・Suche Spieler mit den folgenden Nachrichten:[0x000A]    - „¡Hola!“[0x000A]    - „¡Gracias!“[0x000A]    - „¡Adiós!“
+Begrüße Besucher, die das Spiel auf Koreanisch[0x000A]spielen![0x000A][0x000A]Tipps:[0x000A]・Suche Spieler mit den folgenden Nachrichten:[0x000A]    - „Annyeonghaseyo!“[0x000A]    - „Gomawo!“[0x000A]    - „Annyeonghi gaseyo!“
+Begrüße Besucher, die das Spiel auf Chinesisch[0x000A]spielen![0x000A][0x000A]Tipps:[0x000A]・Suche Spieler mit den folgenden Nachrichten:[0x000A]    - „Nǐhǎo!“[0x000A]    - „Xièxie!“[0x000A]    - „Zàijiàn!“
+Begrüße Besucher, die das Spiel in einer[0x000A]anderen Sprache spielen als du![0x000A][0x000A]Tipps:[0x000A]・Suche Spieler, die dich in einer[0x000A]    anderen Sprache begrüßen.[0x000A]・Suche Spieler, die sich in einer[0x000A]    anderen Sprache bedanken.
+Finde Spieler, die eine Kopfbedeckung und[0x000A]eine Brille tragen!
+Finde Spieler, die weder eine Kopfbedeckung,[0x000A]noch eine Brille tragen!
+{0xBDFF:0x00AD}
+{0xBDFF:0x00AE}
+{0xBDFF:0x00AF}
+{0xBDFF:0x00B0}
+{0xBDFF:0x00B1}
+Zeige allen Spielern auf dem Festival-Plaza,[0x000A]was für ein Team du und Machomei abgebt![0x000A][0x000A]Ziel ist es, oft genug ein „tolles Team“ genannt[0x000A]zu werden.[0x000A][0x000A]Tipp:[0x000A]・Suche nach Spielern, die dich voller Freude[0x000A]    begrüßen!
+Zeige allen Spielern auf dem Festival-Plaza,[0x000A]was für ein Team du und Machomei abgebt![0x000A][0x000A]Ziel ist es, oft genug ein „tolles Team“ genannt[0x000A]zu werden.[0x000A][0x000A]Tipp:[0x000A]・Suche nach Spielern, die dich voller Freude[0x000A]    begrüßen!
+Sattle dein Tauros und zertrümmere die Felsen,[0x000A]die auf dem Festival-Plaza erschienen sind!
+Sattle dein Tauros und zertrümmere die Felsen,[0x000A]die auf dem Festival-Plaza erschienen sind!
+Finde Spieler, die alle ihre Mode-Artikel[0x000A]rot gefärbt haben![0x000A][0x000A]Tipp:[0x000A]・Die folgenden Rottöne sind auch gültig:[0x000A]    - Pastellrot[0x000A]    - Dunkles Rot[0x000A]    - Sattes Rot
+Finde Spieler, die alle ihre Mode-Artikel[0x000A]grün gefärbt haben![0x000A][0x000A]Tipp:[0x000A]・Die folgenden Grüntöne sind auch gültig:[0x000A]    - Pastellgrün[0x000A]    - Dunkles Grün[0x000A]    - Sattes Grün
+Finde Spieler, die alle ihre Mode-Artikel[0x000A]orange gefärbt haben![0x000A][0x000A]Tipp:[0x000A]・Die folgenden Orangetöne sind auch gültig:[0x000A]    - Pastellorange[0x000A]    - Dunkles Orange[0x000A]    - Sattes Orange
+Finde Spieler, die alle ihre Mode-Artikel[0x000A]violett gefärbt haben![0x000A][0x000A]Tipp:[0x000A]・Die folgenden Violett-Töne sind auch gültig:[0x000A]    - Pastellviolett[0x000A]    - Dunkles Violett[0x000A]    - Sattes Violett
+Finde Spieler, die alle ihre Mode-Artikel[0x000A]gelb gefärbt haben![0x000A][0x000A]Tipp:[0x000A]・Die folgenden Gelbtöne sind auch gültig:[0x000A]    - Pastellgelb[0x000A]    - Dunkles Gelb[0x000A]    - Sattes Gelb
+Finde Spieler, die alle ihre Mode-Artikel[0x000A]blau gefärbt haben![0x000A][0x000A]Tipp:[0x000A]・Die folgenden Blautöne sind auch gültig:[0x000A]    - Pastellblau[0x000A]    - Dunkles Blau[0x000A]    - Sattes Blau
+Finde Spieler, die alle ihre Mode-Artikel[0x000A]ultramarin gefärbt haben![0x000A][0x000A]Tipp:[0x000A]・Die folgenden Ultramarintöne sind auch gültig:[0x000A]    - Pastell-Ultramarin[0x000A]    - Dunkles Ultramarin[0x000A]    - Sattes Ultramarin
+Finde Spieler, die alle ihre Mode-Artikel[0x000A]rosa gefärbt haben![0x000A][0x000A]Tipp:[0x000A]・Die folgenden Rosatöne sind auch gültig:[0x000A]    - Pastellrosa[0x000A]    - Dunkles Rosa[0x000A]    - Sattes Rosa
+Sprich andere Spieler an und teste dein Wissen[0x000A]zu den Wechselwirkungen zwischen den Typen.[0x000A][0x000A]Ziel ist es, dem anderen Spieler einen sehr[0x000A]effektiven Attacken-Typ zu nennen.
+{0xBDFF:0x00BF}
+Sprich andere Spieler an und teste dein Wissen[0x000A]zu den Wechselwirkungen zwischen den Typen[0x000A]in Umkehrkämpfen. Dabei werden Typenvorteile[0x000A]zu Typennachteilen und umgekehrt.[0x000A][0x000A]Ziel ist es, dem anderen Spieler einen sehr[0x000A]effektiven Attacken-Typ zu nennen.
+{0xBDFF:0x00C1}
+Finde Spieler, die Pokémon vom Typ Normal[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die man oft in Alola sieht.
+Finde Spieler, die Pokémon vom Typ Feuer[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die man oft in Alola sieht.
+Finde Spieler, die Pokémon vom Typ Wasser[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die man oft in Alola sieht.
+Finde Spieler, die Pokémon vom Typ Elektro[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die man oft in Alola sieht.
+Finde Spieler, die Pokémon vom Typ Pflanze[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die man oft in Alola sieht.
+Finde Spieler, die Pokémon vom Typ Eis[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die man oft in Alola sieht.
+Finde Spieler, die Pokémon vom Typ Kampf[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die man oft in Alola sieht.
+Finde Spieler, die Pokémon vom Typ Gift[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die man oft in Alola sieht.
+Finde Spieler, die Pokémon vom Typ Boden[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die man oft in Alola sieht.
+Finde Spieler, die Pokémon vom Typ Flug[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die man oft in Alola sieht.
+Finde Spieler, die Pokémon vom Typ Psycho[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die man oft in Alola sieht.
+Finde Spieler, die Pokémon vom Typ Käfer[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die man oft in Alola sieht.
+Finde Spieler, die Pokémon vom Typ Gestein[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die man oft in Alola sieht.
+Finde Spieler, die Pokémon vom Typ Geist[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die man oft in Alola sieht.
+Finde Spieler, die Pokémon vom Typ Drache[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die man oft in Alola sieht.
+Finde Spieler, die Pokémon vom Typ Unlicht[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die man oft in Alola sieht.
+Finde Spieler, die Pokémon vom Typ Stahl[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die man oft in Alola sieht.
+Finde Spieler, die Pokémon vom Typ Fee[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die man oft in Alola sieht.
+Finde Spieler, die Pokémon vom Typ Normal[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die es in Alola nicht gibt.
+Finde Spieler, die Pokémon vom Typ Feuer[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die es in Alola nicht gibt.
+Finde Spieler, die Pokémon vom Typ Wasser[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die es in Alola nicht gibt.
+Finde Spieler, die Pokémon vom Typ Elektro[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die es in Alola nicht gibt.
+Finde Spieler, die Pokémon vom Typ Pflanze[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die es in Alola nicht gibt.
+Finde Spieler, die Pokémon vom Typ Eis[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die es in Alola nicht gibt.
+Finde Spieler, die Pokémon vom Typ Kampf[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die es in Alola nicht gibt.
+Finde Spieler, die Pokémon vom Typ Gift[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die es in Alola nicht gibt.
+Finde Spieler, die Pokémon vom Typ Boden[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die es in Alola nicht gibt.
+Finde Spieler, die Pokémon vom Typ Flug[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die es in Alola nicht gibt.
+Finde Spieler, die Pokémon vom Typ Psycho[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die es in Alola nicht gibt.
+Finde Spieler, die Pokémon vom Typ Käfer[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die es in Alola nicht gibt.
+Finde Spieler, die Pokémon vom Typ Gestein[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die es in Alola nicht gibt.
+Finde Spieler, die Pokémon vom Typ Geist[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die es in Alola nicht gibt.
+Finde Spieler, die Pokémon vom Typ Drache[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die es in Alola nicht gibt.
+Finde Spieler, die Pokémon vom Typ Unlicht[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die es in Alola nicht gibt.
+Finde Spieler, die Pokémon vom Typ Stahl[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die es in Alola nicht gibt.
+Finde Spieler, die Pokémon vom Typ Fee[0x000A]mögen, und sprich sie an![0x000A][0x000A]Tipp:[0x000A]・Suche Spieler, die über Pokémon reden,[0x000A]    die es in Alola nicht gibt.
+Fange viele wilde Pokémon!
+Tausche Pokémon über die GTS!
+Brüte viele Eier aus!
+Sammle Pokébohnen!
+Erziele per Pokémon-Sucher hohe Punktzahlen!
+Finde Pokémon mit dem Insel-Scanner!
+Schnapp dir Krabbox!
+Verteidige deinen Titel als Champ!
+Angle an besonderen Angelstellen!
+Siege beim Battle Royale!
+Stelle dein Glück auf die Probe!
+Verdiene dir im Kampfbaum Gewinnpunkte!
+Fange während des Veranstaltungszeitraums so viele wilde[0x000A]Pokémon, wie du kannst!
+Tausche während des Veranstaltungszeitraums über die[0x000A]GTS so viele Pokémon, wie du kannst!
+Brüte während des Veranstaltungszeitraums so viele[0x000A]Pokémon-Eier aus, wie du kannst!
+Sammle während des Veranstaltungszeitraums im[0x000A]Pokémon-Resort so viele Pokébohnen, wie du kannst!
+Schieße während des Veranstaltungszeitraums mit dem[0x000A]Pokémon-Sucher so viele Fotos, wie du kannst! Es zählen[0x000A]nur Fotos, die mehr als 10[0xE07F]000 Punkte einbringen.
+Finde während des Veranstaltungszeitraums mit dem[0x000A]Insel-Scanner so viele Pokémon, wie du kannst!
+Finde während des Veranstaltungszeitraums so viele[0x000A]Krabbox, wie du kannst! Sie halten sich hinter Beeren[0x000A]versteckt.
+Verteidige während des Veranstaltungszeitraums deinen[0x000A]Titel als Champ der Pokémon-Liga so oft, wie du kannst!
+Finde Angelstellen, bei denen Blasen zur Oberfläche steigen[0x000A]und ziehe dort während des Veranstaltungszeitraums so[0x000A]viele Pokémon oder Items an Land, wie du kannst!
+Erringe während des Veranstaltungszeitraums im[0x000A]Meister-Rang des Battle Royale so viele Siege,[0x000A]wie du kannst!
+Ziehe während des Veranstaltungszeitraums auf dem[0x000A]Festival-Plaza oder in der Touristeninformation so viele[0x000A]Gewinnlose, wie du kannst!
+Verdiene dir während des Veranstaltungszeitraums im[0x000A]Kampfbaum so viele Gewinnpunkte (GP), wie du kannst!
+Ja
+Nein
+{0x0201,0x0000}:{0x0201,0x0001}
+ wird berechnet...
+Dieses Globale Spektakel ist schon vorbei,[0x000A]deswegen kannst du nicht daran teilnehmen.{0xBE01}
+{0xBDFF:0x0103}
+{0xBDFF:0x0104}
+{0xBDFF:0x0105}
+{0xBDFF:0x0106}
+{0xBDFF:0x0107}
+{0xBDFF:0x0108}
+{0xBDFF:0x0109}
+{0xBDFF:0x010A}
+{0xBDFF:0x010B}
+{0xBDFF:0x010C}

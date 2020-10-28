@@ -1,0 +1,158 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+Sole intenso
+Quando i raggi solari sono intensi, la potenza[0x000A]delle mosse di tipo Fuoco aumenta e quella[0x000A]delle mosse di tipo Acqua diminuisce.
+Pioggia
+Quando piove, la potenza delle mosse[0x000A]di tipo Acqua aumenta e quella delle[0x000A]mosse di tipo Fuoco diminuisce.
+Tempesta di sabbia
+Quando infuria una tempesta di sabbia,[0x000A]tutti i Pokémon subiscono danni a ogni turno,[0x000A]eccetto quelli di tipo Terra, Roccia e Acciaio.[0x000A]Inoltre, la Difesa Speciale dei Pokémon di[0x000A]tipo Roccia aumenta.
+Grandine
+Quando grandina, tutti i Pokémon subiscono[0x000A]danni a ogni turno, eccetto quelli di tipo[0x000A]Ghiaccio.
+Campo Elettrico
+Impedisce che i Pokémon a contatto con il[0x000A]terreno di lotta si addormentino per cinque turni.[0x000A]Potenzia le mosse di tipo Elettro.
+Campo Erboso
+Fa recuperare PS ai Pokémon a contatto[0x000A]con il terreno di lotta per cinque turni.[0x000A]Potenzia le mosse di tipo Erba.
+Campo Nebbioso
+Protegge i Pokémon a contatto con il terreno[0x000A]di lotta da problemi di stato per cinque turni.[0x000A]Dimezza i danni causati da mosse di tipo Drago.
+Distortozona
+Per cinque turni, i Pokémon più lenti agiscono[0x000A]per primi.
+Magicozona
+Annulla l’effetto degli strumenti di tutti[0x000A]i Pokémon per cinque turni.
+Mirabilzona
+Scambia la Difesa e la Difesa Speciale[0x000A]di tutti i Pokémon per cinque turni.
+Brutto colpo ↑
+La probabilità di sferrare un brutto colpo[0x000A]aumenta.
+Confusione
+Il Pokémon rischia di danneggiare se stesso[0x000A]per un periodo che va da uno a quattro turni.
+Infatuazione
+Il Pokémon è riluttante ad attaccare[0x000A]se il bersaglio è del sesso opposto.
+Incubo
+Il Pokémon perde PS a ogni turno mentre dorme.
+Sonnolenza
+Il Pokémon si addormenta alla fine del turno[0x000A]successivo a quello in cui ha subito la mossa.
+Ripeti
+Obbliga il Pokémon a ripetere la mossa[0x000A]{0x0107,0x0000} per tre volte.
+Nessuna abilità
+L’abilità del Pokémon è stata neutralizzata[0x000A]e non ha effetto.
+Attaccalite
+Il Pokémon non può usare la stessa mossa[0x000A]due volte di seguito.
+Ventoincoda
+Per quattro turni, la Velocità del Pokémon[0x000A]raddoppia.
+Fortuncanto
+Il Pokémon non può subire brutti colpi.
+Rancore
+Se il Pokémon va KO, i PP della mossa che[0x000A]lo ha messo fuori gioco vengono azzerati.
+Anticura
+Il Pokémon non può recuperare PS con mosse,[0x000A]abilità o con lo strumento che ha con sé[0x000A]per cinque turni.
+Identificazione
+Il Pokémon può essere colpito da mosse che[0x000A]in genere non avrebbero effetto e subisce gli[0x000A]attacchi indipendentemente da un eventuale[0x000A]aumento dell’elusione.
+Inibitore
+Il Pokémon non può usare la mossa[0x000A]{0x0107,0x0000} per quattro turni.
+Antifuga
+Il Pokémon non può fuggire o essere sostituito.
+Localizza
+La prossima mossa usata dal Pokémon andrà[0x000A]a segno immancabilmente.
+Divieto
+Impedisce al Pokémon di usare il suo strumento[0x000A]e all’Allenatore di usare strumenti sul Pokémon[0x000A]per cinque turni.
+Sottocarica
+Raddoppia la potenza della mossa di tipo Elettro[0x000A]usata dal Pokémon dopo Sottocarica.
+Gravità
+Per cinque turni, le mosse vanno a segno più[0x000A]facilmente, i Pokémon di tipo Volante o con[0x000A]l’abilità Levitazione sono vulnerabili alle mosse[0x000A]di tipo Terra e le mosse che fanno volare non[0x000A]possono essere utilizzate.
+Nebbia
+Impedisce la diminuzione delle statistiche[0x000A]per cinque turni.
+Salvaguardia
+Protegge dai problemi di stato per cinque turni.
+Levitoroccia
+Danneggia i Pokémon che entrano in campo.
+Accumulo
+La Difesa e la Difesa Speciale del Pokémon[0x000A]aumentano ogni volta che accumula energia.
+Provocazione
+Costringe a usare solo mosse che causano[0x000A]danni.
+Telecinesi
+Per tre turni, il Pokémon sarà colpito[0x000A]immancabilmente da tutte le mosse tranne[0x000A]quelle che mandano KO in un colpo solo.[0x000A]In compenso, il Pokémon non può essere colpito[0x000A]dalle mosse di tipo Terra.
+Magnetascesa
+Il Pokémon non può essere colpito da mosse[0x000A]di tipo Terra per cinque turni.
+Fielepunte
+Avvelena i Pokémon che scendono in campo,[0x000A]eccetto quelli di tipo Volante o con l’abilità[0x000A]Levitazione.
+Fangata
+Dimezza la potenza delle mosse di tipo Elettro[0x000A]per cinque turni.
+Desiderio
+Il Pokémon recupererà metà dei PS totali[0x000A]nel turno successivo all’uso della mossa[0x000A]Desiderio.
+Rete Vischiosa
+La Velocità dei Pokémon che entrano in campo[0x000A]diminuisce.
+Radicamento
+Il Pokémon recupera PS alla fine di ogni turno[0x000A]e non può essere sostituito perché ha messo[0x000A]le radici.
+Maledizione
+Fa perdere PS alla fine di ogni turno.
+Halloween
+Il Pokémon adesso è anche di tipo Spettro.
+Schermoluce
+La potenza degli attacchi speciali subiti viene[0x000A]dimezzata per cinque turni dall’attivazione[0x000A]dell’effetto.
+Riflesso
+La potenza degli attacchi fisici subiti viene[0x000A]dimezzata per cinque turni dall’attivazione[0x000A]dell’effetto.
+Esclusiva
+I nemici di un Pokémon che ha usato Esclusiva[0x000A]non possono usare le mosse conosciute anche[0x000A]da lui.
+Ultimocanto
+I Pokémon che hanno ascoltato Ultimocanto[0x000A]andranno KO dopo 3 turni.
+Punte
+Infligge danni ai Pokémon quando scendono[0x000A]in campo, eccetto quelli di tipo Volante o con[0x000A]l’abilità Levitazione.
+Docciascudo
+Dimezza la potenza delle mosse di tipo Fuoco[0x000A]per cinque turni.
+Destinobbligato
+Chi manda KO questo Pokémon finisce KO.
+Boscomalocchio
+Il Pokémon adesso è anche di tipo Erba.
+Parassiseme
+Il Pokémon perde PS alla fine di ogni turno[0x000A]e li fa recuperare a chi ha usato la mossa.
+Localizza
+La prossima mossa usata sul Pokémon[0x000A]localizzato andrà a segno immancabilmente.
+Imprigionamento
+Il Pokémon è intrappolato e subisce danni[0x000A]a ogni turno.
+Pazienza
+Il Pokémon incassa gli attacchi per due turni,[0x000A]poi contrattacca infliggendo il doppio dei danni[0x000A]ricevuti.
+Oltraggio
+Il Pokémon sfoga la sua ira e attacca per due[0x000A]o tre turni prima di essere lasciato in preda[0x000A]alla confusione.
+Colpo
+Il Pokémon sfoga la sua ira e attacca per due[0x000A]o tre turni prima di essere lasciato in preda[0x000A]alla confusione.
+Petalodanza
+Il Pokémon sfoga la sua ira e attacca per due[0x000A]o tre turni prima di essere lasciato in preda[0x000A]alla confusione.
+Iperavvelenamento
+Il Pokémon è iperavvelenato e la quantità di PS[0x000A]che perde aumenta a ogni turno.
+Attacco futuro
+Il Pokémon subisce danni dopo due turni dal[0x000A]momento in cui è stato colpito dalla mossa.
+Baraonda
+Il Pokémon attacca per tre turni provocando[0x000A]un frastuono che non permette a nessuno[0x000A]di addormentarsi.
+Acquanello
+Il Pokémon è avvolto in un velo d’acqua[0x000A]che gli fa recuperare PS a ogni turno.
+Sganciapesi
+Il peso corporeo del Pokémon diminuisce[0x000A]e la sua Velocità aumenta di molto.
+Abbattimento
+Il Pokémon viene colpito e cade a terra.
+Blocco Fatato
+Nel turno successivo a quello in cui la mossa[0x000A]è stata usata, nessun Pokémon può lasciare[0x000A]il campo di lotta.
+Arcobaleno
+La probabilità che si attivino gli effetti[0x000A]aggiuntivi delle mosse aumenta.
+Palude
+Riduce la Velocità dei Pokémon in campo a 1/4.
+Mare di fuoco
+Infligge danni a ogni turno a tutti i Pokémon[0x000A]nel campo alleato o nel campo nemico[0x000A]eccetto quelli di tipo Fuoco.
+Sole accecante
+La luce solare accecante potenzia le mosse di[0x000A]tipo Fuoco e neutralizza le mosse di tipo Acqua.
+Acquazzone
+L’acquazzone potenzia le mosse di tipo Acqua[0x000A]e neutralizza le mosse di tipo Fuoco.
+Vento misterioso
+Soffia una corrente d’aria misteriosa.[0x000A]Gli attacchi superefficaci contro il tipo Volante[0x000A]vengono indeboliti.
+Campo Psichico
+Per cinque turni i Pokémon a contatto con il[0x000A]terreno di lotta non subiscono danni dalle[0x000A]mosse con priorità alta.[0x000A]La potenza delle mosse di tipo Psico aumenta.
+Colpo Infernale
+Per due turni impedisce di usare mosse[0x000A]basate sul suono.
+Velaurora
+La potenza degli attacchi speciali e fisici[0x000A]subiti viene dimezzata per cinque turni.
+Concentrazione
+L’attacco sferrato nel turno successivo a quello[0x000A]in cui è stata usata Concentrazione causa[0x000A]sempre un brutto colpo.
+{0xBDFF:0x0098}
+{0xBDFF:0x0099}
+{0xBDFF:0x009A}
+{0xBDFF:0x009B}
+{0xBDFF:0x009C}
+{0xBDFF:0x009D}

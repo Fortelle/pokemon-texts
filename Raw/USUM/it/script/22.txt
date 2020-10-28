@@ -1,0 +1,18 @@
+Salve! Questo è il Centro Lotteria ID!{0xBE01}[0x000A]Se il numero del biglietto estratto corrisponde[0x000A]all’ID di uno dei tuoi Pokémon, potrai vincere{0xBE00}[0x000A]premi strabilianti!{0xBE01}[0x000A]Vuoi tentare la fortuna?
+Bene! Ti auguro di pescare un numero fortunato!
+{0xBE02:0x000A}... {0xBE02:0x000A}...
+Ecco qua! Il numero del biglietto è {0x0204,0x0000,0x0000}!{0xBE01}[0x000A]Vediamo se corrisponde almeno in parte[0x000A]all’ID di uno dei tuoi Pokémon.
+Congratulazioni!{0xBE01}[0x000A]L’ID di un membro della tua squadra,[0x000A]{0x0102,0x0001}, contiene almeno{0xBE00}[0x000A]un numero presente nel biglietto estratto!
+Congratulazioni!{0xBE01}[0x000A]L’ID di uno dei Pokémon depositati nel PC,[0x000A]{0x0102,0x0001}, contiene almeno{0xBE00}[0x000A]un numero presente nel biglietto estratto!
+Fantastico! Tutte e cinque le cifre[0x000A]corrispondono! È un evento straordinario!{0xBE01}[0x000A]Una fortuna così grande merita un premio[0x000A]speciale...{0xBE01}[0x000A]Ecco a te una Master Ball!
+Fantastico! Quattro cifre corrispondono![0x000A]Una fortuna straordinaria!{0xBE01}[0x000A]Hai vinto il primo premio: ecco a te[0x000A]una Caramella Rara!
+Bene! Tre cifre corrispondono![0x000A]La fortuna ti ha sorriso!{0xBE01}[0x000A]Ecco a te il secondo premio:[0x000A]un PP-Max!
+Wow! Due cifre corrispondono![0x000A]La fortuna non ti manca, eh?{0xBE01}[0x000A]Hai vinto il terzo premio:[0x000A]un PP-Su!
+Sì! Una cifra corrisponde![0x000A]Beh, non c’è male!{0xBE01}[0x000A]Hai vinto il quarto premio:[0x000A]del buon Latte Mumu!
+Mi spiace...[0x000A]Non hai vinto...
+Torna a trovarci!
+Puoi estrarre un solo biglietto al giorno.[0x000A]Domani potrai tentare di nuovo la fortuna!
+{0xBDFF:0x000E}
+{0x0100,0x0000} ottiene[0x000A]{0x1502,0x0001}{0xFF00,0x0002}{0x0109,0x0001}{0xFF00,0x0000}!
+{0x0100,0x0000} mette {0x1500,0x0001}{0x0109,0x0001}[0x000A]nella {0xFF00,0x0002}tasca{0xFF00,0x0000} {0xFF00,0x0002}{0x0112,0x0002}{0xFF00,0x0000}!
+Prima dell’estrazione, la partita verrà salvata.[0x000A]Vuoi procedere?

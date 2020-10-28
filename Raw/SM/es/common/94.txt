@@ -1,0 +1,20 @@
+Continuar
+{0x0100,0x0000}
+{0x0105,0x0000}
+Pokédex:
+{0x0202,0x0000}
+
+Tiempo jugado:
+{0x0202,0x0000}
+:
+{0x0201,0x0000}
+Regalo Misterioso
+Torneo en Directo
+ダミー
+Se ha borrado la partida.
+¿Quieres borrar todos los datos guardados?
+Una vez borrados, los datos no se pueden[0x000A]recuperar.{0xBE01}[0x000A]¿Seguro que quieres borrarlos?
+Sí
+No
+Has recibido un regalo.[0x000A][0x000A]Para recogerlo, inicia la partida y habla con el[0x000A]repartidor de cualquier Centro Pokémon.
+Reinicializando los datos de guardado...[0x000A][0x000A]No apagues la consola.

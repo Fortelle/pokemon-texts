@@ -1,0 +1,11 @@
+msg_railway_01=你要乘列车去哪一站？
+msg_railway_select_01=木杆镇
+msg_railway_select_02=木杆镇
+msg_railway_select_03=旷野地带
+msg_railway_select_04=机擎市
+msg_railway_select_05=水舟镇
+msg_railway_select_06=拳关市
+msg_railway_select_07=白丘
+msg_railway_select_08=宫门市
+msg_railway_select_09=取消
+msg_railway_stop_01=因实施车辆检查，[0x000A]目前列车晚点。

@@ -1,0 +1,17 @@
+msg_town006_kanban_01=Ciudad Carmín[0x000A]Sus tonos rojizos evocan la puesta de sol.
+msg_town006_kanban_02=¡Aviso de la Policía de Ciudad Carmín![0x000A]La Ruta 12 podría estar bloqueada por un{0xBE00}[0x000A]Pokémon que se echa a dormir en mitad del{0xBE00}[0x000A]camino.{0xBE01}[0x000A]Para llegar a Pueblo Lavanda se puede dar un[0x000A]rodeo a través del Túnel Roca.
+msg_town006_kanban_03=Club de Fans de Pokémon[0x000A]¡Todos los fans de Pokémon son bienvenidos!
+msg_town006_kanban_04=Gimnasio Pokémon de Ciudad Carmín[0x000A]Líder: Teniente Surge{0xBE00}[0x000A]Un tipo duro fulminante.
+msg_town006_kanban_05=Puerto de Ciudad Carmín
+msg_town006_miniskirt_01=¡Después de hacer deporte, estoy tan pegajosa[0x000A]por el sudor que casi parezco un Grimer!{0xBE01}[0x000A]Por cierto, ¿sabías que los Grimer nacen del[0x000A]lodo residual que se acumula en el fondo del{0xBE00}[0x000A]mar?
+msg_town006_oldm_01_01=¿Has visto el S. S. Anne anclado en el puerto?
+msg_town006_oldm_01_02=¡El S. S. Anne ha zarpado! Supongo que volverá[0x000A]a Ciudad Carmín dentro de un año o así.
+msg_town006_oldm_02_01=Este terreno que ves aquí me pertenece.[0x000A]¡Toda la parcela, de esquina a esquina!{0xBE01}[0x000A]Pienso construir un edificio y ya tengo a mi[0x000A]Pokémon usando Terratemblor para allanar el{0xBE00}[0x000A]terreno y poner los cimientos.
+msg_town006_poke_01_01={0xFF00,0x0009}Machop:{0xFF00,0x0000} ¡Chop! ¡Chop!
+msg_town006_poke_01_02=¡Un Machop está apisonando el terreno!
+msg_town006_angler_01_01=Si eres nuev{0x1100,0x00FF,0x0101}oa en esto de entrenar Pokémon, no[0x000A]dudes en pasarte por mi casa, justo enfrente.{0xBE01}[0x000A]Mientras estoy fuera la alquilo como punto de[0x000A]encuentro de Entrenadores. La idea es fomentar{0xBE00}[0x000A]el intercambio de información entre ellos.
+msg_town006_childm_01_01=Algunos Pokémon prefieren llevar a cuestas a su[0x000A]Entrenador en lugar de caminar a su lado.{0xBE01}[0x000A]Imagínate hacer eso con un Pokémon capaz de[0x000A]surcar los cielos o las aguas. ¡Sería genial!
+msg_town006_poke_02_01={0xFF00,0x0009}Magikarp:{0xFF00,0x0000} ¡Kaaarp!
+msg_town006_woman_01={0xBDFF:0x000E}
+msg_town006_gentleman_01=Esto de aquí no es para reposar las piernas, sino[0x000A]para amarrar los barcos.
+msg_town006_poke_02={0xBDFF:0x0010}

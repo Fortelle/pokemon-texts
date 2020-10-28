@@ -1,0 +1,6 @@
+main_event_1530_rival_01=¡Ey, {0x0100,0x0000}!{0x0114,0x0005}
+main_event_1530_rival_02=¡Nos vemos las caras en la final!{0x0114,0x0005}
+main_event_1530_rival_03=¡Después de verte combatir, mi equipo y yo[0x000A]estamos más motivados que nunca!{0xBE00}[0x000A]¡Vamos a ganar sí o sí!{0x0114,0x0005}
+main_event_1530_staff_01=Perdona...
+main_event_1530_staff_02=Sé que no has tenido mucho tiempo para[0x000A]descansar, pero el combate ha terminado antes{0xBE00}[0x000A]de lo previsto...
+main_event_1530_staff_03=¡El Aspirante Paul ha cosechado una victoria sin[0x000A]paliativos! En cuanto estés preparad{0x1100,0x00FF,0x0101}oa, puedes{0xBE00}[0x000A]salir a la cancha.

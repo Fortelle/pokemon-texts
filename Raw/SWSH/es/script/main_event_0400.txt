@@ -1,0 +1,5 @@
+main_event_0400_telop_01=Ciudad Pistón
+main_event_0400_poke1_01=¡Yam, yam!
+main_event_0400_assistant_03=¡Holaaa!{0x0114,0x000B}
+main_event_0400_assistant_01=Cruzar el Área Silvestre tiene mucho mérito,[0x000A]enhorabuena.{0xBE01}[0x000A]Pero seguro que tú y tu{0x1101,0x00FD,0x0100}s Pokémon estáis[0x000A]agotados. Será mejor que nos pasemos por el{0xBE00}[0x000A]Centro Pokémon.{0x0114,0x000B}
+main_event_0400_assistant_02=Además, hay algo que quiero enseñarte. Siendo[0x000A]Entrenador{0x1100,0x00FF,0x0100}a, ¡te va a venir de perlas!{0x0114,0x000B}

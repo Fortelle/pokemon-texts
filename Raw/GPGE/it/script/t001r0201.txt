@@ -1,0 +1,7 @@
+msg_t001r0201_sister_01=Ah! Ciao, {0x0100,0x0000}!{0xBE01}[0x000A]Non è venuto a prenderti mio fratello[0x000A]{0x0100,0x0001}...? Forse non vi siete incrociati.{0xBE01}[0x000A]Diceva che dovevate andare insieme[0x000A]al laboratorio del Prof. Oak...
+msg_t001r0101_sister_02=Ah! Ciao, {0x0100,0x0000}!{0xBE01}[0x000A]Non è venuto a prenderti mio fratello[0x000A]{0x0100,0x0001}...? Forse non vi siete incrociati.{0xBE01}[0x000A]Diceva che dovevate andare insieme al laboratorio[0x000A]del Prof. Oak...
+msg_t001r0101_sister_03=Ma che bello! Sia tu che {0x0100,0x0001} avete[0x000A]ricevuto un Pokémon!
+msg_t001r0101_sister_04=Ma che bello! Sia tu che {0x0100,0x0001} avete[0x000A]ricevuto un Pokémon!
+msg_t001r0201_map_02={0xBDFF:0x0004}
+msg_t001r0201_map_01=C’è una rivista intitolata “Pokérotocalco”.{0xBE01}[0x000A]Più ti prendi cura dei tuoi Pokémon, più loro[0x000A]ti vorranno bene!
+msg_t001r0201_photo_01=Una foto di {0x0100,0x0001}.

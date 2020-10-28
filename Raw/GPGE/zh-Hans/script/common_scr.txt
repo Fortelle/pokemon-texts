@@ -1,0 +1,11 @@
+msg_common_scr_yes=是
+msg_common_scr_no=否
+msg_common_money=[0xE300]{0x0206,0x0008,0x002C}
+msg_common_money_02=零花钱
+msg_common_report_01=要保存目前为止的[0x000A]冒险记录吗？
+msg_common_report_02=正在写入记录……[0x000A]请勿切断电源。
+msg_common_report_03={0x0100,0x0000}[0x000A]完好地写下了记录。
+msg_common_report_04={0xBDFF:0x0007}
+msg_common_report_05=保存记录失败。
+msg_common_getmoney_01={0x0100,0x0000}[0x000A]得到了[0xE300]{0x0207,0x0002,0x0000}！
+msg_common_pokeget_01={0x0100,0x0000}[0x000A]得到了{0x0101,0x0001}！

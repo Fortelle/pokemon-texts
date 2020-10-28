@@ -1,0 +1,269 @@
+
+
+Period (UTC)
+It’s happening now!
+It has ended.
+{0x0201,0x0001}/{0x0201,0x0002}/20{0x0201,0x0000} {0x0201,0x0003}:{0x0201,0x0004} to {0x0201,0x0006}/{0x0201,0x0007}/20{0x0201,0x0005} {0x0201,0x0008}:{0x0201,0x0009}
+Goal
+{0x0209,0x0000,0x002C}
+As of {0x0201,0x0001}/{0x0201,0x0002}/20{0x0201,0x0000} {0x0201,0x0003}:{0x0201,0x0004}
+{0x0100,0x0000}’s Current Records
+{0x0100,0x0000}’s Records
+{0x0203,0x0000,0x002C}
+Reward
+{0x0204,0x0000,0x002C} to {0x0204,0x0001,0x002C} FC
+{0x0205,0x0000,0x002C} FC
+{0xFF00,0x0002}Not participating{0xFF00,0x0000}
+NEW RECORD!
+{0xFF00,0x0002}Received on {0x0201,0x0001}/{0x0201,0x0002}/20{0x0201,0x0000} {0x0201,0x0003}:{0x0201,0x0004}.{0xFF00,0x0000}
+Final Result
+{0xFF00,0x0002}Get your reward from the receptionist.{0xFF00,0x0000}
+Participate
+Checking the information...[0x000A]Please wait.
+Updating the information...[0x000A]Please wait.
+Would you like to participate in this global[0x000A]mission?
+Information about the global mission[0x000A]has been updated.{0xBE01}
+You registered for the global mission.{0xBE01}[0x000A]If you achieve a new record for the mission,[0x000A]the record will be reflected when you speak to{0xBE00}[0x000A]the receptionist in Festival Plaza and select{0xBE00}[0x000A]“Check” or use Game Sync.{0xBE01}
+No global missions are currently happening.{0xBE01}
+A reward for the global mission has been[0x000A]delivered.{0xBE01}[0x000A]Please get it from the receptionist.{0xBE01}
+Global missions cannot be updated because[0x000A]the server is busy.{0xBE01}[0x000A]Please wait and come again later.{0xBE01}
+You cannot register for participating in a[0x000A]global mission because the server is busy.{0xBE01}[0x000A]Please wait and try again later.{0xBE01}
+{0x01B5,0x0000}
+Time Remaining:
+Total Score:
+Individual Score:
+Participants:
+{0x0201,0x0000}
+:
+{0x0204,0x0000,0x002C}
+{0x0202,0x0000}
+Quit
+Greet experienced Trainers!
+Give a message to beginners!
+Find people in love!
+Find lonely people!
+Survey about male friends!
+Survey about female friends!
+Find big brothers and sisters!
+Find middle children!
+Find youngest children!
+Find only children!
+Personality matters most!
+Looks matter most!
+Secrets are something to keep!
+Secrets are something to leak!
+Chill out in your free time?
+Active in my free time!
+Find fans!
+Big costume contest!
+Send people to lottery shops!
+Send people to bouncy houses!
+Send people to haunted houses!
+Send people to food stalls!
+Send people to goody shops!
+Send people to fortune-teller tents!
+Send people to dye houses!
+{0xBDFF:0x0041}
+{0xBDFF:0x0042}
+Japanese lesson!
+English lesson!
+French lesson!
+Italian lesson!
+German lesson!
+Spanish lesson!
+Korean lesson!
+Traditional and simplified Chinese lesson!
+Cross-cultural communications!
+See through people’s disguises!
+True selves are the best!
+{0xBDFF:0x004E}
+{0xBDFF:0x004F}
+{0xBDFF:0x0050}
+{0xBDFF:0x0051}
+{0xBDFF:0x0052}
+Show off muscles!
+{0xBDFF:0x0054}
+Break boulders quickly!
+{0xBDFF:0x0056}
+Research red!
+Research green!
+Research orange!
+Research purple!
+Research yellow!
+Research blue!
+Research navy blue!
+Research pink!
+Type matchup tests!
+{0xBDFF:0x0060}
+Inverse type matchup tests!
+{0xBDFF:0x0062}
+Find Normal-type enthusiasts! Part 1
+Find Fire-type enthusiasts! Part 1
+Find Water-type enthusiasts! Part 1
+Find Electric-type enthusiasts! Part 1
+Find Grass-type enthusiasts! Part 1
+Find Ice-type enthusiasts! Part 1
+Find Fighting-type enthusiasts! Part 1
+Find Poison-type enthusiasts! Part 1
+Find Ground-type enthusiasts! Part 1
+Find Flying-type enthusiasts! Part 1
+Find Psychic-type enthusiasts! Part 1
+Find Bug-type enthusiasts! Part 1
+Find Rock-type enthusiasts! Part 1
+Find Ghost-type enthusiasts! Part 1
+Find Dragon-type enthusiasts! Part 1
+Find Dark-type enthusiasts! Part 1
+Find Steel-type enthusiasts! Part 1
+Find Fairy-type enthusiasts! Part 1
+Find Normal-type enthusiasts! Part 2
+Find Fire-type enthusiasts! Part 2
+Find Water-type enthusiasts! Part 2
+Find Electric-type enthusiasts! Part 2
+Find Grass-type enthusiasts! Part 2
+Find Ice-type enthusiasts! Part 2
+Find Fighting-type enthusiasts! Part 2
+Find Poison-type enthusiasts! Part 2
+Find Ground-type enthusiasts! Part 2
+Find Flying-type enthusiasts! Part 2
+Find Psychic-type enthusiasts! Part 2
+Find Bug-type enthusiasts! Part 2
+Find Rock-type enthusiasts! Part 2
+Find Ghost-type enthusiasts! Part 2
+Find Dragon-type enthusiasts! Part 2
+Find Dark-type enthusiasts! Part 2
+Find Steel-type enthusiasts! Part 2
+Find Fairy-type enthusiasts! Part 2
+Find people who have played Pokémon for[0x000A]5 years or more, and greet them very politely![0x000A][0x000A]Strategy tips:[0x000A]･ I’m an experienced Trainer.[0x000A]･ Get to know your VIPs very well.
+Find people who have played Pokémon 5 years[0x000A]or less, and give a message to them![0x000A][0x000A]Strategy tips:[0x000A]･ I’m a beginner Trainer.[0x000A]･ Get to know your VIPs very well.
+Speak to people who have someone they love![0x000A][0x000A]Strategy tips:[0x000A]･ I have someone I love![0x000A]･ Get to know your VIPs very well.
+Find people who don’t have anyone they love,[0x000A]and speak to them![0x000A][0x000A]Strategy tips:[0x000A]･ I don’t have anyone I love.[0x000A]･ Get to know your VIPs very well.
+Find people who have many male friends, and[0x000A]have a lively conversation with them![0x000A][0x000A]Strategy tips:[0x000A]･ I have a lot of male friends.[0x000A]･ Get to know your VIPs very well.
+Find people who have many female friends, and[0x000A]have a lively conversation with them![0x000A][0x000A]Strategy tips:[0x000A]･ I have a lot of female friends.[0x000A]･ Get to know your VIPs very well.
+Find people who are the oldest among their[0x000A]siblings, and speak to them![0x000A][0x000A]Strategy tips:[0x000A]･ I’m the oldest among my siblings.[0x000A]･ Get to know your VIPs very well.
+Find people who are middle children, and speak[0x000A]to them![0x000A][0x000A]Strategy tips:[0x000A]･ I’m in the middle among my siblings.[0x000A]･ Get to know your VIPs very well.
+Find people who are the youngest among their[0x000A]siblings, and speak to them![0x000A][0x000A]Strategy tips:[0x000A]･ I’m the youngest among my siblings.[0x000A]･ Get to know your VIPs very well.
+Find only children, and speak to them![0x000A][0x000A]Strategy tips:[0x000A]･ I’m the only child.[0x000A]･ Get to know your VIPs very well.
+Find people who value personality over looks[0x000A]in a person![0x000A][0x000A]Strategy tips:[0x000A]･ Personality matters.[0x000A]･ Get to know your VIPs very well.
+Find people who value looks over personality[0x000A]in a person![0x000A][0x000A]Strategy tips:[0x000A]･ Looks matter.[0x000A]･ Get to know your VIPs very well.
+Find people who are tight-lipped and can keep[0x000A]secrets![0x000A][0x000A]Strategy tips:[0x000A]･ I will keep secrets at all costs.[0x000A]･ Get to know your VIPs very well.
+Find people who have a big mouth and can’t[0x000A]keep secrets![0x000A][0x000A]Strategy tips:[0x000A]･ I will tell secrets to people.[0x000A]･ Get to know your VIPs very well.
+Research how many people like to spend[0x000A]their free time indoors.[0x000A][0x000A]Strategy tips:[0x000A]･ I like to stay at home when I’m free.[0x000A]･ Get to know your VIPs very well.
+Research how many people like to spend[0x000A]their free time out of the house.[0x000A][0x000A]Strategy tips:[0x000A]･ I like to go out when I’m free.[0x000A]･ Get to know your VIPs very well.
+Among the crowds of Festival Plaza, your fans[0x000A]are dressed like you. Find them!
+A costume contest will be held by your fans![0x000A]Some fans are not quite right, so find them,[0x000A]and give them advice!
+Attract customers to lottery shops![0x000A][0x000A]Satisfy customers to succeed!
+Attract customers to bouncy houses![0x000A][0x000A]Satisfy customers to succeed!
+Attract customers to haunted houses![0x000A][0x000A]Satisfy customers to succeed!
+Attract customers to food stalls![0x000A][0x000A]Satisfy customers to succeed!
+Attract customers to goody shops![0x000A][0x000A]Satisfy customers to succeed!
+Attract customers to fortune-teller tents![0x000A][0x000A]Satisfy customers to succeed!
+Attract customers to dye houses![0x000A][0x000A]Satisfy customers to succeed!
+{0xBDFF:0x00A0}
+{0xBDFF:0x00A1}
+Greet people who are playing the game in[0x000A]Japanese![0x000A][0x000A]Strategy tips:[0x000A]･ Konnichiwa![0x000A]･ Arigatō![0x000A]･ Sayōnara!
+Greet people who are playing the game in[0x000A]English![0x000A][0x000A]Strategy tips:[0x000A]･ Hello![0x000A]･ Thank you![0x000A]･ Bye!
+Greet people who are playing the game[0x000A]in French![0x000A][0x000A]Strategy tips:[0x000A]･ Bonjour ![0x000A]･ Merci ![0x000A]･ Au revoir !
+Greet people who are playing the game in[0x000A]Italian![0x000A][0x000A]Strategy tips:[0x000A]･ Buongiorno![0x000A]･ Grazie![0x000A]･ Ciao!
+Greet people who are playing the game[0x000A]in German![0x000A][0x000A]Strategy tips:[0x000A]･ Guten Tag![0x000A]･ Danke![0x000A]･ Tschüss!
+Greet people who are playing the game in[0x000A]Spanish![0x000A][0x000A]Strategy tips:[0x000A]･ ¡Hola![0x000A]･ ¡Gracias![0x000A]･ ¡Adiós!
+Greet people who are playing the game[0x000A]in Korean![0x000A][0x000A]Strategy tips:[0x000A]･ Annyeonghaseyo![0x000A]･ Gomawo![0x000A]･ Annyeonghi gaseyo!
+Greet people who are playing the game in[0x000A]traditional or simplified Chinese![0x000A][0x000A]Strategy tips:[0x000A]･ Nǐhǎo![0x000A]･ Xièxie![0x000A]･ Zàijiàn!
+Find people who use different languages than[0x000A]yours![0x000A][0x000A]Strategy tips:[0x000A]･ Greetings in other languages[0x000A]･ Appreciative messages in other languages
+Find people who are in disguise wearing[0x000A]a hat and glasses.
+Find people who don’t disguise themselves by[0x000A]wearing a hat and glasses.
+{0xBDFF:0x00AD}
+{0xBDFF:0x00AE}
+{0xBDFF:0x00AF}
+{0xBDFF:0x00B0}
+{0xBDFF:0x00B1}
+Show off how awesome you and Machamp are![0x000A][0x000A]Speak to people, and if enough people say[0x000A]you’re the best pair, you’ll clear the mission![0x000A][0x000A]Strategy tips:[0x000A]･ People who sound happy.[0x000A]
+Show off how awesome you and Machamp are![0x000A][0x000A]Speak to people, and if enough people say[0x000A]you’re the best pair, you’ll clear the mission![0x000A][0x000A]Strategy tips:[0x000A]･ People who sound happy.[0x000A]
+Ride Tauros and break boulders that appear in[0x000A]Festival Plaza!
+Ride Tauros and break boulders that appear in[0x000A]Festival Plaza!
+Find people who have every piece of their outfit[0x000A]dyed in red.[0x000A][0x000A]Strategy tips:[0x000A]･ Pastel Red[0x000A]･ Dark Red[0x000A]･ Bright Red
+Find people who have every piece of their outfit[0x000A]dyed in green.[0x000A][0x000A]Strategy tips:[0x000A]･ Pastel Green[0x000A]･ Dark Green[0x000A]･ Bright Green
+Find people who have every piece of their outfit[0x000A]dyed in orange.[0x000A][0x000A]Strategy tips:[0x000A]･ Pastel Orange[0x000A]･ Dark Orange[0x000A]･ Bright Orange
+Find people who have every piece of their outfit[0x000A]dyed in purple.[0x000A][0x000A]Strategy tips:[0x000A]･ Pastel Purple[0x000A]･ Dark Purple[0x000A]･ Bright Purple
+Find people who have every piece of their outfit[0x000A]dyed in yellow.[0x000A][0x000A]Strategy tips:[0x000A]･ Pastel Yellow[0x000A]･ Dark Yellow[0x000A]･ Bright Yellow
+Find people who have every piece of their outfit[0x000A]dyed in blue.[0x000A][0x000A]Strategy tips:[0x000A]･ Pastel Blue[0x000A]･ Dark Blue[0x000A]･ Bright Blue
+Find people who have every piece of their outfit[0x000A]dyed in a shade of navy blue.[0x000A][0x000A]Strategy tips:[0x000A]･ Pastel Navy Blue[0x000A]･ Dark Navy Blue[0x000A]･ Bright Navy Blue
+Find people who have every piece of their outfit[0x000A]dyed in pink.[0x000A][0x000A]Strategy tips:[0x000A]･ Pastel Pink[0x000A]･ Dark Pink[0x000A]･ Bright Pink
+Have Pokémon type matchup battles![0x000A]Select a type that’s super effective against the[0x000A]Pokémon that people mention!
+{0xBDFF:0x00BF}
+Have Pokémon type matchup battles![0x000A]Select a type that’s super effective against the[0x000A]Pokémon that people mention![0x000A]But be careful! Type matchups are inversed.
+{0xBDFF:0x00C1}
+Speak to people who like Normal-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon commonly[0x000A]seen in Alola.
+Speak to people who like Fire-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon commonly[0x000A]seen in Alola.
+Speak to people who like Water-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon commonly[0x000A]seen in Alola.
+Speak to people who like Electric-type[0x000A]Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon commonly[0x000A]seen in Alola.
+Speak to people who like Grass-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon commonly[0x000A]seen in Alola.
+Speak to people who like Ice-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon commonly[0x000A]seen in Alola.
+Speak to people who like Fighting-type[0x000A]Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon commonly[0x000A]seen in Alola.
+Speak to people who like Poison-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon commonly[0x000A]seen in Alola.
+Speak to people who like Ground-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon commonly[0x000A]seen in Alola.
+Speak to people who like Flying-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon commonly[0x000A]seen in Alola.
+Speak to people who like Psychic-type[0x000A]Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon commonly[0x000A]seen in Alola.
+Speak to people who like Bug-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon commonly[0x000A]seen in Alola.
+Speak to people who like Rock-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon commonly[0x000A]seen in Alola.
+Speak to people who like Ghost-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon commonly[0x000A]seen in Alola.
+Speak to people who like Dragon-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon commonly[0x000A]seen in Alola.
+Speak to people who like Dark-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon commonly[0x000A]seen in Alola.
+Speak to people who like Steel-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon commonly[0x000A]seen in Alola.
+Speak to people who like Fairy-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon commonly[0x000A]seen in Alola.
+Speak to people who like Normal-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon not[0x000A]seen in Alola.
+Speak to people who like Fire-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon not[0x000A]seen in Alola.
+Speak to people who like Water-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon not[0x000A]seen in Alola.
+Speak to people who like Electric-type[0x000A]Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon not[0x000A]seen in Alola.
+Speak to people who like Grass-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon not[0x000A]seen in Alola.
+Speak to people who like Ice-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon not[0x000A]seen in Alola.
+Speak to people who like Fighting-type[0x000A]Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon not[0x000A]seen in Alola.
+Speak to people who like Poison-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon not[0x000A]seen in Alola.
+Speak to people who like Ground-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon not[0x000A]seen in Alola.
+Speak to people who like Flying-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon not[0x000A]seen in Alola.
+Speak to people who like Psychic-type[0x000A]Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon not[0x000A]seen in Alola.
+Speak to people who like Bug-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon not[0x000A]seen in Alola.
+Speak to people who like Rock-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon not[0x000A]seen in Alola.
+Speak to people who like Ghost-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon not[0x000A]seen in Alola.
+Speak to people who like Dragon-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon not[0x000A]seen in Alola.
+Speak to people who like Dark-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon not[0x000A]seen in Alola.
+Speak to people who like Steel-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon not[0x000A]seen in Alola.
+Speak to people who like Fairy-type Pokémon![0x000A][0x000A]Strategy tips:[0x000A]They will be talking about Pokémon not[0x000A]seen in Alola.
+Catch a lot of Pokémon!
+Trade Pokémon at the GTS!
+Hatch a lot of Eggs!
+Harvest Poké Beans!
+Get high scores with your Poké Finder!
+Find Pokémon using Island Scan!
+Catch Crabrawler!
+Defend your Champion title!
+Fish Pokémon at rare spots!
+Win Battle Royals!
+Try your luck!
+Get BP at the Battle Tree!
+Catch as many wild Pokémon as possible during the[0x000A]mission period!
+Trade as many Pokémon as possible at the GTS during[0x000A]the mission period!
+Hatch as many Pokémon Eggs as possible during the[0x000A]mission period!
+Harvest as many Poké Beans as possible on Poké Pelago[0x000A]during the mission period!
+Take as many photos that exceed 10,000 points as[0x000A]possible with your Poké Finder!
+Find as many Pokémon as possible using Island Scan!
+Catch as many Crabrawler as possible! They’re hiding[0x000A]behind Berries!
+Defend your Pokémon League Champion title as many times[0x000A]as possible during the mission period!
+Find fishing spots with bubbles coming out, and fish as[0x000A]many Pokémon or items as possible during the mission[0x000A]period!
+Win as many Master Rank Battle Royals as possible during[0x000A]the mission period!
+Win as many lotos as possible at Festival Plaza and tourist[0x000A]bureaus during the mission period!
+Earn as many Battle Points as possible at the Battle Tree[0x000A]during the mission period!
+Yes
+No
+{0x0201,0x0000} : {0x0201,0x0001}
+Calculating the scores!
+You can’t participate in this global mission[0x000A]because it ended.{0xBE01}
+{0xBDFF:0x0103}
+{0xBDFF:0x0104}
+{0xBDFF:0x0105}
+{0xBDFF:0x0106}
+{0xBDFF:0x0107}
+{0xBDFF:0x0108}
+{0xBDFF:0x0109}
+{0xBDFF:0x010A}
+{0xBDFF:0x010B}
+{0xBDFF:0x010C}

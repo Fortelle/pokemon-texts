@@ -1,0 +1,15 @@
+msg_main0810_musashi_01={0xFF00,0x0009}Jessie:{0xFF00,0x0000} ¡Alto ahí! ¡Deja paso al Team Rocket!
+msg_main0810_kojiro_01={0xFF00,0x0009}James: {0xFF00,0x0000}Ese fantasma gigantesco era lo único que[0x000A]nos impedía llegar a lo más alto de esta torre.
+msg_main0810_musashi_02={0xFF00,0x0009}Jessie:{0xFF00,0x0000} Eh, viejales. Tú eres ese tal Fuji, ¿me[0x000A]equivoco?
+msg_main0810_musashi_03=Pues vamos a necesitar que reanudes tus[0x000A]investigacioncitas sobre Pokémon.{0xBE01}[0x000A]Oye, que trabajar para el Team Rocket es todo[0x000A]un honor. ¡Ya podrías mostrar algo de gratitud!
+msg_main0810_fuji_01={0xFF00,0x0009}Sr. Fuji:{0xFF00,0x0000} ...
+msg_main0810_kojiro_02={0xFF00,0x0009}James:{0xFF00,0x0000} ¡El viejales está pasando de nuestra cara!{0xBE01}[0x000A]No nos obligues a ponernos serios, porque lo[0x000A]haremos. No volveremos a defraudar al jefe.
+msg_main0810_musashi_04={0xFF00,0x0009}Jessie:{0xFF00,0x0000} ¡No molestes! Bastante tenemos con el[0x000A]abuelo poco cooperativo este.
+msg_main0810_kojiro_03={0xFF00,0x0009}James:{0xFF00,0x0000} Estamos con ganas de tocar las narices,[0x000A]¿eh? Muy bien, ¡tú te lo has buscado!
+msg_main0810_dummy_01={0xBDFF:0x0008}
+msg_main0810_dummy_02={0xBDFF:0x0009}
+msg_main0810_musashi_05={0xFF00,0x0009}Jessie:{0xFF00,0x0000} ¿Otra vez nos has vencido?[0x000A]¡Pero qué hartita me tienes!
+msg_main0810_kojiro_05={0xFF00,0x0009}James:{0xFF00,0x0000} ¡Al traste nuestro plan magistral de[0x000A]secuestrar al viejales este!{0xBE00}[0x000A]El jefe nos va a echar una buena...
+msg_main0810_musashi_06={0xFF00,0x0009}Jessie:{0xFF00,0x0000} ¡Será mejor que vayamos a {0xFF00,0x0006}Ciudad{0xFF00,0x0000}[0x000A]{0xFF00,0x0006}Azafrán{0xFF00,0x0000} a ayudar a los demás a {0xFF00,0x0006}infiltrarse en{0xFF00,0x0000}{0xBE00}[0x000A]{0xFF00,0x0006}Silph S. A.{0xFF00,0x0000}!{0xBE01}[0x000A]A ver si así podemos tener al jefe contento...
+msg_main0810_kojiro_04={0xFF00,0x0009}Team Rocket:{0xFF00,0x0000} ¡El Team Rocket despega de[0x000A]nuevo!
+msg_main0810_musashi_back={0xFF00,0x0009}Jessie:{0xFF00,0x0000} ¡No puedes luchar con un solo Pokémon!{0xBE01}[0x000A]Vuelve cuando tengas al menos dos y te[0x000A]daremos una buena tunda.

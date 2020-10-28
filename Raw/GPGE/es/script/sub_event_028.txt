@@ -1,0 +1,10 @@
+msg_sub028_sys_01=Es una máquina expendedora.[0x000A]A ver qué bebidas tiene...
+msg_sub028_select_01=Agua Fresca {0xBD03,0x0000}{0x0202,0x0001} [0xE300]
+msg_sub028_select_02=Refresco {0xBD03,0x0000}{0x0202,0x0001} [0xE300]
+msg_sub028_select_03=Limonada {0xBD03,0x0000}{0x0202,0x0001} [0xE300]
+msg_sub028_select_04=Cancelar
+msg_sub028_sys_02=¡Vaya, no tienes suficiente dinero!
+msg_sub028_sys_03=Ha salido {0x1702,0x0004}{0x010A,0x0004}.
+msg_sub028_sys_04=¡No te cabe nada más en la Bolsa!
+msg_sub028_sys_05=No tienes sed.
+msg_sub028_sys_06=¿Quieres comprar algo más?

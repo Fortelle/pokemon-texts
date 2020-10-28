@@ -1,0 +1,81 @@
+Yes
+No
+Island Scan
+QR Code Scan
+{0x0101,0x0000}
+{0x0104,0x0000}
+Height
+Weight
+Location of a trace of this Pokémon
+Melemele Island
+Akala Island
+Ula’ula Island
+Poni Island
+{0x0105,0x0000}
+Time Remaining
+{0x0201,0x0000}:{0x0201,0x0001}
+Would you like to read the manual for the[0x000A]QR Scanner?
+Starting up the outer camera(s)...
+Please line up a QR Code within the square[0x000A]while pressing the R Button.
+The energy for Island Scan ran out.{0xBE01}
+Searching for a QR Code...
+Scanning failed.[0x000A]Please try again.
+Analyzing the QR Code...
+There may be a problem with the camera(s) of[0x000A]the system.{0xBE01}[0x000A]The problem may be solved if you turn off the[0x000A]power to your system and turn it on again.{0xBE01}
+The QR Code analysis has been interrupted.{0xBE01}
+It’s information about a Pokémon that lives[0x000A]in Alola!{0xBE01}[0x000A]Your Pokédex information has been updated!{0xBE01}
+It’s information about a Pokémon that lives in[0x000A]the Alola region!{0xBE01}
+It’s information about a Pokémon that doesn’t[0x000A]live in Alola.{0xBE01}
+This QR Code cannot be scanned.{0xBE01}
+This QR Code cannot be scanned with[0x000A]this system.{0xBE01}
+This QR Code cannot be scanned with[0x000A]Pokémon Sun and Pokémon Moon.{0xBE01}[0x000A]Please try with another Pokémon game.{0xBE01}
+You’ve collected {0x0201,0x0000} points!{0xBE01}
+You’ve collected {0x0202,0x0000} points in total.{0xBE01}
+{0xBDFF:0x0021}
+You’ve collected 100 points![0x000A]You can use Island Scan.{0xBE01}
+You can’t scan QR Code patterns because you[0x000A]currently don’t have any scans remaining.
+A Special QR Code has been scanned.{0xBE01}
+This QR Code cannot be scanned until you[0x000A]become a Champion.{0xBE01}
+This QR Code has already been scanned![0x000A]Scan other QR Code patterns to collect points!{0xBE01}
+You have 100 points.[0x000A]You can use Island Scan!
+The entire {0x0105,0x0000} is[0x000A]being scanned!
+You can’t use Island Scan because you don’t[0x000A]have enough points.{0xBE01}[0x000A]Scan QR Code patterns to collect points!{0xBE01}
+{0xBDFF:0x002A}
+Search for this silhouetted Pokémon in the[0x000A]location where you picked up a trace of it!
+You picked up a trace of a rare Pokémon!{0xBE01}
+There seem to be no rare Pokémon around here.{0xBE01}
+Use this QR Scanner to scan QR Code patterns,[0x000A]and you can get information about Pokémon![0x000A][0x000A]You get one QR Code scan every two hours[0x000A]and can save up to 10 scans.
+You can collect points by scanning[0x000A]QR Code patterns.[0x000A][0x000A]Once you collect 100 points, you can use[0x000A]Island Scan!
+Using Island Scan, you can search each island[0x000A]of the Alola region and find rare Pokémon![0x000A][0x000A]When you pick up a trace of a Pokémon, go to[0x000A]the location immediately to catch it!
+That is not all![0x000A][0x000A]Your Pokédex has QR Code patterns for[0x000A]Pokémon you’ve caught.[0x000A][0x000A]Scan QR Code patterns on your[0x000A]friends’ Pokédexes!
+{0xBDFF:0x0032}
+{0xBDFF:0x0033}
+Starting up the outer camera(s)...
+Please line up a QR Code within the square[0x000A]while pressing the R Button.
+Searching for a QR Code...
+Scanning the data...
+This QR Code can’t be scanned because[0x000A]it is corrupted.{0xBE01}
+The data has been scanned.{0xBE01}
+This QR Code is a Friendly Competition[0x000A]QR Code.{0xBE01}
+This QR Code is a Live Competition QR Code.{0xBE01}
+This QR Code is a Battle Team QR Code.{0xBE01}
+This QR Code is information about a Pokémon.{0xBE01}
+Please scan a Battle Team QR Code.{0xBE01}
+Please scan a Friendly Competition QR Code.{0xBE01}
+Please scan a Live Competition QR Code.{0xBE01}
+The QR Code cannot be scanned because the[0x000A]Game Sync ID is different.{0xBE01}
+The data failed to be scanned.{0xBE01}
+It cannot be scanned with this system.{0xBE01}
+This QR Code can’t be analyzed with[0x000A]Pokémon Sun and Pokémon Moon.{0xBE01}[0x000A]Please try it with another Pokémon game.{0xBE01}
+{0x0202,0x0000} Pts.
+You have 100 points.[0x000A]You can use Island Scan!{0xBE01}
+{0x0204,0x0000,0x002C}
+Analyzed QR Code patterns:
+Turning off the outer camera(s).
+It’s information about a Pokémon that lives in[0x000A]the Alola region!{0xBE01}[0x000A]Your Pokédex information has been updated,[0x000A]and a special gift has been delivered!{0xBE01}[0x000A]Please receive it from the deliveryman in[0x000A]the select antique shop, Antiquities of the Ages,{0xBE00}[0x000A]located in the Shopping District in Hau’oli City.{0xBE01}
+It’s information about a Pokémon that lives in[0x000A]the Alola region!{0xBE01}[0x000A]A special gift has been delivered!{0xBE01}[0x000A]Please receive it from the deliveryman in the[0x000A]select antique shop, Antiquities of the Ages,{0xBE00}[0x000A]located in the Shopping District in Hau’oli City.{0xBE01}
+It’s information about a Pokémon that lives in[0x000A]the Alola region!{0xBE01}
+A Wonder QR Code has been scanned.{0xBE01}
+An Alola Pokédex QR Code has been scanned!{0xBE01}
+Aether Paradise
+Ultra Space

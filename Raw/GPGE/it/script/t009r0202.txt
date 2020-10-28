@@ -1,0 +1,5 @@
+msg_t009r0202_diary_01=Diario: 5 luglio{0xBE01}[0x000A]È stato scoperto un nuovo Pokémon nel cuore[0x000A]della giungla.
+msg_t009r0202_diary_02=Diario: 10 luglio[0x000A]Abbiamo chiamato Mew il Pokémon{0xBE00}[0x000A]appena scoperto.
+msg_t009r0202_switch_01={0xBDFF:0x0002}
+msg_t009r0202_switch_02={0xBDFF:0x0003}
+msg_t009r0202_switch_03={0xBDFF:0x0004}

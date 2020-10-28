@@ -1,0 +1,16 @@
+Come dici? Stai cercando una nave?{0xBE01}[0x000A]Spiacente, il servizio traghetto non è disponibile[0x000A]al momento...
+Ciao, sei qui per prendere il traghetto?[0x000A]Hai il biglietto?
+{0x0100,0x0000} non ha il biglietto...
+Per imbarcarti devi avere un biglietto.
+{0x0100,0x0000} mostra il biglietto.
+Perfetto, è tutto in regola![0x000A]Dove vorresti andare?
+Al Resort Lotta
+A Porto Selcepoli
+A Porto Alghepoli
+Quasi quasi resto qui...
+Allora si salpa per il Resort Lotta![0x000A]Sei pront{0x1100,0x00FF,0x0101}oa?
+Allora si salpa per Porto Alghepoli![0x000A]Sei pront{0x1100,0x00FF,0x0101}oa?
+Allora si salpa per Porto Selcepoli![0x000A]Sei pront{0x1100,0x00FF,0x0101}oa?
+Allora... arrivederci!
+Sali pure sul traghetto,[0x000A]stiamo per levare l’ancora.
+{0xBDFF:0x000F}

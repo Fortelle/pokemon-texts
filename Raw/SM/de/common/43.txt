@@ -1,0 +1,196 @@
+{0x0100,0x0000}
+In Freundesliste
+{0x0124,0x0000}
+{0x0125,0x0000}
+・Getroffen am {0x0201,0x0002}.{0x0201,0x0001}.20{0x0201,0x0000}
+・VIP-Rang: {0x0202,0x0000}
+・Gäste-Rang: {0x0202,0x0000}
+・Führt gerade einen Link-Tausch durch...
+・Trägt gerade einen Einzelkampf aus...
+・Trägt gerade einen Doppelkampf aus...
+・Trägt gerade einen Multikampf aus...
+Gästeliste
+VIP-Liste
+Einzelkampf
+Doppelkampf
+Battle Royale
+Spektakel
+Spektakel veranstalten
+An Spektakel teilnehmen
+{0x01B5,0x0000}
+Kampf-Rang
+Tausch-Rang
+Sammler-Rang
+Zuneigungs-Rang
+Tagesleistungs-Rang
+Plaza-Rang
+Nebenbeschäftigungs-Rang
+{0x0202,0x0000}
+Kampf-Statistik
+Tausch-Statistik
+Sammler-Statistik
+Zuneigungs-Statistik
+Tagesleistungs-Statistik
+Plaza-Statistik
+Nebenbeschäftigungs-Statistik
+{0x01BC,0x0000}
+{0x0208,0x0000,0xE07F}
+{0x01B7,0x0000}
+{0x01B7,0x0000}
+NEUER REKORD!
+Ziel
+Zeitlimit
+Erhältliche Festival-Münzen
+Höchste Gesamtpunktzahl
+Höchste individuelle Punktzahl
+Gesamtpunktzahl
+Individuelle Punktzahl
+{0x0204,0x0000,0x0000}
+{0x0201,0x0000}
+:
+{0xBDFF:0x0032}
+{0x0202,0x0000}
+{0x0202,0x0000} - {0x0202,0x0001}
+{0x0202,0x0000}
+Link-Tausch
+VIP-Rangübersicht
+Gäste-Rangübersicht
+Umfrage
+Teilnehmer-Ergebnisse
+Gesperrte Spieler
+Multikampf
+・Trägt gerade einen Battle Royale aus...
+{0xBDFF:0x003E}
+・Kauft gerade in einem Laden ein...
+・Spricht gerade mit jemandem...
+・Läuft gerade über den Festival-Plaza...
+{0xFF00,0x0002}・Ist jederzeit zu einem Kampf bereit!{0xFF00,0x0000}
+{0xFF00,0x0002}・Ist jederzeit zu einem Tausch bereit!{0xFF00,0x0000}
+{0xFF00,0x0002}・Ist jederzeit zu einem Spektakel bereit!{0xFF00,0x0000}
+・Nutzt gerade die GTS...
+・Führt gerade einen Wundertausch durch...
+・Ist gerade auf dem Kampf-Plaza...
+・Nimmt gerade an einem Spektakel teil...
+・Bestreitet Abenteuer...
+---
+・Festival-Plaza-Rang: {0x0202,0x0000}
+Nr.
+Link-Kämpfe
+Kampf-Plaza-Besuche
+Kampfbaum-Besuche
+Kämpfe gegen wilde Pokémon
+Titelverteidigungen
+Angriffe mit Typenvorteil
+Angriffe mit Z-Attacken
+-
+Link-Tausche
+Wundertausche
+GTS-Tausche
+GTS-Tauschangebote
+-
+-
+-
+-
+Gesammelte Pokébohnen
+Beerenernten
+Ausgegebenes Geld
+Eingesetzte GP
+Erhaltene Mode-Artikel
+-
+-
+-
+Gefangene Pokémon
+Ausgebrütete Eier
+Pokémon gestreichelt
+Verteilte Pokébohnen
+Vergebene Spitznamen
+PokéMobil-Nutzungen
+-
+-
+Gesammelte EP
+Gefangene Pokémon
+Ausgelöste Entwicklungen
+Pokémon besiegt
+Trainer-Begegnungen
+-
+-
+-
+Festival-Plaza-Rang
+Spektakel-Teilnahmen
+Aufgestellte Buden
+Gäste-Interaktionen
+Ausgegebene FM
+-
+-
+-
+Schillernde Pokémon gesehen
+ID-Lotterie-Gewinne
+AP-Erhöhungen
+Outfit-Wechsel
+Eingelesene QR Code-Bilder
+Aufgenommene Fotos
+-
+-
+Aktualisieren
+O.K.
+Details
+Aus VIP-Liste löschen
+Beenden
+Ja
+Nein
+Auswählen
+Teilnehmen
+Info
+Zurück
+Veranstalten
+Spieler entsperren
+Du hast weniger als zwei Pokémon im Team,[0x000A]daher kannst du keinen Doppelkampf austragen.[0x000A][0x000A]Nimm mindestens zwei Pokémon in dein Team[0x000A]auf und versuche es erneut.
+Beim letzten Tausch oder bei der letzten[0x000A]Nutzung der GTS wurde unerwartet das[0x000A]System ausgeschaltet. Du kannst deshalb[0x000A]vorübergehend keine Pokémon tauschen.[0x000A][0x000A]Bitte warte noch {0x0201,0x0000} Minute{0x1101,0x0000,0x0100}n und versuche es[0x000A]danach erneut.
+Um Pokémon tauschen zu können, musst du[0x000A]mindestens zwei Pokémon im Team haben.[0x000A][0x000A]Füge deinem Team ein paar Pokémon hinzu und[0x000A]versuche es erneut.
+{0xBDFF:0x0095}
+Da im Internet schon viele Spektakel[0x000A]stattfinden, kannst du kein weiteres[0x000A]Spektakel veranstalten.[0x000A][0x000A]Bitte nimm stattdessen an den bereits[0x000A]stattfindenden Spektakeln teil.
+Da du kein Festival-Ticket besitzt, kannst du[0x000A]kein Spektakel veranstalten.[0x000A][0x000A]Bitte nimm stattdessen an den bereits[0x000A]stattfindenden Spektakeln teil.
+Es sind noch keine 30 Minuten vergangen, seit[0x000A]du im Internet ein Spektakel veranstaltet hast.[0x000A][0x000A]Bitte warte noch {0x0202,0x0001} Minute{0x1101,0x0001,0x0100}n.
+In dieser Spieler-Liste kannst du alle Spieler[0x000A]sehen, die deinen Festival-Plaza besucht haben.[0x000A][0x000A]Die Liste wird in diese drei Gruppen unterteilt:[0x000A]・Gäste[0x000A]・VIPs[0x000A]・Gesperrte Spieler
+Gäste:[0x000A]Hier werden bis zu 50 Spieler registriert,[0x000A]denen du über die Kommunikationsfunktionen[0x000A]begegnet bist.[0x000A][0x000A]Wenn weitere Spieler auf deinem Festival-Plaza[0x000A]erscheinen, werden beim Aktualisieren der Liste[0x000A]zuerst die Spieler entfernt, mit denen deine[0x000A]letzte Kommunikation am längsten her ist.
+VIPs:[0x000A]Spieler, die du als VIP registriert hast,[0x000A]werden nie aus der Liste entfernt.[0x000A][0x000A]Du kannst Spieler als VIPs registrieren,[0x000A]indem du sie auf deinem Festival-Plaza[0x000A]ansprichst und „Zum VIP machen“ auswählst.
+Du kannst bis zu 50 VIPs registrieren.[0x000A][0x000A]Wenn ein Spieler nicht länger VIP sein soll, wähle[0x000A]erst ihn und dann „Aus VIP-Liste löschen“ aus.
+Gesperrte Spieler:[0x000A]Spieler auf dieser Liste können nicht auf[0x000A]deinem Festival-Plaza erscheinen.[0x000A][0x000A]Außerdem kannst du von ihnen keine Kampf-[0x000A]oder Tausch-Einladungen erhalten.
+Du kannst bis zu 100 Spieler sperren.[0x000A][0x000A]Du kannst einen Spieler sperren, wenn du von[0x000A]ihm eine Kampf- oder Tausch-Einladung[0x000A]erhältst.
+Es kann momentan keine Verbindung zu[0x000A]{0x0100,0x0000} hergestellt werden.{0xBE01}
+Die Liste wurde aktualisiert!{0xBE01}
+Möchtest du eine Anfrage an {0x0100,0x0000}[0x000A]senden?
+Es kann momentan keine Verbindung zu[0x000A]{0x0100,0x0000} hergestellt werden.{0xBE01}
+Spieler, zu denen keine Verbindung hergestellt[0x000A]werden kann, wurden aus der Liste entfernt.{0xBE01}[0x000A]Bitte überprüfe noch einmal die Liste.{0xBE01}
+{0xBDFF:0x00A4}
+{0xBDFF:0x00A5}
+Was möchtest du mit {0x0100,0x0000} tun?
+Möchtest du {0x0100,0x0000} aus der VIP-Liste[0x000A]entfernen?
+{0x0100,0x0000} wurde aus der VIP-Liste[0x000A]entfernt.{0xBE01}
+Wenn du diesen Spieler aus der Liste der[0x000A]gesperrten Spieler entfernst, kannst du wieder{0xBE00}[0x000A]Anfragen von ihm bekommen.{0xBE01}[0x000A]Möchtest du ihn aus der Liste der gesperrten[0x000A]Spieler entfernen?
+Der Spieler wurde aus der Liste der gesperrten[0x000A]Spieler entfernt.{0xBE01}
+Zu diesem Spieler kann momentan keine[0x000A]Verbindung aufgebaut werden.{0xBE01}
+Möchtest du an einem Einzelkampf teilnehmen?
+Möchtest du an einem Doppelkampf teilnehmen?
+Möchtest du an einem Multikampf teilnehmen?
+Möchtest du an einem Battle Royale teilnehmen?
+Möchtest du einen Link-Tausch durchführen?
+Möchtest du an einem Spektakel teilnehmen?
+Das Spiel wird gespeichert.[0x000A]Möchtest du fortfahren?
+Möchtest du an diesem Spektakel teilnehmen?
+Möchtest du ein Festival-Ticket einsetzen,[0x000A]um ein Spektakel zu veranstalten?
+Das Spiel wird gespeichert.[0x000A]Möchtest du fortfahren?
+Speichervorgang...[0x000A]Bitte das System nicht ausschalten.
+Gesamtpunktzahl: {0x0204,0x0000,0xE07F}          ★: {0x0200,0x0001}[0x000A]Individuelle Punktzahl: {0x0204,0x0002,0xE07F}    ★: {0x0200,0x0003}{0xBE01}
+Die Vorbereitungen laufen...[0x000A]Bitte warte einen Moment.
+Da du insgesamt {0x0201,0x0004} ★ erhalten hast,[0x000A]bekommst du {0x0202,0x0005} FM.{0xBE00}[0x000A]Herzlichen Glückwunsch!{0xBE01}
+Erhaltene ★:[0x000A]{0x0201,0x0004}{0xBE01}[0x000A]Daher bekommst du leider keine[0x000A]Festival-Münzen.{0xBE00}[0x000A]Schade!{0xBE01}
+Die Teilnahme am Spektakel ist fehlgeschlagen.[0x000A]Bitte versuche es später noch einmal.{0xBE01}
+An diesem Spektakel kannst du nicht[0x000A]teilnehmen, da es bald zu Ende oder{0xBE00}[0x000A]die Zeit bereits abgelaufen ist.{0xBE01}[0x000A]Bitte wähle ein anderes Spektakel aus.{0xBE01}
+{0x0201,0x0000}:{0x0201,0x0001}
+Es kann keine Verbindung hergestellt werden,[0x000A]da die drahtlose Verbindung deaktiviert ist.{0xBE01}[0x000A]Bitte aktiviere die drahtlose Verbindung.{0xBE01}
+An diesem Spektakel kannst du nicht[0x000A]teilnehmen, da es die Bude, die du Spielern{0xBE00}[0x000A]vorstellen musst, auf diesem Plaza nicht gibt.{0xBE01}
+Du kannst kein weiteres Spektakel veranstalten.[0x000A]Bitte nimm an einem anderen Spektakel teil.{0xBE01}
+{0xBDFF:0x00C1}
+{0xBDFF:0x00C2}
+{0xBDFF:0x00C3}

@@ -1,0 +1,12 @@
+msg_sub_event_102_start=Das ist ein Getränkeautomat.[0x000A]Was möchtest du trinken?
+msg_sub_event_102_menu_item={0x0109,0x0000} {0xBD03,0x0000}{0x0202,0x0001} [0xE300]
+msg_sub_event_102_menu_cancel=Abbrechen
+msg_sub_event_102_cancel=Du hast kein Getränk gekauft.
+msg_sub_event_102_not_have=Noch mehr kannst du davon nicht tragen!
+msg_sub_event_102_not_money=Du hast nicht genug Geld!
+msg_sub_event_102_appear_item={0x0109,0x0000} erhalten!
+msg_sub_event_102_next=Möchtest du noch mehr kaufen?
+msg_sub_event_102_bingo=Du Glückspilz! {0x1603,0x0000,0x0000}weiter{0x1100,0x0000,0x0102,0x0002}erees[0x000A]{0x010A,0x0000} purzelt heraus!
+msg_sub_event_102_soldout=Ein Getränkeautomat![0x000A]Alle Getränke, die du magst...{0xBE00}[0x000A]sind ausverkauft!
+msg_sub_event_102_select_01=Noch einmal das Gleiche kaufen
+msg_sub_event_102_select_02=Etwas anderes kaufen

@@ -1,0 +1,11 @@
+main_event_0890_leader8_01=¡Vaya! ¿No eres tú {0x1100,0x00FF,0x0202}ella Entrenador{0x1100,0x00FF,0x0100}a que ha[0x000A]recomendado el Campeón?{0xBE01}[0x000A]Esto... ¿cómo te llamabas?{0x0114,0x0017}
+main_event_0890_leader8_02={0x0100,0x0000}, ¿eh?{0x0114,0x0017}
+main_event_0890_leader8_03=Pues si te has ganado el reconocimiento del[0x000A]mismísimo Lionel... ¡seguro que llegarás alto!{0xBE01}[0x000A]De todas formas, para enfrentarte a un portento[0x000A]como yo necesitas siete Medallas de Gimnasio.{0x0114,0x0017}
+main_event_0890_select_01=Lo sé, no venía por eso...
+main_event_0890_select_02=En realidad quería ver la cámara
+main_event_0890_leader8_04=¡Ah, vale! ¡Has venido a observar el tesoro que[0x000A]se custodia en la cámara heptagonal!{0xBE01}[0x000A]Profundizar tus conocimientos sobre los Pokémon[0x000A]a través de la historia no me parece en absoluto{0xBE00}[0x000A]mala idea, ciertamente.{0x0114,0x0017}
+main_event_0890_leader8_05=Me has caído bien, la verdad. Ven conmigo, que[0x000A]te muestro dónde está.{0x0114,0x0017}
+main_event_0890_leader8_08=Y mira, incluso te voy a dar mi Tarjeta de Liga[0x000A]así, por tu cara bonita.{0x0114,0x0017}
+main_event_0890_leader8_09=Si quieres visitar la cámara, sube esas escaleras.{0x0114,0x0017}
+main_event_0890_leader8_06=¿Tú no querías ir a la cámara heptagonal?[0x000A]¡Está ahí hasta la chica esa investigadora!{0x0114,0x0017}
+main_event_0890_leader8_07=Si quieres combatir contra mí, debes reunir nada[0x000A]menos que siete Medallas de Gimnasio.{0xBE01}[0x000A]¡Así que ya estás tardando en ir a Pueblo Ladera![0x000A]Es pan comido: basta con atravesar la Ruta 6.{0x0114,0x0017}

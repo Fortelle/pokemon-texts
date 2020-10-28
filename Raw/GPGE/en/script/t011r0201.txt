@@ -1,0 +1,9 @@
+msg_t011r0201_youngf_01=I’m a huge fan of Lt. Surge, the Vermilion[0x000A]City Gym Leader!{0xBE01}[0x000A]What?! You have his autograph?![0x000A]Oh, wow, I’m super jealous!
+msg_t011r0201_youngf_02=Oh, wow! You’re {0x0100,0x0000}, right...?[0x000A]The Champion?{0xBE01}[0x000A]D-d-do you think maybe you could give me[0x000A]your autograph?!
+msg_t011r0201_adultm_01=Lorelei of the Elite Four is just so cool![0x000A]She could freeze me solid with her icy gaze!
+msg_t011r0201_adultm_02=Whoa, hey there, Champion!{0xBE01}[0x000A]You’ve gotta be something if you were able[0x000A]to defeat Lorelei!
+msg_t011r0201_muscle_01=I really admire Bruno of the Elite Four.[0x000A]He’s a Fighting-type expert and super buff, too!
+msg_t011r0201_muscle_02=Congrats on becoming Champion!{0xBE01}[0x000A]You gotta tell me, though... What was it like[0x000A]seeing Bruno’s muscles up close and in person?!
+msg_t011r0201_juvenilesf_01=Nobody knows who the Gym Leader of[0x000A]the Viridian City Gym is!{0xBE01}[0x000A]It’s like a mystery! I’m so curious!
+msg_t011r0201_juvenilesf_02=So the Gym Leader of Viridian City was[0x000A]the Team Rocket leader, huh...{0xBE01}[0x000A]But you defeated even a scary person like that![0x000A]You can count me as one of your fans now!
+test_00={0xBDFF:0x0008}

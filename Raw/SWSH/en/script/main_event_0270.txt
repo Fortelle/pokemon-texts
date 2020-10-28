@@ -1,0 +1,12 @@
+main_event_0270_rival_01=Look! There’s the professor!{0x0114,0x0005}
+main_event_0270_champion_01=So have you unraveled all the secrets of the[0x000A]Dynamax phenomenon yet?{0x0114,0x0004}
+main_event_0270_doctor_01=Oh goodness, no.[0x000A]The whole thing is still full of questions.{0xBE01}[0x000A]I’d hoped that my granddaughter would take[0x000A]over my research, but...{0x0114,0x0042}
+main_event_0270_doctor_02=Dear me, I’m sorry.[0x000A]I didn’t even notice my guests!{0x0114,0x0042}
+main_event_0270_doctor_03=My name is Magnolia.[0x000A]Welcome, young Trainers!{0xBE00}[0x000A]Now come, let’s head indoors.{0x0114,0x000A}
+main_event_0270_rival_02={0xBDFF:0x0005}
+main_event_0270_doctor_04={0xBDFF:0x0006}
+main_event_0270_champion_02={0xBDFF:0x0007}
+main_event_0270_doctor_05={0xBDFF:0x0008}
+main_event_0270_champion_03={0xBDFF:0x0009}
+main_event_0270_champion_04={0xBDFF:0x000A}
+main_event_0270_doctor_06={0xBDFF:0x000B}

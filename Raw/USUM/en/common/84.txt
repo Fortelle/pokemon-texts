@@ -1,0 +1,81 @@
+Checking the SD Card...[0x000A]Don’t turn off the power.
+Battle rules saved on the SD Card[0x000A]were corrupted.{0xBE01}[0x000A]The corrupted rules have been deleted.{0xBE01}
+Searching for data...[0x000A]Please wait.
+{0xBDFF:0x0003}
+Data could not be found.{0xBE01}
+Would you like to stop searching for data?
+What would you like to do with[0x000A]{0x0123,0x0000}?
+You have already downloaded this data.{0xBE01}
+Saving the data to the SD Card...[0x000A]Don’t turn off the power.
+{0x0123,0x0000}[0x000A]has been saved to the SD Card.{0xBE01}
+You have too many battle rules.[0x000A]Would you like to delete some data?
+Please select the data you want to delete.{0xBE01}
+Have you changed your mind about deleting[0x000A]the data?
+Do you really want to delete[0x000A]{0x0123,0x0000}?
+Deleting the data...[0x000A]Don’t turn off the power.
+{0x0123,0x0000}[0x000A]has been deleted from the SD Card.{0xBE01}[0x000A]Please select the battle rules you want to add.{0xBE01}
+Would you like to select[0x000A]{0x0123,0x0000}?
+Would you like to cancel selecting rules?
+There is at least one person who can’t play with[0x000A]these battle rules.{0xBE01}[0x000A]Please choose another set of rules.{0xBE01}
+There is not sufficient free space on your[0x000A]SD Card.{0xBE01}[0x000A]Please close this software and turn off the [0x000A]power to your system, then review the content {0xBE00}[0x000A]of your SD Card to free up some space.{0xBE01}
+No more rules can be saved because there is[0x000A]not enough space on your SD Card.{0xBE01}[0x000A]Would you like to delete battle rules currently[0x000A]saved on your SD Card?
+No more rules can be saved because there is[0x000A]not enough space on your SD Card.{0xBE01}[0x000A]Would you like to delete battle rules currently[0x000A]saved on your SD Card?
+Yes
+No
+Download
+Info
+Back
+Delete
+Confirm
+Info
+No restrictions
+{0x0200,0x0000}
+{0x0202,0x0000} or more
+{0x0200,0x0000} to {0x0200,0x0001}
+Set all to Lv. {0x0202,0x0000}
+Up to {0x0202,0x0000}
+Permitted
+Banned
+Permitted
+Banned
+No. of Pokémon:
+Pokémon level:
+Special Pokémon:
+Same Pokémon:
+Same items:
+Single Battle
+Double Battle
+Multi Battle
+Battle Royal
+Normal Rules
+Flat Rules
+No Restrictions
+Battle Tree
+Battle Royal
+{0x0200,0x0000}
+/
+Up to {0x0202,0x0000}
+Set to Lv. {0x0202,0x0000} or higher
+Single Battle
+Double Battle
+Multi Battle
+Super Single Battle
+Super Double Battle
+Super Multi Battle
+Normal Rank
+Super Rank
+Hyper Rank
+Master Rank
+All Pokémon will be set to Lv. 50 in Normal Rules.
+Any Pokémon above Lv. 50 will be set to Lv. 50[0x000A]in Flat Rules.
+All Pokémon levels will stay as they are in battles[0x000A]with no restrictions.
+There are no restrictions on Pokémon levels in the[0x000A]Normal Course.
+Pokémon levels will be adjusted depending on the[0x000A]rules in effect in the Battle Royal.
+・Banned Pokémon[0x000A][0x000A]　{0x0101,0x0000}　{0x0101,0x0001}[0x000A]　{0x0101,0x0002}　{0x0101,0x0003}[0x000A]　{0x0101,0x0004}　{0x0101,0x0005}[0x000A]　{0x0101,0x0006}　{0x0101,0x0007}[0x000A]　{0x0101,0x0008}　{0x0101,0x0009}[0x000A]　{0x0101,0x000A}　{0x0101,0x000B}[0x000A]　{0x0101,0x000C}　{0x0101,0x000D}[0x000A]　{0x0101,0x000E}　{0x0101,0x000F}
+・Banned Items[0x000A][0x000A]　{0x0109,0x0000}　{0x0109,0x0001}[0x000A]　{0x0109,0x0002}　{0x0109,0x0003}[0x000A]　{0x0109,0x0004}　{0x0109,0x0005}[0x000A]　{0x0109,0x0006}　{0x0109,0x0007}[0x000A]　{0x0109,0x0008}　{0x0109,0x0009}[0x000A]　{0x0109,0x000A}　{0x0109,0x000B}[0x000A]　{0x0109,0x000C}　{0x0109,0x000D}[0x000A]　{0x0109,0x000E}　{0x0109,0x000F}
+・Banned Moves[0x000A][0x000A]　{0x0107,0x0000}　{0x0107,0x0001}[0x000A]　{0x0107,0x0002}　{0x0107,0x0003}[0x000A]　{0x0107,0x0004}　{0x0107,0x0005}[0x000A]　{0x0107,0x0006}　{0x0107,0x0007}[0x000A]　{0x0107,0x0008}　{0x0107,0x0009}[0x000A]　{0x0107,0x000A}　{0x0107,0x000B}[0x000A]　{0x0107,0x000C}　{0x0107,0x000D}[0x000A]　{0x0107,0x000E}　{0x0107,0x000F}
+・Banned Pokémon[0x000A][0x000A]　None
+・Banned Items[0x000A][0x000A]　None
+・Banned Moves[0x000A][0x000A]　None
+You can check the Pokémon Global Link website[0x000A]for more details about these battle rules:[0x000A]{0xBD00,0x0003,0x0000,0x0000}http://www.pokemon-gl.com/{0xBD01}[0x000A][0x000A]If you read the QR Code on the next page[0x000A]using a QR Code reader, you’ll be directed to[0x000A]the web page for the details.
+Any Pokémon above Lv. 50 will be set to Lv. 50[0x000A]in the Super Course.

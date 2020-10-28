@@ -1,0 +1,4 @@
+msg_t004gym01_gym_01=Let me give you some advice!{0xBE01}[0x000A]The Gym Leader, Misty, is a pro who uses[0x000A]Water-type Pokémon.{0xBE01}[0x000A]You can drain all their water with[0x000A]Grass-type moves.{0xBE01}[0x000A]Or you might use Electric-type moves and[0x000A]zap them!
+msg_t004gym01_gym_02=You beat Misty![0x000A]Great job!{0xBE01}[0x000A]The splashes of your battle came all[0x000A]the way over here!
+msg_t004gym01_statue_01=Cerulean City Pokémon Gym[0x000A]Gym Leader: Misty{0xBE01}[0x000A]Certified Trainers:[0x000A]{0x0100,0x0001}
+msg_t004gym01_statue_02=Cerulean City Pokémon Gym[0x000A]Gym Leader: Misty{0xBE01}[0x000A]Certified Trainers:[0x000A]{0x0100,0x0001}, {0x0100,0x0000}

@@ -1,0 +1,14 @@
+main_event_0040_rival_01=다녀왔어요 엄마~!{0x0114,0x0005}
+main_event_0040_rivalmama_01=어서 오렴 호브
+main_event_0040_rivalmama_02={0x0100,0x0000}도 어서 오렴!
+main_event_0040_rivalmama_03={0x0100,0x0000}도 어서 오렴!
+main_event_0040_rival_02=어라? 형은요?{0x0114,0x0005}
+main_event_0040_rivalmama_04=아직이라고 했잖니[0x000A]정말 덤벙대기는
+main_event_0040_rivalmama_05=지금쯤 브래시마을에 있는 역에[0x000A]도착하지 않았을까?
+main_event_0040_rival_03=알았어요![0x000A]형은 길치니까{0xBE00}[0x000A]제가 마중 나갈게요!{0x0114,0x0005}
+main_event_0040_rivalmama_06=그래[0x000A]그러면 좀 안심이 되겠구나
+main_event_0040_rival_04={0x0100,0x0000}{0x1900,0x0001}[0x000A]아직 만나본 적 없지?{0xBE01}[0x000A]같이 가자![0x000A]우리 형을 자랑하고 싶거든!{0x0114,0x0005}
+main_event_0040_rival_05=도로에서 기다리고 있을게!!{0x0114,0x0005}
+main_event_0040_rivalmama_07={0x0100,0x0000}[0x000A]단델 마중은 너희에게 부탁할게!
+main_event_0040_rivalmama_08={0x0100,0x0000}[0x000A]단델 마중은 너희에게 부탁할게!
+main_event_0040_rivalmama_09=그럼 나는...[0x000A]바베큐를 준비해야지!

@@ -1,0 +1,14 @@
+msg_main0475_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Oh, {0x0100,0x0000}!
+msg_main0475_rival_02=L’assistente del Professor Oak ha insegnato[0x000A]Bagliore anche a te?
+msg_main0475_rival_03=Cosa? Non l’ha insegnata a te, ma a[0x000A]{0x0102,0x0003}...?!{0xBE01}[0x000A]Incredibile! Il tuo Pokémon non smette mai[0x000A]di stupirmi!
+msg_main0475_rival_10=Ora che ci penso, conosco un posto dove[0x000A]potrebbe provare a usarla!{0xBE01}[0x000A]Vuoi che ti ci accompagni?
+msg_main0475_select_01=Sì, grazie!
+msg_main0475_select_02=No, ci vado da sol{0x1100,0x00FF,0x0101}oa
+msg_main0475_rival_04=Fantastico, ti ci porto subito![0x000A]Andiamo!
+msg_main0475_rival_05=È a est di Celestopoli...
+msg_main0475_rival_06=Da questa parte!{0xBE01}[0x000A]Se continui dritto per di qua arrivi[0x000A]al {0xFF00,0x0006}Tunnel Roccioso{0xFF00,0x0000}, un luogo{0xBE00}[0x000A]completamente buio!
+msg_main0475_rival_07=Ma grazie a Bagliore potrai illuminare tutti gli[0x000A]ambienti bui! Beh, io adesso vado. A dopo!
+msg_main0475_rival_08=Eh? Davvero?{0xBE01}[0x000A]Sei sicur{0x1100,0x00FF,0x0101}oa di volerci andare da sol{0x1100,0x00FF,0x0101}oa?[0x000A]
+msg_main0475_select_03=Sì, voglio andarci da sol{0x1100,0x00FF,0x0101}oa!
+msg_main0475_select_04=Forse è meglio se mi accompagni...
+msg_main0475_rival_09=Va bene![0x000A]Sai la strada, vero?{0xBE01}[0x000A]Da {0xFF00,0x0006}Celestopoli {0xFF00,0x0000}vai a est e continua sempre[0x000A]dritto fino ad arrivare al {0xFF00,0x0006}Tunnel Roccioso{0xFF00,0x0000},{0xBE00}[0x000A]un luogo completamente buio!{0xBE01}[0x000A]Ci si vede!

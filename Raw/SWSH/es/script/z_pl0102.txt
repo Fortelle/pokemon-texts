@@ -1,0 +1,10 @@
+msg_pl0102_npc1_01=Lo siento, esta zona es de acceso restringido.
+msg_pl0102_npc4_01=¡Es hora de la primera ronda del Torneo de[0x000A]Finalistas!{0xBE01}[0x000A]Puedes pasar a la cancha cuando quieras.
+msg_pl0102_npc4_02=¡Es hora de la segunda ronda del Torneo de[0x000A]Finalistas!{0xBE01}[0x000A]Puedes pasar a la cancha cuando quieras.
+msg_pl0102_npc4_03=¡Es hora de la final del Torneo de Finalistas!{0xBE01}[0x000A]Puedes pasar a la cancha cuando quieras.
+msg_pl0102_npc4_07=¡Por fin ha llegado el momento![0x000A]¡Es hora del Encuentro de Campeones!{0xBE01}[0x000A]Puedes pasar a la cancha cuando quieras.
+msg_pl0102_npc4_04=¡Es hora del Torneo de Medallistas!{0xBE01}[0x000A]¿Cuál de los cuatro Aspirantes pasará al[0x000A]siguiente torneo?{0xBE01}[0x000A]¡Qué emoción! ¡Esto está al rojo vivo!{0xBE01}[0x000A]Ejem... Puedes pasar a la cancha cuando quieras.
+msg_pl0102_npc4_05=¡Ha llegado la hora de la final del Torneo de[0x000A]Medallistas!{0xBE01}[0x000A]¿Quién habría pensado que los dos Aspirantes[0x000A]recomendados por el Campeón se enfrentarían{0xBE00}[0x000A]aquí?{0xBE01}[0x000A]Puedes pasar a la cancha cuando quieras.
+msg_pl0102_npc4_06=¡Es hora de la ceremonia de inauguración del[0x000A]Torneo de Finalistas!{0xBE01}[0x000A]Puedes pasar a la cancha cuando quieras.
+msg_pl0102_npc2_01=En breves instantes dará comienzo el encuentro[0x000A]final del Torneo de Medallistas, que enfrentará a{0xBE00}[0x000A]los dos Aspirantes recomendados por el{0xBE00}[0x000A]mismísimo Campeón: ¡{0x0100,0x0000} y Paul!
+msg_pl0102_npc3_01=Soy un Cámara de Macro TV. Estamos en medio[0x000A]de una grabación.

@@ -1,0 +1,17 @@
+msg_main8010_water_01=MISTY: Hi! You’re a new face!
+msg_main8010_water_05=What’s your policy on Pokémon?[0x000A]What’s your approach?
+msg_main8010_water_06=My policy for battle is...{0xBE01}[0x000A]an all-out offensive with Water-type Pokémon!
+msg_main8010_water_07=Misty, the world-famous beauty, is your host!
+msg_main8010_water_08=My sweet Pokémon are ready![0x000A]Are you?
+msg_gymleader_02_01={0xBDFF:0x0005}
+msg_gymleader_02_06={0xBDFF:0x0006}
+msg_main8010_water_02=MISTY: All right, you can have a Cascade Badge[0x000A]to show that you beat me.
+msg_main8010_sys_01=You got a {0xFF00,0x0006}Cascade Badge{0xFF00,0x0000} from Misty!
+msg_main8010_water_03=MISTY: A Cascade Badge makes Pokémon[0x000A]up to Lv. 30 from other Trainers listen to you.{0xBE01}[0x000A]And you can also have my favorite TM!
+msg_main8010_sys_02=You got {0x0109,0x0001} {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000} from Misty!
+msg_main8010_water_04=MISTY: TM29 teaches Pokémon the move Scald.[0x000A]Use it on a Pokémon that lives in the water!
+msg_gymleader_02_05={0xBDFF:0x000C}
+msg_gymleader_02_02={0xBDFF:0x000D}
+msg_gymleader_02_03={0xBDFF:0x000E}
+msg_gymleader_02_04={0xBDFF:0x000F}
+msg_gymleader_02_07={0xBDFF:0x0010}

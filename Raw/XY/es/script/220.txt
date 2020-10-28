@@ -1,0 +1,26 @@
+Hay muchas cajas de cartón con aparatos[0x000A]eléctricos.
+Hay muchas cajas de cartón con aparatos[0x000A]eléctricos.{0xBE01}[0x000A]¿Eh? Rotom parece tener cierta curiosidad por[0x000A]el motor de los aparatos.{0xBE01}[0x000A]¿Permites a Rotom meterse dentro?
+Rotom desiste de su deseo de meterse en el[0x000A]motor.
+¿Qué Rotom quieres que entre en el motor?{0xBE01}
+Ese Pokémon no puede entrar en un motor.
+Los Huevos no pueden entrar en los motores.
+¿En qué motor quieres que entre[0x000A]{0x0102,0x0000}?
+Microondas
+Lavadora
+Ventilador
+Nevera
+Cortacésped
+Retirar
+Atrás
+¡{0x0102,0x0000} se ha metido en el motor!
+¡{0x0102,0x0000} quiere aprender[0x000A]{0x0107,0x0001}!{0xBE01}[0x000A]Pero {0x0102,0x0000} ya conoce cuatro[0x000A]movimientos.{0xBE01}[0x000A]¿Quieres sustituir uno de ellos[0x000A]por {0x0107,0x0001}?
+¿Quieres que deje de aprender[0x000A]{0x0107,0x0001}?
+{0x0102,0x0000} ha salido del motor sin aprender[0x000A]{0x0107,0x0001}.
+¿Quieres que olvide el movimiento[0x000A]{0x0107,0x0002}?
+1, {0xBE02:0x0014}2 y... {0xBE02:0x0014}¡puf!{0xBE05,0x0003}{0xBE05,0x0006}{0xBE01}[0x000A]¡{0x0102,0x0000} ha olvidado cómo utilizar[0x000A]{0x0107,0x0002}! Y...{0xBE01}
+¡{0x0102,0x0000} ha aprendido[0x000A]{0x0107,0x0001}!
+{0x0102,0x0000} ha olvidado[0x000A]{0x0107,0x0002}.{0xBE01}
+{0x0102,0x0000} ya ha entrado en el motor.
+¡{0x0102,0x0000} ha salido del motor!
+¡{0x0102,0x0000} no está dentro del motor!
+Muy a su pesar, {0x0102,0x0000} ha desistido[0x000A]de meterse en el motor.

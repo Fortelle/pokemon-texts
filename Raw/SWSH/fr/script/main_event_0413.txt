@@ -1,0 +1,5 @@
+main_event_0413_rival_01=Ah, t’es là !{0x0114,0x0005}
+main_event_0413_rival_02=Le Stade de Motorby...[0x000A]C’est là que la cérémonie d’ouverture aura lieu !{0x0114,0x0005}
+main_event_0413_rival_03=C’est retransmis à la télé, tu te rends compte ?[0x000A]Nos mères vont nous voir !{0xBE01}[0x000A]Bon sang, qu’est-ce que je dis...[0x000A]Le monde entier va nous voir ! Quelle pression !{0x0114,0x0005}
+main_event_0413_rival_04=J’en tremble, tellement je stresse...{0xBE01}[0x000A]Non, c’est pas du stress...[0x000A]C’est juste que je suis complètement surexcité !{0x0114,0x0005}
+main_event_0413_rival_05=Viens, {0x0100,0x0000}, on fonce ![0x000A]Le monde entier va apprendre nos noms !{0x0114,0x0005}

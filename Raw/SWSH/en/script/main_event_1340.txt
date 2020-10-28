@@ -1,0 +1,12 @@
+main_event_1340_sister_01=Shut your gob!{0x0114,0x000D}
+main_event_1340_sister_02=Oh, {0x0100,0x0000}!{0x0114,0x000D}
+main_event_1340_sister_03=Uh... I’m really sorry!{0xBE01}[0x000A]The lot from Spikemuth’s tellin’ me they[0x000A]locked down the city for my sake...{0x0114,0x000D}
+main_event_1340_trainer1_01=Spikemuth just keeps gettin’ worse and worse.[0x000A]And all Piers says is “Don’t worry”...{0x0114,0x0043}
+main_event_1340_trainer2_01=So... So we decided to disguise ourselves as[0x000A]Team Yell and sabotage the other challengers.{0x0114,0x0044}
+main_event_1340_trainer1_02=We thought, if we could stop the other[0x000A]Gym Challengers from reachin’ the Gym, then{0xBE00}[0x000A]Ms. Marnie would be the only one to win and{0xBE00}[0x000A]make it to the Champion Cup!{0x0114,0x0043}
+main_event_1340_trainer2_02=And we figured that’d increase the chances of[0x000A]our wonderful Ms. Marnie becomin’ the{0xBE00}[0x000A]new Champion!{0x0114,0x0044}
+main_event_1340_sister_04=*sigh*[0x000A]That’s no way to help someone at all!{0x0114,0x000D}
+main_event_1340_sister_05={0x1003}{0x0100,0x0000}, no need to bother with all the[0x000A]preparations, or whatever.{0xBE01}[0x000A]Go on in and face the Gym Leader!{0x0114,0x000D}
+main_event_1340_trainer1_03=Oh man, Ms. Marnie’s scoldings go on forever...{0xBE01}[0x000A]I remember once she scolded her Morpeko[0x000A]for so long, it practically fell asleep...{0x0114,0x0043}
+main_event_1340_trainer2_03=I can hear Piers just rockin’ away. His Pokémon[0x000A]chorus sounds pretty great, too.{0x0114,0x0044}
+main_event_1340_trainer3_01=I’m gonna be givin’ Piers my best yells durin’ his[0x000A]battle with you!{0x0114,0x005E}

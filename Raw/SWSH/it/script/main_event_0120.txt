@@ -1,0 +1,10 @@
+main_event_0120_rival_01=Io voglio diventare fortissimo!{0xBE01}[0x000A]Ti prego, Dandel, lasciaci andare a sfidare[0x000A]le {0xFF00,0x0006}Palestre Pokémon{0xFF00,0x0000}!{0x0114,0x0005}
+main_event_0120_champion_01=Beh, non posso dirmi sorpreso...{0xBE01}[0x000A]La {0xFF00,0x0006}Sfida delle Palestre{0xFF00,0x0000} è l’evento più importante[0x000A]di Galar. È normale che tu voglia partecipare.{0x0114,0x0004}
+main_event_0120_champion_02=Va bene, ascoltate! Prima di tutto, dovete[0x000A]conoscere meglio i vostri Pokémon.{0x0114,0x0004}
+main_event_0120_champion_05=Soprattutto tu, {0x0100,0x0000}.[0x000A]E poi dovete procurarvi un Pokédex!{0x0114,0x0004}
+main_event_0120_champion_03=Per capire i punti di forza e le altre peculiarità[0x000A]di ogni Pokémon è necessario averne uno.{0xBE01}[0x000A]Ma non dovete pensare che il Pokédex sia solo[0x000A]un’arida raccolta di dati: è un vero concentrato{0xBE00}[0x000A]di amore e passione!{0x0114,0x0004}
+main_event_0120_rival_02=Va bene, ho capito!{0xBE01}[0x000A]{0x0100,0x0000}, andiamo al Laboratorio[0x000A]Pokémon! Lì potremo farci dare un Pokédex!{0x0114,0x0005}
+main_event_0120_champion_04=È questo lo spirito giusto! Allora avverto[0x000A]la Professoressa del vostro arrivo.{0x0114,0x0004}
+main_event_0120_rival_03=Un giorno sarò io il Campione!{0xBE01}[0x000A]E il completamento del Pokédex sarà solo uno[0x000A]dei capitoli della mia leggenda!{0x0114,0x0005}
+main_event_0120_rival_04=Forse è meglio se avverti tua madre che stiamo[0x000A]andando a farci dare un Pokédex.{0x0114,0x0005}
+main_event_0120_rivalmama_01=Hai trovato un compagno d’avventura[0x000A]davvero fantastico. Complimenti!

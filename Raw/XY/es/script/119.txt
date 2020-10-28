@@ -1,0 +1,59 @@
+¡He aquí un{0x1100,0x00FF,0x0908} clientea clienta con buen gusto!{0xBE01}[0x000A]Este es el mostrador Le-vieux-jus, un rincón donde[0x000A]deleitar el paladar con exquisitos Zumos de Baya{0xBE00}[0x000A]de edición limitada.{0xBE01}[0x000A]¡La mejor calidad para sus Pokémon![0x000A]Aquí tiene la carta de zumos de hoy.
+Este es el mostrador Le-vieux-jus, un rincón donde[0x000A]deleitar el paladar con exquisitos Zumos de Baya{0xBE00}[0x000A]de edición limitada.{0xBE01}[0x000A]Aquí tiene la carta de zumos de hoy.
+Lo siento, pero nuestra degustación de zumos[0x000A]gourmet se limita a uno por cliente y día.{0xBE01}[0x000A]Entiéndalo. Si no, podríamos perder la licencia.[0x000A]Vuelva usted mañana.
+Un vasito de {0x0198,0x0003}[0x000A]cuesta {0x0206,0x0001,0xE07F} $. ¿Le parece bien?
+Por más vueltas que le dé, no sé por dónde[0x000A]puede beber zumo un Huevo...
+Buen gusto sin dinero, ¿de qué sirve?
+¿Le ha gustado a su Pokémon el zumo de hoy?{0xBE01}[0x000A]No olvide venir mañana. Le tendré preparado[0x000A]otro de nuestros zumos excepcionales.
+Como guste.[0x000A]Vuelva cuando quiera.
+Son {0x0206,0x0001,0xE07F} $, muchas gracias.
+{0x0198,0x0003} {0xBD03,0x0000}{0x0204,0x0002,0xE07F} $
+Salir
+¡Hola! Este es el mostrador Jus-à-temps, el rincón[0x000A]donde disfrutar de zumo de bayas recién exprimido.{0xBE01}[0x000A]El cliente nos proporciona dos bayas y aquí se las[0x000A]exprimimos al momento. ¡Más fresco, imposible!{0xBE01}[0x000A]¿Le apetece un zumo exprés para su Pokémon?
+¡Hola! Este es el mostrador Jus-à-temps, el rincón[0x000A]donde disfrutar de zumo de bayas recién exprimido.{0xBE01}[0x000A]¿Le apetece un zumo exprés para su Pokémon?
+Lo siento, pero solo puedo exprimir un zumo por[0x000A]cliente y día. Vuelva mañana.
+Vaya, me pone en un aprieto.{0xBE01}[0x000A]Para servir uno de nuestros zumos frescos necesito[0x000A]dos bayas.
+Perfecto. Por favor, elija la primera baya que[0x000A]quiera mezclar.
+Hmm... Una {0x0109,0x0001}, ¿eh?[0x000A]¡Tiene usted buen gusto!{0xBE01}[0x000A]Ahora elija la segunda, por favor.
+Hmm, una {0x0109,0x0001}, ¿eh?[0x000A]¡Muy buena elección!
+¡Oh! ¿Otra {0x0109,0x0001}?[0x000A]Es usted un{0x1100,0x00FF,0x0100}a purista, ¿eh?
+Wiiiirrrr
+Chop, chop
+¡Tatatachán! ¡Marchando un rico[0x000A]{0x0198,0x0003}!{0xBE01}[0x000A]¿Cuál será el Pokémon afortunado?
+¿Cómo? ¿Que ya no lo quiere?[0x000A]Pues tendré que bebérmelo yo misma.
+Ja, ja, ja. Darle un zumo a un Huevo...[0x000A]¡Qué ocurrencias tiene!
+¡El cliente manda![0x000A]¡A su salud!{0xBE01}[0x000A]¡Glup!{0xBE01}[0x000A]¡Aaah! ¡Pues bien rico que estaba!
+¿Le ha gustado el zumo a su Pokémon?[0x000A]Vuelva cuando quiera.
+Oh, qué lástima...[0x000A]Vuelva cuando quiera.
+{0x0102,0x0000} se ha bebido un vaso de[0x000A]{0x0198,0x0003}.
+¡{0x0102,0x0000} está contento!
+¡{0x0102,0x0000} está muy contento!
+¡{0x0102,0x0000} está que se sale de contento!
+Los PS de base de {0x0102,0x0000}[0x000A]han aumentado {0x0201,0x0001} punto{0x1101,0x0001,0x0100}s.
+El Ataque de base de {0x0102,0x0000}[0x000A]ha aumentado {0x0201,0x0001} punto{0x1101,0x0001,0x0100}s.
+La Defensa de base de {0x0102,0x0000}[0x000A]ha aumentado {0x0201,0x0001} punto{0x1101,0x0001,0x0100}s.
+El Ataque Especial de base de {0x0102,0x0000}[0x000A]ha aumentado {0x0201,0x0001} punto{0x1101,0x0001,0x0100}s.
+La Defensa Especial de base de {0x0102,0x0000}[0x000A]ha aumentado {0x0201,0x0001} punto{0x1101,0x0001,0x0100}s.
+La Velocidad de base de {0x0102,0x0000}[0x000A]ha aumentado {0x0201,0x0001} punto{0x1101,0x0001,0x0100}s.
+¡{0x0102,0x0000} ha subido {0x0201,0x0001} nivel{0x1101,0x0001,0x0200}es!
+Los puntos de base de {0x0102,0x0000} han bajado[0x000A]a cero.
+Batido Colorido
+Zumo Amarillo
+Zumo Rojo
+Zumo Morado
+Zumo Rosa
+Zumo Azul
+Zumo Verde
+Refresco Raro
+Refresco Genial
+Sopa Peligrosa
+El Batido Colorido, contrariamente a lo que pueda[0x000A]parecer por su color, presenta un sabor{0xBE00}[0x000A]sorprendentemente meloso y aterciopelado.{0xBE01}[0x000A]El Pokémon que lo beba se sentirá más ligado a ti.
+El Zumo Amarillo tiene un sabor cálido y[0x000A]embocado, como los rayos de sol{0xBE00}[0x000A]en una mañana estival.{0xBE01}[0x000A]El Pokémon que lo beba mejorará su Defensa[0x000A]de base.
+El Zumo Rojo posee nervio y un sabor acerado[0x000A]que estimula la circulación y tonifica los músculos{0xBE00}[0x000A]sin darse uno apenas cuenta.{0xBE01}[0x000A]El Pokémon que lo beba mejorará su Ataque[0x000A]de base.
+El Zumo Morado tiene presencia y un sabor[0x000A]característico y profundo; con cuerpo, pero sedoso{0xBE00}[0x000A]y equilibrado a la vez.{0xBE01}[0x000A]El Pokémon que lo beba verá potenciados sus PS[0x000A]de base.
+El Zumo Rosa es un zumo delicado y sutil,[0x000A]de carácter agradable y, si me permite la expresión,{0xBE00}[0x000A]¡entra de maravilla!{0xBE01}[0x000A]El Pokémon que lo beba mejorará su Velocidad[0x000A]de base.
+El Zumo Azul tiene casta y solera, con un buqué[0x000A]sobrio y maduro, pero con ciertas notas afrutadas.{0xBE01}[0x000A]El Pokémon que lo beba mejorará su Ataque[0x000A]Especial de base.
+El Zumo Verde tiene un sabor generoso y[0x000A]ligeramente amargo, pero irresistible.{0xBE01}[0x000A]El Pokémon que lo beba mejorará su Defensa[0x000A]Especial de base.
+El Refresco Raro presenta un sabor sofisticado,[0x000A]complejo y audaz.{0xBE01}[0x000A]Beberlo es abrir la puerta a un mundo nuevo, por[0x000A]así decirlo.{0xBE01}[0x000A]El Pokémon que lo beba subirá de nivel.
+El Refresco Genial es una explosión de aromas y[0x000A]matices. Beberlo es como paladear el principio y{0xBE00}[0x000A]el fin del universo.{0xBE01}[0x000A]El Pokémon que lo beba subirá de nivel.
+La Sopa Peligrosa presenta un aspecto turbio y[0x000A]ominoso. Dicen que posee un regusto enmohecido,{0xBE00}[0x000A]picado y peleón que destruye las papilas gustativas{0xBE00}[0x000A]al más pintado...{0xBE01}[0x000A]El Pokémon que la beba verá reducidos al máximo[0x000A]sus puntos de base; vamos, que se convertirá en{0xBE00}[0x000A]un cero a la izquierda.

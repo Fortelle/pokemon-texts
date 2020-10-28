@@ -1,0 +1,70 @@
+Willkommen im Pokémon-Hort!{0xBE01}[0x000A]Trainer können ihre Pokémon hier bei uns[0x000A]in Pflege geben!{0xBE01}[0x000A]In letzter Zeit kommt es auch immer wieder vor,[0x000A]dass wir bei den Pokémon in unserer Obhut{0xBE00}[0x000A]ein Ei finden! Seltsam, findest du nicht?{0xBE01}[0x000A]Wenn du uns deine Pokémon anvertrauen[0x000A]möchtest, dann sprich drinnen einfach mit{0xBE00}[0x000A]meiner Schwester!
+Alola!{0xBE01}[0x000A]Deinem {0x0101,0x0000} geht es gut!
+Alola!{0xBE01}[0x000A]Deinem {0x0101,0x0000} und deinem[0x000A]{0x0101,0x0001} geht es gut!{0xBE01}[0x000A]Die beiden scheinen sich sehr zu mögen.
+Alola!{0xBE01}[0x000A]Deinem {0x0101,0x0000} und deinem[0x000A]{0x0101,0x0001} geht es gut!{0xBE01}[0x000A]Die beiden scheinen sich zu vertragen.
+Alola!{0xBE01}[0x000A]Deinem {0x0101,0x0000} und deinem[0x000A]{0x0101,0x0001} geht es gut!{0xBE01}[0x000A]Die beiden mögen sich aber nicht sehr.
+Alola!{0xBE01}[0x000A]Deinem {0x0101,0x0000} und deinem[0x000A]{0x0101,0x0001} geht es gut!{0xBE01}[0x000A]Die beiden spielen aber nicht miteinander.
+Ach, du bist es!{0xBE01}[0x000A]Wir haben uns hier fleißig um deine Pokémon[0x000A]gekümmert und dabei etwas Tolles gefunden:{0xBE00}[0x000A]ein Pokémon-Ei!{0xBE01}[0x000A]Wir sind selbst ratlos, wo es hergekommen sein[0x000A]könnte. Irgendwann hatten es deine Pokémon{0xBE00}[0x000A]einfach...{0xBE01}[0x000A]Möchtest du es an dich nehmen?
+Du erhältst das Ei von der Hortleiterin.
+Kümmere dich gut darum!
+Sieht nicht so aus, als ob du Platz für ein Ei[0x000A]hättest. Komm wieder, wenn du in deinem Team{0xBE00}[0x000A]oder in den Boxen etwas Platz geschaffen hast!
+Dann werde ich es behalten.[0x000A]Oder möchtest du es doch haben?
+Na schön, dann behalte ich es eben.[0x000A]Vielen Dank!
+Willkommen im Pokémon-Hort!{0xBE01}[0x000A]Du kannst uns bis zu zwei Pokémon[0x000A]anvertrauen, um die wir uns dann kümmern.
+Willkommen im Pokémon-Hort!{0xBE01}[0x000A]Kann ich dir behilflich sein?
+Gut. Komm bald wieder!
+Meine Schwester hat dich schon gesucht!
+Aber womit willst du denn bitte kämpfen,[0x000A]wenn du dieses Pokémon hierlässt?{0xBE01}[0x000A]Komm wieder, sobald sich mehr Pokémon[0x000A]in deinem Team befinden.
+Welches Pokémon möchtest du bei uns[0x000A]in Pflege geben?
+Hoppla... Aber das ist doch nur ein Ei!
+Alles klar, dann kümmern wir uns ein Weilchen[0x000A]um dein {0x0101,0x0000}!
+Du kannst jederzeit vorbeikommen und es[0x000A]wieder abholen!
+Wir können zwei deiner Pokémon bei uns[0x000A]aufnehmen.{0xBE01}[0x000A]Möchtest du noch eins in Pflege geben?
+Deinen Pokémon geht es gut.[0x000A]Möchtest du sie wieder mitnehmen?
+{0xBDFF:0x0017}
+Wenn du dein {0x0101,0x0000} wieder abholen[0x000A]willst, kostet das {0x0204,0x0001,0x002E} $.{0xBE00}[0x000A]Möchtest du es mitnehmen?
+Du hast leider nicht genug Geld...
+Du erhältst {0x0101,0x0000} von[0x000A]der Hortleiterin.
+Möchtest du dein anderes Pokémon auch[0x000A]mitnehmen?
+Wie bitte? Aber, aber...{0xBE01}[0x000A]Wenn du jetzt ein Pokémon bei uns lässt,[0x000A]hast du nur noch ein kampffähiges bei dir!{0xBE01}[0x000A]Was hältst du davon, wenn du erst noch[0x000A]ein paar Pokémon fängst und dann wieder{0xBE00}[0x000A]vorbeikommst?
+Oh, in deinem Pokémon-Team ist kein Platz[0x000A]mehr. Schaffe erst etwas Platz und komm{0xBE00}[0x000A]dann wieder!
+Pokémon abgeben
+Pokémon abholen
+Abbrechen
+Lv. {0x0202,0x0001}
+{0x0101,0x0000} [0xE08E] Lv. {0x0202,0x0001}
+{0x0101,0x0000} [0xE08F] Lv. {0x0202,0x0001}
+{0x0101,0x0000} Lv. {0x0202,0x0001}
+Wie?
+{0x0101,0x0000} schlüpfte aus dem Ei!
+Möchtest du dem geschlüpften {0x0101,0x0000}[0x000A]einen Spitznamen geben?
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+{0xBDFF:0x002A}
+{0xBDFF:0x002B}
+{0xBDFF:0x002C}
+{0xBDFF:0x002D}
+{0xBDFF:0x002E}
+{0xBDFF:0x002F}
+{0xBDFF:0x0030}
+{0xBDFF:0x0031}
+{0xBDFF:0x0032}
+{0xBDFF:0x0033}
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+{0xBDFF:0x0036}
+{0xBDFF:0x0037}
+{0xBDFF:0x0038}
+{0xBDFF:0x0039}
+{0xBDFF:0x003A}
+{0xBDFF:0x003B}
+{0xBDFF:0x003C}
+{0xBDFF:0x003D}
+{0xBDFF:0x003E}
+{0xBDFF:0x003F}
+{0xBDFF:0x0040}
+{0xBDFF:0x0041}
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}

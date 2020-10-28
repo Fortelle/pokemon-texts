@@ -1,0 +1,15 @@
+main_event_0570_counterw_01=ジムチャレンジャー　ですね[0x000A]では　てつづきを　おこないます！
+main_event_0570_counterw_02=ジムチャレンジについて[0x000A]かるく　おさらい　しますね{0xBE01}[0x000A]ジムミッションを　こなし[0x000A]ジムリーダーに　しょうりして{0xBE00}[0x000A]ジムバッジを　８コ　あつめます！
+main_event_0570_select_01=わかりました
+main_event_0570_select_02=ジムミッション？
+main_event_0570_counterw_03=では　ジムチャレンジに[0x000A]ちょうせん　なさいますか？
+main_event_0570_select_03=ちょうせん　します！
+main_event_0570_select_04=まってください
+main_event_0570_counterw_04={0xFF00,0x0001}ジムミッション{0xFF00,0x0000}　とは[0x000A]ジムリーダーに　いどむまえに　こなす{0xBE00}[0x000A]うでだめし　みたいな　ものです{0xBE01}[0x000A]ポケモンジムに　よって[0x000A]いろんな　ジムミッションが　ありますよ
+main_event_0570_counterw_05=ジムチャレンジに　いどむのでしたら[0x000A]ユニフォームに　きがえてくださいね
+main_event_0570_counterw_06=ジムチャレンジです！[0x000A]あなたの　ベストを　つくしてください
+main_event_0570_counterw_07=ジムミッション　ですね！{0xBE01}[0x000A]わたしの　すきな　ことばは[0x000A]ネバー　ギブ　アップです！
+main_event_0570_counterw_08=ジムミッションは　クリアですね！{0xBE01}[0x000A]ジムリーダーとの　しあいは[0x000A]ポケモンとの　コンビネーションが{0xBE00}[0x000A]とても　だいじに　なりますよ！
+main_event_0570_counterw_09=わかりました！　いつでも[0x000A]ちょうせんに　きてください
+main_event_0570_counterw_10={0xBDFF:0x000D}
+main_event_0570_counterw_11={0xBDFF:0x000E}

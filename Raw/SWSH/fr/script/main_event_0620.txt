@@ -1,0 +1,15 @@
+main_event_0620_yellm1_01=Raaah, tu vas nous filer ton vélo, oui ?!{0xBE01}[0x000A]On a un pont à traverser et une choupinette[0x000A]à encourager, nous !{0x0114,0x006F}
+main_event_0620_yellm2_01=Et à vélo, c’est plus facile aussi pour poursuivre[0x000A]les Challengers !{0x0114,0x006F}
+main_event_0620_doctor_05=Et puis quoi, encore ? Vous n’avez même pas[0x000A]de Motisma, bande de clowns !
+main_event_0620_doctor_06=Ah ! Challenger ! Tu tombes à pic.[0x000A]Ces deux guignols essaient de me voler mon bien.{0xBE01}[0x000A]Tu voudrais bien me rendre service[0x000A]et me débarrasser d’eux ?
+main_event_0620_yellm1_02=Pfff, mais quel mytho ! On veut pas lui voler[0x000A]son vélo, on veut juste le réquisitionner{0xBE00}[0x000A]pour la bonne cause !{0xBE01}[0x000A]Poursuivre les Challengers pour les épuiser,[0x000A]c’est une bonne cause !{0xBE01}[0x000A]Mais en fait, j’ai une idée... Le meilleur moyen[0x000A]de dégoûter les gamins comme toi du Défi{0xBE00}[0x000A]des Arènes, c’est de leur mettre une bonne raclée !{0x0114,0x006F}
+main_event_0620_yellm1_03=Pfff... Si on peut plus emprunter des vélos[0x000A]tranquilles, maintenant...{0x0114,0x006F}
+main_event_0620_yellm2_02=C’est clair ! Il nous faut ce vélo, y’a pas d’autre[0x000A]moyen ! T’as peut-être explosé mon pote,{0xBE00}[0x000A]mais moi, je vais pas te rater !{0x0114,0x006F}
+main_event_0620_yellm2_03=T’es coriace, toi ! Un vrai danger pour Rosemary ![0x000A]On va s’assurer que tu puisses pas lui nuire...{0x0114,0x006F}
+main_event_0620_doctor_10=Parfait ! Excellent ! Merci pour le service ![0x000A]Mais dis-moi, je vois que tu as un Pokédex...{0xBE01}[0x000A]Ça signifie que tu as un Motisma, non ?[0x000A]Excellent ! Parfait !{0xBE01}[0x000A]Je vais te donner mon vélo ![0x000A]Au moins, il sera entre de bonnes mains.
+main_event_0620_doctor_01=Ce qu’il faut savoir, c’est que Motisma[0x000A]raffole des moteurs !{0xBE01}[0x000A]À tel point qu’il n’hésite pas à sauter dans[0x000A]n’importe quelle machine avec un moteur !{0xBE01}[0x000A]Et c’est là que j’ai eu une idée de génie.[0x000A]En attachant un moteur sur un vélo, je me suis dit :{0xBE00}[0x000A]« Peut-être que Motisma se jettera dedans aussi ! »{0xBE01}[0x000A]Et puis, on pourrait appeler ça un Vélotisma...[0x000A]Ou une Moticyclette, peut-être...
+main_event_0620_select_01=Pardon ?
+main_event_0620_select_02=Mais bien sûr !
+main_event_0620_doctor_02=Oh, allez ! Essaie ! Je suis sûr que tu vas adorer[0x000A]la vie à Moticyclette !
+main_event_0620_doctor_03=Allez, hop ![0x000A]Monte sur ce vélo avec ton Motisma !
+main_event_0620_doctor_04=Je te lis le manuel, si tu veux.{0xBE01}[0x000A]« Pour partir à l’aventure à Moticyclette, il suffit[0x000A]d’appuyer sur le bouton + ou sur le bouton - ! »{0xBE00}[0x000A]Allez, en selle !

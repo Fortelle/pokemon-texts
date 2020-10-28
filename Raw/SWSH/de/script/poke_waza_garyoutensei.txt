@@ -1,0 +1,13 @@
+poke_waza_garyoutensei_01_01=Aha! Ich soll einem Pokémon aus deinem Team[0x000A]Zenitstürmer beibringen, sehe ich das richtig?
+poke_waza_garyoutensei_01_02=Nur Rayquaza kann Zenitstürmer erlernen,[0x000A]aber dieses Pokémon hast du leider nicht dabei.
+poke_waza_garyoutensei_01_03=Nun dann, komm einfach wieder vorbei,[0x000A]wenn du meine Hilfe brauchst.
+poke_waza_garyoutensei_01_04=Welchem Pokémon soll ich die Attacke[0x000A]beibringen?
+poke_waza_garyoutensei_01_05=Diesem Pokémon kann ich Zenitstürmer[0x000A]nicht beibringen.{0xBE01}[0x000A]Nur Rayquaza kann diese Attacke erlernen.
+poke_waza_garyoutensei_01_06=Du möchtest, dass ich einem Ei Zenitstürmer[0x000A]beibringe? Du bist ja lustig!
+poke_waza_garyoutensei_01_07=Dieses Rayquaza beherrscht Zenitstürmer[0x000A]bereits.
+poke_waza_garyoutensei_01_08=Ich soll deinem {0x0101,0x0000} also[0x000A]Zenitstürmer beibringen?
+poke_waza_garyoutensei_01_09=Zenitstürmer ist eine mächtige Attacke,[0x000A]die nur Rayquaza einsetzen kann.{0xBE01}[0x000A]Man sagt, ihre Stärke sei so groß, dass sie[0x000A]mit einem Schlag einen riesigen Meteor{0xBE00}[0x000A]pulverisieren kann.
+poke_waza_garyoutensei_sys_01=Welche Attacke soll durch[0x000A]{0x0107,0x0000} ersetzt werden?
+poke_waza_garyoutensei_sys_02={0x0102,0x0000} erlernt[0x000A]{0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+poke_waza_garyoutensei_sys_03=Eins,{0xBE02:0x0014} zwei{0xBE02:0x0014} und{0xBE02:0x0014}... schwupp!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} hat {0x0107,0x0001}[0x000A]vergessen und {0x0107,0x0002} erlernt!{0xBE05,0x0004}{0xBE05,0x0001}
+poke_waza_garyoutensei_sys_04={0x0102,0x0000} hat[0x000A]{0x0107,0x0001} nicht erlernt.

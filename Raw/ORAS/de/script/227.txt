@@ -1,0 +1,14 @@
+Einen schönen guten Morgen![0x000A]Du musst {0x0100,0x0000} sein.{0xBE01}[0x000A]Ich habe ein Geschenk für dich erhalten.[0x000A]Hier, bitte schön!
+Einen schönen guten Tag![0x000A]Du musst {0x0100,0x0000} sein.{0xBE01}[0x000A]Ich habe ein Geschenk für dich erhalten.[0x000A]Hier, bitte schön!
+Einen schönen guten Abend![0x000A]Du musst {0x0100,0x0000} sein.{0xBE01}[0x000A]Ich habe ein Geschenk für dich erhalten.[0x000A]Hier, bitte schön!
+Ich habe leider kein Geschenk für dich erhalten.[0x000A]Komm bald wieder!
+Komm bald wieder!
+{0x0100,0x0000} hat[0x000A]{0x0101,0x0001} erhalten!
+Dein Team ist leider voll. Du kannst[0x000A]das Geschenk noch nicht erhalten.
+{0x0100,0x0000} erhält[0x000A]{0xBD00,0x0007,0x0000,0x0000}{0x0109,0x0001}{0xBD01}!
+Du hast schon zu viele {0x1001}{0x0109,0x0000},[0x000A]um noch weitere annehmen zu können.
+{0x0100,0x0000} erlernt[0x000A]{0x0110,0x0001}!
+{0x0100,0x0000} hat[0x000A]{0x0110,0x0001} bereits erlernt!
+{0x0100,0x0000} erhält[0x000A]ein Pokémon-Ei!
+{0x0100,0x0000} kann sich nun an einer neuen[0x000A]Lektion des Supertrainings versuchen. Sie heißt:{0xBE00}[0x000A]{0x0197,0x0001}
+Nanu...?[0x000A]Na, sieh mal einer an...{0xBE01}[0x000A]D-dieses Geschenk ist ja ein Äon-Ticket!{0xBE01}[0x000A]Mit diesem Ticket kannst du das Boot nehmen, das zur[0x000A]Insel im Süden fährt, auf der das Äon-Pokémon lebt!{0xBE01}[0x000A]Wenn ich mich recht erinnere, weiß Norman,[0x000A]der Arenaleiter von Blütenburg City, wo es ablegt.

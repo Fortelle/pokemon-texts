@@ -1,0 +1,17 @@
+msg_main0910_rocketchief_01={0xFF00,0x0009}Archer: {0xFF00,0x0000}Ancora tu...?!
+msg_main0910_rocketf_01={0xFF00,0x0009}Recluta: {0xFF00,0x0000}Archer, chi è quel{0x1100,0x00FF,0x0C0A} ragazzinola ragazzina?
+msg_main0910_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} {0x0100,0x0000},[0x000A]chi è quello?
+msg_main0910_rocketf_02={0xBDFF:0x0003}
+msg_main0910_rival_02={0xBDFF:0x0004}
+msg_main0910_rocketchief_02={0xFF00,0x0009}Archer:{0xFF00,0x0000} Sono dei ragazzini in gamba,[0x000A]ma abbastanza sciocchi da metterci{0xBE00}[0x000A]i bastoni tra le ruote.
+msg_main0910_rival_03={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Allora la cosa è reciproca...[0x000A]Anche voi siete un fastidio per noi.
+msg_main0910_rocketf_03={0xFF00,0x0009}Recluta:{0xFF00,0x0000} Ehi tu! Come ti permetti di rivolgerti[0x000A]in quel modo ad Archer?!{0xBE01}[0x000A]Vuoi passare un brutto quarto d’ora?!
+msg_main0910_rocketchief_03={0xFF00,0x0009}Archer:{0xFF00,0x0000} Non c’è motivo di scaldarsi.{0xBE01}[0x000A]So io come dare una bella lezione a questi[0x000A]piccoli insolenti!
+msg_main0910_dummy_01={0xBDFF:0x0009}
+msg_main0910_dummy_02={0xBDFF:0x000A}
+msg_main0910_rocketchief_04={0xFF00,0x0009}Archer:{0xFF00,0x0000} Quindi la vittoria dell’altra volta[0x000A]non è stata solo fortuna...{0xBE01}[0x000A]Capisco. Vuol dire che dovremo fare più[0x000A]attenzione con voi due.
+msg_main0910_rocketf_04={0xFF00,0x0009}Recluta:{0xFF00,0x0000} Togliti di mezzo!
+msg_main0910_rival_04={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Ahia!
+msg_main0910_rival_05=Ah! La Recluta ha perso qualcosa!
+msg_main0910_sys_01={0x0100,0x0000} ottiene l’{0xFF00,0x0006}Apriporta{0xFF00,0x0000}[0x000A]da {0x0100,0x0001}!
+msg_main0910_rival_06={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Prendiamo in prestito[0x000A]l’Apriporta per un po’...{0xBE01}[0x000A]Giusto il tempo di liberare la Silph S.p.A.!

@@ -1,0 +1,7 @@
+main_event_1510_staff_01=Ah, da bist du ja! Wir haben dich bereits[0x000A]erwartet, {0x0100,0x0000}.{0xBE01}[0x000A]Nun, da der Champ-Cup bald beginnt, werde ich[0x000A]dir kurz erklären, was dich erwartet.{0xBE01}[0x000A]Die Veranstaltung ist in drei Teile untergliedert[0x000A]und beginnt mit dem sogenannten Vorturnier.{0xBE01}[0x000A]Am Vorturnier nehmen alle Trainer teil, die[0x000A]die Arena-Challenge bestanden haben.{0xBE01}[0x000A]Der Sieger des Vorturniers rückt automatisch zum[0x000A]Finalturnier vor, bei dem neben ihm die sieben{0xBE00}[0x000A]ranghöchsten Arenaleiter Galars mitmischen.{0xBE01}[0x000A]Wer aus dem Finalturnier als Sieger hervorgeht,[0x000A]darf zum krönenden Abschluss den Champ{0xBE00}[0x000A]herausfordern.{0xBE01}[0x000A]Dieser entscheidende Kampf wird auch als[0x000A]Champ-Match bezeichnet.
+main_event_1510_staff_02=Dein Match fängt in Kürze an.[0x000A]Bitte begib dich jetzt auf den Kampfplatz.
+main_event_1510_rival_01={0xBDFF:0x0002}
+main_event_1510_rival_02={0xBDFF:0x0003}
+main_event_1510_staff_03=Dein Gegner wartet bereits auf dem Kampfplatz[0x000A]auf dich.
+main_event_1510_yellm_01=Oh, hey! Du hier?[0x000A]Dann mal viel Glück und so...{0xBE01}[0x000A]Aber Glück hilft dir gegen Miss Mary auch nicht.[0x000A]Du hast eh schon so gut wie verloren!{0x0114,0x0043}
+main_event_1510_yellw_01=Team Yell steht geschlossen hinter Miss Mary.[0x000A]Wir sind ihre größten Fans! OLÉ, OLÉ, OLÉ! ♪{0x0114,0x0044}

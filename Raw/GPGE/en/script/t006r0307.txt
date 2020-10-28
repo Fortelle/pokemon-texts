@@ -1,0 +1,10 @@
+msg_t006r0307_cook_01=You there, m{0x1100,0x00FF,0x0808}on petita petite![0x000A]We’re busy here!{0xBE00}[0x000A]Out of the way! Shoo! Shoo!
+msg_t006r0307_cook_02=Have you ever wondered about these silver[0x000A]domes we put on top of the food?{0xBE01}[0x000A]They’re called cloches![0x000A]They keep hot dishes from cooling.
+msg_t006r0307_cook_03=I’m so busy, I’m getting dizzy![0x000A]You have to give me room here!
+msg_t006r0307_cook_04=Hum-de-hum-de-ho...{0xBE01}[0x000A]I peel spuds every day![0x000A]Hum-hum...
+msg_t006r0307_cook_05=Have you heard about Snorlax?[0x000A]It’s a real glutton.{0xBE01}[0x000A]No other Pokémon eats and sleeps the way[0x000A]Snorlax can!
+msg_t006r0307_cook_06=*snivel...sniff*{0xBE01}[0x000A]I only get to peel onions...[0x000A]*snivel*
+msg_t006r0307_cook_07_01=Er-hem![0x000A]Indeed I am le chef!{0xBE01}[0x000A]Le main course today is...
+msg_t006r0307_cook_07_02=my flavorful Whirlpool sushi!{0xBE01}[0x000A]Though les guests may complain that it’s fish[0x000A]yet again...
+msg_t006r0307_cook_07_03=le Kantonian flavor of Pewter Crunchies!{0xBE01}[0x000A]Les guests will mutiny, I fear.
+msg_t006r0307_cook_07_04=my juicy Take Down steak!{0xBE01}[0x000A]But have I enough pour les guests?

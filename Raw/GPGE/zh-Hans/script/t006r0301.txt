@@ -1,0 +1,10 @@
+msg_t006r0301_sailor_02_01=圣特安努号[0x000A]是有名的豪华客轮！{0xBE01}[0x000A]它每年只在枯叶港[0x000A]停靠１次！
+msg_t006r0301_sailor_01_01=欢迎您搭乘圣特安努号！
+msg_t006r0301_sailor_01_02={0xBDFF:0x0002}
+msg_t006r0301_sys_01={0xBDFF:0x0003}
+msg_t006r0301_sailor_01_03={0xBDFF:0x0004}
+msg_t006r0301_sys_02={0xBDFF:0x0005}
+msg_t006r0301_sailor_01_04={0xBDFF:0x0006}
+msg_t006r0301_sys_03={0xBDFF:0x0007}
+msg_t006r0301_sailor_01_05={0xBDFF:0x0008}
+msg_t006r0301_sailor_01_06=圣特安努号出航了。

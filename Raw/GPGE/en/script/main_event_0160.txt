@@ -1,0 +1,6 @@
+msg_main0160_rival_01={0x01CD,0x0001}: Hey. Nice![0x000A]I was hoping we’d run into each other!
+msg_main0160_rival_02=You know there’s a {0xFF00,0x0006}Pokémon Gym{0xFF00,0x0000} up this way,[0x000A]right, {0x0100,0x0000}?{0xBE01}[0x000A]You can battle against the {0xFF00,0x0006}Gym Leader{0xFF00,0x0000} there,[0x000A]and he’s seriously strong!
+msg_main0160_rival_05=If you want to get stronger, you’ve definitely[0x000A]gotta try to take him on!
+msg_main0160_rival_04={0x01CD,0x0001}: Hah! Jeez, {0x0102,0x0003}![0x000A]You’re ready for a good battle, too, huh?{0xBE00}[0x000A]Who wouldn’t be!{0xBE01}[0x000A]All right, then. You’re making me want to cheer[0x000A]you guys on, too, so take these!
+msg_main0160_sys_01=You got 5 Potions from {0x0100,0x0001}!
+msg_main0160_rival_03=I bought some for you with the prize money[0x000A]I’ve been earning in all my battles.{0xBE01}[0x000A]Beat that Gym Leader, {0x0100,0x0000},[0x000A]and you can really call yourself a true Trainer!{0xBE01}[0x000A]Give it your best!

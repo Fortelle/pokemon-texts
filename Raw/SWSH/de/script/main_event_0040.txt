@@ -1,0 +1,14 @@
+main_event_0040_rival_01=Ich bin wieder da, Mum!{0x0114,0x0005}
+main_event_0040_rivalmama_01=Hallo, Hop!
+main_event_0040_rivalmama_02=Oh, und {0x0100,0x0000} ist auch dabei.[0x000A]Wie schön!
+main_event_0040_rivalmama_03=Oh, und {0x0100,0x0000} ist auch dabei.[0x000A]Wie schön!
+main_event_0040_rival_02=Hey, Moment mal! Wo ist Delion?!{0x0114,0x0005}
+main_event_0040_rivalmama_04=Dein Bruder ist noch nicht da, wie du siehst![0x000A]Du und deine Ungeduld, Hop...
+main_event_0040_rivalmama_05=Aber sein Zug sollte jede Minute am Bahnhof[0x000A]von Brassbury ankommen.
+main_event_0040_rival_03=Aha! Dann geh ich ihn besser abholen!{0xBE01}[0x000A]Delion hat einen schrecklichen Orientierungssinn.[0x000A]Bei ihm weiß man nie, ob er den Weg findet.{0x0114,0x0005}
+main_event_0040_rivalmama_06=Da hast du leider recht... Wenn du ihn abholen[0x000A]könntest, hätte ich eine Sorge weniger, Hop.
+main_event_0040_rival_04=Du hast meinen großen Bruder immer noch nicht[0x000A]kennengelernt, stimmt’s, {0x0100,0x0000}?{0xBE01}[0x000A]Das müssen wir unbedingt ändern![0x000A]Komm, lass uns zusammen nach Brassbury gehen!{0x0114,0x0005}
+main_event_0040_rival_05=Ich warte draußen auf dich!{0x0114,0x0005}
+main_event_0040_rivalmama_07=Nett, dass du mitgehst, {0x0100,0x0000}.[0x000A]Grüß mir meinen Delion!
+main_event_0040_rivalmama_08=Nett, dass du mitgehst, {0x0100,0x0000}.[0x000A]Grüß mir meinen Delion!
+main_event_0040_rivalmama_09=So, ich bereite jetzt erst mal alles für unsere[0x000A]Grillparty vor!

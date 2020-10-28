@@ -1,0 +1,101 @@
+È un piacere averla qui al Castello Lotta.{0xBE01}[0x000A]Posso esserle utile, {0xFF00,0x0001}Barone {0xFF00,0x0000}{0x0100,0x0000}?
+Da qui è possibile inviare una lettera di invito[0x000A]a tutti gli Allenatori che frequentano il castello.{0xBE01}[0x000A]Noterà che ci sono diversi tipi di inviti, ognuno[0x000A]dei quali attirerà diversi tipi di Allenatori.{0xBE01}[0x000A]Il nostro servizio prevede una modica[0x000A]ricompensa per ogni invito emesso.
+Che tipo di invito desidera inviare?
+Con questo invito, i signori Allenatori[0x000A]degneranno di una visita il nostro castello{0xBE00}[0x000A]con più celerità del solito.{0xBE01}[0x000A]Per questo servizio chiediamo[0x000A]il modico contributo di ${0x0205,0x0004,0x002E}.{0xBE00}[0x000A]Vuole procedere con l’invio?
+Con un invito argento, i signori Allenatori[0x000A]giungeranno al nostro umile castello{0xBE00}[0x000A]di gran carriera.{0xBE01}[0x000A]Per questo servizio chiediamo[0x000A]il modico contributo di ${0x0205,0x0004,0x002E}.{0xBE00}[0x000A]Vuole procedere con l’invio?
+Con un invito oro, il nostro castello[0x000A]verrà deliziato dalla presenza{0xBE00}[0x000A]di signori Allenatori particolarmente facoltosi.{0xBE01}[0x000A]Per questo servizio chiediamo il modico[0x000A]contributo di ${0x0205,0x0004,0x002E}.{0xBE00}[0x000A]Vuole procedere con l’invio?
+Una lettera di sfida interesserà[0x000A]tutti quei signori Allenatori{0xBE00}[0x000A]un po’ più combattivi del solito.{0xBE01}[0x000A]Per questo servizio chiediamo[0x000A]il modico contributo di ${0x0205,0x0004,0x002E}.{0xBE00}[0x000A]Vuole procedere con l’invio?
+Una lettera di sfida blu attirerà[0x000A]soprattutto i signori Allenatori{0xBE00}[0x000A]che prediligono lotte dai toni pacati.{0xBE01}[0x000A]Per questo servizio chiediamo[0x000A]il modico contributo di ${0x0205,0x0004,0x002E}.{0xBE00}[0x000A]Vuole procedere con l’invio?
+Una lettera di sfida rossa interesserà[0x000A]soprattutto i signori Allenatori{0xBE00}[0x000A]molto combattivi e audaci.{0xBE01}[0x000A]Per questo servizio chiediamo[0x000A]il modico contributo di ${0x0205,0x0004,0x002E}.{0xBE00}[0x000A]Vuole procedere con l’invio?
+Come desidera. Allora procedo[0x000A]con l’emissione dell’invito.
+Sono davvero costernata, ma pare che lei[0x000A]non abbia abbastanza denaro.
+Se avrà ancora bisogno dei miei servigi,[0x000A]non esiti a chiamarmi.
+Una lettera di sfida nera interesserà[0x000A]i signori Allenatori più combattivi e audaci.{0xBE01}[0x000A]Per questo servizio richiediamo[0x000A]il modico contributo di ${0x0205,0x0004,0x002E}.{0xBE00}[0x000A]Vuole procedere con l’invio?
+Che sommo piacere vederla,[0x000A]mio caro {0x019F,0x0005}{0xBE00}[0x000A]{0x0100,0x0000}!{0xBE01}[0x000A]Capita proprio al momento giusto![0x000A]Ho una meravigliosa notizia da comunicarle.{0xBE01}[0x000A]Visti i suoi sommi risultati nelle lotte,[0x000A]le è stato riconosciuto{0xBE00}[0x000A]il titolo di {0x019F,0x0006}.
+Che sommo piacere vederla,[0x000A]mia cara {0x019F,0x0005}{0xBE00}[0x000A]{0x0100,0x0000}!{0xBE01}[0x000A]Capita proprio al momento giusto![0x000A]Ho una meravigliosa notizia da comunicarle.{0xBE01}[0x000A]Visti i suoi sommi risultati nelle lotte,[0x000A]le è stato riconosciuto{0xBE00}[0x000A]il titolo di {0x019F,0x0006}.
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+Le porgo i miei più vivi complimenti!{0xBE01}[0x000A]Spero che continuerà a deliziare il nostro[0x000A]umile castello con la sua magnifica presenza.
+Sniff... Sniff...[0x000A]Quanto ho aspettato questo momento...{0xBE01}[0x000A]Il mio cuore è colmo di una tale felicità...[0x000A]che non trovo le parole...{0xBE01}[0x000A]Sniff... Sincere felicitazioni...{0xBE01}[0x000A]Le auguro dal profondo del cuore[0x000A]un duraturo successo nelle lotte{0xBE00}[0x000A]in qualità di {0xFF00,0x0001}Granduca{0xFF00,0x0000}.
+Temo che questo invito sia già stato inviato.
+Sembra che lei non abbia abbastanza denaro.
+Benvenut{0x1100,0x00FF,0x0101}oa al Castello Lotta.[0x000A]Posso esserle d’aiuto?
+In questo castello offriamo a pochi privilegiati[0x000A]lotte raffinate e di grande levatura.{0xBE01}[0x000A]Il nostro club è frequentato dalla esigente crème[0x000A]dell’alta società di Kalos.{0xBE01}[0x000A]Alcuni cercano le sfide...{0xBE01}[0x000A]altri la gloria...{0xBE01}[0x000A]altri la ricchezza...{0xBE01}[0x000A]Ma tutti sono pronti a lottare senza esclusioni[0x000A]di colpi, quale che sia il loro avversario.{0xBE01}[0x000A]Possano i nostri ospiti assaporare l’ebbrezza[0x000A]di queste lotte elitarie!{0xBE01}[0x000A]In questo castello usiamo riferirci ai nostri[0x000A]ospiti con dei titoli nobiliari, indicativi{0xBE00}[0x000A]della loro forza.{0xBE01}[0x000A]Le auguriamo di riuscire a conquistare[0x000A]il titolo nobiliare di maggior prestigio.
+I titoli vengono assegnati in base[0x000A]alla forza di ciascun Allenatore.{0xBE01}[0x000A]Nel nostro castello, nulla è più[0x000A]importante di un titolo.{0xBE01}[0x000A]I nostri ospiti possono salire di rango[0x000A]sfidando altri Allenatori e vincendo,{0xBE00}[0x000A]lotta dopo lotta.{0xBE01}[0x000A]Più alto è il grado nobiliare, più numerosi[0x000A]e prestigiosi saranno gli onorevoli ospiti{0xBE00}[0x000A]che accorreranno.
+Le auguro di godersi al meglio[0x000A]la sua avventura nel Castello Lotta.
+Gentili signori ospiti del Castello Lotta...{0xBE01}[0x000A]Siamo lieti di annunciarvi che il {0xFF00,0x0001}Barone{0xFF00,0x0000}[0x000A]{0x0100,0x0002} è appena giunto{0xBE00}[0x000A]a deliziarci con la sua presenza.{0xBE01}[0x000A]Preghiamo gli onorevoli ospiti di accoglierlo[0x000A]nel più caloroso dei modi.
+Gentili signori ospiti del Castello Lotta...{0xBE01}[0x000A]Siamo lieti di annunciarvi che il {0xFF00,0x0001}Visconte{0xFF00,0x0000}[0x000A]{0x0100,0x0002} è appena giunto{0xBE00}[0x000A]a deliziarci con la sua presenza.
+Gentili signori ospiti del Castello Lotta...{0xBE01}[0x000A]Siamo lieti di annunciarvi che il {0xFF00,0x0001}Conte{0xFF00,0x0000}[0x000A]{0x0100,0x0002} è appena giunto{0xBE00}[0x000A]a deliziarci con la sua presenza.{0xBE01}[0x000A]Raccomandiamo gli onorevoli ospiti[0x000A]di non abbassare la guardia!
+Gentili signori ospiti del Castello Lotta...{0xBE01}[0x000A]Siamo lieti di annunciarvi che il {0xFF00,0x0001}Marchese{0xFF00,0x0000}[0x000A]{0x0100,0x0002} è appena giunto{0xBE00}[0x000A]a deliziarci con la sua presenza.{0xBE01}[0x000A]Invitiamo i signori Allenatori più esperti[0x000A]ad approfittare dell’occasione.
+Gentili signori ospiti del Castello Lotta...{0xBE01}[0x000A]Vi annunciamo una grande gioia!{0xBE01}[0x000A]Oggi è giunto a deliziarci con la sua presenza[0x000A]il sommo {0xFF00,0x0001}Duca {0xFF00,0x0000}{0x0100,0x0002}.{0xBE01}[0x000A]Preghiamo gli onorevoli ospiti di accoglierlo[0x000A]con un grande applauso.{0xBE01}[0x000A]Siamo certi che il {0xFF00,0x0001}Duca {0xFF00,0x0000}saprà regalare a tutti[0x000A]lotte di livello eccelso.
+Invia una lettera di invito
+Info sulle lettere di invito 1
+Esci
+Lettera di invito
+Lettera di invito argento
+Lettera di invito oro
+Lettera di sfida
+Lettera di sfida blu
+Lettera di sfida rossa
+Cosa offre questo luogo?
+Vorrei informazioni sui titoli
+Sì
+No
+---
+Lettera di sfida nera
+Ho il dovere di richiamare la sua attenzione su[0x000A]due punti fondamentali relativi alle lettere di invito.{0xBE01}[0x000A]Il primo punto su cui mi preme riferirle[0x000A]è che l’invito, una volta emesso, resterà attivo{0xBE00}[0x000A]fino alle ore 12 del giorno stesso.{0xBE01}[0x000A]Il secondo punto che desidero sottolineare[0x000A]è che non vi è un limite agli inviti che possono{0xBE00}[0x000A]essere emessi.{0xBE01}[0x000A]L’ultimo invito emesso annullerà[0x000A]tutti gli inviti precedenti di quel giorno.
+Info sulle lettere di invito 2
+Gentili signori ospiti del Castello Lotta...{0xBE01}[0x000A]Siamo lieti di annunciarvi che la {0xFF00,0x0001}Baronessa{0xFF00,0x0000}[0x000A]{0x0100,0x0002} è appena giunta{0xBE00}[0x000A]a deliziarci con la sua presenza.{0xBE01}[0x000A]Preghiamo gli onorevoli ospiti di accoglierla[0x000A]nel più caloroso dei modi.
+Gentili signori ospiti del Castello Lotta...{0xBE01}[0x000A]Siamo lieti di annunciarvi che la {0xFF00,0x0001}Viscontessa{0xFF00,0x0000}[0x000A]{0x0100,0x0002} è appena giunta{0xBE00}[0x000A]a deliziarci con la sua presenza.
+Gentili signori ospiti del Castello Lotta...{0xBE01}[0x000A]Siamo lieti di annunciarvi che la {0xFF00,0x0001}Contessa{0xFF00,0x0000}[0x000A]{0x0100,0x0002} è appena giunta{0xBE00}[0x000A]a deliziarci con la sua presenza.{0xBE01}[0x000A]Raccomandiamo gli onorevoli ospiti[0x000A]di non abbassare la guardia!
+Gentili signori ospiti del Castello Lotta...{0xBE01}[0x000A]Siamo lieti di annunciarvi che la {0xFF00,0x0001}Marchesa{0xFF00,0x0000}[0x000A]{0x0100,0x0002} è appena giunta{0xBE00}[0x000A]a deliziarci con la sua presenza.{0xBE01}[0x000A]Invitiamo i signori Allenatori più esperti[0x000A]ad approfittare dell’occasione.
+Gentili signori ospiti del Castello Lotta...{0xBE01}[0x000A]Vi annunciamo una grande gioia!{0xBE01}[0x000A]Oggi è giunta a deliziarci con la sua presenza[0x000A]la sublime {0xFF00,0x0001}Duchessa {0xFF00,0x0000}{0x0100,0x0002}.{0xBE01}[0x000A]Preghiamo gli onorevoli ospiti di accoglierla[0x000A]con un grande applauso.{0xBE01}[0x000A]Siamo certi che la {0xFF00,0x0001}Duchessa {0xFF00,0x0000}saprà regalare[0x000A]a tutti lotte di livello eccelso.
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+{0xBDFF:0x0036}
+{0xBDFF:0x0037}
+Sniff... Sniff...[0x000A]Quanto ho aspettato questo momento...{0xBE01}[0x000A]Il mio cuore è colmo di una tale felicità[0x000A]che non trovo le parole...{0xBE01}[0x000A]Sniff... Sincere felicitazioni...{0xBE01}[0x000A]Le auguro dal profondo del cuore[0x000A]un duraturo successo nelle lotte{0xBE00}[0x000A]in qualità di {0xFF00,0x0001}Granduchessa{0xFF00,0x0000}.
+Benvenuto al Castello Lotta.[0x000A]Posso esserle utile,{0xBE00}[0x000A]{0xFF00,0x0001}Visconte {0xFF00,0x0000}{0x0100,0x0000}?
+Benvenuto al Castello Lotta.{0xBE01}[0x000A]È un piacere averla di nuovo fra noi,[0x000A]{0xFF00,0x0001}Conte {0xFF00,0x0000}{0x0100,0x0000}!{0xBE00}[0x000A]Posso esserle utile?
+Benvenuto al Castello Lotta.{0xBE01}[0x000A]Eravamo ansiosi di rivederla,[0x000A]{0xFF00,0x0001}Marchese{0xFF00,0x0000} {0x0100,0x0000}!{0xBE00}[0x000A]Posso esserle utile?
+Benvenuto al Castello Lotta.{0xBE01}[0x000A]Siamo davvero onorati di averla di nuovo fra noi,[0x000A]{0xFF00,0x0001}Duca {0xFF00,0x0000}{0x0100,0x0000}.{0xBE00}[0x000A]Posso esserle utile?
+Benvenuta al Castello Lotta.[0x000A]Cosa posso fare per lei,{0xBE00}[0x000A]{0xFF00,0x0001}Baronessa {0xFF00,0x0000}{0x0100,0x0000}?
+Benvenuta al Castello Lotta.[0x000A]Cosa posso fare per lei,{0xBE00}[0x000A]{0xFF00,0x0001}Viscontessa {0xFF00,0x0000}{0x0100,0x0000}?
+Benvenuta al Castello Lotta.{0xBE01}[0x000A]È un piacere averla di nuovo fra noi,[0x000A]{0xFF00,0x0001}Contessa {0xFF00,0x0000}{0x0100,0x0000}!{0xBE00}[0x000A]Posso esserle utile?
+Benvenuta al Castello Lotta.{0xBE01}[0x000A]Eravamo ansiosi di rivederla,[0x000A]{0xFF00,0x0001}Marchesa{0xFF00,0x0000} {0x0100,0x0000}!{0xBE00}[0x000A]Posso esserle utile?
+Benvenuta al Castello Lotta.{0xBE01}[0x000A]Siamo davvero onorati di averla di nuovo fra noi,[0x000A]{0xFF00,0x0001}Duchessa {0xFF00,0x0000}{0x0100,0x0000}.{0xBE00}[0x000A]Posso esserle utile?
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+Benvenuto al Castello Lotta.{0xBE01}[0x000A]È per me un onore supremo incontrarla,[0x000A]{0xFF00,0x0001}Granduca {0xFF00,0x0000}{0x0100,0x0000}.{0xBE00}[0x000A]Posso esserle utile?
+Benvenuta al Castello Lotta.{0xBE01}[0x000A]È per me un onore supremo incontrarla,[0x000A]{0xFF00,0x0001}Granduchessa {0xFF00,0x0000}{0x0100,0x0000}.{0xBE00}[0x000A]Posso esserle utile?
+Sono spiacente, ma è già stato emesso[0x000A]un invito argento.
+Sono spiacente, ma è già stato emesso[0x000A]un invito oro.
+Sono spiacente, ma è già stata emessa[0x000A]una lettera di sfida.
+Sono spiacente, ma è già stata emessa[0x000A]una lettera di sfida blu.
+Sono spiacente, ma è già stata emessa[0x000A]una lettera di sfida rossa.
+Sono spiacente, ma è già stata emessa[0x000A]una lettera di sfida nera.
+Gentili signori ospiti del Castello Lotta...[0x000A]È finalmente giunto il momento tanto atteso!{0xBE01}[0x000A]Abbiamo il piacere di accogliere nel nostro castello[0x000A]la detentrice del supremo titolo nobiliare{0xBE00}[0x000A]e incomparabile esempio di maestria.{0xBE01}[0x000A]Signori, la {0xFF00,0x0001}Granduchessa {0xFF00,0x0000}{0x0100,0x0002}...{0xBE01}[0x000A]Impossibile esprimere a parole la magnificenza[0x000A]di cotanta nobiltà...{0xBE01}[0x000A]Invito gli onorevoli ospiti ad approfittare[0x000A]di questa occasione irripetibile.
+Eccellente. Un{0x1100,0x00FF,0x0706} degnoa degna esponente della nobiltà.[0x000A]La ringrazio umilmente per la sua benevolenza.
+... ... ...
+Nobile {0x0100,0x0000}, la sua gentilezza[0x000A]riempie di gioia un umile servitore come me.
+... ... ...
+Devo informarla che è già stata emessa[0x000A]una lettera di invito.{0xBE01}[0x000A]Vuole proseguire con questo nuovo invio?
+Devo informarla che è già stato emesso[0x000A]un invito argento.{0xBE01}[0x000A]Vuole proseguire con questo nuovo invio?
+Devo informarla che è già stata emessa[0x000A]una lettera di sfida.{0xBE01}[0x000A]Vuole proseguire con questo nuovo invio?
+Devo informarla che è già stata emessa[0x000A]una lettera di sfida blu.{0xBE01}[0x000A]Vuole proseguire con questo nuovo invio?
+Devo informarla che è già stata emessa[0x000A]una lettera di sfida rossa.{0xBE01}[0x000A]Vuole proseguire con questo nuovo invio?
+Devo informarla che è già stata emessa[0x000A]una lettera di sfida nera.{0xBE01}[0x000A]Vuole proseguire con questo nuovo invio?
+In cosa posso esserle utile?
+Posso fare qualcosa per lei?
+{0xFF00,0x0001}Barone{0xFF00,0x0000}
+{0xFF00,0x0001}Visconte{0xFF00,0x0000}
+{0xFF00,0x0001}Conte{0xFF00,0x0000}
+{0xFF00,0x0001}Marchese{0xFF00,0x0000}
+{0xFF00,0x0001}Duca{0xFF00,0x0000}
+{0xFF00,0x0001}Granduca{0xFF00,0x0000}
+{0xFF00,0x0001}Baronessa{0xFF00,0x0000}
+{0xFF00,0x0001}Viscontessa{0xFF00,0x0000}
+{0xFF00,0x0001}Contessa{0xFF00,0x0000}
+{0xFF00,0x0001}Marchesa{0xFF00,0x0000}
+{0xFF00,0x0001}Duchessa{0xFF00,0x0000}
+{0xFF00,0x0001}Granduchessa{0xFF00,0x0000}

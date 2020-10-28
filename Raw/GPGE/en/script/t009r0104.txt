@@ -1,0 +1,6 @@
+msg_t009r0104_bg_01=This seems to be a machine that is cold on[0x000A]the inside!
+msg_t009r0104_bg_02=The device is warm to the touch.
+msg_t009r0104_researcher_01=All matter is made up of tiny molecules![0x000A]It’s like how [0xE300]100 is a collection of lots of [0xE300]1.
+msg_t009r0104_researcher_02=Maybe when I become a fossil they’ll revive[0x000A]me in the distant future.
+msg_t009r0104_researcher_03=My eyes get so tired when I look at a computer[0x000A]for too long.{0xBE01}[0x000A]Resting your eyes is really important, you know!
+test_00={0xBDFF:0x0005}

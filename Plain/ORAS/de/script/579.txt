@@ -1,0 +1,37 @@
+Na, was haben wir denn hier? Kundschaft, und dann auch noch so energiegeladene! Wer ich bin? Nenn mich einfach Radla. Ich bin der Besitzer dieses Radladens.
+Deine Schuhe sehen ja wirklich schmuddelig aus. Kommst du von weit her?
+Ach, echt? Na, dann könntest du wahrscheinlich auch nichts mit einem meiner Fahrräder anfangen...
+Hui... Du bist wirklich den weiten Weg von Wurzelheim bis hierher gekommen? Meine Güte! Das muss ja ein richtiger Gewaltmarsch gewesen sein! Mit einem meiner Räder wärst du ein ganzes Stück flexibler und könntest unterwegs auch noch eine sanfte Brise auf der Haut genießen. Weißt du was? Ich schenk dir eins meiner Räder! Aber nicht so schnell! Es gibt nämlich zwei verschiedene Modelle von Fahrrädern, das Eilrad und das Kunstrad. Eilräder sind für Leute, die den Wind in den Haaren spüren wollen. Kunsträder dagegen sind für diejenigen, die alle Techniken des Radfahrens beherrschen wollen. Und weil ich so großzügig bin, darfst du dir sogar aussuchen, welches Modell du gerne haben möchtest. Also, für welches Fahrrad entscheidest du dich?
+Eilrad
+Kunstrad
+
+<var> wählt das Eilrad.
+<var> wählt das Kunstrad.
+Wenn du im Nachhinein doch lieber ein anderes Modell hättest, dann sprich mich einfach an!
+Oh, hättest du doch lieber ein anderes Modell?
+Kein Problem! Ich tausche die Räder für dich aus.
+<var> tauscht seinihr Eilrad gegen ein Kunstrad aus.
+<var> tauscht seinihr Kunstrad gegen ein Eilrad aus.
+Oh, dann bist du also mit deinem Fahrrad zufrieden? Das hört man gern!
+
+Sei gegrüßt, ich hab schon auf dich gewartet! Ich muss mich bei dir bedanken. Deine Touren landauf, landab auf einem meiner Fahrräder waren die beste Werbung für meinen Laden! Die Kunden geben sich mittlerweile die Klinke in die Hand. Bei so viel Nachfrage weiß ich manchmal gar nicht mehr, wo mir der Kopf steht! Als kleines Dankeschön möchte ich dir zusätzlich noch das andere Modell geben!
+Möge dir im Laufe deines Abenteuers allzeit ein kräftiger Rückenwind den nötigen Antrieb verleihen!
+Ich lese bei der Arbeit immer schlaue Bücher über Räder. Ein paar davon findest du im Hinterzimmer. Wenn du irgendwas über das Thema Radfahren wissen willst, kannst du gerne mal darin blättern!
+Ein Handbuch für Eilräder. Welches Kapitel möchtest du lesen?
+Mithilfe des Steuerkreuzes oder des Schiebepads lässt sich das Rad in Bewegung setzen und lenken. Lass das Steuerkreuz oder das Schiebepad los, um das Rad anzuhalten. Ein anderes Kapitel lesen?
+Ein Eilrad ist sehr schnell und kann nicht sofort angehalten werden. Lass das Steuerkreuz oder das Schiebepad los, kurz bevor du an die Stelle gelangst, an der du anhalten möchtest, und das Rad kommt dort zum Stillstand. Ein anderes Kapitel lesen?
+In der ganzen Hoenn-Region gibt es sandige Gefälle. Der lose Sand macht es unmöglich, diese Gefälle normal zu erklimmen. Aber mit einem Eilrad können auch diese Gefälle gemeistert werden. Ein anderes Kapitel lesen?
+Steuerung
+Anhaltetechnik
+Sandgefälle
+Abbrechen
+Ein Handbuch für Kunsträder. Welches Kapitel möchtest du lesen?
+Drücke während des Fahrens den B-Knopf, um das Vorderrad anzuheben. Mithilfe des Steuerkreuzes oder des Schiebepads kannst du so mit angehobenem Vorderrad herumfahren. Diese Technik nennt sich Wheelie. Ein anderes Kapitel lesen?
+Hältst du den B-Knopf gedrückt, kannst du während eines Wheelies auf der Stelle hüpfen. Diese Technik nennt sich Hoppeln. Setzt du sie während des Fahrens ein, kannst du so zum Beispiel Trittsteine an Anhöhen überwinden. Ein anderes Kapitel lesen?
+Drücke auf dem Kunstrad gleichzeitig den B-Knopf und das Steuerkreuz oder das Schiebepad, um zu springen. Drücke das Steuerkreuz oder schiebe das Schiebepad nach links beziehungsweise rechts, um einen seitlichen Sprung auszuführen. Drücke beziehungsweise schiebe es nach hinten, um im Sprung die Richtung zu ändern. Nutze diese Technik, um dich an Orten, die von schmalen Spuren durchzogen sind, springend fortzubewegen. Ein anderes Kapitel lesen?
+Wheelies
+Hoppeln
+Sprünge
+Abbrechen
+Auf dem Schild steht: „Reiserad – Direktimport aus Kalos (Ausstellungsstück)!"
+Schraubenzieher und Sechskantschlüssel liegen hier wahllos herum.

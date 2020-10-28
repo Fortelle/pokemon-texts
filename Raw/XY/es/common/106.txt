@@ -1,0 +1,58 @@
+¡Te damos la bienvenida a Sincronizar Juego!{0xBE01}[0x000A]Con esta función podrás sincronizar el sitio[0x000A]web oficial de Pokémon Global Link con tus{0xBE00}[0x000A]juegos Pokémon X y Pokémon Y.{0xBE01}[0x000A]Para ello, es necesario que registres en[0x000A]Pokémon Global Link el ID para Sincronizar{0xBE00}[0x000A]que obtendrás en Pokémon X o Pokémon Y.{0xBE01}[0x000A]Una vez registrado, podrás acceder a multitud[0x000A]de servicios.{0xBE01}[0x000A]Si quieres obtener más información sobre los[0x000A]pasos a seguir, selecciona “Información”.{0xBE01}
+No se ha podido realizar la sincronización.{0xBE01}[0x000A]El ID para Sincronizar no está registrado en el[0x000A]sitio web de Pokémon Global Link.{0xBE01}[0x000A]Accede a Pokémon Global Link e introduce tu[0x000A]ID para Sincronizar.{0xBE01}
+¿Quieres generar un ID para Sincronizar que[0x000A]te permita utilizar Sincronizar Juego?
+Conectando...[0x000A]Por favor, espera.
+Guardando...[0x000A]No apagues la consola.
+¡Tu ID para Sincronizar se ha activado!{0xBE01}[0x000A]A continuación, regístralo en el sitio web de[0x000A]Pokémon Global Link.{0xBE01}[0x000A]Cuando hayas terminado el registro, podrás[0x000A]usar la función Sincronizar Juego.{0xBE01}[0x000A]Actualmente, la configuración de Sincronizar[0x000A]Juego para este juego es la siguiente:{0xBE00}[0x000A]la sincronización automática está activada y{0xBE00}[0x000A]tus Poké Millas se enviarán automáticamente.{0xBE01}[0x000A]Puedes cambiar esta configuración en[0x000A]cualquier momento seleccionando “Opciones”.{0xBE01}[0x000A]Si quieres obtener más información sobre los[0x000A]pasos a seguir, selecciona “Información”.{0xBE01}
+Has cambiado la configuración de Sincronizar[0x000A]Juego.{0xBE01}
+{0xBDFF:0x0007}
+Se ha interrumpido Sincronizar Juego debido al[0x000A]elevado volumen de tráfico del servidor.{0xBE01}[0x000A]Vuelve a intentarlo más tarde.
+Se ha interrumpido la emisión de tu ID para[0x000A]Sincronizar porque el servidor está{0xBE00}[0x000A]experimentando un volumen de tráfico{0xBE00}[0x000A]demasiado elevado.{0xBE01}[0x000A]Inténtalo de nuevo más tarde.
+{0xBDFF:0x000A}
+Sincronizando el juego...[0x000A]No apagues la consola.
+{0xBDFF:0x000C}
+¡Sincronización completada!
+{0xBDFF:0x000E}
+Sí
+No
+¡Te damos la bienvenida a Sincronizar Juego!
+Generar ID para Sincronizar
+Información
+Sincronizar
+Opciones
+{0xBDFF:0x0016}
+¿Qué es Sincronizar Juego?
+Preparativos para Sincronizar Juego
+¿Qué es Sincronizar Juego?
+Preparativos para Sincronizar Juego
+Pasos a seguir para Sincronizar Juego
+Opciones
+Sincronización automática
+Activada
+Desactivada
+Poké Millas
+Enviar todas
+No enviar
+Instrucciones sobre Sincronizar Juego
+ID para Sincronizar
+Accede al sitio web oficial de Pokémon Global Link e[0x000A]introduce el ID para Sincronizar que aparece en la[0x000A]pantalla para registrarlo.[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+— Historial de Sincronizar Juego —[0x000A]Usaste Sincronizar Juego el {0xFF00,0x0002}{0x0201,0x0002}-{0x0201,0x0001}-20{0x0201,0x0000}{0xFF00,0x0000}.[0x000A]Hora: {0xFF00,0x0002}{0x0201,0x0003}:{0x0201,0x0004}{0xFF00,0x0000}[0x000A]Objetos distintos recibidos: {0xFF00,0x0002}{0x0202,0x0005}{0xFF00,0x0000}[0x000A][0x000A]— Pokémon Global Link —[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+{0x0200,0x0000}/{0x0200,0x0001}
+El ID para Sincronizar que aparece en la pantalla se ha[0x000A]registrado en el sitio web de Pokémon Global Link[0x000A][0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+— Historial de Sincronizar Juego —[0x000A]Usaste Sincronizar Juego el {0xFF00,0x0002}{0x0201,0x0002}-{0x0201,0x0001}-20{0x0201,0x0000}{0xFF00,0x0000}.[0x000A]Hora: {0xFF00,0x0002}{0x0201,0x0003}:{0x0201,0x0004}{0xFF00,0x0000}[0x000A]{0xFF00,0x0002}[0x000A]{0xFF00,0x0000}— Pokémon Global Link —[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+Con Sincronizar Juego podrás conectar tus[0x000A]juegos Pokémon X y Pokémon Y con el sitio[0x000A]web de Pokémon Global Link:[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}[0x000A]Transfiere tu partida guardada mediante[0x000A]Sincronizar Juego.
+Al usar Pokémon Global Link puedes consultar[0x000A]tus datos de Pokémon X y Pokémon Y, así[0x000A]como conseguir objetos.[0x000A]Puedes mandar los objetos que obtengas a[0x000A]Pokémon X o Pokémon Y mediante la función[0x000A]Sincronizar Juego.
+Sigue los siguientes pasos para utilizar la[0x000A]función Sincronizar Juego:[0x000A][0x000A]1. Selecciona “Generar ID para Sincronizar”[0x000A]en la pantalla principal de Sincronizar Juego y[0x000A]obtendrás tu ID para Sincronizar.
+2. Accede al sitio web oficial de Pokémon[0x000A]Global Link, {0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000} y[0x000A]registra tu ID para Sincronizar.[0x000A]Cuando lo hayas hecho, habrás concluido con[0x000A]los preparativos necesarios para usar[0x000A]Sincronizar Juego.
+Necesitas una cuenta en Pokémon Global Link[0x000A]para poder registrar tu ID para Sincronizar.[0x000A]Para obtener más información, visita el sitio[0x000A]web oficial de Pokémon Global Link.
+Con Sincronizar Juego podrás conectar tus[0x000A]juegos Pokémon X y Pokémon Y con el sitio[0x000A]web de Pokémon Global Link:[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}[0x000A]Transfiere tu partida guardada mediante[0x000A]Sincronizar Juego.
+Al usar Pokémon Global Link puedes consultar[0x000A]tus datos de Pokémon X y Pokémon Y, así[0x000A]como conseguir objetos.[0x000A]Puedes mandar los objetos que obtengas a[0x000A]Pokémon X o Pokémon Y mediante la función[0x000A]Sincronizar Juego.
+Visita el sitio web de Pokémon Global Link,[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000} y registra tu[0x000A]ID para Sincronizar para poder usar la función[0x000A]Sincronizar Juego.
+Necesitas una cuenta en Pokémon Global Link[0x000A]para poder registrar tu ID para Sincronizar.[0x000A]Para obtener más información, visita el sitio[0x000A]web oficial de Pokémon Global Link.
+Al seleccionar “Sincronizar”, comenzará[0x000A]la conexión con Pokémon Global Link.[0x000A]Ten en cuenta que si no has registrado antes[0x000A]tu ID para Sincronizar, no podrás conectarte[0x000A]al sitio web ni disfrutar de sus servicios.
+Si tienes la sincronización automática activada[0x000A]en “Opciones” y el PSS está conectado a[0x000A]internet, se sincronizará cada vez que guardes[0x000A]la partida desde el menú principal.
+Podrás transferir a Pokémon Global Link las[0x000A]Poké Millas que hayas acumulado con[0x000A]Sincronizar Juego. Dentro de “Opciones”,[0x000A]podrás seleccionar si quieres “Enviar todas” o[0x000A]“No enviar”.
+Con Sincronizar Juego, también podrás enviar[0x000A]a un Centro Pokémon los objetos que hayas[0x000A]conseguido en Pokémon Global Link.[0x000A]Habla con la repartidora que aparecerá en el[0x000A]Centro Pokémon para recibirlos.
+Sincronizar Juego también te permite enviar a[0x000A]Pokémon Global Link las fotos que te haga[0x000A]el fotógrafo Marco Carrete.[0x000A]Para ello, prueba a usar Sincronizar Juego[0x000A]después de una sesión de fotos.
+En la tarjeta SD de tu consola Nintendo 3DS[0x000A]solo podrás guardar una foto para enviar con[0x000A]Sincronizar Juego. Por tanto, si haces otra foto[0x000A]antes de enviar la que ya tienes, se perderá la[0x000A]que tenías guardada.
+{0xBDFF:0x0039}

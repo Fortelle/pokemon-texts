@@ -1,0 +1,17 @@
+msg_sub015_partner_a_01=Piiika!
+msg_sub015_partner_b_01=Eeeevee!
+msg_sub015_system_01={0x0102,0x0003} seems very excited!
+msg_sub015_system_02=It seems like {0x0102,0x0003} wants to see[0x000A]what’s up ahead on the ship!
+msg_sub015_partner_a_02=Pika pi!
+msg_sub015_partner_b_02=Eevee!
+msg_sub015_partner_a_03=Piiii.
+msg_sub015_partner_b_03=Veee.
+msg_sub015_system_03=You gaze over the wide open sea together[0x000A]with {0x0102,0x0003}.
+msg_sub015_system_04={0x0102,0x0003} seems really happy!
+msg_sub015_angler_01={0xBDFF:0x000A}
+msg_sub015_angler_02={0xBDFF:0x000B}
+msg_sub015_sys_01={0xBDFF:0x000C}
+msg_sub015_angler_03={0xBDFF:0x000D}
+msg_sub015_angler_04={0xBDFF:0x000E}
+msg_sub015_angler_05={0xBDFF:0x000F}
+msg_fishing1_01_p07_t006_r0101={0xBDFF:0x0010}

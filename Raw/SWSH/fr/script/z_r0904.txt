@@ -1,0 +1,2 @@
+msg_r0904_poke1_01_pop={0xBDFF:0x0000}
+msg_r0904_camp_01=Des rumeurs racontent que Campking, le roi[0x000A]du camping, se trouve dans les Terres Sauvages !{0xBE00}[0x000A]Tu l’as déjà rencontré ?{0xBE01}[0x000A]Il paraît qu’il peut changer la teinte[0x000A]des tentes et évaluer le Currydex !{0xBE01}[0x000A]Mais tu as l’air fatigué{0x1100,0x00FF,0x0100}e. Tu as froid ?[0x000A]Viens donc sur mon campement !

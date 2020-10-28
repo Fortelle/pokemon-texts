@@ -1,0 +1,10 @@
+msg_main_0450_water_01={0xFF00,0x0009}Misty:{0xFF00,0x0000} Hallo, du!
+msg_main_0450_water_02=Wow, du hast also echt Major Bob besiegt?[0x000A]Reife Leistung! Du lässt nichts anbrennen, was?{0xBE01}[0x000A]Dann hast du dir auch ein Päuschen verdient!
+msg_main_0450_sys_01=Misty hat dein Pokémon wieder fit gemacht!
+msg_main_0450_sys_02=Misty hat deine Pokémon wieder fit gemacht!
+msg_main_0450_water_03={0xFF00,0x0009}Misty:{0xFF00,0x0000} Hm? Warum ich nicht in der Arena bin?{0xBE01}[0x000A]Ach, ich dachte mir, ich schwimme mal wieder[0x000A]ins Meer raus.{0xBE01}[0x000A]Manchmal wird mir mein kleines Schwimmbad[0x000A]einfach zu eng, weißt du?{0xBE01}[0x000A]An solchen Tagen muss ich die salzigen Wellen[0x000A]der weiten See um mich spüren.
+msg_main_0450_water_04=Aber wo willst du eigentlich hin?{0xBE01}[0x000A]Du bist nicht zufällig auf dem Weg in die[0x000A]Digda-Höhle? Die liegt ganz in der Nähe.{0xBE01}[0x000A]Wenn du willst, zeige ich dir gerne den Weg.
+msg_main_0450_water_05=Ach, {0x1100,0x00FF,0x0E0E,0x0000}der feine Herrdie feine Dame hat was Besseres vor?[0x000A]Bitte, mehr als anbieten kann ich’s dir nicht.
+msg_main_0450_water_06=Alles klar, dann mal los!
+msg_main_0450_water_07={0xFF00,0x0009}Misty:{0xFF00,0x0000} Da wären wir! Das ist die Digda-Höhle.[0x000A]Sie heißt so, weil sie von Digda gegraben wurde.{0xBE01}[0x000A]So, ich mach mich auf den Weg. Ich hoffe, du[0x000A]begegnest hier vielen, vielen tollen Pokémon!
+msg_main_0450_water_08={0xBDFF:0x0009}

@@ -1,0 +1,59 @@
+This is the counter for premium Berry Juice.[0x000A]This juice is perfect for your precious Pokémon.{0xBE01}[0x000A]Now, have a look at today’s juice menu.
+Welcome to the counter for premium Berry Juice.{0xBE01}[0x000A]Have a look at today’s juice menu.
+I’m sorry, but juice here is[0x000A]available only once a day...{0xBE01}[0x000A]Please come again tomorrow.
+The {0x0198,0x0003} is ${0x0206,0x0001,0x002C}.[0x000A]Would you like to order it for your Pokémon?
+Um...[0x000A]You can’t give it to an Egg.
+Oh my...[0x000A]You don’t seem to have enough money.
+Did your Pokémon enjoy today’s juice?[0x000A]I’ll prepare a different delicious juice tomorrow.
+I see...[0x000A]Please come again.
+All right.[0x000A]I’ll take ${0x0206,0x0001,0x002C}, then.
+{0x0198,0x0003} ${0xBD03,0x0000}{0x0204,0x0002,0x002C}
+Quit
+Hello! This is the counter for[0x000A]fresh Berry Juice!{0xBE01}[0x000A]I’ll make an original juice by[0x000A]combining two of your Berries.{0xBE01}[0x000A]Shall I make a juice for your Pokémon?
+Hiya! Welcome to the counter[0x000A]for fresh Berry Juice!{0xBE01}[0x000A]Shall I make a juice using your Berries?
+I’m sorry, but I can make it[0x000A]only once a day...{0xBE01}[0x000A]Please come again tomorrow.
+Oh my. There’s a bit of a problem...[0x000A]You don’t have enough Berries!{0xBE01}[0x000A]To make juice, you need two Berries.
+All right! Please choose Berries to blend.
+Hmmm. {0x1303,0x0001}{0x0109,0x0001}.[0x000A]It’s a great choice!{0xBE01}[0x000A]Now, please choose another Berry to blend!
+Hmm. {0x1303,0x0001}{0x0109,0x0001}.[0x000A]It’s another great choice!
+Oh, you chose {0x1302,0x0001}{0x0109,0x0001} again.[0x000A]You certainly know what you want!
+Blending, mixing...
+Mixing, blending...
+Ta-da![0x000A]Here’s a fresh {0x0198,0x0003}!{0xBE01}[0x000A]Which Pokémon will you give this to?
+What?! Don’t you want it?[0x000A]I’ll drink it, then. Are you sure?
+Tee hee! You’re funny![0x000A]You can’t give it to an Egg.
+All right![0x000A]I’ll drink it, then.{0xBE01}[0x000A]Gulp!{0xBE01}[0x000A]Ahhhh![0x000A]Thank you very much!
+Did your Pokémon like it?[0x000A]Please come back again!
+Hmmm... That’s too bad...[0x000A]Please come back again.
+{0x0102,0x0000} drank[0x000A]the {0x0198,0x0003}!
+{0x0102,0x0000} is happy now!
+{0x0102,0x0000} is really happy now!
+{0x0102,0x0000} is extremely happy now!
+{0x0102,0x0000}’s base HP went up by {0x0201,0x0001}!
+{0x0102,0x0000}’s base Attack stat went up[0x000A]by {0x0201,0x0001}!
+{0x0102,0x0000}’s base Defense stat went up[0x000A]by {0x0201,0x0001}!
+{0x0102,0x0000}’s base Sp. Atk stat went up[0x000A]by {0x0201,0x0001}!
+{0x0102,0x0000}’s base Sp. Def stat went up[0x000A]by {0x0201,0x0001}!
+{0x0102,0x0000}’s base Speed stat went up[0x000A]by {0x0201,0x0001}!
+{0x0102,0x0000}’s level was elevated by {0x0201,0x0001}!
+{0x0102,0x0000}’s base stats became zero!
+Colorful Shake
+Yellow Juice
+Red Juice
+Purple Juice
+Pink Juice
+Blue Juice
+Green Juice
+Rare Soda
+Ultra Rare Soda
+Perilous Soup
+You’d like the Colorful Shake.{0xBE01}[0x000A]Contrary to the vivid color,[0x000A]it has a surprisingly mild taste.{0xBE01}[0x000A]The Pokémon that drinks it will be friendlier...
+You’d like the Yellow Juice.{0xBE01}[0x000A]It has a warm and gentle taste that makes[0x000A]you feel as if you’re wrapped in sunlight.{0xBE01}[0x000A]The base Defense stat of the Pokémon[0x000A]that drinks it will go up.
+You’d like the Red Juice.{0xBE01}[0x000A]Pokémon feel invigorated before they know it.[0x000A]It has a vivid and stimulating taste.{0xBE01}[0x000A]The base Attack stat of the Pokémon[0x000A]that drinks it will go up.
+You’d like the Purple Juice.{0xBE01}[0x000A]It’s gentle but powerful...[0x000A]It has a deep and distinct taste.{0xBE01}[0x000A]The base HP of the Pokémon[0x000A]that drinks it will go up.
+You’d like the Pink Juice.{0xBE01}[0x000A]It goes down really well.[0x000A]It has a light aroma and taste.{0xBE01}[0x000A]The base Speed stat of the Pokémon[0x000A]that drinks it will go up.
+You’d like the Blue Juice.{0xBE01}[0x000A]It has a bitter and mature, yet fresh and[0x000A]delicate taste.{0xBE01}[0x000A]The base Sp. Atk stat of the Pokémon[0x000A]that drinks it will go up.
+You’d like the Green Juice.{0xBE01}[0x000A]It’s like a deep forest spread in front of you.[0x000A]It has an irresistible, slightly bitter taste.{0xBE01}[0x000A]The base Sp. Def stat of the Pokémon[0x000A]that drinks it will go up.
+You’d like the Rare Soda.{0xBE01}[0x000A]The taste opens up the door to a new world.[0x000A]It’s an unknown taste, so to speak.{0xBE01}[0x000A]The level of the Pokémon that drinks it will go up!
+You’d like the Ultra Rare Soda.{0xBE01}[0x000A]It has a taste like the big bang that makes you[0x000A]feel the beginning--and the end--of the universe.{0xBE01}[0x000A]The level of the Pokémon that drinks it will go up!
+You’d like the Perilous Soup.{0xBE01}[0x000A]It’s a scary and dangerous taste[0x000A]that reduces everything to nothing...{0xBE01}[0x000A]The base stats of the Pokémon that drinks it[0x000A]will be zero, nada, zilch, nil!

@@ -1,0 +1,8 @@
+msg_main0960_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¡Guau, {0x0100,0x0000}![0x000A]¿Has vencido a Giovanni?
+msg_main0960_rival_02=Lo digo porque perseguí al tal Atlas hasta la[0x000A]calle...{0xBE01}[0x000A]¡Y vi como los del Team Rocket salían[0x000A]despavoridos de Ciudad Azafrán!
+msg_main0960_rival_03=Menos mal que lo tienes todo controlado,[0x000A]{0x0100,0x0000}.
+msg_main0960_rival_07=A mí me daba un poco de miedo.{0xBE01}[0x000A]¿Qué habría pasado si los malos hubiesen sido[0x000A]más fuertes?{0xBE01}[0x000A]¡Brrr! ¡No quiero ni pensarlo!
+msg_main0960_rival_08=Me alegro de haberte tenido a mi lado para[0x000A]salvar a Silph, {0x0100,0x0000}.{0xBE01}[0x000A]Ya nadie más tendrá que pasar por lo mismo[0x000A]que Cubone.
+msg_main0960_rival_04=¡Vale! Ahora que vuelve a reinar la paz, voy a[0x000A]seguir mi periplo por los Gimnasios Pokémon.{0xBE01}[0x000A]¿Tú te has pasado por el de {0xFF00,0x0006}Ciudad Azafrán{0xFF00,0x0000},[0x000A]{0x0100,0x0000}? ¿Cuántas medallas tienes ya?{0xBE01}[0x000A]Guau, no está mal...
+msg_main0960_rival_05=¿Tú crees que conseguiremos llegar a la Liga[0x000A]Pokémon?
+msg_main0960_rival_06=¡No podemos dormirnos en los laureles!

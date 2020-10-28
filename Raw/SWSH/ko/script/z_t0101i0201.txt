@@ -1,0 +1,7 @@
+msg_t0101i0201_tv_01={0xBDFF:0x0000}
+msg_t0101i0201_bookshelf_01={0xBDFF:0x0001}
+msg_t0101i0201_refrigerator_01={0xBDFF:0x0002}
+msg_t0101i0201_sink_01={0xBDFF:0x0003}
+msg_t0101i0201_trophy_01={0xBDFF:0x0004}
+msg_t0101i0201_poke1_01_pop={0xBDFF:0x0005}
+msg_t0101i0201_npc1_01={0xBDFF:0x0006}

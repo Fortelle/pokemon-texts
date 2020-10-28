@@ -1,0 +1,13 @@
+msg_main0600_oldwoman_01={0xBDFF:0x0000}
+msg_main0600_sys_01_old={0xBDFF:0x0001}
+msg_main0600_oldwoman_02={0xBDFF:0x0002}
+msg_main0600_oldwoman_03={0xBDFF:0x0003}
+msg_main0600_rock_01={0xFF00,0x0009}Brock:{0xFF00,0x0000} Oh! Che sorpresa incontrarti qui!
+msg_main0600_rock_02=Io sono appena tornato dalla Palestra[0x000A]di Azzurropoli.{0xBE01}[0x000A]Sai, mantenere buoni rapporti[0x000A]tra Capipalestra è importantissimo!
+msg_main0600_rock_03=Per qualche motivo, però, non mi hanno[0x000A]fatto entrare...
+msg_main0600_rock_04=Avevo persino portato dei Plumbeosalatini[0x000A]come souvenir per la Capopalestra...{0xBE01}[0x000A]Beh, tieni! Prendili tu, {0x0100,0x0000}!
+msg_main0600_sys_01={0x0100,0x0000} riceve dei Plumbeosalatini[0x000A]da Brock!
+msg_main0600_rock_05=Ah, quasi dimenticavo! I Plumbeosalatini sono[0x000A]molto asciutti, quindi fanno venire sete...{0xBE01}[0x000A]Tieni, questo è per rinfrescarti la gola!
+msg_main0600_sys_02={0x0100,0x0000} riceve del {0xFF00,0x0006}Tè{0xFF00,0x0000} da Brock!
+msg_main0600_rock_07=Ops! Non ho più Tè da dare a quel[0x000A]guardiano assetato...
+msg_main0600_rock_06=Comunque... Vedo che stai facendo il giro[0x000A]delle Palestre di Kanto.{0xBE01}[0x000A]Bravissim{0x1100,0x00FF,0x0101}oa! Faccio il tifo per te!

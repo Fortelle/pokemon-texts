@@ -1,0 +1,5 @@
+msg_r016g0101_workerm1_01=La Piste Pokémon est un chemin en pente[0x000A]qui mène à la mer.{0xBE01}[0x000A]Arpente-la donc joyeusement avec ton Pokémon !
+msg_r016g0101_guard_01=Certains Pokémon volants permettent au Dresseur[0x000A]qu’ils accompagnent de monter sur leur dos.{0xBE01}[0x000A]D’ailleurs, la Piste Pokémon est assez dégagée[0x000A]pour leur permettre de prendre de l’altitude{0xBE00}[0x000A]en toute sécurité.
+msg_r016g0101_workerm1_01_nouse={0xBDFF:0x0002}
+msg_r016g0101_workerm1_02={0xBDFF:0x0003}
+msg_r016g0101_workerm1_03={0xBDFF:0x0004}

@@ -1,0 +1,76 @@
+Il terreno è soffice.
+Il terreno è soffice.[0x000A]Cosa vuoi fare?
+Qui è stato spruzzato il {0x0109,0x0006}!
+Che fertilizzante vuoi spruzzare?
+Spruzza il fertilizzante
+Pianta una bacca
+Non me ne intendo
+Vuoi spruzzare il fertilizzante?
+Ho cambiato idea
+Vuoi piantare una bacca?
+Hai spruzzato il {0x0109,0x0006} sul terreno.
+Hai piantato una {0x0109,0x0001}!
+È apparso un Pokémon!
+Sono cresciute delle erbacce.[0x000A]Vuoi strapparle?
+La pianta di {0x1001}{0x018E,0x0007} cresce sana.
+I boccioli della pianta di {0x1001}{0x018E,0x0007}[0x000A]sono in buona salute.
+I fiori della pianta di {0x1001}{0x018E,0x0007}[0x000A]sono rigogliosi.
+{0x0100,0x0005} ha strappato le erbacce!
+Qui è stata piantata una {0x0109,0x0001}!
+È spuntato un germoglio di {0x018E,0x0007}!
+La piantina di {0x1001}{0x018E,0x0007} cresce sana.
+La pianta di {0x1001}{0x018E,0x0007} è diventata grande!
+Sono spuntati dei boccioli di {0x018E,0x0007}!
+Sono spuntati dei fiori di {0x018E,0x0007}!
+Il terreno è asciutto...[0x000A]Bisogna annaffiarlo!
+Il terreno è umido.[0x000A]Non c’è bisogno di annaffiarlo.
+Il terreno è asciutto...[0x000A]Vuoi annaffiarlo?
+{0xBDFF:0x001B}
+Il terreno è stato annaffiato e ora è umido!
+La pianta di {0x1001}{0x0109,0x0001} ha prodotto[0x000A]{0x0201,0x0003} bacc{0x1101,0x0003,0x0201}ahe!
+Vuoi raccogliere le bacche?
+Prendi {0x0201,0x0003} bacc{0x1101,0x0003,0x0201}ahe dalla pianta[0x000A]di {0x1001}{0x0109,0x0001}!
+{0x0100,0x0005} non raccoglie nessuna bacca[0x000A]dalla pianta di {0x1001}{0x0109,0x0001}.
+La Borsa è piena. Non puoi raccogliere[0x000A]le bacche della pianta di {0x0109,0x0001}.
+Metti nella Borsa il raccolto della pianta[0x000A]di {0x1001}{0x0109,0x0001}.{0xBE01}[0x000A]Il terreno è tornato soffice.
+La pianta di {0x1001}{0x018E,0x0007} è appassita...{0xBE01}[0x000A]Oh...![0x000A]Tra le foglie appassite è spuntato un germoglio!
+Una mutazione ha prodotto anche[0x000A]bacche di tipo diverso!{0xBE01}[0x000A]Ci sono {0x0201,0x0003} {0x0109,0x0001}[0x000A]e {0x0201,0x0004} {0x0109,0x0002}!
+La Borsa è piena.[0x000A]Non puoi raccogliere le bacche.
+{0x0100,0x0005} non raccoglie le bacche.
+Hai raccolto {0x0201,0x0003} {0x0109,0x0001}[0x000A]e {0x0201,0x0004} {0x0109,0x0002}.
+Metti nella Borsa le bacche della[0x000A]pianta di {0x1001}{0x0109,0x0001}{0xBE00}[0x000A]e di {0x1001}{0x0109,0x0002}.{0xBE01}[0x000A]Il terreno è tornato soffice.
+{0x0109,0x0006}
+C’è un composter![0x000A]Sul coperchio ci sono le istruzioni...{0xBE01}[0x000A]“Metti tre bacche nel composter[0x000A]per produrre del fertilizzante.{0xBE01}[0x000A]Spruzza il fertilizzante sul terreno[0x000A]prima di piantare una bacca{0xBE00}[0x000A]per aiutarne la crescita.”{0xBE01}[0x000A]... ... ...{0xBE01}[0x000A]Vuoi usare delle bacche per[0x000A]produrre il fertilizzante?
+C’è un composter.{0xBE01}[0x000A]Vuoi usare delle bacche per[0x000A]produrre il fertilizzante?
+Sul coperchio del composter[0x000A]ci sono le istruzioni.{0xBE01}[0x000A]Per produrre il fertilizzante,[0x000A]servono tre bacche.
+Scegli la prima bacca.
+Scegli la seconda bacca.
+Scegli la terza bacca.
+{0x0100,0x0005} mette nel composter[0x000A]una {0x0109,0x0000},{0xBE00}[0x000A]una {0x0109,0x0001}{0xBE00}[0x000A]e una {0x0109,0x0002}!
+... ... ...
+{0x0100,0x0005} ottiene {0x0201,0x0003} {0x0109,0x0006}!
+È un pozzo.
+Ehi, signore...[0x000A]Vieni qui!
+Ehi, signorina...[0x000A]Vieni qui!
+Nonno! La squadra di quest{0x1100,0x00FF,0x0101}oa[0x000A]signor{0x1100,0x00FF,0x0301}eina è eccezionale!
+Senti...{0xBE01}[0x000A]Ho un grosso favore da chiederti.[0x000A]Vorrei che ti prendessi cura di questo{0xBE00}[0x000A]orto delle bacche.{0xBE01}[0x000A]Coltivare bacche è molto gratificante![0x000A]È come creare qualcosa dal nulla...!{0xBE01}[0x000A]Sono sicuro che ti ci appassionerai!
+Dai, fallo per me! Prenditi cura[0x000A]dell’orto delle bacche, per favore!
+Ti prego! Prenditi cura[0x000A]dell’orto delle bacche!
+Oh, benissimo![0x000A]Ehm... {0x0100,0x0000}, vero?{0xBE00}[0x000A]Grazie mille, {0x0100,0x0000}!
+Evviva![0x000A]Che fortuna, nonno!
+Ti spiego subito cosa devi fare.[0x000A]Seguimi.
+Nei punti in cui il terreno è soffice,[0x000A]puoi piantare delle bacche.{0xBE01}[0x000A]Esamina il terreno e scegli una[0x000A]bacca dalla Borsa per piantarla.{0xBE01}[0x000A]Tutto chiaro?[0x000A]Tieni, eccoti un po’ di bacche!
+Se trovi delle bacche ai piedi[0x000A]di un grande albero, vieni a piantarle qui!
+Dopo che hai piantato la bacca,[0x000A]devi annaffiare il terreno.{0xBE01}[0x000A]Tieni, avrai bisogno di questo!
+Controlla il terreno in cui hai piantato[0x000A]la bacca e, se è asciutto, annaffialo.{0xBE01}[0x000A]Se ti prendi cura dell’orto con dedizione,[0x000A]farai un bel raccolto!
+{0x0100,0x0000}, per fortuna[0x000A]sei arrivat{0x1100,0x00FF,0x0101}oa tu.{0xBE01}[0x000A]La mia povera schiena non sopporta più[0x000A]queste fatiche.{0xBE01}[0x000A]Allora ti affido l’orto delle bacche!
+Noi abitiamo in quella casa[0x000A]davanti all’orto.
+{0x0100,0x0000} riceve l’{0x0109,0x0001}!
+Piacere di conoscerti![0x000A]Sei {0x1100,0x00FF,0x0202}illa proprietari{0x1100,0x00FF,0x0101}oa di questo orto?
+Oh! È davvero un onore incontrarti!{0xBE01}[0x000A]Io conduco delle ricerche sulle[0x000A]mutazioni delle bacche.{0xBE01}[0x000A]Se scopri qualche mutazione, vieni a[0x000A]dirmelo per favore.{0xBE01}[0x000A]Sono nella casa davanti all’orto.
+Tu sei quell{0x1100,0x00FF,0x0101}oa che si prende cura[0x000A]di questo orto, vero?{0xBE01}[0x000A]Io conduco delle ricerche sulle[0x000A]mutazioni delle bacche.{0xBE01}[0x000A]Se scopri qualche mutazione, vieni a[0x000A]dirmelo per favore.{0xBE01}[0x000A]Sono nella casa davanti all’orto.
+Eccezionale! Il composter ha prodotto[0x000A]{0x0201,0x0003} sacc{0x1101,0x0003,0x0201}ohi di {0x0109,0x0006}!
+Peccato! Non hai più spazio per[0x000A]{0x1001}{0x0109,0x0006}!
+Hai rinunciato a mettere le bacche nel composter.
+Ehi, tu![0x000A]Aspetta un attimo!
+Tieni! Un altro pensierino[0x000A]da parte mia!

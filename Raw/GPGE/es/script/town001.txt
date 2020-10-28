@@ -1,0 +1,7 @@
+msg_town001_post_01=Casa de {0x0100,0x0000}
+msg_town001_post_02=Casa de {0x0100,0x0001}
+msg_town001_kanban_01=Pueblo Paleta[0x000A]Un lienzo en blanco para tu viaje.
+msg_town001_kanban_02=Laboratorio Pokémon del Profesor Oak
+msg_town001_youngf_01=¡Yo también entreno a mis Pokémon![0x000A]Cuando se hagan fuertes, me protegerán.
+msg_town001_fat_01=¡La tecnología es increíble!{0xBE01}[0x000A]¡Ahora puedes conectar tu teléfono inteligente[0x000A]a tu consola para transferir datos!
+msg_town001_test_01={0xBDFF:0x0006}

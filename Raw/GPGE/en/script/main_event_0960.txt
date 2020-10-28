@@ -1,0 +1,8 @@
+msg_main0960_rival_01={0x01CD,0x0001}: {0x0100,0x0000}, you did it![0x000A]You beat Giovanni, right?
+msg_main0960_rival_02=That Archer guy made a run for it, so I chased[0x000A]him all the way out here, and then...{0xBE01}[0x000A]all the Team Rocket Grunts ran right outta[0x000A]Saffron City, too!
+msg_main0960_rival_03=Guess we’re lucky you’re such a strong[0x000A]Trainer, {0x0100,0x0000}!
+msg_main0960_rival_07=To be honest, I was a little scared.{0xBE01}[0x000A]Like, what would have happened to us if it[0x000A]turned out the bad guys were the strongest,{0xBE00}[0x000A]you know?
+msg_main0960_rival_08=But you and me, {0x0100,0x0000}...[0x000A]We really managed to save Silph!{0xBE01}[0x000A]Nobody will have to go through what Cubone[0x000A]went through ever again!
+msg_main0960_rival_04=All right! Now that everything’s back to normal,[0x000A]I guess it’s time for the next Pokémon Gym!{0xBE01}[0x000A]Have you been to the {0xFF00,0x0006}Saffron City Gym{0xFF00,0x0000}[0x000A]already, {0x0100,0x0000}?{0xBE01}[0x000A]How many Badges have you got?{0xBE01}[0x000A]...That many, huh? Wow.
+msg_main0960_rival_05=Maybe we’ll both make it all the way to[0x000A]the Pokémon League!
+msg_main0960_rival_06=Let’s both give it our best shot![0x000A]See ya!

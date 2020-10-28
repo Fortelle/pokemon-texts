@@ -1,0 +1,10 @@
+ui_msg_xmenu_timeline_weather_00=Aggiornamento meteo: temporali[0x000A]sulle Terre Selvagge!
+ui_msg_xmenu_timeline_weather_01=Aggiornamento meteo: bufera di neve[0x000A]sulle Terre Selvagge!
+ui_msg_xmenu_timeline_weather_02=Aggiornamento meteo: tempesta di sabbia[0x000A]sulle Terre Selvagge!
+ui_msg_xmenu_timeline_weather_03=Aggiornamento meteo: fitta nebbia[0x000A]nelle Terre Selvagge!
+ui_msg_xmenu_timeline_suana_00=Avvistato un Pokémon Dynamax[0x000A]nelle Terre Selvagge!
+ui_msg_xmenu_timeline_pokejob_00=Un incarico del Poké Job è stato completato!
+ui_msg_xmenu_timeline_camp_00=Qui non è possibile accamparsi.
+ui_msg_xmenu_timeline_update_00={0xBDFF:0x0007}
+ui_msg_xmenu_timeline_communication_00=Ci sono persone che vogliono giocare[0x000A]tramite le Funzioni Y-Comm!
+ui_msg_xmenu_timeline_info_00=Vedi mappa

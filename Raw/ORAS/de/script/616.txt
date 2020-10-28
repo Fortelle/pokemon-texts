@@ -1,0 +1,123 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+Sag mal, hast du’s etwa alleine hierher geschafft?[0x000A]Wow, ich bin schwer beeindruckt!
+Hey, du hast ja schon ein Pokémon-Team![0x000A]Na, dann ist die Sache klar...
+Du willst bestimmt in meine Fußstapfen[0x000A]als Trainer treten, hab ich recht?{0xBE01}[0x000A]Da bin ich ja schon mal gespannt!
+Entschuldigung, ich... äh...[0x000A]Ich hätte gerne ein Pokémon...
+Hm? Wer...[0x000A]Ach, du bist Heiko, nicht wahr?
+Ja, genau...{0xBE01}[0x000A]Ich ziehe ab heute für eine Weile zu meinen[0x000A]Verwandten nach Wiesenflur und hätte gern{0xBE00}[0x000A]ein Pokémon als Begleiter.{0xBE01}[0x000A]Sie wissen schon, damit ich mich dort[0x000A]nicht so einsam fühle...
+Aber ich hab leider noch nie ein Pokémon gefangen.[0x000A]Ich weiß noch nicht mal, wie das überhaupt geht...
+Aha, verstehe...
+Hast du das gehört, {0x0100,0x0000}?{0xBE01}[0x000A]Hilf Heiko doch bitte dabei, ein Pokémon zu fangen!
+Hier, Heiko.[0x000A]Ich leih dir eins von meinen Pokémon.
+Heiko hat ein Zigzachs erhalten!
+Oh, wow!![0x000A]Ein Pokémon!
+Und diese Pokébälle bekommst du gleich noch dazu...[0x000A]Gib dein Bestes!
+Heiko hat einige Pokébälle erhalten!
+Wahnsinn![0x000A]Danke schön!
+Ähm...{0xBE01}[0x000A]Du heißt {0x0100,0x0000}, nicht wahr?{0xBE01}[0x000A]Es würde mich sehr freuen, wenn du mir bei meinem[0x000A]ersten Fang etwas über die Schulter schauen würdest.{0xBE00}[0x000A]Aber fühl dich bitte auch nicht dazu gezwungen!{0xBE01}[0x000A]Ich gehe schon mal voraus...
+Und?[0x000A]Hat alles geklappt?
+Ja, wunderbar!
+Ich gebe Ihnen Ihr Pokémon zurück.
+{0x0100,0x0000}, vielen Dank für deine Hilfe...
+Alleine hätte ich dieses Trasla nie gefangen.[0x000A]Ich werde mich gut darum kümmern! Ehrenwort!
+Ach ja![0x000A]Ich möchte mich noch irgendwie erkenntlich zeigen...{0xBE01}[0x000A]{0x0100,0x0000}, darf ich mal kurz[0x000A]dein Poké-Multi-Navi haben?
+Und... fertig!
+Heiko hat dein Poké-Multi-Navi erweitert!{0xBE01}[0x000A]Die Funktion Spiel-Navi wurde hinzugefügt!
+Mit dem Spiel-Navi kannst du deine Pokémon kraulen[0x000A]und besonderen Trainingslektionen unterziehen.{0xBE01}[0x000A]Über das PSS kannst du außerdem mit Freunden[0x000A]Pokémon-Kämpfe austragen und noch viel mehr.{0xBE00}[0x000A]So stand das zumindest in einem Buch...{0xBE01}[0x000A]Ich hab mich schon so darauf gefreut, endlich Zeit[0x000A]mit Pokémon verbringen zu können, dass ich mich über{0xBE00}[0x000A]die Funktionen des Poké-Multi-Navis schlaugemacht habe.{0xBE00}[0x000A]Hehehe...
+Trasla und ich werden immer unser Bestes geben.[0x000A]Ich hoffe, das gilt auch für dich, {0x0100,0x0000}!
+Wie spät ist es eigentlich?[0x000A]Meine Mama wartet bestimmt schon auf mich...{0xBE01}[0x000A]Ich muss nach Hause!{0xBE01}[0x000A]Bis bald, Arenaleiter Norman und {0x0100,0x0000}!
+Hmmm...[0x000A]Ich bin schon gespannt auf seinen Werdegang.{0xBE01}[0x000A]Aber jetzt zu uns, {0x1100,0x00FF,0x0B09,0x0000}SohnemannTöchterchen...
+{0x0100,0x0000}...!{0xBE01}[0x000A]Wenn du ein guter Trainer werden willst,[0x000A]höre auf meinen Rat.
+Nicht weit von hier befindet sich[0x000A]eine Stadt namens {0xFF00,0x0002}Metarost City{0xFF00,0x0000}.{0xBE01}[0x000A]Dort solltest du als Nächstes hin und[0x000A]die {0xFF00,0x0002}Arenaleiterin{0xFF00,0x0000} {0xFF00,0x0002}Felizia{0xFF00,0x0000} herausfordern.
+Danach besuchst du die anderen Pokémon-Arenen[0x000A]und versuchst, die jeweiligen Arenaleiter zu besiegen.{0xBE01}[0x000A]Für jeden besiegten Arenaleiter erhältst du einen Orden.
+Ich bin natürlich auch ein Arenaleiter.[0x000A]Eines Tages werden wir also gegeneinander kämpfen.{0xBE01}[0x000A]Aber vorher musst du noch um einiges[0x000A]stärker werden, {0x0100,0x0000}.
+Hm?[0x000A]Wolltest du nicht zur Arena in Metarost City?
+Für mich ist es keine Herausforderung,[0x000A]gegen {0x1100,0x00FF,0x0F0E,0x0000}einen Anfängereine Anfängerin wie dich anzutreten.{0xBE01}[0x000A]Ich möchte gegen dich kämpfen, wenn du[0x000A]stärker geworden bist, {0x0100,0x0000}.
+Komm wieder, wenn du, sagen wir... vier Orden besitzt.[0x000A]Dann werde ich gegen dich kämpfen!
+Sieh mal einer an...{0xBE01}[0x000A]Du hast also die Arenaleiterin von Metarost City besiegt.
+Aber es gibt da draußen noch viele Trainer,[0x000A]die stärker sind als du, {0x0100,0x0000}.
+Auf der anderen Seite des Meeres befindet sich[0x000A]eine Stadt namens Faustauhaven.{0xBE01}[0x000A]Du solltest den dortigen Arenaleiter[0x000A]Kamillo herausfordern!
+Hm...[0x000A]Du bist stärker geworden, {0x0100,0x0000}.{0xBE01}[0x000A]Das sehe ich an der Anzahl der Orden,[0x000A]die du dir erkämpft hast.
+{0xBDFF:0x0029}
+{0xBDFF:0x002A}
+{0xBDFF:0x002B}
+{0xBDFF:0x002C}
+{0xBDFF:0x002D}
+{0xBDFF:0x002E}
+{0xBDFF:0x002F}
+{0xBDFF:0x0030}
+{0xBDFF:0x0031}
+{0xBDFF:0x0032}
+{0xBDFF:0x0033}
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+{0xBDFF:0x0036}
+{0xBDFF:0x0037}
+{0xBDFF:0x0038}
+{0xBDFF:0x0039}
+{0xBDFF:0x003A}
+{0xBDFF:0x003B}
+{0xBDFF:0x003C}
+{0xBDFF:0x003D}
+Vergiss nicht, ab und zu auch mal bei Mutti[0x000A]vorbeizuschauen, {0x0100,0x0000}.
+Ich bleibe hier, um mein Training zu intensivieren.
+Als Trainer lässt mir diese Niederlage keine Ruhe.[0x000A]Ich möchte irgendwann gegen dich gewinnen.
+{0x0100,0x0000}![0x000A]Wie geht es dir denn so?
+Als dein Vater bin ich unendlich stolz,[0x000A]dass du es zum Champ gebracht hast!
+Na, wie sieht’s aus, {0x0100,0x0000}?[0x000A]Auf dem Weg zum Champ?
+Die Türen in den einzelnen Räumen dieser Arena öffnen[0x000A]sich erst, wenn du die zugehörigen Trainer besiegt hast.
+Huch! Die Türen in diesem Raum sind schon offen,[0x000A]also greif mich bitte nicht an!{0xBE01}[0x000A]Die Trainer der Arena von Blütenburg City[0x000A]setzen übrigens die verschiedensten Items ein.
+Die Tür auf der linken Seite führt in den[0x000A]Raum der Initiative.{0xBE01}[0x000A]Die Tür auf der rechten Seite führt in den[0x000A]Raum der Genauigkeit.{0xBE01}[0x000A]Die Türen sind beschriftet. Lies genau,[0x000A]was auf ihnen steht, und triff eine überlegte Wahl.
+Hast du dich für eine Tür entschieden, dann...[0x000A]Ach, genug geredet! Hals- und Beinbruch!
+{0x0100,0x0000}! Hui![0x000A]Du hast deinen eigenen Vater besiegt!{0xBE01}[0x000A]Wie... unglaublich!
+{0xBDFF:0x0049}
+{0xBDFF:0x004A}
+{0xBDFF:0x004B}
+{0xBDFF:0x004C}
+{0xBDFF:0x004D}
+{0xBDFF:0x004E}
+{0xBDFF:0x004F}
+{0xBDFF:0x0050}
+{0xBDFF:0x0051}
+{0xBDFF:0x0052}
+{0xBDFF:0x0053}
+{0xBDFF:0x0054}
+{0xBDFF:0x0055}
+{0xBDFF:0x0056}
+{0xBDFF:0x0057}
+{0xBDFF:0x0058}
+{0xBDFF:0x0059}
+{0xBDFF:0x005A}
+{0xBDFF:0x005B}
+{0xBDFF:0x005C}
+{0xBDFF:0x005D}
+{0xBDFF:0x005E}
+{0xBDFF:0x005F}
+{0xBDFF:0x0060}
+{0xBDFF:0x0061}
+{0xBDFF:0x0062}
+{0xBDFF:0x0063}
+{0xBDFF:0x0064}
+{0xBDFF:0x0065}
+{0xBDFF:0x0066}
+{0xBDFF:0x0067}
+{0xBDFF:0x0068}
+{0xBDFF:0x0069}
+{0xBDFF:0x006A}
+{0xBDFF:0x006B}
+{0xBDFF:0x006C}
+{0xBDFF:0x006D}
+{0xBDFF:0x006E}
+Pokémon-Arena von Blütenburg City
+Pokémon-Arena von Blütenburg City{0xBE01}[0x000A]Von Norman anerkannte Trainer:[0x000A]Heiko{0xBE00}[0x000A]{0x0100,0x0000}
+{0xBDFF:0x0071}
+Nanu...?[0x000A]Was hast du denn da?{0xBE00}[0x000A]Das ist doch ein Äon-Ticket!{0xBE01}[0x000A]Es ist gut und gerne elf Jahre her,[0x000A]seit ich so eines zuletzt gesehen habe!
+Das Äon-Ticket gewährt dem Inhaber[0x000A]Zutritt zu der Insel im Süden.{0xBE01}[0x000A]Es ist denen vorbehalten, die dank der[0x000A]innigen Bande zu ihren Pokémon eine{0xBE00}[0x000A]Mega-Entwicklung auslösen können.
+Hmmm...{0xBE01}[0x000A]Die Mega-Entwicklung scheint dich noch ein wenig[0x000A]zu überfordern, stimmt’s, {0x0100,0x0000}?{0xBE01}[0x000A]Setze deine Reise durch Hoenn fort und komm wieder,[0x000A]wenn du die Kraft der Mega-Entwicklung erlangt hast.{0xBE01}[0x000A]Dann werde ich dir verraten, was es mit dem Äon-Ticket[0x000A]auf sich hat!
+Huch!{0xBE01}[0x000A]Der Mega-Armreif, der da an deinem Handgelenk glänzt,[0x000A]ist der Beweis dafür, dass du nun die Mega-Entwicklung{0xBE00}[0x000A]auslösen kannst!{0xBE01}[0x000A]Sehr schön![0x000A]Also, {0x0100,0x0000}, folge mir bitte!
+Deine Begegnung mit Latias[0x000A]kommt einem Wunder gleich!
+Deine Begegnung mit Latios[0x000A]kommt einem Wunder gleich!
+Lass diese Begegnung nicht vergebens gewesen sein[0x000A]und gib auch weiterhin gemeinsam mit deinen Pokémon{0xBE00}[0x000A]dein Bestes, hörst du?
+Doch hüte dich davor, dich in Selbstgefälligkeit[0x000A]auf dem Erreichten auszuruhen!{0xBE01}[0x000A]Denn nun, wo du den Gipfel erklommen hast,[0x000A]werden sich dir ganz neue Ausblicke und{0xBE00}[0x000A]Perspektiven eröffnen!{0xBE01}[0x000A]Werde nicht müde, nach dem Höchsten zu streben und[0x000A]dich im Training mit deinen Pokémon zu verausgaben!{0xBE01}[0x000A]Du weißt ja, dass du jederzeit auf meine Unterstützung[0x000A]zählen kannst, {0x0100,0x0000}!
+Pokémon-Arena von Blütenburg City{0xBE01}[0x000A]Von Norman anerkannte Trainer:[0x000A]Heiko

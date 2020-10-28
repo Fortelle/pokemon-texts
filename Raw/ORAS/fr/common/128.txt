@@ -1,0 +1,73 @@
+Bienvenue au Cadeau Mystère[0xE07F]!
+Recevoir un cadeau
+Regarder l’album
+Informations
+Quitter
+Via sans fil local
+Via Internet
+Via infrarouge
+Via un code
+Retour
+À propos du Cadeau Mystère
+À propos de l’Album Mystère
+Quand l’album est plein
+Voulez-vous démarrer la communication[0xE07F]?
+Veuillez choisir le mode de réception de votre[0x000A]cadeau.
+Voulez-vous démarrer la communication[0x000A]sans fil locale[0xE07F]?
+Lancement de la communication infrarouge.{0xBE01}[0x000A]Veuillez rapprocher les deux consoles[0x000A]Nintendo 3DS et appuyer sur le bouton A.
+Recherche d’un cadeau en cours…[0x000A]Veuillez patienter.
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+Recevoir ce cadeau[0xE07F]?
+Cadeau en cours de réception[0xE08D][0x000A]Veuillez ne pas éteindre la console.
+Le cadeau a été réceptionné[0xE07F]!{0xBE01}[0x000A]Vous pouvez le récupérer dans n’importe quel[0x000A]Centre Pokémon.
+Vous avez trop de cadeaux[0xE07F]!
+Vous avez trop de Cartes Miracle[0xE07F]![0x000A]Vous ne pouvez plus recevoir de cadeaux[0xE07F]!{0xBE01}[0x000A]Voulez-vous jeter une Carte Miracle[0xE07F]?
+Choisissez une carte dont vous ne voulez[0x000A]plus.
+Vous ne pouvez pas obtenir de nouveau[0x000A]cadeau sans jeter une carte.{0xBE00}[0x000A]Voulez-vous continuer[0xE07F]?
+{0xBDFF:0x001B}
+Aucun cadeau n’a été trouvé.
+Le cadeau n’a pas été réceptionné.
+Un cadeau a été trouvé, mais il ne peut pas[0x000A]être reçu sur le jeu que vous utilisez.
+Vous avez déjà reçu ce cadeau.[0x000A]Il ne peut être reçu qu’une fois.
+Aucun cadeau n’a été trouvé.
+La communication sans fil est désactivée.{0xBE01}[0x000A]Activez la communication sans fil.
+Carte Miracle
+Date de réception
+Bouton A : Quitter
+Bouton A : Gérer
+Album Mystère
+{0x0201,0x0002}/{0x0201,0x0001}/20{0x0201,0x0000}
+{0x0200,0x0003}/{0x0200,0x0004}
+Que voulez-vous faire de la Carte Miracle[0xE07F]?
+Vous ne pouvez pas la jeter avant d’avoir[0x000A]récupéré le cadeau[0xE07F]!
+Voulez-vous vraiment jeter cette carte[0xE07F]?
+Veuillez choisir l’autre carte à déplacer.
+Sauvegarde de l’Album…[0x000A]Ne pas éteindre la console.
+Déplacer
+Jeter
+Que souhaitez-vous savoir[0xE07F]?
+Cette option vous permet d’utiliser les[0x000A]différents modes de communication pour{0xBE00}[0x000A]recevoir de magnifiques cadeaux.{0xBE01}[0x000A]Pour les récupérer, il suffit d’aller voir la[0x000A]livreuse dans n’importe quel Centre Pokémon.
+Au moment de recevoir un Cadeau Mystère,[0x000A]une Carte Miracle apparaît dans l’Album{0xBE00}[0x000A]Mystère.{0xBE01}[0x000A]Lorsque le cadeau est délivré, la carte est[0x000A]marquée d’un tampon par la livreuse.{0xBE01}[0x000A]Si votre carte n’est pas tamponnée, c’est que[0x000A]vous avez un cadeau à aller chercher[0xE07F]!{0xBE01}[0x000A]L’album peut contenir jusqu’à 24 cartes.{0xBE01}[0x000A]S’il est plein, vous ne pourrez plus recevoir[0x000A]de cadeaux, aussi pensez à trier vos cartes.
+Lorsque vous ne pouvez plus recevoir de[0x000A]cadeaux, consultez votre Album Mystère.{0xBE01}[0x000A]Si vous possédez déjà 24 Cartes Mystère,[0x000A]choisissez-en une dont vous avez déjà reçu{0xBE00}[0x000A]le cadeau associé et appuyez sur le bouton A{0xBE00}[0x000A]pour la jeter.{0xBE01}[0x000A]Si vous n’avez reçu aucun des cadeaux de[0x000A]l’album, reprenez votre partie et rendez-vous{0xBE00}[0x000A]dans un Centre Pokémon pour que la livreuse{0xBE00}[0x000A]vous les remette.
+Voulez-vous vous connecter à Internet[0xE07F]?
+Connexion en cours[0xE08D][0x000A]Veuillez patienter.
+Vous avez saisi un code erroné. La fonction[0x000A]est désactivée pendant quelques instants.{0xBE00}[0x000A]Réessayez ultérieurement.{0xBE01}
+Veuillez saisir votre code.{0xBE01}
+Vérification de votre code[0xE08D][0x000A]Ne pas éteindre la console.
+{0xBDFF:0x0039}
+Sauvegarde en cours…[0x000A]Ne pas éteindre la console.
+Le code est erroné.[0x000A]Veuillez le vérifier.{0xBE01}
+Saisir le code à nouveau[0xE07F]?
+Attention[0xE07F]!{0xBE01}[0x000A]Si votre console Nintendo 3DS s’éteint[0x000A]pendant la réception d’un cadeau via un code,{0xBE00}[0x000A]ce dernier ne pourra plus être utilisé.{0xBE01}[0x000A]Veuillez vérifier l’état de votre batterie.{0xBE01}[0x000A]Recevoir le cadeau associé à ce code[0xE07F]?
+Le code est erroné.[0x000A]Veuillez le vérifier.{0xBE01}
+Impossible de recevoir le cadeau associé à ce[0x000A]code avec ce jeu.{0xBE01}
+{0xBDFF:0x0040}
+Impossible de recevoir le cadeau associé à ce[0x000A]code avec ce jeu.{0xBE01}
+Vous avez déjà reçu ce cadeau.{0xBE01}
+Vous avez déjà reçu ce cadeau.{0xBE01}
+{0xBDFF:0x0044}
+Vous ne pouvez pas recevoir ce cadeau.{0xBE01}
+Vous ne pouvez pas encore recevoir le[0x000A]cadeau associé à ce code.{0xBE01}
+Vous ne pouvez pas recevoir le cadeau[0x000A]car le code est expiré.{0xBE01}
+Erreur de renouvellement du code.{0xBE01}[0x000A]Vous ne pouvez pas recevoir[0x000A]le cadeau associé à ce code.{0xBE01}

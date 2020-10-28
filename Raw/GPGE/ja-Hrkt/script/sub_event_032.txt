@@ -1,0 +1,15 @@
+msg_sub032_youngf_01={0xBDFF:0x0000}
+msg_sub032_youngf_02=ときどき　ニビシティまで[0x000A]おかいものに　いきますけど{0xBE01}[0x000A]トキワのもり　って[0x000A]みちが　まがり　くねってるのよ
+msg_sub032_oldm_01={0xBDFF:0x0002}
+msg_sub032_oldm_02=ポケモンずかん　つくっとるか[0x000A]なら　わしから　アドバイスじゃ！{0xBE01}[0x000A]フレンドリィショップで　たくさん[0x000A]モンスターボールを　かうと　いいぞ！
+msg_sub032_musashi_01=？？？『なによ！　ダメダメ！[0x000A]ここは　いま　つうこうどめ！{0xBE01}[0x000A]だいじな　みはりの[0x000A]まっさいちゅう　なんだから！
+msg_sub032_musashi_02=？？？『だから[0x000A]つうこうどめ　だってば！{0xBE01}[0x000A]こどもは　おつかい　でも　して[0x000A]じかん　つぶして　なさいよ！
+msg_sub032_kojiro_01=？？？『なんだ　この　ジャリンコは[0x000A]……シッシ！　あっち　いってな！
+msg_sub032_kojiro_02=？？？『にんむ　とは　いえ[0x000A]みはり　なんて　ヒマ　だなぁ{0xBE01}[0x000A]フレンドリィショップで[0x000A]サボりたいぜ……
+msg_sub032_nyasu_01=ニャース『にゃー
+msg_oyaji4_01_p03_field_t002={0xBDFF:0x0009}
+msg_oyaji4_01_p04_field_t002={0xBDFF:0x000A}
+msg_oyaji4_01_p05_field_t002={0xBDFF:0x000B}
+msg_oyaji4_01_p06_field_t002={0xBDFF:0x000C}
+msg_oyaji4_01_p07_field_t002={0xBDFF:0x000D}
+msg_oyaji4_01_p08_field_t002={0xBDFF:0x000E}

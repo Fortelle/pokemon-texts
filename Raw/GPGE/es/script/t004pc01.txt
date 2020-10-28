@@ -1,0 +1,7 @@
+msg_t004pc01_youngm_01=¡Menudo es Bill! Dicen que haría lo que fuera[0x000A]para conseguir Pokémon poco habituales.
+msg_t004pc01_gentlem_01=¿Has oído hablar de Bill? ¡Dicen que es un[0x000A]Pokémaníaco!{0xBE01}[0x000A]Lo que yo creo es que la gente le tiene mucha[0x000A]envidia. ¿Quién no querría presumir de sus{0xBE00}[0x000A]Pokémon?
+msg_t004pc01_jevenilem_01=Hay dos clases de movimientos ofensivos:[0x000A]ataques físicos y ataques especiales.{0xBE01}[0x000A]Si un Pokémon posee un valor de Ataque[0x000A]elevado, te conviene enseñarle ataques físicos.
+msg_t004pc01_youngf_01=Si realizas intercambios con tus amigos, podrás[0x000A]conseguir una mayor variedad de Pokémon.{0xBE01}[0x000A]Además, los que consigues por este método[0x000A]se desarrollan más rápido.
+msg_t004pc01_book_01=Es un ejemplar de "El Poké de las cosas".
+msg_t004pc01_select_01=¿Quieres leerlo?
+msg_t004pc01_book_02=Hay una entrevista con Bill, el Pokémaníaco,[0x000A]donde habla de sus planes de futuro.{0xBE01}[0x000A]"Me alegra que me hagas esta pregunta. Estoy[0x000A]ultimando un proyecto para hacer realidad mi{0xBE00}[0x000A]gran sueño: transformarme en Pokémon.{0xBE01}[0x000A]¡No, hombre, que es broma! No publiques eso,[0x000A]¿vale?{0xBE01}[0x000A]Ahora en serio: estoy investigando la psicología[0x000A]de los Pokémon. Quiero conocerlos a fondo.{0xBE01}[0x000A]Entender cómo piensan, qué es lo que sienten...[0x000A]¡Es algo fascinante!".

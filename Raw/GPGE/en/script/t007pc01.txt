@@ -1,0 +1,6 @@
+msg_t007pc01_gentlem_01=A Poké Flute awakens sleeping Pokémon.[0x000A]It does so with a sound that only they can hear.
+msg_t007pc01_girlscout_01=Psst. The woman with the Abra at the corner[0x000A]over there...{0xBE01}[0x000A]Rumor has it that she’s an amazing fortune-teller!
+msg_t007pc01_jevenilem_01=If I had a Pokémon, I would go to[0x000A]Pokémon Road, too!
+msg_t007pc01_book_01=There’s a magazine called Pokémon Best Spots.
+msg_t007pc01_select_01=Will you read it?
+msg_t007pc01_book_02=“The amazing spot we’re introducing this time is[0x000A]Pokémon Road!{0xBE01}[0x000A]“It’s the sloping road that connects Celadon City[0x000A]and Fuchsia City!{0xBE01}[0x000A]“During the weekend, many Trainers walk around[0x000A]with their Pokémon on Pokémon Road.{0xBE01}[0x000A]“Sometimes, Pokémon that become friends there[0x000A]become matchmakers for their Trainers...or not.”

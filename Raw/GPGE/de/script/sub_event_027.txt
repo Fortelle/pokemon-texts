@@ -1,0 +1,8 @@
+msg_sub027_clerkm_01=Ich muss ganz dringend auf die Toilette, doch[0x000A]hier kommt schon wieder ein Kunde!{0xBE01}[0x000A]Und der neue Kollege, der mich ablösen sollte,[0x000A]kommt auch noch zu spät!{0xBE01}[0x000A]Aaah, so hilf mir doch jemand! Reicht mir denn[0x000A]niemand die Hand?{0xBE01}[0x000A]Und in diesem Sinne...
+msg_sub027_sys_01={0xBDFF:0x0001}
+msg_sub027_clerkm_02=Die TM03 enthält die Attacke Rechte Hand.{0xBE01}[0x000A]Sie erhöht die Stärke der Attacken eines[0x000A]Mistreiters.
+msg_sub027_clerkm_03=Setzt du ebenfalls Rechte Hand ein?{0xBE01}[0x000A]Wenn doch nur endlich jemand mir zur Hand[0x000A]gehen würde...
+msg_sub027_clerkm_01_nouse={0xBDFF:0x0004}
+msg_sub027_clerkm_02_nouse={0xBDFF:0x0005}
+msg_sub027_clerkm_03_nouse={0xBDFF:0x0006}
+msg_sub027_clerkm_04={0xBDFF:0x0007}

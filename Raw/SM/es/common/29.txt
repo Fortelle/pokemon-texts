@@ -1,0 +1,111 @@
+La GTS te permite intercambiar Pokémon con[0x000A]jugadores de todo el mundo.[0x000A][0x000A]・Buscar un Pokémon[0x000A]El intercambio se iniciará si ofreces el Pokémon[0x000A]que quiere el otro jugador.[0x000A][0x000A]・Dejar un Pokémon[0x000A]El intercambio se iniciará si otro jugador[0x000A]ofrece el Pokémon que tú quieres.
+Comprobando el servidor de la GTS...
+¡Se ha intercambiado el Pokémon que habías[0x000A]dejado!{0xBE01}
+¡Bienvenid{0x1100,0x00FF,0x0101}oa a la GTS![0x000A]¿Qué quieres hacer?
+¡El Pokémon que habías dejado está de vuelta!{0xBE01}
+{0xBD02}Aviso[0x000A][0x000A]{0xBD02}Si se produce un error de conexión o se apaga[0x000A]{0xBD02}la consola en mitad de un intercambio, deberás[0x000A]{0xBD02}esperar un tiempo hasta poder intentarlo de[0x000A]{0xBD02}nuevo.
+¿Quieres salir de la GTS?
+Especifica qué Pokémon quieres.{0xBE01}
+No se ha encontrado ningún resultado.{0xBE01}
+¿Qué Pokémon estás buscando?
+Elige el sexo.
+Elige el nivel.
+¿Deseas incluir a personas que buscan[0x000A]Pokémon singulares o legendarios?
+No se ha encontrado nada con estos criterios.{0xBE01}
+Elige con quién quieres intercambiar Pokémon.
+Conectando...[0x000A]Por favor, espera.
+Buscando el Pokémon que quieres...
+Hay un problema con este Pokémon.{0xBE01}
+Ese Pokémon ya se ha intercambiado.{0xBE01}
+¿Quieres recuperar a {0x0102,0x0000}?
+Si realizas una búsqueda por nombre, no puedes[0x000A]elegir el sexo.{0xBE01}
+Elige los criterios de búsqueda.
+Filtra por Pokémon deseados por otros.
+Filtra por zona geográfica.
+No puedes dejar un Pokémon sin haber[0x000A]decidido cuál quieres tú.{0xBE01}
+Buscando más resultados...[0x000A]Por favor, espera.
+Elige el Pokémon que quieres.{0xBE01}
+No se ha encontrado nada.[0x000A]Se han actualizado los resultados de búsqueda.{0xBE01}
+No se ha encontrado nada.[0x000A]Por favor, selecciona otro Pokémon.{0xBE01}
+{0xBDFF:0x001D}
+{0xBDFF:0x001E}
+{0xBDFF:0x001F}
+{0xBDFF:0x0020}
+Elige el mensaje que quieres enviar al otro[0x000A]jugador.
+{0xBD02}Aviso[0x000A][0x000A]{0xBD02}Si se produce un error de conexión o se apaga[0x000A]{0xBD02}la consola mientras estás dejando un Pokémon,[0x000A]{0xBD02}deberás esperar un tiempo hasta poder[0x000A]{0xBD02}intentarlo de nuevo.
+{0xBD02}Aviso[0x000A][0x000A]{0xBD02}Si se produce un error de conexión o se apaga[0x000A]{0xBD02}la consola mientras estás recuperando un[0x000A]{0xBD02}Pokémon, deberás esperar un tiempo hasta[0x000A]{0xBD02}poder intentarlo de nuevo.
+Conectando...[0x000A]Por favor, espera.
+Elige el Pokémon que quieres.
+Buscar un Pokémon
+Dejar un Pokémon
+Ver los datos de {0x0102,0x0000}
+Pokémon deseado
+{0x0101,0x0000}
+Sexo
+Nivel
+Opciones
+Buscar con estos criterios
+Salir
+ 
+Cualquiera
+{0xBDFF:0x0032}
+{0xBDFF:0x0033}
+Cualquiera
+Del 1 al 10
+Del 11 al 20
+Del 21 al 30
+Del 31 al 40
+Del 41 al 50
+Del 51 al 60
+Del 61 al 70
+Del 71 al 80
+Del 81 al 90
+Del 91 al 100
+Indicar nombre
+Sí
+No
+Pokémon buscados por otros jugadores:
+Cualquiera
+Pokémon que tienes
+Zona geográfica:
+Mi zona geográfica
+Una zona geográfica diferente
+Filtrar con estos criterios de búsqueda
+Recuperar
+Salir
+Buscar un Pokémon
+{0x0100,0x0000}
+{0x0124,0x0000}
+{0x0125,0x0000}
+Información de Pokémon dejados en la GTS
+{0x0102,0x0000}
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+l
+{0xBDFF:0x0054}
+Objeto
+Ninguno
+{0x0109,0x0000}
+Mensaje de {0x0100,0x0000}
+{0x0202,0x0000}
+{0x0202,0x0000}
+Confirmar
+¿Quieres intercambiar Pokémon conmigo?
+Busco un Pokémon que pueda ayudarme en mi[0x000A]aventura.
+Busco un Pokémon que me ayude a ganar[0x000A]combates.
+Busco un Pokémon especial al que se haya[0x000A]criado desde que era un Huevo.
+Quiero completar mi Pokédex.
+Quiero llenar mi Pokédex de Pokémon que[0x000A]tengan el nombre en otro idioma.
+Busco un Pokémon al que se le haya puesto un[0x000A]apodo.
+Este es un Pokémon al que crie con esmero.[0x000A]¡Cuida bien de él!
+Este es un Pokémon recién salido de un Huevo.[0x000A]¡Cuida bien de él!
+Este es un Pokémon al que entrené para que[0x000A]ganara en los combates.
+Este es un Pokémon con un gran potencial.[0x000A]Si lo quieres, es tuyo.
+{0xBDFF:0x0067}
+{0xBDFF:0x0068}
+{0xBDFF:0x0069}
+{0xBDFF:0x006A}
+{0xBDFF:0x006B}
+{0xBDFF:0x006C}
+{0xBDFF:0x006D}
+{0xBDFF:0x006E}

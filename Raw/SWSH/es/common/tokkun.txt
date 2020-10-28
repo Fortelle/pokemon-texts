@@ -1,0 +1,13 @@
+tokkun_01_01={0x1001}{0x0109,0x0000}
+tokkun_02_01={0x0202,0x0000}
+tokkun_02_02=/
+tokkun_03_01=PS
+tokkun_03_02=Ataque
+tokkun_03_03=Defensa
+tokkun_03_04=At. Esp.
+tokkun_03_05=Def. Esp.
+tokkun_03_06=Velocidad
+tokkun_03_08=¡A entrenar duro!
+tokkun_10_01=¡No puedes aumentar más esta característica!{0xBE01}
+tokkun_10_02=No tienes ninguna {0x0109,0x0000}.{0xBE01}
+tokkun_04_01= Atrás

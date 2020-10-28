@@ -1,0 +1,80 @@
+Comprobando la tarjeta SD...[0x000A]No apagues la consola.
+Los datos del reglamento guardados en la[0x000A]tarjeta SD estaban dañados y se han eliminado.{0xBE01}
+Buscando datos...[0x000A]Espera unos instantes.
+{0xBDFF:0x0003}
+No se han encontrado datos.{0xBE01}
+¿Quieres cancelar la búsqueda de datos?
+¿Qué quieres hacer con el reglamento[0x000A]{0x0123,0x0000}?
+Esos datos ya han sido descargados[0x000A]anteriormente.{0xBE01}
+Guardando datos en la tarjeta SD...[0x000A]No apagues la consola.
+Se ha guardado en la tarjeta SD el reglamento[0x000A]{0x0123,0x0000}.{0xBE01}
+No hay espacio para guardar más reglamentos.[0x000A]¿Quieres borrar algunos?
+Selecciona los datos que quieres borrar.{0xBE01}
+¿Quieres cancelar el borrado de los datos?
+¿Seguro que quieres borrar el reglamento[0x000A]{0x0123,0x0000}?
+Borrando los datos...[0x000A]No apagues la consola.
+Se ha borrado de la tarjeta SD el reglamento[0x000A]{0x0123,0x0000}.{0xBE01}[0x000A]Selecciona el que quieres añadir.{0xBE01}
+¿Quieres seleccionar el reglamento[0x000A]{0x0123,0x0000}?
+¿Quieres cancelar la selección del reglamento?
+Este reglamento no es compatible con el juego[0x000A]de al menos uno de los participantes.{0xBE01}[0x000A]Selecciona otro reglamento.{0xBE01}
+No hay espacio suficiente en la tarjeta SD.{0xBE01}[0x000A]Sal del juego, apaga la consola y comprueba el[0x000A]contenido de la tarjeta SD.{0xBE01}
+No se puede guardar en la tarjeta SD porque no[0x000A]hay espacio suficiente.{0xBE01}[0x000A]¿Quieres borrar alguno de los reglamentos que[0x000A]hay guardados en la tarjeta SD?
+No se puede guardar en la tarjeta SD porque no[0x000A]hay espacio suficiente.{0xBE01}[0x000A]¿Quieres borrar alguno de los reglamentos que[0x000A]hay guardados en la tarjeta SD?
+Sí
+No
+Descargar
+Ver detalles
+Atrás
+Borrar
+Confirmar
+Ver detalles
+Sin restricciones
+{0x0200,0x0000}
+{0x0202,0x0000} o más
+De {0x0200,0x0000} a {0x0200,0x0001}
+Todos al Nv. {0x0202,0x0000}
+Nv. {0x0202,0x0000} como máximo
+Permitidos
+No permitidos
+Permitidos
+No permitidos
+Número de Pokémon:
+Nivel de los Pokémon:
+Pokémon especiales:
+Pokémon idénticos:
+Objetos idénticos:
+Combate Individual
+Combate Doble
+Combate Múltiple
+Battle Royale
+Reglas normales
+Con restricciones
+Sin restricciones
+Árbol de Combate
+Battle Royale
+{0x0200,0x0000}
+/
+Hasta Nv. {0x0202,0x0000}
+Nv. {0x0202,0x0000} como mínimo
+Individual
+Doble
+Múltiple
+Supercombate Individual
+Supercombate Doble
+Supercombate Múltiple
+Nivel Normal
+Nivel Alto
+Nivel Avanzado
+Nivel Maestro
+Con las reglas normales, todos los Pokémon pasan a ser de[0x000A]Nv. 50.
+Con las reglas con restricciones, el nivel de los Pokémon se[0x000A]reduce a Nv. 50 en el caso de que lo sobrepasen.
+Con las reglas sin restricciones, todos los Pokémon[0x000A]combaten con el nivel que tienen.
+En el Árbol de Combate, el nivel de los Pokémon se reduce[0x000A]a Nv. 50 en el caso de que lo sobrepasen.
+En un Battle Royale, el nivel de los Pokémon se reduce a[0x000A]Nv. 50 en el caso de que lo sobrepasen.
+Pokémon no permitidos:[0x000A][0x000A]{0x0101,0x0000}　{0x0101,0x0001}[0x000A]{0x0101,0x0002}　{0x0101,0x0003}[0x000A]{0x0101,0x0004}　{0x0101,0x0005}[0x000A]{0x0101,0x0006}　{0x0101,0x0007}[0x000A]{0x0101,0x0008}　{0x0101,0x0009}[0x000A]{0x0101,0x000A}　{0x0101,0x000B}[0x000A]{0x0101,0x000C}　{0x0101,0x000D}[0x000A]{0x0101,0x000E}　{0x0101,0x000F}
+Objetos no permitidos:[0x000A][0x000A]{0x0109,0x0000} {0x0109,0x0001}[0x000A]{0x0109,0x0002} {0x0109,0x0003}[0x000A]{0x0109,0x0004} {0x0109,0x0005}[0x000A]{0x0109,0x0006} {0x0109,0x0007}[0x000A]{0x0109,0x0008} {0x0109,0x0009}[0x000A]{0x0109,0x000A} {0x0109,0x000B}[0x000A]{0x0109,0x000C} {0x0109,0x000D}[0x000A]{0x0109,0x000E} {0x0109,0x000F}
+Movimientos no permitidos:[0x000A][0x000A]{0x0107,0x0000} {0x0107,0x0001}[0x000A]{0x0107,0x0002} {0x0107,0x0003}[0x000A]{0x0107,0x0004} {0x0107,0x0005}[0x000A]{0x0107,0x0006} {0x0107,0x0007}[0x000A]{0x0107,0x0008} {0x0107,0x0009}[0x000A]{0x0107,0x000A} {0x0107,0x000B}[0x000A]{0x0107,0x000C} {0x0107,0x000D}[0x000A]{0x0107,0x000E} {0x0107,0x000F}
+Pokémon no permitidos:[0x000A][0x000A]Ninguno
+Objetos no permitidos:[0x000A][0x000A]Ninguno
+Movimientos no permitidos:[0x000A][0x000A]Ninguno
+Para obtener información detallada sobre este[0x000A]reglamento, puedes visitar el sitio web de[0x000A]Pokémon Global Link:[0x000A]{0xBD00,0x0003,0x0000,0x0000}http://www.pokemon-gl.com/{0xBD01}[0x000A][0x000A]Lee el QR Code de la siguiente página para[0x000A]acceder al sitio web directamente.

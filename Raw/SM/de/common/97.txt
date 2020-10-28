@@ -1,0 +1,233 @@
+-
+Lässt das Ziel beim Angriff eventuell durch Gestank[0x000A]zurückschrecken.
+Ruft bei Kampfantritt Regen herbei.
+Erhöht in jeder Runde die Initiative.
+Wehrt gegnerische Volltreffer mit einem harten[0x000A]Panzer ab.
+Bietet Schutz gegen K.O.-Attacken. Bei vollen KP[0x000A]übersteht das Pokémon auch K.O.-Treffer.
+Befeuchtet die Umgebung und verhindert so den[0x000A]Einsatz von Attacken wie Finale, die Explosionen[0x000A]auslösen.
+Der flexible Körper des Pokémon schützt es vor[0x000A]Paralyse.
+Erhöht in Sandstürmen den Fluchtwert.
+Kann bei Berührung durch statisch aufgeladenen[0x000A]Körper paralysieren.
+Treffer durch Elektro-Attacken verursachen keinen[0x000A]Schaden, sondern regenerieren stattdessen KP.
+Treffer durch Wasser-Attacken verursachen keinen[0x000A]Schaden, sondern regenerieren stattdessen KP.
+Das Pokémon ist so apathisch, dass es nicht betört[0x000A]oder provoziert werden kann.
+Hebt alle Wetter-Effekte auf.
+Erhöht die Genauigkeit von Attacken.
+Verhindert Einschlafen.
+Ändert seinen Typ zu dem der Attacke des[0x000A]Angreifers.
+Das starke Immunsystem des Pokémon verhindert[0x000A]Vergiftungen.
+Verstärkt Feuer-Attacken, wenn es von[0x000A]Feuer-Attacken getroffen wird.
+Blockiert durch Puder die Zusatzeffekte[0x000A]gegnerischer Angriffe.
+Das Pokémon lässt sich nicht aus der Ruhe bringen[0x000A]und verhindert so Verwirrung.
+Blockt Attacken und Items, die Pokémon[0x000A]austauschen, indem es sich mit einem Saugnapf[0x000A]am Boden verankert.
+Senkt den Angriff der Gegner, indem es sie gleich zu[0x000A]Kampfantritt bedroht und einschüchtert.
+Hindert den Gegner an der Flucht beziehungsweise[0x000A]am Auswechseln, indem es ihm den Weg versperrt.
+Angreifer werden durch die raue Haut des Pokémon[0x000A]bei direkten Attacken verletzt.
+Wundersame Kräfte bewirken, dass nur sehr[0x000A]effektive Treffer bei ihm Schaden anrichten.
+Verleiht volle Immunität gegen alle Boden-Attacken[0x000A]durch Schwebezustand.
+Wird dieses Pokémon durch eine direkte Attacke[0x000A]angegriffen, kann das beim Gegner Paralyse,[0x000A]Vergiftung oder Schlaf auslösen.
+Erleidet das Pokémon Verbrennungen, Vergiftungen[0x000A]oder Paralyse, ereilt das jeweilige Statusproblem[0x000A]auch den Verursacher.
+Verhindert das Senken der Statuswerte durch[0x000A]Attacken und Fähigkeiten von Angreifern.
+Wird das Pokémon ausgewechselt, werden seine[0x000A]Statusprobleme geheilt.
+Zieht Elektro-Attacken an. Statt durch diese[0x000A]Schaden zu nehmen, erhöht es den eigenen[0x000A]Spezial-Angriff.
+Erhöht die Wahrscheinlichkeit, dass Zusatzeffekte[0x000A]von Attacken auftreten.
+Erhöht bei Regen die Initiative.
+Erhöht bei Sonnenschein die Initiative.
+Erhellt die Umgebung und erhöht dadurch die[0x000A]Wahrscheinlichkeit, wilden Pokémon zu begegnen.
+Kopiert bei Kampfantritt die Fähigkeit eines Gegners.
+Verdoppelt die Stärke von physischen Attacken.
+Vergiftet den Angreifer bei Berührung eventuell.
+Verhindert durch erhöhte Konzentrationsfähigkeit[0x000A]Zurückschrecken.
+Dank eines Panzers aus Magma kann dieses[0x000A]Pokémon nicht eingefroren werden.
+Verhindert durch eine Hülle aus Wasser[0x000A]Verbrennungen.
+Hindert Stahl-Pokémon durch Magnetismus an der[0x000A]Flucht.
+Bietet durch Schalldämmung volle Immunität gegen[0x000A]alle Lärm-Attacken.
+Stellt bei Regen langsam und stetig KP wieder her.
+Erzeugt bei Kampfantritt Sandstürme.
+Zwingt den Gegner dazu, beim Einsatz von Attacken[0x000A]mehr AP zu verbrauchen.
+Das Pokémon wird von einer dicken Fettschicht[0x000A]geschützt, was den durch Feuer- und Eis-Attacken[0x000A]erlittenen Schaden halbiert.
+Wenn es eingeschlafen ist, kann es doppelt so[0x000A]schnell wieder aufwachen wie andere Pokémon.
+Fügt dem Angreifer bei Berührung eventuell[0x000A]Verbrennungen zu.
+Die Flucht vor wilden Pokémon gelingt immer.
+Sein scharfer Blick hindert Angreifer daran,[0x000A]seine Genauigkeit zu senken.
+Hindert Angreifer durch mächtige Scheren daran,[0x000A]den Angriffs-Wert zu senken.
+Hebt gelegentlich von Gegnern benutzte Items auf.[0x000A]Dies geschieht nicht nur während Kämpfen, sondern[0x000A]auch unterwegs.
+Das Pokémon muss nach Einsatz einer Attacke[0x000A]eine Runde lang aussetzen.
+Erhöht den Angriffs-Wert, aber senkt die[0x000A]Genauigkeit.
+Wird dieses Pokémon durch eine direkte Attacke[0x000A]angegriffen, verliebt sich der Gegner in es.
+Erhöht den Spezial-Angriff, wenn das Pokémon einen[0x000A]Mitstreiter mit der Fähigkeit Plus oder Minus hat.
+Erhöht den Spezial-Angriff, wenn das Pokémon einen[0x000A]Mitstreiter mit der Fähigkeit Plus oder Minus hat.
+Nimmt je nach Wetter entweder den Typ Wasser,[0x000A]Feuer oder Eis an.
+Trägt es ein Item, bleibt dieses an seinem klebrigen[0x000A]Körper haften, wodurch Item-Diebstahl verhindert[0x000A]wird.
+Das Pokémon befreit sich eventuell von[0x000A]Statusproblemen, indem es seine Haut abstreift.
+Bei Statusproblemen setzt es Adrenalin frei und[0x000A]erhöht so seinen Angriffs-Wert.
+Bei Statusproblemen schützt es sich mit mysteriösen[0x000A]Schuppen und erhöht so seine Verteidigung.
+Angreifer, die durch Saug-Attacken Kloakensoße[0x000A]in sich aufgenommen haben, nehmen durch deren[0x000A]widerwärtigen Gestank Schaden.
+Erhöht die Stärke von Pflanzen-Attacken,[0x000A]wenn die KP auf einen gewissen Wert fallen.
+Erhöht die Stärke von Feuer-Attacken,[0x000A]wenn die KP auf einen gewissen Wert fallen.
+Erhöht die Stärke von Wasser-Attacken,[0x000A]wenn die KP auf einen gewissen Wert fallen.
+Erhöht die Stärke von Käfer-Attacken,[0x000A]wenn die KP auf einen gewissen Wert fallen.
+Verhindert Schaden, der durch Rückstoß entstehen[0x000A]würde.
+Erzeugt bei Kampfantritt gleißendes Sonnenlicht.
+Hindert den Gegner im Kampf an der Flucht.
+Das Pokémon ist so munter, dass es nicht[0x000A]einschlafen kann.
+Indem es sich mit pulvrigem Rauch umhüllt, hindert[0x000A]es Angreifer daran, seine Statuswerte zu senken.
+Verdoppelt mit reiner Willenskraft die Stärke seiner[0x000A]physischen Attacken.
+Wehrt gegnerische Volltreffer mit einem harten[0x000A]Panzer ab.
+Hebt alle Wetter-Effekte auf.
+Erhöht den Fluchtwert, wenn das Pokémon[0x000A]verwirrt ist.
+Treffer durch Elektro-Attacken verursachen keinen[0x000A]Schaden, sondern geben dem Pokémon eine[0x000A]Starthilfe und erhöhen so seine Initiative.
+Greift es einen Rivalen desselben Geschlechts an,[0x000A]wird es stärker. Greift es ein Ziel des anderen[0x000A]Geschlechts an, wird es schwächer.
+Sein eiserner Wille erhöht die Initiative, wann immer[0x000A]das Pokémon zurückschreckt.
+Erhöht bei Hagel den Fluchtwert.
+Setzt bestimmte Beeren nicht erst in einer Notlage[0x000A]ein, sondern bereits dann, wenn seine KP auf die[0x000A]Hälfte des Maximalwerts fallen.
+Wird nach Einstecken eines Volltreffers wütend und[0x000A]maximiert dabei seinen Angriffs-Wert.
+Wenn das von ihm getragene Item verwendet wird[0x000A]oder verloren geht, erhöht dies seine Initiative.
+Sein Hitze abweisender Körper halbiert den durch[0x000A]Feuer-Attacken erlittenen Schaden.
+Verdoppelt die Wirkung eigener[0x000A]Statusveränderungen.
+Bei Sonnenschein verliert das Pokémon KP und der[0x000A]Schaden durch Feuer-Attacken steigt. Bei Regen und[0x000A]Treffern durch Wasser-Attacken regeneriert es KP.
+Ist die Spezial-Verteidigung des Gegners höher als[0x000A]seine Verteidigung, wird der eigene Spezial-Angriff[0x000A]erhöht. Ist die Verteidigung höher, steigt der Angriff.
+Erhöht die Stärke von Hieb-, Punch-, Faust- und[0x000A]Schlag-Attacken.
+Das Pokémon erleidet keinen Schaden durch[0x000A]Vergiftung, sondern regeneriert KP.
+Erhöht die Stärke von Attacken, die dem Typ des[0x000A]Pokémon entsprechen.
+Landet mit Serien-Attacken immer die maximale[0x000A]Anzahl an Treffern.
+Heilt bei Regen Statusprobleme.
+Führt bei Sonnenschein in jeder Runde zu[0x000A]KP-Verlusten, erhöht aber den Spezial-Angriff.
+Erhöht bei Statusproblemen die Initiative.
+Alle Attacken des Pokémon nehmen den Typ Normal[0x000A]an und ihre Stärke erhöht sich ein wenig.
+Erhöht bei Volltreffern die Stärke der Attacke noch[0x000A]weiter.
+Das Pokémon nimmt nur durch Offensiv-Attacken[0x000A]Schaden.
+Alle Attacken des oder auf das Pokémon gelingen[0x000A]aufgrund seiner deckungslosen Kampftaktik.
+Handelt auch mit Initiative-Vorteil stets nach dem[0x000A]Gegner.
+Erhöht die Stärke von schwächeren Attacken.
+Verhindert bei Sonnenschein Statusprobleme.
+Das Pokémon kann keine getragenen Items[0x000A]verwenden.
+Attacken können ungeachtet der Fähigkeiten des[0x000A]Zieles verwendet werden.
+Großes Glück erhöht die Wahrscheinlichkeit,[0x000A]einen Volltreffer zu landen.
+Wird das Pokémon durch eine direkte Attacke[0x000A]besiegt, fügt es dem Angreifer Schaden zu.
+Kann gefährliche Attacken des Gegners erahnen.
+Gibt bei Kampfantritt Auskunft über eine Attacke[0x000A]aus dem Repertoire des Gegners.
+Greift das Pokémon an, ignoriert es sämtliche[0x000A]Statusveränderungen des Zieles.
+Bewirkt, dass nicht sehr effektive Attacken dem Ziel[0x000A]trotz des Typennachteils normalen Schaden zufügen.
+Reduziert die Stärke von sehr effektiven Attacken[0x000A]und verringert damit den Schaden, den das Pokémon[0x000A]durch sie erleidet.
+Halbiert fünf Runden lang den Angriffs-Wert und die[0x000A]Initiative des Pokémon.
+Bewirkt, dass Normal- und Kampf-Attacken auch[0x000A]Pokémon vom Typ Geist treffen können.
+Zieht Wasser-Attacken an. Statt durch diese[0x000A]Schaden zu nehmen, erhöht es den eigenen[0x000A]Spezial-Angriff.
+Regeneriert bei Hagel nach und nach KP.
+Reduziert die Stärke von sehr effektiven Attacken[0x000A]und verringert damit den Schaden, den das Pokémon[0x000A]durch sie erleidet.
+Löst bei Kampfantritt Hagel aus.
+Das Pokémon sammelt nach Kämpfen eventuell[0x000A]Honig auf.
+Kann bei Kampfantritt Auskunft über das vom[0x000A]Gegner getragene Item geben.
+Erhöht die Stärke von Attacken mit[0x000A]Rückstoßschaden.
+Das Pokémon passt seinen Typ dem der getragenen[0x000A]Tafel bzw. des getragenen Z-Kristalls an.
+Erhöht bei Sonnenschein den Angriff und die[0x000A]Spezial-Verteidigung aller Team-Pokémon.
+Fügt schlafenden Gegnern Schaden zu.
+Stiehlt das Item des Angreifers bei Berührung.
+Erhöht die Stärke von Attacken, aber hebt dafür ihre[0x000A]Zusatzeffekte auf.
+Statusveränderungen werden umgekehrt:[0x000A]Statuswerte, die eigentlich erhöht werden sollten,[0x000A]sinken und umgekehrt.
+Erzeugt beim Gegner Stress und hindert ihn so[0x000A]daran, Beeren zu konsumieren.
+Werden die Statuswerte des Pokémon gesenkt,[0x000A]steigt sein Angriff stark.
+Fallen seine KP auf die Hälfte des Maximalwerts oder[0x000A]weniger, bekommt es Angst. Dadurch wird die Stärke[0x000A]seines Angriffs und Spezial-Angriffs halbiert.
+Blockiert eventuell die Attacke, mit welcher der[0x000A]Angreifer es getroffen hat.
+Befreit Mitstreiter gelegentlich von Statusproblemen.
+Kann den Schaden, den Mitstreiter erleiden,[0x000A]verringern.
+Senkt bei erlittenem Treffer durch eine physische[0x000A]Attacke die Verteidigung des Pokémon, aber erhöht[0x000A]dafür seine Initiative stark.
+Verdoppelt das eigene Gewicht.
+Halbiert das eigene Gewicht.
+Verringert den erlittenen Schaden bei vollen KP.
+Erhöht bei Vergiftungen die Stärke von physischen[0x000A]Attacken.
+Erhöht bei Verbrennungen die Stärke von[0x000A]Spezial-Attacken.
+Dieselbe Beere kann mehrmals verwendet werden.
+Erkennt und pariert Attacken von Mitstreitern.
+Erhöht in jeder Runde aufs Neue einen Statuswert[0x000A]stark und senkt einen anderen.
+Nimmt weder durch Wetterlagen wie Sandsturm oder[0x000A]Hagel noch durch Pulver oder Puder Schaden.
+Kann das Ziel durch bloßes Berühren vergiften.
+Wird das Pokémon ausgewechselt, regeneriert es[0x000A]eine kleine Menge an KP.
+Hindert Angreifer daran, die Verteidigung des[0x000A]Pokémon zu senken.
+Erhöht in Sandstürmen die Initiative.
+Wehrt mit robustem Körper viele Status-Attacken ab.
+Greift das Pokémon zuletzt an, erhöht sich die[0x000A]Stärke der Attacke, die es einsetzt.
+Führt den Gegner hinters Licht, indem es bei[0x000A]Kampfantritt die Gestalt des Pokémon an der[0x000A]letzten Stelle im Team annimmt.
+Kämpft als Kopie seines Gegenübers.
+Überwindet gegnerische Schilde sowie Delegatoren[0x000A]und greift an.
+Überträgt bei Berührung die Fähigkeit Mumie auf den[0x000A]Angreifer.
+Besiegt es ein Pokémon, steigt sein Selbstvertrauen[0x000A]und somit auch sein Angriff.
+Wird es von einer Unlicht-Attacke getroffen, meldet[0x000A]sich sein Sinn für Gerechtigkeit zu Wort und sein[0x000A]Angriff steigt.
+Wird es von einer Unlicht-, Geister- oder Käfer-[0x000A]Attacke getroffen, bekommt es Angst und seine[0x000A]Initiative steigt.
+Lenkt Status-Attacken auf den Angreifer um,[0x000A]ohne selbst von ihnen getroffen zu werden.
+Wird es von einer Pflanzen-Attacke getroffen,[0x000A]erleidet es keinerlei Schaden und sein Angriff[0x000A]steigt.
+Ermöglicht einen Erstschlag mit Status-Attacken.
+Erhöht in Sandstürmen die Stärke von Gesteins-,[0x000A]Boden- und Stahl-Attacken.
+Fügt dem Angreifer bei Berührung mit eisernen[0x000A]Stacheln Schaden zu.
+Fallen seine KP auf die Hälfte des Maximalwerts oder[0x000A]weniger, wechselt es seine Gestalt.
+Erhöht die Genauigkeit aller Team-Pokémon.
+Attacken können ungeachtet der Fähigkeit des Zieles[0x000A]eingesetzt werden.
+Attacken können ungeachtet der Fähigkeit des Zieles[0x000A]eingesetzt werden.
+Kann alle Team-Pokémon vor mentalen Angriffen[0x000A]schützen.
+Schützt Mitstreiter vom Typ Pflanze vor dem Senken[0x000A]ihrer Statuswerte sowie vor Statusproblemen.
+Regeneriert beim Konsum von Beeren ungeachtet[0x000A]der Beerensorte KP.
+Das Pokémon nimmt bei Einsatz einer Attacke deren[0x000A]Typ an.
+Halbiert den Schaden, den das Pokémon durch[0x000A]physische Attacken erleidet.
+Trifft das Pokémon ein Ziel mit einer Attacke, kann es[0x000A]ihm dabei sein Item stehlen.
+Kann das Pokémon vor geworfenen kugelförmigen[0x000A]Objekten, wie zum Beispiel Bomben, schützen.
+Erhöht den Spezial-Angriff stark, wenn ein[0x000A]Statuswert gesenkt wurde.
+Der kräftige Kiefer des Pokémon erhöht die Stärke[0x000A]von Biss-Attacken.
+Attacken vom Typ Normal nehmen den Typ Eis an[0x000A]und ihre Stärke erhöht sich ein wenig.
+Alle Team-Pokémon können nicht einschlafen.
+Setzt das Pokémon eine Offensiv-Attacke ein, nimmt[0x000A]es die Klingenform an. Setzt es danach die Attacke[0x000A]Königsschild ein, nimmt es die Schildform an.
+Kann bei vollen KP Flug-Attacken vor dem Gegner[0x000A]einsetzen.
+Erhöht die Stärke einiger Wellen-, Aura- und[0x000A]Puls-Attacken.
+Erhöht die Verteidigung, wenn Grasfeld aktiv ist.
+Gibt Mitstreitern, die ihr Item aufgebraucht haben,[0x000A]sein eigenes Item.
+Erhöht die Stärke von direkten Attacken.
+Attacken vom Typ Normal nehmen den Typ Fee an[0x000A]und ihre Stärke erhöht sich ein wenig.
+Senkt bei Berührung im Zuge eines Angriffs die[0x000A]Initiative des Angreifers.
+Attacken vom Typ Normal nehmen den Typ Flug an[0x000A]und ihre Stärke erhöht sich ein wenig.
+Zwei Generationen setzen jeweils ein Mal zum[0x000A]Angriff an.
+Erhöht die Stärke aller Attacken des Typs Unlicht.
+Erhöht die Stärke aller Attacken des Typs Fee.
+Kehrt die Wirkung von Auren um und senkt so die[0x000A]Stärke bestimmter Attacken, anstatt sie zu erhöhen.
+Ändert das Wetter, um Feuer-Attacken wirkungslos[0x000A]zu machen.
+Ändert das Wetter, um Wasser-Attacken wirkungslos[0x000A]zu machen.
+Ändert das Wetter, um die Schwächen des Typs Flug[0x000A]zu beseitigen.
+Wird es von einer Attacke getroffen, steigt seine[0x000A]Verteidigung.
+Fallen seine KP auf die Hälfte des Maximalwerts oder[0x000A]weniger, zieht es sich ängstlich zurück.
+Fallen seine KP auf die Hälfte des Maximalwerts oder[0x000A]weniger, bringt es sich in Sicherheit.
+Wird es von einer Wasser-Attacke getroffen,[0x000A]steigt seine Verteidigung stark.
+Sorgt bei Angriffen auf vergiftete Ziele für[0x000A]Volltreffergarantie.
+Fallen seine KP auf die Hälfte des Maximalwerts oder[0x000A]weniger, zerbricht die Panzerung des Pokémon und[0x000A]es wird aggressiver.
+Bewirkt bei Angriffen auf neu eingewechselte Ziele[0x000A]doppelten Schaden.
+Feuer-Attacken fügen dem Pokémon weniger[0x000A]Schaden zu. Verhindert Verbrennungen.
+Erhöht die Stärke von Stahl-Attacken.
+Fallen seine KP nach einem Angriff auf die Hälfte[0x000A]des Maximalwerts oder weniger, steigt sein[0x000A]Spezial-Angriff.
+Erhöht bei Hagel die Initiative.
+Ermöglicht dem Pokémon den Einsatz aller seiner[0x000A]Attacken, ohne das Ziel dabei direkt zu berühren.
+Bewirkt, dass alle Lärm-Attacken des Pokémon den[0x000A]Typ Wasser annehmen.
+Ermöglicht einen Erstschlag mit Attacken, welche die[0x000A]KP des Anwenders direkt regenerieren.
+Attacken vom Typ Normal nehmen den Typ Elektro an[0x000A]und ihre Stärke erhöht sich ein wenig.
+Verdoppelt die Initiative, wenn zuvor ein Elektrofeld[0x000A]erzeugt wurde.
+Verfügt es über einen hohen KP-Wert, wird es zu[0x000A]einem Schwarm und gewinnt an Stärke. Ist der[0x000A]KP-Wert niedrig, löst sich der Schwarm wieder auf.
+Kann ein Mal pro Kampf mit seinem gruseligen[0x000A]Kostüm einen Angriff abwehren.
+Besiegt es ein Ziel, vertieft dies die Freundschaft zu[0x000A]seinem Trainer, wodurch es die Ash-Form annimmt[0x000A]und sein Wasser-Shuriken stärker wird.
+Fallen seine KP auf die Hälfte des Maximalwerts oder[0x000A]weniger, eilen ihm weitere Zellen zu Hilfe und es[0x000A]nimmt die Optimumform an.
+Kann selbst Pokémon vom Typ Stahl oder Gift[0x000A]vergiften.
+Das Pokémon befindet sich ununterbrochen im[0x000A]Halbschlaf und wacht nie vollständig auf. Es kann[0x000A]jedoch im Schlaf angreifen.
+Schüchtert den Gegner ein und hindert ihn so daran,[0x000A]Attacken mit hoher Erstschlagquote einzusetzen.
+Wird es durch eine Attacke besiegt, fügt es dem[0x000A]Angreifer Schaden in Höhe des KP-Werts zu,[0x000A]den es besaß, bevor es kampfunfähig wurde.
+Kann direkt im Anschluss an die Tanz-Attacke[0x000A]eines anderen Pokémon ebenfalls eine solche[0x000A]einsetzen.
+Erhöht die Stärke der Spezial-Attacken seiner[0x000A]Mitstreiter.
+Halbiert den Schaden, den es durch direkte Attacken[0x000A]nimmt, aber verdoppelt dafür den durch[0x000A]Feuer-Attacken erlittenen Schaden.
+Überrascht den Gegner und hindert ihn so daran,[0x000A]Attacken mit hoher Erstschlagquote einzusetzen.
+Erhöht jedes Mal, wenn ein Pokémon besiegt wird,[0x000A]den eigenen Spezial-Angriff.
+Senkt bei Berührung im Zuge eines Angriffs die[0x000A]Initiative des Angreifers.
+Wird einer seiner Mitstreiter besiegt, erhält es[0x000A]dessen Fähigkeit.
+Wechselt seine Fähigkeit zu der eines kampfunfähig[0x000A]gewordenen Mitstreiters.
+Erhöht in jeder Runde, in der es ein anderes[0x000A]Pokémon besiegt, seinen höchsten Statuswert.
+Das Pokémon passt seinen Typ der getragenen[0x000A]Disc an.
+Erzeugt bei Kampfantritt ein Elektrofeld.
+Erzeugt bei Kampfantritt ein Psychofeld.
+Erzeugt bei Kampfantritt ein Nebelfeld.
+Erzeugt bei Kampfantritt ein Grasfeld.
+Verhindert das Senken der Statuswerte durch[0x000A]Attacken und Fähigkeiten von Angreifern.
+Verringert den erlittenen Schaden bei vollen KP.
+Reduziert die Stärke von sehr effektiven Attacken[0x000A]und verringert damit den Schaden, den das Pokémon[0x000A]durch sie erleidet.

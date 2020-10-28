@@ -1,0 +1,8 @@
+msg_main0930_kojiro_01=Ferm{0x1100,0x00FF,0x0101}oa dove sei, nanerottol{0x1100,0x00FF,0x0101}oa!
+msg_main0930_kojiro_02={0xFF00,0x0009}James:{0xFF00,0x0000} Il capo è in una riunione importantissima![0x000A]Non ti conviene disturbarlo!
+msg_main0930_poke_01={0xFF00,0x0009}Meowth:{0xFF00,0x0000} Meeoow!
+msg_main0930_dummy_01={0xBDFF:0x0003}
+msg_main0930_dummy_02={0xBDFF:0x0004}
+msg_main0930_kojiro_03={0xFF00,0x0009}James:{0xFF00,0x0000} Ci risiamo...
+msg_main0930_musashi_01={0xFF00,0x0009}Jessie e James: {0xFF00,0x0000}Il Team Rocket riparte[0x000A]alla velocità della luce!!
+msg_main0930_musashi_back={0xFF00,0x0009}Jessie:{0xFF00,0x0000} Non possiamo lottare se hai solo[0x000A]un Pokémon in squadra, però!{0xBE01}[0x000A]Vanne a prendere un altro e torna subito qui!

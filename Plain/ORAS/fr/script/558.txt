@@ -1,0 +1,42 @@
+Ce tableau liste les altérations de statut pouvant toucher les Pokémon au combat.
+Quel sujet voulez-vous lire ?
+Empoisonnement
+Paralysie
+Sommeil
+Brûlure
+Gel
+Quitter
+Si un Pokémon est empoisonné, ses PV diminuent régulièrement pendant le combat. Le poison ne se dissipe pas une fois le combat terminé, et il faut un Antidote pour le soigner.
+Si un Pokémon est paralysé, sa Vitesse diminue. Il peut également être dans l'incapacité d'agir pendant le combat. La paralysie persiste après le combat. Un Anti-Para permet d'y remédier.
+Si un Pokémon s'endort, il est dans l'incapacité d'attaquer. Le Pokémon peut se réveiller de lui-même, mais si le combat prend fin alors qu'il dort, il conservera l'altération de statut. Un Réveil le sortira de son sommeil.
+Une brûlure réduit l'Attaque et les PV de la victime. Une brûlure persiste après le combat. Un Anti-Brûle permet d'y remédier.
+Si un Pokémon est gelé, il ne peut plus rien faire. Il restera gelé après le combat. Un Antigel permet de le dégeler.
+Je fais boire une dilution de rognure de ma Vive Griffe aux élèves qui ne travaillent pas ! La manière dont tu utiliseras cet objet indiquera de façon évidente si tu apprends bien ou pas.
+Un Pokémon qui porte une Vive Griffe pourra parfois attaquer avant son adversaire. D'autres objets comme celui-ci sont faits pour être tenus par un Pokémon. Mais celui-ci te donnera déjà matière à réfléchir !
+Je suis en train d'échanger un Pokémon avec mon ami !
+J'ai toujours voulu un Grainipiot et j'ai enfin réussi à en avoir un !
+Les Pokémon peuvent tenir des objets, mais ne savent pas utiliser ceux conçus pour les hommes, comme les Potions ou les Antidotes.
+Tu sais combien certaines capacités peuvent troubler un Pokémon ? Un Pokémon confus peut parfois se blesser lui-même sans le vouloir. Mais après le combat, il retrouve ses esprits.
+Un Pokémon qui tient une Baie se soignera lui-même… Il existe de nombreuses sortes d'objets qu'un Pokémon peut tenir… C'est pas facile de tout noter sur son cahier…
+C'est le carnet de cet élève… « On attrape les Pokémon avec des Poké Balls. Jusqu'à six Pokémon peuvent accompagner un Dresseur. Un Dresseur est une personne qui attrape des Pokémon, les élève et les fait combattre. L'objectif des Dresseurs est de vaincre les autres Dresseurs et les Champions qui les attendent dans les Arènes. »
+Pourquoi me regardez-vous de cette façon ? Je suis le proviseur de cet établissement ! Vous voulez une preuve ? Mon savoir sera ma carte de visite !
+Beaucoup de Badges peuvent être obtenus à travers Hoenn ! Voulez-vous en savoir plus ?
+Vous ne comprenez pas la joie que peut offrir un apprentissage sérieux. Revenez quand vous l'aurez découverte !
+Le Badge Roche permet de se faire obéir par les Pokémon jusqu'au niveau 20.
+Le Badge Poing permet de se faire obéir par les Pokémon jusqu'au niveau 30.
+Le Badge Dynamo permet de se faire obéir par les Pokémon jusqu'au niveau 40.
+Le Badge Chaleur permet de se faire obéir par les Pokémon jusqu'au niveau 50.
+Le Badge Balancier permet de se faire obéir par les Pokémon jusqu'au niveau 60.
+Le Badge Plume permet de se faire obéir par les Pokémon jusqu'au niveau 70.
+Le Badge Esprit permet de se faire obéir par les Pokémon jusqu'au niveau 80.
+Le Badge Pluie permet de se faire obéir par tous les Pokémon, quel que soit leur niveau.
+Allons, je suis sûr que vous voulez en savoir plus !
+Badge Roche
+Badge Poing
+Badge Dynamo
+Badge Chaleur
+Badge Balancier
+Badge Plume
+Badge Esprit
+Badge Pluie
+Quitter

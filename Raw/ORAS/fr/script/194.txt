@@ -1,0 +1,10 @@
+Il y a un Fossile Racine.{0xBE01}[0x000A]Si quelqu’un le déplace, l’autre fossile[0x000A]risque de s’enfoncer dans le sable[0xE08D]{0xBE01}[0x000A]Voulez-vous ramasser ce Fossile Racine[0xE07F]?
+{0x0100,0x0000} laisse le Fossile Racine en place.
+Il y a un Fossile Griffe.{0xBE01}[0x000A]Si quelqu’un le déplace, l’autre fossile risque[0x000A]de s’enfoncer dans le sable[0xE08D]{0xBE01}[0x000A]Voulez-vous ramasser ce Fossile Griffe[0xE07F]?
+{0x0100,0x0000} laisse le Fossile Griffe en place.
+Oh, je reconnais cette expression[0xE07F]!{0xBE01}[0x000A]T’as envie que tout le monde soit jaloux[0x000A]de tes super lunettes, pas vrai[0xE07F]?{0xBE01}[0x000A]Plus un mot, on se comprend, toi et moi[0xE07F]!
+Les Lunettes Filtre protègent de tout un tas de choses[0xE07F]!{0xBE01}[0x000A]Et attention : on dirait des jumelles, mais non,[0x000A]c’est des lunettes[0xE07F]! Soyons précis[0xE07F]!
+Comment as-tu fait pour parvenir jusqu’ici[0xE07F]?[0x000A]Aurais-tu, comme moi, un pouvoir[0xE08D] différent[0xE07F]?{0xBE01}[0x000A][0xE08D] Ah.[0x000A]Tu es monté{0x1100,0x00FF,0x0100}e jusque-là grâce à ton Vélo de Course.{0xBE00}[0x000A]Sans pouvoir spécial ou autre.{0xBE00}[0x000A]Ah. Très bien. Félicitations.{0xBE01}[0x000A][0xE08D][0x000A]Peut-être que je devrais m’y mettre, moi aussi[0xE08D][0xE07F]?
+Après tout, un Vélo de Course, ça ne peut pas faire[0x000A]de mal[0xE08D] Un peu de cardio, de temps à autre[0xE08D]
+La tempête de sable dans le désert est tellement forte[0x000A]qu’on ne peut pas y faire un pas[0xE07F]!
+{0x0100,0x0000} s’équipe des Lunettes Sable[0xE07F]!

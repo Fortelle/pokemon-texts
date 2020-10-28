@@ -1,0 +1,13 @@
+Aha! Ich soll einem Pokémon aus deinem Team[0x000A]Zenitstürmer beibringen, sehe ich das richtig?
+Nur Rayquaza kann Zenitstürmer erlernen,[0x000A]aber dieses Pokémon hast du leider nicht dabei.
+Nun dann, komm einfach wieder vorbei,[0x000A]wenn du meine Hilfe brauchst.
+Welchem Pokémon soll ich die Attacke[0x000A]beibringen?
+Diesem Pokémon kann ich Zenitstürmer[0x000A]nicht beibringen.{0xBE01}[0x000A]Nur Rayquaza kann diese Attacke erlernen.
+Du möchtest, dass ich einem Ei Zenitstürmer[0x000A]beibringe? Du bist ja lustig!
+Dieses Rayquaza beherrscht Zenitstürmer[0x000A]bereits.
+Ich soll deinem {0x0101,0x0000} also[0x000A]Zenitstürmer beibringen?
+Zenitstürmer ist eine mächtige Attacke,[0x000A]die nur Rayquaza einsetzen kann.{0xBE01}[0x000A]Man sagt, ihre Stärke sei so groß, dass sie[0x000A]mit einem Schlag einen riesigen Meteor{0xBE00}[0x000A]pulverisieren kann.
+Welche Attacke soll durch[0x000A]{0x0107,0x0000} ersetzt werden?
+{0x0102,0x0000} erlernt[0x000A]{0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+Eins,{0xBE02:0x0014} zwei{0xBE02:0x0014} und{0xBE02:0x0014}... schwupp!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} hat {0x0107,0x0001}[0x000A]vergessen und {0x0107,0x0002} erlernt!{0xBE05,0x0004}{0xBE05,0x0001}
+{0x0102,0x0000} hat[0x000A]{0x0107,0x0001} nicht erlernt.

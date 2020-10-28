@@ -1,0 +1,11 @@
+msg_railway_01=어느 역까지 가는[0x000A]열차를 타겠습니까?
+msg_railway_select_01=브래시마을역
+msg_railway_select_02=브래시마을역
+msg_railway_select_03=와일드에리어역
+msg_railway_select_04=엔진시티역
+msg_railway_select_05=바우마을역
+msg_railway_select_06=너클시티역
+msg_railway_select_07=화이트힐역
+msg_railway_select_08=슛시티역
+msg_railway_select_09=그만둔다
+msg_railway_stop_01=차량 점검으로[0x000A]열차가 지연되고 있습니다

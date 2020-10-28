@@ -1,0 +1,5 @@
+La porta è chiusa.{0xBE01}[0x000A]Guardando meglio, c’è scritto qualcosa:[0x000A]“Scrivi qua il codice segreto.”
+{0x0100,0x0000} scrive il codice segreto sulla porta.{0xBE01}[0x000A]“Il Mago del Quiz è meraviglioso.”{0xBE01}[0x000A]...{0xBE01}[0x000A]La porta si apre!
+{0x0100,0x0000} trova una pergamena.
+{0x0100,0x0000} memorizza il codice segreto scritto[0x000A]sulla pergamena.
+C’è scritto un codice segreto.

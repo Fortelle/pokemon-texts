@@ -1,0 +1,16 @@
+Sì
+No
+{0x0206,0x0008,0x002E} $
+Vuoi salvare il gioco?
+Salvataggio in corso.[0x000A]Non spegnere la console.
+{0x0100,0x0000} ha salvato il gioco.
+Esiste già un salvataggio e non puoi crearne[0x000A]un altro.{0xBE01}[0x000A]Consulta il manuale di istruzioni per ulteriori[0x000A]informazioni.
+Il salvataggio non è riuscito.
+Ricevi {0x0101,0x0000}!
+{0x0101,0x0000} è stato spostato[0x000A]in: {0x010B,0x0001}!
+Hai ricevuto un messaggio sull’Holovox!
+Bentornat{0x1100,0x00FF,0x0101}oa {0x0100,0x0000}!{0xBE01}[0x000A]Tu e la tua squadra sembrate davvero stanchi...[0x000A]Riposatevi un po’...{0xBE01}[0x000A]...
+Bene, ora sembrate tornati in perfetta forma![0x000A]Ascoltami bene, {0x0100,0x0000}.{0xBE01}[0x000A]Quando i tuoi Pokémon hanno pochi PS,[0x000A]puoi tornare a casa per rimetterli in sesto.{0xBE01}[0x000A]Per vincere le sfide, devono essere in buone[0x000A]condizioni! Come dice sempre papà, non è vero?{0xBE01}[0x000A]E adesso rimettiti in viaggio e fai vedere chi sei![0x000A]Ma cerca di non strapazzarti troppo!
+Ora rimetterò in sesto la tua squadra di Pokémon.
+Quando i tuoi Pokémon non hanno molti[0x000A]PS, visita subito un Centro Pokémon.{0xBE01}[0x000A]Inoltre, se stai per intraprendere un[0x000A]lungo viaggio, è opportuno fare scorta{0xBE00}[0x000A]di pozioni al Pokémon-Market.{0xBE01}[0x000A]Buona fortuna!
+Ecco, la tua squadra di Pokémon[0x000A]è in perfetta forma!{0xBE01}[0x000A]Buona fortuna!

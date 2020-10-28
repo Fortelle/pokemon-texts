@@ -1,0 +1,9 @@
+msg_t011r0201_youngf_01=Kennst du Major Bob aus der Arena von[0x000A]Orania City? Ich bin sein größter Fan!{0xBE01}[0x000A]Waaas? Du hast ein Autogramm von ihm?[0x000A]Da werd ich ja grün vor Neid!
+msg_t011r0201_youngf_02=A-Aber du... Du bist doch... {0x0100,0x0000}![0x000A]{0x0100,0x0000}, der Champ!{0xBE01}[0x000A]*Kreisch!* Der Champ steht vor mir!{0xBE01}[0x000A]Krieg ich dein Autogramm?
+msg_t011r0201_adultm_01=Ich sag dir eins, Lorelei von den Top Vier ist eine[0x000A]Nummer für sich.{0xBE01}[0x000A]Sie ist so cool, dass sie ihre Gegner mit ihrem[0x000A]eisigen Blick einfrieren könnte!
+msg_t011r0201_adultm_02=Sieh an, wenn das mal nicht der Champ ist![0x000A]Ich hab gehört, du hast Lorelei besiegt?{0xBE01}[0x000A]Kaum zu glauben, dass jemand noch cooler[0x000A]sein kann als sie.
+msg_t011r0201_muscle_01=Bruno von den Top Vier ist mein Vorbild.[0x000A]Seine Kampf-Attacken sind unschlagbar!{0xBE01}[0x000A]Sein Sixpack ist das härteste in ganz Kanto![0x000A]Sein Bizeps ist so groß wie ein Berg!{0xBE01}[0x000A]Ich gelobe zu trainieren, bis ich so gut bin[0x000A]wie er!
+msg_t011r0201_muscle_02=Du bist der Champ, was bedeutet, dass du Bruno[0x000A]in einem Kampf besiegt haben musst.{0xBE01}[0x000A]Dann habe ich eine Frage an dich.{0xBE01}[0x000A]...{0xBE01}[0x000A]Sein Bizeps. Wie sah sein Bizeps aus der[0x000A]Nähe aus?
+msg_t011r0201_juvenilesf_01=Offenbar ist der Arenaleiter von Vertania City[0x000A]ein einziges Mysterium. Niemand weiß, wer es{0xBE00}[0x000A]wirklich ist!{0xBE01}[0x000A]Und das macht mich total verrückt! Ich muss es[0x000A]unbedingt wissen...
+msg_t011r0201_juvenilesf_02=Ich hab gehört, dass der mysteriöse Arenaleiter[0x000A]von Vertania City der Boss von Team Rocket war.{0xBE01}[0x000A]Und so einen furchteinflößenden Gegner hast[0x000A]du einfach so besiegt...?{0xBE01}[0x000A]Ich glaub, ich bin gerade dein Fan geworden!
+test_00={0xBDFF:0x0008}

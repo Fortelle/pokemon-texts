@@ -1,0 +1,14 @@
+main_event_0250_rival_06=Over here, {0x0100,0x0000}!{0x0114,0x0005}
+main_event_0250_rival_01=All right, {0x0100,0x0000}?[0x000A]It’s time we filled in our teams a bit—{0x0114,0x0005}
+main_event_0250_champion_01=And I’m here to teach you how!{0xBE01}[0x000A]You’ll need to catch Pokémon if you’ve got any[0x000A]hope of filling in that Pokédex.{0x0114,0x0004}
+main_event_0250_rival_02=Lee?! Where’d you come from?{0x0114,0x0005}
+main_event_0250_champion_05=Only...look at you, little {0x0100,0x0000}![0x000A]You’ve already caught some on your own!{0xBE01}[0x000A]Your mum gave you those Poké Balls, did she?{0x0114,0x0004}
+main_event_0250_champion_02=Every Pokémon has got a type or two, which can[0x000A]make it good against some opponents but poor{0xBE00}[0x000A]against others.{0xBE01}[0x000A]That’s the reason you’ll want to catch different[0x000A]Pokémon—to cover one another’s weaknesses.{0xBE01}[0x000A]Now, let’s all have a champion time as I show you[0x000A]how it’s done!{0x0114,0x0004}
+main_event_0250_capturedemo_01={0xBDFF:0x0006}
+main_event_0250_capturedemo_02={0xBDFF:0x0007}
+main_event_0250_capturedemo_03={0xBDFF:0x0008}
+main_event_0250_rival_03=Typical Lee!{0x0114,0x0005}
+main_event_0250_champion_03=I’ll give you some more Poké Balls. In return, I’ll[0x000A]only ask that you catch plenty of Pokémon!{0xBE01}[0x000A]The Pokémon around here seem easy to catch.[0x000A]Almost like they’re itching to join some Trainer’s{0xBE00}[0x000A]team, wouldn’t you say?{0x0114,0x0004}
+main_event_0250_rival_04=The Pokémon on your team will get Exp. Points[0x000A]when you catch Pokémon, too.{0x0114,0x0005}
+main_event_0250_champion_04=And of course, they get Exp. Points from battle,[0x000A]so take on the other Trainers you meet along the{0xBE00}[0x000A]path to help your Pokémon thrive.{0xBE01}[0x000A]Your team will keep on changing and growing[0x000A]as you get stronger together, no doubt...{0xBE00}[0x000A]But even I don’t know exactly how yet!{0xBE00}[0x000A]Show your Champion something good, all right?{0x0114,0x0004}
+main_event_0250_rival_05=All right! I’m gonna catch loads of Pokémon.[0x000A]The professor will be shocked when she sees!{0x0114,0x0005}

@@ -1,0 +1,9 @@
+msg_main0057_mother_01={0xFF00,0x0009}Mama:{0xFF00,0x0000} Oh, das ist ja ein süßes Pokémon![0x000A]Das hat dir bestimmt der Professor geschenkt.
+msg_main0057_mother_02=Moment... Was sagst du da? Du hast es ganz[0x000A]alleine gefangen?!{0xBE01}[0x000A]Da bin ich sprachlos.[0x000A]Und wie heißt das Kleine?{0xBE01}[0x000A]Ah, {0x0102,0x0003}. Wirklich niedlich!
+msg_main0057_poke_01=Pika, pikaaa!
+msg_main0057_poke_02=Voli!
+msg_main0057_mother_03={0xFF00,0x0009}Mama:{0xFF00,0x0000} Hui, es ist ganz schön lebhaft!
+msg_main0057_mother_05=Ihr beiden werdet euch jetzt in euer Abenteuer[0x000A]stürzen, hab ich recht?{0xBE01}[0x000A]Ich wusste, dass dieser Tag irgendwann kommen[0x000A]würde.{0xBE01}[0x000A]Deshalb habe ich das hier für dich aufbewahrt.
+msg_main0057_sys_01=Du erhältst eine {0xFF00,0x0006}Karte {0xFF00,0x0000}von deiner Mama!
+msg_main0057_sys_02={0xBDFF:0x0007}
+msg_main0057_mother_04=Wenn du einmal wissen willst, wo genau du[0x000A]gerade bist, musst du einfach nur einen Blick{0xBE00}[0x000A]auf die Karte in deinem Beutel werfen.{0xBE01}[0x000A]Na gut, dann wünsch ich euch beiden eine gute[0x000A]Reise. Passt auf euch auf!

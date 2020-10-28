@@ -1,0 +1,8 @@
+msg_sub027_clerkm_01=Vaya, justamente ahora que me disponía a ir al[0x000A]servicio...{0xBE01}[0x000A]¡Y quien tendría que venir a relevarme aún no[0x000A]ha llegado!{0xBE01}[0x000A]Habría que reforzar la plantilla...
+msg_sub027_sys_01={0xBDFF:0x0001}
+msg_sub027_clerkm_02=La MT03 permite enseñar a un Pokémon el[0x000A]movimiento Refuerzo, que aumenta la potencia{0xBE00}[0x000A]de los movimientos de un aliado en combate.
+msg_sub027_clerkm_03=¿Has usado el movimiento Refuerzo?{0xBE01}[0x000A]A mí sí que me vendría bien una manita extra.[0x000A]¡Con una persona tendría suficiente!
+msg_sub027_clerkm_01_nouse={0xBDFF:0x0004}
+msg_sub027_clerkm_02_nouse={0xBDFF:0x0005}
+msg_sub027_clerkm_03_nouse={0xBDFF:0x0006}
+msg_sub027_clerkm_04={0xBDFF:0x0007}

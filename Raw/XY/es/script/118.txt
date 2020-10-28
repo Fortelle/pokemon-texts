@@ -1,0 +1,24 @@
+Aquí es donde estudiamos los fósiles de[0x000A]Pokémon.{0xBE01}
+Veo que llevas un fósil.[0x000A]¿Quieres que recree un Pokémon a partir de él?
+Vaya... Ya llevas contigo muchos Pokémon.[0x000A]¿Seguro que quieres que regenere un fósil?
+¿Qué fósil quieres que regenere?
+¡Perfecto!{0xBE01}[0x000A]¡Recrearé al Pokémon original a partir de[0x000A]este {0x0109,0x0000}!{0xBE01}
+¿Seguro que no?[0x000A]Muy bien, como tú quieras.
+Vamos a recrear un Pokémon a partir de este[0x000A]fósil que nos has dado...
+¡He restaurado el fósil que me has dado,[0x000A]y ahora vuelve a ser un Pokémon!{0xBE01}[0x000A]¡Es un {0x0101,0x0001}![0x000A]Cuídalo bien, ¿de acuerdo?{0xBE01}
+{0x0100,0x0002} ha recibido un {0x0101,0x0001}.
+¿Quieres ponerle un mote a tu nuevo[0x000A]{0x0101,0x0001}?
+Ah, espera. No puedes llevar más Pokémon.{0xBE01}[0x000A]Nosotros te lo cuidaremos hasta que vuelvas[0x000A]a buscarlo.
+Si encuentras algún fósil, ¡ya sabes dónde[0x000A]encontrarme!
+{0x0109,0x0003}
+{0x0109,0x0004}
+Fósil Raíz
+Fósil Garra
+Fósil Hélix
+Fósil Domo
+Ámbar Viejo
+Fósil Coraza
+Fósil Cráneo
+Fósil Tapa
+Fósil Pluma
+Salir

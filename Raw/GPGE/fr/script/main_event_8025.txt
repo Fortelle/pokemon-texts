@@ -1,0 +1,8 @@
+msg_main8025_gym_01=Salut, Champion{0x1100,0x00FF,0x0200}ne en herbe !
+msg_main8025_gym_02=L’Arène de Carmin sur Mer est juste ici !
+msg_main8025_gym_05=Si tu veux en atteindre l’entrée, il te faudra[0x000A]{0xFF00,0x0006}trancher le tronc de cet arbuste{0xFF00,0x0000} qui t’empêche{0xBE00}[0x000A]actuellement d’avancer !
+msg_main8025_gym_06=Pardon ? Tu ne sais pas comment t’y prendre ?{0xBE01}[0x000A]Hmmm, il me semble que le capitaine de[0x000A]L’Océane est également bûcheron à ses{0xBE00}[0x000A]heures perdues...
+msg_main8025_gym_03=L’Arène de Carmin sur Mer est juste ici !
+msg_main8025_gym_07=Si tu veux en atteindre l’entrée, il te faudra[0x000A]{0xFF00,0x0006}trancher le tronc de cet arbuste{0xFF00,0x0000} qui t’empêche{0xBE00}[0x000A]d’avancer !
+msg_main8025_gym_08=Oh, mais je vois que ton petit {0x0101,0x0002}[0x000A]s’y connaît déjà en bûcheronnage !{0xBE01}[0x000A]Vas-y, essaie de trancher l’arbuste, pour voir !
+msg_main8025_gym_04=Alors là, je suis scié ![0x000A]C’était du travail de professionnel !{0xBE01}[0x000A]Maintenant que ton petit partenaire a {0xFF00,0x0006}tranché{0xFF00,0x0000}[0x000A]{0xFF00,0x0006}l’arbuste{0xFF00,0x0000}, il ne te reste plus qu’à partir à l’assaut{0xBE00}[0x000A]de l’Arène !{0xBE05,0x0004}{0xBE05,0x0001} Vas-y, je crois en toi !

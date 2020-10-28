@@ -1,0 +1,14 @@
+msg_t008r0201_goods_01=포켓몬의 화석과 희귀한 돌이[0x000A]진열되어 있다!
+msg_t008r0201_goods_02=오래된 포켓몬 굿즈가[0x000A]진열되어 있다!
+msg_t008r0201_dig_01=디그다: 디그~
+msg_t008r0201_system_01={0x0100,0x0000}{0x1900,0x0001} 디그다로부터[0x000A]{0xFF00,0x0006}금구슬{0xFF00,0x0000}을 받았다!
+msg_t008r0201_dig_02=디그다: 다그~
+msg_workerm1_01_p01_t008_r0501={0xBDFF:0x0005}
+msg_workerm1_01_p02_t008_r0501={0xBDFF:0x0006}
+msg_workerm1_01_p03_t008_r0501={0xBDFF:0x0007}
+msg_workerm1_01_p04_t008_r0501={0xBDFF:0x0008}
+msg_workerm1_01_p05_t008_r0501={0xBDFF:0x0009}
+msg_workerm1_01_p06_t008_r0501={0xBDFF:0x000A}
+msg_workerm1_01_p06_t008_r0501_fm={0xBDFF:0x000B}
+msg_workerm1_01_p07_t008_r0501={0xBDFF:0x000C}
+msg_workerm1_01_p08_t008_r0501={0xBDFF:0x000D}

@@ -1,0 +1,16 @@
+msg_elevator_c03_01=¿Adónde quieres ir?
+msg_elevator_c03_02=Hotel Rosalón
+msg_elevator_c03_03=Estadio de Puntera
+msg_elevator_c03_04=Estación del monorraíl
+msg_elevator_c03_05=Torre Rose
+msg_elevator_c03_06=Torre Batalla
+msg_elevator_c03_07=Salir
+msg_elevator_c02_01=No puedes usar el ascensor en este instante.
+msg_elevator_start=¿A qué planta quieres ir?
+msg_elevator_cancel=Salir
+msg_elevator_1f=PB
+msg_elevator_3f=P2
+msg_elevator_ap_1f=PB: Entrada
+msg_elevator_ap_2f=P1: Reserva
+msg_elevator_ap_b1f=P-1: Atracadero
+msg_elevator_ap_b2f=P-2: Laboratorios

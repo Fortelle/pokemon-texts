@@ -1,0 +1,9 @@
+msg_sub037_adultf_01=Ich kümmere mich hier um verletzte Pokémon.
+msg_sub037_adultf_02=Jetzt, wo Bisasam wieder richtig fit ist, würde ich[0x000A]es gerne in die Obhut eines erfahrenen Trainers{0xBE00}[0x000A]geben, der schon etliche Pokémon gefangen hat.
+msg_sub037_adultf_08=Du hast bisher {0x0208,0x0000,0x202F} Pokémon[0x000A]gefangen?
+msg_sub037_adultf_03=Das ist wirklich beeindruckend! Ich glaube,[0x000A]dir kann ich vertrauen.{0xBE01}[0x000A]Wärst du so lieb und würdest dieses Bisasam[0x000A]an dich nehmen?
+msg_sub037_adultf_04=Vielen Dank! Kümmere dich gut um Bisasam!
+msg_sub037_adultf_09=Hmmm, ich weiß ja nicht...{0xBE01}[0x000A]Komm wieder, wenn du mindestens {0x0201,0x0000} Pokémon[0x000A]gefangen hast, dann reden wir noch mal darüber.
+msg_sub037_adultf_05=Ich hoffe, Bisasam geht es gut.
+msg_sub037_adultf_06=Oh... Das ist aber schade...
+msg_sub037_poke_01={0xFF00,0x0009}Bisasam:{0xFF00,0x0000} Bisa! Bisasam!

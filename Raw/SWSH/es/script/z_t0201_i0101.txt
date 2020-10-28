@@ -1,0 +1,8 @@
+msg_t0201i0101_plant_01=Estas plantas necesitan muchos cuidados, pero[0x000A]presentan un aspecto muy lozano.
+msg_t0201i0101_bg1_01=La pizarra tiene notas pegadas por todas partes.
+msg_t0201i0101_bg2_01=Los parámetros representados están oscilando.[0x000A]Deben de estar midiendo algo en concreto.
+msg_t0201i0101_poke1_01_pop={0xBDFF:0x0003}
+msg_t0201i0101_poke2_01_pop=¡Yam, yam!
+msg_t0201i0101_bookshelf1_01=Sobre la transformación de los Pokémon:[0x000A]Los Pokémon no solo cambian de aspecto al[0x000A]subir de nivel, sino también bajo la influencia de[0x000A]ciertos objetos y entornos.[0x000A]{0xBE01}[0x000A]Las hipótesis apuntan a un factor concreto de su[0x000A]fisionomía que desencadenaría estas alteraciones[0x000A]en aspecto y carácter, pero hasta el momento no[0x000A]se han podido hallar pruebas concluyentes.
+msg_t0201i0101_bookshelf2_01=Los Pokémon y el fenómeno Dinamax:[0x000A]El fenómeno mediante el cual los Pokémon[0x000A]experimentan un aumento desproporcionado de[0x000A]su tamaño recibe el nombre de Dinamax.[0x000A]{0xBE01}[0x000A]Esta sorprendente transformación se puede[0x000A]observar en algunos lugares concretos de Galar[0x000A]si se reúnen ciertas condiciones.
+msg_t0201i0101_bookshelf2_02=El agigantamiento de los Pokémon:[0x000A]Por regla general, se observa que la evolución de[0x000A]los Pokémon va acompañada de un aumento en[0x000A]la fuerza y tamaño del ejemplar.[0x000A]{0xBE01}[0x000A]De este patrón cabe extrapolar que este afán[0x000A]por mostrar una mayor envergadura corporal es[0x000A]un mecanismo natural que responde al instinto[0x000A]de supervivencia.

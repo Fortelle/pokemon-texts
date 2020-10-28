@@ -1,0 +1,2 @@
+sub_event_020_npc_01=Quando senti un suono da far accapponare[0x000A]la pelle come un gessetto su una lavagna...{0xBE00}[0x000A]ti vengono meno le forze, vero?{0xBE01}[0x000A]Beh, ho una MT che replica lo stesso effetto!
+sub_event_020_npc_02=Uno stridio... Non c’è suono peggiore, specie[0x000A]se lo senti di notte quando sei già andat{0x1100,0x00FF,0x0101}oa{0xBE00}[0x000A]a dormire!

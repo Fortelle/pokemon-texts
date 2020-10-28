@@ -1,0 +1,12 @@
+msg_sub055_rocket_F_01=Chuuut ! Je suis Fatale... Steffie Fatale.[0x000A]Je suis une espionne en mission...
+msg_sub055_rocket_F_02=... Mais dis-moi, que fait un{0x1100,0x00FF,0x0806} gamine gamine comme toi[0x000A]par ici ?
+msg_sub055_select_01=Je suis là pour vaincre la Team Rocket.
+msg_sub055_select_02=J’me balade...
+msg_sub055_rocket_F_03=... Ho ho ho ! Tu as du cran ! Tu me plais !
+msg_sub055_rocket_F_04=... Ho ho ho ! Tu es un{0x1100,0x00FF,0x110D} petit rigoloe petite rigolote, toi !
+msg_sub055_rocket_F_05=Tiens, pour fêter notre rencontre, laisse Steffie[0x000A]t’offrir ceci.
+msg_sub055_system_01=Vous recevez une {0xFF00,0x0006}Tenue Rocket{0xFF00,0x0000} !
+msg_sub055_system_02=Vous rangez la {0xFF00,0x0006}Tenue Rocket {0xFF00,0x0000}dans votre[0x000A]Malle à Costumes.
+msg_sub055_rocket_F_06=Porte ça et t’auras l’air d’un{0x1100,0x00FF,0x0705} vraie vraie Rocket !
+msg_sub055_rocket_F_07=... Même si, à mon avis, personne n’aura de mal[0x000A]à te démasquer, vu ta taille.
+msg_sub055_rocket_F_08=Attention, si jamais tu racontes à qui que ce soit[0x000A]que je suis une espionne...{0xBE00}[0x000A]Couic !

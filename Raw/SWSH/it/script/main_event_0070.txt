@@ -1,0 +1,17 @@
+main_event_0070_rivalmama_01={0xBDFF:0x0000}
+main_event_0070_champion_01=Guardate bene questi splendidi Pokémon!{0x0114,0x0004}
+main_event_0070_rival_01=Allora, Dandel! Dov’è il regalo che avevi[0x000A]promesso?{0xBE01}[0x000A]Si tratta di un Pokémon, giusto?{0x0114,0x0005}
+main_event_0070_champion_02=Esatto! Un regalo favoloso da un Campione[0x000A]strepitoso!{0xBE01}[0x000A]Su, entrate in scena, miei piccoli amici![0x000A]It’s champion time!{0x0114,0x0004}
+main_event_0070_champion_03=Il Pokémon di tipo Erba Grookey!{0x0114,0x0004}
+main_event_0070_champion_04=Il Pokémon di tipo Fuoco Scorbunny!{0x0114,0x0004}
+main_event_0070_champion_05=Il Pokémon di tipo Acqua Sobble!{0x0114,0x0004}
+main_event_0070_poke1_01={0xBDFF:0x0007}
+main_event_0070_poke2_01={0xBDFF:0x0008}
+main_event_0070_poke3_01={0xBDFF:0x0009}
+main_event_0070_champion_06={0xBDFF:0x000A}
+main_event_0070_rival_02={0xBDFF:0x000B}
+main_event_0080_champion_06=Alright! Mettetevi in riga, miei piccoli portenti!{0x0114,0x0004}
+main_event_0081_champion_01=Quale scegli?{0x0114,0x0004}
+main_event_0081_poke1_01=Scorbunny
+main_event_0081_poke2_01=Sobble
+main_event_0081_poke3_01=Grookey

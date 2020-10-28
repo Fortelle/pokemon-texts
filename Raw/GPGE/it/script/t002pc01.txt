@@ -1,0 +1,8 @@
+msg_t002pc01_gentleman_01=Si possono leggere le riviste là nell’angolo.{0xBE01}[0x000A]Me l’hanno detto alla reception. Che gentili!
+msg_t002pc01_youngm_01=Troverai un Centro Pokémon in ogni città.{0xBE01}[0x000A]I servizi che offrono sono tutti gratuiti, quindi[0x000A]puoi andarci ogni volta che ne hai bisogno!
+msg_t002pc01_childm_01=Sapevi che se catturi più Pokémon di quanti[0x000A]ne puoi portare con te puoi metterli nel Box?{0xBE01}[0x000A]Dovresti averne uno nella Borsa!
+msg_t002pc01_childf_01=Hai mai sfidato altri Allenatori?{0xBE01}[0x000A]Se la Velocità del tuo Pokémon[0x000A]è superiore a quella del Pokémon{0xBE00}[0x000A]avversario, attaccherà per primo!
+msg_t002pc01_book_01=C’è una rivista intitolata “Pokérotocalco”.
+msg_t002pc01_select_01=Sul retro c’è una pubblicità molto colorata.[0x000A]Vuoi leggerla?
+msg_t002pc01_book_02=Ci sono alcuni Pokémon in grado di imparare[0x000A]delle mosse avanzate dette Tecniche Segrete!{0xBE01}[0x000A]Si tratta di mosse molto utili anche al di fuori[0x000A]della lotta: permettono infatti di tagliare piante,{0xBE00}[0x000A]illuminare grotte e fare tante altre cose.{0xBE01}[0x000A]Chissà, forse anche uno dei Pokémon che[0x000A]viaggiano con te potrebbe impararne una!
+msg_t002pc01_pc_01=Siamo spiacenti, ma il dispositivo[0x000A]è attualmente in manutenzione.{0xBE01}[0x000A]Torna più tardi!

@@ -1,0 +1,40 @@
+{0x0100,0x0000} ha encendido el PC.{0xBE01}
+¿A qué PC quieres acceder?
+PC de alguien
+PC de Olivier
+Ver récords
+Vídeos de presentación
+PC del Prof. Ciprés
+Desconectar
+Dejar Pokémon
+Sacar Pokémon
+Mover Pokémon
+Mover objeto
+Desconectar
+Para guardar algún Pokémon de tu equipo en[0x000A]una Caja.
+Para pasar un Pokémon guardado en alguna[0x000A]Caja a tu equipo.
+Para ordenar los Pokémon de las cajas y de tu equipo.
+Para organizar los objetos de los Pokémon de las cajas[0x000A]o de tu equipo.
+Para salir del Sistema de Almacenamiento de Pokémon.
+¡Enhorabuena!{0xBE01}[0x000A]¡Has obtenido varios fondos por terminar tu aventura por[0x000A]primera vez!{0xBE05,0x0000}{0xBE05,0x0001}{0xBE01}
+{0xBDFF:0x0013}
+Completado por primera vez
+Ver última foto
+Hall de la Fama
+Desconectar
+Puedes ver el equipo Pokémon que tenías cuando[0x000A]completaste la aventura por primera vez.
+Puedes ver la última foto que has tomado en tu aventura.
+Puedes ver los equipos Pokémon con los que ingresaste[0x000A]en el Hall de la Fama.
+Sale del sistema de récords.
+Los datos del Hall de la Fama están dañados.{0xBE01}[0x000A]Para solucionarlo, vuelve a entrar en el Hall de la Fama.{0xBE01}
+Pokédex de Kalos Centro
+Pokédex de Kalos Costa
+Pokédex de Kalos Montaña
+Pokédex Nacional
+Desconectar
+El profesor evaluará cuánto has avanzado con tu Pokédex[0x000A]de Kalos Centro.
+El profesor evaluará cuánto has avanzado con tu Pokédex[0x000A]de Kalos Costa.
+El profesor evaluará cuánto has avanzado con tu Pokédex[0x000A]de Kalos Montaña.
+El profesor evaluará cuánto has avanzado con tu Pokédex[0x000A]Nacional.
+Te desconectarás del PC del Profesor.
+¿Quieres evaluar otra Pokédex?

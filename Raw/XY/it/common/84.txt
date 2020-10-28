@@ -1,0 +1,80 @@
+Con la modalità Gara in Diretta potrai partecipare[0x000A]alle gare ufficiali durante determinati eventi.[0x000A][0x000A]Per conoscere le regole e avere maggiori informazioni[0x000A]sulle gare ufficiali, consulta il sito ufficiale Pokémon.
+Vuoi ricevere il Certificato Partecipante?
+Ricezione Certificato Partecipante in corso.[0x000A]Premi il pulsante B per annullare.
+Vuoi annullare?
+Non puoi partecipare a questa gara.
+Hai già partecipato a questa gara.
+Vuoi iscrivere alla gara i Pokémon[0x000A]di questo Box Lotta?
+Vuoi annullare l’iscrizione del Box Lotta?
+Registrazione del Box Lotta in corso.[0x000A]Non spegnere la console.
+Questa è la Gara in Diretta![0x000A]Scegli una modalità.
+Ricerca di un avversario in corso.[0x000A]Attendi...
+Vuoi interrompere la ricerca?
+I vostri regolamenti di gara non coincidono.
+Hai già lottato con questo giocatore.
+Quando ti verrà indicato dallo staff,[0x000A]premi il pulsante A.
+Salvataggio dei risultati in corso.[0x000A]Non spegnere la console.
+Hai raggiunto il numero di lotte prefissato.[0x000A]Complimenti, ora puoi riposare!
+Questa è l’ultima lotta che hai affrontato.[0x000A]Vuoi rivederla?
+Una volta abbandonata la gara[0x000A]non potrai più riprenderla.{0xBE01}[0x000A]Vuoi abbandonare comunque?
+Vuoi davvero abbandonare la gara?
+Annullamento dell’iscrizione alla gara...
+Hai abbandonato la gara.[0x000A]Il Box Lotta è stato sbloccato.
+Collegamento in corso.[0x000A]Attendi...
+Non hai ancora affrontato nessuna lotta!
+Vuoi annullare anche l’iscrizione alla gara?
+Controllo scheda SD in corso.[0x000A]Non spegnere la console.
+I dati sono danneggiati.[0x000A]Il Video Lotta non può essere riprodotto.
+La scheda SD è piena.[0x000A]Impossibile salvare il Video Lotta.
+Interruzione della comunicazione in corso...
+Impossibile ricevere il Certificato Partecipante.[0x000A]Riprova dall’inizio.
+Non ci sono Video Lotta salvati.
+Gara in Diretta
+Il tuo Box Lotta
+{0x0201,0x0002}/{0x0201,0x0001}/{0x0203,0x0000,0x0000}
+Registra
+Annulla
+Affronta la sfida
+Rivedi la lotta precedente
+Abbandona la gara
+Rivedi la lotta
+Indietro
+Sì
+No
+L
+{0x0202,0x0000}
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+{0xBDFF:0x002F}
+I tuoi risultati
+Vittorie:
+{0x0201,0x0000}
+Sconfitte:
+{0x0201,0x0000}
+Lotte affrontate:
+{0x0201,0x0000}/{0x0201,0x0001}
+Avversario
+{0xBDFF:0x0038}
+{0xBDFF:0x0039}
+{0xBDFF:0x003A}
+{0xBDFF:0x003B}
+{0x0201,0x0000}
+La vittoria va a {0x0100,0x0000}!
+{0x0100,0x0000} abbandona la lotta.
+La lotta finisce in pareggio.
+C’è un problema con uno o più Pokémon[0x000A]nel tuo Box Lotta.
+Le Uova non possono partecipare.
+Non hai abbastanza Pokémon partecipanti.
+I Pokémon partecipanti sono troppi.
+Manca almeno uno dei Pokémon necessari[0x000A]per partecipare.
+C’è almeno un Pokémon che conosce mosse[0x000A]non consentite.[0x000A][0x000A]{0x0101,0x0000}[0x000A]{0x0101,0x0001}[0x000A]{0x0101,0x0002}[0x000A]{0x0101,0x0003}[0x000A]{0x0101,0x0004}[0x000A]{0x0101,0x0005}
+C’è almeno un Pokémon non ammesso:[0x000A][0x000A]{0x0101,0x0000}[0x000A]{0x0101,0x0001}[0x000A]{0x0101,0x0002}[0x000A]{0x0101,0x0003}[0x000A]{0x0101,0x0004}[0x000A]{0x0101,0x0005}
+C’è almeno un Pokémon con uno strumento[0x000A]non consentito:[0x000A][0x000A]{0x0109,0x0000}[0x000A]{0x0109,0x0001}[0x000A]{0x0109,0x0002}[0x000A]{0x0109,0x0003}[0x000A]{0x0109,0x0004}[0x000A]{0x0109,0x0005}
+Il livello di almeno uno dei tuoi Pokémon[0x000A]non soddisfa le condizioni per partecipare:[0x000A][0x000A]{0x0101,0x0000}[0x000A]{0x0101,0x0001}[0x000A]{0x0101,0x0002}[0x000A]{0x0101,0x0003}[0x000A]{0x0101,0x0004}[0x000A]{0x0101,0x0005}
+Hai più esemplari dello stesso Pokémon:[0x000A][0x000A]{0x0101,0x0000}[0x000A]{0x0101,0x0001}[0x000A]{0x0101,0x0002}[0x000A]{0x0101,0x0003}[0x000A]{0x0101,0x0004}[0x000A]{0x0101,0x0005}
+Alcuni dei tuoi Pokémon hanno lo stesso[0x000A]strumento:[0x000A][0x000A]{0x0109,0x0000}[0x000A]{0x0109,0x0001}[0x000A]{0x0109,0x0002}[0x000A]{0x0109,0x0003}[0x000A]{0x0109,0x0004}[0x000A]{0x0109,0x0005}
+Hai troppi Pokémon speciali.
+Non puoi partecipare a una Gara in Diretta[0x000A]perché stai partecipando a una Gara Online.{0xBE01}[0x000A]Vuoi abbandonare la Gara Online?
+Una volta abbandonata la Gara Online,[0x000A]non sarà più possibile riprenderla.{0xBE01}[0x000A]Vuoi abbandonare comunque?
+Stai abbandonando la gara in corso.[0x000A]Non spegnere la console.
+Hai abbandonato la Gara Online.

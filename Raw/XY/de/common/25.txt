@@ -1,0 +1,42 @@
+Name:
+{0x0100,0x0000}
+ID-Nr.:
+{0x0204,0x0000,0x0000}
+Pokédex:
+{0x0202,0x0000}
+
+Geld:
+{0x0206,0x0000,0x002E} $
+{0xBDFF:0x0009}
+Spielzeit:
+{0x0202,0x0000}
+:
+{0x0201,0x0001}
+Abenteuer gestartet am:
+{0x0201,0x0002}.{0x0201,0x0001}.{0x0203,0x0000,0x0000}
+Trainer-Info
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+Debüt in der Ruhmeshalle:
+PM:
+{0x0206,0x0000,0x0020}
+Krabbelorden[0x000A]Arenaleiterin: Viola
+Wallorden[0x000A]Arenaleiter: Lino
+Rauforden[0x000A]Arenaleiterin: Connie
+Blattorden[0x000A]Arenaleiter: Amaro
+Ampere-Orden[0x000A]Arenaleiter: Citro
+Feenorden[0x000A]Arenaleiterin: Valerie
+Psi-Orden[0x000A]Arenaleiterin: Astrid
+Eisbergorden[0x000A]Arenaleiter: Galantho
+Arenaleiterin: Viola
+Arenaleiter: Lino
+Arenaleiterin: Connie
+Arenaleiter: Amaro
+Arenaleiter: Citro
+Arenaleiterin: Valerie
+Arenaleiterin: Astrid
+Arenaleiter: Galantho

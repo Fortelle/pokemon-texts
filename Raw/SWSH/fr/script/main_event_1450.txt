@@ -1,0 +1,6 @@
+main_event_1450_rival_01=Attends-moi ![0x000A]{0x0100,0x0000}, tu sais quoi ?!{0xBE01}[0x000A]J’ai battu Roy ! Je le savais ![0x000A]J’ai trouvé la bonne tactique !{0x0114,0x0005}
+main_event_1450_leader_01=Et pendant tout le combat, il a pas arrêté[0x000A]de parler... C’est pas le même caractère{0xBE00}[0x000A]que son frère, c’est sûr !{0x0114,0x0017}
+main_event_1450_leader_02=Mais j’avoue que tu ne manques pas de mordant,[0x000A]Nabil ! La preuve : tu as réussi à m’arracher{0xBE00}[0x000A]le Badge Dragon.{0xBE01}[0x000A]T’es comme un ouragan, mec ![0x000A]Même moi, je peux pas te résister !{0x0114,0x0017}
+main_event_1450_leader_03=Bon, les p’tites têtes !{0xBE01}[0x000A]Je compte sur vous pour assurer comme des pros[0x000A]aux Poké Masters... voire même défier Tarak !{0x0114,0x0017}
+main_event_1450_rival_02=Nabil, grand favori, pour vous servir ! Accompagné[0x000A]de s{0x1100,0x00FF,0x0102}ona fidèle rival{0x1100,0x00FF,0x0100}e, {0x0100,0x0000} !{0xBE01}[0x000A]T’en fais pas, on va tout faire pour gagner ![0x000A]Merci pour les leçons que tu nous as enseignées{0xBE00}[0x000A]aujourd’hui, Roy !{0x0114,0x0005}
+main_event_1450_rival_03=Le train est là, {0x0100,0x0000} ![0x000A]On fonce !{0x0114,0x0005}

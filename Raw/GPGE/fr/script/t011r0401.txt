@@ -1,0 +1,7 @@
+msg_t011r0401_stafff_01={0xFF00,0x0009}Réceptionniste :{0xFF00,0x0000} Bienvenue !{0xBE01}[0x000A]Le président est dans la salle du conseil,[0x000A]au 10ᵉ étage !
+msg_t011r0401_kanban_01=Sylphe SARL[0x000A]RdC
+msg_t011r0401_staffm_01=Il paraît que c’est un enfant qui a mis une raclée[0x000A]à la Team Rocket !{0xBE01}[0x000A]Il doit avoir ton âge, d’ailleurs...[0x000A]C’est pas toi, par hasard ? Hahaha !
+msg_t011r0401_staffm_02=Même les inventions développées avec les[0x000A]meilleures intentions peuvent devenir{0xBE00}[0x000A]dangereuses entre de mauvaises mains.{0xBE01}[0x000A]Je n’ose imaginer ce qui aurait pu arriver si[0x000A]la Team Rocket avait utilisé la technologie de{0xBE00}[0x000A]la Sylphe pour servir leur sombres desseins...
+msg_t011r0401_staffm_03=Pour une fois que je pose une journée...[0x000A]UNE journée ! Et voilà ce qui arrive...{0xBE00}[0x000A]Eh bah, je suis pas prêt de recommencer, hein !
+msg_t011r0401_stafff_02=Il va falloir rattraper tout ce temps perdu ![0x000A]Allez, hop ! Au boulot !
+msg_t011r0401_stafff_03=La Team Rocket m’a retenue prisonnière ![0x000A]Est-ce que c’est couvert par notre mutuelle ?

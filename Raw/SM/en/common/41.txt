@@ -1,0 +1,73 @@
+{0x0100,0x0000}’s {0x01BA,0x0001}
+Current Rank:
+FC Collected:
+FC to the Next Rank:
+{0x0100,0x0000}’s Records
+Current FC:
+Guests Interacted With:
+Facilities Hosted:
+Missions Participated In:
+
+{0x0100,0x0000}’s Profile
+{0xBDFF:0x000B}
+{0x0203,0x0000,0x002C}
+{0x0203,0x0000,0x002C}
+{0x0203,0x0000,0x002C}
+{0x0203,0x0000,0x002C}
+{0x0203,0x0000,0x002C}
+{0x0203,0x0000,0x002C}
+{0x0203,0x0000,0x002C}
+When You Meet Someone
+When You Part with Someone
+When You Are Moved
+When You Are Disappointed
+Your Secret
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+Your Festival Plaza’s Name
+---
+{0x01B7,0x0000}
+Enable
+{0xFF00,0x0001}Disable{0xFF00,0x0000}
+Info
+Battle Requests
+Trade Requests
+Attitude toward Missions
+Communications with Guests
+Communications with VIPs
+Communications with Friends
+Accept requests anytime
+Not interested
+Do it anytime
+Please select an option for communications[0x000A]with friends.
+Please select an option for communications[0x000A]with guests.
+Please select an option for communications[0x000A]with VIPs.
+Communications with VIPs have been enabled.{0xBE01}
+Communications with VIPs have been {0xFF00,0x0001}disabled{0xFF00,0x0000}.{0xBE01}
+Communications with guests have been enabled.{0xBE01}
+Communications with guests have been[0x000A]{0xFF00,0x0001}disabled{0xFF00,0x0000}.{0xBE01}
+Communications with friends have been[0x000A]enabled.{0xBE01}
+Communications with friends have been[0x000A]{0xFF00,0x0001}disabled{0xFF00,0x0000}.{0xBE01}
+Please select an option for battle requests.
+You selected “Accept requests anytime”[0x000A]for battle requests.{0xBE01}
+You selected “Not interested”[0x000A]for battle requests.{0xBE01}
+Please select an option for trade requests.
+You selected “Accept requests anytime” for[0x000A]trade requests.{0xBE01}
+You selected “Not interested” for trade[0x000A]requests.{0xBE01}
+Please select your attitude toward missions.
+You selected “Do it anytime” as your attitude[0x000A]toward missions.{0xBE01}
+You selected “Not interested” as your attitude[0x000A]toward missions.{0xBE01}
+You selected “Not interested” for trade[0x000A]requests.{0xBE01}
+You can restrict communications with friends[0x000A]here.[0x000A][0x000A]If you disable communications with friends,[0x000A]your information won’t be sent to your friends.[0x000A][0x000A]You won’t receive your friends’ information,[0x000A]either.
+You won’t appear in your friends’ Festival[0x000A]Plazas.[0x000A][0x000A]Also, none of your friends will appear in your[0x000A]Festival Plaza.
+If you select “Accept requests anytime” for[0x000A]battle requests, the information will be released[0x000A]to your communication partners.
+If you select “Accept requests anytime” for[0x000A]trade requests, the information will be released[0x000A]to your communication partners.
+If you choose “Do it anytime” as your attitude[0x000A]toward missions, the information will be[0x000A]released to your communication partners.
+You can restrict communications with VIPs[0x000A]here.[0x000A][0x000A]If you disable communications with VIPs, your[0x000A]information won’t be sent to people who[0x000A]registered you as one of their VIPs.[0x000A][0x000A]You won’t receive the information of people you[0x000A]registered as your VIPs, either.
+You won’t appear in Festival Plazas of people[0x000A]who registered you as one of their VIPs.[0x000A][0x000A]Also, none of your VIPs will appear in your[0x000A]Festival Plaza.
+{0xBDFF:0x0043}
+You can restrict communications with guests[0x000A]here.[0x000A][0x000A]If you disable communications with guests, your[0x000A]information won’t be sent to people who[0x000A]registered you as one of their guests.[0x000A][0x000A]You won’t receive the information of people you[0x000A]registered as your guests, either.
+You won’t appear in Festival Plazas of people[0x000A]who registered you as one of their guests.[0x000A][0x000A]Also, none of your guests will appear in your[0x000A]Festival Plaza.
+{0xBDFF:0x0046}
+In this profile page, you can check the status[0x000A]of your Festival Plaza and your records.[0x000A][0x000A]The information you set here will be sent to[0x000A]other players via communication features.
+Messages set here will be used in Festival Plaza[0x000A]and Wonder Trade.[0x000A][0x000A]For communication settings, please check the[0x000A]information for each setting.

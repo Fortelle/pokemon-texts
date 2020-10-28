@@ -1,0 +1,111 @@
+Pokédex Completion
+{0x0202,0x0000}
+%
+{0x0202,0x0000}%
+Alola Pokédex
+Melemele Pokédex
+Akala Pokédex
+Ula’ula Pokédex
+Poni Pokédex
+{0xBDFF:0x0009}
+Pokédex Evaluation
+{0x0202,0x0000}
+{0x0202,0x0000}
+{0x0101,0x0000}
+???
+Melemele Island
+Akala Island
+Ula’ula Island
+Poni Island
+{0x0105,0x0000}
+Habitat
+Appearance/Cry
+{0x0101,0x0000}
+Male
+Female
+{0xBDFF:0x0019}
+Height
+Weight
+?????
+???'??"
+?,???.? lbs.
+Zoom
+Rotate
+Cry
+Action
+Habitat Unknown
+It’s found on a different island.
+{0xBDFF:0x0025}
+{0xBDFF:0x0026}
+{0xBDFF:0x0027}
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+There is no QR Code because you have not[0x000A]caught this Pokémon yet.
+Which Pokédex do you want Rotom to evaluate?
+{0xBDFF:0x002C}
+{0x0101,0x0000}’s data will be added to[0x000A]the Pokédex!
+Registration completed!
+Next
+Would you like to give {0x0102,0x0000} a nickname?
+Yes
+No
+{0xBDFF:0x0033}
+Where do you want to send {0x0102,0x0000} to?
+Add to your party
+Send to a Box
+Please select a Pokémon to swap from your party.
+{0x0102,0x0000} has been added to your party.
+{0x0102,0x0000} will be added to your party, and[0x000A]{0x0102,0x0001} will be sent to a Box.
+{0x0102,0x0000} has been sent to a Box!
+{0x0102,0x0000} has {0x1302,0x0001}{0x0109,0x0001}.[0x000A]What would you like to do with it?
+Place in your Bag
+Send to a Box as is
+You placed the {0x0109,0x0000} in your Bag.
+Your Bag is full!
+Remove the {0x0109,0x0000}
+Send to a Box as is
+The {0x0109,0x0000} was removed.
+See {0x0102,0x0000}’s summary
+Check summary of your party Pokémon
+Sort
+Name
+Type 1
+Type 2
+Color
+Shape
+Appearance
+Encounters
+By Number
+A→Z
+Heaviest→Lightest
+Lightest→Heaviest
+Tallest→Shortest
+Shortest→Tallest
+Red
+Blue
+Yellow
+Green
+Black
+Brown
+Purple
+Gray
+White
+Pink
+Mega Evolution
+Shiny
+Has been caught
+Not yet caught
+—
+—
+—
+Reset
+Confirm
+Do you want to exit without[0x000A]changing your settings?
+Search Result
+{0x0202,0x0000}/{0x0202,0x0001}
+This is a special Pokémon.[0x000A]There is no QR Code.
+{0xBDFF:0x006A}
+{0xBDFF:0x006B}
+If you trade that Pokémon, you won’t be able to[0x000A]continue your adventure!
+{0x0101,0x0000} will be sent to a Box.{0xBE01}[0x000A]Please collect the Poké Ball.
+Alola

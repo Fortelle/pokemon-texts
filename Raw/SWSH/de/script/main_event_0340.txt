@@ -1,0 +1,14 @@
+main_event_0340_rival_01=Hey, {0x0100,0x0000}! Ich hab einen ganz[0x000A]heißen Tipp für dich.{0x0114,0x0005}
+main_event_0340_rival_02=Dich hat sicher auch schon im hohen Gras wie[0x000A]aus dem Nichts ein Pokémon angegriffen, oder?{0x0114,0x0005}
+main_event_0340_rival_03=Das lässt sich vermeiden, indem du gaaanz leise[0x000A]durch das hohe Gras schleichst.{0x0114,0x0005}
+main_event_0340_rival_04=Wenn du das Gegenteil erreichen und unbedingt[0x000A]gegen wilde Pokémon kämpfen willst, dann pfeif{0xBE00}[0x000A]einfach ganz laut.{0xBE01}[0x000A]Das zieht ihre Aufmerksamkeit auf dich!{0x0114,0x0005}
+main_event_0340_rival_05=Falls du vergessen hast, wie man richtig pfeift,[0x000A]verrate ich dir einen Trick: Probier einfach mal,{0xBE00}[0x000A]auf den linken Stick zu drücken!{0x0114,0x0005}
+main_event_0340_rival_06=Und übrigens: Ab jetzt zählt’s, {0x0100,0x0000}![0x000A]Wer die meisten Pokémon fängt, gewinnt!{0x0114,0x0005}
+main_event_0340_rival_07=Wenn wir beide den Brassbury-Bahnhof erreicht[0x000A]haben, vergleichen wir, wer mehr hat.{0xBE01}[0x000A]Du weißt ja, welchen Bahnhof ich meine, oder?[0x000A]Den, an dem wir meinen Bruder abgeholt haben!{0x0114,0x0005}
+main_event_0340_rival_14=Der Bahnhof ist da drüben, {0x0100,0x0000}!{0x0114,0x0005}
+main_event_0340_rival_08=Und, {0x0100,0x0000}? Wie viele Pokémon hast[0x000A]du bisher gefangen?{0xBE01}[0x000A]Ich hab mir gerade ein richtig gutes geschnappt.[0x000A]Das wird mein neues Ass im Ärmel!{0x0114,0x0005}
+main_event_0340_rival_09=Mal sehen, du hast...{0xBE01}[0x000A]Was? Du hast ja kein einziges Pokémon[0x000A]gefangen! Was ist denn los mit dir?!{0xBE01}[0x000A]Je früher du anfängst, ein Team aufzubauen,[0x000A]desto besser!{0x0114,0x0005}
+main_event_0340_rival_10=Und wie viele neue Pokémon hast du?[0x000A]Aha, eins. Dann sind wir ja gleichauf, Rival{0x1100,0x00FF,0x0201,0x0000}ein!{0x0114,0x0005}
+main_event_0340_rival_11=Donnerwetter, sind das viele Pokémon![0x000A]Du hast richtig rangeklotzt, was?{0xBE01}[0x000A]Dein Team wird irgendwann bestimmt[0x000A]richtig stark!{0x0114,0x0005}
+main_event_0340_rival_12=Hier, nimm! Das ist eine TM.{0xBE01}[0x000A]Mit der kannst du deinen Pokémon ruckzuck[0x000A]eine neue Attacke beibringen.{0xBE01}[0x000A]Und du kannst sie so oft einsetzen, wie du willst!{0xBE01}[0x000A]Diese TM hier hab ich übrigens mal von Delion[0x000A]geschenkt bekommen.{0xBE01}[0x000A]Sie enthält die Attacke Sternschauer.{0x0114,0x0005}
+main_event_0340_rival_13=So, jetzt sollten wir uns aber auf den Weg nach[0x000A]Engine City machen, wo die Eröffnungszeremonie{0xBE00}[0x000A]der Arena-Challenge stattfindet!{0xBE01}[0x000A]Wir fahren am besten direkt mit dem Zug hin.[0x000A]Los geht’s!{0x0114,0x0005}

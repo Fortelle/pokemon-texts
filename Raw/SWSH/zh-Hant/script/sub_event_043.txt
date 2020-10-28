@@ -1,0 +1,12 @@
+sub_event_043_schoolgirl_01={0xBDFF:0x0000}
+sub_event_043_pip_01={0xBDFF:0x0001}
+sub_event_043_system_01={0xBDFF:0x0002}
+sub_event_043_system_02={0xBDFF:0x0003}
+sub_event_043_pip_02={0xBDFF:0x0004}
+sub_event_043_pip_03={0xBDFF:0x0005}
+sub_event_043_system_03={0xBDFF:0x0006}
+sub_event_043_schoolgirl_02={0xBDFF:0x0007}
+sub_event_043_schoolgirl_03={0xBDFF:0x0008}
+sub_event_043_schoolgirl_04={0xBDFF:0x0009}
+sub_event_043_schoolgirl_05={0xBDFF:0x000A}
+sub_event_043_pip_04={0xBDFF:0x000B}

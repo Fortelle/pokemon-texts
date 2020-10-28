@@ -1,0 +1,111 @@
+Completada al
+{0x0202,0x0000}
+%
+{0x0202,0x0000}%
+Pokédex de Alola
+Pokédex de Melemele
+Pokédex de Akala
+Pokédex de Ula-Ula
+Pokédex de Poni
+{0xBDFF:0x0009}
+Evaluación
+{0x0202,0x0000}
+{0x0202,0x0000}
+{0x0101,0x0000}
+(?)
+Melemele
+Akala
+Ula-Ula
+Poni
+{0x0105,0x0000}
+Hábitat
+Forma/Grito
+Forma de {0x0101,0x0000}
+Macho
+Hembra
+{0xBDFF:0x0019}
+Altura
+Peso
+(?)
+???,? m
+???,? kg
+Zoom
+Girar
+Grito
+Pose
+Hábitat desconocido
+Vive en otra isla.
+{0xBDFF:0x0025}
+{0xBDFF:0x0026}
+{0xBDFF:0x0027}
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+No hay QR Code disponible porque aún no has[0x000A]atrapado a este Pokémon.
+¿Qué Pokédex quieres evaluar?
+{0xBDFF:0x002C}
+Los datos de {0x0101,0x0000} se han[0x000A]registrado en la Pokédex.
+¡Entrada completada!
+Siguiente
+¿Quieres ponerle un mote a {0x0102,0x0000}?
+Sí
+No
+{0xBDFF:0x0033}
+¿Qué quieres hacer con {0x0102,0x0000}?
+Añadirlo a mi equipo
+Enviarlo a una Caja del PC
+Elige el Pokémon con el que quieres intercambiarlo.
+¡{0x0102,0x0000} se ha unido al equipo!
+{0x0102,0x0000} se ha unido al equipo y se ha enviado a[0x000A]{0x0102,0x0001} a una Caja del PC.
+{0x0102,0x0000} se ha transferido a una Caja del PC.
+{0x0102,0x0000} lleva {0x1702,0x0001}{0x0109,0x0001}.[0x000A]¿Qué quieres hacer con este objeto?
+Introducirlo en la Bolsa
+Enviarlo junto al Pokémon
+Has guardado {0x1700,0x0000}{0x0109,0x0000}.
+No te caben más en la Bolsa.
+Quitarle {0x1700,0x0000}{0x0109,0x0000}
+Enviarlo junto al Pokémon
+Le has quitado {0x1702,0x0000}{0x0109,0x0000}.
+Ver datos de {0x0102,0x0000}
+Ver datos del equipo
+Ordenar por
+Nombre
+Tipo 1
+Tipo 2
+Color
+Figura
+Forma
+¿Atrapado?
+Número
+A-Z
+Pesado-ligero
+Ligero-pesado
+Alto-bajo
+Bajo-alto
+Rojo
+Azul
+Amarillo
+Verde
+Negro
+Marrón
+Morado
+Gris
+Blanco
+Rosa
+Megaevolución
+Variocolor
+Atrapado
+No atrapado
+－－－
+－－－
+－－－
+Reiniciar
+Confirmar
+¿Quieres salir sin cambiar la configuración?
+Resultados
+{0x0202,0x0000}/{0x0202,0x0001}
+Este es un Pokémon especial, por lo que no hay[0x000A]QR Code disponible.
+{0xBDFF:0x006A}
+{0xBDFF:0x006B}
+¡Si intercambias ese Pokémon, no podrás continuar la[0x000A]aventura!
+Se enviará a {0x0101,0x0000} a una caja.[0x000A]No olvides recuperar la Poké Ball.
+Alola

@@ -1,0 +1,3 @@
+msg_sub077_volt_01={0xFF00,0x0009}Lt. Surge:{0xFF00,0x0000} You! Ho sentito che hai conquistato[0x000A]la Lega Pokémon...{0xBE00}[0x000A]Che big, big surprise!{0xBE01}[0x000A]Sono sicuro che dietro una vittoria così shocking[0x000A]ci sono dei powerful Pokémon di tipo Elettro!{0xBE01}[0x000A]Allora, che Pokémon hai allenato? Show me![0x000A]Show me subito!
+msg_sub077_volt_02={0xFF00,0x0009}Lt. Surge:{0xFF00,0x0000} Welcome again! A buon intenditore[0x000A]poche words... Che la lotta abbia inizio!
+msg_sub077_volt_03={0xFF00,0x0009}Lt. Surge:{0xFF00,0x0000} Non ho ancora intenzione di give up![0x000A]È la first time che mi sento così elettrizzato{0xBE00}[0x000A]da quando sono arrivato a Kanto...{0xBE01}[0x000A]Torna anche tomorrow, ok?

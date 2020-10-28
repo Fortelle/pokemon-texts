@@ -1,0 +1,17 @@
+main_event_1570_telop_01=Einige Stunden später...
+main_event_1570_rival_01=Wo steckt Delion bloß?[0x000A]So spät ist er sonst nie...{0x0114,0x0005}
+main_event_1570_rival_02=Er hat mich noch nie hängen lassen und hält sich[0x000A]immer an jedes Versprechen...{0xBE01}[0x000A]Champ ist er auch nur geworden, weil er’s mir[0x000A]ganz fest versprochen hatte!{0x0114,0x0005}
+main_event_1570_rival_03=Pünktlich zu einer Verabredung zu kommen,[0x000A]sollte dagegen doch ein Kinderspiel sein!{0x0114,0x0005}
+main_event_1570_leader_01=Musst du hier so einen Lärm machen, Alter?{0xBE01}[0x000A]Die ganze Energie hättest du mal in den Kampf[0x000A]stecken sollen, da wär sie nützlicher gewesen.{0x0114,0x0016}
+main_event_1570_rival_04=Ha, erzähl mir was Neues! Ich mach mir wirklich[0x000A]Sorgen um Delion, klar?!{0xBE01}[0x000A]Außerdem muss ich mir von jemandem wie dir[0x000A]keine Moralpredigt anhören. Wie soll dich in{0xBE00}[0x000A]dem Outfit jemand ernst nehmen?!{0x0114,0x0005}
+main_event_1570_leader_02=Wow. Wenn du immer nur aufs Äußere achtest,[0x000A]wundert’s mich nicht, dass du verloren hast.{0x0114,0x0016}
+main_event_1570_leader_03=Und was den Champ angeht, der ist zum[0x000A]Rose Tower gegangen.{0x0114,0x0016}
+main_event_1570_select_01=Wieso das denn?
+main_event_1570_select_02=Zum Rose Tower?
+main_event_1570_leader_04=Keine Ahnung, warum. Ich hab ihn nur zufällig[0x000A]an der Monorail-Haltestelle getroffen.{0xBE01}[0x000A]Ich soll euch ausrichten, dass er sich etwas[0x000A]verspätet, weil er irgendwas im Rose Tower{0xBE00}[0x000A]erledigen muss.{0x0114,0x0016}
+main_event_1570_rival_05=Im Rose Tower? Ausgerechnet jetzt?[0x000A]Was will er da bloß?!{0x0114,0x0005}
+main_event_1570_rival_06=Sag mal, Nezz, könntest du uns vielleicht[0x000A]den Weg zum Rose Tower zeigen?{0xBE01}[0x000A]{0x0100,0x0000} und ich haben leider keinen[0x000A]blassen Schimmer, wie man da hinkommt.{0x0114,0x0005}
+main_event_1570_leader_05=Hmpf... Du bist genau wie dein Bruder.{0xBE01}[0x000A]Reicht man euch den kleinen Finger,[0x000A]wollt ihr gleich die ganze Hand.{0x0114,0x0016}
+main_event_1570_leader_06=Aber ich will mal nicht so sein...{0xBE01}[0x000A]Schließlich will ich ja nicht, dass sich wegen euch[0x000A]noch der Start des Finalturniers verzögert.{0xBE01}[0x000A]Außerdem seid ihr mir nicht total unsympathisch.[0x000A]Immerhin habt ihr’s geschafft, mich zu besiegen.{0x0114,0x0016}
+main_event_1570_leader_07=Am besten trommel ich zur Verstärkung[0x000A]auch gleich Team Yell zusammen.{0xBE01}[0x000A]Statten wir dem Rose Tower gemeinsam einen[0x000A]kleinen Besuch ab!{0x0114,0x0016}
+main_event_1570_rival_07=Du bist der Größte, Nezz! Vielen Dank![0x000A]Jetzt wird rangeklotzt, und zwar so richtig!!{0x0114,0x0005}

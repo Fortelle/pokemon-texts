@@ -1,0 +1,73 @@
+Comenzar el Torneo en Directo
+Sí
+No
+Combatir
+Resultado del último combate
+Retirarme del torneo
+Ver de nuevo
+Ver resultados anteriores
+Recibir por infrarrojos
+Recibir mediante QR Code
+Torneo en Directo
+Mediante el modo Torneo en Directo puedes participar[0x000A]en los torneos oficiales que se celebran en distintos[0x000A]emplazamientos.[0x000A][0x000A]Para obtener información sobre los torneos oficiales y[0x000A]sus reglas, puedes visitar el sitio web oficial de Pokémon.
+{0x01AF,0x0000}
+{0x01AF,0x0000}
+{0x0201,0x0002}-{0x0201,0x0001}-{0x0203,0x0000,0x0000}
+Resultados de {0x0100,0x0000}
+Número de combates:
+{0x0201,0x0000}
+/
+{0x0201,0x0000}
+Victorias:
+{0x0201,0x0000}
+Derrotas:
+{0x0201,0x0000}
+{0x0122,0x0000}
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+{0x0202,0x0000}
+Contrincante
+{0x0100,0x0000}
+{0x0124,0x0000}
+{0x0125,0x0000}
+¡La victoria es para {0x0100,0x0000}!
+Se ha producido un empate.
+¡Se ha decidido que la victoria sea para[0x000A]{0x0100,0x0000}!
+{0x0100,0x0001} ha excedido el tiempo límite.[0x000A]¡La victoria es para {0x0100,0x0000}!
+{0x0100,0x0001} ha abandonado el combate.[0x000A]¡La victoria es para {0x0100,0x0000}!
+{0x0200,0x0000}
+{0x0100,0x0000}
+{0x0100,0x0000}
+L
+¡Estás en el Torneo en Directo!
+Para participar en un Torneo en Directo,[0x000A]necesitas un Certificado Digital de Jugador.{0xBE01}[0x000A]¿Cómo quieres recibirlo?
+Alinea ambos transmisores de infrarrojos para[0x000A]recibir el Certificado Digital de Jugador.
+Se ha cancelado la recepción del Certificado[0x000A]Digital de Jugador.{0xBE01}
+Se ha recibido el Certificado Digital de Jugador.{0xBE01}
+Se ha producido un error al recibir el Certificado[0x000A]Digital de Jugador.{0xBE01}[0x000A]Inténtalo de nuevo.{0xBE01}
+Has librado el número de combates necesario.[0x000A]¡Bien hecho!{0xBE01}
+Comprobando la tarjeta SD...[0x000A]No apagues la consola.
+No se ha podido grabar el Vídeo de Combate[0x000A]porque la tarjeta SD está llena.{0xBE01}
+Los datos están dañados.[0x000A]No se puede reproducir el Vídeo de Combate.{0xBE01}
+¿Quieres interrumpir la comunicación?
+Se ha interrumpido la comunicación.
+Registra un Equipo de Combate para participar[0x000A]en el torneo.
+¿Quieres retirarte del torneo[0x000A]{0x01AF,0x0000}?
+Si te retiras ahora, no podrás volver a participar[0x000A]en el torneo{0xBE00}[0x000A]{0x01AF,0x0000}.{0xBE01}[0x000A]¿Seguro que quieres retirarte?
+Te has retirado del torneo[0x000A]{0x01AF,0x0000}{0xBE00}[0x000A]y se ha desbloqueado tu Equipo de Combate.{0xBE01}
+Se ha interrumpido el registro del Equipo de[0x000A]Combate.{0xBE01}
+¿Qué quieres hacer?
+¡Todavía no has librado ningún combate!{0xBE01}
+Buscando contrincante...[0x000A]Pulsa el botón B para cancelar la búsqueda.
+Conexión en curso...[0x000A]Por favor, espera.
+Pulsa el botón A cuando se dé la señal para[0x000A]comenzar.
+Vuestros reglamentos del torneo no coinciden.{0xBE01}
+Este fue tu último combate.[0x000A]¿Quieres volver a verlo?
+No se ha encontrado el Vídeo de Combate.{0xBE01}
+Se ha completado la transmisión de datos.{0xBE01}
+¿Prefieres no registrar el Equipo de Combate?
+Guardando...
+Ya te has inscrito en este torneo.{0xBE01}
+Registrar
+Se ha cancelado tu participación en el torneo[0x000A]{0x01AF,0x0000}.{0xBE01}
+No puedes participar en este torneo.{0xBE01}

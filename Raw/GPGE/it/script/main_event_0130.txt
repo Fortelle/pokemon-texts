@@ -1,0 +1,4 @@
+msg_main0130_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Mmh? Ti vedo proprio[0x000A]content{0x1100,0x00FF,0x0101}oa, {0x0100,0x0000}!{0xBE01}[0x000A]Hai sconfitto un Allenatore? Wow! Fantastico!
+msg_main0130_rival_02=Ah, a proposito! I{0x1101,0x00FD,0x0001}l Pokémon con cui hai lottato[0x000A]potrebbe{0x1101,0x00FD,0x0200}ro aver perso dei PS o dei PP...
+msg_main0130_rival_03=Portal{0x1101,0x00FD,0x0101}oi in un {0xFF00,0x0006}Centro Pokémon{0xFF00,0x0000}[0x000A]per rimetterl{0x1101,0x00FD,0x0101}oi in sesto!{0xBE01}[0x000A]Ci vogliono solo pochi secondi,[0x000A]ed è completamente gratis!
+msg_main0130_rival_04=Mi raccomando, non dimenticarti di rimettere[0x000A]in sesto la tua squadra dopo una lotta!

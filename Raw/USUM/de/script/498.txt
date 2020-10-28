@@ -1,0 +1,30 @@
+Ich bin, äh...[0x000A]W-Wer bin ich noch gleich?{0xBE01}[0x000A]...{0xBE01}[0x000A]Ach so... Ja, genau![0x000A]Ich bin der Attacken-Verlerner!
+Du willst, dass ich eines deiner Pokémon[0x000A]eine Attacke vergessen lasse, stimmt’s?
+Welches Pokémon soll eine Attacke vergessen?
+Erinnere dich an mich, wenn du möchtest, dass[0x000A]eines deiner Pokémon eine Attacke vergisst.
+Nanu? Dieses Pokémon kennt nur eine Attacke,[0x000A]daher kann es keine vergessen...
+Nanu? Das ist doch ein Ei![0x000A]Eier kennen keine Attacken!
+Welche Attacke soll vergessen werden?
+Das lief ja wie geschmiert!{0xBE01}[0x000A]Dein Pokémon hat {0x0107,0x0000}[0x000A]komplett vergessen.
+Mich nennen alle Madame Erinnerung.{0xBE01}[0x000A]Ich kenne nämlich alle Attacken, die Pokémon[0x000A]durch Levelaufstieg erlernen können.{0xBE01}[0x000A]Und ich kann dafür sorgen, dass sie sich[0x000A]wieder an sie erinnern!{0xBE01}[0x000A]Im Tausch gegen eine Herzschuppe[0x000A]helfe ich dem Gedächtnis eines Pokémon{0xBE00}[0x000A]gern auf die Sprünge!
+Soll sich eines deiner Pokémon wieder[0x000A]an eine Attacke erinnern?
+Komm mit einer {0x0109,0x0000} wieder,[0x000A]wenn ich einem Pokémon bei einer alten{0xBE00}[0x000A]Attacke auf die Sprünge helfen soll!
+Welches Pokémon soll sich wieder[0x000A]an eine Attacke erinnern?
+Ähm... Du weißt schon, dass das ein Ei ist...?
+Dieses Pokémon kann sich an keine Attacke[0x000A]erinnern, da es noch keine vergessen hat.
+An welche Attacke soll es sich erinnern?
+Du hast als Gegenleistung eine[0x000A]{0x0109,0x0000} abgegeben.
+Dein Pokémon hat sich an die Attacke erinnert![0x000A]Komm jederzeit wieder, wenn du mich brauchst.
+Möchtest du, dass ich deinem Pikachu[0x000A]Volttackle beibringe?
+Du musst ein Pikachu mit dir führen, damit ich[0x000A]ihm Volttackle beibringen kann.
+Durch ein Pikachium Z wandelt sich Volttackle[0x000A]zu einer Z-Attacke!
+Welches Pikachu soll die Attacke erlernen?
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+Ein Pikachu mit Z-Kraft erfreut jeden.
+Welche Attacke soll durch[0x000A]{0x0107,0x0000} ersetzt werden?
+{0x0102,0x0000} erlernt[0x000A]{0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+Eins,{0xBE02:0x0014} zwei{0xBE02:0x0014} und{0xBE02:0x0014}... schwupp!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} hat {0x0107,0x0001}[0x000A]vergessen und {0x0107,0x0002} erlernt!{0xBE05,0x0004}{0xBE05,0x0001}
+{0x0102,0x0000} hat[0x000A]{0x0107,0x0001} nicht erlernt.

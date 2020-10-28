@@ -1,0 +1,7 @@
+msg_t011r0401_stafff_01=RECEPTIONIST: Oh, welcome![0x000A]Are you here to meet the president?{0xBE01}[0x000A]You’ll find him in the boardroom on 11F!
+msg_t011r0401_kanban_01=“Silph Co. Head Office[0x000A]1F”
+msg_t011r0401_staffm_01=I heard that the ones who took on Team Rocket[0x000A]were actually some kids!{0xBE01}[0x000A]Wait, could it be you...?[0x000A]No, no, couldn’t be...
+msg_t011r0401_staffm_02=Any kind of tool can be used for good or evil,[0x000A]depending on the person using it.{0xBE01}[0x000A]I shudder to think what would have happened[0x000A]if Team Rocket had gotten their hands on{0xBE00}[0x000A]Silph technology...
+msg_t011r0401_staffm_03=I came back from playing hooky only to find out[0x000A]the company had been taken over!{0xBE00}[0x000A]That was quite a surprise, for sure.
+msg_t011r0401_stafff_02=A lot of work’s piled up, so we need to[0x000A]get cracking!
+msg_t011r0401_stafff_03=I was captured by Team Rocket. I wonder if our[0x000A]insurance plan covers that kind of thing...?

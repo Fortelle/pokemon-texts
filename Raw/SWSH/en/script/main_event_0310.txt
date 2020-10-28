@@ -1,0 +1,11 @@
+main_event_0310_rival_01=Huh?[0x000A]What’s that?!{0x0114,0x0005}
+main_event_0310_rival_02={0x1003}{0x0100,0x0000}! Would you look at this?[0x000A]They’re Wishing Stars!{0xBE01}[0x000A]Since there are two of them, you should take[0x000A]one yourself!{0x0114,0x0005}
+main_event_0310_rival_03=With one of these, my Pokémon can Dynamax![0x000A]They’re gonna be massive! YES!{0x0114,0x0005}
+main_event_0310_champion_01=Trust you to pull something like this!{0xBE01}[0x000A]They say Wishing Stars fall down for those who[0x000A]have a true wish in their heart, you know.{0x0114,0x0004}
+main_event_0310_rival_04=I will be the greatest Trainer ever!{0xBE01}[0x000A]I WILL be the greatest Trainer ever!{0xBE01}[0x000A]I WILL BE THE GREATEST TRAINER EVER!!!{0xBE01}[0x000A]There! I’ve said it three times, so surely my wish[0x000A]will come true now, right?{0x0114,0x0005}
+main_event_0310_doctor_01=Don’t be silly, Hop.{0xBE01}[0x000A]Those Wishing Stars are composed of a curious[0x000A]sort of rock containing unknown power...{0xBE01}[0x000A]They are one of the most precious resources[0x000A]we have here in the Galar region.{0xBE01}[0x000A]But they won’t do a thing for you in that state.[0x000A]Give them to me now, and I’ll have you sorted.{0x0114,0x000A}
+main_event_0310_rival_05=Ah, right. You’ve done heaps of research on the[0x000A]Dynamax phenomenon, haven’t you, Professor?{0xBE01}[0x000A]Then please! Give {0x0100,0x0000} and me the[0x000A]power to Dynamax our Pokémon!{0x0114,0x0005}
+main_event_0310_rival_06=First we got to battle against that mad Pokémon[0x000A]in the Slumbering Weald, and now this...{0xBE01}[0x000A]It really feels like we’re getting caught up in the[0x000A]adventure of a lifetime!{0x0114,0x0005}
+main_event_0310_doctor_02=I do understand your excitement, young man,[0x000A]but don’t get carried away. You want to save{0xBE00}[0x000A]your energy for tomorrow’s journey!{0x0114,0x000A}
+main_event_0310_assistant_01=Seems I came back home right in time for all[0x000A]the excitement!{0x0114,0x000B}
+main_event_0310_assistant_02=Hey, you lot, why not have some dinner.[0x000A]You must be hungry, right? I’ve been totally{0xBE00}[0x000A]obsessed with making the latest trendy curries.{0x0114,0x000B}

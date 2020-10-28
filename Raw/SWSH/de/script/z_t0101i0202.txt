@@ -1,0 +1,8 @@
+msg_t0101i0202_tv_01={0xBDFF:0x0000}
+msg_t0101i0202_bed_01={0xBDFF:0x0001}
+msg_t0101i0202_desk_01={0xBDFF:0x0002}
+msg_t0101i0202_bed2_01={0xBDFF:0x0003}
+msg_t0101i0202_training_01={0xBDFF:0x0004}
+msg_t0101i0202_gureggru_01={0xBDFF:0x0005}
+msg_t0101i0202_hats_01={0xBDFF:0x0006}
+msg_t0101i0202_npc1_01={0xBDFF:0x0007}

@@ -1,0 +1,11 @@
+msg_trade_gts_01={0x0102,0x0000} wird in der GTS gelagert.[0x000A]Mach’s gut, {0x0102,0x0000}!
+msg_trade_gts_02_01={0x0102,0x0000} erhalten!
+msg_trade_gts_02_02=Willkommen zurück, {0x0102,0x0000}!
+msg_trade_gts_03={0x0102,0x0000} wird an die GTS versandt.[0x000A]Mach’s gut, {0x0102,0x0000}!
+msg_trade_gts_04={0x0102,0x0002} ist von der GTS[0x000A]zu dir gekommen!
+msg_trade_com_01_01=Du gibst {0x0102,0x0000} in die Obhut von[0x000A]{0x0100,0x0001}. Alles Gute, {0x0102,0x0000}!
+msg_trade_com_01_02=Du gibst {0x0102,0x0000} an {0x0100,0x0001}[0x000A]zurück. Danke für alles, {0x0102,0x0000}!
+msg_trade_com_02_01_01={0x0100,0x0001} hat dir {0x0102,0x0002}[0x000A]zugeschickt.
+msg_trade_com_02_01_02=Kümmere dich gut um {0x0102,0x0002}!
+msg_trade_com_02_02_01={0x0102,0x0002} ist von[0x000A]{0x0100,0x0001} zurückgekehrt!
+msg_trade_com_02_02_02=Willkommen zurück, {0x0102,0x0002}!

@@ -1,0 +1,4 @@
+main_event_0480_counterw_01=Du bist {0x0100,0x0000}, richtig?
+main_event_0480_counterw_02=Bei Veranstaltungen, die zur Arena-Challenge[0x000A]gehören, musst du deine Uniform tragen.{0xBE01}[0x000A]Und die Eröffnungszeremonie ist quasi die[0x000A]erste Veranstaltung der Arena-Challenge.{0xBE01}[0x000A]Ich schlage also vor, dass du dich jetzt umziehst!
+main_event_0480_counterw_04=Toll! Die Uniform steht dir ausgezeichnet!{0xBE01}[0x000A]Und die Trikotnummer {0x01C4,0x0001} rundet das[0x000A]Gesamtbild wirklich sehr elegant ab.
+main_event_0480_counterw_03=Also gut, es ist so weit: Die Eröffnungszeremonie[0x000A]der Arena-Challenge beginnt gleich!

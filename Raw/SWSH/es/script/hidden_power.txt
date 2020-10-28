@@ -1,0 +1,8 @@
+msg_hidden_power_01=Oye, tú. ¿Qué tal si despiertas el poder oculto[0x000A]de tus Pokémon con esto?
+msg_hidden_power_02=Un buen día descubrí que era capaz de[0x000A]predecir el tipo de Poder Oculto de los{0xBE00}[0x000A]Pokémon.{0xBE01}[0x000A]¿Quieres que use mi don para descubrir de qué[0x000A]tipo será el Poder Oculto de tu Pokémon?
+msg_hidden_power_03=¿Quieres que use mi don para descubrir de qué[0x000A]tipo será el Poder Oculto de tu Pokémon?
+msg_hidden_power_04=Si este Pokémon aprendiera el movimiento Poder[0x000A]Oculto, sería de tipo {0x0103,0x0000}.
+msg_hidden_power_05=¡El movimiento Poder Oculto de este Pokémon[0x000A]es de tipo {0x0103,0x0000}!
+msg_hidden_power_06=Como veas. Si quieres que use mi don, solo[0x000A]tienes que pedírmelo.
+msg_hidden_power_07=Un Huevo no puede usar este movimiento, que[0x000A]yo sepa.
+msg_hidden_power_08=Lo siento. Este Pokémon no puede aprender el[0x000A]movimiento Poder Oculto.

@@ -1,0 +1,25 @@
+Would you like to pair your game with a Pokémon GO account to communicate with it?
+Searching for a Pokémon GO account...
+<var>'s account has been found! Do you want to pair your game with it?
+Communicating... Don't turn off the power.
+Pairing complete! You're now connected with <var>'s Pokémon GO account! You can transfer Pokémon from Pokémon GO by visiting the GO Park complex in Fuchsia City.
+You can transfer <var> more Pokémon to <var>.
+Uh-oh! This transfer can't be completed because you can't have more than 50 Pokémon in <var>! Either select a different GO Park to transfer your Pokémon into or move some Pokémon from <var>.
+You need to pair your game with Pokémon GO. To pair your game with a Pokémon GO account, open the Options from the main menu and then select Open Pokémon GO Settings.
+Communicating with Pokémon GO to try to recover your data... Please wait without turning off the power.
+Warning! If you quit now, any Pokémon you were trying to transfer might be lost. Are you sure you want to quit?
+One or more of your Pokémon were not successfully transferred from Pokémon GO. Please try again from the beginning.
+Ending communication... Please wait.
+You've brought <var> Pokémon from <var>'s Pokémon GO account! Why don't you go see how things are looking in <var>?
+<var> is trying to send over <var> Pokémon to your game, but you only have enough room to take <var> more Pokémon in <var>.
+<var>'s account has been found! Would you like to receive a Pokémon?
+When you connect Pokémon: Let's Go, Pikachu! or Pokémon: Let's Go, Eevee! with Pokémon GO, your game-specific user ID and data about your game will be transmitted to Pokémon GO.
+Yes
+No
+Continue
+Quit
+Start Communication
+ Start
+ Quit
+ Done
+<var>%

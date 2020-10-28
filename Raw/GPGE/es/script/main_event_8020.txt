@@ -1,0 +1,16 @@
+msg_main8020_volt_01=Bienvenid{0x1100,0x00FF,0x0101}oa al Gimnasio de Ciudad Carmín.
+msg_main8020_volt_07=¿Acaso has venido a retarme?
+msg_main8020_volt_08=¡Ja, ja! ¡Pero si no levantas un palmo del suelo![0x000A]¿Te atreves a enfrentarte a mí aun así?{0xBE01}[0x000A]¡Tú sí que tienes chispa!
+msg_main8020_volt_09=Pues venga, ¡vamos a librar un combate de[0x000A]alto voltaje!
+msg_main8020_volt_10=Mis movimientos te sorprenderán tanto que te[0x000A]quedarás paralizad{0x1100,0x00FF,0x0101}oa.
+msg_gymleader_03_07={0xBDFF:0x0005}
+msg_main8020_volt_02=¡Rayos, me has ganado! Toma, te mereces la[0x000A]Medalla Trueno, sin lugar a dudas.
+msg_main8020_sys_01=El Teniente Surge te ha entregado la[0x000A]{0xFF00,0x0006}Medalla Trueno{0xFF00,0x0000}.
+msg_main8020_volt_03=Y como ha sido un combate tan emocionante,[0x000A]te voy a dar también esto.
+msg_main8020_sys_02=El Teniente Surge te ha firmado un {0xFF00,0x0006}Autógrafo{0xFF00,0x0000}.
+msg_main8020_volt_04=...
+msg_main8020_volt_11=¡Vamos, {0x1100,0x00FF,0x0506}hombremujer! No pongas esa cara, que[0x000A]también te voy a dar algo que te será muy útil.
+msg_main8020_sys_03=El Teniente Surge te ha dado la {0x0109,0x0001}, que te[0x000A]permitirá enseñar a tu{0x1101,0x00FD,0x0100}s Pokémon el movimiento{0xBE00}[0x000A]{0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000}.
+msg_main8020_volt_05=La MT36 te permite enseñar a un Pokémon el[0x000A]movimiento Rayo. Te aconsejo que se lo enseñes{0xBE00}[0x000A]sobre todo a los Pokémon de tipo Eléctrico.
+msg_main8020_volt_06=¡Te daré un pequeño consejo!{0xBE01}[0x000A]La electricidad es muy potente, pero, si la usas[0x000A]contra Pokémon de tipo Tierra, no surtirá efecto.
+msg_gymleader_03_06={0xBDFF:0x000F}

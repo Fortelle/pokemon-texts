@@ -1,0 +1,13 @@
+main_event_1490_rival_01=¡Aquí está la recepción!{0x0114,0x0005}
+main_event_1490_rival_02=¡He sido el primero en inscribirme!{0xBE01}[0x000A]Vamos... que ya soy el número uno se mire como[0x000A]se mire.{0x0114,0x0005}
+main_event_1490_staff_01={0x1100,0x00FF,0x0202}ElLa Aspirante {0x0100,0x0000}, ¿verdad?[0x000A]Nos tienes en vilo con tus hazañas.{0xBE01}[0x000A]Aun así, me temo que debo pedirte que me[0x000A]enseñes las medallas. Son las normas.
+main_event_1490_staff_02={0xBDFF:0x0003}
+main_event_1490_staff_03={0xBDFF:0x0004}
+main_event_1490_staff_04={0xBDFF:0x0005}
+main_event_1490_staff_05={0xBDFF:0x0006}
+main_event_1490_rival_03=¡Ya estoy listo para combatir contra ti en el[0x000A]mayor escenario de todos!{0x0114,0x0005}
+main_event_1490_rival_04={0xBDFF:0x0008}
+main_event_1490__rival_05=Aunque Berto no lo ha conseguido...{0xBE01}[0x000A]No lo veía conformándose con la descalificación.[0x000A]¡Pensaba que se sacaría algún truco de la manga!{0x0114,0x0005}
+main_event_1490__rival_06=En fin... A otra cosa, Pheromosa.{0xBE01}[0x000A]Vayamos tirando para la antesala,[0x000A]{0x0100,0x0000}.{0x0114,0x0005}
+main_event_1490_sister_01=¡No queda nada para el Torneo de Medallistas!{0xBE01}[0x000A]A este torneo solo pasan los Aspirantes que han[0x000A]completado el desafío de los gimnasios.{0xBE01}[0x000A]Somos cuatro, cuatro Meowth de nada. Pero[0x000A]sabes que hasta aquí has llegado, ¿no?{0xBE01}[0x000A]¡Pienso ganar el torneo y enfrentarme al[0x000A]Campeón!{0x0114,0x000D}
+main_event_1490_poke1_01=¡Peeeko!

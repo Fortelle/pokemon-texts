@@ -1,0 +1,4 @@
+msg_t008gym01_gym_01=The Fuchsia City Gym is a tricked-up place.[0x000A]It’s riddled with invisible walls!{0xBE01}[0x000A]Koga might look within reach, sure...[0x000A]but it’s not always that easy!{0xBE01}[0x000A]You’ll have to find the gaps in the walls if you[0x000A]hope to reach him for a battle.
+msg_t008gym01_gym_02=It’s amazing how terrifying ninjas can be, even[0x000A]today in the modern age!
+msg_t008gym01_statue_01=Fuchsia City Pokémon Gym[0x000A]Gym Leader: Koga{0xBE01}[0x000A]Certified Trainers:[0x000A]{0x0100,0x0001}
+msg_t008gym01_statue_02=Fuchsia City Pokémon Gym[0x000A]Gym Leader: Koga{0xBE01}[0x000A]Certified Trainers:[0x000A]{0x0100,0x0001}, {0x0100,0x0000}

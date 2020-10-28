@@ -1,0 +1,154 @@
+Argent
+{0xBDFF:0x0001}
+Points de Combat
+Festipièces
+{0x0206,0x0000,0xE07F} $
+{0x0204,0x0000,0xE07F} $
+---
+{0xBDFF:0x0007}
+{0x0204,0x0000,0xE07F} PCo
+{0x0206,0x0000,0xE07F} FP
+Quitter
+{0x0109,0x0000}
+{0x0107,0x0000}
+Permet de revenir à l’écran précédent.
+Dans le Sac :
+{0x0202,0x0000}
+×
+{0x0201,0x0000}
+Et voici[0xE07F]!
+Vous n’avez pas assez d’argent.
+Vous n’avez plus de place pour cet objet[0xE07F]!
+Oui
+Non
+Bienvenue à la Boutique Pokémon[0xE07F]![0x000A]Que désirez-vous[0xE07F]?
+Acheter
+Vendre
+Quitter
+Nous espérons vous revoir bientôt[0xE07F]!
+Souhaitez-vous autre chose[0xE07F]?
+Combien {0x1001}{0x1408,0x0000}{0x0109,0x0000}[0x000A]vous faut-il[0xE07F]?
+Alors, {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Cela vous fera {0x0206,0x0002,0xE07F} $[0xE07F]!
+Alors, {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Cela vous fera {0x0206,0x0002,0xE07F} $[0xE07F]!
+Achat rangé dans la Poche {0x0112,0x0001}.
+Nous vous offrons une Honor Ball en cadeau.
+Oh, mais vous avez un coupon[0xE07F]![0x000A]Vous avez droit à une remise de {0x0206,0x0000,0xE07F} $.
+Vous pouvez utiliser votre coupon pour autant[0x000A]d’achats que vous voulez aujourd’hui[0xE07F]!{0xBE00}[0x000A]N’hésitez pas à vous en servir[0xE07F]!
+Bienvenue au point de vente des Capsules[0x000A]Techniques[0xE07F]! En quoi puis-je vous aider[0xE07F]?
+Vous possédez déjà cette CT.
+La CT{0x0202,0x0000} {0x0107,0x0001}[0xE07F]?[0x000A]Cela fera {0x0206,0x0002,0xE07F} $.
+La CT {0x0107,0x0000} a été rangée[0x000A]dans la Poche {0x0112,0x0001}.
+Ah, vous tombez bien[0xE07F]!{0xBE01}[0x000A]Vous voulez échanger vos Points de Combat[0x000A]contre des objets, c’est bien ça[0xE07F]?
+Continuez à accumuler des Points de Combat[0x000A]et revenez me voir[0xE07F]! Promis, hein[0xE07F]?
+Ah là là, c’est vraiment dommage...[0x000A]Vous n’avez pas assez de Points de Combat...
+Combien {0x1001}{0x1408,0x0000}{0x0109,0x0000}[0x000A]voulez-vous[0xE07F]?
+Alors, {0x0201,0x0001} {0x0109,0x0000}, ça fait[0x000A]{0x0206,0x0002,0xE07F} PCo. OK[0xE07F]?
+Alors, {0x0201,0x0001} {0x0109,0x0000}, ça fait[0x000A]{0x0206,0x0002,0xE07F} PCo. OK[0xE07F]?
+{0xBDFF:0x002E}
+C’est fini pour aujourd’hui.[0x000A]Revenez demain[0xE07F]!
+C’est fini pour aujourd’hui.[0x000A]Revenez demain[0xE07F]!
+Alors, 1 {0x0109,0x0000}...[0x000A]Cela vous fera {0x0206,0x0001,0xE07F} FP[0xE07F]!
+Alors, 1 {0x0109,0x0000}...[0x000A]Cela vous fera {0x0206,0x0001,0xE07F} FP[0xE07F]!
+Voici pour vous.[0x000A]Au plaisir de vous revoir.
+Voici pour vous.[0x000A]Au plaisir de vous revoir.
+Vous rangez votre achat dans la Poche[0x000A]{0x0112,0x0001}.
+Je prends vos Festipièces[0xE07F]!
+Je prends vos Festipièces[0xE07F]!
+Vous n’avez pas assez de Festipièces...
+Vous n’avez pas assez de Festipièces...
+Vous ne pouvez pas en porter davantage[0xE07F]!
+Vous ne pouvez pas en porter davantage[0xE07F]!
+Choisissez un Pokémon.
+Choisissez un Pokémon.
+Cela n’aura aucun effet sur ce Pokémon.
+Cela n’aura aucun effet sur ce Pokémon.
+{0xBDFF:0x0040}
+{0xBDFF:0x0041}
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}
+{0xBDFF:0x0046}
+{0xBDFF:0x0047}
+{0xBDFF:0x0048}
+{0xBDFF:0x0049}
+{0xBDFF:0x004A}
+{0xBDFF:0x004B}
+{0xBDFF:0x004C}
+{0xBDFF:0x004D}
+{0xBDFF:0x004E}
+{0xBDFF:0x004F}
+{0xBDFF:0x0050}
+{0xBDFF:0x0051}
+{0xBDFF:0x0052}
+Souhaiteriez-vous acquérir l’un de nos[0x000A]délicieux encens[0xE07F]?
+J’espère vous revoir bientôt[0xE07F]!
+Désirez-vous autre chose[0xE07F]?
+Combien en désirez-vous[0xE07F]?
+{0x0201,0x0001} {0x0109,0x0000}[0xE07F]?[0x000A]Cela fera {0x0206,0x0002,0xE07F} $.
+{0x0201,0x0001} {0x0109,0x0000}[0xE07F]?[0x000A]Cela fera {0x0206,0x0002,0xE07F} $.
+Voilà pour vous[0xE07F]![0x000A]Merci de votre visite[0xE07F]!
+Je crois que vous ne pouvez pas en porter[0x000A]davantage...
+Mais vous n’avez pas assez d’argent[0xE07F]!
+B’jour à toi[0xE07F]! Mes r’mèdes à base de plantes[0x000A]arrachent, mais y marchent comme pas deux[0xE07F]!
+R’viens donc une aut’ fois[0xE07F]!
+Tu veux aut’ chose[0xE07F]?
+T’en veux combien[0xE07F]?
+{0x0201,0x0001} {0x0109,0x0000}, ça fait[0x000A]{0x0206,0x0002,0xE07F} $. Ça t’va[0xE07F]?
+{0x0201,0x0001} {0x0109,0x0000}, ça fait[0x000A]{0x0206,0x0002,0xE07F} $. Ça t’va[0xE07F]?
+Le compte y est[0xE07F]![0x000A]Tu m’en diras des nouvelles[0xE07F]!
+T’en as déjà trop, toi[0xE07F]!
+Désolé, mais t’as pas assez d’sous[0xE07F]!
+Bienvenue à la Joaillerie Alyxia[0xE07F]!
+Revenez nous voir[0xE07F]!
+Désirez-vous autre chose[0xE07F]?
+Combien dois-je vous en préparer[0xE07F]?
+{0x0201,0x0001} {0x0109,0x0000}, pour un total de[0x000A]{0x0206,0x0002,0xE07F} $. Cela vous convient-il[0xE07F]?
+{0x0201,0x0001} {0x0109,0x0000}, pour un total de[0x000A]{0x0206,0x0002,0xE07F} $. Cela vous convient-il[0xE07F]?
+Et voilà[0xE07F]! Je vous ai tout empaqueté avec soin[0xE07F]!
+Vous n’avez pas assez de place[0xE07F]! Comment[0x000A]faites-vous pour transporter tout ça, d’ailleurs[0xE07F]?
+Pardon, mais je crains que vous ne puissiez pas[0x000A]vous le permettre.
+Hé[0xE07F]! La mode, ça t’intéresse[0xE07F]?[0x000A]T’as pas envie de rafraîchir ton look[0xE07F]?
+Reviens me voir quand tu te seras acheté[0x000A]un peu de bon goût.
+Il y a un autre article qui t’intéresse[0xE07F]?
+Combien en veux-tu[0xE07F]?
+{0x0201,0x0001} {0x0109,0x0000}[0xE07F]?[0x000A]{0x0206,0x0002,0xE07F} $, donc. OK[0xE07F]?
+{0x0201,0x0001} {0x0109,0x0000}[0xE07F]?[0x000A]{0x0206,0x0002,0xE07F} $, donc. OK[0xE07F]?
+Ça donnera un coup de frais à ton look, et ça,[0x000A]c’est pas du luxe[0xE07F]!
+Le problème, quand on dépense sans compter,[0x000A]c’est quand on ne peut plus rien porter de plus.
+Moi non plus, je ne regarde pas les prix quand[0x000A]j’achète de belles choses. Mais toi, tu devrais.
+Bienvenue[0xE07F]!
+À bientôt[0xE07F]!
+Excusez-moi, mais... est-ce que je peux voir[0x000A]le Cristal Z qui brille dans votre main[0xE07F]?
+Oh[0xE07F]! J’en déduis que vous avez triomphé de[0x000A]l’Épreuve d’Althéo...
+Oh[0xE07F]! J’en déduis que vous avez triomphé de[0x000A]l’Épreuve de Néphie...
+Oh[0xE07F]! J’en déduis que vous avez triomphé de[0x000A]l’Épreuve de Kiawe...
+Oh[0xE07F]! J’en déduis que vous avez triomphé de[0x000A]l’Épreuve de Barbara...
+Oh[0xE07F]! J’en déduis que vous avez triomphé de[0x000A]l’Épreuve de Chrys...
+Oh[0xE07F]! J’en déduis que vous avez triomphé de[0x000A]l’Épreuve de Margie...
+Oh[0xE07F]! J’en déduis que vous avez triomphé de[0x000A]l’Épreuve du Grand Canyon de Poni...
+Félicitations[0xE07F]! Pour fêter cela, permettez-moi[0x000A]d’augmenter le nombre de produits en vente[0xE07F]!
+Alola a enfin son premier Maître[0xE07F]!{0xBE01}[0x000A]Il faut célébrer votre triomphe... et votre visite[0x000A]chez nous[0xE07F]!
+Mais votre voyage ne s’arrête pas avec[0x000A]l’obtention du titre de Maître.
+Comptez sur les Boutiques Pokémon pour[0x000A]continuer à vous épauler dans vos aventures[0xE07F]!
+Attention, ça va brader[0xE07F]![0x000A]Qu’est-ce que vous voulez, aujourd’hui[0xE07F]?
+Merci[0xE07F]! À la prochaine[0xE07F]!
+Et vous voulez quoi d’autre[0xE07F]?
+{0x1001}{0x1403,0x0000}{0x0109,0x0000}[0xE07F]?[0x000A]Combien en voulez-vous[0xE07F]?
+Alors, {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Ça vous fera {0x0206,0x0002,0xE07F} $[0xE07F]!
+Alors, {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Ça vous fera {0x0206,0x0002,0xE07F} $[0xE07F]!
+Vous m’en direz des nouvelles[0xE07F]![0x000A]Merci, et à la prochaine[0xE07F]!
+J’ai bien peur que le compte n’y soit pas...
+Ah, c’est dommage, mais vous pouvez pas[0x000A]en porter plus[0xE07F]!
+Désirez-vous autre chose[0xE07F]?
+Voici pour vous.[0x000A]Au plaisir de vous revoir.
+Vous ne pouvez pas en porter davantage[0xE07F]!
+Tiens, bonjour à vous[0xE07F]!{0xBE01}[0x000A]Vous voulez échanger vos Points de Combat[0x000A]contre nos trésors, c’est bien ça[0xE07F]?
+Continuez à accumuler des Points de Combat[0x000A]et revenez me voir[0xE07F]!
+Ah là là, c’est vraiment dommage...[0x000A]Vous n’avez pas assez de Points de Combat...
+Combien {0x1001}{0x1408,0x0000}{0x0109,0x0000}[0x000A]voulez-vous[0xE07F]?
+Alors, {0x0201,0x0001} {0x0109,0x0000}, ça fait[0x000A]{0x0206,0x0002,0xE07F} PCo. Ça vous va[0xE07F]?
+Alors, {0x0201,0x0001} {0x0109,0x0000}, ça fait[0x000A]{0x0206,0x0002,0xE07F} PCo. Ça vous va[0xE07F]?
+Désirez-vous autre chose[0xE07F]?
+Et voici[0xE07F]!
+Vous en avez trop[0xE07F]!

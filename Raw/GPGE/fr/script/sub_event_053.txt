@@ -1,0 +1,5 @@
+msg_sub053_police_F_01=Ces vauriens de la Team Rocket n’arrêteront[0x000A]donc jamais !{0xBE00}[0x000A]On a beau lutter, ils reviennent toujours !
+msg_sub053_police_F_02=Attends... C’est toi qui nous as débarrassés de[0x000A]la Team Rocket ?{0xBE01}[0x000A]... Inutile de parler, je peux lire la réponse dans[0x000A]tes yeux... Tiens, pour te remercier !
+msg_sub053_sys_01=Vous recevez une {0xFF00,0x0006}Tenue de Patrouille{0xFF00,0x0000} !
+msg_sub053_sys_02=Vous rangez la {0xFF00,0x0006}Tenue de Patrouille{0xFF00,0x0000} dans votre[0x000A]Malle à Costumes.
+msg_sub053_police_F_03=Au final, tu t’es montré{0x1100,0x00FF,0x0100}e plus digne d’endosser[0x000A]l’uniforme que moi en faisant régner l’ordre à{0xBE00}[0x000A]Safrania. Porte-le fièrement, tu l’as bien mérité !

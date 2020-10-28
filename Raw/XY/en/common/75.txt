@@ -1,0 +1,54 @@
+OPTIONS
+CONFIRM
+QUIT
+TEXT SPEED
+SLOW
+NORMAL
+FAST
+You can choose from three different text-scrolling speeds[0x000A]to control how quickly messages appear.
+BATTLE EFFECTS
+ON
+OFF
+You can choose whether you wish to see move[0x000A]animations during battles or not.
+BATTLE STYLE
+SWITCH
+SET
+You can choose whether to be asked about switching[0x000A]Pokémon when an opposing Pokémon faints.
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+CHARACTERS
+Hiragana
+Kanji
+Switch JP characters.
+BATTLE BG
+DEFAULT
+RED
+BLUE
+PIKACHU
+STARTERS
+EEVEE
+MONOCHROME
+STICKERS
+TATAMI
+FLORAL PRINT
+ELEGANT
+TALL GRASS
+POLKA BALLS
+COCKPIT
+CARBON
+You can select a different wallpaper to be used on the[0x000A]lower screen during battles.
+BUTTON MODE
+DEFAULT
+L=A
+NO L/R BUTTON
+You can disable the L and R Buttons, or set the L Button[0x000A]to function as the A Button. This also disables the R Button.
+FORCED SAVE
+SAVE
+DON’T SAVE
+You can choose whether or not you must save before[0x000A]PSS battles and other communication features.
+Would you like to make these changes?
+Yes
+No

@@ -1,0 +1,158 @@
+{0x0101,0x0000}
+l
+{0x0108,0x0000}
+{0x0203,0x0000,0x0000}
+{0x0109,0x0000}
+{0x0201,0x0000} h {0x0201,0x0001} m
+--:--
+{0x0201,0x0000}
+/
+Portapokégioli
+Pokégioli
+Effetto dei Pokégioli
+{0x0201,0x0000}/{0x0201,0x0001}
+???
+{0x0203,0x0000,0x0000}
+{0xFF00,0x0001}---{0xFF00,0x0000}
+{0xFF00,0x0001}---{0xFF00,0x0000}
+Pokégioli che ricevi
+Pokégioli che offri
+Ok
+Pianta
+Invia ai Box
+Info
+Gioca
+Coccole
+Sviluppa il Poké Resort
+Invia una Bottiglia di Pokégioli
+Sì
+No
+Sì
+No
+Sì
+No
+Scambia Pokégioli
+Interrompi
+Casa Galleggiante
+Isolotto Passatempo
+Pokémon selvatici in visita
+---
+Effetto dei Pokégioli
+Isolotto Granraccolto
+Bacche piantate
+Prossimo raccolto
+Effetto dei Pokégioli
+Orto 1
+Orto 2
+Orto 3
+Informazioni sull’orto di bacche
+Pokégioli necessari per le migliorie
+Pokégioli necessari
+Requisiti
+Terreno soffice
+Qui hai piantato una bacca.[0x000A]Manca ancora un po’ al momento del raccolto.
+La pianta delle bacche sta crescendo.[0x000A]Dovrai aspettare ancora un po’ per il raccolto.
+La pianta delle bacche è cresciuta molto![0x000A]Manca poco al raccolto!
+Bacche coltivate nell’orto 1
+Bacche coltivate nell’orto 2
+Bacche coltivate nell’orto 3
+Scegli le bacche da piantare.
+Non hai bacche[0x000A]da piantare!
+La pianta delle bacche è germogliata.[0x000A]Ci vorrà un po’ prima che faccia i frutti.
+Le bacche sono mature![0x000A]Ora puoi raccoglierle.
+Isolotto Batticuore
+Percorso in esplorazione
+Tempo esplorazione
+Effetto dei Pokégioli
+Strumenti trovati durante l’esplorazione
+Isolotto Buonalena
+Pokémon che si stanno allenando
+Gruppo 1
+Gruppo 2
+Gruppo 3
+Tempo allenamento
+Effetto dei Pokégioli
+Isolotto Caldecoccole
+Pokémon alle terme
+Gruppo 1
+Gruppo 2
+Gruppo 3
+Effetto dei Pokégioli
+Numero di sessioni
+
+Durata
+Sessioni concluse
+Tempo sessione
+I Punti Esperienza aumentano.
+I punti base dell’Attacco aumentano.
+I punti base della Difesa aumentano.
+I punti base dell’Attacco Speciale aumentano.
+I punti base della Difesa Speciale aumentano.
+I punti base della Velocità aumentano.
+I punti base dei PS aumentano.
+Apporta migliorie al tuo Poké Resort.
+Scegli un percorso.
+Scegli una bibita.
+Isolotto Passatempo - Livello 1
+Isolotto Passatempo - Livello 2
+Isolotto Passatempo - Livello 3
+Isolotto Granraccolto - Livello 1
+Isolotto Granraccolto - Livello 2
+Isolotto Granraccolto - Livello 3
+Isolotto Batticuore - Livello 1
+Isolotto Batticuore - Livello 2
+Isolotto Batticuore - Livello 3
+Isolotto Buonalena - Livello 1
+Isolotto Buonalena - Livello 2
+Isolotto Buonalena - Livello 3
+Isolotto Caldecoccole - Livello 1
+Isolotto Caldecoccole - Livello 2
+Isolotto Caldecoccole - Livello 3
+Allestisci un isolotto in cui i Pokémon[0x000A]verranno a giocare.
+Rendi più florido l’Isolotto Passatempo[0x000A]aumentando la produzione di Pokégioli.
+Completa lo sviluppo dell’Isolotto Passatempo[0x000A]raggiungendo il limite massimo di produzione[0x000A]di Pokégioli.
+Allestisci un isolotto per la coltivazione[0x000A]delle bacche![0x000A]All’inizio potrai piantare fino a 6 bacche.
+Rendi più florido l’Isolotto Granraccolto[0x000A]aggiungendo un secondo orto, per un massimo[0x000A]di 12 bacche coltivabili.
+Completa lo sviluppo dell’Isolotto Granraccolto[0x000A]aggiungendo un terzo orto, per un massimo[0x000A]di 18 bacche coltivabili.
+Allestisci un isolotto per far vivere avventure[0x000A]ai Pokémon. Potranno esplorare percorsi in cui[0x000A]troveranno preziosi strumenti.
+Rendi più divertente l’Isolotto Batticuore[0x000A]aggiungendo altri percorsi da esplorare,[0x000A]per un totale di 3.
+Completa lo sviluppo dell’Isolotto Batticuore[0x000A]aggiungendo altri percorsi da esplorare,[0x000A]per un totale di 4.
+Allestisci un isolotto equipaggiato con strutture[0x000A]per permettere ai Pokémon di mantenersi[0x000A]in forma. Può ospitare fino a 6 atleti.
+Aggiungi altre strutture per permettere[0x000A]a più Pokémon di mantenersi in forma.[0x000A]Può ospitare fino a 12 atleti.
+Completa lo sviluppo dell’Isolotto Buonalena[0x000A]per permettere a un massimo di 18[0x000A]atletici Pokémon di mantenersi in forma.
+Allestisci un isolotto termale in cui i Pokémon[0x000A]potranno rilassarsi.[0x000A]Può accogliere fino a 6 Pokémon.
+Migliora l’Isolotto Caldecoccole aggiungendo[0x000A]un’altra sorgente in modo da accogliere fino a[0x000A]12 Pokémon.
+Completa lo sviluppo dell’Isolotto Caldecoccole[0x000A]aggiungendo un’altra sorgente, in modo da[0x000A]accogliere fino a 18 Pokémon.
+Requisiti
+Percorso dei cocci sospetti
+Percorso delle pietre brillanti
+Percorso dei tesori preziosi
+Percorso degli strumenti intriganti
+I Pokémon esplorano l’entrata della grotta[0x000A]e possono trovare dei cocci.
+I Pokémon si addentrano nella grotta e possono[0x000A]scovare delle pietre rare.
+I Pokémon esplorano le profondità della grotta[0x000A]e possono scoprire dei tesori preziosi.
+I Pokémon esplorano la grotta in ogni suo angolo[0x000A]e raccolgono tutti gli strumenti che suscitano[0x000A]la loro curiosità.
+Bibita livello
+Bibita Attacco
+Bibita Difesa
+Bibita Attacco Speciale
+Bibita Difesa Speciale
+Bibita Velocità
+Bibita PS
+Bibita tropicale particolarmente indicata[0x000A]per i Pokémon che fanno molto sport.[0x000A]Fa aumentare i Punti Esperienza.
+Bibita tropicale particolarmente indicata[0x000A]per i Pokémon che fanno molto sport.[0x000A]Fa aumentare i punti base dell’Attacco.
+Bibita tropicale particolarmente indicata[0x000A]per i Pokémon che fanno molto sport.[0x000A]Fa aumentare i punti base della Difesa.
+Bibita tropicale particolarmente indicata[0x000A]per i Pokémon che fanno molto sport.[0x000A]Fa aumentare i punti base dell’Attacco Speciale.
+Bibita tropicale particolarmente indicata[0x000A]per i Pokémon che fanno molto sport.[0x000A]Fa aumentare i punti base della Difesa Speciale.
+Bibita tropicale particolarmente indicata[0x000A]per i Pokémon che fanno molto sport.[0x000A]Fa aumentare i punti base della Velocità.
+Bibita tropicale particolarmente indicata[0x000A]per i Pokémon che fanno molto sport.[0x000A]Fa aumentare i punti base dei PS.
+{0xFF00,0x0001}---{0xFF00,0x0000}
+{0xFF00,0x0001}---{0xFF00,0x0000}
+{0xFF00,0x0001}---{0xFF00,0x0000}
+Nessun percorso selezionato.
+Manca poco!
+{0xBDFF:0x0099}
+{0xBDFF:0x009A}
+{0xBDFF:0x009B}
+{0xBDFF:0x009C}
+{0xBDFF:0x009D}

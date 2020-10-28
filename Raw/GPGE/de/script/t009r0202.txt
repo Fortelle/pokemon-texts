@@ -1,0 +1,5 @@
+msg_t009r0202_diary_01=Tagebuch: 5. Juli{0xBE01}[0x000A]Ich habe tief im Dschungel eine neue Art[0x000A]Pokémon entdeckt.
+msg_t009r0202_diary_02=Tagebuch: 10. Juli{0xBE01}[0x000A]Ich habe das neu entdeckte Pokémon auf[0x000A]den Namen Mew getauft.
+msg_t009r0202_switch_01={0xBDFF:0x0002}
+msg_t009r0202_switch_02={0xBDFF:0x0003}
+msg_t009r0202_switch_03={0xBDFF:0x0004}

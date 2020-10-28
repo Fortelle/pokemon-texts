@@ -1,0 +1,12 @@
+msg_common_scr_yes=Ja
+msg_common_scr_no=Nein
+msg_common_money={0x0206,0x0008,0x002E} [0xE300]
+msg_common_report_01=Möchtest du das Spiel speichern?
+msg_common_report_02=Speichervorgang...[0x000A]Bitte das System nicht ausschalten.
+msg_common_report_03=Du hast das Spiel gespeichert.
+msg_common_report_04=Es gibt bereits einen Spielstand.[0x000A]Speichern ist daher nicht möglich.{0xBE01}[0x000A]Weitere Details dazu findest du in der[0x000A]elektronischen Bedienungsanleitung.
+msg_common_report_05=Speichern fehlgeschlagen.
+msg_common_getmoney_01=Du erhältst {0x0207,0x0002,0x002E} [0xE300]!
+msg_common_pokeget_01={0x0101,0x0001} erhalten!
+msg_common_watt={0x0206,0x0008,0x202F} W
+msg_common_wattget_01=Du erhältst {0x0207,0x0002,0x202F} Watt!

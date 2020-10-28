@@ -1,0 +1,17 @@
+msg_sub020_sys_01=A Pokémon is sprawled out in[0x000A]a deep and comfortable slumber.
+msg_sub020_sys_02=Do you want to use the Poké Flute?
+msg_sub020_sys_03=You played the Poké Flute.
+msg_sub020_sys_04=Snorlax woke up!
+msg_sub020_sys_07=Snorlax is looking at you...[0x000A]And it looks hungry!
+msg_sub020_fuji_01=???: Hey, {0x0100,0x0000}!
+msg_sub020_fuji_02=MR. FUJI: There’s something I forgot to mention[0x000A]when I gave you the Poké Flute...
+msg_sub020_fuji_03=...Oh! Perfect timing!
+msg_sub020_fuji_05=You see, this Pokémon is called Snorlax.{0xBE01}[0x000A]It’s been known to attack the first thing it sees[0x000A]after waking up. It thinks what it sees is food!
+msg_sub020_fuji_06=Since it can be pretty dangerous, please help[0x000A]it calm down by battling it with your Pokémon.
+msg_sub020_fuji_07=Once you defeat it, it’ll become more docile.[0x000A]You should be able to catch it, just like{0xBE00}[0x000A]any other Pokémon!
+msg_sub020_sys_06=Snorlax mistook you for food and attacked!
+msg_sub020_sys_05=Snorlax calmed down.[0x000A]It gave a huge yawn...{0xBE00}[0x000A]and returned to the mountains.
+msg_sub020_fuji_08=MR. FUJI: Oh my, {0x0100,0x0000}![0x000A]That was impressive!
+msg_sub020_fuji_09=MR. FUJI: Oh, too bad, {0x0100,0x0000}...
+msg_sub020_fuji_10=There are other Pokémon out there that will[0x000A]try to attack Trainers, just as Snorlax did.{0xBE01}[0x000A]When facing such a Pokémon, the best thing to[0x000A]do is to defeat it, then catch it.{0xBE01}[0x000A]Remember—defeat, then catch. In that order!
+msg_sub020_fuji_11=Well, I’ll see you later, then!

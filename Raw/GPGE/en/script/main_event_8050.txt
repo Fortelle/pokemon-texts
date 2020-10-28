@@ -1,0 +1,11 @@
+msg_main8050_poison_01=KOGA: Fwahahaha!
+msg_main8050_poison_06=A mere child like you dares to challenge me?[0x000A]The very idea makes me shiver with mirth!{0xBE01}[0x000A]Very well, I shall show you true terror as a[0x000A]ninja master!
+msg_main8050_poison_07=Opponents can’t lay a hand on me,[0x000A]as poison brings their steady doom.
+msg_main8050_poison_08=Despair as you feel the creeping horror of[0x000A]Poison-type Pokémon!
+msg_gym06_01_02={0xBDFF:0x0004}
+msg_main8050_poison_02=Here! Take a Soul Badge!
+msg_main8050_sys_01=You got a {0xFF00,0x0006}Soul Badge{0xFF00,0x0000} from Koga!
+msg_main8050_poison_03=Now that you have a Soul Badge, Pokémon up[0x000A]to Lv. {0x0201,0x0004} will heed your command if you{0xBE00}[0x000A]received them in a trade.{0xBE01}[0x000A]Ah! Take this, too.
+msg_main8050_sys_02=You got {0x0109,0x0001} {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000} from Koga!
+msg_main8050_poison_04=Sealed within that TM27 lies the move Toxic!{0xBE01}[0x000A]It is an ancient move, passed down through[0x000A]my family for 400 years.
+msg_main8050_poison_05=When hit with Toxic’s poisonous effects,[0x000A]a Pokémon will take more and more damage{0xBE00}[0x000A]with each turn that passes in battle!{0xBE01}[0x000A]It will surely terrorize your opponent!

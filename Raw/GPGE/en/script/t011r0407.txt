@@ -1,0 +1,9 @@
+msg_t011r0407_staffm_01_01=The president is still in the boardroom[0x000A]on the 11th floor!{0xBE01}[0x000A]I’m so worried. I hope he’s safe...
+msg_t011r0407_staffm_01_02=Thank you for rescuing the president![0x000A]I couldn’t thank you enough!
+msg_t011r0407_staffm_02_01=Team Rocket must be after the Master Ball,[0x000A]a Poké Ball that’s guaranteed to catch{0xBE00}[0x000A]any Pokémon!{0xBE01}[0x000A]I bet they’re going to make us make lots of[0x000A]Master Balls for them to use...
+msg_t011r0407_staffm_02_02=We canceled the Master Ball project because of[0x000A]Team Rocket.
+msg_t011r0407_staffm_03_01=It’ll be bad if Team Rocket gets complete[0x000A]control of Silph and our Pokémon...
+msg_t011r0407_staffm_03_02=Wow!{0xBE01}[0x000A]You chased off Team Rocket?
+msg_t011r0407_stafff_01_01=You![0x000A]It’s really dangerous here!{0xBE01}[0x000A]You came to save me?[0x000A]You can’t!
+msg_t011r0407_stafff_01_02=Thank you so much!
+msg_t011r0407_kanban_01=“Silph Co. Head Office[0x000A]7F”

@@ -1,0 +1,20 @@
+Tu as une bonne tête[0xE08D][0x000A]Tiens, pour la route[0xE07F]!
+Prends cela, aussi[0xE07F]!
+Au combat, un Dresseur doit être capable[0x000A]d’utiliser les objets au bon moment pour aider{0xBE00}[0x000A]son Pokémon.
+Les affinités de type[0xE07F]?{0xBE01}[0x000A]Eau est efficace sur Feu,[0x000A]Feu sur Plante,{0xBE00}[0x000A]Plante sur Eau[0xE07F]! Eh oui[0xE07F]!
+Tu le sais, hein, que les Pokémon y peuvent[0x000A]tenir des objets.
+Il n’y a pas que les Pokémon qui ont un type,[0x000A]les capacités aussi[0xE07F]!{0xBE01}[0x000A]Utilisées par un Pokémon de même type qu’elles,[0x000A]leur puissance est renforcée.
+Ton équipe progresse même si tu attrapes un[0x000A]Pokémon sauvage[0xE07F]!{0xBE01}[0x000A]Je l’sais, parce qu’un de mes Pokémon est monté[0x000A]de niveau de cette façon[0xE07F]!
+Le tableau détaille les altérations de statut dont[0x000A]peuvent souffrir les Pokémon au combat.
+Laquelle voulez-vous consulter[0xE07F]?
+Les Pokémon empoisonnés perdent régulièrement[0x000A]des PV tant qu’ils se battent.{0xBE01}[0x000A]Le poison ne se dissipe pas, même une fois[0x000A]le combat terminé.{0xBE01}[0x000A]L’Antidote guérit cette altération.
+La paralysie réduit la Vitesse et peut empêcher[0x000A]d’utiliser les capacités.{0xBE01}[0x000A]Elle dure même après le combat.{0xBE01}[0x000A]L’Anti-Para permet de la guérir.
+Les Pokémon endormis ne peuvent pas combattre.{0xBE01}[0x000A]Il arrive qu’un Pokémon endormi se réveille de[0x000A]lui-même, mais dans le cas contraire, il continue{0xBE00}[0x000A]à dormir même une fois le combat terminé.{0xBE01}[0x000A]Utilisez un Réveil pour guérir cette altération.
+Les brûlures réduisent non seulement l’Attaque des[0x000A]Pokémon, mais diminuent aussi peu à peu leurs PV.{0xBE01}[0x000A]Cette altération perdure même après un combat.{0xBE01}[0x000A]Un Anti-Brûle est le remède parfait.
+Les Pokémon gelés ne peuvent plus rien faire.{0xBE01}[0x000A]Il arrive qu’un Pokémon se dégèle de lui-même,[0x000A]mais dans le cas contraire, il reste gelé{0xBE00}[0x000A]même une fois le combat terminé.{0xBE01}[0x000A]L’Antigel réchauffera votre Pokémon[0xE07F]!
+Poison
+Paralysie
+Sommeil
+Brûlure
+Gel
+Aucune

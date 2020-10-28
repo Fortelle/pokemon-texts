@@ -1,0 +1,12 @@
+msg_main3150_doctor_01=¡{0x0100,0x0000}!{0x0114,0x000B}
+msg_main3150_doctor_02=¡Parece que alguien ha visto a los tipos de azul[0x000A]y rojo entrar por aquí!{0x0114,0x000B}
+msg_main3150_doctor_03=Lo malo es que la puerta está cerrada con un[0x000A]cierre electrónico. Forzarlo no va a ser tarea{0xBE00}[0x000A]fácil.{0x0114,0x000B}
+msg_main3150_dog_01=¡Yam, yam!
+msg_main3150_doctor_04=Déjame lo de la puerta a mí. Tú ve a encargarte[0x000A]del barullo que se ha montado.{0x0114,0x000B}
+msg_main3150_doctor_05=¿Eh? ¿Ya has terminado? Qué velocidad...{0xBE01}[0x000A]Dame un segundo, que ya termino con esto...{0xBE01}[0x000A]¿Eh...? No entiendo qué pasa...{0x0114,0x000B}
+msg_main3150_dog_02=¡Yam, yam!
+msg_main3150_doctor_07=¡Ajá! ¡Ya está!{0x0114,0x000B}
+msg_main3150_doctor_08=¡Bien hecho, Yamper! ¡Buen chico!{0x0114,0x000B}
+msg_main3150_dog_03=¡Yaaam!
+msg_main3150_doctor_06=Esos dos estarán dentro... ¡Habrá que ir con[0x000A]cuidado!{0x0114,0x000B}
+msg_main3150_system_01=¡Bzzz!

@@ -1,0 +1,13 @@
+sub_event_006_childF_01=Would you like to test your knowledge[0x000A]about type matchups?
+sub_event_006_childF_02=OK. So here’s the first question!
+sub_event_006_childF_03={0x0103,0x0001}-type moves are super effective[0x000A]against which type of Pokémon?
+sub_event_006_childF_04={0x0103,0x0002}
+sub_event_006_childF_05=Ding ding ding! Right answer!
+sub_event_006_childF_06=Bzzzzzz! That’s incorrect!
+sub_event_006_childF_07=The next question!
+sub_event_006_childF_08=Please try again.
+sub_event_006_childF_09=You got {0x0200,0x0004} out of {0x0200,0x0003} question{0x1101,0x0003,0x0100}s right!
+sub_event_006_childF_10=You understand Pokémon type matchups[0x000A]very well!
+sub_event_006_childF_11=You have some understanding about Pokémon[0x000A]type matchups.
+sub_event_006_childF_12=You may want to learn about Pokémon type[0x000A]matchups a little bit more...
+sub_event_006_childF_13=You got them all correct for the first time.[0x000A]So I’ll give you a present!

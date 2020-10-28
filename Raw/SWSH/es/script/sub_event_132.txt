@@ -1,0 +1,12 @@
+sub_event_132_newmove_00=Percibo un potencial en ti como Entrenador{0x1100,0x00FF,0x0100}a[0x000A]realmente fuerte...{0xBE01}[0x000A]Pero aún es pronto... ¡Vuelve cuando te hayas[0x000A]coronado como Campe{0x1100,0x00FF,0x0302}ónona!
+sub_event_132_newmove_01=¡Oh, he aquí {0x1100,0x00FF,0x0202}ella Campe{0x1100,0x00FF,0x0302}ónona!{0xBE01}[0x000A]¿Quieres que le enseñe el movimiento especial[0x000A]{0x0107,0x0001} a {0x1101,0x00FD,0x0A02}tuuno de tus Pokémon?
+sub_event_132_newmove_02=Hasta más ver, entonces.
+sub_event_132_newmove_04=Uf, me temo que tu{0x1101,0x00FD,0x0100}s Pokémon no puede{0x1101,0x00FD,0x0100}n[0x000A]aprender el movimiento, Campe{0x1100,0x00FF,0x0302}ónona.
+sub_event_132_newmove_05=¿Qué Pokémon quieres que lo aprenda?
+sub_event_132_newmove_06=Lo lamento, pero {0x0102,0x0001} no puede[0x000A]aprender el movimiento.
+sub_event_132_newmove_07=El día que un Huevo aprenda un movimiento me[0x000A]retiraré.
+sub_event_132_newmove_08={0x0102,0x0001} ya conoce ese movimiento.
+sub_event_132_newmove_10=¿Qué movimiento quieres que olvide?
+sub_event_132_newmove_sys_01=¡{0x0102,0x0000} ha aprendido[0x000A]{0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+sub_event_132_newmove_sys_02=1, {0xBE02:0x0014}2 y... {0xBE02:0x0014}¡puf!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} ha olvidado cómo utilizar[0x000A]{0x0107,0x0001} y...{0xBE01}[0x000A]¡Ha aprendido {0x0107,0x0002}!{0xBE05,0x0004}{0xBE05,0x0001}
+sub_event_132_newmove_09=El movimiento Metaláser posee una potencia[0x000A]increíble, pero también hiere a quien lo usa.

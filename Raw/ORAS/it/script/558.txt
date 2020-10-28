@@ -1,0 +1,42 @@
+Sulla lavagna sono descritti i problemi di stato[0x000A]che i Pokémon possono subire durante la lotta.
+Quale argomento vuoi leggere?
+Veleno
+Paralisi
+Sonno
+Scottatura
+Congelamento
+Non ho voglia di studiare...
+Quando un Pokémon è avvelenato, perde gradualmente[0x000A]PS finché rimane in campo.{0xBE01}[0x000A]Finita la lotta, l’avvelenamento permane.[0x000A]Per curarlo, usa l’Antidoto!
+La paralisi riduce la Velocità e può impedire il movimento.{0xBE01}[0x000A]Permane anche dopo la lotta.[0x000A]Per curarla, usa l’Antiparalisi!
+Un Pokémon addormentato non può attaccare.{0xBE01}[0x000A]Può capitare che si svegli da solo, ma se è ancora[0x000A]addormentato a fine lotta, continuerà a dormire.{0xBE01}[0x000A]Per svegliarlo, usa la Sveglia!
+Le scottature riducono l’Attacco e fanno perdere[0x000A]dei PS a ogni turno.{0xBE01}[0x000A]Inoltre, persistono anche dopo la lotta.[0x000A]Per curarle, usa l’Antiscottatura!
+Se un Pokémon è congelato, non può fare nulla.{0xBE01}[0x000A]Il congelamento permane anche dopo la lotta.[0x000A]Per curarlo, usa l’Antigelo!
+Gli studenti svogliati assaporeranno il mio Rapidartigli!{0xBE01}[0x000A]Si capisce se hai studiato o meno da come sai usare[0x000A]questo strumento.
+Se dai un Rapidartigli a un Pokémon, a volte può[0x000A]attaccare per primo anticipando il nemico.{0xBE01}[0x000A]Puoi dare molti altri strumenti ai tuoi Pokémon.[0x000A]Questo argomento richiede molto studio!
+Sto scambiando Pokémon con un amico proprio ora.
+Ho sempre voluto un Seedot e ora sto per ottenerne uno!
+Puoi dare ai Pokémon degli strumenti, ma alcuni[0x000A]di quelli fatti dall’uomo, come l’Antidoto o le pozioni,{0xBE00}[0x000A]non potranno utilizzarli da soli.
+Sapevi che certe mosse possono confondere[0x000A]un Pokémon?{0xBE01}[0x000A]Un Pokémon confuso può colpire se stesso senza volerlo.[0x000A]Ritorna però normale quando viene ritirato dalla lotta.
+Se dai una bacca a un Pokémon, potrà usarla[0x000A]da solo, senza il tuo intervento...{0xBE01}[0x000A]Ci sono molti altri strumenti che si possono[0x000A]dare a un Pokémon...{0xBE01}[0x000A]Che fatica prendere appunti!
+Sono gli appunti di uno studente...{0xBE01}[0x000A]I Pokémon vanno catturati con le Poké Ball.{0xBE01}[0x000A]Un Allenatore può avere fino a sei Pokémon in squadra.{0xBE01}[0x000A]Gli Allenatori catturano i Pokémon, li allenano e[0x000A]lottano con loro.{0xBE01}[0x000A]Uno degli obiettivi di un Allenatore è visitare le varie[0x000A]Palestre e cercare di sconfiggere gli Allenatori più forti.
+Forse non lo sai, ma io sono[0x000A]il preside di questa scuola.{0xBE01}[0x000A]Per provarlo, ti mostrerò quanto[0x000A]è vasta la mia conoscenza.
+Vuoi che ti parli delle varie Medaglie[0x000A]che si possono ottenere a Hoenn?
+Che peccato! Mi stavo annoiando...[0x000A]Beh, se cambi idea, torna pure!
+Se hai la Medaglia Pietra, i tuoi Pokémon[0x000A]ti obbediranno fino al livello 20.
+Se hai la Medaglia Pugno, i tuoi Pokémon[0x000A]ti obbediranno fino al livello 30.
+Se hai la Medaglia Dinamo, i tuoi Pokémon[0x000A]ti obbediranno fino al livello 40.
+Se hai la Medaglia Fiamma, i tuoi Pokémon[0x000A]ti obbediranno fino al livello 50.
+Se hai la Medaglia Armonia, i tuoi Pokémon[0x000A]ti obbediranno fino al livello 60.
+Se hai la Medaglia Piuma, i tuoi Pokémon[0x000A]ti obbediranno fino al livello 70.
+Se hai la Medaglia Mente, i tuoi Pokémon[0x000A]ti obbediranno fino al livello 80.
+Se hai la Medaglia Pioggia, tutti i tuoi Pokémon[0x000A]ti obbediranno.
+Di quale Medaglia vuoi che ti parli?
+Medaglia Pietra
+Medaglia Pugno
+Medaglia Dinamo
+Medaglia Fiamma
+Medaglia Armonia
+Medaglia Piuma
+Medaglia Mente
+Medaglia Pioggia
+Come non detto...

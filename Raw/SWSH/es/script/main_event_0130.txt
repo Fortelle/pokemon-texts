@@ -1,0 +1,13 @@
+main_event_0130_sound_01=¡Plam!
+main_event_0130_rival_01=¡Espera, {0x0100,0x0000}![0x000A]¿Qué ha sido ese ruido?{0x0114,0x0005}
+main_event_0130_rival_02=¡Mira, la cerca está abierta![0x000A]¿Y el Wooloo que estaba ahí?{0x0114,0x0005}
+main_event_0130_rival_03=Antes no paraba de meterle Placajes. No se[0x000A]habrá colado dentro, ¿no?{0x0114,0x0005}
+main_event_0130_rival_04=Está totalmente prohibido el paso.{0xBE01}[0x000A]La nieta de la profesora se coló de niña y las[0x000A]pasó moradas. ¡Para colmo, después le cantaron{0xBE00}[0x000A]las cuarenta!{0x0114,0x0005}
+main_event_0130_rival_05={0x0100,0x0000}, ¿qué hacemos?{0x0114,0x0005}
+main_event_0130_select_01=¡Tenemos que ayudarlo!
+main_event_0130_select_02=No sé...
+main_event_0130_rival_06=Lo mismo digo... ¡En situaciones como esta, lo[0x000A]correcto es hacer lo incorrecto!{0x0114,0x0005}
+main_event_0130_rival_07=Te entiendo... Yo tampoco quiero que nos echen[0x000A]la bronca. Pero ¿a que el corazón te pide ir a{0xBE00}[0x000A]salvarlo?{0x0114,0x0005}
+main_event_0130_rival_08=¡No se hable más, {0x0100,0x0000}![0x000A]¡Démonos prisa!{0x0114,0x0005}
+main_event_0130_middlem_01={0xBDFF:0x000B}
+main_event_0130_rival_09=Arreando, {0x0100,0x0000}.[0x000A]¡Tenemos que salvar a ese Pokémon!

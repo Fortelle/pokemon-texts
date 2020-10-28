@@ -1,0 +1,4 @@
+msg_t011r0301_jevenilef_01=« ... Merci pour cette belle lettre,[0x000A]à bientôt ! »{0xBE01}[0x000A]Eh ! Regarde pas c’que j’écris !
+msg_t011r0301_poke_01={0xFF00,0x0009}Roucool :{0xFF00,0x0000} Rourou !
+msg_t011r0301_jevenilem_01=La Copieuse est mignonne ! Je vais essayer[0x000A]d’attraper un Mélofée pour le lui montrer.{0xBE00}[0x000A]C’est son Pokémon préféré !
+msg_t011r0301_letter_01=« On m’a donné un PP Plus, l’autre jour.{0xBE01}[0x000A]Les capacités puissantes n’ont pas beaucoup[0x000A]de PP, alors avec ça, je vais pouvoir les utiliser{0xBE00}[0x000A]plus souvent ! »

@@ -1,0 +1,14 @@
+main_event_0040_rival_01=M’man, c’est moi !{0x0114,0x0005}
+main_event_0040_rivalmama_01=Te voilà, Nabil !
+main_event_0040_rivalmama_02=Oh, {0x0100,0x0000} est là aussi ![0x000A]Entre, fais comme chez toi !
+main_event_0040_rivalmama_03=Oh, {0x0100,0x0000} est là aussi ![0x000A]Entre, fais comme chez toi !
+main_event_0040_rival_02=Eh ben ? Il est où, le frangin ?{0x0114,0x0005}
+main_event_0040_rivalmama_04=Il n’est pas encore là. La patience,[0x000A]ce n’est vraiment pas ton fort, mon fils.
+main_event_0040_rivalmama_05=Mais il doit être arrivé à la Gare de Brasswick.
+main_event_0040_rival_03=Ah ouais ?[0x000A]Faut vite qu’on aille le chercher, alors !{0xBE01}[0x000A]Vu que c’est un sous-doué de l’orientation,[0x000A]il serait capable de se perdre en chemin !{0x0114,0x0005}
+main_event_0040_rivalmama_06=Oui...[0x000A]Ce n’est peut-être pas une mauvaise idée.
+main_event_0040_rival_04={0x0100,0x0000}, t’as jamais rencontré[0x000A]mon frangin !{0xBE01}[0x000A]Tu viens avec moi ? Ça me ferait trop plaisir[0x000A]que vous fassiez connaissance !{0x0114,0x0005}
+main_event_0040_rival_05=Je t’attends sur la route !{0x0114,0x0005}
+main_event_0040_rivalmama_07=C’est gentil de ta part d’accompagner Nabil.[0x000A]Amusez-vous bien !
+main_event_0040_rivalmama_08=C’est gentil de ta part d’accompagner Nabil.[0x000A]Amusez-vous bien !
+main_event_0040_rivalmama_09=Moi, en attendant, j’ai un barbecue à préparer !

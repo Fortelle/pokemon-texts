@@ -1,0 +1,5 @@
+sub_event_046_npc_01=Ah, {0x1100,0x00FF,0x0E0B}il Campionela Campionessa... Non mi aspettavo di[0x000A]incontrarti qui in miniera.{0x0114,0x0007}
+sub_event_046_npc_02=Io sto facendo dei lavori socialmente utili[0x000A]al posto del presidente Rose.{0x0114,0x0007}
+sub_event_046_npc_03=Il presidente Rose... In passato ha prestato[0x000A]la sua opera anche in miniera...{0xBE00}[0x000A]Poter fare lo stesso mi riempie di gioia!{0xBE01}[0x000A]Sì! Ne sono così felice da volerti regalare[0x000A]una sua Card Lega Pokémon!{0x0114,0x0007}
+sub_event_046_npc_04=Non preoccuparti, puoi tenerla...[0x000A]Tanto io...{0xBE01}[0x000A]Ho ben 100 Card Lega Pokémon del presidente[0x000A]Rose! E tutte autografate!{0x0114,0x0007}
+sub_event_046_npc_05=Ti ringrazio per aver fermato Eternatus,[0x000A]Campione{0x1100,0x00FF,0x0300}ssa.{0xBE01}[0x000A]So che anche il presidente Rose te ne è grato...[0x000A]Ne sono sicura.{0xBE01}[0x000A]Sai, lui voleva soltanto assicurare un futuro[0x000A]migliore alla regione di Galar...{0x0114,0x0007}

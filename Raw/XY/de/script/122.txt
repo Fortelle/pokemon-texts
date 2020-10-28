@@ -1,0 +1,14 @@
+Willkommen im ID-Lotterie-Zentrum!{0xBE01}[0x000A]Hier hast du die Möglichkeit, fabelhafte Preise[0x000A]zu gewinnen, wenn die gezogene Losnummer{0xBE00}[0x000A]der ID eines deiner Pokémon entspricht!{0xBE01}[0x000A]Wie wär’s? Möchtest du dein Glück versuchen[0x000A]und ein Los ziehen?
+Wunderbar![0x000A]Dann wünsche ich dir jetzt viel Glück!
+...{0xBE02:0x000A} ...{0xBE02:0x000A} ...
+Hier haben wir das Ergebnis![0x000A]Das Los hat die Nummer {0x0204,0x0000,0x0000}!{0xBE01}[0x000A]Dann wollen wir jetzt mal sehen, ob das mit[0x000A]der ID eines deiner Pokémon übereinstimmt!
+Herzlichen Glückwunsch!{0xBE01}[0x000A]Die ID von {0x0102,0x0001} aus deinem Team[0x000A]enthält Übereinstimmungen mit der Losnummer!
+Herzlichen Glückwunsch!{0xBE01}[0x000A]Die ID von {0x0102,0x0001}, das du im PC[0x000A]abgelegt hast, enthält Übereinstimmungen{0xBE00}[0x000A]mit der Losnummer!
+Unglaublich! Alle fünf Ziffern stimmen überein!{0xBE01}[0x000A]Glück ist wohl dein zweiter Vorname, was?[0x000A]Du hast das große Los gezogen:{0xBE00}[0x000A]Einen Meisterball!
+Fantastisch! Vier Ziffern stimmen überein!{0xBE01}[0x000A]Dir ist das Glück aber wirklich hold, was?[0x000A]Du hast hiermit unseren ersten Preis gewonnen:{0xBE00}[0x000A]Ein Sonderbonbon!
+Oha! Drei Ziffern stimmen überein!{0xBE01}[0x000A]So viel Glück muss man erst mal haben, was?[0x000A]Du hast hiermit unseren zweiten Preis gewonnen:{0xBE00}[0x000A]Ein AP-Top!
+Es stimmen immerhin zwei Ziffern überein!{0xBE01}[0x000A]Glück braucht der Mensch, was?[0x000A]Du hast hiermit unseren dritten Preis gewonnen:{0xBE00}[0x000A]Ein AP-Plus!
+Na gut, es stimmt immerhin eine Ziffer überein!{0xBE01}[0x000A]Da kann man immer noch von Glück sprechen![0x000A]Du hast hiermit unseren vierten Preis gewonnen:{0xBE00}[0x000A]Eine Kuhmuh-Milch!
+Wie schade.[0x000A]Leider keine Übereinstimmungen...!
+Versuch bald mal wieder dein Glück!
+Du kannst ein Mal pro Tag ein Los ziehen.[0x000A]Komm doch morgen wieder{0xBE00}[0x000A]und versuche erneut dein Glück!

@@ -1,0 +1,6 @@
+msg_sub014_researcher_01=Hi! Remember me?[0x000A]I’m one of Professor Oak’s assistants.{0xBE01}[0x000A]The professor told me that if your Pokédex has[0x000A]good data on 30 species of Pokémon, I’m to{0xBE00}[0x000A]give you the Judge function.{0xBE01}[0x000A]So, {0x0100,0x0000}, let me ask you...{0xBE01}[0x000A]Have you gathered data on at least 30 species[0x000A]of Pokémon?
+msg_sub014_researcher_02=Great![0x000A]You have caught {0x0202,0x0004} species of Pokémon!{0xBE01}[0x000A]Congratulations![0x000A]Now, let me update your Pokémon Box!
+msg_sub014_sys_01=Your Pokémon Box gained the {0xFF00,0x0006}Judge function{0xFF00,0x0000}!
+msg_sub014_researcher_03=View a Pokémon’s summary via your Pokémon[0x000A]Box, and you’ll be able to see their potential.
+msg_sub014_researcher_04=Let’s see...[0x000A]Uh-oh! You’ve only caught {0x0202,0x0004} different species{0xBE00}[0x000A]of Pokémon!{0xBE01}[0x000A]You’ve got to reach 30 species if you want[0x000A]the Judge function.
+msg_sub014_researcher_05=...Oh, I see.{0xBE01}[0x000A]When you get 30 species of Pokémon, come[0x000A]back for the Judge function.

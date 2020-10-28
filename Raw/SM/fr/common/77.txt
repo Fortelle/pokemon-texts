@@ -1,0 +1,81 @@
+Oui
+Non
+Scanner des îles
+Scanner QR
+{0x0101,0x0000}
+{0x0104,0x0000}
+Taille
+Poids
+Lieu où quelque chose a été détecté :
+Mele-Mele
+Akala
+Ula-Ula
+Poni
+{0x0105,0x0000}
+Temps restant
+{0x0201,0x0000}:{0x0201,0x0001}
+Lire le mode d’emploi du Scanner QR[0xE07F]?
+Activation de l’appareil photo numérique[0x000A]extérieur...
+Maintenez le bouton R appuyé et alignez le[0x000A]QR Code avec le carré qui apparaît à l’écran.
+Le Scanner des îles n’a plus d’énergie.{0xBE01}
+Recherche de QR Code en cours...
+La lecture du QR Code a échoué.[0x000A]Veuillez réessayer.
+Analyse du QR Code en cours...
+Il semble y avoir un problème avec l’appareil[0x000A]photo de la console.{0xBE01}[0x000A]Essayez d’éteindre la console puis de la rallumer[0x000A]pour résoudre le problème.{0xBE01}
+L’analyse du QR Code a été interrompue.{0xBE01}
+Ce sont des informations sur un Pokémon[0x000A]vivant à Alola[0xE07F]!{0xBE01}[0x000A]Le Pokédex a été mis à jour.{0xBE01}
+Ce sont des informations sur un Pokémon[0x000A]vivant à Alola[0xE07F]!{0xBE01}
+Ces données concernent un Pokémon[0x000A]qui ne vit pas à Alola.{0xBE01}
+Lecture du QR Code impossible.{0xBE01}
+Lecture du QR Code impossible depuis[0x000A]cette console.{0xBE01}
+Impossible de lire ce QR Code depuis les jeux[0x000A]Pokémon Soleil et Pokémon Lune.{0xBE01}[0x000A]Veuillez réessayer depuis un autre jeu Pokémon.{0xBE01}
+{0x0201,0x0000} point{0x1101,0x0000,0x0100}s obtenu{0x1101,0x0000,0x0100}s[0xE07F]!{0xBE01}
+Total : {0x0202,0x0000} point{0x1101,0x0000,0x0100}s[0xE07F]!{0xBE01}
+{0xBDFF:0x0021}
+Vous avez accumulé 100 points[0xE07F]![0x000A]Le Scanner des îles est utilisable[0xE07F]!{0xBE01}
+Vous ne pouvez plus scanner de QR Code[0x000A]pour l’instant.
+Lecture du QR Code Spécial terminée.{0xBE01}
+Seuls les Maîtres peuvent lire ce QR Code.{0xBE01}
+Ce QR Code a déjà été utilisé[0xE07F]!{0xBE01}[0x000A]Lisez de nombreux QR Code différents[0x000A]pour accumuler des points[0xE07F]!{0xBE01}
+Vous avez assez d’énergie pour utiliser[0x000A]le Scanner des îles.
+Analyse de la zone :[0x000A]«[0xE07F]{0x0105,0x0000}[0xE07F]»...
+Vous n’avez pas assez d’énergie pour utiliser[0x000A]le Scanner des îles.{0xBE01}
+{0xBDFF:0x002A}
+Cherchez le Pokémon avec cette silhouette[0x000A]dans la zone où sa présence a été détectée[0xE07F]!
+Un Pokémon rare a été détecté[0xE07F]!{0xBE01}
+Aucun Pokémon rare n’a été détecté...{0xBE01}
+Utilisez le Scanner QR pour lire des QR Code[0x000A]et obtenir des informations sur les Pokémon[0xE07F]![0x000A][0x000A]Votre scanner se recharge au rythme d’une[0x000A]lecture de QR Code toutes les deux heures,[0x000A]et vous pouvez accumuler jusqu’à dix lectures.
+Lire des QR Code vous permet de recevoir[0x000A]des points.[0x000A]Et accumuler 100 points permet d’utiliser[0x000A]le Scanner des îles une fois[0xE07F]!
+Le Scanner des îles permet d’analyser[0x000A]un environnement d’Alola pour trouver[0x000A]des Pokémon rares.[0x000A][0x000A]Si vous détectez un Pokémon, allez vite[0x000A]l’attraper[0xE07F]!
+Et ce n’est pas tout[0xE07F]![0x000A][0x000A]Votre Pokédex contient les QR Code[0x000A]pour les Pokémon que vous avez attrapés.[0x000A][0x000A]Vous pouvez utiliser ces QR Code pour[0x000A]partager les informations de votre Pokédex[0x000A]avec vos amis[0xE07F]!
+{0xBDFF:0x0032}
+{0xBDFF:0x0033}
+Activation de l’appareil photo numérique[0x000A]extérieur...
+Maintenez le bouton R appuyé et alignez le[0x000A]QR Code avec le carré qui apparaît à l’écran.
+Recherche de QR Code en cours...
+Lecture des données en cours...
+Ce QR Code est défectueux.[0x000A]Échec de la lecture.{0xBE01}
+Lecture des données terminée.{0xBE01}
+Il s’agit d’un QR Code de Tournoi Amical.{0xBE01}
+Il s’agit d’un QR Code de Compétition Live.{0xBE01}
+Il s’agit d’un QR Code d’Équipe Combat.{0xBE01}
+Ce QR Code contient les informations d’un[0x000A]Pokémon.{0xBE01}
+Veuillez scanner le QR Code de l’Équipe Combat.{0xBE01}
+Veuillez scanner le QR Code du Tournoi Amical.{0xBE01}
+Veuillez scanner le QR Code de la Compétition[0x000A]Live.{0xBE01}
+L’ID de Synchro-Jeu est différent.[0x000A]Lecture du QR Code impossible.{0xBE01}
+Lecture des données impossible.{0xBE01}
+Lecture des données impossible depuis[0x000A]cette console.{0xBE01}
+Impossible de lire ce QR Code depuis les jeux[0x000A]Pokémon Soleil et Pokémon Lune.{0xBE01}[0x000A]Veuillez réessayer depuis un autre jeu Pokémon.{0xBE01}
+{0x0202,0x0000} Pts
+Vous avez accumulé 100 points[0xE07F]![0x000A]Le Scanner des îles est utilisable[0xE07F]!{0xBE01}
+{0x0204,0x0000,0xE07F}
+Nombre de QR Code analysés :
+Désactivation de l’appareil photo extérieur.
+Ce sont des informations au sujet d’un Pokémon[0x000A]vivant à Alola[0xE07F]!{0xBE01}[0x000A]Le Pokédex a été mis à jour, et un cadeau[0x000A]spécial vient d’arriver pour vous[0xE07F]!{0xBE01}[0x000A]Récupérez-le auprès du livreur d’Antique et[0x000A]Chic, dans la zone commerciale d’Ekaeka[0xE07F]!{0xBE01}
+Ce sont des informations sur un Pokémon[0x000A]vivant à Alola[0xE07F]!{0xBE01}[0x000A]Un cadeau spécial vient d’arriver pour vous[0xE07F]!{0xBE01}[0x000A]Récupérez-le auprès du livreur d’Antique et[0x000A]Chic, dans la zone commerciale d’Ekaeka[0xE07F]!{0xBE01}
+Ce sont des informations sur un Pokémon[0x000A]vivant à Alola[0xE07F]!{0xBE01}
+Lecture du QR Code Miracle terminée[0xE07F]!{0xBE01}
+Lecture du QR Code de Pokédex d’Alola[0x000A]terminée[0xE07F]!{0xBE01}
+Paradis Æther
+Ultra-Dimension

@@ -1,0 +1,31 @@
+¡Ah del barco! Hemos arribado a Azuliza.{0xBE01}[0x000A]Creo que has venido a entregar esa carta a un fulano,[0x000A]¿no?{0xBE01}[0x000A]Si estás un poco perdid{0x1100,0x00FF,0x0101}oa y no sabes adónde tienes que[0x000A]ir, lo mejor será que le preguntes al Líder del Gimnasio.{0xBE01}[0x000A]Más que nada porque seguro que lo sabe todo sobre[0x000A]este pueblo.
+¿Has entregado la carta? ¿O quieres volver a Petalia?
+¡Pues rumbo a Petalia![0x000A]¡Levad anclas! ¡Peeko, bonito, nos vamos!
+Vale, pues ve a entregar la carta. Yo te espero aquí.{0xBE01}[0x000A]Si estás un poco perdid{0x1100,0x00FF,0x0101}oa y no sabes adónde tienes que[0x000A]ir, lo mejor será que le preguntes al Líder de Gimnasio.{0xBE01}[0x000A]Más que nada porque seguro que lo sabe todo sobre[0x000A]este pueblo.
+¡Ah del barco! ¡Hemos arribado a Azuliza!{0xBE01}[0x000A]Cuando quieras volver a hacerte a la mar, llámame.
+¡Ah del barco! ¡Yo levo anclas cuando quieras![0x000A]Venga, ¿adónde vamos?
+¿A Petalia, dices?{0xBE01}[0x000A]¡Levad anclas! ¡Peeko, bonito, nos vamos!
+¿A Ciudad Portual, dices?{0xBE01}[0x000A]¡Levad anclas! ¡Peeko, bonito, nos vamos!
+Cuando quieras volver a hacerte a la mar, llámame.
+Ir a Petalia
+Ir a Azuliza
+Ir a Ciudad Portual
+Me quedo aquí
+¡Ah del barco! ¡Hemos arribado a Ciudad Portual!{0xBE01}[0x000A]Supongo que vas a visitar al Capitán Babor y entregar las[0x000A]Piezas Devon, ¿no es así?
+¿No vas a entregar las Piezas Devon?{0xBE01}[0x000A]¿Quieres volver a Azuliza?
+¡Pues rumbo a Azuliza!{0xBE01}[0x000A]¡Levad anclas! ¡Peeko, bonito, nos vamos!
+Pues ve a entregar las Piezas Devon.[0x000A]Yo te espero.
+¡Ah del barco! ¡Hemos arribado a Ciudad Portual!{0xBE01}[0x000A]Cuando quieras volver a hacerte a la mar, llámame.
+{0xBDFF:0x0012}
+Cuando quieras volver a hacerte a la mar, llámame.
+¡Un segundo, grumete! ¡Peeko, para de una vez!
+¿Eh? ¡Si eres {0x0100,0x0000}![0x000A]¡Tú salvaste a mi Peeko del alma!{0xBE01}[0x000A]¡Te debo una muy gorda!{0xBE01}[0x000A]¿Qué me dices? ¿Quieres navegar conmigo?{0xBE01}[0x000A]Hmm...{0xBE01}[0x000A]Que tienes una carta que llevar a Azuliza...{0xBE01}[0x000A]Lo que pides no supone ningún problema en absoluto.{0xBE01}[0x000A]¡Hablas con el hombre adecuado![0x000A]Vamos a poner rumbo a Azuliza.
+¿Eh? ¡Si eres {0x0100,0x0000}![0x000A]¡Tú salvaste a mi Peeko del alma!{0xBE01}[0x000A]¡Te debo una muy gorda!{0xBE01}[0x000A]¿Qué me dices? ¿Quieres navegar conmigo?{0xBE01}[0x000A]Hmm...{0xBE01}[0x000A]Que tienes una carta que llevar a Azuliza...{0xBE01}[0x000A]Lo que pides no supone ningún problema en absoluto.{0xBE01}[0x000A]¡Hablas con el hombre adecuado![0x000A]Vamos a poner rumbo a Azuliza.
+¡Rumbo a Azuliza!{0xBE01}[0x000A]¡Levad anclas! ¡Peeko, bonito, nos vamos!
+¿Ah, sí? ¿Tus recados pueden esperar?{0xBE01}[0x000A]Bueno, cuando quieras hacerte a la mar, llámame.
+¡Ah del barco! ¡Sé exactamente lo que vas a decir!{0xBE01}[0x000A]Tienes que entregar una carta en Pueblo Azuliza o algo[0x000A]así.{0xBE01}[0x000A]Lo que pides no es ningún problema. ¡Hablas con el[0x000A]hombre adecuado!
+¡Ah del barco! ¡Sé exactamente lo que vas a decir!{0xBE01}[0x000A]Tienes que entregar un paquete al Capitán Babor en[0x000A]Ciudad Portual.{0xBE01}[0x000A]Lo que pides no es ningún problema. ¡Hablas con el[0x000A]hombre adecuado!
+¡Ah del barco! ¡Yo levo anclas cuando quieras![0x000A]Venga, ¿adónde vamos?
+¿Ah, sí? Bueno, Peeko te debe la vida.{0xBE01}[0x000A]Cuando quieras hacerte a la mar, llámame.
+{0xBDFF:0x001D}
+Ah, por lo que veo has podido entregar la carta sin[0x000A]problemas.{0xBE01}[0x000A]Pues antes de que me olvide, el Sr. Peñas tiene otro[0x000A]favorcito que pedirte.{0xBE01}[0x000A]Se trata de las {0xFF00,0x0002}Piezas Devon{0xFF00,0x0000} que has recuperado:[0x000A]quiere que se las entregues a un tal {0xFF00,0x0002}Capitán Babor{0xFF00,0x0000}{0xBE00}[0x000A]que encontrarás en los {0xFF00,0x0002}astilleros de Ciudad Portual{0xFF00,0x0000}.{0xBE01}[0x000A]¡No hay tiempo que perder! ¿Qué tal si zarpamos de[0x000A]inmediato?

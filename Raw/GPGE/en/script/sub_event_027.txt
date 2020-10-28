@@ -1,0 +1,8 @@
+msg_sub027_clerkm_01=I need to go use the restroom, but here comes[0x000A]another guest!{0xBE01}[0x000A]The new guy who’s supposed to take over my[0x000A]shift is running late!{0xBE01}[0x000A]Here—take this thing. If I have to skedaddle,[0x000A]maybe it can inspire you to cover for me!
+msg_sub027_sys_01={0xBDFF:0x0001}
+msg_sub027_clerkm_02=TM03 is Helping Hand!{0xBE01}[0x000A]Helping Hand will boost the power of an ally’s[0x000A]attacks during a battle.
+msg_sub027_clerkm_03=Are you using Helping Hand?[0x000A]I still need a little help myself...
+msg_sub027_clerkm_01_nouse={0xBDFF:0x0004}
+msg_sub027_clerkm_02_nouse={0xBDFF:0x0005}
+msg_sub027_clerkm_03_nouse={0xBDFF:0x0006}
+msg_sub027_clerkm_04={0xBDFF:0x0007}

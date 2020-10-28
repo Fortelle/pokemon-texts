@@ -1,0 +1,9 @@
+msg_main0057_mother_01={0xFF00,0x0009}Maman : {0xFF00,0x0000}Oooh ! Mais qu’il est trognon ![0x000A]C’est le Professeur qui te l’a donné ?
+msg_main0057_mother_02=Quoi ?! Tu l’as attrapé tout{0x1100,0x00FF,0x0100}e seul{0x1100,0x00FF,0x0100}e, comme[0x000A]un{0x1100,0x00FF,0x0100}e grand{0x1100,0x00FF,0x0100}e ? Mais, c’est merveilleux ! Bravo !{0xBE01}[0x000A]Et c’est quoi, son petit nom ?{0xBE01}[0x000A]{0x0102,0x0003} ?[0x000A]Enchantée, {0x0102,0x0003} !
+msg_main0057_poke_01=Pika pika !
+msg_main0057_poke_02=Voliii !
+msg_main0057_mother_03={0xFF00,0x0009}Maman :{0xFF00,0x0000} Eh ben ![0x000A]Il a de l’énergie à revendre, ce petit !
+msg_main0057_mother_05=Donc ça y est, vous partez à l’aventure[0x000A]tous les deux ?{0xBE01}[0x000A]Attends, j’ai exactement ce qu’il te faut !
+msg_main0057_sys_01=Vous obtenez une {0xFF00,0x0006}Carte{0xFF00,0x0000}.
+msg_main0057_sys_02={0xBDFF:0x0007}
+msg_main0057_mother_04=En ouvrant la Carte qui est dans ton Sac,[0x000A]tu sauras exactement où tu te trouves !{0xBE01}[0x000A]Allez, je vous laisse vous amuser, mes amours ![0x000A]Profitez bien !

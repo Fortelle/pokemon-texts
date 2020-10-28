@@ -1,0 +1,16 @@
+msg_main8000_rock_01=Je, así que has logrado llegar hasta aquí.{0xBE01}[0x000A]Soy Brock, el Líder de Gimnasio de Ciudad[0x000A]Plateada.
+msg_main8000_rock_06=¡Mi voluntad y determinación son tan firmes[0x000A]como una montaña! Y me gusta que eso se{0xBE00}[0x000A]refleje en mi equipo.
+msg_main8000_rock_07=¡Por eso todos mis Pokémon son de tipo Roca!
+msg_main8000_rock_08=¿Aun así quieres desafiarme?{0xBE01}[0x000A]Se nota que te impulsa el orgullo típico de[0x000A]los Entrenadores Pokémon.
+msg_main8000_rock_09=¡Muy bien! ¡Demuéstrame lo que vales!
+msg_main8000_rock_02=Como prueba de tu victoria, te entrego una de[0x000A]las medallas oficiales de la Liga Pokémon:{0xBE00}[0x000A]¡la Medalla Roca!
+msg_main8000_sys_01=Brock te ha entregado la {0xFF00,0x0006}Medalla Roca{0xFF00,0x0000}.
+msg_main8000_rock_03=Si tienes la Medalla Roca, los Pokémon de hasta[0x000A]Nv. 20 siempre te obedecerán, incluso los que{0xBE00}[0x000A]recibas de otros Entrenadores.{0xBE01}[0x000A]Toma, llévate también esto.
+msg_main8000_sys_02=Brock te ha entregado la {0x0109,0x0001}, que permite[0x000A]enseñar el movimiento {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000}.
+msg_main8000_rock_04=Gracias a las MT, los Pokémon pueden aprender[0x000A]movimientos al instante. ¡Y puedes utilizarlas{0xBE00}[0x000A]todas las veces que quieras!{0xBE01}[0x000A]La MT01, por ejemplo, permite enseñar el[0x000A]movimiento Golpe Cabeza, con el que se{0xBE00}[0x000A]propina un cabezazo tremendo.
+msg_main8000_rock_05=En el mundo hay todo tipo de Entrenadores:[0x000A]algunos crían Pokémon, otros los hacen luchar...{0xBE01}[0x000A]Yo voy a esforzarme para aprender a criarlos.{0xBE01}[0x000A]Supongo que tú quieres seguir fortaleciéndote,[0x000A]así que sería buena idea que te pasaras por el{0xBE00}[0x000A]siguiente gimnasio y pusieras a prueba tus dotes{0xBE00}[0x000A]como Entrenador{0x1100,0x00FF,0x0100}a.
+msg_main8000_shortpants_01=Oye, ¿tú eres Entrenador{0x1100,0x00FF,0x0100}a Pokémon?[0x000A]Brock está buscando adversarios. ¡Ven!
+msg_main8000_shortpants_02=¡Si crees que puedes dar la talla, prueba a luchar[0x000A]contra él!
+msg_main8000_shortpants_03=¡Anda, ya tienes la Medalla Roca! Es decir, que[0x000A]has ganado a Brock, ¿cierto?{0xBE01}[0x000A]Cuantas más medallas consigas, más objetos[0x000A]podrás comprar en las Tiendas Pokémon.
+msg_main8000_shortpants_04=Ya sabes, esos edificios de color azul.[0x000A]Son muy fáciles de reconocer.
+msg_main8000_shortpants_05=Yo diría que en casi todas las ciudades hay una.[0x000A]Pero eso ya lo sabías, ¿no?

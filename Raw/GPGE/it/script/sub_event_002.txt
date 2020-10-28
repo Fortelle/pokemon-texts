@@ -1,0 +1,7 @@
+msg_sub002_middlem_01={0xFF00,0x0009}Signore:{0xFF00,0x0000} Ehilà, ciao ragazzino![0x000A]Avrei un’offerta esclusiva per te!{0xBE01}[0x000A]Ti do un Magikarp bello grosso per soli 500 [0xE300]![0x000A]Che ne dici?
+msg_sub002_middlem_02={0xFF00,0x0009}Signore:{0xFF00,0x0000} Ehilà, ciao ragazzina![0x000A]Avrei un’offerta esclusiva per te!{0xBE01}[0x000A]Ti do un Magikarp bello grosso per soli 500 [0xE300]![0x000A]Che ne dici?
+msg_sub002_sys_01={0x0100,0x0000} ha acquistato un Magikarp[0x000A]al prezzo esorbitante di 500 [0xE300]!
+msg_sub002_middlem_03=No? Stavo solo cercando di farti un favore!
+msg_middlem1_01_p04_r004_r0101={0xBDFF:0x0004}
+msg_sub002_middlem_04=Ti servono più soldi!
+msg_sub002_middlem_05={0xFF00,0x0009}Signore:{0xFF00,0x0000} La merce non si cambia!

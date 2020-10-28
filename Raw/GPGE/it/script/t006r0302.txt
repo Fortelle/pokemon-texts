@@ -1,0 +1,2 @@
+msg_t006r0302_sailor_01=Bonjour! Je suis il cameriere di questa nave.[0x000A]Desidera qualcosa? Sarò lieto di servirla!{0xBE01}[0x000A]Ah! Lei è un{0x1100,0x00FF,0x0100}a cliente piuttosto silenzios{0x1100,0x00FF,0x0101}oa.[0x000A]Très bien!
+msg_t006r0302_sailor_02=I passeggeri sono stanchi per il lungo viaggio[0x000A]e non sanno come passare il tempo.{0xBE01}[0x000A]Qualcuno tra i più annoiati potrebbe sfidarti!

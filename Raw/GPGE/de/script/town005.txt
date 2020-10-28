@@ -1,0 +1,12 @@
+msg_town005_kanban_01=Lavandia[0x000A]Die edle, violette Stadt!
+msg_town005_kanban_02=Das neue Silph Scope![0x000A]Enthüllt, was dem bloßen Auge verborgen bleibt!{0xBE01}[0x000A]– Silph Company
+msg_town005_kanban_03=Pokémon-Clubhaus[0x000A]Ehrenamtliche Arbeit aus Verbundenheit!
+msg_town005_kanban_04=Pokémon-Turm[0x000A]Hier ruhen Pokémon in Frieden.
+msg_town005_juveniles_01_01=Glaubst du an Gespenster?
+msg_town005_juveniles_01_02=Hm... Es gibt also Leute, die an sie glauben.
+msg_town005_juveniles_01_03=Hahaha, natürlich nicht!{0xBE01}[0x000A]Und diese weiße Hand da auf deiner rechten[0x000A]Schulter bilde ich mir nur ein, stimmt’s?
+msg_town005_adultm_01=Diese Stadt ist für ihre Pokémon-Ruhestätte[0x000A]bekannt.{0xBE01}[0x000A]Trainer bringen ihre verstorbenen Pokémon in[0x000A]den Pokémon-Turm und gedenken ihrer dort.
+msg_town005_youngm_01=In letzter Zeit sollen im Pokémon-Turm häufig[0x000A]Gespenster herumspuken...{0xBE01}[0x000A]Ich glaube, das hat mit den Pokémon zu tun,[0x000A]die von Team Rocket entführt wurden.{0xBE01}[0x000A]Die sind nämlich nie wieder zurückgekehrt...
+msg_town005_oldf_01=*Schnüffel, schnüffel...*[0x000A]Ah, der Duft von Räucherstäbchen entspannt...
+msg_town005_poke_01={0xFF00,0x0009}Nidoran♀:{0xFF00,0x0000} Nido!
+msg_town005_childf_01=Du, weißt du was? Im Pokémon-Turm soll man[0x000A]nicht laut sein und so. Das sagt Mama immer.

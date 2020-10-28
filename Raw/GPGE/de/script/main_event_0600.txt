@@ -1,0 +1,13 @@
+msg_main0600_oldwoman_01={0xBDFF:0x0000}
+msg_main0600_sys_01_old={0xBDFF:0x0001}
+msg_main0600_oldwoman_02={0xBDFF:0x0002}
+msg_main0600_oldwoman_03={0xBDFF:0x0003}
+msg_main0600_rock_01={0xFF00,0x0009}Rocko:{0xFF00,0x0000} Oh, hallo! W-Was für ein Zufall!
+msg_main0600_rock_02=W-Was ich hier mache, fragst du...?{0xBE01}[0x000A]Ich, äh... bin gerade auf dem Rückweg von der[0x000A]Arena von Prismania City. Ja, genau!{0xBE01}[0x000A]Als Arenaleiter lege ich nämlich großen Wert[0x000A]darauf, mich mit meinen Kollegi--, äh, Kollegen{0xBE00}[0x000A]auszutauschen, weißt du?{0xBE01}[0x000A]So bin ich eben. Ein Profi durch und durch.
+msg_main0600_rock_03=Leider sehen das meine Kollegen nicht alle so.[0x000A]Diesmal bin ich zumindest eiskalt abgeblitzt.
+msg_main0600_rock_04=Diese Marmoria-Kräcker waren als Mitbringsel[0x000A]gedacht. Hier, du kannst sie haben...
+msg_main0600_sys_01=Du erhältst Marmoria-Kräcker von Rocko!
+msg_main0600_rock_05=Wenn ich Marmoria-Kräcker knabbere, krieg ich[0x000A]immer einen ganz trockenen Hals.{0xBE01}[0x000A]Trink daher am besten ein schönes Tässchen[0x000A]Tee dazu.
+msg_main0600_sys_02=Du erhältst eine Tasse {0xFF00,0x0006}Tee{0xFF00,0x0000} von Rocko!
+msg_main0600_rock_07=Oh, verflixt, ich wollte doch eine Tasse für den[0x000A]Wachmann aufheben! Er sah so durstig aus...
+msg_main0600_rock_06=Na ja, das lässt sich nicht ändern.{0xBE01}[0x000A]Jedenfalls scheinst du auf deiner Reise schon[0x000A]ein paar Arenen abgeklappert zu haben,{0xBE00}[0x000A]das lob ich mir! Immer weiter so.

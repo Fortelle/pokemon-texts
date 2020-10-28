@@ -1,0 +1,9 @@
+main_event_0565_rival_01=Look! Just take a look at that, {0x0100,0x0000}!{0xBE01}[0x000A]That’s Turffield Stadium down there!{0x0114,0x0005}
+main_event_0565_rival_02=The Gym Leader just returned, too.[0x000A]Milo’s his name.{0xBE01}[0x000A]But the place is jam-packed with challengers.[0x000A]It’ll be ages before our turn comes up...{0x0114,0x0005}
+main_event_0565_rival_03=Oh...[0x000A]But Sonia was looking for you, {0x0100,0x0000}.{0xBE01}[0x000A]She wanted to ask you about something.[0x000A]She tried asking me, but I had no idea.{0xBE01}[0x000A]She’s up on that what’s-her-face hill.[0x000A]You know the one.{0x0114,0x0005}
+main_event_0565_rival_04=What? You don’t know the hill?[0x000A]Well, have a look at your map if you’re not sure!{0x0114,0x0005}
+main_event_0565_poke1_03=Bowow!
+main_event_0565_rival_05=Oh! If it isn’t Sonia’s Yamper![0x000A]He’s a good boy. He’ll show you the way!{0x0114,0x0005}
+main_event_0565_poke1_01=Bow wark!
+main_event_0565_poke1_02=Bow wow wow!
+main_event_0565_rival_06=Sonia’s probably still waiting for you at the hill,[0x000A]{0x0100,0x0000}.{0xBE01}[0x000A]Go on and meet her. You can’t take on Milo yet[0x000A]anyway, and I don’t want her griping to me later{0xBE00}[0x000A]as if I didn’t pass on the message!{0x0114,0x0005}

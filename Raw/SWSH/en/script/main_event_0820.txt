@@ -1,0 +1,15 @@
+main_event_0820_rival_01=Hurry it up, {0x0100,0x0000}!{0x0114,0x0005}
+main_event_0820_rival_02=Huh?{0x0114,0x0005}
+main_event_0820_rival_03=You’re the Gym Leader, but you still came all the[0x000A]way to see us off?{0xBE01}[0x000A]Oh, I bet you can already tell that I’m the one[0x000A]who’ll become the next Champion, yeah?{0x0114,0x0005}
+main_event_0820_leader3_01=There are many Trainers who never manage[0x000A]to gather three Gym Badges, and they just{0xBE00}[0x000A]give up on the Gym Challenge altogether...{0xBE01}[0x000A]So I make a point to see off any Trainers who[0x000A]are able to defeat me.{0x0114,0x0010}
+main_event_0820_leader2_01=Whew, we made it...[0x000A]Thank goodness for Flying Taxis!{0x0114,0x000F}
+main_event_0820_leader2_02={0x1003}{0x0100,0x0000}, Hop, congratulations![0x000A]It’s pretty amazing you two defeated Kabu!{0x0114,0x000F}
+main_event_0820_leader1_01=Not a lot of Gym Challengers are able to get a[0x000A]Gym Badge from Kabu.{0xBE01}[0x000A]We like to get together to see them off, as a way[0x000A]of showing our support.{0x0114,0x000E}
+main_event_0820_leader3_02=So, allow me to send you off with a[0x000A]proper, sporty chant!{0x0114,0x0010}
+main_event_0820_leader3_03=Hustle, hustle, hustle, Hop![0x000A]You can do it, you can do it, {0x0100,0x0000}!{0x0114,0x0010}
+main_event_0820_leader3_04=The Gym Leaders you will face ahead are all[0x000A]tough opponents.{0xBE01}[0x000A]But I believe that you will prevail![0x000A]Believe in your Pokémon and keep pushing on!{0x0114,0x0010}
+main_event_0820_rival_04=Thanks, you all!{0xBE01}[0x000A]We’re gonna keep winning! We’ve got to if we[0x000A]want a face-off in the Champion Cup, after all!{0x0114,0x0005}
+main_event_0820_leader3_06=Come on, {0x0100,0x0000}![0x000A]Let’s head for Hammerlocke!{0x0114,0x0005}
+main_event_0820_leader3_05=Look into yourself for things you lack.{0xBE01}[0x000A]Those who understand their own weaknesses[0x000A]learn and grow the most!{0x0114,0x0010}
+main_event_0820_leader1_02=You run into a lot of unexpected things[0x000A]when you work as a farmer.{0xBE01}[0x000A]Same thing with Pokémon battles. Just don’t[0x000A]give up and things will work out.{0x0114,0x000E}
+main_event_0820_leader2_03=There’s nothing wrong with stoically facing[0x000A]challenges, but push yourselves too hard, and{0xBE00}[0x000A]you’ll pop.{0xBE01}[0x000A]If you ever feel maxed out, come up for a[0x000A]breather at the seafood restaurant.{0x0114,0x000F}

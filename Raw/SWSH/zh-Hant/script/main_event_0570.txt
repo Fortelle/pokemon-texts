@@ -1,0 +1,15 @@
+main_event_0570_counterw_01={0x1100,0x00FF,0x0101}你妳是道館挑戰者吧？[0x000A]請在這裡辦理報到！
+main_event_0570_counterw_02=讓我為{0x1100,0x00FF,0x0101}你妳複習一下[0x000A]道館挑戰的流程。{0xBE01}[0x000A]簡單地說，就是要完成道館任務，[0x000A]並且戰勝道館館主，{0xBE00}[0x000A]最後集滿８個道館徽章！
+main_event_0570_select_01=我知道了
+main_event_0570_select_02=道館任務？
+main_event_0570_counterw_03=那麼，{0x1100,0x00FF,0x0101}你妳要開始道館挑戰了嗎？
+main_event_0570_select_03=要！
+main_event_0570_select_04=等一下
+main_event_0570_counterw_04={0xFF00,0x0001}道館任務{0xFF00,0x0000}就是在挑戰道館館主之前[0x000A]必須完成的任務。{0xBE00}[0x000A]就當作是小試身手吧。{0xBE01}[0x000A]每座寶可夢道館都有[0x000A]不同的道館任務喔。
+main_event_0570_counterw_05=如果{0x1100,0x00FF,0x0101}你妳決定要挑戰了，[0x000A]就請換上競技服。
+main_event_0570_counterw_06=道館挑戰開始！[0x000A]祝{0x1100,0x00FF,0x0101}你妳有最佳的表現！
+main_event_0570_counterw_07={0x1100,0x00FF,0x0101}你妳要挑戰道館任務，是吧！{0xBE01}[0x000A]送{0x1100,0x00FF,0x0101}你妳一句我喜歡的成語。[0x000A]那就是……永不放棄！
+main_event_0570_counterw_08=恭喜{0x1100,0x00FF,0x0101}你妳完成了道館任務！{0xBE01}[0x000A]在與道館館主對戰時，[0x000A]{0x1100,0x00FF,0x0101}你妳和寶可夢的默契會非常重要喔！
+main_event_0570_counterw_09=沒問題！歡迎{0x1100,0x00FF,0x0101}你妳隨時來挑戰。
+main_event_0570_counterw_10={0xBDFF:0x000D}
+main_event_0570_counterw_11={0xBDFF:0x000E}

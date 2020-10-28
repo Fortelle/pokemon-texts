@@ -1,0 +1,12 @@
+main_event_1870_rival_01=¡{0x0100,0x0000}!{0x0114,0x0005}
+main_event_1870_rival_02=¡¡Mira, la espada y el escudo!![0x000A]¡¡La leyenda era cierta!!{0x0114,0x0005}
+main_event_1870_rival_03=¡Vale! ¡Pues para mí el escudo!{0x0114,0x0005}
+main_event_1870_rival_04=¡Vale! ¡Pues para mí la espada!{0x0114,0x0005}
+main_event_1870_rival_05=¿Eh?[0x000A]Está hecho un asco...{0xBE01}[0x000A]¿Con esto vamos a detener la Negra Noche...?[0x000A]Bueno, supongo que nos servirá igual.{0x0114,0x0005}
+main_event_1870_rival_06=¿Eh?[0x000A]Está hecha un asco...{0xBE01}[0x000A]¿Con esto vamos a detener la Negra Noche...?[0x000A]Bueno, probemos. A las malas, ¡nos traerá al{0xBE00}[0x000A]menos buena suerte!{0x0114,0x0005}
+main_event_1870_rival_07=A lo mejor el Pokémon espada y el Pokémon[0x000A]escudo siguen sumidos en un profundo letargo...{0xBE01}[0x000A]En fin, ¡ahora somos los únicos que podemos[0x000A]ayudar a mi hermano!{0x0114,0x0005}
+main_event_1870_rival_08=¡Fijo que Lionel está en el Estadio de Artejo[0x000A]intentando frenar la Negra Noche!{0xBE01}[0x000A]¿Y si vamos hasta allí en taxi volador?{0x0114,0x0005}
+main_event_1870_select_01=¡Vamos!
+main_event_1870_select_02=Dame un momento
+main_event_1870_rival_09=¡Perfecto! ¡Salgamos de este bosque y vayamos[0x000A]volando a Ciudad Artejo!{0x0114,0x0005}
+main_event_1870_rival_10=Te entiendo, menudo bajón... Tanto buscar la[0x000A]espada y el escudo de la leyenda para encontrar{0xBE00}[0x000A]solo unas chatarras oxidadas...{0x0114,0x0005}

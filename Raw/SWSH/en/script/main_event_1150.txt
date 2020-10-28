@@ -1,0 +1,6 @@
+main_event_1150_leader_01=Hold on now.{0x0114,0x0013}
+main_event_1150_leader_02=I’ve got a few errands to run in Hammerlocke.[0x000A]Care to join me for the journey?{0xBE01}[0x000A]If you’re headed for the next Gym Stadium,[0x000A]you’ll need to get to Hammerlocke, too, after all.{0x0114,0x0013}
+main_event_1150_select_01=With pleasure!
+main_event_1150_select_02=I’ll find my own way
+main_event_1150_leader_03=They say two’s company, after all.{0x0114,0x0013}
+main_event_1150_leader_04=I like that attitude, child.{0xBE01}[0x000A]Still, you’re in the middle of the Gym Challenge,[0x000A]are you not?{0xBE01}[0x000A]You’ll need to head back to Hammerlocke either[0x000A]way if you want to get to Circhester.{0x0114,0x0013}

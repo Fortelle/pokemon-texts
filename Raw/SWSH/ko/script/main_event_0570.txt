@@ -1,0 +1,15 @@
+main_event_0570_counterw_01=체육관 챌린저시군요[0x000A]그럼 절차를 진행하겠습니다!
+main_event_0570_counterw_02=먼저 체육관 챌린지에 대해[0x000A]간단하게 설명하겠습니다{0xBE01}[0x000A]체육관 미션을 클리어하고[0x000A]체육관 관장에게 승리해서{0xBE00}[0x000A]체육관 배지를 8개 모으시면 됩니다!
+main_event_0570_select_01=알았어요!
+main_event_0570_select_02=체육관 미션이요?
+main_event_0570_counterw_03=그럼 체육관 챌린지에[0x000A]도전하시겠습니까?
+main_event_0570_select_03=도전할게요!
+main_event_0570_select_04=기다려주세요
+main_event_0570_counterw_04={0xFF00,0x0001}체육관 미션{0xFF00,0x0000}이란[0x000A]체육관 관장에게 도전하기 전에 진행하는{0xBE00}[0x000A]실력 테스트 같은 것입니다{0xBE01}[0x000A]포켓몬체육관에 따라[0x000A]다양한 체육관 미션이 있습니다
+main_event_0570_counterw_05=체육관 챌린지에 도전하시려면[0x000A]유니폼으로 갈아입어 주세요
+main_event_0570_counterw_06=그럼 체육관 챌린지를 시작합니다![0x000A]최선을 다해주세요!
+main_event_0570_counterw_07=체육관 미션 때문에 오셨군요?{0xBE01}[0x000A]제가 좋아하는 말은[0x000A]네버 기브 업입니다!
+main_event_0570_counterw_08=체육관 미션을 클리어하셨군요!{0xBE01}[0x000A]체육관 관장과의 시합은[0x000A]포켓몬과의 콤비네이션이{0xBE00}[0x000A]매우 중요하답니다!
+main_event_0570_counterw_09=네 알겠습니다![0x000A]언제든지 도전하러 오세요!
+main_event_0570_counterw_10={0xBDFF:0x000D}
+main_event_0570_counterw_11={0xBDFF:0x000E}

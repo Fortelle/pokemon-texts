@@ -1,0 +1,104 @@
+Magnéto VS
+Le Magnéto VS permet de visionner les Vidéos de Combat[0x000A]enregistrées après un Combat Link ou au Coin Combats.[0x000A]Cet outil permet également de simuler un combat dans[0x000A]les mêmes conditions et contre le même adversaire[0x000A]à partir des données de la vidéo.[0x000A]Vous pouvez rendre vos vidéos publiques sur[0x000A]Internet et voir celles d’autres joueurs en vous[0x000A]connectant au PC du château de la Place Festival.
+Vous pouvez rendre vos Vidéos de Combat enregistrées[0x000A]avec votre Magnéto VS publiques, ou chercher et visionner[0x000A]celles des autres joueurs.[0x000A]Si vous publiez une vidéo, un code sera créé pour vous[0x000A]permettre de la diffuser. Donnez ce code à d’autres joueurs[0x000A]pour qu’ils puissent accéder à vos vidéos où qu’ils soient[0xE07F]!
+Combat Inversé
+{0x0100,0x0000}
+Vues :
+Ajoutée le :
+{0xBDFF:0x0007}
+{0x0206,0x0000,0xE07F}
+{0x0201,0x0002}/{0x0201,0x0001}/{0x0203,0x0000,0x0000}
+{0x0203,0x0000,0x0000}-{0x0203,0x0001,0x0000}-{0x0203,0x0002,0x0000}-{0x0203,0x0003,0x0000}
+{0x0202,0x0000}
+ : 
+Combat nº {0x0203,0x0000,0xE07F}
+Impossible de visionner cette Vidéo de Combat.
+Tours :
+Victoire par K.O. de l’équipe adverse
+Victoire au temps
+Victoire par forfait
+Égalité
+Joueur 2
+Joueur 3
+Joueur 4
+/
+Vous n’avez aucune Vidéo de Combat.[0x000A][0x000A]Vous pouvez enregistrer jusqu’à 100 vidéos[0x000A]de vos Combats Link ou de vos batailles[0x000A]au Coin Combats.[0x000A]Visionner des Vidéos de Combat vous permettra[0x000A]d’étudier de nouvelles stratégies et de corriger[0x000A]vos faiblesses[0xE07F]!
+Combat Link
+Coin Combats
+Arbre de Combat
+Dôme Royal
+Compétitions Internet
+Compétitions Live
+Tournois Amicaux
+Allumer le Magnéto VS
+Chercher une Vidéo de Combat
+Publier une Vidéo de Combat
+Oui
+Non
+Effacer sélection
+Effacer
+ Résultats
+Tour précédent
+Tour suivant
+Arrêter
+Allumons le Magnéto VS[0xE07F]!
+Que voulez-vous faire[0xE07F]?
+Vérification de la carte SD...[0x000A]Ne pas éteindre la console.
+Le fichier est corrompu.[0x000A]La vidéo a été effacée.{0xBE01}
+Vérification du serveur en cours...[0x000A]Ne pas éteindre la console.
+Le Magnéto VS s’est connecté à Internet.{0xBE01}
+{0x0202,0x0000} Vidéo{0x1101,0x0000,0x0100}s de Combat v{0x1101,0x0000,0x110E}a être effacéeont être effacées.[0x000A]Êtes-vous sûr de votre décision[0xE07F]?
+Effacement en cours...[0x000A]Ne pas éteindre la console.
+Les données ont été effacées.{0xBE01}
+Choisissez l’Équipe Combat avec laquelle vous[0x000A]voulez disputer cette simulation.{0xBE01}
+Si vous rendez cette Vidéo de Combat publique,[0x000A]vous ne pourrez pas la retirer avant demain.{0xBE01}[0x000A]Voulez-vous vraiment partager cette vidéo[0x000A]sur Internet[0xE07F]?
+Cette Vidéo de Combat ne peut pas être[0x000A]partagée.{0xBE01}
+Envoi de la Vidéo de Combat en cours...[0x000A]Ne pas éteindre la console.
+La vidéo a été partagée sur Internet.{0xBE01}
+Voulez-vous cesser de partager cette[0x000A]Vidéo de Combat[0xE07F]?
+Cette vidéo ne peut pas être retirée avant[0x000A]demain.{0xBE01}
+La Vidéo de Combat a été retirée.{0xBE01}
+Voulez-vous vraiment effacer cette[0x000A]Vidéo de Combat[0xE07F]?
+Recherche de la Vidéo de Combat...
+Aucune Vidéo de Combat n’a été trouvée.{0xBE01}
+Cette Vidéo de Combat nécessite une mise[0x000A]à jour pour être visionnée.
+Cette Vidéo de Combat ne peut pas être[0x000A]visionnée.{0xBE01}
+Préparation de la vidéo en cours...[0x000A]Veuillez patienter.
+Choisissez le partenaire avec lequel disputer[0x000A]la simulation.{0xBE01}
+Suppression de la Vidéo de Combat en cours...[0x000A]Ne pas éteindre la console.
+Changement de tour...[0x000A]Veuillez patienter.
+Communication en cours...[0x000A]Veuillez patienter.
+Combat Solo
+Combat Duo
+Bataille Royale
+Combat Multi
+Combat Link
+Coin Combats
+Arbre de Combat
+Dôme Royal
+{0x011A,0x0000}
+Combat Libre
+Combat en mode Rang
+Combat Spécial
+Combat Solo
+Combat Duo
+Combat Multi
+Combat Super Solo
+Combat Super Duo
+Combat Super Multi
+Niveau Normal
+Niveau Super
+Niveau Hyper
+Niveau Grand Maître
+{0x011A,0x0000}
+Défaite par K.O.
+Défaite au temps
+Défaite par forfait
+Premier[0xE07F]!
+Deuxième[0xE07F]!
+Troisième[0xE07F]!
+Quatrième[0xE07F]!
+Combat WCS
+Impossible de rendre davantage de Vidéos[0x000A]de Combat publiques.{0xBE01}[0x000A]Vous avez déjà atteint le maximum de[0x000A]dix vidéos publiées.{0xBE01}[0x000A]Veuillez en retirer ou en effacer une.{0xBE01}
+Agence de Combat
+Grade {0x0201,0x0000}

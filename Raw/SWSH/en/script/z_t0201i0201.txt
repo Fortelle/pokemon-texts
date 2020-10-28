@@ -1,0 +1,5 @@
+msg_t0201i0201_plant_01=It’s a plant with a gentle fragrance.[0x000A]Pokémon probably like it, too.
+msg_t0201i0201_fireplace_01=When the fireplace isn’t in use, Pokémon come[0x000A]in and out through the chimney.
+msg_t0201i0201_refrigerator_01=It’s a fridge with some scratches on it.[0x000A]Did Pokémon try to open it?
+msg_t0201i0201_bookshelf_01=There are a lot of books that look difficult[0x000A]to understand.{0xBE01}[0x000A]Some of them are collections of[0x000A]Professor Magnolia’s research.
+msg_t0201i0201_npc1_01=Do what plants would want instead of what you want.[0x000A]If you keep that in mind, plants will grow.

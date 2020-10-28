@@ -1,0 +1,12 @@
+msg_sub052_researcher_01=Hallo, {0x0100,0x0000}![0x000A]Erinnerst du dich an mich?{0xBE01}[0x000A]Ich bin Professor Eichs Assistent!{0xBE01}[0x000A]Er hat mir gesagt, ich soll dir ein {0xFF00,0x0006}tolles Item{0xFF00,0x0000}[0x000A]geben, wenn du mindestens 50 Pokémon-Arten{0xBE00}[0x000A]in deinem Pokédex registriert hast.{0xBE01}[0x000A]Also, wie sieht’s aus? Hast du 50 verschiedene[0x000A]Pokémon gefangen?
+msg_sub052_researcher_02=Wirklich? Lass mich mal einen Blick in deinen[0x000A]Pokédex werfen...{0xBE01}[0x000A]Beeindruckend, du hast bisher ganze {0x0202,0x0004}[0x000A]Pokémon-Arten gefangen!{0xBE01}[0x000A]Glückwunsch! Dann gebe ich dir jetzt wie[0x000A]versprochen...
+msg_sub052_researcher_03=Nanu? W-Wo ist es denn?[0x000A]U-Unmöglich... Hab ich es etwa verloren?
+msg_sub052_researcher_04=D-Das tut mir sehr leid. Was mach ich nur?[0x000A]Ich hab nichts, was ich dir geben könnte...{0xBE01}[0x000A]Ah, ich hab’s!
+msg_sub052_researcher_05=Huiiiiiiiii!
+msg_sub052_researcher_06=*Keuch...*[0x000A]Hier, bitte.
+msg_sub052_sys_01=Du erhältst ein {0xFF00,0x0006}Assistenten-Set{0xFF00,0x0000} von[0x000A]Professor Eichs Assistenten!
+msg_sub052_sys_02=Du verstaust das {0xFF00,0x0006}Assistenten-Set{0xFF00,0x0000} in deinem[0x000A]Klamottenkoffer.
+msg_sub052_researcher_07=Ich habe versucht, meinen Kittel für dich und[0x000A]dein Pokémon anzupassen.{0xBE01}[0x000A]Mein geliebter Kittel... Pass gut auf ihn auf.
+msg_sub052_researcher_08=Ich sehe jetzt zwar wie ein ganz gewöhnlicher[0x000A]Mann aus, aber bitte vergiss nicht, dass ich der{0xBE00}[0x000A]Assistent des Professors bin.
+msg_sub052_researcher_09=Wirklich? Lass mich mal einen Blick in deinen[0x000A]Pokédex werfen...{0xBE01}[0x000A]Tut mir leid, aber es scheint, als hättest du erst[0x000A]{0x0202,0x0004} Pokémon-Arten gefangen.{0xBE01}[0x000A]Das {0xFF00,0x0006}tolle Item{0xFF00,0x0000} kann ich dir erst geben, wenn du[0x000A]50 verschiedene Pokémon hast.
+msg_sub052_researcher_10=Verstehe...{0xBE01}[0x000A]Das {0xFF00,0x0006}tolle Item{0xFF00,0x0000} kann ich dir erst geben, wenn du[0x000A]50 verschiedene Pokémon hast.

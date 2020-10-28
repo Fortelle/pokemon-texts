@@ -1,0 +1,73 @@
+{0x01BA,0x0001} {0x1408,0x0000}{0x0100,0x0000}
+Rang actuel
+Total de Festipièces obtenues
+Pièces jusqu’au prochain rang
+Records {0x1408,0x0000}{0x0100,0x0000}
+Festipièces
+Invités accueillis
+Stands conseillés
+Participations à des mini-quêtes
+ 
+Profil {0x1408,0x0000}{0x0100,0x0000}
+{0xBDFF:0x000B}
+{0x0203,0x0000,0xE07F}
+{0x0203,0x0000,0xE07F}
+{0x0203,0x0000,0xE07F}
+{0x0203,0x0000,0xE07F}
+{0x0203,0x0000,0xE07F}
+{0x0203,0x0000,0xE07F}
+{0x0203,0x0000,0xE07F}
+Message de salutation
+Message d’au revoir
+Message de réjouissance
+Message de regret
+Secret
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+Nom de la Place Festival
+---
+{0x01B7,0x0000}
+Activée
+{0xFF00,0x0001}Désactivée{0xFF00,0x0000}
+En savoir plus
+Disponibilité pour les combats
+Disponibilité pour les échanges
+Disponibilité pour les mini-quêtes
+Communication avec les invités
+Communication avec les VIP
+Communication avec les amis
+Afficher
+Ne pas afficher
+Afficher
+Veuillez configurer la communication avec[0x000A]vos amis.
+Veuillez configurer la communication avec[0x000A]les invités.
+Veuillez configurer la communication avec[0x000A]les VIP.
+Communication avec les VIP activée.{0xBE01}
+Communication avec les VIP {0xFF00,0x0001}désactivée{0xFF00,0x0000}.{0xBE01}
+Communication avec les invités activée.{0xBE01}
+Communication avec les invités {0xFF00,0x0001}désactivée{0xFF00,0x0000}.{0xBE01}
+Communication avec les amis activée.{0xBE01}
+Communication avec les amis {0xFF00,0x0001}désactivée{0xFF00,0x0000}.{0xBE01}
+Veuillez configurer la recherche de combats.
+Vous êtes disponible pour des combats.{0xBE01}
+Vous n’avez indiqué aucune préférence pour les[0x000A]combats.{0xBE01}
+Veuillez configurer la recherche de partenaire[0x000A]d’échange.
+Vous êtes disponible pour des échanges.{0xBE01}
+Vous n’avez indiqué aucune préférence pour les[0x000A]échanges.{0xBE01}
+Veuillez choisir la configuration pour les[0x000A]mini-quêtes.
+Vous êtes disponible pour les mini-quêtes.{0xBE01}
+Vous n’avez indiqué aucune préférence[0x000A]pour les mini-quêtes.{0xBE01}
+Vous n’avez indiqué aucune préférence pour[0x000A]les échanges.{0xBE01}
+Ce paramètre permet de limiter[0x000A]la communication avec vos amis.[0x000A][0x000A]En désactivant cette option, vous ne leur[0x000A]enverrez pas de données, et n’en recevrez[0x000A]pas de leur part.
+Vous n’apparaîtrez plus sur la Place Festival de[0x000A]vos amis et ils n’apparaîtront plus sur la vôtre.
+Si vous indiquez que vous êtes disponible[0x000A]pour un combat, les autres joueurs qui[0x000A]consulteront votre profil pourront y voir[0x000A]cette information diffusée.
+Si vous indiquez que vous êtes disponible[0x000A]pour un échange, les autres joueurs qui[0x000A]consulteront votre profil pourront y voir[0x000A]cette information diffusée.
+Si vous indiquez que vous êtes disponible[0x000A]pour une mini-quête, les autres joueurs qui[0x000A]consulteront votre profil pourront y voir[0x000A]cette information diffusée.
+Ce paramètre permet de limiter[0x000A]la communication avec les joueurs que[0x000A]vous avez enregistrés en tant que VIP.[0x000A][0x000A]En désactivant cette option, vous ne leur[0x000A]enverrez pas de données, et n’en recevrez[0x000A]pas de leur part.
+Vous n’apparaîtrez plus sur la Place Festival de[0x000A]vos VIP et ils n’apparaîtront plus sur la vôtre.
+{0xBDFF:0x0043}
+Ce paramètre permet de limiter[0x000A]la communication avec les invités.[0x000A][0x000A]En désactivant cette option, vous ne leur[0x000A]enverrez pas de données, et n’en recevrez[0x000A]pas de leur part.
+Vous n’apparaîtrez plus sur la Place Festival de[0x000A]vos invités et ils n’apparaîtront plus sur la vôtre.
+{0xBDFF:0x0046}
+Ici, vous pouvez consulter l’état de votre Place[0x000A]Festival et vos diverses performances.[0x000A][0x000A]Ces informations seront transmises aux joueurs[0x000A]auxquels vous vous connecterez.
+Les phrases que vous sélectionnez ici seront[0x000A]utilisées sur la Place Festival ou pendant les[0x000A]Échanges Miracle.[0x000A][0x000A]Pour en savoir plus sur les paramètres[0x000A]de communication, veuillez consulter[0x000A]les instructions de chaque paramètre.

@@ -1,0 +1,5 @@
+msg_t001r0102_game_01=Das ist eine Nintendo Switch-Konsole![0x000A]Sie ist mit dem Fernseher verbunden.
+msg_t001r0102_bg_01=Wie viele Pokémon es wohl auf der Welt gibt?
+msg_t001r0102_bg_02=Da ist eine E-Mail von {0x0100,0x0001} in[0x000A]deinem Posteingang...{0xBE01}[0x000A]„Hey, {0x0100,0x0000}!{0xBE01}[0x000A]Hier schnell noch das Wichtigste, was du als[0x000A]Trainer wissen musst:{0xBE01}[0x000A]Um mit verschiedenen Leuten zu sprechen,[0x000A]musst du den A-Knopf drücken.{0xBE01}[0x000A]Neige den Control Stick, wenn du rennen willst.{0xBE01}[0x000A]Mit dem X-Knopf öffnest du das Spielmenü und[0x000A]kannst dort dein Spiel speichern.{0xBE01}[0x000A]Wir sehen uns morgen, ja?[0x000A]Dein {0x0100,0x0001}“
+msg_t001r0102_bg_03=Eine superweiche Pikachu-Puppe!
+msg_t001r0102_bg_04=Eine superplüschige Evoli-Puppe!

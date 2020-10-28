@@ -1,0 +1,9 @@
+msg_sub037_adultf_01=Io mi prendo cura dei Pokémon feriti.
+msg_sub037_adultf_02=Questo Bulbasaur ormai si è rimesso del tutto,[0x000A]quindi vorrei affidarlo a un Allenatore che ha{0xBE00}[0x000A]catturato molti Pokémon, una persona fidata...
+msg_sub037_adultf_08=Dimmi un po’, quanti Pokémon[0x000A]hai catturato finora?{0xBE01}[0x000A]Oh, ne hai catturati {0x0208,0x0000,0x002E}...?!
+msg_sub037_adultf_03=Incredibile! Che ne dici di prendere tu[0x000A]questo Bulbasaur?
+msg_sub037_adultf_04=Allora te lo affido![0x000A]Trattalo bene, mi raccomando!
+msg_sub037_adultf_09=Puoi tornare quando avrai catturato[0x000A]almeno {0x0201,0x0000} Pokémon?
+msg_sub037_adultf_05=Sono certa che Bulbasaur se la passa bene[0x000A]con te!
+msg_sub037_adultf_06=Oh, capisco...[0x000A]Che peccato...
+msg_sub037_poke_01={0xFF00,0x0009}Bulbasaur:{0xFF00,0x0000} Bulba![0x000A]Bulbasauuuur!

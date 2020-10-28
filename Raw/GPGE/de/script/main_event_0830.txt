@@ -1,0 +1,6 @@
+msg_main0830_fuji_01={0xFF00,0x0009}Mr. Fuji:{0xFF00,0x0000} {0x0100,0x0000}!{0xBE01}[0x000A]Wenn du deinen Pokémon nicht genügend Liebe[0x000A]und Respekt entgegenbringst, wirst du es extrem{0xBE00}[0x000A]schwer haben, den Pokédex zu vervollständigen.{0xBE01}[0x000A]Hier... Ich bin mir nicht sicher, ob es dir eine[0x000A]Hilfe sein wird, aber bitte nimm das.
+msg_main0830_sys_01=Du erhältst die {0xFF00,0x0006}Pokéflöte{0xFF00,0x0000} von Mr. Fuji!
+msg_main0830_fuji_02=Der Klang der Pokéflöte hat eine belebende[0x000A]Wirkung. Er weckt selbst die müdesten Pokémon!{0xBE01}[0x000A]Merk dir das, falls du jemals irgendwo auf ein[0x000A]schlafendes Pokémon treffen solltest.
+msg_huzi_01_p04_t005_r0101={0xBDFF:0x0003}
+msg_main0830_fuji_03={0xFF00,0x0009}Mr. Fuji:{0xFF00,0x0000} War dir die Pokéflöte schon von[0x000A]Nutzen?
+msg_main0830_fuji_04={0xBDFF:0x0005}

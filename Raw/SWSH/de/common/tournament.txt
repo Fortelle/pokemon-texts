@@ -1,0 +1,6 @@
+msg_ui_tournament_01={0x0100,0x0000}
+msg_ui_tournament_10=Das sind die Teilnehmer!{0xBE01}
+msg_ui_tournament_11=Hier sind die Ergebnisse von Runde 1!{0xBE01}
+msg_ui_tournament_12=Hier sind die Ergebnisse von Runde 2!{0xBE01}
+msg_ui_tournament_13=Hier ist das Ergebnis des Finales!{0xBE01}
+msg_ui_tournament_14=Hier sind die Ergebnisse von Runde 2!{0xBE01}[0x000A]Oha! Wie es aussieht, hat Roy mit Nezz kurzen[0x000A]Prozess gemacht!{0xBE01}

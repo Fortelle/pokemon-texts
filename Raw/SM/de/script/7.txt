@@ -1,0 +1,25 @@
+Da stehen jede Menge Kartons mit[0x000A]Elektrogeräten.
+Da stehen jede Menge Kartons mit[0x000A]Elektrogeräten.{0xBE01}[0x000A]Rotom scheint sich für die Motoren[0x000A]der Elektrogeräte zu interessieren!{0xBE01}[0x000A]Soll Rotom in einen Motor klettern?
+Rotom findet sich mit der Entscheidung ab.
+Welches Rotom möchtest du in einen Motor[0x000A]klettern lassen?
+Dieses Pokémon kann nicht in Motoren klettern.
+Ein Ei kann nicht in Motoren klettern.
+In den Motor welchen Elektrogerätes soll[0x000A]{0x0102,0x0000} klettern?
+Mikrowelle
+Waschmaschine
+Ventilator
+Kühlschrank
+Rasenmäher
+Zurückrufen
+Abbrechen
+{0x0102,0x0000} ist in den Motor geklettert!
+{0x0102,0x0000} versucht,[0x000A]{0x0107,0x0001} zu erlernen.{0xBE01}[0x000A]Aber {0x0102,0x0000} kann nur maximal[0x000A]vier Attacken beherrschen.{0xBE01}[0x000A]Soll eine andere Attacke durch[0x000A]{0x0107,0x0001} ersetzt werden?
+Aufgeben, {0x0107,0x0001} zu erlernen?
+{0x0102,0x0000} hat[0x000A]{0x0107,0x0001} nicht erlernt.{0xBE01}[0x000A]{0x0102,0x0000} klettert aus dem Motor.
+Eins,{0xBE02:0x0014} zwei{0xBE02:0x0014} und{0xBE02:0x0014}... schwupp!{0xBE05,0x0003}{0xBE05,0x0006}{0xBE01}[0x000A]{0x0102,0x0000} hat[0x000A]{0x0107,0x0002} vergessen.{0xBE01}[0x000A]Und...
+{0x0102,0x0000} erlernt[0x000A]{0x0107,0x0001}!
+{0x0102,0x0000} hat[0x000A]{0x0107,0x0002} vergessen...
+{0x0102,0x0000} ist bereits[0x000A]in diesem Motor gewesen!
+{0x0102,0x0000} klettert aus dem Motor!
+{0x0102,0x0000} befindet sich nicht im Motor!
+{0x0102,0x0000} findet sich mit[0x000A]der Entscheidung ab.

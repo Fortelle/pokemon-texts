@@ -1,0 +1,131 @@
+A message is written on it:[0x000A]“Pokémon battles are welcomed!{0xBE00}[0x000A]The battle format is {0x01AC,0x0001}!”{0xBE01}[0x000A]Would you like to rewrite the battle format?
+Single Battle
+Double Battle
+Triple Battle
+Rotation Battle
+Inverse Battle
+Do not rewrite
+You rewrote the battle format to[0x000A]{0x01AC,0x0001}!
+“The battle format is {0x01AC,0x0001}!”[0x000A]The message is already written on it!
+A message is written on it:[0x000A]“Pokémon battles are welcomed!{0xBE00}[0x000A]The battle format is {0x01AC,0x0001}!”
+Single Battle
+Double Battle
+Triple Battle
+Rotation Battle
+Inverse Battle
+The battle level has been set to[0x000A]{0x01AD,0x0002}...{0xBE01}[0x000A]Would you like to change the setting?
+The battle level is now set to[0x000A]{0x01AD,0x0002}.
+A message is displayed on it:[0x000A]“The level of Pokémon battles will be controlled by{0xBE00}[0x000A]mysterious radio waves.{0xBE01}[0x000A]Please select the level restriction that you would[0x000A]like to set.{0xBE01}[0x000A]Please note that Pokémon cannot gain Exp. Points[0x000A]if you select Level 30 Flat or Level 50 Flat.”
+The restriction has already been set to[0x000A]{0x01AD,0x0002}.
+A message is displayed on it:[0x000A]“The battle level is set to{0xBE00}[0x000A]{0x01AD,0x0002}.”{0xBE01}[0x000A]Would you like to read Info?
+A message is displayed on it:[0x000A]“The level of Pokémon battles will be controlled by{0xBE00}[0x000A]mysterious radio waves.{0xBE01}[0x000A]Please note that Pokémon cannot gain Exp. Points[0x000A]at Level 30 Flat or Level 50 Flat.”
+No Level Limits
+Level 30 Flat
+Level 50 Flat
+Info
+Don’t Control
+No Level Limits
+Level 30 Flat
+Level 50 Flat
+A message is written on it:[0x000A]“{0x01AB,0x0003}”{0xBE01}[0x000A]Would you like to change the message?
+You wrote:[0x000A]“{0x01AB,0x0003}”
+A message is written on it:[0x000A]“{0x01AB,0x0003}”
+“{0x01AB,0x0004}”{0xBE01}[0x000A]Would you like to change the message?
+You changed the message to[0x000A]“{0x01AB,0x0004}”
+{0x01AB,0x0004}
+The light went off!
+The light turned on!
+It may break if you touch it!
+The colored light is illuminating[0x000A]the surroundings.
+{0x0100,0x0000}’s Gym!
+{0x0100,0x0000}’s Best Record[0x000A]{0x0202,0x0007} time{0x1101,0x0007,0x0100}s!{0xBE01}[0x000A]Would you like to punch the Boppoyama?[0x000A]
+Ready?{0xBE01}[0x000A]Start punching!
+Time’s up!
+You punched the Boppoyama[0x000A]{0x0202,0x0002} time{0x1101,0x0002,0x0100}s!{0xBE00}[0x000A]You achieved a new record!
+You punched the Boppoyama[0x000A]{0x0202,0x0002} time{0x1101,0x0002,0x0100}s!
+{0x0100,0x0005}’s best record is[0x000A]{0x0202,0x0001} time{0x1101,0x0001,0x0100}s!{0xBE01}[0x000A]{0x0100,0x0000}’s best record is[0x000A]{0x0202,0x0007} time{0x1101,0x0007,0x0100}s!{0xBE01}[0x000A]{0x0100,0x0006} won!{0xBE01}[0x000A]Would you like to punch the Boppoyama?
+{0x0100,0x0005}’s best record is[0x000A]{0x0202,0x0001} time{0x1101,0x0001,0x0100}s!{0xBE01}[0x000A]{0x0100,0x0000}’s best record is[0x000A]{0x0202,0x0007} time{0x1101,0x0007,0x0100}s!{0xBE01}[0x000A]Draw!{0xBE01}[0x000A]Would you like to punch the Boppoyama?
+A message is displayed on it:[0x000A]“Please select the music you want.”{0xBE01}[0x000A]Would you like to change the music?
+The music playing from the[0x000A]speakers has changed!
+That music is already playing!
+Music 1
+Music 2
+Music 3
+Music 4
+Music 5
+Don’t change
+It’s a Jukebox!
+It’s a tightly wrapped straw post![0x000A]But a Pokémon may be able to cut it.{0xBE01}[0x000A]Would you like to use Cut?
+It’s a tightly wrapped straw post![0x000A]But a Pokémon may be able to cut it.
+What a smooth cut!
+...
+It’s a comfortable bed![0x000A]Let’s take a rest.
+Look closely—it’s a toy![0x000A]It looks just like a real PC!
+The trash can is empty.
+It’s an impressive certificate!{0xBE01}[0x000A]“We hereby certify that this Trainer[0x000A]has completed the Regional Pokédex.”{0xBE00}[0x000A]That’s what the certificate says!
+It’s an impressive certificate!{0xBE01}[0x000A]“We hereby certify that this Trainer[0x000A]has completed the National Pokédex.”{0xBE00}[0x000A]That’s what the certificate says!
+It’s an impressive certificate!{0xBE01}[0x000A]“We hereby praise this Trainer’s Pokémon[0x000A]for traveling through time to get here.”{0xBE00}[0x000A]That’s what the certificate says!
+It’s a toy TV![0x000A]It looks just like a real TV!
+It’s a toy TV that looks like a Seedot![0x000A]It looks as if it might start rolling.
+It’s a toy TV that looks like a Skitty![0x000A]It looks as if it might start walking.
+It’s a Poké Ball Poster!
+It’s a Treecko poster!
+It’s a Torchic poster!
+It’s a Mudkip poster!
+It’s an Azurill poster!
+It’s a Pikachu and Pichu poster!
+It’s a Seviper poster!
+It’s a Relicanth poster!
+It’s a Wingull poster!
+It’s a Smoochum poster!
+It’s an impressive scroll![0x000A]It depicts Groudon magnificently!
+It’s an impressive scroll![0x000A]It depicts Kyogre in all its magnificence!
+It’s an impressive scroll![0x000A]It depicts Rayquaza in all its magnificence!
+It’s an impressive scroll![0x000A]You’ve seen it in your dad’s Gym!
+It’s a Pichu Doll.[0x000A]
+It’s a Pikachu Doll.[0x000A]
+It’s a Marill Doll.[0x000A]
+It’s a Togepi Doll.[0x000A]
+It’s a Cyndaquil Doll.[0x000A]
+It’s a Chikorita Doll.[0x000A]
+It’s a Totodile Doll.[0x000A]
+It’s a Jigglypuff Doll.[0x000A]
+It’s a Meowth Doll.[0x000A]
+It’s a Clefairy Doll.[0x000A]
+It’s a Ditto Doll.[0x000A]
+It’s a Smoochum Doll.[0x000A]
+It’s a Treecko Doll.[0x000A]
+It’s a Torchic Doll.[0x000A]
+It’s a Mudkip Doll.[0x000A]
+It’s a Duskull Doll.[0x000A]
+It’s a Wynaut Doll.[0x000A]
+It’s a Baltoy Doll.[0x000A]
+It’s a Kecleon Doll.[0x000A]
+It’s an Azurill Doll.[0x000A]
+It’s a Skitty Doll.[0x000A]
+It’s a Swablu Doll.[0x000A]
+It’s a Gulpin Doll.[0x000A]
+It’s a Lotad Doll.[0x000A]
+It’s a Seedot Doll.[0x000A]
+It’s a Substitute Doll.[0x000A]
+It’s a Snorlax Doll.[0x000A]
+It’s a Rhydon Doll.[0x000A]
+It’s a Lapras Doll.[0x000A]
+It’s a Venusaur Doll.[0x000A]
+It’s a Charizard Doll.[0x000A]
+It’s a Blastoise Doll.[0x000A]
+It’s a Wailmer Doll.[0x000A]
+It’s a Regice Doll.[0x000A]
+It’s a Regirock Doll.[0x000A]
+It’s a Registeel Doll.[0x000A]
+It’s a Kecleon Doll![0x000A]It seems to become invisible if you touch it!
+A Kecleon Doll appeared!
+It’s a dubious-looking machine![0x000A]It doesn’t seem to be available yet...
+It’s a Level Release![0x000A]Would you like to boot it up?
+Would you like to shut down[0x000A]the Level Release?
+Booted up the Level Release!{0xBE01}[0x000A]No level restriction will be applied[0x000A]to the opposing Trainer’s party!
+Shut down the Level Release!{0xBE01}[0x000A]A level restriction will be applied to[0x000A]the opposing Trainer’s party!
+You fell into a pitfall!
+Music 6
+Music 7
+Don’t play music

@@ -1,0 +1,11 @@
+main_event_0650_counterw_01=Benvenut{0x1100,0x00FF,0x0101}oa, Sfidapalestre! Cominciamo subito[0x000A]con i preparativi per la sfida?
+main_event_0650_select_01=Certo!
+main_event_0650_select_02=Più tardi...
+main_event_0650_counterw_09=Ho capito! Nessun problema. Preparati a dovere[0x000A]e torna quando vuoi!
+main_event_0650_counterw_02=Bene, prima di tutto bisogna indossare la divisa.
+main_event_0650_counterw_03=Oh! La divisa ti sta alla perfezione![0x000A]Ok, ora puoi iniziare la missione.{0xBE01}[0x000A]Ah, prima che tu vada... Ricorda che durante[0x000A]la missione non potrai usare il Box Pokémon.
+main_event_0650_counterw_04=Ah, in realtà la Capopalestra Azzurra è al faro.[0x000A]Puoi andarla a chiamare?{0xBE01}[0x000A]Per raggiungerla, dirigiti verso il mare appena[0x000A]esci dallo stadio. Il faro si trova da quelle parti.
+main_event_0650_counterw_05=Sei di nuovo qui per la missione, giusto?{0xBE01}[0x000A]Fai bene a non arrenderti! Come dico sempre io,[0x000A]la goccia scava la roccia!
+main_event_0650_counterw_06={0xBDFF:0x0008}
+main_event_0650_counterw_07=Brav{0x1100,0x00FF,0x0101}oa! Hai superato la missione! Ora potrai[0x000A]affrontare la Capopalestra Azzurra!
+main_event_0650_counterw_08=Va bene. Ti aspettiamo per la sfida, allora.

@@ -1,0 +1,15 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+C’è una bacca sepolta nel terreno!
+La Baccamango viene messa[0x000A]nel Portaingredienti.
+Sorpresa! Sempre io.[0x000A]Che brav{0x1100,0x00FF,0x0101}oa, hai trovato una Baccamango!{0x0114,0x000E}
+Lo sapevi che le Baccamango più grandi e[0x000A]bitorzolute sono quelle più saporite?{0x0114,0x000E}
+Yeee! Hai trovato tutti gli ingredienti!{0xBE01}[0x000A]Bene, mano alle padelle![0x000A]Ti aspetto all’entrata della giungla.{0x0114,0x000E}
+Ti manca solo un ingrediente![0x000A]Un ultimo sforzo!{0x0114,0x000E}
+Ti mancano due ingredienti![0x000A]Dai, non mollare!{0x0114,0x000E}
+Altri tre ingredienti da trovare![0x000A]Continua così!{0x0114,0x000E}

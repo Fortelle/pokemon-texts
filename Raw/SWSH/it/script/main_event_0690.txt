@@ -1,0 +1,17 @@
+main_event_0690_chairman_01={0x0100,0x0000}![0x000A]Ora possiamo festeggiare la tua vittoria!{0x0114,0x0006}
+main_event_0690_assistant_01=Ma dai, sei stat{0x1100,0x00FF,0x0101}oa invitat{0x1100,0x00FF,0x0101}oa anche tu?{0x0114,0x000B}
+main_event_0690_chairman_02=Ah, vi conoscete? Fantastico![0x000A]Su, accomodatevi pure.{0x0114,0x0006}
+main_event_0690_chairman_03=Keelford è una città che trae sostentamento[0x000A]dal mare.{0xBE01}[0x000A]In tutta la regione non troverete mai una[0x000A]cucina di mare più fresca e gustosa!{0xBE01}[0x000A]Ogni singola pietanza è semplicemente delicious.{0x0114,0x0006}
+main_event_0690_chairman_04=Ma veniamo a noi. Come sta la Professoressa[0x000A]Flora? In forma come sempre, spero.{0x0114,0x0006}
+main_event_0690_chairman_05=Devo molto ai suoi insegnamenti e alle sue[0x000A]ricerche.{0xBE01}[0x000A]Grazie al suo lavoro siamo riusciti a creare[0x000A]i Polsini Dynamax, che sfruttano il potere delle{0xBE00}[0x000A]Desiostelle per far dynamaxizzare i Pokémon.{0x0114,0x0006}
+main_event_0690_assistant_02=Già...{0xBE01}[0x000A]La nonna dice che al momento si sa ancora[0x000A]troppo poco sul fenomeno Dynamax.{0xBE01}[0x000A]Sembrava anche un po’ preoccupata,[0x000A]a dire il vero.{0x0114,0x000B}
+main_event_0690_assistant_03=Quando mi sono messa in viaggio, ha[0x000A]addirittura voluto che mi portassi dietro{0xBE00}[0x000A]il rilevatore di punti energetici...{0x0114,0x000B}
+main_event_0690_chairman_06=Oh! Il rilevatore di punti energetici!{0xBE01}[0x000A]È il dispositivo che ci ha permesso di scoprire[0x000A]i luoghi ad alta emissione di particelle Galar{0xBE00}[0x000A]in cui viene riscontrato il fenomeno Dynamax!{0x0114,0x0006}
+main_event_0690_chairman_07=Ad ogni modo mi spiace sentire che il fenomeno[0x000A]preoccupa la Professoressa Flora.{0xBE01}[0x000A]Se solo potessi fare qualcosa per aiutarla...{0x0114,0x0006}
+main_event_0690_chairman_08=Sonia, magari potresti fare un salto alla Sala[0x000A]dei Tesori di Knuckleburgh!{0xBE01}[0x000A]Sono convinto che la chiave per comprendere[0x000A]il mistero del fenomeno Dynamax vada cercata{0xBE00}[0x000A]nella storia di questa regione.{0x0114,0x0006}
+main_event_0690_administrator_01=Benissimo, presidente. Mi occuperò io[0x000A]di tutti i preparativi per la visita.{0x0114,0x0007}
+main_event_0690_administrator_02=Ora è arrivato il momento di andare, presidente.{0x0114,0x0007}
+main_event_0690_chairman_09=Di già? Ma se non ho ancora avuto modo[0x000A]di scambiare una parola con {0x0100,0x0000}!{0xBE01}[0x000A]È un peccato... ma devo proprio scappare.[0x000A]Mai procrastinare gli impegni!{0xBE00}[0x000A]Buona permanenza, allora!{0x0114,0x0006}
+main_event_0690_assistant_04=Bah... Non ho bisogno dei suoi favori...{0xBE01}[0x000A]Anche se devo ammettere che una visita[0x000A]alla Sala dei Tesori potrebbe tornarmi utile.{0x0114,0x000B}
+main_event_0690_assistant_05=Parlando d’altro, ho sentito che hai[0x000A]ottenuto la Medaglia Acqua!{0xBE01}[0x000A]Battere Azzurra non è un’impresa facile,[0x000A]ci sai davvero fare!{0xBE01}[0x000A]Per festeggiare, ti regalo questa MT. Su, prendi!{0x0114,0x000B}
+main_event_0690_assistant_06=Azzurra è una mia cara amica.[0x000A]Magari passo a salutarla.{0xBE01}[0x000A]Ci si vede, Sfidapalestre!{0x0114,0x000B}

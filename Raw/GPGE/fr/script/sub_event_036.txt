@@ -1,0 +1,7 @@
+msg_sub036_researcher_01=Salut ! Tu te souviens de moi ?[0x000A]Je suis l’un des assistants du Professeur Chen !{0xBE01}[0x000A]Si tu attrapes au moins 40 espèces de Pokémon[0x000A]différentes, je suis censé t’offrir...{0xBE00}[0x000A]un lot d’Hyper Balls !{0xBE01}[0x000A]Alors, {0x0100,0x0000}, as-tu réussi[0x000A]cet exploit ?
+msg_sub036_researcher_02=Super ! Tu as bel et bien capturé 40 espèces[0x000A]de Pokémon différentes !{0xBE01}[0x000A]Félicitations ! Voici ta récompense !
+msg_sub036_sys_01=Vous obtenez 30 Hyper Balls !
+msg_sub036_researcher_03=Les Hyper Balls permettent d’attraper[0x000A]des Pokémon bien plus facilement, et crois-moi,{0xBE00}[0x000A]ce n’est pas une hyperbole !{0xBE01}[0x000A]Seule la Sylphe serait capable de concevoir[0x000A]une Poké Ball plus performante que celle-ci !
+msg_sub036_researcher_04=Voyons voir...{0xBE01}[0x000A]Oh ! Tu n’as attrapé que {0x0202,0x0004} espèce{0x1101,0x0004,0x0100}s[0x000A]de Pokémon{0x1101,0x0004,0x0C00} différentes !{0xBE01}[0x000A]Il t’en faut 40 pour mériter un lot d’Hyper Balls.
+msg_sub036_researcher_06={0xBDFF:0x0005}
+msg_sub036_researcher_05=Attrape au moins 40 espèces de Pokémon[0x000A]différentes pour obtenir un lot d’Hyper Balls.

@@ -1,0 +1,11 @@
+main_event_1000_leader_01=Ich... bin Nio...{0x0114,0x0012}
+main_event_1000_leader_02=F-Fangen wir an...{0x0114,0x0012}
+main_event_1000_leader_03=W-Wow...!{0x0114,0x0012}
+main_event_1000_leader_04=Du bist zu stark für mich.{0x0114,0x0012}
+main_event_1000_leader_05=Hier. Der Geister-Orden.{0x0114,0x0012}
+main_event_1000_badge_01=Du kannst jetzt alle Pokémon bis einschließlich[0x000A]Level 40 fangen!
+main_event_1000_leader_06=M-Mach weiter so.{0x0114,0x0012}
+main_event_1000_npc_01=Herzlichen Glückwunsch... zu deinem Sieg[0x000A]gegen Nio, {0x0100,0x0000}...{0xBE01}[0x000A]Als Anerkennung deiner Leistung...[0x000A]überreiche ich dir diese TM... Bitte schön.
+main_event_1000_npc_03=Und als Andenken... eine unserer Uniformen...
+main_event_1000_npc_02=Den Geister-Orden... hast du dir verdient...[0x000A]Nur weiter so, {0x0100,0x0000}...
+main_event_1000_system_01=Möchtest du zurück zum Empfang?

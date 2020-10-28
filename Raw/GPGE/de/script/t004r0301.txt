@@ -1,0 +1,15 @@
+msg_t004r0301_middlef_01=Immer diese Vorurteile! Ich wurde vorhin an der[0x000A]Tür vom Pokémon-Supermarkt gestoppt...{0xBE01}[0x000A]Und das nur, weil ich mein kleines Nixilein[0x000A]dabeihatte. Pah!{0xBE01}[0x000A]Mein Nixilein ist so gut trainiert, dass es von[0x000A]allein in seinen Pokéball geht, wenn wir ein{0xBE00}[0x000A]Gebäude betreten!
+msg_t004r0301_poke_01={0xFF00,0x0009}Nixilein: {0xFF00,0x0000}Nix?
+test_00={0xBDFF:0x0002}
+msg_kanpou_01_p01_t004_r0701={0xBDFF:0x0003}
+msg_kanpou_01_p02_t004_r0701={0xBDFF:0x0004}
+msg_kanpou_01_p03_t004_r0701={0xBDFF:0x0005}
+msg_kanpou_01_p04_t004_r0701={0xBDFF:0x0006}
+msg_kanpou_01_p05_t004_r0701={0xBDFF:0x0007}
+msg_kanpou_01_p06_t004_r0701={0xBDFF:0x0008}
+msg_kanpou_01_p07_t004_r0701={0xBDFF:0x0009}
+msg_kanpou_01_p08_t004_r0701={0xBDFF:0x000A}
+msg_kanpou_01_p09_t004_r0701={0xBDFF:0x000B}
+msg_kanpou_01_p10_t004_r0701={0xBDFF:0x000C}
+msg_kanpou_01_p11_t004_r0701={0xBDFF:0x000D}
+msg_kanpou_01_p12_t004_r0701={0xBDFF:0x000E}

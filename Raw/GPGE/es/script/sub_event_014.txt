@@ -1,0 +1,6 @@
+msg_sub014_researcher_01=¡Hola! ¿Te acuerdas de mí?[0x000A]Trabajo como ayudante del Profesor Oak.{0xBE01}[0x000A]Si logras registrar en la Pokédex 30 especies[0x000A]diferentes de Pokémon te entregaré una{0xBE00}[0x000A]recompensa: la función Juez.{0xBE01}[0x000A]Al menos es lo que me ha encargado el profesor.[0x000A]Dime, ¿has logrado atrapar al menos 30?
+msg_sub014_researcher_02=A ver, a ver...{0xBE01}[0x000A]Has logrado atrapar un total de {0x0202,0x0004} especies[0x000A]distintas de Pokémon.{0xBE01}[0x000A]¡Muy bien hecho! Aquí tienes, te lo has ganado.
+msg_sub014_sys_01=La {0xFF00,0x0006}función Juez {0xFF00,0x0000}se ha añadido a tu Bolsa.
+msg_sub014_researcher_03=Podrás usar esta función al ver los datos de un[0x000A]Pokémon.{0xBE01}[0x000A]Te permitirá comprobar el potencial innato de[0x000A]cualquier miembro de tu equipo.
+msg_sub014_researcher_04=A ver, a ver... Por ahora has capturado...{0xBE01}[0x000A]¿Eh? Tan solo {0x0202,0x0004} especies distintas de[0x000A]Pokémon.{0xBE01}[0x000A]Vuelve a verme cuando hayas conseguido al[0x000A]menos 30 y te haré entrega de la función Juez.
+msg_sub014_researcher_05=Oh, ya veo...{0xBE01}[0x000A]Vuelve entonces por aquí cuando las hayas[0x000A]capturado y te haré entrega de la función Juez.

@@ -1,0 +1,8 @@
+msg_t007r0501_stafff_01=Bonjour et bienvenue au centre commercial[0x000A]de Céladopole.{0xBE01}[0x000A]Pour en savoir plus sur les différents rayons[0x000A]du magasin, consultez le tableau situé au fond.
+msg_t007r0501_kanban_01=RdC : Renseignements[0x000A]1ᵉʳ étage : Marché des Dresseurs{0xBE00}[0x000A]2ᵉ étage : Jeux vidéo{0xBE00}[0x000A]3ᵉ étage : Cadeaux{0xBE00}[0x000A]4ᵉ étage : Accessoires{0xBE00}[0x000A]Toit : Distributeurs
+msg_t007r0501_kanban_02={0xBDFF:0x0002}
+msg_t007r0501_poster_01=C’est l’extrait d’un entretien avec la Championne[0x000A]de l’Arène de Céladopole !{0xBE01}[0x000A]« Quand un Dresseur vient se mesurer à moi,[0x000A]je ne l’envoie jamais sur les roses ! »
+msg_t007r0501_adultm_01=Pfiou ! Ça fait du bien de s’asseoir !{0xBE01}[0x000A]... Qu’est-ce qu’il y a ? Tu verras, toi aussi,[0x000A]quand tu auras mon âge !
+msg_t007r0501_oldf_01=Je n’ai rien de spécial à acheter, je suis juste[0x000A]venue flâner avec une amie.
+msg_t007r0501_youngf_01=Il ne me reste plus que des accessoires à acheter,[0x000A]et on est bons !
+msg_t007r0501_youngm_01=Mais les accessoires sont au 4ᵉ étage et j’ai les[0x000A]pieds en compote... Tu veux pas rentrer, plutôt ?

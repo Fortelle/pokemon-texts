@@ -1,0 +1,52 @@
+Nombre:
+{0x0100,0x0000}
+N.º ID:
+{0x0205,0x0000,0x0000}
+Pokédex de Alola:
+{0x0202,0x0000}
+
+Dinero:
+{0x0206,0x0000,0xE07F} $
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+Puntos de Batalla:
+{0x0203,0x0000,0x0000}
+Tiempo jugado:
+{0x0202,0x0000}:{0x0201,0x0001}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+Comienzo de la aventura:
+{0x0201,0x0002}-{0x0201,0x0001}-{0x0203,0x0000,0x0000}
+Cambiar foto
+{0x0201,0x0000}
+/
+Entrenador{0x1100,0x00FF,0x0100}a Pokémon[0x000A]oficial
+¡Has dado tu primer paso como Entrenador{0x1100,0x00FF,0x0100}a![0x000A]
+Prueba de Melemele[0x000A]superada
+Este sello certifica que todos los Pokémon de[0x000A]hasta nivel 35 te obedecen sin rechistar.
+Prueba de Akala[0x000A]superada
+Este sello certifica que todos los Pokémon de[0x000A]hasta nivel 50 te obedecen sin rechistar.
+Prueba de Ula-Ula[0x000A]superada
+Este sello certifica que todos los Pokémon de[0x000A]hasta nivel 65 te obedecen sin rechistar.
+Prueba de Poni[0x000A]superada
+Este sello certifica que todos los Pokémon de[0x000A]hasta nivel 80 te obedecen sin rechistar.
+Recorrido insular[0x000A]superado
+Este sello certifica que todos los Pokémon te[0x000A]obedecen sin rechistar.
+Pokédex de Melemele[0x000A]completada
+¡Has registrado a todos los Pokémon que[0x000A]habitan en Melemele!
+Pokédex de Akala[0x000A]completada
+¡Has registrado a todos los Pokémon que[0x000A]habitan en Akala!
+Pokédex de Ula-Ula[0x000A]completada
+¡Has registrado a todos los Pokémon que[0x000A]habitan en Ula-Ula!
+Pokédex de Poni[0x000A]completada
+¡Has registrado a todos los Pokémon que[0x000A]habitan en Poni!
+Pokédex de Alola[0x000A]completada
+¡Has registrado a todos los Pokémon que[0x000A]habitan en la región de Alola!
+50 victorias seguidas[0x000A]Combate Individual
+¡Has ganado 50 Combates Individuales seguidos[0x000A]en el Árbol de Combate!
+50 victorias seguidas[0x000A]Combate Doble
+¡Has ganado 50 Combates Dobles seguidos[0x000A]en el Árbol de Combate!
+Dominio del Pokévisor
+¡Has mejorado el Pokévisor al máximo![0x000A]
+50 victorias seguidas[0x000A]Combate Múltiple
+¡Has ganado 50 Combates Múltiples seguidos[0x000A]en el Árbol de Combate!

@@ -1,0 +1,5 @@
+main_event_0400_telop_01=Motostoke
+main_event_0400_poke1_01=Bow wark!
+main_event_0400_assistant_03=Hey! Over here!{0x0114,0x000B}
+main_event_0400_assistant_01=Real ace of you to make it through the[0x000A]Wild Area!{0xBE01}[0x000A]Seems like your trek ran your Pokémon ragged,[0x000A]though. You should pop into the Pokémon Center.{0x0114,0x000B}
+main_event_0400_assistant_02=Besides, there’s something in there I bet you’ll[0x000A]get a kick out of...if you’re a real Trainer and all.{0x0114,0x000B}

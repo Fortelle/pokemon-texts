@@ -1,0 +1,6 @@
+msg_main0820_fuji_01={0xBDFF:0x0000}
+msg_main0820_fuji_02={0xFF00,0x0009}Mr. Fuji:{0xFF00,0x0000} ...
+msg_main0820_fuji_03=Hm...? Wer bist du?[0x000A]Stimmt irgendwas nicht?
+msg_main0820_fuji_04=Was? Team Rocket soll es auf mich abgesehen[0x000A]haben?{0xBE01}[0x000A]Ich war so damit beschäftigt, Knoggas Seele zu[0x000A]beruhigen, dass ich nichts mitbekommen habe.
+msg_main0820_fuji_05=Ah, wie es scheint, hat Knoggas Seele endlich[0x000A]Frieden gefunden.
+msg_main0820_fuji_06=Bitte begleite mich doch zu mir nach Hause.[0x000A]Ich möchte mich bei dir bedanken.

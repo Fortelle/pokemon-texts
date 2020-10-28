@@ -1,0 +1,8 @@
+msg_main0960_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Du hast es wirklich geschafft?![0x000A]Du hast Giovanni besiegt, oder?
+msg_main0960_rival_02=Ich war gerade draußen vor der Stadt, weil ich[0x000A]diesem Atlas auf den Fersen war...{0xBE01}[0x000A]Und dann kamen plötzlich die ganzen Rüpel von[0x000A]Team Rocket aus Saffronia City rausgerannt.{0xBE01}[0x000A]So richtig Hals über Kopf!
+msg_main0960_rival_03=Was für ein Glück, dass du so ein guter[0x000A]Pokémon-Trainer bist!
+msg_main0960_rival_07=Ich muss leider zugeben, dass ich selbst ziemlich[0x000A]Bammel hatte...{0xBE01}[0x000A]Ich meine, was wäre wohl aus uns geworden,[0x000A]wenn wir gegen diese Fieslinge nicht{0xBE00}[0x000A]angekommen wären?
+msg_main0960_rival_08=Ich bin so froh, dass wir die Silph Company[0x000A]zusammen retten konnten.{0xBE01}[0x000A]Wir sorgen schon dafür, dass niemand mehr so[0x000A]unter Team Rocket zu leiden hat wie das kleine{0xBE00}[0x000A]Tragosso!
+msg_main0960_rival_04=Jetzt, wo der ganze Ärger vorbei ist, können[0x000A]wir uns wieder in Ruhe den Arenen widmen!{0xBE01}[0x000A]Wie sieht’s denn eigentlich bei dir aus,[0x000A]{0x0100,0x0000}?{0xBE01}[0x000A]Warst du schon in der {0xFF00,0x0006}Arena von Saffronia City{0xFF00,0x0000}?[0x000A]Und wie viele Orden hast du überhaupt?{0xBE01}[0x000A]...[0x000A]Wow, so viele schon!
+msg_main0960_rival_05=Ich glaube, wenn wir beide so weitermachen,[0x000A]schaffen wir es irgendwann in die Pokémon-Liga!
+msg_main0960_rival_06=Wir lassen uns nicht unterkriegen, okay?

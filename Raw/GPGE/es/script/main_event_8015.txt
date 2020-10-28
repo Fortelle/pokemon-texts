@@ -1,0 +1,4 @@
+msg_main8015_gym_01=¡Hola, aspirante al título!{0xBE01}[0x000A]La Líder de Gimnasio de Ciudad Celeste, Misty,[0x000A]es muy fuerte y no se anda con chiquitas.{0xBE01}[0x000A]Solo puedo permitir la entrada a Entrenadores[0x000A]que cuenten con al menos un Pokémon de{0xBE00}[0x000A]{0xFF00,0x0006}Nv. 15 o superior{0xFF00,0x0000}.
+msg_main8015_gym_02=Si quieres enfrentarte a la Líder de Gimnasio,[0x000A]muéstrame un Pokémon de {0xFF00,0x0006}Nv. 15 o superior{0xFF00,0x0000}.
+msg_main8015_gym_03=A ver... ¡Perfecto! Tienes al menos un Pokémon[0x000A]de {0xFF00,0x0006}Nv. 15 o superior{0xFF00,0x0000}, así que puedes pasar.{0xBE05,0x0004}{0xBE05,0x0001}
+msg_main8015_gym_04=A ver...{0xBE01}[0x000A]Vaya, ¿no tienes ningún Pokémon de al menos[0x000A]Nv. 15?{0xBE05,0x0005}{0xBE05,0x0000}{0xBE01}[0x000A]En tal caso, me temo que no te puedo dejar[0x000A]pasar. ¡Vuelve cuando lo{0x1101,0x00FD,0x0100}s hayas entrenado más!

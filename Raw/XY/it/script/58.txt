@@ -1,0 +1,40 @@
+Sono il proprietario della Pensione.{0xBE01}[0x000A]Qui aiutiamo gli Allenatori a prendersi[0x000A]cura dei loro preziosi amici.{0xBE01}[0x000A]Se vuoi che alleviamo anche i tuoi[0x000A]Pokémon, rivolgiti a mia moglie.
+Ah, sei tu! Sono felice di vederti!{0xBE01}[0x000A]{0x0102,0x0000} cresce proprio bene!
+Ah, sei tu! Sono felice di vederti!{0xBE01}[0x000A]{0x0102,0x0000} e {0x0102,0x0001}[0x000A]crescono proprio bene!{0xBE01}[0x000A]Vanno d’amore e d’accordo.
+Ah, sei tu! Sono felice di vederti!{0xBE01}[0x000A]{0x0102,0x0000} e {0x0102,0x0001}[0x000A]crescono proprio bene!{0xBE01}[0x000A]E di solito vanno d’accordo.
+Ah, sei tu! Sono felice di vederti!{0xBE01}[0x000A]{0x0102,0x0000} e {0x0102,0x0001}[0x000A]crescono proprio bene...{0xBE01}[0x000A]Ma non vanno molto d’accordo.
+Ah, sei tu! Sono felice di vederti!{0xBE01}[0x000A]{0x0102,0x0000} e {0x0102,0x0001}[0x000A]crescono proprio bene...{0xBE01}[0x000A]Ma preferiscono giocare con gli altri[0x000A]Pokémon piuttosto che tra di loro.
+Ah, eccoti qua!{0xBE01}[0x000A]Stavamo allevando i tuoi Pokémon[0x000A]e a un certo punto... Sorpresa!{0xBE01}[0x000A]Ecco che salta fuori un Uovo!{0xBE01}[0x000A]Nessuno si è accorto di niente,[0x000A]ma è spuntato all’improvviso!{0xBE01}[0x000A]Vuoi prenderlo tu, vero?
+{0x0100,0x0000} riceve l’Uovo dal proprietario[0x000A]della Pensione.
+Abbine cura!
+La tua squadra è al completo.{0xBE01}[0x000A]Torna quando avrai più spazio.
+Guarda che me lo tengo io![0x000A]Scommetto che in realtà lo vorresti... Vero?
+Va bene, allora lo prendo io.[0x000A]Grazie!
+Sono la proprietaria della Pensione.{0xBE01}[0x000A]Qui possiamo allevare i tuoi Pokémon![0x000A]Vuoi affidarcene qualcuno?
+Sono la proprietaria della Pensione. Qui[0x000A]facciamo crescere i tuoi Pokémon sani e forti!{0xBE01}[0x000A]Come posso aiutarti oggi?
+Va bene. Torna quando vuoi.
+Ah, eccoti! Mio marito[0x000A]ti stava cercando.
+Se mi affidi l’unico Pokémon che hai, come farai[0x000A]poi a lottare?{0xBE01}[0x000A]Torna quando hai più Pokémon con te.
+Quale Pokémon vuoi che alleviamo?
+Ma... ma quello è ancora un Uovo!
+Bene, allora ci occuperemo di {0x0101,0x0000}[0x000A]per un po’.
+Torna a trovarci tra un po’ di tempo!
+Possiamo allevare due dei tuoi Pokémon.[0x000A]Vuoi lasciarcene un altro?
+I Pokémon alla Pensione sono in gran forma.[0x000A]Quale vorresti riprendere con te?
+Il livello di {0x0101,0x0000} è salito di {0x0201,0x0001}!
+Per ritirare il tuo {0x0101,0x0000},[0x000A]devi pagare ${0x0204,0x0001,0x002E}. Va bene?
+Non hai abbastanza soldi...
+{0x0100,0x0001} riceve {0x0101,0x0000}[0x000A]dalla proprietaria della Pensione!
+Vuoi ritirare anche l’altro?
+Uh? Ehm... Se mi affidi un Pokémon te ne rimarrà[0x000A]solo uno in grado di accompagnarti.{0xBE01}[0x000A]Ti consiglio di tornare quando ne avrai catturato[0x000A]qualcuno in più.
+La tua squadra è al completo.{0xBE01}[0x000A]Torna quando avrai più spazio.
+Affida
+Ritira
+Esci
+L. {0x0202,0x0001}
+{0x0101,0x0000} [0xE08E] L. {0x0202,0x0001}
+{0x0101,0x0000} [0xE08F] L. {0x0202,0x0001}
+{0x0101,0x0000} L. {0x0202,0x0001}
+Oh?
+Dall’Uovo è nato {0x0101,0x0000}!
+Vuoi dare un soprannome {0x1508,0x0000}{0x0101,0x0000}[0x000A]appena nato?

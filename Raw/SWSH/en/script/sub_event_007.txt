@@ -1,0 +1,17 @@
+sub_event_007_tokkun_01=Oho... I see you’ve become the Champion.[0x000A]Then I can now have your Lv. 100 Pokémon{0xBE00}[0x000A]undergo Hyper Training.
+sub_event_007_tokkun_02=What’s this? Seems you don’t have any[0x000A]Bottle Caps or Gold Bottle Caps.
+sub_event_007_tokkun_03=Now, which Pokémon will I have undergo[0x000A]Hyper Training?
+sub_event_007_tokkun_04=If it isn’t Lv. 100, it’s not hype enough to[0x000A]undergo Hyper Training.
+sub_event_007_tokkun_05=Oh! {0x0102,0x0001} is already so strong, it[0x000A]doesn’t even need any training!
+sub_event_007_tokkun_06=Would you like to use a Bottle Cap or a[0x000A]Gold Bottle Cap?
+sub_event_007_tokkun_07=You want me to hype up all of this Pokémon’s stats?
+sub_event_007_tokkun_08=Which stat should I hype up?
+tokkun_01_01={0x0109,0x0000}: {0x0201,0x0001}
+tokkun_01_02=Quit
+tokkun_03_08=The training starts now!
+tokkun_10_01=This Pokémon can’t be trained any further!
+tokkun_10_02=You don’t have enough {0x1001}{0x010A,0x0000}...
+sub_event_007_tokkun_09=Phew... {0x0102,0x0000} got stronger from the[0x000A]Hyper Training.
+sub_event_007_tokkun_10=Want to keep the hype going with some more[0x000A]Hyper Training?
+sub_event_007_tokkun_11=Shall I stop the Hyper Training?
+sub_event_007_tokkun_12=Come back when you’re ready to get hyped for[0x000A]some Hyper Training.

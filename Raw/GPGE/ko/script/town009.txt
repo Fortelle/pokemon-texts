@@ -1,0 +1,14 @@
+msg_town009_kanban_01=여기는 홍련마을[0x000A]홍련의 빨강은 정열의 색
+msg_town009_kanban_02=여기는 홍련랩[0x000A]포켓몬 연구 시설
+msg_town009_kanban_03=홍련섬 포켓몬체육관[0x000A]관장 강연{0xBE00}[0x000A]열혈 퀴즈아저씨
+msg_town009_door_01=문에 작은 글씨로[0x000A]무언가가 적혀 있다{0xBE01}[0x000A]“문제! 이 체육관의[0x000A] 열쇠는 어디에 있을까?{0xBE01}[0x000A] 힌트! 풀로 휘감긴[0x000A] 건물 어딘가에 있을지도...?”
+msg_town009_youngf_01_01=홍련체육관의 강연은[0x000A]홍련랩이 지어지기 전부터{0xBE00}[0x000A]살고 있던 괴짜래
+msg_town009_oldm_01_01=포켓몬저택은[0x000A]연구를 위해 과학자가{0xBE00}[0x000A]가끔 출입한다는 모양이더군
+msg_town009_poke_01=마그마: 훗후~후이~!
+msg_town009_poke_02=별가사리: 슈루~
+msg_masaki_01_p01_field_t009={0xBDFF:0x0008}
+msg_masaki_01_p02_field_t009={0xBDFF:0x0009}
+msg_masaki_01_p03_field_t009={0xBDFF:0x000A}
+msg_masaki_01_p04_field_t009={0xBDFF:0x000B}
+msg_masaki_01_p05_field_t009={0xBDFF:0x000C}
+msg_masaki_01_p06_field_t009={0xBDFF:0x000D}

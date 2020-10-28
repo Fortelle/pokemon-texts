@@ -1,0 +1,8 @@
+msg_t0201i0101_plant_01=Diese Pflanzen werden offensichtlich mit viel[0x000A]Sorgfalt gepflegt. Sie gedeihen prächtig.
+msg_t0201i0101_bg1_01=Diese Tafel ist von oben bis unten mit Notizen[0x000A]vollgekritzelt.
+msg_t0201i0101_bg2_01=Das sieht aus wie schwankende Messdaten,[0x000A]die von einem Radar erfasst werden.
+msg_t0201i0101_poke1_01_pop={0xBDFF:0x0003}
+msg_t0201i0101_poke2_01_pop=Vol, vol!
+msg_t0201i0101_bookshelf1_01=– Über die Wandlung von Pokémon –[0x000A]Pokémon ändern ihre Gestalt nicht nur durch[0x000A]Levelaufstieg, sondern zuweilen auch durch[0x000A]den Einfluss bestimmter Items oder Orte.{0xBE01}[0x000A]Man nimmt an, dass ein spezieller Faktor in[0x000A]ihrem Inneren für den Wandel der Gestalt und[0x000A]Persönlichkeit verantwortlich sei, doch bisher[0x000A]wurde kein schlüssiger Beweis für diese[0x000A]Hypothese gefunden.
+msg_t0201i0101_bookshelf2_01=– Was ist das Dynamax-Phänomen? –[0x000A]Dynamax beschreibt das Phänomen, bei dem[0x000A]Pokémon gigantische Ausmaße annehmen. Es[0x000A]wird nur in Galar und an bestimmten Orten[0x000A]unter spezifischen Bedingungen beobachtet.
+msg_t0201i0101_bookshelf2_02=– Gigantische Größe als Überlebensstrategie –[0x000A]Normalerweise werden Pokémon durch die[0x000A]Entwicklung stärker und auch größer. Sich selbst[0x000A]so groß wie möglich erscheinen zu lassen, stellt[0x000A]eine natürliche Überlebensstrategie dar.

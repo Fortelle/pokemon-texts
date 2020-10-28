@@ -1,0 +1,14 @@
+msg_sub023_karate_01_01=¡Kia! ¡Soy el Maestro Karateka![0x000A]¡Y aquí yo soy el líder!
+msg_sub023_karate_01_09=¿Quieres desafiarme?[0x000A]¡No tendré piedad!
+msg_sub023_karate_01_10=¡Kiaaa!
+msg_sub023_karate_01_02=¡Pues sí, he perdido!
+msg_sub023_karate_01_07=Pero te suplico que no te lleves nuestro[0x000A]emblema como trofeo.
+msg_sub023_karate_01_08=A cambio te entregaré uno de mis valiosos y[0x000A]poderosos Pokémon de tipo Lucha.
+msg_sub023_karate_01_06=Elige el que más te guste.
+msg_sub023_karate_01_03=¡Eh! ¡Quédate y practica karate con nosotros!
+msg_sub023_karate_01_04=¿Quieres llevarte a Hitmonlee y propinar[0x000A]patadas demoledoras?
+msg_sub023_sys_01_01=El Maestro Karateka te ha entregado un[0x000A]{0x0101,0x0004}.
+msg_sub023_karate_01_05=¿Quieres llevarte a Hitmonchan y asestar[0x000A]puñetazos devastadores?
+msg_sub023_sys_01_02=La avaricia rompe el saco...
+msg_sub023_poke_01_01={0xFF00,0x0009}Hitmonlee:{0xFF00,0x0000} ¡Leee!
+msg_sub023_poke_02_01={0xFF00,0x0009}Hitmonchan:{0xFF00,0x0000} ¡Chaaan!

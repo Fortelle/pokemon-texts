@@ -1,0 +1,6 @@
+Look![0x000A]There it is...{0x0114,0x000D}
+Ah...[0x000A]I’m sorry. What was your name?{0xBE01}[0x000A]... ... ...{0xBE01}[0x000A]Of course! {0x0100,0x0000}![0x000A]It is a lovely name. Just lovely.{0x0114,0x000D}
+Now look over there.[0x000A]Do you see that?{0x0114,0x000D}
+Whatever is kicking up such lovely splashes[0x000A]must be rather big...{0xBE01}[0x000A]A strapping young Swimmer, perhaps?[0x000A]Or an amazing Pokémon specimen?{0x0114,0x000D}
+Are you going somewhere?{0xBE01}[0x000A]I would still like you to investigate those[0x000A]splashes in the water.{0x0114,0x000D}
+{0xBDFF:0x0005}

@@ -1,0 +1,109 @@
+Verbindung wird hergestellt... Bitte warte einen Moment.
+Bitte wähle, wer die Kampfregeln festlegen soll.
+Es wird ein Spieler gewählt, der die Kampfregeln festlegen soll.
+Bitte wähle, wer die Kampfregeln festlegen soll. Bei Multikämpfen wird auch die Teamaufteilung festgelegt.
+Es wird ein Spieler gewählt, der die Kampfregeln festlegt... Bitte warte einen Moment.
+Bitte lege die Kampfregeln fest.
+Kampfregeln werden übertragen... Bitte warte einen Moment.
+Die gesendeten Regeldaten sind beschädigt. Bitte wähle die Kampfregeln erneut aus.
+Es gibt ein Problem mit den gesendeten Regeldaten. Bitte wähle die Kampfregeln erneut aus.
+Es gibt ein Problem mit den erhaltenen Regeldaten. Die Kampfregeln werden erneut ausgewählt.
+Die erhaltenen Regeldaten sind beschädigt. Die Kampfregeln werden erneut ausgewählt.
+Mindestens ein Spieler kann aufgrund der festgelegten Kampfregeln nicht teilnehmen. Die Kampfregeln werden erneut ausgewählt.
+Die Kampfregeln werden erneut ausgewählt.
+Es wird auf Mitspieler gewartet... Bitte warte einen Moment.
+
+Bitte lege die Teamaufteilung fest.
+Die Teamaufteilung wird festgelegt... Bitte warte einen Moment.
+Wer soll Nr. <var> werden?
+Bitte wähle die Pokémon, die teilnehmen sollen.
+Möchtest du weiterspielen?
+Du hast den Kampf verlassen.
+Es wird auf Mitspieler gewartet...
+Noch ein Kampf mit geänderten Kampfregeln.
+Ein Mitspieler hat den Kampf verlassen.
+Noch ein Kampf mit geänderten Kampfregeln.
+Noch ein Kampf mit denselben Kampfregeln.
+Möchtest du die Auswahl beenden und andere Kampfregeln festlegen?
+Deine Ablehnung der Kampfregeln wird übertragen...
+
+Möchtest du den Kampf verlassen?
+Die Verbindung wird getrennt...
+Der Kampf wird beendet, da ein Spieler die Verbindung getrennt hat.
+Wenn du aufgrund der ausgewählten Kampfregeln nicht teilnehmen kannst, wähle bitte „Kann nicht teilnehmen".
+Wer soll die Kampfregeln festlegen?
+Möchtest du das Festlegen der Kampfregeln jemand anderem überlassen?
+<var> legt die Kampfregeln fest.
+<var> hat das Festlegen der Kampfregeln abgebrochen.
+Wähle ein Team aus und beginne den Kampf.
+
+Es gibt ein Problem mit deinem Kampfteam.
+Überprüfe deine Pokémon und wähle ein anderes Kampfteam aus.
+Du kannst nicht gegen das Kampfteam des anderen Spielers antreten, da dir die neuesten Zusatzdaten fehlen. Der andere Spieler wird gebeten, ein anderes Kampfteam auszuwählen.
+Es gibt ein Problem mit dem Kampfteam des anderen Spielers.
+Ich
+Mitspieler
+Mit anderen Regeln spielen
+Mit denselben Regeln spielen
+
+
+
+Kampf beginnen
+Teilnehmendes Team:
+<var>
+Kann nicht teilnehmen
+Nicht ausgewählt
+Team A (1)
+Team A (2)
+Team B (1)
+Team B (2)
+---
+<var>
+Diese Teams festlegen
+Ja
+Nein
+<var>
+Automatisch
+Zurück
+Neu auswählen
+Bestätigen
+<var>
+wählt noch aus...
+Fertig!
+
+
+1
+2
+3
+4
+
+---
+
+Einzelkampf
+Doppelkampf
+Multikampf
+Battle Royale
+Normale Regeln
+Strenge Regeln
+Keine Einschränkungen
+♪ Trainer ♪
+♪ Wildes Pokémon ♪
+♪ Herrscher-Pokémon ♪
+♪ Inselkönig/Inselkönigin ♪
+♪ Hier kommt Tali ♪
+♪ Hier kommt Gladio ♪
+♪ Team Skull ♪
+♪ Skull-Vorstand ♪
+♪ Skull-Boss ♪
+♪ Æther Foundation ♪
+♪ Samantha (1) ♪
+♪ Samantha (2) ♪
+♪ Ultrabestie ♪
+♪ Top Vier ♪
+♪ Titelverteidigungskampf ♪
+♪ Legendäres Pokémon ♪
+♪ Battle Royale ♪
+♪ Schutzpatron ♪
+♪ Kampfbaum-Leiter ♪
+♪ Stück 20 ♪
+♪ Stück 21 ♪

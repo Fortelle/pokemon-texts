@@ -1,0 +1,10 @@
+msg_main0730_rocketchief_01={0xFF00,0x0009}???: {0xFF00,0x0000}Basta una sola occhiata a questa[0x000A]Spettrosonda per capirlo...
+msg_main0730_rocketchief_02=La Silph S.p.A. ha la tecnologia e[0x000A]le risorse necessarie per realizzare{0xBE00}[0x000A]i desideri del Team Rocket.
+msg_main0730_rocketboss_01={0xFF00,0x0009}???: {0xFF00,0x0000}Mpf...!{0xBE01}[0x000A]Un dispositivo che permette di vedere[0x000A]cose invisibili...{0xBE01}[0x000A]È solo un giocattolo inutile.
+msg_main0730_rocketboss_02=Ma fa lo stesso!{0xBE01}[0x000A]Procedi pure con il tuo piano per impossessarti[0x000A]della Silph S.p.A., Archer.
+msg_main0730_rocketchief_03={0xFF00,0x0009}Archer: {0xFF00,0x0000}Ah...!
+msg_main0730_rocketchief_04=Cosa ci fa qui un{0x1100,0x00FF,0x0908} bambinoa bambina?!
+msg_main0730_rocketchief_05=Hai ascoltato i nostri discorsi senza dire nulla?[0x000A]Il tuo comportamento non mi piace per niente.
+msg_main0730_rocketchief_06=Io sono Archer, Generale del Team Rocket...[0x000A]E non ho alcun riguardo per i bambini!
+msg_main0730_dummy_01={0xBDFF:0x0008}
+msg_main0730_rocketchief_07={0xFF00,0x0009}Archer:{0xFF00,0x0000} Gio... Giovanni... Perdonami...[0x000A]Mi sono fatto battere da un{0x1100,0x00FF,0x0908} bambinoa bambina...

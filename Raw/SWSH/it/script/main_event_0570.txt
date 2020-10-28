@@ -1,0 +1,15 @@
+main_event_0570_counterw_01=Sei un{0x1100,0x00FF,0x0101}oa Sfidapalestre, giusto?[0x000A]Allora procediamo subito con la registrazione.
+main_event_0570_counterw_02=Dunque, ricapitolando brevemente le regole[0x000A]della Sfida delle Palestre...{0xBE01}[0x000A]Il tuo obiettivo è completare le missioni[0x000A]delle varie Palestre e sconfiggere i relativi{0xBE00}[0x000A]Capipalestra per ottenere le otto Medaglie.
+main_event_0570_select_01=Ho capito!
+main_event_0570_select_02=Le missioni?
+main_event_0570_counterw_03=Vuoi dare inizio alla Sfida delle Palestre?
+main_event_0570_select_03=Certo!
+main_event_0570_select_04=Più tardi...
+main_event_0570_counterw_04=Le {0xFF00,0x0001}missioni{0xFF00,0x0000} sono delle prove da sostenere[0x000A]prima di affrontare i Capipalestra e hanno{0xBE00}[0x000A]lo scopo di mettere alla prova le tue capacità.{0xBE01}[0x000A]Sono diverse l’una dall’altra: ogni Palestra[0x000A]ha la propria.
+main_event_0570_counterw_05=Bene! Vai a indossare la divisa.
+main_event_0570_counterw_06=Ottimo! Comincia la Sfida delle Palestre![0x000A]Mi raccomando, metticela tutta!
+main_event_0570_counterw_07=Sei qui per la missione, giusto?{0xBE01}[0x000A]Come dico sempre io: never give up!
+main_event_0570_counterw_08=Hai superato la missione! Ora ti aspetta[0x000A]il Capopalestra!{0xBE01}[0x000A]Ma bada bene: per batterlo, tu e i tuoi Pokémon[0x000A]dovrete lottare in perfetta sintonia!
+main_event_0570_counterw_09=Capisco, torna pure quando ti sentirai pront{0x1100,0x00FF,0x0101}oa.
+main_event_0570_counterw_10={0xBDFF:0x000D}
+main_event_0570_counterw_11={0xBDFF:0x000E}

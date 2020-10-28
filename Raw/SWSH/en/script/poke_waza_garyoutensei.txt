@@ -1,0 +1,13 @@
+poke_waza_garyoutensei_01_01=Let me guess! You want me to teach Dragon[0x000A]Ascent to your Pokémon. Am I correct?
+poke_waza_garyoutensei_01_02=You don’t seem to have Rayquaza—the only[0x000A]Pokémon that can learn Dragon Ascent.
+poke_waza_garyoutensei_01_03=Come back any time you need my help.
+poke_waza_garyoutensei_01_04=Which Pokémon do you want me to teach[0x000A]the move to?
+poke_waza_garyoutensei_01_05=That Pokémon can’t learn Dragon Ascent.[0x000A]Only Rayquaza can learn the move.
+poke_waza_garyoutensei_01_06=I’ve never heard of an Egg that can use[0x000A]Dragon Ascent!
+poke_waza_garyoutensei_01_07=That Rayquaza has already learned[0x000A]Dragon Ascent.
+poke_waza_garyoutensei_01_08=Do you want me to teach Dragon Ascent[0x000A]to that {0x0101,0x0000} of yours?
+poke_waza_garyoutensei_01_09=Dragon Ascent is a powerful move that only[0x000A]Rayquaza can use.{0xBE01}[0x000A]They say its power is so strong that even a[0x000A]huge meteoroid can be broken into pieces with{0xBE00}[0x000A]one attack.
+poke_waza_garyoutensei_sys_01=Please choose a move that will be replaced[0x000A]with {0x0107,0x0000}.
+poke_waza_garyoutensei_sys_02={0x0102,0x0000} learned[0x000A]{0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+poke_waza_garyoutensei_sys_03=One...{0xBE02:0x0014}two...{0xBE02:0x0014}and...{0xBE02:0x0014}{0xBE02:0x0014}ta-da!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} forgot {0x0107,0x0001}!{0xBE01}[0x000A]And it learned {0x0107,0x0002} instead!{0xBE05,0x0004}{0xBE05,0x0001}
+poke_waza_garyoutensei_sys_04={0x0102,0x0000} did not learn[0x000A]{0x0107,0x0001}.

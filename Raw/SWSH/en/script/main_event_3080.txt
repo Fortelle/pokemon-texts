@@ -1,0 +1,17 @@
+msg_main3080_water_01=Don’t get too close, you lot! Things are pretty[0x000A]dangerous here!{0x0114,0x000F}
+msg_main3080_aku_01=We know the situation. Are the staff and[0x000A]spectators all right?{0x0114,0x0016}
+msg_main3080_water_02=Yes. They took shelter just a short while ago...{0x0114,0x000F}
+msg_main3080_water_03=Y’know, the more I look at you three, the more I[0x000A]see how odd a little group you are.{0x0114,0x000F}
+msg_main3080_aku_02=Tch. Leave us alone.{0x0114,0x0016}
+msg_main3080_rival_01=We came here to help you out.{0x0114,0x0005}
+msg_main3080_water_04=And I’m grateful for it. That Dynamax Pokémon’s[0x000A]power is so intense I’m sure it’d give me trouble.{0x0114,0x000F}
+msg_main3080_water_05=I’d feel a lot more confident about it if you all[0x000A]joined the battle.{0x0114,0x000F}
+msg_main3080_water_06=Let’s do it!{0x0114,0x000F}
+msg_main3080_poke_01={0xBDFF:0x0009}
+msg_main3080_system_01={0xBDFF:0x000A}
+msg_main3080_poke_02={0xBDFF:0x000B}
+msg_main3080_water_07=Because of everyone’s help, no one was hurt and[0x000A]we were able to turn the tide of the situation.{0x0114,0x000F}
+msg_main3080_water_08=I’ll keep that Pokémon at Hulbury Stadium until[0x000A]it can fully recover.{0x0114,0x000F}
+msg_main3080_water_09={0x1003}{0x0100,0x0000}... If you ever need my help, just[0x000A]let me know.{0x0114,0x000F}
+msg_main3080_water_10=I suppose I’ll see you later, then? Thank you so[0x000A]much for your help, truly.{0x0114,0x000F}
+msg_main3080_water_11={0xBDFF:0x0010}

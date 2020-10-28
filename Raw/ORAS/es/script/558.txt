@@ -1,0 +1,42 @@
+En la pizarra hay notas sobre los cambios de[0x000A]estado que pueden sufrir los Pokémon durante{0xBE00}[0x000A]un combate.
+¿Sobre qué tema te gustaría leer?
+Envenenamiento
+Parálisis
+Sueño
+Quemadura
+Congelación
+Salir
+Si un Pokémon resulta envenenado, irá perdiendo[0x000A]PS continuamente.{0xBE01}[0x000A]Los efectos del veneno se dejan sentir incluso[0x000A]después del combate.{0xBE01}[0x000A]Para curar un caso de envenenamiento, es preciso[0x000A]usar un Antídoto.
+Si un Pokémon resulta paralizado, su Velocidad[0x000A]cae en picado.{0xBE01}[0x000A]Es posible que incluso quede inmovilizado durante[0x000A]el combate.{0xBE01}[0x000A]La parálisis permanece después del combate.[0x000A]Para curarla, usa un Antiparalizador.
+Si un Pokémon se duerme, no podrá atacar a su[0x000A]rival.{0xBE01}[0x000A]Un Pokémon puede despertarse por sí solo, pero,[0x000A]si el combate finaliza mientras está dormido,{0xBE00}[0x000A]seguirá así.{0xBE01}[0x000A]Despiértalo usando Despertar.
+Una quemadura reduce el Ataque y los PS de la[0x000A]víctima.{0xBE01}[0x000A]Sus efectos continúan tras el combate. Para curar[0x000A]quemaduras, usa Antiquemar.
+Si un Pokémon resulta congelado, queda[0x000A]completamente indefenso.{0xBE01}[0x000A]Continuará congelado tras el combate.[0x000A]Descongélalo usando Antihielo.
+Cuando un alumno no estudia nada, le doy jarabe[0x000A]de Garra Rápida.{0xBE01}[0x000A]Tu aplicación en el estudio se verá por la manera[0x000A]en que uses este objeto.
+Un Pokémon equipado con Garra Rápida tiene más[0x000A]posibilidades de moverse antes que su rival.{0xBE01}[0x000A]Hay muchos otros objetos que se pueden dar a los[0x000A]Pokémon. Solo eso da para estudiar un montón.
+Voy a intercambiar un Pokémon con mi amigo ahora[0x000A]mismo.
+Siempre había querido un Seedot y por fin voy a[0x000A]conseguir uno.
+Los Pokémon pueden llevar y usar objetos, pero no[0x000A]saben qué hacer con otros creados por los seres{0xBE00}[0x000A]humanos, como las Pociones o los Antídotos.
+¿Sabes que algunos movimientos pueden confundir[0x000A]a un Pokémon?{0xBE01}[0x000A]Un Pokémon confundido puede hacerse daño a sí[0x000A]mismo sin querer.{0xBE01}[0x000A]Pero, cuando acaba el combate, se pasa el efecto.
+Un Pokémon que tiene una baya puede curarse[0x000A]a sí mismo.{0xBE01}[0x000A]Hay muchos tipos de objetos que se pueden dar[0x000A]a los Pokémon.{0xBE01}[0x000A]Uf, qué cansado es coger apuntes...
+Es el cuaderno de un alumno...{0xBE01}[0x000A]“Se atrapa a los Pokémon usando las Poké Balls.{0xBE01}[0x000A]Un Entrenador puede llevar hasta seis Pokémon[0x000A]consigo.{0xBE01}[0x000A]Los Entrenadores se dedican a atrapar Pokémon,[0x000A]entrenarlos y combatir con ellos.{0xBE01}[0x000A]La misión de un Entrenador es derrotar a los[0x000A]Entrenadores fuertes y a los Líderes de los Gimnasios{0xBE00}[0x000A]Pokémon”.
+No me mires así, que no me he perdido.[0x000A]Soy el director de la escuela, de hecho.{0xBE01}[0x000A]¿Quieres una prueba? De acuerdo, te iluminaré con mi[0x000A]inmensa sabiduría.
+¡Hay muchísimas Medallas de Gimnasio en la región de[0x000A]Hoenn! ¿Quieres que te hable de ellas?
+¡Mi gozo en un pozo![0x000A]Cuando quieras que te ilumine, me lo dices.
+Si tienes la Medalla Piedra, los Pokémon de hasta Nv. 20[0x000A]obedecerán tus órdenes sin rechistar.
+Si tienes la Medalla Puño, los Pokémon de hasta Nv. 30[0x000A]obedecerán tus órdenes sin rechistar.
+Si tienes la Medalla Dinamo, los Pokémon de hasta[0x000A]Nv. 40 obedecerán tus órdenes sin rechistar.
+Si tienes la Medalla Calor, los Pokémon de hasta Nv. 50[0x000A]obedecerán tus órdenes sin rechistar.
+Si tienes la Medalla Equilibrio, los Pokémon de hasta[0x000A]Nv. 60 obedecerán tus órdenes sin rechistar.
+Si tienes la Medalla Pluma, los Pokémon de hasta Nv. 70[0x000A]obedecerán tus órdenes sin rechistar.
+Si tienes la Medalla Mente, los Pokémon de hasta Nv. 80[0x000A]obedecerán tus órdenes sin rechistar.
+Si tienes la Medalla Lluvia, todos los Pokémon[0x000A]obedecerán tus órdenes sin rechistar, sea cual sea{0xBE00}[0x000A]su nivel.
+¿De qué Medalla quieres que te hable?
+Medalla Piedra
+Medalla Puño
+Medalla Dinamo
+Medalla Calor
+Medalla Equilibrio
+Medalla Pluma
+Medalla Mente
+Medalla Lluvia
+Salir

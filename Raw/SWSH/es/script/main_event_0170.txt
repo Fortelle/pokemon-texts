@@ -1,0 +1,15 @@
+main_event_0170_champion_01=¡Paul! ¡{0x0100,0x0000}!{0x0114,0x0004}
+main_event_0170_rival_01=¿Lionel? ¿Cómo te las has apañado para llegar[0x000A]aquí, con lo malo que eres para orientarte?{0x0114,0x0005}
+main_event_0170_champion_02=Vaya, bonita forma de darme las gracias.[0x000A]¡Con lo preocupado que me teníais!{0xBE01}[0x000A]He venido a buscaros porque llevaba una[0x000A]eternidad esperándoos.{0x0114,0x0004}
+main_event_0170_rival_02=Ahora que me acuerdo... ¡Habíamos venido a[0x000A]rescatar al Wooloo! ¿Dónde está?{0x0114,0x0005}
+main_event_0170_poke1_01=¡Wooo!
+main_event_0170_champion_03=Está sano y salvo, no te preocupes. Aunque[0x000A]cuando llegué estabais todos inconscientes.{0xBE01}[0x000A]¡Mira que adentraros aquí sabiendo que está[0x000A]prohibido y es peligroso! Ha sido una tremenda...{0xBE01}[0x000A]¡Muestra de valor! ¡Bien hecho!{0x0114,0x0004}
+main_event_0170_rival_03=Buf, parece que al final la cosa ha terminado[0x000A]bien, {0x0100,0x0000}.{0xBE01}[0x000A]Al menos no nos hemos metido en esa niebla de[0x000A]mil pares de narices ni hemos luchado contra{0xBE00}[0x000A]ese Pokémon misterioso para nada...{0x0114,0x0005}
+main_event_0170_champion_04=¿Un Pokémon misterioso? ¿De qué hablas, Paul?{0x0114,0x0004}
+main_event_0170_rival_04=No sé qué era, pero impresionaba solo de verlo.[0x000A]¡Tenía pinta de ser superfuerte!{0xBE01}[0x000A]Y lo más raro es que ningún movimiento parecía[0x000A]afectarle... ¡Era casi como si lo traspasaran!{0x0114,0x0005}
+main_event_0170_champion_05=¿Que lo traspasaban, dices? Hmm... Quizás los[0x000A]rumores sean ciertos y el Bosque Oniria oculte{0xBE00}[0x000A]un secreto escalofriante...{0x0114,0x0004}
+main_event_0170_champion_06=Quién sabe... Si entrenáis con mucho empeño,[0x000A]tal vez algún día podáis descubrir la verdad.{0x0114,0x0004}
+main_event_0170_champion_07=Bueno, salgamos del Bosque Oniria. ¡No os[0x000A]preocupéis por nada, que estáis conmigo!{0x0114,0x0004}
+main_event_0170_rival_05=Je, je, je... Bueno, nos han regañado un poco,[0x000A]pero...{0x0114,0x0005}
+main_event_0170_rival_06=¡Menuda experiencia! No está nada mal como[0x000A]primer capítulo de mi leyenda, ¡ya te digo!{0x0114,0x0005}
+main_event_0170_rival_07={0xBDFF:0x000E}

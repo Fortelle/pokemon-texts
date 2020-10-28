@@ -1,0 +1,196 @@
+{0x0100,0x0000}
+Friend List
+{0x0124,0x0000}
+{0x0125,0x0000}
+・Visited on {0x0201,0x0001}/{0x0201,0x0002}/20{0x0201,0x0000}
+・VIP Ranking: No. {0x0202,0x0000}
+・Guest Ranking: No. {0x0202,0x0000}
+・Having a Link Trade...
+・Having a Single Battle...
+・Having a Double Battle...
+・Having a Multi Battle...
+Guest List
+VIP List
+Single Battle
+Double Battle
+Battle Royal
+Mission
+Host a Mission
+Join a Mission
+{0x01B5,0x0000}
+Battle Rank
+Trade Rank
+Materialism Rank
+Caring Rank
+Daily Effort Rank
+Plaza Rank
+Miscellaneous Rank
+{0x0202,0x0000}
+Battle Records
+Trade Records
+Materialism Records
+Caring Records
+Daily Effort Records
+Festival Plaza Records
+Miscellaneous Records
+{0x01BC,0x0000}
+{0x0208,0x0000,0x002C}
+{0x01B7,0x0000}
+{0x01B7,0x0000}
+NEW RECORD!
+Target:
+Time Limit:
+Obtainable Festival Coins:
+Best Total Score:
+Best Individual Score:
+Total Score:
+Individual Score:
+{0x0204,0x0000,0x0000}
+{0x0201,0x0000}
+:
+{0xBDFF:0x0032}
+{0x0202,0x0000}
+{0x0202,0x0000} to {0x0202,0x0001}
+{0x0202,0x0000}
+Link Trade
+This VIP’s Rankings
+This Guest’s Rankings
+Questionnaires
+Participants’ Results
+Block List
+Multi Battle
+・Having a Battle Royal...
+{0xBDFF:0x003E}
+・Shopping at a shop...
+・Talking to another person...
+・Walking in Festival Plaza...
+{0xFF00,0x0002}・Accepting battle requests anytime!{0xFF00,0x0000}
+{0xFF00,0x0002}・Accepting trade requests anytime!{0xFF00,0x0000}
+{0xFF00,0x0002}・Willing to participate in a mission anytime!{0xFF00,0x0000}
+・Using the GTS...
+・Having a Wonder Trade...
+・Hanging out at the Battle Spot...
+・Participating in a mission...
+・Having an adventure...
+---
+・Festival Plaza Rank: {0x0202,0x0000}
+No.
+Link Battles
+Battles at the Battle Spot
+Battles at the Battle Tree
+Battles against Wild Pokémon
+Champion Title Defenses
+Supereffective Moves Used
+Z-Moves Used
+—
+Link Trades
+Wonder Trades
+Trades at the GTS
+Deposited in the GTS
+-
+-
+-
+-
+Poké Beans Collected
+Berry Harvests
+Money Spent
+Battle Points Spent
+Fashion Items Collected
+-
+-
+-
+Pokémon Caught
+Eggs Hatched
+Pokémon Petted
+Beans Given
+Nicknames Given
+Pokémon Rides
+-
+-
+Exp. Points Collected
+Pokémon Caught
+Pokémon Evolved
+Pokémon Defeated
+Trainers Battled
+-
+-
+-
+Festival Plaza Rank
+Missions Participated In
+Facilities Hosted
+Guests Interacted With
+Festival Coins Spent
+-
+-
+-
+Shiny Pokémon Encountered
+Loto-ID Wins
+PP Raised
+Outfit Changes
+QR Code Scans
+Photos Taken
+-
+-
+Update
+Confirm
+Check Info
+Remove from VIP List
+Cancel
+Yes
+No
+Select
+Participate
+Info
+Back
+Host
+Unblock
+You can’t have a Double Battle because you[0x000A]don’t have two Pokémon.[0x000A][0x000A]Get two or more Pokémon ready, and then start[0x000A]a Double Battle.
+You can’t trade for a while because the power[0x000A]was turned off during the previous trade or[0x000A]while using the GTS.[0x000A][0x000A]Please wait about {0x0201,0x0000} minute{0x1101,0x0000,0x0100}s, and then[0x000A]start trading.
+You can’t trade because you don’t have two or[0x000A]more Pokémon.[0x000A][0x000A]Please get your Pokémon ready, and then[0x000A]start trading.
+{0xBDFF:0x0095}
+You can’t host a new mission because many[0x000A]missions are being held on the Internet.[0x000A][0x000A]Please participate in a mission that is[0x000A]happening right now.
+You can’t host a mission because you don’t[0x000A]have any Festival Tickets.[0x000A][0x000A]Please participate in a mission that is[0x000A]happening right now.
+Thirty minutes have not passed since you[0x000A]hosted the last mission.[0x000A][0x000A]Please wait about {0x0202,0x0001} minute{0x1101,0x0001,0x0100}s.
+You can check players who have visited your[0x000A]Festival Plaza in your player lists.[0x000A][0x000A]There are three lists: a guest list, a VIP list, and[0x000A]a block list.
+Guest List[0x000A]You can register up to 50 players you’ve met[0x000A]via communications.[0x000A][0x000A]Players with the oldest update time will be[0x000A]deleted from the list as new players appear[0x000A]in your Festival Plaza.
+VIP List[0x000A]Players who have been registered as your VIPs[0x000A]won’t be deleted from the list.[0x000A][0x000A]Speak to a player who has come to your Festival[0x000A]Plaza, and select “I’ll register you as my VIP!” to[0x000A]register the person as your VIP.
+You can register up to 50 players as your VIPs.[0x000A][0x000A]If you want to remove a person from your VIP[0x000A]list, select the player, and then select “Remove[0x000A]from VIP List.” The person will be removed from[0x000A]your VIP list.
+Block List[0x000A]Players who are added to this list won’t appear[0x000A]in your Festival Plaza.[0x000A][0x000A]You won’t receive battle or trade requests from[0x000A]them, either.
+You can add up to 100 players to your[0x000A]block list.[0x000A][0x000A]You can add them when you receive battle or[0x000A]trade requests from them.
+{0x0100,0x0000} can’t communicate now.{0xBE01}
+Updated!{0xBE01}
+Would you like to ask {0x0100,0x0000} to play[0x000A]with you?
+{0x0100,0x0000} can’t communicate now.{0xBE01}
+Any player who couldn’t communicate[0x000A]was removed.{0xBE01}[0x000A]Please check the lists again.{0xBE01}
+{0xBDFF:0x00A4}
+{0xBDFF:0x00A5}
+What would you like to do[0x000A]with {0x0100,0x0000}?
+Would you like to remove {0x0100,0x0000}[0x000A]from your VIP list?
+{0x0100,0x0000} was removed from your[0x000A]VIP list.{0xBE01}
+If you remove a person from your block list,[0x000A]you’ll start receiving requests from the person.{0xBE01}[0x000A]Do you want to remove the person from your[0x000A]block list?
+The person has been removed from your[0x000A]block list.{0xBE01}
+You can’t communicate with this player[0x000A]right now.{0xBE01}
+Would you like to participate in a Single Battle?
+Would you like to participate in a Double Battle?
+Would you like to participate in a Multi Battle?
+Would you like to participate in a Battle Royal?
+Would you like to participate in a Link Trade?
+Would you like to participate in a mission?
+Your game will be saved.[0x000A]Is that OK?
+Would you like to participate in this mission?
+Would you like to host this mission by using[0x000A]one Festival Ticket?
+Is it OK to save the game?
+Saving...[0x000A]Please wait.
+Total score: {0x0204,0x0000,0x002C}    ★: {0x0200,0x0001}[0x000A]Individual score: {0x0204,0x0002,0x002C}    ★: {0x0200,0x0003}{0xBE01}
+Preparing...[0x000A]Please wait.
+You earned {0x0202,0x0005} Festival Coin{0x1101,0x0005,0x0100}s because you[0x000A]got {0x0201,0x0004} ★{0x1101,0x0004,0x0100}s in total.{0xBE01}[0x000A]Congratulations!{0xBE01}
+You couldn’t earn Festival Coins because you[0x000A]got only {0x0201,0x0004} ★{0x1101,0x0004,0x0100}s in total.{0xBE01}[0x000A]Too bad!{0xBE01}
+You failed to participate in the mission.[0x000A]Please try again later.{0xBE01}
+You can’t participate in this mission because[0x000A]it’s ending soon.{0xBE01}[0x000A]Please select another mission.{0xBE01}
+{0x0201,0x0000} : {0x0201,0x0001}
+You can’t communicate because wireless[0x000A]communication is currently disabled.{0xBE01}[0x000A]Please turn wireless communication on.{0xBE01}
+You can’t participate in this mission because[0x000A]there are no facilities you can send people to.{0xBE01}
+You can’t host a new mission.[0x000A]Please participate in another mission.{0xBE01}
+{0xBDFF:0x00C1}
+{0xBDFF:0x00C2}
+{0xBDFF:0x00C3}

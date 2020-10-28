@@ -1,0 +1,8 @@
+msg_t009r0204_diary_01=« Rapport du 1ᵉʳ septembre :[0x000A]Mewtwo est beaucoup trop puissant.{0xBE01}[0x000A]Il est devenu incontrôlable ! »
+msg_t009r0204_bed_01=Oh, un lit ![0x000A]Profitons-en pour se reposer !
+msg_t009r0204_pod_01=C’est une grande capsule en verre épais.{0xBE01}[0x000A]La paroi intérieure est tout abîmée, comme si[0x000A]elle avait été martelée...
+msg_t009r0204_pod_02=C’est une capsule en verre épais.{0xBE01}[0x000A]Il y a des traces de liquide desséchées par-ci[0x000A]par-là.
+msg_t009r0204_pod_03=C’est une grosse machine, avec tout plein[0x000A]de jauges et de boutons.{0xBE01}[0x000A]On dirait qu’elle n’a pas été utilisée depuis[0x000A]très longtemps.
+msg_t009r0204_switch_01={0xBDFF:0x0005}
+msg_t009r0204_switch_02={0xBDFF:0x0006}
+msg_t009r0204_switch_03={0xBDFF:0x0007}

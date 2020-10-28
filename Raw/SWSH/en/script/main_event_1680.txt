@@ -1,0 +1,13 @@
+main_event_1680_stuff_01=Will you be heading onto the pitch?[0x000A]The opening ceremony should be starting soon.
+main_event_1680_select_01=I’m ready!
+main_event_1680_select_02=Not yet
+main_event_1680_stuff_02=Then in you go!
+main_event_1680_stuff_03=Would you like to speak with the others for one[0x000A]last spot of advice?
+main_event_1680_leader1_01=I’ll always press on and challenge myself so that[0x000A]I can go on as a Pokémon Trainer for as long{0xBE00}[0x000A]as possible.{0xBE01}[0x000A]As long as you continue to push yourself, your[0x000A]brilliance will never fade.{0x0114,0x0010}
+main_event_1680_leader2_01=My first match is against Raihan of all people?[0x000A]What rotten luck...{0xBE01}[0x000A]But even if he changes the weather around,[0x000A]I don’t plan on throwing in the towel so easy.{0x0114,0x000E}
+main_event_1680_leader3_01=Long time no see! This’ll be a different sort of[0x000A]battle than you faced in the Gym Challenge.{0xBE01}[0x000A]Those were basically test matches, but this...[0x000A]This is serious battle.{0x0114,0x000F}
+main_event_1680_leader4_01=It’s a curious feeling...[0x000A]My heart is racing a bit, but I still can’t wait for{0xBE00}[0x000A]the match to begin!{0x0114,0x0011}
+main_event_1680_leader5_01=I’ll be bringing my matches to an end in[0x000A]a heartbeat—you’ll see.{0xBE01}[0x000A]No one who sees them will ever forget me.{0x0114,0x0014}
+main_event_1680_leader6_01=I’m going to win my way through every round,[0x000A]then I’ll be the one taking on Leon!{0xBE01}[0x000A]If I don’t, then I’ll have failed to repay Duraludon[0x000A]and the rest of my team for all their hard work!{0x0114,0x0017}
+main_event_1680_leader7_01=I’d say I aim to win this thing...{0xBE01}[0x000A]And I’ll do it without usin’ Dynamax, to help[0x000A]everyone in Spikemuth reclaim their pride...{0xBE00}[0x000A]and to see ’em smile once again.{0x0114,0x0016}
+main_event_1680_stuff_04=The opening ceremony will begin momentarily.[0x000A]Please head to the pitch at once.

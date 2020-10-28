@@ -1,0 +1,11 @@
+msg_main0200_scientist_01=Hey, stop!
+msg_main0200_scientist_05=I found these Fossils!
+msg_main0200_scientist_06=They’re both mine!
+msg_science_02_02={0xBDFF:0x0003}
+msg_main0200_scientist_02=Fine, we’ll each take a Fossil...[0x000A]It’s no good being greedy, right?
+msg_main0200_sys_01=Do you want to take the Dome Fossil?
+msg_main0200_sys_02=Do you want to take the Helix Fossil?
+msg_main0200_sys_03=You got the Helix Fossil!
+msg_main0200_sys_04=You got the Dome Fossil!
+msg_main0200_scientist_03=All right, then the other Fossil is mine!
+msg_main0200_scientist_04=It’s really far away from here, but apparently[0x000A]there’s a lab on Cinnabar Island where they’re{0xBE00}[0x000A]doing research on reviving Fossils.

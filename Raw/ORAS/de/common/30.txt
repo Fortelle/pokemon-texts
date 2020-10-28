@@ -1,0 +1,122 @@
+Prüfungsdaten werden gesucht.[0x000A]Bitte warte einen Moment...
+Bitte wähle eine Kampfprüfung aus,[0x000A]die du herunterladen möchtest.{0xBE01}
+Möchtest du zum vorherigen Menü[0x000A]zurückkehren?
+{0x0193,0x0000} herunterladen?
+Diese Kampfprüfung wurde schon[0x000A]heruntergeladen.{0xBE01}
+Kampfprüfungsdaten wurden empfangen.{0xBE01}
+Kampfprüfungsdaten werden heruntergeladen.[0x000A]Bitte das System nicht ausschalten...
+Die Kampfprüfungsdaten wurden[0x000A]heruntergeladen.{0xBE01}
+Bitte wähle die Kampfprüfungsdaten aus,[0x000A]die gelöscht werden sollen.{0xBE01}
+Möchtest du das Löschen der[0x000A]Kampfprüfungsdaten beenden?
+{0x0193,0x0000} löschen?
+Die Kampfprüfungsdaten wurden gelöscht.{0xBE01}
+Bitte wähle aus, wie die Daten empfangen[0x000A]werden sollen.
+Internetverbindung wird hergestellt.[0x000A]Einverstanden?
+Die SD Card wird überprüft...[0x000A]Bitte das System nicht ausschalten.
+Die Internetverbindung wird getrennt.[0x000A]Bitte warte einen Moment...
+Du kannst keine weiteren Daten herunterladen.[0x000A]Möchtest du Daten löschen?
+Es wurden keine Prüfungsdaten gefunden.[0x000A]Bitte lade Prüfungsdaten herunter.{0xBE01}
+Bist du dir sicher, dass die Internetverbindung[0x000A]getrennt werden soll?
+Die Internetverbindung wird getrennt...
+Die drahtlose Verbindung ist derzeit[0x000A]deaktiviert.{0xBE01}[0x000A]Bitte aktiviere die drahtlose Verbindung.{0xBE01}
+Aufgrund fehlerhafter Daten auf der SD Card[0x000A]wurden deine Speicherdaten gelöscht.{0xBE01}
+{0x0193,0x0000} wird gelöscht.[0x000A]Einverstanden?
+Unzureichender Speicherplatz auf der SD Card.{0xBE01}[0x000A]Die Daten können nicht heruntergeladen[0x000A]werden.{0xBE01}[0x000A]Bitte schalte das System aus und[0x000A]schaffe Platz auf deiner SD Card.{0xBE01}
+Die SD Card konnte nicht gelesen werden.{0xBE01}[0x000A]Bitte beende das Spiel und überprüfe deine[0x000A]SD Card.{0xBE01}
+Die SD Card konnte nicht beschrieben werden.{0xBE01}[0x000A]Bitte beende das Spiel und überprüfe deine[0x000A]SD Card.{0xBE01}
+Es wurden keine Daten gefunden.{0xBE01}
+Es wurden keine Daten gefunden.{0xBE01}
+Es wurden keine Daten gefunden.{0xBE01}
+Der Download wurde abgebrochen.{0xBE01}
+Bitte wähle die Kampfprüfung aus,[0x000A]an der du teilnehmen möchtest.{0xBE01}
+An {0x0193,0x0000} teilnehmen?
+Teilnahme abbrechen?
+Ja
+Nein
+Teilnehmen
+Details
+Zurück
+Lokaler Modus
+Internet
+Zurück
+Details
+Herunterladen
+Zurück
+Details
+Löschen
+Zurück
+Kampfprüfungsliste
+{0x0193,0x0000}
+{0x0101,0x0000}
+{0x0109,0x0000}
+{0x0107,0x0000}
+Nicht zulässige Pokémon:
+Nicht zulässige Items:
+Nicht zulässige Attacken:
+Keine
+Kampfregeln
+{0xBDFF:0x0039}
+{0xBDFF:0x003A}
+{0xBDFF:0x003B}
+Bitte wähle die Kampfregeln aus.{0xBE01}
+Möchtest du an der Einzelkampf-Prüfung[0x000A]teilnehmen?
+Möchtest du an der Doppelkampf-Prüfung[0x000A]teilnehmen?
+Möchtest du am Einzelkampf teilnehmen?
+Möchtest du am Doppelkampf teilnehmen?
+Möchtest du am Dreierkampf teilnehmen?
+Möchtest du am Reihumkampf teilnehmen?
+Möchtest du am Multikampf teilnehmen?
+Möchtest du am Super-Einzelkampf[0x000A]teilnehmen?
+Möchtest du am Super-Doppelkampf[0x000A]teilnehmen?
+Möchtest du am Super-Dreierkampf[0x000A]teilnehmen?
+Möchtest du am Super-Reihumkampf[0x000A]teilnehmen?
+Möchtest du am Super-Multikampf teilnehmen?
+Teilnahme abbrechen?
+Du hast keine drei Pokémon, die zur[0x000A]Teilnahme zugelassen sind.{0xBE01}[0x000A]Überprüfe die Regeln unter „Details“.{0xBE01}
+Du hast keine vier Pokémon, die zur[0x000A]Teilnahme zugelassen sind.{0xBE01}[0x000A]Überprüfe die Regeln unter „Details“.{0xBE01}
+Du hast keine sechs Pokémon, die zur[0x000A]Teilnahme zugelassen sind.{0xBE01}[0x000A]Überprüfe die Regeln unter „Details“.{0xBE01}
+Du hast keine vier Pokémon, die zur[0x000A]Teilnahme zugelassen sind.{0xBE01}[0x000A]Überprüfe die Regeln unter „Details“.{0xBE01}
+Du hast keine zwei Pokémon, die zur[0x000A]Teilnahme zugelassen sind.{0xBE01}[0x000A]Überprüfe die Regeln unter „Details“.{0xBE01}
+Du kannst nicht an dieser Kampfprüfung[0x000A]teilnehmen.{0xBE01}
+Du hast kein Pokémon, das zur[0x000A]Teilnahme zugelassen ist.{0xBE01}[0x000A]Überprüfe die Regeln unter „Details“.{0xBE01}
+Du hast keine zwei Pokémon, die zur[0x000A]Teilnahme zugelassen sind.{0xBE01}[0x000A]Überprüfe die Regeln unter „Details“.{0xBE01}
+Du hast keine drei Pokémon, die zur[0x000A]Teilnahme zugelassen sind.{0xBE01}[0x000A]Überprüfe die Regeln unter „Details“.{0xBE01}
+Du hast keine vier Pokémon, die zur[0x000A]Teilnahme zugelassen sind.{0xBE01}[0x000A]Überprüfe die Regeln unter „Details“.{0xBE01}
+Du hast keine fünf Pokémon, die zur[0x000A]Teilnahme zugelassen sind.{0xBE01}[0x000A]Überprüfe die Regeln unter „Details“.{0xBE01}
+Du hast keine sechs Pokémon, die zur[0x000A]Teilnahme zugelassen sind.{0xBE01}[0x000A]Überprüfe die Regeln unter „Details“.{0xBE01}
+Ja
+Nein
+Teilnehmen
+Details
+Zurück
+Einzelkampf-Prüfung
+Doppelkampf-Prüfung
+Einzelkampf
+Doppelkampf
+Dreierkampf
+Reihumkampf
+Multikampf
+Super-Einzelkampf
+Super-Doppelkampf
+Super-Dreierkampf
+Super-Reihumkampf
+Super-Multikampf
+Kampfprüfungsliste
+Kampfhaus
+Einzelkampf
+Doppelkampf
+Reihumkampf
+Multikampf
+Level aller Pokémon auf 50.[0x000A]Teilnehmerzahl: 3 Pokémon[0x000A]Keine doppelten Items oder Pokémon.[0x000A]Eingeschränkte Pokémon-Wahl.[0x000A]Eingeschränkte Item-Wahl.
+Level aller Pokémon auf 50.[0x000A]Teilnehmerzahl: 4 Pokémon[0x000A]Keine doppelten Items oder Pokémon.[0x000A]Eingeschränkte Pokémon-Wahl.[0x000A]Eingeschränkte Item-Wahl.
+Handicap: Lv. 50[0x000A]Teilnehmerzahl: 3 Pokémon[0x000A]Keine doppelten Items oder Pokémon.[0x000A]Eingeschränkte Pokémon-Wahl.[0x000A]Eingeschränkte Item-Wahl.
+Handicap: Lv. 50[0x000A]Teilnehmerzahl: 4 Pokémon[0x000A]Keine doppelten Items oder Pokémon.[0x000A]Eingeschränkte Pokémon-Wahl.[0x000A]Eingeschränkte Item-Wahl.
+Handicap: Lv. 50[0x000A]Teilnehmerzahl: 6 Pokémon[0x000A]Keine doppelten Items oder Pokémon.[0x000A]Eingeschränkte Pokémon-Wahl.[0x000A]Eingeschränkte Item-Wahl.
+Handicap: Lv. 50[0x000A]Teilnehmerzahl: 4 Pokémon[0x000A]Keine doppelten Items oder Pokémon.[0x000A]Eingeschränkte Pokémon-Wahl.[0x000A]Eingeschränkte Item-Wahl.
+Handicap: Lv. 50[0x000A]Teilnehmerzahl: 2 Pokémon[0x000A]Keine doppelten Items oder Pokémon.[0x000A]Eingeschränkte Pokémon-Wahl.[0x000A]Eingeschränkte Item-Wahl.[0x000A]Team-Kampf mit Freund/Bekanntem.
+Handicap: Lv. 50[0x000A]Teilnehmerzahl: 3 Pokémon[0x000A]Keine doppelten Items oder Pokémon.[0x000A]Eingeschränkte Pokémon-Wahl.[0x000A]Eingeschränkte Item-Wahl.
+Handicap: Lv. 50[0x000A]Teilnehmerzahl: 4 Pokémon[0x000A]Keine doppelten Items oder Pokémon.[0x000A]Eingeschränkte Pokémon-Wahl.[0x000A]Eingeschränkte Item-Wahl.
+Handicap: Lv. 50[0x000A]Teilnehmerzahl: 6 Pokémon[0x000A]Keine doppelten Items oder Pokémon.[0x000A]Eingeschränkte Pokémon-Wahl.[0x000A]Eingeschränkte Item-Wahl.
+Handicap: Lv. 50[0x000A]Teilnehmerzahl: 4 Pokémon[0x000A]Keine doppelten Items oder Pokémon.[0x000A]Eingeschränkte Pokémon-Wahl.[0x000A]Eingeschränkte Item-Wahl.
+Handicap: Lv. 50[0x000A]Teilnehmerzahl: 2 Pokémon[0x000A]Keine doppelten Items oder Pokémon.[0x000A]Eingeschränkte Pokémon-Wahl.[0x000A]Eingeschränkte Item-Wahl.[0x000A]Team-Kampf mit Freund/Bekanntem.
+Dreierkampf

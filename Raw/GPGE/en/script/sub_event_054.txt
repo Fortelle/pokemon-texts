@@ -1,0 +1,5 @@
+msg_sub054_old_F_01=Oh dear.[0x000A]What a cute {0x1100,0x00FF,0x0403}boygirl!
+msg_sub054_old_F_02=Are you heading up the Pokémon Tower?[0x000A]What a kind child you are!{0xBE01}[0x000A]...I have an idea!{0xBE01}[0x000A]I bet the Pokémon here would be even happier[0x000A]to see you if you had a spiffy outfit on.
+msg_sub054_sys_01=You got a {0xFF00,0x0006}Formal Set{0xFF00,0x0000} from the old lady!
+msg_sub054_sys_02=You put the {0xFF00,0x0006}Formal Set{0xFF00,0x0000} in your Clothing Trunk!
+msg_sub054_old_F_03=Hello, dear.[0x000A]How did you like the outfit?{0xBE01}[0x000A]I wanted you to wear it because you looked like[0x000A]my grand{0x1100,0x00FF,0x0803}sondaughter.

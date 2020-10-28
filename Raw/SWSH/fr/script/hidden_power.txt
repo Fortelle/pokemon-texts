@@ -1,0 +1,8 @@
+msg_hidden_power_01=Hé, toi ! Pssst !{0xBE01}[0x000A]Ça te dirait d’éveiller la puissance cachée[0x000A]de t{0x1101,0x00FD,0x0202}ones Pokémon ? J’ai un super engin pour ça !
+msg_hidden_power_02=Je suis capable d’identifier la puissance cachée[0x000A]des Pokémon.{0xBE01}[0x000A]Pour être plus précise, je peux prédire le type[0x000A]qu’aura la capacité Puissance Cachée quand{0xBE00}[0x000A]ils l’utiliseront.{0xBE01}[0x000A]Tu veux que je te fasse profiter de mon talent[0x000A]très spécial ?
+msg_hidden_power_03=Je peux tout te dire sur le type de la puissance[0x000A]cachée de t{0x1101,0x00FD,0x0202}ones Pokémon.{0xBE01}[0x000A]C’est ma puissance cachée à moi.[0x000A]Ça te tente ?
+msg_hidden_power_04=Si ce Pokémon apprenait Puissance Cachée, ce[0x000A]serait une capacité de type {0x0103,0x0000} !
+msg_hidden_power_05=Le type de la capacité Puissance Cachée[0x000A]quand ce Pokémon l’utilise est {0x0103,0x0000} !
+msg_hidden_power_06=Si tu changes d’avis, fais-le-moi savoir.[0x000A]Je suis à ton service.
+msg_hidden_power_07=Un Œuf ne peut pas utiliser Puissance Cachée,[0x000A]voyons !
+msg_hidden_power_08=Oh, non ! Ce Pokémon est incapable[0x000A]d’apprendre Puissance Cachée.

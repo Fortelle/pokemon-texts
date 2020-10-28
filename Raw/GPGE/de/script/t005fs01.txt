@@ -1,0 +1,3 @@
+msg_t005fs01_middlem_01=Ich suche nach Items, mit denen ich im Kampf[0x000A]vorübergehend die Statuswerte meiner Pokémon{0xBE00}[0x000A]erhöhen kann.{0xBE01}[0x000A]Sie heißen X-Angriff, X-Abwehr, X-Tempo und[0x000A]X-Spezial. Weißt du, wo ich sie finden kann?
+msg_t005fs01_youngm_01=Hast du dir Beleber gekauft?{0xBE01}[0x000A]Das sind total praktische Items, mit denen man[0x000A]kampfunfähige Pokémon wiederbeleben kann.
+msg_t005fs01_jevenilem_01=Wenn du zusammen mit einem Koop-Trainer[0x000A]kämpfst, kannst du mit zwei Pokémon gegen{0xBE00}[0x000A]ein einzelnes gegnerisches Pokémon antreten.{0xBE01}[0x000A]Dann bist du klar im Vorteil!

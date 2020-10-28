@@ -1,0 +1,38 @@
+{0xBE01}
+
+
+{0xBE01}
+{0xBE01}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+¡Te doy la bienvenida al mundo de los Pokémon!
+Me llamo Ciprés y soy el Profesor Pokémon de la[0x000A]región de Kalos.{0xBE01}
+¡Este mundo está lleno de unas criaturitas[0x000A]adorables llamadas Pokémon!{0xBE01}
+Son seres fantásticos y misteriosos[0x000A]que se encuentran por todo el mundo.
+Algunos corren por los prados, otros[0x000A]vuelan y otros surcan las aguas...
+Humanos y Pokémon vivimos en plena armonía,[0x000A]ayudándonos mutuamente.{0xBE01}
+Y ahora, háblame un poco de ti. Veamos...[0x000A]¿Eres chico o chica?{0xBE01}
+¿Qué aspecto tienes?{0xBE01}
+Ajá... Ya veo, ya veo. Y ya que estamos,[0x000A]¿por qué no me dices cómo te llamas?{0xBE01}
+¿Así que te llamas {0x0100,0x0000}?{0xBE01}
+¿He oído bien?[0x000A]¿Dices que te llamas {0x0100,0x0000}?{0xBE01}
+{0x0100,0x0000}... Sí, te pega.[0x000A]¡Me gusta cómo suena!{0xBE01}
+De acuerdo, {0x0100,0x0000}. Estás a punto de dar[0x000A]tus primeros pasos en la región de Kalos.
+¡Vivirás emocionantes aventuras junto a humanos[0x000A]y Pokémon!
+¡Adelante! ¡Al mundo de los Pokémon!

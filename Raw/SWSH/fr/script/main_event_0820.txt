@@ -1,0 +1,15 @@
+main_event_0820_rival_01=C’est bon, {0x0100,0x0000} ?[0x000A]On y va !{0x0114,0x0005}
+main_event_0820_rival_02=Hein ?{0x0114,0x0005}
+main_event_0820_rival_03=Waouh ! Vous êtes venu exprès pour nous dire[0x000A]au revoir, vous, un Champion ?!{0xBE01}[0x000A]C’est parce que vous savez que je serai[0x000A]le prochain Maître, avouez !{0x0114,0x0005}
+main_event_0820_leader3_01=Beaucoup de Challengers ne parviennent pas[0x000A]à obtenir les trois premiers Badges{0xBE00}[0x000A]et abandonnent le Défi des Arènes.{0xBE01}[0x000A]Je me fais donc un devoir de saluer le départ[0x000A]de ceux qui y parviennent ! Et je ne suis pas seul.{0x0114,0x0010}
+main_event_0820_leader2_01=Ouf ! Juste à temps ![0x000A]Heureusement que les taxis volants sont là !{0x0114,0x000F}
+main_event_0820_leader2_02={0x0100,0x0000} ! Nabil ! Bravo ![0x000A]Vous avez réussi à vaincre Kabu !{0x0114,0x000F}
+main_event_0820_leader1_01=Peu de Challengers y parviennent ![0x000A]On est vraiment très fiers de vous !{0xBE01}[0x000A]C’est pour ça qu’on est venus vous saluer[0x000A]avant votre départ pour les Terres Sauvages !{0x0114,0x000E}
+main_event_0820_leader3_02=Pour fêter cela, j’ai préparé un petit chant[0x000A]d’encouragement !{0x0114,0x0010}
+main_event_0820_leader3_03=On est les Champions ! On est les Champions ![0x000A]On est, on est, on est les Champions ! ♪{0xBE01}[0x000A]Vous les Challengers, rien ne vous fait peur ![0x000A]Continuuuez de nous faire rêver ! ♪{0xBE01}[0x000A]Voilà.{0x0114,0x0010}
+main_event_0820_leader3_04=Les Champions d’Arène qui vous attendent[0x000A]sont tous redoutables, certes.{0xBE01}[0x000A]Mais ne laissez pas cela vous décourager pour[0x000A]autant. Ayez foi en vous et en votre {0x1101,0x00FD,0x0607}Pokémonéquipe !{0x0114,0x0010}
+main_event_0820_rival_04=Merci, m’sieur Kabu ! Et Percy et Donna aussi !{0xBE01}[0x000A]Vous en faites pas pour nous, on ira jusqu’au[0x000A]bout ! Après tout, on doit s’affronter en finale !{0x0114,0x0005}
+main_event_0820_leader3_06=Kickenham, nous voilà ![0x000A]En route, {0x0100,0x0000} !{0x0114,0x0005}
+main_event_0820_leader3_05=Cherche ce qui te manque, ce qui te fait défaut.{0xBE01}[0x000A]C’est en connaissant ses faiblesses qu’on parvient[0x000A]à les surmonter ! Et en cas de doute, entraîne-toi !{0x0114,0x0010}
+main_event_0820_leader1_02=Travailler à la ferme, ça apprend à gérer[0x000A]les imprévus. On ne peut pas s’attendre à ce que{0xBE00}[0x000A]la nature se montre toujours accommodante.{0xBE01}[0x000A]C’est pareil pour les combats Pokémon.[0x000A]Il faut savoir persévérer sans se décourager.{0x0114,0x000E}
+main_event_0820_leader2_03=C’est bien beau de toujours vouloir se dépasser,[0x000A]mais il faut aussi savoir se ménager.{0xBE01}[0x000A]Si tu as besoin de souffler, n’hésite pas[0x000A]à passer par Le Brise-lames.{0x0114,0x000F}

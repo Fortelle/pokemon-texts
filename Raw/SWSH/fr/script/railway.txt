@@ -1,0 +1,11 @@
+msg_railway_01=Où souhaitez-vous vous rendre ?
+msg_railway_select_01=Gare de Brasswick
+msg_railway_select_02=Gare de Brasswick
+msg_railway_select_03=Gare des Terres Sauvages
+msg_railway_select_04=Gare de Motorby
+msg_railway_select_05=Gare de Skifford
+msg_railway_select_06=Gare de Kickenham
+msg_railway_select_07=Gare de White Hill
+msg_railway_select_08=Gare de Winscor
+msg_railway_select_09=Ne pas prendre le train
+msg_railway_stop_01=En raison de travaux de rénovation sur le réseau,[0x000A]des délais sont à prévoir sur la ligne.

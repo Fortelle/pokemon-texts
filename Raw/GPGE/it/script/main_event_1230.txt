@@ -1,0 +1,9 @@
+msg_main1230_green_01={0xFF00,0x0009}Blu:{0xFF00,0x0000} Complimenti, ottimo lavoro![0x000A]Certo che è stata una bella sorpresa...
+msg_main1230_green_02=Chi avrebbe mai pensato che Giovanni[0x000A]stesse usando una Palestra come nascondiglio?{0xBE01}[0x000A]...{0xBE01}[0x000A]Ok, ho deciso!
+msg_main1230_green_03=D’ora in poi mi occuperò io della Palestra[0x000A]di Smeraldopoli!{0xBE01}[0x000A]A dire la verità me l’avevano proposto già[0x000A]molte volte in passato, ma ho sempre rifiutato{0xBE00}[0x000A]perché non mi piace starmene nello stesso posto{0xBE00}[0x000A]per troppo tempo...{0xBE01}[0x000A]Adesso però mi sento pronto.[0x000A]Diventerò io il nuovo Capopalestra!
+msg_main1230_select_01=Ottima idea!
+msg_main1230_select_02=Voglio sfidarti!
+msg_main1230_green_04=Grazie, grazie! Vedrai, con un Capopalestra[0x000A]come me i criminali di Kanto ci penseranno{0xBE00}[0x000A]due volte prima di farsi vedere in giro!
+msg_main1230_green_05=Anche a me non dispiacerebbe una bella lotta,[0x000A]ma adesso hai ben altri avversari da sfidare!
+msg_main1230_green_06=Beh, {0x0100,0x0000}... È arrivato il momento[0x000A]di affrontare la {0xFF00,0x0006}Lega Pokémon{0xFF00,0x0000}!{0xBE01}[0x000A]Qui a sinistra c’è il Percorso 22...[0x000A]Seguilo fino in fondo e arriverai a destinazione!{0xBE01}[0x000A]I Superquattro sono degli Allenatori davvero[0x000A]formidabili, ma sento che tu puoi sconfiggerli!
+msg_main1230_green_07={0xFF00,0x0009}Blu:{0xFF00,0x0000} Scommetto che il mio primo sfidante[0x000A]sarà {0x0100,0x0001}.{0xBE01}[0x000A]Gli insegnerò un paio di cosette su come[0x000A]lottano i veri Allenatori!

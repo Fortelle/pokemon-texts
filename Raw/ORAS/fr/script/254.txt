@@ -1,0 +1,33 @@
+Ce rocher est fissuré. Une capacité Pokémon[0x000A]pourrait sûrement le pulvériser.{0xBE01}[0x000A]Voulez-vous utiliser Éclate-Roc[0xE07F]?
+Ce rocher est fissuré. Une capacité Pokémon[0x000A]pourrait sûrement le pulvériser.
+Cet arbuste bloque le passage. Une capacité[0x000A]Pokémon pourrait sûrement le débroussailler.{0xBE01}[0x000A]Voulez-vous utiliser Coupe[0xE07F]?
+Cet arbuste bloque le passage. Une capacité[0x000A]Pokémon pourrait sûrement le débroussailler.
+C’est un gros rocher. Une capacité Pokémon[0x000A]pourrait sûrement le déplacer.{0xBE01}[0x000A]Voulez-vous utiliser Force[0xE07F]?
+C’est un gros rocher. Une capacité Pokémon[0x000A]pourrait sûrement le déplacer.
+Force permet de déplacer le rocher.
+{0x0102,0x0000} utilise Force[0xE07F]!
+Ce mur est fissuré. Une capacité Pokémon[0x000A]pourrait sûrement l’abattre.{0xBE01}[0x000A]Voulez-vous utiliser Éclate-Roc[0xE07F]?
+Ce mur est fissuré. Une capacité Pokémon[0x000A]pourrait sûrement l’abattre.
+{0x0102,0x0000} utilise Tunnel[0xE07F]!
+{0x0102,0x0000} utilise Téléport[0xE07F]!
+L’eau est d’un bleu profond[0xE08D][0x000A]Voulez-vous utiliser Surf[0xE07F]?
+{0x0102,0x0000} utilise Surf[0xE07F]!
+C’est une grande chute d’eau.[0x000A]Voulez-vous utiliser Cascade[0xE07F]?
+{0x0102,0x0000} utilise Cascade[0xE07F]!
+Un mur d’eau s’abat dans un vacarme[0x000A]assourdissant.
+{0x0102,0x0000} utilise Flash[0xE07F]!
+L’eau est d’un bleu profond[0xE08D]
+Un mur d’eau s’abat dans un vacarme[0x000A]assourdissant.
+C’est un endroit intrigant[0xE08D] Une capacité Pokémon[0x000A]réagira peut-être avec ce lieu.{0xBE01}[0x000A]Voulez-vous utiliser Force Cachée[0xE07F]?
+C’est un endroit intrigant[0xE08D] Une capacité Pokémon[0x000A]réagira peut-être avec ce lieu.
+Vous trouvez une petite caverne[0xE07F]!
+Vous trouvez un passage étroit[0xE07F]!
+Vous trouvez une liane[0xE07F]!
+Voulez-vous établir votre Base Secrète ici[0xE07F]?
+Vous ne pouvez construire qu’une seule[0x000A]Base Secrète[0xE07F]!{0xBE01}[0x000A]Voulez-vous la déménager ici[0xE07F]?{0xBE01}[0x000A]Localisation actuelle de votre base :[0x000A]{0x0105,0x0000}.
+L’eau est très profonde, par ici[0xE07F]![0x000A]Un Pokémon pourrait peut-être y plonger.
+L’eau est très profonde, par ici[0xE07F]![0x000A]Voulez-vous utiliser Plongée[0xE07F]?
+{0x0102,0x0000} utilise Plongée[0xE07F]!
+Il est possible de remonter à la surface ici.[0x000A]Voulez-vous monter en utilisant Plongée[0xE07F]?
+Le plafond est trop bas.[0x000A]Impossible d’utiliser Plongée pour remonter.
+C’est fermé à clé[0xE07F]!

@@ -1,0 +1,87 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+Eine Reise zum Meeresboden...[0x000A]Ich frage mich, wie es dort wohl ist?{0xBE01}[0x000A]Eines Tages möchte ich auch mal so tief[0x000A]unter Wasser eine Erkundungsreise machen.
+Ich wäre gerne mit Kapitän Brigg auf die Expedition[0x000A]zum Meeresboden gegangen.{0xBE01}[0x000A]Aber das Tiefsee-Forschungsboot ist zu klein für mich.{0xBE01}[0x000A]Ich könnte mich ja reinquetschen, aber dann[0x000A]hätte der Kapitän keinen Platz mehr...
+Diese Rüpel...{0xBE01}[0x000A]Das sind doch dieselben Schurken, die im Museum[0x000A]versucht haben, die Devon-Waren zu stehlen!
+Hmpf...
+Bist du extra den weiten Weg vom Pyroberg[0x000A]bis hierher gekommen?{0xBE01}[0x000A]Hehehe...{0xBE01}[0x000A]Davor ziehe selbst ich den Hut!
+Aber es ist bereits zu spät.[0x000A]Ihr könnt uns nicht mehr aufhalten.{0xBE01}[0x000A]Mit ein paar kleinen Modifikationen wird uns[0x000A]dieses U-Boot den Weg zur Tiefseehöhle ebnen,{0xBE00}[0x000A]dem Ort, wo ES schlummert...{0xBE01}[0x000A]Endlich geht Team Magmas Plan, der Menschheit[0x000A]zu ihrer ultimativen Entwicklungsform zu verhelfen,{0xBE00}[0x000A]in die letzte und entscheidende Phase über!
+Jeglicher Widerstand ist zwecklos!{0xBE01}[0x000A]Wenn du trotz allem versuchen willst, uns aufzuhalten,[0x000A]dann komm in unser {0xFF00,0x0002}Versteck{0xFF00,0x0000} in {0xFF00,0x0002}Seegrasulb City{0xFF00,0x0000}.{0xBE01}[0x000A]Und jetzt entschuldige mich bitte...{0xBE01}[0x000A]Kalle, darf ich bitten?
+Aye, Sir, Marc, Sir!{0xBE01}[0x000A]Kümmert euch um {0x1100,0x00FF,0x0303,0x0000}ihnsie, meine Untergebenen!
+Sir Marc und ich werden mit dem U-Boot fliehen.{0xBE01}[0x000A]Haltet {0x1100,0x00FF,0x0303,0x0000}ihnsie uns solange vom Leib!
+Roger!
+Roger!
+Es geht los, Sir![0x000A]Hier entlang bitte...
+Gut...
+Mission erfolgreich abgeschlossen![0x000A]Unser Anführer und Kalle sind entkommen.{0xBE01}[0x000A]Es wird Zeit, dass wir ins Versteck zurückkehren.[0x000A]Ich möchte den anderen dabei helfen, die nötigen{0xBE00}[0x000A]Modifikationen am U-Boot vorzunehmen...
+Du sprichst mir aus der Seele!{0xBE01}[0x000A]Ich bin auch gespannt, was für Änderungen[0x000A]an dem U-Boot vorgenommen werden müssen.{0xBE00}[0x000A]Das will ich unbedingt mit eigenen Augen sehen!
+Ich fass es nicht!{0xBE01}[0x000A]Bist du mir echt vom Pyroberg bis hierher gefolgt?[0x000A]Den ganzen Weg?!
+Mwahahaha![0x000A]Du machst mich fertig!{0xBE01}[0x000A]Bei deinem Gerechtigkeitsfimmel und deiner[0x000A]Dickköpfigkeit bleibt mir fast die Spucke weg!{0xBE01}[0x000A]Pffft... Mwahaha![0x000A]Mwahahahaha!!
+Nur, dass du’s weißt...{0xBE01}[0x000A]Allein reißt du hier jetzt echt nichts mehr.[0x000A]Der Zug ist abgefahren, Kindchen!{0xBE01}[0x000A]Wenn wir das U-Boot erst mal auffrisiert haben,[0x000A]verschaffen wir uns damit Zugang zur Tiefseehöhle,{0xBE00}[0x000A]dem Ort, wo ES schlummert...!{0xBE01}[0x000A]Und dann heißt es Tabula Rasa! Alles auf Anfang![0x000A]Endlich wird alles wieder so sein, wie’s ursprünglich war!{0xBE01}[0x000A]Wir sind schon so gut wie am Ziel.[0x000A]Nichts und niemand kann uns noch aufhalten!
+Aber dein Gerechtigkeitsfimmel schlägt bestimmt[0x000A]schon wieder Alarm, stimmt’s?{0xBE01}[0x000A]Dann komm eben in unser {0xFF00,0x0002}Versteck{0xFF00,0x0000}[0x000A]in {0xFF00,0x0002}Seegrasulb City{0xFF00,0x0000}...{0xBE01}[0x000A]Wirst schon sehen, was du davon hast!{0xBE01}[0x000A]So, und jetzt los, Kordula! Abgang!
+Ist ja schon gut...
+Ihr da!{0xBE01}[0x000A]Wir machen mit dem U-Boot die Fliege.[0x000A]Haltet uns den Winzling solange vom Leib!
+Is’ klar!
+Na gut...
+Es kann losgehen, Boss...
+Will ich doch hoffen!{0xBE01}[0x000A]Also dann, {0x1100,0x00FF,0x0607,0x0000}KleinerKleine![0x000A]Man riecht sich!{0xBE01}[0x000A]Mwahahaha![0x000A]Mwahahahahahahaha!
+Halb so wild... Mission erfolgreich![0x000A]Der Boss und Kordula sind entkommen.{0xBE01}[0x000A]Ich geh jetzt zurück ins Versteck und guck den[0x000A]anderen dabei zu, wie sie sich beim Umbau{0xBE00}[0x000A]von diesem U-Boot abrackern!
+Klingt nach’m guten Plan! Bin schon gespannt, wie viele[0x000A]Überstunden die dafür schieben müssen, hehehe!
+W-was haben die da gesagt...?
+D-die wollen doch nicht wirklich mein U-Boot umbauen?![0x000A]MEIN U-Boot...?! Das Tiefsee-Forschungsboot 1...?!
+Ich will das einfach nicht glauben!
+Sie haben es tatsächlich auf das urzeitliche Pokémon[0x000A]abgesehen, das am Meeresgrund schlummert...
+{0x0100,0x0000}, es tut mir leid...
+{0x0100,0x0000}, es tut mir leid...
+Das U-Boot, das diese Kerle gekapert haben,[0x000A]könnte die ganze Welt ins Unheil stürzen...{0xBE01}[0x000A]Die Auswirkungen wären katastrophal!{0xBE01}[0x000A]Wir müssen sie aufhalten! Irgendjemand muss ihnen[0x000A]bis in {0xFF00,0x0002}ihr Versteck{0xFF00,0x0000} in {0xFF00,0x0002}Seegrasulb City{0xFF00,0x0000} folgen!{0xBE01}[0x000A]Aber ich bin dafür nicht stark genug...
+Hmmm...{0xBE01}[0x000A]Diese Kerle wollen also tatsächlich mein U-Boot[0x000A]umbauen und damit in die Tiefseehöhle vordringen...
+Normale Menschen wie wir könnten das U-Boot[0x000A]niemals einholen, nicht in tausend Jahren...{0xBE01}[0x000A]Aber ein Pokémon, dem die Attacke Taucher[0x000A]beigebracht wurde, hätte da gleich viel bessere Karten!
+Ich arbeite gerade an einem weiteren Schiff.{0xBE01}[0x000A]Mr. Brack, der bekanntermaßen beste Seemann[0x000A]von ganz Hoenn, hilft mir dabei.{0xBE01}[0x000A]Ich lass dich wissen, wenn es fertiggestellt ist.
+Unsere neue Fähre, die MS Tide,[0x000A]ist endlich fertiggestellt!{0xBE01}[0x000A]Sie liegt gleich hier vor Anker.[0x000A]Geh unbedingt mal an Bord!
+Hm? Das Item, das du da hast...[0x000A]Das ist doch der Scanner von der Seewoge Malvenfroh!{0xBE01}[0x000A]Der wäre uns eine riesige Hilfe bei der Forschungsarbeit![0x000A]Wärst du vielleicht bereit, ihn an mich abzutreten?
+{0xBDFF:0x0035}
+{0xBDFF:0x0036}
+{0xBDFF:0x0037}
+Na schön.{0xBE01}[0x000A]Sprich mich einfach an, wenn du es dir[0x000A]anders überlegen solltest.
+{0xBDFF:0x0039}
+{0xBDFF:0x003A}
+{0xBDFF:0x003B}
+{0x0100,0x0000} überreicht[0x000A]Kapitän Brigg den Scanner.
+Oh, danke! Das wird uns bei unserer[0x000A]Forschungsarbeit sehr helfen!{0xBE01}[0x000A]Zum Dank möchte ich dir diese Glocke schenken...
+Sie wird angeblich in einer alten Legende der[0x000A]Johto-Region erwähnt und ist von hohem Wert.{0xBE01}[0x000A]Als ich noch Teil der Belegschaft von Seewoge[0x000A]Malvenfroh war, hab ich sie von einem Kollegen{0xBE00}[0x000A]bekommen, der aus Johto stammt.{0xBE01}[0x000A]Wenn ich mich recht erinnere, verdient sich seine Familie[0x000A]seit Generationen mit der Aufführung von Tänzen ihren{0xBE00}[0x000A]Lebensunterhalt, aber da er dafür kein Talent hat,{0xBE00}[0x000A]ist er hierhergekommen.
+Er hatte sie an seinem Portemonnaie hängen.[0x000A]Wenn sie auf dem Gelände von {0xFF00,0x0002}Seewoge Malvenfroh{0xFF00,0x0000}{0xBE00}[0x000A]läutete, hat sie manchmal kurz aufgeblitzt.{0xBE01}[0x000A]Das war wirklich seltsam...{0xBE01}[0x000A]Weil sie so ungewöhnlich ist, habe ich sie aufbewahrt,[0x000A]aber jetzt möchte ich, dass du sie nimmst.
+Hilfst du mir, {0x0100,0x0000}?
+Hilfst du mir, {0x0100,0x0000}?
+Ich kann dich bis nach Seegrasulb City bringen.[0x000A]Dort soll sich ihr Versteck befinden.
+Ich fürchte, sie wollen mein U-Boot für[0x000A]etwas Schlimmes einsetzen...!{0xBE01}[0x000A]Könntet du und deine Pokémon mir helfen,[0x000A]diese Schurken aufzuhalten?
+Danke![0x000A]Dann werde ich sofort ein Schiff bereit machen!
+V-verstehe...[0x000A]Aber gib Bescheid, wenn du deine Meinung änderst!{0xBE00}[0x000A]Ich kann mich auf niemanden sonst verlassen...
+Mir geht es gar nicht darum, dich hinzuhalten.[0x000A]Ich will dich nur dazu bringen, das Handtuch zu werfen!
+Wer hätte das gedacht...{0xBE01}[0x000A]Nun bin ich es, der das Handtuch werfen musste...
+Nun ja, wie so oft bleibt es dann wohl an mir,[0x000A]meines Zeichens Elite-Mitglied von Team Magma,{0xBE00}[0x000A]hängen, dich von deiner Erfolgsspur abzubringen!
+Wie um alles in der Welt konnte ein Elite-Mitglied[0x000A]wie ich nur von der Erfolgsspur abkommen...?{0xBE01}[0x000A]Aber...! Aber...!
+Wart’s nur ab, wenn ich mit dir fertig bin,[0x000A]wirst du den Boden unter meinen Füßen küssen!
+Und die Moral von der Geschichte?[0x000A]Im Wasser top, an Land ein Flop!
+Hmpf! Das hab ich kommen sehen, du Versager!{0xBE01}[0x000A]Dann muss ich eben ran. Immerhin steh ich auf[0x000A]Platz 26 der stärksten Mitglieder von Team Aqua!
+Ich glaub, mein Spoink pfeift!{0xBE01}[0x000A]Du hast mich, die Nummer 26 von Team Aqua,[0x000A]einfach so in den Boden gerammt!{0xBE01}[0x000A]Aber... Aber...
+Eine Fähre nach Seegrasulb City...
+Nanu?[0x000A]Dieses Ticket...!
+Bist du etwa {0x1100,0x00FF,0x0E0E,0x0000}derjenige, derdiejenige, die dieses seltsame Ticket[0x000A]dabeihat, von dem jeder spricht?
+Du willst also zu dieser winzigen Insel[0x000A]im äußersten Süden gebracht werden, ja?
+Niemand weiß, was dort so vor sich geht...{0xBE01}[0x000A]Das ist genau der Stoff, der einen echten Seefahrer[0x000A]wie mich auf Trab hält!
+Dann komm bitte an Bord!
+Ich werde hier solange auf dich warten.[0x000A]Pass gut auf dich auf, {0x0100,0x0000}!{0xBE01}[0x000A]Ich wünsche dir viel Erfolg!
+Willkommen zurück, {0x0100,0x0000}.{0xBE01}[0x000A]Du bist ihm auf der Insel im Süden also echt begegnet![0x000A]Dem Äon-Pokémon...!
+Also dann![0x000A]Dann wollen wir mal zurück zur Arena!

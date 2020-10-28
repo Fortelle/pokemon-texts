@@ -1,0 +1,16 @@
+Si así lo deseas, puedo enseñar a tus Pokémon[0x000A]el movimiento más poderoso de tipo Dragón.{0xBE01}[0x000A]¿Y bien? ¿Quieres que se lo enseñe a un Pokémon[0x000A]de tu equipo?
+Como prefieras.[0x000A]Vuelve si cambias de parecer.
+Lo siento.{0xBE01}[0x000A]Tu Pokémon podría aprender este movimiento,[0x000A]pero todavía no está lo bastante ligado a ti.{0xBE01}[0x000A]Así no hay forma de que pueda enseñárselo.
+De acuerdo.{0xBE01}[0x000A]Pero me temo que ningún Pokémon de tu equipo[0x000A]puede aprender este movimiento.
+¿Qué Pokémon quieres que lo aprenda?
+Lo siento.{0xBE01}[0x000A]Ese Pokémon no puede aprender este movimiento.
+Hmm...{0xBE01}[0x000A]Creo que va a ser un poco difícil que le enseñe un[0x000A]movimiento a un Huevo.
+Hmm... Este Pokémon ya conoce el movimiento[0x000A]{0x0107,0x0001}.
+¡La potencia de Cometa Draco es tremenda!{0xBE01}[0x000A]Pero el Ataque Especial del Pokémon que lo use[0x000A]bajará tras usarlo.
+¿Prefieres que {0x0101,0x0000} no aprenda el[0x000A]movimiento?
+¡{0x0101,0x0000} ha aprendido[0x000A]{0x0107,0x0001}!
+{0x0101,0x0000} quiere aprender[0x000A]{0x0107,0x0001}.{0xBE01}[0x000A]Pero {0x0101,0x0000} ya conoce cuatro[0x000A]movimientos.{0xBE01}[0x000A]¿Quieres sustituir uno de ellos por[0x000A]{0x0107,0x0001}?
+¿Prefieres que no aprenda[0x000A]{0x0107,0x0001}?
+¡{0x0101,0x0000} no ha aprendido[0x000A]{0x0107,0x0001}!
+¿Quieres que olvide el movimiento[0x000A]{0x0107,0x0002}?
+1, {0xBE02:0x0014}2 y... {0xBE02:0x0014}¡puf!{0xBE05,0x0003}{0xBE05,0x0006}{0xBE01}[0x000A]¡{0x0102,0x0000} ha olvidado cómo utilizar[0x000A]{0x0107,0x0002}! Y...

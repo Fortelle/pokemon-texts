@@ -1,0 +1,38 @@
+¡Buenos días![0x000A]Tú debes de ser {0x0100,0x0000}.{0xBE01}[0x000A]He recibido {0x0201,0x0001} regalo{0x1101,0x0001,0x0D0B} misteriosos misteriosos para ti.[0x000A]¡Aquí tienes!
+¡Alola![0x000A]Tú debes de ser {0x0100,0x0000}.{0xBE01}[0x000A]He recibido {0x0201,0x0001} regalo{0x1101,0x0001,0x0D0B} misteriosos misteriosos para ti.[0x000A]¡Aquí tienes!
+¡Buenas![0x000A]Tú debes de ser {0x0100,0x0000}.{0xBE01}[0x000A]He recibido {0x0201,0x0001} regalo{0x1101,0x0001,0x0D0B} misteriosos misteriosos para ti.[0x000A]¡Aquí tienes!
+No me han llegado más regalos para ti.[0x000A]Espero tener algo más la próxima vez.
+¿Qué regalo quieres recibir primero?
+Pokémon
+Objetos
+Puntos de Batalla
+Pokéhabas
+Tengo {0x0201,0x0001} regalos que contienen objetos.[0x000A]¿Quieres recibirlos a la vez?
+Tengo {0x0201,0x0001} regalos que contienen Puntos de[0x000A]Batalla. ¿Quieres recibirlos a la vez?
+Tengo {0x0201,0x0001} regalos que contienen Pokéhabas.[0x000A]¿Quieres recibirlos a la vez?
+Recibirlos a la vez
+Recibirlos de uno en uno
+Atrás
+¡Aquí lo tienes!
+¡Aquí los tienes!
+¡Has recibido {0x0201,0x0001} objetos de regalo!
+¡Has recibido {0x0201,0x0001} Puntos de Batalla de regalo!
+¡Has recibido {0x0201,0x0001} regalo{0x1101,0x0001,0x0100}s con Pokéhabas!
+¡Has recibido {0x0208,0x0001,0x0000} Punto{0x1101,0x0001,0x0100}s de Batalla!
+¡Has recibido {0x0202,0x0001} Pokéhaba{0x1101,0x0001,0x0100}s Irisada{0x1101,0x0001,0x0100}s!
+¡Has recibido objetos de {0x0202,0x0001} {0x1101,0x0001,0x0509}solo tipotipos!
+¡Ahí va!{0xBE01}[0x000A]Pero si tu equipo Pokémon está al completo...{0xBE01}[0x000A]Pásate por aquí de nuevo cuando tengas algo[0x000A]de sitio.
+¡Hasta la próxima!
+Tengo otro regalo para ti. ¿Quieres recibirlo?
+Sí
+No
+¡Has recibido un {0x0101,0x0001}!
+¡Has recibido {0x1702,0x0001}{0xBD00,0x0007,0x0000,0x0000}{0x0109,0x0001}{0xBD01}!
+¡Has recibido un Huevo!
+Este regalo contiene un Pokémon. ¿Quieres[0x000A]recibirlo?
+Este regalo contiene un objeto. ¿Quieres[0x000A]recibirlo?
+Este regalo contiene Puntos de Batalla. ¿Quieres[0x000A]recibirlo?
+Este regalo contiene Pokéhabas. ¿Quieres[0x000A]recibirlo?
+El regalo también incluye un[0x000A]{0x0109,0x0001}. Aquí lo tienes.
+El regalo también incluye un[0x000A]{0x0109,0x0001}.{0xBE01}[0x000A]¡Oh! Veo que ya tienes uno. En ese caso, lo[0x000A]devolveré.
+Cancelar

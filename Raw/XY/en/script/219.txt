@@ -1,0 +1,16 @@
+Yes
+No
+${0x0206,0x0008,0x002C}
+Would you like to save your adventure so far?
+Now saving your adventure...[0x000A]Please don’t turn off the power.
+{0x0100,0x0000} saved the game.
+There’s already a saved game file,[0x000A]so you can’t save now.{0xBE01}[0x000A]Refer to the electronic manual for details.
+Saving failed.
+Received {0x0101,0x0000}!
+{0x0101,0x0000} was sent to[0x000A]{0x010B,0x0001}!
+Holo Clip received!
+{0x0100,0x0000}! Welcome home!{0xBE01}[0x000A]It looks like the road has been a[0x000A]little rough on you, hasn’t it?{0xBE01}[0x000A]Why don’t you rest up a little[0x000A]before hitting the road again?
+What did I tell you? You and your[0x000A]Pokémon look much better now!{0xBE01}[0x000A]You know, honey... Whenever your[0x000A]Pokémon get too down or run out{0xBE00}[0x000A]of HP like that, you can always come{0xBE00}[0x000A]home and let them rest for a while.{0xBE01}[0x000A]If you’re headed far from home, you[0x000A]should buy some Potions at the Poké Mart{0xBE00}[0x000A]in Aquacorde Town or someplace.{0xBE01}[0x000A]Taking proper care of your Pokémon[0x000A]is one of the basics for a Trainer!{0xBE01}[0x000A]Now get back out there and show[0x000A]the world what you’ve got! Love you!
+First, let’s restore your Pokémon to full health.
+Please visit a Pokémon Center if[0x000A]your Pokémon’s HP goes down.{0xBE01}[0x000A]If you’re planning to travel any[0x000A]great distance, you should stock{0xBE00}[0x000A]up on Potions at a Poké Mart.{0xBE01}[0x000A]Good luck out there, Trainer!
+There! All happy and healthy!{0xBE01}[0x000A]Good luck and take care!

@@ -1,0 +1,7 @@
+main_event_0100_telop_01=The next day...
+main_event_0100_champion_01=You spent the whole night with that new partner[0x000A]of yours, right, Hop?{0xBE01}[0x000A]You two getting on all right?[0x000A]Understanding one another?{0xBE00}[0x000A]Maybe even built up a bit of love?{0x0114,0x0004}
+main_event_0100_rival_01=Course I have, Lee!{0xBE01}[0x000A]{0x1003}{0x0100,0x0000}’s made fast friends with h{0x1100,0x00FF,0x0202}iser[0x000A]{0x0101,0x0001}, too.{0x0114,0x0005}
+main_event_0100_champion_02=Then listen up, new Trainers![0x000A]Believe in yourself and your Pokémon!{0xBE01}[0x000A]If you trust in one another and carry on battling[0x000A]side by side long enough, then someday...{0x0114,0x0004}
+main_event_0100_champion_03=you might even become worthy rivals for me,[0x000A]the unbeatable Champion!{0x0114,0x0004}
+main_event_0100_rival_02=What’re you looking at h{0x1100,0x00FF,0x0202}imer for, Lee?![0x000A]I’m the one who’ll be coming to challenge you!{0x0114,0x0005}
+main_event_0100_rival_03=If you think {0x0100,0x0000} might be able to[0x000A]challenge you, then I guess {0x1100,0x00FF,0x0100}she’s my first rival!{0xBE01}[0x000A]But I’m not planning to lose to h{0x1100,0x00FF,0x0202}imer and miss out[0x000A]on my chance to beat the unbeatable Champion!{0x0114,0x0005}

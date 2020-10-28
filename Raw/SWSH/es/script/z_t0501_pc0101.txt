@@ -1,0 +1,5 @@
+msg_t0501pc0101_npc1_01=¿Qué tal te va la vida? ¡A partir de ahora te irá[0x000A]mejor con este regalazo, ya verás!
+msg_t0501pc0101_npc1_02=Por si eres leg{0x1100,0x00FF,0x0101}oa en la materia, te voy a dar dos[0x000A]buenos consejillos sobre los fósiles.{0xBE01}[0x000A]Primero: hay una investigadora en la Ruta 6 que[0x000A]puede regenerarlos.{0xBE01}[0x000A]Segundo: el lugar ideal para buscarlos es el Área[0x000A]Silvestre. Puedes hacerlo tú mism{0x1100,0x00FF,0x0101}oa, o pedirles{0xBE00}[0x000A]ayuda a los hermanos Pozuelo.
+msg_t0501pc0101_npc2_01=Hay que echarle ganas para entrenar en la[0x000A]montaña... ¡Qué Karateka más estoico!
+msg_t0501pc0101_npc3_01=En realidad los que entrenan son mis Pokémon.[0x000A]Lo mío es pura fachada.
+msg_t0501_pc0101_poke1_01_pop=♪¡Dee, dee!♪

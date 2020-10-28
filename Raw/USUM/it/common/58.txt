@@ -1,0 +1,45 @@
+La scheda SD è piena.[0x000A]Impossibile scaricare i dati.
+Impossibile trovare dati sul server.[0x000A]Riprova più tardi.
+La comunicazione con il server è stata[0x000A]interrotta.
+Si è verificato un problema.[0x000A]La connessione è stata terminata.
+La comunicazione con l’altro giocatore[0x000A]è stata interrotta.
+La comunicazione con il server è stata[0x000A]interrotta.
+Il collegamento non è riuscito.
+Impossibile collegarsi con l’altro[0x000A]giocatore. Riprova dall’inizio.
+Il modulo a infrarossi potrebbe[0x000A]essere guasto.[0x000A]Riprova dall’inizio.[0x000A]Se il problema persiste, contatta[0x000A]il servizio clienti Nintendo.
+Collegamento a infrarossi non riuscito.[0x000A]Scegli la stessa opzione di gioco[0x000A]dell’altro giocatore e riprova.
+Si è verificato un errore sul server.[0x000A]Riprova.[0x000A](Codice errore: 090-0230)
+Si è verificato un errore sul server.[0x000A]Riprova.[0x000A](Codice errore: 090-0231)
+È in corso la manutenzione del server.[0x000A]Riprova più tardi.[0x000A](Codice errore: 090-0232)
+Si è verificato un errore sul server del[0x000A]Pokémon Global Link. Riprova.[0x000A](Codice errore: 090-0200)
+Si è verificato un errore sul server del[0x000A]Pokémon Global Link. Riprova.[0x000A](Codice errore: 090-0201)
+Si è verificato un errore sul server del[0x000A]Pokémon Global Link. Riprova.[0x000A](Codice errore: 090-0202)
+Si è verificato un errore sul server del[0x000A]Pokémon Global Link. Riprova.[0x000A](Codice errore: 090-0203)
+Si è verificato un errore sul server del[0x000A]Pokémon Global Link.[0x000A]Disconnettiti da Internet, quindi riprova.[0x000A](Codice errore: 090-0204)
+Si è verificato un errore sul server del[0x000A]Pokémon Global Link. Riprova.[0x000A](Codice errore: 090-0205)
+Si è verificato un errore sul server del[0x000A]Pokémon Global Link. Riprova.[0x000A](Codice errore: 090-0206)
+Il Sincrogioco è stato interrotto perché[0x000A]non è passato abbastanza tempo[0x000A]dall’ultima volta che l’hai usato.[0x000A]Riprova a usarlo più tardi.[0x000A](Codice errore: 090-0207)
+Si è verificato un errore sul server del[0x000A]Pokémon Global Link. Riprova.[0x000A](Codice errore: 090-0208)
+Si è verificato un errore sul server del[0x000A]Pokémon Global Link. Riprova.[0x000A](Codice errore: 090-0209)
+È in corso la manutenzione del[0x000A]Pokémon Global Link.[0x000A]Impossibile collegarsi.[0x000A]Riprova più tardi.[0x000A](Codice errore: 090-0210)
+Il collegamento di questo software[0x000A]al sito del Pokémon Global Link[0x000A]non è più supportato.[0x000A]http://www.pokemon-gl.com/[0x000A](Codice errore: 090-0211)
+Si è verificato un errore sul server del[0x000A]Pokémon Global Link. Riprova più tardi.[0x000A](Errore HTTP: 500)
+Si è verificato un errore sul server del[0x000A]Pokémon Global Link. Riprova più tardi.[0x000A](Errore HTTP: 502)
+Si è verificato un errore sul server del[0x000A]Pokémon Global Link. Riprova più tardi.[0x000A](Errore HTTP: 503)
+{0xBDFF:0x001C}
+Si è verificato un errore di[0x000A]autenticazione del codice seriale[0x000A]sul server. Riprova.[0x000A](Codice errore: 090-0200)
+Sul server si è verificato un errore di[0x000A]autenticazione del codice seriale.[0x000A]Riprova.[0x000A](Codice errore: 090-0201)
+Sul server si è verificato un errore di[0x000A]autenticazione del codice seriale.[0x000A]Riprova.[0x000A](Codice errore: 090-0202)
+Sul server si è verificato un errore di[0x000A]autenticazione del codice seriale.[0x000A]Riprova.[0x000A](Codice errore: 090-0203)
+Sul server si è verificato un errore di[0x000A]autenticazione del codice seriale.[0x000A]Riprova.[0x000A](Codice errore: 090-0204)
+Sul server si è verificato un errore di[0x000A]autenticazione del codice seriale.[0x000A]Riprova.[0x000A](Codice errore: 090-0205)
+Sul server si è verificato un errore di[0x000A]autenticazione del codice seriale.[0x000A]Riprova.[0x000A](Codice errore: 090-0206)
+Si è verificato un errore di[0x000A]autenticazione del codice seriale[0x000A]sul server a causa della manutenzione[0x000A]in corso. Riprova più tardi.[0x000A](Codice errore: 090-0210)
+Il collegamento di Pokémon Sole[0x000A]e Pokémon Luna al sito del[0x000A]Pokémon Global Link non è più[0x000A]supportato.[0x000A](Codice errore: 090-0211)
+Si è verificato un errore di[0x000A]autenticazione del codice seriale[0x000A]sul server. Riprova più tardi.[0x000A](Errore HTTP: 500)
+Sul server si è verificato un errore di[0x000A]autenticazione del codice seriale.[0x000A]Riprova più tardi.[0x000A](Errore HTTP: 502)
+Sul server si è verificato un errore di[0x000A]autenticazione del codice seriale.[0x000A]Riprova più tardi.[0x000A](Errore HTTP: 503)
+Non è consentito connettersi al[0x000A]Pokémon Global Link con questi[0x000A]dati di salvataggio.[0x000A](Codice errore: 090-0212)
+Non è consentito usare il Sincrogioco[0x000A]con questi dati di salvataggio.[0x000A](Codice errore: 090-0213)
+Impossibile riconoscere la scheda SD.[0x000A][0x000A]Spegni la console e inserisci di nuovo[0x000A]la scheda SD.
+Si è verificato un errore di[0x000A]comunicazione.[0x000A][0x000A]Tieni premuto il pulsante POWER[0x000A]per uscire dal gioco.

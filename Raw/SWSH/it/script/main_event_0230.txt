@@ -1,0 +1,10 @@
+main_event_0230_rival_01={0x0100,0x0000}, è la prima volta che vedi[0x000A]un Centro Pokémon?{0x0114,0x0005}
+main_event_0230_select_01=Sì
+main_event_0230_select_02=No, li conosco bene!
+main_event_0230_rival_02=Allora non hai bisogno che ti spieghi come[0x000A]funziona!{0x0114,0x0005}
+main_event_0230_rival_03=Non preoccuparti, ti spiego io come funziona!{0x0114,0x0005}
+main_event_0230_rival_04=Allora, prima cosa: se parli a quella ragazza,[0x000A]rimetterà in sesto la tua squadra di Pokémon!{0x0114,0x0005}
+main_event_0230_rival_05=E in quel PC puoi mettere tutti i Pokémon[0x000A]che catturi!{0xBE01}[0x000A]Ricorda che puoi portare con te al massimo[0x000A]sei Pokémon.{0x0114,0x0005}
+main_event_0230_youngm_01=Per fortuna che avevo comprato delle Pozioni[0x000A]al Pokémon-Market! Senza quelle, avrei perso!
+main_event_0230_middlem_01=Datemi retta, giovincelli... Se siete Allenatori[0x000A]vi consiglio di fare scorta di Pozioni!
+main_event_0230_rival_06=Grazie della dritta!{0xBE01}[0x000A]{0x0100,0x0000}, io vado verso il Percorso 2,[0x000A]raggiungimi quando hai fatto!{0x0114,0x0005}

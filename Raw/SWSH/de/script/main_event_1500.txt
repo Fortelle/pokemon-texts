@@ -1,0 +1,3 @@
+main_event_1500_rival_01=Na? Hast du gut geschlafen, {0x0100,0x0000}?{0x0114,0x0005}
+main_event_1500_rival_02=Ich war viel zu aufgeregt, um zu schlafen.{0xBE01}[0x000A]Stattdessen hab ich die ganze Nacht an meiner[0x000A]Wurftechnik gefeilt.{0x0114,0x0005}
+main_event_1500_rival_03=So, ich geh schon mal vor.{0xBE01}[0x000A]Ich nehm das Flugtaxi vor dem Hotel zum[0x000A]Score-Stadion, das ist am schnellsten. Bis dann!{0x0114,0x0005}

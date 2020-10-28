@@ -1,0 +1,14 @@
+The Pokémon Center is practically right next[0x000A]to your house, isn’t it, {0x0100,0x0000}?{0x0114,0x0006}
+Ah...{0x0114,0x0006}
+Everything has fallen into darkness...
+Pew...
+Nebby...[0x000A]Don’t worry—it’s OK.{0x0114,0x0006}
+This must be what they call a solar eclipse.[0x000A]It happens when the sun gets covered up.{0x0114,0x0006}
+This must be what they call a lunar eclipse.[0x000A]It happens when the moon gets covered up.{0x0114,0x0006}
+Was a solar eclipse forecast for today?{0xBE01}[0x000A]Ah, well. It must be some kind of good[0x000A]omen, yeah!{0x0114,0x0005}
+Was a lunar eclipse forecast for today?{0xBE01}[0x000A]Ah, well. It must be some kind of good[0x000A]omen, yeah!{0x0114,0x0005}
+An omen?[0x000A]You think something good will happen?{0x0114,0x0006}
+Sure! A long, long time ago, Alola was cloaked in[0x000A]darkness, yeah...{0xBE01}[0x000A]But people say that’s when Alola’s people and[0x000A]Pokémon blasted all that darkness away{0xBE00}[0x000A]with light!{0xBE01}[0x000A]And they also say that was why people started[0x000A]gathering Z-Crystals, and that custom turned{0xBE00}[0x000A]into the island challenge.{0x0114,0x0005}
+{0x0100,0x0000}!{0xBE01}[0x000A]Now that you’ve got that Z-Power Ring, I hope[0x000A]you’ll collect tons of Z-Crystals! Woo!{0xBE01}[0x000A]That’s exactly what a move researcher like me[0x000A]needs to uncover new secrets!{0x0114,0x0005}
+Professor, that’s not why {0x1100,0x00FF,0x0100}she’s supposed to be[0x000A]doing it...{0xBE01}[0x000A]Come on, {0x0100,0x0000}.[0x000A]I’ll show you to the Pokémon Center.{0x0114,0x0006}
+Visiting every last part of Alola, yeah...[0x000A]That will be your island challenge!{0x0114,0x0005}

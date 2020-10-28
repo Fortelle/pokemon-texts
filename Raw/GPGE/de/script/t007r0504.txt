@@ -1,0 +1,6 @@
+msg_t007r0504_denkigroup_01=Ich suche ein Geschenk für meine Freundin.{0xBE01}[0x000A]Wenn ich ihr einen Wasserstein gebe, entwickelt[0x000A]sie sich vielleicht!
+msg_t007r0504_boyscout_01=Es gibt Pokémon, die sich entwickeln, wenn du[0x000A]einen Entwicklungsstein auf sie anwendest.
+msg_t007r0504_partner_01=*Sträub!*
+msg_t007r0504_boyscout_02=Sieht so aus, als würde dein {0x0101,0x0002}[0x000A]lieber so bleiben, wie es ist!
+msg_t007r0504_staffm_01=Angeblich existieren irgendwo auf der Welt[0x000A]sogenannte Mega-Steine, die es ziemlich in{0xBE00}[0x000A]sich haben.{0xBE01}[0x000A]Aber hier gibt es leider keine zu kaufen...
+msg_t007r0504_kanban_01=3. OG: Geschenkartikel[0x000A]Bereite anderen mit Geschenken eine Freude!{0xBE01}[0x000A]Momentan im Angebot: Entwicklungssteine!

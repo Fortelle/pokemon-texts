@@ -1,0 +1,5 @@
+msg_t0701_i0901_npc1_01=Bienvenue à l’Hôtel Ionia ![0x000A]Nous avons des chambres libres ici,{0xBE00}[0x000A]ou dans notre autre établissement en face...{0xBE00}[0x000A]Comme vous préférez !
+msg_t0701_i0901_npc2_01=C’est chouette de séjourner à l’hôtel ! Plus besoin[0x000A]de penser à faire la lessive ou passer l’aspirateur !
+msg_t0701_i0901_npc3_01=On a réussi à avoir des billets pour les places[0x000A]les plus proches de l’action !!!{0xBE01}[0x000A]Parfois, ça fait un peu peur, mais...[0x000A]on en prend plein la vue !
+msg_t0701_i0901_npc4_01=J’attends quelqu’un, et j’ai demandé à Sonistrelle[0x000A]de sonder les alentours avec ses ultrasons.
+msg_t0701_i0901_poke1_01_pop=Niii ! Niii ! Niii !

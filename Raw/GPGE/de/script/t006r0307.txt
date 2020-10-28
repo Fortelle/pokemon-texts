@@ -1,0 +1,10 @@
+msg_t006r0307_cook_01=Hey! Aus dem Weg, du Leichtmatros{0x1100,0x00FF,0x0201,0x0000}ein!
+msg_t006r0307_cook_02=Eine Glosche bewirkt, dass die angerichtete[0x000A]Mahlzeit länger warm bleibt.{0xBE01}[0x000A]Gloschen, das sind diese silbernen[0x000A]Metallhauben, die man über Teller stülpt.{0xBE01}[0x000A]Aber das wusstest du bestimmt schon.
+msg_t006r0307_cook_03=Ich bin so beschäftigt, dass ich nicht mehr weiß,[0x000A]wo mir der Kopf steht. Also stör mich bitte nicht!
+msg_t006r0307_cook_04=*Schnipp, schnipp!*{0xBE01}[0x000A]Ich schäle hier tagein, tagaus Kartoffeln.{0xBE01}[0x000A]*Schnipp, schnipp!*
+msg_t006r0307_cook_05=Kennst du Relaxo, seines Zeichens[0x000A]Feinschmecker-Pokémon?{0xBE01}[0x000A]Es gibt kein anderes Pokémon, das so viel frisst[0x000A]und schläft.
+msg_t006r0307_cook_06=*Schnief, schnief...*{0xBE01}[0x000A]Ich schäle hier tagein, tagaus Zwiebeln...{0xBE01}[0x000A]*Schnief, schnief...*
+msg_t006r0307_cook_07_01=Ich bin hier der Chef de Cuisine. *Räusper!*{0xBE01}[0x000A]Der heutige Hauptgang ist...
+msg_t006r0307_cook_07_02=Whirlpool-Sushi!{0xBE01}[0x000A]Eine kulinarische Köstlichkeit sondergleichen!
+msg_t006r0307_cook_07_03=Marmoria-Kräcker! Der... einzigartige Geschmack[0x000A]der Kanto-Region, schätze ich.{0xBE01}[0x000A]Wie kommt eine solche Banalität nur auf[0x000A]meine Speisekarte?
+msg_t006r0307_cook_07_04=Bodycheck-Steak!{0xBE01}[0x000A]Die Gäste werden es lieben!

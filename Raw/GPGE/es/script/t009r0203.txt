@@ -1,0 +1,4 @@
+msg_t009r0203_diary_01="Diario: 6 de febrero[0x000A]Hemos obtenido un Pokémon gracias a Mew.{0xBE01}[0x000A]Lo hemos llamado Mewtwo".
+msg_t009r0203_switch_01={0xBDFF:0x0001}
+msg_t009r0203_switch_02={0xBDFF:0x0002}
+msg_t009r0203_switch_03={0xBDFF:0x0003}

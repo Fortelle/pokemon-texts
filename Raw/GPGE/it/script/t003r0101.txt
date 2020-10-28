@@ -1,0 +1,12 @@
+msg_t003r0101_oldm_01_01=È un privilegio poter vedere i resti di una[0x000A]creatura così maestosa!
+msg_t003r0101_scientist_02_01=Qui si possono ammirare alcuni fossili[0x000A]di Pokémon preistorici molto rari.
+msg_t003r0101_tenji_01_01=È uno splendido pezzo di ambra, dorato[0x000A]e trasparente.
+msg_t003r0101_tenji_02_01=Fossile di Aerodactyl, un raro Pokémon[0x000A]preistorico.
+msg_t003r0101_tenji_03_01=Fossile di Kabutops, un raro Pokémon[0x000A]preistorico.
+msg_t003r0101_tenji_04_01=Oooh! Un Pokémon preistorico![0x000A]Cioè... una replica di un Pokémon preistorico.
+msg_t003r0101_tenji_05_01=Fossili ritrovati sul Monte Luna.
+msg_studym1_03_p01_t003_r0101={0xBDFF:0x0007}
+msg_studym1_03_p02_t003_r0101={0xBDFF:0x0008}
+msg_studym1_03_p03_t003_r0101={0xBDFF:0x0009}
+msg_studym1_03_p04_t003_r0101={0xBDFF:0x000A}
+msg_t003r0101_scientist_03_01=I segreti dello spazio, i misteri della terra...[0x000A]Sappiamo così poco...{0xBE01}[0x000A]C’è ancora tanto lavoro da fare e tanto da scoprire!

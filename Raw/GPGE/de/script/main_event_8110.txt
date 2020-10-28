@@ -1,0 +1,12 @@
+msg_main8110_combat_01={0xFF00,0x0009}Bruno:{0xFF00,0x0000} Ich bin Bruno von den Top Vier.
+msg_main8110_combat_05=Wer nie stillsteht und stets Kampfgeist beweist,[0x000A]wächst immer wieder über sich selbst hinaus.{0xBE00}[0x000A]Das gilt für Menschen wie für Pokémon.
+msg_main8110_combat_06=Nach dieser Philosophie habe ich mich selbst[0x000A]und meine Kampf-Pokémon trainiert.{0xBE01}[0x000A]Und daran wird sich auch in Zukunft nichts[0x000A]ändern.
+msg_main8110_combat_07=Dein Name lautet {0x0100,0x0000}, nicht wahr?
+msg_main8110_combat_08=Sieh dich vor, denn du darfst gleich die Früchte[0x000A]unseres beinharten Trainings kosten!
+msg_main8110_combat_09=Uuuh... haaah!!
+msg_shiba_01_p02_cave_d1402={0xBDFF:0x0006}
+msg_main8110_combat_02={0xFF00,0x0009}Bruno:{0xFF00,0x0000} Damit haben wir unsere Pflicht erfüllt.{0xBE01}[0x000A]Im nächsten Raum wartet bereits eine weitere[0x000A]Herausforderung auf dich!
+msg_main8110_combat_03={0xFF00,0x0009}Bruno:{0xFF00,0x0000} Den Kampfgeist, den du gegen Lorelei[0x000A]an den Tag gelegt hast, konnte man bis hierher{0xBE00}[0x000A]spüren.
+msg_main8110_combat_10=Aber ich war auch alles andere als träge und hab[0x000A]meine Kampf-Pokémon unermüdlich trainiert.{0xBE00}[0x000A]Mach dich auf ein wahres Feuerwerk gefasst!
+msg_main8110_combat_11=Uuuh... haaah!{0xBE01}[0x000A]Uuuuuh... haaaaah!!!
+msg_main8110_combat_04=Argh! All mein Training reicht immer noch nicht[0x000A]aus?! Ich muss mich wohl der Wahrheit stellen...{0xBE01}[0x000A]So wie du dich gleich der nächsten[0x000A]Herausforderung stellen musst!

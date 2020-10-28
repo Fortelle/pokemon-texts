@@ -1,0 +1,7 @@
+msg_t011pc01_woman_01=Pokémon wachsen je nach Art unterschiedlich[0x000A]schnell heran.
+msg_t011pc01_gentleman_01=Die Silph Company ist jedem ein Begriff.{0xBE01}[0x000A]Kein Wunder, dass auch diese Gauner von[0x000A]Team Rocket auf sie aufmerksam wurden.
+msg_t011pc01_chilem_01_01=Wenn doch bloß die Top Vier vorbeikämen,[0x000A]um Team Rocket in den Boden zu stampfen!
+msg_t011pc01_chilem_01_02=Team Rocket hat die Kurve gekratzt![0x000A]Endlich muss ich keine Angst mehr haben,{0xBE00}[0x000A]wenn ich draußen spielen will!
+msg_t011pc01_book_01=Hier ist ein Magazin mit dem Titel:[0x000A]„Das Pokémon-Journal: Interview“
+msg_t011pc01_select_01=Möchtest du es lesen?
+msg_t011pc01_book_02=Dieser Mann ist das Gesicht von Saffronia City!{0xBE01}[0x000A]Wir haben den Karate-Meister gefragt, was das[0x000A]Geheimnis seiner unvergleichlichen Stärke ist.{0xBE01}[0x000A]„Seit ich das Kampf-Dojo eröffnet habe, steht für[0x000A]mich und meine Pokémon rigoroses Training ganz{0xBE00}[0x000A]oben auf der Tagesordnung. Haiyaaah!{0xBE01}[0x000A]Sehen Sie sich nur diese stählernen Muskeln an![0x000A]Und nicht nur meine, auch die meiner Pokémon!{0xBE01}[0x000A]Nächsten Monat findet in der Arena von[0x000A]Saffronia City ein Turnier statt.{0xBE01}[0x000A]Wer auch immer mich dort herausfordern wird,[0x000A]ich werde ihn im Handumdrehen auf die Matte{0xBE00}[0x000A]befördern. Haiyah!“

@@ -1,0 +1,15 @@
+msg_fld_ev_spray_01=スプレーの　効果が　切れた！
+msg_fld_ev_spray_02=スプレーの　効果が　切れた！[0x000A]続けて　使いますか？
+msg_fld_ev_spray_03={0x0100,0x0000}は[0x000A]{0x0109,0x0001}を　使った！
+msg_fld_ev_bookshelf_01={0xBDFF:0x0003}
+msg_fld_ev_kowaserurock_01=頑丈そうな　岩だ……！[0x000A]ポケモンの　パワーなら　壊せるかも？
+msg_fld_ev_tv_common_01={0xBDFF:0x0005}
+msg_fld_ev_oserurock_01=大きくて　重そうな　岩だ……！[0x000A]ポケモンの　パワーなら　押せるかも？
+msg_egg_event_01=……おや？
+msg_ride_check_01=ケンタロスを　呼びだしますか？
+msg_ride_check_02=カイリキーを　呼びだしますか？
+msg_ride_check_03=サメハダーを　呼びだしますか？
+msg_ride_check_ng_01=ここでは　場所が　せまくて[0x000A]ライドポケモンを　呼びだせない
+msg_bicycle_01=いまは　じてんしゃに[0x000A]乗ることが　できない
+msg_bicycle_02=いまは　じてんしゃから[0x000A]降りることが　できない
+msg_fld_ev_boxfull_01=ポケモンボックスが　一杯で[0x000A]話しかけられない！！{0xBE00}[0x000A]……また　あとで　来よう

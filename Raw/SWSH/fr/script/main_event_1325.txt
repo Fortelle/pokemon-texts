@@ -1,0 +1,10 @@
+main_event_1325_sister_01=Pssst, {0x0100,0x0000} ![0x000A]Par ici !{0x0114,0x000D}
+main_event_1325_sister_02=Tu veux rentrer dans la ville ?{0xBE01}[0x000A]J’peux te montrer par où passer. J’suis née ici,[0x000A]je connais l’coin comme ma poche.{0x0114,0x000D}
+main_event_1325_sister_03=Mais on a rien sans rien. Si tu veux qu’je t’aide,[0x000A]faudra qu’tu t’battes contre moi. T’es d’accord ?{0x0114,0x000D}
+main_event_1325_select_01=Avec joie !
+main_event_1325_select_02=Comme ça, là ? Non.
+main_event_1325_sister_04=J’t’ai mal jaugé{0x1100,0x00FF,0x0100}e, ou quoi ?[0x000A]J’pensais pas qu’un p’tit combat te ferait peur.{0xBE01}[0x000A]Ah ! C’est juste que tu veux avoir le temps[0x000A]de t’préparer, c’est ça ? Dans ce cas-là, ça va !{0xBE01}[0x000A]Fais-moi signe quand c’est bon, j’bouge pas !{0x0114,0x000D}
+main_event_1325_sister_05=T’enchaînes les victoires, comme moi ![0x000A]Et t’as tout mon respect en tant qu’adversaire.{0xBE01}[0x000A]Mais trop de gens comptent sur moi...[0x000A]J’peux pas me permettre de perdre !{0x0114,0x000D}
+main_event_1325_sister_06=Je comprends maintenant pourquoi mon Morpeko[0x000A]est fan de toi. T’assures grave !{0xBE01}[0x000A]Mais moi, si j’me bats, c’est pour tous ceux[0x000A]qui m’soutiennent à Smashings !{0x0114,0x000D}
+main_event_1325_sister_08=Et j’ai bien l’intention de te battre[0x000A]à plate couture, un d’ces quatre !{0xBE01}[0x000A]Donc j’vais récolter les huit Badges[0x000A]et j’prendrai ma revanche aux Poké Masters !{0x0114,0x000D}
+main_event_1325_sister_07=En attendant, j’ai qu’une parole[0x000A]et je vais te le prouver. Suis-moi !{0x0114,0x000D}

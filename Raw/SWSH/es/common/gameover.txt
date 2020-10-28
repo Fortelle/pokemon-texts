@@ -1,0 +1,3 @@
+msg_all_dead_01=Has salido corriendo hacia un Centro Pokémon[0x000A]para que tu equipo no sufra más daño.
+msg_all_dead_02=Has vuelto a casa corriendo para evitar que tu[0x000A]equipo Pokémon sufra más daño.
+msg_all_dead_03={0xBDFF:0x0002}

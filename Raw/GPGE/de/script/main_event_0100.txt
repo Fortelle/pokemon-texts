@@ -1,0 +1,6 @@
+msg_main0100_clerkm_01=Ach, hallo! Du kommst aus Alabastia, oder?
+msg_main0100_clerkm_02=Dann kennst du doch sicher Professor Eich!{0xBE01}[0x000A]Es ist eben eine Bestellung für ihn eingetroffen,[0x000A]aber ich hab gerade alle Hände voll zu tun...{0xBE01}[0x000A]Würdest du sie für mich zum Professor bringen?
+msg_main0100_sys_01=Du erhältst das {0xFF00,0x0006}Paket{0xFF00,0x0000} vom Angestellten!
+msg_main0100_clerkm_03=Danke, das ist echt nett von dir. Richte Professor[0x000A]Eich doch bitte schöne Grüße von mir aus!
+msg_main0100_clerkm_04={0xBDFF:0x0004}
+msg_main0100_sys_02=Willst du sofort zu Professor Eichs[0x000A]Pokémon-Labor zurückkehren?

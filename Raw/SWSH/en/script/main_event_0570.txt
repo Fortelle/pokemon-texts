@@ -1,0 +1,15 @@
+main_event_0570_counterw_01=Welcome, Gym Challenger![0x000A]Allow me to help you through your registration.
+main_event_0570_counterw_02=First things first—how about a quick refresher[0x000A]about the Gym Challenge?{0xBE01}[0x000A]Your goal as a Gym Challenger is to complete[0x000A]each Gym mission, defeat every Gym Leader,{0xBE00}[0x000A]and gather eight Gym Badges!
+main_event_0570_select_01=Got it!
+main_event_0570_select_02=Gym missions?
+main_event_0570_counterw_03=So, would you like to attempt the Gym mission?
+main_event_0570_select_03=Let’s do it!
+main_event_0570_select_04=One moment...
+main_event_0570_counterw_04=The {0xFF00,0x0001}Gym mission{0xFF00,0x0000} is a sort of test you need to[0x000A]go through before facing the Gym Leader.{0xBE01}[0x000A]Each Gym has a different mission for challengers.
+main_event_0570_counterw_05=If you would like to attempt the Gym mission,[0x000A]please change into your uniform!
+main_event_0570_counterw_06=Then let the Gym mission begin![0x000A]Give it your best shot!
+main_event_0570_counterw_07=You’re here for the Gym mission, right?{0xBE01}[0x000A]One of my favorite words is perseverance!
+main_event_0570_counterw_08=Congratulations! You’ve completed[0x000A]the Gym mission!{0xBE01}[0x000A]Don’t get too confident, though. Your teamwork[0x000A]with your Pokémon is key when battling the{0xBE00}[0x000A]Gym Leader!
+main_event_0570_counterw_09=Oh, of course! Please come back anytime once[0x000A]you’re ready to attempt the mission!
+main_event_0570_counterw_10={0xBDFF:0x000D}
+main_event_0570_counterw_11={0xBDFF:0x000E}

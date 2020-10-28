@@ -1,0 +1,6 @@
+msg_main0160_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¡Hola! ¡A ti te quería yo ver!
+msg_main0160_rival_02=¡En esta ciudad hay un {0xFF00,0x0006}Gimnasio Pokémon{0xFF00,0x0000}, en el[0x000A]que podrás desafiar a su {0xFF00,0x0006}Líder de Gimnasio{0xFF00,0x0000}!{0xBE01}[0x000A]Y ojito con él, porque es increíblemente fuerte.
+msg_main0160_rival_05=Aunque si es muy duro de pelar, más a tu favor.{0xBE01}[0x000A]Así tendrás una buena motivación para mejorar.
+msg_main0160_rival_04={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¡Je! Por lo que veo, no parece[0x000A]que a {0x0102,0x0003} le falte motivación.{0xBE01}[0x000A]Muy bien, pues voy a darte esto como muestra[0x000A]de mi apoyo.
+msg_main0160_sys_01={0x0100,0x0001} te ha entregado 5 Pociones.
+msg_main0160_rival_03=Las he comprado con el dinero de todas las[0x000A]victorias que he conseguido hasta ahora.{0xBE01}[0x000A]Si logras vencer al líder, podrás ir con la cabeza[0x000A]bien alta. ¡Ánimo!

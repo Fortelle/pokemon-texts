@@ -1,0 +1,45 @@
+The SD Card is full.[0x000A]You can’t download data.
+No data was found on the server. [0x000A]Please try again later.
+Communication with the server[0x000A]was interrupted.
+Communication ended due to an error.
+Communication with the other Trainer[0x000A]was interrupted.
+Communication with the server[0x000A]was interrupted.
+Communication failed.
+Failed to connect with the other[0x000A]Trainer. Please start again from[0x000A]the beginning.
+The infrared transceiver may be[0x000A]broken. Please start again from the[0x000A]beginning. If the problem persists,[0x000A]please contact Nintendo[0x000A]Customer Service.
+The infrared connection failed.[0x000A]Please choose the same game option[0x000A]as the communication partner.
+An error has occurred on the server.[0x000A]Please try again.[0x000A](Error Code: 090-0230)
+An error has occurred on the server.[0x000A]Please try again.[0x000A](Error Code: 090-0231)
+The server is undergoing maintenance.[0x000A]Please try again later.[0x000A](Error Code: 090-0232)
+An error has occurred on the Pokémon[0x000A]Global Link server. Please try again.[0x000A](Error Code: 090-0200)
+An error has occurred on the Pokémon[0x000A]Global Link server. Please try again.[0x000A](Error Code: 090-0201)
+An error has occurred on the Pokémon[0x000A]Global Link server. Please try again.[0x000A](Error Code: 090-0202)
+An error has occurred on the Pokémon[0x000A]Global Link server. Please try again.[0x000A](Error Code: 090-0203)
+An error has occurred on the Pokémon[0x000A]Global Link server. Disconnect from[0x000A]the Internet and try again.[0x000A](Error Code: 090-0204)
+An error has occurred on the[0x000A]Pokémon Global Link server.[0x000A]Please try again.[0x000A](Error Code: 090-0205)
+An error has occurred on the[0x000A]Pokémon Global Link server.[0x000A]Please try again.[0x000A](Error Code: 090-0206)
+Game Sync was canceled because more[0x000A]time must pass before you can use[0x000A]Game Sync again. Please wait a bit[0x000A]before trying Game Sync again.[0x000A](Error Code: 090-0207)
+An error has occurred on the[0x000A]Pokémon Global Link server.[0x000A]Please try again.[0x000A](Error Code: 090-0208)
+An error has occurred on the[0x000A]Pokémon Global Link server.[0x000A]Please try again.[0x000A](Error Code: 090-0209)
+You can’t connect to the Pokémon[0x000A]Global Link due to ongoing maintenance.[0x000A]Please wait, and then try again.[0x000A](Error Code: 090-0210)
+The connection of this software to[0x000A]the Pokémon Global Link is no[0x000A]longer supported.[0x000A]http://www.pokemon-gl.com[0x000A](Error Code: 090-0211)
+An error has occurred on the Pokémon[0x000A]Global Link server. Please wait awhile,[0x000A]and then try again.[0x000A](HTTP Error: 500)
+An error has occurred on the Pokémon[0x000A]Global Link server. Please wait awhile,[0x000A]and then try again.[0x000A](HTTP Error: 502)
+An error has occurred on the Pokémon[0x000A]Global Link server. Please wait awhile,[0x000A]and then try again.[0x000A](HTTP Error: 503)
+{0xBDFF:0x001C}
+An error has occurred on the[0x000A]authentication-code server.[0x000A]Please try again.[0x000A](Error Code: 090-0200)
+An error has occurred on the[0x000A]authentication-code server.[0x000A]Please try again.[0x000A](Error Code: 090-0201)
+An error has occurred on the[0x000A]authentication-code server.[0x000A]Please try again.[0x000A](Error Code: 090-0202)
+An error has occurred on the[0x000A]authentication-code server.[0x000A]Please try again.[0x000A](Error Code: 090-0203)
+An error has occurred on the[0x000A]authentication-code server.[0x000A]Please try again.[0x000A](Error Code: 090-0204)
+An error has occurred on the[0x000A]authentication-code server.[0x000A]Please try again.[0x000A](Error Code: 090-0205)
+An error has occurred on the[0x000A]authentication-code server.[0x000A]Please try again.[0x000A](Error Code: 090-0206)
+You can’t connect to the[0x000A]authentication-code server[0x000A]due to ongoing maintenance.[0x000A]Please wait awhile,[0x000A]and then try again.[0x000A](Error Code: 090-0210)
+The connection of Pokémon Sun[0x000A]and Pokémon Moon to the[0x000A]Pokémon Global Link is no[0x000A]longer supported.[0x000A](Error Code: 090-0211)
+An error has occurred on the[0x000A]authentication-code server.[0x000A]Please wait awhile, and then try again.[0x000A](HTTP Error: 500)
+An error has occurred on the[0x000A]authentication-code server.[0x000A]Please wait awhile, and then try again.[0x000A](HTTP Error: 502)
+An error has occurred on the[0x000A]authentication-code server.[0x000A]Please wait awhile, and then try again.[0x000A](HTTP Error: 503)
+The connection to Pokémon[0x000A]Global Link from this saved data[0x000A]has been denied.[0x000A](Error Code: 090-0212)
+Game Sync from this saved data[0x000A]is denied.[0x000A](Error Code: 090-0213)
+The SD Card could not be recognized.[0x000A][0x000A]Press the POWER Button and insert[0x000A]the SD Card again.
+A communication error has occurred.[0x000A][0x000A]Press the POWER Button and end[0x000A]the game.

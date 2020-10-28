@@ -1,0 +1,42 @@
+Nome:
+{0x0100,0x0000}
+ID:
+{0x0204,0x0000,0x0000}
+Pokédex:
+{0x0202,0x0000}
+
+Soldi:
+${0x0206,0x0000,0x002E}
+{0xBDFF:0x0009}
+Tempo di gioco:
+{0x0202,0x0000}
+:
+{0x0201,0x0001}
+Inizio avventura:
+{0x0201,0x0002}/{0x0201,0x0001}/{0x0203,0x0000,0x0000}
+Scheda Allenatore
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+Debutto nella Sala d’Onore:
+Pokémiglia:
+{0x0206,0x0000,0x002E}
+Medaglia Insetto[0x000A]Capopalestra Violetta
+Medaglia Rupe[0x000A]Capopalestra Lino
+Medaglia Lotta[0x000A]Capopalestra Ornella
+Medaglia Pianta[0x000A]Capopalestra Amur
+Medaglia Voltaggio[0x000A]Capopalestra Lem
+Medaglia Folletto[0x000A]Capopalestra Valérie
+Medaglia Psico[0x000A]Capopalestra Astra
+Medaglia Iceberg[0x000A]Capopalestra Edel
+Capopalestra Violetta
+Capopalestra Lino
+Capopalestra Ornella
+Capopalestra Amur
+Capopalestra Lem
+Capopalestra Valérie
+Capopalestra Astra
+Capopalestra Edel

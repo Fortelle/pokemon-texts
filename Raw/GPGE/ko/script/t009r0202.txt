@@ -1,0 +1,5 @@
+msg_t009r0202_diary_01=일기: 7월 5일{0xBE01}[0x000A]정글 오지에서[0x000A]새로운 종류의 포켓몬을 발견했다
+msg_t009r0202_diary_02=일기: 7월 5일[0x000A]나는 새로 발견한 포켓몬을{0xBE00}[0x000A]뮤라고 이름 지었다
+msg_t009r0202_switch_01={0xBDFF:0x0002}
+msg_t009r0202_switch_02={0xBDFF:0x0003}
+msg_t009r0202_switch_03={0xBDFF:0x0004}

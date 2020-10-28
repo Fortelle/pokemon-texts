@@ -1,0 +1,95 @@
+Comprobando el servidor de la GTS...
+¡Se ha intercambiado el Pokémon que habías[0x000A]ofrecido!
+¡Bienvenid{0x1100,0x00FF,0x0101}oa a la GTS![0x000A]¿Qué quieres hacer?
+Buscar un Pokémon
+Dejar un Pokémon
+Ver los datos de {0x0102,0x0000}
+Salir de la GTS
+Buscar un Pokémon
+Pokémon deseado
+Sexo
+Nivel
+Buscar con estos criterios
+Opciones
+Atrás
+
+Si realizas una búsqueda por nombre, no[0x000A]puedes elegir el sexo.
+Buscando el Pokémon que quieres...
+¿Qué Pokémon estás buscando?
+Indicar nombre
+ガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッ[0x000A]
+カキクケコサシスセソタチツテトハヒフヘホハヒフヘホアイウエオツ
+アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワ
+{0x0101,0x0001}
+Elige el sexo.
+Cualquiera
+{0xFF00,0x0002}♂{0xFF00,0x0000}
+{0xFF00,0x0001}♀{0xFF00,0x0000}
+Elige el nivel.
+Cualquiera
+Del 1 al 10
+Del 11 al 20
+Del 21 al 30
+Del 31 al 40
+Del 41 al 50
+Del 51 al 60
+Del 61 al 70
+Del 71 al 80
+Del 81 al 90
+Del 91 al 100
+Elige las opciones.
+¿Deseas incluir a personas que buscan[0x000A]Pokémon especiales?
+Sí
+No
+Elige con quién quieres intercambiar Pokémon.
+Nv.
+Ampliando la búsqueda...[0x000A]Por favor, espera.
+Elige los criterios de búsqueda.
+Pokémon buscados por otros jugadores:
+Zona geográfica:
+Filtrar con estos criterios de búsqueda
+Atrás
+No se ha encontrado nada con estos criterios.
+Filtra por Pokémon deseados por los demás.
+Cualquiera
+Pokémon que ofreces
+Atrás
+Filtra por zona geográfica.
+Cualquiera
+Mi zona geográfica
+Una zona geográfica diferente
+Atrás
+{0xBDFF:0x003D}
+{0xBDFF:0x003E}
+{0xBDFF:0x003F}
+{0xBDFF:0x0040}
+{0xBDFF:0x0041}
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}
+{0xBDFF:0x0046}
+{0xBDFF:0x0047}
+{0xBDFF:0x0048}
+{0xBDFF:0x0049}
+Mensaje
+Dejarlo con estos criterios
+Atrás
+Elige el Pokémon que quieres.
+¿Quieres recuperar a {0x0102,0x0000}?
+Recuperar
+{0x0202,0x0000}
+{0x0109,0x0000}
+Se están llevando a cabo operaciones de[0x000A]mantenimiento de la GTS.
+La GTS tiene un volumen de visitas muy[0x000A]elevado en este momento.{0xBE01}[0x000A]Vuelve a intentarlo más tarde.
+No se ha podido realizar la búsqueda.
+Error de conexión.
+No se ha podido conectar con la GTS.
+Se ha interrumpido la conexión con la GTS.
+No se ha encontrado ningún resultado para[0x000A]esta búsqueda.
+No puedes dejar un Pokémon sin haber[0x000A]decidido cuál quieres tú.
+Elige el Pokémon que quieres.
+{0xBDFF:0x005B}
+Ese Pokémon ya se ha intercambiado.
+¡El Pokémon que has dejado está de vuelta!
+Este Pokémon no se puede intercambiar.

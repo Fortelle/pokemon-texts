@@ -1,0 +1,11 @@
+msg_ui_player_select_01=请选择你的照片。
+msg_ui_player_select_02=确定要用以上设定吗？
+msg_ui_player_select_03={0x0189,0x0000}
+msg_ui_player_select_04=名字
+msg_ui_player_select_yes=是
+msg_ui_player_select_no=否
+msg_ui_player_select_no_00={0xFF00,0x0006}语言一旦确定，中途无法更改。{0xFF00,0x0000}
+msg_ui_player_select_no_01={0xFF00,0x0006}选择平假名／汉字后，可以在“设置”中随时变更。{0xFF00,0x0000}
+msg_ui_player_select_10=添加完毕！
+msg_ui_player_select_20=正在记录……
+msg_ui_player_select_21=本游戏拥有自动记录功能，[0x000A]可以进行自动保存。

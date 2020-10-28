@@ -1,0 +1,29 @@
+Let’s see...[0x000A]On Route 103, I found this Pokémon...{0xBE00}[0x000A]and this one...and this one, too...
+Oh! Hey, {0x0100,0x0000}!
+What’s that? Oh! My dad gave you a Pokémon[0x000A]as a gift, huh?
+Well then, why don’t we go ahead and have a[0x000A]quick battle?{0xBE01}[0x000A]I’ll give you a taste of what being a Trainer is[0x000A]really like!
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+Wow... I think I know why my dad has his eye on[0x000A]you now.{0xBE01}[0x000A]I mean, you just got that Pokémon, and you’ve already[0x000A]got that strong of a bond.
+I bet you could probably befriend any kind of[0x000A]Pokémon you meet!
+Phew...[0x000A]I guess I’d better head back to the lab!
+OK, so it’s this one and that[0x000A]one that live on Route 103...
+Huh?{0xBE01}[0x000A]Hey, {0x0100,0x0000}!
+Ohhh. So you finally got a[0x000A]Pokémon from my dad?{0xBE01}[0x000A]Then how about a little battle?[0x000A]Since we’re here and all!
+I’m going to teach you what[0x000A]being a Trainer’s all about!
+{0xBDFF:0x000D}
+I think I know why my dad[0x000A]had his eye on you now.
+Look, you just got your Pokémon, right?[0x000A]And you already have that strong of a bond?{0xBE01}[0x000A]I get the feeling that you could befriend any[0x000A]Pokémon, {0x0100,0x0000}. No doubt.
+Well, I’ve got some good data here,[0x000A]so I guess it’s time I got back to the lab.{0xBE00}[0x000A]You should head back, too, {0x0100,0x0000}!
+“Press the Circle Pad slowly[0x000A]to sneak close to Pokémon.”{0xBE01}[0x000A]“Pokémon are less likely to find you[0x000A]while you’re sneaking up on them.”{0xBE01}[0x000A]The book Professor Birch wrote—[0x000A]“The Fieldwork 101” said so!
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+If only my Pokémon could use Surf, too,[0x000A]I could get to Mauville City in no time at all.
+If you cross the sea from here,[0x000A]it’ll be a shortcut to Oldale Town.{0xBE01}[0x000A]Fufufu, that’s useful, isn’t it?
+Route 103[0x000A]↓ Oldale Town
+It was a good battle.[0x000A]Thanks!{0xBE01}[0x000A]Let me heal up both our[0x000A]parties real quick.
+It was a good battle.[0x000A]Thanks!{0xBE01}[0x000A]Here! Lemme heal up both[0x000A]our parties real quick.
+Your team’s health was restored!

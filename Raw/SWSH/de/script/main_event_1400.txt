@@ -1,0 +1,9 @@
+main_event_1400_rival_01=Hey, {0x0100,0x0000}!{0x0114,0x0005}
+main_event_1400_rival_02=Hast du das mitbekommen?!{0x0114,0x0005}
+main_event_1400_select_01=Geht es um Delion?
+main_event_1400_select_02=Geht es um diesen Lärm?
+main_event_1400_rival_03=Genau! Erst war da dieser laute RUMMS,[0x000A]und dann ist dieses rote Licht erschienen!{0xBE01}[0x000A]Und dann, dann...{0xBE01}[0x000A]Dann hat sich plötzlich ein wildes Pokémon, das[0x000A]zufällig in der Nähe war, dynamaximiert!{0x0114,0x0005}
+main_event_1400_rival_04=Hier, schau dir die Schlagzeilen an!{0x0114,0x0005}
+main_event_1400_rival_07=Da ist Delion! Er ist einfach der Coolste...{0x0114,0x0005}
+main_event_1400_rival_05=Mein Bruder und sein Glurak haben nicht lange[0x000A]gefackelt und das dynamaximierte Pokémon{0xBE00}[0x000A]auf der Stelle aus dem Verkehr gezogen!{0x0114,0x0005}
+main_event_1400_rival_06=Da ist mir mal wieder bewusst geworden,[0x000A]wie stark mein Bruder wirklich ist... Wow...{0xBE01}[0x000A]Ich muss mit ihm reden! Soweit ich weiß, sollte er[0x000A]beim Stadion von Claw City sein. Auf geht’s!{0x0114,0x0005}

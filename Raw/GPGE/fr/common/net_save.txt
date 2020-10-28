@@ -1,0 +1,8 @@
+net_save_win_01=Sauvegarde en cours...[0x000A]Veuillez patienter.
+net_save_win_02=Attention ![0x000A][0x000A]Si une erreur de communication survient ou[0x000A]que votre console s’éteint pendant un échange,[0x000A]vous ne pourrez plus échanger de Pokémon[0x000A]pendant un certain temps.
+net_save_win_03=Communication en cours...[0x000A]Veuillez patienter.
+net_save_win_04=Voulez-vous interrompre la connexion ?
+net_save_sel_01=Oui
+net_save_sel_02=Non
+net_save_sel_03=Annuler
+net_save_win_05=L’autre joueur a choisi d’annuler l’échange.[0x000A]L’échange a donc été interrompu.

@@ -1,0 +1,6 @@
+main_event_1530_rival_01=Hey, {0x0100,0x0000}!{0x0114,0x0005}
+main_event_1530_rival_02=Wir sehen uns auf jeden Fall im letzten Kampf[0x000A]des Vorturniers!{0x0114,0x0005}
+main_event_1530_rival_03=Bei deinem Match eben wurde mir klar,[0x000A]dass ich einfach gewinnen MUSS!{0xBE01}[0x000A]Meine Pokémon stehen auch total unter Strom,[0x000A]seit sie deinen Sieg gesehen haben!{0x0114,0x0005}
+main_event_1530_staff_01=Entschuldige die Störung...
+main_event_1530_staff_02=Ich weiß, dass du gerade erst von deinem Kampf[0x000A]zurück bist, aber das Match von Hop endete{0xBE00}[0x000A]schneller als erwartet...
+main_event_1530_staff_03=Er hat einen überwältigenden Sieg errungen!{0xBE01}[0x000A]Bitte begib dich zurück auf den Kampfplatz,[0x000A]sobald du bereit bist.

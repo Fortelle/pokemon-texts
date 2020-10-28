@@ -1,0 +1,16 @@
+msg_road017_kanban_01=C’è un avviso:{0xBE01}[0x000A]“Attenzione agli strumenti abbandonati!”
+msg_road017_kanban_02=Consigli utili{0xBE01}[0x000A]Pokémon della stessa specie e di uguale livello[0x000A]possono avere statistiche diverse.{0xBE01}[0x000A]Con l’allenamento, queste differenze[0x000A]possono accentuarsi ulteriormente.
+msg_road017_kanban_03={0xBDFF:0x0002}
+msg_road017_kanban_07=Consigli utili{0xBE01}[0x000A]Per catturare un Pokémon, lancia una[0x000A]Poké Ball all’interno del cerchio colorato!{0xBE01}[0x000A]Più piccolo è il cerchio, più probabilità hai[0x000A]di effettuare un “Bel tiro” o un “Ottimo tiro”!
+msg_road017_kanban_04=Percorso 17[0x000A]Azzurropoli - Fucsiapoli
+msg_road017_kanban_05=C’è un avviso:{0xBE01}[0x000A]“Se perdi le staffe, non lanciare il gioco...![0x000A]Piuttosto, lancia un paio di Poké Ball!”
+msg_road017_kanban_06=Qui persone e Pokémon passeggiano insieme
+msg_road017_poke_01={0xFF00,0x0009}Wartortle:{0xFF00,0x0000} Tooor!
+msg_road017_poke_02={0xFF00,0x0009}Exeggutor: {0xFF00,0x0000}Exeeeg!
+msg_road017_poke_03={0xFF00,0x0009}Persian:{0xFF00,0x0000} Siaaan!
+msg_road017_poke_04={0xFF00,0x0009}Vaporeon: {0xFF00,0x0000}Vapooo!
+msg_road017_poke_05={0xFF00,0x0009}Weepinbell: {0xFF00,0x0000}Weepin!
+msg_road017_poke_06={0xFF00,0x0009}Flareon:{0xFF00,0x0000} Flaaa!
+msg_road017_poke_07={0xFF00,0x0009}Primeape: {0xFF00,0x0000}Priii!
+msg_road017_poke_08={0xFF00,0x0009}Vulpix:{0xFF00,0x0000} Piiix!
+msg_road017_poke_09={0xFF00,0x0009}Jolteon: {0xFF00,0x0000}Joool!

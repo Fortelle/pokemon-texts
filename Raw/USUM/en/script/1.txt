@@ -1,0 +1,126 @@
+Welcome to the Battle Tree. I’m the receptionist.
+How can I help you?
+What would you like to hear about?
+You can enjoy various kinds of battles with[0x000A]many different Trainers here.{0xBE01}[0x000A]You can choose either Single Battles, Double[0x000A]Battles, or Multi Battles.{0xBE01}[0x000A]You’ll be competing to see how many Trainers[0x000A]you can win your way through in a row.{0xBE01}[0x000A]If you lose even once, your win streak will[0x000A]end there. You’ll have to start over from zero,{0xBE00}[0x000A]so please be careful.{0xBE01}[0x000A]There are two courses in the Battle Tree—[0x000A]Normal Course and Super Course.{0xBE01}[0x000A]If you clear the Normal Course, the Super[0x000A]Course will become available.{0xBE01}[0x000A]Each time you defeat a Trainer you’ll receive[0x000A]Battle Points, or BP, that you can use to scout{0xBE00}[0x000A]Trainers or exchange for prizes.{0xBE01}[0x000A]The longer your win streak, the more BP[0x000A]you’ll receive.{0xBE01}[0x000A]Do your best to set an awesome record!
+There are three important points you need to[0x000A]keep in mind to battle at the Battle Tree.{0xBE01}[0x000A]First, some Pokémon are not allowed in the[0x000A]Super Course while all Pokémon are{0xBE00}[0x000A]allowed in the Normal Course. Battles in the{0xBE00}[0x000A]Super Course are held under Flat Rules.{0xBE01}[0x000A]Any Pokémon higher than Lv. 50 will have[0x000A]their level lowered to 50.{0xBE01}[0x000A]Second, you’ll need a certain number of[0x000A]Pokémon for your battles.{0xBE01}[0x000A]You’ll need three for Single Battles, four for[0x000A]Double Battles, and for Multi Battles, each{0xBE00}[0x000A]Trainer will need two.{0xBE01}[0x000A]And the last thing, you can’t use more than one[0x000A]of the same Pokémon or item in your battles.{0xBE01}[0x000A]However, if your partner in a Multi Battle has[0x000A]the same Pokémon or item as you, that’s not{0xBE00}[0x000A]a problem.
+We hope to see you again.
+Which battle format do you want?
+Your record currently stands at {0x0203,0x0001,0x002C}[0x000A]{0x1101,0x0001,0x0D03}winstraight wins, young m{0x1100,0x00FF,0x0305}asteriss {0x0100,0x0000}.
+So you want to try the[0x000A]Single Battle challenge?
+So you want to try the[0x000A]Super Single Battle challenge?
+So you want to try the[0x000A]Double Battle challenge?
+So you want to try the[0x000A]Super Double Battle challenge?
+Please choose your Pokémon for the battle.
+So you want to try the[0x000A]Multi Battle challenge?
+So you want to try the[0x000A]Super Multi Battle challenge?
+Do you want to communicate with another[0x000A]player and take this challenge together?
+You and the other player have[0x000A]chosen different battle formats.{0xBE01}[0x000A]Please discuss with the other player[0x000A]before you return.
+Please choose a Trainer[0x000A]to serve as your partner.
+All right. Let the consecutive Single Battle[0x000A]challenge begin.
+All right. Let the consecutive Super Single Battle[0x000A]challenge begin.
+All right. Let the consecutive Double Battle[0x000A]challenge begin.
+All right. Let the consecutive Super Double[0x000A]Battle challenge begin.
+All right. Let the consecutive Multi Battle[0x000A]challenge begin.
+All right. Let the consecutive Super Multi Battle[0x000A]challenge begin.
+Saving... Please wait.
+Congratulations!{0xBE01}[0x000A]You’ve spectacularly defeated a Battle Legend![0x000A]Have some Battle Points to commemorate{0xBE00}[0x000A]your accomplishment!
+Congratulations!{0xBE01}[0x000A]You’ve spectacularly defeated a real[0x000A]Battle Legend!{0xBE00}[0x000A]Have some Battle Points to commemorate{0xBE00}[0x000A]your accomplishment!
+{0x0100,0x0000} received {0x0201,0x0005} BP!
+Now you can take on the consecutive Super[0x000A]Single Battle challenge,{0xBE00}[0x000A]young m{0x1100,0x00FF,0x0305}asteriss {0x0100,0x0000}.
+Now you can take on the consecutive Super[0x000A]Double Battle challenge,{0xBE00}[0x000A]young m{0x1100,0x00FF,0x0305}asteriss {0x0100,0x0000}.
+Now you can take on the consecutive Super[0x000A]Multi Battle challenge,{0xBE00}[0x000A]young m{0x1100,0x00FF,0x0305}asteriss {0x0100,0x0000}.
+Thank you for participating.{0xBE01}[0x000A]The challenge for Single Battles has ended.{0xBE01}[0x000A]Next, please challenge Super Single Battles.
+Thank you for participating.{0xBE01}[0x000A]The challenge for Double Battles has ended.{0xBE01}[0x000A]Next, please challenge Super Double Battles.
+Thank you for participating.{0xBE01}[0x000A]The challenge for Multi Battles has ended.{0xBE01}[0x000A]Next, please challenge Super Multi Battles.
+Allow me to give you a stamp for your glorious[0x000A]achievement of a 50-win streak!
+Next is Battle No. {0x0203,0x0001,0x002C}. Would you like to[0x000A]keep battling?
+Next is Battle No. {0x0203,0x0001,0x002C}, against a Battle[0x000A]Legend. Are you ready?
+Would you like to put your challenge on hold?
+The challenge was interrupted.
+Communicating. Please stand by...
+The current music is[0x000A]{0x01C3,0x0000}. Which music{0xBE00}[0x000A]would you like?
+The music has been set.
+Battle
+Learn more
+Quit
+About the Battle Tree
+Rules of battle
+{0xBDFF:0x002F}
+Single Battle
+Super Single Battle
+Double Battle
+Super Double Battle
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+Multi Battle
+Super Multi Battle
+Continue battling
+Save record
+Take a break
+♪ “Trainer, Version 2”
+♪ “Wild Pokémon, Version 2”
+♪ “Totem Pokémon”
+♪ “Island Kahuna”
+Change music
+{0xBDFF:0x0040}
+I’m keeping records in the Battle Tree. Do you[0x000A]want to see your results?
+Which result do you want to see?
+Current record: {0x0203,0x0000,0x0000} straight win{0x1101,0x0000,0x0100}s[0x000A]Best record: {0x0203,0x0001,0x0000} straight win{0x1101,0x0001,0x0100}s
+Wireless communication is currently disabled.[0x000A]Please turn wireless communication on.
+{0xBDFF:0x0045}
+You can’t battle together with this Trainer.
+Scout
+You need 10 BP to scout a Trainer!
+You need 10 BP to scout a Trainer, is that OK?
+You’ve scouted as many Trainers as you can![0x000A]Who would you like to remove from your list?
+OK, so you’ll give up on scouting[0x000A]{0x010E,0x0000} {0x0100,0x0001}.
+OK, so you’ll scout[0x000A]{0x010E,0x0000} {0x0100,0x0001}.
+{0xBDFF:0x004D}
+Young m{0x1100,0x00FF,0x0305}asteriss {0x0100,0x0000}!{0xBE01}[0x000A]Take this as a prize for your marvelous[0x000A]achievement of a {0x0203,0x0001,0x002C}-win streak!
+And this, too!
+Now that you’ve experienced victory against so[0x000A]many stalwart Trainers, it feels like you might be{0xBE00}[0x000A]able to really nail a new battle style...
+When you participate in a Multi Battle, you can[0x000A]select a Trainer who you’ve scouted after{0xBE00}[0x000A]battling in Single Battles or Double Battles here{0xBE00}[0x000A]at the Battle Tree to be your partner.{0xBE01}[0x000A]You must defeat them before you can scout[0x000A]them, though.{0xBE01}[0x000A]Keep in mind that you can’t scout[0x000A]Battle Legends.{0xBE01}[0x000A]Try to find a partner you like!
+About scouting
+♪ “My Friend Hau, Version 1”
+♪ “Gladion”
+♪ “Team Skull”
+♪ “Team Skull Admin”
+♪ “Team Skull Boss”
+♪ “Aether Foundation”
+♪ “Lusamine, Version 1”
+♪ “Lusamine, Version 2”
+♪ “Enter the Ultra Beasts”
+♪ “Elite Four”
+♪ “League Title Defense”
+♪ “Legendary Pokémon”
+♪ “Battle Royal”
+♪ “Guardian Deity”
+♪ “Formidable Battle Legend”
+♪ “Team Rainbow Rocket”
+♪ “Giovanni”
+♪ “Maxie & Archie”
+♪ “Cyrus”
+♪ “Ghetsis”
+♪ “Leader Lysandre”
+♪ “Ultra Recon Squad”
+♪ “Necrozma, Version 1”
+♪ “Necrozma, Version 2”
+♪ “Mewtwo”
+♪ “Kanto Pokémon”
+♪ “Hoenn Pokémon”
+♪ “Hoenn Legend, Version 2”
+♪ “Hoenn Legend, Version 1”
+♪ “Ho-Oh”
+♪ “Lugia”
+♪ “Johto Legend”
+♪ “Sinnoh Legend, Version 2”
+♪ “Sinnoh Legend, Version 3”
+♪ “Sinnoh Legend, Version 1”
+♪ “Giratina”
+♪ “Unova Legend, Version 1”
+♪ “Unova Legend, Version 2”
+♪ “Kalos Legend”
+♪ “Trainer, Version 1”
+♪ “Wild Pokémon, Version 1”
+♪ “My Friend Hau, Version 2”
+{0xBDFF:0x007D}

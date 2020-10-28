@@ -1,0 +1,17 @@
+msg_sub015_partner_a_01=皮——卡——！
+msg_sub015_partner_b_01=布——伊——！
+msg_sub015_system_01={0x0102,0x0003}正在欢闹！
+msg_sub015_system_02={0x0102,0x0003}似乎[0x000A]想看看船的前面！
+msg_sub015_partner_a_02=皮卡皮～！
+msg_sub015_partner_b_02=伊～布！
+msg_sub015_partner_a_03=皮～～
+msg_sub015_partner_b_03=布伊～～
+msg_sub015_system_03={0x0100,0x0000}和{0x0102,0x0003}[0x000A]一起向无垠的大海眺望！
+msg_sub015_system_04={0x0102,0x0003}看上去开心极了！
+msg_sub015_angler_01={0xBDFF:0x000A}
+msg_sub015_angler_02={0xBDFF:0x000B}
+msg_sub015_sys_01={0xBDFF:0x000C}
+msg_sub015_angler_03={0xBDFF:0x000D}
+msg_sub015_angler_04={0xBDFF:0x000E}
+msg_sub015_angler_05={0xBDFF:0x000F}
+msg_fishing1_01_p07_t006_r0101={0xBDFF:0x0010}

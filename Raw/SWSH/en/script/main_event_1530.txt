@@ -1,0 +1,6 @@
+main_event_1530_rival_01={0x1003}{0x0100,0x0000}!{0x0114,0x0005}
+main_event_1530_rival_02=I’ll be waiting for you in the final match!{0x0114,0x0005}
+main_event_1530_rival_03=After seeing the way you battled, I can’t accept[0x000A]any outcome besides winning this match!{0xBE01}[0x000A]My team is on fire!{0x0114,0x0005}
+main_event_1530_staff_01=Pardon me...
+main_event_1530_staff_02=I know you didn’t get a long break, but the match[0x000A]before yours ended more quickly than expected...
+main_event_1530_staff_03=Challenger Hop won quite handily, so as soon as[0x000A]you’re ready, we’d like you back on the pitch.

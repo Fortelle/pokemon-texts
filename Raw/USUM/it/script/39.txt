@@ -1,0 +1,17 @@
+Allora, quale preferisci?{0x0114,0x0005}
+Rowlet! Vola senza fare il minimo rumore e[0x000A]coglie il nemico di sorpresa!{0x0114,0x0005}
+Litten! Usa mosse di tipo Fuoco, ma non perde[0x000A]mai il suo sangue freddo!{0x0114,0x0005}
+Popplio! È estremamente determinato e[0x000A]infaticabile! La sua specialità è creare palloncini.{0x0114,0x0005}
+Rooowl!
+Liiit?
+Pop pop...
+Vuoi scegliere il Pokémon di tipo Erba[0x000A]{0x0101,0x0001}?{0x0114,0x0005}
+Vuoi scegliere il Pokémon di tipo Fuoco[0x000A]{0x0101,0x0002}?{0x0114,0x0005}
+Vuoi scegliere il Pokémon di tipo Acqua[0x000A]{0x0101,0x0003}?{0x0114,0x0005}
+Hai scelto {0x0101,0x0000}!
+{0xBDFF:0x000B}
+Ti capisco... È stata un’ardua decisione anche[0x000A]per me, all’epoca! Eh eh!{0x0114,0x0005}
+{0xBDFF:0x000D}
+Rowlet
+Litten
+Popplio

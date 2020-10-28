@@ -1,0 +1,11 @@
+{0x0100,0x0000}...{0x0114,0x000D}
+Ci siamo...{0x0114,0x000D}
+Come ben sai, una volta attraversate le colonne[0x000A]del Capitano, devi affrontare la prova!{0x0114,0x000D}
+Dovrai sconfiggere il Pokémon dominante noto[0x000A]come “Demone del mare”!{0x0114,0x000D}
+Vedi quegli spruzzi laggiù?[0x000A]Lì forse ti aspetta il Pokémon dominante.{0xBE01}[0x000A]Potrebbero esserci anche degli altri Wishiwashi[0x000A]decisi a prendersi la rivincita!{0xBE01}[0x000A]Vai e sconfiggili tutti![0x000A]Mostrami quanto vali!{0x0114,0x000D}
+Conosci le regole: non potrai catturare Pokémon[0x000A]finché non avrai superato la prova.{0xBE01}[0x000A]Ora iniziamo!{0x0114,0x000D}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+Mostrami quanto vali!{0xBE01}[0x000A]Sconfiggi il Pokémon dominante che si nasconde[0x000A]sott’acqua e causa tutti quegli spruzzi!{0xBE01}[0x000A]Qualche consiglio: usa mosse di tipo Erba[0x000A]ed Elettro. Sono le più efficaci.{0xBE01}[0x000A]Oppure sfrutta strumenti come la Dif. Speciale X[0x000A]o il Supercolpo.{0xBE01}[0x000A]Ad ogni modo, fai attenzione![0x000A]Coi Pokémon dominanti non c’è da scherzare!{0x0114,0x000D}
+{0x0100,0x0000}!{0xBE01}[0x000A]Te la senti di affrontare la mia prova?{0x0114,0x000D}

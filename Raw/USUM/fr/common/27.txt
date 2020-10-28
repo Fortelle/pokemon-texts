@@ -1,0 +1,52 @@
+Lecture de la carte SD en cours...[0x000A]Veuillez patienter.
+Espace libre insuffisant sur la carte SD.[0x000A]Supprimez des données pour libérer de l’espace.{0xBE01}
+Espace sur l’appareil photo Nintendo 3DS[0x000A]insuffisant.{0xBE00}[0x000A]Impossible de sauvegarder d’autres photos.{0xBE01}[0x000A]Supprimez des photos sur votre Nintendo 3DS[0x000A]pour libérer de l’espace.{0xBE01}
+Une erreur s’est produite sur l’appareil photo[0x000A]Nintendo 3DS.{0xBE01}
+Des données sur votre carte SD étaient[0x000A]corrompues et ont été supprimées.{0xBE01}
+Espace libre insuffisant sur la carte SD.{0xBE01}[0x000A]Supprimez des données sur la carte SD de[0x000A]votre Nintendo 3DS pour libérer de l’espace.{0xBE01}
+Vous pouvez encore sauvegarder {0x0200,0x0000} photo{0x1101,0x0000,0x0100}s[0x000A]supplémentaire{0x1101,0x0000,0x0100}s au Studio Photo d’Alola.{0xBE01}
+Vous ne pouvez sauvegarder davantage[0x000A]de photos au Studio Photo d’Alola.{0xBE01}[0x000A]Libérez de l’espace en supprimant les photos[0x000A]dont vous n’avez pas besoin dans{0xBE00}[0x000A]«[0xE07F]Mon Album[0xE07F]».{0xBE01}
+Sauvegarde sur la carte SD en cours...[0x000A]N’éteignez pas votre console.
+Vous ne pouvez ajouter davantage[0x000A]d’autocollants sur la photo.{0xBE01}[0x000A]Supprimez un autocollant pour pouvoir[0x000A]en ajouter un autre.{0xBE01}
+Espace sur l’appareil photo Nintendo 3DS[0x000A]insuffisant.{0xBE00}[0x000A]Impossible de sauvegarder d’autres photos.{0xBE01}[0x000A]Supprimez des photos sur votre Nintendo 3DS[0x000A]pour libérer de l’espace.{0xBE01}
+Espace libre insuffisant sur la carte SD.{0xBE01}[0x000A]Supprimez des données sur la carte SD de[0x000A]votre Nintendo 3DS pour libérer de l’espace.{0xBE01}
+Les données ont été sauvegardées sur la carte[0x000A]SD.{0xBE01}
+Voulez-vous sauvegarder la photo[0xE07F]?
+La photo précédente va être supprimée.[0x000A]Continuer[0xE07F]?
+Vous ne pouvez sauvegarder davantage[0x000A]de photos dans «[0xE07F]Mon Album[0xE07F]».{0xBE01}[0x000A]Sélectionnez Écraser pour enregistrer[0x000A]une photo à la place d’une autre.{0xBE01}
+La photo éditée ne sera pas sauvegardée.[0x000A]Continuer[0xE07F]?
+Écraser
+Sauvegarder une copie
+Ne pas sauvegarder
+Retour
+Oui
+Non
+Ici, vous pouvez personnaliser vos photos[0x000A]en les décorant.
+Pour afficher les autocollants, touchez les[0x000A]catégories sur l’écran inférieur.
+Touchez l’un des autocollants affichés et[0x000A]faites-le glisser sur la photo pour le coller.
+Pour changer la position d’un autocollant,[0x000A]faites-le glisser sur la photo.
+Pour supprimer un autocollant, touchez-le et[0x000A]faites-le glisser sur l’icône en forme de poubelle[0x000A]qui apparaît à l’écran.
+Lorsque le résultat vous satisfait, appuyez sur[0x000A]le bouton A pour sauvegarder la photo.[0x000A][0x000A]{0xFF00,0x0001}Attention : Vous ne pourrez plus éditer la photo[0x000A]une fois que vous l’aurez sauvegardée.{0xFF00,0x0000}
+fs_deco_info_07
+fs_deco_info_08
+fs_deco_info_09
+fs_deco_info_10
+fs_deco_info_11
+fs_deco_info_12
+fs_deco_info_13
+fs_deco_info_14
+fs_deco_info_15
+fs_deco_info_16
+fs_deco_info_17
+fs_deco_info_18
+fs_deco_info_19
+fs_deco_info_20
+fs_deco_info_21
+fs_deco_info_22
+fs_deco_info_23
+fs_deco_info_24
+fs_deco_info_25
+{0x0200,0x0000}
+/
+Annuler
+Vous n’avez rien modifié sur cette photo.[0x000A]Annuler l’édition[0xE07F]?

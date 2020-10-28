@@ -1,0 +1,14 @@
+It's a Vending Machine. Which drink would you like?
+Clunk!
+A bottle of <var> dropped down.
+Score! You got a bonus drink! An extra bottle of <var> dropped down.
+You don't have enough money!
+Naw...never mind!
+Would you like to buy another one?
+
+Score big time! Another bottle of <var> dropped down.
+Fresh Water $<var>
+Soda Pop $<var>
+Lemonade $<var>
+Cancel
+You can't take any more of this item.

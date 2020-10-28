@@ -1,0 +1,56 @@
+Na, wie sieht’s aus, {0x0100,0x0000}?[0x000A]Auf dem Weg zum Champ?
+Wassili, der Arenaleiter von Xeneroville, ist ein[0x000A]Meister auf dem Gebiet der Wasser-Pokémon.{0xBE01}[0x000A]Wer zu ihm gelangen möchte, wird auf gefrorenem[0x000A]Boden ins Rutschen kommen.
+Und ich hätte da noch einen nützlichen Tipp[0x000A]für dich, aber du musst mir versprechen,{0xBE00}[0x000A]das nicht gleich an die große Glocke zu hängen!{0xBE01}[0x000A]Versuche, dir einen Weg zu bahnen, ohne die[0x000A]zugefrorenen und recht spröden Bodenplatten{0xBE00}[0x000A]dabei mehr als ein Mal zu betreten.{0xBE01}[0x000A]Darin besteht nämlich die ganze Kunst!
+Hui! Es heißt, Wassili sei der stärkste Arenaleiter[0x000A]ganz Hoenns. Und du hast ihn besiegt!{0xBE01}[0x000A]Okay! Wirf mal einen Blick auf deinen Trainerpass.{0xBE01}[0x000A]Wenn du alle Orden erhalten hast, kannst du[0x000A]dein Glück in der Pokémon Liga versuchen.
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+{0xBDFF:0x001A}
+{0xBDFF:0x001B}
+Erlaube mir, dass ich mich dir erneut vorstelle!
+Ich heiße Wassili und bin der Arenaleiter von Xeneroville.
+Irgendetwas an deiner Ausstrahlung ist anders als zuvor,[0x000A]aber ich kann nicht erklären, was...
+Das ist zumindest mein Eindruck.
+Ich frage mich, was sich in der Urzeithöhle ereignet hat,[0x000A]und welche Rolle du dabei gespielt hast...{0xBE01}[0x000A]Vielleicht wird mir unser bevorstehender Kampf[0x000A]etwas mehr Aufschluss darüber geben.
+Also dann![0x000A]Zeig mir, wozu du und dein Team fähig seid!
+Im Gegenzug wirst du Augenzeuge...
+...der einmaligen Wasser-Illusionen von mir...
+...und meinen Pokémon!
+{0xBDFF:0x0025}
+Du hast mir auf eindrucksvolle Weise vor Augen geführt,[0x000A]was für ein hervorragender Pokémon-Trainer du bist.
+Ich bin froh, dass ich die Bekanntschaft[0x000A]von dir und deinem Team machen durfte!
+Du bist {0x1100,0x00FF,0x1513,0x0000}ein würdiger Trägereine würdige Trägerin des Schauerordens!
+Hier bitte, nimm ihn an dich!
+{0x0100,0x0000} erhält den Schauerorden[0x000A]von Wassili!
+Mit dem Schauerorden gehorchen dir alle Pokémon.
+Ach, und nimm auch dies als[0x000A]Andenken an unseren Kampf!
+Hier, bitte sehr!
+Bei der VM-Attacke Kaskade donnert der Anwender[0x000A]mit der Wucht eines Wasserfalls in seinen Gegner.{0xBE01}[0x000A]Sie ist also sehr mächtig – aber auch elegant!{0xBE01}[0x000A]Denn manchmal lässt sie das Ziel dazu[0x000A]noch zurückschrecken!
+Nun, da dir der Schauerorden verliehen wurde,[0x000A]kannst du mit Kaskade außerdem auch tosende{0xBE00}[0x000A]Wasserfälle erklimmen!
+Und jetzt gabelt sich vor dir der Weg. Du selbst[0x000A]musst entscheiden, welche Richtung du einschlägst.
+Du könntest zum Beispiel dein Glück[0x000A]in der Pokémon Liga versuchen.{0xBE01}[0x000A]Wenn du alle Orden der Hoenn-Region gesammelt hast,[0x000A]wird dich dein Weg früher oder später dorthin führen.{0xBE01}[0x000A]Wenn dies dein Wunsch ist, nimm Kurs auf die Insel[0x000A]{0xFF00,0x0002}Prachtpolis{0xFF00,0x0000} am östlichen Rand der Hoenn-Region.
+Oder aber du versuchst, so vielen Pokémon wie möglich[0x000A]zu begegnen, um deinen Pokédex zu vervollständigen.{0xBE01}[0x000A]Gerüchten zufolge hat Professor Birk aus {0xFF00,0x0002}Wurzelheim{0xFF00,0x0000}[0x000A]ein Update für den Pokédex vorbereitet.{0xBE01}[0x000A]Wenn du ihm einen Besuch abstattest, gewinnt deine[0x000A]Suche nach neuen Pokémon sicher neue Dimensionen.{0xBE01}[0x000A]Aber egal, welchen Weg du auch einschlägst,[0x000A]ich hoffe von ganzem Herzen, dass er dich{0xBE00}[0x000A]in eine strahlende Zukunft führen wird!
+{0xBDFF:0x0033}
+{0xBDFF:0x0034}
+Pokémon-Arena von Xeneroville{0xBE01}[0x000A]Von Wassili anerkannte Trainer:[0x000A]Heiko
+Pokémon-Arena von Xeneroville{0xBE01}[0x000A]Von Wassili anerkannte Trainer:[0x000A]Heiko{0xBE00}[0x000A]{0x0100,0x0000}
+Du hast Troy also endlich übertroffen...{0xBE01}[0x000A]Ich suche nach Worten, um dich, den größten aller[0x000A]Trainer der Hoenn-Region, gebührend zu ehren...{0xBE00}[0x000A]Doch ich bin einfach sprachlos!{0xBE01}[0x000A]Ich freue mich bereits auf unseren nächsten Kampf!

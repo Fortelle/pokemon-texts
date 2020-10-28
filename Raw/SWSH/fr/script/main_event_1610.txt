@@ -1,0 +1,17 @@
+main_event_1610_rival_01=L’ascenseur le plus long du monde...{0x0114,0x0005}
+main_event_1610_rival_02=Euh... Pourquoi on s’arrête ?[0x000A]On est pas encore arrivés au sommet...{0x0114,0x0005}
+main_event_1610_stuff1_01=Vous êtes des Challengers, n’est-ce pas ?{0xBE01}[0x000A]Nous vous remercions pour votre participation[0x000A]au Défi des Arènes de la Ligue de Galar !{0xBE01}[0x000A]Cela étant dit, la possession de Badges[0x000A]ne vous donne en aucun cas le droit d’être ici...{0xBE00}[0x000A]Alors du balai, les mômes !
+main_event_1610_stuff2_01=Nos ascenseurs sont tellement high-tech[0x000A]qu’on peut même y faire des combats Pokémon !{0xBE01}[0x000A]Merci, Macro Cosmos Construction !
+main_event_1610_stuff1_02=Bon, vu qu’on a perdu, vous pouvez rester ici,[0x000A]mais promettez-nous de ne pas déranger{0xBE00}[0x000A]monsieur Shehroz. Il a beaucoup de travail !
+main_event_1610_stuff2_02=Les ascenseurs de la tour ne sont en fait[0x000A]que des plateformes sans parois qui montent{0xBE00}[0x000A]et qui descendent.{0xBE01}[0x000A]Et pour éviter les accidents, elles sont entourées[0x000A]de murs de lumière.{0xBE00}[0x000A]Ils sont forts, chez Macro Cosmos Construction !
+main_event_1610_rival_03=Les employés de la tour peuvent arrêter[0x000A]l’ascenseur quand ils veulent ?{0xBE01}[0x000A]Pfff... On va mettre des semaines à atteindre[0x000A]le sommet, à ce rythme !{0x0114,0x0005}
+main_event_1610_rival_05=Nos équipes en ont bien bavé...[0x000A]Je vais les soigner !{0x0114,0x0005}
+main_event_1610_stuff3_01=La Shehroz Tower fait 300 mètres de haut.[0x000A]Vous êtes actuellement à 150 mètres du sommet.
+main_event_1610_stuff4_01=Bonjour ! Je représente Macro Cosmos Assurances.[0x000A]Connaissez-vous nos assurances vie ?
+main_event_1610_stuff3_02=En vrai, j’ai un peu le vertige...
+main_event_1610_stuff4_02=J’aurais dû prendre une assurance défaite...
+main_event_1610_stuff5_01=Vous êtes très proches du sommet... Mais votre[0x000A]petite vadrouille s’arrête ici ! Dommage !
+main_event_1610_stuff6_01=Le vertige ? Connais pas ! L’altitude, c’est[0x000A]mon dada ! Je bosse pour Macro Cosmos Air !
+main_event_1610_stuff5_02=Vous vous prenez pour qui, à vouloir débarquer[0x000A]dans le bureau du président sans rendez-vous ?
+main_event_1610_stuff6_02=Seuls les cadres sont autorisés dans[0x000A]les étages supérieurs de la tour !{0xBE01}[0x000A]Et seul le président Shehroz et son assistante[0x000A]ont le droit d’accéder au sommet !
+main_event_1610_rival_04=On y est presque ![0x000A]Courage !{0x0114,0x0005}

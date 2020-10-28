@@ -1,0 +1,4 @@
+msg_t011r0403_staffm_01_01=I work for Silph Co.[0x000A]What am I to do?
+msg_t011r0403_staffm_01_02={0x0100,0x0000}![0x000A]You and your Pokémon saved us!
+msg_t011r0403_kanban_01=“Silph Co. Head Office[0x000A]3F”
+msg_t011r0403_rocketm_01_01=What?! What’s going on?{0xBE01}[0x000A]First that kid who was annoyingly strong[0x000A]and now you?!{0xBE01}[0x000A]Why are kids allowed in here?

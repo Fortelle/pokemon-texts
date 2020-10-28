@@ -1,0 +1,16 @@
+If you wish, I can teach your Pokémon[0x000A]the strongest Dragon-type move.{0xBE01}[0x000A]Would you like your Pokémon to learn that move?
+Understood.[0x000A]Come again if you change your mind.
+Hmm...{0xBE01}[0x000A]This Pokémon can learn this move, but[0x000A]your bond of friendship is not yet{0xBE00}[0x000A]strong enough.{0xBE01}[0x000A]That means I cannot teach it this move.
+I see...{0xBE01}[0x000A]But there are no Pokémon with[0x000A]you right now that can learn this move.
+Which Pokémon should[0x000A]learn this move?
+I’m very sorry, but...{0xBE01}[0x000A]This Pokémon cannot learn this move.
+That’s an interesting request, but...[0x000A]Not even I can teach a move to an Egg.
+Hmm... It looks like this Pokémon[0x000A]already knows {0x0107,0x0001}.
+Draco Meteor’s power is[0x000A]exceptional, but using it lowers{0xBE00}[0x000A]the user’s Sp. Atk stat.
+Give up trying to make[0x000A]{0x0101,0x0000} learn a move?
+{0x0101,0x0000} learned[0x000A]{0x0107,0x0001}!
+{0x0101,0x0000} is trying to[0x000A]learn {0x0107,0x0001}!{0xBE01}[0x000A]But {0x0101,0x0000} can’t learn more than four[0x000A]moves.{0xBE01}[0x000A]Delete a move to make room for[0x000A]{0x0107,0x0001}?
+Give up on learning the move[0x000A]{0x0107,0x0001}?
+{0x0101,0x0000} did not learn[0x000A]{0x0107,0x0001}!
+Is it OK to forget the[0x000A]move {0x0107,0x0002}?
+1, {0xBE02:0x0014}2, and{0xBE02:0x0014}... {0xBE02:0x0014}... {0xBE02:0x0014}... Ta-da!{0xBE05,0x0003}{0xBE05,0x0006}{0xBE01}[0x000A]{0x0102,0x0000} forgot how to[0x000A]use {0x0107,0x0002}.{0xBE01}[0x000A]And...

@@ -1,0 +1,4 @@
+msg_main0760_rival_01={0x01CD,0x0001}: Ah! {0x0100,0x0000}![0x000A]Nice timing!{0xBE01}[0x000A]You caught most of that, right?[0x000A]What d’you say? You wanna come with me?
+msg_main0760_rival_02=Th-thanks, pal! It’ll be a big relief to have you![0x000A]I’ll just let you lead the way, OK?
+msg_main0760_rival_03=Right...[0x000A]Then I’ll just wait till you say you’re ready!
+msg_main0760_rival_04={0x01CD,0x0001}: Ready when you are!{0xBE01}[0x000A]I’ll be right behind you, so don’t worry.[0x000A]I’ve got your back.

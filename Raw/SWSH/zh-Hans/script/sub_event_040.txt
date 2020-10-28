@@ -1,0 +1,10 @@
+sub_event_040_null_01=姆咕！
+sub_event_040_leaguestaff_F_01=电子存储碟……启动！[0x000A]帮我……节约电费吧！
+sub_event_040_null_02=咕姆……？
+sub_event_040_leaguestaff_F_07=果然不让属性：空进化，[0x000A]存储碟就没效果啊……
+sub_event_040_leaguestaff_F_02=啊，是冠军{0x0100,0x0000}。[0x000A]再次恭喜你夺冠！
+sub_event_040_leaguestaff_F_03=让我为你送上这只罕见的宝可梦——[0x000A]属性：空，以示庆祝！
+sub_event_040_leaguestaff_F_04=还有，也请你收下这些存储碟。
+sub_event_040_system_01={0x0100,0x0000}获得了各种存储碟。
+sub_event_040_leaguestaff_F_05=属性：空进化后[0x000A]会通过所装备的存储碟{0xBE00}[0x000A]改变自己的属性。
+sub_event_040_leaguestaff_F_06=啊，是冠军！[0x000A]属性：空它还好吗？

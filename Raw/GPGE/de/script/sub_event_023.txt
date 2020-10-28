@@ -1,0 +1,14 @@
+msg_sub023_karate_01_01=Willkommen im Kampf-Dojo.{0xBE01}[0x000A]Ich bin der Karate-Meister und zuständig für die[0x000A]Ausbildung der Schüler, haiyaaah!
+msg_sub023_karate_01_09=Wenn du nach einer Herausforderung für Körper[0x000A]und Geist suchst, bist du hier an der richtigen{0xBE00}[0x000A]Adresse!{0xBE01}[0x000A]Du kannst dir sicher sein, dass ich mich unter[0x000A]keinen Umständen zurückhalte.
+msg_sub023_karate_01_10=Haiyaaah!
+msg_sub023_karate_01_02=Ich bin dir eindeutig unterlegen...
+msg_sub023_karate_01_07=Doch ich flehe dich an, das Emblem unseres[0x000A]Kampf-Dojos nicht als Trophäe mitzunehmen!
+msg_sub023_karate_01_08=Stattdessen biete ich dir eines meiner[0x000A]wertvollen Kampf-Pokémon an.
+msg_sub023_karate_01_06=Bitte! Du darfst auch völlig frei wählen!
+msg_sub023_karate_01_03=Warum bleibst du nicht eine Weile hier und[0x000A]trainierst Karate mit uns?
+msg_sub023_karate_01_04=Haiyaaah! Du entscheidest dich für Kicklee,[0x000A]das trittstarke Pokémon?
+msg_sub023_sys_01_01=Du erhältst {0x0101,0x0004} vom Karate-Meister!
+msg_sub023_karate_01_05=Haiyaaah! Du entscheidest dich für Nockchan,[0x000A]den Meister des Boxkampfs?
+msg_sub023_sys_01_02=Jetzt nur nicht gierig werden...
+msg_sub023_poke_01_01={0xFF00,0x0009}Kicklee: {0xFF00,0x0000}Kiiick!
+msg_sub023_poke_02_01={0xFF00,0x0009}Nockchan: {0xFF00,0x0000}Nooock!

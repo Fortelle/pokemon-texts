@@ -1,0 +1,16 @@
+msg_main8020_volt_01=Welcome to 枯叶道馆！
+msg_main8020_volt_07=嗨！Baby！[0x000A]You就是challenger吗？
+msg_main8020_volt_08=哈哈～！[0x000A]就凭you那一点点的power，{0xBE01}[0x000A]居然想向me发起挑战，[0x000A]Very有胆量啊！
+msg_main8020_volt_09=宝可梦对战[0x000A]可没有那么easy～！
+msg_main8020_volt_10=Me可以让everyone[0x000A]浑身麻麻的feel！
+msg_gymleader_03_07={0xBDFF:0x0005}
+msg_main8020_volt_02=OK！[0x000A]橙色徽章就给you了！
+msg_main8020_sys_01={0x0100,0x0000}从马志士那里[0x000A]得到了{0xFF00,0x0006}橙色徽章{0xFF00,0x0000}！
+msg_main8020_volt_03=And！{0xBE01}[0x000A]给拥有special实力的you，[0x000A]这是me的一点心意！
+msg_main8020_sys_02={0x0100,0x0000}从马志士那里[0x000A]得到了{0xFF00,0x0006}马志士的签名{0xFF00,0x0000}！
+msg_main8020_volt_04=………………
+msg_main8020_volt_11=哈哈哈！不用worry！[0x000A]这个当然也会送给you！
+msg_main8020_sys_03={0x0100,0x0000}从马志士那里[0x000A]得到了{0x0109,0x0001}{0xBE00}[0x000A]“{0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000}”！
+msg_main8020_volt_05=招式学习器36是[0x000A]电属性麻麻十万伏特！{0xBE01}[0x000A]Please教给electric宝可梦噢！
+msg_main8020_volt_06=Hey！[0x000A]还要给you一个小建议！{0xBE01}[0x000A]Electric power[0x000A]麻麻的很强力～！{0xBE01}[0x000A]不过面对地面属性时，[0x000A]Power会被吸收走，{0xBE00}[0x000A]完全useless唷～！
+msg_gymleader_03_06={0xBDFF:0x000F}

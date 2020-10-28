@@ -1,0 +1,7 @@
+book_event_01_01={0xBDFF:0x0000}
+book_event_test_01={0xBDFF:0x0001}
+msg_shelf_f0102i0104_01={0xBDFF:0x0002}
+msg_shelf_f0102i0105_01={0xBDFF:0x0003}
+msg_shelf_f0102i0107_01={0xBDFF:0x0004}
+msg_shelf_f0102r0605_01={0xBDFF:0x0005}
+msg_shelf_f0102r0605_02={0xBDFF:0x0006}

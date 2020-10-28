@@ -1,0 +1,17 @@
+msg_main0910_rocketchief_01=アポロ『おまえはッ……！
+msg_main0910_rocketf_01=したっぱ『アポロさま[0x000A]誰ですか？　その子？
+msg_main0910_rival_01={0x0100,0x0001}『{0x0100,0x0000}[0x000A]誰なんだ？　その人？
+msg_main0910_rocketf_02={0xBDFF:0x0003}
+msg_main0910_rival_02={0xBDFF:0x0004}
+msg_main0910_rocketchief_02=アポロ『おろか　にも[0x000A]我々の　邪魔を　する{0xBE00}[0x000A]優秀な　お子様ですよ
+msg_main0910_rival_03={0x0100,0x0001}『……だったら[0x000A]オレたちに　とっては{0xBE00}[0x000A]あっちが　邪魔者　ってこと？
+msg_main0910_rocketf_03=したっぱ『ちょっと　アンタ！[0x000A]アポロ様が　邪魔者　ですって！{0xBE00}[0x000A]つねって　泣かされ　たいの！？
+msg_main0910_rocketchief_03=アポロ『落ち着きなさい{0xBE01}[0x000A]こういう　輩には[0x000A]こうやって　思い知らせる　のです
+msg_main0910_dummy_01={0xBDFF:0x0009}
+msg_main0910_dummy_02={0xBDFF:0x000A}
+msg_main0910_rocketchief_04=アポロ『この間　勝ったのは[0x000A]まぐれでは　なかったと……{0xBE01}[0x000A]よく　分かりました[0x000A]おまえたち　には　もっと{0xBE00}[0x000A]気を　つける　ことに　しましょう
+msg_main0910_rocketf_04=したっぱ『どいてよ！
+msg_main0910_rival_04={0x0100,0x0001}『いってッ！
+msg_main0910_rival_05=あ！　あの　したっぱ[0x000A]こんなの　落としたぜ！
+msg_main0910_sys_01={0x0100,0x0000}は　{0x0100,0x0001}から[0x000A]{0xFF00,0x0006}カードキー{0xFF00,0x0000}を　受け取った！
+msg_main0910_rival_06={0x0100,0x0001}『シルフを　助けるまで[0x000A]ちょっと　借りて　おこうぜ！

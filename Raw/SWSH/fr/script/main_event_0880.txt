@@ -1,0 +1,9 @@
+main_event_0880_champion_01={0x0100,0x0000} ![0x000A]Ta collecte de Badges avance bien !{0x0114,0x0004}
+main_event_0880_champion_02=Mais dis-moi, je suis inquiet...[0x000A]Qu’est-ce qu’il a, Nabil ? Quand il m’a vu,{0xBE00}[0x000A]il s’est excusé et il a disparu... Mais pourquoi ?{0xBE01}[0x000A]Il a toujours eu horreur d’admettre qu’il était[0x000A]en tort ou qu’il avait fait des bêtises quand{0xBE00}[0x000A]il était petit, ça ne lui ressemble pas...{0x0114,0x0004}
+main_event_0880_champion_03=Est-ce qu’il aurait un coup de déprime[0x000A]à cause d’une défaite ?{0x0114,0x0004}
+main_event_0880_select_01=Il a perdu face à Travis...
+main_event_0880_select_02=Je pense, oui...
+main_event_0880_champion_04=OK, je vois... C’est plutôt bon signe, ça montre[0x000A]que les combats lui tiennent réellement à cœur !{0xBE01}[0x000A]Il deviendra un grand Dresseur, le p’tit frère,[0x000A]c’est clair !{0x0114,0x0004}
+main_event_0880_champion_05=Je compte sur toi, s{0x1100,0x00FF,0x0808}on rivala rivale, pour l’aider[0x000A]à surmonter cette passe difficile !{0x0114,0x0004}
+main_event_0880_champion_06=Bon, c’est pas tout, mais j’ai rendez-vous[0x000A]avec le président de la Ligue.{0xBE01}[0x000A]J’ai pas vraiment envie de me faire crier dessus[0x000A]par son assistante à cause d’un retard,{0xBE00}[0x000A]donc je file !{0xBE01}[0x000A]...[0x000A]C’est par où, déjà... ?{0x0114,0x0004}
+main_event_0880_champion_07=Ah, d’ailleurs ! Puisque tu es là, tu devrais[0x000A]en profiter pour rencontrer Roy, mon meilleur{0xBE00}[0x000A]ennemi ! C’est lui le boss final du Défi des Arènes.{0xBE01}[0x000A]Tu devrais le trouver dans la salle des reliques,[0x000A]près de l’entrée de la Route 6.{0x0114,0x0004}

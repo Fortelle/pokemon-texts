@@ -1,0 +1,7 @@
+msg_t011r0401_stafff_01={0xFF00,0x0009}Receptionist:{0xFF00,0x0000} Eccoti qui!{0xBE01}[0x000A]Cerchi il presidente?[0x000A]Al momento è nel suo ufficio, al 10º piano!
+msg_t011r0401_kanban_01=Sede della Silph S.p.A.[0x000A]Piano terra
+msg_t011r0401_staffm_01=Ho sentito che sono stati dei ragazzini[0x000A]a sconfiggere il Team Rocket!{0xBE00}[0x000A]Anche tu sei un{0x1100,0x00FF,0x0100}a ragazzin{0x1100,0x00FF,0x0101}oa... Non è che...{0xBE01}[0x000A]Ma no! Ah ah ah! Non può essere!
+msg_t011r0401_staffm_02=Un oggetto può essere usato per fare del bene[0x000A]o del male... Dipende tutto da chi lo usa!{0xBE01}[0x000A]Se penso alle invenzioni della Silph[0x000A]in mano al Team Rocket, mi vengono i brividi...
+msg_t011r0401_staffm_03=Rimango un giorno a casa da lavoro e una banda[0x000A]di criminali si impossessa dell’azienda!{0xBE01}[0x000A]Pazzesco, eh?
+msg_t011r0401_stafff_02=Dobbiamo impegnarci e recuperare tutto[0x000A]il tempo perso per colpa del Team Rocket!
+msg_t011r0401_stafff_03=Il Team Rocket mi ha presa come ostaggio![0x000A]Chissà se la nostra assicurazione copre{0xBE00}[0x000A]anche cose del genere...

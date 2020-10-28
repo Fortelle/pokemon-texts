@@ -1,0 +1,11 @@
+msg_main0120_sister_01={0x0100,0x0000}!
+msg_main0120_sister_08=Tu e {0x0101,0x0002} sembrate già due[0x000A]compagni affiatatissimi!
+msg_main0120_sister_09=Ho il regalo perfetto per due tipi come voi!
+msg_main0120_sister_02={0x0100,0x0000}!
+msg_main0120_sister_03={0x0100,0x0000} riceve il {0xFF00,0x0006}completo sportivo{0xFF00,0x0000}!
+msg_main0120_sister_10={0x0100,0x0000} ripone il {0xFF00,0x0006}completo sportivo{0xFF00,0x0000}[0x000A]nella Valigia vestiti!
+msg_woman1_01_p04_t001_r0201={0xBDFF:0x0006}
+msg_main0120_sister_04=Fallo indossare a {0x0101,0x0002}, così potrete[0x000A]partire all’avventura con dei vestiti abbinati!
+msg_main0120_sister_06=Oh...?
+msg_main0120_sister_05=Uh uh uh! Sembra proprio che il tuo[0x000A]{0x0101,0x0002} abbia voglia di giocare con te!{0xBE01}[0x000A]Non dimenticarti di coccolarlo un po’,[0x000A]ogni tanto!
+msg_main0120_sister_07=Se adesso apri il {0xFF00,0x0006}menu{0xFF00,0x0000}, vedrai una nuova icona,[0x000A]“{0xFF00,0x0006}Gioca con {0x0102,0x0003}{0xFF00,0x0000}”!{0xBE01}[0x000A]Selezionala per giocare con {0x0102,0x0003}[0x000A]ogni volta che vuoi!

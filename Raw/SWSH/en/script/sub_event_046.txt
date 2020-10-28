@@ -1,0 +1,5 @@
+sub_event_046_npc_01=Oh... Champion. I never thought I’d run into you[0x000A]in the mines.{0x0114,0x0007}
+sub_event_046_npc_02=I’ve been doing some voluntary community[0x000A]service on Mr. Rose’s behalf.{0x0114,0x0007}
+sub_event_046_npc_03=Mr. Rose... A long time ago he used to work in[0x000A]a coal mine, you know.{0xBE01}[0x000A]That’s why I’m actually happy with doing this[0x000A]kind of work.{0xBE01}[0x000A]Yes! I’m so happy, I think I’ll give you one of my[0x000A]prized League Cards!{0x0114,0x0007}
+sub_event_046_npc_04=You don’t need to worry...[0x000A]I have a hundred copies of Mr. Rose’s{0xBE00}[0x000A]League Card. They’re all signed, too!{0x0114,0x0007}
+sub_event_046_npc_05=Champion... Thank you for stopping Eternatus.{0xBE01}[0x000A]I know Mr. Rose feels the same way... But he was[0x000A]just so worried about the future...{0x0114,0x0007}

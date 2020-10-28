@@ -1,0 +1,11 @@
+msg_main0120_sister_01=Oh, {0x0100,0x0000}!
+msg_main0120_sister_08=Wenn {0x0101,0x0002} so auf dir sitzt,[0x000A]wirkt ihr zwei schon wie richtige Partner!
+msg_main0120_sister_09=Ich glaube, ich hab genau das richtige Geschenk[0x000A]für euch!
+msg_main0120_sister_02=Oh, {0x0100,0x0000}!
+msg_main0120_sister_03=Du erhältst ein {0xFF00,0x0006}Sportliches Set{0xFF00,0x0000}!
+msg_main0120_sister_10=Du verstaust das {0xFF00,0x0006}Sportliche Set{0xFF00,0x0000} in deinem[0x000A]Klamottenkoffer.
+msg_woman1_01_p04_t001_r0201={0xBDFF:0x0006}
+msg_main0120_sister_04=Wenn du {0x0101,0x0002} dieses Set anziehst,[0x000A]könnt ihr im Partnerlook auf Reisen gehen!
+msg_main0120_sister_06=Huch?
+msg_main0120_sister_05=Hihi! Na, da wollte aber jemand deine[0x000A]Aufmerksamkeit!{0xBE01}[0x000A]Sieht aus, als würde {0x0101,0x0002} sich wahnsinnig[0x000A]freuen, wenn du dich um es kümmerst.
+msg_main0120_sister_07=Wenn du den {0xFF00,0x0006}X-Knopf{0xFF00,0x0000} drückst und im Menü[0x000A]„{0xFF00,0x0006}Mit {0x0102,0x0003} spielen{0xFF00,0x0000}“ auswählst,{0xBE01}[0x000A]kannst du mit {0x0102,0x0003} spielen,[0x000A]wann immer du willst!

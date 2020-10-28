@@ -1,0 +1,5 @@
+msg_t007r0701_rocketm_01=Non toccare il poster in Sala Giochi!{0xBE01}[0x000A]Non c’è nessun pulsante segreto dietro!
+msg_t007r0701_oldm_01=Quel gioco coi Pokémon che volano[0x000A]è davvero un successone!{0xBE01}[0x000A]Sto guadagnando così tanto che mi sento[0x000A]anch’io al settimo cielo!
+msg_t007r0701_rocketm_02=Se offrissimo dei Pokémon come premi alla[0x000A]Sala Giochi potremmo fare ancora più soldi...{0xBE01}[0x000A]Che vuoi, ragazzin{0x1100,0x00FF,0x0101}oa? Smamma, non sono[0x000A]discorsi che ti riguardano!
+msg_oldman2_01_p01_t007_r0601={0xBDFF:0x0003}
+msg_evilm1_01_p01_t007_r0601={0xBDFF:0x0004}

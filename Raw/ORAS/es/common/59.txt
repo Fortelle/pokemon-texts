@@ -1,0 +1,13 @@
+Sí
+No
+¿Quieres guardar la foto que has tomado en la[0x000A]tarjeta SD?
+Si no guardas la foto, será eliminada.[0x000A]¿Quieres continuar sin guardarla?
+Guardando...[0x000A]No apagues la consola.
+Se ha guardado la foto en la Cámara de[0x000A]Nintendo 3DS.
+La foto no se puede guardar porque no hay[0x000A]espacio suficiente en la tarjeta SD.
+La foto no se ha podido guardar porque la[0x000A]Cámara de Nintendo 3DS no tiene espacio{0xBE00}[0x000A]para almacenar más fotos.
+Se han encontrado datos dañados en la[0x000A]tarjeta SD y se han eliminado.{0xBE01}[0x000A]No se ha podido guardar la foto.
+No se ha podido guardar la foto.
+{0x0201,0x0002}-{0x0201,0x0001}-20{0x0201,0x0000}   {0x0201,0x0003}:{0x0201,0x0004}
+{0xBDFF:0x000B}
+{0x0205,0x0005,0xE07F}

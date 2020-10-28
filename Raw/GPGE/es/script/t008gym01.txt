@@ -1,0 +1,4 @@
+msg_t008gym01_gym_01=El Gimnasio de Ciudad Fucsia está lleno de[0x000A]muros invisibles.{0xBE01}[0x000A]Podría parecer que Koga está cerca, pero, en[0x000A]realidad, los muros invisibles lo protegen.{0xBE01}[0x000A]¡Busca huecos entre ellos para llegar hasta él!
+msg_t008gym01_gym_02=¡Los ninjas siguen dando mucho miedo incluso[0x000A]a día de hoy!
+msg_t008gym01_statue_01=Gimnasio Pokémon de Ciudad Fucsia[0x000A]Líder: Koga{0xBE01}[0x000A]Entrenadores reconocidos:[0x000A]{0x0100,0x0001}
+msg_t008gym01_statue_02=Gimnasio Pokémon de Ciudad Fucsia[0x000A]Líder: Koga{0xBE01}[0x000A]Entrenadores reconocidos:[0x000A]{0x0100,0x0001} y {0x0100,0x0000}

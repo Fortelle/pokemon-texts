@@ -1,0 +1,9 @@
+main_event_1860_rival_01=Attendez ! Revenez ![0x000A]On a besoin de votre aide !{0x0114,0x0005}
+main_event_1860_assistant_01=Qu’est-ce que vous faites, vous deux ?{0x0114,0x000B}
+main_event_1860_rival_02=Bah t’as bien vu, non ? Les Pokémon Épée[0x000A]et Bouclier étaient là ! Mais ils sont partis...{0x0114,0x0005}
+main_event_1860_assistant_02=Quoi ?! J’ai rien vu, moi ![0x000A]Juste vous deux, plantés au milieu de la route.{0x0114,0x000B}
+main_event_1860_rival_03=Ça veut dire quoi ?[0x000A]C’était encore une illusion ?{0x0114,0x0005}
+main_event_1860_assistant_03=Aucune idée... Tout ce que je peux vous dire,[0x000A]c’est que comme je n’ai rien trouvé dans{0xBE00}[0x000A]les sources de Galar, j’ai étendu mes recherches{0xBE00}[0x000A]aux ressources étrangères... et j’ai trouvé un truc !{0xBE01}[0x000A]« Zacian, le Pokémon Épée »[0x000A]et « Zamazenta, le Pokémon Bouclier »...{0xBE01}[0x000A]Ils seraient nés dans un endroit lointain,[0x000A]par-delà la Forêt de Sleepwood.{0x0114,0x000B}
+main_event_1860_rival_04=Haaan... OK.[0x000A]Merci pour l’info !{0x0114,0x0005}
+main_event_1860_rival_05=Bon ! Même si ce qu’on a vu n’était[0x000A]qu’une illusion, on est sur la bonne piste !{0xBE01}[0x000A]Et qui sait, peut-être qu’on tombera[0x000A]sur l’épée et le bouclier de l’époque !{0xBE01}[0x000A]Ça pourrait servir aussi !{0x0114,0x0005}
+main_event_1860_assistant_04=Zacian et Zamazenta...{0xBE01}[0x000A]Ils auraient sommeillé près de chez vous[0x000A]pendant tout ce temps ?{0xBE00}[0x000A]Dans les profondeurs de la Forêt de Sleepwood ?{0xBE01}[0x000A]Et si c’était à cause de ça que l’entrée en était[0x000A]interdite pendant si longtemps ?{0x0114,0x000B}

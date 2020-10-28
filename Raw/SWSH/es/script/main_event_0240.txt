@@ -1,0 +1,7 @@
+main_event_0240_rival_01=Escúchame bien, {0x0100,0x0000}.[0x000A]¡Todo Entrenador de Galar que se precie debe{0xBE00}[0x000A]participar en el {0xFF00,0x0006}desafío de los gimnasios{0xFF00,0x0000}!{0x0114,0x0005}
+main_event_0240_select_01=¿El qué?
+main_event_0240_select_02=¿Qué es eso?
+main_event_0240_rival_02=¡No me puedo creer que no sepas lo que es![0x000A]Es una competición que tiene lugar una vez al{0xBE00}[0x000A]año para elegir quién se enfrentará al Campeón.{0x0114,0x0005}
+main_event_0240_rival_03=¡Y no te vayas a creer que es fácil participar en[0x000A]el desafío! Hace falta una Recomendación.{0xBE01}[0x000A]Llevo tiempo dándole la lata a mi hermano para[0x000A]que me dé una, pero no hay manera...{0xBE01}[0x000A]¡Aunque lo mismo la profesora me puede echar[0x000A]una mano!{0x0114,0x0005}
+main_event_0240_rival_04=¡Tú también deberías participar![0x000A]Seguro que ser rivales nos sirve como motivación{0xBE00}[0x000A]para hacernos más fuertes.{0xBE01}[0x000A]¡Aunque yo ya estoy más que motivado!{0x0114,0x0005}
+main_event_0240_rival_05=La casa de la profesora está al final de la Ruta 2.{0xBE01}[0x000A]¡Aprovechemos para entrenar a nuestros[0x000A]Pokémon por el camino!{0x0114,0x0005}

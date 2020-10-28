@@ -1,0 +1,26 @@
+Bienvenue à l’Embarcadère Mele-Mele[0xE07F]!
+Bienvenue à l’Embarcadère Akala[0xE07F]!
+Bienvenue à l’Embarcadère Ula-Ula[0xE07F]!
+Ici, c’est l’embarcadère du Village Flottant.
+Tu te trouves actuellement à l’embarcadère[0x000A]du Paradis Æther.
+Où veux-tu te rendre[0xE07F]?
+À Ekaeka, sur l’île de Mele-Mele, c’est bien ça[0xE07F]?
+À Ho’ohale, sur l’île d’Akala, c’est bien ça[0xE07F]?
+À Malié, sur l’île d’Ula-Ula, c’est bien ça[0xE07F]?
+Au Village Flottant, sur l’île de Poni, c’est[0x000A]bien ça[0xE07F]?
+Au Paradis Æther, c’est bien ça[0xE07F]?
+Le ferry est sur le point de partir.[0x000A]Bon voyage[0xE07F]!
+Entendu. Bonne journée alors[0xE07F]!
+Désolée, mais tous les départs de ferry ont été[0x000A]suspendus pour cause de maintenance.
+Direction le Paradis Æther.[0x000A]T’es prêt{0x1100,0x00FF,0x0100}e[0xE07F]?{0x0114,0x0013}
+Parfait. On y va.{0x0114,0x0013}
+OK, je t’attends...{0x0114,0x0013}
+Mais qu’est-ce que c’est que ce bazar[0xE07F]?{0xBE01}[0x000A]Mmmh... Veux-tu retourner à Malié[0xE07F]?
+Très bien. Monte sur le ferry, il va bientôt[0x000A]partir.
+Entendu. Reviens quand tu voudras[0x000A]quitter l’île.
+Ekaeka
+Ho’ohale
+Malié
+Village Flottant
+Paradis Æther
+Rester ici

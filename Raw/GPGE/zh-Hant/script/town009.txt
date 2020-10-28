@@ -1,0 +1,14 @@
+msg_town009_kanban_01=這裡是紅蓮鎮[0x000A]紅蓮即是熱情如火的鮮紅之色
+msg_town009_kanban_02=這裡是紅蓮研究所[0x000A]寶可夢研究設施
+msg_town009_kanban_03=紅蓮島寶可夢道館[0x000A]館主夏伯{0xBE00}[0x000A]熱血猜謎大叔
+msg_town009_door_01=門上面用很小的字[0x000A]寫著些什麼……！{0xBE01}[0x000A]「問題！[0x000A]　這間道館的鑰匙在哪裡呢？{0xBE01}[0x000A]　提示！在一棟被青草纏繞著的[0x000A]　建築物某處……？」
+msg_town009_youngf_01_01=聽說紅蓮道館的夏伯是個怪人，[0x000A]他在研究所成立以前{0xBE00}[0x000A]就住在這裡了。
+msg_town009_oldm_01_01=為了研究，科學家們似乎[0x000A]偶爾會出入寶可夢屋。
+msg_town009_poke_01=鴨嘴火獸「鴨嘴～！
+msg_town009_poke_02=海星星「咻嚕～
+msg_masaki_01_p01_field_t009={0xBDFF:0x0008}
+msg_masaki_01_p02_field_t009={0xBDFF:0x0009}
+msg_masaki_01_p03_field_t009={0xBDFF:0x000A}
+msg_masaki_01_p04_field_t009={0xBDFF:0x000B}
+msg_masaki_01_p05_field_t009={0xBDFF:0x000C}
+msg_masaki_01_p06_field_t009={0xBDFF:0x000D}

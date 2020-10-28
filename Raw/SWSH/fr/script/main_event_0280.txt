@@ -1,0 +1,12 @@
+main_event_0280_rival_01=Mon plan, c’est de devenir le Dresseur[0x000A]le plus balèze du monde !{0xBE01}[0x000A]Et pour ça, il me faut à tout prix[0x000A]cette Lettre de Recommandation !{0x0114,0x0005}
+main_event_0280_rival_02=Je vais montrer à mon frangin de quoi[0x000A]je suis capable !{0x0114,0x0005}
+main_event_0280_champion_01={0xBDFF:0x0002}
+main_event_0280_doctor_01=Un combat entre deux jeunes Dresseurs...[0x000A]Ça m’intéresse.{0x0114,0x000A}
+main_event_0280_champion_02=Si vous voulez devenir des Dresseurs invincibles[0x000A]comme moi, vous devrez apprendre à tirer{0xBE00}[0x000A]une leçon de chaque combat que vous livrerez.{0xBE01}[0x000A]Maintenant, place à la pratique ![0x000A]Prouvez-moi que vous êtes à la hauteur !{0x0114,0x0004}
+main_event_0280_rival_03=Carrément ! C’est un nouveau chapitre[0x000A]de mon histoire qui commence !{0xBE01}[0x000A]T’es prêt{0x1100,0x00FF,0x0100}e, {0x0100,0x0000} ?{0x0114,0x0005}
+main_event_0280_select_01=Yes !
+main_event_0280_select_02=Il faut que je me prépare...
+main_event_0280_rival_04=Alors, c’est parti !{0x0114,0x0005}
+main_event_0280_rival_05=Pas de souci, je t’attends.{0x0114,0x0005}
+main_event_0280_rival_06=Allez, viens, {0x0100,0x0000} ! On doit se battre[0x000A]si on veut notre Lettre de Recommandation !{0x0114,0x0005}
+main_event_0280_champion_03=Je te l’ai déjà dit, mais je trouve vraiment[0x000A]que tu as énormément de potentiel. Je suis sûr{0xBE00}[0x000A]que tu feras un{0x1100,0x00FF,0x0100}e rival{0x1100,0x00FF,0x0100}e parfait{0x1100,0x00FF,0x0100}e pour Nabil !{0x0114,0x0004}

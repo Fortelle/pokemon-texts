@@ -1,0 +1,8 @@
+Elige un Pokémon.
+{0x0101,0x0000}, Pokémon de tipo Planta
+{0x0101,0x0000}, Pokémon de tipo Fuego
+{0x0101,0x0000}, Pokémon de tipo Agua
+¿Seguro que prefieres este Pokémon?
+¡Has elegido a {0x0101,0x0000}!
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}

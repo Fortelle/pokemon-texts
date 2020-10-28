@@ -1,0 +1,10 @@
+main_event_0521_staff_01=Challenger {0x0100,0x0000}, the chairman asked[0x000A]me to deliver this gift to you.
+main_event_0521_staff_02=A gift...such a wonderful thing...[0x000A]From the chairman...such a wonderful man...
+main_event_0521_staff_03=*ahem* Excuse me.[0x000A]The gift is access to the Flying Taxis!
+main_event_0521_staff_04=They allow you to, in a word, {0xFF00,0x0001}Fly{0xFF00,0x0000}!{0xBE01}[0x000A]Calling a Flying Taxi will allow you to travel[0x000A]quickly back to areas you’ve already visited!
+main_event_0521_staff_05=If it’s all right with you, I’ll read a segment from[0x000A]the Flying Taxi user’s manual. *ahem*{0xBE01}[0x000A]“Press the X Button and select the Town Map[0x000A]option to choose the place you’d like to go to.”
+main_event_0521_staff_06=Anyway, your next goal should be Turffield—isn’t[0x000A]that right, {0x0100,0x0000}?{0xBE01}[0x000A]When traveling to a new place, it’s best to get[0x000A]there on your own two legs, don’t you think?
+main_event_0521_npc1_01={0xBDFF:0x0006}
+main_event_0521_npc2_01={0xBDFF:0x0007}
+main_event_0521_npc3_01={0xBDFF:0x0008}
+main_event_0521_npc4_01={0xBDFF:0x0009}

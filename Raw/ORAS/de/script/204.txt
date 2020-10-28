@@ -1,0 +1,11 @@
+Die Tür ist verschlossen!{0xBE01}[0x000A]Aber was ist das? Da steht eine Nachricht:[0x000A]„Schreib hier die geheime Losung hin.“
+{0x0100,0x0000} schreibt die geheime Losung auf die Tür:[0x000A]„Der Rätselmeister ist einfach spitze!“{0xBE01}[0x000A]...{0xBE01}[0x000A]Das Schloss hat sich geöffnet!
+{0x0100,0x0000} hat eine Schriftrolle gefunden!
+{0x0100,0x0000} prägt sich die geheime Losung ein,[0x000A]die auf der Schriftrolle steht.
+Da steht eine geheime Losung drauf...
+Biep-biep-bzzzzzt...{0xBE01}[0x000A]ICH. BIN. ROBOPUPPE. 3.[0x000A]SEHR. ERFREUT. \(^o^){0xBE01}[0x000A]FÜHLST. DU. DICH. DER. AUFGABE. GEWACHSEN?[0x000A]EIN. FLUCHTSEIL. KOSTET. 550 $!{0xBE00}[0x000A]DU. KAUFST. DIR. BESSER. EINS! (•^_^•)
+Bzzzzzt...{0xBE01}[0x000A]SCHÖN. MIT. DIR. GESCHÄFTE. ZU. MACHEN![0x000A]*\(⌒∇⌒)/*
+DU. HAST. NICHT. GENUG. GELD.[0x000A](｡-_-｡)
+UNZULÄSSIGE. ANTWORT. (x_x)[0x000A]DU. SOLLTEST. DIR. WIRKLICH. EINS. KAUFEN...
+KAUF. NICHT. MÖGLICH. (@_@)[0x000A]DU. HAST. SCHON. GENUG.
+{0xBDFF:0x000A}

@@ -1,0 +1,7 @@
+msg_sub025_researcher_01=GROAR ! Quoi ? Quoi ? Tu veux qu’on s’bat’ ?[0x000A]Tu m’prends pour qui ! J’suis un scientifique, moi !{0xBE00}[0x000A]J’ai pas b’soin de dormir !{0xBE01}[0x000A]Ni de prendre de vacances, apparemment ![0x000A]Tu m’cherches ? Tu vas m’trouver !
+msg_sub025_researcher_02=Oh... Hum... Où suis-je... Oh, vous êtes...[0x000A]Euh... Excusez-moi... C’est juste que...{0xBE01}[0x000A]Je ne sais plus quand j’ai dormi pour la dernière[0x000A]fois... Tenez, pour me faire pardonner.
+msg_sub025_researcher_03=La CT02 contient Provoc, une capacité qui force[0x000A]l’ennemi à utiliser une capacité infligeant{0xBE00}[0x000A]des dégâts.
+msg_sub025_researcher_04={0xBDFF:0x0003}
+msg_sub025_researcher_05={0xBDFF:0x0004}
+msg_sub025_researcher_06={0xBDFF:0x0005}
+msg_sub025_researcher_07={0xBDFF:0x0006}

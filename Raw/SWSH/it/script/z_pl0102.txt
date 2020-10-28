@@ -1,0 +1,10 @@
+msg_pl0102_npc1_01=È vietato l’ingresso alle persone non autorizzate.
+msg_pl0102_npc4_01=Eccoci al primo turno del Torneo delle Finali.[0x000A]Entra in campo quando sei pront{0x1100,0x00FF,0x0101}oa.
+msg_pl0102_npc4_02=Eccoci alle semifinali del Torneo delle Finali.[0x000A]Entra in campo quando sei pront{0x1100,0x00FF,0x0101}oa.
+msg_pl0102_npc4_03=Eccoci alla finale del Torneo delle Finali.[0x000A]Entra in campo quando sei pront{0x1100,0x00FF,0x0101}oa.
+msg_pl0102_npc4_07=Manca poco al Match con il Campione!{0xBE01}[0x000A]Entra in campo quando sei pront{0x1100,0x00FF,0x0101}oa.
+msg_pl0102_npc4_04=Eccoci al Torneo delle Semifinali.{0xBE01}[0x000A]Chi sarà il più forte dei quattro Allenatori che[0x000A]hanno superato la Sfida delle Palestre?{0xBE00}[0x000A]Non vedo l’ora di scoprirlo!{0xBE01}[0x000A]Come sempre, entra in campo quando sei pront{0x1100,0x00FF,0x0101}oa!
+msg_pl0102_npc4_05=Eccoci finalmente all’incontro decisivo[0x000A]del Torneo delle Semifinali.{0xBE01}[0x000A]Chi avrebbe mai pensato che a sfidarsi per il[0x000A]titolo di Campione sarebbero stati proprio gli{0xBE00}[0x000A]Allenatori sponsorizzati dal Campione stesso...{0xBE01}[0x000A]Entra in campo quando sei pront{0x1100,0x00FF,0x0101}oa.
+msg_pl0102_npc4_06=Manca poco alla cerimonia d’apertura[0x000A]del Torneo delle Finali!{0xBE01}[0x000A]Entra in campo quando sei pront{0x1100,0x00FF,0x0101}oa.
+msg_pl0102_npc2_01=Tra poco avrà inizio l’incontro decisivo[0x000A]del Torneo delle Semifinali!{0xBE01}[0x000A]Ad affrontarsi saranno Hop e {0x0100,0x0000},[0x000A]entrambi sponsorizzati dal Campione!
+msg_pl0102_npc3_01=Sono un cameraman della Macro TV.[0x000A]Scusa, sto riprendendo...

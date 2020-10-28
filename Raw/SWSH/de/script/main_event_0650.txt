@@ -1,0 +1,11 @@
+main_event_0650_counterw_01=Hallo, Arena-Challenger! Möchtest du dich jetzt[0x000A]an unserer Arena-Mission versuchen?
+main_event_0650_select_01=Ja!
+main_event_0650_select_02=Noch nicht...
+main_event_0650_counterw_09=In Ordnung. Komm einfach wieder, wenn du dich[0x000A]bereit fühlst!
+main_event_0650_counterw_02=Darf ich dich dann zuerst bitten, deine Uniform[0x000A]anzuziehen? Die Umkleide ist gleich da drüben.
+main_event_0650_counterw_03=Oh, die Uniform steht dir ausgezeichnet.[0x000A]Dann mal auf mit dir zur Arena-Mission!{0xBE01}[0x000A]Übrigens kannst du während der Mission nicht[0x000A]auf deine Pokémon-Boxen zugreifen.
+main_event_0650_counterw_04=Entschuldige, aber könnte ich dich wohl bitten,[0x000A]die Arenaleiterin ins Stadion zu bringen?{0xBE01}[0x000A]Sie ist wahrscheinlich gerade im Leuchtturm.[0x000A]Den findest du, wenn du das Stadion verlässt{0xBE00}[0x000A]und in Richtung des Meeres gehst.
+main_event_0650_counterw_05=Hach ja, die Arena-Mission... Wie eines meiner[0x000A]Lieblingssprichwörter schon so schön sagt:{0xBE01}[0x000A]Der stete Tropfen höhlt den Stein.
+main_event_0650_counterw_06={0xBDFF:0x0008}
+main_event_0650_counterw_07=Challenger {0x0100,0x0000} hat die[0x000A]Arena-Mission erfolgreich abgeschlossen{0xBE00}[0x000A]und tritt nun Arenaleiterin Kate gegenüber!
+main_event_0650_counterw_08=Kein Problem. Du kannst jederzeit wieder zu[0x000A]mir kommen, wenn du es dir anders überlegst.

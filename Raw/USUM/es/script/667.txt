@@ -1,0 +1,14 @@
+Una, dos y...{0x0114,0x003E}
+¡Agua, Planta, Fuego!{0x0114,0x003F}
+Hmmm, se me ha olvidado la compatibilidad[0x000A]entre tipos, jo... ¿Quién ha ganado?{0x0114,0x003E}
+Si tenemos Fuego y Agua, ¿cuál tiene ventaja?{0x0114,0x003F}
+Entre Fuego y Planta, ¿cuál sale ganando?{0x0114,0x003F}
+En un combate entre Agua y Fuego, ¿cuál gana?{0x0114,0x003F}
+Entre los tipos Agua y Planta, ¿cuál sale[0x000A]ganando?{0x0114,0x003F}
+Si tenemos tipo Planta y tipo Fuego, ¿cuál es[0x000A]más fuerte?{0x0114,0x003F}
+Entre Planta y Agua, ¿cuál lleva ventaja?{0x0114,0x003F}
+Fuego
+Agua
+Planta
+¡Ah, es verdad! No sé cómo se me ha podido[0x000A]olvidar. ¡Tú sí que te las sabes todas!{0x0114,0x003F}
+¿Estás segur{0x1100,0x00FF,0x0101}oa? Yo diría que no es así, espero[0x000A]que no me estés tomando el pelo...{0x0114,0x003E}

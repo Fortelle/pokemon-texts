@@ -1,0 +1,13 @@
+sub_event_011_master_01=Welcome to the Battle Café.
+sub_event_011_master_02=Hm? You’ve already battled today, haven’t you?[0x000A]Please come back tomorrow.
+sub_event_011_master_03=You can battle here once a day![0x000A]If you win, we’ll give you a treat, on the house!{0xBE00}[0x000A]Do you want to battle?
+sub_event_011_master_04=Okeydokey![0x000A]Let’s have a break!
+sub_event_011_master_05a=That was a battle as refreshing as a glass of[0x000A]Moomoo Milk!
+sub_event_011_master_05b=That was a battle as exquisite as a glass[0x000A]of Lemonade!
+sub_event_011_master_05c=That was a battle as smooth as a cup of[0x000A]Tapu Cocoa!
+sub_event_011_master_05d=That was a battle as exciting as a glass of[0x000A]Pinap Juice!
+sub_event_011_master_05e=That was a battle as elegant as a cup of[0x000A]Roserade Tea!
+sub_event_011_master_05f=That was a battle as deep as some[0x000A]Komala Coffee!
+sub_event_011_master_06=Here is the treat I promised.
+sub_event_011_master_07=We have adopted the Double Battle rules here.{0xBE01}[0x000A]Please come back with two or more Pokémon[0x000A]with you.
+sub_event_011_master_08=We look forward to your next visit.

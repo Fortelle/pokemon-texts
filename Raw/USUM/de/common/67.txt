@@ -1,0 +1,26 @@
+Soll eine Internetverbindung[0x000A]hergestellt werden?
+Internetverbindung wird hergestellt...[0x000A]Bitte warte einen Moment.
+Verbindung wird getrennt...[0x000A]Bitte warte einen Moment.
+Verbindung über den Lokalen Modus[0x000A]wurde aktiviert.{0xBE01}
+Eine Internetverbindung wird hergestellt und[0x000A]das Spiel wird gespeichert. Willst du fortfahren?
+Verbindung wird hergestellt...[0x000A]Bitte warte einen Moment.
+Du bist jetzt mit dem Internet verbunden.{0xBE01}
+Internetverbindung wird getrennt...
+Verbindung über das Internet[0x000A]wurde aktiviert.{0xBE01}
+Internetverbindung wird getrennt.[0x000A]Möchtest du fortfahren?
+Verbindung wird getrennt...[0x000A]Bitte warte einen Moment.
+Verbindung über den Lokalen Modus[0x000A]wurde aktiviert.{0xBE01}
+Verbindung zum Pokémon Global Link wird[0x000A]hergestellt... Bitte warte einen Moment.
+Es kann keine Spielsynchro durchgeführt[0x000A]werden, da du keine Spielsynchro ID beim{0xBE00}[0x000A]Pokémon Global Link registriert hast.{0xBE01}[0x000A]Begib dich daher zunächst auf die Internetseite[0x000A]des Pokémon Global Links und gib dort deine{0xBE00}[0x000A]Spielsynchro ID ein.{0xBE01}
+Der Server ist momentan überlastet.[0x000A]Die Spielsynchro wird abgebrochen...
+Die Spielsynchro wurde abgebrochen, da noch[0x000A]nicht genug Zeit seit der letzten vergangen ist.{0xBE01}[0x000A]Bitte versuche es später noch[0x000A]einmal.{0xBE01}
+Das Spiel wird gespeichert.[0x000A]Möchtest du fortfahren?
+Speichervorgang...[0x000A]Bitte das System nicht ausschalten.
+Die Spielsynchro wird ausgeführt...[0x000A]Bitte das System nicht ausschalten.
+Ja
+Nein
+Veranstaltungshinweis[0x000A][0x000A]Zurzeit ist ein Globales Spektakel im Gange![0x000A][0x000A]Um dich anzumelden, sprich mit der Assistentin[0x000A]für Globale Spektakel am Empfang im Schloss.
+Verbindung mit dem Server wird hergestellt...[0x000A]Bitte warte einen Moment.
+Die Spielsynchro ist fehlgeschlagen.{0xBE01}
+Daten werden überprüft...[0x000A]Bitte warte einen Moment.
+Die Internetfunktionen wurden über die[0x000A]Altersbeschränkungen dauerhaft deaktiviert.{0xBE01}

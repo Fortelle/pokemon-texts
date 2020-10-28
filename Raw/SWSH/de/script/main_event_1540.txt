@@ -1,0 +1,8 @@
+main_event_1540_rival_01=Ich musste gerade an den Beginn unserer[0x000A]Reise in Furlongham zurückdenken...{0x0114,0x0005}
+main_event_1540_rival_02=Delion hatte uns beiden gerade ein Pokémon[0x000A]geschenkt...{0xBE01}[0x000A]Damals hab ich mir geschworen, dass wir uns[0x000A]hier gegenüberstehen würden.{0x0114,0x0005}
+main_event_1540_rival_03=Diesen Schwur hab ich hiermit eingelöst.[0x000A]Und jetzt schnapp ich mir den Sieg!{0x0114,0x0005}
+main_event_1540_live_01=Damit ist das Vorturnier beendet! Alle Trainer,[0x000A]die die Arena-Challenge bestanden hatten,{0xBE00}[0x000A]haben gegeneinander um den Sieg gekämpft.{0xBE01}[0x000A]Aber nur {0x1100,0x00FF,0x0E0E,0x0000}der Allerbestedie Allerbeste unter ihnen darf in das[0x000A]Finalturnier einziehen! Und dieser Trainer ist...{0xBE00}[0x000A]{0x0100,0x0000}!!{0x0114,0x0018}
+main_event_1540_rival_04=Ich weiß, Sania meinte, wir hätten das Potenzial,[0x000A]so zu werden wie die Helden...{0xBE01}[0x000A]Aber wenn ich ganz ehrlich bin, hab ich mich nie[0x000A]als Held gesehen.{0x0114,0x0005}
+main_event_1540_rival_05=Du hingegen...{0xBE01}[0x000A]Ist dir eigentlich klar, dass du die Chance hast,[0x000A]etwas ganz, ganz Großes zu leisten?{0x0114,0x0005}
+main_event_1540_rival_06={0x0100,0x0000}, meinen Glückwunsch an[0x000A]dich und {0x0101,0x0001}!{0x0114,0x0005}
+main_event_1540_rival_07={0x0100,0x0000}, meinen Glückwunsch an dich,[0x000A]{0x0101,0x0001} und dein ganzes Team!{0x0114,0x0005}

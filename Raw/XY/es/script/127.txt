@@ -1,0 +1,76 @@
+Esta tierra está blanda.
+Esta tierra está blanda.[0x000A]¿Qué quieres hacer?
+Hay {0x0109,0x0006} esparcido por la tierra.
+¿Qué abono quieres esparcir?
+Esparcir abono
+Sembrar una baya
+No hacer nada
+¿Quieres esparcir el abono?
+Salir
+¿Quieres sembrar una baya?
+Has esparcido {0x0109,0x0006} por la tierra.
+Has plantado una {0x0109,0x0001}.
+¡Ha aparecido un Pokémon!
+Están creciendo malas hierbas en la tierra.[0x000A]¿Quieres arrancarlas?
+El arbusto de Baya {0x018E,0x0007} parece[0x000A]encontrarse en buen estado.
+Los brotes del arbusto de Baya {0x018E,0x0007}[0x000A]crecen con fuerza.
+Las flores del arbusto de Baya {0x018E,0x0007}[0x000A]parecen estar creciendo con normalidad.
+{0x0100,0x0005} ha arrancado los hierbajos.
+Aquí hay plantada {0x1702,0x0001}{0x0109,0x0001}.
+La Baya {0x018E,0x0007} ha germinado.
+El plantón de Baya {0x018E,0x0007} está[0x000A]creciendo sin prisa pero sin pausa.
+El tronco del arbusto de Baya {0x018E,0x0007}[0x000A]ha crecido.
+Han surgido brotes del arbusto de Baya[0x000A]{0x018E,0x0007}.
+El arbusto de Baya {0x018E,0x0007} ha florecido.
+La tierra se está secando, así que coge la regadera[0x000A]y rocíala un poco con agua.
+La tierra ya está bastante mojada.
+La tierra está seca. ¿Quieres regarla?
+{0xBDFF:0x001B}
+Has regado bien la tierra y ahora ya es fértil.
+El arbusto de {0x0109,0x0001} ha dado[0x000A]{0x0201,0x0003} baya{0x1101,0x0003,0x0100}s.
+¿Quieres recoger la cosecha?
+Has cosechado {0x0201,0x0003} baya{0x1101,0x0003,0x0100}s del arbusto de[0x000A]{0x0109,0x0001}.
+{0x0100,0x0005} no ha recogido bayas del arbusto[0x000A]de {0x0109,0x0001}.
+La Bolsa está llena y no se ha recolectado ninguna[0x000A]baya del arbusto de {0x0109,0x0001}.
+Has metido la cosecha de {0x0109,0x0001}[0x000A]en la Bolsa.{0xBE01}[0x000A]La tierra se ha reblandecido.
+El arbusto de Baya {0x018E,0x0007} se ha secado.{0xBE01}[0x000A]Vaya, parece que están surgiendo brotes de entre[0x000A]las hojas marchitas.
+Han surgido también unas bayas diferentes debido[0x000A]a una mutación espontánea.{0xBE01}[0x000A]{0x0109,0x0001}: {0x0201,0x0003}[0x000A]{0x0109,0x0002}: {0x0201,0x0004}
+Tu Bolsa está llena, así que no puedes recoger[0x000A]ninguna baya.
+{0x0100,0x0005} no ha recogido ninguna baya.
+Cosecha obtenida:{0xBE01}[0x000A]{0x0109,0x0001}: {0x0201,0x0003}[0x000A]{0x0109,0x0002}: {0x0201,0x0004}
+Has metido tu cosecha de {0x0109,0x0001}[0x000A]y {0x0109,0x0002} en la Bolsa.{0xBE01}[0x000A]La tierra se ha reblandecido.
+{0x0109,0x0006}
+Aquí hay un compostador, y en la tapa vienen[0x000A]escritas las instrucciones sobre su funcionamiento:{0xBE01}[0x000A]“Introdúzcanse tres bayas para crear abono.[0x000A]Se recomienda esparcir abono por la tierra antes de{0xBE00}[0x000A]plantar las bayas para mejorar su crecimiento”.{0xBE01}[0x000A]¿Quieres introducir bayas para crear abono?
+Aquí hay un compostador.[0x000A]¿Quieres introducir bayas para crear abono?
+En la tapa del compostador vienen escritas las[0x000A]instrucciones sobre su funcionamiento:{0xBE01}[0x000A]“Introdúzcanse tres bayas para crear abono”.
+Elige la primera baya.
+Elige la segunda baya.
+Elige la tercera baya.
+{0x0100,0x0005} ha introducido[0x000A]{0x1702,0x0000}{0x0109,0x0000},{0xBE00}[0x000A]{0x1702,0x0001}{0x0109,0x0001} y{0xBE00}[0x000A]{0x1702,0x0002}{0x0109,0x0002} en el compostador.
+...
+{0x0100,0x0005} ha obtenido[0x000A]{0x0201,0x0003} {0x0109,0x0006}.
+Es un pozo.
+¡Anda! Eh, chico, ven, ven.
+¡Anda! Eh, chica, ven, ven.
+¡Abuelo! Los Pokémon de est{0x1100,0x00FF,0x0707}e chicoa chica parecen[0x000A]muy chulis.
+¿Qué tal, joven? Siento importunarte con esta[0x000A]petición, pero... ¿te importaría encargarte por mí{0xBE00}[0x000A]de este huerto de bayas?{0xBE01}[0x000A]¡Las bayas son lo mejor que hay! Los arbustos[0x000A]dan frutos y, luego, tú sacas fruto de la cosecha.{0xBE01}[0x000A]Y, además, me juego lo que sea a que terminas[0x000A]pillándole el gustillo a eso de trabajar en el campo.
+No me seas así, jovenzuel{0x1100,0x00FF,0x0101}oa. Te lo ruego.[0x000A]Venga, ¡dime que sí, por favor!
+¿Has reconsiderado mi propuesta y realmente[0x000A]quieres hacerte cargo del huerto de bayas?
+¡Qué alegría me das, muchach{0x1100,0x00FF,0x0101}oa![0x000A]¿Cómo te llamas, por cierto?{0xBE01}[0x000A]¿{0x0100,0x0000}?[0x000A]Ah, pues muchas gracias, {0x0100,0x0000}.
+¡Tomaaa! ¡Qué bien, abuelito!
+Te voy a enseñar ahora mismo cómo tienes que[0x000A]cuidar los terrenos. Acompáñame, por favor.
+Frente a nosotros se extienden terrenos con tierra[0x000A]reblandecida, y aquí es donde puedes plantar las{0xBE00}[0x000A]bayas. Examina un trozo de tierra y rebusca en tu{0xBE00}[0x000A]Bolsa hasta dar con la baya que quieras plantar.{0xBE01}[0x000A]De todas formas te daré algunas, por si no llevas[0x000A]ninguna contigo ahora mismo.
+De vez en cuando encontrarás bayas a los pies de[0x000A]algún árbol grande, así que no lo dudes y hazte{0xBE00}[0x000A]con ellas, porque después las podrás plantar aquí.
+Tras plantar la baya, tienes que encargarte de[0x000A]regarla, que no crecen por arte de magia.{0xBE01}[0x000A]Para ello podrás utilizar este utensilio. Aquí tienes.
+Esta regadera te sirve, como puedes imaginar,[0x000A]para regar la tierra y las bayas recién plantadas.{0xBE01}[0x000A]Uno de los pilares básicos a la hora de cultivar[0x000A]bayas consiste en regarlas con abundante agua;{0xBE00}[0x000A]de hecho, cuanto más cuides de las bayas, mayor{0xBE00}[0x000A]cantidad de ellas crecerá, así que tenlo en mente.
+¡Ánimo con el huerto, {0x0100,0x0000}!{0xBE01}[0x000A]¡Alabados sean los cielos! Por fin voy a poder dar[0x000A]un respiro a mi maltrecha espalda.
+Nuestra casa está junto al huerto, así[0x000A]que pásate por allí cuando quieras.
+{0x0100,0x0000} ha recibido[0x000A]{0x1702,0x0001}{0x0109,0x0001}.
+Hola, ¿qué tal? ¿Eres {0x1100,0x00FF,0x0E0E}el propietariola propietaria?
+Es todo un placer conocerte. Estoy llevando a cabo[0x000A]un estudio sobre bayas y quiero centrarme, sobre{0xBE00}[0x000A]todo, en las mutaciones espontáneas.{0xBE01}[0x000A]Te agradecería en el alma que vinieras a verme si[0x000A]eres testigo de alguna mutación.{0xBE01}[0x000A]Un saludo y que tengas buen día.
+Tú eres quien se está encargando de cuidar este[0x000A]huerto, ¿no es así? Estoy llevando a cabo un{0xBE00}[0x000A]estudio sobre bayas y quiero centrarme, sobre{0xBE00}[0x000A]todo, en las mutaciones espontáneas.{0xBE01}[0x000A]Te agradecería en el alma que vinieras a verme si[0x000A]eres testigo de alguna mutación.{0xBE01}[0x000A]Un saludo y que tengas buen día.
+¡Muy bien! El compostador ha producido {0x0201,0x0003}[0x000A]{0x0109,0x0006}.
+Es una pena, pero no tienes espacio para llevar[0x000A]más {0x0109,0x0006}.
+Has decidido no utilizar el compostador.
+Eh, aguarda un momento, por favor.
+Toma, estas bayas son para ti.

@@ -1,0 +1,6 @@
+{0x0100,0x0000}, vuoi abbandonare la prova[0x000A]e tornare dopo che ti sarai preparat{0x1100,0x00FF,0x0101}oa meglio?{0xBE01}[0x000A]Se esci adesso dalla grotta, dovrai ricominciare[0x000A]la prova da capo!{0x0114,0x000C}
+Capisco... Non c’è problema!{0xBE01}[0x000A]Cerca di prepararti meglio e torna quando[0x000A]sarai pront{0x1100,0x00FF,0x0101}oa!{0x0114,0x000C}
+Perfetto!{0xBE01}[0x000A]Sconfiggi tre Pokémon, poi vai nella parte[0x000A]interna della grotta e prendi il Cristallo Z{0xBE00}[0x000A]che si trova sul piedistallo!{0x0114,0x000C}
+{0x0100,0x0000}, sei pront{0x1100,0x00FF,0x0101}oa per ricominciare[0x000A]la mia prova dall’inizio?{0x0114,0x000C}
+Molto bene, e adesso...[0x000A]Che la prova abbia inizio!{0x0114,0x000C}
+Capisco... Non c’è problema!{0xBE01}[0x000A]Cerca di prepararti meglio e torna quando[0x000A]sarai pront{0x1100,0x00FF,0x0101}oa!{0x0114,0x000C}

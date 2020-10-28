@@ -1,0 +1,17 @@
+A che piano vuoi andare?
+Esci
+T
+1
+2
+3
+4
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+Computer: AUTENTICAZIONE NON RIUSCITA.{0xBE01}[0x000A]L’uso dell’ascensore è riservato esclusivamente[0x000A]agli inquilini del Residence Ciclamipoli.
+Computer: AUTENTICAZIONE COMPLETATA.{0xBE01}[0x000A]Benvenut{0x1100,0x00FF,0x0101}oa al Residence Ciclamipoli, {0x0100,0x0000}.[0x000A]Accesso all’ascensore autorizzato.
+Benvenut{0x1100,0x00FF,0x0101}oa al Residence Ciclamipoli.[0x000A]Accesso all’ascensore autorizzato.

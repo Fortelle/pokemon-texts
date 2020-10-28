@@ -1,0 +1,10 @@
+main_event_0230_rival_01=Ist das dein erster Besuch in einem[0x000A]Pokémon-Center, {0x0100,0x0000}?{0x0114,0x0005}
+main_event_0230_select_01=Ja, das ist neu für mich!
+main_event_0230_select_02=Nein, ich kenne mich schon aus!
+main_event_0230_rival_02=Na, dann muss ich dir ja nichts mehr erklären.{0x0114,0x0005}
+main_event_0230_rival_03=In Ordnung! Dann pass mal auf...{0x0114,0x0005}
+main_event_0230_rival_04=Siehst du die Dame da hinterm Tresen?{0xBE01}[0x000A]Wenn du sie nett fragst, macht sie all deine[0x000A]Pokémon wieder fit.{0x0114,0x0005}
+main_event_0230_rival_05=Und an solchen Computern kannst du Pokémon[0x000A]abgeben, die du gefangen hast.{0xBE01}[0x000A]Man kann nämlich immer nur sechs Pokémon[0x000A]gleichzeitig mit sich rumtragen!{0x0114,0x0005}
+main_event_0230_youngm_01=Gut, dass ich mich hier im Pokémon-Supermarkt[0x000A]mit Tränken eingedeckt habe...{0xBE01}[0x000A]Das hat mir neulich echt den Hals gerettet!
+main_event_0230_middlem_01=Wenn ihr echte Pokémon-Trainer werden wollt,[0x000A]müsst ihr auf jeden Fall Tränke mitnehmen!
+main_event_0230_rival_06=Gute Idee, danke!{0xBE01}[0x000A]{0x0100,0x0000}, ich geh schon mal zu Route 2.[0x000A]Komm einfach nach, sobald du hier fertig bist.{0x0114,0x0005}

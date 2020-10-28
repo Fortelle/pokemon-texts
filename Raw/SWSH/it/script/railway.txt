@@ -1,0 +1,11 @@
+msg_railway_01=Dove vuoi andare?
+msg_railway_select_01=Stazione di Brassbury
+msg_railway_select_02=Stazione di Brassbury
+msg_railway_select_03=Stazione delle Terre Selvagge
+msg_railway_select_04=Stazione di Steamington
+msg_railway_select_05=Stazione di Keelford
+msg_railway_select_06=Stazione di Knuckleburgh
+msg_railway_select_07=Stazione di Collebianco
+msg_railway_select_08=Stazione di Goalwick
+msg_railway_select_09=Annulla
+msg_railway_stop_01=Sono previsti ritardi su tutta la linea a causa[0x000A]di ispezioni straordinarie dei treni.

@@ -1,0 +1,14 @@
+msg_main0475_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¡Eh, hola, {0x0100,0x0000}!
+msg_main0475_rival_02=¿Qué? ¿El ayudante del profesor te ha enseñado[0x000A]esa Técnica Secreta suya, Fulgor?
+msg_main0475_rival_03=Ah, ¿que no te la ha enseñado a ti, sino a[0x000A]{0x0102,0x0003}?{0xBE01}[0x000A]Desde luego, tu coleguita es una caja de[0x000A]sorpresas.
+msg_main0475_rival_10=Ahora que lo pienso, conozco un lugar perfecto[0x000A]para usarla. ¿Quieres que te acompañe?
+msg_main0475_select_01=Vale, vamos juntos
+msg_main0475_select_02=Prefiero ir sol{0x1100,0x00FF,0x0101}oa
+msg_main0475_rival_04=¡Genial! Llegaremos en un pispás. ¡Sígueme!
+msg_main0475_rival_05=El sitio del que te hablo se encuentra en[0x000A]dirección este.
+msg_main0475_rival_06=Este es el camino. Si sigues todo recto por aquí,[0x000A]llegarás a un lugar que se llama {0xFF00,0x0006}Túnel Roca{0xFF00,0x0000}.{0xBE01}[0x000A]Ya te darás cuenta de que dentro no se ve ni un[0x000A]pimiento de lo oscuro que está.
+msg_main0475_rival_07=Pero con Fulgor para iluminarlo, ¡no hay nada[0x000A]que temer!{0xBE01}[0x000A]¡Ya nos veremos!
+msg_main0475_rival_08=Bueno, como quieras, pero... ¿seguro que te las[0x000A]apañarás?
+msg_main0475_select_03=Estaré perfectamente
+msg_main0475_select_04=No, mejor vamos juntos
+msg_main0475_rival_09=Como tú quieras, pero deja que te indique el[0x000A]camino, ¿vale?{0xBE01}[0x000A]Ve todo recto en dirección este desde {0xFF00,0x0006}Ciudad{0xFF00,0x0000}[0x000A]{0xFF00,0x0006}Celeste{0xFF00,0x0000} hasta un lugar llamado {0xFF00,0x0006}Túnel Roca{0xFF00,0x0000}.{0xBE01}[0x000A]Comprobarás que en su interior no se ve[0x000A]absolutamente nada de lo oscuro que está.{0xBE01}[0x000A]Así que cuidado por dónde pisas. Y dicho esto,[0x000A]¡me piro!

@@ -1,0 +1,12 @@
+msg_town005_kanban_01=Pueblo Lavanda[0x000A]El noble pueblo púrpura.
+msg_town005_kanban_02=¡El nuevo Visor Silph hace visible lo invisible![0x000A]                          Silph S. A.
+msg_town005_kanban_03=Casa Pokémon[0x000A]Centro de voluntariado
+msg_town005_kanban_04=Torre Pokémon[0x000A]Descansen en paz las almas de los Pokémon.
+msg_town005_juveniles_01_01=¿Crees en los fantasmas?
+msg_town005_juveniles_01_02=¿De verdad? ¡Oír para creer!
+msg_town005_juveniles_01_03=¡Ja, ja, ja! Yo tampoco.{0xBE01}[0x000A]Esa mano blanca sobre tu hombro debe de ser[0x000A]fruto de mi imaginación.
+msg_town005_adultm_01=Este pueblo es famoso por las tumbas de[0x000A]Pokémon.{0xBE01}[0x000A]Cuando un Pokémon pasa a mejor vida, lo[0x000A]llevan a la Torre Pokémon para rogar por que{0xBE00}[0x000A]su espíritu halle eterno descanso.
+msg_town005_youngm_01=Dicen que últimamente están apareciendo[0x000A]fantasmas en la Torre Pokémon.{0xBE01}[0x000A]Yo diría que son espíritus de Pokémon[0x000A]secuestrados por el Team Rocket.
+msg_town005_oldf_01=Aaah... Cómo me relaja el aroma del incienso...
+msg_town005_poke_01={0xFF00,0x0009}Nidoran♀:{0xFF00,0x0000} ¡Nidooo!
+msg_town005_childf_01=¡En la Torre Pokémon no se debe hacer ruido![0x000A]¿A que no lo sabías?

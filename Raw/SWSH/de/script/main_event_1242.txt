@@ -1,0 +1,12 @@
+main_event_1242_leader_01=Ich bin Mac.{0x0114,0x0014}
+main_event_1242_leader_02=Du warst also schlau genug, meine Fallgruben[0x000A]zu umgehen?{0xBE01}[0x000A]Na ja, so viel Grips muss man von jemandem[0x000A]erwarten können, der mich herausfordern will.{0x0114,0x0014}
+main_event_1242_leader_03=Tut mir echt leid, aber ich werde diesen Kampf[0x000A]rigoros dafür nutzen, dem Publikum die{0xBE00}[0x000A]unübertreffliche Kraft meiner Pokémon zu zeigen.{0x0114,0x0014}
+main_event_1242_leader_04=Komm, bringen wir’s hinter uns, Challenger.{0x0114,0x0014}
+main_event_1242_leader_05=Jetzt bin ich baff...{0x0114,0x0014}
+main_event_1242_leader_06=Aber ich muss der Realität ins Auge sehen:[0x000A]Du hast mich besiegt. Hier, der Gesteins-Orden...{0x0114,0x0014}
+main_event_1242_badge_01=Du kannst jetzt alle Pokémon bis einschließlich[0x000A]Level 50 fangen!
+main_event_1242_leader_07=Mach dir keine Gedanken um mich.[0x000A]Ich muss einfach mehr trainieren, das ist alles.{0x0114,0x0014}
+main_event_1242_npc_01=Glückwunsch zu deinem Sieg gegen Mac!{0xBE01}[0x000A]In Anerkennung deiner Leistung überreiche ich[0x000A]dir diese TM.
+main_event_1242_npc_03=Und hier hast du noch eine Nachbildung von[0x000A]Macs Uniform. Ohne die ist er nur halb so cool!
+main_event_1242_npc_02=Der Gesteins-Orden steht dir gut.[0x000A]Nur weiter so, {0x0100,0x0000}!
+main_event_1242_system_01=Möchtest du zurück zum Empfang?

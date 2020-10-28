@@ -1,0 +1,11 @@
+msg_railway_01=どの　えきまで[0x000A]れっしゃに　のりますか？
+msg_railway_select_01=ブラッシータウンえき
+msg_railway_select_02=ブラッシータウンえき
+msg_railway_select_03=ワイルドエリアえき
+msg_railway_select_04=エンジンシティえき
+msg_railway_select_05=バウタウンえき
+msg_railway_select_06=ナックルシティえき
+msg_railway_select_07=ホワイトヒルえき
+msg_railway_select_08=シュートシティえき
+msg_railway_select_09=やめる
+msg_railway_stop_01=しゃりょうてんけんの　ため[0x000A]れっしゃに　おくれが　でています

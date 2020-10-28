@@ -1,0 +1,11 @@
+msg_main0200_scientist_01=Hep ! Toi, là !
+msg_main0200_scientist_05=Ces fossiles sont à moi !
+msg_main0200_scientist_06=Parfaitement, les deux ![0x000A]Donc, pas touche !
+msg_science_02_02={0xBDFF:0x0003}
+msg_main0200_scientist_02=OK, OK, on peut partager... Chacun le sien ![0x000A]Comme ça, pas de jaloux.
+msg_main0200_sys_01=Voulez-vous prendre le Fossile Dôme ?
+msg_main0200_sys_02=Voulez-vous prendre le Nautile ?
+msg_main0200_sys_03=Vous obtenez le Nautile !
+msg_main0200_sys_04=Vous obtenez le Fossile Dôme !
+msg_main0200_scientist_03=OK, je prends l’autre, alors !
+msg_main0200_scientist_04=Il paraît que, très loin d’ici, il y a un laboratoire[0x000A]où des chercheurs tentent de restaurer{0xBE00}[0x000A]des fossiles de Pokémon.{0xBE01}[0x000A]Ce laboratoire se trouverait à Cramois’Île...

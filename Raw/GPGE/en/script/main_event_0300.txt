@@ -1,0 +1,13 @@
+msg_main0300_rival_01={0x01CD,0x0001}: Eyaaarrrgh!
+msg_main0300_rival_02=Oh! {0x0100,0x0000}![0x000A]You’ve gotta—! You’re not gonna believe this!{0xBE01}[0x000A]A P-P-Pokémon... It...it... Gahhh!
+msg_main0300_dummy_01={0xBDFF:0x0002}
+msg_main0300_rival_03={0x01CD,0x0001}: Hah...[0x000A]Deep breaths...{0xBE01}[0x000A]OK. Let me try that again...{0xBE01}[0x000A]Sorry, it’s not like me to lose my cool like that...
+msg_main0300_rival_04=There’s a house up ahead where this famous[0x000A]Pokémon fanatic is supposed to live...{0xBE01}[0x000A]I wanted to stop by, because I thought maybe I’d[0x000A]get to see some rare Pokémon or something.
+msg_main0300_rival_05=But what I found...[0x000A]and don’t freak out when you hear this...
+msg_main0300_rival_06=That Pokémon fanatic Bill wasn’t there...{0xBE01}[0x000A]Instead there was a Pokémon...that TALKED!
+msg_main0300_rival_07=Eeesh, just thinking about it gives me the creeps![0x000A]Don’t go in there, {0x0100,0x0000}!
+msg_rival_01_p01_field_t005={0xBDFF:0x0008}
+msg_rival_01_p02_field_t005={0xBDFF:0x0009}
+msg_rival_01_p03_field_t005={0xBDFF:0x000A}
+msg_rival_01_p05_field_t005={0xBDFF:0x000B}
+msg_rival_01_p06_field_t005={0xBDFF:0x000C}

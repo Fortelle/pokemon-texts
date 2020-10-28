@@ -1,0 +1,8 @@
+msg_t0801pc0101_npc1_01=Hé, toi ! T’as pas intérêt à faire pleurer[0x000A]le Morpeko d’Rosemary !
+msg_t0801pc0101_npc1_02=Hé, toi ! Tu sais quoi faire la prochaine fois[0x000A]que t’affronteras Rosemary, hein ?
+msg_t0801pc0101_npc2_01=Puisque t’es là, vas-y ! Mesure-toi à Peterson !
+msg_t0801pc0101_npc2_02=Peterson... C’est pas un gros fan du président,[0x000A]mais il kiffe le Défi des Arènes !
+msg_t0801pc0101_npc3_01=Y’a pas à dire, les Dresseurs qui viennent à[0x000A]Smashings, ils ont de bonnes têtes de vainqueurs !
+msg_t0801pc0101_npc3_02=Tant pis, je vais jouer au jeu des mimes[0x000A]avec M. Mime ! Il a un talent... inimitable !
+msg_t0501_pc0101_poke1_01_pop={0xBDFF:0x0006}
+msg_t0801_pc0101_poke1_01_pop=Wiii... !

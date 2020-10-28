@@ -1,0 +1,13 @@
+main_event_1430_leader_01=Yo ! Mais qui voilà ? T’aimes te faire désirer,[0x000A]Challenger ! J’avoue, je suis pareil.{0x0114,0x0017}
+main_event_1430_leader_02=Je comprends maintenant pourquoi tu as été[0x000A]recommandé{0x1100,0x00FF,0x0100}e personnellement par Tarak !{0x0114,0x0017}
+main_event_1430_leader_03=Et je sais que ton but ultime, ton endgame,[0x000A]c’est de l’affronter...{0xBE00}[0x000A]Mais c’est pas gagné d’avance !{0xBE01}[0x000A]Déjà, parce qu’il faut que tu arrives à me vaincre,[0x000A]moi... Roy le grandiose !{0x0114,0x0017}
+main_event_1430_leader_04=Et va pas croire que ça sera aussi facile[0x000A]que dans les autres Arènes ! Je me contente pas{0xBE00}[0x000A]de plier la météo à ma volonté,{0xBE00}[0x000A]je me spécialise aussi dans les 2 contre 2.{0xBE01}[0x000A]Eh ouais ! Faut être prêt à tout, quand on ose[0x000A]défier le grand Roy !{0x0114,0x0017}
+main_event_1430_leader_05=Y’a pas à dire, ça fait du bien, un bon combat.[0x000A]Ça remet les idées en place !{0x0114,0x0017}
+main_event_1430_leader_06=Faut vraiment que j’arrête de me reposer[0x000A]sur mes lauriers !{0xBE01}[0x000A]Je prétends être le plus grand rival de Tarak,[0x000A]mais je me fais battre par des Challengers{0xBE00}[0x000A]comme toi...{0xBE00}[0x000A]C’est pas comme ça que je vais devenir Maître !{0x0114,0x0017}
+main_event_1430_leader_07=Enfin bref ! Tiens, c’est la preuve de ta victoire ![0x000A]Le Badge Dragon !{0x0114,0x0017}
+main_event_1430_badge_01=Vous pouvez maintenant capturer des Pokémon[0x000A]de n’importe quel niveau !
+main_event_1430_leader_08=Maintenant, tu détiens tous les Badges de Galar !{0x0114,0x0017}
+main_event_1430_leader_09=À toi de jouer ![0x000A]Si tu veux avoir une chance d’affronter Tarak,{0xBE00}[0x000A]il va falloir que tu gagnes tous tes matchs !{0xBE01}[0x000A]On verra bien si tu en es capable...{0x0114,0x0017}
+main_event_1430_trainer_01=Maintenant que tu as tous les Badges,[0x000A]tu es prêt{0x1100,0x00FF,0x0100}e pour les Poké Masters !
+main_event_1430_trainer_02=Tu as obtenu tous les Badges ![0x000A]Mes félicitations !
+main_event_1430_system_01=Voulez-vous retourner à la réception ?

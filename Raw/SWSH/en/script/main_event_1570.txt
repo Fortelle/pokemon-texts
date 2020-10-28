@@ -1,0 +1,17 @@
+main_event_1570_telop_01=Several hours later...
+main_event_1570_rival_01=This is absurd...[0x000A]Even Lee’s never this late. Something’s not right.{0x0114,0x0005}
+main_event_1570_rival_02=He always does what he says he’ll do.{0xBE01}[0x000A]As a kid, he promised me he’d become Champion[0x000A]one day, and he went and did just that!{0x0114,0x0005}
+main_event_1570_rival_03=He ought to be able to keep to his own[0x000A]dinner plans!{0x0114,0x0005}
+main_event_1570_leader_01=Kid’s sure got a mouth on him, huh?{0xBE01}[0x000A]If you were that noisy durin’ battle, you’d[0x000A]unleash a whole new level of power, you know.{0x0114,0x0016}
+main_event_1570_rival_04=Oh, pack it in, Piers![0x000A]I’m seriously worried here!{0xBE01}[0x000A]So I don’t need to see your smug mug looking[0x000A]like you’re having a go at me, even though you{0xBE00}[0x000A]act like you’re giving me good advice!{0x0114,0x0005}
+main_event_1570_leader_02=Judgin’ by appearances?[0x000A]No wonder you lost to your mate.{0x0114,0x0016}
+main_event_1570_leader_03=If you’re lookin’ for the Champion, I saw him[0x000A]headin’ to Rose Tower.{0x0114,0x0016}
+main_event_1570_select_01=Why would he go there?
+main_event_1570_select_02=Rose Tower?
+main_event_1570_leader_04=Dunno what he’s up to, but I ran into him at the[0x000A]monorail platform.{0xBE01}[0x000A]He said to tell you that he had somethin’ to do[0x000A]at Rose Tower, so he’d be late to your dinner.{0x0114,0x0016}
+main_event_1570_rival_05=But why Rose Tower?[0x000A]What could he have to do there at this hour?{0x0114,0x0005}
+main_event_1570_rival_06=Piers, do us a favor.[0x000A]Take us to Rose Tower, would you?{0xBE01}[0x000A]Neither {0x0100,0x0000} nor I know the way.{0x0114,0x0005}
+main_event_1570_leader_05=Sheesh... What rude siblings, always so[0x000A]demandin’ of others.{0x0114,0x0016}
+main_event_1570_leader_06=Though I s’ppose...{0xBE01}[0x000A]It’s a real problem for me, too, if the Finals are[0x000A]held up for any reason.{0xBE01}[0x000A]And I don’t really hate the two of you little runts.[0x000A]You were good enough to beat me, after all.{0x0114,0x0016}
+main_event_1570_leader_07=So I think I’ll invite Team Yell along, and we’ll all[0x000A]have ourselves a bit of fun. Shall we?{0x0114,0x0016}
+main_event_1570_rival_07=Brilliant! You’re the best, Piers![0x000A]Let’s go make a real ruckus!{0x0114,0x0005}

@@ -1,0 +1,9 @@
+msg_main0610_guard_01=I’m on guard duty.[0x000A]And I take my duty very seriously.{0xBE00}[0x000A]But, gee, am I ever thirsty!{0xBE01}[0x000A]I wish I had some {0xFF00,0x0006}tea{0xFF00,0x0000} to drink...
+msg_main0610_guard_05=Oh, hold on there, kid.[0x000A]I’m afraid I can’t let you pass through here.
+msg_main0610_guard_02=Oh, that tea you have...[0x000A]It looks awfully tasty...
+msg_main0610_guard_03=What? I can have a drink?[0x000A]Gee, thanks!
+msg_main0610_guard_06=*glug glug glug*{0xBE01}[0x000A]*glug glug glug*{0xBE01}[0x000A]Well... *glug glug*{0xBE01}[0x000A]If you really wanna go to Saffron City... *glug*{0xBE01}[0x000A]I guess I can let you past... *glug glug* *gulp*
+msg_main0610_guard_07=I’ll share this tea with the guards working[0x000A]the other gates around the city, too.
+msg_main0610_guard_04=Oh, you’re that kid...[0x000A]Thanks again for before!
+msg_main0610_middlef_01=Oh dear, I think I gave that poor guard too many[0x000A]Pewter Crunchies to eat...{0xBE01}[0x000A]They’re rather dry if you don’t have any tea or[0x000A]anything to wash them down...
+msg_main0610_middlef_02=There really is nothing like a hot cup of tea to[0x000A]go with your Pewter Crunchies!

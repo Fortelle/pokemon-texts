@@ -1,0 +1,26 @@
+¿Quieres conectarte a internet?
+Estableciendo conexión a internet...[0x000A]Espera unos instantes.
+Finalizando la conexión...[0x000A]Espera un momento.
+Comunicación local activada.{0xBE01}
+Se va a establecer la conexión a internet.[0x000A]Tu partida se guardará.{0xBE01}[0x000A]¿Deseas seguir adelante?
+Conexión en curso...[0x000A]Espera unos instantes.
+Se ha establecido la conexión a internet.{0xBE01}
+Interrumpiendo la conexión a internet...
+Se ha activado la conexión a internet.{0xBE01}
+¿Seguro que quieres interrumpir la conexión[0x000A]a internet?
+Interrumpiendo la conexión...[0x000A]Espera un momento.
+Comunicación local activada.{0xBE01}
+Conectando con Pokémon Global Link...
+No se ha podido usar Sincronizar Juego porque[0x000A]el ID para Sincronizar no está registrado en el{0xBE00}[0x000A]sitio web de Pokémon Global Link.{0xBE01}[0x000A]Accede al sitio web de Pokémon Global Link e[0x000A]introduce tu ID para Sincronizar.{0xBE01}
+El servidor está colapsado en este momento.[0x000A]Se interrumpirá la función Sincronizar Juego.
+Se ha interrumpido la función Sincronizar Juego[0x000A]porque no ha pasado suficiente tiempo desde la{0xBE00}[0x000A]última vez que se usó la función.{0xBE01}[0x000A]Vuelve a intentarlo más tarde.{0xBE01}
+Se va a guardar la partida.[0x000A]¿Deseas continuar?
+Guardando...[0x000A]Espera unos instantes.
+Sincronizando el juego...[0x000A]No apagues la consola.
+Sí
+No
+¡Hay un nuevo minijuego global disponible![0x000A][0x000A]Para participar en él, habla con la encargada de[0x000A]los minijuegos globales en la recepción del[0x000A]castillo.
+Conectando con el servidor...[0x000A]Espera unos instantes.
+No se ha podido realizar la sincronización.{0xBE01}
+Comprobando datos...[0x000A]Espera un momento.
+No se puede establecer la conexión a internet[0x000A]debido a la configuración del control parental.{0xBE01}

@@ -1,0 +1,14 @@
+poke_waza_dragon_01_01=Draco Meteor ist die stärkste Drachen-Attacke,[0x000A]die es gibt!{0xBE01}[0x000A]Soll ich sie einem deiner Pokémon beibringen?
+poke_waza_dragon_01_02=Verstehe... Manch einen kann so eine mächtige[0x000A]Attacke auch schlichtweg überfordern.
+poke_waza_dragon_01_03=Rein theoretisch wäre dein Pokémon schon dazu[0x000A]in der Lage, die Attacke zu erlernen.{0xBE01}[0x000A]Es gäbe da allerdings noch eine Bedingung,[0x000A]die es zuvor erfüllen müsste.{0xBE01}[0x000A]Ich kann die Attacke nämlich nur Pokémon[0x000A]beibringen, die maximales Zutrauen zu ihrem{0xBE00}[0x000A]Trainer haben.
+poke_waza_dragon_01_04=In deinem Team befindet sich leider kein[0x000A]Pokémon, das die Attacke erlernen könnte.{0xBE01}[0x000A]Schau wieder vorbei, wenn du ein Pokémon hast,[0x000A]dem ich die Attacke beibringen kann!
+poke_waza_dragon_01_05=Gut, dann wähle bitte aus, welchem Pokémon[0x000A]ich die Attacke beibringen soll.
+poke_waza_dragon_01_06=Oh, dieses Pokémon kann die Attacke leider[0x000A]nicht erlernen.
+poke_waza_dragon_01_07=Ist das dein Ernst? Das ist doch ein Ei![0x000A]Einem Ei kann ich die Attacke nicht beibringen!
+poke_waza_dragon_01_08=Oh, dieses Pokémon beherrscht Draco Meteor[0x000A]bereits!
+poke_waza_dragon_01_09=Draco Meteor ist ohne Zweifel die stärkste[0x000A]Drachen-Attacke weit und breit.{0xBE01}[0x000A]Wird sie von einem Pokémon eingesetzt, sinkt im[0x000A]Gegenzug jedoch sein Spezial-Angriff stark!
+poke_waza_dragon_sys_01=Welche Attacke soll durch[0x000A]{0x0107,0x0000} ersetzt werden?
+poke_waza_dragon_sys_02={0x0102,0x0000} erlernt[0x000A]{0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+poke_waza_dragon_sys_03=Eins,{0xBE02:0x0014} zwei{0xBE02:0x0014} und{0xBE02:0x0014}... schwupp!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} hat {0x0107,0x0001}[0x000A]vergessen und {0x0107,0x0002} erlernt!{0xBE05,0x0004}{0xBE05,0x0001}
+poke_waza_dragon_sys_04={0x0102,0x0000} hat[0x000A]{0x0107,0x0001} nicht erlernt.
+poke_waza_dragon_01_10=Welche Attacke soll vergessen werden?

@@ -1,0 +1,45 @@
+La tarjeta SD está llena.[0x000A]No es posible descargar los datos.
+No se han encontrado datos en el[0x000A]servidor.[0x000A]Vuelve a intentarlo más tarde.
+Se ha interrumpido la conexión con el[0x000A]servidor.
+Se ha producido un error de conexión.[0x000A]La conexión se ha interrumpido.
+Se ha interrumpido la comunicación con[0x000A]el otro jugador.
+Se ha interrumpido la conexión con el[0x000A]servidor.
+Se ha producido un error de conexión.
+No se ha podido conectar con el otro[0x000A]jugador.[0x000A]Inténtalo de nuevo desde el principio.
+Es posible que el transmisor de[0x000A]infrarrojos de tu consola esté dañado.[0x000A]Inténtalo de nuevo desde el principio. Si[0x000A]el problema continúa, ponte en contacto[0x000A]con el servicio de atención al cliente[0x000A]de Nintendo.
+No se ha podido establecer la[0x000A]comunicación por infrarrojos. Asegúrate[0x000A]de que tanto tú como la otra persona[0x000A]elegís la misma opción e inténtalo[0x000A]otra vez.
+Se ha producido un error en el servidor.[0x000A]Vuelve a intentarlo.[0x000A](Error: 090-0230)
+Se ha producido un error en el servidor.[0x000A]Vuelve a intentarlo.[0x000A](Error: 090-0231)
+En estos momentos se están realizando[0x000A]labores de mantenimiento en el servidor.[0x000A]Vuelve a intentarlo más tarde.[0x000A](Error: 090-0232)
+Se ha producido un error en el servidor[0x000A]de Pokémon Global Link.[0x000A]Vuelve a intentarlo.[0x000A](Error: 090-0200)
+Se ha producido un error en el servidor[0x000A]de Pokémon Global Link.[0x000A]Vuelve a intentarlo.[0x000A](Error: 090-0201)
+Se ha producido un error en el servidor[0x000A]de Pokémon Global Link.[0x000A]Vuelve a intentarlo.[0x000A](Error: 090-0202)
+Se ha producido un error en el servidor[0x000A]de Pokémon Global Link.[0x000A]Vuelve a intentarlo.[0x000A](Error: 090-0203)
+Se ha producido un error en el servidor[0x000A]de Pokémon Global Link.[0x000A]Vuelve a intentarlo.[0x000A](Error: 090-0204)
+Se ha producido un error en el servidor[0x000A]de Pokémon Global Link.[0x000A]Vuelve a intentarlo.[0x000A](Error: 090-0205)
+Se ha producido un error en el servidor[0x000A]de Pokémon Global Link.[0x000A]Vuelve a intentarlo.[0x000A](Error: 090-0206)
+Se ha interrumpido la función[0x000A]Sincronizar Juego porque no ha[0x000A]pasado suficiente tiempo desde[0x000A]la última vez que se usó la función.[0x000A]Vuelve a intentarlo más tarde.[0x000A](Error: 090-0207)
+Se ha producido un error en el servidor[0x000A]de Pokémon Global Link.[0x000A]Vuelve a intentarlo.[0x000A](Error: 090-0208)
+Se ha producido un error en el servidor[0x000A]de Pokémon Global Link.[0x000A]Vuelve a intentarlo.[0x000A](Error: 090-0209)
+No es posible conectarse con el sitio[0x000A]web oficial de Pokémon Global Link[0x000A]porque se están realizando labores[0x000A]de mantenimiento.[0x000A]Inténtalo de nuevo más tarde.[0x000A](Error: 090-0210)
+La conexión de este juego al sitio web[0x000A]de Pokémon Global Link ya no[0x000A]está disponible.[0x000A]http://www.pokemon-gl.com[0x000A](Error: 090-0211)
+Se ha producido un error en el servidor[0x000A]de Pokémon Global Link.[0x000A]Vuelve a intentarlo.[0x000A](Error HTTP: 500)
+Se ha producido un error en el servidor[0x000A]de Pokémon Global Link.[0x000A]Vuelve a intentarlo.[0x000A](Error HTTP: 502)
+Se ha producido un error en el servidor[0x000A]de Pokémon Global Link.[0x000A]Vuelve a intentarlo.[0x000A](Error HTTP: 503)
+{0xBDFF:0x001C}
+Se ha producido un error con la[0x000A]autenticación del código[0x000A]en el servidor.[0x000A]Vuelve a intentarlo.[0x000A](Error: 090-0200)
+Se ha producido un error con la[0x000A]autenticación del código[0x000A]en el servidor.[0x000A]Vuelve a intentarlo.[0x000A](Error: 090-0201)
+Se ha producido un error con la[0x000A]autenticación del código[0x000A]en el servidor.[0x000A]Vuelve a intentarlo.[0x000A](Error: 090-0202)
+Se ha producido un error con la[0x000A]autenticación del código[0x000A]en el servidor.[0x000A]Vuelve a intentarlo.[0x000A](Error: 090-0203)
+Se ha producido un error con la[0x000A]autenticación del código[0x000A]en el servidor.[0x000A]Vuelve a intentarlo.[0x000A](Error: 090-0204)
+Se ha producido un error con la[0x000A]autenticación del código[0x000A]en el servidor.[0x000A]Vuelve a intentarlo.[0x000A](Error: 090-0205)
+Se ha producido un error con la[0x000A]autenticación del código[0x000A]en el servidor.[0x000A]Vuelve a intentarlo.[0x000A](Error: 090-0206)
+No se pueden comprobar los códigos[0x000A]porque se están realizando labores de[0x000A]mantenimiento en el servidor.[0x000A]Vuelve a intentarlo más tarde.[0x000A](Error: 090-0210)
+La conexión de Pokémon Sol y[0x000A]Pokémon Luna al sitio web de[0x000A]Pokémon Global Link ya no está[0x000A]disponible.[0x000A](Error: 090-0211)
+Se ha producido un error con la[0x000A]autenticación del código[0x000A]en el servidor.[0x000A]Vuelve a intentarlo más tarde.[0x000A](Error HTTP: 500)
+Se ha producido un error con la[0x000A]autenticación del código[0x000A]en el servidor.[0x000A]Vuelve a intentarlo más tarde.[0x000A](Error HTTP: 502)
+Se ha producido un error con la[0x000A]autenticación del código[0x000A]en el servidor.[0x000A]Vuelve a intentarlo más tarde.[0x000A](Error HTTP: 503)
+Se ha denegado la conexión al sitio web[0x000A]de Pokémon Global Link desde[0x000A]estos datos de guardado.[0x000A](Error: 090-0212)
+No se puede usar la función[0x000A]Sincronizar Juego desde estos[0x000A]datos de guardado.[0x000A](Error: 090-0213)
+No se ha podido reconocer la tarjeta[0x000A]SD.[0x000A][0x000A]Apaga la consola y vuelve a insertar la[0x000A]tarjeta SD.
+Se ha producido un error de conexión.[0x000A][0x000A]Pulsa el botón POWER para cerrar el[0x000A]juego.

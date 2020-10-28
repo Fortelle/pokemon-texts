@@ -1,0 +1,6 @@
+msg_main0100_clerkm_01=Hé ! Tu viens de Bourg Palette ?
+msg_main0100_clerkm_02=Tu connais le Professeur Chen ?{0xBE01}[0x000A]Je devais lui apporter un truc, mais je suis[0x000A]débordé.{0xBE01}[0x000A]Est-ce que tu pourrais me dépanner et lui livrer[0x000A]ceci à ma place ?
+msg_main0100_sys_01=Vous obtenez le {0xFF00,0x0006}Colis{0xFF00,0x0000} du Professeur Chen !
+msg_main0100_clerkm_03=Merci, tu me sauves la mise ![0x000A]Et passe le bonjour au Professeur de ma part !
+msg_main0100_clerkm_04={0xBDFF:0x0004}
+msg_main0100_sys_02=Voulez-vous aller directement au laboratoire ?

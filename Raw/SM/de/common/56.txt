@@ -1,0 +1,127 @@
+Es ist kein Platz für weitere Geschenke.{0xBE01}[0x000A]Bitte schaffe erst Platz in deinem Kartenalbum[0x000A]und hole dir deine Geschenke vom Lieferanten{0xBE00}[0x000A]im Pokémon-Center ab.{0xBE01}
+Du kannst noch bis zu {0x0200,0x0000} Geschenk{0x1101,0x0000,0x0100}e empfangen.{0xBE01}[0x000A]Willst du danach weitere Geschenke empfangen,[0x000A]musst du zuerst die Geschenke vom Lieferanten{0xBE00}[0x000A]im Pokémon-Center entgegennehmen.{0xBE01}
+Wähle bitte aus, auf welche Weise du[0x000A]das Geschenk erhalten möchtest.
+Die Infrarotverbindung wird nun gestartet.{0xBE01}[0x000A]Richte dein System auf das eines anderen[0x000A]Spielers aus und wähle „Ja“.
+Suche nach Geschenk...[0x000A]Datenempfang bei {0x0202,0x0000}/100...
+Fehler beim Empfang des Geschenks.{0xBE01}
+{0xBDFF:0x0006}
+Warnung:{0xBE01}[0x000A]Wenn du per Seriencode oder per Passwort ein[0x000A]Geschenk empfängst und vor Abschluss des{0xBE00}[0x000A]Vorgangs das System ausgeschaltet oder die{0xBE00}[0x000A]Verbindung unterbrochen wird, verliert der{0xBE00}[0x000A]Seriencode beziehungsweise das Passwort{0xBE00}[0x000A]eventuell seine Gültigkeit.{0xBE01}[0x000A]Überprüfe daher im Vorfeld immer den[0x000A]Batteriestatus deines Systems und stelle sicher,{0xBE00}[0x000A]dass eine stabile Internetverbindung vorliegt.{0xBE01}[0x000A]Willst du nun per Seriencode oder per Passwort[0x000A]ein Geschenk empfangen?
+Soll eine Internetverbindung hergestellt werden?
+Verbindung wird hergestellt...[0x000A]Bitte warte einen Moment.
+Eingabe zurzeit nicht möglich, da der Seriencode[0x000A]beziehungsweise das Passwort wiederholt{0xBE00}[0x000A]falsch eingegeben wurde.{0xBE01}[0x000A]Bitte warte eine Weile und versuche es[0x000A]anschließend erneut.{0xBE01}
+Bitte gib einen Seriencode oder ein Passwort ein.{0xBE01}
+Die Eingabe wird überprüft...[0x000A]Bitte das System nicht ausschalten.
+Der Seriencode beziehungsweise das Passwort[0x000A]ist falsch.{0xBE01}[0x000A]Bitte überprüfe deinen Seriencode[0x000A]beziehungsweise dein Passwort.{0xBE01}
+Seriencode beziehungsweise Passwort erneut[0x000A]eingeben?
+Keine Geschenke vorhanden.{0xBE01}
+Dieses Geschenk hast du bereits empfangen.[0x000A]Ein zweites Mal kannst du es nicht erhalten.{0xBE01}
+Möchtest du den Empfang von Geschenken[0x000A]abbrechen?
+Geschenk wird empfangen...[0x000A]Bitte das System nicht ausschalten.
+Dieses Geschenk kannst du nur ein Mal pro Tag[0x000A]empfangen.{0xBE01}[0x000A]Da du es heute bereits erhalten hast, kannst du[0x000A]es erst morgen wieder in Empfang nehmen.{0xBE01}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+Bitte beachte, dass du dieses Geschenk nur[0x000A]ein Mal pro Tag empfangen kannst.{0xBE01}[0x000A]Nach Empfang musst du bis zum nächsten Tag[0x000A]warten, bevor du es erneut erhalten kannst.{0xBE01}
+Das Geschenk wurde empfangen.[0x000A]Bitte drücke den A-Knopf.{0xBE01}
+Was soll mit der Wunderkarte geschehen?
+Willst du diese Karte wirklich wegwerfen?
+Da du das Geschenk noch nicht empfangen[0x000A]hast, kannst du die Karte nicht wegwerfen.{0xBE01}
+Bitte wähle die auszutauschende Karte.
+Albendaten werden gespeichert...[0x000A]Bitte das System nicht ausschalten.
+Es ist kein Platz für weitere Geschenke.{0xBE01}[0x000A]Starte dein Spiel und hole dir deine Geschenke[0x000A]vom Lieferanten im Pokémon-Center ab.{0xBE01}
+Du hast zu viele Wunderkarten!{0xBE01}[0x000A]In deinem Kartenalbum ist kein Platz[0x000A]für weitere Wunderkarten.{0xBE01}[0x000A]Willst du das Kartenalbum verwalten?
+Wähle eine nicht mehr benötigte Karte aus,[0x000A]die du wegwerfen möchtest.{0xBE01}
+Solange du keine deiner Karten wegwirfst,[0x000A]kannst du keine neuen Geschenke empfangen.{0xBE00}[0x000A]Dennoch abbrechen?
+Willst du diese Karte wirklich wegwerfen?
+Worüber möchtest du mehr erfahren?
+Momentan gibt es kein Geschenk,[0x000A]das du empfangen kannst.{0xBE01}[0x000A]Drücke den B-Knopf oder wähle „Zurück“,[0x000A]um den Empfang zu beenden.{0xBE01}
+Es sind keine weiteren Geschenke vorhanden.[0x000A]Der Vorgang wird beendet.{0xBE01}
+Manche Geschenke kannst du nur ein Mal pro[0x000A]Tag empfangen. Täglich kannst du bis zu zehn{0xBE00}[0x000A]verschiedene solche Geschenke erhalten.{0xBE01}[0x000A]Du hast heute bereits zehn solche Geschenke[0x000A]erhalten und kannst sie daher erst morgen{0xBE00}[0x000A]wieder empfangen.{0xBE01}
+Die drahtlose Verbindung ist derzeit[0x000A]deaktiviert.{0xBE01}[0x000A]Bitte aktiviere die drahtlose Verbindung.{0xBE01}
+Es liegen neue Update-Daten vor.{0xBE01}[0x000A]Um mit dieser Software eine Verbindung[0x000A]zum Internet herzustellen, musst du die{0xBE00}[0x000A]Update-Daten herunterladen.{0xBE01}[0x000A]Möchtest du die Software beenden,[0x000A]zum Nintendo eShop wechseln und die{0xBE00}[0x000A]Update-Daten herunterladen?
+Der Vorgang wird beendet, da keine Verbindung[0x000A]zum Internet hergestellt werden kann.{0xBE01}
+{0xBDFF:0x002C}
+Die Karte wurde weggeworfen.{0xBE01}
+Du hast das Geschenk noch nicht empfangen.[0x000A]Möchtest du trotzdem fortfahren?
+Der Seriencode beziehungsweise das Passwort[0x000A]ist falsch.{0xBE01}[0x000A]Bitte überprüfe deinen Seriencode[0x000A]beziehungsweise dein Passwort.{0xBE01}
+Das zu diesem Seriencode beziehungsweise[0x000A]Passwort gehörige Geschenk kann mit dieser{0xBE00}[0x000A]Software nicht empfangen werden.{0xBE01}
+Das zu diesem Seriencode beziehungsweise[0x000A]Passwort gehörige Geschenk kann mit dieser{0xBE00}[0x000A]Software nicht empfangen werden.{0xBE01}
+Dieser Seriencode wurde bereits eingelöst.{0xBE01}[0x000A]Eingelöste Seriencodes können nicht für eine[0x000A]weitere Software verwendet werden.{0xBE01}
+Das zu diesem Seriencode beziehungsweise[0x000A]Passwort gehörige Geschenk wurde bereits{0xBE00}[0x000A]empfangen.{0xBE01}
+Dieser Seriencode wurde bereits mit einer[0x000A]anderen Software eingelöst.{0xBE01}
+Das zu diesem Seriencode beziehungsweise[0x000A]Passwort gehörige Geschenk kann noch nicht{0xBE00}[0x000A]empfangen werden.{0xBE01}
+Das Abholrecht für das Geschenk mit diesem[0x000A]Seriencode beziehungsweise Passwort ist{0xBE00}[0x000A]bereits verfallen.{0xBE01}
+Die Aktualisierung des Seriencodes[0x000A]beziehungsweise Passworts ist fehlgeschlagen.{0xBE01}[0x000A]Das zugehörige Geschenk kann nicht empfangen[0x000A]werden.{0xBE01}
+Geschenk empfangen
+Kartenalbum ansehen
+Informationen
+Ja
+Nein
+Rückseite ansehen
+Vorderseite ansehen
+Karte wegwerfen
+Austauschen
+Kartenalbum
+Volles Kartenalbum
+Geheimgeschehen
+Per Lokalem Modus empfangen
+Per Internet empfangen
+Per Infrarot empfangen
+Per Seriencode/Passwort empfangen
+{0xBDFF:0x0048}
+Zurück
+{0x0200,0x0000}
+/
+Informationen
+Worüber möchtest du mehr erfahren?
+{0x012E,0x0000}
+{0x012E,0x0000}[0x000A]{0x012E,0x0001}[0x000A]{0x012E,0x0002}[0x000A]{0x012E,0x0003}[0x000A]{0x012E,0x0004}[0x000A]{0x012E,0x0005}[0x000A]{0x012E,0x0006}[0x000A]{0x012E,0x0007}
+{0x012D,0x0000}
+A-Knopf: Beenden
+Wunderkarte
+Empfangsdatum
+{0x0201,0x0002}.{0x0201,0x0001}.20{0x0201,0x0000}
+{0x0201,0x0000}
+/
+{0x0201,0x0000}
+Geschenk wird empfangen... „{0xFF00,0x0002}{0x012E,0x0000}{0xFF00,0x0000}“
+Inhalt:[0x000A]・{0x0202,0x0001} {0x0109,0x0000}
+Inhalt:[0x000A]・{0x0102,0x0000} Lv. {0x0202,0x0001}
+Inhalt:[0x000A]・{0x0205,0x0000,0xE07F} Gewinnpunkt{0x1101,0x0000,0x0100}e
+Inhalt:[0x000A]・{0x0202,0x0001} {0x0109,0x0000}[0x000A]・{0x0202,0x0003} {0x0109,0x0002}
+Inhalt:[0x000A]・{0x0202,0x0001} {0x0109,0x0000}[0x000A]・{0x0202,0x0003} {0x0109,0x0002}[0x000A]・{0x0202,0x0005} {0x0109,0x0004}
+Inhalt:[0x000A]・{0x0202,0x0001} {0x0109,0x0000}[0x000A]・{0x0202,0x0003} {0x0109,0x0002}[0x000A]・{0x0202,0x0005} {0x0109,0x0004}[0x000A]・{0x0202,0x0007} {0x0109,0x0006}
+Inhalt:[0x000A]・{0x0202,0x0001} {0x0109,0x0000}[0x000A]・{0x0202,0x0003} {0x0109,0x0002}[0x000A]・{0x0202,0x0005} {0x0109,0x0004}[0x000A]・{0x0202,0x0007} {0x0109,0x0006}[0x000A]・{0x0202,0x0009} {0x0109,0x0008}
+Inhalt:[0x000A]・{0x0202,0x0001} {0x0109,0x0000}[0x000A]・{0x0202,0x0003} {0x0109,0x0002}[0x000A]・{0x0202,0x0005} {0x0109,0x0004}[0x000A]・{0x0202,0x0007} {0x0109,0x0006}[0x000A]・{0x0202,0x0009} {0x0109,0x0008}[0x000A]・{0x0202,0x000B} {0x0109,0x000A}
+{0xBD00,0x0003,0x0000,0x0000}Bereits empfangen!{0xBD01}
+{0xBD00,0x0003,0x0000,0x0000}Kann heute nicht mehr empfangen werden!{0xBD01}
+Inhalt:[0x000A]・Pokémon-Ei
+Kartenalbum
+Inhalt:[0x000A]・{0x0102,0x0000} Lv. {0x0202,0x0001}[0x000A]・{0x0109,0x0002}
+Geheimgeschehen
+Kartenalbum
+Wenn das Kartenalbum voll ist
+Geschenke empfangen
+Bitte wähle die Empfangsart
+Geschenk vom PGL
+Willkommen beim Geheimgeschehen![0x000A][0x000A]Das Geheimgeschehen ermöglicht dir, über[0x000A]verschiedene Datenübertragungskanäle[0x000A]fantastische Geschenke zu erhalten.[0x000A]Sobald du ein Geschenk angenommen hast,[0x000A]musst du es dir nur noch innerhalb des Spiels[0x000A]vom Lieferanten im Pokémon-Center abholen.
+Für jedes Geschenk, das du über das[0x000A]Geheimgeschehen herunterlädst, erhältst du[0x000A]eine Wunderkarte für dein Kartenalbum.[0x000A]Karten, deren zugehöriges Geschenk du schon[0x000A]abgeholt hast, werden abgestempelt.[0x000A]Geschenke für unabgestempelte Karten[0x000A]solltest du sofort beim Lieferanten abholen!
+Die Zahl der Wunderkarten, die in dein[0x000A]Album passt, ist allerdings auf 48 begrenzt.[0x000A]Ist das Fassungsvermögen des Albums[0x000A]erschöpft, kannst du keine weiteren Karten[0x000A]annehmen und musst für mehr Platz sorgen.
+Die Zahl der Wunderkarten, die in dein[0x000A]Album passt, ist allerdings auf 48 begrenzt.[0x000A]Ist das Fassungsvermögen des Albums[0x000A]erschöpft, kannst du keine weiteren Karten[0x000A]annehmen und musst für mehr Platz sorgen.
+Schlägt der Empfang eines Geschenks fehl,[0x000A]wirf einen Blick in dein Kartenalbum.[0x000A]Ist das Fassungsvermögen von[0x000A]48 Wunderkarten erschöpft, musst du eine[0x000A]der Wunderkarten wählen und sie über die[0x000A]Option „Karte wegwerfen“ entsorgen.
+Wenn du nicht alle zu den Wunderkarten im[0x000A]Album gehörigen Geschenke abgeholt hast,[0x000A]musst du zurück ins Spiel und dies beim[0x000A]Lieferanten im Pokémon-Center nachholen.
+Wenn du nicht alle zu den Wunderkarten im[0x000A]Album gehörigen Geschenke abgeholt hast,[0x000A]musst du zurück ins Spiel und dies beim[0x000A]Lieferanten im Pokémon-Center nachholen.
+Das Geheimgeschehen ermöglicht dir, über[0x000A]verschiedene Datenübertragungskanäle[0x000A]fantastische Geschenke zu erhalten.[0x000A]Sobald du ein Geschenk angenommen hast,[0x000A]musst du es dir nur noch im Pokémon-Center[0x000A]vom Lieferanten abholen.
+Geschenke können auf verschiedene Weise[0x000A]empfangen werden.[0x000A][0x000A]Folge den Anweisungen für das Geschenk,[0x000A]das du empfangen möchtest, und wähle eine[0x000A]der folgenden Methoden:[0x000A]・Per Lokalem Modus[0x000A]・Per Internet[0x000A]・Per Infrarot[0x000A]・Per Seriencode/Passwort
+Dein Kartenalbum ist leer.{0xBE01}
+Inhalt:[0x000A]・{0x0202,0x0000} Regenbogen-Pokébohne{0x1101,0x0000,0x0100}n
+Die Verbindung wird getrennt...[0x000A]Bitte warte einen Moment.
+Der Nintendo eShop kann nicht genutzt werden.{0xBE01}
+Alle Wunderkarten in deinem Album wurden[0x000A]weggeworfen.{0xBE01}
+Es wurde ein Geschenk gefunden, aber es kann[0x000A]mit dieser Software nicht empfangen werden.{0xBE01}
+{0xBDFF:0x007B}
+{0xBDFF:0x007C}
+{0xBDFF:0x007D}
+{0xBDFF:0x007E}

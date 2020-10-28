@@ -1,0 +1,17 @@
+msg_main1400_guard_01=Solo gli Allenatori più forti possono passare.[0x000A]Vedo che non hai ancora la Medaglia Sasso.{0xBE05,0x0005}{0xBE05,0x0000}{0xBE01}[0x000A]Mi dispiace, il regolamento parla chiaro:[0x000A]devo fermarti qui!
+msg_main1400_guard_02={0xBDFF:0x0001}
+msg_main1400_guard_03=Solo gli Allenatori più forti possono passare.[0x000A]Oh, ma quella è la Medaglia Sasso!{0xBE05,0x0004}{0xBE05,0x0001}{0xBE01}[0x000A]Passa pure, passa pure!
+msg_main1400_guard_04=Per di qua possono passare solo gli Allenatori[0x000A]che hanno la Medaglia Cascata, ma vedo che{0xBE00}[0x000A]ne sei sprovvist{0x1100,0x00FF,0x0101}oa...{0xBE05,0x0005}{0xBE05,0x0000}{0xBE01}[0x000A]Per accedere alla Lega Pokémon, prima devi[0x000A]procurartela!
+msg_main1400_guard_05=Per di qua possono passare solo gli Allenatori[0x000A]che hanno la Medaglia Cascata.{0xBE00}[0x000A]Ooh! Ma quella è proprio la Medaglia Cascata!{0xBE05,0x0004}{0xBE05,0x0001}{0xBE01}[0x000A]Molto bene. Passa pure!
+msg_main1400_guard_06=Puoi passare solo se hai la Medaglia Tuono!{0xBE01}[0x000A]Non ce l’hai ancora!{0xBE05,0x0005}{0xBE05,0x0000}{0xBE01}[0x000A]Per accedere alla Lega Pokémon, prima[0x000A]devi procurartela!
+msg_main1400_guard_07=Puoi passare solo se hai la Medaglia Tuono!{0xBE01}[0x000A]Oh! È proprio la Medaglia Tuono!{0xBE05,0x0004}{0xBE05,0x0001}{0xBE01}[0x000A]Benissimo! Passa pure!{0xBE01}[0x000A]A proposito, vedo anche che hai l’autografo[0x000A]di Lt. Surge... Che invidia...
+msg_main1400_guard_08=Puoi passare solo se hai la Medaglia Arcobaleno!{0xBE01}[0x000A]Non ce l’hai ancora!{0xBE05,0x0005}{0xBE05,0x0000}{0xBE01}[0x000A]Per accedere alla Lega Pokémon, prima[0x000A]devi procurartela!
+msg_main1400_guard_09=Puoi passare solo se hai la Medaglia Arcobaleno!{0xBE01}[0x000A]Oh! È proprio la Medaglia Arcobaleno!{0xBE05,0x0004}{0xBE05,0x0001}{0xBE01}[0x000A]Benissimo! Passa pure!
+msg_main1400_guard_10=Puoi passare solo se hai la Medaglia Anima!{0xBE01}[0x000A]Non ce l’hai ancora!{0xBE05,0x0005}{0xBE05,0x0000}{0xBE01}[0x000A]Per accedere alla Lega Pokémon, prima[0x000A]devi procurartela!
+msg_main1400_guard_11=Puoi passare solo se hai la Medaglia Anima!{0xBE01}[0x000A]Oh! È proprio la Medaglia Anima!{0xBE05,0x0004}{0xBE05,0x0001}{0xBE01}[0x000A]Benissimo! Passa pure!
+msg_main1400_guard_12=Puoi passare solo se hai la Medaglia Palude!{0xBE01}[0x000A]Non ce l’hai ancora!{0xBE05,0x0005}{0xBE05,0x0000}{0xBE01}[0x000A]Per accedere alla Lega Pokémon, prima[0x000A]devi procurartela!
+msg_main1400_guard_13=Puoi passare solo se hai la Medaglia Palude!{0xBE01}[0x000A]Oh! È proprio la Medaglia Palude!{0xBE05,0x0004}{0xBE05,0x0001}{0xBE01}[0x000A]Benissimo! Passa pure!
+msg_main1400_guard_14=Puoi passare solo se hai la Medaglia Vulcano!{0xBE01}[0x000A]Non ce l’hai ancora!{0xBE05,0x0005}{0xBE05,0x0000}{0xBE01}[0x000A]Per accedere alla Lega Pokémon, prima[0x000A]devi procurartela!
+msg_main1400_guard_15=Puoi passare solo se hai la Medaglia Vulcano!{0xBE01}[0x000A]Oh! È proprio la Medaglia Vulcano!{0xBE05,0x0004}{0xBE05,0x0001}{0xBE01}[0x000A]Benissimo! Passa pure!
+msg_main1400_guard_16=Puoi passare solo se hai la Medaglia Terra!{0xBE01}[0x000A]Non ce l’hai ancora!{0xBE05,0x0005}{0xBE05,0x0000}{0xBE01}[0x000A]Per accedere alla Lega Pokémon, prima[0x000A]devi procurartela!
+msg_main1400_guard_17=Puoi passare solo se hai la Medaglia Terra!{0xBE01}[0x000A]Oh! È proprio la Medaglia Terra!{0xBE05,0x0004}{0xBE05,0x0001}{0xBE01}[0x000A]Benissimo! Passa pure![0x000A]La Lega Pokémon ti aspetta!

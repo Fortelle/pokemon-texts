@@ -1,0 +1,31 @@
+Wie heißt du?
+Wie soll {0x0101,0x0000} heißen?
+Wie soll die Box heißen?
+Wie möchtest du andere Spieler begrüßen?
+Wie soll dein Spitzname lauten?
+Bitte gib eine kurze Nachricht[0x000A]an deinen Tauschpartner ein.
+Nach welchem Pokémon suchst du?
+Was sagst du, wenn du fröhlich bist?
+Welches Pokémon möchtest du?
+Wie lautet deine Antwort?
+Wofür entscheidest du dich?
+Was sagst du, wenn du fröhlich bist?
+Was sagst du, um andere zu ermutigen?
+Was willst du den anderen Spielern mitteilen?
+Gib eine Nachricht ein.
+Wie soll dein Kampfteam heißen?
+Wie soll dein Festival-Plaza heißen?
+Diese Eingabe ist nicht zulässig.
+Die Eingabe darf nicht mehr[0x000A]als fünf Ziffern beinhalten.
+Diese Eingabe ist als Name unzulässig.
+Bitte gib einen Spitznamen ein.
+Bitte gib einen Namen ein.
+Bitte gib eine Antwort ein.
+Entf.
+O.K.
+Leerzeichen
+Entf.
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+{0x0101,0x0000}
+Über die Kommunikationsfunktionen kann das, was[0x000A]du hier eingibst, an andere Leute geschickt werden.

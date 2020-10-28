@@ -1,0 +1,41 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+Eh oui, c’est chez moi ici[0xE07F]! Je sais, c’est vide, ce n’est[0x000A]pas un endroit pour recevoir des gens, mais enfin…{0xBE01}[0x000A]…{0xBE01}[0x000A]Venons-en aux faits.
+Commençons par récapituler les événements[0x000A]qui se sont déroulés récemment autour de nous.
+Le grondement de la terre et l’explosion assourdissante[0x000A]de tout à l’heure…{0xBE01}[0x000A]Tous ces événements indiquent que le sceau caché[0x000A]au fond de l’océan a été brisé.
+Il y a fort longtemps, un Pokémon antique fut enfermé[0x000A]dans la Caverne Fondmer, au fin fond du Chenal 128.{0xBE01}[0x000A]Il s’y endormit, et l’entrée de la caverne fut scellée[0x000A]grâce au pouvoir d’un certain Pokémon pour empêcher{0xBE00}[0x000A]quiconque, humains comme Pokémon, d’y pénétrer.{0xBE01}[0x000A]Malheureusement, il semble que des personnes fort mal[0x000A]intentionnées soient parvenues à briser le sceau.{0xBE01}[0x000A]De toute évidence, leur objectif est de libérer ce[0x000A]Pokémon ancestral afin de s’approprier son pouvoir.
+{0x0100,0x0000}…
+{0x0100,0x0000}…
+Si par malheur ils parvenaient à s’emparer de ce pouvoir,[0x000A]cela briserait l’équilibre du monde et mettrait en danger{0xBE00}[0x000A]la vie de tous les êtres vivants sur cette planète.{0xBE01}[0x000A]Je suis prêt à faire tout mon possible pour empêcher que[0x000A]la situation ne dégénère jusque-là.{0xBE01}[0x000A]Ceci dit, je n’y parviendrai pas seul…[0x000A]C’est pour cela que j’ai besoin de toi.{0xBE01}[0x000A]Aide-moi à mettre un terme aux agissements de[0x000A]la Team Aqua et de la Team Magma[0xE07F]!{0xBE01}[0x000A]Si nos Pokémon et nous unissons nos forces, nous[0x000A]parviendrons à surmonter cette situation désespérée[0xE07F]!{0xBE00}[0x000A]C’est le seul espoir qu’il nous reste.
+Tiens, je te confie ceci…
+C’est la CS Plongée.{0xBE01}[0x000A]C’est une capacité exceptionnelle qui te permet[0x000A]de plonger sous l’eau avec tes Pokémon.
+Et pour que tu puisses respirer sous l’eau avec eux,[0x000A]tu auras besoin de ceci.
+Utilise {0xFF00,0x0002}Plongée {0xFF00,0x0000}quelque part sur le{0xFF00,0x0002} Chenal 128{0xFF00,0x0000}[0x000A]pour atteindre l’entrée de la {0xFF00,0x0002}Caverne Fondmer{0xFF00,0x0000}.
+Je t’y rejoindrai à tire-d’aile dès que j’en aurai fini[0x000A]avec mon travail ici.
+D’ici là, je compte sur toi pour ralentir[0x000A]la Team Aqua et la Team Magma[0xE07F]!{0xBE01}[0x000A]J’ai confiance en toi[0xE07F]!
+{0x0100,0x0000} examine la Poké Ball.[0x000A]Il y a un Terhal à l’intérieur[0xE07F]!{0xBE01}[0x000A]Voulez-vous prendre la Poké Ball[0xE07F]?
+Le Terhal rejoint l’équipe de {0x0100,0x0000}[0xE07F]!
+Votre équipe est au complet[0xE07F]!
+{0x0100,0x0000} laisse la Poké Ball.
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+C’est une lettre[0xE07F]!
+…
+Cher {0x0100,0x0000},
+Chère {0x0100,0x0000},
+Je vais devoir m’absenter pour continuer mon[0x000A]entraînement, et ne pourrai pas rentrer tout de suite.{0xBE01}[0x000A]J’ai un service à te demander.{0xBE01}[0x000A]Je voudrais que tu emportes la Poké Ball[0x000A]que tu trouveras sur mon bureau.{0xBE01}[0x000A]À l’intérieur se trouve Terhal, un Pokémon que j’aime[0x000A]beaucoup. Je te le confie, prends bien soin de lui[0xE07F]!{0xBE01}[0x000A]À bientôt[0xE07F]![0x000A]                    Pierre Rochard
+{0xBDFF:0x001C}
+C’est la collection de minéraux rares de Pierre[0xE07F]!
+…[0x000A]…
+En y regardant de plus près, il y a un post-scriptum[0x000A]à la fin de la lettre[0xE07F]!
+P.-S. Je t’ai envoyé un autre Terhal un peu spécial.[0x000A]Tu l’as reçu[0xE07F]?{0xBE01}[0x000A]Les deux Terhal ont la froideur, la dureté et la fierté[0x000A]propres aux Pokémon Acier.{0xBE01}[0x000A]J’espère qu’ils te rendront heureu{0x1100,0x00FF,0x0201}xse.
+Il y a une note sur la plaque.{0xBE01}[0x000A]Type : Schalstein[0x000A]Origine : Mont Couronné (région de Sinnoh)
+Il y a une note sur la plaque.{0xBE01}[0x000A]Type : Granite à biotite et hornblende[0x000A]Origine : Grotte (région de Kanto)
+Il y a une note sur la plaque.{0xBE01}[0x000A]Type : Feldspath[0x000A]Origine : Mont Creuset (région de Johto)
+Il y a une note sur la plaque.{0xBE01}[0x000A]Type : Chaille[0x000A]Origine : Mont Mémoria (région de Hoenn)
+Il y a une note sur la plaque.{0xBE01}[0x000A]Type : Péridotite[0x000A]Origine : Grotte Électrolithe (région d’Unys)
+Voulez-vous donner un surnom au Terhal[0xE07F]?
+{0xBDFF:0x0027}
+{0xBDFF:0x0028}

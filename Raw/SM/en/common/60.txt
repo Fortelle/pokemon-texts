@@ -1,0 +1,109 @@
+Communicating. Please stand by...
+Please select a person who decides the rules.
+Who decides the battle rules will be selected.{0xBE01}
+Who decides the battle rules will be selected.{0xBE01}[0x000A]For a Multi Battle, teams will also be decided.{0xBE01}
+Who decides the rules will be selected.[0x000A]Please wait.
+Please select battle rules.{0xBE01}
+Sending the rules...[0x000A]Please stand by.
+The rules you sent are corrupted.{0xBE01}[0x000A]Please select rules again.{0xBE01}
+There is a problem with the rules that you sent.[0x000A]Please select rules again.{0xBE01}
+There is a problem with the rules you received.[0x000A]Rules will be reselected.{0xBE01}
+The rules that you received are corrupted.{0xBE01}[0x000A]Rules will be reselected.{0xBE01}
+Battle rules will be reselected because at least[0x000A]one person can’t participate in the battle.{0xBE01}
+Battle rules will be reselected.{0xBE01}
+Waiting for the other player(s)...[0x000A]Please wait.
+{0xBDFF:0x000E}
+Please decide the teams.{0xBE01}
+The teams are being decided...[0x000A]Please wait.
+Who will be Position {0x0200,0x0000}?
+Please select participating Pokémon.
+Would you like to keep playing?
+You decided to quit.
+Waiting for the other player(s)...
+You are going to battle again with[0x000A]different rules.
+Somebody decided to quit.{0xBE01}
+You are going to battle again with[0x000A]different rules.
+You are going to battle again with the[0x000A]same rules.
+Do you prefer other battle rules?
+Sending a message that you won’t participate in[0x000A]a battle with the selected rules...
+{0xBDFF:0x001C}
+Would you like to cancel the battle?
+Ending communication...
+The battle will end because somebody ended[0x000A]communication.{0xBE01}
+If you can’t participate in a battle with the[0x000A]current battle rules, please select{0xBE00}[0x000A]“Can’t participate.”{0xBE01}
+Would you like to decide battle rules?
+Would you like to let another player decide[0x000A]the rules?
+{0x0100,0x0000} is deciding battle rules.
+{0x0100,0x0000} quit deciding rules.
+Select a team to battle, and start the battle.
+{0xBDFF:0x0026}
+There is a problem with the Battle Team[0x000A]you selected.
+Please check and reselect Pokémon.
+You cannot battle against the other player’s[0x000A]Battle Team because there is no latest{0xBE00}[0x000A]additional data.{0xBE01}[0x000A]The other player will reselect his or her[0x000A]Pokémon.{0xBE01}
+There is a problem with the other player’s[0x000A]Battle Team.
+Decide myself
+Let another player decide
+Play with different rules
+Play with the same rules
+{0xBDFF:0x002F}
+{0xBDFF:0x0030}
+{0xBDFF:0x0031}
+Let the battle begin!
+Participating team
+{0x0122,0x0000}
+Can’t participate
+{0xFF00,0x0001}Not selected{0xFF00,0x0000}
+Team A1
+Team A2
+Team B1
+Team B2
+---
+{0x0100,0x0000}
+Confirm the teams
+Yes
+No
+{0x0100,0x0000}
+Automatic
+Back
+Reselect
+Confirm
+{0x0100,0x0000}
+Selecting...
+Done!
+{0xBDFF:0x0048}
+{0xBDFF:0x0049}
+１
+２
+３
+４
+{0xBDFF:0x004E}
+---
+{0xBDFF:0x0050}
+Single Battle
+Double Battle
+Multi Battle
+Battle Royal
+Normal Rules
+Flat Rules
+No Restrictions
+♪ “Trainer”
+♪ “Wild Pokémon”
+♪ “Totem Pokémon”
+♪ “Island Kahuna”
+♪ “My Friend Hau”
+♪ “Gladion”
+♪ “Team Skull”
+♪ “Team Skull Admin”
+♪ “Team Skull Boss”
+♪ “Aether Foundation”
+♪ “Lusamine, Version 1”
+♪ “Lusamine, Version 2”
+♪ “Enter the Ultra Beasts”
+♪ “Elite Four”
+♪ “League Title Defense”
+♪ “Legendary Pokémon”
+♪ “Battle Royal”
+♪ “Guardian Deity”
+♪ “Battle Tree Boss”
+Song 20
+Song 21

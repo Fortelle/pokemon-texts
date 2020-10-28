@@ -1,0 +1,38 @@
+{0xBE01}
+
+
+{0xBE01}
+{0xBE01}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+Willkommen in der Welt der Pokémon!
+Mein Name ist Platan. Ich arbeite[0x000A]in der Kalos-Region als Pokémon-Professor.{0xBE01}
+Wie du vielleicht weißt, wird diese Welt von[0x000A]Wesen bevölkert, die man Pokémon nennt.{0xBE01}
+Die Pokémon sind rätselhafte Lebewesen.[0x000A]Man findet sie überall auf dem Globus.
+Manche von ihnen leben auf dem Land, andere[0x000A]in der Luft und wieder andere im Wasser...
+Die Pokémon und die Menschen helfen einander,[0x000A]wo es geht, und leben in Eintracht miteinander.{0xBE01}
+Aber sag mal... Bist du eigentlich[0x000A]ein Junge oder ein Mädchen?{0xBE01}
+Wie siehst du aus?{0xBE01}
+Aha, verstehe![0x000A]Und wie lautet dein Name?{0xBE01}
+{0x0100,0x0000} heißt du also...[0x000A]Ist das richtig?{0xBE01}
+{0x0100,0x0000} heißt du also...[0x000A]Ist das richtig?{0xBE01}
+{0x0100,0x0000}, was?[0x000A]Ein toller Name!{0xBE01}
+{0x0100,0x0000}! In wenigen Augenblicken[0x000A]wirst du in der Kalos-Region ankommen!
+Lerne dort allerlei Pokémon und Menschen kennen![0x000A]Sie werden deinen Alltag sicher bereichern.
+Und jetzt wünsche ich dir eine gute Reise![0x000A]Auf geht’s, in die Welt der Pokémon!

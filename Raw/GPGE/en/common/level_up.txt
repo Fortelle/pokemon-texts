@@ -1,0 +1,10 @@
+msg_LvUp_Type_HP=HP
+msg_LvUp_Type_ATK=Attack
+msg_LvUp_Type_DEF=Defense
+msg_LvUp_Type_SATK=Sp. Atk
+msg_LvUp_Type_SDEF=Sp. Def
+msg_LvUp_Type_SPD=Speed
+msg_LvUp_Value2=+ {0x0201,0x0000}
+msg_LvUp_Value3={0x0202,0x0000}
+msg_LvUp_Cp=CP
+msg_LvUp_Cp_Value6={0x0204,0x0000,0x002C}

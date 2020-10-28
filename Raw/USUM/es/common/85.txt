@@ -1,0 +1,18 @@
+Pokédex:
+{0x0202,0x0000}
+
+Tiempo jugado:
+{0x0202,0x0000}:{0x0201,0x0001}
+{0x0202,0x0000}
+:
+{0x0201,0x0000}
+Último guardado:
+{0x0201,0x0002}-{0x0201,0x0001}-{0x0203,0x0000,0x0000}
+{0x0105,0x0000}
+¿Quieres guardar la partida?
+Guardando...[0x000A]No apagues la consola.
+Se ha guardado la partida.
+No se ha podido guardar la partida.
+Sí
+No
+Se han obtenido los datos necesarios para[0x000A]efectuar la conexión a internet.{0xBE01}[0x000A]¿Quieres guardar la partida?

@@ -1,0 +1,7 @@
+msg_t011r0102_poke_01={0xFF00,0x0009}Doduo:{0xFF00,0x0000} Dododù!{0xBE01}[0x000A](Specchio, specchio delle mie brame...[0x000A]Chi è la più bella del reame?)
+msg_t011r0102_poke_02={0xBDFF:0x0001}
+msg_t011r0102_game_01=Un gioco con un sacco di Pokémon cubettosi!
+msg_t011r0102_pc_01=...{0xBE01}[0x000A]I miei segreti!{0xBE01}[0x000A]Capacità: fare le imitazioni![0x000A]Pokémon preferito: Clefairy!{0xBE01}[0x000A]È un Pokémon raro, sai? Pensa che io non ne[0x000A]ho mai visto uno dal vivo.{0xBE01}[0x000A]Aaaah... Come vorrei vederlo un giorno!
+msg_t011r0102_doll_01=È un peluche un po’ rovinato di Clefairy![0x000A]Si vede che ne ha viste delle belle!
+msg_t011r0102_doll_02=È un peluche un po’ rovinato di Clefairy![0x000A]Si vede che ne ha viste delle belle!
+msg_t011r0102_doll_03=È un peluche un po’ rovinato di Clefairy![0x000A]Si vede che ne ha viste delle belle!

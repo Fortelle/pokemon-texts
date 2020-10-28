@@ -1,0 +1,16 @@
+msg_main0170_green_01={0xFF00,0x0009}???:{0xFF00,0x0000} Hey! Hey, du da!
+msg_main0170_green_02={0xFF00,0x0009}???:{0xFF00,0x0000} Du bist doch {0x1100,0x00FF,0x0506,0x0000}dieserdiese {0x0100,0x0000}, oder?
+msg_main0170_select_01=Ja, genau!
+msg_main0170_select_02=Woher weißt du das?!
+msg_main0170_green_03=Ha, ich hatte recht! Natürlich hatte ich das.
+msg_main0170_green_04=Opa hat mir eben ’ne ziemlich gute[0x000A]Beschreibung von dir gegeben.
+msg_main0170_green_05={0xFF00,0x0009}Blau:{0xFF00,0x0000} Mein Name ist Blau.{0xBE01}[0x000A]Professor Eich ist mein Opa und er hat mir[0x000A]gezwitschert, dass zwei Trainer aus meinem{0xBE00}[0x000A]Heimatdorf Alabastia zu einer Abenteuerreise{0xBE00}[0x000A]aufgebrochen sind.{0xBE01}[0x000A]Da musste ich natürlich sofort mal nach dem[0x000A]Rechten sehen!
+msg_main0170_green_06=Großzügig wie ich bin, dachte ich mir, du[0x000A]könntest vor deinem ersten Arenakampf ein{0xBE00}[0x000A]paar Tipps von einem Profi wie mir vertragen...{0xBE01}[0x000A]Tja, falsch gedacht. Wie’s aussieht, hast du den[0x000A]Arenaleiter schon ganz alleine besiegt.
+msg_main0170_green_11=Ich bin minimal beeindruckt. Hier, nimm das[0x000A]als Belohnung...
+msg_main0170_red_01={0xBDFF:0x0009}
+msg_main0170_green_07={0xBDFF:0x000A}
+msg_main0170_red_02={0xBDFF:0x000B}
+msg_main0170_dummy_01=Du erhältst 5 {0xFF00,0x0006}Superbälle {0xFF00,0x0000}von Blau!
+msg_main0170_green_08={0xFF00,0x0009}Blau:{0xFF00,0x0000} Die Dinger sind super! Die haben ’ne[0x000A]höhere Fangquote als normale Pokébälle!{0xBE01}[0x000A]Aber mal was ganz anderes... Das ist doch ein[0x000A]Pokédex, oder?{0xBE01}[0x000A]Dann hat Opa es also wirklich geschafft.[0x000A]Er hat seine Idee verwirklicht!
+msg_main0170_green_09=Zu meiner Zeit hat man noch mit einem Bleistift[0x000A]auf ’ner Karte rumkritzeln müssen, um nicht zu{0xBE00}[0x000A]vergessen, wo man bestimmte Pokémon findet...
+msg_main0170_green_10=Es wäre ein feiner Zug von dir, wenn du Opa bei[0x000A]seiner Forschung unter die Arme greifen würdest.{0xBE00}[0x000A]Also dann, man riecht sich! Ciao!

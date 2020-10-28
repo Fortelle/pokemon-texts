@@ -1,0 +1,33 @@
+Bienvenid{0x1100,0x00FF,0x0101}oa al Gran Hotel Ricachilton.{0xBE01}[0x000A]Hmm, diría que eres una persona en busca de[0x000A]nuevos retos. ¿Qué te parecería probar lo que{0xBE00}[0x000A]se siente trabajando en un hotel?
+Hola. ¿Quieres hacer unas prácticas remuneradas?
+Hola, ¿qué tal? Por lo que he oído, te estás[0x000A]labrando una buena reputación últimamente.{0xBE01}[0x000A]¿Qué me dices? ¿Te apetece trabajar un poco?
+¡Pero si es {0x0100,0x0000}![0x000A]Tienes unas cualidades innatas para la hostelería.{0xBE00}[0x000A]¿Buscas trabajo?
+¿De qué clase de tarea quieres encargarte?
+Vaya, qué lástima.[0x000A]Avísame si cambias de parecer.
+Ha acabado tu jornada laboral de hoy.{0xBE01}[0x000A]Aquí te esperamos mañana, si quieres venir.
+Servicio de habitaciones
+Hacer las camas
+Objetos perdidos
+Salir
+El servicio de habitaciones, ¿no?[0x000A]Vale, pues dirígete al mostrador de la derecha.
+¿Quieres hacer las camas?[0x000A]Muy bien, pues ve a la planta {0x0200,0x0000}, por favor.
+Quieres dedicarte a buscar objetos perdidos, ¿no?[0x000A]Vale, pues dirígete al mostrador de la derecha.
+Gracias por el esfuerzo dedicado a la tarea.[0x000A]Tu trabajo de hoy se merece el calificativo de...
+¡Perfecto![0x000A]Al parecer, la propia directora ha elogiado tu labor.
+¡Nada mal![0x000A]Muchas gracias.
+Regular.[0x000A]Pero no te preocupes. ¡La próxima vez será mejor!
+Aquí tienes la remuneración pertinente.
+{0x0100,0x0000} ha recibido {0x0204,0x0001,0xE07F} $.
+¡Buenas noticias![0x000A]Te has ganado una subida de sueldo.
+La remuneración ha aumentado {0x0203,0x0000,0x0000} $[0x000A]y asciende ahora a {0x0204,0x0001,0xE07F} $.
+¡Enhorabuena!{0xBE01}[0x000A]Te has convertido en {0x1100,0x00FF,0x0B0B}el empleadola empleada del mes del Gran[0x000A]Hotel Ricachilton. Qué digo del mes... ¡del año!{0xBE01}[0x000A]Tendrás el honor de conocer a la directora en[0x000A]persona.
+{0x0100,0x0000}, es un placer conocerte.[0x000A]Soy la directora de este hotel.{0xBE01}[0x000A]Seré franca contigo, si no te importa.{0xBE01}[0x000A]Nos gustaría que te incorporases a la plantilla de[0x000A]nuestro Gran Hotel Ricachilton como asistente.
+Con solo una palabra ya he podido apreciar la[0x000A]gentileza que desprendes como emplead... no,{0xBE00}[0x000A]como Entrenador{0x1100,0x00FF,0x0100}a de pro que eres.{0xBE01}[0x000A]Me basta con tu respuesta afirmativa.{0xBE01}[0x000A]Aceptaremos encantados tu ayuda.
+Lo comprendo perfectamente.{0xBE01}[0x000A]Al fin y al cabo, no podemos retenerte en este[0x000A]hotel contra tu voluntad in sécula seculórum.{0xBE01}[0x000A]Sin embargo, si algún día te apetece trabajar,[0x000A]aceptaremos encantados tu colaboración.
+La directora no se prodiga mucho por aquí.{0xBE01}[0x000A]Se ve que le has entrado por el ojo derecho, ¿eh?[0x000A]Porque para que te hable en persona...{0xBE01}[0x000A]Te mereces un trato de favor por haberle caído[0x000A]en gracia. A partir de ahora te pondré a cargo{0xBE00}[0x000A]de las suites si trabajas para nosotros.
+¡Gracias y hasta la próxima!
+Uy, lo siento mucho.{0xBE01}[0x000A]Ha llegado un cliente muy especial al que[0x000A]tenemos que dedicar toda nuestra atención.{0xBE00}[0x000A]Quizás en otra ocasión.
+¿Quieres hacer las camas?[0x000A]Muy bien, pues ve a la planta 1, por favor.
+¿Quieres hacer las camas?[0x000A]Muy bien, pues ve a la planta 2, por favor.
+¿Quieres hacer las camas?[0x000A]Muy bien, pues ve a la planta 3, por favor.
+¿Quieres hacer las camas?[0x000A]Muy bien, pues ve a la planta 4, por favor.

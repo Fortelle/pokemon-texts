@@ -1,0 +1,29 @@
+{0xBDFF:0x0000}
+Die {0x0109,0x0000} in deinem Beutel leuchtet[0x000A]ganz schwach...
+Kapitän Brigg hat mich damit beauftragt,[0x000A]diesen Ort zu erkunden.{0xBE01}[0x000A]Zusätzlich sollte ich auch gleich nach einem {0xFF00,0x0002}Scanner{0xFF00,0x0000}[0x000A]Ausschau halten, aber bisher konnte ich nichts finden.{0xBE01}[0x000A]Allerdings habe ich noch nicht im untersten Raum[0x000A]nachgesehen, zu dem man nur durch Tauchen gelangt.{0xBE01}[0x000A]Ich hab’s nicht so mit Wasser...
+Oh! Das ist ja der Scanner!{0xBE01}[0x000A]Könnte ich dich eventuell darum bitten,[0x000A]ihn Kapitän Brigg zu bringen?{0xBE01}[0x000A]Ich selbst würde gerne hierbleiben,[0x000A]um diesen Ort noch etwas gründlicher zu untersuchen.
+Kapitän Brigg hat mir Bescheid gegeben, dass er[0x000A]den Scanner erhalten hat. Danke für deine Mühe!{0xBE01}[0x000A]Anscheinend hat der Scanner ein hohes Energieniveau[0x000A]erfasst, das bei Pokémon der Hoenn-Region nicht{0xBE00}[0x000A]vorkommt.{0xBE01}[0x000A]Mir ist das alles zu hoch, aber es klingt aufregend, nicht?
+Die Tür ist verschlossen.{0xBE01}[0x000A]Auf dem Schild an der Tür steht „Lager“.
+{0x0100,0x0000} hat den Lagerschlüssel benutzt!{0xBE01}[0x000A]Der Schlüssel steckt jetzt zwar fest,[0x000A]aber die Tür wurde aufgeschlossen.
+Hmmm...?{0xBE01}[0x000A]Was willst du?
+Hmmm...[0x000A]Hier ist einfach nichts los...
+Hmmm...[0x000A]Ich hab keinerlei Pokémon geangelt.{0xBE00}[0x000A]Das hier ist mein einziger Fang.
+Hmmm...[0x000A]Mir geht es nicht darum, einen großen Fang zu machen.{0xBE00}[0x000A]Ich genieße es einfach nur, in aller Ruhe zu angeln.
+Wie läuft es?
+Hat etwas angebissen?
+{0xBDFF:0x000D}
+Hallo, bist du als Tourist hier?{0xBE01}[0x000A]Ich bin ein Mitglied des Naturschutzverbandes[0x000A]und für die Verwaltung dieser Anlage verantwortlich.
+Möchtest du irgendetwas über[0x000A]Seewoge Malvenfroh wissen?
+Diese Anlage diente einst der Zutageförderung[0x000A]von im Meeresboden gelagerten Rohstoffen.{0xBE01}[0x000A]Doch aus diversen Gründen entschloss man sich[0x000A]zur Schließung der Förderanlage.{0xBE01}[0x000A]Tja, die Abrissbagger standen schon in den Startlöchern,[0x000A]als die Ergebnisse einer zuvor durchgeführten{0xBE00}[0x000A]Umweltstudie veröffentlicht wurden, die schwarz auf weiß{0xBE00}[0x000A]belegten, dass Seewoge Malvenfroh inzwischen ein{0xBE00}[0x000A]einzigartiges Ökosystem beheimatete.{0xBE01}[0x000A]Sämtliche Abrisspläne waren damit natürlich vom Tisch[0x000A]und die gesamte Anlage wurde zum Naturschutzgebiet{0xBE00}[0x000A]erklärt, um dessen Erhalt wir uns nun kümmern.
+Die auffälligste Besonderheit von Seewoge Malvenfroh,[0x000A]die jedem Besucher sofort ins Auge sticht,{0xBE00}[0x000A]ist die windschiefe Ausrichtung des Gebäudes.{0xBE01}[0x000A]Da es über lange Zeit schutzlos Wind und Wetter[0x000A]ausgesetzt war, wurden Teile seines Fundaments{0xBE00}[0x000A]vom Wasser abgetragen, wodurch sich die Schieflage{0xBE00}[0x000A]des Gebäudes erklärt.{0xBE01}[0x000A]Schau dich hier in aller Ruhe um und sieh selbst,[0x000A]wozu die unbändigen Naturgewalten fähig sind!{0xBE01}[0x000A]Doch gib bitte acht, wohin du trittst!{0xBE01}[0x000A]Außerdem möchte ich gerne deine Aufmerksamkeit[0x000A]auf die einzigartige Pflanzenwelt des schwimmenden{0xBE00}[0x000A]Waldes lenken, die du nur hier und in der Umgebung{0xBE00}[0x000A]von Moosbach City bestaunen kannst, nirgendwo sonst!{0xBE01}[0x000A]Und schließlich eine Sache noch: Das Innere der[0x000A]Förderanlage ist seit der Betriebsschließung nahezu{0xBE00}[0x000A]unverändert geblieben, was für manche Besucher{0xBE00}[0x000A]besonders interessant sein dürfte.
+Okay!{0xBE01}[0x000A]Wir halten übrigens gerade eine Spendenaktion[0x000A]zum Erhalt von Seewoge Malvenfroh ab.{0xBE01}[0x000A]Ein kleiner Beitrag von 100 $ würde schon genügen![0x000A]Also, was sagst du? Möchtest du spenden?
+Herzlichen Dank!{0xBE01}[0x000A]Ich hoffe, wir können auch weiterhin[0x000A]auf deine Unterstützung zählen!
+...{0xBE01}[0x000A]Schade...[0x000A]Vielleicht dann bei deinem nächsten Besuch!
+Was ist das hier für ein Ort?
+Was gibt es hier zu sehen?
+Nichts, danke...
+Seewoge Malvenfroh[0x000A]Ausgewiesenes Naturschutzgebiet der Hoenn-Region
+Mmh... Diese verfallene Atmosphäre ist einfach toll...[0x000A]Da wird mir ganz anders... Einfach zu schön...
+Kapitän Brigg hat mich damit beauftragt,[0x000A]Seewoge Malvenfroh zu erkunden.
+Hier schwebt ein geheimnisvoller Ring...{0xBE01}[0x000A]Aus der Öffnung strömt eine mysteriöse Energie...{0xBE01}[0x000A]Möchtest du ihn dir näher ansehen?
+Hier schwebt ein geheimnisvoller Ring...

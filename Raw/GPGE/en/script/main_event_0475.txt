@@ -1,0 +1,14 @@
+msg_main0475_rival_01={0x01CD,0x0001}: Oh! {0x0100,0x0000}!
+msg_main0475_rival_02=Did you learn how to use Light Up from[0x000A]Professor Oak’s assistant, too?
+msg_main0475_rival_03=Wha...?{0xBE01}[0x000A]You didn’t learn it...but {0x0102,0x0003} did?!{0xBE01}[0x000A]That partner of yours really is[0x000A]amazing, {0x0100,0x0000}...
+msg_main0475_rival_10=Hey, you know what? I actually know someplace[0x000A]where you might be able to use it!{0xBE01}[0x000A]Want me to take you there?
+msg_main0475_select_01=Yeah, let’s go together
+msg_main0475_select_02=Naw, I’m fine by myself
+msg_main0475_rival_04=All right! We’ll be there in no time.[0x000A]Come on!
+msg_main0475_rival_05=So, just head east here from Cerulean City...
+msg_main0475_rival_06=That’s this direction—got it?{0xBE01}[0x000A]Just keep going this way, and you’ll eventually[0x000A]hit this cave system called the {0xFF00,0x0006}Rock Tunnel{0xFF00,0x0000}.{0xBE01}[0x000A]I hear it’s pitch dark!
+msg_main0475_rival_07=If you use Light Up, though, you don’t have to[0x000A]be scared of the dark!{0xBE01}[0x000A]See you around!
+msg_main0475_rival_08=Really? Well, OK...{0xBE01}[0x000A]You sure you’ll be all right?
+msg_main0475_select_03=Yeah, I want to go alone
+msg_main0475_select_04=Actually, let’s go together
+msg_main0475_rival_09=OK!{0xBE01}[0x000A]Just in case, though, let me give you directions.[0x000A]If you head east from {0xFF00,0x0006}Cerulean City{0xFF00,0x0000}, you’ll reach{0xBE00}[0x000A]a place called the {0xFF00,0x0006}Rock Tunnel{0xFF00,0x0000}. It’s supposed{0xBE00}[0x000A]to be pitch dark in there.{0xBE01}[0x000A]Be careful!

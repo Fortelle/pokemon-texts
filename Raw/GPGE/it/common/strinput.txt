@@ -1,0 +1,11 @@
+msg_strinput_01_01=Dimmi, come ti chiami?
+msg_strinput_01_02=Che soprannome vuoi dare a {0x0101,0x0000}?
+msg_strinput_01_03=Inserisci il codice seriale o la password
+msg_strinput_01_04=Come si chiama il tuo rivale?
+msg_strinput_01_05=Inserisci un nome.
+msg_strinput_NG_00=Non puoi inserire questo testo.
+msg_strinput_NG_01={0xBDFF:0x0006}
+msg_strinput_NG_02={0xBDFF:0x0007}
+msg_strinput_NG_04=Inserisci un nome.
+msg_strinput_NG_05=I dati inseriti non sono validi.
+msg_strinput_NG_06=Non puoi usare il carattere “{0x012D,0x0000}” in un nome.

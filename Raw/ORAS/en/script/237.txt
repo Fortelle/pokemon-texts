@@ -1,0 +1,21 @@
+Good morning!{0xBE01}[0x000A]I have a delivery from the[0x000A]Pokémon Global Link for you.
+Hello!{0xBE01}[0x000A]I have a delivery from the[0x000A]Pokémon Global Link for you.
+Good evening!{0xBE01}[0x000A]I have a delivery from the[0x000A]Pokémon Global Link for you.
+I don’t have any deliveries from the[0x000A]Pokémon Global Link for you right now.{0xBE01}[0x000A]Please check back later!
+Hmmm...[0x000A]It looks like your Bag is full.{0xBE01}[0x000A]Please come back after you’ve[0x000A]made some room.
+I’ll be waiting right here for you[0x000A]to come pick up your delivery.
+It looks like your Bag is full, so I can’t give you[0x000A]the rest of your delivery.{0xBE01}[0x000A]Please come back after you’ve made some room.
+{0x0100,0x0000} received[0x000A]a delivery of {0x0202,0x0001} kind{0x1101,0x0001,0x0A08} of items of items!
+{0xBDFF:0x0008}
+Here are the contents of your delivery.
+{0x1001}{0x0109,0x0000}: {0x0202,0x0001}[0x000A]{0x1001}{0x0109,0x0002}: {0x0202,0x0003}
+{0x1001}{0x0109,0x0000}: {0x0202,0x0001}
+That’s all for this delivery,[0x000A]a total of {0x0202,0x0001} kind{0x1101,0x0001,0x0A08} of items of items.
+I have a delivery of {0x0202,0x0000} kind{0x1101,0x0000,0x0A08} of items of items for you!{0xBE01}[0x000A]Would you like to see the contents[0x000A]of this delivery?
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+Receive
+Check
+Cancel
+Yes
+No

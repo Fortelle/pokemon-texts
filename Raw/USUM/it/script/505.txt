@@ -1,0 +1,264 @@
+Scegli quanti Pokégioli mettere[0x000A]nel Portapokégioli.{0x0114,0x002F}
+I Pokémon ne saranno felici!{0x0114,0x002F}
+Ci sono ancora dei Pokégioli nella cassa.[0x000A]Per metterne altri, devi aspettare che si svuoti.{0x0114,0x002F}
+Ti conviene attendere che ci siano Pokémon[0x000A]nei paraggi per mettere dei Pokégioli.{0x0114,0x002F}
+Cosa vuoi fare?{0x0114,0x002F}
+Per oggi hai già inviato una bottiglia.[0x000A]Potrai inviarne un’altra domani.{0x0114,0x002F}
+Vuoi mettere 7 Pokégioli comuni in una bottiglia[0x000A]e inviarla?{0x0114,0x002F}
+Oh... Non hai Pokégioli! Nessun problema,[0x000A]puoi raccoglierli sull’Isolotto Passatempo!{0x0114,0x002F}
+Bene, lascia fare a me!{0x0114,0x002F}
+Affiderò questa Bottiglia di Pokégioli alla[0x000A]corrente! Spero che ti porterà fortuna!{0x0114,0x002F}
+Non hai abbastanza Pokémon nei Box per poter[0x000A]apportare migliorie!{0x0114,0x002F}
+Non hai abbastanza Pokégioli comuni[0x000A]per apportare migliorie!{0x0114,0x002F}
+Molto bene! Diamoci da fare!{0x0114,0x002F}
+{0xBDFF:0x000D}
+Puoi dare inizio a questi lavori!{0x0114,0x002F}
+Scegli quanti Pokégioli scambiare.{0x0114,0x002F}
+Hai raggiunto il limite massimo per i[0x000A]Pokégioli comuni!{0x0114,0x002F}
+Non hai Pokégioli rari da scambiare!{0xBE01}[0x000A]Quando ne avrai, torna da me e ti offrirò[0x000A]3 Pokégioli comuni per 1 Pokégiolo chic{0xBE00}[0x000A]e 7 Pokégioli comuni e per 1 Pokégiolo iride.{0x0114,0x002F}
+Mi spiace, non hai abbastanza Pokégioli comuni!{0xBE01}[0x000A]Per inviare una Bottiglia di Pokégioli, devi averne[0x000A]almeno sette.{0xBE01}[0x000A]Puoi raccoglierli sull’Isolotto Passatempo.{0x0114,0x002F}
+{0xBE05,0x0002}Hai ottenuto {0x0202,0x0000} Pokégiol{0x1101,0x0000,0x0101}oi comun{0x1101,0x0000,0x0101}ei!{0xBE05,0x0003}
+Che bacche vuoi piantare?{0x0114,0x002F}
+Bene! E ora non ci resta che aspettare il tempo[0x000A]del raccolto!{0x0114,0x002F}
+Non hai bacche[0x000A]da piantare!{0x0114,0x002F}
+Sull’isolotto non ci sono abbastanza zelanti[0x000A]Pokémon giardinieri per piantare bacche.{0xBE01}[0x000A]Cattura altri Pokémon e depositali nei Box!{0x0114,0x002F}
+{0xBE05,0x0000}I Pokémon esploratori hanno trovato qualcosa![0x000A]Ecco a te!{0xBE05,0x0001}{0x0114,0x002F}
+Nella cassa non ci sono tesori...{0x0114,0x002F}
+Scegli il percorso da esplorare.{0x0114,0x002F}
+I Pokémon sono partiti in esplorazione![0x000A]Magari troveranno qualche tesoro...{0x0114,0x002F}
+Non puoi dare il via a un’esplorazione se non[0x000A]ci sono Pokémon sull’isolotto.{0xBE01}[0x000A]Prova a catturare altri Pokémon e a depositarli[0x000A]nei Box!{0x0114,0x002F}
+Vuoi annullare l’esplorazione?{0x0114,0x002F}
+L’esplorazione è stata annullata.{0xBE01}[0x000A]Tocca il cartello per farne partire un’altra nello[0x000A]stesso percorso o in uno diverso.{0x0114,0x002F}
+Non ci sono Pokémon per dare inizio[0x000A]a un’esplorazione.{0xBE01}[0x000A]Potrai mettere i Pokégioli dopo aver avviato[0x000A]un’esplorazione.{0x0114,0x002F}
+Non ci sono esplorazioni in corso.{0xBE01}[0x000A]Potrai mettere i Pokégioli dopo aver avviato[0x000A]un’esplorazione.{0x0114,0x002F}
+Prima di avviare una nuova esplorazione, prendi[0x000A]dalla cassa ciò che i Pokémon hanno trovato.
+Scegli i Pokémon da allenare.{0x0114,0x002F}
+Scegli una delle mie bibite speciali!{0x0114,0x002F}
+Quanto vuoi che duri l’allenamento?{0x0114,0x002F}
+Bene! Vedo molto entusiasmo a questo giro!{0xBE01}[0x000A]Non c’è niente di meglio che tenersi in forma[0x000A]e divertirsi al tempo stesso!{0x0114,0x002F}
+Sembra che il gruppo d’allenamento si stia[0x000A]divertendo un sacco!{0x0114,0x002F}
+Vuoi interrompere la sessione di allenamento?{0x0114,0x002F}
+La sessione di allenamento è stata interrotta.[0x000A]Tocca il cartello per rimettere il gruppo nei Box.{0x0114,0x002F}
+Vuoi inviare il gruppo ai Box?{0x0114,0x002F}
+Invia tutti i Pokémon ai Box. Voglio controllare[0x000A]le attrezzature prima di far posto a un altro{0xBE00}[0x000A]gruppo di atletici Pokémon!{0x0114,0x002F}
+Tutto a posto![0x000A]Le attrezzature sono in perfette condizioni!{0xBE01}[0x000A]Se vuoi far allenare un po’ i tuoi Pokémon,[0x000A]tocca il cartello.{0x0114,0x002F}
+I tuoi Box sono pieni![0x000A]Fai un po’ di spazio e poi torna qui.{0x0114,0x002F}
+Non ci sono Pokémon che si stanno allenando.{0xBE01}[0x000A]Potrai mettere i Pokégioli dopo aver invitato[0x000A]qualche Pokémon ad allenarsi.{0x0114,0x002F}
+Non c’è alcuna sessione d’allenamento in corso.{0xBE01}[0x000A]Prima di mettere dei Pokégioli, dai inizio a una[0x000A]sessione d’allenamento!{0x0114,0x002F}
+Scegli i Pokémon che vuoi far rilassare alle[0x000A]sorgenti termali.{0x0114,0x002F}
+Invierò {0x0101,0x0000} ai Box!{0x0114,0x002F}
+Quest’Uovo potrebbe schiudersi da un momento[0x000A]all’altro, ma non c’è più posto nei tuoi Box!{0xBE01}[0x000A]Fai un po’ di spazio e poi torna qui.{0x0114,0x002F}
+Quest’Uovo sta per schiudersi!{0x0114,0x002F}
+Quest’Uovo si schiuderà presto.{0x0114,0x002F}
+Cosa nascerà? Ci vorrà un po’ di tempo prima[0x000A]che quest’Uovo si schiuda.{0x0114,0x002F}
+Potrai mettere i Pokégioli quando sull’isolotto[0x000A]ci saranno dei Pokémon.{0x0114,0x002F}
+Molto bene! I Pokémon ne saranno felici!{0x0114,0x002F}
+Molto bene! I Pokémon ne saranno felici![0x000A]Scommetto che si daranno da fare più che mai!{0x0114,0x002F}
+Molto bene! I Pokémon ne saranno felici![0x000A]Scommetto che si divertiranno ancora di più!{0x0114,0x002F}
+Fantastico! Il gruppo ne sarà entusiasta![0x000A]Vedrai che i risultati non tarderanno ad arrivare.{0x0114,0x002F}
+Molto bene! I Pokémon ne saranno felici![0x000A]Scommetto che si rilasseranno con gusto!{0x0114,0x002F}
+{0xBE05,0x0004}La probabilità che appaiano Pokémon selvatici[0x000A]è aumentata!{0xBE05,0x0005}{0x0114,0x002F}
+{0xBE05,0x0004}La velocità di crescita delle bacche[0x000A]è raddoppiata!{0xBE05,0x0005}{0x0114,0x002F}
+{0xBE05,0x0004}La velocità con cui i Pokémon completeranno[0x000A]le esplorazioni è raddoppiata!{0xBE05,0x0005}{0x0114,0x002F}
+{0xBE05,0x0004}La velocità di allenamento dei Pokémon[0x000A]è raddoppiata!{0xBE05,0x0005}{0x0114,0x002F}
+{0xBE05,0x0004}Ora i Pokémon si godranno ancora di più[0x000A]il relax!{0xBE05,0x0005}{0x0114,0x002F}
+Vuoi vedere le info di {0x0102,0x0000}?{0x0114,0x002F}
+{0x1002}{0x1501,0x0000}{0x0101,0x0000} selvatico sembra[0x000A]soddisfatto della tua accoglienza.{0xBE01}[0x000A]Forse deciderà di rimanere.[0x000A]Torna a controllare fra un giorno!{0x0114,0x002F}
+{0x0102,0x0000} sembra felice!{0x0114,0x002F}
+{0x0101,0x0000} sembra felice!{0x0114,0x002F}
+{0x0102,0x0000} ha una natura Ardita.{0x0114,0x002F}
+{0x0102,0x0000} ha una natura Schiva.{0x0114,0x002F}
+{0x0102,0x0000} ha una natura Audace.{0x0114,0x002F}
+{0x0102,0x0000} ha una natura Decisa.{0x0114,0x002F}
+{0x0102,0x0000} ha una natura Birbona.{0x0114,0x002F}
+{0x0102,0x0000} ha una natura Sicura.{0x0114,0x002F}
+{0x0102,0x0000} ha una natura Docile.{0x0114,0x002F}
+{0x0102,0x0000} ha una natura Placida.{0x0114,0x002F}
+{0x0102,0x0000} ha una natura Scaltra.{0x0114,0x002F}
+{0x0102,0x0000} ha una natura Fiacca.{0x0114,0x002F}
+{0x0102,0x0000} ha una natura Timida.{0x0114,0x002F}
+{0x0102,0x0000} ha una natura Lesta.{0x0114,0x002F}
+{0x0102,0x0000} ha una natura Seria.{0x0114,0x002F}
+{0x0102,0x0000} ha una natura Allegra.{0x0114,0x002F}
+{0x0102,0x0000} ha una natura Ingenua.{0x0114,0x002F}
+{0x0102,0x0000} ha una natura Modesta.{0x0114,0x002F}
+{0x0102,0x0000} ha una natura Mite.{0x0114,0x002F}
+{0x0102,0x0000} ha una natura Quieta.{0x0114,0x002F}
+{0x0102,0x0000} ha una natura Ritrosa.{0x0114,0x002F}
+{0x0102,0x0000} ha una natura Ardente.{0x0114,0x002F}
+{0x0102,0x0000} ha una natura Calma.{0x0114,0x002F}
+{0x0102,0x0000} ha una natura Gentile.{0x0114,0x002F}
+{0x0102,0x0000} ha una natura Vivace.{0x0114,0x002F}
+{0x0102,0x0000} ha una natura Cauta.{0x0114,0x002F}
+{0x0102,0x0000} ha una natura Furba.{0x0114,0x002F}
+Sembra che {0x0102,0x0000} voglia giocare[0x000A]con te! Perché non lo metti in squadra?{0x0114,0x002F}
+Sembra che a {0x0101,0x0000} piaccia molto[0x000A]il Poké Resort!{0x0114,0x002F}
+Sembra che a {0x0101,0x0000} piaccia lottare!{0x0114,0x002F}
+Sembra che {0x0101,0x0000} voglia partire[0x000A]all’avventura con te!{0xBE01}[0x000A]Perché non lo metti in squadra?{0x0114,0x002F}
+{0x0101,0x0000} stava giocando[0x000A]con {0x0101,0x0001}!{0xBE01}[0x000A]Sembra che sia nata una nuova amicizia!{0x0114,0x002F}
+{0xBDFF:0x0062}
+{0xBDFF:0x0063}
+{0xBDFF:0x0064}
+{0xBDFF:0x0065}
+{0x0101,0x0000} ti ha portato un Pokégiolo!{0x0114,0x002F}
+{0xBE05,0x0002}Hai ottenuto 1 Pokégiolo comune!{0xBE05,0x0003}{0x0114,0x002F}
+{0xBE05,0x0002}Hai ottenuto 1 Pokégiolo chic!{0xBE05,0x0003}{0x0114,0x002F}
+{0xBE05,0x0002}Hai ottenuto 1 Pokégiolo iride!{0xBE05,0x0003}
+Sembra che {0x0101,0x0000} sia interessato[0x000A]all’Isolotto Buonalena! Perché non lo porti lì?{0x0114,0x002F}
+Sembra che {0x0101,0x0000} sia interessato[0x000A]all’Isolotto Caldecoccole! Perché non lo porti lì?{0x0114,0x002F}
+Oh! È arrivato un Pokémon selvatico![0x000A]Dev’essere stato attirato dai Pokégioli!{0x0114,0x002F}
+{0x1002}{0x1501,0x0000}{0x0101,0x0000} selvatico sembra amare[0x000A]così tanto questo posto che si è stabilito qui!{0xBE01}[0x000A]Vuoi farci amicizia e accoglierlo nella tua[0x000A]squadra?{0x0114,0x002F}
+Ah... Peccato! Beh, fammi sapere se cambi idea!{0x0114,0x002F}
+Non hai più spazio nei Box!{0xBE01}[0x000A]Fai un po’ di spazio nei Box o in squadra[0x000A]e poi torna da me.{0x0114,0x002F}
+Fantastico! Mi raccomando, prenditi cura[0x000A]di {0x0101,0x0000}!{0x0114,0x002F}
+{0xBDFF:0x0071}
+{0xBDFF:0x0072}
+{0xBDFF:0x0073}
+{0xBDFF:0x0074}
+{0x0101,0x0000} si dedica con zelo[0x000A]al giardinaggio!{0x0114,0x002F}
+{0x0101,0x0000} è sempre pronto ad aiutare[0x000A]gli altri!{0x0114,0x002F}
+La specialità di {0x0101,0x0000} è proteggere[0x000A]le bacche dai Pokémon Coleottero!{0x0114,0x002F}
+{0x0101,0x0000} è un esperto di coltivazione[0x000A]delle bacche!{0x0114,0x002F}
+La specialità di {0x0101,0x0000} è proteggere[0x000A]le bacche dai Pokémon Coleottero!{0xBE00}[0x000A]Ma a volte nella sua foga danneggia il raccolto...{0x0114,0x002F}
+{0x0101,0x0000} ogni tanto si mangia qualche[0x000A]bacca matura!{0x0114,0x002F}
+{0x0101,0x0000} si diverte un sacco[0x000A]a innaffiare!{0x0114,0x002F}
+{0x0101,0x0000} ama osservare i progressi[0x000A]dell’orto di bacche.{0x0114,0x002F}
+{0x0101,0x0000} ama proteggere le bacche[0x000A]dai Pokémon Coleottero!{0x0114,0x002F}
+{0x0101,0x0000} ogni tanto si mangia una bacca[0x000A]di nascosto!{0x0114,0x002F}
+{0x0101,0x0000} sparge sempre molto[0x000A]fertilizzante!{0x0114,0x002F}
+{0x0101,0x0000} è esperto di fertilizzanti!{0x0114,0x002F}
+{0x0101,0x0000} è imbattibile nel fare piazza[0x000A]pulita delle erbacce!{0x0114,0x002F}
+{0x0101,0x0000} si diverte a preparare[0x000A]il terreno!{0x0114,0x002F}
+{0x0101,0x0000} non può fare a meno di[0x000A]assaggiare le bacche mature...!{0x0114,0x002F}
+{0x0101,0x0000} sparge sempre poco[0x000A]fertilizzante!{0x0114,0x002F}
+{0x0101,0x0000} ama molto coltivare le bacche!{0x0114,0x002F}
+A {0x0101,0x0000} piace preparare il terreno!{0x0114,0x002F}
+{0x0101,0x0000} fa piazza pulita delle erbacce[0x000A]in men che non si dica!{0x0114,0x002F}
+{0x0101,0x0000} a volte si dimentica di[0x000A]spargere il fertilizzante!{0x0114,0x002F}
+{0x0101,0x0000} adora lavorare la terra!{0x0114,0x002F}
+{0x0101,0x0000} innaffia regolarmente!{0x0114,0x002F}
+{0x0101,0x0000} pensa di essere il migliore a[0x000A]innaffiare!{0x0114,0x002F}
+A {0x0101,0x0000} piace coltivare le bacche!{0x0114,0x002F}
+{0x0101,0x0000} ogni tanto mangia le bacche[0x000A]mature di nascosto!{0x0114,0x002F}
+{0x0102,0x0000} sembra in gran forma!{0x0114,0x002F}
+Il livello di {0x0102,0x0000} è salito di {0x0202,0x0001}!{0x0114,0x002F}
+Il livello di {0x0102,0x0000} è salito di {0x0202,0x0001}![0x000A]Non credo che possa aumentare ancora.{0x0114,0x002F}
+{0x0102,0x0000} sembra in gran forma![0x000A]Non credo che possa ancora salire di livello.{0x0114,0x002F}
+I punti base dei PS di {0x0102,0x0000}[0x000A]sono aumentati di {0x0202,0x0001}!{0x0114,0x002F}
+I punti base dei PS di {0x0102,0x0000}[0x000A]sono aumentati di {0x0202,0x0001}!{0xBE01}[0x000A]Non credo che possano aumentare ancora.{0x0114,0x002F}
+{0x0102,0x0000} sembra in gran forma![0x000A]Non credo che i punti base dei suoi PS possano{0xBE00}[0x000A]aumentare ancora.
+I punti base dell’Attacco di {0x0102,0x0000}[0x000A]sono aumentati di {0x0202,0x0001}!{0x0114,0x002F}
+I punti base dell’Attacco di {0x0102,0x0000}[0x000A]sono aumentati di {0x0202,0x0001}!{0xBE01}[0x000A]Non credo che possano aumentare ancora.{0x0114,0x002F}
+{0x0102,0x0000} sembra in gran forma![0x000A]Non credo che i punti base del suo Attacco{0xBE00}[0x000A]possano aumentare ancora.
+I punti base della Difesa di {0x0102,0x0000}[0x000A]sono aumentati di {0x0202,0x0001}!{0x0114,0x002F}
+I punti base della Difesa di {0x0102,0x0000}[0x000A]sono aumentati di {0x0202,0x0001}!{0xBE01}[0x000A]Non credo che possano aumentare ancora.{0x0114,0x002F}
+{0x0102,0x0000} sembra in gran forma![0x000A]Non credo che i punti base della sua Difesa{0xBE00}[0x000A]possano aumentare ancora.
+I punti base dell’Attacco Speciale[0x000A]di {0x0102,0x0000} sono aumentati di {0x0202,0x0001}!{0x0114,0x002F}
+I punti base dell’Attacco Speciale[0x000A]di {0x0102,0x0000} sono aumentati di {0x0202,0x0001}!{0xBE01}[0x000A]Non credo che possano aumentare ancora.{0x0114,0x002F}
+{0x0102,0x0000} sembra in gran forma![0x000A]Non credo che i punti base del suo Attacco{0xBE00}[0x000A]Speciale possano aumentare ancora.
+I punti base della Difesa Speciale[0x000A]di {0x0102,0x0000} sono aumentati di {0x0202,0x0001}!{0x0114,0x002F}
+I punti base della Difesa Speciale[0x000A]di {0x0102,0x0000} sono aumentati di {0x0202,0x0001}!{0xBE01}[0x000A]Non credo che possano aumentare ancora.{0x0114,0x002F}
+{0x0102,0x0000} sembra in gran forma![0x000A]Non credo che i punti base della sua Difesa{0xBE00}[0x000A]Speciale possano aumentare ancora.
+I punti base della Velocità di {0x0102,0x0000}[0x000A]sono aumentati di {0x0202,0x0001}!{0x0114,0x002F}
+I punti base della Velocità di {0x0102,0x0000}[0x000A]sono aumentati di {0x0202,0x0001}!{0xBE01}[0x000A]Non credo che possano aumentare ancora.{0x0114,0x002F}
+{0x0102,0x0000} sembra in gran forma![0x000A]Non credo che i punti base della sua Velocità{0xBE00}[0x000A]possano aumentare ancora.
+Sembra che a {0x0102,0x0000} piaccia[0x000A]immensamente l’Isolotto Caldecoccole!{0x0114,0x002F}
+{0x0102,0x0000} sta cominciando a trarre[0x000A]beneficio da questa terapia di relax!{0x0114,0x002F}
+{0x0102,0x0000} è rilassato in ogni fibra del[0x000A]suo corpo!{0x0114,0x002F}
+{0x0102,0x0000} è rilassato in ogni fibra del[0x000A]suo corpo e in ogni angolino della sua mente!{0x0114,0x002F}
+Sembra che {0x0102,0x0000} sia rimasto a mollo[0x000A]troppo a lungo...{0xBE01}[0x000A]Ma quando ti ha visto si è ripreso!{0x0114,0x002F}
+{0xBDFF:0x00A9}
+{0xBDFF:0x00AA}
+{0xBDFF:0x00AB}
+{0xBDFF:0x00AC}
+{0xBDFF:0x00AD}
+{0xBDFF:0x00AE}
+{0xBDFF:0x00AF}
+{0xBDFF:0x00B0}
+{0xBDFF:0x00B1}
+{0xBDFF:0x00B2}
+Benvenut{0x1100,0x00FF,0x0101}oa al Poké Resort, un luogo interamente[0x000A]dedicato ai Pokémon!{0xBE01}[0x000A]Io sono Paver e mi occupo di questo posto.{0x0114,0x0030}
+Ci si rivede! Questo è il Poké Resort, un luogo[0x000A]interamente dedicato ai Pokémon!{0xBE01}[0x000A]Scusa, non mi sono ancora presentato...[0x000A]Io sono Paver e mi occupo di questo posto.{0x0114,0x002F}
+Come ti chiami?{0xBE01}[0x000A]{0x0100,0x0000}? Molto piacere!{0x0114,0x002F}
+Qui potrai far crescere e divertire i Pokémon[0x000A]che hai depositato nei Box del tuo PC.{0xBE01}[0x000A]Per ora c’è solo un piccolo isolotto, ma conto su[0x000A]di te per realizzare una struttura fantastica!{0xBE01}[0x000A]Forza, all’opera![0x000A]Per prima cosa, raccogli i Pokégioli.{0x0114,0x002F}
+I Pokégioli sono deliziosi e molto nutrienti.[0x000A]I Pokémon ne vanno matti!{0xBE01}[0x000A]Crescono su quella pianta al centro dell’isolotto.{0xBE01}[0x000A]Ne esistono tre varietà: Pokégioli comuni, come[0x000A]quello che hai appena raccolto, Pokégioli chic{0xBE00}[0x000A]e Pokégioli iride.{0xBE01}[0x000A]Forza, scuoti la pianta per far cadere dei[0x000A]Pokégioli!{0x0114,0x002F}
+Ecco, ora puoi raccoglierli facilmente!{0xBE01}[0x000A]Puoi scuotere la pianta e raccogliere i Pokégioli[0x000A]ogni giorno, ma se smettono di cadere dovrai{0xBE00}[0x000A]aspettare un giorno!{0x0114,0x002F}
+Potrai metterli nel Portapokégioli, così i Pokémon[0x000A]potranno farsi una bella scorpacciata!{0x0114,0x002F}
+Quella cassa è il Portapokégioli.[0x000A]Riempila di Pokégioli e farai felici i tuoi Pokémon!{0xBE01}[0x000A]Anche i Pokémon selvatici ne sono ghiotti e[0x000A]verranno nel tuo Poké Resort per mangiarli!{0xBE01}[0x000A]Sono proprio curioso di vedere quali Pokémon[0x000A]verranno a farti visita!{0x0114,0x002F}
+Più un Pokégiolo è raro, più a lungo durerà[0x000A]il suo effetto.{0xBE01}[0x000A]Ora sai tutto ciò che ti serve per cominciare.{0xBE01}[0x000A]Se vuoi parlare con me, tocca l’icona della[0x000A]Casa Galleggiante. Prova!{0x0114,0x002F}
+La mia Casa Galleggiante è come un castello[0x000A]per me!{0xBE01}[0x000A]L’ho costruita ed equipaggiata tutta da solo e[0x000A]ne sono orgoglioso. C’è tutto il necessario per{0xBE00}[0x000A]creare un fantastico Poké Resort per i Pokémon!{0x0114,0x002F}
+{0x0100,0x0000}, mi sembri proprio[0x000A]un{0x1100,0x00FF,0x0B0A} Allenator'Allenatrice in gamba, quindi...{0xBE01}[0x000A]Se non ti dispiace, vorrei che mi aiutassi a[0x000A]sviluppare e ampliare questo piccolo isolotto.{0xBE01}[0x000A]Adesso è un po’ come un Pokémon di livello 1[0x000A]appena uscito dall’Uovo...{0xBE01}[0x000A]Ma se tu e i tuoi Pokémon mi darete una mano,[0x000A]sono sicuro che crescerà rigoglioso!{0x0114,0x002F}
+Puoi ampliare un isolotto del Poké Resort,[0x000A]oppure aggiungerne altri.{0xBE01}[0x000A]Per farlo, avrai bisogno di valenti aiutanti:[0x000A]i Pokémon depositati nei tuoi Box!{0xBE00}[0x000A]Inoltre, ti serviranno dei Pokégioli comuni.{0xBE01}[0x000A]Non si lavora bene a stomaco vuoto e questo[0x000A]vale anche per i Pokémon!{0x0114,0x002F}
+Bene, ti ho spiegato le cose fondamentali.{0xBE01}[0x000A]Quando vorrai apportare migliorie al Poké[0x000A]Resort, vieni a trovarmi alla Casa Galleggiante.{0x0114,0x002F}
+Se hai bisogno di qualcosa, chiedi a me![0x000A]Sarò qui a tua disposizione.{0x0114,0x002F}
+Lavori all’Isolotto Passatempo completati!{0xBE05,0x0006}{0x0114,0x002F}
+Lavori all’Isolotto Passatempo completati!{0xBE05,0x0006}{0xBE01}[0x000A]Hai raggiunto il livello massimo di sviluppo!{0x0114,0x002F}
+Isolotto Granraccolto allestito!{0xBE05,0x0006}{0x0114,0x002F}
+Lavori all’Isolotto Granraccolto completati!{0xBE05,0x0006}{0x0114,0x002F}
+Lavori all’Isolotto Granraccolto completati!{0xBE05,0x0006}{0xBE01}[0x000A]Hai raggiunto il livello massimo di sviluppo!{0x0114,0x002F}
+Isolotto Batticuore allestito!{0xBE05,0x0006}{0x0114,0x002F}
+Lavori all’Isolotto Batticuore completati!{0xBE05,0x0006}{0x0114,0x002F}
+Lavori all’Isolotto Batticuore completati!{0xBE05,0x0006}{0xBE01}[0x000A]Hai raggiunto il livello massimo di sviluppo!{0x0114,0x002F}
+Isolotto Buonalena allestito!{0xBE05,0x0006}{0x0114,0x002F}
+Lavori all’Isolotto Buonalena completati!{0xBE05,0x0006}{0x0114,0x002F}
+Lavori all’Isolotto Buonalena completati!{0xBE05,0x0006}{0xBE01}[0x000A]Hai raggiunto il livello massimo di sviluppo!{0x0114,0x002F}
+Isolotto Caldecoccole allestito!{0xBE05,0x0006}{0x0114,0x002F}
+Lavori all’Isolotto Caldecoccole completati!{0xBE05,0x0006}{0x0114,0x002F}
+Lavori all’Isolotto Caldecoccole completati!{0xBE05,0x0006}{0xBE01}[0x000A]Hai raggiunto il livello massimo di sviluppo!{0x0114,0x002F}
+La pianta di Pokégioli è cresciuta![0x000A]Ora potrai raccogliere ancora più Pokégioli.{0xBE01}[0x000A]E sicuramente molti altri Pokémon selvatici[0x000A]verranno a far visita al tuo Poké Resort.{0xBE01}[0x000A]I Pokémon si aspettano grandi cose da te![0x000A]Continua così!{0x0114,0x002F}
+La pianta di Pokégioli è diventata enorme![0x000A]Potrai raccogliere tantissimi Pokégioli!{0xBE01}[0x000A]Chissà quanti Pokémon selvatici verranno[0x000A]a farti visita!{0xBE01}[0x000A]I Pokémon si aspettano grandi cose da te![0x000A]Grazie per il tuo prezioso aiuto!{0x0114,0x002F}
+Che ne dici? Grazie al terreno pianeggiante,[0x000A]è stato possibile ricavare un orto di bacche.{0xBE01}[0x000A]I Pokémon potranno divertirsi con il giardinaggio!{0x0114,0x002F}
+I Pokémon si sono dati da fare! Hanno ingrandito[0x000A]l’orto e ora potrai coltivare fino a 12 bacche.{0xBE01}[0x000A]L’innaffiatura è stata resa più efficiente per far[0x000A]fronte a un raccolto di maggiore portata.{0xBE01}[0x000A]I Pokémon sembrano entusiasti![0x000A]Continua così!{0x0114,0x002F}
+L’Isolotto Granraccolto è diventato un immenso[0x000A]orto di bacche: ora puoi coltivarne ben 18!{0xBE01}[0x000A]Anche l’innaffiatura è stata resa più efficiente,[0x000A]data la più ampia portata del raccolto.{0xBE01}[0x000A]Grazie per il tuo prezioso aiuto!{0x0114,0x002F}
+Che te ne pare? La grotta di questo isolotto è[0x000A]l’ideale per emozionanti esplorazioni!{0xBE00}[0x000A]I Pokémon si divertiranno un sacco!{0x0114,0x002F}
+Scavando nella grotta, sono stati aperti altri[0x000A]emozionanti percorsi da esplorare!{0xBE01}[0x000A]Chissà... Vi si potrebbero anche celare delle[0x000A]pietre rare!{0xBE01}[0x000A]I Pokémon non stanno nella pelle![0x000A]Continua così!{0x0114,0x002F}
+Scavando ancora più in profondità, abbiamo[0x000A]aperto un nuovo percorso sotterraneo.{0xBE01}[0x000A]Chissà quali tesori vi si celano...{0xBE01}[0x000A]I Pokémon non vedono l’ora di partire per una[0x000A]nuova, emozionante esplorazione!{0xBE01}[0x000A]Grazie per il tuo prezioso aiuto!{0x0114,0x002F}
+Che ne dici? Sfruttando il legname trasportato[0x000A]dalla corrente, abbiamo realizzato una struttura{0xBE00}[0x000A]per allenarsi sulla spiaggia.{0xBE01}[0x000A]Come ben sanno gli Allenatori esperti, per[0x000A]un Pokémon è importante mantenersi in forma!{0x0114,0x002F}
+Abbiamo aggiunto un’altra struttura per[0x000A]allenarsi.{0xBE01}[0x000A]Ora questo isolotto può ospitare fino a[0x000A]12 atletici Pokémon.{0xBE01}[0x000A]I Pokémon ne saranno entusiasti![0x000A]Continua così!{0x0114,0x002F}
+Abbiamo aggiunto un’altra struttura sfruttando[0x000A]il legname trasportato sulla spiaggia.{0xBE01}[0x000A]Ora questo isolotto può ospitare fino a[0x000A]18 atletici Pokémon.{0xBE01}[0x000A]I Pokémon ne saranno entusiasti![0x000A]Grazie per il tuo prezioso aiuto!{0x0114,0x002F}
+Ti piace? Abbiamo sfruttato le calde sorgenti[0x000A]naturali per realizzare un vero paradiso termale!{0xBE01}[0x000A]Qui i Pokémon potranno rilassarsi.{0x0114,0x002F}
+Abbiamo aggiunto una sorgente termale. Ora[0x000A]questo paradiso può ospitare ben 12 Pokémon.{0xBE01}[0x000A]I Pokémon ne trarranno grandi benefici.[0x000A]Saranno ancora più riposati e in forma!{0xBE01}[0x000A]Te ne saranno grati! Continua così!{0x0114,0x002F}
+L’intero isolotto è diventato un immenso[0x000A]paradiso termale che può ospitare ben{0xBE00}[0x000A]18 Pokémon!{0xBE01}[0x000A]Sono certo che i tuoi Pokémon non vedono[0x000A]l’ora di farsi un bel bagno rilassante!{0xBE01}[0x000A]Grazie per il tuo prezioso aiuto!{0x0114,0x002F}
+Ti basterà toccare il cartello di legno per[0x000A]scegliere le bacche da piantare.{0xBE01}[0x000A]I Pokémon sembrano entusiasti![0x000A]Falli divertire con un po’ di giardinaggio!{0x0114,0x002F}
+Ti basterà toccare il cartello di legno per[0x000A]scegliere un percorso da esplorare.{0xBE01}[0x000A]I tuoi esploratori metteranno tutto ciò che[0x000A]trovano nella cassa al centro dell’isolotto.{0xBE01}[0x000A]I Pokémon non stanno più nella pelle![0x000A]Si divertiranno moltissimo con te!{0x0114,0x002F}
+Ti basterà toccare il cartello di legno per[0x000A]scegliere i Pokémon che vuoi far allenare.{0xBE01}[0x000A]Ho preparato per loro delle bibite ideali per[0x000A]Pokémon che fanno molto sport.{0xBE01}[0x000A]Sono certo che i Pokémon si divertiranno[0x000A]tantissimo durante i loro allenamenti!{0x0114,0x002F}
+Ti basterà toccare il cartello di legno per[0x000A]scegliere i Pokémon a cui desideri offrire{0xBE00}[0x000A]un bagno termale rilassante.{0xBE01}[0x000A]Te ne saranno riconoscenti!{0x0114,0x002F}
+Benvenut{0x1100,0x00FF,0x0101}oa al Poké Resort, un luogo interamente[0x000A]dedicato ai Pokémon!{0xBE01}[0x000A]Oh... Non hai Pokémon nei Box del PC!{0xBE01}[0x000A]Questo luogo è riservato esclusivamente[0x000A]ai Pokémon depositati nei Box.{0xBE01}[0x000A]Torna quando avrai riempito un po’ i tuoi Box!
+Hai almeno 30 Pokémon nei Box! Complimenti!{0xBE01}[0x000A]Per sviluppare il tuo Poké Resort saranno[0x000A]necessari ancora più Pokégioli.{0xBE01}[0x000A]Forza e coraggio! Puoi contare sul mio aiuto[0x000A]e su quello dei Pokémon!{0x0114,0x002F}
+Hai almeno 90 Pokémon nei Box! Complimenti!{0xBE01}[0x000A]Avrai bisogno di molti più Pokégioli.[0x000A]Ma non preoccuparti, anch’io e i Pokémon{0xBE00}[0x000A]ci daremo da fare!{0x0114,0x002F}
+Hai almeno 150 Pokémon nei Box! Complimenti!{0xBE01}[0x000A]Avrai bisogno di moltissimi Pokégioli.[0x000A]Ma non preoccuparti, anch’io e i Pokémon{0xBE00}[0x000A]ci daremo da fare!{0x0114,0x002F}
+Uhm... Sbaglio o i Pokémon nei tuoi Box sono[0x000A]diminuiti? Perché non ne depositi almeno 30?{0xBE01}[0x000A]I tuoi Pokémon si sentiranno meno soli e anch’io[0x000A]sarò più contento!{0x0114,0x002F}
+Uhm... Sbaglio o i Pokémon nei tuoi Box sono[0x000A]diminuiti? Perché non ne depositi almeno 90?{0xBE01}[0x000A]I tuoi Pokémon si sentiranno meno soli e anch’io[0x000A]sarò più contento!{0x0114,0x002F}
+Uhm... Sbaglio o i Pokémon nei tuoi Box sono[0x000A]diminuiti? Perché non ne depositi almeno 150?{0xBE01}[0x000A]I tuoi Pokémon si sentiranno meno soli e anch’io[0x000A]sarò più contento!{0x0114,0x002F}
+Benvenut{0x1100,0x00FF,0x0101}oa al Poké Resort, un luogo interamente[0x000A]dedicato ai Pokémon depositati nei Box!{0xBE01}[0x000A]Oh, ma tu non hai Pokémon...{0xBE01}[0x000A]Vai a catturare dei Pokémon e torna dopo[0x000A]aver riempito un po’ i tuoi Box!{0x0114,0x002F}
+Puoi apportare migliorie al tuo Poké Resort![0x000A]Tocca l’icona della Casa Galleggiante!{0x0114,0x002F}
+Ma è fantastico, {0x0100,0x0000}![0x000A]Hai completato lo sviluppo di tutti gli isolotti!{0xBE01}[0x000A]Hai fatto davvero un ottimo lavoro.[0x000A]Sono orgoglioso di te!{0xBE01}[0x000A]In segno di ringraziamento, accetta questo[0x000A]piccolo ma prezioso regalo!{0x0114,0x002F}
+{0xBE05,0x0002}Hai ottenuto 10 Pokégioli iride!{0xBE05,0x0003}{0x0114,0x002F}
+Spero che continuerai a divertirti[0x000A]con il Poké Resort!
+Ah, le Bottiglie di Pokégioli... Ne hai sentito[0x000A]parlare? Sono famose in tutta Alola!{0xBE01}[0x000A]A volte la corrente spinge sulle rive di queste[0x000A]isole delle bottiglie piene di Pokégioli.{0xBE01}[0x000A]Allenatori di luoghi lontani le affidano al mare[0x000A]sperando che portino un sorriso a chi le trova!{0xBE01}[0x000A]Molto romantico, non è vero?{0x0114,0x002F}
+Perché non provi anche tu ad affidare alle onde[0x000A]una bottiglia piena di Pokégioli?{0xBE01}[0x000A]Dopotutto, essere generosi fa felici sia chi[0x000A]riceve, sia chi dona!{0xBE01}[0x000A]Potrai inviare una bottiglia al giorno.{0x0114,0x002F}
+A volte sull’Isolotto Passatempo, fra tanti[0x000A]Pokégioli comuni, capita di trovare delle varietà{0xBE00}[0x000A]più rare: i Pokégioli chic e i Pokégioli iride.{0xBE01}[0x000A]Sono deliziosi e i Pokémon li adorano!{0x0114,0x002F}
+A dir la verità, anch’io ne sono ghiotto!{0xBE01}[0x000A]Un profumo soave... una consistenza perfetta...[0x000A]Uno tira l’altro!{0xBE01}[0x000A]Che c’è, sei sorpres{0x1100,0x00FF,0x0101}oa?[0x000A]Dovresti provarli anche tu!{0xBE01}[0x000A]Ho imparato molto dai Pokémon, stando qui![0x000A]Ah ah ah!{0x0114,0x002F}
+Ok, scambio completato!{0x0114,0x002F}
+{0xBDFF:0x00F2}
+Vuoi aiutarmi a far crescere questo Poké[0x000A]Resort? Può ospitare fino a 5 isolotti!{0xBE01}[0x000A]Puoi aggiungere un isolotto, oppure apportare[0x000A]migliorie a uno esistente.{0xBE01}[0x000A]Per farlo, devi avere un certo numero di[0x000A]Pokémon nei Box e una certa quantità di{0xBE00}[0x000A]Pokégioli comuni.{0xBE01}[0x000A]I requisiti necessari cambiano a seconda delle[0x000A]migliorie che vuoi apportare.{0x0114,0x002F}
+Puoi vederli nel riquadro “Requisiti” nella[0x000A]schermata delle informazioni sulle migliorie.{0xBE01}[0x000A]Che migliorie vuoi apportare?{0x0114,0x002F}
+Ma lasciamo da parte i miei gusti in fatto[0x000A]di cibo... Ecco cosa ti posso offrire.{0xBE01}[0x000A]Per ogni Pokégiolo chic, 3 Pokégioli comuni[0x000A]e per ogni Pokégiolo iride, 7 Pokégioli comuni.{0x0114,0x002F}
+Non c’è posto per piantare altre bacche[0x000A]in quest’orto!{0xBE01}[0x000A]Dovrai fare spazio raccogliendo quelle mature.{0x0114,0x002F}
+Il Poké Resort è già perfetto, ed è proprio come[0x000A]avevo sempre sognato!{0xBE01}[0x000A]È tutto merito tuo e dei tuoi Pokémon,[0x000A]{0x0100,0x0000}!{0xBE01}[0x000A]Ormai questo è il vostro Poké Resort.[0x000A]Godetevelo e venite quando volete!{0x0114,0x002F}
+Pare che quest’Uovo ci metterà molto[0x000A]a schiudersi.{0x0114,0x002F}
+Hai già parecchi Pokégioli comuni! Torna[0x000A]quando avrai bisogno di rinnovare le scorte.{0x0114,0x002F}
+Giusto in tempo! L’Uovo si sta schiudendo!{0x0114,0x002F}
+Potrai mettere i Pokégioli dopo aver piantato[0x000A]delle bacche.{0x0114,0x002F}
+Bottiglia di Pokégioli è stata gettata in mare!{0x0114,0x002F}
+Vuoi lasciare il Poké Resort?{0x0114,0x002F}
+Torna presto, ti aspetto!{0x0114,0x002F}
+Ora puoi sviluppare l’Isolotto Passatempo![0x000A]Ti aspetto alla Casa Galleggiante!{0x0114,0x002F}
+Ora puoi sviluppare l’Isolotto Granraccolto![0x000A]Ti aspetto alla Casa Galleggiante!{0x0114,0x002F}
+Ora puoi sviluppare l’Isolotto Batticuore![0x000A]Ti aspetto alla Casa Galleggiante!{0x0114,0x002F}
+Ora puoi sviluppare l’Isolotto Buonalena![0x000A]Ti aspetto alla Casa Galleggiante!{0x0114,0x002F}
+Ora puoi sviluppare l’Isolotto Caldecoccole![0x000A]Ti aspetto alla Casa Galleggiante!{0x0114,0x002F}
+{0x0101,0x0000} è entrato in una Poké Ball.{0x0114,0x002F}
+{0xBDFF:0x0105}
+{0xBDFF:0x0106}
+Ho controllato le attrezzature, è tutto a posto![0x000A]Allora continuiamo con gli stessi Pokémon!

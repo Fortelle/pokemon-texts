@@ -1,0 +1,10 @@
+sub_event_040_null_01=姆咕！
+sub_event_040_leaguestaff_F_01=電子記憶碟……啟動！[0x000A]電費……節約！
+sub_event_040_null_02=咕姆……？
+sub_event_040_leaguestaff_F_07=果然不讓[0x000A]屬性：空進化不行啊……
+sub_event_040_leaguestaff_F_02=啊，是冠軍{0x0100,0x0000}。[0x000A]再次恭喜{0x1100,0x00FF,0x0101}你妳獲得優勝！
+sub_event_040_leaguestaff_F_03=為了表示祝賀之意，[0x000A]為{0x1100,0x00FF,0x0101}你妳送上稀有的寶可夢――屬性：空！
+sub_event_040_leaguestaff_F_04=這些記憶碟也是給{0x1100,0x00FF,0x0101}你妳的禮物。
+sub_event_040_system_01={0x0100,0x0000}獲得了[0x000A]各種記憶碟！
+sub_event_040_leaguestaff_F_05=屬性：空進化後[0x000A]會根據攜帶的記憶碟，{0xBE00}[0x000A]而改變為不同的屬性。
+sub_event_040_leaguestaff_F_06={0x1100,0x00FF,0x0101}你妳好啊，冠軍！[0x000A]屬性：空過得還好嗎？

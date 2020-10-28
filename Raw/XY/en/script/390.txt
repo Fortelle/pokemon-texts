@@ -1,0 +1,36 @@
+The professor is researching[0x000A]Evolution and change.{0xBE01}[0x000A]I heard that he learned a lot[0x000A]from Prof. Rowan in Sinnoh{0xBE00}[0x000A]when he was young.
+I’m developing a tool that will help my research.{0xBE01}[0x000A]It’s pretty difficult work. Please wait[0x000A]patiently for it to be completed!
+Hi, {0x0100,0x0000}.{0xBE01}[0x000A]I developed a tool to facilitate[0x000A]Pokémon research.{0xBE01}[0x000A]If you like, please use it.[0x000A]It can double as a test, too.
+It’s the Pokémon Radar,[0x000A]or Poké Radar for short.{0xBE01}[0x000A]Use it in tall grass, and you’ll[0x000A]know where Pokémon are hiding.{0xBE01}[0x000A]It’s a great tool.
+And!{0xBE01}[0x000A]If you find a Pokémon, it will[0x000A]keep searching for another{0xBE00}[0x000A]Pokémon of the same species!{0xBE01}[0x000A]There’s no guarantee that you[0x000A]can find a Pokémon, though...
+The important thing about the Poké Radar[0x000A]is that you can encounter the same{0xBE00}[0x000A]Pokémon species over again.{0xBE01}[0x000A]As you know, even Pokémon of the same[0x000A]species can have very different characteristics.{0xBE01}[0x000A]To research their characteristics,[0x000A]I’d like to collect as much data on{0xBE00}[0x000A]the same Pokémon as possible.
+I’ll let you know what the target Pokémon is[0x000A]for the research of the day.{0xBE01}[0x000A]When you have the chance,[0x000A]please help me with my research.
+Hi there, {0x0100,0x0000}.{0xBE01}[0x000A]Today’s research target is[0x000A]{0x0101,0x0001}.{0xBE01}[0x000A]Thanks!
+Hi, {0x0100,0x0000}.{0xBE01}[0x000A]Will you show me the data you’ve collected[0x000A]on today’s research target, {0x0101,0x0001}?
+Oh, you got {0x0203,0x0002,0x002C} Pokémon...[0x000A]Thanks.
+Oh, you got {0x0203,0x0002,0x002C} Pokémon...[0x000A]Great! Thank you!
+Oh, you got {0x0203,0x0002,0x002C} Pokémon...[0x000A]Very helpful. Thank you!
+Oh, {0x0203,0x0002,0x002C} Pokémon!{0xBE01}[0x000A]This is great.[0x000A]This helps my research a lot.{0xBE00}[0x000A]Thank you very much!
+This is a thank-you gift!
+I counted on you!
+There are male Pokémon, female Pokémon,[0x000A]and even Pokémon with unknown genders.{0xBE01}[0x000A]Some Pokémon have a different[0x000A]appearance depending on gender.
+To become good friends with Pokémon,[0x000A]it’s best to be with them all the time.{0xBE00}[0x000A]Please use these!
+A Pokémon caught with a Luxury Ball[0x000A]will become friendly more easily.
+Each Pokémon has a mysterious[0x000A]power called an Ability.{0xBE01}[0x000A]Some Abilities have effects during[0x000A]a battle, and some have effects{0xBE00}[0x000A]in the field.
+I heard that a TV and a washing[0x000A]machine are necessary for{0xBE00}[0x000A]research on a certain Pokémon!
+It’s the record machine that offers[0x000A]details of the Poké Radar research.
+{0x0100,0x0000} turned on the record machine!
+Which records would you like to check?
+Target record
+Latest record
+Past record
+Quit
+Target record[0x000A]{0x0101,0x0001}: {0x0203,0x0002,0x002C}
+There is no record.
+Latest record[0x000A]{0x0101,0x0001}: {0x0203,0x0002,0x002C}
+There is no record.
+Past record 1st[0x000A]{0x0101,0x0001}: {0x0203,0x0002,0x002C}
+Past record 2nd[0x000A]{0x0101,0x0003}: {0x0203,0x0004,0x002C}{0xBE01}[0x000A]Past record 1st[0x000A]{0x0101,0x0001}: {0x0203,0x0002,0x002C}
+Past record 3rd[0x000A]{0x0101,0x0005}: {0x0203,0x0006,0x002C}{0xBE01}[0x000A]Past record 2nd[0x000A]{0x0101,0x0003}: {0x0203,0x0004,0x002C}{0xBE01}[0x000A]Past record 1st[0x000A]{0x0101,0x0001}: {0x0203,0x0002,0x002C}
+There is no record.
+Ooh, fighting completely in sync with[0x000A]my favorite Pokémon gives me chills!

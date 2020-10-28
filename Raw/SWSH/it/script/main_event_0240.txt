@@ -1,0 +1,7 @@
+main_event_0240_rival_01=Senti, {0x0100,0x0000}...{0xBE01}[0x000A]Ora che anche tu sei un{0x1100,0x00FF,0x0B0A} Allenator’Allenatrice di Pokémon,[0x000A]perché non partecipi alla {0xFF00,0x0006}Sfida delle Palestre{0xFF00,0x0000}?{0x0114,0x0005}
+main_event_0240_select_01=La Sfida delle Palestre?
+main_event_0240_select_02=Di che si tratta?
+main_event_0240_rival_02=Dai, su, la Sfida delle Palestre! È impossibile che[0x000A]tu non ne abbia mai sentito parlare!{0xBE01}[0x000A]È una competizione che si tiene una volta all’anno[0x000A]per aggiudicarsi il diritto di sfidare il Campione.{0x0114,0x0005}
+main_event_0240_rival_03=Però servono delle Referenze per partecipare,[0x000A]e mio fratello dice che non sono ancora pronto...{0xBE00}[0x000A]Così ho pensato di chiedere alla Professoressa!{0x0114,0x0005}
+main_event_0240_rival_04=Dai, dai, partecipa anche tu!{0xBE01}[0x000A]Avere un rivale è lo stimolo migliore[0x000A]quando ci si allena!{0xBE01}[0x000A]E poi vedrai, diventeremo imbattibili!{0x0114,0x0005}
+main_event_0240_rival_05=La casa della Professoressa si trova alla fine[0x000A]del Percorso 2.{0xBE01}[0x000A]E lungo la strada possiamo continuare[0x000A]ad allenare i nostri Pokémon!{0x0114,0x0005}

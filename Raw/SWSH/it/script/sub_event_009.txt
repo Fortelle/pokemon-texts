@@ -1,0 +1,8 @@
+sub_event_009_doctor_01=Ecco qui {0x1100,0x00FF,0x1411}il nuovo Campionela nuova Campionessa.[0x000A]Congratulazioni! Meriti un regalo!{0x0114,0x000A}
+sub_event_009_mama_01=Professoressa Flora, non doveva![0x000A]È veramente gentile da parte sua.{0x0114,0x0008}
+sub_event_009_doctor_02=È il minimo, dopo tutto quello che[0x000A]{0x0100,0x0000} ha fatto per noi.{0x0114,0x000A}
+sub_event_009_doctor_03=Chi l’avrebbe mai immaginato? Le Desiostelle[0x000A]che causano il fenomeno Dynamax sono{0xBE00}[0x000A]in realtà una parte del corpo di Eternatus.{0xBE01}[0x000A]Dopo il suo risveglio, l’energia che alimentava il[0x000A]fenomeno Dynamax si è riversata su tutta Galar...{0x0114,0x000A}
+sub_event_009_doctor_04=Per questo i Pokémon continuavano a[0x000A]dynamaxizzarsi seminando il caos in tutta{0xBE00}[0x000A]la regione...{0xBE01}[0x000A]Fortunatamente l’intervento di {0x0100,0x0000}[0x000A]e dei suoi amici ha scongiurato la catastrofe.{0x0114,0x000A}
+sub_event_009_doctor_05=Il fenomeno Dynamax rimane un elemento[0x000A]fondamentale della cultura di Galar.{0xBE01}[0x000A]Mi auguro solo che d’ora in avanti il suo potere[0x000A]venga utilizzato nel modo migliore...{0x0114,0x000A}
+sub_event_009_doctor_06=Bene, è ora che vada.[0x000A]A presto, {0x0100,0x0000}.{0xBE01}[0x000A]Spero che ascolterai sempre il tuo cuore!{0x0114,0x000A}
+sub_event_009_mama_02=La Professoressa Flora sembra turbata dal[0x000A]comportamento del presidente...{0xBE01}[0x000A]Beh, come darle torto? Dopotutto ha passato[0x000A]un sacco di tempo a studiare il fenomeno{0xBE00}[0x000A]Dynamax per lui.{0x0114,0x0008}

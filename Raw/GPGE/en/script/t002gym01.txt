@@ -1,0 +1,8 @@
+msg_t002gym01_gym_01=Yo![0x000A]Champ in the making!{0xBE01}[0x000A]Even I don’t know who the Viridian City Gym[0x000A]Leader is.{0xBE01}[0x000A]But one thing’s certain:{0xBE01}[0x000A]you’re qualified to challenge the Gym Leader[0x000A]because you have {0xFF00,0x0006}seven Badges{0xFF00,0x0000}!{0xBE01}[0x000A]This Gym Leader will be stronger than any[0x000A]other Trainers you’ve ever faced.{0xBE01}[0x000A]Also, I heard that the Trainers here are[0x000A]users of Ground-type Pokémon.
+msg_t002gym01_gym_02=That just blew my mind! Giovanni was the Gym[0x000A]Leader of Viridian City? It was too dark to tell!
+msg_t002gym01_gym_03=A new Viridian City Gym Leader has arrived!
+msg_t002gym01_green_01=BLUE: Stopped by to say hello, huh?{0xBE01}[0x000A]Don’t you worry. Now that I’m a Gym Leader,[0x000A]I’m gonna make sure that all the Trainers in{0xBE00}[0x000A]Kanto are up to my standard!
+msg_t002gym01_poke_01=PERSIAN: Grrr...
+msg_t002gym01_statue_01=Viridian City Pokémon Gym
+msg_t002gym01_statue_02=Viridian City Pokémon Gym[0x000A]Gym Leader: Giovanni{0xBE01}[0x000A]Certified Trainers:[0x000A]{0x0100,0x0000}
+msg_t002gym01_statue_03=Viridian City Pokémon Gym[0x000A]Gym Leader: Giovanni{0xBE01}[0x000A]Certified Trainers:[0x000A]{0x0100,0x0000}{0xBE01}[0x000A]Gym Leader: Blue{0xBE01}[0x000A]Certified Trainers:[0x000A]{0x0100,0x0001}

@@ -1,0 +1,10 @@
+msg_main0730_rocketchief_01={0xFF00,0x0009}???:{0xFF00,0x0000} Basta con echarle un ojo a ese Visor Silph[0x000A]para percatarse.
+msg_main0730_rocketchief_02=Silph S. A. dispone de la tecnología necesaria[0x000A]para desarrollar herramientas que serán de gran{0xBE00}[0x000A]utilidad para los fines del Team Rocket.
+msg_main0730_rocketboss_01={0xFF00,0x0009}???:{0xFF00,0x0000} Hm... ¿Un dispositivo que revela cosas[0x000A]invisibles?{0xBE01}[0x000A]Tiene toda la pinta de ser un juguetito inútil.[0x000A]No obstante...
+msg_main0730_rocketboss_02=Tienes mi permiso para proceder con el plan.[0x000A]Infíltrate en Silph S. A. y hazte con el control{0xBE00}[0x000A]de la compañía.
+msg_main0730_rocketchief_03={0xFF00,0x0009}???:{0xFF00,0x0000} ¡A la ord...! ¿Eh?
+msg_main0730_rocketchief_04=¿Qué hace aquí est{0x1100,0x00FF,0x0606}e críoa cría?
+msg_main0730_rocketchief_05=No me parece de recibo estar ahí plantad{0x1100,0x00FF,0x0101}oa[0x000A]escuchando a hurtadillas nuestra conversación.
+msg_main0730_rocketchief_06=Soy Atlas, Comandante del Team Rocket.{0xBE01}[0x000A]Y no pienso tener contemplaciones contigo,[0x000A]¡por muy renacuaj{0x1100,0x00FF,0x0101}oa que seas!
+msg_main0730_dummy_01={0xBDFF:0x0008}
+msg_main0730_rocketchief_07={0xFF00,0x0009}Atlas:{0xFF00,0x0000} Perdóneme, jefe. Le he fallado... Que un{0x1100,0x00FF,0x0100}a[0x000A]simple crí{0x1100,0x00FF,0x0101}oa haya podido vencerme...

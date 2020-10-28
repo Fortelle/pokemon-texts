@@ -1,0 +1,9 @@
+msg_sub031_bigman_01=ふわー！　日向ぼっこ　してて[0x000A]眠って　しまった！
+msg_sub031_bigman_02=……変な　夢を　みた[0x000A]
+msg_sub031_bigman_03=迷える　魂が　炎と[0x000A]なって　あたりを　ただよっていた！{0xBE01}[0x000A]……およ？　ぼく　いつのまに[0x000A]わざマシン　持ってるけど？
+msg_sub031_bigman_04=うーん[0x000A]気味が　悪い！{0xBE00}[0x000A]これ　きみに　あげる！
+msg_sub031_bigman_05=わざマシン１１の　中身は……[0x000A]おにび　だよ……　ヒュー　ドロドロ
+msg_bigman1_01_p01_field_t002={0xBDFF:0x0005}
+msg_bigman1_01_p02_field_t002={0xBDFF:0x0006}
+msg_bigman1_01_p03_field_t002={0xBDFF:0x0007}
+msg_bigman1_01_p04_field_t002={0xBDFF:0x0008}

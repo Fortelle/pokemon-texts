@@ -1,0 +1,9 @@
+msg_main0150_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¡Hola, {0x0100,0x0000}!
+msg_main0150_rival_02=Tú también querías echarle un vistazo a la {0xFF00,0x0006}Liga{0xFF00,0x0000}[0x000A]{0xFF00,0x0006}Pokémon{0xFF00,0x0000}, ¿no?{0xBE01}[0x000A]Allí puedes hacer frente al {0xFF00,0x0006}Alto Mando{0xFF00,0x0000}, formado[0x000A]por los Entrenadores más fuertes de la región.
+msg_main0150_rival_03=¡Quería ver con mis propios ojos a los miembros[0x000A]del Alto Mando!{0xBE01}[0x000A]Pero como aún no he conseguido ninguna[0x000A]Medalla de Gimnasio, no me han dejado pasar.
+msg_main0150_rival_04=En fin, no me va a quedar otra que sudar la gota[0x000A]gorda para volverme mucho más fuerte.{0xBE01}[0x000A]Oye, ¡pues ya que estás aquí podemos[0x000A]aprovechar para combatir!
+msg_main0150_rival_05=¡Espero que estos combates te estén ayudando[0x000A]a hacerte más fuerte, {0x0100,0x0000}!
+msg_main0150_rival_06=Sea como sea, ¡vamos a darlo todo para llegar[0x000A]juntos a la Liga Pokémon algún día!
+msg_rival_01_p01_field_r022={0xBDFF:0x0006}
+msg_rival_01_p02_field_r022={0xBDFF:0x0007}
+msg_rival_01_p03_field_r022={0xBDFF:0x0008}

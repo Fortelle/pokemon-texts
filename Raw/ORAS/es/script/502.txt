@@ -1,0 +1,41 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+Bueno... Pues esta es mi casa.{0xBE01}[0x000A]Sí, soy consciente de que no es especialmente[0x000A]acogedora... pero bueno...{0xBE01}[0x000A]...[0x000A]En fin, a lo que vamos...
+¿Qué tal si recapitulamos los acontecimientos que se han[0x000A]producido en este mundo que nos rodea?
+El temblor anterior... Y ese estruendo ensordecedor...{0xBE01}[0x000A]Son la prueba fehaciente de que se ha roto el sello[0x000A]ubicado en el fondo del mar.
+En la Ruta 128 existe una gruta submarina, la Caverna[0x000A]Abisal, donde yace en letargo un Pokémon ancestral que{0xBE00}[0x000A]fue confinado allí en tiempos inmemoriales.{0xBE01}[0x000A]El poder de cierto Pokémon permitió sellar la entrada que[0x000A]conduce a ese lugar.{0xBE01}[0x000A]Sin embargo, todo apunta a que algunos tipejos con[0x000A]aviesas intenciones han logrado destruir ese sello.{0xBE01}[0x000A]No me cabe la menor duda del propósito que mueve a[0x000A]esa gentuza: despertar al Pokémon ancestral para{0xBE00}[0x000A]convertirse en sus nuevos dueños.
+{0x0100,0x0000}...
+{0x0100,0x0000}...
+Si esos tipos lograran hacerse con el poder del Pokémon[0x000A]ancestral, perturbarían el equilibrio que reina en el mundo.{0xBE01}[0x000A]Todos los seres vivos que pueblan este planeta se verían[0x000A]damnificados por una hecatombe de proporciones nunca{0xBE00}[0x000A]vistas.{0xBE01}[0x000A]Por lo que a mí respecta, pienso hacer todo lo que esté[0x000A]en mis manos para tratar de poner freno a esta situación.{0xBE01}[0x000A]Sin embargo, lo que yo pueda conseguir por mi cuenta[0x000A]tiene un límite...{0xBE01}[0x000A]Y ahí es donde entras tú.{0xBE01}[0x000A]¡Ayúdame a desbaratar los planes del Equipo Magma y el[0x000A]Equipo Aqua!{0xBE01}[0x000A]Si aunamos nuestras fuerzas y las de nuestros Pokémon,[0x000A]todavía veo un rayo de esperanza para superar esta{0xBE00}[0x000A]adversidad y evitar el desastre.
+Tengo algo que darte.
+Si utilizas Buceo, podrás sumergirte en las profundidades[0x000A]marinas acompañad{0x1100,0x00FF,0x0101}oa de tus Pokémon.
+Llévate esto también. Te permitirá permanecer con tus[0x000A]Pokémon en el mismísimo lecho marino.
+Deberías poder llegar a la entrada de la {0xFF00,0x0002}Caverna Abisal{0xFF00,0x0000} si[0x000A]utilizas {0xFF00,0x0002}Buceo{0xFF00,0x0000} en {0xFF00,0x0002}cierto lugar de la Ruta 128{0xFF00,0x0000}.
+Yo iré allí de inmediato en cuanto haya cumplido con mi[0x000A]cometido.
+Mientras tanto, intenta impedir a toda costa que los del[0x000A]Equipo Aqua y el Equipo Magma se salgan con la suya.{0xBE01}[0x000A]¡Te lo ruego!
+{0x0100,0x0000} ha comprobado la Poké Ball.{0xBE01}[0x000A]Contiene un Beldum.[0x000A]¿Quieres coger la Poké Ball?
+{0x0100,0x0000} ha obtenido a Beldum.
+No hay espacio para otro Pokémon.
+{0x0100,0x0000} ha dejado la Poké Ball donde estaba.
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+Es una carta.
+...
+Para {0x0100,0x0000}...
+Para {0x0100,0x0000}...
+He decidido lanzarme a la aventura y entrenar mientras[0x000A]viajo.{0xBE01}[0x000A]No creo que vuelva a casa en bastante tiempo.[0x000A]Por eso debo pedirte un favor.{0xBE01}[0x000A]Quisiera que cojas la Poké Ball que está en la mesa.[0x000A]Dentro hay un Beldum, mi Pokémon favorito.{0xBE01}[0x000A]Cuento contigo.[0x000A]Espero que nuestros caminos se crucen algún día.{0xBE01}[0x000A]Máximo Peñas
+{0xBDFF:0x001C}
+Es una colección de rocas y piedras raras reunida por[0x000A]Máximo.
+...
+Si uno se fija bien, se puede ver que hay una posdata en[0x000A]la carta.
+P. D.: Por cierto...{0xBE01}[0x000A]También te he mandado otro Beldum bastante especial.[0x000A]¿Lo has recibido sin problemas?{0xBE01}[0x000A]Los dos cuentan con la frescura, la fuerza y el porte[0x000A]típicos de los Pokémon de tipo Acero.{0xBE01}[0x000A]No tengo duda alguna de que su compañía te hará muy[0x000A]feliz.
+Hay una inscripción en la placa.{0xBE01}[0x000A]Variedad: Toba volcánica[0x000A]Origen: Monte Corona, región de Sinnoh
+Hay una inscripción en la placa.{0xBE01}[0x000A]Variedad: Granito[0x000A]Procedencia: Túnel Roca, región de Kanto
+Hay una inscripción en la placa.{0xBE01}[0x000A]Variedad: Vidrio volcánico[0x000A]Procedencia: Monte Mortero, región de Johto
+Hay una inscripción en la placa.{0xBE01}[0x000A]Variedad: Pedernal[0x000A]Procedencia: Monte Pírico, región de Hoenn
+Hay una inscripción en la placa.{0xBE01}[0x000A]Variedad: Peridotita[0x000A]Procedencia: Cueva Electrorroca, región de Teselia
+¿Quieres ponerle un mote a Beldum?
+{0xBDFF:0x0027}
+{0xBDFF:0x0028}

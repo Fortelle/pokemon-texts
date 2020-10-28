@@ -1,0 +1,16 @@
+msg_elevator_c03_01=どこへ　いきますか？
+msg_elevator_c03_02=ホテル　ロンド・ロゼ
+msg_elevator_c03_03=シュートスタジアム
+msg_elevator_c03_04=モノレールえき
+msg_elevator_c03_05=ローズタワー
+msg_elevator_c03_06=バトルタワー
+msg_elevator_c03_07=やめる
+msg_elevator_c02_01=エレベータだが[0x000A]いまは　つかえないようだ
+msg_elevator_start=なんかいに　いきますか？
+msg_elevator_cancel=やめる
+msg_elevator_1f=１かい
+msg_elevator_3f=３かい
+msg_elevator_ap_1f=１Ｆ：エントランス
+msg_elevator_ap_2f=２Ｆ：ほごく
+msg_elevator_ap_b1f=Ｂ１Ｆ：ふなつきば
+msg_elevator_ap_b2f=Ｂ２Ｆ：ラボエリア

@@ -1,0 +1,10 @@
+msg_sub044_rocketchief_01=ARCHER: You...
+msg_sub044_rocketchief_02=What could you possibly want, coming back[0x000A]here now?{0xBE00}[0x000A]Because of you, Team Rocket was disbanded...
+msg_sub044_rocketchief_03=It’s not my style to be emotional, but I[0x000A]wanted to give you a glimpse of how I felt.
+msg_sub044_rocketchief_04=...[0x000A]Never mind.
+msg_sub044_rocketchief_05=To tell you the truth...{0xBE01}[0x000A]I thought you might show up, so I was writing[0x000A]a letter to you.
+msg_sub044_rocketchief_09=Let me read it.
+msg_sub044_rocketchief_06=“Dear {0x0100,0x0000},{0xBE01}[0x000A]“Congratulations on conquering[0x000A]the Pokémon League.{0xBE01}[0x000A]“I hold no grudges against you for what you did[0x000A]to Team Rocket.{0xBE01}[0x000A]“Instead, using this defeat as a springboard,[0x000A]I would like to create an even stronger{0xBE00}[0x000A]Team Rocket and officially announce{0xBE00}[0x000A]our comeback.{0xBE01}[0x000A]“I will leave the Kanto region.[0x000A]I wish for your continued success here in Kanto.{0xBE01}[0x000A]“Farewell.[0x000A]                                             Archer”
+msg_sub044_rocketchief_07=ARCHER: What did I want you to think about me[0x000A]by writing such a letter...?{0xBE00}[0x000A]Humph.
+msg_sub044_system_01=Archer tore up the letter.
+msg_sub044_rocketchief_08=...Take care.

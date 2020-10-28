@@ -1,0 +1,17 @@
+msg_sub015_partner_a_01=ピッカァー！
+msg_sub015_partner_b_01=きゅーい！
+msg_sub015_system_01={0x0102,0x0003}は[0x000A]はしゃいで　いる！
+msg_sub015_system_02={0x0102,0x0003}は　ふねの[0x000A]さきを　みてみたい　ようだ！
+msg_sub015_partner_a_02=ピカピ！
+msg_sub015_partner_b_02=いぶいっ！
+msg_sub015_partner_a_03=ピィー
+msg_sub015_partner_b_03=ぶいー
+msg_sub015_system_03={0x0100,0x0000}と　{0x0102,0x0003}は[0x000A]どこまでも　つづく　うみを{0xBE00}[0x000A]いっしょに　みわたした！
+msg_sub015_system_04={0x0102,0x0003}は[0x000A]とっても　うれしそうだ！
+msg_sub015_angler_01={0xBDFF:0x000A}
+msg_sub015_angler_02={0xBDFF:0x000B}
+msg_sub015_sys_01={0xBDFF:0x000C}
+msg_sub015_angler_03={0xBDFF:0x000D}
+msg_sub015_angler_04={0xBDFF:0x000E}
+msg_sub015_angler_05={0xBDFF:0x000F}
+msg_fishing1_01_p07_t006_r0101={0xBDFF:0x0010}

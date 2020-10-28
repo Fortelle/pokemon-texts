@@ -1,0 +1,6 @@
+main_event_0800_rival_01=Was für ein Kampf, {0x0100,0x0000}!{0xBE01}[0x000A]Ich war mir zwar sicher, dass du mit[0x000A]{0x0101,0x0001} gewinnen würdest, aber...{0xBE00}[0x000A]Mann, war das aufregend!{0x0114,0x0005}
+main_event_0800_danpei_01=Sehr beeindruckend, {0x0100,0x0000}!{0xBE01}[0x000A]Jetzt hast du also schon den Pflanzen-,[0x000A]Wasser- und Feuer-Orden!{0xBE01}[0x000A]Du kommst gut voran mit der Arena-Challenge.
+main_event_0800_danpei_02=Mit deinem Können brauchst du keine Angst[0x000A]vor den anderen Arenaleitern zu haben.
+main_event_0800_danpei_03=Als Nächstes führt euch euer Weg durch die[0x000A]Naturzone nach Claw City.
+main_event_0800_rival_02=Du hast ihn gehört! Auf geht’s!{0xBE01}[0x000A]Wir haben jetzt so viele Orden, da kriegen selbst[0x000A]die stärksten Pokémon in der Naturzone das{0xBE00}[0x000A]Schlottern, wenn sie uns sehen!{0x0114,0x0005}
+main_event_0800_rival_03={0xBDFF:0x0005}

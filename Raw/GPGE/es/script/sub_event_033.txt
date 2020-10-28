@@ -1,0 +1,8 @@
+msg_t003r0101_scientist_01_01=Buenos días. La entrada para niños cuesta 50 [0xE300].[0x000A]¿Quieres comprar una?
+msg_t003r0101_scientist_01_02=Como quieras. Hasta la próxima entonces.
+msg_t003r0101_scientist_01_03=Muchas gracias.
+msg_t003r0101_scientist_01_04=No tienes suficiente dinero.
+msg_t003r0101_scientist_01_05=Disfruta de la visita.
+msg_t003r0101_scientist_01_06=Je, ¿acaso intentabas colarte entrando por la[0x000A]puerta trasera? ¡Tu gozo en un pozo, pill{0x1100,0x00FF,0x0302}ínina!{0xBE01}[0x000A]Por cierto, ¿sabes qué es el ámbar?
+msg_t003r0101_scientist_01_07=¿Y sabías también que en el interior del ámbar[0x000A]se conservan restos de especies Pokémon{0xBE00}[0x000A]extintas hoy día?{0xBE01}[0x000A]Dicen que hay un laboratorio donde llevan a[0x000A]cabo experimentos de gran calibre para tratar{0xBE00}[0x000A]de revivir estas criaturas de tiempos pasados.
+msg_t003r0101_scientist_01_08=El ámbar es, en realidad, resina de árbol[0x000A]fosilizada. Interesante, ¿eh?

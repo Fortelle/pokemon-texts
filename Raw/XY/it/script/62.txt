@@ -1,0 +1,164 @@
+Benvenut{0x1100,0x00FF,0x0101}oa al Ristorante Bocca Buona!{0xBE01}[0x000A]Cibo passabile, atmosfera non male[0x000A]e prezzi modici! Vuol favorire?
+Oh! Bentornat{0x1100,0x00FF,0x0101}oa, {0x0100,0x0000}!{0xBE01}[0x000A]Si accomodi!
+Volentieri, grazie!
+Cosa offrite?
+Magari un’altra volta
+Questa è la specialità[0x000A]del nostro ristorante...
+Mi permetto di consigliarle la specialità[0x000A]del nostro ristorante...
+Menu Lotta in Doppio
+★ Menu Lotta in Doppio
+Ripensandoci...
+La nostra specialità è un menu di tre portate[0x000A]di Lotte in Doppio servite una dietro l’altra.{0xBE01}[0x000A]Ovviamente ogni piatto va mangiato[0x000A]a tempo debito, quindi nel frattempo{0xBE00}[0x000A]può ingannare l’attesa lottando.{0xBE01}[0x000A]Se riuscirà a vincere entro il numero[0x000A]di turni da noi richiesto, sono certo{0xBE00}[0x000A]che il gusto sarà sorprendente!{0xBE01}[0x000A]A proposito, un nuovo turno inizia quando[0x000A]un Allenatore dà un comando a un Pokémon.
+Torni quando vuole,[0x000A]la aspettiamo.
+Torni quando vuole, {0x0100,0x0000}![0x000A]Noi siamo sempre qui, al suo servizio!
+Per questo menu, fanno[0x000A]${0x0205,0x0001,0x002E}. Va bene?
+Ottimo, {0x0100,0x0000}!{0xBE01}[0x000A]Fanno ${0x0205,0x0001,0x002E}, va bene?
+Perfetto.[0x000A]Da questa parte.
+Prego, mi segua. Abbiamo tirato a lucido[0x000A]il pavimento apposta per lei.
+Mi dispiace, ma non ha abbastanza soldi...{0xBE01}[0x000A]Apprezzo il suo senso dell’umorismo,[0x000A]ma questa è un’attività commerciale.
+Mi dispiace, {0x0100,0x0000}...[0x000A]Non ha abbastanza soldi.{0xBE01}[0x000A]Apprezzo il suo senso dell’umorismo,[0x000A]ma questa è un’attività commerciale.
+Sono spiacente...{0xBE01}[0x000A]Per ordinare questo menu deve[0x000A]avere con sé almeno {0x0200,0x0001} Pokémon.
+Mi dispiace, {0x0100,0x0000}...{0xBE01}[0x000A]Per ordinare questo menu deve[0x000A]avere con sé almeno {0x0200,0x0001} Pokémon.
+Questo è l’antipasto...{0xBE01}[0x000A]Un’insalatina fresca fresca,[0x000A]appena colta nel nostro orto.{0xBE01}[0x000A]Le consiglio di attendere[0x000A]{0x0201,0x0001} turn{0x1101,0x0001,0x0101}oi prima di mangiarla.
+La lotta è durata {0x0201,0x0002} turn{0x1101,0x0002,0x0101}oi e[0x000A]{0x0200,0x0003} Pokémon {0x1101,0x0003,0x0B08}è andatosono andati KO.{0xBE01}[0x000A]Ora può mangiare. Buon appetito!
+Ecco la zuppa...{0xBE01}[0x000A]Per far risaltare al massimo gli ingredienti,[0x000A]il condimento è stato ridotto al minimo.{0xBE01}[0x000A]Le consiglio di attendere {0x0201,0x0001} turn{0x1101,0x0001,0x0101}oi[0x000A]prima di mangiarla.
+La lotta è durata {0x0201,0x0002} turn{0x1101,0x0002,0x0101}oi e[0x000A]{0x0200,0x0003} Pokémon {0x1101,0x0003,0x0B08}è andatosono andati KO.{0xBE01}[0x000A]Ora può mangiare. Buon appetito!
+Ecco la portata principale...{0xBE01}[0x000A]Un piatto di mare freschissimo,[0x000A]cotto con una delicata impanatura.{0xBE01}[0x000A]Le consiglio di attendere {0x0201,0x0001} turn{0x1101,0x0001,0x0101}oi[0x000A]per gustarlo.
+La lotta è durata {0x0201,0x0002} turn{0x1101,0x0002,0x0101}oi e[0x000A]{0x0200,0x0003} Pokémon {0x1101,0x0003,0x0B08}è andatosono andati KO.{0xBE01}[0x000A]Ora può mangiare. Buon appetito!
+È stato tutto di suo gradimento?{0xBE01}[0x000A]Ecco il dessert e, già che ci siamo,[0x000A]anche il conto.
+{0x0100,0x0000}, è stato[0x000A]tutto di suo gradimento?{0xBE01}[0x000A]Ecco il dessert e, già che[0x000A]ci siamo, anche il conto.
+Ristorante Bocca Buona[0x000A]Conto del menu Lotta in Doppio
+Ecco {0x0201,0x0007} {0x0109,0x0006} per lei!
+Torni a trovarci...
+Incredibile!{0xBE01}[0x000A]Formidabile!{0xBE01}[0x000A]Straordinario!{0xBE01}[0x000A]Il nostro ristorante non è degno di lei...{0xBE01}[0x000A]{0x0100,0x0000}, lei è {0x1100,0x00FF,0x0202}illa miglior cliente[0x000A]che si possa desiderare!
+Benvenut{0x1100,0x00FF,0x0101}oa al Ristorante La Buona Forchetta!{0xBE01}[0x000A]Vuole assaggiare la nostra cucina? Non per[0x000A]vantarci, ma nel nostro piccolo ce ne intendiamo.
+Oh, {0x0100,0x0000}![0x000A]Che piacere rivederla!{0xBE01}[0x000A]L’accompagno al solito tavolo?
+Volentieri, grazie!
+Cosa offrite?
+Magari un’altra volta
+Benissimo![0x000A]Scelga il menu.
+Grazie...{0xBE01}[0x000A]{0x0100,0x0000}, la preferenza che accorda[0x000A]sempre al nostro ristorante ci onora.{0xBE01}[0x000A]Che menu gradisce oggi?
+Menu Lotta in Triplo
+★ Menu Lotta in Triplo
+Menu Lotta a Rotazione
+★ Menu Lotta a Rotazione
+Ripensandoci...
+La nostra specialità è un menu di quattro[0x000A]portate di Lotte in Triplo servite una{0xBE00}[0x000A]dietro l’altra.{0xBE01}[0x000A]Deve sapere che c’è un momento ideale[0x000A]per mangiare ogni pietanza. Nel frattempo,{0xBE00}[0x000A]può ingannare l’attesa lottando.{0xBE01}[0x000A]Se riuscirà a vincere esattamente nel[0x000A]numero di turni da noi indicato, sono{0xBE00}[0x000A]certo che il sapore sarà senza pari!{0xBE01}[0x000A]Tenga presente che un nuovo turno inizia[0x000A]nel momento in cui un Allenatore dà{0xBE00}[0x000A]un comando a un Pokémon.
+Torni quando vuole!
+Ci dispiace che debba andarsene,[0x000A]{0x0100,0x0000}...{0xBE01}[0x000A]Comunque, noi siamo sempre qui[0x000A]al suo servizio.
+Perfetto, allora vada per questo[0x000A]menu.{0xBE01}[0x000A]Sono ${0x0205,0x0001,0x002E}, va bene?
+Si vede che lei ha gusto, {0x0100,0x0000}...{0xBE01}[0x000A]Per questo menu, fanno ${0x0205,0x0001,0x002E}, va bene?
+Perfetto!{0xBE01}[0x000A]Allora l’accompagno[0x000A]al tavolo.
+Bene {0x0100,0x0000}, si prepari[0x000A]a gustare la nostra cucina...{0xBE01}[0x000A]Per lei oggi lo chef darà il meglio di sé.
+Sono dolente, ma[0x000A]non ha abbastanza soldi.
+Ah... Ah ah ah![0x000A]{0x0100,0x0000}, che spiritos{0x1100,0x00FF,0x0101}oa!{0xBE01}[0x000A]Lei ha sempre voglia di scherzare!{0xBE01}[0x000A]Se non le dispiace, però, potrebbe[0x000A]assicurarsi di avere abbastanza soldi?
+Mi rincresce...{0xBE01}[0x000A]Ma in questo ristorante serviamo[0x000A]solo clienti che hanno con sé{0xBE00}[0x000A]almeno {0x0200,0x0001} Pokémon.
+Ah... Ah ah ah! {0x0100,0x0000},[0x000A]si diverte a prendersi gioco di me!{0xBE01}[0x000A]Scherzi a parte, lei sa che per venire[0x000A]in questo ristorante bisogna avere{0xBE00}[0x000A]con sé almeno {0x0200,0x0001} Pokémon, vero?
+Per prima cosa l’antipasto...{0xBE01}[0x000A]Patè di Baccapesca salterino dall’aspetto[0x000A]giovane ma dal gusto maturo.{0xBE01}[0x000A]Le consiglio di attendere {0x0201,0x0001} turn{0x1101,0x0001,0x0101}oi[0x000A]prima di gustarlo.{0xBE01}[0x000A]Nell’attesa, mi conceda di intrattenerla[0x000A]con una lotta.
+La lotta è durata {0x0201,0x0002} turn{0x1101,0x0002,0x0101}oi e[0x000A]{0x0200,0x0003} Pokémon {0x1101,0x0003,0x0B08}è andatosono andati KO.{0xBE01}[0x000A]Mi ha molto colpito la verve con cui[0x000A]ha portato la sua squadra alla vittoria.{0xBE01}[0x000A]Ora mangi pure con calma.
+E ora la zuppa...{0xBE01}[0x000A]Minestra piagnucolante di Baccacrela alle[0x000A]108 erbe ribollita con Specchiovelo.{0xBE01}[0x000A]Le consiglio di attendere {0x0201,0x0001} turn{0x1101,0x0001,0x0101}oi[0x000A]prima di gustarla.{0xBE01}[0x000A]Nell’attesa, mi conceda di intrattenerla[0x000A]con una lotta.
+La lotta è durata {0x0201,0x0002} turn{0x1101,0x0002,0x0101}oi e[0x000A]{0x0200,0x0003} Pokémon {0x1101,0x0003,0x0B08}è andatosono andati KO.{0xBE01}[0x000A]Mi ha molto colpito come ha portato[0x000A]artisticamente alla vittoria la sua squadra.{0xBE01}[0x000A]Ora mangi pure con calma.
+Sono il manager del ristorante.{0xBE01}[0x000A]È tutto di suo gradimento?{0xBE01}[0x000A]Questo è un piatto preparato con[0x000A]talento sopraffino dal nostro chef.{0xBE01}[0x000A]Braciola della Baia Azzurra freschissima,[0x000A]con contorno di insalata di Baccapayapa{0xBE01}[0x000A]abbondantemente cosparsa d’olio extravergine[0x000A]di Baccarancia, in grado di trasmettere{0xBE01}[0x000A]la stessa sensazione di terrore provata[0x000A]da un Gastly davanti a una Streghetta.{0xBE01}[0x000A]Le consiglio di attendere {0x0201,0x0001} turn{0x1101,0x0001,0x0101}oi[0x000A]prima di gustarla.{0xBE01}[0x000A]Nell’attesa, mi conceda di intrattenerla[0x000A]con una lotta.
+La lotta è durata {0x0201,0x0002} turn{0x1101,0x0002,0x0101}oi e[0x000A]{0x0200,0x0003} Pokémon {0x1101,0x0003,0x0B08}è andatosono andati KO.{0xBE01}[0x000A]La sua abilità è davvero straordinaria...{0xBE01}[0x000A]Fra poco verrà a salutarla il capocuoco, nonché[0x000A]Proprietario del ristorante, in persona.{0xBE01}[0x000A]Ora mangi pure con calma.
+Io sono il capocuoco e Proprietario[0x000A]del Ristorante La Buona Forchetta.{0xBE01}[0x000A]La ringrazio per essere venut{0x1100,0x00FF,0x0101}oa[0x000A]nel mio ristorante oggi.{0xBE01}[0x000A]Ho selezionato personalmente[0x000A]questi formaggi misti.{0xBE01}[0x000A]Formaggio stagionato invecchiato[0x000A]180 anni...{0xBE01}[0x000A]Un erborinato morbido talmente[0x000A]puzzolente da far cadere il naso...{0xBE01}[0x000A]Formaggio a crosta lavata prodotto[0x000A]usando il veleno di un Arbok femmina.{0xBE01}[0x000A]Le consiglio di attendere {0x0201,0x0001} turn{0x1101,0x0001,0x0101}oi[0x000A]prima di gustarli.{0xBE01}[0x000A]Nell’attesa, mi conceda di intrattenerla[0x000A]con una lotta.
+La lotta è durata {0x0201,0x0002} turn{0x1101,0x0002,0x0101}oi e[0x000A]{0x0200,0x0003} Pokémon {0x1101,0x0003,0x0B08}è andatosono andati KO.{0xBE01}[0x000A]Veramente strabiliante...{0xBE01}[0x000A]Spero che continuerà a frequentare[0x000A]il nostro ristorante.{0xBE01}[0x000A]Ora mangi pure con calma.
+È rimast{0x1100,0x00FF,0x0101}oa soddisfatt{0x1100,0x00FF,0x0101}oa della nostra[0x000A]cucina?{0xBE01}[0x000A]Ecco il dessert...{0xBE01}[0x000A]Sorbetto di Baccamelos e Baccafrago[0x000A]ricoperto di mousse mille erbe.{0xBE01}[0x000A]Grazie per avere scelto[0x000A]il nostro ristorante.{0xBE01}[0x000A]Ecco il conto.
+Il menu di oggi è stato di suo gradimento?{0xBE01}[0x000A]Questo è un dessert speciale riservato a lei.{0xBE01}[0x000A]Mousse di quella cosa che non le sto a dire con[0x000A]purea di quell’altra cosa che scoprirà presto cos’è.{0xBE01}[0x000A]Grazie per aver scelto anche oggi il nostro[0x000A]ristorante, {0x0100,0x0000}.{0xBE01}[0x000A]Le lascio qui il conto.
+Ristorante La Buona Forchetta[0x000A]Conto del menu Lotta in Triplo
+Ristorante La Buona Forchetta[0x000A]Conto del menu Lotta a Rotazione
+Ecco {0x0201,0x0007} {0x0109,0x0006} per lei!
+Grazie per essere venut{0x1100,0x00FF,0x0101}oa[0x000A]nel nostro ristorante oggi.{0xBE01}[0x000A]Mi auguro di rivederla presto.
+È riuscit{0x1100,0x00FF,0x0101}oa a mangiare tutte le portate[0x000A]con un tempismo perfetto...{0xBE01}[0x000A]Un{0x1100,0x00FF,0x0100}a cliente come lei[0x000A]dà una grande soddisfazione!
+Benvenut{0x1100,0x00FF,0x0101}oa al Ristorante Gourmet!{0xBE01}[0x000A]Il nostro servizio impeccabile non la deluderà.[0x000A]Desidera un tavolo?
+Bentornat{0x1100,0x00FF,0x0101}oa, {0x0100,0x0000}![0x000A]Prego, c’è già un tavolo pronto! Si accomodi!
+Volentieri, grazie!
+Cosa offrite?
+Magari un’altra volta
+Con che cosa posso tentarla, oggi?[0x000A]Mi dica, sono al suo servizio!
+Non c’è bisogno che le spieghi,[0x000A]vero {0x0100,0x0000}?{0xBE01}[0x000A]Cosa desidera oggi?
+Menu Lotta in Doppio
+★ Menu Lotta in Doppio
+Menu Lotta in Triplo
+★ Menu Lotta in Triplo
+Menu Lotta a Rotazione
+★ Menu Lotta a Rotazione
+Ripensandoci...
+Ogni pietanza di questo ristorante va[0x000A]mangiata a tempo debito.{0xBE01}[0x000A]Nell’attesa, può intrattenersi lottando[0x000A]con il nostro staff.{0xBE01}[0x000A]Quando le verrà portata la pietanza,[0x000A]le verrà anche comunicato dopo quanti turni si{0xBE00}[0x000A]consiglia di gustarla per apprezzarne il sapore.{0xBE01}[0x000A]A proposito, un turno inizia ogni volta che[0x000A]un Allenatore dà un comando a un Pokémon.{0xBE01}[0x000A]Inoltre, tutte le sfide di questo ristorante[0x000A]sono composte da 5 lotte.
+Torni pure quando vuole,[0x000A]la aspettiamo!
+Car{0x1100,0x00FF,0x0101}oa {0x0100,0x0000}...{0xBE01}[0x000A]Spero tanto di rivederla presto.
+Questo menu viene ${0x0205,0x0001,0x002E}.[0x000A]Vuole che inizi i preparativi?
+{0x0100,0x0000}, non credo che ci sia[0x000A]bisogno che glielo dica...{0xBE01}[0x000A]Comunque questo menu viene ${0x0205,0x0001,0x002E}.[0x000A]Vuole che inizi i preparativi?
+Perfetto, l’accompagno al tavolo.
+Perfetto, da questa parte...{0xBE01}[0x000A]Un cliente come lei, {0x0100,0x0000},[0x000A]ha diritto a un trattamento d’eccezione.
+Capisco capisco...{0xBE01}[0x000A]Anche a me a volte capita di guardare nel[0x000A]portafogli e trovarci solo $100...{0xBE01}[0x000A]Meno male che se ne è accort{0x1100,0x00FF,0x0101}oa prima[0x000A]di cominciare a mangiare! ♪
+Capisco capisco, {0x0100,0x0000}...{0xBE01}[0x000A]Le persone di successo non badano troppo[0x000A]a controllare il portafogli, prima di uscire di casa.{0xBE01}[0x000A]Fortunat{0x1100,0x00FF,0x0101}oa lei che può permettersi questo lusso[0x000A]pur essendo così giovane.
+Mi dispiace, ma per avere[0x000A]il menu da lei richiesto...{0xBE01}[0x000A]Deve avere con sé almeno[0x000A]{0x0200,0x0001} Pokémon...
+Sono veramente spiacente,[0x000A]{0x0100,0x0000}...{0xBE01}[0x000A]Per gustare il menu che desidera, deve[0x000A]avere con sé almeno {0x0200,0x0001} Pokémon...
+Salve, io sono il Proprietario del ristorante.{0xBE01}[0x000A]Questo è l’antipasto...{0xBE01}[0x000A]Sformato di bacche non plus ultra!{0xBE01}[0x000A]Preparato con 64 tipi di bacche appena[0x000A]colte e grossolanamente macinate...{0xBE01}[0x000A]È stato leggermente abbrustolito con[0x000A]Pirolancio superefficace per preservare{0xBE00}[0x000A]l’aroma e la consistenza naturali delle bacche.{0xBE01}[0x000A]Per gustarlo, le consiglio di attendere[0x000A]esattamente {0x0201,0x0001} turn{0x1101,0x0001,0x0101}oi.{0xBE01}[0x000A]Nel frattempo possiamo lottare...
+La lotta è durata {0x0201,0x0002} turn{0x1101,0x0002,0x0101}oi e[0x000A]{0x0200,0x0003} Pokémon {0x1101,0x0003,0x0B08}è andatosono andati KO.{0xBE01}[0x000A]Veramente strabiliante...{0xBE01}[0x000A]Lei e i suoi Pokémon formate[0x000A]una splendida squadra.{0xBE01}[0x000A]Impressionante!
+Rieccomi qui.{0xBE01}[0x000A]Le ho portato la zuppa...{0xBE01}[0x000A]Brodo saporito non plus ultra!{0xBE01}[0x000A]Preparato bollendo per 100[0x000A]giorni nell’acqua ricavata dalla neve{0xBE00}[0x000A]della Caverna Gelata un Osso Raro{0xBE00}[0x000A]vintage di 3000 anni fa, così da{0xBE00}[0x000A]estrarne tutto il sapore possibile.{0xBE01}[0x000A]Per gustarlo, le consiglio di attendere[0x000A]esattamente {0x0201,0x0001} turn{0x1101,0x0001,0x0101}oi.{0xBE01}[0x000A]Nel frattempo possiamo lottare...
+Anf... anf...[0x000A]È stata proprio... una bella{0xBE00}[0x000A]cough cough... lotta...{0xBE01}[0x000A]È durata {0x0201,0x0002} turn{0x1101,0x0002,0x0101}oi e {0x0200,0x0003} Pokémon[0x000A]{0x1101,0x0003,0x0B08}è andatosono andati KO.{0xBE01}[0x000A]Lei e la sua squadra mi avete[0x000A]lasciato senza fiato...{0xBE01}[0x000A]Nel vero senso della paro...[0x000A]cough cough...!
+Il Proprietario si è dovuto assentare per un[0x000A]impegno improvviso e mi ha pregato di sostituirlo.{0xBE01}[0x000A]Ecco il primo...{0xBE01}[0x000A]Specialità di mare scottate e marinate!{0xBE01}[0x000A]Per preparare questo delicato piatto sono stati[0x000A]fatti bollire a fuoco molto basso i delicati prodotti{0xBE01}[0x000A]del mare di Altoripoli nella stessa delicatissima[0x000A]acqua del mare che bagna la città.{0xBE01}[0x000A]Per gustarlo, le consiglio di attendere {0x0201,0x0001} turn{0x1101,0x0001,0x0101}oi[0x000A]in modo che si raffreddi un po’.{0xBE01}[0x000A]Nel frattempo potremmo lottare, se non le[0x000A]dispiace...
+Grazie per aver lottato con me...{0xBE01}[0x000A]La lotta è durata {0x0201,0x0002} turn{0x1101,0x0002,0x0101}oi e[0x000A]{0x0200,0x0003} Pokémon {0x1101,0x0003,0x0B08}è andatosono andati KO.{0xBE01}[0x000A]La sua squadra ha delle movenze[0x000A]molto essenziali ed eleganti...{0xBE01}[0x000A]Hanno una bellezza che si addice molto[0x000A]allo stile di cucina del nostro ristorante.
+E ora, il secondo...{0xBE01}[0x000A]Verdure arrosto non plus ultra!{0xBE01}[0x000A]Dia pure ascolto al suo istinto,[0x000A]ci si avventi sopra con gusto!{0xBE01}[0x000A]Stanno per uscire dal forno,[0x000A]pronte da mangiare...{0xBE00}[0x000A]Manca{0x1101,0x0001,0x0200}no solo {0x0201,0x0001} turn{0x1101,0x0001,0x0101}oi.{0xBE01}[0x000A]Intanto lottiamo.
+Grazie per aver lottato con me...{0xBE01}[0x000A]La lotta è durata {0x0201,0x0002} turn{0x1101,0x0002,0x0101}oi e[0x000A]{0x0200,0x0003} Pokémon {0x1101,0x0003,0x0B08}è andatosono andati KO.{0xBE01}[0x000A]Il suo modo di lottare non lascia[0x000A]scampo, ha la stessa tenacia di un{0xBE00}[0x000A]Pyroar che caccia un Bunnelby...
+Ed ecco il formaggio del giorno...{0xBE01}[0x000A]Mozzarella non plus ultra!{0xBE01}[0x000A]Una mozzarella di latte di Skiddo[0x000A]freschissima, di qualità incomparabile.{0xBE01}[0x000A]Si consiglia di attendere {0x0201,0x0001} turn{0x1101,0x0001,0x0101}oi[0x000A]prima di mangiarla...{0xBE01}[0x000A]Almeno, questo è quello che dice[0x000A]il foglio che tiene in bocca il mio Skiddo.
+Chiedo umilmente scusa...{0xBE01}[0x000A]Mi sono distratta un attimo e il mio Skiddo[0x000A]che teneva in bocca i bigliettini con{0xBE00}[0x000A]i miei appunti è scappato via...{0xBE01}[0x000A]Ad ogni modo...{0xBE01}[0x000A]La lotta è durata {0x0201,0x0002} turn{0x1101,0x0002,0x0101}oi e {0x0200,0x0003} Pokémon[0x000A]{0x1101,0x0003,0x0B08}è andatosono andati KO.{0xBE01}[0x000A]Ora gusti pure questa mozzarella[0x000A]pensando agli Skiddo!
+Questo è il dessert...{0xBE01}[0x000A]Crème brûlée non plus ultra!{0xBE01}[0x000A]E questo è il conto.
+Questo è il dessert...{0xBE01}[0x000A]Crème brûlée non plus ultra!{0xBE01}[0x000A]Con uno strato di zucchero caramellato[0x000A]sopraffino preparato dal nostro capocuoco{0xBE00}[0x000A]Victini in persona usando Generatore V...{0xBE01}[0x000A]È un onore riservato solo a lei, in qualità[0x000A]di nostr{0x1100,0x00FF,0x0101}oa cliente speciale.{0xBE01}[0x000A]E questo è il conto.
+Ristorante Gourmet[0x000A]Conto del menu Lotta in Doppio
+Ristorante Gourmet[0x000A]Conto del menu Lotta in Triplo
+Ristorante Gourmet[0x000A]Conto del menu Lotta a Rotazione
+Ecco {0x0201,0x0007} {0x0109,0x0006} per lei!{0xBE01}[0x000A]Alla temperatura giusta, pront{0x1101,0x0007,0x0101}oi per essere[0x000A]gustat{0x1101,0x0007,0x0101}oi subito.
+Grazie per essere venut{0x1100,0x00FF,0x0101}oa[0x000A]nel nostro ristorante oggi.{0xBE01}[0x000A]Speriamo di rivederla presto.
+Il miglior cliente che assapora la migliore cucina[0x000A]col miglior tempismo...{0xBE01}[0x000A]Questa è davvero la migliore delle combinazioni[0x000A]possibili!{0xBE01}[0x000A]Grazie di cuore, {0x0100,0x0000}!
+Benvenut{0x1100,0x00FF,0x0101}oa!{0xBE01}[0x000A]Questo è il Ristorante Girasogno.[0x000A]Il nostro sushi scorre su nastri girevoli{0xBE00}[0x000A]proprio come in un ristorante asiatico!{0xBE01}[0x000A]Vuoi favorire?
+Bentornat{0x1100,0x00FF,0x0101}oa, {0x0100,0x0000}!{0xBE01}[0x000A]Questo è il Ristorante Girasogno.[0x000A]Sushi di qualità e atmosfera asiatica!{0xBE01}[0x000A]Vuoi favorire?
+Volentieri, grazie!
+Cosa offrite?
+Magari un’altra volta
+Benissimo![0x000A]Cosa prendi?
+Grazie, {0x0100,0x0000},[0x000A]è sempre un piacere averti qui!{0xBE01}[0x000A]Cosa prendi? Il solito?
+Menu Lotta in Doppio
+★ Menu Lotta in Doppio
+Menu Lotta in Triplo
+★ Menu Lotta in Triplo
+Menu Lotta a Rotazione
+★ Menu Lotta a Rotazione
+Ripensandoci...
+Come puoi capire a una prima occhiata,[0x000A]la nostra specialità è il Menu Lotta a Rotazione!{0xBE01}[0x000A]Ma tieni presente che ogni piatto va mangiato[0x000A]al momento appropriato. Mentre aspetti,{0xBE00}[0x000A]puoi distrarti lottando!{0xBE01}[0x000A]Trascorso il numero di turni consigliato,[0x000A]potrai mangiare!{0xBE01}[0x000A]A proposito, a ogni comando di[0x000A]un Allenatore corrisponde un turno.
+Torna a trovarci!
+È proprio un peccato,[0x000A]{0x0100,0x0000}!
+Ok! Questo menu viene ${0x0205,0x0001,0x002E}![0x000A]Hai abbastanza soldi?
+Grazie, {0x0100,0x0000}!{0xBE01}[0x000A]Questo menu viene ${0x0205,0x0001,0x002E}!
+Perfetto![0x000A]Ehi! Un tavolo per uno!
+Benissimo, {0x0100,0x0000}![0x000A]Ti accompagno al tavolo!
+O-oh... Non hai abbastanza soldi![0x000A]Siamo messi male, eh!
+{0x0100,0x0000}, non avevi mica intenzione[0x000A]di scappare senza pagare, vero?!{0xBE01}[0x000A]Se vuoi mangiare, torna quando avrai[0x000A]abbastanza soldi!
+Ah! Aspetta un attimo!{0xBE01}[0x000A]Per entrare in questo ristorante[0x000A]devi avere almeno {0x0200,0x0001} Pokémon!
+{0x0100,0x0000}!{0xBE01}[0x000A]Ti sei dimenticat{0x1100,0x00FF,0x0101}oa di come[0x000A]funzionano le cose qui?{0xBE01}[0x000A]Se vuoi mettere piede in[0x000A]questo ristorante, devi{0xBE00}[0x000A]avere almeno {0x0200,0x0001} Pokémon!
+Ecco il nighirizushi che[0x000A]hai ordinato!{0xBE01}[0x000A]Va mangiato fra {0x0201,0x0001} turn{0x1101,0x0001,0x0101}oi!{0xBE01}[0x000A]Non perdiamo tempo[0x000A]e lottiamo!
+La lotta è durata {0x0201,0x0002} turn{0x1101,0x0002,0x0101}oi e[0x000A]{0x0200,0x0003} Pokémon {0x1101,0x0003,0x0B08}è andatosono andati KO.{0xBE01}[0x000A]Bene, adesso mangia, su!
+Ecco la zuppa di miso che[0x000A]hai ordinato!{0xBE01}[0x000A]Mmh... Fammi pensare...{0xBE01}[0x000A]Questa va mangiata dopo[0x000A]{0x0201,0x0001} turn{0x1101,0x0001,0x0101}oi, mi pare.{0xBE01}[0x000A]Bene, allora lottiamo!
+La lotta è durata {0x0201,0x0002} turn{0x1101,0x0002,0x0101}oi e[0x000A]{0x0200,0x0003} Pokémon {0x1101,0x0003,0x0B08}è andatosono andati KO.{0xBE01}[0x000A]Ce l’hai messa tutta, eh!{0xBE01}[0x000A]Ti sei proprio meritat{0x1100,0x00FF,0x0101}oa[0x000A]il tuo sushi!
+Ecco il sashimi che[0x000A]hai ordinato!{0xBE01}[0x000A]Questo va mangiato[0x000A]fra {0x0201,0x0001} turn{0x1101,0x0001,0x0101}oi.{0xBE01}[0x000A]Intanto, lascia che[0x000A]lotti un po’ con te!
+La lotta è durata {0x0201,0x0002} turn{0x1101,0x0002,0x0101}oi e[0x000A]{0x0200,0x0003} Pokémon {0x1101,0x0003,0x0B08}è andatosono andati KO.{0xBE01}[0x000A]La tua abilità è notevole!{0xBE01}[0x000A]E adesso mangia!
+Ecco il sushi che hai ordinato!{0xBE01}[0x000A]Il momento migliore per mangiarlo[0x000A]è dopo {0x0201,0x0001} turn{0x1101,0x0001,0x0101}oi.{0xBE01}[0x000A]Facciamo una lotta nel frattempo?[0x000A]Coraggio!
+La lotta è durata {0x0201,0x0002} turn{0x1101,0x0002,0x0101}oi e[0x000A]{0x0200,0x0003} Pokémon {0x1101,0x0003,0x0B08}è andatosono andati KO.{0xBE01}[0x000A]È stato un piacere lottare con te.[0x000A]Adesso mangia con calma.
+Grazie per essere venut{0x1100,0x00FF,0x0101}oa nel nostro[0x000A]ristorante. Il cibo è di tuo gusto?{0xBE01}[0x000A]Io sono... come dire... il capo di questo[0x000A]posto, sì, insomma, il Proprietario.{0xBE01}[0x000A]Ad ogni modo... ecco il formaggio[0x000A]al wasabi che hai ordinato.{0xBE01}[0x000A]Va mangiato fra... mh, vediamo...[0x000A]{0x0201,0x0001} turn{0x1101,0x0001,0x0101}oi.{0xBE01}[0x000A]Nel frattempo, potremmo... beh...[0x000A]fare una lotta.
+La lotta è durata {0x0201,0x0002} turn{0x1101,0x0002,0x0101}oi e[0x000A]{0x0200,0x0003} Pokémon {0x1101,0x0003,0x0B08}è andatosono andati KO.{0xBE01}[0x000A]Beh... Adesso mangia[0x000A]pure il tuo narezushi!
+È stato tutto di tuo gradimento?{0xBE01}[0x000A]Come dessert, prendi questo[0x000A]inarizushi!{0xBE01}[0x000A]Grazie mille per essere venut{0x1100,0x00FF,0x0101}oa![0x000A]Ecco il conto.
+Grazie per essere tornat{0x1100,0x00FF,0x0101}oa[0x000A]da noi, {0x0100,0x0000}!{0xBE01}[0x000A]Ecco un prelibato tegonezushi,[0x000A]un dessert speciale riservato a te!{0xBE01}[0x000A]È sempre un piacere averti qui.{0xBE01}[0x000A]Spero che tornerai presto a trovarci!{0xBE01}[0x000A]Da noi, però, non si fa credito.[0x000A]Ecco il conto!
+Ristorante Girasogno[0x000A]Conto del menu Lotta in Doppio
+Ristorante Girasogno[0x000A]Conto del menu Lotta in Triplo
+Ristorante Girasogno[0x000A]Conto del menu Lotta a Rotazione
+E questo è un piccolo regalo per te:[0x000A]{0x0201,0x0007} {0x0109,0x0006}!
+Grazie per essere tornat{0x1100,0x00FF,0x0101}oa a trovarci![0x000A]D’ora in poi, però, non farti più vedere!
+Hai spazzolato via tutto senza[0x000A]lasciare neanche una briciola!{0xBE01}[0x000A]Sei senza fondo!
+ANTIPASTO - Da mangiare dopo {0x0200,0x0001} turn{0x1101,0x0001,0x0101}oi[0x000A]Turni: {0x0201,0x0002}　Pokémon KO: {0x0200,0x0003}
+ZUPPA - Da mangiare dopo {0x0200,0x0001} turn{0x1101,0x0001,0x0101}oi[0x000A]Turni: {0x0201,0x0002}　Pokémon KO: {0x0200,0x0003}
+PRIMO - Da mangiare dopo {0x0200,0x0001} turn{0x1101,0x0001,0x0101}oi[0x000A]Turni: {0x0201,0x0002}　Pokémon KO: {0x0200,0x0003}
+SECONDO - Da mangiare dopo {0x0200,0x0001} turn{0x1101,0x0001,0x0101}oi[0x000A]Turni: {0x0201,0x0002}　Pokémon KO: {0x0200,0x0003}
+FORMAGGIO - Da mangiare dopo {0x0200,0x0001} turn{0x1101,0x0001,0x0101}oi[0x000A]Turni: {0x0201,0x0002}　Pokémon KO: {0x0200,0x0003}
+Totale turni: {0x0203,0x0001,0x0000}[0x000A]Totale Pokémon KO: {0x0201,0x0002}
+Mi dispiace, ma in questo locale accettiamo[0x000A]solo clienti di livello pari almeno al Campione!

@@ -1,0 +1,30 @@
+Willkommen im ID-Lotterie-Zentrum!{0xBE01}[0x000A]Hier hast du die Möglichkeit, fabelhafte Preise[0x000A]zu gewinnen, wenn die gezogene Losnummer{0xBE00}[0x000A]der ID eines deiner Pokémon entspricht!{0xBE01}[0x000A]Wie wär’s? Möchtest du dein Glück versuchen[0x000A]und ein Los ziehen?
+Dann wünsche ich dir jetzt viel Glück!
+...{0xBE02:0x000A} ...{0xBE02:0x000A} ...
+Hier haben wir das Ergebnis![0x000A]Das Los hat die Nummer {0x0204,0x0000,0x0000}!{0xBE01}[0x000A]Dann wollen wir jetzt mal sehen, ob das mit[0x000A]der ID eines deiner Pokémon übereinstimmt!{0xBE00}[0x000A]Bitte hab einen Augenblick Geduld!
+Herzlichen Glückwunsch!{0xBE01}[0x000A]Die ID von {0x0102,0x0001} aus deinem Team enthält[0x000A]mindestens eine Übereinstimmung mit der Losnummer!
+Herzlichen Glückwunsch!{0xBE01}[0x000A]Die ID von {0x0102,0x0001}, das du im PC abgelegt[0x000A]hast, enthält mindestens eine Übereinstimmung{0xBE00}[0x000A]mit der Losnummer!
+Unglaublich! Alle fünf Ziffern stimmen überein!{0xBE01}[0x000A]Glück ist wohl dein zweiter Vorname, was?[0x000A]Du hast das große Los gezogen:{0xBE00}[0x000A]einen Meisterball!
+Fantastisch! Vier Ziffern stimmen überein!{0xBE01}[0x000A]Dir ist das Glück aber wirklich hold, was?[0x000A]Du hast hiermit unseren ersten Preis gewonnen:{0xBE00}[0x000A]ein Sonderbonbon!
+Oha! Drei Ziffern stimmen überein!{0xBE01}[0x000A]So viel Glück muss man erst mal haben, was?[0x000A]Du hast hiermit unseren zweiten Preis gewonnen:{0xBE00}[0x000A]ein AP-Top!
+Es stimmen immerhin zwei Ziffern überein!{0xBE01}[0x000A]Glück braucht der Mensch, was?[0x000A]Du hast hiermit unseren dritten Preis gewonnen:{0xBE00}[0x000A]ein AP-Plus!
+Na gut, es stimmt immerhin eine Ziffer überein!{0xBE01}[0x000A]Da kann man immer noch von Glück sprechen![0x000A]Du hast hiermit unseren vierten Preis gewonnen:{0xBE00}[0x000A]eine Kuhmuh-Milch!
+Wie schade.[0x000A]Leider keine Übereinstimmungen...!
+Versuch bald mal wieder dein Glück!
+Du kannst ein Mal pro Tag ein Los ziehen.[0x000A]Komm doch morgen wieder{0xBE00}[0x000A]und versuche erneut dein Glück!
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+{0xBDFF:0x001A}
+{0xBDFF:0x001B}
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}

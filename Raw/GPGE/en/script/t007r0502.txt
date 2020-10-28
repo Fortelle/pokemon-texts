@@ -1,0 +1,5 @@
+msg_t007r0502_middlem_01=Tri Attack is a move that comes with a bonus.{0xBE01}[0x000A]It has a chance of inflicting a status condition on[0x000A]the opponent!
+msg_t007r0502_elitef_01=Iron Tail is a Steel-type move.{0xBE01}[0x000A]It’ll make short work of Fairy-, Rock-, and[0x000A]Ice-type Pokémon!
+msg_t007r0502_kanban_01=“‘Loads and loads of TMs!’[0x000A]2F: Trainers’ Market”
+msg_t007r0502_campboy_01=They sell powerful, handy TMs here?[0x000A]What a swanky shop!
+msg_girl2_01_p01_t007_fs02={0xBDFF:0x0004}

@@ -1,0 +1,38 @@
+Good morning! You must be {0x0100,0x0000}.{0xBE01}[0x000A]I’ve got {0x0201,0x0001} Mystery Gift{0x1101,0x0001,0x0100}s here with your name[0x000A]on {0x1101,0x0001,0x0402}itthem.
+Good day! You must be {0x0100,0x0000}.{0xBE01}[0x000A]I’ve got {0x0201,0x0001} Mystery Gift{0x1101,0x0001,0x0100}s here with your name[0x000A]on {0x1101,0x0001,0x0402}itthem.
+Good evening! You must be {0x0100,0x0000}.{0xBE01}[0x000A]I’ve got {0x0201,0x0001} Mystery Gift{0x1101,0x0001,0x0100}s here with your name[0x000A]on {0x1101,0x0001,0x0402}itthem.
+I’m afraid I don’t have any other gifts for you[0x000A]just now.{0xBE01}[0x000A]I hope I’ll have something for you again soon!
+Which gift would you like to receive?
+Pokémon
+Items
+Battle Points
+Poké Beans
+You have {0x0201,0x0001} item gift{0x1101,0x0001,0x0100}s waiting for you.[0x000A]Would you like to take them together?
+You have {0x0201,0x0001} Battle Point gift{0x1101,0x0001,0x0100}s waiting for you.[0x000A]Would you like to take them together?
+You have {0x0201,0x0001} Poké Bean gift{0x1101,0x0001,0x0100}s waiting for you.[0x000A]Would you like to take them together?
+Take them together
+Take one at a time
+Take none
+Here you are!
+Here you are!
+You received {0x0201,0x0001} item gift{0x1101,0x0001,0x0100}s at once!
+You received {0x0201,0x0001} Battle Point gift{0x1101,0x0001,0x0100}s!
+You received {0x0201,0x0001} gifts containing Poké Beans!
+You received {0x0208,0x0001,0x0000} Battle Point{0x1101,0x0001,0x0100}s!
+You obtained {0x0202,0x0001} Rainbow Bean{0x1101,0x0001,0x0100}s!
+You obtained {0x0202,0x0001} {0x1101,0x0001,0x1804}itemdifferent types of items!
+Oh?{0xBE01}[0x000A]It looks like you don’t have space for another[0x000A]Pokémon on your team right now.{0xBE01}[0x000A]Why don’t you organize your team a bit and then[0x000A]come back to talk to me again?
+We look forward to serving you again!
+I still have another gift with your name on it.[0x000A]Would you like to take it now?
+Yes
+No
+You received {0x0101,0x0001}!
+You obtained {0x1302,0x0001}{0xBD00,0x0007,0x0000,0x0000}{0x0109,0x0001}{0xBD01}!
+You received a Pokémon Egg!
+It looks like I have a Pokémon to give you.[0x000A]Would you like to take it off my hands?
+It looks like I have an item to give you.[0x000A]Would you like to take it off my hands?
+It looks like I have some Battle Points for you.[0x000A]Would you like to take them off my hands?
+It looks like I have some Poké Beans to give you.[0x000A]Would you like to take them off my hands?
+This gift was actually a kind of set. It came with[0x000A]this {0x0109,0x0001} here.{0xBE01}[0x000A]And now this is yours!
+This gift was actually a kind of set. It came with[0x000A]this {0x0109,0x0001} here.{0xBE01}[0x000A]Oh?{0xBE01}[0x000A]From the look of things, you’ve already got[0x000A]{0x1302,0x0001}{0x0109,0x0001}, haven’t you?{0xBE01}[0x000A]A person really only needs[0x000A]one {0x0109,0x0001}...{0xBE01}[0x000A]I’ll just take this back with me, shall I?
+Quit

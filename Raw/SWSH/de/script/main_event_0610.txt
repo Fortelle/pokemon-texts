@@ -1,0 +1,13 @@
+main_event_0610_assistant_01=Danke, Voldi!{0x0114,0x000B}
+main_event_0610_poke1_01=Vol, vol, vol!
+main_event_0610_assistant_02=Super, dass du extra vorbeigekommen bist.[0x000A]Ich brauche hier mal deine Meinung.{0x0114,0x000B}
+main_event_0610_assistant_03=Siehst du diese Figuren da auf dem Hügel?[0x000A]Diese Bodenzeichnungen nennt man Geoglyphe.{0xBE01}[0x000A]Was glaubst du, was das darstellen soll?{0x0114,0x000B}
+main_event_0610_select_01=Die „Finstre Nacht“?
+main_event_0610_select_02=Das Dynamax-Phänomen?
+main_event_0610_assistant_04=Hey, gut erkannt!{0xBE01}[0x000A]Und das, obwohl die Linien, die den schwarzen[0x000A]Wirbel darstellen, schon fast verwittert sind...{0x0114,0x000B}
+main_event_0610_assistant_05=Ja, das ist eine mögliche Interpretation...[0x000A]Das könnte ein dynamaximiertes Pokémon sein.{0xBE01}[0x000A]Aber die Leute, die vor 3 000 Jahren gelebt[0x000A]haben, sollten eigentlich nicht mal wissen,{0xBE00}[0x000A]was Dynamax überhaupt ist!{0xBE01}[0x000A]Sie hätten mehr als nur eine blühende Fantasie[0x000A]gebraucht, um solch eine präzise Abbildung{0xBE00}[0x000A]davon zu erstellen.{0x0114,0x000B}
+main_event_0610_assistant_06=Vor langer, langer Zeit erschien ein schwarzer[0x000A]Wirbel am Himmel über Galar und gigantische{0xBE00}[0x000A]Pokémon begannen, in der Region zu wüten...{0xBE01}[0x000A]Die Leute nannten den Wirbel „Finstre Nacht“.{0xBE01}[0x000A]Was mag das wohl gewesen sein? Und was hatte[0x000A]der Wirbel mit dem Dynamax-Phänomen zu tun?{0x0114,0x000B}
+main_event_0610_assistant_07=Fragen über Fragen... Und wie’s aussieht,[0x000A]ist es mein Job, Antworten auf sie zu finden.{0xBE01}[0x000A]*Seufz...* So viel Arbeit, nur weil mir meine[0x000A]Großmutter ins Gewissen geredet hat...{0x0114,0x000B}
+main_event_0610_assistant_08=Danke auf jeden Fall für deine Hilfe. Hier, nimm[0x000A]als Dankeschön diese Ligakarte...{0x0114,0x000B}
+main_event_0610_assistant_09=Yarro, der Arenaleiter von Turffield, ist auf[0x000A]Pflanzen-Pokémon spezialisiert.{0xBE01}[0x000A]Feuer-, Käfer- und Flug-Attacken sind gegen[0x000A]Pflanzen-Pokémon sehr effektiv, falls du das{0xBE00}[0x000A]noch nicht wusstest!{0xBE01}[0x000A]Oh, und nimm die hier mit! Falls dein{0x1101,0x00FD,0x0100}e Pokémon[0x000A]im Kampf gegen Yarro schlapp machen sollte{0x1101,0x00FD,0x0100}n.{0x0114,0x000B}
+main_event_0610_assistant_10=Geh und zeig denen im Stadion von Turffield,[0x000A]was du auf dem Kasten hast!{0x0114,0x000B}

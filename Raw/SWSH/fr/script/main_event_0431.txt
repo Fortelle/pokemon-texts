@@ -1,0 +1,5 @@
+main_event_0431_stuff_01=Excusez-moi, vous êtes bien {0x0100,0x0000},[0x000A]l{0x1100,0x00FF,0x0101}ea Challenger ?
+main_event_0431_stuff_02=Le Rozbouton d’Or est dans cette direction.{0xBE01}[0x000A]Je vais vous y emmener, suivez-moi.
+main_event_0431_stuff_03={0xBDFF:0x0002}
+main_event_0431_stuff_04=Bien, {0x0100,0x0000}.[0x000A]Nous voici au Rozbouton d’Or !
+main_event_0431_stuff_05=Reposez-vous bien et ménagez vos forces[0x000A]pour les combats qui vous attendent !

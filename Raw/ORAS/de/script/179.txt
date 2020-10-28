@@ -1,0 +1,16 @@
+Oh! {0x0100,0x0000}!{0xBE01}[0x000A]Entschuldige, dass es hier so chaotisch aussieht.[0x000A]Immer, wenn ich forsche, vergesse ich aufzuräumen...{0xBE01}[0x000A]Das ist mir echt peinlich... Erzähl das bitte niemandem![0x000A]Hier, ich gebe dir auch das dafür...
+{0xBDFF:0x0001}
+Das sind Lanettes Forschungsaufzeichnungen.[0x000A]Sie enthalten Informationen zu den Boxen.{0xBE01}[0x000A]„Mein Ziel ist es, Boxen einzurichten,[0x000A]die jeweils 30 Pokémon aufnehmen können.{0xBE01}[0x000A]Jeder Trainer sollte in der Lage sein,[0x000A]900 Pokémon im PC-System zu lagern.“{0xBE01}[0x000A]Weiterlesen?
+„Es muss ein Markierungssystem eingerichtet werden,[0x000A]mit dem sich Pokémon bequem verwalten lassen.{0xBE01}[0x000A]Name und Hintergrund jeder Box sollen verändert werden[0x000A]können, zur Freude der darin gelagerten Pokémon.“{0xBE01}[0x000A]Weiterlesen?
+„Immer, wenn ein Pokémon gelagert wird, soll es[0x000A]in der Box landen, die zuletzt geöffnet wurde.{0xBE01}[0x000A]Ist diese Box voll, wird das Pokémon in der[0x000A]nächsten Box gelagert.{0xBE01}[0x000A]Mit anderen Worten, die zuletzt geöffnete Box wird[0x000A]automatisch gewählt, um ein Pokémon zu lagern.“
+{0x0100,0x0000} klappt das Notizbuch zu.
+Da ist eine E-Mail von jemandem auf dem PC.{0xBE01}[0x000A]„...{0xBE01}[0x000A]Dein Lagerungs-System bietet viel mehr Komfort[0x000A]als meines.{0xBE01}[0x000A]Es besitzt viele anwenderfreundliche Features,[0x000A]die nützlich sind und Spaß machen.{0xBE01}[0x000A]Es macht mich stolz, dass ich Teil dieser Entwicklung war.{0xBE01}[0x000A]Ich hoffe sehr, du setzt deine Forschungen[0x000A]in diesem Bereich weiter fort.{0xBE00}[0x000A]– Bill.“
+Auf dem Bildschirm werden komplizierte[0x000A]mathematische Formeln angezeigt.
+Hier steht etwas geschrieben, aber die Schrift[0x000A]ist so unsauber, dass sie völlig unleserlich ist.
+Oh! {0x0100,0x0000}!{0xBE01}[0x000A]Lass mich raten... Ich wette, ich weiß,[0x000A]was du von mir willst!{0xBE01}[0x000A]Du wünschst dir bestimmt, es gäbe einen Weg,[0x000A]deine PC-Boxen noch leichter zu verwalten, stimmt’s?
+Oh, das überrascht mich jetzt aber...{0xBE01}[0x000A]Ich dachte, ich müsste nur eins und eins zusammenzählen,[0x000A]um rauszukriegen, was du von mir willst...
+Wusste ich’s doch!{0xBE01}[0x000A]Es musste schließlich irgendeinen Grund dafür geben,[0x000A]dass du mich einfach so ansprichst...{0xBE01}[0x000A]Also hab ich eins und eins zusammengezählt!
+Aber genug davon![0x000A]Einen Augenblick bitte...
+So, fertig!{0xBE01}[0x000A]Ab jetzt findest du die Option „Pokémon bewegen“[0x000A]ganz oben im Menü des PCs!{0xBE01}[0x000A]Wenn ich die Option wieder an ihre ursprüngliche Stelle[0x000A]zurücksetzen soll, lass es mich wissen!
+Oh! {0x0100,0x0000}!{0xBE01}[0x000A]Soll ich die Anordnung der Optionen im PC-Menü[0x000A]wieder zurücksetzen?
+So, fertig!{0xBE01}[0x000A]Ich hab die Anordnung der Optionen im PC-Menü[0x000A]wieder in den ursprünglichen Zustand zurückversetzt.{0xBE01}[0x000A]Wenn ich die Option „Pokémon bewegen“[0x000A]wieder ganz nach oben setzen soll,{0xBE00}[0x000A]lass es mich wissen!

@@ -1,0 +1,18 @@
+Aufgepasst, hier komme ich, Connie!
+Oder so ähnlich...{0xBE01}[0x000A]Du bist ein starker Trainer, das sehe ich sofort.[0x000A]Los, fangen wir am besten gleich an!
+Connie, die Arenaleiterin von Yantara City,[0x000A]gibt sich geschlagen!{0xBE01}[0x000A]Hiermit erkenne ich dein Talent als Trainer[0x000A]an und verleihe dir feierlich diesen Orden.{0xBE01}[0x000A]Oder so ähnlich...{0xBE01}[0x000A]Na los, nimm endlich!
+{0x0100,0x0000} erhält von Connie[0x000A]den Rauforden!
+Der Rauforden sorgt dafür, dass du mit allen[0x000A]Pokémon bis Lv. 50 auf einer Wellenlänge bist.{0xBE00}[0x000A]Das gilt selbst für per Tausch erhaltene Pokémon!{0xBE01}[0x000A]Außerdem kannst du dich mittels der VM-Attacke[0x000A]Surfer auf dem Wasser fortbewegen, selbst wenn{0xBE00}[0x000A]du dich nicht gerade in einem Kampf befindest!{0xBE01}[0x000A]Ach ja, diese TM wollte ich dir auch noch geben.[0x000A]Probier sie unbedingt mal aus!
+Wie der Name bereits vermuten lässt,[0x000A]hilft Steigerungshieb dem Anwender dabei,{0xBE00}[0x000A]seine Leistung zu steigern.{0xBE01}[0x000A]Er härtet seine Fäuste mit jedem Einsatz[0x000A]weiter ab und erhöht so seinen Angriff.
+Jetzt muss ich mich erst mal bei dir entschuldigen.[0x000A]Ich kann dir den Mega-Ring nämlich erst auf{0xBE00}[0x000A]der Spitze des Turms der Erkenntnis überreichen.{0xBE01}[0x000A]Bitte sei mir nicht böse, dass ich dich pausenlos[0x000A]durch die Gegend scheuche!{0xBE01}[0x000A]Zum Schluss hätte ich noch eine Bitte:{0xBE01}[0x000A]Jetzt, wo du wie ich dazu in der Lage bist,[0x000A]eine Mega-Entwicklung herbeizuführen,{0xBE00}[0x000A]würde ich gerne erneut gegen dich kämpfen.
+Lucario und ich erwarten dich auf der Spitze[0x000A]des Turms der Erkenntnis!
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+Sei gegrüßt, zukünftiger Champ![0x000A]Wie geht’s, wie steht’s?
+Hier in der Arena von Yantara City dreht[0x000A]sich alles um Pokémon vom Typ Kampf.{0xBE01}[0x000A]Und jetzt schnapp dir deine Rollerskates und[0x000A]besiege alles, was Rollen unter den Füßen hat!{0xBE01}[0x000A]Ob von hinten, von vorne, von links[0x000A]oder von rechts, spielt keine Rolle!
+Ein wahrer Arenaleiter versteht sich im Kampf nicht[0x000A]als was Besonderes, sondern als einfacher Trainer.{0xBE01}[0x000A]Genau das ist Connies Stärke!
+Die Mega-Entwicklung...[0x000A]Eine weitere verborgene Fähigkeit der Pokémon.{0xBE01}[0x000A]Um ihre Macht zu entfesseln, muss man schon[0x000A]ein extrem starker Trainer sein!
+Pokémon-Arena von Yantara City{0xBE01}[0x000A]Leiterin: Connie[0x000A]Anerkannte Trainer:
+Pokémon-Arena von Yantara City{0xBE01}[0x000A]Leiterin: Connie[0x000A]Anerkannte Trainer:{0xBE00}[0x000A]{0x0100,0x0000}

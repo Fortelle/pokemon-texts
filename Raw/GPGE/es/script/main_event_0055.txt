@@ -1,0 +1,14 @@
+msg_main0055_doctor_01={0xFF00,0x0009}Oak:{0xFF00,0x0000} ¡Ah! Una cosa más.
+msg_main0055_doctor_02=Ahora que ya sois unos Entrenadores con todas[0x000A]las letras, quiero pediros un favor...{0xBE01}[0x000A]¡Llevad esto con vosotros en vuestro viaje!
+msg_main0055_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¿Y eso qué es, profesor?
+msg_main0055_doctor_03=¡Es mi última gran invención! Este aparato[0x000A]registrará automáticamente los datos de los{0xBE00}[0x000A]Pokémon que vayáis avistando o capturando.{0xBE01}[0x000A]Es una suerte de enciclopedia vanguardista,[0x000A]aunque yo prefiero llamarla... ¡Pokédex!
+msg_main0055_doctor_04=¡{0x0100,0x0000}! ¡{0x0100,0x0001}![0x000A]¡Os hago entrega de una Pokédex a cada uno!
+msg_main0055_sys_01=El Profesor Oak te ha entregado una {0xFF00,0x0006}Pokédex{0xFF00,0x0000}.
+msg_main0055_doctor_05={0xFF00,0x0009}Oak:{0xFF00,0x0000} Para recabar datos precisos sobre los[0x000A]Pokémon, no basta con avistarlos.{0xBE01}[0x000A]¡Hay que atraparlos!
+msg_main0055_doctor_06=Mi gran sueño ha sido siempre elaborar una guía[0x000A]exhaustiva de todos los Pokémon del mundo.
+msg_main0055_doctor_09=Pero, a mi edad, sería un esfuerzo demasiado[0x000A]grande. ¡Una auténtica utopía!
+msg_main0055_doctor_10=¡Por eso me gustaría que vosotros hicierais[0x000A]realidad ese sueño!
+msg_main0055_doctor_07=¡Adelante, id en su busca![0x000A]¡Será un gran hito en la historia de los Pokémon!
+msg_main0055_rival_02={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Así que una Pokédex, ¿eh?{0xBE01}[0x000A]Imagínate la de Pokémon que nos vamos a[0x000A]encontrar... ¡Será una pasada!
+msg_main0055_rival_03=¡Yo voy a empezar ahora mismo! Pero si quieres,[0x000A]tómate tu tiempo para prepararte.
+msg_main0055_doctor_08=¡Los Pokémon del mundo te esperan,[0x000A]{0x0100,0x0000}!

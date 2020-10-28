@@ -1,0 +1,14 @@
+msg_t0501_g0201_npc1_01=Y’a pas mal de Challengers qui ont jeté l’éponge...[0x000A]Mais toi, tu ne te décourages pas !
+msg_t0501_g0201_npc1_02=Pour être honnête, j’étais sur le point de jeter[0x000A]l’éponge... Mais après avoir vu votre combat,{0xBE00}[0x000A]j’ai repris courage !
+msg_t0501_g0201_npc2_01=D’habitude, j’utilise toujours les mêmes Pokémon,[0x000A]pour les entraîner... mais là, je crois que je vais{0xBE00}[0x000A]devoir faire une rotation.
+msg_t0501_g0201_npc2_02=Bravo pour ta victoire contre le Champion[0x000A]du type Spectre. J’ai pris des notes !
+msg_t0501_g0201_npc3_01=Maintenant que t’es arrivé{0x1100,0x00FF,0x0100}e à Old Chister,[0x000A]t’as intérêt de gagner !
+msg_t0501_g0201_npc3_02=Bravo ! T’as gagné ![0x000A]T’es trop fort{0x1100,0x00FF,0x0100}e !
+msg_t0501_g0201_npc3_03={0xBDFF:0x0006}
+msg_t0501_g0201_poke1_01_pop=Coléolé !
+msg_t0501_g0201_npc4_01_pop=Oh, c’est l{0x1100,0x00FF,0x0708}e garçona fille[0x000A]qui est passé{0x1100,0x00FF,0x0100}e à la télé !
+msg_t0501_g0201_npc4_02_pop=Quelle force !
+msg_t0501_g0201_npc4_03_pop=C’est le Maître ![0x000A]Trop bien !
+msg_t0501_g0201_npc5_01_pop=Tiens, un{0x1100,0x00FF,0x0100}e nouve{0x1100,0x00FF,0x0302}aulle[0x000A]Challenger !
+msg_t0501_g0201_npc5_02_pop=Ça y est, j’suis trop fan[0x000A]de toi, maintenant !
+msg_t0501_g0201_npc5_03_pop=Maître ![0x000A]Galar compte sur toi !

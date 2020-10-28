@@ -1,0 +1,12 @@
+For generations, my family’s duty[0x000A]has been to teach moves to Pokémon{0xBE00}[0x000A]that people call Mythical.
+What’s this? Your Pokémon already[0x000A]knows this move.
+I can teach a move to Keldeo or Meloetta.
+Shall I teach a move to one of the[0x000A]Pokémon with you?
+Please come back if you want[0x000A]me to teach your Pokémon a move.
+I’m so very sorry.{0xBE01}[0x000A]It’s impossible for me to teach a move[0x000A]to an Egg.
+That Pokémon cannot learn[0x000A]the moves I can teach.
+That Pokémon already knows[0x000A]the move I can teach.
+That Pokémon doesn’t have[0x000A]the energy to battle right now.
+{0x0102,0x0000} learned[0x000A]{0x0107,0x0001}!
+What?[0x000A]{0x0102,0x0000} is...
+{0x0102,0x0000} has resolved to battle[0x000A]and has changed into Resolute Form!

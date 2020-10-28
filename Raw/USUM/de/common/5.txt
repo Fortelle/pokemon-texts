@@ -1,0 +1,121 @@
+Freier Kampf
+Bewerteter Kampf
+Online-Turnier
+Freundesturnier
+Einzelkampf
+Doppelkampf
+Battle Royale
+Spezialkampf
+Neuer Kampf
+Kampfteam ändern
+Kampf beenden
+An einem Turnier teilnehmen
+Kämpfen
+Digitale Ausweisdaten ansehen
+Aus dem Turnier aussteigen
+Vergangene Turniere
+Turnier-Informationen
+Ja
+Nein
+Besondere Pokémon erlaubt
+Besondere Pokémon nicht erlaubt
+QR Code einlesen
+WCS-Kampf
+Kampf-Plaza
+Bewerteter Kampf
+Freier Kampf
+Einzelkampf
+Doppelkampf
+Spezialkampf
+Battle Royale
+Online-Turnier
+{0x011A,0x0000}
+{0x011A,0x0000}
+Freundesturnier
+Willkommen beim Kampf-Plaza![0x000A]Bitte wähle den gewünschten Spielmodus.[0x000A]Hier kannst du mit Spielern aus aller Welt[0x000A]Link-Kämpfe austragen.[0x000A][0x000A]Wenn du dich beim Pokémon Global Link[0x000A]zu einem der vielen Turniere anmeldest,[0x000A]kannst du hier außerdem daran teilnehmen.
+Bei Freien Kämpfen darf in deinem Kampfteam[0x000A]keine Pokémon-Art doppelt vertreten sein.[0x000A]Das Gleiche gilt für getragene Items.[0x000A]Du kannst selbst wählen, ob besondere Pokémon[0x000A]zur Teilnahme zugelassen sind oder nicht.
+Bei Bewerteten Kämpfen sind besondere Pokémon[0x000A]von der Teilnahme ausgeschlossen.[0x000A]In deinem Kampfteam darf außerdem keine[0x000A]Pokémon-Art doppelt vertreten sein.[0x000A]Das Gleiche gilt für getragene Items.[0x000A]Bei Spezialkämpfen sowie Kämpfen im Rahmen[0x000A]der Pokémon Weltmeisterschaften gelten je nach[0x000A]Saison unterschiedliche Kampfregeln.
+Um an Online-Turnieren teilnehmen zu können, musst du[0x000A]dich auf der Internetseite des Pokémon Global Links[0x000A]registrieren.[0x000A][0x000A]Informationen zu Turnieren und die zugehörigen[0x000A]Kampfregeln kannst du beim Pokémon Global Link[0x000A]unter der folgenden Adresse finden:[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+Um an Freundesturnieren teilnehmen zu können, musst du[0x000A]dich auf der Internetseite des Pokémon Global Links[0x000A]registrieren.[0x000A][0x000A]Informationen zu verfügbaren Freundesturnieren[0x000A]und die zugehörigen Kampfregeln kannst du beim[0x000A]Pokémon Global Link unter der folgenden Adresse finden:[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+Mehr Informationen über das Regelwerk kannst du auf der[0x000A]Internetseite des Pokémon Global Links finden:[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}[0x000A][0x000A]Scannst du mit einem Gerät, das QR Code-Bilder einlesen[0x000A]kann, den QR Code ein, wirst du direkt zur zugehörigen[0x000A]Seite im Internet weitergeleitet.
+Du kannst wählen, ob dein Kampfvideo nach einem[0x000A]Bewerteten Kampf automatisch an den Server geschickt[0x000A]werden soll, wodurch sein Code möglicherweise auf der[0x000A]Internetseite des Pokémon Global Links veröffentlicht wird.[0x000A][0x000A]Deine Teilnahme an Bewerteten Kämpfen wird in[0x000A]keinerlei Hinsicht beeinträchtigt, wenn du dich gegen[0x000A]die automatische Übertragung entscheidest.
+Die teilnehmenden Pokémon werden[0x000A]vor dem ersten Kampf angemeldet.
+{0xBDFF:0x002A}
+Rang:
+{0x0203,0x0000,0xE07F}
+Bestrittene Kämpfe:
+{0x0206,0x0000,0xE07F}
+Siege:
+{0x0206,0x0000,0xE07F}
+Niederlagen:
+{0x0206,0x0000,0xE07F}
+{0x0122,0x0000}
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+l
+{0x0202,0x0000}
+{0x0100,0x0000}
+Rang:
+{0x0203,0x0000,0xE07F}
+{0x0124,0x0000}
+{0x0125,0x0000}
+{0x011A,0x0000}
+{0x0202,0x0000}.
+Gegner 1
+Gegner 2
+Gegner 3
+Bitte wähle einen Spielmodus aus.
+Du nimmst an einem Freien Kampf teil.[0x000A]Bitte wähle eine Kampfart.
+Du nimmst an einem Bewerteten Kampf teil.[0x000A]Bitte lege die Kampfregeln fest.
+Möchtest du, dass deine Kampfvideos[0x000A]automatisch übertragen werden?
+Um an einem Bewerteten Kampf teilnehmen[0x000A]zu können, musst du dich auf der Internetseite{0xBE00}[0x000A]des Pokémon Global Links registrieren:{0xBE00}[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}{0xBE01}
+Datenübertragung wird ausgeführt...[0x000A]Bitte warte einen Moment.
+Die SD Card wird überprüft...[0x000A]Bitte das System nicht ausschalten.
+Die Regeln wurden aktualisiert.{0xBE01}
+Die Regeldaten sind beschädigt.[0x000A]Bitte führe alle Schritte noch einmal durch.{0xBE01}
+Die beschädigten Regeldaten wurden[0x000A]wiederhergestellt.{0xBE01}
+Die SD Card ist voll. Die Regeldaten[0x000A]können nicht gespeichert werden.{0xBE01}
+Der Server wird momentan gewartet.[0x000A]Bitte versuche es später noch einmal.{0xBE01}
+Die Saison ist beendet.{0xBE01}
+Möchtest du dein System für Bewertete Kämpfe[0x000A]registrieren?
+Die Systeminformationen deines Systems[0x000A]werden registriert...
+Die Systeminformationen deines[0x000A]Systems wurden registriert.{0xBE01}[0x000A]Achtung: Nimmst du mit einem anderen[0x000A]System an einem Bewerteten Kampf teil,{0xBE00}[0x000A]wird deine Statistik zurückgesetzt.{0xBE01}
+Du bist im Begriff, mit einem anderen[0x000A]System als beim letzten Mal an einem{0xBE00}[0x000A]Bewerteten Kampf teilzunehmen.{0xBE01}[0x000A]Deine bisherige Statistik wird zurückgesetzt.[0x000A]Möchtest du wirklich fortfahren?
+Deine Statistik wird zurückgesetzt[0x000A]und dieses System neu registriert...
+Deine Statistik wurde zurückgesetzt[0x000A]und dieses System neu registriert.{0xBE01}
+Gegnersuche wird ausgeführt...[0x000A]Bitte warte einen Moment.
+Gegner gefunden![0x000A]Der Kampf beginnt in Kürze.
+Die Suche war nicht erfolgreich.[0x000A]Bitte versuche es nach einer Weile erneut.{0xBE01}
+Ein Verbindungsfehler ist aufgetreten.[0x000A]Bitte führe alle Schritte noch einmal durch.{0xBE01}
+Es kann eine Weile dauern, bis die Statistiken[0x000A]auf den neuesten Stand gebracht werden.{0xBE01}[0x000A]Du kannst deine Kampfergebnisse auch auf[0x000A]der Internetseite des Pokémon Global Links{0xBE00}[0x000A]einsehen.{0xBE01}[0x000A]Möchtest du weiterkämpfen?
+Möchtest du weiterkämpfen?
+Der Turnierstand wird geprüft...
+Um an einem Turnier teilnehmen zu können,[0x000A]musst du dich auf der Internetseite des{0xBE00}[0x000A]Pokémon Global Links registrieren:{0xBE00}[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}{0xBE01}
+Gegenwärtig wird leider kein Turnier abgehalten,[0x000A]an dem du teilnehmen könntest.{0xBE01}
+Das Turnier, an dem du teilgenommen hast,[0x000A]ist beendet.{0xBE01}[0x000A]Informationen zu zukünftigen Turnieren[0x000A]kannst du auf der Internetseite des{0xBE00}[0x000A]Pokémon Global Links finden:{0xBE00}[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}{0xBE01}
+Das Turnier, an dem du teilgenommen hast,[0x000A]ist beendet.{0xBE01}[0x000A]Dein Kampfteam ist wieder freigegeben.{0xBE01}[0x000A]Informationen zu zukünftigen Turnieren[0x000A]kannst du auf der Internetseite des{0xBE00}[0x000A]Pokémon Global Links finden:{0xBE00}[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}{0xBE01}
+An diesem Turnier kannst du nicht teilnehmen.{0xBE01}
+Steigst du vorzeitig aus einem Turnier aus,[0x000A]wird dies als Niederlage gewertet.{0xBE01}[0x000A]Möchtest du aus folgendem Turnier aussteigen?[0x000A]„{0x01AF,0x0000}“
+Nach dem Ausstieg ist eine erneute Teilnahme[0x000A]am Turnier nicht möglich.{0xBE01}[0x000A]Willst du dennoch aus dem Turnier aussteigen?[0x000A]„{0x01AF,0x0000}“
+Du wurdest von dem Turnier abgemeldet.[0x000A]Dein Kampfteam ist wieder freigegeben.{0xBE01}
+Die digitalen Ausweisdaten werden[0x000A]heruntergeladen...
+Die digitalen Ausweisdaten wurden[0x000A]heruntergeladen.{0xBE01}
+Bitte wähle, mit welchem Kampfteam[0x000A]du teilnehmen möchtest.
+Das Turnier, zu dem du dich angemeldet hast,[0x000A]hat noch nicht begonnen.{0xBE01}[0x000A]Bitte sieh auf der Internetseite des[0x000A]Pokémon Global Links nach, wann das{0xBE00}[0x000A]Turnier abgehalten wird:{0xBE00}[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}{0xBE01}
+Du bist frühzeitig aus dem Turnier ausgestiegen.{0xBE01}
+Das Kampfteam wurde verriegelt und eine[0x000A]Spielsynchro durchgeführt.{0xBE01}[0x000A]Die Vorbereitungen zur Teilnahme am Turnier[0x000A]sind nun abgeschlossen.{0xBE01}
+Dies ist nicht das System, mit dem du dich[0x000A]zum Turnier angemeldet hast.{0xBE01}[0x000A]Bitte überprüfe dein gegenwärtiges System.{0xBE01}
+Zur gegenwärtigen Uhrzeit kannst du[0x000A]keine Kämpfe austragen.{0xBE01}[0x000A]Bitte sieh auf der Internetseite des[0x000A]Pokémon Global Links nach, zu welchen{0xBE00}[0x000A]Uhrzeiten gekämpft werden kann:{0xBE00}[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}{0xBE01}
+Die Anzahl deiner heutigen Kämpfe hat die im[0x000A]Vorfeld festgelegte maximale Anzahl erreicht.{0xBE01}[0x000A]Heute kannst du an keinen weiteren Kämpfen[0x000A]mehr teilnehmen.{0xBE01}
+Turnier, an dem du teilnimmst.
+Turnier, an dem du teilgenommen hast.
+Turnier, aus dem du frühzeitig ausgestiegen bist.
+Turnier, an dem du nicht teilnehmen kannst.
+Zum Einlesen des QR Code-Bildes wird nun die[0x000A]Kamera-Anwendung gestartet...
+Deine digitalen Ausweisdaten wurden[0x000A]empfangen.
+Was möchtest du tun?
+Es wurden keine digitalen Ausweisdaten für das[0x000A]Turnier, an dem du gerade teilnimmst, gefunden.{0xBE01}[0x000A]Möchtest du aus dem Turnier aussteigen?
+Nach dem Ausstieg ist eine erneute Teilnahme[0x000A]am Turnier nicht möglich.{0xBE01}[0x000A]Willst du dennoch aus dem Turnier aussteigen?
+Steigst du vorzeitig aus einem Turnier aus,[0x000A]wird dies als Niederlage gewertet und dein{0xBE00}[0x000A]Kampfteam wird wieder freigegeben.{0xBE01}[0x000A]Möchtest du aus dem Turnier aussteigen?
+Dein Kampfteam aus dem letzten[0x000A]Freundesturnier wurde freigegeben,{0xBE00}[0x000A]damit du an einem neuen teilnehmen{0xBE00}[0x000A]kannst.{0xBE01}
+{0xBDFF:0x0078}

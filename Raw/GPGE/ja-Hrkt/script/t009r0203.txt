@@ -1,0 +1,4 @@
+msg_t009r0203_diary_01=にっき　２がつ６か[0x000A]ミュウが　こどもを　うむ{0xBE01}[0x000A]うまれた　ばかりの　ジュニアを[0x000A]ミュウツーと　よぶことに……
+msg_t009r0203_switch_01={0xBDFF:0x0001}
+msg_t009r0203_switch_02={0xBDFF:0x0002}
+msg_t009r0203_switch_03={0xBDFF:0x0003}

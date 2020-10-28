@@ -1,0 +1,132 @@
+¡Bienvenid{0x1100,0x00FF,0x0101}oa a la Agencia de Combate!
+Aquí puedes tomar prestado un Pokémon para[0x000A]combatir junto a los visitantes de la Festi Plaza{0xBE00}[0x000A]que escojas.{0xBE01}[0x000A]Desde ahora se te otorgará un grado, que[0x000A]expresa en números tu valía como agente.{0xBE01}[0x000A]Si bien los Pokémon disponibles al principio ya[0x000A]tienen una fuerza considerable, serán todavía{0xBE00}[0x000A]mejores cuanto mayor sea tu grado.{0xBE01}[0x000A]¡Intenta alcanzar el número más alto posible[0x000A]para hacer historia como agente!{0xBE01}[0x000A]Y ahora, sin más dilación...
+En estos momentos tienes un reto pendiente.[0x000A]Tu grado aumentará al superar {0x0200,0x0000} reto{0x1101,0x0000,0x0100}s más.
+En estos momentos tienes el grado {0x0201,0x0001}.[0x000A]¿Qué deseas hacer?
+¿Sobre qué deseas informarte?
+Aquí podrás luchar con toda clase de Pokémon[0x000A]a tu lado en Combates Individuales con tres{0xBE00}[0x000A]Pokémon en cada bando.{0xBE01}[0x000A]Podrás tomar prestado un Pokémon, mientras[0x000A]que los otros dos pertenecerán a los visitantes{0xBE00}[0x000A]de tu Festi Plaza.{0xBE01}[0x000A]Así que ya sabes, ¡invita a dos personas con las[0x000A]que te apetezca aunar fuerzas para combatir!
+Aquí puedes disputar varios combates seguidos[0x000A]contra todo tipo de Entrenadores y llevarte{0xBE00}[0x000A]tanto Festimonedas como otros premios por tus{0xBE00}[0x000A]rachas de victorias.{0xBE01}[0x000A]Si logras derrotar de forma consecutiva a tres[0x000A]Entrenadores, superarás el reto y aumentarás{0xBE00}[0x000A]a la vez tu grado.{0xBE01}[0x000A]Cuanto más alto sea este, más fuertes serán[0x000A]los Pokémon que puedes tomar prestados.{0xBE01}[0x000A]Es posible que a los demás Entrenadores les[0x000A]apetezca invitarte a su propio reto tras haber{0xBE00}[0x000A]visto el Pokémon con el que participas.{0xBE01}[0x000A]Conviértete en el as de la Agencia de Combate[0x000A]encadenando victorias y subiendo de grado.
+Hasta la próxima.
+Ahora mismo, el Pokémon que estás tomando[0x000A]prestado es {0x0101,0x0001}.{0xBE01}[0x000A]¿Prefieres escoger otro Pokémon?
+Estos son los Pokémon disponibles ahora mismo.[0x000A]¿Cuál prefieres?
+Has tomado prestado a {0x0101,0x0001}.
+¿Qué Pokémon aliado quieres comprobar?
+Tu equipo ya está completo. ¿Acaso quieres[0x000A]cambiar de Entrenadores?
+¿A quién quieres sustituir?
+Elige a los Entrenadores que deseas incluir en[0x000A]tu equipo.
+{0x0100,0x0000} ha aceptado la invitación para[0x000A]formar parte de tu equipo.
+Lo siento mucho, pero parece ser que la última[0x000A]vez no guardaste tu partida, ¿cierto?{0xBE01}[0x000A]En tal caso, me temo que tendrás que comenzar[0x000A]el reto desde el principio.
+En primer lugar, elige el Pokémon que quieres[0x000A]usar.
+No tienes el número de Entrenadores necesario.[0x000A]Permíteme que te ayude a completar el equipo.
+Pues vamos allá.
+He aquí los Entrenadores que combatirán[0x000A]contigo.
+¡Que comience el combate número {0x0200,0x0000}!
+¡Muy bien! Ha sido una victoria espectacular.
+Has obtenido {0x0201,0x0005} FM.
+¿Quieres pasar al combate número {0x0200,0x0000}?
+El combate número {0x0200,0x0000} será contra uno de los[0x000A]jefes. ¿Quieres continuar?
+¿Quieres interrumpir temporalmente el reto?
+¡Bravo, has superado el reto!
+¡Lo has bordado en el combate contra el jefe![0x000A]Toma, un premio por tu extraordinaria actuación.
+Mucha suerte para tu próxima racha de cinco[0x000A]victorias.
+Tu nuevo grado es {0x0201,0x0000}. ¡Felicidades!
+Lo siento, me temo que todavía no puedes usar[0x000A]este servicio. Necesito que vengas acompañad{0x1100,0x00FF,0x0101}oa{0xBE00}[0x000A]del dueño.
+El primer oponente usará a {0x0101,0x0000},[0x000A]{0x0101,0x0001} y {0x0101,0x0002}.
+El segundo oponente usará a {0x0101,0x0000},[0x000A]{0x0101,0x0001} y {0x0101,0x0002}.
+El tercer oponente usará a {0x0101,0x0000},[0x000A]{0x0101,0x0001} y {0x0101,0x0002}.
+El equipo Pokémon del cuarto y quinto oponente[0x000A]es secreto.
+Ha sido una lástima. ¡Pero vuelve a intentarlo[0x000A]cuando quieras!
+{0x01B7,0x0000}
+Afrontar reto
+Pistas sobre tus rivales
+Escoger Pokémon
+Ver Pokémon del equipo
+Invitar a aliados
+Ver Pokémon aliados
+Información
+Adiós
+Sobre la Agencia de Combate
+Sobre las reglas
+Sí
+No
+Datos
+{0x0101,0x0000}
+{0x0101,0x0001}
+{0x0101,0x0002}
+{0x0100,0x0000}
+{0x0100,0x0001}
+Cambiar
+Ver Pokémon
+Continuar
+Descansar
+Guardar Vídeo de Combate
+Tomar prestado
+{0xBDFF:0x003E}
+{0xBDFF:0x003F}
+He aquí el mostrador de la Agencia de Combate.[0x000A]Te parecerá modesto, ¡pero es todo un invento!
+En primer lugar debes tomar prestado un[0x000A]Pokémon.
+Puedes escoger entre los tres disponibles en[0x000A]ese momento.
+Una vez elegido, invita a tus amigos.
+Busca a colegas que tengan Pokémon fuertes.
+¡Combate junto a tus amigos codo con codo y[0x000A]llévate unos premios fabulosos!
+Tu grado irá aumentando a medida que vayas[0x000A]encadenando victorias.
+Cuanto más alto sea ese grado, ¡más fuertes[0x000A]serán los Pokémon que combatan a tu lado!
+Así que ya sabes: combate un montón para que[0x000A]tu grado suba como la espuma.
+Bueno, pues en eso consiste a grandes rasgos.[0x000A]Dale una oportunidad si te apetece.
+Atrás
+Preparación de combates
+Muy bien, pasemos entonces a los preparativos[0x000A]para el combate.
+No cuentas todavía con los aliados necesarios.[0x000A]¿Por qué no invitas a alguien?
+¿Qué necesitas en concreto?
+¿Te decantas entonces por este Pokémon?
+Por lo visto careces todavía de Entrenadores a[0x000A]los que poder invitar a tu equipo.{0xBE01}[0x000A]Trata de encontrar aliados utilizando la función[0x000A]StreetPass.
+He aquí las Festimonedas que te corresponden[0x000A]por tu actuación.
+Toma.
+A mí esto de zurrar me mola cantidad.[0x000A]¡Te daré hasta en el carné de identidad!{0x0114,0x0033}
+Tiene mucho mérito haber llegado hasta aquí.[0x000A]¡Ahora te mostraré de qué pasta estoy hecho!{0x0114,0x0010}
+...{0x0114,0x0020}
+Tu grado aumentará cuando hayas completado[0x000A]{0x0200,0x0001} reto{0x1101,0x0001,0x0100}s más, {0x0100,0x0000}.
+En estos momentos tienes un reto pendiente.{0xBE01}[0x000A]Cuando hayas completado {0x0200,0x0000} reto{0x1101,0x0000,0x0100}s más, tendrás[0x000A]que enfrentarte a un jefe.
+Cuando hayas completado {0x0200,0x0000} reto{0x1101,0x0000,0x0100}s más, tendrás[0x000A]que enfrentarte a un jefe.
+¡Enhorabuena, has alcanzado el grado 50!{0xBE01}[0x000A]Por lo visto, te has convertido en un auténtico[0x000A]as de la Agencia de Combate, ¿eh?{0xBE01}[0x000A]A partir de ahora cada vez que logres la victoria[0x000A]en cinco retos, obtendrás una recompensa.
+Los Pokémon presentan una compatibilidad de[0x000A]tipos determinada entre sí.{0xBE01}[0x000A]Saber qué tipo es fuerte o débil contra qué otro[0x000A]puede darte la llave de la victoria.
+Cambiar de Pokémon durante el combate a[0x000A]veces puede brindarte ciertas ventajas.{0xBE01}[0x000A]Por ejemplo, podrías sacar un tipo de Pokémon[0x000A]ante el cual tu rival sea más vulnerable.
+¿Conoces la habilidad de tu Pokémon?{0xBE01}[0x000A]Incluso dos Pokémon que compartan la misma[0x000A]especie pueden poseer habilidades distintas.
+A veces la defensa puede ser más importante[0x000A]que el ataque.{0xBE01}[0x000A]No olvides tener en cuenta también la utilidad[0x000A]de los ataques de estado.
+Si crees que el rival está a punto de utilizar un[0x000A]movimiento supereficaz contra tu Pokémon,{0xBE00}[0x000A]quizá sea conveniente cambiarlo.
+Los cambios en las características del rival son[0x000A]también importantes. ¿Te estás fijando en ellos?{0xBE01}[0x000A]Pulsa el icono del Pokémon enemigo durante[0x000A]el combate cuando necesites consultarlos.
+Sería buena idea comprobar si a tu Pokémon se[0x000A]le dan mejor los ataques físicos o especiales.{0xBE01}[0x000A]Por ejemplo, si tu rival resiste bien los ataques[0x000A]especiales, tal vez deberías hacerle frente con{0xBE00}[0x000A]ataques físicos.
+Los movimientos golpean con mayor potencia si[0x000A]su tipo coincide con el del Pokémon que los usa.
+Si tu Pokémon posee una Velocidad alta, es muy[0x000A]posible que logre usar su movimiento primero.{0xBE01}[0x000A]Podría venirte bien plantear estrategias que le[0x000A]saquen provecho a esta ventaja.
+Si el Pokémon con el que estás combatiendo no[0x000A]tiene ningún movimiento que sea supereficaz{0xBE00}[0x000A]contra su rival, ¿qué tal si lo cambias por otro?
+Ya solo falta darte el look que tod{0x1100,0x00FF,0x0101}oa agente que[0x000A]se precie debe tener.{0xBE01}[0x000A]Seguro que marcarás un antes y un después en[0x000A]la historia de la Agencia de Combate.
+Has alcanzado el grado {0x0201,0x0000}. ¡Mi más sincera[0x000A]enhorabuena!{0xBE01}[0x000A]Me gustaría hacerte entrega de un pequeño[0x000A]obsequio. ¡Seguro que te quedan de maravilla!
+Has recibido unas Gafas de Agente.
+Instalando programa de combate... Cargando[0x000A]versión “{0x010E,0x0000}”...
+Instalando programa de combate... Cargando[0x000A]versión “{0x0100,0x0000}”...
+Ahora debes invitar a dos Entrenadores para[0x000A]que formen parte de tu equipo.
+Ahora debes invitar a dos Entrenadores para[0x000A]que formen parte de tu equipo, pero al parecer{0xBE00}[0x000A]no hay ninguno disponible.{0xBE01}[0x000A]Trata de encontrar aliados utilizando la función[0x000A]StreetPass.
+Selecciona la opción “Afrontar reto” si quieres[0x000A]combatir, {0x0100,0x0000}.
+¡Misión cumplida! Se te ha concedido un grado[0x000A]por tu encomiable labor.{0xBE01}[0x000A]Estamos seguros de que harás historia en tu[0x000A]carrera como agente.
+Has alcanzado el grado {0x0201,0x0000}.{0xBE01}[0x000A]Para poner a prueba aún más tu valía como[0x000A]agente, se ha añadido el denominado “entorno{0xBE00}[0x000A]de combate”.{0xBE01}[0x000A]A partir de ahora, los efectos derivados de las[0x000A]condiciones atmosféricas o los campos activos{0xBE00}[0x000A]influirán en la contienda.{0xBE01}[0x000A]Deberás tenerlo en cuenta a la hora de plantear[0x000A]tu estrategia, como los movimientos o el tipo de{0xBE00}[0x000A]Pokémon que utilizas.{0xBE01}[0x000A]Si no te convence el trío actual, siempre puedes[0x000A]ir a la casa de cambio Trapicheo de la Festi{0xBE00}[0x000A]Plaza para cambiarlo por otro.
+No hay ningún entorno de combate especial hoy.
+El entorno de combate para hoy es el siguiente:[0x000A]“sol”.
+El entorno de combate para hoy es el siguiente:[0x000A]“lluvia”.
+El entorno de combate para hoy es el siguiente:[0x000A]“granizo”.
+El entorno de combate para hoy es el siguiente:[0x000A]“tormenta de arena”.
+El entorno de combate para hoy es el siguiente:[0x000A]“campo eléctrico”.
+El entorno de combate para hoy es el siguiente:[0x000A]“campo de niebla”.
+El entorno de combate para hoy es el siguiente:[0x000A]“campo psíquico”.
+El entorno de combate para hoy es el siguiente:[0x000A]“campo de hierba”.
+El entorno de combate para hoy es el siguiente:[0x000A]“sol abrasador”.
+El entorno de combate para hoy es el siguiente:[0x000A]“diluvio”.
+El entorno de combate para hoy es el siguiente:[0x000A]“turbulencias”.
+{0xBDFF:0x007A}
+{0xBDFF:0x007B}
+{0xBDFF:0x007C}
+{0xBDFF:0x007D}
+{0xBDFF:0x007E}
+{0xBDFF:0x007F}
+{0xBDFF:0x0080}
+{0xBDFF:0x0081}
+{0xBDFF:0x0082}
+Te corresponden estas Festimonedas como[0x000A]premio por participar.

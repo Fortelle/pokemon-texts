@@ -1,0 +1,8 @@
+msg_main1220_partner_a_01=Pika pika !
+msg_main1220_partner_b_01=Vo ! Évo !
+msg_main1220_young_f_01=Oh ! Un {0x0101,0x0002} !
+msg_main1220_young_f_02=Oui ? Tu veux savoir ce que je fais ici ?
+msg_main1220_young_f_03=Je cueille des fleurs !{0xBE01}[0x000A]Après, j’en ferai un bouquet pour l’offrir[0x000A]à quelqu’un de spécial.
+msg_main1220_young_f_04=Oh, {0x0100,0x0000} !{0xBE01}[0x000A]Tu as tout entendu ? N’en parle à personne,[0x000A]d’accord ? Ce sera notre petit secret !
+msg_main1220_young_f_05=En parlant de secret, en voici un autre ![0x000A]L’Arène de Jadielle a de nouveau un Champion !{0xBE01}[0x000A]C’est formidable ! Va donc voir ça de tes[0x000A]propres yeux !
+msg_main1220_young_f_06=Surtout, ne dis pas à {0x0100,0x0001}[0x000A]que je cueille des fleurs !{0xBE00}[0x000A]Motus et bouche cousue !

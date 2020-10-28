@@ -1,0 +1,8 @@
+net_save_win_01=正在写入记录……[0x000A]请稍等片刻。
+net_save_win_02=请注意！[0x000A][0x000A]在进行宝可梦交换的时候，[0x000A]如果出现连接错误或[0x000A]主机电源被切断等情况，[0x000A]就会暂时无法进行宝可梦交换。
+net_save_win_03=正在等待连接……[0x000A]请稍等片刻。
+net_save_win_04=要结束交换吗？
+net_save_sel_01=是
+net_save_sel_02=否
+net_save_sel_03=取消
+net_save_win_05=对方选择了结束。[0x000A]即将结束交换。

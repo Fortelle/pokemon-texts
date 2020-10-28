@@ -1,0 +1,16 @@
+msg_main0920_rocketchief_01={0xFF00,0x0009}Amos : {0xFF00,0x0000}Pas un pas de plus !
+msg_main0920_rival_01={0xFF00,0x0009}{0x0100,0x0001} :{0xFF00,0x0000} Quoi ? Encore lui ?![0x000A]Mais, il est plus tenace qu’un Crustabri accroché{0xBE00}[0x000A]à son rocher !
+msg_main0920_rocketchief_02={0xFF00,0x0009}Amos : {0xFF00,0x0000}Exactement ! Jamais je ne vous laisserai[0x000A]atteindre notre chef ! Il faudra d’abord me passer{0xBE00}[0x000A]sur le corps !
+msg_main0920_rival_02={0xFF00,0x0009}{0x0100,0x0001}: {0xFF00,0x0000}Votre chef ?[0x000A]Mais...
+msg_main0920_rival_03={0x0100,0x0000} ![0x000A]Tu réalises ce que ça veut dire ?!
+msg_main0920_select_01=Oui ! Aucun doute !
+msg_main0920_select_02=Giovanni est bien là !
+msg_main0920_rival_04={0xFF00,0x0009}{0x0100,0x0001} : {0xFF00,0x0000}Le boss de la Team[0x000A]Rocket se planque dans ce bâtiment !{0xBE00}[0x000A]Y’a pas à hésiter !
+msg_main0920_rival_05={0xFF00,0x0009}{0x0100,0x0001} : {0xFF00,0x0000}{0x0100,0x0000},[0x000A]fonce ! Va t’occuper du boss !{0xBE00}[0x000A]Je retiens l’autre guignol !
+msg_main0920_rival_06=Il a entendu, le Crustabri ? C’est moi qui vais[0x000A]m’occuper de toi !
+msg_main0920_rocketchief_03={0xFF00,0x0009}Amos : {0xFF00,0x0000}Malédiction ! Laisse-moi passer, gamin ![0x000A]Je dois aller prévenir Maître Giovanni !
+msg_main0920_rival_07={0xFF00,0x0009}{0x0100,0x0001} : {0xFF00,0x0000}{0x0100,0x0000} !{0xBE01}[0x000A]Fonce, je te dis ! Va écraser le boss de[0x000A]la Team Rocket !
+msg_rival_01_p01_cave_d1007={0xBDFF:0x000C}
+msg_rival_01_p02_cave_d1007={0xBDFF:0x000D}
+msg_rival_01_p03_cave_d1007={0xBDFF:0x000E}
+msg_rival_01_p05_cave_d1007={0xBDFF:0x000F}

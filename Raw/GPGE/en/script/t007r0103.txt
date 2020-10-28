@@ -1,0 +1,10 @@
+msg_t007r0103_scientist_01=Me?[0x000A]I’m a programmer!
+msg_t007r0103_scientist_02=Did you complete your Pokédex?![0x000A]Great! It was worth programming it!
+msg_t007r0103_pokemaniac_01=I’m a graphic artist![0x000A]I’m the one who designed you!
+msg_t007r0103_pokemaniac_02=Congratulations on completing your Pokédex![0x000A]You really look like you’ve grown and matured!{0xBE01}[0x000A]Actually your model hasn’t changed at all, has it?[0x000A]...Er, never mind! Don’t mind me!
+msg_t007r0103_fat_01=I wrote the story![0x000A]Hey, tell me... Don’t you think Erika is cute?{0xBE01}[0x000A]I like Misty a lot, too![0x000A]Oh, and Sabrina! I like her, too!
+msg_t007r0103_fat_02=You completed your Pokédex? Impressive!{0xBE01}[0x000A]But you still have a long way to go...{0xBE01}[0x000A]Just kidding!
+msg_t007r0103_pc_01=It’s the game code![0x000A]Messing with it could bug out the game!
+msg_t007r0103_pc_02=Someone’s playing a game instead of working!
+msg_t007r0103_pc_03=It’s the script![0x000A]Better not look at the ending!
+msg_t007r0103_kanban_01=GAME FREAK Development Office

@@ -1,0 +1,70 @@
+Je travaille à la Pension Pokémon.{0xBE01}[0x000A]Ici, nous nous occupons des précieux Pokémon[0x000A]de nos amis Dresseurs.{0xBE01}[0x000A]Si tu veux nous confier un ou plusieurs Pokémon,[0x000A]adresse-toi à la patronne.
+Ah, c’est toi[0xE07F]! Quel plaisir de te voir.[0x000A]{0x0101,0x0000} va très bien.
+Ah, c’est toi[0xE07F]!{0xBE01}[0x000A]{0x0102,0x0000} et {0x0102,0x0001}[0x000A]sont en pleine forme[0xE07F]!{0xBE01}[0x000A]Ils ont l’air de très bien s’entendre.
+Ah, c’est toi[0xE07F]!{0xBE01}[0x000A]{0x0102,0x0000} et {0x0102,0x0001}[0x000A]sont en pleine forme[0xE07F]!{0xBE01}[0x000A]Ils ont l’air de s’entendre.
+Ah, c’est toi[0xE07F]!{0xBE01}[0x000A]{0x0102,0x0000} et {0x0102,0x0001}[0x000A]sont en pleine forme[0xE07F]!{0xBE01}[0x000A]Mais ils ont l’air de ne pas trop s’apprécier.
+Ah, c’est toi[0xE07F]!{0xBE01}[0x000A]{0x0102,0x0000} et {0x0102,0x0001}[0x000A]sont en pleine forme[0xE07F]!{0xBE01}[0x000A]Mais ils ont tendance à jouer avec d’autres[0x000A]Pokémon plutôt qu’entre eux.
+Ah, c’est toi[0xE07F]!{0xBE01}[0x000A]On a eu une surprise en élevant tes Pokémon[0xE07F]!{0xBE01}[0x000A]Tout d’un coup, voilà que l’un d’entre eux s’est[0x000A]ramené avec un Œuf[0xE07F]!{0xBE01}[0x000A]On ne sait pas où il l’a trouvé, mais c’est le sien.{0xBE01}[0x000A]Tu comptes l’emporter, n’est-ce pas[0xE07F]?
+L’Hôte de la Pension Pokémon donne l’Œuf[0x000A]à {0x0100,0x0000}.
+Prends-en bien soin[0xE07F]!
+Tu n’as pas de place, on dirait…[0x000A]Reviens plus tard.
+Je veux bien le garder pour moi, mais en fait[0xE08D][0x000A]tu veux cet Œuf, avoue[0xE07F]!
+Puisque tu insistes, je le garde, alors.[0x000A]Merci[0xE07F]!
+Je suis l’Hôtesse de la Pension.{0xBE01}[0x000A]Mon travail, c’est d’élever les Pokémon[0x000A]que nous confient leurs Dresseurs.{0xBE01}[0x000A]Veux-tu me confier un Pokémon[0xE07F]?
+Je suis l’Hôtesse de la Pension.{0xBE01}[0x000A]Mon travail, c’est d’élever les Pokémon[0x000A]que nous confient leurs Dresseurs.{0xBE01}[0x000A]Que puis-je faire pour toi aujourd’hui[0xE07F]?
+Reviens quand tu veux[0xE07F]!
+Oh, c’est toi[0xE07F]![0x000A]Va voir mon mari à l’entrée, il te cherchait[0xE07F]!
+Si tu me confies ce Pokémon,[0x000A]comment feras-tu pour te défendre[0xE07F]?
+Quel Pokémon voudrais-tu me confier[0xE07F]?
+Mais enfin, ce n’est qu’un Œuf[0xE07F]!
+Viens avec moi, {0x0101,0x0000}.[0x000A]Je vais m’occuper de toi pendant quelque temps.
+Reviens nous voir dans quelque temps[0xE07F]!
+Nous pouvons élever deux Pokémon pour toi.[0x000A]Veux-tu nous en confier un autre[0xE07F]?
+Tous tes Pokémon sont en pleine forme.[0x000A]Veux-tu en récupérer un[0xE07F]?
+Ton {0x0101,0x0000} a gagné {0x0201,0x0001} niveau{0x1101,0x0001,0x0100}x.
+Le montant de la pension de {0x0101,0x0000}[0x000A]s’élève à {0x0204,0x0001,0xE07F} $.
+Je suis désolée, mais tu n’as pas assez d’argent.
+L’Hôtesse de la Pension Pokémon a rendu[0x000A]{0x0101,0x0000} à {0x0100,0x0001}.
+Veux-tu récupérer l’autre Pokémon que tu nous as[0x000A]confié[0xE07F]?
+Oh[0xE08D] Mais si tu nous confies un Pokémon,[0x000A]il ne t’en restera plus qu’un en forme[0xE07F]!{0xBE01}[0x000A]Reviens nous voir quand tu en auras[0x000A]attrapé d’autres.
+Tu n’as pas de place, on dirait…[0x000A]Reviens nous voir plus tard.
+Confier un Pokémon
+Récupérer un Pokémon
+Annuler
+Niveau {0x0202,0x0001}
+{0x0101,0x0000} ♂ Niveau {0x0202,0x0001}
+{0x0101,0x0000} ♀ Niveau {0x0202,0x0001}
+{0x0101,0x0000} Niveau {0x0202,0x0001}
+Hein[0xE07F]?!
+Un {0x0101,0x0000} vient de sortir de l’Œuf[0xE07F]!
+Voulez-vous donner un surnom[0x000A]au {0x0101,0x0000} nouveau-né[0xE07F]?
+Bienvenue à notre Pension, où nous nous occupons[0x000A]des précieux Pokémon de nos amis Dresseurs.{0xBE01}[0x000A]Si tu veux nous confier un ou plusieurs Pokémon,[0x000A]adresse-toi à ma grande sœur à l’intérieur[0xE07F]!
+Salut[0xE07F]![0x000A]{0x0102,0x0000} va très bien.
+Salut[0xE07F]!{0xBE01}[0x000A]{0x0102,0x0000} et {0x0102,0x0001}[0x000A]sont en pleine forme[0xE07F]!{0xBE01}[0x000A]Ils ont l’air de très bien s’entendre.
+Salut[0xE07F]!{0xBE01}[0x000A]{0x0102,0x0000} et {0x0102,0x0001}[0x000A]sont en pleine forme[0xE07F]!{0xBE01}[0x000A]Ils ont l’air de s’entendre.
+Salut[0xE07F]!{0xBE01}[0x000A]{0x0102,0x0000} et {0x0102,0x0001}[0x000A]sont en pleine forme[0xE07F]!{0xBE01}[0x000A]Mais ils ont l’air de ne pas trop s’apprécier.
+Salut[0xE07F]!{0xBE01}[0x000A]{0x0102,0x0000} et {0x0102,0x0001}[0x000A]sont en pleine forme[0xE07F]!{0xBE01}[0x000A]Mais ils ont tendance à jouer avec[0x000A]d’autres Pokémon plutôt qu’entre eux.
+Ah, tu tombes bien[0xE07F]! Figure-toi qu’un de tes Pokémon[0x000A]s’est ramené tout à coup avec un Œuf[0xE07F]!{0xBE01}[0x000A]On ne sait pas où il l’a trouvé, mais c’est le sien.[0x000A]Tu comptes l’emporter, n’est-ce pas[0xE07F]?
+L’Hôte de la Pension donne l’Œuf à {0x0100,0x0000}.
+Prends-en bien soin[0xE07F]!
+Tu n’as pas de place, on dirait…[0x000A]Tu devrais laisser un de tes Pokémon dans une Boîte PC.
+Je veux bien le garder pour moi, mais[0xE08D][0x000A]En fait, tu veux cet Œuf, avoue[0xE07F]!
+Puisque tu insistes, je le garde, alors.[0x000A]Merci[0xE07F]!
+Je suis l’Hôtesse de la Pension.{0xBE01}[0x000A]Mon travail, c’est d’élever les Pokémon[0x000A]que nous confient leurs Dresseurs.{0xBE01}[0x000A]Veux-tu me confier un Pokémon[0xE07F]?
+Je suis l’Hôtesse de la Pension.{0xBE01}[0x000A]Mon travail, c’est d’élever les Pokémon[0x000A]que nous confient leurs Dresseurs.{0xBE01}[0x000A]Que puis-je faire pour toi aujourd’hui[0xE07F]?
+Reviens quand tu veux[0xE07F]!
+Oh, c’est toi[0xE07F]![0x000A]Va voir mon petit frère à l’entrée, il te cherchait[0xE07F]!
+Si tu me confies ce Pokémon, comment feras-tu pour[0x000A]te battre[0xE07F]?
+Quel Pokémon voudrais-tu me confier[0xE07F]?
+Mais enfin, ce n’est qu’un Œuf[0xE07F]!
+Viens avec moi, {0x0101,0x0000}.[0x000A]Je vais m’occuper de toi pendant quelque temps.
+Reviens nous voir dans quelque temps[0xE07F]!
+Nous pouvons élever deux Pokémon pour toi.[0x000A]Veux-tu nous en confier un autre[0xE07F]?
+Tous tes Pokémon sont en pleine forme.[0x000A]Veux-tu en récupérer un[0xE07F]?
+Ton {0x0101,0x0000} a gagné {0x0201,0x0001} niveau{0x1101,0x0001,0x0100}x.
+Le montant de la pension de {0x0101,0x0000}[0x000A]s’élève à {0x0204,0x0001,0xE07F} $.
+Je suis désolée, mais tu n’as pas assez d’argent.
+L’Hôtesse de la Pension Pokémon a rendu[0x000A]{0x0101,0x0000} à {0x0100,0x0001}.
+Veux-tu récupérer l’autre Pokémon que tu nous as[0x000A]confié[0xE07F]?
+Oh[0xE08D] Mais si tu nous confies un Pokémon,[0x000A]il ne t’en restera plus qu’un en forme[0xE07F]!{0xBE01}[0x000A]Reviens nous voir quand tu en auras[0x000A]attrapé d’autres.
+Tu n’as pas de place, on dirait…[0x000A]Tu devrais laisser un de tes Pokémon dans une Boîte PC.{0xBE01}[0x000A]Reviens nous voir plus tard.

@@ -1,0 +1,5 @@
+msg_t001r0102_game_01=C’est une Nintendo Switch ![0x000A]Elle est branchée à la télé.
+msg_t001r0102_bg_01=... Combien de Pokémon peut-il bien y avoir[0x000A]dans le monde ?
+msg_t001r0102_bg_02=C’est un e-mail {0x1408,0x0001}{0x0100,0x0001} !{0xBE01}[0x000A]« Salut, {0x0100,0x0000} ![0x000A]Vu qu’on va bientôt avoir nos propres Pokémon,{0xBE00}[0x000A]voilà mes notes sur le code du Dresseur !{0xBE01}[0x000A]"Appuyer sur le bouton A pour parler aux gens.[0x000A]Incliner le stick à fond pour courir.{0xBE01}[0x000A]Appuyer sur le bouton X et sélectionner[0x000A]SAUVEGARDER pour enregistrer la partie."{0xBE01}[0x000A]... J’espère que ça te sera utile ![0x000A]— {0x0100,0x0001} »
+msg_t001r0102_bg_03=C’est une peluche en forme de Pikachu.[0x000A]Elle est toute douce !
+msg_t001r0102_bg_04=C’est une peluche en forme d’Évoli.[0x000A]Elle est toute douce !

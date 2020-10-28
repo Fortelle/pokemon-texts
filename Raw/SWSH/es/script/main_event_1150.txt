@@ -1,0 +1,6 @@
+main_event_1150_leader_01=Aguarda.{0x0114,0x0013}
+main_event_1150_leader_02=Tengo que ir a Ciudad Artejo por unos recados.[0x000A]¿Quieres venir conmigo?{0xBE01}[0x000A]Al fin y al cabo, si tienes pensado dirigirte al[0x000A]siguiente gimnasio, debes volver allí primero.{0x0114,0x0013}
+main_event_1150_select_01=Será un placer
+main_event_1150_select_02=No, gracias
+main_event_1150_leader_03=Pues vamos.{0x0114,0x0013}
+main_event_1150_leader_04=Me gusta esa personalidad que muestras, pero...[0x000A]¿no estás haciendo el desafío de los gimnasios?{0xBE01}[0x000A]Pues si quieres ir a Pueblo Auriga, primero debes[0x000A]regresar a Ciudad Artejo, ¿no te parece?{0x0114,0x0013}

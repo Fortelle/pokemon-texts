@@ -1,0 +1,11 @@
+main_event_0310_rival_01=W-Was zum...?!{0x0114,0x0005}
+main_event_0310_rival_02=Hey, {0x0100,0x0000}! Schau dir das mal an...[0x000A]Ist das nicht ein Wunschstern?!{0xBE01}[0x000A]Nein, es sind sogar zwei Wunschsterne!![0x000A]Hier, den kannst du haben!{0x0114,0x0005}
+main_event_0310_rival_03=Mit so einem Wunschstern kann man Pokémon[0x000A]dynamaximieren. Dadurch werden sie riesengroß!{0x0114,0x0005}
+main_event_0310_champion_01=Das ist ja ein Ding!{0xBE01}[0x000A]Es heißt, Wunschsterne landen nur vor Menschen,[0x000A]die einen ungewöhnlich starken Wunsch hegen.{0x0114,0x0004}
+main_event_0310_rival_04=Ich will der Allerbeste sein!{0xBE01}[0x000A]Ich will der ALLERBESTE sein!!{0xBE01}[0x000A]ICH WILL DER ALLERBESTE SEIN!!!{0xBE01}[0x000A]So, jetzt hab ich’s mir dreimal gewünscht.[0x000A]Jetzt geht mein Wunsch bestimmt in Erfüllung!{0x0114,0x0005}
+main_event_0310_doctor_01=Hop... Wunschsterne zählen zu den wertvollsten[0x000A]Schätzen, die man in Galar finden kann.{0xBE01}[0x000A]Aber so wirst du ihnen ihre geheimen Kräfte[0x000A]sicher nicht entlocken.{0xBE01}[0x000A]Würdet ihr beide mir die Wunschsterne[0x000A]für eine kurze Weile überlassen?{0x0114,0x000A}
+main_event_0310_rival_05=Ach, stimmt! Sie sind ja Spezialistin in Sachen[0x000A]Dynamax.{0xBE01}[0x000A]Ganz ehrlich, für {0x0100,0x0000} und mich[0x000A]wäre es einfach das Größte, wenn wir unsere{0xBE00}[0x000A]Pokémon dynamaximieren könnten!{0x0114,0x0005}
+main_event_0310_rival_06=Erst begegnen wir im Schlummerwald diesem[0x000A]merkwürdigen Pokémon und dann fallen uns{0xBE00}[0x000A]sogar zwei Wunschsterne direkt vor die Füße...{0xBE01}[0x000A]Das waren bestimmt Vorzeichen, dass uns etwas[0x000A]GANZ Großes bevorsteht!{0x0114,0x0005}
+main_event_0310_doctor_02=Eins nach dem anderen, junger Mann.{0xBE01}[0x000A]Spar dir deine Energie lieber für morgen,[0x000A]wenn deine große Reise beginnt.{0x0114,0x000A}
+main_event_0310_assistant_01=Was ist denn hier los? Ihr seht ja vergnügt aus.[0x000A]Da kommt man gerne nach Hause!{0x0114,0x000B}
+main_event_0310_assistant_02=Ihr esst doch noch mit uns zu Abend, oder?{0xBE01}[0x000A]Ich bin vor Kurzem auch auf den Curry-Trend[0x000A]aufgesprungen, falls ihr mal kosten wollt...{0x0114,0x000B}

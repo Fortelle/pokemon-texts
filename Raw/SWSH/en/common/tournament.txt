@@ -1,0 +1,6 @@
+msg_ui_tournament_01={0x0100,0x0000}
+msg_ui_tournament_10=Let us introduce the participants!{0xBE01}
+msg_ui_tournament_11=These are the results of the first round.{0xBE01}
+msg_ui_tournament_12=These are the results of the second round.{0xBE01}
+msg_ui_tournament_13=This is the result of the final round.{0xBE01}
+msg_ui_tournament_14=These are the results of the second round.{0xBE01}[0x000A]Whoa! Contender Raihan gloriously defeated[0x000A]Contender Piers!{0xBE01}

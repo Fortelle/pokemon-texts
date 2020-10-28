@@ -1,0 +1,37 @@
+Na, was haben wir denn hier?[0x000A]Kundschaft, und dann auch noch so energiegeladene!{0xBE01}[0x000A]Wer ich bin? Nenn mich einfach Radla.[0x000A]Ich bin der Besitzer dieses Radladens.
+Deine Schuhe sehen ja wirklich schmuddelig aus.{0xBE01}[0x000A]Kommst du von weit her?
+Ach, echt?{0xBE01}[0x000A]Na, dann könntest du wahrscheinlich auch nichts[0x000A]mit einem meiner Fahrräder anfangen...
+Hui... Du bist wirklich den weiten Weg[0x000A]von Wurzelheim bis hierher gekommen?{0xBE01}[0x000A]Meine Güte![0x000A]Das muss ja ein richtiger Gewaltmarsch gewesen sein!{0xBE01}[0x000A]Mit einem meiner Räder wärst du ein ganzes Stück[0x000A]flexibler und könntest unterwegs auch noch eine sanfte{0xBE00}[0x000A]Brise auf der Haut genießen.{0xBE01}[0x000A]Weißt du was? Ich schenk dir eins meiner Räder!{0xBE01}[0x000A]Aber nicht so schnell!{0xBE01}[0x000A]Es gibt nämlich zwei verschiedene Modelle[0x000A]von Fahrrädern, das Eilrad und das Kunstrad.{0xBE01}[0x000A]Eilräder sind für Leute, die den Wind[0x000A]in den Haaren spüren wollen.{0xBE01}[0x000A]Kunsträder dagegen sind für diejenigen,[0x000A]die alle Techniken des Radfahrens beherrschen wollen.{0xBE01}[0x000A]Und weil ich so großzügig bin, darfst du dir sogar[0x000A]aussuchen, welches Modell du gerne haben möchtest.{0xBE01}[0x000A]Also, für welches Fahrrad entscheidest du dich?
+Eilrad
+Kunstrad
+{0xBDFF:0x0006}
+{0x0100,0x0000} wählt das Eilrad.
+{0x0100,0x0000} wählt das Kunstrad.
+Wenn du im Nachhinein doch lieber ein anderes[0x000A]Modell hättest, dann sprich mich einfach an!
+Oh, hättest du doch lieber ein anderes Modell?
+Kein Problem![0x000A]Ich tausche die Räder für dich aus.
+{0x0100,0x0000} tauscht {0x1100,0x00FF,0x0304,0x0000}seinihr Eilrad[0x000A]gegen ein Kunstrad aus.
+{0x0100,0x0000} tauscht {0x1100,0x00FF,0x0304,0x0000}seinihr Kunstrad[0x000A]gegen ein Eilrad aus.
+Oh, dann bist du also mit deinem Fahrrad zufrieden?[0x000A]Das hört man gern!
+{0xBDFF:0x000F}
+Sei gegrüßt, ich hab schon auf dich gewartet!{0xBE01}[0x000A]Ich muss mich bei dir bedanken.{0xBE01}[0x000A]Deine Touren landauf, landab auf einem meiner Fahrräder[0x000A]waren die beste Werbung für meinen Laden!{0xBE01}[0x000A]Die Kunden geben sich mittlerweile die Klinke in die Hand.[0x000A]Bei so viel Nachfrage weiß ich manchmal gar nicht mehr,{0xBE00}[0x000A]wo mir der Kopf steht!{0xBE01}[0x000A]Als kleines Dankeschön möchte ich dir[0x000A]zusätzlich noch das andere Modell geben!
+Möge dir im Laufe deines Abenteuers allzeit[0x000A]ein kräftiger Rückenwind den nötigen Antrieb verleihen!
+Ich lese bei der Arbeit immer schlaue Bücher über Räder.[0x000A]Ein paar davon findest du im Hinterzimmer.{0xBE01}[0x000A]Wenn du irgendwas über das Thema Radfahren wissen[0x000A]willst, kannst du gerne mal darin blättern!
+Ein Handbuch für Eilräder.{0xBE01}[0x000A]Welches Kapitel möchtest du lesen?
+Mithilfe des Steuerkreuzes oder des Schiebepads[0x000A]lässt sich das Rad in Bewegung setzen und lenken.{0xBE01}[0x000A]Lass das Steuerkreuz oder das Schiebepad los,[0x000A]um das Rad anzuhalten.{0xBE01}[0x000A]Ein anderes Kapitel lesen?
+Ein Eilrad ist sehr schnell und kann[0x000A]nicht sofort angehalten werden.{0xBE01}[0x000A]Lass das Steuerkreuz oder das Schiebepad los,[0x000A]kurz bevor du an die Stelle gelangst, an der du anhalten{0xBE00}[0x000A]möchtest, und das Rad kommt dort zum Stillstand.{0xBE01}[0x000A]Ein anderes Kapitel lesen?
+In der ganzen Hoenn-Region gibt es sandige Gefälle.{0xBE01}[0x000A]Der lose Sand macht es unmöglich,[0x000A]diese Gefälle normal zu erklimmen.{0xBE01}[0x000A]Aber mit einem Eilrad können auch[0x000A]diese Gefälle gemeistert werden.{0xBE01}[0x000A]Ein anderes Kapitel lesen?
+Steuerung
+Anhaltetechnik
+Sandgefälle
+Abbrechen
+Ein Handbuch für Kunsträder.{0xBE01}[0x000A]Welches Kapitel möchtest du lesen?
+Drücke während des Fahrens den B-Knopf,[0x000A]um das Vorderrad anzuheben.{0xBE01}[0x000A]Mithilfe des Steuerkreuzes oder des Schiebepads kannst[0x000A]du so mit angehobenem Vorderrad herumfahren.{0xBE01}[0x000A]Diese Technik nennt sich {0xFF00,0x0002}Wheelie{0xFF00,0x0000}.{0xBE01}[0x000A]Ein anderes Kapitel lesen?
+Hältst du den B-Knopf gedrückt, kannst du[0x000A]während eines Wheelies auf der Stelle hüpfen.{0xBE01}[0x000A]Diese Technik nennt sich {0xFF00,0x0002}Hoppeln{0xFF00,0x0000}.{0xBE01}[0x000A]Setzt du sie während des Fahrens ein, kannst du so[0x000A]zum Beispiel Trittsteine an Anhöhen überwinden.{0xBE01}[0x000A]Ein anderes Kapitel lesen?
+Drücke auf dem Kunstrad gleichzeitig den B-Knopf und[0x000A]das Steuerkreuz oder das Schiebepad, um zu springen.{0xBE01}[0x000A]Drücke das Steuerkreuz oder schiebe das Schiebepad[0x000A]nach links beziehungsweise rechts, um einen seitlichen{0xBE00}[0x000A]Sprung auszuführen.{0xBE01}[0x000A]Drücke beziehungsweise schiebe es nach hinten,[0x000A]um im Sprung die Richtung zu ändern.{0xBE01}[0x000A]Nutze diese Technik, um dich an Orten, die von schmalen[0x000A]Spuren durchzogen sind, springend fortzubewegen.{0xBE01}[0x000A]Ein anderes Kapitel lesen?
+Wheelies
+Hoppeln
+Sprünge
+Abbrechen
+Auf dem Schild steht:[0x000A]„Reiserad – Direktimport aus Kalos (Ausstellungsstück)!“
+Schraubenzieher und Sechskantschlüssel[0x000A]liegen hier wahllos herum.

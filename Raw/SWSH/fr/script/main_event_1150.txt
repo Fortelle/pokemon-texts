@@ -1,0 +1,6 @@
+main_event_1150_leader_01=Hep là.{0x0114,0x0013}
+main_event_1150_leader_02=J’ai une course à faire à Kickenham. C’est sur[0x000A]le chemin de ta prochaine Arène, si je ne m’abuse.{0xBE01}[0x000A]Tu veux m’accompagner ?{0x0114,0x0013}
+main_event_1150_select_01=Avec joie !
+main_event_1150_select_02=Pas spécialement, en fait.
+main_event_1150_leader_03=En route, mauvaise troupe.{0x0114,0x0013}
+main_event_1150_leader_04=Tu es franc{0x1100,0x00FF,0x0200}he du collier,[0x000A]on ne peut pas te retirer ça.{0xBE01}[0x000A]Mais utilise un peu tes neurones.[0x000A]Tu es en plein Défi des Arènes, c’est bien ça ?{0xBE01}[0x000A]Le chemin pour aller à Ludester passe par[0x000A]Kickenham. Donc en route, mauvaise troupe.{0x0114,0x0013}

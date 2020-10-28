@@ -1,0 +1,17 @@
+main_event_1140_leader_01=Más vale presentarse tarde que nunca. Soy Sally,[0x000A]la Líder de Gimnasio. Encantada. Literalmente.{0x0114,0x0013}
+main_event_1140_leader_p01=Desde mi privilegiada posición he podido ver[0x000A]cómo has reaccionado a las preguntas.{0x0114,0x0013}
+main_event_1140_leader_p02=Desde mi privilegiada posición he podido ver[0x000A]cómo has reaccionado a las preguntas.{0x0114,0x0013}
+main_event_1140_leader_p03=Desde mi privilegiada posición he podido ver[0x000A]cómo has reaccionado a las preguntas.{0x0114,0x0013}
+main_event_1140_leader_p04=Desde mi privilegiada posición he podido ver[0x000A]cómo has reaccionado a las preguntas.{0x0114,0x0013}
+main_event_1140_leader_p05=Desde mi privilegiada posición he podido ver[0x000A]cómo has reaccionado a las preguntas.{0x0114,0x0013}
+main_event_1140_leader_02=Pues bien, el último examen al que deberás[0x000A]enfrentarte será... una servidora.{0xBE01}[0x000A]Permíteme comprobar en primera persona si eres[0x000A]capaz de bordar tu papel de Entrenador{0x1100,0x00FF,0x0100}a, con{0xBE00}[0x000A]tu{0x1101,0x00FD,0x0100}s Pokémon como actor{0x1101,0x00FD,0x0200}es de reparto.{0x0114,0x0013}
+main_event_1140_leader_03=No ha estado mal.{0x0114,0x0013}
+main_event_1140_leader_04=No ha estado pero que nada mal.{0xBE01}[0x000A]De todas formas, lamento comunicarte que no[0x000A]has superado la audición.{0xBE01}[0x000A]Pero que no te quite el sueño, es una mera[0x000A]cuestión de preferencia personal.{0x0114,0x0013}
+main_event_1140_leader_05=He tenido una corazonada: debo buscar al Líder[0x000A]de Gimnasio futuro en otra parte.{0x0114,0x0013}
+main_event_1140_leader_06=Es una pena que no hayas obtenido el papel,[0x000A]pero ten la Medalla Hada como consolación.{0x0114,0x0013}
+main_event_1140_badge_01=¡Ahora podrás atrapar Pokémon de hasta Nv. 45!
+main_event_1140_leader_08=¡Ah, y una MT de regalo! Espero que así lo veas[0x000A]todo de color de rosa.{0x0114,0x0013}
+main_event_1140_leader_09=Esto es un recuerdo por tu participación: ¡un[0x000A]uniforme rosa! Seguro que te sienta estupendo.{0x0114,0x0013}
+main_event_1140_leader_07=Menospreciar a la gente mayor no es de recibo,[0x000A]eso es de cajón.{0xBE01}[0x000A]Pero no es menos cierto que mi generación debe[0x000A]ceder el testigo y no aferrarse a la silla.{0xBE00}[0x000A]Me sacan de mis casillas los que se encasillan.{0x0114,0x0013}
+main_event_1140_danpei_01=¡Había un total de seis preguntas![0x000A]¿Quieres saber cuántas respuestas has acertado?{0xBE01}[0x000A]Pues {0x0200,0x0001}, en concreto.
+main_event_1140_system_01=¿Quieres volver a recepción?

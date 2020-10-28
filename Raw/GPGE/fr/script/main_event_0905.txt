@@ -1,0 +1,15 @@
+msg_main0905_sys_01={0xBDFF:0x0000}
+msg_main0905_red_01={0xBDFF:0x0001}
+msg_main0905_dummy_01={0xBDFF:0x0002}
+msg_main0905_red_02={0xBDFF:0x0003}
+msg_main0905_green_01={0xFF00,0x0009}Blue :{0xFF00,0x0000} {0x0100,0x0000} ![0x000A]On commence par toi ?
+msg_main0905_green_02=Ça me va !
+msg_main0905_dummy_02={0xBDFF:0x0006}
+msg_main0905_green_03=Comme tu veux.
+msg_main0905_green_04={0xFF00,0x0009}Blue : {0xFF00,0x0000}Joliii...{0xBE01}[0x000A]T’as largement le niveau pour affronter[0x000A]la Team Rocket. Je te laisse nettoyer la Sylphe !
+msg_main0905_red_03={0xBDFF:0x0009}
+msg_main0905_sys_02={0xBDFF:0x000A}
+msg_main0905_green_05={0x0100,0x0001} ! En piste !
+msg_main0905_rival_01={0xBDFF:0x000C}
+msg_main0905_rival_02={0xFF00,0x0009}{0x0100,0x0001} :{0xFF00,0x0000} Aaah ! Rien que de[0x000A]vous regarder combattre, ça m’a méga stressé !{0xBE01}[0x000A]L’équipe de Blue, elle te calme direct ! T’as vu[0x000A]comme ses Pokémon ont le regard acéré ?! Brrr...{0xBE01}[0x000A]Bon, allez. Je me motive... M’attends pas,[0x000A]pars devant ! Je te rattrape dès que j’ai fini.
+msg_main0905_stafff_01={0xFF00,0x0009}Réceptionniste :{0xFF00,0x0000} M. Blue est un Dresseur[0x000A]d’exception ! Tout le monde le connaît.{0xBE01}[0x000A]Il n’avait pas l’air de prendre de gants, avec toi.[0x000A]Tu as vraiment un bon niveau, en fait !{0xBE01}[0x000A]Je compte sur toi pour sauver la Sylphe !

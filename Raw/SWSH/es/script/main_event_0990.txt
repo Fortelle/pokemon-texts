@@ -1,0 +1,12 @@
+main_event_0990_leader_01=Bienvenid{0x1100,0x00FF,0x0101}oa, Aspirante.[0x000A]Mi nombre es Judith.{0x0114,0x0011}
+main_event_0990_leader_02=¿Posees un espíritu firme capaz de aguantar todo[0x000A]tipo de acometida?{0xBE01}[0x000A]Ahórrate la respuesta, ¡voy a tomarme la libertad[0x000A]de comprobarlo por mí misma!{0x0114,0x0011}
+main_event_0990_leader_03=Gracias por combatir conmigo.{0x0114,0x0011}
+main_event_0990_leader_04=Ha sido un combate esclarecedor.{0x0114,0x0011}
+main_event_0990_leader_05=¡Esclarecedor y estremecedor! He sentido cómo[0x000A]el corazón me latía a mil por hora, como si{0xBE00}[0x000A]estuviese bailando al son de cada movimiento.{0xBE01}[0x000A]En el fragor del combate es tan importante[0x000A]mostrar un espíritu firme como disfrutar de cada{0xBE00}[0x000A]instante.{0x0114,0x0011}
+main_event_0990_leader_06=Te hago entrega de la Medalla Lucha como[0x000A]muestra de mi más profunda gratitud.{0x0114,0x0011}
+main_event_0990_badge_01=¡Ahora podrás atrapar Pokémon de hasta Nv. 40!
+main_event_0990_leader_07=Aún te queda mucho camino por recorrer,[0x000A]Aspirante. Te aguardan multitud de encuentros{0xBE00}[0x000A]que espero que logren alimentar ese espíritu{0xBE00}[0x000A]inalterable que has demostrado tener.{0x0114,0x0011}
+main_event_0990_npc_01=¡Mi más sincera enhorabuena por tu victoria[0x000A]frente a Judith!{0xBE01}[0x000A]¡Para conmemorarla, toma esta MT!
+main_event_0990_npc_03=Ah, y antes de que me olvide. Te hago entrega[0x000A]también del uniforme de tipo Lucha.
+main_event_0990_npc_02=¡Qué bien te queda la Medalla Lucha![0x000A]¡Sigue así, {0x0100,0x0000}!
+main_event_0990_system_01=¿Quieres volver a recepción?

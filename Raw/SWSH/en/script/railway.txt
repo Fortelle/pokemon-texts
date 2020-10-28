@@ -1,0 +1,11 @@
+msg_railway_01=Which station do you want to go to?
+msg_railway_select_01=Wedgehurst Station
+msg_railway_select_02=Wedgehurst Station
+msg_railway_select_03=Wild Area Station
+msg_railway_select_04=Motostoke Station
+msg_railway_select_05=Hulbury Station
+msg_railway_select_06=Hammerlocke Station
+msg_railway_select_07=White Hill Station
+msg_railway_select_08=Wyndon Station
+msg_railway_select_09=Quit
+msg_railway_stop_01=The train has been delayed due to a[0x000A]railcar inspection.

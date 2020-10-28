@@ -1,0 +1,12 @@
+main_event_1870_rival_01=See that, {0x0100,0x0000}!{0x0114,0x0005}
+main_event_1870_rival_02=The sword and the shield![0x000A]The legends really were true!{0x0114,0x0005}
+main_event_1870_rival_03=That settles it![0x000A]I’m taking the shield!{0x0114,0x0005}
+main_event_1870_rival_04=That settles it![0x000A]I’m taking the sword!{0x0114,0x0005}
+main_event_1870_rival_05=Though...wow, would you look at the state[0x000A]of this thing?{0xBE01}[0x000A]It seems like it might fall to pieces if you so much[0x000A]as look at it funny.{0xBE01}[0x000A]I don’t know if these rusty old things will really[0x000A]be able to stop the Darkest Day, but...{0xBE01}[0x000A]Well, I guess it can’t hurt to have them along![0x000A]Let’s hope they bring us some good luck!{0x0114,0x0005}
+main_event_1870_rival_06=Though...wow, would you look at the state[0x000A]of this thing?{0xBE01}[0x000A]It seems like it might fall to pieces if you so much[0x000A]as look at it funny.{0xBE01}[0x000A]I don’t know if these rusty old things will really[0x000A]be able to stop the Darkest Day, but...{0xBE01}[0x000A]Well, I guess it can’t hurt to have them along![0x000A]Let’s hope they bring us some good luck!{0x0114,0x0005}
+main_event_1870_rival_07=Maybe the Pokémon themselves really are still[0x000A]asleep somewhere.{0xBE01}[0x000A]So it seems we’re on our own if we want to go[0x000A]help Lee. This is all the help we’ve got!{0x0114,0x0005}
+main_event_1870_rival_08=If anybody’s gonna help Lee now, I guess it’s just[0x000A]you and me, mate!{0xBE01}[0x000A]He’s probably still at Hammerlocke Stadium,[0x000A]trying to keep the Darkest Day at bay.{0xBE01}[0x000A]So what d’you say, {0x0100,0x0000}?[0x000A]Wanna grab a Flying Taxi to head right there?{0x0114,0x0005}
+main_event_1870_select_01=Let’s go!
+main_event_1870_select_02=Not yet
+main_event_1870_rival_09=Then let’s get out of this gloomy forest and fly[0x000A]back to Hammerlocke!{0x0114,0x0005}
+main_event_1870_rival_10=Can’t say I blame you... Even I’m a bit gutted[0x000A]to have come all this way chasing legends{0xBE00}[0x000A]only to find a rusty old sword and shield...{0x0114,0x0005}

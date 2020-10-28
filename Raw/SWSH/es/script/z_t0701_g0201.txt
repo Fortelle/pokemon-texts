@@ -1,0 +1,13 @@
+msg_t0701_g0201_npc1_01=¡Un combate en el pueblo donde cae la nieve![0x000A]¡Es como si el tiempo me estuviera espoleando!
+msg_t0701_g0201_npc1_02=Un combate en el pueblo donde cae la nieve...[0x000A]No me extraña que me quede helada al perder.
+msg_t0701_g0201_npc2_01=Para hacer frente a los tipos ante los que tus[0x000A]Pokémon son débiles, no basta con echarle valor{0xBE00}[0x000A]al asunto.{0xBE01}[0x000A]Contar con un planteamiento y una estrategia[0x000A]adecuados es lo que da valor de verdad.
+msg_t0701_g0201_npc2_02=Sin una estrategia adecuada en la que apoyarse,[0x000A]la valentía sirve de bien poco.
+msg_t0701_g0201_npc3_01=Cuando estás tan cerca de la meta, ¡no puedes[0x000A]bajar la guardia en ningún momento!
+msg_t0701_g0201_npc3_02=Ya sabía yo que no había por qué preocuparse.[0x000A]¿Cómo va a bajar la guardia alguien como tú?
+msg_t0701_g0201_poke1_01_pop=¡Dot, dot!
+msg_t0701_g0201_npc4_01_pop=Es{0x1100,0x00FF,0x0101}ea chic{0x1100,0x00FF,0x0101}oa es {0x1100,0x00FF,0x0202}ella que salió[0x000A]en las noticias...
+msg_t0701_g0201_npc4_02_pop=Seguro que volveré a ver[0x000A]su combate en las noticias.
+msg_t0701_g0201_npc4_03_pop=¡Un autógrafo, por favor![0x000A]¿Me das tu tarjeta también?
+msg_t0701_g0201_npc5_01_pop=Es{0x1100,0x00FF,0x0101}ea Entrenador{0x1100,0x00FF,0x0100}a está[0x000A]arrasando últimamente...
+msg_t0701_g0201_npc5_02_pop=Adiós, Naboru. ¡Ahora soy[0x000A]fan de es{0x1100,0x00FF,0x0101}ea Entrenador{0x1100,0x00FF,0x0100}a!
+msg_t0701_g0201_npc5_03_pop=¡Mira! ¡A es{0x1100,0x00FF,0x0101}ea Entrenador{0x1100,0x00FF,0x0100}a l{0x1100,0x00FF,0x0101}oa[0x000A]llevo animando toda la vida!

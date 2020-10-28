@@ -1,0 +1,14 @@
+sub_event_002_sister_01={0x1003}{0x0100,0x0000}, you look a little more[0x000A]Champion-like, huh? Only a little, though.{0x0114,0x000D}
+sub_event_002_sister_02=What’re you gawkin’ at? It’s exactly what you[0x000A]think. I look wicked as a Gym Leader, right?{0x0114,0x000D}
+sub_event_002_sister_03=I wanna show everyone that even if you can’t[0x000A]Dynamax, you can still use other tactics{0xBE00}[0x000A]and have a lot of fun!{0x0114,0x000D}
+sub_event_002_sister_04=C’mon, Champ! How ’bout an exhibition match?{0x0114,0x000D}
+sub_event_002_select_01=Of course!
+sub_event_002_select_02=Now’s not a good time
+sub_event_002_sister_05=Don’t get the wrong idea! This ain’t you usin’ me[0x000A]for trainin’. I’m usin’ you for trainin’—got it?{0x0114,0x000D}
+sub_event_002_sister_06=Sure, that’s it. Spikemuth’s my home turf, after[0x000A]all. It’s only natural you’d feel nervous.{0x0114,0x000D}
+sub_event_002_sister_07=As expected. You’re a proper Champion,[0x000A]ain’tcha, {0x0100,0x0000}?{0x0114,0x000D}
+sub_event_002_sister_08=OK! I’m gonna give you somethin’ important.[0x000A]So keep it safe or I’ll get mad, got it?{0x0114,0x000D}
+sub_event_002_sister_09=Come back any time you’re free. I don’t mind[0x000A]trainin’ against you.{0x0114,0x000D}
+sub_event_002_sister_10=Just couldn’t stay away, eh, {0x0100,0x0000}?[0x000A]Guess it can’t be helped. Shall I beat you hollow?{0x0114,0x000D}
+sub_event_002_sister_11=If I’m not good enough to beat you yet, that[0x000A]means I definitely can’t go sayin’ I’ve surpassed{0xBE00}[0x000A]my bro!{0x0114,0x000D}
+sub_event_002_sister_12=Battling the Champion sure is excitin’![0x000A]Be sure to come back again, OK?{0xBE00}[0x000A]Morpeko and I will be waitin’.{0x0114,0x000D}

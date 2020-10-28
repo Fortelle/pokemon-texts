@@ -1,0 +1,13 @@
+sub_event_006_childF_01=Dis, tu veux savoir si tu connais bien[0x000A]les affinités de types ?
+sub_event_006_childF_02=Dans ce cas, réponds à mes questions !
+sub_event_006_childF_03=Les attaques de type {0x0103,0x0001} sont[0x000A]super efficaces contre quel type de Pokémon ?
+sub_event_006_childF_04=Le type {0x0103,0x0002} !
+sub_event_006_childF_05=Ouais c’est ça ! Bonne réponse !
+sub_event_006_childF_06=Bouuuh ! Mauvaise réponse !
+sub_event_006_childF_07=Question suivante !
+sub_event_006_childF_08=Reviens me voir si tu veux encore tester[0x000A]tes connaissances !
+sub_event_006_childF_09=Tu as donné {0x0200,0x0004} bonne{0x1101,0x0004,0x0100}s réponse{0x1101,0x0004,0x0100}s sur {0x0200,0x0003} !
+sub_event_006_childF_10=Tu connais super bien les affinités de types !
+sub_event_006_childF_11=Tu connais plutôt bien les affinités de types,[0x000A]mais tu pourrais mieux faire !
+sub_event_006_childF_12=Tu devrais potasser un peu plus les affinités[0x000A]de types...
+sub_event_006_childF_13=Tiens, voilà une récompense pour avoir répondu[0x000A]juste à chaque fois !

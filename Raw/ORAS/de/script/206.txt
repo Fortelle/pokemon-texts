@@ -1,0 +1,5 @@
+Die Tür ist verschlossen!{0xBE01}[0x000A]Aber was ist das? Da steht eine Nachricht:[0x000A]„Schreib hier die geheime Losung hin.“
+{0x0100,0x0000} schreibt die geheime Losung auf die Tür:[0x000A]„Der Rätselmeister ist einfach spitze!“{0xBE01}[0x000A]...{0xBE01}[0x000A]Das Schloss hat sich geöffnet!
+{0x0100,0x0000} hat eine Schriftrolle gefunden!
+{0x0100,0x0000} prägt sich die geheime Losung ein,[0x000A]die auf der Schriftrolle steht.
+Da steht eine geheime Losung drauf...

@@ -1,0 +1,41 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+Questa è casa mia.[0x000A]Lo so, è un po’ spoglia... ma a me piace così!{0xBE01}[0x000A]Ad ogni modo, veniamo a noi.
+Facciamo il punto della situazione e cerchiamo[0x000A]di capire cosa sta succedendo al nostro pianeta...
+Il boato di prima... E poi quel rombo assordante...{0xBE01}[0x000A]Temo che il sigillo che si trova negli abissi marini[0x000A]sia stato spezzato...
+Nelle oscure profondità del Percorso 128 c’è una grotta[0x000A]sottomarina in cui dorme un Pokémon millenario...{0xBE00}[0x000A]l’Antro Abissale!{0xBE01}[0x000A]La grotta era stata sigillata ricorrendo alla forza di un[0x000A]Pokémon per impedire a chiunque di accedervi.{0xBE01}[0x000A]Ma a quanto pare quei mascalzoni sono riusciti[0x000A]a spezzare il sigillo!{0xBE01}[0x000A]Senza dubbio vogliono usare il Pokémon millenario[0x000A]per i loro scopi.
+Ascolta, {0x0100,0x0000}...
+Ascolta, {0x0100,0x0000}...
+Se quei furfanti riusciranno a impadronirsi del potere[0x000A]del Pokémon millenario, l’equilibrio del mondo sarà{0xBE00}[0x000A]sconvolto e tutte le creature viventi saranno in pericolo.{0xBE01}[0x000A]Io ce la metterò tutta per far fronte a questa situazione:[0x000A]è una mia responsabilità...{0xBE01}[0x000A]Ma da solo non posso farcela, quindi, se posso contare[0x000A]su di te, vorrei chiederti un favore...{0xBE01}[0x000A]Ti prego, aiutami a fermare il Team Magma e il Team Idro!{0xBE01}[0x000A]Insieme ai nostri Pokémon ci riusciremo sicuramente![0x000A]Sì, non ho dubbi!
+Ecco, questa è per te.
+È la MN Sub! Grazie a questa mossa fenomenale[0x000A]potrai immergerti sott’acqua insieme a un Pokémon.
+E poi prendi anche questa. Ti permetterà di rimanere[0x000A]sott’acqua insieme al Pokémon.
+Usa Sub per immergerti {0xFF00,0x0002}in alcuni punti del Percorso 128{0xFF00,0x0000}[0x000A]e cerca l’ingresso dell’{0xFF00,0x0002}Antro Abissale{0xFF00,0x0000}.
+Io ti raggiungerò appena avrò portato a termine[0x000A]alcune incombenze.
+Nel frattempo, cerca di fermare il Team Magma[0x000A]e il Team Idro con tutte le tue forze!{0xBE01}[0x000A]Mi raccomando! È tutto nelle tue mani!
+{0x0100,0x0000} esamina la Poké Ball.{0xBE01}[0x000A]Contiene un Beldum.{0xBE01}[0x000A]Prendi la Poké Ball?
+{0x0100,0x0000} ottiene un Beldum.
+Non hai spazio per un altro Pokémon.
+{0x0100,0x0000} lascia la Poké Ball dov’è.
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+Accanto agli appunti c’è una lettera per te.
+...
+Caro {0x0100,0x0000},
+Cara {0x0100,0x0000},
+ho deciso di partire all’avventura e di allenarmi lungo[0x000A]il cammino. Credo che starò via per un po’.{0xBE01}[0x000A]Ho un favore da chiederti.{0xBE01}[0x000A]Prendi la Poké Ball che si trova sulla mia scrivania.[0x000A]Contiene un Beldum, il mio Pokémon prediletto.{0xBE01}[0x000A]Conto su di te. Spero che le nostre strade[0x000A]un giorno si incontrino di nuovo.{0xBE01}[0x000A]Rocco Petri
+{0xBDFF:0x001C}
+Collezione di rocce e pietre rare raccolte da Rocco.
+...
+Guardando meglio, vedi un post scriptum in fondo[0x000A]alla lettera.
+P.S.: ti ho mandato anche un altro Beldum speciale.[0x000A]L’hai ricevuto?{0xBE01}[0x000A]Questi due Pokémon di tipo Acciaio sono[0x000A]incredibilmente forti.{0xBE01}[0x000A]Sono certo che saprai apprezzarli.
+La targhetta dice:{0xBE01}[0x000A]Categoria: tufo verde[0x000A]Origine: Monte Corona, regione di Sinnoh
+La targhetta dice:{0xBE01}[0x000A]Categoria: granito con orneblenda e biotite[0x000A]Origine: Tunnel Roccioso, regione di Kanto
+La targhetta dice:{0xBE01}[0x000A]Categoria: ossidiana, vetro vulcanico[0x000A]Origine: Monte Scodella, regione di Johto
+La targhetta dice:{0xBE01}[0x000A]Categoria: selce[0x000A]Origine: Monte Pira, regione di Hoenn
+La targhetta dice:{0xBE01}[0x000A]Categoria: peridotite[0x000A]Origine: Cava Pietrelettrica, regione di Unima
+Vuoi dare un soprannome a Beldum?
+{0xBDFF:0x0027}
+{0xBDFF:0x0028}

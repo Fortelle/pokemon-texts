@@ -1,0 +1,4 @@
+msg_machine_01_p01_r025_r0101={0xBDFF:0x0000}
+msg_r025r0101_bg_01=La couverture a l’air d’avoir beaucoup servi.
+msg_r025r0101_bg_02=Ce sont des pinces et des tournevis ![0x000A]Hum... Ils sont un peu rouillés.
+msg_machine_01_p02_r025_r0101={0xBDFF:0x0003}

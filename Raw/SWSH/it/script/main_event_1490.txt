@@ -1,0 +1,13 @@
+main_event_1490_rival_01=Qui c’è la reception!{0x0114,0x0005}
+main_event_1490_rival_02=Pensa! Sono stato il primo in assoluto a[0x000A]iscrivermi! Sono l’Allenatore numero uno!{0xBE01}[0x000A]Quindi, questo fa di me... il numero uno, no?![0x000A]Uoooaaah!{0x0114,0x0005}
+main_event_1490_staff_01=Se non sbaglio tu sei {0x0100,0x0000}![0x000A]Ho seguito tutte le tue sfide.{0xBE01}[0x000A]Sei qui per iscriverti, vero? Allora devo[0x000A]controllare le tue Medaglie, anche se nel tuo{0xBE00}[0x000A]caso è solo una formalità!
+main_event_1490_staff_02={0xBDFF:0x0003}
+main_event_1490_staff_03={0xBDFF:0x0004}
+main_event_1490_staff_04={0xBDFF:0x0005}
+main_event_1490_staff_05={0xBDFF:0x0006}
+main_event_1490_rival_03=Sei pront{0x1100,0x00FF,0x0101}oa? Stiamo per salire sul palco[0x000A]delle superstar! Ti rendi conto?{0x0114,0x0005}
+main_event_1490_rival_04={0xBDFF:0x0008}
+main_event_1490__rival_05=Beet invece alla fine non ce l’ha fatta.{0xBE01}[0x000A]Credevo che avrebbe trovato qualche[0x000A]escamotage e invece...{0x0114,0x0005}
+main_event_1490__rival_06=Bah, non importa...{0xBE01}[0x000A]Piuttosto, {0x0100,0x0000}![0x000A]Andiamo nello Spogliatoio!{0x0114,0x0005}
+main_event_1490_sister_01=Dopo le lotte della Sfida delle Palestre[0x000A]siamo rimasti in quattro, i migliori...{0xBE01}[0x000A]E ora dobbiamo contenderci la vittoria[0x000A]nel Torneo delle Semifinali.{0xBE01}[0x000A]Inutile dire che sarò io ad affrontare il Campione!{0x0114,0x000D}
+main_event_1490_poke1_01=Peeeeko!

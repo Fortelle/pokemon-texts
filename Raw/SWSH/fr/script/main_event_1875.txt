@@ -1,0 +1,10 @@
+main_event_1875_leader_01={0x0100,0x0000} ! Nabil ! Vous voilà !{0xBE01}[0x000A]C’est terrible pour le Match Ultime, hein ?[0x000A]Interrompu comme ça...{0x0114,0x0017}
+main_event_1875_leader_02=J’ai rien pigé aux histoires de sauver Galar[0x000A]avec l’énergie de la Nuit Noire, là !{0xBE01}[0x000A]Il est devenu fou, le président, ou quoi ?{0x0114,0x0017}
+main_event_1875_rival_01=On s’en fiche, des détails ! On verra plus tard ![0x000A]Faut que j’aille aider mon frangin !{0x0114,0x0005}
+main_event_1875_leader_07=... OK...[0x000A]Il tient vraiment pas en place, le Nabil...{0x0114,0x0017}
+main_event_1875_leader_03=En tout cas, heureusement qu’on a réussi[0x000A]à évacuer les habitants de la ville à temps !{0xBE01}[0x000A]Les Champions d’Arène et les Pokémon[0x000A]ont grave assuré pour gérer la crise !{0x0114,0x0017}
+main_event_1875_leader_04=Et toi, alors ? T’es là pour sauver la région aussi,[0x000A]comme Tarak ?{0x0114,0x0017}
+main_event_1875_select_01=Oui...
+main_event_1875_select_02=Absolument !
+main_event_1875_leader_05=L{0x1100,0x00FF,0x0101}ea meilleur{0x1100,0x00FF,0x0100}e Challenger à ce jour qui fait[0x000A]équipe avec le meilleur Maître de l’Histoire...{0xBE00}[0x000A]Et sans oublier son meilleur rival !{0xBE01}[0x000A]Laisse tomber, vous allez en faire[0x000A]qu’une bouchée, de la Nuit Noire !{0x0114,0x0017}
+main_event_1875_leader_06=Allez, entre dans le stade !{0x0114,0x0017}

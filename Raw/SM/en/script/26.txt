@@ -1,0 +1,40 @@
+You were out like a light, weren’t you?[0x000A]You ought to be full of energy by now!{0x0114,0x0004}
+So, {0x0100,0x0000}...[0x000A]are you pumped to meet some Alolan Pokémon?{0x0114,0x0004}
+Of course!
+I guess...
+Yeah, I am!
+I don’t know...
+That’s right![0x000A]I want to hurry up and meet some, too!{0x0114,0x0004}
+Oh, you! Someday you’re going to learn to have[0x000A]a little wonder in your life!{0x0114,0x0004}
+We’re living in the Alola region now![0x000A]The beautiful islands everyone wants to visit!{0xBE01}[0x000A]I’m sure the Pokémon living in a place like this[0x000A]must be friendly, right?{0x0114,0x0004}
+Was that the doorbell?{0xBE01}[0x000A]That’s got to be Professor Kukui.[0x000A]Why don’t you let him in, {0x0100,0x0000}?{0x0114,0x0004}
+Mrowr?
+Hey there, {0x0100,0x0000}!{0xBE01}[0x000A]The name’s Kukui. Good to meet you, cousin!
+You gotta be tired after that long trip all the[0x000A]way out here to Alola!{0x0114,0x0005}
+You feelin’ any jet lag?{0xBE01}[0x000A]We sure are a long way from Kanto out here[0x000A]in Alola.{0xBE00}[0x000A]It’s still daytime out here, yeah!{0x0114,0x0005}
+You feelin’ any jet lag?{0xBE01}[0x000A]We sure are a long way from Kanto out here[0x000A]in Alola.{0xBE00}[0x000A]It’s still nighttime out here, yeah!{0x0114,0x0005}
+Professor Kukui![0x000A]Yes, we just arrived yesterday.{0x0114,0x0004}
+Hey there, mom! I just let myself in.[0x000A]Oh, and call me Kukui, would you?{0xBE01}[0x000A]Welcome to Alola!{0x0114,0x0005}
+Of course. I still remember seeing you battle[0x000A]the Indigo Gym Leaders back in Kanto all those{0xBE00}[0x000A]years ago, you know!{0xBE01}[0x000A]I’ve been in love with Alolan Pokémon ever since,[0x000A]so I finally decided to come here myself!{0x0114,0x0004}
+Ha! I was supposed to be visiting there to[0x000A]research Kanto Pokémon moves and all.{0xBE01}[0x000A]I thought I knew a thing or two about battling,[0x000A]but those Kanto Gym Leaders proved me wrong!{0x0114,0x0005}
+Hey now, {0x0100,0x0000}!{0xBE01}[0x000A]Let’s get a move on to the next town over,[0x000A]cousin! Time for you to meet the {0xFF00,0x0001}Island Kahuna{0xFF00,0x0000}{0xBE00}[0x000A]and get yourself a Pokémon, yeah!{0x0114,0x0005}
+{0xBDFF:0x0014}
+A Pokémon?!
+Kahuna?
+Yeah, sure. The kahuna who lives in Iki Town is[0x000A]always happy to give any kid who wants to{0xBE00}[0x000A]have an adventure their first Pokémon, yeah.{0xBE01}[0x000A]But don’t try taking on the kahuna yourself![0x000A]The kahunas are crazy-strong Pokémon Trainers.{0xBE00}[0x000A]They’re unbeatable for folks like me and you!{0x0114,0x0005}
+Sure, sure. The kahunas are crazy-strong[0x000A]Pokémon Trainers here in Alola, cousin!{0xBE00}[0x000A]They’re unbeatable for folks like me and you!{0xBE01}[0x000A]And the kahuna who lives in Iki Town is[0x000A]always happy to give any kid who wants to{0xBE00}[0x000A]have an adventure their first Pokémon, yeah.{0x0114,0x0005}
+They’ll simply give my {0x1100,0x00FF,0x0403}boygirl a Pokémon?[0x000A]Then those kahunas really are worth meeting!{0x0114,0x0004}
+Hurry and get ready, {0x0100,0x0000}!{0xBE01}[0x000A]Your Bag and hat and things are still [0x000A]in the boxes in your room, I think.{0xBE01}[0x000A]And didn’t you leave your copy of[0x000A]Adventure Rules on your desk in there, too?{0x0114,0x0004}
+Ooh, I bet you’ve got a stylin’ hat [0x000A]that’ll match mine, yeah?{0x0114,0x0005}
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}
+{0xBDFF:0x001E}
+{0xBDFF:0x001F}
+{0xBDFF:0x0020}
+{0xBDFF:0x0021}
+{0xBDFF:0x0022}
+{0xBDFF:0x0023}
+{0xBDFF:0x0024}
+{0xBDFF:0x0025}
+{0xBDFF:0x0026}
+{0xBDFF:0x0027}

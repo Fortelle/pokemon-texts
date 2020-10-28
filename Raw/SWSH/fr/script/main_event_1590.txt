@@ -1,0 +1,16 @@
+main_event_1590_rival_01=C’est donc ça, la Shehroz Tower !{0xBE01}[0x000A]Elle a combien d’étages, cette tour ? J’arrive[0x000A]même pas à voir le sommet avec tous ces nuages !{0x0114,0x0005}
+main_event_1590_sister_01=Bon, c’est quoi, l’plan ?{0xBE01}[0x000A]Les copains d’la Team Yell sont en train[0x000A]d’mettre une rouste aux bourges de la Ligue,{0xBE00}[0x000A]donc on est pas près d’les revoir.{0x0114,0x000D}
+main_event_1590_rival_02=C’est pas faux...[0x000A]Du coup, qu’est-ce qu’on fait, {0x0100,0x0000} ?{0x0114,0x0005}
+main_event_1590_select_01=On part devant !
+main_event_1590_select_02=On peut attendre les autres ?
+main_event_1590_rival_03=Tu lis dans mes pensées ![0x000A]On récupère Tarak et on s’arrache !{0xBE01}[0x000A]Sans mon frangin, t’aurais pas de Maître[0x000A]à affronter, ce serait embêtant.{0x0114,0x0005}
+main_event_1590_rival_04=Hmmm, tu crois ? Je sais pas... La Team Yell fait[0x000A]diversion, là, ça serait bête de pas en profiter...{0x0114,0x0005}
+main_event_1590_sister_02={0x0100,0x0000} ! T’as déblayé le terrain[0x000A]menant à la Shehroz Tower !{0xBE00}[0x000A]Moi j’dis, tu devrais continuer sur ta lancée !{0x0114,0x000D}
+main_event_1590_sister_04=Liv est une employée comme une autre,[0x000A]après tout... Elle a planqué la clé du monorail{0xBE00}[0x000A]pour faire plaisir à son patron...{0x0114,0x000D}
+main_event_1590_sister_05=En parlant d’Shehroz, j’me demande bien[0x000A]ce qu’il fabrique avec le Maître...{0x0114,0x000D}
+main_event_1590_leader_01={0xBDFF:0x000A}
+main_event_1590_leader_02=Vous savez quoi ? Toute cette adrénaline, ça me[0x000A]rappelle le Smashings de quand j’étais gamin.{0xBE01}[0x000A]Il y avait des concerts live complètement[0x000A]déjantés, on savait plus où donner de la tête.{0x0114,0x0016}
+main_event_1590_leader_04=... Enfin bref.[0x000A]Qu’est-ce que vous faites encore ici ?{0x0114,0x0016}
+main_event_1590_leader_03=C’est à vous de monter sur scène ![0x000A]Allez-y, on vous soutient !{0x0114,0x0016}
+main_event_1590_rival_05=Allons-y, {0x0100,0x0000} !{0x0114,0x0005}
+main_event_1590_sister_03=J’vais rester ici pour garder un œil sur mon frère.[0x000A]Revenez si y’a un souci !{0x0114,0x000D}

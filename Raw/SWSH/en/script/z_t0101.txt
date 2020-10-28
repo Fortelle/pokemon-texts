@@ -1,0 +1,11 @@
+msg_t0101_npc1_01={0xBDFF:0x0000}
+msg_t0101_npc2_01={0xBDFF:0x0001}
+msg_t0101_npc3_01={0xBDFF:0x0002}
+msg_t0101_poke1_01_pop=Budewdew!
+msg_t0101_poke2_01_pop=Beh eh eh!
+msg_t0101_poke3_01_pop=Numooo!
+msg_t0101_poke4_01_pop=Kyukyu!
+msg_t0101_middleman_01=The power of science is amazing!{0xBE01}[0x000A]Now you can battle and trade Pokémon with[0x000A]other people just by walking around!{0xBE01}[0x000A]Isn’t that super amazing?
+msg_t0101_nameplate_01=Hop’s House
+msg_t0101_poke5_01_pop=Deeeeeew!
+msg_t0101_bg1_01=It’s a well-used barbecue![0x000A]The grill is perfectly seasoned.

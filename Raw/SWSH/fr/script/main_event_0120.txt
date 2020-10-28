@@ -1,0 +1,10 @@
+main_event_0120_rival_01=Frangin, je veux vraiment, vraiment me dépasser !{0xBE01}[0x000A]Y’a pas moyen que tu me laisses aller combattre[0x000A]dans les {0xFF00,0x0006}Arènes{0xFF00,0x0000} ?{0x0114,0x0005}
+main_event_0120_champion_01=Ça, c’est bien mon petit frère ![0x000A]Tu ne perds vraiment pas le nord !{0xBE01}[0x000A]Ça te tente, le {0xFF00,0x0006}Défi des Arènes{0xFF00,0x0000} ?{0xBE01}[0x000A]C’est tout de même le plus grand évènement[0x000A]sportif de tout Galar ! C’est un peu tôt, non ?{0x0114,0x0004}
+main_event_0120_champion_02=Avant de vous lancer, je pense que vous devriez[0x000A]en apprendre un peu plus sur les Pokémon...{0x0114,0x0004}
+main_event_0120_champion_05=Et pour ça, il vous faut un Pokédex !{0x0114,0x0004}
+main_event_0120_champion_03=C’est l’outil indispensable du Dresseur,[0x000A]car il permet de répertorier toutes les infos{0xBE00}[0x000A]sur les Pokémon rencontrés.{0xBE01}[0x000A]Qui dit Dresseur passionné, dit Pokédex[0x000A]bien rempli ! Ne l’oubliez pas !{0x0114,0x0004}
+main_event_0120_rival_02=T’as entendu ça, {0x0100,0x0000} ?{0xBE01}[0x000A]Il nous faut un Pokédex ! Allons au Laboratoire[0x000A]Pokémon pour en récupérer un !{0x0114,0x0005}
+main_event_0120_champion_04=Bonne idée ![0x000A]Je vais prévenir la Professeure de votre arrivée.{0x0114,0x0004}
+main_event_0120_rival_03=Compléter le Pokédex, ce sera un jeu d’enfant[0x000A]pour un futur Maître comme moi !{0xBE01}[0x000A]J’écris mon histoire, page après page !{0x0114,0x0005}
+main_event_0120_rival_04=Oublie pas d’aller dire à ta mère que tu pars,[0x000A]sinon elle va se faire du souci !{0x0114,0x0005}
+main_event_0120_rivalmama_01=Quel adorable petit partenaire tu as là ![0x000A]Vous formez un joli duo !

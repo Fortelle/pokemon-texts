@@ -1,0 +1,30 @@
+This is the Pokémon Lottery Corner.{0xBE01}[0x000A]All shoppers visiting our department store[0x000A]get to draw a Pokémon Loto Ticket.{0xBE01}[0x000A]If the Loto Ticket’s number matches[0x000A]the ID number of any of your Pokémon,{0xBE00}[0x000A]you will receive a fabulous gift.{0xBE01}[0x000A]Would you like to try it?
+Please pick a Loto Ticket.[0x000A]...
+...{0xBE02:0x000A} ...{0xBE02:0x000A} ...
+The Loto Ticket number is {0x0204,0x0000,0x0000}.{0xBE01}[0x000A]I need to check this number to see if it matches any[0x000A]of your Pokémon’s ID numbers. Please wait a moment.
+Spectacular!{0xBE01}[0x000A]The ID number of your team’s {0x0102,0x0001}[0x000A]matches your Loto Ticket number!
+Congratulations!{0xBE01}[0x000A]The ID No. of the {0x0102,0x0001} in your[0x000A]PC Box matches your Loto Ticket number!
+My goodness, all five digits matched!{0xBE01}[0x000A]You’ve won the jackpot prize,[0x000A]a Master Ball!
+Four digits matched, so you win first prize![0x000A]You’ve won a Rare Candy!
+Three digits matched, so you[0x000A]win second prize, a PP Max!
+Two digits matched, so you win third prize![0x000A]You’ve won a PP Up!
+One digit matched, so you win fourth prize![0x000A]You’ve won a Moomoo Milk!
+I’m sorry.[0x000A]None of the numbers matched.
+We look forward to seeing you again soon!
+You can only win once per day.[0x000A]Please come again tomorrow!
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+{0xBDFF:0x001A}
+{0xBDFF:0x001B}
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}

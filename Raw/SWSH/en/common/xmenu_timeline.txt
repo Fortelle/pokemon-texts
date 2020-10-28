@@ -1,0 +1,10 @@
+ui_msg_xmenu_timeline_weather_00=There’s a thunderstorm somewhere in the[0x000A]Wild Area!
+ui_msg_xmenu_timeline_weather_01=There’s a blizzard somewhere in the Wild Area!
+ui_msg_xmenu_timeline_weather_02=There’s a sandstorm somewhere in the Wild Area!
+ui_msg_xmenu_timeline_weather_03=There’s heavy fog somewhere in the Wild Area!
+ui_msg_xmenu_timeline_suana_00=Dynamax Pokémon spotted in the Wild Area!
+ui_msg_xmenu_timeline_pokejob_00=Your Pokémon completed a Poké Job!
+ui_msg_xmenu_timeline_camp_00=You can’t set up your camp here.
+ui_msg_xmenu_timeline_update_00={0xBDFF:0x0007}
+ui_msg_xmenu_timeline_communication_00=There are people you can play with on Y-Comm!
+ui_msg_xmenu_timeline_info_00=Check map

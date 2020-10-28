@@ -1,0 +1,5 @@
+main_event_0400_telop_01=Motorby
+main_event_0400_poke1_01=Voltou ! Voltoutou !
+main_event_0400_assistant_03=Coucou !{0x0114,0x000B}
+main_event_0400_assistant_01=Alors, les Terres Sauvages ? Ça en jette, hein ?{0xBE01}[0x000A]Mais vous devez être lessivés, ton {0x1101,0x00FD,0x0607}Pokémonéquipe et toi.[0x000A]Faites donc un tour au Centre Pokémon.{0x0114,0x000B}
+main_event_0400_assistant_02=Y’a un truc qui devrait t’intéresser,[0x000A]maintenant que tu es Dresseu{0x1100,0x00FF,0x0201}rse.{0x0114,0x000B}

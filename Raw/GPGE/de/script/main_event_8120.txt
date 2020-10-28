@@ -1,0 +1,13 @@
+msg_main8120_ghost_01={0xFF00,0x0009}Agathe:{0xFF00,0x0000} Ich bin Agathe und meines Zeichens[0x000A]Mitglied der Top Vier!
+msg_main8120_ghost_05=Wie ich höre, hält Eich große Stücke auf dich.
+msg_main8120_ghost_06=Der alte Knacker war früher mal ein Trainer[0x000A]von Format und nicht völlig unattraktiv.{0xBE01}[0x000A]Aber das ist Jahrzehnte her. Jetzt ist er nur[0x000A]noch ein Schatten seiner selbst.
+msg_main8120_ghost_07=Heutzutage beschäftigt er sich tagein, tagaus[0x000A]nur noch mit seinem Pokédex.{0xBE01}[0x000A]Was für eine Zeitverschwendung...
+msg_main8120_ghost_08=Pokémon sind zum Kämpfen da.
+msg_main8120_ghost_09=Pass schön auf, ich werde dir zeigen, was ein[0x000A]echter Pokémon-Kampf ist, {0x0100,0x0000}!
+msg_kikuko_01_p02_cave_d1403={0xBDFF:0x0006}
+msg_main8120_ghost_02={0xFF00,0x0009}Agathe:{0xFF00,0x0000} Der Sieg geht an dich. So langsam[0x000A]verstehe ich, was Eich in dir sieht...
+msg_main8120_ghost_10=Mehr habe ich dir nicht zu sagen. Es ist Zeit.[0x000A]Betritt den nächsten Raum.
+msg_main8120_ghost_03={0xFF00,0x0009}Agathe:{0xFF00,0x0000} Da bist du ja!{0xBE01}[0x000A]Wenn du glaubst, dass du mich aufs Neue[0x000A]besiegen kannst, bist du auf dem Holzweg.{0xBE01}[0x000A]Los! Zeig mir, was du draufhast!
+msg_main8120_ghost_04={0xFF00,0x0009}Agathe:{0xFF00,0x0000} Hmpf...{0xBE01}[0x000A]Kein Wunder, dass Eich so viel von dir hält.
+msg_main8120_ghost_11=So wie du und {0x0100,0x0001} miteinander[0x000A]wetteifert, erinnert ihr mich sehr an uns,{0xBE00}[0x000A]als wir noch jung waren...
+msg_main8120_ghost_12=Los, worauf wartest du noch? Ab in den nächsten[0x000A]Raum mit dir!

@@ -1,0 +1,233 @@
+ 
+Le Pokémon émet une odeur si nauséabonde[0x000A]qu’il peut effrayer sa cible.
+Le Pokémon invoque la pluie quand il entre[0x000A]au combat.
+La Vitesse du Pokémon augmente à chaque tour.
+Le Pokémon est protégé des coups critiques[0x000A]par une solide carapace.
+Le Pokémon encaisse toujours au moins une attaque[0x000A]s’il a tous ses PV. Il est également immunisé contre[0x000A]les capacités pouvant mettre K.O. en un coup.
+Le Pokémon augmente l’humidité de l’air,[0x000A]ce qui empêche tous les Pokémon d’utiliser[0x000A]des capacités explosives telles que Destruction.
+Le Pokémon s’est suffisamment échauffé,[0x000A]ce qui l’immunise contre la paralysie.
+Augmente l’Esquive du Pokémon lors des tempêtes[0x000A]de sable.
+Le Pokémon charge son corps en électricité statique,[0x000A]et tout contact avec lui peut paralyser.
+Si le Pokémon est touché par une capacité Électrik,[0x000A]il ne subit aucun dégât et regagne des PV à la place.
+Si le Pokémon est touché par une capacité Eau,[0x000A]il ne subit aucun dégât et regagne des PV à la place.
+Le Pokémon est un grand benêt, ce qui l’immunise[0x000A]contre l’attraction ou la provocation.
+Annule tous les effets liés à la météo.
+Les yeux à facettes du Pokémon augmentent[0x000A]sa Précision.
+Le Pokémon est incapable de dormir.
+Lorsque le Pokémon est touché par une capacité,[0x000A]il prend le type de celle-ci.
+Le Pokémon est naturellement immunisé[0x000A]contre toute forme de poison.
+Lorsque le Pokémon est touché par une capacité[0x000A]de type Feu, il absorbe la chaleur pour renforcer[0x000A]ses propres capacités Feu.
+Le Pokémon dispose d’un écran naturel qui le[0x000A]protège des effets additionnels des attaques[0x000A]ennemies.
+Le Pokémon vit sa vie à son propre rythme,[0x000A]ce qui l’immunise contre la confusion.
+Le Pokémon est solidement fixé au sol, ce qui[0x000A]le protège des capacités ou objets qui font changer[0x000A]de Pokémon.
+Le Pokémon rugit lorsqu’il arrive au combat,[0x000A]ce qui intimide l’ennemi et baisse son Attaque.
+Empêche le Pokémon ennemi de quitter le combat.
+Blesse l’attaquant lorsque le Pokémon subit[0x000A]une attaque directe.
+Une puissance mystérieuse protège le Pokémon[0x000A]contre toutes les capacités, sauf celles «[0xE07F]super[0x000A]efficaces[0xE07F]».
+Le Pokémon flotte, ce qui l’immunise contre[0x000A]les capacités de type Sol.
+Peut paralyser, empoisonner ou endormir l’attaquant[0x000A]lorsque le Pokémon subit une attaque directe.
+Quand le Pokémon est brûlé, paralysé ou empoisonné[0x000A]par un autre Pokémon, il partage ce statut avec[0x000A]celui-ci.
+Empêche les stats du Pokémon de baisser à cause[0x000A]d’une capacité ou d’un talent.
+Le Pokémon soigne ses altérations de statut[0x000A]en quittant le combat.
+Le Pokémon détourne sur lui les capacités de[0x000A]type Électrik et les neutralise, tout en montant[0x000A]son Attaque Spéciale.
+Augmente les chances d’infliger des effets[0x000A]additionnels.
+Augmente la Vitesse du Pokémon s’il pleut.
+Augmente la Vitesse du Pokémon s’il y a du soleil.
+Émet une lumière spécifique qui facilite les[0x000A]rencontres avec les Pokémon sauvages.
+Lorsque le Pokémon entre au combat, il calque[0x000A]le talent d’un ennemi pour remplacer le sien.
+Double l’Attaque du Pokémon.
+Peut empoisonner l’attaquant lorsque le Pokémon[0x000A]subit une attaque directe.
+Le Pokémon a un mental à toute épreuve qui[0x000A]empêche les capacités ennemies de lui faire peur.
+Le magma qui recouvre le corps du Pokémon[0x000A]le protège contre le gel.
+Le voile qui recouvre le Pokémon le protège[0x000A]des brûlures.
+Attire les Pokémon Acier grâce à un champ[0x000A]magnétique, ce qui les empêche de fuir.
+Protège le Pokémon de toutes les capacités sonores.
+Le Pokémon récupère progressivement des PV[0x000A]lorsqu’il pleut.
+Le Pokémon invoque une tempête de sable[0x000A]quand il entre au combat.
+Force l’ennemi à dépenser plus de PP.
+Le Pokémon est protégé par une épaisse couche[0x000A]de graisse qui diminue de moitié les dégâts qu’il[0x000A]subit des capacités de types Feu et Glace.
+Le Pokémon se réveille deux fois plus rapidement[0x000A]que les autres.
+Peut brûler l’attaquant lorsque le Pokémon subit[0x000A]une attaque directe.
+Permet de fuir n’importe quel Pokémon sauvage.
+Les yeux perçants du Pokémon empêchent[0x000A]sa Précision de baisser.
+Le Pokémon est armé de lames tranchantes qui font[0x000A]sa fierté et empêchent son Attaque de baisser.
+Permet parfois au Pokémon de ramasser les objets[0x000A]que ses ennemis ont utilisés. Il lui arrive aussi d’en[0x000A]trouver hors des combats.
+Lorsque le Pokémon utilise une capacité, il passe[0x000A]le tour suivant à paresser.
+Améliore l’Attaque du Pokémon mais diminue[0x000A]la Précision.
+Peut séduire l’attaquant lorsque le Pokémon subit[0x000A]une attaque directe.
+L’Attaque Spéciale du Pokémon augmente[0x000A]si un Pokémon allié a le talent Minus ou Plus.
+L’Attaque Spéciale du Pokémon augmente[0x000A]si un Pokémon allié a le talent Minus ou Plus.
+Le Pokémon prend le type Eau, Feu ou Glace[0x000A]en fonction de la météo.
+Les objets sont collés au corps gluant du Pokémon,[0x000A]ce qui empêche ses adversaires de les dérober.
+Le Pokémon soigne parfois ses altérations de statut[0x000A]en muant.
+Augmente l’Attaque du Pokémon s’il est affecté[0x000A]par une altération de statut.
+Les écailles mystérieuses du Pokémon réagissent[0x000A]aux altérations de statut en augmentant sa Défense.
+Le Pokémon suinte un liquide toxique qui blesse[0x000A]tous ceux qui tentent de voler ses PV.
+Augmente la puissance des capacités de type Plante[0x000A]du Pokémon quand il a perdu une certaine quantité[0x000A]de PV.
+Augmente la puissance des capacités de type Feu[0x000A]du Pokémon quand il a perdu une certaine quantité[0x000A]de PV.
+Augmente la puissance des capacités de type Eau[0x000A]du Pokémon quand il a perdu une certaine quantité[0x000A]de PV.
+Augmente la puissance des capacités de type[0x000A]Insecte du Pokémon quand il a perdu une certaine[0x000A]quantité de PV.
+Le Pokémon peut utiliser des capacités occasionnant[0x000A]un contrecoup sans perdre de PV.
+Le soleil se met à briller quand le Pokémon[0x000A]entre au combat.
+Empêche l’ennemi de s’enfuir.
+Empêche le Pokémon de s’endormir.
+Un écran de fumée empêche l’ennemi de baisser[0x000A]les stats du Pokémon.
+Le Pokémon utilise sa maîtrise du yoga pour doubler[0x000A]la puissance de ses capacités physiques.
+Le Pokémon est protégé des coups critiques[0x000A]par sa carapace.
+Annule tous les effets de la météo.
+Augmente l’Esquive du Pokémon s’il est confus.
+Si le Pokémon est touché par une capacité Électrik,[0x000A]il ne subit aucun dégât et sa Vitesse augmente.
+Le Pokémon déteste la concurrence et inflige plus[0x000A]de dégâts si l’ennemi est du même sexe. Par contre,[0x000A]il en inflige moins si l’ennemi est du sexe opposé.
+Augmente la Vitesse du Pokémon quand il a peur.
+Augmente l’Esquive du Pokémon durant les tempêtes[0x000A]de grêle.
+Si le Pokémon tient une Baie à manger en cas de PV[0x000A]bas, il la mange dès qu’il a perdu la moitié de ses PV.
+Si le Pokémon subit un coup critique, il entre[0x000A]dans une colère noire qui augmente son Attaque[0x000A]au maximum.
+Augmente la Vitesse du Pokémon s’il perd ou utilise[0x000A]l’objet qu’il tenait au début du combat.
+Diminue de moitié les dégâts infligés au Pokémon[0x000A]par les capacités de type Feu.
+Les variations de stats sont deux fois plus[0x000A]importantes pour le Pokémon.
+Le Pokémon regagne des PV sous la pluie ou s’il[0x000A]est touché par une capacité Eau, mais il déteste[0x000A]les capacités Feu ou quand le soleil brille.
+Le Pokémon compare la Défense et la Défense[0x000A]Spéciale de l’adversaire et augmente son Attaque[0x000A]ou son Attaque Spéciale en conséquence.
+Augmente la puissance des capacités[0x000A]coups de poing.
+Quand le Pokémon est empoisonné, il regagne des PV[0x000A]au lieu d’en perdre.
+Quand le Pokémon utilise une capacité du même type[0x000A]que lui, le bonus de puissance qu’elle reçoit[0x000A]est encore plus important que normalement.
+Les capacités pouvant frapper plusieurs fois[0x000A]frappent toujours le nombre maximum de coups.
+Soigne les altérations de statut du Pokémon[0x000A]quand il pleut.
+Quand le soleil brille, l’Attaque Spéciale du Pokémon[0x000A]augmente mais il perd des PV à chaque tour.
+Augmente la Vitesse du Pokémon en cas d’altération[0x000A]de statut.
+Toutes les capacités du Pokémon deviennent de[0x000A]type Normal, quel que soit leur type original.[0x000A]Leur puissance augmente légèrement.
+Lorsque le Pokémon porte un coup critique,[0x000A]les dégâts infligés augmentent encore plus[0x000A]que d’habitude.
+Seules les attaques peuvent blesser le Pokémon.
+Les capacités du Pokémon touchent l’ennemi[0x000A]à coup sûr, et vice-versa.
+Le Pokémon utilise toujours sa capacité en dernier.
+Augmente la puissance des capacités[0x000A]les plus faibles.
+Protège le Pokémon contre les altérations de statut[0x000A]quand le soleil brille.
+Le Pokémon ne peut utiliser aucun objet tenu.
+Le Pokémon ignore les talents adverses qui auraient[0x000A]un effet sur ses capacités.
+Le Pokémon est tellement chanceux qu’il inflige[0x000A]plus fréquemment des coups critiques.
+Si le Pokémon est mis K.O. par une attaque directe,[0x000A]il inflige des dégâts à l’attaquant avant de s’évanouir.
+Le Pokémon devine si l’adversaire connaît[0x000A]une capacité dangereuse pour lui.
+Révèle l’une des capacités de l’ennemi quand[0x000A]le combat commence.
+Quand il attaque, le Pokémon ignore les changements[0x000A]de stats de l’ennemi.
+Permet à une capacité «[0xE07F]pas très efficace[0xE07F]»[0x000A]d’infliger des dégâts comme si elle était efficace[0x000A]normalement.
+Réduit les dégâts subis lorsque le Pokémon[0x000A]est touché par une capacité super efficace.
+Divise la Vitesse et l’Attaque du Pokémon par deux[0x000A]pendant les cinq premiers tours du combat.
+Permet aux capacités de type Normal ou Combat[0x000A]du Pokémon de toucher les Pokémon de type[0x000A]Spectre.
+Le Pokémon détourne sur lui les capacités de[0x000A]type Eau et les neutralise, tout en montant[0x000A]son Attaque Spéciale.
+Régénère les PV du Pokémon lors des tempêtes[0x000A]de grêle.
+Réduit les dégâts subis lorsque le Pokémon[0x000A]est touché par une capacité super efficace.
+Déclenche une tempête de grêle quand le Pokémon[0x000A]entre au combat.
+Le Pokémon peut parfois trouver du Miel[0x000A]après un combat.
+Permet de connaître l’objet tenu par l’ennemi[0x000A]quand le combat commence.
+Augmente la puissance des capacités occasionnant[0x000A]un contrecoup.
+Modifie le type du Pokémon en fonction de la plaque[0x000A]ou du Cristal Z qu’il tient.
+Augmente l’Attaque et la Défense Spéciale[0x000A]du Pokémon et de ses alliés lorsque le soleil brille.
+Inflige des dégâts aux ennemis endormis.
+Vole l’objet que tient l’attaquant quand le Pokémon[0x000A]subit une attaque directe.
+Les capacités ayant un effet additionnel perdent[0x000A]celui-ci, mais leur puissance augmente.
+Inverse les changements de stats :[0x000A]les augmentations de stats se transforment[0x000A]en baisses, et vice-versa.
+Fait stresser l’ennemi, ce qui l’empêche de manger[0x000A]des Baies.
+Augmente beaucoup l’Attaque du Pokémon[0x000A]quand ses stats baissent.
+Le Pokémon devient défaitiste quand ses PV[0x000A]tombent à la moitié, et son Attaque et son Attaque[0x000A]Spéciale sont divisées par deux.
+Quand le Pokémon est touché par une capacité,[0x000A]il inflige parfois Entrave sur celle-ci.
+Soigne parfois une altération de statut d’un allié[0x000A]proche.
+Diminue les dégâts subis par les alliés.
+Quand le Pokémon est touché par une capacité[0x000A]physique, sa Défense baisse mais sa Vitesse[0x000A]augmente beaucoup.
+Double le poids du Pokémon.
+Divise par deux le poids du Pokémon.
+Le Pokémon reçoit moins de dégâts quand ses PV[0x000A]sont au maximum.
+Augmente la puissance des capacités physiques[0x000A]quand le Pokémon est empoisonné.
+Augmente la puissance des capacités spéciales[0x000A]quand le Pokémon est brûlé.
+Permet de réutiliser une même Baie plusieurs fois.
+Le Pokémon anticipe et évite les attaques de[0x000A]ses alliés.
+Augmente beaucoup une stat du Pokémon[0x000A]et en baisse une autre au hasard à chaque tour.
+Protège des dégâts occasionnés par les tempêtes[0x000A]de sable ou la grêle, et neutralise les attaques[0x000A]à base de poudre.
+Peut empoisonner l’ennemi par simple contact.
+Restaure un peu de PV si le Pokémon est retiré[0x000A]du combat.
+Empêche les capacités adverses de baisser[0x000A]la Défense.
+Augmente la Vitesse lors des tempêtes de sable.
+Le Pokémon résiste mieux aux capacités de statut.
+Augmente la puissance des capacités du Pokémon[0x000A]s’il attaque en dernier.
+Donne au Pokémon l’apparence du dernier membre[0x000A]de l’équipe pour tromper l’adversaire.
+Donne l’apparence du Pokémon adverse.
+Traverse les barrières et les clones de l’ennemi[0x000A]pour attaquer directement.
+Remplace le talent de l’attaquant par «[0xE07F]Momie[0xE07F]»[0x000A]lorsque le Pokémon subit une attaque directe.
+Quand le Pokémon met un ennemi K.O., sa confiance[0x000A]en lui ne connaît plus de limite et son Attaque[0x000A]augmente.
+Réveille la noblesse du Pokémon lorsqu’il subit[0x000A]une capacité de type Ténèbres, ce qui augmente[0x000A]son Attaque.
+Si le Pokémon est touché par une capacité de type[0x000A]Ténèbres, Spectre ou Insecte, sa phobie se révèle[0x000A]et sa Vitesse augmente.
+Annule les effets des capacités de statut subies[0x000A]par le Pokémon et les retourne à l’envoyeur.
+Annule les attaques de type Plante subies par[0x000A]le Pokémon et augmente son Attaque.
+Rend les capacités de statut prioritaires.
+Augmente la puissance des capacités de type[0x000A]Roche, Sol et Acier en cas de tempête de sable.
+Inflige des dégâts à l’attaquant lorsque le Pokémon[0x000A]subit une attaque directe.
+Quand le Pokémon perd la moitié de ses PV,[0x000A]il se transforme.
+Augmente la Précision des Pokémon de l’équipe.
+Le Pokémon ignore les talents adverses qui auraient[0x000A]un effet sur ses capacités.
+Le Pokémon ignore les talents adverses qui auraient[0x000A]un effet sur ses capacités.
+Protège l’équipe des effets limitant le libre arbitre.
+Empêche les alliés de type Plante de subir[0x000A]des baisses de stats et des altérations de statut.
+Restaure des PV lorsque le Pokémon consomme[0x000A]une Baie, quelle qu’elle soit.
+Le Pokémon prend le type de la capacité qu’il utilise.
+Divise par deux les dégâts des capacités physiques[0x000A]subies par le Pokémon.
+Les capacités volent aussi l’objet tenu par la cible.
+Protège de certaines capacités projetant[0x000A]des bombes, balles...
+Augmente beaucoup l’Attaque Spéciale[0x000A]du Pokémon quand ses stats baissent.
+Le Pokémon a une mâchoire robuste qui augmente[0x000A]la puissance de ses capacités à base de morsures.
+Les capacités de type Normal deviennent de type[0x000A]Glace. Leur puissance augmente légèrement.
+Les Pokémon de l’équipe ne peuvent pas s’endormir.
+Le Pokémon prend la Forme Assaut lorsqu’il utilise[0x000A]une attaque, et la Forme Parade lorsqu’il utilise[0x000A]Bouclier Royal.
+Quand les PV du Pokémon sont au maximum,[0x000A]ses capacités de type Vol sont prioritaires.
+Augmente la puissance de certaines capacités[0x000A]de type aura.
+Augmente la Défense du Pokémon si Champ Herbu[0x000A]est actif.
+Quand les alliés utilisent l’objet qu’ils tiennent,[0x000A]le Pokémon leur donne l’objet qu’il tient en[0x000A]remplacement.
+Augmente la puissance des attaques directes[0x000A]du Pokémon.
+Les capacités de type Normal deviennent de type[0x000A]Fée. Leur puissance augmente légèrement.
+Baisse la Vitesse de l’attaquant lorsque le Pokémon[0x000A]subit une attaque directe.
+Les capacités de type Normal deviennent de type[0x000A]Vol. Leur puissance augmente légèrement.
+Permet à la mère et à son petit d’attaquer[0x000A]tous les deux en même temps.
+Augmente la puissance des attaques de type[0x000A]Ténèbres de tous les Pokémon.
+Augmente la puissance des attaques de type Fée[0x000A]de tous les Pokémon.
+Inverse l’effet des auras en baissant leur puissance.
+Altère les conditions météo et rend inefficaces[0x000A]les attaques de type Feu.
+Altère les conditions météo et rend inefficaces[0x000A]les attaques de type Eau.
+Altère les conditions météo et annule les faiblesses[0x000A]du type Vol.
+Augmente la Défense du Pokémon lorsqu’il subit[0x000A]une attaque.
+Le Pokémon perd confiance quand ses PV tombent[0x000A]à la moitié et s’enfuit dans sa Poké Ball.
+Le Pokémon évite les situations inutilement[0x000A]dangereuses. Quand ses PV tombent à la moitié,[0x000A]il se réfugie dans sa Poké Ball.
+Augmente beaucoup la Défense du Pokémon[0x000A]quand il subit une capacité de type Eau.
+Lorsque le Pokémon attaque un adversaire[0x000A]empoisonné, le coup sera forcément critique.
+Lorsque le Pokémon perd la moitié de ses PV,[0x000A]son enveloppe se brise, mais son Attaque et[0x000A]son Attaque Spéciale augmentent.
+Lorsque le Pokémon attaque une cible qui vient[0x000A]d’entrer sur le terrain en remplacement d’un autre[0x000A]Pokémon, les dégâts infligés sont doublés.
+Réduit les dégâts des capacités de type Feu[0x000A]subies par le Pokémon. Il est également immunisé[0x000A]contre les brûlures.
+Augmente la puissance des attaques de type Acier.
+Augmente l’Attaque Spéciale du Pokémon[0x000A]lorsqu’il tombe à la moitié de ses PV[0x000A]à cause d’une attaque.
+Augmente la Vitesse du Pokémon quand il grêle.
+Le Pokémon est capable d’utiliser toutes[0x000A]ses capacités sans entrer en contact direct[0x000A]avec sa cible.
+Toutes les attaques sonores du Pokémon prennent[0x000A]le type Eau.
+Toutes les capacités qui soignent le Pokémon[0x000A]directement deviennent prioritaires.
+Les capacités de type Normal deviennent de type[0x000A]Électrik. Leur puissance augmente légèrement.
+La Vitesse du Pokémon est doublée sur[0x000A]un Champ Électrifié.
+Le Pokémon se rassemble avec ses congénères[0x000A]quand ses PV sont élevés. Plus ses PV baissent,[0x000A]plus le banc s’amenuise.
+Le déguisement qui recouvre le corps du Pokémon[0x000A]est capable de le protéger d’une attaque.
+En battant un ennemi, ce Pokémon renforce ses liens[0x000A]avec son Dresseur. Il prend alors sa Forme Sacha[0x000A]et ses Sheauriken gagnent en puissance.
+Lorsque le Pokémon perd la moitié de ses PV,[0x000A]ses Cellules se rassemblent pour l’encourager,[0x000A]ce qui lui permet de prendre sa Forme Parfaite.
+Permet d’empoisonner les Pokémon de type Acier[0x000A]ou Poison.
+Le Pokémon rêve en permanence et ne se réveille[0x000A]jamais. Il est capable d’attaquer normalement[0x000A]tout en dormant.
+L’adversaire est impressionné par la majesté[0x000A]du Pokémon et ne peut pas le viser avec[0x000A]une attaque prioritaire.
+Le Pokémon inflige à l’adversaire l’ayant mis K.O.[0x000A]des dégâts égaux au nombre de PV qu’il lui restait[0x000A]avant le coup de grâce.
+Si n’importe quel Pokémon utilise une capacité[0x000A]dansante, ce Pokémon peut se mettre aussi[0x000A]à danser.
+Augmente la puissance des capacités spéciales[0x000A]des alliés.
+Divise par deux les dégâts des attaques directes[0x000A]subies par le Pokémon, mais double les dégâts[0x000A]des capacités de type Feu.
+L’adversaire est abasourdi par le Pokémon et[0x000A]ne peut pas le viser avec une capacité prioritaire.
+Augmente l’Attaque Spéciale du Pokémon[0x000A]lorsqu’un autre Pokémon est mis K.O.
+Baisse la Vitesse de l’attaquant lorsque le Pokémon[0x000A]subit une attaque directe.
+Le Pokémon reçoit le talent d’un allié mis K.O.
+Le Pokémon acquiert le talent d’un allié mis K.O.
+Augmente la stat la plus élevée du Pokémon[0x000A]s’il met K.O. un autre Pokémon pendant son tour.
+Change le type du Pokémon en fonction[0x000A]de la ROM équipée.
+Le Pokémon crée un Champ Électrifié au moment[0x000A]où il entre au combat.
+Le Pokémon crée un Champ Psychique au moment[0x000A]où il entre au combat.
+Le Pokémon crée un Champ Brumeux au moment[0x000A]où il entre au combat.
+Le Pokémon crée un Champ Herbu au moment[0x000A]où il entre au combat.
+Empêche les stats du Pokémon de baisser à cause[0x000A]d’une capacité ou d’un talent.
+Le Pokémon reçoit moins de dégâts quand ses PV[0x000A]sont au maximum.
+Réduit les dégâts subis lorsque le Pokémon[0x000A]est touché par une capacité super efficace.

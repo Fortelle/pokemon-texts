@@ -1,0 +1,40 @@
+{0x0100,0x0000} allume le PC.{0xBE01}
+À quel PC souhaitez-vous accéder[0xE07F]?
+PC de ???
+PC d’Annette
+Données
+{0xBDFF:0x0005}
+PC du Professeur
+Éteindre
+Déposer des Pokémon
+Retirer des Pokémon
+Ranger les Boîtes
+Réarranger des objets
+Quitter
+Permet de déposer des Pokémon de votre équipe dans[0x000A]les Boîtes.
+Permet d’intégrer à votre équipe des Pokémon se[0x000A]trouvant dans les Boîtes.
+Permet d’organiser les Pokémon dans les Boîtes[0x000A]et dans votre équipe.
+Permet de déplacer les objets tenus par des Pokémon[0x000A]dans les Boîtes ou dans votre équipe.
+Quitter le système de Gestion de Stocks de Pokémon.
+Félicitations[0xE07F]! En récompense de votre première victoire[0x000A]sur le Maître, vous avez reçu des fonds[0xE07F]!{0xBE05,0x0000}{0xBE05,0x0001}{0xBE01}
+{0xBDFF:0x0013}
+1[0xE08B] entrée au Panthéon
+Voir la dernière photo
+Panthéon
+Déconnexion
+Permet de voir l’équipe utilisée la première fois que[0x000A]vous avez fini le jeu.
+Permet de regarder la dernière photo que vous avez[0x000A]prise durant votre voyage.
+Permet de voir les équipes utilisées à chaque[0x000A]entrée au Panthéon.
+Fermer la banque de données.
+Les données du Panthéon des Dresseurs sont[0x000A]corrompues.{0xBE01}[0x000A]Entrez à nouveau au Panthéon pour régler le problème.{0xBE01}
+Évaluer votre Pokédex de Hoenn
+{0xBDFF:0x001E}
+{0xBDFF:0x001F}
+Évaluer votre Pokédex National
+Quitter
+Permet de demander l’avis du Professeur sur[0x000A]l’avancement de votre Pokédex de Hoenn.
+{0xBDFF:0x0023}
+{0xBDFF:0x0024}
+Permet de demander l’avis du Professeur sur[0x000A]l’avancement de votre Pokédex National.
+Quitter le PC du Professeur.
+Évaluer un autre Pokédex[0xE07F]?

@@ -1,0 +1,135 @@
+Comunicazione in corso.[0x000A]Attendi...
+Seleziona chi deciderà le regole.
+Stanno per iniziare i preparativi per la lotta.{0xBE01}[0x000A]Se lotti contro un giocatore di Pokémon Sole[0x000A]o Pokémon Luna, scegli “Sì”.{0xBE01}
+Stanno per iniziare i preparativi per la lotta.{0xBE01}[0x000A]Per la Lotta Multipla, si dovranno formare[0x000A]le squadre.{0xBE01}[0x000A]Se lotti contro un giocatore di Pokémon Sole[0x000A]o Pokémon Luna, scegli “Sì”.{0xBE01}
+L’altro giocatore sta decidendo chi sarà[0x000A]a scegliere le regole. Attendi...
+Scegli le regole della lotta.{0xBE01}
+Comunicazione delle regole in corso.[0x000A]Attendi...
+I dati delle regole inviati sono danneggiati.[0x000A]Scegli nuovamente le regole della lotta.{0xBE01}
+Si è verificato un problema con i dati delle regole[0x000A]inviati. Scegli nuovamente le regole della lotta.{0xBE01}
+Si è verificato un problema con i dati delle regole[0x000A]ricevuti. Attendi la ricezione di nuovi dati.{0xBE01}
+I dati delle regole ricevuti sono danneggiati.[0x000A]Attendi la ricezione di nuovi dati.{0xBE01}
+Almeno uno dei giocatori non può partecipare.[0x000A]Verranno scelte delle nuove regole della lotta.{0xBE01}
+Verranno scelte delle nuove regole della lotta.{0xBE01}
+Gli altri giocatori non sono ancora pronti.[0x000A]Attendi...
+{0xBDFF:0x000E}
+Scegli la formazione delle squadre.{0xBE01}
+Formazione delle squadre in corso.[0x000A]Attendi...
+Chi sarà il {0x0200,0x0000}°?
+Scegli i Pokémon con cui partecipare.
+Vuoi continuare a giocare?
+Hai abbandonato la lotta.
+L’altro giocatore non è ancora pronto.
+Lotta di nuovo con regole diverse.
+Un giocatore ha abbandonato la lotta.{0xBE01}
+Lotta di nuovo con regole diverse.
+Lotta di nuovo con le stesse regole.
+Vuoi tornare indietro e scegliere delle regole[0x000A]diverse?
+Invio dell’informazione in corso.
+{0xBDFF:0x001C}
+Vuoi uscire dalle lotte?
+Interruzione del collegamento in corso.
+La comunicazione è stata interrotta.[0x000A]Lotte terminate.{0xBE01}
+Se le regole attuali non ti consentono di[0x000A]partecipare. Scegli “Non posso partecipare”.{0xBE01}
+Sarai tu a scegliere le regole della lotta.[0x000A]Vuoi continuare?
+Vuoi che sia un altro giocatore a scegliere[0x000A]le regole della lotta?
+{0x0100,0x0000} sta scegliendo le regole[0x000A]della lotta.
+{0x0100,0x0000} ha interrotto[0x000A]la scelta delle regole della lotta.
+Scegli una squadra e inizia la lotta.
+{0xBDFF:0x0026}
+C’è un problema con la Squadra Lotta.
+Controlla i Pokémon e modifica[0x000A]la squadra.
+Non sono presenti i dati aggiuntivi più recenti.{0xBE01}[0x000A]Impossibile sfidare la Squadra Lotta dell’altro[0x000A]giocatore.{0xBE01}[0x000A]Attendi mentre sceglie nuovamente[0x000A]i suoi Pokémon.{0xBE01}
+C’è un problema con la Squadra Lotta[0x000A]dell’altro giocatore.
+Sì
+No
+Gioca con regole diverse
+Gioca con le stesse regole
+{0xBDFF:0x002F}
+{0xBDFF:0x0030}
+{0xBDFF:0x0031}
+Via alla lotta!
+Squadra selezionata
+{0x0122,0x0000}
+Non posso partecipare
+{0xFF00,0x0001}---{0xFF00,0x0000}
+Squadra A1
+Squadra A2
+Squadra B1
+Squadra B2
+---
+{0x0100,0x0000}
+Conferma le squadre
+Sì
+No
+{0x0100,0x0000}
+Scelta automatica
+Indietro
+Scegli nuovamente
+Conferma
+{0x0100,0x0000}
+Scelta in corso.
+Tutto pronto!
+{0xBDFF:0x0048}
+{0xBDFF:0x0049}
+1
+2
+3
+4
+{0xBDFF:0x004E}
+---
+{0xBDFF:0x0050}
+Lotta in Singolo
+Lotta in Doppio
+Lotta Multipla
+Battle Royale
+Normale
+Alla pari
+Senza restrizioni
+[0xE09A] Allenatore 2 [0xE09A]
+[0xE09A] Pokémon selvatico 2 [0xE09A]
+[0xE09A] Pokémon dominante [0xE09A]
+[0xE09A] Kahuna [0xE09A]
+[0xE09A] Il mio amico Hau 1 [0xE09A]
+[0xE09A] Iridio [0xE09A]
+[0xE09A] Team Skull [0xE09A]
+[0xE09A] Ufficiale del Team Skull [0xE09A]
+[0xE09A] Capo del Team Skull [0xE09A]
+[0xE09A] Fondazione Æther [0xE09A]
+[0xE09A] Direttrice Samina 1 [0xE09A]
+[0xE09A] Direttrice Samina 2 [0xE09A]
+[0xE09A] Ultracreatura [0xE09A]
+[0xE09A] Superquattro [0xE09A]
+[0xE09A] Difesa del titolo [0xE09A]
+[0xE09A] Pokémon leggendario [0xE09A]
+[0xE09A] Battle Royale [0xE09A]
+[0xE09A] Protettore dell’isola [0xE09A]
+[0xE09A] Leggenda della lotta [0xE09A]
+[0xE09A] Team Rainbow Rocket [0xE09A]
+[0xE09A] Giovanni [0xE09A]
+[0xE09A] Max e Ivan [0xE09A]
+[0xE09A] Cyrus [0xE09A]
+[0xE09A] Ghecis [0xE09A]
+[0xE09A] Il temibile Elisio [0xE09A]
+[0xE09A] Ultrapattuglia [0xE09A]
+[0xE09A] Necrozma 1 [0xE09A]
+[0xE09A] Necrozma 2 [0xE09A]
+[0xE09A] Mewtwo [0xE09A]
+[0xE09A] Pokémon di Kanto [0xE09A]
+[0xE09A] Pokémon di Hoenn [0xE09A]
+[0xE09A] Leggendario di Hoenn 2 [0xE09A]
+[0xE09A] Leggendario di Hoenn 1 [0xE09A]
+[0xE09A] Ho-Oh [0xE09A]
+[0xE09A] Lugia [0xE09A]
+[0xE09A] Leggendario di Johto [0xE09A]
+[0xE09A] Leggendario di Sinnoh 2 [0xE09A]
+[0xE09A] Leggendario di Sinnoh 3 [0xE09A]
+[0xE09A] Leggendario di Sinnoh 1 [0xE09A]
+[0xE09A] Giratina [0xE09A]
+[0xE09A] Leggendario di Unima 1 [0xE09A]
+[0xE09A] Leggendario di Unima 2 [0xE09A]
+[0xE09A] Leggendario di Kalos [0xE09A]
+[0xE09A] Allenatore 1 [0xE09A]
+[0xE09A] Pokémon selvatico 1 [0xE09A]
+[0xE09A] Il mio amico Hau 2 [0xE09A]
+{0xBDFF:0x0086}

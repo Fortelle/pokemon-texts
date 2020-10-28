@@ -1,0 +1,6 @@
+msg_main0100_clerkm_01=¡Oye![0x000A]¿Vienes de Pueblo Paleta?
+msg_main0100_clerkm_02=¿Conoces al Profesor Oak?{0xBE01}[0x000A]Tengo algo para él, pero ahora mismo estoy[0x000A]demasiado ocupado como para ir hasta allí.{0xBE01}[0x000A]¿Se lo podrías llevar tú?
+msg_main0100_sys_01=¡El empleado de la Tienda Pokémon te ha[0x000A]entregado un {0xFF00,0x0006}Paquete{0xFF00,0x0000} para el Profesor Oak!
+msg_main0100_clerkm_03=¡Vale, gracias![0x000A]¡Saluda al Profesor Oak de mi parte!
+msg_main0100_clerkm_04={0xBDFF:0x0004}
+msg_main0100_sys_02=¿Quieres ir directamente al laboratorio?

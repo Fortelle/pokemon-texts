@@ -1,0 +1,7 @@
+msg_t003gym01_gym_01=Soll ich dir ein bisschen was beibringen, bevor[0x000A]du dich dem Arenaleiter stellst?
+msg_t003gym01_gym_02=Alles klar! Dann kann’s losgehen.
+msg_t003gym01_gym_03=Das Pokémon an der Spitze deiner Team-Liste[0x000A]kämpft als Erstes.{0xBE01}[0x000A]Wenn du die Reihenfolge der Pokémon änderst,[0x000A]kann ein Kampf leichter werden.{0xBE01}[0x000A]Probiere es aus, um dir so einen Vorteil[0x000A]gegenüber deinem Gegner zu verschaffen!
+msg_t003gym01_gym_04=Du musst dich wirklich nicht zurückhalten.[0x000A]Lass uns anfangen!
+msg_t003gym01_gym_05=Ganz, wie ich es mir gedacht hatte! Du hast[0x000A]definitiv das Zeug dazu, Champ zu werden!
+msg_t003gym01_statue_01=Pokémon-Arena von Marmoria City[0x000A]Arenaleiter: Rocko{0xBE01}[0x000A]Anerkannte Trainer:[0x000A]{0x0100,0x0001}
+msg_t003gym01_statue_02=Pokémon-Arena von Marmoria City[0x000A]Arenaleiter: Rocko{0xBE01}[0x000A]Anerkannte Trainer:[0x000A]{0x0100,0x0001}, {0x0100,0x0000}

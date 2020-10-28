@@ -1,0 +1,8 @@
+main_event_0960_trainer_01={0x1100,0x00FF,0x0101}你妳是道館挑戰者，對吧！[0x000A]要辦理報到手續嗎？
+main_event_0960_select_01=要！
+main_event_0960_select_02=等一下
+main_event_0960_trainer_02=好！那麼就去更衣室換上競技服，[0x000A]然後到道館任務的場地去吧！
+main_event_0960_trainer_03=這也是一種選擇。[0x000A]我隨時等{0x1100,0x00FF,0x0101}你妳回來。
+main_event_0960_trainer_06=去吧！{0x01C4,0x0000}號選手！
+main_event_0960_trainer_04=道館任務，好好加油！
+main_event_0960_trainer_05={0xBDFF:0x0007}

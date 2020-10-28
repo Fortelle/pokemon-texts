@@ -1,0 +1,111 @@
+Tramite la GTS puoi scambiare Pokémon con[0x000A]giocatori di tutto il mondo in due modi.[0x000A][0x000A]･ Cerca Pokémon[0x000A]Lo scambio avviene quando offri a un giocatore[0x000A]il Pokémon che sta cercando.[0x000A][0x000A]･ Offri Pokémon[0x000A]Lo scambio avviene quando un giocatore[0x000A]ti invia il Pokémon che stai cercando.
+Verifica dello stato della GTS in corso.
+Il Pokémon che hai offerto è stato scambiato!{0xBE01}
+Salve, questa è la GTS![0x000A]Cosa vuoi fare?
+Il Pokémon offerto tornerà da te!{0xBE01}
+{0xBD02}Attenzione![0x000A][0x000A]{0xBD02}Se durante uno scambio la console si spegne[0x000A]{0xBD02}o si verifica un errore di comunicazione,[0x000A]{0xBD02}per un po’ non potrai più fare scambi.
+Vuoi uscire dalla GTS?
+Scegli i criteri di ricerca.{0xBE01}
+La ricerca non ha dato risultati.{0xBE01}
+Quale Pokémon stai cercando?
+Scegli il sesso.
+Scegli il livello.
+Vuoi includere nella ricerca anche giocatori che[0x000A]chiedono Pokémon misteriosi o leggendari?
+Nessun risultato per i criteri impostati!{0xBE01}
+Scegli con chi fare lo scambio.
+Collegamento in corso.[0x000A]Attendi...
+Ricerca del Pokémon in corso.[0x000A]Attendi...
+C’è un problema con questo Pokémon.{0xBE01}
+Questo Pokémon è già stato scambiato.{0xBE01}
+Vuoi riprenderti {0x0102,0x0000}?
+Non puoi scegliere il sesso quando inserisci[0x000A]un nome manualmente.{0xBE01}
+Scegli i criteri di ricerca.
+Filtra per Pokémon richiesto.
+Filtra per area.
+Per poter offrire un Pokémon devi prima[0x000A]decidere che Pokémon vuoi ricevere.{0xBE01}
+Ulteriore ricerca in corso.[0x000A]Attendi...
+Scegli quale Pokémon vuoi!{0xBE01}
+Nessun risultato trovato per questa nuova[0x000A]ricerca.{0xBE01}[0x000A]I risultati della ricerca sono stati aggiornati.{0xBE01}
+Nessun risultato trovato per questa nuova[0x000A]ricerca.{0xBE01}[0x000A]Scegli nuovamente un Pokémon da cercare.{0xBE01}
+{0xBDFF:0x001D}
+{0xBDFF:0x001E}
+{0xBDFF:0x001F}
+{0xBDFF:0x0020}
+Scegli un messaggio per il giocatore con cui[0x000A]scambierai il tuo Pokémon.
+{0xBD02}Attenzione![0x000A][0x000A]{0xBD02}Se durante uno scambio la console si spegne[0x000A]{0xBD02}o si verifica un errore di comunicazione,[0x000A]{0xBD02}per un po’ non potrai più fare scambi.
+{0xBD02}Attenzione![0x000A][0x000A]{0xBD02}Se durante uno scambio la console si spegne[0x000A]{0xBD02}o si verifica un errore di comunicazione,[0x000A]{0xBD02}per un po’ non potrai più fare scambi.
+Il collegamento verrà interrotto.[0x000A]Attendi...
+Scegli quale Pokémon vuoi!
+Cerca Pokémon
+Offri Pokémon
+Info su {0x0102,0x0000}
+Pokémon richiesto
+{0x0101,0x0000}
+Sesso
+Livello
+Opzioni
+Cerca con questi criteri
+Esci
+ 
+Qualsiasi
+{0xBDFF:0x0032}
+{0xBDFF:0x0033}
+Qualsiasi
+1 - 10
+11 - 20
+21 - 30
+31 - 40
+41 - 50
+51 - 60
+61 - 70
+71 - 80
+81 - 90
+91 o superiore
+Nome
+Sì
+No
+Pokémon richiesto dall’altro giocatore
+Qualsiasi
+Pokémon che hai
+Area di residenza
+Area uguale alla tua
+Area diversa dalla tua
+Filtra con questi criteri
+Riprendi
+Esci
+Cerca un Pokémon.
+{0x0100,0x0000}
+{0x0124,0x0000}
+{0x0125,0x0000}
+Info sul Pokémon offerto
+{0x0102,0x0000}
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+l
+{0xBDFF:0x0054}
+Strumento
+Nessuno
+{0x0109,0x0000}
+Messaggio di {0x0100,0x0000}
+{0x0202,0x0000}
+{0x0202,0x0000}
+Ok
+Ciao! Vuoi fare uno scambio?
+Cerco un Pokémon che mi aiuti ad avanzare[0x000A]nella mia avventura!
+Cerco un Pokémon fortissimo nelle lotte!
+Vorrei un Pokémon destinato a grandi cose[0x000A]fin da quando era un Uovo!
+Sto cercando di completare il Pokédex!
+Sto cercando di riempire il Pokédex[0x000A]di Pokémon stranieri!
+Cerco un Pokémon con un bel soprannome!
+Ho allenato questo Pokémon con molta cura.[0x000A]Se lo vuoi, posso scambiarlo con te!
+Questo Pokémon è appena uscito dall’Uovo...[0x000A]Prenditi cura di lui!
+Ho allenato questo Pokémon perché non avesse[0x000A]rivali nelle lotte!
+Questo Pokémon ha un grande potenziale![0x000A]Ti va di allenarlo?
+{0xBDFF:0x0067}
+{0xBDFF:0x0068}
+{0xBDFF:0x0069}
+{0xBDFF:0x006A}
+{0xBDFF:0x006B}
+{0xBDFF:0x006C}
+{0xBDFF:0x006D}
+{0xBDFF:0x006E}

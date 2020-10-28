@@ -1,0 +1,70 @@
+Ich bin der Pensionsleiter. Ich kümmere mich[0x000A]um die wertvollen Pokémon der Trainer.{0xBE01}[0x000A]Wenn wir eins deiner Pokémon für dich aufziehen sollen,[0x000A]dann sprich bitte mit meiner Frau.
+Ach, du bist es! Schön, dich zu sehen![0x000A]Deinem {0x0101,0x0000} geht es sehr gut.
+Schön, dich zu sehen!{0xBE01}[0x000A]Deinem {0x0102,0x0000} und deinem[0x000A]{0x0102,0x0001} geht es gut!{0xBE01}[0x000A]Die beiden scheinen sich sehr zu mögen.
+Schön, dich zu sehen!{0xBE01}[0x000A]Deinem {0x0102,0x0000} und deinem[0x000A]{0x0102,0x0001} geht es gut!{0xBE01}[0x000A]Die beiden scheinen sich zu vertragen.
+Schön, dich zu sehen!{0xBE01}[0x000A]Deinem {0x0102,0x0000} und deinem[0x000A]{0x0102,0x0001} geht es gut!{0xBE01}[0x000A]Die beiden mögen sich aber nicht sehr.
+Schön, dich zu sehen!{0xBE01}[0x000A]Deinem {0x0102,0x0000} und deinem[0x000A]{0x0102,0x0001} geht es gut!{0xBE01}[0x000A]Die beiden spielen aber lieber mit anderen[0x000A]Pokémon und nicht so gerne miteinander.
+Ach, du bist es!{0xBE01}[0x000A]Wir haben uns hier fleißig um deine Pokémon gekümmert[0x000A]und dabei plötzlich etwas Tolles gefunden:{0xBE00}[0x000A]ein Pokémon-Ei!{0xBE01}[0x000A]Wir sind selbst ratlos, wo es hergekommen sein könnte.[0x000A]Irgendwann hatten es deine Pokémon einfach...{0xBE01}[0x000A]Möchtest du es an dich nehmen?
+{0x0100,0x0000} erhält das Ei vom Pensionsleiter.
+Kümmere dich gut darum!
+Sieht nicht so aus, als ob du Platz für ein Ei hättest...[0x000A]Komm wieder, wenn du etwas Platz geschaffen hast!
+Dann werde ich es behalten.[0x000A]Oder möchtest du es doch haben?
+Na schön, dann behalte ich es eben.[0x000A]Vielen Dank!
+Ich bin die Pensionsleiterin.{0xBE01}[0x000A]Wir bieten Trainern an, ihre Pokémon für sie aufzuziehen.[0x000A]Sollen wir uns um eines deiner Pokémon kümmern?
+Ich bin die Pensionsleiterin.{0xBE01}[0x000A]Wir bieten Trainern an, ihre Pokémon für sie aufzuziehen.[0x000A]Was führt dich heute zu uns?
+Gut. Komm bald wieder!
+Mein Mann hat dich schon gesucht!
+Aber womit willst du denn bitte kämpfen,[0x000A]wenn du dieses Pokémon hierlässt?{0xBE01}[0x000A]Komm wieder, sobald sich mehr Pokémon[0x000A]in deinem Team befinden.
+Welches Pokémon sollen wir für dich aufziehen?
+Nicht doch! Das ist doch nur ein Ei!
+Fein, dann nehmen wir dein {0x0101,0x0000}[0x000A]für eine Weile in Pflege.
+Komm wieder, wenn ein wenig[0x000A]Zeit ins Land gegangen ist!
+Wir können zwei deiner Pokémon bei uns aufnehmen.[0x000A]Möchtest du noch eins in Pflege geben?
+Oh, du bist es! Schön, dich zu sehen![0x000A]Allen Pokémon hier geht es gut.{0xBE00}[0x000A]Möchtest du eins wieder an dich nehmen?
+Der Level von {0x0101,0x0000} ist um {0x0201,0x0001} gestiegen.
+Wenn du dein {0x0101,0x0000} wieder mitnehmen willst,[0x000A]kostet das {0x0204,0x0001,0x002E} $.{0xBE00}[0x000A]Nimmst du es wieder an dich?
+Du hast leider nicht genug Geld...
+{0x0100,0x0001} hat {0x0101,0x0000}[0x000A]von der Pensionsleiterin zurückerhalten.
+Willst du noch eins mitnehmen?
+Wie bitte? Aber, aber...{0xBE01}[0x000A]Wenn du jetzt ein Pokémon bei uns lässt,[0x000A]hast du nur noch ein kampffähiges bei dir!{0xBE01}[0x000A]Was hältst du davon, wenn du erst noch ein paar[0x000A]Pokémon fängst und dann wieder vorbeikommst?
+Oh, in deinem Pokémon-Team ist kein Platz mehr...[0x000A]Schaffe erst etwas Platz und komm dann wieder!
+Pokémon abgeben
+Pokémon abholen
+Abbrechen
+Lv. {0x0202,0x0001}
+{0x0101,0x0000} ♂ Lv. {0x0202,0x0001}
+{0x0101,0x0000} ♀ Lv. {0x0202,0x0001}
+{0x0101,0x0000} Lv. {0x0202,0x0001}
+Wie?
+{0x0101,0x0000} schlüpfte aus dem Ei!
+Möchtest du dem geschlüpften {0x0101,0x0000}[0x000A]einen Spitznamen geben?
+Hallo! Ich bin einer der Pensionsleiter hier und kümmere[0x000A]mich als solcher um die wertvollen Pokémon der Trainer.{0xBE01}[0x000A]Wenn wir eins deiner Pokémon aufziehen sollen,[0x000A]dann sprich bitte drinnen mit meiner großen Schwester.
+Hey! Schön, dich zu sehen![0x000A]Deinem {0x0102,0x0000} geht’s gut!
+Hey! Schön, dich zu sehen!{0xBE01}[0x000A]Deinem {0x0102,0x0000} und deinem[0x000A]{0x0102,0x0001} geht’s gut!{0xBE01}[0x000A]Die beiden scheinen sich sehr zu mögen.
+Hey! Schön, dich zu sehen!{0xBE01}[0x000A]Deinem {0x0102,0x0000} und deinem[0x000A]{0x0102,0x0001} geht’s gut!{0xBE01}[0x000A]Die beiden scheinen sich zu vertragen.
+Hey! Schön, dich zu sehen!{0xBE01}[0x000A]Deinem {0x0102,0x0000} und deinem[0x000A]{0x0102,0x0001} geht’s gut!{0xBE01}[0x000A]Die beiden mögen sich aber nicht sehr.
+Hey! Schön, dich zu sehen!{0xBE01}[0x000A]Deinem {0x0102,0x0000} und deinem[0x000A]{0x0102,0x0001} geht’s gut!{0xBE01}[0x000A]Die beiden spielen aber lieber mit anderen[0x000A]Pokémon und nicht so gerne miteinander.
+Ah, du bist es! Du wirst es nicht glauben, aber...{0xBE01}[0x000A]Während des Aufziehens deiner Pokémon haben wir[0x000A]eine ganz schöne Überraschung erlebt:{0xBE01}[0x000A]Deine Pokémon hatten auf einmal ein Ei!{0xBE01}[0x000A]Keine Ahnung, wo es hergekommen ist,[0x000A]es war einfach plötzlich da!{0xBE01}[0x000A]Du möchtest es doch sicher haben, oder?
+{0x0100,0x0000} erhält das Ei vom Pensionsleiter.
+Kümmere dich gut darum!
+Ah, dein Team ist bereits vollzählig,[0x000A]du hast keinen Platz mehr für ein Ei!{0xBE01}[0x000A]Warum legst du nicht eines deiner Pokémon[0x000A]in einer PC-Box ab, um Platz zu schaffen?
+Wenn du es nicht willst, behalte ich es.[0x000A]Aber gib’s zu: In Wirklichkeit willst du es doch, oder?
+Im Ernst...? Na gut, dann behalte ich es![0x000A]Vielen Dank!
+Herzlich willkommen in der Pokémon-Pension!{0xBE01}[0x000A]Wenn du uns eins deiner Pokémon anvertraust,[0x000A]werden wir es für dich aufziehen.{0xBE01}[0x000A]Na, sollen wir eins bei uns aufnehmen?
+Herzlich willkommen in der Pokémon-Pension!{0xBE01}[0x000A]Wenn du uns eins deiner Pokémon anvertraust,[0x000A]werden wir es für dich aufziehen.{0xBE01}[0x000A]Was können wir heute für dich tun?
+Alles klar.[0x000A]Schau bald mal wieder vorbei!
+Ah, da bist du ja! Mein Bruder hat dich schon gesucht.[0x000A]Er müsste vor dem Eingang auf dich warten!
+Wenn du dieses Pokémon hierlässt,[0x000A]womit willst du denn dann kämpfen?{0xBE01}[0x000A]Komm wieder, wenn du mehr Pokémon bei dir hast!
+Welches Pokémon sollen wir für dich aufziehen?
+Es tut mir wirklich leid,[0x000A]aber Eier können wir hier nicht aufziehen...
+Alles klar, dann kümmern wir uns ein Weilchen[0x000A]um dein {0x0101,0x0000}!
+Du kannst jederzeit wiederkommen,[0x000A]um dein Pokémon abzuholen!
+Wir können auch zwei Pokémon bei uns aufnehmen.[0x000A]Möchtest du noch eins in Pflege geben?
+Allen Pokémon hier geht es gut.[0x000A]Möchtest du eins wieder mitnehmen?
+Der Level von {0x0101,0x0000} ist um {0x0201,0x0001} gestiegen.
+Wenn du dein {0x0101,0x0000} mitnehmen willst,[0x000A]kostet dich das {0x0204,0x0001,0x002E} $.{0xBE00}[0x000A]Nimmst du es wieder mit auf die Reise?
+Oh, du scheinst nicht genug Geld dabeizuhaben...
+{0x0100,0x0001} hat {0x0101,0x0000}[0x000A]von der Pensionsleiterin zurückerhalten.
+Möchtest du dein anderes Pokémon auch mitnehmen?
+Aber, aber...{0xBE01}[0x000A]Wenn du uns jetzt ein Pokémon anvertraust,[0x000A]hast du nur noch ein kampffähiges bei dir!{0xBE01}[0x000A]Komm wieder, wenn du mehr Pokémon im Team hast!
+Ah, dein Team ist bereits vollzählig,[0x000A]du hast keinen Platz mehr für ein weiteres Pokémon!{0xBE01}[0x000A]Du könntest eines deiner Pokémon in einer PC-Box[0x000A]ablegen, um Platz zu schaffen.

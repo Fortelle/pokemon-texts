@@ -1,0 +1,13 @@
+msg_t004r0401_childm_01=J’adore monter sur les Pokémon, mais faut[0x000A]avouer que le vélo, c’est bien classe aussi !
+msg_t004r0401_youngf_01=Il est bien gentil de nous montrer sa collection,[0x000A]mais parfois, quand il se met à parler, ça devient{0xBE00}[0x000A]impossible de l’arrêter !{0xBE01}[0x000A]Y’a pas que ses vélos qui ont besoin de freins...[0x000A]Ah là là ! Ce cher Fan de Vélo !
+msg_t004r0401_middlef_01={0xBDFF:0x0002}
+msg_t004r0401_jevenilem_01={0xBDFF:0x0003}
+msg_boy5_01_p02_t004_r0501={0xBDFF:0x0004}
+msg_t004r0401_bike_01={0xBDFF:0x0005}
+msg_cycle_01_p01_t004_r0501={0xBDFF:0x0006}
+msg_cycle_01_p02_t004_r0501={0xBDFF:0x0007}
+msg_cycle_01_p03_t004_r0501={0xBDFF:0x0008}
+msg_cycle_01_p04_t004_r0501={0xBDFF:0x0009}
+msg_cycle_01_p05_t004_r0501={0xBDFF:0x000A}
+msg_cycle_01_p06_t004_r0501={0xBDFF:0x000B}
+msg_cycle_01_p07_t004_r0501={0xBDFF:0x000C}

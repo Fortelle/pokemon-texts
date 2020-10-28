@@ -1,0 +1,10 @@
+msg_main0730_rocketchief_01={0xFF00,0x0009}??? :{0xFF00,0x0000} ... Grâce au Scope Sylphe, nous en avons[0x000A]enfin la preuve formelle...
+msg_main0730_rocketchief_02=La Sylphe dispose bel et bien des technologies[0x000A]nécessaires pour nous permettre d’atteindre{0xBE00}[0x000A]notre objectif. La Team Rocket triomphera !
+msg_main0730_rocketboss_01={0xFF00,0x0009}??? :{0xFF00,0x0000} Une machine pour détecter les êtres[0x000A]invisibles... On dirait la description d’un vulgaire{0xBE00}[0x000A]jouet ! Et pourtant...
+msg_main0730_rocketboss_02=Soit.{0xBE01}[0x000A]Amos, poursuis l’infiltration de la Sylphe.
+msg_main0730_rocketchief_03={0xFF00,0x0009}Amos :{0xFF00,0x0000} À vos ordres !
+msg_main0730_rocketchief_04={0xFF00,0x0009}Amos :{0xFF00,0x0000} Quoi ? Mais que fait cet{0x1100,0x00FF,0x0200}te enfant ici ?
+msg_main0730_rocketchief_05=Tu as tout écouté sans piper mot ?[0x000A]Voilà qui n’est guère honorable.
+msg_main0730_rocketchief_06=Je suis Amos, l’Admin de la Team Rocket.[0x000A]Et je n’ai aucune pitié, même pour les enfants !
+msg_main0730_dummy_01={0xBDFF:0x0008}
+msg_main0730_rocketchief_07={0xFF00,0x0009}Amos :{0xFF00,0x0000} Maître Giovanni... Pardonnez-moi...[0x000A]J’ai perdu face à un{0x1100,0x00FF,0x0100}e enfant...

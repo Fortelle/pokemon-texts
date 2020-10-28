@@ -1,0 +1,10 @@
+main_event_1420_trainer_01=Tu arrives au bout de cette grande aventure[0x000A]qu’est le Défi des Arènes !{0xBE01}[0x000A]Challenger, es-tu prêt{0x1100,0x00FF,0x0100}e à affronter Roy,[0x000A]le Champion draconien de l’Arène de Kickenham ?
+main_event_1420_select_01=Carrément !
+main_event_1420_select_02=Pas tout de suite, non.
+main_event_1420_trainer_02=N’oublie pas, la chance sourit aux audacieu{0x1100,0x00FF,0x0301}xses.
+main_event_1420_trainer_03=Parfait ! Dans ce cas, commence par aller[0x000A]te changer dans les vestiaires !
+main_event_1420_trainer_04=Ton uniforme est le témoin de tes victoires,[0x000A]porte-le fièrement.{0xBE01}[0x000A]La Mission d’Arène t’attend non pas dans[0x000A]le stade, mais dans la salle des reliques !
+main_event_1420_trainer_05=Quoique, attends !{0xBE01}[0x000A]J’ai bien peur que ton équipe ne soit pas[0x000A]de taille face à Roy !{0xBE00}[0x000A]Il te faut au moins deux Pokémon !
+main_event_1420_trainer_06=Tu veux retenter la Mission, je suppose ?
+main_event_1420_trainer_07=L’uniforme te va à ravir ![0x000A]En avant, numéro {0x01C4,0x0001} !
+main_event_1420_trainer_08=Désolé, mais il te faut sept Badges[0x000A]pour défier le grand Roy !{0xBE01}[0x000A]Il n’accepte que les Challengers qui ont[0x000A]déjà fait leurs preuves.

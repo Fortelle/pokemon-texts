@@ -1,0 +1,102 @@
+Registradati
+Il Registradati è uno strumento che permette di rivedere[0x000A]i Video Lotta registrati, ad esempio, nel Punto Lotta[0x000A]o durante le lotte in link.[0x000A][0x000A]Permette anche di affrontare una lotta simulata con un[0x000A]avversario già incontrato in precedenza ricreata a partire[0x000A]dalle condizioni salvate nel relativo Video Lotta.
+È possibile rendere pubblici i Video Lotta che hai registrato[0x000A]con il Registradati o cercare e guardare quelli condivisi dagli[0x000A]altri giocatori.[0x000A]Quando rendi pubblico un video, viene creato un codice[0x000A]che potrai condividere con i tuoi amici di tutto il mondo[0x000A]per mostrare loro le tue imprese.
+Lotta Inversa
+{0x0100,0x0000}
+Visualizz.:
+Data video:
+{0xBDFF:0x0007}
+{0x0206,0x0000,0x002E}
+{0x0201,0x0002}/{0x0201,0x0001}/{0x0203,0x0000,0x0000}
+{0x0203,0x0000,0x0000}-{0x0203,0x0001,0x0000}-{0x0203,0x0002,0x0000}-{0x0203,0x0003,0x0000}
+{0x0202,0x0000}
+:
+{0x0203,0x0000,0x002E}ª lotta
+Per guardare questo Video Lotta, devi aggiornare i dati.
+Turni:
+Vittoria per KO
+Vittoria per tempo scaduto
+Vittoria per abbandono
+Pareggio
+Giocatore 2
+Giocatore 3
+Giocatore 4
+/
+Non ci sono Video Lotta.[0x000A][0x000A]Puoi registrare fino a 100 lotte affrontate,[0x000A]ad esempio, nel Punto Lotta o nelle lotte in link.[0x000A]Guardando i Video Lotta puoi analizzare[0x000A]le sfide per escogitare nuove strategie[0x000A]e prepararti alle prossime lotte!
+Lotta in link
+Punto Lotta
+Albero della Lotta
+Stadio Royale
+Gara Online
+Gara in Diretta
+Gara Privata
+Attiva il Registradati
+Cerca Video Lotta
+Rendi pubblico un Video Lotta
+Sì
+No
+Seleziona e cancella
+Cancella
+ Risultati
+Turno precedente
+Turno successivo
+Esci
+Prova a usare il Registradati!
+Cosa vuoi fare?
+Controllo scheda SD in corso.[0x000A]Non spegnere la console.
+I dati dei Video Lotta danneggiati sono[0x000A]stati cancellati.{0xBE01}
+Verifica del server in corso.[0x000A]Non spegnere la console.
+Adesso il Registradati è collegato a Internet.{0xBE01}
+Hai selezionato {0x0202,0x0000} Video Lotta.[0x000A]Vuoi davvero cancellarl{0x1101,0x0000,0x0101}oi?
+Cancellazione in corso.[0x000A]Non spegnere la console.
+Cancellazione completata.{0xBE01}
+Scegli una Squadra Lotta per la lotta simulata.{0xBE01}
+Se rendi pubblico il Video Lotta, non potrai[0x000A]ritirarlo prima di domani.{0xBE01}[0x000A]Vuoi rendere pubblico questo Video Lotta[0x000A]su Internet?
+Non puoi rendere pubblico questo Video Lotta.{0xBE01}
+Invio del Video Lotta in corso.[0x000A]Non spegnere la console.
+Il Video Lotta è stato reso pubblico su Internet.{0xBE01}
+Vuoi che questo Video Lotta non sia più[0x000A]visibile pubblicamente?
+Questo Video Lotta non potrà essere[0x000A]ritirato fino a domani.{0xBE01}
+Il Video Lotta non è più visibile pubblicamente.{0xBE01}
+Vuoi davvero cancellare questo Video Lotta?
+Ricerca Video Lotta in corso.
+Nessun Video Lotta trovato.{0xBE01}
+Per guardare questo Video Lotta,[0x000A]devi aggiornare i dati.
+Impossibile riprodurre questo Video Lotta.{0xBE01}
+Avvio della riproduzione in corso.[0x000A]Attendi...
+Scegli un avversario per la lotta simulata.{0xBE01}
+Ritiro del Video Lotta in corso.[0x000A]Non spegnere la console.
+Cambio scena.[0x000A]Attendi...
+Collegamento in corso.[0x000A]Attendi...
+Lotta in Singolo
+Lotta in Doppio
+Battle Royale
+Lotta Multipla
+Lotta in link
+Punto Lotta
+Albero della Lotta
+Stadio Royale
+{0x011A,0x0000}
+Lotta Aperta
+Lotta a Punteggio
+Lotta Speciale
+Lotta in Singolo
+Lotta in Doppio
+Lotta Multipla
+Superlotta in Singolo
+Superlotta in Doppio
+Superlotta Multipla
+Livello Normale
+Livello Super
+Livello Iper
+Livello Master
+{0x011A,0x0000}
+Sconfitta per KO
+Sconfitta per tempo scaduto
+Sconfitta per abbandono
+1° posto
+2° posto
+3° posto
+4° posto
+Lotta WCS
+Non puoi rendere pubblici altri Video Lotta:[0x000A]hai raggiunto il massimo di dieci.{0xBE01}[0x000A]Per rendere pubblici nuovi Video Lotta, ritirane[0x000A]o cancellane alcuni tra quelli già pubblicati.{0xBE01}

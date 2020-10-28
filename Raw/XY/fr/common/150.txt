@@ -1,0 +1,42 @@
+{0x0202,0x0000}
+{0x0202,0x0000}
+{0x0202,0x0000}
+Oui
+Non
+Voulez-vous sauvegarder cette photo[0xE07F]?
+Photo sauvegardée dans[0x000A]l’appareil photo Nintendo 3DS.
+Si vous ne sauvegardez pas la photo, elle sera[0x000A]effacée. Voulez-vous vraiment continuer[0xE07F]?
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+N.
+x 1,0
+x 1,2
+x 1,4
+x 1,6
+x 1,8
+x 2,0
+x 2,2
+x 2,4
+x 2,6
+x 2,8
+x 3,0
+x 3,2
+x 3,4
+x 3,6
+x 3,8
+x 4,0
+Sauvegarde en cours[0xE08D][0x000A]Ne pas éteindre la console.
+{0xBDFF:0x0023}
+La photo a été sauvegardée dans[0x000A]l’appareil photo Nintendo 3DS.{0xBE01}[0x000A]Attention[0xE07F]!{0xBE01}[0x000A]La taille de cette photo est trop[0x000A]importante.{0xBE01}[0x000A]Il est impossible de l’envoyer[0x000A]sur le Pokémon Global Link.
+Espace insuffisant sur la carte SD.{0xBE01}[0x000A]Les données photo n’ont pas pu[0x000A]être sauvegardées.
+La réserve de photos de l’appareil photo[0x000A]Nintendo 3DS est pleine.{0xBE01}[0x000A]Les données photo n’ont pas pu être[0x000A]sauvegardées.
+Des fichiers endommagés ont été découverts[0x000A]sur la carte SD. Effacement en cours[0xE08D]{0xBE01}[0x000A]Les données photo n’ont pas pu être[0x000A]sauvegardées.
+Les données photo n’ont pas pu[0x000A]être sauvegardées.
+{0xBDFF:0x0029}

@@ -1,0 +1,111 @@
+Connected to local wireless communication
+Connected to the Internet
+Press the Y Button to Quit
+Battle
+Trade
+Press the Y Button to Participate
+Block List
+Link Trade
+GTS
+Wonder Trade
+Link Battle
+Visit the Battle Spot
+Download Rules
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+Single Battle
+Double Battle
+Multi Battle
+Battle Royal
+Press the Y Button to Add
+Yes
+No
+Wireless communication is disabled.
+{0xBDFF:0x0018}
+Accept
+Would you like to quit playing in Festival Plaza?
+Quitting...[0x000A]Please wait.
+{0x0100,0x0000} is inviting you to a[0x000A]Single Battle.
+{0x0100,0x0000} is inviting you to a[0x000A]Double Battle.
+{0x0100,0x0000} is inviting you to a[0x000A]Multi Battle.
+{0x0100,0x0000} is inviting you to a[0x000A]Battle Royal.
+What would you like to do?
+What would you like to do?
+Decide the method for seeking participants.
+Which battle would you like to do?
+If you add a person to your block list, you won’t[0x000A]receive communication from the person.{0xBE01}[0x000A]Would you like to add this person to your[0x000A]block list?
+Your block list has been updated.{0xBE01}
+You couldn’t add the person to your block list[0x000A]because your SD Card is full.{0xBE01}[0x000A]Please close the game and make some space on[0x000A]your SD Card.
+You are requesting a Single Battle.
+You are requesting a Double Battle.
+You are requesting a Multi Battle.
+You are requesting a Battle Royal.
+Everybody accepted!
+{0x0100,0x0000} accepted!
+{0x0100,0x0000} turned down the request.{0xBE01}
+Seeking participants...
+You received a request from {0x0100,0x0000}!
+Would you like to quit seeking battle[0x000A]participants?
+Would you like to withdraw your request?
+You withdrew your request.
+The connection has been interrupted.{0xBE01}
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+Ending the mission...[0x000A]Please wait.
+Wireless communication is currently disabled.{0xBE01}[0x000A]The process will end because communication[0x000A]can’t be established.{0xBE01}
+{0xBDFF:0x0038}
+Accepting...[0x000A]Please wait.
+The connection has been lost.{0xBE01}
+{0xBDFF:0x003B}
+{0xBDFF:0x003C}
+{0xBDFF:0x003D}
+{0xBDFF:0x003E}
+Preparing...[0x000A]Please wait.
+Requesting a Link Trade...
+{0x0100,0x0000} is inviting you to Link Trade.
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}
+{0xBDFF:0x0046}
+“{0x01B5,0x0000}” is ongoing. Tap if you want to participate.
+{0xBDFF:0x0048}
+Wireless communication is currently disabled.[0x000A][0x000A]Please turn wireless communication on.
+You can’t have a Link Trade or trade at the GTS[0x000A]because your previous Link Trade or trade at[0x000A]the GTS was interrupted due to a communication[0x000A]error or power interruption.[0x000A][0x000A]{0xFF00,0x0002}Please wait a while, and then try again to trade.{0xFF00,0x0000}
+You can’t trade because you don’t have two or[0x000A]more Pokémon in your party.[0x000A][0x000A]Please get your Pokémon ready, and then[0x000A]start trading.
+You can’t take back the Pokémon you deposited[0x000A]in the GTS because your party and Boxes[0x000A]are full.[0x000A][0x000A]Please make space in your Box, and then start[0x000A]trading at the GTS.
+You can’t have a Double Battle because you[0x000A]don’t have two Pokémon.[0x000A][0x000A]Please get your Pokémon ready, and then start[0x000A]a Double Battle.
+You can’t connect to the Internet due to your[0x000A]Parental Controls settings.
+{0xBDFF:0x004F}
+{0xBDFF:0x0050}
+{0xBDFF:0x0051}
+{0xBDFF:0x0052}
+{0xBDFF:0x0053}
+{0xBDFF:0x0054}
+{0xBDFF:0x0055}
+{0xBDFF:0x0056}
+{0xBDFF:0x0057}
+{0xBDFF:0x0058}
+{0xBDFF:0x0059}
+{0xBDFF:0x005A}
+{0xBDFF:0x005B}
+{0xBDFF:0x005C}
+Time Left
+{0x0201,0x0000}
+{0x0200,0x0000}
+/
+{0x0100,0x0000}
+---
+Would you like to quit this mission?
+{0x0201,0x0000} : {0x0201,0x0001}
+{0x01B5,0x0000}
+Time Remaining:
+Total Score:
+Individual Score:
+Participants:
+{0x0201,0x0000}
+:
+{0x0204,0x0000,0x002C}
+{0x0202,0x0000}
+Press the Y Button to Quit

@@ -1,0 +1,11 @@
+¿Cómo te llamas?
+¿Qué mote quieres ponerle a <var>?
+Introduce el código o la contraseña.
+¿Cómo se llama tu rival?
+Introduce un nombre.
+Ese texto no está permitido.
+
+
+Introduce un nombre.
+Código o contraseña incorrectos.
+No puedes usar "<var>" en un nombre.

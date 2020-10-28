@@ -1,0 +1,5 @@
+msg_ui_common_text_01=已读取备份数据。[0x000A]在写入记录时，[0x000A]将覆盖在该数据上，敬请注意。
+msg_ui_common_text_02=没有备份数据，[0x000A]无法读取。[0x000A]将返回标题界面。
+msg_ui_common_text_03=正在记录……
+msg_ui_common_text_04=记录已损坏。[0x000A]请从主机中删除[0x000A]保存记录。
+msg_ui_common_text_05={0xBDFF:0x0004}

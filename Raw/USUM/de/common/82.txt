@@ -1,0 +1,84 @@
+Ja
+Nein
+Insel-Scanner
+QR Code-Scanner
+{0x0101,0x0000}
+{0x0104,0x0000}
+Größe:
+Gewicht:
+Ausgangsort des Signals:
+Mele-Mele
+Akala
+Ula-Ula
+Poni
+{0x0105,0x0000}
+Restzeit:
+{0x0201,0x0000}:{0x0201,0x0001}
+Willst du die Anleitung für den QR Code-Scanner[0x000A]lesen?
+Die Kamera-Anwendung wird gestartet...
+Richte den QR Code innerhalb des Quadrates[0x000A]aus, während du das Lupen-Symbol berührst.
+Die Wirkung des Insel-Scanners hat[0x000A]nachgelassen.{0xBE01}
+QR Code wird gesucht...
+Einlesen des QR Code-Bildes fehlgeschlagen.[0x000A]Bitte versuche es noch einmal.
+QR Code wird eingelesen...
+Möglicherweise gibt es ein Problem mit der[0x000A]Kamera-Anwendung deines Systems.{0xBE01}[0x000A]Manchmal können solche Probleme durch einen[0x000A]Neustart des Systems behoben werden.{0xBE01}
+Einlesen des QR Code-Bildes[0x000A]wurde unterbrochen.{0xBE01}
+Dieser QR Code enthält Daten zu einem[0x000A]Pokémon, das in der Alola-Region lebt.{0xBE01}[0x000A]Sein Pokédex-Eintrag wurde aktualisiert.{0xBE01}
+Dieser QR Code enthält Daten zu einem[0x000A]Pokémon, das in der Alola-Region lebt.{0xBE01}
+Dieser QR Code enthält Daten zu einem[0x000A]Pokémon, das nicht in der Alola-Region lebt.{0xBE01}
+Dieser QR Code kann nicht eingelesen werden.{0xBE01}
+Dieser QR Code kann nicht mit diesem System[0x000A]eingelesen werden.{0xBE01}
+Dieser QR Code kann nicht mit[0x000A]Pokémon Ultrasonne oder Pokémon Ultramond{0xBE00}[0x000A]eingelesen werden.{0xBE01}[0x000A]Bitte versuche es mit einem anderen Spiel[0x000A]aus der Pokémon-Hauptspieleserie.{0xBE01}
+Du hast {0x0201,0x0000} Punkt{0x1101,0x0000,0x0100}e erhalten!{0xBE01}
+Dein Gesamtpunktestand beträgt nun {0x0202,0x0000}.{0xBE01}
+{0xBDFF:0x0021}
+Du hast 100 Punkte gesammelt![0x000A]Der Insel-Scanner ist nun einsatzbereit.{0xBE01}
+Du kannst keine weiteren QR Code-Bilder[0x000A]einlesen, da dein Punktestand nicht ausreicht.
+Ein Spezial-QR Code wurde eingelesen.{0xBE01}
+Dieser QR Code kann erst eingelesen werden,[0x000A]wenn du Champ bist.{0xBE01}
+Dieser QR Code wurde bereits eingelesen.{0xBE01}[0x000A]Lies unterschiedliche QR Code-Bilder ein,[0x000A]um deinen Punktestand zu erhöhen.{0xBE01}
+Du hast 100 Punkte gesammelt![0x000A]Der Insel-Scanner ist nun einsatzbereit.
+{0x0105,0x0000} wird nach[0x000A]seltenen Pokémon abgesucht...
+Dein Punktestand reicht nicht aus, um den[0x000A]Insel-Scanner einzusetzen.{0xBE01}[0x000A]Lies QR Code-Bilder ein, um deinen Punktestand[0x000A]zu erhöhen!{0xBE01}
+{0xBDFF:0x002A}
+Suche in der angegebenen Gegend nach dem[0x000A]Pokémon in der Silhouette!
+Ein seltenes Pokémon wurde geortet!{0xBE01}
+Es hält sich offenbar kein seltenes Pokémon[0x000A]in der Umgebung auf...{0xBE01}
+Lies mit dem QR Code-Scanner QR Code-Bilder[0x000A]ein, um Pokémon-Daten zu erhalten![0x000A][0x000A]Nach Einsatz des QR Code-Scanners musst du[0x000A]zwei Stunden warten, um ihn erneut verwenden[0x000A]zu können. Liest du danach keinen QR Code ein,[0x000A]kannst du auf diese Weise bis zu zehn[0x000A]Nutzungen des QR Code-Scanners ansparen.
+Liest du einen QR Code ein, steigt dein[0x000A]Punktestand.[0x000A][0x000A]Erreichst du einen Punktestand von 100,[0x000A]kannst du ein Mal den Insel-Scanner einsetzen.
+Mit dem Insel-Scanner kannst du die gesamte[0x000A]Insel, auf der du dich gerade befindest, nach[0x000A]seltenen Pokémon absuchen.[0x000A][0x000A]Hat der Insel-Scanner eines geortet, solltest du[0x000A]so schnell wie möglich versuchen, es zu fangen,[0x000A]bevor das Signal verloren geht.
+Aber das ist noch nicht alles![0x000A][0x000A]Dein Pokédex enthält QR Code-Bilder für deine[0x000A]gefangenen Pokémon.[0x000A]So können deine Freunde Daten aus deinem[0x000A]Pokédex einlesen und umgekehrt!
+{0xBDFF:0x0032}
+{0xBDFF:0x0033}
+Die Kamera-Anwendung wird gestartet...
+Richte den QR Code innerhalb des Quadrates[0x000A]aus, während du das Lupen-Symbol berührst.
+QR Code wird gesucht...
+Daten werden eingelesen...
+Dieser QR Code ist fehlerhaft. Es konnten[0x000A]keine Daten eingelesen werden.{0xBE01}
+Die Daten des QR Code-Bildes wurden[0x000A]eingelesen.{0xBE01}
+Dies ist ein Freundesturnier-QR Code.{0xBE01}
+Dies ist ein Hautnahturnier-QR Code.{0xBE01}
+Dies ist ein Kampfteam-QR Code.{0xBE01}
+Dieser QR Code enthält Pokémon-Daten.{0xBE01}
+Bitte lies einen Kampfteam-QR Code ein.{0xBE01}
+Bitte lies einen Freundesturnier-QR Code ein.{0xBE01}
+Bitte lies einen Hautnahturnier-QR Code ein.{0xBE01}
+Die Daten können nicht eingelesen werden, da[0x000A]sich deine Spielsynchro ID nicht mit ihnen deckt.{0xBE01}
+Die Daten konnten nicht eingelesen werden.{0xBE01}
+Die Daten können nicht mit diesem System[0x000A]eingelesen werden.{0xBE01}
+Dieser QR Code kann nicht mit[0x000A]Pokémon Ultrasonne oder Pokémon Ultramond{0xBE00}[0x000A]eingelesen werden.{0xBE01}[0x000A]Bitte versuche es mit einem anderen Spiel[0x000A]aus der Pokémon-Hauptspieleserie.{0xBE01}
+{0x0202,0x0000} Pkt.
+Dein Punktestand beträgt 100!{0xBE01}[0x000A]Der Insel-Scanner ist nun einsatzbereit!{0xBE01}
+{0x0204,0x0000,0xE07F}
+QR Code-Bilder eingelesen:
+Die Kamera-Anwendung wird beendet.
+Diese Daten gehören zu einem Pokémon,[0x000A]das in der Alola-Region lebt.{0xBE01}[0x000A]Deine Pokédex-Daten wurden aktualisiert.{0xBE01}[0x000A]Du hast ein besonderes Geschenk erhalten!{0xBE01}[0x000A]Hole es dir von unserem Lieferanten im[0x000A]Antiquariat Allerlei im Einkaufszentrum von{0xBE00}[0x000A]Hauholi City ab!{0xBE01}
+Diese Daten gehören zu einem Pokémon,[0x000A]das in der Alola-Region lebt.{0xBE01}[0x000A]Du hast ein besonderes Geschenk erhalten!{0xBE01}[0x000A]Hole es dir von unserem Lieferanten im[0x000A]Antiquariat Allerlei im Einkaufszentrum von{0xBE00}[0x000A]Hauholi City ab!{0xBE01}
+Diese Daten gehören zu einem Pokémon,[0x000A]das in der Alola-Region lebt.{0xBE01}
+Du hast einen Wunder-QR Code eingelesen!{0xBE01}
+Du hast einen QR Code eingelesen, der Daten[0x000A]für den Alola-Pokédex enthält.{0xBE01}
+Æther-Paradies
+Ultradimension
+Dieser QR Code kann erst eingelesen werden,[0x000A]wenn du die nächste Insel erreichst.{0xBE01}
+Diese Daten gehören zu einem Pokémon,[0x000A]das in der Alola-Region lebt.{0xBE01}[0x000A]Deine Pokédex-Daten wurden aktualisiert.{0xBE01}[0x000A]Du hast ein besonderes Geschenk erhalten!{0xBE01}[0x000A]Hole es dir von unserem Lieferanten im[0x000A]Pikachu-Tal auf Akala ab!{0xBE01}
+Diese Daten gehören zu einem Pokémon,[0x000A]das in der Alola-Region lebt.{0xBE01}[0x000A]Du hast ein besonderes Geschenk erhalten!{0xBE01}[0x000A]Hole es dir von unserem Lieferanten im[0x000A]Pikachu-Tal auf Akala ab!{0xBE01}

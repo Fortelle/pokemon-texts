@@ -1,0 +1,9 @@
+msg_deoxys_01=Deoxys reagiert auf den Meteoriten...{0xBE01}[0x000A]Möchtest du dein Deoxys näher[0x000A]an den Meteoriten heranführen?
+msg_deoxys_02=Welches Deoxys möchtest du näher an den[0x000A]Meteoriten heranführen?
+msg_deoxys_03=Dieses Pokémon reagiert nicht auf den[0x000A]Meteoriten.
+msg_deoxys_04=Das Ei reagiert nicht auf den Meteoriten.
+msg_deoxys_05=Die Form von {0x0102,0x0000} hat sich[0x000A]geändert. Es ist jetzt ausgeglichener!
+msg_deoxys_06=Die Form von {0x0102,0x0000} hat sich[0x000A]geändert. Sein Angriff ist nun überragend!
+msg_deoxys_07=Die Form von {0x0102,0x0000} hat sich[0x000A]geändert. Seine Verteidigung ist nun tadellos!
+msg_deoxys_08=Die Form von {0x0102,0x0000} hat sich[0x000A]geändert. Seine Initiative wurde erhöht!
+msg_deoxys_09=Da liegt ein geheimnisvoller Meteorit,[0x000A]der aus dem Weltall herabgestürzt ist...

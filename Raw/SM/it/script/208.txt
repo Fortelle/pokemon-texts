@@ -1,0 +1,48 @@
+Bene, {0x0100,0x0000}, cominciamo[0x000A]con la prova.{0xBE01}[0x000A]Faccio partire il PokéDomin_evoc_2.0...{0x0114,0x0010}
+Per aprire la porta, rispondi a questa domanda.{0xBE01}[0x000A]Cosa indica questo suono?
+Un Centro Pokémon
+Uno strumento ottenuto
+Un Pokémon che si evolve
+Fammelo risentire...
+Risposta esatta! La porta si apre...
+Gruuu gruu!
+Ah! Un Pokémon si è intrufolato nella stanza![0x000A]È tutto tuo, {0x0100,0x0000}! Buona fortuna!{0x0114,0x0010}
+Grande, {0x0100,0x0000}!{0xBE01}[0x000A]Acc...! La porta si è richiusa!{0x0114,0x0010}
+Non perdiamo la calma...[0x000A]Il Pokémon dominante arriverà...{0x0114,0x0010}
+Rilevata la presenza di un Pokémon dominante[0x000A]in lontananza!
+Uaaaaaaaah!{0xBE01}[0x000A]Argh... Hai sbagliato... ed è scattato il sistema[0x000A]di sicurezza...{0xBE01}[0x000A]Sniff sniff... Sento odore di bruciato...[0x000A]Niente paura, sono un tipo tosto, io!{0x0114,0x0010}
+Non preoccuparti, Chrys![0x000A]Sistemerò il problema in quattro e quattr’otto!{0x0114,0x001C}
+Per aprire la porta, rispondi a questa domanda.{0xBE01}[0x000A]Cosa indica questo suono?
+Una MT
+Il Pokédex Rotom
+Una bacca
+Fammelo risentire...
+Risposta esatta! La porta si apre...
+Charjaaa!
+Ah! Un Pokémon si è intrufolato nella stanza![0x000A]{0x0100,0x0000}, tocca a te! Buona fortuna!{0x0114,0x0010}
+Fantastico, {0x0100,0x0000}!{0xBE01}[0x000A]Acc...! La porta si è richiusa!{0x0114,0x0010}
+Non perdiamo la calma...[0x000A]Il Pokémon dominante arriverà...{0x0114,0x0010}
+Pokémon dominante in avvicinamento!
+Uaaaaaaaah!{0xBE01}[0x000A]Se sbagli scatta il sistema di sicurezza[0x000A]e mi becco un elettroshock!{0xBE01}[0x000A]Ohi ohi... Mi sento un po’ intorpidito...{0x0114,0x0010}
+Chrys, che strana voce che hai...[0x000A]Resisti! Ci sono quasi!{0x0114,0x001C}
+Il sistema di sicurezza è stato parzialmente[0x000A]disattivato.{0xBE01}[0x000A]Per aprire la porta, rispondi a questa domanda.{0xBE01}[0x000A]Chi fa questo verso?
+I Pyukumuku
+I Charjabug
+I Grubbin
+Fammelo risentire...
+Risposta esatta! La porta si apre...
+Attenzione... Suspense... Vediamo chi entrerà...{0x0114,0x0010}
+Charjaaa!
+L-Lo sapevo! Vabbè... Vai, {0x0100,0x0000}![0x000A]Tocca di nuovo a te!{0x0114,0x0010}
+Strepitoso, {0x0100,0x0000}!{0xBE01}[0x000A]Ah! Acciderboli! La porta si è chiusa di nuovo![0x000A]Sto perdendo colpi...{0x0114,0x0010}
+Ci siamo... Sento che il Pokémon dominante[0x000A]è vicino...{0x0114,0x0010}
+Il Pokémon dominante è vicinissimo!
+Uaaaaaaaah!{0xBE01}[0x000A]Se sbagli scatta il sistema di sicurezza[0x000A]e mi becco un elettroshock!{0xBE01}[0x000A]Tapso! Qui finisce che mi trasformo in un[0x000A]Pokémon di tipo Elettro!{0x0114,0x0010}
+Ancora?!?! Ma allora lo fai apposta![0x000A]Ohi ohi...{0xBE01}[0x000A]Se sbagli, scatta il sistema di sicurezza[0x000A]e mi becco un elettroshock!{0xBE01}[0x000A]Tapso! Qui finisce che mi trasformo in un[0x000A]Pokémon di tipo Elettro!{0x0114,0x0010}
+Niente paura, Chrys! I Pokémon Elettro non[0x000A]possono essere paralizzati!{0x0114,0x001C}
+Bzzz!
+Aah! È saltata la luce!{0x0114,0x0010}
+Acciderboli! La porta si è chiusa!{0xBE01}[0x000A]Per disattivare il sistema di sicurezza[0x000A]e riaprirla...{0x0114,0x0010}
+non ci resta che affidarci al nostro udito!{0x0114,0x0010}
+Tu-Tutto secondo i p-piani, tranquill{0x1100,0x00FF,0x0101}oa...[0x000A]Credo che abbia funzionato...{0xBE01}[0x000A]Avverto come una presenza imponente...[0x000A]Il Pokémon dominante sta arrivando!{0x0114,0x0010}
+B-Bene, andiamo avanti con la prova, ok?{0x0114,0x0010}

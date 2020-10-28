@@ -1,0 +1,111 @@
+Bei der GTS kannst du deine Pokémon auf einem[0x000A]Server ablegen und so mit Spielern aus aller Welt[0x000A]tauschen.[0x000A][0x000A]・Pokémon suchen[0x000A]Ein Tausch wird möglich, wenn du ein Pokémon[0x000A]hast, das die Kriterien des Anbieters erfüllt.[0x000A]・Pokémon ablegen[0x000A]Ein Tausch wird möglich, wenn du das Pokémon[0x000A]angeboten bekommst, nach dem du suchst.
+Der Status der GTS wird überprüft...
+Das abgelegte Pokémon wurde getauscht!{0xBE01}
+Willkommen bei der GTS![0x000A]Was möchtest du tun?
+Dein abgelegtes Pokémon kommt zurück.{0xBE01}
+{0xBD02}Achtung![0x000A][0x000A]{0xBD02}Kommt es bei der Abwicklung eines Tausches[0x000A]{0xBD02}zu einem Verbindungsfehler oder wird das[0x000A]{0xBD02}System abgeschaltet, kannst du für kurze Zeit[0x000A]{0xBD02}keine Pokémon mehr tauschen.
+Möchtest du die GTS verlassen?
+Wähle ein Wunsch-Pokémon aus.{0xBE01}
+Die Suche hat keine Treffer erzielt.{0xBE01}
+Welche Art von Pokémon suchst du?
+Wähle das Geschlecht.
+Wähle den Level.
+Möchtest du auch Spieler einbeziehen, die nach[0x000A]Mysteriösen oder Legendären Pokémon suchen?
+Die Suchkriterien haben keine Treffer geliefert.{0xBE01}
+Bitte wähle einen Tauschpartner.
+Datenübertragung wird ausgeführt...[0x000A]Bitte warte einen Moment.
+Dein Wunsch-Pokémon wird gesucht...
+Mit diesem Pokémon gibt es ein Problem.{0xBE01}
+Dieses Pokémon wurde bereits getauscht.{0xBE01}
+Willst du {0x0102,0x0000} zurücknehmen?
+Nach manueller Eingabe eines Pokémon-Namens[0x000A]ist keine Geschlechterauswahl möglich.{0xBE01}
+Bitte wähle die Kriterien aus.
+Nach Wunsch-Pokémon des Partners filtern
+Nach Region des Tauschpartners filtern
+Wähle ein Wunsch-Pokémon aus, bevor du[0x000A]ein Pokémon in der GTS ablegst.{0xBE01}
+Nach weiteren Treffern wird gesucht...[0x000A]Bitte warte einen Moment.
+Wähle ein Wunsch-Pokémon aus.{0xBE01}
+Es wurden keine weiteren Treffer gefunden.[0x000A]Die Suchergebnisse wurden aktualisiert.{0xBE01}
+Es wurden keine weiteren Treffer gefunden.{0xBE01}[0x000A]Bitte wähle ein neues Pokémon aus,[0x000A]nach dem gesucht werden soll.{0xBE01}
+{0xBDFF:0x001D}
+{0xBDFF:0x001E}
+{0xBDFF:0x001F}
+{0xBDFF:0x0020}
+Bitte wähle eine Nachricht, die dem[0x000A]Tauschpartner ausgerichtet werden soll.
+{0xBD02}Achtung![0x000A][0x000A]{0xBD02}Kommt es beim Ablegen eines Pokémon zu[0x000A]{0xBD02}einem Verbindungsfehler oder wird das System[0x000A]{0xBD02}abgeschaltet, kannst du für kurze Zeit keine[0x000A]{0xBD02}Pokémon mehr tauschen.
+{0xBD02}Achtung![0x000A][0x000A]{0xBD02}Kommt es beim Zurücknehmen eines Pokémon[0x000A]{0xBD02}zu einem Verbindungsfehler oder wird das[0x000A]{0xBD02}System abgeschaltet, kannst du für kurze Zeit[0x000A]{0xBD02}keine Pokémon mehr tauschen.
+Die Verbindung wird beendet...[0x000A]Bitte warte einen Moment.
+Wähle aus, welches Pokémon du willst.
+Pokémon suchen
+Pokémon ablegen
+Bericht von {0x0102,0x0000}
+Gesucht
+{0x0101,0x0000}
+Geschlecht
+Level
+Optionen
+Mit diesen Kriterien suchen
+Beenden
+　
+Egal
+{0xBDFF:0x0032}
+{0xBDFF:0x0033}
+Egal
+1-10
+11-20
+21-30
+31-40
+41-50
+51-60
+61-70
+71-80
+81-90
+91 oder höher
+Selbst eingeben
+In Suche einbeziehen
+Von Suche ausschließen
+Vom Tauschpartner gewünschtes Pokémon
+Egal
+Eigene Pokémon
+Region
+Dieselbe Region wie deine
+Eine andere Region als deine
+Nach diesen Suchkriterien filtern
+Zurücknehmen
+Beenden
+Pokémon suchen
+{0x0100,0x0000}
+{0x0124,0x0000}
+{0x0125,0x0000}
+Informationen zum abgelegten Pokémon
+{0x0102,0x0000}
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+l
+{0xBDFF:0x0054}
+Item
+Keines
+{0x0109,0x0000}
+Nachricht von {0x0100,0x0000}
+{0x0202,0x0000}
+{0x0202,0x0000}
+O.K.
+Hallo! Lass uns tauschen!
+Ich bin auf der Suche nach einem Pokémon,[0x000A]das mir auf meinem Abenteuer weiterhilft!
+Ich bin auf der Suche nach einem Pokémon,[0x000A]das in Kämpfen zu Hochtouren aufläuft!
+Ich bin auf der Suche nach einem Pokémon,[0x000A]das von Ei auf trainiert wurde!
+Ich möchte meinen Pokédex vervollständigen!
+Ich möchte den Pokédex in einer anderen[0x000A]Sprache vervollständigen!
+Ich bin auf der Suche nach einem Pokémon[0x000A]mit einem tollen Spitznamen.
+Dieses Pokémon habe ich mit viel Liebe trainiert.[0x000A]Wenn du möchtest, tausche ich es mit dir.
+Dieses Pokémon ist gerade erst geschlüpft.[0x000A]Bitte kümmere dich gut darum.
+Dieses Pokémon habe ich so trainiert,[0x000A]dass es in Kämpfen besonders stark ist.
+In diesem Pokémon schlummern große Kräfte.[0x000A]Wenn du möchtest, tausche ich es mit dir.
+{0xBDFF:0x0067}
+{0xBDFF:0x0068}
+{0xBDFF:0x0069}
+{0xBDFF:0x006A}
+{0xBDFF:0x006B}
+{0xBDFF:0x006C}
+{0xBDFF:0x006D}
+{0xBDFF:0x006E}

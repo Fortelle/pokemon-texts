@@ -1,0 +1,15 @@
+msg_sub032_youngf_01={0xBDFF:0x0000}
+msg_sub032_youngf_02=Parfois, je vais jusqu’à Argenta pour faire[0x000A]mes courses.{0xBE01}[0x000A]La route qui permet d’y aller serpente à travers[0x000A]la Forêt de Jade.
+msg_sub032_oldm_01={0xBDFF:0x0002}
+msg_sub032_oldm_02=C’est un Pokédex que tu as là ?{0xBE01}[0x000A]Ça tombe bien, j’ai un excellent conseil à[0x000A]te donner pour le remplir !{0xBE01}[0x000A]Fais donc un tour à la Boutique Pokémon[0x000A]et achète tout plein de Poké Balls !
+msg_sub032_musashi_01={0xFF00,0x0009}??? :{0xFF00,0x0000} Ah non ! Non, non, non ![0x000A]On ne passe pas !{0xBE01}[0x000A]On est en train de monter la garde, alors n’essaie[0x000A]pas de passer en douce !
+msg_sub032_musashi_02={0xFF00,0x0009}??? :{0xFF00,0x0000} On t’a dit que le chemin était barré ![0x000A]Du balai ! Va faire joujou ailleurs !
+msg_sub032_kojiro_01={0xFF00,0x0009}??? :{0xFF00,0x0000} Mais qu’est-ce que tu nous veux, sale[0x000A]morveu{0x1100,0x00FF,0x0201}xse ?! Va voir ailleurs, si on y est !
+msg_sub032_kojiro_02={0xFF00,0x0009}??? :{0xFF00,0x0000} Les missions où il faut monter la garde,[0x000A]c’est d’un ennui... T’imagines pas.{0xBE01}[0x000A]Qu’est-ce que je donnerais pas pour aller traîner[0x000A]à la Boutique Pokémon, à la place...
+msg_sub032_nyasu_01={0xFF00,0x0009}Miaouss :{0xFF00,0x0000} Miaouuu...
+msg_oyaji4_01_p03_field_t002={0xBDFF:0x0009}
+msg_oyaji4_01_p04_field_t002={0xBDFF:0x000A}
+msg_oyaji4_01_p05_field_t002={0xBDFF:0x000B}
+msg_oyaji4_01_p06_field_t002={0xBDFF:0x000C}
+msg_oyaji4_01_p07_field_t002={0xBDFF:0x000D}
+msg_oyaji4_01_p08_field_t002={0xBDFF:0x000E}

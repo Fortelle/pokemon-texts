@@ -1,0 +1,19 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+Qui ci sono dei funghi![0x000A]Quale vuoi prendere?
+Il Minifungo
+Il Grande Fungo
+Il Minifungo viene messo nel Portaingredienti.
+{0x0100,0x0000} tenta di prendere[0x000A]il Grande Fungo...
+Il Grande Fungo attacca!
+Eccomi qui![0x000A]Che bello, hai trovato un Minifungo!{0x0114,0x000E}
+Alcune persone ne vanno davvero matte.[0x000A]Se lo assaggi, capirai il perché!{0x0114,0x000E}
+Yeee! Hai trovato tutti gli ingredienti!{0xBE01}[0x000A]Bene, mano alle padelle![0x000A]Ti aspetto all’entrata della giungla.{0x0114,0x000E}
+Ti manca solo un ingrediente![0x000A]Un ultimo sforzo!{0x0114,0x000E}
+Ti mancano due ingredienti![0x000A]Dai, non mollare!{0x0114,0x000E}
+Altri tre ingredienti da trovare![0x000A]Continua così!{0x0114,0x000E}

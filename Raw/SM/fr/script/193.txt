@@ -1,0 +1,15 @@
+Tiens, {0x0100,0x0000}[0xE07F]?[0x000A]Quelle joie de te revoir[0xE07F]!{0xBE01}[0x000A]Mais n’avais-tu pas rendez-vous avec[0x000A]le Professeur au Parc de Malié[0xE07F]?{0x0114,0x0006}
+Je peux te demander un service,[0x000A]{0x0100,0x0000}[0xE07F]?{0x0114,0x0006}
+Piou[0xE07F]?
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+Tu veux visiter les ruines[0xE07F]?
+Ça concerne Doudou[0xE07F]?
+Comment dire... J’aimerais emmener Doudou[0x000A]voir les ruines...{0xBE01}[0x000A]Je t’aurais bien demandé de m’accompagner,[0x000A]mais elles sont au fin fond d’un désert...{0xBE00}[0x000A]Je ne voudrais pas abuser de ta gentillesse.{0x0114,0x0006}
+P-par contre, est-ce que ça te dérangerait[0x000A]de venir avec moi à la Bibliothèque de Malié[0xE07F]?{0xBE01}[0x000A]Il y a un ouvrage qui m’intéresse, là-bas.[0x000A]On pourrait le chercher ensemble.{0x0114,0x0006}
+C’est facile de se rendre à la bibliothèque[0xE07F]!{0xBE01}[0x000A]Elle est au milieu de la ville, même moi je devrais[0x000A]réussir à la trouver[0xE07F]!{0x0114,0x0006}
+Piou[0xE07F]!

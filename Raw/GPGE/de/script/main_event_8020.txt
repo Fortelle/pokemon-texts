@@ -1,0 +1,16 @@
+msg_main8020_volt_01=Willkommen in der Arena von Orania City,[0x000A]Rekrut{0x1100,0x00FF,0x0200,0x0000}in!
+msg_main8020_volt_07=Wen haben wir denn hier... Ein Winzling wie du[0x000A]will den Major herausfordern?!
+msg_main8020_volt_08=Haha! Du hast ganz schön Mumm, mit deinem[0x000A]halbgaren Team gegen mich kämpfen zu wollen!
+msg_main8020_volt_09=Pokémon-Kämpfe sind nichts für Weichlinge.
+msg_main8020_volt_10=Wenn ich mit dir fertig bin, wird der Schock tief[0x000A]sitzen, Rekrut{0x1100,0x00FF,0x0200,0x0000}in.
+msg_gymleader_03_07={0xBDFF:0x0005}
+msg_main8020_volt_02=Ausgezeichnete Arbeit, Rekrut{0x1100,0x00FF,0x0200,0x0000}in!{0xBE01}[0x000A]Für deine Leistungen verleihe ich dir hiermit[0x000A]den Donnerorden. Stillgestanden!
+msg_main8020_sys_01=Du erhältst den {0xFF00,0x0006}Donnerorden{0xFF00,0x0000} von Major Bob!
+msg_main8020_volt_03=Es war mir eine Ehre, dich auszubilden!{0xBE01}[0x000A]Damit du dich immer an meine Worte erinnerst,[0x000A]gebe ich dir auch das hier mit auf den Weg.
+msg_main8020_sys_02=Du erhältst ein {0xFF00,0x0006}Autogramm {0xFF00,0x0000}von Major Bob!
+msg_main8020_volt_04=Nicht ganz das, was du erwartet hast, hm?
+msg_main8020_volt_11=Hahaha! Keine Sorge, das ist noch nicht alles.
+msg_main8020_sys_03=Du erhältst {0x0109,0x0001} {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000} von Major Bob!
+msg_main8020_volt_05=Die TM36 enthält die Attacke Donnerblitz.{0xBE01}[0x000A]Bring sie deinen Elektro-Pokémon bei und dir[0x000A]wird jede Mission gelingen.{0xBE01}[0x000A]Verstanden, Rekrut{0x1100,0x00FF,0x0200,0x0000}in?
+msg_main8020_volt_06=Ein kleiner Hinweis für das nächste Gefecht:{0xBE01}[0x000A]Elektrizität ist enorm mächtig, aber ihre Kraft[0x000A]wird von Boden-Pokémon einfach absorbiert.{0xBE01}[0x000A]Wenn du also gegen Boden-Pokémon ins Feld[0x000A]ziehst, lässt du dir besser eine andere Taktik{0xBE00}[0x000A]einfallen!
+msg_gymleader_03_06={0xBDFF:0x000F}

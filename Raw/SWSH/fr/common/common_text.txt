@@ -1,0 +1,5 @@
+msg_ui_common_text_01=La sauvegarde de secours a été chargée.[0x000A]Attention : Lorsque vous sauvegarderez[0x000A]votre partie, ces données seront sauvegardées.
+msg_ui_common_text_02=Chargement impossible, car il n’y a aucune[0x000A]sauvegarde de secours.[0x000A]Retour à l’écran titre.
+msg_ui_common_text_03=Sauvegarde en cours...
+msg_ui_common_text_04=Les données de sauvegarde[0x000A]sont corrompues.[0x000A]Veuillez les supprimer de la console.
+msg_ui_common_text_05={0xBDFF:0x0004}

@@ -1,0 +1,10 @@
+sub_event_040_null_01=ムゴゥッ！
+sub_event_040_leaguestaff_F_01=エレクトロメモリ……　オン！[0x000A]電気代……　節約！
+sub_event_040_null_02=グムゥ……？
+sub_event_040_leaguestaff_F_07=やっぱり　タイプ：ヌルを[0x000A]進化させないと　ムリか……
+sub_event_040_leaguestaff_F_02=あっ　チャンピオンの　{0x0100,0x0000}さん[0x000A]あらためまして{0xBE00}[0x000A]優勝　おめでとうございます！
+sub_event_040_leaguestaff_F_03=お祝いに　珍しい　ポケモンの[0x000A]タイプ：ヌルを　進呈いたします！
+sub_event_040_leaguestaff_F_04=あと　こちらの　メモリも
+sub_event_040_system_01={0x0100,0x0000}は[0x000A]いろんなメモリ　を　もらった！
+sub_event_040_leaguestaff_F_05=タイプ：ヌルは　進化すると[0x000A]持たせる　メモリによって{0xBE00}[0x000A]タイプが　変わります
+sub_event_040_leaguestaff_F_06=あっ　チャンピオンさん！[0x000A]タイプ：ヌル　元気に　してます？

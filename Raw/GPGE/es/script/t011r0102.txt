@@ -1,0 +1,7 @@
+msg_t011r0102_poke_01={0xFF00,0x0009}Doduo:{0xFF00,0x0000} ¡Dodu!{0xBE01}[0x000A](¡Espejo, espejito! ¿Quién es la más bella de[0x000A]todas?)
+msg_t011r0102_poke_02={0xBDFF:0x0001}
+msg_t011r0102_game_01=Hay un juego con montones de Pokémon[0x000A]cúbicos.
+msg_t011r0102_pc_01="Estos son mis secretos.{0xBE01}[0x000A]Habilidad: imitar.[0x000A]Pokémon favorito: Clefairy.{0xBE01}[0x000A]Lo malo es que Clefairy es tan poco común que[0x000A]nunca he conseguido verlo con mis propios ojos.{0xBE01}[0x000A]¡Ojalá lo logre algún día!".
+msg_t011r0102_doll_01=Es un peluche de Clefairy. Está bastante[0x000A]deteriorado.
+msg_t011r0102_doll_02=Es un peluche de Clefairy. Está bastante[0x000A]deteriorado.
+msg_t011r0102_doll_03=Es un peluche de Clefairy. Está bastante[0x000A]deteriorado.

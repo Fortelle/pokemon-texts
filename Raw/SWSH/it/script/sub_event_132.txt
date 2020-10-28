@@ -1,0 +1,12 @@
+sub_event_132_newmove_00=Sento che hai talento...[0x000A]Ma hai ancora molta strada da fare.{0xBE01}[0x000A]Torna a trovarmi quando sarai Campione{0x1100,0x00FF,0x0300}ssa!
+sub_event_132_newmove_01=Wow! Sei diventat{0x1100,0x00FF,0x0101}oa Campione{0x1100,0x00FF,0x0300}ssa!{0xBE01}[0x000A]Vuoi che insegni a uno dei tuoi Pokémon[0x000A]la fenomenale mossa {0x0107,0x0001}?
+sub_event_132_newmove_02=Vabbè! Alla prossima!
+sub_event_132_newmove_04=Mmmh, mi dispiace, ma nessuno dei tuoi[0x000A]Pokémon può impararla...
+sub_event_132_newmove_05=Perfetto! A quale Pokémon vuoi che la insegni?
+sub_event_132_newmove_06=Mi dispiace, ma non posso insegnarla[0x000A]a {0x0102,0x0001}...
+sub_event_132_newmove_07=Guarda che le Uova non possono mica[0x000A]imparare mosse!
+sub_event_132_newmove_08={0x0102,0x0001} conosce già questa mossa!
+sub_event_132_newmove_10=Quale mossa vuoi che dimentichi?
+sub_event_132_newmove_sys_01={0x0102,0x0000} impara {0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+sub_event_132_newmove_sys_02=Uno,{0xBE02:0x0014} due{0xBE02:0x0014} e{0xBE02:0x0014}...{0xBE02:0x0014} ta-daaaa!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} dimentica {0x0107,0x0001}!{0xBE01}[0x000A]Al suo posto...{0xBE01}[0x000A]{0x0102,0x0000} impara {0x0107,0x0002}!{0xBE05,0x0004}{0xBE05,0x0001}
+sub_event_132_newmove_09=La mossa Raggio d’Acciaio ha una potenza così[0x000A]impressionante che danneggia anche chi la usa!

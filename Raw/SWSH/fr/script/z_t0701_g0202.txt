@@ -1,0 +1,14 @@
+msg_t0701_g0202_tennokoe01_pop=Allô ?[0x000A]Tu m’entends ? Oui ? Parfait.
+msg_t0701_g0202_tennokoe02_pop=Reste calme et avance.
+msg_t0701_g0202_tennokoe03_pop=Très bien !
+msg_t0701_g0202_tennokoe04_pop=N’aie pas peur...
+msg_t0701_g0202_tennokoe05_pop=Attention, tu pénètres[0x000A]dans le blizzard...
+msg_t0701_g0202_tennokoe06_pop=Garde ton sang-froid[0x000A]et continue ta route !
+msg_t0701_g0202_tennokoe07_pop=Ne va pas trop vite...
+msg_t0701_g0202_tennokoe08_pop=Tu y es presque...[0x000A]Ne te déconcentre pas !
+msg_t0701_g0202_tennokoe09_pop=Oh, tu t’es perdu{0x1100,0x00FF,0x0100}e ?[0x000A]Pauvre bichette !
+msg_t0701_g0202_tennokoe10_pop=Hâte-toi,[0x000A]mais hâte-toi lentement !
+msg_t0701_g0202_tennokoe11_pop=Ne relâche pas ton attention ![0x000A]Reste concentré{0x1100,0x00FF,0x0100}e !
+msg_t0701_g0202_tennokoe12_pop=Fantastique ![0x000A]Tout bonnement fantastique !
+msg_t0701_g0202_tennokoe13_pop=Tu peux être fi{0x1100,0x00FF,0x0302}erère de toi !
+msg_t0701_g0202_tennokoe14_pop=Tu n’as pas pris froid,[0x000A]j’espère ?

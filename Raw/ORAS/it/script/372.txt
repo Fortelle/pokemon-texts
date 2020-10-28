@@ -1,0 +1,9 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+Computer: Scansione dell’iride in corso...{0xBE01}[0x000A]ERRORE. ACCESSO NEGATO.{0xBE01}[0x000A]L’accesso a Ciclanova è riservato esclusivamente[0x000A]al personale autorizzato.
+Computer: Scansione dell’iride in corso...{0xBE01}[0x000A]Scansione completata.{0xBE01}[0x000A]Accesso alla struttura sbloccato.
+Sul computer c’è un pulsante. Vuoi premerlo?
+Computer: Benvenut{0x1100,0x00FF,0x0101}oa.{0xBE01}[0x000A]Questo è il sistema centrale di controllo di Ciclanova.[0x000A]Analisi del sistema di sorveglianza in corso...{0xBE01}[0x000A]...
+Analisi completata.{0xBE01}[0x000A]Stato del sistema di sorveglianza: OK[0x000A]Anomalie registrate: NESSUNA{0xBE01}[0x000A]Trasmissione risultati analisi in corso...
+La porta è chiusa. Non si smuove di un millimetro...

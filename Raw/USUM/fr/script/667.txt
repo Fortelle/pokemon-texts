@@ -1,0 +1,14 @@
+... T’es prête[0xE07F]?{0x0114,0x003E}
+Plante, Feu, Eau[0xE07F]!{0x0114,0x003F}
+Zut, j’me souviens plus...{0x0114,0x003E}
+Entre le type Feu et le type Eau, qui gagne[0xE07F]?{0x0114,0x003F}
+Entre le type Feu et le type Plante, qui gagne[0xE07F]?{0x0114,0x003F}
+Entre le type Eau et le type Feu, qui gagne[0xE07F]?{0x0114,0x003F}
+Entre le type Eau et le type Plante, qui gagne[0xE07F]?{0x0114,0x003F}
+Entre le type Plante et le type Feu, qui gagne[0xE07F]?{0x0114,0x003F}
+Entre le type Plante et le type Eau, qui gagne[0xE07F]?{0x0114,0x003F}
+Le type Feu
+Le type Eau
+Le type Plante
+Ah bah oui, c’est ça[0xE07F]![0x000A]Tu en sais, des choses[0xE07F]!{0x0114,0x003F}
+Vraiment[0xE07F]?[0x000A]Ah[0xE07F]! Tu me fais marcher[0xE07F]!{0x0114,0x003E}

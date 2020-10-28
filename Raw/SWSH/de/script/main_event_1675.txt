@@ -1,0 +1,5 @@
+main_event_1675_stuff_01=Hallo, {0x0100,0x0000}.[0x000A]Wir haben dich schon erwartet.{0xBE01}[0x000A]Da du beim Vorturnier erfolgreich warst,[0x000A]trittst du als Nächstes mit sieben Arenaleitern{0xBE00}[0x000A]zum Finalturnier an.{0xBE01}[0x000A]Diesmal werden sie sich nicht zurückhalten!{0xBE01}[0x000A]Wenn du es schaffst, das Turnier zu gewinnen,[0x000A]trittst du schließlich dem Champ gegenüber.{0xBE01}[0x000A]Möchtest du den Wartebereich betreten?
+main_event_1675_select_01=Ja!
+main_event_1675_select_02=Noch nicht...
+main_event_1675_stuff_02=Gerne. Bitte hier entlang.
+main_event_1675_stuff_03=Kein Problem. Sag einfach Bescheid,[0x000A]wenn du bereit bist.

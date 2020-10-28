@@ -1,0 +1,16 @@
+msg_main0950_president_01={0xFF00,0x0009}Président : {0xFF00,0x0000}Merci d’avoir sauvé la Sylphe,[0x000A]mon garçon ! Je te dois une fière chandelle.
+msg_main0950_president_02={0xFF00,0x0009}Président : {0xFF00,0x0000}Merci d’avoir sauvé la Sylphe,[0x000A]jeune fille ! Je te dois une fière chandelle.
+msg_main0950_partner_a_01=Pika pika !
+msg_main0950_partner_b_01=Évo ! Vo !
+msg_main0950_president_08={0xFF00,0x0009}Président : {0xFF00,0x0000}Ha ha ha ! Je vois ! Je VOUS dois[0x000A]une fière chandelle, à ton Pokémon et à toi.
+msg_main0950_president_05=Merci encore. Je n’oublierai jamais votre exploit !
+msg_main0950_president_06=Tu mérites une récompense !{0xBE01}[0x000A]Ne sois pas gêné{0x1100,0x00FF,0x0100}e, cela me fait plaisir ! Et ne[0x000A]t’en fais pas, je peux largement me le permettre.{0xBE01}[0x000A]Tiens... Je pense que cela te plaira !
+msg_main0950_sys_01=Vous obtenez la {0xFF00,0x0006}Master Ball{0xFF00,0x0000} !
+msg_main0950_president_03={0xFF00,0x0009}Président : {0xFF00,0x0000}C’est notre dernier prototype secret :[0x000A]la Master Ball.
+msg_main0950_president_07=Elle te permettra d’attraper n’importe quel[0x000A]Pokémon à coup sûr.
+msg_main0950_president_09=C’est le seul et unique exemplaire qui existe,[0x000A]ce qui signifie qu’elle n’est en vente nulle part.{0xBE01}[0x000A]Utilise-la donc avec sagesse !
+msg_main0950_president_04={0xFF00,0x0009}Président : {0xFF00,0x0000}Tiens ! Revoilà notre jeune sauveu{0x1100,0x00FF,0x0201}rse ![0x000A]Merci encore pour ton aide !
+msg_main0950_president_10={0xFF00,0x0009}Président : {0xFF00,0x0000}Attends, attends !{0xBE01}[0x000A]Laisse-moi une chance de te remercier pour[0x000A]tout ce que tu as fait pour nous !
+msg_workerm1_01_p04_cave_d1011={0xBDFF:0x000D}
+msg_main0950_stafff_01={0xFF00,0x0009}Secrétaire : {0xFF00,0x0000}Merci de nous avoir tous sauvés ![0x000A]Ton courage est exemplaire !
+msg_main0950_stafff_02={0xFF00,0x0009}Secrétaire : {0xFF00,0x0000}Une Poké Ball qui permet de[0x000A]capturer n’importe quel Pokémon à coup sûr...{0xBE01}[0x000A]Ce n’est pas un objet à placer entre toutes[0x000A]les mains. Mais toi, tu es exceptionnel{0x1100,0x00FF,0x0200}le !{0xBE01}[0x000A]Si le président te l’a confiée, c’est qu’il a[0x000A]entièrement confiance en toi.

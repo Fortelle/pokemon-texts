@@ -1,0 +1,269 @@
+
+
+Período (UTC): 
+en curso
+terminado
+Del {0x0201,0x0002}-{0x0201,0x0001}-20{0x0201,0x0000} {0x0201,0x0003}:{0x0201,0x0004} al {0x0201,0x0007}-{0x0201,0x0006}-20{0x0201,0x0005} {0x0201,0x0008}:{0x0201,0x0009}
+Objetivo
+{0x0209,0x0000,0xE07F}
+A fecha de {0x0201,0x0002}-{0x0201,0x0001}-20{0x0201,0x0000} ({0x0201,0x0003}:{0x0201,0x0004})
+Récord actual de {0x0100,0x0000}
+Récord de {0x0100,0x0000}
+{0x0203,0x0000,0xE07F}
+Recompensa:
+{0x0204,0x0000,0xE07F} - {0x0204,0x0001,0xE07F} FM
+{0x0205,0x0000,0xE07F} FM
+{0xFF00,0x0002}No estás participando{0xFF00,0x0000}
+¡Has logrado un nuevo récord!
+{0xFF00,0x0002}Fecha de recepción: {0x0201,0x0002}-{0x0201,0x0001}-20{0x0201,0x0000} ({0x0201,0x0003}:{0x0201,0x0004}){0xFF00,0x0000}
+Resultado final
+{0xFF00,0x0002}Recibe tu recompensa en el mostrador.{0xFF00,0x0000}
+Participar
+Comprobando la información...[0x000A]Espera unos instantes.
+Actualizando la información...[0x000A]Espera unos instantes.
+¿Quieres participar en este minijuego global?
+Se ha actualizado la información relativa al[0x000A]minijuego global.{0xBE01}
+Te has inscrito en el minijuego global.{0xBE01}[0x000A]Si consigues un récord nuevo en este minijuego,[0x000A]sus registros se actualizarán al seleccionar la{0xBE00}[0x000A]opción “Comprobar” cuando hables con la{0xBE00}[0x000A]asistente de la Festi Plaza, o bien mediante la{0xBE00}[0x000A]función Sincronizar Juego.{0xBE01}
+En este momento no se está celebrando ningún[0x000A]minijuego global.{0xBE01}
+Ha llegado una recompensa de un minijuego[0x000A]global.{0xBE01}[0x000A]Habla con la chica de la Festi Plaza para[0x000A]recibirla.{0xBE01}
+No se ha podido actualizar el minijuego global[0x000A]porque el servidor está experimentando un{0xBE00}[0x000A]volumen de tráfico demasiado elevado.{0xBE01}[0x000A]Inténtalo de nuevo más tarde.{0xBE01}
+No se ha podido registrar tu participación en[0x000A]el minijuego global porque el servidor está{0xBE00}[0x000A]experimentando un volumen de tráfico{0xBE00}[0x000A]demasiado elevado.{0xBE01}[0x000A]Inténtalo de nuevo más tarde.{0xBE01}
+{0x01B5,0x0000}
+Tiempo restante
+Puntuación total
+Puntuación individual
+N.º de participantes
+{0x0201,0x0000}
+:
+{0x0204,0x0000,0xE07F}
+{0x0202,0x0000}
+Abandonar
+Saluda a Entrenadores veteranos
+Rompe el hielo con Entrenadores principiantes
+Encuentra a los Entrenadores enamorados
+Encuentra a los Entrenadores solitarios
+Círculo de amistades masculino
+Círculo de amistades femenino
+Busca a hermanos o hermanas mayores
+Busca a hermanos o hermanas medianos
+Busca a hermanos o hermanas menores
+Busca a hijos únicos
+Lo importante es el interior
+Lo importante es la apariencia
+Los secretos están para guardarlos
+Los secretos están para contarlos
+Ocio es sinónimo de relax hogareño
+Ocio es sinónimo de actividades al aire libre
+A la caza de fans
+Una gran fiesta de disfraces
+Esta tómbola es de lo mejorcito
+Esta ludoteca es de lo mejorcito
+Esta casa del terror es de lo mejorcito
+Esta tapería es de lo mejorcito
+Esta tienda de regalos es de lo mejorcito
+Esta carpa del porvenir es de lo mejorcito
+Esta tintorería es de lo mejorcito
+{0xBDFF:0x0041}
+{0xBDFF:0x0042}
+Aprende japonés
+Aprende inglés
+Aprende francés
+Aprende italiano
+Aprende alemán
+Aprende español
+Aprende coreano
+Aprende chino tradicional y simplificado
+Intercambio cultural
+Las apariencias engañan
+Fieles a ellos mismos
+{0xBDFF:0x004E}
+{0xBDFF:0x004F}
+{0xBDFF:0x0050}
+{0xBDFF:0x0051}
+{0xBDFF:0x0052}
+Presume de músculos
+{0xBDFF:0x0054}
+Embiste y destruye las rocas
+{0xBDFF:0x0056}
+El rojo levanta pasiones
+El verde levanta pasiones
+El naranja levanta pasiones
+El violeta levanta pasiones
+El amarillo levanta pasiones
+El azul levanta pasiones
+El marino levanta pasiones
+El rosa levanta pasiones
+Compatibilidad de tipos
+{0xBDFF:0x0060}
+Compatibilidad inversa de tipos
+{0xBDFF:0x0062}
+Busca a entusiastas del tipo Normal (1)
+Busca a entusiastas del tipo Fuego (1)
+Busca a entusiastas del tipo Agua (1)
+Busca a entusiastas del tipo Eléctrico (1)
+Busca a entusiastas del tipo Planta (1)
+Busca a entusiastas del tipo Hielo (1)
+Busca a entusiastas del tipo Lucha (1)
+Busca a entusiastas del tipo Veneno (1)
+Busca a entusiastas del tipo Tierra (1)
+Busca a entusiastas del tipo Volador (1)
+Busca a entusiastas del tipo Psíquico (1)
+Busca a entusiastas del tipo Bicho (1)
+Busca a entusiastas del tipo Roca (1)
+Busca a entusiastas del tipo Fantasma (1)
+Busca a entusiastas del tipo Dragón (1)
+Busca a entusiastas del tipo Siniestro (1)
+Busca a entusiastas del tipo Acero (1)
+Busca a entusiastas del tipo Hada (1)
+Busca a entusiastas del tipo Normal (2)
+Busca a entusiastas del tipo Fuego (2)
+Busca a entusiastas del tipo Agua (2)
+Busca a entusiastas del tipo Eléctrico (2)
+Busca a entusiastas del tipo Planta (2)
+Busca a entusiastas del tipo Hielo (2)
+Busca a entusiastas del tipo Lucha (2)
+Busca a entusiastas del tipo Veneno (2)
+Busca a entusiastas del tipo Tierra (2)
+Busca a entusiastas del tipo Volador (2)
+Busca a entusiastas del tipo Psíquico (2)
+Busca a entusiastas del tipo Bicho (2)
+Busca a entusiastas del tipo Roca (2)
+Busca a entusiastas del tipo Fantasma (2)
+Busca a entusiastas del tipo Dragón (2)
+Busca a entusiastas del tipo Siniestro (2)
+Busca a entusiastas del tipo Acero (2)
+Busca a entusiastas del tipo Hada (2)
+Busca a personas que lleven 5 años o más[0x000A]jugando a Pokémon y preséntales tus respetos.[0x000A][0x000A]Si quieres conseguir tu objetivo, familiarízate[0x000A]con tus vips y ten en cuenta estas palabras:[0x000A]“Tengo mucha experiencia con los Pokémon.”[0x000A]
+Busca a personas que lleven 5 años o menos[0x000A]jugando a Pokémon y diles algo.[0x000A][0x000A]Si quieres conseguir tu objetivo, familiarízate[0x000A]con tus vips y ten en cuenta estas palabras:[0x000A]“No tengo mucha experiencia con los Pokémon.”[0x000A]
+Busca a personas a las que les guste alguien[0x000A]y habla con ellas.[0x000A][0x000A]Si quieres conseguir tu objetivo, familiarízate[0x000A]con tus vips y ten en cuenta estas palabras:[0x000A]“¡Me gusta alguien!”
+Busca a personas a las que no les guste nadie[0x000A]ahora mismo y habla con ellas.[0x000A][0x000A]Si quieres conseguir tu objetivo, familiarízate[0x000A]con tus vips y ten en cuenta estas palabras:[0x000A]“No me gusta nadie.”
+Busca a personas que tengan muchos amigos[0x000A]varones y entabla una conversación animada.[0x000A][0x000A]Si quieres conseguir tu objetivo, familiarízate[0x000A]con tus vips y ten en cuenta estas palabras:[0x000A]“Tengo muchos amigos chicos.”
+Busca a personas que tengan muchas amigas[0x000A]y entabla una conversación animada.[0x000A][0x000A]Si quieres conseguir tu objetivo, familiarízate[0x000A]con tus vips y ten en cuenta estas palabras:[0x000A]“Tengo muchas amigas chicas.”
+Busca a personas que sean mayores que sus[0x000A]hermanos o hermanas y háblales.[0x000A][0x000A]Si quieres conseguir tu objetivo, familiarízate[0x000A]con tus vips y ten en cuenta estas palabras:[0x000A]“No tengo hermanos o hermanas mayores.”[0x000A]
+Busca a personas que sean los hermanos[0x000A]medianos de la familia y háblales.[0x000A][0x000A]Si quieres conseguir tu objetivo, familiarízate[0x000A]con tus vips y ten en cuenta estas palabras:[0x000A]“Tengo hermanos mayores y menores.”[0x000A]
+Busca a personas que sean menores respecto[0x000A]a sus hermanos o hermanas y háblales.[0x000A][0x000A]Si quieres conseguir tu objetivo, familiarízate[0x000A]con tus vips y ten en cuenta estas palabras:[0x000A]“No tengo hermanos o hermanas menores.”[0x000A]
+Busca a personas que sean hijos únicos y[0x000A]háblales.[0x000A][0x000A]Si quieres conseguir tu objetivo, familiarízate[0x000A]con tus vips y ten en cuenta estas palabras:[0x000A]“No tengo hermanos ni hermanas.”[0x000A]
+Encuentra a personas que valoren más el[0x000A]interior que el aspecto de los demás.[0x000A][0x000A]Si quieres conseguir tu objetivo, familiarízate[0x000A]con tus vips y ten en cuenta estas palabras:[0x000A]“La belleza está en el interior.”
+Encuentra a personas que valoren más el[0x000A]aspecto que el interior de los demás.[0x000A][0x000A]Si quieres conseguir tu objetivo, familiarízate[0x000A]con tus vips y ten en cuenta estas palabras:[0x000A]“El aspecto de una persona es primordial.”
+Busca a personas que mantengan siempre los[0x000A]secretos a buen recaudo.[0x000A][0x000A]Si quieres conseguir tu objetivo, familiarízate[0x000A]con tus vips y ten en cuenta estas palabras:[0x000A]“No soy de revelar secretos.”
+Busca a personas que se vayan de la lengua[0x000A]a la mínima cuando conocen un secreto.[0x000A][0x000A]Si quieres conseguir tu objetivo, familiarízate[0x000A]con tus vips y ten en cuenta estas palabras:[0x000A]“Soy incapaz de guardarme un secreto.”
+Haz una encuesta para saber cuántas personas[0x000A]prefieren pasar el tiempo libre entre 4 paredes.[0x000A][0x000A]Si quieres conseguir tu objetivo, familiarízate[0x000A]con tus vips y ten en cuenta estas palabras:[0x000A]“Mi tiempo libre lo paso en casa.”
+Haz una encuesta para saber cuántas personas[0x000A]prefieren pasar el tiempo libre fuera de casa.[0x000A][0x000A]Si quieres conseguir tu objetivo, familiarízate[0x000A]con tus vips y ten en cuenta estas palabras:[0x000A]“Estoy fuera de casa siempre que puedo.”[0x000A]
+Tus fans se han disfrazado de ti para mezclarse[0x000A]con el resto de visitantes de la Festi Plaza.[0x000A]¡Encuéntralos!
+Tus fans han organizado un concurso de[0x000A]disfraces en tu honor, pero algunos no acaban[0x000A]de encajar. Encuentra a los fans despistados y[0x000A]avísalos.
+Capta clientes para la tómbola.[0x000A][0x000A]Cumplirás tu objetivo si el establecimiento es[0x000A]de su agrado.
+Capta clientes para la ludoteca.[0x000A][0x000A]Cumplirás tu objetivo si el establecimiento es[0x000A]de su agrado.
+Capta clientes para la casa del terror.[0x000A][0x000A]Cumplirás tu objetivo si el establecimiento es[0x000A]de su agrado.
+Capta clientes para la tapería.[0x000A][0x000A]Cumplirás tu objetivo si el establecimiento es[0x000A]de su agrado.
+Capta clientes para la tienda de regalos.[0x000A][0x000A]Cumplirás tu objetivo si el establecimiento es[0x000A]de su agrado.
+Capta clientes para la carpa del porvenir.[0x000A][0x000A]Cumplirás tu objetivo si el establecimiento es[0x000A]de su agrado.
+Capta clientes para la tintorería.[0x000A][0x000A]Cumplirás tu objetivo si el establecimiento es[0x000A]de su agrado.
+{0xBDFF:0x00A0}
+{0xBDFF:0x00A1}
+Saluda a la gente que esté jugando en japonés.[0x000A][0x000A]Estas frases podrían serte de ayuda:[0x000A]- “Konnichiwa!”[0x000A]- “Arigato!”[0x000A]- “Sayonara!”
+Saluda a la gente que esté jugando en inglés.[0x000A][0x000A]Estas frases podrían serte de ayuda:[0x000A]- “Hello!”[0x000A]- “Thank you!”[0x000A]- “Bye!”
+Saluda a la gente que esté jugando en francés.[0x000A][0x000A]Estas frases podrían serte de ayuda:[0x000A]- “Salut!”[0x000A]- “Merci!”[0x000A]- “Au revoir!”
+Saluda a la gente que esté jugando en italiano.[0x000A][0x000A]Estas frases podrían serte de ayuda:[0x000A]- “Buongiorno!”[0x000A]- “Grazie!”[0x000A]- “Ciao!”
+Saluda a la gente que esté jugando en alemán.[0x000A][0x000A]Estas frases podrían serte de ayuda:[0x000A]- “Guten Tag!”[0x000A]- “Danke!”[0x000A]- “Tschüss!”
+Saluda a la gente que esté jugando en español.[0x000A][0x000A]Estas frases podrían serte de ayuda:[0x000A]- “¡Hola!”[0x000A]- “¡Gracias!”[0x000A]- “¡Adiós!”
+Saluda a la gente que esté jugando en coreano.[0x000A][0x000A]Estas frases podrían serte de ayuda:[0x000A]- “Annyeong haseyo!”[0x000A]- “Komawo!”[0x000A]- “Annyeong hikaseyo!”
+Saluda a la gente que esté jugando en chino[0x000A]tradicional o simplificado.[0x000A][0x000A]Estas frases podrían serte de ayuda:[0x000A]- “Nihao!”[0x000A]- “Xiexie!”[0x000A]- “Zaijian!”
+Busca a jugadores que hablen un idioma[0x000A]diferente al tuyo.[0x000A][0x000A]Para encontrarlos, presta atención a saludos y[0x000A]palabras de agradecimiento en idiomas[0x000A]extranjeros.
+Busca a gente que lleve gafas y se haya tapado[0x000A]la cabeza para disfrazarse.
+Busca a gente que se muestre tal como es, sin[0x000A]disfrazarse con gorros ni gafas, por ejemplo.
+{0xBDFF:0x00AD}
+{0xBDFF:0x00AE}
+{0xBDFF:0x00AF}
+{0xBDFF:0x00B0}
+{0xBDFF:0x00B1}
+Alardea ante los demás del aspecto imponente[0x000A]que tenéis Machamp y tú.[0x000A][0x000A]Conseguirás tu objetivo si os ensalzan[0x000A]suficientes veces como un dúo ideal.[0x000A][0x000A]La clave está en buscar a aquellas personas[0x000A]que desprendan felicidad.
+Alardea ante los demás del aspecto imponente[0x000A]que tenéis Machamp y tú.[0x000A][0x000A]Conseguirás tu objetivo si os ensalzan[0x000A]suficientes veces como un dúo ideal.[0x000A][0x000A]La clave está en buscar a aquellas personas[0x000A]que desprendan felicidad.
+Súbete a Tauros y haz añicos todas las rocas[0x000A]que aparezcan en la Festi Plaza.
+Súbete a Tauros y haz añicos todas las rocas[0x000A]que aparezcan en la Festi Plaza.
+Encuentra a aquellas personas que hayan teñido[0x000A]de rojo todos sus artículos.[0x000A][0x000A]Ten presentes estos colores:[0x000A]- Rojo Pastel[0x000A]- Rojo Oscuro[0x000A]- Rojo Intenso
+Encuentra a aquellas personas que hayan teñido[0x000A]de verde todos sus artículos.[0x000A][0x000A]Ten presentes estos colores:[0x000A]- Verde Pastel[0x000A]- Verde Oscuro[0x000A]- Verde Intenso
+Encuentra a aquellas personas que hayan teñido[0x000A]de naranja todos sus artículos.[0x000A][0x000A]Ten presentes estos colores:[0x000A]- Naranja Pastel[0x000A]- Naranja Oscuro[0x000A]- Naranja Intenso
+Encuentra a aquellas personas que hayan teñido[0x000A]de violeta todos sus artículos.[0x000A][0x000A]Ten presentes estos colores:[0x000A]- Violeta Pastel[0x000A]- Violeta Oscuro[0x000A]- Violeta Intenso
+Encuentra a aquellas personas que hayan teñido[0x000A]de amarillo todos sus artículos.[0x000A][0x000A]Ten presentes estos colores:[0x000A]- Amarillo Pastel[0x000A]- Amarillo Oscuro[0x000A]- Amarillo Intenso
+Encuentra a aquellas personas que hayan teñido[0x000A]de azul todos sus artículos.[0x000A][0x000A]Ten presentes estos colores:[0x000A]- Azul Pastel[0x000A]- Azul Oscuro[0x000A]- Azul Intenso
+Encuentra a aquellas personas que hayan teñido[0x000A]de marino todos sus artículos.[0x000A][0x000A]Ten presentes estos colores:[0x000A]- Marino Pastel[0x000A]- Marino Oscuro[0x000A]- Marino Intenso
+Encuentra a aquellas personas que hayan teñido[0x000A]de rosa todos sus artículos.[0x000A][0x000A]Ten presentes estos colores:[0x000A]- Rosa Pastel[0x000A]- Rosa Oscuro[0x000A]- Rosa Intenso
+Disputa un duelo sobre compatibilidad de tipos[0x000A]contra otra persona. Elige un tipo de movimiento[0x000A]que sea supereficaz contra el tipo del rival.
+{0xBDFF:0x00BF}
+Disputa un duelo sobre compatibilidad inversa[0x000A]de tipos contra otra persona. Elige un tipo de[0x000A]movimiento que sea supereficaz contra el tipo[0x000A]del rival.[0x000A][0x000A]Ten en cuenta que los efectos producidos serán[0x000A]los contrarios a los habituales.
+{0xBDFF:0x00C1}
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Normal.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que suelen encontrarse en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Fuego.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que suelen encontrarse en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Agua.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que suelen encontrarse en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Eléctrico.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que suelen encontrarse en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Planta.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que suelen encontrarse en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Hielo.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que suelen encontrarse en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Lucha.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que suelen encontrarse en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Veneno.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que suelen encontrarse en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Tierra.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que suelen encontrarse en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Volador.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que suelen encontrarse en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Psíquico.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que suelen encontrarse en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Bicho.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que suelen encontrarse en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Roca.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que suelen encontrarse en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Fantasma.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que suelen encontrarse en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Dragón.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que suelen encontrarse en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Siniestro.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que suelen encontrarse en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Acero.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que suelen encontrarse en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Hada.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que suelen encontrarse en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Normal.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que no se encuentran en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Fuego.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que no se encuentran en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Agua.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que no se encuentran en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Eléctrico.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que no se encuentran en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Planta.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que no se encuentran en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Hielo.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que no se encuentran en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Lucha.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que no se encuentran en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Veneno.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que no se encuentran en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Tierra.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que no se encuentran en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Volador.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que no se encuentran en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Psíquico.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que no se encuentran en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Bicho.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que no se encuentran en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Roca.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que no se encuentran en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Fantasma.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que no se encuentran en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Dragón.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que no se encuentran en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Siniestro.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que no se encuentran en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Acero.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que no se encuentran en Alola.
+Habla con la gente a la que le gusten los[0x000A]Pokémon de tipo Hada.[0x000A][0x000A]Ten en cuenta que te hablarán sobre los[0x000A]Pokémon que no se encuentran en Alola.
+Captura muchos Pokémon
+Realiza intercambios mediante la GTS
+Haz eclosionar muchos Huevos
+Recolecta Pokéhabas a gogó
+Lúcete con el Pokévisor
+¡Avista Pokémon con el Escáner Insular!
+Atrapa Crabrawler a espuertas
+Haz honor a tu título
+Una pesca singular
+A por la victoria en el Battle Royale
+Tienta a la suerte
+Amasa PB en el Árbol de Combate
+Demuestra cuántos Pokémon salvajes eres capaz de[0x000A]atrapar durante el período indicado.
+Demuestra cuántos intercambios mediante la GTS eres[0x000A]capaz de realizar durante el período indicado.
+Demuestra cuántos Huevos eres capaz de hacer eclosionar[0x000A]durante el período indicado.
+Demuestra cuántas Pokéhabas eres capaz de cosechar en[0x000A]el Poké Resort durante el período indicado.
+Demuestra cuántas fotos de más de 10 000 puntos logras[0x000A]sacar con el Pokévisor.
+Demuestra cuántos Pokémon eres capaz de hallar usando[0x000A]el Escáner Insular.
+Demuestra cuántos Crabrawler escondidos entre las[0x000A]bayas eres capaz de atrapar durante el período indicado.
+Demuestra cuántas veces eres capaz de defender tu título[0x000A]de la Liga Pokémon durante el período indicado.
+Demuestra cuántos objetos y Pokémon logras pescar en los[0x000A]lugares destinados a ello durante el período indicado.
+Demuestra cuántas victorias eres capaz de lograr en el[0x000A]Battle Royale de Nivel Maestro durante el período indicado.
+Demuestra cuántas veces eres capaz de jugar a la lotería[0x000A]en la Festi Plaza o la Oficina de Turismo durante el período[0x000A]indicado.
+Demuestra cuántos PB eres capaz de conseguir en el Árbol[0x000A]de Combate durante el período indicado.
+Sí
+No
+{0x0201,0x0000}:{0x0201,0x0001}
+Calculando...
+El período de inscripción en este minijuego[0x000A]global ha terminado, por lo que ya no puedes{0xBE00}[0x000A]participar.{0xBE01}
+{0xBDFF:0x0103}
+{0xBDFF:0x0104}
+{0xBDFF:0x0105}
+{0xBDFF:0x0106}
+{0xBDFF:0x0107}
+{0xBDFF:0x0108}
+{0xBDFF:0x0109}
+{0xBDFF:0x010A}
+{0xBDFF:0x010B}
+{0xBDFF:0x010C}

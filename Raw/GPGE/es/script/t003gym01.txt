@@ -1,0 +1,7 @@
+msg_t003gym01_gym_01=Tú que aspiras a derrotar a este Líder de[0x000A]Gimnasio, ¿quieres un consejo?
+msg_t003gym01_gym_02=¡Muy bien! ¡Atiende!
+msg_t003gym01_gym_03=El primer Pokémon que saldrá al terreno de[0x000A]combate es el que encabeza tu equipo.{0xBE00}[0x000A]Para entendernos, el de arriba a la izquierda.{0xBE01}[0x000A]Por lo tanto, sé previsor{0x1100,0x00FF,0x0100}a y reorganiza tu equipo[0x000A]si es necesario para obtener la máxima ventaja{0xBE00}[0x000A]en cada situación.
+msg_t003gym01_gym_04=Pues te lo voy a dar igual porque para eso estoy.[0x000A]¡Atiende!
+msg_t003gym01_gym_05=¡Ya sabía yo que tenías madera!{0xBE01}[0x000A]Dentro de nada te veo cruzando esa puerta[0x000A]convertid{0x1100,0x00FF,0x0101}oa en Campe{0x1100,0x00FF,0x0302}ónona. ¡Tú hazme caso, que{0xBE00}[0x000A]yo de eso entiendo!
+msg_t003gym01_statue_01=Gimnasio Pokémon de Ciudad Plateada[0x000A]Líder: Brock{0xBE01}[0x000A]Entrenadores reconocidos:[0x000A]{0x0100,0x0001}
+msg_t003gym01_statue_02=Gimnasio Pokémon de Ciudad Plateada[0x000A]Líder: Brock{0xBE01}[0x000A]Entrenadores reconocidos:[0x000A]{0x0100,0x0001} y {0x0100,0x0000}

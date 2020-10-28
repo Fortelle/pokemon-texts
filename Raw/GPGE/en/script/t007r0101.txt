@@ -1,0 +1,9 @@
+msg_t007r0101_poke_01=MEOWTH: Meow!
+msg_t007r0101_poke_02=CLEFAIRY: Pi pippippi!
+msg_t007r0101_poke_03=NIDORAN♀: Kaaaoooh!
+msg_t007r0101_kanban_01=Celadon Condominiums:[0x000A]Manager’s Office
+msg_t007r0101_oldf_01=Being surrounded by my beloved Pokémon[0x000A]while enjoying some rest and a nice cup of tea...{0xBE01}[0x000A]Moments like these mean the most to me.
+msg_oldwoman1_01_p01_t007_r0101={0xBDFF:0x0005}
+msg_oldwoman1_01_p02_t007_r0101={0xBDFF:0x0006}
+msg_oldwoman1_01_p03_t007_r0101={0xBDFF:0x0007}
+msg_oldwoman1_01_p04_t007_r0101={0xBDFF:0x0008}

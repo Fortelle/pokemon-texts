@@ -1,0 +1,16 @@
+Se vuoi, posso insegnare ai tuoi Pokémon[0x000A]una potentissima mossa di tipo Drago.{0xBE01}[0x000A]Allora, ti interessa?
+Va bene. Se cambi idea,[0x000A]torna a trovarmi.
+Mi spiace...{0xBE01}[0x000A]Tecnicamente potrei insegnare[0x000A]la mossa al tuo Pokémon...{0xBE01}[0x000A]ma non ti è ancora abbastanza[0x000A]affezionato, quindi non posso farlo.
+Ok...{0xBE01}[0x000A]Ma purtroppo nessun Pokémon della tua[0x000A]squadra può imparare questa mossa.
+A chi vuoi che la insegni?
+Oh, che peccato...{0xBE01}[0x000A]Il tuo Pokémon non può[0x000A]imparare questa mossa.
+Mmh...{0xBE01}[0x000A]Non credo proprio che un Uovo[0x000A]possa imparare delle mosse.
+Questo Pokémon conosce già[0x000A]la mossa {0x0107,0x0001}.
+La potenza di Dragobolide è spaventosa!{0xBE01}[0x000A]Ma quando un Pokémon usa questa mossa,[0x000A]il suo Attacco Speciale diminuisce.
+Vuoi rinunciare a insegnare la mossa[0x000A]a {0x0101,0x0000}?
+{0x0101,0x0000} impara {0x0107,0x0001}!
+{0x0101,0x0000} vorrebbe imparare[0x000A]{0x0107,0x0001}...{0xBE01}[0x000A]Ma conosce già quattro mosse.{0xBE01}[0x000A]Vuoi che ne dimentichi una e al suo[0x000A]posto impari {0x0107,0x0001}?
+Vuoi rinunciare a insegnare la mossa[0x000A]{0x0107,0x0001}?
+{0x0101,0x0000} non ha imparato[0x000A]{0x0107,0x0001}!
+Vuoi far dimenticare {0x0107,0x0002}[0x000A]a questo Pokémon?
+Uno,{0xBE02:0x0014} due{0xBE02:0x0014} e{0xBE02:0x0014}...{0xBE02:0x0014} ta-daaaaa!{0xBE05,0x0003}{0xBE05,0x0006}{0xBE01}[0x000A]{0x0102,0x0000} dimentica {0x0107,0x0002}!{0xBE01}[0x000A]E al suo posto...

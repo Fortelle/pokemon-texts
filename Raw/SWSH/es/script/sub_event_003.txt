@@ -1,0 +1,10 @@
+sub_event_003_boy_01=Dicen que hay un tesoro enterrado en algún[0x000A]lugar de Pueblo Hoyuelo.
+sub_event_003_boy_02=Estas son las instrucciones que da el mapa para[0x000A]encontrarlo:{0xBE01}[0x000A]"Examina los megalitos. ¿Los ves?, me pregunto.[0x000A]Planta es tu primera pista.{0xBE01}[0x000A]Luego busca un tipo que contra él no resista.[0x000A]Y, por último, el que completa el conjunto."{0xBE01}[0x000A]...{0xBE01}[0x000A]¡Esto no hay por dónde cogerlo!
+sub_event_003_boy_03=¡¿Cómo?! ¡¿Que has encontrado el tesoro?![0x000A]¡Toma ya! ¡Eres de lo que no hay!
+sub_event_003_system_01=¡Anda! Parece que hay algo grabado en este[0x000A]megalito: "Planta".
+sub_event_003_system_02=¡Anda! Parece que hay algo grabado en este[0x000A]megalito: "Agua".
+sub_event_003_system_03=¡Anda! Parece que hay algo grabado en este[0x000A]megalito: "Fuego".
+sub_event_003_system_04=¡Anda! Parece que hay algo grabado en este[0x000A]megalito: "Volador".
+sub_event_003_system_05=¡Anda! Parece que hay algo grabado en este[0x000A]megalito: "Veneno".
+sub_event_003_system_06=¡Anda! Parece que hay algo grabado en este[0x000A]megalito: "Siniestro".
+sub_event_003_system_07=¡Aquí hay algo enterrado!

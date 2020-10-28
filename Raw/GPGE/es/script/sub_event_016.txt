@@ -1,0 +1,14 @@
+msg_sub016_partner_a_01=¡Pikachu!
+msg_sub016_partner_b_01=¡Viiiii!
+msg_sub016_poke_01_01={0xFF00,0x0009}Slowpoke:{0xFF00,0x0000} Sloooow...
+msg_sub016_poke_02_01={0xFF00,0x0009}Kangaskhan:{0xFF00,0x0000} ¡Kanga!
+msg_sub016_poke_03_01={0xFF00,0x0009}Tauros:{0xFF00,0x0000} ¡Tauuu!
+msg_sub016_partner_a_02=¡Pika, pika!
+msg_sub016_partner_b_02=¡Viiii!
+msg_sub016_angler_01={0xBDFF:0x0007}
+msg_sub016_angler_02={0xBDFF:0x0008}
+msg_sub016_sys_01={0xBDFF:0x0009}
+msg_sub016_angler_03={0xBDFF:0x000A}
+msg_sub016_angler_04={0xBDFF:0x000B}
+msg_sub016_angler_05={0xBDFF:0x000C}
+msg_fishing1_01_p07_t008_r0601={0xBDFF:0x000D}

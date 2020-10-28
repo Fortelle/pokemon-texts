@@ -1,0 +1,8 @@
+main_event_1010_poke1_01=Voltou !
+main_event_1010_assistant_01=Je crois que mon Voltoutou t’apprécie.[0x000A]Quoi qu’il en soit, tu tombes à pic.{0x0114,0x000B}
+main_event_1010_assistant_02=Je suis venue ici pour voir la fameuse fresque[0x000A]d’Old Chister...{0xBE01}[0x000A]On dit qu’elle relate l’histoire du héros de Galar,[0x000A]et ça pourrait m’aider dans mes recherches.{0xBE01}[0x000A]Mais il paraît qu’elle a fait l’objet de travaux de[0x000A]restauration... J’espère qu’elle est quand même{0xBE00}[0x000A]restée fidèle à l’œuvre originale.{0x0114,0x000B}
+main_event_1010_assistant_03=En général, tu as le don pour mettre le doigt[0x000A]sur des détails intéressants, donc j’aimerais bien{0xBE00}[0x000A]que tu m’accompagnes, pour avoir ton avis.{0x0114,0x000B}
+main_event_1010_sound_01=*BRAOUM*
+main_event_1010_assistant_04=Que... C’était quoi, ça ?[0x000A]Ça venait de l’endroit où se trouve la fresque !{0x0114,0x000B}
+main_event_1010_assistant_05=Allons voir ![0x000A]Viens, Voltoutou !{0x0114,0x000B}
+main_event_1010_assistant_06=Qu’est-ce qu’il se passe, là-haut ?!{0x0114,0x000B}

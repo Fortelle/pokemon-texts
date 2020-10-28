@@ -1,0 +1,32 @@
+Ehi, cosa mi racconti {0x0100,0x0000},[0x000A]futur{0x1100,0x00FF,0x0101}oa Campione{0x1100,0x00FF,0x0300}ssa?
+Il Capopalestra di Bluruvia, Rudi, allena Pokémon[0x000A]di tipo Lotta.
+Se lotti contro di lui con Pokémon di tipo Normale,[0x000A]sei nei guai.
+Forza, allora, dacci dentro!
+Ehi! È fin troppo chiaro qui dentro!{0xBE01}[0x000A]E anche il tuo futuro splende!
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+Sono Rudi, il Capopalestra di Bluruvia!
+Ho sfidato l’impeto delle onde di questo mare[0x000A]per diventare più forte...
+Mi sono fatto le ossa in una grotta fuori città,[0x000A]e mi sono allenato con costanza in questa Palestra!
+Hai intenzione di sfidarmi?
+Fammi vedere cosa sai fare!
+{0xBDFF:0x0013}
+Molto bene! Prendi questa Medaglia,[0x000A]te la sei meritata!
+{0x0100,0x0000} riceve la Medaglia Pugno da Rudi.
+Con la Medaglia Pugno ti obbediranno tutti i Pokémon[0x000A]fino al livello 30, compresi quelli ottenuti tramite scambio.
+Ah... Tieni anche questa.[0x000A]Sono sicuro che tu la sfrutterai a dovere.
+Con questa anche i tuoi Pokémon metteranno su[0x000A]un po’ di muscoli.
+Granfisico aumenta temporaneamente la forza[0x000A]muscolare di un Pokémon.{0xBE01}[0x000A]In pratica, le statistiche dell’Attacco e della Difesa[0x000A]aumenteranno notevolmente!
+Prevedo che un giorno il tuo talento diventerà[0x000A]un’onda gigante che causerà una bufera di{0xBE00}[0x000A]sbigottimento tra gli Allenatori.{0xBE01}[0x000A]Aspetterò con impazienza il giorno in cui potrò misurarmi[0x000A]con la tua forza al massimo della sua intensità.
+A proposito, sei stat{0x1100,0x00FF,0x0101}oa nella {0xFF00,0x0002}Grotta Pietrosa{0xFF00,0x0000}[0x000A]che si trova a nord della città?{0xBE01}[0x000A]È un luogo affascinante, pieno di pietre rare[0x000A]e pitture rupestri risalenti a migliaia di anni fa.{0xBE01}[0x000A]Quando l’ho detto a {0xFF00,0x0002}Rocco{0xFF00,0x0000}, un mio amico, ci si[0x000A]è precipitato senza neanche lasciarmi finire di parlare...
+Palestra di Bluruvia
+Palestra di Bluruvia{0xBE01}[0x000A]Allenatori certificati da Rudi:[0x000A]{0x0100,0x0000}
+La notizia della tua vittoria su Rocco è giunta fin qua.{0xBE01}[0x000A]Non credevo che l’onda del tuo talento avrebbe[0x000A]travolto Hoenn così presto!{0xBE01}[0x000A]Da quando ho perso contro di te, non riesco a darmi[0x000A]pace e mi alleno duramente ogni giorno insieme{0xBE00}[0x000A]alla mia squadra!
+Palestra di Bluruvia{0xBE01}[0x000A]Allenatori certificati da Rudi:[0x000A]{0x0100,0x0000} e Lino

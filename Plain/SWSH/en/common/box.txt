@@ -1,0 +1,580 @@
+Party
+<var>
+<var> Lv. <var>
+<var>
+Box View
+Box List
+Search
+<var>
+♂
+♀
+Lv. <var>
+<var>
+No. <var>
+<var>
+—
+???
+<var>
+HP
+<var>/<var>
+<var>
+<var>
+Attack
+Defense
+Sp. Atk
+Sp. Def
+Speed
+<var>
+Ability
+<var>
+Held Item
+<var>
+—
+<var>
+Dynamax Level
+Sort Pokémon
+Held Items
+Battle Teams
+Select
+Multiselect
+Multipurpose
+<var>
+Box Info
+<var>
+What do you want to do with <var>?
+Move
+Check summary
+Check held item
+Change markings
+Release
+Cancel
+Are you done?
+Choose a mark.
+Do you really want to release this Pokémon?
+Yes
+No
+<var> was released. Bye-bye, <var>!
+You can't release an Egg.
+You can't release the fused <var>.
+You can't release any Pokémon registered for Battle Teams.
+You'll have no Pokémon left to battle with if you do that!
+You can't release a Pokémon that's holding such a precious item!
+What do you want to do with this Box?
+Switch Box
+Change its wallpaper
+Change its name
+Please pick a theme.
+Wallpaper 1
+Wallpaper 2
+Wallpaper 3
+Wallpaper 4
+Wallpaper 5
+Wallpaper 6
+Wallpaper 7
+Wallpaper 8
+Wallpaper 9
+Wallpaper 10
+Wallpaper 11
+Wallpaper 12
+Wallpaper 13
+Wallpaper 14
+Wallpaper 15
+Wallpaper 16
+Wallpaper 17
+Wallpaper 18
+Wallpaper 19
+<var> selected.
+Move
+Bag
+You placed <var> in your Bag.
+Your Bag is full!
+Do you want to take the <var>?
+It can hold an item.
+Give
+An Egg can't hold an item.
+Register
+Move
+Deselect
+You can't move any Pokémon in a locked Battle Team.
+This Battle Team is locked. You can't remove this Pokémon.
+This Battle Team is locked. Items can't be given or taken.
+This Battle Team is locked. You can't mark your Pokémon in the team.
+This Battle Team is locked. You can't register any Pokémon for the team.
+Do you want to change your team name?
+You can't register an Egg.
+Choose the conditions, and then press Search to turn on the filter.
+Pokémon Species
+Type 1
+Type 2
+Known Move
+Compatible TM
+Ability
+Nature
+Gender
+Held Item
+Markings
+Battle Team
+<var>
+<var>
+<var>
+<var>
+<var>
+<var>
+♂
+♀
+Unknown
+<var>
+Holding an Item
+Not Holding an Item
+<var>
+Please choose the first letter of the Pokémon's name.
+Please choose a Pokémon species.
+Please choose a first type.
+Please choose a second type.
+Please choose the first letter of the move.
+Please choose a move.
+Choose a TM to find Pokémon that can learn the move contained within it.
+Please choose the first letter of an Ability.
+Please choose a Pokémon's Ability.
+Please choose a Pokémon's Nature.
+Please choose a Pokémon's gender.
+Choose to show Pokémon holding items or Pokémon not holding items.
+Choose a mark to only display Pokémon with that mark.
+
+Choose a Battle Team to display Pokémon registered to that team.
+<var>
+<var>
+<var>
+<var>
+<var>
+Every stat grows in a balanced way.
+Attack grows faster. Defense grows slower.
+Attack grows faster. Speed grows slower.
+Attack grows faster. Sp. Atk grows slower.
+Attack grows faster. Sp. Def grows slower.
+Defense grows faster. Attack grows slower.
+Every stat grows in a balanced way.
+Defense grows faster. Speed grows slower.
+Defense grows faster. Sp. Atk grows slower.
+Defense grows faster. Sp. Def grows slower.
+Speed grows faster. Attack grows slower.
+Speed grows faster. Defense grows slower.
+Every stat grows in a balanced way.
+Speed grows faster. Sp. Atk grows slower.
+Speed grows faster. Sp. Def grows slower.
+Sp. Atk grows faster. Attack grows slower.
+Sp. Atk grows faster. Defense grows slower.
+Sp. Atk grows faster. Speed grows slower.
+Every stat grows in a balanced way.
+Sp. Atk grows faster. Sp. Def grows slower.
+Sp. Def grows faster. Attack grows slower.
+Sp. Def grows faster. Defense grows slower.
+Sp. Def grows faster. Speed grows slower.
+Sp. Def grows faster. Sp. Atk grows slower.
+Every stat grows in a balanced way.
+Trading Partner
+<var>
+Waiting for the other person's decision...
+You canceled the trade.
+Your trading partner chose to quit trading. The trade will now end.
+The communication partner canceled the trade. The trade will end.
+Would you like to quit the Pokémon trade?
+You can't trade Pokémon because there is a problem with your trading partner's Pokémon.
+You can't trade Pokémon because there is a problem with your Pokémon.
+Attention! If a communication error occurs or your system gets turned off while you're trading, you won't be able to trade Pokémon for a while.
+Saving... Don't turn off the power.
+Communicating. Please stand by...
+Would you like to receive your trading partner's League Card?
+Do you want to trade your <var> for your trading partner's <var>?
+You can't offer that Egg in trade.
+Trade it
+Select
+<var>/<var>
+<var>
+That Pokémon can't be traded.
+You don't have the Pokémon needed for this trade!
+You can't offer an Egg in trade.
+You can't trade a Pokémon that is registered for a Battle Team.
+The Pokémon has a special item. You can't offer it for trade.
+Would you like to add <var> to your block list?
+You won't be able to connect again with any player you add to your block list. Are you sure you want to block this player? (It's possible to unblock the player again.)
+The other player has been added to your block list. The trade will end.
+You've already added this person to your block list.
+You couldn't add the person to your block list.
+ Confirm
+Check the other Pokémon's summary
+
+You can't change this Pokémon's held item, because it has been selected for Surprise Trade.
+You can't mark this Pokémon, because it has been selected for Surprise Trade.
+You can't release this Pokémon, because it has been selected for Surprise Trade.
+You can't move this Pokémon, because it has been selected for Surprise Trade.
+You can't register this Pokémon for a Battle Team, because it has been selected for Surprise Trade.
+You can't select an Egg.
+You can't select a Pokémon in a Battle Team.
+You can't select this Pokémon because it has been selected for Surprise Trade.
+You can't select a Pokémon in your party.
+You've selected more Pokémon than are allowed.
+You can't select a fainted Pokémon.
+You can't trade this Pokémon in Surprise Trade, because this Pokémon is special.
+
+ Back
+ Change Selection Mode
+ Change Box View
+ View Stats
+ Search
+ Reset
+ Hide
+ Select All
+ Judge
+OK stats
+Good stats
+Great stats!
+Amazing stats!
+No good
+Decent
+Pretty good
+Very good
+Fantastic
+Best
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hyper trained!
+
+

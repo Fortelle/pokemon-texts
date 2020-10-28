@@ -1,0 +1,52 @@
+Name
+{0x0100,0x0000}
+ID No.
+{0x0205,0x0000,0x0000}
+Alola Pokédex
+{0x0202,0x0000}
+Reg.
+Money
+${0x0206,0x0000,0x002C}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+Battle Points
+{0x0203,0x0000,0x002C}
+Play time
+{0x0202,0x0000}:{0x0201,0x0001}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+Adventure started on
+{0x0201,0x0001}/{0x0201,0x0002}/{0x0203,0x0000,0x0000}
+Portrait Photo
+{0x0201,0x0000}
+/
+Official Pokémon[0x000A]Trainer
+You took the first step as a Pokémon Trainer![0x000A]
+Melemele Trial[0x000A]Completion
+With this stamp, all Pokémon up to Lv. 35[0x000A]will obey your every command.
+Akala Trial[0x000A]Completion
+With this stamp, all Pokémon up to Lv. 50[0x000A]will obey your every command.
+Ula’ula Trial[0x000A]Completion
+With this stamp, all Pokémon up to Lv. 65[0x000A]will obey your every command.
+Poni Trial[0x000A]Completion
+With this stamp, all Pokémon up to Lv. 80[0x000A]will obey your every command.
+Island Challenge[0x000A]Completion
+With this stamp, all Pokémon will obey your[0x000A]every command.
+Melemele Pokédex[0x000A]Completion
+You registered all Pokémon on Melemele Island![0x000A]
+Akala Pokédex[0x000A]Completion
+You registered all Pokémon on Akala Island![0x000A]
+Ula’ula Pokédex[0x000A]Completion
+You registered all Pokémon on Ula’ula Island![0x000A]
+Poni Pokédex[0x000A]Completion
+You registered all Pokémon on Poni Island![0x000A]
+Alola Pokédex[0x000A]Completion
+You registered all Pokémon in the Alola region![0x000A]
+50 Consecutive[0x000A]Single Battle Wins
+You achieved 50 consecutive wins in[0x000A]Single Battles at the Battle Tree.
+50 Consecutive[0x000A]Double Battle Wins
+You achieved 50 consecutive wins in[0x000A]Double Battles at the Battle Tree.
+Poké Finder Pro
+You obtained the final version of[0x000A]the Poké Finder!
+50 Consecutive[0x000A]Multi Battle Wins
+You achieved 50 consecutive wins in[0x000A]Multi Battles at the Battle Tree.

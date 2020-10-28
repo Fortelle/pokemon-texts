@@ -1,0 +1,12 @@
+main_event_1252_leader_01=Enchantée, je suis Lona.{0xBE01}[0x000A]Comme tu peux le deviner, je suis entourée[0x000A]d’une équipe de Pokémon Glace.{0x0114,0x0015}
+main_event_1252_leader_02=Franchement, je suis épatée ![0x000A]Tu as réussi à venir jusqu’à moi sans tomber !{0xBE01}[0x000A]Un accident est si vite arrivé...[0x000A]Un instant de distraction, et plouf !{0x0114,0x0015}
+main_event_1252_leader_03=Je t’ai vu{0x1100,0x00FF,0x0100}e tomber, tout à l’heure.[0x000A]Tu avais l’air complètement perdu{0x1100,0x00FF,0x0100}e, m{0x1100,0x00FF,0x0102}ona pauvre.{0xBE00}[0x000A]Ça faisait peine à voir.{0x0114,0x0015}
+main_event_1252_leader_04=Enfin, assez tourné autour du pot.[0x000A]Il est temps pour toi de trembler de froid...{0xBE01}[0x000A]Je vais commencer par geler ton {0x1101,0x00FD,0x0607}Pokémonéquipe[0x000A]sur place pour qu’{0x1101,0x00FD,0x0402}ilelle ne puisse pas s’échapper,{0xBE00}[0x000A]et ensuite nous pourrons passer aux réjouissances.{0xBE01}[0x000A]Que croyais-tu, que je serais douce et gentille ?[0x000A]J’ai élevé un gamin difficile, je sais qu’avec les{0xBE00}[0x000A]enfants, il ne faut jamais se laisser aller à la pitié.{0x0114,0x0015}
+main_event_1252_leader_05=Eh bien, ma foi, tu te défends bien.{0xBE01}[0x000A]Certes, c’est bien triste de voir mes Pokémon[0x000A]perdre, mais c’est toujours agréable{0xBE00}[0x000A]de rencontrer un{0x1100,0x00FF,0x0100}e adversaire digne de moi.{0x0114,0x0015}
+main_event_1252_leader_06=Tiens, accepte ce Badge Glace.{0x0114,0x0015}
+main_event_1252_badge_01=Vous pouvez maintenant capturer des Pokémon[0x000A]jusqu’au niveau 50 !
+main_event_1252_leader_07=Si tu deviens Maître, il se peut que mon fils[0x000A]vienne te défier.{0xBE01}[0x000A]S’il se présente devant toi... mets-lui une bonne[0x000A]raclée, veux-tu ? Ça lui apprendra la vie.{0x0114,0x0015}
+main_event_1252_npc_01={0x0100,0x0000} ![0x000A]Bravo pour votre victoire face à Lona !{0xBE01}[0x000A]Vous avez bien mérité cette CT !
+main_event_1252_npc_03=Et voici l’uniforme de Lona en cadeau ![0x000A]Qu’il est beau ! Tout le monde se l’arrache !
+main_event_1252_npc_02=Le Badge Glace vous va à merveille ![0x000A]Continuez comme ça, {0x0100,0x0000} !
+main_event_1252_system_01=Voulez-vous retourner à la réception ?

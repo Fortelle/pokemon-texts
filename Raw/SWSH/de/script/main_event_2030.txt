@@ -1,0 +1,12 @@
+main_event_2030_stuff_01=Das Champ-Match, der entscheidende Kampf[0x000A]gegen den Champ, beginnt gleich!{0xBE01}[0x000A]Bist du bereit, Delion herauszufordern?
+main_event_2030_select_01=Ja, ich werde ihn besiegen!
+main_event_2030_select_02=Nein, ich brauche noch etwas...
+main_event_2030_stuff_02=Dann zieh bitte deine Uniform an und[0x000A]begib dich zum Kampfplatz!
+main_event_2030_system_01=Du kannst nicht mehr zurück!
+main_event_2030_champion_01=Meine Kämpfe sind ja immer ausverkauft, aber[0x000A]so ein begeistertes Publikum hatte ich noch nie!{0x0114,0x0004}
+main_event_2030_champion_02=Das liegt sicher daran, dass alle wissen, was du[0x000A]vor drei Tagen geleistet hast, {0x0100,0x0000}...{0xBE01}[0x000A]Du hast Endynalos gefangen und die Zukunft[0x000A]der Galar-Region gesichert.{0x0114,0x0004}
+main_event_2030_champion_03=Du hast an der Seite der Legendären Pokémon[0x000A]Zacian und Zamazenta gekämpft.{0xBE01}[0x000A]Das macht dich zu {0x1100,0x00FF,0x1818,0x0000}einem waschechten Heldeneiner waschechten Heldin[0x000A]und {0x1100,0x00FF,0x201E,0x0000}einem wahrhaft würdigen Gegnereiner wahrhaft würdigen Gegnerin!{0x0114,0x0004}
+main_event_2030_champion_04=Oh, wie ich sehe, hast du Endynalos in[0x000A]dein Team aufgenommen!{0xBE01}[0x000A]Ich muss es also nicht nur mit dem allerbesten[0x000A]Trainer aufnehmen, sondern auch noch mit dem{0xBE00}[0x000A]allerstärksten Pokémon. Das wird spannend!{0x0114,0x0004}
+main_event_2030_champion_05=Ich habe dich entdeckt und dein volles Potenzial[0x000A]entfesselt. Das ist eine Leistung für sich.{0xBE01}[0x000A]Wenn ich es jetzt noch schaffe, haushoch gegen[0x000A]dich zu gewinnen, wäre das der ultimative Beweis{0xBE00}[0x000A]meines Könnens als Champ.{0x0114,0x0004}
+main_event_2030_champion_06=Dann mal los, {0x0100,0x0000}!{0xBE01}[0x000A]Liefern wir uns einen Kampf, der in die[0x000A]Geschichte der Galar-Region eingehen wird...{0xBE01}[0x000A]Oder besser: Liefern wir uns einen Kampf, der[0x000A]die Zukunft Galars für immer verändern wird!{0x0114,0x0004}
+main_event_2030_champion_07=Lass uns diesen Kampf so richtig genießen![0x000A]It’s champ time!{0x0114,0x0004}

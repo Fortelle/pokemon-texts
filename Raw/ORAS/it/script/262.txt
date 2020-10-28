@@ -1,0 +1,16 @@
+Il terreno è soffice.
+Pianta una bacca!
+Hai piantato una {0x0109,0x0001}!
+Qui è stata piantata una {0x0109,0x0001}!
+È spuntato un germoglio di {0x018E,0x0007}!
+La pianta di {0x1001}{0x018E,0x0007} è diventata grande!
+Sono spuntati dei fiori di {0x018E,0x0007}!
+Il terreno è umido.[0x000A]Non c’è bisogno di annaffiarlo.
+Il terreno è asciutto...[0x000A]Vuoi annaffiarlo?
+Il terreno è stato annaffiato e ora è umido!
+La pianta di {0x1001}{0x0109,0x0001} ha prodotto[0x000A]{0x0201,0x0003} bacc{0x1101,0x0003,0x0201}ahe!
+Prendi {0x0201,0x0003} bacc{0x1101,0x0003,0x0201}ahe dalla pianta[0x000A]di {0x1001}{0x0109,0x0001}!
+Hai raggiunto il limite per questo oggetto.{0xBE01}[0x000A]Non puoi raccogliere le bacche[0x000A]della pianta di {0x0109,0x0001}.
+Metti nella Borsa il raccolto della pianta[0x000A]di {0x1001}{0x0109,0x0001}.{0xBE01}[0x000A]Il terreno è tornato soffice.
+Il terreno è asciutto...
+La pianta di {0x1001}{0x018E,0x0007} si è seccata... Oh?{0xBE01}[0x000A]Tra le foglie secche spuntano dei germogli!

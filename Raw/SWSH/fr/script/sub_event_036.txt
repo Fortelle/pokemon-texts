@@ -1,0 +1,14 @@
+sub_event_036_childF_01={0xBDFF:0x0000}
+sub_event_036_childF_02={0xBDFF:0x0001}
+sub_event_036_childF_03={0xBDFF:0x0002}
+sub_event_036_childF_04={0xBDFF:0x0003}
+sub_event_036_childF_05={0xBDFF:0x0004}
+sub_event_036_childF_06={0xBDFF:0x0005}
+sub_event_036_meltan_01={0xBDFF:0x0006}
+sub_event_036_childF_07={0xBDFF:0x0007}
+sub_event_036_childF_08={0xBDFF:0x0008}
+sub_event_036_childF_09={0xBDFF:0x0009}
+sub_event_036_meltan_02={0xBDFF:0x000A}
+sub_event_036_meltan_03={0xBDFF:0x000B}
+sub_event_036_meltan_04={0xBDFF:0x000C}
+sub_event_036_meltan_05={0xBDFF:0x000D}

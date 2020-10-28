@@ -1,0 +1,15 @@
+msg_main0905_sys_01={0xBDFF:0x0000}
+msg_main0905_red_01={0xBDFF:0x0001}
+msg_main0905_dummy_01={0xBDFF:0x0002}
+msg_main0905_red_02={0xBDFF:0x0003}
+msg_main0905_green_01=BLUE: So you’re my first challenger,[0x000A]huh, {0x0100,0x0000}?
+msg_main0905_green_02=That’s what I like to hear![0x000A]Here I go!
+msg_main0905_dummy_02={0xBDFF:0x0006}
+msg_main0905_green_03=BLUE: Hmph. Your loss, I guess.
+msg_main0905_green_04=BLUE: Oh, man![0x000A]So you really are ready for Team Rocket!{0xBE01}[0x000A]I feel pretty good about leaving this place in[0x000A]your hands!
+msg_main0905_red_03={0xBDFF:0x0009}
+msg_main0905_sys_02={0xBDFF:0x000A}
+msg_main0905_green_05=Then you’re next, {0x0100,0x0001}![0x000A]Come at me—I’m just getting warmed up!
+msg_main0905_rival_01={0xBDFF:0x000C}
+msg_main0905_rival_02={0x01CD,0x0001}: Aw, jeez...[0x000A]Just watching your battle made me nervous...{0xBE01}[0x000A]Did you see his Pokémon’s eyes?[0x000A]They blew me away...but I’m not backing down!{0xBE01}[0x000A]{0x0100,0x0000}, you go on ahead![0x000A]I’ll be right behind you!
+msg_main0905_stafff_01=RECEPTIONIST: Blue is a famously strong[0x000A]Trainer, you know...{0xBE01}[0x000A]And he didn’t look like he was holding back[0x000A]much, either.{0xBE01}[0x000A]You must be pretty special yourself![0x000A]I hope you really can save Silph!

@@ -1,0 +1,15 @@
+msg_fld_ev_spray_01=El repelente ha dejado de surtir efecto.
+msg_fld_ev_spray_02=El repelente ha dejado de surtir efecto.[0x000A]¿Quieres utilizar otro?
+msg_fld_ev_spray_03=¡Has usado {0x1702,0x0001,0x0000}{0x0109,0x0001}!
+msg_fld_ev_bookshelf_01={0xBDFF:0x0003}
+msg_fld_ev_kowaserurock_01=Parece una roca muy dura...[0x000A]Tal vez un Pokémon podría partirla.
+msg_fld_ev_tv_common_01={0xBDFF:0x0005}
+msg_fld_ev_oserurock_01=Parece una roca muy pesada...[0x000A]Tal vez un Pokémon podría empujarla.
+msg_egg_event_01=¿Eh?
+msg_ride_check_01=¿Quieres llamar a Tauros?
+msg_ride_check_02=¿Quieres llamar a Machamp?
+msg_ride_check_03=¿Quieres llamar a Sharpedo?
+msg_ride_check_ng_01=Aquí no hay espacio suficiente para montarte.
+msg_bicycle_01=Ahora no puedes montarte en la bici.
+msg_bicycle_02=Ahora no puedes bajarte de la bici.
+msg_fld_ev_boxfull_01=¿Para qué vas a hablarle si tus cajas están llenas?{0xBE01}[0x000A]Vuelve a intentarlo más tarde.

@@ -1,0 +1,61 @@
+No se ha encontrado ningún Vídeo de[0x000A]Combate.[0x000A][0x000A]Puedes grabar Vídeos de Combate, por[0x000A]ejemplo, cuando combatas en conexión.
+¿Quieres borrar este Vídeo de Combate?
+Borrando el Vídeo de Combate...[0x000A]No apagues la consola.
+Se ha borrado el Vídeo de Combate.
+Conectando con el servidor...[0x000A]No apagues la consola.
+¿Quieres retirar este Vídeo de Combate?
+El Vídeo de Combate se ha retirado.
+No se ha encontrado el Vídeo de Combate.
+No se puede reproducir este Vídeo de[0x000A]Combate.
+No podrás retirar ningún Vídeo de Combate[0x000A]que hagas público hasta el día siguiente.{0xBE01}[0x000A]¿Quieres hacer público este Vídeo de[0x000A]Combate en internet?
+El Vídeo de Combate se ha hecho público en[0x000A]internet.
+Este Vídeo de Combate no puede hacerse[0x000A]público.
+¿Con qué Entrenador quieres librar un[0x000A]simulacro de combate?
+¿Con qué Pokémon quieres participar en el[0x000A]simulacro de combate?
+Necesitas más Pokémon para poder librar[0x000A]este simulacro de combate.
+¿Quieres empezar el simulacro de combate?
+Enviando el Vídeo de Combate...[0x000A]No apagues la consola.
+Se está retirando el Vídeo de Combate...[0x000A]No apagues la consola.
+Selecciona el Vídeo de Combate que quieres[0x000A]hacer público.
+Preparando la reproducción del Vídeo de[0x000A]Combate...
+Este Vídeo de Combate no puede retirarse[0x000A]hasta mañana.
+No se puede simular un Vídeo de Combate[0x000A]de un Combate Múltiple.
+Gracias por usar la Cámara Lucha.{0xBE01}[0x000A]Si te conectas a internet mediante el PSS y[0x000A]utilizas la Cámara Lucha, podrás subir los{0xBE00}[0x000A]Vídeos de Combate que hayas grabado.{0xBE01}[0x000A]Diles a tus amigos el código del Vídeo de[0x000A]Combate que hayas subido y podrán{0xBE00}[0x000A]descargárselo y verlo.{0xBE01}[0x000A]¡Utiliza la Cámara Lucha y pásatelo en grande[0x000A]grabando Vídeos de Combate!
+Buscando Vídeo de Combate...
+Reproducido:
+{0xBDFF:0x0019}
+Comprobando la tarjeta SD...[0x000A]No apagues la consola.
+Se han eliminado los Vídeos de Combate[0x000A]dañados.
+Búsqueda por código
+{0x0202,0x0000}/{0x0202,0x0001}
+{0xBDFF:0x001E}
+Equipo Pokémon
+Caja de Combate
+Salir
+{0x0100,0x0000}
+Publicado:
+{0x0201,0x0002}-{0x0201,0x0001}-{0x0203,0x0000,0x0000}
+N.º de reproducciones:
+{0x0206,0x0000,0xE07F}
+Combate n.º {0x0203,0x0000,0x0000}
+
+Combate Inverso
+Individual
+Doble
+Triple
+Rotatorio
+Múltiple
+{0xBDFF:0x002F}
+Combate en conexión
+Mansión Batalla
+Supercombate Individual
+Supercombate Doble
+Supercombate Triple
+Supercombate Rotatorio
+Supercombate Múltiple
+Área de Combate
+Libre
+Puntos Clasificatorios
+Especial
+Error de conexión.[0x000A]Vuelve a intentarlo desde el principio.
+{0xBDFF:0x003C}

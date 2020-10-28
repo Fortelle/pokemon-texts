@@ -1,0 +1,17 @@
+poke_waza_maboroshi_01_01=Io insegno mosse ai Pokémon misteriosi.[0x000A]Sono in vacanza... ma per te farò un’eccezione!{0xBE01}[0x000A]Che ne dici? Vuoi che insegni una mossa[0x000A]a un tuo Pokémon misterioso?
+poke_waza_maboroshi_01_02=Oh! Il tuo Pokémon conosce già questa mossa!
+poke_waza_maboroshi_01_03=Se avessi in squadra Keldeo o Meloetta[0x000A]potrei insegnare loro una mossa...
+poke_waza_maboroshi_01_04=Vuoi che insegni una mossa a un Pokémon[0x000A]della tua squadra?
+poke_waza_maboroshi_01_05=Se cambi idea, torna a trovarmi!
+poke_waza_maboroshi_01_06=Grazie per la fiducia, ma... insegnare mosse[0x000A]a un Uovo è troppo difficile anche per me.
+poke_waza_maboroshi_01_07=Questo Pokémon non può imparare le mosse[0x000A]che insegno.
+poke_waza_maboroshi_01_08=Questo Pokémon conosce già la mossa[0x000A]che avrei potuto insegnargli.
+poke_waza_maboroshi_01_09=Questo Pokémon è esausto, non posso[0x000A]insegnargli una mossa adesso...
+poke_waza_maboroshi_01_10={0x0102,0x0000} impara {0x0107,0x0001}!
+poke_waza_maboroshi_01_11=Oh! {0x0102,0x0000} si sta trasformando!
+poke_waza_maboroshi_01_12={0x0102,0x0000} ha rinnovato la sua[0x000A]determinazione a lottare e ha assunto{0xBE00}[0x000A]la Forma Risoluta!
+poke_waza_maboroshi_sys_01=Scegli una mossa da sostituire[0x000A]con {0x0107,0x0000}.
+poke_waza_maboroshi_sys_02={0x0102,0x0000} impara {0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+poke_waza_maboroshi_sys_03=Uno,{0xBE02:0x0014} due{0xBE02:0x0014} e{0xBE02:0x0014}...{0xBE02:0x0014} ta-daaaa!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} dimentica {0x0107,0x0001}!{0xBE01}[0x000A]Al suo posto...{0xBE01}[0x000A]{0x0102,0x0000} impara {0x0107,0x0002}!{0xBE05,0x0004}{0xBE05,0x0001}
+poke_waza_maboroshi_sys_04={0x0102,0x0000} non ha imparato[0x000A]{0x0107,0x0001}!
+poke_waza_maboroshi_01_13=A chi vuoi che la insegni?

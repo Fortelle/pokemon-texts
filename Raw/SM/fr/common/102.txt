@@ -1,0 +1,52 @@
+Nom :
+{0x0100,0x0000}
+Nº ID :
+{0x0205,0x0000,0x0000}
+Pokédex d’Alola :
+{0x0202,0x0000}
+
+Argent :
+{0x0206,0x0000,0xE07F} $
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+Points de Combat :
+{0x0203,0x0000,0xE07F}
+Temps de jeu :
+{0x0202,0x0000}:{0x0201,0x0001}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+Début de l’aventure :
+{0x0201,0x0002}/{0x0201,0x0001}/{0x0203,0x0000,0x0000}
+Aspect/Photo
+{0x0201,0x0000}
+/
+L’aventure commence[0xE07F]!
+Vous avez fait vos premiers pas en tant que[0x000A]Dresseu{0x1100,0x00FF,0x0201}rse Pokémon[0xE07F]!
+Épreuve de Mele-Mele[0x000A]réussie[0xE07F]!
+Les Pokémon de niveau 35 ou moins[0x000A]vous obéissent au doigt et à l’œil[0xE07F]!
+Épreuve d’Akala[0x000A]réussie[0xE07F]!
+Les Pokémon de niveau 50 ou moins[0x000A]vous obéissent au doigt et à l’œil[0xE07F]!
+Épreuve d’Ula-Ula[0x000A]réussie[0xE07F]!
+Les Pokémon de niveau 65 ou moins[0x000A]vous obéissent au doigt et à l’œil[0xE07F]!
+Épreuve de Poni[0x000A]réussie[0xE07F]!
+Les Pokémon de niveau 80 ou moins[0x000A]vous obéissent au doigt et à l’œil[0xE07F]!
+Tour des Îles[0x000A]réussi[0xE07F]!
+Tous les Pokémon, quel que soit leur niveau,[0x000A]vous obéissent au doigt et à l’œil[0xE07F]!
+Pokédex de Mele-Mele[0x000A]Complet[0xE07F]!
+Vous avez enregistré tous les Pokémon[0x000A]de Mele-Mele dans le Pokédex[0xE07F]!
+Pokédex d’Akala[0x000A]Complet[0xE07F]!
+Vous avez enregistré tous les Pokémon[0x000A]d’Akala dans le Pokédex[0xE07F]!
+Pokédex d’Ula-Ula[0x000A]Complet[0xE07F]!
+Vous avez enregistré tous les Pokémon[0x000A]d’Ula-Ula dans le Pokédex[0xE07F]!
+Pokédex de Poni[0x000A]Complet[0xE07F]!
+Vous avez enregistré tous les Pokémon[0x000A]de Poni dans le Pokédex[0xE07F]!
+Pokédex d’Alola[0x000A]Complet[0xE07F]!
+Vous avez enregistré tous les Pokémon[0x000A]d’Alola dans le Pokédex[0xE07F]!
+Combats Solo[0x000A]50 victoires d’affilée[0xE07F]!
+Vous avez gagné 50 Combats Solo d’affilée[0x000A]à l’Arbre de Combat[0xE07F]!
+Combats Duo[0x000A]50 victoires d’affilée[0xE07F]!
+Vous avez gagné 50 Combats Duo d’affilée[0x000A]à l’Arbre de Combat[0xE07F]!
+Pro du Poké Scope
+Vous avez amélioré le Poké Scope jusqu’à[0x000A]sa toute dernière version[0xE07F]!
+Combats Multi[0x000A]50 victoires d’affilée[0xE07F]!
+Vous avez gagné 50 Combats Multi d’affilée[0x000A]à l’Arbre de Combat[0xE07F]!

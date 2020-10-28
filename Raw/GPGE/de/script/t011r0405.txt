@@ -1,0 +1,8 @@
+msg_t011r0405_staffm_01_01=Team Rocket ist in Aufruhr wegen jemandem,[0x000A]der sich ins Gebäude geschlichen hat.{0xBE01}[0x000A]Das bist du, oder?
+msg_t011r0405_staffm_01_02=Team Rocket ist geflüchtet!{0xBE01}[0x000A]Du hast sie vertrieben, oder? Vielen Dank!
+msg_t011r0403_report_01=Das ist ein Pokémon-Forschungsbericht.{0xBE01}[0x000A]Der Forschungsabteilung ist es gelungen, ein[0x000A]Pokémon namens Porygon künstlich zu erzeugen.
+msg_t011r0403_report_02=Das ist ein Pokémon-Forschungsbericht.{0xBE01}[0x000A]Derzeit sind mehr als 200 Attacken bekannt,[0x000A]die von Pokémon eingesetzt werden können.
+msg_t011r0403_report_03=Das ist ein Pokémon-Forschungsbericht.{0xBE01}[0x000A]Es wurde bestätigt, dass es Pokémon gibt, die[0x000A]sich entwickeln, wenn sie getauscht werden.
+msg_t011r0405_kanban_01=Hauptsitz der Silph Company[0x000A]4. OG
+msg_t011r0405_rocketw_01_01=Du brauchst mich gar nicht so anzustarren!{0xBE01}[0x000A]Seit ich gegen dieses Kind mit dem fiesen Blick[0x000A]verloren hab, sind meine Pokémon zu gar nichts{0xBE00}[0x000A]mehr zu gebrauchen...{0xBE01}[0x000A]Hier gibt’s also keinen Kampf für dich zu holen!
+msg_studym1_01_p01_cave_d1005={0xBDFF:0x0007}

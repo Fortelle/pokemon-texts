@@ -1,0 +1,81 @@
+Vérification de la carte SD...[0x000A]Ne pas éteindre la console.
+Les données liées aux règles de combat[0x000A]trouvées sur la carte SD sont corrompues.{0xBE00}[0x000A]Les données ont été effacées.{0xBE01}
+Recherche de données...[0x000A]Veuillez patienter.
+{0xBDFF:0x0003}
+Aucune donnée trouvée.{0xBE01}
+Voulez-vous annuler la recherche de données[0xE07F]?
+Que souhaitez-vous faire de la règle[0x000A]{0x0123,0x0000}[0xE07F]?
+Ces données ont déjà été téléchargées.{0xBE01}
+Sauvegarde des données sur la carte SD...[0x000A]Ne pas éteindre la console.
+La règle suivante a été sauvegardée sur[0x000A]la carte SD :{0xBE00}[0x000A]{0x0123,0x0000}{0xBE01}
+Il n’y a plus de place pour de nouvelles règles.[0x000A]Voulez-vous en effacer[0xE07F]?
+Choisissez une règle à effacer.{0xBE01}
+Voulez-vous annuler l’effacement de données[0xE07F]?
+Voulez-vous vraiment effacer la règle[0x000A]{0x0123,0x0000}[0xE07F]?
+Effacement des données en cours...[0x000A]Ne pas éteindre la console.
+La règle suivante a été effacée de la carte SD :[0x000A]{0x0123,0x0000}{0xBE01}[0x000A]Choisissez une autre règle à ajouter.{0xBE01}
+Sélectionné : {0x0123,0x0000}[0x000A]Confirmer[0xE07F]?
+Annuler l’opération[0xE07F]?
+Le jeu d’un des joueurs n’est pas compatible[0x000A]avec cette règle de combat.{0xBE01}[0x000A]Veuillez choisir une autre règle.{0xBE01}
+Espace insuffisant sur la carte SD.{0xBE01}[0x000A]Veuillez quitter le jeu, éteindre votre console[0x000A]et vérifier le contenu de votre carte SD.{0xBE01}
+Espace insuffisant sur la carte SD.[0x000A]Impossible de sauvegarder cette règle.{0xBE01}[0x000A]Voulez-vous effacer une règle[0xE07F]?
+Espace insuffisant sur la carte SD.[0x000A]Impossible de sauvegarder cette règle.{0xBE01}[0x000A]Voulez-vous effacer une règle[0xE07F]?
+Oui
+Non
+Télécharger
+En savoir plus
+Retour
+Effacer
+Confirmer
+En savoir plus
+: Sans restrictions
+: {0x0200,0x0000}
+: {0x0202,0x0000} ou plus
+: de {0x0200,0x0000} à {0x0200,0x0001}
+: Tous à {0x0202,0x0000}
+: Tous à {0x0202,0x0000} ou moins
+: Autorisés
+: Interdits
+: Autorisés
+: Interdits
+Nombre de Pokémon
+Niveau des Pokémon
+Pokémon spéciaux
+Pokémon identiques
+Objets tenus identiques
+Combat Solo
+Combat Duo
+Combat Multi
+Bataille Royale
+Règles normales
+Règles strictes
+Tout est permis
+Arbre de Combat
+Bataille Royale
+{0x0200,0x0000}
+/
+: {0x0202,0x0000} ou moins
+: Tous à {0x0202,0x0000} ou plus
+Combat Solo
+Combat Duo
+Combat Multi
+Combat Super Solo
+Combat Super Duo
+Combat Super Multi
+Niveau Normal
+Niveau Super
+Niveau Hyper
+Niveau Master
+Dans le cadre des règles normales, tous les Pokémon[0x000A]combattent au niveau 50.
+Dans le cadre des règles strictes, tous les Pokémon ayant[0x000A]un niveau supérieur à 50 sont ramenés au niveau 50.
+S’il n’y a aucune restriction, tous les Pokémon conservent[0x000A]leur niveau d’origine.
+Il n’y a aucune restriction de niveau dans les séries[0x000A]normales.
+Dans une Bataille Royale, tous les Pokémon ayant un niveau[0x000A]supérieur à celui indiqué dans les règles sont ramenés à ce[0x000A]niveau.
+Liste des Pokémon interdits :[0x000A][0x000A]{0x0101,0x0000}　{0x0101,0x0001}[0x000A]{0x0101,0x0002}　{0x0101,0x0003}[0x000A]{0x0101,0x0004}　{0x0101,0x0005}[0x000A]{0x0101,0x0006}　{0x0101,0x0007}[0x000A]{0x0101,0x0008}　{0x0101,0x0009}[0x000A]{0x0101,0x000A}　{0x0101,0x000B}[0x000A]{0x0101,0x000C}　{0x0101,0x000D}[0x000A]{0x0101,0x000E}　{0x0101,0x000F}
+Liste des objets interdits :[0x000A][0x000A]{0x0109,0x0000} {0x0109,0x0001}[0x000A]{0x0109,0x0002} {0x0109,0x0003}[0x000A]{0x0109,0x0004} {0x0109,0x0005}[0x000A]{0x0109,0x0006} {0x0109,0x0007}[0x000A]{0x0109,0x0008} {0x0109,0x0009}[0x000A]{0x0109,0x000A} {0x0109,0x000B}[0x000A]{0x0109,0x000C} {0x0109,0x000D}[0x000A]{0x0109,0x000E} {0x0109,0x000F}
+Liste des capacités interdites :[0x000A][0x000A]{0x0107,0x0000} {0x0107,0x0001}[0x000A]{0x0107,0x0002} {0x0107,0x0003}[0x000A]{0x0107,0x0004} {0x0107,0x0005}[0x000A]{0x0107,0x0006} {0x0107,0x0007}[0x000A]{0x0107,0x0008} {0x0107,0x0009}[0x000A]{0x0107,0x000A} {0x0107,0x000B}[0x000A]{0x0107,0x000C} {0x0107,0x000D}[0x000A]{0x0107,0x000E} {0x0107,0x000F}
+Liste des Pokémon interdits :[0x000A][0x000A]Aucun
+Liste des objets interdits :[0x000A][0x000A]Aucun
+Liste des capacités interdites :[0x000A][0x000A]Aucune
+Pour en savoir plus sur les règles de combat,[0x000A]vous pouvez visiter le site Internet du Pokémon[0x000A]Global Link :[0x000A]{0xBD00,0x0003,0x0000,0x0000}http://www.pokemon-gl.com/{0xBD01}[0x000A][0x000A]Vous pouvez vous rendre sur ce site Internet[0x000A]en scannant le QR Code sur la page suivante.
+Dans les séries Super, tous les Pokémon ayant un niveau[0x000A]supérieur à 50 sont ramenés au niveau 50.

@@ -1,0 +1,13 @@
+sub_event_011_master_01=歡迎光臨。[0x000A]歡迎來到對戰咖啡館。
+sub_event_011_master_02=嗯？客人您今天[0x000A]已經對戰過了吧？{0xBE00}[0x000A]請您明天再來喔。
+sub_event_011_master_03=１天１次！[0x000A]勝利的話就能獲得甜點！{0xBE00}[0x000A]……請問您要參加對戰嗎？
+sub_event_011_master_04=那麼準備開始吧！[0x000A]……好，進入休息時間！
+sub_event_011_master_05a=真是一場像哞哞鮮奶[0x000A]一樣清爽的對戰！
+sub_event_011_master_05b=真是一場像果汁牛奶[0x000A]一樣細緻的對戰！
+sub_event_011_master_05c=真是一場像向尾喵可可[0x000A]一樣濃醇的對戰！
+sub_event_011_master_05d=真是一場像凰梨果汁[0x000A]一樣刺激的對戰！
+sub_event_011_master_05e=真是一場像羅絲雷朵茶[0x000A]一樣優雅的對戰！
+sub_event_011_master_05f=真是一場像布魯皇咖啡[0x000A]一樣有深度的對戰！
+sub_event_011_master_06=這是與您約定好的甜點。
+sub_event_011_master_07=客人……本店採用[0x000A]雙打對戰的規則。{0xBE01}[0x000A]請您帶著２隻以上可以[0x000A]對戰的寶可夢再次光臨。
+sub_event_011_master_08=期待您的再次光臨。

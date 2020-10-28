@@ -1,0 +1,18 @@
+Échange miracle
+L’échange miracle permet d’échanger facilement[0x000A]des Pokémon avec des Dresseurs du monde entier.
+Voulez-vous procéder à un échange miracle[0xE07F]?
+Voulez-vous échanger {0x0102,0x0000} contre[0x000A]un autre Pokémon[0xE07F]?
+Recherche de partenaires…[0x000A]Veuillez patienter.
+Partenaire trouvé[0xE07F]![0x000A]Veuillez patienter.
+Aucun partenaire trouvé[0xE08D][0x000A]Réessayez ultérieurement.
+Fin de la communication…[0x000A]Veuillez patienter.
+Oui
+Non
+Ce Pokémon ne peut pas être échangé.
+{0x0202,0x0000}
+{0x0109,0x0001}
+{0x0102,0x0002}
+{0x0100,0x0004}
+N.
+{0xFF00,0x0002}♂{0xFF00,0x0000}
+{0xFF00,0x0001}♀{0xFF00,0x0000}

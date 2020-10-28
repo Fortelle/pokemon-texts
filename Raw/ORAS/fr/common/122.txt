@@ -1,0 +1,95 @@
+Vérification du statut de la GTS[0xE08D]
+Le Pokémon que vous avez déposé[0x000A]a été échangé[0xE07F]!
+Bienvenue à la GTS.[0x000A]Que voulez-vous faire[0xE07F]?
+Chercher un Pokémon
+Déposer un Pokémon
+Résumé de {0x0102,0x0000}
+Quitter la GTS
+Chercher un Pokémon
+Recherche
+Sexe
+Niveau
+Rechercher avec ces critères
+Options
+Retour
+
+Lors d’une recherche par nom,[0x000A]vous ne pouvez pas indiquer de sexe.
+Recherche du Pokémon en cours[0xE08D]
+Quel Pokémon recherchez-vous[0xE07F]?
+Saisie
+ガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッ[0x000A]
+カキクケコサシスセソタチツテトハヒフヘホハヒフヘホアイウエオツ
+アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワ
+{0x0101,0x0001}
+Veuillez choisir son sexe.
+Peu importe
+{0xFF00,0x0002}♂{0xFF00,0x0000}
+{0xFF00,0x0001}♀{0xFF00,0x0000}
+Veuillez choisir son niveau.
+Peu importe
+De 1 à 10
+De 11 à 20
+De 21 à 30
+De 31 à 40
+De 41 à 50
+De 51 à 60
+De 61 à 70
+De 71 à 80
+De 81 à 90
+91 ou plus
+Affiner la sélection
+Joueurs qui recherchent des Pokémon[0x000A]hors du commun.
+Inclure
+Exclure
+Choisissez un Dresseur pour cet échange.
+N.
+Nouvelle recherche en cours[0xE08D][0x000A]Veuillez patienter.
+Sélectionnez les critères de recherche.
+Pokémon recherché par l’autre joueur
+Région
+Filtrer les résultats selon ces critères
+Retour
+Cette recherche n’a donné aucun résultat.
+Filtrer par Pokémon recherché
+Peu importe
+Pokémon que vous possédez
+Retour
+Filtrer par région
+Peu importe
+Votre région
+Autre région
+Retour
+{0xBDFF:0x003D}
+{0xBDFF:0x003E}
+{0xBDFF:0x003F}
+{0xBDFF:0x0040}
+{0xBDFF:0x0041}
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}
+{0xBDFF:0x0046}
+{0xBDFF:0x0047}
+{0xBDFF:0x0048}
+{0xBDFF:0x0049}
+Message
+Déposer avec ces critères
+Retour
+Veuillez choisir un Pokémon.
+Voulez-vous reprendre {0x0102,0x0000}[0xE07F]?
+Reprendre
+{0x0202,0x0000}
+{0x0109,0x0000}
+La GTS est en cours de maintenance.
+La GTS connaît un trafic trop important.{0xBE01}[0x000A]Réessayez ultérieurement.
+La recherche a échoué[0xE08D]
+Erreur de communication.
+Impossible de se connecter à la GTS.
+La communication avec la GTS a été[0x000A]interrompue.
+Aucun Pokémon n’a été trouvé.
+Vous devez définir le Pokémon recherché[0x000A]avant de déposer le vôtre.
+Veuillez choisir un Pokémon.
+{0xBDFF:0x005B}
+Ce Pokémon a déjà été échangé.
+Le Pokémon que vous aviez déposé est[0x000A]revenu[0xE07F]!
+Ce Pokémon ne peut pas être échangé.

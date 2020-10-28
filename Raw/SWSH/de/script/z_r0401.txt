@@ -1,0 +1,4 @@
+msg_r0401_npc1_01=Man möchte einfach die gleiche Uniform[0x000A]wie sein Lieblings-Arenaleiter tragen, oder?
+msg_r0401_npc2_01=Auch wenn dein{0x1101,0x00FD,0x0100}e Pokémon völlig gesund {0x1101,0x00FD,0x0403}istsind,[0x000A]kannst du dein Zelt jederzeit aufschlagen und{0xBE00}[0x000A]einfach etwas Leckeres kochen.
+msg_r0401_npc2_02=Wenn dein{0x1101,0x00FD,0x0100}e Pokémon erschöpft {0x1101,0x00FD,0x0403}istsind, schlag dein[0x000A]Zelt auf und mach eine kleine Pause!
+msg_r0401_npc_camp_01=Durch gemeinsames Spielen und Kochen beim[0x000A]PokéCamping werden Pokémon zutraulicher.{0xBE01}[0x000A]Wenn du Lust hast, kannst du meinem PokéCamp[0x000A]einen Besuch abstatten!

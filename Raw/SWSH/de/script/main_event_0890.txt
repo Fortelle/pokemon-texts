@@ -1,0 +1,11 @@
+main_event_0890_leader8_01=Hey! Du bist doch einer der beiden Trainer,[0x000A]denen Delion eine Empfehlung geschrieben hat!{0xBE01}[0x000A]Und dein Name ist... Moment, ich hab’s gleich...{0x0114,0x0017}
+main_event_0890_leader8_02={0x0100,0x0000}! Genau, das war’s!{0x0114,0x0017}
+main_event_0890_leader8_03=Delion scheint großes Potenzial in dir zu sehen...[0x000A]Dann hast du sicher einiges auf dem Kasten!{0xBE01}[0x000A]Aber wenn du gegen mich kämpfen willst,[0x000A]brauchst du erst mal sieben Orden. Tja...{0x0114,0x0017}
+main_event_0890_select_01=Das weiß ich selbst...
+main_event_0890_select_02=Ich will nur zur Schatzkammer.
+main_event_0890_leader8_04=Ah, du bist also gar nicht wegen mir, sondern[0x000A]wegen der Schatzkammer hier?{0xBE01}[0x000A]Gute Idee! Ein Blick in die Vergangenheit Galars[0x000A]kann nicht schaden, wenn du mehr über Pokémon{0xBE00}[0x000A]wissen willst.{0x0114,0x0017}
+main_event_0890_leader8_05=Mir gefällt, wie eifrig du bist.[0x000A]Komm, mir nach!{0x0114,0x0017}
+main_event_0890_leader8_08=Hier, nimm! Das ist meine Ligakarte.{0x0114,0x0017}
+main_event_0890_leader8_09=Zur Schatzkammer geht es die Treppe rauf!{0x0114,0x0017}
+main_event_0890_leader8_06=Zur Schatzkammer geht’s da lang![0x000A]Deine Forscherfreundin ist auch schon drinnen.{0x0114,0x0017}
+main_event_0890_leader8_07=Um gegen mich kämpfen zu dürfen, brauchst du[0x000A]sieben Orden.{0xBE01}[0x000A]Schnapp dir am besten erst mal den Orden von[0x000A]Passbeck am anderen Ende von Route 6.{0x0114,0x0017}

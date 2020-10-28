@@ -1,0 +1,36 @@
+I’ll have {0xFF00,0x0002}Cosplay Pikachu{0xFF00,0x0000} change[0x000A]into a great costume!
+Oh, you’ve come with[0x000A]Cosplay Pikachu!{0xBE01}[0x000A]Do you think your Pikachu[0x000A]wants to change costumes?
+Really?[0x000A]Come back and see me{0xBE00}[0x000A]if you change your mind!
+Change which Cosplay Pikachu?
+Oh my! That Pokémon[0x000A]can’t wear a costume.
+Sorry, Eggs can’t[0x000A]wear a costume.
+OK! What type of costume does[0x000A]{0x0102,0x0000} want to wear?
+Cool
+Beautiful
+Cute
+Clever
+Tough
+Remove costume
+Quit
+{0x0102,0x0000} happily[0x000A]changed its costume!
+{0x0102,0x0000} wants to learn the[0x000A]move {0x0107,0x0001}.{0xBE01}[0x000A]However, {0x0102,0x0000} already[0x000A]knows four moves.{0xBE01}[0x000A]Should a move be deleted and[0x000A]replaced with {0x0107,0x0001}?
+Give up on learning the move[0x000A]{0x0107,0x0001}?
+{0x0102,0x0000} did not learn[0x000A]{0x0107,0x0001}.{0xBE01}[0x000A]{0x0102,0x0000} gave up on[0x000A]changing its costume.
+Is it OK to forget the move {0x0107,0x0002}?
+1, {0xBE02:0x0014}2, and{0xBE02:0x0014}... {0xBE02:0x0014}... {0xBE02:0x0014}...[0x000A]Ta-da!{0xBE05,0x0003}{0xBE05,0x0006}{0xBE01}[0x000A]{0x0102,0x0000} forgot how to[0x000A]use {0x0107,0x0002}.{0xBE01}[0x000A]And...
+{0x0102,0x0000} learned {0x0107,0x0001}!
+{0x0102,0x0000} forgot {0x0107,0x0002}...
+Oh, {0x0102,0x0000} is already wearing that costume.[0x000A]But you want a change, right?
+{0x0102,0x0000}[0x000A]took off its costume!
+Oh! {0x0102,0x0000} isn’t[0x000A]wearing a costume!
+{0x0102,0x0000} gave up[0x000A]on changing its costume.
+Hi! Have you got a minute?
+I just saw the Contest Spectacular.[0x000A]Your costume in the contest suited you perfectly!{0xBE01}[0x000A]Your look inspired me. I rushed out and created a[0x000A]matching costume for a Pokémon!
+I know a very fashion-conscious Pikachu[0x000A]called {0xFF00,0x0002}Cosplay Pikachu{0xFF00,0x0000}, and I let it{0xBE00}[0x000A]wear the costume!{0xBE01}[0x000A]Cosplay Pikachu is a special Pikachu![0x000A]It’s very, very, very fashionable, and any{0xBE00}[0x000A]costume looks fantastic on the Pikachu!{0xBE01}[0x000A]You’ll really, really, really stand out if you[0x000A]two go on stage with matching costumes!
+I’m making costumes for the[0x000A]Contest Spectacular!{0xBE01}[0x000A]There are more costumes for[0x000A]Cosplay Pikachu, so please{0xBE00}[0x000A]drop by the dressing room!{0xBE01}[0x000A]Take good care of Pikachu!
+Uh... Your Box is full...[0x000A]I’ll let you have the Pikachu next time!{0xBE00}[0x000A]See you!
+Oh! You came here to get the[0x000A]fashion-conscious Cosplay Pikachu.{0xBE01}[0x000A]Go on stage with matching costumes!
+Take good care of that Pikachu!
+Would you like to give your[0x000A]Cosplay Pikachu a nickname?
+Hmmm. What should I do?{0xBE01}[0x000A]I can’t come up with an idea for a[0x000A]really fashionable Pikachu costume...{0xBE01}[0x000A]I wonder if I could get some inspiration[0x000A]from seeing a wonderful Trainer in a{0xBE00}[0x000A]Contest Spectacular.
+It’s a wardrobe!

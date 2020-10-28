@@ -1,0 +1,15 @@
+main_event_1910_chairman_01=Très impressionnant, {0x0100,0x0000} !{0x0114,0x0006}
+main_event_1910_chairman_02=Je comprends pourquoi tu as été recommandé{0x1100,0x00FF,0x0100}e[0x000A]par notre fameux Maître Invaincu.{0x0114,0x0006}
+main_event_1910_chairman_03=Je regrette d’avoir dû couper court au Match[0x000A]Ultime... Tu t’es donné tellement de mal{0xBE00}[0x000A]pour le Défi des Arènes, et voilà que je gâche{0xBE00}[0x000A]ton heure de gloire.{0x0114,0x0006}
+main_event_1910_chairman_04=Mais comprends que je n’ai pas eu d’autre choix.{0xBE01}[0x000A]Afin d’éviter une grave crise énergétique,[0x000A]il était indispensable de réveiller Éthernatos...{0xBE00}[0x000A]Hélas, je n’ai pas su le contrôler.{0xBE01}[0x000A]Heureusement, le Maître a volé à mon secours,[0x000A]mais cela lui a coûté le match qu’il attendait tant...{0x0114,0x0006}
+main_event_1910_chairman_05=Il est arrivé tel un preux chevalier venu[0x000A]me protéger d’un terrible Dragon !{0x0114,0x0006}
+main_event_1910_chairman_06=Pardon, je parle trop. Cela a toujours été[0x000A]un de mes vilains défauts. Je vais faire court.{0x0114,0x0006}
+main_event_1910_chairman_07=Je pense que le Maître devrait avoir capturé[0x000A]Éthernatos, à l’heure qu’il est.{0xBE01}[0x000A]Si tu souhaites en avoir le cœur net, je t’invite[0x000A]à prendre l’ascenseur pour le rejoindre.{0x0114,0x0006}
+main_event_1910_chairman_08=Nabil, j’espère que ta défaite face à moi[0x000A]ne t’a pas trop découragé ?{0xBE01}[0x000A]En tout cas, je t’encourage à suivre ton ami{0x1100,0x00FF,0x0100}e[0x000A]et à rejoindre ton frère. Allez-y, tous les deux !{0x0114,0x0006}
+main_event_1910_rival_01=Découragé ?[0x000A]Moi ?{0xBE01}[0x000A]Décidément, vous comprenez vraiment rien,[0x000A]m’sieur Shehroz !{0xBE01}[0x000A]Subir une défaite, c’est pas une raison pour[0x000A]baisser les bras, au contraire ! Et ça, je l’ai compris{0xBE00}[0x000A]en participant à votre Défi des Arènes !{0x0114,0x0005}
+main_event_1910_rival_02={0x0100,0x0000} ! T’as tout ce qu’il te faut ?[0x000A]Parce que moi, je suis prêt !{0x0114,0x0005}
+main_event_1910_select_01=Oui !
+main_event_1910_select_02=Laisse-moi juste une minute...
+main_event_1910_rival_03=Parfait ! T’es pas m{0x1100,0x00FF,0x0808}on rivala rivale pour rien ![0x000A]Frangin, on arrive !{0x0114,0x0005}
+main_event_1910_rival_04=T’as raison. Prépare-toi bien, on sait jamais[0x000A]ce qui peut nous attendre là-haut !{0x0114,0x0005}
+main_event_1910_chairman_09=Prenez donc l’ascenseur pour atteindre[0x000A]le sommet. Vous avez ma bénédiction.{0x0114,0x0006}

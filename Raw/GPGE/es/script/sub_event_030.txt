@@ -1,0 +1,9 @@
+msg_sub030_oldm_01=Hola, {0x1100,0x00FF,0x0909}mozalbetejovencita. Me llena de alborozo que por[0x000A]fin te hayas acercado hasta aquí.{0xBE01}[0x000A]Te he visto pasar por allí enfrente muchas veces[0x000A]y quería hablar contigo, que me siento muy solo.{0xBE01}[0x000A]¿Quién me mandaría construir esta piscina[0x000A]enfrente de casa?
+msg_sub030_oldm_02=Salir de paseo me lleva bastante tiempo, porque[0x000A]tengo que dar un señor rodeo.{0xBE01}[0x000A]Esta decisión que tomé cuando era joven fue[0x000A]un disparate, ¡propia de un memo redomado!
+msg_sub030_oldm_05=Desde luego... ¡menudo cabeza de chorlito!
+msg_sub030_oldm_03=¡Buf, qué a gusto me he quedado! Guardarse[0x000A]estos sentimientos no puede ser bueno, yo diría{0xBE00}[0x000A]que es incluso nocivo.{0xBE01}[0x000A]Y hablando de cosas nocivas, ¡te voy a regalar[0x000A]esta MT!
+msg_sub030_oldm_04=La MT26 te permite enseñar a un Pokémon el[0x000A]movimiento Puya Nociva para poner a caldo a{0xBE00}[0x000A]los demás con su lengua viperina...{0xBE00}[0x000A]¡Es broma!{0xBE01}[0x000A]En realidad el Pokémon cubre las extremidades[0x000A]con veneno y, además de infligir daño, a veces{0xBE00}[0x000A]envenena al rival.
+msg_oldman2_01_p01_field_t007={0xBDFF:0x0005}
+msg_oldman2_01_p02_field_t007={0xBDFF:0x0006}
+msg_oldman2_01_p03_field_t007={0xBDFF:0x0007}
+msg_oldman2_01_p04_field_t007={0xBDFF:0x0008}

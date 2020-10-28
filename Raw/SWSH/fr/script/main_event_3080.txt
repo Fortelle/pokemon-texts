@@ -1,0 +1,17 @@
+msg_main3080_water_01=Non, n’approchez pas ! C’est dangereux !{0x0114,0x000F}
+msg_main3080_aku_01=On sait ! On vient aider ! Les spectateurs[0x000A]et le personnel sont à l’abri, c’est bon ?{0x0114,0x0016}
+msg_main3080_water_02=Oui, nous venons tout juste de terminer[0x000A]l’évacuation...{0x0114,0x000F}
+msg_main3080_water_03=Vous savez ce qui se passe, alors ? Et vous avez[0x000A]fait le déplacement pour aider... tous ensemble ?{0xBE00}[0x000A]Ça alors...{0xBE01}[0x000A]Si on m’avait dit qu’un jour tu deviendrais[0x000A]sociable, Peterson, je n’y aurais pas cru !{0x0114,0x000F}
+msg_main3080_aku_02=Oh, ça va, hein.{0x0114,0x0016}
+msg_main3080_rival_01=On veut t’aider !{0x0114,0x0005}
+msg_main3080_water_04=Désolée, je ne voulais pas paraître ingrate[0x000A]ou me moquer. Vous me retirez une épine du pied !{0xBE01}[0x000A]Ce Pokémon Dynamax est redoutable,[0x000A]je ne suis pas convaincue d’être de taille.{0x0114,0x000F}
+msg_main3080_water_05=Toute aide est plus que bienvenue !{0x0114,0x000F}
+msg_main3080_water_06=Il n’y a pas de temps à perdre.[0x000A]Nous avons un Pokémon Dynamax à affronter !{0x0114,0x000F}
+msg_main3080_poke_01={0xBDFF:0x0009}
+msg_main3080_system_01={0xBDFF:0x000A}
+msg_main3080_poke_02={0xBDFF:0x000B}
+msg_main3080_water_07=Merci ! Grâce à vous, personne n’a été blessé[0x000A]et nous avons pu calmer le jeu.{0x0114,0x000F}
+msg_main3080_water_08=Je vais garder ce Pokémon ici et le soigner.{0x0114,0x000F}
+msg_main3080_water_09=Dis, {0x0100,0x0000}...{0xBE01}[0x000A]Sache que si un jour tu as besoin de mon aide,[0x000A]je répondrai toujours présente !{0x0114,0x000F}
+msg_main3080_water_10=Merci encore !{0x0114,0x000F}
+msg_main3080_water_11={0xBDFF:0x0010}

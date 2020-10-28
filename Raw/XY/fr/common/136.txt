@@ -1,0 +1,61 @@
+Aucune Vidéo de Combat n’a été trouvée.[0x000A][0x000A]Vous pouvez en enregistrer une en[0x000A]participant par exemple à un Combat Link.
+Effacer cette Vidéo de Combat[0xE07F]?
+Effacement en cours[0xE08D][0x000A]Ne pas éteindre la console.
+La Vidéo de Combat a été effacée.
+Vérification du serveur en cours[0xE08D][0x000A]Ne pas éteindre la console.
+Retirer cette Vidéo de Combat[0xE07F]?
+La Vidéo de Combat a été retirée.
+Aucune Vidéo de Combat n’a été trouvée.
+Cette Vidéo de Combat ne peut pas être[0x000A]visionnée.
+Une fois publiée, une Vidéo de Combat[0x000A]ne peut pas être retirée avant le lendemain.{0xBE01}[0x000A]Voulez-vous vraiment publier cette vidéo[0xE07F]?
+La Vidéo de Combat a été publiée.
+Cette Vidéo de Combat ne[0x000A]peut pas être publiée.
+Avec quel Dresseur voulez-vous[0x000A]simuler un combat[0xE07F]?
+Avec quels Pokémon voulez-vous[0x000A]simuler un combat[0xE07F]?
+Vous n’avez pas suffisamment de[0x000A]Pokémon pour ce type de combat[0xE07F]!
+Commencer la simulation de combat[0xE07F]?
+Envoi de la Vidéo de Combat en cours[0xE08D][0x000A]Ne pas éteindre la console.
+Retrait de la vidéo en cours[0xE08D][0x000A]Ne pas éteindre la console.
+Veuillez sélectionner la[0x000A]vidéo à publier.
+Préparation de la vidéo en cours[0xE08D]
+Vous ne pouvez pas retirer[0x000A]cette vidéo avant demain.
+Impossible de simuler en vidéo[0x000A]un Combat Multi.
+Merci d’utiliser le Magnéto VS.{0xBE01}[0x000A]En vous connectant à Internet via le PSS,[0x000A]vous pouvez mettre en ligne les Vidéos{0xBE00}[0x000A]de Combat que vous aurez enregistrées{0xBE00}[0x000A]grâce au Magnéto VS.{0xBE01}[0x000A]Il vous suffit de communiquer à vos amis[0x000A]le code de vos vidéos pour qu’ils puissent{0xBE00}[0x000A]les télécharger et les visionner, où qu’ils{0xBE00}[0x000A]soient dans le monde.{0xBE01}[0x000A]N’hésitez donc pas à utiliser le Magnéto VS[0x000A]et à partager des Vidéos de Combat[0xE07F]!
+Recherche en cours[0xE08D]
+Visionnée :
+{0xBDFF:0x0019}
+Vérification de la carte SD[0xE08D][0x000A]Ne pas éteindre la console.
+Le fichier est corrompu.[0x000A]La vidéo a été effacée.
+Recherche par code
+{0x0202,0x0000}/{0x0202,0x0001}
+{0xBDFF:0x001E}
+Équipe
+Boîte Combat
+Retour
+{0x0100,0x0000}
+Mise en ligne le :
+{0x0201,0x0002}/{0x0201,0x0001}/{0x0203,0x0000,0x0000}
+Vues :
+{0x0206,0x0000,0xE07F}
+Combat nº {0x0203,0x0000,0xE07F}
+
+Combat Inversé
+Combat Solo
+Combat Duo
+Combat Trio
+Combat Rotatif
+Combat Multi
+{0xBDFF:0x002F}
+Combat Link
+Maison de Combat
+Super Solo
+Super Duo
+Super Trio
+Super Rotatif
+Super Multi
+Coin combats
+Mode Libre
+Mode Rang
+Combat Spécial
+Une erreur de communication s’est produite.[0x000A]Veuillez reprendre depuis le début.
+{0xBDFF:0x003C}

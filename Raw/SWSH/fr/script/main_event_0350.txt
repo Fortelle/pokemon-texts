@@ -1,0 +1,15 @@
+main_event_0350_rivalmama_04=Pas si vite, tous les deux !{0x0114,0x0009}
+main_event_0350_rival_01=Maman ?[0x000A]Qu’est-ce que tu fais là ?{0x0114,0x0005}
+main_event_0350_rivalmama_01=Tu ne croyais quand même pas t’en tirer[0x000A]avec un au revoir rapide ?{0xBE01}[0x000A]Oh que non, maman t’accompagne à la gare,[0x000A]mon trésor !{0x0114,0x0009}
+main_event_0350_mama_01=La Professeure Magnolia nous a dit ce qui[0x000A]vous attendait. Tenez, ça devrait vous être utile !{0x0114,0x0008}
+main_event_0350_mama_02=Tant que vous restez avec vos partenaires,[0x000A]tout ira bien pour vous !{0x0114,0x0008}
+main_event_0350_rival_02=Merci, m’man !{0xBE01}[0x000A]Je vais devenir Maître de Galar, comme Tarak ![0x000A]Tu vas être trop fière de nous !{0x0114,0x0005}
+main_event_0350_rivalmama_02=Mais oui, mon trésor. Allez, amusez-vous bien,[0x000A]et faites attention sur la route !{0x0114,0x0009}
+main_event_0350_select_01=Au revoir !
+main_event_0350_select_02=Ne vous inquiétez pas !
+main_event_0350_rival_05=Bon, on y va !{0x0114,0x0005}
+main_event_0350_rival_03=J’ai hâte de voir tous les Dresseurs[0x000A]et tous les Pokémon qu’on va rencontrer !{0x0114,0x0005}
+main_event_0350_rival_04=Allez, on se dépêche, {0x0100,0x0000} ![0x000A]Je suis trop hype !{0x0114,0x0005}
+main_event_0350_mama_03=J’aimerais tellement les voir quand ils arriveront[0x000A]à Motorby, avec des étoiles plein les yeux !{0x0114,0x0008}
+main_event_0350_rivalmama_03=Je suis sûre qu’ils ne tiennent déjà plus en place !{0x0114,0x0009}
+main_event_0350_poke1_01=Frex !

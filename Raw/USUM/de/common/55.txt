@@ -1,0 +1,27 @@
+[0x000A]Für das Spiel benötigte Zusatzdaten werden[0x000A]erstellt...[0x000A][0x000A]Bitte entferne nicht die SD Card und schalte[0x000A]das System nicht aus.
+Wähle mit dem Steuerkreuz eine Sprache aus[0x000A]und bestätige, indem du den A-Knopf drückst.[0x000A][0x000A]{0xFF00,0x0001}Warnung: Die Wahl der Sprache ist endgültig[0x000A]und kann später nicht mehr geändert werden!{0xFF00,0x0000}[0x000A][0x000A]Wenn du dir nicht sicher bist, lass dir bitte von[0x000A]jemandem helfen!
+[0x000A][0x000A]Willst du das Spiel in dieser Sprache starten?[0x000A][0x000A]{0xFF00,0x0001}Warnung: Die Wahl der Sprache ist endgültig[0x000A]und kann später nicht mehr geändert werden!{0xFF00,0x0000}
+[0x000A][0x000A]Willst du das Spiel in dieser Sprache starten?[0x000A][0x000A]{0xFF00,0x0001}Warnung: Die Wahl der Sprache ist endgültig[0x000A]und kann später nicht mehr geändert werden!{0xFF00,0x0000}[0x000A][0x000A]Für Japanisch kannst du über die Optionen im[0x000A]Menü zwischen Hiragana und Kanji wechseln.
+In welcher Sprache möchtest du spielen?
+Gewählte Sprache
+Die Einstellungen wurden gespeichert.
+Du erhältst einen Anruf von Professor Kukui[0x000A]aus der Alola-Region.
+Englisch
+Spanisch
+Französisch
+Deutsch
+Italienisch
+Japanisch
+Koreanisch
+Chinesisch (vereinfacht)
+Chinesisch (traditionell)
+Spiel starten
+Andere Sprache wählen
+Hiragana
+Kanji
+Die Speicherdaten sind fehlerhaft.[0x000A][0x000A]Weitere Details dazu findest du in der[0x000A]elektronischen Bedienungsanleitung.[0x000A]Diese kannst du über das HOME-Menü[0x000A]öffnen.
+Die Zusatzdaten auf deiner SD Card[0x000A]sind fehlerhaft.[0x000A][0x000A]Drücke den A-Knopf, um sie zurückzusetzen.
+Es konnte keine SD Card erkannt werden.[0x000A][0x000A]Bitte starte das Spiel neu und wiederhole[0x000A]den Vorgang.
+Die Spieldaten stimmen nicht mit der letzten[0x000A]Speicherung überein.[0x000A][0x000A]Weitere Details dazu findest du in der[0x000A]elektronischen Bedienungsanleitung.[0x000A]Diese kannst du über das HOME-Menü[0x000A]öffnen.
+Spieldaten werden wiederhergestellt...[0x000A]Bitte das System nicht ausschalten.
+Das Spiel kann nicht gestartet werden,[0x000A]da nicht genügend freier Speicherplatz[0x000A]auf der SD Card vorhanden ist.

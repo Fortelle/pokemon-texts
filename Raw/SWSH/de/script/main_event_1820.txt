@@ -1,0 +1,16 @@
+main_event_1820_assistant_01=Huch? Was macht ihr denn hier,[0x000A]{0x0100,0x0000} und Hop?!{0xBE01}[0x000A]Sagt jetzt bloß nicht, {0x0100,0x0000} hat das[0x000A]Champ-Match sausen lassen!{0x0114,0x000B}
+main_event_1820_mama_01=Weißt du es etwa noch nicht, Sania?{0xBE01}[0x000A]Liga-Präsident Rose hat das Turnier unterbrochen![0x000A]Es herrscht ein riesiges Chaos!{0x0114,0x0008}
+main_event_1820_assistant_02=W-Was sagen Sie da?{0xBE01}[0x000A]Ist das wahr?!{0xBE01}[0x000A]Ich war bis eben im Schlummerwald, um ein paar[0x000A]Nachforschungen anzustellen. Das ist alles völlig{0xBE00}[0x000A]an mir vorbeigegangen...{0xBE01}[0x000A]Erzählen Sie mir bitte mehr!{0x0114,0x000B}
+main_event_1820_mama_02=Also, da wäre zuerst dieser schwarze Wirbel,[0x000A]der über dem Claw-Stadion erschienen ist.{0xBE01}[0x000A]Wie nannte der Liga-Präsident ihn noch gleich...?{0xBE01}[0x000A]Ach ja! Die „Finstre Nacht“!{0xBE01}[0x000A]Es war ein heilloses Durcheinander, sag ich dir...{0x0114,0x0008}
+main_event_1820_mama_03=Aber darüber mach ich mir keine Sorgen.{0xBE01}[0x000A]Unser unschlagbarer Champ kriegt die Sache[0x000A]schon wieder in den Griff. Da bin ich mir sicher!{0x0114,0x0008}
+main_event_1820_assistant_03=Stopp! Halt! Pause!{0xBE01}[0x000A]Haben Sie gerade „Finstre Nacht“ gesagt?!{0x0114,0x000B}
+main_event_1820_assistant_09=So hieß der schwarze Wirbel, der vor langer,[0x000A]langer Zeit beinahe ganz Galar zerstört hätte...{0x0114,0x000B}
+main_event_1820_assistant_08=Aber eins verstehe ich nicht... Was führt euch[0x000A]ausgerechnet hierher, {0x0100,0x0000}?{0x0114,0x000B}
+main_event_1820_select_01=Wir wollen die Finstre Nacht aufhalten!
+main_event_1820_select_02=Wir suchen das Pokémon des Schwertes!
+main_event_1820_select_03=Wir suchen das Pokémon des Schildes!
+main_event_1820_assistant_04=Ihr wollt die Finstre Nacht aufhalten?{0xBE01}[0x000A]Heißt das, ihr seid hier, um die Pokémon des[0x000A]Schwertes und des Schildes zu suchen?{0x0114,0x000B}
+main_event_1820_assistant_05=Wenn die Legende stimmt, ist es den Pokémon[0x000A]des Schwertes und des Schildes damals gelungen,{0xBE00}[0x000A]die Finstre Nacht zu bezwingen...{0xBE01}[0x000A]Das heißt, sie könnten uns vielleicht dabei[0x000A]helfen, den Wirbel loszuwerden!{0x0114,0x000B}
+main_event_1820_assistant_06=Okay, ich bin dabei. Nehmt das und geht schon[0x000A]mal in den Schlummerwald.{0xBE01}[0x000A]Ich komme so schnell ich kann nach. Es gibt da[0x000A]noch eine Sache, die ich vorher klären muss.{0x0114,0x000B}
+main_event_1820_assistant_07=Ich will unbedingt herausfinden, wo die Pokémon[0x000A]des Schwertes und des Schildes herkamen!{0x0114,0x000B}
+main_event_1820_mama_04=Tu, was du tun musst, {0x1100,0x00FF,0x0C0A,0x0000}mein Jungemein Mädchen.{0xBE01}[0x000A]Du bist jetzt schließlich ein waschechter[0x000A]Pokémon-Trainer!{0x0114,0x0008}

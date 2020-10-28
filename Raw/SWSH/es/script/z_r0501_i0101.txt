@@ -1,0 +1,11 @@
+msg_r0501_i0101_npc_01=¡Hola, hola! ¡Bienvenid{0x1100,0x00FF,0x0101}oa![0x000A]Dime, ¿tienes alguna pregunta?
+msg_r0501_i0101_npc_02=¿Tienes alguna otra pregunta?
+msg_r0501_i0101_npc_03=Pues no tiene mucho misterio. Aquí cuidamos de[0x000A]los Pokémon que los Entrenadores dejan a{0xBE00}[0x000A]nuestro cargo.{0xBE01}[0x000A]Mientras están aquí no suben de nivel ni nada,[0x000A]pero, si son dos, a veces se da el caso en que{0xBE00}[0x000A]nos los encontramos junto a un Huevo. ¡Figúrate!{0xBE01}[0x000A]Si quieres dejarnos algún Pokémon, habla con mi[0x000A]nieta, que está fuera.
+msg_r0501_i0101_npc_04=Los Huevos Pokémon son uno de los grandes[0x000A]misterios de este mundo... Nadie sabe de dónde{0xBE00}[0x000A]salen.{0xBE01}[0x000A]Lo que sí sabemos es que, si paseas con un[0x000A]Huevo en tu equipo, de él nacerá un Pokémon.
+msg_r0501_i0101_npc_05=Si quieres un Huevo Pokémon, tienes que pensar[0x000A]bien qué dos Pokémon nos quieres dejar.{0xBE01}[0x000A]Te recomiendo que sean dos Pokémon de la[0x000A]misma especie, uno macho y uno hembra.{0xBE01}[0x000A]Aunque también es posible encontrar Huevos[0x000A]con un Pokémon macho y uno hembra de{0xBE00}[0x000A]especies distintas, si son compatibles.{0xBE01}[0x000A]Ten en cuenta que, dependiendo de los[0x000A]Pokémon que nos dejes, es posible que no{0xBE00}[0x000A]encontremos ningún Huevo.
+msg_r0501_i0101_npc_06=¡Hasta otra!
+msg_r0501_i0101_npc_choices_01=¿En qué consiste Cuidados Pokémon?
+msg_r0501_i0101_npc_choices_02=¿Qué son los Huevos Pokémon?
+msg_r0501_i0101_npc_choices_03=¿Qué Pokémon os debería dejar?
+msg_r0501_i0101_npc_choices_04=No, ¡gracias!
+msg_r0501_i0101_bookshelf_01={0xBDFF:0x000A}

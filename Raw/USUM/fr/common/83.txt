@@ -1,0 +1,38 @@
+Communication en cours...[0x000A]Veuillez patienter.
+Que voulez-vous faire[0xE07F]?
+Voulez-vous arrêter de jouer ensemble[0xE07F]?
+Déconnexion...
+Vous laissez {0x0100,0x0000} décider...
+La connexion a été interrompue.{0xBE01}
+Communication en cours...[0x000A]Veuillez patienter.
+Choisi : Combat Solo
+Choisi : Combat Duo
+Choisi : Bataille Royale
+Choisi : Échange Link
+{0x0100,0x0000} vous laisse le choix.[0x000A]Que voulez-vous faire[0xE07F]?
+{0x0100,0x0000} ne peut pas faire d’échange[0x000A]pour le moment, car une erreur de connexion{0xBE00}[0x000A]ou d’alimentation est survenue durant son{0xBE00}[0x000A]dernier échange ou sa dernière connexion{0xBE00}[0x000A]à la GTS.{0xBE01}[0x000A]Veuillez patienter un certain temps avant[0x000A]de proposer un nouvel échange.{0xBE01}
+Vous ne pouvez pas faire d’échange pour[0x000A]le moment, car une erreur de connexion ou{0xBE00}[0x000A]d’alimentation est survenue durant votre{0xBE00}[0x000A]dernier échange ou votre dernière connexion{0xBE00}[0x000A]à la GTS.{0xBE01}[0x000A]Veuillez patienter un certain temps avant[0x000A]de proposer un nouvel échange.{0xBE01}
+{0x0100,0x0000} n’a qu’un Pokémon.[0x000A]Impossible de faire un échange.{0xBE01}
+Votre partenaire et vous n’avez qu’un Pokémon.[0x000A]Impossible de faire un échange.{0xBE01}
+{0x0100,0x0000} n’a qu’un Pokémon[0x000A]dans son équipe ou ses Boîtes PC.{0xBE00}[0x000A]Impossible de faire un Combat Duo.{0xBE01}
+Votre partenaire et vous n’avez qu’un Pokémon[0x000A]dans vos équipes ou vos Boîtes PC.{0xBE00}[0x000A]Impossible de faire un Combat Duo.{0xBE01}
+{0x0100,0x0000}
+Combat Solo
+Combat Duo
+{0xBDFF:0x0015}
+Échange Link
+Laisser l’autre joueur décider
+{0x0100,0x0000} fait son choix...
+Permet de lancer un combat de Pokémon.[0x000A]Chaque Dresseur a besoin d’au moins un Pokémon[0x000A]admissible.
+Permet de lancer un combat de Pokémon.[0x000A]Chaque Dresseur a besoin d’au moins deux Pokémon[0x000A]admissibles dans son équipe ou dans ses Boîtes.
+Permet d’échanger des Pokémon.[0x000A]Chaque Dresseur a besoin d’au moins deux Pokémon.
+Permet de lancer un combat de Pokémon.[0x000A]Chaque Dresseur a besoin d’au moins un Pokémon[0x000A]admissible.
+Permet de laisser l’autre joueur décider de ce que[0x000A]vous allez faire.
+Choix entre Combat Solo, Combat Duo et Échange Link.
+Échange Link
+Combat Solo
+Combat Duo
+{0xBDFF:0x0022}
+Laisser l’autre joueur décider
+Oui
+Non

@@ -1,0 +1,11 @@
+main_event_1550_champion_01={0x0100,0x0000}, Nabil, bravo ![0x000A]Splendide combat !{0xBE01}[0x000A]Franchement, j’ai été ému jusqu’aux larmes.{0x0114,0x0004}
+main_event_1550_champion_02=Quand je repense à tout ce que vous avez[0x000A]accompli, tous les deux...{0xBE01}[0x000A]Vous venez du même village, vous avez construit[0x000A]des équipes formidables en partant de rien,{0xBE00}[0x000A]et vous venez de vous affronter en donnant tout.{0x0114,0x0004}
+main_event_1550_champion_03=Cette soif de victoire,[0x000A]ce refus de baisser les bras...{0xBE01}[0x000A]Le spectacle que vous nous avez offert,[0x000A]c’est la quintessence du combat Pokémon.{0x0114,0x0004}
+main_event_1550_champion_04=Dire qu’il y avait des Dresseurs qui doutaient[0x000A]de vous au début et qui refusaient{0xBE00}[0x000A]de vous recommander !{0x0114,0x0004}
+main_event_1550_rival_01=Euh... Ouais.[0x000A]Genre, toi. T’as oublié ou quoi ?!{0x0114,0x0005}
+main_event_1550_champion_05=Oh, ça va ![0x000A]Je me comprends.{0xBE01}[0x000A]Moi, je donne tout quand j’affronte un Challenger.{0x0114,0x0004}
+main_event_1550_champion_06=Et qui sait, peut-être que cette fois,[0x000A]l{0x1100,0x00FF,0x0101}ea Challenger, ce sera {0x0100,0x0000} !{0xBE00}[0x000A]En tout cas, je l’espère !{0x0114,0x0004}
+main_event_1550_rival_02=Ouais, {0x0100,0x0000} ! C’est maintenant[0x000A]que les choses sérieuses commencent !{0x0114,0x0005}
+main_event_1550_rival_03=Par contre, je sais pas pour toi, mais moi, je suis[0x000A]vanné. Je rentrerais bien me reposer à l’hôtel.{0x0114,0x0005}
+main_event_1550_champion_07=Il faut refaire le plein d’énergie, avant ![0x000A]Tenez, je vais vous inviter au restaurant !{0x0114,0x0004}
+main_event_1550_rival_04=Mouais... Je me méfie, avec toi. Pardon, mais[0x000A]t’as des goûts déplorables, pour la nourriture.{0xBE01}[0x000A]Donc t’es gentil, mais le resto, c’est moi[0x000A]qui le choisis !{0x0114,0x0005}

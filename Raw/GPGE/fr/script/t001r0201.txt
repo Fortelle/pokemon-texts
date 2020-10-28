@@ -1,0 +1,7 @@
+msg_t001r0201_sister_01=Salut, {0x0100,0x0000} !{0xBE01}[0x000A]Y’a mon frère qui te cherchait ![0x000A]T’aurais pas vu {0x0100,0x0001} ?{0xBE01}[0x000A]Il voulait aller au labo du Professeur Chen[0x000A]avec toi...
+msg_t001r0101_sister_02=Salut, {0x0100,0x0000} !{0xBE01}[0x000A]Y’a mon frère qui te cherchait ![0x000A]T’aurais pas vu {0x0100,0x0001} ?{0xBE01}[0x000A]Il voulait aller au labo du Professeur Chen[0x000A]avec toi...
+msg_t001r0101_sister_03=Alors comme ça, {0x0100,0x0001} et toi[0x000A]avez reçu un Pokémon ? C’est super !
+msg_t001r0101_sister_04=Alors comme ça, {0x0100,0x0001} et toi[0x000A]avez reçu un Pokémon ? C’est super !
+msg_t001r0201_map_02={0xBDFF:0x0004}
+msg_t001r0201_map_01=« Prenez soin de votre Pokémon et il vous le[0x000A]rendra au centuple ! »
+msg_t001r0201_photo_01=C’est une photo {0x1408,0x0001}{0x0100,0x0001} !

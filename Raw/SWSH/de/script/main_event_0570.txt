@@ -1,0 +1,15 @@
+main_event_0570_counterw_01=Ah, ein Arena-Challenger! Willkommen!
+main_event_0570_counterw_02=Lass mich dir erst mal den grundsätzlichen[0x000A]Ablauf der Arena-Challenge erklären.{0xBE01}[0x000A]Das Ziel der Arena-Challenge besteht darin, die[0x000A]verschiedenen Arena-Missionen zu bewältigen{0xBE00}[0x000A]und die Arenaleiter zu besiegen.{0xBE01}[0x000A]Von jedem Arenaleiter, den du besiegst, erhältst[0x000A]du einen von insgesamt acht Arenaorden.
+main_event_0570_select_01=Alles klar!
+main_event_0570_select_02=Was sind Arena-Missionen?
+main_event_0570_counterw_03=Möchtest du dich gleich an der[0x000A]Arena-Mission versuchen?
+main_event_0570_select_03=Au ja!
+main_event_0570_select_04=Noch nicht...
+main_event_0570_counterw_04=Wer einen Arenaleiter herausfordern will, muss[0x000A]zunächst die jeweilige {0xFF00,0x0006}Arena-Mission{0xFF00,0x0000} bestehen.{0xBE01}[0x000A]Arena-Missionen sind im Prinzip also kleine[0x000A]Eignungstests.{0xBE01}[0x000A]Außerdem hält jedes Arena-Stadion eine andere[0x000A]Mission für Herausforderer bereit.
+main_event_0570_counterw_05=Gut. Dann solltest du zuerst mal in deine Uniform[0x000A]schlüpfen. Die ist bei Arena-Missionen Pflicht!
+main_event_0570_counterw_06=Nun kann die Arena-Mission beginnen.[0x000A]Zeig, was du draufhast!
+main_event_0570_counterw_07=Du wagst dich an die Arena-Mission?{0xBE01}[0x000A]Dann gebe ich dir einen Spruch mit auf den Weg,[0x000A]der mir immer hilft: Aufgeben ist keine Option!
+main_event_0570_counterw_08=Hey, du hast die Arena-Mission bestanden![0x000A]Gut gemacht!{0xBE01}[0x000A]Aber beim Kampf gegen den Arenaleiter sind[0x000A]andere Talente gefragt. Da kommt es nämlich{0xBE00}[0x000A]auf die Zusammenarbeit zwischen dir und{0xBE00}[0x000A]deinem Pokémon-Team an!
+main_event_0570_counterw_09=Kein Problem. Unsere Türen stehen dir[0x000A]jederzeit offen!
+main_event_0570_counterw_10={0xBDFF:0x000D}
+main_event_0570_counterw_11={0xBDFF:0x000E}

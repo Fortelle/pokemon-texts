@@ -1,0 +1,232 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+Anprobieren
+Kaufen
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+{0xBDFF:0x001A}
+{0xBDFF:0x001B}
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}
+{0xBDFF:0x001E}
+{0xBDFF:0x001F}
+{0xBDFF:0x0020}
+{0xBDFF:0x0021}
+{0xBDFF:0x0022}
+{0xBDFF:0x0023}
+{0xBDFF:0x0024}
+{0xBDFF:0x0025}
+{0xBDFF:0x0026}
+{0xBDFF:0x0027}
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+{0xBDFF:0x002A}
+{0xBDFF:0x002B}
+{0xBDFF:0x002C}
+{0xBDFF:0x002D}
+{0xBDFF:0x002E}
+{0xBDFF:0x002F}
+{0xBDFF:0x0030}
+{0xBDFF:0x0031}
+{0xBDFF:0x0032}
+{0xBDFF:0x0033}
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+{0xBDFF:0x0036}
+{0xBDFF:0x0037}
+{0xBDFF:0x0038}
+{0xBDFF:0x0039}
+Dieses Stockwerk ist auf Damenmode spezialisiert.{0xBE01}[0x000A]Für dich haben wir also leider nichts im Sortiment,[0x000A]aber schau dich ruhig ein wenig um!
+{0xBDFF:0x003B}
+Diese Kleidungsstücke sind nur für Mädchen.[0x000A]Sie sehen recht teuer aus.
+{0xBDFF:0x003D}
+Dieses Stockwerk ist auf Herrenmode spezialisiert.{0xBE01}[0x000A]Für dich haben wir also leider nichts im Sortiment,[0x000A]aber schau dich ruhig ein wenig um!
+{0xBDFF:0x003F}
+Diese Kleidungsstücke sind nur für Jungs.[0x000A]Sie sehen recht teuer aus.
+{0xBDFF:0x0041}
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+Auswahl ändern
+Umziehen
+Geld
+{0xBDFF:0x0047}
+Willst du die Umkleidekabine verlassen?
+{0xBDFF:0x0049}
+{0xBDFF:0x004A}
+{0xBDFF:0x004B}
+{0xBDFF:0x004C}
+{0xBDFF:0x004D}
+Y-Knopf: Zoomansicht (de-)aktivieren
+Schiebepad links/rechts:[0x000A]Figur horizontal drehen[0x000A]Schiebepad oben/unten:[0x000A]Kamera vertikal bewegen[0x000A](in der Zoomansicht)
+{0x0206,0x0000,0x002E} $
+{0xBDFF:0x0051}
+{0xBDFF:0x0052}
+Das ist die Umkleidekabine.[0x000A]Willst du dich umziehen?
+Das ist die Umkleidekabine.{0xBE01}[0x000A]Hier kannst du die Artikel anprobieren,[0x000A]die du ausgewählt hast.
+Das ist die Umkleidekabine.[0x000A]Was willst du an deinem Outfit ändern?
+Klamotten
+Kontaktlinsen
+Du hast gar keine Kontaktlinsen!
+Welche Kontaktlinsen willst du tragen?
+Braun
+Hellbraun
+Grau
+Grün
+Blau
+Gar keine
+Weiter
+Beenden
+Sag mal... Weißt du eigentlich, was es[0x000A]mit den Rabattmarken auf sich hat?{0xBE01}[0x000A]Wer bei uns mit einer Rabattmarke einkauft, erhält[0x000A]einen Preisnachlass von {0x0201,0x0001} % auf alle Artikel.{0xBE01}[0x000A]Wenn du eine hast, dann lass es mich[0x000A]beim Bezahlen bitte wissen.
+Sag, wurdest du eigentlich bereits über[0x000A]das Rabattmarken-System aufgeklärt?{0xBE01}[0x000A]Wer bei uns mit einer Rabattmarke einkauft, erhält[0x000A]einen Preisnachlass von {0x0201,0x0001} % auf alle Artikel.{0xBE01}[0x000A]Solltest du eine besitzen, dann lass es mich[0x000A]beim Bezahlen bitte wissen.
+{0xBDFF:0x0064}
+{0xBDFF:0x0065}
+{0xBDFF:0x0066}
+{0xBDFF:0x0067}
+{0xBDFF:0x0068}
+{0xBDFF:0x0069}
+{0xBDFF:0x006A}
+{0xBDFF:0x006B}
+Artikelwahl
+Menü
+Lieblingsoutfit wählen
+Lieblingsoutfit registrieren
+Artikel alphabetisch ordnen
+{0xBDFF:0x0071}
+{0xBDFF:0x0072}
+Menü öffnen
+Menü schließen
+Lieblingsoutfit auswählen
+Lieblingsoutfit registrieren
+{0xBDFF:0x0077}
+Wähle eins deiner registrierten[0x000A]Lieblingsoutfits aus.
+Registriere dein aktuelles Outfit[0x000A]als eines deiner Favoriten.
+Sieh dir die Liste deiner Artikel in[0x000A]alphabetischer Reihenfolge an.
+Sieh dir die Liste deiner Artikel in[0x000A]der ursprünglichen Reihenfolge an.
+Aktuelles Outfit
+Favorit Nr. {0x0200,0x0000}
+{0xBDFF:0x007E}
+Soll dein aktuelles Outfit als[0x000A]Favorit Nr. {0x0200,0x0000} registriert werden?
+Es wurde bereits ein Outfit als Favorit Nr. {0x0200,0x0000}[0x000A]registriert. Willst du das alte Outfit verwerfen?
+Favorit Nr. {0x0200,0x0000} wurde ausgewählt.[0x000A]Willst du dieses Outfit auswählen?
+Für Favorit Nr. {0x0200,0x0000} wurde noch kein Outfit[0x000A]registriert!
+Du hast das Outfit ausgewählt, das als[0x000A]Favorit Nr. {0x0200,0x0000} registriert ist!
+Das Outfit wurde als Favorit Nr. {0x0200,0x0000} registriert!
+{0xBDFF:0x0085}
+{0xBDFF:0x0086}
+Alphabetische Artikelliste
+Rot
+Orange
+Gelb
+Gelbgrün
+Grün
+Blau
+Hellblau
+Pink
+Violett
+Braun
+Schwarz
+Grau
+Dunkelblau
+Beige
+Olivgrün
+Rosarot
+Gold
+Silber
+{0xBDFF:0x009A}
+{0xBDFF:0x009B}
+{0xBDFF:0x009C}
+{0xBDFF:0x009D}
+{0xBDFF:0x009E}
+{0xBDFF:0x009F}
+{0xBDFF:0x00A0}
+{0xBDFF:0x00A1}
+{0xBDFF:0x00A2}
+{0xBDFF:0x00A3}
+{0xBDFF:0x00A4}
+{0xBDFF:0x00A5}
+{0xBDFF:0x00A6}
+Alphabetische Sortierung beenden
+Ja
+Nein
+Guten Tag![0x000A]Kann ich dir helfen?
+Einen schönen guten Tag![0x000A]Wie kann ich behilflich sein?
+Wie kauft man Artikel?
+Ich will etwas anprobieren!
+Ich sehe mich nur um.
+Wenn du die Auslage überprüfst oder die[0x000A]Umkleidekabine betrittst, kannst du dir{0xBE00}[0x000A]unser Sortiment ansehen.{0xBE01}[0x000A]Auf diese Weise kannst du entscheiden,[0x000A]ob dir ein Artikel das Geld wert ist.
+Wirf ein Auge auf die Auslage oder begib dich[0x000A]in die Umkleidekabine, um die verschiedenen{0xBE00}[0x000A]Artikel aus unserem Sortiment zu betrachten.{0xBE01}[0x000A]Wähle auf diese Weise aus, welche[0x000A]Kleidungsstücke du gerne erstehen möchtest.
+Sehr schön! Immer mir nach![0x000A]Die Umkleidekabine ist gleich da drüben!
+Sehr wohl. Bitte folge mir.{0xBE01}[0x000A]Die Umkleidekabine ist gleich dort drüben.
+Ah, da bist du ja wieder!{0xBE01}[0x000A]Schau dich doch in aller Ruhe um,[0x000A]vielleicht findest du ja noch etwas Schönes!
+Vielen Dank, dass du unsere Waren anprobiert hast.{0xBE01}[0x000A]Vielleicht findest du unter den restlichen Artikeln[0x000A]ja noch etwas, das dich interessiert?
+Wow, dieser Look steht dir wirklich extrem gut!{0xBE01}[0x000A]Damit kommst du auf insgesamt {0x0201,0x0000} Artikel und[0x000A]{0x0206,0x0001,0x002E} $. Möchtest du {0x1101,0x0000,0x0303}ihnsie kaufen?
+Damit siehst du wirklich blendend aus!{0xBE01}[0x000A]Das macht dann insgesamt {0x0201,0x0000} Artikel und[0x000A]{0x0206,0x0001,0x002E} $. Möchtest du {0x1101,0x0000,0x0303}ihnsie kaufen?
+Gut, dann wandert die Ware sofort[0x000A]wieder zurück in die Auslage.
+Dann kommt die Ware zurück in die Auslage.
+Du kannst so viele Artikel anprobieren,[0x000A]wie du möchtest! Gib einfach Bescheid,{0xBE00}[0x000A]wenn ich dir irgendwie helfen kann!
+Wenn du irgendetwas anprobieren möchtest,[0x000A]kannst du dich jederzeit an mich wenden!
+Ach ja, hattest du nicht eine Rabattmarke?{0xBE01}[0x000A]Das heißt, du erhältst die Ware {0x0201,0x0001} Prozent billiger![0x000A]Insgesamt bekomme ich also {0x0206,0x0000,0x002E} $ von dir.{0xBE00}[0x000A]Möchtest du die Rabattmarke verwenden?
+Du bist im Besitz einer Rabattmarke, nicht wahr?{0xBE01}[0x000A]Dann erhältst du die Ware {0x0201,0x0001} Prozent billiger.[0x000A]Insgesamt macht das also {0x0206,0x0000,0x002E} $.{0xBE00}[0x000A]Möchtest du die Rabattmarke verwenden?
+In Ordnung!{0xBE01}[0x000A]Na ja, die Rabattmarke verfällt ja nicht.[0x000A]Aber vergiss nicht, sie irgendwann zu benutzen!
+Ich verstehe.{0xBE01}[0x000A]Die Rabattmarke verfällt übrigens nie.[0x000A]Verwende sie einfach bei deinem nächsten Einkauf.
+Alles klar! Dann gib mir bitte deine Rabattmarke.
+Gut! Dürfte ich dann bitte die[0x000A]Rabattmarke von dir haben?
+Hoppla! Sieht so aus, als hätte[0x000A]jemand nicht genug Geld dabei!
+Ich bin untröstlich, aber dein Geld reicht nicht aus,[0x000A]um die Ware zu bezahlen...
+Heißen Dank![0x000A]Du hast einen guten Geschmack!
+Vielen Dank für deinen Einkauf!
+Schau bald mal wieder vorbei!
+Bitte beehre uns bald wieder!
+Diesen Artikel hast du offenbar schon!
+Du bist bereits im Besitz dieses Artikels!
+Ach ja, hattest du nicht eine Rabattmarke?{0xBE01}[0x000A]Das heißt, du erhältst die Ware {0x0201,0x0001} Prozent billiger![0x000A]Insgesamt bekomme ich also {0x0206,0x0000,0x002E} $ von dir.{0xBE00}[0x000A]Möchtest du die Rabattmarke verwenden?
+Du bist im Besitz einer Rabattmarke, nicht wahr?{0xBE01}[0x000A]Dann erhältst du die Ware {0x0201,0x0001} Prozent billiger.[0x000A]Insgesamt macht das also {0x0206,0x0000,0x002E} $.{0xBE00}[0x000A]Möchtest du die Rabattmarke verwenden?
+Möchtest du diesen Artikel kaufen?
+Möchtest du diese Ware kaufen?
+In Ordnung!{0xBE01}[0x000A]Na ja, die Rabattmarke verfällt ja nicht.[0x000A]Aber vergiss nicht, sie irgendwann zu benutzen!
+Ich verstehe.{0xBE01}[0x000A]Die Rabattmarke verfällt übrigens nie. Verwende sie[0x000A]einfach bei einem deiner nächsten Einkäufe.
+Alles klar, dann gib mir jetzt bitte[0x000A]deine Rabattmarke!
+Gut! Dürfte ich dann bitte die[0x000A]Rabattmarke von dir haben?
+Hoppla! Sieht so aus, als hätte[0x000A]jemand nicht genug Geld dabei!
+Ich bin untröstlich, aber dein Geld reicht nicht aus,[0x000A]um die Ware zu bezahlen...
+Heißen Dank![0x000A]Hier hast du deine Ware.
+Vielen Dank für deinen Einkauf![0x000A]Hier, vergiss deine Ware nicht!
+Kein Problem![0x000A]Lass dir nur Zeit.
+Sehr wohl.[0x000A]Lass dir ruhig alle Zeit der Welt.
+Auswahl ändern
+O.K.
+Weiter
+Trägst du gerade
+Hallöchen!{0xBE01}[0x000A]Schnapp dir ein paar Artikel aus dem Sortiment[0x000A]und entscheide in der Umkleidekabine,{0xBE00}[0x000A]welche du gerne kaufen möchtest.
+Herzlich willkommen!{0xBE01}[0x000A]Schau dir in aller Ruhe unser Sortiment an.[0x000A]Vielleicht findest du ja was für dich!
+Kein Problem![0x000A]Lass dir nur Zeit.
+Sehr wohl.[0x000A]Lass dir ruhig alle Zeit der Welt.
+Das ist die Umkleidekabine![0x000A]Willst du dich umziehen?
+Das ist die Umkleidekabine![0x000A]Willst du dich umziehen?
+Du willst etwas anprobieren?[0x000A]Gerne, lass dir ruhig Zeit!
+Du willst etwas anprobieren?[0x000A]Gerne, lass dir ruhig Zeit!
+Entschuldigung, aber die Herrenabteilung[0x000A]befindet sich im ersten Stock!{0xBE01}[0x000A]Dort wirst du eher fündig als hier.
+Entschuldigung, aber die Damenabteilung[0x000A]befindet sich im Erdgeschoss!{0xBE01}[0x000A]Dort wirst du eher fündig als hier.
+Weiß
+Gekauft
+Zurück

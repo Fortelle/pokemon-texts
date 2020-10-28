@@ -1,0 +1,11 @@
+msg_main0510_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¡Ah! ¿{0x0100,0x0000}?
+msg_main0510_rival_02=¿Qué haces tú por aquí?{0xBE01}[0x000A]No me digas que {0x1101,0x00FD,0x0A02}tuuno de tus Pokémon...
+msg_main0510_rival_07=No es el caso, ¿no? Ufff... Menos mal.
+msg_main0510_rival_03=Será mejor que compruebe si está en forma...[0x000A]¡por si las moscas!
+msg_main0510_rival_04=Será mejor que compruebe si están en forma...[0x000A]¡por si las moscas!
+msg_main0510_dummy_01={0xBDFF:0x0005}
+msg_main0510_rival_05=¡Mecachis! Me he distraído combatiendo y he[0x000A]perdido de vista a Cubone...{0xBE01}[0x000A]Sabes de qué Pokémon te hablo, ¿verdad?[0x000A]¡El que lleva un casco huesudo!
+msg_main0510_rival_06=Tenía pinta de estar buscando algo. ¿Qué será?{0xBE01}[0x000A]Me pregunto si habrá subido a otra planta.
+msg_rival_01_p01_cave_d1702={0xBDFF:0x0008}
+msg_rival_01_p02_cave_d1702={0xBDFF:0x0009}
+msg_rival_01_p03_cave_d1702={0xBDFF:0x000A}

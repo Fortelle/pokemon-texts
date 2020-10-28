@@ -1,0 +1,6 @@
+msg_sub060_staffm_01=Oh no...{0xBE01}[0x000A]Temo che il Team Rocket voglia usare la Silph[0x000A]per creare dei Pokémon imbattibili...{0xBE01}[0x000A]Non voglio che si prendano il Porygon che ho[0x000A]creato! Non mi resta che portarlo via con me...
+msg_sub060_poke_01={0xFF00,0x0009}Porygon:{0xFF00,0x0000} Pory pory...
+msg_sub060_staffm_02=Come?! Sei riuscit{0x1100,0x00FF,0x0101}oa a sconfiggere[0x000A]il Team Rocket?!{0xBE00}[0x000A]Grazie mille!!{0xBE01}[0x000A]Che ne dici, ti andrebbe di allenare un Pokémon[0x000A]creato dalla Silph?
+msg_sub060_sys_01={0xBDFF:0x0003}
+msg_sub060_staffm_03=È così squadrato! È troppo carino!
+msg_sub060_poke_02={0xFF00,0x0009}Porygon:{0xFF00,0x0000} Pory pory!

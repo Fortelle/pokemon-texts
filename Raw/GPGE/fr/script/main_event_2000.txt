@@ -1,0 +1,13 @@
+msg_main2000_rival_01={0xFF00,0x0009}{0x0100,0x0001} : {0xFF00,0x0000}Yo ! T’es là-haut ?
+msg_main2000_rival_02=Je monte !
+msg_main2000_rival_03={0xFF00,0x0009}{0x0100,0x0001} : {0xFF00,0x0000}Alors ?[0x000A]Comment se porte le Maître de Kanto, ce matin ?
+msg_main2000_rival_09=T’endors pas trop sur tes lauriers, {0x1100,0x00FF,0x0408}mon potegirl.[0x000A]Je compte bien te détrôner un jour !
+msg_main2000_rival_04=Au fait, t’as entendu la rumeur ?![0x000A]On raconte qu’un Pokémon super fort est apparu !
+msg_main2000_sel_01=Ah ouais ? Quel genre de Pokémon ?
+msg_main2000_sel_02=Sérieux ? Faut que je le capture !
+msg_main2000_rival_05=Du genre super fort ! Et méga cool !!!
+msg_main2000_rival_06=Ha ha ha, tu perds pas le nord, toi !
+msg_main2000_rival_07=En tout cas, il paraît qu’il traînait près d’{0xFF00,0x0006}Azuria{0xFF00,0x0000}...
+msg_main2000_rival_10=Il se serait planqué dans une grotte.
+msg_main2000_rival_08=Ça te dirait qu’on aille à sa recherche ?[0x000A]Genre, maintenant ?
+msg_main2000_rival_11=Allez, go ! Le premier qui l’attrape a gagné !

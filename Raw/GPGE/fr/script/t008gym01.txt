@@ -1,0 +1,4 @@
+msg_t008gym01_gym_01=L’Arène de Parmanie est un vrai casse-tête !{0xBE01}[0x000A]Koga te semblera peut-être proche, mais de[0x000A]nombreux murs invisibles le protègent !{0xBE01}[0x000A]Trouve les espaces entre ces murs pour parvenir[0x000A]jusqu’à lui !
+msg_t008gym01_gym_02=Tu as vu ça ?! Ce n’est pas pour rien que[0x000A]les ninjas ont traversé les siècles !{0xBE01}[0x000A]Il ne faut pas les prendre à la légère !
+msg_t008gym01_statue_01=Arène Pokémon de Parmanie{0xBE01}[0x000A]Champion : Koga[0x000A]Vainqueurs : {0x0100,0x0001}
+msg_t008gym01_statue_02=Arène Pokémon de Parmanie{0xBE01}[0x000A]Champion : Koga[0x000A]Vainqueurs : {0x0100,0x0001},{0xBE00}[0x000A]{0x0100,0x0000}

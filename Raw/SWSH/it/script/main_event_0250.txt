@@ -1,0 +1,14 @@
+main_event_0250_rival_06=Per di qua, {0x0100,0x0000}!{0x0114,0x0005}
+main_event_0250_rival_01=Hai capito come si fa a catturare i Pokémon?{0x0114,0x0005}
+main_event_0250_champion_01=In caso contrario, te lo insegno io!{0xBE01}[0x000A]È importante, se vuoi completare il Pokédex!{0x0114,0x0004}
+main_event_0250_rival_02=Dandel!?{0x0114,0x0005}
+main_event_0250_champion_05=Ma... Hai già catturato dei Pokémon![0x000A]Complimenti, {0x0100,0x0000}!{0xBE01}[0x000A]Tua madre ti ha regalato delle Poké Ball, vero?{0x0114,0x0004}
+main_event_0250_champion_02=Sai, ogni Pokémon ha uno o due tipi che[0x000A]possono renderlo forte contro alcuni{0xBE00}[0x000A]avversari, ma debole contro altri.{0xBE01}[0x000A]Per questo è importante avere in squadra[0x000A]dei Pokémon che possano sostenersi l’un{0xBE00}[0x000A]l’altro compensando le rispettive debolezze.{0xBE01}[0x000A]Ma un esempio vale più di mille parole![0x000A]It’s champion time!{0x0114,0x0004}
+main_event_0250_capturedemo_01={0xBDFF:0x0006}
+main_event_0250_capturedemo_02={0xBDFF:0x0007}
+main_event_0250_capturedemo_03={0xBDFF:0x0008}
+main_event_0250_rival_03=Mio fratello è proprio una forza!{0x0114,0x0005}
+main_event_0250_champion_03=Queste sono da parte mia, ti saranno utili[0x000A]per catturare un sacco di Pokémon da{0xBE00}[0x000A]aggiungere alla tua squadra!{0xBE01}[0x000A]I Pokémon di queste parti si lasciano catturare[0x000A]facilmente...{0xBE01}[0x000A]Sembra quasi che non vedano l’ora di fare[0x000A]amicizia con degli Allenatori!{0x0114,0x0004}
+main_event_0250_rival_04=Tra l’altro, catturando Pokémon, ottieni anche[0x000A]Punti Esperienza!{0x0114,0x0005}
+main_event_0250_champion_04=Affronta gli Allenatori di Pokémon che incontri[0x000A]lungo i vari percorsi per rendere più forti i tuoi{0xBE00}[0x000A]Pokémon!{0xBE01}[0x000A]Sono proprio curioso di vedere quali Pokémon[0x000A]sceglierete di allenare! Il Campione vi osserva!{0x0114,0x0004}
+main_event_0250_rival_05=Bene! Mi fiondo subito a catturare altri Pokémon![0x000A]La Professoressa resterà senza parole... Vedrai!{0x0114,0x0005}

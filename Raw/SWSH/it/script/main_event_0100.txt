@@ -1,0 +1,7 @@
+main_event_0100_telop_01=Il giorno dopo...
+main_event_0100_champion_01=Ragazzi, come è andata la vostra prima serata[0x000A]da Allenatori?{0xBE01}[0x000A]Avrete sicuramente avuto l’opportunità di[0x000A]conoscere meglio i vostri Pokémon e rafforzare{0xBE00}[0x000A]il vostro legame con loro!{0x0114,0x0004}
+main_event_0100_rival_01=Esatto! È andata proprio così!{0xBE01}[0x000A]Dovresti vedere quanto vanno d’accordo[0x000A]{0x0100,0x0000} e {0x0101,0x0001}!{0x0114,0x0005}
+main_event_0100_champion_02=Statemi bene a sentire, Allenatori![0x000A]Credete in voi stessi e nei vostri Pokémon!{0xBE01}[0x000A]Se continuerete a lottare senza mai perdere[0x000A]la fiducia gli uni negli altri, forse un giorno...{0x0114,0x0004}
+main_event_0100_champion_03=Potrete perfino diventare i rivali degni[0x000A]di un Campione invincibile come me!{0x0114,0x0004}
+main_event_0100_rival_02=Dandel! Sarò io a sfidarti per il titolo[0x000A]di Campione, già lo sai!{0x0114,0x0005}
+main_event_0100_rival_03=Quindi da oggi io e {0x1100,0x00FF,0x0B0B}il mio carola mia cara {0x0100,0x0000}[0x000A]saremo rivali.{0xBE01}[0x000A]E non ho alcuna intenzione di farmi battere!{0x0114,0x0005}

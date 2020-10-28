@@ -1,0 +1,15 @@
+The door is locked.{0xBE01}[0x000A]A message is written on the scroll on the door:[0x000A]“Write the secret code here.”
+{0x0100,0x0000} wrote the secret code on the scroll!{0xBE01}[0x000A]“Trick Master is a genius.”{0xBE01}[0x000A]...{0xBE01}[0x000A]The door was unlocked!
+{0x0100,0x0000} found a scroll!
+{0x0100,0x0000} memorized the secret code[0x000A]written on the scroll.
+A secret code is written on it.
+CLICKETY-CLACK...[0x000A]MECHADOLL 3 AM I!{0xBE01}[0x000A]DO YOU FEEL CONFIDENT?[0x000A]AN ESCAPE ROPE, $550!{0xBE00}[0x000A]YOU’D BETTER BUY ONE!
+CLICKETY-CLACK...[0x000A]NICE DOING BUSINESS WITH YOU!
+YOU DON’T HAVE ENOUGH MONEY.
+YOU SHOULD BUY ONE...
+YOU HAVE PLENTY.[0x000A]NO NEED TO BUY.
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}

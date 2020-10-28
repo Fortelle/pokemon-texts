@@ -1,0 +1,39 @@
+{0x0181,0x0000}
+Soldi
+{0x0206,0x0000,0x002E} $
+Cosa vuoi comprare?
+Guardati
+Cambiati
+Articolo acquistato
+{0x0184,0x0000}
+Cosa vuoi indossare?
+Non ci sono articoli di questo tipo.
+Non ci sono articoli di questo tipo.
+Non ci sono articoli di questo tipo.
+Non ci sono articoli di questo tipo.
+Non ci sono articoli di questo tipo.
+Non ci sono articoli di questo tipo.
+Non ci sono articoli di questo tipo.
+Non ci sono articoli di questo tipo.
+Fanno {0x0206,0x0000,0x002E} $. Va bene?
+Vuoi indossare i tuoi ultimi acquisti?
+Il tuo abbigliamento è cambiato.[0x000A]Vuoi confermare il nuovo look?
+Grazie! Se vuoi cambiarti, usa pure il camerino!
+Non hai abbastanza soldi.
+Hai già acquistato questo articolo.
+Ora non puoi scegliere questo articolo.
+Fanno {0x0206,0x0000,0x002E} $.{0xBE01}[0x000A]Non puoi indossare questo articolo con la tua[0x000A]acconciatura attuale. Vuoi comprarlo lo stesso?
+Sì
+No
+Pulsante Y:[0x000A]attiva/disattiva zoom[0x000A][0x000A]Pulsanti L/R:[0x000A]ruota a sinistra/destra[0x000A][0x000A]Pulsantiera +/pad scorrevole:[0x000A]muovi l’inquadratura verticalmente nello zoom
+Festigettoni
+{0x0206,0x0000,0x002E} FG
+Scegli una combinazione.
+Vuoi tingere di questo colore {0x1102,0x0000,0x0606,0x0606}il tuola tuai tuoile tue[0x000A]{0x0181,0x0000}?
+Fanno {0x0206,0x0000,0x002E} festigetton{0x1101,0x0000,0x0101}ei.[0x000A]Va bene?
+Grazie!{0xBE01}[0x000A]Splash splish splush...[0x000A]Swash swish swush...{0xBE01}[0x000A]Sciaf! Sciaf! Sciaf!{0xBE01}[0x000A]Swoooooooooooosh!{0xBE01}[0x000A]...[0x000A]...{0xBE01}[0x000A]Ecco fatto!{0xBE01}
+Vuoi indossare l’articolo che hai fatto tingere?
+Non hai abbastanza festigettoni!
+Non ci sono articoli da tingere.
+Ti faccio anche un’altra foto per il passaporto[0x000A]Allenatore. Offre la casa!
+Quale articolo vuoi tingere?

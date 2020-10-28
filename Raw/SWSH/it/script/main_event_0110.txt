@@ -1,0 +1,12 @@
+main_event_0110_rival_01=Ottenere un Pokémon è la parte facile.[0x000A]Per fare l’Allenatore bisogna anche lottare.{0xBE01}[0x000A]Solo così si diventa forti!{0x0114,0x0005}
+main_event_0110_champion_01=Perché non fate subito una bella lotta fra di voi?{0xBE01}[0x000A]Così potrò giudicare se siete Allenatori degni[0x000A]di questo nome!{0x0114,0x0004}
+main_event_0110_champion_02=Allora, te la senti di affrontare la prima lotta[0x000A]di Pokémon della tua vita?{0x0114,0x0004}
+main_event_0110_champion_03=Lascia che ti dia un consiglio!{0xBE01}[0x000A]Salva i tuoi progressi, se non vuoi dimenticare[0x000A]tutto quello che hai fatto finora.{0x0114,0x0004}
+main_event_0110_champion_04=Abbi fiducia nel tuo compagno d’avventura[0x000A]e prenditene cura amorevolmente!{0xBE01}[0x000A]Solo così imparerai a scegliere le mosse che gli[0x000A]permettono di esprimere al meglio la sua forza...{0xBE01}[0x000A]E soprattutto ti divertirai un mondo a lottare!{0x0114,0x0004}
+main_event_0110_champion_05=Bene, vi vedo belli carichi![0x000A]Forza allora, dateci dentro!{0x0114,0x0004}
+main_event_0110_rival_02=Ho assistito a tutte le lotte di mio fratello!{0xBE01}[0x000A]Ho anche letto tutti i libri e le riviste che ci sono[0x000A]in camera sua! So cosa fare per vincere!{0x0114,0x0005}
+main_event_0110_rival_03=Accidenti! Ora capisco perché mio fratello ti ha[0x000A]dato un Pokémon!{0x0114,0x0005}
+main_event_0110_rival_04=Sai che ti dico? Non importa!{0xBE01}[0x000A]Avrai anche uno dei Pokémon di mio fratello,[0x000A]ma il più forte resto sempre io!{0x0114,0x0005}
+main_event_0110_champion_06=I vostri Pokémon hanno lottato con grande[0x000A]coraggio e bravura!{0xBE01}[0x000A]Stavo quasi per mandare in campo Charizard[0x000A]per unirmi alla lotta...!{0xBE01}[0x000A]{0x0101,0x0001}, non male come prima lotta![0x000A]Ora rimetterò in sesto te e gli altri.{0x0114,0x0004}
+main_event_0110_champion_07={0x0100,0x0000}, sei un{0x1100,0x00FF,0x0100}a giovane promettente![0x000A]Vorrei chiederti un favore.{0xBE01}[0x000A]Diventeresti {0x1100,0x00FF,0x0202}illa rivale di Hop? Sfidandovi l’un[0x000A]l’altr{0x1100,0x00FF,0x0101}oa potrete diventare sempre più forti!{0x0114,0x0004}
+main_event_0110_rival_05=Io e il mio {0x0101,0x0002} ce la metteremo tutta!{0x0114,0x0005}

@@ -1,0 +1,5 @@
+msg_t001r0102_game_01=¡Es una Nintendo Switch! Está conectada al[0x000A]televisor.
+msg_t001r0102_bg_01=¿Cuántos Pokémon habrá en todo el mundo?
+msg_t001r0102_bg_02=Has recibido un correo de {0x0100,0x0001}.{0xBE01}[0x000A]"Oye, {0x0100,0x0000}, echa un vistazo a esto:[0x000A]'Pulsa el botón A para hablar con la gente.{0xBE01}[0x000A]Inclina al máximo la palanca para correr.[0x000A]Pulsa el botón X para acceder al menú principal{0xBE00}[0x000A]y guarda la partida con la opción Guardar'.{0xBE01}[0x000A]Ojalá te sea de ayuda, porque dentro de poco[0x000A]nos vamos a embarcar en una aventura".
+msg_t001r0102_bg_03=Es un muñeco de peluche de Pikachu muy suave.
+msg_t001r0102_bg_04=Es un muñeco de peluche de Eevee muy suave.

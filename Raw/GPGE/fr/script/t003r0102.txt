@@ -1,0 +1,14 @@
+msg_t003r0102_scientist_01_01=Ce mois-ci, nous vous proposons une exposition[0x000A]sur l’espace.
+msg_t003r0102_juvenilem_01_01=T’as vu la Pierre Lune ? Perso, je vois aucune[0x000A]différence avec n’importe quel aut’ caillou !
+msg_t003r0102_oldm_01_01=Après avoir posé le pied sur la lune il y a tout[0x000A]juste quelques décennies, l’espèce humaine{0xBE00}[0x000A]aspire désormais à fouler le sol d’une planète{0xBE00}[0x000A]rouge encore plus éloignée !{0xBE01}[0x000A]Ah, la conquête de l’espace ne cessera jamais[0x000A]de me faire rêver... !
+msg_t003r0102_juveniles_01_01=Je veux un {0x0101,0x0002} !{0xBE01}[0x000A]Il est trop chou ! Tu m’en attraperas un, papa,[0x000A]hein ? Hein ?!
+msg_t003r0102_fat_01_01=Oui, oui, tu vas l’avoir, ton {0x0101,0x0002}...[0x000A]C’est ça.
+msg_t003r0102_fat_01_02=Je t’aurais bien demandé de me céder[0x000A]ton {0x0101,0x0002}, mais je ne peux pas.{0xBE00}[0x000A]Je vois bien que vous allez devenir très amis.
+msg_t003r0102_fat_01_03=Ça me dépannerait bien si je pouvais avoir[0x000A]ton {0x0101,0x0002}, mais il t’aime trop pour{0xBE00}[0x000A]que je te l’arrache...
+msg_t003r0102_tenji_01=« Navette Spatiale »
+msg_t003r0102_tenji_02=C’est une météorite du Mont Sélénite.[0x000A]C’est sûrement une Pierre Lune !
+msg_t003r0102_tenji_03=C’est un hologramme en 3D intitulé[0x000A]« Carte du cosmos ».
+msg_t003r0102_tenji_04=Ce sont des éclats de météorites !
+msg_t003r0102_tenji_05=« L’histoire de l’univers »
+msg_t003r0102_bg_01=« Suite de la visite »
+msg_t003r0102_bg_02=On peut voir un cristal magnifique dans[0x000A]le microscope !

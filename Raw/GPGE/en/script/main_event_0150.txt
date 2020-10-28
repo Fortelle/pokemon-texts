@@ -1,0 +1,9 @@
+msg_main0150_rival_01={0x01CD,0x0001}: Oh! Hey, {0x0100,0x0000}!
+msg_main0150_rival_02=You hoping to make it to the {0xFF00,0x0006}Pokémon League{0xFF00,0x0000}[0x000A]someday, too?{0xBE01}[0x000A]That’s where you can battle the strongest[0x000A]of all Pokémon Trainers...{0xBE00}[0x000A]The ones they call the {0xFF00,0x0006}Elite Four{0xFF00,0x0000}!
+msg_main0150_rival_03=I was hoping maybe I could get a glimpse of ’em,[0x000A]but the guard at the gate wouldn’t even let me{0xBE00}[0x000A]pass without any Badges from Pokémon Gyms!
+msg_main0150_rival_04=Guess I’ll just have to get there the long way:[0x000A]by battling and getting strong!{0xBE01}[0x000A]So, {0x0100,0x0000}![0x000A]I guess that means it’s on!
+msg_main0150_rival_05={0x01CD,0x0001}: Hmm...[0x000A]Maybe battling like this is just helping you get{0xBE00}[0x000A]stronger, huh, {0x0100,0x0000}?{0xBE01}[0x000A]Oh well! That works, too!
+msg_main0150_rival_06=Let’s train hard so that someday we both make[0x000A]it to the Pokémon League!
+msg_rival_01_p01_field_r022={0xBDFF:0x0006}
+msg_rival_01_p02_field_r022={0xBDFF:0x0007}
+msg_rival_01_p03_field_r022={0xBDFF:0x0008}

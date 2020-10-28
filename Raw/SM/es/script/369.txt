@@ -1,0 +1,15 @@
+Aquí donde me ves, dedico lo que me queda de[0x000A]existencia a ayudar a aquellos Entrenadores con{0xBE00}[0x000A]menos experiencia.{0xBE01}[0x000A]Y, no en vano, son muchos los que acuden a mí[0x000A]para que les enseñe movimientos definitivos a{0xBE00}[0x000A]sus preciados Pokémon.{0xBE01}[0x000A]¿Acaso eres tú uno de ellos?
+¿Me permitirías enseñarle a algún Pokémon de[0x000A]tu equipo un movimiento definitivo?
+Mi preciad{0x1100,0x00FF,0x0101}oa y joven Entrenador{0x1100,0x00FF,0x0100}a, no llevas[0x000A]contigo ningún Pokémon que pueda aprender{0xBE00}[0x000A]este tipo de movimientos.{0xBE01}[0x000A]Te recomendaría encarecidamente que te[0x000A]aprendieras la lista de los que sí pueden.
+Mi preciad{0x1100,0x00FF,0x0101}oa y joven Entrenador{0x1100,0x00FF,0x0100}a, no dudes en[0x000A]acudir a mí de nuevo siempre que así lo quieras.
+Entendido. Dime entonces a qué Pokémon[0x000A]quieres que le enseñe este movimiento.
+Mi preciad{0x1100,0x00FF,0x0101}oa y joven Entrenador{0x1100,0x00FF,0x0100}a, ese Pokémon[0x000A]no puede aprender un movimiento definitivo.{0xBE01}[0x000A]Te recomendaría encarecidamente que te[0x000A]aprendieras la lista de los que sí pueden.
+Mi preciad{0x1100,0x00FF,0x0101}oa y joven Entrenador{0x1100,0x00FF,0x0100}a, por desgracia,[0x000A]los Huevos no pueden aprender movimientos.
+Mi preciad{0x1100,0x00FF,0x0101}oa y joven Entrenador{0x1100,0x00FF,0x0100}a, tu Pokémon[0x000A]podría aprender este movimiento, pero todavía{0xBE00}[0x000A]no está lo bastante ligado a ti.{0xBE01}[0x000A]Vuelve de nuevo cuando el vínculo que os une[0x000A]sea más fuerte.
+Mi preciad{0x1100,0x00FF,0x0101}oa y joven Entrenador{0x1100,0x00FF,0x0100}a, ese Pokémon[0x000A]ya conoce un movimiento definitivo.
+¿Me permitirías enseñarle a {0x0101,0x0000} el[0x000A]movimiento {0x0107,0x0001}?
+He aquí la lista de Pokémon capaces de[0x000A]aprender movimientos definitivos.{0xBE01}[0x000A]Pokémon de corazón ardiente como Charizard,[0x000A]Typhlosion, Blaziken, Infernape, Emboar, Delphox[0x000A]e Incineroar.{0xBE01}[0x000A]Del mismo modo, Pokémon de ánimo acuático,[0x000A]como Blastoise, Feraligatr, Swampert, Empoleon,[0x000A]Samurott, Greninja y Primarina.{0xBE01}[0x000A]Por último, Pokémon de espíritu vegetal, como[0x000A]Venusaur, Meganium, Sceptile, Torterra,[0x000A]Serperior, Chesnaught y Decidueye.
+Selecciona el movimiento que quieres sustituir[0x000A]por {0x0107,0x0000}.
+¡{0x0102,0x0000} ha aprendido[0x000A]{0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+1, {0xBE02:0x0014}2 y... {0xBE02:0x0014}¡puf!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]¡{0x0102,0x0000} ha olvidado cómo utilizar[0x000A]{0x0107,0x0001}!{0xBE01}[0x000A]Y...{0xBE01}[0x000A]¡{0x0102,0x0000} ha aprendido[0x000A]{0x0107,0x0002}!{0xBE05,0x0004}{0xBE05,0x0001}
+{0x0102,0x0000} no ha aprendido[0x000A]{0x0107,0x0001}.

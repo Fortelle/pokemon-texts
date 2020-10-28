@@ -1,0 +1,14 @@
+main_event_0340_rival_01={0x0100,0x0000} ![0x000A]J’ai un super conseil pour toi !{0x0114,0x0005}
+main_event_0340_rival_02=Tu sais, les Pokémon des hautes herbes qui[0x000A]déboulent toujours dans nos pattes sans prévenir ?{0x0114,0x0005}
+main_event_0340_rival_03=Eh ben, si tu passes suuuper lentement[0x000A]dans les herbes, en te baissant, ils t’ignoreront !{0x0114,0x0005}
+main_event_0340_rival_04=Et à l’inverse, si tu siffles... ils vont tous[0x000A]rappliquer à toute allure !{0x0114,0x0005}
+main_event_0340_rival_05=Tu sais pas siffler ? C’est tout bête ![0x000A]Il suffit d’appuyer sur le stick gauche !{0x0114,0x0005}
+main_event_0340_rival_06=Eh, j’ai une idée ! Si on faisait le concours[0x000A]de qui attrapera le plus de Pokémon ?{0x0114,0x0005}
+main_event_0340_rival_07=On dit qu’on se retrouve à la Gare de Brasswick ?[0x000A]Tu sais, où on était allés chercher Tarak.{0x0114,0x0005}
+main_event_0340_rival_14=Ohé ! La gare est par ici !{0x0114,0x0005}
+main_event_0340_rival_08=Alors, t’en as combien ?{0xBE01}[0x000A]Moi, j’ai trouvé un super Pokémon !{0x0114,0x0005}
+main_event_0340_rival_09=Voyons voir...{0xBE01}[0x000A]Quoi ? Zéro ?! Mais... qu’est-ce que t’as fichu ?[0x000A]Tu sais qu’il faut que tu montes une équipe ?{0x0114,0x0005}
+main_event_0340_rival_10=Voyons voir...{0xBE01}[0x000A]Un Pokémon aussi ! On est ex aequo ![0x000A]Tu vois, on est destinés à être rivaux !{0x0114,0x0005}
+main_event_0340_rival_11=Waouh, t’en as plein ![0x000A]Tu vas pouvoir te monter une super équipe !{0x0114,0x0005}
+main_event_0340_rival_12=Tiens, je te donne une CT, pour la peine !{0xBE01}[0x000A]Grâce aux Capsules Techniques, tu peux[0x000A]enseigner des capacités autant de fois{0xBE00}[0x000A]que tu veux à tes Pokémon !{0xBE01}[0x000A]Avec celle-là, tu peux enseigner Météores à un[0x000A]de tes Pokémon ! C’est un cadeau du frangin.{0x0114,0x0005}
+main_event_0340_rival_13=Le Défi des Arènes commence à Motorby ![0x000A]On a qu’à prendre le train jusque là-bas !{0xBE00}[0x000A]Allez, suis-moi !{0x0114,0x0005}

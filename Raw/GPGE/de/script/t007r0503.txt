@@ -1,0 +1,11 @@
+msg_t007r0503_shortpants_01={0xBDFF:0x0000}
+msg_t007r0503_jevenilem_01=Cool!{0xBE01}[0x000A]Mein Kumpel tauscht sein Kangama gegen mein[0x000A]Alpollo!
+msg_t007r0503_jevenilem_02=Ich kann’s kaum erwarten...! Komm zu mir, mein[0x000A]kleines Alpollo!{0xBE01}[0x000A]Ich bin Alpollo-Sammler, weißt du? Deshalb will[0x000A]ich unbed-- Huch?{0xBE01}[0x000A]Das Alpollo hat sich beim Tausch zu einem[0x000A]anderen Pokémon entwickelt!
+msg_t007r0503_chilef_01=Alle Pokémon, die du dir selber gefangen hast,[0x000A]haben ein und dieselbe ID-Nummer.{0xBE01}[0x000A]Pokémon mit einer anderen ID-Nummer hast[0x000A]du also ziemlich sicher per Tausch bekommen.
+msg_t007r0503_game_01=Das ist eine Nintendo Switch-Konsole!
+msg_t007r0503_game_02=Ein Rollenspiel![0x000A]Aber du hast leider keine Zeit zum Spielen...
+msg_t007r0503_game_03=Ein Sportspiel![0x000A]Das würde Papa sicher gefallen.
+msg_t007r0503_game_04=Ein Puzzlespiel![0x000A]Das ist bestimmt fesselnd.
+msg_t007r0503_game_05=Ein Kampfspiel![0x000A]Sieht ziemlich anspruchsvoll aus.
+msg_t007r0503_kanban_01=2. OG: Videospiele
+msg_t007r0503_poster_01=Pikachu und Evoli![0x000A]Die beiden sind wahre Pokémon-Stars!

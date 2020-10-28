@@ -1,0 +1,73 @@
+{0x01BA,0x0001} di {0x0100,0x0000}
+Livello
+Festigettoni ottenuti in totale
+Festigettoni per il prossimo livello
+Dati di {0x0100,0x0000}
+Festigettoni disponibili
+Ospiti incontrati
+Strutture inaugurate
+Partite ai minigiochi
+ 
+Profilo di {0x0100,0x0000}
+{0xBDFF:0x000B}
+{0x0203,0x0000,0x002E}
+{0x0203,0x0000,0x002E}
+{0x0203,0x0000,0x002E}
+{0x0203,0x0000,0x002E}
+{0x0203,0x0000,0x002E}
+{0x0203,0x0000,0x002E}
+{0x0203,0x0000,0x002E}
+Messaggio iniziale
+Messaggio di arrivederci
+Messaggio di felicità
+Messaggio triste
+Il tuo segreto
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+Il nome del tuo Festiplaza
+---
+{0x01B7,0x0000}
+Attivata
+{0xFF00,0x0001}Disattivata{0xFF00,0x0000}
+Info
+Disponibilità alle lotte
+Disponibilità agli scambi
+Disponibilità ai minigiochi
+Comunicazione con gli ospiti
+Comunicazione con i VIP
+Comunicazione con gli amici
+Sì
+No
+Sì
+Scegli un’opzione per la comunicazione[0x000A]con gli amici.
+Scegli un’opzione per la comunicazione[0x000A]con gli ospiti.
+Scegli un’opzione per la comunicazione[0x000A]con i VIP.
+Hai attivato la comunicazione con i VIP.{0xBE01}
+Hai {0xFF00,0x0001}disattivato{0xFF00,0x0000} la comunicazione con i VIP.{0xBE01}
+Hai attivato la comunicazione con gli ospiti.{0xBE01}
+Hai {0xFF00,0x0001}disattivato{0xFF00,0x0000} la comunicazione con gli[0x000A]ospiti.{0xBE01}
+Hai attivato la comunicazione con gli amici.{0xBE01}
+Hai {0xFF00,0x0001}disattivato{0xFF00,0x0000} la comunicazione con gli[0x000A]amici.{0xBE01}
+Mostra agli altri giocatori di essere disponibile[0x000A]per le richieste di lotta.
+Hai indicato la tua disponibilità alle richieste[0x000A]di lotta.{0xBE01}
+Non hai indicato preferenze per le lotte.{0xBE01}
+Mostra agli altri giocatori di essere disponibile[0x000A]per le richieste di scambio.
+Hai indicato la tua disponibilità alle richieste[0x000A]di scambio.{0xBE01}
+Non hai indicato preferenze per gli scambi.{0xBE01}
+Mostra agli altri giocatori il tuo interesse per[0x000A]i minigiochi.
+Hai indicato che ti piacciono i minigiochi.{0xBE01}
+Non hai indicato preferenze per i minigiochi.{0xBE01}
+Non hai indicato preferenze per gli scambi.{0xBE01}
+Qui puoi limitare la comunicazione con gli amici.[0x000A][0x000A]Se disattivi la comunicazione, i tuoi amici[0x000A]non visualizzeranno i tuoi dati e tu non potrai[0x000A]visualizzare i loro.
+I tuoi amici non ti vedranno comparire nel loro[0x000A]Festiplaza e, allo stesso modo, non vedrai[0x000A]comparire gli amici nel tuo Festiplaza.
+Se imposti la disponibilità alle richieste di lotta[0x000A]su “Sì”, questa informazione sarà visualizzata[0x000A]dai giocatori con cui entri in comunicazione.
+Se imposti la disponibilità alle richieste di[0x000A]scambio su “Sì”, questa informazione sarà[0x000A]visualizzata dai giocatori con cui entri in[0x000A]comunicazione.
+Se imposti la disponibilità a partecipare ai[0x000A]minigiochi su “Sì”, questa informazione sarà[0x000A]visualizzata dai giocatori con cui entri[0x000A]in comunicazione.
+Qui puoi gestire la comunicazione con i VIP.[0x000A][0x000A]Se disattivi la comunicazione, gli utenti[0x000A]che ti hanno registrato nella loro lista VIP[0x000A]non riceveranno i tuoi dati e tu non riceverai[0x000A]i loro dati.
+Gli utenti che ti hanno registrato nella loro[0x000A]lista VIP non ti vedranno più comparire nel[0x000A]loro Festiplaza.[0x000A][0x000A]Allo stesso modo, neanche tu vedrai comparire[0x000A]i VIP nel tuo Festiplaza.
+{0xBDFF:0x0043}
+Qui puoi gestire la comunicazione con gli ospiti.[0x000A][0x000A]Se disattivi la comunicazione con gli ospiti,[0x000A]i tuoi dati non verranno inviati agli ospiti[0x000A]e non riceverai i loro dati.
+Gli utenti che ti vedrebbero come ospite[0x000A]non ti vedranno comparire nel loro Festiplaza[0x000A]e, allo stesso modo, neanche tu li vedrai[0x000A]comparire nel tuo Festiplaza.
+{0xBDFF:0x0046}
+Nel tuo profilo puoi controllare i tuoi dati e[0x000A]le informazioni sul tuo Festiplaza.[0x000A][0x000A]Le informazioni di gioco da te selezionate[0x000A]saranno inviate ai giocatori con cui entri[0x000A]in comunicazione.
+I messaggi che hai impostato saranno[0x000A]visualizzati dai giocatori che incontri nel[0x000A]Festiplaza o con cui fai scambi prodigiosi.[0x000A][0x000A]Per saperne di più sulle impostazioni di[0x000A]comunicazione, controlla le informazioni[0x000A]sulle varie modalità di connessione.

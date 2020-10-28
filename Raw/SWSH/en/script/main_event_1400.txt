@@ -1,0 +1,9 @@
+main_event_1400_rival_01={0x1003}{0x0100,0x0000}!{0x0114,0x0005}
+main_event_1400_rival_02=This is mad... You know what I mean?{0x0114,0x0005}
+main_event_1400_select_01=Where’s Leon?
+main_event_1400_select_02=What was that loud noise?
+main_event_1400_rival_03=That’s what I’d like to know![0x000A]That noise—it was like some massive explosion!{0xBE01}[0x000A]There was this huge surge of red light, and then[0x000A]wild Pokémon just started Dynamaxing around{0xBE00}[0x000A]me, brazen as you like!{0x0114,0x0005}
+main_event_1400_rival_04=Take a look at the news!{0x0114,0x0005}
+main_event_1400_rival_07=See! There’s Lee![0x000A]He really is the greatest, right?{0x0114,0x0005}
+main_event_1400_rival_05=Lee and his Charizard took down that Dynamax[0x000A]Pokémon in the blink of an eye!{0x0114,0x0005}
+main_event_1400_rival_06=I knew Lee was strong, but this![0x000A]Really makes you appreciate how great he is, eh?{0xBE01}[0x000A]Let’s go meet up with him, {0x0100,0x0000}![0x000A]He should be at Hammerlocke Stadium!{0x0114,0x0005}

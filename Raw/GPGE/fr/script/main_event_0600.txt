@@ -1,0 +1,13 @@
+msg_main0600_oldwoman_01={0xBDFF:0x0000}
+msg_main0600_sys_01_old={0xBDFF:0x0001}
+msg_main0600_oldwoman_02={0xBDFF:0x0002}
+msg_main0600_oldwoman_03={0xBDFF:0x0003}
+msg_main0600_rock_01={0xFF00,0x0009}Pierre :{0xFF00,0x0000} Oh ! Alors ça, pour une surprise ![0x000A]Je ne m’attendais pas à te voir ici !
+msg_main0600_rock_02=Je reviens tout juste de l’Arène de Céladopole[0x000A]car je voulais discuter avec Erika.{0xBE01}[0x000A]C’est aussi le travail des Champions, de se tenir[0x000A]au courant des dernières nouvelles, après tout.
+msg_main0600_rock_03=Mais je ne sais pas trop pourquoi, je me suis fait[0x000A]renvoyer net avant même d’en passer le palier...
+msg_main0600_rock_04=C’est bête, j’avais apporté ces délicieux[0x000A]Crok’Argenta...{0xBE01}[0x000A]Ce serait dommage de les gâcher... Tiens,[0x000A]je t’en donne un sachet !
+msg_main0600_sys_01=Vous avez reçu un sachet de Crok’Argenta !
+msg_main0600_rock_05=Oups, j’oubliais à quel point ces biscuits peuvent[0x000A]être secs.{0xBE01}[0x000A]Prends donc un peu de Thé, il n’y a rien de tel[0x000A]pour se désaltérer !
+msg_main0600_sys_02=Vous avez reçu du {0xFF00,0x0006}Thé{0xFF00,0x0000} !
+msg_main0600_rock_07=Ah, zut... Du coup, je n’en ai plus à donner[0x000A]aux gardes... Les pauvres, ils vont avoir soif...
+msg_main0600_rock_06=Je constate que tu fais le tour des Arènes de[0x000A]la région... Bon courage, tu as tout mon soutien !

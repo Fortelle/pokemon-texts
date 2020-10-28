@@ -1,0 +1,9 @@
+msg_sub043_middle_01=The Pewter City specialty—Pewter Crunchies![0x000A]They’re [0xE300]500!{0xBE01}[0x000A]You’re limited to one package per day, though.
+msg_sub043_select_01=I want some
+msg_sub043_select_02=I don’t want any
+msg_sub043_middle_02=Thanks![0x000A]They are very hard, so be careful!
+msg_sub043_system_01=You got Pewter Crunchies from the man!
+msg_sub043_middle_03=That’s too bad![0x000A]Next time!
+msg_sub043_middle_04=Oh, you don’t have enough money![0x000A]Please come back again!
+msg_sub043_middle_05=You can’t carry any more Pewter Crunchies![0x000A]Why do you have so many?{0xBE01}[0x000A]...Please eat them!
+msg_sub043_middle_06=You’re limited to one package per day.[0x000A]Please come back tomorrow.

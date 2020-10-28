@@ -1,0 +1,6 @@
+main_event_1450_rival_01=Hey, stopp! Warte, {0x0100,0x0000}![0x000A]Ich hab Roy besiegt!!{0xBE01}[0x000A]Alles, was ich brauchte, war eine gehörige[0x000A]Portion Selbstvertrauen, und... zack, geschafft!{0x0114,0x0005}
+main_event_1450_leader_01=Im Gegensatz zu deinem Bruder bist du eine[0x000A]echte Quasselstrippe, Kleiner.{0x0114,0x0017}
+main_event_1450_leader_02=Aber du hast dir von mir den Drachen-Orden[0x000A]erkämpft, daran lässt sich nicht rütteln.{0xBE01}[0x000A]Dein stürmischer Kampfstil hat mich völlig[0x000A]aus der Bahn geworfen!{0x0114,0x0017}
+main_event_1450_leader_03=Hört gut zu, ihr zwei!{0xBE01}[0x000A]Ich will sehen, dass ihr beim Champ-Cup alle aus[0x000A]dem Weg räumt und sich einer von euch einen{0xBE00}[0x000A]Showdown mit Delion liefert!{0x0114,0x0017}
+main_event_1450_rival_02=So machen wir das!{0xBE01}[0x000A]Ich bin natürlich der Favorit. Und gleich dahinter[0x000A]folgt {0x0100,0x0000}, {0x1100,0x00FF,0x1514,0x0000}mein direkter Rivalemeine direkte Rivalin!{0xBE01}[0x000A]Ich lass es ordentlich krachen! Und ich werde[0x000A]alles anwenden, was ich im Kampf mit dir{0xBE00}[0x000A]gelernt habe, Roy!{0x0114,0x0005}
+main_event_1450_rival_03=Oh, {0x0100,0x0000}, unser Zug ist da!{0x0114,0x0005}

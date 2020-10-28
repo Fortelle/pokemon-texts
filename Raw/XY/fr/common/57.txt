@@ -1,0 +1,345 @@
+Amis
+Copains
+Passants
+{0xBDFF:0x0003}
+Choisir les règles
+Laisser le partenaire choisir les règles
+Vous avez changé de console.[0x000A]Votre liste de contacts a été mise à jour[0xE07F]!
+{0x0124,0x0000}
+{0x0124,0x0000}...
+{0x0100,0x0000}
+Combattre avec quelqu’un à côté de vous
+Combattre avec quelqu’un à proximité
+Combattre avec quelqu’un loin de vous
+Échanger avec quelqu’un à côté de vous
+Échanger avec quelqu’un à proximité
+Échanger avec quelqu’un loin de vous
+Via infrarouge
+Mode sans fil local
+Internet
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+Oui
+Non
+{0xBDFF:0x0017}
+Partagez votre joie avec les autres joueurs[0xE07F]!
+Vous diffusez le message suivant :[0x000A]«[0xE07F]{0x018B,0x0000}[0xE07F]»
+Voulez-vous modifier votre message[0xE07F]?[0x000A]«[0xE07F]{0x018B,0x0000}[0xE07F]»
+Veuillez patienter.
+Quand votre partenaire sera prêt, orientez[0x000A]vos ports infrarouges l’un vers l’autre[0xE07F]!
+Votre partenaire ne veut pas faire[0x000A]la même chose que vous[0xE08D]
+L’un de vous doit choisir les règles[0x000A]du combat[0xE07F]!
+Veuillez éloigner les ports infrarouges des[0x000A]consoles et patienter quelques instants.
+{0xBDFF:0x0020}
+{0xBDFF:0x0021}
+{0xBDFF:0x0022}
+{0xBDFF:0x0023}
+{0xBDFF:0x0024}
+Il y a déjà trop de joueurs.[0x000A]Vous ne pouvez pas les rejoindre.
+{0xBDFF:0x0026}
+Qui voulez-vous choisir[0xE07F]?
+{0xBDFF:0x0028}
+Inviter vos amis ou vos copains
+{0xBDFF:0x002A}
+{0xBDFF:0x002B}
+Voulez-vous inviter ces joueurs[0xE07F]?
+Vous invitez votre ami{0x1100,0x0000,0x0100}e {0x0100,0x0000}[0x000A]à se battre[0xE07F]!
+Vous invitez votre cop{0x1100,0x0000,0x0303}ainine {0x0100,0x0000}[0x000A]à se battre[0xE07F]!
+Vous invitez {0x0100,0x0000}, un{0x1100,0x0000,0x0100}e passant{0x1100,0x0000,0x0100}e,[0x000A]à se battre[0xE07F]!
+Recherche d’un adversaire[0xE07F]!
+Annuler le combat[0xE07F]?
+Rencontre avec {0x0100,0x0000}[0xE07F]!
+Voulez-vous proposer un Combat Solo[0x000A]avec règles normales[0xE07F]?
+Voulez-vous proposer un Combat Solo[0x000A]avec règles strictes[0xE07F]?
+Voulez-vous proposer un Combat Solo[0x000A]avec règles «[0xE07F]Tout est permis[0xE07F]»[0xE07F]?
+Voulez-vous proposer un Combat Duo[0x000A]avec règles normales[0xE07F]?
+Voulez-vous proposer un Combat Duo[0x000A]avec règles strictes[0xE07F]?
+Voulez-vous proposer un Combat Duo[0x000A]avec règles «[0xE07F]Tout est permis[0xE07F]»[0xE07F]?
+Voulez-vous proposer un Combat Trio[0x000A]avec règles normales[0xE07F]?
+Voulez-vous proposer un Combat Trio[0x000A]avec règles strictes[0xE07F]?
+Voulez-vous proposer un Combat Trio[0x000A]avec règles «[0xE07F]Tout est permis[0xE07F]»[0xE07F]?
+Voulez-vous proposer un Combat Rotatif[0x000A]avec règles normales[0xE07F]?
+Voulez-vous proposer un Combat Rotatif[0x000A]avec règles strictes[0xE07F]?
+Voulez-vous proposer un Combat Rotatif[0x000A]avec règles «[0xE07F]Tout est permis[0xE07F]»[0xE07F]?
+{0xBDFF:0x003F}
+{0xBDFF:0x0040}
+{0xBDFF:0x0041}
+Votre ami{0x1100,0x0000,0x0100}e {0x0100,0x0000} utilise[0x000A]son {0x0110,0x0001} sur vous[0xE07F]!
+Votre cop{0x1100,0x0000,0x0303}ainine {0x0100,0x0000} utilise[0x000A]son {0x0110,0x0001} sur vous[0xE07F]!
+{0x0100,0x0000}, un{0x1100,0x0000,0x0100}e passant{0x1100,0x0000,0x0100}e, utilise[0x000A]son {0x0110,0x0001} sur vous[0xE07F]!
+Vous utilisez une {0x0110,0x0001}[0xE07F]!
+Vous utilisez l’{0x0110,0x0001}[0x000A]de {0x0100,0x0000}[0xE07F]!
+{0xBDFF:0x0047}
+Voulez-vous l’utiliser sur {0x0100,0x0000}[0xE07F]?
+Le niveau de l’{0x0110,0x0001}[0x000A]a augmenté[0xE07F]!
+{0x0100,0x0000} peut maintenant utiliser[0x000A]l’{0x0110,0x0001}[0xE07F]!
+Voulez-vous recevoir l’O-Aura[0x000A]de {0x0100,0x0000}[0xE07F]?
+Définissez les paramètres du combat.
+Combat
+Nombre de participants
+Combat à deux
+Combat à quatre
+Type de combat
+Combat Solo
+Combat Duo
+Combat Trio
+Combat Rotatif
+Combat Multi
+Règles
+Règles normales
+Règles strictes
+Tout est permis
+{0xBDFF:0x005B}
+Avec handicap
+Sans handicap
+OK[0xE07F]!
+{0xBDFF:0x005F}
+{0xBDFF:0x0060}
+{0xBDFF:0x0061}
+{0xBDFF:0x0062}
+Votre ami{0x1100,0x0000,0x0100}e {0x0100,0x0000}[0x000A]vous propose un combat[0xE07F]!
+Votre cop{0x1100,0x0000,0x0303}ainine {0x0100,0x0000}[0x000A]vous propose un combat[0xE07F]!
+{0x0100,0x0000}, un{0x1100,0x0000,0x0100}e passant{0x1100,0x0000,0x0100}e,[0x000A]vous propose un combat[0xE07F]!
+Le combat suivra ces règles[0xE07F]![0x000A]Les acceptez-vous[0xE07F]?
+Un problème est survenu.[0x000A]Fin de la rencontre.
+Vous ne remplissez pas les conditions.[0x000A]Impossible de participer.
+{0xBDFF:0x0069}
+{0xBDFF:0x006A}
+Faisons un Combat Solo[0xE07F]![0x000A](Règles normales)
+Faisons un Combat Solo[0xE07F]![0x000A](Règles strictes)
+Faisons un Combat Solo[0xE07F]![0x000A](Règles «[0xE07F]Tout est permis[0xE07F]»)
+Faisons un Combat Duo[0xE07F]![0x000A](Règles normales)
+Faisons un Combat Duo[0xE07F]![0x000A](Règles strictes)
+Faisons un Combat Duo[0xE07F]![0x000A](Règles «[0xE07F]Tout est permis[0xE07F]»)
+Faisons un Combat Trio[0xE07F]![0x000A](Règles normales)
+Faisons un Combat Trio[0xE07F]![0x000A](Règles strictes)
+Faisons un Combat Trio[0xE07F]![0x000A](Règles «[0xE07F]Tout est permis[0xE07F]»)
+Faisons un Combat Rotatif[0xE07F]![0x000A](Règles normales)
+Faisons un Combat Rotatif[0xE07F]![0x000A](Règles strictes)
+Faisons un Combat Rotatif[0xE07F]![0x000A](Règles «[0xE07F]Tout est permis[0xE07F]»)
+Faisons un Combat Multi[0xE07F]![0x000A](Règles strictes)
+Faisons un Combat Multi[0xE07F]![0x000A](Règles normales)
+Faisons un Combat Multi[0xE07F]![0x000A](Règles «[0xE07F]Tout est permis[0xE07F]»)
+En cours[0xE08D][0x000A]Veuillez patienter.
+{0xBDFF:0x007B}
+{0x0100,0x0000} cherche[0x000A]des joueurs[0xE07F]!
+Qui veut faire un Combat Multi[0xE07F]?
+{0xBDFF:0x007E}
+{0x0100,0x0000}
+: meneur
+: invité
+: en attente
+Nombre de Pokémon
+: Sans restrictions
+: 2 ou plus
+: 3 ou plus
+{0xBDFF:0x0087}
+: 3
+: 4
+: 6
+: De 1 à 3
+Niveau des Pokémon
+: Tous à 50
+: 50 ou moins
+: Sans restrictions
+Pokémon spéciaux
+: Autorisés
+: Interdits
+Objets tenus identiques
+: Autorisés
+: Interdits
+Pokémon identiques
+: Autorisés
+: Interdits
+Handicap
+: Avec
+: Sans
+{0xBDFF:0x009C}
+{0xBDFF:0x009D}
+Vous proposez un échange[0x000A]à votre ami{0x1100,0x0000,0x0100}e {0x0100,0x0000}[0xE07F]!
+Vous proposez un échange[0x000A]à votre cop{0x1100,0x0000,0x0303}ainine {0x0100,0x0000}[0xE07F]!
+Vous proposez un échange[0x000A]à {0x0100,0x0000}, un{0x1100,0x0000,0x0100}e passant{0x1100,0x0000,0x0100}e[0xE07F]!
+Recherche d’un partenaire d’échange[0xE08D]
+Annuler l’échange[0xE07F]?
+{0xBDFF:0x00A3}
+{0xBDFF:0x00A4}
+Voulez-vous faire un échange[0xE07F]?
+{0xBDFF:0x00A6}
+{0xBDFF:0x00A7}
+Vous devez posséder au moins deux[0x000A]Pokémon pour faire un échange[0xE07F]!
+Échange impossible : votre équipe et[0x000A]vos Boîtes PC sont pleines[0xE07F]!
+Au moins un de vos Pokémon ne peut pas[0x000A]être sélectionné.
+Votre partenaire ne peut pas continuer.[0x000A]Fin de la session d’échange.
+Votre ami{0x1100,0x0000,0x0100}e {0x0100,0x0000}[0x000A]vous propose un échange[0xE07F]!
+Votre cop{0x1100,0x0000,0x0303}ainine {0x0100,0x0000}[0x000A]vous propose un échange[0xE07F]!
+{0x0100,0x0000}, un{0x1100,0x0000,0x0100}e passant{0x1100,0x0000,0x0100}e,[0x000A]vous propose un échange[0xE07F]!
+{0x0100,0x0000} veut faire un échange[0xE07F]!
+Échangeons des Pokémon[0xE07F]!
+Rencontre avec {0x0100,0x0000}[0xE07F]!
+Voulez-vous l’inviter à un chat vocal[0xE07F]?
+Vous proposez un chat vocal[0x000A]à votre ami{0x1100,0x0000,0x0100}e {0x0100,0x0000}.
+{0xBDFF:0x00B4}
+{0xBDFF:0x00B5}
+Voulez-vous retirer la proposition[0x000A]de chat vocal[0xE07F]?
+{0xBDFF:0x00B7}
+Chat vocal en cours avec[0x000A]{0x0100,0x0000}[0xE07F]!
+Voulez-vous mettre fin au chat vocal[0xE07F]?
+Fin du chat vocal.
+{0x0100,0x0000} a mis fin au chat vocal.
+{0x0100,0x0000} vous invite à un chat vocal[0xE07F]!
+Je t’invite à un chat vocal[0xE07F]!
+En cours[0xE08D][0x000A]Veuillez patienter.
+Votre partenaire ne peut pas continuer.[0x000A]Arrêt du chat vocal.
+{0x0100,0x0000} diffuse sa Vidéo Dresseur[0xE07F]!
+Voulez-vous voir sa Vidéo Dresseur[0xE07F]?
+En attente de la Vidéo Dresseur[0x000A]de votre ami{0x1100,0x0000,0x0100}e {0x0100,0x0000}[0xE08D]
+En attente de la Vidéo Dresseur[0x000A]de votre cop{0x1100,0x0000,0x0303}ainine {0x0100,0x0000}[0xE08D]
+En attente de la Vidéo Dresseur[0x000A]de {0x0100,0x0000}, un{0x1100,0x0000,0x0100}e passant{0x1100,0x0000,0x0100}e[0xE08D]
+Voulez-vous annuler la requête[0x000A]de Vidéo Dresseur[0xE07F]?
+{0xBDFF:0x00C6}
+{0xBDFF:0x00C7}
+L’autre joueur ne peut pas continuer.
+Votre ami{0x1100,0x0000,0x0100}e {0x0100,0x0000}[0x000A]veut regarder votre Vidéo Dresseur[0xE07F]!
+Votre cop{0x1100,0x0000,0x0303}ainine {0x0100,0x0000}[0x000A]veut regarder votre Vidéo Dresseur[0xE07F]!
+{0x0100,0x0000}, un{0x1100,0x0000,0x0100}e passant{0x1100,0x0000,0x0100}e,[0x000A]veut regarder votre Vidéo Dresseur[0xE07F]!
+Voulez-vous montrer votre Vidéo Dresseur[0xE07F]?
+Votre Vidéo Dresseur a été envoyée[0xE07F]!
+L’autre joueur ne peut pas continuer.
+{0x0100,0x0000} utilise une O-Aura[0xE07F]!
+Utiliser une O-Aura[0xE07F]!
+Recevoir l’O-Aura[0xE07F]!
+Ignorer
+Vous n’avez pas de Pokémon.[0x000A]Vous ne pouvez pas utiliser l’O-Aura.
+{0x018B,0x0000}
+Voulez-vous enregistrer {0x0100,0x0000}[0x000A]dans vos favoris[0xE07F]?
+Enregistrement impossible.[0x000A]Il n’y a plus de place dans vos favoris[0xE07F]!
+Voulez-vous effacer {0x0100,0x0000}[0x000A]de vos favoris[0xE07F]?
+Dresseurs favoris : {0x0202,0x0000}/100
+Aucun Dresseur dans votre liste de favoris.[0x000A]Pour en ajouter un, enregistrez son profil[0xE07F]!
+Batterie faible
+Attention, batterie faible[0xE07F]!
+Rencontrer d’autres joueurs
+Connectez-vous à Internet ou[0x000A]rendez-vous dans des endroits où[0x000A]beaucoup de monde se croise pour[0x000A]rencontrer d’autres joueurs[0xE07F]!
+Choisir un joueur
+Touchez l’icône d’un joueur[0x000A]pour jouer avec lui[0xE07F]![0x000A]Si vous croisez quelqu’un[0x000A]d’intéressant, touchez son icône[0xE07F]!
+Amis
+Les «[0xE07F]amis[0xE07F]» sont les joueurs[0x000A]enregistrés dans la liste d’amis[0x000A]de votre console Nintendo 3DS.[0x000A]S’ils sont connectés, profitez-en[0x000A]pour jouer avec eux[0xE07F]!
+Copains
+Les «[0xE07F]copains[0xE07F]» sont les joueurs[0x000A]avec qui vous avez joué.[0x000A]N’hésitez pas à jouer encore avec[0x000A]eux, et vous pourrez les ajouter à[0x000A]votre liste d’amis[0xE07F]!
+Passants
+Les «[0xE07F]passants[0xE07F]» sont des gens[0x000A]connectés au jeu depuis n’importe[0x000A]où dans le monde.[0x000A]Jouez avec eux et vous pourrez[0x000A]en faire des «[0xE07F]copains[0xE07F]»[0xE07F]!
+Choisir ce que vous voulez faire
+Touchez une icône dans le menu[0x000A]pour choisir ce que vous voulez faire,[0x000A]par exemple un combat ou[0x000A]un échange.
+Échange Link
+Grâce aux fonctions de[0x000A]communication, vous pourrez[0x000A]échanger des Pokémon avec un[0x000A]grand nombre de joueurs[0xE07F]![0x000A]Voulez-vous faire un Échange Link[0xE07F]?
+Combat Link
+Grâce aux fonctions de[0x000A]communication, vous pourrez[0x000A]faire des combats de Pokémon avec[0x000A]un grand nombre de joueurs[0xE07F]![0x000A]Voulez-vous faire un Combat Link[0xE07F]?
+Chat vocal
+Grâce à cette option, vous pourrez[0x000A]utiliser le chat vocal pour discuter[0x000A]avec vos amis connectés, tout en[0x000A]faisant des échanges ou des[0x000A]combats[0xE07F]!
+GTS
+Grâce à cette option, vous pourrez[0x000A]échanger des Pokémon avec des[0x000A]gens du monde entier[0xE07F]![0x000A]Voulez-vous utiliser la GTS[0xE07F]?
+Vidéo Dresseur
+Touchez l’icône d’un joueur[0x000A]pour voir sa Vidéo Dresseur[0xE07F]!
+{0xBDFF:0x00F2}
+{0xBDFF:0x00F3}
+O-Aura
+Une O-Aura est disponible[0xE07F]![0x000A]Voulez-vous utiliser ce pouvoir,[0x000A]fort utile dans votre aventure,[0x000A]sur vous ou sur un autre joueur[0xE07F]?
+Favoris
+Vous pouvez enregistrer jusqu’à[0x000A]100 profils de Dresseurs dans[0x000A]vos favoris[0xE07F]![0x000A]Voulez-vous consulter votre liste[0xE07F]?
+Salutation
+Si vous avez un coup de chance,[0x000A]ou que quelque chose vous remplit[0x000A]de joie, touchez le symbole[0x000A]«[0xE07F]Salutation[0xE07F]» pour rendre votre[0x000A]bonheur public[0xE07F]!
+Jouer sur Internet
+Grâce à cette option, vous pourrez[0x000A]jouer avec des personnes du monde[0x000A]entier[0xE07F]![0x000A]Voulez-vous vous connecter à[0x000A]Internet[0xE07F]?
+Synchro-Jeu
+Permet d’utiliser le Pokémon Global[0x000A]Link en se connectant à Internet.[0x000A]Voulez-vous utiliser la Synchro-Jeu[0xE07F]?
+{0xBDFF:0x00FE}
+{0xBDFF:0x00FF}
+{0xBDFF:0x0100}
+{0xBDFF:0x0101}
+Coin combats
+C’est là que les joueurs les plus[0x000A]puissants du monde entier se[0x000A]rassemblent.[0x000A]Voulez-vous relever le défi du[0x000A]coin combats[0xE07F]?
+Profil
+Il y a un questionnaire rien que[0x000A]pour vous[0xE07F]![0x000A]Voulez-vous y répondre pour[0x000A]enrichir votre profil[0xE07F]?
+Réglages PSS
+Permet de changer les réglages[0x000A]du PSS.[0x000A]Voulez-vous les vérifier[0xE07F]?
+Holokit
+Vous avez un nouveau message[0xE07F]![0x000A]Voulez-vous consulter votre Holokit[0xE07F]?
+Échange miracle
+Permet d’échanger vos Pokémon[0x000A]avec n’importe qui dans le monde[0xE07F]![0x000A]Impossible de savoir quel Pokémon[0x000A]est envoyé avant de l’avoir reçu[0xE07F]![0x000A]Voulez-vous tenter votre chance[0xE07F]?
+{0xBDFF:0x010C}
+{0xBDFF:0x010D}
+{0xBDFF:0x010E}
+{0xBDFF:0x010F}
+{0xBDFF:0x0110}
+{0xBDFF:0x0111}
+{0xBDFF:0x0112}
+{0xBDFF:0x0113}
+{0xBDFF:0x0114}
+{0xBDFF:0x0115}
+{0xBDFF:0x0116}
+Voulez-vous effacer {0x0100,0x0000}[0x000A]de votre liste de copains[0xE07F]?
+{0x0100,0x0000} n’est plus[0x000A]dans votre liste de copains.
+{0xBDFF:0x0119}
+{0xBDFF:0x011A}
+Combat
+Échange
+Coin combats
+Profil
+Favoris
+Salutation
+GTS
+O-Aura
+Holokit
+Synchro-Jeu
+Échange miracle
+Réglages PSS
+Chat vocal
+Vidéo Dresseur
+Bravo[0xE07F]!
+Bon anniv’[0xE07F]!
+Votre ami{0x1100,0x0000,0x0100}e {0x0100,0x0000} vous a souhaité un bon anniversaire[0xE07F]!
+Votre cop{0x1100,0x0000,0x0303}ainine {0x0100,0x0000} vous a souhaité un bon anniversaire[0xE07F]!
+{0x0100,0x0000}, un{0x1100,0x0000,0x0100}e passant{0x1100,0x0000,0x0100}e, vous a souhaité un bon anniversaire[0xE07F]!
+Votre ami{0x1100,0x0000,0x0100}e {0x0100,0x0000} vous a dit «[0xE07F]Bravo[0xE07F]»[0xE07F]!
+Votre cop{0x1100,0x0000,0x0303}ainine {0x0100,0x0000} vous a dit «[0xE07F]Bravo[0xE07F]»[0xE07F]!
+{0x0100,0x0000}, un{0x1100,0x0000,0x0100}e passant{0x1100,0x0000,0x0100}e, vous a dit «[0xE07F]Bravo[0xE07F]»[0xE07F]!
+{0xBDFF:0x0131}
+Réglages PSS
+Requêtes de connexion acceptées
+{0xBDFF:0x0134}
+Fermer la connexion au PSS
+Vidéo Dresseur : {0xFF00,0x0002}Publique{0xFF00,0x0000}
+Vidéo Dresseur : {0xFF00,0x0001}Privée{0xFF00,0x0000}
+Chat vocal : {0xFF00,0x0002}Activé{0xFF00,0x0000}
+Chat vocal : {0xFF00,0x0001}Désactivé{0xFF00,0x0000}
+Permet de sélectionner qui pourra vous[0x000A]envoyer des invitations.
+Voulez-vous activer cette fonction[0xE07F]?[0x000A]Vous pourrez recevoir des invitations[0x000A]de vos amis.
+Voulez-vous désactiver cette fonction[0xE07F]?[0x000A]Vous ne recevrez plus d’invitations[0x000A]de vos amis.
+Voulez-vous activer cette fonction[0xE07F]?[0x000A]Vous pourrez recevoir des invitations[0x000A]de vos copains.
+Voulez-vous désactiver cette fonction[0xE07F]?[0x000A]Vous ne recevrez plus d’invitations[0x000A]de vos copains.
+Voulez-vous activer cette fonction[0xE07F]?[0x000A]Vous pourrez recevoir des invitations[0x000A]des passants.
+Voulez-vous désactiver cette fonction[0xE07F]?[0x000A]Vous ne recevrez plus d’invitations[0x000A]des passants.
+Le PSS va être déconnecté. Vous ne pourrez[0x000A]pas l’utiliser s’il est déconnecté.[0x000A]Confirmer[0xE07F]?
+PSS déconnecté. Les fonctions de[0x000A]communication de la console[0x000A]Nintendo 3DS sont activées.
+Rétablir la connexion au PSS
+Choisissez si vous voulez rendre publique[0x000A]votre Vidéo Dresseur, ou si vous préférez[0x000A]la garder privée.
+Publique
+Privée
+Le chat vocal vous permet de converser[0x000A]avec d’autres joueurs.[0x000A]Voulez-vous activer le chat vocal[0xE07F]?
+Activer le chat vocal
+Désactiver le chat vocal
+Voulez-vous activer le chat vocal lorsque[0x000A]vous jouez avec cette personne[0xE07F]?
+Voulez-vous désactiver le chat vocal lorsque[0x000A]vous jouez avec cette personne[0xE07F]?
+Contrôle parental actif : vous ne pouvez pas[0x000A]changer les paramètres du chat vocal.
+Vous avez dit «[0xE07F]Bravo[0xE07F]![0xE07F]»[0x000A]à {0x0100,0x0000}.
+Vous avez dit «[0xE07F]Bon anniv’[0xE07F]![0xE07F]»[0x000A]à {0x0100,0x0000}.
+La communication sans fil est désactivée.
+Voulez-vous commencer un chat vocal[0xE07F]?
+Voulez-vous activer le chat vocal[0x000A]si un ami répond[0xE07F]?
+Les paramètres de la console de l’autre joueur[0x000A]empêchent l’activation du chat vocal.
+Contrôle parental actif : vous ne pouvez pas[0x000A]vous connecter à Internet.
+???
+Pour désactiver le contrôle parental,[0x000A]veuillez saisir le code secret.
+Veuillez paramétrer la protection de la vie[0x000A]privée des enfants en ligne dans le contrôle[0x000A]parental.
+{0xBDFF:0x0157}
+Le code secret est erroné.[0x000A]Impossible d’utiliser le chat vocal.

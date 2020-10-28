@@ -1,0 +1,14 @@
+msg_main0055_doctor_01={0xFF00,0x0009}Prof. Oak:{0xFF00,0x0000} Oh! Un’ultima cosa!
+msg_main0055_doctor_02=Adesso che siete diventati Allenatori ho[0x000A]un favore da chiedervi...{0xBE01}[0x000A]Prendete uno di questi!
+msg_main0055_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Che cos’è, Professore?
+msg_main0055_doctor_03=Si chiama Pokédex! Sapete, l’ho progettato io!{0xBE01}[0x000A]Registra automaticamente i dati dei Pokémon[0x000A]che si incontrano e crea una pagina dedicata{0xBE00}[0x000A]a ognuno di loro!{0xBE01}[0x000A]È un dispositivo tecnologicamente[0x000A]avanzatissimo, eh!
+msg_main0055_doctor_04={0x0100,0x0000}, {0x0100,0x0001}![0x000A]Ve ne lascio uno a testa! Fatene buon uso!
+msg_main0055_sys_01={0x0100,0x0000} riceve il {0xFF00,0x0006}Pokédex{0xFF00,0x0000}[0x000A]dal Professor Oak!
+msg_main0055_doctor_05={0xFF00,0x0009}Prof. Oak:{0xFF00,0x0000} Basterà incontrare un Pokémon per[0x000A]registrare alcuni dati nel Pokédex...{0xBE01}[0x000A]Ma se volete un’analisi dettagliata dovrete[0x000A]catturarlo!
+msg_main0055_doctor_06=Realizzare una guida completa di tutti i Pokémon[0x000A]del mondo...{0xBE01}[0x000A]È sempre stato il mio grande sogno!
+msg_main0055_doctor_09=Ma ormai sono troppo vecchio![0x000A]Non posso più fare certi sforzi.
+msg_main0055_doctor_10=Voglio che siate voi a realizzare[0x000A]questo mio sogno!
+msg_main0055_doctor_07=Avanti allora, è arrivata l’ora di partire!{0xBE01}[0x000A]Il vostro contributo entrerà nella storia[0x000A]dei Pokémon!
+msg_main0055_rival_02={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} E così questo è un Pokédex...{0xBE01}[0x000A]Non vedo l’ora di riempirlo con i dati di tutti[0x000A]i Pokémon che incontrerò!
+msg_main0055_rival_03=Io parto subito! {0x0100,0x0000}, vieni anche tu[0x000A]appena sei pront{0x1100,0x00FF,0x0101}oa!
+msg_main0055_doctor_08=I Pokémon del mondo stanno aspettando solo te,[0x000A]{0x0100,0x0000}!

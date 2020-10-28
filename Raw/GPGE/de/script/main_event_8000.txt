@@ -1,0 +1,16 @@
+msg_main8000_rock_01=Ah, ein{0x1100,0x00FF,0x0100,0x0000}e neue{0x1100,0x00FF,0x0001,0x0000}r Herausforder{0x1100,0x00FF,0x0202,0x0000}erin!{0xBE01}[0x000A]Ich bin Rocko, der Arenaleiter von[0x000A]Marmoria City!
+msg_main8000_rock_06=In meinen Pokémon spiegelt sich meine[0x000A]felsenfeste Entschlossenheit wider.{0xBE01}[0x000A]Dank ihrer steinharten Verteidigung geben sie[0x000A]niemals klein bei.
+msg_main8000_rock_07=Wie du dir jetzt sicher schon denken kannst,[0x000A]setze ich im Kampf voll auf Gesteins-Pokémon!{0xBE01}[0x000A]Bei ihnen wird dein Team auf Granit beißen!
+msg_main8000_rock_08=Aber ich sehe schon, dass du dich davon nicht[0x000A]einschüchtern lässt.{0xBE01}[0x000A]Ein echter Pokémon-Trainer schreckt eben vor[0x000A]keiner Herausforderung zurück, selbst wenn{0xBE00}[0x000A]seine Chancen auf einen Sieg schlecht stehen.
+msg_main8000_rock_09=Na schön![0x000A]Dann zeig mir, was du kannst!
+msg_main8000_rock_02=Als Zeichen dafür, dass du mich im Kampf[0x000A]besiegt hast, überreiche ich dir den Felsorden.
+msg_main8000_sys_01=Du erhältst den {0xFF00,0x0006}Felsorden{0xFF00,0x0000} von Rocko!
+msg_main8000_rock_03=Mit dem Felsorden gehorchen dir alle per[0x000A]Tausch erhaltenen Pokémon bis Level 20.{0xBE01}[0x000A]Und das hier ist auch noch für dich!
+msg_main8000_sys_02=Du erhältst {0x0109,0x0001} {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000} von Rocko!
+msg_main8000_rock_04=Mit einer TM kannst du einem Pokémon auf der[0x000A]Stelle die darin enthaltene Attacke beibringen.{0xBE01}[0x000A]Und du kannst TMs beliebig oft verwenden!{0xBE01}[0x000A]TM01 enthält übrigens die Attacke Kopfnuss.{0xBE01}[0x000A]Dabei fügt der Anwender dem Gegner mit[0x000A]seinem steinharten Kopf Schaden zu.
+msg_main8000_rock_05=Es gibt die verschiedensten Trainer auf der Welt.{0xBE01}[0x000A]Manche bestreiten mit ihren Pokémon Kämpfe,[0x000A]andere möchten sie einfach nur aufziehen...{0xBE01}[0x000A]Ich selbst bin ein Pokémon-Züchter, aber ich[0x000A]lege auch viel Wert auf Training.{0xBE01}[0x000A]Wenn du stärker werden willst, solltest du auch[0x000A]anderen Arenen einen Besuch abstatten.
+msg_main8000_shortpants_01=Du bist ein Pokémon-Trainer, oder?{0xBE01}[0x000A]Rocko ist ständig auf der Suche nach neuen[0x000A]Herausforderern. Komm mit!
+msg_main8000_shortpants_02=Wenn du genug Mumm hast, dann versuch dich[0x000A]an Rocko!
+msg_main8000_shortpants_03=Oh, das ist ja der Felsorden![0x000A]Du hast ihn von Rocko bekommen, oder?{0xBE01}[0x000A]Übrigens: Je mehr Orden du hast, desto größer[0x000A]ist auch deine Auswahl im Pokémon-Supermarkt.
+msg_main8000_shortpants_04=Das blaue Haus da drüben ist so ein[0x000A]Pokémon-Supermarkt.
+msg_main8000_shortpants_05=Aber das wusstest du bestimmt schon.[0x000A]Es gibt immerhin in fast jeder Stadt einen.

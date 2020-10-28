@@ -1,0 +1,10 @@
+main_event_0940_rival_01=Hey, {0x0100,0x0000}...{0x0114,0x0005}
+main_event_0940_rival_02=Wegen eben noch mal... Ich will wirklich nicht,[0x000A]dass Delions Ruf nur wegen mir Kratzer bekommt.{0xBE01}[0x000A]Aber wie stelle ich das an?{0x0114,0x0005}
+main_event_0940_rival_03=Ich hab keinen blassen Schimmer...{0xBE01}[0x000A]Bis ich eine Antwort auf diese Frage finde, bleibt[0x000A]mir nichts anderes übrig, als stärker zu werden.{0xBE01}[0x000A]Dafür gibt es viele verschiedene Methoden...{0xBE01}[0x000A]Wie wär’s, wenn wir gegeneinander kämpfen,[0x000A]damit ich ein paar davon ausprobieren kann?{0x0114,0x0005}
+main_event_0940_select_01=Klar, jederzeit!
+main_event_0940_select_02=Sekündchen noch...
+main_event_0940_rival_04=Du bist mein{0x1100,0x00FF,0x0907,0x0000} Rivalee Rivalin! Ein Kampf gegen dich hilft[0x000A]mir vielleicht auf die Sprünge. Komm, los geht’s!{0x0114,0x0005}
+main_event_0940_rival_05=Lass mich jetzt bitte nicht hängen!{0x0114,0x0005}
+main_event_0940_rival_06=Hm... Ich hab ein bisschen herumexperimentiert[0x000A]und meine Teamaufstellung geändert.{0xBE01}[0x000A]Aber das hat’s irgendwie auch nicht gebracht...[0x000A]Heißt das, ich bin wirklich ein Schwächling?{0x0114,0x0005}
+main_event_0940_rival_07=Mein Bruder ist für mich einfach der Coolste.[0x000A]Ich möchte auch so ein Trainer werden wie er!{0xBE01}[0x000A]Deshalb will ich auf keinen Fall, dass die Leute[0x000A]nur wegen mir dumme Witze über ihn machen...{0x0114,0x0005}
+main_event_0940_rival_08=Ich muss mehr herumexperimentieren![0x000A]Noch viel, viel, viel, viel, viel mehr!!{0xBE01}[0x000A]Ich werde mir ein Team zusammensuchen,[0x000A]das perfekt zu mir passt.{0xBE01}[0x000A]Ein Team, das nur dank meiner ganz persönlichen[0x000A]Stärken als Trainer über sich selbst hinauswächst!!{0x0114,0x0005}

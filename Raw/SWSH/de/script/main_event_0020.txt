@@ -1,0 +1,14 @@
+main_event_0020_rival_06=Hallo, ich bin’s! Jemand zu Hause?{0x0114,0x0005}
+main_event_0020_rival_01=Hey, {0x0100,0x0000}! Was hast du denn da?[0x000A]Ist das ein neues Smartphone? Sehr cool!{0xBE01}[0x000A]Hast du dir den Schaukampf von meinem[0x000A]großen Bruder darauf angeguckt?{0xBE01}[0x000A]Hoffentlich hast du auch seine Glurak-Pose[0x000A]mitgemacht, um ihn anzufeuern!{0x0114,0x0005}
+main_event_0020_mama_01=Oh, was machst du denn hier, Hop?{0xBE01}[0x000A]Ist heute nicht der große Tag?{0x0114,0x0008}
+main_event_0020_rival_02=Genau, heute ist es so weit! Ich wollte nur noch[0x000A]schnell {0x0100,0x0000} abholen...{0x0114,0x0005}
+main_event_0020_rival_03=Das Match kann {0x1100,0x00FF,0x0302,0x0000}ersie sich ja später noch ansehen,[0x000A]ich nehm sowieso alle Kämpfe von meinem{0xBE00}[0x000A]Bruder auf.{0x0114,0x0005}
+main_event_0020_rival_04=Also komm, lass uns gehen!{0xBE01}[0x000A]Ach ja, und denk an deinen Beutel! Wir stauben[0x000A]bestimmt ein Mitbringsel ab, hehe.{0x0114,0x0005}
+main_event_0020_rival_05=Ich warte draußen auf dich!{0x0114,0x0005}
+main_event_0020_mama_02=Was ist denn, Schatz?[0x000A]Hop wartet draußen auf dich, oder?{0x0114,0x0008}
+main_event_0020_mama_03=Dein Beutel müsste in deinem Zimmer liegen.{0xBE01}[0x000A]Und vergiss deine Mütze nicht! Man weiß nie,[0x000A]wie das Wetter wird.{0x0114,0x0008}
+main_event_0020_system_01=Du schnappst dir den alten Beutel deines Papas.
+main_event_0020_system_02=Du schnappst dir den alten Beutel deiner Mama.
+main_event_0020_system_03={0xBDFF:0x000B}
+main_event_0020_system_04={0xBDFF:0x000C}
+main_event_0020_mama_04=Gut siehst du aus, der Beutel steht dir![0x000A]Dann mal viel Spaß euch zwei!{0xBE01}[0x000A]Und versprich mir, dass ihr nicht in den Wald[0x000A]geht, ja?{0x0114,0x0008}

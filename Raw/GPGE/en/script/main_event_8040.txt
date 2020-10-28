@@ -1,0 +1,12 @@
+msg_main8040_esper_01=...So you’ve come![0x000A]I had a vision of your arrival.
+msg_main8040_esper_06=I have had psychic powers since I was a child.{0xBE01}[0x000A]It started when I carelessly threw a spoon aside[0x000A]and it bent itself into an unnatural shape...
+msg_main8040_esper_07=I dislike battling, but if you wish to...
+msg_main8040_esper_08=Then I will show you my power!
+msg_gymleader_06_02={0xBDFF:0x0004}
+msg_main8040_esper_02=Your victory has earned you a Marsh Badge.
+msg_main8040_sys_01=You got a {0xFF00,0x0006}Marsh Badge{0xFF00,0x0000} from Sabrina!
+msg_main8040_esper_03=A Marsh Badge raises the level of Pokémon[0x000A]that will obey you to Lv. {0x0201,0x0004}, for Pokémon that{0xBE00}[0x000A]you have received from another Trainer.{0xBE01}[0x000A]And wait...[0x000A]Please take this TM with you.
+msg_main8040_sys_02=You got {0x0109,0x0001} {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000} from Sabrina!
+msg_main8040_esper_04=TM33 is Calm Mind.{0xBE01}[0x000A]It makes a Pokémon concentrate to boost both[0x000A]its Sp. Atk and Sp. Def in battle.
+msg_main8040_esper_05=Psychic power isn’t something that only a few[0x000A]people have.{0xBE01}[0x000A]Everyone has psychic power.[0x000A]People just don’t realize it.
+msg_gymleader_06_07={0xBDFF:0x000B}

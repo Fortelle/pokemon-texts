@@ -1,0 +1,3 @@
+msg_t003r0201_poke_01_01={0xFF00,0x0009}Nidoran♂ :{0xFF00,0x0000} Nidoni !
+msg_t003r0201_childm_01_01=J’apprends à dresser mon Nidoran ![0x000A]Nido, assis !
+msg_t003r0201_middlem_01_01=Notre Pokémon vient d’ailleurs, nous l’avons eu[0x000A]en faisant un échange avec un autre Dresseur.{0xBE01}[0x000A]Il monte vite de niveau, mais il est difficile à[0x000A]maîtriser : il n’en fait qu’à sa tête en combat !{0xBE01}[0x000A]Si seulement nous avions des Badges...

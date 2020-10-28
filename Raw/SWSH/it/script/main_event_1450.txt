@@ -1,0 +1,6 @@
+main_event_1450_rival_01=Ehi! Aspetta, {0x0100,0x0000}!{0xBE01}[0x000A]Ho battuto Laburno in quattro e quattr’otto!{0x0114,0x0005}
+main_event_1450_leader_01=Come sei chiassoso...[0x000A]Tutto il contrario di tuo fratello!{0x0114,0x0017}
+main_event_1450_leader_02=Ma la tua forza è ineccepibile! Lo dimostra[0x000A]la Medaglia Drago che hai conquistato{0xBE00}[0x000A]battendomi!{0xBE01}[0x000A]Mi hai travolto con la forza di una tempesta![0x000A]Devo ammettere che non avevo via di scampo.{0x0114,0x0017}
+main_event_1450_leader_03=State bene a sentire, voi due.{0xBE01}[0x000A]Uno di voi deve assolutamente vincere la Coppa[0x000A]Campione e sfidare Dandel!{0x0114,0x0017}
+main_event_1450_rival_02=Certo! E ovviamente il favorito sono io!{0xBE01}[0x000A]L’unico ostacolo fra me e la vittoria[0x000A]è {0x0100,0x0000}.{0xBE01}[0x000A]Ma non temere, Laburno... Metterò a frutto[0x000A]tutto quello che ho imparato lottando con te!{0x0114,0x0005}
+main_event_1450_rival_03=Guarda, {0x0100,0x0000}![0x000A]È arrivato il treno!{0x0114,0x0005}

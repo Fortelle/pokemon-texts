@@ -1,0 +1,7 @@
+main_event_0050_rival_01=빨리 가자!{0x0114,0x0005}
+main_event_0050_rival_02=가기 전에 잘 들어 {0x0100,0x0000}!{0xBE01}[0x000A]야생 포켓몬은[0x000A]풀숲에서 갑자기 튀어나와!{0x0114,0x0005}
+main_event_0050_rival_03=뭐 나는 동료로[0x000A]우르가 있으니까{0xBE00}[0x000A]야생 포켓몬이 나타나도 싸울 수 있지만!{0x0114,0x0005}
+main_event_0050_rival_04=너는 그렇지 않잖아?[0x000A]그러니까 풀숲은 전부 무시하고 가자!{0x0114,0x0005}
+main_event_0050_rival_05={0xBDFF:0x0004}
+main_event_0050_rival_06={0xBDFF:0x0005}
+main_event_0050_rival_07={0xBDFF:0x0006}

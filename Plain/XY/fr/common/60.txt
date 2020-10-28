@@ -1,0 +1,346 @@
+Choisissez une bobine.
+Que voulez-vous faire de la première bobine ?
+Cette bobine est vide. Allez visiter le Studio de Vidéos Dresseur !
+Que voulez-vous faire de la deuxième bobine ?
+Que voulez-vous faire de la troisième bobine ?
+Cette Vidéo Dresseur est désormais publique !
+Cette Vidéo Dresseur n'est plus publique.
+Que voulez-vous faire ?
+Pas de souci, je m'occupe de tout ! Quelle ambiance préférez-vous ?
+Parfait, nous allons tourner ça ! Passez devant la caméra, je vous prie.
+Allez, c'est parti ! Mets-toi en place devant la caméra. Super coco, donne-toi à fond ! Montre que t'en as dans le ventre ! Tu vas crever l'écran ! … …
+Allez, c'est parti ! Mets-toi en place devant la caméra. Oui, vas-y ! Continue comme ça ! Quelle classe, coco ! T'es un mec, un vrai ! … …
+Allez, c'est parti ! Mets-toi en place devant la caméra. Ha ha, super ! Ce petit côté espiègle, c'est inattendu, c'est frais ! On en mangerait ! … …
+Allez, c'est parti ! Mets-toi en place devant la caméra. Tu me fais un joli sourire, poupée ? Voooilà, comme ça ! Super, t'es adorable ! … …
+Allez, c'est parti ! Mets-toi en place devant la caméra. Mazette, cet air posé… T'as l'air si mature, c'est génial… T'es sublime ! … …
+Allez, c'est parti ! Mets-toi en place devant la caméra. Ouais, bien ! Continue comme ça… N'aie pas peur, lâche-toi ! Voilà, comme ça ! Parfait ! … …
+… Beau boulot, c'est dans la boîte ! C'est enregistré sur la bobine.
+On peut ajouter un Pokémon aussi ! Choisissez-en un de votre équipe.
+Rendre publique
+Rendre privée
+Visionner
+Modifier
+Retour
+Tourner une vidéo
+Modifier la vidéo
+Formats prédéfinis
+Stopper la diffusion
+Voulez-vous modifier la vidéo tournée précédemment ?
+Voulez-vous tourner cette Vidéo Dresseur avec votre apparence actuelle ?
+Voulez-vous effacer cette vidéo pour en tourner une nouvelle à la place ?
+Prendre une photo
+Mettre un appareil photo en fond d'écran
+Revenir au fond d'écran d'origine
+Visionner depuis le début
+Voulez-vous sauvegarder cette photo ?
+Photo sauvegardée !
+La sauvegarde a échoué.
+Personnaliser
+Dynamique
+Cool
+Sympa
+Adorable
+Sublime
+Vous pouvez passer devant la caméra !
+Vous pouvez passer devant la caméra ! Voulez-vous utiliser votre dernier look personnalisé ?
+
+
+
+
+<var>
+Vous allez maintenant pouvoir créer votre propre Vidéo Dresseur. Chaque vidéo dure environ dix secondes. Chaque seconde de vidéo vous permet d'introduire une pose, un effet sonore, un décor, ou plusieurs autres éléments de scène, selon vos envies. Sélectionnez simplement un repère et choisissez l'élément que vous souhaitez intégrer à cet instant. Laissez parler votre imagination et créez une Vidéo Dresseur qui vous ressemble !
+Choisissez la seconde où vous souhaitez intégrer un élément de scène.
+Choisissez maintenant l'élément de scène que vous désirez intégrer à la seconde <var>.
+Désirez-vous sauvegarder les modifications de cette vidéo ?
+Sauvegarder
+Supprimer
+Retour
+Votre vidéo a été sauvegardée !
+Les modifications apportées à la vidéo seront effacées, cela vous convient-il ?
+Désirez-vous réinitialiser les éléments de scène de la seconde <var> ?
+Les éléments de scène de la seconde <var> ont été réinitialisés !
+Réinitialiser
+Les éléments de scène de la seconde 0 ne peuvent être effacés.
+Décors
+Luminosité
+Luminosité normale
+Un peu sombre
+Sombre
+Très sombre
+Écran noir
+Un peu lumineux
+Lumineux
+Écran blanc
+Décor
+Dresseur
+Espace
+Étoiles
+Ciel bleu
+Décor urbain
+Rose diamant
+Décor sous-marin
+Disco
+Soleil couchant
+Feuillage
+Pois
+Maison
+Champ de fleurs
+Décor volcanique
+Ambiance BD
+Forêt nocturne
+Pop
+Mer déchaînée
+Illumis
+Chic
+Musiques
+Légère 1
+Légère 2
+Légère 3
+Légère 4
+Raffinée 1
+Raffinée 2
+Raffinée 3
+Raffinée 4
+Cool 1
+Cool 2
+Cool 3
+Cool 4
+Classiques du cinéma 1
+Classiques du cinéma 2
+Classiques du cinéma 3
+Classiques du cinéma 4
+Dansante 1
+Dansante 2
+Dansante 3
+Dansante 4
+Rythmée 1
+Rythmée 2
+Rythmée 3
+Rythmée 4
+Vintage 1
+Vintage 2
+Vintage 3
+Vintage 4
+Adrénaline 1
+Adrénaline 2
+Adrénaline 3
+Adrénaline 4
+Pas de musique
+Effets sonores
+Clash 1
+Clash 2
+Clash 3
+Scintillement 1
+Scintillement 2
+Applaudissements 1
+Applaudissements 2
+Rires
+Boum !
+Bam !
+Bling !
+Étrange 1
+Étrange 2
+Bip
+Appareil photo
+Crépitement des flashs
+Casserole
+Boïng
+Rafale de vent
+Bris de glace
+Cymbale
+Ressac
+Cloche
+Horloge
+Battement de cœur
+Déglutition pénible
+Gong
+Riff de guitare
+Sonnette
+Vibraslap
+Poses
+Angle de prise de vue
+De face
+Profil gauche
+Profil droit
+De dos
+Rotation vers la droite
+Rotation vers la gauche
+Posture
+Ne pas prendre la pose
+Sérieuse (avec transition)
+Sérieuse (pose maintenue)
+Facétieuse (avec transition)
+Facétieuse (pose maintenue)
+Pirouette (avec transition)
+Pirouette (pose maintenue)
+Top modèle (avec transition)
+Top modèle (pose maintenue)
+Danse (avec transition)
+Danse (pose maintenue)
+Déhanché (avec transition)
+Déhanché (pose maintenue)
+Coucou (avec transition)
+Coucou (pose maintenue)
+Transformation (avec transition)
+Transformation (pose maintenue)
+Révérence (avec transition)
+Révérence (pose maintenue)
+Tremblotante (avec transition)
+Tremblotante (pose maintenue)
+Course
+Marche
+Ne pas prendre la pose
+Bras croisés (avec transition)
+Bras croisés (pose maintenue)
+Cool (avec transition)
+Cool (pose maintenue)
+Snob (avec transition)
+Snob (pose maintenue)
+Énergique (avec transition)
+Énergique (pose maintenue)
+Danse (avec transition)
+Danse (pose maintenue)
+Explosion de force (avec transition)
+Explosion de force (pose maintenue)
+Coucou (avec transition)
+Coucou (pose maintenue)
+Air Guitar (avec transition)
+Air Guitar (pose maintenue)
+Révérence (avec transition)
+Révérence (pose maintenue)
+Valse (avec transition)
+Valse (pose maintenue)
+Course
+Marche
+Silhouette
+Normale
+Blanche
+Noire
+Effets spéciaux
+Étoiles bleues
+Étoiles
+Rubans de lumière 1
+Rubans de lumière 2
+Énergie (rouge)
+Énergie (bleue)
+Spots lumineux 1
+Spots lumineux 2
+Cœurs
+Concentration
+Vitesse
+Pyrotechnie
+Confettis colorés
+Confettis
+Pluie
+Arc-en-ciel
+Aurore boréale
+Étoiles filantes
+Éclairs
+Glace
+Écran blanc
+Écran noir
+Flash
+Flammes
+Expressions du visage
+Yeux
+Regard franc
+Yeux fermés
+Battement de cils
+Regard en l'air
+Regard en bas
+Regard à droite
+Regard à gauche
+Yeux rieurs
+Bouche
+Bouche fermée
+Bouche entrouverte
+Bouche ouverte
+Indifférence
+Légère surprise
+Surprise
+Zut
+Sourire
+Rire
+Enthousiasme
+Sourire malicieux
+Perplexe
+Bouche bée
+Discussion
+Discussion rapide
+Discussion joyeuse
+Pokémon
+Passer à <var>
+Revenir à <var>
+Effets de caméra
+Effet de caméra 1
+Effet de caméra 2
+Effet de caméra 3
+Effet de caméra 4
+Effet de caméra 5
+Effet de caméra 6
+Effet de caméra 7
+Effet de caméra 8
+Effet de caméra 9
+Effet de caméra 10
+Effet de caméra 11
+Effet de caméra 12
+Effet de caméra 13
+Effet de caméra 14
+Effet de caméra 15
+Caméra Pokémon 1
+Caméra Pokémon 2
+Caméra Pokémon 3
+Caméra Pokémon 4
+Caméra Pokémon 5
+Texte
+Caractéristiques d'affichage
+Message
+Couleur
+Défilement (haut)
+Défilement (bas)
+De haut en bas
+Défilement lent (haut)
+Défilement lent (haut, texte large)
+Défilement lent (bas)
+Défilement lent (bas, texte large)
+Statique (haut)
+Statique (bas)
+Statique (haut, texte incliné)
+Statique (milieu, texte incliné)
+Statique (bas, texte incliné)
+Rotation (haut)
+Rotation (bas)
+
+
+
+
+Posture basique
+Joie !
+<var>
+Effet de caméra 16
+Effet de caméra 17
+Effet de caméra 18
+Effet de caméra 19
+Effet de caméra 20
+Couleur 1
+Couleur 2
+Couleur 3
+Couleur 4
+Couleur 5
+Éléments de scène de la seconde <var> : Décors
+Éléments de scène de la seconde <var> : Poses
+Éléments de scène de la seconde <var> : Expressions du visage
+Éléments de scène de la seconde <var> : Musiques
+Éléments de scène de la seconde <var> : Effets sonores
+Éléments de scène de la seconde <var> : Pokémon
+Éléments de scène de la seconde <var> : Effets spéciaux
+Éléments de scène de la seconde <var> : Effets de caméra
+Éléments de scène de la seconde <var> : Texte
+Vidéo Dresseur
+
+
+
+
+
+
+

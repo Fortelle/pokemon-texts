@@ -1,0 +1,3 @@
+msg_t003r0201_poke_01_01={0xFF00,0x0009}Nidoran♂:{0xFF00,0x0000} ¡Nidooor!
+msg_t003r0201_childm_01_01=¡Siéntate, Nidorancito bonito!
+msg_t003r0201_middlem_01_01=Nuestro Pokémon solía vivir con otro Entrenador[0x000A]y se nota porque a veces pasa de nosotros.{0xBE01}[0x000A]Es lo que tiene recibirlos en un intercambio:[0x000A]crecen rápido, pero se niegan a obedecer a los{0xBE00}[0x000A]Entrenadores novatos. ¡Ojalá tuviéramos{0xBE00}[0x000A]algunas medallas!

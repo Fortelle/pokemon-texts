@@ -1,0 +1,6 @@
+main_event_1530_rival_01={0x0100,0x0000} !{0x0114,0x0005}
+main_event_1530_rival_02=Rendez-vous au dernier round !{0x0114,0x0005}
+main_event_1530_rival_03=J’ai maté ton combat ! Je suis sûr de gagner ![0x000A]Tu peux pas test, contre mon équipe.{0x0114,0x0005}
+main_event_1530_staff_01=Toutes mes excuses, mais...
+main_event_1530_staff_02=Je sais que vous venez à peine de terminer votre[0x000A]combat, mais le combat précédent a tourné court.
+main_event_1530_staff_03=Le Challenger Nabil a vaincu son adversaire[0x000A]à la vitesse de l’éclair. Si vous pouviez regagner{0xBE00}[0x000A]le Terrain de Combat au plus vite pour enchaîner ?

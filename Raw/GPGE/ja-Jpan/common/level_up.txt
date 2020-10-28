@@ -1,0 +1,10 @@
+msg_LvUp_Type_HP=ＨＰ
+msg_LvUp_Type_ATK=こうげき
+msg_LvUp_Type_DEF=ぼうぎょ
+msg_LvUp_Type_SATK=とくこう
+msg_LvUp_Type_SDEF=とくぼう
+msg_LvUp_Type_SPD=すばやさ
+msg_LvUp_Value2=＋{0x0201,0x0000}
+msg_LvUp_Value3={0x0202,0x0000}
+msg_LvUp_Cp=CP
+msg_LvUp_Cp_Value6={0x0204,0x0000,0x0000}

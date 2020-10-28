@@ -1,0 +1,30 @@
+Uh...[0x000A]Now who was I again?{0xBE01}[0x000A]... ... ...[0x000A]... ... ...{0xBE01}[0x000A]Oh yes! I’m the Move Deleter![0x000A]I can make Pokémon forget their moves.
+You’re here so I can make your Pokémon forget[0x000A]a move, um-hmm?
+Which Pokémon would that be?
+Just remember me when there’s something you[0x000A]want to forget!
+What’s that, friend?[0x000A]That Pokémon only knows one move, you know?
+What’s this, friend?[0x000A]Eggs don’t know any moves before they hatch.
+Mm-hmm...[0x000A]And which move should it forget?
+It was a great success!{0xBE01}[0x000A]Your Pokémon has forgotten that it ever even[0x000A]knew {0x0107,0x0000}!
+Everyone calls me Madam Memorial.{0xBE01}[0x000A]I know every move that a Pokémon learns as it[0x000A]grows, you see.{0xBE01}[0x000A]I can also help your Pokémon remember any of[0x000A]those moves that it has let go in the past.{0xBE01}[0x000A]I’ll help your Pokémon recover their lost moves[0x000A]in exchange for Heart Scales, if you have any.
+Would you like to remind your Pokémon of a[0x000A]long-forgotten move?
+If there’s a move you’d like one of your Pokémon[0x000A]to remember, bring me a {0x0109,0x0000}!
+Which Pokémon is it?
+That is an Egg.
+This Pokémon doesn’t yet have any moves to[0x000A]be recovered.
+Which move would you like it to remember?
+You gave a {0x0109,0x0000} in thanks.
+Now it has remembered that move![0x000A]Come again if you need anything else!
+Do you want me to teach Volt Tackle to your[0x000A]Pikachu?
+If you come to me with Pikachu, I’ll teach it[0x000A]Volt Tackle.
+Pikanium Z will turn Pikachu’s Volt Tackle[0x000A]into its Z-Move!
+Which Pikachu do you want me to teach[0x000A]the move to?
+That Pokémon can’t learn Volt Tackle.[0x000A]Only Pikachu can learn the move.
+An Egg that can use Volt Tackle... I would love to[0x000A]see it, but I can’t teach the move to an Egg.
+All righty then. Whoa. That Pikachu has already[0x000A]learned Volt Tackle!
+Do you want me to teach Volt Tackle[0x000A]to that {0x0101,0x0000} of yours?
+Pikachu will be happy with its Z-Power!
+Please choose a move that will be replaced with[0x000A]{0x0107,0x0000}.
+{0x0102,0x0000} learned[0x000A]{0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+1, {0xBE02:0x0014}2, and{0xBE02:0x0014}... {0xBE02:0x0014}... {0xBE02:0x0014}... Ta-da!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} forgot how to[0x000A]use {0x0107,0x0001}.{0xBE01}[0x000A]And...{0xBE01}[0x000A]{0x0102,0x0000} learned[0x000A]{0x0107,0x0002}!{0xBE05,0x0004}{0xBE05,0x0001}
+{0x0102,0x0000} did not learn[0x000A]{0x0107,0x0001}.

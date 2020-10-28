@@ -1,0 +1,26 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+Ah... se avessi una bici...![0x000A]Potrei andare a Selcepoli in un attimo...{0xBE01}[0x000A]Farei un bel bagno tonificante in mare[0x000A]per mantenermi più vigile che mai...
+Ah... se avessi una bici...![0x000A]Potrei andare a Selcepoli in un attimo!{0xBE01}[0x000A]Andrei a trovare il Giudice Onomastico[0x000A]e darei ai Pokémon dei nomi stupefacenti...
+Ah... se avessi una bici...[0x000A]Potrei andare a Selcepoli in un attimo!{0xBE01}[0x000A]E potrei partecipare alle Gare Live...{0xBE01}[0x000A]Ma... e se perdessi...?[0x000A]Mi prenderebbe lo sconforto...!
+Ah... se avessi una bici...[0x000A]Potrei andare a Selcepoli in un attimo!{0xBE01}[0x000A]E gironzolare indolente tra le bancarelle[0x000A]del mercato...
+Ah... se avessi una bici...[0x000A]Potrei andare a Selcepoli in un attimo!{0xBE01}[0x000A]Visiterei il Museo Oceanografico e scoprirei[0x000A]i misteri del mare...{0xBE01}[0x000A]Il mare è così rilassante...
+Ah... se avessi una bici...[0x000A]Potrei andare a Selcepoli in un attimo!{0xBE01}[0x000A]Mi allungherei su una sedia a sdraio[0x000A]sulla spiaggia e mi farei un bel pisolino...
+Ah... se avessi una bici...[0x000A]Potrei andare a Selcepoli in un attimo!{0xBE01}[0x000A]Nel Pokémon Fan Club potrei incontrare[0x000A]tanti Pokémon carini...{0xBE01}[0x000A]e conquistarli con il mio dolce sorriso...
+Vai spesso a Selcepoli[0x000A]con la tua squadra di Pokémon?{0xBE01}[0x000A]Selcepoli è veramente un bella città![0x000A]
+{0x0100,0x0000} riceve un[0x000A]{0xBD00,0x0007,0x0000,0x0000}{0x0127,0x0001}{0xBD01}!
+{0x0100,0x0000} mette[0x000A]il {0x0127,0x0001} al suo Pokémon!
+Ah! Tu e il tuo {0x0101,0x0000}, ti dirò...
+Ah! Tu e {0x0101,0x0000}, ti dirò...
+Andate d’accordo?[0x000A]Vi volete bene?
+Andate d’accordo ma non troppo!
+Vedo che andate d’accordo![0x000A]Scommetto che vi divertite con il Poké io&te e le gare!
+Andate molto d’accordo!{0xBE01}[0x000A]Veder lottare i Pokémon affezionati ai propri Allenatori[0x000A]è ancora più emozionante!
+Andate d’accordissimo!{0xBE01}[0x000A]Vedo che vi volete davvero bene...[0x000A]La vostra amicizia mi tocca profondamente!
+Quando si è in compagnia di Pokémon affezionati,[0x000A]viaggiare è molto più divertente!
+Andate d’accordissimo!{0xBE01}[0x000A]Vedo che vi volete davvero bene...[0x000A]Che invidia...!
+{0x0100,0x0000} riceve un[0x000A]{0xBD00,0x0007,0x0000,0x0000}{0x0127,0x0001}{0xBD01}!
+{0x0100,0x0000} mette il[0x000A]{0x0127,0x0001} a {0x0102,0x0002}.

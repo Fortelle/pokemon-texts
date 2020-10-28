@@ -1,0 +1,6 @@
+msg_main0830_fuji_01={0xFF00,0x0009}M. Fuji :{0xFF00,0x0000} {0x0100,0x0000}.{0xBE01}[0x000A]Sache que tu dois aimer les Pokémon de tout[0x000A]ton cœur, si tu espères remplir ton Pokédex{0xBE00}[0x000A]un jour.{0xBE01}[0x000A]J’ignore si ceci te sera utile pour cette quête,[0x000A]mais j’aimerais que tu l’acceptes.
+msg_main0830_sys_01=Vous obtenez la {0xFF00,0x0006}Poké Flûte{0xFF00,0x0000} !
+msg_main0830_fuji_02=Entendre le doux son de la Poké Flûte peut[0x000A]réveiller certains Pokémon endormis.{0xBE01}[0x000A]Essaie de t’en servir si jamais tu rencontres[0x000A]un gros dormeur qui te barre le chemin !
+msg_huzi_01_p04_t005_r0101={0xBDFF:0x0003}
+msg_main0830_fuji_03={0xFF00,0x0009}M. Fuji :{0xFF00,0x0000} Ma Poké Flûte t’a-t-elle été utile ?
+msg_main0830_fuji_04={0xBDFF:0x0005}

@@ -1,0 +1,8 @@
+msg_t002gym01_gym_01=Ehi! Tu![0x000A]Aspirante Campione{0x1100,0x00FF,0x0300}ssa!{0xBE01}[0x000A]Neanch’io so chi sia in realtà il Capopalestra[0x000A]di Smeraldopoli, ma se hai {0xFF00,0x0006}sette Medaglie{0xFF00,0x0000}{0xBE00}[0x000A]significa che hai le carte in regola per sfidarlo!{0xBE01}[0x000A]Ti avverto, però...{0xBE01}[0x000A]Ti aspetta una lotta molto più impegnativa[0x000A]di quelle che hai affrontato finora!{0xBE01}[0x000A]E non dimenticare che gli Allenatori qui dentro[0x000A]sono esperti di Pokémon di tipo Terra!
+msg_t002gym01_gym_02=Ah, davvero?[0x000A]Giovanni era il Capopalestra di Smeraldopoli?{0xBE00}[0x000A]Era così buio che non me ne ero accorto!
+msg_t002gym01_gym_03=Il nuovo Capopalestra di Smeraldopoli[0x000A]è arrivato!
+msg_t002gym01_green_01={0xFF00,0x0009}Blu:{0xFF00,0x0000} Ehilà! Sei venut{0x1100,0x00FF,0x0101}oa a salutarmi?{0xBE01}[0x000A]Adesso che sono diventato Capopalestra vedrai[0x000A]che terrò in riga tutti gli Allenatori di Kanto!
+msg_t002gym01_poke_01={0xFF00,0x0009}Persian:{0xFF00,0x0000} Siaan...
+msg_t002gym01_statue_01=Palestra di Smeraldopoli
+msg_t002gym01_statue_02=Palestra di Smeraldopoli{0xBE01}[0x000A]Allenatori certificati da Giovanni:[0x000A]{0x0100,0x0000}
+msg_t002gym01_statue_03=Palestra di Smeraldopoli{0xBE01}[0x000A]Allenatori certificati da Giovanni:[0x000A]{0x0100,0x0000}{0xBE01}[0x000A]Allenatori certificati da Blu:[0x000A]{0x0100,0x0001}

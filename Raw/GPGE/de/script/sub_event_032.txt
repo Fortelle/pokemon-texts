@@ -1,0 +1,15 @@
+msg_sub032_youngf_01={0xBDFF:0x0000}
+msg_sub032_youngf_02=Wenn ich in Marmoria City einkaufen will,[0x000A]muss ich immer den verworrenen Weg durch{0xBE00}[0x000A]den Vertania-Wald auf mich nehmen.
+msg_sub032_oldm_01={0xBDFF:0x0002}
+msg_sub032_oldm_02=Du versuchst, den Pokédex zu vervollständigen?[0x000A]Dann gebe ich dir einen Rat mit auf den Weg.{0xBE01}[0x000A]Man kann nie genug Pokébälle haben!{0xBE01}[0x000A]Kauf dir im Pokémon-Supermarkt am besten[0x000A]auf der Stelle einen ordentlichen Vorrat.
+msg_sub032_musashi_01={0xFF00,0x0009}???:{0xFF00,0x0000} Du willst hier durch? Tja, Pech gehabt![0x000A]Dieser Weg ist gesperrt.{0xBE01}[0x000A]Wir halten hier gerade Wache und nehmen[0x000A]unsere Arbeit sehr ernst!
+msg_sub032_musashi_02={0xFF00,0x0009}???:{0xFF00,0x0000} Hast du mir etwa nicht zugehört?[0x000A]Dieser Weg ist gesperrt!{0xBE01}[0x000A]Du hast wohl echt nichts Besseres zu tun, als mir[0x000A]ein Kotelett ans Ohr zu labern, oder wie?!
+msg_sub032_kojiro_01={0xFF00,0x0009}???:{0xFF00,0x0000} Was willst du von mir, {0x1100,0x00FF,0x0806,0x0000}KnirpsKnirpsin?![0x000A]Mach, dass du wegkommst. Und zwar dalli!
+msg_sub032_kojiro_02={0xFF00,0x0009}???:{0xFF00,0x0000} Wache stehen ist so was von öde...{0xBE01}[0x000A]Ich würde mir die Zeit viel lieber im[0x000A]Pokémon-Supermarkt vertreiben...
+msg_sub032_nyasu_01={0xFF00,0x0009}Mauzi:{0xFF00,0x0000} Miauz!
+msg_oyaji4_01_p03_field_t002={0xBDFF:0x0009}
+msg_oyaji4_01_p04_field_t002={0xBDFF:0x000A}
+msg_oyaji4_01_p05_field_t002={0xBDFF:0x000B}
+msg_oyaji4_01_p06_field_t002={0xBDFF:0x000C}
+msg_oyaji4_01_p07_field_t002={0xBDFF:0x000D}
+msg_oyaji4_01_p08_field_t002={0xBDFF:0x000E}

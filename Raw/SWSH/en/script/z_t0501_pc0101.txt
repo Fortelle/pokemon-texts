@@ -1,0 +1,5 @@
+msg_t0501pc0101_npc1_01=Hey! I have tons of good stuff.[0x000A]I’ll share some with you!
+msg_t0501pc0101_npc1_02=Listen. I’ll give you some tips about Fossils.{0xBE01}[0x000A]The professor on Route 6 will restore Fossils[0x000A]for you.{0xBE01}[0x000A]If you want to collect different Fossils, go to[0x000A]the Wild Area. Search for them by yourself or{0xBE00}[0x000A]ask the Digging Duo!
+msg_t0501pc0101_npc2_01=Training on the mountain...[0x000A]What a stoic Black Belt you are!
+msg_t0501pc0101_npc3_01=My Pokémon are the ones that train.[0x000A]I just dress the part, that’s all.
+msg_t0501_pc0101_poke1_01_pop=Knowknow. ♪

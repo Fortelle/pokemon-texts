@@ -1,0 +1,14 @@
+Das ist ein Getränkeautomat.[0x000A]Was möchtest du trinken?
+Klong!
+Eine Flasche {0x0109,0x0000} kam heraus.
+Du Glückspilz! Du erhältst eine Flasche gratis obendrauf![0x000A]Eine Flasche {0x0109,0x0000} kam heraus.
+Du hast nicht genug Geld!
+Du hast kein Getränk gekauft.
+Möchtest du eine weitere Flasche kaufen?
+{0xBDFF:0x0007}
+Du hast offenbar das ganz große Los gezogen![0x000A]Eine weitere Flasche {0x0109,0x0000} kam heraus!
+Tafelwasser {0xBD03,0x0000}{0x0202,0x0001} $
+Sprudel {0xBD03,0x0000}{0x0202,0x0001} $
+Limonade {0xBD03,0x0000}{0x0202,0x0001} $
+Abbrechen
+Noch mehr kannst du davon nicht tragen!

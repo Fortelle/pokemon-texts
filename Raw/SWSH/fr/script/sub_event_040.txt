@@ -1,0 +1,10 @@
+sub_event_040_null_01=Groooh !
+sub_event_040_leaguestaff_F_01=La ROM Électrik est activée !{0xBE01}[0x000A]Ça y est, je vais pouvoir faire des économies[0x000A]sur mes factures d’électricité !
+sub_event_040_null_02=Zooor ?
+sub_event_040_leaguestaff_F_07=Et zut, j’avais oublié qu’il fallait le faire évoluer[0x000A]pour que ça fonctionne...
+sub_event_040_leaguestaff_F_02=Ah, {0x0100,0x0000}, c’est toi ! Permets-moi[0x000A]de te féliciter à nouveau pour être passé{0x1100,0x00FF,0x0100}e Maître !
+sub_event_040_leaguestaff_F_03=Pour te récompenser de cet exploit, je souhaite[0x000A]t’offrir un Pokémon très rare : Type:0 !
+sub_event_040_leaguestaff_F_04=Prends aussi ces quelques ROM.[0x000A]Elles te seront utiles.
+sub_event_040_system_01=Vous recevez toute une collection de ROM !
+sub_event_040_leaguestaff_F_05=Tu pourras utiliser ces ROM pour faire changer[0x000A]Type:0 de type quand il aura évolué !
+sub_event_040_leaguestaff_F_06=Alors, Maître, Type:0 se porte bien ?

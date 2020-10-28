@@ -1,0 +1,15 @@
+msg_main0905_sys_01={0xBDFF:0x0000}
+msg_main0905_red_01={0xBDFF:0x0001}
+msg_main0905_dummy_01={0xBDFF:0x0002}
+msg_main0905_red_02={0xBDFF:0x0003}
+msg_main0905_green_01={0xFF00,0x0009}Blau:{0xFF00,0x0000} Du willst also als {0x1100,0x00FF,0x0506,0x0000}ErsterErste gegen mich[0x000A]antreten, {0x0100,0x0000}?
+msg_main0905_green_02=So gefällt mir das! Auf geht’s!
+msg_main0905_dummy_02={0xBDFF:0x0006}
+msg_main0905_green_03=Tja, das musst du selbst wissen...
+msg_main0905_green_04={0xFF00,0x0009}Blau:{0xFF00,0x0000} Puh, wow! Wenn wer bereit dazu ist, es mit[0x000A]Team Rocket aufzunehmen, dann du!{0xBE01}[0x000A]Bei dir ist die Silph Company in sicheren[0x000A]Händen.
+msg_main0905_red_03={0xBDFF:0x0009}
+msg_main0905_sys_02={0xBDFF:0x000A}
+msg_main0905_green_05=So, jetzt bist du an der Reihe, {0x0100,0x0001}.[0x000A]Los, ich hab nicht den ganzen Tag Zeit!
+msg_main0905_rival_01={0xBDFF:0x000C}
+msg_main0905_rival_02={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Hui...{0xBE01}[0x000A]Ich hab vom bloßen Zusehen schon ganz weiche[0x000A]Knie bekommen...{0xBE01}[0x000A]Bei dem Blick in den Augen seiner Pokémon[0x000A]wird einem ganz mulmig...{0xBE01}[0x000A]Aber ich lass mich davon nicht einschüchtern![0x000A]Geh du ruhig schon mal vor, {0x0100,0x0000}!
+msg_main0905_stafff_01={0xFF00,0x0009}Empfangsdame:{0xFF00,0x0000} Blau ist für sein unglaubliches[0x000A]Talent als Pokémon-Trainer bekannt.{0xBE01}[0x000A]Und ich hatte nicht den Eindruck, als hätte er[0x000A]sich bei dem Kampf gegen dich besonders{0xBE00}[0x000A]zurückgehalten...{0xBE01}[0x000A]Du scheinst jemand zu sein, auf den wir uns[0x000A]verlassen können. Hoffentlich kannst du die{0xBE00}[0x000A]Silph Company retten!

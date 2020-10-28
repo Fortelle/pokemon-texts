@@ -1,0 +1,8 @@
+msg_main1110_rival_01={0x01CD,0x0001}: Ah! So this is where you were!
+msg_main1110_rival_06=I thought you might have made your way to[0x000A]Cinnabar Island by now.
+msg_main1110_rival_07=Did you beat Blaine?[0x000A]Really? Congratulations!
+msg_main1110_rival_02=You need to have {0xFF00,0x0006}eight{0xFF00,0x0000} Gym Badges to get into[0x000A]the Pokémon League, right?
+msg_main1110_rival_08=I’ve got seven already! Which means that the[0x000A]only one left is...
+msg_main1110_rival_03=Yeah! It must be the Gym in {0xFF00,0x0006}Viridian City{0xFF00,0x0000}, right?[0x000A]It was closed up last time I checked, though.
+msg_main1110_rival_04=Have you been in the Viridian City Gym[0x000A]yet, {0x0100,0x0000}?{0xBE00}[0x000A]You haven’t, right?
+msg_main1110_rival_05=I guess I’ll try stopping by Viridian City one[0x000A]more time.

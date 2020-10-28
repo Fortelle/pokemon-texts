@@ -1,0 +1,37 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+La Zone de Combat de Sinnoh
+Johto
+Unys
+Les jardins du palais
+Romant-sous-Bois
+La Grotte Étincelante
+Le Cadran Solaire de Flusselles
+L’audioguide se met en marche :{0xBE01}[0x000A]«[0xE07F]La Zone de Combat, située dans l’Aire de Combat[0x000A]de Sinnoh, est un complexe entièrement dédié{0xBE00}[0x000A]aux combats Pokémon.{0xBE01}[0x000A]Elle est constituée de cinq bâtiments à thème,[0x000A]respectivement nommés Tour de Combat,{0xBE00}[0x000A]Usine de Combat, Arcade de Combat,{0xBE00}[0x000A]Scène de Combat et Castel de Combat.[0xE07F]»
+L’audioguide se met en marche :{0xBE01}[0x000A]«[0xE07F]Cette région est connue pour ses nombreuses[0x000A]légendes relatives aux Pokémon et pour la richesse{0xBE00}[0x000A]de son Histoire.[0xE07F]»
+L’audioguide se met en marche :{0xBE01}[0x000A]«[0xE07F]Cette région est peuplée de toutes sortes[0x000A]de gens et de Pokémon, mais c’est leur unité{0xBE00}[0x000A]qui lui a donné son nom : Unys.[0xE07F]»
+L’audioguide se met en marche :{0xBE01}[0x000A]«[0xE07F]Cette peinture représente les jardins du[0x000A]Palais Chaydeuvre.{0xBE01}[0x000A]Elle fait partie d’une série réalisée par un artiste[0x000A]étranger qui, de passage à Kalos, s’est laissé{0xBE00}[0x000A]séduire par la beauté de ses paysages.{0xBE01}[0x000A]On peut y voir une statue qui symbolise[0x000A]la coopération entre hommes et Pokémon.[0xE07F]»
+L’audioguide se met en marche :{0xBE01}[0x000A]«[0xE07F]Cette ville a tout d’un village caché où vivraient[0x000A]des fées.{0xBE01}[0x000A]L’arbre majestueux qui s’élève au centre de la cité[0x000A]abrite une Arène Pokémon.{0xBE01}[0x000A]Cette œuvre fait partie d’une série réalisée par[0x000A]un artiste étranger qui, de passage à Kalos, s’est{0xBE00}[0x000A]laissé séduire par la beauté de ses paysages.[0xE07F]»
+L’audioguide se met en marche :{0xBE01}[0x000A]«[0xE07F]L’étrange lueur qui éclaire faiblement cette grotte[0x000A]sombre et exiguë vient du Lichen Lumineux qui{0xBE00}[0x000A]pousse sur ses parois.{0xBE01}[0x000A]Cette œuvre fait partie d’une série réalisée par[0x000A]un artiste étranger qui, de passage à Kalos, s’est{0xBE00}[0x000A]laissé séduire par la beauté de ses paysages.[0xE07F]»
+L’audioguide se met en marche :{0xBE01}[0x000A]«[0xE07F]Cette œuvre représente un cadran solaire qui[0x000A]scintille dans la lumière du couchant.{0xBE01}[0x000A]Pour une raison inconnue, le peintre a choisi[0x000A]d’observer son sujet à travers un miroir.{0xBE00}[0x000A]Par conséquent, la scène est inversée.{0xBE01}[0x000A]Elle fait partie d’une série réalisée par[0x000A]un artiste étranger qui, de passage à Kalos, s’est{0xBE00}[0x000A]laissé séduire par la beauté de ses paysages.[0xE07F]»
+Bienvenue au Musée d’Illumis.{0xBE01}[0x000A]L’entrée est gratuite pour tous.[0x000A]Voulez-vous entrer[0xE07F]?
+Bienvenue au Musée d’Illumis.{0xBE01}[0x000A]Voulez-vous entrer[0xE07F]?
+Revenez nous rendre visite quand vous voudrez.
+Nous mettons des audioguides à la disposition[0x000A]du public.{0xBE01}[0x000A]Pour la modique somme de 200 $, ils donnent[0x000A]une foule d’informations sur les œuvres exposées.{0xBE01}[0x000A]Aimeriez-vous en louer un[0xE07F]?
+Voici votre audioguide.{0xBE01}[0x000A]Pour écouter les informations relatives[0x000A]à une œuvre d’art, examinez le boîtier{0xBE00}[0x000A]qui se trouve à côté d’elle.
+Je suis désolée, {0x1100,0x00FF,0x0B0A}jeune hommmademoiselle.[0x000A]Il semble que vous n’avez pas assez d’argent.{0xBE01}[0x000A]Voulez-vous entrer sans utiliser d’audioguide[0xE07F]?
+Je vous souhaite une bonne visite.
+La sortie se trouve à gauche de la réception.
+M{0x1100,0x00FF,0x0B07}onsieurademoiselle[0xE07F]!{0xBE01}[0x000A]N’oubliez pas que si vous voulez sortir du musée,[0x000A]vous devez tout d’abord rendre l’audioguide.{0xBE01}[0x000A]Voulez-vous sortir dès maintenant[0xE07F]?
+Merci de votre visite[0xE07F]!
+Très bien[0xE07F]![0x000A]Nous vous souhaitons une agréable visite.
+L’entrée se trouve à droite de la réception.
+Oh, c’est magnifique[0xE08D]
+Ne parle pas si fort, il y a du monde[0xE07F]!
+Tu n’as pas l’air de venir de Kalos, toi[0xE08D]{0xBE01}[0x000A]Je suis sûr que tu viens juste d’arriver.[0x000A]Tiens, un cadeau de bienvenue[0xE07F]!
+La capacité Draco-Queue permet de faire[0x000A]voler l’adversaire au loin en l’attaquant.{0xBE01}[0x000A]Mon Pokémon partenaire l’a apprise au[0x000A]Village des Dragons. Fais-en bon usage[0xE07F]!
+Les audioguides donnent des explications sur[0x000A]les œuvres d’art.
+Je suis la conservatrice de ce musée.{0xBE01}[0x000A]Mon travail consiste à organiser des expositions[0x000A]et à réunir des œuvres d’art.{0xBE01}[0x000A]Tu ne trouves pas que «[0xE07F]Conservatrice[0xE07F]» sonne[0x000A]comme un nom de capacité Pokémon[0xE07F]?
+Quand on a le tournis, les peintures sont encore[0x000A]plus jolies[0xE07F]!
+Chacun est libre de profiter des musées[0x000A]à son rythme et à sa façon.
+Très ch{0x1100,0x00FF,0x0D0B}er visiteurère visiteuse, votre élégance vous offre[0x000A]le privilège de pouvoir profiter GRATUITEMENT{0xBE00}[0x000A]de nos audioguides.

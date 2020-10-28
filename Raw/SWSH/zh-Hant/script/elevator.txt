@@ -1,0 +1,16 @@
+msg_elevator_c03_01=要去哪裡呢？
+msg_elevator_c03_02=倫度羅瑟酒店
+msg_elevator_c03_03=宮門競技場
+msg_elevator_c03_04=單軌總站
+msg_elevator_c03_05=洛茲大廈
+msg_elevator_c03_06=對戰塔
+msg_elevator_c03_07=不搭了
+msg_elevator_c02_01=有電梯。但目前無法使用。
+msg_elevator_start=要搭到幾樓？
+msg_elevator_cancel=不搭了
+msg_elevator_1f=１樓
+msg_elevator_3f=３樓
+msg_elevator_ap_1f=１Ｆ：入口
+msg_elevator_ap_2f=２Ｆ：保護區
+msg_elevator_ap_b1f=Ｂ１Ｆ：碼頭
+msg_elevator_ap_b2f=Ｂ２Ｆ：研究室區域

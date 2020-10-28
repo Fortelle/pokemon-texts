@@ -1,0 +1,5 @@
+msg_t001r0102_game_01=C’è una console Nintendo Switch![0x000A]È collegata alla televisione.
+msg_t001r0102_bg_01=Chissà quanti Pokémon ci sono in giro[0x000A]per il mondo...
+msg_t001r0102_bg_02=C’è un’e-mail da parte di {0x0100,0x0001}!{0xBE01}[0x000A]“Ciao {0x0100,0x0000}![0x000A]Visto che presto saremo entrambi Allenatori,{0xBE00}[0x000A]ti insegno un po’ di cosette utili.{0xBE01}[0x000A]Inclina fino in fondo lo stick per correre[0x000A]e premi A per parlare con la gente!{0xBE01}[0x000A]Premi X per aprire il menu e seleziona Salva[0x000A]per salvare il gioco.{0xBE01}[0x000A]Che bello! Non vedo l’ora di cominciare![0x000A]Firmato: {0x0100,0x0001}”
+msg_t001r0102_bg_03=È un morbidissimo peluche di Pikachu!
+msg_t001r0102_bg_04=È un morbidissimo peluche di Eevee!

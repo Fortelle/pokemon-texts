@@ -1,0 +1,10 @@
+msg_t006r0301_sailor_02_01=サント・アンヌごうは[0x000A]ゆうめいな　ごうか　きゃくせん！{0xBE01}[0x000A]１ねんに　１ど　だけ[0x000A]クチバこうに　とまるんだ！
+msg_t006r0301_sailor_01_01=ようこそ　サント・アンヌごうへ！
+msg_t006r0301_sailor_01_02={0xBDFF:0x0002}
+msg_t006r0301_sys_01={0xBDFF:0x0003}
+msg_t006r0301_sailor_01_03={0xBDFF:0x0004}
+msg_t006r0301_sys_02={0xBDFF:0x0005}
+msg_t006r0301_sailor_01_04={0xBDFF:0x0006}
+msg_t006r0301_sys_03={0xBDFF:0x0007}
+msg_t006r0301_sailor_01_05={0xBDFF:0x0008}
+msg_t006r0301_sailor_01_06=ふねは　しゅっこうしました

@@ -1,0 +1,16 @@
+msg_main0950_president_01={0xFF00,0x0009}Presidente:{0xFF00,0x0000} Ragazzo mio! La Silph S.p.A. è salva[0x000A]per merito tuo!
+msg_main0950_president_02={0xFF00,0x0009}Presidente:{0xFF00,0x0000} Ragazza mia! La Silph S.p.A. è salva[0x000A]per merito tuo!
+msg_main0950_partner_a_01=Pika pika!
+msg_main0950_partner_b_01=Veee!
+msg_main0950_president_08={0xFF00,0x0009}Presidente:{0xFF00,0x0000} Ah ah ah! Hai ragione...[0x000A]È anche merito tuo!
+msg_main0950_president_05=Grazie a voi due siamo usciti da una situazione[0x000A]veramente difficile!{0xBE01}[0x000A]Non dimenticherò mai ciò che avete fatto!
+msg_main0950_president_06=Devo sdebitarmi in qualche modo...{0xBE01}[0x000A]I soldi non mi mancano, quindi posso farti[0x000A]un bel regalo!{0xBE01}[0x000A]Ecco, questa fa al caso tuo!
+msg_main0950_sys_01={0x0100,0x0000} riceve la {0xFF00,0x0006}Master Ball{0xFF00,0x0000}[0x000A]dal presidente!
+msg_main0950_president_03={0xFF00,0x0009}Presidente:{0xFF00,0x0000} È una Master Ball...!{0xBE01}[0x000A]Un prototipo segreto che non si può[0x000A]acquistare da nessuna parte!
+msg_main0950_president_07=È un nuovo tipo di Poké Ball infallibile che[0x000A]permette di catturare qualsiasi Pokémon!{0xBE01}[0x000A]Finora ne è stato prodotto un solo[0x000A]esemplare.
+msg_main0950_president_09=Ti raccomando di usarla con prudenza.
+msg_main0950_president_04={0xFF00,0x0009}Presidente:{0xFF00,0x0000} Ooh! {0x1100,0x00FF,0x1312}Il nostro salvatorLa nostra salvatrice![0x000A]Grazie ancora per il tuo aiuto!
+msg_main0950_president_10={0xFF00,0x0009}Presidente:{0xFF00,0x0000} Ah! Aspetta! Ho qualcosa da darti[0x000A]in segno di riconoscenza.
+msg_workerm1_01_p04_cave_d1011={0xBDFF:0x000D}
+msg_main0950_stafff_01={0xFF00,0x0009}Segretaria: {0xFF00,0x0000}Grazie per averci salvati![0x000A]Ammiriamo il tuo coraggio.
+msg_main0950_stafff_02={0xFF00,0x0009}Segretaria:{0xFF00,0x0000} Una Poké Ball infallibile...{0xBE01}[0x000A]È uno strumento che può essere affidato[0x000A]solo a un{0x1100,0x00FF,0x1A19} Allenatore straordinario’Allenatrice straordinaria.{0xBE01}[0x000A]È per questo che il presidente ha deciso[0x000A]di dare a te la Master Ball!

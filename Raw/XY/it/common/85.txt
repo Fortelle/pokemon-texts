@@ -1,0 +1,25 @@
+[0x000A]Creazione dei dati aggiuntivi e avvio del gioco[0x000A]in corso.[0x000A][0x000A]Non rimuovere la scheda SD e non spegnere[0x000A]la console.
+Seleziona la lingua tramite la pulsantiera +[0x000A]e premi il pulsante A per confermare.[0x000A][0x000A]{0xFF00,0x0001}Dopo la conferma non sarà più possibile[0x000A]cambiare lingua nel corso del gioco.{0xFF00,0x0000}[0x000A][0x000A]Se non sai cosa fare, chiedi a qualcuno[0x000A]di aiutarti.
+[0x000A][0x000A]Vuoi giocare in questa lingua?[0x000A][0x000A][0x000A]{0xFF00,0x0001}Dopo la conferma non sarà più possibile[0x000A]cambiare lingua nel corso del gioco.{0xFF00,0x0000}
+{0xBDFF:0x0003}
+Gioca a Pokémon X in...
+Gioca a Pokémon Y in...
+Inglese
+Spagnolo
+Francese
+Tedesco
+Italiano
+Giapponese
+Coreano
+Inizia il gioco
+Scegli la lingua
+I dati di salvataggio sono danneggiati.[0x000A][0x000A]Per maggiori informazioni, consulta[0x000A]il manuale di istruzioni.
+I dati della scheda SD sono danneggiati.[0x000A][0x000A]Premi il pulsante A per inizializzare i dati.
+Impossibile riconoscere la scheda SD.[0x000A][0x000A]Riavvia il gioco e riprova.
+Non puoi utilizzare questi dati di salvataggio[0x000A]perché non corrispondono a quelli salvati[0x000A]nell’ultima sessione.[0x000A][0x000A]Per maggiori informazioni, consulta[0x000A]il manuale di istruzioni.
+Ripristino dei dati di salvataggio in corso.[0x000A]Non spegnere la console.
+Non c’è spazio sulla scheda SD.[0x000A]Impossibile avviare il gioco.[0x000A][0x000A]Per maggiori informazioni, consulta[0x000A]il manuale di istruzioni.
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}

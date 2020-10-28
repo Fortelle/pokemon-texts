@@ -1,0 +1,4 @@
+msg_t006r0201_shortpants_01=Mein Geheimtipp fürs Werfen von Pokébällen?[0x000A]Warte, bis der Ring so klein wie möglich ist,{0xBE00}[0x000A]und ziele dann genau in die Mitte.
+msg_t006r0201_miniskirt_01=Wenn der Ring grün ist, dann ist das Pokémon[0x000A]leicht zu fangen.{0xBE01}[0x000A]Gelb bedeutet, dass sich der Fang etwas[0x000A]schwieriger gestaltet. Und bei Rot...{0xBE01}[0x000A]Tja, bei Rot sehe ich schwarz!
+msg_t006r0201_miniskirt_02=Ich hab einem wilden Pokémon eine Nanabbeere[0x000A]zu essen gegeben und es wurde gleich ruhiger.{0xBE01}[0x000A]Ein Pokémon lässt sich viel leichter fangen,[0x000A]wenn es nicht ständig herumzappelt.
+msg_t006r0201_miniskirt_03=Mit einem Superball ist es viel leichter, ein[0x000A]Pokémon zu fangen als mit einem Pokéball.{0xBE01}[0x000A]Aber leider ist auch ein Superball noch keine[0x000A]Garantie dafür, dass der Fang gelingt.

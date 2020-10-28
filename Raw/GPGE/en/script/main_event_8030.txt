@@ -1,0 +1,14 @@
+msg_main8030_grass_01=Hello...[0x000A]Lovely weather, isn’t it?
+msg_main8030_grass_06=It’s so pleasant...{0xBE01}[0x000A]... ... ...{0xBE01}[0x000A]... ... Zzz.
+msg_main8030_grass_07=...Oh dear.[0x000A]I must have dozed off.
+msg_main8030_grass_08=Welcome.{0xBE01}[0x000A]My name is Erika.[0x000A]I am the Gym Leader of the Celadon City Gym.
+msg_main8030_grass_09=I am a student of the art of flower arranging.{0xBE01}[0x000A]My Pokémon are all of the Grass type.
+msg_main8030_grass_10=...Oh, I’m sorry.[0x000A]Did you perhaps wish to challenge me?
+msg_main8030_grass_11=Very well...[0x000A]but I shall not lose.
+msg_gymleader_04_02={0xBDFF:0x0007}
+msg_main8030_grass_02=I must confer on you a Rainbow Badge.
+msg_main8030_sys_01=You got a {0xFF00,0x0006}Rainbow Badge{0xFF00,0x0000} from Erika!
+msg_main8030_grass_03=A Rainbow Badge raises the level of Pokémon[0x000A]willing to listen to you to Lv. {0x0201,0x0004}, for Pokémon{0xBE00}[0x000A]that you have received from other Trainers.{0xBE01}[0x000A]And...here.[0x000A]If you’d like, please also take this with you.
+msg_main8030_sys_02=You got {0x0109,0x0001} {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000} from Erika!
+msg_main8030_grass_04=TM53 contains Mega Drain.{0xBE01}[0x000A]Half the damage it inflicts is drained from[0x000A]the target to heal your Pokémon.{0xBE01}[0x000A]Wouldn’t you agree that it’s a wonderful move?
+msg_main8030_grass_05=Oh my...[0x000A]So you are cataloging the Pokémon you catch?{0xBE00}[0x000A]I must say I’m impressed.{0xBE01}[0x000A]I myself would never collect a Pokémon if it[0x000A]were not beautiful.

@@ -1,0 +1,25 @@
+[0x000A]Création des données additionnelles[0x000A]nécessaires au démarrage en cours[0xE08D][0x000A][0x000A]Ne pas éteindre la console ni retirer[0x000A]la carte SD.
+Choisissez votre langue avec la manette +.[0x000A]Confirmez avec le bouton A.[0x000A][0x000A]{0xFF00,0x0001}Attention : une fois la langue confirmée,[0x000A]vous ne pourrez plus la changer.{0xFF00,0x0000}[0x000A][0x000A]Si vous ne savez pas quoi faire,[0x000A]demandez à un adulte de vous aider.
+[0x000A][0x000A]Voulez-vous jouer dans cette langue[0xE07F]?[0x000A][0x000A][0x000A]{0xFF00,0x0001}Attention : une fois la langue confirmée,[0x000A]vous ne pourrez plus la changer.{0xFF00,0x0000}
+{0xBDFF:0x0003}
+Jouer à Pokémon Saphir Alpha en[0xE08D]
+Jouer à Pokémon Rubis Oméga en[0xE08D]
+Anglais
+Espagnol
+Français
+Allemand
+Italien
+Japonais
+Coréen
+Commencer
+Choisir la langue
+Les données de sauvegarde sont corrompues.[0x000A][0x000A]Pour plus de renseignements, veuillez[0x000A]consulter le mode d’emploi.
+Les données présentes sur la carte SD[0x000A]sont corrompues.[0x000A][0x000A]Appuyez sur le bouton A pour effacer ces[0x000A]données.
+Impossible de reconnaître la carte SD.[0x000A][0x000A]Relancez le jeu et réessayez.
+Cette sauvegarde ne correspond pas à votre[0x000A]dernière session de jeu enregistrée.[0x000A]Impossible d’utiliser ces données.[0x000A][0x000A]Pour plus de renseignements, veuillez[0x000A]consulter le mode d’emploi.
+Rétablissement de la sauvegarde[0xE08D][0x000A][0x000A]Ne pas éteindre la console.
+Il n’y a pas suffisamment d’espace libre sur[0x000A]la carte SD.[0x000A]Impossible de commencer une partie.[0x000A][0x000A]Pour plus de renseignements, veuillez[0x000A]consulter le mode d’emploi.
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}

@@ -1,0 +1,12 @@
+msg_main8040_esper_01=Da bist du ja! Ich habe vorausgesehen,[0x000A]dass du kommen würdest.
+msg_main8040_esper_06=Seit ich als Kind mal einen Löffel runtergeworfen[0x000A]habe und er sich auf unnatürliche Art verbogen{0xBE00}[0x000A]hat, weiß ich: Ich besitze übernatürliche Kräfte.{0xBE01}[0x000A]Deshalb nennt man mich auch die Meisterin der[0x000A]Psycho-Pokémon.
+msg_main8040_esper_07=Ich kämpfe nur ungern, aber deine Gedanken[0x000A]verraten mir, dass du darauf bestehen wirst...
+msg_main8040_esper_08=Wenn es dein Wunsch ist, werde ich dir zeigen,[0x000A]wozu ich fähig bin.
+msg_gymleader_06_02={0xBDFF:0x0004}
+msg_main8040_esper_02=In Anerkennung deines Sieges verleihe ich dir[0x000A]den Sumpforden!
+msg_main8040_sys_01=Du erhältst den {0xFF00,0x0006}Sumpforden{0xFF00,0x0000} von Sabrina!
+msg_main8040_esper_03=Mit dem Sumpforden gehorchen dir nun alle[0x000A]Pokémon, die du von anderen Trainern erhältst,{0xBE00}[0x000A]vorausgesetzt, ihr Level ist nicht höher als {0x0201,0x0004}.{0xBE01}[0x000A]Ach, und nimm noch diese TM von mir!
+msg_main8040_sys_02=Du erhältst {0x0109,0x0001} {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000} von Sabrina!
+msg_main8040_esper_04=Die TM33 enthält die Attacke Gedankengut.{0xBE01}[0x000A]Das Pokémon, das diese Attacke einsetzt,[0x000A]konzentriert sich, um seinen Spezial-Angriff und{0xBE00}[0x000A]seine Spezial-Verteidigung zu erhöhen.
+msg_main8040_esper_05=Psycho-Kräfte sind nicht bloß einem kleinen[0x000A]Kreis an Menschen vorbehalten.{0xBE01}[0x000A]Theoretisch kann jeder sie erlernen, viele wissen[0x000A]es nur nicht.
+msg_gymleader_06_07={0xBDFF:0x000B}

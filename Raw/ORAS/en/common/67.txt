@@ -1,0 +1,14 @@
+Connecting to the Internet...[0x000A]Please wait a moment.
+Is it OK to begin connecting[0x000A]to the Internet?
+Is it OK to disconnect[0x000A]from the Internet?
+Yes
+No
+Successfully connected[0x000A]to the Internet.
+Disconnecting from the Internet...[0x000A]Please wait a moment.
+Successfully disconnected[0x000A]from the Internet.
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+Cannot connect to the Internet[0x000A]due to Parental Control settings.
+This game’s Game Sync ID Code:[0x000A]{0x01A1,0x0000}

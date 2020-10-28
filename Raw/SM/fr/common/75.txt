@@ -1,0 +1,52 @@
+{0x01B2,0x0000}
+{0xBDFF:0x0001}
+{0x0102,0x0000}
+Affection
+Satiété
+Gaieté
+Changer de Pokémon
+Avec quel Pokémon voulez-vous jouer[0xE07F]?
+{0xBDFF:0x0008}
+{0x0102,0x0000}には　あなたの　かおが[0x000A]ちゃんと　みえているようです！
+{0x0202,0x0000}
+Soins[0x000A]Permet de soigner les altérations de statut.
+Peigne[0x000A]Permet de coiffer les Pokémon.
+Brosse[0x000A]Permet d’enlever la poussière.
+Torchon[0x000A]Permet d’essuyer les salissures.
+Sèche-cheveux[0x000A]Permet de sécher les Pokémon mouillés.
+Occupez-vous de vos Pokémon[0xE07F]![0x000A]Faites-leur des papouilles pour devenir[0x000A]encore plus proche d’eux[0xE07F]!
+Donnez des Poké Fèves à vos Pokémon,[0x000A]ils adorent ça[0xE07F]![0x000A]Vous pouvez en recevoir au café[0x000A]des Centres Pokémon[0xE07F]!
+Il arrive que les Pokémon se salissent[0x000A]en combattant.[0x000A]Si c’est le cas, nettoyez-les en utilisant un des[0x000A]objets de toilettage. Vous pouvez même soigner[0x000A]l’empoisonnement ou la paralysie[0xE07F]!
+Occupez-vous de différents Pokémon[0xE07F]![0x000A]Un Pokémon qui vous aime fera tout[0x000A]son possible pour exceller en combat et ne pas[0x000A]vous décevoir, alors prenez-en bien soin[0xE07F]!
+×
+{0x0202,0x0000}
+そうびちゅう[0x000A]（{0x0202,0x0000}ひき）
+シリーズ
+{0x01B3,0x0000}
+イメージ
+{0x01B4,0x0000}
+ランク
+ロトムの　おしゃれ　じょうほう
+きょうの　イチオシデコ！
+ストリートキャップで　クールに　キメロト！
+これいじょう　もつことができません！[0x000A]すてても　よいですか？
+はい
+いいえ
+{0x0187,0x0000}[0x000A]{0x0188,0x0001}
+Penche la tête vers la gauche[0xE07F]!
+Penche la tête vers la droite[0xE07F]!
+Prends un air sérieux[0xE08D]
+Un tout petit sourire[0xE07F]?
+Un sourire satisfait[0xE07F]!
+Un sourire radieux[0xE07F]!!!
+Écarquille les yeux[0xE07F]!
+Plisse les yeux[0xE08D]
+Ferme les yeux bien fort[0xE07F]!
+Un clin d’œil à gauche[0xE07F]?
+Un clin d’œil à droite[0xE07F]?
+Bisou[0xE07F]!
+Ouvre la bouche[0xE07F]!
+Ouvre la bouche et ferme les yeux[0xE07F]!
+Ferme les yeux et fais un bisou[0xE07F]!
+Ouvre la bouche et les yeux en grand[0xE07F]!
+Écarquille les yeux et fais un bisou[0xE07F]!

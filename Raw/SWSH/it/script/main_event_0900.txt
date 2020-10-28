@@ -1,0 +1,15 @@
+main_event_0900_assistant_01=Ah! Eccoti!{0x0114,0x000B}
+main_event_0900_assistant_02=La Sala dei Tesori è... un gioiello per gli occhi!{0xBE01}[0x000A]Guarda, non sono meravigliosi?[0x000A]Questi arazzi raccontano la storia di Galar.{0x0114,0x000B}
+main_event_0900_assistant_03=Due giovani contemplano una Desiostella.{0x0114,0x000B}
+main_event_0900_assistant_04=Una calamità li coglie di sorpresa, disorientandoli.{0x0114,0x000B}
+main_event_0900_assistant_05=Qui la spada e lo scudo sventano la catastrofe[0x000A]sotto lo sguardo dei due giovani.{0x0114,0x000B}
+main_event_0900_assistant_06=E infine, eccoli che indossano la corona.{0x0114,0x000B}
+main_event_0900_assistant_07=Questi quattro arazzi illustrano la nascita[0x000A]del regno di Galar.{0x0114,0x000B}
+main_event_0900_assistant_08=Dimmi, giovane Sfidapalestre, noti niente[0x000A]di interessante in queste immagini?{0x0114,0x000B}
+main_event_0900_select_01=Gli eroi quindi erano due?
+main_event_0900_select_02=Mi ricordano la Notte Oscura...
+main_event_0900_assistant_11=Esatto!{0xBE01}[0x000A]La statua nell’hotel di Steamington raffigurava[0x000A]un solo eroe.{0xBE01}[0x000A]Invece questi arazzi ne mostrano due. Dunque...{0x0114,0x000B}
+main_event_0900_assistant_12=Proprio così! Dici bene!{0xBE01}[0x000A]Questi arazzi rappresentano il vortice nero che[0x000A]oscurò i cieli di Galar, descritto nella leggenda{0xBE00}[0x000A]come una terribile catastrofe...{0xBE01}[0x000A]Ovvero la Notte Oscura![0x000A]Ma osserva bene...{0x0114,0x000B}
+main_event_0900_assistant_13=L’eroe di Galar è uno solo? O non bisognerebbe[0x000A]invece prendere atto dell’esistenza di due eroi?{0xBE01}[0x000A]E cos’è in realtà la Notte Oscura?{0x0114,0x000B}
+main_event_0900_assistant_09=Sento di avere una visione più chiara adesso.{0xBE01}[0x000A]Parlare con te mi è servito, grazie per essermi[0x000A]stat{0x1100,0x00FF,0x0101}oa a sentire.{0xBE01}[0x000A]Continuerò le mie indagini. Questi arazzi[0x000A]hanno più di qualche segreto da svelarci.{0xBE01}[0x000A]Tu tornerai alla Sfida delle Palestre,[0x000A]immagino.{0xBE01}[0x000A]Io faccio il tifo per te! Tieni, ti sarà utile!{0xBE01}[0x000A]Sono sicura che collezionerai una vittoria[0x000A]dietro l’altra!{0x0114,0x000B}
+main_event_0900_assistant_10=Mi chiedo dove potrebbero trovarsi adesso la[0x000A]spada e lo scudo che respinsero il terribile{0xBE00}[0x000A]flagello che si abbatté sulla regione...{0x0114,0x000B}

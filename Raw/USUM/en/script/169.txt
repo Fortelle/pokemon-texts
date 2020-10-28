@@ -1,0 +1,17 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+It’s a patch of rather suspicious-looking grass.[0x000A]Will you pull it up?
+It’s a Revival Herb!{0xBE01}[0x000A]You put the Revival Herb in your Forage Bag!
+It’s a Revival Herb!{0xBE01}[0x000A]Wait... No, it’s not![0x000A]On second glance, it’s just a normal weed!
+A Pokémon leaped out of the grass to attack!
+Hey, it’s me, Mallow![0x000A]That’s a fine Revival Herb!{0x0114,0x000E}
+Its bitter bite is even a shock to Pokémon,[0x000A]but that’s what will add depth to the flavor!{0x0114,0x000E}
+Ooh, looks like you got everything!{0xBE01}[0x000A]OK, it’s time for us to start cooking, so come on[0x000A]back to the entrance of the jungle!{0x0114,0x000E}
+Just one last ingredient left![0x000A]Get back out there and find it!{0x0114,0x000E}
+Still two more ingredients left to get![0x000A]Just a little more to find!{0x0114,0x000E}
+Still three ingredients left to get![0x000A]We still need a whole big helping!{0x0114,0x000E}

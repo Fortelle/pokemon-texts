@@ -1,0 +1,14 @@
+msg_main8030_grass_01=Bonjour, bonjour...[0x000A]Il fait beau, aujourd’hui, n’est-ce pas... ?
+msg_main8030_grass_06=...[0x000A]Je m’ennuiiie...
+msg_main8030_grass_07=Oups, pardon. Je me laissais un peu aller.
+msg_main8030_grass_08=Enchantée ! Je suis Erika, la Championne[0x000A]de l’Arène de Céladopole.
+msg_main8030_grass_09=L’arrangement floral est ma spécialité, et tous[0x000A]mes Pokémon sont de type Plante.
+msg_main8030_grass_10=Quoi ? Tu veux te battre ?[0x000A]Mais il fallait le dire tout de suite !
+msg_main8030_grass_11=Un bon combat, c’est juste ce qu’il me faut pour[0x000A]me réveiller !{0xBE01}[0x000A]Au fait, je te préviens : tu vas perdre.
+msg_gymleader_04_02={0xBDFF:0x0007}
+msg_main8030_grass_02=Bien joué. Je te confie donc le Badge Prisme,[0x000A]c’est mérité.
+msg_main8030_sys_01=Vous obtenez le {0xFF00,0x0006}Badge Prisme{0xFF00,0x0000} !
+msg_main8030_grass_03=Grâce au Badge Prisme, même les Pokémon[0x000A]échangés t’obéiront s’ils sont de niveau {0x0201,0x0004}{0xBE00}[0x000A]ou moins.{0xBE01}[0x000A]Accepte également ceci.
+msg_main8030_sys_02=Vous obtenez la {0x0109,0x0001} {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000} !
+msg_main8030_grass_04=La CT53 contient Méga-Sangsue.{0xBE01}[0x000A]La moitié des dégâts infligés par cette capacité[0x000A]seront absorbés par ton Pokémon pour le soigner.{0xBE01}[0x000A]C’est une superbe capacité, n’est-ce pas ?
+msg_main8030_grass_05=Je vois que tu remplis un Pokédex ?[0x000A]Ta quête est noble.{0xBE01}[0x000A]Pour ma part, je ne m’intéresse qu’aux Pokémon[0x000A]les plus beaux.

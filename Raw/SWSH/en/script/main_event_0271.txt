@@ -1,0 +1,13 @@
+main_event_0271_doctor_01=Why, Hop dear.[0x000A]I see Wooloo has made some new friends.{0x0114,0x000A}
+main_event_0271_doctor_02=And you must be {0x0100,0x0000}.{0xBE01}[0x000A]I trust you received the Pokédex from Sonia.[0x000A]I’m sure you’ll have it complete in no time!{0x0114,0x000A}
+main_event_0271_champion_01=You must already know about Dynamaxing,[0x000A]right, {0x0100,0x0000}?{0x0114,0x0004}
+main_event_0271_champion_02=Professor Magnolia’s been doing research into[0x000A]the Dynamax phenomenon for years and years.{0xBE01}[0x000A]And it takes a proper understanding of the thing[0x000A]if you plan to use Dynamaxing to the fullest!{0x0114,0x0004}
+main_event_0271_doctor_03=There you go again, Leon, always talking[0x000A]about Pokémon.{0xBE01}[0x000A]There are other things that are worth knowing[0x000A]about, too, you know.{0xBE00}[0x000A]Like how many different types of tea there are!{0x0114,0x000A}
+main_event_0271_rival_01=Hey, Professor, do us a favor, would you?{0xBE01}[0x000A]Help me convince Lee he should endorse us for[0x000A]the Gym Challenge!{0x0114,0x0005}
+main_event_0271_doctor_04=Oh Leon, why wouldn’t you endorse them?{0x0114,0x000A}
+main_event_0271_champion_04=Hop and {0x0100,0x0000} only just started out[0x000A]as Pokémon Trainers...{0xBE00}[0x000A]There’s still loads they don’t know yet!{0x0114,0x0004}
+main_event_0271_doctor_05=Dearie, I thought your dream was to have[0x000A]everyone in the Galar region become strong{0xBE00}[0x000A]Trainers. Isn’t that right?{0x0114,0x000A}
+main_event_0271_doctor_06=Well, yeah...you’re not wrong.{0xBE01}[0x000A]That goal’s precisely the reason I gave them both[0x000A]Pokémon, in fact.{0x0114,0x0004}
+main_event_0271_champion_05=Right, then.[0x000A]In that case...how about this?{0xBE01}[0x000A]Let’s see if the two of you can show me such a[0x000A]brilliant battle that I’m left with no choice but{0xBE00}[0x000A]to endorse you.{0xBE01}[0x000A]And don’t worry. I’ll make sure both your teams[0x000A]are in good shape before the battle starts.{0x0114,0x0004}
+main_event_0271_rival_02=Right![0x000A]I’ll be waiting outside, {0x0100,0x0000}!{0x0114,0x0005}
+main_event_0271_doctor_07=Now remember, be sure to give it everything[0x000A]you’ve got.{0xBE01}[0x000A]That’s the best thing you can do for your[0x000A]Pokémon—and for yourself, too.{0x0114,0x000A}

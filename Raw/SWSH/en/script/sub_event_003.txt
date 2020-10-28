@@ -1,0 +1,10 @@
+sub_event_003_boy_01=A treasure lies buried somewhere in Turffield...
+sub_event_003_boy_02=According to this treasure map, the trick to[0x000A]finding the treasure lies in the standing stones.{0xBE01}[0x000A]“Seek yourself three standing stones,[0x000A]with Grass before the other ones.{0xBE00}[0x000A]Use well that strength, and find then{0xBE00}[0x000A]the strength of its strength in the end.{0xBE00}[0x000A]Dally not, if you’ve a mind{0xBE00}[0x000A]To find what time has left behind.”{0xBE01}[0x000A]...That’s what it says, but I can’t make heads or[0x000A]tails of it!
+sub_event_003_boy_03=What?! You actually managed to find treasure?![0x000A]That’s amazing! I was completely stuck!
+sub_event_003_system_01=What’s this? Something’s carved into the stone.[0x000A]It says: “Grass.”
+sub_event_003_system_02=What’s this? Something’s carved into the stone.[0x000A]It says: “Water.”
+sub_event_003_system_03=What’s this? Something’s carved into the stone.[0x000A]It says: “Fire.”
+sub_event_003_system_04=What’s this? Something’s carved into the stone.[0x000A]It says: “Flying.”
+sub_event_003_system_05=What’s this? Something’s carved into the stone.[0x000A]It says: “Poison.”
+sub_event_003_system_06=What’s this? Something’s carved into the stone.[0x000A]It says: “Dark.”
+sub_event_003_system_07=There’s something buried in the ground!

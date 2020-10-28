@@ -1,0 +1,10 @@
+msg_sub028_sys_01=C’est un distributeur ![0x000A]Que voulez-vous acheter ?
+msg_sub028_select_01=Eau Fraîche {0xBD03,0x0000}{0x0202,0x0001} [0xE300]
+msg_sub028_select_02=Soda Cool {0xBD03,0x0000}{0x0202,0x0001} [0xE300]
+msg_sub028_select_03=Limonade {0xBD03,0x0000}{0x0202,0x0001} [0xE300]
+msg_sub028_select_04=Annuler
+msg_sub028_sys_02=Oups ![0x000A]Vous n’avez pas assez d’argent !
+msg_sub028_sys_03=Et hop ![0x000A]{0x1403,0x0004}{0x010A,0x0004} !
+msg_sub028_sys_04=Votre Sac est plein !
+msg_sub028_sys_05=Vous préférez garder vos sous !
+msg_sub028_sys_06=Voulez-vous acheter une autre boisson ?

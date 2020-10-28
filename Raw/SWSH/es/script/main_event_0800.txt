@@ -1,0 +1,6 @@
+main_event_0800_rival_01=¡{0x0100,0x0000}!{0xBE01}[0x000A]Sabía que con {0x0101,0x0001} a tu lado no[0x000A]tendrías ningún problema. Y, aun así, estaba con{0xBE00}[0x000A]el corazón en un puño.{0x0114,0x0005}
+main_event_0800_danpei_01=A ti también se te puede considerar un{0x1100,0x00FF,0x0100}a[0x000A]Aspirante consumad{0x1100,0x00FF,0x0101}oa, {0x0100,0x0000}.{0xBE01}[0x000A]¡Ya cuentas con la Medalla Planta, la Medalla[0x000A]Agua y la Medalla Fuego! ¡Soberbio!
+main_event_0800_danpei_02=Este talento te capacita para desafiar a los[0x000A]Líderes de Gimnasio que te aguardan en{0xBE00}[0x000A]Ciudad Artejo y más allá.
+main_event_0800_danpei_03=Adelante, vuelve a adentrarte en el Área[0x000A]Silvestre y pon rumbo a Ciudad Artejo.
+main_event_0800_rival_02=Con nuestras flamantes medallas no nos van a[0x000A]tocar ni un pelo los Pokémon superfuertes del{0xBE00}[0x000A]Área Silvestre, ¿a que no?{0xBE01}[0x000A]¡Pues vamos allá!{0x0114,0x0005}
+main_event_0800_rival_03={0xBDFF:0x0005}

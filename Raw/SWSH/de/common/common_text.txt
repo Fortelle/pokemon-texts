@@ -1,0 +1,5 @@
+msg_ui_common_text_01=Sicherungsdaten wurden geladen.[0x000A]Bitte beachte, dass diese Daten gespeichert[0x000A]werden, wenn du deinen Spielstand sicherst.
+msg_ui_common_text_02=Es liegen keine Sicherungsdaten vor,[0x000A]die geladen werden könnten.[0x000A]Du kehrst nun zum Titelbildschirm zurück.
+msg_ui_common_text_03=Speichervorgang...
+msg_ui_common_text_04=Die Speicherdaten sind fehlerhaft.[0x000A]Bitte lösche die Speicherdaten auf[0x000A]der Konsole.
+msg_ui_common_text_05={0xBDFF:0x0004}

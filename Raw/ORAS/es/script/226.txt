@@ -1,0 +1,70 @@
+¡Socorro! ¡Ayuda!
+¡Oye! ¡Sí, tú! ¡Ayúdame, por favor!{0xBE01}[0x000A]¡Coge una Poké Ball! ¡En mi bolsa!
+Pe-pero... ¡¿adónde vas?![0x000A]¡No me dejes así!
+Uf...{0xBE01}[0x000A]Estaba en la zona de hierba alta estudiando Pokémon[0x000A]salvajes cuando me atacó uno...{0xBE00}[0x000A]Me has salvado. ¡Muchísimas gracias!
+¡Anda!{0xBE01}[0x000A]¡Si eres {0x0100,0x0000}, el hijo de Norman!{0xBE01}[0x000A]No te había reconocido, chico. ¡Te has hecho todo[0x000A]un hombre!{0xBE01}[0x000A]Pero bueno... Este no es lugar para charlas, así que vente[0x000A]conmigo a mi Laboratorio Pokémon, ¿vale?
+¡Anda!{0xBE01}[0x000A]¡Si eres {0x0100,0x0000}, la hija de Norman!{0xBE01}[0x000A]No te había reconocido, chica. ¡Te has hecho toda[0x000A]una mujercita!{0xBE01}[0x000A]Pero bueno... Este no es lugar para charlas, así que vente[0x000A]conmigo a mi Laboratorio Pokémon, ¿vale?
+Si tus Pokémon están cansados, llévalos a un[0x000A]Centro Pokémon.{0xBE01}[0x000A]Hay uno en Pueblo Escaso, muy cerca de aquí.
+Los Pokémon salvajes te atacarán en medio de la[0x000A]hierba alta.{0xBE01}[0x000A]Si quieres atrapar Pokémon, métete en la hierba alta[0x000A]y busca.
+Ruta 101[0x000A]↑ Pueblo Escaso
+¡El Poochyena salvaje ha huido!
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+¡{0x0100,0x0000}!
+¡{0x0100,0x0000}!
+Toma, esto es de parte de mi padre.[0x000A]Se le había olvidado dártelo.
+Toma, esto es de parte de mi padre.[0x000A]Por lo visto, se le había olvidado dártelo.
+¡Se ha añadido la función DexNav a tu Pokémon[0x000A]MultiNav!
+La aplicación que acabo de añadir a tu Pokémon MultiNav[0x000A]se llama DexNav.
+La aplicación que acabo de añadir a tu Pokémon MultiNav[0x000A]se llama DexNav.
+Te proporciona información sobre los Pokémon que viven[0x000A]en una zona determinada, entre otras cosas.{0xBE01}[0x000A]Es una aplicación muy útil para capturar ejemplares de[0x000A]muchas especies distintas.
+Te proporciona información sobre los Pokémon que viven[0x000A]en una zona determinada, entre otras cosas.{0xBE01}[0x000A]Es una aplicación muy práctica para capturar ejemplares[0x000A]de muchas especies distintas.
+Yo también estoy deseando probarla, así que me voy[0x000A]a buscar Pokémon por ahí.{0xBE01}[0x000A]Y tú no te olvides de usar las Poké Balls que te di para[0x000A]atrapar Pokémon, ¿vale?
+¡Pues eso! Te dejo, que yo también quiero capturar[0x000A]muchos Pokémon con el DexNav.{0xBE01}[0x000A]Y tú no te olvides de usar las Poké Balls que te di para[0x000A]atrapar Pokémon, ¿vale?
+¡Ven aquí, {0x0100,0x0000}!
+¡Eh, {0x0100,0x0000}! ¡Ven aquí!
+¡Mira! ¿Ves esa cola que asoma?[0x000A]¡Es un Pokémon escondido!
+¡Mira! ¿Ves esa cola que se mueve?[0x000A]¡Hay un Pokémon escondido!
+Pues, según pone en mi DexNav, ese Pokémon podría[0x000A]conocer movimientos poco comunes.
+Pues... ¿sabes lo que dice mi DexNav?{0xBE01}[0x000A]Que ese Pokémon podría conocer movimientos[0x000A]poco comunes.
+¿Intentamos acercarnos sin que se dé cuenta,[0x000A]{0x0100,0x0000}? Hace poco leí un consejo que decía:{0xBE01}[0x000A]“{0xFF00,0x0002}Mueve ligeramente el botón deslizante para acercarte{0xFF00,0x0000}[0x000A]{0xFF00,0x0002}a un Pokémon sin que se dé cuenta{0xFF00,0x0000}”.{0xBE01}[0x000A]Yo creo que habría que probarlo.
+¿Por qué no pruebas a acercarte sin que se dé[0x000A]cuenta, {0x0100,0x0000}? Mira, una vez leí esto:{0xBE01}[0x000A]“{0xFF00,0x0002}Mueve ligeramente el botón deslizante para acercarte{0xFF00,0x0000}[0x000A]{0xFF00,0x0002}a un Pokémon sin que se dé cuenta{0xFF00,0x0000}”.
+Ya casi lo tienes, {0x0100,0x0000}. Despacio...[0x000A]Y recuerda:{0xBE01}[0x000A]“{0xFF00,0x0002}Mueve ligeramente el botón deslizante para acercarte{0xFF00,0x0000}[0x000A]{0xFF00,0x0002}a un Pokémon sin que se dé cuenta{0xFF00,0x0000}”.{0xBE01}[0x000A]Si estaba escrito, es que era verdad.
+¡Ya casi lo tienes al lado, {0x0100,0x0000}![0x000A]Así, despacito... Y, por lo que más quieras, no olvides:{0xBE01}[0x000A]“{0xFF00,0x0002}Mueve ligeramente el botón deslizante para acercarte{0xFF00,0x0000}[0x000A]{0xFF00,0x0002}a un Pokémon sin que se dé cuenta{0xFF00,0x0000}”.{0xBE01}[0x000A]Ya te había dicho que lo vi escrito en no sé qué sitio,[0x000A]¿no?
+¡Qué fuerte me parece, {0x0100,0x0000}!{0xBE01}[0x000A]¡Yo todavía no he conseguido acercarme sin que se den[0x000A]cuenta, y eso que tengo más experiencia que tú!
+¡Qué guay, {0x0100,0x0000}!{0xBE01}[0x000A]¡Yo todavía no he conseguido acercarme sin que se den[0x000A]cuenta, y eso que tengo más experiencia que tú!
+Lástima...{0xBE01}[0x000A]Te has acercado demasiado rápido y el Pokémon[0x000A]se ha espantado.
+Lástima...{0xBE01}[0x000A]Te has acercado demasiado rápido y el Pokémon[0x000A]se ha espantado.
+¡Anda, mira quién está aquí![0x000A]¡{0x0100,0x0000}, nada menos!
+¡Anda, mira quién está aquí![0x000A]¡{0x0100,0x0000}, nada menos!
+¡Anda, mira quién está aquí otra vez![0x000A]¡{0x0100,0x0000}, nada menos!
+¡Anda, mira quién está aquí otra vez![0x000A]¡{0x0100,0x0000}, nada menos!
+¡Como no hay dos sin tres, mira quién viene otra vez![0x000A]¡{0x0100,0x0000}, nada menos!
+¡Como no hay dos sin tres, mira quién viene otra vez![0x000A]¡{0x0100,0x0000}, nada menos!
+¡Ayúdame, por favor![0x000A]¡Coge una Poké Ball de mi bolsa, rápido!
+Bueno, menos mal que al final este Shroomish no era[0x000A]tan fiero como yo pensaba.{0xBE01}[0x000A]Pero la intención es lo que cuenta. Para agradecerte[0x000A]el gesto, te voy a regalar el Pokémon que has elegido.{0xBE01}[0x000A]¡Es originario de Johto, nada menos!
+Desde luego, a veces no sé ni dónde tengo la cabeza...{0xBE01}[0x000A]¡Mira que confundir a ese Machoke del servicio de[0x000A]mudanzas con uno salvaje!{0xBE01}[0x000A]Por cierto, antes de que se me olvide...[0x000A]Para agradecerte lo que has hecho, te voy a regalar al{0xBE00}[0x000A]Pokémon que has elegido.{0xBE01}[0x000A]¡Es originario de Teselia, nada menos!
+Desde luego, a veces se me va un poco...{0xBE01}[0x000A]Notaba que algo o alguien me seguía... Y lo primero que[0x000A]me ha venido a la cabeza es que sería un Pokémon...{0xBE00}[0x000A]Pero resulta que era mi mujer... ¡Figúrate!{0xBE01}[0x000A]Por cierto, antes de que se me olvide...[0x000A]Para agradecerte la ayuda, te voy a regalar al Pokémon{0xBE00}[0x000A]que has elegido. ¡Es originario de Sinnoh, nada menos!
+¿Quieres ponerle un mote?
+¡Qué ocurrente! ¡Me gusta!
+Prefieres llamarlo por su nombre, ¿eh?
+¡Hasta la próxima![0x000A]Tengo la impresión de que volveremos a vernos por aquí.
+¡Hasta la próxima!{0xBE01}[0x000A]Tengo la impresión de que volveremos a vernos por aquí.
+¡Hasta la próxima!{0xBE01}[0x000A]Cuando tengas tiempo, pásate por el laboratorio[0x000A]a visitarme, ¿vale?
+¡Vuelve cuando quieras!
+¡{0x0101,0x0001} se ha transferido a una Caja del PC!
+¡{0x0100,0x0000} ha recibido a {0x0101,0x0001}!

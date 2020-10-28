@@ -1,0 +1,140 @@
+Benvenut{0x1100,0x00FF,0x0101}oa!
+Con noi puoi stare tranquill{0x1100,0x00FF,0x0101}oa! Qui troverai[0x000A]acconciature e tinte adatte al tuo stile!
+Benvenut{0x1100,0x00FF,0x0101}oa![0x000A]Ah! Sei tu, {0x0100,0x0000}!{0xBE01}[0x000A]Quanto tempo!
+Benve...{0xBE01}[0x000A]Ah...![0x000A]Chie... Chiedo scusa! Ah... che sciocca!{0xBE01}[0x000A]{0x0100,0x0000}... Per un momento...[0x000A]sono rimasta stregata dal tuo fascino!{0xBE01}[0x000A]Ehm...[0x000A]Dammi un attimo per ricompormi...
+Cosa desideri oggi?
+Facciamo un’acconciatura completa[0x000A]o sistemiamo solo la frangia?
+Perfetto!
+Bene, allora acconciatura completa[0x000A]e colore. La tariffa è ${0x0204,0x0000,0x002E}.{0xBE01}[0x000A]Va bene?
+Bene, allora una sistemata alla frangia[0x000A]e colore. La tariffa è ${0x0204,0x0000,0x002E}.{0xBE01}[0x000A]Va bene?
+Bene, allora acconciatura completa.[0x000A]La tariffa è ${0x0204,0x0000,0x002E}.{0xBE01}[0x000A]Va bene?
+Bene, allora facciamo solo il colore.[0x000A]La tariffa è ${0x0204,0x0000,0x002E}.{0xBE01}[0x000A]Va bene?
+Bene, allora sistemiamo la frangia.{0xBE01}[0x000A]La tariffa è ${0x0204,0x0000,0x002E}.{0xBE01}[0x000A]Va bene?
+Ah... Mi dispiace, ma non hai[0x000A]abbastanza soldi.
+Bene, accomodati.[0x000A]Dammi pure il cappello.
+Chiamami pure[0x000A]quando hai deciso.
+Acconciatura e colore
+Acconciatura
+Colore
+Ci devo pensare
+Acconciatura completa
+Solo la frangia
+Ho cambiato idea
+Avevi in mente[0x000A]uno stile particolare?
+Benissimo, {0x0100,0x0000}![0x000A]Posso proporti vari tipi di acconciature.{0xBE01}[0x000A]Che stile avevi in mente?
+Corti
+Caschetto mosso
+Lunghezza media
+Lunghi
+Fai tu!
+Avanti
+Indietro
+Molto corti
+Corti
+Lunghezza media
+Lunghezza media e permanente
+Coda
+Codini
+Ok, molto corti.
+A caschetto, hai detto?[0x000A]Perfetto!
+Lunghezza media?[0x000A]Certamente!
+Lunghi... Ottima scelta!
+Bene, lascia fare a me!
+Non si noterà una grande differenza.[0x000A]Sei sicur{0x1100,0x00FF,0x0101}oa?
+Ok, mi limiterò a dare[0x000A]una sistematina alle punte.
+Ok, allora.[0x000A]Molto corti.
+Corti, hai detto? Perfetto!
+Lunghezza media.[0x000A]Una decisione equilibrata.
+Ok, allora.[0x000A]Lunghezza media e permanente.
+Bene, una coda.
+Quindi andiamo[0x000A]con dei bei codini.
+Che colore preferisci?[0x000A]Hai qualche idea?
+Un colore più chiaro
+Un colore più scuro
+Lo stesso colore
+Biondo
+Rosso
+Castano chiaro
+Castano scuro
+Nero
+Biondo! D’accordo!
+Andiamo con un bel[0x000A]rosso rame!
+Ok, allora.[0x000A]Castano chiaro.
+Castano scuro...[0x000A]Andiamo sul classico!
+Ho in mente un bel[0x000A]nero corvino per te!
+Oh, grazie della fiducia!
+Bene! Restituiamo la[0x000A]brillantezza al tuo colore!
+Dunque... Hai preferenze[0x000A]per la frangia?
+Vuoi lasciarla così?
+Ok, allora.[0x000A]Una bella frangia laterale.
+Ok, allora.[0x000A]Una bella frangia centrale.
+Bene, ci penso io. Vedrai[0x000A]che starai benissimo!
+Frangia laterale
+Frangia centrale
+Ecco fatto![0x000A]Ho finito!
+Questo nuovo stile[0x000A]ti sta benissimo!
+Allora, per l’acconciatura completa[0x000A]e il colore fanno ${0x0204,0x0000,0x002E}.
+Allora, per il colore e la frangia[0x000A]avevamo detto ${0x0204,0x0000,0x002E}.
+Allora, per l’acconciatura completa[0x000A]avevamo detto ${0x0204,0x0000,0x002E}.
+Allora, per una sistemata alla frangia[0x000A]avevamo detto ${0x0204,0x0000,0x002E}.
+Allora, per il colore avevamo[0x000A]detto ${0x0204,0x0000,0x002E}.
+Grazie!{0xBE01}[0x000A]Torna a trovarci quando[0x000A]vuoi cambiare stile!
+Questo nuovo stile ti sta benissimo![0x000A]Torna a trovarci, ti aspettiamo!
+Questo colore ti sta benissimo![0x000A]Ricorda però di usare il balsamo!
+Il rosso ti dona molto! Un colore[0x000A]così vivace trasmette energia!
+Questo colore trasmette una sensazione[0x000A]di calore e morbidezza. Meraviglioso!
+Questo colore ti si addice proprio![0x000A]Affascinante e naturale insieme.
+Capelli neri e lucenti, davvero fantastici![0x000A]Starebbero benissimo con abiti vivaci.
+Con i capelli così lunghi sei uno splendore![0x000A]Sembrano fatti su misura per te!
+La lunghezza è perfetta!
+Questo nuovo stile[0x000A]ti sta benissimo!
+Questo stile così fresco[0x000A]ti rende incantevole!
+Ecco una bella frangetta!
+Ti stanno benissimo sul davanti.[0x000A]Uno stile davvero azzeccato!
+Ultimamente mi diverto a esplorare i caffè.{0xBE01}[0x000A]A Luminopoli ci sono moltissimi locali in cui[0x000A]si ritrovano persone con gli stessi interessi!{0xBE01}[0x000A]{0x0100,0x0000}, se vuoi[0x000A]posso consigliartene qualcuno.
+Ho scoperto un locale dove si ritrovano[0x000A]i fan di Furfrou. Si chiama Caffè Qua la Zampa.{0xBE01}[0x000A]I clienti hanno una vera e propria mania[0x000A]per quel Pokémon!{0xBE01}[0x000A]Il mondo è bello perché è vario, non trovi?
+Visto che stai cambiando look,[0x000A]dovresti fare un salto allo Studio Videoclip!{0xBE01}[0x000A]Una volta messo piede là dentro,[0x000A]non vorrai più andare via.{0xBE01}[0x000A]O almeno, a me fa quest’effetto...
+Ma pensa, {0x0100,0x0000}... Dopo averti[0x000A]consigliato di girare un videoclip...{0xBE01}[0x000A]Anche a me è tornata la voglia[0x000A]di rifarne uno dopo tanto tempo!{0xBE01}[0x000A]Così, giorni fa sono andata allo studio e[0x000A]ho provato tante pose con i miei Pokémon.{0xBE01}[0x000A]È stato divertentissimo creare[0x000A]un nuovo video tutto mio!
+Qualche tempo fa ho visto un tipo[0x000A]strano gironzolare qui intorno.{0xBE01}[0x000A]Non so dire esattamente[0x000A]cosa avesse di insolito ma...{0xBE01}[0x000A]Andava farneticando[0x000A]di non so quale potere...{0xBE01}[0x000A]E poi, improvvisamente,[0x000A]è sparito nel nulla!
+Ricordi il tipo di cui ti ho parlato[0x000A]l’altra volta? L’ho incontrato di nuovo.{0xBE01}[0x000A]Ho deciso di ascoltarlo attentamente e...[0x000A]sono riuscita anch’io a usare quel potere!{0xBE01}[0x000A]Non capisco ancora esattamente di che si[0x000A]tratti, ma penso che sia qualcosa di positivo!
+{0xBDFF:0x0063}
+{0xBDFF:0x0064}
+Hai sentito? C’è un salone specializzato[0x000A]nella toelettatura dei Furfrou!{0xBE01}[0x000A]Pensavo di portarci il mio piccolino[0x000A]prima o poi, però...{0xBE01}[0x000A]Fanno un sacco di tagli diversi e[0x000A]non riesco a decidermi su quello giusto.
+Alla fine ieri sono andata al salone[0x000A]di toelettatura per i Furfrou.{0xBE01}[0x000A]Dopo averci pensato e ripensato,[0x000A]ho deciso per un Taglio Cuore.{0xBE01}[0x000A]Un’acconciatura bellissima, ma anche[0x000A]le altre erano eccezionali...{0xBE01}[0x000A]Pare inoltre che ci siano tagli[0x000A]riservati solo ai clienti abituali.{0xBE01}[0x000A]Non vedo l’ora di provarli![0x000A]Vediamo... Quando posso tornarci?
+{0xBDFF:0x0067}
+{0xBDFF:0x0068}
+{0xBDFF:0x0069}
+{0xBDFF:0x006A}
+{0xBDFF:0x006B}
+{0xBDFF:0x006C}
+{0xBDFF:0x006D}
+{0xBDFF:0x006E}
+{0xBDFF:0x006F}
+{0xBDFF:0x0070}
+Ah, {0x0100,0x0000}![0x000A]Questi vestiti ti stanno benissimo!{0xBE01}[0x000A]Vedendoti mi sono un po’[0x000A]emozionata.
+Ah, {0x0100,0x0000}![0x000A]Questi vestiti ti stanno benissimo!{0xBE01}[0x000A]E come li hai abbinati con gusto![0x000A]Che classe!
+Sai che oggi stai da favola?![0x000A]Dove hai trovato questi fantastici vestiti?{0xBE01}[0x000A]Mi diresti il nome del negozio?[0x000A]Vorrei portarci mio marito quando ho tempo.
+Ehm... Non che c’entri molto,[0x000A]ma oggi stai da favola!{0xBE01}[0x000A]Dove hai trovato[0x000A]questi fantastici vestiti?{0xBE01}[0x000A]Mi diresti il nome del negozio?[0x000A]Voglio andarci appena posso.
+Sai una cosa? Alla fine sono andata[0x000A]nel negozio che mi avevi consigliato!{0xBE01}[0x000A]È davvero fantastico, c’è[0x000A]l’imbarazzo della scelta!{0xBE01}[0x000A]I vestiti da uomo erano così belli che[0x000A]ho lasciato che mio marito facesse{0xBE00}[0x000A]l’elegantone una volta tanto!
+Sai una cosa? Alla fine sono andata[0x000A]nel negozio che mi avevi consigliato!{0xBE01}[0x000A]È davvero fantastico, c’è[0x000A]l’imbarazzo della scelta!{0xBE01}[0x000A]C’erano molti abiti adatti[0x000A]a una donna della mia età:{0xBE00}[0x000A]mi sono rifatta il guardaroba!
+Wow, {0x0100,0x0001}![0x000A]Hai catturato {0x0101,0x0000}, vero?{0xBE01}[0x000A]Mio marito dice che si tratta del Pokémon[0x000A]più misterioso di tutti e che è rarissimo.{0xBE01}[0x000A]Ci avrei scommesso che eri un{0x1100,0x00FF,0x0B0A} Allenator'Allenatrice[0x000A]di talento!
+{0xBDFF:0x0078}
+Allora, {0x0100,0x0000}![0x000A]O forse dovrei dire... “Ciao Campione{0x1100,0x00FF,0x0300}ssa!”{0xBE01}[0x000A]Ho sentito che hai conquistato la Lega[0x000A]Pokémon. Ho visto la parata l’altro giorno!{0xBE01}[0x000A]Congratulazioni! È un onore[0x000A]averti tra i miei clienti!
+Ah, a proposito, {0x0100,0x0000}...[0x000A]Oggi è il tuo compleanno, vero?{0xBE01}[0x000A]Tanti auguri! Bisogna festeggiare[0x000A]degnamente questo giorno speciale.{0xBE01}[0x000A]Ti regalerò un’acconciatura da favola.[0x000A]Sfodererò tutta la mia arte!
+Quella tra parrucchiera e cliente[0x000A]è una relazione così comune...{0xBE01}[0x000A]Eppure, {0x0100,0x0000}, sento[0x000A]che si è creato un bel legame fra di noi.{0xBE01}[0x000A]Mi imbarazza un po’ dirti una cosa del genere,[0x000A]ma sono davvero contenta di conoscerti!
+{0xBDFF:0x007C}
+{0xBDFF:0x007D}
+{0xBDFF:0x007E}
+{0xBDFF:0x007F}
+{0xBDFF:0x0080}
+{0xBDFF:0x0081}
+{0xBDFF:0x0082}
+{0xBDFF:0x0083}
+{0xBDFF:0x0084}
+{0xBDFF:0x0085}
+{0xBDFF:0x0086}
+{0xBDFF:0x0087}
+{0xBDFF:0x0088}
+{0xBDFF:0x0089}
+Accidenti! Per quanto continui a cambiare[0x000A]look, sono sempre troppo bella!
+Il mio sogno è riuscire a creare delle[0x000A]acconciature ispirate a tutti i Pokémon.

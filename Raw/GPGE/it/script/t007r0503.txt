@@ -1,0 +1,11 @@
+msg_t007r0503_shortpants_01={0xBDFF:0x0000}
+msg_t007r0503_jevenilem_01=Benissimo!{0xBE01}[0x000A]Il mio amico mi dà un Kangaskhan in cambio[0x000A]di un Haunter!
+msg_t007r0503_jevenilem_02=Forza Haunter![0x000A]Vieni!{0xBE01}[0x000A]Gli Haunter mi piacciono un sacco![0x000A]Eh...?! Cosa succede?!{0xBE01}[0x000A]Haunter si è evoluto in un altro Pokémon...!
+msg_t007r0503_chilef_01=Puoi riconoscere i Pokémon che hai ottenuto[0x000A]tramite scambio dal loro ID!
+msg_t007r0503_game_01=È un Nintendo Switch.
+msg_t007r0503_game_02=Un gioco di ruolo.[0x000A]Ma non c’è tempo per giocare!
+msg_t007r0503_game_03=Un gioco sportivo.[0x000A]Come quelli che piacciono a papà!
+msg_t007r0503_game_04=Un gioco di rompicapi.[0x000A]Sembra irresistibile!
+msg_t007r0503_game_05=Un gioco di lotta.[0x000A]Sembra difficile!
+msg_t007r0503_kanban_01=2º P: Videogiochi
+msg_t007r0503_poster_01=Pokémon Let’s Go, Pikachu![0x000A] e Pokémon Let’s Go, Eevee!{0xBE01}[0x000A]Sono due giochi Pokémon!

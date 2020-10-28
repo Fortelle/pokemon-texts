@@ -1,0 +1,8 @@
+msg_rankmatch_01=Ich erkläre dir mal eben rasch, was es[0x000A]mit Rangkämpfen auf sich hat. (TBD){0xBE01}[0x000A]Außerdem kann ich dafür sorgen, dass deine[0x000A]Pokémon an einem solchen Rangkampf{0xBE00}[0x000A]teilnehmen können.
+msg_rankmatch_02=Hast du ein Pokémon bei dir, das an einem[0x000A]Rangkampf teilnehmen soll?
+msg_rankmatch_03=Dann bis bald!
+msg_rankmatch_04=Welches Pokémon möchtest du antreten lassen?
+msg_rankmatch_05={0x0101,0x0000} kann an diesem Rangkampf[0x000A]teilnehmen!
+msg_rankmatch_06={0x0101,0x0000} wird alle Attacken vergessen,[0x000A]die es kennt. Dafür erlernt es Attacken, die es{0xBE00}[0x000A]für diesen Rangkampf benötigt. Einverstanden?
+msg_rankmatch_07=Es kann dabei auch sehr seltene Attacken[0x000A]vergessen, die es nie wieder erlernen kann.{0xBE00}[0x000A]Bist du dir sicher, dass du fortfahren möchtest?
+msg_rankmatch_08=Alles klar! {0x0101,0x0000} ist jetzt bereit,[0x000A]um an einem Rangkampf teilzunehmen!

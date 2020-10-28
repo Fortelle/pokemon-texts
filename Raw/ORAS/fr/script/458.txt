@@ -1,0 +1,16 @@
+Oui
+Non
+{0x0206,0x0008,0xE07F} $
+Voulez-vous sauvegarder la partie[0xE07F]?
+Sauvegarde en cours[0xE08D][0x000A]Ne pas éteindre la console.
+{0x0100,0x0000} a sauvegardé la partie.
+Une autre partie est déjà sauvegardée.[0x000A]Sauvegarde impossible.{0xBE01}[0x000A]Veuillez vous référer au mode d’emploi[0x000A]pour plus d’informations.
+Échec de la sauvegarde.
+Vous avez reçu {0x0101,0x0000}[0xE07F]!
+{0x0101,0x0000} envoyé vers :[0x000A]{0x010B,0x0001}[0xE07F]!
+Vous avez reçu un message sur votre Holokit[0xE07F]!
+Coucou m{0x1100,0x00FF,0x0808}on chéria chérie[0xE07F]!{0xBE01}[0x000A]Mais dis-moi, on dirait que tu n’as pas[0x000A]fait semblant. Repose-toi donc un peu[0xE07F]!{0xBE01}[0x000A]…[0x000A]…
+Bien[0xE07F]! Vous voilà en meilleure forme, ton équipe et toi[0xE07F]!{0xBE01}[0x000A]Tu sais, {0x0100,0x0000}, quand les PV de tes Pokémon[0x000A]sont dangereusement bas, il vaut mieux rentrer ici{0xBE00}[0x000A]et te reposer.{0xBE01}[0x000A]Ne crois pas que tu pourras gagner un combat avec[0x000A]une équipe mal en point[0xE07F]! La vie n’est pas si simple[0xE07F]!{0xBE01}[0x000A]Oh là là, écoute-moi parler. On dirait ton père[0xE07F]![0x000A]Allez, bon voyage, et bon courage[0xE07F]!{0xBE01}[0x000A]Fais de ton mieux, mais n’en fais pas trop[0xE07F]!
+Avant toute chose, soignons votre équipe.
+Si les Points de Vie de vos Pokémon[0x000A]sont faibles, venez nous voir.{0xBE01}[0x000A]Si vous prévoyez de partir loin,[0x000A]vous devriez acheter des Potions{0xBE00}[0x000A]dans une Boutique Pokémon.{0xBE01}[0x000A]Nous vous souhaitons bonne chance.
+Votre équipe a été soignée.{0xBE01}[0x000A]Nous vous souhaitons bonne chance.

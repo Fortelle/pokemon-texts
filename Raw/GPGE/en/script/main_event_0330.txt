@@ -1,0 +1,13 @@
+msg_main0330_pc_02=The screen says something about a teleporter.
+msg_main0330_masaki_10=Whoa, I should get in there![0x000A]Don’t mess this up, OK?
+msg_main0330_pc_01=You started up the Cell Separation System[0x000A]on the teleporter.
+msg_main0330_masaki_01=BILL: Yee-haw![0x000A]Thanks, bud! I owe you one!{0xBE01}[0x000A]...Hey, you’ve got your {0xFF00,0x0006}Pokémon Box{0xFF00,0x0000} right there[0x000A]in your Bag! Good job!
+msg_main0330_masaki_02=BILL: Yee-haw![0x000A]Thanks, lady! I owe you one!{0xBE01}[0x000A]...Hey, you’ve got your {0xFF00,0x0006}Pokémon Box{0xFF00,0x0000} right there[0x000A]in your Bag! Good job!
+msg_main0330_masaki_06=If you ever catch too many Pokémon and your[0x000A]Box gets full, {0xFF00,0x0006}send some of those Pokémon to{0xFF00,0x0000}{0xBE00}[0x000A]{0xFF00,0x0006}Professor Oak{0xFF00,0x0000}! I bet he’d be mighty thankful!
+msg_main0330_masaki_07={0xBDFF:0x0006}
+msg_main0330_sys_03={0xBDFF:0x0007}
+msg_main0330_masaki_05=Oh! Look at me—I’d forget my own head if it[0x000A]weren’t attached...{0xBE01}[0x000A]I should do something to thank you, too![0x000A]You did save me, after all.{0xBE01}[0x000A]Here! Maybe this’ll do.
+msg_main0330_sys_01=You got some {0xFF00,0x0006}S.S. Tickets {0xFF00,0x0000}from Bill!
+msg_masaki_01_p06_r025_r0101={0xBDFF:0x000A}
+msg_main0330_masaki_03=That cruise ship, the S.S. Anne, pulls into port in[0x000A]Vermilion City.{0xBE01}[0x000A]They invited me to some party on board, but I[0x000A]can’t stand fancy gatherings.{0xBE01}[0x000A]Why don’t you go instead of me?{0xBE01}[0x000A]There are a couple of tickets in there, so have[0x000A]some fun with a friend or something!
+msg_main0330_masaki_04=BILL: If you catch too many Pokémon and your[0x000A]Box is just bursting full of ’em, send a whole{0xBE00}[0x000A]bunch to the professor at once! He’ll love it!

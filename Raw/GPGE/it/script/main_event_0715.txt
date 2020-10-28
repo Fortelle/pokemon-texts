@@ -1,0 +1,8 @@
+msg_main0715_rocketm_01=Ah ah ah![0x000A]Come dici? L’ascensore non funziona?{0xBE01}[0x000A]Per forza! La chiave ce l’ho io!
+msg_member_18_02={0xBDFF:0x0001}
+msg_main0715_rocketm_02=Accidenti! Così non va... Devo difendere[0x000A]la chiave a tutti i costi...!{0xBE01}[0x000A]A mali estremi, estremi rimedi!
+msg_main0715_rocketm_03=Yah!
+msg_main0715_rocketm_04=Puff... puff...{0xBE01}[0x000A]Ah ah ah! E ora vai prenderla, se ci riesci!{0xBE01}[0x000A]Senza quella chiave non riuscirai mai[0x000A]a raggiungere il capo.
+msg_main0715_rocketm_05=Muah ah ah! Non riuscirai mai a recuperare[0x000A]la chiave!{0xBE01}[0x000A]A meno che tu non sia in grado di camminare[0x000A]sui muri...!
+msg_main0715_rocketm_06=Anche se... ora che ci penso... il piccoletto che[0x000A]ti porti appresso sembra piuttosto agile...
+msg_main0715_sys_01={0x0100,0x0000} ottiene la {0xFF00,0x0006}Chiave ascensore{0xFF00,0x0000}!

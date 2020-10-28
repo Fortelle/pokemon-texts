@@ -1,0 +1,8 @@
+msg_t011r0405_staffm_01_01=La Team Rocket cherche un intrus. C’est toi,[0x000A]non ?
+msg_t011r0405_staffm_01_02=La Team Rocket s’est enfuie la queue entre[0x000A]les jambes ! Tu nous as sauvés !
+msg_t011r0403_report_01=C’est un rapport sur les Pokémon !{0xBE01}[0x000A]« Porygon est un Pokémon artificiel créé par[0x000A]le département Recherche et Développement. »
+msg_t011r0403_report_02=C’est un rapport sur les Pokémon !{0xBE01}[0x000A]« Il existe plus de 200 capacités pour[0x000A]les Pokémon ! »
+msg_t011r0403_report_03=C’est un rapport sur les Pokémon !{0xBE01}[0x000A]« Certains Pokémon évoluent quand ils sont[0x000A]échangés ! »
+msg_t011r0405_kanban_01=Sylphe SARL[0x000A]4ᵉ étage
+msg_t011r0405_rocketw_01_01=Ouste ! Laisse-moi tranquille !{0xBE01}[0x000A]Je viens de me faire battre par un mioche[0x000A]au regard qui faisait froid dans le dos...{0xBE00}[0x000A]Mes Pokémon sont à plat, donc fiche-moi la paix !
+msg_studym1_01_p01_cave_d1005={0xBDFF:0x0007}

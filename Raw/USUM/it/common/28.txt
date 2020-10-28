@@ -1,0 +1,201 @@
+Controllo scheda SD in corso.[0x000A]Attendi...
+Non c’è spazio sufficiente nella scheda SD.[0x000A]Libera spazio nella scheda SD e riprova.{0xBE01}
+Spazio insufficiente nella Fotocamera[0x000A]Nintendo 3DS. Impossibile salvare la foto.{0xBE01}[0x000A]Libera spazio nella console Nintendo 3DS.{0xBE01}
+Si è verificato un errore nella Fotocamera[0x000A]Nintendo 3DS.{0xBE01}[0x000A]Salvataggio non riuscito.{0xBE01}
+A causa di errori rilevati nei dati nella[0x000A]scheda SD, i dati sono stati cancellati.{0xBE01}
+La scheda SD è piena. Impossibile salvare.{0xBE01}[0x000A]Libera spazio nella scheda SD della console[0x000A]Nintendo 3DS.{0xBE01}
+Puoi salvare ancora {0x0200,0x0000} foto al Fotoclub[0x000A]di Alola.{0xBE01}
+Puoi salvare ancora {0x0200,0x0000} foto[0x000A]al Fotoclub di Alola.{0xBE01}[0x000A]Una volta esaurito lo spazio non sarà possibile[0x000A]fare altre foto.{0xBE01}
+Non hai più spazio per salvare altre foto[0x000A]al Fotoclub di Alola.{0xBE01}[0x000A]Cancella dall’Album le foto che non ti servono[0x000A]per liberare spazio.{0xBE01}
+Salvataggio nella scheda SD in corso.[0x000A]Non spegnere la console.
+{0xBDFF:0x000A}
+Spazio insufficiente nella Fotocamera[0x000A]Nintendo 3DS. Impossibile salvare la foto.{0xBE01}[0x000A]Libera spazio nella console Nintendo 3DS.{0xBE01}
+La scheda SD è piena. Impossibile salvare.{0xBE01}[0x000A]Cancella qualche foto dalla scheda SD[0x000A]per liberare spazio.{0xBE01}
+Salvataggio nella scheda SD completato.{0xBE01}
+Al Fotoclub di Alola puoi salvare un massimo[0x000A]di 420 foto.{0xBE01}[0x000A]Puoi salvare ancora {0x0200,0x0000} foto, dopodiché[0x000A]non potrai più scattarne.{0xBE01}[0x000A]Fai spazio nell’Album cancellando le foto che[0x000A]non ti servono.{0xBE01}
+Non hai più spazio per salvare altre foto[0x000A]al Fotoclub di Alola.{0xBE01}[0x000A]Cancella dall’Album le foto che non ti servono[0x000A]per liberare spazio.{0xBE01}
+Pulsantiera +: cambia la posizione del Pokémon[0x000A]Pulsanti X/Y: cambia la direzione del Pokémon[0x000A]Pulsanti L/R: cambia la tua direzione
+Scegli il soggetto.
+Scegli un Pokémon.
+Scegli uno sfondo.
+Scegli un look.
+Vuoi annullare il servizio fotografico?
+È tutto pronto?
+Va bene questo look?
+Va bene questo look?
+Hai chiesto a {0x0102,0x0000} di assumere[0x000A]una posa energica come quando lotta!{0xBE01}
+Hai chiesto a {0x0102,0x0000} di assumere[0x000A]una posa carina come quando è nel Poké Relax!{0xBE01}
+Hai scattato una sequenza di foto.{0xBE01}
+Hai cambiato posa!{0xBE01}
+Le foto che non hai contrassegnato verranno[0x000A]cancellate. Vuoi continuare?
+Salvataggio foto in corso.[0x000A]Non spegnere la console.
+Salvataggio foto completato.{0xBE01}
+Non hai più spazio per salvare altre foto[0x000A]al Fotoclub di Alola.{0xBE01}[0x000A]Cancella dall’Album le foto che non ti servono[0x000A]per liberare spazio.{0xBE01}
+Al Fotoclub di Alola puoi salvare un massimo[0x000A]di 420 foto.{0xBE01}[0x000A]Puoi salvare ancora {0x0200,0x0000} foto, dopodiché[0x000A]non potrai più scattarne.{0xBE01}[0x000A]Fai spazio nell’Album cancellando le foto che[0x000A]non ti servono.{0xBE01}
+Al Fotoclub di Alola puoi salvare un massimo[0x000A]di 420 foto.{0xBE01}[0x000A]Puoi salvare ancora {0x0200,0x0000} foto.{0xBE01}
+Solo il Pokémon
+Pokémon e Allenatore
+{0x0102,0x0000}
+Sfondo 1
+Look normale
+Soggetto
+Pokémon
+Sfondo
+Look
+Composizione
+Opzione foto 6
+Inizia la sessione fotografica
+Cambia la posa.
+Conferma
+Sì
+No
+Conferma
+Cambia strumento
+Chiudi
+Continua con lo stesso set
+Modifica il set fotografico
+Termina
+Percorso 1 A
+Percorso 1 B
+Rigenerazione Fossili
+Percorso 3
+Collina Scrosciante A
+Parco del Vulcano Wela
+Monte Lanakila
+Canyon di Poni
+Cimitero di Hau’oli
+Supermarket abbandonato
+Prato Poni
+Percorso 1 C
+Prato Mele Mele
+Prato Ula Ula
+Poh
+Lili
+Ohana
+Hau’oli
+Konikoni
+Percorso 8
+Scuola per Allenatori
+Baia Kala’e
+Spiaggia di Hau’oli
+Percorso 14
+Collina Scrosciante B
+Percorso 15
+Collina Diecicarati
+Grotta Pratomare
+Tempio del Conflitto
+Aula
+Villa Losca
+Grotta Sottobosco
+Sala dei Superquattro A
+Sala dei Superquattro B
+Sala dei Superquattro C
+Sala dei Superquattro D
+Sala dei Campioni
+Æther Paradise A
+Æther Paradise C
+Æther Paradise B
+Altare Solare
+Altare Lunare
+Albero della Lotta
+Battle Royale
+Agenzia Lotta
+Deserto Haina
+Sentiero Mahalo
+Villaggio del Mare
+Giardino di Malie
+Giungla Ombrosa
+Caverna ghiacciata
+Fattoria Ohana A
+Fattoria Ohana B
+Scogliera di Poni
+Tempio
+Altopiano Blu
+Torre Campana
+Antro Abissale
+Vetta Lancia
+Ponte Freccialuce
+Luminopoli
+Cuoricini
+Spazio profondo
+Torta
+Arena Z
+Foto commemorativa
+Sfondo 67
+Sfondo 68
+Soggetto
+Pokémon
+Sfondo
+Composizione
+Look
+Rivolti verso l’obiettivo
+Uno di fronte all’altro
+Personalizzato 1
+Personalizzato 2
+Personalizzato 3
+Tuta Poképassaggio (aria)
+Tuta Poképassaggio (terra)
+Tuta Poképassaggio (acqua)
+Seleziona un’altra modalità
+Ricomincia
+Scegli la composizione.
+Non puoi spostarlo qui.
+Il Pokémon non riuscirà a muoversi.
+Il Pokémon non potrà muoversi molto.
+Il Pokémon ha poco spazio a disposizione.
+Direzione non consentita.
+Non c’è spazio per girarsi.
+Scegli la posa.
+Cambia la tua direzione.
+Non puoi cambiare direzione qui.
+Aggiornamento scheda SD in corso.[0x000A]Non spegnere la console.
+I dati della scheda SD sono stati aggiornati.{0xBE01}
+Modifica
+Cancella
+Aggiungi/Rimuovi dalle preferite
+Chiudi
+Scegli una o più foto da cancellare.{0xBE01}
+Le foto selezionate verranno cancellate.[0x000A]Vuoi continuare?
+Cancellazione foto in corso.[0x000A]Non spegnere la console.
+Foto cancellata.{0xBE01}
+Hai contrassegnato questa foto come preferita.{0xBE01}
+La foto non è più contrassegnata come preferita.{0xBE01}
+Scegli la modalità della sessione fotografica.[0x000A][0x000A]Modalità facile: puoi iniziare a fotografare[0x000A]senza perdere troppo tempo con le opzioni.[0x000A][0x000A]Modalità avanzata: puoi modificare l’angolazione[0x000A]della macchina fotografica, la posizione del[0x000A]Pokémon e altre impostazioni.
+Qui puoi preparare il set per la sessione[0x000A]fotografica toccando gli elementi che vuoi[0x000A]modificare.[0x000A][0x000A]Quando è tutto pronto, tocca[0x000A]“Inizia la sessione fotografica”.
+Nella modalità avanzata puoi modificare il look,[0x000A]il soggetto, lo sfondo e altre impostazioni che[0x000A]non sono disponibili nella modalità facile.
+Qui puoi scegliere lo sfondo.[0x000A]Tocca il pannello di uno sfondo per impostarlo.[0x000A]Premendo il pulsante Y puoi cambiare l’ora[0x000A]del giorno, ma questa opzione non è disponibile[0x000A]per tutti gli sfondi.
+Qui puoi cambiare il tuo look per il servizio[0x000A]fotografico scegliendo l’opzione che preferisci.[0x000A]Per creare dei look personalizzati, tocca uno[0x000A]dei relativi pannelli e poi l’icona dei[0x000A]vestiti nell’angolo in basso a destra.
+Chiedi al Pokémon di assumere le pose più[0x000A]adatte per ottenere il risultato che hai in mente[0x000A]e scattare così una foto perfetta!
+Scegli che pose far assumere al Pokémon.[0x000A]Toccando l’interruttore puoi passare dalle pose[0x000A]carine a quelle di lotta e viceversa.
+Tocca questa icona per richiamare l’attenzione[0x000A]del Pokémon e chiedergli di mettersi in posa.[0x000A][0x000A]Tocca l’icona più volte per scoprire tutte le pose[0x000A]disponibili!
+Tocca l’icona della posa per cambiare la tua![0x000A][0x000A]Tocca l’altra icona per far partire l’animazione[0x000A]o per metterla in pausa.
+Toccando le icone a sinistra puoi alternare[0x000A]le varie schermate dei controlli.[0x000A]Quella in alto ti permette di cambiare le pose[0x000A]e scattare le foto.[0x000A]Quella in basso dà accesso ai controlli della[0x000A]macchina fotografica.
+A differenza della modalità facile, la modalità[0x000A]avanzata ti permette di cambiare la posizione[0x000A]del Pokémon, decidere l’angolazione della[0x000A]macchina fotografica e modificare altri dettagli[0x000A]per mettere a punto lo scatto perfetto!
+Dall’alto in basso, le icone a sinistra servono a:[0x000A]1. Scegliere le pose[0x000A]2. Posizionare il Pokémon[0x000A]3. Ruotare il Pokémon[0x000A]4. Ruotare il personaggio[0x000A]5. Posizionare la macchina fotografica
+Qui puoi spostare la macchina fotografica[0x000A]modificando la sua posizione in verticale e[0x000A]in orizzontale, oltre a usare lo zoom.[0x000A]Prova a sperimentare varie soluzioni e cambiare[0x000A]la visuale per ottenere risultati diversi e originali!
+A differenza della modalità facile, la modalità[0x000A]avanzata offre la possibilità di ruotare la[0x000A]macchina fotografica intorno ai soggetti.[0x000A][0x000A]Prova a scattare foto da diverse angolazioni!
+Qui puoi spostare la macchina fotografica[0x000A]modificando la sua posizione in verticale e[0x000A]in orizzontale, ruotandola e usando lo zoom.[0x000A]Serviti dei vari controlli per ottenere tanti[0x000A]risultati diversi!
+Qui puoi spostare il Pokémon.[0x000A]Trascina la sua icona nel punto in cui vuoi[0x000A]posizionarlo.[0x000A]Se l’icona diventa rossa vuol dire che non puoi[0x000A]posizionare il Pokémon in quel punto.
+Qui puoi far ruotare il Pokémon seguendo[0x000A]la direzione delle frecce intorno alla sua icona.[0x000A]Se l’icona diventa rossa vuol dire che stai[0x000A]facendo ruotare il Pokémon in una direzione[0x000A]non consentita.
+Qui puoi far ruotare il tuo personaggio seguendo[0x000A]la direzione delle frecce intorno alla sua icona.[0x000A]Se l’icona diventa rossa vuol dire che stai[0x000A]facendo ruotare il personaggio in una direzione[0x000A]non consentita.
+Ogni volta che azioni la macchina fotografica[0x000A]verranno scattate sei foto in sequenza.[0x000A][0x000A]Tocca le foto selezionate per contrassegnarle,[0x000A]quindi tocca “Conferma” per salvarle.
+Puoi far ruotare il Pokémon trascinando lo stilo[0x000A]sul touch screen in una delle direzioni delle[0x000A]frecce intorno all’icona del Pokémon.
+Puoi far ruotare il personaggio trascinando lo[0x000A]stilo sul touch screen in una delle direzioni[0x000A]delle frecce intorno all’icona del personaggio.
+Scegli la modalità.
+Facile
+Avanzata
+Prepara il set per la sessione fotografica!
+{0x0102,0x0000}
+Scegli quali foto tenere. Pulsante A: metti/togli[0x000A]il contrassegno. Pulsante Y: conferma.
+Vuoi continuare a scattare foto?
+Dummy
+Dummy
+Dummy
+Dummy
+{0x0102,0x0000} sembra davvero entusiasta!
+{0x0102,0x0000} sembra un po’ in imbarazzo!
+{0x0102,0x0000} sembra felice!
+{0x0102,0x0000} sembra un po’ stupito!
+{0x0102,0x0000} sembra soddisfatto!
+Il Pokémon non può assumere la posa e tornerà[0x000A]nella posizione iniziale. Vuoi continuare?
+Non puoi scegliere questa composizione.

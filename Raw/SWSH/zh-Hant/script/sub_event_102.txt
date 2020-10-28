@@ -1,0 +1,12 @@
+msg_sub_event_102_start=是自動販賣機！[0x000A]想要的飲料是……
+msg_sub_event_102_menu_item={0x0109,0x0000}{0xBD03,0x0000}　[0xE300]{0x0202,0x0001}
+msg_sub_event_102_menu_cancel=取消
+msg_sub_event_102_cancel=……還是算了！
+msg_sub_event_102_not_have=沒辦法再拿更多了！
+msg_sub_event_102_not_money=錢不夠！
+msg_sub_event_102_appear_item={0x0109,0x0000}掉下來了！
+msg_sub_event_102_next=要多買一瓶嗎？
+msg_sub_event_102_bingo=恭喜中獎！[0x000A]又掉了一瓶{0x0109,0x0000}下來！
+msg_sub_event_102_soldout=是自動販賣機！[0x000A]想要的飲料是……{0xBE00}[0x000A]每一種都賣光了！
+msg_sub_event_102_select_01=再買一瓶
+msg_sub_event_102_select_02=買別的東西

@@ -1,0 +1,5 @@
+sub_event_013_npc_01=Yaaah ! Moi, c’est Simon Obi, et mon hobby,[0x000A]c’est le karaté ! T’as un hobby, toi ?{0xBE01}[0x000A]Sinon, ma ceinture de combat t’impressionne ?[0x000A]J’en tire toute ma force, tu sais !{0xBE01}[0x000A]Tu n’as pas l’air de me croire...[0x000A]Tu veux que je te le prouve, peut-être ?
+sub_event_013_npc_02=Hmpf ! Tu as peur, à ce que je vois. Tant pis.[0x000A]Reviens me voir si jamais tu veux prouver ta force.
+sub_event_013_npc_03=Yahaaa ![0x000A]Montre-moi ce que tu as dans le ventre !
+sub_event_013_npc_04=Alors, mes techniques t’ont surpris{0x1100,0x00FF,0x0100}e ?[0x000A]Tu vois, je ne t’avais pas menti !{0xBE01}[0x000A]Tiens, prends cette Ceinture Force,[0x000A]c’est pour te remercier pour ce combat !
+sub_event_013_npc_05=Pokémon, capacités, objets, c’est le trio[0x000A]de la victoire assurée !

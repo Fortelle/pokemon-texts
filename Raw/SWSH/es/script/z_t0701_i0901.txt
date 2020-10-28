@@ -1,0 +1,5 @@
+msg_t0701_i0901_npc1_01=Esperamos que te sientas como en casa en[0x000A]cualquiera de los dos edificios del Hotel Jonia.
+msg_t0701_i0901_npc2_01=Los hoteles son cómodos a más no poder. No[0x000A]tienes que hacer la limpieza ni la colada ni nada.
+msg_t0701_i0901_npc3_01=¡Hemos conseguido entradas para el estadio con[0x000A]asientos en primera fila!{0xBE01}[0x000A]A veces te cae de rebote algún movimiento que[0x000A]otro, ¡pero es puro espectáculo!
+msg_t0701_i0901_npc4_01=Estoy esperando a alguien...{0xBE01}[0x000A]Mi Noibat está intentando detectar su presencia[0x000A]con sus ondas ultrasónicas.
+msg_t0701_i0901_poke1_01_pop=¡Ba, ba, bat!

@@ -1,0 +1,4 @@
+msg_r0201_npc1_01=Mit dem Flugtaxi ist man im Nu in der Naturzone!
+msg_r0301_npc2_01=Schlag doch mal dein Zelt auf und koch etwas,[0x000A]um dein{0x1101,0x00FD,0x0100}e Pokémon aufzupäppeln!{0xBE01}[0x000A]Ich hätte hier eine Beere für dich, die du beim[0x000A]Kochen bestimmt gut gebrauchen kannst.
+msg_r0301_npc2_02=Untersuche einfach das Zelt eines anderen[0x000A]Trainers, um sein PokéCamp zu besuchen.{0xBE01}[0x000A]Du bist übrigens herzlich eingeladen, hier in[0x000A]meinem PokéCamp vorbeizuschauen.
+msg_r0301_npc3_01=Wenn dein{0x1101,0x00FD,0x0100}e Pokémon KP verlier{0x1101,0x00FD,0x0201}ten, kannst du {0x1101,0x00FD,0x0302}essie[0x000A]mit einem Trank heilen!{0xBE00}[0x000A]Und bei Vergiftungen hilft Gegengift.{0xBE01}[0x000A]Wenn du immer genug Items dabeihast, kommst[0x000A]du auch ohne Pokémon-Center sehr weit!

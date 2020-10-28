@@ -1,0 +1,16 @@
+msg_road017_kanban_01=Avis ![0x000A]Ne jetez pas vos objets n’importe où !
+msg_road017_kanban_02=Astuce !{0xBE01}[0x000A]Deux Pokémon de la même espèce et de niveaux[0x000A]identiques peuvent avoir des stats différentes.{0xBE01}[0x000A]Ces différences s’accentuent avec l’entraînement !
+msg_road017_kanban_03={0xBDFF:0x0002}
+msg_road017_kanban_07=Astuce !{0xBE01}[0x000A]Pour attraper un Pokémon, lancez votre Poké Ball[0x000A]dans le cercle de couleur.{0xBE01}[0x000A]Plus le cercle est petit, plus vous aurez de[0x000A]chances d’effectuer un joli lancer ou un superbe{0xBE00}[0x000A]lancer, et donc de réussir la capture !
+msg_road017_kanban_04=Route 17[0x000A]Céladopole ⇄ Parmanie
+msg_road017_kanban_05=Avis !{0xBE01}[0x000A]Ne jetez pas la console, jetez plutôt des[0x000A]Poké Balls !
+msg_road017_kanban_06=Piste Pokémon[0x000A]« Un cadre idyllique à partager entre humains{0xBE00}[0x000A]et Pokémon. »
+msg_road017_poke_01={0xFF00,0x0009}Carabaffe :{0xFF00,0x0000} Caraaa !
+msg_road017_poke_02={0xFF00,0x0009}Noadkoko : {0xFF00,0x0000}Noaaa !
+msg_road017_poke_03={0xFF00,0x0009}Persian : {0xFF00,0x0000}Sian...
+msg_road017_poke_04={0xFF00,0x0009}Aquali :{0xFF00,0x0000} Aqua !
+msg_road017_poke_05={0xFF00,0x0009}Boustiflor :{0xFF00,0x0000} Flor !
+msg_road017_poke_06={0xFF00,0x0009}Pyroli :{0xFF00,0x0000} Pyrooo !
+msg_road017_poke_07={0xFF00,0x0009}Colossinge :{0xFF00,0x0000} Cooolooo !
+msg_road017_poke_08={0xFF00,0x0009}Goupix : {0xFF00,0x0000}Goupi !
+msg_road017_poke_09={0xFF00,0x0009}Voltali :{0xFF00,0x0000} Vo ! Vooo !

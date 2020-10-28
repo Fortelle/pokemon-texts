@@ -1,0 +1,7 @@
+msg_t011r0102_poke_01={0xFF00,0x0009}Dodu:{0xFF00,0x0000} Dooo!{0xBE01}[0x000A]Spieglein, Spieglein an der Wand, wer ist[0x000A]die Süßeste im ganzen Land?
+msg_t011r0102_poke_02={0xBDFF:0x0001}
+msg_t011r0102_game_01=Das ist ein Spiel, in dem eine Menge[0x000A]würfelförmige Pokémon auftauchen!
+msg_t011r0102_pc_01=Meine Geheimnisse...{0xBE01}[0x000A]Meine Spezialität: Nachahmen![0x000A]Mein Lieblings-Pokémon: Piepi!{0xBE01}[0x000A]Aber Piepi sind sooo selten, dass ich noch[0x000A]nie eins in echt gesehen hab.{0xBE01}[0x000A]Irgendwann würde ich so gerne mal ein[0x000A]ganz echtes niedliches Piepi sehen!
+msg_t011r0102_doll_01=Das ist ein Plüsch-Piepi.[0x000A]Es ist schon ziemlich abgekuschelt.
+msg_t011r0102_doll_02=Das ist ein Plüsch-Piepi.[0x000A]Es ist schon ziemlich abgekuschelt.
+msg_t011r0102_doll_03=Das ist ein Plüsch-Piepi.[0x000A]Es ist schon ziemlich abgekuschelt.

@@ -1,0 +1,16 @@
+Ja
+Nein
+{0x0206,0x0008,0x002E} $
+Möchtest du das Spiel speichern?
+Speichervorgang...[0x000A]Bitte das System nicht ausschalten.
+{0x0100,0x0000} hat das Spiel gespeichert.
+Es gibt bereits einen Spielstand.[0x000A]Speichern ist daher nicht möglich.{0xBE01}[0x000A]Weitere Details dazu findest du[0x000A]in der Spielanleitung.
+Speichern fehlgeschlagen.
+{0x0101,0x0000} erhalten!
+{0x0101,0x0000} wurde in die Box[0x000A]{0x010B,0x0001} geschickt.
+Holo-Nachricht erhalten!
+Willkommen daheim, {0x0100,0x0000}![0x000A]Du bist bestimmt total erschöpft!{0xBE00}[0x000A]Ruh dich doch für eine Weile hier aus!{0xBE01}[0x000A]...
+So gefallt ihr mir schon besser![0x000A]Du und dein Team seht wieder topfit aus!{0xBE01}[0x000A]Ein kleiner Ratschlag von mir...{0xBE01}[0x000A]Wie du ja weißt, wird die Energie[0x000A]der Pokémon in KP gemessen.{0xBE01}[0x000A]Wenn deine Pokémon einmal all ihre[0x000A]KP verlieren, kannst du sie zu Hause{0xBE00}[0x000A]wieder auffüllen lassen.{0xBE01}[0x000A]Wenn du eine längere Reise antreten willst,[0x000A]solltest du dich im Pokémon-Supermarkt von{0xBE00}[0x000A]Aquarellia immer gut mit Tränken eindecken.{0xBE01}[0x000A]So, und jetzt mach mich da draußen stolz![0x000A]Pass immer gut auf dich auf!
+Lass uns erst mal dein Team heilen!
+Falls deine Pokémon ihre KP verlieren,[0x000A]kannst du sie in einem Pokémon-Center{0xBE00}[0x000A]wieder auffüllen lassen.{0xBE01}[0x000A]Wenn du dich auf lange Reisen begibst,[0x000A]solltest du immer einen Vorrat an Tränken{0xBE00}[0x000A]aus dem Pokémon-Supermarkt mitnehmen.{0xBE01}[0x000A]Viel Glück, Trainer!
+Dein Pokémon-Team wurde geheilt.{0xBE01}[0x000A]Wir hoffen, du kommst groß raus!

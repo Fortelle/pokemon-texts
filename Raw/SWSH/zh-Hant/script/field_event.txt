@@ -1,0 +1,15 @@
+msg_fld_ev_spray_01=噴霧的效果消失了！
+msg_fld_ev_spray_02=噴霧的效果消失了！[0x000A]要繼續使用嗎？
+msg_fld_ev_spray_03={0x0100,0x0000}[0x000A]使用了{0x0109,0x0001}！
+msg_fld_ev_bookshelf_01={0xBDFF:0x0003}
+msg_fld_ev_kowaserurock_01=這岩石看起來很堅固……！[0x000A]借用寶可夢的力量，也許就能破壞它？
+msg_fld_ev_tv_common_01={0xBDFF:0x0005}
+msg_fld_ev_oserurock_01=這岩石看起來又大又重……！[0x000A]借用寶可夢的力量，也許就能推動它？
+msg_egg_event_01=……咦？
+msg_ride_check_01=要叫出肯泰羅嗎？
+msg_ride_check_02=要叫出怪力嗎？
+msg_ride_check_03=要叫出巨牙鯊嗎？
+msg_ride_check_ng_01=這裡的空間太狹窄，[0x000A]無法叫出坐騎寶可夢。
+msg_bicycle_01=現在無法騎自行車。
+msg_bicycle_02=現在無法下車。
+msg_fld_ev_boxfull_01=寶可夢盒已經滿了，[0x000A]沒辦法搭話！！{0xBE00}[0x000A]……下次再來吧。

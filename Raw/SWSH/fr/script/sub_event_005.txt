@@ -1,0 +1,11 @@
+sub_event_005_npc_01=Regarde ! Regarde ! Un Toxizap !{0xBE01}[0x000A]J’avais un Œuf, et alors que je marchais pour[0x000A]le faire éclore, pouf ! Un Toxizap en est sorti !{0xBE01}[0x000A]Vas-y, prends-le ! Avec lui, tu vas pouvoir monter[0x000A]une équipe du tonnerre !
+sub_event_005_poke1_01=Zzzap zap !
+sub_event_005_npc_02=Et je t’offre ça avec ! Donnes-en à un Pokémon[0x000A]pour le faire progresser plus vite !
+sub_event_005_npc_03=On trouve des Œufs à la Garderie,[0x000A]et des Bonbons Exp. pendant les raids Dynamax !
+sub_event_005_npc_04=Comment ça, t’as plus de place pour un seul[0x000A]Pokémon ? T’as déjà rempli toutes tes Boîtes PC ?
+sub_event_005_oldf_01={0xBDFF:0x0005}
+sub_event_005_oldf_02={0xBDFF:0x0006}
+sub_event_005_poke_01={0xBDFF:0x0007}
+sub_event_005_poke_02={0xBDFF:0x0008}
+sub_event_005_poke_03={0xBDFF:0x0009}
+sub_event_005_system_01={0xBDFF:0x000A}

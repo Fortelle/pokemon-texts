@@ -1,0 +1,9 @@
+msg_sub037_adultf_01=Me encargo de cuidar Pokémon que hayan[0x000A]resultado heridos.
+msg_sub037_adultf_02=Como este Bulbasaur, por ejemplo, que ya está[0x000A]completamente recuperado.{0xBE01}[0x000A]Ahora querría encontrar a un Entrenador que[0x000A]haya capturado muchos Pokémon y en quien{0xBE00}[0x000A]pueda confiar para que lo colme de atenciones.
+msg_sub037_adultf_08=¿Te importaría decirme cuántos Pokémon has[0x000A]atrapado hasta ahora?{0xBE01}[0x000A]Así que {0x0208,0x0000,0x202F}, ¿eh?
+msg_sub037_adultf_03=Oye, pues ya que estás aquí...{0xBE01}[0x000A]¿Serías tan amable de llevarte a este Bulbasaur[0x000A]para que vea mundo?
+msg_sub037_adultf_04=¡Muchas gracias! Cuida de él, por favor.
+msg_sub037_adultf_09=Ven a verme cuando hayas atrapado al menos[0x000A]{0x0201,0x0000} Pokémon, ¿vale?
+msg_sub037_adultf_05=Seguro que Bulbasaur se divierte mucho contigo.
+msg_sub037_adultf_06=¿De veras?... Es una pena, pero como quieras.
+msg_sub037_poke_01={0xFF00,0x0009}Bulbasaur:{0xFF00,0x0000} ¡Bulb!

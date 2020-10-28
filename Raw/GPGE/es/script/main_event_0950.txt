@@ -1,0 +1,16 @@
+msg_main0950_president_01={0xFF00,0x0009}Presidente:{0xFF00,0x0000} ¡Hola, chico! Te agradezco de todo[0x000A]corazón que nos hayas salvado de esos rufianes.
+msg_main0950_president_02={0xFF00,0x0009}Presidente:{0xFF00,0x0000} ¡Hola, joven! Te agradezco de todo[0x000A]corazón que nos hayas salvado de esos rufianes.
+msg_main0950_partner_a_01=¡Pika, pika!
+msg_main0950_partner_b_01=¡Viii!
+msg_main0950_president_08=Je, je, tienes razón, ricura. ¡Tú también has sido[0x000A]de gran ayuda!
+msg_main0950_president_05=Jamás olvidaré vuestra hazaña.{0xBE01}[0x000A]No sé qué habría sido de la compañía si no nos[0x000A]hubieseis sacado las castañas del fuego.
+msg_main0950_president_06=Por supuesto, alguien tan magnánimo como yo[0x000A]no puede permitir que os vayáis sin una bien{0xBE00}[0x000A]merecida recompensa.{0xBE01}[0x000A]Espero que esto sea suficiente.
+msg_main0950_sys_01=El Presidente te ha entregado una {0xFF00,0x0006}Master Ball{0xFF00,0x0000}.
+msg_main0950_president_03={0xFF00,0x0009}Presidente:{0xFF00,0x0000} Es nuestro prototipo secreto, la[0x000A]Master Ball, y no se encuentra a la venta en{0xBE01}[0x000A]ningún sitio.
+msg_main0950_president_07=Con ella puedes atrapar a cualquier Pokémon.{0xBE01}[0x000A]Es literalmente única en el mundo, porque por[0x000A]ahora solo hemos fabricado esta unidad.
+msg_main0950_president_09=Úsala con discreción, por favor.
+msg_main0950_president_04={0xFF00,0x0009}Presidente:{0xFF00,0x0000} ¡Hombre, nuestros héroes![0x000A]Gracias de nuevo por salvarnos aquella vez.
+msg_main0950_president_10={0xFF00,0x0009}Presidente:{0xFF00,0x0000} Espera, no te vayas.[0x000A]Quiero ofrecerte un obsequio.
+msg_workerm1_01_p04_cave_d1011={0xBDFF:0x000D}
+msg_main0950_stafff_01={0xFF00,0x0009}Secretaria:{0xFF00,0x0000} ¡Gracias por habernos salvado!{0xBE01}[0x000A]Todos los que trabajamos en esta empresa te[0x000A]estaremos eternamente agradecidos, de veras.
+msg_main0950_stafff_02={0xFF00,0x0009}Secretaria:{0xFF00,0x0000} En mi modesta opinión, una Poké Ball[0x000A]infalible es un instrumento que tan solo deben{0xBE00}[0x000A]usar los mejores Entrenadores.{0xBE01}[0x000A]Por eso el presidente te ha confiado la única que[0x000A]existe.

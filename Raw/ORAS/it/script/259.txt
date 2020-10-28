@@ -1,0 +1,31 @@
+Eccoci sbarcati a Bluruvia![0x000A]Se non sbaglio, hai una lettera da consegnare.{0xBE01}[0x000A]Se non sai dove andare, ti consiglio di fare[0x000A]un salto alla Palestra.{0xBE01}[0x000A]Il Capopalestra sa tutto della sua città!
+Hai già consegnato la lettera?[0x000A]Come? Vuoi tornare a Petalipoli?
+Bene, facciamo rotta per Petalipoli![0x000A]Mio caro Peeko, partiamo!
+Vai pure a consegnare la lettera.[0x000A]Io ti aspetterò qui.{0xBE01}[0x000A]Se non sai dove andare, ti consiglio di fare[0x000A]un salto alla Palestra.{0xBE01}[0x000A]Il Capopalestra sa tutto della sua città!
+Eccoci sbarcati a Bluruvia!{0xBE01}[0x000A]Vai pure e fammi sapere quando vuoi ripartire.
+Ehi! Per te, partirei in ogni momento![0x000A]Dove siamo diretti ora?
+Direzione Petalipoli? Su le ancore![0x000A]Mio caro Peeko, partiamo!
+Hai detto Porto Selcepoli? Su le ancore![0x000A]Mio caro Peeko, partiamo!
+Fammi sapere quando vuoi ripartire!
+A Petalipoli (Percorso 104)
+A Bluruvia
+A Porto Selcepoli
+Resto ancora un po’...
+Eccoci sbarcati a Porto Selcepoli!{0xBE01}[0x000A]Immagino che farai visita al Capitano Remo[0x000A]per consegnargli la Merce Devon.
+Non vai a consegnare la Merce Devon?[0x000A]Come? Vuoi tornare a Bluruvia?
+E Bluruvia sia!{0xBE01}[0x000A]Su le ancore![0x000A]Mio caro Peeko, si parte!
+Vai pure a consegnare la merce.[0x000A]Io ti aspetterò qui.
+Eccoci sbarcati a Porto Selcepoli!{0xBE01}[0x000A]Vai pure e fammi sapere quando vuoi ripartire.
+{0xBDFF:0x0012}
+Fammi sapere quando vuoi ripartire.
+Ehi, aspetta![0x000A]Un attimo, Peeko!
+Ah! Ma tu sei {0x0100,0x0000}!{0xBE01}[0x000A]Hai salvato il mio amatissimo Peeko![0x000A]Siamo in debito con te!{0xBE01}[0x000A]Come? Vorresti imbarcarti con noi?{0xBE01}[0x000A]Mmh... Hai una lettera da portare a Bluruvia?[0x000A]La tua richiesta è senz’altro fattibile!{0xBE01}[0x000A]Hai trovato l’uomo giusto![0x000A]Allora, salpiamo per Bluruvia?
+Ah! Ma tu sei {0x0100,0x0000}!{0xBE01}[0x000A]Hai salvato il mio amatissimo Peeko![0x000A]Siamo in debito con te!{0xBE01}[0x000A]Come? Vorresti imbarcarti con noi?{0xBE01}[0x000A]Mmh... Hai una lettera da portare a Bluruvia?[0x000A]La tua richiesta è senz’altro fattibile!{0xBE01}[0x000A]Hai trovato l’uomo giusto![0x000A]Allora, salpiamo per Bluruvia?
+Bluruvia, arriviamo!{0xBE01}[0x000A]Su le ancore![0x000A]Mio caro Peeko, si parte!
+Come dici? Le consegne possono aspettare?[0x000A]Allora vai e torna quando sarai pront{0x1100,0x00FF,0x0101}oa a salpare.
+Ehi! So esattamente cosa stavi per dire:[0x000A]hai una lettera da portare a Bluruvia!{0xBE01}[0x000A]Non è affatto un problema.[0x000A]Hai chiesto alla persona giusta!
+Ehi! So esattamente cosa stavi per dire:{0xBE01}[0x000A]hai della merce da consegnare[0x000A]al Capitano Remo a Porto Selcepoli!{0xBE01}[0x000A]Non è affatto un problema.[0x000A]Hai chiesto alla persona giusta!{0xBE01}[0x000A]Tutti a bordo, si parte!
+Ehi! Per te, partirei in ogni momento![0x000A]Dimmi, allora, dove siamo diretti?
+Ah, capisco... Beh, tu hai salvato il mio Peeko.[0x000A]Quando avrai bisogno di me, mi troverai qui!
+{0xBDFF:0x001D}
+Oh! Vedo che sei riuscit{0x1100,0x00FF,0x0101}oa a consegnare la lettera[0x000A]senza problemi.{0xBE01}[0x000A]Ah! Ho ricevuto una richiesta dal Signor Petri.{0xBE01}[0x000A]Vorrebbe che portassi la {0xFF00,0x0002}Merce Devon {0xFF00,0x0000}che hai[0x000A]recuperato a un certo {0xFF00,0x0002}Capitano Remo{0xFF00,0x0000} che si trova{0xBE00}[0x000A]al {0xFF00,0x0002}cantiere di Selcepoli{0xFF00,0x0000}.{0xBE01}[0x000A]Tutti a bordo, si parte!

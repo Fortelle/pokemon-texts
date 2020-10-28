@@ -1,0 +1,8 @@
+msg_t005r0101_youngm_01=M. Fuji n’est pas là... Je me demande où il est...
+msg_t005r0101_youngm_02=M. Fuji était sorti pour tenter d’apaiser l’âme[0x000A]d’Ossatueur.
+msg_t005r0101_juveniles_01=Voici la maison de M. Fuji.[0x000A]C’est vraiment un chic type !{0xBE01}[0x000A]Il s’occupe des Pokémon orphelins ou[0x000A]abandonnés !
+msg_t005r0101_juveniles_02=J’adore câliner mes Pokémon, ils sont tout doux[0x000A]et tout chou !
+msg_t005r0101_poke_01={0xFF00,0x0009}Nidorino :{0xFF00,0x0000} Nido !
+msg_t005r0101_poke_02={0xFF00,0x0009}Psykokwak :{0xFF00,0x0000} Kwak !
+msg_book_01_p01_t005_r0101=« Grand tirage au sort du magazine mensuel[0x000A]"Fan de Pokémon" !{0xBE01}[0x000A]Pour participer, remplissez le formulaire[0x000A]d’inscription et... »{0xBE01}[0x000A]... Ah ![0x000A]Quelqu’un l’a déjà découpé !
+msg_book_02_p01_t005_r0101=Des magazines Pokémon !{0xBE01}[0x000A]Des cahiers Pokémon !{0xBE01}[0x000A]Des dessins de Pokémon !

@@ -1,0 +1,11 @@
+main_event_0890_leader8_01=Yo ! T’es l{0x1100,0x00FF,0x0B0A}e Dresseura Dresseuse recommandé{0x1100,0x00FF,0x0100}e par Tarak,[0x000A]c’est ça ? Tu t’appelles comment, déjà ?{0x0114,0x0017}
+main_event_0890_leader8_02=Ah ouais, {0x0100,0x0000} !{0x0114,0x0017}
+main_event_0890_leader8_03=J’avoue, si Tarak lui-même mise sur toi,[0x000A]c’est que tu dois plutôt avoir du potentiel !{0xBE01}[0x000A]Mais si tu veux te frotter à moi, il va d’abord[0x000A]falloir que t’obtiennes les sept autres Badges.{0x0114,0x0017}
+main_event_0890_select_01=Je sais, mais...
+main_event_0890_select_02=Je ne suis pas venu{0x1100,0x00FF,0x0100}e pour combattre.
+main_event_0890_leader8_04=Ah ! Du coup, t’es là pour admirer le contenu[0x000A]de la salle des reliques, je parie !{0xBE01}[0x000A]Potasser l’histoire pour mieux piger les mystères[0x000A]qui entourent les Pokémon... Bonne idée !{0x0114,0x0017}
+main_event_0890_leader8_05=T’sais quoi ? Je t’ai à la bonne ![0x000A]Entre !{0x0114,0x0017}
+main_event_0890_leader8_08=Attends, je te donne ma carte pendant[0x000A]que j’y pense !{0x0114,0x0017}
+main_event_0890_leader8_09=Si tu veux voir la salle des reliques,[0x000A]c’est en haut des escaliers.{0x0114,0x0017}
+main_event_0890_leader8_06=Ben alors ? Tu vas pas voir la salle des reliques ?[0x000A]Au fait, y’a déjà une chercheuse, à l’intérieur.{0x0114,0x0017}
+main_event_0890_leader8_07=Au fait, si tu veux affronter le plus grand[0x000A]des Champions, c’est-à-dire moi, il faut{0xBE00}[0x000A]que tu collectes tous les autres Badges !{0xBE01}[0x000A]Le prochain arrêt sur ta liste, c’est Old Chister ![0x000A]Prends la Route 6, tu peux pas te perdre.{0x0114,0x0017}

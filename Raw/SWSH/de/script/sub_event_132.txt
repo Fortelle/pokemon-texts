@@ -1,0 +1,12 @@
+sub_event_132_newmove_00=Ich verspüre in dir zwar großes Potenzial als[0x000A]Trainer, aber es ist noch etwas zu früh...{0xBE01}[0x000A]Komm wieder, wenn du Champ geworden bist!
+sub_event_132_newmove_01=Hallo, Champ!{0xBE01}[0x000A]Soll ich einem deiner Pokémon die besondere[0x000A]Attacke {0x0107,0x0001} beibringen?
+sub_event_132_newmove_02=Okay, bis bald!
+sub_event_132_newmove_04=Ah, ich fürchte, dass deine Pokémon diese[0x000A]Attacke nicht erlernen können...
+sub_event_132_newmove_05=Okay, welchem Pokémon soll ich die besondere[0x000A]Attacke beibringen?
+sub_event_132_newmove_06={0x0102,0x0001} kann die Attacke leider nicht[0x000A]erlernen.
+sub_event_132_newmove_07=Ein Ei? Soll das dein Ernst sein?[0x000A]Nein, ein Ei kann diese Attacke nicht erlernen.
+sub_event_132_newmove_08={0x0102,0x0001} beherrscht diese Attacke doch[0x000A]bereits.
+sub_event_132_newmove_10=Welche Attacke soll vergessen werden?
+sub_event_132_newmove_sys_01={0x0102,0x0000} erlernt[0x000A]{0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+sub_event_132_newmove_sys_02=Eins,{0xBE02:0x0014} zwei{0xBE02:0x0014} und{0xBE02:0x0014}... schwupp!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} hat {0x0107,0x0001}[0x000A]vergessen und {0x0107,0x0002} erlernt!{0xBE05,0x0004}{0xBE05,0x0001}
+sub_event_132_newmove_09=Stahlstrahl verfügt zwar über eine gewaltige[0x000A]Schlagkraft, allerdings nimmt der Anwender{0xBE00}[0x000A]bei dem Angriff auch Schaden.

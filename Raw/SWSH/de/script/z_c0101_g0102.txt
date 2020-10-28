@@ -1,0 +1,8 @@
+msg_ui_fire_00={0x0189,0x0000}
+msg_ui_fire_01={0xBDFF:0x0001}
+msg_ui_fire_02={0x0200,0x0000}
+msg_ui_fire_03=Punkte
+msg_ui_fire_06=Punkt
+msg_ui_fire_07=Punkte
+msg_ui_fire_04={0xBDFF:0x0006}
+msg_ui_fire_05=Zum erfolgreichen Abschluss der Arena-Mission[0x000A]fehl{0x1101,0x0000,0x0201}ten dir noch {0x0200,0x0000} Punkt{0x1101,0x0000,0x0100}e![0x000A]Spür das Feuer in dir brennen! (Arenaleiter Kabu)

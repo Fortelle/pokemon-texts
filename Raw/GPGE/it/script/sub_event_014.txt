@@ -1,0 +1,6 @@
+msg_sub014_researcher_01=Ciao! Ti ricordi di me?[0x000A]Sono l’assistente del Professor Oak!{0xBE01}[0x000A]Il Professore mi ha incaricato di consegnarti[0x000A]il sistema di valutazione, a patto che tu abbia{0xBE00}[0x000A]raccolto i dati di almeno 30 specie di Pokémon.{0xBE01}[0x000A]Allora, {0x0100,0x0000}, hai raccolto i dati[0x000A]di almeno 30 specie di Pokémon?
+msg_sub014_researcher_02=Vedo che hai raccolto i dati di {0x0202,0x0004} specie[0x000A]di Pokémon!{0xBE01}[0x000A]Congratulazioni! Dammi un attimo e aggiungerò[0x000A]il sistema di valutazione alla tua Borsa...
+msg_sub014_sys_01=Il {0xFF00,0x0006}sistema di valutazione{0xFF00,0x0000} è stato aggiunto[0x000A]alla Borsa di {0x0100,0x0000}!
+msg_sub014_researcher_03=D’ora in poi, consultando la schermata delle[0x000A]Info di un Pokémon potrai visualizzare{0xBE00}[0x000A]anche il suo potenziale!
+msg_sub014_researcher_04=Vediamo un po’...{0xBE01}[0x000A]Oh! Hai raccolto i dati di solamente {0x0202,0x0004} specie[0x000A]di Pokémon!{0xBE01}[0x000A]Se vuoi ottenere il sistema di valutazione[0x000A]dovrai raccogliere i dati di almeno 30 specie{0xBE00}[0x000A]di Pokémon!
+msg_sub014_researcher_05=Oh, capisco.{0xBE01}[0x000A]Beh, quando avrai raccolto i dati di almeno[0x000A]30 specie di Pokémon, torna da me per{0xBE00}[0x000A]ottenere il sistema di valutazione!

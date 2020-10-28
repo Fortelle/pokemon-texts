@@ -1,0 +1,8 @@
+msg_t0201i0101_plant_01=Les plantes dont l’entretien prend le plus[0x000A]de temps donnent les plus belles fleurs !
+msg_t0201i0101_bg1_01=Le tableau blanc est recouvert de notes...
+msg_t0201i0101_bg2_01=Les données sur l’écran n’arrêtent pas de fluctuer...[0x000A]Peut-être que la machine mesure quelque chose ?
+msg_t0201i0101_poke1_01_pop={0xBDFF:0x0003}
+msg_t0201i0101_poke2_01_pop=Tou ! Tou !
+msg_t0201i0101_bookshelf1_01=– LA TRANSFORMATION DES POKÉMON –[0x000A]Les Pokémon ne changent pas de forme[0x000A]uniquement en montant de niveau.[0x000A]Ils peuvent aussi évoluer sous l’influence[0x000A]d’un objet ou d’un lieu particulier.{0xBE01}[0x000A]On raconte que leurs changements de[0x000A]physionomie et de tempérament seraient[0x000A]provoqués par un gène dans leur corps,[0x000A]mais à l’heure actuelle, personne n’en a la preuve.
+msg_t0201i0101_bookshelf2_01=– LE PHÉNOMÈNE DYNAMAX –[0x000A]Le Dynamax est un phénomène donnant aux[0x000A]Pokémon une taille gigantesque. Il n’est possible[0x000A]de le provoquer qu’à certains endroits précis[0x000A]de Galar, et sous des conditions particulières.
+msg_t0201i0101_bookshelf2_02=– LA TAILLE DES POKÉMON –[0x000A]En général, évoluer permet aux Pokémon[0x000A]de devenir plus grands et plus forts.[0x000A]Cette manière de paraître aussi imposant[0x000A]que possible est une forme d’instinct de survie.

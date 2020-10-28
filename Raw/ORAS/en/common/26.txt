@@ -1,0 +1,46 @@
+Name:
+{0x0100,0x0000}
+ID No.:
+{0x0204,0x0000,0x0000}
+Hoenn Pokédex:
+{0x0202,0x0000}
+
+Money:
+${0x0206,0x0000,0x002C}
+{0xBDFF:0x0009}
+Play time:
+{0x0202,0x0000}
+:
+{0x0201,0x0001}
+Adventure started on:
+{0x0201,0x0001}/{0x0201,0x0002}/{0x0203,0x0000,0x0000}
+Trainer Information
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+First entered Hall of Fame on:
+Poké Miles:
+{0x0206,0x0000,0x002C}
+Battle Points:
+{0x0206,0x0000,0x002C}
+View Badges
+Stone Badge[0x000A]Leader: Roxanne
+Knuckle Badge[0x000A]Leader: Brawly
+Dynamo Badge[0x000A]Leader: Wattson
+Heat Badge[0x000A]Leader: Flannery
+Balance Badge[0x000A]Leader: Norman
+Feather Badge[0x000A]Leader: Winona
+Mind Badge[0x000A]Leaders: Liza and Tate
+Rain Badge[0x000A]Leader: Wallace
+Gym Leader: Roxanne
+Gym Leader: Brawly
+Gym Leader: Wattson
+Gym Leader: Flannery
+Gym Leader: Norman
+Gym Leader: Winona
+Gym Leaders: Liza and Tate
+Gym Leader: Wallace
+National Pokédex:

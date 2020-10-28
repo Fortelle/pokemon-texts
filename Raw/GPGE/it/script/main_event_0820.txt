@@ -1,0 +1,6 @@
+msg_main0820_fuji_01={0xBDFF:0x0000}
+msg_main0820_fuji_02={0xFF00,0x0009}Mr. Fuji:{0xFF00,0x0000} ...
+msg_main0820_fuji_03=Oh! E tu chi sei?[0x000A]Che ci fai quassù tutt{0x1100,0x00FF,0x0101}oa sol{0x1100,0x00FF,0x0101}oa?
+msg_main0820_fuji_04=Come dici? Il Team Rocket voleva prendermi[0x000A]in ostaggio?{0xBE01}[0x000A]Sai, ero così occupato a pregare per Marowak[0x000A]che non me ne sono nemmeno reso conto.
+msg_main0820_fuji_05=Sento che la sua anima è finalmente riuscita[0x000A]a trovare la pace...
+msg_main0820_fuji_06=Vieni, andiamo a casa mia. Voglio regalarti[0x000A]una cosa, per ringraziarti del tuo aiuto.

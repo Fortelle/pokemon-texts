@@ -1,0 +1,7 @@
+main_event_1510_staff_01=Nous t’attendions, Challenger {0x0100,0x0000}.[0x000A]Les Poké Masters vont commencer !{0xBE01}[0x000A]Pendant la première étape, les vainqueurs[0x000A]du Défi des Arènes vont s’affronter.{0xBE00}[0x000A]Ce sera le Tournoi des Médaillés.{0xBE01}[0x000A]Si vous remportez cette épreuve, vous serez[0x000A]qualifié{0x1100,0x00FF,0x0100}e pour le Tournoi des Champions.{0xBE00}[0x000A]Sept Champions de Galar y participent !{0xBE01}[0x000A]En cas de victoire, vous affronterez Tarak,[0x000A]le Maître !{0xBE00}[0x000A]Ce sera l’heure du Match Ultime.
+main_event_1510_staff_02=La rencontre va bientôt commencer.[0x000A]Dirigez-vous vers le terrain s’il vous plaît.
+main_event_1510_rival_01={0xBDFF:0x0002}
+main_event_1510_rival_02={0xBDFF:0x0003}
+main_event_1510_staff_03=Votre premier adversaire vous attend[0x000A]sur le Terrain de Combat.
+main_event_1510_yellm_01=Oh, c’est toi ? Pfff...[0x000A]Ouais, ouais, bonne chance, tout ça.{0xBE01}[0x000A]Moi, j’suis busy, j’ai ma choupinette[0x000A]à encourager.{0x0114,0x0043}
+main_event_1510_yellw_01=Je suis là pour encourager la p’tite choupinette !{0x0114,0x0044}

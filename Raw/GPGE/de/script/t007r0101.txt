@@ -1,0 +1,9 @@
+msg_t007r0101_poke_01={0xFF00,0x0009}Mauzi:{0xFF00,0x0000} Mauz!
+msg_t007r0101_poke_02={0xFF00,0x0009}Piepi:{0xFF00,0x0000} Piiiepi, piiiep!
+msg_t007r0101_poke_03={0xFF00,0x0009}Nidoran♀:{0xFF00,0x0000} Nido, nido!
+msg_t007r0101_kanban_01=Prismania-Apartments[0x000A]Büro des Managers
+msg_t007r0101_oldf_01=Von seinen geliebten Pokémon umgeben zu sein[0x000A]und in aller Ruhe ein Tässchen Tee zu trinken...{0xBE01}[0x000A]Das sind die Momente im Leben, die wirklich[0x000A]zählen.
+msg_oldwoman1_01_p01_t007_r0101={0xBDFF:0x0005}
+msg_oldwoman1_01_p02_t007_r0101={0xBDFF:0x0006}
+msg_oldwoman1_01_p03_t007_r0101={0xBDFF:0x0007}
+msg_oldwoman1_01_p04_t007_r0101={0xBDFF:0x0008}

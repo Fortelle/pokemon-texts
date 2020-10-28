@@ -1,0 +1,17 @@
+Es ist meine Berufung, Mysteriösen Pokémon[0x000A]Attacken beizubringen.{0xBE01}[0x000A]Ich mache zwar gerade Urlaub, aber es wäre[0x000A]mir dennoch ein Vergnügen, dein Pokémon{0xBE00}[0x000A]eine Attacke zu lehren.{0xBE01}[0x000A]Na, was sagst du?
+Sieh einer an! Dein Pokémon scheint diese[0x000A]Attacke bereits zu beherrschen!
+Wenn du Keldeo oder Meloetta im Team hättest,[0x000A]könnte ich ihnen eine Attacke beibringen...
+Soll ich einem deiner Pokémon eine Attacke[0x000A]beibringen?
+Gib mir einfach Bescheid, falls du es dir anders[0x000A]überlegen solltest.
+Tja, einem Ei kann selbst jemand von meinem[0x000A]Format keine Attacken beibringen!
+Dieses Pokémon kann beim besten Willen keine[0x000A]Attacke von mir erlernen.
+Nanu? Dein Pokémon scheint diese Attacke[0x000A]bereits zu beherrschen!
+Oje! Dieses Pokémon ist ja völlig ausgelaugt![0x000A]Es hat absolut keine Kraft mehr zu kämpfen...
+{0x0102,0x0000} erlernt[0x000A]{0x0107,0x0001}!
+Nanu? Dein {0x0102,0x0000}...
+{0x0102,0x0000} ist entschlossen zu kämpfen[0x000A]und hat die Resolutform angenommen!
+Welche Attacke soll durch[0x000A]{0x0107,0x0000} ersetzt werden?
+{0x0102,0x0000} erlernt[0x000A]{0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+Eins,{0xBE02:0x0014} zwei{0xBE02:0x0014} und{0xBE02:0x0014}... schwupp!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} hat {0x0107,0x0001}[0x000A]vergessen und {0x0107,0x0002} erlernt!{0xBE05,0x0004}{0xBE05,0x0001}
+{0x0102,0x0000} hat[0x000A]{0x0107,0x0001} nicht erlernt.
+Welchem Pokémon soll ich eine Attacke[0x000A]beibringen?

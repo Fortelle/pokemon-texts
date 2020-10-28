@@ -1,0 +1,17 @@
+main_event_1110_assistant_01=Oh nein... Die Wandmalerei ist völlig ruiniert!{0xBE01}[0x000A]Aber dass dadurch diese Statuen ans Tageslicht[0x000A]gekommen sind, ist Glück im Unglück.{0x0114,0x000B}
+main_event_1110_assistant_02=Was an dieser Entdeckung ändert unser[0x000A]Verständnis der Legende Galars am meisten?{0x0114,0x000B}
+main_event_1110_select_03=Die Pokémon!
+main_event_1110_select_04=Das Schwert und der Schild!
+main_event_1110_assistant_08=Genau! Diese Wesen, die wie Pokémon aussehen,[0x000A]führen ein Schwert und einen Schild mit sich.{0xBE01}[0x000A]Sie stehen außerdem ganz klar im Vordergrund[0x000A]und stechen viel stärker ins Auge als die Helden!{0x0114,0x000B}
+main_event_1110_assistant_09=Ist dir sonst noch irgendwas an den Statuen[0x000A]aufgefallen?{0x0114,0x000B}
+main_event_1110_select_05=Da sind zwei Helden!
+main_event_1110_select_06=Sie erinnern an die Wandteppiche!
+main_event_1110_assistant_10=Genau! Damit können wir wohl endgültig davon[0x000A]ausgehen, dass es zwei Helden gab.{0xBE01}[0x000A]Die Frage ist bloß, warum im Knospi Inn dann nur[0x000A]eine einzige Heldenstatue steht...{0x0114,0x000B}
+main_event_1110_assistant_11=Diese Statuen sind viel älter als die[0x000A]Wandteppiche oder die Heldenstatue im Hotel.{0xBE01}[0x000A]Deshalb dürfte das, was wir hier gefunden haben,[0x000A]näher an der Wahrheit dran sein.{0x0114,0x000B}
+main_event_1110_assistant_03=Hm, was lässt sich daraus schlussfolgern?{0x0114,0x000B}
+main_event_1110_select_01=Das Schwert ist ein Pokémon!
+main_event_1110_select_02=Der Schild ist ein Pokémon!
+main_event_1110_assistant_04=Genau, das hab ich mir auch gedacht!{0xBE01}[0x000A]Wie’s aussieht, trug ein Pokémon ein Schwert[0x000A]mit sich und das andere einen Schild...{0xBE01}[0x000A]Was, wenn die Leute das Schwert und den Schild[0x000A]einst so eng mit den beiden Pokémon verbanden,{0xBE00}[0x000A]dass sie letztendlich gleichbedeutend waren?{0xBE01}[0x000A]Du weißt schon, das Schwert stand für eines der[0x000A]Pokémon und der Schild für das andere.{0xBE01}[0x000A]Mit der Zeit konnte man sich schließlich nur noch[0x000A]an das Schwert und den Schild erinnern.{0xBE01}[0x000A]Dass es die beiden Pokémon je gegeben hatte,[0x000A]geriet völlig in Vergessenheit...{0x0114,0x000B}
+main_event_1110_assistant_05=Die beiden Jünglinge sind also die Helden.[0x000A]Und das Schwert und der Schild waren eigentlich{0xBE00}[0x000A]zwei Pokémon.{0xBE01}[0x000A]Aber warum wurden die Statuen, die uns dieses[0x000A]Wissen vermittelt haben, hinter einem Kunstwerk{0xBE00}[0x000A]versteckt?{0x0114,0x000B}
+main_event_1110_assistant_06=Danke jedenfalls für deine Hilfe! Ich glaube,[0x000A]diese Entdeckung könnte zu einem richtigen{0xBE00}[0x000A]Durchbruch werden!{0xBE01}[0x000A]Wenn du dich jetzt wieder der Arena-Challenge[0x000A]widmest, sollten dir die hier helfen.{0xBE01}[0x000A]Als Nächstes geht’s für dich nach Fairballey,[0x000A]richtig? Dann mal viel Erfolg dort!{0x0114,0x000B}
+main_event_1110_assistant_07=Hm... Warum sollte man Geschichte hinter einem[0x000A]Kunstwerk verstecken?{0xBE01}[0x000A]Ich muss das alles noch etwas genauer unter[0x000A]die Lupe nehmen.{0x0114,0x000B}

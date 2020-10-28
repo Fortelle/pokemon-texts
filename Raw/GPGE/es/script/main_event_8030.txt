@@ -1,0 +1,14 @@
+msg_main8030_grass_01=¡Hola! Qué día tan radiante, ¿verdad?
+msg_main8030_grass_06=A mí es que estar así me relaja mu... Zzz...
+msg_main8030_grass_07=Uy, perdona. Ya me he vuelto a quedar dormida.
+msg_main8030_grass_08=En fin, bienvenid{0x1100,0x00FF,0x0101}oa. Yo soy Erika, la Líder de[0x000A]Gimnasio de Ciudad Azulona.
+msg_main8030_grass_09=Mi pasión es el arreglo floral, y mi equipo está[0x000A]formado solo por Pokémon de tipo Planta.
+msg_main8030_grass_10=Ah, ¿que has venido a retarme? Vale, no me iré[0x000A]más por las ramas.
+msg_main8030_grass_11=Ahora bien, te advierto de que no tengo[0x000A]intención alguna de perder.
+msg_gymleader_04_02={0xBDFF:0x0007}
+msg_main8030_grass_02=Mereces un premio.[0x000A]Toma esta medalla, ¡te la has ganado!
+msg_main8030_sys_01=Erika te ha entregado la {0xFF00,0x0006}Medalla Arcoíris{0xFF00,0x0000}.
+msg_main8030_grass_03=Con la Medalla Arcoíris, todos los Pokémon de[0x000A]hasta Nv. {0x0201,0x0004} acatarán tus órdenes, aunque{0xBE00}[0x000A]fueran de otro Entrenador.{0xBE01}[0x000A]Y eso no es todo... Aún hay algo más para ti.
+msg_main8030_sys_02=Erika te ha entregado la {0x0109,0x0001}, que permite[0x000A]enseñar el movimiento {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000}.
+msg_main8030_grass_04=La MT53 permite enseñar el movimiento[0x000A]Megaagotar, con el que tu Pokémon podrá{0xBE00}[0x000A]absorber la mitad de los PS que le quite al rival.{0xBE01}[0x000A]Es estupenda, ¿no crees?
+msg_main8030_grass_05=Veo que te estás tomando en serio la tarea de[0x000A]completar la Pokédex. ¡Qué chic{0x1100,0x00FF,0x0101}oa tan aplicad{0x1100,0x00FF,0x0101}oa!{0xBE01}[0x000A]Probablemente, yo solo registraría los datos de[0x000A]Pokémon que me pareciesen bonitos.

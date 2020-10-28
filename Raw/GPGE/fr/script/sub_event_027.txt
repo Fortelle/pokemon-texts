@@ -1,0 +1,8 @@
+msg_sub027_clerkm_01=Quoi ? Encore un{0x1100,0x00FF,0x0907} cliente cliente ?![0x000A]Et mon remplaçant qui est en retard...{0xBE00}[0x000A]J’ai vraiment besoin d’aller aux toil...{0xBE01}[0x000A]Hum... Bonjour ! Vous voulez quelque[0x000A]chose ? Écoutez, je suis pressé, là, faisons vite.{0xBE01}[0x000A]Hein ? Z’êtes pressé{0x1100,0x00FF,0x0100}e aussi ?[0x000A]Alors tenez ! C’est ça que vous voulez, non ?
+msg_sub027_sys_01={0xBDFF:0x0001}
+msg_sub027_clerkm_02=Tenez, voilà votre CT03. C’est la capacité[0x000A]Coup d’Main !{0xBE01}[0x000A]Elle permet d’augmenter la puissance des[0x000A]capacités d’un allié pendant un tour.
+msg_sub027_clerkm_03=Z’appréciez Coup d’Main, vous ? Moi, oui ![0x000A]D’ailleurs, si mon remplaçant pouvait se{0xBE00}[0x000A]dépêcher...
+msg_sub027_clerkm_01_nouse={0xBDFF:0x0004}
+msg_sub027_clerkm_02_nouse={0xBDFF:0x0005}
+msg_sub027_clerkm_03_nouse={0xBDFF:0x0006}
+msg_sub027_clerkm_04={0xBDFF:0x0007}

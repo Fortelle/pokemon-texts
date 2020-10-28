@@ -1,0 +1,6 @@
+Allora, {0x0100,0x0000}, che ne pensi?[0x000A]Mica male l’Agenzia Lotta, eh?{0x0114,0x0010}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0x0100,0x0000}, vorrei chiederti un favore...{0xBE01}[0x000A]Potresti riportare al Professor Kukui una cosa[0x000A]che si è dimenticato?{0x0114,0x001C}
+Ha detto che sarebbe andato al Giardino[0x000A]di Malie.{0xBE01}[0x000A]Grazie mille e scusa per il disturbo.{0x0114,0x001C}
+La prossima volta che ci incontreremo sarà[0x000A]per lottare!{0x0114,0x0010}

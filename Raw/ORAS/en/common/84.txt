@@ -1,0 +1,69 @@
+{0x0105,0x0000}
+Location unknown
+Play online with others
+Play with your Pokémon
+Train your Pokémon
+Good job![0x000A]You’ve caught them all!
+There are no wild Pokémon in[0x000A]this area.
+There are still Pokémon in this area[0x000A]that you have not caught!
+Amazing! Fantastic! You caught[0x000A]every possible Pokémon in this area!
+Nearby Pokémon
+Found Pokémon
+Last seen Pokémon
+Hidden Pokémon
+Name
+{0x0101,0x0000}
+Search Level
+{0x0200,0x0000}
+MAX
+{0x0101,0x0000}
+Level
+Lv.
+{0x0202,0x0000}
+Type
+Potential
+First Move
+{0x0107,0x0000}
+Ability
+{0x0106,0x0000}
+SEARCH
+There is no reaction.
+It couldn’t be found nearby.[0x000A]Try looking in a different spot!
+The Pokémon you searched for isn’t here.
+Held Item
+{0x0109,0x0000}
+Welcome to BuzzNav![0x000A][0x000A]BuzzNav: Bringing you the latest[0x000A]buzz from around the Hoenn region!
+With StreetPass, you can swap[0x000A]news with other players.[0x000A][0x000A]Would you like to activate[0x000A]StreetPass for this game?
+You have activated StreetPass![0x000A][0x000A](StreetPass will remain active even[0x000A]when this software is closed.)
+Your StreetPass data is full.[0x000A]Deactivate StreetPass for another[0x000A]game from StreetPass Management[0x000A]in System Settings.
+You cannot use StreetPass due to[0x000A]your system’s Parental Controls.
+You cannot use StreetPass without[0x000A]agreeing to the latest Nintendo 3DS[0x000A]Service User Agreement first.
+YES
+NO
+NEXT
+END
+Would you like to check if there is[0x000A]any updated news available?
+Checking for the latest news.[0x000A]Please wait...
+You received the latest news!
+{0x0201,0x0007}
+You’ve passed by {0x0201,0x0000} pe{0x1101,0x0000,0x0404}rsonople!
+Secret Bases updated!
+New Mirage spot discovered!
+You received an Eon Ticket![0x000A]Head to a Pokémon Center!
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+{0xBDFF:0x0036}
+{0xBDFF:0x0037}
+{0xBDFF:0x0038}
+{0xBDFF:0x0039}
+{0xBDFF:0x003A}
+{0xBDFF:0x003B}
+Nearly complete!
+Pokédex
+It ran away!
+You were spotted![0x000A]Try moving more slowly.
+If you activate StreetPass, your[0x000A]messages and Secret Bases will be[0x000A]sent to others, and you will receive[0x000A]messages and Secret Bases from[0x000A]other players as well.[0x000A]Would you still like to continue?
+You can view news from around the[0x000A]world if you connect to the Internet[0x000A]through the PSS, which is found in[0x000A]the PlayNav application.
+You cannot exchange news with others[0x000A]if StreetPass is deactivated.[0x000A][0x000A]Touch the blue icon in the upper-right[0x000A]corner of the BuzzNav screen to[0x000A]activate StreetPass.
+There seems to be a Pokémon somewhere...
+Try moving more slowly.

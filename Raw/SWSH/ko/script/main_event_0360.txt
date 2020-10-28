@@ -1,0 +1,14 @@
+main_event_0360_rival_01=역장님![0x000A]여기는 와일드에리어역 아니에요?{0xBE00}[0x000A]대체 무슨 일이 생긴 거예요?{0x0114,0x0005}
+main_event_0360_stationmaster_01=그게 말이다... 선로 위를[0x000A]우르 무리가 가로막고 있어서...{0xBE00}[0x000A]열차가 지나갈 수 없는 상태란다
+main_event_0360_rival_02=그거 오히려 잘됐네!{0x0114,0x0005}
+main_event_0360_select_01=잘됐다고?
+main_event_0360_select_02=어째서?
+main_event_0360_rival_03=와일드에리어는 엄청나게 넓으니까![0x000A]포켓몬도 잔뜩 있어!{0xBE01}[0x000A]{0x0100,0x0000} 너도 무슨 뜻인지 알지?[0x000A]최고의 팀을 만들 수 있다는 거야!{0x0114,0x0005}
+main_event_0360_stationmaster_02=브래시마을로 돌아갈 수는 있어도[0x000A]엔진시티에는 갈 수 없을 것 같구나{0xBE01}[0x000A]무리 지어 있는 포켓몬들을[0x000A]억지로 쫓아낼 수도 없으니 말이다
+main_event_0360_assistant_01={0xBDFF:0x0007}
+main_event_0360_rival_05={0xBDFF:0x0008}
+main_event_0360_rival_06={0xBDFF:0x0009}
+main_event_0360_assistant_02={0xBDFF:0x000A}
+main_event_0360_assistant_03={0xBDFF:0x000B}
+main_event_0360_rival_04={0xBDFF:0x000C}
+main_event_0360_assistant_04={0xBDFF:0x000D}

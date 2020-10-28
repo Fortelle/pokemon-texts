@@ -1,0 +1,13 @@
+msg_main0300_rival_01=Aaaah!
+msg_main0300_rival_02={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} {0x0100,0x0000}...! Aiuto![0x000A]C’è un Po... Ho visto un Po... Un... Aaaaah!!!
+msg_main0300_dummy_01={0xBDFF:0x0002}
+msg_main0300_rival_03={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Aah... Uff... Anf...[0x000A]Calma, {0x0100,0x0001}... Calma...{0xBE01}[0x000A]Perdonami, non mi succede mai di agitarmi[0x000A]così tanto...
+msg_main0300_rival_04=Avevo sentito che poco più avanti c’era la casa[0x000A]di quel famoso appassionato di Pokémon...{0xBE01}[0x000A]E insomma, ho deciso di farci un giro per vedere[0x000A]se aveva qualche Pokémon raro!
+msg_main0300_rival_05=Ma quando sono arrivato in quella casa...[0x000A]Non ci crederai, ma...
+msg_main0300_rival_06=Non ho trovato Bill, l’appassionato di Pokémon...[0x000A]Al suo posto c’era un Pokémon...{0xBE00}[0x000A]Un Pokémon parlante!! Capisci?!
+msg_main0300_rival_07=Brrrr! Che paura! Stai attent{0x1100,0x00FF,0x0101}oa anche tu,[0x000A]{0x0100,0x0000}! Non avvicinarti a quella casa!
+msg_rival_01_p01_field_t005={0xBDFF:0x0008}
+msg_rival_01_p02_field_t005={0xBDFF:0x0009}
+msg_rival_01_p03_field_t005={0xBDFF:0x000A}
+msg_rival_01_p05_field_t005={0xBDFF:0x000B}
+msg_rival_01_p06_field_t005={0xBDFF:0x000C}

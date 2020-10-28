@@ -1,0 +1,85 @@
+Controllo scheda SD in corso.[0x000A]Attendi...
+Non c’è spazio sufficiente nella scheda SD.[0x000A]Libera spazio nella scheda SD e riprova.{0xBE01}
+Spazio insufficiente nella Fotocamera[0x000A]Nintendo 3DS. Impossibile salvare la foto.{0xBE01}[0x000A]Cancella qualche foto dalla scheda SD[0x000A]per liberare spazio.{0xBE01}
+Si è verificato un errore nella Fotocamera[0x000A]Nintendo 3DS.{0xBE01}
+A causa di errori rilevati nei dati nella[0x000A]scheda SD, i dati sono stati cancellati.{0xBE01}
+La scheda SD è piena. Impossibile salvare[0x000A]la foto.{0xBE01}[0x000A]Libera spazio nella scheda SD della console[0x000A]Nintendo 3DS.{0xBE01}
+Puoi salvare ancora {0x0200,0x0000} foto[0x000A]al Fotoclub di Alola.{0xBE01}
+L’Album è pieno.[0x000A]Non puoi salvare altre foto.{0xBE01}[0x000A]Cancella dall’Album le foto che non[0x000A]ti interessano per liberare spazio.{0xBE01}
+Salvataggio nella scheda SD in corso.[0x000A]Non spegnere la console.
+Le foto selezionate verranno cancellate.[0x000A]Vuoi continuare?
+Spazio insufficiente nella Fotocamera Nintendo[0x000A]3DS. Cancella qualche foto dalla console{0xBE00}[0x000A]Nintendo 3DS o dall’Album per liberare spazio.{0xBE01}
+La scheda SD è piena. Impossibile salvare.[0x000A]Esci dal gioco e libera spazio sulla scheda SD.{0xBE01}
+Salvataggio nella scheda SD completato.{0xBE01}
+Cancellazione foto in corso.[0x000A]Non spegnere la console.
+Operazione completata.{0xBE01}
+Hai contrassegnato questa foto come preferita.{0xBE01}
+La foto non è più contrassegnata come preferita.{0xBE01}
+Scegli una o più foto da cancellare.{0xBE01}
+{0xBDFF:0x0012}
+Aggiornamento scheda SD in corso.[0x000A]Non spegnere la console.
+I dati della scheda SD sono stati aggiornati.{0xBE01}
+{0x0101,0x0000}
+{0x0201,0x0002}/{0x0201,0x0001}/{0x0203,0x0000,0x0000}
+{0x0202,0x0000}
+/
+Cancella
+Imposta i criteri di ricerca e seleziona “Cerca”[0x000A]per visualizzare i risultati.
+Mostra per
+Pokémon
+Decorazioni
+Foto preferite
+Soggetto
+Sfondo
+Condivisa
+Meno recenti
+Più recenti
+N° Pokédex
+-
+{0x0101,0x0000}
+No
+Sì
+Solo il Pokémon
+Pokémon e Allenatore
+Sfondo 1
+Sfondo 2
+Sfondo 3
+Sfondo 4
+Sfondo 5
+Sfondo 6
+Sfondo 7
+Sfondo 8
+Ok
+Ricomincia
+Scegli l’ordine in cui mostrare le foto.
+Scegli la prima lettera del Pokémon da cercare.
+Scegli un Pokémon.
+Scegli se cercare tra le foto decorate.
+Scegli se cercare tra le foto preferite.
+Scegli il soggetto delle foto.
+Scegli lo sfondo delle foto.
+Scegli se mostrare solo la foto condivisa o se[0x000A]escluderla dalla ricerca.
+Decora
+Cancella
+Aggiungi alle preferite
+Rimuovi dalle preferite
+Indietro
+Sì
+No
+Cosa vuoi fare con questa foto?
+Condividi
+Non condividere
+Questa foto è stata registrata come[0x000A]la foto visibile pubblicamente.{0xBE01}
+Questa foto non verrà condivisa.{0xBE01}
+Non puoi cancellare le foto preferite o condivise.{0xBE01}
+C’è già una foto condivisa.[0x000A]Vuoi condividere questa al suo posto?
+Questa foto verrà condivisa con gli altri[0x000A]giocatori. Vuoi continuare?
+Nell’Album puoi vedere le foto salvate[0x000A]al Fotoclub di Alola.[0x000A][0x000A]Puoi anche decorare le foto e condividerne una[0x000A]nel Festiplaza, in modo che i tuoi visitatori[0x000A]possano vederla.
+Per decorare una foto, seleziona “Decora”.[0x000A][0x000A]Per mostrarla agli altri giocatori, seleziona[0x000A]“Condividi”.
+Dummy
+Dummy
+Dummy
+Cerca
+Questa foto è già stata decorata e non può[0x000A]più essere modificata.{0xBE01}
+Dummy
+Dummy

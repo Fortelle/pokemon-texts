@@ -1,0 +1,8 @@
+msg_sub039_policef_01=Hace no mucho atrapé un Squirtle, pero el muy[0x000A]pillo siempre se dedica a hacer travesuras y no{0xBE00}[0x000A]me presta atención.{0xBE01}[0x000A]Ojalá pudiera encontrar a un Entrenador con[0x000A]bastante experiencia.
+msg_sub039_policef_06=¡Vaya! Si no me equivoco, hasta ahora has[0x000A]capturado {0x0208,0x0000,0x202F} Pokémon, ¿no?
+msg_sub039_policef_02=Vamos, ¡que eres un{0x1100,0x00FF,0x0100}a Entrenador{0x1100,0x00FF,0x0100}a como la copa[0x000A]de un pino!{0xBE01}[0x000A]¿Qué te parecería quedarte con este Squirtle[0x000A]que atrapé hace poco? Es muy travieso.
+msg_sub039_policef_03=Gracias por encargarte de él. ¡Mímalo mucho!
+msg_sub039_policef_07=Si logras capturar al menos {0x0202,0x0000} Pokémon, dejaré[0x000A]que te lo lleves y lo entrenes.
+msg_sub039_policef_04=Vaya... Pues no sé muy bien qué hacer con él.
+msg_sub039_policef_05=¿Qué tal le va a Squirtle?
+msg_sub039_poke_01={0xFF00,0x0009}Squirtle:{0xFF00,0x0000} ¡Squiiir!

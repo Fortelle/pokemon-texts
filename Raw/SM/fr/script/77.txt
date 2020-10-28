@@ -1,0 +1,9 @@
+Oh, c’est toi, {0x0100,0x0000}. J-je voudrais[0x000A]te demander quelque chose... Est-ce que{0xBE00}[0x000A]c’est toi qui choisis tes vêtements[0xE07F]?{0x0114,0x0006}
+Bien sûr[0xE07F]!
+Ma maman le fait pour moi.
+Je vois... Je suppose que la plupart des gens[0x000A]choisissent eux-mêmes leur garde-robe...{0x0114,0x0006}
+Ah, je m’en doutais. Tu diras à ta maman[0x000A]qu’elle a très bon goût.{0x0114,0x0006}
+Pour ma part, j’ai toujours porté ce que Mère[0x000A]me disait de porter...{0xBE01}[0x000A]Du coup, je ne sais pas trop quel genre de look[0x000A]m’irait...{0x0114,0x0006}
+Ah, au fait {0x0100,0x0000}.{0xBE01}[0x000A]Ils m’ont offert ça à la boutique de vêtements.{0x0114,0x0006}
+Je n’ai rien acheté, mais j’ai quand même eu[0x000A]droit à ce cadeau comme j’étais apparemment{0xBE00}[0x000A]la 99 999[0xE0A6] cliente de leur boutique...{0xBE01}[0x000A]Vu que j’ai déjà la même chose chez moi,[0x000A]je me suis dit que ça te serait plus utile.{0x0114,0x0006}
+Et puis comme ça... Ç-ça nous fera une chose[0x000A]en commun, tou{0x1100,0x00FF,0x0200}tes les deux...{0x0114,0x0006}

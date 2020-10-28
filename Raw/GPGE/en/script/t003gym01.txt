@@ -1,0 +1,7 @@
+msg_t003gym01_gym_01=You’re about to challenge the Gym Leader.[0x000A]Do you want a piece of advice?
+msg_t003gym01_gym_02=All right![0x000A]Let’s get this happening!
+msg_t003gym01_gym_03=The first Pokémon out in a battle is the one in[0x000A]the top left of your party.{0xBE01}[0x000A]By changing the order of your Pokémon, you[0x000A]may gain an advantage.{0xBE01}[0x000A]Try leading with different Pokémon to suit your[0x000A]opponent’s team.
+msg_t003gym01_gym_04=It’s a free service![0x000A]Let’s get this happening!
+msg_t003gym01_gym_05=Just as I thought![0x000A]You’re Pokémon champ material!
+msg_t003gym01_statue_01=Pewter City Pokémon Gym[0x000A]Gym Leader: Brock{0xBE01}[0x000A]Certified Trainers:[0x000A]{0x0100,0x0001}
+msg_t003gym01_statue_02=Pewter City Pokémon Gym[0x000A]Gym Leader: Brock{0xBE01}[0x000A]Certified Trainers:[0x000A]{0x0100,0x0001}, {0x0100,0x0000}

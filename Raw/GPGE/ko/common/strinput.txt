@@ -1,0 +1,11 @@
+msg_strinput_01_01=너의 이름은?
+msg_strinput_01_02={0x0101,0x0000}의 닉네임은?
+msg_strinput_01_03=시리얼 코드/암호를 입력해 주십시오
+msg_strinput_01_04=라이벌의 이름은?
+msg_strinput_01_05=이름을 입력해 주십시오
+msg_strinput_NG_00=사용할 수 없는 단어가 있습니다.
+msg_strinput_NG_01={0xBDFF:0x0006}
+msg_strinput_NG_02={0xBDFF:0x0007}
+msg_strinput_NG_04=이름을 입력해 주십시오
+msg_strinput_NG_05=인식할 수 없는 데이터입니다
+msg_strinput_NG_06=“{0x012D,0x0000}”{0x1900,0x0001} 이름에 사용할 수 없습니다

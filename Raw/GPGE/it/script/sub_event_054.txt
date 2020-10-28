@@ -1,0 +1,5 @@
+msg_sub054_old_F_01=Oh, ma che bambin{0x1100,0x00FF,0x0101}oa carin{0x1100,0x00FF,0x0101}oa che sei!
+msg_sub054_old_F_02=Vuoi salire sulla Torre Pokémon?[0x000A]Oh, sei proprio un tesoro...{0xBE00}[0x000A]Ah, mi è venuta un’idea!{0xBE01}[0x000A]Perché non ti metti dei vestiti eleganti?[0x000A]Scommetto che i Pokémon saranno felici{0xBE00}[0x000A]di vederti tutt{0x1100,0x00FF,0x0101}oa in ghingheri!
+msg_sub054_sys_01={0x0100,0x0000} riceve il {0xFF00,0x0006}completo formale{0xFF00,0x0000}[0x000A]dalla signora!
+msg_sub054_sys_02={0x0100,0x0000} ripone il {0xFF00,0x0006}completo formale{0xFF00,0x0000}[0x000A]nella Valigia vestiti!
+msg_sub054_old_F_03=Oh! Allora, ti piace il completo che ti ho dato?{0xBE01}[0x000A]Perdonami, ma mi ricordavi così tanto {0x1100,0x00FF,0x0606}il miola mia[0x000A]nipotin{0x1100,0x00FF,0x0101}oa che ho voluto regalarti un completo{0xBE00}[0x000A]proprio come il suo!

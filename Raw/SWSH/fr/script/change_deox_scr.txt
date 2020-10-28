@@ -1,0 +1,9 @@
+msg_deoxys_01=Deoxys réagit à la météorite...{0xBE01}[0x000A]Voulez-vous approcher votre Deoxys[0x000A]de la météorite ?
+msg_deoxys_02=Quel Deoxys voulez-vous approcher[0x000A]de la météorite ?
+msg_deoxys_03=Ce Pokémon ne réagit pas à la météorite.
+msg_deoxys_04=Un Œuf ne peut pas réagir à la météorite.
+msg_deoxys_05={0x0102,0x0000} a évolué en une forme[0x000A]équilibrée.
+msg_deoxys_06={0x0102,0x0000} a évolué en une forme[0x000A]privilégiant l’Attaque.
+msg_deoxys_07={0x0102,0x0000} a évolué en une forme[0x000A]privilégiant la Défense.
+msg_deoxys_08={0x0102,0x0000} a évolué en une forme[0x000A]privilégiant la Vitesse.
+msg_deoxys_09=Il y a une mystérieuse météorite venue[0x000A]de l’espace...

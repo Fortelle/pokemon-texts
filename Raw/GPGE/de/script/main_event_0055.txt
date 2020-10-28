@@ -1,0 +1,14 @@
+msg_main0055_doctor_01={0xFF00,0x0009}Prof. Eich:{0xFF00,0x0000} Oh, einen Moment![0x000A]Eine Sache wäre da noch.
+msg_main0055_doctor_02=Jetzt, wo ihr richtige Pokémon-Trainer seid,[0x000A]habe ich eine Aufgabe für euch.{0xBE01}[0x000A]Ich möchte, dass ihr etwas auf eure Reise[0x000A]mitnehmt...
+msg_main0055_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Was ist das, Professor?
+msg_main0055_doctor_03=Das, mein Lieber, ist ein Pokédex. Ich habe ihn[0x000A]selbst entworfen!{0xBE01}[0x000A]Darin werden automatisch Daten zu den[0x000A]Pokémon aufgezeichnet, denen ihr auf euren{0xBE00}[0x000A]Abenteuern begegnet.{0xBE01}[0x000A]Er ist eine Art Hightech-Lexikon, das seine[0x000A]Seiten selbst mit Inhalt füllt!
+msg_main0055_doctor_04=Hier, {0x0100,0x0000} und {0x0100,0x0001}.[0x000A]Diese beiden Exemplare schenke ich euch.
+msg_main0055_sys_01=Du erhältst einen {0xFF00,0x0006}Pokédex{0xFF00,0x0000} von Professor Eich!
+msg_main0055_doctor_05={0xFF00,0x0009}Prof. Eich:{0xFF00,0x0000} Die gesamten Daten eines Pokémon[0x000A]erfasst der Pokédex übrigens erst, wenn man es{0xBE00}[0x000A]gefangen hat.{0xBE01}[0x000A]Es reicht also nicht, es nur gesehen zu haben.
+msg_main0055_doctor_06=Wisst ihr, ich träume schon seit einer langen Zeit[0x000A]davon, einmal einen vollständigen Pokédex{0xBE00}[0x000A]in den Händen zu halten.{0xBE01}[0x000A]Informationen zu sämtlichen Pokémon dieser[0x000A]Welt, jederzeit griffbereit...!
+msg_main0055_doctor_09=Aber ich bin inzwischen zu alt, um die[0x000A]unzähligen Pokémon selbst zu fangen.{0xBE01}[0x000A]Solche Abenteuer sind nichts mehr für meine[0x000A]müden Knochen...
+msg_main0055_doctor_10=Deshalb möchte ich, dass ihr zwei meinen Traum[0x000A]verwirklicht und den Pokédex vervollständigt!
+msg_main0055_doctor_07=Mit dieser Arbeit werden wir Geschichte[0x000A]schreiben!{0xBE01}[0x000A]Also macht euch schon auf den Weg,[0x000A]das Abenteuer wartet auf niemanden!
+msg_main0055_rival_02={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Boah, unser eigener Pokédex!{0xBE01}[0x000A]Oh Mann, wir werden auf unserer Reise so vielen[0x000A]Pokémon begegnen... Das wird super!{0xBE01}[0x000A]Ich kann nicht länger warten, ich mach mich[0x000A]gleich auf die Socken!
+msg_main0055_rival_03=Wir sehen uns bestimmt irgendwo draußen,[0x000A]oder? Lass dich nicht hetzen, bis später!
+msg_main0055_doctor_08=Überall in dieser Welt warten Pokémon darauf,[0x000A]von dir entdeckt zu werden, {0x0100,0x0000}!

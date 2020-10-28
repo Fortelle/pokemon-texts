@@ -1,0 +1,16 @@
+msg_main0040_rival_01={0xBDFF:0x0000}
+msg_main0040_doctor_01={0xBDFF:0x0001}
+msg_main0040_doctor_02={0xBDFF:0x0002}
+msg_main0040_doctor_04={0xBDFF:0x0003}
+msg_main0040_doctor_05={0xBDFF:0x0004}
+msg_main0040_doctor_03={0xFF00,0x0009}Oak:{0xFF00,0x0000} ¡Oye! ¡No te vayas aún!
+msg_main0040_rival_02={0xBDFF:0x0006}
+msg_main0040_new_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¡Oiga, profesor!{0xBE01}[0x000A]¿No había dos Poké Balls antes? ¿Por qué ahora[0x000A]hay tres?
+msg_main0040_new_doctor_01={0xFF00,0x0009}Oak:{0xFF00,0x0000} ¡Vaya, qué observador! Pues la tercera es[0x000A]del {0x0101,0x0002} que ha capturado hace nada{0xBE00}[0x000A]{0x0100,0x0000}.
+msg_main0040_new_rival_02={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¿Lo has capturado tú solit{0x1100,0x00FF,0x0101}oa,[0x000A]{0x0100,0x0000}?
+msg_main0040_new_rival_03=¡Guau, qué pasada!
+msg_main0040_new_doctor_02={0xFF00,0x0009}Oak:{0xFF00,0x0000} ¡Ja, ja, ja! ¡Se ve que rebosa energía!
+msg_main0040_new_doctor_04={0x0100,0x0000}, coge la Poké Ball, que no[0x000A]muerde. Vamos, con decisión.
+msg_main0040_new_doctor_03=Venga, ¡llévate a {0x0101,0x0002} de aventuras!
+msg_main0040_new_rival_04=El Pokémon que capturaste debe de estar en la[0x000A]Poké Ball del medio.
+msg_main0040_new_rival_05={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¡Creo que alguien no está de[0x000A]acuerdo con tu elección, ja!

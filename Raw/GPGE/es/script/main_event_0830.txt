@@ -1,0 +1,6 @@
+msg_main0830_fuji_01={0xFF00,0x0009}Sr. Fuji:{0xFF00,0x0000} Bueno, {0x0100,0x0000}...{0xBE01}[0x000A]Completar la Pokédex te va a suponer mucho[0x000A]esfuerzo, y para conseguirlo has de adorar a{0xBE00}[0x000A]los Pokémon, de eso no cabe duda.{0xBE01}[0x000A]No sé de cuánta utilidad te será esto, pero quizá[0x000A]te venga bien para conseguir tu objetivo.
+msg_main0830_sys_01=El Sr. Fuji te ha entregado la {0xFF00,0x0006}Poké Flauta{0xFF00,0x0000}.
+msg_main0830_fuji_02=Hay algunos Pokémon que se despertarán al[0x000A]escuchar el sonido de la Poké Flauta.{0xBE01}[0x000A]Úsala si necesitas abrirle los ojos a alguno que[0x000A]te encuentres por ahí.
+msg_huzi_01_p04_t005_r0101={0xBDFF:0x0003}
+msg_main0830_fuji_03={0xFF00,0x0009}Sr. Fuji:{0xFF00,0x0000} ¿Te ha resultado útil la Poké Flauta?
+msg_main0830_fuji_04={0xBDFF:0x0005}

@@ -1,0 +1,20 @@
+Continue
+{0x0100,0x0000}
+{0x0105,0x0000}
+Pokédex:
+{0x0202,0x0000}
+
+Play time:
+{0x0202,0x0000}
+:
+{0x0201,0x0000}
+Mystery Gift
+Live Competition
+{0xBDFF:0x000C}
+The saved data was erased!
+Would you like to delete all saved data?
+Once the data has been deleted, there is no[0x000A]way to recover it.{0xBE01}[0x000A]Is it really OK to delete this saved data?
+Yes
+No
+There is a gift that you have not received.[0x000A][0x000A]Please start the game and pick up your gift[0x000A]from the deliveryman in any Pokémon Center.
+Initializing the saved data...[0x000A][0x000A]Please don’t turn off the power.

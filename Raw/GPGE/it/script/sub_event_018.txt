@@ -1,0 +1,5 @@
+msg_sub018_rocketm_01=Ehi, tu! Vattene subito![0x000A]Questo giardino è proprietà privata!{0xBE01}[0x000A]Che cosa? Vuoi sapere chi sono io?[0x000A]Sono un semplice passante!{0xBE01}[0x000A]Non sono affatto un tipo losco![0x000A]Cosa c’è, non mi credi?
+msg_sub018_rocketm_02=E va bene...![0x000A]Restituirò la MT che ho rubato!
+msg_sub018_sys_01={0x0100,0x0000} recupera la {0x0109,0x0001}[0x000A]che contiene {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000}!
+msg_sub018_rocketm_03=B-Beh, ora è meglio che vada...![0x000A]Ci vediamo!
+msg_evilm1_01_06={0xBDFF:0x0004}

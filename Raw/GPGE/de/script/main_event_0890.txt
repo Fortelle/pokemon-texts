@@ -1,0 +1,9 @@
+msg_main0890_musasi_01={0xFF00,0x0009}Jessie:{0xFF00,0x0000} Also, das ist doch die Höhe. Lass uns[0x000A]gefälligst durch!!
+msg_main0890_rocketm_01=Nein, nein und nochmals nein!{0xBE01}[0x000A]Ich nehme meinen Wachdienst ernst und habe[0x000A]strikte Anweisungen! Kein Zutritt für Unbefugte!
+msg_main0890_kojiro_01={0xFF00,0x0009}James:{0xFF00,0x0000} Unbefugt? Na, hör mal, wir gehören doch[0x000A]zum selben Team!
+msg_main0890_musasi_02={0xFF00,0x0009}Jessie:{0xFF00,0x0000} Jetzt reicht’s, meine Geduld ist am Ende!
+msg_main0890_musasi_03=Da hast du deine Befugnis!!
+msg_main0890_kojiro_02={0xFF00,0x0009}James:{0xFF00,0x0000} Jessie! Warte auf mich!
+msg_main0890_stop_01=Ich halte hier Wache! Wer nicht befugt ist,[0x000A]den lasse ich nicht durch.{0xBE01}[0x000A]Und schon gar nicht {0x1100,0x00FF,0x0F0A,0x0000}SchnüfflerSchnüfflerinnen wie dich!
+msg_main0890_stop_02=*Blubb...*
+msg_main0890_stop_03=Sieht aus, als wäre er völlig weggetreten.

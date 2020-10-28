@@ -1,0 +1,95 @@
+Checking the GTS’s status...
+The Pokémon you deposited was traded!
+Welcome to the GTS![0x000A]What would you like to do?
+Seek Pokémon
+Deposit Pokémon
+Summary of {0x0102,0x0000}
+Quit the GTS
+Seek Pokémon
+Pokémon you want
+Gender
+Level
+Search with these conditions!
+Options
+Back
+
+You cannot select a gender when you enter[0x000A]a name.
+Searching for the Pokémon you want...
+What kind of Pokémon are you seeking?
+What Pokémon?
+ガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッ[0x000A]
+カキクケコサシスセソタチツテトハヒフヘホハヒフヘホアイウエオツ
+アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワ
+{0x0101,0x0001}
+Please choose its gender.
+Any
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+Please choose its level.
+Any
+1 to 10
+11 to 20
+21 to 30
+31 to 40
+41 to 50
+51 to 60
+61 to 70
+71 to 80
+81 to 90
+91 or higher
+Select options.
+Do you want to include people who are[0x000A]seeking special Pokémon?
+Include
+Don’t include
+Please select who you wish to trade with.
+Lv.
+Searching...[0x000A]Please wait.
+Please select conditions.
+Pokémon the person wants
+Region
+Filter with these conditions.
+Back
+No result was found with these conditions!
+Filter by Pokémon desired.
+Any
+Pokémon you have
+Back
+Filter by region.
+Any
+Same as your region
+Different from your region
+Back
+{0xBDFF:0x003D}
+{0xBDFF:0x003E}
+{0xBDFF:0x003F}
+{0xBDFF:0x0040}
+{0xBDFF:0x0041}
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}
+{0xBDFF:0x0046}
+{0xBDFF:0x0047}
+{0xBDFF:0x0048}
+{0xBDFF:0x0049}
+Message
+Deposit with these conditions.
+Back
+Please choose the Pokémon you want.
+Will you take {0x0102,0x0000}?
+Take back
+{0x0202,0x0000}
+{0x0109,0x0000}
+The GTS is undergoing maintenance.
+The GTS is currently busy.[0x000A]Please try again later.
+The search failed...
+Communication error.
+Unable to connect to the GTS.
+You were disconnected from the GTS.
+No search result was found.
+You must decide which Pokémon you want[0x000A]before depositing your Pokémon.
+Please choose a Pokémon you want.
+{0xBDFF:0x005B}
+This Pokémon has already been traded.
+Your deposited Pokémon came back!
+This Pokémon cannot be offered for trade!

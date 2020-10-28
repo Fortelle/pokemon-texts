@@ -1,0 +1,10 @@
+msg_pl0102_npc1_01=I’m sorry, but only authorized people are allowed[0x000A]to enter here.
+msg_pl0102_npc4_01=It’s time for the first round of the Finals.[0x000A]If you’re ready, please head for the pitch.
+msg_pl0102_npc4_02=It’s time for the semifinal match of the Finals.[0x000A]If you’re ready, please head for the pitch.
+msg_pl0102_npc4_03=It’s time for the final match of the Finals.[0x000A]If you’re ready, please head for the pitch.
+msg_pl0102_npc4_07=Finally...[0x000A]It’s time for the Championship Match!{0xBE01}[0x000A]If you’re ready, please head for the pitch.
+msg_pl0102_npc4_04=It’s time for the Semifinals.[0x000A]I’m very curious about who’ll win among the four{0xBE00}[0x000A]who completed the Gym Challenge.{0xBE01}[0x000A]Oh, when you’re ready, please head for[0x000A]the pitch.
+msg_pl0102_npc4_05=At last, it’s time for the final match of[0x000A]the Semifinals...{0xBE01}[0x000A]Who could’ve imagined that the two Trainers[0x000A]endorsed by the Champion will battle in the{0xBE00}[0x000A]final match...{0xBE01}[0x000A]When you’re ready, please head for the pitch.
+msg_pl0102_npc4_06=It’s the opening ceremony for the Finals!{0xBE01}[0x000A]When you’re ready, please head for the pitch.
+msg_pl0102_npc2_01=The final match for the Semifinals is about[0x000A]to begin!{0xBE01}[0x000A]The ones who’ll battle in this final match are[0x000A]Challengers {0x0100,0x0000} and Hop.{0xBE01}[0x000A]Both are endorsed by the Champion!
+msg_pl0102_npc3_01=I’m a cameraman from Macro Cosmos Television.[0x000A]Sorry...the camera is rolling now.

@@ -1,0 +1,8 @@
+msg_t003r0101_scientist_01_01=Hello.[0x000A]It’s [0xE300]50 for kids.{0xBE01}[0x000A]Would you like to come in?
+msg_t003r0101_scientist_01_02=Come again!
+msg_t003r0101_scientist_01_03=Right, [0xE300]50![0x000A]Thank you!
+msg_t003r0101_scientist_01_04=You don’t have enough money.
+msg_t003r0101_scientist_01_05=Please enjoy yourself.
+msg_t003r0101_scientist_01_06=You can’t sneak in the back way![0x000A]Nice try, kid, but no.{0xBE01}[0x000A]Oh, whatever![0x000A]Do you know what amber is?
+msg_t003r0101_scientist_01_07=There’s a lab somewhere trying to resurrect[0x000A]creatures from amber, which contains{0xBE00}[0x000A]the genetic material of ancient creatures.
+msg_t003r0101_scientist_01_08=Amber is actually sap—that gooey stuff that[0x000A]oozes from trees.{0xBE01}[0x000A]The ancient sap fossilized over time to become[0x000A]rock-hard amber.

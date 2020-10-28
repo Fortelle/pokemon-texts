@@ -1,0 +1,363 @@
+Amici
+Conoscenti
+Passanti
+{0xBDFF:0x0003}
+Scegli le regole
+Lascia la scelta delle regole all’avversario
+Hai cambiato console![0x000A]La lista amici verrà aggiornata!
+{0x0124,0x0000}
+{0x0124,0x0000}...
+{0x0100,0x0000}
+Sfida un giocatore vicino
+Sfida un giocatore in zona
+Sfida un giocatore lontano
+Scambio con un giocatore vicino
+Scambio con un giocatore in zona
+Scambio con un giocatore lontano
+Infrarossi
+Comunicazione locale
+Internet
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+Sì
+No
+{0xBDFF:0x0017}
+Comunica a tutti qualcosa di bello!
+Hai inviato a tutti:[0x000A]“{0x018B,0x0000}”!
+Vuoi cambiare il messaggio[0x000A]“{0x018B,0x0000}”?
+Attendi...
+Quando l’altro giocatore è pronto, allineate[0x000A]i moduli a infrarossi!
+Avete scelto due modalità di gioco diverse!
+Uno dei giocatori deve scegliere le regole[0x000A]della lotta!
+Ora allontanate i moduli a infrarossi[0x000A]e attendete...
+{0xBDFF:0x0020}
+{0xBDFF:0x0021}
+{0xBDFF:0x0022}
+{0xBDFF:0x0023}
+{0xBDFF:0x0024}
+Il numero dei giocatori è troppo alto.[0x000A]Impossibile giocare tutti insieme.
+{0xBDFF:0x0026}
+Chi vuoi scegliere?
+{0xBDFF:0x0028}
+Invita amici o conoscenti
+{0xBDFF:0x002A}
+{0xBDFF:0x002B}
+Questi giocatori saranno invitati alla sfida.[0x000A]Va bene?
+Richiesta di sfida per {0x1100,0x0000,0x0C0C}il tuo amicola tua amica[0x000A]{0x0100,0x0000} in corso.
+Richiesta di sfida per {0x1100,0x0000,0x0606}il tuola tua conoscente[0x000A]{0x0100,0x0000} in corso.
+Richiesta di sfida per {0x1100,0x0000,0x0202}illa passante[0x000A]{0x0100,0x0000} in corso.
+Ricerca di sfidanti per la lotta...
+Vuoi annullare la lotta?
+Gioca con {0x0100,0x0000}!
+Vuoi richiedere una Lotta in Singolo normale?
+Vuoi richiedere una Lotta in Singolo alla pari?
+Vuoi richiedere una Lotta in Singolo senza[0x000A]restrizioni?
+Vuoi richiedere una Lotta in Doppio normale?
+Vuoi richiedere una Lotta in Doppio alla pari?
+Vuoi richiedere una Lotta in Doppio senza[0x000A]restrizioni?
+Vuoi richiedere una Lotta in Triplo normale?
+Vuoi richiedere una Lotta in Triplo alla pari?
+Vuoi richiedere una Lotta in Triplo senza[0x000A]restrizioni?
+Vuoi richiedere una Lotta a Rotazione[0x000A]normale?
+Vuoi richiedere una Lotta a Rotazione[0x000A]alla pari?
+Vuoi richiedere una Lotta a Rotazione senza[0x000A]restrizioni?
+{0xBDFF:0x003F}
+{0xBDFF:0x0040}
+{0xBDFF:0x0041}
+Hai ricevuto il {0x0110,0x0001}[0x000A]dal{0x1100,0x0000,0x0C0A} tuo amicola tua amica {0x0100,0x0000}!
+Hai ricevuto il {0x0110,0x0001}[0x000A]dal{0x1100,0x0000,0x0604} tuola tua conoscente {0x0100,0x0000}!
+Hai ricevuto il {0x0110,0x0001}[0x000A]da {0x0100,0x0000}, un{0x1100,0x0000,0x0100}a passante!
+Hai usato il {0x0110,0x0001}!
+Hai usato il {0x0110,0x0001}[0x000A]di {0x0100,0x0000}!
+{0xBDFF:0x0047}
+Vuoi usare questo potere su[0x000A]{0x0100,0x0000}?
+Il livello del {0x0110,0x0001}[0x000A]è salito!
+{0x0100,0x0000} ha acquisito il[0x000A]{0x0110,0x0001}!
+Vuoi ricevere il Potere O[0x000A]da {0x0100,0x0000}?
+Decidi il tipo di lotta!
+Opzioni della lotta
+Numero giocatori
+Lotta a due
+Lotta a quattro
+Tipo di lotta
+Lotta in Singolo
+Lotta in Doppio
+Lotta in Triplo
+Lotta a Rotazione
+Lotta Multipla
+Regole della lotta
+Normale
+Alla pari
+Senza restrizioni
+{0xBDFF:0x005B}
+Con handicap
+Senza handicap
+Ok
+{0xBDFF:0x005F}
+{0xBDFF:0x0060}
+{0xBDFF:0x0061}
+{0xBDFF:0x0062}
+{0x1100,0x0000,0x0C0C}Il tuo amicoLa tua amica {0x0100,0x0000} ti ha lanciato[0x000A]una sfida!
+{0x0100,0x0000}, un{0x1100,0x0000,0x0504} tuoa tua conoscente,[0x000A]ti ha lanciato una sfida!
+{0x0100,0x0000}, un{0x1100,0x0000,0x0100}a passante,[0x000A]ti ha lanciato una sfida!
+La lotta seguirà queste regole.[0x000A]Va bene?
+L’altro giocatore non può continuare.[0x000A]La lotta è annullata.
+Le condizioni non sono state soddisfatte.[0x000A]Non puoi partecipare.
+{0xBDFF:0x0069}
+{0xBDFF:0x006A}
+Ti sfido a una Lotta in Singolo normale!
+Ti sfido a una Lotta in Singolo alla pari!
+Ti sfido a una Lotta in Singolo senza[0x000A]restrizioni!
+Ti sfido a una Lotta in Doppio normale!
+Ti sfido a una Lotta in Doppio alla pari!
+Ti sfido a una Lotta in Doppio senza restrizioni!
+Ti sfido a una Lotta in Triplo normale!
+Ti sfido a una Lotta in Triplo alla pari!
+Ti sfido a una Lotta in Triplo senza restrizioni!
+Ti sfido a una Lotta a Rotazione normale!
+Ti sfido a una Lotta a Rotazione alla pari!
+Ti sfido a una Lotta a Rotazione senza[0x000A]restrizioni!
+Ti sfido a una Lotta Multipla normale!
+Ti sfido a una Lotta Multipla alla pari!
+Ti sfido a una Lotta Multipla senza restrizioni!
+Preparativi in corso. Attendi...
+{0xBDFF:0x007B}
+{0x0100,0x0000} sta cercando sfidanti!
+Ricerca sfidanti per la Lotta Multipla...
+{0xBDFF:0x007E}
+{0x0100,0x0000}
+: capogruppo
+: chiamata in corso.
+: in attesa...
+Numero di Pokémon
+: senza restrizioni
+: almeno 2
+: almeno 3
+{0xBDFF:0x0087}
+: 3
+: 4
+: 6
+: 1-3
+Livello dei Pokémon
+: tutti al L. 50
+: fino al L. 50
+: senza restrizioni
+Pokémon speciali
+: ammessi
+: non ammessi
+Strumenti uguali
+: ammessi
+: non ammessi
+Pokémon uguali
+: ammessi
+: non ammessi
+Handicap
+: sì
+: no
+{0xBDFF:0x009C}
+{0xBDFF:0x009D}
+Richiesta di scambio per {0x1100,0x0000,0x0C0C}il tuo amicola tua amica[0x000A]{0x0100,0x0000} in corso.
+Richiesta di scambio per {0x1100,0x0000,0x0606}il tuola tua conoscente[0x000A]{0x0100,0x0000} in corso.
+Richiesta di scambio per {0x0100,0x0000},[0x000A]un{0x1100,0x0000,0x0100}a passante, in corso.
+Ricerca di giocatori per lo scambio...
+Vuoi annullare lo scambio?
+{0xBDFF:0x00A3}
+{0xBDFF:0x00A4}
+Vuoi fare uno scambio?
+{0xBDFF:0x00A6}
+{0xBDFF:0x00A7}
+Per fare scambi devi disporre di almeno[0x000A]due Pokémon.
+La tua squadra è al completo e i Box sono[0x000A]pieni. Non puoi fare scambi.
+Hai almeno un Pokémon che non può[0x000A]essere usato.
+L’altro giocatore si è ritirato.[0x000A]Scambio annullato.
+{0x1100,0x0000,0x0C0C}Il tuo amicoLa tua amica {0x0100,0x0000} ti ha inviato una[0x000A]richiesta di scambio!
+{0x0100,0x0000}, un{0x1100,0x0000,0x0504} tuoa tua conoscente,[0x000A]ti ha inviato una richiesta di scambio!
+{0x0100,0x0000}, un{0x1100,0x0000,0x0100}a passante, ti ha inviato[0x000A]una richiesta di scambio!
+{0x0100,0x0000} sta cercando giocatori[0x000A]per uno scambio!
+Ciao! Vuoi fare uno scambio di Pokémon?
+Chiacchiera con {0x0100,0x0000}!
+Vuoi avviare la chat?
+Richiesta di chat per {0x1100,0x0000,0x0C0C}il tuo amicola tua amica[0x000A]{0x0100,0x0000} in corso.
+{0xBDFF:0x00B4}
+{0xBDFF:0x00B5}
+Vuoi annullare la richiesta di chat?
+{0xBDFF:0x00B7}
+Chat con {0x0100,0x0000} in corso!
+Vuoi terminare la chat?
+Chiusura chat in corso.
+{0x0100,0x0000} ha terminato la chat.
+{0x0100,0x0000} ti ha inviato una richiesta[0x000A]di chat!
+Ciao! Chiacchieriamo un po’?
+Preparativi in corso. Attendi...
+L’altro giocatore si è ritirato.[0x000A]Chiusura della chat in corso...
+{0x0100,0x0000} ha messo in condivisione[0x000A]un nuovo videoclip!
+Vuoi vedere il suo videoclip?
+Richiesta di vedere il videoclip del{0x1100,0x0000,0x0C0A} tuo amicola tua amica[0x000A]{0x0100,0x0000} in corso.
+Richiesta di vedere il videoclip del{0x1100,0x0000,0x0604} tuola tua[0x000A]conoscente {0x0100,0x0000} in corso.
+Richiesta di vedere il videoclip del{0x1100,0x0000,0x0200}la passante[0x000A]{0x0100,0x0000} in corso.
+Vuoi annullare il trasferimento del videoclip?
+{0xBDFF:0x00C6}
+{0xBDFF:0x00C7}
+L’altro giocatore non è più disponibile.
+{0x1100,0x0000,0x0C0C}Il tuo amicoLa tua amica {0x0100,0x0000} vuole vedere[0x000A]il tuo videoclip!
+{0x0100,0x0000}, un{0x1100,0x0000,0x0504} tuoa tua conoscente,[0x000A]vuole vedere il tuo videoclip!
+{0x0100,0x0000}, un{0x1100,0x0000,0x0100}a passante, vuole vedere[0x000A]il tuo videoclip!
+Vuoi condividere il tuo videoclip?
+Il videoclip è stato inviato!
+L’altro giocatore non è più disponibile.
+{0x0100,0x0000} usa un Potere O!
+Usa un Potere O!
+Ricevi il Potere O!
+Indietro
+Senza Pokémon non puoi usare i Poteri O!
+{0x018B,0x0000}
+Vuoi aggiungere {0x0100,0x0000}[0x000A]ai preferiti?
+Non hai più spazio libero nei preferiti!
+Vuoi rimuovere {0x0100,0x0000}[0x000A]dai preferiti?
+Totale preferiti: {0x0202,0x0000}/100
+Non hai registrato nessuno nei preferiti. Per[0x000A]aggiungere qualcuno, registra il suo profilo.
+Batteria scarica
+La batteria della tua console[0x000A]è quasi scarica!
+Incontra altri giocatori
+Se sei connesso a Internet o ti trovi[0x000A]in un luogo affollato, potrai[0x000A]incontrare tanti altri giocatori!
+Scegli giocatori
+Se vuoi divertirti con altri giocatori,[0x000A]ti basterà toccare le loro icone.[0x000A]Se vedi qualcuno di interessante,[0x000A]prova a toccare la sua icona!
+Amici
+Gli “amici” sono i giocatori che hai[0x000A]registrato nella lista di amici della[0x000A]tua console. Gioca con loro!
+Conoscenti
+I “conoscenti” sono giocatori con[0x000A]cui hai già giocato qualche volta.[0x000A]Se ci giochi ancora, potrai registrarli[0x000A]nella lista di amici. Gioca con loro!
+Passanti
+I “passanti” sono i giocatori che[0x000A]stanno giocando in tutto il mondo.[0x000A]Se giochi con loro una volta,[0x000A]diventeranno tuoi “conoscenti”.[0x000A]Prova a giocare con loro!
+Scegli cosa fare
+Tocca l’icona del menu e divertiti[0x000A]a lottare con altri giocatori,[0x000A]scambiare Pokémon e molto altro!
+Scambio in link
+Grazie alle funzioni di comunicazione,[0x000A]potrai scambiare Pokémon[0x000A]con molti altri giocatori![0x000A]Vuoi fare uno scambio in link?
+Lotte in link
+Grazie alle funzioni di comunicazione,[0x000A]potrai lottare assieme ai tuoi[0x000A]Pokémon contro molti altri avversari.[0x000A]Vuoi fare una lotta in link?
+Chat
+Puoi usare la chat con i giocatori[0x000A]della categoria “Amici”![0x000A]Prova a fare quattro chiacchiere[0x000A]mentre lotti o scambi Pokémon!
+GTS
+Tramite la GTS potrai scambiare[0x000A]Pokémon con i giocatori di tutto[0x000A]il mondo! Vuoi provare?
+Videoclip
+Toccando l’icona di un giocatore,[0x000A]potrai vedere il suo videoclip!
+{0xBDFF:0x00F2}
+{0xBDFF:0x00F3}
+Potere O
+Hai accumulato dei Poteri O.[0x000A]Ti saranno utili nell’avventura![0x000A]Vuoi usarli su te stess{0x1100,0x00FF,0x0101}oa[0x000A]o su un altro giocatore?
+Preferiti
+Nei “Preferiti” puoi[0x000A]salvare fino a 100 profili![0x000A]Vuoi dare un’occhiata?
+Firmallegra
+Ti è capitato qualcosa di divertente?[0x000A]Sei di buon umore? Allora...[0x000A]tocca l’icona “Firmallegra” e[0x000A]comunica a tutti come ti senti![0x000A]Vuoi dire qualcosa agli altri?
+Gioca su Internet
+Grazie a Internet, potrai divertirti[0x000A]assieme a giocatori di tutto il mondo![0x000A]Vuoi connetterti ora?
+Sincrogioco
+Con il Sincrogioco, potrai connetterti[0x000A]a Internet e accedere alle funzioni[0x000A]del Pokémon Global Link.[0x000A]Vuoi provare il Sincrogioco?
+{0xBDFF:0x00FE}
+{0xBDFF:0x00FF}
+{0xBDFF:0x0100}
+{0xBDFF:0x0101}
+Punto Lotta
+Il Punto Lotta è un luogo in cui[0x000A]si ritrovano Allenatori di tutto[0x000A]il mondo pronti alla lotta![0x000A]Vuoi provare a sfidarli?
+Profilo
+Rispondi al questionario e[0x000A]aggiorna il tuo profilo!
+Impostazioni
+Puoi cambiare le impostazioni[0x000A]di comunicazione del PSS.[0x000A]Vuoi vedere le impostazioni attuali?
+Holovox
+Hai un nuovo messaggio![0x000A]Vuoi controllare l’Holovox?
+Scambio prodigioso
+Scambia Pokémon con altri giocatori[0x000A]in tutto il mondo in modo del tutto[0x000A]casuale! Riceverai un Pokémon[0x000A]a sorpresa! Vuoi provare?
+{0xBDFF:0x010C}
+{0xBDFF:0x010D}
+{0xBDFF:0x010E}
+{0xBDFF:0x010F}
+{0xBDFF:0x0110}
+{0xBDFF:0x0111}
+{0xBDFF:0x0112}
+{0xBDFF:0x0113}
+{0xBDFF:0x0114}
+{0xBDFF:0x0115}
+{0xBDFF:0x0116}
+Rimuovere {0x0100,0x0000}[0x000A]dai conoscenti?
+{0x0100,0x0000} non è più tra i conoscenti.
+{0xBDFF:0x0119}
+{0xBDFF:0x011A}
+Lotte
+Scambi
+Punto Lotta
+Profilo
+Preferiti
+Firmallegra
+GTS
+Poteri O
+Holovox
+Sincrogioco
+Scambio[0x000A]prodigioso
+Impostazioni
+Chat
+Videoclip
+WOW!
+Auguri!
+{0x1100,0x0000,0x0C0C}Il tuo amicoLa tua amica {0x0100,0x0000} ti ha augurato buon compleanno!
+{0x1100,0x0000,0x0606}Il tuoLa tua conoscente {0x0100,0x0000} ti ha augurato buon compleanno!
+{0x0100,0x0000}, un{0x1100,0x0000,0x0100}a passante, ti ha augurato buon compleanno!
+{0x1100,0x0000,0x0C0C}Il tuo amicoLa tua amica {0x0100,0x0000} ti ha mandato un WOW!
+{0x1100,0x0000,0x0606}Il tuoLa tua conoscente {0x0100,0x0000} ti ha mandato un WOW!
+{0x0100,0x0000}, un{0x1100,0x0000,0x0100}a passante, ti ha mandato un WOW!
+{0xBDFF:0x0131}
+Impostazioni
+Richieste di comunicazione
+{0xBDFF:0x0134}
+Disattiva comunicazione PSS
+Videoclip: {0xFF00,0x0002}Pubblico{0xFF00,0x0000}
+Videoclip: {0xFF00,0x0001}Privato{0xFF00,0x0000}
+Chat: {0xFF00,0x0002}Attivata{0xFF00,0x0000}
+Chat: {0xFF00,0x0001}Disattivata{0xFF00,0x0000}
+Scegli con chi vuoi giocare tramite le funzioni[0x000A]di comunicazione.
+Selezionando questa opzione, riceverai inviti[0x000A]dagli amici. Va bene?
+In questo modo non riceverai più inviti[0x000A]dagli amici. Va bene?
+Selezionando questa opzione, riceverai inviti[0x000A]dai conoscenti. Va bene?
+In questo modo non riceverai più inviti[0x000A]dai conoscenti. Va bene?
+Selezionando questa opzione, riceverai inviti[0x000A]dai passanti. Va bene?
+In questo modo non riceverai più inviti[0x000A]dai passanti. Va bene?
+La comunicazione PSS verrà disattivata[0x000A]e non potrai usare il PSS. Va bene?
+La comunicazione PSS è disattivata.[0x000A]Le funzioni di comunicazione della console[0x000A]Nintendo 3DS sono adesso attive.
+Riattiva la comunicazione PSS
+Scegli se rendere il tuo videoclip[0x000A]pubblico o privato.
+Pubblico
+Privato
+Tramite la chat, potrai parlare[0x000A]con i tuoi amici.[0x000A]Vuoi attivare la chat?
+Attiva
+Disattiva
+Vuoi attivare la chat quando[0x000A]giochi con questo giocatore?
+Vuoi disattivare la chat quando[0x000A]giochi con questo giocatore?
+Il filtro famiglia impedisce di[0x000A]modificare le impostazioni della chat.
+Hai mandato un WOW a {0x0100,0x0000}!
+Hai fatto gli auguri a {0x0100,0x0000}!
+La comunicazione wireless è disattivata.
+Vuoi attivare la chat?
+Una volta trovato un amico, vuoi attivare[0x000A]la chat?
+Le impostazioni della console dell’altro[0x000A]giocatore impediscono di usare la chat.
+Il filtro famiglia impedisce di connettersi[0x000A]a Internet.
+???
+Inserisci il PIN per rimuovere il filtro famiglia.
+Per poter usare questa funzione, il genitore[0x000A]o tutore deve impostare la Child Online[0x000A]Privacy Protection nella sezione Filtro famiglia[0x000A]nelle Impostazioni della console.
+{0xBDFF:0x0157}
+Il PIN non è corretto.[0x000A]Impossibile usare la chat.
+La sfida con questo giocatore seguirà[0x000A]le regole di Kalos. Continuare?
+Regole di Kalos
+Le regole di Kalos vengono applicate[0x000A]quando si sfidano Allenatori che stanno[0x000A]giocando a Pokémon X e Pokémon Y.[0x000A][0x000A]Quando si lotta con queste regole,[0x000A]non si possono usare i nuovi strumenti[0x000A]e le nuove mosse aggiunti in Pokémon[0x000A]Rubino Omega e Pokémon Zaffiro Alpha.
+Individuati strumenti o mosse che non[0x000A]si possono usare con le regole di Kalos.
+Info
+Indietro
+Box Lotta
+Squadra
+Non ammessi
+Non ammessi
+Requisiti non raggiunti. Impossibile lottare[0x000A]secondo le regole di Kalos.
+Quando l’Allenatore che guida il gruppo[0x000A]è pronto, allineate i moduli a infrarossi.
+Preparativi in corso.[0x000A]Attendi...
+Quando i membri del gruppo sono pronti,[0x000A]allineate i moduli a infrarossi.
+Giocatori con cui devi ancora allineare[0x000A]i moduli a infrarossi: {0x0200,0x0000}
+Codice amico:
+La sfida con questi partecipanti seguirà[0x000A]le regole di Kalos. Continuare?
+Pokémon insufficienti.

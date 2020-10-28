@@ -1,0 +1,15 @@
+Do you have any Pokémon from an[0x000A]Island Kahuna?{0xBE01}[0x000A]It doesn’t matter if it’s evolved into something[0x000A]else since then.{0xBE01}[0x000A]As long as it’s a Fire-, Water-, or Grass-type[0x000A]Pokémon from a kahuna, and it’s really friendly{0xBE00}[0x000A]toward you, I’ll teach it a special move—a{0xBE00}[0x000A]battle-combo move.
+A special move...{0xBE01}[0x000A]Shall I teach your Pokémon a[0x000A]battle-combo move?
+There is no move that I can teach to any of the[0x000A]Pokémon you are with...
+I see...[0x000A]Well, see you next time.
+Which Pokémon will it be then?
+That Pokémon can’t learn a move from me.
+Do you want me to teach my move to an Egg?![0x000A]You are being unreasonable.
+This Pokémon... It doesn’t look like it’s too[0x000A]comfortable with you yet.
+That Pokémon already knows one of my moves.
+Do you want me to teach {0x0101,0x0000}[0x000A]{0x0107,0x0001}?
+My favorite Pokémon are all of the Pokémon[0x000A]you can get from professors and a kahuna.{0xBE01}[0x000A]I teach special moves—battle-combo moves—to[0x000A]those Pokémon and the Pokémon that evolve{0xBE00}[0x000A]from them. That’s what I do!
+Please choose a move that will be replaced[0x000A]with {0x0107,0x0000}.
+{0x0102,0x0000} learned[0x000A]{0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+1, {0xBE02:0x0014}2, and{0xBE02:0x0014}... {0xBE02:0x0014}... {0xBE02:0x0014}... Ta-da!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} forgot how to[0x000A]use {0x0107,0x0001}.{0xBE01}[0x000A]And...{0xBE01}[0x000A]{0x0102,0x0000} learned[0x000A]{0x0107,0x0002}!{0xBE05,0x0004}{0xBE05,0x0001}
+{0x0102,0x0000} did not learn[0x000A]{0x0107,0x0001}.

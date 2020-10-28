@@ -1,0 +1,24 @@
+Badges :
+
+{0x0200,0x0000}
+Pokédex :
+
+{0x0202,0x0000}
+Temps de jeu :
+{0x0202,0x0000}
+{0x0201,0x0000}
+Dernière sauvegarde
+:
+{0x0201,0x0002}/{0x0201,0x0001}/{0x0203,0x0000,0x0000}
+{0x0201,0x0000}
+{0x0201,0x0000}
+{0x0105,0x0000}
+Voulez-vous sauvegarder la partie[0xE07F]?
+Sauvegarde en cours…[0x000A]Ne pas éteindre la console.
+{0x0100,0x0000} a sauvegardé la partie.
+Une autre partie est déjà sauvegardée.[0x000A]Sauvegarde impossible.{0xBE01}[0x000A]Veuillez vous référer au mode d’emploi[0x000A]pour plus d’informations.
+Échec de la sauvegarde.
+Synchro-Jeu en cours[0xE08D][0x000A]Ne pas éteindre la console.
+Le serveur est surchargé.[0x000A]Interruption de la Synchro-Jeu[0xE08D]
+{0xBDFF:0x0016}
+Les données nécessaires à la connexion[0x000A]Internet ont été obtenues.{0xBE01}[0x000A]Voulez-vous sauvegarder la partie[0xE07F]?

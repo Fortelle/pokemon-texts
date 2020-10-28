@@ -1,0 +1,6 @@
+msg_ui_tournament_01={0x0100,0x0000}
+msg_ui_tournament_10=Laissez-moi vous présenter nos participants...{0xBE01}
+msg_ui_tournament_11=Voici les résultats du 1ᵉʳ round !{0xBE01}
+msg_ui_tournament_12=Voici les résultats du 2ᵉ round !{0xBE01}
+msg_ui_tournament_13=Les résultats du dernier round sont arrivés !{0xBE01}
+msg_ui_tournament_14=Voici les résultats du 2ᵉ round !{0xBE01}[0x000A]Quel match, mes amis ![0x000A]Roy n’a fait qu’une bouchée de Peterson !{0xBE01}

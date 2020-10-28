@@ -1,0 +1,207 @@
+<var>
+<var>
+♂
+♀
+-
+Lv. 
+<var>
+Pokédex-Nr.
+<var>
+???
+KP
+<var>
+/
+<var>
+Angriff
+<var>
+Vert.
+<var>
+Sp.-Ang.
+<var>
+Sp.-Vert.
+<var>
+Initiative
+<var>
+Wesen
+<var>
+Fähigkeit
+<var>
+Item
+<var>
+Attacken
+<var>
+<var>
+<var>
+<var>
+<var>
+Kampfbox
+Ablegen
+Mitnehmen
+Bewegen
+Item
+Bericht
+Markieren
+Box wechseln
+Motiv
+Name
+Hintergründe 1
+Hintergründe 2
+Hintergründe 3
+Sonstige
+Spezialmotive
+Wald
+Stadt
+Wüste
+Steppe
+Geröll
+Vulkan
+Schnee
+Höhle
+Strand
+Tiefsee
+Fluss
+Himmel
+Poké-Center
+Metall
+Kariert
+Weiß
+Spezialmotiv 1
+Spezialmotiv 2
+Spezialmotiv 3
+Spezialmotiv 4
+Spezialmotiv 5
+Spezialmotiv 6
+Spezialmotiv 7
+Spezialmotiv 8
+Weiter
+Vorherige
+Zurück
+O.K.
+Beutel
+Geben
+Freilassen
+Zurück
+Ja
+Nein
+Weiter bearbeiten?
+Was soll mit <var> geschehen?
+
+Du benötigst ein kampffähiges Pokémon!
+Wo ablegen?
+Die Box ist voll!
+Dein Team ist voll!
+Eine Box wurde ausgewählt. Was nun?
+Zu welcher Box springen?
+Wähle eine Motivkategorie.
+Wähle ein Hintergrundmotiv.
+<var> an dich nehmen?
+Du hast keinen Platz dafür!
+<var> im Beutel verstaut.
+Ein Ei kann kein Item tragen!
+Wähle eine Markierung aus.
+Dieses Pokémon wirklich freilassen?
+<var> ist wieder frei.
+Mach's gut, <var>!
+<var> ausgewählt. Was nun?
+Du kannst diesem Pokémon ein Item geben.
+Du kannst kein Ei freilassen!
+Die Kampfbox wurde abgeriegelt. Pokémon können nicht freigelassen werden.
+Du kannst kein fusioniertes Kyurem freilassen!
+<var> ist zurückgekommen!
+War es in Sorge um dich?
+Keine Änderung in der Kampfbox möglich.
+Was soll mit <var> geschehen?
+Tausch
+Ablegen
+Zurück
+Das Pokémon verfügt über eine wichtige Attacke und kann nicht getauscht werden.
+Wenn du dieses Pokémon tauschst, kannst du dein Abenteuer nicht fortsetzen!
+Dieses Pokémon kann nicht getauscht werden.
+Dieses Pokémon zum Tausch anbieten?
+Ja
+Nein
+Ein Ei kann nicht zum Tausch angeboten werden.
+<var>
+Es kann kein Ei abgelegt werden.
+Die Kampfbox wurde abgeriegelt. Pokémon können nicht bewegt werden.
+Die Kampfbox wurde abgeriegelt. Zugriff auf Items nicht möglich.
+Registriere Pokémon für Kämpfe.
+Die Kampfbox wurde abgeriegelt. Pokémon können nicht markiert werden.
+Neu
+Suchen
+Zurück
+Pokémon
+<var>
+Typ 1
+<var>
+Typ 2
+<var>
+Attacke
+<var>
+TM & VM
+<var>
+Fähigkeit
+<var>
+Wesen
+<var>
+Geschlecht
+♂
+♀
+?
+-
+Item
+<var>
+Markierung
+Trägt ein Item
+Trägt kein Item
+Wähle deine Filterkriterien und bestätige mit „Suchen", um den Filtervorgang zu starten!
+Pokémon
+Gib den Anfangsbuchstaben des gewünschten Pokémon-Namens ein.
+Wähle ein Pokémon.
+Wähle Typ 1.
+Wähle Typ 2.
+Gib den Anfangsbuchstaben der gewünschten Attacke ein.
+Suche nach Pokémon, auf die eine bestimmte TM/VM angewendet werden kann.
+Wähle das gewünschte Wesen.
+Gib den Anfangsbuchstaben der gewünschten Fähigkeit ein.
+Wähle das Geschlecht des Pokémon aus.
+Wähle, ob bei der Suche ausschließlich Pokémon mit oder ohne Items berücksichtigt werden sollen.
+Suche nach Pokémon, die du mit einer Markierung versehen hast.
+<var>
+<var>
+<var>
+
+<var>
+<var>
+<var>
+Alle Statuswerte steigen in gleichem Maße.
+Erleichtert Training des Angriffs-Werts. Erschwert Training des Verteidigungs-Werts.
+Erleichtert Training des Angriffs-Werts. Erschwert Training der Initiative.
+Erleichtert Training des Angriffs-Werts. Erschwert Training des Sp.-Ang.-Werts.
+Erleichtert Training des Angriffs-Werts. Erschwert Training des Sp.-Vert.-Werts.
+Erleichtert Training des Vert.-Werts. Erschwert Training des Angriffs-Werts.
+Alle Statuswerte steigen in gleichem Maße.
+Erleichtert Training des Vert.-Werts. Erschwert Training der Initiative.
+Erleichtert Training des Vert.-Werts. Erschwert Training des Sp.-Ang.-Werts.
+Erleichtert Training des Vert.-Werts. Erschwert Training des Sp.-Vert.-Werts.
+Erleichtert Training der Initiative. Erschwert Training des Angriffs-Werts.
+Erleichtert Training der Initiative. Erschwert Training des Vert.-Werts.
+Alle Statuswerte steigen in gleichem Maße.
+Erleichtert Training der Initiative. Erschwert Training des Sp.-Ang.-Werts.
+Erleichtert Training der Initiative. Erschwert Training des Sp.-Vert.-Werts.
+Erleichtert Training des Sp.-Ang.-Werts. Erschwert Training des Angriffs-Werts.
+Erleichtert Training des Sp.-Ang.-Werts. Erschwert Training des Vert.-Werts.
+Erleichtert Training des Sp.-Ang.-Werts. Erschwert Training der Initiative.
+Alle Statuswerte steigen in gleichem Maße.
+Erleichtert Training des Sp.-Ang.-Werts. Erschwert Training des Sp.-Vert.-Werts.
+Erleichtert Training des Sp.-Vert.-Werts. Erschwert Training des Angriffs-Werts.
+Erleichtert Training des Sp.-Vert.-Werts. Erschwert Training des Vert.-Werts.
+Erleichtert Training des Sp.-Vert.-Werts. Erschwert Training der Initiative.
+Erleichtert Training des Sp.-Vert.-Werts. Erschwert Training des Sp.-Ang.-Werts.
+Alle Statuswerte steigen in gleichem Maße.
+Ein besonderes Pokémon wie dieses kann nicht zum Tausch angeboten werden!
+Wähle eine Attacke.
+Wähle eine Fähigkeit.
+Dieses Pokémon kann nicht getauscht werden, da es ein besonderes Item bei sich trägt.
+OT
+<var>

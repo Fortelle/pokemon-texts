@@ -1,0 +1,8 @@
+sub_event_009_doctor_01=Bravo pour ton titre de Maître ! Je suis venue[0x000A]te remettre un petit cadeau pour te féliciter.{0x0114,0x000A}
+sub_event_009_mama_01=Professeure Magnolia ! C’est gentil à vous[0x000A]d’avoir fait le déplacement !{0x0114,0x0008}
+sub_event_009_doctor_02=C’est bien la moindre des choses, après tout[0x000A]ce qu’a fait {0x0100,0x0000} pour nous.{0x0114,0x000A}
+sub_event_009_doctor_03=Quand je pense que les Étoiles Vœu que nous[0x000A]utilisions pour dynamaxer les Pokémon étaient{0xBE00}[0x000A]en fait des morceaux du corps d’Éthernatos...{0xBE01}[0x000A]Je comprends mieux pourquoi l’énergie[0x000A]du Dynamax s’est déversée sur la région{0xBE00}[0x000A]quand Éthernatos s’est réveillé.{0x0114,0x000A}
+sub_event_009_doctor_04=Si {0x0100,0x0000} et ses amis n’avaient pas[0x000A]été là, les Pokémon Dynamax auraient{0xBE00}[0x000A]plongé Galar dans le chaos !{0x0114,0x000A}
+sub_event_009_doctor_05=Cela étant dit, le Dynamax fait partie intégrante[0x000A]de la culture de Galar.{0xBE01}[0x000A]Il est à espérer que tout un chacun utilise[0x000A]ce pouvoir à bon escient...{0x0114,0x000A}
+sub_event_009_doctor_06=Sur ce, je te laisse, {0x0100,0x0000}.[0x000A]Suis le chemin que t’indique ton cœur...{0x0114,0x000A}
+sub_event_009_mama_02=Cette chère Professeure Magnolia a tant étudié[0x000A]le Dynamax... Pas étonnant que les actions{0xBE00}[0x000A]du président de la Ligue la troublent tant.{0x0114,0x0008}

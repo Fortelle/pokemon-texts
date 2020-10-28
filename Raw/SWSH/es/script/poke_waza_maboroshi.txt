@@ -1,0 +1,17 @@
+poke_waza_maboroshi_01_01=Mi cometido ha sido siempre el de enseñar[0x000A]movimientos a los Pokémon conocidos como{0xBE00}[0x000A]singulares.{0xBE01}[0x000A]Me pillas de vacaciones, pero podría hacer una[0x000A]excepción y enseñarle un movimiento a alguno{0xBE00}[0x000A]de tus Pokémon. ¿Qué te parece?
+poke_waza_maboroshi_01_02=Hala... ¡Veo que tu Pokémon ya conoce ese[0x000A]movimiento!
+poke_waza_maboroshi_01_03=Si tienes a Keldeo o a Meloetta en tu equipo,[0x000A]puedo enseñarles movimientos.
+poke_waza_maboroshi_01_04=¿Quieres que le enseñe un movimiento a[0x000A]algún Pokémon de tu equipo?
+poke_waza_maboroshi_01_05=Bueno, pues si cambias de opinión, aquí me[0x000A]tienes.
+poke_waza_maboroshi_01_06=Lo siento de veras.{0xBE01}[0x000A]Soy incapaz de enseñarle un movimiento a un[0x000A]Huevo.
+poke_waza_maboroshi_01_07=Ese Pokémon no puede aprender el movimiento[0x000A]que yo le iba a enseñar.
+poke_waza_maboroshi_01_08=Ese Pokémon ya conoce el movimiento que[0x000A]puedo enseñarle.
+poke_waza_maboroshi_01_09=A ese Pokémon no le queda ni un poquito de[0x000A]energía para combatir.
+poke_waza_maboroshi_01_10=¡{0x0102,0x0000} ha aprendido[0x000A]{0x0107,0x0001}!
+poke_waza_maboroshi_01_11=¡Anda![0x000A]¡{0x0102,0x0000} está cambiando!
+poke_waza_maboroshi_01_12=¡{0x0102,0x0000} ha resuelto plantar batalla con[0x000A]ansias renovadas y ha adoptado la Forma Brío!
+poke_waza_maboroshi_sys_01=Selecciona el movimiento que quieres sustituir[0x000A]por {0x0107,0x0000}.
+poke_waza_maboroshi_sys_02=¡{0x0102,0x0000} ha aprendido[0x000A]{0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+poke_waza_maboroshi_sys_03=1, {0xBE02:0x0014}2 y... {0xBE02:0x0014}¡puf!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} ha olvidado cómo utilizar[0x000A]{0x0107,0x0001} y...{0xBE01}[0x000A]¡Ha aprendido {0x0107,0x0002}!{0xBE05,0x0004}{0xBE05,0x0001}
+poke_waza_maboroshi_sys_04={0x0102,0x0000} no ha aprendido[0x000A]{0x0107,0x0001}.
+poke_waza_maboroshi_01_13=¿A qué Pokémon quieres que le enseñe el[0x000A]movimiento?

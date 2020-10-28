@@ -1,0 +1,12 @@
+msg_main8040_esper_01=Eccoti! Sapevo che saresti arrivat{0x1100,0x00FF,0x0101}oa!
+msg_main8040_esper_06=Già da bambina avevo poteri paranormali.{0xBE01}[0x000A]Tutto è iniziato quando ho imparato a piegare[0x000A]i cucchiai col pensiero.
+msg_main8040_esper_07=Non mi piace lottare, ma se proprio desideri...
+msg_main8040_esper_08=Ti mostrerò i miei poteri!
+msg_gymleader_06_02={0xBDFF:0x0004}
+msg_main8040_esper_02=Come prova della tua vittoria,[0x000A]ti conferisco la Medaglia Palude!
+msg_main8040_sys_01={0x0100,0x0000} riceve la {0xFF00,0x0006}Medaglia Palude{0xFF00,0x0000}[0x000A]da Sabrina!
+msg_main8040_esper_03=Con la Medaglia Palude, i Pokémon[0x000A]fino al livello {0x0201,0x0004} ricevuti da qualcun altro{0xBE00}[0x000A]seguiranno le tue indicazioni.{0xBE01}[0x000A]Aspetta... Prendi anche questa MT!
+msg_main8040_sys_02={0x0100,0x0000} riceve la {0x0109,0x0001}[0x000A]che contiene {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000} da Sabrina!
+msg_main8040_esper_04=La MT33 contiene Calmamente!{0xBE01}[0x000A]Il Pokémon che usa questa mossa si concentra,[0x000A]aumentando il proprio Attacco Speciale{0xBE00}[0x000A]e la propria Difesa Speciale!
+msg_main8040_esper_05=I poteri paranormali non sono poteri[0x000A]speciali riservati a pochi fortunati...{0xBE01}[0x000A]Tutti li hanno![0x000A]Solo che non se ne rendono conto.
+msg_gymleader_06_07={0xBDFF:0x000B}

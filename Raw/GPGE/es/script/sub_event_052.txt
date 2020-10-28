@@ -1,0 +1,12 @@
+msg_sub052_researcher_01=¡Hola! ¿Te acuerdas de mí? Trabajo como[0x000A]ayudante del Profesor Oak.{0xBE01}[0x000A]Si logras registrar en la Pokédex 50 especies[0x000A]diferentes de Pokémon, te entregaré un {0xFF00,0x0006}objeto{0xFF00,0x0000}{0xBE00}[0x000A]{0xFF00,0x0006}maravilloso{0xFF00,0x0000} que te será de gran utilidad.{0xBE01}[0x000A]Al menos es lo que me encargó el profesor.[0x000A]Dime, ¿has logrado atrapar al menos 50?
+msg_sub052_researcher_02=Has logrado atrapar {0x0202,0x0004} especies distintas.{0xBE01}[0x000A]¡Muy bien hecho! Aquí tienes el objeto tan[0x000A]maravilloso del que te he hablado.
+msg_sub052_researcher_03=¿Eh? ¿Dónde lo he metido? No, no puedo[0x000A]haberlo perdido...
+msg_sub052_researcher_04=Ay, no sé qué hacer... No tengo nada que darte.[0x000A]Ah, ¡se me ocurre una idea!
+msg_sub052_researcher_05=¡Tacháaan!
+msg_sub052_researcher_06=Uf, uf... Toma esto.
+msg_sub052_sys_01=El ayudante te ha hecho entrega de un[0x000A]{0xFF00,0x0006}Conjunto de Ayudante{0xFF00,0x0000}.
+msg_sub052_sys_02=Has puesto el {0xFF00,0x0006}Conjunto de Ayudante{0xFF00,0x0000} en la[0x000A]Maleta.
+msg_sub052_researcher_07=Mira, le he hecho un arreglillo a mi bata de[0x000A]laboratorio para que os quede bien tanto a ti{0xBE00}[0x000A]como al Pokémon que te acompañe.{0xBE01}[0x000A]No la estropees, por favor, que le tengo mucho[0x000A]cariño.
+msg_sub052_researcher_08=Ahora parezco una persona normal y corriente,[0x000A]por lo que solo tú sabes que soy ayudante del{0xBE00}[0x000A]Profesor Oak. ¡No lo olvides nunca!
+msg_sub052_researcher_09=A ver, a ver... Pues ya has capturado...{0xBE01}[0x000A]¿Eh? Tan solo {0x0202,0x0004} Pokémon.{0xBE01}[0x000A]No has llegado aún a 50, así que me guardo por[0x000A]ahora el {0xFF00,0x0006}objeto maravilloso{0xFF00,0x0000} del que te hablé.
+msg_sub052_researcher_10=Aún no has capturado 50 Pokémon diferentes,[0x000A]así que me guardo el {0xFF00,0x0006}objeto maravilloso{0xFF00,0x0000}.

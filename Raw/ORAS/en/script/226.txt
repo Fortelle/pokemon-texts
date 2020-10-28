@@ -1,0 +1,70 @@
+H-help me!
+Halloo! You over there![0x000A]Please! Help me out!{0xBE01}[0x000A]In my Bag![0x000A]There are some Poké Balls!
+Wh-where are you going?![0x000A]Don’t leave me like this!
+Whew...{0xBE01}[0x000A]I went into the tall grass to survey wild[0x000A]Pokémon when I was suddenly jumped!{0xBE01}[0x000A]You saved my hide. Thanks a lot!
+Oh?{0xBE01}[0x000A]But you’re Norman’s boy, {0x0100,0x0000}!{0xBE01}[0x000A]I didn’t even realize who you were at first.[0x000A]You’ve grown into quite the young man.{0xBE01}[0x000A]This isn’t the place for a chat, though.[0x000A]Come along to my lab.
+Oh?{0xBE01}[0x000A]But you’re Norman’s girl, {0x0100,0x0000}!{0xBE01}[0x000A]I didn’t even realize who you were at first.[0x000A]You’ve grown into quite the young lady.{0xBE01}[0x000A]This isn’t the place for a chat, though.[0x000A]Come along to my lab.
+If your Pokémon get tired, take[0x000A]them to a Pokémon Center.{0xBE01}[0x000A]There’s a Pokémon Center in[0x000A]Oldale Town right close by.
+Wild Pokémon will jump out at you[0x000A]when you’re walking in the tall grass.{0xBE01}[0x000A]So dive right in when you’re trying to[0x000A]find that Pokémon you want to catch!
+Route 101[0x000A]↑ Oldale Town
+The wild Poochyena fled!
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+{0x0100,0x0000}!
+{0x0100,0x0000}!
+This is from my dad.[0x000A]He said he forgot to give it to you before.
+This is from my dad.[0x000A]He said he forgot to give it to you before.
+Your PokéNav Plus[0x000A]has been updated!{0xBE01}[0x000A]The DexNav function has been[0x000A]added to your PokéNav Plus!
+The app I just added to your PokéNav Plus[0x000A]is called the DexNav.
+The app I just added to your PokéNav Plus[0x000A]is called the DexNav.
+It can tell you lots about the Pokémon living in[0x000A]each area and that kind of stuff.{0xBE01}[0x000A]It’s a handy app to have if you’re trying to catch[0x000A]lots of different Pokémon.
+It can tell you lots about the Pokémon living in[0x000A]each area and that kind of stuff.{0xBE01}[0x000A]It’s a handy app to have if you’re trying to catch[0x000A]lots of different Pokémon.
+Guess it’s about time I use the DexNav to[0x000A]do a little more catching myself!{0xBE00}[0x000A]I’m gonna head that way and see what I find.{0xBE01}[0x000A]{0x0100,0x0000}, you should use those Poké Balls[0x000A]I gave you earlier to do a bit of catching, too!
+All right! Guess it’s about time I use the DexNav[0x000A]to do some more Pokémon catching myself!{0xBE01}[0x000A]{0x0100,0x0000}, you should use those Poké Balls[0x000A]I gave you earlier to do a bit of catching, too!
+Hey, {0x0100,0x0000}! Over here!
+{0x0100,0x0000}! Over here!
+See that? Right there?[0x000A]There’s a tail sticking out!{0xBE00}[0x000A]There’s a Pokémon hiding there!
+See that? Right there?[0x000A]There’s a tail sticking out!{0xBE00}[0x000A]There’s a Pokémon hiding there!
+And look here, if you check your DexNav...{0xBE01}[0x000A]Score! It looks like that Pokémon knows[0x000A]a pretty rare move, too!
+And look here, if you check your DexNav...{0xBE01}[0x000A]All right! It looks like that Pokémon knows[0x000A]a pretty rare move, too!
+{0x0100,0x0000}!{0xBE01}[0x000A]Try getting closer, real nice and slow!{0xBE01}[0x000A]{0xFF00,0x0002}Push lightly on the Circle Pad to sneak{0xFF00,0x0000}[0x000A]{0xFF00,0x0002}close to Pokémon hiding in the grass.{0xFF00,0x0000}{0xBE00}[0x000A]That’s what it said in some book.
+{0x0100,0x0000}!{0xBE01}[0x000A]Try getting closer, real nice and slow!{0xBE01}[0x000A]{0xFF00,0x0002}Push lightly on the Circle Pad to sneak{0xFF00,0x0000}[0x000A]{0xFF00,0x0002}close to Pokémon hiding in the grass.{0xFF00,0x0000}{0xBE00}[0x000A]That’s what it said in a book I read!
+You’re almost there...!{0xBE01}[0x000A]Slowly...slooowly...{0xBE01}[0x000A]Remember...{0xFF00,0x0002}you press lightly{0xFF00,0x0000}[0x000A]{0xFF00,0x0002}on the Circle Pad to sneak{0xFF00,0x0000}!
+You’re almost there...!{0xBE01}[0x000A]Slowly...slooowly...{0xBE01}[0x000A]Remember...{0xFF00,0x0002}you press lightly{0xFF00,0x0000}[0x000A]{0xFF00,0x0002}on the Circle Pad to sneak{0xFF00,0x0000}!
+That was awesome, {0x0100,0x0000}!{0xBE01}[0x000A]I’ve been at this way longer than you,[0x000A]and even I have a hard time sneaking{0xBE00}[0x000A]up like that without being noticed!
+That was amazing, {0x0100,0x0000}!{0xBE01}[0x000A]I’ve been at this way longer than you,[0x000A]and even I have a hard time sneaking{0xBE00}[0x000A]up like that without being noticed!
+Hah hah! Too bad...{0xBE01}[0x000A]If you try to get close in a rush, a hiding[0x000A]Pokémon will just run away from you.
+Oooh, too bad!{0xBE01}[0x000A]If you try to get close in a rush, a hiding[0x000A]Pokémon will just run away from you.
+Oh![0x000A]Why, if it isn’t {0x0100,0x0000}!
+Oh![0x000A]Why, if it isn’t {0x0100,0x0000}!
+Oh![0x000A]Why, if it isn’t {0x0100,0x0000} again!
+Oh![0x000A]Why, if it isn’t {0x0100,0x0000} again!
+Oh![0x000A]Why, if it isn’t {0x0100,0x0000} yet again!
+Oh![0x000A]Why, if it isn’t {0x0100,0x0000} yet again!
+H-help a professor out!{0xBE01}[0x000A]I’ve got some Poké Balls[0x000A]in my Bag there!
+My, my! Good thing that Shroomish wasn’t as fierce[0x000A]as it seemed!{0xBE01}[0x000A]I sure do appreciate your trying to help me out, though.[0x000A]In fact...{0xBE00}[0x000A]Why don’t you keep that Pokémon?{0xBE01}[0x000A]Yes, that one from the Johto region!
+My goodness, I sure misread[0x000A]that situation, didn’t I?{0xBE01}[0x000A]I thought that Machoke from[0x000A]the Pokémon Postal Service{0xBE00}[0x000A]was a wild Machoke!{0xBE01}[0x000A]My, my, what a slipup...{0xBE01}[0x000A]I sure do appreciate your trying to[0x000A]help me out, though. In fact...{0xBE00}[0x000A]Why don’t you keep that Pokémon?{0xBE01}[0x000A]Yes, that one from the Unova region!
+Oh my! I sure did misread that[0x000A]situation, now didn’t I?{0xBE01}[0x000A]I assumed it was a Pokémon chasing[0x000A]after me, but it was just my own wife!{0xBE00}[0x000A]My, my, what a slipup...{0xBE01}[0x000A]I sure do appreciate your trying to[0x000A]help me out, though. In fact...{0xBE00}[0x000A]Why don’t you keep that Pokémon?{0xBE01}[0x000A]Yes, that one from the Sinnoh region!
+Will you be giving it a nickname?
+Oho! That’s a fine name!
+No nickname for this one, eh?
+Well, I hope to see you later.{0xBE01}[0x000A]I somehow get the feeling that I will, if I stick[0x000A]around here!
+Well, I hope to see you later.{0xBE01}[0x000A]I somehow get the feeling that I will again, if I stick[0x000A]around here!
+Well, I hope to see you later.{0xBE01}[0x000A]Stop by the lab anytime.[0x000A]Always happy to see you!
+Come play at our house again sometime!
+{0x0101,0x0001} has been[0x000A]transferred to your Box.
+{0x0100,0x0000} received[0x000A]{0x0101,0x0001}!

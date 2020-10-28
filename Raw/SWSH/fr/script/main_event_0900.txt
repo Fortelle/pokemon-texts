@@ -1,0 +1,15 @@
+main_event_0900_assistant_01=Ah, tu es venu{0x1100,0x00FF,0x0100}e ![0x000A]J’suis contente de te voir.{0x0114,0x000B}
+main_event_0900_assistant_02=Trop bien, cette salle des reliques ! Regarde ![0x000A]Ces tapisseries retracent toute l’Histoire de Galar.{0x0114,0x000B}
+main_event_0900_assistant_03=Deux personnages contemplant une Étoile Vœu.{0x0114,0x000B}
+main_event_0900_assistant_04=Une calamité survient...[0x000A]Les jeunes hommes ne savent pas quoi faire.{0x0114,0x000B}
+main_event_0900_assistant_05=Ils découvrent une épée et un bouclier[0x000A]capables de repousser la calamité.{0x0114,0x000B}
+main_event_0900_assistant_06=Les voilà sacrés souverains et couronnés.{0x0114,0x000B}
+main_event_0900_assistant_07=La naissance de Galar en images, c’est mieux[0x000A]que dans les vieux livres d’histoire barbants !{0x0114,0x000B}
+main_event_0900_assistant_08=Dis... Y’a pas un truc qui te surprend, là-dessus ?{0x0114,0x000B}
+main_event_0900_select_01=Je croyais qu’il n’y avait qu’un seul héros ?
+main_event_0900_select_02=On dirait la Nuit Noire !
+main_event_0900_assistant_11=Pareil !{0xBE01}[0x000A]Dans le hall de l’hôtel de Motorby, il y a une[0x000A]statue du héros, et y’a pas de doute, il est seul.{0xBE01}[0x000A]Mais sur la tapisserie, ils sont clairement deux.{0x0114,0x000B}
+main_event_0900_assistant_12=C’est clair !{0xBE01}[0x000A]Un tourbillon noir qui obscurcit le ciel...[0x000A]Y’a pas de doute, ça parle de la Nuit Noire.{0x0114,0x000B}
+main_event_0900_assistant_13=Que de mystères ![0x000A]Est-ce qu’il y avait un héros, ou deux ?{0xBE00}[0x000A]Et c’était quoi, cette Nuit Noire ?{0x0114,0x000B}
+main_event_0900_assistant_09=Merci de m’avoir écoutée, ça m’a aidée[0x000A]à mettre de l’ordre dans mes idées !{0xBE01}[0x000A]Je vais rester ici un moment, j’ai encore du travail[0x000A]si je veux percer le secret de ces tapisseries.{0xBE01}[0x000A]Mais file, je ne te retiens pas ! Tu as des Arènes[0x000A]à défier et des Badges à récupérer !{0xBE01}[0x000A]D’ailleurs, voici un petit quelque chose[0x000A]pour t’aider.{0x0114,0x000B}
+main_event_0900_assistant_10=Mais où sont passés l’épée et le bouclier[0x000A]qui ont réussi à empêcher la calamité ? Hmmm...{0x0114,0x000B}

@@ -1,0 +1,14 @@
+main_event_0530_assistant_01=Salut, Challenger !{0xBE01}[0x000A]Tu avais la classe dans ton uniforme,[0x000A]pendant la cérémonie d’ouverture !{0x0114,0x000B}
+main_event_0530_assistant_02=Tiens... Où est passé Nabil ?{0x0114,0x000B}
+main_event_0530_select_01=Il est parti devant !
+main_event_0530_select_02=Il a pris un autre chemin.
+main_event_0530_assistant_03=Il tient pas en place, celui-là ![0x000A]Ça doit le démanger de rejoindre son frère.{0x0114,0x000B}
+main_event_0530_assistant_04=Ah, c’est vrai que vous êtes en compétition.[0x000A]Donc vous avancez chacun de votre côté.{0x0114,0x000B}
+main_event_0530_assistant_05=Au fait, j’ai un truc à te montrer !{0x0114,0x000B}
+main_event_0530_assistant_06=Tu vois le bâtiment, là-bas ?[0x000A]Il appartient au conglomérat de Shehroz.{0x0114,0x000B}
+main_event_0530_assistant_07=Au bout de la Route 3, il y a une mine.[0x000A]Le minerai extrait est transformé en énergie{0xBE00}[0x000A]dans cette usine.{0x0114,0x000B}
+main_event_0530_assistant_08=Donc ouais, Shehroz est un touche-à-tout.[0x000A]Même l’énergie de Galar, c’est à lui qu’on la doit.{0x0114,0x000B}
+main_event_0530_assistant_09=Enfin, tant mieux pour lui.[0x000A]Il est hyper brillant, ce type, on peut pas le nier.{0x0114,0x000B}
+main_event_0530_assistant_11=Bref, je voulais juste te montrer ça.[0x000A]Tiens, un petit cadeau pour la route !{0xBE00}[0x000A]C’est une Corde Sortie, ça peut toujours servir.{0x0114,0x000B}
+main_event_0530_assistant_12=Et je vais soigner ton {0x1101,0x00FD,0x0607}Pokémonéquipe, tant que j’y suis.{0x0114,0x000B}
+main_event_0530_assistant_10=Greenbury, ce n’est pas la porte à côté,[0x000A]mais c’est un bon échauffement !{0xBE01}[0x000A]Allez, file ![0x000A]Bonne chance à toi, Challenger !{0x0114,0x000B}

@@ -1,0 +1,5 @@
+msg_t006r0401_birdkeeper_01=Ich lasse Taubsi einen Brief nach Saffronia City[0x000A]im Norden bringen!
+msg_t006r0401_poke_01={0xFF00,0x0009}Taubsi:{0xFF00,0x0000} Tauuu!
+msg_t006r0401_letter_01=„Liebe Nikki,[0x000A]Ich würde dich gerne bald besuchen kommen!{0xBE01}[0x000A]Ich habe gehört, dass Team Rocket in[0x000A]Saffronia City Unruhe stiftet...{0xBE01}[0x000A]Orania City ist bislang zum Glück verschont[0x000A]geblieben.“
+msg_t006r0401_miniskirt_01=Ich würde so gerne auf der MS Anne durch[0x000A]die Welt reisen!{0xBE01}[0x000A]So könnte ich überall Freunde finden!
+msg_t006r0401_poke_02={0xFF00,0x0009}Nidoran♀: {0xFF00,0x0000}Nido!

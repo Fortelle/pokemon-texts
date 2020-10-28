@@ -1,0 +1,15 @@
+msg_main0810_musashi_01=로사: 기다려!![0x000A]우리가 먼저야!
+msg_main0810_kojiro_01=로이: 유령이 사라져서[0x000A]겨우 꼭대기까지 올라왔네
+msg_main0810_musashi_02=로사: 당신이[0x000A]등나무라는 할아범이지!?
+msg_main0810_musashi_03=로켓단을 위해[0x000A]다시 한번 포켓몬을{0xBE00}[0x000A]연구해줘야겠어!
+msg_main0810_fuji_01=등나무노인: ... ...
+msg_main0810_kojiro_02=로이: 지금 우릴 무시하는 거야!?{0xBE01}[0x000A]보스를 위해 무슨 일이 있어도[0x000A]협력해주셔야겠어!
+msg_main0810_musashi_04=로사: 지금 이 할아범[0x000A]설득 중인 거 안 보여!?
+msg_main0810_kojiro_03=로이: 방해하겠다면[0x000A]용서하지 않는다!
+msg_main0810_dummy_01={0xBDFF:0x0008}
+msg_main0810_dummy_02={0xBDFF:0x0009}
+msg_main0810_musashi_05=로사: 아으! 또야~!?
+msg_main0810_kojiro_05=로이: 등나무박사를 납치해서[0x000A]공적을 세우려던{0xBE00}[0x000A]계획은 실패인가...
+msg_main0810_musashi_06=로사: 나도 알거든![0x000A]이제 {0xFF00,0x0006}노랑시티{0xFF00,0x0000}에 가서{0xBE00}[0x000A]{0xFF00,0x0006}실프주식회사를 점령하는{0xFF00,0x0000} 걸{0xBE00}[0x000A]도와주면 되는 거지?
+msg_main0810_kojiro_04=로켓단: 불쌍한 내 인생~!
+msg_main0810_musashi_back=로사: 아니 포켓몬 1마리로는[0x000A]싸울 수가 없잖아!{0xBE01}[0x000A]가서 1마리 더[0x000A]데리고 오라고!

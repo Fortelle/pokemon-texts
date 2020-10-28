@@ -1,0 +1,56 @@
+Eh, ¿cómo lo llevas, {0x0100,0x0000}?[0x000A]¿Camino de convertirte en Campe{0x1100,0x00FF,0x0302}ónona?
+Plubio, el Líder del Gimnasio de Arrecípolis, es un[0x000A]maestro de los Pokémon de tipo Agua.{0xBE01}[0x000A]¡Si quieres llegar hasta él, tendrás que superar un suelo[0x000A]helado!
+Lo siento, no puedo decirte más...{0xBE01}[0x000A]Pero que sepas que no podrás pisar en el mismo sitio dos[0x000A]veces.{0xBE01}[0x000A]Venga, ándate con cuidado, ¡y a por todas!
+¡Guau! ¡Has vencido incluso a Plubio, que, según dicen,[0x000A]es el mejor de Hoenn!{0xBE01}[0x000A]Muy bien, comprueba tu Ficha de Entrenador.{0xBE01}[0x000A]Si tienes todas las medallas, puedes aceptar el desafío[0x000A]de la Liga Pokémon.
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+{0xBDFF:0x001A}
+{0xBDFF:0x001B}
+Permíteme presentarme.
+Soy Plubio, Líder del Gimnasio de Arrecípolis.
+Es extraño...[0x000A]Es como si algo en ti hubiera cambiado...
+O, al menos, tal es la sensación que me transmites.
+¿Qué te ha ocurrido...? ¿Qué has descubierto en la[0x000A]Cueva Ancestral? Lo veré claro con el siguiente combate.
+¡Vamos, demuéstrame de qué sois capaces tú y tu[0x000A]equipo Pokémon!
+Y yo también te revelaré, si acaso tu vista alcanza, el[0x000A]límite de mi poder.
+Mis Pokémon y yo...
+¡Te arrojaremos a un mundo de pantanosas ilusiones!
+{0xBDFF:0x0025}
+Te felicito. Has dejado patente que eres un{0x1100,0x00FF,0x0100}a magnífic{0x1100,0x00FF,0x0101}oa[0x000A]Entrenador{0x1100,0x00FF,0x0100}a Pokémon.
+Me alegro enormemente de haberme topado con alguien[0x000A]como tú y ese fantástico equipo Pokémon.
+Aquí tienes la Medalla Lluvia como prueba de tu arrojo.
+Acéptala; te la mereces.
+¡{0x0100,0x0000} ha recibido la Medalla Lluvia de manos[0x000A]de Plubio!
+Con la Medalla Lluvia en tus manos, no habrá ni un solo[0x000A]Pokémon que se revuelva ante tus órdenes.
+Y para que no olvides nunca este combate, toma esto.
+¡Acéptalo!
+Es la MO Cascada.{0xBE01}[0x000A]Como su nombre sugiere, este movimiento consiste en[0x000A]remontarse a lo alto de una cascada para cargar luego{0xBE00}[0x000A]contra el Pokémon rival.{0xBE01}[0x000A]Además, en ocasiones lo hará retroceder.
+La Medalla Lluvia alberga un poder oculto: con ella en[0x000A]tus manos, podrás utilizar la MT Cascada para subir por{0xBE00}[0x000A]los saltos de agua que encuentres por la región.
+De ahora en adelante, infinidad de caminos se abrirán[0x000A]ante ti.
+Entre otros tantos lugares, ahora puedes continuar sin[0x000A]obstáculos el camino que lleva a la Liga Pokémon.{0xBE01}[0x000A]Ese es el lugar señalado a los Entrenadores que han[0x000A]reunido todas las medallas de los Gimnasios Pokémon.{0xBE01}[0x000A]Se encuentra en {0xFF00,0x0002}Ciudad Colosalia{0xFF00,0x0000}, en el extremo de la[0x000A]región de Hoenn. ¿Estás preparad{0x1100,0x00FF,0x0101}oa?
+Si no es así, tienes también otras opciones. Puedes[0x000A]ocuparte de buscar Pokémon y completar así la Pokédex.{0xBE01}[0x000A]Según ciertos rumores, el Profesor Abedul, de {0xFF00,0x0002}Villa Raíz{0xFF00,0x0000},[0x000A]ha mejorado la Pokédex. Habla con él y verás la variedad{0xBE00}[0x000A]de Pokémon que encontrarás de hoy en adelante.{0xBE01}[0x000A]¡Espero que a partir de ahora tu futuro siga siendo tan[0x000A]brillante como siempre!
+{0xBDFF:0x0033}
+{0xBDFF:0x0034}
+Gimnasio Pokémon de Arrecípolis[0x000A]Líder del Gimnasio: Plubio{0xBE01}[0x000A]Entrenadores reconocidos:[0x000A]Blasco
+Gimnasio Pokémon de Arrecípolis[0x000A]Líder del Gimnasio: Plubio{0xBE01}[0x000A]Entrenadores reconocidos:[0x000A]Blasco{0xBE00}[0x000A]{0x0100,0x0000}
+Al final has superado a Máximo...{0xBE01}[0x000A]No tengo palabras para expresar mi admiración por ti, {0x1100,0x00FF,0x0202}ella[0x000A]Entrenador{0x1100,0x00FF,0x0100}a más destacad{0x1100,0x00FF,0x0101}oa de Hoenn...{0xBE01}[0x000A]¡Espero que volvamos a enfrentarnos muy pronto!

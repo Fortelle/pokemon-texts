@@ -1,0 +1,85 @@
+Comprobando la tarjeta SD...[0x000A]Espera, por favor.
+No hay espacio suficiente en la tarjeta SD.[0x000A]Libera espacio en la tarjeta para poder usarla.{0xBE01}
+La foto no se ha podido guardar porque en la[0x000A]Cámara de Nintendo 3DS no queda espacio{0xBE00}[0x000A]para almacenar más.{0xBE01}[0x000A]Organiza tus fotos y libera espacio en la[0x000A]tarjeta SD de tu Nintendo 3DS.{0xBE01}
+Se ha producido un error en la Cámara de[0x000A]Nintendo 3DS.{0xBE01}
+Se han borrado los datos debido a un error en[0x000A]los archivos de tu tarjeta SD.{0xBE01}
+La tarjeta SD está llena.{0xBE01}[0x000A]Organiza tus fotos y libera espacio en la[0x000A]tarjeta SD de tu Nintendo 3DS.{0xBE01}
+Puedes guardar {0x0200,0x0000} foto{0x1101,0x0000,0x0100}s más del Fotoclub[0x000A]de Alola.{0xBE01}
+No tienes espacio para guardar más fotos en tu[0x000A]Álbum de Fotos.{0xBE01}[0x000A]Organiza el Álbum de Fotos y libera espacio.{0xBE01}
+Guardando en la tarjeta SD...[0x000A]No apagues la consola.
+Se borrarán las fotos seleccionadas.[0x000A]¿Seguro que quieres continuar?
+La foto no se ha podido guardar porque en la[0x000A]Cámara de Nintendo 3DS no queda espacio{0xBE00}[0x000A]para almacenar más.{0xBE01}[0x000A]Organiza tus fotos y libera espacio en tu[0x000A]consola Nintendo 3DS o en tu Álbum de Fotos.{0xBE01}
+La tarjeta SD está llena.{0xBE01}[0x000A]Sal del juego y libera espacio en la tarjeta SD.{0xBE01}
+Se ha guardado en la tarjeta SD.{0xBE01}
+Borrando las fotos...[0x000A]No apagues la consola.
+Operación completada.{0xBE01}
+Foto marcada como favorita.{0xBE01}[0x000A]
+Foto eliminada de tus favoritas.{0xBE01}
+Selecciona una o más fotos.{0xBE01}
+{0xBDFF:0x0012}
+Actualizando los datos de la tarjeta SD...[0x000A]No apagues la consola.
+Se ha actualizado la tarjeta SD.{0xBE01}[0x000A]
+{0x0101,0x0000}
+{0x0201,0x0002}-{0x0201,0x0001}-{0x0203,0x0000,0x0000}
+{0x0202,0x0000}
+/
+Borrar
+Elige las características de las fotos que quieres ver y[0x000A]selecciona “Buscar”.
+Orden
+Pokémon
+Decoradas
+Favoritas
+Sujeto
+Fondo
+Compartida
+Más antiguas primero
+Más recientes primero
+Número de la Pokédex
+-
+{0x0101,0x0000}
+No
+Sí
+Pokémon posando solo
+Pokémon posando contigo
+Fondo 1
+Fondo 2
+Fondo 3
+Fondo 4
+Fondo 5
+Fondo 6
+Fondo 7
+Fondo 8
+Confirmar
+Reiniciar
+Elige en qué orden quieres ver las fotos.
+Selecciona la primera letra del nombre del[0x000A]Pokémon.
+Selecciona un Pokémon.
+¿Quieres buscar fotos decoradas con[0x000A]pegatinas?
+¿Quieres buscar fotos que has marcado como[0x000A]favoritas?
+Elige el sujeto de la foto.
+Elige el fondo de las fotos que quieres buscar.
+¿Buscas una foto compartida?
+Decorar con pegatinas
+Borrar
+Marcar como favorita
+Eliminar de favoritas
+Atrás
+Sí
+No
+¿Qué quieres hacer con esta foto?
+Compartir
+No compartir
+Esta foto se compartirá con los demás.{0xBE01}
+Esta foto no se compartirá con los demás.{0xBE01}
+No puedes borrar las fotos compartidas o[0x000A]marcadas como favoritas.{0xBE01}[0x000A]
+Ya estás compartiendo una de tus fotos.[0x000A]¿Quieres sustituirla por esta?
+Si compartes esta foto, otros jugadores podrán[0x000A]verla. ¿Deseas continuar?
+En el Álbum de Fotos puedes ver las fotos[0x000A]del Fotoclub de Alola que hayas guardado.[0x000A][0x000A]También puedes decorarlas con pegatinas y[0x000A]seleccionar una principal para compartir con los[0x000A]visitantes de tu Festi Plaza.
+Selecciona “Decorar con pegatinas” para darle[0x000A]un toque especial a tu foto.[0x000A][0x000A]Si quieres que los visitantes de tu Festi Plaza[0x000A]vean una de tus fotos, selecciona“Compartir”.
+Dummy
+Dummy
+Dummy
+Buscar
+Ya has decorado esta foto. No puedes[0x000A]volver a modificarla.{0xBE01}[0x000A]
+Dummy
+Dummy

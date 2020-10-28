@@ -1,0 +1,97 @@
+{0x0102,0x0000}
+Base Stat
+MAX!
+{0x0202,0x0000}
++{0x0202,0x0000}
+-{0x0202,0x0000}
+Whoa! Your {0x0102,0x0000} managed to find[0x000A]{0x1302,0x0001}{0x010A,0x0001}!{0xBE02:0x001E}
+Do you want to use the {0x010A,0x0001}[0x000A]for your {0x0102,0x0000}?
+Discard this {0x010A,0x0000}?
+{0x0102,0x0000} is enjoying the effects of the[0x000A]{0x010A,0x0001} it worked out on.[0x000A]If you switch to a new {0x010A,0x0002}[0x000A]now, the effects it gained from the previous[0x000A]{0x010A,0x0001} will disappear.[0x000A]Are you sure you want to use the new[0x000A]{0x010A,0x0002}?
+{0x0102,0x0000} is doing Core Training[0x000A]using {0x1302,0x0001}{0x010A,0x0001}.[0x000A]Switching to the new {0x010A,0x0002}[0x000A]now will require you to discard the old[0x000A]{0x010A,0x0001} it’s been using.[0x000A]Are you sure you want to throw it away to[0x000A]use the new {0x010A,0x0002}?
+{0x0102,0x0000} doesn’t seem to want to do[0x000A]any Core Training.{0xBE01}[0x000A]Maybe you should try using a training bag[0x000A]with it when it’s feeling a bit more energetic.
+{0x0102,0x0000} seems to have rested a bit,[0x000A]and now it’s refreshed and ready for action!
+Use
+Discard
+Back
+Yes
+No
+
+◆ {0x010A,0x0000}[0x000A]Trains HP stat slightly.[0x000A]Core Training will take no[0x000A]time at all to complete.
+◆ {0x010A,0x0000}[0x000A]Trains HP stat a fair amount.[0x000A]Core Training will probably[0x000A]take some time to complete.
+◆ {0x010A,0x0000}[0x000A]Trains HP stat quite a lot.[0x000A]Core Training will take[0x000A]real time and dedication.
+◆ {0x010A,0x0000}[0x000A]Trains Attack stat slightly.[0x000A]Core Training will take no[0x000A]time at all to complete.
+◆ {0x010A,0x0000}[0x000A]Trains Attack stat a fair amount.[0x000A]Core Training will probably[0x000A]take some time to complete.
+◆ {0x010A,0x0000}[0x000A]Trains Attack stat quite a lot.[0x000A]Core Training will take[0x000A]real time and dedication.
+◆ {0x010A,0x0000}[0x000A]Trains Defense stat slightly.[0x000A]Core Training will take no[0x000A]time at all to complete.
+◆ {0x010A,0x0000}[0x000A]Trains Defense stat a fair amount.[0x000A]Core Training will probably[0x000A]take some time to complete.
+◆ {0x010A,0x0000}[0x000A]Trains Defense stat quite a lot.[0x000A]Core Training will take[0x000A]real time and dedication.
+◆ {0x010A,0x0000}[0x000A]Trains Sp. Atk stat slightly.[0x000A]Core Training will take no[0x000A]time at all to complete.
+◆ {0x010A,0x0000}[0x000A]Trains Sp. Atk stat a fair amount.[0x000A]Core Training will probably[0x000A]take some time to complete.
+◆ {0x010A,0x0000}[0x000A]Trains Sp. Atk stat quite a lot.[0x000A]Core Training will take[0x000A]real time and dedication.
+◆ {0x010A,0x0000}[0x000A]Trains Sp. Def stat slightly.[0x000A]Core Training will take no[0x000A]time at all to complete.
+◆ {0x010A,0x0000}[0x000A]Trains Sp. Def stat a fair amount.[0x000A]Core Training will probably[0x000A]take some time to complete.
+◆ {0x010A,0x0000}[0x000A]Trains Sp. Def stat quite a lot.[0x000A]Core Training will take[0x000A]real time and dedication.
+◆ {0x010A,0x0000}[0x000A]Trains Speed stat slightly.[0x000A]Core Training will take no[0x000A]time at all to complete.
+◆ {0x010A,0x0000}[0x000A]Trains Speed stat a fair amount.[0x000A]Core Training will probably[0x000A]take some time to complete.
+◆ {0x010A,0x0000}[0x000A]Trains Speed stat quite a lot.[0x000A]Core Training will take[0x000A]real time and dedication.
+◆ {0x010A,0x0000}[0x000A]Successful shots will award more[0x000A]points in the Pokémon’s next[0x000A]Super-Training Regimen.
+◆ {0x010A,0x0000}[0x000A]Makes Balloon Bots’ shots less[0x000A]effective in the Pokémon’s next[0x000A]Super-Training Regimen.
+◆ {0x010A,0x0000}[0x000A]Makes the Pokémon quicker the[0x000A]next time the Pokémon takes on[0x000A]a Super-Training Regimen.
+◆ {0x010A,0x0000}[0x000A]Makes shots more likely to hit[0x000A]the goals in the Pokémon’s next[0x000A]Super-Training Regimen.
+◆ {0x010A,0x0000}[0x000A]Doubles base-stat increases the[0x000A]next time the Pokémon takes on[0x000A]a Super-Training Regimen.
+◆ {0x010A,0x0000}[0x000A]For some reason, knocking the[0x000A]stuffing out of this Team Flare-[0x000A]themed bag just feels so good.
+◆ {0x010A,0x0000}[0x000A]Completely resets all of the base[0x000A]stats of a Pokémon.
+◆ {0x010A,0x0000}[0x000A]Makes a Pokémon slightly[0x000A]friendlier toward its Trainer.
+Spirit! Show everyone your spirit!
+1, 2, punch! 1, 2, strength![0x000A]1, 2, punch! 1, 2, strength!
+Float like a Butterfree, sting like a Beedrill!
+Don’t stop now! Keep going till your muscles[0x000A]scream for you to stop!
+Strength is power!
+Attacking is the best defense! Do it!
+Hit it! Hit it! You’ve gotta hit it!!!
+Your sweat will only make you stronger!
+Defending is the best attack! Do it!
+Faster! Faster! FASTER! Bust right through,[0x000A]and come out on the other side of speed!
+Rush it at the speed of light!
+Speed creates speed!
+Double it![0x000A]Double it allllllllll!!
+Charge up that energy![0x000A]Give it 200 percent!
+If you want twice the reward, you’ve got[0x000A]to do twice the work! Now let’s work out!
+That’s it! Do it! Do it![0x000A]Don’t stop now!
+Feel the burn![0x000A]You’re as hot as a solar flare!
+You’re gonna see the iron fist of justice!
+That’s it?![0x000A]Is that really all you’ve got?!
+Don’t give up, kid![0x000A]It’ll be worth it. I promise!
+Sometimes you’ve just gotta tread on some[0x000A]thorns before you come up roses!
+These fists tell a story![0x000A]And it’s a story of love and friendship!
+It’s time to bloom![0x000A]Let’s boost our bonds--with MUSCLES!
+That’s it! Win that trust![0x000A]Win it with your effort and your sweat!
+{0x0102,0x0000}’s base HP stat went up!
+{0x0102,0x0000}’s base Attack stat went up!
+{0x0102,0x0000}’s base Defense stat went up!
+{0x0102,0x0000}’s base Sp. Atk stat went up!
+{0x0102,0x0000}’s base Sp. Def stat went up!
+{0x0102,0x0000}’s base Speed stat went up!
+{0x0102,0x0000}’s shots will get it more points[0x000A]the next time it does Super Training!
+{0x0102,0x0000} will lose fewer points from[0x000A]hits the next time it does Super Training!
+{0x0102,0x0000} will move more quickly the[0x000A]next time it does Super Training!
+{0x0102,0x0000}’s shots will be more likely to[0x000A]hit goals the next time it does Super Training!
+{0x0102,0x0000} gets twice the stat increases[0x000A]the next time it does Super Training!
+{0x0102,0x0000} is bursting with energy!
+{0x0102,0x0000}’s base stats have been reset!
+{0x0102,0x0000} became a bit friendlier[0x000A]toward {0x0100,0x0001}!
+This is it![0x000A]The muscles that will make the future bright!
+Can Pokémon even move like this?!
+He-e-e-e-ere it comes![0x000A]The ultimate move!
+Welcome to S.T.!{0xBE01}[0x000A]Do some special training to bring out your[0x000A]Pokémon’s best...as Fully Trained Pokémon!{0xBE01}[0x000A]Let’s start with that button in the lower-left[0x000A]corner: the Super-Training button.
+Start by tapping the button in the lower-left[0x000A]corner. It’s the Super-Training button.
+Let’s do some work on the training bag![0x000A]Tap that button in the lower-right corner!
+Tap that button in the lower-right corner!
+Pick a training bag from the list on the left,[0x000A]and tap on it!
+That’s right! This here is a training bag![0x000A]Use it with your Pokémon to train ’em up!{0xBE01}[0x000A]Keep on tappin’ the screen till you knock the[0x000A]stuffin’ out of it--something good will happen!{0xBE01}[0x000A]If you leave your Pokémon to train on its own,[0x000A]it will hit the bag once a minute.
+{0x0102,0x0000}’s base {0x010D,0x0001}[0x000A]can’t go any higher!{0xBE01}[0x000A]It can’t use the {0x010A,0x0002}!
+{0x0102,0x0000}’s base {0x010D,0x0001}[0x000A]can’t go any higher than it already is!{0xBE01}[0x000A]It’s a master of {0x010D,0x0001}!
+{0x0102,0x0000}’s base stats can’t go higher![0x000A]It can’t use the {0x010A,0x0002}!
+{0x0102,0x0000} doesn’t seem to want to do[0x000A]any Super Training.{0xBE01}[0x000A]Maybe you should try to do Super Training[0x000A]with it when it’s feeling a bit more energetic.
+{0x0102,0x0000}’s base stats cannot be[0x000A]increased any further!

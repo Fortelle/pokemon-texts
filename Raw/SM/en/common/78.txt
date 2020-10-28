@@ -1,0 +1,38 @@
+Communicating. Please stand by...
+What would you like to do together?
+Would you like to quit playing?
+Terminating the connection...
+Telling {0x0100,0x0000} that you will let them[0x000A]decide...
+The connection was terminated.{0xBE01}
+Waiting for a response...[0x000A]Please stand by.
+A new Single Battle will begin!
+A new Double Battle will begin!
+A new Battle Royal will begin!
+A new trade will begin!
+{0x0100,0x0000} says that it is up to you what[0x000A]you would like to do together.
+{0x0100,0x0000} cannot have a Link Trade[0x000A]because their previous Link Trade or trade{0xBE00}[0x000A]at the GTS was interrupted due to a{0xBE00}[0x000A]communication error or a power-off.{0xBE01}[0x000A]Please wait for a while, and try it again.{0xBE01}
+You cannot have a Link Trade because your[0x000A]previous Link Trade or trade at the GTS was{0xBE00}[0x000A]interrupted due to a communication{0xBE00}[0x000A]error or a power-off.{0xBE01}[0x000A]Please wait for a while, and try it again.{0xBE01}
+Trading is not currently possible because[0x000A]{0x0100,0x0000} doesn’t have two or more{0xBE00}[0x000A]Pokémon.{0xBE01}
+Trading is not currently possible because[0x000A]neither of you have two or more Pokémon.{0xBE01}
+A Double Battle is not currently possible[0x000A]because neither {0x0100,0x0000}’s party nor{0xBE00}[0x000A]Box has two or more Pokémon.{0xBE01}
+A Double Battle is not currently possible[0x000A]because nobody’s party or Box has two or{0xBE00}[0x000A]more Pokémon.{0xBE01}
+{0x0100,0x0000}
+【Link Battle (Single Battle)】
+【Link Battle (Double Battle)】
+{0xBDFF:0x0015}
+【Link Trade】
+【Let the other party decide】
+{0x0100,0x0000} is making a selection now...
+Have a Pokémon battle with another Trainer.[0x000A]Each Trainer must have one or more Pokémon.
+Have a Pokémon battle with another Trainer.[0x000A]Each Trainer must have two or more Pokémon either in their[0x000A]party or Box.
+Have a Pokémon trade with another Trainer.[0x000A]Each Trainer must have two or more Pokémon.
+Have a Pokémon battle with another Trainer.[0x000A]Each Trainer must have one or more Pokémon.
+Have the other party decide what kind of communication[0x000A]they would like to engage in.
+Single Battle, Double Battle, or Link Trade will be selected.
+Link Trade
+Link Battle (Single Battle)
+Link Battle (Double Battle)
+{0xBDFF:0x0022}
+Let the other party decide
+Yes
+No

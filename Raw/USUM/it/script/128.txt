@@ -1,0 +1,13 @@
+Taaaaur!
+Oh, Tauros!{0x0114,0x0008}
+Ho un’idea: metterò il mio Tauros a tua[0x000A]disposizione!{0xBE01}[0x000A]Potrai chiamarlo per spostarti più agevolmente[0x000A]sulle isole.{0xBE01}[0x000A]Sono sicuro che si divertirà ad andare in giro[0x000A]con te!{0x0114,0x0008}
+Taaaaur!
+{0x0100,0x0000}, in questo dispositivo[0x000A]c’è tutto l’occorrente per cavalcare Tauros.{0x0114,0x0008}
+{0x0100,0x0000} riceve il {0xFF00,0x0001}Chiamapassaggio{0xFF00,0x0000}.
+E adesso provalo![0x000A]Su, salta in sella!{0x0114,0x0008}
+Allora, come si sta in groppa al mio Tauros?[0x000A]Com’è la visuale da lassù?{0x0114,0x0008}
+Vedi, {0x0100,0x0000}, ad Alola troverai[0x000A]molti Pokémon pronti ad aiutarti in vari modi.{0x0114,0x0008}
+Bene. Ora ti spiego come funziona[0x000A]il Chiamapassaggio.{0xBE01}[0x000A]Ti permetterà di chiamare alcuni Pokémon[0x000A]quando avrai bisogno del loro aiuto.{0xBE01}[0x000A]Per attivarlo, premi il {0xFF00,0x0001}pulsante Y{0xFF00,0x0000}.[0x000A]Per usare la Carica Tauros, dovrai tenere{0xBE00}[0x000A]premuto il pulsante B.{0x0114,0x0008}
+Il dispositivo ti doterà anche di una tuta[0x000A]speciale per cavalcare i Pokémon.{0x0114,0x0008}
+Tauros ti porterà ovunque vuoi ad Alola.[0x000A]Vedrai, presto non potrai più fare a meno di lui!{0x0114,0x0008}
+Grazie al Chiamapassaggio potrai chiamare[0x000A]in tuo aiuto i Pokémon del Poképassaggio{0xBE00}[0x000A]ovunque tu sia!{0x0114,0x0008}

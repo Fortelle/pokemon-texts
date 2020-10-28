@@ -1,0 +1,12 @@
+main_event_1870_rival_01=Sieh nur, {0x0100,0x0000}!{0x0114,0x0005}
+main_event_1870_rival_02=Das Schwert und der Schild![0x000A]Die Legende ist also wahr!{0x0114,0x0005}
+main_event_1870_rival_03=Okay! Ich nehme den Schild!{0x0114,0x0005}
+main_event_1870_rival_04=Okay! Ich nehme das Schwert!{0x0114,0x0005}
+main_event_1870_rival_05=Aber... Das Ding hat echt schon mal bessere[0x000A]Tage gesehen...{0xBE01}[0x000A]Ob man damit wirklich die Finstre Nacht[0x000A]bezwingen kann?{0xBE01}[0x000A]Na ja, zumindest als Glücksbringer ist es[0x000A]gerade noch zu gebrauchen.{0x0114,0x0005}
+main_event_1870_rival_06=Aber... Das Ding hat echt schon mal bessere[0x000A]Tage gesehen...{0xBE01}[0x000A]Ob man damit wirklich die Finstre Nacht[0x000A]bezwingen kann?{0xBE01}[0x000A]Na ja, zumindest als Glücksbringer ist es[0x000A]gerade noch zu gebrauchen.{0x0114,0x0005}
+main_event_1870_rival_07=Die Pokémon des Schwertes und des Schildes[0x000A]hingegen scheinen in einen tiefen Schlaf gefallen{0xBE00}[0x000A]zu sein...{0xBE01}[0x000A]Sieht so aus, als seien wir doch auf uns allein[0x000A]gestellt, wenn wir Delion helfen wollen.{0x0114,0x0005}
+main_event_1870_rival_08=Delion kämpft sicher noch im Stadion von[0x000A]Claw City gegen die Finstre Nacht.{0xBE01}[0x000A]Wollen wir mit dem Flugtaxi dorthin fliegen,[0x000A]{0x0100,0x0000}?{0x0114,0x0005}
+main_event_1870_select_01=Ja, los geht’s!
+main_event_1870_select_02=Warte noch kurz!
+main_event_1870_rival_09=Okay! Raus aus dem Wald hier und dann[0x000A]Abflug nach Claw City!{0x0114,0x0005}
+main_event_1870_rival_10=Alles, was von der Legende übriggeblieben ist,[0x000A]sind ein rostiges Schwert und ein verwahrloster{0xBE00}[0x000A]Schild... Irgendwie enttäuschend.{0x0114,0x0005}

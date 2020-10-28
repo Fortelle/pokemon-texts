@@ -1,0 +1,13 @@
+sub_event_011_master_01=Salve![0x000A]Benvenut{0x1100,0x00FF,0x0101}oa al Caffè Lotta!
+sub_event_011_master_02=Oh, vedo che oggi hai già lottato...[0x000A]Ci vediamo domani, allora!
+sub_event_011_master_03=Qui si può lottare una volta al giorno![0x000A]E se vinci, ti attende un dolce regalo!{0xBE01}[0x000A]Beh, che dici? Ce la facciamo una lotta?
+sub_event_011_master_04=Perfetto, allora iniziamo![0x000A]Prendiamoci una bella pausa lotta!
+sub_event_011_master_05a=Che lotta! Ricca e piena come il gusto[0x000A]del miglior Latte Mumu!
+sub_event_011_master_05b=Che lotta! Rinfrescante come un bel bicchiere[0x000A]di Lemonsucco!
+sub_event_011_master_05c=Che lotta! Densa e avvolgente come un bel[0x000A]sorso di Cioccoskitty!
+sub_event_011_master_05d=Che lotta! Corroborante come un bel bicchiere[0x000A]di Succo di Baccananas!
+sub_event_011_master_05e=Che lotta! Raffinata come una tazza[0x000A]di Tè Roserade caldo!
+sub_event_011_master_05f=Che lotta! Complessa e profonda, come[0x000A]una tazza di Granbull Moka!
+sub_event_011_master_06=Ecco il tuo dolce regalo, come promesso!
+sub_event_011_master_07=Nel nostro locale si fanno solo Lotte in Doppio.{0xBE01}[0x000A]Torna a trovarci quando avrai almeno due[0x000A]Pokémon in squadra.
+sub_event_011_master_08=Torna a trovarci!

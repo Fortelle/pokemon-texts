@@ -1,0 +1,14 @@
+Good morning! You must be {0x0100,0x0000}.{0xBE01}[0x000A]I’ve got a Mystery Gift here with[0x000A]your name on it. Here you are!
+Good day! You must be {0x0100,0x0000}.{0xBE01}[0x000A]I’ve got a Mystery Gift here with[0x000A]your name on it. Here you are!
+Good evening! You must be {0x0100,0x0000}.{0xBE01}[0x000A]I’ve got a Mystery Gift here with[0x000A]your name on it. Here you are!
+I’m afraid I don’t have any[0x000A]other gifts for you just now.{0xBE01}[0x000A]I hope I’ll have something for[0x000A]you again soon, though!
+We look forward to[0x000A]serving you again!
+{0x0100,0x0000} received {0x0101,0x0001}!
+Your party is full. Please make room in[0x000A]your party to receive your gift.
+{0x0100,0x0000} obtained {0x1302,0x0001}[0x000A]{0xBD00,0x0007,0x0000,0x0000}{0x0109,0x0001}{0xBD01}!
+Oh? But you don’t seem to have room in your[0x000A]Bag for any more {0x1001}{0x0109,0x0000}!
+{0x0100,0x0000} learned {0x0110,0x0001}!
+But {0x0100,0x0000} already knows[0x000A]{0x0110,0x0001}!
+{0x0100,0x0000} obtained a Pokémon Egg!
+{0x0100,0x0000} is now able to attempt a new[0x000A]Super-Training Regimen:{0xBE00}[0x000A]{0x0197,0x0001}!
+Wha—[0x000A]Oh my!{0xBE01}[0x000A]That gift you have is[0x000A]an Eon Ticket, yes?{0xBE01}[0x000A]You can take a ferry to the[0x000A]Southern Island, where{0xBE00}[0x000A]the Eon Pokémon live.{0xBE01}[0x000A]I heard that Norman,[0x000A]the Petalburg Gym Leader,{0xBE00}[0x000A]knows how to take that ferry.

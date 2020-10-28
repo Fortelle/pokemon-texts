@@ -1,0 +1,14 @@
+msg_t003r0102_scientist_01_01=Este mes presentamos una exposición sobre[0x000A]el espacio.
+msg_t003r0102_juvenilem_01_01=¿Qué tendrá de especial esa Piedra Lunar?[0x000A]Yo no le veo nada del otro mundo.
+msg_t003r0102_oldm_01_01=Parece que fue ayer cuando el ser humano pisó[0x000A]por primera vez nuestro querido satélite, pero{0xBE00}[0x000A]en realidad ya ha llovido desde aquella hazaña.{0xBE01}[0x000A]¡Por aquel entonces, yo era un tierno mozalbete[0x000A]que soñaba con ser astronauta! Y sigo soñando...{0xBE01}[0x000A]Ahora fantaseo con la idea de poner pie en[0x000A]suelo marciano algún día.{0xBE01}[0x000A]¿A ti no te fascina la exploración espacial?[0x000A]¡Yo me emociono cada vez que publican un{0xBE00}[0x000A]descubrimiento!
+msg_t003r0102_juveniles_01_01=¡Quiero un {0x0101,0x0002}! ¡Es tan mono![0x000A]Me atraparás uno, ¿verdad, papá?
+msg_t003r0102_fat_01_01=¡Que sí, que dentro de nada tendrás a tu[0x000A]{0x0101,0x0002}!
+msg_t003r0102_fat_01_02=Estaba a punto de pedirte que me dieras tu[0x000A]{0x0101,0x0002}...{0xBE01}[0x000A]Pero me sabe mal porque se nota que vais a[0x000A]hacer muy buenas migas.
+msg_t003r0102_fat_01_03=Estaba a punto de pedirte que me dieras tu[0x000A]{0x0101,0x0002}...{0xBE01}[0x000A]Pero me sabe mal porque se nota que estáis[0x000A]muy unidos.
+msg_t003r0102_tenji_01=Transbordador espacial
+msg_t003r0102_tenji_02=Meteorito caído en el Monte Moon[0x000A]Se cuestiona si se trata de una Piedra Lunar.
+msg_t003r0102_tenji_03=Un holograma tridimensional.[0x000A]En el cartel pone "Mapa del universo".
+msg_t003r0102_tenji_04=Fragmentos de meteorito
+msg_t003r0102_tenji_05=El origen del universo
+msg_t003r0102_bg_01=Itinerario de la visita
+msg_t003r0102_bg_02=Al mirar por el microscopio se pueden ver unos[0x000A]cristales preciosos.

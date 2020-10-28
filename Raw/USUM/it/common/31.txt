@@ -1,0 +1,37 @@
+Crea ID Sincrogioco
+Info
+Usa il Sincrogioco
+Informazioni sul Sincrogioco
+Preparativi per il Sincrogioco
+Come usare il Sincrogioco
+Sì
+No
+ID Sincrogioco
+Per usare il Sincrogioco, puoi accedere al sito del[0x000A]Pokémon Global Link gestito da The Pokémon Company[0x000A]e dalle aziende associate e registrare l’ID Sincrogioco[0x000A]visualizzato a schermo.[0x000A]{0xBD00,0x0003,0x0000,0x0000}http://www.pokemon-gl.com/{0xBD01}
+{0xBDFF:0x000A}
+Cronologia del Sincrogioco[0x000A]Sincrogioco usato il giorno {0xBD00,0x0003,0x0000,0x0000}{0x0201,0x0002}/{0x0201,0x0001}/20{0x0201,0x0000}{0xBD01} alle ore {0xBD00,0x0003,0x0000,0x0000}{0x0201,0x0003}:{0x0201,0x0004}{0xBD01}.[0x000A]Hai ricevuto un Dono Segreto dal Pokémon Global Link.[0x000A]{0xBD00,0x0003,0x0000,0x0000}http://www.pokemon-gl.com/
+Cronologia del Sincrogioco[0x000A]Sincrogioco usato il giorno {0xBD00,0x0003,0x0000,0x0000}{0x0201,0x0002}/{0x0201,0x0001}/20{0x0201,0x0000}{0xBD01} alle ore {0xBD00,0x0003,0x0000,0x0000}{0x0201,0x0003}:{0x0201,0x0004}{0xBD01}.[0x000A]{0xBD00,0x0003,0x0000,0x0000}http://www.pokemon-gl.com/{0xBD01}
+{0x012D,0x0000}
+Informazioni sul Sincrogioco[0x000A][0x000A]Il Sincrogioco è un sistema che consente di[0x000A]collegare Pokémon Ultrasole[0x000A]e Pokémon Ultraluna[0x000A]con il Pokémon Global Link.[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+Informazioni sul Sincrogioco[0x000A][0x000A]Tramite il Sincrogioco i tuoi dati di salvataggio[0x000A]verranno caricati automaticamente sul sito[0x000A]del Pokémon Global Link, dove potrai controllare[0x000A]i progressi della tua avventura.
+Informazioni sul Sincrogioco[0x000A][0x000A]Collegando il tuo gioco al sito del Pokémon[0x000A]Global Link potrai partecipare alle Lotte[0x000A]a Punteggio e alle gare.[0x000A]Potrai anche prendere in prestito delle[0x000A]Squadre Lotta.
+Preparativi per il Sincrogioco[0x000A][0x000A]Per usare il Sincrogioco segui questo[0x000A]procedimento.[0x000A][0x000A]1) Crea un ID Sincrogioco.[0x000A]2) Registra l’ID Sincrogioco sul sito[0x000A]del Pokémon Global Link.
+Preparativi per il Sincrogioco[0x000A][0x000A]1) Creare un ID Sincrogioco[0x000A][0x000A]Seleziona “Crea ID Sincrogioco”[0x000A]nella schermata iniziale del Sincrogioco[0x000A]per ottenere l’ID Sincrogioco.
+Preparativi per il Sincrogioco[0x000A][0x000A]2) Registrare l’ID Sincrogioco sul sito[0x000A]del Pokémon Global Link[0x000A][0x000A]Accedi al sito del Pokémon Global Link[0x000A]({0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000})[0x000A]e registra l’ID Sincrogioco.[0x000A]Una volta completate queste operazioni[0x000A]potrai usare il Sincrogioco.
+Preparativi per il Sincrogioco[0x000A][0x000A]Per la registrazione è necessario avere[0x000A]un account sul sito del Pokémon Global Link[0x000A]gestito da The Pokémon Company e dalle[0x000A]aziende associate.[0x000A]Per ulteriori informazioni, puoi visitare il sito[0x000A]del Pokémon Global Link.[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+Come usare il Sincrogioco[0x000A][0x000A]Seleziona “Usa il Sincrogioco” per avviare[0x000A]il collegamento al sito del Pokémon Global Link.[0x000A]Attenzione: se prima non registri il tuo[0x000A]ID Sincrogioco sul sito del Pokémon Global Link,[0x000A]non potrai collegarti e quindi non potrai usare[0x000A]il Sincrogioco.
+Come usare il Sincrogioco[0x000A][0x000A]È possibile che la sincronizzazione si attivi[0x000A]automaticamente quando ti connetti a Internet.
+Come usare il Sincrogioco[0x000A][0x000A]Collegando il tuo gioco al sito del Pokémon[0x000A]Global Link potrai usare il Punto Lotta per[0x000A]partecipare alle Lotte a Punteggio e a vari altri[0x000A]tipi di gare.[0x000A]Potrai anche organizzare delle Gare Private.
+Come usare il Sincrogioco[0x000A][0x000A]Collegando il tuo gioco al sito del Pokémon[0x000A]Global Link potrai generare il QR Code della[0x000A]Squadra Lotta con cui hai lottato e renderla[0x000A]pubblica. Potrai anche prendere in prestito[0x000A]le Squadre Lotta rese pubbliche da altri[0x000A]giocatori tramite QR Code.
+Questo è il Sincrogioco!{0xBE01}[0x000A]Tramite il Sincrogioco è possibile collegare[0x000A]Pokémon Ultrasole e Pokémon Ultraluna al sito{0xBE00}[0x000A]del Pokémon Global Link gestito da The{0xBE00}[0x000A]Pokémon Company e dalle aziende associate.{0xBE01}[0x000A]Registrando sul sito del Pokémon Global Link[0x000A]l’ID Sincrogioco ottenuto in Pokémon Ultrasole o{0xBE00}[0x000A]Pokémon Ultraluna, i tuoi dati di salvataggio{0xBE00}[0x000A]verranno caricati automaticamente e potrai{0xBE00}[0x000A]usufruire di varie funzioni.{0xBE01}[0x000A]Per saperne di più, seleziona “Info”[0x000A]dopo aver eseguito l’accesso al Sincrogioco.{0xBE01}
+Impossibile usare il Sincrogioco perché[0x000A]l’ID Sincrogioco non è stato registrato{0xBE00}[0x000A]sul sito del Pokémon Global Link.{0xBE01}[0x000A]Accedi al Pokémon Global Link e inserisci[0x000A]il tuo ID Sincrogioco.{0xBE01}
+Ciao! Questo è il Sincrogioco![0x000A]Cosa vuoi fare?
+Vuoi creare un ID Sincrogioco per usare[0x000A]il Sincrogioco?
+Collegamento al server in corso.[0x000A]Attendi...
+Sincronizzazione in corso.[0x000A]Non spegnere la console.
+L’emissione dell’ID Sincrogioco è stata[0x000A]interrotta perché il server sta registrando{0xBE00}[0x000A]un alto volume di traffico.{0xBE01}[0x000A]Riprova più tardi.{0xBE01}
+Salvataggio in corso.[0x000A]Non spegnere la console.
+L’ID Sincrogioco è stato creato!{0xBE01}[0x000A]Puoi registrarlo sul sito del Pokémon Global Link.{0xBE01}[0x000A]Una volta eseguita la registrazione, i tuoi dati di[0x000A]salvataggio saranno caricati automaticamente{0xBE00}[0x000A]sul sito stesso.{0xBE01}[0x000A]Per saperne di più su come usare il Sincrogioco,[0x000A]seleziona “Info”.{0xBE01}
+Il Sincrogioco è stato interrotto perché non è[0x000A]passato abbastanza tempo dall’ultima volta{0xBE00}[0x000A]che l’hai usato.{0xBE01}[0x000A]Riprova a usarlo più tardi.{0xBE01}
+Sincronizzazione completata!{0xBE01}
+Scegli un argomento.

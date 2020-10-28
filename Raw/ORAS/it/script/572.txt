@@ -1,0 +1,115 @@
+Ehi, Allenat{0x1100,0x00FF,0x0302}orrice! È la prima volta che vieni qui?{0xBE01}[0x000A]Quest’area ristoro è molto particolare:[0x000A]per mangiare ci sono regole ben precise.{0xBE01}[0x000A]Io ci vengo spesso, lascia che ti spieghi come funziona!
+Primo...[0x000A]Vai al banco e ordina qualcosa.{0xBE01}[0x000A]Puoi scegliere fra tre menu.[0x000A]Una volta ordinato ti verrà consegnato un ricevitore.{0xBE01}[0x000A]Secondo...[0x000A]Attendi il tuo piatto.{0xBE01}[0x000A]Ogni ordine ha un suo tempo di preparazione.[0x000A]Trovati una sedia libera e aspetta che sia pronto.{0xBE01}[0x000A]E qui viene il bello!{0xBE01}[0x000A]Mentre aspetti, qualcuno verrà a reclamare la tua sedia[0x000A]e ti sfiderà a una lotta!{0xBE01}[0x000A]Sei vuoi mangiare, dovrai difendere il tuo posto!{0xBE01}[0x000A]Terzo...[0x000A]Mangia!{0xBE01}[0x000A]Quando il tuo ordine è pronto, il ricevitore ti avviserà!{0xBE01}[0x000A]Vai al banco a prendere il piatto e... buon appetito!{0xBE01}[0x000A]Che ne dici? Non è poi così complicato!
+Già che ci sei, vuoi ordinare qualcosa?{0xBE01}[0x000A]Io ti consiglierei un Panino Villaggio. È una novità[0x000A]arrivata da poco dalla regione di Unima!{0xBE01}[0x000A]È un piatto appetitoso. I bambini appassionati[0x000A]di Lotte in Singolo ne vanno matti!
+Beh, ci vediamo![0x000A]Spero che ti divertirai nell’Area Ristoro Ciclamipoli!
+Ehi, Allenat{0x1100,0x00FF,0x0302}orrice![0x000A]Hai un minuto per gustare una prelibatezza?
+Le Polpette Magnemite![0x000A]Sono una specialità di Ciclamipoli.{0xBE01}[0x000A]Sei fortunat{0x1100,0x00FF,0x0101}oa che oggi non c’è fila: di solito[0x000A]vanno a ruba!{0xBE01}[0x000A]L’impasto, farcito con vari tipi di semi, viene cotto alla[0x000A]piastra e condito con una salsa agrodolce piccante{0xBE00}[0x000A]tipica di Johto.{0xBE01}[0x000A]Sono gustose, ma non troppo care. Molto amate dalle[0x000A]coppie e dai giovani appassionati di Lotte in Doppio!
+Te le consiglio![0x000A]Beh, ci vediamo!
+Ehi, Allenat{0x1100,0x00FF,0x0302}orrice![0x000A]Hai un minuto per gustare una prelibatezza?
+Sarà che i dilettanti hanno capito che non fa per loro...[0x000A]ma ormai non c’è più fila per il Ramen Ciclamipoli!{0xBE01}[0x000A]Questo ramen è soffice come le guance di un Jigglypuff![0x000A]È servito in un delizioso brodo dorato, con una montagna{0xBE00}[0x000A]di ingredienti alta come il Monte Camino!{0xBE01}[0x000A]Mette alla prova persino i più esigenti tra gli appassionati[0x000A]di Lotte in Triplo.{0xBE01}[0x000A]È una leggenda gastronomica di Ciclamipoli!
+Mi è venuta l’acquolina...!{0xBE01}[0x000A]Ma se vuoi riuscire a gustare il Ramen Ciclamipoli,[0x000A]devi essere ben preparat{0x1100,0x00FF,0x0101}oa...{0xBE01}[0x000A]Beh, ci vediamo!
+Ho perso!{0xBE01}[0x000A]A casa e a scuola sono solo uno come tanti... ma[0x000A]quella sedia era il mio posto... Mi faceva sentire un re!{0xBE01}[0x000A]L’ho difesa in tutti i modi contro chiunque tentasse[0x000A]di portarmela via!{0xBE01}[0x000A]E così sono diventato il Re dell’Area Ristoro...!{0xBE01}[0x000A]Ma ora... mi sento spodestato...[0x000A]Lottare contro di te mi ha insegnato qualcosa.{0xBE01}[0x000A]Finora mi sono limitato a difendere il mio angolino,[0x000A]ma la vita è molto più vasta di un’area ristoro!
+Bene... Ti cedo il mio titolo:[0x000A]D’ora in poi, sarai il Re dell’Area Ristoro!{0xBE01}[0x000A]Io ho deciso di andare in cerca del mio posto nel mondo!
+Bene... Ti cedo il mio titolo:[0x000A]d’ora in poi, tu sarai la Regina dell’Area Ristoro!{0xBE01}[0x000A]Io ho deciso di andare in cerca del mio posto nel mondo!
+Re dell’Area di Ristoro...[0x000A]ti affido l’Area Ristoro Ciclamipoli!{0xBE01}[0x000A]Spero di incontrarti di nuovo, un giorno!
+Il ricevitore ha suonato![0x000A]Il tuo ordine è pronto!
+Vuoi un Panino Villaggio?[0x000A]Sono {0x0204,0x0000,0x002E} $.
+Questo è il menu Panino Villaggio!{0xBE01}[0x000A]Comprende un panino di bacche[0x000A]con contorno di bacche fritte.{0xBE01}[0x000A]I bambini appassionati delle Lotte in Singolo[0x000A]lo adorano!
+Perfetto, ho preso nota.[0x000A]Prendi questo ricevitore: ti avviserà quando sarà pronto.{0xBE01}[0x000A]Il tuo menu sarà servito in {0x0200,0x0000} turn{0x1101,0x0000,0x0101}oi di lotta.[0x000A]Intanto, siediti pure.
+Mi spiace, non hai abbastanza soldi.
+Mi spiace, ma per ordinare questo menu devi[0x000A]avere con te almeno {0x0200,0x0000} Pokémon.
+Ecco il tuo Panino Villaggio![0x000A]Te lo sei meritato!
+Arrivi al momento giusto:[0x000A]li abbiamo appena sfornati!{0xBE01}[0x000A]Ed ecco a te, in omaggio!
+Mi dispiace, ormai si è raffreddato...[0x000A]È più buono appena sfornato!
+Mi dispiace molto, non c’è rimasto più niente!
+D’accordo.[0x000A]Spero di rivederti presto!
+Ehi tu, aspetta un attimo![0x000A]Quella è la mia sedia!
+Chi perde non ha scelta...[0x000A]Mi cercherò un’altra sedia.
+Questa sedia spetta al vincitore![0x000A]I manicaretti del posto bisogna sudarseli!
+Chi perde non può sedersi a mangiare...[0x000A]Quando riuscirò a gustare una di queste prelibatezze...?
+Questa sedia l’ho vista prima io![0x000A]Lasciami il posto o lotta!
+Non è giusto...[0x000A]L’avevo vista prima io...
+Molla quella sedia![0x000A]Altrimenti... preparati alla lotta!
+Non riuscirò mai a batterti...[0x000A]Non mi resta che cercare un’altra sedia.
+Ehi, questa è la mia sedia!{0xBE01}[0x000A]Se fai storie, il mio Pokémon Folletto[0x000A]ti lancerà una maledizione!
+Sniff... La mia seggiolina...[0x000A]Non sopporto l’idea che ti ci sieda tu...
+Ehi! Vuoi le Polpette Magnemite?[0x000A]Sono {0x0204,0x0000,0x002E} $!
+Le Polpette Magnemite, come dice il nome,[0x000A]hanno una forma che ricorda Magnemite!{0xBE01}[0x000A]Sono gustose, ma non troppo care. Molto amate dalle[0x000A]coppie e dai giovani appassionati di Lotte in Doppio!
+Molto bene, ho preso nota.[0x000A]Prendi questo ricevitore: ti avviserà quando sono pronte.{0xBE01}[0x000A]Potrai gustare questo piatto tra {0x0200,0x0000} turn{0x1101,0x0000,0x0101}oi di lotta.[0x000A]Intanto, siediti pure.
+Ehi, non facciamo scherzi![0x000A]Non hai abbastanza soldi!
+Mi spiace, ma per poter ordinare le Polpette[0x000A]Magnemite devi avere con te {0x0200,0x0000} Pokémon!
+Ecco le tue Polpette Magnemite.[0x000A]Buon appetito!
+Arrivi proprio al momento giusto:[0x000A]sono cotte a puntino!{0xBE01}[0x000A]Ed ecco a te, in omaggio!
+Mi dispiace... Purtroppo si sono un po’ raffreddate!
+Mi dispiace molto! Per oggi le abbiamo finite.[0x000A]Torna domani!
+Eh? Davvero?[0x000A]Beh, alla prossima, allora.
+Quello è il mio posto. Se non sei d’accordo...[0x000A]prepara le Poké Ball!
+Beh... Per oggi ti cedo il posto...[0x000A]Ma la prossima volta non avrai una chance!
+Ehi, ehi! Aspetta un attimo, tu![0x000A]Quella è la mia sedia!
+Oh... Fai proprio sul serio, tu...[0x000A]Per oggi va così...
+Ehi, tu![0x000A]Giù le mani dalla mia sedia!
+Oh, accidenti![0x000A]Le mie Polpette Magnemite si raffredderanno...
+Ehi, guarda che ti sbagli![0x000A]Quella non è la tua sedia!
+Hai vinto...[0x000A]Ah... Ma tu... Non mi dire che sei...
+Guarda, guarda...[0x000A]Hai del fegato, tu!
+E va bene...[0x000A]Mangia pure fino a scoppiare!
+Guardal{0x1100,0x00FF,0x0404}o lua lei... Il cibo ha un sapore migliore quando[0x000A]si è seduti sulle sedie altrui, non è vero...?
+E va bene... Tienimi il posto...[0x000A]Tornerò presto!
+Vuoi del Ramen Ciclamipoli?[0x000A]Sono {0x0204,0x0000,0x002E} $.
+Qui facciamo solo Ramen Ciclamipoli.{0xBE01}[0x000A]Sembra attirare soprattutto gli appassionati[0x000A]di Lotte in Triplo...
+Ehi... Non dimenticarti il ricevitore...[0x000A]Ti avviserà quando è pronto.{0xBE01}[0x000A]Potrai gustare questo piatto tra {0x0200,0x0000} turn{0x1101,0x0000,0x0101}oi di lotta...[0x000A]Intanto, siediti pure.
+Guarda che non hai abbastanza soldi...
+Ehi, io servo solo clienti che hanno almeno {0x0200,0x0000} Pokémon...
+Ah, sì... Il tuo Ramen Ciclamipoli è pronto...
+Ehi, aspetta...[0x000A]Tu sì che te ne intendi...{0xBE01}[0x000A]Ecco a te, in omaggio!
+Non solo hai vinto contro quel tipo...[0x000A]Ma hai anche azzeccato il tempo di cottura!
+Sei in ritardo, il ramen è un po’ scotto...
+Per oggi abbiamo finito il brodo...[0x000A]Prova a tornare domani...
+Ok...
+Un{0x1100,0x00FF,0x0C0B} piccolettoa piccoletta come te...[0x000A]vuole fregarmi la mia sedia...?
+Non sai in che guaio ti stai andando a cacciare.[0x000A]Questo è il territorio del Re dell’Area Ristoro!
+Saresti tu quell{0x1100,0x00FF,0x0101}oa che ha sistemato il mio compare?![0x000A]Faccio fatica a crederci!
+Accidenti... Ha sistemato anche me...![0x000A]Mai sottovalutare i mocciosi...
+Ah, ma oggi è il mio giorno fortunato![0x000A]Sarà uno scherzo sistemare quest{0x1100,0x00FF,0x0C0C}o piccolettoa piccoletta.{0xBE01}[0x000A]E potrò gustarmi il MIO piatto fumante di[0x000A]Ramen Ciclamipoli seduto sulla MIA sedia!
+No! Se non trovo subito un’altra sedia,[0x000A]mi si scuoce il ramen!
+Mi sono fatto dare dei Pokémon dal mio capo[0x000A]proprio per quest’occasione.{0xBE01}[0x000A]Non posso perdere![0x000A]Quella sedia deve essere mia!
+Ma... Ma... I Pokémon del mio capo...{0xBE01}[0x000A]Ma chi sei tu...?
+Non riesco a prendere sul serio i mocciosi.[0x000A]Fai {0x1100,0x00FF,0x0808}il bravola brava, sbrigati a perdere e sparisci!
+Accidenti, sei proprio forte![0x000A]Ma allora tu sei quell{0x1100,0x00FF,0x0101}oa di cui parlano tutti...
+Se proprio insisti...
+Il mio capo non mi aveva detto niente![0x000A]Ma tu chi sei?!
+Ah... Guarda chi abbiamo qui![0x000A]Finalmente un{0x1100,0x00FF,0x1211} degno avversarioa degna avversaria...
+Mi arrendo...[0x000A]Sei davvero fenomenale!
+Sapevo che ce l’avresti fatta!{0xBE01}[0x000A]Fin dal nostro primo incontro, sentivo che un[0x000A]giorno avremmo finito per sfidarci...{0xBE01}[0x000A]Però... sedendoti lì hai commesso un errore[0x000A]imperdonabile!{0xBE01}[0x000A]Su quella sedia può sedersi solo il Re[0x000A]dell’Area Ristoro Ciclamipoli, ovvero... io!{0xBE00}[0x000A]E ora ti mostrerò la potenza di un vero re!{0xBE01}[0x000A]Mi chiedo solo chi sarà più sfatto alla fine...[0x000A]tu o il ramen...?
+Ehi, tu! Smamma!
+Uh uh uh...
+Quella sedia... è il mio trono![0x000A]E me la prendo!
+Nooo! Non posso crederci![0x000A]Ma un giorno ci affronteremo di nuovo...
+Sì, grazie!
+Di che si tratta?
+Non ho molta fame...
+I panini di Unima sono proprio ottimi.[0x000A]Io e i miei Pokémon siamo deliziati!
+Il gusto aspro delle bacche assieme al pane soffice[0x000A]forma come un’armonia nella bocca! ♪
+Evviva! Oggi sono riuscito a sedermi!{0xBE01}[0x000A]Ho fatto bene a chiedere a papà di prestarmi[0x000A]i suoi Pokémon!
+Questo posto ha un re![0x000A]Lo sapevi?
+Gnam gnam gnam... Che bontà!
+Queste bacche sono un po’ troppo amare...[0x000A]Le darò a uno dei miei Pokémon!
+Questa è l’Area Ristoro Ciclamipoli.{0xBE01}[0x000A]Ma dato che per mangiare bisogna prima conquistarsi[0x000A]un posto a tavola sfidando altri Allenatori,{0xBE00}[0x000A]più che un’area di ristoro è... un’area di baruffe...!
+Non stacco gli occhi dal ricevitore...[0x000A]Spero che si sbrighino a preparare...{0xBE01}[0x000A]Forse stavolta riesco a mangiare in pace[0x000A]senza che nessuno mi disturbi!
+Oh... Che delizia![0x000A]Questa salsina è troppo buona!
+Ti svelo un segreto: ogni menu richiede[0x000A]un certo tempo di preparazione.{0xBE01}[0x000A]Il trucco sta nell’arrivare al momento giusto[0x000A]per gustarlo a puntino!
+Faranno servizio take away?{0xBE01}[0x000A]Vorrei proprio farne assaggiare un po’ al mio Pokémon[0x000A]che è rimasto a casa.
+Mangiate in fretta, gente,[0x000A]mentre non c’è quello lì...
+Slurp... Slurp-slurp... Buono![0x000A]Slurp... Delizioso!
+Sai che una volta ho visto[0x000A]Frida dei Superquattro qui?!{0xBE01}[0x000A]Stava mangiando del ramen.[0x000A]E mangiava proprio di gusto!
+Non so se ti conviene metterti in fila adesso.[0x000A]Secondo me a quest’ora non è rimasto molto.
+Sono quasi tre ore che aspetto...[0x000A]Sto per svenire dalla fame...
+Ehi! Rispetta la fila!
+Uff... Che mal di schiena...[0x000A]Odio fare la fila!
+Hai notato il coperchio di metallo che mettono[0x000A]sopra ai cibi per non farli raffreddare?{0xBE01}[0x000A]È fatto di un materiale particolare che preserva[0x000A]il gusto, oltre al calore!{0xBE01}[0x000A]Il proprietario se li fa mandare apposta[0x000A]dalla regione di Kalos!
+Sul ricevitore appare un messaggio:[0x000A]“Il tuo ordine sarà pronto tra {0x0200,0x0001} turn{0x1101,0x0001,0x0101}oi di lotta”
+Mah... Mi sa che oggi al cuoco è scappato[0x000A]un po’ troppo sale...
+Vediamo... Cosa posso mangiare oggi?
+C’è scritto: “Accesso riservato al personale”.
+Qui vengono riposti i vassoi e i piatti usati.
+Regina dell’Area di Ristoro...[0x000A]ti affido l’Area Ristoro Ciclamipoli!{0xBE01}[0x000A]Spero di incontrarti di nuovo, un giorno!

@@ -1,0 +1,14 @@
+main_event_0040_rival_01=Mamma, sono a casa!{0x0114,0x0005}
+main_event_0040_rivalmama_01=Bentornato, Hop!
+main_event_0040_rivalmama_02=Oh, ciao {0x0100,0x0000}!
+main_event_0040_rivalmama_03=Oh, ciao {0x0100,0x0000}!
+main_event_0040_rival_02=Dandel non è ancora arrivato?{0x0114,0x0005}
+main_event_0040_rivalmama_04=Ancora no.[0x000A]Non essere così impaziente!
+main_event_0040_rivalmama_05=Dovrebbe arrivare alla Stazione di Brassbury[0x000A]a breve.
+main_event_0040_rival_03=Ricevuto! Corro alla stazione a prenderlo!{0xBE01}[0x000A]Col senso dell’orientamento che si ritrova,[0x000A]va a finire che facciamo notte ad aspettarlo...{0x0114,0x0005}
+main_event_0040_rivalmama_06=Ottima idea! Così sono più tranquilla anch’io...
+main_event_0040_rival_04={0x0100,0x0000}, tu non lo hai ancora[0x000A]conosciuto, mi sa...{0xBE01}[0x000A]Perché non vieni con me? Voglio presentarti[0x000A]il fratello più tosto del mondo!{0x0114,0x0005}
+main_event_0040_rival_05=Ti aspetto in strada!{0x0114,0x0005}
+main_event_0040_rivalmama_07=Saluta Dandel da parte mia!
+main_event_0040_rivalmama_08=Saluta Dandel da parte mia!
+main_event_0040_rivalmama_09=Io intanto comincio a organizzarmi[0x000A]per la grigliata di stasera!

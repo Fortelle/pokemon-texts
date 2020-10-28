@@ -1,0 +1,9 @@
+msg_sub043_middle_01=Venez goûter la spécialité de la ville :[0x000A]les Crok’Argenta ! 500 [0xE300] le sachet !{0xBE01}[0x000A]La demande étant très forte, nous n’en vendons[0x000A]qu’un par personne et par jour !{0xBE00}[0x000A]Intéressé{0x1100,0x00FF,0x0100}e ?
+msg_sub043_select_01=J’en veux ! J’en veux !
+msg_sub043_select_02=Non merci, je n’ai pas faim.
+msg_sub043_middle_02=Merci infiniment !{0xBE01}[0x000A]Attention, c’est très, très dur ![0x000A]N’allez pas vous casser les dents !
+msg_sub043_system_01=Vous avez reçu un sachet de Crok’Argenta !
+msg_sub043_middle_03=C’est fort regrettable. Une autre fois, j’espère !
+msg_sub043_middle_04=Mais, vous n’avez pas assez d’argent ![0x000A]Revenez plus tard, je suis ici tous les jours !
+msg_sub043_middle_05=Attends ! Mais ton Sac déborde de sachets de[0x000A]Crok’Argenta ! Il ne s’agit pas que d’acheter,{0xBE01}[0x000A]il faut aussi consommer !
+msg_sub043_middle_06=Un par jour, c’est la règle ! Il faut aussi penser[0x000A]aux autres ! Revenez donc demain !

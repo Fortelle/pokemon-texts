@@ -1,0 +1,5 @@
+msg_t002r0201_middlem_01=Sich Spitznamen auszudenken macht Spaß,[0x000A]aber es kann auch ganz schön knifflig sein.{0xBE01}[0x000A]Doch so toll geistreiche Namen auch sein[0x000A]mögen, es gibt einfach nichts Besseres als{0xBE00}[0x000A]einen schön einprägsamen Spitznamen!
+msg_t002r0201_system_01=Wenn du den {0xFF00,0x0006}X-Knopf{0xFF00,0x0000} drückst und dann[0x000A]in deinem Team ein Pokémon auswählst,{0xBE00}[0x000A]kannst du seinen Spitznamen ändern.
+msg_t002r0201_childf_01=Mein Papa mag Pokémon genauso doll wie ich!
+msg_t002r0201_poke_01={0xFF00,0x0009}Willi:{0xFF00,0x0000} Habi! Habitak!
+msg_t002r0201_poster_01=Habitak[0x000A]Spitzname: Willi

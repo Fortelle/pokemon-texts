@@ -1,0 +1,262 @@
+Bitte wähle, wie viele Pokébohnen du in der[0x000A]Bohnenkiste ablegen willst.{0x0114,0x002F}
+Darüber werden sich die Pokémon bestimmt[0x000A]sehr freuen!{0x0114,0x002F}
+Bitte warte noch! Die Pokémon haben noch[0x000A]nicht alle Pokébohnen in der Kiste aufgegessen!{0x0114,0x002F}
+Behalte deine Pokébohnen für später, wenn[0x000A]sich ein paar deiner eigenen Pokémon im{0xBE00}[0x000A]Pokémon-Resort aufhalten!{0x0114,0x002F}
+Was kann ich für dich tun?{0x0114,0x002F}
+Das geht leider nicht... Du kannst pro Tag immer[0x000A]nur eine Pokébohnen-Flaschenpost verschicken!{0x0114,0x002F}
+Soll ich sieben Standard-Pokébohnen als[0x000A]Flaschenpost verschicken?{0x0114,0x002F}
+Du hast leider keine Pokébohnen...{0xBE01}[0x000A]Denke daran, regelmäßig den Pokébohnen-Baum[0x000A]auf der Wohlfühl-Insel zu schütteln und die{0xBE00}[0x000A]Pokébohnen aufzusammeln!{0x0114,0x002F}
+Alles klar! Ab geht die Flaschenpost!{0x0114,0x002F}
+Die Bohnenflaschenpost wurde ins Meer[0x000A]geworfen. Jeden Tag eine gute Tat!{0x0114,0x002F}
+Für den Ausbau dieser Insel befinden sich leider[0x000A]nicht genug Pokémon in den PC-Boxen!{0x0114,0x002F}
+Für den Ausbau dieser Insel brauchst du[0x000A]mehr Standard-Pokébohnen!{0x0114,0x002F}
+Okidoki! Ich mache mich gleich an die Arbeit.{0x0114,0x002F}
+{0xBDFF:0x000D}
+Diese Insel kann ich für dich ausbauen!{0x0114,0x002F}
+Bitte wähle, wie viele Pokébohnen du tauschen[0x000A]möchtest.{0x0114,0x002F}
+Du hast keinen Platz für weitere[0x000A]Standard-Pokébohnen.{0x0114,0x002F}
+Du hast leider keine Pokébohnen zum Tauschen.{0xBE01}[0x000A]Für eine Muster-Pokébohne gebe ich dir[0x000A]drei Standard-Pokébohnen.{0xBE01}[0x000A]Und für eine Regenbogen-Pokébohne gebe ich[0x000A]dir sieben Standard-Pokébohnen.{0x0114,0x002F}
+Du hast nicht genug Standard-Pokébohnen!{0xBE01}[0x000A]Eine Bohnenflasche fasst sieben Pokébohnen,[0x000A]und ich werfe nur volle Flaschen ins Meer.{0xBE01}[0x000A]Schau doch mal auf der Wohlfühl-Insel vorbei[0x000A]und sammle ein paar Standard-Pokébohnen auf!{0x0114,0x002F}
+{0xBE05,0x0002}Du erhältst {0x0202,0x0000} Standard-Pokébohne{0x1101,0x0000,0x0100}n!{0xBE05,0x0003}
+Was für Beeren willst du anpflanzen?{0x0114,0x002F}
+Okidoki! Ich freue mich schon auf die Ernte!{0x0114,0x002F}
+Du hast keine Beeren[0x000A]zum Anpflanzen...{0x0114,0x002F}
+Ohne Pokémon kannst du auch keine Beeren[0x000A]anbauen. Fange mehr Pokémon und lege sie{0xBE00}[0x000A]in den PC-Boxen ab.{0x0114,0x002F}
+{0xBE05,0x0000}Das Expeditionsteam ist auf einen Schatz[0x000A]gestoßen! Hier, für dich!{0xBE05,0x0001}{0x0114,0x002F}
+Die Schatzkiste ist leer... Sehr schade!{0x0114,0x002F}
+Bitte suche dir eine Expeditionsroute aus!{0x0114,0x002F}
+Okidoki! Die Expedition kann losgehen! Ob das[0x000A]Team dabei wohl auf einen Schatz stoßen wird?{0x0114,0x002F}
+Du hast leider nicht genug Pokémon, um eine[0x000A]Expedition zu starten.{0xBE01}[0x000A]Fange mehr Pokémon und lege sie in den[0x000A]PC-Boxen ab.{0x0114,0x002F}
+Möchtest du die Expedition abbrechen?{0x0114,0x002F}
+Okidoki! Die Expedition wird abgebrochen.[0x000A]Berühre das Schild, um eine neue zu starten!{0x0114,0x002F}
+Im Moment sind keine Pokémon für eine[0x000A]Expedition verfügbar.{0xBE01}[0x000A]Behalte deine Pokébohnen für später,[0x000A]wenn eine Expedition im Gange ist!{0x0114,0x002F}
+Im Moment sind keine Pokémon auf einer[0x000A]Expedition unterwegs...{0xBE01}[0x000A]Behalte deine Pokébohnen für später,[0x000A]wenn eine Expedition im Gange ist!{0x0114,0x002F}
+Schnapp dir erst den Schatz aus der[0x000A]Schatzkiste, bevor du Pokémon auf eine{0xBE00}[0x000A]Expedition schickst!
+Bitte wähle, welche Pokémon trainieren sollen!{0x0114,0x002F}
+Bitte wähle einen Trank zur Stärkung vor[0x000A]dem Training!{0x0114,0x002F}
+Wie viele Trainingssätze sollen absolviert[0x000A]werden?{0x0114,0x002F}
+Okidoki! Da sieht aber jemand vergnügt aus!{0xBE01}[0x000A]Dieses Training macht nicht nur Laune,[0x000A]sondern auch Muckis!{0x0114,0x002F}
+Hier wird gerade fleißig trainiert!{0x0114,0x002F}
+Das Training ist noch nicht abgeschlossen...[0x000A]Willst du das Training vorzeitig beenden?{0x0114,0x002F}
+Okidoki! Das Training wurde vorzeitig beendet.{0xBE01}[0x000A]Bitte berühre das zugehörige Schild,[0x000A]um Pokémon wieder zurückzunehmen.{0x0114,0x002F}
+Willst du die Gruppe wieder zurücknehmen?{0x0114,0x002F}
+Tut mir leid, aber würdest du bitte alle deine[0x000A]Pokémon in die PC-Boxen zurückschicken?{0xBE01}[0x000A]Ich würde gern die Geräte überprüfen, bevor du[0x000A]andere Pokémon einlädst.{0x0114,0x002F}
+Okidoki! Das Training ist reibungslos verlaufen.{0xBE01}[0x000A]Wenn du ein neues Training starten willst,[0x000A]berühre bitte ein Schild.{0x0114,0x002F}
+In den PC-Boxen ist nicht genug Platz...{0xBE01}[0x000A]Um Pokémon zurückzunehmen, musst du dort[0x000A]erst genug Platz schaffen.{0x0114,0x002F}
+Es wird gerade nicht trainiert... Bitte lade zuerst[0x000A]ein paar Pokémon ein!{0x0114,0x002F}
+Hier wird offenbar gerade gefaulenzt, da das[0x000A]Training schon vorbei ist.{0xBE01}[0x000A]Behalte deine Pokébohnen für später, wenn[0x000A]trainiert wird!{0x0114,0x002F}
+Bitte wähle, welche Pokémon sich in diesem[0x000A]Badebereich entspannen sollen!{0x0114,0x002F}
+Ich lege {0x0101,0x0000} in den PC-Boxen ab!{0x0114,0x002F}
+Aus diesem Ei könnte jederzeit ein Pokémon[0x000A]schlüpfen!{0xBE01}[0x000A]Aber in deinen PC-Boxen ist leider kein Platz.[0x000A]Komm zurück, wenn du Platz geschaffen hast!{0x0114,0x002F}
+Aus diesem Ei wird schon bald ein Pokémon[0x000A]schlüpfen!{0x0114,0x002F}
+Bis aus diesem Ei ein Pokémon schlüpft,[0x000A]dauert es noch ein kleines bisschen.{0x0114,0x002F}
+Bis aus diesem Ei ein Pokémon schlüpft,[0x000A]dauert es noch eine ganze Weile...{0x0114,0x002F}
+Behalte deine Pokébohnen für später, wenn du[0x000A]ein paar Pokémon eingeladen hast!{0x0114,0x002F}
+Super, vielen Dank! Da kommt doch Freude auf!{0x0114,0x002F}
+Super, vielen Dank! Da kommt doch Freude auf!{0xBE01}[0x000A]Das wird die Motivation sicherlich noch weiter[0x000A]steigern!{0x0114,0x002F}
+Super, vielen Dank! Da kommt doch Freude auf!{0xBE01}[0x000A]Das wird die Motivation sicherlich noch weiter[0x000A]steigern!{0x0114,0x002F}
+Super, vielen Dank! Da kommt doch Freude auf!{0xBE01}[0x000A]Wenn das keine super Motivation fürs Training[0x000A]ist, weiß ich auch nicht mehr!{0x0114,0x002F}
+Super, vielen Dank! Da kommt doch Freude auf!{0xBE01}[0x000A]Das wird sicher noch mehr zur Entspannung[0x000A]beitragen!{0x0114,0x002F}
+{0xBE05,0x0004}Es ist leichter geworden, wilde Pokémon[0x000A]anzulocken!{0xBE05,0x0005}{0x0114,0x002F}
+{0xBE05,0x0004}Beeren wachsen jetzt doppelt so schnell heran!{0xBE05,0x0005}{0x0114,0x002F}
+{0xBE05,0x0004}Die Dauer von Expeditionen wurde halbiert!{0xBE05,0x0005}{0x0114,0x002F}
+{0xBE05,0x0004}Die Dauer einer Trainingseinheit wurde[0x000A]halbiert!{0xBE05,0x0005}{0x0114,0x002F}
+{0xBE05,0x0004}Den Pokémon fällt es jetzt leichter, sich zu[0x000A]entspannen!{0xBE05,0x0005}{0x0114,0x002F}
+Möchtest du einen Blick in den Bericht von[0x000A]{0x0102,0x0000} werfen?{0x0114,0x002F}
+Das wilde {0x0101,0x0000} scheint sich[0x000A]zu freuen!{0xBE01}[0x000A]Mit etwas Glück bleibt es für immer hier!{0xBE01}[0x000A]Okidoki, ich schlage vor, du wartest einfach[0x000A]einen Tag und schaust dann noch mal nach ihm!{0x0114,0x002F}
+{0x0102,0x0000} scheint sich zu freuen!{0x0114,0x002F}
+{0x0101,0x0000} scheint sich zu freuen!{0x0114,0x002F}
+{0x0102,0x0000} verfügt über das[0x000A]Wesen „Robust“.{0x0114,0x002F}
+{0x0102,0x0000} verfügt über das[0x000A]Wesen „Solo“.{0x0114,0x002F}
+{0x0102,0x0000} verfügt über das[0x000A]Wesen „Mutig“.{0x0114,0x002F}
+{0x0102,0x0000} verfügt über das[0x000A]Wesen „Hart“.{0x0114,0x002F}
+{0x0102,0x0000} verfügt über das[0x000A]Wesen „Frech“.{0x0114,0x002F}
+{0x0102,0x0000} verfügt über das[0x000A]Wesen „Kühn“.{0x0114,0x002F}
+{0x0102,0x0000} verfügt über das[0x000A]Wesen „Sanft“.{0x0114,0x002F}
+{0x0102,0x0000} verfügt über das[0x000A]Wesen „Locker“.{0x0114,0x002F}
+{0x0102,0x0000} verfügt über das[0x000A]Wesen „Pfiffig“.{0x0114,0x002F}
+{0x0102,0x0000} verfügt über das[0x000A]Wesen „Lasch“.{0x0114,0x002F}
+{0x0102,0x0000} verfügt über das[0x000A]Wesen „Scheu“.{0x0114,0x002F}
+{0x0102,0x0000} verfügt über das[0x000A]Wesen „Hastig“.{0x0114,0x002F}
+{0x0102,0x0000} verfügt über das[0x000A]Wesen „Ernst“.{0x0114,0x002F}
+{0x0102,0x0000} verfügt über das[0x000A]Wesen „Froh“.{0x0114,0x002F}
+{0x0102,0x0000} verfügt über das[0x000A]Wesen „Naiv“.{0x0114,0x002F}
+{0x0102,0x0000} verfügt über das[0x000A]Wesen „Mäßig“.{0x0114,0x002F}
+{0x0102,0x0000} verfügt über das[0x000A]Wesen „Mild“.{0x0114,0x002F}
+{0x0102,0x0000} verfügt über das[0x000A]Wesen „Ruhig“.{0x0114,0x002F}
+{0x0102,0x0000} verfügt über das[0x000A]Wesen „Zaghaft“.{0x0114,0x002F}
+{0x0102,0x0000} verfügt über das[0x000A]Wesen „Hitzig“.{0x0114,0x002F}
+{0x0102,0x0000} verfügt über das[0x000A]Wesen „Still“.{0x0114,0x002F}
+{0x0102,0x0000} verfügt über das[0x000A]Wesen „Zart“.{0x0114,0x002F}
+{0x0102,0x0000} verfügt über das[0x000A]Wesen „Forsch“.{0x0114,0x002F}
+{0x0102,0x0000} verfügt über das[0x000A]Wesen „Sacht“.{0x0114,0x002F}
+{0x0102,0x0000} verfügt über das[0x000A]Wesen „Kauzig“.{0x0114,0x002F}
+{0x0102,0x0000} will offenbar mit dir spielen![0x000A]Nimm es doch in dein Team auf!{0x0114,0x002F}
+{0x0101,0x0000} gefällt es hier offenbar sehr!{0x0114,0x002F}
+{0x0101,0x0000} mag offenbar[0x000A]Pokémon-Kämpfe!{0x0114,0x002F}
+{0x0101,0x0000} will offenbar mit dir Abenteuer[0x000A]bestehen! Nimm es doch in dein Team auf!{0x0114,0x002F}
+{0x0101,0x0000} und {0x0101,0x0001} haben[0x000A]vorhin miteinander gespielt.{0xBE01}[0x000A]Sie können einander unerwartet gut leiden!{0x0114,0x002F}
+{0xBDFF:0x0062}
+{0xBDFF:0x0063}
+{0xBDFF:0x0064}
+{0xBDFF:0x0065}
+{0x0101,0x0000} hat dir eine Pokébohne[0x000A]gebracht!{0x0114,0x002F}
+{0xBE05,0x0002}Du erhältst eine Standard-Pokébohne!{0xBE05,0x0003}{0x0114,0x002F}
+{0xBE05,0x0002}Du erhältst eine Muster-Pokébohne!{0xBE05,0x0003}{0x0114,0x002F}
+{0xBE05,0x0002}Du erhältst eine Regenbogen-Pokébohne!{0xBE05,0x0003}
+{0x0101,0x0000} würde offenbar gern die[0x000A]Fitness-Insel besuchen.{0xBE01}[0x000A]Lade es doch mal ein!{0x0114,0x002F}
+{0x0101,0x0000} würde offenbar gern die[0x000A]Spa-Insel besuchen.{0xBE01}[0x000A]Lade es doch mal ein!{0x0114,0x002F}
+Nanu?{0xBE01}[0x000A]Ein wildes Pokémon ist zu Besuch gekommen![0x000A]Die Pokébohnen müssen es angelockt haben.{0x0114,0x002F}
+Dem wilden {0x0101,0x0000} gefällt es hier[0x000A]offenbar sehr.{0xBE01}[0x000A]Es fühlt sich inzwischen wie zu Hause.[0x000A]Ich würde es nur ungern verscheuchen...{0xBE01}[0x000A]Würdest du es vielleicht bei dir aufnehmen?{0x0114,0x002F}
+Schade! Aber das muss ich respektieren...[0x000A]Sag Bescheid, wenn du es dir anders überlegst.{0x0114,0x002F}
+In den PC-Boxen ist nicht genug Platz...{0xBE01}[0x000A]Um Pokémon zurückzunehmen, musst du dort[0x000A]oder in deinem Team erst genug Platz schaffen.{0x0114,0x002F}
+Das freut mich! Bitte kümmere dich gut[0x000A]um {0x0101,0x0000}!{0x0114,0x002F}
+{0xBDFF:0x0071}
+{0xBDFF:0x0072}
+{0xBDFF:0x0073}
+{0xBDFF:0x0074}
+Wenn es ums Pflügen geht, gibt {0x0101,0x0000}[0x000A]immer sein Bestes!{0x0114,0x002F}
+{0x0101,0x0000} bietet anderen Pokémon immer[0x000A]gerne seine Hilfe an!{0x0114,0x002F}
+{0x0101,0x0000} hat ein Talent dafür, Beeren[0x000A]vor Käfer-Pokémon zu schützen!{0x0114,0x002F}
+Wenn es ums Anpflanzen von Beeren geht, lässt[0x000A]sich {0x0101,0x0000} von niemandem reinreden!{0x0114,0x002F}
+Wenn {0x0101,0x0000} versucht, Beeren vor[0x000A]Käfer-Pokémon zu schützen, richtet es dabei{0xBE00}[0x000A]manchmal auf den Beerenfeldern ein riesiges{0xBE00}[0x000A]Chaos an!{0x0114,0x002F}
+{0x0101,0x0000} hat sich unverblümt eine[0x000A]Kostprobe der Beeren gegönnt!{0x0114,0x002F}
+{0x0101,0x0000} liebt es, Beeren zu gießen!{0x0114,0x002F}
+{0x0101,0x0000} liebt den Anblick von[0x000A]Beerenfeldern!{0x0114,0x002F}
+{0x0101,0x0000} hat ein Talent dafür,[0x000A]Käfer-Pokémon zu verscheuchen!{0x0114,0x002F}
+{0x0101,0x0000} wird öfter mal dabei erwischt,[0x000A]wie es sich ein paar Beeren gönnt!{0x0114,0x002F}
+{0x0101,0x0000} düngt Beeren immer besonders[0x000A]großzügig!{0x0114,0x002F}
+{0x0101,0x0000} ist sehr talentiert im Düngen[0x000A]der Felder!{0x0114,0x002F}
+Wenn {0x0101,0x0000} Unkraut jätet, bleibt[0x000A]nicht ein unerwünschter Halm stehen!{0x0114,0x002F}
+{0x0101,0x0000} hat beim Pflügen jede[0x000A]Menge Spaß!{0x0114,0x002F}
+{0x0101,0x0000} nascht ständig von[0x000A]den Beeren!{0x0114,0x002F}
+{0x0101,0x0000} knausert gern etwas beim[0x000A]Düngen der Beeren!{0x0114,0x002F}
+{0x0101,0x0000} ist beim Anpflanzen von[0x000A]Beeren immer sehr vorsichtig!{0x0114,0x002F}
+{0x0101,0x0000} ist sehr effizient, wenn es um[0x000A]die Pflege von Beerenfeldern geht!{0x0114,0x002F}
+{0x0101,0x0000} jätet manchmal völlig[0x000A]ungefragt Unkraut!{0x0114,0x002F}
+{0x0101,0x0000} verbummelt es manchmal,[0x000A]Beerenfelder zu düngen!{0x0114,0x002F}
+{0x0101,0x0000} liebt es, Beerenfelder[0x000A]zu pflügen!{0x0114,0x002F}
+{0x0101,0x0000} vergisst nie, die Beerenfelder[0x000A]zu gießen!{0x0114,0x002F}
+{0x0101,0x0000} hält sich selbst für die beste[0x000A]Wahl, wenn es ums Gießen geht!{0x0114,0x002F}
+{0x0101,0x0000} ist sehr gewissenhaft, wenn es[0x000A]darum geht, Beeren anzupflanzen!{0x0114,0x002F}
+{0x0101,0x0000} gönnt sich manchmal[0x000A]insgeheim eine Kostprobe von den Beeren!{0x0114,0x002F}
+{0x0102,0x0000} wirkt richtig munter!{0x0114,0x002F}
+Der Level von {0x0102,0x0000} ist um {0x0202,0x0001}[0x000A]gestiegen!{0x0114,0x002F}
+Der Level von {0x0102,0x0000} ist um {0x0202,0x0001}[0x000A]gestiegen!{0xBE01}[0x000A]Ich glaube, er kann hier nicht weiter gesteigert[0x000A]werden.{0x0114,0x002F}
+{0x0102,0x0000} wirkt richtig munter!{0xBE01}[0x000A]Aber sein Level kann hier wohl nicht weiter[0x000A]gesteigert werden.{0x0114,0x002F}
+Der KP-Basiswert von {0x0102,0x0000} ist[0x000A]um {0x0202,0x0001} gestiegen!{0x0114,0x002F}
+Der KP-Basiswert von {0x0102,0x0000} ist[0x000A]um {0x0202,0x0001} gestiegen!{0xBE01}[0x000A]Ich glaube, er kann hier nicht weiter erhöht[0x000A]werden.{0x0114,0x002F}
+{0x0102,0x0000} wirkt richtig munter!{0xBE01}[0x000A]Aber sein KP-Basiswert kann hier wohl nicht[0x000A]weiter erhöht werden.
+Der Angriffs-Basiswert von {0x0102,0x0000}[0x000A]ist um {0x0202,0x0001} gestiegen!{0x0114,0x002F}
+Der Angriffs-Basiswert von {0x0102,0x0000}[0x000A]ist um {0x0202,0x0001} gestiegen!{0xBE01}[0x000A]Ich glaube, er kann hier nicht weiter erhöht[0x000A]werden.{0x0114,0x002F}
+{0x0102,0x0000} wirkt richtig munter!{0xBE01}[0x000A]Aber sein Angriffs-Basiswert kann hier wohl[0x000A]nicht weiter erhöht werden.
+Der Verteidigungs-Basiswert von[0x000A]{0x0102,0x0000} ist um {0x0202,0x0001} gestiegen!{0x0114,0x002F}
+Der Verteidigungs-Basiswert von[0x000A]{0x0102,0x0000} ist um {0x0202,0x0001} gestiegen!{0xBE01}[0x000A]Ich glaube, er kann hier nicht weiter erhöht[0x000A]werden.{0x0114,0x002F}
+{0x0102,0x0000} wirkt richtig munter!{0xBE01}[0x000A]Aber sein Verteidigungs-Basiswert kann hier[0x000A]wohl nicht weiter erhöht werden.
+Der Spezial-Angriffs-Basiswert von[0x000A]{0x0102,0x0000} ist um {0x0202,0x0001} gestiegen!{0x0114,0x002F}
+Der Spezial-Angriffs-Basiswert von[0x000A]{0x0102,0x0000} ist um {0x0202,0x0001} gestiegen!{0xBE01}[0x000A]Ich glaube, er kann hier nicht weiter erhöht[0x000A]werden.{0x0114,0x002F}
+{0x0102,0x0000} wirkt richtig munter!{0xBE01}[0x000A]Aber sein Spezial-Angriffs-Basiswert kann hier[0x000A]wohl nicht weiter erhöht werden.
+Der Spezial-Verteidigungs-Basiswert von[0x000A]{0x0102,0x0000} ist um {0x0202,0x0001} gestiegen!{0x0114,0x002F}
+Der Spezial-Verteidigungs-Basiswert von[0x000A]{0x0102,0x0000} ist um {0x0202,0x0001} gestiegen!{0xBE01}[0x000A]Ich glaube, er kann hier nicht weiter erhöht[0x000A]werden.{0x0114,0x002F}
+{0x0102,0x0000} wirkt richtig munter!{0xBE01}[0x000A]Aber sein Spezial-Verteidigungs-Basiswert kann[0x000A]hier wohl nicht weiter erhöht werden.
+Der Initiative-Basiswert von {0x0102,0x0000}[0x000A]ist um {0x0202,0x0001} gestiegen!{0x0114,0x002F}
+Der Initiative-Basiswert von {0x0102,0x0000}[0x000A]ist um {0x0202,0x0001} gestiegen!{0xBE01}[0x000A]Ich glaube, er kann hier nicht weiter erhöht[0x000A]werden.{0x0114,0x002F}
+{0x0102,0x0000} wirkt richtig munter!{0xBE01}[0x000A]Aber sein Initiative-Basiswert kann hier wohl[0x000A]nicht weiter erhöht werden.
+{0x0102,0x0000} scheint es auf der Spa-Insel[0x000A]zu gefallen!{0x0114,0x002F}
+{0x0102,0x0000} sieht recht entspannt aus!{0x0114,0x002F}
+{0x0102,0x0000} sieht sehr entspannt aus!{0x0114,0x002F}
+{0x0102,0x0000} ist geistig und körperlich tief[0x000A]entspannt. Noch entspannter geht’s nicht!{0x0114,0x002F}
+{0x0102,0x0000} ist anscheinend die Hitze[0x000A]zu Kopf gestiegen!{0xBE01}[0x000A]Aber jetzt, wo du da bist, geht es ihm gleich[0x000A]viel besser!{0x0114,0x002F}
+{0xBDFF:0x00A9}
+{0xBDFF:0x00AA}
+{0xBDFF:0x00AB}
+{0xBDFF:0x00AC}
+{0xBDFF:0x00AD}
+{0xBDFF:0x00AE}
+{0xBDFF:0x00AF}
+{0xBDFF:0x00B0}
+{0xBDFF:0x00B1}
+{0xBDFF:0x00B2}
+Willkommen im Pokémon-Resort![0x000A]Einem Archipel exklusiv für Pokémon.{0xBE01}[0x000A]Oh, aber wo sind meine Manieren? Ich habe[0x000A]mich dir ja noch gar nicht vorgestellt!{0xBE01}[0x000A]Mein Name ist Mohn und ich bin der Verwalter[0x000A]des Pokémon-Resorts.{0x0114,0x0030}
+Und du bist...?{0xBE01}[0x000A]Aha, {0x0100,0x0000} heißt du also! Okidoki.[0x000A]Freut mich, dich kennenzulernen!{0x0114,0x002F}
+Pokémon, die du in den PC-Boxen abgelegt hast,[0x000A]können sich hier jederzeit frei vergnügen.{0xBE01}[0x000A]Noch besteht das Resort nur aus einer einzigen[0x000A]kleinen Insel, aber mit deiner Hilfe könnte sich{0xBE00}[0x000A]das im Handumdrehen ändern!{0xBE01}[0x000A]Ich schlage also vor, wir starten gleich durch.[0x000A]Würdest du bitte die Pokébohne aufheben,{0xBE00}[0x000A]die da auf dem Boden liegt?{0x0114,0x002F}
+Pokémon lieben Pokébohnen! Sie stecken voller[0x000A]Nährstoffe und schmecken unglaublich gut.{0xBE01}[0x000A]Sie wachsen auf dem Pokébohnen-Baum in der[0x000A]Mitte der Insel.{0xBE01}[0x000A]Die Pokébohne, die du eben aufgesammelt hast,[0x000A]ist eine Standard-Pokébohne.{0xBE01}[0x000A]Daneben gibt es noch Muster-Pokébohnen und[0x000A]die sehr seltenen Regenbogen-Pokébohnen.{0xBE01}[0x000A]Aber bevor ich dich mit Erklärungen langweile:[0x000A]Schüttele doch einfach mal kräftig den Baum!{0xBE01}[0x000A]Der Lerneffekt ist größer, wenn du es selbst[0x000A]ausprobierst.{0x0114,0x002F}
+Noch mal zum Mitschreiben: Schüttle erst den[0x000A]Baum und lies danach die Pokébohnen auf,{0xBE00}[0x000A]die herabgefallen sind. Kinderleicht, oder?{0xBE01}[0x000A]Dein Ziel sollte es sein, jeden Tag frische[0x000A]Bohnen ernten zu können.{0xBE01}[0x000A]Sollten mal keine neuen Pokébohnen vom Baum[0x000A]fallen, musst du einfach einen Tag warten.{0x0114,0x002F}
+Und jetzt lege die Pokébohnen, die du[0x000A]aufgelesen hast, bitte in die Bohnenkiste.{0xBE01}[0x000A]Dann können die Pokémon sich jederzeit daran[0x000A]bedienen, wenn sie Hunger bekommen.{0x0114,0x002F}
+Gute Arbeit! Du hast die Bohnenkiste gefunden![0x000A]Wenn du darin Pokébohnen ablegst, bereitest du{0xBE00}[0x000A]den Pokémon damit eine riesige Freude.{0xBE01}[0x000A]Manchmal besuchen übrigens auch wilde[0x000A]Pokémon die Wohlfühl-Insel und naschen von{0xBE00}[0x000A]den Pokébohnen in der Bohnenkiste.{0x0114,0x002F}
+Ach übrigens: Je seltener eine Pokébohne ist,[0x000A]desto länger hält ihre Wirkung an! Merk dir das!{0xBE01}[0x000A]Aber zuerst solltest du versuchen, die[0x000A]Bohnenkiste bis an den Rand zu füllen.{0xBE01}[0x000A]Wenn du mich brauchst, kannst du mich[0x000A]jederzeit in meinem Hausfloß besuchen!{0x0114,0x002F}
+Noch mal willkommen! Das ist mein Hausfloß.{0xBE01}[0x000A]Für andere mag es nach nichts Besonderem[0x000A]aussehen, aber für mich ist es wie ein kleines{0xBE00}[0x000A]Schloss.{0xBE01}[0x000A]Ich habe es selbst gebaut und lebe darin,[0x000A]seit ich mich dazu entschlossen habe, diese{0xBE00}[0x000A]unbewohnten Inseln in ein Pokémon-Resort{0xBE00}[0x000A]zu verwandeln.{0xBE01}[0x000A]Hier habe ich alles, was ich für die Verwaltung[0x000A]meines kleinen Archipels brauche!{0x0114,0x002F}
+Übrigens, wenn ich schon mal einen so[0x000A]talentierten Trainer wie dich hier habe...{0xBE01}[0x000A]Ich würde dich gerne um etwas bitten,[0x000A]{0x0100,0x0000}!{0xBE01}[0x000A]Wie du siehst, steckt mein Pokémon-Resort[0x000A]noch in den Kinderschuhen.{0xBE01}[0x000A]Wäre es ein Pokémon, dann wäre es gerade erst[0x000A]aus seinem Ei geschlüpft und noch auf Level 1!{0xBE01}[0x000A]Und hier würdest du ins Spiel kommen: Bitte hilf[0x000A]mir doch mit deinen Pokémon dabei, diesen Ort{0xBE00}[0x000A]auszubauen!{0x0114,0x002F}
+Das Resort auszubauen, bedeutet entweder,[0x000A]eine neue Insel zu erschließen oder eine{0xBE00}[0x000A]bestehende Insel zu erweitern.{0xBE01}[0x000A]Dafür brauche ich aber die Hilfe der Pokémon,[0x000A]die sich in deinen PC-Boxen befinden!{0xBE01}[0x000A]Ach ja, und als Belohnung für ihre Hilfe[0x000A]benötigen wir natürlich auch ein paar{0xBE00}[0x000A]Standard-Pokébohnen!{0x0114,0x002F}
+Okidoki, das wäre genug der Erklärungen!{0xBE01}[0x000A]Wenn du mir beim Ausbau des Resorts helfen[0x000A]willst, kannst du mich jederzeit in meinem{0xBE00}[0x000A]Hausfloß besuchen kommen.{0x0114,0x002F}
+Und nicht vergessen, mein Name ist Mohn,[0x000A]der Verwalter des Pokémon-Resorts!{0x0114,0x002F}
+Der Ausbau der Wohlfühl-Insel ist[0x000A]abgeschlossen!{0xBE05,0x0006}{0x0114,0x002F}
+Der Ausbau der Wohlfühl-Insel ist[0x000A]abgeschlossen!{0xBE05,0x0006}{0xBE01}[0x000A]Damit wäre diese Insel vollständig ausgebaut!{0x0114,0x002F}
+Der Ausbau der Beeren-Insel ist[0x000A]abgeschlossen!{0xBE05,0x0006}{0x0114,0x002F}
+Der Ausbau der Beeren-Insel ist[0x000A]abgeschlossen!{0xBE05,0x0006}{0x0114,0x002F}
+Der Ausbau der Beeren-Insel ist[0x000A]abgeschlossen!{0xBE05,0x0006}{0xBE01}[0x000A]Damit wäre diese Insel vollständig ausgebaut!{0x0114,0x002F}
+Der Ausbau der Abenteuer-Insel ist[0x000A]abgeschlossen!{0xBE05,0x0006}{0x0114,0x002F}
+Der Ausbau der Abenteuer-Insel ist[0x000A]abgeschlossen!{0xBE05,0x0006}{0x0114,0x002F}
+Der Ausbau der Abenteuer-Insel ist[0x000A]abgeschlossen!{0xBE05,0x0006}{0xBE01}[0x000A]Damit wäre diese Insel vollständig ausgebaut!{0x0114,0x002F}
+Der Ausbau der Fitness-Insel ist[0x000A]abgeschlossen!{0xBE05,0x0006}{0x0114,0x002F}
+Der Ausbau der Fitness-Insel ist[0x000A]abgeschlossen!{0xBE05,0x0006}{0x0114,0x002F}
+Der Ausbau der Fitness-Insel ist[0x000A]abgeschlossen!{0xBE05,0x0006}{0xBE01}[0x000A]Damit wäre diese Insel vollständig ausgebaut!{0x0114,0x002F}
+Der Ausbau der Spa-Insel ist[0x000A]abgeschlossen!{0xBE05,0x0006}{0x0114,0x002F}
+Der Ausbau der Spa-Insel ist[0x000A]abgeschlossen!{0xBE05,0x0006}{0x0114,0x002F}
+Der Ausbau der Spa-Insel ist[0x000A]abgeschlossen!{0xBE05,0x0006}{0xBE01}[0x000A]Damit wäre diese Insel vollständig ausgebaut!{0x0114,0x002F}
+Der Pokébohnen-Baum ist gewachsen und wirft[0x000A]jetzt noch mehr Pokébohnen ab.{0xBE01}[0x000A]Das wiederum lockt noch mehr wilde[0x000A]Pokémon an!{0xBE01}[0x000A]Ich wette, deine Pokémon freuen sich auch über[0x000A]Besuch, also kümmere dich gut um das Resort!{0x0114,0x002F}
+Der Pokébohnen-Baum ist prächtig gewachsen[0x000A]und wirft jetzt noch mehr Pokébohnen ab.{0xBE01}[0x000A]Das wiederum lockt noch mehr wilde[0x000A]Pokémon an!{0xBE01}[0x000A]Ich wette, deine Pokémon freuen sich auch über[0x000A]Besuch! Vielen Dank für deine Hilfe!{0x0114,0x002F}
+Okidoki, das ist sie nun, die Beeren-Insel!{0xBE01}[0x000A]Toll, oder? Ich habe das flache Land genutzt,[0x000A]um einige Beerenfelder darauf anzulegen.{0xBE01}[0x000A]Deine Pokémon werden viel Spaß beim Anbau[0x000A]der Beeren haben, da bin ich mir sicher!{0x0114,0x002F}
+Deine Pokémon haben sich ja mächtig ins Zeug[0x000A]gelegt, um die Beerenfelder auszubauen!{0xBE01}[0x000A]Du kannst jetzt bis zu zwölf verschiedene[0x000A]Sorten an Beeren anpflanzen.{0xBE01}[0x000A]Außerdem lassen sich die Felder jetzt einfacher[0x000A]bewässern! Das sollte deine Ausbeute bei der{0xBE00}[0x000A]Ernte vergrößern.{0xBE01}[0x000A]Sieh nur, deine Pokémon freuen sich auch![0x000A]Kümmere dich weiterhin gut um das Resort, ja?{0x0114,0x002F}
+Die Beeren-Insel sieht aus wie ein einziges[0x000A]Beerenfeld!{0xBE01}[0x000A]Du kannst jetzt bis zu 18 verschiedene Sorten[0x000A]an Beeren anpflanzen.{0xBE01}[0x000A]Außerdem lassen sich die Felder jetzt einfacher[0x000A]bewässern! Das sollte deine Ausbeute bei der{0xBE00}[0x000A]Ernte vergrößern.{0xBE01}[0x000A]Danke für deine Hilfe!{0x0114,0x002F}
+Okidoki, das ist sie nun, die Abenteuer-Insel!{0xBE01}[0x000A]Toll, oder? Diese riesige Höhle eignet sich[0x000A]hervorragend für ein paar Erkundungstouren!{0xBE01}[0x000A]Deine Pokémon werden dabei bestimmt jede[0x000A]Menge Spaß haben!{0x0114,0x002F}
+Es wurde fleißig gegraben und die Höhle ist[0x000A]jetzt um ein paar Gänge reicher!{0xBE01}[0x000A]Wer weiß, vielleicht führen sie zu einigen[0x000A]seltenen Steinen?!{0xBE01}[0x000A]Auf jeden Fall freuen sich deine Pokémon schon[0x000A]darauf, alles ausgiebig zu erkunden.{0xBE01}[0x000A]Kümmere dich weiterhin gut um das Resort, ja?{0x0114,0x002F}
+Du kannst jetzt tiefer in den Untergrund der[0x000A]Insel vordringen als je zuvor!{0xBE01}[0x000A]Es würde mich nicht wundern, wenn deine[0x000A]Pokémon einen wertvollen Schatz von{0xBE00}[0x000A]ihren Abenteuern mitbringen würden!{0xBE01}[0x000A]Sie können es bestimmt kaum erwarten.[0x000A]Vielen Dank für deine Hilfe!{0x0114,0x002F}
+Okidoki, das ist sie nun, die Fitness-Insel!{0xBE01}[0x000A]Toll, oder? Ich finde, aus dem Sandstrand[0x000A]und dem Treibholz haben wir ein tolles{0xBE00}[0x000A]Trainingsgelände gezaubert.{0xBE01}[0x000A]Deine Pokémon werden beim Trainieren sicher[0x000A]viel Spaß haben!{0x0114,0x002F}
+Was hältst du von unserem ausgebauten[0x000A]Trainingsgelände?{0xBE01}[0x000A]Hier können sich jetzt bis zu zwölf Pokémon[0x000A]gleichzeitig austoben.{0xBE01}[0x000A]Sie können es bestimmt kaum erwarten![0x000A]Kümmere dich weiterhin gut um das Resort, ja?{0x0114,0x002F}
+Ich habe aus etwas Treibholz, das am Strand[0x000A]angespült wurde, neue Trainingsgeräte gebaut!{0xBE01}[0x000A]Hier können sich jetzt bis zu 18 Pokémon[0x000A]gleichzeitig austoben.{0xBE01}[0x000A]Sie können es bestimmt kaum erwarten![0x000A]Vielen Dank für deine Hilfe!{0x0114,0x002F}
+Okidoki, das ist sie nun, die Spa-Insel!{0xBE01}[0x000A]Toll, oder? Ich habe die heißen Quellen[0x000A]zu einem Thermalbad umfunktioniert.{0xBE01}[0x000A]Hier können deine Pokémon es sich gemütlich[0x000A]machen und entspannen!{0x0114,0x002F}
+Wie findest du das neue Thermalbad?{0xBE01}[0x000A]Jetzt können sich bis zu zwölf Pokémon[0x000A]gleichzeitig in den heißen Quellen entspannen!{0xBE01}[0x000A]Außerdem haben wir die Insel etwas dekoriert,[0x000A]sodass sich deine Pokémon noch besser{0xBE00}[0x000A]erholen können.{0xBE01}[0x000A]Kümmere dich weiterhin gut um das Resort, ja?{0x0114,0x002F}
+Die gesamte Insel wurde in eine einzige[0x000A]Badelandschaft verwandelt!{0xBE01}[0x000A]Jetzt können sich bis zu 18 Pokémon[0x000A]gleichzeitig in den heißen Quellen erholen!{0xBE01}[0x000A]Und der Brunnen in der Mitte ist auch richtig[0x000A]imposant geworden, findest du nicht auch?{0xBE01}[0x000A]Gemütlicher geht’s nicht! Vielen Dank für[0x000A]deine Hilfe!{0x0114,0x002F}
+Ach ja! Du kannst auf dem Schild notieren,[0x000A]welche Beeren angepflanzt werden sollen.{0xBE01}[0x000A]Sieh nur, wie sich deine Pokémon freuen![0x000A]Kümmere dich weiterhin gut um das Resort, ja?{0x0114,0x002F}
+Ach ja! Welche Route erkundet werden soll,[0x000A]kannst du auf dem Schild festlegen.{0xBE01}[0x000A]Wenn deine Pokémon einen Schatz mitbringen,[0x000A]kannst du ihn in der Schatzkiste in der Mitte{0xBE00}[0x000A]der Insel abholen!{0xBE01}[0x000A]Sie können es bestimmt kaum erwarten.[0x000A]Kümmer dich weiterhin gut um das Resort, ja?{0x0114,0x002F}
+Ach ja! Welche Pokémon trainieren sollen,[0x000A]kannst du auf dem Schild festlegen.{0xBE01}[0x000A]Dabei musst du jeweils einen der speziellen[0x000A]Tränke aussuchen, den sie vor dem Training{0xBE00}[0x000A]zur Stärkung erhalten.{0xBE01}[0x000A]Ich glaube, sie können es kaum erwarten![0x000A]Kümmer dich weiterhin gut um das Resort, ja?{0x0114,0x002F}
+Ach ja! Wenn du eines deiner Pokémon auf die[0x000A]Spa-Insel schicken möchtest, musst du es{0xBE00}[0x000A]einfach nur auf dem Schild auswählen!{0xBE01}[0x000A]Deine Pokémon sind schon ganz aufgeregt![0x000A]Kümmer dich weiterhin gut um das Resort, ja?{0x0114,0x002F}
+Willkommen im Pokémon-Resort,[0x000A]einem Archipel exklusiv für Pokémon.{0xBE01}[0x000A]Nanu? In deinen PC-Boxen befindet sich ja kein[0x000A]einziges Pokémon!{0xBE01}[0x000A]Tut mir echt leid, aber bei mir im Resort sind[0x000A]nur Pokémon aus den PC-Boxen zugelassen.{0xBE01}[0x000A]Komm zurück, wenn du ein paar Pokémon in[0x000A]den PC-Boxen abgelegt hast!
+Sieh an, du hast schon mindestens 30 Pokémon[0x000A]in deinen PC-Boxen!{0xBE01}[0x000A]Wir brauchen daher mehr Pokébohnen.[0x000A]Nichts wie ran an die Arbeit!{0x0114,0x002F}
+Sieh an, du hast schon mindestens 90 Pokémon[0x000A]in deinen PC-Boxen!{0xBE01}[0x000A]Wir brauchen daher viel mehr Pokébohnen.[0x000A]Nichts wie ran an die Arbeit!{0x0114,0x002F}
+Sieh an, du hast schon mindestens[0x000A]150 Pokémon in deinen PC-Boxen!{0xBE01}[0x000A]Wir brauchen daher enorm viele Pokébohnen.[0x000A]Nichts wie ran an die Arbeit!{0x0114,0x002F}
+Nanu, werden die Pokémon in deinen PC-Boxen[0x000A]etwa weniger? Wie schade!{0xBE01}[0x000A]Ich würde mich sehr freuen, wenn ich mich[0x000A]wenigstens um 30 Pokémon kümmern könnte.{0x0114,0x002F}
+Nanu, werden die Pokémon in deinen PC-Boxen[0x000A]etwa weniger? Wie schade!{0xBE01}[0x000A]Ich würde mich sehr freuen, wenn ich mich[0x000A]wenigstens um 90 Pokémon kümmern könnte.{0x0114,0x002F}
+Nanu, werden die Pokémon in deinen PC-Boxen[0x000A]etwa weniger? Wie schade!{0xBE01}[0x000A]Ich würde mich sehr freuen, wenn ich mich[0x000A]wenigstens um 150 Pokémon kümmern könnte.{0x0114,0x002F}
+Willkommen im Pokémon-Resort! Ich baue hier[0x000A]ein Archipel exklusiv für Pokémon!{0xBE01}[0x000A]Nanu? In deinen PC-Boxen befindet sich ja kein[0x000A]einziges Pokémon!{0xBE01}[0x000A]Tut mir echt leid, aber bei mir im Resort sind[0x000A]nur Pokémon aus den PC-Boxen zugelassen.{0xBE01}[0x000A]Komm wieder, wenn du ein paar Pokémon in[0x000A]den PC-Boxen abgelegt hast!{0x0114,0x002F}
+Du hast alle Voraussetzungen erfüllt, um eine[0x000A]Insel auszubauen!{0xBE01}[0x000A]Besuch mich in meinem Hausfloß,[0x000A]dort besprechen wir alles Weitere!{0x0114,0x002F}
+Einfach überwältigend, {0x0100,0x0000}!{0xBE01}[0x000A]Das Pokémon-Resort ist jetzt bis zum letzten[0x000A]Kiesel ausgebaut.{0xBE01}[0x000A]Und das haben wir alles dir zu verdanken,[0x000A]{0x0100,0x0000}!{0xBE01}[0x000A]Ich möchte dir das hier schenken, als Zeichen[0x000A]meiner Dankbarkeit!{0x0114,0x002F}
+{0xBE05,0x0002}Du erhältst 10 Regenbogen-Pokébohnen!{0xBE05,0x0003}{0x0114,0x002F}
+Bitte kümmere dich auch weiterhin gut um das[0x000A]Pokémon-Resort!
+Du kennst die Pokébohnen-Flaschenpost nicht?{0xBE01}[0x000A]Wie der Name schon sagt, ist das eine[0x000A]Flaschenpost für Pokébohnen.{0xBE01}[0x000A]Hin und wieder wird eine davon hier an Land[0x000A]gespült.{0xBE01}[0x000A]Vermutlich hat sie irgendjemand am anderen[0x000A]Ende des Ozeans den Wellen überlassen.{0xBE01}[0x000A]So eine Flaschenpost am Strand zu finden soll[0x000A]ja angeblich Glück bringen.{0xBE01}[0x000A]Ist es nicht ein schöner Gedanke, dass jemand[0x000A]Fremdes dir einfach so eine Freude macht?{0x0114,0x002F}
+Wenn du anderen eine Freude machst, wird dir[0x000A]auch etwas Gutes widerfahren!{0xBE01}[0x000A]Versuch’s doch einfach mal und schick eine mit[0x000A]Pokébohnen gefüllte Bohnenflasche auf Reisen!{0xBE01}[0x000A]Allerdings kannst du pro Tag nur eine einzige[0x000A]Bohnenflasche abschicken.{0xBE01}[0x000A]Wir legen in Alola schließlich viel Wert darauf,[0x000A]das Meer sauber zu halten.{0x0114,0x002F}
+Neben den Standard-Pokébohnen gibt es noch[0x000A]Muster-Pokébohnen und{0xBE00}[0x000A]Regenbogen-Pokébohnen!{0xBE01}[0x000A]Mit viel Glück kannst du manchmal eine dieser[0x000A]Pokébohnen auf der Wohlfühl-Insel finden.{0xBE01}[0x000A]Deine Pokémon werden ihren Geschmack lieben[0x000A]und sich über jeden Happen riesig freuen!{0x0114,0x002F}
+Ehrlich gesagt bin ich selbst ein großer Fan[0x000A]der Muster- und Regenbogen-Pokébohnen.{0xBE01}[0x000A]Ihr wohliger Duft und fabelhafter Geschmack[0x000A]machen sie für mich zu einem Dauerkauer!{0xBE01}[0x000A]...{0xBE01}[0x000A]Hey, sieh mich nicht so komisch an...!{0xBE01}[0x000A]Ich bin eben schon lange auf dieser Insel und[0x000A]mit der Zeit habe ich mich einfach an den{0xBE00}[0x000A]Geschmack der Pokébohnen gewöhnt!{0x0114,0x002F}
+Okidoki![0x000A]Damit wäre unser Tausch abgeschlossen!{0x0114,0x002F}
+{0xBDFF:0x00F1}
+Du hast dich also dazu entschlossen, mir beim[0x000A]Ausbau des Resorts zu helfen! Vielen Dank!{0xBE01}[0x000A]Okidoki! Ich kann das Pokémon-Resort um bis[0x000A]zu vier Inseln erweitern. Maximal kann es also{0xBE00}[0x000A]aus fünf Inseln bestehen.{0xBE01}[0x000A]Für den Ausbau der einzelnen Inseln benötige[0x000A]ich unterschiedlich viele Pokémon aus deinen{0xBE00}[0x000A]PC-Boxen und Standard-Pokébohnen.{0x0114,0x002F}
+Was du brauchst, um eine Insel auszubauen,[0x000A]findest du auf der Infoseite der jeweiligen Insel{0xBE00}[0x000A]unter „Benötigt“.{0xBE01}[0x000A]Okidoki! Dann sag mir doch bitte, welche Insel[0x000A]du ausbauen willst!{0x0114,0x002F}
+Wie dem auch sei!{0xBE01}[0x000A]Für eine Muster-Pokébohne gebe ich dir[0x000A]drei Standard-Pokébohnen.{0xBE01}[0x000A]Und für eine Regenbogen-Pokébohne gebe ich[0x000A]dir sieben Standard-Pokébohnen.{0x0114,0x002F}
+Auf diesem Feld ist überhaupt kein Platz mehr,[0x000A]um neue Beeren anzupflanzen!{0xBE01}[0x000A]Denke immer daran, die reifen Beeren schnell[0x000A]einzusammeln, damit du neue anpflanzen kannst!{0x0114,0x002F}
+Das Pokémon-Resort ist prächtiger geworden,[0x000A]als ich es mir je hätte erträumen können!{0xBE01}[0x000A]Du und deine Pokémon, ihr habt wirklich[0x000A]hervorragende Arbeit geleistet.{0xBE01}[0x000A]Ich weiß gar nicht, wie ich mich je bei euch[0x000A]revanchieren kann! Vielen Dank!{0xBE01}[0x000A]Ihr seid stets herzlich willkommen! Ich hoffe,[0x000A]ihr werdet auch weiterhin viel Spaß auf den{0xBE00}[0x000A]Inseln haben!{0x0114,0x002F}
+Sieht aus, als würde es noch eine ganze Weile[0x000A]dauern, bis das Pokémon aus dem Ei schlüpft.{0x0114,0x002F}
+Du scheinst mehr als genug[0x000A]Standard-Pokébohnen zu haben!{0xBE01}[0x000A]Komm wieder, wenn dein Vorrat knapp wird.{0x0114,0x002F}
+Du kommst gerade richtig![0x000A]Ich glaube, das Pokémon wird bald schlüpfen!{0x0114,0x002F}
+Sobald du die Beeren angepflanzt hast, solltest[0x000A]du ein paar Pokébohnen hinterlegen.{0x0114,0x002F}
+Die Bohnenflasche treibt aufs Meer hinaus!{0x0114,0x002F}
+Willst du das Pokémon-Resort verlassen?{0x0114,0x002F}
+Okidoki! Schau später wieder vorbei!{0x0114,0x002F}
+Im Moment könntest du die Wohlfühl-Insel[0x000A]ausbauen. Ich warte im Hausfloß auf dich!{0x0114,0x002F}
+Im Moment könntest du die Beeren-Insel[0x000A]ausbauen. Ich warte im Hausfloß auf dich!{0x0114,0x002F}
+Im Moment könntest du die Abenteuer-Insel[0x000A]erweitern. Ich warte im Hausfloß auf dich!{0x0114,0x002F}
+Im Moment könntest du die Fitness-Insel[0x000A]erweitern. Ich warte im Hausfloß auf dich!{0x0114,0x002F}
+Im Moment könntest du die Spa-Insel erweitern.[0x000A]Ich warte im Hausfloß auf dich!{0x0114,0x002F}
+{0x0101,0x0000} hat sich in einen Pokéball[0x000A]begeben!{0x0114,0x002F}
+{0xBDFF:0x0104}
+{0xBDFF:0x0105}

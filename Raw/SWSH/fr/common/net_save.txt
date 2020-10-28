@@ -1,0 +1,7 @@
+net_save_win_01={0xBDFF:0x0000}
+net_save_win_02={0xBDFF:0x0001}
+net_save_win_03={0xBDFF:0x0002}
+net_save_win_04={0xBDFF:0x0003}
+net_save_sel_01={0xBDFF:0x0004}
+net_save_sel_02={0xBDFF:0x0005}
+net_save_win_05=L’autre joueur a choisi d’annuler l’échange.[0x000A]L’échange a donc été interrompu.{0xBE01}

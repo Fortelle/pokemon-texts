@@ -1,0 +1,15 @@
+Je m’ennuie tellement que j’ai décidé de[0x000A]consacrer le reste de ma vie à partager mon{0xBE00}[0x000A]savoir avec les djeunz qui croisent mon chemin.{0xBE01}[0x000A]Souhaites-tu que j’enseigne mes capacités[0x000A]ultimes à tes Pokémon[0xE07F]?
+Veux-tu que j’enseigne une capacité ultime[0x000A]à ton Pokémon[0xE07F]?
+J’ai bien peur qu’aucun de tes Pokémon[0x000A]ne puisse apprendre mes capacités.{0xBE01}[0x000A]Consulte donc la liste des Pokémon aptes[0x000A]à recevoir mes enseignements.
+N’hésite pas à revenir me voir, j’aime donner[0x000A]un coup de pouce aux djeunz comme toi[0xE07F]!
+Très bien. Lequel de tes compagnons va[0x000A]bénéficier de mon savoir[0xE07F]?
+Je sais que tu es un djeunz mais tu devrais[0x000A]savoir que ce Pokémon ne peut pas apprendre{0xBE00}[0x000A]mes capacités.{0xBE01}[0x000A]Consulte donc la liste des Pokémon aptes à[0x000A]recevoir mes enseignements.
+Mais enfin[0xE07F]! Tout le monde sait que les Œufs ne[0x000A]peuvent rien apprendre[0xE07F]!
+Les djeunz ne sont pas assez proches de leurs[0x000A]Pokémon, c’est ce que je dis toujours.{0xBE01}[0x000A]Tu dois renforcer tes liens avec ton protégé si[0x000A]tu veux qu’il reçoive mon enseignement.
+Ne me dis pas que tu ne sais pas que ton[0x000A]Pokémon connaît déjà cette capacité[0xE07F]!
+Veux-tu que j’enseigne {0x0107,0x0001}[0x000A]à {0x0101,0x0000}[0xE07F]?
+Voici la liste des Pokémon aptes à apprendre[0x000A]les capacités ultimes.{0xBE01}[0x000A]- Pokémon Feu : Dracaufeu, Typhlosion,[0x000A]Braségali, Simiabraz, Roitiflam, Goupelin,[0x000A]Félinferno{0xBE01}[0x000A]- Pokémon Eau : Tortank, Aligatueur, Laggron,[0x000A]Pingoléon, Clamiral, Amphinobi, Oratoria{0xBE01}[0x000A]- Pokémon Plante : Florizarre, Méganium,[0x000A]Jungko, Torterra, Majaspic, Blindépique,[0x000A]Archéduc
+Choisissez une capacité à oublier pour faire[0x000A]place à {0x0107,0x0000}.
+{0x0102,0x0000} apprend[0x000A]{0x0107,0x0001}[0xE07F]!{0xBE05,0x0004}{0xBE05,0x0001}
+1{0xBE02:0x0014}, 2{0xBE02:0x0014}, {0xBE02:0x0014}[0xE08D] {0xBE02:0x0014}[0xE08D] Tadaaa[0xE07F]!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} oublie[0x000A]{0x0107,0x0001}.{0xBE01}[0x000A]Et[0xE08D]{0xBE01}[0x000A]Il apprend {0x0107,0x0002}[0xE07F]!{0xBE05,0x0004}{0xBE05,0x0001}
+{0x0102,0x0000} n’a pas appris[0x000A]{0x0107,0x0001}.

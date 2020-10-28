@@ -1,0 +1,12 @@
+msg_t0701_i0101_poke1_01_pop=¡Korch, korch!
+msg_t0701_i0101_npc1_01=¡Bienvenid{0x1100,0x00FF,0x0101}oa al Asador El Atracón! ¡No te vayas[0x000A]sin degustar nuestros deliciosos platos!
+msg_t0701_i0101_npc2_01=¿A que es bonito ese tapiz? Lo compré en una[0x000A]feria de antigüedades.
+msg_t0701_i0101_npc3_01=Para afrontar un combate como está mandado,[0x000A]hay que ir con el estómago bien lleno.
+msg_t0701_i0101_npc4_01=La comida de este restaurante es exquisita. Solo[0x000A]por eso ya vale la pena visitar el pueblo.
+msg_t0701_i0101_npc5_01=Eso de hablar del trabajo durante el almuerzo...[0x000A]¡Nanay! ¿Para que se me atragante la comida?
+msg_t0701_i0101_npc6_01=¡Esto está en su punto justo!{0xBE01}[0x000A]La carne está jugosita, pero sin perder la textura[0x000A]y consistencia adecuadas.{0xBE01}[0x000A]¡Tengo que felicitar al cocinero!
+msg_t0701_i0101_npc7_01=No hay nada como ver a mi pequeñín comer con[0x000A]tamaña fruición. ¡Parece tan feliz!
+msg_t0701_i0101_npc8_01=Este plato está realmente delicioso.{0xBE01}[0x000A]Me gustaría tener la receta para prepararlo en[0x000A]casa y dárselo también a mis Pokémon.
+msg_t0701_i0101_bg1_01=Es un tapiz que representa a los dos héroes, tras[0x000A]haber perdido su espada y su escudo.
+msg_t0701_i0101_bg1_02=¿Se trata acaso de un tapiz?[0x000A]Te resulta ligeramente familiar.
+msg_t0701_i0101_bg2_01=¡Es un retrato del propietario, Darren Trekot!{0xBE01}[0x000A]Representa la imagen de un hombre dedicado en[0x000A]cuerpo y alma a alcanzar la perfección culinaria.

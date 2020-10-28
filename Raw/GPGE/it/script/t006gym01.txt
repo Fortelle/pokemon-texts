@@ -1,0 +1,12 @@
+msg_t006gym01_gym_01=Ti aspettavo, aspirante Campione{0x1100,0x00FF,0x0300}ssa!{0xBE01}[0x000A]Il Capopalestra Lt. Surge è un Allenatore[0x000A]fulminante!{0xBE01}[0x000A]È un esperto di Pokémon di tipo Elettro, perciò[0x000A]quelli di tipo Volante e Acqua sono a rischio.{0xBE01}[0x000A]Fai attenzione anche alle paralisi!{0xBE01}[0x000A]Lt. Surge è molto prudente, quindi[0x000A]non ti sarà facile raggiungerlo!
+msg_t006gym01_gym_02=Wow! Che lotta elettrizzante!
+msg_t006gym01_statue_01=Palestra di Aranciopoli{0xBE01}[0x000A]Allenatori certificati da Lt. Surge:[0x000A]{0x0100,0x0001}
+msg_t006gym01_statue_02=Palestra di Aranciopoli{0xBE01}[0x000A]Allenatori certificati da Lt. Surge:[0x000A]{0x0100,0x0001} e {0x0100,0x0000}
+msg_t006gym01_gomi_01=Acqua![0x000A]C’è solo spazzatura qui!
+msg_t006gym01_gomi_02=Fuoco![0x000A]C’è un pulsante sul fondo del bidone!{0xBE01}[0x000A]Prova a premerlo!
+msg_t006gym01_gomi_05=La prima barriera elettrica è stata disattivata.
+msg_t006gym01_gomi_03=La seconda barriera elettrica è stata disattivata.[0x000A]Ora puoi passare.
+msg_t006gym01_gomi_04=Ah! La barriera elettrica è stata riattivata!
+msg_t006gym01_gomi_06=Un bidone rosso.
+msg_t006gym01_gomi_07=Un bidone blu.
+msg_t006gym01_gomi_08=Hai già premuto il pulsante dentro[0x000A]a questo bidone.

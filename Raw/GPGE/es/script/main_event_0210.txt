@@ -1,0 +1,10 @@
+msg_main0210_musashi_01={0xFF00,0x0009}???: {0xFF00,0x0000}¡Alto ahí!
+msg_main0210_musashi_02={0xFF00,0x0009}???:{0xFF00,0x0000} ¡Ese fósil nos pertenece, niñat{0x1100,0x00FF,0x0101}oa!
+msg_main0210_kojiro_01={0xFF00,0x0009}???:{0xFF00,0x0000} ¡¿Pero tú cómo has llegado hasta aquí tan[0x000A]deprisa?!
+msg_main0210_musashi_04={0xFF00,0x0009}Jessie:{0xFF00,0x0000} ¡Somos el Team Rocket![0x000A]¡Yo soy Jessie!
+msg_main0210_kojiro_02={0xFF00,0x0009}James:{0xFF00,0x0000} ¡Y yo soy James!
+msg_main0210_musashi_05={0xFF00,0x0009}Jessie:{0xFF00,0x0000} ¡Y nos vamos a hacer con ese fósil por[0x000A]las buenas o por las malas!
+msg_main0210_dummy_01={0xBDFF:0x0006}
+msg_main0210_dummy_02={0xBDFF:0x0007}
+msg_main0210_musashi_03={0xFF00,0x0009}Team Rocket: {0xFF00,0x0000}¡El Team Rocket despega a la[0x000A]velocidad de la luz!
+msg_main0210_musashi_back={0xFF00,0x0009}Jessie:{0xFF00,0x0000} ¡Pero adónde vas con tan solo un[0x000A]Pokémon, niñ{0x1100,0x00FF,0x0101}oa!{0xBE01}[0x000A]Nos veremos las caras cuando tengas al menos[0x000A]dos Pokémon en tu equipo.

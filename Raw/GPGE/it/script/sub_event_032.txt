@@ -1,0 +1,15 @@
+msg_sub032_youngf_01={0xBDFF:0x0000}
+msg_sub032_youngf_02=Se voglio andare a fare la spesa a Plumbeopoli,[0x000A]mi tocca prendere il sentiero che passa per{0xBE00}[0x000A]il Bosco Smeraldo... È tortuosissimo!
+msg_sub032_oldm_01={0xBDFF:0x0002}
+msg_sub032_oldm_02=Stai cercando di completare il Pokédex...?[0x000A]Beh, allora voglio darti una dritta!{0xBE01}[0x000A]Prima di andare a catturare Pokémon,[0x000A]fai il pieno di Poké Ball al Pokémon-Market!
+msg_sub032_musashi_01={0xFF00,0x0009}???:{0xFF00,0x0000} E tu che vuoi? Sciò, sciò! Ci hanno detto[0x000A]di bloccare il passaggio, di qui non si passa!{0xBE01}[0x000A]Aria, ragazzin{0x1100,0x00FF,0x0101}oa!
+msg_sub032_musashi_02={0xFF00,0x0009}???:{0xFF00,0x0000} Ti ho già detto che di qui non si passa![0x000A]Non hai niente di meglio da fare, mocciosett{0x1100,0x00FF,0x0101}oa?
+msg_sub032_kojiro_01={0xFF00,0x0009}???:{0xFF00,0x0000} Qui non c’è niente da vedere, moccios{0x1100,0x00FF,0x0101}oa![0x000A]Smamma!
+msg_sub032_kojiro_02={0xFF00,0x0009}???:{0xFF00,0x0000} Ah, che noia starsene qui a bloccare[0x000A]il passaggio...{0xBE01}[0x000A]Preferirei fare un giro al Pokémon-Market...
+msg_sub032_nyasu_01={0xFF00,0x0009}Meowth:{0xFF00,0x0000} Meooo!
+msg_oyaji4_01_p03_field_t002={0xBDFF:0x0009}
+msg_oyaji4_01_p04_field_t002={0xBDFF:0x000A}
+msg_oyaji4_01_p05_field_t002={0xBDFF:0x000B}
+msg_oyaji4_01_p06_field_t002={0xBDFF:0x000C}
+msg_oyaji4_01_p07_field_t002={0xBDFF:0x000D}
+msg_oyaji4_01_p08_field_t002={0xBDFF:0x000E}

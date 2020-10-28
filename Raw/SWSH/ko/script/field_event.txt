@@ -1,0 +1,15 @@
+msg_fld_ev_spray_01=스프레이의 효과가 사라졌다!
+msg_fld_ev_spray_02=스프레이의 효과가 사라졌다![0x000A]계속해서 쓰시겠습니까?
+msg_fld_ev_spray_03={0x0100,0x0000}{0x1900,0x0001}[0x000A]{0x0109,0x0001}{0x1900,0x0002} 썼다!
+msg_fld_ev_bookshelf_01={0xBDFF:0x0003}
+msg_fld_ev_kowaserurock_01=튼튼해 보이는 바위다...![0x000A]포켓몬의 파워라면 부술 수 있을지도?
+msg_fld_ev_tv_common_01={0xBDFF:0x0005}
+msg_fld_ev_oserurock_01=크고 무거워 보이는 바위다...![0x000A]포켓몬의 파워라면 밀 수 있을지도?
+msg_egg_event_01=...어라?
+msg_ride_check_01=켄타로스를 부르겠습니까?
+msg_ride_check_02=괴력몬을 부르겠습니까?
+msg_ride_check_03=샤크니아를 부르겠습니까?
+msg_ride_check_ng_01=장소가 좁아서 여기서는[0x000A]라이드포켓몬을 부를 수 없다
+msg_bicycle_01=지금은 자전거를[0x000A]탈 수 없다
+msg_bicycle_02=지금은 자전거에서[0x000A]내릴 수 없다
+msg_fld_ev_boxfull_01=포켓몬 박스가 가득 차서[0x000A]말을 걸 수 없다!!{0xBE00}[0x000A]...다음에 다시 오자

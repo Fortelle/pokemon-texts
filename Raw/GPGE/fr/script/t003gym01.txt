@@ -1,0 +1,7 @@
+msg_t003gym01_gym_01=Tu t’apprêtes à affronter ton premier Champion[0x000A]d’Arène, non ? Tu veux un conseil ?
+msg_t003gym01_gym_02=OK ! C’est parti !
+msg_t003gym01_gym_03=Le premier Pokémon à s’élancer au combat[0x000A]est celui qui se trouve en haut à gauche dans{0xBE00}[0x000A]ton équipe.{0xBE01}[0x000A]En modifiant l’ordre des Pokémon, tu peux alors[0x000A]changer de stratégie !{0xBE01}[0x000A]Essaie de les classer selon différents ordres[0x000A]pour t’adapter au mieux à ton adversaire.
+msg_t003gym01_gym_04=C’est gratuit, profites-en !
+msg_t003gym01_gym_05=Je le savais ! Tu as l’âme d’un{0x1100,0x00FF,0x0100}e Champion{0x1100,0x00FF,0x0200}ne !
+msg_t003gym01_statue_01=Arène Pokémon d’Argenta{0xBE01}[0x000A]Champion : Pierre[0x000A]Vainqueurs : {0x0100,0x0001}
+msg_t003gym01_statue_02=Arène Pokémon d’Argenta{0xBE01}[0x000A]Champion : Pierre[0x000A]Vainqueurs : {0x0100,0x0001},{0xBE00}[0x000A]{0x0100,0x0000}

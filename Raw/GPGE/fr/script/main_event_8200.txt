@@ -1,0 +1,9 @@
+msg_main8200_rival_01={0xFF00,0x0009}{0x0100,0x0001} : {0xFF00,0x0000}Ouf ![0x000A]Je suis tellement content de te voir !
+msg_main8200_rival_02=J’ai gagné contre le Conseil 4 et je suis[0x000A]devenu Maître !
+msg_main8200_rival_07=Le Professeur Chen t’a expliqué ?{0xBE01}[0x000A]Désormais, le Maître se battra au sein de la Ligue[0x000A]et fera face aux hordes de Dresseurs qui viennent{0xBE00}[0x000A]le défier !
+msg_main8200_rival_03=Je suis super content que tu sois m{0x1100,0x00FF,0x0A0A}on premiera première[0x000A]adversaire !
+msg_main8200_rival_08=De tous les Dresseurs du monde, tu es l{0x1100,0x00FF,0x0706}e seula seule[0x000A]qui compte vraiment à mes yeux !
+msg_main8200_rival_04={0x0100,0x0000} ![0x000A]Battons-nous pour savoir qui sera le Maître !
+msg_main8200_rival_05={0xFF00,0x0009}{0x0100,0x0001} :{0xFF00,0x0000} Je t’attendais, Maître !
+msg_main8200_rival_06=Tu croyais que j’allais te laisser tranquille ? Ha ![0x000A]Je m’entraîne tous les jours pour te battre !{0xBE01}[0x000A]Laisse-moi te prévenir tout de suite : cette fois,[0x000A]je vais gagner !
+msg_rival_01_p01_cave_d1405={0xBDFF:0x0008}

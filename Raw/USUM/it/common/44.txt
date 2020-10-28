@@ -1,0 +1,112 @@
+Comunicazione wireless attivata
+Connessione a Internet attiva
+Premi il pulsante Y per uscire
+Lotta
+Scambia
+Premi il pulsante Y per accettare
+Lista giocatori bloccati
+Scambio in link
+GTS
+Scambio prodigioso
+Lotta in link
+Vai al Punto Lotta
+Scarica le regole
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+Lotta in Singolo
+Lotta in Doppio
+Lotta Multipla
+Battle Royale
+Premi il pulsante Y per bloccarla
+Sì
+No
+Comunicazione wireless disattivata
+{0xBDFF:0x0018}
+Accetta
+Vuoi uscire dal Festiplaza?
+Attendi...
+{0x0100,0x0000} ti sta invitando[0x000A]a una Lotta in Singolo.
+{0x0100,0x0000} ti sta invitando[0x000A]a una Lotta in Doppio.
+{0x0100,0x0000} ti sta invitando[0x000A]a una Lotta Multipla.
+{0x0100,0x0000} ti sta invitando[0x000A]a una Battle Royale.
+Scegli un’opzione.
+Scegli un’opzione.
+Scegli in che modo cercare i partecipanti.
+Scegli il formato della lotta.
+Gli utenti aggiunti alla lista dei giocatori bloccati[0x000A]non potranno più comunicare con te.{0xBE01}[0x000A]Vuoi aggiungere questa persona alla lista[0x000A]dei giocatori bloccati?
+La lista dei giocatori bloccati è stata aggiornata.{0xBE01}
+La scheda SD è piena.[0x000A]Impossibile completare l’operazione.{0xBE01}[0x000A]Esci dal gioco e libera spazio sulla scheda SD.
+Richiesta di Lotta in Singolo in corso.
+Richiesta di Lotta in Doppio in corso.
+Richiesta di Lotta Multipla in corso.
+Richiesta di Battle Royale in corso.
+Tutti hanno accettato!
+{0x0100,0x0000} ha accettato.
+{0x0100,0x0000} non ha accettato la richiesta.{0xBE01}
+Ricerca partecipanti in corso.
+Hai ricevuto una richiesta da {0x0100,0x0000}!
+Vuoi annullare la ricerca di partecipanti?
+Vuoi annullare la richiesta?
+La richiesta è stata annullata.
+La comunicazione si è interrotta.{0xBE01}
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+Uscita dal minigioco in corso.[0x000A]Attendi...
+La comunicazione wireless è disattivata.{0xBE01}[0x000A]Impossibile stabilire la connessione.[0x000A]L’operazione verrà terminata.{0xBE01}
+{0xBDFF:0x0038}
+Comunicazione in corso. Attendi...
+La connessione si è interrotta.{0xBE01}
+{0xBDFF:0x003B}
+{0xBDFF:0x003C}
+{0xBDFF:0x003D}
+{0xBDFF:0x003E}
+Preparativi in corso.[0x000A]Attendi...
+Richiesta di scambio in link in corso.
+{0x0100,0x0000} ti sta invitando a uno[0x000A]scambio in link.
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}
+{0xBDFF:0x0046}
+Il minigioco “{0x01B5,0x0000}” è in corso. Tocca qui per partecipare!
+{0xBDFF:0x0048}
+La comunicazione wireless è disattivata.[0x000A][0x000A]Attiva la comunicazione wireless per poter[0x000A]stabilire una connessione.
+Durante l’ultimo scambio in link o l’ultima[0x000A]connessione alla GTS si è verificato un errore[0x000A]di comunicazione, la console si è spenta o si[0x000A]è riscontrato un problema di altro tipo.[0x000A]Per questo motivo, al momento non è possibile[0x000A]effettuare scambi in link o connettersi alla GTS.[0x000A][0x000A]{0xFF00,0x0002}Riprova più tardi.{0xFF00,0x0000}
+Per poter fare uno scambio devi avere almeno[0x000A]due Pokémon.[0x000A][0x000A]Catturane un po’ e riprova.
+Non puoi riprendere il Pokémon che hai[0x000A]depositato nella GTS perché la tua squadra[0x000A]e i Box del PC sono al completo.[0x000A][0x000A]Riprova quando avrai fatto spazio.
+Per poter partecipare a una Lotta in Doppio[0x000A]devi avere almeno due Pokémon.[0x000A][0x000A]Prepara la tua squadra e riprova.
+Impossibile connettersi a Internet a causa[0x000A]delle impostazioni del filtro famiglia.
+{0xBDFF:0x004F}
+{0xBDFF:0x0050}
+{0xBDFF:0x0051}
+{0xBDFF:0x0052}
+{0xBDFF:0x0053}
+{0xBDFF:0x0054}
+{0xBDFF:0x0055}
+{0xBDFF:0x0056}
+{0xBDFF:0x0057}
+{0xBDFF:0x0058}
+{0xBDFF:0x0059}
+{0xBDFF:0x005A}
+{0xBDFF:0x005B}
+{0xBDFF:0x005C}
+Tempo:
+{0x0201,0x0000}
+{0x0200,0x0000}
+/
+{0x0100,0x0000}
+---
+Vuoi abbandonare il minigioco?
+{0x0201,0x0000}:{0x0201,0x0001}
+{0x01B5,0x0000}
+Tempo rimasto
+Punteggio totale
+Punteggio individuale
+Partecipanti
+{0x0201,0x0000}
+:
+{0x0204,0x0000,0x0000}
+{0x0202,0x0000}
+Premi il pulsante Y per uscire
+Obiettivo

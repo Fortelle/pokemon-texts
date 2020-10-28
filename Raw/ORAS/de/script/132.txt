@@ -1,0 +1,131 @@
+Hier steht:{0xBE01}[0x000A]„Pokémon-Kämpfe erwünscht![0x000A]Kampfart: {0x01AC,0x0001}!“{0xBE00}[0x000A]Möchtest du die Kampfart ändern?
+Einzelkampf
+Doppelkampf
+Dreierkampf
+Reihumkampf
+Umkehrkampf
+Nicht ändern
+Die Kampfart wurde zu {0x01AC,0x0001}[0x000A]geändert!
+{0x01AC,0x0001} ist bereits die derzeit[0x000A]festgelegte Kampfart!
+Hier steht:{0xBE01}[0x000A]„Pokémon-Kämpfe erwünscht![0x000A]Kampfart: {0x01AC,0x0001}!“
+Einzelkampf
+Doppelkampf
+Dreierkampf
+Reihumkampf
+Umkehrkampf
+Levelbegrenzung: {0x01AD,0x0002}{0xBE01}[0x000A]Möchtest du eine Änderung vornehmen?
+Die Levelbegrenzung wurde geändert zu:[0x000A]{0x01AD,0x0002}
+Hier steht:{0xBE01}[0x000A]„Mysteriöse Wellen ermöglichen es dir, den Level der[0x000A]am Kampf teilnehmenden Pokémon zu begrenzen.{0xBE01}[0x000A]Lege hierzu die gewünschte Levelbegrenzung fest.{0xBE01}[0x000A]Beachte jedoch, dass bei einem Handicap von[0x000A]Level 30 sowie 50 keine Erfahrungspunkte gesammelt{0xBE00}[0x000A]werden können.“
+Die Levelbegrenzung wurde bereits auf[0x000A]„{0x01AD,0x0002}“ gesetzt.
+Hier steht:{0xBE01}[0x000A]„Levelbegrenzung: {0x01AD,0x0002}“{0xBE01}[0x000A]Möchtest du die Erklärung lesen?
+Hier steht:{0xBE01}[0x000A]„Mysteriöse Wellen ermöglichen es dir, den Level der[0x000A]am Kampf teilnehmenden Pokémon zu begrenzen.{0xBE01}[0x000A]Lege hierzu die gewünschte Levelbegrenzung fest.{0xBE01}[0x000A]Beachte jedoch, dass bei einem Handicap von[0x000A]Level 30 sowie 50 keine Erfahrungspunkte gesammelt{0xBE00}[0x000A]werden können.“
+Ohne Levelbegrenzung
+Level-Handicap 30
+Level-Handicap 50
+Erklärung
+Nein
+Ohne Levelbegrenzung
+Level-Handicap 30
+Level-Handicap 50
+Hier steht:[0x000A]„{0x01AB,0x0003}!“{0xBE01}[0x000A]Möchtest du den Text ändern?
+Du hast folgenden Text hinterlassen:[0x000A]„{0x01AB,0x0003}!“
+Hier steht:[0x000A]„{0x01AB,0x0003}!“
+Möchtest du die Nachricht[0x000A]„{0x01AB,0x0004}“ ändern?
+Du hast die Nachricht geändert zu:[0x000A]„{0x01AB,0x0004}“
+{0x01AB,0x0004}
+Das Licht ist ausgegangen!
+Das Licht ist angegangen!
+Die Lampe sieht sehr zerbrechlich aus.
+Buntes Licht erhellt die Umgebung!
+Arena von {0x0100,0x0000}!
+Die Bestleistung von {0x0100,0x0000} beträgt:[0x000A]{0x0202,0x0007} Treffer!{0xBE01}[0x000A]Möchtest du einen Versuch wagen?
+Also!{0xBE01}[0x000A]Auf die Fäuste, fertig... los!
+Die Zeit ist um!
+Die Gesamtzahl deiner Treffer beträgt {0x0202,0x0002}![0x000A]Eine neue persönliche Bestleistung!
+Die Gesamtzahl deiner Treffer beträgt {0x0202,0x0002}!
+Die Bestleistung von {0x0100,0x0005} beträgt[0x000A]{0x0202,0x0001} Treffer!{0xBE01}[0x000A]Die Bestleistung von {0x0100,0x0000} beträgt[0x000A]{0x0202,0x0007} Treffer!{0xBE01}[0x000A]{0x0100,0x0006} liegt derzeit in Führung![0x000A]Möchtest du einen Versuch wagen?
+Die Bestleistung von {0x0100,0x0005} beträgt[0x000A]{0x0202,0x0001} Treffer!{0xBE01}[0x000A]Die Bestleistung von {0x0100,0x0000} beträgt[0x000A]{0x0202,0x0007} Treffer!{0xBE01}[0x000A]Das ist ein Unentschieden!{0xBE01}[0x000A]Möchtest du einen Versuch wagen?
+Hier steht:[0x000A]„Bitte wähle ein Musikstück, das dir gefällt!“{0xBE01}[0x000A]Möchtest du ein Musikstück auswählen?
+Aus dem Lautsprecher ertönt[0x000A]nun eine andere Musik!
+Dieses Musikstück läuft doch bereits!
+Musikstück 1
+Musikstück 2
+Musikstück 3
+Musikstück 4
+Musikstück 5
+Nein
+Das ist eine Jukebox!
+Der Strohballen ist straff gebündelt.[0x000A]Ein Pokémon könnte ihn vielleicht zerschneiden.{0xBE01}[0x000A]Möchtest du Zerschneider einsetzen?
+Der Strohballen ist straff gebündelt.[0x000A]Ein Pokémon könnte ihn vielleicht zerschneiden.
+Ein perfekter Schnitt!
+...{0xBE01}[0x000A]...{0xBE01}[0x000A]...
+Das Bett ist flauschig weich.[0x000A]Zeit für ein Päuschen.
+Bei genauem Hinsehen entpuppt er sich als Spielzeug-PC![0x000A]Er sieht einem echten zum Verwechseln ähnlich!
+Der Abfalleimer ist leer.
+Das ist eine beeindruckende Urkunde!{0xBE01}[0x000A]Darauf steht geschrieben:{0xBE01}[0x000A]„In Anerkennung der Vervollständigung[0x000A]des Regionalen Pokédex!“
+Das ist eine beeindruckende Urkunde!{0xBE01}[0x000A]Darauf steht geschrieben:{0xBE01}[0x000A]„In Anerkennung der Vervollständigung[0x000A]des Nationalen Pokédex!“
+Das ist eine beeindruckende Urkunde!{0xBE01}[0x000A]Darauf steht geschrieben:{0xBE01}[0x000A]„In Anerkennung der vollbrachten[0x000A]Zeitreise von Pokémon!“
+Das ist ein Spielzeugfernseher![0x000A]Er sieht einem echten zum Verwechseln ähnlich!
+Dieser Spielzeugfernseher sieht ja wie ein Samurzel aus![0x000A]Na, wenn der mal nicht wegrollt!
+Dieser Spielzeugfernseher sieht ja wie ein Eneco aus![0x000A]Na, wenn der mal nicht wegläuft!
+Das ist ein Poster von einem Pokéball!
+Das ist ein Poster von Geckarbor!
+Das ist ein Poster von Flemmli!
+Das ist ein Poster von Hydropi!
+Das ist ein Poster von Azurill!
+Das ist ein Poster von Pikachu und Pichu!
+Das ist ein Poster von Vipitis!
+Das ist ein Poster von Relicanth!
+Das ist ein Poster von Wingull!
+Das ist ein Poster von Kussilla!
+Das ist ein vortreffliches Bild![0x000A]Es stellt Groudon in seiner ganzen Pracht dar!
+Das ist ein vortreffliches Bild![0x000A]Es stellt Kyogre in seiner ganzen Pracht dar!
+Das ist ein vortreffliches Bild![0x000A]Es stellt Rayquaza in seiner ganzen Pracht dar!
+Das ist eine vortreffliche Schriftrolle![0x000A]Die hast du in Vatis Arena gesehen!
+Das ist eine Puppe, die wie Pichu aussieht.
+Das ist eine Puppe, die wie Pikachu aussieht.
+Das ist eine Puppe, die wie Marill aussieht.
+Das ist eine Puppe, die wie Togepi aussieht.
+Das ist eine Puppe, die wie Feurigel aussieht.
+Das ist eine Puppe, die wie Endivie aussieht.
+Das ist eine Puppe, die wie Karnimani aussieht.
+Das ist eine Puppe, die wie Pummeluff aussieht.
+Das ist eine Puppe, die wie Mauzi aussieht.
+Das ist eine Puppe, die wie Piepi aussieht.
+Das ist eine Puppe, die wie Ditto aussieht.
+Das ist eine Puppe, die wie Kussilla aussieht.
+Das ist eine Puppe, die wie Geckarbor aussieht.
+Das ist eine Puppe, die wie Flemmli aussieht.
+Das ist eine Puppe, die wie Hydropi aussieht.
+Das ist eine Puppe, die wie Zwirrlicht aussieht.
+Das ist eine Puppe, die wie Isso aussieht.
+Das ist eine Puppe, die wie Puppance aussieht.
+Das ist eine Puppe, die wie Kecleon aussieht.
+Das ist eine Puppe, die wie Azurill aussieht.
+Das ist eine Puppe, die wie Eneco aussieht.
+Das ist eine Puppe, die wie Wablu aussieht.
+Das ist eine Puppe, die wie Schluppuck aussieht.
+Das ist eine Puppe, die wie Loturzel aussieht.
+Das ist eine Puppe, die wie Samurzel aussieht.
+Das ist eine Delegator-Puppe.
+Das ist eine Puppe, die wie Relaxo aussieht.
+Das ist eine Puppe, die wie Rizeros aussieht.
+Das ist eine Puppe, die wie Lapras aussieht.
+Das ist eine Puppe, die wie Bisaflor aussieht.
+Das ist eine Puppe, die wie Glurak aussieht.
+Das ist eine Puppe, die wie Turtok aussieht.
+Das ist eine Puppe, die wie Wailmer aussieht.
+Das ist eine Puppe, die wie Regice aussieht.
+Das ist eine Puppe, die wie Regirock aussieht.
+Das ist eine Puppe, die wie Registeel aussieht.
+Das ist eine Puppe, die wie Kecleon aussieht.[0x000A]Bei Berührung wird sie anscheinend durchsichtig!
+Eine Puppe, die wie Kecleon aussieht, erscheint!
+Das ist eine seltsame Vorrichtung.[0x000A]Anscheinend kann man sie noch nicht benutzen...
+Das ist ein Lv.-Bewahrer.[0x000A]Möchtest du ihn aktivieren?
+Möchtest du den Lv.-Bewahrer deaktivieren?
+Der Lv.-Bewahrer wurde aktiviert!{0xBE01}[0x000A]Der Level gegnerischer Team-Pokémon[0x000A]unterliegt keiner Begrenzung mehr.
+Der Lv.-Bewahrer wurde deaktiviert!{0xBE01}[0x000A]Der Level gegnerischer Team-Pokémon[0x000A]unterliegt nun wieder einer Begrenzung.
+Du steckst in einer Fallgrube fest!
+Musikstück 6
+Musikstück 7
+Nichts abspielen

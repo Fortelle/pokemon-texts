@@ -1,0 +1,6 @@
+msg_sub004_researcher_01=Pssst, hey! Kannst du ein Geheimnis für dich[0x000A]behalten? Ich glaube, in diesem Stück Bernstein{0xBE00}[0x000A]sind konservierte Pokémon-Gene enthalten!{0xBE01}[0x000A]Es wäre eine Sensation, wenn man diese Gene[0x000A]dazu nutzen könnte, das Pokémon wieder zum{0xBE00}[0x000A]Leben zu erwecken...!{0xBE01}[0x000A]Aber meine Kollegen hier glauben mir nicht...[0x000A]Sie nehmen mich nicht ernst.{0xBE01}[0x000A]Deshalb habe ich eine große Bitte an dich.{0xBE01}[0x000A]Ich möchte, dass du den Bernstein für mich[0x000A]zu irgendeinem Pokémon-Labor bringst und{0xBE00}[0x000A]ihn dort untersuchen lässt!
+msg_sub004_sys_01={0xBDFF:0x0001}
+msg_sub004_researcher_02=Pssst! Behalt das für dich, ja?[0x000A]Und lass den Altbernstein untersuchen!
+msg_sub004_researcher_03=U-Unglaublich!!{0xBE01}[0x000A]Wurde dieses Aerodactyl, das du da bei dir hast,[0x000A]etwa aus den Genen im Altbernstein reanimiert?{0xBE01}[0x000A]Vielen Dank, dass du mir geholfen hast, meine[0x000A]Theorie zu bestätigen!
+msg_sub004_researcher_04=Gene sind einfach unglaublich interessant.[0x000A]Du solltest dich auch mit ihnen beschäftigen!
+msg_studym1_02_p04_t003_r0101={0xBDFF:0x0005}

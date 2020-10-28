@@ -1,0 +1,4 @@
+main_event_0215_npc1_01=Hallo, junger Pokémon-Trainer! Tut mir leid,[0x000A]dass ich dich einfach aufhalte.
+main_event_0215_npc1_02=Du warst doch gerade im Pokémon-Labor, oder?{0xBE01}[0x000A]Dann hast du ja bestimmt auch einen Pokédex[0x000A]bekommen.{0xBE01}[0x000A]Ich kann einfach nicht anders, als neue Trainer[0x000A]anzusprechen und ihnen etwas unter die Arme{0xBE00}[0x000A]zu greifen. Hier, für dich...
+main_event_0215_npc1_03=Das ist ein Trank.{0xBE01}[0x000A]Setze ihn ein, wenn {0x1101,0x00FD,0x0C04}deineines deiner Pokémon[0x000A]Kraftpunkte, oder kurz KP, verloren hat.{0xBE01}[0x000A]Tränke kannst du übrigens auch in Kämpfen[0x000A]einsetzen.
+main_event_0215_npc1_04=Wissen ist Macht! Wer sich informiert, hat schon[0x000A]halb gewonnen.{0xBE01}[0x000A]Sprich daher immer so viele Leute an, wie du nur[0x000A]kannst, und lies genau, was auf Schildern steht!

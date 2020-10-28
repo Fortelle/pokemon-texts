@@ -1,0 +1,15 @@
+Hast du zufällig ein Pokémon dabei, das du von[0x000A]einem Inselkönig geschenkt bekommen hast?{0xBE01}[0x000A]Wenn du nämlich so ein Pokémon oder eine[0x000A]seiner Entwicklungsstufen im Team hast, das{0xBE00}[0x000A]dem Typ Feuer, Wasser oder Pflanze angehört,{0xBE00}[0x000A]und außerdem noch zutraulich ist, kann ich ihm{0xBE00}[0x000A]eine besondere Kombi-Attacke beibringen!
+Soll ich einem deiner Pokémon eine besondere[0x000A]Kombi-Attacke beibringen?
+Tut mir leid, aber du hast kein Pokémon dabei,[0x000A]dem ich eine Attacke beibringen könnte...
+Da kann man nichts machen.[0x000A]Dann eben ein anderes Mal!
+Welchem Pokémon soll ich eine Attacke[0x000A]beibringen?
+Dieses Pokémon kann keine Kombi-Attacke[0x000A]erlernen!
+Was? Soll das ein schlechter Scherz sein?[0x000A]Ein Ei kann keine Attacken erlernen!
+Lass es mich so ausdrücken: Dieses Pokémon[0x000A]ist noch nicht zutraulich genug...
+Dieses Pokémon beherrscht doch bereits[0x000A]eine meiner Attacken!
+Soll ich {0x0101,0x0000} die Attacke[0x000A]{0x0107,0x0001} beibringen?
+Am liebsten sind mir Pokémon, die man von[0x000A]einem Inselkönig oder von einem Professor{0xBE00}[0x000A]geschenkt bekommt!{0xBE01}[0x000A]Diesen kann ich ganz besondere Attacken,[0x000A]die man Kombi-Attacken nennt, beibringen.{0xBE01}[0x000A]Das ist mein ganz spezieller Service für dich!
+Welche Attacke soll durch[0x000A]{0x0107,0x0000} ersetzt werden?
+{0x0102,0x0000} erlernt[0x000A]{0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+Eins,{0xBE02:0x0014} zwei{0xBE02:0x0014} und{0xBE02:0x0014}... schwupp!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} hat {0x0107,0x0001}[0x000A]vergessen und {0x0107,0x0002} erlernt!{0xBE05,0x0004}{0xBE05,0x0001}
+{0x0102,0x0000} hat[0x000A]{0x0107,0x0001} nicht erlernt.

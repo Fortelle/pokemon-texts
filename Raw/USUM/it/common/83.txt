@@ -1,0 +1,38 @@
+Comunicazione in corso.[0x000A]Attendi...
+Cosa vuoi fare?
+Vuoi interrompere il collegamento in link?
+Interruzione della connessione in corso.
+Sarà {0x0100,0x0000} a decidere.
+La connessione si è interrotta.{0xBE01}
+Comunicazione in corso.[0x000A]Attendi...
+Inizieranno i preparativi per una Lotta in Singolo.
+Inizieranno i preparativi per una Lotta in Doppio.
+Inizieranno i preparativi per una Battle Royale.
+Inizieranno i preparativi per uno scambio in link.
+{0x0100,0x0000} lascerà decidere a te.
+Al momento {0x0100,0x0000} non può fare[0x000A]scambi perché la connessione si è interrotta{0xBE01}[0x000A]durante l’ultimo scambio in link, si è verificato[0x000A]un errore con la GTS o la console si è spenta.{0xBE00}[0x000A]Riprova più tardi.{0xBE01}
+Al momento non è possibile effettuare scambi[0x000A]perché la connessione si è interrotta durante{0xBE01}[0x000A]l’ultimo scambio in link, si è verificato un errore[0x000A]con la GTS o la console si è spenta.{0xBE00}[0x000A]Riprova più tardi.{0xBE01}
+{0x0100,0x0000} ha un solo Pokémon.[0x000A]Impossibile avviare uno scambio.{0xBE01}
+Avete entrambi un solo Pokémon.[0x000A]Impossibile avviare uno scambio.{0xBE01}
+{0x0100,0x0000} ha un solo Pokémon[0x000A]in squadra o nei Box.{0xBE01}[0x000A]Impossibile avviare una Lotta in Doppio.{0xBE01}
+Avete entrambi un solo Pokémon in squadra[0x000A]o nei Box.{0xBE01}[0x000A]Impossibile avviare una Lotta in Doppio.{0xBE01}
+{0x0100,0x0000}
+Lotta in Singolo
+Lotta in Doppio
+{0xBDFF:0x0015}
+Scambio in link
+Lascia decidere all’altro giocatore
+{0x0100,0x0000} sta scegliendo...
+Sfiderai l’altro giocatore a una Lotta in Singolo.[0x000A]Entrambi i giocatori devono avere almeno un Pokémon[0x000A]che può partecipare alla lotta.
+Sfiderai l’altro giocatore a una Lotta in Doppio.[0x000A]Entrambi i giocatori devono avere almeno due Pokémon[0x000A]che possono partecipare alla lotta in squadra o nei Box.
+Proporrai all’altro giocatore uno scambio in link.[0x000A]Entrambi i giocatori devono avere almeno due Pokémon.
+Sfiderai l’altro giocatore a una Lotta in Singolo.[0x000A]Entrambi i giocatori devono avere almeno un Pokémon[0x000A]che può partecipare alla lotta.
+Lascerai che sia l’altro giocatore a scegliere.
+Potresti ricevere un invito a una Lotta in Singolo,[0x000A]una Lotta in Doppio o uno scambio in link.
+Scambio in link
+Lotta in Singolo
+Lotta in Doppio
+{0xBDFF:0x0022}
+Lascia decidere all’altro giocatore
+Sì
+No

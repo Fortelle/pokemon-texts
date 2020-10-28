@@ -1,0 +1,11 @@
+main_event_1370_sister_01=Das war schon ein bisschen bewegend!{0x0114,0x000D}
+main_event_1370_leader_01=Du hast den Kampf also mitverfolgt?{0xBE01}[0x000A]Dann kann ich nur hoffen, dass du dir kein[0x000A]Vorbild an mir nimmst, Schwesterchen...{0x0114,0x0016}
+main_event_1370_sister_02=Ach was, deine Taktik war nicht übel! Ich hab mir[0x000A]ein paar gute Tricks von dir abschauen können.{0x0114,0x000D}
+main_event_1370_leader_02=Wirklich? Hm...{0xBE01}[0x000A]Hör mal, Mary. Es gibt da was, was ich dir[0x000A]sagen wollte...{0x0114,0x0016}
+main_event_1370_leader_03=Ich würde meine Stelle als Arenaleiter von[0x000A]Spikeford gern an dich abtreten.{0x0114,0x0016}
+main_event_1370_sister_03=Das weiß ich doch schon längst.{0xBE01}[0x000A]Du willst nach dem Turnier zurücktreten, richtig?{0x0114,0x000D}
+main_event_1370_sister_04=Weißt du... Dafür, dass du dich strikt weigerst,[0x000A]Dynamax einzusetzen, hast du als Arenaleiter{0xBE00}[0x000A]echt gute Arbeit geleistet.{0x0114,0x000D}
+main_event_1370_sister_05=Das mag ich an dir, Bruderherz.[0x000A]Aber...{0xBE01}[0x000A]Ich muss dich trotzdem enttäuschen.[0x000A]Meine Antwort ist „nein“.{0x0114,0x000D}
+main_event_1370_sister_06=Ich will doch der nächste Champ werden![0x000A]Da kann ich nicht auch noch Arenaleiterin sein.{0x0114,0x000D}
+main_event_1370_leader_04=Stimmt, da war ja was...{0xBE01}[0x000A]Okay, dann lass mich doch mal überprüfen,[0x000A]ob du das Zeug zum Champ hast!{0x0114,0x0016}
+main_event_1370_sister_07=Danke, dass du meinem Bruder so einen tollen[0x000A]Kampf geliefert hast, {0x0100,0x0000}.{0xBE01}[0x000A]Aber jetzt bin ich dran, du darfst dich also[0x000A]vom Acker machen. Bis bald!{0x0114,0x000D}

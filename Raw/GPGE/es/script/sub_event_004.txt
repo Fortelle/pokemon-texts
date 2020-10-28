@@ -1,0 +1,6 @@
+msg_sub004_researcher_01=¡Shhh! Voy a contarte un secreto.{0xBE01}[0x000A]Creo que este trozo de ámbar contiene el ADN[0x000A]de un Pokémon.{0xBE01}[0x000A]Utilizar estos restos para devolver un Pokémon[0x000A]a la vida sería el hallazgo del siglo, ¿no crees?{0xBE01}[0x000A]Pero mis colegas no me hacen ni caso, ¡por eso[0x000A]necesito tu ayuda!{0xBE01}[0x000A]¿Podrías llevar esto a algún laboratorio para[0x000A]que lo examinen y podamos sacar algo en{0xBE00}[0x000A]claro?
+msg_sub004_sys_01={0xBDFF:0x0001}
+msg_sub004_researcher_02=¡Shhh! ¡Lleva el Ámbar Viejo a un laboratorio[0x000A]para que lo analicen!
+msg_sub004_researcher_03=¡Ahí va! ¡No me digas que ese Aerodactyl es[0x000A]el Pokémon que ha surgido del trozo de ámbar!{0xBE01}[0x000A]No sabes lo feliz que estoy ahora mismo.[0x000A]¡Muchas gracias por ayudarme a demostrar mi{0xBE00}[0x000A]teoría!
+msg_sub004_researcher_04=La genética es fascinante, ¿no te parece?[0x000A]Oye, te podrías dedicar a esto. Seguro que se te{0xBE00}[0x000A]da de maravilla...
+msg_studym1_02_p04_t003_r0101={0xBDFF:0x0005}

@@ -1,0 +1,6 @@
+msg_sub004_researcher_01=Shh! Listen, I need to share a[0x000A]secret with someone.{0xBE01}[0x000A]I think that this chunk of amber[0x000A]contains Pokémon DNA!{0xBE01}[0x000A]It would be a shattering scientific[0x000A]breakthrough if Pokémon could be{0xBE00}[0x000A]resurrected from it.{0xBE01}[0x000A]But my colleagues just ignore[0x000A]what I have to say.{0xBE01}[0x000A]So I have a favor to ask!{0xBE01}[0x000A]I want you to get this examined at[0x000A]a Pokémon Lab somewhere.
+msg_sub004_sys_01={0xBDFF:0x0001}
+msg_sub004_researcher_02=Shh![0x000A]Get the Old Amber checked!
+msg_sub004_researcher_03=What’s this? Could it be you resurrected that[0x000A]Aerodactyl from the amber?!{0xBE01}[0x000A]Oh, thank you! You’ve proven that my[0x000A]hypothesis was correct!
+msg_sub004_researcher_04=DNA is so amazing![0x000A]You should study it, too!
+msg_studym1_02_p04_t003_r0101={0xBDFF:0x0005}

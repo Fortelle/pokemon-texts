@@ -1,0 +1,14 @@
+main_event_0020_rival_06=C’è nessuno?{0x0114,0x0005}
+main_event_0020_rival_01=Ehi, ciao {0x0100,0x0000}! Come va?[0x000A]Oh, hai uno smartphone nuovo! Forte!{0xBE01}[0x000A]Stai guardando l’incontro amichevole[0x000A]di mio fratello?{0xBE01}[0x000A]Ricorda che per fare il tifo come i veri fan[0x000A]devi fare la posa Charizard!{0x0114,0x0005}
+main_event_0020_mama_01=Hop, che ci fai qui? Non avrai mica dimenticato[0x000A]il grande evento di oggi?{0x0114,0x0008}
+main_event_0020_rival_02=Chi, io? Nemmeno per sogno! Per questo sono[0x000A]venuto qui di corsa a chiamare {0x0100,0x0000}!{0x0114,0x0005}
+main_event_0020_rival_03=Non vale la pena starsene davanti alla TV. Tanto[0x000A]registro sempre tutti gli incontri di mio fratello!{0x0114,0x0005}
+main_event_0020_rival_04={0x0100,0x0000}, dai, sbrigati![0x000A]Dandel sta per arrivare!{0xBE01}[0x000A]E non dimenticarti la Borsa... magari ci[0x000A]scappa pure un regalino!{0x0114,0x0005}
+main_event_0020_rival_05=Arrivederci, signora! E scusi il disturbo!{0x0114,0x0005}
+main_event_0020_mama_02=Che c’è, tesoro? Hop ti sta aspettando.{0x0114,0x0008}
+main_event_0020_mama_03={0x0100,0x0000}, non hai sentito cosa ti ha[0x000A]detto Hop? Non scordare di prendere la Borsa!{0xBE01}[0x000A]È in camera tua! E prendi anche il cappello[0x000A]dato che ci sei!{0x0114,0x0008}
+main_event_0020_system_01=Prendi la vecchia Borsa di papà!
+main_event_0020_system_02=Prendi la vecchia Borsa della mamma!
+main_event_0020_system_03={0xBDFF:0x000B}
+main_event_0020_system_04={0xBDFF:0x000C}
+main_event_0020_mama_04=Guarda, guarda come stai bene!{0xBE01}[0x000A]Ora vai, su! Hop ti aspetta! Però mi raccomando:[0x000A]state lontani dal bosco! D’accordo?{0x0114,0x0008}

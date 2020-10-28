@@ -1,0 +1,7 @@
+msg_sub089_jeveniles_no=Hum... Non, ça va pas, là, ton équipe.[0x000A]Ça le fait pas.{0xBE01}[0x000A]Reviens me voir quand tu seras accompagné{0x1100,0x00FF,0x0100}e[0x000A]d’autres Pokémon !
+msg_sub089_jeveniles_01=Oh, ton Pokémon peut monter sur toi ![0x000A]C’est trop mignon !
+msg_sub089_jeveniles_02=Le mien est un peu trop lourd pour moi,[0x000A]du coup, on marche côte à côte !
+msg_sub089_poke_01={0xFF00,0x0009}Mystherbe :{0xFF00,0x0000} Heeer !
+msg_sub089_sys_01=Pour qu’un Pokémon marche à côté de vous,[0x000A]allez dans le {0xFF00,0x0006}menu{0xFF00,0x0000}, choisissez l’un des membres{0xBE00}[0x000A]de votre équipe, puis sélectionnez l’option{0xBE00}[0x000A]{0xFF00,0x0006}SORTIR DE LA POKÉ BALL{0xFF00,0x0000} !
+msg_sub089_jeveniles_03=Allez, je vais te montrer comment on fait ![0x000A]Tu vas voir, c’est trop choupi !
+msg_sub089_jeveniles_04=C’est vraiment sympa de pouvoir marcher avec[0x000A]son Pokémon, mais je t’apprends rien !

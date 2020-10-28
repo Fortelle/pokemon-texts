@@ -1,0 +1,13 @@
+msg_sub024_researcher_01=是啰～！[0x000A]我是熊厉害博士的啰！{0xBE01}[0x000A]我致力于研究[0x000A]罕见的宝可梦的啰！{0xBE01}[0x000A]你啰！[0x000A]有没有了不得的化石的啰？
+msg_sub024_select_01=贝壳化石
+msg_sub024_select_02=甲壳化石
+msg_sub024_select_03=秘密琥珀
+msg_sub024_select_04=离开
+msg_sub024_researcher_02=你没有的啰……
+msg_sub024_researcher_03=成功了的啰！{0xBE01}[0x000A]果然化石就是{0x0101,0x0004}的啰！
+msg_sub024_sys_01={0x0100,0x0000}从博士那里[0x000A]得到了{0x0101,0x0004}！
+msg_sub024_researcher_04=哇喔！[0x000A]那个是{0x0109,0x0002}！{0xBE01}[0x000A]它是很久很久以前的宝可梦[0x000A]{0x0101,0x0001}的化石啰！{0xBE01}[0x000A]让我用我研发的化石再生器[0x000A]把它复活给你看的啰！
+msg_sub024_researcher_05=是啰～！[0x000A]快点把它拿过来啰！
+msg_sub024_sys_02={0x0100,0x0000}[0x000A]把{0x0109,0x0002}交给了{0xBE00}[0x000A]奇怪的博士！
+msg_sub024_researcher_06={0xBDFF:0x000B}
+msg_sub024_researcher_07=再见啰！等你再来的啰！

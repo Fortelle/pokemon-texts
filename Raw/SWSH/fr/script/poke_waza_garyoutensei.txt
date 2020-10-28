@@ -1,0 +1,13 @@
+poke_waza_garyoutensei_01_01=OK, ne dis rien, j’ai tout compris ! T’as envie[0x000A]que j’enseigne Draco-Ascension à un Pokémon !
+poke_waza_garyoutensei_01_02=Ah, mais y’a que Rayquaza qui peut apprendre[0x000A]Draco-Ascension, et tu l’as pas. Dommage.
+poke_waza_garyoutensei_01_03=Reviens me voir quand tu pourras utiliser[0x000A]ma puissance !
+poke_waza_garyoutensei_01_04=À quel Pokémon dois-je enseigner[0x000A]Draco-Ascension ?
+poke_waza_garyoutensei_01_05=Ce Pokémon ne peut pas apprendre[0x000A]Draco- Ascension. Seul Rayquaza en est capable !
+poke_waza_garyoutensei_01_06=Jamais entendu parler d’un Œuf capable[0x000A]d’utiliser Draco-Ascension ! Pfff.
+poke_waza_garyoutensei_01_07=Ce Rayquaza connaît déjà Draco-Ascension !
+poke_waza_garyoutensei_01_08=Tu veux que j’enseigne Draco-Ascension[0x000A]à {0x0101,0x0000} ?
+poke_waza_garyoutensei_01_09=Draco-Ascension est une capacité sans pareille,[0x000A]que seul Rayquaza peut apprendre.{0xBE01}[0x000A]On dit qu’elle est capable de réduire[0x000A]en poussière une météorite en plein vol !
+poke_waza_garyoutensei_sys_01=Choisissez une capacité à oublier pour faire[0x000A]place à {0x0107,0x0000}.
+poke_waza_garyoutensei_sys_02={0x0102,0x0000} apprend[0x000A]{0x0107,0x0001} !{0xBE05,0x0004}{0xBE05,0x0001}
+poke_waza_garyoutensei_sys_03=1{0xBE02:0x0014}, 2{0xBE02:0x0014}, ...{0xBE02:0x0014} ...{0xBE02:0x0014} Tadaaa !{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} a oublié {0x0107,0x0001}.{0xBE01}[0x000A]Et...{0xBE01}[0x000A]Il apprend {0x0107,0x0002} !{0xBE05,0x0004}{0xBE05,0x0001}
+poke_waza_garyoutensei_sys_04={0x0102,0x0000} n’a pas appris[0x000A]{0x0107,0x0001}.

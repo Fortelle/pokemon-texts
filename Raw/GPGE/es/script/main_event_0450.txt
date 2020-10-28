@@ -1,0 +1,10 @@
+msg_main_0450_water_01={0xFF00,0x0009}Misty:{0xFF00,0x0000} ¡Anda, hola!
+msg_main_0450_water_02=¡Guau, no me digas que has vencido al Teniente[0x000A]Surge! ¡Eres alucinante!{0xBE01}[0x000A]Tanto tú como tu{0x1101,0x00FD,0x0100}s Pokémon os merecéis un buen[0x000A]descansito.
+msg_main_0450_sys_01=Misty ha curado a tu Pokémon.
+msg_main_0450_sys_02=Misty ha curado a tus Pokémon.
+msg_main_0450_water_03={0xFF00,0x0009}Misty:{0xFF00,0x0000} Eh... ¿que qué me trae por aquí? Pues he[0x000A]venido a bañarme en el mar.{0xBE01}[0x000A]De vez en cuando sienta bien nadar al aire libre,[0x000A]sin las constricciones de una piscina.
+msg_main_0450_water_04=¿Adónde te diriges ahora?{0xBE01}[0x000A]¿Has pasado por la Cueva Diglett, que está[0x000A]cerca de aquí?{0xBE01}[0x000A]Si no has ido, no me importaría enseñarte el[0x000A]camino. ¿Quieres que vaya contigo?
+msg_main_0450_water_05=¿Eh? ¡Vaya forma de rechazar mi amable gesto!
+msg_main_0450_water_06=¡Genial! ¡Pues vamos!
+msg_main_0450_water_07={0xFF00,0x0009}Misty:{0xFF00,0x0000} ¡Esta es la Cueva Diglett!{0xBE01}[0x000A]Como su nombre indica, fueron Diglett los que[0x000A]excavaron todos los túneles de la cueva.{0xBE01}[0x000A]Pues nada, ¡espero que encuentres muchos[0x000A]Pokémon nuevos!
+msg_main_0450_water_08={0xBDFF:0x0009}

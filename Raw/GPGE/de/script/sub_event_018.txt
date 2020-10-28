@@ -1,0 +1,5 @@
+msg_sub018_rocketm_01=Ey, du da! Du kannst doch nich’ einfach so[0x000A]in anderer Leute Garten rumlatschen!{0xBE01}[0x000A]Hä? W-Was ich hier m-mache...?[0x000A]Ich bin einfach nur ein Passant, ist doch klar!{0xBE01}[0x000A]Kein bisschen verdächtig![0x000A]Glaubst du mir etwa nicht?
+msg_sub018_rocketm_02=Ist ja schon gut! Ich gebe die gestohlene[0x000A]TM zurück...
+msg_sub018_sys_01=Du erhältst {0x0109,0x0001} {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000} zurück!
+msg_sub018_rocketm_03=A-Also, ich geh dann mal besser.[0x000A]Tschö mit ö!
+msg_evilm1_01_06={0xBDFF:0x0004}

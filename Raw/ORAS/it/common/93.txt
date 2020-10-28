@@ -1,0 +1,54 @@
+Opzioni
+Ok
+Esci
+Velocità testo
+Lenta
+Normale
+Veloce
+Scegli uno dei tre livelli di velocità di scorrimento[0x000A]del testo.
+Animazioni
+Sì
+No
+Scegli se vuoi vedere le animazioni durante le lotte.
+Pokémon in lotta
+Scegli se sostituire
+Non sostituire
+Scegli se tenere o sostituire il tuo Pokémon quando[0x000A]il nemico va KO.
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+Caratteri
+Hiragana
+Kanji
+Cambia caratteri.
+Sfondo lotte
+Predefinito
+{0xBDFF:0x001B}
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}
+{0xBDFF:0x001E}
+{0xBDFF:0x001F}
+{0xBDFF:0x0020}
+{0xBDFF:0x0021}
+{0xBDFF:0x0022}
+{0xBDFF:0x0023}
+{0xBDFF:0x0024}
+{0xBDFF:0x0025}
+{0xBDFF:0x0026}
+{0xBDFF:0x0027}
+{0xBDFF:0x0028}
+Scegli lo sfondo dello schermo inferiore durante le lotte.
+Comandi
+Normali
+Tasto L = Tasto A
+Tasti L/R disattivati
+Scegli se disattivare i pulsanti L ed R o se far funzionare il[0x000A]pulsante L come il pulsante A. Ciò disattiverà il pulsante R.
+Salvataggio obbligato
+Sì
+No
+Scegli se salvare obbligatoriamente prima di lottare tramite[0x000A]il PSS o avviare altre funzioni di comunicazione.
+Vuoi salvare le modifiche?
+Sì
+No

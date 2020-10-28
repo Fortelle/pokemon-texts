@@ -1,0 +1,37 @@
+Create your Game Sync ID
+Info
+Game Sync
+What is Game Sync?
+Prep for Game Sync
+How to use Game Sync
+Yes
+No
+Game Sync ID
+You can visit the Pokémon Global Link website, operated by[0x000A]The Pokémon Company and its affiliates, and register the[0x000A]Game Sync ID displayed on the screen to use Game Sync.[0x000A]<Pokémon Global Link>[0x000A]{0xBD00,0x0003,0x0000,0x0000}http://www.pokemon-gl.com/{0xBD01}[0x000A]
+{0xBDFF:0x000A}
+<Game Sync Log>[0x000A]You used Game Sync at {0xBD00,0x0003,0x0000,0x0000}{0x0201,0x0003}:{0x0201,0x0004} on {0x0201,0x0001}/{0x0201,0x0002}/20{0x0201,0x0000} {0xBD01}.[0x000A]A Mystery Gift has been delivered from[0x000A]the Pokémon Global Link.[0x000A]<Pokémon Global Link>[0x000A]{0xBD00,0x0003,0x0000,0x0000}http://www.pokemon-gl.com/{0xBD01}
+<Game Sync Log>[0x000A]You used Game Sync at {0xBD00,0x0003,0x0000,0x0000}{0x0201,0x0003}:{0x0201,0x0004} on {0x0201,0x0001}/{0x0201,0x0002}/20{0x0201,0x0000} {0xBD01}.[0x000A][0x000A]<Pokémon Global Link>[0x000A]{0xBD00,0x0003,0x0000,0x0000}http://www.pokemon-gl.com/{0xBD01}
+{0x012D,0x0000}
+<What is Game Sync?>[0x000A][0x000A]Game Sync is a service that can connect[0x000A]Pokémon Sun or Pokémon Moon with[0x000A]the Pokémon Global Link website:[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}.
+<What is Game Sync?>[0x000A][0x000A]Game Sync will automatically upload your saved[0x000A]data to the Pokémon Global Link website, where[0x000A]you can check the progress of your game.
+<What is Game Sync?>[0x000A][0x000A]Link your game with the Pokémon Global Link[0x000A]website, and you can participate in Rating[0x000A]Battles and competitions and rent Battle Teams.
+<Prep for Game Sync>[0x000A][0x000A]To use Game Sync, you need to follow the[0x000A]steps below.[0x000A][0x000A]1. Create your Game Sync ID.[0x000A]2. Register your Game Sync ID at the Pokémon[0x000A]Global Link.
+<Prep for Game Sync>[0x000A]1. Create your Game Sync ID[0x000A][0x000A]Choose “Create your Game Sync ID”[0x000A]on the Game Sync landing page to create[0x000A]your Game Sync ID.
+<Prep for Game Sync>[0x000A]2. Register your Game Sync ID at the[0x000A]Pokémon Global Link[0x000A][0x000A]Visit the Pokémon Global Link website at[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}.[0x000A]If you register your Game Sync ID there,[0x000A]you’ll then be able to use Game Sync.
+<Prep for Game Sync>[0x000A][0x000A]To register your Game Sync ID, you need to[0x000A]create a Pokémon Global Link account at[0x000A]the Pokémon Global Link website operated by[0x000A]The Pokémon Company and its affiliates.[0x000A]For more details, you can visit the Pokémon[0x000A]Global Link website:[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+<How to use Game Sync>[0x000A][0x000A]Choose “Game Sync” to connect to[0x000A]the Pokémon Global Link website.[0x000A]Please note that you can’t connect to the site[0x000A]to play if you haven’t first registered your[0x000A]Game Sync ID at the Pokémon Global Link.
+<How to use Game Sync>[0x000A][0x000A]Game Sync may occur automatically when you[0x000A]connect to the Internet.
+<How to use Game Sync>[0x000A][0x000A]Link your game with the Pokémon Global Link,[0x000A]and you can participate in Rating Battles at the[0x000A]Battle Spot and various competitions. You can[0x000A]also host Friendly Competitions.
+<How to use Game Sync>[0x000A][0x000A]Linking your game with the Pokémon Global Link[0x000A]also allows you to create a QR Code for your[0x000A]Battle Team that you used in a battle and make[0x000A]it public, or rent other people’s QR Battle Teams.
+Welcome to Game Sync!{0xBE01}[0x000A]Game Sync is a feature that links your game in[0x000A]Pokémon Sun or Pokémon Moon with the{0xBE00}[0x000A]Pokémon Global Link website operated by{0xBE00}[0x000A]The Pokémon Company and its affiliates.{0xBE01}[0x000A]If you register the Game Sync ID that you can[0x000A]obtain in Pokémon Sun or Pokémon Moon on{0xBE00}[0x000A]the Pokémon Global Link website, your saved{0xBE00}[0x000A]data will be automatically uploaded, and you will{0xBE00}[0x000A]be able to enjoy various features there.{0xBE01}[0x000A]For more details, please select the Info button[0x000A]on the Game Sync landing screen.{0xBE01}
+Game Sync failed because the Game Sync ID[0x000A]wasn’t registered at the Pokémon Global Link.{0xBE01}[0x000A]Please visit the Pokémon Global Link[0x000A]and enter the Game Sync ID.{0xBE01}
+Welcome to Game Sync![0x000A]What would you like to do?
+Will you create a Game Sync ID to use[0x000A]Game Sync?
+Connecting to the server...[0x000A]Please stand by.
+Game Sync is in progress...[0x000A]Don’t turn off the power.
+Issuing a Game Sync ID was canceled[0x000A]because the server is busy.{0xBE01}[0x000A]Please wait and try again later.{0xBE01}
+Saving...[0x000A]Don’t turn off the power.
+Your Game Sync ID has been issued.{0xBE01}[0x000A]You can now register it at the Pokémon Global[0x000A]Link website.{0xBE01}[0x000A]Once it is registered, your saved data will be[0x000A]automatically uploaded to this website.{0xBE01}[0x000A]For details about how to use Game Sync,[0x000A]please read “Info.”{0xBE01}
+Game Sync was canceled because more time[0x000A]must pass before you can use Game Sync again.{0xBE01}[0x000A]Please wait a bit before trying Game Sync again.{0xBE01}
+Game Sync complete!{0xBE01}
+Please choose the topic you would like to[0x000A]learn about.

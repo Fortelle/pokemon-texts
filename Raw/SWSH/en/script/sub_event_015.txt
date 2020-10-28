@@ -1,0 +1,5 @@
+sub_event_015_npc_01=Evolution is a bit tricky for Pokémon Trainers...{0xBE01}[0x000A]If a Pokémon evolves, it’ll get stronger, but its[0x000A]appearance will change.{0xBE01}[0x000A]Do you want to know how to make your[0x000A]Pokémon strong without it evolving?
+sub_event_015_npc_02=Oh, that’s too bad.[0x000A]If you change your mind, please come back.
+sub_event_015_npc_03=OK. I’ll teach you while battling![0x000A]Let’s have a Pokémon battle!
+sub_event_015_npc_04=Even though my Dottler hasn’t evolved yet,[0x000A]it was hard to take down, wasn’t it?{0xBE00}[0x000A]The secret is this Eviolite!
+sub_event_015_npc_05=If you let a Pokémon that can still evolve hold[0x000A]this Eviolite, that Pokémon’s Defense and Sp. Def{0xBE00}[0x000A]will go up!

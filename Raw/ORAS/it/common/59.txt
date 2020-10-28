@@ -1,0 +1,13 @@
+Sì
+No
+Vuoi salvare la foto nella scheda SD?
+Se non la salvi, la foto verrà cancellata.[0x000A]Vuoi continuare?
+Salvataggio in corso.[0x000A]Non spegnere la console.
+La foto è stata salvata nell’applicazione[0x000A]Fotocamera Nintendo 3DS.
+Non c’è spazio sufficiente sulla scheda SD per[0x000A]effettuare il salvataggio.{0xBE01}[0x000A]La foto non verrà salvata.
+Impossibile effettuare il salvataggio perché[0x000A]l’applicazione Fotocamera Nintendo 3DS{0xBE00}[0x000A]è piena.{0xBE01}[0x000A]La foto non verrà salvata.
+Sono stati rilevati degli errori[0x000A]nei file della scheda SD, pertanto{0xBE01}[0x000A]i dati sono stati eliminati.[0x000A]La foto non verrà salvata.
+La foto non verrà salvata.
+{0x0201,0x0002}/{0x0201,0x0001}/20{0x0201,0x0000}  {0x0201,0x0003}：{0x0201,0x0004}
+{0xBDFF:0x000B}
+{0x0205,0x0005,0x002E}

@@ -1,0 +1,10 @@
+main_event_1325_sister_01=Hey, {0x0100,0x0000}! Hier drüben!{0x0114,0x000D}
+main_event_1325_sister_02=Spikeford ist meine Heimatstadt. Ich kenne diese[0x000A]Gegend wie meine eigene Westentasche.{0xBE01}[0x000A]Deshalb weiß ich auch, dass es noch einen[0x000A]anderen Weg in die Stadt gibt.{0x0114,0x000D}
+main_event_1325_sister_03=Wenn du in die Stadt willst, könnte ich dich[0x000A]theoretisch reinschleusen...{0xBE01}[0x000A]Aber da wir {0x1100,0x00FF,0x0A07,0x0000}RivalenRivalinnen sind, musst du mich zuerst[0x000A]in einem Kampf besiegen!{0x0114,0x000D}
+main_event_1325_select_01=Sehr gerne!
+main_event_1325_select_02=Ich denk mal drüber nach.
+main_event_1325_sister_04=Dabei war ich mir so sicher, dass du zusagen[0x000A]würdest...{0xBE01}[0x000A]Wobei... Du willst dich bestimmt nur ordentlich[0x000A]vorbereiten, stimmt’s? Ha! Okay, ich warte hier.{0x0114,0x000D}
+main_event_1325_sister_05=Wir haben uns beide als Arena-Challenger[0x000A]bis hierher vorgekämpft.{0xBE01}[0x000A]Und wie ich dir ja schon mal gesagt habe,[0x000A]respektiere ich dich als {0x1100,0x00FF,0x0707,0x0000}RivalenRivalin.{0xBE01}[0x000A]Aber für mich hängt viel davon ab, dass ich[0x000A]gewinne. Ich darf einfach nicht verlieren!{0x0114,0x000D}
+main_event_1325_sister_06=So langsam verstehe ich, warum mein Morpeko[0x000A]so an dir interessiert ist. Du bist echt stark!{0xBE01}[0x000A]Aber eins sag ich dir: Ich werde meine Freunde[0x000A]aus Spikeford aufheitern, indem ich gewinne!{0x0114,0x000D}
+main_event_1325_sister_08=Vergiss das nicht! Ich werde alle acht Orden[0x000A]sammeln und erneut gegen dich antreten!{0xBE01}[0x000A]Beim Champ-Cup bekomme ich meine Revanche!{0x0114,0x000D}
+main_event_1325_sister_07=So. Nun wird es Zeit, mein Versprechen[0x000A]einzuhalten. Los, mir nach!{0x0114,0x000D}

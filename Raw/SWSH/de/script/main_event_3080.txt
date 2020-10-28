@@ -1,0 +1,17 @@
+msg_main3080_water_01=Haltet lieber etwas Sicherheitsabstand, Leute![0x000A]Da drinnen ist es gerade ziemlich gefährlich!{0x0114,0x000F}
+msg_main3080_aku_01=Wir wissen schon, was hier los ist. Sind die[0x000A]Zuschauer und das Personal in Sicherheit?{0x0114,0x0016}
+msg_main3080_water_02=Ja, gerade eben haben wir die letzten evakuiert.{0x0114,0x000F}
+msg_main3080_water_03=Hm... Ihr seid schon eine interessante Truppe.[0x000A]Hätte nicht gedacht, dass ihr drei euch mal{0xBE00}[0x000A]zusammenschließen würdet.{0x0114,0x000F}
+msg_main3080_aku_02=Äh... Ist das gerade wirklich relevant...?{0x0114,0x0016}
+msg_main3080_rival_01=Wir sind hier, um zu helfen!{0x0114,0x0005}
+msg_main3080_water_04=Hilfe können wir wirklich gut gebrauchen. Dieses[0x000A]Dynamax-Pokémon ist so unfassbar stark...{0x0114,0x000F}
+msg_main3080_water_05=Zusammen mit euch wäre ich um einiges[0x000A]zuversichtlicher!{0x0114,0x000F}
+msg_main3080_water_06=Packen wir’s an!{0x0114,0x000F}
+msg_main3080_poke_01={0xBDFF:0x0009}
+msg_main3080_system_01={0xBDFF:0x000A}
+msg_main3080_poke_02={0xBDFF:0x000B}
+msg_main3080_water_07=Euch ist es zu verdanken, dass niemand verletzt[0x000A]wurde und wir die Lage wieder im Griff haben.{0x0114,0x000F}
+msg_main3080_water_08=Wir werden uns hier im Keelton-Stadion um das[0x000A]Pokémon kümmern, bis es sich wieder erholt hat.{0x0114,0x000F}
+msg_main3080_water_09=Ach, noch was, {0x0100,0x0000}...{0xBE01}[0x000A]Solltest du jemals meine Hilfe benötigen,[0x000A]kannst du immer auf mich zählen!{0x0114,0x000F}
+msg_main3080_water_10=Also, man sieht sich! Vielen Dank noch mal[0x000A]für eure Hilfe!{0x0114,0x000F}
+msg_main3080_water_11={0xBDFF:0x0010}

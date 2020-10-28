@@ -1,0 +1,90 @@
+Acheter
+Vendre
+Quitter
+Bienvenue à la Boutique Pokémon[0xE07F]![0x000A]Que puis-je faire pour vous[0xE07F]?
+Nous espérons vous revoir bientôt[0xE07F]!
+Souhaitez-vous autre chose[0xE07F]?
+Argent
+Poké Miles
+Points de Combat
+{0x0206,0x0000,0xE07F} $
+{0x0204,0x0000,0xE07F} $
+{0xBDFF:0x000B}
+---
+{0x0206,0x0000,0xE07F}
+{0x0204,0x0000,0xE07F}
+Quitter
+{0x0109,0x0000}
+Dans le Sac :
+{0x0202,0x0000}
+
+
+×
+{0x0201,0x0000}
+Combien {0x1001}{0x1408,0x0000}{0x0109,0x0000}[0x000A]vous faut-il[0xE07F]?
+Vous n’avez pas assez d’argent.
+Alors, {0x0201,0x0001} {0x0109,0x0000}…[0x000A]Cela vous fera {0x0206,0x0002,0xE07F} $[0xE07F]!
+Alors, {0x0201,0x0001} {0x0109,0x0000}…[0x000A]Cela vous fera {0x0206,0x0002,0xE07F} $[0xE07F]!
+Oui
+Non
+Voici.[0x000A]Au plaisir de vous revoir.
+Achat rangé dans la Poche[0x000A]{0x0112,0x0001}.
+Vous n’avez plus de place pour cet objet[0xE07F]!
+Nous vous offrons une Honor Ball en cadeau.
+Bienvenue au point de vente des Capsules[0x000A]Techniques[0xE07F]! En quoi puis-je vous aider[0xE07F]?
+Vous possédez déjà cette CT.
+La CT{0x0202,0x0000} {0x0107,0x0001}[0xE07F]?[0x000A]Cela vous fera {0x0206,0x0002,0xE07F} $.
+La CT {0x0107,0x0000} a été rangée[0x000A]dans la Poche {0x0112,0x0001}.{0xBE01}
+Je vends des herbes médicinales importées[0x000A]des quatre coins du globe. Elles revigorent{0xBE00}[0x000A]les Pokémon[0xE07F]! Achetez, achetez-en donc[0xE07F]!
+J’espère vous revoir bientôt[0xE07F]!
+Un petit quelque chose d’autre, peut-être[0xE07F]?
+Alors, {0x1001}{0x1406,0x0000}{0x0109,0x0000}[0xE08D][0x000A]Combien je vous en mets[0xE07F]?
+{0x0201,0x0001} {0x0109,0x0000}, ce qui nous fait[0x000A]un total de {0x0206,0x0002,0xE07F} $[0xE07F]!
+{0x0201,0x0001} {0x0109,0x0000}, ce qui nous fait[0x000A]un total de {0x0206,0x0002,0xE07F} $[0xE07F]!
+Parfait, parfait[0xE07F]! C’était un achat avisé[0xE07F]![0x000A]Encore merci.
+Ah non, vous n’avez plus la place pour ça[0xE07F]!
+Vous n’avez pas assez d’argent, on dirait[0xE08D]
+Bienvenue au Joyau de Kalos, le meilleur[0x000A]lapidaire de la région[0xE07F]!
+En espérant avoir le plaisir de vous revoir[0x000A]bientôt chez nous.
+Seriez-vous intéressé{0x1100,0x00FF,0x0100}e par autre chose[0xE07F]?
+Ah, les {0x1001}{0x0109,0x0000} vous plaisent[0xE07F]?[0x000A]Combien en voudriez-vous[0xE07F]?
+{0x0201,0x0001} Pierres, cela vous ferait {0x0206,0x0002,0xE07F} $.[0x000A]Passons-nous à la caisse[0xE07F]?
+{0x0201,0x0001} Pierres, cela vous ferait {0x0206,0x0002,0xE07F} $.[0x000A]Passons-nous à la caisse[0xE07F]?
+Dites-le avec des Pierres[0xE08D] car elles ne fanent[0x000A]pas, elles. Et voici[0xE07F]!
+Ah, vous avez déjà tant d’exemplaires de cette[0x000A]Pierre que vous ne pouvez plus en transporter.
+Je crains que vous ne puissiez pas vous[0x000A]permettre cette extravagance financière.
+Bienvenue au Ball-Bazar, le paradis de[0x000A]la Poké Ball[0xE07F]!
+Au revoir et bonne route[0xE07F]!
+Avec ceci, autre chose[0xE07F]?
+Je recommande toujours aux clients d’acheter[0x000A]en gros[0xE07F]! Pour vous, ce sera[0xE08D][0xE07F]?
+Vous en voulez {0x0201,0x0001}[0xE07F]?[0x000A]Parfait, cela vous fera {0x0206,0x0002,0xE07F} $.
+J’espère que vous ferez de belles captures[0x000A]avec cet achat.
+Je suis désolé, mais ça ne va pas du tout, ça[0xE07F]!{0xBE01}[0x000A]Je ne parle pas de votre style, bien sûr, mais[0x000A]de la place qu’il reste dans votre Sac[0xE07F]!
+Je déteste devoir dire ce genre de choses,[0x000A]mais[0xE08D] (chuchotis) vous n’avez pas assez.
+Bienvenue[0xE07F]! Nous ne vendons que[0x000A]les meilleures Potions[0xE07F]!
+Bienvenue[0xE07F]! Nous ne vendons que[0x000A]les meilleures Poké Balls[0xE07F]!
+Je propose les meilleurs Encens du monde,[0x000A]amassés aux quatre coins du globe[0xE07F]!
+Vous n’avez pas assez de Poké Miles.
+Vous n’avez pas assez de Points de Combat.
+Combien voudriez-vous[0x000A]{0x1001}{0x1408,0x0000}{0x0109,0x0000}[0xE07F]?
+Combien voudriez-vous[0x000A]{0x1001}{0x1408,0x0000}{0x0109,0x0000}[0xE07F]?
+Voyons, {0x0201,0x0001} {0x0109,0x0000},[0x000A]cela fera {0x0206,0x0002,0xE07F} PM.
+Voyons, {0x0201,0x0001} {0x0109,0x0000},[0x000A]cela fera {0x0206,0x0002,0xE07F} PCo.
+Voyons, {0x0201,0x0001} {0x0109,0x0000},[0x000A]cela fera {0x0206,0x0002,0xE07F} PM.
+Voyons, {0x0201,0x0001} {0x0109,0x0000},[0x000A]cela fera {0x0206,0x0002,0xE07F} PCo.
+Et voici.[0x000A]Merci.
+Et voici.[0x000A]Merci.
+Vous n’avez plus de place pour cela.
+Vous n’avez plus de place pour cela.
+La CT{0x0202,0x0000} {0x0107,0x0001}[0xE07F]?[0x000A]Elle est à vous contre {0x0206,0x0002,0xE07F} PM.
+La CT{0x0202,0x0000} {0x0107,0x0001}[0xE07F]?[0x000A]Elle est à vous contre {0x0206,0x0002,0xE07F} PCo.
+Voulez-vous échanger vos Poké Miles contre[0x000A]des cadeaux[0xE07F]?
+Les Poké Miles sont des points accumulés[0x000A]en effectuant des échanges Pokémon ou{0xBE00}[0x000A]en rencontrant des gens via StreetPass.{0xBE01}[0x000A]Plus la région de votre console Nintendo 3DS[0x000A]est éloignée de celle de la personne que vous{0xBE00}[0x000A]croisez, plus vous obtenez de points.{0xBE01}[0x000A]En parcourant Kalos, vous pourrez aussi[0x000A]obtenir quelques Poké Miles.{0xBE01}[0x000A]Pour savoir combien vous en possédez[0x000A]actuellement, il suffit de vérifier la ligne{0xBE00}[0x000A]«[0xE07F]Poké Miles[0xE07F]» de votre Carte de Dresseur.
+Continuez à accumuler des Poké Miles[0xE07F]![0x000A]Au plaisir de vous revoir.
+Bienvenue au Service d’Échange[0xE07F]!{0xBE01}[0x000A]Désirez-vous échanger vos Points de Combat[0x000A]contre des cadeaux[0xE07F]?
+Continuez à accumuler des PCo et revenez[0x000A]nous voir[0xE07F]!
+Oui
+Non
+En savoir plus
+Oh[0xE07F]! Vous avez beaucoup d’élégance[0xE07F]![0x000A]Il vous faut beaucoup de Poké Balls[0xE07F]!
+Parfait[0xE07F]! {0x0201,0x0001}[0xE07F]? {0x0206,0x0002,0xE07F} $[0xE07F]!

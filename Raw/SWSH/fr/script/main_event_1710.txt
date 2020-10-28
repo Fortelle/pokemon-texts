@@ -1,0 +1,11 @@
+main_event_1710_live_01=Savez-vous quelle heure il est ?[0x000A]Eh oui ! C’est l’heure du premier round{0xBE00}[0x000A]du Tournoi des Champions !{0xBE01}[0x000A]Révélons maintenant l’identité de nos deux[0x000A]premiers compétiteurs !{0x0114,0x0018}
+main_event_1710_live_02=D’un côté, nous avons un{0x1100,0x00FF,0x0100}e Dresseu{0x1100,0x00FF,0x0201}rse[0x000A]recommandé{0x1100,0x00FF,0x0100}e par le Maître lui-même...{0xBE01}[0x000A]Challenger {0x0100,0x0000} !{0x0114,0x0018}
+main_event_1710_live_03=Et de l’autre côté, le tsunami lapis-lazuli...[0x000A]Donna, l’experte en type Eau !{0x0114,0x0018}
+main_event_1710_leader3_01=De l’eau a coulé sous les ponts depuis[0x000A]notre combat au Stade de Skifford...{0xBE00}[0x000A]Je constate que tu as bien évolué depuis.{0xBE01}[0x000A]Décidément, notre Maître bien-aimé a l’œil[0x000A]pour déceler les jeunes Dresseurs talentueux.{0x0114,0x000F}
+main_event_1710_leader3_02=Toutefois, tu es encore loin d’avoir l’étoffe[0x000A]d’un Maître... contrairement à moi.{0xBE01}[0x000A]Alors cette fois-ci, je ne ferai pas l’erreur[0x000A]de te mésestimer !{0x0114,0x000F}
+main_event_1710_leader3_03=Avec la puissance du Dynamax, moi, Donna,[0x000A]vais mettre Tarak au tapis et remporter{0xBE00}[0x000A]le titre de Maître ! En garde !{0x0114,0x000F}
+main_event_1710_live_04=Et c’est {0x0100,0x0000} qui l’emporte !{0xBE01}[0x000A]Quel combat ! Même la puissance des vagues[0x000A]de Donna n’a pas pu arrêter notre Challenger !{0x0114,0x0018}
+main_event_1710_leader3_04=Je m’incline... Même mon partenaire dynamaxé[0x000A]n’a pas fait le poids face à ton {0x1100,0x00FD,0x0607}Pokémonéquipe.{0x0114,0x000F}
+main_event_1710_leader3_05=J’aurais dû prendre Sonya plus au sérieux quand[0x000A]elle chantait tes louanges. Cela m’apprendra.{0x0114,0x000F}
+main_event_1710_leader3_06=Toute la région a les yeux rivés sur toi.[0x000A]Puisque tu m’as vaincue, je compte sur toi{0xBE00}[0x000A]pour atteindre le sommet à ma place !{0x0114,0x000F}
+main_event_1710_live_05=Et c’est la fin de ce premier round ! Restez avec[0x000A]nous pour ne rien manquer du prochain combat !{0x0114,0x0018}

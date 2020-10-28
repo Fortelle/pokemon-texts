@@ -1,0 +1,5 @@
+msg_sub054_old_F_01=Hola, ricura.
+msg_sub054_old_F_02=¿Vienes a la Torre Pokémon a visitar a algún[0x000A]amiguito? ¡Ay, pero qué niñ{0x1100,0x00FF,0x0101}oa más buen{0x1100,0x00FF,0x0101}oa!{0xBE01}[0x000A]Estoy segura de que tus Pokémon se pondrán[0x000A]muy contentos si te pones este conjuntito.
+msg_sub054_sys_01=La señora te ha entregado un {0xFF00,0x0006}Conjunto Formal{0xFF00,0x0000}.
+msg_sub054_sys_02=Has guardado el {0xFF00,0x0006}Conjunto Formal {0xFF00,0x0000}en la Maleta.
+msg_sub054_old_F_03=Dime, ¿te ha gustado el conjuntito?{0xBE01}[0x000A]Quería que te lo pusieras porque me recuerdas[0x000A]muchísimo a mi niet{0x1100,0x00FF,0x0101}oa; espero que no te importe.

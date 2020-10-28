@@ -1,0 +1,8 @@
+msg_main0715_rocketm_01=Ooooch! Du kannst den Aufzug nicht benutzen?[0x000A]So ein Pech aber auch!{0xBE01}[0x000A]Tut mir leid, dir das mitteilen zu müssen:[0x000A]Den Aufzugsschlüssel hab ICH.{0xBE00}[0x000A]Und ich bin unbesiegbar!
+msg_member_18_02={0xBDFF:0x0001}
+msg_main0715_rocketm_02=Argh! M-Mein schöner Aufzugsschlüssel![0x000A]Ich darf ihn nicht verlieren!{0xBE01}[0x000A]Grrr! Du denkst, du hast gewonnen?[0x000A]Falsch gedacht! Jetzt kommt mein Plan B!
+msg_main0715_rocketm_03=Und... HEPP!
+msg_main0715_rocketm_04=*Keuch...*{0xBE01}[0x000A]Ohne diesen Schlüssel kommst du nie bis zum[0x000A]Zimmer des Bosses!{0xBE01}[0x000A]Hol ihn dir doch, wenn du kannst!
+msg_main0715_rocketm_05=Jetzt kommst du garantiert niemals an den[0x000A]Aufzugsschlüssel ran!{0xBE01}[0x000A]Zumindest solange du nicht die Wände[0x000A]hochklettern kannst...
+msg_main0715_rocketm_06=Dein Pokémon sieht ziemlich leichtfüßig aus...
+msg_main0715_sys_01={0xFF00,0x0006}Aufzugsschlüssel{0xFF00,0x0000} erhalten!

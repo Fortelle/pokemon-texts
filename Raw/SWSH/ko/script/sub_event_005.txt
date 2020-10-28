@@ -1,0 +1,11 @@
+sub_event_005_npc_01=이건 일레즌이라고 해!{0xBE01}[0x000A]발견한 알을[0x000A]데리고 다녔더니 태어났어{0xBE00}[0x000A]이 일레즌 네가 키워봐!{0xBE00}[0x000A]짜릿한 포켓몬이라고!
+sub_event_005_poke1_01=즌즌~!
+sub_event_005_npc_02=그리고 이것도 받아![0x000A]포켓몬에게 주면 쑥쑥 클 거야!
+sub_event_005_npc_03=알은 맡기미집에서![0x000A]경험사탕은{0xBE00}[0x000A]맥스 레이드배틀에서 발견할 수 있어!
+sub_event_005_npc_04=뭐어? 포켓몬을 받을 수 없다고?[0x000A]너는 대체 얼마나 포켓몬을 좋아하는 거야?!
+sub_event_005_oldf_01={0xBDFF:0x0005}
+sub_event_005_oldf_02={0xBDFF:0x0006}
+sub_event_005_poke_01={0xBDFF:0x0007}
+sub_event_005_poke_02={0xBDFF:0x0008}
+sub_event_005_poke_03={0xBDFF:0x0009}
+sub_event_005_system_01={0xBDFF:0x000A}

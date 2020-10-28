@@ -1,0 +1,14 @@
+Das ist ein Getränkeautomat. Was möchtest du trinken?
+Klong!
+Eine Flasche <var> kam heraus.
+Du Glückspilz! Du erhältst eine Flasche gratis obendrauf! Eine Flasche <var> kam heraus.
+Du hast nicht genug Geld!
+Du hast kein Getränk gekauft.
+Möchtest du eine weitere Flasche kaufen?
+
+Du hast offenbar das ganz große Los gezogen! Eine weitere Flasche <var> kam heraus!
+Tafelwasser <var> $
+Sprudel <var> $
+Limonade <var> $
+Abbrechen
+Noch mehr kannst du davon nicht tragen!

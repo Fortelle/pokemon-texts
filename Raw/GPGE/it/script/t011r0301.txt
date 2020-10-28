@@ -1,0 +1,4 @@
+msg_t011r0301_jevenilef_01=...[0x000A]Grazie per avermi scritto.{0xBE01}[0x000A]Spero di vederti presto...{0xBE01}[0x000A]Ehi![0x000A]Non leggere la mia lettera!
+msg_t011r0301_poke_01={0xFF00,0x0009}Pidgey:{0xFF00,0x0000} Pid pid!
+msg_t011r0301_jevenilem_01=Copiona è proprio carina!{0xBE01}[0x000A]Voglio catturare un Clefairy e mostraglielo![0x000A]Dicono che sia il suo Pokémon preferito.
+msg_t011r0301_letter_01=Mi hanno regalato un PP-Su.{0xBE01}[0x000A]Le mosse molto potenti hanno pochi PP,[0x000A]ma con questo strumento puoi aumentarli!

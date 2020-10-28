@@ -1,0 +1,15 @@
+msg_sub032_youngf_01={0xBDFF:0x0000}
+msg_sub032_youngf_02=가끔 회색시티에[0x000A]쇼핑하러 가는데{0xBE01}[0x000A]상록숲은[0x000A]길이 구불구불하단 말이지
+msg_sub032_oldm_01={0xBDFF:0x0002}
+msg_sub032_oldm_02=포켓몬 도감을 채우고 있는 게냐?[0x000A]그렇다면 내가 조언 하나 해주지!{0xBE01}[0x000A]프렌들리숍에서 몬스터볼을[0x000A]많이 사두는 게 좋을 거란다!
+msg_sub032_musashi_01=???: 뭐야! 안 돼 안 돼![0x000A]여기는 지금 통행금지야!{0xBE01}[0x000A]지금 한참 중요한[0x000A]감시 업무 중이라고!
+msg_sub032_musashi_02=???: 그러니까[0x000A]통행금지라니까!{0xBE01}[0x000A]어린애는 심부름이나 하면서[0x000A]시간 죽이고 있어!
+msg_sub032_kojiro_01=???: 뭐야 이 꼬마 녀석은[0x000A]...워워! 저리 가!
+msg_sub032_kojiro_02=???: 임무라고는 해도[0x000A]감시하는 건 지루하네~{0xBE01}[0x000A]프렌들리숍에 가서[0x000A]놀고 싶다...
+msg_sub032_nyasu_01=나옹: 냐아~
+msg_oyaji4_01_p03_field_t002={0xBDFF:0x0009}
+msg_oyaji4_01_p04_field_t002={0xBDFF:0x000A}
+msg_oyaji4_01_p05_field_t002={0xBDFF:0x000B}
+msg_oyaji4_01_p06_field_t002={0xBDFF:0x000C}
+msg_oyaji4_01_p07_field_t002={0xBDFF:0x000D}
+msg_oyaji4_01_p08_field_t002={0xBDFF:0x000E}

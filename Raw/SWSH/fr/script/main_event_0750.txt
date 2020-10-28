@@ -1,0 +1,8 @@
+main_event_0750_tlop_01=Le lendemain matin...
+main_event_0750_sister_01=Salut, {0x0100,0x0000}.{0x0114,0x000D}
+main_event_0750_sister_02=Ton pote est d’jà parti pour l’Défi des Arènes.[0x000A]Il a dit qu’la carte de Ligue de Kabu l’avait{0xBE00}[0x000A]aidé à préparer sa stratégie pour le vaincre...{0xBE01}[0x000A]D’ailleurs, il m’en a filé plein.[0x000A]Bouge pas, je t’en donne une.{0x0114,0x000D}
+main_event_0750_sister_04=Dis, tu veux bien m’rendre un service ?[0x000A]On peut s’faire un combat ?{0xBE01}[0x000A]J’stresse un peu pour le Défi,[0x000A]j’ai peur d’pas avoir le niveau.{0x0114,0x000D}
+main_event_0750_sister_05=Ouais, j’crois que Morpeko et mon équipe[0x000A]sont pas encore tout à fait au niveau.{0xBE01}[0x000A]Cimer, en tout cas. J’ai rien à te donner[0x000A]en dédommagement, mais j’peux soigner{0xBE00}[0x000A]ton {0x1101,0x00FD,0x0607}Pokémonéquipe, s’tu veux !{0x0114,0x000D}
+main_event_0750_sister_06=Tiens, au fait.[0x000A]C’est cadeau, pour hier.{0x0114,0x000D}
+main_event_0750_sister_03=Nan, mais sérieux, t’as grave le niveau[0x000A]pour affronter le Champion du type Feu.{0xBE01}[0x000A]Qu’est-ce que t’attends ?[0x000A]Fonce choper le Badge au Stade de Motorby !{0x0114,0x000D}
+main_event_0750_poke1_01=Morp ! Mooorp !{0x0114,0x0070}

@@ -1,0 +1,18 @@
+Scegli uno sfondo o un gadget.
+Cosa vuoi fare con il gadget?
+Sposta il gadget dove vuoi.
+{0x018C,0x0000}
+{0x0201,0x0000}
+Gadget
+Decorazioni
+Pokébignè
+Scegli un gadget o un Pokébignè.
+Vuoi posare il Pokébignè?
+Una volta usati, i Pokébignè spariscono.
+Vuoi rimettere a posto il Pokébignè?
+Non puoi mettere via i Pokébignè usati.
+Non puoi metterlo via adesso perché[0x000A]un Pokémon è venuto a trovarti.
+Non puoi posare altri gadget!
+Cambia Pokébignè
+Se togli o cambi un Pokébignè,[0x000A]i Pokémon vicini spariranno.[0x000A]Va bene lo stesso?
+{0x01A0,0x0000}

@@ -1,0 +1,57 @@
+¡El Arca de Zygarde ha absorbido una[0x000A]misteriosa criatura!
+¡Sina está intentando contactar contigo!{0x0114,0x0035}
+¡Acabo de recibir una señal proveniente de tu[0x000A]Arca de Zygarde!{0xBE01}[0x000A]¡La extraña forma de vida que ha absorbido es[0x000A]lo que llamamos una {0xFF00,0x0001}célula de Zygarde{0xFF00,0x0000}!{0xBE01}[0x000A]El Arca de Zygarde que te entregamos podría[0x000A]considerarse una suerte de nido para sus{0xBE00}[0x000A]células y núcleos.{0xBE01}[0x000A]Te servirá para poner a buen recaudo todos los[0x000A]elementos a medida que los vayas encontrando.{0xBE01}[0x000A]Me mantendré en contacto. Bon voyage!{0x0114,0x0026}
+Un 10%, ¿eh?{0xBE01}[0x000A]No se trata de una cifra casual. Si quieres[0x000A]conocer toda la importancia que encierra,{0xBE00}[0x000A]acude a vernos a la Base Æther.{0xBE01}[0x000A]Te esperamos en la Ruta 16 de Ula-Ula.[0x000A]¡Desvelaremos el misterio! Bon voyage!{0x0114,0x0026}
+¡Entre células y núcleos, has logrado reunir más[0x000A]del 50% de los elementos que componen el{0xBE00}[0x000A]cuerpo de Zygarde!{0xBE01}[0x000A]¡Semejante esfuerzo sin duda ha de dar buenos[0x000A]frutos!{0xBE01}[0x000A]Si quieres descubrir cuáles son, acude a la Base[0x000A]Æther. Recuerdas dónde, ¿no? En la Ruta 16,{0xBE00}[0x000A]en la isla de Ula-Ula.{0xBE01}[0x000A]¡El misterio está a punto de desvelarse![0x000A]Bon voyage!{0x0114,0x0026}
+¡Has logrado reunir todas las células y núcleos[0x000A]de Zygarde que hay en Alola!{0xBE01}[0x000A]Solo tú podrías haber logrado tal hazaña...[0x000A]¡Sabíamos que hacíamos bien al elegirte!{0xBE01}[0x000A]Ahora el poder de Zygarde Completo es tuyo.[0x000A]¡La respuesta al misterio está en tus manos!{0xBE00}[0x000A]Bon voyage!{0x0114,0x0026}
+¡Acabo de recibir una señal proveniente de tu[0x000A]Arca de Zygarde!{0xBE01}[0x000A]¡Lo que acaba de absorber es un {0xFF00,0x0001}núcleo de{0xFF00,0x0000}[0x000A]{0xFF00,0x0001}Zygarde{0xFF00,0x0000}!{0xBE01}[0x000A]Los núcleos de Zygarde son unas misteriosas[0x000A]formas de vida que, junto a las células, pueden{0xBE00}[0x000A]sintetizar el cuerpo de Zygarde.{0xBE01}[0x000A]Además, pueden aprender movimientos gracias[0x000A]al Arca de Zygarde, que el ejemplar resultante{0xBE00}[0x000A]podrá usar en combate.{0xBE01}[0x000A]No dudes en probarlo. Bon voyage!{0x0114,0x0026}
+¡Parece que has conseguido reunir otro núcleo[0x000A]de Zygarde!{0xBE01}[0x000A]Los movimientos que aprenden los núcleos[0x000A]quedan recogidos en el Arca de Zygarde.{0xBE01}[0x000A]De este modo, podrás enseñarle a Zygarde[0x000A]los movimientos que quieras, cuando tú quieras.{0xBE01}[0x000A]¡Tú decides! Bon voyage!{0x0114,0x0026}
+¿Qué quieres hacer?
+Sintetizar
+Disgregar
+¿Qué es la síntesis?
+¿Qué es la disgregación?
+Salir
+Selecciona un patrón de síntesis.
+Usar un Zygarde
+Crear de cero
+¿Qué patrones hay?
+Selecciona un Zygarde.
+¿Quieres interrumpir el proceso?
+Solo es posible sintetizar a Zygarde.
+El Zygarde seleccionado posee la habilidad[0x000A]Agrupamiento, que le permite cambiar de forma.{0xBE01}[0x000A]No es posible realizar operaciones de síntesis[0x000A]ni disgregación sobre él.
+¡Se ha interrumpido la síntesis!
+No tienes suficientes núcleos ni células en el[0x000A]Arca de Zygarde. Se interrumpirá la síntesis.
+No tienes espacio libre en tu equipo ni tus[0x000A]cajas. Se interrumpirá la síntesis.
+Se procederá a combinar el Zygarde[0x000A]seleccionado con {0x0202,0x0000} elementos del Arca.{0xBE01}[0x000A]Iniciando síntesis de Zygarde al 50%.
+Se procederá a combinar el Zygarde[0x000A]seleccionado con {0x0202,0x0000} elementos del Arca.{0xBE01}[0x000A]Iniciando síntesis de Zygarde con la habilidad[0x000A]Agrupamiento.
+¿Estás de acuerdo?
+La síntesis ha resultado en un Zygarde[0x000A]distinto.
+La síntesis ha resultado en un Zygarde[0x000A]totalmente nuevo.
+¡Un Zygarde al 10%!
+¡Un Zygarde al 50%!
+¡Un Zygarde con la habilidad Agrupamiento!
+¡Zygarde se ha metido en la Poké Ball!
+¡Zygarde se ha transferido al PC!
+Proceso de sintetización de un Zygarde[0x000A]totalmente nuevo a partir de núcleos y células{0xBE00}[0x000A]del Arca...
+{0xBDFF:0x0024}
+{0xBDFF:0x0025}
+El Arca de Zygarde contiene {0x0202,0x0000} elementos,[0x000A]suficientes para sintetizar un Zygarde al 10%.
+El Arca de Zygarde contiene {0x0202,0x0000} elementos,[0x000A]suficientes para sintetizar un Zygarde al 50%.
+El Arca de Zygarde contiene {0x0202,0x0000} elementos,[0x000A]suficientes para sintetizar un Zygarde con la{0xBE00}[0x000A]habilidad Agrupamiento, que le permitirá{0xBE00}[0x000A]adoptar su Forma Completa.
+Selecciona el Zygarde que quieres disgregar.
+Ten presente que el proceso de disgregación es[0x000A]irreversible.{0xBE01}[0x000A]Se perderán para siempre los movimientos que[0x000A]conocía, sus características, cintas, etc.{0xBE01}[0x000A]¿Seguro que quieres continuar?
+Cancelar la disgregación
+Seleccionar otro
+¿Quieres cancelar la disgregación de Zygarde?
+¡Solo es posible disgregar a Zygarde!
+No es posible disgregar un Zygarde con la[0x000A]habilidad Agrupamiento. Los enlaces celulares{0xBE00}[0x000A]son demasiado fuertes.{0xBE01}[0x000A]Elige otro Zygarde que pueda disgregarse.
+¡Se ha cancelado la disgregación!
+Elige otro Zygarde que pueda disgregarse.
+No es posible disgregar a este Zygarde porque[0x000A]lleva una cinta especial.
+¡Se ha disgregado a Zygarde! El Arca de[0x000A]Zygarde ha absorbido {0x0202,0x0000} células.
+Disgregar este Zygarde te dejaría sin un solo[0x000A]Pokémon en el equipo, por lo que se cancelará{0xBE00}[0x000A]el proceso.
+¡No es posible disgregar un Zygarde que lleva[0x000A]un objeto equipado! Retira el objeto e inténtalo{0xBE00}[0x000A]de nuevo.
+La {0xFF00,0x0001}síntesis{0xFF00,0x0000} consiste en la creación de un[0x000A]ejemplar de Zygarde a partir de las células{0xBE00}[0x000A]contenidas en el Arca de Zygarde.
+La {0xFF00,0x0001}disgregación{0xFF00,0x0000} consiste en reducir un Zygarde[0x000A]a sus componentes celulares básicos y devolver{0xBE00}[0x000A]dichas células al Arca de Zygarde.
+Existen dos patrones básicos:{0xBE01}[0x000A]El primero consiste en agregar células a un[0x000A]ejemplar que ya tengas en tu equipo.{0xBE01}[0x000A]El segundo prevé la creación de un ejemplar[0x000A]nuevo a partir exclusivamente de células.

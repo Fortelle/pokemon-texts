@@ -1,0 +1,5 @@
+msg_t006r0401_birdkeeper_01=Mi Pidgey volará al norte, a Ciudad Azafrán,[0x000A]para llevar una carta.
+msg_t006r0401_poke_01={0xFF00,0x0009}Pidgey:{0xFF00,0x0000} ¡Pid, pid!
+msg_t006r0401_letter_01="Querida Pippi:[0x000A]Espero que podamos vernos pronto. He oído{0xBE00}[0x000A]que en Ciudad Azafrán tenéis problemas con el{0xBE00}[0x000A]Team Rocket. Aquí en Ciudad Carmín todo{0xBE00}[0x000A]está tan tranquilo como de costumbre".
+msg_t006r0401_miniskirt_01=¡Mi gran sueño es poder irme de crucero algún[0x000A]día a bordo del S. S. Anne y hacer amigos por{0xBE00}[0x000A]todo el mundo!
+msg_t006r0401_poke_02={0xFF00,0x0009}Nidoran♀: {0xFF00,0x0000}Nido...

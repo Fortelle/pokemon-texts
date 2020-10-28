@@ -1,0 +1,11 @@
+main_event_3092_system_01=¡Riiin, riiin!
+main_event_3092_rival_01=Oye, creo que alguien te está llamando,[0x000A]{0x0100,0x0000}.{0x0114,0x0005}
+main_event_3092_doctor_01=¡{0x0100,0x0000}! ¡Necesito vuestra ayuda![0x000A]¡Los dos tipos esos están en el laboratorio!{0x0114,0x000B}
+main_event_3092_rival_02=¡¿Estás bien, Sonia?!{0x0114,0x0005}
+main_event_3092_doctor_02=¡Dicen que quieren las Estrellas Deseo y no me[0x000A]dejan en paz por mucho que les diga que no!{0xBE01}[0x000A]¡Por favor, daos prisa!{0x0114,0x000B}
+main_event_3092_system_02=Tu, tu, tuuuuu.
+main_event_3092_aku_01=¿Y para qué querrán Estrellas Deseo esos[0x000A]pringados?{0x0114,0x0016}
+main_event_3092_rival_03=¡Tenemos que ir a ayudar a Sonia y recuperar {0x1700,0x0001,0x0000}[0x000A]{0x0109,0x0001}!{0x0114,0x0005}
+main_event_3092_rival_04=¡Rápido, al Laboratorio Pokémon!{0x0114,0x0005}
+main_event_3092_aku_02=Un poco imprudente, este Paul. No se para a[0x000A]reflexionar ni un segundo.{0x0114,0x0016}
+main_event_3092_aku_03=Pero bueno, si hay que ir al Laboratorio[0x000A]Pokémon, se va.{0x0114,0x0016}

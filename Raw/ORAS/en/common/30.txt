@@ -1,0 +1,122 @@
+Searching for test data...[0x000A]Please wait.
+Please select the Battle Test[0x000A]you would like to download.{0xBE01}
+Want to stop downloading Battle Tests?
+Would you like to download[0x000A]{0x0193,0x0000}?
+You have already downloaded this Battle Test.{0xBE01}
+You have received the Battle Test data.{0xBE01}
+The Battle Test is being downloaded...[0x000A]Do not turn off the power.
+The Battle Test has been downloaded.{0xBE01}
+Please select a Battle Test to delete.{0xBE01}
+Are you done deleting Battle Tests?
+Would you like to delete[0x000A]{0x0193,0x0000}?
+The data for that Battle Test has been deleted.{0xBE01}
+Please select a method for receiving the data.
+You will be connected to the Internet.[0x000A]Would you like to continue?
+Checking the SD Card...[0x000A]Please wait.
+Disconnecting from the Internet...[0x000A]Please wait.
+Your memory is full.[0x000A]Would you like to delete some data?
+Test data could not be found.[0x000A]Please download some Battle Tests.{0xBE01}
+Are you sure you want to[0x000A]disconnect from the Internet?
+Shutting down the Internet connection...
+Wireless communication is currently disabled.[0x000A]Please turn wireless communication on.{0xBE01}
+Due to errors detected within the files on your[0x000A]SD Card, your saved data has been deleted.{0xBE01}
+Are you sure you wish to delete your[0x000A]{0x0193,0x0000}?
+There is not sufficient free space on your SD[0x000A]Card to download the data.{0xBE01}[0x000A]Please turn off the power to your system,[0x000A]then review the content of your SD Card to{0xBE00}[0x000A]free up some space.{0xBE01}
+SD Card could not be read from.{0xBE01}[0x000A]Please exit the game and check your SD Card.{0xBE01}
+SD Card could not be written to.{0xBE01}[0x000A]Please exit the game and check your SD Card.{0xBE01}
+Data could not be found.{0xBE01}
+Data could not be found.{0xBE01}
+Data could not be found.{0xBE01}
+Data downloading has been stopped.{0xBE01}
+Please select the Battle Test you would[0x000A]like to take part in.{0xBE01}
+Would you like to take part in the[0x000A]{0x0193,0x0000}?
+Would you like to quit?
+Yes
+No
+Participate
+Info
+Quit
+Local wireless
+Internet
+Quit
+Info
+Download
+Quit
+Info
+Delete
+Quit
+Battle Tests
+{0x0193,0x0000}
+{0x0101,0x0000}
+{0x0109,0x0000}
+{0x0107,0x0000}
+Banned Pokémon:
+Banned Items:
+Banned Moves:
+None
+Battle Format
+{0xBDFF:0x0039}
+{0xBDFF:0x003A}
+{0xBDFF:0x003B}
+Select the battle format that you would like[0x000A]to participate in.{0xBE01}
+Would you like to participate in a Single[0x000A]Battle Test?
+Would you like to participate in a Double[0x000A]Battle Test?
+Would you like to participate in a Single[0x000A]Battle?
+Would you like to participate in a Double[0x000A]Battle?
+Would you like to participate in a[0x000A]Triple Battle?
+Would you like to participate in a Rotation[0x000A]Battle?
+Would you like to participate in a Multi Battle?
+Would you like to participate in a Super[0x000A]Single Battle?
+Would you like to participate in a Super[0x000A]Double Battle?
+Would you like to participate in a Super[0x000A]Triple Battle?
+Would you like to participate in a Super[0x000A]Rotation Battle?
+Would you like to participate in a Super Multi[0x000A]Battle?
+Would you like to quit?
+You do not have three eligible Pokémon[0x000A]to participate.{0xBE01}[0x000A]Please read the Info section to check the[0x000A]battle rules.{0xBE01}
+You do not have four eligible Pokémon[0x000A]to participate.{0xBE01}[0x000A]Please read the Info section to check the[0x000A]battle rules.{0xBE01}
+You do not have six eligible Pokémon[0x000A]to participate.{0xBE01}[0x000A]Please read the Info section to check the[0x000A]battle rules.{0xBE01}
+You do not have four eligible Pokémon[0x000A]to participate.{0xBE01}[0x000A]Please read the Info section to check the[0x000A]battle rules.{0xBE01}
+You do not have two eligible Pokémon[0x000A]to participate.{0xBE01}[0x000A]Please read the Info section to check the[0x000A]battle rules.{0xBE01}
+You cannot participate in this Battle Test.{0xBE01}
+You do not have a Pokémon eligible to[0x000A]participate. Please read the Info section{0xBE00}[0x000A]to check the battle rules.{0xBE01}
+You do not have two eligible Pokémon[0x000A]to participate.{0xBE01}[0x000A]Please read the Info section to check the[0x000A]battle rules.{0xBE01}
+You do not have three eligible Pokémon[0x000A]to participate.{0xBE01}[0x000A]Please read the Info section to check the[0x000A]battle rules.{0xBE01}
+You do not have four eligible Pokémon[0x000A]to participate.{0xBE01}[0x000A]Please read the Info section to check the[0x000A]battle rules.{0xBE01}
+You do not have five eligible Pokémon[0x000A]to participate.{0xBE01}[0x000A]Please read the Info section to check the[0x000A]battle rules.{0xBE01}
+You do not have six eligible Pokémon[0x000A]to participate.{0xBE01}[0x000A]Please read the Info section to check the[0x000A]battle rules.{0xBE01}
+Yes
+No
+Participate
+Info
+Quit
+Single Battle Test
+Double Battle Test
+Single Battle
+Double Battle
+Triple Battle
+Rotation Battle
+Multi Battle
+Super Single Battle
+Super Double Battle
+Super Triple Battle
+Super Rotation Battle
+Super Multi Battle
+Battle Tests
+Battle Maison
+Single Battle
+Double Battle
+Rotation Battle
+Multi Battle
+All Pokémon will be set to Lv. 50.[0x000A]Three Pokémon may enter.[0x000A]No duplicate items or Pokémon.[0x000A]Pokémon limitations exist.[0x000A]Item limitations exist.
+All Pokémon will be set to Lv. 50.[0x000A]Four Pokémon may enter.[0x000A]No duplicate items or Pokémon.[0x000A]Pokémon limitations exist.[0x000A]Item limitations exist.
+Any above Lv. 50 will be set to Lv. 50.[0x000A]Three Pokémon may enter.[0x000A]No duplicate items or Pokémon.[0x000A]Pokémon limitations exist.[0x000A]Item limitations exist.
+Any above Lv. 50 will be set to Lv. 50.[0x000A]Four Pokémon may enter.[0x000A]No duplicate items or Pokémon.[0x000A]Pokémon limitations exist.[0x000A]Item limitations exist.
+Any above Lv. 50 will be set to Lv. 50.[0x000A]Six Pokémon may enter.[0x000A]No duplicate items or Pokémon.[0x000A]Pokémon limitations exist.[0x000A]Item limitations exist.
+Any above Lv. 50 will be set to Lv. 50.[0x000A]Four Pokémon may enter.[0x000A]No duplicate items or Pokémon.[0x000A]Pokémon limitations exist.[0x000A]Item limitations exist.
+Any above Lv. 50 will be set to Lv. 50.[0x000A]Two Pokémon may enter.[0x000A]No duplicate items or Pokémon.[0x000A]Pokémon limitations exist.[0x000A]Item limitations exist.[0x000A]Form a tag team with a Friend or Acquaintance[0x000A]to challenge this format.
+Any above Lv. 50 will be set to Lv. 50.[0x000A]Three Pokémon may enter.[0x000A]No duplicate items or Pokémon.[0x000A]Pokémon limitations exist.[0x000A]Item limitations exist.
+Any above Lv. 50 will be set to Lv. 50.[0x000A]Four Pokémon may enter.[0x000A]No duplicate items or Pokémon.[0x000A]Pokémon limitations exist.[0x000A]Item limitations exist.
+Any above Lv. 50 will be set to Lv. 50.[0x000A]Six Pokémon may enter.[0x000A]No duplicate items or Pokémon.[0x000A]Pokémon limitations exist.[0x000A]Item limitations exist.
+Any above Lv. 50 will be set to Lv. 50.[0x000A]Four Pokémon may enter.[0x000A]No duplicate items or Pokémon.[0x000A]Pokémon limitations exist.[0x000A]Item limitations exist.
+Any above Lv. 50 will be set to Lv. 50.[0x000A]Two Pokémon may enter.[0x000A]No duplicate items or Pokémon.[0x000A]Pokémon limitations exist.[0x000A]Item limitations exist.[0x000A]Form a tag team with a Friend or Acquaintance[0x000A]to challenge this format.
+Triple Battle

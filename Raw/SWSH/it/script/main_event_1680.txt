@@ -1,0 +1,13 @@
+main_event_1680_stuff_01=Sta per cominciare la cerimonia d’apertura.[0x000A]Vuoi entrare in campo?
+main_event_1680_select_01=Sì!
+main_event_1680_select_02=Un momento...
+main_event_1680_stuff_02=Bene! Va’ pure!
+main_event_1680_stuff_03=Vuoi parlare con gli altri, prima?[0x000A]Bene, fai pure.
+main_event_1680_leader1_01=Continuerò a lottare senza arrendermi mai,[0x000A]per il mio onore di Allenatore!{0xBE01}[0x000A]La sfida continua è ciò che mi fa brillare[0x000A]come un fuoco nella notte!{0x0114,0x0010}
+main_event_1680_leader2_01=Accidenti... per la prima sfida dovrò vedermela[0x000A]con Laburno! Che sfortuna...!{0xBE01}[0x000A]Di sicuro si metterà a cambiare le condizioni[0x000A]atmosferiche, ma manderò in fumo i suoi piani!{0x0114,0x000E}
+main_event_1680_leader3_01=Ciao! Ne è passato di tempo da quando[0x000A]ci siamo affrontat{0x1100,0x00FF,0x0101}ie.{0xBE01}[0x000A]Non illuderti, però: questa sfida non avrà nulla[0x000A]a che vedere con quella di allora.{0xBE00}[0x000A]Stavolta farò sul serio!{0x0114,0x000F}
+main_event_1680_leader4_01=Che strana sensazione...{0xBE01}[0x000A]Il mio cuore è colmo d’ansia, eppure non vedo[0x000A]l’ora di scendere in campo e lottare!{0x0114,0x0011}
+main_event_1680_leader5_01=Sistemerò i miei avversari in un batter d’occhio!{0xBE01}[0x000A]Vedrai, lascerò un segno nella storia delle lotte!{0x0114,0x0014}
+main_event_1680_leader6_01=Non mi lascerò sconfiggere da nessuno e arriverò[0x000A]ad affrontare Dandel ancora una volta!{0xBE01}[0x000A]È l’unico modo che ho per ripagare Duraludon[0x000A]e gli altri Pokémon della mia squadra{0xBE00}[0x000A]per il loro impegno costante!{0x0114,0x0017}
+main_event_1680_leader7_01=Il mio obiettivo è conquistare il titolo.{0xBE01}[0x000A]Porterò a Spikeville l’orgoglio e la gioia[0x000A]della vittoria senza ricorrere al Dynamax!{0x0114,0x0016}
+main_event_1680_stuff_04=La cerimonia d’apertura inizierà a momenti.[0x000A]Ti prego di entrare in campo.

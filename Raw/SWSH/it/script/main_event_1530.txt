@@ -1,0 +1,6 @@
+main_event_1530_rival_01={0x0100,0x0000}!{0x0114,0x0005}
+main_event_1530_rival_02=Guarda che ti aspetto in finale!{0x0114,0x0005}
+main_event_1530_rival_03=Dopo aver visto il tuo incontro ho capito[0x000A]una cosa: devo vincere a tutti i costi!{0xBE01}[0x000A]Io e la mia squadra non potremmo essere[0x000A]più carichi!{0x0114,0x0005}
+main_event_1530_staff_01=Scusa...
+main_event_1530_staff_02=Mi dispiace disturbarti, volevo solo dirti[0x000A]che l’incontro è già terminato...
+main_event_1530_staff_03=Lo Sfidapalestre Hop ha riportato una vittoria[0x000A]schiacciante.{0xBE01}[0x000A]Entra pure nell’arena non appena sei pront{0x1100,0x00FF,0x0101}oa.

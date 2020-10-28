@@ -1,0 +1,452 @@
+Poké Service
+Une nouvelle mission est disponible !
+De nouvelles missions sont disponibles !
+NOUVEAU !
+On recrute !
+Mission en cours
+Mission régulière
+On recrute !
+Mission en cours
+Mission régulière
+Mission accomplie
+
+
+
+Mission accomplie
+
+ANNONCE
+Description de la mission
+Main-d'œuvre recherchée
+<var> Pokémon max
+
+Durée
+<var> h
+
+Points d'Expérience
+Stat de base réduite
+Sélectionnez la stat de base à réduire.
+Stat de base augmentée
+PV
+Attaque
+Défense
+Attaque Spéciale
+Défense Spéciale
+Vitesse
+
+Veuillez sélectionner une mission.
+Il n'y a aucune mission de disponible pour le moment. Revenez demain !
+Voulez-vous accepter cette mission ?
+Oui
+Non
+Cette mission est en cours. Voulez-vous l'annuler ?
+Si vous annulez cette mission, vos Pokémon reviendront sans avoir gagné d'expérience. Voulez-vous continuer ?
+Votre Pokémon est revenu de mission !
+Vos Pokémon sont revenus de mission !
+Votre Pokémon va être envoyé en mission. Voulez-vous continuer ?
+Vos Pokémon vont être envoyés en mission. Voulez-vous continuer ?
+Envoyer
+Vérifier
+Annuler
+Vous n'avez pas sélectionné assez de Pokémon pour cette mission. Voulez-vous continuer malgré tout ?
+Votre Pokémon est parti en mission ! Bon courage à lui !
+Vos Pokémon sont partis en mission ! Bon courage à eux !
+
+Maintenant que vous avez réuni assez de Badges, vos Pokémon peuvent participer à davantage de missions !
+<var> a une mission pour vous !
+Encore <var> h
+<var>
+Félicitations ! Vos clients ont été très impressionnés par le travail de vos Pokémon et ont parlé de vous à tout le monde ! Le nombre de missions disponibles a maintenant augmenté !
+Sélectionnez la stat de base à augmenter.
+Changer la sélection
+Points d'Expérience
+Vos Boîtes sont pleines ! Veuillez libérer de l'espace.
+Choisissez un ou plusieurs Pokémon dans vos Boîtes.
+Impossible d'envoyer davantage de Pokémon. Veuillez annuler une mission ou attendre que l'une d'elles se termine.
+Cette mission a déjà été accomplie.
+Veuillez choisir combien de temps allouer à cette mission.
+
+
+
+
+
+
+
+
+
+Vos Pokémon ont bien travaillé ! Grâce à eux, de nouvelles missions sont maintenant disponibles !
+Vous ne pouvez pas envoyer de Pokémon en mission, car vos Boîtes PC sont vides.
+N.
+Très longue durée
+Longue durée
+Assez longue durée
+Durée moyenne
+Assez courte durée
+Courte durée
+Très courte durée
+Votre Pokémon est revenu de la mission.
+Vos Pokémon sont revenus de la mission.
+Stat
++ <var>
+Pokémon sélectionné
+Pokémon sélectionnés
+ Passer
+ Confirmer
+ Retour
+Excellent travail !
+Bon travail !
+Mission accomplie !
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+C'était du travail de chef !
+C'était du travail de chef !
+C'était de l'excellent travail ! Il a reçu énormément de Points d'Expérience !
+C'était de l'excellent travail ! Ils ont reçu énormément de Points d'Expérience !
+C'était du bon travail ! Il a reçu plein de Points d'Expérience !
+C'était du bon travail ! Ils ont reçu plein de Points d'Expérience !
+La mission est accomplie ! Il a reçu des Points d'Expérience !
+La mission est accomplie ! Ils ont reçu des Points d'Expérience !
+C'était un travail magistral ! Le client est absolument ravi de sa performance !
+C'était un travail magistral ! Le client est absolument ravi de leur performance !
+Le client est ravi du travail fourni ! Continuez vos efforts pour répondre aux attentes de chaque client !
+La mission a été accomplie, mais non sans peine. Essayez d'envoyer plus de Pokémon dotés du type adapté, la prochaine fois !
+<var> semble avoir quelque chose à vous donner ! En récompense de l'excellent travail fourni, vous recevez <var> <var> !
+<var> semble avoir quelque chose à vous donner ! En récompense du bon travail fourni, vous recevez <var> <var> !
+<var> semble avoir quelque chose à vous donner ! En récompense pour avoir accompli la mission, vous recevez <var> <var> !
++ <var>
+<var> semble avoir quelque chose à vous donner ! En récompense de l'excellent travail fourni, vous recevez <var> ₽ !
+<var> semble avoir quelque chose à vous donner ! En récompense du bon travail fourni, vous recevez <var> ₽ !
+<var> semble avoir quelque chose à vous donner ! En récompense pour avoir accompli la mission, vous recevez <var> ₽ !
+<var> de base du Pokémon que vous avez envoyé aont augmenté !
+<var> de base des Pokémon que vous avez envoyés aont augmenté !
+
+dummy
+dummy
+dummy
+dummy
+
+
+
+Que voulez-vous faire avec <var> ?
+Voir son résumé
+Retour
+La sécurité aérienne avant tout !
+Vos Pokémon aiment l'altitude ? Alors ce poste de maintenance est fait pour eux ! À pourvoir immédiatement.
+Personnel d'avion de ligne
+Nous recherchons des Pokémon descendant de créatures mythologiques pour assurer le bon déroulement de nos vols internes.
+Agents de sûreté aéroportuaire
+Nous recherchons des Pokémon doués en arts martiaux pour nous aider à assurer la sécurité de l'aéroport.
+Réparation de câbles électriques
+Nous recrutons du personnel pour installer des câbles à haute tension. Qualité requise : immunité à l'électricité.
+De l'électricité pour illuminer la ville !
+Nous recrutons du personnel pour installer des câbles à haute tension. Qualité requise : bon producteur d'électricité.
+Maintenance des wagons
+Nous recherchons des Pokémon qui s'y connaissent en métaux pour nous assister dans la maintenance de nos trains.
+Cherche Pokémon à résistance physique
+Poste à pourvoir. Profil recherché : Pokémon solides et robustes comme la roche. Attention : risque de coups de jus !
+Maintenance de sous-stations électriques
+Nous avons besoin de Pokémon qui s'y connaissent en électricité pour assurer la maintenance de nos transformateurs.
+Manipulation de produits chimiques
+Nous recherchons des Pokémon pouvant être exposés à des substances toxiques pour nous assister dans nos recherches et nos expériences.
+Montrez-nous vos super-pouvoirs !
+Nous souhaitons étudier les pouvoirs mystérieux de certains Pokémon doués de psychokinésie. Nous comptons sur vous !
+Étude de phénomènes paranormaux
+Notre équipe étudie les phénomènes inexpliqués de notre monde, et nous recherchons des Pokémon venus de l'au-delà pour nous assister.
+Un programme qui donne des frissons !
+Nous avons comme projet de tourner un téléfilm d'horreur, et nous recrutons des Pokémon particulièrement terrifiants pour nous aider.
+L'importance de rester en forme
+Nous avons besoin de Pokémon aux muscles fermes pour illustrer notre campagne d'information sur l'importance de la remise en forme.
+Production d'une émission de cuisine
+Nous recherchons des Pokémon qui ont une passion ardente pour la cuisine afin de nous aider à élaborer notre nouvelle émission !
+Qui dit Pokémon bien bâtis, dit bâtiment !
+Nous recherchons des Pokémon dynamiques, motivés et bien musclés pour venir nous aider sur les chantiers !
+Gardes du corps ténébreux
+Je dois me rendre dans un quartier à risques, et j'aurais besoin de Pokémon intimidants pour me tenir compagnie et assurer ma sécurité.
+L'inspection du terrain, c'est la base !
+Avant de commencer les travaux, nous avons besoin d'inspecter le sol. Contactez-nous si vous avez des Pokémon qui s'y connaissent !
+Une mission ordinaire
+Nous voudrions recueillir l'avis de plusieurs Pokémon ordinaires sur nos derniers plats conçus pour tous les goûts !
+Transport de produits réfrigérés
+Mission : transport de produits frais. Profil recherché : Pokémon réfrigérant. Poste à pourvoir immédiatement.
+Des plats qui donnent l'eau à la bouche
+Afin d'utiliser une eau de qualité dans la confection de nos produits, nous recherchons des experts en la matière pour nous guider.
+Pour mieux promouvoir nos assurances...
+Dans le cadre de tests destinés à démontrer les dangers du poison, nous recherchons des candidats à même de nous montrer ses effets.
+Recherche Pokémon habitués au danger
+Mission : transport de billets de banque. Profil recherché : Pokémon intimidants et rusés. Expérience en travail de nuit appréciée.
+Protégez nos trésors !
+Nous recherchons des Pokémon assez puissants pour protéger nos coffres coûte que coûte. Envoyez-nous vos Pokémon de type Dragon !
+Mission aérienne
+Avis aux passionnés d'aviation ! Nous recherchons de nouveaux partenaires amoureux du ciel qui souhaiteraient arpenter les cieux avec nous !
+Livraison en tout temps
+Si vous avez des Pokémon de type Dragon capables de braver vents et tempêtes, présentez-les-nous : ils nous intéressent !
+
+
+Transport de grosses marchandises
+Nous recherchons des Pokémon à l'aise avec les déplacements souterrains pour nous aider à transporter nos marchandises.
+Maintenance de chemins de fer
+Mission : maintenance de chemins de fer. Profil recherché : Pokémon de type Acier. Poste à pourvoir immédiatement.
+Recherche Pokémon qui résistent au froid
+Nous recherchons des Pokémon Glace pour assurer nos livraisons par temps de neige. Pokémon frileux s'abstenir !
+Pour l'amour de la propreté !
+Nous recrutons des techniciens de surface ! Vos Pokémon sont de vraies fées du logis ? Alors cette mission est faite pour eux !
+La diplomatie avant tout !
+Nous recherchons des Pokémon de type Normal pour nous assister au service clientèle.
+Le secret qui anime nos cuisines
+Il n'y a pas de cuisine sans feu ! Si vos Pokémon Feu sont en quête de sensations fortes, on les accueille à bras ouverts en cuisine !
+Recherche fées du logis
+Nous recrutons du personnel pour nettoyer nos chambres. Vos Pokémon sont dynamiques, motivés et mignons à croquer ? On est intéressés !
+Recherche réceptionnistes qualifiés
+Nous recherchons des Pokémon de type Normal pour s'occuper de la réception de l'hôtel.
+Bon feu, bonne chère !
+Nous recherchons des Pokémon Feu pour nous assister en cuisine. Expérience en gestion de température appréciée.
+Une mission pour Pokémon effrayants
+Recherche : figurants pour photos paranormales. Profil idéal : Pokémon au corps ectoplasmique. Expérience en manoir hanté appréciée.
+Effets spéciaux pour une série spéciale !
+Nous voulons tourner une scène dynamique avec un max d'effets pour une émission. Des Pokémon Dragon seraient parfaits pour le rôle !
+Un reportage qui en bouche un coin !
+Pour tourner un reportage sur les égouts, nous recherchons des Pokémon de type Poison à même de supporter les odeurs de canalisations.
+Tout pour nos clients !
+Pour répondre aux demandes exactes de leurs clients, nos ingénieurs système recherchent des Pokémon pouvant lire dans leurs pensées.
+Gestion de réseau
+La mission est simple : s'assurer que nos réseaux soient bien connectés. Des Pokémon experts en électronique seraient parfaits pour le job.
+Débug par pouvoirs psychiques
+Nous sommes à la recherche de Pokémon doués d'une perception hors-norme pour qu'ils détectent les bugs dans notre système.
+Le service après-vente recrute !
+Nous recherchons des Pokémon habitués aux malédictions et aux mauvais sorts pour gérer nos clients les plus virulents...
+Panique en cuisine !
+Recherche commis de cuisine ! Doit être à l'aise avec le feu !
+On veut des sols qui brillent !
+Pour garder nos sols toujours plus reluisants, nous cherchons des Pokémon férus de cirage. Il faut que ça glisse comme sur la banquise !
+Vente d'assurances
+Nous recueillons les témoignages de Pokémon ayant vu l'au-delà pour vendre nos contrats d'assurance vie. Intéressé ? Contactez-nous !
+Sans vouloir effrayer personne...
+Nous recherchons des Pokémon à la mine sombre pour vendre nos assurances au porte-à-porte.
+Réceptionnistes qualifiés
+Recherche : réceptionniste. Profil idéal : Pokémon avenant, mignon et aux jolis doigts de fée !
+Pour un séjour idyllique à l'Hôtel Ionia !
+Nous recherchons des Pokémon de type Normal polyvalents et capables de répondre aux besoins de tous nos clients.
+Problème évité, client satisfait !
+Nous recherchons des Pokémon de type Psy capables de ressentir les émotions de nos clients pour nous aider à répondre à leurs demandes.
+Pour garder nos clients bien au chaud !
+Nous recherchons des Pokémon à la température corporelle élevée pour chauffer les chambres de nos clients les plus frileux.
+Préparateurs en pharmacie
+Poison et remède sont deux revers de la même médaille, c'est pourquoi nous recrutons des Pokémon Poison pour nous assister en pharmacie.
+Recherche Pokémon immunisés au poison
+Pour manier les différentes substances toxiques de nos laboratoires, nous avons besoin de l'immunité au poison des Pokémon Acier.
+Poste de mascotte publicitaire
+Nous recherchons des Pokémon tout droit sortis d'un conte de fées pour devenir nos mascottes de vente et attirer de nouveaux clients !
+Mission Buisson !
+Mission : livraison en zone herbeuse. Profil recherché : Pokémon de type Plante. On recrute dès maintenant !
+Passion Libraire
+Vous avez un Pokémon Psy passionné de livres ? Un profil comme le sien nous aiderait à retrouver nos différents ouvrages en stock ! Aidez-nous !
+Manutention de livres
+Nous avons besoin de Pokémon bien musclés pour transporter et ranger nos encyclopédies. Contactez-nous si vous êtes intéressé !
+Promotion surnaturelle
+Nous recherchons des Pokémon Spectre pour nous aider à faire la promotion de notre nouvelle section de livres sur les forces occultes !
+Enregistrement de cris de Pokémon
+La tendance musicale est aux Pokémon Insecte ! Nous recherchons des candidats de ce type pour enregistrer leurs cris mélodieux !
+Pour l'amour de la musique !
+On recherche des Pokémon experts en câbles et autres matériels électriques pour nous aider à installer notre système audio.
+Entreposage de légumes frais
+Nous recherchons des Pokémon Eau pour s'assurer que nos légumes restent bien frais et arrosés durant leur entreposage.
+Des livraisons à toute vitesse !
+Nous recherchons des Pokémon capables de se déplacer rapidement dans les airs pour assurer nos livraisons.
+Mission Grillade
+On recrute des Pokémon Feu qui partagent notre passion du grill pour nous aider à garder les commandes bien chaudes.
+Aux petits soins de nos clients
+Chez nous, le client est roi ! Nous recherchons des Pokémon de type Normal au comportement irréprochable pour assister notre clientèle.
+Livraison surprise
+Dans le cadre d'une soirée où l'horreur est à l'honneur, nous cherchons des Pokémon donnant la chair de Poussifeu pour assurer nos livraisons.
+Pour avoir de belles pousses !
+Nous avons besoin de l'expertise de Pokémon Sol afin de créer un engrais de qualité pour nos plantes. Contactez-nous si vous êtes intéressé !
+Faites-nous une fleur !
+Il n'y a pas de jardinage sans arrosage ! Nous recrutons des Pokémon de type Eau à la main verte pour nous aider dans les jardins.
+Aidez nos plantes !
+Nous recherchons des Pokémon de type Roche pour tenir compagnie à nos plantes qui ne poussent que sur terrains rocheux.
+Cueillette de fleurs en forêt
+Cueillir des fleurs en forêt est périlleux, c'est pourquoi nous recrutons des Pokémon Poison résistant au type Plante pour nous aider.
+Pour une grillade mythique !
+Nous recherchons des Pokémon Dragon pour nous aider à préparer nos plats avant la cuisson. La raison ? C'est un secret !
+Pour une réfrigération au point !
+Nous recrutons des Pokémon Glace pour bien conserver nos stocks de nourriture. Impossible de gérer un business sans entreposage réfrigéré !
+Pour un assaisonnement parfait !
+Nous organisons une collecte de sel gemme, et nos expéditeurs ont besoin de l'assistance de Pokémon qui s'y connaissent en minéraux.
+Livraison à domicile !
+Nous recherchons des Pokémon de type Vol pour livrer nos plats tant qu'ils sont bien chauds !
+De l'eau pour nos gâteaux
+Nous recherchons des Pokémon de type Eau pour nous aider à confectionner des desserts bien moelleux.
+Pour des desserts bien frais
+Nous recherchons des Pokémon de type Glace pour nous aider à confectionner des desserts gelés.
+L'importance d'être croquant
+La température de cuisson est d'une importance capitale, en cuisine. Nous avons donc besoin de l'aide de Pokémon spécialisés en chaleur.
+Une petite touche de nature !
+Pour rendre nos étalages plus attrayants, nous souhaitons les décorer avec de jolies fleurs. Avez-vous des Pokémon Plante pour nous aider ?
+Torréfaction de grains de café
+Yoshida prépare un très bon café, mais seulement si des Pokémon Feu l'aident à torréfier les grains. Cela vous parle ? Alors, contactez-nous !
+De l'eau, mais pas n'importe laquelle !
+Yoshida prépare un très bon café uniquement parce que nous recrutons les meilleurs spécialistes pour sélectionner notre eau. Contactez-nous !
+Des livraisons rapides en toute sécurité !
+Notre mission : livrer des colis avec toute la grâce du Bekipan ! Nous recrutons des Pokémon Vol pour rejoindre nos équipes de livraison !
+Tri de colis
+Vous êtes dynamique et vous vous y connaissez en métaux ? Alors, venez nous aider à trier nos colis d'appareils électroménagers !
+Une ferme de rêve
+Nous recrutons des Pokémon Plante pour effectuer un contrôle de qualité des champs qui entourent la ferme.
+Des mauvaises herbes partout...
+Nous offrons aux Pokémon Insecte un buffet de mauvaises herbes à volonté ! N'hésitez pas, c'est gratuit (et ça nous aide bien) !
+Laboureurs de champs
+On a besoin de gros bras pour nous aider à labourer les champs. Vos Pokémon ont des muscles à revendre ? On les accueille à bras ouverts !
+Labourons les champs gaiement !
+Nous recherchons des Pokémon Plante pour nous aider à cultiver nos champs. Ce sont des spécialistes, après tout !
+C'est l'heure de la récolte !
+Nous avons besoin de main-d'œuvre supplémentaire pour gérer la saison des récoltes. Profil idéal : Pokémon Insecte.
+Assistance aérienne
+Nous recherchons des Pokémon de type Vol pour arroser nos plantes depuis les airs. Contactez-nous si vous êtes intéressé !
+Gros biscoteaux recherchés !
+La construction, c'est un travail intense ! Vous avez un Pokémon de type Combat en quête de nouveaux défis ? Cette mission est pour lui !
+Pour bâtir sur des bases saines !
+On recrute des Pokémon de type Sol pour nous aider à déblayer le terrain avant de commencer le chantier.
+Un caillou sur la tête, ça fait mal !
+On recherche des Pokémon solides comme la roche pour protéger nos chantiers des éboulements intempestifs. On compte sur vous !
+Métro, boulot, pas dodo !
+Rien de tel qu'un regard en biais pour empêcher un employé de s'endormir à son bureau ! On recrute des Pokémon à la mine patibulaire !
+Assemblage de rames (Sol)
+Nous recrutons des Pokémon de type Sol pour aider nos équipes à assembler nos rames de train.
+Assemblage de rames (Acier)
+Nous recherchons des experts en machinerie pour assister nos équipes d'assemblage. Profil idéal : Pokémon de type Acier.
+Pour les amateurs de rail
+Nous recherchons des Pokémon capables d'alimenter nos machines d'assemblage. Rejoignez-nous si vous êtes intéressé !
+Construction navale
+Nous recherchons des experts en métallurgie pour nous assister sur nos chantiers navals. Profil idéal : Pokémon de type Acier.
+Inspection navale
+Nous avons besoin de l'aide de Pokémon Eau pour s'assurer de l'étanchéité de nos coques de bateaux.
+Grande construction navale
+Nous effectuons le soudage de nos bateaux à l'électricité. Nous recherchons des Pokémon experts en la matière pour nous venir en aide.
+Pour des voitures toujours plus solides !
+Chez Supersonic Motors, nous concevons des voitures adaptées à tous types de terrains. Nous recherchons donc l'expertise de Pokémon Sol !
+Pour des voitures toujours plus durables !
+Nous recrutons des Pokémon de type Acier pour rejoindre nos équipes de construction. Nous attendons vos candidatures !
+Pour l'amour des automobiles !
+Vos Pokémon brûlent de travailler dans l'industrie automobile ? Aidez-nous ! Tout ce qu'il nous manque, c'est la flamme qui les anime !
+Œil pour œil, Poison pour poison
+Nous avons besoin de l'aide de Pokémon de type Poison pour manipuler différentes substances toxiques.
+Recherche en plantes médicinales
+Nous recherchons des Pokémon ayant des connaissances en botanique pour nous aider à trier nos plantes médicinales.
+Pas de filet, pas de pêche
+Nous avons besoin de soie de Pokémon Insecte pour créer des filets de pêche bien solides. Nous comptons sur votre aide !
+La crème de la crème glacée !
+Nous recherchons des Pokémon de type Glace pour nous aider à confectionner de délicieuses crèmes glacées !
+Des goûteurs pour nos glaces !
+Dans le cadre de notre campagne de promotion, nous recherchons des Pokémon de type Normal pour goûter nos desserts en public.
+Des desserts qui donnent envie !
+Dans le cadre de notre campagne de promotion, nous recherchons des Pokémon Fée pour donner aux passants l'envie de goûter nos desserts.
+Excavation dans les mines
+Nous recherchons des Pokémon qui ont une expertise en minerais pour nous aider à la mine. Pokémon Sol, nous vous attendons !
+Épuration de minéraux (Feu)
+Pour épurer nos minerais, nous avons besoin de Pokémon résistant à la chaleur. Nous accueillons vos Pokémon Feu à bras ouverts !
+Épuration de minéraux (Électrik)
+Pour épurer nos minerais, nous avons besoin de Pokémon résistant à l'électricité. Nous accueillons vos Pokémon Électrik à bras ouverts !
+Les rochers nous gênent...
+Impossible de travailler avec tous ces rochers en travers de la route ! Nous avons besoin de l'aide de Pokémon Roche pour nous en débarrasser.
+Fabrication de textile durable
+Nous souhaitons développer une gamme de vêtements indestructibles, et nous avons besoin de Pokémon Insecte pour créer les étoffes.
+Essayage de textiles
+Nous recrutons des Pokémon Ténèbres pour tester la résistance de nos étoffes à tous types de maltraitance.
+Contrôle qualité de haut vol
+Notre slogan : être tendance en toutes circonstances ! C'est pourquoi nous recrutons des Pokémon Vol pour tester nos étoffes en altitude.
+Recherche top models
+Nous recherchons de jolis Pokémon Fée pour faire les essayages de notre nouvelle collection de prêt-à-porter.
+De la soie solide pour nos tissus
+Nous avons besoin de l'aide de Pokémon Insecte pour créer des étoffes solides.
+Pour une étoffe extraordinaire
+Afin de créer le textile le plus ordinaire du monde, nous recrutons des Pokémon de type Normal pour recueillir leur avis !
+Une étoffe mythique
+Afin d'élaborer une étoffe digne des légendes, nous recrutons des Pokémon de type Dragon pour recueillir leur avis !
+Des motifs mignons !
+Nous avons besoin de l'aide de Pokémon Fée pour réfléchir au design de vêtements à la fois mignons et féériques !
+Développement de chaussures de sport
+Nous recherchons des Pokémon de type Insecte dotés d'un maximum de pattes pour tester nos nouvelles chaussures de sport.
+Développement de chaussures de lutte
+Nous recherchons des Pokémon de type Combat dotés d'un maximum de muscles pour tester nos nouvelles chaussures de lutte.
+Développement de chaussures de course
+Nous recherchons des Pokémon de type Électrik dotés d'un maximum d'endurance pour tester nos nouvelles chaussures de course.
+Courez, pauvres fous !
+Pour tester nos chaussures avant leur mise en vente, nous recherchons des Pokémon Ténèbres qui aiment littéralement battre le pavé !
+Bon fil, bon textile !
+Avis aux Dresseurs de Pokémon Insecte ! Nous avons besoin de leur assistance pour créer des étoffes bien solides !
+Des étoffes magiques !
+Avis aux Dresseurs de Pokémon Fée ! Nous avons besoin de leur assistance pour créer des étoffes douces et soyeuses !
+Des étoffes qui élèvent l'esprit !
+Avis aux Dresseurs de Pokémon Psy ! Nous avons besoin de leur assistance pour créer des vêtements adaptés à la méditation !
+Création de textile de qualité
+Chez Jet-Setter, nous utilisons une soie de la plus haute qualité pour nos étoffes. Nous recrutons des Pokémon Insecte à la hauteur de nos attentes.
+Recherche Pokémon adroits
+Derrière tout vêtement de qualité se trouve une main-d'œuvre méticuleuse. Nous recherchons des Pokémon de type Normal pour nous aider.
+Un textile qui met le mental en avant
+Afin d'innover dans l'industrie du luxe, nous avons besoin de l'intelligence de Pokémon Psy pour trouver un je-ne-sais-quoi à ajouter à nos articles.
+Textiles de qualité inégalée
+Avis aux Dresseurs de Pokémon de type Insecte ! Nous avons besoin de vous pour créer la plus douce des étoffes. Contactez-nous !
+Création de textiles polyvalents
+Avis aux Dresseurs de Pokémon de type Normal ! Nous avons besoin de vous pour créer une étoffe appréciée de tous. Contactez-nous !
+Fabrication de verres de lunettes
+Nous recherchons des Pokémon de type Roche pour rejoindre notre équipe de polissage de verres de lunettes.
+Création de nouvelles chaussures
+Notre prochaine ligne de chaussures contiendra de la soie. Nous recrutons des Pokémon Insecte désireux de nous donner un coup de patte !
+Promotion de chaussures indestructibles
+Dans notre prochaine campagne publicitaire, nous voudrions mettre en avant la solidité de nos chaussures. Profil recherché : Pokémon Combat.
+Pour un style sauvage
+Nous recherchons des Pokémon Ténèbres pour mettre en avant le côté « wild » de notre dernière collection de chaussures !
+Vêtements de très bonne qualité
+Nous recherchons des Pokémon Insecte pour nous aider à créer des tissus solides !
+Vêtements style punk
+Nous voulons utiliser des substances chimiques propres aux Pokémon Poison pour teindre nos tissus. Intéressé ? Contactez-nous !
+Transport maritime
+Mission : transport maritime de marchandises. Profil recherché : Pokémon de type Eau.
+Transport sur glace
+Mission : transport de marchandises sur banquise. Profil recherché : Pokémon de type Glace.
+Ressources humaines (Fée)
+Nous recherchons des Pokémon de type Fée pour écouter et comprendre les problèmes de nos employés.
+Ressources humaines (Ténèbres)
+Nous recrutons des Pokémon de type Ténèbres pour révéler la véritable nature des candidats qui postulent chez nous.
+Inspection sous haute tension
+Nous avons besoin d'experts en électricité pour inspecter le monorail. Vous avez des Pokémon Électrik ? Aidez-nous dans notre travail !
+Un monorail à nettoyer !
+Notre monorail a besoin d'un bon coup de serpillère. Nous recherchons des Pokémon Eau pour nous aider à nettoyer tout ça !
+Une inspection musclée
+Nous avons besoin de la force et du doigté des Pokémon Combat pour nous assister lors de la maintenance du monorail.
+Séminaire sur les PV
+Nous proposons un séminaire pour améliorer les PV de base des Pokémon. Nous recherchons des participants pour tester son efficacité !
+Séminaire sur l'Attaque
+Nous proposons un séminaire pour améliorer l'Attaque de base des Pokémon. Nous cherchons des participants pour tester son efficacité !
+Séminaire sur la Défense
+Nous proposons un séminaire pour améliorer la Défense de base des Pokémon. Nous cherchons des participants pour tester son efficacité !
+Séminaire sur l'Attaque Spéciale
+Nous proposons un séminaire pour améliorer l'Atq. Spé. de base des Pokémon. Nous cherchons des participants pour tester son efficacité !
+Séminaire sur la Défense Spéciale
+Nous proposons un séminaire pour améliorer la Déf. Spé. de base des Pokémon. Nous cherchons des participants pour tester son efficacité !
+Séminaire sur la Vitesse
+Nous proposons un séminaire pour améliorer la Vitesse de base des Pokémon. Nous cherchons des participants pour tester son efficacité !
+Agents polyvalents
+Nous recherchons des Pokémon résistant aux types Feu, Eau, Plante et Électrik pour nous assister sur tout type de terrain.
+Enquêtes mystérieuses
+Nous recherchons des Pokémon résistant aux types Psy, Vol et Fée pour nous aider à enquêter sur nos affaires les plus délicates.
+Aventures en nature
+Nous recherchons des Pokémon résistant aux types Plante, Insecte et Fée pour nous assister lors de nos patrouilles en forêt.
+Ça demande du courage ! ♪
+Nous recherchons des Pokémon capables de braver à la fois les incendies et les inondations pour rejoindre nos équipes. On compte sur vous !
+Remplissage de citerne
+Nous recherchons des Pokémon capables de fournir un élément essentiel à l'extinction des incendies. On compte sur vous !
+Aromathérapie
+Nous recherchons des Pokémon de goût pour décorer nos bureaux avec de jolies plantes vertes. On compte sur vous !
+Nous livrons absolument partout !
+Nous recherchons des Pokémon robustes, capables de braver les torrents, les flammes et les orages pour livrer notre courrier !
+Nettoyage de camions de livraison
+Nous recherchons des Pokémon qui n'ont pas peur de se mouiller pour nettoyer nos camions de livraison.
+Livraison de fleurs
+Nous souhaitons ouvrir prochainement un service de livraison de fleurs, et nous recherchons des experts en la matière pour nous aider !
+miSSiOn TOp sEcrèTE
+NoUS recHeRcHOnS QuelQu'UN pOuR NOUs aiDER. GRoSSE récOmpeNSe à LA cLé. COntacteZ-nOUs PoUR plUS dE DéTails.

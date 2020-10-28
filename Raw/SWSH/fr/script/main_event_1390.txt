@@ -1,0 +1,9 @@
+main_event_1390_sound_02=Kaaa !
+main_event_1390_champion_01={0x0100,0x0000} !{0xBE01}[0x000A]T’es venu{0x1100,0x00FF,0x0100}e m’aider à trouver d’où venait ce bruit ?[0x000A]C’est gentil, mais t’inquiète, je m’en occupe.{0x0114,0x0004}
+main_event_1390_champion_02=Nabil et toi, vous avez qu’à vous concentrer[0x000A]sur le Défi des Arènes.{0x0114,0x0004}
+main_event_1390_champion_03=Il te reste plus que le Badge de Roy, le Champion[0x000A]de l’Arène du type Dragon. Il est très, très fort.{0xBE01}[0x000A]Pour tout te dire, c’est le seul Champion[0x000A]que je considère comme mon égal. Bon courage !{0x0114,0x0004}
+main_event_1390_champion_04=Mais trêve de bavardages, j’ai du pain[0x000A]sur la planche !{0x0114,0x0004}
+main_event_1390_champion_05=C’est une mission pour le Maître Invaincu[0x000A]de Galar !{0x0114,0x0004}
+main_event_1390_sound_01=*BRAOUM*
+main_event_1390_champion_06=Ça venait de l’autre bout du tunnel ![0x000A]Je vais voir ce qui se passe !{0x0114,0x0004}
+main_event_1390_npc_01={0xBDFF:0x0008}

@@ -1,0 +1,11 @@
+msg_t0101_npc1_01={0xBDFF:0x0000}
+msg_t0101_npc2_01={0xBDFF:0x0001}
+msg_t0101_npc3_01={0xBDFF:0x0002}
+msg_t0101_poke1_01_pop=꼬모옹~
+msg_t0101_poke2_01_pop=우메메
+msg_t0101_poke3_01_pop=누모우!
+msg_t0101_poke4_01_pop=큐큐!
+msg_t0101_middleman_01=과학의 힘이란 대단해!{0xBE01}[0x000A]걷기만 해도[0x000A]교환이나 승부를 할 수 있어{0xBE00}[0x000A]정말 신기해!
+msg_t0101_nameplate_01=호브의 집
+msg_t0101_poke5_01_pop=모옹
+msg_t0101_bg1_01=오래 써서 기름때가 묻은[0x000A]바베큐 그릴이다!

@@ -1,0 +1,40 @@
+Cerca una Base Segreta
+Rivela la tua Base Segreta
+Scrivi un messaggio visibile a tutti
+Salva nella scheda SD
+È possibile leggere i QR Code delle Basi[0x000A]Segrete di altri giocatori.{0xBE01}[0x000A]Il QR Code contiene dati quali il modo in cui[0x000A]è stata allestita la base, il messaggio inserito{0xBE00}[0x000A]dal giocatore e altro.{0xBE01}[0x000A]Vuoi procedere?
+Puoi creare un QR Code per la tua Base[0x000A]Segreta.{0xBE01}[0x000A]Il QR Code contiene dati quali i messaggi[0x000A]che hai inserito, la disposizione della base{0xBE00}[0x000A]e altri dettagli.{0xBE01}[0x000A]Potrai salvarlo nella scheda SD della tua[0x000A]console Nintendo 3DS.
+Avvio dell’obiettivo esterno in corso.
+Inquadra il QR Code all’interno del riquadro[0x000A]verde nello schermo superiore e premi[0x000A]il pulsante A.
+Lettura dati in corso.
+Lettura dati completata.
+Errore nella lettura dei dati.
+Impossibile leggere i dati.{0xBE01}[0x000A]{0x0100,0x0000}, che hai registrato[0x000A]nei preferiti, ha una Base Segreta{0xBE00}[0x000A]nello stesso luogo.
+Non hai più spazio nei preferiti.[0x000A]Impossibile leggere i dati.{0xBE01}[0x000A]Cancella alcuni dei preferiti per poter[0x000A]registrare nuove Basi Segrete.
+Non è possibile leggere il QR Code[0x000A]della propria Base Segreta.
+Creazione del QR Code in corso.
+La creazione del QR Code è riuscita!
+Non è stato possibile creare il QR Code.[0x000A]Riprova.
+Salvataggio nella scheda SD in corso.
+I dati sono stati salvati nella scheda SD!
+Non c’è più spazio sulla scheda SD.[0x000A]Impossibile salvare i dati.
+{0xBDFF:0x0014}
+Pokémon Rubino Omega
+Pokémon Zaffiro Alpha
+{0x0100,0x0001}
+{0x0205,0x0002,0x002E}
+Base di {0x0100,0x0003}
+Fai un salto!
+{0x01AB,0x0004}
+Leggi il QR Code
+Impossibile leggere il QR Code.[0x000A]Riprova.
+Cosa vuoi fare?
+Scrivi un breve messaggio per gli altri giocatori[0x000A]e salva il tuo QR Code!
+Base del team {0x01AA,0x0000}
+Le Basi Segrete identificate dai QR Code[0x000A]sono registrate automaticamente tra i preferiti.{0xBE01}[0x000A]Attenzione! Se non hai spazio nei preferiti,[0x000A]non sarà possibile leggere i QR Code.
+Impossibile leggere i dati.{0xBE01}[0x000A]{0x0100,0x0000}, che fa parte dei tuoi[0x000A]amici segreti, ha una Base Segreta{0xBE00}[0x000A]nello stesso luogo.
+Impossibile leggere i dati.{0xBE01}[0x000A]Questa Base Segreta si trova nello stesso[0x000A]luogo della tua.
+Sì
+No
+Impossibile effettuare il salvataggio perché[0x000A]l’applicazione Fotocamera Nintendo 3DS{0xBE00}[0x000A]è piena.
+Impossibile salvare il QR Code.

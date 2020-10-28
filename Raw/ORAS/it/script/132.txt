@@ -1,0 +1,131 @@
+C’è scritto:[0x000A]“Hai voglia di lottare?{0xBE00}[0x000A]Ti sfido a una {0x01AC,0x0001}!”{0xBE01}[0x000A]Vuoi cambiare il tipo di lotta?
+Lotta in Singolo
+Lotta in Doppio
+Lotta in Triplo
+Lotta a Rotazione
+Lotta Inversa
+Non cambiare
+Ora sul Regolamento c’è scritto:[0x000A]“{0x01AC,0x0001}”!
+Sul Regolamento c’è già scritto:[0x000A]“{0x01AC,0x0001}”!
+C’è scritto:[0x000A]“Hai voglia di lottare?{0xBE00}[0x000A]Ti sfido a una {0x01AC,0x0001}!”
+Lotta in Singolo
+Lotta in Doppio
+Lotta in Triplo
+Lotta a Rotazione
+Lotta Inversa
+Impostazioni attuali: {0x01AD,0x0002}.[0x000A]Vuoi modificare le impostazioni?
+Impostazioni del livello modificate.[0x000A]Impostazioni attuali: {0x01AD,0x0002}.
+C’è scritto:[0x000A]“Il Cambialivello utilizza delle misteriose onde{0xBE01}[0x000A]elettromagnetiche per limitare il livello dei Pokémon[0x000A]che partecipano alla lotta.{0xBE01}[0x000A]Puoi modificare le impostazioni a tuo piacimento.{0xBE01}[0x000A]Attenzione: se scegli una lotta alla pari di livello 30 o 50,[0x000A]i Pokémon non otterranno Punti Esperienza.”
+Le impostazioni del livello sono già impostate su:[0x000A]{0x01AD,0x0002}.
+C’è scritto:[0x000A]“Impostazioni attuali: {0x01AD,0x0002}.”{0xBE00}[0x000A]Vuoi leggere le istruzioni?
+C’è scritto:[0x000A]“Il Cambialivello utilizza delle misteriose onde{0xBE01}[0x000A]elettromagnetiche per limitare il livello dei Pokémon che[0x000A]partecipano alla lotta.{0xBE01}[0x000A]Attenzione: se scegli una lotta alla pari di livello 30 o 50,[0x000A]i Pokémon non otterranno Punti Esperienza.”
+Nessuna limitazione
+L. 30 alla pari
+L. 50 alla pari
+Leggi le istruzioni
+Esci
+Nessuna limitazione
+L. 30 alla pari
+L. 50 alla pari
+C’è scritto: “{0x01AB,0x0003}”.{0xBE01}[0x000A]Vuoi scrivere un nuovo messaggio?
+Hai scritto: “{0x01AB,0x0003}”.
+C’è scritto: “{0x01AB,0x0003}”.
+C’è scritto: “{0x01AB,0x0004}”.{0xBE01}[0x000A]Vuoi scrivere un nuovo messaggio?
+Il nuovo messaggio è: “{0x01AB,0x0004}”.
+{0x01AB,0x0004}
+Si è spento!
+Si è acceso!
+Non sembra funzionare molto bene...
+Illumina l’ambiente con una luce colorata!
+Palestra di {0x0100,0x0000}!
+Il record di {0x0100,0x0000} è {0x0202,0x0007} colp{0x1101,0x0007,0x0101}oi![0x000A]Vuoi provare a batterlo?
+Preparati! Pronti...{0xBE01}[0x000A]Via!
+Tempo scaduto!
+Hai sferrato {0x0202,0x0002} colp{0x1101,0x0002,0x0101}oi![0x000A]Complimenti! Hai stabilito il tuo record!
+Hai sferrato {0x0202,0x0002} colp{0x1101,0x0002,0x0101}oi!
+Il record di {0x0100,0x0005} è {0x0202,0x0001} colp{0x1101,0x0001,0x0101}oi!{0xBE01}[0x000A]Il record di {0x0100,0x0000} è {0x0202,0x0007} colp{0x1101,0x0007,0x0101}oi!{0xBE01}[0x000A]Vince {0x0100,0x0006}!{0xBE01}[0x000A]Vuoi giocare ancora?
+Il record di {0x0100,0x0005} è {0x0202,0x0001} colp{0x1101,0x0001,0x0101}oi!{0xBE01}[0x000A]Il record di {0x0100,0x0000} è {0x0202,0x0007} colp{0x1101,0x0007,0x0101}oi!{0xBE01}[0x000A]È un pareggio!{0xBE01}[0x000A]Vuoi giocare ancora?
+C’è scritto: “Scegli un disco”.[0x000A]Vuoi cambiare la musica?
+La musica che esce dalle casse del Jukebox è cambiata!
+È il disco che stai ascoltando adesso!
+Disco 1
+Disco 2
+Disco 3
+Disco 4
+Disco 5
+Esci
+È un Jukebox!
+È un fascio di paglia compatto![0x000A]Forse un Pokémon potrebbe tagliarlo in due.{0xBE01}[0x000A]Vuoi usare la mossa Taglio?
+È un fascio di paglia compatto![0x000A]Forse un Pokémon potrebbe tagliarlo in due.
+Un taglio perfetto!
+...{0xBE01}[0x000A]... ... ...{0xBE01}[0x000A]... ... ... ... ... ...
+È un letto soffice e molto comodo,[0x000A]ottimo per riposarsi un po’.
+È un giocattolo... ma sembra vero!
+Il cestino dei rifiuti è vuoto.
+Un certificato prestigioso![0x000A]C’è scritto:{0xBE01}[0x000A]“Questo certificato attesta che hai completato[0x000A]il Pokédex Regionale.”
+Un certificato prestigioso![0x000A]C’è scritto:{0xBE01}[0x000A]“Questo certificato attesta che hai completato[0x000A]il Pokédex Nazionale.”
+Un certificato prestigioso![0x000A]C’è scritto:{0xBE01}[0x000A]“Questo certificato commemora il viaggio di uno dei tuoi[0x000A]Pokémon attraverso lo spazio e il tempo per giungere{0xBE00}[0x000A]fino a te.”
+Questo televisore giocattolo sembra del tutto identico[0x000A]a una TV vera!
+Questo televisore giocattolo ricorda un Seedot![0x000A]Sembra che stia per rotolare via...!
+Questo televisore giocattolo ricorda uno Skitty![0x000A]Sembra quasi di sentirne le fusa...!
+È il poster di una Poké Ball.
+È un poster di Treecko.
+È un poster di Torchic.
+È un poster di Mudkip.
+È un poster di Azurill.
+È un poster di Pikachu e Pichu.
+È un poster di Seviper.
+È un poster di Relicanth.
+È un poster di Wingull.
+È un poster di Smoochum.
+È una magnifica pergamena che ritrae[0x000A]un imponente Groudon!
+È una magnifica pergamena che ritrae[0x000A]un imponente Kyogre!
+È una magnifica pergamena che ritrae[0x000A]un imponente Rayquaza!
+È una magnifica pergamena che hai notato anche[0x000A]nella Palestra di papà.
+È una Bambola Pichu!
+È una Bambola Pikachu!
+È una Bambola Marill!
+È una Bambola Togepi!
+È una Bambola Cyndaquil!
+È una Bambola Chikorita!
+È una Bambola Totodile!
+È una Bambola Jigglypuff!
+È una Bambola Meowth!
+È una Bambola Clefairy!
+È una Bambola Ditto!
+È una Bambola Smoochum!
+È una Bambola Treecko!
+È una Bambola Torchic!
+È una Bambola Mudkip!
+È una Bambola Duskull!
+È una Bambola Wynaut!
+È una Bambola Baltoy!
+È una Bambola Kecleon!
+È una Bambola Azurill!
+È una Bambola Skitty!
+È una Bambola Swablu!
+È una Bambola Gulpin!
+È una Bambola Lotad!
+È una Bambola Seedot!
+È un pupazzo che rappresenta un Sostituto!
+È una Bambola Snorlax!
+È una Bambola Rhydon!
+È una Bambola Lapras!
+È una Bambola Venusaur!
+È una Bambola Charizard!
+È una Bambola Blastoise!
+È una Bambola Wailmer!
+È una Bambola Regice!
+È una Bambola Regirock!
+È una Bambola Registeel!
+È una Bambola Kecleon![0x000A]Se la tocchi diventa invisibile!
+È apparsa una Bambola Kecleon!
+È uno strano macchinario![0x000A]Sembra che non si possa ancora usare...
+È uno Sbloccalivello! Vuoi accenderlo?
+Vuoi spegnere lo Sbloccalivello?
+Lo Sbloccalivello è in funzione!{0xBE01}[0x000A]Le restrizioni al livello dei Pokémon sono svanite!
+Lo Sbloccalivello è spento!{0xBE01}[0x000A]Le restrizioni al livello dei Pokémon sono state ripristinate!
+Sei cadut{0x1100,0x00FF,0x0101}oa in una trappola!
+Disco 6
+Disco 7
+Spegni il Jukebox

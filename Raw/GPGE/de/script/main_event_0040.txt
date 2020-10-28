@@ -1,0 +1,16 @@
+msg_main0040_rival_01={0xBDFF:0x0000}
+msg_main0040_doctor_01={0xBDFF:0x0001}
+msg_main0040_doctor_02={0xBDFF:0x0002}
+msg_main0040_doctor_04={0xBDFF:0x0003}
+msg_main0040_doctor_05={0xBDFF:0x0004}
+msg_main0040_doctor_03={0xFF00,0x0009}Prof. Eich:{0xFF00,0x0000} Hey, wo willst du denn hin?[0x000A]Dein Pokémon wartet auf dich!
+msg_main0040_rival_02={0xBDFF:0x0006}
+msg_main0040_new_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Professor!{0xBE01}[0x000A]Können Sie mir erklären, warum da auf einmal[0x000A]drei Pokébälle liegen? Ich könnte schwören,{0xBE00}[0x000A]eben waren es noch zwei...
+msg_main0040_new_doctor_01={0xFF00,0x0009}Prof. Eich:{0xFF00,0x0000} Da steckt der kleine Ausreißer also!{0xBE01}[0x000A]Ich schätze, im dritten Pokéball befindet sich[0x000A]das {0x0101,0x0002}, das {0x0100,0x0000} eben{0xBE00}[0x000A]gefangen hat.
+msg_main0040_new_rival_02={0xFF00,0x0009}{0x0100,0x0001}: {0xFF00,0x0000}Was, echt? Du hast ganz[0x000A]allein ein Pokémon gefangen, {0x0100,0x0000}?!
+msg_main0040_new_rival_03=Woah! Habt ihr das gesehen?!
+msg_main0040_new_doctor_02={0xFF00,0x0009}Prof. Eich:{0xFF00,0x0000} Hahaha! Dieses Pokémon ist wirklich[0x000A]quicklebendig!
+msg_main0040_new_doctor_04=Los, {0x0100,0x0000}! Heb den Pokéball auf[0x000A]und halte ihn diesmal ganz fest in der Hand!
+msg_main0040_new_doctor_03=Na los, hol dir dein {0x0101,0x0002}!
+msg_main0040_new_rival_04=Ich glaube, das Pokémon, das du gefangen hast,[0x000A]steckt im mittleren Pokéball...
+msg_main0040_new_rival_05={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Hehe, sieht nicht so aus,[0x000A]als würde es dir die Wahl lassen!

@@ -1,0 +1,14 @@
+msg_t003r0102_scientist_01_01=This month, we’re running a space exhibit.
+msg_t003r0102_juvenilem_01_01=Moon Stone, huh?{0xBE01}[0x000A]What’s so special about it?[0x000A]Looks like an ordinary rock to me.
+msg_t003r0102_oldm_01_01=It has been decades since mankind stood on[0x000A]the moon...and now, we’re following the dream{0xBE00}[0x000A]of standing on that faraway red planet!{0xBE01}[0x000A]News about space always makes me so excited!
+msg_t003r0102_juveniles_01_01=I want {0x1302,0x0002}{0x0101,0x0002}![0x000A]It’s so cute!{0xBE01}[0x000A]Daddy, can you please get one for me?
+msg_t003r0102_fat_01_01=Yeah, I’ll get you {0x1302,0x0002}{0x0101,0x0002} soon—[0x000A]I promise!
+msg_t003r0102_fat_01_02=I think you and {0x0101,0x0002} are going to[0x000A]become fast friends.{0xBE01}[0x000A]I couldn’t take that away...
+msg_t003r0102_fat_01_03=Hey, your {0x0101,0x0002}...{0xBE01}[0x000A]No, it’s too attached to you. I could never tear[0x000A]apart such a bond.
+msg_t003r0102_tenji_01=It looks like an old space shuttle.
+msg_t003r0102_tenji_02=It says it’s an object that fell on Mt. Moon,[0x000A]thought to be a Moon Stone.
+msg_t003r0102_tenji_03=A 3-D hologram! And it has a title:[0x000A]A Map of the Universe.
+msg_t003r0102_tenji_04=They look to be pieces of a meteor.
+msg_t003r0102_tenji_05=It seems to show the origin of the universe.
+msg_t003r0102_bg_01=“This way”
+msg_t003r0102_bg_02=You saw a beautiful crystal when you[0x000A]looked into the microscope.

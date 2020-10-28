@@ -1,0 +1,11 @@
+sub_event_005_npc_01=¡Ha sido un Toxel! ¡Un Toxel!{0xBE01}[0x000A]¡Me encontré un Huevo, lo llevé conmigo a[0x000A]cuestas y ha salido un Toxel!{0xBE01}[0x000A]Por favor, críalo tú y dale una buena vida. ¡Yo[0x000A]tengo los brazos dormidos de tanto calambrazo!
+sub_event_005_poke1_01=¡Tox, tox!
+sub_event_005_npc_02=¡Toma esto también! ¡Dáselos a tu{0x1101,0x00FD,0x0100}s Pokémon[0x000A]para que crezca{0x1101,0x00FD,0x0100}n!
+sub_event_005_npc_03=Aquí, en Cuidados Pokémon, puedes conseguir[0x000A]Huevos, y los caramelos que incrementan la{0xBE00}[0x000A]experiencia en las Incursiones Dinamax.
+sub_event_005_npc_04=¡¿Qué?! ¿No puedes llevar ni un Pokémon más?[0x000A]¡Deben de gustarte una barbaridad!
+sub_event_005_oldf_01={0xBDFF:0x0005}
+sub_event_005_oldf_02={0xBDFF:0x0006}
+sub_event_005_poke_01={0xBDFF:0x0007}
+sub_event_005_poke_02={0xBDFF:0x0008}
+sub_event_005_poke_03={0xBDFF:0x0009}
+sub_event_005_system_01={0xBDFF:0x000A}

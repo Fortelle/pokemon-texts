@@ -1,0 +1,12 @@
+msg_sub052_researcher_01=Salut ! Tu te souviens de moi ?[0x000A]Je suis l’un des assistants du Professeur Chen !{0xBE01}[0x000A]Si tu attrapes au moins 50 espèces de Pokémon[0x000A]différentes, je suis censé t’offrir un {0xFF00,0x0006}super truc{0xFF00,0x0000} !{0xBE01}[0x000A]Alors, le compte est bon ?
+msg_sub052_researcher_02=Super ! Tu as capturé {0x0202,0x0004} espèces de Pokémon[0x000A]différentes !{0xBE01}[0x000A]Félicitations ! Voici ta récompense !
+msg_sub052_researcher_03=... Zut, qu’est-ce que j’en ai fait ?![0x000A]Je... je crois que je l’ai perdu...
+msg_sub052_researcher_04=Je suis vraiment désolé, je n’ai rien à te donner...[0x000A]Ah, si ! Attends !
+msg_sub052_researcher_05=Tournicoti !
+msg_sub052_researcher_06=Pfiou... Tiens, prends ceci.
+msg_sub052_sys_01=Vous recevez une {0xFF00,0x0006}Tenue d’Assistant{0xFF00,0x0000} !
+msg_sub052_sys_02=Vous rangez la {0xFF00,0x0006}Tenue d’Assistant {0xFF00,0x0000}dans votre[0x000A]Malle à Costumes.
+msg_sub052_researcher_07=Par le pouvoir de la haute couture, je vous offre[0x000A]à toi et ton Pokémon ces blouses blanches faites{0xBE00}[0x000A]sur-mesure !{0xBE01}[0x000A]Je les ai taillées dans ma propre blouse.[0x000A]J’y tenais beaucoup, alors prenez-en grand soin.
+msg_sub052_researcher_08=Sans ma blouse, je ressemble à monsieur[0x000A]Tout-le-Monde, mais toi au moins, tu connais{0xBE00}[0x000A]ma véritable identité. Ne l’oublie pas, hein.
+msg_sub052_researcher_09=Voyons voir...{0xBE01}[0x000A]Oh ! Tu n’as attrapé que {0x0202,0x0004} espèce{0x1101,0x0004,0x0100}s[0x000A]de Pokémon{0x1101,0x0004,0x0C00} différentes !{0xBE01}[0x000A]Reviens me voir quand tu en auras attrapé 50[0x000A]et je te donnerai un {0xFF00,0x0006}super truc{0xFF00,0x0000} !
+msg_sub052_researcher_10=Attrape au moins 50 espèces de Pokémon[0x000A]différentes et je te donnerai un {0xFF00,0x0006}super truc{0xFF00,0x0000}.

@@ -1,0 +1,81 @@
+Vérification de la carte SD... Ne pas éteindre la console.
+Les données liées aux règles de combat trouvées sur la carte SD sont corrompues. Les données ont été effacées.
+Recherche de données... Veuillez patienter.
+
+Aucune donnée trouvée.
+Voulez-vous annuler la recherche de données ?
+Que souhaitez-vous faire de la règle <var> ?
+Ces données ont déjà été téléchargées.
+Sauvegarde des données sur la carte SD... Ne pas éteindre la console.
+La règle suivante a été sauvegardée sur la carte SD : <var>
+Il n'y a plus de place pour de nouvelles règles. Voulez-vous en effacer ?
+Choisissez une règle à effacer.
+Voulez-vous annuler l'effacement de données ?
+Voulez-vous vraiment effacer la règle <var> ?
+Effacement des données en cours... Ne pas éteindre la console.
+La règle suivante a été effacée de la carte SD : <var> Choisissez une autre règle à ajouter.
+Sélectionné : <var> Confirmer ?
+Annuler l'opération ?
+Le jeu d'un des joueurs n'est pas compatible avec cette règle de combat. Veuillez choisir une autre règle.
+Espace insuffisant sur la carte SD. Veuillez quitter le jeu, éteindre votre console et vérifier le contenu de votre carte SD.
+Espace insuffisant sur la carte SD. Impossible de sauvegarder cette règle. Voulez-vous effacer une règle ?
+Espace insuffisant sur la carte SD. Impossible de sauvegarder cette règle. Voulez-vous effacer une règle ?
+Oui
+Non
+Télécharger
+En savoir plus
+Retour
+Effacer
+Confirmer
+En savoir plus
+: Sans restrictions
+: <var>
+: <var> ou plus
+: de <var> à <var>
+: Tous à <var>
+: Tous à <var> ou moins
+: Autorisés
+: Interdits
+: Autorisés
+: Interdits
+Nombre de Pokémon
+Niveau des Pokémon
+Pokémon spéciaux
+Pokémon identiques
+Objets tenus identiques
+Combat Solo
+Combat Duo
+Combat Multi
+Bataille Royale
+Règles normales
+Règles strictes
+Tout est permis
+Arbre de Combat
+Bataille Royale
+<var>
+/
+: <var> ou moins
+: Tous à <var> ou plus
+Combat Solo
+Combat Duo
+Combat Multi
+Combat Super Solo
+Combat Super Duo
+Combat Super Multi
+Niveau Normal
+Niveau Super
+Niveau Hyper
+Niveau Master
+Dans le cadre des règles normales, tous les Pokémon combattent au niveau 50.
+Dans le cadre des règles strictes, tous les Pokémon ayant un niveau supérieur à 50 sont ramenés au niveau 50.
+S'il n'y a aucune restriction, tous les Pokémon conservent leur niveau d'origine.
+Il n'y a aucune restriction de niveau dans les séries normales.
+Dans une Bataille Royale, tous les Pokémon ayant un niveau supérieur à celui indiqué dans les règles sont ramenés à ce niveau.
+Liste des Pokémon interdits : <var>　<var> <var>　<var> <var>　<var> <var>　<var> <var>　<var> <var>　<var> <var>　<var> <var>　<var>
+Liste des objets interdits : <var> <var> <var> <var> <var> <var> <var> <var> <var> <var> <var> <var> <var> <var> <var> <var>
+Liste des capacités interdites : <var> <var> <var> <var> <var> <var> <var> <var> <var> <var> <var> <var> <var> <var> <var> <var>
+Liste des Pokémon interdits : Aucun
+Liste des objets interdits : Aucun
+Liste des capacités interdites : Aucune
+Pour en savoir plus sur les règles de combat, vous pouvez visiter le site Internet du Pokémon Global Link : http://www.pokemon-gl.com/ Vous pouvez vous rendre sur ce site Internet en scannant le QR Code sur la page suivante.
+Dans les séries Super, tous les Pokémon ayant un niveau supérieur à 50 sont ramenés au niveau 50.

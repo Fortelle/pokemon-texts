@@ -1,0 +1,11 @@
+msg_main8050_poison_01={0xFF00,0x0009}Koga:{0xFF00,0x0000} Hahaha!
+msg_main8050_poison_06=Ein Kind wagt es, Ninja-Meister Koga zum Kampf[0x000A]herauszufordern? Lachhaft!
+msg_main8050_poison_07=Du wirst feststellen, dass jeder meinem Gift[0x000A]wehrlos ausgesetzt ist. Das Ende kommt langsam{0xBE00}[0x000A]und unausweichlich...
+msg_main8050_poison_08=Meine geheimen Ninja-Techniken werden dich[0x000A]schon auf den giftigen Boden der Tatsachen{0xBE00}[0x000A]zurückholen!
+msg_gym06_01_02={0xBDFF:0x0004}
+msg_main8050_poison_02=Ich wurde geschlagen...{0xBE01}[0x000A]Hmpf, so sei es. Der Seelenorden gehört dir!
+msg_main8050_sys_01=Du erhältst den {0xFF00,0x0006}Seelenorden{0xFF00,0x0000} von Koga!
+msg_main8050_poison_03=Da du nun den Seelenorden besitzt, gehorchen[0x000A]dir alle Pokémon bis Level {0x0201,0x0004}, auch wenn du sie{0xBE00}[0x000A]von einem anderen Trainer erhalten hast.{0xBE01}[0x000A]Und das hier sollst du auch haben...
+msg_main8050_sys_02=Du erhältst {0x0109,0x0001} {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000} von Koga!
+msg_main8050_poison_04=Hinter der TM27 verbirgt sich eine Attacke,[0x000A]die seit 400 Jahren in meiner Familie{0xBE00}[0x000A]weitergegeben wird: Toxin.
+msg_main8050_poison_05=Ein Pokémon, das mit Toxin vergiftet wird,[0x000A]erleidet Runde für Runde mehr Schaden!{0xBE01}[0x000A]Mit dieser fürchterlichen Attacke wirst du zu[0x000A]einem wahren Alptraum für jeden Gegner!

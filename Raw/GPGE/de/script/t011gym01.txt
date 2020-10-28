@@ -1,0 +1,4 @@
+msg_t011gym01_gym_01=Die Pokémon von Sabrina nutzen Psycho-Kräfte,[0x000A]um deine Pokémon zu verwirren!{0xBE01}[0x000A]Gerade Kampf-Pokémon sind dafür besonders[0x000A]anfällig.{0xBE01}[0x000A]Sie werden nämlich zu Kleinholz verarbeitet,[0x000A]bevor sie auch nur die Chance haben, selbst{0xBE00}[0x000A]zum Zug zu kommen!
+msg_t011gym01_gym_02=Psycho-Kräfte...?{0xBE01}[0x000A]Na, wenn ich die hätte... Tihihi!
+msg_t011gym01_statue_01=Pokémon-Arena von Saffronia City[0x000A]Arenaleiterin: Sabrina{0xBE01}[0x000A]Anerkannte Trainer:[0x000A]{0x0100,0x0001}
+msg_t011gym01_statue_02=Pokémon-Arena von Saffronia City[0x000A]Arenaleiterin: Sabrina{0xBE01}[0x000A]Anerkannte Trainer:[0x000A]{0x0100,0x0001}, {0x0100,0x0000}

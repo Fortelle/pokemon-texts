@@ -1,0 +1,17 @@
+main_event_1570_telop_01=Quelques heures plus tard...
+main_event_1570_rival_01=Il est super en retard ![0x000A]J’ai méga faim !{0x0114,0x0005}
+main_event_1570_rival_02=Normalement, il tient toujours ses promesses !{0xBE01}[0x000A]Exemple type : il m’avait juré qu’il deviendrait[0x000A]Maître, ben il l’a fait !{0x0114,0x0005}
+main_event_1570_rival_03=J’aimerais bien qu’il prenne aussi les promesses[0x000A]de resto au sérieux !{0x0114,0x0005}
+main_event_1570_leader_01=Tu te calmes jamais, en fait.{0xBE01}[0x000A]Si tu mettais autant d’énergie à te battre[0x000A]qu’à pester contre ton frère, tu irais loin.{0x0114,0x0016}
+main_event_1570_rival_04=Ça va, merci, je suis au courant !{0xBE01}[0x000A]Mais t’es plutôt mal placé pour me donner[0x000A]des leçons, Peterson ! T’as vu ta dégaine ?{0x0114,0x0005}
+main_event_1570_leader_02=Si tu juges les gens sur leur apparence,[0x000A]ça m’étonne pas que tu te vautres.{0x0114,0x0016}
+main_event_1570_leader_03=Et si vous cherchez le Maître,[0x000A]il est parti à la Shehroz Tower.{0x0114,0x0016}
+main_event_1570_select_01=Ah bon ? Pourquoi ?
+main_event_1570_select_02=La Shehroz Tower ? Il va y faire quoi ?
+main_event_1570_leader_04=Qu’est-ce que j’en sais, moi...[0x000A]Je l’ai croisé à la station de monorail.{0xBE01}[0x000A]Il m’a dit qu’il devait aller à la Shehroz Tower[0x000A]et il m’a demandé de vous prévenir qu’il serait{0xBE00}[0x000A]en retard. Mais c’était y’a un moment déjà...{0x0114,0x0016}
+main_event_1570_rival_05=Qu’est-ce qu’il est allé faire là-bas ?[0x000A]Et qu’est-ce qui lui prend autant de temps ?{0x0114,0x0005}
+main_event_1570_rival_06=Ça m’inquiète qu’il tarde autant à revenir...[0x000A]Ça lui ressemble pas.{0xBE01}[0x000A]Peterson, est-ce que tu pourrais[0x000A]nous emmener là-bas ?{0xBE01}[0x000A]Moi et {0x0100,0x0000}, on connaît[0x000A]pas trop la ville...{0x0114,0x0005}
+main_event_1570_leader_05=Y’a pas un frère pour rattraper l’autre,[0x000A]vous passez votre temps à donner des ordres{0xBE00}[0x000A]aux gens, sérieux.{0x0114,0x0016}
+main_event_1570_leader_06=Mais ouais, si Shehroz retient notre Maître[0x000A]contre son gré, c’est grave.{0xBE01}[0x000A]Rater un resto, passe encore. Mais s’il nous prive[0x000A]du Match Ultime avec ses folies, ça va pas aller !{0xBE01}[0x000A]Et je dois avouer que je vous aime bien,[0x000A]vous deux. Je vais vous donner un coup de main !{0x0114,0x0016}
+main_event_1570_leader_07=Laissez-moi siffler la Team Yell.[0x000A]On va aller faire un petit coucou au président.{0xBE00}[0x000A]Un coucou musclé.{0x0114,0x0016}
+main_event_1570_rival_07=Ouais ! Je crois que je commence à prendre[0x000A]goût à l’anarchie, à force !{0x0114,0x0005}

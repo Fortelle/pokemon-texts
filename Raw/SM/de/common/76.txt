@@ -1,0 +1,158 @@
+{0x0101,0x0000}
+L
+{0x0108,0x0000}
+{0x0203,0x0000,0x0000}
+{0x0109,0x0000}
+{0x0201,0x0000} Std. {0x0201,0x0001} Min.
+–– Std. –– Min.
+{0x0201,0x0000}
+/
+Bohnenkiste
+Abgelegte Pokébohnen:
+Pokébohnen-Wirkungsdauer:
+{0x0201,0x0000}/{0x0201,0x0001}
+???
+{0x0203,0x0000,0x0000}
+{0xFF00,0x0001}Kein Pokémon vorhanden{0xFF00,0x0000}
+{0xFF00,0x0001}Keine Bohnen abgelegt{0xFF00,0x0000}
+Pokébohnen, die du erhältst:
+Pokébohnen, die du abgibst:
+O.K.
+Anpflanzen
+Zurücknehmen
+Bericht
+Spielen
+Pflegen
+Inseln ausbauen
+Pokébohnen-Flaschenpost
+Ja
+Nein
+Ja
+Nein
+Ja
+Nein
+Pokébohnen tauschen
+Abbrechen
+Hausfloß
+Wohlfühl-Insel
+Wilde Pokémon zu Besuch:
+Im Moment ist kein Pokémon hier.
+Pokébohnen-Wirkungsdauer:
+Beeren-Insel
+Angepflanzte Beeren:
+Nächste Ernte:
+Pokébohnen-Wirkungsdauer:
+Beerenfeld 1
+Beerenfeld 2
+Beerenfeld 3
+Informationen zum Beerenfeld
+Für den Ausbau benötigte Pokébohnen:
+Verwendete Pokébohnen:
+Benötigt:
+Lehmboden
+Hier wurde eine Beere angepflanzt. Bis zur Ernte[0x000A]dauert es wohl noch eine Weile.
+Hier wächst ein Beerenbaum, doch bis zur Ernte[0x000A]dauert es wohl noch eine Weile.
+Der Beerenbaum ist ziemlich groß geworden.[0x000A]Bald kann er abgeerntet werden!
+Beerenfeld 1 kultivieren
+Beerenfeld 2 kultivieren
+Beerenfeld 3 kultivieren
+Wähle eine Beere zum Anpflanzen.
+Du hast keine Beeren zum[0x000A]Anpflanzen!
+Aus der Beere ist ein Sprössling gewachsen.[0x000A]Bis zur Ernte dauert es wohl noch eine Weile.
+Die Beeren sind reif. Zeit, sie abzuernten!
+Abenteuer-Insel
+Expeditionsroute:
+Zeit bis zur Rückkehr:
+Pokébohnen-Wirkungsdauer:
+Gefundene Items:
+Fitness-Insel
+Sport treibende Pokémon:
+Gruppe 1
+Gruppe 2
+Gruppe 3
+Zeit bis zum Trainingsende:
+Pokébohnen-Wirkungsdauer:
+Spa-Insel
+Badende Pokémon:
+Gruppe 1
+Gruppe 2
+Gruppe 3
+Pokébohnen-Wirkungsdauer:
+Trainingssätze:
+
+Trainingsdauer:
+Absolvierte Sätze:
+Restliche Trainingszeit:
+Ziel: Erfahrungspunkte erhöhen
+Ziel: Angriffs-Basiswert erhöhen
+Ziel: Verteidigungs-Basiswert erhöhen
+Ziel: Spezial-Angriffs-Basiswert erhöhen
+Ziel: Spezial-Verteidigungs-Basiswert erhöhen
+Ziel: Initiative-Basiswert erhöhen
+Ziel: KP-Basiswert erhöhen
+Wähle eine Insel zum Ausbauen
+Wähle eine Expeditionsroute
+Wähle einen Trank
+Wohlfühl-Insel Lv. 1
+Wohlfühl-Insel Lv. 2
+Wohlfühl-Insel Lv. 3
+Beeren-Insel Lv. 1
+Beeren-Insel Lv. 2
+Beeren-Insel Lv. 3
+Abenteuer-Insel Lv. 1
+Abenteuer-Insel Lv. 2
+Abenteuer-Insel Lv. 3
+Fitness-Insel Lv. 1
+Fitness-Insel Lv. 2
+Fitness-Insel Lv. 3
+Spa-Insel Lv. 1
+Spa-Insel Lv. 2
+Spa-Insel Lv. 3
+Eine Insel, auf der sich Pokémon eine Pause[0x000A]gönnen und einfach mal abschalten können.
+Baue die Wohlfühl-Insel aus, damit sie für[0x000A]Pokémon noch attraktiver wird und du dort[0x000A]mehr Pokébohnen ernten kannst.
+Baue die Wohlfühl-Insel vollständig aus, damit[0x000A]du dort noch mehr Pokébohnen ernten kannst.
+Eine Insel, auf der Pokémon Beeren anbauen[0x000A]können. Zu Beginn bietet sie Platz, um bis zu[0x000A]sechs Beeren anzupflanzen.
+Baue die Beeren-Insel aus, um dort bis zu[0x000A]zwölf Beeren anpflanzen zu können.
+Baue die Beeren-Insel vollständig aus, um dort[0x000A]bis zu 18 Beeren anpflanzen zu können.
+Eine Insel, auf der Pokémon ein ausgedehntes[0x000A]Höhlensystem erkunden können. Dort gibt es[0x000A]allerlei Items zu finden.
+Baue die Abenteuer-Insel aus, um tiefer in die[0x000A]Höhle vorzudringen und die Wahl zwischen drei[0x000A]verschiedenen Expeditionsrouten zu erhalten.
+Baue die Abenteuer-Insel vollständig aus,[0x000A]um die Wahl zwischen vier verschiedenen[0x000A]Expeditionsrouten zu erhalten.
+Eine Insel, auf der Pokémon Sport treiben[0x000A]können. Zu Beginn kannst du bis zu sechs[0x000A]Pokémon dorthin einladen.
+Baue die Fitness-Insel aus, damit du bis zu[0x000A]zwölf Pokémon dorthin einladen kannst.
+Baue die Fitness-Insel vollständig aus, damit du[0x000A]bis zu 18 Pokémon dorthin einladen kannst.
+Eine Insel, auf der Pokémon sich in heißen[0x000A]Quellen entspannen können. Zu Beginn kannst[0x000A]du bis zu sechs Pokémon dorthin einladen.
+Baue die Spa-Insel aus, damit du bis zu[0x000A]zwölf Pokémon dorthin einladen kannst.
+Baue die Spa-Insel vollständig aus, damit du[0x000A]bis zu 18 Pokémon dorthin einladen kannst.
+Benötigt:
+Route der sonderbaren Stücke
+Route der leuchtenden Edelsteine
+Route der kostbaren Schätze
+Route der kuriosen Items
+Erkunde den Eingangsbereich der Höhle![0x000A]Mit etwas Glück finden Pokémon dort allerlei[0x000A]verschiedene Stücke.
+Dringe tiefer in die Höhle vor![0x000A]Mit etwas Glück finden Pokémon dort allerlei[0x000A]seltene Edelsteine.
+Dringe noch tiefer in die Höhle vor![0x000A]Mit etwas Glück finden Pokémon dort allerlei[0x000A]kostbare Schätze.
+Erkunde die gesamte Höhle![0x000A]Mit etwas Glück finden Pokémon dort allerlei[0x000A]kuriose Items.
+Level-Trank
+Angriffs-Trank
+Verteidigungs-Trank
+Spezial-Angriffs-Trank
+Spezial-Verteidigungs-Trank
+Initiative-Trank
+KP-Trank
+Ein tropisches Getränk, das speziell für[0x000A]Pokémon zubereitet wurde. Es erhöht[0x000A]ihre Erfahrungspunkte.
+Ein tropisches Getränk, das speziell für[0x000A]Pokémon zubereitet wurde. Es erhöht[0x000A]ihren Angriffs-Basiswert.
+Ein tropisches Getränk, das speziell für[0x000A]Pokémon zubereitet wurde. Es erhöht[0x000A]ihren Verteidigungs-Basiswert.
+Ein tropisches Getränk, das speziell für[0x000A]Pokémon zubereitet wurde. Es erhöht[0x000A]ihren Spezial-Angriffs-Basiswert.
+Ein tropisches Getränk, das speziell für[0x000A]Pokémon zubereitet wurde. Es erhöht[0x000A]ihren Spezial-Verteidigungs-Basiswert.
+Ein tropisches Getränk, das speziell für[0x000A]Pokémon zubereitet wurde. Es erhöht[0x000A]ihren Initiative-Basiswert.
+Ein tropisches Getränk, das speziell für[0x000A]Pokémon zubereitet wurde. Es erhöht[0x000A]ihren KP-Basiswert.
+{0xFF00,0x0001}Nichts angepflanzt{0xFF00,0x0000}
+{0xFF00,0x0001}Keine Expedition im Gang{0xFF00,0x0000}
+{0xFF00,0x0001}Kein Training im Gang{0xFF00,0x0000}
+Keine Expeditionsroute ausgewählt
+Nicht mehr lang!
+{0xBDFF:0x0099}
+{0xBDFF:0x009A}
+{0xBDFF:0x009B}
+{0xBDFF:0x009C}
+{0xBDFF:0x009D}

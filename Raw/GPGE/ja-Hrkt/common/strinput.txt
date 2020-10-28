@@ -1,0 +1,11 @@
+msg_strinput_01_01=きみの　なまえは？
+msg_strinput_01_02={0x0101,0x0000}の　ニックネームは？
+msg_strinput_01_03=シリアルコード／あいことば　を　いれてください
+msg_strinput_01_04=ライバルの　なまえは？
+msg_strinput_01_05=なまえを　いれてください
+msg_strinput_NG_00=つかえない　ことばが　あります。
+msg_strinput_NG_01={0xBDFF:0x0006}
+msg_strinput_NG_02={0xBDFF:0x0007}
+msg_strinput_NG_04=なまえを　にゅうりょく　してください
+msg_strinput_NG_05=むこうな　データ　です
+msg_strinput_NG_06=「{0x012D,0x0000}」は　なまえに　つかえません

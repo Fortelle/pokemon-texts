@@ -1,0 +1,6 @@
+msg_t010champ01_gym_01=Ehi![0x000A]Aspirante Campione{0x1100,0x00FF,0x0300}ssa!{0xBE01}[0x000A]Alla Lega Pokémon dovrai affrontare uno[0x000A]dopo l’altro i Superquattro.{0xBE01}[0x000A]Se perdi, dovrai ricominciare da capo![0x000A]Fai attenzione!
+msg_t010champ01_gym_02=Spero che anche oggi mi mostrerai una lotta[0x000A]degna di questo nome! So che non mi deluderai!
+msg_t010champ01_elitef_01_01=Qui ha inizio la sfida contro i Superquattro.[0x000A]Dovrai affrontarli uno dopo l’altro!{0xBE01}[0x000A]Se vinci si aprirà una porta per raggiungere[0x000A]l’Allenatore successivo.{0xBE01}[0x000A]Buona fortuna!
+msg_t010champ01_elitem_01_01=Hai comprato tutto quello che ti serve?[0x000A]Hai rimesso in sesto la tua squadra?{0xBE01}[0x000A]La vera sfida comincia adesso, quindi[0x000A]assicurati di essere pront{0x1100,0x00FF,0x0101}oa al 100%!
+msg_t010champ01_juggler_01_01=Non sono riuscito a battere nemmeno la prima[0x000A]dei Superquattro...{0xBE01}[0x000A]Che batosta! Spero che tu sia pront{0x1100,0x00FF,0x0101}oa per delle[0x000A]lotte di altissimo livello!
+msg_t010champ01_kanban_01=Altopiano Blu{0xBE01}[0x000A]Sede centrale della Lega Pokémon,[0x000A]l’organizzazione più autorevole per quanto{0xBE00}[0x000A]riguarda i Pokémon.

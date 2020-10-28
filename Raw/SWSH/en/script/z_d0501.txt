@@ -1,0 +1,15 @@
+msg_d0501_npc1_01=Why does Spikemuth have its shutter down?[0x000A]Are they having a party in there?
+msg_d0501_npc1_02=What’s this? The earth is shaking?!{0xBE01}[0x000A]Maybe if I try to sway in the same way...[0x000A]Nope, not helping!
+msg_d0501_poke1_01_pop={0xBDFF:0x0002}
+msg_d0501_npc2_01=The Gym Leader of Spikemuth, Piers, specializes[0x000A]in Dark-type Pokémon.{0xBE00}[0x000A]He’s a decent bloke, though.
+msg_d0501_npc2_02=That cape with all the logos...[0x000A]Was that the Champion running by?!
+msg_d0501_npc3_01=With the shutter down, nobody’s going to be[0x000A]able to attempt the Gym Challenge.
+msg_d0501_npc3_02=I hope everything is OK in Hammerlocke...
+msg_d0501_npc4_01=All this red light![0x000A]Is it Dynamax light?
+msg_d0501_npc5_01=How? How can wild Pokémon Dynamax when[0x000A]we’re nowhere near a Power Spot?
+msg_d0501_npc6_01=The Champion and Charizard are superheroes!
+msg_d0501_npc7_01=Oh, I know! The geoglyph!{0xBE01}[0x000A]This is a replica of the geoglyph on the hill!
+msg_d0501_npc8_01_pop=Wh-what’s with all this[0x000A]c-crazy sh-shaking?!
+msg_d0501_npc9_01_pop=Leon?!
+msg_d0501_npc10_01_pop=Why is there a wild Dynamax[0x000A]Pokémon here?
+msg_d0501_npc11_01_pop=What is this red light...?

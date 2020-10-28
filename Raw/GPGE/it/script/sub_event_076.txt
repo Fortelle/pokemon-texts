@@ -1,0 +1,3 @@
+msg_sub076_water_01={0xFF00,0x0009}Misty:{0xFF00,0x0000} Ho sentito dire che tu e il tuo amico[0x000A]avete sconfitto il Team Rocket...{0xBE00}[0x000A]E poi avete lottato per il titolo di Campione!{0xBE01}[0x000A]Non sto più nella pelle, devo assolutamente[0x000A]sfidarti! E non provare a tirarti indietro...{0xBE00}[0x000A]L’unica risposta che accetto è un sì!
+msg_sub076_water_02={0xFF00,0x0009}Misty:{0xFF00,0x0000} I miei adorabili Pokémon di tipo Acqua[0x000A]sono pronti a lottare!{0xBE01}[0x000A]Forza, cominciamo!
+msg_sub076_water_03={0xFF00,0x0009}Misty:{0xFF00,0x0000} Oh no, mi hai sconfitto... Ho bisogno[0x000A]di una bella nuotata per rinfrescarmi le idee...{0xBE01}[0x000A]Vedrai che la prossima volta sarò io a vincere!

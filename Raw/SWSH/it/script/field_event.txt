@@ -1,0 +1,15 @@
+msg_fld_ev_spray_01=L’effetto del repellente è finito!
+msg_fld_ev_spray_02=L’effetto del repellente è finito![0x000A]Vuoi usarne un altro?
+msg_fld_ev_spray_03=Hai usato {0x1502,0x0001,0x0000}{0x010A,0x0001}!
+msg_fld_ev_bookshelf_01={0xBDFF:0x0003}
+msg_fld_ev_kowaserurock_01=Questo masso sembra durissimo...[0x000A]Forse un Pokémon può frantumarlo...
+msg_fld_ev_tv_common_01={0xBDFF:0x0005}
+msg_fld_ev_oserurock_01=Questo masso sembra pesantissimo...[0x000A]Forse un Pokémon può spostarlo...
+msg_egg_event_01=Mh...?
+msg_ride_check_01=Vuoi chiamare Tauros?
+msg_ride_check_02=Vuoi chiamare Machamp?
+msg_ride_check_03=Vuoi chiamare Sharpedo?
+msg_ride_check_ng_01=Non c’è abbastanza spazio per chiedere[0x000A]un Poképassaggio a questo Pokémon.
+msg_bicycle_01=Non puoi salire sulla bicicletta adesso.
+msg_bicycle_02=Non puoi scendere dalla bicicletta adesso.
+msg_fld_ev_boxfull_01=I tuoi Box del PC sono pieni![0x000A]Fai un po’ di spazio e riprova.

@@ -1,0 +1,58 @@
+Der Zygarde-Würfel hat eine geheimnisvolle[0x000A]Lebensform absorbiert!
+Sina ruft an! Brzzzt.{0x0114,0x0035}
+Dein Zygarde-Würfel hat mir gerade ein Signal[0x000A]übermittelt.{0xBE01}[0x000A]Der geheimnisvolle Organismus, den er soeben[0x000A]absorbiert hat, ist eine {0xFF00,0x0001}Zygarde-Zelle{0xFF00,0x0000}!{0xBE01}[0x000A]Der Zygarde-Würfel, den wir dir gegeben haben,[0x000A]fungiert als Behälter für Zygarde-Zellen und{0xBE00}[0x000A]-Kerne. Er ist für sie wie eine Art Nest.{0xBE01}[0x000A]Sein Sinn und Zweck ist es, die Zellen und Kerne[0x000A]in sich aufzunehmen.{0xBE01}[0x000A]Das war’s erst mal von mir, ich melde mich dann[0x000A]später wieder.{0xBE01}[0x000A]Au revoir !{0x0114,0x0026}
+10 %...{0xBE01}[0x000A]Wenn du wissen möchtest, was diese Zahl zu[0x000A]bedeuten hat, musst du dich nach Ula-Ula zur{0xBE00}[0x000A]Æther-Basis auf Route 16 begeben.{0xBE01}[0x000A]Du bist auf einem guten Weg!{0xBE01}[0x000A]Au revoir !{0x0114,0x0026}
+Du hast bereits über 50 % der Zellen und Kerne[0x000A]zusammengetragen!{0xBE01}[0x000A]Es wird richtig spannend zu sehen, in welcher[0x000A]konkreten Form sich deine Anstrengungen{0xBE00}[0x000A]manifestieren werden!{0xBE01}[0x000A]Begib dich am besten gleich mal nach Ula-Ula[0x000A]zur Æther-Basis auf Route 16!{0xBE01}[0x000A]Es fehlt nicht mehr viel und du bist am Ziel!{0xBE01}[0x000A]Au revoir !{0x0114,0x0026}
+Du hast tatsächlich sämtliche Zellen und Kerne[0x000A]zusammengetragen, die in Alola zu finden waren!{0xBE01}[0x000A]Du warst wirklich genau {0x1100,0x00FF,0x0303,0x0000}derdie Richtige für diese[0x000A]Aufgabe. Da muss ich mir doch glatt mal selbst{0xBE00}[0x000A]auf die Schulter klopfen. Ich hatte dich von{0xBE00}[0x000A]Anfang an richtig eingeschätzt!{0xBE01}[0x000A]Schon bald wirst du dir die Kräfte von Zygarde[0x000A]in seiner Optimumform zunutze machen können!{0xBE01}[0x000A]Der Erfolg ist zum Greifen nah!{0xBE01}[0x000A]Au revoir !{0x0114,0x0026}
+Ich habe gerade ein Signal von deinem[0x000A]Zygarde-Würfel empfangen.{0xBE01}[0x000A]Der geheimnisvolle Organismus, den er soeben[0x000A]absorbiert hat, ist ein {0xFF00,0x0001}Zygarde-Kern{0xFF00,0x0000}!{0xBE01}[0x000A]Zusammen mit Zygarde-Zellen bildet er einen[0x000A]grundlegenden Baustein für den Körper eines{0xBE00}[0x000A]Zygarde.{0xBE01}[0x000A]Das Besondere an so einem Kern ist, dass[0x000A]er die Erinnerung an eine Attacke enthält,{0xBE00}[0x000A]die Zygarde später wird einsetzen können.{0xBE01}[0x000A]Du kannst ein Zygarde über den Zygarde-Würfel[0x000A]also bestimmte Attacken erlernen lassen.{0xBE00}[0x000A]Das solltest du unbedingt mal ausprobieren!{0xBE01}[0x000A]Au revoir !{0x0114,0x0026}
+Du hast ja schon wieder einen Zygarde-Kern[0x000A]eingesammelt!{0xBE01}[0x000A]Dein Zygarde-Würfel hat die dem Kern[0x000A]innewohnende Attacke gespeichert.{0xBE01}[0x000A]Du kannst sie jetzt also jederzeit und beliebig[0x000A]oft deinem Zygarde beibringen!{0xBE00}[0x000A]Ganz wie es dir beliebt!{0xBE01}[0x000A]Au revoir !{0x0114,0x0026}
+Was möchtest du tun?
+Synthese
+Aufspaltung
+Was bedeutet Synthese?
+Was bedeutet Aufspaltung?
+Abbrechen
+Wähle eine Art der Synthese aus.
+Zygarde und Zygarde-Würfel
+Nur Zygarde-Würfel
+Was bedeutet „Art der Synthese“?
+Wähle ein Zygarde aus.
+Synthese abbrechen?
+Es lassen sich ausschließlich Zygarde für die[0x000A]Synthese verwenden!
+Dieses Zygarde besitzt die Fähigkeit[0x000A]Scharwandel, die es ihm erlaubt,{0xBE00}[0x000A]einen Formwechsel durchzuführen.{0xBE01}[0x000A]Du kannst keine weitere Synthese oder[0x000A]Aufspaltung durchführen.
+Die Synthese wird abgebrochen.
+Du hast nicht ausreichend Zellen oder Kerne[0x000A]im Zygarde-Würfel.{0xBE01}[0x000A]Die Synthese wird abgebrochen.
+Dein Team und deine PC-Boxen sind voll.{0xBE01}[0x000A]Die Synthese wird abgebrochen.
+Aus dem ausgewählten Zygarde und den[0x000A]{0x0202,0x0000} Bausteinen im Zygarde-Würfel wird{0xBE00}[0x000A]ein 50%-Zygarde synthetisiert!
+Aus dem ausgewählten Zygarde und den[0x000A]{0x0202,0x0000} Bausteinen im Zygarde-Würfel wird{0xBE00}[0x000A]ein Zygarde mit der Fähigkeit Scharwandel{0xBE00}[0x000A]synthetisiert, das im Kampf die Optimumform{0xBE00}[0x000A]annehmen kann!
+Möchtest du fortfahren?
+Die Synthese hat ein verändertes Zygarde[0x000A]hervorgebracht!
+Die Synthese hat ein völlig neues Zygarde[0x000A]entstehen lassen!
+Ein 10%-Zygarde!
+Ein 50%-Zygarde!
+Ein Zygarde mit der Fähigkeit Scharwandel,[0x000A]das im Kampf die Optimumform annehmen kann!
+Das Zygarde hat sich in einen Pokéball[0x000A]begeben!
+Das Zygarde wurde in einer PC-Box abgelegt!
+Aus dem Kern und den Zellen in deinem[0x000A]Zygarde-Würfel wird ein neues Zygarde{0xBE00}[0x000A]synthetisiert!
+{0xBDFF:0x0024}
+{0xBDFF:0x0025}
+{0x0202,0x0000} Bausteine im Zygarde-Würfel werden dazu[0x000A]genutzt, um ein 10%-Zygarde zu synthetisieren!
+{0x0202,0x0000} Bausteine im Zygarde-Würfel werden dazu[0x000A]genutzt, um ein 50%-Zygarde zu synthetisieren!
+{0x0202,0x0000} Bausteine im Zygarde-Würfel werden dazu[0x000A]genutzt, um ein Zygarde mit der Fähigkeit{0xBE00}[0x000A]Scharwandel zu synthetisieren, das im Kampf{0xBE00}[0x000A]die Optimumform annehmen kann!
+Wähle das Zygarde, das du aufspalten willst.
+Ein aufgespaltenes Zygarde kann nicht mehr in[0x000A]seinen Vorzustand zurückversetzt werden!{0xBE01}[0x000A]Außerdem geht alles verloren, auch seine[0x000A]Attacken und Bänder!{0xBE01}[0x000A]Möchtest du das ausgewählte Zygarde dennoch[0x000A]aufspalten?
+Aufspaltung abbrechen
+Anderes Zygarde wählen
+Möchtest du die Aufspaltung abbrechen?
+Es lassen sich ausschließlich Zygarde[0x000A]aufspalten!
+Die Zellen des Zygarde mit der Fähigkeit[0x000A]Scharwandel sind eine so feste und stabile{0xBE00}[0x000A]Bindung eingegangen, dass sie nicht mehr{0xBE00}[0x000A]aufgespalten werden können!
+Die Aufspaltung wird abgebrochen.
+Bitte wähle ein Zygarde aus, das aufgespalten[0x000A]werden kann.
+Dieses Zygarde ist im Besitz eines besonderen[0x000A]Bandes und kann daher nicht aufgespalten{0xBE00}[0x000A]werden!
+Das Zygarde wurde aufgespalten!{0xBE01}[0x000A]Dein Zygarde-Würfel hat {0x0202,0x0000} Zelle{0x1101,0x0000,0x0100}n[0x000A]absorbiert.
+Wenn du dieses Zygarde aufspaltest, hast du[0x000A]kein kampffähiges Pokémon mehr übrig.{0xBE01}[0x000A]Die Aufspaltung wird abgebrochen.
+Ein Zygarde, das ein Item bei sich trägt,[0x000A]kann nicht aufgespalten werden.{0xBE01}[0x000A]Nimm ihm das Item ab und versuche es[0x000A]dann erneut.
+Unter {0xFF00,0x0001}Synthese{0xFF00,0x0000} versteht man das[0x000A]Zusammenfügen der in einem Zygarde-Würfel{0xBE00}[0x000A]enthaltenen Zellen zu einem Zygarde.
+Unter {0xFF00,0x0001}Aufspaltung{0xFF00,0x0000} versteht man die Zerlegung[0x000A]eines Zygarde in seine einzelnen Zellen und die{0xBE00}[0x000A]anschließende Platzierung dieser Zellen in einen{0xBE00}[0x000A]Zygarde-Würfel.
+Es gibt zwei Arten der Synthese:{0xBE01}[0x000A]Du kannst entweder einem Zygarde, das sich[0x000A]in deinem Team befindet, die Zellen aus dem{0xBE00}[0x000A]Zygarde-Würfel hinzufügen und so ein{0xBE00}[0x000A]verändertes Zygarde synthetisieren.{0xBE01}[0x000A]Oder aber du benutzt ausschließlich die Zellen[0x000A]aus dem Zygarde-Würfel, um ein von Grund auf{0xBE00}[0x000A]neues Zygarde zu synthetisieren.
+Diese Vorrichtung sieht beeindruckend aus.[0x000A]Wofür sie wohl verwendet wird?

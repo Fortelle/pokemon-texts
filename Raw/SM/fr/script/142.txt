@@ -1,0 +1,17 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+Vous tombez sur une drôle de plante.[0x000A]Voulez-vous l’arracher, pour voir[0xE07F]?
+Bingo[0xE07F]! C’est une Herbe Rappel[0xE07F]!{0xBE01}[0x000A]Vous la mettez dans le Sac Ingrédients.
+Raté[0xE07F]! C’est juste une vieille plante sans intérêt.
+Un Pokémon jaillit de la touffe d’herbe[0xE07F]!
+Alors, ça bosse[0xE07F]?[0x000A]Ah, nickel[0xE07F]! Une Herbe Rappel[0xE07F]!{0x0114,0x000E}
+Son amertume donne de la couleur aux plats.[0x000A]Ça émoustille les papilles des Pokémon[0xE07F]!{0x0114,0x000E}
+Oh ho[0xE07F]! Tu as tout trouvé, bravo[0xE07F]!{0xBE01}[0x000A]Parfait, je vais commencer la préparation.[0x000A]Reviens à l’entrée de la jungle.{0x0114,0x000E}
+Il ne te reste plus qu’un ingrédient à trouver[0xE07F]![0x000A]Allez, au boulot[0xE07F]!{0x0114,0x000E}
+Il te reste encore deux ingrédients à trouver[0xE07F]![0x000A]Allez, au boulot[0xE07F]!{0x0114,0x000E}
+C’est bien, mais tu as encore trois ingrédients[0x000A]à trouver[0xE07F]! Allez, au boulot[0xE07F]!{0x0114,0x000E}

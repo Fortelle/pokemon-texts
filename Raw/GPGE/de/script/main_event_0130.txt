@@ -1,0 +1,4 @@
+msg_main0130_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Hey, du strahlst ja über beide[0x000A]Ohren, {0x0100,0x0000}! Was ist denn los?{0xBE01}[0x000A]Du hast einen Kampf gegen einen anderen[0x000A]Trainer gewonnen? Coole Sache!
+msg_main0130_rival_02=Ach ja, ich wollte dir noch was sagen...{0xBE01}[0x000A]So ein Kampf ist ganz schön anstrengend für[0x000A]Pokémon. Sie verlieren dabei oft KP und AP...
+msg_main0130_rival_03=Aber wenn du sie in ein {0xFF00,0x0006}Pokémon-Center {0xFF00,0x0000}bringst,[0x000A]wird dein Team dort wieder aufgepäppelt.{0xBE01}[0x000A]Es dauert überhaupt nicht lange und kostet dich[0x000A]nichts.
+msg_main0130_rival_04=Behalte den Zustand deiner Pokémon nach[0x000A]Kämpfen immer gut im Auge, ja?

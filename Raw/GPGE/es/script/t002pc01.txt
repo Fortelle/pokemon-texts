@@ -1,0 +1,8 @@
+msg_t002pc01_gentleman_01=La chica del mostrador me ha dicho que se[0x000A]pueden leer los libros de la estantería siempre{0xBE00}[0x000A]que se quiera y sin pagar. ¡Mira que es maja!
+msg_t002pc01_youngm_01=Todas las ciudades de la región cuentan con su[0x000A]propio Centro Pokémon.{0xBE01}[0x000A]Y lo mejor es que el servicio es gratuito. ¡Tanto[0x000A]si llevas un Pokémon como si llevas seis!
+msg_t002pc01_childm_01=Aunque tengas el equipo lleno, puedes seguir[0x000A]atrapando Pokémon y se envían a la caja.{0xBE01}[0x000A]Si no te lo crees, mira bien: seguro que tienes[0x000A]una en la Bolsa.
+msg_t002pc01_childf_01=¿Ya te has medido con algún Entrenador?{0xBE01}[0x000A]Recuerda que si la Velocidad de tu Pokémon es[0x000A]superior a la de su rival, podrás atacar primero.
+msg_t002pc01_book_01=Es un ejemplar de "El Poké de las cosas".
+msg_t002pc01_select_01=Hay un anuncio muy llamativo en la[0x000A]contraportada. ¿Quieres leerlo?
+msg_t002pc01_book_02="Las Técnicas Secretas son unos movimientos[0x000A]especiales muy útiles que te permiten realizar{0xBE00}[0x000A]acciones como cortar arbustos, desplazarte por{0xBE00}[0x000A]ciertos terrenos o iluminar lugares oscuros.{0xBE01}[0x000A]No te pierdas la oportunidad de experimentar[0x000A]con ellas.{0xBE01}[0x000A]Consejo patrocinado por el Club TSK, o séase,[0x000A]el Club de Técnicas Secretas de Kanto".
+msg_t002pc01_pc_01=Lo siento, pero la máquina no está disponible en[0x000A]este momento por labores de mantenimiento.{0xBE01}[0x000A]¿Te importaría pasarte de nuevo más tarde?

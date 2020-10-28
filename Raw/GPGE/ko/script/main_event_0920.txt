@@ -1,0 +1,16 @@
+msg_main0920_rocketchief_01=아폴로: 거기까지입니다!
+msg_main0920_rival_01={0x0100,0x0001}: 우왓 또 왔다!
+msg_main0920_rocketchief_02=아폴로: 얼마든지 또 올 겁니다{0xBE01}[0x000A]보스가 있는 곳으로 가면[0x000A]곤란하니까요!
+msg_main0920_rival_02={0x0100,0x0001}: ...응?[0x000A]보스가 있는 곳이라고?
+msg_main0920_rival_03={0x0100,0x0000}... 설마!?
+msg_main0920_select_01=이 앞에 보스가 있어!
+msg_main0920_select_02=비주기는 여기 있어!
+msg_main0920_rival_04={0x0100,0x0001}: 로켓단의 보스는[0x000A]이 빌딩에 있었구나...!{0xBE01}[0x000A]좋아! 그렇다면!
+msg_main0920_rival_05={0x0100,0x0001}: {0x0100,0x0000}! 가봐![0x000A]보스를 쓰러뜨릴 찬스야!
+msg_main0920_rival_06=이 아저씨는 내가 상대하겠어!
+msg_main0920_rocketchief_03=아폴로: 큭![0x000A]이래서는 보스에게 연락을...
+msg_main0920_rival_07={0x0100,0x0001}: {0x0100,0x0000}! 가봐!{0xBE01}[0x000A]로켓단의 보스를[0x000A]쓰러뜨리고 와!
+msg_rival_01_p01_cave_d1007={0xBDFF:0x000C}
+msg_rival_01_p02_cave_d1007={0xBDFF:0x000D}
+msg_rival_01_p03_cave_d1007={0xBDFF:0x000E}
+msg_rival_01_p05_cave_d1007={0xBDFF:0x000F}

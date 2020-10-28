@@ -1,0 +1,10 @@
+main_event_1325_sister_01=Hey, {0x0100,0x0000}!{0x0114,0x000D}
+main_event_1325_sister_02=I was born ’ere so I know another way in.{0x0114,0x000D}
+main_event_1325_sister_03=If you wanna get into the town, how ’bout I[0x000A]show you the way?{0xBE01}[0x000A]But...you’re my rival. So you’ll have to beat[0x000A]me in a battle first, got it?{0x0114,0x000D}
+main_event_1325_select_01=With pleasure!
+main_event_1325_select_02=Let me think about it
+main_event_1325_sister_04=Oh, did I misjudge you...?{0xBE01}[0x000A]Ahhh, I get it. You need to get ready![0x000A]Go on, then! I’ll wait here until you’re ready.{0x0114,0x000D}
+main_event_1325_sister_05=You’ve had a pretty good win streak in the Gym[0x000A]Challenge, just like me! I respect you as my rival{0xBE00}[0x000A]and all that, but I got too much at stake to go{0xBE00}[0x000A]around losin’ now!{0x0114,0x000D}
+main_event_1325_sister_06=My partner Morpeko has been interested in[0x000A]you and your strength, and I think I get it now.{0xBE01}[0x000A]But I’ve got everyone in Spikemuth[0x000A]supportin’ me!{0x0114,0x000D}
+main_event_1325_sister_08=I’m definitely gonna get all eight Gym Badges[0x000A]just so I can have a rematch with you.{0xBE00}[0x000A]Don’cha forget it!{0xBE01}[0x000A]I’ll get my revenge in the Champion Cup!{0x0114,0x000D}
+main_event_1325_sister_07=Anyway, I promised I’d show you a way in, so[0x000A]follow me!{0x0114,0x000D}

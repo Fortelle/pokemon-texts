@@ -1,0 +1,36 @@
+¡Tengo un modelito fabuloso que le iría genial a tu[0x000A]{0xFF00,0x0002}Pikachu Coqueta{0xFF00,0x0000}!
+¡Ah! ¡Veo que has venido con tu Pikachu Coqueta!{0xBE01}[0x000A]¿Quieres cambiar su atuendo?
+¿No? Muy bien, como quieras.[0x000A]Vuelve si cambias de opinión.
+¿A qué Pikachu Coqueta quieres que se lo cambie?
+Uy, me temo que ese Pokémon no puede llevar ropa.
+Lo siento, pero no puedo ponerle ropa a un Huevo.
+¡Muy bien! ¿Qué cualidad quieres resaltar con el atuendo[0x000A]de {0x0102,0x0000}?
+Su Carisma
+Su Belleza
+Su Dulzura
+Su Ingenio
+Su Dureza
+Quitarle el atuendo
+Cancelar
+¡A {0x0102,0x0000} se le ve muy contenta con su nuevo[0x000A]modelito!
+{0x0102,0x0000} quiere aprender el movimiento[0x000A]{0x0107,0x0001}.{0xBE01}[0x000A]Pero {0x0102,0x0000} ya conoce cuatro[0x000A]movimientos.{0xBE01}[0x000A]¿Quieres sustituir uno de esos movimientos por[0x000A]{0x0107,0x0001}?
+¿Prefieres que no aprenda {0x0107,0x0001}?
+{0x0102,0x0000} no ha aprendido {0x0107,0x0001}.{0xBE01}[0x000A]No se ha cambiado de ropa.
+¿Quieres que olvide el movimiento[0x000A]{0x0107,0x0002}?
+1, {0xBE02:0x0014}2 y... {0xBE02:0x0014}¡puf!{0xBE05,0x0003}{0xBE05,0x0006}{0xBE01}[0x000A]¡{0x0102,0x0000} ha olvidado cómo utilizar[0x000A]{0x0107,0x0002}! Y...
+¡{0x0102,0x0000} ha aprendido {0x0107,0x0001}!
+{0x0102,0x0000} ha olvidado {0x0107,0x0002}.
+Oh... No parece que {0x0102,0x0000} necesite cambiarse[0x000A]de ropa.
+{0x0102,0x0000} se ha quitado el atuendo que llevaba.
+¡Oh! ¡{0x0102,0x0000} no lleva puesto ningún atuendo!
+{0x0102,0x0000} prefiere no cambiar de atuendo.
+Disculpa, ¿tienes un momento?
+¡El {0x1100,0x00FF,0x0705}trajevestido que llevabas en el Gran Concurso te quedaba[0x000A]genial!{0xBE01}[0x000A]¡Al verte, he tenido la idea de diseñar atuendos a juego[0x000A]para los Pokémon y me he puesto manos a la obra{0xBE00}[0x000A]enseguida para crear uno!
+Conozco a un Pikachu hembra a la que le encanta[0x000A]arreglarse y ya le he probado el primer modelito para ver{0xBE00}[0x000A]cómo le queda. Yo la llamo {0xFF00,0x0002}Pikachu Coqueta{0xFF00,0x0000}, ji, ji.{0xBE01}[0x000A]No te puedes hacer ni idea de lo chula que va siempre.[0x000A]¡Qué clase! ¡Qué elegancia! Si es que es tan especial{0xBE00}[0x000A]que... ¡le queda bien cualquier cosa que se ponga!{0xBE01}[0x000A]¡Si sale al escenario llevando un atuendo a juego con el[0x000A]de su Entrenador, seguro que atraerá todas las miradas!{0xBE00}[0x000A]Es una ganadora nata. ¡Te lo digo yo!
+Me dedico a crear atuendos para las exhibiciones en el[0x000A]Gran Concurso.{0xBE01}[0x000A]Tengo otros modelitos para Pikachu Coqueta. Pásate por[0x000A]el camerino para probárselos cuando quieras.{0xBE01}[0x000A]Y cuida bien de ella, ¿vale?
+Oh... Todas tus cajas están llenas.[0x000A]Bueno, tal vez la próxima vez que nos veamos.
+¡Ah! Vienes a buscar a Pikachu Coqueta, ¿verdad?{0xBE01}[0x000A]¡Espero que salgáis al escenario bien conjuntad{0x1100,0x00FF,0x0101}oas!
+¡Cuídala bien!
+¿Quieres ponerle un mote a Pikachu Coqueta?
+Vaya faena...{0xBE01}[0x000A]Intento pensar en atuendos que sean superestilosos[0x000A]para mi Pikachu y no se me ocurre nada.{0xBE01}[0x000A]Hmmm... ¿Y si me paso por un Gran Concurso y me[0x000A]inspiro en las ideas de otros Entrenadores?
+Es una cómoda para los atuendos.

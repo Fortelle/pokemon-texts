@@ -1,0 +1,46 @@
+Nome:
+{0x0100,0x0000}
+ID:
+{0x0204,0x0000,0x0000}
+Pokédex:
+{0x0202,0x0000}
+
+Soldi:
+{0x0206,0x0000,0x002E} $
+{0xBDFF:0x0009}
+Tempo di gioco:
+{0x0202,0x0000}
+:
+{0x0201,0x0001}
+Inizio avventura:
+{0x0201,0x0002}/{0x0201,0x0001}/{0x0203,0x0000,0x0000}
+Scheda Allenatore
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+Debutto nella Sala d’Onore:
+Pokémiglia:
+{0x0206,0x0000,0x002E}
+Punti Lotta:
+{0x0206,0x0000,0x002E}
+Vedi Medaglie
+Medaglia Pietra[0x000A]Capopalestra Petra
+Medaglia Pugno[0x000A]Capopalestra Rudi
+Medaglia Dinamo[0x000A]Capopalestra Walter
+Medaglia Fiamma[0x000A]Capopalestra Fiammetta
+Medaglia Armonia[0x000A]Capopalestra Norman
+Medaglia Piuma[0x000A]Capopalestra Alice
+Medaglia Mente[0x000A]Capipalestra Tell e Pat
+Medaglia Pioggia[0x000A]Capopalestra Adriano
+Capopalestra Petra
+Capopalestra Rudi
+Capopalestra Walter
+Capopalestra Fiammetta
+Capopalestra Norman
+Capopalestra Alice
+Capipalestra Tell e Pat
+Capopalestra Adriano
+Pokédex Nazionale

@@ -1,0 +1,15 @@
+Den Rest meines Lebens möchte ich damit[0x000A]verbringen, jüngere Trainer zu unterstützen.{0xBE01}[0x000A]Mein Ziel ist es, so vielen wie möglich die[0x000A]ultimative Attacke beizubringen.{0xBE01}[0x000A]Wenn es dir nichts ausmacht, würde ich gern[0x000A]auch deine{0x1101,0x00FD,0x0101}mn Pokémon die ultimative Attacke{0xBE00}[0x000A]beibringen. Was sagst du?
+Darf ich {0x1101,0x00FD,0x0C06}deinemeinem deiner Pokémon die ultimative[0x000A]Attacke beibringen?
+Du hast leider kein Pokémon dabei, das die[0x000A]ultimative Attacke erlernen kann.{0xBE01}[0x000A]Schau dir die Liste der Pokémon, die sie[0x000A]erlernen können, noch einmal gut an.
+Nur keine falsche Bescheidenheit.[0x000A]Komm jederzeit wieder.
+Alles klar. Dann verrate mir, welchem Pokémon[0x000A]ich die ultimative Attacke beibringen soll.
+Dieses Pokémon kann die ultimative Attacke[0x000A]leider nicht erlernen.{0xBE01}[0x000A]Schau dir die Liste der Pokémon, die sie[0x000A]erlernen können, noch einmal gut an.
+Einem Ei kann man doch keine Attacken[0x000A]beibringen.
+Ich fürchte, dieses Pokémon hat sich noch nicht[0x000A]so richtig mit dir angefreundet. Daher kann es{0xBE00}[0x000A]die Attacke nicht erlernen.{0xBE01}[0x000A]Komm wieder, wenn es zutraulicher ist.
+Aber dieses Pokémon kennt die ultimative[0x000A]Attacke doch schon!
+Darf ich deinem {0x0101,0x0000} die Attacke[0x000A]{0x0107,0x0001} beibringen?
+Die folgenden Pokémon können die[0x000A]ultimative Attacke erlernen.{0xBE01}[0x000A]Kategorie „Loderndes Feuer“:[0x000A]Glurak, Tornupto, Lohgock, Panferno,[0x000A]Flambirex, Fennexis und Fuegro.{0xBE01}[0x000A]Kategorie „Plätscherndes Wasser“:[0x000A]Turtok, Impergator, Sumpex, Impoleon,[0x000A]Admurai, Quajutsu und Primarene.{0xBE01}[0x000A]Kategorie „Grüne Pflanzen“:[0x000A]Bisaflor, Meganie, Gewaldro, Chelterrar,[0x000A]Serpiroyal, Brigaron und Silvarro.
+Welche Attacke soll durch[0x000A]{0x0107,0x0000} ersetzt werden?
+{0x0102,0x0000} erlernt[0x000A]{0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+Eins,{0xBE02:0x0014} zwei{0xBE02:0x0014} und{0xBE02:0x0014}... schwupp!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} hat {0x0107,0x0001}[0x000A]vergessen und {0x0107,0x0002} erlernt!{0xBE05,0x0004}{0xBE05,0x0001}
+{0x0102,0x0000} hat[0x000A]{0x0107,0x0001} nicht erlernt.

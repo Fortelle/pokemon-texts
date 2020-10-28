@@ -1,0 +1,18 @@
+Pokédex :
+{0x0202,0x0000}
+
+Temps de jeu :
+{0x0202,0x0000}:{0x0201,0x0001}
+{0x0202,0x0000}
+:
+{0x0201,0x0000}
+Dernière sauvegarde 
+{0x0201,0x0002}/{0x0201,0x0001}/{0x0203,0x0000,0x0000}
+{0x0105,0x0000}
+Voulez-vous sauvegarder la partie[0xE07F]?
+Sauvegarde en cours...[0x000A]Ne pas éteindre la console.
+Partie sauvegardée.
+La sauvegarde a échoué...
+Oui
+Non
+Les données nécessaires à la connexion[0x000A]Internet ont été obtenues.{0xBE01}[0x000A]Voulez-vous sauvegarder la partie[0xE07F]?

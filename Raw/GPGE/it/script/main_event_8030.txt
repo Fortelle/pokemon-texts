@@ -1,0 +1,14 @@
+msg_main8030_grass_01=Benvenut{0x1100,0x00FF,0x0101}oa...[0x000A]Che giornata meravigliosa, non trovi?
+msg_main8030_grass_06=Si sta benissimo.{0xBE01}[0x000A]...{0xBE01}[0x000A]Zzz... zzz...
+msg_main8030_grass_07=Oh, accidenti![0x000A]Devo essermi addormentata!
+msg_main8030_grass_08=Piacere di conoscerti!{0xBE01}[0x000A]Io sono Erika, la Capopalestra di Azzurropoli.
+msg_main8030_grass_09=Studio l’arte delle composizioni floreali[0x000A]e i miei Pokémon sono tutti di tipo Erba.
+msg_main8030_grass_10=Oh, scusa! Non avevo capito che volevi sfidarmi!
+msg_main8030_grass_11=Come desideri![0x000A]Ma ti avverto che non perderò!
+msg_gymleader_04_02={0xBDFF:0x0007}
+msg_main8030_grass_02=Ti sei meritat{0x1100,0x00FF,0x0101}oa la Medaglia Arcobaleno.
+msg_main8030_sys_01={0x0100,0x0000} riceve la {0xFF00,0x0006}Medaglia Arcobaleno{0xFF00,0x0000}[0x000A]da Erika!
+msg_main8030_grass_03=Con la Medaglia Arcobaleno, i Pokémon[0x000A]fino al livello {0x0201,0x0004} ricevuti da un altro Allenatore{0xBE00}[0x000A]seguiranno sempre le tue indicazioni.{0xBE01}[0x000A]E poi...[0x000A]Prendi anche questa, se ti va.
+msg_main8030_sys_02={0x0100,0x0000} riceve la {0x0109,0x0001}[0x000A]che contiene {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000} da Erika!
+msg_main8030_grass_04=La MT53 contiene Megassorbimento,[0x000A]una mossa formidabile!{0xBE01}[0x000A]Il Pokémon che la usa recupera una quantità[0x000A]di PS pari alla metà del danno inferto.
+msg_main8030_grass_05=Oh... Stai registrando i Pokémon nel[0x000A]Pokédex? Sei proprio brav{0x1100,0x00FF,0x0101}oa!{0xBE01}[0x000A]Fosse per me, registrerei solamente[0x000A]quelli più carini.

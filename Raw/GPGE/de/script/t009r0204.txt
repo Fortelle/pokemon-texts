@@ -1,0 +1,8 @@
+msg_t009r0204_diary_01=Tagebuch: 1. September[0x000A]Mewtu ist zu stark für mich.{0xBE01}[0x000A]Ich bin außerstande, seine unkontrollierten[0x000A]Wutausbrüche einzudämmen...
+msg_t009r0204_bed_01=Da steht ein Bett. Du entscheidest dich,[0x000A]eine kurze Pause einzulegen.
+msg_t009r0204_pod_01=Da steht ein riesiger Glasbehälter. Er sieht sehr[0x000A]stabil aus, aber weist einige kleine Risse auf.{0xBE01}[0x000A]Irgendetwas muss mit voller Wucht mehrmals[0x000A]von innen gegen das Glas geschlagen haben...
+msg_t009r0204_pod_02=Da steht ein Glasbehälter. Er sieht sehr[0x000A]stabil aus.{0xBE01}[0x000A]Er weist hier und da Spuren einer getrockneten[0x000A]Flüssigkeit auf.
+msg_t009r0204_pod_03=Da steht eine Maschine mit allerlei Knöpfen[0x000A]und Hebeln.{0xBE01}[0x000A]Sie wurde offenbar lange nicht mehr benutzt.
+msg_t009r0204_switch_01={0xBDFF:0x0005}
+msg_t009r0204_switch_02={0xBDFF:0x0006}
+msg_t009r0204_switch_03={0xBDFF:0x0007}

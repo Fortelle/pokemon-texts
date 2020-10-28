@@ -1,0 +1,11 @@
+msg_railway_01={0x1100,0x00FF,0x0101}你妳要搭到哪一站？
+msg_railway_select_01=木桿鎮
+msg_railway_select_02=木桿鎮
+msg_railway_select_03=曠野地帶
+msg_railway_select_04=機擎市
+msg_railway_select_05=水舟鎮
+msg_railway_select_06=拳關市
+msg_railway_select_07=白丘
+msg_railway_select_08=宮門市
+msg_railway_select_09=不搭了
+msg_railway_stop_01=因為實施車輛檢查，[0x000A]目前列車誤點。

@@ -1,0 +1,11 @@
+sub_event_005_npc_01=Un Toxel! È un Toxel!{0xBE01}[0x000A]Ho portato a spasso con me l’Uovo che avevo[0x000A]trovato e guarda un po’ chi è nato?{0xBE01}[0x000A]È proprio un Toxel!{0xBE01}[0x000A]Prendilo tu, però! Per me è un pochino troppo[0x000A]elettrizzante, eh eh!
+sub_event_005_poke1_01=Eeelll eeelll!
+sub_event_005_npc_02=E tieni anche queste! Se le dai a un Pokémon,[0x000A]ti aiuteranno ad allenarlo.
+sub_event_005_npc_03=Puoi trovare le Uova all’Ostello Pokémon!{0xBE01}[0x000A]Le Caramelle Esperienza, invece, con[0x000A]i Raid Dynamax! Tutto chiaro?
+sub_event_005_npc_04=Come?! Hai così tanti Pokémon che non puoi[0x000A]prenderlo con te?{0xBE00}[0x000A]Devi essere un{0x1100,0x00FF,0x1312} vero appassionatoa vera appassionata!
+sub_event_005_oldf_01={0xBDFF:0x0005}
+sub_event_005_oldf_02={0xBDFF:0x0006}
+sub_event_005_poke_01={0xBDFF:0x0007}
+sub_event_005_poke_02={0xBDFF:0x0008}
+sub_event_005_poke_03={0xBDFF:0x0009}
+sub_event_005_system_01={0xBDFF:0x000A}

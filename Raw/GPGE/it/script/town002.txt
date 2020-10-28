@@ -1,0 +1,15 @@
+msg_town002_kanban_01=Smeraldopoli[0x000A]Eterno paradiso verde
+msg_town002_kanban_02=Palestra di Smeraldopoli
+msg_town002_door_01=Le porte della Palestra sono chiuse...
+msg_town002_kanban_03={0xBDFF:0x0003}
+msg_town002_kanban_04=Consigli utili{0xBE01}[0x000A]Quando sei a corto di Poké Ball, vai[0x000A]al Pokémon-Market e comprane altre!
+msg_town002_kanban_05=Scuola per Allenatori[0x000A]Impara l’arte e mettila nella Poké Ball!
+msg_town002_childm_01_01=Ehi! Quello è un Pokémon, vero?{0xBE01}[0x000A]È davvero fantastico andarsene a spasso assieme[0x000A]ai propri Pokémon preferiti!
+msg_town002_oldm_01_01=Questa Palestra è sempre chiusa.[0x000A]Mi domando chi sia il Capopalestra...
+msg_town002_oldm_01_02=È tornato il Capopalestra di Smeraldopoli!
+msg_town002_bugcatcher_01_01=Vuoi sapere qual è la differenza tra Weedle[0x000A]e Caterpie?
+msg_town002_bugcatcher_01_02=Oh, va bene!
+msg_town002_bugcatcher_01_03=Caterpie non ha veleno, Weedle sì![0x000A]Fai attenzione alla sua Velenospina!
+msg_town002_jevenile_f_01={0xBDFF:0x000C}
+msg_town002_poke_01={0xFF00,0x0009}Oddish:{0xFF00,0x0000} Dish!
+msg_town002_middlem_01=Ohilà! Benvenut{0x1100,0x00FF,0x0101}oa, Allenat{0x1100,0x00FF,0x0302}orrice di Biancavilla!

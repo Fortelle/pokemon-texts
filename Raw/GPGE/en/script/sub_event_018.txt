@@ -1,0 +1,5 @@
+msg_sub018_rocketm_01=Hey! Stay out![0x000A]It’s not your yard!{0xBE01}[0x000A]...Huh?[0x000A]Me?{0xBE01}[0x000A]I’m an innocent bystander![0x000A]Don’t you believe me?
+msg_sub018_rocketm_02=...OK.[0x000A]I’ll return the TM I stole.
+msg_sub018_sys_01=You recovered {0x0109,0x0001} {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000}!
+msg_sub018_rocketm_03=I better get moving![0x000A]Bye!
+msg_evilm1_01_06={0xBDFF:0x0004}

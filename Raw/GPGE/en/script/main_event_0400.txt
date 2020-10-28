@@ -1,0 +1,10 @@
+msg_main0400_sailor_01={0xBDFF:0x0000}
+msg_main0400_sailor_02=Welcome to the S.S. Anne!{0xBE01}[0x000A]But not so fast![0x000A]Do you have a ticket, young {0x1100,0x00FF,0x0406}fellowlady?
+msg_main0400_sys_01=You flashed your S.S. Ticket at the man!
+msg_main0400_sailor_03=Yup, that’ll do.[0x000A]Welcome aboard the S.S. Anne!{0xBE01}[0x000A]Oh! And that’s not all!{0xBE01}[0x000A]You’re the 100th guest to join us aboard[0x000A]the S.S. Anne today...{0xBE01}[0x000A]So here you go!{0xBE01}[0x000A]Please enjoy this breezy outfit as you feel[0x000A]the salty air on your skin!
+msg_main0400_sys_02=You got a {0xFF00,0x0006}Sailor Set {0xFF00,0x0000}from the crew member!
+msg_main0400_sys_04=You put the {0xFF00,0x0006}Sailor Set{0xFF00,0x0000} in your Clothing Trunk!
+msg_main0400_sailor_04={0xBDFF:0x0006}
+msg_main0400_sys_03={0xBDFF:0x0007}
+msg_main0400_sailor_05={0xBDFF:0x0008}
+msg_main0400_sailor_06={0xBDFF:0x0009}

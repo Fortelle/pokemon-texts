@@ -1,0 +1,8 @@
+msg_t003r0101_scientist_01_01=Il biglietto per i bambini costa 50 [0xE300].[0x000A]Vuoi entrare?
+msg_t003r0101_scientist_01_02=Torna quando vuoi.
+msg_t003r0101_scientist_01_03=Bene, sono 50 [0xE300]! Grazie!
+msg_t003r0101_scientist_01_04=Mi dispiace... Non hai abbastanza soldi!
+msg_t003r0101_scientist_01_05=Buon divertimento!
+msg_t003r0101_scientist_01_06=Ma che monell{0x1100,0x00FF,0x0101}oa che sei![0x000A]Non si può entrare dal retro!{0xBE01}[0x000A]Uff... vabbè. Piuttosto, sai che cos’è l’ambra?!
+msg_t003r0101_scientist_01_07=C’è un laboratorio in cui stanno cercando di[0x000A]riportare in vita dei Pokémon antichi utilizzando{0xBE00}[0x000A]il materiale genetico contenuto nell’ambra.
+msg_t003r0101_scientist_01_08=L’ambra è resina antichissima che si è fossilizzata[0x000A]e indurita con il passare dei secoli.

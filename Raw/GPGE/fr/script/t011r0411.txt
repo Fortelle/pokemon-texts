@@ -1,0 +1,4 @@
+msg_t011r0411_monitor_01={0xBDFF:0x0000}
+msg_t011r0411_monitor_02=C’est un vieux dossier de recherche.{0xBE01}[0x000A]On y voit deux Pokémon : l’un a l’air adorable,[0x000A]l’autre redoutable.{0xBE01}[0x000A]Le reste n’est que graphiques compliqués...
+msg_t011r0411_kanban_01=Sylphe SARL[0x000A]10ᵉ étage
+msg_t011r0411_art_01=Serait-ce... un Pokémon légendaire ?!

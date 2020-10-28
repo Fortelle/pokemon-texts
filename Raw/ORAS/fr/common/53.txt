@@ -1,0 +1,84 @@
+Base de : {0x0100,0x0000}
+Profil secret
+Décoration
+Favoris
+Décos
+Enregistrer un favori
+À propos des favoris
+Drapeaux trouvés
+{0x0205,0x0000,0xE07F}
+Décorer la base
+QR Code
+Gérer les favoris
+Éditer le profil secret
+Vider la base
+Quitter
+Nom de la Team
+Slogan
+Message joyeux
+Message encourageant
+Retour
+Placer des décos ou changer leur disposition.
+Scanner le QR Code d’autres joueurs ou créer le vôtre.
+Retirer des joueurs de votre liste de favoris.
+Modifier les informations de votre profil secret.
+Vider la base et l’abandonner.
+Éteindre le PC.
+Changer le {0xFF00,0x0002}nom de votre Team{0xFF00,0x0000}.
+Changer le {0xFF00,0x0002}slogan de votre Team{0xFF00,0x0000}.
+Changer le message envoyé {0xFF00,0x0002}lorsque vous voulez exprimer[0x000A]votre bonheur{0xFF00,0x0000}.
+Changer le message envoyé {0xFF00,0x0002}lorsque vous encouragez[0x000A]un autre joueur{0xFF00,0x0000}.
+Retourner au menu précédent.
+Tous vos Amis Secrets seront effacés.{0xBE01}[0x000A]Voulez-vous continuer[0xE07F]?
+Choisissez le joueur que vous voulez retirer de votre liste[0x000A]de favoris.
+Voulez-vous vraiment retirer {0x0100,0x0000}[0x000A]de votre liste de favoris[0xE07F]?
+Voulez-vous ajouter {0x0100,0x0000} à votre liste[0x000A]de favoris[0xE07F]?
+{0x0100,0x0000} est déjà dans votre liste de favoris.[0x000A]Voulez-vous l’en retirer[0xE07F]?
+{0x0100,0x0000} ne fait plus partie de votre liste[0x000A]de favoris.
+{0x0100,0x0000} fait maintenant partie de votre liste[0x000A]de favoris.
+Votre liste de favoris est vide.
+Votre liste de favoris est pleine[0xE07F]!{0xBE01}[0x000A]Sélectionnez {0xFF00,0x0002}Retirer de la liste des favoris{0xFF00,0x0000}[0x000A]pour en effacer.
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+{0xBDFF:0x002A}
+{0xBDFF:0x002B}
+Ajouter à la liste de favoris
+Retirer de la liste de favoris
+À propos des favoris
+Vous pouvez enregistrer le propriétaire de[0x000A]cette Base Secrète dans votre liste de favoris.
+Lire des explications sur les favoris.
+Les Bases Secrètes des joueurs enregistrés dans[0x000A]vos favoris ne disparaissent jamais, à moins que{0xBE00}[0x000A]leur propriétaire ne les abandonne.{0xBE01}[0x000A]Vous pouvez enregistrer jusqu’à 15 joueurs favoris.{0xBE01}[0x000A]Si vous découvrez une Base Secrète intéressante,[0x000A]n’oubliez pas d’enregistrer son propriétaire[0xE07F]!
+{0x0100,0x0000}
+{0xBDFF:0x0033}
+{0xBDFF:0x0034}
+Oui
+Non
+Bureaux
+Tabourets
+Tapis
+Plantes
+Objets divers
+Décorations murales
+Poupées
+Coussins
+Appareils, luminaires, etc.
+Dalles, pièges, etc.
+{0xBDFF:0x0041}
+La Base Secrète de {0x0100,0x0001} a été installée[0x000A]près de : {0x0105,0x0002}[0xE07F]!
+Une Base Secrète spéciale a été découverte[0x000A]près d’Algatia[0xE07F]!
+Liste des Bases Secrètes
+Liste des Bases Secrètes
+Voir la liste des Dresseurs qui possèdent[0x000A]une Base Secrète.
+{0x0100,0x0000}
+Effacer de la liste la base du Dresseur sélectionné.
+Vous ne connaissez personne possédant[0x000A]une Base Secrète.
+{0x0100,0x0000} fait partie de vos Amis Secrets.{0xBE01}[0x000A]Vous ne pouvez pas effacer sa base.
+Voulez-vous effacer la base de : {0x0100,0x0001}[0x000A]({0x0105,0x0000})[0xE07F]?
+Êtes-vous sûr[0xE07F]?
+{0x0100,0x0000} fait partie de vos favoris.{0xBE01}[0x000A]Voulez-vous vraiment effacer sa base de la liste[0xE07F]?
+Vous avez effacé la base de : {0x0100,0x0001}[0x000A]({0x0105,0x0000}).
+Effacer la Base Secrète
+Vous pouvez effacer cette Base Secrète.
+Voulez-vous effacer la base de :[0x000A]{0x0100,0x0000}[0xE07F]?
+Vous avez effacé la base de :[0x000A]{0x0100,0x0000}.
+Base de la Team {0x01AA,0x0000}

@@ -1,0 +1,14 @@
+It’s a Vending Machine.[0x000A]Which drink would you like?
+Clunk!
+A bottle of {0x0109,0x0000} dropped down.
+Score! You got a bonus drink![0x000A]An extra bottle of {0x0109,0x0000} dropped down.
+You don’t have enough money!
+Naw...never mind!
+Would you like to buy another one?
+{0xBDFF:0x0007}
+Score big time! Another bottle of[0x000A]{0x0109,0x0000} dropped down.
+Fresh Water {0xBD03,0x0000}${0x0202,0x0001}
+Soda Pop {0xBD03,0x0000}${0x0202,0x0001}
+Lemonade {0xBD03,0x0000}${0x0202,0x0001}
+Cancel
+You can’t take any more of this item.

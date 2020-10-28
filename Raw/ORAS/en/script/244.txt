@@ -1,0 +1,24 @@
+I am researching Pokémon Fossils here.{0xBE01}
+You have a Fossil, don’t you?[0x000A]Shall I restore it for you?
+What’s this? You seem to have plenty[0x000A]of Pokémon with you already.{0xBE01}[0x000A]Are you still sure you want me to turn[0x000A]your Fossil back into a Pokémon?
+Which Fossil should I restore for you?
+OK, then!{0xBE01}[0x000A]I’ll turn that {0x0109,0x0000} back into a[0x000A]Pokémon for you!{0xBE01}
+Oh, you’d like to keep it as a Fossil?[0x000A]I understand.
+I’m working to turn your Fossil back into[0x000A]a Pokémon right now!
+I restored the Fossil you gave me, turning it back[0x000A]into a Pokémon!{0xBE01}[0x000A]This is {0x0101,0x0001}![0x000A]Please take good care of it.{0xBE01}
+{0x0100,0x0002} received {0x0101,0x0001}!
+Would you like to give your new[0x000A]{0x0101,0x0001} a nickname?
+Oh, I’m sorry. You have no space for it.{0xBE01}[0x000A]I will take care of this Pokémon for now, but[0x000A]please come back to pick it up later!
+If you have a Fossil, bring it to me!
+{0x0109,0x0003}
+{0x0109,0x0004}
+Root Fossil
+Claw Fossil
+Helix Fossil
+Dome Fossil
+Old Amber
+Armor Fossil
+Skull Fossil
+Cover Fossil
+Plume Fossil
+Cancel

@@ -1,0 +1,80 @@
+<var>
+
+<var>
+<var>
+<var>
+
+l
+<var>
+/
+<var>
+Summary
+Restore
+Held Item
+Use a Move
+Back
+Use/Give
+Take
+Move
+Enter
+Withdraw
+Leave Pokémon
+Confirm
+
+Pokémon
+Held Item
+Choose a Pokémon.
+Which Pokémon do you want to move?
+Which item do you want to move?
+Where do you want to move it to?
+Where do you want to move it to?
+Which Pokémon do you want to use it on?
+What would you like to do with <var>?
+Which move should <var> use?
+Which Pokémon do you want to send?
+Which Pokémon will you battle with?
+You can choose an item in the Bag and use it or give it to a Pokémon.
+You can take an item that a Pokémon is holding and put it back in the Bag.
+You can move an item that a Pokémon is holding.
+<var> isn't holding anything.
+You received the <var> from <var>.
+You can't receive the item because your Bag is full.
+This can't be used on that Pokémon.
+The Pokémon does not have enough HP...
+<var> changed Forme!
+You can't use that here.
+
+
+
+
+
+No more than one Pokémon may enter.
+No more than two Pokémon may enter.
+No more than three Pokémon may enter.
+No more than four Pokémon may enter.
+No more than five Pokémon may enter.
+Banned
+First
+Second
+Third
+Fourth
+Fifth
+Sixth
+Able!
+Unable!
+Learned
+Unavailable
+Identical Pokémon are not permitted.
+Some Pokémon are holding identical items.
+The total of all party members' levels has gone over <var>.
+There are <var> or more Legendary Pokémon.
+The Pokémon that must participate is not selected.
+The conditions to participate in the battle have not been met.
+Communicating. Please stand by...
+TIME REMAINING:
+<var>:<var>
+<var>
+Standing by...
+Yes
+No
+<var>/<var>

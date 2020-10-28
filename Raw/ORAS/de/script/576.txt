@@ -1,0 +1,26 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+Wenn ich ein Fahrrad hätte, könnte ich damit nach[0x000A]Graphitport City radeln, um im kühlen Meerwasser{0xBE00}[0x000A]zu planschen und mich zu erfrischen...{0xBE01}[0x000A]Das steigert die Wachsamkeit!
+Wenn ich ein Fahrrad hätte, könnte ich damit nach[0x000A]Graphitport City radeln, um im Haus des Namenbewerters{0xBE00}[0x000A]all meinen Pokémon schockierende Spitznamen zu{0xBE00}[0x000A]verpassen...
+Wenn ich ein Fahrrad hätte, könnte ich damit nach[0x000A]Graphitport City radeln, um am Pokémon-Wettbewerb{0xBE00}[0x000A]teilzunehmen.{0xBE01}[0x000A]Manchmal würde ich gewinnen und manchmal verlieren.[0x000A]Mal wäre ich stolz auf mich, mal eher niedergeschlagen...
+Wenn ich ein Fahrrad hätte, könnte ich damit nach[0x000A]Graphitport City radeln, um sorgenfrei, aber hoffentlich{0xBE00}[0x000A]nicht sorglos, auf Einkaufstour zu gehen...
+Wenn ich ein Fahrrad hätte, könnte ich damit nach[0x000A]Graphitport City radeln, um dort im Ozeanmuseum ganz{0xBE00}[0x000A]entspannt die Geheimnisse des Meeres zu studieren...
+Wenn ich ein Fahrrad hätte, könnte ich damit nach[0x000A]Graphitport City radeln, um dort in einem Strandkorb{0xBE00}[0x000A]ganz gemütlich etwas zu schlafen...
+Wenn ich ein Fahrrad hätte, könnte ich damit nach[0x000A]Graphitport City radeln, um mir dort im Pokémon Fan Club{0xBE00}[0x000A]die strahlenden Gesichter der Pokémon anzusehen.{0xBE01}[0x000A]Allein beim Gedanken daran muss ich schon lächeln!
+Besuchst du mit deinem Team öfter mal Graphitport City?[0x000A]Einfach eine tolle Stadt, findest du nicht auch?
+{0x0100,0x0000} erhält ein[0x000A]{0xBD00,0x0007,0x0000,0x0000}{0x0127,0x0001}{0xBD01}!
+{0x0100,0x0000} gibt {0x1100,0x00FF,0x0506,0x0000}seinemihrem Pokémon[0x000A]das {0x0127,0x0001}!
+Oh! Dein {0x0101,0x0000} und du...
+Oh! Dein {0x0101,0x0000} und du...
+Versteht ihr euch gut?[0x000A]Na, wie sieht’s aus?
+Ihr versteht euch ja zumindest ein wenig.
+Ihr versteht euch ja ziemlich gut!{0xBE01}[0x000A]Ihr habt bestimmt viel Spaß zusammen bei[0x000A]PokéMonAmi und bei Wettbewerben, was?
+Ihr versteht euch ja wahnsinnig gut!{0xBE01}[0x000A]Im Kampf sind Pokémon, mit denen man sich gut versteht,[0x000A]ganz besonders niedlich, nicht wahr?
+Ihr versteht euch ja wirklich blendend!{0xBE01}[0x000A]Ihr habt euch sehr lieb, stimmt’s?{0xBE01}[0x000A]Danke, dass ihr mir gezeigt habt,[0x000A]wie toll ihr euch versteht!
+Wenn man mit einem Pokémon unterwegs ist,[0x000A]mit dem man sich prima versteht, macht das Reisen{0xBE00}[0x000A]gleich dreimal so viel Spaß, hab ich recht?
+Ihr versteht euch ja wirklich blendend!{0xBE01}[0x000A]Ihr habt euch sehr lieb, stimmt’s?{0xBE01}[0x000A]Da werde ich ganz neidisch!
+{0x0100,0x0000} erhält ein[0x000A]{0xBD00,0x0007,0x0000,0x0000}{0x0127,0x0001}{0xBD01}!
+{0x0100,0x0000} hat {0x0102,0x0002}[0x000A]das {0x0127,0x0001} angesteckt.

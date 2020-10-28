@@ -1,0 +1,10 @@
+msg_main0210_musashi_01=？？？『お待ち！
+msg_main0210_musashi_02=？？？『ちょっと！[0x000A]それ　あたしたちの　カセキよ！
+msg_main0210_kojiro_01=？？？『ムキー！　いつのまにか[0x000A]追い抜いてる　なんて　ズルイぞ！
+msg_main0210_musashi_04=ムサシ『われら[0x000A]ロケット団　ムサシ！
+msg_main0210_kojiro_02=コジロウ『コジロウ！
+msg_main0210_musashi_05=ムサシ『ふたり　がかりで[0x000A]カセキ　奪いとって　やるんだから！
+msg_main0210_dummy_01={0xBDFF:0x0006}
+msg_main0210_dummy_02={0xBDFF:0x0007}
+msg_main0210_musashi_03=ロケット団『やなかんじィー！
+msg_main0210_musashi_back=ムサシ『って　ポケモン　１匹じゃ[0x000A]戦えない　じゃない！{0xBE01}[0x000A]もう１匹　連れて　出直しなさいよ！

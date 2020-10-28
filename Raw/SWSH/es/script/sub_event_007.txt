@@ -1,0 +1,17 @@
+sub_event_007_tokkun_01=Oh, jo, jo... ¡Impresionante! Así que por fin te has[0x000A]hecho con el anhelado título de Campe{0x1100,0x00FF,0x0302}ónona, ¿eh?{0xBE01}[0x000A]En ese caso, si tienes algún Pokémon que haya[0x000A]alcanzado el Nv. 100, puedo someterlo a un{0xBE00}[0x000A]Entrenamiento Extremo.
+sub_event_007_tokkun_02=Uy, pues me da a mí que no va a poder ser[0x000A]porque... ¡no tienes chapas! Ni doradas ni{0xBE00}[0x000A]plateadas, nada de nada, vaya.
+sub_event_007_tokkun_03=¿Qué Pokémon quieres someter al Entrenamiento[0x000A]Extremo?
+sub_event_007_tokkun_04=¡Me temo que si no ha alcanzado el Nv. 100 no[0x000A]puedo someterlo al Entrenamiento Extremo!
+sub_event_007_tokkun_05=Tu {0x0102,0x0001} es tan fuerte que el[0x000A]Entrenamiento Extremo no le hace falta.
+sub_event_007_tokkun_06=Dime, ¿quieres usar una Chapa Plateada o una[0x000A]Chapa Dorada?
+sub_event_007_tokkun_07=Ya veo, quieres mejorar todas las características[0x000A]de este Pokémon, ¿no? ¡Pues venga!
+sub_event_007_tokkun_08=¿Qué característica de este Pokémon quieres[0x000A]mejorar con el Entrenamiento Extremo?
+tokkun_01_01={0x1001}{0x0109,0x0000}: {0x0201,0x0001}
+tokkun_01_02=Salir
+tokkun_03_08=¡A entrenar duro!
+tokkun_10_01=¡No puedes aumentar más esta característica!
+tokkun_10_02=No tienes más {0x1001}{0x0109,0x0000}...
+sub_event_007_tokkun_09=Uf... no ha sido un camino de rosas, pero... ¡sí[0x000A]que se ha fortalecido {0x0102,0x0000}!{0xBE01}[0x000A]Y todo gracias al Entrenamiento Extremo.
+sub_event_007_tokkun_10=¿Quieres someter a otro Pokémon al[0x000A]Entrenamiento Extremo?
+sub_event_007_tokkun_11=¿Quieres que lo dejemos?
+sub_event_007_tokkun_12=¡Vuelve cuando quieras llevar a alguno de tus[0x000A]Pokémon al extremo!

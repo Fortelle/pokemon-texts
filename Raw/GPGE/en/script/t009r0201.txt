@@ -1,0 +1,4 @@
+msg_t009r0201_switch_01={0xBDFF:0x0000}
+msg_t009r0201_switch_02={0xBDFF:0x0001}
+msg_t009r0201_switch_03={0xBDFF:0x0002}
+msg_t009r0201_childm_01=Hey.[0x000A]Do you know...?{0xBE01}[0x000A]If you step on that panel, you can go back to[0x000A]the entrance!

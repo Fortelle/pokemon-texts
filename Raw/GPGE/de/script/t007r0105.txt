@@ -1,0 +1,9 @@
+msg_t007r0105_muscle_01=Es steht zwar auch draußen auf dem Schild,[0x000A]aber...{0xBE01}[0x000A]Es gibt nichts, was ich nicht weiß! Ich weiß zum[0x000A]Beispiel, dass in jeder Nintendo Switch-Konsole{0xBE00}[0x000A]eine eigene kleine Welt existiert!{0xBE01}[0x000A]Also los, verbinde dich mit deinen Freunden und[0x000A]tausche mit ihnen Pokémon, was das Zeug hält!
+msg_t007r0105_notebook_01=Zwischen den Seiten liegt ein Infoblatt über TMs.{0xBE01}[0x000A]Insgesamt gibt es 60 TMs.[0x000A]– Silph Company
+msg_t007r0105_notebook_02=Auf der Tafel stehen Informationen zu den[0x000A]Kommunikationsfunktionen. Willst du sie lesen?
+msg_t007r0105_notebook_03=Wähle „Kommunikation“ im Spielmenü und dann[0x000A]„Mit Freunden spielen“, wenn du mit anderen{0xBE00}[0x000A]Spielern tauschen oder kämpfen möchtest.{0xBE01}[0x000A]Als Nächstes hast du die Wahl zwischen[0x000A]„Lokale Verbindung“ und „Online-Verbindung“.{0xBE01}[0x000A]Wähle anschließend entweder „Link-Tausch“[0x000A]oder entscheide dich für ein Kampfformat.{0xBE01}[0x000A]Gib dann denselben Erkennungscode ein wie[0x000A]dein Spielpartner, um euch zu verbinden.
+msg_t007r0105_kokuban_01={0xBDFF:0x0004}
+msg_board_01_p02_t007_r0105={0xBDFF:0x0005}
+msg_board_01_p03_t007_r0105={0xBDFF:0x0006}
+msg_board_01_p04_t007_r0105={0xBDFF:0x0007}
+msg_board_01_p05_t007_r0105={0xBDFF:0x0008}

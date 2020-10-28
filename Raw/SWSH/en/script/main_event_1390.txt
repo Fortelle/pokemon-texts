@@ -1,0 +1,9 @@
+main_event_1390_sound_02=*Ka-BOOM*
+main_event_1390_champion_01={0x1003}{0x0100,0x0000}![0x000A]Thanks for coming, but I’ve got a handle on this!{0xBE00}[0x000A]Whatever’s making that noise, I’ll see to it!{0x0114,0x0004}
+main_event_1390_champion_02=I already told you, didn’t I?[0x000A]Keep your eye on the goal!{0xBE00}[0x000A]And for you, that’s winning the Gym Challenge!{0x0114,0x0004}
+main_event_1390_champion_03=The only Gym Badge left is the one you’ll get[0x000A]from the Dragon Gym’s Leader, Raihan. Right?{0xBE01}[0x000A]Raihan is the only Trainer out there I consider a[0x000A]real rival. He’s that good, you know!{0x0114,0x0004}
+main_event_1390_champion_04=And there I go again! Sorry, but I suppose this is[0x000A]no time for me to be stopping for a chat.{0xBE00}[0x000A]There’s a bit of trouble here with my name on it.{0xBE01}[0x000A]But don’t you worry about a thing!{0x0114,0x0004}
+main_event_1390_champion_05=The unbeatable Champion is here to look after[0x000A]things and keep you all safe!{0x0114,0x0004}
+main_event_1390_sound_01=*Ka-BOOM*
+main_event_1390_champion_06=That came from the tunnel, wouldn’t you say?[0x000A]Seems I’m about to have a champion time!{0x0114,0x0004}
+main_event_1390_npc_01={0xBDFF:0x0008}

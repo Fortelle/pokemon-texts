@@ -1,0 +1,26 @@
+Benvenut{0x1100,0x00FF,0x0101}oa all’Imbarco di Mele Mele!
+Benvenut{0x1100,0x00FF,0x0101}oa all’Imbarco di Akala!
+Benvenut{0x1100,0x00FF,0x0101}oa all’Imbarco di Ula Ula!
+Questo è il molo del Villaggio del Mare!
+Questo è l’attracco dell’Æther Paradise!
+Dove vuoi andare?
+Vuoi andare a Hau’oli, sull’isola di Mele Mele?
+Vuoi andare a Kantai, sull’isola di Akala?
+Vuoi andare a Malie, sull’isola di Ula Ula?
+Vuoi andare al Villaggio del Mare,[0x000A]sull’isola di Poni?
+Vuoi andare all’Æther Paradise?
+Il traghetto sta per salpare.[0x000A]Buona traversata!
+Speriamo di averti presto a bordo![0x000A]Alla prossima!
+Il traghetto è in manutenzione.[0x000A]Mi spiace, ma al momento il servizio è sospeso.
+Sei pront{0x1100,0x00FF,0x0101}oa per andare all’Æther Paradise?{0x0114,0x0013}
+Ok, andiamo!{0x0114,0x0013}
+Ok, ti aspetto!{0x0114,0x0013}
+Sembra che qui ci sia un certo trambusto...[0x000A]Vuoi tornare a Malie?
+Molto bene, sali a bordo, allora![0x000A]Partiamo tra poco.
+Molto bene![0x000A]Avvisami quando vuoi partire.
+Hau’oli
+Kantai
+Malie
+Villaggio del Mare
+Æther Paradise
+Resto qui

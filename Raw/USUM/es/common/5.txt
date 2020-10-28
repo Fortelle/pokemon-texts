@@ -1,0 +1,121 @@
+Combate Libre
+Combate por Puntos
+Torneo en Línea
+Torneo Amistoso
+Combate Individual
+Combate Doble
+Battle Royale
+Combate Especial
+Seguir combatiendo
+Cambiar el Equipo de Combate
+Abandonar el combate
+Participar en un Torneo
+Combatir
+Ver el Certificado Digital de Jugador
+Retirarse de la competición
+Torneos anteriores
+Información del torneo
+Sí
+No
+Con Pokémon especiales
+Sin Pokémon especiales
+Leer QR Code
+Combate WCS
+Área de Combate
+Combate por Puntos
+Combate Libre
+Combate Individual
+Combate Doble
+Combate Especial
+Battle Royale
+Torneo en Línea
+{0x011A,0x0000}
+{0x011A,0x0000}
+Torneo Amistoso
+¡Te damos la bienvenida al Área de Combate![0x000A][0x000A]Aquí podrás combatir en línea con jugadores de todo el[0x000A]mundo.[0x000A][0x000A]También podrás participar en los torneos en los que te[0x000A]hayas inscrito en Pokémon Global Link.
+En los Combates Libres, tanto los Pokémon de tu Equipo[0x000A]de Combate como los objetos que estos lleven deberán ser[0x000A]todos diferentes.[0x000A]También es posible admitir o denegar la participación de[0x000A]Pokémon especiales.
+En los Combates por Puntos no pueden participar[0x000A]Pokémon especiales.[0x000A]Tanto los Pokémon de tu Equipo de Combate como[0x000A]los objetos que estos lleven deben ser todos diferentes.[0x000A]El reglamento de los Combates Especiales y de los[0x000A]Combates WCS está sujeto a cambios cada temporada.
+Para poder participar en Torneos en Línea, es necesario[0x000A]que te registres en Pokémon Global Link.[0x000A][0x000A]Para obtener más información sobre las competiciones[0x000A]y conocer su reglamento, puedes visitar el sitio web de[0x000A]Pokémon Global Link:[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+Para poder participar en Torneos Amistosos, es necesario[0x000A]que te registres en Pokémon Global Link.[0x000A][0x000A]Para obtener más información sobre las competiciones[0x000A]y conocer su reglamento, puedes visitar el sitio web de[0x000A]Pokémon Global Link:[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+Para obtener información detallada sobre este reglamento,[0x000A]puedes visitar el sitio web de Pokémon Global Link:[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}[0x000A][0x000A]Puedes leer el QR Code para acceder directamente al[0x000A]sitio web correspondiente.
+Después de librar Combates por Puntos, puedes optar por[0x000A]enviar los Vídeos de Combate automáticamente al servidor[0x000A]para que su código de búsqueda pueda aparecer en el sitio[0x000A]web oficial de Pokémon Global Link.[0x000A][0x000A]Podrás participar en Combates por Puntos aunque no[0x000A]des tu consentimiento al envío automático de Vídeos de[0x000A]Combate.
+Los Pokémon participantes se registran antes[0x000A]del primer combate.
+{0xBDFF:0x002A}
+Puntos Clasificatorios:
+{0x0203,0x0000,0x0000}
+Número de combates:
+{0x0206,0x0000,0xE07F}
+Victorias:
+{0x0206,0x0000,0xE07F}
+Derrotas:
+{0x0206,0x0000,0xE07F}
+{0x0122,0x0000}
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+l
+{0x0202,0x0000}
+{0x0100,0x0000}
+Pt. Clasif.:
+{0x0203,0x0000,0x0000}
+{0x0124,0x0000}
+{0x0125,0x0000}
+{0x011A,0x0000}
+Puesto {0x0202,0x0000}
+Contrincante 1
+Contrincante 2
+Contrincante 3
+Selecciona un modo.
+¡Has elegido Combate Libre![0x000A]Selecciona una modalidad de combate.
+¡Has elegido Combate por Puntos![0x000A]Selecciona una modalidad de combate.
+¿Accedes a enviar automáticamente tus Vídeos[0x000A]de Combate?
+Para poder participar en un Combate por[0x000A]Puntos, es necesario registrarse en el sitio web{0xBE00}[0x000A]de Pokémon Global Link:{0xBE00}[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}{0xBE01}
+Conectando...[0x000A]Por favor, espera.
+Comprobando la tarjeta SD...[0x000A]No apagues la consola.
+Se ha actualizado el reglamento.{0xBE01}
+Los datos del reglamento están dañados.[0x000A]Repite el proceso desde el principio.{0xBE01}
+Se han recuperado los datos dañados del[0x000A]reglamento.{0xBE01}
+Los datos del reglamento no se han podido[0x000A]guardar porque la tarjeta SD está llena.{0xBE01}
+Se están realizando labores de mantenimiento[0x000A]en el servidor. Inténtalo más tarde.{0xBE01}
+La temporada ha finalizado.{0xBE01}
+¿Quieres registrar tu consola para participar[0x000A]en los Combates por Puntos?
+Registrando la consola...
+Se ha registrado con éxito esta consola.{0xBE01}[0x000A]¡Atención!{0xBE01}[0x000A]Si utilizas una consola diferente para participar[0x000A]en Combates por Puntos, tus resultados{0xBE00}[0x000A]se borrarán.{0xBE01}
+Estás intentando participar con una consola[0x000A]diferente a la que registraste.{0xBE01}[0x000A]Tus resultados actuales se borrarán.[0x000A]¿Seguro que quieres seguir adelante?
+Borrando tus resultados y registrando[0x000A]esta consola...
+Tus resultados se han borrado y se ha[0x000A]registrado esta consola.{0xBE01}
+Buscando contrincante...[0x000A]Por favor, espera.
+¡Se ha encontrado un contrincante![0x000A]El combate comenzará en breve.
+No se ha encontrado ningún contrincante.{0xBE01}[0x000A]Vuelve a intentarlo más tarde.{0xBE01}
+Se ha producido un error de conexión.[0x000A]Repite el proceso desde el principio.{0xBE01}
+Va a llevar unos instantes actualizar los[0x000A]resultados.{0xBE01}[0x000A]También puedes consultar los resultados en el[0x000A]sitio web de Pokémon Global Link.{0xBE01}[0x000A]¿Quieres seguir luchando?
+¿Quieres continuar combatiendo?
+Comprobando el estado del torneo...
+Para poder participar en un torneo, es[0x000A]necesario registrarse en el sitio web{0xBE00}[0x000A]de Pokémon Global Link:{0xBE00}[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}{0xBE01}
+En este momento no hay ningún torneo oficial[0x000A]en el que puedas participar.{0xBE01}
+El torneo en el que estabas participando ha[0x000A]finalizado.{0xBE01}[0x000A]Para obtener más información sobre[0x000A]competiciones futuras, visita el sitio web de{0xBE00}[0x000A]Pokémon Global Link:{0xBE00}[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}{0xBE01}
+El torneo en el que estabas participando ha[0x000A]finalizado.{0xBE01}[0x000A]Tu Equipo de Combate ya no está bloqueado.{0xBE01}[0x000A]Para obtener más información sobre[0x000A]competiciones futuras, visita el sitio web de{0xBE00}[0x000A]Pokémon Global Link:{0xBE00}[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}{0xBE01}
+No puedes participar en este torneo.{0xBE01}
+Si te retiras de este torneo antes de que[0x000A]concluya, no podrás volver a participar en él.{0xBE01}[0x000A]¿Deseas retirarte del torneo[0x000A]{0x01AF,0x0000}?
+Si te retiras, no podrás volver a participar en[0x000A]esta competición.{0xBE01}[0x000A]¿Seguro que quieres retirarte del torneo[0x000A]{0x01AF,0x0000}?
+Te has retirado del torneo.[0x000A]Tu Equipo de Combate ya no está bloqueado.{0xBE01}
+Descargando el Certificado Digital de Jugador...
+Ha finalizado la descarga del Certificado Digital[0x000A]de Jugador.{0xBE01}
+Elige el Equipo de Combate que participará[0x000A]en el torneo.
+El torneo en el que te has inscrito todavía[0x000A]no ha comenzado.{0xBE01}[0x000A]Por favor, consulta las fechas de la competición[0x000A]en el sitio web de Pokémon Global Link:{0xBE00}[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}{0xBE01}
+Te has retirado de este torneo.{0xBE01}
+Se ha bloqueado tu Equipo de Combate y se ha[0x000A]sincronizado el juego.{0xBE01}[0x000A]Los preparativos para el torneo han finalizado.{0xBE01}
+Esta consola no es la misma que usaste para[0x000A]inscribirte en el torneo.{0xBE01}[0x000A]Comprueba la consola.{0xBE01}
+En estos momentos no puedes combatir aquí.{0xBE01}[0x000A]Para ver a qué hora puedes hacerlo, visita el[0x000A]sitio web de Pokémon Global Link:{0xBE00}[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}{0xBE01}
+Has alcanzado el número máximo de combates[0x000A]por hoy.{0xBE01}[0x000A]Hoy ya no podrás librar ninguno más.{0xBE01}
+Torneo en curso.
+Torneo anterior.
+Te has retirado de este torneo.
+No puedes participar en este torneo.
+Activando la cámara para leer un QR Code.
+Has obtenido tu Certificado Digital de Jugador.
+¿Qué quieres hacer?
+No posees el Certificado Digital de Jugador[0x000A]para participar en este torneo.{0xBE01}[0x000A]¿Quieres retirarte?
+Si te retiras de este torneo antes de que[0x000A]concluya, no podrás volver a participar en él.{0xBE00}[0x000A]¿Seguro que quieres retirarte?
+Si te retiras de este torneo antes de que[0x000A]concluya, no podrás volver a participar en él.{0xBE01}[0x000A]¿Deseas retirarte del torneo y desbloquear[0x000A]tu Equipo de Combate?
+Se ha desbloqueado tu Equipo de Combate[0x000A]anterior. Ya puedes participar en un nuevo{0xBE00}[0x000A]Torneo Amistoso.{0xBE01}
+{0xBDFF:0x0078}

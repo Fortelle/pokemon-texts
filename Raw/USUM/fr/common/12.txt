@@ -1,0 +1,136 @@
+{0x0102,0x0000}
+{0x0102,0x0000}
+{0x0107,0x0000}
+{0x01B0,0x0000}
+{0x0106,0x0000}
+{0x0109,0x0000}
+{0x0100,0x0000}
+Adversaire
+{0x01B1,0x0000}
+PP
+L
+l
+{0x0201,0x0000}
+{0x0202,0x0000}
+{0x0203,0x0000,0xE07F}
+{0x0202,0x0000}
+{0x0202,0x0000}
+× {0x0200,0x0000}
+{0x0200,0x0000}/{0x0200,0x0001}
+PV
+Attaque
+Défense
+Atq. Spé.
+Déf. Spé.
+Vitesse
+{0xBDFF:0x0019}
+{0xBDFF:0x001A}
+Changer
+Au combat
+Impossible
+Partenaire
+En attente...
+Soigner
+Résumé
+Catégorie
+Puissance
+Précision
+Esquive
+Aucune capacité n’est utilisable.
+Veuillez choisir un Pokémon.
+L’utiliser sur quel Pokémon[0xE07F]?
+Combattre avec quel Pokémon[0xE07F]?
+{0xBDFF:0x002A}
+{0x0102,0x0001} est déjà au combat[0xE07F]!
+{0x0102,0x0001} n’a plus l’énergie pour[0x000A]combattre[0xE07F]!
+Impossible d’échanger un Pokémon de votre[0x000A]partenaire avec l’un des vôtres[0xE07F]!
+{0x0102,0x0001} ne peut pas être échangé[0xE07F]!
+{0x0102,0x0001} a déjà été sélectionné.
+Impossible d’envoyer un Œuf au combat.
+Restaurer les PP de quelle capacité[0xE07F]?
+Oublier cette capacité
+Choisir une autre capacité
+Ne pas apprendre cette capacité
+Soins PV/PP
+Soins statut
+Balls
+Objets de combat
+Utiliser
+Impossible de viser quand il y a plus d’un[0x000A]Pokémon[0xE07F]!
+Il n’y a plus de place dans le PC[0xE07F]!
+Il faut se concentrer pour bien lancer[0xE07F]!
+Impossible de viser si aucun Pokémon n’est[0x000A]visible[0xE07F]!
+La capacité {0x0107,0x0001} empêche[0x000A]d’utiliser l’objet sur {0x0102,0x0000}[0xE07F]!
+Il est interdit d’attraper des Pokémon ici[0x000A]avant d’avoir réussi l’Épreuve[0xE07F]!
+{0xBDFF:0x0040}
+Si le Professeur était là, il dirait :[0x000A]«[0xE07F]C’est pas le moment de faire ça, m{0x1100,0x00FF,0x0302}aniss[0xE07F]![0xE07F]»
+Impossible de lancer une Poké Ball[0x000A]dans la réserve[0xE07F]!
+Aucun objet
+Oui
+Non
+Changer de Pokémon
+Continuer sans changer
+Envoyer un autre Pokémon
+Fuite
+Oublier une capacité
+Garder les anciennes capacités
+Où envoyer ce Pokémon[0xE07F]?
+{0xBDFF:0x004D}
+À droite
+À gauche
+× 
+/
+/
+L
+{0x0204,0x0000,0x0000}
+{0x0204,0x0000,0x0000}
+-
+Rang : 
+ : 
+Info : boutons L + A
+Soins
+Communication en cours...
+{0x0202,0x0000}
+/
+Tour précédent
+Tour suivant
+Avance rapide...[0x000A]Veuillez patienter.
+Interruption de la vidéo...[0x000A]Veuillez patienter.
+{0xBDFF:0x0062}
+{0xBDFF:0x0063}
+{0xBDFF:0x0064}
+Force Z : taux de critique ↑
+Force Z : Attaque ↑
+Force Z : Défense ↑
+Force Z : Attaque Spéciale ↑
+Force Z : Défense Spéciale ↑
+Force Z : Vitesse ↑
+Force Z : Précision ↑
+Force Z : Esquive ↑
+Force Z : Attaque ↑↑
+Force Z : Défense ↑↑
+Force Z : Attaque Spéciale ↑↑
+Force Z : Défense Spéciale ↑↑
+Force Z : Vitesse ↑↑
+Force Z : Précision ↑↑
+Force Z : Esquive ↑↑
+Force Z : Attaque ↑↑↑
+Force Z : Défense ↑↑↑
+Force Z : Attaque Spéciale ↑↑↑
+Force Z : Défense Spéciale ↑↑↑
+Force Z : Vitesse ↑↑↑
+Force Z : Précision ↑↑↑
+Force Z : Esquive ↑↑↑
+Force Z : stats ↑
+Force Z : stats ↑↑
+Force Z : stats ↑↑↑
+Force Z : annule les baisses de stats
+Force Z : soin du lanceur
+Force Z : soin du Pokémon entrant sur le terrain
+Force Z : attire l’attention
+Force Z : change selon le type
+{0x0101,0x0000}
+N° {0x0202,0x0000}
+N° ???
+Motism’Auras
+Vous ne pouvez pas attraper Necrozma[0x000A]s’il a fusionné avec un autre Pokémon[0xE07F]!

@@ -1,0 +1,73 @@
+Hautnahturnier beginnen
+Ja
+Nein
+Kämpfen
+Letzten Kampf ansehen
+Turnierteilnahme widerrufen
+Kampfvideo ansehen
+Statistik des letzten Kampfes ansehen
+Per Infrarot empfangen
+Per QR Code empfangen
+Hautnahturnier
+Hautnahturniere ermöglichen es dir, mit anderen[0x000A]Spielern am selben Ort an Turnieren teilzunehmen.[0x000A][0x000A]Weiterführende Einzelheiten zu offiziell abgehaltenen[0x000A]Turnieren sind auf der offiziellen Internetseite von Pokémon[0x000A]abrufbar.
+{0x01AF,0x0000}
+{0x01AF,0x0000}
+{0x0201,0x0002}.{0x0201,0x0001}.{0x0203,0x0000,0x0000}
+Statistik von {0x0100,0x0000}
+Bestrittene Kämpfe:
+{0x0201,0x0000}
+/
+{0x0201,0x0000}
+Siege:
+{0x0201,0x0000}
+Niederlagen:
+{0x0201,0x0000}
+{0x0122,0x0000}
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+{0x0202,0x0000}
+Gegner
+{0x0100,0x0000}
+{0x0124,0x0000}
+{0x0125,0x0000}
+{0x0100,0x0000} hat gewonnen.
+Der Kampf endete unentschieden.
+{0x0100,0x0000} landete einen Punktsieg.
+{0x0100,0x0000} trug den Sieg davon, da für[0x000A]{0x0100,0x0001} die Zeit abgelaufen ist.
+{0x0100,0x0000} trug den Sieg davon,[0x000A]da {0x0100,0x0001} aufgegeben hat.
+{0x0200,0x0000}
+{0x0100,0x0000}
+{0x0100,0x0000}
+L
+Willkommen zum Hautnahturnier!
+Um am Hautnahturnier teilnehmen zu können,[0x000A]benötigst du digitale Ausweisdaten.{0xBE01}[0x000A]Auf welche Weise möchtest du sie empfangen?
+Digitale Ausweisdaten werden empfangen...[0x000A]Bitte richte den Infrarot-Sende-Empfänger aus.
+Der Empfang der digitalen Ausweisdaten[0x000A]wurde abgebrochen.{0xBE01}
+Die digitalen Ausweisdaten wurden empfangen.{0xBE01}
+Der Empfang der digitalen Ausweisdaten ist[0x000A]fehlgeschlagen. Bitte versuche es erneut.{0xBE01}
+Du hast die vorgesehene Anzahl von Kämpfen[0x000A]bestritten. Gut gemacht!{0xBE01}
+Die SD Card wird überprüft...[0x000A]Bitte das System nicht ausschalten.
+Die SD Card ist voll. Die Aufzeichnung des[0x000A]Kampfes konnte nicht gespeichert werden.{0xBE01}
+Die Aufzeichnung des Kampfes kann aufgrund[0x000A]eines Fehlers nicht wiedergegeben werden.{0xBE01}
+Verbindung trennen?
+Die Verbindung wurde getrennt.
+Bitte registriere das Kampfteam, das am Turnier[0x000A]teilnehmen soll.
+Willst du aus dem folgenden Turnier aussteigen?[0x000A]„{0x01AF,0x0000}“
+Nach dem Ausstieg ist eine erneute Teilnahme[0x000A]an diesem Turnier nicht möglich.{0xBE01}[0x000A]Möchtest du wirklich aus dem Turnier[0x000A]„{0x01AF,0x0000}“{0xBE00}[0x000A]aussteigen?
+Du wurdest abgemeldet von dem Turnier[0x000A]„{0x01AF,0x0000}“{0xBE00}[0x000A]und dein Kampfteam ist wieder freigegeben.{0xBE01}
+Die Registrierung des Kampfteams wurde[0x000A]abgebrochen.{0xBE01}
+Was möchtest du tun?
+Du hast bislang noch keine Kämpfe bestritten.{0xBE01}
+Gegnersuche wird ausgeführt...[0x000A]Drücke den B-Knopf, um abzubrechen.
+Verbindung wird hergestellt...[0x000A]Bitte warte einen Moment.
+Bitte warte auf das Startsignal und drücke dann[0x000A]den A-Knopf.
+Die Turnierregeln stimmen nicht überein.{0xBE01}
+Dies ist dein zuletzt bestrittener Kampf.[0x000A]Willst du das zugehörige Kampfvideo ansehen?
+Es wurden keine Kampfaufzeichnungen[0x000A]gefunden.{0xBE01}
+Die Daten wurden übertragen.{0xBE01}
+Möchtest du die Registrierung deines[0x000A]Kampfteams abbrechen?
+Speichervorgang...
+Du hast bereits an diesem Turnier teilgenommen.{0xBE01}
+Registrieren
+Du wurdest vom folgenden Turnier abgemeldet:[0x000A]„{0x01AF,0x0000}“{0xBE01}
+An diesem Turnier kannst du nicht teilnehmen.{0xBE01}

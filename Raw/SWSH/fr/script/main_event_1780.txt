@@ -1,0 +1,12 @@
+main_event_1780_rival_01=Salut ! C’est enfin la grande finale ![0x000A]Ça va, tu stresses pas trop ?{0x0114,0x0005}
+main_event_1780_rival_02=Je suis venu pour t’encourager !{0x0114,0x0005}
+main_event_1780_rival_03=Ou encourager Tarak ?[0x000A]Je suis pas encore sûr...{0x0114,0x0005}
+main_event_1780_rival_04=C’est pas facile pour moi de choisir[0x000A]entre mon frangin et m{0x1100,0x00FF,0x0808}on rivala rivale...{0x0114,0x0005}
+main_event_1780_poke1_01=Pyrooo !
+main_event_1780_poke2_01=Lézaaa !
+main_event_1780_poke3_01=Gory !
+main_event_1780_rival_05=Mais oui, t’as raison !{0xBE01}[0x000A]{0x0100,0x0000} et moi, on a partagé tant[0x000A]de choses depuis qu’on a quitté Paddoxton...{0xBE01}[0x000A]Si je dois encourager quelqu’un, c’est bien {0x1100,0x00FF,0x0403}luielle !{0x0114,0x0005}
+main_event_1780_rival_06=Bon courage contre mon frangin !{0xBE01}[0x000A]Si quelqu’un a une chance de le vaincre,[0x000A]c’est bien toi !{0x0114,0x0005}
+main_event_1780_poke1_02=Pyro !
+main_event_1780_poke2_02=Léza !
+main_event_1780_poke3_02=Goryry !

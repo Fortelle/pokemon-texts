@@ -1,0 +1,6 @@
+msg_ui_tournament_01={0x0100,0x0000}
+msg_ui_tournament_10=エントリー　しょうかい　です{0xBE01}
+msg_ui_tournament_11=１かいせんの　けっか　です！{0xBE01}
+msg_ui_tournament_12=２かいせんの　けっか　です！{0xBE01}
+msg_ui_tournament_13=けっしょうせんの　けっか　です！！{0xBE01}
+msg_ui_tournament_14=２かいせんの　けっか　です！{0xBE01}[0x000A]おーっと！　キバナせんしゅ　みごと[0x000A]ネズせんしゅを　げきはしたようです！{0xBE01}

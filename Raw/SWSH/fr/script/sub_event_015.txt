@@ -1,0 +1,5 @@
+sub_event_015_npc_01=Tous les Dresseurs ont un moment d’hésitation[0x000A]lors de l’évolution de leurs Pokémon...{0xBE01}[0x000A]Certes, ils deviennent plus forts,[0x000A]mais ils changent aussi d’apparence à jamais.{0xBE01}[0x000A]Mais moi, je connais le moyen de les renforcer[0x000A]sans les faire évoluer ! Ça t’intéresse ?
+sub_event_015_npc_02=Oh, c’est dommage...[0x000A]Mais n’hésite pas à revenir si tu changes d’avis !
+sub_event_015_npc_03=Cool ! Dans ce cas, je vais te montrer ça[0x000A]au cours d’un combat ! C’est parti !
+sub_event_015_npc_04=Alors ? Il était solide, mon Coléodôme, hein ?[0x000A]Et pourtant il n’a même pas encore évolué !{0xBE00}[0x000A]Le secret, c’est l’Évoluroc !
+sub_event_015_npc_05=Donne l’Évoluroc à un Pokémon qui peut évoluer[0x000A]pour booster sa Défense et sa Défense Spéciale !

@@ -1,0 +1,6 @@
+msg_t010champ01_gym_01=Salut, Champion{0x1100,0x00FF,0x0200}ne en herbe !{0xBE01}[0x000A]Tu vas devoir vaincre chaque membre du[0x000A]Conseil 4 à la suite pour triompher de{0xBE00}[0x000A]la Ligue Pokémon.{0xBE01}[0x000A]Si tu perds, d’abord tu auras honte, et ensuite[0x000A]tu devras tout recommencer !{0xBE01}[0x000A]Allez, après ça, c’est fini ! Alors fais bien[0x000A]attention et... écrase-les !
+msg_t010champ01_gym_02=Je compte sur toi pour nous en mettre encore[0x000A]plein les yeux, aujourd’hui !
+msg_t010champ01_elitef_01_01=À partir d’ici, tu affronteras l’un après l’autre[0x000A]les quatre membres du... Conseil 4 !{0xBE01}[0x000A]Remporte la victoire et une porte menant au[0x000A]prochain Dresseur s’ouvrira. Bonne chance !
+msg_t010champ01_elitem_01_01=Tu as fait tes emplettes ? Ton {0x1101,0x00FD,0x0607}Pokémonéquipe a été[0x000A]soigné{0x1101,0x00FD,0x0100}e ? Vous êtes fin prêts ?{0xBE01}[0x000A]C’est la dernière étape, encore un effort ![0x000A]Il faut bien ça pour devenir le plus fort !
+msg_t010champ01_juggler_01_01=La Ligue Pokémon, c’est pas une promenade[0x000A]de santé !{0xBE01}[0x000A]J’arrive même pas à la cheville du premier[0x000A]membre du Conseil 4...
+msg_t010champ01_kanban_01=Plateau Indigo{0xBE01}[0x000A]Quartier général de la Ligue Pokémon[0x000A]« La plus haute instance Pokémon »

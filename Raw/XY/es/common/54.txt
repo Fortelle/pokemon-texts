@@ -1,0 +1,14 @@
+Estableciendo conexión a internet...[0x000A]Por favor, espera.
+¿Deseas iniciar la conexión a internet?
+¿Deseas interrumpir la conexión a internet?
+Sí
+No
+Te has conectado a internet.
+Finalizando la conexión a internet...[0x000A]Por favor, espera.
+Te has desconectado de internet.
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+El control parental no permite conectarse a[0x000A]internet.
+El ID para Sincronizar de este juego es[0x000A]{0x01A1,0x0000}.

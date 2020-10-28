@@ -1,0 +1,10 @@
+Das ist ein Getränkeautomat.[0x000A]Was möchtest du trinken?
+{0x0109,0x0000} {0xBD03,0x0000}{0x0202,0x0001} $
+Abbrechen
+Du hast kein Getränk gekauft.
+Noch mehr kannst du davon nicht tragen!
+Du hast nicht genug Geld!
+{0x0109,0x0000} erhalten!
+Möchtest du noch mehr kaufen?
+Du Glückspilz! Du erhältst eine Flasche[0x000A]{0x0109,0x0000} gratis obendrauf!
+Ein Getränkeautomat![0x000A]Alle Getränke, die du magst...{0xBE00}[0x000A]sind ausverkauft!

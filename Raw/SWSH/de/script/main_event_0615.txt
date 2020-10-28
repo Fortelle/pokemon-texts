@@ -1,0 +1,4 @@
+main_event_0615_rival_01=Gib dir das, {0x0100,0x0000}!{0x0114,0x0005}
+main_event_0615_rival_02=Ich hab den Pflanzen-Orden![0x000A]Das ging fix, was?{0x0114,0x0005}
+main_event_0615_rival_03=Tja, wenn es um Wolly geht, bin ich eben[0x000A]unschlagbar!{0xBE01}[0x000A]Was ich damit meine? Das wirst du gleich sehen!{0x0114,0x0005}
+main_event_0615_rival_04=Keine Angst, du packst das bestimmt auch![0x000A]Du bist schließlich {0x1100,0x00FF,0x0D0B,0x0000}mein Rivalemeine Rivalin!{0x0114,0x0005}

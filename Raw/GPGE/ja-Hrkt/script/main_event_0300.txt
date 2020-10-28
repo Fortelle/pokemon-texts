@@ -1,0 +1,13 @@
+msg_main0300_rival_01=ウワーっ！
+msg_main0300_rival_02={0x0100,0x0001}『あ　うわ[0x000A]{0x0100,0x0000}　たいへんだ！{0xBE01}[0x000A]ポ……　しゃ……　ひいい！！
+msg_main0300_dummy_01={0xBDFF:0x0002}
+msg_main0300_rival_03={0x0100,0x0001}『は……[0x000A]はあ　ひい……{0xBE01}[0x000A]えーと{0xBE01}[0x000A]オレ　らしくも　なく[0x000A]とりみだして　わるかったな……
+msg_main0300_rival_04=この　さきに[0x000A]ゆうめいな　ポケモンマニアが{0xBE00}[0x000A]すんでる　って　いうから{0xBE00}[0x000A]めずらしい　ポケモン　いるかなって{0xBE00}[0x000A]いって　みたんだ！
+msg_main0300_rival_05=でも　そこに　いたのは[0x000A]……きいて　おどろくなよ
+msg_main0300_rival_06=ポケモンマニアの　マサキ　って[0x000A]ヤツ　なんかじゃ　なくて！！{0xBE01}[0x000A]ひとの　ことばを　しゃべる[0x000A]ポケモン　だったんだ！！
+msg_main0300_rival_07=……ひぃーッ　こええー！[0x000A]{0x0100,0x0000}も　ちかづく　なよ！
+msg_rival_01_p01_field_t005={0xBDFF:0x0008}
+msg_rival_01_p02_field_t005={0xBDFF:0x0009}
+msg_rival_01_p03_field_t005={0xBDFF:0x000A}
+msg_rival_01_p05_field_t005={0xBDFF:0x000B}
+msg_rival_01_p06_field_t005={0xBDFF:0x000C}

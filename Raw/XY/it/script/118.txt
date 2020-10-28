@@ -1,0 +1,24 @@
+Sono venuto qui a studiare i fossili di Pokémon.{0xBE01}
+Vedo che hai un fossile.[0x000A]Vuoi rigenerare un Pokémon?
+Ah! Hai già tanti Pokémon con te.[0x000A]Se sicuro di voler comunque{0xBE00}[0x000A]rigenerare un Pokémon?
+Quale fossile desideri utilizzare?
+Benissimo!{0xBE01}[0x000A]Ora da quest{0x1100,0x0000,0x0101}oa {0x0109,0x0000}[0x000A]prenderà vita un Pokémon!{0xBE01}
+Non vuoi rigenerare un Pokémon?[0x000A]Va bene, come preferisci.
+Grazie ai progressi della scienza, siamo in grado[0x000A]di rigenerare un Pokémon partendo da un fossile!
+Ho rigenerato un Pokémon[0x000A]dal fossile che mi hai consegnato!{0xBE01}[0x000A]È {0x1502,0x0001}{0x0101,0x0001}! Abbine cura!{0xBE01}
+{0x0100,0x0002} ottiene {0x1502,0x0001}{0x0101,0x0001}!
+Vuoi dare un soprannome {0x1508,0x0001}{0x0101,0x0001}[0x000A]appena ricevuto?
+Che peccato, non hai spazio per[0x000A]altri Pokémon!{0xBE01}[0x000A]Torna a prendere questo Pokémon più[0x000A]tardi. Intanto, me ne occuperò io!
+Torna a trovarmi quando[0x000A]avrai dei fossili!
+{0x0109,0x0003}
+{0x0109,0x0004}
+Radifossile
+Fossilunghia
+Helixfossile
+Domofossile
+Ambra Antica
+Fossilscudo
+Fossilcranio
+Fossiltappo
+Fossilpiuma
+Ripensandoci...

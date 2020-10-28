@@ -1,0 +1,8 @@
+msg_main0010_rival_04={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Hey, ich bin’s!
+msg_main0010_rival_05=Bist du schon auf den Beinen, {0x0100,0x0000}?[0x000A]Ich komme hoch!
+msg_main0010_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Morgen, {0x0100,0x0000}!
+msg_main0010_rival_08=Du schaust aber verdutzt aus der Wäsche...[0x000A]Bist noch nicht ganz wach, was?
+msg_main0010_rival_02=Ich bin überrascht, dass du überhaupt schlafen[0x000A]konntest. Heute ist doch unser großer Tag!{0xBE01}[0x000A]Der Tag, an dem wir endlich ein eigenes[0x000A]Pokémon kriegen!{0xBE01}[0x000A]Unser erster Tag als {0xFF00,0x0006}Pokémon-Trainer{0xFF00,0x0000}!{0xBE01}[0x000A]Los, komm! Wir dürfen keine Sekunde verlie--
+msg_main0010_rival_06=Ah! Sekunde.
+msg_main0010_rival_07=Hast du meine Mail von gestern gesehen?{0xBE01}[0x000A]Wenn nicht, dann lies sie dir lieber schnell noch[0x000A]durch. Da stehen wichtige Sachen drin.
+msg_main0010_rival_03=Ich geh schon mal vor, ja? Ich warte einfach bei[0x000A]Professor Eichs Labor!

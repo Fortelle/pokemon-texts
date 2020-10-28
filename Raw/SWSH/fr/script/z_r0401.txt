@@ -1,0 +1,4 @@
+msg_r0401_npc1_01=Je rêve d’avoir le même uniforme[0x000A]que mon Champion préféré !
+msg_r0401_npc2_01=Même si t{0x1101,0x00FD,0x0202}ones Pokémon {0x1101,0x00FD,0x0302}essont en pleine forme,[0x000A]ça ne fait de mal à personne de poser sa tente{0xBE00}[0x000A]pour faire un brin de cuisine !
+msg_r0401_npc2_02=Si t{0x1101,0x00FD,0x0202}ones Pokémon {0x1101,0x00FD,0x0302}essont un peu fatigué{0x1101,0x00FD,0x0100}s,[0x000A]pose donc ta tente pour te reposer !
+msg_r0401_npc_camp_01=Faire du camping avec ses Pokémon,[0x000A]jouer avec eux et même cuisiner pour eux...{0xBE01}[0x000A]Ce sont autant d’activités qui permettent[0x000A]de renforcer l’amitié qu’ils nous portent !{0xBE01}[0x000A]Si ça te dit, viens sur mon campement !

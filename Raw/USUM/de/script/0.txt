@@ -1,0 +1,132 @@
+Willkommen bei der Kampfagentur!
+Bei der Kampfagentur kannst du ein Pokémon[0x000A]ausleihen und Gäste auf deinem Festival-Plaza{0xBE00}[0x000A]in dein Team einladen, um gemeinsam zum{0xBE00}[0x000A]Kampf anzutreten.{0xBE01}[0x000A]Du schlüpfst hier in die Rolle eines Agenten und[0x000A]erhältst einen Rang, der ausdrückt, wie gut du{0xBE00}[0x000A]dich in der Kampfagentur machst.{0xBE01}[0x000A]Dir stehen schon zu Beginn starke Pokémon zur[0x000A]Verfügung, aber auf höheren Rängen kannst{0xBE00}[0x000A]du dir noch stärkere Pokémon ausleihen!{0xBE01}[0x000A]Ziel ist es, so weit wie möglich im Rang[0x000A]aufzusteigen.{0xBE01}[0x000A]Also dann...
+Du hast bereits eine Mission begonnen.{0xBE01}[0x000A]Wenn du noch {0x0200,0x0000} Mission{0x1101,0x0000,0x0200}en erfolgreich[0x000A]abschließt, steigst du im Rang auf.
+Du bist auf Rang {0x0201,0x0001}.[0x000A]Was möchtest du tun?
+Worüber möchtest du gerne mehr erfahren?
+Hier kannst du mit verschiedenen Pokémon zum[0x000A]Kampf antreten.{0xBE01}[0x000A]Jede Seite hat drei Pokémon und tritt mit ihnen[0x000A]in Einzelkämpfen an.{0xBE01}[0x000A]Bevor du loslegst, musst du dir an der Rezeption[0x000A]ein Pokémon ausleihen.{0xBE01}[0x000A]Die beiden anderen Pokémon werden von den[0x000A]anderen Trainern auf dem Festival-Plaza{0xBE00}[0x000A]gestellt.{0xBE01}[0x000A]Lade zwei Trainer in dein Team ein, die sich auf[0x000A]dem Festival-Plaza befinden, um in der{0xBE00}[0x000A]Kampfagentur antreten zu können.
+Hier kämpfst du nacheinander gegen[0x000A]verschiedene Trainer.{0xBE01}[0x000A]Bei mehreren Siegen in Folge erhältst du[0x000A]Festival-Münzen und andere Preise.{0xBE01}[0x000A]Besiegst du drei Trainer in Folge, gilt eine[0x000A]Mission als erfolgreich abgeschlossen.{0xBE01}[0x000A]Je mehr Missionen du abschließt, desto weiter[0x000A]steigst du im Rang auf.{0xBE01}[0x000A]Und je höher dein Rang, desto stärker die[0x000A]Pokémon, die du ausleihen kannst.{0xBE01}[0x000A]Andere Trainer können sehen, mit welchem[0x000A]Pokémon du antrittst und laden dich{0xBE00}[0x000A]möglicherweise ein, gemeinsam zu kämpfen!{0xBE01}[0x000A]Versuche, durch mehrere Siege in Folge im Rang[0x000A]aufzusteigen und die Kampfagentur zu meistern!
+Besuche uns bald wieder.
+Du hast {0x0101,0x0001} ausgeliehen.[0x000A]Möchtest du ein anderes Pokémon auswählen?
+Derzeit stehen dir diese Pokémon zur[0x000A]Verfügung. Welches möchtest du ausleihen?
+Du hast dir {0x0101,0x0001} ausgeliehen.
+Wessen Pokémon möchtest du dir näher[0x000A]ansehen?
+Dein Team ist bereits vollständig.[0x000A]Möchtest du andere Trainer auswählen?
+Welchen Trainer möchtest du austauschen?
+Wen möchtest du einladen?
+{0x0100,0x0000} wurde in dein Team eingeladen.
+Oh! Wie ich sehe, hast du das Spiel beim letzten[0x000A]Besuch nicht gespeichert.{0xBE01}[0x000A]In diesem Fall musst du die Mission leider von[0x000A]vorne beginnen.
+Wähle zuerst, welches Pokémon du ausleihen[0x000A]möchtest.
+Da dein Team nicht vollständig ist, werde ich[0x000A]dir jemanden an die Seite stellen.
+Also dann! Auf geht’s!
+Zunächst möchte ich dir die Trainer vorstellen,[0x000A]die an deiner Seite kämpfen werden.
+Möge die {0x0200,0x0000}. Runde beginnen![0x000A]Auf einen guten Kampf!
+Was für ein Sieg! Fabelhaft!
+Du hast {0x0201,0x0005} FM erhalten.
+Möchtest du mit der {0x0200,0x0000}. Runde weitermachen?
+In Runde {0x0200,0x0000} erwartet dich jetzt ein Bosskampf.[0x000A]Möchtest du weitermachen?
+Möchtest du eine Pause einlegen?
+Herzlichen Glückwunsch! Mission erfolgreich[0x000A]abgeschlossen!
+Was für ein spektakulärer Bosskampf![0x000A]Wirklich hervorragend gemacht!{0xBE01}[0x000A]Das hier ist für dich.
+Versuche nun, fünf Kämpfe in Folge für dich zu[0x000A]entscheiden. Viel Glück!
+Du hast jetzt Rang {0x0201,0x0000} erreicht! Gratuliere!
+Diese Einrichtung ist derzeit noch geschlossen.[0x000A]Der Chef wird dich höchstpersönlich einladen,{0xBE00}[0x000A]wenn wir den Betrieb aufgenommen haben.
+Dein erster Gegner setzt {0x0101,0x0000},[0x000A]{0x0101,0x0001} und {0x0101,0x0002} ein.
+Dein zweiter Gegner setzt {0x0101,0x0000},[0x000A]{0x0101,0x0001} und {0x0101,0x0002} ein.
+Dein dritter Gegner setzt {0x0101,0x0000},[0x000A]{0x0101,0x0001} und {0x0101,0x0002} ein.
+Was deinen vierten und fünften Gegner angeht...[0x000A]Seine Pokémon bleiben ein Geheimnis!
+Schade... Bitte versuche es erneut!
+{0x01B7,0x0000}
+Kämpfen
+Tipps zu den Gegnern
+Pokémon auswählen
+Gewählte Pokémon ansehen
+Trainer einladen
+Pokémon der Trainer ansehen
+Erklärung anhören
+Beenden
+Über die Einrichtung
+Über die Regeln
+Ja
+Nein
+Bericht
+{0x0101,0x0000}
+{0x0101,0x0001}
+{0x0101,0x0002}
+{0x0100,0x0000}
+{0x0100,0x0001}
+Ändern
+Pokémon ansehen
+Weiterkämpfen
+Pause einlegen
+Kampfvideo speichern
+Ausleihen
+{0xBDFF:0x003E}
+{0xBDFF:0x003F}
+Vor dir siehst du die Rezeption meiner neuesten[0x000A]Errungenschaft, der Kampfagentur!
+Aber eins nach dem anderen. Zuerst musst du[0x000A]dir hier ein Pokémon ausleihen.
+Dabei hast du die Wahl zwischen[0x000A]drei verschiedenen Pokémon.
+Wenn du dich entschieden hast, musst du nur[0x000A]noch zwei andere Trainer in dein Team einladen.
+Natürlich solltest du jemanden finden,[0x000A]der starke Pokémon aufweist.
+Dann könnt ihr Seite an Seite kämpfen,[0x000A]um wertvolle Preise einzuheimsen!
+Je öfter du gewinnst, desto weiter steigst du[0x000A]im Rang auf.
+Und je höher dein Rang, desto stärker die[0x000A]Pokémon, mit denen du kämpfen kannst!
+Also kämpfe, was das Zeug hält, und versuche,[0x000A]so weit wie möglich im Rang aufzusteigen!
+Damit wäre meine kleine Einführung auch schon[0x000A]beendet. Probier’s doch gleich mal aus!
+Zurück
+Kampfvorbereitung
+Gut! Gehen wir zur Kampfvorbereitung über.
+Du hast nicht genug Trainer eingeladen.[0x000A]Bitte vervollständige zuerst dein Team.
+Wie möchtest du dich vorbereiten?
+Möchtest du dieses Pokémon ausleihen?
+Wie es scheint, sind noch keine Trainer hier, die[0x000A]du in dein Team einladen könntest.{0xBE01}[0x000A]Nutze StreetPass, um andere Trainer zu treffen[0x000A]und sie in dein Team einladen zu können.
+Für deinen Triumph erhältst du Festival-Münzen.
+Hier, für dich!
+Hä?! Wer bist du denn?[0x000A]Egal! Dich mach ich platt!{0x0114,0x0033}
+Du hast es weit gebracht...[0x000A]Dann machen wir doch mal Ernst!{0x0114,0x0010}
+...{0x0114,0x0020}
+Wenn du noch {0x0200,0x0001} Mission{0x1101,0x0001,0x0200}en erfolgreich[0x000A]abschließt, steigst du im Rang auf.
+Du hast bereits eine Mission begonnen.{0xBE01}[0x000A]Wenn du noch {0x0200,0x0000} Mission{0x1101,0x0000,0x0200}en erfolgreich[0x000A]abschließt, erwartet dich ein Bosskampf.
+Wenn du noch {0x0200,0x0000} Mission{0x1101,0x0000,0x0200}en erfolgreich[0x000A]abschließt, erwartet dich ein Bosskampf.
+Du hast Rang 50 erreicht! Du hast die[0x000A]Kampfagentur tatsächlich gemeistert!{0xBE00}[0x000A]Einfach fabelhaft!{0xBE01}[0x000A]Von nun an erhältst du einen Preis nach jeweils[0x000A]fünf erfolgreich abgeschlossenen Missionen.
+Präge dir die Wechselwirkungen zwischen den[0x000A]Pokémon-Typen gut ein.{0xBE01}[0x000A]Die jeweiligen Stärken und Schwächen deiner[0x000A]Pokémon zu kennen ist der Schlüssel zum Sieg.
+Denk daran, dass du Pokémon im Kampf[0x000A]auswechseln kannst.{0xBE01}[0x000A]Bist du dem Typ des Gegners gegenüber im[0x000A]Nachteil, ist ein Wechsel oft eine gute Idee.
+Hast du ein Auge darauf, welche Fähigkeiten[0x000A]Pokémon besitzen?{0xBE01}[0x000A]Pokémon derselben Art können unterschiedliche[0x000A]Fähigkeiten haben.
+Manchmal ist Verteidigung wichtiger als Angriff.{0xBE01}[0x000A]Attacken, die den Status von Pokémon[0x000A]verändern, sind auch oft nützlich.
+Wenn es absehbar ist, dass dein Gegner mit[0x000A]einer sehr effektiven Attacke angreift, lohnt{0xBE00}[0x000A]es sich, das Pokémon auszutauschen.
+Achtest du auf Statusveränderungen des[0x000A]gegnerischen Pokémon?{0xBE01}[0x000A]Tippe im Kampf auf das Symbol des Gegners[0x000A]und schon siehst du alle Statusveränderungen.
+Behalte stets im Auge, ob ein Pokémon eher[0x000A]physische oder Spezial-Attacken beherrscht.{0xBE01}[0x000A]Ist dein Gegner stark gegen Spezial-Attacken,[0x000A]hilft es vielleicht, ihm mit physischen Attacken{0xBE00}[0x000A]zuzusetzen.
+Selbst wenn die Stärke zweier Attacken gleich[0x000A]ist, richtet eine Attacke, die denselben Typ wie{0xBE00}[0x000A]das Pokémon hat, mehr Schaden an.
+Das Pokémon mit der höheren Initiative greift[0x000A]zuerst an.{0xBE01}[0x000A]Es lohnt sich daher, die Werte zu vergleichen[0x000A]und eine entsprechende Strategie zu entwerfen.
+Beherrscht dein Pokémon im Kampf keine[0x000A]Attacke mit sehr effektiver Wirkung, tausche es{0xBE00}[0x000A]doch mal gegen ein anderes aus.
+Jetzt nur noch ein angemessenes Styling und[0x000A]dann kann es auch schon losgehen. Viel Erfolg!
+Du hast Rang {0x0201,0x0000} erreicht.[0x000A]Herzlichen Glückwunsch!{0xBE01}[0x000A]Hier, für dich. Die steht dir bestimmt gut!
+Du hast eine Agentenbrille erhalten.
+Kampfprogramm wird installiert...[0x000A]Typ „{0x010E,0x0000}“
+Kampfprogramm wird installiert...[0x000A]Typ „{0x0100,0x0000}“
+Wähle nun, wen du in dein Team einladen[0x000A]möchtest.
+Als Nächstes musst du andere Trainer in dein[0x000A]Team einladen, aber wie ich sehe, ist noch{0xBE00}[0x000A]niemand hier, den du einladen könntest.{0xBE01}[0x000A]Nutze StreetPass, um andere Trainer zu treffen[0x000A]und sie in dein Team einladen zu können.
+Wähle „Kämpfen“, wenn du so weit bist.
+Mission erfolgreich abgeschlossen!{0xBE01}[0x000A]Dir wurde in Anerkennung deiner Fähigkeiten[0x000A]ein Rang verliehen.{0xBE01}[0x000A]Wir freuen uns auf weitere Erfolge!
+Da du Rang {0x0201,0x0000} erreicht hast, führen wir nun[0x000A]veränderte Kampfumgebungen ein, um deine{0xBE00}[0x000A]Fähigkeiten zusätzlich auf die Probe zu stellen.{0xBE01}[0x000A]Das bedeutet, dass zu Kampfbeginn jetzt[0x000A]Wetterphänomene sowie Feldeffekte auftreten.{0xBE01}[0x000A]Versuche, je nach aktueller Kampfumgebung[0x000A]Pokémon-Typen und Attacken strategisch klug{0xBE00}[0x000A]auszuwählen.{0xBE01}[0x000A]Du kannst übrigens auf dem Festival-Plaza in[0x000A]der Mischbude „Wechseldich“ Pokémon{0xBE00}[0x000A]austauschen.
+Die Kampfumgebung wurde heute nicht[0x000A]verändert.
+Die heutige Kampfumgebung ist:[0x000A]„Sonne“
+Die heutige Kampfumgebung ist:[0x000A]„Regen“
+Die heutige Kampfumgebung ist:[0x000A]„Hagelsturm“
+Die heutige Kampfumgebung ist:[0x000A]„Sandsturm“
+Die heutige Kampfumgebung ist:[0x000A]„Elektrofeld“
+Die heutige Kampfumgebung ist:[0x000A]„Nebelfeld“
+Die heutige Kampfumgebung ist:[0x000A]„Psychofeld“
+Die heutige Kampfumgebung ist:[0x000A]„Grasfeld“
+Die heutige Kampfumgebung ist:[0x000A]„gleißende Sonne“
+Die heutige Kampfumgebung ist:[0x000A]„strömender Regen“
+Die heutige Kampfumgebung ist:[0x000A]„rätselhafte Luftströmungen“
+{0xBDFF:0x007A}
+{0xBDFF:0x007B}
+{0xBDFF:0x007C}
+{0xBDFF:0x007D}
+{0xBDFF:0x007E}
+{0xBDFF:0x007F}
+{0xBDFF:0x0080}
+{0xBDFF:0x0081}
+{0xBDFF:0x0082}
+Als Dankeschön für deine Teilnahme erhältst du[0x000A]Festival-Münzen.

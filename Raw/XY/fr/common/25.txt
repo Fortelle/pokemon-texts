@@ -1,0 +1,42 @@
+Nom :
+{0x0100,0x0000}
+Nº ID :
+{0x0204,0x0000,0xE07F}
+Pokédex :
+{0x0202,0x0000}
+
+Argent :
+{0x0206,0x0000,0xE07F} $
+{0xBDFF:0x0009}
+Temps de jeu :
+{0x0202,0x0000}
+:
+{0x0201,0x0001}
+Début de l’aventure :
+{0x0201,0x0002}/{0x0201,0x0001}/{0x0203,0x0000,0x0000}
+Infos Dresseur
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+1[0xE08B] entrée au Panthéon :
+Poké Miles :
+{0x0206,0x0000,0xE07F}
+Badge Coléoptère[0x000A]Championne : Violette
+Badge Mur[0x000A]Champion : Lino
+Badge Lutte[0x000A]Championne : Cornélia
+Badge Végétal[0x000A]Champion : Amaro
+Badge Tension[0x000A]Champion : Lem
+Badge Nymphe[0x000A]Championne : Valériane
+Badge Psychisme[0x000A]Championne : Astera
+Badge Iceberg[0x000A]Champion : Urup
+Championne : Violette
+Champion : Lino
+Championne : Cornélia
+Champion : Amaro
+Champion : Lem
+Championne : Valériane
+Championne : Astera
+Champion : Urup

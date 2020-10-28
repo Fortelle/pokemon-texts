@@ -1,0 +1,11 @@
+msg_strinput_01_01=What is your name?
+msg_strinput_01_02=What would you like to nickname your {0x0101,0x0000}?
+msg_strinput_01_03=Please enter the code or password.
+msg_strinput_01_04=What is your rival’s name?
+msg_strinput_01_05=Please enter a name.
+msg_strinput_NG_00=That name contains a word you can’t use.
+msg_strinput_NG_01={0xBDFF:0x0006}
+msg_strinput_NG_02={0xBDFF:0x0007}
+msg_strinput_NG_04=Please enter a name.
+msg_strinput_NG_05=The code or password is invalid.
+msg_strinput_NG_06=You can’t use “{0x012D,0x0000}” in a name.

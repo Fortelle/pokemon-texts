@@ -1,0 +1,15 @@
+Bonjour[0xE07F]! J’ai une question : voyages-tu[0x000A]encore avec un Pokémon que tu as reçu{0xBE00}[0x000A]d’un Doyen[0xE07F]?{0xBE01}[0x000A]Car je peux lui apprendre une capacité[0x000A]très spéciale : la capacité fusion[0xE07F]!{0xBE01}[0x000A]Je ne peux toutefois l’enseigner qu’aux[0x000A]Pokémon assez attachés à leur Dresseur...
+Veux-tu que j’enseigne une capacité fusion[0x000A]à l’un de tes Pokémon[0xE07F]?
+Je ne peux enseigner aucune capacité[0x000A]à ton équipe actuelle...
+Je vois... À bientôt, alors[0xE07F]!
+À quel Pokémon veux-tu que j’enseigne[0x000A]une capacité[0xE07F]?
+Je ne peux pas enseigner ma capacité spéciale[0x000A]à ce Pokémon...
+Quoi[0xE07F]? Tu veux que j’apprenne cette capacité[0x000A]à un Œuf[0xE07F]? C’est une blague, j’espère[0xE07F]?
+J’ai bien peur que ton lien avec ce Pokémon[0x000A]ne soit pas assez fort.
+Hmmm... Je peux me tromper, mais il me semble[0x000A]que ce Pokémon connaît déjà cette capacité[0xE07F]!
+Veux-tu que j’enseigne la capacité[0x000A]{0x0107,0x0001} à {0x0101,0x0000}[0xE07F]?
+Mes Pokémon préférés, ce sont tous ceux[0x000A]qu’on peut recevoir d’un Professeur Pokémon{0xBE00}[0x000A]ou d’un Doyen, et toutes leurs évolutions[0xE07F]!{0xBE01}[0x000A]Je les aime tellement que j’ai décidé de[0x000A]leur enseigner des capacités spéciales :{0xBE00}[0x000A]les capacités fusion[0xE07F]!{0xBE01}[0x000A]Ne me remercie pas, ça me fait plaisir[0xE07F]!
+Choisissez une capacité à oublier pour faire[0x000A]place à {0x0107,0x0000}.
+{0x0102,0x0000} apprend[0x000A]{0x0107,0x0001}[0xE07F]!{0xBE05,0x0004}{0xBE05,0x0001}
+1{0xBE02:0x0014}, 2{0xBE02:0x0014}, {0xBE02:0x0014}[0xE08D] {0xBE02:0x0014}[0xE08D] Tadaaa[0xE07F]!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} oublie[0x000A]{0x0107,0x0001}.{0xBE01}[0x000A]Et[0xE08D]{0xBE01}[0x000A]Il apprend {0x0107,0x0002}[0xE07F]!{0xBE05,0x0004}{0xBE05,0x0001}
+{0x0102,0x0000} n’a pas appris[0x000A]{0x0107,0x0001}.

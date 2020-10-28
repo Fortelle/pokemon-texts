@@ -1,0 +1,15 @@
+Hola, {0x0100,0x0000}. Hacía un tiempo que no[0x000A]te veía...{0xBE01}[0x000A]Por cierto, el Profesor Kukui te está esperando[0x000A]en el parque.{0x0114,0x0006}
+Oye, {0x0100,0x0000}...[0x000A]¿Te importa si te pregunto una cosa?{0x0114,0x0006}
+¿Cos...?
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+¿Quieres ir a las ruinas?
+¿Le pasa algo a Nebulilla?
+Sí. Quiero acompañar a mi pequeñín a las ruinas[0x000A]de Ula-Ula...{0xBE01}[0x000A]Pero están en medio de un gran desierto y no[0x000A]quiero pedirte imposibles.{0xBE01}[0x000A]El caso es que hay algo más...{0x0114,0x0006}
+Ahora mismo me dirigía a la Biblioteca de Malíe.{0xBE01}[0x000A]Hay un libro que querría leer y me gustaría que[0x000A]lo buscáramos junt{0x1100,0x00FF,0x0101}oas.{0x0114,0x0006}
+La biblioteca está en el centro de la ciudad.[0x000A]No tiene pérdida, ni siquiera para mí.{0x0114,0x0006}
+¡Cosmog!

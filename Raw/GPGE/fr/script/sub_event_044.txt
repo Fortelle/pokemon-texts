@@ -1,0 +1,10 @@
+msg_sub044_rocketchief_01={0xFF00,0x0009}Amos :{0xFF00,0x0000} Oh, c’est toi...
+msg_sub044_rocketchief_02=Qu’es-tu venu{0x1100,0x00FF,0x0100}e faire ici ?{0xBE01}[0x000A]À cause de toi, la Team Rocket est dissoute.[0x000A]Que veux-tu de plus ?
+msg_sub044_rocketchief_03=D’ordinaire, je ne me laisse pas submerger par[0x000A]mes émotions, mais t’avoir ici devant mes yeux...{0xBE01}[0x000A]Je ne peux m’empêcher de laisser éclater[0x000A]ma colère ! Prépare-toi !
+msg_sub044_rocketchief_04=... Bah, qu’importe, à présent...
+msg_sub044_rocketchief_05=À dire vrai, je m’attendais à ce que tu reviennes[0x000A]ici. J’ai d’ailleurs écrit une lettre à ton attention.
+msg_sub044_rocketchief_09=Je peux te la lire directement.
+msg_sub044_rocketchief_06=« {0x0100,0x0000},[0x000A]Félicitations pour ta victoire à la Ligue Pokémon.{0xBE01}[0x000A]D’un côté, je ne peux m’empêcher de t’être[0x000A]reconnaissant d’avoir démantelé la Team Rocket.{0xBE01}[0x000A]Cela va me permettre de partir sur des bases[0x000A]saines pour monter une nouvelle cellule encore{0xBE00}[0x000A]plus puissante.{0xBE01}[0x000A]Avec elle, je restaurerai notre gloire passée,[0x000A]et tu ne pourras pas nous en empêcher !{0xBE01}[0x000A]Je quitte Kanto pour le moment, et je compte[0x000A]sur toi pour ne pas me suivre et rester ici{0xBE00}[0x000A]à jamais.{0xBE01}[0x000A]Mes adieux les plus sincères,{0xBE01}[0x000A][0x000A]— Amos »
+msg_sub044_rocketchief_07={0xFF00,0x0009}Amos :{0xFF00,0x0000} Je n’ai aucune idée de ce que je[0x000A]comptais t’inspirer en écrivant cette lettre...
+msg_sub044_system_01=Amos a déchiré la lettre.
+msg_sub044_rocketchief_08=... Sur ce, porte-toi bien.

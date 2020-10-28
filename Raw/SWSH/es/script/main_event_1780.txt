@@ -1,0 +1,12 @@
+main_event_1780_rival_01=¡Ey! ¡Ya no queda nada para el gran combate!{0x0114,0x0005}
+main_event_1780_rival_02=Por ser tú, he venido a animarte.{0x0114,0x0005}
+main_event_1780_rival_03=Aunque me ha costado decidirme...{0x0114,0x0005}
+main_event_1780_rival_04=Al fin y al cabo, ¡es un combate entre mi rival y[0x000A]mi hermano! No es una decisión fácil.{0x0114,0x0005}
+main_event_1780_poke1_01=¡Cindeeer!
+main_event_1780_poke2_01=Teleooon...
+main_event_1780_poke3_01=¡Boom, boom!
+main_event_1780_rival_05=Pero después de mucho pensar, y de recordar el[0x000A]inicio de nuestro viaje juntos en Pueblo Yarda...{0xBE01}[0x000A]¡He decidido apoyarte a ti, {0x0100,0x0000}!{0x0114,0x0005}
+main_event_1780_rival_06=¡Tienes que ganar! Si hay alguien capaz de[0x000A]arrebatarle el título de imbatible a mi hermano,{0xBE00}[0x000A]¡es{0x1100,0x00FF,0x0101}ea eres tú!{0x0114,0x0005}
+main_event_1780_poke1_02=¡Cindeeer!
+main_event_1780_poke2_02=Teleooon...
+main_event_1780_poke3_02=¡Boom, boom!

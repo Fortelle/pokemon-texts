@@ -1,0 +1,59 @@
+Salve, qui puoi comprare[0x000A]del Succodibacca pregiato!{0xBE01}[0x000A]Che ne diresti di far gustare un bel[0x000A]Succodibacca ai tuoi Pokémon?{0xBE01}[0x000A]Ecco il nostro menu del giorno.
+Benvenut{0x1100,0x00FF,0x0101}oa, qui puoi comprare[0x000A]del Succodibacca pregiato!{0xBE01}[0x000A]Ecco il nostro menu del giorno.
+Purtroppo, le nostre specialità si possono[0x000A]gustare solo una volta al giorno...{0xBE01}[0x000A]Mi dispiace, ma devo chiederti di tornare[0x000A]domani.
+Una tazza di {0x0198,0x0003}[0x000A]costa ${0x0206,0x0001,0x002E}. Va bene?
+Ehi... Un Uovo non può bere!
+Spiacente...[0x000A]Non hai abbastanza soldi.
+Spero che il tuo Pokémon abbia gradito[0x000A]la specialità di oggi.{0xBE01}[0x000A]Domani ne preparerò ancora!
+Capisco... Comunque,[0x000A]torna quando vuoi.
+Bene, allora sono ${0x0206,0x0001,0x002E}.
+{0x0198,0x0003}: {0xBD03,0x0000}${0x0204,0x0002,0x002E}
+Esci
+Salve, qui puoi comprare[0x000A]del Succodibacca fresco!{0xBE01}[0x000A]Scegli due delle tue bacche e preparerò[0x000A]un succo gustoso e originale.{0xBE01}[0x000A]Che ne dici?[0x000A]Vuoi che ti prepari qualcosa?
+Benvenut{0x1100,0x00FF,0x0101}oa, qui puoi comprare[0x000A]del Succodibacca fresco!{0xBE01}[0x000A]Vuoi che prepari un succo usando[0x000A]le tue bacche?
+Sono molto spiacente, ma posso[0x000A]preparare un solo succo al giorno...{0xBE01}[0x000A]Torna domani, per favore.
+Accidenti, non hai abbastanza bacche!{0xBE01}[0x000A]Me ne servono almeno due[0x000A]per preparare un succo.
+Perfetto! Scegli le bacche!
+Mmh... {0x0109,0x0001}, eh?[0x000A]Ottima scelta, complimenti!{0xBE01}[0x000A]Adesso scegli la seconda bacca.
+Mmh, {0x0109,0x0001}...[0x000A]Una scelta da intenditori!
+Ah, hai scelto un’altra {0x0109,0x0001}, eh?[0x000A]Hai proprio le idee chiare sulle bacche!
+Mescola, mescola...
+Mischia, mischia...
+Ta-daaa! Ecco un bel bicchiere di[0x000A]{0x0198,0x0003}!{0xBE01}[0x000A]A quale Pokémon vuoi darlo?
+Cosa?! Non lo vuoi più...?[0x000A]Guarda che me lo bevo io, eh?
+Uh uh uh... Ma che dici...?[0x000A]Non puoi darlo a un Uovo!
+Va bene, allora[0x000A]me lo bevo io!{0xBE01}[0x000A]Glu glu glu...{0xBE01}[0x000A]Aaah! Che buono!
+Spero che il tuo Pokémon sia soddisfatto![0x000A]Torna a trovarmi!
+Mmh... Mi dispiace... Comunque,[0x000A]torna a trovarmi quando vuoi!
+{0x0102,0x0000} beve {0x0198,0x0003}!
+{0x0102,0x0000} è felice!
+{0x0102,0x0000} è molto felice!
+{0x0102,0x0000} è al settimo cielo!
+I punti base dei PS di {0x0102,0x0000}[0x000A]aumentano di {0x0201,0x0001}!
+I punti base dell’Attacco[0x000A]di {0x0102,0x0000} aumentano di {0x0201,0x0001}!
+I punti base della Difesa[0x000A]di {0x0102,0x0000} aumentano di {0x0201,0x0001}!
+I punti base dell’Attacco Speciale[0x000A]di {0x0102,0x0000} aumentano di {0x0201,0x0001}!
+I punti base della Difesa Speciale[0x000A]di {0x0102,0x0000} aumentano di {0x0201,0x0001}!
+I punti base della Velocità[0x000A]di {0x0102,0x0000} aumentano di {0x0201,0x0001}!
+{0x0102,0x0000} sale di {0x0201,0x0001} livell{0x1101,0x0001,0x0101}oi!
+Le statistiche base di {0x0102,0x0000}[0x000A]vengono azzerate!
+Frappè colorato
+Succo giallo
+Succo rosso
+Succo viola
+Succo rosa
+Succo blu
+Succo verde
+Bibita rara
+Bibita favolosa
+Zuppa insidiosa
+Questo è un Frappè colorato.{0xBE01}[0x000A]In contrasto col suo colore brillante,[0x000A]ha un sapore incredibilmente delicato.{0xBE01}[0x000A]Se un Pokémon lo beve, si affezionerà[0x000A]ancora di più al suo Allenatore!
+Questo è un Succo giallo.{0xBE01}[0x000A]Ha un sapore caldo che ricorda[0x000A]il tepore del sole.{0xBE01}[0x000A]Se un Pokémon lo beve, i punti base[0x000A]della sua Difesa aumenteranno!
+Questo è un Succo rosso.{0xBE01}[0x000A]Ha un sapore vivace e intenso[0x000A]che trasmette una grande energia.{0xBE01}[0x000A]Se un Pokémon lo beve, i punti base[0x000A]del suo Attacco aumenteranno!
+Questo è un Succo viola.{0xBE01}[0x000A]Dal sapore delicato, è corposo[0x000A]e nutriente.{0xBE01}[0x000A]Se un Pokémon lo beve, i punti base[0x000A]dei suoi PS aumenteranno!
+Questo è un Succo rosa.{0xBE01}[0x000A]Dall’aroma delicato e dal sapore leggero,[0x000A]va giù che è una bellezza.{0xBE01}[0x000A]Se un Pokémon lo beve, i punti base[0x000A]della sua Velocità aumenteranno!
+Questo è un Succo blu.{0xBE01}[0x000A]Ha un sapore maturo e un gusto potente.{0xBE01}[0x000A]Se un Pokémon lo beve, i punti base[0x000A]del suo Attacco Speciale aumenteranno!
+Questo è un Succo verde.{0xBE01}[0x000A]Ha un sapore amarognolo che fa pensare[0x000A]al verde profondo di una foresta.{0xBE01}[0x000A]Se un Pokémon lo beve, i punti base[0x000A]della sua Difesa Speciale aumenteranno!
+Questa è una Bibita rara.{0xBE01}[0x000A]Ha un sapore innovativo,[0x000A]oserei dire rivoluzionario!{0xBE01}[0x000A]Se un Pokémon la beve,[0x000A]salirà di livello!
+Questa è una Bibita favolosa.{0xBE01}[0x000A]Ha un gusto esplosivo in grado di far[0x000A]vedere tutte le stelle del cosmo.{0xBE01}[0x000A]Se un Pokémon la beve,[0x000A]salirà di livello!
+Questa è una Zuppa insidiosa.{0xBE01}[0x000A]Ha un sapore terrificante e pericoloso[0x000A]che ricorda il brodo primordiale...{0xBE01}[0x000A]Se un Pokémon la assaggia,[0x000A]i suoi punti base verranno azzerati!

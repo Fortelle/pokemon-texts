@@ -1,0 +1,7 @@
+msg_main0420_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¡Por aquí, {0x0100,0x0000}!
+msg_main0420_rival_02=Si subes por estas escaleras, llegarás al[0x000A]despacho del capitán.{0xBE01}[0x000A]¡Te recomiendo que vayas a hablar con él para[0x000A]que te enseñe su {0xFF00,0x0006}Técnica Secreta{0xFF00,0x0000}!
+msg_main0420_rival_06=Aunque parece que el meneíllo del barco no le[0x000A]sienta muy bien.
+msg_main0420_rival_03=Pero antes de eso... ¿por qué no me muestras[0x000A]cuánto has entrenado a tu{0x1101,0x00FD,0x0100}s Pokémon?
+msg_main0420_dummy_01={0xBDFF:0x0004}
+msg_main0420_rival_04={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Uf... Nada, eres demasiado[0x000A]fuerte, no puedo vencerte...
+msg_main0420_rival_05=Pero bueno, ¡no te preocupes por mí!{0xBE01}[0x000A]Ve a hablar con el capitán para que te enseñe[0x000A]su {0xFF00,0x0006}Técnica Secreta{0xFF00,0x0000}.{0xBE01}[0x000A]¡Hasta luego!

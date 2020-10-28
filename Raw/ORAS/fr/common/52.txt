@@ -1,0 +1,40 @@
+Chercher une Base Secrète
+Partager votre Base Secrète
+Composer votre message
+Sauvegarder le code sur la carte SD
+Vous pouvez scanner le QR Code de la Base[0x000A]Secrète d’un autre joueur.{0xBE01}[0x000A]Ce QR Code contient la disposition de sa base[0x000A]et son message d’accueil.{0xBE01}[0x000A]Voulez-vous continuer[0xE07F]?
+Vous pouvez créer un QR Code correspondant[0x000A]à votre Base Secrète.{0xBE01}[0x000A]Il contiendra les informations sur la disposition[0x000A]de votre base et votre message d’accueil.{0xBE01}[0x000A]Le QR Code peut être enregistré sur[0x000A]votre carte SD.
+Activation de l’appareil photo numérique[0x000A]extérieur…
+Veuillez cadrer le QR Code dans le carré vert[0x000A]sur l’écran supérieur, puis appuyez sur[0x000A]le bouton A.
+Lecture des données en cours…
+Données enregistrées.
+Échec de la lecture des données.
+Cette Base Secrète se trouve au même[0x000A]endroit que celle d’un joueur enregistré{0xBE00}[0x000A]dans votre liste de favoris :{0xBE00}[0x000A]{0x0100,0x0000}.{0xBE01}[0x000A]Les données ne peuvent pas être lues.
+Votre liste de favoris est pleine.[0x000A]Les données ne peuvent pas être enregistrées.{0xBE01}[0x000A]Vous pouvez libérer de l’espace en effaçant[0x000A]des Bases Secrètes de votre liste de favoris.
+Vous ne pouvez pas scanner le QR Code[0x000A]de votre propre Base Secrète.
+Création du QR Code en cours…
+Création du QR Code réussie[0xE07F]!
+Échec de la création du QR Code.[0x000A]Veuillez réessayer.
+Sauvegarde sur la carte SD en cours…
+Sauvegarde sur la carte SD réussie[0xE07F]!
+Échec de la sauvegarde. L’espace libre[0x000A]sur votre carte SD est insuffisant.
+{0xBDFF:0x0014}
+Pokémon Rubis Oméga
+Pokémon Saphir Alpha
+{0x0100,0x0001}
+{0x0205,0x0002,0xE07F}
+Base de : {0x0100,0x0003}
+Viens chez moi[0xE07F]!
+{0x01AB,0x0004}
+Lire un QR Code
+Échec de la lecture du QR Code.[0x000A]Veuillez réessayer.
+Que voulez-vous faire[0xE07F]?
+Composez un bref message pour vos visiteurs,[0x000A]puis enregistrez votre QR Code.
+Base de la Team {0x01AA,0x0000}
+Les Bases Secrètes dont vous scannez le[0x000A]QR Code sont automatiquement ajoutées{0xBE00}[0x000A]à votre liste de favoris.{0xBE01}[0x000A]Notez cependant que si votre liste est pleine,[0x000A]vous ne pourrez plus scanner de QR Code.
+Cette Base Secrète se trouve au même[0x000A]endroit que celle d’un de vos Amis Secrets :{0xBE00}[0x000A]{0x0100,0x0000}.{0xBE01}[0x000A]Les données ne peuvent pas être lues.
+Cette Base Secrète se trouve au même[0x000A]endroit que la vôtre.{0xBE01}[0x000A]Les données ne peuvent pas être lues.
+Oui
+Non
+La réserve de photos de l’appareil photo[0x000A]Nintendo 3DS est pleine.{0xBE00}[0x000A]Sauvegarde impossible.
+Sauvegarde du QR Code impossible.

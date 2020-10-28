@@ -1,0 +1,14 @@
+msg_t0501_g0101_npc1_01=Many challengers have already given up their[0x000A]Gym Challenges...but you and your Pokémon{0xBE00}[0x000A]have been hanging in there!
+msg_t0501_g0101_npc1_02=I was about to give up, but watching your battle[0x000A]inspired me. I decided I’d keep going!
+msg_t0501_g0101_npc2_01=I’m doing my Gym Challenge while I’m raising[0x000A]my Pokémon, but I may have to change my{0xBE00}[0x000A]team members.
+msg_t0501_g0101_npc2_02=I’ll learn from the battle you had against the[0x000A]Fighting-type Gym Leader.
+msg_t0501_g0101_npc3_01=You’ve come all the way to Stow-on-Side.[0x000A]So be sure to win!
+msg_t0501_g0101_npc3_02=Yay! You won![0x000A]{0x1003}{0x0100,0x0000}, you’re so wicked!
+msg_t0501_g0101_npc3_03={0xBDFF:0x0006}
+msg_t0501_g0101_poke1_01_pop=Buzzzirp!
+msg_t0501_g0101_npc4_01_pop=Oh![0x000A]I saw h{0x1100,0x00FF,0x0202}imer on the telly!
+msg_t0501_g0101_npc4_02_pop=You’re a really strong Trainer!
+msg_t0501_g0101_npc4_03_pop=Champion![0x000A]You’re brilliant!
+msg_t0501_g0101_npc5_01_pop=Oh! {0x1100,0x00FF,0x0201}HShe is a new[0x000A]Gym Challenger.
+msg_t0501_g0101_npc5_02_pop=I’m your fan now.
+msg_t0501_g0101_npc5_03_pop=Champion![0x000A]Galar is counting on you!

@@ -1,0 +1,39 @@
+{0x0181,0x0000}
+Dinero:
+{0x0206,0x0000,0xE07F} $
+¿Qué quieres comprar?
+Ver en el espejo
+Salir así
+Artículo comprado
+{0x0184,0x0000}
+¿Qué quieres ponerte?
+No hay artículos de este tipo.
+No hay artículos de este tipo.
+No hay artículos de este tipo.
+No hay artículos de este tipo.
+No hay artículos de este tipo.
+No hay artículos de este tipo.
+No hay artículos de este tipo.
+No hay artículos de este tipo.
+Te costará {0x0206,0x0000,0xE07F} $.[0x000A]¿Te parece bien?
+¿Quieres ponerte lo que acabas de comprar?
+¿Quieres ponerte los artículos que has[0x000A]seleccionado?
+¡Muchas gracias! Si quieres cambiarte, usa[0x000A]el probador.
+¡No tienes dinero suficiente!
+Ya has comprado este artículo.
+No se puede seleccionar este artículo ahora.
+Serán {0x0206,0x0000,0xE07F} $.{0xBE01}[0x000A]El peinado que llevas no te permite ponerte este[0x000A]accesorio. ¿Seguro que quieres comprarlo?
+Sí
+No
+Botón Y: Zoom[0x000A][0x000A]Botón L/R: Girar[0x000A][0x000A]Cruz de control/Botón deslizante: Mover la[0x000A]pantalla verticalmente
+Festimonedas
+{0x0206,0x0000,0xE07F} FM
+Elige el artículo que quieres teñir.
+¿Quieres teñir de ese color tu{0x1101,0x0000,0x0100}s[0x000A]{0x0181,0x0000}?
+Serán {0x0206,0x0000,0xE07F} FM.[0x000A]¿Te parece bien?
+¡Muchas gracias![0x000A]Chof, chif, chof...{0xBE01}[0x000A]Espera, que me ha quedado una esquina...[0x000A]Chof, chif, chof... rechof.{0xBE01}[0x000A]¡Ahora! ¡Aquí tienes!{0xBE01}
+¿Quieres ponerte el artículo que acabas de[0x000A]teñir?
+No tienes suficientes Festimonedas.
+No tienes artículos que se puedan teñir.
+Y de paso, te hago otra foto de pasaporte.[0x000A]¡Totalmente gratis!
+¿Qué artículo quieres teñir?

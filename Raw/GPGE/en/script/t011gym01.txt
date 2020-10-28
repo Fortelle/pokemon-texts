@@ -1,0 +1,4 @@
+msg_t011gym01_gym_01=Sabrina’s Pokémon use psychic power to[0x000A]perplex your Pokémon.{0xBE01}[0x000A]Fighting-type Pokémon are especially weak[0x000A]against Psychic-type moves.{0xBE01}[0x000A]They’ll get destroyed before they can even aim[0x000A]a punch!
+msg_t011gym01_gym_02=Psychic power, huh?{0xBE01}[0x000A]Man, if I had that kind of power, I’d...[0x000A]Oh, and then I could also... Heh heh heh!{0xBE00}[0x000A]And nobody would even know!
+msg_t011gym01_statue_01=Saffron City Pokémon Gym[0x000A]Gym Leader: Sabrina{0xBE01}[0x000A]Certified Trainers:[0x000A]{0x0100,0x0001}
+msg_t011gym01_statue_02=Saffron City Pokémon Gym[0x000A]Gym Leader: Sabrina{0xBE01}[0x000A]Certified Trainers:[0x000A]{0x0100,0x0001}, {0x0100,0x0000}

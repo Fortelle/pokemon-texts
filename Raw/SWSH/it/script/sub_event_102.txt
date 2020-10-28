@@ -1,0 +1,12 @@
+msg_sub_event_102_start=È un Distributore.[0x000A]Che bibita vuoi?
+msg_sub_event_102_menu_item={0x0109,0x0000} {0xBD03,0x0000}{0x0202,0x0001} [0xE300]
+msg_sub_event_102_menu_cancel=Esci
+msg_sub_event_102_cancel=Decidi di non comprare niente...
+msg_sub_event_102_not_have=Hai raggiunto il limite per questo strumento!
+msg_sub_event_102_not_money=Non hai abbastanza soldi!
+msg_sub_event_102_appear_item=È uscit{0x1100,0x0000,0x0101}oa {0x1502,0x0000,0x0000}{0x0109,0x0000}!
+msg_sub_event_102_next=Vuoi comprare un’altra bibita?
+msg_sub_event_102_bingo=Che fortuna! È uscita un’altra bottiglia[0x000A]di {0x0109,0x0000}!
+msg_sub_event_102_soldout=È un Distributore.{0xBE01}[0x000A]Non c’è nessuna delle tue bibite preferite!
+msg_sub_event_102_select_01=Ne compro un’altra bottiglia
+msg_sub_event_102_select_02=Voglio comprare qualcos’altro

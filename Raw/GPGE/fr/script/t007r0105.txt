@@ -1,0 +1,9 @@
+msg_t007r0105_muscle_01=Comme c’est indiqué sur le panneau dehors,[0x000A]je sais tout sur tout !{0xBE01}[0x000A]Et je sais aussi qu’il y a tout un univers[0x000A]à l’intérieur de la Nintendo Switch !{0xBE01}[0x000A]Pour en profiter, il faut inviter un max d’amis[0x000A]et faire des échanges avec eux !
+msg_t007r0105_notebook_01=C’est un livre sur les CT.[0x000A]...{0xBE01}[0x000A]« Il existe en tout 60 CT (Capsules Techniques).[0x000A]— Sylphe SARL »
+msg_t007r0105_notebook_02=« Comment interagir avec d’autres joueurs ».[0x000A]Voulez-vous lire le tableau ?
+msg_t007r0105_notebook_03=« Choisissez COMMUNICATION dans le menu,[0x000A]puis JOUER AVEC UN AMI.{0xBE01}[0x000A]Sélectionnez ensuite la connexion locale[0x000A]ou par Internet, puis choisissez de procéder{0xBE00}[0x000A]à un échange ou à un combat.{0xBE00}[0x000A]Ensuite, vous n’avez plus qu’à entrer la même{0xBE00}[0x000A]série d’icônes que votre ami pour vous connecter.{0xBE01}[0x000A]Si vous avez choisi de combattre, vous pourrez[0x000A]aussi choisir les règles de l’affrontement. »
+msg_t007r0105_kokuban_01={0xBDFF:0x0004}
+msg_board_01_p02_t007_r0105={0xBDFF:0x0005}
+msg_board_01_p03_t007_r0105={0xBDFF:0x0006}
+msg_board_01_p04_t007_r0105={0xBDFF:0x0007}
+msg_board_01_p05_t007_r0105={0xBDFF:0x0008}

@@ -1,0 +1,14 @@
+msg_t006r0101_fat_01_01=Non è bella la coda del mio Pikachu?
+msg_t006r0101_fat_01_02=Bah, il mio Pikachu è molto più carino!
+msg_t006r0101_youngf_01_01=Io adoooro il mio Seel!{0xBE01}[0x000A]Devi vedere com’è contento quando[0x000A]l’abbraccio!
+msg_t006r0101_youngf_01_02=Pfff! Il mio Seel è molto più bello!
+msg_t006r0101_poke_01={0xFF00,0x0009}Pikachu:{0xFF00,0x0000} Pikachu!
+msg_t006r0101_poke_02={0xFF00,0x0009}Seel:{0xFF00,0x0000} Eeel!
+msg_t006r0101_stafff_01=Il presidente è veramente fissato con i Pokémon.
+msg_t006r0101_poster_01=Quando gli altri Allenatori parlano dei loro[0x000A]adorabili Pokémon, ascoltali con attenzione!
+msg_t006r0101_poster_02=Se qualcuno si vanta, fallo anche tu...[0x000A]Dieci volte tanto!
+msg_t006r0101_poster_03=Il mio fantastico Rapidash...
+msg_t006r0101_poster_04=Il mio caro Fearow...
+msg_t006r0101_poster_05=Io e i miei adorati Pokémon
+msg_t006r0101_poster_06=Io e i miei Pokémon:[0x000A]Diario di un’amicizia
+msg_workerw1_01_p02_t006_r0201={0xBDFF:0x000D}

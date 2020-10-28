@@ -1,0 +1,232 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+Prova
+Acquista
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+{0xBDFF:0x001A}
+{0xBDFF:0x001B}
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}
+{0xBDFF:0x001E}
+{0xBDFF:0x001F}
+{0xBDFF:0x0020}
+{0xBDFF:0x0021}
+{0xBDFF:0x0022}
+{0xBDFF:0x0023}
+{0xBDFF:0x0024}
+{0xBDFF:0x0025}
+{0xBDFF:0x0026}
+{0xBDFF:0x0027}
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+{0xBDFF:0x002A}
+{0xBDFF:0x002B}
+{0xBDFF:0x002C}
+{0xBDFF:0x002D}
+{0xBDFF:0x002E}
+{0xBDFF:0x002F}
+{0xBDFF:0x0030}
+{0xBDFF:0x0031}
+{0xBDFF:0x0032}
+{0xBDFF:0x0033}
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+{0xBDFF:0x0036}
+{0xBDFF:0x0037}
+{0xBDFF:0x0038}
+{0xBDFF:0x0039}
+Questo piano è specializzato[0x000A]in abiti e accessori femminili.{0xBE01}[0x000A]Mi spiace, ma temo che non[0x000A]troverai nulla che sia adatto a te...{0xBE00}[0x000A]Però dai pure un’occhiata.
+{0xBDFF:0x003B}
+Sono esposti abiti e accessori femminili[0x000A]dall’aspetto piuttosto costoso.
+{0xBDFF:0x003D}
+Questo piano è specializzato[0x000A]in abiti e accessori maschili.{0xBE01}[0x000A]Mi spiace, ma temo che non[0x000A]troverai nulla che sia adatto a te...{0xBE00}[0x000A]Però dai pure un’occhiata.
+{0xBDFF:0x003F}
+Sono esposti abiti e accessori maschili[0x000A]dall’aspetto piuttosto costoso.
+{0xBDFF:0x0041}
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+Esci
+Guardati
+Soldi
+{0xBDFF:0x0047}
+Vuoi uscire senza cambiarti?
+{0xBDFF:0x0049}
+{0xBDFF:0x004A}
+{0xBDFF:0x004B}
+{0xBDFF:0x004C}
+{0xBDFF:0x004D}
+Pulsante Y:[0x000A]zoom avanti/indietro
+Pad scorrevole a sinistra/destra:[0x000A]ruota a sinistra/destra[0x000A][0x000A]Pad scorrevole su/giù:[0x000A]scorri su/giù (dopo uno zoom avanti)
+${0x0206,0x0000,0x002E}
+{0xBDFF:0x0051}
+{0xBDFF:0x0052}
+Vuoi usare il camerino di prova?[0x000A]Prego, fai pure!
+Prego, accomodati nel camerino di prova.{0xBE01}[0x000A]Qui puoi provare gli articoli che hai scelto.
+Vuoi provare qualcosa nel camerino?
+Abiti e accessori
+Lenti a contatto
+Non hai lenti a contatto!
+Scegli il colore delle lenti.
+Marrone
+Nocciola
+Grigio
+Verde
+Azzurro
+Togli le lenti
+Avanti
+Indietro
+Ah...! Hai presente i Buoni sconto?{0xBE01}[0x000A]Ti danno diritto a uno sconto del {0x0201,0x0001}%[0x000A]sul totale degli acquisti.{0xBE01}[0x000A]Se ne hai uno, presentalo al momento[0x000A]di pagare!
+Ah...! Sai cosa sono i Buoni sconto?{0xBE01}[0x000A]Ti danno diritto a uno sconto del {0x0201,0x0001}%[0x000A]sul totale degli acquisti.{0xBE01}[0x000A]Se ne hai uno, presentalo al momento[0x000A]di pagare!
+{0xBDFF:0x0064}
+{0xBDFF:0x0065}
+{0xBDFF:0x0066}
+{0xBDFF:0x0067}
+{0xBDFF:0x0068}
+{0xBDFF:0x0069}
+{0xBDFF:0x006A}
+{0xBDFF:0x006B}
+Scegli un articolo
+Menu
+Scegli preferiti
+Registra preferiti
+Ordine alfabetico
+{0xBDFF:0x0071}
+{0xBDFF:0x0072}
+Apri il menu
+Chiudi il menu
+Seleziona preferiti
+Registra preferiti
+{0xBDFF:0x0077}
+Seleziona una combinazione registrata[0x000A]tra i preferiti.
+Registra una combinazione nei preferiti.
+Disponi gli articoli in ordine alfabetico.
+Rimetti gli articoli nell’ordine originale.
+Combinazione attuale
+Combinazione n° {0x0200,0x0000}
+{0xBDFF:0x007E}
+Desideri registrare la combinazione[0x000A]attuale come n° {0x0200,0x0000}?
+C’è già una combinazione registrata[0x000A]come n° {0x0200,0x0000}. Vuoi sovrascriverla?
+Va bene la combinazione n° {0x0200,0x0000}?
+Non ci sono combinazioni registrate[0x000A]come n° {0x0200,0x0000}!
+Hai selezionato la combinazione n° {0x0200,0x0000}!
+Hai registrato la combinazione come n° {0x0200,0x0000}!
+{0xBDFF:0x0085}
+{0xBDFF:0x0086}
+Disponi in ordine alfabetico
+Colore rosso
+Colore arancio
+Colore giallo
+Colore verde chiaro
+Colore verde
+Colore blu
+Colore azzurro
+Colore rosa
+Colore viola
+Colore marrone
+Colore nero
+Colore grigio
+Colore blu marino
+Colore beige
+Colore verde oliva
+Colore rosa pallido
+Color oro
+Color argento
+{0xBDFF:0x009A}
+{0xBDFF:0x009B}
+{0xBDFF:0x009C}
+{0xBDFF:0x009D}
+{0xBDFF:0x009E}
+{0xBDFF:0x009F}
+{0xBDFF:0x00A0}
+{0xBDFF:0x00A1}
+{0xBDFF:0x00A2}
+{0xBDFF:0x00A3}
+{0xBDFF:0x00A4}
+{0xBDFF:0x00A5}
+{0xBDFF:0x00A6}
+Annulla ordine alfabetico
+Sì
+No
+Posso esserti utile?
+Posso aiutarti?
+Vorrei comprare qualcosa
+Vorrei provare qualcosa
+Mi guardo intorno...
+Esamina gli articoli esposti o[0x000A]entra nel camerino per trovare{0xBE00}[0x000A]qualcosa d’interessante...{0xBE01}[0x000A]Quindi, seleziona quelli che vuoi[0x000A]comprare.
+Puoi esaminare gli articoli esposti o[0x000A]entrare nel camerino per vedere{0xBE00}[0x000A]se c’è qualcosa che può interessarti.{0xBE01}[0x000A]Seleziona quindi gli articoli che[0x000A]desideri acquistare.
+Certo, accomodati nel camerino di prova!
+Prego, accomodati nel camerino di prova.
+Allora, com’è andata?{0xBE01}[0x000A]Se vuoi vedere qualcos’altro[0x000A]fai pure con comodo.
+Hai trovato qualcosa di tuo[0x000A]gradimento?{0xBE01}[0x000A]Se c’è altro che vuoi vedere,[0x000A]fai pure con comodo.
+Ah! Come stai bene!{0xBE01}[0x000A]Allora, hai {0x0201,0x0000} articol{0x1101,0x0000,0x0101}oi...[0x000A]Fanno ${0x0206,0x0001,0x002E}. Ok?
+Ah! Come stai bene!{0xBE01}[0x000A]Allora, hai {0x0201,0x0000} articol{0x1101,0x0000,0x0101}oi...[0x000A]Fanno ${0x0206,0x0001,0x002E}. Va bene?
+Ci penso io a rimettere tutto a posto.
+Ci penso io a rimettere[0x000A]tutto a posto.
+Bene, se trovi qualcosa che ti piace,[0x000A]puoi provarlo nel camerino!{0xBE01}[0x000A]Se hai bisogno di me, io sono qui.
+Se desideri provare qualcosa,[0x000A]accomodati nel camerino.
+Hai un Buono sconto?{0xBE01}[0x000A]Allora puoi avere uno sconto del {0x0201,0x0001}%.[0x000A]Con lo sconto, fanno ${0x0206,0x0000,0x002E}.{0xBE00}[0x000A]Vuoi usare il buono?
+Hai un Buono sconto?{0xBE01}[0x000A]Allora hai diritto a uno sconto del {0x0201,0x0001}%.[0x000A]Con lo sconto, sono ${0x0206,0x0000,0x002E}.{0xBE00}[0x000A]Vuoi usare il buono?
+Non c’è problema![0x000A]Puoi usare il Buono sconto quando vuoi!
+Non c’è problema![0x000A]Puoi usare il Buono sconto{0xBE00}[0x000A]in qualsiasi momento.
+Bene. Allora dammi pure[0x000A]il Buono sconto!
+Bene! Dammi pure[0x000A]il Buono sconto!
+Ehm... A quanto pare[0x000A]non hai abbastanza soldi.
+Mi spiace, ma sembra che tu[0x000A]non abbia abbastanza soldi...
+Stai proprio bene![0x000A]Grazie ancora!
+Grazie per aver[0x000A]acquistato da noi!
+Torna a trovarci.
+Torna a farci visita.
+Hai già questo articolo!
+Hai già questo articolo.
+Hai un Buono sconto?{0xBE01}[0x000A]Allora puoi avere uno sconto del {0x0201,0x0001}%.[0x000A]Con lo sconto, fanno ${0x0206,0x0000,0x002E}.{0xBE00}[0x000A]Vuoi usare il buono?
+Hai un Buono sconto?{0xBE01}[0x000A]Allora hai diritto a uno sconto del {0x0201,0x0001}%.[0x000A]Con lo sconto, sono ${0x0206,0x0000,0x002E}.{0xBE00}[0x000A]Vuoi usare il buono?
+Desideri acquistare questo articolo?
+Desideri acquistare questo articolo?
+Non c’è problema!{0xBE01}[0x000A]Puoi usare il Buono sconto[0x000A]la prossima volta!
+Non c’è problema!{0xBE01}[0x000A]Puoi usare il Buono sconto[0x000A]alla prossima occasione!
+Bene. Allora dammi pure[0x000A]il Buono sconto!
+Bene! Allora prendo[0x000A]il Buono sconto!
+Ehm... A quanto pare[0x000A]non hai abbastanza soldi.
+Mi spiace, ma sembra che tu[0x000A]non abbia abbastanza soldi...
+Grazie![0x000A]Ecco i tuoi acquisti.
+Molte grazie.[0x000A]Ecco i tuoi acquisti.
+Scegli pure con calma!
+D’accordo.[0x000A]Scegli pure con calma.
+Indietro
+Conferma
+Avanti
+Articolo indossato
+Salve!{0xBE01}[0x000A]Guarda pure gli articoli che ti interessano[0x000A]tra quelli in assortimento!
+Benvenut{0x1100,0x00FF,0x0101}oa!{0xBE01}[0x000A]Guarda pure gli articoli che ti interessano[0x000A]tra quelli in assortimento!
+Va bene.[0x000A]Guarda pure con calma!
+D’accordo.[0x000A]Guarda pure con calma.
+Questo è un camerino di prova.[0x000A]Vuoi provarti qualcosa?
+Questo è un camerino di prova.[0x000A]Vuoi provarti qualcosa?
+Questo è un camerino di prova.[0x000A]Fai pure con comodo.
+Questo è un camerino di prova.[0x000A]Fai pure con comodo.
+Mi scusi, ma l’abbigliamento da uomo[0x000A]è al piano di sopra.{0xBE01}[0x000A]Se vuole provare degli articoli, deve andare lì.
+Mi scusi, ma l’abbigliamento da donna[0x000A]è al piano di sotto.{0xBE01}[0x000A]Se vuole provare degli articoli, deve andare lì.
+Colore bianco
+Acquistato
+Indietro

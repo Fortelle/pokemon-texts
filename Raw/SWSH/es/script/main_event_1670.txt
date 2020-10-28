@@ -1,0 +1,13 @@
+main_event_1670_telop_01=A la tarde siguiente...
+main_event_1670_rival_01=¡Por fin ha llegado el momento! Espero que[0x000A]hayas podido descansar bien.{0x0114,0x0005}
+main_event_1670_rival_02=No sé por qué estoy nervioso yo si eres tú {0x1100,0x00FF,0x0202}ella que[0x000A]va a combatir...{0x0114,0x0005}
+main_event_1670_stuff_01=¿Aspirante {0x0100,0x0000}?{0xBE01}[0x000A]El Torneo de Finalistas está a punto de comenzar.[0x000A]He venido a acompañarte hasta el estadio.
+main_event_1670_rival_03=¡Eh! ¿Se te ha olvidado la tunda de ayer?{0xBE01}[0x000A]Porque si hace falta, mi fiel {0x0101,0x0001} y[0x000A]yo te daremos un recordatorio con mucho gusto.{0x0114,0x0005}
+main_event_1670_stuff_02=¡Espera!{0xBE01}[0x000A]¡Yo soy de los buenos! Ya sé que todos dicen lo[0x000A]mismo, pero créeme, por favor.
+main_event_1670_stuff_03=Estoy al corriente de lo que ocurrió ayer.{0xBE01}[0x000A]La señorita Olivia es capaz de adoptar medidas[0x000A]extremas para proteger al presidente.
+main_event_1670_stuff_04=Por esa razón había contratado personal para su[0x000A]uso privado bajo el secreto más absoluto.
+main_event_1670_stuff_05=¡Pero ya no tenéis de qué preocuparos![0x000A]No queda ninguna oveja negra en la plantilla.
+main_event_1670_rival_04=Nos tendremos que fiar...{0xBE01}[0x000A]¡Vamos, {0x0100,0x0000}![0x000A]¡¡Estoy impaciente por ver tu combate!!{0x0114,0x0005}
+main_event_1670_stuff_06=¿Quieres que te acompañe hasta el Estadio de[0x000A]Puntera?
+main_event_1670_stuff_07=Pues ¡en marcha!
+main_event_1670_stuff_08=De acuerdo.{0xBE01}[0x000A]Si cambias de idea, dímelo. También tienes la[0x000A]opción de tomar un taxi volador afuera.

@@ -1,0 +1,15 @@
+msg_t0301_g0101_npc1_01=I Pokémon di tipo Erba sono in svantaggio[0x000A]contro il tipo Fuoco. È un concetto di base.
+msg_t0301_g0101_npc1_02=Hai conquistato la Medaglia Erba![0x000A]Che dire! Hai talento!{0xBE01}[0x000A]Chissà come te la caverai con la Medaglia[0x000A]Acqua... Ti auguro buona fortuna!
+msg_t0301_g0101_npc2_01=A quanto pare, se non superi la missione[0x000A]non puoi affrontare il Capopalestra...{0xBE01}[0x000A]Uffa... E ora che faccio? A me l’unica cosa[0x000A]che riesce bene è ballare!
+msg_t0301_g0101_npc2_02=Correre dietro a Wooloo... Ma che missione è?[0x000A]Yarrow dev’essere un po’ sadico...
+msg_t0301_g0101_npc3_01=Tu sei un{0x1100,0x00FF,0x0101}oa Sfidapalestre, no?{0xBE01}[0x000A]Prometto che se riesci a ottenere la Medaglia[0x000A]Erba, non dimenticherò mai il tuo nome!
+msg_t0301_g0101_npc3_02=Ti chiami {0x0100,0x0000}, no?[0x000A]Sei forte! Ora sono una tua fan!
+msg_t0301_g0101_poke1_01_pop=Blip!
+msg_t0301_g0101_npc4_01_pop=Anche quel{0x1100,0x00FF,0x0C0A} ragazzinola ragazzina è[0x000A]un{0x1100,0x00FF,0x0101}oa Sfidapalestre...?
+msg_t0301_g0101_npc4_02_pop=Hai battuto Yarrow![0x000A]E che sfida memorabile!
+msg_t0301_g0101_npc4_03_pop=Ehi! Campione{0x1100,0x00FF,0x0300}ssa!
+msg_t0301_g0101_npc5_01_pop=Pare che Dandel in persona[0x000A]l’abbia sponsorizzat{0x1100,0x00FF,0x0101}oa!
+msg_t0301_g0101_npc5_02_pop=Però! Questo sì che è talento!
+msg_t0301_g0101_npc5_03_pop=Ti ho vist{0x1100,0x00FF,0x0101}oa in TV! ♪
+msg_t0301_g0101_npc6_01_pop=Pare che sia {0x1100,0x00FF,0x0202}illa rivale di Hop!
+msg_t0301_g0101_npc6_02_pop=Chi l’avrebbe detto...![0x000A]È proprio una rivelazione!

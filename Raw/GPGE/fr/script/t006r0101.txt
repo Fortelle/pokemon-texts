@@ -1,0 +1,14 @@
+msg_t006r0101_fat_01_01=Mon Pikachu est le plus beau de tous[0x000A]les Pikachu !
+msg_t006r0101_fat_01_02=Mouais !{0xBE01}[0x000A]Mon Pikachu est deux fois plus mignon que[0x000A]celui-là !
+msg_t006r0101_youngf_01_01=Mon Otaria est vraiment trop mignon ![0x000A]Il fait « squitch » quand je lui fais un câlin !
+msg_t006r0101_youngf_01_02=Fufufu !{0xBE01}[0x000A]Mon Otaria est deux fois plus élégant !
+msg_t006r0101_poke_01={0xFF00,0x0009}Pikachu :{0xFF00,0x0000} Pikachu !
+msg_t006r0101_poke_02={0xFF00,0x0009}Otaria :{0xFF00,0x0000} Riaaa !
+msg_t006r0101_stafff_01=Quand notre président commence à parler[0x000A]de Pokémon, on ne l’arrête plus !
+msg_t006r0101_poster_01=« Prêtons une oreille attentive,[0x000A]Aux vantards à la dérive... »
+msg_t006r0101_poster_02=« Devant toute vantardise,[0x000A]Il faut doubler la mise ! »
+msg_t006r0101_poster_03=« Mon Galopa, une beauté qui désarçonne »
+msg_t006r0101_poster_04=« Mon Rapasdepic qui pique mon cœur »
+msg_t006r0101_poster_05=« Mes amours de Pokémon et moi »
+msg_t006r0101_poster_06=« Mes Pokémon et moi :[0x000A]Journal d’une amitié sans borne »
+msg_workerw1_01_p02_t006_r0201={0xBDFF:0x000D}

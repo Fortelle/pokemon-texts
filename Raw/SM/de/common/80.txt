@@ -1,0 +1,18 @@
+Pokédex:
+{0x0202,0x0000}
+
+Spielzeit:
+{0x0202,0x0000}:{0x0201,0x0001}
+{0x0202,0x0000}
+:
+{0x0201,0x0000}
+Zuletzt gespeichert am:
+{0x0201,0x0002}.{0x0201,0x0001}.{0x0203,0x0000,0x0000}
+{0x0105,0x0000}
+Möchtest du das Spiel speichern?
+Speichervorgang...[0x000A]Bitte das System nicht ausschalten.
+Du hast das Spiel gespeichert.
+Speichern fehlgeschlagen.
+Ja
+Nein
+Die Daten, die für die Internetverbindung[0x000A]nötig sind, wurden empfangen.{0xBE01}[0x000A]Möchtest du das Spiel speichern?

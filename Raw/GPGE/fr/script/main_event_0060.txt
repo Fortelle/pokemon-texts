@@ -1,0 +1,9 @@
+msg_main0060_rival_01={0xFF00,0x0009}{0x0100,0x0001} :{0xFF00,0x0000} Hé !
+msg_main0060_rival_04={0xFF00,0x0009}{0x0100,0x0001} :{0xFF00,0x0000} Tu sais...[0x000A]Y’a pas que la capture de Pokémon, dans la vie !{0xBE01}[0x000A]Y’a aussi les {0xFF00,0x0006}combats {0xFF00,0x0000}entre {0xFF00,0x0006}Dresseurs{0xFF00,0x0000} ![0x000A]Attends, je vais te montrer comment ça se passe.
+msg_main0060_rival_05=En garde !
+msg_main0060_8rom_01={0xBDFF:0x0003}
+msg_main0060_rival_02={0xFF00,0x0009}{0x0100,0x0001} : {0xFF00,0x0000}Ha ha, et dire que je[0x000A]croyais t’apprendre des trucs... !{0xBE01}[0x000A]J’aurais dû m’entraîner un peu avec mon[0x000A]Pokémon plutôt que de tenter ça à l’arrache !
+msg_main0060_rival_06={0xFF00,0x0009}{0x0100,0x0001} : {0xFF00,0x0000}Mon Pokémon et moi,[0x000A]on forme une équipe de choc !{0xBE01}[0x000A]T’en fais pas, ça viendra pour vous aussi.
+msg_main0060_rival_03=Je file, j’ai plein de Pokémon à capturer ![0x000A]Mais j’ai hâte qu’on remette ça !
+msg_main0060_doctor_01={0xFF00,0x0009}Chen : {0xFF00,0x0000}{0x0100,0x0000} ![0x000A]C’était ton premier combat, non ?{0xBE01}[0x000A]Ça a dû être une véritable aventure pour[0x000A]ton {0x0101,0x0002} aussi !
+msg_main0060_doctor_02={0xFF00,0x0009}Chen : {0xFF00,0x0000}Fais plein de combats contre[0x000A]des Dresseurs pour entraîner ton équipe.{0xBE01}[0x000A]Et pense aussi à capturer d’autres Pokémon,[0x000A]tant que tu y es !

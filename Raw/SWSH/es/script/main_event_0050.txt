@@ -1,0 +1,7 @@
+main_event_0050_rival_01=¡Arreando, que es gerundio!{0x0114,0x0005}
+main_event_0050_rival_02=¡Pero antes escúchame bien, {0x0100,0x0000}!{0xBE01}[0x000A]Si te aventuras en la hierba alta, los Pokémon[0x000A]salvajes se abalanzarán sobre ti.{0x0114,0x0005}
+main_event_0050_rival_03=Yo tengo a Wooloo, así que puedo defenderme[0x000A]sin problemas.{0x0114,0x0005}
+main_event_0050_rival_04=Pero tú aún no tienes ningún Pokémon, así que[0x000A]pasando de la hierba alta, ¿vale?{0x0114,0x0005}
+main_event_0050_rival_05={0xBDFF:0x0004}
+main_event_0050_rival_06={0xBDFF:0x0005}
+main_event_0050_rival_07={0xBDFF:0x0006}

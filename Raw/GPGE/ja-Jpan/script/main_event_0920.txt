@@ -1,0 +1,16 @@
+msg_main0920_rocketchief_01=アポロ『そこまで　ですよ！
+msg_main0920_rival_01={0x0100,0x0001}『うわ　また来た！
+msg_main0920_rocketchief_02=アポロ『何度でも　来ますよ{0xBE01}[0x000A]ボスの　ところに　向かわれては[0x000A]かないません　からね！
+msg_main0920_rival_02={0x0100,0x0001}『……え？[0x000A]ボスの　ところ　だって？
+msg_main0920_rival_03={0x0100,0x0000}　もしかして！？
+msg_main0920_select_01=この　先には！
+msg_main0920_select_02=サカキは　ここに！
+msg_main0920_rival_04={0x0100,0x0001}『ロケット団の　ボスは[0x000A]この　ビルに　いたのか……！{0xBE01}[0x000A]よし　それなら！
+msg_main0920_rival_05={0x0100,0x0001}『{0x0100,0x0000}　行け！[0x000A]ボスを　倒す　チャンスだ！
+msg_main0920_rival_06=おっさん！　オレが　相手だ！
+msg_main0920_rocketchief_03=アポロ『くッ！[0x000A]これでは　ボスに　連絡が……
+msg_main0920_rival_07={0x0100,0x0001}『{0x0100,0x0000}　いけ！{0xBE01}[0x000A]ロケット団の　ボスを[0x000A]倒して　こいよ！
+msg_rival_01_p01_cave_d1007={0xBDFF:0x000C}
+msg_rival_01_p02_cave_d1007={0xBDFF:0x000D}
+msg_rival_01_p03_cave_d1007={0xBDFF:0x000E}
+msg_rival_01_p05_cave_d1007={0xBDFF:0x000F}

@@ -1,0 +1,28 @@
+It’s a photo spot![0x000A]Do you want to call Phil the Photo Guy?
+Take a photo
+View a photo
+About the camera
+Good-bye
+About the photo spot...{0xBE01}[0x000A]This signboard indicates a photo spot.{0xBE01}[0x000A]You can call Phil the Photo Guy over,[0x000A]and he will take photos for you.{0xBE01}[0x000A]Do you want to call Phil the Photo Guy?
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+Hey![0x000A]What do you want to do?
+All right. I’ll take a great photo!{0xBE01}[0x000A]Let’s move to the shooting location!
+Oops! Sorry![0x000A]There aren’t enough empty blocks on the SD Card.{0xBE01}[0x000A]I can’t take a photo unless you get rid of some[0x000A]data and free some blocks for the photo.{0xBE01}[0x000A]Sorry! Next time!
+Oh, you want to see a photo?[0x000A]Here’s the latest photo that I’m proud of!
+Wait a minute, wait a minute![0x000A]I haven’t taken a single photo of you.{0xBE01}[0x000A]Let’s take at least one photo, OK?
+Yay! This is a great shot!
+Oops! Sorry![0x000A]The camera is acting up.{0xBE01}[0x000A]I couldn’t save the photo.[0x000A]Sorry!{0xBE01}[0x000A]I’ll make sure to save a photo next time.[0x000A]Let’s take a photo again, OK?
+Not too shabby at all![0x000A]You have a natural talent as a model.{0xBE00}[0x000A]See ya!
+OK.[0x000A]See ya!
+All right.[0x000A]See ya!
+A camera is a tool for making photos.[0x000A]To take a photo, press the R Button.{0xBE01}[0x000A]You can zoom in by pressing right on the[0x000A]+Control Pad. Zoom out by pressing left.{0xBE01}[0x000A]Press the A Button for manual mode.[0x000A]You can do lots of cool things!{0xBE00}[0x000A]Reset the angle by pressing the START button.{0xBE01}[0x000A]The photo will be saved to the SD Card, and[0x000A]you can see it with the Nintendo 3DS Camera.{0xBE01}[0x000A]Also, you can use Game Sync to[0x000A]send it to the Pokémon Global Link.{0xBE01}[0x000A]Take a great photo and dazzle everyone!
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+Oops!{0xBE01}[0x000A]The Nintendo 3DS Camera is full of photos.{0xBE01}[0x000A]I can’t take a photo unless you remove[0x000A]some of the photos you have.{0xBE01}[0x000A]Sorry! Next time!
+Oops!{0xBE01}[0x000A]There seems to be something wrong[0x000A]with the SD Card.{0xBE01}[0x000A]I can’t take a photo.[0x000A]Sorry! Next time!
+Oops![0x000A]There are no empty blocks on the SD Card.{0xBE01}[0x000A]I can’t take a photo unless you get rid of some[0x000A]data and free some blocks for the photo.{0xBE01}[0x000A]Sorry! Next time!
+The photo spot is still under construction.
+Attention!{0xBE01}[0x000A]The photo taken last time is still on the SD Card[0x000A]and hasn’t been sent to the Pokémon Global Link.{0xBE01}[0x000A]To send the photo, please use Game Sync.{0xBE01}[0x000A]Otherwise, when you take a new photo,[0x000A]the old photo will be overwritten.
+{0xBDFF:0x001B}

@@ -1,0 +1,52 @@
+Comprobando la tarjeta SD...[0x000A]Espera, por favor.
+No hay espacio suficiente en la tarjeta SD.[0x000A]Libera espacio en la tarjeta para poder usarla.{0xBE01}
+La foto no se ha podido guardar porque en la[0x000A]Cámara de Nintendo 3DS no queda espacio{0xBE00}[0x000A]para almacenar más.{0xBE01}[0x000A]Organiza tus fotos y libera espacio en tu[0x000A]consola Nintendo 3DS.{0xBE01}
+Se ha producido un error en la Cámara de[0x000A]Nintendo 3DS.{0xBE01}
+Se han borrado los datos debido a un error en[0x000A]los archivos de tu tarjeta SD.{0xBE01}
+La tarjeta SD está llena.{0xBE01}[0x000A]Organiza tus fotos y libera espacio en la[0x000A]tarjeta SD de tu Nintendo 3DS.{0xBE01}
+Puedes guardar {0x0200,0x0000} foto{0x1101,0x0000,0x0100}s más del Fotoclub[0x000A]de Alola.{0xBE01}
+No tienes espacio para guardar más fotos del[0x000A]Fotoclub de Alola.{0xBE01}[0x000A]Organiza el Álbum de Fotos y libera espacio.{0xBE01}
+Guardando en la tarjeta SD...[0x000A]No apagues la consola.
+No puedes añadir más pegatinas. Borra alguna[0x000A]para añadir otra.{0xBE01}
+La foto no se ha podido guardar porque en la[0x000A]Cámara de Nintendo 3DS no queda espacio{0xBE00}[0x000A]para almacenar más.{0xBE01}[0x000A]Organiza tus fotos y libera espacio en tu[0x000A]consola Nintendo 3DS.{0xBE01}
+La tarjeta SD está llena.{0xBE01}[0x000A]Organiza tus fotos y libera espacio en la[0x000A]tarjeta SD de tu Nintendo 3DS.{0xBE01}
+Se ha guardado en la tarjeta SD.{0xBE01}
+¿Quieres guardar la foto?
+Se borrará la foto anterior. ¿Deseas continuar?
+Tu Álbum de Fotos está lleno.[0x000A]Para guardar la foto, selecciona “Sobreescribir”.{0xBE01}
+No se guardará la foto que acabas de editar.[0x000A]¿Deseas continuar?
+Sobreescribir
+Guardar una copia
+No guardar
+Atrás
+Sí
+No
+Puedes decorar con pegatinas las fotos que has[0x000A]sacado.
+Toca los iconos de las diferentes categorías[0x000A]para ver las pegatinas disponibles.
+Toca la pegatina que quieras usar y arrástrala[0x000A]sobre la foto.
+Arrastra la pegatina hasta colocarla en el lugar[0x000A]deseado.
+Si quieres borrar una pegatina que ya has[0x000A]colocado, arrástrala hasta la papelera que[0x000A]aparece bajo la foto en la pantalla táctil.
+Cuando termines de decorar la foto a tu gusto,[0x000A]pulsa el botón A para guardarla.[0x000A][0x000A]{0xFF00,0x0001}Una vez que hayas guardado la foto, no podrás[0x000A]modificarla.{0xFF00,0x0000}
+fs_deco_info_07
+fs_deco_info_08
+fs_deco_info_09
+fs_deco_info_10
+fs_deco_info_11
+fs_deco_info_12
+fs_deco_info_13
+fs_deco_info_14
+fs_deco_info_15
+fs_deco_info_16
+fs_deco_info_17
+fs_deco_info_18
+fs_deco_info_19
+fs_deco_info_20
+fs_deco_info_21
+fs_deco_info_22
+fs_deco_info_23
+fs_deco_info_24
+fs_deco_info_25
+{0x0200,0x0000}
+/
+Salir
+No has realizado ningún cambio. ¿Quieres dejar[0x000A]de editar?

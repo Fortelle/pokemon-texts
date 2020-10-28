@@ -1,0 +1,10 @@
+msg_t007r0103_scientist_01=Ich? Ich bin der Programmierer!
+msg_t007r0103_scientist_02=Du hast den Pokédex vervollständigt?!{0xBE01}[0x000A]Also war es das ganze Programmieren wert!
+msg_t007r0103_pokemaniac_01=Ich bin der Grafiker! Ich war es, der das Design[0x000A]für dich entworfen hat!
+msg_t007r0103_pokemaniac_02=Herzlichen Glückwunsch zur Vervollständigung[0x000A]des Pokédex!{0xBE01}[0x000A]Deinem Gesicht sieht man all die Erfahrungen,[0x000A]die du auf deinem Abenteuer gemacht hast,{0xBE00}[0x000A]förmlich an!{0xBE01}[0x000A]Dein Charaktermodell ist allerdings immer noch[0x000A]dasselbe, kann also eigentlich gar nicht sein...{0xBE01}[0x000A]Hm...? Oh, vergiss, was ich gesagt hab.
+msg_t007r0103_fat_01=Die Geschichte stammt von mir![0x000A]Ist Erika nicht süß?{0xBE01}[0x000A]Aber Misty mag ich auch gerne![0x000A]Und nicht zu vergessen... Sabrina!
+msg_t007r0103_fat_02=Dein Pokédex ist komplett?![0x000A]Das ist ja unglaublich!{0xBE01}[0x000A]Dein Abenteuer fängt doch gerade erst an!{0xBE01}[0x000A]Haha, du hättest dein Gesicht sehen sollen![0x000A]Das war natürlich ein Scherz.
+msg_t007r0103_pc_01=Das ist der Programmcode!{0xBE01}[0x000A]Wenn man daran herumspielt, kann das zu[0x000A]Fehlern im Spiel führen.
+msg_t007r0103_pc_02=Da scheint wohl jemand auf Arbeit zu spielen!
+msg_t007r0103_pc_03=Das ist das Ende des Spiels![0x000A]Das solltest du dir besser nicht anschauen.
+msg_t007r0103_kanban_01=GAME FREAK[0x000A]Entwicklungsabteilung

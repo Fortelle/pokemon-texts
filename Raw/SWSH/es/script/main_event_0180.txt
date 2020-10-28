@@ -1,0 +1,13 @@
+main_event_0180_poke1_01=¡Bun!
+main_event_0180_poke2_01=¿Sob?
+main_event_0180_poke3_01=¡Groo, groo!
+main_event_0180_mama_01=¡Uy, pero qué precioso es este {0x0101,0x0001}!{0xBE01}[0x000A]Ya me ha contado Lionel que os vais para Pueblo[0x000A]Par a que os entreguen una Pokédex.{0x0114,0x0008}
+main_event_0180_mama_02=Toma, no te vendrá mal un poco de dinero para[0x000A]el viaje.{0xBE01}[0x000A]Acuérdate de comprar Pociones y todo lo que[0x000A]te haga falta en el Centro Pokémon.{0x0114,0x0008}
+main_event_0180_mama_03={0xBDFF:0x0005}
+main_event_0180_mama_04={0xBDFF:0x0006}
+main_event_0180_mama_05=Y ten en cuenta que {0x0101,0x0001} luchará[0x000A]por ti con todas sus fuerzas, así que no te pases{0xBE00}[0x000A]y no le pidas barbaridades, ¿vale?{0x0114,0x0008}
+main_event_0180_poke1_02=¡Bun!
+main_event_0180_poke2_02=¿Sob?
+main_event_0180_poke3_02=¡Groo, groo!
+main_event_0180_mama_06={0x0101,0x0001}, cuida de mi hij{0x1100,0x00FF,0x0101}oa, por favor.{0x0114,0x0008}
+main_event_0180_mama_07=Si te ves en dificultades, vuelve a casa. ¡Aquí[0x000A]descansarás mejor que en ningún sitio!{0x0114,0x0008}

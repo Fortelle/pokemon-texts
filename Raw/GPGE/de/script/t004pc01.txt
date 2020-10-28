@@ -1,0 +1,7 @@
+msg_t004pc01_youngm_01=Dieser Bill!{0xBE01}[0x000A]Ich habe gehört, um an seltene Pokémon[0x000A]ranzukommen, würde er alles tun!
+msg_t004pc01_gentlem_01=Hat man dir schon von Bill erzählt?[0x000A]Jeder nennt ihn den Pokémaniac!{0xBE01}[0x000A]Aber ich glaube, die Leute sind bloß neidisch[0x000A]auf ihn.{0xBE01}[0x000A]Wer würde nicht mit einer Sammlung wie der[0x000A]seinen prahlen wollen?
+msg_t004pc01_jevenilem_01=Es gibt zwei Arten von Angriffsattacken:[0x000A]physische Attacken und Spezial-Attacken.{0xBE01}[0x000A]Wenn der Angriffs-Wert eines Pokémon hoch ist,[0x000A]solltest du ihm physische Attacken beibringen.
+msg_t004pc01_youngf_01=Wenn du mit Freunden tauschst, kannst du eine[0x000A]Vielzahl verschiedener Pokémon-Arten erhalten.{0xBE01}[0x000A]Außerdem steigen per Tausch erhaltene[0x000A]Pokémon schneller im Level auf.
+msg_t004pc01_book_01=Hier ist ein Magazin mit dem Titel:[0x000A]„Das Pokémon-Journal: Interview“
+msg_t004pc01_select_01=Möchtest du es lesen?
+msg_t004pc01_book_02=Zukunftsprojekte von Pokémaniac Bill{0xBE01}[0x000A]„Also, im Moment erforsch ich, wie man sich in[0x000A]ein Pokémon verwandeln kann.{0xBE01}[0x000A]Nee, das war natürlich nur ’n Witz.[0x000A]Druckt das bloß nich’ ab!{0xBE01}[0x000A]In Wirklichkeit dreht sich meine Forschung[0x000A]darum, wie man die Gefühle von Pokémon{0xBE00}[0x000A]verstehen kann.{0xBE01}[0x000A]Ich will nämlich wissen, was in ihren Köpfchen[0x000A]vorgeht.“

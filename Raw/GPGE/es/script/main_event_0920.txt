@@ -1,0 +1,16 @@
+msg_main0920_rocketchief_01={0xFF00,0x0009}Atlas:{0xFF00,0x0000} ¡Alto ahí!
+msg_main0920_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¡Pero bueno! ¿Tú de nuevo?
+msg_main0920_rocketchief_02={0xFF00,0x0009}Atlas:{0xFF00,0x0000} Sí, ¿qué pasa?[0x000A]Es más, ¿sabes que es lo que no va a pasar?{0xBE01}[0x000A]Vosotros por aquí.{0xBE01}[0x000A]¡No permitiré que lleguéis hasta donde se[0x000A]encuentra el jefe!
+msg_main0920_rival_02={0xFF00,0x0009}{0x0100,0x0001}: {0xFF00,0x0000}¿Cómo? ¿El jefe, has dicho?
+msg_main0920_rival_03={0x0100,0x0000}, ¿crees que...?
+msg_main0920_select_01=¡Estamos muy cerca!
+msg_main0920_select_02=¡Giovanni está aquí!
+msg_main0920_rival_04={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¿Así que el jefazo del Team[0x000A]Rocket está en el edificio?{0xBE01}[0x000A]En ese caso...
+msg_main0920_rival_05={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¡Vamos, {0x0100,0x0000}![0x000A]Es la oportunidad ideal para derrotarlo.
+msg_main0920_rival_06=¿Me oyes? Te vas a enfrentar a mí.
+msg_main0920_rocketchief_03={0xFF00,0x0009}Atlas:{0xFF00,0x0000} ¡Maldición! He de informar al jefe...
+msg_main0920_rival_07={0xFF00,0x0009}{0x0100,0x0001}: {0xFF00,0x0000}Venga, {0x0100,0x0000}.[0x000A]¡Ve a darle lo suyo al jefe del Team Rocket!
+msg_rival_01_p01_cave_d1007={0xBDFF:0x000C}
+msg_rival_01_p02_cave_d1007={0xBDFF:0x000D}
+msg_rival_01_p03_cave_d1007={0xBDFF:0x000E}
+msg_rival_01_p05_cave_d1007={0xBDFF:0x000F}

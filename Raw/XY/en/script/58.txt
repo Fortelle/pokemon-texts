@@ -1,0 +1,40 @@
+I’m the Day-Care Man.{0xBE01}[0x000A]We take care of the precious Pokémon[0x000A]of other Trainers.{0xBE01}[0x000A]If you’d like us to raise your Pokémon,[0x000A]have a word with my wife.
+Glad you came![0x000A]{0x0102,0x0000}’s doing just fine!
+Glad you came!{0xBE01}[0x000A]Your {0x0102,0x0000} and[0x000A]{0x0102,0x0001} are doing just fine.{0xBE01}[0x000A]The two seem to get along very well!
+Glad you came!{0xBE01}[0x000A]Your {0x0102,0x0000} and[0x000A]{0x0102,0x0001} are doing just fine.{0xBE01}[0x000A]The two seem to get along.
+Glad you came!{0xBE01}[0x000A]Your {0x0102,0x0000} and[0x000A]{0x0102,0x0001} are doing just fine.{0xBE01}[0x000A]The two don’t really seem to like[0x000A]each other very much.
+Glad you came!{0xBE01}[0x000A]Your {0x0102,0x0000} and[0x000A]{0x0102,0x0001} are doing just fine.{0xBE01}[0x000A]The two prefer to play with other[0x000A]Pokémon more than with each other.
+Ah, it’s you!{0xBE01}[0x000A]We were raising your Pokémon, and[0x000A]my goodness, we were so surprised!{0xBE01}[0x000A]Your Pokémon was holding an Egg!{0xBE01}[0x000A]We don’t know how it got there,[0x000A]but your Pokémon had it.{0xBE01}[0x000A]You do want it, don’t you?
+{0x0100,0x0000} received the Egg from the[0x000A]Day-Care Man.
+Please take good care of it!
+You have no room for it right now...[0x000A]Come back when you’ve made room.
+I will take it and never give it back.[0x000A]You do want this Egg, don’t you?
+Well then, I’ll hang on to it.[0x000A]Thank you!
+I’m the Day-Care Lady.[0x000A]We can raise Pokémon for you.{0xBE01}[0x000A]Would you like us to raise[0x000A]your Pokémon?
+I’m the Day-Care Lady.{0xBE01}[0x000A]We can raise Pokémon for you.[0x000A]What do you want to do today?
+Very well.[0x000A]Please come again.
+Ah, there you are![0x000A]My husband was looking for you.
+You can’t leave your only Pokémon[0x000A]with me! How would you battle?{0xBE01}[0x000A]Please come back with more Pokémon.
+Which Pokémon should we raise for you?
+Oh...[0x000A]That is merely an Egg!
+Fine. We’ll raise your {0x0101,0x0000} for a while.
+Please come back for it later.
+We can raise two of your Pokémon.[0x000A]Would you like us to raise another?
+You have energetic Pokémon![0x000A]Would you like your Pokémon back?
+By level, your {0x0101,0x0000} has[0x000A]grown by about {0x0201,0x0001}.
+If you want your {0x0101,0x0000} back,[0x000A]it will cost ${0x0204,0x0001,0x002C}.{0xBE00}[0x000A]Would you like it back?
+You don’t have enough money...
+{0x0100,0x0001} took {0x0101,0x0000} back[0x000A]from the Day-Care Lady.
+Would you like to take the other one back, too?
+Oh...{0xBE01}[0x000A]If you leave that Pokémon with[0x000A]me, you’ll be left with just one.{0xBE01}[0x000A]You will be better off if you catch[0x000A]some more.
+You have no room for it right now...[0x000A]Please come back when you’ve made room.
+Leave Pokémon
+Take back
+Cancel
+Lv. {0x0202,0x0001}
+{0x0101,0x0000}[0xE08E] Lv. {0x0202,0x0001}
+{0x0101,0x0000}[0xE08F] Lv. {0x0202,0x0001}
+{0x0101,0x0000} Lv. {0x0202,0x0001}
+Oh?
+{0x0101,0x0000} hatched from the Egg!
+Would you like to give a nickname to the newly[0x000A]hatched {0x0101,0x0000}?

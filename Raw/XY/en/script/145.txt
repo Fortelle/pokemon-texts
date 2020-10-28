@@ -1,0 +1,14 @@
+Which floor would you like to go to?
+Quit
+1F
+2F
+3F
+4F
+5F
+B1
+B2
+B3
+Hidden Floor
+It won’t move without the Elevator Key.
+{0x0100,0x0000} used the Elevator Key.
+You can’t slip out in[0x000A]the middle of a job!

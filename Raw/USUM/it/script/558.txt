@@ -1,0 +1,72 @@
+{0xBDFF:0x0000}
+Ehi, ciao! Hai un secondo?[0x000A]Ho una cosa importante da dirti.
+Mi dica!
+Scusi, vado un po’ di fretta...
+Ottimo! Lascia che mi presenti.[0x000A]Io sono Lance, piacere di conoscerti!{0xBE01}[0x000A]Come...? Il mio nome non ti dice niente...?{0xBE01}[0x000A]Uhm... Hai presente, all’inizio delle lotte, il modo[0x000A]di lanciare la Poké Ball, la posa che si assume...{0xBE00}[0x000A]Fa tutto parte dello stile di lancio.{0xBE01}[0x000A]E indovina chi è il geniale coreografo che ha[0x000A]ideato quei gesti e quelle pose? Ce l’hai davanti!{0xBE01}[0x000A]Ora però sto cercando un successore...[0x000A]Ed è qui che entri in scena tu!
+Te lo chiedo per favore![0x000A]Non vorresti imparare un mestiere sopraffino?
+È la richiesta di un vecchietto![0x000A]Con che cuore potresti rifiutare?
+Va bene, accetto!
+Mi dispiace...
+Fantastico! Ho trovato un{0x1100,0x00FF,0x0101} 'erede! ♪{0xBE01}[0x000A]E ora presta orecchio, mi{0x1100,0x00FF,0x0B0B}o discepoloa discepola. Ecco tutto[0x000A]quello che devi sapere sullo stile di lancio!
+Guarda bene quello che faccio e riproduci[0x000A]fedelmente i miei movimenti.
+Uno... due... tre...[0x000A]E... stop! Posa finale!
+{0x0100,0x0000} ha imparato lo stile disinvolto.
+Benissimo! Ora conosci lo stile disinvolto![0x000A]Se vuoi cambiare stile di lancio, basta chiedere!{0xBE01}[0x000A]Per questa volta può bastare.[0x000A]Ho ancora tanti altri stili da insegnarti, ma prima{0xBE00}[0x000A]devi fare un po’ di esperienza!{0xBE01}[0x000A]Torna quando avrai imparato alla perfezione[0x000A]la lezione di oggi!
+Ciao, mi{0x1100,0x00FF,0x1111}o amato discepoloa amata discepola![0x000A]Hai bisogno del mio aiuto?
+Voglio cambiare il mio stile di lancio!
+Voglio imparare un nuovo stile di lancio!
+No... Sono solo passat{0x1100,0x00FF,0x0101}oa a salutarti!
+Ah sì? Ti accontenti di poco... Il mondo è grande[0x000A]e ti attendono tanti altri stili di lancio!
+Mi piace la tua grinta![0x000A]Sei proprio {0x1100,0x00FF,0x1A1A}il mio discepolo preferitola mia discepola preferita!
+Molto bene! Ti darò qualche consiglio su come[0x000A]imparare lo stile di lancio che preferisci.
+Quale stile ti interessa?
+Stile classico
+Stile disinvolto
+Stile aggraziato
+Stile ispirato
+Stile deciso
+Stile mancino
+Stile dinamico
+Stile turbinante
+Stile sprezzante
+Ci ho ripensato!
+Lo stile aggraziato?{0xBE01}[0x000A]Il modo migliore per impararlo è frequentare[0x000A]Allenatori dai modi aggraziati!
+Lo stile ispirato?{0xBE01}[0x000A]Il modo migliore per impararlo è frequentare[0x000A]persone ottimiste e con tanti sogni da realizzare!
+Lo stile deciso?{0xBE01}[0x000A]Il modo migliore per impararlo è frequentare[0x000A]persone determinate che sanno il fatto loro!
+Lo stile mancino?{0xBE01}[0x000A]Il modo migliore per impararlo è... frequentare[0x000A]persone mancine!
+Lo stile dinamico?{0xBE01}[0x000A]Il modo migliore per impararlo è vincere 50 lotte[0x000A]di seguito all’Albero della Lotta!
+Lo stile turbinante?{0xBE01}[0x000A]Il modo migliore per impararlo è diventare[0x000A]il miglior Allenatore nella Battle Royale.
+Lo stile sprezzante?{0xBE01}[0x000A]Il modo migliore per impararlo è sfidare[0x000A]un signore incredibilmente sprezzante!
+Ehi, smemorat{0x1100,0x00FF,0x0101}oa![0x000A]Questo stile già lo conosci!
+Mi{0x1100,0x00FF,0x1313}o adorato discepoloa adorata discepola! Nei hai fatta di strada![0x000A]Trasudi esperienza da tutti i pori!{0xBE01}[0x000A]Sei pront{0x1100,0x00FF,0x0101}oa per imparare un nuovo stile di lancio!
+Guarda bene quello che faccio e riproduci[0x000A]fedelmente i miei movimenti.
+Uno... due... tre...[0x000A]E... stop! Posa finale!
+{0x0100,0x0000} ha imparato lo stile aggraziato.
+{0x0100,0x0000} ha imparato lo stile[0x000A]ispirato.
+{0x0100,0x0000} ha imparato lo stile deciso.
+{0x0100,0x0000} ha imparato lo stile mancino.
+{0x0100,0x0000} ha imparato lo stile[0x000A]dinamico.
+{0x0100,0x0000} ha imparato lo stile turbinante.
+{0x0100,0x0000} ha imparato lo stile[0x000A]sprezzante.
+Benissimo! Ora conosci lo stile aggraziato![0x000A]Se vuoi cambiare stile di lancio, basta chiedere!
+Benissimo! Ora conosci lo stile ispirato![0x000A]Se vuoi cambiare stile di lancio, basta chiedere!
+Benissimo! Ora conosci lo stile deciso![0x000A]Se vuoi cambiare stile di lancio, basta chiedere!
+Benissimo! Ora conosci lo stile mancino![0x000A]Se vuoi cambiare stile di lancio, basta chiedere!
+Benissimo! Ora conosci lo stile dinamico![0x000A]Se vuoi cambiare stile di lancio, basta chiedere!
+Benissimo! Ora conosci lo stile turbinante![0x000A]Se vuoi cambiare stile di lancio, basta chiedere!
+Benissimo! Ora conosci lo stile sprezzante![0x000A]Se vuoi cambiare stile di lancio, basta chiedere!
+Straordinario![0x000A]Hai imparato tutti gli stili di lancio.{0xBE01}[0x000A]Non ho più niente da insegnarti.[0x000A]Mi mancheranno le nostre lezioni...{0xBE01}[0x000A]Ma sono davvero orgoglioso di te,[0x000A]mi{0x1100,0x00FF,0x1313}o giovane discepoloa giovane discepola!{0xBE01}[0x000A]E ora vai e mostra al mondo il fascino dei tuoi[0x000A]stili di lancio!
+Nessun problema, sono qui apposta![0x000A]Quale stile desideri?
+Lo stile classico? Perfetto!
+Lo stile disinvolto? Perfetto!
+Lo stile aggraziato? Perfetto!
+Lo stile ispirato? Perfetto!
+Lo stile deciso? Perfetto!
+Lo stile mancino? Perfetto!
+Lo stile dinamico? Perfetto!
+Lo stile turbinante? Perfetto!
+Lo stile sprezzante? Perfetto!
+Concentrati... Immagina di essere al centro[0x000A]del campo di lotta...
+Sbuff! Sbaff! Ciaff-ciaff-ciaff![0x000A]Ciaff! Ciaff! Sbaff-baff-baff!
+Ecco fatto![0x000A]Il tuo stile è cambiato!
+E ora vai e mostra al mondo il fascino del tuo[0x000A]nuovo stile di lancio!

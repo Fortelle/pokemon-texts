@@ -1,0 +1,232 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+Try on
+Purchase
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+{0xBDFF:0x001A}
+{0xBDFF:0x001B}
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}
+{0xBDFF:0x001E}
+{0xBDFF:0x001F}
+{0xBDFF:0x0020}
+{0xBDFF:0x0021}
+{0xBDFF:0x0022}
+{0xBDFF:0x0023}
+{0xBDFF:0x0024}
+{0xBDFF:0x0025}
+{0xBDFF:0x0026}
+{0xBDFF:0x0027}
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+{0xBDFF:0x002A}
+{0xBDFF:0x002B}
+{0xBDFF:0x002C}
+{0xBDFF:0x002D}
+{0xBDFF:0x002E}
+{0xBDFF:0x002F}
+{0xBDFF:0x0030}
+{0xBDFF:0x0031}
+{0xBDFF:0x0032}
+{0xBDFF:0x0033}
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+{0xBDFF:0x0036}
+{0xBDFF:0x0037}
+{0xBDFF:0x0038}
+{0xBDFF:0x0039}
+We have only women’s clothes on this floor.{0xBE01}[0x000A]I’m afraid you can’t purchase anything here,[0x000A]but please feel free to browse all you like.
+{0xBDFF:0x003B}
+Girls’ clothes are displayed.[0x000A]They look a bit expensive!
+{0xBDFF:0x003D}
+We have only men’s clothes on this floor.{0xBE01}[0x000A]I’m afraid you can’t purchase anything here,[0x000A]but please feel free to browse all you like.
+{0xBDFF:0x003F}
+Boys’ clothes are displayed.[0x000A]They look a bit expensive!
+{0xBDFF:0x0041}
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+Select again
+Change
+Money
+{0xBDFF:0x0047}
+Do you want to quit without changing clothes?
+{0xBDFF:0x0049}
+{0xBDFF:0x004A}
+{0xBDFF:0x004B}
+{0xBDFF:0x004C}
+{0xBDFF:0x004D}
+Y Button[0x000A]Zoom in/Zoom out
+Circle Pad L/R: Rotate left/right[0x000A][0x000A]Circle Pad Up/Down:[0x000A]Move up and down when you zoom in
+${0x0206,0x0000,0x002C}
+{0xBDFF:0x0051}
+{0xBDFF:0x0052}
+It’s a fitting room![0x000A]Do you want to change clothes?
+It’s a fitting room!{0xBE01}[0x000A]You can change into the item[0x000A]you selected!
+It’s a fitting room![0x000A]What do you want to change?
+Clothes
+Contact lenses
+You don’t have any contact lenses.
+Which contact lenses do you want to use?
+Brown
+Hazel
+Gray
+Green
+Blue
+Take off
+Next
+Quit
+Oh... Do you know about Discount Coupons?{0xBE01}[0x000A]You can purchase any item for {0x0201,0x0001} percent off!{0xBE01}[0x000A]If you have one, let me know when you pay!
+Oh... Do you know about Discount Coupons?{0xBE01}[0x000A]You can purchase any item for {0x0201,0x0001} percent off.{0xBE01}[0x000A]If you have one, please let me know when you pay.
+{0xBDFF:0x0064}
+{0xBDFF:0x0065}
+{0xBDFF:0x0066}
+{0xBDFF:0x0067}
+{0xBDFF:0x0068}
+{0xBDFF:0x0069}
+{0xBDFF:0x006A}
+{0xBDFF:0x006B}
+Select an item
+Menu
+Select your favorite
+Register your favorite
+Alphabetical order
+{0xBDFF:0x0071}
+{0xBDFF:0x0072}
+Open the menu
+Close the menu
+Select your favorite
+Register your favorite
+{0xBDFF:0x0077}
+Select your registered favorite combination.
+Register a combination of items to favorite.
+Sort items in alphabetical order.
+Restoring the order of items.
+Current clothes
+Favorite No. {0x0200,0x0000}
+{0xBDFF:0x007E}
+Do you want to register the current[0x000A]combination of clothes to No. {0x0200,0x0000}?
+No. {0x0200,0x0000} is already used.[0x000A]Do you want to overwrite it?
+Do you want to select the combination[0x000A]No. {0x0200,0x0000}?
+Nothing is registered for No. {0x0200,0x0000}!
+Selected the combination No. {0x0200,0x0000}!
+Registered the combination to No. {0x0200,0x0000}!
+{0xBDFF:0x0085}
+{0xBDFF:0x0086}
+Sort by alphabet
+Red
+Orange
+Yellow
+Lime green
+Green
+Blue
+Aqua
+Pink
+Purple
+Brown
+Black
+Gray
+Navy blue
+Beige
+Olive
+Pale pink
+Gold
+Silver
+{0xBDFF:0x009A}
+{0xBDFF:0x009B}
+{0xBDFF:0x009C}
+{0xBDFF:0x009D}
+{0xBDFF:0x009E}
+{0xBDFF:0x009F}
+{0xBDFF:0x00A0}
+{0xBDFF:0x00A1}
+{0xBDFF:0x00A2}
+{0xBDFF:0x00A3}
+{0xBDFF:0x00A4}
+{0xBDFF:0x00A5}
+{0xBDFF:0x00A6}
+Cancel alphabetical order
+YES
+NO
+Hello![0x000A]What would you like to do?
+Hello.[0x000A]What would you like to do?
+How to buy items
+Try on!
+Nothing
+Check items at the back of the shop or enter[0x000A]the fitting room, and you can preview items.{0xBE01}[0x000A]Then you may choose what you want to buy.
+If you check items at the back of the shop or[0x000A]enter the fitting room, you can preview items.{0xBE01}[0x000A]You may then choose what you want to purchase.
+OK.[0x000A]The fitting room is this way!
+Certainly.[0x000A]I’ll take you to the fitting room.{0xBE01}[0x000A]This way, please.
+How was it?[0x000A]Take your time and check other items, too.
+How was it?[0x000A]Please take your time and check other items, too.
+Wow. {0x1101,0x0000,0x0908}It looksThey look great on you!{0xBE01}[0x000A]You have {0x0201,0x0000} item{0x1101,0x0000,0x0100}s, and that will be[0x000A]${0x0206,0x0001,0x002C}. Are you going to buy {0x1101,0x0000,0x0402}itthem?
+{0x1101,0x0000,0x0908}It suitsThey suit you very well.{0xBE01}[0x000A]You have {0x0201,0x0000} item{0x1101,0x0000,0x0100}s, and that will be[0x000A]${0x0206,0x0001,0x002C}. Are you going to purchase {0x1101,0x0000,0x0402}itthem?
+I’ll return what you selected.
+I’ll return what you selected.
+It’s OK to just try them on, so feel free to talk[0x000A]to me.
+If you have items you’d like to try on, please don’t[0x000A]hesitate to let me know.
+Well, you have a Discount Coupon, don’t you?{0xBE01}[0x000A]You can get {0x0201,0x0001} percent off,[0x000A]so that will be ${0x0206,0x0000,0x002C}.{0xBE00}[0x000A]Do you want to use the coupon?
+I believe you have a Discount Coupon...{0xBE01}[0x000A]You can get {0x0201,0x0001} percent off, so that will be[0x000A]${0x0206,0x0000,0x002C}.{0xBE00}[0x000A]Would you like to use the coupon?
+All right.[0x000A]Please use it another time.
+Certainly.{0xBE01}[0x000A]You can use the coupon anytime you want, so[0x000A]please use it another time.
+OK.[0x000A]I’ll take your coupon.
+Then I’ll take your coupon.
+Hmm...[0x000A]You don’t seem to have enough money.
+I’m hesitant to say this, but...[0x000A]You don’t seem to have enough money.
+Thank you![0x000A]You look great!
+Thank you very much.
+Please come again!
+We look forward to your shopping with us again.
+You already have this item.
+You already have this item.
+Well, you have a Discount Coupon, don’t you?{0xBE01}[0x000A]You can get {0x0201,0x0001} percent off,[0x000A]so that will be ${0x0206,0x0000,0x002C}.{0xBE00}[0x000A]Do you want to use the coupon?
+I believe you have a Discount Coupon...{0xBE01}[0x000A]You can get {0x0201,0x0001} percent off, so that will be[0x000A]${0x0206,0x0000,0x002C}.{0xBE00}[0x000A]Would you like to use the coupon?
+Would you like to buy this item?
+Would you like to buy this item?
+All right.{0xBE01}[0x000A]You can use the coupon anytime, so use it[0x000A]next time!
+Certainly.{0xBE01}[0x000A]You can use the coupon anytime you want, so[0x000A]please use it another time.
+OK.[0x000A]I’ll take your coupon.
+Then I’ll take your coupon.
+Hmm...[0x000A]You don’t seem to have enough money.
+I’m hesitant to say this, but...[0x000A]You don’t seem to have enough money.
+Thank you![0x000A]Here you go.
+Thank you very much.[0x000A]Here you go.
+OK.[0x000A]Take your time.
+Certainly.[0x000A]Please browse all you like.
+Select again
+Confirm
+Next
+Wearing
+Welcome.{0xBE01}[0x000A]If you’d like, check the items at the back of[0x000A]the shop.
+Welcome.{0xBE01}[0x000A]If you’d like, please check the items at the back[0x000A]of the shop.
+OK.[0x000A]Take your time.
+Certainly.[0x000A]Please browse all you like.
+It’s a fitting room![0x000A]Do you want to change clothes?
+It’s a fitting room![0x000A]Do you want to change clothes?
+Oh, you want to use the fitting room.[0x000A]Take your time!
+You’d like to use the fitting room?[0x000A]Take your time.
+Excuse me.[0x000A]Clothes for men are upstairs.{0xBE01}[0x000A]Please go upstairs and try them on.
+Excuse me.[0x000A]Clothes for women are downstairs.{0xBE01}[0x000A]Please go downstairs and try them on.
+White
+Purchased
+Back

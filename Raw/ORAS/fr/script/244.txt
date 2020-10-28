@@ -1,0 +1,24 @@
+Ici, j’étudie les fossiles de Pokémon.{0xBE01}
+Je vois que tu possèdes un fossile.[0x000A]Veux-tu que je le retransforme en Pokémon[0xE07F]?
+Hum, tu as déjà beaucoup de Pokémon avec toi.[0x000A]Es-tu sûr{0x1100,0x00FF,0x0100}e de vouloir ranimer le fossile[0xE07F]?
+Bien, quel fossile dois-je ranimer[0xE07F]?
+D’accord[0xE07F]!{0xBE01}[0x000A]Ce {0x0109,0x0000}[0x000A]va redevenir un Pokémon[0xE07F]!{0xBE01}
+Tu ne veux pas que ton fossile redevienne[0x000A]un Pokémon[0xE07F]? D’accord[0xE07F]!
+Et voilà, ton fossile est redevenu un Pokémon[0xE07F]!
+Le fossile que tu m’as confié a été ranimé,[0x000A]c’est maintenant redevenu un Pokémon[0xE07F]!{0xBE01}[0x000A]J’ai la joie de t’annoncer qu’il s’agit d’un[0x000A]{0x0101,0x0001}, prends-en bien soin[0xE07F]!{0xBE01}
+{0x0100,0x0002} a obtenu[0x000A]un {0x0101,0x0001}[0xE07F]!
+Voulez-vous renommer votre {0x0101,0x0001}[0xE07F]?
+[0xE08D] Du moins, c’est ce que je te dirais si tu pouvais[0x000A]avoir plus de Pokémon.{0xBE01}[0x000A]Repasse le prendre quand tu auras de la place[0xE07F]![0x000A]En attendant, j’en prendrai bien soin.
+Si tu trouves un fossile, tu as notre adresse[0xE07F]!
+{0x0109,0x0003}
+{0x0109,0x0004}
+Fossile Racine
+Fossile Griffe
+Nautile
+Fossile Dôme
+Vieil Ambre
+Fossile Armure
+Fossile Crâne
+Fossile Plaque
+Fossile Plume
+Quitter

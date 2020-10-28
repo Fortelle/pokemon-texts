@@ -1,0 +1,8 @@
+msg_sub038_adultm_01=I’m not good at raising Pokémon.{0xBE01}[0x000A]I feel sorry for my Charmander because it’s not[0x000A]getting stronger.{0xBE01}[0x000A]So I want to give it to a better Trainer[0x000A]than me. Are you interested?
+msg_sub038_adultm_05=The number of Pokémon you’ve caught[0x000A]is {0x0208,0x0000,0x002C}!
+msg_sub038_adultm_06=Cool! I want you to have this Charmander.[0x000A]Will you take it?
+msg_sub038_adultm_02=Take good care of my Charmander!
+msg_sub038_adultm_07=I’ve caught {0x0202,0x0000} Pokémon.[0x000A]You should catch more than that!
+msg_sub038_adultm_03=Oh... I’d better send it to the professor, then.
+msg_sub038_adultm_04=How’s Charmander doing?
+msg_sub038_poke_01=CHARMANDER: Chaaar!

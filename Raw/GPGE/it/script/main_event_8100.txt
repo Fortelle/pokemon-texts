@@ -1,0 +1,11 @@
+msg_main8100_ice_01={0xFF00,0x0009}Lorelei:{0xFF00,0x0000} Benvenut{0x1100,0x00FF,0x0101}oa alla Lega Pokémon!
+msg_main8100_ice_09=Eccoti, finalmente! Ti stavo aspettando.[0x000A]Ce ne hai messo di tempo!
+msg_main8100_ice_10=Beh, lascia che mi presenti ufficialmente, allora![0x000A]Io sono Lorelei dei Superquattro!
+msg_main8100_ice_05=Nessuno conosce i Pokémon di tipo Ghiaccio[0x000A]meglio di me!
+msg_main8100_ice_06=Congelare i propri avversari è una tattica[0x000A]formidabile!
+msg_main8100_ice_07=Vedrai... Una volta congelati, i tuoi Pokémon[0x000A]saranno alla mercé dei miei attacchi!
+msg_main8100_ice_08=Ah ah ah ah! Spero che tu sia pront{0x1100,0x00FF,0x0101}oa...[0x000A]Cominciamo!
+msg_kanna_01_p02_cave_d1401={0xBDFF:0x0007}
+msg_main8100_ice_02={0xFF00,0x0009}Lorelei:{0xFF00,0x0000} Però! Sei diventat{0x1100,0x00FF,0x0101}oa davvero forte! E va[0x000A]bene... Prosegui pure alla prossima stanza!{0xBE01}[0x000A]Ricorda però: questo non era che un piccolo[0x000A]assaggio.{0xBE01}[0x000A]La vera potenza della Lega Pokémon[0x000A]è ben altra cosa!
+msg_main8100_ice_03={0xFF00,0x0009}Lorelei:{0xFF00,0x0000} Benvenut{0x1100,0x00FF,0x0101}oa alla Lega Pokémon.[0x000A]Ah, capiti al momento giusto!{0xBE01}[0x000A]Stavo pensando proprio ora che mi sarebbe[0x000A]piaciuto lottare di nuovo contro di te!{0xBE01}[0x000A]Spero che tu sia pront{0x1100,0x00FF,0x0101}oa... Cominciamo!
+msg_main8100_ice_04={0xFF00,0x0009}Lorelei:{0xFF00,0x0000} Anche se ho perso contro di te, non[0x000A]smetterò mai di lottare con i Pokémon{0xBE00}[0x000A]di tipo Ghiaccio!{0xBE01}[0x000A]Mi raccomando... Segui il mio esempio! Lotta[0x000A]sempre con i tuoi Pokémon preferiti!

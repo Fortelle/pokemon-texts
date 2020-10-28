@@ -1,0 +1,42 @@
+{0x0202,0x0000}
+{0x0202,0x0000}
+{0x0202,0x0000}
+Sì
+No
+Vuoi salvare questa foto?
+La foto è stata salvata nella[0x000A]Fotocamera Nintendo 3DS.
+Se non la salvi, la foto verrà cancellata.[0x000A]Vuoi continuare?
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+L.
+1,0x
+1,2x
+1,4x
+1,6x
+1,8x
+2,0x
+2,2x
+2,4x
+2,6x
+2,8x
+3,0x
+3,2x
+3,4x
+3,6x
+3,8x
+4,0x
+Salvataggio in corso.[0x000A]Non spegnere la console.
+{0xBDFF:0x0023}
+La foto è stata salvata nella[0x000A]Fotocamera Nintendo 3DS.{0xBE01}[0x000A]Attenzione!{0xBE01}[0x000A]La foto salvata è troppo grande e non può[0x000A]essere inviata al Pokémon Global Link!
+Non c’è spazio sufficiente sulla scheda SD per[0x000A]effettuare il salvataggio.{0xBE01}[0x000A]La foto non verrà salvata.
+Impossibile effettuare il salvataggio perché[0x000A]la Fotocamera Nintendo 3DS è piena.{0xBE01}[0x000A]La foto non verrà salvata.
+Sono stati rilevati degli errori[0x000A]nei file della scheda SD, pertanto{0xBE01}[0x000A]i dati sono stati eliminati.[0x000A]La foto non verrà salvata.
+La foto non verrà salvata.
+{0xBDFF:0x0029}

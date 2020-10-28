@@ -1,0 +1,15 @@
+msg_main0810_musashi_01=JESSIE: Stop right there![0x000A]We’ll be going first!
+msg_main0810_kojiro_01=JAMES: With that specter out of the way, we can[0x000A]finally get to the top!
+msg_main0810_musashi_02=JESSIE: You’re the old geezer they call[0x000A]Mr. Fuji, right?
+msg_main0810_musashi_03=You’re going to be repeating your Pokémon[0x000A]research for the glory of Team Rocket!
+msg_main0810_fuji_01=MR. FUJI: ... ... ...
+msg_main0810_kojiro_02=JAMES: Ignore us all you like—we’re used to it![0x000A]We won’t take no for an answer.{0xBE00}[0x000A]You’ll help the boss, whether you want to or not!
+msg_main0810_musashi_04=JESSIE: Gramps here thinks he can resist,[0x000A]so we’re setting him straight!
+msg_main0810_kojiro_03=JAMES: You’d better disappear, twerp,[0x000A]or be prepared to fight!
+msg_main0810_dummy_01={0xBDFF:0x0008}
+msg_main0810_dummy_02={0xBDFF:0x0009}
+msg_main0810_musashi_05=JESSIE: Ugh! Seriously? Again?
+msg_main0810_kojiro_05=JAMES: Looks like Operation Stealthily Kidnap[0x000A]Fuji is a bust, then...
+msg_main0810_musashi_06=JESSIE: Don’t you think I know that?[0x000A]It’ll be fine—we just have to help out with{0xBE00}[0x000A]the {0xFF00,0x0006}take-over of Silph Co.{0xFF00,0x0000} in {0xFF00,0x0006}Saffron City{0xFF00,0x0000}.
+msg_main0810_kojiro_04=JESSIE & JAMES: Looks like Team Rocket’s[0x000A]blasting off again!
+msg_main0810_musashi_back=JESSIE: Hey, twerp, you can’t battle the both of[0x000A]us with just one Pokémon!{0xBE01}[0x000A]You’d better go get another and come back to[0x000A]take us on!

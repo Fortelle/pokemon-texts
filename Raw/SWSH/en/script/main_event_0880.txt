@@ -1,0 +1,9 @@
+main_event_0880_champion_01={0x1003}{0x0100,0x0000}![0x000A]Seems you’re doing well collecting Gym Badges.{0x0114,0x0004}
+main_event_0880_champion_02=But Hop...{0xBE01}[0x000A]Did something happen with him?[0x000A]He was acting really odd when I ran into him.{0xBE01}[0x000A]He took one look at me and immediately was[0x000A]like, “I’m so sorry, Lee!”{0xBE01}[0x000A]It might be the first time I’ve heard him apologize[0x000A]for anything, and I’ve no idea what it was for!{0x0114,0x0004}
+main_event_0880_champion_03=Maybe he’s feeling down because he’s had some[0x000A]hard losses in battle?{0x0114,0x0004}
+main_event_0880_select_01=He lost to that Challenger Bede
+main_event_0880_select_02=I think so
+main_event_0880_champion_04=When you lose, you feel down in the dumps.{0xBE01}[0x000A]But then there’s nowhere left to go but back up![0x000A]You’ve got to think on why it was you lost, though.{0xBE01}[0x000A]You know, that little brother of mine...I think he[0x000A]might yet become a surprisingly great Trainer!{0x0114,0x0004}
+main_event_0880_champion_05=At least I’ve got you to keep an eye on him.[0x000A]You will look out for Hop, won’t you? As his rival.{0x0114,0x0004}
+main_event_0880_champion_06=Blast, and look at the time!{0xBE01}[0x000A]Nearly forgot my meeting with the chairman.[0x000A]That Oleana really lets me hear it when I’m late!{0xBE01}[0x000A]Now if only I could remember which way to go...{0x0114,0x0004}
+main_event_0880_champion_07=Anyway, I’d say that you should go and say hello[0x000A]to Raihan while you’re here, {0x0100,0x0000}.{0xBE01}[0x000A]He’s the greatest rival I’ve got and the final[0x000A]hurdle you’ll have to face in the Gym Challenge.{0xBE01}[0x000A]He should still be around the vault, if you hurry.[0x000A]It’s down that way—on the way to Route 6.{0x0114,0x0004}

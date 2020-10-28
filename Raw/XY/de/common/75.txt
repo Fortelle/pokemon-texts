@@ -1,0 +1,54 @@
+Optionen
+O.K.
+Zurück
+Text-Tempo
+1
+2
+3
+Wähle eine von drei Textgeschwindigkeiten.
+Animationen
+An
+Aus
+Wähle, ob in den Kämpfen Animationen für die Attacken[0x000A]angezeigt werden sollen.
+Kampfstil
+Wechseln
+Nicht wechseln
+Wähle zwischen zwei verschiedenen Kampfstilen.
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+Textmodus
+Hiragana
+Kanji
+Wähle, wie der japanische Text dargestellt werden soll.
+Kampfhintergrund
+Standard
+Rot
+Blau
+Pikachu
+Starter-Pokémon
+Evoli
+Monochrom
+Pokémon-Sticker
+Japanisch
+Blumenmuster
+Elegant
+Hohes Gras
+Pokébälle
+Cockpit
+Metallic
+Wähle, was für ein Hintergrundmotiv während des Kampfes[0x000A]auf dem Touchscreen angezeigt werden soll.
+Knopfbelegung
+Normal
+L-Knopf = A-Knopf
+L-/R-Knopf inaktiv
+Deaktiviere den L-/R-Knopf oder gib dem L-Knopf die[0x000A]Funktion des A-Knopfes, was auch den R-Knopf deaktiviert.
+Konnex-Sicherung
+An
+Aus
+Wähle, ob du speichern möchtest, bevor du eine Funktion[0x000A]des PSS wie z. B. den Link-Kampf ausführst.
+Änderungen vornehmen?
+Ja
+Nein

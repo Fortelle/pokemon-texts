@@ -1,0 +1,56 @@
+Yo, how’s it going,[0x000A]Champ-to-be {0x0100,0x0000}?
+Sootopolis’s Gym Leader Wallace is[0x000A]a master of Water-type Pokémon.{0xBE01}[0x000A]As you make your way to Wallace,[0x000A]the icy floor will hamper your progress.
+Just between you and me...{0xBE01}[0x000A]Walk on each floor panel just once.[0x000A]That’s the trick!{0xBE00}[0x000A]Be careful, and go for it!
+Yow! You’ve beaten Wallace, who was[0x000A]supposedly the best in all of Hoenn!{0xBE01}[0x000A]OK! Check out your Trainer Card.{0xBE01}[0x000A]If you’ve gotten all the Badges, you’re[0x000A]set for the Pokémon League challenge!
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+{0xBDFF:0x001A}
+{0xBDFF:0x001B}
+Allow me to formally introduce myself.
+I am Wallace.[0x000A]The Gym Leader of Sootopolis City.
+There’s something about you...[0x000A]A difference in your demeanor...
+I think I sense that in you.
+What happened inside the Cave of Origin,[0x000A]and what you did there...{0xBE00}[0x000A]Our upcoming battle will make that all clear.
+Now, show me. Show me the power[0x000A]you wield with your Pokémon.
+And I, in turn, shall present you...
+with a performance of illusions[0x000A]in water...
+by me and my Pokémon!
+{0xBDFF:0x0025}
+I realize now your authenticity and magnificence[0x000A]as a Pokémon Trainer.
+I find much joy in having met you and your Pokémon.
+You have proven yourself worthy of the Rain Badge.
+Accept it.
+{0x0100,0x0000} received the Rain Badge[0x000A]from Wallace.
+Having that Badge assures you full obedience of all[0x000A]your Pokémon to every command you make.
+And so you never forget the battle we shared...
+Here...
+The HM I have given you contains Waterfall.{0xBE01}[0x000A]It allows you to smash into an opponent with[0x000A]the force required to climb a waterfall itself.{0xBE00}[0x000A]Yes, it is a mighty move...{0xBE01}[0x000A]And yet it also has a certain elegance and[0x000A]can sometimes cause opponents to flinch.
+Now, with the power of the Rain Badge, you[0x000A]will become able to use this HM move,{0xBE00}[0x000A]Waterfall, to scale walls of cascading water.
+Many paths are open to you now.
+One path would take you to the Pokémon League.{0xBE01}[0x000A]It is the goal that all Trainers in Hoenn aspire to reach[0x000A]after obtaining all eight Gym Badges.{0xBE01}[0x000A]If that is the path you chose, then you must find your way[0x000A]to the island said to be the most remote in Hoenn:{0xBE00}[0x000A]{0xFF00,0x0002}Ever Grande{0xFF00,0x0000}.
+But if it is a different path you seek, and you would rather[0x000A]pursue Pokémon and a completed Pokédex...{0xBE01}[0x000A]The rumors that reach me on the wind whisper that[0x000A]Professor Birch in {0xFF00,0x0002}Littleroot {0xFF00,0x0000}has created a more{0xBE00}[0x000A]powerful Pokédex.{0xBE01}[0x000A]Visit him, obtain this new technology, and I have little[0x000A]doubt you will encounter more diverse Pokémon than{0xBE00}[0x000A]ever before.{0xBE01}[0x000A]...I will hope that a bright future waits for you,[0x000A]whatever path it is you choose.
+{0xBDFF:0x0033}
+{0xBDFF:0x0034}
+Sootopolis City Pokémon Gym{0xBE01}[0x000A]Gym Leader: Wallace[0x000A]Certified Trainers:{0xBE00}[0x000A]Wally
+Sootopolis City Pokémon Gym{0xBE01}[0x000A]Gym Leader: Wallace[0x000A]Certified Trainers:{0xBE00}[0x000A]Wally, {0x0100,0x0000}
+You have even surpassed Steven...{0xBE01}[0x000A]I am disappointed at my inability to find[0x000A]any fitting words to offer you—you, standing{0xBE00}[0x000A]now at the summit of all Hoenn Trainers.{0xBE01}[0x000A]I look forward to the day when we battle[0x000A]once again.

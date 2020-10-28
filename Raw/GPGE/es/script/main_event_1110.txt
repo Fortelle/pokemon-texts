@@ -1,0 +1,8 @@
+msg_main1110_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¡Ah, aquí estás!
+msg_main1110_rival_06=Me figuraba que, a estas alturas, ya habrías[0x000A]llegado al Gimnasio de Isla Canela.
+msg_main1110_rival_07=Entonces, ¿ya has derrotado a Blaine? ¡Genial![0x000A]¡Enhorabuena!
+msg_main1110_rival_02=Yo ya tengo siete medallas y, si no recuerdo mal,[0x000A]hacen falta {0xFF00,0x0006}ocho {0xFF00,0x0000}para afrontar la Liga Pokémon.
+msg_main1110_rival_08=Lo que significa que solo me queda...
+msg_main1110_rival_03=¡La del Gimnasio de {0xFF00,0x0006}Ciudad Verde{0xFF00,0x0000}![0x000A]Aunque estaba cerrado la última vez que fui.
+msg_main1110_rival_04=¿Tú has estado ya en ese gimnasio?[0x000A]Seguro que aún no.
+msg_main1110_rival_05=Pues nada, supongo que volveré a pasarme por[0x000A]Ciudad Verde a echar un vistazo.

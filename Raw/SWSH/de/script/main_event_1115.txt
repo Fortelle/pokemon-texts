@@ -1,0 +1,7 @@
+main_event_1115_sister_01=Oh, {0x0100,0x0000}!{0x0114,0x000D}
+main_event_1115_sister_06=Sag bloß, du hast schon vier Arenaorden?[0x000A]So langsam wirst du mir ja richtig gefährlich...{0x0114,0x000D}
+main_event_1115_poke1_01=Peko! ♪{0x0114,0x0070}
+main_event_1115_sister_02=Gehört? Sogar Morpeko kriegt immer mehr[0x000A]Respekt vor dir.{0x0114,0x000D}
+main_event_1115_sister_03=W-Was?![0x000A]Moment mal, Morpeko...{0xBE01}[0x000A]Willst du mir etwa sagen, dass du[0x000A]{0x0100,0x0000} magst?{0x0114,0x000D}
+main_event_1115_sister_04=Das ist unser{0x1100,0x00FF,0x0A07,0x0000} Gegnere Gegnerin in der Arena-Challenge,[0x000A]ist dir das klar?{0xBE01}[0x000A]Na schön, was soll’s. Weißt du, was?[0x000A]Ich geb dir meine Ligakarte.{0x0114,0x000D}
+main_event_1115_sister_05=Sieh’s als Zeichen dafür, dass ich dich als[0x000A]{0x1100,0x00FF,0x0D0E,0x0000}meinen Rivalenmeine Rivalin anerkenne.{0xBE01}[0x000A]Schließlich haben es außer uns nicht viele[0x000A]so weit geschafft.{0xBE01}[0x000A]Wir sehen uns am Ende der Arena-Challenge.[0x000A]Als Gegner. Klar?{0x0114,0x000D}

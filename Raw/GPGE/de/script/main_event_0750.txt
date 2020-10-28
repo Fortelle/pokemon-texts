@@ -1,0 +1,9 @@
+msg_main0750_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Dann wurde Tragossos[0x000A]Mutter also...
+msg_main0750_youngf_01={0xFF00,0x0009}Mädchen:{0xFF00,0x0000} Genau!{0xBE01}[0x000A]Team Rocket schnappt sich ein Knogga nach[0x000A]dem anderen, um die Schädel, die sie tragen,{0xBE00}[0x000A]teuer verkaufen zu können.{0xBE01}[0x000A]Tragosso sucht bestimmt immer noch völlig[0x000A]verzweifelt nach seiner Mutter...{0xBE01}[0x000A]Team Rocket ist einfach das Letzte.
+msg_main0750_rival_02={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Ja, das ist echt furchtbar...{0xBE01}[0x000A]Ich hab vorhin selbst beobachtet, wie Tragosso[0x000A]in diesem Turm verschwunden ist.{0xBE01}[0x000A]Ich halte am besten auch nach ihm Ausschau,[0x000A]wenn ich schon nach diesem verschollenen{0xBE00}[0x000A]Mr. Fuji suche.
+msg_main0750_youngf_02={0xFF00,0x0009}Mädchen:{0xFF00,0x0000} Danke! Pass auf dich auf!
+msg_main0750_rival_03={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} G-Gespenster sind zwar nicht[0x000A]gerade meine Stärke, aber da muss ich durch!
+msg_main0750_rival_04={0xBDFF:0x0005}
+msg_main0750_rival_05={0xBDFF:0x0006}
+msg_main0750_rival_06={0xBDFF:0x0007}
+msg_main0750_rival_07={0xBDFF:0x0008}

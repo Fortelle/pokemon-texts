@@ -1,0 +1,7 @@
+main_event_1510_staff_01=Benvenut{0x1100,0x00FF,0x0101}oa. Tu sei {0x0100,0x0000}, vero?{0xBE01}[0x000A]La Coppa Campione sta finalmente per[0x000A]cominciare e ora ti spiegherò come funziona.{0xBE01}[0x000A]La competizione inizia con il Torneo delle[0x000A]Semifinali in cui si affrontano gli Allenatori{0xBE00}[0x000A]che hanno superato la Sfida delle Palestre.{0xBE01}[0x000A]Se superi le semifinali, dovrai affrontare il Torneo[0x000A]delle Finali in cui affronterai i sette migliori{0xBE00}[0x000A]Capipalestra di Galar.{0xBE01}[0x000A]Se vinci anche le Finali ti guadagnerai il diritto di[0x000A]disputare il Match con il Campione, vale a dire{0xBE00}[0x000A]la finalissima contro il Campione in persona!
+main_event_1510_staff_02=Entra in campo, l’incontro inizierà a breve.
+main_event_1510_rival_01={0xBDFF:0x0002}
+main_event_1510_rival_02={0xBDFF:0x0003}
+main_event_1510_staff_03=Il tuo sfidante è già allo stadio che ti aspetta!
+main_event_1510_yellm_01=Ah, ma sei tu... Beh, buona fortuna.{0xBE01}[0x000A]Non ti illudere, però. Sarà Mary a vincere!{0x0114,0x0043}
+main_event_1510_yellw_01=Noi del Team Yell faremo sempre il tifo[0x000A]per la signorina Mary!{0x0114,0x0044}

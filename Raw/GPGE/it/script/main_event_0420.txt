@@ -1,0 +1,7 @@
+msg_main0420_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Di qua, {0x0100,0x0000}!
+msg_main0420_rival_02=Sono appena stato dal capitano! Mi ha insegnato[0x000A]la {0xFF00,0x0006}Tecnica Segreta{0xFF00,0x0000} di cui è esperto!
+msg_main0420_rival_06=Peccato che avesse un gran mal di mare...
+msg_main0420_rival_03=Beh, prima che tu vada a trovare il capitano...[0x000A]Che ne dici di mostrarmi come stai{0xBE00}[0x000A]allenando i tuoi Pokémon?
+msg_main0420_dummy_01={0xBDFF:0x0004}
+msg_main0420_rival_04={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} {0x0100,0x0000}...[0x000A]Sbaglio o stai diventando un po’ troppo forte...?
+msg_main0420_rival_05=Ah, fai come se non avessi detto niente!{0xBE01}[0x000A]Adesso vai a farti insegnare quella[0x000A]{0xFF00,0x0006}Tecnica Segreta{0xFF00,0x0000} dal capitano, su!

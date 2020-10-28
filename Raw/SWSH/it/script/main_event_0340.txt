@@ -1,0 +1,14 @@
+main_event_0340_rival_01={0x0100,0x0000}, ascolta i consigli[0x000A]del sottoscritto!{0x0114,0x0005}
+main_event_0340_rival_02=Sai già che molti Pokémon si nascondono[0x000A]nell’erba alta, no?{0x0114,0x0005}
+main_event_0340_rival_03=Se ti accovacci e cammini piano piano,[0x000A]non si accorgeranno di te!{0x0114,0x0005}
+main_event_0340_rival_04=Ma se fischi con le dita attirerai subito[0x000A]la loro attenzione!{0x0114,0x0005}
+main_event_0340_rival_05=Se fischiare non è il tuo forte, prova a premere[0x000A]lo stick sinistro e... vedrai!{0x0114,0x0005}
+main_event_0340_rival_06=Tutto chiaro, {0x0100,0x0000}? Allora facciamo[0x000A]una gara a chi cattura più Pokémon!{0x0114,0x0005}
+main_event_0340_rival_07=Hai presente la Stazione di Brassbury, dove[0x000A]siamo andati a prendere mio fratello?{0xBE01}[0x000A]Ecco, il traguardo è lì!{0x0114,0x0005}
+main_event_0340_rival_14={0x0100,0x0000}, la stazione è da questa parte!{0x0114,0x0005}
+main_event_0340_rival_08=Ehi, {0x0100,0x0000}![0x000A]Allora, quanti Pokémon hai catturato?{0xBE01}[0x000A]Io uno, ma è favoloso!{0x0114,0x0005}
+main_event_0340_rival_09=Vediamo...{0xBE01}[0x000A]Non ne hai catturato nessuno?[0x000A]Come sarebbe a dire?!{0xBE01}[0x000A]Guarda che non andrai molto lontano[0x000A]senza Pokémon!{0x0114,0x0005}
+main_event_0340_rival_10=Vediamo...{0xBE01}[0x000A]Ne hai catturato uno! Vuol dire che siamo pari![0x000A]Sei un{0x1100,0x00FF,0x0B0A} mio degnoa mia degna rivale!{0x0114,0x0005}
+main_event_0340_rival_11=Vediamo...{0xBE01}[0x000A]Però... ne hai catturati più di me![0x000A]Di questo passo, la tua squadra{0xBE00}[0x000A]diventerà un portento!{0x0114,0x0005}
+main_event_0340_rival_12=Tieni, questa è una Macchina Tecnica!{0xBE01}[0x000A]Grazie alle MT, puoi insegnare nuove[0x000A]mosse ai Pokémon in un istante!{0xBE00}[0x000A]Inoltre, puoi usarle tutte le volte che vuoi!{0xBE01}[0x000A]Quella che ti ho dato contiene Comete,[0x000A]era un regalo di mio fratello!{0x0114,0x0005}
+main_event_0340_rival_13=La Sfida delle Palestre comincia a Steamington,[0x000A]quindi dobbiamo prendere il treno...{0xBE00}[0x000A]Forza, seguimi!{0x0114,0x0005}

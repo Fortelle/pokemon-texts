@@ -1,0 +1,15 @@
+msg_town002_kanban_01=這裡是常青市[0x000A]常青即是亙古恆久的翠綠之色
+msg_town002_kanban_02=常青市寶可夢道館
+msg_town002_door_01=常青市道館的門[0x000A]鎖上了……！
+msg_town002_kanban_03={0xBDFF:0x0003}
+msg_town002_kanban_04=……有用的告示板！{0xBE01}[0x000A]當精靈球用完了，[0x000A]就到友好商店購買吧！
+msg_town002_kanban_05=這裡是訓練家學校[0x000A]知識就是力量！
+msg_town002_childm_01_01={0x1100,0x00FF,0x0101}你妳帶著的……！[0x000A]正是寶可夢！{0xBE01}[0x000A]能和喜歡的寶可夢[0x000A]一起到處走動，{0xBE00}[0x000A]這個世界真美好啊。
+msg_town002_oldm_01_01=無論什麼時候來，[0x000A]這間道館的門總是鎖著的。{0xBE01}[0x000A]到底這裡的館主[0x000A]是個怎樣的傢伙啊？
+msg_town002_oldm_01_02=常青市的[0x000A]道館館主回來了！
+msg_town002_bugcatcher_01_01={0x1100,0x00FF,0x0101}你妳一定不知道[0x000A]蟲寶寶寶可夢有２種吧？
+msg_town002_bugcatcher_01_02=那就好！
+msg_town002_bugcatcher_01_03=綠毛蟲沒有毒，[0x000A]可是獨角蟲是有毒的。{0xBE01}[0x000A]要小心不要被牠[0x000A]扎到{0x1100,0x00FF,0x0101}你妳的寶可夢啊。
+msg_town002_jevenile_f_01={0xBDFF:0x000C}
+msg_town002_poke_01=走路草「走路～！
+msg_town002_middlem_01=呦！{0x1100,0x00FF,0x0101}你妳好啊，真新人！

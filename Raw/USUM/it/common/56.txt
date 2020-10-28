@@ -1,0 +1,73 @@
+Inizia la Gara in Diretta
+Sì
+No
+Affronta la sfida
+Rivedi la lotta precedente
+Abbandona la gara
+Rivedi la lotta
+Risultati precedenti
+Tramite infrarossi
+Tramite QR Code
+Gara in Diretta
+Con la modalità Gara in Diretta potrai partecipare[0x000A]a una gara insieme ad altri giocatori.[0x000A][0x000A]Per altre informazioni sulle gare ufficiali[0x000A]puoi consultare il sito Pokémon ufficiale.
+{0x01AF,0x0000}
+{0x01AF,0x0000}
+{0x0201,0x0002}/{0x0201,0x0001}/{0x0203,0x0000,0x0000}
+Risultati di {0x0100,0x0000}
+Lotte affrontate:
+{0x0201,0x0000}
+/
+{0x0201,0x0000}
+Vittorie:
+{0x0201,0x0000}
+Sconfitte:
+{0x0201,0x0000}
+{0x0122,0x0000}
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+{0x0202,0x0000}
+Avversario
+{0x0100,0x0000}
+{0x0124,0x0000}
+{0x0125,0x0000}
+La vittoria va a {0x0100,0x0000}!
+La lotta finisce in pareggio.
+{0x0100,0x0000} vince a tavolino!
+{0x0100,0x0001} ha esaurito il tempo.[0x000A]La vittoria va a {0x0100,0x0000}.
+{0x0100,0x0001} ha abbandonato la lotta.[0x000A]La vittoria va a {0x0100,0x0000}.
+{0x0200,0x0000}
+{0x0100,0x0000}
+{0x0100,0x0000}
+L
+Questa è la Gara in Diretta!
+Per partecipare a una Gara in Diretta[0x000A]devi avere il Certificato Partecipante.{0xBE01}[0x000A]Come vuoi riceverlo?
+Allinea i moduli a infrarossi per ricevere[0x000A]il Certificato Partecipante.
+L’operazione è stata annullata.{0xBE01}
+Hai ricevuto il Certificato Partecipante.{0xBE01}
+Impossibile ricevere il Certificato Partecipante.[0x000A]Riprova dall’inizio.{0xBE01}
+Hai raggiunto il numero di lotte prefissato.[0x000A]Complimenti, ora puoi riposare!{0xBE01}
+Controllo scheda SD in corso.[0x000A]Non spegnere la console.
+La scheda SD è piena.[0x000A]Impossibile salvare il Video Lotta.{0xBE01}
+I dati sono danneggiati.[0x000A]Il Video Lotta non può essere riprodotto.{0xBE01}
+Vuoi interrompere la ricerca?
+Interruzione della comunicazione in corso...
+Iscrivi la Squadra Lotta con cui vuoi partecipare[0x000A]alla gara.
+Vuoi abbandonare la seguente gara?[0x000A]{0x01AF,0x0000}
+Se annulli l’iscrizione alla gara, non vi potrai[0x000A]più partecipare.{0xBE01}[0x000A]Vuoi davvero abbandonare la seguente gara?[0x000A]{0x01AF,0x0000}
+Hai abbandonato la seguente gara:[0x000A]{0x01AF,0x0000}{0xBE01}[0x000A]La Squadra Lotta è stata sbloccata.{0xBE01}
+L’iscrizione della Squadra Lotta è stata[0x000A]annullata.{0xBE01}
+Cosa vuoi fare?
+Non hai ancora affrontato nessuna lotta.{0xBE01}
+Ricerca di un avversario in corso...[0x000A]Premi il pulsante B per annullare.
+Collegamento in corso.[0x000A]Attendi...
+Quando verrà dato il segnale d’inizio,[0x000A]premi il pulsante A.
+Le vostre regole di gara non coincidono.{0xBE01}
+Questa è l’ultima lotta che hai affrontato.[0x000A]Vuoi rivederla?
+Non sono stati trovati Video Lotta.{0xBE01}
+I dati sono stati inviati.{0xBE01}
+Vuoi annullare l’iscrizione della Squadra Lotta?
+Salvataggio in corso.
+Hai già partecipato a questa gara.{0xBE01}
+Registra
+Hai abbandonato la seguente gara:[0x000A]{0x01AF,0x0000}{0xBE01}
+Non puoi partecipare a questa gara.{0xBE01}

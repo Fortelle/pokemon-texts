@@ -1,0 +1,16 @@
+main_event_1820_assistant_01=¿{0x0100,0x0000} y Paul? ¿Qué hacéis aquí?[0x000A]¿No es ahora el Encuentro de Campeones?{0x0114,0x000B}
+main_event_1820_mama_01=Ay, Sonia, parece que vives en otro mundo...{0xBE01}[0x000A]El Presidente Rose ha saboteado la competición,[0x000A]por decirlo de alguna manera.{0x0114,0x0008}
+main_event_1820_assistant_02=¿Cómo?{0xBE01}[0x000A]¿Qué?{0xBE01}[0x000A]¿Qué me he perdido mientras investigaba en el[0x000A]Bosque Oniria?{0x0114,0x000B}
+main_event_1820_mama_02=Pues verás, de repente apareció un vórtice negro[0x000A]sobre el Estadio de Artejo...{0xBE01}[0x000A]¿Cómo lo llamaron? La Negra Noche o algo así...{0xBE01}[0x000A]Sea como fuere, lo ha puesto todo patas arriba.{0x0114,0x0008}
+main_event_1820_mama_03=¡Pero bueno, no pasa nada!{0xBE01}[0x000A]Seguro que nuestro imbatible Campeón nos saca[0x000A]a todos de esta.{0x0114,0x0008}
+main_event_1820_assistant_03=Espere, espere...{0xBE01}[0x000A]¡¿Ha dicho "Negra Noche"?!{0x0114,0x000B}
+main_event_1820_assistant_09=Increíble... Ese es el nombre con el que, en la[0x000A]leyenda de Galar, se refieren al vórtice negro{0xBE00}[0x000A]que asoló la región antaño...{0x0114,0x000B}
+main_event_1820_assistant_08=A todo esto, aún no me habéis dicho qué estáis[0x000A]haciendo aquí.{0x0114,0x000B}
+main_event_1820_select_01=Vamos a detener la Negra Noche
+main_event_1820_select_02=Hemos venido a buscar al Pokémon espada
+main_event_1820_select_03=Hemos venido a buscar al Pokémon escudo
+main_event_1820_assistant_04=¿Queréis detenerla?{0xBE01}[0x000A]Eso quiere decir que... ¿pretendéis buscar a los[0x000A]Pokémon de la leyenda?{0x0114,0x000B}
+main_event_1820_assistant_05=Ya veo... Si la leyenda es cierta, el Pokémon[0x000A]espada y el Pokémon escudo podrían ayudarnos{0xBE00}[0x000A]a detener la Negra Noche.{0x0114,0x000B}
+main_event_1820_assistant_06=En ese caso, tomad esto. Daos prisa e id al[0x000A]Bosque Oniria.{0xBE01}[0x000A]No os preocupéis, en cuanto termine un asunto[0x000A]que tengo pendiente, iré yo también.{0x0114,0x000B}
+main_event_1820_assistant_07=Tengo que seguir investigando acerca del origen[0x000A]del Pokémon espada y el Pokémon escudo.{0x0114,0x000B}
+main_event_1820_mama_04=Ahora que mi niñ{0x1100,0x00FF,0x0101}oa ya es un{0x1100,0x00FF,0x0100}a Entrenador{0x1100,0x00FF,0x0100}a con[0x000A]todas las de la ley, es su deber hacer lo que esté{0xBE00}[0x000A]en su mano para ayudar...{0x0114,0x0008}

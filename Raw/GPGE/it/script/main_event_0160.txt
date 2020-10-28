@@ -1,0 +1,6 @@
+msg_main0160_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Ah, cercavo giusto te!
+msg_main0160_rival_02={0x0100,0x0000}! In questa città c’è una {0xFF00,0x0006}Palestra{0xFF00,0x0000}[0x000A]che fa proprio al caso nostro!{0xBE01}[0x000A]Pare che il {0xFF00,0x0006}Capopalestra{0xFF00,0x0000} sia davvero fortissimo!
+msg_main0160_rival_05=D’altronde lottare contro Allenatori capaci[0x000A]è proprio quello che ci vuole per diventare{0xBE00}[0x000A]più forti!
+msg_main0160_rival_04={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Oh, anche {0x0102,0x0003}[0x000A]non vede l’ora di lottare, vero?{0xBE01}[0x000A]Ok! Mi raccomando, faccio il tifo per voi![0x000A]Tieni!
+msg_main0160_sys_01={0x0100,0x0000} riceve 5 Pozioni[0x000A]da {0x0100,0x0001}!
+msg_main0160_rival_03=Ne ho comprate un po’ anche per te[0x000A]usando i soldi che ho guadagnato{0xBE00}[0x000A]sconfiggendo gli altri Allenatori!{0xBE01}[0x000A]Se riuscirai a battere il Capopalestra[0x000A]dimostrerai di essere un{0x1100,0x00FF,0x0B0A} Allenator’Allenatrice{0xBE00}[0x000A]a tutti gli effetti!{0xBE01}[0x000A]Buona fortuna, {0x0100,0x0000}!

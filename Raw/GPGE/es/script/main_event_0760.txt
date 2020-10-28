@@ -1,0 +1,4 @@
+msg_main0760_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¡Anda, {0x0100,0x0000}![0x000A]¡Has llegado en el momento justo!{0xBE01}[0x000A]¿Lo has oído todo?[0x000A]¿Quieres acompañarme?
+msg_main0760_rival_02=¡Así me gusta! Venga, vamos.
+msg_main0760_rival_03=Bueno, avísame cuando estés list{0x1100,0x00FF,0x0101}oa.
+msg_main0760_rival_04={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¡No perdamos tiempo! Yo iré[0x000A]detrás de ti y estaré ojo avizor.

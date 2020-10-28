@@ -1,0 +1,7 @@
+msg_t001r0201_sister_01=Hallo, {0x0100,0x0000}!{0xBE01}[0x000A]Mein kleiner Bruder war gerade auf dem Weg[0x000A]zu dir.{0xBE01}[0x000A]Habt ihr euch etwa verpasst? Dabei meinte[0x000A]{0x0100,0x0001} noch, dass ihr zusammen zu{0xBE00}[0x000A]Professor Eichs Labor gehen wolltet...
+msg_t001r0101_sister_02=Hallo, {0x0100,0x0000}!{0xBE01}[0x000A]Mein kleiner Bruder war gerade auf dem Weg[0x000A]zu dir.{0xBE01}[0x000A]Habt ihr euch etwa verpasst? Dabei meinte[0x000A]{0x0100,0x0001} noch, dass ihr zusammen zu{0xBE00}[0x000A]Professor Eichs Labor gehen wolltet...
+msg_t001r0101_sister_03=Oh, du und {0x0100,0x0001} habt also beide[0x000A]ein Pokémon erhalten? Das freut mich für euch!
+msg_t001r0101_sister_04=Oh, du und {0x0100,0x0001} habt also beide[0x000A]ein Pokémon erhalten? Das freut mich für euch!
+msg_t001r0201_map_02={0xBDFF:0x0004}
+msg_t001r0201_map_01=Hier ist ein Magazin mit dem Titel:[0x000A]„Das Pokémon-Journal“{0xBE01}[0x000A]Ein Trainer, der seine Pokémon gut behandelt,[0x000A]wird von ihnen sicherlich ins Herz geschlossen.
+msg_t001r0201_photo_01=Das ist ein Foto von {0x0100,0x0001}.

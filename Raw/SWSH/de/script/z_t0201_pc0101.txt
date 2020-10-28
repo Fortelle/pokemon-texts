@@ -1,0 +1,4 @@
+msg_t0201pc0101_npc1_01=Wo wären wir nur ohne die Pokémon-Center?{0xBE01}[0x000A]Hier kannst du deine Pokémon heilen lassen,[0x000A]sooft du willst, und das sogar kostenlos!
+msg_t0201pc0101_npc2_01=Wilde Pokémon können zwar gefährlich sein,[0x000A]aber nur so lange, bis du sie fängst!{0xBE01}[0x000A]In den richtigen Händen hat jedes von ihnen das[0x000A]Potenzial, ein zuverlässiger Partner zu werden.
+msg_t0201pc0101_npc3_01={0xBDFF:0x0002}
+msg_t0201_pc0101_poke1_01_pop=Servol! ♪

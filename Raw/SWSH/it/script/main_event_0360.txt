@@ -1,0 +1,14 @@
+main_event_0360_rival_01=Signor capostazione, questa è la stazione[0x000A]delle Terre Selvagge, giusto?{0xBE01}[0x000A]Perché ci siamo fermati qui?{0x0114,0x0005}
+main_event_0360_stationmaster_01=Il treno si è dovuto fermare a causa[0x000A]di un gruppo di Wooloo sui binari.{0xBE00}[0x000A]Ci scusiamo per l’inconveniente.
+main_event_0360_rival_02=Ma quale inconveniente! È una fortuna!{0x0114,0x0005}
+main_event_0360_select_01=Una fortuna?
+main_event_0360_select_02=Perché?
+main_event_0360_rival_03=Le Terre Selvagge sono immense e pullulano[0x000A]di Pokémon!{0xBE01}[0x000A]Capisci che vuol dire questo, {0x0100,0x0000}?[0x000A]Che possiamo formare una squadra fortissima!{0x0114,0x0005}
+main_event_0360_stationmaster_02=Potete tornare a Brassbury quando volete,[0x000A]ma raggiungere Steamington con il treno{0xBE00}[0x000A]al momento è impossibile.{0xBE01}[0x000A]Non possiamo certo costringere tutti quei[0x000A]Pokémon a spostarsi solo per noi!
+main_event_0360_assistant_01={0xBDFF:0x0007}
+main_event_0360_rival_05={0xBDFF:0x0008}
+main_event_0360_rival_06={0xBDFF:0x0009}
+main_event_0360_assistant_02={0xBDFF:0x000A}
+main_event_0360_assistant_03={0xBDFF:0x000B}
+main_event_0360_rival_04={0xBDFF:0x000C}
+main_event_0360_assistant_04={0xBDFF:0x000D}

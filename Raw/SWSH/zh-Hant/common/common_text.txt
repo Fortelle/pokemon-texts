@@ -1,0 +1,5 @@
+msg_ui_common_text_01=已載入備份資料。[0x000A]在寫入紀錄時，[0x000A]將以此資料覆蓋原有資料。[0x000A]敬請注意。
+msg_ui_common_text_02=沒有備份資料，[0x000A]無法載入。[0x000A]將返回主畫面。
+msg_ui_common_text_03=正在寫入紀錄……
+msg_ui_common_text_04=紀錄已損壞。[0x000A]請刪除主機中的[0x000A]儲存資料。
+msg_ui_common_text_05={0xBDFF:0x0004}

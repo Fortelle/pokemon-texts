@@ -1,0 +1,3 @@
+msg_egg_event_01_01=Hein ?!
+msg_egg_event_02_01=Un {0x0101,0x0000} vient de sortir de l’Œuf !
+msg_egg_event_03_01=Voulez-vous donner un surnom[0x000A]à {0x0101,0x0000} ?

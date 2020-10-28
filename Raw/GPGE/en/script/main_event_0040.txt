@@ -1,0 +1,16 @@
+msg_main0040_rival_01={0xBDFF:0x0000}
+msg_main0040_doctor_01={0xBDFF:0x0001}
+msg_main0040_doctor_02={0xBDFF:0x0002}
+msg_main0040_doctor_04={0xBDFF:0x0003}
+msg_main0040_doctor_05={0xBDFF:0x0004}
+msg_main0040_doctor_03=OAK: Hey! Where do you think you’re going?[0x000A]Back over here, young {0x1100,0x00FF,0x0403}manlady!
+msg_main0040_rival_02={0xBDFF:0x0006}
+msg_main0040_new_rival_01={0x01CD,0x0001}: Professor Oak!{0xBE01}[0x000A]Those Poké Balls there—I swear there were only[0x000A]two a second ago, but now there are three!
+msg_main0040_new_doctor_01=OAK: A perfectly reasonable reaction, my boy![0x000A]You see, one of them is {0x1302,0x0002}{0x0101,0x0002} that{0xBE00}[0x000A]{0x0100,0x0000} caught just now.
+msg_main0040_new_rival_02={0x01CD,0x0001}: So, wait, {0x0100,0x0000}...[0x000A]You caught it yourself?
+msg_main0040_new_rival_03=Wha—?! I’ve never seen that happen before!
+msg_main0040_new_doctor_02=OAK: Hohoho! How interesting!
+msg_main0040_new_doctor_04=Well, my {0x1100,0x00FF,0x0403}boygirl, this is it! Take that Poké Ball—[0x000A]and keep good hold of it this time!
+msg_main0040_new_doctor_03=Go on![0x000A]{0x0101,0x0002} is yours now!
+msg_main0040_new_rival_04=I think the Pokémon you caught is in the middle[0x000A]Poké Ball, {0x0100,0x0000}.
+msg_main0040_new_rival_05={0x01CD,0x0001}: I think it’s trying to tell you[0x000A]you’re going for the wrong one, pal!

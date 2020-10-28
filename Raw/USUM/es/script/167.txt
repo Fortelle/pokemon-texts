@@ -1,0 +1,19 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+¡Has encontrado un montón de setas![0x000A]¿Cuál necesitas?
+Miniseta
+Seta Grande
+Has guardado la Miniseta en el Zurrón.
+Has intentado coger una Seta Grande.
+¡Lo que parecía una Seta Grande te ataca[0x000A]violentamente!
+¿Cómo va? Oh, veo que has conseguido una[0x000A]Miniseta. ¡Genial!{0x0114,0x000E}
+Las Minisetas son muy populares entre ciertos[0x000A]círculos. Si las pruebas, sabrás por qué.{0x0114,0x000E}
+¡Estupendo! ¡Has encontrado todos los[0x000A]ingredientes!{0xBE01}[0x000A]Muy bien. Voy a comenzar la preparación, así[0x000A]que ven a la entrada de la jungla, ¿vale?{0x0114,0x000E}
+¡Solo te falta un ingrediente! ¡Hale, a recoger!{0x0114,0x000E}
+¡Solo te faltan dos ingredientes! ¡Hale, a recoger!{0x0114,0x000E}
+¡Te faltan tres ingredientes más![0x000A]¡A recoger se ha dicho!{0x0114,0x000E}

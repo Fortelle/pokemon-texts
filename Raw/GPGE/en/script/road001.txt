@@ -1,0 +1,6 @@
+msg_road001_childm_01=See those ledges along the road?{0xBE01}[0x000A]It’s a bit scary, but you can hop down from them.{0xBE01}[0x000A]You’ll get back to Pallet Town quicker that way.
+msg_road001_kanban_01=Route 1[0x000A](Pallet Town ⇄ Viridian City)
+msg_sub001_clerkm_01={0xBDFF:0x0002}
+msg_road001_8rom_01={0xBDFF:0x0003}
+msg_sub001_clerkm_02={0xBDFF:0x0004}
+msg_road001_shortpants_01=You’ve got a pretty sweet Pokémon with you!{0xBE01}[0x000A]I’ll bring along my favorite Pokémon later,[0x000A]so you’d better battle me when I do!

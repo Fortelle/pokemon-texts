@@ -1,0 +1,111 @@
+Completamento:
+{0x0202,0x0000}
+%
+{0x0202,0x0000}%
+Pokédex di Alola
+Pokédex di Mele Mele
+Pokédex di Akala
+Pokédex di Ula Ula
+Pokédex di Poni
+{0xBDFF:0x0009}
+Valutazione del Pokédex
+{0x0202,0x0000}
+{0x0202,0x0000}
+{0x0101,0x0000}
+???
+Mele Mele
+Akala
+Ula Ula
+Poni
+{0x0105,0x0000}
+Habitat
+Aspetto/Verso
+Forma di {0x0101,0x0000}
+Maschio
+Femmina
+{0xBDFF:0x0019}
+Altezza
+Peso
+?????
+???,? m
+???,? kg
+Zoom
+Ruota
+Verso
+Animaz.
+Habitat sconosciuto
+Vive su un’altra isola
+{0xBDFF:0x0025}
+{0xBDFF:0x0026}
+{0xBDFF:0x0027}
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+Non hai ancora catturato questo Pokémon.[0x000A]Il QR Code non è disponibile.
+Scegli il Pokédex che vuoi far valutare.
+{0xBDFF:0x002C}
+I dati di {0x0101,0x0000} sono stati inseriti[0x000A]nel Pokédex.
+Registrazione completata!
+Avanti
+Vuoi dare un soprannome a {0x0102,0x0000}?
+Sì
+No
+{0xBDFF:0x0033}
+Cosa vuoi fare con {0x0102,0x0000}?
+Aggiungi alla squadra
+Invia ai Box del PC
+Scegli il Pokémon della squadra che vuoi sostituire.
+{0x0102,0x0000} è stato aggiunto alla squadra.
+{0x0102,0x0000} verrà aggiunto alla squadra e[0x000A]{0x0102,0x0001} verrà inviato ai Box del PC.
+{0x0102,0x0000} verrà inviato ai Box del PC.
+{0x0102,0x0000} ha {0x1502,0x0001}{0x0109,0x0001}.[0x000A]Cosa vuoi fare con questo strumento?
+Metti nella Borsa
+Invia ai Box del PC
+Hai messo {0x1500,0x0000}{0x0109,0x0000} in Borsa.
+Hai raggiunto il limite per questo oggetto!
+Prendi {0x0109,0x0000}
+Invia ai Box del PC
+Hai preso {0x0109,0x0000}.
+Mostra le info di {0x0102,0x0000}
+Mostra le info della squadra
+Mostra per
+Nome
+Tipo 1
+Tipo 2
+Colore
+Sagoma
+Aspetto
+Catturato
+Numero
+Ordine alfabetico
+Peso decrescente
+Peso crescente
+Altezza decrescente
+Altezza crescente
+Rosso
+Blu
+Giallo
+Verde
+Nero
+Marrone
+Viola
+Grigio
+Bianco
+Rosa
+Megaevoluzione
+Cromatico
+Sì
+No
+－－－
+－－－
+－－－
+Azzera
+Ok
+Vuoi uscire senza modificare i criteri?
+Trovati:
+{0x0202,0x0000}/{0x0202,0x0001}
+Questo è un Pokémon speciale e non dispone[0x000A]di un QR Code.
+{0xBDFF:0x006A}
+{0xBDFF:0x006B}
+Se scambi questo Pokémon non potrai proseguire la tua[0x000A]avventura!
+{0x0101,0x0000} verrà inviato ai Box del PC.{0xBE01}[0x000A]Non dimenticare di recuperare la Poké Ball.
+Forma di Alola

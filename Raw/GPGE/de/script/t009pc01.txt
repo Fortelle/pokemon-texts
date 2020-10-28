@@ -1,0 +1,6 @@
+msg_t009pc01_woman_01=Ich wollte die Arena der Zinnoberinsel besuchen,[0x000A]aber die Türen sind verschlossen.{0xBE01}[0x000A]Es muss irgendwo einen Schlüssel geben.[0x000A]Vielleicht in dieser Villa, in der ein Freund des{0xBE00}[0x000A]Arenaleiters gewohnt haben soll...?
+msg_t009pc01_gentlem_01=Hast du eigentlich viele Freunde?{0xBE01}[0x000A]Soviel ich weiß, werden mit Freunden getauschte[0x000A]Pokémon schneller stärker.{0xBE01}[0x000A]Es kann sicher nicht schaden, das mal[0x000A]auszuprobieren!
+msg_t009pc01_bugcatcher_01=Selbst wenn du die Entwicklung eines Pokémon[0x000A]abbrichst, kann es weitere Attacken erlernen.{0xBE01}[0x000A]Manchmal lohnt es sich sogar, die Entwicklung[0x000A]zu verzögern, bis es eine bestimmte Attacke{0xBE00}[0x000A]erlernt hat.
+msg_t009pc01_book_01=Hier ist ein Magazin mit dem Titel:[0x000A]„Die Stimme des Pokémon-Centers“
+msg_t009pc01_select_01=Möchtest du es lesen?
+msg_t009pc01_book_02=In letzter Zeit wurde auf der Zinnoberinsel[0x000A]verstärkt vulkanische Aktivität gemessen.{0xBE01}[0x000A]Im Falle eines Vulkanausbruchs ist die Insel[0x000A]unverzüglich zu verlassen.{0xBE01}[0x000A]Das Pokémon-Center wird seinen Dienst so[0x000A]lange wie möglich fortsetzen.{0xBE01}[0x000A]Besucher werden gebeten, sich vor Betreten[0x000A]des Gebäudes von Vulkanasche zu säubern.

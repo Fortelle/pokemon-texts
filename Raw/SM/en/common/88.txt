@@ -1,0 +1,58 @@
+When You Meet Someone[0x000A]Please select a category to choose a phrase you would use.[0x000A]The current message you use when you meet someone:[0x000A]“{0x01B7,0x0000}”[0x000A]You chose it from the[0x000A]{0x01B7,0x0001} category.
+When You Meet Someone[0x000A]Please select the message you would like to send out when[0x000A]you meet someone. The current message you use: [0x000A]“{0x01B7,0x0000}”[0x000A]You chose it from the[0x000A]{0x01B7,0x0001} category.
+When You Are Moved[0x000A]Please select a category to choose a phrase you would use.[0x000A]The current message you use when you are moved:[0x000A]“{0x01B7,0x0000}”[0x000A]You chose it from the[0x000A]{0x01B7,0x0001} category.
+When You Are Moved[0x000A]Please select the message you would like to send out when[0x000A]you are moved. The current message you use:[0x000A]“{0x01B7,0x0000}”[0x000A]You chose it from the[0x000A]{0x01B7,0x0001} category.
+When You Part with Someone[0x000A]Please select a category to choose a phrase you would use.[0x000A]The current message you use when you part with someone:[0x000A]“{0x01B7,0x0000}”[0x000A]You chose it from the[0x000A]{0x01B7,0x0001} category.
+When You Part with Someone[0x000A]Please select the message you would like to send out when[0x000A]you part with someone. The current message you use:[0x000A]“{0x01B7,0x0000}”[0x000A]You chose it from the[0x000A]{0x01B7,0x0001} category.
+When You Are Disappointed[0x000A]Please select a category to choose a phrase to use.[0x000A]The current message you use when you are disappointed:[0x000A]“{0x01B7,0x0000}”[0x000A]You chose it from the[0x000A]{0x01B7,0x0001} category.
+When You Are Disappointed[0x000A]Please select the message you would like to send out when[0x000A]you are disappointed. The current message you use:[0x000A]“{0x01B7,0x0000}”[0x000A]You chose it from the[0x000A]{0x01B7,0x0001} category.
+Your Secret[0x000A]Please select a category to choose a phrase to use.[0x000A]Your current secret:[0x000A]“{0x01B7,0x0000}”[0x000A]You chose it from the[0x000A]{0x01B7,0x0001} category.
+Your Secret[0x000A]Please select the message you would like to send out about[0x000A]your secret. Your current secret:[0x000A]“{0x01B7,0x0000}”[0x000A]You chose it from the[0x000A]{0x01B7,0x0001} category.
+When You Meet Someone[0x000A]Please select a category to choose a phrase to use.[0x000A]The current message you use when you meet someone:[0x000A]“{0x01B7,0x0000}” ★[0x000A]You chose it from the[0x000A]{0x01B7,0x0001} category.
+When You Meet Someone[0x000A]Please select the message to send out when you meet[0x000A]someone. Your current message:[0x000A]“{0x01B7,0x0000}” ★[0x000A]You chose it from the[0x000A]{0x01B7,0x0001} category.
+When You Are Moved[0x000A]Please select a category to choose a phrase to use.[0x000A]The current message you use when you are moved:[0x000A]“{0x01B7,0x0000}” ★[0x000A]You chose it from the[0x000A]{0x01B7,0x0001} category.
+When You Are Moved[0x000A]Please select the message to send out when you’re moved.[0x000A]Your current message:[0x000A]“{0x01B7,0x0000}” ★[0x000A]You chose it from the[0x000A]{0x01B7,0x0001} category.
+When You Part with Someone[0x000A]Please select a category to choose a phrase to use.[0x000A]The current message you use when you part with someone:[0x000A]“{0x01B7,0x0000}” ★[0x000A]You chose it from the[0x000A]{0x01B7,0x0001} category.
+When You Part with Someone[0x000A]Please select the message to send out when you part with[0x000A]someone. Your current message:[0x000A]“{0x01B7,0x0000}” ★[0x000A]You chose it from the[0x000A]{0x01B7,0x0001} category.
+When You Are Disappointed[0x000A]Please select a category to choose a phrase to use.[0x000A]The current message you use when you are disappointed:[0x000A]“{0x01B7,0x0000}” ★[0x000A]You chose it from the[0x000A]{0x01B7,0x0001} category.
+When You Are Disappointed[0x000A]Please select the message to send out when you’re[0x000A]disappointed. Your current message:[0x000A]“{0x01B7,0x0000}” ★[0x000A]You chose it from the[0x000A]{0x01B7,0x0001} category.
+Your Secret[0x000A]Please select a category to choose a phrase to use.[0x000A]Your current secret:[0x000A]“{0x01B7,0x0000}” ★[0x000A]You chose it from the[0x000A]{0x01B7,0x0001} category.
+Your Secret[0x000A]Please select the message you would like to send out about[0x000A]your secret. Your current secret:[0x000A]“{0x01B7,0x0000}” ★[0x000A]You chose it from the[0x000A]{0x01B7,0x0001} category.
+Please select a message.{0xBE01}
+You chose to set your message as[0x000A]“{0x01B7,0x0000}”{0xBE01}
+Favorite Trainers
+About Me
+My Hobbies
+Common Phrases
+About Pokémon
+Alola Life
+Trainer Goals
+Let’s Communicate
+Happy Thoughts
+Feeling Frustrated
+Feeling Down
+Feeling Fun
+Feeling Surprised
+Hello/Good-Bye
+Exclaim Aloud
+Common Answers
+Take Action
+Favorite Type
+My Wishes
+Current Feeling
+{0xBDFF:0x002A}
+{0xBDFF:0x002B}
+{0xBDFF:0x002C}
+{0xBDFF:0x002D}
+{0xBDFF:0x002E}
+{0xBDFF:0x002F}
+{0xBDFF:0x0030}
+{0xBDFF:0x0031}
+{0xBDFF:0x0032}
+{0xBDFF:0x0033}
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+----------------------------------------------
+Decide for me!
+{0x01B7,0x0000}
+Here, you can register messages you want to[0x000A]send to others.[0x000A][0x000A]Messages are divided into categories.[0x000A][0x000A]Please select a category, and then select[0x000A]a message.

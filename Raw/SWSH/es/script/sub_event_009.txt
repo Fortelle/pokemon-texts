@@ -1,0 +1,8 @@
+sub_event_009_doctor_01=Enhorabuena, Campe{0x1100,0x00FF,0x0302}ónona. Te he traído un[0x000A]obsequio para conmemorar tu victoria.{0x0114,0x000A}
+sub_event_009_mama_01=¡Profesora Magnolia! No hacía falta que se[0x000A]molestase...{0x0114,0x0008}
+sub_event_009_doctor_02=Tras todo lo que ha conseguido, creo que es lo[0x000A]mínimo que se merece {0x0100,0x0000}.{0x0114,0x000A}
+sub_event_009_doctor_03=El fenómeno Dinamax es posible gracias a las[0x000A]Estrellas Deseo, que son fragmentos de{0xBE00}[0x000A]Eternatus...{0xBE01}[0x000A]Y fue precisamente despertar a Eternatus la[0x000A]causa de que toda esa energía Dinamax se{0xBE00}[0x000A]extendiese sin control a lo largo y a lo ancho{0xBE00}[0x000A]de la región.{0x0114,0x000A}
+sub_event_009_doctor_04=Entonces un gran número de Pokémon Dinamax[0x000A]empezaron a sembrar el caos por todo Galar...{0xBE01}[0x000A]¡Quién sabe qué destino le hubiese deparado a[0x000A]nuestra preciada tierra si no hubiese sido por{0xBE00}[0x000A]{0x0100,0x0000} y compañía!{0x0114,0x000A}
+sub_event_009_doctor_05=Pero hay que tener en cuenta que la energía[0x000A]Dinamax es una parte fundamental de la cultura{0xBE00}[0x000A]de nuestra región.{0xBE01}[0x000A]No nos queda otra que esperar que todos la[0x000A]utilicen de manera responsable.{0x0114,0x000A}
+sub_event_009_doctor_06=Hasta otra, {0x0100,0x0000}.[0x000A]Sigue siempre el camino que consideres correcto.{0x0114,0x000A}
+sub_event_009_mama_02=Con todo lo que ha pasado, el haber investigado[0x000A]tanto el fenómeno Dinamax para el Presidente{0xBE00}[0x000A]Rose debe de pesarle en la conciencia a la{0xBE00}[0x000A]pobre Profesora Magnolia.{0x0114,0x0008}

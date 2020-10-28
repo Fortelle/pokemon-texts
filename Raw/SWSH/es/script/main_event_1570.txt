@@ -1,0 +1,17 @@
+main_event_1570_telop_01=Horas más tarde...
+main_event_1570_rival_01=¿Por qué tarda tanto Lionel? ¡Qué raro!{0x0114,0x0005}
+main_event_1570_rival_02=Él siempre cumple su palabra. Fíjate que de[0x000A]pequeño me prometió que algún día sería{0xBE00}[0x000A]Campeón, y ya ves tú si cumplió.{0x0114,0x0005}
+main_event_1570_rival_03=¿Qué le cuesta hacernos un huequecillo para una[0x000A]cena de nada?{0x0114,0x0005}
+main_event_1570_leader_01=Menuda bocaza que tienes, chaval... Se ve que[0x000A]la fuerza se te fue por ahí durante el combate.{0xBE01}[0x000A]Esa energía ponla en el combate en lugar de[0x000A]montar escenitas...{0x0114,0x0016}
+main_event_1570_rival_04=¡Venga ya, Nerio! No vayas de guay poniendo[0x000A]cara de malote mientras sueltas el discursillo con{0xBE00}[0x000A]esas pintas que llevas. ¡Estoy hablando en serio!{0x0114,0x0005}
+main_event_1570_leader_02=Así que juzgando por las apariencias, ¿eh?[0x000A]Ahora pillo por qué has perdido.{0x0114,0x0016}
+main_event_1570_leader_03=Si estáis buscando al Campeón, se ha pirado a la[0x000A]Torre Rose.{0x0114,0x0016}
+main_event_1570_select_01=¿Y eso?
+main_event_1570_select_02=¿Por qué a la Torre Rose?
+main_event_1570_leader_04=Bueno, la razón no la tengo clara, pero me topé[0x000A]con él en el andén del monorraíl.{0xBE01}[0x000A]Me pidió que os dijese que llegaría tarde a la[0x000A]cena porque tenía que ir a la Torre Rose.{0x0114,0x0016}
+main_event_1570_rival_05=¿Pero qué se le habrá perdido precisamente[0x000A]ahora en la Torre Rose?{0x0114,0x0005}
+main_event_1570_rival_06=Oye, Nerio, ¿podrías hacernos el favor de venir[0x000A]con nosotros a la torre?{0xBE01}[0x000A]Ni {0x0100,0x0000} ni yo sabemos llegar.{0x0114,0x0005}
+main_event_1570_leader_05=Tienen tela los hermanitos... No hacen más que[0x000A]pedir por esa boquita.{0x0114,0x0016}
+main_event_1570_leader_06=Aunque, pensándolo bien...{0xBE01}[0x000A]Si el Torneo de Finalistas no arranca, yo también[0x000A]me como un buen marronazo.{0xBE01}[0x000A]Y bueno, tampoco es que os tenga tirria por[0x000A]haberme ganado. Hmm...{0x0114,0x0016}
+main_event_1570_leader_07=¡Ya lo tengo! ¿Qué tal si me llevo a la panda del[0x000A]Team Yell? Cuantos más, mejor...{0x0114,0x0016}
+main_event_1570_rival_07=¡Pues venga! ¡Ya estamos tardando!{0x0114,0x0005}

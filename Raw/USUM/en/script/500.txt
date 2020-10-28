@@ -1,0 +1,13 @@
+The strongest Dragon-type move is called[0x000A]Draco Meteor.{0xBE01}[0x000A]Do you want me to teach the move to[0x000A]your Pokémon?
+I understand... Moves that are too strong[0x000A]can be difficult to use.
+This Pokémon could learn this move, but[0x000A]there is one condition that needs to be met.{0xBE01}[0x000A]That is...the Pokémon has to be completely[0x000A]friendly toward you.{0xBE01}[0x000A]I can teach the move only after the Pokémon[0x000A]becomes totally bonded with you.
+None of the Pokémon you are with right now can[0x000A]learn this move...{0xBE01}[0x000A]Please come back when you obtain a Pokémon[0x000A]that can learn this move!
+Then please select the Pokémon that will learn[0x000A]this move.
+Oh, this Pokémon can’t learn this move.
+Oh, this is an Egg.[0x000A]I can’t teach the move to an Egg.
+Oh, this Pokémon already knows Draco Meteor.
+Draco Meteor is indeed the strongest[0x000A]Dragon-type move.{0xBE01}[0x000A]But using it lowers the user’s Sp. Atk stat[0x000A]quite a bit.
+Please choose a move that will be replaced[0x000A]with {0x0107,0x0000}.
+{0x0102,0x0000} learned[0x000A]{0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+1, {0xBE02:0x0014}2, and{0xBE02:0x0014}... {0xBE02:0x0014}... {0xBE02:0x0014}... Ta-da!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} forgot how to[0x000A]use {0x0107,0x0001}.{0xBE01}[0x000A]And...{0xBE01}[0x000A]{0x0102,0x0000} learned[0x000A]{0x0107,0x0002}!{0xBE05,0x0004}{0xBE05,0x0001}
+{0x0102,0x0000} did not learn[0x000A]{0x0107,0x0001}.

@@ -1,0 +1,10 @@
+msg_sub044_rocketchief_01={0xFF00,0x0009}Archer:{0xFF00,0x0000} E tu?
+msg_sub044_rocketchief_02=Cosa ci sei venut{0x1100,0x00FF,0x0101}oa a fare qui?{0xBE01}[0x000A]È colpa tua se il Team Rocket si è sciolto...
+msg_sub044_rocketchief_03=Non sono uno che si lascia trascinare[0x000A]dalle emozioni, ma vorrei farti capire{0xBE00}[0x000A]cosa sto provando.
+msg_sub044_rocketchief_04=...{0xBE01}[0x000A]Bah, ormai non ha alcuna importanza...
+msg_sub044_rocketchief_05=A dire la verità...{0xBE01}[0x000A]Avevo previsto che saresti venut{0x1100,0x00FF,0x0101}oa, e per questo[0x000A]ti stavo scrivendo una lettera.
+msg_sub044_rocketchief_09=Te la leggo.
+msg_sub044_rocketchief_06={0x0100,0x0000},[0x000A]congratulazioni per aver conquistato{0xBE00}[0x000A]la Lega Pokémon.{0xBE01}[0x000A]Non ti porto rancore per quello che hai[0x000A]fatto al Team Rocket, anzi.{0xBE01}[0x000A]Questa sconfitta mi servirà da spinta per dare[0x000A]vita a un Team Rocket ancora più forte.{0xBE01}[0x000A]Non finisce qui. Torneremo e annunceremo[0x000A]al mondo intero la nostra rinascita.{0xBE01}[0x000A]Presto lascerò Kanto, ma tu continua pure[0x000A]a darti da fare in questa regione.{0xBE01}[0x000A]Addio,[0x000A]Archer
+msg_sub044_rocketchief_07={0xFF00,0x0009}Archer:{0xFF00,0x0000} Chissà perché ho scritto queste cose...[0x000A]Che reazione mi aspettavo da te? Eheheh...
+msg_sub044_system_01=Archer strappa la lettera.
+msg_sub044_rocketchief_08=Abbi cura di te.

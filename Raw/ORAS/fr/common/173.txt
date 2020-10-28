@@ -1,0 +1,28 @@
+POKÉ LIEN
+Oui
+Non
+En savoir plus
+Voulez-vous recevoir les données[0x000A]du Poké Lien[0xE07F]?
+{0xBDFF:0x0005}
+Données en cours de réception[0xE08D][0x000A]Ne pas éteindre la console.
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+Données introuvables.{0xBE01}[0x000A]Pour faire fonctionner le Poké Lien, vous[0x000A]devez envoyer des données depuis un logiciel{0xBE00}[0x000A]Nintendo 3DS téléchargeable compatible.{0xBE01}
+{0xBDFF:0x000B}
+Impossible de recevoir des données.{0xBE01}[0x000A]Pour recevoir des données, vous devez avoir[0x000A]six places libres dans vos Boîtes.{0xBE01}[0x000A]Veuillez faire du rangement dans vos Boîtes[0x000A]et réessayez de lancer le Poké Lien.{0xBE01}
+Pokémon transféré(s) dans le PC.{0xBE05,0x0000}{0xBE01}
+Objet(s) transféré(s) dans le Sac.{0xBE05,0x0000}{0xBE01}
+Données reçues corrompues.{0xBE01}
+Réinitialisation des données.
+Données réinitialisées.{0xBE01}[0x000A]Veuillez relancer le logiciel téléchargeable[0x000A]et envoyer à nouveau les données.{0xBE01}
+Impossible de recevoir des données.{0xBE01}[0x000A]Pour recevoir des données, progressez[0x000A]dans l’aventure jusqu’à obtenir le Pokédex,{0xBE00}[0x000A]puis sauvegardez.{0xBE01}
+{0xBDFF:0x0013}
+Données de {0x0196,0x0001}[0x000A]reçues[0xE07F]!{0xBE05,0x0000}{0xBE01}
+{0x0206,0x0001,0xE07F} Poké Mile{0x1101,0x0001,0x110D} a été envoyés ont été envoyés à[0x000A]{0x0100,0x0002}[0xE07F]!{0xBE05,0x0000}{0xBE01}
+{0x0206,0x0001,0xE07F} Point{0x1101,0x0001,0x1B17} de Combat a été envoyés de Combat ont été envoyés[0x000A]à {0x0100,0x0002}[0xE07F]!{0xBE05,0x0000}{0xBE01}
+Œuf(s) transféré(s) dans le PC.{0xBE05,0x0000}{0xBE01}
+Baie(s) transférée(s) dans le Sac.{0xBE05,0x0000}{0xBE01}
+{0xBDFF:0x0019}
+Le Poké Lien permet de recevoir des données[0x000A]transmises par un logiciel téléchargeable{0xBE00}[0x000A]Nintendo 3DS.{0xBE01}[0x000A]Les Pokémon ou objets ainsi reçus sont[0x000A]directement transférés{0xBE00}[0x000A]dans votre PC ou votre Sac.{0xBE01}
+CT transférée(s) dans le Sac.{0xBE05,0x0000}{0xBE01}

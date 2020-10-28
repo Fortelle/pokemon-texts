@@ -1,0 +1,90 @@
+Me gustaría comprar algo
+Me gustaría vender algo
+Solo estoy mirando
+¡Bienvenid{0x1100,0x00FF,0x0101}oa a la Tienda Pokémon![0x000A]¿En qué puedo ayudarte?
+¡Vuelve cuando quieras!
+¿Puedo ayudarte en algo más?
+Dinero
+PM
+PB
+{0x0206,0x0000,0xE07F} $
+{0x0204,0x0000,0xE07F} $
+{0xBDFF:0x000B}
+-
+{0x0206,0x0000,0xE07F}
+{0x0204,0x0000,0xE07F}
+Cancelar
+{0x0109,0x0000}
+Llevas:
+{0x0202,0x0000}
+
+
+x
+{0x0201,0x0000}
+¿Cuánt{0x1100,0x0000,0x0101}oas {0x1001}{0x0109,0x0000} quieres?
+No tienes suficiente dinero.
+A ver... {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Serán {0x0206,0x0002,0xE07F} $, ¿de acuerdo?
+A ver... {0x0201,0x0001} {0x0109,0x0000}...[0x000A]Serán {0x0206,0x0002,0xE07F} $, ¿de acuerdo?
+Sí
+No
+¡Aquí tienes! ¡Gracias![0x000A]
+Guardas {0x1700,0x0000}{0x0109,0x0000} en el[0x000A]Bolsillo {0x0112,0x0001}.
+No tienes suficiente espacio en la Bolsa.
+También consigues una Honor Ball extra.
+Este es el mostrador de venta de MT.[0x000A]¿En qué puedo ayudarte?
+¡Ya tienes esa MT!
+¿La MT{0x0202,0x0000} {0x0107,0x0001}? Vale.[0x000A]Te costará {0x0206,0x0002,0xE07F} $. ¿De acuerdo?
+Has puesto la MT {0x0107,0x0000} en el[0x000A]Bolsillo {0x0112,0x0001}.{0xBE01}
+¡A las ricas hierbas medicinales! ¡Traídas del[0x000A]extranjero para que tu Pokémon esté con{0xBE00}[0x000A]energía el día entero! ¡Compra, compra!
+Esperamos verte pronto por aquí.[0x000A]¡Gracias por tu visita!
+¿Te puedo ayudar en algo más?
+¿Cuánt{0x1100,0x0000,0x0101}oas {0x1001}{0x0109,0x0000} quieres[0x000A]llevarte?
+Así que {0x0201,0x0001} {0x0109,0x0000}, ¿eh?[0x000A]Pues serán {0x0206,0x0002,0xE07F} $, ¿vale?
+Así que {0x0201,0x0001} {0x0109,0x0000}, ¿eh?[0x000A]Pues serán {0x0206,0x0002,0xE07F} $, ¿vale?
+Aquí tienes tu compra.[0x000A]¡Muchas gracias!
+¡Ya no puedes llevar más!
+¡No tienes suficiente dinero!
+¡Bienvenid{0x1100,0x00FF,0x0101}oa a la Boutique de la Piedra![0x000A]Especialistas en ti... y en tus piedras favoritas.
+Esperamos verte por aquí de nuevo.
+¿Te puedo ayudar en algo más?
+Una {0x0109,0x0000}, ¿eh?[0x000A]¡Tienes buen ojo! ¿Cuántas querrías?
+{0x0201,0x0001} cuesta {0x0206,0x0002,0xE07F} $.[0x000A]¿Te parece bien?
+{0x0201,0x0001} cuestan {0x0206,0x0002,0xE07F} $.[0x000A]¿Te parece bien?
+Ahí tienes. Y recuerda: ¡nada de tirar piedras a[0x000A]tu propio tejado!
+¡Uy! ¡No te cabe ni una piedra más de estas!
+Lamento decirte que en un establecimiento tan[0x000A]fino no se fía. ¡Te hace falta más dinero!
+¡Bienvenid{0x1100,0x00FF,0x0101}oa a la Boutique Poké Ball![0x000A]Especializados en... eso: ¡Poké Balls!
+¡Hasta la vista y que tengas muy buen viaje!
+¿Deseas alguna cosa más?
+Cuantas más tengas, mejor, ¿no?[0x000A]¿Cuántas quieres llevarte?
+¡De acuerdo! Pues como te llevas {0x0201,0x0001}, tu[0x000A]compra asciende a {0x0206,0x0002,0xE07F} $.
+¡Estupendo! Ahora, ya sabes:[0x000A]¡a capturar Pokémon fabulosos!
+¡Pero si ya no te cabe ninguna más!{0xBE01}[0x000A]Bueno, no a ti, a tu Bolsa, digo. Tú ya me[0x000A]entiendes; que ni que te las fueras a comer...
+Me sabe mal decírtelo, pero es que... no[0x000A]tienes dinero suficiente.
+¡Bienvenid{0x1100,0x00FF,0x0101}oa! Aquí solo elaboramos Pociones[0x000A]con los ingredientes más selectos.
+¡Bienvenid{0x1100,0x00FF,0x0101}oa! Somos una tienda especializada[0x000A]que solo vende Poké Balls.
+Recorro el mundo entero para ofrecer a mis[0x000A]clientes solo el incienso más selecto.
+No tienes suficientes Poké Millas.
+No tienes suficientes Puntos de Batalla.
+¿Cuánt{0x1100,0x0000,0x0101}oas {0x1001}{0x0109,0x0000} quieres?
+¿Cuánt{0x1100,0x0000,0x0101}oas {0x1001}{0x0109,0x0000} quieres?
+{0x0201,0x0001} te costará {0x0206,0x0002,0xE07F} PM.[0x000A]¿Te parece bien?
+{0x0201,0x0001} te costará {0x0206,0x0002,0xE07F} PB.[0x000A]¿Te parece bien?
+{0x0201,0x0001} te costarán {0x0206,0x0002,0xE07F} PM.[0x000A]¿Te parece bien?
+{0x0201,0x0001} te costarán {0x0206,0x0002,0xE07F} PB.[0x000A]¿Te parece bien?
+Pues aquí tienes. ¡Muchas gracias!
+Pues aquí tienes. ¡Muchas gracias!
+No tienes suficiente espacio en la Bolsa.
+No tienes suficiente espacio en la Bolsa.
+¿Quieres la MT{0x0202,0x0000} {0x0107,0x0001}?[0x000A]Eso te va a costar {0x0206,0x0002,0xE07F} PM.
+¿Quieres la MT{0x0202,0x0000} {0x0107,0x0001}?[0x000A]Eso te va a costar {0x0206,0x0002,0xE07F} PB.
+¿Quieres intercambiar Poké Millas por regalos?
+Puedes conseguir Poké Millas al intercambiar[0x000A]Pokémon o al cruzarte con otros jugadores{0xBE00}[0x000A]mediante StreetPass.{0xBE01}[0x000A]El número de Poké Millas que puedes obtener[0x000A]depende de la distancia entre las regiones en{0xBE00}[0x000A]las que están registradas las consolas{0xBE00}[0x000A]Nintendo 3DS de ambos jugadores.{0xBE01}[0x000A]También puedes acumular Poké Millas[0x000A]caminando por la región de Kalos.{0xBE01}[0x000A]Para saber el número de Poké Millas que[0x000A]tienes, basta con mirar tu Ficha de Entrenador.
+Sigue acumulando Poké Millas y vuelve por[0x000A]aquí cuando quieras.
+¡Hola!{0xBE01}[0x000A]¡Bienvenid{0x1100,0x00FF,0x0101}oa al Servicio de Intercambio de[0x000A]Puntos de Batalla!{0xBE01}[0x000A]¿Quieres cambiar tus Puntos de Batalla por[0x000A]regalos?
+Sigue acumulando Puntos de Batalla y vuelve[0x000A]por aquí cuando quieras.
+Sí
+No
+Información
+Mira, mira... ¡Menudo estilazo que tiene est{0x1100,0x00FF,0x0101}ea[0x000A]Entrenador{0x1100,0x00FF,0x0100}a! Vas a comprar cantidad de{0xBE00}[0x000A]Poké Balls, ¿a que sí?
+¡Muy bien! Pues si quieres {0x0201,0x0001}, te saldrá[0x000A]por {0x0206,0x0002,0xE07F} $, ¿de acuerdo?

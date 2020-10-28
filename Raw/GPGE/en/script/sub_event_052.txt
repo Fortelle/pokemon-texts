@@ -1,0 +1,12 @@
+msg_sub052_researcher_01=Hi! Remember me?[0x000A]I’m one of Professor Oak’s assistants.{0xBE01}[0x000A]The professor told me that if your Pokédex has[0x000A]good data on 50 species of Pokémon, I’m to{0xBE00}[0x000A]give you this {0xFF00,0x0006}wonderful item{0xFF00,0x0000}.{0xBE01}[0x000A]So, {0x0100,0x0000}, let me ask you...{0xBE01}[0x000A]Have you gathered data on at least 50 species[0x000A]of Pokémon?
+msg_sub052_researcher_02=Great![0x000A]You have caught {0x0202,0x0004} species of Pokémon!{0xBE01}[0x000A]Congratulations![0x000A]Here, take this wonderful item!
+msg_sub052_researcher_03=...Oh, I don’t have it![0x000A]D-d-did I lose it?!
+msg_sub052_researcher_04=Ah, so sorry. What shall I do...?[0x000A]I don’t have anything I can give you...{0xBE00}[0x000A]I know!
+msg_sub052_researcher_05=Whoooooosh!
+msg_sub052_researcher_06=Heh...huh...heh... Phew![0x000A]OK! Here it is!
+msg_sub052_sys_01=You got an {0xFF00,0x0006}Assistant Set{0xFF00,0x0000} from[0x000A]Professor Oak’s assistant!
+msg_sub052_sys_02=You put the {0xFF00,0x0006}Assistant Set{0xFF00,0x0000} in your Clothing Trunk!
+msg_sub052_researcher_07=I made adjustments on my lab coat for you[0x000A]and your Pokémon.{0xBE01}[0x000A]My precious lab coat...[0x000A]Please wear it with care.
+msg_sub052_researcher_08=Now I look like an ordinary person, but please[0x000A]remember that I’m an assistant to Professor Oak.
+msg_sub052_researcher_09=Let’s see...[0x000A]Uh-oh! You’ve only caught {0x0202,0x0004} species{0xBE00}[0x000A]of Pokémon!{0xBE01}[0x000A]You’ve got to reach 50 species if you want[0x000A]this {0xFF00,0x0006}wonderful item{0xFF00,0x0000} from me.
+msg_sub052_researcher_10=...Oh. I see.{0xBE01}[0x000A]When you get 50 species of Pokémon, come[0x000A]back for this {0xFF00,0x0006}wonderful item{0xFF00,0x0000}.

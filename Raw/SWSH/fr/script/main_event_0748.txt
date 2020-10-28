@@ -1,0 +1,11 @@
+main_event_0748_sister_01=Euh... {0x0100,0x0000}, c’est ça ?[0x000A]Eh ben, tu t’entraînes tard !{0x0114,0x000D}
+main_event_0748_sister_02=Dis, tu veux bien m’rendre un service ?[0x000A]On peut s’faire un combat ?{0xBE01}[0x000A]J’stresse un peu pour le Défi,[0x000A]j’ai peur d’pas avoir le niveau.{0x0114,0x000D}
+main_event_0748_select_01=Ça marche !
+main_event_0748_select_02=Là, maintenant ? Euh...
+main_event_0748_sister_07=Hé ! T’en va pas comme ça !{0x0114,0x000D}
+main_event_0748_sister_08=On s’fait un p’tit combat avant qu’tu rentres,[0x000A]allez !{0x0114,0x000D}
+main_event_0748_sister_03=T’hésites pas, ça m’plaît !{0x0114,0x000D}
+main_event_0748_sister_04=Oh bah, bravo la motivation !{0x0114,0x000D}
+main_event_0748_sister_05={0xBDFF:0x0008}
+main_event_0748_sister_06=Vu la journée qui nous attend demain, moi,[0x000A]c’est dodo direct. Tu f’rais bien d’faire pareil.{0x0114,0x000D}
+main_event_0748_poke1_01=Mormorp !{0x0114,0x0070}

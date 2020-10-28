@@ -1,0 +1,14 @@
+sub_event_002_sister_01={0x0100,0x0000}, com’è la vita da Campione{0x1100,0x00FF,0x0300}ssa?[0x000A]Ti sei un tantinello calat{0x1100,0x00FF,0x0101}oa nella parte, o sbaglio?{0x0114,0x000D}
+sub_event_002_sister_02=Io, come vedi, sono diventata una Capopalestra[0x000A]coi controfiocchi!{0x0114,0x000D}
+sub_event_002_sister_03=Voglio mostrare a tutti che non c’è bisogno[0x000A]di ricorrere al Dynamax per divertirsi nelle lotte...{0xBE00}[0x000A]Basta inventarsi le strategie giuste!{0x0114,0x000D}
+sub_event_002_sister_04=Allora, Campione{0x1100,0x00FF,0x0300}ssa! Ti va un incontro[0x000A]amichevole?{0x0114,0x000D}
+sub_event_002_select_01=Certo!
+sub_event_002_select_02=Non ora...
+sub_event_002_sister_05=Bene! Però non fraintendermi...{0xBE01}[0x000A]Non mi stai facendo un favore, sono io[0x000A]che lo faccio a te!{0x0114,0x000D}
+sub_event_002_sister_06=Beh, a Spikeville gioco in casa...[0x000A]Non mi stupisce che ti manchi il coraggio.{0x0114,0x000D}
+sub_event_002_sister_07=Non ti smentisci mai, {0x0100,0x0000}![0x000A]Sei proprio un{0x1100,0x00FF,0x0100}a gran Campione{0x1100,0x00FF,0x0300}ssa!{0x0114,0x000D}
+sub_event_002_sister_08=Ok! Tieni, voglio darti qualcosa di speciale.[0x000A]Non perderla o mi arrabbio, capito?{0x0114,0x000D}
+sub_event_002_sister_09=Torna pure quando vuoi.[0x000A]Ti darò una mano ad allenarti!{0x0114,0x000D}
+sub_event_002_sister_10=Ah, {0x0100,0x0000}, sei tornat{0x1100,0x00FF,0x0101}oa![0x000A]Se ci tieni così tanto, lotterò con te...{0xBE01}[0x000A]Pront{0x1100,0x00FF,0x0101}oa?{0x0114,0x000D}
+sub_event_002_sister_11=Finché non avrò battuto te, non potrò dire[0x000A]di aver davvero superato mio fratello!{0x0114,0x000D}
+sub_event_002_sister_12=È proprio vero, lottare con {0x1100,0x00FF,0x0E0B}il Campionela Campionessa[0x000A]è sempre uno spasso!{0xBE01}[0x000A]Torna presto, io e Morpeko ti aspettiamo!{0x0114,0x000D}

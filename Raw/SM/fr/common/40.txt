@@ -1,0 +1,111 @@
+Connexion locale active.
+Actuellement connecté à Internet.
+Bouton Y : Quitter
+Combat
+Échange
+Bouton Y : Participer
+Liste noire
+Échange Link
+GTS
+Échange Miracle
+Combat Link
+Coin Combats
+Télécharger les règles
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+Combat Solo
+Combat Duo
+Combat Multi
+Bataille Royale
+Bouton Y : Ajouter
+Oui
+Non
+La communication sans fil est désactivée.
+{0xBDFF:0x0018}
+Accepter
+Voulez-vous quitter la Place Festival[0xE07F]?
+Fermeture...[0x000A]Veuillez patienter.
+{0x0100,0x0000} vous invite à disputer[0x000A]un Combat Solo.
+{0x0100,0x0000} vous invite à disputer[0x000A]un Combat Duo.
+{0x0100,0x0000} vous invite à disputer[0x000A]un Combat Multi.
+{0x0100,0x0000} vous invite à disputer[0x000A]une Bataille Royale.
+Que voulez-vous faire[0xE07F]?
+Que voulez-vous faire[0xE07F]?
+Choisissez votre méthode de recherche.
+Quel format de combat voulez-vous disputer[0xE07F]?
+Si vous ajoutez un utilisateur à votre liste noire,[0x000A]vous ne pourrez plus communiquer avec lui.{0xBE01}[0x000A]Voulez-vous ajouter cette personne à votre[0x000A]liste noire[0xE07F]?
+Votre liste noire a été mise à jour.{0xBE01}
+La carte SD est pleine.[0x000A]Ajout impossible.{0xBE01}[0x000A]Veuillez quitter le jeu et faire de la place[0x000A]sur la carte SD.
+Invitation à un Combat Solo...
+Invitation à un Combat Duo...
+Invitation à un Combat Multi...
+Invitation à une Bataille Royale...
+Toutes les personnes invitées au Combat Multi[0x000A]ont accepté de participer[0xE07F]!
+{0x0100,0x0000} a accepté l’invitation[0xE07F]!
+{0x0100,0x0000} a refusé l’invitation.{0xBE01}
+Recherche d’adversaires en cours...
+Vous avez reçu une invitation de la part[0x000A]{0x1408,0x0000}{0x0100,0x0000}[0xE07F]!
+Voulez-vous arrêter votre recherche[0x000A]d’adversaires[0xE07F]?
+Voulez-vous retirer l’invitation[0xE07F]?
+L’invitation a été retirée.
+La communication a été interrompue.{0xBE01}
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+Fermeture en cours...[0x000A]Veuillez patienter.
+La communication sans fil est désactivée.[0x000A]Déconnexion...{0xBE01}
+{0xBDFF:0x0038}
+Réponse en cours...[0x000A]Veuillez patienter.
+La connexion a été interrompue.{0xBE01}
+{0xBDFF:0x003B}
+{0xBDFF:0x003C}
+{0xBDFF:0x003D}
+{0xBDFF:0x003E}
+Préparation en cours...[0x000A]Veuillez patienter.
+Demande d’échange envoyée.
+Vous avez reçu une demande d’échange[0x000A]de la part {0x1408,0x0000}{0x0100,0x0000}.
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}
+{0xBDFF:0x0046}
+La mini-quête «[0xE07F]{0x01B5,0x0000}[0xE07F]» est ouverte... Touchez pour participer[0xE07F]!
+{0xBDFF:0x0048}
+La communication sans fil est désactivée.[0x000A]Activez la communication sans fil pour pouvoir[0x000A]vous connecter.
+Une erreur de connexion, d’alimentation ou autre[0x000A]est survenue, ou votre console s’est éteinte[0x000A]durant un échange ou une connexion à la GTS.[0x000A]Pour cette raison, tout échange en ligne ou[0x000A]connexion à la GTS est momentanément[0x000A]impossible.[0x000A][0x000A]{0xFF00,0x0002}Vous devrez patienter un moment avant[0x000A]de pouvoir réessayer.{0xFF00,0x0000}
+Vous devez avoir au moins deux Pokémon[0x000A]pour pouvoir effectuer un échange.[0x000A][0x000A]Veuillez attraper davantage de Pokémon[0x000A]avant de réessayer.
+Vous avez un Pokémon sur la GTS, mais votre[0x000A]équipe et vos Boîtes sont pleines.[0x000A]Impossible de récupérer le Pokémon.[0x000A][0x000A]Veuillez faire de la place dans vos Boîtes[0x000A]ou dans votre équipe avant de réessayer.
+Vous devez avoir au moins deux Pokémon[0x000A]pour pouvoir disputer un Combat Duo.[0x000A][0x000A]Veuillez attraper davantage de Pokémon[0x000A]avant de réessayer.
+Vos paramètres de contrôle parental[0x000A]empêchent toute connexion à Internet.
+{0xBDFF:0x004F}
+{0xBDFF:0x0050}
+{0xBDFF:0x0051}
+{0xBDFF:0x0052}
+{0xBDFF:0x0053}
+{0xBDFF:0x0054}
+{0xBDFF:0x0055}
+{0xBDFF:0x0056}
+{0xBDFF:0x0057}
+{0xBDFF:0x0058}
+{0xBDFF:0x0059}
+{0xBDFF:0x005A}
+{0xBDFF:0x005B}
+{0xBDFF:0x005C}
+Encore
+{0x0201,0x0000}
+{0x0200,0x0000}
+/
+{0x0100,0x0000}
+---
+Voulez-vous quitter la mini-quête[0xE07F]?
+{0x0201,0x0000}:{0x0201,0x0001}
+{0x01B5,0x0000}
+Temps restant
+Score total
+Score individuel
+Participants
+{0x0201,0x0000}
+:
+{0x0204,0x0000,0xE07F}
+{0x0202,0x0000}
+Bouton Y : Quitter

@@ -1,0 +1,12 @@
+msg_main3150_doctor_01={0x0100,0x0000} !{0x0114,0x000B}
+msg_main3150_doctor_02=Les deux relous auraient pris cet ascenseur,[0x000A]d’après les infos que j’ai pu glaner !{0x0114,0x000B}
+msg_main3150_doctor_03=Mais il y a une serrure électronique sur la porte[0x000A]et j’arrive pas à l’ouvrir.{0xBE00}[0x000A]Ça va me prendre un petit moment...{0x0114,0x000B}
+msg_main3150_dog_01=Voltou !
+msg_main3150_doctor_04=Je me charge de cette serrure et je te préviens[0x000A]dès que c’est bon !{0xBE00}[0x000A]Occupe-toi des stades en attendant !{0x0114,0x000B}
+msg_main3150_doctor_05=Mais... Vous êtes déjà là ?![0x000A]Euh, en fait, euh...{0xBE01}[0x000A]J’ai presque réussi à court-circuiter la serrure,[0x000A]mais y’a encore un truc qui coince, et...{0x0114,0x000B}
+msg_main3150_dog_02=Toutou !
+msg_main3150_doctor_07=Hein ?! La serrure s’est débloquée ?!{0x0114,0x000B}
+msg_main3150_doctor_08=Voltoutou ![0x000A]Merci pour le coup de patte, mon beau !{0x0114,0x000B}
+msg_main3150_dog_03=Voltou !
+msg_main3150_doctor_06=Les deux nazes sont en bas...[0x000A]Restons sur nos gardes !{0x0114,0x000B}
+msg_main3150_system_01=*Bzzzt*

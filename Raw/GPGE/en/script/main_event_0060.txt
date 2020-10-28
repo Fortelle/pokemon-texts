@@ -1,0 +1,9 @@
+msg_main0060_rival_01={0x01CD,0x0001}: Wait up!
+msg_main0060_rival_04=Come on, {0x0100,0x0000}![0x000A]You do know you can do more with Pokémon{0xBE00}[0x000A]than just catch ’em, right?{0xBE01}[0x000A]If you’re a {0xFF00,0x0006}Trainer{0xFF00,0x0000}, you can have {0xFF00,0x0006}Pokémon battles{0xFF00,0x0000}[0x000A]with other Trainers, too!{0xBE01}[0x000A]I’ll show you exactly what I mean!
+msg_main0060_rival_05=It’s battle time!
+msg_main0060_8rom_01={0xBDFF:0x0003}
+msg_main0060_rival_02={0x01CD,0x0001}: Aw, jeez...[0x000A]There I went mouthing off like I knew everything,{0xBE00}[0x000A]and then I lost! How embarrassing!{0xBE01}[0x000A]I probably should’ve trained my Pokémon up[0x000A]a bit before trying a battle like that, huh?
+msg_main0060_rival_06={0x01CD,0x0001}: Yes! I did it!{0xBE01}[0x000A]...Oh![0x000A]But don’t worry about one little loss, OK?
+msg_main0060_rival_03=Let’s battle again sometime!
+msg_main0060_doctor_01=OAK: Did you enjoy your first taste of battle,[0x000A]young {0x0100,0x0000}?{0xBE01}[0x000A]Your partner {0x0101,0x0002} seemed to like it!
+msg_main0060_doctor_02=OAK: Battle against many Trainers, and help your[0x000A]Pokémon grow strong!{0xBE01}[0x000A]And keep catching more and more new Pokémon[0x000A]while you’re at it, too!

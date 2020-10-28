@@ -1,0 +1,13 @@
+sub_event_006_childF_01=Na, wollen wir mal testen, wie gut du dich mit[0x000A]den Wechselwirkungen zwischen den Typen{0xBE00}[0x000A]auskennst?
+sub_event_006_childF_02=Dann schieße ich gleich mal los mit der ersten[0x000A]Frage!
+sub_event_006_childF_03=Gegen welchen Typ erweist sich eine Attacke[0x000A]vom Typ {0x0103,0x0001} als sehr effektiv?
+sub_event_006_childF_04={0x0103,0x0002}
+sub_event_006_childF_05=Volltreffer! Mitten ins Schwarze!
+sub_event_006_childF_06=Nein, daneben!
+sub_event_006_childF_07=Kommen wir zur nächsten Frage!
+sub_event_006_childF_08=Lass es doch auf einen neuen Versuch[0x000A]ankommen!
+sub_event_006_childF_09=Du hast {0x0200,0x0004} von {0x0200,0x0003} Fragen richtig beantwortet.
+sub_event_006_childF_10=Die Wechselwirkungen zwischen den Typen hast[0x000A]du wirklich verinnerlicht!
+sub_event_006_childF_11=Du weißt schon recht gut Bescheid über die[0x000A]Wechselwirkungen zwischen den Typen.
+sub_event_006_childF_12=Tja, bei deiner Kenntnis der Wechselwirkungen[0x000A]zwischen den Typen ist noch Luft nach oben...
+sub_event_006_childF_13=Nie zuvor hat mir jemand alle Fragen korrekt[0x000A]beantworten können! Gut gemacht!{0xBE01}[0x000A]Dafür hast du dir ein Geschenk verdient!

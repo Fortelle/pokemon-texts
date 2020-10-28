@@ -1,0 +1,8 @@
+msg_main0010_rival_04={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} C’è nessuno?
+msg_main0010_rival_05=So che mi senti, {0x0100,0x0000}! Sto salendo[0x000A]le scale!
+msg_main0010_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Sveglia, {0x0100,0x0000}![0x000A]Il mattino ha l’oro in bocca!
+msg_main0010_rival_08=Che ti prende? Cos’è quella faccia?
+msg_main0010_rival_02=Dai, su! Sono venuto a prenderti! Io non sto più[0x000A]nella pelle!{0xBE01}[0x000A]Oggi è il gran giorno! Sei pront{0x1100,0x00FF,0x0101}oa a ricevere[0x000A]un Pokémon dal Professor Oak e diventare{0xBE00}[0x000A]{0xFF00,0x0006}un{0x1100,0x00FF,0x0B0A} Allenator’Allenatrice{0xFF00,0x0000}?! Presto, andiamo al laboratorio!
+msg_main0010_rival_06=Ah... Aspetta...
+msg_main0010_rival_07=Hai letto l’e-mail che ti ho mandato ieri?{0xBE01}[0x000A]Se non l’hai ancora fatto, dacci un’occhiata!
+msg_main0010_rival_03=Beh, io ti aspetto al laboratorio[0x000A]del Professor Oak! A dopo!

@@ -1,0 +1,13 @@
+sub_event_006_childF_01=ポケモンの　タイプ相性！{0xBE01}[0x000A]ちゃんと　意識できてるか[0x000A]テスト　してみる？
+sub_event_006_childF_02=それじゃあ　問題です！
+sub_event_006_childF_03={0x0103,0x0001}タイプの　技が[0x000A]効果バツグンに　なるのは……？
+sub_event_006_childF_04={0x0103,0x0002}
+sub_event_006_childF_05=ピンポーン！　正解！
+sub_event_006_childF_06=ブッブー！　はずれ　です！
+sub_event_006_childF_07=続いての　問題！
+sub_event_006_childF_08=また　挑戦してね
+sub_event_006_childF_09=あなたの　正解数は[0x000A]{0x0200,0x0003}問中　{0x0200,0x0004}問！
+sub_event_006_childF_10=ポケモンの　タイプ相性[0x000A]バッチリ　把握だね！
+sub_event_006_childF_11=ポケモンの　タイプ相性[0x000A]そこそこ　意識できてるね！
+sub_event_006_childF_12=ポケモンの　タイプ相性[0x000A]もうちょっと　意識したいね……
+sub_event_006_childF_13=はじめて　全問正解できた[0x000A]あなたには　うれしい　プレゼント！

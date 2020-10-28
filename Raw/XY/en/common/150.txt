@@ -1,0 +1,42 @@
+{0x0202,0x0000}
+{0x0202,0x0000}
+{0x0202,0x0000}
+YES
+NO
+Would you like to save this photo?
+Your photo has been saved to[0x000A]your Nintendo 3DS Camera!
+If you don’t save your photo, it will disappear.[0x000A]Are you sure that’s all right?
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+Lv.
+1.0X
+1.2X
+1.4X
+1.6X
+1.8X
+2.0X
+2.2X
+2.4X
+2.6X
+2.8X
+3.0X
+3.2X
+3.4X
+3.6X
+3.8X
+4.0X
+Now saving your photo.[0x000A]Do not turn off the power.
+{0xBDFF:0x0023}
+Your photo was saved to the Nintendo 3DS[0x000A]Camera!{0xBE01}[0x000A]Warning!{0xBE01}[0x000A]Due to its size, the saved photo cannot be[0x000A]sent to the Pokémon Global Link.
+The photo could not be saved due to[0x000A]the lack of space on your SD Card.
+The Nintendo 3DS Camera application has no[0x000A]room for additional photos, so your photo{0xBE00}[0x000A]cannot be saved.
+Your saved data has been deleted due to[0x000A]errors detected in the files on your SD Card.{0xBE01}[0x000A]Saving the photo failed.
+Saving the photo failed.
+{0xBDFF:0x0029}

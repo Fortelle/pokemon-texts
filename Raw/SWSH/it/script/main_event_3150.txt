@@ -1,0 +1,12 @@
+msg_main3150_doctor_01=Oh, {0x0100,0x0000}!{0x0114,0x000B}
+msg_main3150_doctor_02=Qualcuno ha visto quei due mascalzoni[0x000A]che entravano in questa porta!{0x0114,0x000B}
+msg_main3150_doctor_03=Ma... purtroppo è chiusa da una serratura[0x000A]elettronica. Mi ci vorrà un po’ per aprirla!{0x0114,0x000B}
+msg_main3150_dog_01=Yamp! Yamp!
+msg_main3150_doctor_04=Io resto qui a cercare di aprire questa serratura!{0xBE01}[0x000A]Voi invece andate a vedere com’è la situazione[0x000A]negli altri stadi. D’accordo, {0x0100,0x0000}?{0x0114,0x000B}
+msg_main3150_doctor_05=Ah, siete già arrivati...! Aspettate un attimo![0x000A]Non ho ancora aperto la serratura...{0xBE01}[0x000A]Ci sono quasi, ma... c’è qualcosa che non[0x000A]quadra...{0x0114,0x000B}
+msg_main3150_dog_02=Yamp! Yamp!
+msg_main3150_doctor_07=Co-Come...? Si è aperta?!{0x0114,0x000B}
+msg_main3150_doctor_08=Incredibile! Sei un grande, Yamper! Grazie!!{0x0114,0x000B}
+msg_main3150_dog_03=Yamp! Yamp!!!
+msg_main3150_doctor_06=Fate attenzione, mi raccomando! Quei due[0x000A]tipacci sono entrati per di qua!{0x0114,0x000B}
+msg_main3150_system_01=Fzzzzzzt!

@@ -1,0 +1,4 @@
+main_event_0215_npc1_01=Hello à toi, jeune Dresseu{0x1100,0x00FF,0x0201}rse ![0x000A]Pardon, je te coupe dans ton élan, mais...
+main_event_0215_npc1_02=Tu viens de sortir du Laboratoire Pokémon,[0x000A]donc ça veut dire que tu as un Pokédex !{0xBE01}[0x000A]Et ça tombe bien, parce que j’adore donner des[0x000A]trucs aux petits jeunes qui démarrent dans la vie.
+main_event_0215_npc1_03=Tiens, prends cette Potion !{0xBE01}[0x000A]Quand les PV, ou Points de Vie, d’un de tes[0x000A]Pokémon sont dangereusement bas et que{0xBE00}[0x000A]sa santé vacille, hop, une Potion, et ça repart !{0xBE01}[0x000A]Tu peux utiliser les Potions en plein combat,[0x000A]aussi !
+main_event_0215_npc1_04=Un autre conseil, si je puis me permettre :[0x000A]la connaissance, c’est la clé de la réussite !{0xBE01}[0x000A]N’hésite pas à parler aux gens et à lire toutes[0x000A]les pancartes que tu croises sur ta route !

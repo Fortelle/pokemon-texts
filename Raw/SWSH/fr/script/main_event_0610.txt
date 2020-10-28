@@ -1,0 +1,13 @@
+main_event_0610_assistant_01=Merci, Voltoutou !{0x0114,0x000B}
+main_event_0610_poke1_01=Voool !
+main_event_0610_assistant_02=Désolée de t’avoir fait venir jusqu’ici, mais c’est[0x000A]pour une bonne raison. J’ai besoin de ton avis.{0x0114,0x000B}
+main_event_0610_assistant_03=Il t’évoque quoi, ce géoglyphe ?{0x0114,0x000B}
+main_event_0610_select_01=La Nuit Noire ?
+main_event_0610_select_02=Le phénomène Dynamax ?
+main_event_0610_assistant_04=Oui, je vois ça aussi ![0x000A]Même si les volutes noires sont presque effacées.{0x0114,0x000B}
+main_event_0610_assistant_05=Moi aussi...[0x000A]C’est un Pokémon géant, j’en suis sûre.{0xBE01}[0x000A]Et nos ancêtres, il y a 3 000 ans, avaient beau[0x000A]avoir toute l’imagination du monde, je doute{0xBE00}[0x000A]fortement qu’ils aient dessiné ça sans avoir{0xBE00}[0x000A]vu de Pokémon Dynamax.{0x0114,0x000B}
+main_event_0610_assistant_06=Comme je te l’ai déjà dit, il y a très longtemps,[0x000A]un tourbillon sombre est apparu dans le ciel{0xBE00}[0x000A]de Galar, et des Pokémon géants ont alors{0xBE00}[0x000A]saccagé toute la région...{0xBE01}[0x000A]Ce tourbillon, c’était la Nuit Noire dont je te[0x000A]parlais. Mais qu’est-ce que c’était, au juste ?{0xBE01}[0x000A]Et quel est le rapport avec le phénomène[0x000A]Dynamax ?{0x0114,0x000B}
+main_event_0610_assistant_07=Grand-mère m’a refilé le bébé,[0x000A]je dois me coltiner toutes les recherches...{0x0114,0x000B}
+main_event_0610_assistant_08=En tout cas, merci ! Ça m’a bien aidée,[0x000A]que tu me donnes tes impressions !{0xBE01}[0x000A]En remerciement, je te donne cette carte[0x000A]de Ligue.{0x0114,0x000B}
+main_event_0610_assistant_09=Percy est le Champion de l’Arène du type Plante ![0x000A]Face à lui, mise tout sur des capacités Feu,{0xBE00}[0x000A]Insecte ou Vol !{0xBE01}[0x000A]Et tiens, pour requinquer un peu ton équipe ![0x000A]Bonne chance !{0x0114,0x000B}
+main_event_0610_assistant_10=Hop hop hop ! Allez, en route ! Tu as un combat[0x000A]qui t’attend au Stade de Greenbury !{0x0114,0x000B}

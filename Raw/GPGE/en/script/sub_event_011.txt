@@ -1,0 +1,4 @@
+msg_sub011_middlem_01=...Wait! Don’t say a word!{0xBE01}[0x000A]You wanted this!
+msg_sub011_sys_01={0xBDFF:0x0001}
+msg_sub011_middlem_02=You already know, don’t you.[0x000A]TM40 is Psychic.{0xBE01}[0x000A]It’s an attack that may also lower[0x000A]the target’s Sp. Def stat.
+msg_trainerm1_01_p04_t011_r0501={0xBDFF:0x0003}

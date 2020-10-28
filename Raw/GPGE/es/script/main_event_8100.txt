@@ -1,0 +1,11 @@
+msg_main8100_ice_01={0xFF00,0x0009}Lorelei:{0xFF00,0x0000} ¡Bienvenid{0x1100,0x00FF,0x0101}oa a la Liga Pokémon!
+msg_main8100_ice_09=Te estaba esperando. Te has tomado tu tiempo[0x000A]para llegar hasta aquí...
+msg_main8100_ice_10=Permíteme que esta vez me presente como es[0x000A]debido. ¡Soy Lorelei, del Alto Mando!
+msg_main8100_ice_05=No tengo rival en lo que a Pokémon de tipo[0x000A]Hielo se refiere.
+msg_main8100_ice_06=Como bien sabrás, congelar al rival es una[0x000A]táctica sumamente ventajosa.
+msg_main8100_ice_07=Cuando congele a tus Pokémon, ¡estarán a mi[0x000A]merced! No podrán hacer nada para defenderse.
+msg_main8100_ice_08=¡Ja, ja, ja! ¿Estás list{0x1100,0x00FF,0x0101}oa? ¡Comencemos!
+msg_kanna_01_p02_cave_d1401={0xBDFF:0x0007}
+msg_main8100_ice_02={0xFF00,0x0009}Lorelei:{0xFF00,0x0000} He podido comprobar en persona lo[0x000A]fuerte que te has vuelto con el tiempo.{0xBE01}[0x000A]Puedes continuar, pero ten en cuenta que este[0x000A]combate solo ha sido un aperitivo.{0xBE01}[0x000A]¡La Liga Pokémon te depara más sorpresas!
+msg_main8100_ice_03={0xFF00,0x0009}Lorelei:{0xFF00,0x0000} Vaya, ¿de nuevo por aquí? Justamente[0x000A]estaba pensando en las ganas que tenía de{0xBE00}[0x000A]enfrentarme a ti.{0xBE01}[0x000A]Ya sabes, por aquello de que la venganza es un[0x000A]plato que se sirve frío.
+msg_main8100_ice_04={0xFF00,0x0009}Lorelei: {0xFF00,0x0000}Aunque haya perdido, los Pokémon de[0x000A]tipo Hielo me siguen pareciendo magníficos, así{0xBE00}[0x000A]que seguiré confiando en ellos en el futuro.{0xBE01}[0x000A]Tú continúa luchando con aquellos que más te[0x000A]gusten y nunca tires la toalla.

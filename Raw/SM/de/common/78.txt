@@ -1,0 +1,38 @@
+Verbindung wird hergestellt...[0x000A]Bitte warte einen Moment.
+Was wollt ihr machen?
+Möchtest du das Spielen via Link beenden?
+Verbindung wird getrennt...
+Du überlässt die Entscheidung {0x0100,0x0000}.
+Der andere Spieler hat die Verbindung getrennt.{0xBE01}
+Verbindung wird hergestellt...[0x000A]Bitte warte einen Moment.
+Einzelkampf wurde ausgewählt.
+Doppelkampf wurde ausgewählt.
+Battle Royale wurde ausgewählt.
+Link-Tausch wurde ausgewählt.
+{0x0100,0x0000} überlässt die Entscheidung dir.
+Der letzte Link-Tausch beziehungsweise die[0x000A]letzte Nutzung der GTS von {0x0100,0x0000}{0xBE00}[0x000A]wurde durch einen Verbindungsfehler,{0xBE00}[0x000A]unerwartetes Ausschalten des Systems oder{0xBE00}[0x000A]aus ähnlichen Ursachen abgebrochen.{0xBE01}[0x000A]{0x0100,0x0000} kann daher vorübergehend[0x000A]keine Pokémon tauschen.{0xBE01}[0x000A]Bitte versucht es später noch einmal.{0xBE01}
+Euer letzter Link-Tausch beziehungsweise eure[0x000A]letzte Nutzung der GTS wurde durch einen{0xBE00}[0x000A]Verbindungsfehler, unerwartetes Ausschalten{0xBE00}[0x000A]des Systems oder aus ähnlichen Ursachen{0xBE00}[0x000A]abgebrochen.{0xBE01}[0x000A]Daher könnt ihr momentan keinen Link-Tausch[0x000A]durchführen.{0xBE01}[0x000A]Bitte versucht es später noch einmal.{0xBE01}
+{0x0100,0x0000} hat nur ein Pokémon und[0x000A]kann deswegen keinen Tausch durchführen.{0xBE01}
+Ihr beiden habt jeweils nur ein Pokémon und[0x000A]könnt deswegen keinen Tausch durchführen.{0xBE01}
+{0x0100,0x0000} hat nicht mindestens zwei[0x000A]Pokémon im Team oder in den Boxen{0xBE00}[0x000A]und kann deswegen nicht an einem{0xBE00}[0x000A]Doppelkampf teilnehmen.{0xBE01}
+Ihr beiden habt nicht jeweils mindestens[0x000A]zwei Pokémon in eurem Team oder euren{0xBE00}[0x000A]Boxen und könnt deswegen nicht an einem{0xBE00}[0x000A]Doppelkampf teilnehmen.{0xBE01}
+{0x0100,0x0000}
+Einzelkampf
+Doppelkampf
+{0xBDFF:0x0015}
+Link-Tausch
+Den anderen Spieler entscheiden lassen
+{0x0100,0x0000} trifft die Entscheidung...
+Ihr tragt einen Einzelkampf aus.[0x000A]Dafür müssen beide Spieler jeweils mindestens[0x000A]ein Pokémon haben.
+Ihr tragt einen Doppelkampf aus.[0x000A]Dafür müssen beide Spieler jeweils mindestens[0x000A]zwei Pokémon in ihrem Team oder ihren Boxen haben.
+Ihr tauscht Pokémon miteinander.[0x000A]Dafür müssen beide Spieler jeweils mindestens[0x000A]zwei Pokémon haben.
+Ihr tragt einen Einzelkampf aus.[0x000A]Dafür müssen beide Spieler jeweils mindestens[0x000A]ein Pokémon haben.
+Du überlasst dem anderen Spieler die Entscheidung,[0x000A]was ihr machen wollt.
+Einzelkampf, Doppelkampf und Link-Tausch[0x000A]können ausgewählt werden.
+Link-Tausch
+Einzelkampf
+Doppelkampf
+{0xBDFF:0x0022}
+Den anderen Spieler entscheiden lassen
+Ja
+Nein

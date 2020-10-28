@@ -1,0 +1,13 @@
+msg_f0102_s0801_touristM_01={0xBDFF:0x0000}
+msg_f0102_s0801_touristM_02={0xBDFF:0x0001}
+msg_f0102_s0801_kindergartenM_01={0xBDFF:0x0002}
+msg_f0102_s0801_kindergartenM_02={0xBDFF:0x0003}
+msg_f0102_s0801_surfer_01={0xBDFF:0x0004}
+msg_f0102_s0801_seabread_01={0xBDFF:0x0005}
+msg_f0102_s0801_poke1_01={0xBDFF:0x0006}
+msg_f0102_s0801_poke2_01={0xBDFF:0x0007}
+msg_f0102_s0801_touristF_01={0xBDFF:0x0008}
+msg_f0102_s0801_bikini1_01={0xBDFF:0x0009}
+msg_f0102_s0801_bikini1_02={0xBDFF:0x000A}
+msg_f0102_s0801_angler_01={0xBDFF:0x000B}
+msg_f0102_s0801_sign1_01={0xBDFF:0x000C}

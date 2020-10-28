@@ -1,0 +1,4 @@
+msg_main0130_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Anda, qué content{0x1100,0x00FF,0x0101}oa se te ve,[0x000A]{0x0100,0x0000}.{0xBE01}[0x000A]Vaya, así que has ganado un combate contra un[0x000A]Entrenador, ¿eh? ¡Genial!
+msg_main0130_rival_02=Pues, ya que estamos, aprovecho para darte un[0x000A]consejo: cualquier Pokémon que hayas sacado{0xBE00}[0x000A]a combatir habrá perdido PS, PP o ambos...
+msg_main0130_rival_03=Así que llévalos a un {0xFF00,0x0006}Centro Pokémon{0xFF00,0x0000} para que[0x000A]se recuperen. No se tarda nada y, encima, es{0xBE00}[0x000A]gratis.
+msg_main0130_rival_04=¡Después de mucho combatir, las fuerzas hay[0x000A]que resarcir! ¡Que no se te olvide!

@@ -1,0 +1,17 @@
+sub_event_008_miniskirt_01=A-ah! L’oroscompleanno di questo mese[0x000A]le azzecca tutte!
+sub_event_008_miniskirt_02=Ti piacerebbe sapere cosa dice il tuo?
+sub_event_008_miniskirt_03=Dai, allora dimmi in che mese sei nat{0x1100,0x00FF,0x0101}oa!
+sub_event_008_miniskirt_16=E in che giorno sei nat{0x1100,0x00FF,0x0101}oa?
+sub_event_008_miniskirt_04=Ok, non c’è problema. Torna a trovarmi, se ti va!
+sub_event_008_miniskirt_05=Oh-oh! Guarda, guarda... Interessante!
+sub_event_008_miniskirt_06=Sei nat{0x1100,0x00FF,0x0101}oa {0x1106,0x0002,0x0302}l’il {0x0201,0x0002}/{0x0201,0x0001}, eh?
+sub_event_008_miniskirt_07=Fa niente, se hai sbagliato, riprova!
+sub_event_008_miniskirt_cancel=Alla fine hai cambiato idea? E va bene.[0x000A]Torna a trovarmi, se ti va!
+sub_event_008_miniskirt_08=Ora ti dirò cos’ha in serbo l’oroscopo[0x000A]per quelli nati {0x1106,0x0002,0x0302}l’il {0x0201,0x0002}/{0x0201,0x0001}!
+sub_event_008_miniskirt_09=Vediamo un po’...
+sub_event_008_miniskirt_10=Ma cos...? Tsk, sono un disastro! Mangio[0x000A]un pasticcino e... faccio un pasticcio!
+sub_event_008_miniskirt_11=E chi riesce a leggere con tutte queste macchie?
+sub_event_008_miniskirt_12=Bah, ne farò a meno! Non ho bisogno di leggere![0x000A]L’oroscopo non ha segreti per me!
+sub_event_008_miniskirt_13=L’oroscompleanno prevede fortuna a palate[0x000A]per i nati in questo giorno!
+sub_event_008_miniskirt_14=Magari ti imbatterai persino in un Pokémon[0x000A]leggendario! Chissà!
+sub_event_008_miniskirt_15=Questo è tutto! Stammi bene!

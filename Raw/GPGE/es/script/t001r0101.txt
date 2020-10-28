@@ -1,0 +1,9 @@
+msg_t001r0101_mother_01={0xFF00,0x0009}Mamá:{0xFF00,0x0000} Oye, ¿tú no tenías que ir al Laboratorio[0x000A]del Profesor Oak?{0xBE01}[0x000A]Si no recuerdo mal, {0x0100,0x0001} dijo que[0x000A]quería entregaros un Pokémon, ¿no?
+msg_t001r0101_mother_02={0xFF00,0x0009}Mamá:{0xFF00,0x0000} Oye, ¿tú no tenías que ir al Laboratorio[0x000A]del Profesor Oak?{0xBE01}[0x000A]Si no recuerdo mal, {0x0100,0x0001} dijo que[0x000A]quería entregaros un Pokémon, ¿no?
+msg_t001r0101_mother_03={0xFF00,0x0009}Mamá:{0xFF00,0x0000} Uy, qué carita tienes, {0x0100,0x0000}.[0x000A]¿Por qué no descansas un rato?
+msg_t001r0101_mother_04={0xFF00,0x0009}Mamá:{0xFF00,0x0000} ¡Muy bien! Ahora tu{0x1101,0x00FD,0x0100}s Pokémon y tú[0x000A]estáis en plena forma.
+msg_t001r0101_mother_05={0xFF00,0x0009}Mamá:{0xFF00,0x0000} Ay, tienes cara de estar pasándotelo en[0x000A]grande con tu{0x1101,0x00FD,0x0100}s Pokémon. ¡Qué alegría!
+msg_t001r0101_mother_06={0xBDFF:0x0005}
+msg_t001r0101_tv_01=Están poniendo una película en la tele en la que[0x000A]cuatro chicos caminan por las vías del tren...{0xBE01}[0x000A]¡Pero ya va siendo hora de salir pitando!
+msg_t001r0101_tv_02=Están poniendo una película en la tele.{0xBE01}[0x000A]Sale una chica pelirroja con coletas andando[0x000A]por una calle empedrada...{0xBE01}[0x000A]¡Pero ya va siendo hora de salir pitando!
+msg_t001r0101_tv_03=Aquí no se ve nada...

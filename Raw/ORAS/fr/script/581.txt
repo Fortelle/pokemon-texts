@@ -1,0 +1,33 @@
+Alors, on se donne à fond[0xE07F]?[0x000A]En route pour devenir Maître[0xE07F]?
+Le Champion de Lavandia est Voltère[0xE07F]![0x000A]C’est un spécialiste du type Électrik.{0xBE01}[0x000A]Si tu te prépares à l’affronter avec des Pokémon Eau,[0x000A]tu vas avoir un choc[0xE07F]!{0xBE01}[0x000A]En plus, il t’attend derrière des barrières électriques[0x000A]dont il faudra percer le secret pour l’atteindre[0xE07F]!
+Accroche-toi[0xE07F]!
+Waouh, électrisant[0xE07F]![0x000A]T’as réussi à traverser les barrières[0xE07F]!
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+Tiens[0xE07F]? Tu es qui, toi[0xE07F]?[0x000A]Comment tu es arrivé{0x1100,0x00FF,0x0100}e jusqu’ici[0xE07F]?
+Quoi[0xE07F]?![0x000A]Tu as réussi à traverser mes barrières[0xE07F]?
+Mouahaha[0xE07F]![0x000A]Voilà qui est intéressant[0xE07F]!
+J’ai dû abandonner l’idée de moderniser toute la ville[0x000A]avec mes systèmes, alors pour me tenir occupé,{0xBE00}[0x000A]je dois me rabattre sur mon Arène[0xE08D]{0xBE01}[0x000A]Et sur des combats contre de jeunes Dresseurs[0x000A]prometteurs comme toi[0xE07F]!
+Je suis Voltère, le Champion de Lavandia.[0x000A]Prépare-toi à un combat électrisant[0xE07F]!
+{0xBDFF:0x0015}
+Galvanisant[0xE07F]![0x000A]Tu as bien mérité ce Badge[0xE08D]
+{0x0100,0x0000} reçoit le Badge Dynamo de Voltère.
+Le Badge Dynamo permet d’utiliser la CS Éclate-Roc[0x000A]en dehors des combats.{0xBE01}[0x000A]Et en plus, ça te permet de te faire obéir de tous[0x000A]les Pokémon jusqu’au niveau 40[0xE07F]!
+Ah, et un autre truc aussi[0xE07F]![0x000A]Ne fais pas de chichis, c’est gratuit[0xE07F]!
+Change Éclair permet au Pokémon de frapper l’ennemi,[0x000A]puis de revenir vers toi à toute vitesse pour se faire{0xBE00}[0x000A]remplacer par un autre Pokémon[0xE07F]! C’est très pratique[0xE07F]!
+En tout cas, ça fait plaisir de rencontrer un jeune Dresseur[0x000A]aussi prometteur que toi[0xE07F]!
+Mouahaha[0xE07F]![0x000A]Continue à t’entraîner, petit{0x1100,0x00FF,0x0100}e[0xE07F]!
+Arène de Lavandia
+Arène de Lavandia[0x000A]Champion : Voltère{0xBE01}[0x000A]Dresseur certifié :[0x000A]{0x0100,0x0000}
+Oooh[0xE07F]! Tu es passé{0x1100,0x00FF,0x0100}e Maître[0xE07F]?{0xBE01}[0x000A]Je savais que tu irais loin dès l’instant où je t’ai vu{0x1100,0x00FF,0x0100}e[0xE07F]![0x000A]Je te souhaite bon courage pour la suite[0xE07F]!
+Arène de Lavandia[0x000A]Champion : Voltère{0xBE01}[0x000A]Dresseurs certifiés :[0x000A]{0x0100,0x0000}, Timmy

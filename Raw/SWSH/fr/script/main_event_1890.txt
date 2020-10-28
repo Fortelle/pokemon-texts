@@ -1,0 +1,8 @@
+main_event_1890_rival_01=Comment on va faire ?![0x000A]J’aimerais aider Tarak, mais...{0x0114,0x0005}
+main_event_1890_chairman_01=Que viens-tu faire ici, jeune Challenger ?{0x0114,0x0006}
+main_event_1890_select_01=Je suis venu{0x1100,0x00FF,0x0100}e arrêter la Nuit Noire !
+main_event_1890_select_02=Je suis venu{0x1100,0x00FF,0x0100}e aider Tarak !
+main_event_1890_chairman_02=J’ai bien peur qu’il ne soit trop tard.{0xBE01}[0x000A]La Nuit Noire... ou plutôt, Éthernatos, le plus[0x000A]terrible des Pokémon, est maintenant éveillé !{0x0114,0x0006}
+main_event_1890_chairman_03=Malheureusement pour toi, cela ne va pas être[0x000A]possible. J’ai besoin du Maître pour contrôler{0xBE00}[0x000A]Éthernatos, vois-tu.{0x0114,0x0006}
+main_event_1890_chairman_04=Laisse-moi t’expliquer une ou deux choses.{0xBE01}[0x000A]C’est probablement difficile à comprendre[0x000A]pour quelqu’un de ton âge, mais ce que je fais{0xBE00}[0x000A]n’est en rien une mauvaise chose.{0xBE01}[0x000A]J’œuvre pour la prospérité éternelle de ma très[0x000A]chère région de Galar en exploitant une source{0xBE00}[0x000A]infinie d’énergie. Rien de plus, rien de moins.{0x0114,0x0006}
+main_event_1890_chairman_05=J’ai assemblé les Étoiles Vœu sans relâche[0x000A]pour atteindre ce but !{0xBE01}[0x000A]Tu te souviens de l’incident avec la lueur rouge[0x000A]à Kickenham ? C’était moi !{0xBE00}[0x000A]Je tentais déjà de réveiller la Nuit Noire !{0xBE01}[0x000A]Je ne te laisserai pas mettre l’avenir de Galar[0x000A]en péril ! Hors de ma vue !{0x0114,0x0006}

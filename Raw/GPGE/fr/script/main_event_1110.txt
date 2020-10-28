@@ -1,0 +1,8 @@
+msg_main1110_rival_01={0xFF00,0x0009}{0x0100,0x0001} :{0xFF00,0x0000} Te voilà ! Justement,[0x000A]je te cherchais !
+msg_main1110_rival_06=Je me disais que tu devais déjà être arrivé{0x1100,0x00FF,0x0100}e[0x000A]à l’Arène de Cramois’Île.
+msg_main1110_rival_07=T’as gagné contre Auguste, du coup ? Bravo !
+msg_main1110_rival_02=Il faut {0xFF00,0x0006}huit {0xFF00,0x0000}Badges pour accéder à la Ligue[0x000A]Pokémon, pas vrai ?
+msg_main1110_rival_08=Perso, j’en ai sept. Il m’en manque plus qu’un !
+msg_main1110_rival_03=Ça doit être celui de Jadielle. Mais je pige pas,[0x000A]l’Arène était fermée, aux dernières nouvelles...
+msg_main1110_rival_04=T’as été y faire un tour, toi ?[0x000A]Pas encore, hein ?
+msg_main1110_rival_05=Bon allez, je me motive pour aller à Jadielle.[0x000A]On sait jamais !

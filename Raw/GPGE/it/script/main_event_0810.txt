@@ -1,0 +1,15 @@
+msg_main0810_musashi_01={0xFF00,0x0009}Jessie:{0xFF00,0x0000} Altolà! Abbiamo una faccenda[0x000A]da sbrigare!
+msg_main0810_kojiro_01={0xFF00,0x0009}James:{0xFF00,0x0000} Quello spettro era l’unico intoppo che[0x000A]ci impediva di arrivare in cima alla torre!
+msg_main0810_musashi_02={0xFF00,0x0009}Jessie: {0xFF00,0x0000}Ehi, di’ un po’! Sei tu il vecchio[0x000A]che chiamano Mr. Fuji, vero?
+msg_main0810_musashi_03=Ci servono le tue ricerche sui Pokémon, quindi[0x000A]avrai l’onore di lavorare per il Team Rocket!
+msg_main0810_fuji_01={0xFF00,0x0009}Mr. Fuji:{0xFF00,0x0000} ...
+msg_main0810_kojiro_02={0xFF00,0x0009}James:{0xFF00,0x0000} Tsè! È inutile che ci ignori![0x000A]Il capo ottiene sempre quello che vuole!
+msg_main0810_musashi_04={0xFF00,0x0009}Jessie:{0xFF00,0x0000} Non ti intromettere! Dobbiamo schiarire[0x000A]le idee al nonnetto!
+msg_main0810_kojiro_03={0xFF00,0x0009}James:{0xFF00,0x0000} Fatti da parte o preparati a lottare!
+msg_main0810_dummy_01={0xBDFF:0x0008}
+msg_main0810_dummy_02={0xBDFF:0x0009}
+msg_main0810_musashi_05={0xFF00,0x0009}Jessie: {0xFF00,0x0000}Che? Di nuovo?!
+msg_main0810_kojiro_05={0xFF00,0x0009}James:{0xFF00,0x0000} Accidenti! Il nostro piano di rapire[0x000A]Mr. Fuji e farlo lavorare per noi è fallito...
+msg_main0810_musashi_06={0xFF00,0x0009}Jessie: {0xFF00,0x0000}E va bene! Allora torniamo[0x000A]a {0xFF00,0x0006}Zafferanopoli{0xFF00,0x0000} e aiutiamo il resto del team{0xBE00}[0x000A]a {0xFF00,0x0006}impossessarsi della Silph S.p.A.{0xFF00,0x0000}!
+msg_main0810_kojiro_04={0xFF00,0x0009}Jessie e James: {0xFF00,0x0000}Il Team Rocket riparte[0x000A]alla velocità della luce!!
+msg_main0810_musashi_back={0xFF00,0x0009}Jessie:{0xFF00,0x0000} Non possiamo lottare se hai solo[0x000A]un Pokémon in squadra, però!{0xBE01}[0x000A]Vanne a prendere un altro e torna subito qui!

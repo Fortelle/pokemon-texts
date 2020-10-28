@@ -1,0 +1,135 @@
+Conectando...[0x000A]Espera unos instantes.
+Elige quién establecerá las reglas.
+Se elegirá a la persona que establecerá las[0x000A]reglas de combate.{0xBE01}[0x000A]Si tu rival está jugando a Pokémon Sol o[0x000A]Pokémon Luna, selecciona “Yo”.{0xBE01}
+Se elegirá a la persona que establecerá las[0x000A]reglas del combate.{0xBE01}[0x000A]En el Combate Múltiple se formarán también los[0x000A]equipos.{0xBE01}[0x000A]Si uno de los participantes está jugando a[0x000A]Pokémon Sol o Pokémon Luna, selecciona “Yo”.{0xBE01}
+Eligiendo quién establecerá las reglas...[0x000A]Espera unos instantes.
+Establece las reglas del combate.{0xBE01}
+Enviando reglas de combate...[0x000A]Espera unos instantes.
+Las reglas de combate enviadas están dañadas.{0xBE01}[0x000A]Selecciona de nuevo las reglas de combate.{0xBE01}
+Se ha detectado un problema con las reglas de[0x000A]combate enviadas.{0xBE01}[0x000A]Selecciona de nuevo las reglas de combate.{0xBE01}
+Se ha detectado un problema con las reglas de[0x000A]combate recibidas.{0xBE01}[0x000A]Se seleccionarán reglas de combate nuevas.{0xBE01}
+Las reglas de combate recibidas están dañadas.{0xBE01}[0x000A]Se seleccionarán reglas de combate nuevas.{0xBE01}
+Se seleccionarán reglas de combate nuevas, ya[0x000A]que al menos una persona no puede participar.{0xBE01}
+Se seleccionarán reglas de combate nuevas.{0xBE01}
+Esperando a que todos los participantes estén[0x000A]listos...
+{0xBDFF:0x000E}
+Establece la formación de los equipos.{0xBE01}
+Formando equipos...[0x000A]Espera unos instantes.
+¿Quién ocupará la posición n.º {0x0200,0x0000}?
+Selecciona los Pokémon participantes.
+¿Quieres seguir jugando?
+Has decidido abandonar.
+Esperando a que la otra persona se decida...
+Se disputará un nuevo combate con unas reglas[0x000A]distintas.
+Alguien ha abandonado.{0xBE01}
+Se disputará un nuevo combate con unas reglas[0x000A]distintas.
+Se disputará un nuevo combate con las mismas[0x000A]reglas.
+¿Quieres cancelar la selección y establecer unas[0x000A]reglas de combate distintas?
+Comunicando tu rechazo a estas reglas de[0x000A]combate...
+{0xBDFF:0x001C}
+¿Quieres abandonar el combate?
+Interrumpiendo la conexión...
+El combate se da por finalizado, ya que alguno[0x000A]de los participantes ha interrumpido la conexión.{0xBE01}
+Si las reglas de combate actuales te impiden[0x000A]participar, selecciona la opción “Incapaz de{0xBE00}[0x000A]participar”.{0xBE01}
+¿Quién quieres que establezca las reglas de[0x000A]combate?
+¿Quieres que otra persona se encargue de[0x000A]establecer las reglas?
+{0x0100,0x0000} está fijando las reglas de[0x000A]combate.
+{0x0100,0x0000} ha renunciado a establecer las[0x000A]reglas.
+Selecciona un equipo e inicia el combate.
+{0xBDFF:0x0026}
+Se ha detectado un problema con el Equipo[0x000A]de Combate elegido.
+Comprueba los Pokémon y selecciona de nuevo[0x000A]el equipo.
+No puedes enfrentarte al Equipo de Combate[0x000A]del rival, ya que no dispones de los últimos{0xBE00}[0x000A]datos adicionales.{0xBE01}[0x000A]Tu rival volverá a seleccionar su equipo.{0xBE01}
+Se ha detectado un problema con el Equipo de[0x000A]Combate del rival.
+Yo
+Rival
+Jugar con otras reglas
+Jugar con las mismas reglas
+{0xBDFF:0x002F}
+{0xBDFF:0x0030}
+{0xBDFF:0x0031}
+¡Que comience el combate!
+Equipo participante
+{0x0122,0x0000}
+Incapaz de participar
+{0xFF00,0x0001}No seleccionado{0xFF00,0x0000}
+Equipo A 1
+Equipo A 2
+Equipo B 1
+Equipo B 2
+---
+{0x0100,0x0000}
+Confirmar equipo
+Sí
+No
+{0x0100,0x0000}
+Selección automática
+Atrás
+Cambiar selección
+Confirmar
+{0x0100,0x0000}
+Seleccionando...
+¡Terminado!
+{0xBDFF:0x0048}
+{0xBDFF:0x0049}
+1
+2
+3
+4
+{0xBDFF:0x004E}
+---
+{0xBDFF:0x0050}
+Combate Individual
+Combate Doble
+Combate Múltiple
+Battle Royale
+Reglas normales
+Con restricciones
+Sin restricciones
+♪Entrenador 2♪
+♪Pokémon salvaje 2♪
+♪Pokémon dominante♪
+♪Kahuna♪
+♪Aquí llega Tilo♪
+♪Aquí llega Gladio♪
+♪Team Skull♪
+♪Comandante Skull♪
+♪Jefe del Team Skull♪
+♪Fundación Æther♪
+♪Presidenta Samina♪
+♪Presidenta Samina 2♪
+♪Ultraente♪
+♪Alto Mando♪
+♪Defendiendo el título♪
+♪Pokémon legendario♪
+♪Battle Royale♪
+♪Espíritu guardián♪
+♪Campeón Legendario♪
+♪Team Rainbow Rocket♪
+♪Giovanni♪
+♪Magno y Aquiles♪
+♪Helio♪
+♪Ghechis♪
+♪Lysson♪
+♪Unidad Ultra♪
+♪Necrozma♪
+♪Necrozma 2♪
+♪Mewtwo♪
+♪Pokémon de Kanto♪
+♪Pokémon de Hoenn♪
+♪Legendario de Hoenn 2♪
+♪Legendario de Hoenn♪
+♪Ho-Oh♪
+♪Lugia♪
+♪Legendario de Johto♪
+♪Legendario de Sinnoh 2♪
+♪Legendario de Sinnoh 3♪
+♪Legendario de Sinnoh♪
+♪Giratina♪
+♪Legendario de Teselia♪
+♪Legendario de Teselia 2♪
+♪Legendario de Kalos♪
+♪Entrenador♪
+♪Pokémon salvaje♪
+♪Aquí llega Tilo 2♪
+{0xBDFF:0x0086}

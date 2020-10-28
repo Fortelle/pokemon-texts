@@ -1,0 +1,6 @@
+msg_t009pc01_woman_01=I came to visit the Cinnabar Island Gym, but the[0x000A]door is locked tight.{0xBE01}[0x000A]There must be a key somewhere, though.{0xBE01}[0x000A]Maybe in that old mansion? They say that one[0x000A]of the Gym Leader’s friends used to live there...
+msg_t009pc01_gentlem_01=Do you have lots of friends?{0xBE01}[0x000A]People say Pokémon you get by trading with a[0x000A]friend grow faster.{0xBE01}[0x000A]I think it would be worth your time to give[0x000A]trading a try.
+msg_t009pc01_bugcatcher_01=Pokémon can keep on learning new moves, even[0x000A]if you stop them from evolving.{0xBE01}[0x000A]It’s a trick that experienced Trainers know!{0xBE01}[0x000A]Wait till your Pokémon learns a move it wouldn’t[0x000A]otherwise, and only then do you evolve it!
+msg_t009pc01_book_01=There’s a flyer titled “Pokémon Center News.”
+msg_t009pc01_select_01=Will you read it?
+msg_t009pc01_book_02=“The volcano on Cinnabar Island has been more[0x000A]active than usual lately.{0xBE01}[0x000A]“If there should be a big eruption, please leave[0x000A]the island immediately!{0xBE01}[0x000A]“The Pokémon Center will keep its doors open[0x000A]to the public for as long as we are able, and we{0xBE00}[0x000A]welcome your visit...but please brush off any{0xBE00}[0x000A]volcanic ash at the door.”

@@ -1,0 +1,16 @@
+msg_main8020_volt_01=Welcome alla Palestra di Aranciopoli!
+msg_main8020_volt_07=E tu chi sei, baby?[0x000A]Un{0x1100,0x00FF,0x0706} nuovoa nuova challenger?
+msg_main8020_volt_08=Ah ah ah! Pensi di potermi battere[0x000A]con una squadra così weak?{0xBE00}[0x000A]Hai del courage, ragazzin{0x1100,0x00FF,0x0101}oa!
+msg_main8020_volt_09=Ma temo che tu non stia prendendo sul serious[0x000A]le lotte di Pokémon!
+msg_main8020_volt_10=Let’s battle! Ti darò un bello shock con[0x000A]i miei Pokémon!
+msg_gymleader_03_07={0xBDFF:0x0005}
+msg_main8020_volt_02=Wow!{0xBE01}[0x000A]Alright, prendi la Medaglia Tuono!
+msg_main8020_sys_01={0x0100,0x0000} riceve la {0xFF00,0x0006}Medaglia Tuono{0xFF00,0x0000}[0x000A]da Lt. Surge!
+msg_main8020_volt_03=Aaaand... Siccome sei speciale...[0x000A]Tieni, prendi questo!
+msg_main8020_sys_02={0x0100,0x0000} riceve un {0xFF00,0x0006}Autografo{0xFF00,0x0000}[0x000A]del Lt. Surge!
+msg_main8020_volt_04=...
+msg_main8020_volt_11=Ah ah ah! Don’t worry! Ho anche altro da darti![0x000A]Prendi!
+msg_main8020_sys_03={0x0100,0x0000} riceve la {0x0109,0x0001}[0x000A]che contiene {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000} da Lt. Surge!
+msg_main8020_volt_05=Inside questa MT36 c’è Fulmine!{0xBE01}[0x000A]È una mossa davvero shocking...[0x000A]Insegnala ai tuoi Pokémon di tipo Elettro!
+msg_main8020_volt_06=Voglio darti un advice!{0xBE01}[0x000A]Le mosse di tipo Elettro sono davvero powerful,[0x000A]ma contro i Pokémon di tipo Terra sono useless!
+msg_gymleader_03_06={0xBDFF:0x000F}

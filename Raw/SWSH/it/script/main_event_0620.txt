@@ -1,0 +1,15 @@
+main_event_0620_yellm1_01=’Spetta un po’! Dove vai?{0xBE01}[0x000A]Dacci la tua bici! Dobbiamo attraversare[0x000A]questo ponte infinito!{0x0114,0x006F}
+main_event_0620_yellm2_01=In sella alla tua bici sarà uno scherzo[0x000A]inseguire gli Sfidapalestre! Muah ah ah!{0xBE01}[0x000A]Le nostre azioni di disturbo saranno ancora[0x000A]più efficaci!{0x0114,0x006F}
+main_event_0620_doctor_05=Che idiozia!{0xBE01}[0x000A]Tra l’altro non avete nemmeno Rotom con voi.
+main_event_0620_doctor_06=Sfidapalestre, questi ragazzi sono ladri[0x000A]di biciclette!{0xBE01}[0x000A]Da’ loro ciò che si meritano e avrai la mia[0x000A]gratitudine!
+main_event_0620_yellm1_02=Ehi! Non siamo ladri di bicilette!{0xBE01}[0x000A]Le prendiamo solo in prestito per inseguire[0x000A]gli Sfidapalestre e farli stancare.{0xBE01}[0x000A]Ma tu meriti un trattamento speciale, quindi[0x000A]ti conceremo per le feste con una sfida bestiale!{0x0114,0x006F}
+main_event_0620_yellm1_03=Tsk! Hai disturbato la mia azione di disturbo...{0x0114,0x006F}
+main_event_0620_yellm2_02=Aaargh! Io voglio una bici! Come te lo devo dire,[0x000A]pivell{0x1100,0x00FF,0x0101}oa!{0x0114,0x006F}
+main_event_0620_yellm2_03=Con un{0x1100,0x00FF,0x0101}oa Sfidapalestre del tuo calibro[0x000A]in circolazione il nostro idolo rischia{0xBE00}[0x000A]di non vincere il titolo!{0xBE01}[0x000A]Ma non finisce qui, te l’assicuro!{0x0114,0x006F}
+main_event_0620_doctor_10=Eccellente! Sei un{0x1100,0x00FF,0x0B0A} Allenator’Allenatrice eccezionale!{0xBE01}[0x000A]E vedo anche che hai un Pokédex! Ciò vuol dire[0x000A]che hai un Rotom con te!{0xBE01}[0x000A]Sai cosa ti dico? Piuttosto che farmela rubare[0x000A]dal Team Yell, la regalo a te la mia bici! Prendila!
+main_event_0620_doctor_01=Immagino che tu sappia quanto Rotom straveda[0x000A]per i motori.{0xBE01}[0x000A]Li ama al punto che quando vede una macchina[0x000A]con un motore ci si piazza subito dentro.{0xBE01}[0x000A]Questo mi ha suggerito una brillante idea!{0xBE01}[0x000A]Mi sono detto: "Se montassi un motore su una[0x000A]bici, di sicuro Rotom ci si infilerebbe dentro!"
+main_event_0620_select_01=Ehm...
+main_event_0620_select_02=Capisco...
+main_event_0620_doctor_02=Su, prova!{0xBE01}[0x000A]Divertiti con la tua bici rotomizzata!
+main_event_0620_doctor_03=Alright!{0xBE01}[0x000A]Salta in sella assieme a Rotom!
+main_event_0620_doctor_04=Ah, ti leggo le istruzioni.{0xBE01}[0x000A]Per andare in bici assieme a Rotom, premi[0x000A]il pulsante + o il pulsante - e il gioco è fatto! ♪{0xBE00}[0x000A]Dai, in sella!

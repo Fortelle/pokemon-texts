@@ -1,0 +1,14 @@
+msg_town009_kanban_01=ここは　グレンタウン[0x000A]グレンの　赤は　情熱の色
+msg_town009_kanban_02=ここは　グレン　ラボラトリー[0x000A]ポケモン　研究施設
+msg_town009_kanban_03=グレン島　ポケモンジム[0x000A]リーダー　カツラ{0xBE00}[0x000A]熱血　クイズおやじ
+msg_town009_door_01=ドアに　小さな　文字で[0x000A]なにか　書いてある……！{0xBE01}[0x000A]「問題！　この　ジムの[0x000A]　カギは　どこに　あるでしょう？{0xBE01}[0x000A]　ヒント！　草が　からみついた[0x000A]　建物の　どこかに……？」
+msg_town009_youngf_01_01=グレンジムの　カツラは[0x000A]ラボが　できる　まえから{0xBE00}[0x000A]住んでて　変人　なんだって
+msg_town009_oldm_01_01=ポケモン屋敷は[0x000A]研究の　ため　科学者が{0xBE00}[0x000A]たまに　出入り　しとる　ようだ
+msg_town009_poke_01=ブーバー『ぶっふふーぃ！
+msg_town009_poke_02=ヒトデマン『シュルー
+msg_masaki_01_p01_field_t009={0xBDFF:0x0008}
+msg_masaki_01_p02_field_t009={0xBDFF:0x0009}
+msg_masaki_01_p03_field_t009={0xBDFF:0x000A}
+msg_masaki_01_p04_field_t009={0xBDFF:0x000B}
+msg_masaki_01_p05_field_t009={0xBDFF:0x000C}
+msg_masaki_01_p06_field_t009={0xBDFF:0x000D}

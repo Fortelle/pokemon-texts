@@ -1,0 +1,11 @@
+msg_main1300_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} {0x0100,0x0000}!
+msg_main1300_rival_02=Puh, endlich hab ich dich eingeholt...{0xBE01}[0x000A]Ich hab mir auch einen Erdorden verdient.[0x000A]Damit ist der Weg zur Pokémon-Liga frei!
+msg_main1300_rival_03=Die Top Vier sollen ja unfassbar stark sein...[0x000A]Aber wer nicht wagt, der nicht gewinnt, stimmt’s?
+msg_main1300_rival_06=Wie sieht’s bei dir aus, {0x0100,0x0000}?[0x000A]Fühlst du dich der Herausforderung gewachsen?{0xBE01}[0x000A]Zeig mir doch mal, was du und deine Pokémon[0x000A]so draufhabt!
+msg_main1300_rival_04=Weißt du... Seit wir kleine Kinder waren, hatte[0x000A]ich immer das Gefühl, mich um dich kümmern{0xBE00}[0x000A]zu müssen...{0xBE01}[0x000A]Ich wollte dir mit gutem Beispiel vorangehen[0x000A]und zeigen, wie alles funktioniert.{0xBE01}[0x000A]Aber in Sachen Pokémon-Training bist du mir[0x000A]einfach ständig einen Schritt voraus.
+msg_main1300_rival_05=Hmpf, das ist irgendwie so... frustrierend!{0xBE01}[0x000A]So kenn ich mich gar nicht. Aber ich schätze, das[0x000A]gehört einfach dazu, wenn man seine Rolle als{0xBE00}[0x000A]Pokémon-Trainer wirklich ernst nimmt.
+msg_main1300_rival_07=Ich weiß, dass ich mich damit wahrscheinlich[0x000A]lächerlich mache, aber noch geb ich nicht auf!
+msg_main1300_rival_08=Dieses eine Mal musst du mir noch den Vortritt[0x000A]lassen!
+msg_rival_01_p05_field_r022={0xBDFF:0x0008}
+msg_rival_01_p06_field_r022={0xBDFF:0x0009}
+msg_rival_01_p07_field_r022={0xBDFF:0x000A}

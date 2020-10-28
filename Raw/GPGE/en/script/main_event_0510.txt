@@ -1,0 +1,11 @@
+msg_main0510_rival_01={0x01CD,0x0001}: Hey![0x000A]If it isn’t {0x0100,0x0000}!
+msg_main0510_rival_02=But what’re you doing here?!{0xBE01}[0x000A]No way... {0x0100,0x0000}, your Pokémon...[0x000A]didn’t d-die or anything, right...?
+msg_main0510_rival_07=Oh boy, I’m glad I was wrong this time!
+msg_main0510_rival_03=But maybe I should check that your Pokémon[0x000A]really is doing well...with a battle!
+msg_main0510_rival_04=But maybe I should check that your Pokémon[0x000A]really are doing well...with a battle!
+msg_main0510_dummy_01={0xBDFF:0x0005}
+msg_main0510_rival_05={0x01CD,0x0001}: Aww, shoot![0x000A]When we battled, we scared off that Cubone...{0xBE01}[0x000A]You know Cubone, right, {0x0100,0x0000}?[0x000A]It’s a Pokémon that’s always wearing a skull!
+msg_main0510_rival_06=That Cubone looked like it was searching[0x000A]for something...{0xBE01}[0x000A]Maybe it’s up on one of the higher floors...?
+msg_rival_01_p01_cave_d1702={0xBDFF:0x0008}
+msg_rival_01_p02_cave_d1702={0xBDFF:0x0009}
+msg_rival_01_p03_cave_d1702={0xBDFF:0x000A}

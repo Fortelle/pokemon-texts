@@ -1,0 +1,21 @@
+¡Buenos días!{0xBE01}[0x000A]Ha llegado un envío para ti procedente de[0x000A]Pokémon Global Link.
+¡Buenas!{0xBE01}[0x000A]Ha llegado un envío para ti procedente de[0x000A]Pokémon Global Link.
+¡Buenas noches!{0xBE01}[0x000A]Ha llegado un envío para ti procedente de[0x000A]Pokémon Global Link.
+No ha llegado nada más de Pokémon Global Link para ti.{0xBE01}[0x000A]Vuelve pronto.
+¡Ahí va!{0xBE01}[0x000A]Pero si ya no te caben más en la Bolsa...{0xBE01}[0x000A]Pásate por aquí de nuevo cuando tengas algo de sitio.
+Esperaré aquí hasta que vengas a recoger el envío.
+Tengo más cosas para ti, pero veo que no te cabe este[0x000A]tipo de objetos en la Bolsa.{0xBE01}[0x000A]Pásate por aquí de nuevo cuando esté algo más vacía.
+{0x0100,0x0000} ha recibido objetos de {0x0202,0x0001} {0x1101,0x0001,0x0509}solo tipotipos.
+{0xBDFF:0x0008}
+Este envío contiene:
+{0x0202,0x0001} {0x0109,0x0000}[0x000A]{0x0202,0x0003} {0x0109,0x0002}
+{0x0202,0x0001} {0x0109,0x0000}
+Hay objetos de {0x0202,0x0001} {0x1101,0x0001,0x0509}solo tipotipos en el envío.
+Tengo un paquete para ti con objetos de {0x0202,0x0000} {0x1101,0x0000,0x0509}solo tipotipos.{0xBE01}[0x000A]¿Quieres examinar su contenido?
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+Recibir
+Examinar
+Cancelar
+Sí
+No

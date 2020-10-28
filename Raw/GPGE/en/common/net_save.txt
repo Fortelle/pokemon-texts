@@ -1,0 +1,8 @@
+net_save_win_01=Saving...[0x000A]Please wait.
+net_save_win_02=Attention![0x000A]If a communication error occurs or your system[0x000A]gets turned off while you are trading Pokémon,[0x000A]you won’t be able to trade Pokémon for a while.
+net_save_win_03=Communicating...[0x000A]Please stand by.
+net_save_win_04=Do you want to quit trading?
+net_save_sel_01=Yes
+net_save_sel_02=No
+net_save_sel_03=Cancel
+net_save_win_05=Your trading partner chose to quit trading.[0x000A]The trade will now end.

@@ -1,0 +1,10 @@
+main_event_0300_champion_01={0x1003}{0x0100,0x0000}! Hop![0x000A]Well, after seeing a match like that one...{0xBE01}[0x000A]I suppose I’ve little choice but to give you both[0x000A]an endorsement as Champion!{0x0114,0x0004}
+main_event_0300_rival_01=Yes! Thanks, Lee! I swear I’m going to win my[0x000A]way through the Gym Challenge to reach you!{0x0114,0x0005}
+main_event_0300_champion_02=You may both be young still, and plenty rough[0x000A]around the edges, but it was a proper battle.{0xBE01}[0x000A]Charizard and I were both feeling the excitement[0x000A]in every last cell in our bodies!{0x0114,0x0004}
+main_event_0300_champion_03=Hop, you’ve always tended to get caught up in[0x000A]things like how you throw your Poké Ball out...{0xBE00}[0x000A]Things that have nothing to do with real strength.{0xBE01}[0x000A]Honestly, I’d been worried about you still[0x000A]obsessing over that sort of nonsense, but it{0xBE00}[0x000A]seems you really have grown a bit, Little Brother!{0x0114,0x0004}
+main_event_0300_champion_04=And I’d like to see some more thrilling Pokémon[0x000A]battles out of you, too, {0x0100,0x0000}.{0x0114,0x0004}
+main_event_0300_rival_02=All right, {0x0100,0x0000}!{0xBE01}[0x000A]You and me are going to train up against one[0x000A]another to aim for that Champion’s title!{0x0114,0x0005}
+main_event_0300_select_01=Absolutely!
+main_event_0300_select_02=Against one another?
+main_event_0300_rival_03=The more we keep battling against one another,[0x000A]the more our Pokémon will grow.{0x0114,0x0005}
+main_event_0300_rival_04=That’s the way of it when you’ve got a great rival![0x000A]Just like you’ve got me, and I’ve got you!{0x0114,0x0005}

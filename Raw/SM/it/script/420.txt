@@ -1,0 +1,109 @@
+Benvenut{0x1100,0x00FF,0x0101}oa![0x000A]Un tavolo per uno?
+Sì
+No, grazie
+Ti consiglio i menu Z del giorno![0x000A]Costano solo 1.040 $. Quale t’ispira?
+Pestomisto Z
+Maremisto Z
+Verdemisto Z
+Gustomisto Z
+Non ho fame...
+D’accordo. Allora, alla prossima!
+Un Pestomisto Z per {0x1100,0x00FF,0x0909}il nostrola nostra cliente!
+Un Maremisto Z per {0x1100,0x00FF,0x0909}il nostrola nostra cliente!
+Un Verdemisto Z per {0x1100,0x00FF,0x0909}il nostrola nostra cliente!
+È un menu basato su ingredienti tipici di Alola.[0x000A]Ha un gusto un po’ insolito per un palato non{0xBE00}[0x000A]abituato al gusto variegato della nostra cucina.{0xBE00}[0x000A]Vuoi ordinarlo lo stesso?
+Certo che sì!
+Forse è meglio di no...
+Un Gustomisto Z per {0x1100,0x00FF,0x0909}il nostrola nostra cliente!
+Salve! Avete un tavolo libero?{0x0114,0x0009}
+Ma certo, prego![0x000A]Da noi è sempre la benvenuta, signorina Alyxia!
+Guarda chi c’è! {0x0100,0x0000}!{0xBE01}[0x000A]Visto che sei qui, non ti dispiace se mi siedo[0x000A]con te, vero?{0xBE01}[0x000A]Prendo quello che ha ordinato l{0x1100,0x00FF,0x0101}uei, grazie.{0x0114,0x0009}
+Prego, da questa parte.
+Buon appetito!
+Gnam... gnam gnam... Mmmh! Che bontà!{0xBE01}[0x000A]La pasta è cotta al dente al punto giusto... e[0x000A]guarda come ha assorbito il sugo!{0xBE01}[0x000A]Chissà se mescolando l’uovo fritto alla pasta[0x000A]diventa ancora più buona...
+Gnam... gnam gnam... Mmmh! Che bontà!{0xBE01}[0x000A]La frittura è croccante all’esterno e soffice[0x000A]all’interno... Che delizia!{0xBE01}[0x000A]E il cacciucco alla maniera di Alola è davvero[0x000A]irresistibile...!
+Gnam... gnam gnam... Mmmh! Che bontà!{0xBE01}[0x000A]Il condimento agro e dolce al tempo stesso[0x000A]esalta il gusto delle verdure...{0xBE01}[0x000A]Non credo alle mie papille gustative...!
+Questo è il mio piatto preferito!{0xBE01}[0x000A]Quando non si ha molto tempo si finisce per[0x000A]mangiare spesso cibi pronti, dimenticandosi{0xBE00}[0x000A]dei veri sapori della cucina di casa...{0xBE01}[0x000A]Ehi, {0x0100,0x0000}... non restare[0x000A]ad ascoltarmi... mangia finché è caldo!{0x0114,0x0009}
+Gnam... gnam... gnam... Bleaaah!{0xBE01}[0x000A]La minestra è una poltiglia aspra e il pesce è[0x000A]un labirinto di lische!{0xBE01}[0x000A]I succhi dentro le polpette sono disgustosi[0x000A]e ti allappano tutta la bocca...!{0xBE01}[0x000A]E quella pappa di contorno in teoria dovrebbe[0x000A]avere un sapore... e invece non ce l’ha!
+Davvero squisito!
+Basta... Non ce la faccio più... Sto scoppiando!
+Ah, che delizia! Il cibo è uno dei miei punti[0x000A]deboli... Nutro una profonda ammirazione{0xBE00}[0x000A]per chi cucina in modo sopraffino!{0xBE01}[0x000A]Ma... Ma... {0x0100,0x0000}! Hai sfiorato[0x000A]appena il tuo piatto!{0xBE00}[0x000A]Non... Non ti è piaciuto?{0x0114,0x0009}
+Fanno 1.040 $, grazie!
+E questo è un omaggio della casa per i nostri[0x000A]gentili clienti!
+Speriamo di rivederti presto!
+Per questa volta offro io!{0xBE01}[0x000A]E prendi anche queste Squame Cuore: sono[0x000A]in omaggio!{0x0114,0x0009}
+È stato un piacere, {0x0100,0x0000}!{0xBE01}[0x000A]Le persone con un buon appetito mi mettono[0x000A]di buon umore! A presto!{0x0114,0x0009}
+Mi spiace, ma sembra che tu non abbia[0x000A]abbastanza soldi...{0xBE01}[0x000A]I piatti del nostro menu costano tutti 1.040 $.
+Benvenut{0x1100,0x00FF,0x0101}oa![0x000A]Vuoi mangiare qualcosa?
+Sì, grazie
+No, grazie
+Meraviglioso! Ecco a te il menu. Ogni portata[0x000A]costa 4.000 $. Vuoi ordinare?
+Menu Z “Ninja”
+Menu Z “Samurai”
+Menu Z “Tanuki”
+Menu Z “Ronin”
+Veramente non ho fame...
+Nessun problema. Torna a trovarci!
+Ok, allora mando l’ordine per un “Ninja”.
+Ok, allora mando l’ordine per un “Samurai”.
+Ok, allora mando l’ordine per un “Tanuki”.
+Questo è un piatto per intenditori!{0xBE01}[0x000A]Viene preparato con la qualità in mente[0x000A]piuttosto che la quantità...{0xBE01}[0x000A]In altre parole... se stai morendo di fame, forse[0x000A]non è il piatto giusto... Vuoi ordinarlo lo stesso?
+Sì!
+Forse è meglio se ne scelgo un altro...
+Ok, allora mando l’ordine per un “Ronin”.
+Salve, è aperto?{0x0114,0x000A}
+Oh, mister Augusto! Certo, si accomodi.
+Ehi, {0x0100,0x0000}...{0xBE01}[0x000A]Mangiamo insieme, offro io.[0x000A]Cameriere, il solito per me.{0x0114,0x000A}
+Ricevuto. Arriva subito.
+Ecco il menu Z!
+Gnam... gnam gnam... Wow!{0xBE01}[0x000A]Il sapore tipico della cottura alla griglia[0x000A]è eccellente... ricco al punto giusto!{0xBE01}[0x000A]I ninjacrostini sono molto equilibrati, perfetti[0x000A]come contorno...
+Gnam... gnam gnam... Wow!{0xBE01}[0x000A]La fantasia di verdure è così tenera che si[0x000A]scioglie in bocca...{0xBE01}[0x000A]E il samuramen è talmente colorato che mette[0x000A]allegria solo a guardarlo!
+Gnam... gnam gnam... Wow!{0xBE01}[0x000A]Le frittatine sottili si sposano alla perfezione[0x000A]con la delicata spuma di bacche all’interno...{0xBE01}[0x000A]Le crudità di mare sembrano freschissime!
+Buon appetito!{0x0114,0x000A}
+Gnam... gnam gnam... Mai sentito niente di simile!{0xBE01}[0x000A]Non so come spiegarmelo... Sono solo verdure e[0x000A]bacche crude... ma sono talmente buone che{0xBE00}[0x000A]sembra di assaggiarle per la prima volta!
+Tutto squisito! Da leccarsi le dita!
+Che bontà...[0x000A]Non avevo mai mangiato nulla di così delizioso...
+...[0x000A]Non era male, no?{0x0114,0x000A}
+Grazie mille!
+Ed ecco un omaggio per i nostri clienti!
+Speriamo di rivederti presto!
+Tieni... a me non servono.{0x0114,0x000A}
+Alla prossima!{0x0114,0x000A}
+I nostri piatti costano tutti 4.000 $, ma...{0xBE01}[0x000A]Mmh...[0x000A]Sembra che il tuo portafoglio non sia d’accordo...
+Salve e benvenut{0x1100,0x00FF,0x0101}oa![0x000A]Sei qui per assaggiare la nostra cucina?
+Sì!
+No, ho cambiato idea...
+Molto bene! Ecco il menu.{0xBE01}[0x000A]Sei fortunat{0x1100,0x00FF,0x0101}oa, oggi abbiamo una promozione:[0x000A]tutto a 500 $ per i clienti con meno di 20 anni!
+Tagliolini Z Classic
+Tagliolini Z Super
+Tagliolini Z Maxi
+Tagliolini Doppia Z
+Mi è passata la fame...
+Torna presto a trovarci, ti aspettiamo!
+Tagliolini Z normali al tavolo del{0x1100,0x00FF,0x0907} nostrola nostra[0x000A]cliente!
+Un Super al tavolo del{0x1100,0x00FF,0x0907} nostrola nostra cliente!
+Tagliolini Z Maxi al tavolo del{0x1100,0x00FF,0x0907} nostrola nostra cliente!
+La versione Doppia Z è un piatto con tutti[0x000A]gli extra! C’è chi dice che non finisca mai...{0xBE01}[0x000A]Sono pochi i clienti che riescono a mangiare[0x000A]tutto senza fiatare. Sei sicur{0x1100,0x00FF,0x0101}oa di farcela?
+Certo!
+Forse no...
+Doppio appetito, Doppia Z![0x000A]Comunico subito il tuo ordine in cucina.
+Ho una voragine nello stomaco... Pistaaaaa!{0x0114,0x000B}
+Ehilà, Hapi! Benvenuta!
+Alola! Oh... C’è anche {0x0100,0x0000}!{0xBE01}[0x000A]Un incontro voluto dal destino![0x000A]Mangiamo insieme? Dai, sarà divertente!{0xBE01}[0x000A]Ehi, capo! Portami il solito! E portalo anche[0x000A]al{0x1100,0x00FF,0x0C0A} mio amicola mia amica! Vedrai, non può non piacerti!{0x0114,0x000B}
+Prego, da questa parte!
+Ecco qua! Attenzione che scotta!
+Slurp... slurp slurp... Mmmh! Che buoni!{0xBE01}[0x000A]Il brodo è quasi trasparente, è molto delicato[0x000A]ma ha un ottimo sapore. I tagliolini sono sottili{0xBE00}[0x000A]e lisci... la consistenza è perfetta!
+Slurp... slurp slurp... Mmmh! Che buoni!{0xBE01}[0x000A]È una porzione molto abbondante, ma va giù[0x000A]che è un piacere, quasi senza accorgersene!{0xBE01}[0x000A]Potrei fare tranquillamente il bis o il tris!
+Slurp... slurp slurp... Mmmh! Che buoni!{0xBE01}[0x000A]Tagliolini a perdita d’occhio! Sono morbidi[0x000A]e il condimento è gustosissimo.{0xBE01}[0x000A]A un certo punto pensavo di non poterli finire,[0x000A]poi ho aggiunto qualche spezia e ce l’ho fatta!{0xBE00}[0x000A]Con questa ciotola sono a posto per un mese!
+Aaah... Proprio quello che mi ci vuole!{0xBE01}[0x000A]Per lavorare nei campi tutto il giorno ci vogliono[0x000A]energie, così quando voglio rifocillarmi ben{0xBE00}[0x000A]benino vengo qui e faccio il pieno!{0xBE01}[0x000A]Adesso posso ripartire come un Tauros!{0x0114,0x000B}
+Slurp... slurp... slur... Coff coff! Aiuto!{0xBE01}[0x000A]Mi sono quasi andati di traverso! Sono troppi,[0x000A]il brodo è bollente e la ciotola pesa così tanto{0xBE00}[0x000A]che non riesco nemmeno a spostarla!{0xBE01}[0x000A]Mangio da mezz’ora e i tagliolini sembrano non[0x000A]finire mai... Sto per esplodere...{0xBE01}[0x000A]Questa dev’essere la ciotola dei tagliolini infiniti.
+Che buoniii!
+Aiuto... non ce... la faccio... più...
+Fiuuuu! Ah... Come si dice, una ciotola al giorno[0x000A]toglie il medico di torno, no?{0xBE01}[0x000A]Oh? Ehi, {0x0100,0x0000}, non mangi più?{0x0114,0x000B}
+Fanno 500 $.[0x000A]Grazie mille, speriamo di rivederti presto!
+Questo è per te, un piccolo omaggio da parte[0x000A]nostra!
+Alla prossima!
+Sai, io fornisco le verdure a questo ristorante.[0x000A]Per questo mangio gratis!{0xBE01}[0x000A]E stavolta mangi gratis anche tu: offro io![0x000A]Anzi, voglio darti anche queste!{0x0114,0x000B}
+In gamba, eh! Ciao!{0x0114,0x000B}
+Tutti i nostri piatti costano 500 $ per chi[0x000A]ha meno di 20 anni!{0xBE01}[0x000A]Assicurati di avere abbastanza soldi prima[0x000A]di ordinare!
+Il primo piano è riservato a chi ha ordinato!

@@ -1,0 +1,4 @@
+msg_main8015_gym_01=Yo![0x000A]Champ in the making!{0xBE01}[0x000A]Misty, the Gym Leader of the Cerulean City[0x000A]Gym, is a powerful Trainer!{0xBE01}[0x000A]You’ll need a Pokémon of {0xFF00,0x0006}at least Lv. 15{0xFF00,0x0000} if you[0x000A]want to challenge her Gym!
+msg_main8015_gym_02=Show me a Pokémon of {0xFF00,0x0006}at least Lv. 15{0xFF00,0x0000} if you[0x000A]want to take on the Gym!
+msg_main8015_gym_03=...Impressive![0x000A]I see you have a Pokémon that is {0xFF00,0x0006}at least Lv. 15{0xFF00,0x0000}.{0xBE05,0x0004}{0xBE05,0x0001}{0xBE01}[0x000A]In that case...head on in![0x000A]And good luck!
+msg_main8015_gym_04=...You don’t have a Pokémon that’s at least[0x000A]Lv. 15?{0xBE05,0x0005}{0xBE05,0x0000}{0xBE01}[0x000A]Come back once you’ve trained up a bit![0x000A]The Cerulean City Gym will always be willing to{0xBE00}[0x000A]face new challengers!

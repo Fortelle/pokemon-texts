@@ -1,0 +1,14 @@
+Collegamento a Internet in corso.
+Vuoi collegarti a Internet?
+Vuoi interrompere il collegamento a Internet?
+Sì
+No
+Il collegamento a Internet è riuscito.
+Interruzione del collegamento a Internet[0x000A]in corso.
+Il collegamento a Internet è stato interrotto.
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+Il filtro famiglia impedisce di connettersi[0x000A]a Internet.
+L’ID Sincrogioco di questo software è:[0x000A]{0x01A1,0x0000}

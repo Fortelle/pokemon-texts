@@ -1,0 +1,5 @@
+main_event_1070_poke1_01=Raaaja!
+main_event_1070_seniority_01=Nicht du schon wieder...{0x0114,0x000C}
+main_event_1070_seniority_02=Ah, ich verstehe schon, was hier vor sich geht...{0xBE01}[0x000A]Du willst mir die Wunschsterne wegnehmen, um[0x000A]dir die Gunst des Präsidenten zu erschleichen!{0xBE01}[0x000A]Ein perfider Plan, das muss ich dir lassen.{0x0114,0x000C}
+main_event_1070_seniority_03=Aber du glaubst doch nicht ernsthaft, dass ich[0x000A]dir das durchgehen lasse, oder?{0xBE01}[0x000A]Niemand stellt sich zwischen mich und den[0x000A]Präsidenten, ist das klar?!{0x0114,0x000C}
+main_event_1070_seniority_04=Wie kann das sein...?{0xBE01}[0x000A]Warum kommt mir ständig so ein Taugenichts[0x000A]wie du in die Quere...?{0x0114,0x000C}

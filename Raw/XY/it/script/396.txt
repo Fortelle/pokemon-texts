@@ -1,0 +1,33 @@
+Benvenut{0x1100,0x00FF,0x0101}oa al Grand Hotel Fior[0x000A]di Quattrini.{0xBE01}[0x000A]Mi sembri un{0x1100,0x00FF,0x0908} ragazzoa ragazza affidabile.[0x000A]Ti andrebbe di lavorare per noi?
+Ah, sei tu! Ti va di[0x000A]lavorare per noi?
+Ehi! Ultimamente si sente molto[0x000A]parlare di te!{0xBE01}[0x000A]Ti andrebbe di lavorare qui?
+Oh, {0x0100,0x0000}![0x000A]Ormai questo mestiere non ha più segreti{0xBE00}[0x000A]per te! Vuoi lavorare per noi?
+Che lavoro vuoi fare?
+Oh, che peccato![0x000A]Sarà per la prossima volta.
+Per oggi non c’è altro da fare.[0x000A]Torna domani, ti aspetto!
+Servizio in camera
+Rifare i letti
+Oggetti smarriti
+Devo scappare...
+Vuoi occuparti del servizio in camera?[0x000A]Bene, avviati alla reception!
+Vuoi rifare i letti?[0x000A]Bene, avviati al piano {0x0200,0x0000}!
+Vuoi occuparti degli oggetti smarriti?[0x000A]Bene, avviati alla reception!
+Grazie del tuo aiuto![0x000A]Il tuo lavoro di oggi è stato...
+Perfetto! Persino la direttrice[0x000A]ti manda i suoi complimenti!
+Niente male davvero![0x000A]Grazie per il tuo impegno!
+Beh, non ti preoccupare...[0x000A]La prossima volta farai meglio!
+Ecco la tua ricompensa di oggi!
+{0x0100,0x0000} riceve ${0x0204,0x0001,0x002E}!
+Buone notizie per te![0x000A]La tua ricompensa è aumentata!
+La tua ricompensa aumenta di ${0x0203,0x0000,0x002E}[0x000A]e in tutto fanno ${0x0204,0x0001,0x002E}!
+Adesso sei {0x1100,0x00FF,0x0B0A}il migliorla migliore concierge[0x000A]del nostro hotel!{0xBE01}[0x000A]Complimenti! La direttrice vuole[0x000A]incontrarti di persona!
+Mi{0x1100,0x00FF,0x0606}o caroa cara {0x0100,0x0000}...{0xBE01}[0x000A]Piacere di conoscerti. Sono[0x000A]la direttrice di questo hotel.{0xBE01}[0x000A]Ti ho fatto chiamare perché...{0xBE01}[0x000A]Vorrei assumerti come concierge[0x000A]del nostro Grand Hotel Fior di Quattrini.
+La tua risposta mi fa capire[0x000A]che sei un{0x1100,0x00FF,0x0100}a concierge...{0xBE00}[0x000A]anzi, che dico: un{0x1100,0x00FF,0x0B0A} Allenator'Allenatrice...{0xBE00}[0x000A]di una gentilezza non comune.{0xBE01}[0x000A]Mi basta che tu abbia accettato.[0x000A]Potrai venire quando vorrai.{0xBE01}[0x000A]Spero che continuerai a concederci[0x000A]il tuo prezioso aiuto!
+Capisco perfettamente.{0xBE01}[0x000A]Non devi sentirti obbligat{0x1100,0x00FF,0x0101}oa.{0xBE01}[0x000A]Comunque sappi che quando ne hai voglia,[0x000A]qui c’è sempre qualche lavoretto per te.{0xBE01}[0x000A]Spero che continuerai a concederci[0x000A]il tuo prezioso aiuto!
+Non posso crederci! Hai incontrato[0x000A]la nostra leggendaria direttrice!{0xBE01}[0x000A]Deve stimarti molto se ha[0x000A]voluto parlarti di persona.{0xBE01}[0x000A]Visto che la direttrice ha riconosciuto[0x000A]le tue capacità, dalla prossima volta{0xBE00}[0x000A]ti affiderò le nostre suite speciali!
+Grazie di tutto! Arrivederci a presto!
+Ah! Sono spiacente ma...{0xBE01}[0x000A]Ora devo occuparmi di un ospite importante![0x000A]Torna più tardi, per favore!
+Vuoi rifare i letti, allora?[0x000A]Bene, avviati al primo piano!
+Vuoi rifare i letti, allora?[0x000A]Bene, avviati al secondo piano!
+Vuoi rifare i letti, allora?[0x000A]Bene, avviati al terzo piano!
+Vuoi rifare i letti, allora?[0x000A]Bene, avviati al quarto piano!

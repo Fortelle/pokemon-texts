@@ -1,0 +1,8 @@
+msg_t007r0501_stafff_01=Bienvenid{0x1100,0x00FF,0x0101}oa al Centro Comercial de Ciudad[0x000A]Azulona.{0xBE01}[0x000A]En el panel del fondo, al lado del ascensor,[0x000A]puedes comprobar las tiendas que hay.
+msg_t007r0501_kanban_01=PB: Puesto de información{0xBE01}[0x000A]P1: Tienda de Entrenadores{0xBE01}[0x000A]P2: Videojuegos{0xBE01}[0x000A]P3: Regalos{0xBE01}[0x000A]P4: Complementos{0xBE01}[0x000A]Azotea: Máquinas expendedoras
+msg_t007r0501_kanban_02={0xBDFF:0x0002}
+msg_t007r0501_poster_01=Entrevista especial a la Líder de Gimnasio de[0x000A]Ciudad Azulona.{0xBE01}[0x000A]"¿Una frase que me represente en la vida?[0x000A]'Cría fama y échate a dormir', supongo".
+msg_t007r0501_adultm_01=Ah... Menos mal que hay donde sentarse en[0x000A]este centro comercial.{0xBE01}[0x000A]¡Cuando seas mayor lo entenderás!
+msg_t007r0501_oldf_01=No he venido a comprar nada, es que me gusta[0x000A]encontrarme a mis amigos cuando se pasan por{0xBE00}[0x000A]aquí.
+msg_t007r0501_youngf_01=Oyeee, ¿subimos a comprar algún complemento[0x000A]para Pokémon?
+msg_t007r0501_youngm_01=Qué pereza subir hasta la cuarta planta... ¿Y si[0x000A]mejor nos vamos?

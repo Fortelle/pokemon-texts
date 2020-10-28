@@ -1,0 +1,101 @@
+Bienvenue au Château de Combat. En quoi puis-je vous être utile aujourd'hui, Baron <var> ?
+D'ici, vous pouvez envoyer des invitations aux Dresseurs qui fréquentent ces murs. Chaque type d'invitation attirera différents Dresseurs. Ce service vous est proposé en échange d'une somme modique. N'hésitez pas.
+Quel type d'invitation souhaitez-vous envoyer ?
+Si vous publiez un Faire-Part, davantage de Dresseurs viendront visiter ces lieux. Émettre un Faire-Part vous coûtera <var> $. Désirez-vous procéder à la publication ?
+Si vous publiez un Faire-Part Argent, de nombreux Dresseurs se bousculeront aux portes de ce Château de Combat. Émettre un Faire-Part Argent vous coûtera <var> $. Désirez-vous procéder à la publication ?
+La publication d'un Faire-Part Or attirera entre ces murs les Dresseurs particulièrement aisés. Émettre un Faire-Part Or vous coûtera <var> $. Désirez-vous procéder à la publication ?
+Si vous publiez un Avis de Défi, des Dresseurs plus motivés se presseront devant nos murs. Émettre un Avis de Défi vous coûtera <var> $. Désirez-vous procéder à la publication ?
+La publication d'un Avis de Défi Bleu attirera dans notre Château de Combat des Dresseurs sereins. Vous pourrez jouter dans une ambiance détendue. Émettre un Avis de Défi Bleu vous coûtera <var> $. Désirez-vous procéder à la publication ?
+Publier un Avis de Défi Rouge attirera dans notre Château de Combat des Dresseurs pugnaces. Vous pourrez combattre avec ardeur. Émettre un Avis de Défi Rouge vous coûtera <var> $. Désirez-vous procéder à la publication ?
+Très bien, je procède donc à la publication.
+Je suis terriblement désolée, mais il semblerait que vous n'ayez pas la somme nécessaire.
+Si je puis vous être d'une quelconque aide, n'hésitez surtout pas. Je suis à votre service.
+Si vous publiez un Avis de Défi Noir, les Dresseurs les plus belliqueux viendront en ces lieux pour se livrer à des combats dantesques avec vous. Émettre un Avis de Défi Noir vous coûtera <var> $. Désirez-vous procéder à la publication ?
+Oh, <var> <var> ! Vous tombez à pic : j'ai une excellente nouvelle. Vos efforts ont été reconnus, et vous avez obtenu le titre de <var> !
+Oh, <var> <var> ! Vous tombez à pic : j'ai une excellente nouvelle. Vos efforts ont été reconnus, et vous avez obtenu le titre de <var> !
+
+
+Toutes mes félicitations. Au plaisir de vous voir à nouveau dans notre Château de Combat.
+Sniff… Sniff… Oh, Monsieur… Nous l'attendions depuis si longtemps… Je suis tellement émue, les mots me manquent. Oh, Monsieur… Je vous félicite pour votre titre de Grand-Duc ! Je vous souhaite du plus profond de mon coeur tout le succès du monde !
+Il semblerait qu'un Faire-Part a déjà été publié.
+Mille excuses, mais cela n'a pas l'air d'être à la portée de votre bourse…
+Bienvenue au Château de Combat. En quoi puis-je vous aider ?
+Les gentes dames et gentilshommes de toute la région se retrouvent ici pour livrer des combats raffinés entre personnes de qualité. Ce château est un club très select, dont l'existence reste secrète. Tous les gens formidables qui fréquentent notre établissement sont à la recherche de quelque chose de bien particulier. Certains viennent ici pour se battre… D'autres cherchent la gloire… D'autres encore rêvent de richesses… Les combats sont sans pitié, et ce quel que soit l'adversaire. N'hésitez pas à vous en donner à cœur joie. Entre ces murs, nos habitués reçoivent des titres de noblesse, en fonction de leur force. Donnez le meilleur de vous-même, vous pourrez ainsi progresser rapidement dans la hiérarchie.
+Si nous avons choisi le système de titres de noblesse, c'est pour faire honneur à l'ardeur de nos habitués. Votre titre, c'est la seule chose qui vous définit, entre ces murs. Vous pourrez gravir peu à peu les échelons en vous battant avec nos habitués. Plus vous gagnez en noblesse, plus le nombre d'habitués fréquentant ce lieu augmentera. Pour finir, c'est toute la crème de la société qui se retrouvera ici pour vous combattre.
+En espérant que vous profiterez pleinement de tout ce que le Château de Combat a à vous offrir.
+Mesdames et Messieurs, très estimés hôtes… Le Baron <var> vient de nous rejoindre. Nous vous prions de prendre soin de lui, et de lui enseigner nos us.
+Mesdames et Messieurs, très estimés hôtes… Le Vicomte <var> vient de nous rejoindre.
+Mesdames et Messieurs, très estimés hôtes… Le Comte <var> vient de nous rejoindre. Nous vous prions de ne pas le sous-estimer lorsque vous vous mesurerez à lui.
+Mesdames et Messieurs, très estimés hôtes… Le Marquis <var> vient de nous rejoindre. Que tous ceux qui sont suffisamment sûrs de leur force s'aventurent à l'affronter !
+Mesdames et Messieurs, très estimés hôtes… Le Duc <var> vient de nous rejoindre. Veuillez l'applaudir et vous préparer à un affrontement inoubliable.
+Envoyer une invitation
+Au sujet des invitations 1
+Quitter
+Faire-Part
+Faire-Part Argent
+Faire-Part Or
+Avis de Défi
+Avis de Défi Bleu
+Avis de Défi Rouge
+Quel est cet endroit ?
+Que signifient les titres ?
+Oui
+Non
+---
+Avis de Défi Noir
+Vous devez savoir deux choses à propos des Faire-Part que vous envoyez. Premièrement, qu'ils restent actifs jusqu'à minuit le jour de l'envoi. Deuxièmement, que même si vous êtes libre d'envoyer autant de Faire-Part que vous le souhaitez, seul le dernier publié sera effectif.
+Au sujet des invitations 2
+Mesdames et Messieurs, très estimés hôtes… La Baronne <var> vient de nous rejoindre. Nous vous prions de prendre soin d'elle et de lui enseigner nos us.
+Mesdames et Messieurs, très estimés hôtes… La Vicomtesse <var> vient de nous rejoindre.
+Mesdames et Messieurs, très estimés hôtes… La Comtesse <var> vient de nous rejoindre. Nous vous prions de ne pas la sous-estimer lorsque vous vous mesurerez à elle.
+Mesdames et Messieurs, très estimés hôtes… La Marquise <var> vient de nous rejoindre. Que tous ceux qui sont suffisamment sûrs de leur force s'aventurent à l'affronter !
+Mesdames et Messieurs, très estimés hôtes… La Duchesse <var> vient de nous rejoindre. Veuillez l'applaudir et vous préparer à un affrontement inoubliable.
+
+
+
+
+Sniff… Sniff… Oh, Madame… Nous l'attendions depuis si longtemps… Je suis tellement émue, les mots me manquent. Oh, Madame… Je vous félicite pour votre titre de Grande-Duchesse ! Je vous souhaite du plus profond de mon coeur tout le succès du monde !
+Bienvenue, Vicomte <var>. Que puis-je faire pour vous ?
+Bienvenue, Comte <var>. Que puis-je faire pour vous ?
+Bienvenue, Marquis <var>. Que puis-je faire pour vous ?
+Bienvenue, Duc <var>. Que puis-je faire pour vous ?
+Bienvenue au Château de Combat. En quoi puis-je vous être utile aujourd'hui, Baronne <var> ?
+Bienvenue, Vicomtesse <var>. Que puis-je faire pour vous ?
+Bienvenue, Comtesse <var>. Que puis-je faire pour vous ?
+Bienvenue, Marquise <var>. Que puis-je faire pour vous ?
+Bienvenue, Duchesse <var>. Que puis-je faire pour vous ?
+
+
+C'est un immense honneur de vous accueillir à nouveau, Grand-Duc <var>. Que puis-je faire pour vous être agréable ?
+C'est un immense honneur de vous accueillir à nouveau, Grande-Duchesse <var>. Que puis-je faire pour vous être agréable ?
+Toutes mes excuses, vous avez déjà envoyé un Faire-Part Argent.
+Toutes mes excuses, vous avez déjà envoyé un Faire-Part Or.
+Toutes mes excuses, vous avez déjà envoyé un Avis de Défi.
+Toutes mes excuses, vous avez déjà envoyé un Avis de Défi Bleu.
+Toutes mes excuses, vous avez déjà envoyé un Avis de Défi Rouge.
+Toutes mes excuses, vous avez déjà envoyé un Avis de Défi Noir.
+Mesdames et Messieurs, le jour tant attendu est enfin arrivé. Sa puissance lui a permis d'obtenir le titre ultime, celui de Grande-Duchesse. L'admirable <var> nous fait l'honneur de sa présence. Les mots me manquent pour décrire tant d'élégance. Je vous laisse juger par vous-mêmes.
+Je n'en attendais pas moins d'un membre de la noblesse, mille mercis pour votre bonté.
+…
+Oh, c'est trop aimable de penser ainsi à votre humble serviteur, Maîtresse <var>.
+…
+Pardon, mais vous avez déjà envoyé un Faire-Part. Êtes-vous certaine de vouloir poursuivre votre envoi ?
+Pardon, mais vous avez déjà envoyé un Faire-Part Argent. Êtes-vous certaine de vouloir poursuivre votre envoi ?
+Pardon, mais vous avez déjà envoyé un Avis de Défi. Êtes-vous certaine de vouloir poursuivre votre envoi ?
+Pardon, mais vous avez déjà envoyé un Avis de Défi Bleu. Êtes-vous certaine de vouloir poursuivre votre envoi ?
+Pardon, mais vous avez déjà envoyé un Avis de Défi Rouge. Êtes-vous certaine de vouloir poursuivre votre envoi ?
+Pardon, mais vous avez déjà envoyé un Avis de Défi Noir. Êtes-vous certaine de vouloir poursuivre votre envoi ?
+Que puis-je faire pour vous aujourd'hui ?
+Puis-je vous être d'une quelconque utilité ?
+Baron
+Vicomte
+Comte
+Marquis
+Duc
+Grand-Duc
+Baronne
+Vicomtesse
+Comtesse
+Marquise
+Duchesse
+Grande-Duchesse

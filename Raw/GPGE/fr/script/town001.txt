@@ -1,0 +1,7 @@
+msg_town001_post_01=Maison {0x1408,0x0000}{0x0100,0x0000}
+msg_town001_post_02=Maison {0x1408,0x0001}{0x0100,0x0001}
+msg_town001_kanban_01=Bourg Palette[0x000A]« Un monde de couleurs s’ouvre à vous ! »
+msg_town001_kanban_02=Laboratoire Pokémon du Professeur Chen
+msg_town001_youngf_01=J’élève des Pokémon ! Quand ils seront assez[0x000A]forts, ils pourront me protéger !
+msg_town001_fat_01=Le pouvoir de la science est formidable !{0xBE01}[0x000A]On peut désormais connecter sa console avec[0x000A]son ordiphone... enfin je veux dire smartphone,{0xBE00}[0x000A]pour échanger des données !
+msg_town001_test_01={0xBDFF:0x0006}

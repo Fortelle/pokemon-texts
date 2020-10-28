@@ -1,0 +1,4 @@
+msg_r0501_npc1_01=Si vas en bici es porque quieres tomar la vía más[0x000A]corta y directa, ¿no?
+msg_r0501_npc2_01=¿De qué van estos del Team Yell?{0xBE01}[0x000A]Animar a alguien está muy bien, pero eso no[0x000A]significa tener que fastidiar al resto. ¡Eso en mi{0xBE00}[0x000A]pueblo se llama ser rastrero y punto!
+msg_r0501_npc3_01=Eso que se ve al fondo es el Estadio de Artejo.[0x000A]¡A ver si te veo combatir allí!
+msg_r0501_npc_camp_01=El secreto de un buen curri es encontrar el punto[0x000A]justo de cocción regulando las llamas a la vez{0xBE00}[0x000A]que remueves para evitar que se queme.{0xBE01}[0x000A]Sabes que has encontrado ese punto cuando[0x000A]comienza a relucir.{0xBE01}[0x000A]Si te apetece, puedes venir a cocinar a mi[0x000A]campamento. ¡Estás invitad{0x1100,0x00FF,0x0101}oa!

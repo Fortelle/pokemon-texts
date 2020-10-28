@@ -1,0 +1,250 @@
+{0x0102,0x0000}
+{0x0101,0x0000}
+{0x0202,0x0000}
+{0x0202,0x0000}
+{0x0201,0x0000}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+—
+l
+Pokédex No.
+???
+Name
+Type
+OT
+{0x0100,0x0000}
+HP
+/
+Attack
+Defense
+Sp. Atk
+Sp. Def
+Speed
+Nature
+{0x0108,0x0000}
+Ability
+{0x0106,0x0000}
+Held Item
+{0x0109,0x0000}
+Moves Learned
+{0x0107,0x0000}
+{0x010B,0x0000}
+Judge
+Party
+{0xBDFF:0x0021}
+Group 1
+Group 2
+Group 3
+Move
+Summary
+Held Item
+Marking
+Release
+Remove
+Switch Box
+Wallpaper
+Name
+Bag
+Give
+Register
+Cancel
+Scenery 1
+Scenery 2
+Scenery 3
+Misc.
+Forest
+City
+Desert
+Savanna
+Crag
+Volcano
+Snow
+Cave
+Beach
+Seafloor
+River
+Sky
+Pokémon Center
+Machine
+Checks
+Simple
+Back
+Confirm
+Yes
+No
+Would you like to quit operating Boxes?
+What do you want to do with {0x0102,0x0000}?
+You need to keep a healthy Pokémon!
+What do you want to do with this Box?
+Do you want to change your team name?
+Where do you want to jump to?
+Please pick a theme.
+Pick a wallpaper.
+Do you want to take the {0x0109,0x0000}?
+You placed the {0x0109,0x0000} in your Bag.
+Your Bag is full!
+A Pokémon Egg cannot hold an item.
+Choose a mark.
+Do you really want to release this Pokémon?
+{0x0102,0x0000} was released.
+Bye-bye, {0x0102,0x0000}!
+{0x0109,0x0000} selected.
+It can hold an item.
+You cannot release a Pokémon Egg.
+You cannot release the fused Kyurem.
+You can’t register an Egg.
+Where do you want to register it?
+Do you want to return to Poké Pelago?
+Want to remove the {0x0109,0x0000}?
+The {0x0109,0x0000} has been removed!
+Trade
+Deposit
+Remove
+Cancel
+Yes
+No
+This Pokémon will be traded.[0x000A]Is that OK?
+This Pokémon will be removed from your[0x000A]Battle Team and traded. Is that OK?
+The Pokémon cannot be traded.
+You need that Pokémon to get through your[0x000A]adventure!
+You cannot offer a Pokémon Egg in trade.
+You can’t trade a Pokémon that is registered[0x000A]for a Battle Team.
+It’s a special Pokémon.[0x000A]You cannot trade it.
+The Pokémon has a special item.[0x000A]You cannot offer it for trade.
+Communicating. Please stand by...
+This Battle Team is locked.[0x000A]You cannot remove this Pokémon.
+You can’t move any Pokémon in a locked[0x000A]Battle Team.
+This Battle Team is locked.[0x000A]Items cannot be given or taken.
+This Battle Team is locked.[0x000A]You cannot mark your Pokémon in the team.
+You can’t release this Pokémon because it’s an[0x000A]important Pokémon that Sina entrusted to you.
+You can’t offer this Pokémon for trade because[0x000A]it’s the Pokémon that Sina entrusted to you.
+This Battle Team is locked.[0x000A]You can’t register any Pokémon for the team.
+You can’t release any Pokémon registered for[0x000A]Battle Teams.
+You can’t register any Pokémon in Battle Teams[0x000A]for a group.
+Waiting for the other person’s decision...
+Time Left:
+{0xBDFF:0x007D}
+No good
+Decent
+Pretty good
+Very good
+Fantastic
+Best
+Decent potential
+Above-average potential
+Relatively superior potential
+Outstanding potential!
+Reset
+Search
+—
+Pokémon
+{0x0101,0x0000}
+Type 1
+{0x0103,0x0000}
+Type 2
+{0x0103,0x0000}
+Move
+{0x0107,0x0000}
+TMs
+{0x0107,0x0000}
+Ability
+{0x0106,0x0000}
+Nature
+{0x0108,0x0000}
+Gender
+[0xE08E]
+[0xE08F]
+Unknown
+Held Item
+{0x0109,0x0000}
+Mark
+Holding Item
+Not Holding Item
+Registered
+Yes
+No
+Team
+{0xBDFF:0x00A6}
+Choose the conditions, and then press “SEARCH”[0x000A]to turn on the filter.
+Choose the first letter of the Pokémon’s name.
+Choose a Pokémon.
+Choose Type 1.
+Choose Type 2.
+Choose the first letter of the move.
+Please choose a move.
+You can check whether any Pokémon can use the[0x000A]selected TM.
+Please choose the first letter of an Ability.
+Please choose an Ability.
+Please choose a Nature.
+Please choose a gender.
+You can check Pokémon with items.
+You can check Pokémon with marks.
+You can check Pokémon registered for any team.
+You can check Pokémon registered for a team[0x000A]you select.
+{0x0103,0x0001}
+{0x0103,0x0002}
+{0x0107,0x0000}
+{0x0106,0x0000}
+{0x0108,0x0000}
+Every stat grows in a balanced way.
+Attack grows faster. Defense grows slower.
+Attack grows faster. Speed grows slower.
+Attack grows faster. Sp. Atk grows slower.
+Attack grows faster. Sp. Def grows slower.
+Defense grows faster. Attack grows slower.
+Every stat grows in a balanced way.
+Defense grows faster. Speed grows slower.
+Defense grows faster. Sp. Atk grows slower.
+Defense grows faster. Sp. Def grows slower.
+Speed grows faster. Attack grows slower.
+Speed grows faster. Defense grows slower.
+Every stat grows in a balanced way.
+Speed grows faster. Sp. Atk grows slower.
+Speed grows faster. Sp. Def grows slower.
+Sp. Atk grows faster. Attack grows slower.
+Sp. Atk grows faster. Defense grows slower.
+Sp. Atk grows faster. Speed grows slower.
+Every stat grows in a balanced way.
+Sp. Atk grows faster. Sp. Def grows slower.
+Sp. Def grows faster. Attack grows slower.
+Sp. Def grows faster. Defense grows slower.
+Sp. Def grows faster. Speed grows slower.
+Sp. Def grows faster. Sp. Atk grows slower.
+Every stat grows in a balanced way.
+{0xBDFF:0x00D5}
+{0x0200,0x0000}
+/
+A Box is a place where you can deposit[0x000A]your Pokémon.[0x000A][0x000A]You can also organize your Pokémon in Boxes.[0x000A][0x000A]Access your Boxes from a PC at any[0x000A]Pokémon Center.
+Your Boxes have three modes.[0x000A]Press the X Button to change between modes.[0x000A][0x000A]The first mode is to organize your Boxes.[0x000A][0x000A]You can switch Pokémon between your party[0x000A]and your Boxes. You can also change the[0x000A]order of Pokémon.
+The second mode is to organize Pokémon’s[0x000A]held items.[0x000A][0x000A]You can give Pokémon items, switch items,[0x000A]and so on.
+The third mode is to register Pokémon for your[0x000A]Battle Teams.[0x000A][0x000A]Register Pokémon you often use in battle for[0x000A]your Battle Teams. You can have up to six Battle[0x000A]Teams and register the same Pokémon for[0x000A]multiple teams, so create various teams!
+Press START or SELECT to change between[0x000A]operation modes.[0x000A][0x000A]The red cursor is for normal Box operation.[0x000A]The blue cursor allows you to switch Pokémon[0x000A]one after another.[0x000A]The green cursor allows you to select multiple[0x000A]Pokémon at once.
+Press the Y Button to switch to search mode.[0x000A][0x000A]You can quickly search for Pokémon by[0x000A]Pokémon name, type, learned move, and more.
+{0xBDFF:0x00DE}
+Show me your Pokémon.
+I would like to trade my Pokémon for[0x000A]that Pokémon!
+I would like to see other Pokémon.
+I have no more Pokémon I want to trade.
+Please!
+Thank you!
+I’m sorry.
+Bye-bye.
+I would like to trade my Pokémon[0x000A]for {0x0101,0x0000}!
+I’m checking the summary of the Pokémon...
+I’m going to offer {0x0101,0x0000}[0x000A]for trade.
+I’m looking for a Pokémon...
+...
+Check Yours
+Check Partner’s
+Cancel
+The trading partner canceled the trade.
+You canceled the trade.
+You can’t trade Pokémon because there is a[0x000A]problem with the trading partner’s Pokémon.
+Would you like to quit the Pokémon trade?
+A communication partner chose to quit trading.[0x000A]The trade will end.
+Ending the communication...[0x000A]Please wait.
+The {0x0109,0x0000} will be removed if[0x000A]you trade the Pokémon. Is that OK?
+You can’t trade Pokémon because there is a[0x000A]problem with your Pokémon.
+Communication failed.
+Hyper trained!
+You can’t invite a Pokémon Egg to Poké Pelago!

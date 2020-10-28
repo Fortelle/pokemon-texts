@@ -1,0 +1,7 @@
+Yes, {0x0100,0x0000}?[0x000A]You’ve found me again.{0xBE01}[0x000A]Would you like to attempt my trial once more?{0x0114,0x000D}
+Definitely!
+Not yet
+Oh, really?[0x000A]I will be waiting, in that case.{0x0114,0x000D}
+Good. Then to review my trial’s requirements...{0xBE01}[0x000A]I want you to drive the Wishiwashi found in the[0x000A]pools of Brooklet Hill downstream, in order to{0xBE00}[0x000A]draw out the Totem Pokémon.{0x0114,0x000D}
+Good. Then we should head downstream to[0x000A]meet the totem!{0x0114,0x000D}
+If you’re ready, please follow me this way.{0x0114,0x000D}

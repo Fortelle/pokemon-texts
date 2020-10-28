@@ -1,0 +1,6 @@
+msg_main0100_clerkm_01=Ehi! Arrivi da Biancavilla, vero?
+msg_main0100_clerkm_02=Conoscerai senz’altro il Professor Oak!{0xBE01}[0x000A]È arrivato quello che stava aspettando,[0x000A]ma sono troppo impegnato per portarglielo...{0xBE01}[0x000A]Non è che puoi pensarci tu?
+msg_main0100_sys_01={0x0100,0x0000} riceve un {0xFF00,0x0006}Pacco{0xFF00,0x0000}!
+msg_main0100_clerkm_03=Ok![0x000A]Saluta il Professor Oak da parte mia!
+msg_main0100_clerkm_04={0xBDFF:0x0004}
+msg_main0100_sys_02=Vuoi tornare subito al laboratorio[0x000A]del Professor Oak?

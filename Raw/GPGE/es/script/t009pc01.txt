@@ -1,0 +1,6 @@
+msg_t009pc01_woman_01=Quería entrar en el Gimnasio de Isla Canela,[0x000A]pero la puerta está cerrada a cal y canto.{0xBE01}[0x000A]Debe de haber una llave por algún sitio.[0x000A]¿Estará en aquella mansión destartalada?{0xBE01}[0x000A]Dicen que allí vivía un amigo del Líder de[0x000A]Gimnasio.
+msg_t009pc01_gentlem_01=Oye, ¿tú tienes muchos amigos?{0xBE01}[0x000A]Los Pokémon que recibes de un intercambio[0x000A]crecen mucho más rápido de lo normal.{0xBE01}[0x000A]¡Así que no te cortes e intercambia todos los[0x000A]Pokémon que puedas!
+msg_t009pc01_bugcatcher_01=Los Pokémon pueden seguir aprendiendo[0x000A]movimientos incluso deteniendo su evolución.{0xBE01}[0x000A]Puedes hacerles evolucionar más tarde, tras[0x000A]haberles enseñado algunos movimientos más.
+msg_t009pc01_book_01=Un ejemplar de "La voz del Centro Pokémon".
+msg_t009pc01_select_01=¿Quieres leerlo?
+msg_t009pc01_book_02="Recientemente, el volcán de Isla Canela ha[0x000A]mostrado un alarmante incremento de actividad{0xBE00}[0x000A]volcánica.{0xBE01}[0x000A]En caso de que se produzca una erupción de[0x000A]gran magnitud, la isla deberá ser evacuada de{0xBE00}[0x000A]inmediato.{0xBE01}[0x000A]Haremos lo que esté en nuestras manos por[0x000A]mantener el Centro Pokémon abierto tanto{0xBE00}[0x000A]como sea posible.{0xBE01}[0x000A]Por favor, sacúdase la ceniza volcánica antes de[0x000A]entrar".

@@ -1,0 +1,102 @@
+Kampfkamera
+Mit der Kampfkamera kannst du unter anderem[0x000A]Link-Kämpfe sowie Kämpfe auf dem Kampf-Plaza[0x000A]aufzeichnen und später noch einmal anschauen.[0x000A][0x000A]Mittels der gespeicherten Daten kann eine Simulation[0x000A]deines Gegners erstellt werden, die es dir ermöglicht,[0x000A]in einem Probekampf noch einmal gegen ihn anzutreten.
+Hier kannst du deine mit der Kampfkamera aufgezeichneten[0x000A]Kampfvideos im Internet veröffentlichen und die[0x000A]Kampfvideos anderer Spieler suchen und ansehen.[0x000A]Sobald ein Kampfvideo veröffentlicht wird, erhält es einen[0x000A]Code, mit dem es gefunden werden kann. Wenn du diesen[0x000A]Code an Freunde weitergibst, können sie sich dein[0x000A]Kampfvideo ansehen, unabhängig von ihrem Aufenthaltsort.
+Umkehrkampf
+{0x0100,0x0000}
+Wiedergaben:
+Registriert am:
+{0xBDFF:0x0007}
+{0x0206,0x0000,0xE07F}
+{0x0201,0x0002}.{0x0201,0x0001}.{0x0203,0x0000,0x0000}
+{0x0203,0x0000,0x0000}-{0x0203,0x0001,0x0000}-{0x0203,0x0002,0x0000}-{0x0203,0x0003,0x0000}
+{0x0202,0x0000}
+:
+{0x0203,0x0000,0xE07F}. Kampf
+Um dieses Kampfvideo ansehen zu können,[0x000A]benötigst du die neuesten Update-Daten.
+Runde:
+Sieg durch K.O. aller Gegner
+Punktsieg nach Ablauf der Zeit
+Sieg durch Kapitulation
+Unentschieden
+Spieler 2
+Spieler 3
+Spieler 4
+/
+Es ist kein Kampfvideo vorhanden.[0x000A][0x000A]Du kannst bis zu 100 Kampfvideos[0x000A]aufzeichnen, zum Beispiel während eines[0x000A]Link-Kampfes oder auf dem Kampf-Plaza.[0x000A][0x000A]Nutze Kampfvideos, um Kämpfe zu analysieren!
+Link-Kampf
+Kampf-Plaza
+Kampfbaum
+Dome Royale
+Online-Turnier
+Hautnahturnier
+Freundesturnier
+Kampfkamera starten
+Kampfvideo suchen
+Kampfvideo veröffentlichen
+Ja
+Nein
+Mehrere löschen
+Löschen
+Ansicht
+Zur vorherigen Runde
+Zur nächsten Runde
+Beenden
+Starte die Kampfkamera!
+Was möchtest du tun?
+Die SD Card wird überprüft...[0x000A]Bitte das System nicht ausschalten.
+Beschädigte Kampfvideos wurden gelöscht.{0xBE01}
+Server wird überprüft...[0x000A]Bitte das System nicht ausschalten.
+Die Kampfkamera ist nun mit dem Internet[0x000A]verbunden.{0xBE01}
+Sollen die {0x0202,0x0000} ausgewählten Kampfvideos[0x000A]wirklich gelöscht werden?
+Löschvorgang...[0x000A]Bitte das System nicht ausschalten.
+Löschvorgang abgeschlossen.{0xBE01}
+Bitte wähle das Kampfteam aus, mit dem du[0x000A]den Probekampf bestreiten möchtest.{0xBE01}
+Der Öffentlichkeit zugänglich gemachte[0x000A]Kampfvideos können frühestens am Tag nach{0xBE00}[0x000A]ihrer Veröffentlichung wieder entfernt werden.{0xBE01}[0x000A]Möchtest du dieses Kampfvideo im Internet[0x000A]der Öffentlichkeit zugänglich machen?
+Dieses Kampfvideo kann der Öffentlichkeit[0x000A]nicht zugänglich gemacht werden.{0xBE01}
+Kampfvideo wird gesendet...[0x000A]Bitte das System nicht ausschalten.
+Das Kampfvideo wurde im Internet[0x000A]der Öffentlichkeit zugänglich gemacht.{0xBE01}
+Soll dieses öffentlich zugänglich gemachte[0x000A]Kampfvideo vom Server entfernt werden?
+Der öffentliche Zugriff auf das Kampfvideo[0x000A]kann erst am nächsten Tag widerrufen werden.{0xBE01}
+Dieses Kampfvideo ist nicht mehr[0x000A]öffentlich zugänglich.{0xBE01}
+Soll dieses Kampfvideo wirklich gelöscht[0x000A]werden?
+Das Kampfvideo wird gesucht...
+Das Kampfvideo wurde nicht gefunden.{0xBE01}
+Um dieses Kampfvideo ansehen zu können,[0x000A]benötigst du die neuesten Update-Daten.
+Dieses Kampfvideo kann nicht abgespielt[0x000A]werden.{0xBE01}
+Wiedergabe des Kampfvideos wird vorbereitet...[0x000A]Bitte warte einen Moment.
+Wähle einen Gegner für den Probekampf aus.{0xBE01}
+Öffentlicher Zugriff wird beendet...[0x000A]Bitte das System nicht ausschalten.
+Der Vor-/Rücklauf wurde aktiviert.[0x000A]Bitte warte einen Moment.
+Datenübertragung wird ausgeführt...[0x000A]Bitte das System nicht ausschalten.
+Einzelkampf
+Doppelkampf
+Battle Royale
+Multikampf
+Link-Kampf
+Kampf-Plaza
+Kampfbaum
+Dome Royale
+{0x011A,0x0000}
+Freier Kampf
+Bewerteter Kampf
+Spezialkampf
+Einzelkampf
+Doppelkampf
+Multikampf
+Super-Einzelkampf
+Super-Doppelkampf
+Super-Multikampf
+Normal-Rang
+Super-Rang
+Hyper-Rang
+Meister-Rang
+{0x011A,0x0000}
+Niederlage durch K.O.
+Punktniederlage nach Ablauf der Zeit
+Niederlage durch Kapitulation
+1. Platz
+2. Platz
+3. Platz
+4. Platz
+WCS-Kampf
+Du kannst keine weiteren Kampfvideos[0x000A]veröffentlichen, da sonst die maximale Anzahl{0xBE00}[0x000A]an zehn Kampfvideos überschritten werden{0xBE00}[0x000A]würde.{0xBE01}[0x000A]Widerrufe die Veröffentlichung eines anderen[0x000A]Kampfvideos oder lösche ein bereits{0xBE00}[0x000A]veröffentlichtes Kampfvideo.{0xBE01}

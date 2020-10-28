@@ -1,0 +1,11 @@
+msg_main1300_rival_01={0xFF00,0x0009}{0x0100,0x0001} : {0xFF00,0x0000}{0x0100,0x0000} !
+msg_main1300_rival_02=Pfiou ! J’ai réussi à te rattraper !{0xBE01}[0x000A]Tu sais quoi ? J’ai le Badge Terre ![0x000A]Je peux aller à la Ligue Pokémon, maintenant !
+msg_main1300_rival_03=Il paraît qu’ils sont super forts, au Conseil 4...[0x000A]Du coup, je stresse un peu.{0xBE01}[0x000A]Mais on ne peut pas y couper !
+msg_main1300_rival_06=Et toi, tu te sens prêt{0x1100,0x00FF,0x0100}e ?{0xBE01}[0x000A]Montre-moi un peu où en est ton équipe[0x000A]avec un petit combat !
+msg_main1300_rival_04=Tu sais, depuis qu’on est petits, j’ai toujours[0x000A]eu tendance à te couver à fond, parce que{0xBE00}[0x000A]je te voyais un peu comme m{0x1100,0x00FF,0x0D0E}on petit frèrea petite sœur.{0xBE01}[0x000A]Mais t’es carrément meilleur{0x1100,0x00FF,0x0100}e que moi,[0x000A]en Pokémon, et parfois ça me travaille un peu.
+msg_main1300_rival_05=Je crois que je découvre juste que j’aime pas[0x000A]la défaite, ha ha !{0xBE01}[0x000A]Bah, au moins, j’ai trouvé un truc dans lequel[0x000A]je m’implique à fond !{0xBE00}[0x000A]Les Pokémon, c’est ma passion.
+msg_main1300_rival_07=Et je ne veux plus perdre de combat !
+msg_main1300_rival_08=Je sais que c’est un peu gamin, comme réaction,[0x000A]mais ça te dérange, si je passe en premier ?{0xBE01}[0x000A]Merci ! J’ai besoin de me prouver à moi-même[0x000A]que je peux y arriver !
+msg_rival_01_p05_field_r022={0xBDFF:0x0008}
+msg_rival_01_p06_field_r022={0xBDFF:0x0009}
+msg_rival_01_p07_field_r022={0xBDFF:0x000A}

@@ -1,0 +1,11 @@
+msg_main0200_scientist_01=Ehi! Ferm{0x1100,0x00FF,0x0101}oa lì!
+msg_main0200_scientist_05=Questi due fossili li ho trovati io!
+msg_main0200_scientist_06=Sono miei!
+msg_science_02_02={0xBDFF:0x0003}
+msg_main0200_scientist_02=Uno a testa![0x000A]Non bisogna essere avidi!
+msg_main0200_sys_01=Vuoi il Domofossile?
+msg_main0200_sys_02=Vuoi l’Helixfossile?
+msg_main0200_sys_03=Hai ottenuto l’Helixfossile.
+msg_main0200_sys_04=Hai ottenuto il Domofossile.
+msg_main0200_scientist_03=Ok! Allora io mi prendo l’altro!
+msg_main0200_scientist_04=Si dice che sulla lontanissima Isola Cannella[0x000A]ci sia un Laboratorio Pokémon...{0xBE01}[0x000A]E che lì stiano studiando come rigenerare[0x000A]i Pokémon dai fossili!

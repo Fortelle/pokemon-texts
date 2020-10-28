@@ -1,0 +1,201 @@
+Checking your SD Card...[0x000A]Please wait.
+Your SD Card does not have enough free space.[0x000A]Please delete some data on your SD Card.{0xBE01}
+The Nintendo 3DS Camera application has no[0x000A]room for additional photos, so your photo{0xBE00}[0x000A]cannot be saved. Please delete some data{0xBE00}[0x000A]from your Nintendo 3DS system first.{0xBE01}
+An error has occurred with[0x000A]Nintendo 3DS Camera.{0xBE01}[0x000A]Failed to save the photo(s).{0xBE01}
+Due to errors detected within the files on your[0x000A]SD Card, your data has been deleted.{0xBE01}
+The photo cannot be saved because your[0x000A]SD Card is full.{0xBE01}[0x000A]Please delete some data from the SD Card[0x000A]in your Nintendo 3DS system.{0xBE01}
+Please note that you can save {0x0200,0x0000} more photo{0x1101,0x0000,0x0100}s at[0x000A]the Alola Photo Club.{0xBE01}
+You can save {0x0200,0x0000} more photo{0x1101,0x0000,0x0100}s at the[0x000A]Alola Photo Club.{0xBE01}[0x000A]Please note that you can’t take photos once[0x000A]you run out of space.{0xBE01}
+You’ve run out of space to save photos at[0x000A]the Alola Photo Club.{0xBE01}[0x000A]Please delete some photos you don’t need[0x000A]from your Photo Album.{0xBE01}
+Saving the photo(s) to your SD Card...[0x000A]Please don’t turn off the power.
+{0xBDFF:0x000A}
+The Nintendo 3DS Camera application has no[0x000A]room for additional photos, so your photo{0xBE00}[0x000A]cannot be saved. Please delete some data{0xBE00}[0x000A]from your Nintendo 3DS system first.{0xBE01}
+The photo cannot be saved because your[0x000A]SD Card is full.{0xBE01}[0x000A]Please delete some data from the SD Card.{0xBE01}
+Saved to your SD Card.{0xBE01}
+You can save up to 420 photos at the[0x000A]Alola Photo Club.{0xBE01}[0x000A]After you take {0x0200,0x0000} more photo{0x1101,0x0000,0x0100}s, you’ll be out of[0x000A]space and unable to take any more photos.{0xBE01}[0x000A]Please delete photos that you don’t need from[0x000A]your Photo Album.{0xBE01}
+You’ve run out of space to save photos at[0x000A]the Alola Photo Club.{0xBE01}[0x000A]Please delete some photos you don’t need[0x000A]from your Photo Album.{0xBE01}
++Control Pad: Pokémon’s location[0x000A] X Button / Y Button: Pokémon’s direction[0x000A] L Button / R Button: Your direction
+Choose who should appear in your photos.
+Please select a Pokémon.
+Please select a background.
+Please select your outfit.
+Would you like to cancel your photo shoot?
+Are you ready?
+Are you OK with this outfit?
+Are you OK with this outfit?
+You asked {0x0102,0x0000} to strike a fiery[0x000A]battle pose!{0xBE01}
+You asked {0x0102,0x0000} for a cute pose[0x000A]it does at Pokémon Refresh.{0xBE01}
+Photos have been taken.{0xBE01}
+You changed the action you’ll perform.{0xBE01}
+Photos that are not selected will be deleted.[0x000A]Is that OK?
+Saving the photo(s)...[0x000A]Please don’t turn off the power.
+Saved the photo(s).{0xBE01}
+You’ve run out of space to save photos at[0x000A]the Alola Photo Club.{0xBE01}[0x000A]Please delete some photos you don’t need[0x000A]from your Photo Album.{0xBE01}
+You can save up to 420 photos at the[0x000A]Alola Photo Club.{0xBE01}[0x000A]After you take {0x0200,0x0000} more photo{0x1101,0x0000,0x0100}s, you’ll be out of[0x000A]space and unable to take any more photos.{0xBE01}[0x000A]Please delete photos that you don’t need from[0x000A]your Photo Album.{0xBE01}
+You can save up to 420 photos at the[0x000A]Alola Photo Club.{0xBE01}[0x000A]You can save {0x0200,0x0000} more photo{0x1101,0x0000,0x0100}s.{0xBE01}
+Pokémon
+Pokémon and Trainer
+{0x0102,0x0000}
+Background 1
+Current Outfit
+Models
+Pokémon
+Background
+Outfit
+Composition
+Photo shooting 6
+Start photo shoot
+Choose an action to perform.
+Confirm
+Yes
+No
+Confirm
+Change item
+Quit
+Continue
+Start over
+Quit
+Route 1 A
+Route 1 B
+Fossil Restoration Center
+Route 3
+Brooklet Hill A
+Wela Volcano Park
+Mount Lanakila
+Vast Poni Canyon
+Hau’oli Cemetery
+Abandoned Thrifty Megamart
+Poni Meadow
+Route 1 C
+Melemele Meadow
+Ula’ula Meadow
+Po Town
+Iki Town
+Paniola Town
+Hau’oli City
+Konikoni City
+Route 8
+Trainers’ School
+Kala’e Bay
+Hau’oli City Beach
+Route 14
+Brooklet Hill B
+Route 15
+Ten Carat Hill
+Seaward Cave
+Ruins of Conflict
+Classroom
+Shady House
+Verdant Cavern
+Elite Four Chamber A
+Elite Four Chamber B
+Elite Four Chamber C
+Elite Four Chamber D
+Champion’s Chamber
+Aether Paradise A
+Aether Paradise B
+Aether Paradise C
+Altar of the Sunne
+Altar of the Moone
+Battle Tree
+Battle Royal
+Battle Agency
+Haina Desert
+Mahalo Trail
+Seafolk Village
+Malie Garden
+Lush Jungle
+Icy Cave
+Paniola Ranch A
+Paniola Ranch B
+Poni Breaker Coast
+Ancient Temple
+Indigo Plateau
+Bell Tower
+Seafloor Cavern
+Spear Pillar
+Skyarrow Bridge
+Lumiose City
+Lovey-Dovey Heart
+Faraway Space
+Celebration Cake
+Zenith Stage
+Commemorative Photo
+Background 67
+Background 68
+Models
+Pokémon
+Background
+Composition
+Outfit
+Facing forward
+Facing each other
+Custom Outfit 1
+Custom Outfit 2
+Custom Outfit 3
+Ride Outfit (Sky)
+Riding Wear (Ground)
+Riding Wear (Water)
+Back to mode selection
+Reset
+Choose which way your models should face.
+You can’t move your Pokémon there.
+Your Pokémon can’t move if you do that!
+Your Pokémon can hardly move!
+That’ll be too cramped for your Pokémon!
+There’s no room to turn that way.
+There’s no room to rotate that way.
+Choose an action to perform.
+Rotate
+You can’t rotate there.
+Updating your SD Card...[0x000A]Please don’t turn off the power.
+Your SD Card has been updated.{0xBE01}
+Edit
+Delete
+Favorite / Remove from Favorites
+Quit
+Select the photo(s) to delete.{0xBE01}
+The selected photo(s) will be[0x000A]deleted. Is that OK?
+Deleting the photo(s)...[0x000A]Please don’t turn off the power.
+Deleted the photo(s).{0xBE01}
+It’s added to your favorites.{0xBE01}
+It’s removed from your favorites.{0xBE01}
+Please select a mode.[0x000A][0x000A]Easy mode[0x000A]You can take photos easily by snapping a photo[0x000A]while performing actions to capture the perfect[0x000A]pose.[0x000A]Advanced mode[0x000A]You can move the camera and your Pokémon[0x000A]around to take photos.
+Let’s prepare your photo shoot![0x000A]Tap the option you want to change.[0x000A][0x000A]Then when you’re ready, tap Start photo shoot.
+Options that are not available in easy mode,[0x000A]such as models, backgrounds, and outfits, are[0x000A]available in this advanced mode.
+You can select a background from this menu.[0x000A]Press the Y Button, and you can change the[0x000A]time of day as well.[0x000A]However, you can’t change the time for[0x000A]some backgrounds.
+You can select your outfit from this menu.[0x000A]Tap one of the outfits to temporarily change into[0x000A]it. To create custom outfits, select one of the[0x000A]custom outfit options, then tap the[0x000A]customization icon to make clothing selections[0x000A]and save your new outfit.
+To take awesome shots, have your Pokémon[0x000A]take different actions to capture a cool pose!
+Flip this switch, and your Pokémon will perform[0x000A]the actions it uses in battle or when playing[0x000A]cutely with you.
+Tap this Pokémon call button, and you can ask[0x000A]your Pokémon to perform another action.[0x000A][0x000A]Tap the button many times to see what kinds of[0x000A]actions your Pokémon might take!
+Press the action button here to choose what[0x000A]kind of action you’ll take during the photo shoot.[0x000A]Tap the play button, and you’ll perform that[0x000A]action. Tap it again to pause in the middle of[0x000A]your action and capture a great pose.
+Select the tabs on the left to change controls.[0x000A]Tapping the top tab will display controls for[0x000A]taking actions and shooting photos.[0x000A][0x000A]Tapping the bottom tab will display controls for[0x000A]adjusting the camera’s position and more.
+Controls that are not available in easy mode,[0x000A]such as rotating your Pokémon and camera, are[0x000A]available in advanced mode.[0x000A]Try out all of the functions, and take some[0x000A]awesome shots!
+Select a tab on the left to change controls.[0x000A]First tab: Use actions and take photos[0x000A]Second tab: Move your Pokémon[0x000A]Third tab: Rotate your Pokémon[0x000A]Fourth tab: Rotate yourself[0x000A]Fifth tab: Adjust the camera
+You can control the camera from this menu.[0x000A]Use each slider to zoom in or out, change the[0x000A]height of the camera, and move the camera[0x000A]left or right.
+In advanced mode, you can rotate the camera.[0x000A]This ability is not available in easy mode.[0x000A][0x000A]Rotate the camera to take photos from[0x000A]various angles.
+You can control the camera from this menu.[0x000A]Use each slider to zoom in or out, change the[0x000A]height of the camera, move the camera left or[0x000A]right, and rotate the camera around your models[0x000A]to change the angle you shoot from.
+You can move your Pokémon here.[0x000A]Touch and drag the Pokémon icon to the place[0x000A]you like and drop it there.[0x000A]The icon will turn red if you try to move your[0x000A]Pokémon into a place where it can’t fit.
+You can rotate your Pokémon here.[0x000A]Rotate the arrows around the Pokémon icon to[0x000A]rotate your Pokémon.[0x000A]The icon will turn red if you try to rotate your[0x000A]Pokémon in a direction it can’t face.
+You can rotate yourself here.[0x000A]Rotate the arrows around your icon to[0x000A]rotate yourself.[0x000A]Your icon will turn red if you try to rotate[0x000A]yourself in a direction you can’t face.
+Six photos will be taken in one photo shoot.[0x000A][0x000A]Tap and put star marks on the photos[0x000A]you want to save, and then select Confirm.[0x000A]Your photos will be saved.
+You can rotate your Pokémon.[0x000A]Drag an arrow to rotate your Pokémon.
+You can rotate yourself.[0x000A]Drag an arrow to rotate yourself.
+Please select a mode.
+Easy
+Advanced
+Select options for your photo shoot!
+{0x0102,0x0000}
+Select the photos you want to keep.[0x000A]A Button: Select/Deselect    Y Button: Confirm
+Would you like to continue?
+Dummy
+Dummy
+Dummy
+Dummy
+{0x0102,0x0000} seems very happy!
+{0x0102,0x0000} seems a bit embarrassed!
+{0x0102,0x0000} seems content!
+{0x0102,0x0000} seems a bit surprised!
+{0x0102,0x0000} seems satisfied!
+Your Pokémon’s position will be reset because it[0x000A]can’t take any actions there. Change actions?
+You can’t select this composition.

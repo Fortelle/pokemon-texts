@@ -1,0 +1,9 @@
+msg_main0057_mother_01={0xFF00,0x0009}Mamá:{0xFF00,0x0000} ¡Ay, pero qué Pokémon más cuqui![0x000A]¿Es el que te ha entregado el profesor?
+msg_main0057_mother_02=¿Cómo? ¿Que lo has atrapado tú? ¡¿Tú solit{0x1100,0x00FF,0x0101}oa?![0x000A]¡Qué apañad{0x1100,0x00FF,0x0101}oa eres! ¡Se nota que eres mi hij{0x1100,0x00FF,0x0101}oa!{0xBE01}[0x000A]Y qué, ¿ya le has puesto nombre?[0x000A]Ah, ¿se llama {0x0102,0x0003}?{0xBE01}[0x000A]Holaaa, {0x0102,0x0003}.[0x000A]¡Eres una auténtica monada!
+msg_main0057_poke_01=¡Pika, pikaaa!
+msg_main0057_poke_02=¡Viii!
+msg_main0057_mother_03={0xFF00,0x0009}Mamá:{0xFF00,0x0000} ¡Menuda energía!
+msg_main0057_mother_05=Y ahora estaréis deseando salir por ahí a vivir[0x000A]aventuras, ¿no?{0xBE01}[0x000A]Bueno, ya sabía yo que este día iba a llegar.[0x000A]Por eso tenía una cosita preparada para ti.
+msg_main0057_sys_01=Tu madre te ha entregado un {0xFF00,0x0006}Mapa{0xFF00,0x0000}.
+msg_main0057_sys_02={0xBDFF:0x0007}
+msg_main0057_mother_04=Con ese Mapa que te acabo de dar, podrás[0x000A]saber en todo momento dónde te encuentras.{0xBE01}[0x000A]¡Así no te perderás![0x000A]¡Y ahora, venga, pasadlo muy bien juntos!

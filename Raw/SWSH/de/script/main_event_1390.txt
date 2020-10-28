@@ -1,0 +1,9 @@
+main_event_1390_sound_02=*KABUUUMM!*
+main_event_1390_champion_01=Hey, {0x0100,0x0000}!{0xBE01}[0x000A]Danke, dass du gekommen bist, aber ich gehe[0x000A]diesem Lärm schon auf den Grund, keine Sorge!{0x0114,0x0004}
+main_event_1390_champion_02=Ich will, dass du und Hop euch voll und ganz[0x000A]auf die Arena-Challenge konzentrieren könnt.{0x0114,0x0004}
+main_event_1390_champion_03=Euch fehlt nur noch der Orden von Roy,[0x000A]dem Drachen-Arenaleiter.{0xBE01}[0x000A]Aber Roy ist eine Nummer für sich! Er ist so stark,[0x000A]dass ich ihn als meinen Rivalen anerkenne.{0x0114,0x0004}
+main_event_1390_champion_04=So, genug geredet! Ich muss jetzt diesem Lärm[0x000A]von eben auf den Grund gehen.{0x0114,0x0004}
+main_event_1390_champion_05=Ich, Delion, der Unschlagbare, werde eure[0x000A]Zukunft mit allem verteidigen, was ich habe!{0x0114,0x0004}
+main_event_1390_sound_01=*KABUUUMM!*
+main_event_1390_champion_06=Das kam von der anderen Seite des Tunnels![0x000A]Das ist mein Stichwort. It’s champ time!{0x0114,0x0004}
+main_event_1390_npc_01={0xBDFF:0x0008}

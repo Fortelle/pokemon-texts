@@ -1,0 +1,158 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+Soleil
+Le soleil est au zénith. La puissance des[0x000A]attaques de type Feu augmente alors que celle[0x000A]des attaques de type Eau diminue.
+Pluie
+Il pleut. La puissance des attaques de type Eau[0x000A]augmente alors que celle des attaques de type[0x000A]Feu diminue.
+Tempête de sable
+On n’y voit rien[0xE07F]! Tous les Pokémon, à part ceux[0x000A]de type Roche, Sol ou Acier, subissent des[0x000A]dégâts à la fin de chaque tour. Les Pokémon[0x000A]de type Roche voient leur Défense Spéciale[0x000A]augmenter.
+Grêle
+Qu’est-ce qu’il fait froid... Tous les Pokémon,[0x000A]à part ceux de type Glace, subissent des[0x000A]dégâts à la fin de chaque tour.
+Champ Électrifié
+Pendant cinq tours, les Pokémon au sol ne[0x000A]peuvent plus dormir. La puissance des[0x000A]capacités de type Électrik augmente.
+Champ Herbu
+Pendant cinq tours, les Pokémon au sol[0x000A]regagnent des PV. La puissance des[0x000A]capacités de type Plante augmente.
+Champ Brumeux
+Pendant cinq tours, les Pokémon au sol[0x000A]ne peuvent plus subir d’altération de statut.[0x000A]La puissance des capacités de type Dragon[0x000A]diminue de moitié.
+Distorsion
+Pendant cinq tours, la Vitesse des Pokémon est[0x000A]inversée : les plus lents deviennent les plus[0x000A]rapides, et vice-versa.
+Zone Magique
+Pendant cinq tours, aucun objet tenu ne peut[0x000A]être activé.
+Zone Étrange
+Pendant cinq tours, la Défense et la Défense[0x000A]Spéciale de tous les Pokémon sont interverties.
+Chance Critique
+Le Pokémon a plus de chances d’infliger[0x000A]des coups critiques.
+Confusion
+Pendant un à quatre tours, le Pokémon risque[0x000A]de se blesser lui-même.
+Attraction
+Le Pokémon risque de ne pas pouvoir attaquer[0x000A]les Pokémon de sexe opposé.
+Cauchemar
+Le Pokémon perd des PV à chaque tour jusqu’à[0x000A]ce qu’il se réveille.
+Bâillement
+Le Pokémon s’endormira au tour suivant celui[0x000A]où il a été pris pour cible par la capacité.
+Encore
+Pendant trois tours, le Pokémon ne pourra plus[0x000A]que répéter {0x0107,0x0000}.
+Aucun talent
+Le talent du Pokémon ne fait plus effet.
+Tourmente
+Le Pokémon ne peut plus utiliser la même[0x000A]capacité deux fois de suite.
+Vent Arrière
+Pendant quatre tours, la Vitesse des Pokémon[0x000A]de l’équipe est doublée.
+Air Veinard
+Le Pokémon ne peut pas subir de coup critique.
+Rancune
+Si un Pokémon met celui-ci K.O., les PP de[0x000A]la capacité qu’il a utilisée tomberont à zéro.
+Anti-Soin
+Pendant cinq tours, le Pokémon ne peut plus[0x000A]récupérer de PV grâce à ses capacités,[0x000A]son talent ou l’objet qu’il tient.
+Anti-Spectre
+Certaines capacités qui auraient dû n’avoir[0x000A]aucun effet peuvent maintenant atteindre[0x000A]leur cible, et touchent sans prendre en compte[0x000A]les augmentations d’Esquive.
+Entrave
+Le Pokémon ne peut plus utiliser la capacité[0x000A]{0x0107,0x0000} pendant quatre tours.
+Anti-Fuite
+Le Pokémon ne peut plus être changé pour[0x000A]un autre de l’équipe et ne peut plus fuir.
+Verrouillage
+La capacité utilisée au tour suivant l’utilisation[0x000A]de Verrouillage touchera à coup sûr.
+Embargo
+Pendant cinq tours, aucun objet ne peut être[0x000A]utilisé.
+Chargeur
+Si le Pokémon utilise une capacité Électrik[0x000A]immédiatement après avoir utilisé Chargeur,[0x000A]la puissance de celle-ci sera doublée.
+Gravité
+Pendant cinq tours, il sera plus facile de toucher[0x000A]le Pokémon. Les capacités de type Sol pourront[0x000A]toucher les Pokémon de type Vol ou ayant le[0x000A]talent Lévitation. Le Pokémon ne peut plus[0x000A]utiliser de capacité lui permettant de s’envoler.
+Brume
+Pendant cinq tours, les stats ne peuvent plus[0x000A]baisser.
+Rune Protect
+Pendant cinq tours, le Pokémon est protégé[0x000A]contre les altérations de statut.
+Piège de Roc
+Inflige des dégâts aux Pokémon entrant sur[0x000A]le terrain.
+Stockage
+La Défense et la Défense Spéciale du Pokémon[0x000A]augmentent tant que le Stockage continue.
+Provocation
+Le Pokémon ne peut plus utiliser que des[0x000A]capacités infligeant des dégâts.
+Lévikinésie
+Pendant trois tours, le Pokémon sera touché[0x000A]à coup sûr par toutes les capacités à[0x000A]l’exception de celles qui mettent K.O. en[0x000A]un coup. Par contre, il ne pourra plus être[0x000A]touché par les capacités de type Sol.
+Vol Magnétik
+Pendant cinq tours, le Pokémon ne pourra plus[0x000A]être touché par les capacités de type Sol.
+Pics Toxik
+Empoisonne les Pokémon entrant sur le terrain,[0x000A]sauf s’ils sont de type Vol ou ont le talent[0x000A]Lévitation.
+Lance-Boue
+Pendant cinq tours, la puissance des capacités[0x000A]de type Électrik est divisée par deux.
+Vœu
+Des PV seront restaurés au tour suivant[0x000A]l’utilisation de Vœu.
+Toile Gluante
+Quand un Pokémon laisse sa place à un[0x000A]coéquipier, la Vitesse de ce dernier est baissée.
+Racines
+Restaure quelques PV à la fin de chaque tour.[0x000A]Le Pokémon affecté ne peut plus laisser[0x000A]sa place à un autre Pokémon.
+Malédiction
+Fait perdre des PV à la fin de chaque tour.
+Halloween
+Octroie le type Spectre en plus du ou des types[0x000A]que le Pokémon possède normalement.
+Mur Lumière
+Pendant cinq tours, les dégâts causés par[0x000A]les capacités spéciales subies seront divisés[0x000A]par deux.
+Protection
+Pendant cinq tours, les dégâts causés par[0x000A]les capacités physiques subies seront divisés[0x000A]par deux.
+Possessif
+Le Pokémon ayant utilisé Possessif empêche[0x000A]l’ennemi de se servir des capacités qu’ils ont[0x000A]en commun.
+Requiem
+Tous les Pokémon ayant entendu le Requiem[0x000A]seront K.O. après trois tours.
+Picots
+Inflige des dégâts aux Pokémon entrant[0x000A]sur le terrain, sauf s’ils sont de type Vol[0x000A]ou possèdent le talent Lévitation.
+Tourniquet
+Pendant cinq tours, la puissance des capacités[0x000A]de type Feu est divisée par deux.
+Prélèvem. Destin
+Si ce Pokémon est mis K.O., le Pokémon[0x000A]responsable sera également mis K.O.
+Maléfice Sylvain
+Octroie le type Plante en plus du ou des types[0x000A]que le Pokémon possède normalement.
+Vampigraine
+À la fin du tour, la cible se fait voler des PV.
+Verrouillage
+Les capacités toucheront le Pokémon cible[0x000A]à coup sûr.
+Étreinte
+Le Pokémon subit des dégâts à chaque tour.
+Patience
+Le Pokémon encaisse les attaques pendant[0x000A]deux tours, puis renvoie le double des dégâts[0x000A]qu’il a subis à sa cible.
+Colère
+Le lanceur enrage et attaque pendant deux[0x000A]ou trois tours avant de devenir confus.
+Mania
+Le lanceur enrage et attaque pendant deux[0x000A]ou trois tours avant de devenir confus.
+Danse-Fleur
+Le lanceur enrage et attaque pendant deux[0x000A]ou trois tours avant de devenir confus.
+Poison grave
+Le Pokémon est gravement empoisonné, et[0x000A]perd de plus en plus de PV à chaque tour.
+Attaque future
+Le Pokémon subira des dégâts après deux[0x000A]tours.
+Brouhaha
+Le lanceur enrage et attaque pendant trois[0x000A]tours. Aucun Pokémon ne peut dormir pendant[0x000A]cette période.
+Anneau Hydro
+Un voile d’eau recouvre le lanceur et régénère[0x000A]ses PV à chaque tour.
+Allègement
+Le lanceur s’allège et augmente beaucoup[0x000A]sa Vitesse.
+Anti-Air
+La cible est touchée en plein vol et s’écrase[0x000A]au sol.
+Verrou Enchanté
+Aucun Pokémon ne peut quitter le terrain durant[0x000A]le tour suivant l’utilisation de cette capacité.
+Arc-en-ciel
+Augmente les chances qu’un effet additionnel[0x000A]se produise.
+Marécage
+Divise la Vitesse par quatre.
+Mer de Feu
+Tous les Pokémon, à part ceux de type Feu,[0x000A]subissent des dégâts à chaque tour.
+Soleil intense
+Un soleil intense brille dans le ciel. La puissance[0x000A]des capacités de type Feu augmente et les[0x000A]capacités de type Eau deviennent inefficaces.
+Pluie battante
+Une pluie battante s’abat. La puissance[0x000A]des capacités de type Eau augmente et les[0x000A]capacités de type Feu deviennent inefficaces.
+Vent mystérieux
+Un vent mystérieux s’est levé. Il affaiblit les[0x000A]capacités super efficaces contre le type Vol.
+Champ Psychique
+Pendant cinq tours, les Pokémon au sol sont[0x000A]immunisés aux capacités prioritaires.[0x000A]La puissance des capacités de type Psy[0x000A]est augmentée.
+Exécu-Son
+La cible ne peut plus utiliser de capacités[0x000A]sonores pendant deux tours.
+Voile Aurore
+La puissance des capacités physiques et[0x000A]spéciales est divisée par deux pendant[0x000A]cinq tours.
+Affilage
+La capacité utilisée au tour suivant l’activation[0x000A]d’Affilage inflige à coup sûr un coup critique.
+{0xBDFF:0x0098}
+{0xBDFF:0x0099}
+{0xBDFF:0x009A}
+{0xBDFF:0x009B}
+{0xBDFF:0x009C}
+{0xBDFF:0x009D}

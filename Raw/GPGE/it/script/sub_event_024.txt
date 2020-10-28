@@ -1,0 +1,13 @@
+msg_sub024_researcher_01=Salve! Sono uno studioso importante, sai?[0x000A]Molto importante!{0xBE01}[0x000A]E mi occupo di fossili di Pokémon rari!{0xBE01}[0x000A]Hai qualche fossile da farmi vedere?
+msg_sub024_select_01=Un Helixfossile
+msg_sub024_select_02=Un Domofossile
+msg_sub024_select_03=Un’Ambra antica
+msg_sub024_select_04=Non ho fossili...
+msg_sub024_researcher_02=Oh, no! Che peccato...
+msg_sub024_researcher_03=Ce l’ho fatta! Proprio come previsto!{0xBE01}[0x000A]Dal fossile che mi hai dato ho rigenerato[0x000A]{0x1002}{0x1502,0x0004}{0x0101,0x0004}!
+msg_sub024_sys_01={0x0100,0x0000} riceve {0x0101,0x0004}[0x000A]dallo strano studioso!
+msg_sub024_researcher_04=Oh! Hai {0x1502,0x0002}{0x0109,0x0002}!{0xBE01}[0x000A]È un fossile di {0x0101,0x0001}, un Pokémon[0x000A]estinto molto tempo fa!{0xBE01}[0x000A]Lo rigenererò con la mia macchina rigenera[0x000A]Pokémon, ok?
+msg_sub024_researcher_05=Presto, da’ qua!
+msg_sub024_sys_02={0x0100,0x0000} dà {0x1500,0x0002}{0x0109,0x0002}[0x000A]allo strano studioso!
+msg_sub024_researcher_06={0xBDFF:0x000B}
+msg_sub024_researcher_07=Torna quando vuoi!

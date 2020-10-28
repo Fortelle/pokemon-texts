@@ -1,0 +1,12 @@
+msg_sub010_childf_01={0x01CD,0x0000}: Hi![0x000A]Do you like Pokémon?{0xBE01}[0x000A]{0x01CD,0x0000}: Uh, no, I just asked you.{0xBE01}[0x000A]{0x01CD,0x0000}: Huh?[0x000A]You’re strange!{0xBE01}[0x000A]COPYCAT: Hmm? Quit mimicking?[0x000A]But that’s my favorite hobby!
+msg_sub010_childf_02={0x01CD,0x0000}: Hi.[0x000A]You must like Pokémon.{0xBE01}[0x000A]{0x01CD,0x0000}: No, not me.[0x000A]I asked you.{0xBE01}[0x000A]{0x01CD,0x0000}: Pardon?[0x000A]You’re weird!{0xBE01}[0x000A]COPYCAT: Hmm? Quit mimicking?[0x000A]But that’s my favorite hobby!
+msg_sub010_childf_11=COPYCAT: Oh, it’s you! Are you here to let me[0x000A]mimic you again?
+msg_sub010_childf_12=COPYCAT: Oh, hey! Do you want me to mimic[0x000A]you again?
+msg_sub010_system_01=You have a Clefairy with you.[0x000A]Do you want to show it to Copycat?
+msg_sub010_childf_03=Oh wow! A real-life Clefairy![0x000A]I’ve never seen one before!{0xBE01}[0x000A]Thank you so much![0x000A]You know what? I’ll give you a TM that lets your{0xBE00}[0x000A]Pokémon create a copy of itself!
+msg_sub010_childf_08={0xBDFF:0x0006}
+msg_sub010_childf_09=TM08 contains the move Substitute!{0xBE01}[0x000A]It lets your Pokémon create a decoy of itself[0x000A]by spending HP!
+msg_sub010_childf_04={0xBDFF:0x0008}
+msg_sub010_childf_05={0xBDFF:0x0009}
+msg_sub010_childf_06={0x01CD,0x0000}: Hi![0x000A]Thanks for earlier!{0xBE01}[0x000A]{0x01CD,0x0000}: Pardon?{0xBE01}[0x000A]{0x01CD,0x0000}: Hmph![0x000A]Is it that fun to mimic everything I say?{0xBE01}[0x000A]COPYCAT: You bet! It’s a scream!
+msg_sub010_childf_07={0x01CD,0x0000}: Hi![0x000A]Thanks for what you did for us.{0xBE01}[0x000A]{0x01CD,0x0000}: Pardon?{0xBE01}[0x000A]{0x01CD,0x0000}: Wha—?[0x000A]Is it really that fun to copy what I say and do?{0xBE01}[0x000A]COPYCAT: You bet! It’s a scream!

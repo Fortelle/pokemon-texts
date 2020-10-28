@@ -1,0 +1,7 @@
+msg_town001_post_01=Haus von {0x0100,0x0000}
+msg_town001_post_02=Haus von {0x0100,0x0001}
+msg_town001_kanban_01=Alabastia[0x000A]Hier beginnen kunterbunte Abenteuer!
+msg_town001_kanban_02=Professor Eichs Pokémon-Labor
+msg_town001_youngf_01=Ich trainiere meine Pokémon so lange,[0x000A]bis sie megastark sind!{0xBE01}[0x000A]Dann können sie mich nämlich beschützen,[0x000A]weißt du?
+msg_town001_fat_01=Wusstest du, dass man heutzutage seine Konsole[0x000A]mit seinem Smartphone verbinden und dann{0xBE00}[0x000A]Daten zwischen den beiden austauschen kann?{0xBE01}[0x000A]Die Wissenschaft kennt einfach keine Grenzen!
+msg_town001_test_01={0xBDFF:0x0006}

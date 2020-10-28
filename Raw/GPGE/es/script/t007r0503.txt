@@ -1,0 +1,11 @@
+msg_t007r0503_shortpants_01={0xBDFF:0x0000}
+msg_t007r0503_jevenilem_01=¡Toma ya!{0xBE01}[0x000A]¡Este compi va a cambiarme su Kangaskhan por[0x000A]mi Haunter!
+msg_t007r0503_jevenilem_02=¡Ay, a ver si me llega ya mi Hauntercito!{0xBE01}[0x000A]¡Me pirran los Haunter, por si no te has dado[0x000A]cuenta!{0xBE01}[0x000A]Eh, espera... ¿P-pero qué...?{0xBE01}[0x000A]¡Haunter se ha convertido en otro Pokémon!
+msg_t007r0503_chilef_01=Puedes identificar a los Pokémon que hayas[0x000A]intercambiado por su ID.
+msg_t007r0503_game_01=¡Es una Nintendo Switch!
+msg_t007r0503_game_02=¡Un juego de rol! Qué pena no tener tiempo[0x000A]para jugar...
+msg_t007r0503_game_03=¡Un juego de deportes! Seguro que a papá le[0x000A]gustaría.
+msg_t007r0503_game_04=¡Un juego de rompecabezas! Son de esos que[0x000A]una vez empezados ya no puedes dejarlos hasta{0xBE00}[0x000A]que los terminas.
+msg_t007r0503_game_05=¡Un juego de lucha! Seguro que no es nada fácil[0x000A]cogerle el tranquillo.
+msg_t007r0503_kanban_01=P2: Videojuegos
+msg_t007r0503_poster_01=Son Eevee y Pikachu, dos de los Pokémon más[0x000A]populares y queridos por todo el mundo.

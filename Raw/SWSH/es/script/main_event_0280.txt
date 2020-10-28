@@ -1,0 +1,12 @@
+main_event_0280_rival_01=¡Pienso convertirme en el Entrenador más fuerte[0x000A]del mundo!{0xBE01}[0x000A]¡Y el primer paso es recibir una Recomendación[0x000A]para el desafío de los gimnasios!{0x0114,0x0005}
+main_event_0280_rival_02=¡Tenemos que enseñarle a mi hermano de qué[0x000A]pasta estamos hechos para que nos la dé!{0x0114,0x0005}
+main_event_0280_champion_01={0xBDFF:0x0002}
+main_event_0280_doctor_01=Será interesante ver cómo se desenvuelven estos[0x000A]dos jóvenes en combate.{0x0114,0x000A}
+main_event_0280_champion_02=Si queréis volveros imbatibles como yo, tenéis[0x000A]que aprender de cada combate que libréis.{0xBE01}[0x000A]¡Venga, a luchar! ¡A ver si vosotros y vuestros[0x000A]Pokémon estáis a la altura!{0x0114,0x0004}
+main_event_0280_rival_03=¡Y tanto que lo estamos! ¡Especialmente yo![0x000A]¡Aquí empieza otro capítulo de mi leyenda!{0xBE01}[0x000A]¡En guardia, {0x0100,0x0000}!{0x0114,0x0005}
+main_event_0280_select_01=¡Estoy list{0x1100,0x00FF,0x0101}oa!
+main_event_0280_select_02=Dame un momento
+main_event_0280_rival_04=¡A por todas!{0x0114,0x0005}
+main_event_0280_rival_05=Bueno, vale, te espero.{0x0114,0x0005}
+main_event_0280_rival_06=¡Oye, {0x0100,0x0000}![0x000A]¡Lucha contra mí para que Lionel nos dé su{0xBE00}[0x000A]Recomendación!{0x0114,0x0005}
+main_event_0280_champion_03=Como te dije antes, creo que tienes mucho[0x000A]potencial. Por ello, en calidad de Campeón,{0xBE00}[0x000A]te pido que aceptes ser {0x1100,0x00FF,0x0202}ella rival de Paul, para{0xBE00}[0x000A]que os incentivéis mutuamente.{0x0114,0x0004}

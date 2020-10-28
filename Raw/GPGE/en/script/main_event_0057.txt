@@ -1,0 +1,9 @@
+msg_main0057_mother_01=MOM: Oh, how cute! This is the one you got[0x000A]from the professor?
+msg_main0057_mother_02=...What? You caught it yourself?![0x000A]That’s amazing!{0xBE01}[0x000A]What should I call your new friend?[0x000A]...{0x0102,0x0003}? It’s a lovely Pokémon!
+msg_main0057_poke_01=Pikachuuuu!
+msg_main0057_poke_02=Eeveeeee!
+msg_main0057_mother_03=MOM: My, how energetic!
+msg_main0057_mother_05=I suppose that means you two will be setting off[0x000A]on an adventure today, right?{0xBE01}[0x000A]I thought this day might come soon, so I[0x000A]planned ahead and got this for you.
+msg_main0057_sys_01=You got a {0xFF00,0x0006}Town Map{0xFF00,0x0000} from Mom!
+msg_main0057_sys_02={0xBDFF:0x0007}
+msg_main0057_mother_04=By using that Town Map in your Bag, you’ll[0x000A]always know exactly where you are.{0xBE01}[0x000A]Safe travels, dear! You and {0x0102,0x0003} be[0x000A]good to each other!

@@ -1,0 +1,16 @@
+Bonjour, M{0x1100,0x00FF,0x0B07}onsieurademoiselle.[0x000A]J’imagine que vous voulez emprunter le ferry.{0xBE01}[0x000A]Je suis désolée, mais il n’est pas[0x000A]en service actuellement.
+Bonjour, M{0x1100,0x00FF,0x0B07}onsieurademoiselle.[0x000A]Vous voulez emprunter le ferry[0xE07F]?{0xBE01}[0x000A]Puis-je voir votre Passe Bateau, s’il vous plaît[0xE07F]?
+Vous n’avez pas de Passe Bateau[0xE07F]!
+Je suis désolée, M{0x1100,0x00FF,0x0B07}onsieurademoiselle.{0xBE01}[0x000A]Seuls les passagers munis d’un Passe Bateau[0x000A]en règle peuvent embarquer à bord du ferry.
+{0x0100,0x0000} montre son Passe Bateau.
+Parfait[0xE07F]! Tout est en ordre[0xE07F]!{0xBE01}[0x000A]Où souhaitez-vous aller[0xE07F]?
+Atoll de Combat
+Poivressel
+Nénucrique
+Nulle part
+Cap sur l’Atoll de Combat[0xE07F]?
+Cap sur Nénucrique[0xE07F]?
+Cap sur Poivressel[0xE07F]?
+N’hésitez pas à utiliser nos services à nouveau,[0x000A]vous serez toujours l{0x1100,0x00FF,0x0B0A}e bienvenua bienvenue à bord.
+Veuillez monter à bord, on ne devrait pas tarder à lever[0x000A]l’ancre.
+{0xBDFF:0x000F}

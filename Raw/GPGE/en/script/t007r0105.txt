@@ -1,0 +1,9 @@
+msg_t007r0105_muscle_01=As you can see from all my notes on the board...[0x000A]there’s nothing that I don’t know.{0xBE01}[0x000A]I even know that the whole world can be found[0x000A]from inside your Nintendo Switch.{0xBE01}[0x000A]So connect with friends and enjoy trading[0x000A]Pokémon with one another!
+msg_t007r0105_notebook_01=It’s a pamphlet on TMs, written by Silph Co.{0xBE01}[0x000A]... ... ...{0xBE01}[0x000A]It says there are 60 TMs, or Technical Machines,[0x000A]in all!
+msg_t007r0105_notebook_02=There is a good deal of text written on the[0x000A]board, titled “Link Trades and Battles.”{0xBE01}[0x000A]Will you read it?
+msg_t007r0105_notebook_03=“If you’d like to trade or battle with other[0x000A]players, choose Communicate in the main menu{0xBE00}[0x000A]and then select Play with Others.{0xBE01}[0x000A]“Choose either local wireless or an internet[0x000A]connection to communicate with another player,{0xBE00}[0x000A]then choose to trade or select a battle format.{0xBE01}[0x000A]“If you and another player enter the same link[0x000A]code, you will be connected!”
+msg_t007r0105_kokuban_01={0xBDFF:0x0004}
+msg_board_01_p02_t007_r0105={0xBDFF:0x0005}
+msg_board_01_p03_t007_r0105={0xBDFF:0x0006}
+msg_board_01_p04_t007_r0105={0xBDFF:0x0007}
+msg_board_01_p05_t007_r0105={0xBDFF:0x0008}

@@ -1,0 +1,14 @@
+main_event_0020_rival_06=¡Hola! ¿Hay alguien en casa?{0x0114,0x0005}
+main_event_0020_rival_01=Ey, ¿qué tal, {0x0100,0x0000}?{0xBE01}[0x000A]Anda, ¿ese es tu móvil nuevo? ¿Lo estás[0x000A]estrenando viendo el combate de exhibición{0xBE00}[0x000A]de Lionel?{0xBE01}[0x000A]¡No te olvides de darle ánimos con la pose[0x000A]Charizard!{0x0114,0x0005}
+main_event_0020_mama_01=Hola, Paul, ¿qué haces aquí? ¿No es hoy el gran[0x000A]día?{0x0114,0x0008}
+main_event_0020_rival_02=¡Hola! ¡Pues sí! Por eso he venido lo más rápido[0x000A]que he podido a buscar a {0x0100,0x0000}.{0x0114,0x0005}
+main_event_0020_rival_03=No vale la pena estarse pegado a la pantalla.[0x000A]Total, ¡en casa grabamos todos los encuentros!{0x0114,0x0005}
+main_event_0020_rival_04=¡Vámonos, {0x0100,0x0000}!{0xBE01}[0x000A]¡Y tráete la Bolsa, que seguro que cae algún[0x000A]regalillo!{0x0114,0x0005}
+main_event_0020_rival_05=¡Que tenga un buen día!{0x0114,0x0005}
+main_event_0020_mama_02=¿Qué sucede, cariño?[0x000A]Paul te está esperando fuera.{0x0114,0x0008}
+main_event_0020_mama_03=Si buscas tu Bolsa, está en tu habitación.[0x000A]¡Y no te olvides de llevarte el gorro!{0x0114,0x0008}
+main_event_0020_system_01=¡Has cogido la antigua Bolsa de tu padre y te[0x000A]has puesto el gorro!
+main_event_0020_system_02=¡Has cogido la antigua Bolsa de tu madre y te[0x000A]has puesto el gorro!
+main_event_0020_system_03={0xBDFF:0x000B}
+main_event_0020_system_04={0xBDFF:0x000C}
+main_event_0020_mama_04=¡Pero qué guap{0x1100,0x00FF,0x0101}oa estás, hij{0x1100,0x00FF,0x0101}oa!{0xBE01}[0x000A]Venga, no hagas esperar más a Paul. ¡Ah, y que[0x000A]no se os ocurra adentraros en el bosque, que os{0xBE00}[0x000A]conozco!{0x0114,0x0008}

@@ -1,0 +1,15 @@
+main_event_0170_champion_01=Hop! {0x1003}{0x0100,0x0000}!{0x0114,0x0004}
+main_event_0170_rival_01=Wha—? Lee?[0x000A]How’d you manage to find your way here?{0xBE00}[0x000A]You’re pants with directions. You always get lost.{0x0114,0x0005}
+main_event_0170_champion_02=Oh, that’s nice to hear from the little brother[0x000A]who had me worried sick!{0xBE01}[0x000A]I’d been waiting ages for you two, and you[0x000A]never showed!{0xBE01}[0x000A]Of course I came looking for the both of you!{0x0114,0x0004}
+main_event_0170_rival_02=Wait, where’s the Wooloo?![0x000A]We were trying to rescue that Wooloo!{0x0114,0x0005}
+main_event_0170_poke1_01=Meh!
+main_event_0170_champion_03=The little chap’s just fine.{0xBE01}[0x000A]Though all of you had fainted by the time I[0x000A]found you here.{0xBE01}[0x000A]You know this place is out of bounds...{0xBE01}[0x000A]But it took courage to come in here all the same.[0x000A]And I can understand well enough why you did it.{0xBE01}[0x000A]You did good, Hop!{0x0114,0x0004}
+main_event_0170_rival_03=And at least that Wooloo’s all right...[0x000A]Yeah, {0x0100,0x0000}?{0xBE01}[0x000A]I thought we’d had it when that weird fog started[0x000A]rolling in and that mad Pokémon attacked...{0xBE00}[0x000A]but at least it wasn’t all for nothing!{0x0114,0x0005}
+main_event_0170_champion_04=Attacked by some mad Pokémon?[0x000A]What are you talking about, Hop?{0x0114,0x0004}
+main_event_0170_rival_04=It seemed loads stronger than any Pokémon I’ve[0x000A]ever seen. And it just had this sort of presence...{0xBE00}[0x000A]Our moves didn’t even touch it. I mean, really—{0xBE00}[0x000A]they seemed to pass right through it!{0x0114,0x0005}
+main_event_0170_champion_05=Your moves passed right through it?{0xBE01}[0x000A]So, the fearsome Pokémon they say live in the[0x000A]Slumbering Weald...{0xBE00}[0x000A]Are they actually illusions or something?{0x0114,0x0004}
+main_event_0170_champion_06=Get strong enough and maybe the two of you[0x000A]could be the ones to reveal the truth someday.{0x0114,0x0004}
+main_event_0170_champion_07=For now, let’s simply get out of this place.[0x000A]You’ll be all right now that I’m here with you!{0x0114,0x0004}
+main_event_0170_rival_05=Even if we did get an earful from Lee...{0x0114,0x0005}
+main_event_0170_rival_06=what an experience! This’ll make a pretty fine[0x000A]first page in the tale of my legend!{0x0114,0x0005}
+main_event_0170_rival_07={0xBDFF:0x000E}

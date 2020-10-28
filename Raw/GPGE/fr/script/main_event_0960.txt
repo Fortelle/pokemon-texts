@@ -1,0 +1,8 @@
+msg_main0960_rival_01={0xFF00,0x0009}{0x0100,0x0001} : {0xFF00,0x0000}T’as réussi ?[0x000A]T’as vaincu Giovanni ?! Bravo !
+msg_main0960_rival_02=J’ai coursé Amos jusqu’ici, et en sortant,[0x000A]tu devineras jamais ce que j’ai vu !{0xBE01}[0x000A]Tous les Sbires étaient aussi en train de fuir[0x000A]Safrania en quatrième vitesse !
+msg_main0960_rival_03=Heureusement que tu gères trop, en combat[0x000A]Pokémon !
+msg_main0960_rival_07=Honnêtement, j’avais un peu peur.{0xBE01}[0x000A]Je me demandais ce qui se passerait s’ils étaient[0x000A]plus forts que nous...
+msg_main0960_rival_08=Mais on a réussi !{0xBE01}[0x000A]Plus personne n’aura à souffrir comme ce pauvre[0x000A]petit Osselait...
+msg_main0960_rival_04=Maintenant que le calme est revenu, on va[0x000A]pouvoir reprendre notre tournée des Arènes !{0xBE01}[0x000A]T’as tenté l’{0xFF00,0x0006}Arène de Safrania{0xFF00,0x0000} ? T’as combien[0x000A]de Badges, d’ailleurs ?{0xBE01}[0x000A]... Oh ouah ! Tu chômes pas, toi non plus !
+msg_main0960_rival_05=N’empêche, on est bien partis pour atteindre[0x000A]la Ligue !
+msg_main0960_rival_06=On y croit !

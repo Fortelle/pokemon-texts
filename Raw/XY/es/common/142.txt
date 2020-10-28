@@ -1,0 +1,232 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+Probarse ropa
+Comprar
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+{0xBDFF:0x001A}
+{0xBDFF:0x001B}
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}
+{0xBDFF:0x001E}
+{0xBDFF:0x001F}
+{0xBDFF:0x0020}
+{0xBDFF:0x0021}
+{0xBDFF:0x0022}
+{0xBDFF:0x0023}
+{0xBDFF:0x0024}
+{0xBDFF:0x0025}
+{0xBDFF:0x0026}
+{0xBDFF:0x0027}
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+{0xBDFF:0x002A}
+{0xBDFF:0x002B}
+{0xBDFF:0x002C}
+{0xBDFF:0x002D}
+{0xBDFF:0x002E}
+{0xBDFF:0x002F}
+{0xBDFF:0x0030}
+{0xBDFF:0x0031}
+{0xBDFF:0x0032}
+{0xBDFF:0x0033}
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+{0xBDFF:0x0036}
+{0xBDFF:0x0037}
+{0xBDFF:0x0038}
+{0xBDFF:0x0039}
+En esta planta vendemos tan solo ropa para chicas,[0x000A]así que me temo que no puede comprar nada, pero{0xBE00}[0x000A]puede mirar nuestras prendas todo lo que quiera.
+{0xBDFF:0x003B}
+Aquí tienen a la venta ropa para chicas.[0x000A]Las prendas parecen algo caras.
+{0xBDFF:0x003D}
+En esta planta vendemos solo artículos para chicos,[0x000A]así que me temo que no puede comprar nada, pero{0xBE00}[0x000A]puede mirar nuestras prendas todo lo que quiera.
+{0xBDFF:0x003F}
+Aquí tienen a la venta ropa para chicos.[0x000A]Las prendas parecen algo caras.
+{0xBDFF:0x0041}
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+Salir
+Ver puesto
+Dinero
+{0xBDFF:0x0047}
+¿Quieres salir sin cambiarte de ropa?
+{0xBDFF:0x0049}
+{0xBDFF:0x004A}
+{0xBDFF:0x004B}
+{0xBDFF:0x004C}
+{0xBDFF:0x004D}
+Pulsa el botón Y para acercar o alejar[0x000A]la cámara.
+Mueve el botón deslizante a izquierda o[0x000A]derecha para girar.[0x000A]Muévelo arriba o abajo para subir y[0x000A]bajar la cámara tras hacer zoom.
+{0x0206,0x0000,0xE07F} $
+{0xBDFF:0x0051}
+{0xBDFF:0x0052}
+Esto es un probador. ¿Quieres cambiarte de ropa?
+Esto es un probador. Aquí puedes probarte las[0x000A]prendas de los maniquíes.
+Esto es un probador. ¿Qué quieres probarte?
+Ropa
+Lentillas
+No tienes lentillas.
+¿Qué color de lentillas quieres ponerte?
+Marrón
+Avellana
+Gris
+Verde
+Azul
+Quitármelas
+Salir
+Salir
+¡Anda! Tienes un Vale Descuento, ¿no?{0xBE01}[0x000A]Podrás disfrutar entonces de un {0x0201,0x0001}% de descuento[0x000A]sobre el precio final de los artículos que elijas.{0xBE01}[0x000A]Recuérdamelo cuando vayas a pagar.
+Por lo que veo, tiene usted un Vale Descuento.[0x000A]En tal caso, tiene derecho a un descuento del {0x0201,0x0001}%{0xBE00}[0x000A]del total de su compra.{0xBE01}[0x000A]Muéstremelo cuando vaya a realizar el pago.
+{0xBDFF:0x0064}
+{0xBDFF:0x0065}
+{0xBDFF:0x0066}
+{0xBDFF:0x0067}
+{0xBDFF:0x0068}
+{0xBDFF:0x0069}
+{0xBDFF:0x006A}
+{0xBDFF:0x006B}
+Selección de artículo
+Menú
+Elige un conjunto
+Marcar como favorito
+Orden alfabético
+{0xBDFF:0x0071}
+{0xBDFF:0x0072}
+Acceder al menú
+Salir del menú
+Seleccionar un conjunto favorito
+Marcar como favorito
+{0xBDFF:0x0077}
+Selecciona un conjunto que hayas marcado[0x000A]como favorito.
+Marca un conjunto de ropa como favorito.
+Ordena los artículos por orden alfabético.
+Restablece el orden original de los artículos.
+Conjunto actual
+Conjunto número {0x0200,0x0000}
+{0xBDFF:0x007E}
+¿Quieres registrar el conjunto que llevas[0x000A]puesto como el número {0x0200,0x0000}?
+Ya existe un conjunto registrado con el n.º {0x0200,0x0000}.[0x000A]¿Quieres reemplazarlo?
+¿Quieres seleccionar el conjunto número {0x0200,0x0000}?
+No hay ningún conjunto registrado con el[0x000A]número {0x0200,0x0000}.
+Has seleccionado el conjunto número {0x0200,0x0000}.
+Has registrado el conjunto como el número {0x0200,0x0000}.
+{0xBDFF:0x0085}
+{0xBDFF:0x0086}
+Ordenar alfabéticamente
+Rojo
+Naranja
+Amarillo
+Verde Claro
+Verde
+Azul
+Azul Claro
+Rosa
+Morado
+Marrón
+Negro
+Gris
+Azul Oscuro
+Beige
+Verde Oliva
+Rosa Claro
+Dorado
+Plateado
+{0xBDFF:0x009A}
+{0xBDFF:0x009B}
+{0xBDFF:0x009C}
+{0xBDFF:0x009D}
+{0xBDFF:0x009E}
+{0xBDFF:0x009F}
+{0xBDFF:0x00A0}
+{0xBDFF:0x00A1}
+{0xBDFF:0x00A2}
+{0xBDFF:0x00A3}
+{0xBDFF:0x00A4}
+{0xBDFF:0x00A5}
+{0xBDFF:0x00A6}
+Cancelar orden alfabético
+Sí
+No
+Dime, ¿en qué te puedo ayudar?
+Dígame, ¿en qué le puedo ayudar?
+¿Cómo compro prendas?
+Quiero probarme algo
+No quiero nada, gracias
+Puedes ver las prendas y accesorios tanto al[0x000A]examinar los maniquíes como al entrar en los{0xBE00}[0x000A]probadores, y comprar después lo que más te{0xBE00}[0x000A]guste.
+Puede ver las prendas y accesorios tanto al[0x000A]examinar los maniquíes como al entrar en los{0xBE00}[0x000A]probadores, y adquirir después lo que prefiera.
+Muy bien. Acompáñame, el probador está por aquí.
+Muy bien. Si hace el favor de acompañarme,[0x000A]le mostraré dónde está el probador.
+¿No hay nada que te acabe de convencer?[0x000A]Echa un vistazo por la tienda, a ver si encuentras{0xBE00}[0x000A]alguna otra cosa.
+¿No hay nada que le acabe de gustar?[0x000A]Eche un vistazo al resto de prendas de la tienda,{0xBE00}[0x000A]y no dude en probarse lo que desee.
+Esa{0x1101,0x0000,0x1310} prenda te quedas prendas te quedan de maravilla. Has elegido[0x000A]{0x0201,0x0000} prenda{0x1101,0x0000,0x0100}s, y el precio total es de {0x0206,0x0001,0xE07F} $.{0xBE01}[0x000A]¿Te parece bien?
+Esa{0x1101,0x0000,0x1310} prenda le vienes prendas le vienen de perlas.{0xBE01}[0x000A]Se ha decantado por {0x0201,0x0000} prenda{0x1101,0x0000,0x0100}s, y el precio total[0x000A]asciende a {0x0206,0x0001,0xE07F} $.{0xBE01}[0x000A]¿Le parece bien?
+No pasa nada. Dame un momento, que voy a[0x000A]devolver esto a su sitio.
+No se preocupe. Con su permiso, voy a devolver[0x000A]esto a su sitio antes de que se me olvide.
+No dudes en probarte lo que te apetezca, y si[0x000A]necesitas algo, ven a hablar conmigo.
+Si le apetece probarse algo, no tenga reparo[0x000A]alguno.
+Ah, tienes un Vale Descuento. Muy bien.{0xBE01}[0x000A]A ver que haga mis cálculos... El descuento es de[0x000A]un {0x0201,0x0001}%, así que el total pasaría a ser {0x0206,0x0000,0xE07F} $.{0xBE01}[0x000A]¿Quieres utilizar el vale?
+Ah, trae consigo un Vale Descuento. Muy bien.{0xBE01}[0x000A]Déjeme que haga los cálculos... El descuento que[0x000A]se aplica es de un {0x0201,0x0001}%, por lo que el total{0xBE00}[0x000A]pasaría a ser {0x0206,0x0000,0xE07F} $.{0xBE01}[0x000A]¿Quiere usar el vale?
+Muy bien. Lo puedes usar cuando quieras, así que[0x000A]no hay ninguna prisa.
+Como desee. Ese vale no tiene fecha de[0x000A]caducidad, así que lo puede usar en cualquier{0xBE00}[0x000A]otro momento.
+Muy bien. Me quedo entonces con el vale.
+Muy bien. Entonces me quedaré con el vale.
+Vaya, creo que no tienes suficiente dinero...
+Lo siento mucho, pero me temo que no cuenta con[0x000A]suficiente efectivo ahora mismo.
+Muchas gracias. El conjunto que llevas te queda[0x000A]estupendo.
+Muchas gracias por visitarnos.
+Que tengas un buen día.
+Que tenga un buen día, y espero poder verle[0x000A]por aquí de nuevo.
+Ya has comprado esta prenda.
+Ya ha comprado esta prenda.
+Ah, tienes un Vale Descuento. Muy bien.{0xBE01}[0x000A]A ver que haga mis cálculos... El descuento es de[0x000A]un {0x0201,0x0001}%, así que el total pasaría a ser {0x0206,0x0000,0xE07F} $.{0xBE01}[0x000A]¿Quieres utilizar el vale?
+Ah, trae consigo un Vale Descuento. Muy bien.{0xBE01}[0x000A]Déjeme que haga los cálculos... El descuento que[0x000A]se aplica es de un {0x0201,0x0001}%, por lo que el total{0xBE00}[0x000A]pasaría a ser {0x0206,0x0000,0xE07F} $.{0xBE01}[0x000A]¿Quiere usar el vale?
+¿Quieres realizar la compra?
+¿Desea proceder con la compra?
+Vale. Lo puedes usar cuando quieras, así que no[0x000A]hay ninguna prisa.
+Como desee. Ese vale no tiene fecha de[0x000A]caducidad, así que lo puede usar en cualquier{0xBE00}[0x000A]otro momento.
+Muy bien. Me quedo entonces con el vale.
+Muy bien. Entonces me quedaré con el vale.
+Vaya, creo que no tienes suficiente dinero...
+Lo siento mucho, pero me temo que no cuenta con[0x000A]suficiente efectivo ahora mismo.
+Muchas gracias.
+Muchas gracias.
+Muy bien. Tómate tu tiempo para mirar las prendas.
+Tómese el tiempo que haga falta.
+Atrás
+Confirmar
+Siguiente
+Seleccionado
+Bienvenid{0x1100,0x00FF,0x0101}oa a nuestra tienda. Si te apetece, puedes[0x000A]examinar las prendas que ves al fondo.
+Le doy la bienvenida a nuestra tienda.[0x000A]Si lo desea, puede examinar las prendas que ve{0xBE00}[0x000A]al fondo.
+Muy bien. Tómate tu tiempo para mirar las prendas.
+Tómese el tiempo que haga falta.
+Es un probador. ¿Quieres cambiarte de ropa?
+Es un probador. ¿Quiere cambiarse de ropa?
+¿Quieres usar el probador?[0x000A]Adelante. Avísame si necesitas algo.
+¿Desea utilizar el probador? Adelante.[0x000A]No dude en avisarme si necesita cualquier cosa.
+Perdone, pero si lo que busca es ropa para[0x000A]hombre, la encontrará en la segunda planta.
+Perdone, pero si lo que busca es ropa para[0x000A]mujer, la encontrará en la primera planta.
+Blanco
+Artículo comprado
+Atrás

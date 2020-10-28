@@ -1,0 +1,13 @@
+msg_t0101_i0202_tv_01=Das ist der Fernseher, auf dem Hop alle Matches[0x000A]des Champs mitverfolgt.
+msg_t0101_i0202_bed_01=Das Bett sieht etwas unordentlich aus...
+msg_t0101_i0202_desk_01=Weiter oben im Bücherregal stehen viele[0x000A]komplizierte Bücher für Erwachsene.
+msg_t0101_i0202_bed2_01=Ein fein säuberlich gemachtes Bett. Darin hat[0x000A]offenbar lange niemand mehr geschlafen.
+msg_t0101_i0202_training_01=Ein Trainingsgerät, das wohl oft im Einsatz war.[0x000A]Pokémon können es bestimmt auch nutzen.
+msg_t0101_i0202_gureggru_01=Hier hängen Poster der drei beliebtesten[0x000A]Pokémon der Galar-Region.
+msg_t0101_i0202_hats_01=Das sieht nach einer beeindruckenden Sammlung[0x000A]an Kappen aus.
+msg_t0101_i0202_npc1_01=Delion ist so beschäftigt, dass er nur noch selten[0x000A]nach Hause kommt.{0xBE01}[0x000A]Trotzdem sollte sein Zimmer für den Fall der[0x000A]Fälle immer schön sauber und aufgeräumt sein.
+msg_t0101_i0202_npc1_02=Delion mag zwar nicht mehr der Champ sein,[0x000A]doch er ist beschäftigt wie eh und je und kommt{0xBE00}[0x000A]daher nur selten nach Hause.{0xBE01}[0x000A]Aber das ist in Ordnung. Es gibt eben viele[0x000A]Dinge, die man tun sollte, solange man jung ist.
+msg_t0101_i0202_ball_01=Da liegt ein Pokéball, der ein Glumanda enthält.
+msg_t0101_i0202_ball_02=Du liest dir den beigelegten Brief durch...
+msg_t0101_i0202_ball_03=Liebe{0x1100,0x0000,0x0001,0x0000}r {0x0100,0x0000},[0x000A]dieses Glumanda ist etwas ganz Besonderes.[0x000A]Ich will, dass du sein neuer Trainer wirst.[0x000A]Lass uns bald wieder nach Herzenslust kämpfen![0x000A]Viele Grüße, Delion
+msg_t0101_i0202_ball_04=Solange deine PC-Boxen voll sind, kannst du[0x000A]dieses Pokémon nicht annehmen.

@@ -1,0 +1,6 @@
+¿Qué te ha parecido, {0x0100,0x0000}?[0x000A]¿A que mola la Agencia de Combate?{0x0114,0x0010}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+Ah, {0x0100,0x0000}...[0x000A]¿Puedo pedirte un favorcillo?{0xBE01}[0x000A]Resulta que el Profesor Kukui se olvidó esto...{0x0114,0x001C}
+Dijo que iba a volver al Parque de Malíe, ¿no?[0x000A]¡Cuento contigo para que se la devuelvas!{0x0114,0x001C}
+Supongo que la próxima vez nos tocará[0x000A]combatir, ¿eh?{0x0114,0x0010}

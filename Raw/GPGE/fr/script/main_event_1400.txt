@@ -1,0 +1,17 @@
+msg_main1400_guard_01=On ne passe que sur présentation[0x000A]d’un Badge Roche.{0xBE01}[0x000A]Or, tu n’as pas le Badge Roche.{0xBE05,0x0005}{0xBE05,0x0000}{0xBE01}[0x000A]La loi est dure, mais c’est la loi ![0x000A]Tu ne peux pas passer.
+msg_main1400_guard_02={0xBDFF:0x0001}
+msg_main1400_guard_03=On ne passe que sur présentation[0x000A]d’un Badge Roche.{0xBE01}[0x000A]Oh ! Mais... c’est le Badge Roche !{0xBE05,0x0004}{0xBE05,0x0001}[0x000A]Tu peux passer !
+msg_main1400_guard_04=On ne passe que sur présentation[0x000A]d’un Badge Cascade.{0xBE01}[0x000A]Or, tu n’as pas le Badge Cascade !{0xBE05,0x0005}{0xBE05,0x0000}[0x000A]Il te le faut pour accéder à la Ligue Pokémon.
+msg_main1400_guard_05=On ne passe que sur présentation[0x000A]d’un Badge Cascade.{0xBE01}[0x000A]Oh ! Mais... c’est le Badge Cascade !{0xBE05,0x0004}{0xBE05,0x0001}[0x000A]OK ! Tu peux passer.
+msg_main1400_guard_06=On ne passe que sur présentation[0x000A]d’un Badge Foudre.{0xBE01}[0x000A]Or, tu n’as pas encore le Badge Foudre.{0xBE05,0x0005}{0xBE05,0x0000}[0x000A]Il te le faut pour accéder à la Ligue Pokémon !
+msg_main1400_guard_07=On ne passe que sur présentation[0x000A]d’un Badge Foudre.{0xBE01}[0x000A]Oh ! Mais... c’est le Badge Foudre !{0xBE05,0x0004}{0xBE05,0x0001}[0x000A]OK, tu peux passer !{0xBE01}[0x000A]Au fait, tu as une dédicace de Major Bob ?[0x000A]Trop stylé !
+msg_main1400_guard_08=On ne passe que sur présentation[0x000A]d’un Badge Prisme.{0xBE01}[0x000A]Or, tu n’as pas encore le Badge Prisme.{0xBE05,0x0005}{0xBE05,0x0000}[0x000A]Il te le faut pour accéder à la Ligue Pokémon !
+msg_main1400_guard_09=On ne passe que sur présentation[0x000A]d’un Badge Prisme.{0xBE01}[0x000A]Oh ! Mais... c’est le Badge Prisme !{0xBE05,0x0004}{0xBE05,0x0001}[0x000A]OK ! Tu peux passer !
+msg_main1400_guard_10=On ne passe que sur présentation[0x000A]d’un Badge Âme.{0xBE01}[0x000A]Or, tu n’as pas encore le Badge Âme.{0xBE05,0x0005}{0xBE05,0x0000}[0x000A]Il te le faut pour accéder à la Ligue Pokémon !
+msg_main1400_guard_11=On ne passe que sur présentation[0x000A]d’un Badge Âme.{0xBE01}[0x000A]Oh ! Mais... c’est le Badge Âme !{0xBE05,0x0004}{0xBE05,0x0001}[0x000A]OK ! Tu peux passer !
+msg_main1400_guard_12=On ne passe que sur présentation[0x000A]d’un Badge Marais.{0xBE01}[0x000A]Or, tu n’as pas encore le Badge Marais.{0xBE05,0x0005}{0xBE05,0x0000}[0x000A]Il te le faut pour accéder à la Ligue Pokémon !
+msg_main1400_guard_13=On ne passe que sur présentation[0x000A]d’un Badge Marais.{0xBE01}[0x000A]Oh ! Mais... c’est le Badge Marais !{0xBE05,0x0004}{0xBE05,0x0001}[0x000A]OK ! Tu peux passer !
+msg_main1400_guard_14=On ne passe que sur présentation[0x000A]d’un Badge Volcan.{0xBE01}[0x000A]Or, tu n’as pas encore le Badge Volcan.{0xBE05,0x0005}{0xBE05,0x0000}[0x000A]Il te le faut pour accéder à la Ligue Pokémon !
+msg_main1400_guard_15=On ne passe que sur présentation[0x000A]d’un Badge Volcan.{0xBE01}[0x000A]Oh ! Mais... c’est le Badge Volcan !{0xBE05,0x0004}{0xBE05,0x0001}[0x000A]OK ! Tu peux passer !
+msg_main1400_guard_16=On ne passe que sur présentation[0x000A]d’un Badge Terre.{0xBE01}[0x000A]Or, tu n’as pas encore le Badge Terre.{0xBE05,0x0005}{0xBE05,0x0000}[0x000A]Il te le faut pour accéder à la Ligue Pokémon !
+msg_main1400_guard_17=On ne passe que sur présentation[0x000A]d’un Badge Terre.{0xBE01}[0x000A]Oh ! Mais... c’est le Badge Terre !{0xBE05,0x0004}{0xBE05,0x0001}[0x000A]OK ! Tu peux passer !

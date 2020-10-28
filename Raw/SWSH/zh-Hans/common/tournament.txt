@@ -1,0 +1,6 @@
+msg_ui_tournament_01={0x0100,0x0000}
+msg_ui_tournament_10=参赛者介绍{0xBE01}
+msg_ui_tournament_11=第１轮比赛结果！{0xBE01}
+msg_ui_tournament_12=第２轮比赛结果！{0xBE01}
+msg_ui_tournament_13=决赛结果！！{0xBE01}
+msg_ui_tournament_14=第２轮比赛结果！{0xBE01}[0x000A]哇哦！奇巴纳选手[0x000A]漂亮地打败了聂梓选手！{0xBE01}

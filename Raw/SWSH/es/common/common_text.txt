@@ -1,0 +1,5 @@
+msg_ui_common_text_01=Se han cargado los datos correspondientes a tu[0x000A]copia de seguridad. Ten en cuenta que, cuando[0x000A]guardes la partida, se sobrescribirán los datos.
+msg_ui_common_text_02=No se pueden cargar los datos porque no existe[0x000A]ninguna copia de seguridad.[0x000A]Volverás a la pantalla del título.
+msg_ui_common_text_03=Guardando...
+msg_ui_common_text_04=Los datos de la partida están dañados.[0x000A]Bórralos desde el menú de la consola.
+msg_ui_common_text_05={0xBDFF:0x0004}

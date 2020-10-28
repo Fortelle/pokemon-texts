@@ -1,0 +1,13 @@
+msg_main0330_pc_02=En el monitor del ordenador aparece algo[0x000A]relacionado con el teletransportador.
+msg_main0330_masaki_10=Aligera un poquillo, ¡por favor te lo pido!
+msg_main0330_pc_01=¡Has ejecutado el programa de separación[0x000A]celular!
+msg_main0330_masaki_01={0xFF00,0x0009}Bill:{0xFF00,0x0000} ¡Yujuuu, ha funcionado! Sabía que no me[0x000A]defraudarías. Te debo una.{0xBE01}[0x000A]Anda, veo que tu Bolsa cuenta con una[0x000A]{0xFF00,0x0006}Caja de Pokémon{0xFF00,0x0000}. ¿A que es una chulada?
+msg_main0330_masaki_02={0xFF00,0x0009}Bill:{0xFF00,0x0000} ¡Yujuuu, ha funcionado! Sabía que no me[0x000A]defraudarías. Te debo una.{0xBE01}[0x000A]Anda, veo que tu Bolsa cuenta con una[0x000A]{0xFF00,0x0006}Caja de Pokémon{0xFF00,0x0000}. ¿A que es una chulada?
+msg_main0330_masaki_06=Si capturas Pokémon a cascoporro y acabas con[0x000A]la caja a rebosar, {0xFF00,0x0006}transfiérele unos cuantos al{0xFF00,0x0000}{0xBE00}[0x000A]{0xFF00,0x0006}Profesor Oak{0xFF00,0x0000} y problema de espacio resuelto.
+msg_main0330_masaki_07={0xBDFF:0x0006}
+msg_main0330_sys_03={0xBDFF:0x0007}
+msg_main0330_masaki_05=¡Ah, sí! Me has sacado de un marrón legendario,[0x000A]así que acepta esto como agradecimiento.
+msg_main0330_sys_01=Bill te ha entregado el {0xFF00,0x0006}Ticket del Barco{0xFF00,0x0000}.
+msg_masaki_01_p06_r025_r0101={0xBDFF:0x000A}
+msg_main0330_masaki_03=El billete sirve para embarcar en el crucero[0x000A]S. S. Anne, atracado en el puerto de Ciudad{0xBE00}[0x000A]Carmín.{0xBE01}[0x000A]Siempre va petado de Entrenadores y se montan[0x000A]unas parrandas de escándalo. A mí no me mola{0xBE00}[0x000A]ese rollo, pero igual a ti sí...{0xBE01}[0x000A]Como contiene dos pases, igual puedes darle[0x000A]alguno a alguien para ir acompañad{0x1100,0x00FF,0x0101}oa.
+msg_main0330_masaki_04={0xFF00,0x0009}Bill:{0xFF00,0x0000} Cuando captures muchos Pokémon y tengas[0x000A]la caja a reventar, ¡aprovecha para transferirle{0xBE00}[0x000A]unos cuantos al Profesor Oak!

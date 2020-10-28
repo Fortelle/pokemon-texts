@@ -1,0 +1,5 @@
+En primer lugar, elige el cristal que te convenga[0x000A]del Bolsillo Cristales Z de la Bolsa.
+A continuación, dáselo a un Pokémon con el que[0x000A]sea compatible.
+Si el Pokémon conoce un movimiento del mismo[0x000A]tipo, el cristal será {0xFF00,0x0001}compatible{0xFF00,0x0000}.
+Al darle el cristal a un Pokémon, podrá usar el[0x000A]Poder Z en los combates.
+Ah, y los cristales se pueden utilizar cuantas[0x000A]veces se quiera. ¡No desaparecen tras su uso!

@@ -1,0 +1,10 @@
+msg_sub061_fairy_01={0xFF00,0x0009}???:{0xFF00,0x0000} Ach, verflixt...
+msg_sub061_fairy_02=Ich war so darin vertieft, Zeichnungen vom Meer[0x000A]anzufertigen, dass ich gar nicht bemerkt habe,{0xBE00}[0x000A]wie mein Schiff in See gestochen ist...
+msg_sub061_select_01=Das nenne ich Pech!
+msg_sub061_select_02=Und was machst du jetzt?
+msg_sub061_fairy_03=Na ja...{0xBE01}[0x000A]Ich schätze, dass ich wohl noch ein Weilchen[0x000A]bleiben werde.{0xBE01}[0x000A]Die Farbe des Meeres hier in Kanto hat es mir[0x000A]wirklich angetan!
+msg_sub061_fairy_04={0xFF00,0x0009}Matsurika:{0xFF00,0x0000} Hör mal, Trainer aus Kanto!{0xBE01}[0x000A]Hast du Lust auf ein Kämpfchen gegen meine[0x000A]Feen-Pokémon?
+msg_sub061_fairy_05=Dann schau dir doch wenigstens gemeinsam mit[0x000A]mir das Meer an.
+msg_sub061_fairy_06=Hihi, dann nichts wie los!{0xBE01}[0x000A]Ich will, dass du dir ein Bild von der Stärke[0x000A]meiner Feen-Pokémon machst.
+msg_sub061_fairy_07=Du und dein{0x1101,0x00FD,0x0100}e Pokémon, ihr inspiriert mich glatt[0x000A]zu einem Bild...{0xBE01}[0x000A]Ich würde euch zu gerne auf Leinwand für die[0x000A]Nachwelt festhalten.
+msg_sub061_fairy_08={0xFF00,0x0009}Matsurika:{0xFF00,0x0000} Nach Alola zurückkehren, ohne dich[0x000A]besiegt zu haben...{0xBE01}[0x000A]Das ist wie ein unfertiges Gemälde...{0xBE01}[0x000A]Hihi, nur ein Spaß. Schau einfach wieder auf[0x000A]einen Kampf vorbei, dann werden die Farben{0xBE00}[0x000A]neu gemischt.

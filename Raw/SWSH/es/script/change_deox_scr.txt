@@ -1,0 +1,9 @@
+msg_deoxys_01=Deoxys observa el meteorito con mucho interés.{0xBE01}[0x000A]¿Quieres dejar que se acerque más?
+msg_deoxys_02=¿Qué Deoxys quieres que se acerque?
+msg_deoxys_03=Ese Pokémon no reacciona ante el meteorito.
+msg_deoxys_04=El Huevo no reacciona ante el meteorito.
+msg_deoxys_05={0x0102,0x0000} ha cambiado de forma.[0x000A]Sus características se han equilibrado.
+msg_deoxys_06={0x0102,0x0000} ha cambiado de forma.[0x000A]Ahora su Ataque es mayor.
+msg_deoxys_07={0x0102,0x0000} ha cambiado de forma.[0x000A]Ahora su Defensa es mayor.
+msg_deoxys_08={0x0102,0x0000} ha cambiado de forma.[0x000A]Ahora su Velocidad es mayor.
+msg_deoxys_09=Parece un extraño meteorito que cayó del[0x000A]espacio.

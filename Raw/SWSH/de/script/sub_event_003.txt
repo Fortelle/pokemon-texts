@@ -1,0 +1,10 @@
+sub_event_003_boy_01=Wusstest du, dass irgendwo in Turffield[0x000A]ein Schatz vergraben liegt?
+sub_event_003_boy_02=Ich hab diese Karte hier, auf der angeblich[0x000A]steht, wie man ihn findet...{0xBE01}[0x000A]„Mit Monumenten, die aus dem Boden sprießen,[0x000A]musst du geschwind den Kreislauf schließen.{0xBE01}[0x000A]Erst Pflanze, dann Stärke, danach Schwäche...[0x000A]So findest du den Schatz auf dieser Fläche.“{0xBE01}[0x000A]Mehr steht da nicht. Hm, ich versteh nur Bahnhof.
+sub_event_003_boy_03=Was? Du hast den Schatz gefunden?![0x000A]Wow, das ist ja unglaublich!
+sub_event_003_system_01=In den Stein ist ein Wort eingemeißelt:[0x000A]„Pflanze“
+sub_event_003_system_02=In den Stein ist ein Wort eingemeißelt:[0x000A]„Wasser“
+sub_event_003_system_03=In den Stein ist ein Wort eingemeißelt:[0x000A]„Feuer“
+sub_event_003_system_04=In den Stein ist ein Wort eingemeißelt:[0x000A]„Flug“
+sub_event_003_system_05=In den Stein ist ein Wort eingemeißelt:[0x000A]„Gift“
+sub_event_003_system_06=In den Stein ist ein Wort eingemeißelt:[0x000A]„Unlicht“
+sub_event_003_system_07=Im Boden ist etwas vergraben!

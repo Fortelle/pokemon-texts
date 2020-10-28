@@ -1,0 +1,8 @@
+msg_t007r0501_stafff_01=Benvenut{0x1100,0x00FF,0x0101}oa al Centro Commerciale[0x000A]di Azzurropoli!{0xBE01}[0x000A]Sul cartello in fondo sono indicati[0x000A]i vari reparti.
+msg_t007r0501_kanban_01=Piano terra: Punto assistenza{0xBE01}[0x000A]1º piano: Reparto Allenatori{0xBE01}[0x000A]2º piano: Videogiochi{0xBE01}[0x000A]3º piano: Regali{0xBE01}[0x000A]4º piano: Accessori{0xBE01}[0x000A]Tetto: Distributori
+msg_t007r0501_kanban_02={0xBDFF:0x0002}
+msg_t007r0501_poster_01=Intervista esclusiva alla Capopalestra[0x000A]di Azzurropoli!{0xBE01}[0x000A]“La pazienza è la virtù dei forti, e io ne ho[0x000A]da vendere. Allenatori, siete avvisati!”
+msg_t007r0501_adultm_01=Fiuu... Questi divani sono un toccasana![0x000A]Non mi sentivo più le gambe...{0xBE01}[0x000A]Quando sarai più grande, capirai cosa significa!
+msg_t007r0501_oldf_01=Non sono venuta a fare niente di speciale... ma[0x000A]mi sono detta: magari incontro qualche amica...
+msg_t007r0501_youngf_01=Dai! Andiamo a comprare qualche accessorio[0x000A]carino per i miei Pokémon!
+msg_t007r0501_youngm_01=Uff, non ho voglia di salire fino al quarto piano...[0x000A]E se ce ne tornassimo a casa, invece?

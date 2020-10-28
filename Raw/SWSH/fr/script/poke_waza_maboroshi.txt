@@ -1,0 +1,17 @@
+poke_waza_maboroshi_01_01=Hum ? Encore ces gens qui viennent vous déranger[0x000A]pendant les vacances pour vous parler de boulot.{0xBE01}[0x000A]Ouais, j’suis un gros fan de Pokémon fabuleux.[0x000A]Enfin certains, pas tous...{0xBE01}[0x000A]Je leur enseigne de super capacités, tu vois ?[0x000A]Tu veux utiliser mes services ?
+poke_waza_maboroshi_01_02=Mais attends ! Il connaît déjà ma capacité,[0x000A]ton Pokémon !
+poke_waza_maboroshi_01_03=Pas de Meloetta ou de Keldeo, pas de capacité !
+poke_waza_maboroshi_01_04=Houla, j’suis en transe là, j’suis prêt[0x000A]à tout donner ! T’es prêt{0x1100,0x00FF,0x0100}e ?
+poke_waza_maboroshi_01_05=C’est pas bien de couper les gens dans leur élan ![0x000A]Tu sais où me trouver si tu changes d’avis.
+poke_waza_maboroshi_01_06=... Un Œuf ? Il s’rait peut-être temps de prendre[0x000A]rendez-vous chez l’ophtalmo.
+poke_waza_maboroshi_01_07=Non, c’est soit Meloetta, soit Keldeo.[0x000A]Mais c’est tout ! Faut pas tout mélanger !
+poke_waza_maboroshi_01_08=Mais... Ce Pokémon connaît déjà ma capacité ![0x000A]Comment se fait-ce ?!
+poke_waza_maboroshi_01_09=Houla ! Ton pauv’ Pokémon n’est pas vraiment[0x000A]en état d’apprendre quoi que ce soit...
+poke_waza_maboroshi_01_10={0x0102,0x0000} apprend[0x000A]{0x0107,0x0001} !
+poke_waza_maboroshi_01_11=... Hein ?![0x000A]{0x0102,0x0000} change de forme !
+poke_waza_maboroshi_01_12={0x0102,0x0000}, avec cet Aspect Décidé,[0x000A]a plus que jamais l’air de vouloir en découdre !
+poke_waza_maboroshi_sys_01=Choisissez une capacité à oublier pour faire[0x000A]place à {0x0107,0x0000}.
+poke_waza_maboroshi_sys_02={0x0102,0x0000} apprend[0x000A]{0x0107,0x0001} !{0xBE05,0x0004}{0xBE05,0x0001}
+poke_waza_maboroshi_sys_03=1{0xBE02:0x0014}, 2{0xBE02:0x0014}, ...{0xBE02:0x0014} ...{0xBE02:0x0014} Tadaaa !{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} a oublié {0x0107,0x0001}.{0xBE01}[0x000A]Et...{0xBE01}[0x000A]Il apprend {0x0107,0x0002} !{0xBE05,0x0004}{0xBE05,0x0001}
+poke_waza_maboroshi_sys_04={0x0102,0x0000} n’a pas appris[0x000A]{0x0107,0x0001}.
+poke_waza_maboroshi_01_13=Alors, je l’enseigne à quel Pokémon,[0x000A]cette capacité ?

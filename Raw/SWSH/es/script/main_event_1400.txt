@@ -1,0 +1,9 @@
+main_event_1400_rival_01=¡{0x0100,0x0000}!{0x0114,0x0005}
+main_event_1400_rival_02=Buah, ¡esto es de locos!{0x0114,0x0005}
+main_event_1400_select_01=¿Dónde está Lionel?
+main_event_1400_select_02=¿Qué ha sido ese ruido?
+main_event_1400_rival_03=¡A mí también me gustaría saberlo! El estruendo[0x000A]de antes sonó como una explosión...{0xBE01}[0x000A]Pero, espera, ¡que luego una extraña luz roja[0x000A]iluminó el cielo y los Pokémon salvajes del lugar{0xBE00}[0x000A]empezaron a dinamaxizarse! ¿Cómo te quedas?{0x0114,0x0005}
+main_event_1400_rival_04=¡Mira, están hablando de esto en las noticias!{0x0114,0x0005}
+main_event_1400_rival_07=Qué fotogénico es el tío, sale guay hasta cuando[0x000A]no posa para las fotos.{0x0114,0x0005}
+main_event_1400_rival_05=¡Ja! ¡Él y Charizard han despachado a ese[0x000A]Pokémon Dinamax en cero coma!{0x0114,0x0005}
+main_event_1400_rival_06=Ver a Lionel en acción fuera de la cancha[0x000A]permite apreciar de verdad lo fuerte que es.{0xBE01}[0x000A]Vamos a hablar con él, {0x0100,0x0000}.[0x000A]¡Fijo que está en el Estadio de Artejo!{0x0114,0x0005}

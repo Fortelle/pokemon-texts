@@ -1,0 +1,15 @@
+msg_fld_ev_spray_01=L’effet du répulsif s’est dissipé.
+msg_fld_ev_spray_02=L’effet du répulsif s’est dissipé.[0x000A]Voulez-vous en utiliser un autre ?
+msg_fld_ev_spray_03=Vous utilisez[0x000A]{0x1402,0x0001,0x0000}{0x010A,0x0001} !
+msg_fld_ev_bookshelf_01={0xBDFF:0x0003}
+msg_fld_ev_kowaserurock_01=Ces rochers ont l’air bien solides...{0xBE01}[0x000A]Peut-être qu’un Pokémon assez puissant[0x000A]pourrait les briser ?
+msg_fld_ev_tv_common_01={0xBDFF:0x0005}
+msg_fld_ev_oserurock_01=Ce rocher a l’air extrêmement lourd...{0xBE01}[0x000A]Peut-être qu’un Pokémon assez musclé[0x000A]pourrait le déplacer ?
+msg_egg_event_01=... Tiens ?
+msg_ride_check_01=Voulez-vous appeler Tauros ?
+msg_ride_check_02=Voulez-vous appeler Mackogneur ?
+msg_ride_check_03=Voulez-vous appeler Sharpedo ?
+msg_ride_check_ng_01=Il n’y a pas assez de place pour appeler[0x000A]cette Poké Monture ici.
+msg_bicycle_01=Vous ne pouvez pas monter sur votre Moticyclette[0x000A]maintenant.
+msg_bicycle_02=Vous ne pouvez pas descendre de[0x000A]votre Moticyclette pour le moment.
+msg_fld_ev_boxfull_01=Vos Boîtes PC sont pleines ![0x000A]Il vaudrait mieux revenir plus tard...

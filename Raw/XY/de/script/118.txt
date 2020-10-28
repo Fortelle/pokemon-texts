@@ -1,0 +1,24 @@
+Ich beschäftige mich hier mit der[0x000A]Erforschung von Pokémon-Fossilien.{0xBE01}
+Du besitzt ja ein Fossil![0x000A]Soll ich es in ein Pokémon zurückverwandeln?
+Nanu?[0x000A]Du hast schon jede Menge Pokémon dabei!{0xBE01}[0x000A]Soll ich dein Fossil trotzdem in[0x000A]ein Pokémon zurückverwandeln?
+Welches Fossil soll ich in ein[0x000A]Pokémon zurückverwandeln?
+Alles klar!{0xBE01}[0x000A]Dann werde ich dieses {0x0109,0x0000}[0x000A]für dich in ein Pokémon zurückverwandeln!{0xBE01}
+Oh, du möchtest es als Fossil behalten?[0x000A]Dein Wunsch ist mir Befehl!
+Ich bin gerade dabei, dein Fossil wieder[0x000A]in ein Pokémon zurückzuverwandeln!
+Das Fossil, das du mir anvertraut hast,[0x000A]ist wieder zu einem Pokémon geworden!{0xBE01}[0x000A]Genauer gesagt zu einem {0x0101,0x0001}![0x000A]Sei bitte immer gut zu ihm!{0xBE01}
+{0x0100,0x0002} erhält ein[0x000A]{0x0101,0x0001}!
+Möchtest du dem {0x0101,0x0001}[0x000A]einen Spitznamen geben?
+Tut mir leid, du hast leider keinen Platz[0x000A]für weitere Pokémon.{0xBE01}[0x000A]Komm wieder, sobald du Platz geschaffen hast![0x000A]Solange werde ich auf dein Pokémon achtgeben!
+Solltest du in den Besitz eines Fossils[0x000A]gelangen, dann komm damit zu mir!
+{0x0109,0x0003}
+{0x0109,0x0004}
+Wurzelfossil
+Klauenfossil
+Helixfossil
+Domfossil
+Altbernstein
+Panzerfossil
+Kopffossil
+Schildfossil
+Federfossil
+Abbrechen

@@ -1,0 +1,13 @@
+msg_main0300_rival_01=呜哇～～！
+msg_main0300_rival_02={0x0100,0x0001}：啊！呜哇！！[0x000A]{0x0100,0x0000}，不好了！{0xBE01}[0x000A]咳……唔……吓啊啊啊！！
+msg_main0300_dummy_01={0xBDFF:0x0002}
+msg_main0300_rival_03={0x0100,0x0001}：呼……[0x000A]哈……呼……{0xBE01}[0x000A]那个，{0xBE01}[0x000A]真的不是我的作风……[0x000A]是我慌过头了，真是抱歉……
+msg_main0300_rival_04=听说在这前面[0x000A]住着一位宝可梦狂热迷，{0xBE00}[0x000A]我想或许能{0xBE00}[0x000A]见到罕见的宝可梦，{0xBE00}[0x000A]所以就过去看了看！
+msg_main0300_rival_05=结果我看到的居然是……[0x000A]你可别吓一跳啊……
+msg_main0300_rival_06=我看到的居然不是那个[0x000A]叫正辉的宝可梦狂热迷！！{0xBE01}[0x000A]而是一个[0x000A]会说人话的宝可梦啊！！
+msg_main0300_rival_07=……呜～太吓人了！[0x000A]{0x0100,0x0000}最好也别接近那里了！
+msg_rival_01_p01_field_t005={0xBDFF:0x0008}
+msg_rival_01_p02_field_t005={0xBDFF:0x0009}
+msg_rival_01_p03_field_t005={0xBDFF:0x000A}
+msg_rival_01_p05_field_t005={0xBDFF:0x000B}
+msg_rival_01_p06_field_t005={0xBDFF:0x000C}

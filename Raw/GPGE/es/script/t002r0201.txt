@@ -1,0 +1,5 @@
+msg_t002r0201_middlem_01=Inventarse motes para los Pokémon puede ser[0x000A]tan divertido como complicado.{0xBE01}[0x000A]Hay gente que les pone motes estrafalarios y[0x000A]kilométricos, pero yo creo que lo mejor es usar{0xBE00}[0x000A]uno que sea fácil de recordar.
+msg_t002r0201_system_01=Cuando quieras cambiarle el mote a alguno de[0x000A]tus Pokémon, pulsa el {0xFF00,0x0006}botón X{0xFF00,0x0000} para acceder al{0xBE00}[0x000A]menú del equipo y selecciona el Pokémon al{0xBE00}[0x000A]que quieras cambiarle el nombre.
+msg_t002r0201_childf_01=¡A mi padre también le gustan los Pokémon!
+msg_t002r0201_poke_01={0xFF00,0x0009}Speary:{0xFF00,0x0000} ¡Spe-pea-row!
+msg_t002r0201_poster_01=Spearow[0x000A]Mote: Speary

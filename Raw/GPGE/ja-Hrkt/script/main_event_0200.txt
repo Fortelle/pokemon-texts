@@ -1,0 +1,11 @@
+msg_main0200_scientist_01=こら　まてよ！
+msg_main0200_scientist_05=この　カセキは[0x000A]ぼくが　みつけたんだ
+msg_main0200_scientist_06=ふたつ　とも　ぼくのだ！
+msg_science_02_02={0xBDFF:0x0003}
+msg_main0200_scientist_02=ぼくと　おまえで[0x000A]カセキを　１こ　ずつ　だ！{0xBE00}[0x000A]ひとり　じめは　ダメだぞ！
+msg_main0200_sys_01=こうらのカセキに　する？
+msg_main0200_sys_02=かいのカセキに　する？
+msg_main0200_sys_03=かいのカセキを　てにいれた！
+msg_main0200_sys_04=こうらのカセキを　てにいれた！
+msg_main0200_scientist_03=それじゃ[0x000A]これは　ぼくの　ものだ！
+msg_main0200_scientist_04=ここから　すごく　とおいけど{0xBE01}[0x000A]カセキを　よみがえらせる[0x000A]けんきゅうを　してる　ラボが{0xBE00}[0x000A]グレンタウンに　ある　らしいよ

@@ -1,0 +1,13 @@
+msg_t0401_g0101_npc1_01=Saper cogliere l’attimo è fondamentale[0x000A]quando si tratta di Dynamax.{0xBE01}[0x000A]Vale la pena considerare bene quale Pokémon[0x000A]schierare per resistere agli attacchi{0xBE00}[0x000A]Dynamaxizzati di Azzurra.
+msg_t0401_g0101_npc1_02=La tua squadra è davvero interessante, sai?[0x000A]M’intriga...!{0xBE01}[0x000A]Buona fortuna con la Sfida delle Palestre, allora![0x000A]Impegniamoci tutti a dare il massimo!
+msg_t0401_g0101_npc2_01=Perché per arrivare dalla Capopalestra devo[0x000A]risolvere un enigma?{0xBE01}[0x000A]Forse vuole testare le capacità intuitive[0x000A]degli sfidanti?
+msg_t0401_g0101_npc2_02=Hai detto che ti chiami {0x0100,0x0000}, eh?[0x000A]Me lo ricorderò!
+msg_t0401_g0101_npc3_01={0x0100,0x0000}, riuscirai a sconfiggere Azzurra,[0x000A]vero? Promettimelo!
+msg_t0401_g0101_npc3_02=Che bello! Come sono felice di essere[0x000A]una tua fan!
+msg_t0401_g0101_poke1_01_pop=Blip blip!
+msg_t0401_g0101_npc4_01_pop=Un{0x1100,0x00FF,0x0101}oa sfidante!
+msg_t0401_g0101_npc4_02_pop=Che sfida intensa!
+msg_t0401_g0101_npc4_03_pop=Evviva {0x1100,0x00FF,0x0202}illa Campione{0x1100,0x00FF,0x0502}eessaaa!!
+msg_t0401_g0101_npc5_01_pop=La bellezza di Azzurra sta[0x000A]tutta nella sua forza!
+msg_t0401_g0101_npc5_02_pop=Bella sfida!
+msg_t0401_g0101_npc5_03_pop=Ooooh! Un{0x1100,0x00FF,0x0100}a Campione{0x1100,0x00FF,0x0300}ssa[0x000A]di prima classe!

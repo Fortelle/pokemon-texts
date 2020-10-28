@@ -1,0 +1,11 @@
+msg_r0501_i0101_npc_01=Oh? Welcome.{0xBE01}[0x000A]Is there anything you’d like to know about?
+msg_r0501_i0101_npc_02=Is there anything else you’d like to know about?
+msg_r0501_i0101_npc_03=Here at the Pokémon Nursery, we take care of[0x000A]the Pokémon that Trainers leave with us.{0xBE01}[0x000A]The Pokémon we look after won’t get strong,[0x000A]but if you leave two Pokémon with us, we{0xBE00}[0x000A]sometimes find Pokémon Eggs.{0xBE01}[0x000A]If you want to leave your Pokémon with us,[0x000A]please speak to my granddaughter outside.
+msg_r0501_i0101_npc_04=If you put a Pokémon Egg in your party and carry[0x000A]it around, a Pokémon will hatch from the Egg.{0xBE01}[0x000A]Nobody knows where Pokémon Eggs come from.[0x000A]They truly are mysterious...
+msg_r0501_i0101_npc_05=If you want to find Pokémon Eggs, think about[0x000A]the two Pokémon you leave here.{0xBE01}[0x000A]I recommend you leave two of the same species[0x000A]of Pokémon with different genders.{0xBE01}[0x000A]If the species are similar, we may still find a[0x000A]Pokémon Egg.{0xBE01}[0x000A]But it seems we never find Eggs with certain[0x000A]combinations of Pokémon left here.
+msg_r0501_i0101_npc_06=Please come again.
+msg_r0501_i0101_npc_choices_01=Tell me about the Pokémon Nursery
+msg_r0501_i0101_npc_choices_02=Tell me about Pokémon Eggs
+msg_r0501_i0101_npc_choices_03=Tell me about what Pokémon I should leave
+msg_r0501_i0101_npc_choices_04=Nope
+msg_r0501_i0101_bookshelf_01={0xBDFF:0x000A}

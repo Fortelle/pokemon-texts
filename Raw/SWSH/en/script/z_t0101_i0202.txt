@@ -1,0 +1,13 @@
+msg_t0101_i0202_tv_01=It’s one of the TVs that Hop always watches the[0x000A]Champion’s matches on.
+msg_t0101_i0202_bed_01=The sheets are very wrinkled.
+msg_t0101_i0202_desk_01=The top shelves are filled with books[0x000A]that seem to be hard to understand.{0xBE00}[0x000A]Only adults read those types of books.
+msg_t0101_i0202_bed2_01=It’s a perfectly made bed. It doesn’t seem to[0x000A]have been used for a long time.
+msg_t0101_i0202_training_01=It’s a well-used training machine.[0x000A]Pokémon probably can use it, too.
+msg_t0101_i0202_gureggru_01=They’re posters of the top three most popular[0x000A]Pokémon in Galar!
+msg_t0101_i0202_hats_01=There’s a collection of various caps.
+msg_t0101_i0202_npc1_01=Leon is so busy that he hardly comes home.[0x000A]But I would like to keep his room clean and tidy.
+msg_t0101_i0202_npc1_02=Although Leon is no longer the Champion, he’s[0x000A]still very busy and hardly comes back.{0xBE01}[0x000A]But I think he should do whatever he wants to do[0x000A]while he’s young.
+msg_t0101_i0202_ball_01=There is a Poké Ball with a Charmander in it.
+msg_t0101_i0202_ball_02=You read the letter attached to the Poké Ball...
+msg_t0101_i0202_ball_03=“If you’re reading this, {0x0100,0x0000}...[0x000A]then I’m leaving this special Charmander to you![0x000A]Let’s have a real fiery battle again soon![0x000A]Best,[0x000A]Leon”
+msg_t0101_i0202_ball_04=There’s no room for another Pokémon.

@@ -1,0 +1,22 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+Salve! Qui puoi assaggiare ogni giorno[0x000A]un freschissimo prodotto di nostra scelta.
+Oggi abbiamo le Baccamodoro, direttamente[0x000A]dalla regione di Kanto.
+Oggi abbiamo le Baccafrago, direttamente[0x000A]dalla regione di Johto.
+Oggi abbiamo le Baccarancia, direttamente[0x000A]dalla regione di Hoenn.
+Oggi abbiamo le Baccamora, direttamente[0x000A]dalla regione di Unima.
+Oggi abbiamo le Baccacedro raccolte qui ad[0x000A]Alola.
+Oggi abbiamo le Baccamango, direttamente[0x000A]dalla regione di Kalos.
+Oggi abbiamo le Baccananas raccolte qui ad[0x000A]Alola.
+Prego! Assaggia pure! Prova i nostri prodotti!
+Una vera prelibatezza, te l’assicuro![0x000A]Direttamente dal luogo di raccolta!
+Ehi! Capisco che è gratis ma... non esagerare!{0xBE01}[0x000A]Torna pure domani. Troverai altri prodotti[0x000A]pronti per la degustazione!
+Il Supermarket Affaroni ti dà il benvenuto![0x000A]Preparati a un’esplosione di convenienza!
+Ecco un buono sconto da usare nel nostro[0x000A]supermercato!
+{0x0100,0x0000} prende il buono sconto.
+Mostralo alla cassa al momento di pagare.
+Al Supermarket Affaroni, la convenienza è[0x000A]assicurata!{0xBE01}[0x000A]E il nostro buono sconto ti aiuterà a spendere[0x000A]i tuoi risparmi nel modo migliore!

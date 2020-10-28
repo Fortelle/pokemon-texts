@@ -1,0 +1,14 @@
+main_event_0020_rival_06=Yo !{0x0114,0x0005}
+main_event_0020_rival_01=Oh ! T’as un nouveau téléphone,[0x000A]{0x0100,0x0000} ? La classe !{0xBE01}[0x000A]Et tu peux mater le match de mon frangin, avec ?[0x000A]Trop bien !{0xBE01}[0x000A]Tu sais que pour l’encourager, faut prendre[0x000A]la pose Dracaufeu, hein !{0x0114,0x0005}
+main_event_0020_mama_01=Te voilà, mon petit Nabil ![0x000A]Alors, c’est le grand jour ?{0x0114,0x0008}
+main_event_0020_rival_02=Ah ! Bonjour, m’dame !{0xBE01}[0x000A]Ouais ! C’est pour ça, j’ai couru pour venir[0x000A]chercher {0x0100,0x0000} !{0x0114,0x0005}
+main_event_0020_rival_03=Tant pis pour le match, on peut le regarder[0x000A]une autre fois !{0xBE01}[0x000A]On enregistre tous les combats du frangin[0x000A]à la maison, de toute façon.{0x0114,0x0005}
+main_event_0020_rival_04=Allez, {0x0100,0x0000}, viens !{0xBE01}[0x000A]Et oublie pas ton Sac, on va peut-être[0x000A]recevoir des cadeaux !{0x0114,0x0005}
+main_event_0020_rival_05=Bonne journée, m’dame !{0x0114,0x0005}
+main_event_0020_mama_02=Eh bien ?[0x000A]Ne traîne pas trop, Nabil t’attend.{0x0114,0x0008}
+main_event_0020_mama_03=Nabil te l’a bien dit, n’oublie pas ton Sac !{0xBE01}[0x000A]Si tu le cherches, il est dans ta chambre.[0x000A]... Prends ton b{0x1100,0x00FF,0x0203}onnéret, aussi !{0x0114,0x0008}
+main_event_0020_system_01=Vous prenez le vieux Sac de votre papa,[0x000A]ainsi que votre bonnet.
+main_event_0020_system_02=Vous prenez le vieux Sac de votre maman,[0x000A]ainsi que votre béret.
+main_event_0020_system_03={0xBDFF:0x000B}
+main_event_0020_system_04={0xBDFF:0x000C}
+main_event_0020_mama_04=Oh ! Mais tu es absolument adorable,[0x000A]avec ce Sac ! Que de souvenirs...{0xBE01}[0x000A]File, ce pauvre Nabil doit s’impatienter.[0x000A]Et souviens-toi, ne va surtout pas dans la forêt.{0x0114,0x0008}

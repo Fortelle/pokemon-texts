@@ -1,0 +1,13 @@
+main_event_0130_sound_01=*Blam*
+main_event_0130_rival_01=Hé, {0x0100,0x0000} ![0x000A]T’as entendu ça ?{0x0114,0x0005}
+main_event_0130_rival_02=Regarde, c’est ouvert ![0x000A]Il est passé où le Moumouton qui était devant ?{0x0114,0x0005}
+main_event_0130_rival_03=La dernière fois qu’on l’a vu, il chargeait[0x000A]la barrière... Oh, mais... Tu crois qu’il est passé ?!{0x0114,0x0005}
+main_event_0130_rival_04=Humain ou Pokémon, personne n’a le droit[0x000A]d’entrer...{0xBE01}[0x000A]Tu te souviens de quand la petite-fille[0x000A]de la Professeure y est allée ?{0xBE00}[0x000A]Apparemment, c’était pas la joie, dans la forêt...{0xBE01}[0x000A]Et je te raconte pas le savon qu’elle s’est pris,[0x000A]en revenant.{0x0114,0x0005}
+main_event_0130_rival_05=Qu’est-ce qu’on fait, du coup ?{0x0114,0x0005}
+main_event_0130_select_01=On doit aller le chercher !
+main_event_0130_select_02=Je sais pas, qu’est-ce que t’en penses ?
+main_event_0130_rival_06=Complètement d’accord ! On peut pas juste[0x000A]l’abandonner et faire genre on a rien vu !{0x0114,0x0005}
+main_event_0130_rival_07=Hmmm... J’ai pas envie de me faire crier dessus,[0x000A]mais... Ce pauvre Pokémon, sans défense...{0x0114,0x0005}
+main_event_0130_rival_08=Bon, c’est décidé ![0x000A]On va le sauver !{0x0114,0x0005}
+main_event_0130_middlem_01={0xBDFF:0x000B}
+main_event_0130_rival_09=Allez, {0x0100,0x0000} ![0x000A]Il faut qu’on aille sauver le Moumouton !

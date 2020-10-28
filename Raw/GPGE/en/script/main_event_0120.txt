@@ -1,0 +1,11 @@
+msg_main0120_sister_01=Hey, {0x0100,0x0000}!
+msg_main0120_sister_08=Oh, just look at {0x0101,0x0002}![0x000A]You two are already looking like great partners.
+msg_main0120_sister_09=And I’ve got the perfect little gift for such[0x000A]a great team! Here, take this.
+msg_main0120_sister_02=Hey, {0x0100,0x0000}!
+msg_main0120_sister_03=You got {0xFF00,0x0006}Sportswear{0xFF00,0x0000} from your friend’s big sister!
+msg_main0120_sister_10=You put the {0xFF00,0x0006}Sportswear{0xFF00,0x0000} in your Clothing Trunk!
+msg_woman1_01_p04_t001_r0201={0xBDFF:0x0006}
+msg_main0120_sister_04=Try putting that on {0x0101,0x0002}.[0x000A]You can go on an adventure in matching clothes!
+msg_main0120_sister_06=...Oh?
+msg_main0120_sister_05=Hee hee![0x000A]It seems like {0x0101,0x0002} wants to play!{0xBE01}[0x000A]Don’t forget to show it some love from time[0x000A]to time.
+msg_main0120_sister_07={0xFF00,0x0006}Play with {0x0102,0x0003}{0xFF00,0x0000} has been added to[0x000A]the main menu. Press the {0xFF00,0x0006}X Button{0xFF00,0x0000} to go see!{0xBE01}[0x000A]Select this option to play with {0x0102,0x0003}[0x000A]whenever you want!

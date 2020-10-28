@@ -1,0 +1,5 @@
+msg_main_0460_nresercher_01={0x0100,0x0000}!
+msg_main_0460_nresercher_02=Remember me?[0x000A]I’m one of Professor Oak’s assistants.
+msg_main_0460_nresercher_03=I’m so glad I ran into you![0x000A]Why don’t I show you a neat trick?
+msg_main_0460_nresercher_04=Actually, no...[0x000A]It’s a little too bright out here.
+msg_main_0460_nresercher_05=Inside! I’ll be waiting inside to show you.[0x000A]Whenever you’re ready, {0x0100,0x0000}!

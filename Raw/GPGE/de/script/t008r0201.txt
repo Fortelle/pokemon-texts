@@ -1,0 +1,14 @@
+msg_t008r0201_goods_01=Hier sind Pokémon-Fossilien und seltene Steine[0x000A]ausgestellt.
+msg_t008r0201_goods_02=Hier befinden sich alte Pokémon-Werbeartikel.
+msg_t008r0201_dig_01={0xFF00,0x0009}Digda:{0xFF00,0x0000} *Wühl...*
+msg_t008r0201_system_01=Du erhältst ein {0xFF00,0x0006}Nugget{0xFF00,0x0000} von Digda!
+msg_t008r0201_dig_02={0xFF00,0x0009}Digda:{0xFF00,0x0000} *Wackel!*
+msg_workerm1_01_p01_t008_r0501={0xBDFF:0x0005}
+msg_workerm1_01_p02_t008_r0501={0xBDFF:0x0006}
+msg_workerm1_01_p03_t008_r0501={0xBDFF:0x0007}
+msg_workerm1_01_p04_t008_r0501={0xBDFF:0x0008}
+msg_workerm1_01_p05_t008_r0501={0xBDFF:0x0009}
+msg_workerm1_01_p06_t008_r0501={0xBDFF:0x000A}
+msg_workerm1_01_p06_t008_r0501_fm={0xBDFF:0x000B}
+msg_workerm1_01_p07_t008_r0501={0xBDFF:0x000C}
+msg_workerm1_01_p08_t008_r0501={0xBDFF:0x000D}

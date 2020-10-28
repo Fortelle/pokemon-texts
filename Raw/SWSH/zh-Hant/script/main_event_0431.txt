@@ -1,0 +1,5 @@
+main_event_0431_stuff_01={0x1100,0x00FF,0x0101}你妳是道館挑戰者，[0x000A]{0x0100,0x0000}選手嗎？
+main_event_0431_stuff_02=含羞苞旅店就在這邊。{0xBE01}[0x000A]請跟我來。[0x000A]我會為{0x1100,0x00FF,0x0101}你妳帶路。
+main_event_0431_stuff_03={0xBDFF:0x0002}
+main_event_0431_stuff_04={0x0100,0x0000}選手，[0x000A]這裡就是含羞苞旅店了。
+main_event_0431_stuff_05=請好好休息，養精蓄銳。

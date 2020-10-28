@@ -1,0 +1,14 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+¡Kyoog!
+¡{0x0100,0x0000} se ha puesto el Traje Aqua!
+¡{0x0100,0x0000} ha colocado el Prisma Rojo en el traje!
+Se oye una voz que viene del Traje Aqua...
+???: ¡Eh! ¿Me recibes, mocos{0x1100,0x00FF,0x0101}oa?
+Aquiles: ¡Soy yo, Aquiles! ¡Te hablo a través de un[0x000A]dispositivo integrado en el traje!
+Aquiles: En realidad, me está enviando información de lo[0x000A]más interesante. Parece ser que ha detectado a Kyogre{0xBE00}[0x000A]en tu misma ubicación.{0xBE01}[0x000A]De hecho, deberías de tenerlo justo enfrente.
+Aquiles: ¡Tranquil{0x1100,0x00FF,0x0101}oa, mocos{0x1100,0x00FF,0x0101}oa! ¡Tú no tengas miedo y salta[0x000A]sobre su lomo!{0xBE01}[0x000A]Y luego, deja que te lleve a... la par... más prof... da[0x000A]de... cue...
+{0xBDFF:0x000C}
+Se ha cortado la comunicación.

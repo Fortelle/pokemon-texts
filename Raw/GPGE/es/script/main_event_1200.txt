@@ -1,0 +1,17 @@
+msg_main1200_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¡Pero bueno![0x000A]¿Y esto por qué está cerrado?
+msg_main1200_rival_02=A ver si con alguna combinación...[0x000A]¡Ábrete, sésamo!{0xBE00}[0x000A]¡Abre, Kadabra!{0xBE00}[0x000A]¡Di amiibo y entra!
+msg_main1200_rival_03=Hmm, nada, ni por esas...
+msg_main1200_rival_04=Ah...
+msg_main1200_rival_05=¡{0x0100,0x0000}, tí{0x1100,0x00FF,0x0101}oa! ¡Si estás ahí, di algo![0x000A]Así me ahorro hacer el panoli...
+msg_main1200_rival_06=Pero bueno, al grano: ¿cuántas medallas tienes[0x000A]ya?
+msg_main1200_rival_10=¡Hala! ¡Siete, igual que yo! Pues entonces, ya[0x000A]solo nos queda el Gimnasio de Ciudad Verde.{0xBE01}[0x000A]O sea, este de aquí... si no fuera porque está[0x000A]cerrado a cal y canto.
+msg_main1200_rival_07=Creo que tendríamos que preguntarle a alguien[0x000A]a ver si sabe algo de esto. Pero ¿a quién?
+msg_main1200_select_01=Al Profesor Oak
+msg_main1200_select_02=A {0x0101,0x0003}
+msg_main1200_select_03=A ese señor mayor
+msg_main1200_oldman_01={0xFF00,0x0009}Señor mayor:{0xFF00,0x0000} ¿Eh? ¿Que por qué está cerrado?[0x000A]Pues no tengo ni la más remota idea...
+msg_main1200_rival_11={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} No, claro, qué pregunta más[0x000A]tonta... Perdone las molestias.
+msg_main1200_rival_08=Me has leído el pensamiento.[0x000A]¡Venga, vamos a preguntarle!
+msg_main1200_poke_01=¡Pika, pika!
+msg_main1200_poke_02=¡Viiii!
+msg_main1200_rival_09={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Ajá... Hmmm... Ya...{0xBE01}[0x000A]Espero que tú hayas entendido algo porque,[0x000A]lo que es yo, ni idea.

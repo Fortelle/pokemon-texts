@@ -1,0 +1,249 @@
+Merci d’avoir choisi les Taxis Illumis[0xE07F]![0x000A]Le tarif de base est de 710 $, mais il augmente{0xBE00}[0x000A]avec la distance. Voulez-vous monter[0xE07F]?
+Alors, qu’est-ce qui vous intéresse[0xE07F]?
+Très bien. Où souhaitez-vous aller[0xE07F]?
+C’est bien là que vous souhaitez vous rendre[0xE07F]?
+Alors c’est parti, accrochez vos ceintures[0xE07F]!
+Et voilà, nous sommes arrivés :[0x000A]{0x019B,0x0001}[0xE07F]!{0xBE01}[0x000A]{0x0203,0x0000,0xE07F} $, s’il vous plaît.
+À votre service[0xE07F]!
+À une prochaine fois[0xE07F]!
+On est arrivés à notre destination :[0x000A]{0x019B,0x0001}[0xE07F]!{0xBE01}[0x000A]Normalement, la course coûte {0x0203,0x0002,0xE07F} $...[0x000A]Mais je ne peux pas faire payer ce prix-là{0xBE00}[0x000A]à quelqu’un d’aussi bien habillé.{0xBE00}[0x000A]Allez, ça sera {0x0203,0x0000,0xE07F} $ pour vous[0xE07F]!
+Dites donc, le compte n’y est pas[0xE07F]!
+Je vous remercie.
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Vous avez bien dit Rue Méridionale[0xE07F]?[0x000A]C’est comme si on y était[0xE07F]!
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Vous avez bien dit Rue Septentrionale[0xE07F]?[0x000A]C’est parti[0xE07F]!
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Ah, le fameux Studio de Vidéos Dresseur[0x000A]de la Rue Méridionale[0xE07F]!
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Vous voulez parler du salon de toilettage[0x000A]de l’Avenue Floréal, c’est bien ça[0xE07F]?
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Le salon de coiffure de la Rue Méridionale[0xE07F]?[0x000A]Vous avez envie d’une petite coupe[0xE07F]?
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Avenue Thermidor[0xE07F]? Pourquoi, vous avez envie[0x000A]de tenter votre chance[0xE07F]?
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Vous voulez parler de cet hôtel chicos de la Rue[0x000A]Septentrionale[0xE07F]? Eh ben, on ne se refuse rien[0xE07F]!
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Rue Méridionale, au niveau de la Route 4[0xE08D][0x000A]En route, mauvaise troupe[0xE07F]!
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Rue Méridionale, au niveau de la Route 5[0xE08D][0x000A]Attachez votre ceinture[0xE07F]!
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Rue Septentrionale, au niveau de la Route 13[0xE08D][0x000A]Chaud devant[0xE07F]!
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Rue Septentrionale, au niveau de la Route 14[0xE08D][0x000A]C’est parti[0xE07F]!
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Rue Septentrionale, au niveau de la Route 16[0xE08D][0x000A]C’est comme vous voudrez, le client est roi[0xE07F]!
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Vous voulez parler de la gare TMV de la Rue[0x000A]Septentrionale[0xE07F]?
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Ah, le labo de la Rue Méridionale[0xE07F]![0x000A]Aucun problème[0xE07F]!
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Là où ils fabriquent des bouquins[0xE07F]?[0x000A]C’est sur l’Avenue Thermidor.
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Sur la Rue Septentrionale[0xE07F]?[0x000A]L’endroit où il y a plein de peintures[0xE07F]?
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Ah, oui[0xE07F]! Sur la Rue Septentrionale[0xE07F]![0x000A]Là où on peut faire des Tests Combat[0xE07F]!
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Je n’y suis jamais entré, mais au moins, je sais[0x000A]où c’est[0xE07F]!
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]La boutique de luxe de l’Avenue Floréal[0xE07F]?[0x000A]C’est comme si on y était[0xE07F]!
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Là où ils vendent des remèdes, sur l’Avenue[0x000A]Floréal[0xE07F]? Vous allez bien, au moins[0xE07F]?
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]La boutique qui vend des pierres[0x000A]sur l’Avenue Floréal[0xE07F]?
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Ah[0xE07F]! La boutique de l’Avenue Vendémiaire[0x000A]qui vend des Poké Balls.
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Le petit boui-boui de la Rue Méridionale[0xE07F]?[0x000A]C’est comme si on y était[0xE07F]!
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Le restaurant de l’Avenue Vendémiaire[0xE07F]?[0x000A]L’addition est plutôt salée, mais c’est très bon.
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Le restaurant chic de l’Avenue Ventôse[0xE07F]?[0x000A]À vos ordres, M{0x1100,0x00FF,0x0507}onsieuradame[0xE07F]!
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Je n’y suis jamais allé, il faut être membre[0x000A]pour entrer. Mais je connais la route[0xE07F]!
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Le petit stand de la Rue Septentrionale[0xE07F]?[0x000A]J’adore leurs galettes[0xE07F]!
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]C’est le bar à jus de l’Avenue Vendémiaire, non[0xE07F]?
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Dans la Rue Méridionale[0xE07F]?[0x000A]Un vrai repaire de geeks, cet endroit[0xE07F]!
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Près de la Place Verte, hein[0xE07F]?[0x000A]C’est vraiment un drôle de café.
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Sur l’Avenue Floréal[0xE07F]? Ces gens-là prennent[0x000A]la mode au sérieux[0xE07F]! On n’est pas du même monde.
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Sur l’Avenue Floréal[0xE07F]? J’espère que vous n’êtes[0x000A]pas allergique aux poils de Couafarel, hein[0xE07F]!
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]C’est un café tout ce qu’il y a de plus ordinaire,[0x000A]dans la Rue Méridionale, non[0xE07F]?
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Direction la rue Méridionale[0xE07F]![0x000A]Alors comme ça, vous aimez la photo[0xE07F]?
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Le point de ralliement des Roller Skateurs, hein[0xE07F]?[0x000A]Okidoki[0xE07F]! En route pour l’Avenue Thermidor.
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Sur l’Avenue Thermidor[0xE07F]? Il a quelque chose[0x000A]de particulier, ce café[0xE07F]?[0xE08D]
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Rue Septentrionale[0xE07F]? À mon avis, ils ne vont pas[0x000A]tarder à mettre la clé sous la porte, ceux-là.
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Ça me dit quelque chose[0xE08D][0x000A]Du côté de la Place Rose, peut-être[0xE07F]?
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Ah, sur l’Avenue Vendémiaire[0xE07F]! C’est le lieu de[0x000A]rendez-vous des passionnés de Pokémon.
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Rue Septentrionale[0xE07F]?[0x000A]Le repaire des abrutis du SPV[0xE07F]?
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Ah, Avenue Ventôse[0xE08D][0x000A]Ce n’est pas très lumineux, comme endroit.
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Vous voulez parler du café où se réunissent[0x000A]les narcissiques qui aiment tourner des Vidéos{0xBE00}[0x000A]Dresseur, dans la Rue Septentrionale[0xE07F]?
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Ah, sur la Rue Septentrionale[0xE07F]?[0x000A]C’est toujours plein de fans de combats, là-bas.
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]L’Arène sur la Place Centrale[0xE07F]?[0x000A]Accrochez-vous, c’est parti[0xE07F]!
+Merci d’avoir choisi les Taxis Illumis[0xE07F]!{0xBE01}[0x000A]Malheureusement, le nord de la ville est[0x000A]touché par une coupure d’électricité dont{0xBE00}[0x000A]nous ne connaissons pas la cause.{0xBE01}[0x000A]Pour des raisons de sécurité, nous attendons[0x000A]que le courant soit rétabli avant de reprendre{0xBE00}[0x000A]le service. Merci de votre compréhension[0xE07F]!
+{0x019B,0x0001}[0xE07F]?{0xBE01}[0x000A]Compris[0xE07F]!
+{0xBDFF:0x0039}
+{0xBDFF:0x003A}
+{0xBDFF:0x003B}
+{0xBDFF:0x003C}
+{0xBDFF:0x003D}
+{0xBDFF:0x003E}
+{0xBDFF:0x003F}
+{0xBDFF:0x0040}
+{0xBDFF:0x0041}
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}
+{0xBDFF:0x0046}
+{0xBDFF:0x0047}
+{0xBDFF:0x0048}
+{0xBDFF:0x0049}
+{0xBDFF:0x004A}
+{0xBDFF:0x004B}
+{0xBDFF:0x004C}
+{0xBDFF:0x004D}
+{0xBDFF:0x004E}
+{0xBDFF:0x004F}
+{0xBDFF:0x0050}
+{0xBDFF:0x0051}
+{0xBDFF:0x0052}
+{0xBDFF:0x0053}
+{0xBDFF:0x0054}
+{0xBDFF:0x0055}
+{0xBDFF:0x0056}
+{0xBDFF:0x0057}
+{0xBDFF:0x0058}
+{0xBDFF:0x0059}
+{0xBDFF:0x005A}
+{0xBDFF:0x005B}
+{0xBDFF:0x005C}
+{0xBDFF:0x005D}
+{0xBDFF:0x005E}
+{0xBDFF:0x005F}
+{0xBDFF:0x0060}
+{0xBDFF:0x0061}
+{0xBDFF:0x0062}
+{0xBDFF:0x0063}
+{0xBDFF:0x0064}
+{0xBDFF:0x0065}
+{0xBDFF:0x0066}
+{0xBDFF:0x0067}
+{0xBDFF:0x0068}
+{0xBDFF:0x0069}
+{0xBDFF:0x006A}
+{0xBDFF:0x006B}
+{0xBDFF:0x006C}
+{0xBDFF:0x006D}
+{0xBDFF:0x006E}
+{0xBDFF:0x006F}
+{0xBDFF:0x0070}
+{0xBDFF:0x0071}
+{0xBDFF:0x0072}
+{0xBDFF:0x0073}
+{0xBDFF:0x0074}
+{0xBDFF:0x0075}
+{0xBDFF:0x0076}
+{0xBDFF:0x0077}
+{0xBDFF:0x0078}
+{0xBDFF:0x0079}
+{0xBDFF:0x007A}
+{0xBDFF:0x007B}
+{0xBDFF:0x007C}
+{0xBDFF:0x007D}
+{0xBDFF:0x007E}
+{0xBDFF:0x007F}
+{0xBDFF:0x0080}
+Le Centre Pokémon de la Rue Méridionale
+L’Étoilé
+La Drôle d’Embringue
+Station de taxis nº 1 de la Rue Méridionale
+Porte de la Route 4
+Place Verte
+Au Chic-à-Porter
+Les Timides
+Le Lounge Café
+Station de taxis de l’Avenue Floréal
+Laboratoire Pokémon
+Studio de Vidéos Dresseur
+Au Fringant Pokémon
+Détente et Beauté
+Éditions d’Illumis
+Les Bienfaits de Chloris
+Café Toutou
+Station de taxis nº 2 de la Rue Méridionale
+Place Cyan
+Porte de la Route 5
+Station de taxis nº 3 de la Rue Méridionale
+Loterie ID
+Le Joyau de Kalos
+Café Soleil
+Un Autre Regard
+Station de taxis de l’Avenue Thermidor
+Station de taxis nº 4 de la Rue Méridionale
+Café Slalom
+Le Café des Compères
+Centre Pokémon de la Rue Septentrionale
+Porte de la Route 13
+Au Coucou
+Café Lysandre
+Café Récré
+Place Rose
+Station de taxis nº 1 de la Rue Septentrionale
+Stand de Galettes Illumis
+Station de taxis de l’Avenue Vendémiaire
+Le Nectar
+Agence Beladonis
+Le Ball-Bazar
+Les Algolides
+Station de taxis nº 2 de la Rue Septentrionale
+Place Rouge
+Porte de la Route 14
+Le Firmament
+Sushi Sans Chichis
+Musée d’Illumis
+Station de taxis nº 3 de la Rue Septentrionale
+Grand Hôtel Le Crésus
+Station de taxis nº 4 de la Rue Septentrionale
+L’Ultimate
+Les Partenaires
+Café Clap
+La Bataille
+Place Jaune
+Porte de la Route 16
+Club des Épreuves
+Gare d’Illumis
+Tour Prismatique
+Espace à louer
+Centre Pokémon de la Place Rose
+Arrêt «[0xE07F]Rue Méridionale - Est[0xE07F]»
+Arrêt «[0xE07F]Porte de la Route 4[0xE07F]»
+Arrêt «[0xE07F]Studio de Vidéos Dresseur[0xE07F]»
+Arrêt «[0xE07F]Café Soleil[0xE07F]»
+Arrêt «[0xE07F]Avenue Thermidor[0xE07F]»
+Arrêt «[0xE07F]Rue Méridionale - Ouest[0xE07F]»
+Arrêt «[0xE07F]Rue Septentrionale - Est[0xE07F]»
+Arrêt «[0xE07F]Porte de la Route 16[0xE07F]»
+Arrêt «[0xE07F]Grand Hôtel Le Crésus[0xE07F]»
+Arrêt «[0xE07F]Porte de la Route 14[0xE07F]»
+Arrêt «[0xE07F]Avenue Vendémiaire[0xE07F]»
+Arrêt «[0xE07F]Rue Septentrionale - Ouest[0xE07F]»
+Services
+Routes et gare
+Points de repère
+Boutiques
+Restaurants
+Cafés
+Annuler
+Oui
+Non
+Autre destination
+Demander le chemin
+Rue Méridionale - Est
+Rue Méridionale - Ouest
+Rue Septentrionale - Est
+Rue Septentrionale - Ouest
+Message pré-enregistré :[0x000A]Vous pouvez obtenir toutes les informations{0xBE00}[0x000A]sur la Navette Chevroum via ce terminal.
+Quelle que soit votre destination, un billet vous[0x000A]coûtera 200 $.{0xBE01}[0x000A]Voulez-vous emprunter une Navette Chevroum[0xE07F]?
+Position actuelle :[0x000A]{0x019B,0x0001}.{0xBE01}[0x000A]Où souhaitez-vous aller[0xE07F]?
+Votre paiement a été reçu.{0xBE01}[0x000A]Attention au départ[0xE07F]![0x000A]Vous pouvez enfourcher votre Chevroum.
+Message pré-enregistré :[0x000A]{0x019B,0x0001}[0xE07F]!{0xBE01}[0x000A]Voulez-vous descendre du Chevroum[0xE07F]?
+Nous vous remercions de votre intérêt pour[0x000A]la Navette Chevroum, et nous espérons{0xBE00}[0x000A]vous revoir bientôt.
+Vous n’avez pas suffisamment d’argent.
+Message pré-enregistré :[0x000A]Vous pouvez obtenir toutes les informations{0xBE00}[0x000A]sur la Navette Chevroum via ce terminal.{0xBE01}[0x000A]Cet arrêt est actuellement fermé pour travaux.[0x000A]Veuillez nous excuser pour la gêne occasionnée.
+Message pré-enregistré :[0x000A]{0x019B,0x0001}[0xE07F]!{0xBE00}[0x000A]Terminus, tout le monde descend[0xE07F]!
+Eh, mais pour qui tu te prends[0xE07F]?![0x000A]Tu montes, tu paies[0xE07F]!
+C’est pas comme ça que je vais remplir[0x000A]mes quotas, moi[0xE08D]
+J’ai besoin de ce fric pour vivre, moi[0xE07F]![0x000A]Tu vas me le payer[0xE07F]!
+Ok, ok[0xE07F]! Laisse tomber le fric, mais descends[0x000A]de mon taxi[0xE07F]!
+Si tu crois que tu vas t’en tirer comme ça, tu rêves[0xE07F]![0x000A]Je vais te donner une bonne leçon[0xE07F]!
+Mouais, bon, ça va.[0x000A]Merci d’avoir choisi les Taxis Illumis.
+Tu veux te payer ma tête[0xE07F]?[0x000A]C’est tes Pokémon qui vont payer[0xE07F]!
+Ça m’empêche pas d’être un mec, un vrai[0xE07F]![0x000A]C’est ça, tire-toi sans payer[0xE07F]! Du vent[0xE07F]!!!
+J’étais sur le point de piquer un roupillon,[0x000A]ça me réveillera[0xE07F]!
+Ça m’apprendra à piquer du nez.[0x000A]Mais la prochaine fois, tu paies la course[0xE07F]!
+Pour qui tu te prends[0xE07F]?[0x000A]Il faut bien que je gagne ma vie, moi[0xE07F]!
+J’ai même plus un kopeck à envoyer à ma famille[0x000A]à Hoenn[0xE08D]
+Si tu crois que je vais te laisser filer à cause[0x000A]de ton jeune âge, tu te mets le doigt dans l’œil{0xBE00}[0x000A]jusqu’au coude[0xE07F]!
+Tu ne devrais pas faire ce genre de choses.[0x000A]Ta maman ne serait pas fière de toi[0xE07F]!
+Ne pas payer le prix de sa course, c’est du vol[0xE07F]![0x000A]Je vais t’écrabouiller[0xE07F]!
+Quand on roule au ralenti, on finit par caler[0xE08D]
+Vrrrrr[0xE07F]! Vrrrrr[0xE07F]! Vrrrrouuuuuumm[0xE07F]![0x000A]C’est que j’étais un Motard, moi, dans le temps[0xE07F]!
+Mon portefeuille est aussi vide que mon compte[0x000A]en banque[0xE08D]
+Les chauffeurs de taxi sont aussi bons au combat[0x000A]que derrière le volant[0xE07F]!
+Eh, tu te débrouilles pas mal[0xE07F]![0x000A]Ça te dirait de nous rejoindre[0xE07F]?
+Tu vas regretter d’avoir franchi la ligne rouge[0xE07F]!
+Je n’ai plus d’énergie, j’ai l’impression de m’être[0x000A]fait siphonner le réservoir.

@@ -1,0 +1,37 @@
+Generar ID para Sincronizar
+Información
+Sincronizar
+¿Qué es Sincronizar Juego?
+Preparativos para Sincronizar Juego
+Pasos a seguir para Sincronizar Juego
+Sí
+No
+ID para Sincronizar
+Accede al sitio web oficial de Pokémon Global Link,[0x000A]operado por The Pokémon Company y sus filiales, e[0x000A]introduce el ID para Sincronizar que aparece en la[0x000A]pantalla para registrarlo.[0x000A]{0xBD00,0x0003,0x0000,0x0000}http://www.pokemon-gl.com/{0xBD01}
+{0xBDFF:0x000A}
+— Historial de Sincronizar Juego —[0x000A]Usaste Sincronizar Juego el {0xBD00,0x0003,0x0000,0x0000}{0x0201,0x0002}-{0x0201,0x0001}-20{0x0201,0x0000}{0xBD01}.[0x000A]Hora: {0xBD00,0x0003,0x0000,0x0000}{0x0201,0x0003}:{0x0201,0x0004}{0xBD01}[0x000A]Recibiste un Regalo Misterioso desde Pokémon Global Link.[0x000A]{0xBD00,0x0003,0x0000,0x0000}http://www.pokemon-gl.com/{0xBD01}
+— Historial de Sincronizar Juego —[0x000A]Usaste Sincronizar Juego el {0xBD00,0x0003,0x0000,0x0000}{0x0201,0x0002}-{0x0201,0x0001}-20{0x0201,0x0000}{0xBD01}.[0x000A]Hora: {0xBD00,0x0003,0x0000,0x0000}{0x0201,0x0003}:{0x0201,0x0004}{0xBD01}[0x000A]— Pokémon Global Link —[0x000A]{0xBD00,0x0003,0x0000,0x0000}http://www.pokemon-gl.com/{0xBD01}
+{0x012D,0x0000}
+— ¿Qué es Sincronizar Juego? —[0x000A][0x000A]Con la función Sincronizar Juego podrás[0x000A]conectar tus juegos Pokémon Ultrasol y[0x000A]Pokémon Ultraluna con el sitio web de[0x000A]Pokémon Global Link:[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+— ¿Qué es Sincronizar Juego? —[0x000A][0x000A]La función Sincronizar Juego transferirá[0x000A]automáticamente tu partida guardada al sitio[0x000A]web de Pokémon Global Link, donde podrás[0x000A]comprobar tu progreso en la aventura.
+— ¿Qué es Sincronizar Juego? —[0x000A][0x000A]Puedes servirte del sitio web de Pokémon[0x000A]Global Link para participar en competiciones,[0x000A]Combates por Puntos y para prestarte Equipos[0x000A]de Combate.
+— Preparativos para Sincronizar Juego —[0x000A][0x000A]Sigue los siguientes pasos para utilizar la[0x000A]función Sincronizar Juego:[0x000A][0x000A]1. Genera tu ID para Sincronizar[0x000A]2. Registra tu ID para Sincronizar en[0x000A]Pokémon Global Link
+— Preparativos para Sincronizar Juego —[0x000A]1. Genera tu ID para Sincronizar[0x000A][0x000A]Selecciona “Generar ID para Sincronizar” en la[0x000A]pantalla principal de Sincronizar Juego y[0x000A]obtendrás tu ID para Sincronizar.
+— Preparativos para Sincronizar Juego —[0x000A]2. Registra tu ID para Sincronizar en[0x000A]Pokémon Global Link[0x000A][0x000A]Accede al sitio web oficial de Pokémon[0x000A]Global Link, {0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}, y[0x000A]registra tu ID para Sincronizar.[0x000A]Cuando lo hayas hecho, habrás concluido con[0x000A]los preparativos necesarios para usar[0x000A]Sincronizar Juego.
+— Preparativos para Sincronizar Juego —[0x000A][0x000A]Necesitas una cuenta en el sitio web de[0x000A]Pokémon Global Link, operado por The[0x000A]Pokémon Company y sus filiales, para poder[0x000A]registrar tu ID para Sincronizar.[0x000A]Para obtener más información, puedes visitar el[0x000A]sitio web oficial de Pokémon Global Link.[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+— Pasos a seguir para Sincronizar Juego —[0x000A][0x000A]Al seleccionar “Sincronizar”, comenzará la[0x000A]conexión con el sitio web de Pokémon Global[0x000A]Link.[0x000A]Ten en cuenta que si no has registrado antes[0x000A]tu ID para Sincronizar, no podrás conectarte[0x000A]al sitio web ni disfrutar de sus servicios.
+— Pasos a seguir para Sincronizar Juego —[0x000A][0x000A]Es posible que la sincronización se produzca[0x000A]automáticamente cuando te conectes a internet.
+— Pasos a seguir para Sincronizar Juego —[0x000A][0x000A]Si conectas tu juego con Pokémon Global Link,[0x000A]podrás participar en Combates por Puntos en[0x000A]Áreas de Combate y otras competiciones.[0x000A]También podrás crear Torneos Amistosos.
+— Pasos a seguir para Sincronizar Juego —[0x000A][0x000A]Una vez accedas a Pokémon Global Link,[0x000A]podrás publicar el QR Code del Equipo de[0x000A]Combate con el que hayas participado en[0x000A]torneos, o usar el QR Code del Equipo de[0x000A]Préstamo de otros jugadores.
+¡Te damos la bienvenida a Sincronizar Juego!{0xBE01}[0x000A]Con esta función podrás sincronizar el sitio[0x000A]web oficial de Pokémon Global Link, operado{0xBE00}[0x000A]por The Pokémon Company y sus filiales, con los{0xBE00}[0x000A]juegos Pokémon Ultrasol y Pokémon Ultraluna.{0xBE01}[0x000A]Para ello, es necesario que registres el ID para[0x000A]Sincronizar que obtendrás en Pokémon Ultrasol{0xBE00}[0x000A]o Pokémon Ultraluna en el sitio web de Pokémon{0xBE00}[0x000A]Global Link.{0xBE01}[0x000A]Una vez registrado, se enviarán tus datos de[0x000A]guardado automáticamente al sitio web de{0xBE00}[0x000A]Pokémon Global Link y podrás acceder a{0xBE00}[0x000A]multitud de servicios.{0xBE01}[0x000A]Si quieres obtener más información sobre los[0x000A]pasos a seguir, selecciona “Información”.{0xBE01}
+No se ha podido realizar la sincronización.{0xBE01}[0x000A]El ID para Sincronizar no está registrado en el[0x000A]sitio web de Pokémon Global Link.{0xBE01}[0x000A]Accede a Pokémon Global Link e introduce tu[0x000A]ID para Sincronizar.{0xBE01}
+¡Te damos la bienvenida a Sincronizar Juego![0x000A]¿Qué quieres hacer?
+¿Quieres generar un ID para Sincronizar que[0x000A]te permita utilizar Sincronizar Juego?
+Conectando con el servidor...[0x000A]Espera unos instantes.
+Sincronizando el juego...[0x000A]No apagues la consola.
+Se ha interrumpido la emisión de tu ID para[0x000A]Sincronizar porque el servidor está{0xBE00}[0x000A]experimentando un volumen de tráfico{0xBE00}[0x000A]demasiado elevado.{0xBE01}[0x000A]Inténtalo de nuevo más tarde.{0xBE01}
+Guardando...[0x000A]No apagues la consola.
+¡Tu ID para Sincronizar se ha activado!{0xBE01}[0x000A]Ya puedes registrarlo en el sitio web de[0x000A]Pokémon Global Link.{0xBE01}[0x000A]Cuando hayas terminado el registro, tus datos[0x000A]de guardado se enviarán al sitio web{0xBE00}[0x000A]automáticamente.{0xBE01}[0x000A]Para saber más acerca de cómo utilizar la[0x000A]función Sincronizar Juego, consulta el apartado{0xBE00}[0x000A]“Información”.{0xBE01}
+Se ha interrumpido la función Sincronizar Juego[0x000A]porque no ha pasado suficiente tiempo desde la{0xBE00}[0x000A]última vez que se usó la función.{0xBE01}[0x000A]Vuelve a intentarlo más tarde.{0xBE01}
+¡Sincronización completada!{0xBE01}
+¿Sobre qué quieres información?

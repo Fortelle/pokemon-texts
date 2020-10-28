@@ -1,0 +1,6 @@
+msg_t007pc01_gentlem_01=La Poké Flûte réveille les Pokémon en émettant[0x000A]des ultrasons que les humains ne peuvent{0xBE00}[0x000A]pas entendre.
+msg_t007pc01_girlscout_01=Tu vois la dame avec un Abra, dans le coin,[0x000A]à côté du présentoir à magazine ?{0xBE01}[0x000A]Il paraît que c’est une voyante d’un talent[0x000A]exceptionnel !
+msg_t007pc01_jevenilem_01=J’aimerais bien avoir un Pokémon pour me[0x000A]promener sur la Piste Pokémon !
+msg_t007pc01_book_01=C’est un magazine intitulé « Sorties[0x000A]Pokémon ».
+msg_t007pc01_select_01=Voulez-vous le lire ?
+msg_t007pc01_book_02=« Dans ce numéro, nous allons vous présenter...[0x000A]la Piste Pokémon !{0xBE01}[0x000A]Ce chemin légèrement pentu relie Céladopole[0x000A]à Parmanie.{0xBE01}[0x000A]Le week-end venu, de nombreux Dresseurs[0x000A]s’y promènent avec leurs Pokémon !{0xBE01}[0x000A]Ces derniers se font des amis, leurs Dresseurs[0x000A]aussi... Et parfois, c’est pour la vie ! »

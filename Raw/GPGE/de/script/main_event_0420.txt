@@ -1,0 +1,7 @@
+msg_main0420_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Hey, {0x0100,0x0000}!
+msg_main0420_rival_02=Da oben ist die Kabine des Kapitäns!{0xBE01}[0x000A]Wenn du ihn fragst, bringt er dir vielleicht die[0x000A]{0xFF00,0x0006}Geheime Technik {0xFF00,0x0000}bei, für die er bekannt ist!
+msg_main0420_rival_06=Gerade sah er leider gar nicht gut aus.[0x000A]Er scheint seekrank zu sein...{0xBE01}[0x000A]Aber du solltest ihm trotzdem einen Besuch[0x000A]abstatten.
+msg_main0420_rival_03=Ach ja, bevor du hochgehst...{0xBE01}[0x000A]Lass mich doch eben überprüfen, wie gut du[0x000A]dein{0x1101,0x00FD,0x0100}e Pokémon trainiert hast!
+msg_main0420_dummy_01={0xBDFF:0x0004}
+msg_main0420_rival_04={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Du hast wirklich schwer was[0x000A]auf dem Kasten, {0x0100,0x0000}...
+msg_main0420_rival_05=Na ja, das Leben geht weiter!{0xBE01}[0x000A]Also los, geh zum Kapitän und lass dir seine[0x000A]{0xFF00,0x0006}Geheime Technik{0xFF00,0x0000} beibringen! Bis später!

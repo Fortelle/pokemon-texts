@@ -1,0 +1,13 @@
+¡No me digas más! Quieres que le enseñe[0x000A]Ascenso Draco a tu Pokémon, ¿verdad?
+Pues tu gozo en un pozo, porque no tienes a[0x000A]Rayquaza, el único que puede aprenderlo.
+Aquí me tendrás cuando necesites mi ayuda.
+¿Qué Pokémon quieres que lo aprenda?
+Ese Pokémon no puede aprender Ascenso[0x000A]Draco.{0xBE01}[0x000A]El único que puede aprender este movimiento es[0x000A]Rayquaza, ¡te lo digo yo!
+¡Un Huevo que pudiese utilizar Ascenso Draco[0x000A]sería algo inaudito!
+Ese Rayquaza ya conoce Ascenso Draco.
+¿Quieres que le enseñe Ascenso Draco a[0x000A]{0x0101,0x0000}?
+Ascenso Draco es un potente movimiento que[0x000A]solo Rayquaza puede utilizar.{0xBE01}[0x000A]Según se dice, sería capaz de hacer añicos un[0x000A]meteorito enorme de un solo golpe.
+Selecciona el movimiento que quieres sustituir[0x000A]por {0x0107,0x0000}.
+¡{0x0102,0x0000} ha aprendido[0x000A]{0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+1, {0xBE02:0x0014}2 y... {0xBE02:0x0014}¡puf!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]¡{0x0102,0x0000} ha olvidado cómo utilizar[0x000A]{0x0107,0x0001}!{0xBE01}[0x000A]Y...{0xBE01}[0x000A]¡{0x0102,0x0000} ha aprendido[0x000A]{0x0107,0x0002}!{0xBE05,0x0004}{0xBE05,0x0001}
+{0x0102,0x0000} no ha aprendido[0x000A]{0x0107,0x0001}.

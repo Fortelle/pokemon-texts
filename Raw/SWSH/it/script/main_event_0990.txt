@@ -1,0 +1,12 @@
+main_event_0990_leader_01=Allenat{0x1100,0x00FF,0x0302}orrice, do il benvenuto a te e alla tua[0x000A]squadra. Il mio nome è Fabia.{0x0114,0x0011}
+main_event_0990_leader_02=Saprete resistere a ogni tipo di attacco[0x000A]con spirito imperturbabile?{0xBE01}[0x000A]Lascia che vi metta alla prova!{0x0114,0x0011}
+main_event_0990_leader_03=Grazie per questo incontro.{0x0114,0x0011}
+main_event_0990_leader_04=Sento di aver imparato molto da voi.{0x0114,0x0011}
+main_event_0990_leader_05=Durante la sfida il mio cuore esultava di felicità...{0xBE01}[0x000A]Nelle lotte è importante restare imperturbabili,[0x000A]ma nessuna sfida può definirsi tale se non{0xBE00}[0x000A]infonde gioia alcuna.{0x0114,0x0011}
+main_event_0990_leader_06=Vi sono profondamente riconoscente.[0x000A]Prendete, la Medaglia Lotta è vostra.{0x0114,0x0011}
+main_event_0990_badge_01=Ora puoi catturare Pokémon fino al livello 40!
+main_event_0990_leader_07=Vi attendono ancora nuovi incontri e nuove sfide.{0xBE01}[0x000A]Che ogni singolo momento della vostra[0x000A]avventura sia nutrimento per il vostro spirito.{0x0114,0x0011}
+main_event_0990_npc_01={0x0100,0x0000}! Hai sconfitto la Capopalestra[0x000A]Fabia! Sei un fenomeno! Brav{0x1100,0x00FF,0x0101}oa!{0xBE01}[0x000A]Eccoti una MT per ricordo!
+main_event_0990_npc_03=E in omaggio ricevi anche una divisa[0x000A]di tipo Lotta.
+main_event_0990_npc_02=La Medaglia Lotta ti si addice proprio![0x000A]Continua così!
+main_event_0990_system_01=Vuoi tornare all’ingresso?

@@ -1,0 +1,111 @@
+Complétion du Pokédex
+{0x0202,0x0000}
+ %
+{0x0202,0x0000} %
+Pokédex d’Alola
+Pokédex de Mele-Mele
+Pokédex d’Akala
+Pokédex d’Ula-Ula
+Pokédex de Poni
+{0xBDFF:0x0009}
+Évaluation du Pokédex
+{0x0202,0x0000}
+{0x0202,0x0000}
+{0x0101,0x0000}
+???
+Mele-Mele
+Akala
+Ula-Ula
+Poni
+{0x0105,0x0000}
+Habitat
+Forme/Cri
+Forme {0x1408,0x0000}{0x0101,0x0000}
+Mâle
+Femelle
+{0xBDFF:0x0019}
+Taille
+Poids
+?????
+???,? m
+???,? kg
+Zoom
+Rotation
+Cri
+Action
+Zone inconnue
+Vit sur une autre île
+{0xBDFF:0x0025}
+{0xBDFF:0x0026}
+{0xBDFF:0x0027}
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+Vous n’avez pas encore attrapé ce Pokémon.[0x000A]Aucun QR Code disponible.
+Sur quel Pokédex veux-tu que je te donne un conseil[0xE07F]?
+{0xBDFF:0x002C}
+Les données {0x1406,0x0000}{0x0101,0x0000}[0x000A]sont ajoutées au Pokédex.
+Pokémon enregistré[0xE07F]!
+Suite
+Voulez-vous donner un surnom {0x1002}{0x1404,0x0000}{0x0102,0x0000}[0xE07F]?
+Oui
+Non
+{0xBDFF:0x0033}
+Que voulez-vous faire[0xE07F]?
+L’inclure dans l’équipe
+L’envoyer dans une Boîte PC
+Choisissez le Pokémon de votre équipe qui lui[0x000A]cédera sa place.
+{0x0102,0x0000} a rejoint votre équipe[0xE07F]!
+{0x0102,0x0000} rejoint votre équipe et[0x000A]{0x0102,0x0001} est envoyé vers une Boîte PC.
+{0x0102,0x0000} est envoyé vers une Boîte PC[0xE07F]!
+Que faire {0x1406,0x0001}{0x0109,0x0001} que tient[0x000A]{0x0102,0x0000}[0xE07F]?
+Ranger l’objet dans le Sac
+Envoyer l’objet vers le PC avec le Pokémon
+{0x0109,0x0000} rangé{0x1102,0x0000,0x0100,0x0201}eses dans le Sac.
+Votre Sac est plein.
+Prendre {0x1400,0x0000}{0x0109,0x0000}
+Envoyer l’objet vers le PC avec le Pokémon
+Vous avez pris {0x1400,0x0000}{0x0109,0x0000}.
+Résumé {0x1408,0x0000}{0x0102,0x0000}
+Résumé de l’équipe
+Trier par
+Nom
+Type 1
+Type 2
+Couleur
+Corps
+Forme
+Capturé[0xE07F]?
+Numéro
+Ordre alphabétique
+Poids décroissant
+Poids croissant
+Taille décroissante
+Taille croissante
+Rouge
+Bleu
+Jaune
+Vert
+Noir
+Brun
+Violet
+Gris
+Blanc
+Rose
+Méga-Évolution
+Chromatique
+Capturé
+Jamais capturé
+－－－
+－－－
+－－－
+Réinitial.
+Valider
+Voulez-vous quitter sans modifier[0x000A]les paramètres[0xE07F]?
+Résultat
+{0x0202,0x0000}/{0x0202,0x0001}
+C’est un Pokémon spécial.[0x000A]Aucun QR Code disponible.
+{0xBDFF:0x006A}
+{0xBDFF:0x006B}
+Si vous échangez ce Pokémon, vous ne pourrez plus[0x000A]continuer votre aventure[0xE07F]!
+{0x0101,0x0000} sera envoyé vers une Boîte PC.[0x000A]N’oubliez pas de récupérer la Ball avant[0xE07F]!
+Alola

@@ -1,0 +1,9 @@
+msg_t001r0101_mother_01={0xFF00,0x0009}Maman :{0xFF00,0x0000} Allez, hop hop hop, mon chéri ! Il est[0x000A]grand temps que tu ailles voir le Professeur Chen.{0xBE01}[0x000A]Si j’ai bien compris, il compte vous donner un[0x000A]Pokémon chacun, à {0x0100,0x0001} et toi.
+msg_t001r0101_mother_02={0xFF00,0x0009}Maman :{0xFF00,0x0000} Allez, hop hop hop, ma chérie ! Il est[0x000A]grand temps que tu ailles voir le Professeur Chen.{0xBE01}[0x000A]Si j’ai bien compris, il compte vous donner un[0x000A]Pokémon chacun, à {0x0100,0x0001} et toi.
+msg_t001r0101_mother_03={0xFF00,0x0009}Maman :{0xFF00,0x0000} {0x0100,0x0000} ![0x000A]Tu devrais faire une petite pause.
+msg_t001r0101_mother_04=Ah ! T{0x1101,0x00FD,0x0202}ones Pokémon et toi avez l’air d’aller mieux !
+msg_t001r0101_mother_05={0xFF00,0x0009}Maman :{0xFF00,0x0000} {0x0100,0x0000} ! Ça va ?[0x000A]Tu as l’air de bien t’amuser avec t{0x1101,0x00FD,0x0202}ones Pokémon !
+msg_t001r0101_mother_06={0xBDFF:0x0005}
+msg_t001r0101_tv_01=Il y a un film à la télé.{0xBE01}[0x000A]Un garçon aux cheveux brun brandit[0x000A]une baguette magique.{0xBE01}[0x000A]Bon... Il serait temps d’y aller.
+msg_t001r0101_tv_02=Il y a un film à la télé.{0xBE01}[0x000A]Une jeune femme se bat avec un sabre bleu.{0xBE01}[0x000A]Bon... Il serait temps d’y aller.
+msg_t001r0101_tv_03=Oups, mauvais côté.

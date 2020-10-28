@@ -1,0 +1,15 @@
+msg_main0905_sys_01={0xBDFF:0x0000}
+msg_main0905_red_01={0xBDFF:0x0001}
+msg_main0905_dummy_01={0xBDFF:0x0002}
+msg_main0905_red_02={0xBDFF:0x0003}
+msg_main0905_green_01=グリーン『よしッ[0x000A]{0x0100,0x0000}から　だな！
+msg_main0905_green_02=いくぜ！
+msg_main0905_dummy_02={0xBDFF:0x0006}
+msg_main0905_green_03=まー　いいけど
+msg_main0905_green_04=グリーン『おう　おうッ！[0x000A]ロケット団に　挑むだけの{0xBE00}[0x000A]ことは　あるじゃん！{0xBE01}[0x000A]シルフカンパニーの　ことは[0x000A]任せたぜ！
+msg_main0905_red_03={0xBDFF:0x0009}
+msg_main0905_sys_02={0xBDFF:0x000A}
+msg_main0905_green_05=よーし！　次は[0x000A]{0x0100,0x0001}だ！{0xBE01}[0x000A]どんどん　いくぜ！
+msg_main0905_rival_01={0xBDFF:0x000C}
+msg_main0905_rival_02={0x0100,0x0001}『ふー[0x000A]見てる　だけで　緊張した……{0xBE01}[0x000A]グリーンさんの　ポケモン　たち[0x000A]なんか　目つき　スゴかった！{0xBE01}[0x000A]オレも　頑張って　みる！[0x000A]{0x0100,0x0000}は　先に　行ってくれ！
+msg_main0905_stafff_01=受付『強くて　有名な[0x000A]グリーンくん……{0xBE01}[0x000A]それほど　手加減　してない[0x000A]ように　見えたわ{0xBE01}[0x000A]すごいのね！　本当に[0x000A]シルフを　助けて　もらえたら……！

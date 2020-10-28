@@ -1,0 +1,8 @@
+msg_t011r0405_staffm_01_01=Il Team Rocket è in subbuglio per la presenza[0x000A]di un{0x1100,0x00FF,0x0808} intruso’intrusa. Sei tu, vero?
+msg_t011r0405_staffm_01_02=Il Team Rocket se l’è data a gambe![0x000A]Grazie! Sei stat{0x1100,0x00FF,0x0101}oa eccezionale!
+msg_t011r0403_report_01=È una relazione riguardante i Pokémon.{0xBE01}[0x000A]Nel nostro reparto di ricerca abbiamo creato[0x000A]Porygon, un Pokémon interamente artificiale.
+msg_t011r0403_report_02=È una relazione riguardante i Pokémon.{0xBE01}[0x000A]È stata confermata l’esistenza di più di 200[0x000A]mosse che possono essere usate dai Pokémon.
+msg_t011r0403_report_03=È una relazione riguardante i Pokémon!{0xBE01}[0x000A]È stato accertato che alcuni Pokémon si[0x000A]evolvono tramite scambio.
+msg_t011r0405_kanban_01=Sede della Silph S.p.A.[0x000A]4º piano
+msg_t011r0405_rocketw_01_01=Non mi guardare! Fai finta di niente! Prima[0x000A]è passato un ragazzino dallo sguardo sfrontato{0xBE00}[0x000A]e ha mandato KO tutta la mia squadra...{0xBE01}[0x000A]Adesso non ho più Pokémon con cui lottare!
+msg_studym1_01_p01_cave_d1005={0xBDFF:0x0007}

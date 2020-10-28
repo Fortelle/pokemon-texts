@@ -1,0 +1,73 @@
+Start the Live Competition
+Yes
+No
+Find an Opponent
+View Previous Match
+Cancel Participation
+View Battle Video
+View Previous Results
+Receive via Infrared
+Receive via QR Code
+Live Competition
+In Live Competition mode, you can participate in[0x000A]competitions with other people.[0x000A][0x000A]For information about official competitions, you can[0x000A]check the official Pokémon website.
+{0x01AF,0x0000}
+{0x01AF,0x0000}
+{0x0201,0x0001}/{0x0201,0x0002}/{0x0203,0x0000,0x0000}
+{0x0100,0x0000}’s Results
+No. of Battles:
+{0x0201,0x0000}
+/
+{0x0201,0x0000}
+Wins:
+{0x0201,0x0000}
+Losses:
+{0x0201,0x0000}
+{0x0122,0x0000}
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+{0x0202,0x0000}
+Opponent
+{0x0100,0x0000}
+{0x0124,0x0000}
+{0x0125,0x0000}
+{0x0100,0x0000} won!
+It was a tie!
+{0x0100,0x0000} won by decision.
+{0x0100,0x0000} won because[0x000A]{0x0100,0x0001}’s time ran out.
+{0x0100,0x0000} won because[0x000A]{0x0100,0x0001} surrendered.
+{0x0200,0x0000}
+{0x0100,0x0000}
+{0x0100,0x0000}
+L
+Welcome to the Live Competition!
+In order to participate in the Live Competition,[0x000A]you need a Digital Player ID.{0xBE01}[0x000A]How would you like to receive it?
+Line up infrared transceivers to receive a[0x000A]Digital Player ID.
+Receiving a Digital Player ID has been canceled.{0xBE01}
+You received a Digital Player ID.{0xBE01}
+Could not receive the Digital Player ID.[0x000A]Please try again.{0xBE01}
+Good job completing your designated matches!{0xBE01}
+Checking the SD Card...[0x000A]Please don’t turn off the power.
+The battle record could not be saved because[0x000A]your SD Card is full.{0xBE01}
+The battle record is corrupted and the video[0x000A]cannot be played.{0xBE01}
+Would you like to cancel the search?
+The search is being canceled.
+Please register the Battle Team to participate[0x000A]in the competition.
+Would you like to unregister from[0x000A]{0x01AF,0x0000}?
+If you cancel your participation in the[0x000A]competition, you won’t be able to play in it!{0xBE01}[0x000A]Do you want to cancel your participation in[0x000A]{0x01AF,0x0000}?
+Your participation in[0x000A]{0x01AF,0x0000}{0xBE00}[0x000A]has been canceled, and your Battle Team has{0xBE00}[0x000A]been unlocked.{0xBE01}
+Registering a Battle Team has been canceled.{0xBE01}
+What would you like to do?
+You haven’t played any matches yet!{0xBE01}
+Searching for an opposing Trainer...[0x000A]Press the B Button to cancel.
+Communicating...[0x000A]Please wait a moment.
+Press the A Button at the starting signal.
+Your competition regulations did not match.{0xBE01}
+This is the previous match.[0x000A]Would you like to view its Battle Video?
+No battle record was found.{0xBE01}
+The data has been sent.{0xBE01}
+Would you like to give up on registering your[0x000A]Battle Team?
+Saving...
+You are already participating or have already[0x000A]participated in this competition.{0xBE01}
+Register your Battle Team
+Your participation in[0x000A]{0x01AF,0x0000}{0xBE00}[0x000A]has been canceled.{0xBE01}
+You cannot participate in this competition.{0xBE01}

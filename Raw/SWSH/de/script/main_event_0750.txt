@@ -1,0 +1,8 @@
+main_event_0750_tlop_01=Am nächsten Morgen...
+main_event_0750_sister_01=Morgen, {0x0100,0x0000}!{0x0114,0x000D}
+main_event_0750_sister_02=Dein Kumpel ist schon los zur Arena.[0x000A]Er war völlig aus dem Häuschen!{0xBE01}[0x000A]Er meinte, er hätte mithilfe der Infos auf Kabus[0x000A]Ligakarte die perfekte Strategie gegen ihn{0xBE00}[0x000A]ausgeklügelt...{0xBE01}[0x000A]Bevor er abgedüst ist, hat er mir einen riesigen[0x000A]Stapel von Kabus Ligakarten gegeben.{0xBE01}[0x000A]Hier, nimm doch auch eine...{0x0114,0x000D}
+main_event_0750_sister_04=Hast du noch kurz Zeit für einen Kampf?{0xBE01}[0x000A]Ich würde gerne wissen, wie hoch meine[0x000A]Gewinnchancen bei der Arena-Challenge sind.{0x0114,0x000D}
+main_event_0750_sister_05=Hm...{0xBE01}[0x000A]Damit ist die Sache klar... Morpeko und der Rest[0x000A]meines Teams brauchen mehr Training.{0xBE01}[0x000A]Hier, lass mich dein{0x1101,0x00FD,0x0100}e Pokémon für dich heilen.[0x000A]Das bin ich dir schuldig.{0x0114,0x000D}
+main_event_0750_sister_06=Oh, und das kannst du auch haben...[0x000A]Als Dank für unseren Kampf gestern.{0x0114,0x000D}
+main_event_0750_sister_03=Kennst du Kabus Spitznamen? Er wird auch der[0x000A]„unauslöschliche Feuer-Veteran“ genannt.{0xBE01}[0x000A]Aber ich hab das Gefühl, dass er dir keine[0x000A]großen Probleme bereiten wird.{0xBE01}[0x000A]So, und jetzt ab mit dir! Geh zum Engine-Stadion[0x000A]und schnapp dir den Feuer-Orden!{0x0114,0x000D}
+main_event_0750_poke1_01=Peko!{0x0114,0x0070}

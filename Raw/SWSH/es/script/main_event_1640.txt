@@ -1,0 +1,11 @@
+main_event_1640_administrator_02=Bienvenidos al espacio exclusivo del Presidente[0x000A]Rose, a 300 metros sobre el suelo.{0x0114,0x0007}
+main_event_1640_administrator_03=Conque habéis logrado zafaros del personal[0x000A]selecto a quien había ordenado deteneros...{0xBE01}[0x000A]Bueno, sabiendo que os recomienda el Campeón[0x000A]en persona, lo contrario habría resultado...{0xBE00}[0x000A]decepcionante.{0x0114,0x0007}
+main_event_1640_administrator_04=Pero me temo que ha llegado la hora de dar[0x000A]media vuelta y volver por donde habéis venido.{0x0114,0x0007}
+main_event_1640_administrator_05=Porque una cosa está clara...{0x0114,0x0007}
+main_event_1640_administrator_06=¡No permitiré que nadie importune al señor Rose!{0xBE01}[0x000A]¡Y esta vez intervendré yo directamente para[0x000A]asegurarme!{0x0114,0x0007}
+main_event_1640_administrator_07=Empezaré contigo, {0x0100,0x0000}.{0xBE01}[0x000A]Cuando te haya dado tu merecido, el Campeón[0x000A]quedará tan sumamente decepcionado y abatido{0xBE00}[0x000A]que sin duda escuchará al señor Rose.{0x0114,0x0007}
+main_event_1640_administrator_08=Ah... Ha sido un error subestimar la fuerza de un{0x1100,0x00FF,0x0100}a[0x000A]Aspirante que ha conseguido llegar hasta aquí.{0x0114,0x0007}
+main_event_1640_administrator_09=Mi inclinación natural sería ignorar el resultado[0x000A]y tratar de obstruiros el paso a toda costa.{0xBE01}[0x000A]Pero, bien pensado, ya hemos reunido todas las[0x000A]Estrellas Deseo que necesitábamos, así que...{0xBE00}[0x000A]Haced como gustéis, que de nada os servirá.{0x0114,0x0007}
+main_event_1640_rival_01=¡Qué fuerte, {0x0100,0x0000}![0x000A]¡No hay quien os pare a {0x0101,0x0001} y a ti!{0x0114,0x0005}
+main_event_1640_rival_02=Ten cuidado, {0x0100,0x0000}.{0x0114,0x0005}
+main_event_1640_administrator_10=Ya lo he dispuesto todo para hacer realidad sus[0x000A]planes, señor presidente...{0x0114,0x0007}

@@ -1,0 +1,9 @@
+msg_sub030_oldm_01=Hello there!{0xBE01}[0x000A]I’ve been watching you walk right past me this[0x000A]whole time, and I was hoping you’d come to visit{0xBE00}[0x000A]me someday.{0xBE01}[0x000A]I was really lonely...{0xBE01}[0x000A]Why did I make a pond right in front of[0x000A]my house...?
+msg_sub030_oldm_02=Just going for a walk is troublesome.{0xBE01}[0x000A]I was so shortsighted when I was young.[0x000A]I was so stupid, stupid, stupid!
+msg_sub030_oldm_05=I was such an idiot!
+msg_sub030_oldm_03=...Phew![0x000A]Sorry for my toxic venting, but I feel better now.{0xBE01}[0x000A]So I’ll give you a TM!
+msg_sub030_oldm_04=TM26 contains Poison Jab, a scary toxic move![0x000A]It’s more toxic than my venting.{0xBE01}[0x000A]It stabs the opponent with a poisonous arm and[0x000A]may poison the opponent!
+msg_oldman2_01_p01_field_t007={0xBDFF:0x0005}
+msg_oldman2_01_p02_field_t007={0xBDFF:0x0006}
+msg_oldman2_01_p03_field_t007={0xBDFF:0x0007}
+msg_oldman2_01_p04_field_t007={0xBDFF:0x0008}

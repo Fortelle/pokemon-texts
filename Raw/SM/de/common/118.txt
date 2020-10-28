@@ -1,0 +1,111 @@
+Pokédex-Fortschritt
+{0x0202,0x0000}
+%
+{0x0202,0x0000} %
+Alola-Pokédex
+Mele-Mele-Pokédex
+Akala-Pokédex
+Ula-Ula-Pokédex
+Poni-Pokédex
+{0xBDFF:0x0009}
+Pokédex bewerten lassen
+{0x0202,0x0000}
+{0x0202,0x0000}
+{0x0101,0x0000}
+???
+Mele-Mele
+Akala
+Ula-Ula
+Poni
+{0x0105,0x0000}
+Habitat
+Form/Ruf
+{0x0101,0x0000}
+Männlich
+Weiblich
+{0xBDFF:0x0019}
+Größe:
+Gewicht:
+???
+???,? m
+???,? kg
+Zoomen
+Drehen
+Ruf
+Pose
+Habitat unbekannt
+Stammt von einer anderen Insel
+{0xBDFF:0x0025}
+{0xBDFF:0x0026}
+{0xBDFF:0x0027}
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+Es liegt kein QR Code vor, da dieses Pokémon[0x000A]noch nicht gefangen wurde.
+Welcher Pokédex soll bewertet werden?
+{0xBDFF:0x002C}
+Für {0x0101,0x0000} wurde ein Eintrag[0x000A]im Pokédex angelegt.
+Registriert!
+Weiter
+Möchtest du dem {0x0102,0x0000}[0x000A]einen Spitznamen geben?
+Ja
+Nein
+{0xBDFF:0x0033}
+Wohin soll {0x0102,0x0000} geschickt werden?
+In mein Team
+In eine PC-Box
+Bitte wähle ein Pokémon aus deinem Team,[0x000A]das abgelegt werden soll.
+{0x0102,0x0000} wurde in dein Team aufgenommen!
+{0x0102,0x0000} wird in dein Team aufgenommen und[0x000A]{0x0102,0x0001} in eine PC-Box geschickt.
+{0x0102,0x0000} wird in eine PC-Box geschickt!
+{0x0102,0x0000} trägt das Item {0x0109,0x0001}.[0x000A]Was möchtest du tun?
+Item im Beutel verstauen
+Pokémon mitsamt Item an PC-Box schicken
+{0x0109,0x0000} im Beutel verstaut.
+Du hast keinen Platz dafür!
+{0x0109,0x0000} zurücknehmen
+Pokémon mitsamt Item an PC-Box schicken
+{0x0109,0x0000} zurückgenommen.
+Bericht von {0x0102,0x0000}
+Team-Bericht
+Reihenfolge
+Name
+Typ 1
+Typ 2
+Farbe
+Silhouette
+Form
+Gefangen?
+Nummer
+A bis Z
+Schwer zuerst
+Leicht zuerst
+Groß zuerst
+Klein zuerst
+Rot
+Blau
+Gelb
+Grün
+Schwarz
+Braun
+Violett
+Grau
+Weiß
+Rosa
+Mega-Entwicklung
+Schillernd
+Ja
+Nein
+－－－
+－－－
+－－－
+Neu
+O.K.
+Änderungen an den Einstellungen werden[0x000A]nicht übernommen. Wirklich abbrechen?
+Treffer:
+{0x0202,0x0000}/{0x0202,0x0001}
+Es liegt kein QR Code vor, da es sich hierbei[0x000A]um ein besonderes Pokémon handelt.
+{0xBDFF:0x006A}
+{0xBDFF:0x006B}
+Wenn du dieses Pokémon tauschst, kannst du[0x000A]dein Abenteuer nicht fortsetzen!
+{0x0101,0x0000} wird in eine PC-Box geschickt.[0x000A]Vergiss nicht, den Pokéball einzusammeln!
+Alola

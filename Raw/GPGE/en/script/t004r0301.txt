@@ -1,0 +1,15 @@
+msg_t004r0301_middlef_01=I was stopped when I tried to enter a Poké Mart[0x000A]with my dear Onixie!{0xBE01}[0x000A]That was utterly unnecessary. My Onixie is[0x000A]such a good boy that it goes into its Poké Ball{0xBE00}[0x000A]in a tight space even without being asked!
+msg_t004r0301_poke_01=ONIXIE: Jam jam.
+test_00={0xBDFF:0x0002}
+msg_kanpou_01_p01_t004_r0701={0xBDFF:0x0003}
+msg_kanpou_01_p02_t004_r0701={0xBDFF:0x0004}
+msg_kanpou_01_p03_t004_r0701={0xBDFF:0x0005}
+msg_kanpou_01_p04_t004_r0701={0xBDFF:0x0006}
+msg_kanpou_01_p05_t004_r0701={0xBDFF:0x0007}
+msg_kanpou_01_p06_t004_r0701={0xBDFF:0x0008}
+msg_kanpou_01_p07_t004_r0701={0xBDFF:0x0009}
+msg_kanpou_01_p08_t004_r0701={0xBDFF:0x000A}
+msg_kanpou_01_p09_t004_r0701={0xBDFF:0x000B}
+msg_kanpou_01_p10_t004_r0701={0xBDFF:0x000C}
+msg_kanpou_01_p11_t004_r0701={0xBDFF:0x000D}
+msg_kanpou_01_p12_t004_r0701={0xBDFF:0x000E}

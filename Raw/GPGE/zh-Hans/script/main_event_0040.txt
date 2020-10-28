@@ -1,0 +1,16 @@
+msg_main0040_rival_01={0xBDFF:0x0000}
+msg_main0040_doctor_01={0xBDFF:0x0001}
+msg_main0040_doctor_02={0xBDFF:0x0002}
+msg_main0040_doctor_04={0xBDFF:0x0003}
+msg_main0040_doctor_05={0xBDFF:0x0004}
+msg_main0040_doctor_03=大木博士：喂，你要去哪里！？[0x000A]快回来！
+msg_main0040_rival_02={0xBDFF:0x0006}
+msg_main0040_new_rival_01={0x0100,0x0001}：大木博士！{0xBE01}[0x000A]那边刚才明明就只有２个精灵球的，[0x000A]现在怎么变成３个了！
+msg_main0040_new_doctor_01=大木博士：没事没事！[0x000A]那里有１个是{0x0100,0x0000}刚才{0xBE00}[0x000A]捉到的{0x0101,0x0002}唷！
+msg_main0040_new_rival_02={0x0100,0x0001}：是{0x0100,0x0000}[0x000A]自己捉到的吗？
+msg_main0040_new_rival_03=哇！吓我一跳！
+msg_main0040_new_doctor_02=大木博士：哇哈哈哈！[0x000A]真是有意思唷！
+msg_main0040_new_doctor_04={0x0100,0x0000}啊！[0x000A]这次记得要把精灵球{0xBE00}[0x000A]牢牢地抓在手里喔！
+msg_main0040_new_doctor_03=好了！快过去拿[0x000A]属于你的{0x0101,0x0002}吧！
+msg_main0040_new_rival_04={0x0100,0x0000}捉到的宝可梦[0x000A]好像在中间的那个精灵球里啊。
+msg_main0040_new_rival_05={0x0100,0x0001}：它好像在说[0x000A]“不是那边呀”似的！

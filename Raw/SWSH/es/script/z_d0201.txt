@@ -1,0 +1,8 @@
+msg_d0201_npc1_01=¡Hola! Mi hermana pequeña y yo nos hemos[0x000A]tomado la libertad de montar un Centro{0xBE00}[0x000A]Pokémon provisional.{0xBE01}[0x000A]Cruzar la Mina de Galar no es ningún paseo,[0x000A]¿verdad? ¡Deja que cure a tu{0x1101,0x00FD,0x0100}s Pokémon!
+msg_d0201_npc1_02=Vuelve cuando tu{0x1101,0x00FD,0x0100}s Pokémon necesite{0x1101,0x00FD,0x0100}n un poco[0x000A]de ayuda para reponerse.
+msg_d0201_npc1_03=¡Bienvenid{0x1100,0x00FF,0x0101}oa al Centro Pokémon provisional![0x000A]¿Quieres que cure a tu{0x1101,0x00FD,0x0100}s Pokémon?
+msg_d0201_npc1_04=¡{0x0101,0x0000} ha recobrado toda su energía!
+msg_d0201_npc1_05=¡Tu equipo ha recobrado toda su energía!
+msg_d0201_npc2_01=¡Hola! Mi hermana mayor y yo nos hemos tomado[0x000A]la libertad de montar un Centro Pokémon{0xBE00}[0x000A]provisional.{0xBE01}[0x000A]Tu{0x1101,0x00FD,0x0100}s Pokémon debe{0x1101,0x00FD,0x0100}n de estar muy cansado{0x1101,0x00FD,0x0100}s tras[0x000A]cruzar la mina, ¿no? ¡Deja que lo{0x1101,0x00FD,0x0100}s cure!
+msg_d0201_npc2_02=Una vez atravesada la Mina de Galar comienza[0x000A]la Ruta 4.{0xBE01}[0x000A]¡Ánimo, Aspirante, que ya te queda muy poco[0x000A]para llegar a Pueblo Hoyuelo!
+msg_d0201_npc2_03=¡Hola! Mi hermana mayor y yo nos hemos tomado[0x000A]la libertad de montar un Centro Pokémon{0xBE00}[0x000A]provisional.{0xBE01}[0x000A]¿Quieres que cure a tu{0x1101,0x00FD,0x0100}s Pokémon?

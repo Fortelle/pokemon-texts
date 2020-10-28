@@ -1,0 +1,12 @@
+main_event_0270_rival_01=저기 계신 분이 박사님이야!{0x0114,0x0005}
+main_event_0270_champion_01=다이맥스의 비밀은[0x000A]100% 밝혀진 건가요?{0x0114,0x0004}
+main_event_0270_doctor_01=아니 그럴 리가...[0x000A]아직 수수께끼투성이란다{0xBE01}[0x000A]손녀가 내 뒤를 이어주었으면 하는[0x000A]생각이었다만...{0x0114,0x0042}
+main_event_0270_doctor_02=이거 미안하게 됐구나[0x000A]손님이 오는 걸 눈치채지 못하다니{0x0114,0x0042}
+main_event_0270_doctor_03=내 이름은 매그놀리아란다[0x000A]환영한다 젊은 트레이너들아{0xBE00}[0x000A]일단 집으로 들어가자꾸나{0x0114,0x000A}
+main_event_0270_rival_02={0xBDFF:0x0005}
+main_event_0270_doctor_04={0xBDFF:0x0006}
+main_event_0270_champion_02={0xBDFF:0x0007}
+main_event_0270_doctor_05={0xBDFF:0x0008}
+main_event_0270_champion_03={0xBDFF:0x0009}
+main_event_0270_champion_04={0xBDFF:0x000A}
+main_event_0270_doctor_06={0xBDFF:0x000B}

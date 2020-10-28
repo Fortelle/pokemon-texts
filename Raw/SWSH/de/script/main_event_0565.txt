@@ -1,0 +1,9 @@
+main_event_0565_rival_01=Hey, {0x0100,0x0000}! Schau mal, schau mal![0x000A]Das Arena-Stadion von Turffield! Wir sind da!{0x0114,0x0005}
+main_event_0565_rival_02=Arenaleiter Yarro ist zwar wieder zurück, aber[0x000A]die anderen Challenger waren schneller als wir...{0xBE01}[0x000A]Sieht so aus, als müssten wir eine Weile warten,[0x000A]bis am Arena-Stadion etwas weniger Andrang ist.{0x0114,0x0005}
+main_event_0565_rival_03=Ach übrigens, Sania hat nach dir gesucht.[0x000A]Sie will dich was fragen, {0x0100,0x0000}.{0xBE01}[0x000A]Mich hat sie auch schon damit genervt, aber ich[0x000A]hab nicht ganz geschnallt, was sie von mir wollte.{0xBE01}[0x000A]Du solltest sie auf dem Hügel finden.{0x0114,0x0005}
+main_event_0565_rival_04=Wenn du den Hügel nicht sofort findest, dann[0x000A]wirf einfach einen Blick auf deine Karte.{0x0114,0x0005}
+main_event_0565_poke1_03=Vol, vol!
+main_event_0565_rival_05=Hey, das ist doch Sanias Voldi! Am besten folgst[0x000A]du ihm einfach. Es ist der geborene Wegweiser!{0x0114,0x0005}
+main_event_0565_poke1_01=Vol, vol!
+main_event_0565_poke1_02=Vol, vol, vol!
+main_event_0565_rival_06=Sania fragt sich bestimmt schon, wo du bleibst,[0x000A]{0x0100,0x0000}. Lass sie nicht zu lange warten!{0xBE01}[0x000A]Bis wir gegen Yarro kämpfen können, dauert es[0x000A]sowieso noch eine Weile.{0x0114,0x0005}

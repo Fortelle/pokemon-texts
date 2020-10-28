@@ -1,0 +1,11 @@
+main_event_1370_sister_01=Franchement, j’suis émue.{0x0114,0x000D}
+main_event_1370_leader_01=Tu regardais, sœurette ?[0x000A]C’était pas très reluisant pour moi...{0x0114,0x0016}
+main_event_1370_sister_02=Mais si ! J’adore mater ton style de combat.[0x000A]T’es mon modèle, frérot.{0x0114,0x000D}
+main_event_1370_leader_02=Ouais, ouais.{0xBE01}[0x000A]Au fait, Rosemary ![0x000A]Faudrait qu’on cause d’un truc.{0x0114,0x0016}
+main_event_1370_leader_03=J’aimerais bien te céder l’Arène de Smashings.[0x000A]Tu ferais une bonne Championne.{0x0114,0x0016}
+main_event_1370_sister_03=Ouais, j’sais.[0x000A]Tu veux arrêter à la fin du tournoi, c’est ça ?{0x0114,0x000D}
+main_event_1370_sister_04=Moi, j’pense que t’assures. Tu dynamaxes pas[0x000A]tes Pokémon, et alors ? T’es un super Champion.{0x0114,0x000D}
+main_event_1370_sister_05=Donc tu m’excuseras, mais non. Hors de question[0x000A]que je devienne Championne à ta place.{0x0114,0x000D}
+main_event_1370_sister_06=Et puis bon, mon but, c’est d’être Maître.[0x000A]Je peux pas être Championne aussi.{0x0114,0x000D}
+main_event_1370_leader_04=Je comprends.{0xBE01}[0x000A]Voyons voir si tu as l’étoffe d’un Maître.[0x000A]Battons-nous !{0x0114,0x0016}
+main_event_1370_sister_07=Dis, {0x0100,0x0000}...[0x000A]Merci encore pour ce super combat,{0xBE00}[0x000A]ça s’voit que mon frère a adoré.{0xBE01}[0x000A]Mais là, c’est à moi de l’affronter.[0x000A]Tu veux bien nous laisser en tête à tête ?{0xBE00}[0x000A]C’est un truc de famille.{0x0114,0x000D}

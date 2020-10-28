@@ -1,0 +1,11 @@
+main_event_3092_system_01=*Motidring*[0x000A]*Motidriiing*
+main_event_3092_rival_01={0x0100,0x0000} ![0x000A]Y’a ton Motismart qui sonne.{0x0114,0x0005}
+main_event_3092_doctor_01={0x0100,0x0000} ! Au secours ![0x000A]Les deux clowns ont débarqué au labo !{0x0114,0x000B}
+main_event_3092_rival_02=Quoi ?! Sonya, ça va ?{0x0114,0x0005}
+main_event_3092_doctor_02=Ils réclament les Étoiles Vœu ! J’arrive à les tenir[0x000A]à distance pour l’instant, mais ça va pas durer.{0xBE00}[0x000A]Franchement, je commence à flipper... Venez vite !{0x0114,0x000B}
+main_event_3092_system_02=*Tûûût*
+main_event_3092_aku_01=Ils en ont après les Étoiles Vœu, aussi ?{0x0114,0x0016}
+main_event_3092_rival_03=Allons sauver Sonya et récupérer[0x000A]l{0x1104,0x0001,0x0102}e ’{0x0109,0x0001} !{0x0114,0x0005}
+main_event_3092_rival_04=On fonce au labo !{0x0114,0x0005}
+main_event_3092_aku_02=Non, mais sérieux, il réfléchit, des fois,[0x000A]avant de se lancer ?{0x0114,0x0016}
+main_event_3092_aku_03=Enfin bon, s’il faut aller au labo, allons au labo...{0x0114,0x0016}

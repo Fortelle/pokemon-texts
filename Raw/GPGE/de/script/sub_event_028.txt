@@ -1,0 +1,10 @@
+msg_sub028_sys_01=Ein Getränkeautomat! Was möchtest du kaufen?
+msg_sub028_select_01=Tafelwasser {0xBD03,0x0000}{0x0202,0x0001} [0xE300]
+msg_sub028_select_02=Sprudel {0xBD03,0x0000}{0x0202,0x0001} [0xE300]
+msg_sub028_select_03=Limonade {0xBD03,0x0000}{0x0202,0x0001} [0xE300]
+msg_sub028_select_04=Abbrechen
+msg_sub028_sys_02=Ups, du hast nicht genug Geld!
+msg_sub028_sys_03={0x1603,0x0004}{0x010A,0x0004} liegt im[0x000A]Ausgabeschacht!
+msg_sub028_sys_04=Du kannst keine weiteren Items tragen!
+msg_sub028_sys_05=Du hast keinen Durst!
+msg_sub028_sys_06=Willst du ein weiteres Getränk kaufen?

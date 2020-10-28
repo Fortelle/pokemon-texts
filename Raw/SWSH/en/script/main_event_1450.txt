@@ -1,0 +1,6 @@
+main_event_1450_rival_01=Wait up, {0x0100,0x0000}! I’m coming, too!{0xBE01}[0x000A]I had Raihan beat in no time!{0xBE01}[0x000A]Once I got my head on straight and stopped[0x000A]doubting every decision I made, that is... Heh!{0x0114,0x0005}
+main_event_1450_leader_01=And you never stopped nattering on through[0x000A]the entire battle...{0xBE01}[0x000A]You’re pretty different from the Champion in that!{0x0114,0x0017}
+main_event_1450_leader_02=But your strength is genuine, as proven by the[0x000A]Dragon Badge you won from me.{0xBE01}[0x000A]You came at me with all the force of a raging[0x000A]storm, and even I was blown away!{0x0114,0x0017}
+main_event_1450_leader_03=Listen up, you two!{0xBE01}[0x000A]Battle your way through the Champion Cup[0x000A]tournament to face Leon! One of you ought to!{0x0114,0x0017}
+main_event_1450_rival_02=I reckon I’m still the favorite to win, but I’m up[0x000A]against my true rival, {0x0100,0x0000}...{0xBE01}[0x000A]So I’ll wring out every last thing I learned during[0x000A]my battle with you, Raihan, to beat h{0x1100,0x00FF,0x0202}imer!{0x0114,0x0005}
+main_event_1450_rival_03=So get a move on, {0x0100,0x0000}![0x000A]The train’s waiting!{0x0114,0x0005}

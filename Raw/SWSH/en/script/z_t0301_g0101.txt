@@ -1,0 +1,15 @@
+msg_t0301_g0101_npc1_01=Grass-type Pokémon are weak to Fire-type[0x000A]moves... That’s common sense.
+msg_t0301_g0101_npc1_02=I must congratulate you in obtaining the[0x000A]Grass Badge!{0xBE01}[0x000A]I hope you’re able to get the Water Badge, too!
+msg_t0301_g0101_npc2_01=So, apparently you can’t face the Gym Leader[0x000A]without completing the Gym mission first...{0xBE01}[0x000A]I wonder what we’ll have to do?[0x000A]I’m pretty good at dancing...
+msg_t0301_g0101_npc2_02=but having us chase around Wooloo...[0x000A]Milo’s not as nice as he looks.
+msg_t0301_g0101_npc3_01=You’re a Gym Challenger, right?{0xBE01}[0x000A]I’ll remember your name if you can receive[0x000A]a Grass Badge!
+msg_t0301_g0101_npc3_02=Your name is {0x0100,0x0000}, right?[0x000A]You’re pretty amazing. I’ve become such a fan!
+msg_t0301_g0101_poke1_01_pop=Bzzzi!
+msg_t0301_g0101_npc4_01_pop=Is that kid a Gym[0x000A]Challenger, too?
+msg_t0301_g0101_npc4_02_pop=Milo lost![0x000A]What a match!
+msg_t0301_g0101_npc4_03_pop=Hey, Champion!
+msg_t0301_g0101_npc5_01_pop=I heard that Trainer was[0x000A]endorsed by Leon himself.
+msg_t0301_g0101_npc5_02_pop={0x1100,0x00FF,0x0201}HShe’s not a bad Trainer,[0x000A]I guess.
+msg_t0301_g0101_npc5_03_pop=I’ve seen you on the telly!
+msg_t0301_g0101_npc6_01_pop=I heard that Trainer is[0x000A]Hop’s rival.
+msg_t0301_g0101_npc6_02_pop=That Trainer... {0x1100,0x00FF,0x0201}HShe could be a[0x000A]surprise success.

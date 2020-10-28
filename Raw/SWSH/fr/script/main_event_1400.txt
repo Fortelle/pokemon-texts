@@ -1,0 +1,9 @@
+main_event_1400_rival_01={0x0100,0x0000} !{0x0114,0x0005}
+main_event_1400_rival_02=T’as vu un peu ce qui s’est passé ?[0x000A]C’est ouf !{0x0114,0x0005}
+main_event_1400_select_01=Non... Tarak est pas ici ?
+main_event_1400_select_02=J’ai juste entendu un gros bruit...
+main_event_1400_rival_03=Sérieux, t’aurais dû être là ! Y’a eu un gros[0x000A]« BAAAM », puis le frangin a rappliqué...{0xBE01}[0x000A]Et là, une grande lumière rouge est apparue[0x000A]et un Pokémon sauvage du coin a commencé{0xBE00}[0x000A]à se dynamaxer !{0x0114,0x0005}
+main_event_1400_rival_04=Regarde, ils en parlent aux infos !{0x0114,0x0005}
+main_event_1400_rival_07=Tu vois ? C’est mon frangin ![0x000A]Il a vraiment trop la classe !{0x0114,0x0005}
+main_event_1400_rival_05=Lui et son Dracaufeu ont géré ça comme des pros.{0x0114,0x0005}
+main_event_1400_rival_06=Je savais qu’il était fort, le frangin, mais là...[0x000A]J’en reviens pas !{0xBE01}[0x000A]Enfin bref, allons le rejoindre ![0x000A]Il doit être au Stade de Kickenham !{0x0114,0x0005}

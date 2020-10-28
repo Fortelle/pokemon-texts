@@ -1,0 +1,250 @@
+{0x0102,0x0000}
+{0x0101,0x0000}
+{0x0202,0x0000}
+{0x0202,0x0000}
+{0x0201,0x0000}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+-
+l
+N° Pokédex 
+???
+Nome
+Tipo
+AO
+{0x0100,0x0000}
+PS
+/
+Attacco
+Difesa
+Att. Sp.
+Dif. Sp.
+Velocità
+Natura
+{0x0108,0x0000}
+Abilità
+{0x0106,0x0000}
+Strumento
+{0x0109,0x0000}
+Mosse
+{0x0107,0x0000}
+{0x010B,0x0000}
+Giudice
+Squadra
+{0xBDFF:0x0021}
+Gruppo 1
+Gruppo 2
+Gruppo 3
+Sposta
+Info
+Strumento
+Segna
+Libera
+Rimuovi
+Cambia Box
+Sfondo
+Nome
+In Borsa
+Dai
+Registra
+Indietro
+Lista 1
+Lista 2
+Lista 3
+Extra
+Foresta
+Città
+Deserto
+Savana
+Rocce
+Vulcano
+Neve
+Grotta
+Spiaggia
+Fondale
+Fiume
+Cielo
+Centro Pokémon
+Metallo
+Quadretti
+Semplice
+Esci
+Ok
+Sì
+No
+Vuoi uscire dai Box?
+Pokémon selezionato: {0x0102,0x0000}
+Devi avere almeno un Pokémon in forma con te.
+Cosa vuoi fare?
+Vuoi cambiare il nome della squadra?
+Scegli un Box.
+Scegli un tema.
+Quale sfondo vuoi usare?
+Vuoi prendere {0x1500,0x0000}{0x0109,0x0000}?
+Hai messo {0x1500,0x0000}{0x0109,0x0000} in Borsa.
+Hai raggiunto il limite per questo oggetto!
+Non puoi dare uno strumento a un Uovo!
+Scegli uno o più simboli.
+Vuoi davvero liberarlo?
+Hai liberato {0x0102,0x0000}!
+Addio, {0x0102,0x0000}!
+Hai selezionato {0x1500,0x0000}{0x0109,0x0000}!
+Il Pokémon può avere uno strumento.
+Non puoi liberare un Uovo!
+Non puoi liberare un Kyurem endofuso!
+Non puoi registrare un Uovo!
+Dove vuoi registrarlo?
+Vuoi tornare al Poké Resort?
+Vuoi rimuovere {0x1500,0x0000}{0x0109,0x0000}?
+Hai rimosso {0x1500,0x0000}{0x0109,0x0000}.
+Scambia
+Deposita
+Rimuovi
+Esci
+Sì
+No
+Il Pokémon verrà scambiato. Continuare?
+Il Pokémon verrà rimosso dalla Squadra Lotta e[0x000A]scambiato. Continuare?
+Questo Pokémon non può essere scambiato.
+Se scambi quel Pokémon, non potrai[0x000A]procedere nell’avventura!
+Non puoi scambiare un Uovo.
+Non puoi scambiare un Pokémon[0x000A]registrato nella Squadra Lotta.
+È un Pokémon speciale, non puoi scambiarlo!
+Questo Pokémon ha uno strumento speciale[0x000A]e non può essere scambiato.
+Comunicazione in corso.[0x000A]Attendi...
+In questo momento la Squadra Lotta è bloccata.[0x000A]Non puoi liberare i Pokémon.
+In questo momento la Squadra Lotta è bloccata.[0x000A]Non puoi spostare i Pokémon.
+In questo momento la Squadra Lotta è bloccata.[0x000A]Non puoi cambiare gli strumenti.
+In questo momento la Squadra Lotta è bloccata.[0x000A]Non puoi aggiungere o rimuovere simboli.
+Questo Pokémon ti è stato affidato da Sina![0x000A]Non puoi liberarlo.
+Questo Pokémon ti è stato affidato da Sina![0x000A]Non puoi scambiarlo.
+La Squadra Lotta è bloccata![0x000A]Non puoi registrare altri Pokémon.
+Non puoi liberare un Pokémon registrato in una[0x000A]Squadra Lotta.
+Non puoi aggiungere al gruppo un Pokémon[0x000A]registrato in una Squadra Lotta.
+In attesa della risposta dell’altro giocatore...
+Tempo:
+{0xBDFF:0x007D}
+Mediocre
+Sufficiente
+Normale
+Notevole
+Eccellente
+Stellare
+Nel complesso, il potenziale del Pokémon è discreto.
+Nel complesso, il potenziale del Pokémon è sopra la media.
+Nel complesso, il potenziale del Pokémon è ottimo.
+Nel complesso, il potenziale del Pokémon è eccellente!
+Azzera
+Cerca
+-
+Pokémon
+{0x0101,0x0000}
+Tipo 1
+{0x0103,0x0000}
+Tipo 2
+{0x0103,0x0000}
+Mossa
+{0x0107,0x0000}
+MT
+{0x0107,0x0000}
+Abilità
+{0x0106,0x0000}
+Natura
+{0x0108,0x0000}
+Sesso
+[0xE08E]
+[0xE08F]
+Sconosciuto
+Strumento
+{0x0109,0x0000}
+Simboli
+Sì
+No
+Registrati
+Sì
+No
+Squadra
+{0xBDFF:0x00A6}
+Imposta dei criteri e seleziona “Cerca”[0x000A]per visualizzare i risultati.
+Scegli la prima lettera del Pokémon da cercare.
+Scegli un Pokémon.
+Scegli il primo tipo.
+Scegli il secondo tipo.
+Scegli la prima lettera della mossa da cercare.
+Scegli una mossa.
+Scegli una MT per cercare i Pokémon che possono usare[0x000A]la mossa corrispondente.
+Scegli la prima lettera dell’abilità da cercare.
+Scegli un’abilità.
+Scegli la natura del Pokémon.
+Scegli il sesso del Pokémon.
+Cerca i Pokémon con o senza uno strumento.
+Cerca i Pokémon che hanno dei simboli.
+Cerca i Pokémon registrati in una squadra.
+Cerca i Pokémon registrati nella squadra selezionata.
+{0x0103,0x0001}
+{0x0103,0x0002}
+{0x0107,0x0000}
+{0x0106,0x0000}
+{0x0108,0x0000}
+Il Pokémon cresce in modo equilibrato.
+L’Attacco tende a crescere di più.[0x000A]La Difesa tende a crescere di meno.
+L’Attacco tende a crescere di più.[0x000A]La Velocità tende a crescere di meno.
+L’Attacco tende a crescere di più.[0x000A]L’Attacco Speciale tende a crescere di meno.
+L’Attacco tende a crescere di più.[0x000A]La Difesa Speciale tende a crescere di meno.
+La Difesa tende a crescere di più.[0x000A]L’Attacco tende a crescere di meno.
+Il Pokémon cresce in modo equilibrato.
+La Difesa tende a crescere di più.[0x000A]La Velocità tende a crescere di meno.
+La Difesa tende a crescere di più.[0x000A]L’Attacco Speciale tende a crescere di meno.
+La Difesa tende a crescere di più.[0x000A]La Difesa Speciale tende a crescere di meno.
+La Velocità tende a crescere di più.[0x000A]L’Attacco tende a crescere di meno.
+La Velocità tende a crescere di più.[0x000A]La Difesa tende a crescere di meno.
+Il Pokémon cresce in modo equilibrato.
+La Velocità tende a crescere di più.[0x000A]L’Attacco Speciale tende a crescere di meno.
+La Velocità tende a crescere di più.[0x000A]La Difesa Speciale tende a crescere di meno.
+L’Attacco Speciale tende a crescere di più.[0x000A]L’Attacco tende a crescere di meno.
+L’Attacco Speciale tende a crescere di più.[0x000A]La Difesa tende a crescere di meno.
+L’Attacco Speciale tende a crescere di più.[0x000A]La Velocità tende a crescere di meno.
+Il Pokémon cresce in modo equilibrato.
+L’Attacco Speciale tende a crescere di più.[0x000A]La Difesa Speciale tende a crescere di meno.
+La Difesa Speciale tende a crescere di più.[0x000A]L’Attacco tende a crescere di meno.
+La Difesa Speciale tende a crescere di più.[0x000A]La Difesa tende a crescere di meno.
+La Difesa Speciale tende a crescere di più.[0x000A]La Velocità tende a crescere di meno.
+La Difesa Speciale tende a crescere di più.[0x000A]L’Attacco Speciale tende a crescere di meno.
+Il Pokémon cresce in modo equilibrato.
+{0xBDFF:0x00D5}
+{0x0200,0x0000}
+/
+Nei Box puoi depositare i tuoi Pokémon per[0x000A]gestirli e organizzarli come preferisci.[0x000A][0x000A]Puoi accedere ai Box dal PC che trovi nei[0x000A]Centri Pokémon.
+I Box prevedono tre modalità, selezionabili[0x000A]tramite il pulsante X.[0x000A][0x000A]La prima modalità ti permette di gestire i[0x000A]Pokémon spostandoli dalla squadra ai Box[0x000A]o viceversa, cambiandone l’ordine e altro.
+La seconda modalità ti permette di gestire[0x000A]gli strumenti dandoli ai Pokémon o rimettendoli[0x000A]nella Borsa.
+La terza modalità ti permette di impostare delle[0x000A]Squadre Lotta in vista delle lotte.[0x000A][0x000A]Puoi impostare un massimo di 6 Squadre Lotta[0x000A]e puoi aggiungere lo stesso Pokémon in squadre[0x000A]diverse.[0x000A]Crea varie squadre con diverse strategie[0x000A]di lotta!
+Premi START o SELECT per cambiare il colore[0x000A]e la funzione della freccia di selezione.[0x000A][0x000A]La freccia rossa ti permette di accedere ai[0x000A]menu di opzione per le operazioni nei Box.[0x000A]La freccia blu ti permette di spostare[0x000A]rapidamente singoli Pokémon.[0x000A]La freccia verde ti permette di selezionare più[0x000A]Pokémon contemporaneamente.
+Premi il pulsante Y per usare la funzione[0x000A]di ricerca.[0x000A][0x000A]Impostando criteri di ricerca come nome, tipo,[0x000A]mosse e altro, potrai trovare rapidamente[0x000A]i Pokémon che cerchi.
+{0xBDFF:0x00DE}
+Mostrami i tuoi Pokémon!
+Quel Pokémon mi interessa![0x000A]Vuoi scambiarlo con il mio?
+Vorrei vedere un altro Pokémon.
+Non ho altri Pokémon da scambiare.
+Per favore!
+Grazie!
+Mi dispiace...
+Ciao!
+Vorrei scambiare il mio Pokémon[0x000A]con {0x0101,0x0000}.
+Sto guardando le info del Pokémon...
+Ti offro {0x0101,0x0000}.
+Sto cercando un Pokémon...
+...
+Tuo Pokémon
+Suo Pokémon
+Indietro
+L’altro giocatore ha annullato lo scambio.
+Lo scambio è stato annullato.
+C’è un problema con il Pokémon dell’altro[0x000A]giocatore. Non è possibile eseguire lo scambio.
+Vuoi uscire dagli scambi?
+Uno dei giocatori ha scelto di terminare[0x000A]gli scambi.
+Interruzione della comunicazione.[0x000A]Attendi...
+Se scambi questo Pokémon, riprenderai[0x000A]{0x1500,0x0000}{0x0109,0x0000}. Continuare?
+C’è un problema con il tuo Pokémon.[0x000A]Non è possibile eseguire lo scambio.
+Impossibile stabilire la comunicazione.
+Forma al top!
+Non puoi selezionare un Uovo.

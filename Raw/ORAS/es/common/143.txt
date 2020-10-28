@@ -1,0 +1,47 @@
+Sí
+No
+¿Quieres interrumpir la comunicación?
+Combate Individual
+Combate Doble
+Combate Triple
+Combate Rotatorio
+Combate Múltiple
+Reglas normales
+Con restricciones
+Sin restricciones
+Coliseo
+Pokémon participantes
+Caja de Combate
+Equipo Pokémon
+{0xFF00,0x0002}♂{0xFF00,0x0000}
+{0xFF00,0x0001}♀{0xFF00,0x0000}
+{0xBDFF:0x0011}
+L
+{0x0202,0x0000}
+Posición
+1.º
+2.º
+3.º
+4.º
+(?)
+Lista de Pokémon
+Bolsa
+¡Que comience el combate!
+Selecciona los Pokémon con los que deseas[0x000A]luchar.
+En espera...
+Ha surgido un problema.[0x000A]El combate se ha cancelado.
+No puedes participar porque no reúnes los[0x000A]requisitos necesarios.
+Preparativos en curso...[0x000A]Por favor, espera.
+¿Qué clase de adversario te consideras?
+Te has desconectado.
+Fuerte
+Medio
+Débil
+Actualizando posiciones...[0x000A]Espera un momento.
+Se ha aplicado el reglamento de Kalos.
+Uno de los participantes está usando[0x000A]Pokémon X o Pokémon Y.[0x000A]Los objetos y movimientos nuevos[0x000A]incorporados en Pokémon Rubí Omega y[0x000A]Pokémon Zafiro Alfa no están permitidos[0x000A]en el combate.
+Siguiente
+Ver detalles
+No permitidos
+No permitidos
+Atrás

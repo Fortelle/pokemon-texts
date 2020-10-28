@@ -1,0 +1,16 @@
+msg_main0040_rival_01={0xBDFF:0x0000}
+msg_main0040_doctor_01={0xBDFF:0x0001}
+msg_main0040_doctor_02={0xBDFF:0x0002}
+msg_main0040_doctor_04={0xBDFF:0x0003}
+msg_main0040_doctor_05={0xBDFF:0x0004}
+msg_main0040_doctor_03={0xFF00,0x0009}Chen :{0xFF00,0x0000} Hep ! Où tu vas comme ça ?[0x000A]Reviens ici !
+msg_main0040_rival_02={0xBDFF:0x0006}
+msg_main0040_new_rival_01={0xFF00,0x0009}{0x0100,0x0001} : {0xFF00,0x0000}Professeur Chen ![0x000A]Il n’y avait que deux Poké Balls sur la table{0xBE00}[0x000A]la dernière fois que j’ai regardé, et maintenant,{0xBE00}[0x000A]il y en a trois ! Comment ça se fait ?
+msg_main0040_new_doctor_01={0xFF00,0x0009}Chen :{0xFF00,0x0000} C’est normal ![0x000A]{0x0100,0x0000} vient de capturer{0xBE00}[0x000A]un petit {0x0101,0x0002} !{0xBE01}[0x000A]Il est dans la troisième Poké Ball.
+msg_main0040_new_rival_02={0xFF00,0x0009}{0x0100,0x0001} :{0xFF00,0x0000} Sérieux ?![0x000A]{0x0100,0x0000} a fait ça tout{0x1100,0x00FF,0x0100}e seul{0x1100,0x00FF,0x0100}e ?
+msg_main0040_new_rival_03=Ouah ! Ça a bougé !
+msg_main0040_new_doctor_02={0xFF00,0x0009}Chen :{0xFF00,0x0000} Ha ha ! C’est marrant, tiens...
+msg_main0040_new_doctor_04={0x0100,0x0000} ![0x000A]L’heure est venue de choisir une Poké Ball !{0xBE00}[0x000A]Saisis-toi de ton destin !
+msg_main0040_new_doctor_03=Je crois bien que c’est {0x0101,0x0002}[0x000A]qui t’a choisi{0x1100,0x00FF,0x0100}e ! Va le prendre.
+msg_main0040_new_rival_04=Le Pokémon que tu as capturé est dans[0x000A]la Poké Ball du milieu, on dirait.
+msg_main0040_new_rival_05={0xFF00,0x0009}{0x0100,0x0001} :{0xFF00,0x0000} On dirait que quelqu’un[0x000A]n’est pas d’accord avec ce choix, ha ha !

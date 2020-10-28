@@ -1,0 +1,38 @@
+Einen schönen guten Morgen![0x000A]Du musst {0x0100,0x0000} sein.{0xBE01}[0x000A]Ich habe {0x0201,0x0001} Geschenk{0x1101,0x0001,0x0100}e für dich erhalten.
+Einen schönen guten Tag![0x000A]Du musst {0x0100,0x0000} sein.{0xBE01}[0x000A]Ich habe {0x0201,0x0001} Geschenk{0x1101,0x0001,0x0100}e für dich erhalten.
+Einen schönen guten Abend![0x000A]Du musst {0x0100,0x0000} sein.{0xBE01}[0x000A]Ich habe {0x0201,0x0001} Geschenk{0x1101,0x0001,0x0100}e für dich erhalten.
+Ich habe leider keine weiteren Geschenke[0x000A]für dich. Bis zum nächsten Mal!
+Welche Art von Geschenk möchtest du[0x000A]annehmen?
+Pokémon
+Items
+Gewinnpunkte
+Pokébohnen
+Ich habe {0x0201,0x0001} Item-Geschenkpaket{0x1101,0x0001,0x0100}e für dich.[0x000A]Wie möchtest du {0x1101,0x0001,0x0302}essie annehmen?
+Ich habe {0x0201,0x0001} GP-Geschenkpaket{0x1101,0x0001,0x0100}e für dich.[0x000A]Wie möchtest du {0x1101,0x0001,0x0302}essie annehmen?
+Ich habe {0x0201,0x0001} Pokébohnen-Geschenkpaket{0x1101,0x0001,0x0100}e[0x000A]für dich. Wie möchtest du {0x1101,0x0001,0x0302}essie annehmen?
+Alle gleichzeitig.
+Erst mal nur eins.
+Abbrechen
+Hier, bitte!
+Hier, bitte!
+{0x0201,0x0001} Item-Geschenkpaket{0x1101,0x0001,0x0100}e angenommen!
+{0x0201,0x0001} GP-Geschenkpaket{0x1101,0x0001,0x0100}e angenommen!
+{0x0201,0x0001} Pokébohnen-Geschenkpaket{0x1101,0x0001,0x0100}e angenommen!
+{0x0208,0x0001,0xE07F} GP erhalten!
+{0x0202,0x0001} Regenbogen-Pokébohne{0x1101,0x0001,0x0100}n erhalten!
+{0x0202,0x0001} Item{0x1101,0x0001,0x0100}s gleichzeitig angenommen!
+Nanu?[0x000A]In deinem Team ist kein Platz mehr...{0xBE01}[0x000A]Komm bitte wieder, wenn du etwas Platz[0x000A]geschaffen hast.
+Ich hoffe, du nimmst unsere Dienste[0x000A]bald wieder in Anspruch!
+Du hast noch nicht alle Geschenke erhalten.[0x000A]Möchtest du das jetzt nachholen?
+Ja bitte.
+Nein danke.
+{0x0101,0x0001} erhalten!
+{0xBD00,0x0007,0x0000,0x0000}{0x0109,0x0001}{0xBD01} erhalten!
+Pokémon-Ei erhalten!
+Ich habe hier ein Pokémon für dich.[0x000A]Möchtest du es annehmen?
+Ich habe hier ein Item-Geschenkpaket für dich.[0x000A]Möchtest du es annehmen?
+Ich habe hier ein GP-Geschenkpaket für dich.[0x000A]Möchtest du es annehmen?
+Ich habe hier ein Pokébohnen-Geschenkpaket[0x000A]für dich. Möchtest du es annehmen?
+Dieses Geschenkpaket enthält als Bonus ein[0x000A]Exemplar des Items {0x0109,0x0001}!{0xBE01}[0x000A]Hier, bitte schön!
+Dieses Geschenkpaket enthält als Bonus ein[0x000A]Exemplar des Items {0x0109,0x0001}!{0xBE01}[0x000A]Nanu?{0xBE01}[0x000A]Wie ich sehe, hast du schon ein Exemplar des[0x000A]Items {0x0109,0x0001}!{0xBE01}[0x000A]Mehr als eins brauchst du nun wirklich nicht.[0x000A]Das hier geht dann eben wieder zurück.
+Abbrechen

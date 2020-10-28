@@ -1,0 +1,12 @@
+main_event_1242_leader_01=Hey there. The name’s Gordie.{0x0114,0x0014}
+main_event_1242_leader_02=So you managed to reach me without falling[0x000A]into any of the holes...{0xBE01}[0x000A]Of course, you’d stand no chance against me if[0x000A]you let a few holes get in your way.{0x0114,0x0014}
+main_event_1242_leader_03=I admit I feel a little bad for doing this to a[0x000A]Gym Challenger, but...{0xBE01}[0x000A]I’m going to use this match to show the crowd[0x000A]that my Pokémon are unbeatable!{0x0114,0x0014}
+main_event_1242_leader_04=So, let’s get this over with, Challenger!{0x0114,0x0014}
+main_event_1242_leader_05=That was...impressive.{0x0114,0x0014}
+main_event_1242_leader_06=Rules are rules. Here, take this Rock Badge.{0x0114,0x0014}
+main_event_1242_badge_01=You can now catch Pokémon of up to Lv. 50!
+main_event_1242_leader_07=Oh, don’t worry about me.[0x000A]I just need to train harder, that’s all.{0x0114,0x0014}
+main_event_1242_npc_01=As celebration of your victory over Gordie, take[0x000A]this TM!
+main_event_1242_npc_03=And here’s a special uniform![0x000A]It’s the same design that Gordie wears, and that{0xBE00}[0x000A]means it’s extra cool!
+main_event_1242_npc_02=The Rock Badge looks good on you![0x000A]You’re doing great, Challenger {0x0100,0x0000}!
+main_event_1242_system_01=Do you want to go back to the reception area?

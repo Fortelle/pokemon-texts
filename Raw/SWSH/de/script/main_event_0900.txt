@@ -1,0 +1,15 @@
+main_event_0900_assistant_01=Ah! Da bist du ja.{0x0114,0x000B}
+main_event_0900_assistant_02=Schau mal, ist das nicht unglaublich?{0xBE01}[0x000A]Auf diesen Wandteppichen hier sind Episoden[0x000A]aus der Geschichte Galars abgebildet!{0x0114,0x000B}
+main_event_0900_assistant_03=Hier sieht man zwei Jünglinge, die einen[0x000A]Wunschstern betrachten...{0x0114,0x000B}
+main_event_0900_assistant_04=Und hier bricht Unheil über das Land herein.[0x000A]Die beiden Jünglinge sehen verzweifelt aus...{0x0114,0x000B}
+main_event_0900_assistant_05=Hier schauen sie zu einem Schwert und einem[0x000A]Schild auf, die dem Unheil irgendwie Einhalt{0xBE00}[0x000A]gebieten...{0x0114,0x000B}
+main_event_0900_assistant_06=Und dann tragen die beiden plötzlich Kronen.{0x0114,0x000B}
+main_event_0900_assistant_07=Diese Wandteppiche erzählen, wie das[0x000A]Königreich von Galar gegründet wurde.{0x0114,0x000B}
+main_event_0900_assistant_08=Aber sag mal... Ist dir beim Betrachten der Bilder[0x000A]auf den Wandteppichen irgendwas aufgefallen?{0x0114,0x000B}
+main_event_0900_select_01=Ich dachte, es gab nur einen Helden!
+main_event_0900_select_02=Sie erinnern mich an die „Finstre Nacht“.
+main_event_0900_assistant_11=Ja, das dachte ich auch!{0xBE01}[0x000A]In diesem Hotel in Engine City stand nur eine[0x000A]einzige Heldenstatue.{0xBE01}[0x000A]Aber diese Wandteppiche erzählen eindeutig[0x000A]die Geschichte von ZWEI jungen Helden...{0x0114,0x000B}
+main_event_0900_assistant_12=Ja, mich auch!{0xBE01}[0x000A]In den Überlieferungen wird der schwarze Wirbel,[0x000A]der den Himmel bedeckt, als Unheil bezeichnet...{0xBE01}[0x000A]Diese Wandteppiche zeigen eindeutig die[0x000A]„Finstre Nacht“!{0x0114,0x000B}
+main_event_0900_assistant_13=Gab es nun einen Helden oder gab es zwei?[0x000A]Und was steckt hinter dieser „Finstren Nacht“?{0x0114,0x000B}
+main_event_0900_assistant_09=Danke für deine Aufmerksamkeit! Du hast mir[0x000A]dabei geholfen, meine Gedanken zu ordnen.{0xBE01}[0x000A]Ich werde noch ein bisschen hierbleiben, um die[0x000A]Wandteppiche näher zu untersuchen.{0xBE01}[0x000A]Hoffentlich kannst du deine Erfolgsserie bei der[0x000A]Arena-Challenge fortsetzen.{0xBE01}[0x000A]Meine Unterstützung ist dir auf jeden Fall sicher![0x000A]Hier, nimm das...{0x0114,0x000B}
+main_event_0900_assistant_10=Wo sind das Schwert und der Schild, die das[0x000A]Unheil vertrieben haben, wohl abgeblieben?{0x0114,0x000B}

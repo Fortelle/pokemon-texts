@@ -1,0 +1,14 @@
+main_event_0360_rival_01=Hey, Mr. Station Master![0x000A]Isn’t this the Wild Area?{0xBE00}[0x000A]What’re we stopped here for?{0x0114,0x0005}
+main_event_0360_stationmaster_01=Yes...[0x000A]This is the Wild Area Station, make no mistake.{0xBE01}[0x000A]I’m sorry to tell you that the train is halted, due[0x000A]to a flock of Wooloo on the tracks.
+main_event_0360_rival_02=What’s there to be sorry about?[0x000A]This is brilliant!{0x0114,0x0005}
+main_event_0360_select_01=Brilliant?
+main_event_0360_select_02=What is?
+main_event_0360_rival_03=This Wild Area is massive![0x000A]There are loads of Pokémon to battle here!{0xBE01}[0x000A]You get it, don’t you, {0x0100,0x0000}?[0x000A]This is the best possible place to put together{0xBE00}[0x000A]the greatest team!{0x0114,0x0005}
+main_event_0360_stationmaster_02=We can get you back to Wedgehurst, if you like.[0x000A]But Motostoke is off the menu for now.{0xBE01}[0x000A]It wouldn’t be very decent of us to try to drive[0x000A]off those Pokémon just because we happen to{0xBE00}[0x000A]want to run our train here, now would it?
+main_event_0360_assistant_01={0xBDFF:0x0007}
+main_event_0360_rival_05={0xBDFF:0x0008}
+main_event_0360_rival_06={0xBDFF:0x0009}
+main_event_0360_assistant_02={0xBDFF:0x000A}
+main_event_0360_assistant_03={0xBDFF:0x000B}
+main_event_0360_rival_04={0xBDFF:0x000C}
+main_event_0360_assistant_04={0xBDFF:0x000D}

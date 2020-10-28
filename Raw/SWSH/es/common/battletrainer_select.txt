@@ -1,0 +1,6 @@
+battle_trainer_select_01_00={0xBDFF:0x0000}
+battle_trainer_select_01_01={0xBDFF:0x0001}
+battle_trainer_select_01_02={0xBDFF:0x0002}
+battle_trainer_select_01_03={0xBDFF:0x0003}
+battle_trainer_select_yes={0xBDFF:0x0004}
+battle_trainer_select_no={0xBDFF:0x0005}

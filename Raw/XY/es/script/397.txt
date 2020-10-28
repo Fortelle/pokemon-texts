@@ -1,0 +1,27 @@
+Hola, me llamo Rosita, y soy la encargada[0x000A]de la oficina de objetos perdidos. ¿En qué te{0xBE00}[0x000A]puedo ayudar? Mmm, ¿es acaso la primera vez{0xBE00}[0x000A]que te pasas por aquí?{0xBE01}[0x000A]El trabajo consiste en buscar los objetos perdidos[0x000A]de los clientes, pero has de tener cuidado de{0xBE00}[0x000A]no pisarlos y romperlos.{0xBE01}[0x000A]Con el tiempo le pillarás el tranquillo, y al acercarte[0x000A]a los objetos probablemente te des cuenta.{0xBE01}[0x000A]Es como si adquirieras un sexto sentido.
+¡Hola! Así que otra vez por aquí, ¿eh?
+¡Hola, {0x0100,0x0000}! Estaba deseando que[0x000A]vinieras, ¡y mira por dónde, aquí estás!
+Tengo un nuevo encargo de parte de un cliente.[0x000A]Venga, no perdamos el tiempo y a trabajar.
+Si no me equivoco, tenemos que buscar[0x000A]{0x1702,0x0000}{0x019A,0x0000}.{0xBE01}[0x000A]El cliente ha especificado que ha perdido...[0x000A]A ver, a ver... {0x0200,0x0001}.{0xBE01}[0x000A]Este tipo de objetos son muy frágiles, así[0x000A]que ten cuidado.
+¿Qué ocurre? ¿Te has acordado de algo[0x000A]importante que tuvieras que hacer?
+¡Vale, vale! No te preocupes, que me[0x000A]encargo yo de la tarea entonces.
+Muy bien. Ya sabes: a buscar a conciencia, cual[0x000A]sabueso; pero ándate con ojo, no vaya a ser que{0xBE00}[0x000A]pises el objeto del cliente y la liemos parda.{0xBE01}[0x000A]¡No quiero ni pensarlo!
+¡Ay, ay, ay! Se masca la tragedia...{0xBE01}[0x000A]Has pisado el {0x019A,0x0000},[0x000A]¿a que sí? Se nos va a caer el pelo...
+¡NOOO! ¡¿Qué has hecho?!{0xBE01}[0x000A]¡Has pisado el {0x019A,0x0000} y se[0x000A]ha hecho añicos! ¡Si es que lo rompes todo!
+Menudo estropicio has causado...
+¡Muy bien! Has dado con el[0x000A]{0x019A,0x0001}.{0xBE01}[0x000A]Ya has encontrado {0x0200,0x0000}. Buen trabajo.
+¡Has encontrado todos los objetos[0x000A]que había perdido el cliente!
+¡A eso le llamo yo ser sagaz y fijarse en todo![0x000A]Has encontrado todos los objetos perdidos.
+¡Me has dejado boquiabierta, eh![0x000A]Un trabajo impecable. Ya podrían tener los demás{0xBE00}[0x000A]trabajadores un olfato como el tuyo, córcholis.
+Vaya, voy a tener que disculparme ante el cliente[0x000A]por haber roto su objeto. ¡Ya te vale!{0xBE01}[0x000A]De todas formas, soy yo quien te pedí el favor,[0x000A]así que gracias de todas formas por ayudarme.
+Camafeo{0x1101,0x00FE,0x0100}s
+Monóculo{0x1101,0x00FE,0x0100}s
+Barco{0x1101,0x00FE,0x0100}s Embotellado{0x1101,0x00FE,0x0100}s
+Espejito{0x1101,0x00FE,0x0100}s
+Pendiente{0x1101,0x00FE,0x0100}s
+Reloj{0x1101,0x00FE,0x0200}es de Bolsillo
+Broche{0x1101,0x00FE,0x0100}s de Oro
+Muñeco{0x1101,0x00FE,0x0100}s de Juncomán
+Collar{0x1101,0x00FE,0x0200}es de Perlas
+Bot{0x1101,0x00FE,0x0402}ónones de Nácar
+¡Has encontrado el {0x019A,0x0000}!

@@ -1,0 +1,5 @@
+field_camp_01_01=Voulez-vous visiter le campement[0x000A]{0x1408,0x0000,0x0001}{0x0100,0x0000} ?
+field_camp_01_02=Connexion en cours...
+field_camp_01_03=Vous n’avez pas pu visiter le campement.
+field_camp_02_01=Oui
+field_camp_02_02=Non

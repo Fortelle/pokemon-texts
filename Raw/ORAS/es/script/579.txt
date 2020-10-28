@@ -1,0 +1,37 @@
+Bueno, bueno, bueno, ¿a quién tenemos aquí?[0x000A]¡Un{0x1100,0x00FF,0x0B0A} chiquilloa chiquilla con muchos bríos!{0xBE01}[0x000A]¿Mi nombre? Me llaman Anacleto y soy el propietario de[0x000A]esta tienda de bicis.
+Esas deportivas están que dan asquito...[0x000A]¿Vienes de muy lejos?
+¿De veras?{0xBE01}[0x000A]Entonces supongo que no necesitas ninguna bici...
+Ajá, ajá, entiendo... Sí, sí, ya veo...{0xBE01}[0x000A]Así que has venido nada menos que desde Villa Raíz...[0x000A]¡Impresionante! ¡Está en el quinto pino!{0xBE01}[0x000A]Si tuvieras una de mis bicis, podrías ir a cualquier sitio en[0x000A]un periquete mientras el viento acaricia tu rostro.{0xBE01}[0x000A]Ya sé: ¡te voy a dar una bici!{0xBE01}[0x000A]Pero espera un segundo...{0xBE01}[0x000A]No te he dicho que hay dos tipos de bicis...{0xBE01}[0x000A]La Bici de Carreras y la Bici Acrobática.{0xBE01}[0x000A]La Bici de Carreras es para aquellos a los que les gusta[0x000A]poner cara de velocidad.{0xBE01}[0x000A]La Bici Acrobática es para aquellos a los que les gusta[0x000A]hacer virguerías.{0xBE01}[0x000A]Soy la mar de majo, así que puedes elegir la que más te[0x000A]mole.{0xBE01}[0x000A]¿Cuál te llevas?
+La Bici de Carreras
+La Bici Acrobática
+{0xBDFF:0x0006}
+{0x0100,0x0000} eligió la Bici de Carreras.
+{0x0100,0x0000} eligió la Bici Acrobática.
+Si de repente te apetece cambiar de bici, ven a verme.
+¡Hola! ¿Vienes a cambiar de bici?
+¡No hay problema! Te la cambio en un momentín.
+{0x0100,0x0000} cambió la Bici de Carreras por[0x000A]la Bici Acrobática.
+{0x0100,0x0000} cambió la Bici Acrobática por[0x000A]la Bici de Carreras.
+Bien, bien. Me alegro de que te guste.
+{0xBDFF:0x000F}
+¡Hombre, aquí estás! Tenía ganas de verte.{0xBE01}[0x000A]¡No te puedes ni imaginar el aluvión de personas que han[0x000A]venido a comprarme bicis últimamente! Y todo porque te{0xBE00}[0x000A]vieron pasear con ella en tal o cual lugar.{0xBE01}[0x000A]¡Gracias a ti el negocio va viento en popa![0x000A]Nada, nada. Te voy a regalar otra bici. De bien nacido{0xBE00}[0x000A]es ser agradecido.
+¡Espero que todo te salga a pedir de boca en tu[0x000A]aventura!
+Trabajar aquí me está enseñando un montón sobre bicis.{0xBE01}[0x000A]Si quieres saber todos los secretos de tu bici, echa un[0x000A]vistazo a los manuales que hay ahí detrás.
+Es un manual sobre la Bici de Carreras.{0xBE01}[0x000A]¿Qué capítulo quieres leer?
+La bici se mueve en la dirección que indiques con la cruz[0x000A]de control o el botón deslizante.{0xBE01}[0x000A]Cuando quieras parar, suelta la cruz de control o el botón[0x000A]deslizante.{0xBE01}[0x000A]La bici perderá velocidad gradualmente hasta detenerse.{0xBE01}[0x000A]¿Quieres leer otro capítulo?
+La Bici de Carreras es muy rápida, pero tarda un poco en[0x000A]detenerse.{0xBE01}[0x000A]Tendrás que cogerle el tranquillo a esta técnica si quieres[0x000A]pararte sin problemas.{0xBE01}[0x000A]Suelta la cruz de control o el botón deslizante un poco[0x000A]antes de llegar adonde quieras detenerte. ¡No falla!{0xBE01}[0x000A]¿Quieres leer otro capítulo?
+Por toda la región de Hoenn hay pequeñas pendientes[0x000A]arenosas.{0xBE01}[0x000A]La consistencia de la arena dificulta la ascensión de la[0x000A]pendiente.{0xBE01}[0x000A]Sin embargo, si tienes una Bici de Carreras, puedes subir[0x000A]sin problemas.{0xBE01}[0x000A]¿Quieres leer otro capítulo?
+Avanzar en línea recta
+Parar
+Pendientes arenosas
+Salir
+Es un manual sobre la Bici Acrobática.{0xBE01}[0x000A]¿Qué capítulo quieres leer?
+Pulsa el botón B mientras estés en la bici para elevar la[0x000A]rueda delantera.{0xBE01}[0x000A]Usa el botón deslizante o la cruz de control para dar[0x000A]vueltas con la rueda levantada.{0xBE01}[0x000A]Esta técnica se llama {0xFF00,0x0002}el caballito{0xFF00,0x0000}.{0xBE01}[0x000A]¿Quieres leer otro capítulo?
+Mantén pulsado el botón B mientras la bici está parada y[0x000A]empezará a dar saltos en el sitio.{0xBE01}[0x000A]Esta técnica se llama {0xFF00,0x0002}saltitos{0xFF00,0x0000}.{0xBE01}[0x000A]Si a continuación usas la cruz de control, puedes moverte[0x000A]dando saltos de piedra en piedra en los desniveles.{0xBE01}[0x000A]¿Quieres leer otro capítulo?
+Pulsa el botón B y la cruz de control al mismo tiempo[0x000A]para saltar.{0xBE01}[0x000A]Pulsa la cruz de control hacia los lados para dar un[0x000A]salto lateral.{0xBE01}[0x000A]Púlsala hacia arriba o abajo para que la bici cambie de[0x000A]dirección durante el salto.{0xBE01}[0x000A]Si te encuentras dos caminos estrechos que transcurran[0x000A]paralelos, puedes usar esta técnica para ir de uno a otro.{0xBE01}[0x000A]¿Quieres leer otro capítulo?
+Caballito
+Saltitos
+Salto lateral
+Salir
+Dice: “Bicicleta para cicloturismo importada desde Kalos.[0x000A]Solo para exposición”.
+Las llaves y destornilladores están colocados al buen[0x000A]tuntún.

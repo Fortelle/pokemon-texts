@@ -1,0 +1,37 @@
+Well, well, what have we here?[0x000A]A most energetic customer!{0xBE01}[0x000A]Me? You may call me Rydel.[0x000A]I’m the owner of this cycle shop.
+Your running shoes...[0x000A]They’re awfully filthy.{0xBE01}[0x000A]Did you come from far away?
+Is that right?{0xBE01}[0x000A]Then I guess you have no[0x000A]need for any of my Bikes.
+Hm, hm...{0xBE01}[0x000A]You’re saying you came all the way from Littleroot?{0xBE01}[0x000A]My goodness![0x000A]That’s ridiculously far!{0xBE01}[0x000A]If you had one of my Bikes, you could go anywhere[0x000A]easily while feeling the gentle caress of the wind!{0xBE01}[0x000A]I’ll tell you what![0x000A]I’ll give you a Bike!{0xBE01}[0x000A]Oh, wait a second!{0xBE01}[0x000A]I forgot to tell you that there are two kinds of Bikes!{0xBE01}[0x000A]They are the Mach Bike and the Acro Bike!{0xBE01}[0x000A]Mach Bikes are for cyclists who want to feel the wild,[0x000A]blowing wind as they ride!{0xBE01}[0x000A]Acro Bikes are for those who prefer a technical ride!{0xBE01}[0x000A]I’m a real sweetheart, so you can have whichever one[0x000A]you like!{0xBE01}[0x000A]Which one will you choose?
+Mach Bike
+Acro Bike
+{0xBDFF:0x0006}
+{0x0100,0x0000} chose the Mach Bike.
+{0x0100,0x0000} chose the Acro Bike.
+If you get the urge to switch Bikes, just come see me!
+Oh? Were you thinking about switching Bikes?
+OK, no problem![0x000A]Are you ready to switch Bikes?
+{0x0100,0x0000} got the Mach Bike exchanged[0x000A]for an Acro Bike.
+{0x0100,0x0000} got the Acro Bike exchanged[0x000A]for a Mach Bike.
+Good, good![0x000A]I’m happy you like it!
+{0xBDFF:0x000F}
+Oh, it’s you![0x000A]I’ve been waiting for you!{0xBE01}[0x000A]Many people have come to my shop,[0x000A]saying they saw you riding a Rydel’s Bike{0xBE00}[0x000A]here and there and they want to buy{0xBE00}[0x000A]a Bike, too.{0xBE01}[0x000A]Thanks to you, my business is thriving![0x000A]As a token of my appreciation,{0xBE00}[0x000A]I’ll give you another Bike!
+May the wind always be at your back[0x000A]on your adventure!
+I’m learning about Bikes while[0x000A]I work here.{0xBE01}[0x000A]If you need advice on how to ride[0x000A]your Bike, there are a couple of{0xBE00}[0x000A]handbooks in the back.
+It’s a handbook on the Mach Bike.{0xBE01}[0x000A]Which page do you want to read?
+A Bike moves in the direction that the[0x000A]+Control Pad or the Circle Pad is pressed.{0xBE01}[0x000A]To stop, release the +Control Pad or the Circle Pad.[0x000A]The Bike will slow down and stop.{0xBE01}[0x000A]Do you want to read a different page?
+A Mach Bike is speedy, but it can’t stop very quickly,[0x000A]and that makes it a little tricky to stop the Bike.{0xBE01}[0x000A]Release the +Control Pad or the Circle Pad[0x000A]shortly before the place where you want to stop,{0xBE00}[0x000A]and the Bike will stop at the place you want.{0xBE01}[0x000A]Do you want to read a different page?
+There are sandy slopes throughout the Hoenn region.{0xBE01}[0x000A]The loose, crumbly sand makes it[0x000A]impossible to climb normally.{0xBE01}[0x000A]But if you have a Mach Bike,[0x000A]you can zip up a sandy slope.{0xBE01}[0x000A]Do you want to read a different page?
+How to ride
+Tip on braking
+Sandy slopes
+Quit
+It’s a handbook on the Acro Bike.{0xBE01}[0x000A]Which page do you want to read?
+Press the B Button while riding,[0x000A]and the front wheel lifts up.{0xBE01}[0x000A]You can zip around with the front wheel up[0x000A]using the +Control Pad or the Circle Pad.{0xBE01}[0x000A]This technique is called a {0xFF00,0x0002}wheelie{0xFF00,0x0000}.{0xBE01}[0x000A]Do you want to read a different page?
+Keep the B Button pressed, and[0x000A]your Bike can hop on the spot.{0xBE01}[0x000A]This technique is called a {0xFF00,0x0002}bunny hop{0xFF00,0x0000}.{0xBE01}[0x000A]Zip around while bunny hopping,[0x000A]and you can jump over certain ledges{0xBE00}[0x000A]by hopping across at stepping stones.{0xBE01}[0x000A]Do you want to read a different page?
+Press the B Button and the +Control Pad or[0x000A]the Circle Pad at the same time to jump.{0xBE01}[0x000A]Press the +Control Pad or the Circle Pad to[0x000A]the side to jump sideways, or press backward{0xBE00}[0x000A]to make the Bike change directions while jumping.{0xBE01}[0x000A]At a place where narrow paths run side by side,[0x000A]use this technique to pass them.{0xBE01}[0x000A]Do you want to read a different page?
+Wheelie
+Bunny hop
+Jump
+Quit
+The sign says, “A randonneur Bike imported[0x000A]directly from Kalos. For display only.”
+Wrenches and screwdrivers[0x000A]are lying around.

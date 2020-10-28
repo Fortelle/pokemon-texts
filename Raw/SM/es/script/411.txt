@@ -1,0 +1,20 @@
+¡Bienvenid{0x1100,0x00FF,0x0101}oa a la clase magistral de meteorología![0x000A]Si quieres saciar tus ansias de conocimientos{0xBE00}[0x000A]sobre el tema, ¡estás en el lugar indicado!
+Aunque tú eres un{0x1100,0x00FF,0x0100}a Entrenador{0x1100,0x00FF,0x0100}a Pokémon, ¿me[0x000A]equivoco?{0xBE01}[0x000A]En ese caso, ¿qué te parece si cambiamos el[0x000A]formato a un cuestionario sobre las aplicaciones{0xBE00}[0x000A]prácticas del tiempo en un combate Pokémon?{0xBE01}[0x000A]Aunque nos lleve más tiempo hacerlo de esta[0x000A]forma, te recompensaré con creces si aceptas.
+Tienes pinta de ser un{0x1100,0x00FF,0x0100}a Entrenador{0x1100,0x00FF,0x0100}a bastante[0x000A]duch{0x1100,0x00FF,0x0101}oa en estas lides. A ver si es verdad. Dime:{0xBE01}[0x000A]¿Qué objeto debería llevar un Pokémon para[0x000A]prolongar los efectos de Danza Lluvia?
+¡Correcto! ¡No esperaba menos de ti!{0xBE01}[0x000A]Si un Pokémon que lleva una Roca Lluvia utiliza[0x000A]Danza Lluvia, ¡la lluvia seguirá cayendo durante{0xBE00}[0x000A]nada más y nada menos que ocho turnos!{0xBE01}[0x000A]Pero no te lo voy a poner siempre tan fácil:[0x000A]¡ahí va la siguiente pregunta!
+Lástima... La respuesta correcta era Roca Lluvia.{0xBE01}[0x000A]Si un Pokémon que lleva una Roca Lluvia utiliza[0x000A]Danza Lluvia, ¡la lluvia seguirá cayendo durante{0xBE00}[0x000A]nada más y nada menos que ocho turnos!{0xBE01}[0x000A]Bueno, quien tiene boca se equivoca... ¡Pasemos[0x000A]a la siguiente pregunta!
+¿Qué objeto debería llevar un Pokémon para[0x000A]prolongar la duración del movimiento Granizo?
+¡Correcto!{0xBE01}[0x000A]Si un Pokémon que lleva una Roca Helada utiliza[0x000A]Granizo, ¡este fenómeno meteorológico aumenta{0xBE00}[0x000A]su duración a nada menos que ocho turnos!{0xBE01}[0x000A]Pero yo no me doy por vencida tan fácilmente:[0x000A]¡prepárate para la siguiente pregunta!
+Lástima... La respuesta correcta era Roca[0x000A]Helada.{0xBE01}[0x000A]Si un Pokémon que lleva una Roca Helada utiliza[0x000A]Granizo, ¡este fenómeno meteorológico aumenta{0xBE00}[0x000A]su duración a nada menos que ocho turnos!{0xBE01}[0x000A]Bueno, nadie es perfecto... ¡Tiempo para la[0x000A]siguiente pregunta!
+¿Qué objeto debería llevar un Pokémon para[0x000A]prolongar los efectos de Día Soleado?
+¡Has dado en el clavo!{0xBE01}[0x000A]Si un Pokémon que lleva una Roca Calor utiliza[0x000A]Día Soleado, ¡el sol seguirá luciendo durante{0xBE00}[0x000A]nada más y nada menos que ocho turnos!{0xBE01}[0x000A]Pero esto no ha acabado todavía: ¡ahí va la[0x000A]siguiente pregunta!
+Lástima... La respuesta correcta era Roca Calor.{0xBE01}[0x000A]Si un Pokémon que lleva una Roca Calor utiliza[0x000A]Día Soleado, ¡el sol seguirá luciendo durante{0xBE00}[0x000A]nada más y nada menos que ocho turnos!{0xBE01}[0x000A]Bueno, quien tiene boca se equivoca... ¡Pasemos[0x000A]a la siguiente pregunta!
+¿Qué objeto debería llevar un Pokémon para[0x000A]prolongar el efecto de Tormenta Arena?
+¡Correcto!{0xBE01}[0x000A]Si un Pokémon que lleva una Roca Suave utiliza[0x000A]Tormenta Arena, ¡dicha tormenta durará nada{0xBE00}[0x000A]más y nada menos que ocho turnos!
+Lástima... La respuesta correcta era Roca Suave.{0xBE01}[0x000A]Si un Pokémon que lleva una Roca Suave utiliza[0x000A]Tormenta Arena, ¡dicha tormenta durará nada{0xBE00}[0x000A]más y nada menos que ocho turnos!
+Lo esencial en esta vida es saber aplicar los[0x000A]conocimientos adquiridos en situaciones reales.{0xBE01}[0x000A]No basta con memorizar, ¡hay que interiorizarlos[0x000A]hasta convertirlos en una especie de intuición!{0xBE01}[0x000A]Bueno, lo prometido es deuda: he aquí una serie[0x000A]de rocas que he recogido. Son todas tuyas.
+Puedes desplegar todo tipo de estrategias en[0x000A]los combates para manipular el clima.{0xBE01}[0x000A]Por ejemplo, la lluvia potencia los movimientos[0x000A]de tipo Agua, a la vez que merma los de tipo{0xBE00}[0x000A]Fuego.{0xBE01}[0x000A]Otro caso sería el de las tormentas de arena,[0x000A]que, mientras duran, infligen daño a todos los{0xBE00}[0x000A]Pokémon, con tres excepciones: los de tipo{0xBE00}[0x000A]Roca, Tierra y Acero.
+Roca Helada
+Roca Suave
+Roca Calor
+Roca Lluvia

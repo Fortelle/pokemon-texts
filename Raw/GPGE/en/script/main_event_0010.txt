@@ -1,0 +1,8 @@
+msg_main0010_rival_04=???: I’m coming up!
+msg_main0010_rival_05=Up and at ’em!
+msg_main0010_rival_01={0x01CD,0x0001}: Morning, {0x0100,0x0000}!
+msg_main0010_rival_08=What’s going on?[0x000A]You’ve got one weird look on your face!
+msg_main0010_rival_02=Aw, never mind that![0x000A]I couldn’t wait any longer, so I came to get you!{0xBE01}[0x000A]Today’s finally the big day!{0xBE01}[0x000A]We’re finally going to get our first Pokémon[0x000A]from Professor Oak and become real {0xFF00,0x0006}Trainers{0xFF00,0x0000}!
+msg_main0010_rival_06=Oh, but before we do...
+msg_main0010_rival_07=You read the email I sent you yesterday, right?{0xBE01}[0x000A]You’d better have![0x000A]Check your computer if you didn’t!
+msg_main0010_rival_03=I’m gonna book it to Professor Oak’s lab,[0x000A]so see you there!

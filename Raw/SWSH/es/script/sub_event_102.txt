@@ -1,0 +1,12 @@
+msg_sub_event_102_start=Es una máquina expendedora.[0x000A]¿Qué quieres tomar?
+msg_sub_event_102_menu_item={0x0109,0x0000} {0xBD03,0x0000}{0x0202,0x0001} [0xE300]
+msg_sub_event_102_menu_cancel=Nada
+msg_sub_event_102_cancel=No has comprado nada.
+msg_sub_event_102_not_have=No te caben más en la Bolsa.
+msg_sub_event_102_not_money=No tienes dinero suficiente.
+msg_sub_event_102_appear_item=¡Ha salido {0x1702,0x0000,0x0000}{0x010A,0x0000}!
+msg_sub_event_102_next=¿Quieres comprar alguna otra cosa?
+msg_sub_event_102_bingo=¡Qué suerte![0x000A]¡{0x1703,0x0000,0x0000}{0x010A,0x0000} de regalo!
+msg_sub_event_102_soldout=Es una máquina expendedora.{0xBE01}[0x000A]No parece que queden ninguna de tus bebidas[0x000A]favoritas.
+msg_sub_event_102_select_01=Comprar lo mismo
+msg_sub_event_102_select_02=Comprar otra cosa

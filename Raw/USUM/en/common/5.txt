@@ -1,0 +1,121 @@
+Free Battle
+Rating Battle
+Online Competition
+Friendly Competition
+Single Battle
+Double Battle
+Battle Royal
+Special Battle
+Continue battling
+Switch Battle Teams
+Quit battling
+Participate in a Competition
+Battle
+Check Digital Player ID
+Cancel Participation
+Previous Competition
+Competition Information
+Yes
+No
+Special Pokémon: Allowed
+Special Pokémon: Banned
+Scan a QR Code
+Championships Battle
+Battle Spot
+Rating Battle
+Free Battle
+Single
+Double
+Special
+Battle Royal
+Online Competition
+{0x011A,0x0000}
+{0x011A,0x0000}
+Friendly Competition
+Welcome to the Battle Spot![0x000A][0x000A]This is the place where you can enjoy Link Battles with[0x000A]people all over the world![0x000A][0x000A]You can also enter various competitions for which you’ve[0x000A]registered at the Pokémon Global Link.
+In Free Battles, your Battle Team must not contain duplicate[0x000A]Pokémon or duplicate held items.[0x000A]As for special Pokémon, you can choose if they are allowed[0x000A]or not.
+Special Pokémon cannot participate in Rating Battles.[0x000A]Your Battle Team must not contain duplicate Pokémon or[0x000A]duplicate held items.[0x000A][0x000A]Special Battles and Pokémon World Championships Battles[0x000A]have different regulations for each season.
+To participate in Online Competitions, you need to register[0x000A]at the Pokémon Global Link website.[0x000A][0x000A]You can visit the Pokémon Global Link website for[0x000A]information about ongoing competitions and their rules:[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+To participate in Friendly Competitions, you need to register[0x000A]at the Pokémon Global Link website.[0x000A][0x000A]You can visit the Pokémon Global Link website for[0x000A]information about Friendly Competitions you can participate[0x000A]in and their rules:[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}
+You can visit the Pokémon Global Link website for details[0x000A]about these regulations:[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}[0x000A][0x000A]If you scan the QR Code using a QR Code reader, you will[0x000A]be directed to the web page for the details.
+You can choose to automatically transmit your Battle Videos[0x000A]after Rating Battles so that their search codes may be[0x000A]published on the Pokémon Global Link website.[0x000A][0x000A]Note that you can join in Rating Battles even if you don’t[0x000A]approve automatic transmission of your Battle Videos.
+You are going to register participating Pokémon[0x000A]before the first battle.
+{0xBDFF:0x002A}
+Rating:
+{0x0203,0x0000,0x002C}
+No. of Battles:
+{0x0206,0x0000,0x002C}
+Wins:
+{0x0206,0x0000,0x002C}
+Losses:
+{0x0206,0x0000,0x002C}
+{0x0122,0x0000}
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+l
+{0x0202,0x0000}
+{0x0100,0x0000}
+Rating:
+{0x0203,0x0000,0x002C}
+{0x0124,0x0000}
+{0x0125,0x0000}
+{0x011A,0x0000}
+No. {0x0202,0x0000}
+Opponent 1
+Opponent 2
+Opponent 3
+Please choose a mode.
+You’re going to challenge a Free Battle![0x000A]Which battle format would you like?
+You’re going to challenge a Rating Battle![0x000A]Which battle format would you like?
+Do you agree to the automatic transmission of[0x000A]your Battle Videos?
+To participate in Rating Battles, you need to[0x000A]register at the Pokémon Global Link website:{0xBE00}[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}{0xBE01}
+Communicating...[0x000A]Please wait a moment.
+Checking your SD Card...[0x000A]Don’t turn off the power.
+The regulations have been updated.{0xBE01}
+The regulations data is corrupted.[0x000A]Please start again.{0xBE01}
+The regulations data that was corrupted has[0x000A]been restored.{0xBE01}
+The regulations data cannot be saved because[0x000A]the SD Card is full.{0xBE01}
+The server is under maintenance.[0x000A]Please try again later.{0xBE01}
+The season ended.{0xBE01}
+Do you want to register your system for[0x000A]Rating Battles?
+Registering your system...
+This system has been registered.{0xBE01}[0x000A]Please note that participating in a Rating Battle[0x000A]with a different system will reset your results.{0xBE01}
+You’re trying to participate with a different[0x000A]system.{0xBE01}[0x000A]Your past results will be reset.[0x000A]Are you really OK with resetting your results?
+Resetting the results and registering your[0x000A]system...
+Your results have been reset, and the system[0x000A]has been registered.{0xBE01}
+Searching for an opposing Trainer...[0x000A]Please wait.
+An opposing Trainer has been found![0x000A]The battle will begin soon.
+An opposing Trainer could not be found.[0x000A]Please try again later.{0xBE01}
+Communication error.[0x000A]Please start again from the beginning.{0xBE01}
+It will take some time for the results to[0x000A]be updated.{0xBE01}[0x000A]You can check the results in the[0x000A]Pokémon Global Link website, too.{0xBE01}[0x000A]Do you want to continue battling?
+Do you want to continue battling?
+Checking the status of competitions...
+To participate in the competition, please register[0x000A]at the Pokémon Global Link website:{0xBE00}[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}{0xBE01}
+There’s no competition you can currently[0x000A]participate in.{0xBE01}
+The competition in which you were participating[0x000A]has ended.{0xBE01}[0x000A]Please visit the Pokémon Global Link website[0x000A]for information about upcoming competitions:{0xBE00}[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}{0xBE01}
+The competition in which you were participating[0x000A]has ended.{0xBE01}[0x000A]Your Battle Team has been unlocked.{0xBE01}[0x000A]Please visit the Pokémon Global Link website[0x000A]for information about upcoming competitions:{0xBE00}[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}{0xBE01}
+You cannot participate in this competition.{0xBE01}
+If you cancel your participation in the[0x000A]competition, you won’t be able to participate in{0xBE00}[0x000A]it again.{0xBE01}[0x000A]Do you want to cancel your participation for the[0x000A]{0x01AF,0x0000}?
+You won’t be able to participate in the[0x000A]{0x01AF,0x0000}.{0xBE01}[0x000A]Are you absolutely sure you’d like to cancel your[0x000A]participation?
+Your participation has been canceled, and your[0x000A]Battle Team has been unlocked.{0xBE01}
+Downloading the Digital Player ID...
+The Digital Player ID has been downloaded.{0xBE01}
+Please choose a Battle Team that will[0x000A]participate in the competition.
+The competition you entered hasn’t started yet.{0xBE01}[0x000A]Please visit the Pokémon Global Link for the[0x000A]competition dates:{0xBE00}[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}{0xBE01}
+You canceled your participation in this[0x000A]competition.{0xBE01}
+Your Battle Team is locked, and Game Sync is[0x000A]complete.{0xBE01}[0x000A]You are ready for participating in the[0x000A]competition.{0xBE01}
+The system is different from the one you used[0x000A]to register for the competition.{0xBE01}[0x000A]Please check your system.{0xBE01}
+You cannot battle right now.{0xBE01}[0x000A]Please visit the Pokémon Global Link to find[0x000A]out when you can battle:{0xBE00}[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com/{0xFF00,0x0000}{0xBE01}
+Sorry. You have participated in the maximum[0x000A]number of battles for the day.{0xBE01}[0x000A]You cannot battle anymore today.{0xBE01}
+Current competition
+Previous competition
+You canceled participation.
+You cannot participate in this competition.
+The camera will start up to take a photo of[0x000A]a QR Code.
+You obtained the Digital Player ID.
+What would you like to do?
+You don’t have the Digital Player ID for the[0x000A]competition you are participating in.{0xBE01}[0x000A]Is it OK to cancel your participation?
+If you’re participating in a competition,[0x000A]you won’t be able to participate in it again.{0xBE01}[0x000A]Are you absolutely sure you’d like to cancel[0x000A]your participation?
+If you cancel your participation in the[0x000A]competition, you won’t be able to participate in{0xBE00}[0x000A]it again.{0xBE01}[0x000A]Do you want to cancel your participation in[0x000A]the competition and unlock the Battle Team?
+The previous Battle Team has been unlocked[0x000A]for you to participate in a new{0xBE00}[0x000A]Friendly Competition.{0xBE01}
+{0xBDFF:0x0078}

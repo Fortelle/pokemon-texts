@@ -1,0 +1,12 @@
+msg_common_scr_yes=是
+msg_common_scr_no=否
+msg_common_money=[0xE300]{0x0206,0x0008,0x002C}
+msg_common_report_01=要儲存到目前為止的[0x000A]冒險紀錄嗎？
+msg_common_report_02=正在寫入紀錄……[0x000A]請勿關閉電源。
+msg_common_report_03={0x0100,0x0000}[0x000A]確實寫下了紀錄。
+msg_common_report_04=系統已有其他的寶可夢紀錄，[0x000A]因此無法再儲存。{0xBE01}[0x000A]詳情請參閱使用說明書。
+msg_common_report_05=紀錄儲存失敗。
+msg_common_getmoney_01={0x0100,0x0000}得到了[0xE300]{0x0207,0x0002,0x0000}！
+msg_common_pokeget_01={0x0100,0x0000}得到了{0x0101,0x0001}！
+msg_common_watt={0x0206,0x0008,0x002C}W
+msg_common_wattget_01={0x0100,0x0000}獲得了{0x0207,0x0002,0x0000}W！

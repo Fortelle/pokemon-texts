@@ -1,0 +1,13 @@
+Sai qual è la mossa di tipo Drago più potente?[0x000A]È Dragobolide!{0xBE01}[0x000A]Se vuoi, posso insegnarla a un tuo Pokémon.[0x000A]Ti interessa?
+Capisco... In effetti, le mosse troppo forti[0x000A]sono difficili da usare.
+Uhm... Sì... Questo Pokémon potrebbe impararla...[0x000A]ma non ti è abbastanza affezionato.{0xBE01}[0x000A]Torna quando sarete più affiatati che mai e sarò[0x000A]felice di insegnargliela!
+Mi spiace, ma non hai con te nessun Pokémon[0x000A]in grado di imparare questa mossa...{0xBE01}[0x000A]Torna con un Pokémon capace di apprenderla!
+Bene, a chi vuoi che la insegni?
+Ah...! Quel Pokémon non può impararla!
+Ah...! Ma quello è un Uovo![0x000A]Non si possono insegnare mosse alle Uova...
+Ah...! Questo Pokémon conosce già Dragobolide.
+Dragobolide è davvero una mossa formidabile![0x000A]Ma c’è una cosa che devi sapere.{0xBE01}[0x000A]Quando il Pokémon la usa, il suo Attacco[0x000A]Speciale diminuisce di molto.
+Scegli una mossa da sostituire[0x000A]con {0x0107,0x0000}.
+{0x0102,0x0000} impara[0x000A]{0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+Uno,{0xBE02:0x0014} due{0xBE02:0x0014} e{0xBE02:0x0014}...{0xBE02:0x0014} ta-daaaa!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} dimentica[0x000A]{0x0107,0x0001}!{0xBE01}[0x000A]Al suo posto...{0xBE01}[0x000A]{0x0102,0x0000} impara[0x000A]{0x0107,0x0002}!{0xBE05,0x0004}{0xBE05,0x0001}
+{0x0102,0x0000} non ha imparato[0x000A]{0x0107,0x0001}!

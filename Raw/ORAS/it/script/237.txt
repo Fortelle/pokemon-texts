@@ -1,0 +1,21 @@
+Buongiorno!{0xBE01}[0x000A]Ho qualcosa per te da parte[0x000A]del Pokémon Global Link.
+Salve!{0xBE01}[0x000A]Ho qualcosa per te da parte[0x000A]del Pokémon Global Link.
+Buonasera!{0xBE01}[0x000A]Ho qualcosa per te da parte[0x000A]del Pokémon Global Link.
+Non ho altro per te da parte[0x000A]del Pokémon Global Link.{0xBE01}[0x000A]Ripassa un’altra volta!
+Oh! Hai raggiunto il limite[0x000A]per questo oggetto.{0xBE01}[0x000A]Torna dopo aver fatto[0x000A]un po’ di spazio.
+Aspetterò che tu venga a ritirare il tuo pacco.
+Ci sarebbe qualcos’altro, ma a quanto pare[0x000A]non c’è più posto per questo oggetto.{0xBE01}[0x000A]Torna dopo aver fatto un po’ di spazio.
+{0x0100,0x0000} ha ricevuto un pacco[0x000A]che contiene {0x0202,0x0001} strument{0x1101,0x0001,0x0101}oi!
+{0xBDFF:0x0008}
+Il pacco contiene:
+{0x0202,0x0001} {0x0109,0x0000}[0x000A]{0x0202,0x0003} {0x0109,0x0002}
+{0x0202,0x0001} {0x0109,0x0000}
+Ecco, nel pacco c{0x1101,0x0001,0x0602}'èi sono {0x0202,0x0001} strument{0x1101,0x0001,0x0101}oi.
+Ho qui un pacco per te[0x000A]che contiene {0x0202,0x0000} strument{0x1101,0x0000,0x0101}oi.{0xBE01}[0x000A]Vuoi controllare di cosa si tratta?
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+Ricevi
+Controlla
+Esci
+Sì
+No

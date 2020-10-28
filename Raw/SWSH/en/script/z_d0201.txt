@@ -1,0 +1,8 @@
+msg_d0201_npc1_01=Hiya! Me and my little sister have set ourselves[0x000A]up as a pop-up Pokémon Center service.{0xBE00}[0x000A]Not that we asked anyone if we could or should.{0xBE01}[0x000A]Galar Mine is pretty rough on a team, isn’t it?[0x000A]I’ll heal up your Pokémon for you, friend.
+msg_d0201_npc1_02=Come talk to me anytime you think your team[0x000A]needs a bit of care!
+msg_d0201_npc1_03=Welcome to our pop-up Pokémon Center![0x000A]You want your team healed up again?
+msg_d0201_npc1_04=Thanks for waiting![0x000A]Your {0x0101,0x0000} should be all better now!
+msg_d0201_npc1_05=Thanks for waiting! {0x0101,0x0000} and the[0x000A]rest of your team should be all better now!
+msg_d0201_npc2_01=Hiya! Me and my big sister have set ourselves up[0x000A]as a pop-up Pokémon Center service.{0xBE00}[0x000A]Not that we asked anyone if we could or should.{0xBE01}[0x000A]You’ve done a good job making it this far.[0x000A]I’ll heal your team up for you!
+msg_d0201_npc2_02=Once you get through Galar Mine, you’re out[0x000A]on Route 4—and nearly to Turffield!{0xBE00}[0x000A]You’re almost there, Gym Challenger!
+msg_d0201_npc2_03=Welcome to our pop-up Pokémon Center![0x000A]Do you want your team healed up again?

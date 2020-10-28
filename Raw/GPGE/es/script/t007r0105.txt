@@ -1,0 +1,9 @@
+msg_t007r0105_muscle_01=No hay nada que no sepa, y para muestra fíjate[0x000A]en la gran sabiduría que destila lo que he escrito{0xBE00}[0x000A]en la pizarra.{0xBE01}[0x000A]Ni siquiera se me escapa que tu Nintendo Switch[0x000A]alberga todo un mundo en su interior.{0xBE01}[0x000A]¡Reúnete con tus amigos y pásatelo bomba[0x000A]intercambiando Pokémon!
+msg_t007r0105_notebook_01=Es un informe sobre las MT.{0xBE01}[0x000A]...{0xBE01}[0x000A]Solo pone: "Hay un total de 60 MT.[0x000A]Informe elaborado por Silph S. A.".
+msg_t007r0105_notebook_02="Cómo conectarse con otros jugadores".[0x000A]¿Quieres leer esto?
+msg_t007r0105_notebook_03="Selecciona la opción Comunicación en el menú[0x000A]y luego 'Jugar con amigos'.{0xBE01}[0x000A]Elige uno de los dos modos de conexión: local[0x000A]o a través de internet, y escoge, después, entre{0xBE00}[0x000A]intercambio o una de las modalidades de{0xBE00}[0x000A]combate.{0xBE01}[0x000A]Por último, el otro jugador y tú deberéis[0x000A]introducir el mismo código para poder{0xBE00}[0x000A]conectaros. ¡Y eso es todo!".
+msg_t007r0105_kokuban_01={0xBDFF:0x0004}
+msg_board_01_p02_t007_r0105={0xBDFF:0x0005}
+msg_board_01_p03_t007_r0105={0xBDFF:0x0006}
+msg_board_01_p04_t007_r0105={0xBDFF:0x0007}
+msg_board_01_p05_t007_r0105={0xBDFF:0x0008}

@@ -1,0 +1,15 @@
+msg_t004r0301_middlef_01=我家的小岩岩啊！{0xBE01}[0x000A]我打算帶牠進友好商店[0x000A]的時候被阻止了！{0xBE01}[0x000A]牠明明就是個好孩子啊！[0x000A]在狹窄的地方，{0xBE00}[0x000A]牠會自動進到精靈球裡面的！
+msg_t004r0301_poke_01=小岩岩「嘰哧嘰哧～
+test_00={0xBDFF:0x0002}
+msg_kanpou_01_p01_t004_r0701={0xBDFF:0x0003}
+msg_kanpou_01_p02_t004_r0701={0xBDFF:0x0004}
+msg_kanpou_01_p03_t004_r0701={0xBDFF:0x0005}
+msg_kanpou_01_p04_t004_r0701={0xBDFF:0x0006}
+msg_kanpou_01_p05_t004_r0701={0xBDFF:0x0007}
+msg_kanpou_01_p06_t004_r0701={0xBDFF:0x0008}
+msg_kanpou_01_p07_t004_r0701={0xBDFF:0x0009}
+msg_kanpou_01_p08_t004_r0701={0xBDFF:0x000A}
+msg_kanpou_01_p09_t004_r0701={0xBDFF:0x000B}
+msg_kanpou_01_p10_t004_r0701={0xBDFF:0x000C}
+msg_kanpou_01_p11_t004_r0701={0xBDFF:0x000D}
+msg_kanpou_01_p12_t004_r0701={0xBDFF:0x000E}

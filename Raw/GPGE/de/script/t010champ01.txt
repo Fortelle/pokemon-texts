@@ -1,0 +1,6 @@
+msg_t010champ01_gym_01=Howdy, zukünftiger Champ![0x000A]Wie geht’s, wie steht’s?!{0xBE01}[0x000A]In der Pokémon-Liga musst du nacheinander[0x000A]gegen die Top Vier antreten.{0xBE01}[0x000A]Wenn du bei einem Kampf den Kürzeren ziehst,[0x000A]musst du wieder ganz von vorne beginnen.{0xBE01}[0x000A]Das hier ist die allerletzte Etappe bei deinem[0x000A]Aufstieg zum Champ, also gib alles!
+msg_t010champ01_gym_02=Ich hoffe schwer, dass du heute wieder tüchtig[0x000A]auf den Putz haust. Also enttäusch mich nicht!
+msg_t010champ01_elitef_01_01=Ab jetzt triffst du nacheinander auf die Top Vier.{0xBE01}[0x000A]Sobald du einen Kampf gewinnst, wird der Weg[0x000A]zum nächsten Trainer freigegeben. Viel Glück!
+msg_t010champ01_elitem_01_01=Hast du dich mit genügend Items eingedeckt?[0x000A]Sind auch wirklich alle deine Pokémon fit?{0xBE01}[0x000A]Das hier ist die letzte Hürde auf dem Weg[0x000A]zum Champ, also solltest du dich so gut{0xBE00}[0x000A]vorbereiten, wie du kannst!
+msg_t010champ01_juggler_01_01=Ich war nicht mal dazu in der Lage, das allererste[0x000A]Mitglied der Top Vier zu besiegen...{0xBE01}[0x000A]Das ist also das Niveau, auf dem in der[0x000A]Pokémon-Liga gekämpft wird.
+msg_t010champ01_kanban_01=Indigo-Plateau[0x000A]Leitung der Pokémon-Liga{0xBE00}[0x000A]Die höchste Autorität für Pokémon-Trainer!

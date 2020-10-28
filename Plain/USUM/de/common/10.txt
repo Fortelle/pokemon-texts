@@ -1,0 +1,251 @@
+<var>
+<var>
+<var>
+<var>
+<var>
+
+
+–
+l
+Pokédex-Nr.
+???
+Name
+Typ
+OT
+<var>
+KP
+/
+Angriff
+Vert.
+Sp.-Ang.
+Sp.-Vert.
+Initiative
+Wesen
+<var>
+Fähigkeit
+<var>
+Item
+<var>
+Attacken
+<var>
+<var>
+Richter
+Team
+
+Gruppe 1
+Gruppe 2
+Gruppe 3
+Bewegen
+Bericht
+Item
+Markieren
+Freilassen
+Entfernen
+Box wechseln
+Motiv
+Name
+Beutel
+Geben
+Registrieren
+Zurück
+Hintergründe 1
+Hintergründe 2
+Hintergründe 3
+Sonstige
+Wald
+Stadt
+Wüste
+Steppe
+Geröll
+Vulkan
+Schnee
+Höhle
+Strand
+Tiefsee
+Fluss
+Himmel
+Pokémon-Center
+Metall
+Kariert
+Schlicht
+Zurück
+O.K.
+Ja
+Nein
+Bearbeiten der Box beenden?
+Was soll mit <var> geschehen?
+Du benötigst ein kampffähiges Pokémon!
+Eine Box wurde ausgewählt. Was nun?
+Den Namen des Teams ändern?
+Zu welcher Box springen?
+Wähle eine Motivkategorie.
+Wähle ein Hintergrundmotiv.
+<var> an dich nehmen?
+<var> im Beutel verstaut.
+Du hast keinen Platz dafür!
+Ein Ei kann kein Item tragen!
+Wähle eine Markierung aus.
+Dieses Pokémon wirklich freilassen?
+<var> ist wieder frei.
+Mach's gut, <var>!
+<var> ausgewählt. Was nun?
+Du kannst diesem Pokémon ein Item geben.
+Du kannst kein Ei freilassen!
+Du kannst kein fusioniertes Pokémon freilassen!
+Du kannst ein Ei nicht registrieren!
+Wo registrieren?
+Zurück zum Pokémon-Resort?
+Den <var> an dich nehmen?
+<var> zurückgenommen.
+Tausch
+Ablegen
+Nehmen
+Zurück
+Ja
+Nein
+Dieses Pokémon wird getauscht. Bist du damit einverstanden?
+Das Pokémon wird aus deinem Kampfteam entfernt und getauscht. Einverstanden?
+Dieses Pokémon kann nicht getauscht werden.
+Wenn du dieses Pokémon tauschst, kannst du dein Abenteuer nicht fortsetzen!
+Ein Ei kann nicht zum Tausch angeboten werden.
+Pokémon, die Teil eines Kampfteams sind, können nicht getauscht werden.
+Ein besonderes Pokémon wie dieses kann nicht zum Tausch angeboten werden!
+Dieses Pokémon kann nicht getauscht werden, da es ein besonderes Item bei sich trägt.
+Verbindung wird hergestellt... Bitte warte einen Moment.
+Pokémon, die Teil eines verriegelten Kampfteams sind, können nicht freigelassen werden.
+Pokémon, die Teil eines verriegelten Kampfteams sind, können nicht bewegt werden.
+Auf Items von Pokémon in verriegelten Kampfteams gibt es keinen Zugriff.
+Pokémon, die Teil eines verriegelten Kampfteams sind, können nicht markiert werden.
+Dieses Pokémon wurde dir von Sina anvertraut. Du kannst es nicht freilassen.
+Dieses Pokémon wurde dir von Sina anvertraut. Du kannst es nicht tauschen.
+Das Kampfteam ist verriegelt. Du kannst keine weiteren Pokémon darin registrieren.
+Pokémon, die Teil eines Kampfteams sind, können nicht freigelassen werden.
+Pokémon, die Teil eines Kampfteams sind, können zu keiner Gruppe hinzugefügt werden.
+Es wird auf die Reaktion des anderen Spielers gewartet... Bitte warte einen Moment.
+Noch:
+
+Schlecht
+Nicht übel
+Gut
+Sehr gut
+Fantastisch
+Sensationell
+Akzeptables Potenzial
+Überdurchschnittliches Potenzial
+Weit überdurchschnittliches Potenzial
+Herausragendes Potenzial
+Neu
+Suchen
+–
+Pokémon
+<var>
+Typ 1
+<var>
+Typ 2
+<var>
+Attacke
+<var>
+TM
+<var>
+Fähigkeit
+<var>
+Wesen
+<var>
+Geschlecht
+♂
+♀
+?
+Item
+<var>
+Markierung
+Trägt ein Item
+Trägt kein Item
+Registriert
+Ja
+Nein
+Team
+
+Wähle deine Filterkriterien und bestätige mit „Suchen", um den Filtervorgang zu starten!
+Gib den Anfangsbuchstaben des gewünschten Pokémon-Namens ein.
+Wähle ein Pokémon.
+Wähle Typ 1.
+Wähle Typ 2.
+Gib den Anfangsbuchstaben der gewünschten Attacke ein.
+Wähle eine Attacke.
+Suche nach Pokémon, auf die eine bestimmte TM angewendet werden kann.
+Gib den Anfangsbuchstaben der gewünschten Fähigkeit ein.
+Wähle eine Fähigkeit.
+Wähle das gewünschte Wesen.
+Wähle das Geschlecht des Pokémon aus.
+Wähle, ob bei der Suche ausschließlich Pokémon mit oder ohne Items berücksichtigt werden sollen.
+Suche nach Pokémon, die du mit einer Markierung versehen hast.
+Wähle, ob bei der Suche nur Pokémon in Teams berücksichtigt werden sollen.
+Suche nach Pokémon, die im ausgewählten Team registriert sind.
+<var>
+<var>
+<var>
+<var>
+<var>
+Alle Statuswerte steigen in gleichem Maße.
+Erleichtert Training des Angriffs-Werts. Erschwert Training des Verteidigungs-Werts.
+Erleichtert Training des Angriffs-Werts. Erschwert Training des Initiative-Werts.
+Erleichtert Training des Angriffs-Werts. Erschwert Training des Sp.-Ang.-Werts.
+Erleichtert Training des Angriffs-Werts. Erschwert Training des Sp.-Vert.-Werts.
+Erleichtert Training des Vert.-Werts. Erschwert Training des Angriffs-Werts.
+Alle Statuswerte steigen in gleichem Maße.
+Erleichtert Training des Vert.-Werts. Erschwert Training des Initiative-Werts.
+Erleichtert Training des Vert.-Werts. Erschwert Training des Sp.-Ang.-Werts.
+Erleichtert Training des Vert.-Werts. Erschwert Training des Sp.-Vert.-Werts.
+Erleichtert Training des Initiative-Werts. Erschwert Training des Angriffs-Werts.
+Erleichtert Training des Initiative-Werts. Erschwert Training des Vert.-Werts.
+Alle Statuswerte steigen in gleichem Maße.
+Erleichtert Training des Initiative-Werts. Erschwert Training des Sp.-Ang.-Werts.
+Erleichtert Training des Initiative-Werts. Erschwert Training des Sp.-Vert.-Werts.
+Erleichtert Training des Sp.-Ang.-Werts. Erschwert Training des Angriffs-Werts.
+Erleichtert Training des Sp.-Ang.-Werts. Erschwert Training des Vert.-Werts.
+Erleichtert Training des Sp.-Ang.-Werts. Erschwert Training des Initiative-Werts.
+Alle Statuswerte steigen in gleichem Maße.
+Erleichtert Training des Sp.-Ang.-Werts. Erschwert Training des Sp.-Vert.-Werts.
+Erleichtert Training des Sp.-Vert.-Werts. Erschwert Training des Angriffs-Werts.
+Erleichtert Training des Sp.-Vert.-Werts. Erschwert Training des Vert.-Werts.
+Erleichtert Training des Sp.-Vert.-Werts. Erschwert Training des Initiative-Werts.
+Erleichtert Training des Sp.-Vert.-Werts. Erschwert Training des Sp.-Ang.-Werts.
+Alle Statuswerte steigen in gleichem Maße.
+
+<var>
+/
+In Boxen kannst du deine Pokémon lagern und verwalten. Auf die Boxen kannst du über den PC zugreifen, der in jedem Pokémon-Center zu finden ist.
+In den Boxen gibt es drei Modi, zwischen denen du mit dem X-Knopf wechseln kannst. Im ersten Modus werden die Boxen verwaltet. Du kannst unter anderem die Pokémon aus deinem Team mit Pokémon aus den Boxen austauschen und ihre Anordnung ändern.
+Im zweiten Modus werden die von deinen Pokémon getragenen Items verwaltet. Du kannst deinen Pokémon Items zum Tragen geben oder ihre getragenen Items austauschen.
+Im dritten Modus werden Kampfteams registriert. Du kannst bis zu sechs Kampfteams festlegen, die du in Kämpfen einsetzen möchtest. Ein Pokémon kann in mehreren Kampfteams gleichzeitig registriert sein, wodurch sich verschiedene Teams zusammenstellen lassen.
+Mit START oder SELECT kannst du den Steuerungsmodus ändern. Der rote Pfeil dient der normalen Steuerung. Mit dem blauen Pfeil kannst du die Position eines Pokémon wechseln oder es mit einem anderen Pokémon tauschen. Mit dem grünen Pfeil kannst du mehrere Pokémon gleichzeitig auswählen.
+Mit dem Y-Knopf startest du den Suchmodus. Dort kannst du schnell Pokémon finden, indem du nach Namen, Typ, erlernten Attacken usw. suchst.
+
+Zeig mir deine Pokémon.
+Dieses Pokémon würde ich gerne gegen meins tauschen!
+Zeig mir bitte ein anderes Pokémon.
+Ich habe keine anderen Pokémon.
+Bitte!
+Danke!
+Tut mir leid.
+Tschüss.
+Ich möchte mein Pokémon gegen ein <var> tauschen.
+Ich schaue mir gerade den Bericht des Pokémon an...
+Ich biete mein <var> zum Tausch an.
+Ich suche nach einem Pokémon...
+...
+Dein Pokémon
+Anderes Pokémon
+Abbrechen
+Der andere Spieler hat den Tausch abgebrochen.
+Der Tausch wurde abgebrochen.
+Es gibt ein Problem mit dem Pokémon des ande- ren Spielers. Der Tausch kann nicht stattfinden.
+Möchtest du den Pokémon-Tausch beenden?
+Ein Teilnehmer hat den Tausch abgebrochen. Der Tausch wird beendet.
+Die Verbindung wird getrennt... Bitte warte einen Moment.
+Das Item <var> wird vor dem Tausch entfernt. Möchtest du fortfahren?
+Da es ein Problem mit deinem Pokémon gibt, kann der Tausch nicht stattfinden.
+Bei der Datenübertragung ist ein Fehler aufgetreten.
+Maximiert
+Du kannst keine Eier mitnehmen.
+Du kannst dieses Pokémon nicht einsetzen.

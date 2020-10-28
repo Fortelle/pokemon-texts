@@ -1,0 +1,10 @@
+main_event_0120_rival_01=Ich will noch viel, viel stärker werden!{0xBE01}[0x000A]Was sagst du, Bruderherz? Bin ich bereit für[0x000A]meinen ersten {0xFF00,0x0006}Arenakampf{0xFF00,0x0000}?{0x0114,0x0005}
+main_event_0120_champion_01=Puh, du machst wirklich keine halben Sachen...{0xBE01}[0x000A]Du willst also an der {0xFF00,0x0006}Arena-Challenge{0xFF00,0x0000}[0x000A]teilnehmen, dem größten Turnier Galars!{0x0114,0x0004}
+main_event_0120_champion_02=Wenn das so ist, dann solltet ihr euch zuallererst[0x000A]mehr Wissen über Pokémon aneignen.{0x0114,0x0004}
+main_event_0120_champion_05=Vor allem du, {0x0100,0x0000}![0x000A]Ich schlage vor, ihr besorgt euch einen Pokédex.{0x0114,0x0004}
+main_event_0120_champion_03=Ein Pokédex wird euch helfen, die Stärken und[0x000A]Schwächen eurer Pokémon zu verstehen.{0xBE01}[0x000A]So gesehen ist ein Pokédex nicht bloß mit Daten,[0x000A]sondern auch mit der Liebe eines Trainers zu{0xBE00}[0x000A]seinen Pokémon gefüllt, versteht ihr?{0x0114,0x0004}
+main_event_0120_rival_02=Wenn mein Bruder sagt, dass echte Trainer so[0x000A]was brauchen, dann ist das auch so.{0xBE01}[0x000A]Schauen wir gleich im Pokémon-Labor vorbei, um[0x000A]einen Pokédex abzugreifen, {0x0100,0x0000}!{0x0114,0x0005}
+main_event_0120_champion_04=Ich mag deinen Enthusiasmus, Hop! Okay, ich sag[0x000A]der Professorin Bescheid, dass ihr kommt.{0x0114,0x0004}
+main_event_0120_rival_03=Mein Traum ist es, der nächste Champ zu werden![0x000A]Den Pokédex kriege ich mit links vervollständigt.{0xBE01}[0x000A]Man wird sich noch lange von meinen Taten[0x000A]erzählen! Die Legende von Hop beginnt hier!{0x0114,0x0005}
+main_event_0120_rival_04=Du solltest noch deiner Mutter Bescheid sagen,[0x000A]dass wir uns einen Pokédex holen gehen.{0x0114,0x0005}
+main_event_0120_rivalmama_01=Na, da hast du ja wirklich den perfekten Partner[0x000A]gefunden! Ich freue mich sehr für dich!

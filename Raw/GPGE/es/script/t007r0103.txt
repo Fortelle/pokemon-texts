@@ -1,0 +1,10 @@
+msg_t007r0103_scientist_01=¿Yo?[0x000A]¡Soy el programador!
+msg_t007r0103_scientist_02=¡Ostras! ¿Que ya has completado la Pokédex?{0xBE01}[0x000A]Pues me alegro un montón. ¡Has hecho que[0x000A]merezca la pena teclear tanto código!
+msg_t007r0103_pokemaniac_01=¡Soy el diseñador gráfico![0x000A]¡Yo diseñé tu personaje!
+msg_t007r0103_pokemaniac_02=¡Mi más sincera enhorabuena por haber[0x000A]completado la Pokédex!{0xBE01}[0x000A]Me encanta verte con esa cara de orgullo y[0x000A]satisfacción. Se ve que has madurado.{0xBE01}[0x000A]Aunque bueno, el gráfico del personaje sigue[0x000A]siendo exactamente el mism...{0xBE01}[0x000A]Nada, nada, cosas mías.
+msg_t007r0103_fat_01=¡Yo escribí la historia![0x000A]¿A que Erika mola?{0xBE01}[0x000A]¡También me gusta mucho Misty![0x000A]¡Y también Sabrina!
+msg_t007r0103_fat_02=¿Has completado la Pokédex? ¿Toda todita?[0x000A]¡Menuda hazaña!{0xBE01}[0x000A]Prepárate, porque a partir de ahora es cuando[0x000A]empieza lo duro...{0xBE01}[0x000A]Que nooo, que es broma.
+msg_t007r0103_pc_01=En este ordenador se está programando el juego.[0x000A]Mejor no tocar nada, por si se estropea.
+msg_t007r0103_pc_02=¡Alguien está jugando en lugar de trabajar!
+msg_t007r0103_pc_03=Es el final del juego. ¡Mejor no mirar!
+msg_t007r0103_kanban_01=GAME FREAK[0x000A]Sala de desarrollo

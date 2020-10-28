@@ -1,0 +1,26 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+Dire que si j’avais un vélo, je pourrais être[0x000A]à Poivressel en deux coups de pédale[0xE08D]{0xBE01}[0x000A]J’en profiterais pour piquer une tête dans la mer[0x000A]pour me rafraîchir[0xE08D]
+Dire que si j’avais un vélo, je pourrais être à Poivressel[0x000A]en deux coups de pédale[0xE08D]{0xBE01}[0x000A]J’en profiterais pour passer chez le Spécialiste des Noms[0x000A]et trouver un surnom génial pour un Pokémon[0xE08D]
+Dire que si j’avais un vélo, je pourrais être à Poivressel[0x000A]en deux coups de pédale[0xE08D]{0xBE01}[0x000A]Comme ça, je pourrais me faire humilier au Concours[0x000A]Live et me faire plaindre par tous mes amis[0xE08D]
+Dire que si j’avais un vélo, je pourrais être à Poivressel[0x000A]en deux coups de pédale[0xE08D]{0xBE01}[0x000A]J’en profiterais pour flâner au marché et acheter[0x000A]plein de choses inutiles[0xE08D]
+Dire que si j’avais un vélo, je pourrais être à Poivressel[0x000A]en deux coups de pédale[0xE08D]{0xBE01}[0x000A]J’en profiterais pour me cultiver un peu en allant découvrir[0x000A]les mystères de la mer au Musée Océanographique[0xE08D]
+Dire que si j’avais un vélo, je pourrais être à Poivressel[0x000A]en deux coups de pédale[0xE08D]{0xBE01}[0x000A]J’en profiterais pour m’étendre sur une chaise longue[0x000A]à la plage et faire un petit somme[0xE08D]
+Dire que si j’avais un vélo, je pourrais être à Poivressel[0x000A]en deux coups de pédale[0xE08D]{0xBE01}[0x000A]J’irais au Fan Club Pokémon voir plein de Pokémon[0x000A]mignons et ça me donnerait le sourire pour la journée[0xE07F]!
+Est-ce que tes Pokémon et toi[0x000A]allez souvent à Poivressel[0xE07F]?{0xBE01}[0x000A]C’est une ville si agréable[0xE08D]
+{0x0100,0x0000} reçoit[0x000A]un {0xBD00,0x0007,0x0000,0x0000}{0x0127,0x0001}{0xBD01}[0xE07F]!
+{0x0100,0x0000} attache le[0x000A]{0x0127,0x0001} sur son Pokémon[0xE07F]!
+Voyons voir[0xE08D] Toi et ton {0x0101,0x0000}[0xE08D]
+Voyons voir[0xE08D] Toi et ton {0x0101,0x0000}[0xE08D]
+Vous vous considérez vraiment comme des amis[0xE07F]?[0x000A]Je veux dire, sans rire[0xE07F]?
+Vous avez l’air[0xE08D] de vous connaître.
+Vous avez l’air assez proches.{0xBE01}[0x000A]Vous passez sans doute beaucoup de temps ensemble[0x000A]au Concours Pokémon ou dans la Poké Récré[0xE07F]!
+Vous vous entendez super bien[0xE07F]!!!{0xBE01}[0x000A]Quand on arrive à ce niveau d’entente avec son Pokémon,[0x000A]c’est encore plus attendrissant de le regarder se battre[0xE07F]!
+Vous n’êtes pas seulement des amis[0xE08D][0x000A]Vous êtes de la même famille, non[0xE07F]?{0xBE01}[0x000A]Merci de m’avoir montré un lien si beau et si pur[0xE07F]!
+Quand on a avec soi un Pokémon auquel on fait[0x000A]confiance, on s’amuse encore plus en voyage[0xE07F]!
+Vous n’êtes pas seulement des amis[0xE08D][0x000A]Vous êtes de la même famille, non[0xE07F]?{0xBE01}[0x000A]Je vous envie tellement[0xE07F]!!!
+{0x0100,0x0000} reçoit[0x000A]un {0xBD00,0x0007,0x0000,0x0000}{0x0127,0x0001}{0xBD01}[0xE07F]!
+{0x0100,0x0000} met à {0x0102,0x0002}[0x000A]un {0x0127,0x0001}[0xE07F]!

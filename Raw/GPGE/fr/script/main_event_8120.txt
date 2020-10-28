@@ -1,0 +1,13 @@
+msg_main8120_ghost_01={0xFF00,0x0009}Agatha :{0xFF00,0x0000} Je suis Agatha, du Conseil 4 !
+msg_main8120_ghost_05=J’ai entendu dire que Chen plaçait de grands[0x000A]espoirs en toi !
+msg_main8120_ghost_06=Savais-tu que ce vieux machin était jadis beau[0x000A]garçon ? Enfin... Il y a très longtemps !
+msg_main8120_ghost_07=Mais maintenant, il ne fait que frimer avec[0x000A]son Pokédex. C’est tellement stupide...
+msg_main8120_ghost_08=La nature des Pokémon, c’est de combattre !
+msg_main8120_ghost_09=Je vais te montrer ce qu’est un vrai combat[0x000A]de Dresseurs !
+msg_kikuko_01_p02_cave_d1403={0xBDFF:0x0006}
+msg_main8120_ghost_02={0xFF00,0x0009}Agatha : {0xFF00,0x0000}Mmmm...{0xBE01}[0x000A]Je commence à comprendre pourquoi le vieux[0x000A]Chen t’apprécie autant !
+msg_main8120_ghost_10=Je n’ai rien à ajouter. Tu peux passer.
+msg_main8120_ghost_03={0xFF00,0x0009}Agatha :{0xFF00,0x0000} Te revoilà !{0xBE01}[0x000A]Laisse-moi te dire que je ne suis pas du genre[0x000A]à me laisser avoir deux fois.{0xBE01}[0x000A]Viens ! Je suis prête !
+msg_main8120_ghost_04={0xFF00,0x0009}Agatha : {0xFF00,0x0000}Aaah...{0xBE01}[0x000A]Je comprends mieux l’intérêt que te porte Chen,[0x000A]maintenant.
+msg_main8120_ghost_11=Tu vas rire... Mais quand je vous vois,[0x000A]{0x0100,0x0001} et toi, ça me rappelle{0xBE00}[0x000A]Chen et moi, dans notre jeunesse !{0xBE01}[0x000A]Tu as de la chance de l’avoir à tes côtés ![0x000A]Cela crée une saine émulation.
+msg_main8120_ghost_12=Bien, tu peux y aller.[0x000A]Ton prochain adversaire t’attend.

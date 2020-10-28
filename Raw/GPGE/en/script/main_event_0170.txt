@@ -1,0 +1,16 @@
+msg_main0170_green_01=???: Hey, you there! Newbie!
+msg_main0170_green_02=???: Don’t tell me...[0x000A]You’ve gotta be {0x0100,0x0000}, right?
+msg_main0170_select_01=I am! That’s amazing!
+msg_main0170_select_02=How did you know that?!
+msg_main0170_green_03=Ha, I knew it![0x000A]I’m always right.
+msg_main0170_green_04=’Cause you look just like my gramps said.
+msg_main0170_green_05=BLUE: I’m Blue!{0xBE01}[0x000A]I heard from my gramps that two new kids set[0x000A]out from Pallet Town to become Trainers,{0xBE00}[0x000A]just like I did once.{0xBE00}[0x000A]So I came to check you out!
+msg_main0170_green_06=I was thinking you might want some advice on[0x000A]how to beat the Gym from an expert Trainer like{0xBE00}[0x000A]me, but looks like I showed up too late, huh?
+msg_main0170_green_11=Seems you’re not too shabby yourself...[0x000A]So I guess you’ve earned a reward, newbie!
+msg_main0170_red_01={0xBDFF:0x0009}
+msg_main0170_green_07={0xBDFF:0x000A}
+msg_main0170_red_02={0xBDFF:0x000B}
+msg_main0170_dummy_01=You got 5 {0xFF00,0x0006}Great Balls {0xFF00,0x0000}from Blue!
+msg_main0170_green_08=BLUE: Those’ll be even better for catching[0x000A]Pokémon than plain old Poké Balls.{0xBE01}[0x000A]And hey, that thing you’ve got there...[0x000A]That’s a Pokédex, right?{0xBE00}[0x000A]So Gramps finally went and made one!
+msg_main0170_green_09=He used to make me just scribble on a map with[0x000A]a pencil about where I encountered Pokémon...
+msg_main0170_green_10=You’d better do a good job helping him out![0x000A]He may be Professor Oak to you, and sure,{0xBE00}[0x000A]he’s an old coot, but he’s still my gramps!{0xBE01}[0x000A]Smell ya later, newbie!

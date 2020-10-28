@@ -1,0 +1,28 @@
+Questa è un’insegna per le foto.[0x000A]Vuoi chiamare il noto fotografo Sig. Grandangolo?
+Scatta una foto
+Guarda una foto
+Info macchina fotografica
+Arrivederci
+- Insegna per le foto -{0xBE01}[0x000A]Questa insegna indica che puoi chiamare[0x000A]il fotografo per farti scattare delle foto.{0xBE00}[0x000A]Vuoi chiamarlo?
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+Ciao![0x000A]Cosa vuoi fare?
+Bene! Sei pront{0x1100,0x00FF,0x0101}oa?{0xBE01}[0x000A]Vai a metterti in posa!
+Perbacco!{0xBE01}[0x000A]Mi spiace ma non c’è spazio sulla scheda SD!{0xBE01}[0x000A]Non posso scattare foto se prima non liberi[0x000A]un po’ di spazio riordinando i tuoi dati!{0xBE01}[0x000A]Alla prossima!
+Che ne pensi della foto?[0x000A]Questa è il mio ultimo capolavoro!
+Aspetta, aspetta![0x000A]Non hai fatto nemmeno{0xBE00}[0x000A]una foto finora!{0xBE01}[0x000A]Almeno una, ok?
+Fantastico! È venuta benissimo!
+Aaah! Accidenti!{0xBE01}[0x000A]La macchina si comporta in modo[0x000A]un po’ strano ultimamente e la foto{0xBE00}[0x000A]non è stata salvata... Mi dispiace!{0xBE01}[0x000A]La prossima volta andrà meglio.[0x000A]Vuoi che riproviamo?
+Te la cavi bene[0x000A]come modell{0x1100,0x00FF,0x0101}oa!{0xBE00}[0x000A]Alla prossima!
+D’accordo, alla prossima!
+Bene! Ci vediamo!
+Immagino tu lo sappia già, ma una macchina[0x000A]fotografica serve a fare fotografie.{0xBE01}[0x000A]Per scattare una foto, premi il pulsante R[0x000A]o tocca l’icona verde sul touch screen!{0xBE01}[0x000A]Puoi regolare lo zoom premendo[0x000A]la pulsantiera + verso sinistra o destra.{0xBE01}[0x000A]Inoltre, premendo il pulsante A puoi passare[0x000A]alla modalità manuale e modificare tanti{0xBE00}[0x000A]altri parametri.{0xBE01}[0x000A]Premendo il pulsante START, puoi centrare[0x000A]l’obiettivo di nuovo sulla posizione iniziale.{0xBE01}[0x000A]Puoi anche salvare le tue foto nella[0x000A]scheda SD della console e guardarle{0xBE00}[0x000A]usando la Fotocamera Nintendo 3DS.{0xBE01}[0x000A]E non è finita! Tramite il Sincrogioco puoi[0x000A]inviare le foto al Pokémon Global Link.{0xBE01}[0x000A]Quindi, scatta tante foto e mostra a[0x000A]tutti le migliori!
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+Aaah! Accidenti! La memoria della[0x000A]Fotocamera Nintendo 3DS è piena!{0xBE01}[0x000A]Se non liberi un po’ di spazio,[0x000A]non potrai scattare altre foto!{0xBE01}[0x000A]Mi dispiace! Alla prossima!
+Aaah! Accidenti!{0xBE01}[0x000A]Ci sono dei problemi con la scheda SD[0x000A]utilizzata per la Fotocamera Nintendo 3DS!{0xBE01}[0x000A]Non posso scattare altre foto, mi dispiace![0x000A]Alla prossima!
+Perbacco! Mi spiace ma non c’è spazio[0x000A]sulla scheda SD!{0xBE01}[0x000A]Non posso scattare foto se prima non liberi[0x000A]un po’ di spazio riordinando i tuoi dati!{0xBE01}[0x000A]Peccato! Alla prossima!
+Questa insegna per le foto non è ancora attiva.
+Attenzione!{0xBE01}[0x000A]La foto che hai scattato non è stata[0x000A]caricata sul Pokémon Global Link.{0xBE01}[0x000A]Se vuoi caricarla, usa il Sincrogioco.{0xBE01}[0x000A]Se scatti una nuova foto quella vecchia[0x000A]verrà sovrascritta e scomparirà.
+{0xBDFF:0x001B}

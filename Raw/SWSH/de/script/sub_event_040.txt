@@ -1,0 +1,10 @@
+sub_event_040_null_01=Nuoooh!
+sub_event_040_leaguestaff_F_01=Elektro-Disc... aktiviert! Das sollte die[0x000A]Stromrechnung reduzieren.
+sub_event_040_null_02=Nuuuoh...
+sub_event_040_leaguestaff_F_07=Hm... Schätze, das klappt wohl erst,[0x000A]wenn Typ:Null sich entwickelt...
+sub_event_040_leaguestaff_F_02=Ah! Hallo, Champ {0x0100,0x0000}!{0xBE01}[0x000A]Lass mich dir noch einmal ganz herzlich zu[0x000A]deinem Sieg gratulieren!
+sub_event_040_leaguestaff_F_03=Zu diesem Anlass möchte ich dir das seltene[0x000A]Pokémon Typ:Null schenken.
+sub_event_040_leaguestaff_F_04=Ach, und diese Discs gehören auch noch dazu.
+sub_event_040_system_01=Du erhältst mehrere Discs!
+sub_event_040_leaguestaff_F_05=Hat Typ:Null sich erst einmal entwickelt, ändert[0x000A]es seinen Typ, je nachdem, welche Disc du ihm{0xBE00}[0x000A]zum Tragen gibst.
+sub_event_040_leaguestaff_F_06=Hallo, Champ! Wie geht es Typ:Null?

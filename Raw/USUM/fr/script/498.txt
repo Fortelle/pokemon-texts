@@ -1,0 +1,30 @@
+Euh... Mais qu’est-ce que je fais là, moi[0xE07F]?[0x000A]...{0xBE01}[0x000A]... Ah, mais bien sûr[0xE07F]![0x000A]Je suis l’Effaceur de Capacités[0xE07F]!{0xBE01}[0x000A]Je suis capable de faire oublier des capacités[0x000A]aux Pokémon, figure-toi.
+Tu viens me voir pour que j’aide tes Pokémon[0x000A]à oublier des capacités[0xE07F]?
+À quel Pokémon veux-tu que je fasse oublier[0x000A]une capacité[0xE07F]?
+Souviens-toi de moi si tu as quelques capacités[0x000A]à faire oublier.
+Ton Pokémon ne connaît qu’une capacité,[0x000A]il ne peut pas l’oublier...
+Oh[0xE07F]! Mais c’est un Œuf[0xE07F]! Les Œufs ne[0x000A]connaissent aucune capacité.
+D’accord, très bien.[0x000A]Quelle capacité doit être oubliée[0xE07F]?
+Hu hu hu[0xE07F]! Ça a parfaitement fonctionné[0xE07F]!{0xBE01}[0x000A]Ton Pokémon a totalement oublié la capacité[0x000A]{0x0107,0x0000}.
+On m’appelle Anamnésia[0xE07F]!{0xBE01}[0x000A]Je connais toutes les capacités que les[0x000A]Pokémon apprennent en grandissant.{0xBE01}[0x000A]S’ils en ont oublié une, je peux la leur rappeler[0x000A]en échange d’une Écaille Cœur.
+Veux-tu qu’un de tes Pokémon se souvienne[0x000A]d’une capacité[0xE07F]?
+Si tu veux qu’un de tes Pokémon se souvienne[0x000A]d’une capacité, reviens avec une {0x0109,0x0000}[0xE07F]!
+Quel Pokémon[0xE07F]?
+Hum. C’est un Œuf, ça, tu sais[0xE07F]?
+Désolée, mais il n’y a aucune capacité dont[0x000A]il puisse se souvenir...
+De quelle capacité veux-tu qu’il se souvienne[0xE07F]?
+Vous avez donné une {0x0109,0x0000}[0x000A]à Anamnésia pour la remercier.
+Il s’est souvenu de cette capacité[0xE07F]![0x000A]Reviens me voir si tu as besoin de moi.
+OK, ne dites rien, j’ai tout compris[0xE07F]! Vous avez[0x000A]envie que j’enseigne Électacle à Pikachu[0xE07F]?
+Si vous venez me voir avec un Pikachu, je lui[0x000A]enseignerai Électacle sans aucun problème[0xE07F]!
+C’est votre choix, mais sachez que la Pikazélite[0x000A]permet de changer Électacle en capacité Z[0xE07F]!
+À quel Pikachu dois-je enseigner[0x000A]cette capacité[0xE07F]?
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+Un Pikachu qui utilise la Force Z est un Pikachu[0x000A]heureux[0xE07F]!
+Choisissez une capacité à oublier pour faire[0x000A]place à {0x0107,0x0000}.
+{0x0102,0x0000} apprend[0x000A]{0x0107,0x0001}[0xE07F]!{0xBE05,0x0004}{0xBE05,0x0001}
+1{0xBE02:0x0014}, 2{0xBE02:0x0014}, {0xBE02:0x0014}[0xE08D] {0xBE02:0x0014}[0xE08D] Tadaaa[0xE07F]!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} oublie[0x000A]{0x0107,0x0001}.{0xBE01}[0x000A]Et[0xE08D]{0xBE01}[0x000A]Il apprend {0x0107,0x0002}[0xE07F]!{0xBE05,0x0004}{0xBE05,0x0001}
+{0x0102,0x0000} n’a pas appris[0x000A]{0x0107,0x0001}.

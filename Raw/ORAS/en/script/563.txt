@@ -1,0 +1,33 @@
+Yo, how’s it going?{0xBE01}[0x000A]Listen, my friend! Would you[0x000A]like to become the Champion?{0xBE01}[0x000A]I’m no Trainer, not me, but I can[0x000A]sure give you winning advice.
+That’s settled, then! We’ll aim for the[0x000A]Pokémon Championship together!{0xBE01}[0x000A]It’s your job as a Trainer to collect[0x000A]Gym Badges, am I right?{0xBE01}[0x000A]But Gym Leaders aren’t pushovers!{0xBE01}[0x000A]And that’s where I come in![0x000A]I’m here to provide expert advice!
+Roxanne, the Gym Leader here, is a user of[0x000A]Rock-type Pokémon.{0xBE01}[0x000A]The Rock type is very durable, but it can’t stand[0x000A]Water-type and Grass-type moves.{0xBE01}[0x000A]Come see me afterward if you beat the Gym Leader.{0xBE01}[0x000A]Well, go for it!
+Whoa! What a breathtaking victory![0x000A]My cheering must have worked!{0xBE01}[0x000A]Great![0x000A]Check your Trainer Card.{0xBE01}[0x000A]The Stone Badge you got should be[0x000A]recorded on it.{0xBE01}[0x000A]In other words...{0xBE01}[0x000A]You’ve climbed the first step on[0x000A]the stairs to the Championship!{0xBE01}[0x000A]Very promising!
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+Just as I expected...{0xBE01}[0x000A]I knew you and your Pokémon[0x000A]would be able to get this far.{0xBE01}[0x000A]Now, would you kindly demonstrate[0x000A]how you battle with your Pokémon?
+{0xBDFF:0x000B}
+I understand.{0xBE01}[0x000A]The Pokémon League’s rules state that Trainers[0x000A]receive this if they defeat a Gym Leader.{0xBE01}[0x000A]Please accept the official Pokémon League Stone Badge.
+{0x0100,0x0000} received the Stone Badge[0x000A]from Roxanne.
+The Stone Badge enables Pokémon to use the HM move[0x000A]Cut outside of battle.{0xBE01}[0x000A]All Pokémon up to Level 20, even those you get[0x000A]in trades, will also obey you.{0xBE01}[0x000A]And...[0x000A]Please take this with you, too.
+The move Rock Tomb not only[0x000A]inflicts damage by dropping rocks,{0xBE00}[0x000A]it also lowers the target’s Speed.{0xBE01}[0x000A]If you use a TM, it instantly teaches[0x000A]the move to a Pokémon.{0xBE01}[0x000A]You can use a TM as many times[0x000A]as you want, so please try it out!
+Since you are so strong, you should[0x000A]challenge other Gym Leaders, too.{0xBE01}[0x000A]By battling many Trainers, you’ll likely[0x000A]learn many things.
+Rustboro City Pokémon Gym
+Rustboro City Pokémon Gym{0xBE01}[0x000A]Roxanne’s Certified Trainers:[0x000A]{0x0100,0x0000}
+Hello.{0xBE01}[0x000A]You must be a new challenger.
+I am Roxanne, the Rustboro City Pokémon Gym Leader.
+I became a Gym Leader so that I may apply in battle[0x000A]all that I’ve learned at the Pokémon Trainers’ School.
+If you defeat me in a Pokémon battle, I’ll present you[0x000A]with a Gym Badge as proof of your strength as a Trainer.{0xBE01}[0x000A]Please take up the challenge.
+I look forward to seeing you as a challenger.{0xBE01}[0x000A]Until then, farewell.
+A lot of Fossils are displayed.
+A Fossil is displayed with the description,[0x000A]“Petrified wood.”{0xBE01}[0x000A]Trees can become fossilized...
+Tools for excavating Fossils are displayed.
+They are beautiful pieces of amber!
+A stone is displayed with the description,[0x000A]“A Kalos stone.”{0xBE01}[0x000A]The stone was apparently excavated from[0x000A]a location known as Glittering Cave.
+Congratulations on becoming[0x000A]the Champion.{0xBE01}[0x000A]I sometimes remember the day[0x000A]I handed you the Stone Badge.{0xBE01}[0x000A]I felt so uplifted from our battle![0x000A]It would make me happy if we{0xBE00}[0x000A]could battle again someday.
+I have a friend who shares my keen interest[0x000A]in collecting stones. His name’s Steven.{0xBE01}[0x000A]He’s known for his serious expression,[0x000A]but when it comes to rare stones or{0xBE00}[0x000A]Steel-type Pokémon, his eyes light up.{0xBE01}[0x000A]He gets animated, and his expression changes,[0x000A]showing an unexpected charming side.
+Rustboro City Pokémon Gym{0xBE01}[0x000A]Roxanne’s Certified Trainers:[0x000A]{0x0100,0x0000}, Wally
+A model is displayed with the description,[0x000A]“A stratum near Fallarbor.{0xBE01}[0x000A]There are a few of the Hoenn’s best[0x000A]fossiliferous strata around Fallarbor.”

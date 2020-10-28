@@ -1,0 +1,18 @@
+Der andere Spieler wählt noch aus.[0x000A]Bitte warte einen Moment...
+Dieser Kampf kann nicht[0x000A]aufgezeichnet werden.
+Möchtest du den letzten Kampf[0x000A]als Kampfvideo speichern?
+Das Kampfvideo wird gelöscht.[0x000A]Den Vorgang fortsetzen?
+Das Kampfvideo wird gespeichert.[0x000A]Bitte warte einen Moment...
+Das Kampfvideo wurde gespeichert.
+Die Höchstzahl an gespeicherten[0x000A]Kampfvideos wurde erreicht.
+Es können keine weiteren Kampfvideos[0x000A]gespeichert werden.
+Ein Fehler ist aufgetreten. Das Kampfvideo[0x000A]konnte nicht gespeichert werden.
+{0xBDFF:0x0009}
+Mit diesem Partner kann kein Kampfvideo[0x000A]aufgezeichnet werden. Bitte warten...
+Mit diesem Partner kann kein Kampfvideo[0x000A]aufgezeichnet werden.
+Ja
+Nein
+Zeitlimit
+{0x0201,0x0000}:{0x0201,0x0001}
+Die Höchstzahl an Kampfvideos wurde erreicht.[0x000A]Es ist kein weiterer Speichervorgang möglich.
+Die SD Card ist voll. Das Kampfvideo[0x000A]konnte nicht gespeichert werden.

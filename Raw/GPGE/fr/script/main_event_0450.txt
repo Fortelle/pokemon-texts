@@ -1,0 +1,10 @@
+msg_main_0450_water_01={0xFF00,0x0009}Ondine :{0xFF00,0x0000} Tiens, salut ! La forme ?
+msg_main_0450_water_02=C’est bon, tu as gagné contre Major Bob ?[0x000A]Toutes mes félicitations !{0xBE01}[0x000A]Tu progresses à pas de géants ![0x000A]Laisse-moi chouchouter un peu ton {0x1101,0x00FD,0x0607}Pokémonéquipe,{0xBE00}[0x000A]{0x1101,0x00FD,0x0402}ilelle l’a bien mérité.
+msg_main_0450_sys_01=Ondine a soigné votre Pokémon !
+msg_main_0450_sys_02=Ondine a soigné votre équipe !
+msg_main_0450_water_03={0xFF00,0x0009}Ondine :{0xFF00,0x0000} Hein ? Ce que je fais ici ? Je vais piquer[0x000A]une tête dans la mer, pardi !{0xBE01}[0x000A]Les piscines, c’est bien beau, mais on en fait vite[0x000A]le tour, si tu vois ce que je veux dire.{0xBE00}[0x000A]J’aime bien varier en allant profiter des vagues.
+msg_main_0450_water_04={0xFF00,0x0009}Ondine :{0xFF00,0x0000} Et toi, tu vas où comme ça ?{0xBE01}[0x000A]Tu as fait un tour dans la Grotte Taupiqueur,[0x000A]au fait ? Si tu ne vois pas où c’est, je peux{0xBE00}[0x000A]t’y emmener ! Ça te dirait ?
+msg_main_0450_water_05=Si tu veux pas, tu veux pas, hein.[0x000A]Je vais pas te forcer !
+msg_main_0450_water_06=Super ! En route !
+msg_main_0450_water_07={0xFF00,0x0009}Ondine :{0xFF00,0x0000} Et voilà ! La seule, l’unique,[0x000A]la Grotte Taupiqueur !{0xBE01}[0x000A]Elle a été nommée ainsi car elle a été creusée[0x000A]exclusivement par des Taupiqueur ! Tu le savais ?{0xBE01}[0x000A]Bon allez, moi, je file ! Amuse-toi bien, et fais[0x000A]plein de rencontres, surtout !
+msg_main_0450_water_08={0xBDFF:0x0009}

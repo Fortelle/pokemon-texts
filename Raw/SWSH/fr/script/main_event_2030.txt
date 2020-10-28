@@ -1,0 +1,12 @@
+main_event_2030_stuff_01=Bienvenue pour le Match Ultime ![0x000A]Êtes-vous prêt{0x1100,0x00FF,0x0100}e à affronter Tarak ?
+main_event_2030_select_01=Oui ! Je vais gagner !
+main_event_2030_select_02=Pas tout à fait, non !
+main_event_2030_stuff_02=Parfait ! Changez-vous avant de rejoindre[0x000A]le Terrain de Combat.
+main_event_2030_system_01=Vous ne pouvez plus faire demi-tour !
+main_event_2030_champion_01=J’ai l’habitude de remplir des stades, mais là...[0x000A]J’avais jamais vu une telle foule en délire !{0x0114,0x0004}
+main_event_2030_champion_02=Clairement, tout le monde est déjà au courant[0x000A]de la bravoure dont tu as fait preuve l’autre jour.{0xBE01}[0x000A]Le public n’attend que de voir l{0x1100,0x00FF,0x0A09}e sauveura sauveuse[0x000A]de Galar en action !{0x0114,0x0004}
+main_event_2030_champion_03=Tu es maintenant l{0x1100,0x00FF,0x0A09}e nouveaua nouvelle héro{0x1100,0x00FF,0x0301}sïne de notre[0x000A]région, qui a combattu aux côtés de Zacian{0xBE00}[0x000A]et Zamazenta et capturé Éthernatos.{0xBE01}[0x000A]Je ne pouvais rêver d’un{0x1100,0x00FF,0x0B09} meilleure meilleure Challenger[0x000A]à affronter en finale !{0x0114,0x0004}
+main_event_2030_champion_04=Ah ! Je vois qu’Éthernatos a rejoint ton équipe.{0xBE01}[0x000A]Voilà qui ajoute encore plus de piquant[0x000A]à notre affrontement ! J’aime ça !{0x0114,0x0004}
+main_event_2030_champion_05=De tous les Challengers que j’ai connus,[0x000A]tu es de loin l{0x1100,0x00FF,0x0101}ea plus redoutable !{0xBE01}[0x000A]Te vaincre ne fera qu’ajouter à mon prestige !{0x0114,0x0004}
+main_event_2030_champion_06=Enfin bref.[0x000A]Il est temps de commencer ce combat historique !{0xBE01}[0x000A]{0x0100,0x0000} ! Es-tu prêt{0x1100,0x00FF,0x0100}e à combattre[0x000A]dans cette finale qui restera dans les annales ?{0x0114,0x0004}
+main_event_2030_champion_07=Alors prouve-le-moi ! En garde !{0x0114,0x0004}

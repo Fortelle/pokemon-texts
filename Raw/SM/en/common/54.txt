@@ -1,0 +1,25 @@
+Wonder Trade
+{0x0102,0x0000}
+{0x0202,0x0000}
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+{0x0109,0x0000}
+Time Left
+{0x0202,0x0000}
+{0x01B7,0x0000}
+{0x0100,0x0000}
+{0x0124,0x0000}
+{0x0125,0x0000}
+l
+Start
+Save
+Do you want to start a Wonder Trade?
+Searching for a trade partner...[0x000A]Please wait a moment.
+It seems there is a problem with the Pokémon.{0xBE01}
+We could not find a trade partner for you...{0xBE01}[0x000A]Please wait a little while, and then try again!{0xBE01}
+We’ve found you a trade partner![0x000A]The trade will now start.
+You need to save the game before starting[0x000A]a Wonder Trade.
+Saving...[0x000A]Don’t turn off the power.
+Your game has been saved!{0xBE01}
+You can quickly and easily trade your Pokémon[0x000A]with people all over the world via the Internet![0x000A][0x000A]Select a Pokémon to offer up, and the system[0x000A]will start searching for a trade partner for you!
+Connection with the other player failed.{0xBE01}

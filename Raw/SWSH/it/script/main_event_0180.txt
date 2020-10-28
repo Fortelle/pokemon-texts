@@ -1,0 +1,13 @@
+main_event_0180_poke1_01=Scooo!
+main_event_0180_poke2_01=Sob?
+main_event_0180_poke3_01=Key-key!
+main_event_0180_mama_01=Ooooh, ma che tenero questo {0x0101,0x0001}![0x000A]Dandel mi ha già detto tutto.{0xBE01}[0x000A]E così tu e Hop state per andare a Brassbury[0x000A]per farvi dare un Pokédex, eh?{0x0114,0x0008}
+main_event_0180_mama_02=Tieni, ti serviranno un po’ di soldi!{0xBE01}[0x000A]Va’ in un Centro Pokémon e comprati qualche[0x000A]Pozione e altre cosette utili.{0x0114,0x0008}
+main_event_0180_mama_03={0xBDFF:0x0005}
+main_event_0180_mama_04={0xBDFF:0x0006}
+main_event_0180_mama_05=Sono sicura che {0x0101,0x0001} darà sempre[0x000A]il massimo nelle lotte.{0xBE01}[0x000A]Tu trattalo bene, e cerca di non pretendere[0x000A]l’impossibile!{0x0114,0x0008}
+main_event_0180_poke1_02=Scooo!
+main_event_0180_poke2_02=Sob?
+main_event_0180_poke3_02=Key-key!
+main_event_0180_mama_06={0x0101,0x0001}, conto su di te![0x000A]Prenditi cura del{0x1100,0x00FF,0x0604} miola mia {0x0100,0x0000}!{0x0114,0x0008}
+main_event_0180_mama_07=E se ti trovi in difficoltà puoi sempre tornare[0x000A]a casa.{0xBE01}[0x000A]Del resto non c’è posto migliore per rilassarsi[0x000A]un po’ e recuperare le energie, non trovi?{0x0114,0x0008}

@@ -1,0 +1,8 @@
+msg_rankmatch_01=Te voy a explicar cómo funcionan los Combates[0x000A]Clasificatorios.{0xBE01}[0x000A]Y también prepararé a tu equipo para que pueda[0x000A]participar.
+msg_rankmatch_02=¿Quieres que alguno de tus Pokémon participe[0x000A]en un Combate Clasificatorio?
+msg_rankmatch_03=¡Pues hasta otra!
+msg_rankmatch_04=¿Qué Pokémon quieres que participe?
+msg_rankmatch_05=Tu {0x0101,0x0000} puede participar en[0x000A]Combates Clasificatorios.
+msg_rankmatch_06={0x0101,0x0000} tendrá que olvidar todos sus[0x000A]movimientos antes de aprender los necesarios{0xBE00}[0x000A]para participar en el Combate Clasificatorio.{0xBE01}[0x000A]¿Te parece bien?
+msg_rankmatch_07=Te en cuenta que podría olvidar algún[0x000A]movimiento especial que luego no podrá{0xBE00}[0x000A]recordar. ¿Estás segur{0x1100,0x00FF,0x0101}oa?
+msg_rankmatch_08=Vale, tu {0x0101,0x0000} ya está listo para[0x000A]participar.

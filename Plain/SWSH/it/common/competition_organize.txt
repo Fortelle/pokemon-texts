@@ -1,0 +1,71 @@
+Immetti le informazioni.
+ Conferma
+ Indietro
+Scegli la data della gara.
+Immetti il giorno e l'ora d'inizio.
+Immetti il giorno e l'ora di conclusione.
+Immetti il numero di lotte che si possono affrontare.
+Scegli le regole riguardanti i limiti di tempo.
+Scarica
+Non scaricare
+Tutti
+Solo chi possiede l'ID
+Sì
+No
+Indietro
+Vuoi scaricare le regole della lotta aggiuntive?
+Stabilisci chi può partecipare alla gara.
+Vuoi dare un nome aggiuntivo alla gara?
+Impostazioni della gara
+Nome della gara
+<var>
+<var>
+Regole
+Lotta in Singolo
+Lotta in Doppio
+Normale
+Torre Lotta
+Senza restrizioni
+
+<var>
+Durata
+Dall' <var>/<var>/<var> (<var>:<var>)
+fino
+all' <var>/<var>/<var> (<var>:<var>)
+Giocatori ammessi
+Tutti
+Solo chi possiede l'ID
+Organizza gara
+Attenzione!
+Non è possibile annullare una gara.
+Numero di lotte
+Fino a <var>
+Limite di tempo
+Tuo tempo: <var> minutoi
+Tempo lotta: <var> minutoi
+Da impostare
+<var>/<var>/<var>
+<var>/<var>/<var> <var>:00
+<var>/<var>/<var> <var>:59
+Durata
+<var>/<var>/<var> --:-- - --:--
+<var>/<var>/<var> <var>:<var> - --:--
+<var>/<var>/<var> <var>:<var> - <var>:<var>
+Fino a <var>
+Tuo tempo: <var> minutoi/Tempo lotta: <var> minutoi
+Tuo tempo: <var> minutoi/Tempo lotta: illimitato
+Tuo tempo: illimitato/Tempo lotta: <var> minutoi
+Invio delle regole in corso. Non scollegare il cavo LAN.
+Invio regole riuscito.
+Invio regole non riuscito.
+Invia le regole
+Inizia il trasferimento
+Invia le regole a più giocatori tramite la comunicazione locale.
+Invia le regole a un altro giocatore tramite comunicazione LAN.
+ Interrompi il trasferimento
+Invio regole in corso. Premi B per interrompere il trasferimento.
+Il trasferimento è stato interrotto.
+Connessione in corso. Attendi...
+Connettiti all'altro giocatore tramite il cavo LAN.
+Inizia il trasferimento
+Premi il pulsante per inviare le regole.

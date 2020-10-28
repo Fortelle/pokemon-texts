@@ -1,0 +1,4 @@
+msg_main0130_rival_01={0x01CD,0x0001}: Huh? You look pretty pleased[0x000A]about something, {0x0100,0x0000}.{0xBE01}[0x000A]...Oh, you beat another Trainer? Good job!
+msg_main0130_rival_02=Well, since we’re on the topic...{0xBE01}[0x000A]The Pokémon you sent into battle might’ve lost[0x000A]some HP or PP...
+msg_main0130_rival_03=You should take ’em to a {0xFF00,0x0006}Pokémon Center {0xFF00,0x0000}and[0x000A]get them healed up!{0xBE01}[0x000A]It doesn’t cost any money and doesn’t take long[0x000A]at all, either.
+msg_main0130_rival_04=Just remember—heal up after battles!

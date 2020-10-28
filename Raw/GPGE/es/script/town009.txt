@@ -1,0 +1,14 @@
+msg_town009_kanban_01=Isla Canela[0x000A]La feroz ciudad del ardiente deseo.
+msg_town009_kanban_02=Laboratorio de Isla Canela[0x000A]Centro de investigación sobre los Pokémon.
+msg_town009_kanban_03=Gimnasio Pokémon de Isla Canela[0x000A]Líder: Blaine{0xBE00}[0x000A]¡El maestro de los acertijos!
+msg_town009_door_01=Hay una nota en la puerta que reza:{0xBE01}[0x000A]"¿Dónde se encuentra la llave para entrar[0x000A]a este gimnasio? ¡Pista! Busca cerca de un{0xBE00}[0x000A]edificio completamente rodeado de plantas".
+msg_town009_youngf_01_01=Blaine, del Gimnasio de Isla Canela, es un[0x000A]hombre algo raro que ya vivía aquí incluso{0xBE00}[0x000A]antes de que se construyera el laboratorio.
+msg_town009_oldm_01_01=Se suele ver a Científicos entrar en la Mansión[0x000A]Pokémon para llevar a cabo experimentos.
+msg_town009_poke_01={0xFF00,0x0009}Magmar:{0xFF00,0x0000} ¡Maaar!
+msg_town009_poke_02={0xFF00,0x0009}Staryu:{0xFF00,0x0000} ¡Ryuuu!
+msg_masaki_01_p01_field_t009={0xBDFF:0x0008}
+msg_masaki_01_p02_field_t009={0xBDFF:0x0009}
+msg_masaki_01_p03_field_t009={0xBDFF:0x000A}
+msg_masaki_01_p04_field_t009={0xBDFF:0x000B}
+msg_masaki_01_p05_field_t009={0xBDFF:0x000C}
+msg_masaki_01_p06_field_t009={0xBDFF:0x000D}

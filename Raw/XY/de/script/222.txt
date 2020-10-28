@@ -1,0 +1,28 @@
+Ein Fotoschild![0x000A]Möchtest du den Kamerakauz rufen?
+Ein Foto machen
+Das letzte Foto ansehen
+Bedienungsanleitung
+Tschüss
+Das hier ist ein Fotoschild.{0xBE01}[0x000A]Bei einem solchen Schild kannst du den[0x000A]Kamerakauz herbeirufen, der dann Fotos{0xBE00}[0x000A]für dich schießt.{0xBE01}[0x000A]Möchtest du jetzt den Kamerakauz rufen?
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+Tagchen![0x000A]Wie kann ich dir behilflich sein?
+Also gut, dann wollen wir mal, was?{0xBE01}[0x000A]Lass uns einen passenden Hintergrund[0x000A]finden und ein schönes Foto machen!
+Hoppla! Tut mir leid![0x000A]Auf deiner SD Card ist kaum noch Platz!{0xBE01}[0x000A]Du müsstest schon ein paar Daten löschen,[0x000A]damit ich mit dem Knipsen loslegen kann.{0xBE01}[0x000A]Ist blöd, aber hilft ja nix![0x000A]Beim nächsten Mal dann!
+Oha! Dann wollen wir doch mal sehen...[0x000A]Das Foto hier ist mir ziemlich gut gelungen!
+Na, so was aber auch! Ich habe kein Foto,[0x000A]auf dem du drauf bist! Nicht ein einziges!{0xBE01}[0x000A]Soll ich eben schnell eins machen?
+Gut! Das ist was geworden!
+Hoppla! Tut mir leid![0x000A]Irgendwas stimmt mit meiner Kamera nicht.{0xBE01}[0x000A]Das Foto wurde nicht gespeichert![0x000A]Ist blöd, aber hilft ja nix!{0xBE01}[0x000A]Beim nächsten Mal klappt das mit dem Speichern[0x000A]aber bestimmt wieder, also probieren wir es dann{0xBE00}[0x000A]einfach noch mal, okay?
+Du bist das reinste Naturtalent![0x000A]Wirklich richtig fotogen!{0xBE00}[0x000A]Mach’s gut, bis zum nächsten Mal!
+Auch recht![0x000A]Mach’s gut, bis zum nächsten Mal!
+Mach’s gut, bis zum nächsten Mal!
+Du weißt das wahrscheinlich ohnehin, aber eine[0x000A]Kamera ist ein Gerät, mit dem man Fotos macht!{0xBE01}[0x000A]Drücke den R-Knopf oder berühre das grüne[0x000A]Kamerasymbol auf dem Touchscreen, um ein{0xBE00}[0x000A]Foto zu schießen.{0xBE01}[0x000A]Indem du das Steuerkreuz nach links oder rechts[0x000A]bewegst, bedienst du den Zoom der Kamera.{0xBE01}[0x000A]Wenn du willst, kannst du mit dem A-Knopf auch[0x000A]in den manuellen Modus schalten und noch viel{0xBE00}[0x000A]detailliertere Einstellungen vornehmen.{0xBE01}[0x000A]Der Blickwinkel lässt sich auf die Ausgangsposition[0x000A]zurücksetzen, indem du START drückst.{0xBE01}[0x000A]Ach ja, noch etwas: Die Fotos, die du geschossen[0x000A]hast, werden auf der SD Card gespeichert.{0xBE01}[0x000A]Du kannst sie mit der Kamera-Anwendung im[0x000A]HOME-Menü ansehen sowie per Spielsynchro{0xBE00}[0x000A]an den Pokémon Global Link verschicken.{0xBE01}[0x000A]Also, viel Spaß beim Fotos schießen, und vergiss[0x000A]nicht, sie voller Stolz deinen Freunden zu zeigen!
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+Hoppla! Das tut mir jetzt aber leid!{0xBE01}[0x000A]Du hast die maximale Anzahl an Fotos erreicht,[0x000A]die du speichern kannst! Tja, Ende Gelände!{0xBE01}[0x000A]Entferne ein paar Fotos, um weitere Fotos mit[0x000A]deiner Nintendo 3DS-Kamera machen zu können!{0xBE01}[0x000A]In diesem Sinne, bis dann!
+Hoppla! Das tut mir jetzt aber leid!{0xBE01}[0x000A]Sieht so aus, als gäbe es ein Problem mit der[0x000A]SD Card in deinem Nintendo 3DS-System!{0xBE01}[0x000A]Dann kannst du leider auch keine Fotos knipsen.{0xBE01}[0x000A]In diesem Sinne, bis dann!
+Hoppla! Das tut mir jetzt aber leid!{0xBE01}[0x000A]Du hast nicht genügend freien Speicherplatz[0x000A]auf deiner SD Card. Irgendwann ist eben Schluss!{0xBE01}[0x000A]Sortiere deine Daten und schaffe freien Speicher-[0x000A]platz, um weitere Fotos machen zu können! Los!{0xBE01}[0x000A]In diesem Sinne, bis dann!
+Das Fotoschild kann noch nicht[0x000A]benutzt werden...
+Achtung!{0xBE01}[0x000A]Das zuletzt aufgenommene Foto wurde bisher[0x000A]nicht zum Pokémon Global Link hochgeladen.{0xBE01}[0x000A]Um das Foto hochzuladen,[0x000A]führe bitte eine Spielsynchro durch.{0xBE01}[0x000A]Tust du das nicht, wird es vom nächsten Foto,[0x000A]das du machst, überschrieben.
+{0xBDFF:0x001B}

@@ -1,0 +1,13 @@
+msg_t004r0401_childm_01=Me gusta montar a lomos de los Pokémon, pero[0x000A]ir en bici también mola.
+msg_t004r0401_youngf_01=Es muy interesante ver todos esos modelos raros[0x000A]de bicis.{0xBE01}[0x000A]Pero cuando el dueño de la tienda se pone a[0x000A]explicar sus características, se viene arriba y...{0xBE00}[0x000A]¡no se calla ni debajo del agua!
+msg_t004r0401_middlef_01={0xBDFF:0x0002}
+msg_t004r0401_jevenilem_01={0xBDFF:0x0003}
+msg_boy5_01_p02_t004_r0501={0xBDFF:0x0004}
+msg_t004r0401_bike_01={0xBDFF:0x0005}
+msg_cycle_01_p01_t004_r0501={0xBDFF:0x0006}
+msg_cycle_01_p02_t004_r0501={0xBDFF:0x0007}
+msg_cycle_01_p03_t004_r0501={0xBDFF:0x0008}
+msg_cycle_01_p04_t004_r0501={0xBDFF:0x0009}
+msg_cycle_01_p05_t004_r0501={0xBDFF:0x000A}
+msg_cycle_01_p06_t004_r0501={0xBDFF:0x000B}
+msg_cycle_01_p07_t004_r0501={0xBDFF:0x000C}

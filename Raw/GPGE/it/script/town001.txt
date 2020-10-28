@@ -1,0 +1,7 @@
+msg_town001_post_01=Casa di {0x0100,0x0000}
+msg_town001_post_02=Casa di {0x0100,0x0001}
+msg_town001_kanban_01=Biancavilla[0x000A]Un viaggio dalle mille sfumature ti aspetta!
+msg_town001_kanban_02=Laboratorio del Professor Oak
+msg_town001_youngf_01=Anch’io alleno i Pokémon! Così, quando saranno[0x000A]forti, mi proteggeranno!
+msg_town001_fat_01=La tecnologia è incredibile!{0xBE01}[0x000A]Ora è possibile collegare console e smartphone[0x000A]per trasferire dati!
+msg_town001_test_01={0xBDFF:0x0006}

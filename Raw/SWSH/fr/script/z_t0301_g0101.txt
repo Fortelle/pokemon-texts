@@ -1,0 +1,15 @@
+msg_t0301_g0101_npc1_01=Les Pokémon Plante sont désavantagés[0x000A]face aux Pokémon Feu. C’est la base.
+msg_t0301_g0101_npc1_02=Super, te voilà en possession du Badge Plante ![0x000A]Chapeau !{0xBE01}[0x000A]Continue comme ça ! Prochain objectif :[0x000A]le Badge Eau !
+msg_t0301_g0101_npc2_01=Avant de pouvoir affronter le Champion,[0x000A]il faut remplir une Mission d’Arène.{0xBE01}[0x000A]Je me demande bien en quoi ça consiste.[0x000A]Moi, mon truc, c’est la danse. Le reste...
+msg_t0301_g0101_npc2_02=Courir après des Moumouton...{0xBE01}[0x000A]On dirait pas comme ça, mais Percy[0x000A]aime nous mener la vie dure !
+msg_t0301_g0101_npc3_01=Tu participes au Défi des Arènes ?[0x000A]Écoute, on va faire un truc.{0xBE01}[0x000A]Si tu gagnes le Badge Plante,[0x000A]je promets de retenir ton nom !
+msg_t0301_g0101_npc3_02={0x0100,0x0000}, c’est ça ?[0x000A]C’était super ! Je veux bien être ta fan !
+msg_t0301_g0101_poke1_01_pop=Dadar !
+msg_t0301_g0101_npc4_01_pop=Vous croyez qu{0x1100,0x00FF,0x0505}e lui’elle aussi, {0x1100,0x00FF,0x0402}ilelle[0x000A]participe au Défi des Arènes ?
+msg_t0301_g0101_npc4_02_pop={0x1100,0x00FF,0x0402}IlElle a gagné contre Percy ![0x000A]C’était un super match !
+msg_t0301_g0101_npc4_03_pop=Hé ! Voilà le Maître !
+msg_t0301_g0101_npc5_01_pop=Il paraît qu’{0x1100,0x00FF,0x0402}ilelle est[0x000A]recommandé{0x1100,0x00FF,0x0100}e par Tarak !
+msg_t0301_g0101_npc5_02_pop={0x1100,0x00FF,0x0402}IlElle assure, ce{0x1100,0x00FF,0x0300}tte Challenger !
+msg_t0301_g0101_npc5_03_pop=C’est trop mon idole,[0x000A]je l’ai vu{0x1100,0x00FF,0x0100}e à la télé !
+msg_t0301_g0101_npc6_01_pop=Il paraît que c’est l{0x1100,0x00FF,0x0101}ea rival{0x1100,0x00FF,0x0100}e[0x000A]de Nabil !
+msg_t0301_g0101_npc6_02_pop=On ne l’a pas vu{0x1100,0x00FF,0x0100}e venir,[0x000A]mais {0x1100,0x00FF,0x0402}ilelle ira loin !

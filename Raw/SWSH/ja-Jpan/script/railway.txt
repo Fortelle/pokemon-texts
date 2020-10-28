@@ -1,0 +1,11 @@
+msg_railway_01=どの　駅まで[0x000A]列車に　乗りますか？
+msg_railway_select_01=ブラッシータウン駅
+msg_railway_select_02=ブラッシータウン駅
+msg_railway_select_03=ワイルドエリア駅
+msg_railway_select_04=エンジンシティ駅
+msg_railway_select_05=バウタウン駅
+msg_railway_select_06=ナックルシティ駅
+msg_railway_select_07=ホワイトヒル駅
+msg_railway_select_08=シュートシティ駅
+msg_railway_select_09=やめる
+msg_railway_stop_01=車両点検の　ため[0x000A]列車に　遅れが　でています

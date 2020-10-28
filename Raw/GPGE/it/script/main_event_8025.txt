@@ -1,0 +1,8 @@
+msg_main8025_gym_01=Ehi![0x000A]Aspirante Campione{0x1100,0x00FF,0x0300}ssa!
+msg_main8025_gym_02=La Palestra di Aranciopoli è da questa parte!
+msg_main8025_gym_05=Per poterci arrivare, però, devi[0x000A]{0xFF00,0x0006}tagliare questo alberello{0xFF00,0x0000}!
+msg_main8025_gym_06=Mh? Non sai come si fa?{0xBE01}[0x000A]Capisco... Prova a chiedere al capitano[0x000A]della Motonave Anna.{0xBE01}[0x000A]Se non ricordo male, lui dovrebbe[0x000A]intendersene di queste cose.
+msg_main8025_gym_03=La Palestra di Aranciopoli è da questa parte!
+msg_main8025_gym_07=Per poterci arrivare, però, devi[0x000A]{0xFF00,0x0006}tagliare questo alberello{0xFF00,0x0000}!
+msg_main8025_gym_08=Ormai non dovrebbe più essere un problema[0x000A]per te e il tuo {0x0101,0x0002}!{0xBE01}[0x000A]Forza, prova!
+msg_main8025_gym_04=Fantastico!{0xBE01}[0x000A]Avete {0xFF00,0x0006}tagliato l’alberello {0xFF00,0x0000}e liberato il passaggio.[0x000A]Ora puoi entrare nella Palestra!{0xBE01}[0x000A]Direi proprio che sei pront{0x1100,0x00FF,0x0101}oa per affrontare[0x000A]la sfida contro il Capopalestra! Ti aspetto lì!

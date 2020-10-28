@@ -1,0 +1,24 @@
+Question[0xE07F]!
+Quel est ce Pokémon[0xE07F]?{0xBE01}[0x000A]1. Feuillajou[0x000A]2. Flamajou{0xBE00}[0x000A]3. Flotajou
+Et maintenant, il te suffit d’aller parler au Dresseur[0x000A]dont le numéro correspond à la bonne réponse.
+Ah[0xE07F]! Quel dommage[0xE07F]! Tu t’es trompé{0x1100,0x00FF,0x0100}e[0xE07F]!{0xBE01}[0x000A]Il va falloir te battre contre un autre Dresseur[0xE08D]
+Bonne réponse[0xE07F]![0x000A]Quel talent[0xE07F]!
+Avance jusqu’au podium pour ta question[0xE07F]!
+Parfait. Maintenant, direction l’ascenseur.
+Si tu veux réécouter la question, monte sur la dalle[0x000A]blanche devant le podium.
+Tu penses vraiment que c’est Feuillajou[0xE07F]?[0x000A]Moi, je pense que tu as choisi cette réponse{0xBE00}[0x000A]pour pouvoir m’affronter[0xE07F]!
+Nous allons voir si tu peux prendre l’ascenseur.
+Prends tout ton temps.
+J’espère que tout se passera bien[0x000A]avec Lem[0xE07F]!
+Tu es absolument sûr{0x1100,0x00FF,0x0D0B} et certaine et certaine[0x000A]que c’est un Flamajou[0xE07F]?
+C’est l’heure du combat[0xE07F]! Le combat qui[0x000A]exige une réponse[0xE07F]!
+Réfléchir est une bonne chose, mais se[0x000A]battre en est une toute aussi bonne.
+Trace ton chemin avec les Pokémon[0xE07F]![0x000A]Tu es un Dresseur, c’est ton destin.
+Tu optes pour Flotajou[0xE07F]?
+Es-tu prêt{0x1100,0x00FF,0x0100}e à assumer les responsabilités[0x000A]d’une telle réponse[0xE07F]?
+Tu peux choisir d’occuper ton temps[0x000A]comme bon te semble, après tout.
+Ce que décide un Dresseur influe grandement[0x000A]sur la vie de ses Pokémon.
+À quel étage désirez-vous vous rendre[0xE07F]?
+RdC
+2[0xE0A6]
+Rester ici

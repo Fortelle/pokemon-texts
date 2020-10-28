@@ -1,0 +1,11 @@
+msg_strinput_01_01=きみの　名前は？
+msg_strinput_01_02={0x0101,0x0000}の　ニックネームは？
+msg_strinput_01_03=シリアルコード／あいことば　を　入れてください
+msg_strinput_01_04=ライバルの　名前は？
+msg_strinput_01_05=名前を　入れてください
+msg_strinput_NG_00=使えない言葉が　あります
+msg_strinput_NG_01={0xBDFF:0x0006}
+msg_strinput_NG_02={0xBDFF:0x0007}
+msg_strinput_NG_04=名前を入力してください
+msg_strinput_NG_05=無効な　データです
+msg_strinput_NG_06=「{0x012D,0x0000}」は　名前に　つかえません

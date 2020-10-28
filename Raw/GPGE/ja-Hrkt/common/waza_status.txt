@@ -1,0 +1,16 @@
+msg_waza_status_01_01={0x0107,0x0000}
+msg_waza_status_01_02={0x0201,0x0000}
+msg_waza_status_01_03=/
+msg_waza_status_02_01=ぶんるい
+msg_waza_status_02_02=いりょく
+msg_waza_status_02_03=めいちゅう
+msg_waza_status_03_01={0x0202,0x0000}
+msg_waza_status_03_02=－
+msg_waza_status_05_01=この　わざを　わすれさせる
+msg_waza_status_05_02=わざの　せんたくへ　もどる
+msg_waza_status_05_03=おぼえるのを　あきらめる
+msg_waza_status_05_04=この　わざを　おもいださせる
+msg_waza_status_06_01=つかう
+msg_waza_status_06_02=やめる
+msg_waza_status_07_01={0x0206,0x0000,0x0000}円
+msg_waza_status_07_02=かう

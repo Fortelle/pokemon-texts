@@ -1,0 +1,196 @@
+{0x0100,0x0000}
+Amigos
+{0x0124,0x0000}
+{0x0125,0x0000}
+・Te ha visitado el {0x0201,0x0002}-{0x0201,0x0001}-20{0x0201,0x0000}.
+・Rango vip: {0x0202,0x0000}
+・Rango de invitado: {0x0202,0x0000}
+・Realizando un intercambio en conexión...
+・Librando un Combate Individual...
+・Librando un Combate Doble...
+・Librando un Combate Múltiple...
+Invitados
+Vips
+Combate Individual
+Combate Doble
+Battle Royale
+Minijuego
+Organizar un minijuego
+Participar en un minijuego
+{0x01B5,0x0000}
+Clasificación de combates
+Clasificación de intercambios
+Clasificación de bienes
+Clasificación de cariño
+Clasificación de jornada
+Clasificación de Festi Plaza
+Clasificación diversa
+{0x0202,0x0000}
+Registro de combates disputados
+Registro de intercambios realizados
+Registro de bienes materiales
+Registro de actos de afecto hacia los Pokémon
+Registro de esfuerzos realizados en un día
+Registro de la Festi Plaza
+Registro de datos varios
+{0x01BC,0x0000}
+{0x0208,0x0000,0xE07F}
+{0x01B7,0x0000}
+{0x01B7,0x0000}
+¡Nuevo récord!
+Objetivo:
+Tiempo límite:
+Festimonedas de premio:
+Mejor puntuación total:
+Mejor puntuación individual:
+Puntuación total:
+Puntuación individual:
+{0x0204,0x0000,0x0000}
+{0x0201,0x0000}
+:
+{0xBDFF:0x0032}
+{0x0202,0x0000}
+Entre {0x0202,0x0000} y {0x0202,0x0001}
+{0x0202,0x0000}
+Intercambios en conexión
+Clasificación vip
+Clasificación de invitado
+Cuestionarios
+Resultados de los participantes
+Bloqueados
+Combates Múltiples
+・Librando un Battle Royale...
+{0xBDFF:0x003E}
+・Comprando en un establecimiento...
+・Hablando con alguien...
+・Paseando por la Festi Plaza...
+{0xFF00,0x0002}・¡Quiero combatir!{0xFF00,0x0000}
+{0xFF00,0x0002}・¡Quiero intercambiar!{0xFF00,0x0000}
+{0xFF00,0x0002}・¡Quiero participar en minijuegos!{0xFF00,0x0000}
+・Usando la GTS...
+・Realizando un intercambio prodigioso...
+・Jugando en el Área de Combate...
+・Participando en un minijuego...
+・En plena aventura...
+---
+・Rango de Festi Plaza: {0x0202,0x0000}
+N.º
+Combates en conexión
+Área de Combate
+Árbol de Combate
+Pokémon salvajes
+Defensas del título
+Ataques supereficaces
+Movimientos Z usados
+-
+Intercambios en conexión
+Intercambios prodigiosos
+Intercambios en la GTS
+Pokémon dejados en la GTS
+-
+-
+-
+-
+Pokéhabas obtenidas
+Recolectas de bayas
+Dinero gastado
+PB gastados
+Artículos de moda obtenidos
+-
+-
+-
+Pokémon atrapados
+Huevos eclosionados
+Mimos a Pokémon
+Pokéhabas ofrecidas
+Motes de Pokémon
+Usos de Pokémonturas
+-
+-
+Ptos. de Exp. acumulados
+Pokémon atrapados
+Pokémon evolucionados
+Pokémon derrotados
+Entrenadores afrontados
+-
+-
+-
+Rango de Festi Plaza
+Participaciones en minijuegos
+Recomendaciones de tiendas
+Interacciones con invitados
+Festimonedas gastadas
+-
+-
+-
+Pokémon variocolor avistados
+Aciertos en la Lotería ID
+Aumentos de PP
+Cambios de ropa
+QR Code escaneados
+Fotos sacadas
+-
+-
+Actualizar
+Confirmar
+Ver detalles
+Quitar de la lista vip
+Cancelar
+Sí
+No
+Seleccionar
+Participar
+Información
+Atrás
+Organizar
+Desbloquear
+No puedes librar un Combate Doble con solo un[0x000A]Pokémon.[0x000A][0x000A]Vuelve a intentarlo cuando tengas dos Pokémon[0x000A]o más.
+Ahora mismo no puedes realizar intercambios[0x000A]porque la consola se apagó en el transcurso[0x000A]del último intercambio o sesión de la GTS.[0x000A][0x000A]Espera {0x0201,0x0000} minuto{0x1101,0x0000,0x0100}s e inténtalo de nuevo.
+No puedes realizar un intercambio con solo un[0x000A]Pokémon.[0x000A][0x000A]Vuelve a intentarlo cuando tengas dos Pokémon[0x000A]o más.
+{0xBDFF:0x0095}
+Ya se están realizando muchos minijuegos en[0x000A]internet en estos momentos. No puedes[0x000A]organizar más.[0x000A][0x000A]Puedes participar en alguno de los minijuegos[0x000A]en curso.
+No puedes organizar un minijuego porque no[0x000A]tienes Festicupones.[0x000A][0x000A]Puedes participar en alguno de los minijuegos[0x000A]en curso.
+Aún no han pasado 30 minutos desde perdiste[0x000A]en un minijuego en internet.[0x000A][0x000A]Deja pasar {0x0202,0x0001} minuto{0x1101,0x0001,0x0100}s antes de intentarlo de[0x000A]nuevo.
+Puedes controlar los jugadores que visitan tu[0x000A]Festi Plaza en tres listas distintas: la lista de[0x000A]invitados, la lista de vips y la lista de usuarios[0x000A]bloqueados.
+En la lista de invitados se muestran hasta 50[0x000A]jugadores con los que te has cruzado mediante[0x000A]las funciones de conexión.[0x000A][0x000A]Si se sobrepasa este número, al actualizar la[0x000A]lista se borrarán los visitantes más antiguos y[0x000A]se añadirán los más recientes.
+Los jugadores registrados como vips aparecen[0x000A]en la lista vip y no se borran automáticamente.[0x000A][0x000A]Para añadir jugadores a esta lista, habla con[0x000A]ellos en tu Festi Plaza y selecciona “Registrar[0x000A]como vip”.
+Puedes registrar hasta 50 jugadores en la[0x000A]lista vip.[0x000A][0x000A]Para eliminar a un jugador de la lista,[0x000A]selecciónalo y luego elige la opción “Quitar de la[0x000A]lista vip”.
+Aquellos registrados en la lista de jugadores[0x000A]bloqueados no aparecerán en tu Festi Plaza.[0x000A]Tampoco recibirás sus solicitudes de combate[0x000A]ni de intercambios.
+Puedes registrar hasta 100 jugadores en la[0x000A]lista de jugadores bloqueados.[0x000A][0x000A]Para añadir jugadores a esta lista, toca[0x000A]“Jugadores bloqueados” cuando recibas una[0x000A]solicitud de combate o de intercambio de su[0x000A]parte y luego toca “Añadir”.
+{0x0100,0x0000} no puede comunicarse en[0x000A]estos momentos.{0xBE01}
+¡Se han actualizado los datos!{0xBE01}
+¿Quieres enviar una propuesta a[0x000A]{0x0100,0x0000}?
+{0x0100,0x0000} no puede comunicarse en[0x000A]estos momentos.{0xBE01}
+Se han eliminado de la lista los jugadores que[0x000A]no pueden conectarse.{0xBE01}[0x000A]Comprueba la lista de nuevo.{0xBE01}
+{0xBDFF:0x00A4}
+{0xBDFF:0x00A5}
+¿Qué quieres hacer con {0x0100,0x0000}?
+¿Quieres eliminar a {0x0100,0x0000} de la lista[0x000A]de vips?
+Se ha eliminado a {0x0100,0x0000} de la lista de[0x000A]vips.{0xBE01}
+Si eliminas a un jugador de la lista de[0x000A]bloqueados, podrá enviarte propuestas.{0xBE01}[0x000A]¿Seguro que quieres eliminar a este jugador de[0x000A]la lista de bloqueados?
+Este jugador se ha eliminado de la lista de[0x000A]bloqueados.{0xBE01}
+Este jugador no puede comunicarse en estos[0x000A]momentos.{0xBE01}
+¿Quieres participar en un Combate Individual?
+¿Quieres participar en un Combate Doble?
+¿Quieres participar en un Combate Múltiple?
+¿Quieres participar en un Battle Royale?
+¿Quieres participar en un intercambio en[0x000A]conexión?
+¿Quieres participar en este minijuego?
+¿Quieres guardar la partida?
+¿Quieres participar en este minijuego?
+¿Quieres usar un Festicupón para organizar un[0x000A]minijuego?
+¿Quieres guardar la partida?
+Guardando...[0x000A]Espera unos instantes.
+Puntuación total: {0x0204,0x0000,0xE07F}                    ★: {0x0200,0x0001}[0x000A]Puntuación individual: {0x0204,0x0002,0xE07F}             ★: {0x0200,0x0003}{0xBE01}
+Preparativos en curso...[0x000A]Por favor, espera.
+¡Enhorabuena! ¡Obtienes {0x0202,0x0005} Festimoneda{0x1101,0x0005,0x0100}s por[0x000A]{0x1101,0x0004,0x0300}las {0x0201,0x0004} ★ que has conseguido!{0xBE01}
+¡Qué lástima! Como has conseguido {0x0201,0x0004} ★,[0x000A]no obtienes ninguna Festimoneda.{0xBE01}
+No se ha podido efectuar tu participación en[0x000A]este minijuego.{0xBE01}[0x000A]Inténtalo de nuevo más tarde.{0xBE01}
+No puedes participar en este minijuego porque[0x000A]falta poco para que finalice o ya ha terminado.{0xBE01}[0x000A]Elige otro minijuego.{0xBE01}
+{0x0201,0x0000}:{0x0201,0x0001}
+La comunicación inalámbrica está desactivada.[0x000A]Activa la comunicación inalámbrica.{0xBE01}
+No puedes participar en este minijuego porque[0x000A]no se cuenta con el establecimiento necesario.{0xBE01}
+No es posible organizar un nuevo minijuego.[0x000A]Elige otro minijuego en el que quieras participar.{0xBE01}
+{0xBDFF:0x00C1}
+{0xBDFF:0x00C2}
+{0xBDFF:0x00C3}

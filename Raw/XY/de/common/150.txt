@@ -1,0 +1,42 @@
+{0x0202,0x0000}
+{0x0202,0x0000}
+{0x0202,0x0000}
+Ja
+Nein
+Möchtest du dieses Foto speichern?
+Das Foto wurde über die Kamera-Anwendung[0x000A]deines Nintendo 3DS-Systems gespeichert.
+Wenn du dein Foto nicht speicherst, geht es[0x000A]verloren. Möchtest du dennoch fortfahren?
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+Lv.
+1,0 x
+1,2 x
+1,4 x
+1,6 x
+1,8 x
+2,0 x
+2,2 x
+2,4 x
+2,6 x
+2,8 x
+3,0 x
+3,2 x
+3,4 x
+3,6 x
+3,8 x
+4,0 x
+Foto wird gespeichert...[0x000A]Bitte das System nicht ausschalten.
+{0xBDFF:0x0023}
+Das Foto wurde über die Kamera-Anwendung[0x000A]deines Nintendo 3DS-Systems gespeichert.{0xBE01}[0x000A]Achtung!{0xBE01}[0x000A]Die von dir erstellten Fotodaten benötigen[0x000A]zu viel Speicherplatz und können somit{0xBE00}[0x000A]nicht an den Pokémon Global Link{0xBE00}[0x000A]geschickt werden.
+Unzureichender Speicherplatz[0x000A]auf deiner SD Card.{0xBE01}[0x000A]Das Foto konnte nicht[0x000A]gespeichert werden.
+Unzureichender Speicherplatz auf[0x000A]deiner Nintendo 3DS-Kamera.{0xBE01}[0x000A]Es können keine weiteren Fotodaten[0x000A]gespeichert werden.{0xBE01}[0x000A]Der Speichervorgang[0x000A]ist fehlgeschlagen.
+Die Daten auf deiner SD Card sind[0x000A]fehlerhaft und wurden gelöscht.{0xBE01}[0x000A]Das Foto konnte nicht[0x000A]gespeichert werden.
+Der Speichervorgang[0x000A]ist fehlgeschlagen.
+{0xBDFF:0x0029}

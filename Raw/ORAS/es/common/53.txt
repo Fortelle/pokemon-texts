@@ -1,0 +1,84 @@
+Base de {0x0100,0x0000}
+Perfil secreto
+Decoración de la Base Secreta
+Borrar favoritos
+Seleccionar objetos decorativos
+Añadir a favoritos
+Sobre los favoritos
+Banderas reunidas
+{0x0205,0x0000,0xE07F}
+Decoración de la Base Secreta
+QR Code
+Borrar favoritos
+Perfil secreto
+Ordenar la base
+Desconectar
+Nombre del grupo
+Lema del grupo
+Grito de júbilo
+Expresión de ánimo
+Atrás
+Te permite colocar los objetos decorativos de la Base[0x000A]Secreta.
+Te permite leer el QR Code de otros jugadores o crear[0x000A]el de tu Base Secreta.
+Te permite borrar entradas de tus favoritos.
+Te permite cambiar el perfil de tu Base Secreta.
+Te permite reorganizar la Base Secreta y salir fuera.
+Apaga el PC.
+Te permite cambiar el {0xFF00,0x0002}nombre del grupo{0xFF00,0x0000}.
+Te permite cambiar el {0xFF00,0x0002}lema del grupo{0xFF00,0x0000}.
+Te permite cambiar el {0xFF00,0x0002}grito de júbilo{0xFF00,0x0000}.
+Te permite cambiar la {0xFF00,0x0002}expresión de ánimo{0xFF00,0x0000}.
+Vuelve a la pantalla anterior.
+Se borrarán todos los Amigos Secretos.[0x000A]¿Seguro que quieres continuar?
+Elige al jugador que quieres borrar de tus favoritos.
+¿Quieres borrar a {0x0100,0x0000} de tus favoritos?
+¿Quieres añadir a {0x0100,0x0000} a tus favoritos?
+{0x0100,0x0000} ya está en tus favoritos.[0x000A]¿Quieres quitar su nombre de la lista?
+Has borrado a {0x0100,0x0000} de tus favoritos.
+Has añadido a {0x0100,0x0000} a tus favoritos.
+La lista de favoritos está vacía.
+¡Tienes demasiados favoritos!{0xBE01}[0x000A]Si quieres añadir a alguien más, elimina primero[0x000A]alguna entrada con la opción {0xFF00,0x0002}Borrar favoritos{0xFF00,0x0000}.
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+{0xBDFF:0x002A}
+{0xBDFF:0x002B}
+Añadir a favoritos
+Borrar favoritos
+Sobre los favoritos
+Puedes añadir a tus favoritos al dueño de esta Base[0x000A]Secreta.
+Muestra una explicación acerca de los favoritos.
+Las Bases Secretas de los jugadores que añadas[0x000A]a tus favoritos no desaparecerán a menos que{0xBE00}[0x000A]cambien de base.{0xBE01}[0x000A]Puedes registrar hasta 15 personas en tus favoritos.{0xBE01}[0x000A]Si encuentras Bases Secretas que te gusten, ¡no te[0x000A]olvides de añadir a sus dueños!
+{0x0100,0x0000}
+{0xBDFF:0x0033}
+{0xBDFF:0x0034}
+Sí
+No
+Mesas
+Taburetes
+Alfombras
+Plantas
+Artículos varios
+Pósters
+Muñecos
+Cojines
+Aparatos
+Artículos de broma
+{0xBDFF:0x0041}
+¡La Base Secreta de {0x0100,0x0001} ha aparecido en[0x000A]{0x0105,0x0002}!
+¡Ha aparecido una Base Secreta especial en Ciudad[0x000A]Algaria!
+Lista de Bases Secretas
+Lista de Bases Secretas
+Te permite ver una lista de los jugadores que tienen una[0x000A]Base Secreta.
+{0x0100,0x0000}
+Elimina de la lista la Base Secreta del jugador[0x000A]seleccionado.
+Aún no conoces a jugadores con una Base Secreta.
+{0x0100,0x0000} está en tu lista de Amigos Secretos.{0xBE01}[0x000A]No puedes eliminar las Bases Secretas de tus Amigos[0x000A]Secretos.
+¿Quieres eliminar la Base Secreta de {0x0100,0x0001}?[0x000A]Ubicación: {0x0105,0x0000}.
+¿Seguro que quieres eliminarla?
+{0x0100,0x0000} está en tus favoritos.[0x000A]¿Seguro que quieres eliminar su Base Secreta?
+Has eliminado la Base Secreta de {0x0100,0x0001}.[0x000A]Ubicación: {0x0105,0x0000}.
+Eliminar Base Secreta
+Te permite borrar esta Base Secreta.
+¿Deseas eliminar la Base Secreta de {0x0100,0x0000}?
+Has eliminado la Base Secreta de {0x0100,0x0000}.
+Base del grupo {0x01AA,0x0000}

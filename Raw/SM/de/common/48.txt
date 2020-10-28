@@ -1,0 +1,39 @@
+{0x0181,0x0000}
+Geld
+{0x0206,0x0000,0x002E} $
+Was möchtest du kaufen?
+Betrachten
+Umziehen
+Gekauft
+{0x0184,0x0000}
+Was möchtest du anziehen?
+Keine Kopfbedeckungen vorhanden.
+Kein Haarschmuck vorhanden.
+Keine Brillen vorhanden.
+Keine Oberteile vorhanden.
+Keine Beinkleider vorhanden.
+Keine Socken vorhanden.
+Keine Schuhe vorhanden.
+Keine Taschen vorhanden.
+Das macht {0x0206,0x0000,0x002E} $.[0x000A]Einverstanden?
+Möchtest du deine Neuanschaffung gleich[0x000A]anprobieren?
+Du hast neue Artikel ausgewählt.[0x000A]Möchtest du dich umziehen?
+Vielen Dank! Wenn du dich umziehen möchtest,[0x000A]gehe bitte in die Umkleidekabine.
+Du hast nicht genug Geld.
+Diesen Artikel besitzt du bereits.
+Diesen Artikel kannst du momentan nicht[0x000A]auswählen.
+Das macht {0x0206,0x0000,0x002E} $.{0xBE01}[0x000A]Du kannst diesen Artikel aber nicht mit deinem[0x000A]jetzigen Look kombinieren. Einverstanden?
+Ja
+Nein
+Y-Knopf:[0x000A]Zoomansicht aktivieren/deaktivieren[0x000A][0x000A]L-Knopf/R-Knopf:[0x000A]Figur horizontal drehen[0x000A][0x000A]Schiebepad/Steuerkreuz:[0x000A]Kamera vertikal bewegen (in der Zoomansicht)
+Festival-Münzen
+{0x0206,0x0000,0x002E} FM
+Welchen Artikel möchtest du wie färben?
+{0x0181,0x0000}[0x000A]in dieser Farbe färben?
+Das macht {0x0206,0x0000,0x002E} FM.[0x000A]Einverstanden?
+Vielen Dank!{0xBE01}[0x000A]*Plitsch, platsch, wusch...*[0x000A]*Wusch, platsch, plitsch...*{0xBE01}[0x000A]Loooooos!{0xBE01}[0x000A]...{0xBE01}[0x000A]So, das wäre geschafft!{0xBE01}
+Möchtest du den gefärbten Artikel gleich mal[0x000A]anprobieren?
+Du hast nicht genug Festival-Münzen.
+Keine färbbaren Artikel vorhanden.
+Als Dankeschön aktualisieren wir auch dein[0x000A]Trainerpassfoto!
+Welcher Artikel soll gefärbt werden?

@@ -1,0 +1,14 @@
+sub_event_002_sister_01=¿Qué tal llevas eso de ser Campe{0x1100,0x00FF,0x0302}ónona,[0x000A]{0x0100,0x0000}?{0x0114,0x000D}
+sub_event_002_sister_02=A mí, por mi parte, me va de fábula como Líder[0x000A]de Gimnasio.{0x0114,0x000D}
+sub_event_002_sister_03=Estoy enseñando al personal que no se acaba el[0x000A]mundo por no poder dinamaxizarse.{0xBE01}[0x000A]¡Lo importante es tener una buena estrategia y,[0x000A]sobre todo, pasarlo bien! Así que, ya puestos...{0x0114,0x000D}
+sub_event_002_sister_04=¿Te hace un encuentro de exhibición,[0x000A]Campe{0x1100,0x00FF,0x0302}ónona?{0x0114,0x000D}
+sub_event_002_select_01=¡Claro que sí!
+sub_event_002_select_02=Ahora mismo no
+sub_event_002_sister_05=Vale, pero que te quede bien claro que aquí[0x000A]{0x1100,0x00FF,0x0202}ella sparring eres tú y no yo. ¡Vamos allá!{0x0114,0x000D}
+sub_event_002_sister_06=Bueno, no me extraña que te rajes. Al fin y al[0x000A]cabo, Pueblo Crampón es nuestro terreno.{0xBE01}[0x000A]¡Vamos, que jugamos en casa!{0x0114,0x000D}
+sub_event_002_sister_07=¡Desde luego, eres un{0x1100,0x00FF,0x0100}a Campe{0x1100,0x00FF,0x0302}ónona como la copa[0x000A]de un pino, colega!{0x0114,0x000D}
+sub_event_002_sister_08=Te voy a dar un regalo bien guapo, ea.[0x000A]Trátala bien, ¡o te llevas una colleja de mi parte!{0x0114,0x000D}
+sub_event_002_sister_09=Vuelve a verme cuando te apetezca, que igual[0x000A]me enrollo y te vuelvo a dar una clase magistral.{0x0114,0x000D}
+sub_event_002_sister_10=¡Vaya, {0x0100,0x0000}! ¡Tú por aquí!{0xBE01}[0x000A]Va a ser que quieres combatir contra mí, ¿no?{0x0114,0x000D}
+sub_event_002_sister_11=Tengo que ganarte o no podré fardar de ser[0x000A]mejor que mi hermano.{0x0114,0x000D}
+sub_event_002_sister_12=Buah, si es que no hay nada como los combates[0x000A]contra un{0x1100,0x00FF,0x0100}a Campe{0x1100,0x00FF,0x0302}ónona. ¡Son la caña!{0xBE01}[0x000A]¡Vuelve a verme cuando quieras! Seguro que a[0x000A]Morpeko también le hace ilu.{0x0114,0x000D}

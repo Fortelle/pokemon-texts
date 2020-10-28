@@ -1,0 +1,5 @@
+main_event_0400_telop_01=Steamington
+main_event_0400_poke1_01=Yam yam!
+main_event_0400_assistant_03=Ehilà! Da questa parte!{0x0114,0x000B}
+main_event_0400_assistant_01=Sei riuscit{0x1100,0x00FF,0x0101}oa ad attraversare le Terre Selvagge![0x000A]Ammirevole! Sei un tipo da tenere d’occhio, tu!{0xBE01}[0x000A]La tua squadra però dev’essere a pezzi...[0x000A]Che ne diresti di passare dal Centro Pokémon?{0x0114,0x000B}
+main_event_0400_assistant_02=Per gli Allenatori è un vero paradiso!{0x0114,0x000B}

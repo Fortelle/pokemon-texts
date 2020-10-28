@@ -1,0 +1,15 @@
+main_event_0770_11=Salve, Sfidapalestre! Se sei qui per sfidare Kabu,[0x000A]sappi che ti servono la Medaglia Erba{0xBE00}[0x000A]di Turffield e la Medaglia Acqua di Keelford.{0xBE01}[0x000A]Torna quando le avrai entrambe!
+main_event_0770_12=Oh! Hai già ottenuto due Medaglie![0x000A]Ben fatto, Sfidapalestre!{0xBE01}[0x000A]Ma ora Kabu non è qui, si trova alla[0x000A]Miniera 2 per un allenamento speciale.{0xBE01}[0x000A]Se vuoi raggiungerlo vai a Keelford![0x000A]Da lì potrai arrivare alla miniera facilmente.
+main_event_0770_01=Benvenut{0x1100,0x00FF,0x0101}oa, Sfidapalestre![0x000A]Ti faccio i miei complimenti!{0xBE01}[0x000A]Non sono molti gli Allenatori che riescono[0x000A]ad arrivare fino a Kabu...{0xBE01}[0x000A]Bene, procediamo subito con le formalità allora?
+main_event_0770_select_01=Sì, per favore!
+main_event_0770_select_02=Non ora...
+main_event_0770_09=Nessun problema! Torna pure quando ti sentirai[0x000A]pront{0x1100,0x00FF,0x0101}oa per la sfida! Ti aspetto!
+main_event_0770_07=Prima che la sfida abbia inizio, devo chiederti[0x000A]di indossare la divisa.
+main_event_0770_08=Hai superato brillantemente la missione![0x000A]Complimenti!{0xBE01}[0x000A]Ora ti aspetta la sfida contro Kabu...[0x000A]Vediamo quale fiamma brucia più ardentemente!
+main_event_0770_02=La missione della Palestra di tipo Fuoco è[0x000A]un po’ diversa da quelle che hai affrontato{0xBE00}[0x000A]finora... vedrai. Forza, si comincia!
+main_event_0770_03=Che talento! Prendi questa MT come ricordo[0x000A]della tua impresa.
+main_event_0770_10=Ed eccoti in omaggio anche una divisa uguale[0x000A]a quella che indossa Kabu!
+main_event_0770_04=Sono pochi gli Allenatori che sfidano Kabu...{0xBE01}[0x000A]Quelli che riescono a batterlo poi si contano[0x000A]sulle dita di una mano.{0xBE01}[0x000A]Chissà dove arriverai con il tuo talento!
+main_event_0770_05=Sei qui per la missione? Mi raccomando,[0x000A]fai incetta di punti!
+main_event_0770_06={0xBDFF:0x000D}
+main_event_0770_rival_01=Ehi, {0x0100,0x0000}! Peccato che tu[0x000A]non abbia visto la mia lotta con Kabu...{0xBE00}[0x000A]Ho fatto scintille!{0x0114,0x0005}

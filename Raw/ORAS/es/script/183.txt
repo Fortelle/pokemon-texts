@@ -1,0 +1,26 @@
+Esta zona está cubierta de ceniza volcánica, ¡achís, achís![0x000A]Yo sé cómo usarla, ¡achís!{0xBE01}[0x000A]Fabrico objetos de cristal con ella, ¿a que molo? ¡Achís![0x000A]Puedes recoger ceniza con esto...
+¡Hala, coge esto y ponte tú también a recoger ceniza![0x000A]¡Achís!
+Si tienes el Saco Hollín y caminas entre los montones de[0x000A]ceniza... ¡achís!{0xBE01}[0x000A]Se llenará con la ceniza volcánica, ¡achís, achís!{0xBE01}[0x000A]Cuando hayas recogido una buena cantidad, ven a verme,[0x000A]¡achís!
+¿Has recogido ceniza? ¡Achís![0x000A]A ver... ¡Achís, achís!
+Mmmm...[0x000A]No hay bastante ceniza, ¡achís!{0xBE00}[0x000A]No puedo hacer cristal con esto...{0xBE01}[0x000A]A ver... Tienes que recoger {0x0204,0x0001,0xE07F} gramo{0x1101,0x0001,0x0100}s más para que[0x000A]yo pueda hacerte {0x1702,0x0000}{0x0109,0x0000}, ¡achís!
+¡Oh![0x000A]Tienes un montón de ceniza, ¡achís!{0xBE01}[0x000A]Te voy a hacer un objeto de cristal...[0x000A]¿Cuál quieres? ¡Achís!
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+¿{0x1703,0x0000}{0x0109,0x0000}?, ¡achís![0x000A]¿Seguro? ¡¡Achís!!
+¿Cuál quieres? ¡Achís!
+Vale, {0x1702,0x0000}{0x0109,0x0000} entonces, ¡achís!{0xBE01}[0x000A]Te la hago en un minuto, ¡achís![0x000A]Ten un poco de paciencia, ¡¡achís!!
+¿{0x1703,0x0000}{0x0109,0x0000}? ¡Achís!{0xBE01}[0x000A]No tienes bastante ceniza para hacer eso, lo siento,[0x000A]¡achís, achís!{0xBE01}[0x000A]A ver... Tienes que recoger {0x0203,0x0001,0x0000} gramo{0x1101,0x0001,0x0100}s más para que[0x000A]yo pueda hacerte {0x1702,0x0000}{0x0109,0x0000}, ¡achís!{0xBE01}[0x000A]¿Quieres que te haga otro objeto en vez de ese?[0x000A]¡¡Achís!!
+¿Has recogido toda esa ceniza y ahora no quieres nada[0x000A]de nada, achís?
+He acabado tu {0x0109,0x0000}.[0x000A]Toma, para ti, ¡achís!
+{0x0109,0x0000}
+Salir
+¿Cómo?[0x000A]¡Si no tienes sitio para {0x1700,0x0000}{0x0109,0x0000}, achís!{0xBE01}[0x000A]¡¡Achís!!
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+Es divertido fabricar flautas de cristal solo soplando.[0x000A]¡Achís! ¡Achís!
+Hay herramientas para elaborar artículos de cristal.

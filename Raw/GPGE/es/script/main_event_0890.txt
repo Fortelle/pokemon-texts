@@ -1,0 +1,9 @@
+msg_main0890_musasi_01={0xFF00,0x0009}Jessie:{0xFF00,0x0000} ¡Oye, tú![0x000A]¡Déjanos pasar!
+msg_main0890_rocketm_01=¡No! Me han dicho que no deje pasar a nadie.
+msg_main0890_kojiro_01={0xFF00,0x0009}James:{0xFF00,0x0000} ¡No seas tan cuadriculado, hombre!
+msg_main0890_musasi_02={0xFF00,0x0009}Jessie:{0xFF00,0x0000} ¡Arrg! ¡Es que me saca de quicio!
+msg_main0890_musasi_03=¡A-pár-ta-te!
+msg_main0890_kojiro_02={0xFF00,0x0009}James:{0xFF00,0x0000} ¡Oye! ¡Jessie, espera!
+msg_main0890_stop_01=Soy el guarda de seguridad, y aunque seas un{0x1100,0x00FF,0x0100}a[0x000A]niñ{0x1100,0x00FF,0x0101}oa no me fío de ti. ¡No puedes pasar!
+msg_main0890_stop_02=Buf...
+msg_main0890_stop_03=Parece que le ha dado un telele...

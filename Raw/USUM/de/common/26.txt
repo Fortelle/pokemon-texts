@@ -1,0 +1,85 @@
+Die SD Card wird überprüft...[0x000A]Bitte warte einen Moment.
+Unzureichender Speicherplatz auf der SD Card.[0x000A]Bitte schaffe neuen Platz auf deiner SD Card.{0xBE01}
+Der Speicher der Kamera-Anwendung ist voll.[0x000A]Du kannst keine weiteren Fotos mehr speichern.{0xBE01}[0x000A]Bitte lösche einige Fotos auf der SD Card.{0xBE01}
+Bei der Kamera-Anwendung ist ein Fehler[0x000A]aufgetreten.{0xBE01}
+Die Daten auf deiner SD Card waren[0x000A]fehlerhaft und wurden daher gelöscht.{0xBE01}
+Die SD Card ist voll. Du kannst keine weiteren[0x000A]Fotos mehr speichern.{0xBE01}[0x000A]Bitte schaffe neuen Speicherplatz auf der[0x000A]SD Card deines Systems.{0xBE01}
+Achtung: Es k{0x1101,0x0000,0x0402}anönnen nur noch {0x0200,0x0000} Foto{0x1101,0x0000,0x0100}s über den[0x000A]Alola-Fotoclub gespeichert werden.{0xBE01}
+Die maximale Anzahl an Fotos, die du im[0x000A]Bilderalbum speichern kannst, ist erreicht.{0xBE01}[0x000A]Bitte schaffe neuen Platz, indem du nicht[0x000A]benötigte Fotos in deinem Bilderalbum löschst.{0xBE01}
+Daten werden auf der SD Card gespeichert...[0x000A]Bitte das System nicht ausschalten.
+Die Auswahl wird gelöscht.[0x000A]Willst du wirklich fortfahren?
+Der Speicher der Kamera-Anwendung ist voll.[0x000A]Du kannst keine weiteren Fotos mehr speichern.{0xBE01}[0x000A]Bitte lösche einige Fotos auf deinem System[0x000A]oder in deinem Bilderalbum.{0xBE01}
+Die SD Card ist voll. Du kannst keine weiteren[0x000A]Fotos mehr speichern.{0xBE01}[0x000A]Bitte beende die Software und schaffe mehr[0x000A]Speicherplatz auf der SD Card.{0xBE01}
+Die Fotodaten wurden auf der SD Card[0x000A]gespeichert.{0xBE01}
+Die Auswahl wird gelöscht...[0x000A]Bitte das System nicht ausschalten.
+Die Fotodaten wurden gelöscht.{0xBE01}
+Das Foto wurde zu den Favoriten hinzugefügt.{0xBE01}
+Das Foto wurde aus den Favoriten entfernt.{0xBE01}
+Bitte triff eine Auswahl.{0xBE01}
+{0xBDFF:0x0012}
+Die SD Card wird aktualisiert...[0x000A]Bitte das System nicht ausschalten.
+Die SD Card wurde aktualisiert.{0xBE01}
+{0x0101,0x0000}
+{0x0201,0x0002}.{0x0201,0x0001}.{0x0203,0x0000,0x0000}
+{0x0202,0x0000}
+/
+Löschen
+Lege die Filterkriterien fest und wähle die Option „Suchen“,[0x000A]um den Suchvorgang zu starten.
+Zeitstempel
+Pokémon
+Deko-Elemente
+Favorit
+Fotomodell
+Hintergrund
+Geteilt
+Ältere Fotos zuerst
+Neuere Fotos zuerst
+Pokédex-Nummer
+---
+{0x0101,0x0000}
+Nein
+Ja
+Nur dein Pokémon
+Du und dein Pokémon
+Hintergrund 1
+Hintergrund 2
+Hintergrund 3
+Hintergrund 4
+Hintergrund 5
+Hintergrund 6
+Hintergrund 7
+Hintergrund 8
+O.K.
+Zurücksetzen
+Bitte wähle, in welcher Reihenfolge deine Fotos[0x000A]angezeigt werden sollen.
+Bitte gib den Anfangsbuchstaben des[0x000A]gesuchten Pokémon ein.
+Bitte wähle ein Pokémon.
+Bitte wähle, ob nur Fotos angezeigt werden[0x000A]sollen, die Deko-Elemente aufweisen.
+Bitte wähle, ob nur Fotos angezeigt werden[0x000A]sollen, die zu deinen Favoriten gehören.
+Bitte wähle, wer auf den Fotos abgebildet[0x000A]sein soll.
+Bitte wähle den Hintergrund der Fotos, die[0x000A]angezeigt werden sollen.
+Bitte wähle, ob nur Fotos angezeigt werden[0x000A]sollen, die geteilt wurden.
+Verzieren
+Löschen
+Als Favorit festlegen
+Aus Favoriten löschen
+Zurück
+Ja
+Nein
+Was soll mit dem Foto geschehen?
+Teilen
+Nicht teilen
+Das Foto wird jetzt mit allen Spielern geteilt.{0xBE01}
+Das Foto wird jetzt mit niemandem mehr geteilt.{0xBE01}
+Favoriten und geteilte Fotos können nicht[0x000A]gelöscht werden.{0xBE01}
+Du hast bereits ein anderes Foto geteilt.[0x000A]Möchtest du stattdessen dieses Foto teilen?
+Das ausgewählte Foto wird mit allen anderen[0x000A]Spielern geteilt. Möchtest du fortfahren?
+Im Bilderalbum kannst du dir alle Fotos[0x000A]ansehen, die du über den Alola-Fotoclub[0x000A]gespeichert hast.[0x000A][0x000A]Außerdem hast du die Möglichkeit, deine Fotos[0x000A]mit Deko-Elementen zu verzieren und eins davon[0x000A]mit Spielern, die du auf dem Festival-Plaza[0x000A]triffst, zu teilen.
+Wähle die Option „Verzieren“, um ein Foto mit[0x000A]Deko-Elementen zu schmücken.[0x000A][0x000A]Wähle die Option „Teilen“, um ein Foto mit[0x000A]anderen Spielern zu teilen.
+Dummy
+Dummy
+Dummy
+Suchen
+Dieses Foto kann nicht verziert werden, da es[0x000A]bereits Deko-Elemente enthält.{0xBE01}
+Dummy
+Dummy

@@ -1,0 +1,363 @@
+Freunde
+Bekannte
+Passanten
+{0xBDFF:0x0003}
+Regeln selbst wählen
+Regeln vom Kampfpartner wählen lassen
+Da du das System gewechselt hast,[0x000A]wird die Liste deiner Freunde aktualisiert.
+{0x0124,0x0000}
+{0x0124,0x0000}...
+{0x0100,0x0000}
+Gegen Spieler in nächster Nähe kämpfen
+Gegen Spieler in der Umgebung kämpfen
+Gegen weit entfernte Spieler kämpfen
+Mit Spieler in nächster Nähe tauschen
+Mit Spieler in der Umgebung tauschen
+Mit weit entferntem Spieler tauschen
+Infrarotverbindung
+Lokaler Modus
+Internet
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+Ja
+Nein
+{0xBDFF:0x0017}
+Teile dein Glück mit allen anderen Spielern!
+Dein Glückssignal wurde an alle weitergeleitet:[0x000A]{0x018B,0x0000}
+Willst du dein aktuelles Glückssignal ändern?[0x000A]({0x018B,0x0000})
+Bitte warte einen Moment...
+Ist der andere Spieler bereit, richtet eure[0x000A]Infrarot-Sende-Empfänger aufeinander aus.
+Die von dir gewählte Spielfunktion stimmt nicht[0x000A]mit der Wahl des Gegenübers überein.
+Einer der Spieler muss[0x000A]die Kampfregeln festlegen!
+Trenne den Kontakt zwischen den Infrarot-[0x000A]Sende-Empfängern und warte einen Moment.
+{0xBDFF:0x0020}
+{0xBDFF:0x0021}
+{0xBDFF:0x0022}
+{0xBDFF:0x0023}
+{0xBDFF:0x0024}
+Es wollen bereits zu viele Spieler teilnehmen.[0x000A]Ihr könnt nicht miteinander spielen.
+{0xBDFF:0x0026}
+Wen möchtest du wählen?
+{0xBDFF:0x0028}
+Einladung an alle Freunde/Bekannten
+{0xBDFF:0x002A}
+{0xBDFF:0x002B}
+Diese Spieler werden eingeladen.[0x000A]Einverstanden?
+Du forderst {0x0100,0x0000} (Freund{0x1100,0x0000,0x0200,0x0000}in)[0x000A]zum Kampf heraus!
+Du forderst {0x0100,0x0000} (Bekannt{0x1100,0x0000,0x0102,0x0000}ere)[0x000A]zum Kampf heraus!
+Du forderst {0x0100,0x0000} (Passant{0x1100,0x0000,0x0200,0x0000}in)[0x000A]zum Kampf heraus!
+Suche nach Kampfpartnern!
+Möchtest du dein Kampfgesuch[0x000A]zurückziehen?
+Spiele mit {0x0100,0x0000}!
+Willst du einen Einzelkampf mit[0x000A]normalen Kampfregeln austragen?
+Willst du einen Einzelkampf mit[0x000A]strengen Regeln austragen?
+Willst du einen Einzelkampf ohne[0x000A]Einschränkungen austragen?
+Willst du einen Doppelkampf mit[0x000A]normalen Kampfregeln austragen?
+Willst du einen Doppelkampf mit[0x000A]strengen Regeln austragen?
+Willst du einen Doppelkampf ohne[0x000A]Einschränkungen austragen?
+Willst du einen Dreierkampf mit[0x000A]normalen Kampfregeln austragen?
+Willst du einen Dreierkampf mit[0x000A]strengen Regeln austragen?
+Willst du einen Dreierkampf ohne[0x000A]Einschränkungen austragen?
+Willst du einen Reihumkampf mit[0x000A]normalen Kampfregeln austragen?
+Willst du einen Reihumkampf mit[0x000A]strengen Regeln austragen?
+Willst du einen Reihumkampf ohne[0x000A]Einschränkungen austragen?
+{0xBDFF:0x003F}
+{0xBDFF:0x0040}
+{0xBDFF:0x0041}
+{0x0100,0x0000} (Freund{0x1100,0x0000,0x0200,0x0000}in) hat dir[0x000A]{0x0110,0x0001} geschickt!
+{0x0100,0x0000} (Bekannt{0x1100,0x0000,0x0102,0x0000}ere) hat dir[0x000A]{0x0110,0x0001} geschickt!
+{0x0100,0x0000} (Passant{0x1100,0x0000,0x0200,0x0000}in) hat dir[0x000A]{0x0110,0x0001} geschickt!
+Du hast {0x0110,0x0001} eingesetzt!
+Du hast die {0x0110,0x0001} von[0x000A]{0x0100,0x0000} eingesetzt!
+{0xBDFF:0x0047}
+Auf {0x0100,0x0000} anwenden?
+{0x0110,0x0001} ist um einen[0x000A]Level aufgestiegen!
+{0x0100,0x0000} hat {0x0110,0x0001}[0x000A]erlernt!
+Nimmst du die Kraft von {0x0100,0x0000} an?
+Wähle, was für eine Art Kampf[0x000A]du austragen willst.
+Kampf
+Teilnehmerzahl
+Zu zweit kämpfen
+Zu viert kämpfen
+Kampfart
+Einzelkampf
+Doppelkampf
+Dreierkampf
+Reihumkampf
+Multikampf
+Kampfregeln
+Normale Regeln
+Strenge Regeln
+Keine Einschränkungen
+{0xBDFF:0x005B}
+Mit Handicap
+Ohne Handicap
+O.K.
+{0xBDFF:0x005F}
+{0xBDFF:0x0060}
+{0xBDFF:0x0061}
+{0xBDFF:0x0062}
+{0x0100,0x0000} (Freund{0x1100,0x0000,0x0200,0x0000}in) hat dich[0x000A]zum Kampf herausgefordert!
+{0x0100,0x0000} (Bekannt{0x1100,0x0000,0x0102,0x0000}ere) hat dich[0x000A]zum Kampf herausgefordert!
+{0x0100,0x0000} (Passant{0x1100,0x0000,0x0200,0x0000}in) hat dich[0x000A]zum Kampf herausgefordert!
+Der Kampf wird mit diesen Regeln[0x000A]ausgetragen. Einverstanden?
+Ein Problem ist aufgetreten.[0x000A]Die Verbindung wurde getrennt.
+Die Teilnahme ist nicht möglich, da nicht alle[0x000A]Voraussetzungen erfüllt wurden.
+{0xBDFF:0x0069}
+{0xBDFF:0x006A}
+Lass uns einen Einzelkampf mit[0x000A]normalen Kampfregeln austragen!
+Lass uns einen Einzelkampf mit[0x000A]strengen Regeln austragen!
+Lass uns einen Einzelkampf ohne[0x000A]Einschränkungen austragen!
+Lass uns einen Doppelkampf mit[0x000A]normalen Kampfregeln austragen!
+Lass uns einen Doppelkampf mit[0x000A]strengen Regeln austragen!
+Lass uns einen Doppelkampf ohne[0x000A]Einschränkungen austragen!
+Lass uns einen Dreierkampf mit[0x000A]normalen Kampfregeln austragen!
+Lass uns einen Dreierkampf mit[0x000A]strengen Regeln austragen!
+Lass uns einen Dreierkampf ohne[0x000A]Einschränkungen austragen!
+Lass uns einen Reihumkampf mit[0x000A]normalen Kampfregeln austragen!
+Lass uns einen Reihumkampf mit[0x000A]strengen Regeln austragen!
+Lass uns einen Reihumkampf ohne[0x000A]Einschränkungen austragen!
+Lass uns einen Multikampf mit[0x000A]normalen Kampfregeln austragen!
+Lass uns einen Multikampf mit[0x000A]strengen Regeln austragen!
+Lass uns einen Multikampf ohne[0x000A]Einschränkungen austragen!
+Bitte warte einen Moment,[0x000A]bis alles bereit ist...
+{0xBDFF:0x007B}
+{0x0100,0x0000} sucht nach Spielern,[0x000A]die mit {0x1100,0x0000,0x0303,0x0000}ihmihr kämpfen wollen!
+Suche Spieler für einen Multikampf!
+{0xBDFF:0x007E}
+{0x0100,0x0000}
+: Spielleiter
+: Sucht...
+: Wartet...
+Pokémon-Anzahl
+: Keine Einschränkungen
+: Mindestens 2
+: Mindestens 3
+{0xBDFF:0x0087}
+: 3
+: 4
+: 6
+: 1 bis 3
+Level der Pokémon
+: Handicap Lv. 50
+: Bis Lv. 50
+: Keine Einschränkungen
+Besondere Pokémon
+: Erlaubt
+: Verboten
+Doppelte Items
+: Erlaubt
+: Verboten
+Doppelte Pokémon
+: Erlaubt
+: Verboten
+Handicap
+: An
+: Aus
+{0xBDFF:0x009C}
+{0xBDFF:0x009D}
+Du bittest {0x0100,0x0000} (Freund{0x1100,0x0000,0x0200,0x0000}in),[0x000A]Pokémon mit dir zu tauschen!
+Du bittest {0x0100,0x0000} (Bekannt{0x1100,0x0000,0x0102,0x0000}ere),[0x000A]Pokémon mit dir zu tauschen!
+Du bittest {0x0100,0x0000} (Passant{0x1100,0x0000,0x0200,0x0000}in),[0x000A]Pokémon mit dir zu tauschen!
+Suche nach einem Tauschpartner!
+Möchtest du dein Tauschgesuch[0x000A]zurückziehen?
+{0xBDFF:0x00A3}
+{0xBDFF:0x00A4}
+Willst du Pokémon tauschen?
+{0xBDFF:0x00A6}
+{0xBDFF:0x00A7}
+Für einen Tausch benötigst du mindestens[0x000A]zwei Pokémon.
+Du kannst nicht tauschen, weil sowohl dein[0x000A]Team als auch deine Boxen bereits voll sind.
+In deinem Team befindet sich ein[0x000A]unzulässiges Pokémon.
+Der Tausch wird abgebrochen, da es bei[0x000A]deinem Tauschpartner ein Problem gab.
+{0x0100,0x0000} (Freund{0x1100,0x0000,0x0200,0x0000}in) möchte[0x000A]Pokémon mit dir tauschen!
+{0x0100,0x0000} (Bekannt{0x1100,0x0000,0x0102,0x0000}ere)[0x000A]möchte Pokémon mit dir tauschen!
+{0x0100,0x0000} (Passant{0x1100,0x0000,0x0200,0x0000}in)[0x000A]möchte Pokémon mit dir tauschen!
+{0x0100,0x0000} sucht nach[0x000A]einem Tauschpartner!
+Lass uns Pokémon tauschen!
+Rede mit {0x0100,0x0000}!
+Zum Spielchat einladen?
+Du lädst {0x0100,0x0000} (Freund{0x1100,0x0000,0x0200,0x0000}in)[0x000A]zu einem Spielchat ein!
+{0xBDFF:0x00B4}
+{0xBDFF:0x00B5}
+Willst du die Spielchat-Einladung[0x000A]zurückziehen?
+{0xBDFF:0x00B7}
+Du befindest dich in einem Spielchat[0x000A]mit {0x0100,0x0000}.
+Spielchat deaktivieren?
+Spielchat wird nun deaktiviert...
+{0x0100,0x0000} hat den Spielchat beendet.
+{0x0100,0x0000} will sich per Spielchat[0x000A]mit dir unterhalten!
+Lass uns per Spielchat miteinander reden!
+Bitte warte einen Moment,[0x000A]bis alles bereit ist...
+Spielchat wird deaktiviert, da es beim[0x000A]anderen Spieler ein Problem gab.
+{0x0100,0x0000} hat eine öffentliche[0x000A]Trainer-Promo, die du dir ansehen kannst.
+Willst du dir die Trainer-Promo ansehen?
+Auf die Genehmigung von[0x000A]{0x0100,0x0000} (Freund{0x1100,0x0000,0x0200,0x0000}in) wird gewartet...
+Auf die Genehmigung von[0x000A]{0x0100,0x0000} (Bekannt{0x1100,0x0000,0x0102,0x0000}ere) wird gewartet...
+Auf die Genehmigung von[0x000A]{0x0100,0x0000} (Passant{0x1100,0x0000,0x0200,0x0000}in) wird gewartet...
+Willst du den Vorgang abbrechen?
+{0xBDFF:0x00C6}
+{0xBDFF:0x00C7}
+Der andere Spieler ist nicht verfügbar.
+{0x0100,0x0000} (Freund{0x1100,0x0000,0x0200,0x0000}in) möchte sich[0x000A]deine Trainer-Promo ansehen!
+{0x0100,0x0000} (Bekannt{0x1100,0x0000,0x0102,0x0000}ere) möchte sich[0x000A]deine Trainer-Promo ansehen!
+{0x0100,0x0000} (Passant{0x1100,0x0000,0x0200,0x0000}in) möchte sich[0x000A]deine Trainer-Promo ansehen!
+Erlaubst du dem anderen Spieler,[0x000A]sich deine Trainer-Promo anzusehen?
+Du hast dem anderen Spieler[0x000A]deine Trainer-Promo zugeschickt!
+Der Vorgang wird abgebrochen, da es beim[0x000A]anderen Spieler ein Problem gab.
+O-Kraft ({0x0100,0x0000})
+Auf den Spieler anwenden
+Vom Spieler annehmen
+Abbrechen
+Ohne Pokémon kannst du auch keine[0x000A]O-Kraft einsetzen!
+{0x018B,0x0000}
+Willst du {0x0100,0x0000} in deine[0x000A]Favoritenliste aufnehmen?
+Deine Favoritenliste ist bereits voll.
+Willst du {0x0100,0x0000} aus deiner[0x000A]Favoritenliste entfernen?
+Registrierte Kontakte: {0x0202,0x0000}/100
+Deine Favoritenliste ist leer. Benutze sie,[0x000A]um die Profile anderer Spieler zu speichern.
+Die Batterieleistung ist fast erschöpft.
+Die Batterieleistung lässt nach!
+Live-Begegnungen
+Stelle eine Internetverbindung[0x000A]her oder begib dich an einen Ort,[0x000A]wo sich viele Leute aufhalten,[0x000A]um andere Spieler zu treffen!
+Spielerkategorien
+Berühre das Icon eines Spielers,[0x000A]der dein Interesse geweckt hat,[0x000A]um mit ihm in Kontakt zu treten.
+Freunde
+Spieler, die in der Freundesliste[0x000A]deines Nintendo 3DS-Systems[0x000A]registriert sind, werden Freunde[0x000A]genannt.
+Bekannte
+Spieler, mit denen du über die[0x000A]Kommunikationsfunktionen in Kontakt[0x000A]getreten bist, heißen Bekannte.[0x000A]Spiele erneut mit ihnen, um sie in[0x000A]deine Freundesliste aufzunehmen.
+Passanten
+Spieler, die gerade irgendwo auf[0x000A]der Welt dieses Spiel spielen, heißen[0x000A]Passanten. Sie können zu Bekannten[0x000A]werden, wenn du mit ihnen über die[0x000A]Kommunikationsfunktionen spielst.
+Spielfunktionen
+Berühre das Menüsymbol, um aus[0x000A]einer Reihe von Spielfunktionen wie[0x000A]Kämpfen oder Tauschen zu wählen.
+Linktausch
+Über die Kommunikationsfunktionen[0x000A]kannst du mit vielen anderen Spielern[0x000A]Pokémon tauschen. Du hast doch[0x000A]sicher Lust auf einen Linktausch!
+Link-Kämpfe
+Über die Kommunikationsfunktionen[0x000A]kannst du mit vielen anderen Spielern[0x000A]Kämpfe austragen. Du hast doch[0x000A]sicher Lust auf einen Link-Kampf!
+Spielchat
+Wenn du mit Freunden spielst,[0x000A]könnt ihr den Spielchat aktivieren.[0x000A]Das ermöglicht euch, während[0x000A]eines Kampfes oder eines Tausches[0x000A]miteinander zu reden!
+GTS
+Die GTS ermöglicht dir, mit Spielern[0x000A]aus aller Welt Pokémon zu tauschen.[0x000A]Schau doch mal dort vorbei!
+Trainer-Promos
+Berühre das Icon eines Spielers,[0x000A]der dein Interesse geweckt hat,[0x000A]und lasse dir von ihm seine[0x000A]Trainer-Promo zeigen.
+{0xBDFF:0x00F2}
+{0xBDFF:0x00F3}
+O-Kraft
+Dir steht O-Kraft zur Verfügung![0x000A][0x000A]O-Kraft kann dir oder anderen[0x000A]Spielern das Abenteuer erleichtern.[0x000A]Willst du sie einsetzen?
+Favoritenliste
+In der Favoritenliste können die[0x000A]Profile von bis zu hundert Spielern[0x000A]gespeichert werden. Willst du[0x000A]einen Blick in die Liste werfen?
+Glückssignal
+Gab es für dich in letzter Zeit Anlass[0x000A]zum Feiern? Berühre die Schaltfläche[0x000A]für das Glückssignal, um alle an[0x000A]deinem Glück teilhaben zu lassen!
+Über das Internet spielen
+Sobald eine Internetverbindung[0x000A]hergestellt wurde, kannst du mit[0x000A]Trainern aus aller Welt spielen![0x000A]Soll eine Internetverbindung[0x000A]hergestellt werden?
+Spielsynchro
+Wenn du per Spielsynchro eine[0x000A]Internetverbindung herstellst,[0x000A]kannst du die Dienste des PGL in[0x000A]Anspruch nehmen. Willst du eine[0x000A]Spielsynchro durchführen?
+{0xBDFF:0x00FE}
+{0xBDFF:0x00FF}
+{0xBDFF:0x0100}
+{0xBDFF:0x0101}
+Kampf-Plaza
+Hier tummeln sich fähige Trainer[0x000A]aus aller Welt, um zu kämpfen.[0x000A]Willst du auf dem Kampf-Plaza[0x000A]dein Können auf die Probe stellen?
+Mein Profil
+Beantworte hier einige Fragen,[0x000A]um dein Profil zu aktualisieren.[0x000A]Willst du an der Befragung[0x000A]teilnehmen?
+PSS-Optionen
+Hier kannst du die Einstellungen der[0x000A]PSS-Kommunikationsdienste ändern.[0x000A]Willst du die aktuellen Einstellungen[0x000A]überprüfen?
+Holo-Log
+Du hast eine neue Nachricht![0x000A]Willst du sie dir mit dem[0x000A]Holo-Log ansehen?
+Wundertausch
+Etwas Nervenkitzel gefällig? Bei[0x000A]dieser Tauschvariante erhältst du von[0x000A]einem Trainer irgendwo auf der Welt[0x000A]ein unbestimmtes Pokémon. Willst du[0x000A]einen Wundertausch wagen?
+{0xBDFF:0x010C}
+{0xBDFF:0x010D}
+{0xBDFF:0x010E}
+{0xBDFF:0x010F}
+{0xBDFF:0x0110}
+{0xBDFF:0x0111}
+{0xBDFF:0x0112}
+{0xBDFF:0x0113}
+{0xBDFF:0x0114}
+{0xBDFF:0x0115}
+{0xBDFF:0x0116}
+Willst du {0x0100,0x0000} aus der Liste[0x000A]deiner Bekannten löschen?
+{0x0100,0x0000} wurde aus der Liste[0x000A]deiner Bekannten gelöscht.
+{0xBDFF:0x0119}
+{0xBDFF:0x011A}
+Kampf
+Tausch
+Kampf-Plaza
+Mein Profil
+Favoritenliste
+Glückssignal
+GTS
+O-Kraft
+Holo-Log
+Spielsynchro
+Wundertausch
+PSS-Optionen
+Spielchat
+Trainer-Promo
+Toll!
+Alles Gute!
+{0x0100,0x0000} (Freund{0x1100,0x0000,0x0200,0x0000}in) wünscht dir alles Gute zum Geburtstag!
+{0x0100,0x0000} (Bekannt{0x1100,0x0000,0x0102,0x0000}ere) wünscht dir alles Gute zum Geburtstag!
+{0x0100,0x0000} (Passant{0x1100,0x0000,0x0200,0x0000}in) wünscht dir alles Gute zum Geburtstag!
+{0x0100,0x0000} (Freund{0x1100,0x0000,0x0200,0x0000}in) sagt: „Toll!“.
+{0x0100,0x0000} (Bekannt{0x1100,0x0000,0x0102,0x0000}ere) sagt: „Toll!“.
+{0x0100,0x0000} (Passant{0x1100,0x0000,0x0200,0x0000}in) sagt: „Toll!“.
+{0xBDFF:0x0131}
+PSS-Optionen
+Kommunikationseinstellungen
+{0xBDFF:0x0134}
+PSS-Datenübertragung deaktivieren
+Trainer-Promo: {0xFF00,0x0002}Zeigen{0xFF00,0x0000}
+Trainer-Promo: {0xFF00,0x0001}Nicht zeigen{0xFF00,0x0000}
+Spielchat: {0xFF00,0x0002}Verwenden{0xFF00,0x0000}
+Spielchat: {0xFF00,0x0001}Nicht verwenden{0xFF00,0x0000}
+Wähle, welche Kontakte mit dir über die[0x000A]Kommunikationsfunktionen spielen können.
+Mit dieser Einstellung können dir Freunde[0x000A]Spieleinladungen schicken.[0x000A]Einverstanden?
+Mit dieser Einstellung können dir Freunde[0x000A]keine Spieleinladungen schicken.[0x000A]Einverstanden?
+Mit dieser Einstellung können dir Bekannte[0x000A]Spieleinladungen schicken.[0x000A]Einverstanden?
+Mit dieser Einstellung können dir Bekannte[0x000A]keine Spieleinladungen schicken.[0x000A]Einverstanden?
+Mit dieser Einstellung können dir Passanten[0x000A]Spieleinladungen schicken.[0x000A]Einverstanden?
+Mit dieser Einstellung können dir Passanten[0x000A]keine Spieleinladungen schicken.[0x000A]Einverstanden?
+Die PSS-Datenübertragung wird deaktiviert.[0x000A]Danach kannst du nicht mehr auf die[0x000A]Funktionen des PSS zugreifen. Einverstanden?
+Die PSS-Datenübertragung wurde deaktiviert.[0x000A]Du kannst nun auf die Drahtlosfunktionen[0x000A]deines Nintendo 3DS-Systems zurückgreifen.
+PSS-Datenübertragung reaktivieren
+Willst du deine Trainer-Promo allen[0x000A]anderen Spielern zeigen?
+Ja
+Nein
+Willst du weit entfernten Freunden[0x000A]ermöglichen, sich per Spielchat[0x000A]mit dir zu unterhalten?
+Ja
+Nein
+Die andere Person möchte den Spielchat[0x000A]aktivieren. Bist du damit einverstanden?
+Die andere Person möchte den Spielchat[0x000A]deaktivieren. Bist du damit einverstanden?
+Die Spielchat-Funktion wurde über die[0x000A]Altersbeschränkungen dauerhaft deaktiviert.
+Du hast {0x0100,0x0000} ein „Toll!“ geschickt.
+Du hast {0x0100,0x0000} zum Geburtstag[0x000A]gratuliert.
+Die drahtlose Verbindung ist derzeit[0x000A]deaktiviert.
+Soll der Spielchat aktiviert werden?
+Sobald ein Freund gefunden wurde,[0x000A]wird der Spielchat aktiviert. Einverstanden?
+Der andere Spieler kann den Spielchat nicht[0x000A]nutzen. Der Spielchat wird ausgeschaltet.
+Die Internetfunktionen wurden über die[0x000A]Altersbeschränkungen dauerhaft deaktiviert.
+???
+Bitte gib die Geheimzahl ein, um die[0x000A]Altersbeschränkungen aufzuheben.
+Um diese Funktion nutzen zu können, muss[0x000A]ein Erwachsener den Datenaustausch über die[0x000A]Child Online Privacy Protection innerhalb der[0x000A]Altersbeschränkungen des Systems aktivieren.
+{0xBDFF:0x0157}
+Die eingegebene Geheimzahl ist nicht korrekt.[0x000A]Der Spielchat kann nicht aktiviert werden.
+Der Kampf wird mit den Kalos-Regeln[0x000A]ausgetragen. Einverstanden?
+Was sind die Kalos-Regeln?
+Die Kalos-Regeln gelten,[0x000A]wenn du gegen jemanden antrittst,[0x000A]der Pokémon X oder Pokémon Y spielt.[0x000A][0x000A]Items und Attacken, die nur in Pokémon[0x000A]Omega Rubin und Pokémon Alpha Saphir[0x000A]vorkommen, können nicht eingesetzt werden.
+Ein Pokémon besitzt Attacken oder Items,[0x000A]deren Einsatz laut Kalos-Regeln unzulässig ist.
+Details
+Zurück
+Kampfbox
+Team-Pokémon
+Nicht einsetzbar
+Unzulässiges Item
+Die Teilnahme ist nicht möglich, da die[0x000A]Kalos-Regeln nicht eingehalten wurden.
+Bitte stelle eine Infrarotverbindung[0x000A]mit dem Spielleiter her.
+Bitte warte einen Augenblick, bis die[0x000A]Vorbereitungen abgeschlossen sind.
+Alle beteiligten Spieler müssen eine[0x000A]Infrarotverbindung miteinander herstellen.
+Es muss noch eine Infrarotverbindung mit[0x000A]{0x0200,0x0000} weiteren Spieler{0x1101,0x0000,0x0100}n hergestellt werden.
+Freundescode:
+Wenn du gegen diesen Spieler antrittst, gelten[0x000A]die Kalos-Regeln. Möchtest du fortfahren?
+Nicht genug Pokémon.

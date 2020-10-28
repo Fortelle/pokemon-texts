@@ -1,0 +1,4 @@
+msg_main0760_rival_01={0xFF00,0x0009}{0x0100,0x0001} : {0xFF00,0x0000}{0x0100,0x0000} ![0x000A]Tu tombes à pic !{0xBE01}[0x000A]Tu as entendu notre discussion ?[0x000A]Tu veux qu’on y aille ensemble, du coup ?
+msg_main0760_rival_02=Ouf ! Voilà qui me donne du courage ![0x000A]Allons-y !
+msg_main0760_rival_03=OK ! Dis-moi quand t’es prêt{0x1100,0x00FF,0x0100}e. Je t’attends ici.
+msg_main0760_rival_04={0xFF00,0x0009}{0x0100,0x0001} : {0xFF00,0x0000}Allez, c’est parti ![0x000A]T’inquiète, je te suis et j’assure tes arrières !

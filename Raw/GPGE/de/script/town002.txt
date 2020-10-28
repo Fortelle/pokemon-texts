@@ -1,0 +1,15 @@
+msg_town002_kanban_01=Vertania City[0x000A]Das immergrüne Paradies!
+msg_town002_kanban_02=Pokémon-Arena von Vertania City
+msg_town002_door_01=Die Türen der Arena sind verschlossen...
+msg_town002_kanban_03={0xBDFF:0x0003}
+msg_town002_kanban_04=Tipps für Trainer{0xBE01}[0x000A]Wenn dir die Pokébälle ausgehen, kannst du[0x000A]dir im Pokémon-Supermarkt welche kaufen.
+msg_town002_kanban_05=Trainerschule{0xBE01}[0x000A]Bildung bildet!
+msg_town002_childm_01_01=Ist das ein Pokémon, das du da bei dir hast?[0x000A]Wie cool!!{0xBE01}[0x000A]Ich find’s klasse, dass man mit seinem[0x000A]Lieblings-Pokémon spazieren gehen kann,{0xBE00}[0x000A]wann immer man will!
+msg_town002_oldm_01_01=Diese Pokémon-Arena ist dauernd geschlossen![0x000A]Wer hier wohl der Arenaleiter ist?
+msg_town002_oldm_01_02=Der Arenaleiter ist endlich zurückgekehrt!
+msg_town002_bugcatcher_01_01=He, soll ich dir was über Raupy und Hornliu[0x000A]erzählen?
+msg_town002_bugcatcher_01_02=Pfff, dann eben nich’!
+msg_town002_bugcatcher_01_03=Raupy is’ nich’ besonders gefährlich, Hornliu[0x000A]aber hat ’nen giftigen Stachel auf dem Kopf!{0xBE01}[0x000A]Du musst aufpassen, dass es deine Pokémon[0x000A]nich’ pikst.
+msg_town002_jevenile_f_01={0xBDFF:0x000C}
+msg_town002_poke_01={0xFF00,0x0009}Myrapla:{0xFF00,0x0000} Rapla!
+msg_town002_middlem_01=Hallo! Du kommst aus Alabastia, stimmt’s?

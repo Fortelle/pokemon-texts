@@ -1,0 +1,26 @@
+Ahoi, Matros{0x1100,0x00FF,0x0201,0x0000}ein![0x000A]Willkommen am Pier von Mele-Mele!
+Ahoi, Matros{0x1100,0x00FF,0x0201,0x0000}ein![0x000A]Willkommen am Pier von Akala!
+Ahoi, Matros{0x1100,0x00FF,0x0201,0x0000}ein![0x000A]Willkommen am Pier von Ula-Ula!
+Dieser Pier gehört zum Dorf des Seevolkes.
+Dieser Pier gehört zum Æther-Paradies.
+Wohin möchtest du?
+Du möchtest also nach Hauholi City[0x000A]auf Mele-Mele?
+Du möchtest also nach Kantai City[0x000A]auf Akala?
+Du möchtest also nach Malihe City[0x000A]auf Ula-Ula?
+Du möchtest also zum Dorf des Seevolkes[0x000A]auf Poni?
+Du möchtest also zum Æther-Paradies?
+Das Schiff legt bald ab.{0xBE01}[0x000A]Ich hoffe, du genießt die frische Brise[0x000A]auf dem Meer!
+Bitte beehre uns bald wieder!
+Es tut mir fürchterlich leid, aber momentan[0x000A]ist der Fährbetrieb wegen einer Inspektion{0xBE00}[0x000A]eingestellt.
+Unser nächstes Ziel ist das Æther-Paradies.[0x000A]Bist du bereit?{0x0114,0x0013}
+Hmpf... Na dann los!{0x0114,0x0013}
+In Ordnung, ich warte.{0x0114,0x0013}
+Was ist das bloß für ein Aufruhr da hinten?{0xBE01}[0x000A]Aber erst mal zu dir...[0x000A]Willst du nach Malihe City zurückkehren?
+Dann begib dich bitte an Bord.[0x000A]Das Schiff legt gleich ab!
+Verstehe.[0x000A]Du kannst es dir jederzeit anders überlegen!
+Hauholi City
+Kantai City
+Malihe City
+Dorf des Seevolkes
+Æther-Paradies
+Hierbleiben

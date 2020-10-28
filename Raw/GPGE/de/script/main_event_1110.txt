@@ -1,0 +1,8 @@
+msg_main1110_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Ah, da bist du ja!
+msg_main1110_rival_06=Ich dachte mir schon, dass du bald die Arena[0x000A]der Zinnoberinsel erreichen würdest.
+msg_main1110_rival_07=Hast du gegen Pyro gewonnen?{0xBE01}[0x000A]Super, dann mal herzlichen Glückwunsch!
+msg_main1110_rival_02=Um zur Pokémon-Liga gehen zu können,[0x000A]braucht man {0xFF00,0x0006}acht Orden{0xFF00,0x0000}, oder?
+msg_main1110_rival_08=Ich hab bisher sieben. Jetzt fehlt nur noch...
+msg_main1110_rival_03=Die Arena in {0xFF00,0x0006}Vertania City{0xFF00,0x0000}! Neulich war da aber[0x000A]dummerweise niemand.
+msg_main1110_rival_04=Ich nehme an, du hast sie auch noch nie von[0x000A]innen gesehen...
+msg_main1110_rival_05=Weißt du was? Ich schau am besten einfach noch[0x000A]mal in Vertania City vorbei.

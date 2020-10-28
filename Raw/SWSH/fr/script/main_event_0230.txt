@@ -1,0 +1,10 @@
+main_event_0230_rival_01=Au fait, {0x0100,0x0000}...[0x000A]C’est ta première fois dans un Centre Pokémon ?{0x0114,0x0005}
+main_event_0230_select_01=Oui...
+main_event_0230_select_02=Non, je m’y connais !
+main_event_0230_rival_02=Dans ce cas, j’ai rien à t’apprendre !{0x0114,0x0005}
+main_event_0230_rival_03=T’inquiète, je vais t’expliquer !{0x0114,0x0005}
+main_event_0230_rival_04=Tout d’abord, voici l’infirmière ! Hésite pas à aller[0x000A]lui parler, elle soignera ton équipe gratuitement !{0x0114,0x0005}
+main_event_0230_rival_05=Il y a aussi un ordinateur à disposition,[0x000A]où les Pokémon que tu captures sont stockés.{0xBE01}[0x000A]Tu peux voyager qu’avec six Pokémon sur toi,[0x000A]donc c’est bien pratique !{0x0114,0x0005}
+main_event_0230_youngm_01=Ils vendent aussi des Potions à la Boutique[0x000A]Pokémon ! Ça aide bien !
+main_event_0230_middlem_01=Vous êtes Dresseurs, les jeunes ?[0x000A]Pensez à faire le plein de Potions !
+main_event_0230_rival_06=Merci du conseil, m’sieur !{0xBE01}[0x000A]{0x0100,0x0000}, va faire soigner t{0x1101,0x00FD,0x0202}ones Pokémon[0x000A]si nécessaire et retrouve-moi sur la Route 2 !{0x0114,0x0005}

@@ -1,0 +1,158 @@
+
+
+Sunny
+The sunny weather condition. It boosts the power of Fire-type moves and lowers the power of Water-type moves.
+Rain
+The rain weather condition. It boosts the power of Water-type moves and lowers the power of Fire-type moves.
+Sandstorm
+The sandstorm weather condition. It damages all Pokémon that are not Rock, Ground, or Steel type every turn. It boosts the Sp. Def of Rock-type Pokémon.
+Hail
+The hail weather condition. It damages all Pokémon that are not Ice type every turn.
+Electric Terrain
+Pokémon on the ground won't fall asleep for five turns. It boosts the power of Electric-type moves.
+Grassy Terrain
+Pokémon on the ground restore their HP a little for five turns. It boosts the power of Grass-type moves.
+Misty Terrain
+Pokémon on the ground won't get any status conditions for five turns. It also halves the damage from Dragon-type moves.
+Trick Room
+Slower Pokémon get to move first for five turns.
+Magic Room
+Pokémon can't use their held items for five turns.
+Wonder Room
+Pokémon's Defense and Sp. Def are swapped for five turns.
+Critical-Hits ↑
+It raises the critical-hit rate.
+Confusion
+The Pokémon may hurt itself for one to four turns.
+Infatuation
+The Pokémon is less likely to attack Pokémon of the opposite gender.
+Nightmare
+It reduces the HP of the Pokémon every turn while sleeping.
+Drowsy
+The Pokémon will fall asleep at the end of the turn if it remains on the battlefield.
+Encore
+Due to Encore, the Pokémon can use only <var> for three turns.
+No Ability
+The Pokémon's Ability loses its effect.
+Torment
+The Pokémon can't use the same move twice in a row.
+Tailwind
+It doubles the Speed stat of the Pokémon in battle for four turns.
+Lucky Chant
+The opponent's moves won't result in a critical hit.
+Grudge
+If the Pokémon faints by an opponent's move, the PP of the move will be 0.
+Heal Block
+The Pokémon can't recover HP by its moves, Ability, or held items for five turns.
+Identified
+The Pokémon will be hit by certain moves that usually don't have any effect on it. The effect of the Pokémon's boosted evasiveness will be ignored when attacked.
+Disable
+The Pokémon can't use <var> for four turns.
+Can't Escape
+The Pokémon can't flee or be switched.
+Lock-On
+The Pokémon's next move never misses the target after the Pokémon has locked on to it.
+Embargo
+For five turns, the Pokémon cannot use its held item and no items can be used on it.
+Charge
+The power of the Pokémon's Electric-type move doubles on the turn after charging.
+Gravity
+Moves are more likely to hit for five turns. Ground-type moves will hit Flying-type Pokémon and Pokémon with the Levitate Ability. Flying moves can't be used.
+Mist
+The Pokémon's stats won't be lowered for five turns.
+Safeguard
+It protects the Pokémon from status conditions for five turns.
+Stealth Rock
+It hurts Pokémon that switch into battle.
+Stockpile
+The Pokémon's Defense and Sp. Def stats go up while stockpiling.
+Taunt
+The Pokémon can use only damage-causing moves.
+Telekinesis
+Moves, except for one-hit KO moves, will hit the Pokémon without fail for three turns. Ground-type moves won't hit the Pokémon.
+Magnet Rise
+Ground-type moves won't hit the Pokémon for five turns.
+Toxic Spikes
+The trap poisons Pokémon that switch into battle. It won't hurt Flying-type Pokémon or Pokémon with the Levitate Ability.
+Mud Sport
+The power of Electric-type moves will be halved for five turns.
+Wish
+The Pokémon's HP will be restored on the turn after the Pokémon uses Wish.
+Sticky Web
+It lowers the Speed of Pokémon that switch into battle.
+Ingrain
+The Pokémon restores its HP at the end of each turn. Ingrained Pokémon can't be switched.
+Curse
+The Pokémon takes damage at the end of each turn.
+Trick-or-Treat
+The Ghost type is added to the Pokémon's type.
+Light Screen
+Damage from special attacks is halved for five turns.
+Reflect
+Damage from physical attacks is halved for five turns.
+Imprison
+If the Pokémon affected by Imprison know any moves also known by the user of Imprison, they are prevented from using those moves.
+Perish Song
+All Pokémon that heard Perish Song will faint after three turns.
+Spikes
+The trap hurts Pokémon that switch into battle. It won't hurt Flying-type Pokémon or Pokémon with the Levitate Ability.
+Water Sport
+It halves the power of Fire-type moves for five turns.
+Destiny Bond
+The Pokémon will make the opponent faint if the opponent makes the Pokémon faint.
+Forest's Curse
+The Grass type is added to the Pokémon's type.
+Leech Seed
+Leech Seed steals the Pokémon's HP and restores the opponent's HP at the end of each turn.
+Lock-On
+A move won't miss on the locked-on target.
+Bound
+The Pokémon is bound and takes damage every turn.
+Bide
+The Pokémon endures attacks for two turns, then strikes back to inflict double the damage taken.
+Outrage
+The Pokémon rampages and attacks for two to three turns. It then becomes confused.
+Thrash
+The Pokémon rampages and attacks for two to three turns. It then becomes confused.
+Petal Dance
+The Pokémon rampages and attacks for two to three turns. It then becomes confused.
+Badly Poisoned
+The Pokémon is badly poisoned. The damage the Pokémon takes from the poison worsens every turn.
+Future Attack
+Two turns after this move is used, the Pokémon will receive damage.
+Uproar
+The Pokémon attacks in an uproar for three turns. During that time, no Pokémon can fall asleep.
+Aqua Ring
+The Pokémon envelops itself in a veil made of water. It regains some HP every turn.
+Autotomize
+The Pokémon's Speed goes up sharply. It also gets lighter.
+Smack Down
+The Pokémon is smacked down to the ground.
+Fairy Lock
+The Pokémon can't flee during this turn.
+Rainbow
+It boosts the likelihood of additional effects occurring.
+Swamp
+It cuts Speed to 1/4.
+Sea of Fire
+It damages Pokémon other than Fire-type Pokémon every turn.
+Harsh Sunlight
+The extremely harsh sunlight weather condition. It boosts the power of Fire-type moves and protects Pokémon from Water-type moves.
+Heavy Rain
+The heavy rain weather condition. It boosts the power of Water-type moves and protects Pokémon from Fire-type moves.
+Strong Winds
+The strong winds condition. The power of supereffective moves against Flying-type Pokémon will be weakened.
+Psychic Terrain
+Pokémon on the ground won't be hit by priority moves for five turns. It boosts the power of Psychic-type moves.
+Throat Chop
+The Pokémon can't use any move that produces sound for two turns.
+Aurora Veil
+It halves the power of special and physical attacks for five turns.
+Laser Focus
+The move on the turn after the Pokémon uses Laser Focus always results in a critical hit.
+
+
+
+
+
+

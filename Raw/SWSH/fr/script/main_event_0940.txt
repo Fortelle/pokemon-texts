@@ -1,0 +1,10 @@
+main_event_0940_rival_01={0x0100,0x0000}...{0x0114,0x0005}
+main_event_0940_rival_02=Je sais toujours pas trop quoi faire,[0x000A]par rapport à mon frangin...{0xBE01}[0x000A]Tu sais, le fait que ça la fiche mal pour lui,[0x000A]si je suis tout nul...{0x0114,0x0005}
+main_event_0940_rival_03=Mais je me dis aussi que c’est pas en me prenant[0x000A]la tête que je vais arranger les choses.{0xBE01}[0x000A]Il faut que je tente d’autres tactiques ! J’aimerais[0x000A]bien tester un truc, t’as le temps pour un duel ?{0x0114,0x0005}
+main_event_0940_select_01=Allez !
+main_event_0940_select_02=Donne-moi juste une minute !
+main_event_0940_rival_04=Super ! Je sens qu’un combat contre toi[0x000A]va m’aider à y voir plus clair !{0xBE00}[0x000A]Je vais tout donner !{0x0114,0x0005}
+main_event_0940_rival_05=Prends ton temps...[0x000A]Si tu me cherches, je serai juste ici, à déprimer...{0x0114,0x0005}
+main_event_0940_rival_06=J’ai essayé de modifier la composition de mon[0x000A]équipe pour en tirer le max, mais ça marche bof.{0xBE01}[0x000A]Je sais pas...[0x000A]Il me manque encore un truc, faut croire...{0x0114,0x0005}
+main_event_0940_rival_07=Mais je te jure, Tarak, c’est mon héros...[0x000A]Je supporte pas l’idée de lui faire honte.{0x0114,0x0005}
+main_event_0940_rival_08=Donc je vais m’accrocher ![0x000A]Hors de question que je baisse les bras !{0xBE01}[0x000A]Cette compo d’équipe marche pas pour moi ?[0x000A]Pas grave ! Je vais chercher d’autres Pokémon{0xBE00}[0x000A]et tenter d’autres trucs !{0x0114,0x0005}

@@ -1,0 +1,33 @@
+Welcome to Hotel Richissime!{0xBE01}[0x000A]I can tell you have a knack for getting things done.[0x000A]I know it’s sudden, but do you want to work here?
+Hi. Do you want to work here?
+Hi![0x000A]Everyone is talking about you lately!{0xBE01}[0x000A]Do you want a job as an attendant at the hotel?
+Hi, {0x0100,0x0000}.[0x000A]You’re qualified as a full-fledged attendant now.{0xBE00}[0x000A]Do you want a job here?
+What work would you like to do?
+Oh, OK. I’m sad, but I understand.[0x000A]I hope you’ll come back someday!
+You’ve finished all your work for today![0x000A]I’ll see you again tomorrow.
+Room service
+Making beds
+Lost and found
+Quit
+Room service it is![0x000A]Please go to the reception counter!
+Bed making it is![0x000A]Please go to {0x0200,0x0000}F!
+Lost and found it is![0x000A]Please go to the reception counter!
+Thanks for your help![0x000A]Your job performance today was...
+Perfect! I heard the manager[0x000A]praised your work, too!
+Pretty good.[0x000A]Thank you!
+...Well, don’t worry![0x000A]Try harder next time!
+Here’s today’s compensation!
+{0x0100,0x0000} received ${0x0204,0x0001,0x002C}!
+Good news![0x000A]Your pay will go up!
+Your pay increased by ${0x0203,0x0000,0x002C},[0x000A]and now it’s ${0x0204,0x0001,0x002C}!
+Now you’re the best[0x000A]hotel attendant in Richissime!{0xBE01}[0x000A]Congratulations![0x000A]The manager wants to meet you!
+M{0x1100,0x00FF,0x0302}r.iss {0x0100,0x0000}.[0x000A]I am the manager of this hotel.{0xBE01}[0x000A]Let me be frank with you.{0xBE01}[0x000A]We would like to welcome you as a[0x000A]hotel attendant at Hotel Richissime.
+Just that one word made me feel[0x000A]your diligence as a hotel attendant...{0xBE00}[0x000A]Or, more properly...as a great Trainer!{0xBE01}[0x000A]Your answer yes is enough.[0x000A]Please continue helping our hotel.{0xBE01}[0x000A]Whenever you feel like it is fine.
+I totally understand. Of course,[0x000A]we can’t keep you in this hotel.{0xBE01}[0x000A]Please work whenever you feel like it.{0xBE01}[0x000A]We appreciate your helping our hotel.
+Our very, very elusive manager![0x000A]Yet she talked to you herself! In person!{0xBE01}[0x000A]She must like you a lot.{0xBE01}[0x000A]Since the manager recognized your[0x000A]great work, I’ll ask you to be in{0xBE00}[0x000A]charge of special rooms next time!
+Thank you![0x000A]See you next time!
+Oh, I’m sorry.{0xBE01}[0x000A]A special guest is here, and it’s quite chaotic now.[0x000A]Please return later.
+Bed making it is![0x000A]Please go to 2F!
+Bed making it is![0x000A]Please go to 3F!
+Bed making it is![0x000A]Please go to 4F!
+Bed making it is![0x000A]Please go to 5F!

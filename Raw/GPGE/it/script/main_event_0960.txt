@@ -1,0 +1,8 @@
+msg_main0960_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Ce l’hai fatta![0x000A]Hai sconfitto Giovanni, vero?!
+msg_main0960_rival_02=Sono uscito dalla Silph per inseguire Archer[0x000A]e ho visto quelli del Team Rocket che se ne{0xBE00}[0x000A]scappavano da Zafferanopoli a gambe levate!
+msg_main0960_rival_03=Per fortuna che ci sei tu, {0x0100,0x0000}![0x000A]Sei fortissim{0x1100,0x00FF,0x0101}oa!
+msg_main0960_rival_07=Sai, se devo essere onesto, ho avuto[0x000A]un po’ di paura...{0xBE01}[0x000A]E se i cattivi fossero stati più forti di noi?![0x000A]Cosa sarebbe successo?
+msg_main0960_rival_08=Per fortuna che siamo riusciti a salvare[0x000A]la Silph, {0x0100,0x0000}!{0xBE01}[0x000A]Quello che è successo a Cubone non dovrà[0x000A]ripetersi mai più!
+msg_main0960_rival_04=Ok, adesso che è tornata la pace possiamo[0x000A]tornare a pensare alle Palestre!{0xBE01}[0x000A]{0x0100,0x0000}, tu sei già stat{0x1100,0x00FF,0x0101}oa alla {0xFF00,0x0006}Palestra{0xFF00,0x0000}[0x000A]{0xFF00,0x0006}di Zafferanopoli{0xFF00,0x0000}? Quante Medaglie hai?{0xBE01}[0x000A]Oh! Però... Niente male!
+msg_main0960_rival_05=Se continuiamo così, arriveremo sicuramente[0x000A]alla Lega Pokémon!
+msg_main0960_rival_06=Facciamo del nostro meglio![0x000A]Ciao ciao!

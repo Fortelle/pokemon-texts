@@ -1,0 +1,5 @@
+msg_sub053_police_F_01=Team Rocket...[0x000A]We’ve been cracking down on them, but they{0xBE00}[0x000A]keep coming!
+msg_sub053_police_F_02=Are you the one who chased away Team Rocket?{0xBE01}[0x000A]No, don’t say anything. I can tell just by[0x000A]the look in your eyes.{0xBE01}[0x000A]Thank you. Please take this.
+msg_sub053_sys_01=You got a {0xFF00,0x0006}Police Set{0xFF00,0x0000} from the police officer!
+msg_sub053_sys_02=You put the {0xFF00,0x0006}Police Set{0xFF00,0x0000} in your Clothing Trunk!
+msg_sub053_police_F_03=You make a better police officer than me.[0x000A]Thank you for protecting Saffron City’s peace.

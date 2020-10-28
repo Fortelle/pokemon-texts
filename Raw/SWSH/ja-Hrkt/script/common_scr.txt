@@ -1,0 +1,12 @@
+msg_common_scr_yes=はい
+msg_common_scr_no=いいえ
+msg_common_money={0x0206,0x0008,0x0000}円
+msg_common_report_01=ここまでの　ぼうけんを[0x000A]レポートに　きろくしますか？
+msg_common_report_02=レポートを　かきこんでいます[0x000A]でんげんを　きらないでください
+msg_common_report_03={0x0100,0x0000}は[0x000A]レポートを　しっかり　かきのこした
+msg_common_report_04=すでに　べつの　ポケモンレポートが[0x000A]かかれていますので{0xBE00}[0x000A]レポートが　かけません{0xBE01}[0x000A]くわしくは　とりあつかい[0x000A]せつめいしょを　ごらんください
+msg_common_report_05=レポートの　きろくに[0x000A]しっぱい　しました
+msg_common_getmoney_01={0x0100,0x0000}は[0x000A]{0x0207,0x0002,0x0000}円　もらった！
+msg_common_pokeget_01={0x0100,0x0000}は[0x000A]{0x0101,0x0001}を　もらった！
+msg_common_watt={0x0206,0x0008,0x002C}W
+msg_common_wattget_01={0x0100,0x0000}は[0x000A]{0x0207,0x0002,0x0000}W　てにいれた！

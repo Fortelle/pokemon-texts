@@ -1,0 +1,5 @@
+msg_r016g0101_workerm1_01=Pokémon Road is a downhill path leading to sea.{0xBE01}[0x000A]You should try having a nice little hike along it[0x000A]with your favorite Pokémon!
+msg_r016g0101_guard_01=There are certain Pokémon that will fly while[0x000A]carrying their Trainer on their back.{0xBE01}[0x000A]Because Pokémon Road is so wide and safe, it’s[0x000A]possible to fly particularly freely there, too.
+msg_r016g0101_workerm1_01_nouse={0xBDFF:0x0002}
+msg_r016g0101_workerm1_02={0xBDFF:0x0003}
+msg_r016g0101_workerm1_03={0xBDFF:0x0004}

@@ -1,0 +1,4 @@
+msg_t008gym01_gym_01=Die Arena von Fuchsania City ist ein rätselhafter[0x000A]Ort voller unsichtbarer Mauern.{0xBE01}[0x000A]Obwohl es so wirkt, als wäre Koga direkt vor[0x000A]deiner Nase, kommst du nicht so leicht zu ihm.{0xBE01}[0x000A]Halte Ausschau nach Lücken in den Mauern!
+msg_t008gym01_gym_02=Faszinierend, wie furchteinflößend Ninjas selbst[0x000A]heutzutage noch wirken!
+msg_t008gym01_statue_01=Pokémon-Arena von Fuchsania City[0x000A]Arenaleiter: Koga{0xBE01}[0x000A]Anerkannte Trainer:[0x000A]{0x0100,0x0001}
+msg_t008gym01_statue_02=Pokémon-Arena von Fuchsania City[0x000A]Arenaleiter: Koga{0xBE01}[0x000A]Anerkannte Trainer:[0x000A]{0x0100,0x0001}, {0x0100,0x0000}

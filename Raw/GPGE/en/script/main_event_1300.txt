@@ -1,0 +1,11 @@
+msg_main1300_rival_01={0x01CD,0x0001}: {0x0100,0x0000}!
+msg_main1300_rival_02=I finally caught up to you!{0xBE01}[0x000A]I got an Earth Badge, too!{0xBE01}[0x000A]That means we can finally get into[0x000A]the Pokémon League!
+msg_main1300_rival_03=I heard the Elite Four are incredibly strong...[0x000A]But there’s no turning back now, right?
+msg_main1300_rival_06=You think you’re ready, {0x0100,0x0000}?{0xBE01}[0x000A]Show me the Pokémon you’ve raised!
+msg_main1300_rival_04=You know, {0x0100,0x0000}...[0x000A]I’ve always felt like I needed to look after you,{0xBE00}[0x000A]ever since we were young.{0xBE01}[0x000A]But I think... I think you’re the one who has[0x000A]more talent as a Trainer.
+msg_main1300_rival_05=It’s...frustrating.[0x000A]I’ve never felt this way before.{0xBE01}[0x000A]Is this what makes it fun to raise Pokémon?
+msg_main1300_rival_07=Whatever it is, I know I don’t want to lose again!
+msg_main1300_rival_08=It’s weird to even have to ask, but...[0x000A]let me go on ahead first!
+msg_rival_01_p05_field_r022={0xBDFF:0x0008}
+msg_rival_01_p06_field_r022={0xBDFF:0x0009}
+msg_rival_01_p07_field_r022={0xBDFF:0x000A}

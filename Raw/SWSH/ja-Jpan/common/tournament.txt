@@ -1,0 +1,6 @@
+msg_ui_tournament_01={0x0100,0x0000}
+msg_ui_tournament_10=エントリー　紹介です{0xBE01}
+msg_ui_tournament_11=１回戦の　結果です！{0xBE01}
+msg_ui_tournament_12=２回戦の　結果です！{0xBE01}
+msg_ui_tournament_13=決勝戦の　結果です！！{0xBE01}
+msg_ui_tournament_14=２回戦の　結果です！{0xBE01}[0x000A]おーっと！　キバナ選手　見事[0x000A]ネズ選手を　撃破したようです！{0xBE01}

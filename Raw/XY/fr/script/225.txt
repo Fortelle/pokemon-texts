@@ -1,0 +1,184 @@
+Bienvenue. Vous vous trouvez à l’accueil[0x000A]de la Maison de Combat.
+Que puis-je faire pour vous servir[0xE07F]?
+De quoi désirez-vous parler[0xE07F]?
+La Maison de Combat permet aux Dresseurs[0x000A]de s’affronter dans divers types de combats.{0xBE01}[0x000A]Vous pourrez pratiquer ici des Combats Solo,[0x000A]Duo, Trio, Rotatifs et Multi.{0xBE01}[0x000A]Les affrontements continueront jusqu’à votre[0x000A]défaite. L’objectif est de gagner le plus de{0xBE00}[0x000A]combats possible à la suite.{0xBE01}[0x000A]Si vous êtes vaincu{0x1100,0x00FF,0x0100}e, vous devrez recommencer[0x000A]votre série de combats depuis le début.{0xBE01}[0x000A]Chaque victoire vous rapporte des Points de[0x000A]Combat, ou PCo, que vous pourrez échanger{0xBE00}[0x000A]contre de merveilleux prix[0xE07F]!
+La Maison de Combat fonctionne selon les règles[0x000A]spécifiques suivantes :{0xBE01}[0x000A]1. Vos Pokémon de haut niveau seront ramenés au[0x000A]N. 50 pour la durée des combats.{0xBE01}[0x000A]2. Vous dirigerez une équipe de trois Pokémon[0x000A]pour les Combats Solo, quatre pour les Combats{0xBE00}[0x000A]Duo, six pour les Combats Trio et de quatre pour{0xBE00}[0x000A]les Combats Rotatifs. Les Combats Multi se jouent{0xBE00}[0x000A]avec deux Pokémon par Dresseur.{0xBE01}[0x000A]3. L’équipe d’un Dresseur ne peut comporter[0x000A]qu’un seul Pokémon d’une même espèce, et tous{0xBE00}[0x000A]les objets tenus doivent être différents.{0xBE01}[0x000A]Évidemment, en cas de Combat Multi,[0x000A]les doublons entre Dresseurs sont permis[0xE07F]!
+Au plaisir de vous revoir.
+À quel type de combat voulez-vous participer[0xE07F]?
+Votre score actuel est[0x000A]de {0x0203,0x0001,0xE07F} victoire{0x1101,0x0001,0x0100}s d’affilée.
+Voulez-vous participer à des Combats Solo[0xE07F]?
+Voulez-vous participer à des Combats Super Solo[0xE07F]?
+Voulez-vous participer à des Combats Duo[0xE07F]?
+Voulez-vous participer à des Combats Super Duo[0xE07F]?
+Voulez-vous participer à des Combats Trio[0xE07F]?
+Voulez-vous participer à des Combats Super Trio[0xE07F]?
+Voulez-vous participer à des Combats Rotatifs[0xE07F]?
+Voulez-vous participer à des Combats[0x000A]Super Rotatifs[0xE07F]?
+Voulez-vous participer à des Combats Multi[0xE07F]?
+Voulez-vous participer à des Combats Super Multi[0xE07F]?
+Voulez-vous vous connecter avec un ami[0x000A]pour relever ce défi[0xE07F]?
+Vous et votre partenaire avez choisi un type[0x000A]de combat différent.{0xBE01}[0x000A]Revenez quand vous vous serez mis d’accord.
+Veuillez choisir votre partenaire.
+Très bien.[0x000A]Les Combats Solo vont commencer.
+Très bien.[0x000A]Les Combats Super Solo vont commencer.
+Très bien.[0x000A]Les Combats Duo vont commencer.
+Très bien.[0x000A]Les Combats Super Duo vont commencer.
+Très bien.[0x000A]Les Combats Trio vont commencer.
+Très bien.[0x000A]Les Combats Super Trio vont commencer.
+Très bien.[0x000A]Les Combats Rotatifs vont commencer.
+Très bien.[0x000A]Les Combats Super Rotatifs vont commencer.
+Très bien.[0x000A]Les Combats Multi vont commencer.
+Très bien.[0x000A]Les Combats Super Multi vont commencer.
+Je procède à une sauvegarde.[0x000A]Veuillez patienter[0xE08D]
+Félicitations[0xE07F]!{0xBE01}[0x000A]Chaque victoire contre les Châtelaines Combat[0x000A]vous donne droit à des PCo supplémentaires[0xE07F]!
+Félicitations[0xE07F]!{0xBE01}[0x000A]Vaincre les Châtelaines Combat alors qu’elles[0x000A]donnent le meilleur d’elles-mêmes est un exploit[0xE07F]!{0xBE01}[0x000A]Vous avez mérité encore plus de PCo[0xE07F]!
+{0x0100,0x0000} reçoit {0x0201,0x0005} PCo[0xE07F]!
+Vous pouvez désormais participer[0x000A]aux Combats Super Solo.
+Vous pouvez désormais participer[0x000A]aux Combats Super Duo.
+Vous pouvez désormais participer[0x000A]aux Combats Super Trio.
+Vous pouvez désormais participer[0x000A]aux Combats Super Rotatifs.
+Vous pouvez désormais participer[0x000A]aux Combats Super Multi.
+Merci de votre participation.[0x000A]Les Combats Solo sont à présent terminés.{0xBE01}[0x000A]N’oubliez pas de profiter des[0x000A]Combats Super Solo[0xE07F]!
+Merci de votre participation.[0x000A]Les Combats Duo sont à présent terminés.{0xBE01}[0x000A]N’oubliez pas de profiter des[0x000A]Combats Super Duo[0xE07F]!
+Merci de votre participation.[0x000A]Les Combats Trio sont à présent terminés.{0xBE01}[0x000A]N’oubliez pas de profiter des[0x000A]Combats Super Trio[0xE07F]!
+Merci de votre participation.[0x000A]Les Combats Rotatifs sont à présent terminés.{0xBE01}[0x000A]N’oubliez pas de profiter des[0x000A]Combats Super Rotatifs[0xE07F]!
+Merci de votre participation.[0x000A]Les Combats Multi sont à présent terminés.{0xBE01}[0x000A]N’oubliez pas de profiter des[0x000A]Combats Super Multi[0xE07F]!
+{0x1100,0x00FF,0x0408}SeigneurDame {0x0100,0x0000}[0xE07F]!{0xBE01}[0x000A]Vaincre les Châtelaines Combat alors qu’elles[0x000A]donnent le meilleur d’elles-mêmes est prodigieux[0xE07F]!{0xBE00}[0x000A]C’est un honneur de vous avoir servi{0x1100,0x00FF,0x0100}e.{0xBE01}[0x000A]Nous nous sommes permis de commander une[0x000A]modeste décoration pour célébrer votre exploit[0xE07F]!
+Vous arrivez au combat nº {0x0203,0x0001,0xE07F}.[0x000A]Voulez-vous continuer[0xE07F]?
+Vous arrivez au combat nº {0x0203,0x0001,0xE07F}.[0x000A]Attention[0xE07F]! Les Châtelaines Combat sont des{0xBE00}[0x000A]adversaires redoutables[0xE07F]! Voulez-vous continuer[0xE07F]?
+Voulez-vous faire une pause[0xE07F]?
+Votre défi a été interrompu.
+En attente de communication[0xE08D]
+La musique {0x0200,0x0000} est actuellement[0x000A]sélectionnée.{0xBE01}[0x000A]Quelle musique désirez-vous écouter lors[0x000A]des combats[0xE07F]?
+Choix de la musique enregistré.
+Combattre
+Discuter
+Annuler
+La Maison de Combat
+Les règles
+Combattre
+Combat Solo
+Combat Super Solo
+Combat Duo
+Combat Super Duo
+Combat Trio
+Combat Super Trio
+Combat Multi
+Combat Super Multi
+Continuer
+Sauvegarder la Vidéo de Combat
+Faire une pause
+Musique 1
+Musique 2
+Musique 3
+Musique 4
+Changer de musique
+P-permettez-moi de me présenter :[0x000A]je suis l’apprenti de {0x0134,0x0000}[0xE07F]!{0xBE01}[0x000A]Je ferai de mon mieux, alors ne me[0x000A]laissez pas tomber[0xE07F]!
+Salut[0xE07F]! Je suis un copain de {0x0134,0x0000}[0xE07F]!{0xBE01}[0x000A]Je vais t’aider, alors ne me déçois pas, hein[0xE07F]?
+Je suis un ami de {0x0134,0x0000}[0xE07F]![0x000A]Et c’est pas n’importe qui[0xE07F]!{0xBE01}[0x000A]Je suis venu te donner un coup de main,[0x000A]alors tiens bon[0xE07F]!
+Je suis le meilleur ami de {0x0134,0x0000}[0xE07F]!{0xBE01}[0x000A]Je suis venu me battre pour toi[0xE07F]![0x000A]J’écraserai tous tes ennemis[0xE07F]!
+P-permettez-moi de me présenter :[0x000A]je suis l’apprentie de {0x0134,0x0000}[0xE07F]!{0xBE01}[0x000A]Je ne veux pas ternir sa réputation,[0x000A]alors je ferai de mon mieux[0xE07F]!
+Salut[0xE07F]! {0x0134,0x0000} et moi, on se connaît[0x000A]bien maintenant[0xE07F]!{0xBE01}[0x000A]Et toi[0xE07F]? Tu crois qu’on va bien s’entendre[0xE07F]?[0x000A]Quoi qu’il en soit, faisons de notre mieux[0xE07F]!
+{0x0134,0x0000} et moi sommes si proches[0xE08D][0x000A]De vraies âmes sœurs[0xE07F]!{0xBE01}[0x000A]Bon, je compte sur toi cette fois[0xE07F]!
+Je suis la meilleure amie de {0x0134,0x0000}[0xE07F]!{0xBE01}[0x000A]Pour la gloire de son nom, je te guiderai[0x000A]vers la victoire[0xE07F]!
+Aïe[0xE07F]! Comment je vais pouvoir[0x000A]annoncer ça à {0x0134,0x0000}[0xE08D]
+Dommage[0xE07F]! Mais je crois que {0x0134,0x0000}[0x000A]le prendrait avec le sourire[0xE07F]!
+J’ai honte[0xE07F]! Je vais devoir m’entraîner[0x000A]encore plus avec {0x0134,0x0000}[0xE07F]!
+Assez[0xE07F]! Je rentre voir {0x0134,0x0000}[0xE07F]!
+Oh non[0xE07F]!{0xBE01}[0x000A]Désolée, {0x0134,0x0000}[0xE08D][0x000A]Je n’ai pas retenu vos leçons.
+Dommage[0xE07F]! Mais je suis sûre que {0x0134,0x0000}[0x000A]le prendrait avec le sourire.
+Grrr[0xE08D] quelle[0xE08D] honte[0xE07F]![0x000A]Désolée, {0x0134,0x0000}[0xE07F]!
+Comment annoncer ça à {0x0134,0x0000}[0xE07F]?[0x000A]Vite, un nouveau défi pour laver son honneur[0xE07F]!
+Incroyable[0xE07F]![0x000A]On va pouvoir passer aux Combats Super Multi[0xE07F]!{0xBE01}[0x000A]J’ai hâte de l’annoncer à {0x0134,0x0000}[0xE07F]!
+On a terminé les Combats Multi[0xE07F]! Youhou[0xE07F]!{0xBE01}[0x000A]Il faut que j’aille le raconter à {0x0134,0x0000}[0xE07F]!
+On a réussi grâce à moi[0xE08D][0x000A]Tu devrais me remercier[0xE07F]!{0xBE01}[0x000A]Enfin, je dois aller annoncer la[0x000A]nouvelle à {0x0134,0x0000}[0xE07F]!
+Tu te débrouilles bien[0xE07F]! Tu as presque[0x000A]la moitié du talent de {0x0134,0x0000}[0xE07F]!
+Tu es incroyable[0xE07F]![0x000A]J’espère pouvoir combattre avec toi une autre fois[0xE07F]!{0xBE01}[0x000A]Maintenant, j’ai presque autant de respect pour toi[0x000A]que pour {0x0134,0x0000}[0xE07F]!
+On a joué comme des pros[0xE07F]!{0xBE01}[0x000A]Il faut que j’aille raconter nos prouesses[0x000A]à {0x0134,0x0000}[0xE07F]!
+Nous avons fait des étincelles[0xE07F]![0x000A]Nos âmes sont liées[0xE08D]
+Tu as presque le talent de {0x0134,0x0000}[0xE07F]![0x000A]J’espère pouvoir combattre avec toi une autre fois.
+Déjà fini[0xE07F]?[0x000A]Et moi, je fais quoi[0xE07F]?
+Un rendez-vous[0xE07F]?[0x000A]Bah, on remettra ça une autre fois.
+Tu es fatigué{0x1100,0x00FF,0x0100}e[0xE07F]?[0x000A]Très bien. À la prochaine, alors.
+Tu rentres[0xE07F]?[0x000A]Je rentre aussi.
+Très bien. Offrons un peu[0x000A]de repos à nos adversaires.
+C’est tout[0xE07F]? J’avais pourtant encore[0x000A]de l’énergie à revendre[0xE07F]!
+Tu es fatigué{0x1100,0x00FF,0x0100}e[0xE07F]?[0x000A]Très bien. À la prochaine, alors.
+Qu’est-ce qui se passe[0xE07F]? Pause pipi[0xE07F]?[0x000A]On manque le plus intéressant[0xE07F]!
+On aspire à des choses très différentes,[0x000A]toi et moi. Mais si on trouvait un terrain{0xBE00}[0x000A]d’entente, personne ne nous résisterait.
+On n’a pas trouvé de terrain d’entente[0xE08D]{0xBE01}[0x000A]Est-ce que c’est à cause de notre ego, qu’on[0x000A]n’arrive pas à comprendre ce que l’autre veut[0xE07F]?
+On est très différents[0xE08D] C’est pour ça[0x000A]qu’une fois ensemble, on a un style et{0xBE00}[0x000A]une puissance impossibles à avoir seul.
+T’as raison, j’en ai peur.[0x000A]Il est temps d’arrêter.
+Nous aspirons à des choses très différentes,[0x000A]toi et moi. Mais si nous trouvions un terrain{0xBE00}[0x000A]d’entente, personne ne nous résisterait.
+Nous n’avons pas trouvé de terrain d’entente[0xE08D]{0xBE01}[0x000A]Est-ce à cause de notre ego, que nous n’arrivons[0x000A]pas à comprendre ce que l’autre veut[0xE07F]?
+Nous sommes très différents[0xE08D][0x000A]C’est pour ça qu’une fois ensemble, nous avons{0xBE00}[0x000A]un style et une puissance impossibles à avoir seul.
+Tu as raison, j’en ai peur.[0x000A]Il est temps d’arrêter.
+Je suis tellement contente d’être avec toi,[0x000A]{0x0189,0x0001}[0xE07F]! ♪
+Il faudra faire mieux la prochaine fois, hein[0xE07F]?
+Nous sommes formidables[0xE07F]!{0xBE01}[0x000A]Quand on est avec des amis formidables,[0x000A]bien sûr qu’on devient soi-même formidable[0xE07F]! ♪
+Bah[0xE07F]!
+{0x0189,0x0001}, j’suis sûr qu’ensemble,[0x000A]on fera un duo mémorable[0xE07F]!
+Désolé[0xE07F]!{0xBE01}[0x000A]Je pensais à ma choré en regardant les Pokémon,[0x000A]j’étais pas dans le combat.
+Toutes ces chorés de Pokémon, j’en ai la tête[0x000A]farcie pour le moment[0xE07F]!
+C’est déjà fini[0xE07F]?[0x000A]On n’est même pas arrivés au refrain[0xE07F]!
+{0x0189,0x0001}[0xE08D]{0xBE01}[0x000A]J’aimerais pouvoir te montrer les connaissances[0x000A]que j’ai accumulées en complétant le Pokédex.
+Je sais qu’il s’agit d’un poncif, mais entre savoir et[0x000A]pouvoir, il y a hélas tout un monde.
+{0x0189,0x0001}, tu en sais beaucoup sur les[0x000A]Pokémon, vraiment[0xE07F]!{0xBE01}[0x000A]Ou peut-être que non.{0xBE01}[0x000A]Peut-être simplement que tu t’entends si bien avec[0x000A]eux que tes combats sont comme gagnés d’avance.
+Ah bon[0xE07F]? C’est déjà la fin[0xE07F]?{0xBE01}[0x000A]Pourtant, je pensais vraiment que les choses iraient[0x000A]en s’améliorant à partir de maintenant[0xE08D]
+Je fais des Combats Aériens[0xE07F]!{0xBE01}[0x000A]Alors j’aimerais bien qu’ils détruisent le plafond[0x000A]de cette maison pour que je puisse participer[0xE08D]
+L’étage est réservé aux spectateurs.[0x000A]On apprend beaucoup par ici[0xE07F]!
+Je suis venu avec ma copine pour regarder.{0xBE01}[0x000A]Au fait, je suppose que tu n’es pas au courant,[0x000A]mais l’entrée est payante pour les spectateurs[0xE07F]!
+Est-ce que tu as rencontré les fameuses[0x000A]Châtelaines Combat[0xE07F]?{0xBE01}[0x000A]Ce sont les quatre sœurs propriétaires de la Maison[0x000A]de Combat, et elles s’y connaissent en Pokémon[0xE07F]!{0xBE01}[0x000A]Tu peux les affronter après un certain nombre[0x000A]de victoires. Ma favorite, c’est l’aînée, Aurore.{0xBE01}[0x000A]Elle est spécialiste des Combats Rotatifs,[0x000A]et la première impression est frappante[0xE07F]!
+Psyyy[0xE07F]!
+Hein[0xE07F]? Tu veux que je soigne tes Pokémon[0xE07F]?[0x000A]Désolée[0xE07F]! Je suis en vacances aujourd’hui.{0xBE01}[0x000A]Crois-moi, mon travail est stressant, et j’aimerais[0x000A]vraiment qu’on me laisse en paix ces jours-là[0xE07F]!{0xBE01}[0x000A]Mais promis, je le ferai quand je serai à mon poste.[0x000A]Aujourd’hui, je ne suis que spectatrice[0xE07F]!
+Quelle frustration[0xE07F]!{0xBE01}[0x000A]Vesper n’a pas l’air de combattre aujourd’hui[0xE07F]!{0xBE01}[0x000A]Elle est ma muse[0xE07F]! Je ne peux pas faire courir[0x000A]mes doigts sur la caisse enregistreuse sans{0xBE00}[0x000A]avoir vu son visage[0xE07F]!{0xBE01}[0x000A]Mais toi, tu es un Dresseur, n’est-ce pas[0xE07F]?{0xBE01}[0x000A]Alors continue à gagner des Combats Duo,[0x000A]et elle apparaîtra[0xE08D] S’il te plaît[0xE07F]!!!{0xBE01}[0x000A]Elle est le soleil de mes nuits, et je dois la voir[0x000A]briller pour pouvoir au moins trouver le sommeil[0xE07F]!
+Cet endroit est un régal pour les yeux[0xE07F]!{0xBE01}[0x000A]On voit de belles combinaisons entre Pokémon[0x000A]exceptionnels et Dresseurs de talent, j’en raffole[0xE07F]!
+Je[0xE08D] J’aimerais devenir l’apprenti de[0x000A]{0x0134,0x0000}[0xE07F]!{0xBE01}[0x000A]Je ferai de mon mieux, et j’espère apprendre[0x000A]beaucoup de cette expérience[0xE07F]!
+J’aimerais faire connaissance avec {0x0134,0x0000}.{0xBE01}[0x000A]Et je vais commencer par faire connaissance[0x000A]avec toi[0xE07F]!
+Je m’entraîne tous les jours pour devenir[0x000A]un meilleur ami pour {0x0134,0x0000}[0xE08D]{0xBE01}[0x000A]Et les combats d’aujourd’hui font partie[0x000A]de mon programme. En avant[0xE07F]!
+Je veux devenir le meilleur ami de {0x0134,0x0000}[0xE07F]!{0xBE01}[0x000A]Mais aujourd’hui, c’est à tes côtés que je combats[0xE07F]!
+Je[0xE08D] J’aimerais devenir l’apprentie de[0x000A]{0x0134,0x0000}[0xE07F]!{0xBE01}[0x000A]Je ferai de mon mieux, et j’espère apprendre[0x000A]beaucoup de cette expérience[0xE07F]!
+J’aimerais faire connaissance avec {0x0134,0x0000}.{0xBE01}[0x000A]Si je me débrouille bien, peut-être que je serai[0x000A]remarquée[0xE08D] Faisons de notre mieux[0xE07F]!
+Je sens que mon âme est liée à celle de[0x000A]{0x0134,0x0000}[0xE08D]{0xBE01}[0x000A]Quelque chose me dit que j’aurai le plaisir[0x000A]d’entendre sa voix aujourd’hui.{0xBE00}[0x000A]Sa voix qui me dit : «[0xE07F]Bats-toi[0xE07F]![0xE07F]»
+Je veux devenir la meilleure amie[0x000A]de {0x0134,0x0000}[0xE07F]!{0xBE01}[0x000A]Pour que son nom soit connu de tous,[0x000A]je nous conduirai vers la victoire[0xE07F]!
+Aïe[0xE07F]! Je ne deviendrai jamais l’apprenti[0x000A]de {0x0134,0x0000} avec un résultat pareil[0xE07F]!
+Je ne ferai jamais connaissance avec {0x0134,0x0000}[0x000A]avec un résultat de ce niveau.
+C’est terrible[0xE07F]!{0xBE01}[0x000A]Avec un résultat comme ça, {0x0134,0x0000}[0x000A]ne m’acceptera jamais comme ami[0xE07F]!
+Je suis fatigué[0xE08D]{0xBE01}[0x000A]{0x0134,0x0000}[0xE08D][0x000A]J’espère que tu me pardonneras[0xE08D]
+Il faut que je devienne plus forte,[0x000A]comme {0x0134,0x0000}[0xE07F]!
+Si seulement j’avais été aussi forte que[0x000A]{0x0134,0x0000}[0xE07F]!
+La voix de {0x0134,0x0000} résonne dans ma tête :[0x000A]«[0xE07F]Rentre chez toi, ma pauvre[0xE07F]![0xE07F]»
+{0x0134,0x0000}[0xE08D][0x000A]Nous ne nous connaissons pas encore,{0xBE01}[0x000A]et cela n’est pas prêt de changer avec de tels[0x000A]résultats[0xE07F]!
+On peut passer aux Combats Super Multi[0xE07F]!{0xBE01}[0x000A]Je me demande si {0x0134,0x0000} va[0x000A]m’accepter comme apprenti maintenant[0xE07F]!
+On a terminé les Combats Multi[0xE07F]![0x000A]Joli travail d’équipe[0xE07F]!
+Mes exploits ne sont pas un hasard[0xE08D]{0xBE01}[0x000A]Ils auraient été impossibles si je n’avais[0x000A]pas senti les encouragements de {0x0134,0x0000}[0xE07F]!
+Je suis aussi fort que {0x0134,0x0000}, n’est-ce pas[0xE07F]?
+{0x0134,0x0000}[0xE07F]?[0x000A]M’avez-vous regardée[0xE07F]?
+Je pense que je peux me vanter de ces[0x000A]résultats auprès de {0x0134,0x0000}.
+La voix de {0x0134,0x0000} résonne dans ma tête :[0x000A]«[0xE07F]Félicitations[0xE07F]![0xE07F]»
+Je pense pouvoir devenir l’amie de {0x0134,0x0000},[0x000A]n’est-ce pas[0xE07F]?
+Déjà fini[0xE07F]?[0x000A]Et moi, je fais quoi[0xE07F]?
+Un rendez-vous[0xE07F]?[0x000A]Bah, on remettra ça une autre fois.
+Tu es fatigué{0x1100,0x00FF,0x0100}e[0xE07F]?[0x000A]Très bien. À la prochaine, alors.
+Tu rentres[0xE07F]?[0x000A]Je rentre aussi.
+Très bien. Offrons un peu[0x000A]de repos à nos adversaires.
+C’est tout[0xE07F]? J’avais pourtant encore[0x000A]de l’énergie à revendre[0xE07F]!
+Tu es fatigué{0x1100,0x00FF,0x0100}e[0xE07F]?[0x000A]Très bien. À la prochaine, alors.
+Qu’est-ce qui se passe[0xE07F]? Pause pipi[0xE07F]?[0x000A]On manque le plus intéressant[0xE07F]!
+Et la voilà[0xE07F]![0x000A]La Châtelaine Combat, Nix[0xE07F]!!!
+Et la voilà[0xE07F]![0x000A]La Châtelaine Combat, Vesper[0xE07F]!!!
+Et la voilà[0xE07F]![0x000A]La Châtelaine Combat, Méridia[0xE07F]!!!
+Et la voilà[0xE07F]![0x000A]La Châtelaine Combat, Aurore[0xE07F]!!!
+Et les voilà[0xE07F]![0x000A]Les Châtelaines Combat, Vesper et Méridia[0xE07F]!!!
+Et les voilà[0xE07F]![0x000A]Les Châtelaines Combat, Aurore et Vesper[0xE07F]!!!
+Et les voilà[0xE07F]![0x000A]Les Châtelaines Combat, Aurore et Nix[0xE07F]!!!
+Et les voilà[0xE07F]![0x000A]Les Châtelaines Combat, Nix et Méridia[0xE07F]!!!
+Toutes mes excuses, mais vous n’avez[0x000A]pas enregistré votre progression après{0xBE00}[0x000A]votre dernière série[0xE08D]{0xBE01}[0x000A]Vous allez devoir recommencer depuis le début[0xE07F]!
+Je suis la responsable des archives de la Maison[0x000A]de Combat. Désirez-vous consulter vos résultats[0xE07F]?
+Quels résultats souhaitez-vous consulter en[0x000A]particulier[0xE07F]?
+Vous avez {0x0203,0x0000,0xE07F} victoire{0x1101,0x0000,0x0100}s d’affilée pour le moment.[0x000A]Votre record personnel est {0x0203,0x0001,0xE07F} victoire{0x1101,0x0001,0x0100}s d’affilée.
+Combat Rotatif
+Combat Super Rotatif
+La communication sans fil est désactivée.{0xBE01}[0x000A]Veuillez pousser le bouton de communication[0x000A]sans fil pour l’activer.
+Impossible de se battre avec cette personne[0x000A]à cause des Pokémon de son équipe.
+Impossible de se battre avec cette personne.

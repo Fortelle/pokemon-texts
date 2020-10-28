@@ -1,0 +1,11 @@
+msg_main8050_poison_01={0xFF00,0x0009}Koga:{0xFF00,0x0000} ¡Bua, ja, ja, ja!
+msg_main8050_poison_06=¿Un{0x1100,0x00FF,0x0100}a enclenque como tú se atreve a desafiar[0x000A]a un servidor, un maestro ninja sin igual?{0xBE01}[0x000A]¡Qué inconsciente eres!
+msg_main8050_poison_07=Mi veneno será tu perdición. Y serás presa de la[0x000A]impotencia al ver que nada puedes contra mí.
+msg_main8050_poison_08=Comprobarás por ti mism{0x1100,0x00FF,0x0101}oa lo temibles que son[0x000A]las técnicas milenarias de los ninjas.
+msg_gym06_01_02={0xBDFF:0x0004}
+msg_main8050_poison_02=¡¿Pero cómo...?! Bueno, lo más importante para[0x000A]mí es el honor. Aquí tienes la Medalla Alma.
+msg_main8050_sys_01=Koga te ha entregado la {0xFF00,0x0006}Medalla Alma{0xFF00,0x0000}.
+msg_main8050_poison_03=Ahora que tienes la Medalla Alma en tu haber,[0x000A]los Pokémon hasta Nv. {0x0201,0x0004} te obedecerán{0xBE00}[0x000A]haciendo gala de la más firme disciplina, sin{0xBE00}[0x000A]importar que vengan de otro Entrenador.{0xBE01}[0x000A]Y como agradecimiento por este combate tan[0x000A]glorioso, te ruego que aceptes esto.
+msg_main8050_sys_02=Koga te ha entregado la {0x0109,0x0001}, que permite[0x000A]enseñar el movimiento {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000}.
+msg_main8050_poison_04=La MT27 te permite enseñar a un Pokémon el[0x000A]movimiento Tóxico, transmitido a los Pokémon{0xBE00}[0x000A]de mi familia durante cuatro siglos.
+msg_main8050_poison_05=El daño que recibe un Pokémon que resulte[0x000A]envenenado por Tóxico aumenta en cada turno.{0xBE01}[0x000A]¡Es un movimiento con el que le inocularás al[0x000A]rival tanto veneno como miedo!

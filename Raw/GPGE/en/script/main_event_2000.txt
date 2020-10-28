@@ -1,0 +1,13 @@
+msg_main2000_rival_01={0x01CD,0x0001}: Anybody home?
+msg_main2000_rival_02=Hey, {0x0100,0x0000}![0x000A]I’m coming up!
+msg_main2000_rival_03={0x01CD,0x0001}: Morning, Kanto Champion!
+msg_main2000_rival_09=But don’t get too comfortable with that title.[0x000A]I plan on stealing it from you soon!
+msg_main2000_rival_04=First, though... Did you hear the rumors?{0xBE01}[0x000A]There’s talk going around about some crazy[0x000A]strong-looking Pokémon being spotted...
+msg_main2000_sel_01=What kind of Pokémon?
+msg_main2000_sel_02=I want to catch it!
+msg_main2000_rival_05=I hear it looks super strong—and super cool!
+msg_main2000_rival_06=Ha! I knew you wouldn’t be able to resist a[0x000A]rumor like that!
+msg_main2000_rival_07=The Pokémon was seen near {0xFF00,0x0006}Cerulean City{0xFF00,0x0000}!
+msg_main2000_rival_10=And apparently it ran away into a cave[0x000A]somewhere there. That’s all I know.
+msg_main2000_rival_08=So! I say we both go try to catch this Pokémon!
+msg_main2000_rival_11=Whoever catches it first is the winner!

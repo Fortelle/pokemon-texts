@@ -1,0 +1,43 @@
+The SD Card is full.[0x000A]You can’t download data.
+No data is found on the server.[0x000A]Please try again later.
+Communication with the server[0x000A]was interrupted.
+{0xBDFF:0x0003}
+Communication ended due to an error.
+Communication with the other Trainer[0x000A]was interrupted.
+Communication with the server[0x000A]was interrupted.
+Communication failed.
+Failed to connect with the other Trainer.[0x000A]Please start again from the beginning.
+The server is undergoing maintenance.[0x000A]Please try again later.
+The infrared transceiver may be broken.[0x000A]Please start again from the beginning.[0x000A]If the problem persists, please contact[0x000A]Nintendo Customer Service.
+The communication with the server[0x000A]was interrupted.
+The infrared connection failed.[0x000A]Please choose the same communication[0x000A]method as the communication partner.
+An error has occurred on the server[0x000A]of the Pokémon Global Link.[0x000A]Please try again.[0x000A](Error Code: 090-0200)
+An error has occurred on the server[0x000A]of the Pokémon Global Link.[0x000A]Please try again.[0x000A](Error Code: 090-0201)
+An error has occurred on the server[0x000A]of the Pokémon Global Link.[0x000A]Please try again.[0x000A](Error Code: 090-0202)
+An error has occurred on the server[0x000A]of the Pokémon Global Link.[0x000A]Please try again.[0x000A](Error Code: 090-0203)
+An error has occurred on the server[0x000A]of the Pokémon Global Link.[0x000A]Please try again.[0x000A](Error Code: 090-0204)
+An error has occurred on the server[0x000A]of the Pokémon Global Link.[0x000A]Please try again.[0x000A](Error Code: 090-0205)
+An error has occurred on the server[0x000A]of the Pokémon Global Link.[0x000A]Please try again.[0x000A](Error Code: 090-0206)
+The server of the Pokémon Global Link[0x000A]is experiencing high traffic volume.[0x000A]Please wait awhile, and then try[0x000A]Game Sync again.[0x000A](Error Code: 090-0207)
+An error has occurred on the server[0x000A]of the Pokémon Global Link.[0x000A]Please try again.[0x000A](Error Code: 090-0208)
+An error has occurred on the server[0x000A]of the Pokémon Global Link.[0x000A]Please try again.[0x000A](Error Code: 090-0209)
+You can’t connect to the[0x000A]Pokémon Global Link due[0x000A]to ongoing maintenance.[0x000A]Please wait, and then try again.[0x000A](Error Code: 090-0210)
+The service has been discontinued.[0x000A]http://www.pokemon-gl.com[0x000A](Error Code: 090-0211)
+An error has occurred on the server[0x000A]of the Pokémon Global Link.[0x000A]Please wait awhile, and then try again.[0x000A](HTTP Error: 500)
+An error has occurred on the server[0x000A]of the Pokémon Global Link.[0x000A]Please wait awhile, and then try again.[0x000A](HTTP Error: 502)
+An error has occurred on the server[0x000A]of the Pokémon Global Link.[0x000A]Please wait awhile, and then try again.[0x000A](HTTP Error: 503)
+{0xBDFF:0x001C}
+An error has occurred on the server for[0x000A]authentication of codes.[0x000A]Please try again.[0x000A](Error Code: 090-0200)
+An error has occurred on the server for[0x000A]authentication of codes.[0x000A]Please try again.[0x000A](Error Code: 090-0201)
+An error has occurred on the server for[0x000A]authentication of codes.[0x000A]Please try again.[0x000A](Error Code: 090-0202)
+An error has occurred on the server for[0x000A]authentication of codes.[0x000A]Please try again.[0x000A](Error Code: 090-0203)
+An error has occurred on the server for[0x000A]authentication of codes.[0x000A]Please try again.[0x000A](Error Code: 090-0204)
+An error has occurred on the server for[0x000A]authentication of codes.[0x000A]Please try again.[0x000A](Error Code: 090-0205)
+An error has occurred on the server for[0x000A]authentication of codes.[0x000A]Please try again.[0x000A](Error Code: 090-0206)
+You can’t connect to the server for[0x000A]authentication of codes[0x000A]due to ongoing maintenance.[0x000A]Please wait awhile, and then try again.[0x000A](Error Code: 090-0210)
+The service has been discontinued.[0x000A](Error Code: 090-0211)
+An error has occurred on the server for[0x000A]authentication of codes.[0x000A]Please wait awhile, and then try again.[0x000A](HTTP Error: 500)
+An error has occurred on the server for[0x000A]authentication of codes.[0x000A]Please wait awhile, and then try again.[0x000A](HTTP Error: 502)
+An error has occurred on the server for[0x000A]authentication of codes.[0x000A]Please wait awhile, and then try again.[0x000A](HTTP Error: 503)
+The SD Card couldn’t be recognized.[0x000A][0x000A]Press the POWER Button, and insert[0x000A]the SD Card again.
+A communication error has occurred.[0x000A][0x000A]Press the POWER Button, and[0x000A]end the game.[0x000A]

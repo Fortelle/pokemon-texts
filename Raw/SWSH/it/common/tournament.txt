@@ -1,0 +1,6 @@
+msg_ui_tournament_01={0x0100,0x0000}
+msg_ui_tournament_10=Ecco i partecipanti!{0xBE01}
+msg_ui_tournament_11=Vediamo dunque i risultati del primo turno!{0xBE01}
+msg_ui_tournament_12=Ed ecco i risultati del secondo turno...{0xBE01}
+msg_ui_tournament_13=Vediamo subito i risultati della finale!{0xBE01}
+msg_ui_tournament_14=Ed ecco i risultati del secondo turno...{0xBE01}[0x000A]Incredibile! Laburno ha riportato una vittoria[0x000A]schiacciante su Ginepro!{0xBE01}

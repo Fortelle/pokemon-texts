@@ -1,0 +1,7 @@
+main_event_0470_telop_01=The next morning...
+main_event_0470_rival_01=Morning!{0x0114,0x0005}
+main_event_0470_rival_02=So this is it...[0x000A]Now my legend really begins!{0x0114,0x0005}
+main_event_0470_rival_03=Watch out, {0x0100,0x0000}![0x000A]I’ll beat you to Motostoke Stadium!{0x0114,0x0005}
+main_event_0470_sister_01=So the Gym Challenge is finally startin’.{0xBE01}[0x000A]I’d wish you luck, but I’m afraid I’m goin’ to be[0x000A]the one to win.{0x0114,0x000D}
+main_event_0470_rival_04=I can’t wait for the first match!{0xBE01}[0x000A]Pretty soon I’ll have so many fans, I’ll have to[0x000A]fight ’em off like Lee does!{0x0114,0x0005}
+main_event_0470_sister_02={0xBDFF:0x0006}

@@ -1,0 +1,10 @@
+msg_main0400_sailor_01={0xBDFF:0x0000}
+msg_main0400_sailor_02=L’Océane vous souhaite la bienvenue !{0xBE01}[0x000A]Avant de monter, il faut toutefois me montrer[0x000A]votre passe, jeune mousse !
+msg_main0400_sys_01=Vous montrez votre Passe Bateau !
+msg_main0400_sailor_03=Parfait ! Bienvenue à bord !{0xBE01}[0x000A]Oh, et félicitations ! Vous êtes notre centième[0x000A]passager, aujourd’hui !{0xBE01}[0x000A]Tenez, un petit cadeau pour fêter ça. Avec ceci,[0x000A]vous allez pouvoir crâner au bord de la piscine !
+msg_main0400_sys_02=Vous recevez une {0xFF00,0x0006}Tenue de Marin{0xFF00,0x0000} !
+msg_main0400_sys_04=Vous rangez la {0xFF00,0x0006}Tenue de Marin {0xFF00,0x0000}dans votre[0x000A]Malle à Costumes.
+msg_main0400_sailor_04={0xBDFF:0x0006}
+msg_main0400_sys_03={0xBDFF:0x0007}
+msg_main0400_sailor_05={0xBDFF:0x0008}
+msg_main0400_sailor_06={0xBDFF:0x0009}

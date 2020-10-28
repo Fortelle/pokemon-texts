@@ -1,0 +1,81 @@
+Controllo scheda SD in corso.[0x000A]Non spegnere la console.
+Sulla scheda SD sono presenti dei dati[0x000A]danneggiati.{0xBE01}[0x000A]I dati sono stati cancellati.{0xBE01}
+Ricerca dei dati in corso.[0x000A]Attendi...
+{0xBDFF:0x0003}
+Impossibile trovare i dati.{0xBE01}
+Vuoi annullare la ricerca dei dati?
+Hai selezionato[0x000A]{0x0123,0x0000}!
+Questi dati sono già stati scaricati.{0xBE01}
+Salvataggio nella scheda SD in corso.[0x000A]Non spegnere la console.
+Hai salvato le regole della lotta:[0x000A]{0x0123,0x0000}{0xBE01}
+Non c’è spazio per altre regole della lotta.[0x000A]Vuoi cancellarne alcune?
+Scegli i dati da cancellare.{0xBE01}
+Vuoi annullare l’operazione?
+Vuoi davvero cancellare le regole della lotta[0x000A]{0x0123,0x0000}?
+Cancellazione dati in corso.[0x000A]Non spegnere la console.
+Sono state rimosse dalla scheda SD[0x000A]le seguenti regole della lotta:{0xBE00}[0x000A]{0x0123,0x0000}.{0xBE01}[0x000A]Scegli altre regole della lotta.{0xBE01}
+Hai selezionato:[0x000A]{0x0123,0x0000}.
+Vuoi annullare l’operazione?
+Queste regole non consentono di partecipare[0x000A]a uno o più giocatori.{0xBE01}[0x000A]Scegli delle regole diverse.{0xBE01}
+Spazio insufficiente nella scheda SD.{0xBE01}[0x000A]Esci dal gioco, spegni la console e controlla[0x000A]il contenuto della scheda SD.{0xBE01}
+Spazio insufficiente nella scheda SD.{0xBE01}[0x000A]Vuoi cancellare le regole della lotta[0x000A]presenti nella scheda?
+Spazio insufficiente nella scheda SD.{0xBE01}[0x000A]Vuoi cancellare le regole della lotta[0x000A]presenti nella scheda?
+Sì
+No
+Scarica
+Info
+Indietro
+Cancella i dati
+Conferma
+Info
+Senza restrizioni
+{0x0200,0x0000}
+Almeno L. {0x0202,0x0000}
+{0x0200,0x0000}-{0x0200,0x0001}
+Tutti al L. {0x0202,0x0000}
+Tutti fino al L. {0x0202,0x0000}
+Ammessi
+Non ammessi
+Ammessi
+Non ammessi
+Numero di Pokémon
+Livello dei Pokémon
+Pokémon speciali
+Pokémon uguali
+Strumenti uguali
+Lotta in Singolo
+Lotta in Doppio
+Lotta Multipla
+Battle Royale
+Normale
+Alla pari
+Senza restrizioni
+Albero della Lotta
+Battle Royale
+{0x0200,0x0000}
+/
+Fino al L. {0x0202,0x0000}
+Tutti almeno al L. {0x0202,0x0000}
+In Singolo
+In Doppio
+Multipla
+Superlotta in Singolo
+Superlotta in Doppio
+Superlotta Multipla
+Livello Normale
+Livello Super
+Livello Iper
+Livello Master
+Nelle lotte che seguono le regole normali, tutti i Pokémon[0x000A]verranno portati al livello 50.
+Nelle lotte che seguono le regole alla pari, tutti i Pokémon[0x000A]oltre il livello 50 verranno portati a 50.
+Nelle lotte senza restrizioni, il livello dei Pokémon[0x000A]rimane inalterato.
+Nelle lotte di livello normale, non ci sono limiti[0x000A]di livello per i Pokémon.
+Nella Battle Royale, il livello dei Pokémon viene[0x000A]portato a quello stabilito dalle regole.
+･Pokémon non ammessi:[0x000A][0x000A]{0x0101,0x0000}   {0x0101,0x0001}[0x000A]{0x0101,0x0002}   {0x0101,0x0003}[0x000A]{0x0101,0x0004}   {0x0101,0x0005}[0x000A]{0x0101,0x0006}   {0x0101,0x0007}[0x000A]{0x0101,0x0008}   {0x0101,0x0009}[0x000A]{0x0101,0x000A}   {0x0101,0x000B}[0x000A]{0x0101,0x000C}   {0x0101,0x000D}[0x000A]{0x0101,0x000E}   {0x0101,0x000F}
+･Strumenti non consentiti:[0x000A][0x000A]{0x0109,0x0000}   {0x0109,0x0001}[0x000A]{0x0109,0x0002}   {0x0109,0x0003}[0x000A]{0x0109,0x0004}   {0x0109,0x0005}[0x000A]{0x0109,0x0006}   {0x0109,0x0007}[0x000A]{0x0109,0x0008}   {0x0109,0x0009}[0x000A]{0x0109,0x000A}   {0x0109,0x000B}[0x000A]{0x0109,0x000C}   {0x0109,0x000D}[0x000A]{0x0109,0x000E}   {0x0109,0x000F}
+･Mosse non consentite:[0x000A][0x000A]{0x0107,0x0000}   {0x0107,0x0001}[0x000A]{0x0107,0x0002}   {0x0107,0x0003}[0x000A]{0x0107,0x0004}   {0x0107,0x0005}[0x000A]{0x0107,0x0006}   {0x0107,0x0007}[0x000A]{0x0107,0x0008}   {0x0107,0x0009}[0x000A]{0x0107,0x000A}   {0x0107,0x000B}[0x000A]{0x0107,0x000C}   {0x0107,0x000D}[0x000A]{0x0107,0x000E}   {0x0107,0x000F}
+･Pokémon non ammessi:[0x000A][0x000A] ---
+･Strumenti non consentiti:[0x000A][0x000A] ---
+･Mosse non consentite:[0x000A][0x000A] ---
+Per informazioni dettagliate sulle regole puoi[0x000A]consultare il sito del Pokémon Global Link:[0x000A]{0xBD00,0x0003,0x0000,0x0000}http://www.pokemon-gl.com/{0xBD01}[0x000A][0x000A]Leggendo il QR Code nella pagina successiva[0x000A]potrai aprire direttamente la pagina Internet[0x000A]corrispondente.
+Nelle lotte di livello super, tutti i Pokémon oltre il livello 50[0x000A]verranno portati a 50.

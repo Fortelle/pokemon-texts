@@ -1,0 +1,12 @@
+msg_t0701_i0101_poke1_01_pop=Infeeerno!
+msg_t0701_i0101_npc1_01=Hallöchen und willkommen bei Leckerpaul![0x000A]Unser Steakhaus verlässt kein Gast hungrig.
+msg_t0701_i0101_npc2_01=Das ist ein toller Wandteppich, stimmt’s? Ich[0x000A]habe ihn auf einem Antiquitätenmarkt ergattert!
+msg_t0701_i0101_npc3_01=Wer richtige Kämpfe austragen will, muss[0x000A]reichlich essen!
+msg_t0701_i0101_npc4_01=Das Essen hier ist so lecker, dass es sich lohnt,[0x000A]einen Umweg zu machen, einfach nur um{0xBE00}[0x000A]hierherzukommen.
+msg_t0701_i0101_npc5_01=Du redest beim Essen über die Arbeit? Willst du[0x000A]dir deine Mahlzeit verderben?
+msg_t0701_i0101_npc6_01=Das ist perfekt gebraten! Es ist saftig und hat[0x000A]Biss. Der Koch verdient ein großes Lob!
+msg_t0701_i0101_npc7_01=Ich sehe es gern, wenn meinem Jungen das Essen[0x000A]richtig schmeckt. Er sieht so glücklich aus!
+msg_t0701_i0101_npc8_01=Es ist wirklich unglaublich lecker. Ich wünschte,[0x000A]ich würde es auch so gut hinbekommen. Dann{0xBE00}[0x000A]könnte mein Pokémon auch mal davon kosten.
+msg_t0701_i0101_bg1_01=Das ist ein Wandteppich.{0xBE01}[0x000A]Darauf sind die beiden Helden abgebildet, die[0x000A]anscheinend Schwert und Schild verloren haben...
+msg_t0701_i0101_bg1_02=Dort hängt ein Wandteppich. Kann es sein, dass[0x000A]du ihn irgendwo schon mal gesehen hast?
+msg_t0701_i0101_bg2_01=Ein Porträt des Besitzers Paul!{0xBE01}[0x000A]Es ist das Gesicht eines Mannes, der bei jeder[0x000A]Mahlzeit nach Perfektion strebt!

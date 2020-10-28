@@ -1,0 +1,17 @@
+main_event_0690_chairman_01={0x1003}{0x0100,0x0000}! Let’s celebrate your[0x000A]recent victory!{0x0114,0x0006}
+main_event_0690_assistant_01=Oh, were you invited, too?{0x0114,0x000B}
+main_event_0690_chairman_02=You two know each other? That’s great![0x000A]Come now—please be seated.{0x0114,0x0006}
+main_event_0690_chairman_03=Hulbury is a seafood town.{0xBE01}[0x000A]Naturally, if one is going to eat here, the[0x000A]obvious choice is the local cuisine!{0xBE00}[0x000A]Everything on the menu is delicious.{0x0114,0x0006}
+main_event_0690_chairman_04=By the way, how is Professor Magnolia getting on?{0x0114,0x0006}
+main_event_0690_chairman_05=I’m quite indebted to her, you know.{0xBE01}[0x000A]She was the one who figured out how to unleash[0x000A]the power of Wishing Stars and use that power{0xBE00}[0x000A]to Dynamax Pokémon. We would never have{0xBE00}[0x000A]been able to create Dynamax Bands without her.{0x0114,0x0006}
+main_event_0690_assistant_02=*sigh*{0xBE01}[0x000A]She was saying that there’s still so much[0x000A]we don’t know about Dynamaxing.{0xBE00}[0x000A]It’s causing her some worry.{0x0114,0x000B}
+main_event_0690_assistant_03=She even made me take a Power Spot Detector[0x000A]with me when I started traveling...{0x0114,0x000B}
+main_event_0690_chairman_06=A Power Spot Detector! That’s the device that[0x000A]allowed me to discover the Power Spots...{0xBE01}[0x000A]Locations that emit Galar particles and allow[0x000A]Pokémon to Dynamax!{0x0114,0x0006}
+main_event_0690_chairman_07=I don’t like hearing that Professor Magnolia is so[0x000A]worried, though. If only there were something{0xBE00}[0x000A]I could do...{0x0114,0x0006}
+main_event_0690_chairman_08=Sonia, it may be good for you to visit the vault[0x000A]in Hammerlocke.{0xBE01}[0x000A]I believe the key to unlocking the secrets of[0x000A]the Dynamax phenomenon lies in the history{0xBE00}[0x000A]preserved there.{0x0114,0x0006}
+main_event_0690_administrator_01=Understood, Chairman. I will arrange a meeting[0x000A]with Ms. Sonia.{0x0114,0x0007}
+main_event_0690_administrator_02=However, I believe it is about time we get[0x000A]going, Chairman.{0x0114,0x0007}
+main_event_0690_chairman_09=Hm? But I’ve hardly had a chance to speak[0x000A]with {0x0100,0x0000}!{0xBE01}[0x000A]It’s regrettable, but I suppose it can’t be helped.[0x000A]If something needs to get done, there’s no time{0xBE00}[0x000A]like the present, after all!{0xBE01}[0x000A]In any case, I bid you all farewell!{0x0114,0x0006}
+main_event_0690_assistant_04=*sigh*[0x000A]Does he think he’s doing me a favor?{0xBE01}[0x000A]He’s right that the vault would be a good place[0x000A]to look for info on the legends, but...{0x0114,0x000B}
+main_event_0690_assistant_05=You got the Water Badge, yeah? Defeating[0x000A]Nessa’s no small feat.{0xBE00}[0x000A]Here’s a TM as a reward!{0x0114,0x000B}
+main_event_0690_assistant_06=Nessa’s a good friend. Perhaps I should drop in[0x000A]on her.{0xBE01}[0x000A]Until next time, Gym Challenger!{0x0114,0x000B}

@@ -1,0 +1,17 @@
+msg_sub020_sys_01=C’è un Pokémon che dorme con aria beata!
+msg_sub020_sys_02=Vuoi suonare il Poké Flauto?
+msg_sub020_sys_03={0x0100,0x0000} suona il Poké Flauto.
+msg_sub020_sys_04=Snorlax si è risvegliato!
+msg_sub020_sys_07=Snorlax fissa {0x0100,0x0000} con aria[0x000A]molto affamata...!
+msg_sub020_fuji_01={0xFF00,0x0009}???:{0xFF00,0x0000} {0x0100,0x0000}!
+msg_sub020_fuji_02={0xFF00,0x0009}Mr. Fuji:{0xFF00,0x0000} Quando ti ho dato il Poké Flauto[0x000A]ho dimenticato di dirti una cosa importante...
+msg_sub020_fuji_03=Ah, vedo che sono arrivato proprio[0x000A]al momento giusto!
+msg_sub020_fuji_05=Uno Snorlax appena sveglio può essere[0x000A]molto pericoloso.{0xBE01}[0x000A]Spesso scambia la prima cosa che vede[0x000A]per un succulento spuntino... e attacca!
+msg_sub020_fuji_06=In questi casi, la cosa migliore[0x000A]è farlo calmare con una lotta!
+msg_sub020_fuji_07=Dopo averlo sconfitto potrai provare a catturarlo[0x000A]normalmente.
+msg_sub020_sys_06=Snorlax sembra un po’ confuso e... ti attacca!
+msg_sub020_sys_05=Snorlax si calma, poi sbadiglia e se ne torna[0x000A]sulle montagne!
+msg_sub020_fuji_08={0xFF00,0x0009}Mr. Fuji:{0xFF00,0x0000} Ben fatto, {0x0100,0x0000}![0x000A]Ottimo lavoro!
+msg_sub020_fuji_09={0xFF00,0x0009}Mr. Fuji:{0xFF00,0x0000} Che peccato, {0x0100,0x0000}![0x000A]Non sei riuscit{0x1100,0x00FF,0x0101}oa a catturarlo!
+msg_sub020_fuji_10=Alcuni Pokémon si comportano come questo[0x000A]Snorlax e attaccano tutti gli Allenatori{0xBE00}[0x000A]che gli capitano a tiro!{0xBE01}[0x000A]Per catturarli, dovrai prima sconfiggerli[0x000A]in una lotta. Tutto chiaro?{0xBE01}[0x000A]Ricapitolando: lotta, vittoria, cattura!
+msg_sub020_fuji_11=Beh, ci vediamo!

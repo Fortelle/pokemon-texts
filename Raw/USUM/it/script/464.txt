@@ -1,0 +1,11 @@
+C’è un buon profumo nell’aria...{0xBE01}[0x000A]Vuoi raccogliere il Miele da questo cespuglio[0x000A]poco fiorito?
+C’è un buon profumo nell’aria...{0xBE01}[0x000A]Vuoi raccogliere il Miele da questo cespuglio[0x000A]fiorito?
+C’è un buon profumo nell’aria...{0xBE01}[0x000A]Vuoi raccogliere il Miele da questo cespuglio[0x000A]pieno di fiori?
+C’è un buon profumo nell’aria...{0xBE01}[0x000A]Vuoi raccogliere il Miele da questo cespuglio[0x000A]strabordante di fiori?
+{0x0100,0x0000} raccoglie il Miele e lo ripone[0x000A]nel Portaingredienti.
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+Hai già preso del Miele in questo punto![0x000A]Vai a cercare gli ingredienti da un’altra parte.
+Hai già raccolto del Miele in un altro punto.[0x000A]Vuoi scambiarlo con questo?
+Hai riportato il Miele nel punto in cui[0x000A]l’avevi trovato.

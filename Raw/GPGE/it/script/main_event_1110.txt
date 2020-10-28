@@ -1,0 +1,8 @@
+msg_main1110_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Eccoti qua!
+msg_main1110_rival_06=Sapevo che presto saresti arrivat{0x1100,0x00FF,0x0101}oa[0x000A]alla Palestra dell’Isola Cannella!
+msg_main1110_rival_07=Hai già sconfitto Blaine?{0xBE01}[0x000A]Davvero? Complimenti!
+msg_main1110_rival_02=Per essere ammessi alla Lega Pokémon[0x000A]servono {0xFF00,0x0006}otto {0xFF00,0x0000}Medaglie, giusto?
+msg_main1110_rival_08=Io adesso ne ho sette!{0xBE01}[0x000A]Vediamo, quale mi manca...?
+msg_main1110_rival_03=Ah, giusto. Quella della {0xFF00,0x0006}Palestra di Smeraldopoli{0xFF00,0x0000}.[0x000A]Quando ci sono andato il Capopalestra{0xBE00}[0x000A]non c’era.
+msg_main1110_rival_04=Tu ci sei stat{0x1100,0x00FF,0x0101}oa, {0x0100,0x0000}?[0x000A]No, eh?
+msg_main1110_rival_05=Beh, allora io torno a Smeraldopoli.

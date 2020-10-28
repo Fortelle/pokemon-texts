@@ -1,0 +1,8 @@
+net_save_win_01=正在寫入紀錄……[0x000A]請稍候片刻。
+net_save_win_02=請注意！[0x000A][0x000A]在進行寶可夢交換的過程中，[0x000A]若出現連線錯誤[0x000A]或主機電源關閉等情形，[0x000A]將暫時無法進行寶可夢交換。
+net_save_win_03=正在等待連線……[0x000A]請稍候片刻。
+net_save_win_04=要結束交換嗎？
+net_save_sel_01=是
+net_save_sel_02=否
+net_save_sel_03=取消
+net_save_win_05=對方已選擇結束。[0x000A]將結束交換。

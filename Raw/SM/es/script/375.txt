@@ -1,0 +1,70 @@
+¡Hola! Esto es Cuidados Pokémon.{0xBE01}[0x000A]Aquí podemos cuidar de los Pokémon de[0x000A]cualquier Entrenador.{0xBE01}[0x000A]¿Sabes qué? Hace poco nos encontramos a uno[0x000A]de los Pokémon con un Huevo. Qué cosa más{0xBE00}[0x000A]rara, ¿no?{0xBE01}[0x000A]Si quieres dejar algún Pokémon a nuestro[0x000A]cuidado, habla con mi hermana mayor, la que{0xBE00}[0x000A]está dentro, detrás el mostrador.
+¡Alola!{0xBE01}[0x000A]¡A {0x0101,0x0000} se le ve muy contento!
+¡Alola!{0xBE01}[0x000A]Tanto {0x0101,0x0000} como {0x0101,0x0001}[0x000A]están estupendamente. Diría que se llevan{0xBE00}[0x000A]fenomenal.
+¡Alola!{0xBE01}[0x000A]Tanto {0x0101,0x0000} como {0x0101,0x0001}[0x000A]están estupendamente. Diría que se llevan{0xBE00}[0x000A]bastante bien.
+¡Alola!{0xBE01}[0x000A]Parece que {0x0101,0x0000} no se compenetra[0x000A]mucho con {0x0101,0x0001}.{0xBE01}[0x000A]Eso sí, ¡están estupendamente!
+¡Alola!{0xBE01}[0x000A]Parece que a {0x0101,0x0000} no le gusta[0x000A]mucho jugar con {0x0101,0x0001}.{0xBE01}[0x000A]Eso sí, ¡están estupendamente!
+¡Ah, eres tú! ¿Sabes qué? Nos hemos llevado[0x000A]una sorpresa con los Pokémon que dejaste a{0xBE00}[0x000A]nuestro cargo.{0xBE01}[0x000A]¡Resulta que uno de ellos llevaba consigo un[0x000A]Huevo!{0xBE01}[0x000A]No tengo ni idea de dónde lo habrá sacado,[0x000A]pero digo yo que lo querrás, ¿verdad?
+¡Has recibido un Huevo!
+¡Cuídalo bien, por favor!
+Tu equipo y tus cajas del PC están al completo.[0x000A]¿Por qué no vuelves a buscarlo cuando hagas{0xBE00}[0x000A]algún hueco?
+Entonces me lo quedaré yo. ¿Seguro que no[0x000A]prefieres llevártelo tú?
+Vale, pues me lo quedo yo. Muchas gracias.
+Bienvenid{0x1100,0x00FF,0x0101}oa a Cuidados Pokémon.{0xBE01}[0x000A]Podemos cuidar hasta a dos de tus Pokémon al[0x000A]mismo tiempo.
+Bienvenid{0x1100,0x00FF,0x0101}oa a Cuidados Pokémon.{0xBE01}[0x000A]¿En qué podemos ayudarte hoy?
+Muy bien. Vuelve cuando quieras.
+Ah, aquí estás. Mi hermana te estaba buscando.
+Si me entregas ese Pokémon, no tendrás ninguno[0x000A]con el que puedas luchar. Vuelve cuando lleves{0xBE00}[0x000A]más Pokémon contigo.
+¿Qué Pokémon quieres dejar a nuestro[0x000A]cuidado?
+¡Uy, pero eso no es un Pokémon! ¡Es un Huevo!
+Muy bien. Cuidaremos durante una temporada[0x000A]de tu {0x0101,0x0000}.
+Puedes venir a recogerlo cuando quieras.
+Podemos cuidar a dos de tus Pokémon.[0x000A]¿Quieres que nos ocupemos de otro?
+Todos los Pokémon están en plena forma.[0x000A]¿A cuál quieres llevarte?
+{0xBDFF:0x0017}
+El precio total por haber cuidado de[0x000A]{0x0101,0x0000} hasta ahora es de {0x0204,0x0001,0xE07F} $.{0xBE01}[0x000A]¿Quieres llevártelo?
+Pues parece que no tienes suficiente dinero...
+Has recogido a {0x0101,0x0000} de Cuidados[0x000A]Pokémon.
+¿Quieres llevarte al otro Pokémon?
+Si me dejas a un Pokémon, te quedarás tan solo[0x000A]con uno para combatir. Será mejor que atrapes{0xBE00}[0x000A]alguno más primero.
+Parece que tu equipo Pokémon está al[0x000A]completo. Vuelve cuando tengas espacio.
+Dejar Pokémon
+Recoger Pokémon
+Cancelar
+Nv. {0x0202,0x0001}
+{0x0101,0x0000} [0xE08E] Nv. {0x0202,0x0001}
+{0x0101,0x0000} [0xE08F] Nv. {0x0202,0x0001}
+{0x0101,0x0000} Nv. {0x0202,0x0001}
+¿Y esto?
+¡{0x0101,0x0000} ha salido del Huevo!
+¿Quieres ponerle un mote al {0x0101,0x0000}[0x000A]que acaba de nacer?
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+{0xBDFF:0x002A}
+{0xBDFF:0x002B}
+{0xBDFF:0x002C}
+{0xBDFF:0x002D}
+{0xBDFF:0x002E}
+{0xBDFF:0x002F}
+{0xBDFF:0x0030}
+{0xBDFF:0x0031}
+{0xBDFF:0x0032}
+{0xBDFF:0x0033}
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+{0xBDFF:0x0036}
+{0xBDFF:0x0037}
+{0xBDFF:0x0038}
+{0xBDFF:0x0039}
+{0xBDFF:0x003A}
+{0xBDFF:0x003B}
+{0xBDFF:0x003C}
+{0xBDFF:0x003D}
+{0xBDFF:0x003E}
+{0xBDFF:0x003F}
+{0xBDFF:0x0040}
+{0xBDFF:0x0041}
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}

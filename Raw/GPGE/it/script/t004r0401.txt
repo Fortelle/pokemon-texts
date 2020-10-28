@@ -1,0 +1,13 @@
+msg_t004r0401_childm_01=Mi piace viaggiare in groppa ai Pokémon, ma[0x000A]anche andare in bicicletta è forte!
+msg_t004r0401_youngf_01=L’esperto di Bici è simpatico e mi fa piacere[0x000A]che mi faccia vedere le sue Bici rare...{0xBE01}[0x000A]Ma è talmente appassionato che quando inizia[0x000A]a parlare non la smette più!
+msg_t004r0401_middlef_01={0xBDFF:0x0002}
+msg_t004r0401_jevenilem_01={0xBDFF:0x0003}
+msg_boy5_01_p02_t004_r0501={0xBDFF:0x0004}
+msg_t004r0401_bike_01={0xBDFF:0x0005}
+msg_cycle_01_p01_t004_r0501={0xBDFF:0x0006}
+msg_cycle_01_p02_t004_r0501={0xBDFF:0x0007}
+msg_cycle_01_p03_t004_r0501={0xBDFF:0x0008}
+msg_cycle_01_p04_t004_r0501={0xBDFF:0x0009}
+msg_cycle_01_p05_t004_r0501={0xBDFF:0x000A}
+msg_cycle_01_p06_t004_r0501={0xBDFF:0x000B}
+msg_cycle_01_p07_t004_r0501={0xBDFF:0x000C}

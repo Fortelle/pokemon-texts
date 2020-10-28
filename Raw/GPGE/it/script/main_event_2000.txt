@@ -1,0 +1,13 @@
+msg_main2000_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} C’è nessuno?
+msg_main2000_rival_02=So che mi senti, {0x0100,0x0000}! Sto salendo[0x000A]le scale!
+msg_main2000_rival_03={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Sveglia, Campione{0x1100,0x00FF,0x0300}ssa[0x000A]di Kanto! Il mattino ha l’oro in bocca!
+msg_main2000_rival_09=Spero che tu non ti sia affezionat{0x1100,0x00FF,0x0101}oa troppo[0x000A]a quel titolo... Perché prima o poi arriverà{0xBE00}[0x000A]il sottoscritto a soffiartelo!
+msg_main2000_rival_04=Piuttosto... Hai sentito cosa si dice in giro,[0x000A]{0x0100,0x0000}?{0xBE01}[0x000A]Pare che sia stato avvistato un Pokémon[0x000A]incredibilmente potente!
+msg_main2000_sel_01=Che Pokémon è?
+msg_main2000_sel_02=Lo voglio catturare!
+msg_main2000_rival_05=Dicono che sia fortissimo e che abbia un aspetto[0x000A]molto particolare!
+msg_main2000_rival_06=Ah ah ah! Lo sapevo che non avresti saputo[0x000A]resistere!
+msg_main2000_rival_07=È stato visto nei pressi di {0xFF00,0x0006}Celestopoli{0xFF00,0x0000}.
+msg_main2000_rival_10=Pare che sia scappato in una grotta[0x000A]che si trova da quelle parti...
+msg_main2000_rival_08=La cosa ti incuriosisce, vero?[0x000A]Allora facciamo a gara!
+msg_main2000_rival_11=Vediamo chi di noi due riuscirà a catturarlo[0x000A]per primo!

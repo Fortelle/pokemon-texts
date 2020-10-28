@@ -1,0 +1,15 @@
+msg_main0810_musashi_01={0xFF00,0x0009}Jessie :{0xFF00,0x0000} Pas bouger ![0x000A]Laisse faire les grands !
+msg_main0810_kojiro_01={0xFF00,0x0009}James : {0xFF00,0x0000}Maintenant que le fantôme a disparu,[0x000A]on a enfin accès au sommet de la Tour !
+msg_main0810_musashi_02={0xFF00,0x0009}Jessie :{0xFF00,0x0000} Hé ! Le vieux ![0x000A]C’est toi, le père Fuji ?
+msg_main0810_musashi_03=Tu vas recommencer tes recherches sur[0x000A]les Pokémon, pour la Team Rocket !
+msg_main0810_fuji_01={0xFF00,0x0009}M.{0xFF00,0x0000} {0xFF00,0x0009}Fuji : {0xFF00,0x0000}...
+msg_main0810_kojiro_02={0xFF00,0x0009}James :{0xFF00,0x0000} Tu peux faire le fier, ça ne change rien.[0x000A]Tu vas venir avec nous et travailler pour nous.
+msg_main0810_musashi_04={0xFF00,0x0009}Jessie :{0xFF00,0x0000} T’occupe, toi ! On explique un peu la vie[0x000A]au vieux.
+msg_main0810_kojiro_03={0xFF00,0x0009}James : {0xFF00,0x0000}Et si t’es pas content{0x1100,0x00FF,0x0100}e, bah c’est[0x000A]le même tarif !
+msg_main0810_dummy_01={0xBDFF:0x0008}
+msg_main0810_dummy_02={0xBDFF:0x0009}
+msg_main0810_musashi_05={0xFF00,0x0009}Jessie :{0xFF00,0x0000} J’en ai maaarre de ce{0x1100,0x00FF,0x0C08} morveuxtte morveuse ![0x000A]Mais MARRE de chez MARRE, hein !
+msg_main0810_kojiro_05={0xFF00,0x0009}James :{0xFF00,0x0000} Dis... Je crois que notre beau plan de[0x000A]kidnapping du père Fuji pour redorer notre blason{0xBE00}[0x000A]est tombé à l’eau...
+msg_main0810_musashi_06={0xFF00,0x0009}Jessie : {0xFF00,0x0000}Merci, j’avais pas remarqué, dis donc !!![0x000A]Retournons à {0xFF00,0x0006}Safrania {0xFF00,0x0000}et aidons la Team à{0xBE00}[0x000A]{0xFF00,0x0006}infiltrer la Sylphe{0xFF00,0x0000}, en espérant que ça suffise{0xBE00}[0x000A]à regagner les bonnes grâces du boss...
+msg_main0810_kojiro_04={0xFF00,0x0009}Team Rocket :{0xFF00,0x0000} La Team Rocket...[0x000A]À la vitesse d’une voiture !
+msg_main0810_musashi_back={0xFF00,0x0009}Jessie :{0xFF00,0x0000} T’es neuneu, ou quoi ? Tu peux pas[0x000A]nous affronter avec un seul Pokémon.{0xBE01}[0x000A]Alors, tu prends tes cliques et tes claques[0x000A]et tu vas en choper d’autres, compris ?

@@ -1,0 +1,95 @@
+Rediscover the charm of Pokémon![0x000A]Welcome to the Pokémon Contest Spectacular!{0xBE01}[0x000A]Would you like to participate in the contest?
+Let’s all show off for the judges and have fun![0x000A]Welcome to the Pokémon Contest Spectacular!{0xBE01}[0x000A]Here, you can participate in a contest with people nearby.
+The Pokémon Contest Spectacular is a fun,[0x000A]spectacular event where four Trainers{0xBE00}[0x000A]compete to see who has the loveliest Pokémon!{0xBE01}[0x000A]First up is the {0xFF00,0x0002}Introduction Round{0xFF00,0x0000}![0x000A]It’s a competition between Pokémon who have{0xBE00}[0x000A]increased their coolness or cuteness with a Pokéblock.{0xBE01}[0x000A]After the Introduction Round,[0x000A]it’s time for the {0xFF00,0x0002}Talent Round{0xFF00,0x0000}!{0xBE01}[0x000A]It’s a competition to see who can use[0x000A]their moves the best over the course of five turns!{0xBE01}[0x000A]Use moves that match the title of the contest[0x000A]to make the audience go crazy!{0xBE01}[0x000A]One last thing, there are two kinds of contests:[0x000A]single player, which you play alone,{0xBE00}[0x000A]and multiplayer, which you play with friends.{0xBE01}[0x000A]When you keep on winning single-player contests,[0x000A]you can enter higher and higher ranks,{0xBE00}[0x000A]like {0xFF00,0x0002}Super Rank{0xFF00,0x0000} and {0xFF00,0x0002}Hyper Rank{0xFF00,0x0000}.{0xBE01}[0x000A]Once you can enter a rank in single player,[0x000A]it becomes available in multiplayer!{0xBE01}[0x000A]Please give it a try and see[0x000A]if you can become a {0xFF00,0x0002}Contest Star{0xFF00,0x0000}!
+Then, please select the Pokémon you wish to enter.
+If you’d like to decide the rules,[0x000A]choose “Become a leader,” and{0xBE00}[0x000A]if not, choose “Join a group.”
+Which category do you want to participate in?
+How about rank?
+How many people will play?
+The contest will be held in a special hall.{0xBE01}[0x000A]Please note that the camera’s shutter sound[0x000A]will always be played at a fixed volume,{0xBE00}[0x000A]regardless of the current volume setting.{0xBE01}[0x000A]Do you still want to participate in it?
+Your entry was accepted![0x000A]Your Entry No. is{0xFF00,0x0002} {0x0200,0x0000}{0xFF00,0x0000}.
+Please come again.
+Thank you for participating![0x000A]We hope to see you again soon!
+Congratulations, {0x0100,0x0000}!{0xBE01}[0x000A]Your {0x0102,0x0001}[0x000A]performed very well.{0xBE01}[0x000A]We hope to see you again soon!
+Congratulations!{0xBE01}[0x000A]In commemoration of the victory of your[0x000A]{0x0102,0x0001} in the {0xFF00,0x0002}Master Rank{0xFF00,0x0000} of the{0xBE00}[0x000A]{0xFF00,0x0002}{0x01A2,0x0002} Contest{0xFF00,0x0000},{0xBE00}[0x000A]I present this Ribbon!
+What’s more...{0xBE01}[0x000A]Since {0x0102,0x0000} won all the {0xFF00,0x0002}Master Ranks{0xFF00,0x0000}...{0xBE01}[0x000A]In honor of its glory...{0xBE01}[0x000A]I’ll give you a {0xFF00,0x0002}Contest Star Ribbon{0xFF00,0x0000}, too![0x000A]Whoopee! Bravo!
+{0x0100,0x0000}, we wish you and[0x000A]{0x0102,0x0001} even greater success!{0xBE01}[0x000A]We look forward to seeing you again!
+Umm...{0xBE01}[0x000A]Please participate in the contest again.{0xBE01}[0x000A]Please come back again.[0x000A]I’ll be waiting!
+Welcome to the Pokémon Contest Spectacular!{0xBE01}[0x000A]...Oh?[0x000A]You don’t seem to have a {0xFF00,0x0002}Contest Pass{0xFF00,0x0000}.{0xBE01}[0x000A]We only accept Trainers who have {0xFF00,0x0002}Contest Passes{0xFF00,0x0000}[0x000A]as contestants of the Pokémon Contest Spectacular!{0xBE01}[0x000A]Well, let me see...{0xBE01}[0x000A]You might be able to get it from somebody.{0xBE01}[0x000A]Slateport City is a big place.[0x000A]Why don’t you try sightseeing in different places?
+Oh! By the way, someone seems to be waiting for you[0x000A]in the green room.{0xBE00}[0x000A]...Right over there.
+You can’t participate in that rank yet![0x000A]Please win the next-lowest rank first.
+All right then, it’s back to our good old hall.
+I’m in charge of preparing the Contest Hall for everyone.{0xBE01}[0x000A]If you’d like, I can create a special effect[0x000A]during the {0xFF00,0x0002}Talent Round{0xFF00,0x0000} in the Contest Hall.{0xBE00}[0x000A]Do you want me to do it?
+All right![0x000A]I’ll get it ready for you.{0xBE01}[0x000A]Just enter the contest as usual.
+All right![0x000A]I’ll prepare the hall as usual.
+Well, how can I explain it?[0x000A]I can project a hologram through the entire hall.{0xBE01}[0x000A]You won’t be able to see the audience, but I think[0x000A]you’ll enjoy the contest in a different atmosphere.{0xBE01}[0x000A]The kind of atmosphere it will be is up to you.{0xBE01}[0x000A]Well, let me ask you again...
+Yes
+No
+Back
+Enter
+Do not enter
+Info
+Join a group
+Become a leader
+Two people
+Three people
+Four people
+Coolness Contest
+Beauty Contest
+Cuteness Contest
+Cleverness Contest
+Toughness Contest
+Normal Rank
+Super Rank
+Hyper Rank
+Master Rank
+{0x0100,0x0000} has changed into a Contest Costume!
+{0x0100,0x0000} has changed into a Contest Costume!
+I was watching the contest just now, and it was amazing![0x000A]I’m so jealous! I wish I could perform like that!{0xBE01}[0x000A]I don’t even have a {0xFF00,0x0002}Contest Pass{0xFF00,0x0000}, though...
+And that’s why I want you[0x000A]to give it your all for me, too.{0xBE00}[0x000A]Here, take this.
+I saw you doin’ your thing up there.{0xBE01}[0x000A]It looks like contests are all about Pokémon,[0x000A]but the truth is that it’s the combination of{0xBE00}[0x000A]a Pokémon and its Trainer that matters most.{0xBE01}[0x000A]Your Pokémon trusted your instructions[0x000A]about how to appeal to the crowd.{0xBE01}[0x000A]I could see the bond between[0x000A]you and your Pokémon.
+I wanna see you and your[0x000A]Pokémon performing even better.{0xBE01}[0x000A]Let me give you a hand.
+I was watching that contest and[0x000A]found it quite impressive indeed.{0xBE01}[0x000A]Before I knew it, I was spellbound.[0x000A]Thank you for a lovely time.
+I’m looking forward to your next performance.[0x000A]Take this as a symbol of my hopes for you.
+I was fortunate enough to be able to view[0x000A]the contest in which you just partook.{0xBE01}[0x000A]As a spectator of the contest, I am[0x000A]confident of my taste and discernment.{0xBE01}[0x000A]It is my considered opinion that your[0x000A]performance was dazzling!
+I expect more excellence[0x000A]from you in the future!{0xBE01}[0x000A]Also, please be so kind as[0x000A]to wear that costume next time!
+That contest was totally awesome!{0xBE01}[0x000A]The Pokémon came out all “Boom!”[0x000A]Then the crowd was all, like, “Whoa!”{0xBE01}[0x000A]It made me question my whole existence as a Picnicker.[0x000A]I’m a little distraught... That was fun, though!
+I found this in the mountains.[0x000A]You can have it!
+Good job! Your Pokémon is so lovely!{0xBE01}[0x000A]I do hope you’ll tell me sometime what[0x000A]you’ve done to raise your Pokémon so well.
+I’ll give you this.[0x000A]...OK?
+Good gracious, what a contest![0x000A]Your performance made the whole thing!{0xBE01}[0x000A]I came down here from the mountains[0x000A]in the hope I could find something good.{0xBE01}[0x000A]Thanks for making my day!
+Oh yeah! Let me give you something[0x000A]I found up in the mountains.
+Hohoho! That was quite a nice contest just now.{0xBE01}[0x000A]You and your Pokémon were so dreadfully charming[0x000A]that I simply couldn’t take my eyes off you.
+I have nothing but this to offer you,[0x000A]but would you be so gracious as to accept it?
+You and your Pokémon...[0x000A]It would appear that you possess some mysterious power.{0xBE01}[0x000A]I found myself fascinated by it in spite of myself.[0x000A]There must be something to this power!
+I will bestow this upon you.[0x000A]Strive to further amplify your power!
+You’ve got a nice team, don’t you?[0x000A]I was touched!{0xBE01}[0x000A]Even adults want to feel the excitement of Pokémon.[0x000A]Thanks for making it such a nice contest for us!
+This is a reward from me.
+That contest was excellent!{0xBE01}[0x000A]When I see Pokémon giving their all to impress[0x000A]the crowd like that, it makes me feel alive!
+Of course I saw how hard you were trying, too.
+I’ve been waiting for you! What an amazing performance!{0xBE01}[0x000A]I really wanted to tell you that.[0x000A]Please let me see your Pokémon again sometime.
+I’ll give you this, then.[0x000A]It’s a deal, OK?
+You’re wonderful![0x000A]I was moved!{0xBE01}[0x000A]I felt the potential of Pokémon[0x000A]for things other than battles.
+This is for your Pokémon, so they[0x000A]may shine even more brightly!
+Hey! Hey, you! You were just in[0x000A]that contest, weren’t you?{0xBE01}[0x000A]Let’s see, how can I put this...[0x000A]It was pretty good, wasn’t it?{0xBE01}[0x000A]I thought you and your[0x000A]{0x0102,0x0000} were great.
+You can have this. Show me[0x000A]something great again next time!
+I saw that contest that you[0x000A]and your Pokémon performed in.{0xBE01}[0x000A]There are some delightful attractions[0x000A]over here in the Hoenn region, too.
+Oh yeah! As long as you’re here, take this.[0x000A]It’s fine! It’s fine! Put this present to good use.
+This is a portrait of {0x0102,0x0001},[0x000A]who performed well in the {0x01A2,0x0000} Contest!
+It looks like a place to display a portrait of a[0x000A]Pokémon that performed well in a contest.
+It’s a photo taken during the contest!
+This looks like the place where a[0x000A]contest photo can be displayed.
+Which would you like to know about?
+Contests
+Conditions
+Pokéblocks
+Pokéblock Kits
+Condition refers to how well a Pokémon[0x000A]is displaying the charms it possesses.{0xBE01}[0x000A]You can raise a Pokémon’s condition[0x000A]by feeding it Pokéblocks.{0xBE01}[0x000A]As long as you have Berries and a {0xFF00,0x0002}Pokéblock Kit{0xFF00,0x0000},[0x000A]you can make Pokéblocks at any time.{0xBE01}[0x000A]Pokémon that have a high condition that[0x000A]matches the contest’s title will get bonus{0xBE00}[0x000A]points in the Introduction Round.{0xBE01}[0x000A]Be sure to raise the condition of whichever[0x000A]contest you’d like to make a splash in!
+A Pokéblock is a lovely snack that you can[0x000A]use to raise your Pokémon’s condition.{0xBE01}[0x000A]You can make them by mixing together[0x000A]between two to four Berries.{0xBE01}[0x000A]What kind of Pokéblock you make depends[0x000A]on the kinds of Berries you use, and{0xBE00}[0x000A]different blocks raise different conditions.{0xBE01}[0x000A]By the way, there are supposedly Pokéblocks[0x000A]made from very rare Berries, which{0xBE00}[0x000A]greatly raise a Pokémon’s condition!{0xBE01}[0x000A]Please try out many different combinations!
+A {0xFF00,0x0002}Pokéblock Kit{0xFF00,0x0000} is a convenient tool[0x000A]that lets you make Pokéblocks and{0xBE00}[0x000A]feed them to your Pokémon.{0xBE01}[0x000A]You can use a machine called a[0x000A]Berry Blender to make Pokéblocks.{0xBE01}[0x000A]You can organize Pokéblocks by what kind they[0x000A]are and store them in your Pokéblock Case.{0xBE00}[0x000A]It’s very convenient!
+Welcome to the Pokémon Contest Spectacular![0x000A]It looks like you’ve brought your {0xFF00,0x0002}Contest Pass{0xFF00,0x0000}.{0xBE01}[0x000A]Keep on trying until you become a contest star![0x000A]Before we begin, some advice for first-timers...{0xBE01}[0x000A]During the contest, your Pokémon will show[0x000A]the audience just how lovely it is!{0xBE01}[0x000A]First up is the {0xFF00,0x0002}Introduction Round{0xFF00,0x0000}!{0xBE01}[0x000A]The appearance of Pokémon that have raised their[0x000A]Coolness, Cuteness, or other conditions with{0xBE00}[0x000A]Pokéblocks will be judged.{0xBE01}[0x000A]After the Introduction Round, it’s time for[0x000A]the {0xFF00,0x0002}Talent Round{0xFF00,0x0000}!{0xBE01}[0x000A]It’s a competition to determine how well Pokémon[0x000A]can use their moves over the course of five turns.{0xBE01}[0x000A]Use moves that match the condition of the contest[0x000A]to make the audience go crazy!{0xBE01}[0x000A]If you check the moves of the Pokémon that you want[0x000A]to put in the contest, you can see that they’re split into{0xBE00}[0x000A]five different conditions, such as Coolness and Cuteness.{0xBE01}[0x000A]If you’re in a contest with the same title as that condition,[0x000A]you can use that move to appeal to the crowd!{0xBE01}[0x000A]After you place first in a {0xFF00,0x0002}Normal Rank{0xFF00,0x0000} contest,[0x000A]you can win your way through higher ranks!{0xBE01}[0x000A]Very well...
+Right this way, please!
+Congratulations!{0xBE01}[0x000A]{0x0100,0x0000}’s Pokémon performed the best![0x000A]Next time, you can enter your Pokémon in the{0xBE00}[0x000A]{0xFF00,0x0002}{0x01A4,0x0003}{0xFF00,0x0000} of the {0xFF00,0x0002}{0x01A2,0x0002} Contest{0xFF00,0x0000}!
+Please be sure to enter the next rank, too![0x000A]We’ll be waiting for you!
+Wireless communication is currently disabled.[0x000A]Please turn wireless communication on.
+Please wait until preparations[0x000A]are complete.

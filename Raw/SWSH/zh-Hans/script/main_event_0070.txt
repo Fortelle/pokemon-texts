@@ -1,0 +1,17 @@
+main_event_0070_rivalmama_01={0xBDFF:0x0000}
+main_event_0070_champion_01=仔细瞧瞧[0x000A]它们是什么样的宝可梦吧！{0x0114,0x0004}
+main_event_0070_rival_01=大哥！[0x000A]说好的礼物呢！？{0xBE01}[0x000A]你不是要送宝可梦给[0x000A]我和{0x0100,0x0000}吗？{0x0114,0x0005}
+main_event_0070_champion_02=没错！就让我这个最强的冠军[0x000A]为你们送上最棒的礼物吧！{0xBE01}[0x000A]请享受迷人的宝可梦[0x000A]呈现的开心魅力时刻！{0x0114,0x0004}
+main_event_0070_champion_03=草属性宝可梦，敲音猴！{0x0114,0x0004}
+main_event_0070_champion_04=火属性宝可梦，炎兔儿！{0x0114,0x0004}
+main_event_0070_champion_05=水属性宝可梦，泪眼蜥！{0x0114,0x0004}
+main_event_0070_poke1_01={0xBDFF:0x0007}
+main_event_0070_poke2_01={0xBDFF:0x0008}
+main_event_0070_poke3_01={0xBDFF:0x0009}
+main_event_0070_champion_06={0xBDFF:0x000A}
+main_event_0070_rival_02={0xBDFF:0x000B}
+main_event_0080_champion_06=好了！[0x000A]大家集合吧！{0x0114,0x0004}
+main_event_0081_champion_01=如何？要选哪一只宝可梦呢？{0x0114,0x0004}
+main_event_0081_poke1_01=炎兔儿
+main_event_0081_poke2_01=泪眼蜥
+main_event_0081_poke3_01=敲音猴

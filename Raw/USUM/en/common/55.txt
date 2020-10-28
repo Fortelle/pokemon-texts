@@ -1,0 +1,27 @@
+[0x000A]The game is preparing to load, and additional[0x000A]data is being created.[0x000A][0x000A]Please do not remove your SD Card[0x000A]or turn off the power.
+Use the +Control Pad to select a language.[0x000A]Press the A Button to confirm.[0x000A][0x000A]{0xFF00,0x0001}Once your language has been set, you cannot[0x000A]change it during the game.{0xFF00,0x0000}[0x000A][0x000A]If you aren’t sure what to do, ask for[0x000A]help setting the language.
+[0x000A][0x000A]Would you like to start the game[0x000A]with this language?[0x000A][0x000A]{0xFF00,0x0001}Once your language has been set, you cannot[0x000A]change it in the middle of the game.{0xFF00,0x0000}
+[0x000A][0x000A]Would you like to start the game[0x000A]with this language?[0x000A][0x000A]{0xFF00,0x0001}Once your language has been set, you cannot[0x000A]change it in the middle of the game.{0xFF00,0x0000}[0x000A][0x000A]You can change hiragana/Chinese characters[0x000A]at the Options in the menu.
+Play the game in
+Selected language
+Your settings have been saved.
+You have a message from the Alola region’s own[0x000A]Professor Kukui!
+English
+Spanish
+French
+German
+Italian
+Japanese
+Korean
+Simplified Chinese Characters
+Traditional Chinese Characters
+Begin game
+Select language
+Hiragana
+Kanji
+The saved game data is corrupted.[0x000A][0x000A]Please go to the HOME Menu and refer to[0x000A]the manual for this software.
+The extra data in the SD Card is corrupted.[0x000A][0x000A]Press the A Button to initialize the extra data.
+The SD Card couldn’t be recognized.[0x000A][0x000A]Please end the game and start again.
+The saved data is not compatible with[0x000A]this version, so it can’t be used.[0x000A][0x000A]Please go to the HOME Menu and refer to[0x000A]the manual for this software.
+Repairing your saved data.[0x000A][0x000A]Do not turn off the power.
+You can’t start the game because there is[0x000A]not enough space on the SD Card.

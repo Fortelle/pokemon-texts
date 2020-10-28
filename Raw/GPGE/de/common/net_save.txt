@@ -1,0 +1,8 @@
+net_save_win_01=Speichervorgang...[0x000A]Bitte warte einen Moment.
+net_save_win_02=Achtung![0x000A][0x000A]Kommt es bei der Abwicklung eines Tausches[0x000A]zu einem Verbindungsfehler oder wird das[0x000A]System ausgeschaltet, kannst du für kurze Zeit[0x000A]keine Pokémon mehr tauschen.
+net_save_win_03=Verbindung wird hergestellt...[0x000A]Bitte warte einen Moment.
+net_save_win_04=Soll die Verbindung getrennt werden?
+net_save_sel_01=Ja
+net_save_sel_02=Nein
+net_save_sel_03=Abbrechen
+net_save_win_05=Ein Teilnehmer hat die Verbindung getrennt.[0x000A]Der Tausch wird beendet.

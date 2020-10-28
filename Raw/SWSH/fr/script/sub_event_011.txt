@@ -1,0 +1,13 @@
+sub_event_011_master_01=Bienvenue au Café de Combat !
+sub_event_011_master_02=Hmmm ? Je vous reconnais, vous ! Vous vous êtes[0x000A]déjà battu{0x1100,0x00FF,0x0100}e ici aujourd’hui, je me trompe ?{0xBE00}[0x000A]Alors revenez demain !
+sub_event_011_master_03=Une fois par jour, vous pouvez remporter[0x000A]un merveilleux cadeau !{0xBE00}[0x000A]Souhaitez-vous participer ?
+sub_event_011_master_04=Attention ! Prêt{0x1100,0x00FF,0x0100}e ?[0x000A]Place au combat !
+sub_event_011_master_05a=Ce combat était aussi rafraîchissant[0x000A]qu’un Lait Meumeu !
+sub_event_011_master_05b=Ce combat était aussi pétillant qu’une Limonade !
+sub_event_011_master_05c=Ce combat était aussi onctueux[0x000A]qu’un Chocolat Skitty !{0xBE00}[0x000A]Je sais, cela ne veut rien dire !
+sub_event_011_master_05d=J’étais aussi concentré qu’un Jus de Nanana[0x000A]pendant ce combat !
+sub_event_011_master_05e=Ce combat était aussi grandiose[0x000A]qu’un Thé Roserade !
+sub_event_011_master_05f=Ce combat était aussi intense[0x000A]qu’un Café Granbull !
+sub_event_011_master_06=Comme promis, votre cadeau !
+sub_event_011_master_07=Veuillez m’excuser, mais cet établissement[0x000A]observe les règles du Combat Duo.{0xBE01}[0x000A]Veuillez revenir en vous accompagnant[0x000A]d’au moins deux Pokémon. Merci bien !
+sub_event_011_master_08=Nous espérons vous revoir très bientôt !

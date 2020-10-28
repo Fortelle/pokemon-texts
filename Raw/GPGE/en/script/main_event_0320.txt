@@ -1,0 +1,10 @@
+msg_main0320_masaki_01=Hiya![0x000A]I’m a Pokémon...{0xBE00}[0x000A]N-no! I mean—!
+msg_main0320_masaki_06=I’m Bill! Call me Bill![0x000A]I’m a true-blue Pokémon fanatic!
+msg_main0320_masaki_07=Hey![0x000A]What’s with that skeptical look?{0xBE01}[0x000A]I’m not joshing you, pal.{0xBE01}[0x000A]I screwed up an experiment and got combined[0x000A]with a Pokémon!{0xBE01}[0x000A]So, how about it?[0x000A]Help me out here!
+msg_main0320_masaki_02=Hey![0x000A]What’s with that skeptical look?{0xBE01}[0x000A]I’m not joshing you, lady.{0xBE01}[0x000A]I screwed up an experiment and got combined[0x000A]with a Pokémon!{0xBE01}[0x000A]So, how about it?[0x000A]Help me out here!
+msg_main0320_masaki_03=I’m gonna climb inside the teleporter, so you[0x000A]run the Cell Separation System for me!
+msg_main0320_masaki_08=You can do it from that PC over there!{0xBE01}[0x000A]You’re gonna do it for me, right?[0x000A]Don’t leave me hanging!
+msg_main0320_masaki_04=No?! Now don’t be so cold!{0xBE01}[0x000A]Come on, you gotta help a guy in such deep,[0x000A]deep trouble!{0xBE01}[0x000A]What do you say?[0x000A]Please?{0xBE00}[0x000A]OK? All right!
+msg_main0320_masaki_05=No?! Now don’t be so cold!{0xBE01}[0x000A]Come on, you gotta help a guy in such deep,[0x000A]deep trouble!{0xBE01}[0x000A]What do you say?[0x000A]Please?{0xBE00}[0x000A]OK? All right!
+msg_main0320_pc_01={0xBDFF:0x0008}
+msg_main0320_masaki_09=I’m counting on you, {0x1100,0x00FF,0x0403}pallady!

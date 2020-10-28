@@ -1,0 +1,11 @@
+msg_strinput_01_01=¿Cómo te llamas?
+msg_strinput_01_02=¿Qué mote quieres ponerle a {0x0101,0x0000}?
+msg_strinput_01_03=Introduce el código o la contraseña.
+msg_strinput_01_04=¿Cómo se llama tu rival?
+msg_strinput_01_05=Introduce un nombre.
+msg_strinput_NG_00=Ese texto no está permitido.
+msg_strinput_NG_01={0xBDFF:0x0006}
+msg_strinput_NG_02={0xBDFF:0x0007}
+msg_strinput_NG_04=Introduce un nombre.
+msg_strinput_NG_05=Código o contraseña incorrectos.
+msg_strinput_NG_06=No puedes usar "{0x012D,0x0000}" en un nombre.

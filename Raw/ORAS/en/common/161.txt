@@ -1,0 +1,132 @@
+Battle Spot
+Free Battle
+Rating Battle
+Single
+Double
+Triple
+Rotation
+Special
+Online Competition
+This is the place to enjoy Link Battles[0x000A]with people all over the world.[0x000A][0x000A]If communication is interrupted during a[0x000A]battle, it will be recorded as a loss for you.[0x000A]Playing somewhere that has a good[0x000A]connection is highly recommended.
+You can freely participate in Free Battles.[0x000A][0x000A]To participate in Rating Battles, please[0x000A]register at the Pokémon Global Link.[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com{0xFF00,0x0000}
+All Pokémon can participate[0x000A]in Free Battles.[0x000A][0x000A]Your party must not contain duplicate[0x000A]Pokémon or duplicate held items.
+Special Pokémon cannot participate[0x000A]in Rating Battles.[0x000A][0x000A]Your party must not contain duplicate[0x000A]Pokémon or duplicate held items.[0x000A][0x000A]Special Battles are battles with different[0x000A]regulations for each season.
+To participate in Online Competitions, you need to[0x000A]register at the Pokémon Global Link.[0x000A][0x000A]Please check the Pokémon Global Link website for info[0x000A]about competitions and regulations:[0x000A]{0xFF00,0x0002}http://www.pokemon-gl.com{0xFF00,0x0000}
+Welcome to the Battle Spot![0x000A]Please choose a mode.
+{0xBDFF:0x000F}
+This is the Random Matchup mode.[0x000A]Which battle would you like to challenge?
+You’re going to challenge a Free Battle![0x000A]Which battle format would you like?
+You’re going to challenge a Rating Battle![0x000A]Which battle format would you like?
+Which group of Pokémon will you choose?
+This will be your Pokémon team.[0x000A]Are you ready to battle?
+Communicating...[0x000A]Please wait.
+Searching for an opposing Trainer...[0x000A]Please wait.
+An opposing Trainer has been found![0x000A]The battle will begin soon.
+Do you want to continue battling?
+An opposing Trainer could not be found.[0x000A]
+Please wait a bit and try again.
+Welcome to the Online Competition!
+To participate in Rating Battles, you need to[0x000A]register at the Pokémon Global Link.{0xBE00}[0x000A]{0xBD00,0x0006,0x0000,0x0000}http://www.pokemon-gl.com{0xBD01}
+Communication error.[0x000A]Please start again from the beginning.
+It will take some time for[0x000A]the results to be updated.{0xBE01}[0x000A]You can check the results in the[0x000A]Pokémon Global Link, too.{0xBE01}[0x000A]Do you want to continue battling?
+You cannot battle with your locked Battle Box.
+Random Matchup
+Online Competition
+Quit
+{0xBDFF:0x0023}
+{0xBDFF:0x0024}
+Free Battle
+Rating Battle
+Single
+Double
+Triple
+Rotation
+Special
+Back
+Battle Box
+In Party
+Challenge
+YES
+NO
+Your Results
+Rating:
+No. of Battles:
+Wins:
+Losses:
+{0x0203,0x0000,0x002C}
+{0x0206,0x0000,0x002C}
+{0xBDFF:0x0039}
+Rating:
+{0x0203,0x0000,0x002C}
+{0xBDFF:0x003C}
+{0xBDFF:0x003D}
+{0xBDFF:0x003E}
+Pokémon Eggs cannot participate.
+There is at least one Pokémon[0x000A]that is not able to participate.{0xBE01}[0x000A]Please check the Pokémon Global Link[0x000A]{0xBD00,0x0006,0x0000,0x0000}http://www.pokemon-gl.com{0xBD01}{0xBE00}[0x000A]for details.
+There are at least two Pokémon[0x000A]with the same held item.
+There are at least two Pokémon[0x000A]of the same kind.
+You don’t have enough Pokémon.
+You have too many Pokémon[0x000A]to participate.
+There is at least one Pokémon with[0x000A]a banned held item.
+There is at least one Pokémon with[0x000A]a banned move.
+At least one of the Pokémon required to[0x000A]participate is missing.
+The number of special Pokémon you[0x000A]have exceeds the limit.
+There is a problem with your[0x000A]participating Pokémon.
+L
+{0x0202,0x0000}
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+{0xBDFF:0x004E}
+The season ended.
+You need to register your system information[0x000A]in order to participate in a Rating Battle.{0xBE01}[0x000A]Do you want to register this system?
+Registering your system...
+Completed registering this system.{0xBE01}[0x000A]Please note that participating in a Rating Battle[0x000A]with a different system will reset your results.
+You’re trying to participate with a[0x000A]different system.{0xBE01}[0x000A]Your past results will be reset.[0x000A]Are you really OK with resetting your results?
+Resetting the results and registering[0x000A]your system...
+Your results have been reset, and the system[0x000A]has been registered.
+Checking the SD Card.[0x000A]Please don’t turn off the power.
+The regulations have been updated.
+The regulations data is corrupted.[0x000A]Please start again.
+The regulations data that was[0x000A]corrupted has been restored.
+The regulations data cannot be saved,[0x000A]because the SD Card is full.
+After Rating Battles, Battle Videos may be automatically[0x000A]uploaded and sent to the server. Battle Videos sent to[0x000A]the server will be saved at the Pokémon Global Link.[0x000A][0x000A]Note that you can join in Rating Battles even if you don’t[0x000A]approve automatic transmission of your Battle Videos.
+Do you approve the automatic[0x000A]transmission of your Battle Videos?
+Yes
+No
+Participate
+Battle
+Digital Player ID
+Previous Competition
+Cancel Participation
+Back
+Competition Information
+Register
+Quit
+Current competition
+Previous competition
+You canceled participation.
+You cannot participate in this competition.
+Checking the status of the competition.
+To participate in the competition, please[0x000A]register at the Pokémon Global Link.{0xBE00}[0x000A]{0xBD00,0x0006,0x0000,0x0000}http://www.pokemon-gl.com{0xBD01}
+There’s no competition you can[0x000A]currently participate in.
+The competition in which you[0x000A]were participating has ended.
+The competition in which you[0x000A]were participating has ended.{0xBE01}[0x000A]Your Battle Box has been unregistered.
+Downloading the Digital Player ID...
+The Digital Player ID has been downloaded.
+Do you wish to register your[0x000A]Battle Box for the competition?
+Your Battle Box is locked,[0x000A]and Game Sync is complete.
+You canceled your participation[0x000A]in this competition.
+Battles in this competition haven’t started yet.{0xBE01}[0x000A]Please check the Pokémon Global Link[0x000A]for the competition dates.{0xBE00}[0x000A]{0xBD00,0x0006,0x0000,0x0000}http://www.pokemon-gl.com{0xBD01}
+The system is different from the one you used[0x000A]to register for the competition.{0xBE01}[0x000A]Please check your system.
+You cannot battle right now.{0xBE01}[0x000A]Please check the Pokémon Global Link[0x000A]to find out when you can battle:{0xBE00}[0x000A]{0xBD00,0x0006,0x0000,0x0000}http://www.pokemon-gl.com{0xBD01}
+Sorry. You have participated in the[0x000A]maximum number of battles for the day.{0xBE01}[0x000A]You cannot battle anymore today.
+Will you unregister from[0x000A]{0x01AF,0x0000}?
+You won’t participate in[0x000A]{0x01AF,0x0000}.{0xBE00}[0x000A]Are you sure about this?
+Your participation has been canceled,[0x000A]and your Battle Box has been unlocked.
+You cannot participate in the competition.{0xBE01}[0x000A]Please check the Pokémon Global Link:[0x000A]{0xBD00,0x0006,0x0000,0x0000}http://www.pokemon-gl.com{0xBD01}
+No. of Battles
+Registered Battle Box
+Register participating Pokémon[0x000A]before the first battle.
+You released your Battle Box[0x000A]from registration.
+The Internet browser failed to start.{0xBE01}[0x000A]Go to System Settings and update[0x000A]your system.
+Do you want to use the Internet browser to[0x000A]check for information on the competition?

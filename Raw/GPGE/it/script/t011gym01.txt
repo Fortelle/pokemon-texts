@@ -1,0 +1,4 @@
+msg_t011gym01_gym_01=Ehi![0x000A]Aspirante Campione{0x1100,0x00FF,0x0300}ssa!{0xBE01}[0x000A]I Pokémon di Sabrina non usano la forza fisica,[0x000A]ma poteri paranormali!{0xBE01}[0x000A]I Pokémon di tipo Lotta sono particolarmente[0x000A]deboli contro quelli di tipo Psico!{0xBE01}[0x000A]Il potere psichico li sfianca prima ancora[0x000A]che possano sferrare un pugno!
+msg_t011gym01_gym_02=Poteri psichici, eh?{0xBE01}[0x000A]Se li avessi, saprei bene cosa farne![0x000A]Oh oh oh!
+msg_t011gym01_statue_01=Palestra di Zafferanopoli{0xBE01}[0x000A]Allenatori certificati da Sabrina:[0x000A]{0x0100,0x0001}
+msg_t011gym01_statue_02=Palestra di Zafferanopoli{0xBE01}[0x000A]Allenatori certificati da Sabrina:[0x000A]{0x0100,0x0001} e {0x0100,0x0000}

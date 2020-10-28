@@ -1,0 +1,46 @@
+Nom :
+{0x0100,0x0000}
+Nº ID :
+{0x0204,0x0000,0x0000}
+Pokédex Hoenn :
+{0x0202,0x0000}
+
+Argent :
+{0x0206,0x0000,0xE07F} $
+{0xBDFF:0x0009}
+Temps de jeu :
+{0x0202,0x0000}
+:
+{0x0201,0x0001}
+Début de l’aventure :
+{0x0201,0x0002}/{0x0201,0x0001}/{0x0203,0x0000,0x0000}
+Infos Dresseur
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+1[0xE08B] entrée au Panthéon :
+Poké Miles :
+{0x0206,0x0000,0xE07F}
+Points de Combat :
+{0x0206,0x0000,0xE07F}
+Voir les Badges
+Badge Roche[0x000A]Championne : Roxanne
+Badge Poing[0x000A]Champion : Bastien
+Badge Dynamo[0x000A]Champion : Voltère
+Badge Chaleur[0x000A]Championne : Adriane
+Badge Balancier[0x000A]Champion : Norman
+Badge Plume[0x000A]Championne : Alizée
+Badge Esprit[0x000A]Champions : Lévy et Tatia
+Badge Pluie[0x000A]Champion : Marc
+Championne : Roxanne
+Champion : Bastien
+Champion : Voltère
+Championne : Adriane
+Champion : Norman
+Championne : Alizée
+Champions : Lévy et Tatia
+Champion : Marc
+Pokédex National :

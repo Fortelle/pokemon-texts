@@ -1,0 +1,12 @@
+C’è un albero che somiglia a un Sudowoodo...{0xBE01}[0x000A]Vuoi raccogliere una Granradice?
+C’è un albero che somiglia a un Sudowoodo...{0xBE01}[0x000A]I suoi rami oscillano leggermente.[0x000A]Vuoi raccogliere una Granradice?
+C’è un albero che somiglia a un Sudowoodo...{0xBE01}[0x000A]Il suo tronco vibra leggermente.[0x000A]Vuoi raccogliere una Granradice?
+C’è un albero che somiglia a un Sudowoodo...{0xBE01}[0x000A]Le sue foglie frusciano leggermente.[0x000A]Vuoi raccogliere una Granradice?
+C’è un albero che somiglia a un Sudowoodo...{0xBE01}[0x000A]Hai l’impressione che qualcuno ti stia[0x000A]osservando. Vuoi raccogliere una Granradice?
+{0x0100,0x0000} raccoglie la Granradice[0x000A]e la ripone nel Portaingredienti.
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+Hai già preso una Granradice in questo punto![0x000A]Vai a cercare gli ingredienti da un’altra parte.
+Hai già raccolto una Granradice in un altro punto.[0x000A]Vuoi scambiarla con questa?
+Hai riportato la Granradice nel punto in cui[0x000A]l’avevi trovata.

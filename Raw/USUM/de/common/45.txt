@@ -1,0 +1,73 @@
+„{0x01BA,0x0001}“ von {0x0100,0x0000}
+Aktueller Rang:
+Bisher gesammelte Festival-Münzen:
+Zum Rangaufstieg fehlen noch:
+Statistik von {0x0100,0x0000}
+Festival-Münzen:
+Interaktionen mit Gästen:
+Aufgestellte Buden:
+Teilnahmen an Spektakeln:
+
+Profil von {0x0100,0x0000}
+{0xBDFF:0x000B}
+{0x0203,0x0000,0xE07F}
+{0x0203,0x0000,0x002E}
+{0x0203,0x0000,0x002E}
+{0x0203,0x0000,0x002E}
+{0x0203,0x0000,0xE07F}
+{0x0203,0x0000,0xE07F}
+{0x0203,0x0000,0xE07F}
+Gruß
+Verabschiedung
+Wenn du dich freust
+Wenn du enttäuscht bist
+Dein Geheimnis
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+Name deines Festival-Plazas
+---
+„{0x01B7,0x0000}“
+Erlauben
+{0xFF00,0x0001}Nicht erlauben{0xFF00,0x0000}
+Infos
+Kampf-Einladungen
+Tausch-Einladungen
+Teilnahme an Spektakeln
+Kommunikation mit Gästen
+Kommunikation mit VIPs
+Kommunikation mit Freunden
+Jederzeit
+Kein Interesse
+Jederzeit
+Bitte wähle, ob die Kommunikation mit Freunden[0x000A]erlaubt werden soll oder nicht.
+Bitte wähle, ob die Kommunikation mit Gästen[0x000A]erlaubt werden soll oder nicht.
+Bitte wähle, ob die Kommunikation mit VIPs[0x000A]erlaubt werden soll oder nicht.
+Die Kommunikation mit VIPs ist ab sofort[0x000A]erlaubt.{0xBE01}
+Die Kommunikation mit VIPs ist ab sofort[0x000A]{0xFF00,0x0001}nicht mehr erlaubt{0xFF00,0x0000}.{0xBE01}
+Die Kommunikation mit Gästen ist ab sofort[0x000A]erlaubt.{0xBE01}
+Die Kommunikation mit Gästen ist ab sofort[0x000A]{0xFF00,0x0001}nicht mehr erlaubt{0xFF00,0x0000}.{0xBE01}
+Die Kommunikation mit Freunden ist ab sofort[0x000A]erlaubt.{0xBE01}
+Die Kommunikation mit Freunden ist ab sofort[0x000A]{0xFF00,0x0001}nicht mehr erlaubt{0xFF00,0x0000}.{0xBE01}
+Bitte wähle, ob du Kampf-Einladungen erhalten[0x000A]möchtest oder nicht.
+Du hast angegeben, Kampf-Einladungen[0x000A]jederzeit erhalten zu wollen.{0xBE01}
+Du hast angegeben, an Kampf-Einladungen[0x000A]nicht interessiert zu sein.{0xBE01}
+Bitte wähle, ob du Tausch-Einladungen erhalten[0x000A]möchtest oder nicht.
+Du hast angegeben, Tausch-Einladungen[0x000A]jederzeit erhalten zu wollen.{0xBE01}
+Du hast angegeben, an Tausch-Einladungen[0x000A]nicht interessiert zu sein.{0xBE01}
+Bitte wähle, ob du Spektakel-Einladungen[0x000A]erhalten möchtest oder nicht.
+Du hast angegeben, Spektakel-Einladungen[0x000A]jederzeit erhalten zu wollen.{0xBE01}
+Du hast angegeben, an Spektakel-Einladungen[0x000A]nicht interessiert zu sein.{0xBE01}
+Du hast angegeben, an Tausch-Einladungen[0x000A]nicht interessiert zu sein.{0xBE01}
+Hier kannst du die Kommunikation mit Freunden[0x000A]beschränken.[0x000A][0x000A]Wenn du die Kommunikation mit Freunden nicht[0x000A]erlaubst, werden ihnen keine Spielinformationen[0x000A]von dir gesendet und du kannst auch keine von[0x000A]ihnen erhalten.
+Deine Spielfigur erscheint dann nicht auf dem[0x000A]Festival-Plaza deiner Freunde und umgekehrt[0x000A]erscheinen ihre Spielfiguren auch nicht auf[0x000A]deinem Festival-Plaza.
+Wenn du einstellst, dass Kampf-Einladungen[0x000A]jederzeit erlaubt sind, wird dies den anderen[0x000A]Spielern angezeigt.
+Wenn du einstellst, dass Tausch-Einladungen[0x000A]jederzeit erlaubt sind, wird dies den anderen[0x000A]Spielern angezeigt.
+Wenn du einstellst, dass Spektakel-Einladungen[0x000A]jederzeit erlaubt sind, wird dies den anderen[0x000A]Spielern angezeigt.
+Hier kannst du die Kommunikation mit VIPs[0x000A]beschränken.[0x000A][0x000A]Wenn du die Kommunikation mit VIPs nicht[0x000A]erlaubst, werden den von dir als VIPs[0x000A]festgelegten Spielern keine Spielinformationen[0x000A]von dir gesendet und du kannst auch keine[0x000A]von ihnen erhalten.
+Deine Spielfigur erscheint dann nicht auf dem[0x000A]Festival-Plaza der von dir als VIPs festgelegten[0x000A]Spieler und umgekehrt erscheinen auch ihre[0x000A]Spielfiguren nicht auf deinem Festival-Plaza.
+{0xBDFF:0x0043}
+Hier kannst du die Kommunikation mit Gästen[0x000A]beschränken.[0x000A][0x000A]Wenn du die Kommunikation mit Gästen nicht[0x000A]erlaubst, werden ihnen keine Spielinformationen[0x000A]von dir gesendet und du kannst auch keine von[0x000A]ihnen erhalten.
+Deine Spielfigur erscheint dann nicht auf dem[0x000A]Festival-Plaza von Gästen und umgekehrt[0x000A]erscheinen ihre Spielfiguren auch nicht auf[0x000A]deinem Festival-Plaza.
+{0xBDFF:0x0046}
+Hier in deinem Profil kannst du dich über[0x000A]deinen Festival-Plaza informieren und dir[0x000A]deine Statistiken anschauen.[0x000A][0x000A]Die Informationen werden an andere Spieler[0x000A]gesendet, sofern du dies in deinen Einstellungen[0x000A]erlaubt hast.
+Deine Begrüßungen und Zitate werden benutzt,[0x000A]wenn du auf dem Festival-Plaza oder beim[0x000A]Wundertausch anderen Spielern begegnest.[0x000A][0x000A]Bitte schau dir die Erklärungen über die[0x000A]Kommunikationsfunktionen unter den jeweiligen[0x000A]Stichpunkten an.

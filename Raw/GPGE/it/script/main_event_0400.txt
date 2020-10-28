@@ -1,0 +1,10 @@
+msg_main0400_sailor_01={0xBDFF:0x0000}
+msg_main0400_sailor_02=Benvenut{0x1100,0x00FF,0x0101}oa sulla Motonave Anna![0x000A]Scusa, hai il biglietto?
+msg_main0400_sys_01={0x0100,0x0000} mostra il Biglietto nave[0x000A]al marinaio!
+msg_main0400_sailor_03=Benissimo! Accomodati pure a bordo!{0xBE01}[0x000A]Oh...! Congratulazioni! Sei {0x1100,0x00FF,0x0C0C}il centesimola centesima[0x000A]passegger{0x1100,0x00FF,0x0101}oa di oggi!{0xBE01}[0x000A]Tieni, questo è per te...{0xBE01}[0x000A]Un completo leggerissimo, ideale per chi[0x000A]ama farsi accarezzare dalla brezza marina!
+msg_main0400_sys_02={0x0100,0x0000} riceve il {0xFF00,0x0006}completo da marinaio{0xFF00,0x0000}[0x000A]dal marinaio!
+msg_main0400_sys_04={0x0100,0x0000} ripone il {0xFF00,0x0006}completo da marinaio{0xFF00,0x0000}[0x000A]nella Valigia vestiti!
+msg_main0400_sailor_04={0xBDFF:0x0006}
+msg_main0400_sys_03={0xBDFF:0x0007}
+msg_main0400_sailor_05={0xBDFF:0x0008}
+msg_main0400_sailor_06={0xBDFF:0x0009}

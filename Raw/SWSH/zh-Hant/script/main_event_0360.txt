@@ -1,0 +1,14 @@
+main_event_0360_rival_01=站長先生！[0x000A]這裡不是曠野地帶的車站嗎？{0xBE00}[0x000A]到底發生了什麼事？{0x0114,0x0005}
+main_event_0360_stationmaster_01=是……因為鐵軌上[0x000A]聚集了一群毛辮羊……{0xBE00}[0x000A]列車目前暫停行駛了。
+main_event_0360_rival_02=這反而是件好事耶！{0x0114,0x0005}
+main_event_0360_select_01=好事？
+main_event_0360_select_02=為什麼？
+main_event_0360_rival_03=曠野地帶總之就是超級大！[0x000A]到處都是寶可夢！{0xBE01}[0x000A]{0x1100,0x00FF,0x0101}你妳懂吧？{0x0100,0x0000}！[0x000A]這下子可以打造最強的隊伍囉！{0x0114,0x0005}
+main_event_0360_stationmaster_02=目前列車可以駛回木桿鎮，[0x000A]但是無法駛向機擎市。{0xBE01}[0x000A]畢竟，總不能強行驅離[0x000A]聚在這裡的寶可夢啊。
+main_event_0360_assistant_01={0xBDFF:0x0007}
+main_event_0360_rival_05={0xBDFF:0x0008}
+main_event_0360_rival_06={0xBDFF:0x0009}
+main_event_0360_assistant_02={0xBDFF:0x000A}
+main_event_0360_assistant_03={0xBDFF:0x000B}
+main_event_0360_rival_04={0xBDFF:0x000C}
+main_event_0360_assistant_04={0xBDFF:0x000D}

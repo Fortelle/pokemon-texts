@@ -1,0 +1,6 @@
+msg_sub014_researcher_01=Salut ! Tu te souviens de moi ?[0x000A]Je suis l’un des assistants du Professeur Chen !{0xBE01}[0x000A]Si tu enregistres 30 Pokémon différents dans ton[0x000A]Pokédex, je suis censé t’offrir la fonction Juge !{0xBE01}[0x000A]Alors, {0x0100,0x0000}, as-tu attrapé[0x000A]au moins 30 espèces de Pokémon ?
+msg_sub014_researcher_02=Parfait ! Tu as capturé {0x0202,0x0004} espèces différentes[0x000A]de Pokémon ! Bravo !{0xBE01}[0x000A]Voici ta récompense !
+msg_sub014_sys_01=La {0xFF00,0x0006}fonction Juge{0xFF00,0x0000} a été ajoutée à votre Sac !
+msg_sub014_researcher_03=Si tu consultes les Informations d’un Pokémon,[0x000A]tu peux voir son potentiel.
+msg_sub014_researcher_04=Voyons voir...{0xBE01}[0x000A]Oh ! Tu n’as attrapé que {0x0202,0x0004} espèce{0x1101,0x0004,0x0100}s de[0x000A]Pokémon{0x1101,0x0004,0x0C00} différentes !{0xBE01}[0x000A]Si tu veux la fonction Juge, il faudra que tu en[0x000A]captures au moins 30.
+msg_sub014_researcher_05=Ah, bon...{0xBE01}[0x000A]Dans ce cas, reviens me voir quand tu auras[0x000A]attrapé 30 Pokémon différents pour que{0xBE00}[0x000A]je te donne accès à la fonction Juge !

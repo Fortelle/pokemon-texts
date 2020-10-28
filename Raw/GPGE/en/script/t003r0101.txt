@@ -1,0 +1,12 @@
+msg_t003r0101_oldm_01_01=I should be grateful for my long life.{0xBE01}[0x000A]Never did I think I would get to see the bones of[0x000A]a dragon!
+msg_t003r0101_scientist_02_01=We have two Fossils of rare, prehistoric Pokémon[0x000A]on exhibit.
+msg_t003r0101_tenji_01_01=It’s a piece of amber with a beautiful gold color.
+msg_t003r0101_tenji_02_01=A fossil of the rare, ancient Pokémon Aerodactyl!
+msg_t003r0101_tenji_03_01=A fossil of the rare, ancient Pokémon Kabutops!
+msg_t003r0101_tenji_04_01=Wow, an ancient Pokémon![0x000A]...Oh, it’s just a replica.
+msg_t003r0101_tenji_05_01=They’re various Fossils from Mt. Moon.
+msg_studym1_03_p01_t003_r0101={0xBDFF:0x0007}
+msg_studym1_03_p02_t003_r0101={0xBDFF:0x0008}
+msg_studym1_03_p03_t003_r0101={0xBDFF:0x0009}
+msg_studym1_03_p04_t003_r0101={0xBDFF:0x000A}
+msg_t003r0101_scientist_03_01=The secrets of space...[0x000A]The mysteries of earth...{0xBE01}[0x000A]There are so many things about which we know[0x000A]so little.{0xBE01}[0x000A]But that should spur us to study harder,[0x000A]not throw in the towel.

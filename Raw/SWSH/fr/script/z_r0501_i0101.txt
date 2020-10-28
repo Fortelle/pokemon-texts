@@ -1,0 +1,11 @@
+msg_r0501_i0101_npc_01=Hé hé hé, bonjour, mon {0x1100,0x00FF,0x0504}petienfant.[0x000A]Qu’est-ce qui t’intéresse ?
+msg_r0501_i0101_npc_02=Autre chose ?
+msg_r0501_i0101_npc_03=Ici, à la Garderie, nous nous occupons[0x000A]des Pokémon que les clients nous confient.{0xBE01}[0x000A]Cela ne les rend pas spécialement plus puissants,[0x000A]mais si tu nous en laisses deux, il se peut{0xBE00}[0x000A]que nous trouvions un Œuf !{0xBE01}[0x000A]Si tu souhaites profiter de nos services,[0x000A]demande à ma petite-fille, à l’extérieur.
+msg_r0501_i0101_npc_04=Si tu mets un Œuf dans ton équipe et que[0x000A]tu marches avec pendant un certain temps,{0xBE00}[0x000A]il finira par éclore !{0xBE01}[0x000A]On ne sait pas vraiment d’où viennent les Œufs[0x000A]de Pokémon, ils sont entourés de mystères...{0xBE00}[0x000A]Mais c’est aussi cela, le miracle de la vie !
+msg_r0501_i0101_npc_05=Si tu souhaites obtenir un Œuf de Pokémon,[0x000A]il ne faut pas laisser deux Pokémon au hasard.{0xBE01}[0x000A]Tu peux par exemple nous en confier deux[0x000A]de la même espèce et de sexe différent.{0xBE01}[0x000A]Cela fonctionne aussi si les deux Pokémon[0x000A]sont d’une espèce différente, à condition{0xBE00}[0x000A]qu’ils soient assez similaires.{0xBE01}[0x000A]Mais même dans ce cas, certains Pokémon[0x000A]ne donnent aucun résultat...
+msg_r0501_i0101_npc_06=N’hésite pas à revenir nous voir !
+msg_r0501_i0101_npc_choices_01=La Garderie
+msg_r0501_i0101_npc_choices_02=Les Œufs de Pokémon
+msg_r0501_i0101_npc_choices_03=Les Pokémon confiés
+msg_r0501_i0101_npc_choices_04=Rien, merci !
+msg_r0501_i0101_bookshelf_01={0xBDFF:0x000A}

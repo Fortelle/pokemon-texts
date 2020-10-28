@@ -1,0 +1,9 @@
+msg_sub031_bigman_01=Hrmmm? Wha—?[0x000A]I must have dozed off in the sun...
+msg_sub031_bigman_02=...I had this weird dream.
+msg_sub031_bigman_03=A lost spirit became a flame and was[0x000A]floating around.{0xBE01}[0x000A]Huh? Seems I picked up this TM without[0x000A]realizing it.
+msg_sub031_bigman_04=Eeek! That’s creepy![0x000A]I’d better give it to you!
+msg_sub031_bigman_05=TM11 contains Will-O-Wisp...[0x000A]Booo!
+msg_bigman1_01_p01_field_t002={0xBDFF:0x0005}
+msg_bigman1_01_p02_field_t002={0xBDFF:0x0006}
+msg_bigman1_01_p03_field_t002={0xBDFF:0x0007}
+msg_bigman1_01_p04_field_t002={0xBDFF:0x0008}

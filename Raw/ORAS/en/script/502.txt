@@ -1,0 +1,41 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+Ah...[0x000A]Yes...{0xBE01}[0x000A]I suppose I should welcome you to my home.[0x000A]Please forgive the rather sparse décor...{0xBE00}[0x000A]Now, where to begin...
+Let us take a moment to understand what[0x000A]is happening to our world right now.
+That rumbling that shook the earth just now...[0x000A]The eardrum-rupturing explosion we heard...{0xBE01}[0x000A]They are proof that a seal, which was long hidden[0x000A]deep undersea, has been undone at last.
+The super-ancient Pokémon that has[0x000A]been sealed deep beneath Route 128{0xBE00}[0x000A]since ancient times...{0xBE01}[0x000A]It slept until now in the Seafloor Cavern.{0xBE01}[0x000A]The entrance to that cavern was sealed[0x000A]by the power of a certain Pokémon,{0xBE00}[0x000A]all in an effort to keep any human or{0xBE00}[0x000A]Pokémon from ever breaching it.{0xBE01}[0x000A]But now it appears that the scheming of[0x000A]that terrible team has undone the seal.{0xBE01}[0x000A]There is no doubt that they intend to[0x000A]revive the super-ancient Pokémon.{0xBE01}[0x000A]And once they do so, it seems they hope[0x000A]to make its power their own.
+{0x0100,0x0000}...
+{0x0100,0x0000}...
+If that team obtains the power of the[0x000A]super-ancient Pokémon, it will upset{0xBE00}[0x000A]the balance of nature in this world.{0xBE01}[0x000A]A crisis unlike any other before it will[0x000A]befall every living thing on this planet.{0xBE01}[0x000A]I plan to do everything in my power[0x000A]to quell this situation. That is my duty.{0xBE01}[0x000A]But there is a limit to what I can do[0x000A]with my power alone...{0xBE01}[0x000A]That is why I am asking for your help.[0x000A]I have great faith in your abilities.{0xBE01}[0x000A]Lend me your strength to help put a[0x000A]halt to these Teams’ mad ambitions!{0xBE01}[0x000A]With you and I and our Pokémon all[0x000A]working together, we will overcome{0xBE00}[0x000A]this disastrous turn of events.{0xBE01}[0x000A]I don’t think it is out of the question.[0x000A]
+I will entrust you with this.
+If you use Dive, you will be[0x000A]able to dive to the ocean floor{0xBE00}[0x000A]with your Pokémon.
+And take this so you can stay with your[0x000A]Pokémon even in the depths of the ocean...
+If you were to use {0xFF00,0x0002}Dive{0xFF00,0x0000} in the {0xFF00,0x0002}correct{0xFF00,0x0000}[0x000A]{0xFF00,0x0002}stretch of water along Route 128{0xFF00,0x0000}...{0xBE01}[0x000A]I believe you should be able to reach[0x000A]the entrance to the {0xFF00,0x0002}Seafloor Cavern{0xFF00,0x0000}.
+I will join you when I finish my duties.
+Please do what you can to stop Team[0x000A]Aqua and Team Magma until then.{0xBE01}[0x000A]I am trusting you to do this for me!
+{0x0100,0x0000} checked the Poké Ball.{0xBE01}[0x000A]It contains the Pokémon Beldum.{0xBE01}[0x000A]Take the Poké Ball?
+{0x0100,0x0000} obtained a Beldum.
+You cannot carry any more Pokémon!
+{0x0100,0x0000} left the Poké Ball where it was.
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+There’s a letter here.
+...
+Dear {0x0100,0x0000}...
+Dear {0x0100,0x0000}...
+I have something in mind, so I will[0x000A]be away in training for some time.{0xBE01}[0x000A]I do not expect to return to my home[0x000A]anytime soon.{0xBE01}[0x000A]Which brings me to a request.{0xBE01}[0x000A]I want you to take the Poké Ball that[0x000A]you should find on my desk.{0xBE01}[0x000A]The Beldum inside is one of my[0x000A]favorite Pokémon, so I hope you’ll{0xBE00}[0x000A]treat it like one of your own.{0xBE01}[0x000A]Trusting we will meet again,[0x000A]                           Steven Stone
+{0xBDFF:0x001C}
+It’s a collection of rare rocks and[0x000A]stones assembled by Steven.
+...
+A careful look reveals a postscript.
+P.S. I had sent you another[0x000A]Beldum, rather a special one.{0xBE00}[0x000A]Did it reach you safely?{0xBE01}[0x000A]Of course, both are cool[0x000A]and sublimely strong.{0xBE01}[0x000A]I trust they will teach you[0x000A]the joys of Steel-type Pokémon.
+There is a note on the plate...{0xBE01}[0x000A]Classification: Schalstein[0x000A]Source: Mt. Coronet, Sinnoh region
+There is a note on the plate:{0xBE01}[0x000A]Classification: Hornblende biotite granite[0x000A]Source: Rock Tunnel, Kanto region
+There is a note on the plate...{0xBE01}[0x000A]Classification: Pitchstone[0x000A]Source: Mt. Mortar, Johto region
+There is a note on the plate...{0xBE01}[0x000A]Classification: Chert[0x000A]Source: Mt. Pyre, Hoenn region
+There is a note on the plate...{0xBE01}[0x000A]Classification: Greenschist[0x000A]Source: Chargestone Cave, Unova region
+Would you like to give a nickname to Beldum?
+{0xBDFF:0x0027}
+{0xBDFF:0x0028}

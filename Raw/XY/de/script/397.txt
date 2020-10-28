@@ -1,0 +1,27 @@
+Hallihallo! Ich bin Rouge.[0x000A]Ich bin hier zuständig für die Fundsachen.{0xBE01}[0x000A]Kann es sein, dass du zum ersten Mal hier bist?[0x000A]Freut mich, dich kennenzulernen.{0xBE01}[0x000A]Meine Arbeit besteht darin, Sachen zu finden,[0x000A]die unsere Gäste verloren haben.{0xBE01}[0x000A]Pass auf, dass du nicht aus Versehen drauftrittst.[0x000A]Halte die Augen offen und du wirst fündig!
+Hallihallo![0x000A]Da bist du ja wieder!
+Hallihallo, {0x0100,0x0000}!{0xBE01}[0x000A]Ich habe schon auf dich und deine[0x000A]legendäre Spürnase gewartet!
+Wir haben eine Suchanfrage von einem Gast![0x000A]Auf geht’s! An die Arbeit!
+Der Gast hat {0x0200,0x0001} {0x019A,0x0000} verloren.{0xBE01}[0x000A]Diese Dinger sind sehr zerbrechlich,[0x000A]wir müssen also vorsichtig sein!
+Was ist los?[0x000A]Hast du etwa schon was anderes vor?
+Na gut...[0x000A]Dann mache ich mich eben alleine auf die Suche.
+Los, mach dich auf die Suche! Aber pass auf![0x000A]Nicht, dass du aus Versehen darauftrittst.{0xBE01}[0x000A]Nicht auszudenken, was dann passieren würde.
+Hoppla!{0xBE01}[0x000A]Du bist auf etwas getreten![0x000A]{0x1601,0x0000}{0x019A,0x0000} ist leicht beschädigt.
+Oh nein!{0xBE01}[0x000A]Du bist auf etwas getreten![0x000A]{0x1601,0x0000}{0x019A,0x0000} ist völlig zerbröselt.
+Total hinüber...
+Heureka! {0x1601,0x0001}{0x0200,0x0000}. {0x019A,0x0001}!
+Du hast alle verlorenen Items gefunden!
+Gut gemacht![0x000A]Du hast alle verlorenen Items wiedergefunden.
+Ich bin entzückt![0x000A]Das war tadellose Arbeit! Einwandfrei!
+Ich werde mich in deinem Namen beim Gast[0x000A]für den entstandenen Schaden entschuldigen.{0xBE01}[0x000A]Schließlich bin ich diejenige, die dich um Hilfe[0x000A]gebeten hat. Trotzdem danke!
+Quarzbrosche{0x1101,0x00FE,0x0100}n
+Glaslinse{0x1101,0x00FE,0x0100}n
+Buddelschiff{0x1101,0x00FE,0x0100}e
+Handspiegel
+Alte Flöte{0x1101,0x00FE,0x0100}n
+Taschenuhr{0x1101,0x00FE,0x0200}en
+Füllfederhalter
+Super-Sandro-Figur{0x1101,0x00FE,0x0200}en
+Lesebrille{0x1101,0x00FE,0x0100}n
+Schachfigur{0x1101,0x00FE,0x0200}en
+Du hast {0x1604,0x0000}{0x019A,0x0000}[0x000A]aufgespürt!

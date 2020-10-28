@@ -1,0 +1,11 @@
+sub_event_005_npc_01=毒电婴！是毒电婴啊！{0xBE01}[0x000A]我带着自己发现的蛋到处走，[0x000A]不知不觉间这只毒电婴就孵出来了！{0xBE00}[0x000A]你想培育看看吗？{0xBE00}[0x000A]它可是种会让人麻酥酥的宝可梦哦！
+sub_event_005_poke1_01=嘤嘤～！
+sub_event_005_npc_02=还有这个也请收下！[0x000A]把它给宝可梦，就可以帮助它成长哦！
+sub_event_005_npc_03=要蛋就来寄放屋！[0x000A]经验糖果的话{0xBE00}[0x000A]可以通过极巨团体战找到哦！
+sub_event_005_npc_04=咦！你无法再接收宝可梦了？[0x000A]你到底是有多喜欢宝可梦啊！
+sub_event_005_oldf_01={0xBDFF:0x0005}
+sub_event_005_oldf_02={0xBDFF:0x0006}
+sub_event_005_poke_01={0xBDFF:0x0007}
+sub_event_005_poke_02={0xBDFF:0x0008}
+sub_event_005_poke_03={0xBDFF:0x0009}
+sub_event_005_system_01={0xBDFF:0x000A}

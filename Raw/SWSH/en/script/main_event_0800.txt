@@ -1,0 +1,6 @@
+main_event_0800_rival_01={0x1003}{0x0100,0x0000}!{0xBE01}[0x000A]I figured that if anyone could do it, you and[0x000A]{0x0101,0x0001} would be the ones...but still!{0xBE00}[0x000A]That match had me right at the edge of my seat!{0x0114,0x0005}
+main_event_0800_danpei_01=Challenger {0x0100,0x0000}!{0xBE01}[0x000A]I see you’ve done a fine job collecting the Gym[0x000A]Badges from the Grass, Water, and Fire Gyms.
+main_event_0800_danpei_02=I think you’ve proven your skill well enough to[0x000A]try your hand against the Gyms that await you,{0xBE00}[0x000A]starting in the city of Hammerlocke.
+main_event_0800_danpei_03=Head back down into the Wild Area surrounding[0x000A]this city, then make your way to Hammerlocke!
+main_event_0800_rival_02=With all the Badges we’ve earned ourselves,[0x000A]I reckon we should be all right even against the{0xBE00}[0x000A]fierce Pokémon you find deep in the Wild Area.{0xBE01}[0x000A]Let’s go find out for ourselves!{0x0114,0x0005}
+main_event_0800_rival_03={0xBDFF:0x0005}

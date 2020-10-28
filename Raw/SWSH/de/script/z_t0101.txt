@@ -1,0 +1,11 @@
+msg_t0101_npc1_01={0xBDFF:0x0000}
+msg_t0101_npc2_01={0xBDFF:0x0001}
+msg_t0101_npc3_01={0xBDFF:0x0002}
+msg_t0101_poke1_01_pop=Knospiii!
+msg_t0101_poke2_01_pop=Wooolly!
+msg_t0101_poke3_01_pop=Wolly!
+msg_t0101_poke4_01_pop=Meikro!
+msg_t0101_middleman_01=Die Wissenschaft kennt keine Grenzen!{0xBE01}[0x000A]Man kann jetzt mit anderen Leuten Kämpfe[0x000A]austragen und Pokémon tauschen, indem man{0xBE00}[0x000A]einfach nur durch die Gegend spaziert!{0xBE01}[0x000A]Ist das nicht der Hammer?
+msg_t0101_nameplate_01=Hops Zuhause
+msg_t0101_poke5_01_pop=Knooos...
+msg_t0101_bg1_01=Dieser Grill hat schon gute Dienste geleistet. Er[0x000A]ist mit einer schmierigen Fettschicht überzogen.

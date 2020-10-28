@@ -1,0 +1,12 @@
+{0xBDFF:0x0000}
+Piou[0xE07F]!
+Doudou... Tu es incorrigible...{0xBE01}[0x000A]Le Professeur et Monsieur Pectorius peuvent[0x000A]nous protéger en cas de danger, mais en temps{0xBE00}[0x000A]normal, évite de sortir du sac, d’accord[0xE07F]?{0x0114,0x0006}
+On dirait que Doudou t’aime bien...{0xBE01}[0x000A]Tu sais, j’ai lu que les Pokémon adorent[0x000A]quand on les caresse et qu’on s’occupe d’eux.{0x0114,0x0006}
+J’ai un super cadeau rien que pour toi,[0x000A]{0x0100,0x0000}[0xE07F]!{0x0114,0x0005}
+Vous avez reçu un {0xFF00,0x0001}Pokédex {0xFF00,0x0000}!{0x0114,0x0005}
+Le Pokédex est un appareil high-tech qui[0x000A]enregistre automatiquement des informations{0xBE00}[0x000A]sur les Pokémon que tu croises.{0xBE01}[0x000A]D’ailleurs, les infos {0x1408,0x0001}{0x0101,0x0001}[0x000A]devraient déjà être enregistrées à l’intérieur.{0xBE00}[0x000A]Jettes-y un œil à l’occasion[0xE07F]!{0x0114,0x0005}
+Et ça, c’est ton Passe Dresseur. Je l’ai gardé[0x000A]bien au chaud en attendant ton arrivée[0xE07F]!{0x0114,0x0005}
+Bon, tu veux peut-être te rentrer maintenant,[0x000A]m{0x1100,0x00FF,0x0302}aniss[0xE07F]? T’as vu le Doyen, donc c’est bon pour{0xBE00}[0x000A]le moment. On ne te retient plus.{0x0114,0x0005}
+Unissez vos forces, ton Pokémon et toi, et rien[0x000A]ne pourra vous arrêter[0xE07F]!{0x0114,0x0008}
+Hmmm... Je me demande si ta rencontre avec[0x000A]Tokorico aura une influence sur l{0x1100,0x00FF,0x0101}ea Dresseu{0x1100,0x00FF,0x0201}rse{0xBE00}[0x000A]que tu deviendras.{0x0114,0x0005}
+Je n’oublierai jamais ce que tu as fait pour nous,[0x000A]au pont suspendu.{0xBE01}[0x000A]{0x0101,0x0001} et toi, vous m’avez vraiment[0x000A]impressionnée.{0x0114,0x0006}

@@ -1,0 +1,8 @@
+Bonjour, Dresseur. Voudrais-tu échanger[0x000A]un Pokémon avec moi[0xE07F]?{0xBE01}[0x000A]Ici, à Pacifiville, je ne peux attraper que[0x000A]certains Pokémon.{0xBE01}[0x000A]Tu n’aurais pas un {0x0101,0x0002}[0xE07F]?[0x000A]Je te l’échange contre mon {0x0101,0x0001}.
+Oooh, ce {0x0101,0x0002} est si doux[0xE07F]!{0xBE01}[0x000A]Maintenant que nous avons fait un échange,[0x000A]nous sommes ami{0x1100,0x00FF,0x0100}es, n’est-ce pas[0xE07F]?
+Attends, mais ce n’est pas un {0x0101,0x0002}[0xE07F]!
+Je suis un peu déçue[0xE08D]
+Cool[0xE07F]! Alors, faisons l’échange[0xE07F]!
+Oh, mais tu ne possèdes qu’un Pokémon[0xE07F]?[0x000A]Dans ce cas, on ne peut pas faire d’échange…
+{0xBDFF:0x0006}
+C’est un Pokédex[0xE07F]?{0xBE01}[0x000A]Cela veut dire que tu as rencontré[0x000A]beaucoup de Pokémon différents[0xE07F]?{0xBE01}[0x000A]J’aimerais bien être à ta place[0xE08D]

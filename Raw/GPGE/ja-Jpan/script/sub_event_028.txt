@@ -1,0 +1,10 @@
+msg_sub028_sys_01=自動販売機　だ！[0x000A]欲しい　飲み物は……
+msg_sub028_select_01=おいしいみず　{0xBD03,0x0000}{0x0202,0x0001}円
+msg_sub028_select_02=サイコソーダ　{0xBD03,0x0000}{0x0202,0x0001}円
+msg_sub028_select_03=ミックスオレ　{0xBD03,0x0000}{0x0202,0x0001}円
+msg_sub028_select_04=いらない
+msg_sub028_sys_02=お金が　たりないぞ！
+msg_sub028_sys_03={0x0109,0x0004}が　でてきた！
+msg_sub028_sys_04=これ以上　もてない！
+msg_sub028_sys_05=やっぱり　やめた！
+msg_sub028_sys_06=もう　一本　買う？

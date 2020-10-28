@@ -1,0 +1,16 @@
+main_event_1820_assistant_01=Oh! {0x0100,0x0000}, Hop, ciao!{0xBE01}[0x000A]Un momento... Che ci fate qui? Non dovreste[0x000A]essere al Match con il Campione?{0x0114,0x000B}
+main_event_1820_mama_01=Ma come, Sonia! Non lo sai?{0xBE01}[0x000A]Il presidente Rose ha mandato all’aria[0x000A]la competizione!{0x0114,0x0008}
+main_event_1820_assistant_02=Eh?{0xBE01}[0x000A]Cosaaa?!{0xBE01}[0x000A]Ma... Ma perché? È successo qualcosa mentre[0x000A]ero nel Bosco Assopito per le mie ricerche?!{0x0114,0x000B}
+main_event_1820_mama_02=Sì... È apparso un vortice nero sopra lo[0x000A]Stadio di Knuckleburgh...{0xBE01}[0x000A]Com’è che l’hanno chiamato...? Notte Oscura,[0x000A]mi pare... E così è scoppiato il caos...{0x0114,0x0008}
+main_event_1820_mama_03=Però possiamo stare tranquilli, vero?{0xBE01}[0x000A]Il nostro invincibile Campione sistemerà tutto,[0x000A]giusto?{0x0114,0x0008}
+main_event_1820_assistant_03=Aspetta un secondo... Hai detto Notte Oscura?!{0x0114,0x000B}
+main_event_1820_assistant_09=Come il vortice nero che minacciò[0x000A]e quasi distrusse Galar in tempi antichi...{0x0114,0x000B}
+main_event_1820_assistant_08=E tu {0x0100,0x0000}... Perché sei qui?{0x0114,0x000B}
+main_event_1820_select_01=Per fermare la Notte Oscura!
+main_event_1820_select_02=Per cercare il Pokémon spada!
+main_event_1820_select_03=Per cercare il Pokémon scudo!
+main_event_1820_assistant_04=Fermare la Notte Oscura...{0xBE01}[0x000A]Allora starai cercando il Pokémon spada[0x000A]e il Pokémon scudo...{0x0114,0x000B}
+main_event_1820_assistant_05=Certo... Se le leggende sono vere, il Pokémon[0x000A]spada e il Pokémon scudo potrebbero{0xBE00}[0x000A]contrastare la Notte Oscura...{0xBE01}[0x000A]Potrebbero aiutarci a respingere il vortice!{0x0114,0x000B}
+main_event_1820_assistant_06=Va bene! Allora prendi questi e vai[0x000A]al Bosco Assopito!{0xBE01}[0x000A]Io devo controllare una cosa, ma appena[0x000A]ho finito ti raggiungo!{0x0114,0x000B}
+main_event_1820_assistant_07=Devo scoprire l’origine di quei due Pokémon!{0x0114,0x000B}
+main_event_1820_mama_04=Brav{0x1100,0x00FF,0x0101}oa, è giusto che tu faccia tutto quello[0x000A]che puoi per dare una mano!{0xBE01}[0x000A]Ormai sei un{0x1100,0x00FF,0x0B0A} Allenator’Allenatrice di tutto rispetto!{0x0114,0x0008}

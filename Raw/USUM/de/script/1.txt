@@ -1,0 +1,126 @@
+Herzlich willkommen im Kampfbaum!
+Wonach steht dir der Sinn?
+Worüber möchtest du gerne mehr erfahren?
+Hier hast du die Möglichkeit, dich mit einer[0x000A]Vielzahl an Trainern in drei verschiedenen{0xBE00}[0x000A]Kampfarten zu messen.{0xBE01}[0x000A]Du hast die Wahl zwischen Einzel-, Doppel-[0x000A]und Multikämpfen.{0xBE01}[0x000A]Ziel ist es, so viele Kämpfe wie möglich in Serie[0x000A]zu gewinnen.{0xBE01}[0x000A]Du kämpfst also so lange, bis du eine Niederlage[0x000A]erleidest.{0xBE01}[0x000A]Bitte bedenke, dass du nach jeder Niederlage[0x000A]wieder von vorne beginnen musst.{0xBE01}[0x000A]Es gibt außerdem zwei unterschiedliche [0x000A]Schwierigkeitsstufen im Kampfbaum:{0xBE00}[0x000A]Normal und Super.{0xBE01}[0x000A]Meisterst du die Normal-Stufe, wird im[0x000A]Anschluss die Super-Stufe freigeschaltet.{0xBE01}[0x000A]Für jeden Sieg gegen einen Trainer erhältst[0x000A]du sogenannte Gewinnpunkte.{0xBE01}[0x000A]Je länger deine Gewinnserie andauert,[0x000A]desto mehr bekommst du.{0xBE01}[0x000A]Gewinnpunkte kannst du gegen Preise[0x000A]eintauschen oder zum Rekrutieren einsetzen.{0xBE01}[0x000A]Du siehst also, es lohnt sich! Gib alles!
+Um das Angebot des Kampfbaums in vollen[0x000A]Zügen genießen zu können, gilt es, drei Punkte{0xBE00}[0x000A]zu beachten.{0xBE01}[0x000A]1. Bei Kämpfen auf der Normal-Stufe sind[0x000A]sämtliche Pokémon erlaubt, bei der Super-Stufe{0xBE00}[0x000A]hingegen ist der Einsatz bestimmter Pokémon{0xBE00}[0x000A]untersagt.{0xBE01}[0x000A]Zudem gelten für Kämpfe auf der Super-Stufe[0x000A]die strengen Regeln. Für die Dauer der Kämpfe{0xBE00}[0x000A]werden teilnehmende Pokémon im Bedarfsfall{0xBE00}[0x000A]auf Level 50 herabgestuft.{0xBE01}[0x000A]2. Die zur Teilnahme vorgeschriebene Anzahl an[0x000A]Team-Pokémon beträgt 3 für Einzelkämpfe,{0xBE00}[0x000A]4 für Doppelkämpfe und 2 je Trainer bei{0xBE00}[0x000A]Multikämpfen.{0xBE01}[0x000A]3. Pro Team dürfen alle Pokémon und Items[0x000A]nur jeweils ein Mal vertreten sein.{0xBE01}[0x000A]Die einzige Ausnahme stellen Multikämpfe dar.[0x000A]Dort dürfen zwei Trainer, die im selben Team{0xBE00}[0x000A]kämpfen, mit den gleichen Pokémon und Items{0xBE00}[0x000A]antreten.
+Bitte beehre uns bald wieder!
+An welcher Kampfart möchtest du dich gerne[0x000A]versuchen?
+Du hast bislang {0x0203,0x0001,0xE07F} K{0x1101,0x0001,0x0504}ampfämpfe in Serie[0x000A]gewonnen.
+Du möchtest dich also der Herausforderung[0x000A]des Einzelkampfes stellen?
+Du möchtest dich also der Herausforderung[0x000A]des Super-Einzelkampfes stellen?
+Du möchtest dich also der Herausforderung[0x000A]des Doppelkampfes stellen?
+Du möchtest dich also der Herausforderung[0x000A]des Super-Doppelkampfes stellen?
+Bitte wähle die Pokémon aus, die teilnehmen[0x000A]sollen.
+Du möchtest dich also der Herausforderung[0x000A]des Multikampfes stellen?
+Du möchtest dich also der Herausforderung[0x000A]des Super-Multikampfes stellen?
+Willst du die Herausforderung mit einem Freund[0x000A]bewältigen und einen Link-Kampf erstellen?
+Dein Freund hat sich für eine andere Kampfart[0x000A]entschieden als du.{0xBE01}[0x000A]Versucht es erneut, wenn ihr euch auf eine[0x000A]Kampfart geeinigt habt!
+Bitte wähle deinen Partner aus.
+Also los, auf in den Einzelkampf![0x000A]Und vergiss nicht: Hier wird in Serie gekämpft.
+Also los, auf in den Super-Einzelkampf![0x000A]Und vergiss nicht: Hier wird in Serie gekämpft.
+Also los, auf in den Doppelkampf![0x000A]Und vergiss nicht: Hier wird in Serie gekämpft.
+Also los, auf in den Super-Doppelkampf![0x000A]Und vergiss nicht: Hier wird in Serie gekämpft.
+Also los, auf in den Multikampf![0x000A]Und vergiss nicht: Hier wird in Serie gekämpft.
+Also los, auf in den Super-Multikampf![0x000A]Und vergiss nicht: Hier wird in Serie gekämpft.
+Deine Kampfergebnisse werden gespeichert...[0x000A]Bitte warte einen Moment.
+Herzlichen Glückwunsch!{0xBE01}[0x000A]Gegen Kampflegenden zu gewinnen, ist kein[0x000A]Kinderspiel! Du hast dir diese zusätzlichen{0xBE00}[0x000A]Gewinnpunkte redlich verdient!
+Herzlichen Glückwunsch!{0xBE01}[0x000A]Gegen Kampflegenden zu gewinnen, ist kein[0x000A]Kinderspiel! Du hast dir diese zusätzlichen{0xBE00}[0x000A]Gewinnpunkte redlich verdient!
+Du erhältst {0x0201,0x0005} GP!
+Du kannst dich nun der Kampfserie[0x000A]im Super-Einzelkampf stellen!
+Du kannst dich nun der Kampfserie[0x000A]im Super-Doppelkampf stellen!
+Du kannst dich nun der Kampfserie[0x000A]im Super-Multikampf stellen!
+Vielen Dank für deine Teilnahme!{0xBE01}[0x000A]Damit sind die Begegnungen in der[0x000A]Kampfart Einzelkampf beendet.{0xBE01}[0x000A]Viel Spaß bei der Herausforderung[0x000A]des Super-Einzelkampfes!
+Vielen Dank für deine Teilnahme!{0xBE01}[0x000A]Damit sind die Begegnungen in der[0x000A]Kampfart Doppelkampf beendet.{0xBE01}[0x000A]Viel Spaß bei der Herausforderung[0x000A]des Super-Doppelkampfes!
+Vielen Dank für deine Teilnahme!{0xBE01}[0x000A]Damit sind die Begegnungen in der[0x000A]Kampfart Multikampf beendet.{0xBE01}[0x000A]Viel Spaß bei der Herausforderung[0x000A]des Super-Multikampfes!
+Und für deine herausragende Leistung von[0x000A]50 Siegen in Serie erhältst du von mir{0xBE00}[0x000A]einen Stempel!
+Als Nächstes folgt dein {0x0203,0x0001,0xE07F}. Kampf in Serie.[0x000A]Möchtest du weitermachen?
+Als Nächstes folgt dein {0x0203,0x0001,0xE07F}. Kampf in Serie.[0x000A]Gib acht! Kampflegenden sind starke Gegner!{0xBE00}[0x000A]Möchtest du weitermachen?
+Möchtest du eine Pause einlegen?
+Die Verbindung wurde unterbrochen.
+Verbindung wird hergestellt...[0x000A]Bitte warte einen Moment.
+Aktuell ist dieses Musikstück ausgewählt:[0x000A]{0x01C3,0x0000}{0xBE00}[0x000A]Welches Stück soll während der Kämpfe laufen?
+Dein Wunsch ist mir Befehl!
+Herausforderung annehmen
+Info
+Abbrechen
+Der Kampfbaum
+Die Kampfarten
+{0xBDFF:0x002F}
+Einzelkampf
+Super-Einzelkampf
+Doppelkampf
+Super-Doppelkampf
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+Multikampf
+Super-Multikampf
+Weiter
+Kampfvideo speichern
+Pause
+♪ Trainer (2) ♪
+♪ Wildes Pokémon (2) ♪
+♪ Herrscher-Pokémon ♪
+♪ Inselkönig/Inselkönigin ♪
+Musik ändern
+{0xBDFF:0x0040}
+Ich bin hier im Kampfbaum für die Verwaltung[0x000A]der Ergebnisse und Statistiken zuständig.{0xBE01}[0x000A]Möchtest du deine Ergebnisse einsehen?
+Welche Ergebnisse möchtest du einsehen?
+Aktuell: {0x0203,0x0000,0xE07F} Sieg{0x1101,0x0000,0x0100}e in Serie.[0x000A]Bestleistung: {0x0203,0x0001,0xE07F} Sieg{0x1101,0x0000,0x0100}e in Serie.
+Die drahtlose Verbindung ist derzeit deaktiviert.{0xBE01}[0x000A]Bitte aktiviere die drahtlose Verbindung.
+{0xBDFF:0x0045}
+Mit diesem Spieler kannst du nicht kämpfen.
+Rekrutieren
+Um jemanden zu rekrutieren,[0x000A]benötigst du 10 GP.
+Jemanden zu rekrutieren kostet 10 GP.[0x000A]Einverstanden?
+Du kannst keine weiteren Trainer rekrutieren.[0x000A]Möchtest du jemanden aus der Liste entfernen?
+Gut, dann breche ich die Rekrutierung von[0x000A]{0x010E,0x0000} {0x0100,0x0001} ab.
+Gut, dann rekrutiere ich[0x000A]{0x010E,0x0000} {0x0100,0x0001}.
+{0xBDFF:0x004D}
+{0x0100,0x0000}!{0xBE01}[0x000A]Als Anerkennung für deine {0x0203,0x0001,0xE07F} Siege in Serie[0x000A]neulich überreiche ich dir diesen Preis!
+Und diesen hier auch.[0x000A]Bitte schön.
+Durch die Erfahrungen, die du im Kampf gegen[0x000A]zahlreiche Trainer gesammelt hast, spürst du,{0xBE00}[0x000A]wie ein neuer Trainer-Stil in dir erwacht...
+Wenn du an Multikämpfen teilnimmst, kannst du[0x000A]deine früheren Gegner aus Einzel- und Doppel-{0xBE00}[0x000A]kämpfen innerhalb des Kampfbaums rekrutieren,{0xBE00}[0x000A]damit sie gemeinsam mit dir kämpfen.{0xBE01}[0x000A]Um jemanden rekrutieren zu können, musst du[0x000A]gegen ihn gewonnen haben. Kampflegenden{0xBE00}[0x000A]können jedoch nicht rekrutiert werden.{0xBE01}[0x000A]Suche nach Partnern, die du im Kampf an deiner[0x000A]Seite haben möchtest!
+Rekrutieren
+♪ Hier kommt Tali (1) ♪
+♪ Hier kommt Gladio ♪
+♪ Team Skull ♪
+♪ Skull-Vorstand ♪
+♪ Skull-Boss ♪
+♪ Æther Foundation ♪
+♪ Samantha (1) ♪
+♪ Samantha (2) ♪
+♪ Ultrabestie ♪
+♪ Top Vier ♪
+♪ Titelverteidigungskampf ♪
+♪ Legendäres Pokémon ♪
+♪ Battle Royale ♪
+♪ Schutzpatron ♪
+♪ Kampflegende ♪
+♪ Team Rainbow Rocket ♪
+♪ Giovanni ♪
+♪ Marc & Adrian ♪
+♪ Zyrus ♪
+♪ G-Cis ♪
+♪ Flordelis ♪
+♪ Ultraforschungsteam ♪
+♪ Necrozma (1) ♪
+♪ Necrozma (2) ♪
+♪ Mewtu ♪
+♪ Kanto-Pokémon ♪
+♪ Hoenn-Pokémon ♪
+♪ Hoenn-Legenden (2) ♪
+♪ Hoenn-Legenden (1) ♪
+♪ Ho-Oh ♪
+♪ Lugia ♪
+♪ Johto-Legenden ♪
+♪ Sinnoh-Legenden (2) ♪
+♪ Sinnoh-Legenden (3) ♪
+♪ Sinnoh-Legenden (1) ♪
+♪ Giratina ♪
+♪ Einall-Legenden (1) ♪
+♪ Einall-Legenden (2) ♪
+♪ Kalos-Legenden ♪
+♪ Trainer (1) ♪
+♪ Wildes Pokémon (1) ♪
+♪ Hier kommt Tali (2) ♪
+{0xBDFF:0x007D}

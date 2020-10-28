@@ -1,0 +1,16 @@
+Sí
+No
+{0x0206,0x0008,0xE07F} $
+¿Quieres guardar la partida?
+Guardando...[0x000A]No apagues la consola.
+{0x0100,0x0000} ha guardado la partida.
+Ya hay una partida guardada, por lo que no es[0x000A]posible guardar ahora.{0xBE01}[0x000A]Para obtener más información, consulta el manual[0x000A]de instrucciones.
+No se ha podido guardar la partida.
+Has recibido a {0x0101,0x0000}.
+{0x0101,0x0000} se ha transferido a la siguiente[0x000A]caja: {0x010B,0x0001}.
+Has recibido un mensaje en el Holomisor.
+¡Hola, {0x0100,0x0000}!{0xBE01}[0x000A]Veo que tú y tu equipo Pokémon os habéis esforzado[0x000A]mucho, ¿eh?{0xBE01}[0x000A]Venga, ¿por qué no descansáis un ratito?{0xBE01}[0x000A]...
+¡Muy bien! ¡Tu equipo Pokémon y tú estáis llenos de[0x000A]energía!{0xBE01}[0x000A]Voy a darte un consejo: si los PS de tus Pokémon[0x000A]disminuyen y quieres que recuperen la salud, siempre{0xBE00}[0x000A]puedes volver a casa para reponer fuerzas.{0xBE01}[0x000A]Si tu equipo va por ahí con poca energía... será muy[0x000A]difícil que salgáis victoriosos en los combates, ¿no{0xBE00}[0x000A]crees?{0xBE01}[0x000A]Sí, es algo que también le he oído decir a tu padre[0x000A]muy a menudo.{0xBE01}[0x000A]Pues nada, {0x0100,0x0000}...[0x000A]¡Ponte en marcha otra vez!{0xBE01}[0x000A]Demuestra todo lo que vales... ¡pero con cuidadito!
+Primero vamos a devolverle la energía a tu equipo[0x000A]Pokémon.
+No olvides visitar un Centro Pokémon cuando tus[0x000A]Pokémon pierdan PS.{0xBE01}[0x000A]Si piensas viajar lejos, deberías hacerte con varias[0x000A]Pociones en cualquier Tienda Pokémon.{0xBE01}[0x000A]¡Buena suerte!
+Tu equipo Pokémon ya está en plena forma.{0xBE01}[0x000A]¡Que te vaya bien!

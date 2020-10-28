@@ -1,0 +1,16 @@
+main_event_1590_rival_01=¡La Torre Rose de cerca al fin!{0xBE01}[0x000A]¿Pero hasta dónde llega este mamotreto?[0x000A]No lo veo entre tanto nubarrón.{0x0114,0x0005}
+main_event_1590_sister_01=¿Y ahora qué hacemos?{0xBE01}[0x000A]Todo el Team Yell está enzarzado con los[0x000A]Empleados de la Liga corruptos.{0x0114,0x000D}
+main_event_1590_rival_02=Ya ves... ¿Tú qué dices, {0x0100,0x0000}?{0x0114,0x0005}
+main_event_1590_select_01=¡Vamos nosotros tres!
+main_event_1590_select_02=¿Esperamos a los demás?
+main_event_1590_rival_03=¡Me parece genial! ¡Saquemos a mi hermano de[0x000A]ahí cuanto antes!{0xBE01}[0x000A]Si no, no podrás enfrentarte al Campeón.{0x0114,0x0005}
+main_event_1590_rival_04=Creo que sería una pifiada.{0xBE01}[0x000A]Por una vez que los del Team Yell no se portan[0x000A]como energúmenos, ¿vas a dejar que caiga en{0xBE00}[0x000A]saco roto?{0x0114,0x0005}
+main_event_1590_sister_02={0x0100,0x0000}, tú has abierto el camino hasta[0x000A]aquí. Ahora no te achantes y tira p’alante.{0x0114,0x000D}
+main_event_1590_sister_04=¡Hay que ver los extremos hasta los que llegan[0x000A]algunos empleados por impresionar a su jefe!{0xBE01}[0x000A]Mira que esconder la llave del monorraíl para[0x000A]complacer al Presidente Rose...{0x0114,0x000D}
+main_event_1590_sister_05=Tampoco pillo qué se trae entre manos el tío.[0x000A]¿Para qué tendrá encerrado al Campeón?{0x0114,0x000D}
+main_event_1590_leader_01={0xBDFF:0x000A}
+main_event_1590_leader_02=El frenesí de ese directo me ha recordado a la[0x000A]época dorada de Pueblo Crampón.{0xBE01}[0x000A]¡Lo llevan claro si se esperan que haga bises!{0x0114,0x0016}
+main_event_1590_leader_04=Pero ¿qué hacéis aquí pasmados?{0x0114,0x0016}
+main_event_1590_leader_03=¡Venga, arreando! Yo os animaré cantando a[0x000A]grito pelado para que me oigáis desde arriba.{0x0114,0x0016}
+main_event_1590_rival_05=¡Vamos, {0x0100,0x0000}!{0x0114,0x0005}
+main_event_1590_sister_03=Yo me quedo. No puedo dejar a mi hermano a su[0x000A]bola por si le da por hacer alguna barbaridad.{0xBE01}[0x000A]Volved aquí si no podéis estar sin mí.{0x0114,0x000D}

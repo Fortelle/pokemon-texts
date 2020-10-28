@@ -1,0 +1,11 @@
+msg_ui_player_select_01=당신의 사진을 선택해 주십시오
+msg_ui_player_select_02=이 내용으로 진행하겠습니까?
+msg_ui_player_select_03={0x0189,0x0000}
+msg_ui_player_select_04=이름
+msg_ui_player_select_yes=예
+msg_ui_player_select_no=아니요
+msg_ui_player_select_no_00={0xFF00,0x0006}한번 결정한 언어는 중간에 변경할 수 없습니다{0xFF00,0x0000}
+msg_ui_player_select_no_01={0xFF00,0x0006}히라가나/한자는 메뉴의 “설정”에서 변경할 수 있습니다{0xFF00,0x0000}
+msg_ui_player_select_10=등록을 완료했습니다!
+msg_ui_player_select_20=리포트 작성 중...
+msg_ui_player_select_21=이 게임은 자동 리포트 기능에 의해[0x000A]자동으로 저장됩니다.

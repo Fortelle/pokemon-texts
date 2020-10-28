@@ -1,0 +1,6 @@
+main_event_0800_rival_01={0x0100,0x0000}!{0xBE01}[0x000A]Sapevo che tu e i tuoi Pokémon avreste fatto[0x000A]faville!{0xBE01}[0x000A]Eppure, non so perché, sono stato in ansia[0x000A]per tutto il tempo!{0x0114,0x0005}
+main_event_0800_danpei_01=Impresa ammirevole, {0x0100,0x0000}!{0xBE01}[0x000A]Hai conquistato le Medaglie Erba, Acqua[0x000A]e Fuoco!
+main_event_0800_danpei_02=Viste le tue rare capacità, hai di certo tutte[0x000A]le carte in regola per affrontare i Capipalestra{0xBE00}[0x000A]che ti attendono da Knuckleburgh in poi!
+main_event_0800_danpei_03=Va’! Torna nelle Terre Selvagge e poi dirigiti[0x000A]a Knuckleburgh!
+main_event_0800_rival_02=Con le Medaglie che abbiamo ora, affrontare[0x000A]i temibili Pokémon delle Terre Selvagge{0xBE00}[0x000A]sarà una passeggiata!{0xBE01}[0x000A]Coraggio, andiamo! L’avventura si fa sempre[0x000A]più emozionante!{0x0114,0x0005}
+main_event_0800_rival_03={0xBDFF:0x0005}

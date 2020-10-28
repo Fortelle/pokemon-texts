@@ -1,0 +1,13 @@
+msg_sub024_researcher_01=¡Hola! Soy un Científico de renombre y estudio[0x000A]sin descanso fósiles de Pokémon.{0xBE01}[0x000A]¿Tienes alguno para mí?
+msg_sub024_select_01=Fósil Hélix
+msg_sub024_select_02=Fósil Domo
+msg_sub024_select_03=Ámbar Viejo
+msg_sub024_select_04=No
+msg_sub024_researcher_02=¿No? Vaya, qué pena...
+msg_sub024_researcher_03=¡El experimento ha sido todo un éxito!{0xBE01}[0x000A]Tu fósil ha resultado ser, como yo supuse,[0x000A]¡un {0x0101,0x0004}!
+msg_sub024_sys_01=El Científico te ha dado un {0x0101,0x0004}.
+msg_sub024_researcher_04=¡Ver para creer! ¡Un {0x0109,0x0002}![0x000A]¡Se trata ni más ni menos que de un fósil de{0xBE00}[0x000A]{0x0101,0x0001}!{0xBE01}[0x000A]Con mi máquina recuperadora puedo regenerar[0x000A]este Pokémon extinto. ¿Quieres que proceda?
+msg_sub024_researcher_05=¡Venga, dámelo! No hay tiempo que perder.
+msg_sub024_sys_02=Le has entregado el {0x0109,0x0002} al[0x000A]Científico.
+msg_sub024_researcher_06={0xBDFF:0x000B}
+msg_sub024_researcher_07=¡Vuelve cuando quieras!

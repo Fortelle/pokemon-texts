@@ -1,0 +1,76 @@
+Der Lehmboden vor dir ist weich.
+Der Lehmboden vor dir ist weich.[0x000A]Was möchtest du tun?
+{0x0109,0x0006} wurde eingesetzt!
+Welchen Mulch möchtest du einsetzen?
+Mulch einsetzen
+Beere einpflanzen
+Nichts
+Möchtest du einen Mulch einsetzen?
+Abbrechen
+Möchtest du eine Beere einpflanzen?
+{0x0109,0x0006} wurde eingesetzt!
+Eine {0x0109,0x0001} wurde eingepflanzt!
+Ein Pokémon ist erschienen!
+Der Boden ist von Unkraut überwuchert.[0x000A]Möchtest du das Unkraut jäten?
+Der {0x018E,0x0007}strauch sieht gut aus!
+Die Knospen des {0x018E,0x0007}strauches[0x000A]sehen gut aus!
+Die Blüten des {0x018E,0x0007}strauches[0x000A]sehen gut aus!
+{0x0100,0x0005} hat Unkraut gejätet!
+Hier hast du eine {0x0109,0x0001}[0x000A]eingepflanzt.
+Die {0x018E,0x0007}beere treibt Keime!
+Der Sprössling der {0x018E,0x0007}beere[0x000A]gedeiht gut!
+Die Stämme des {0x018E,0x0007}strauches[0x000A]sind gewachsen!
+Der {0x018E,0x0007}strauch trägt Knospen!
+Der {0x018E,0x0007}strauch steht in Blüte!
+Der Boden ist sehr trocken![0x000A]Bewässere ihn mit einer Gießkanne!
+Der Boden ist ausreichend bewässert.[0x000A]Es muss vorerst nicht gegossen werden.
+Der Boden ist sehr trocken![0x000A]Möchtest du den Boden bewässern?
+{0xBDFF:0x001B}
+Dank der Bewässerung ist der Boden[0x000A]nun feucht und fruchtbar!
+Der Strauch trägt {0x0201,0x0003} {0x0109,0x0001}!
+Möchtest du ernten?
+Du hast {0x0201,0x0003} {0x0109,0x0001} geerntet!
+{0x0100,0x0005} rührt die[0x000A]{0x1001}{0x0109,0x0001}ernte nicht an.
+Die {0x1001}{0x0109,0x0001}ernte wurde[0x000A]abgebrochen, da dein Beutel voll ist.
+Du hast die {0x1001}{0x0109,0x0001}ernte beendet![0x000A]Der Lehmboden ist wieder weich.
+Der {0x018E,0x0007}strauch ist vertrocknet.{0xBE01}[0x000A]Oh, unter dem welken Laub treibt ein Keimling!
+Nach einer plötzlichen Mutation trägt der[0x000A]Strauch nun andere Beerensorten!{0xBE01}[0x000A]Und zwar {0x0201,0x0003} {0x0109,0x0001}[0x000A]und {0x0201,0x0004} {0x0109,0x0002}!
+Die Ernte wurde abgebrochen,[0x000A]da dein Beutel voll ist.
+{0x0100,0x0005} rührt die Beeren nicht an.
+Du hast {0x0201,0x0003} {0x0109,0x0001}[0x000A]und {0x0201,0x0004} {0x0109,0x0002} geerntet!
+Die {0x1001}{0x0109,0x0001}- und die[0x000A]{0x1001}{0x0109,0x0002}ernte wurde{0xBE00}[0x000A]im Beutel verstaut.{0xBE01}[0x000A]Der Lehmboden ist wieder weich.
+{0x0109,0x0006}
+Hier steht eine Biotonne.[0x000A]Auf dem Deckel steht der Verwendungszweck:{0xBE01}[0x000A]„Wirf drei Beeren in die Tonne,[0x000A]um Mulch herzustellen!{0xBE01}[0x000A]Der Einsatz von Mulch vor der[0x000A]Beerenpflanzung unterstützt{0xBE00}[0x000A]das Wachstum der Früchte.“{0xBE01}[0x000A]...[0x000A]Möchtest du Beeren in die Tonne werfen?
+Hier steht eine Biotonne.{0xBE01}[0x000A]Möchtest du Beeren in die Tonne werfen,[0x000A]um Mulch herzustellen?
+Auf dem Tonnendeckel steht der[0x000A]Verwendungszweck geschrieben:{0xBE01}[0x000A]„Wirf drei Beeren in die Tonne,[0x000A]um Mulch herzustellen!“
+Bitte wähle die erste Beere aus.
+Bitte wähle die zweite Beere aus.
+Bitte wähle die dritte Beere aus.
+{0x0100,0x0005} hat eine {0x0109,0x0000},[0x000A]eine {0x0109,0x0001} und eine{0xBE00}[0x000A]{0x0109,0x0002} in die Tonne geworfen!
+...
+{0x0100,0x0005} hat[0x000A]{0x0201,0x0003} {0x0109,0x0006} erhalten!
+Hier steht ein Brunnen.
+Hey, du da.[0x000A]Komm mal her.
+Hey, du da.[0x000A]Komm mal her.
+Opa! Das Pokémon-Team von diesem[0x000A]Trainer ist einfach fabelhaft!
+Du da!{0xBE01}[0x000A]Das kommt jetzt vielleicht etwas plötzlich,[0x000A]aber ich würde dich gerne darum bitten,{0xBE00}[0x000A]dich um mein Beerenfeld zu kümmern.{0xBE01}[0x000A]Beeren sind was Feines, glaub mir!{0xBE01}[0x000A]Eine einzelne Beere kann wieder neue[0x000A]Früchte hervorbringen und so weiter!{0xBE01}[0x000A]Du hast doch sicher einen Moment Zeit,[0x000A]oder?
+Ach, jetzt hab dich nicht so![0x000A]Hilf mir mit meinem Feld, ja?
+Bitte, bitte, bitte![0x000A]Ich habe doch niemanden sonst!
+Oh, damit bereitest du mir eine große Freude![0x000A]Du heißt also {0x0100,0x0000}?{0xBE00}[0x000A]Vielen lieben Dank, {0x0100,0x0000}!
+Hurra![0x000A]Das ist ja wunderbar!
+Ich muss dich zuerst noch in der richtigen Pflege[0x000A]des Beerenfeldes unterweisen! Folge mir bitte.
+Was du hier vor dir siehst, ist weicher Lehmboden.[0x000A]In diesen Grund kannst du Beeren einpflanzen.{0xBE01}[0x000A]Untersuche hierzu den Boden und wähle aus[0x000A]deinem Beutel die Beeren, die du anbauen willst.{0xBE01}[0x000A]Oh, bevor ich es vergesse![0x000A]Hier hast du ein paar Beeren als Starthilfe!
+Manchmal liegen Beeren aber auch auf[0x000A]dem Boden vor großen Sträuchern verstreut!{0xBE01}[0x000A]Solltest du irgendwo Beeren finden, dann komm[0x000A]her und pflanze sie bitte hier ein, ja?
+Sobald du eine Beere eingepflanzt hast,[0x000A]musst du den Boden gut gießen!{0xBE01}[0x000A]Hier, das ist für dich!
+Überprüfe den Bereich, in den du eine Beere[0x000A]eingepflanzt hast, und begieße diesen, falls{0xBE00}[0x000A]der Boden trocken sein sollte.{0xBE01}[0x000A]Je besser du dich um dein Feld kümmerst,[0x000A]desto mehr Beeren wirst du ernten.
+Also, {0x0100,0x0000}.{0xBE01}[0x000A]Halte mir das Feld in Ehren, ja?[0x000A]Du weißt gar nicht, was für eine Hilfe du mir bist!{0xBE01}[0x000A]Mein Rücken bringt mich noch um!
+Unser Haus liegt am Rande des Feldes.[0x000A]Du kannst uns jederzeit besuchen!
+{0x0109,0x0001} erhalten!
+Hallo! Schön, dich zu treffen![0x000A]Bist du {0x1100,0x00FF,0x0E0C,0x0000}der Besitzerdie Besitzerin hier?
+Meine Güte, es ist mir eine Ehre,[0x000A]deine Bekanntschaft machen zu dürfen!{0xBE01}[0x000A]Ich forsche zum Thema Beeren.{0xBE01}[0x000A]Schwerpunkt meiner Forschung ist das komplexe[0x000A]Phänomen der plötzlichen Mutation von Beeren.{0xBE01}[0x000A]Schau doch einfach bei uns vorbei, wenn du[0x000A]eine plötzliche Mutation bemerkst.
+Verstehe, du kümmerst dich also um das Feld hier![0x000A]Ich forsche zum Thema Beeren.{0xBE01}[0x000A]Schwerpunkt meiner Forschung ist das komplexe[0x000A]Phänomen der plötzlichen Mutation von Beeren.{0xBE01}[0x000A]Ich betreibe also im wahrsten Sinne des Wortes[0x000A]Feldforschung.{0xBE01}[0x000A]Schau doch einfach vorbei, wenn du eine[0x000A]plötzliche Mutation bemerkst.
+Hurra![0x000A]{0x0201,0x0003} {0x0109,0x0006}!
+Schade! Du hast keinen Platz mehr für[0x000A]weitere {0x1001}{0x0109,0x0006}.
+Du verzichtest darauf, die Biotonne zu verwenden.
+Verzeihung, einen Moment bitte!
+Hier, bitte sehr![0x000A]Eine kleine Aufmerksamkeit für dich!

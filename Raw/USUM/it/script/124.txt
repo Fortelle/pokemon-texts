@@ -1,0 +1,5 @@
+Per prima cosa scegli un cristallo dalla tasca[0x000A]Cristalli Z della Borsa.
+Poi dallo al Pokémon giusto!
+Puoi darlo solo a un Pokémon che conosce[0x000A]mosse dello stesso {0xFF00,0x0001}tipo{0xFF00,0x0000} di quel Cristallo Z.
+Fatto questo, potrai usare il Potere Z durante[0x000A]la lotta!
+I Cristalli Z non si esauriscono una volta usati:[0x000A]puoi utilizzarli tutte le volte che vuoi.

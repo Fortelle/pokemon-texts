@@ -1,0 +1,16 @@
+msg_main0920_rocketchief_01={0xFF00,0x0009}Atlas:{0xFF00,0x0000} Keinen Schritt weiter!
+msg_main0920_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Nicht schon wieder dieser Typ!
+msg_main0920_rocketchief_02={0xFF00,0x0009}Atlas:{0xFF00,0x0000} Mich werdet ihr so schnell nicht los.{0xBE01}[0x000A]Ich kann es auf keinen Fall zulassen, dass ihr bis[0x000A]zum Boss vordringt!
+msg_main0920_rival_02={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Wie bitte? Zum Boss?
+msg_main0920_rival_03=Heißt das etwa...?
+msg_main0920_select_01=Er ist ganz in der Nähe!
+msg_main0920_select_02=Giovanni ist hier!
+msg_main0920_rival_04={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Der Boss von Team Rocket[0x000A]hält sich also in diesem Gebäude auf...{0xBE01}[0x000A]Dann ist doch klar, was wir zu tun haben!
+msg_main0920_rival_05={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Geh, {0x0100,0x0000}![0x000A]Das ist deine Chance, ihn zu besiegen!
+msg_main0920_rival_06=Und du kriegst es mit mir zu tun, alter Mann!
+msg_main0920_rocketchief_03={0xFF00,0x0009}Atlas:{0xFF00,0x0000} Grrr... Wie soll ich denn so den Boss[0x000A]warnen?!
+msg_main0920_rival_07={0xFF00,0x0009}{0x0100,0x0001}{0xFF00,0x0000}: Geh, {0x0100,0x0000}!{0xBE01}[0x000A]Zeig dem Boss von Team Rocket, wo der[0x000A]Hammer hängt!
+msg_rival_01_p01_cave_d1007={0xBDFF:0x000C}
+msg_rival_01_p02_cave_d1007={0xBDFF:0x000D}
+msg_rival_01_p03_cave_d1007={0xBDFF:0x000E}
+msg_rival_01_p05_cave_d1007={0xBDFF:0x000F}

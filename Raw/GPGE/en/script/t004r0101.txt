@@ -1,0 +1,4 @@
+msg_t004r0101_middlem_01=Look at what Team Rocket have done to[0x000A]my house!{0xBE01}[0x000A]And they stole my TM, the one that can teach[0x000A]Pokémon like Mankey and Sandshrew{0xBE00}[0x000A]the move Dig...
+msg_t004r0101_middlem_02=Oh, you retrieved the TM?[0x000A]Thank you very much!{0xBE01}[0x000A]You can keep that, though. I’ve decided to take[0x000A]my time training Diglett and have them learn Dig{0xBE00}[0x000A]that way.
+msg_t004r0101_adultf_01=Team Rocket must be trying to dig their way[0x000A]into something no good!
+msg_t004r0101_wall_01=There is a hole in the wall.[0x000A]You can get out using the hole.

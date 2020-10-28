@@ -1,0 +1,12 @@
+msg_t003r0101_oldm_01_01=Ich bin ja so dankbar, dass ich die Knochen einer[0x000A]solch majestätischen Kreatur mit eigenen Augen{0xBE00}[0x000A]sehen darf!
+msg_t003r0101_scientist_02_01=In unserer Ausstellung befinden sich äußerst[0x000A]seltene Fossilien urzeitlicher Pokémon!
+msg_t003r0101_tenji_01_01=Das ist ein goldbraun schimmernder,[0x000A]durchsichtiger Bernstein.
+msg_t003r0101_tenji_02_01=Aerodactyl-Fossil[0x000A]Das ist ein seltenes urzeitliches Pokémon-Fossil.
+msg_t003r0101_tenji_03_01=Kabutops-Fossil[0x000A]Das ist ein seltenes urzeitliches Pokémon-Fossil.
+msg_t003r0101_tenji_04_01=Oh, das ist ein echtes urzeitliches Pokémon!{0xBE01}[0x000A]Halt, Fehlanzeige... Es ist doch nur ein Replikat.
+msg_t003r0101_tenji_05_01=Hier sind verschiedene Fossilien aufgereiht,[0x000A]die am Mondberg gefunden wurden.
+msg_studym1_03_p01_t003_r0101={0xBDFF:0x0007}
+msg_studym1_03_p02_t003_r0101={0xBDFF:0x0008}
+msg_studym1_03_p03_t003_r0101={0xBDFF:0x0009}
+msg_studym1_03_p04_t003_r0101={0xBDFF:0x000A}
+msg_t003r0101_scientist_03_01=Die Geheimnisse des Universums...[0x000A]Die Geheimnisse unseres Planeten...{0xBE01}[0x000A]Es gibt noch so vieles, was wir nicht verstehen.[0x000A]Gerade deshalb dürfen wir unsere Forschung{0xBE00}[0x000A]nicht aufgeben!

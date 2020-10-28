@@ -1,0 +1,363 @@
+Friends
+Acquaintances
+Passersby
+{0xBDFF:0x0003}
+Select rules
+Let the other player select the rules
+The system has been changed.[0x000A]Updating Friends!
+{0x0124,0x0000}
+{0x0124,0x0000}...
+{0x0100,0x0000}
+Battle with Someone Nearby
+Battle with Someone in the Area
+Battle with Someone Far Away
+Trade with Someone Nearby
+Trade with Someone in the Area
+Trade with Someone Far Away
+Infrared Connection
+Local Wireless
+Internet
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+Yes
+No
+{0xBDFF:0x0017}
+Tell everyone you’re feeling happy!
+You told everyone:[0x000A]{0x018B,0x0000}!
+Change your message from[0x000A]{0x018B,0x0000}?
+Please wait...
+Line up infrared transceivers.
+You’ve selected a different way[0x000A]to play from the other player.
+One player must select[0x000A]the rules for the battle.
+You may now separate the infrared[0x000A]transceivers... Please wait.
+{0xBDFF:0x0020}
+{0xBDFF:0x0021}
+{0xBDFF:0x0022}
+{0xBDFF:0x0023}
+{0xBDFF:0x0024}
+There are too many players,[0x000A]so you cannot play together.
+{0xBDFF:0x0026}
+Whom will you choose?
+{0xBDFF:0x0028}
+Invite Friends/Acquaintances
+{0xBDFF:0x002A}
+{0xBDFF:0x002B}
+These members will be invited.[0x000A]Is this OK?
+Challenging your Friend[0x000A]{0x0100,0x0000} to a battle!
+Challenging your Acquaintance[0x000A]{0x0100,0x0000} to a battle!
+Challenging the Passerby[0x000A]{0x0100,0x0000} to a battle!
+Seeking battle opponents!
+Call off the battle?
+Play with {0x0100,0x0000}!
+Ask for a Single Battle[0x000A]with normal rules?
+Ask for a Single Battle[0x000A]with flat rules?
+Ask for a Single Battle[0x000A]with no restrictions?
+Ask for a Double Battle[0x000A]with normal rules?
+Ask for a Double Battle[0x000A]with flat rules?
+Ask for a Double Battle[0x000A]with no restrictions?
+Ask for a Triple Battle[0x000A]with normal rules?
+Ask for a Triple Battle[0x000A]with flat rules?
+Ask for a Triple Battle[0x000A]with no restrictions?
+Ask for a Rotation Battle[0x000A]with normal rules?
+Ask for a Rotation Battle[0x000A]with flat rules?
+Ask for a Rotation Battle[0x000A]with no restrictions?
+{0xBDFF:0x003F}
+{0xBDFF:0x0040}
+{0xBDFF:0x0041}
+Received {0x0110,0x0001} from your[0x000A]Friend {0x0100,0x0000}!
+Received {0x0110,0x0001} from your[0x000A]Acquaintance {0x0100,0x0000}!
+Received {0x0110,0x0001} from[0x000A]the Passerby {0x0100,0x0000}!
+Used {0x0110,0x0001}!
+Used {0x0100,0x0000}’s[0x000A]{0x0110,0x0001}!
+{0xBDFF:0x0047}
+Use on {0x0100,0x0000}?
+{0x0110,0x0001}’s level went up!
+{0x0100,0x0000} learned[0x000A]{0x0110,0x0001}!
+Receive power from {0x0100,0x0000}?
+Decide which kind of[0x000A]battle to have!
+Battle
+Number of Players
+Two-Player Match
+Four-Player Match
+Battle Format
+Single Battle
+Double Battle
+Triple Battle
+Rotation Battle
+Multi Battle
+Battle Rules
+Normal Rules
+Flat Rules
+No Restrictions
+{0xBDFF:0x005B}
+Handicap on
+Handicap off
+Confirm
+{0xBDFF:0x005F}
+{0xBDFF:0x0060}
+{0xBDFF:0x0061}
+{0xBDFF:0x0062}
+Your Friend {0x0100,0x0000}[0x000A]has challenged you to battle!
+Your Acquaintance {0x0100,0x0000}[0x000A]has challenged you to battle!
+The Passerby {0x0100,0x0000}[0x000A]has challenged you to battle!
+The battle will use these rules.[0x000A]Is this OK?
+There appears to be a problem.[0x000A]The battle will be canceled.
+You don’t meet the conditions,[0x000A]so you cannot participate.
+{0xBDFF:0x0069}
+{0xBDFF:0x006A}
+Let’s have a Single Battle with[0x000A]normal rules!
+Let’s have a Single Battle with[0x000A]flat rules!
+Let’s have a Single Battle with[0x000A]no restrictions!
+Let’s have a Double Battle with[0x000A]normal rules!
+Let’s have a Double Battle with[0x000A]flat rules!
+Let’s have a Double Battle with[0x000A]no restrictions!
+Let’s have a Triple Battle with[0x000A]normal rules!
+Let’s have a Triple Battle with[0x000A]flat rules!
+Let’s have a Triple Battle with[0x000A]no restrictions!
+Let’s have a Rotation Battle with[0x000A]normal rules!
+Let’s have a Rotation Battle with[0x000A]flat rules!
+Let’s have a Rotation Battle with[0x000A]no restrictions!
+Let’s have a Multi Battle with[0x000A]normal rules!
+Let’s have a Multi Battle with[0x000A]flat rules!
+Let’s have a Multi Battle with[0x000A]no restrictions!
+Please wait until preparations[0x000A]are complete.
+{0xBDFF:0x007B}
+{0x0100,0x0000} is looking for[0x000A]people to battle with!
+Seeking Multi Battle participants!
+{0xBDFF:0x007E}
+{0x0100,0x0000}
+Leader
+Calling...
+Standing by...
+No. of Pokémon:
+No restrictions
+2 or more
+3 or more
+{0xBDFF:0x0087}
+3
+4
+6
+1 to 3
+Pokémon level:
+Set all to Lv. 50
+Up to Lv. 50
+No restrictions
+Special Pokémon:
+Permitted
+Banned
+Same items:
+Permitted
+Banned
+Same Pokémon:
+Permitted
+Banned
+Handicap:
+On
+Off
+{0xBDFF:0x009C}
+{0xBDFF:0x009D}
+Proposing a trade to your[0x000A]Friend {0x0100,0x0000}!
+Proposing a trade to your[0x000A]Acquaintance {0x0100,0x0000}!
+Proposing a trade to the[0x000A]Passerby {0x0100,0x0000}!
+Looking for someone to trade with!
+Call off the trade?
+{0xBDFF:0x00A3}
+{0xBDFF:0x00A4}
+Trade Pokémon?
+{0xBDFF:0x00A6}
+{0xBDFF:0x00A7}
+You need two or more Pokémon[0x000A]in your party to trade!
+Your party and Boxes are full.[0x000A]You cannot trade.
+You have a Pokémon you can’t[0x000A]trade in your party.
+The other player isn’t available.[0x000A]Canceling trade...
+Your Friend {0x0100,0x0000}[0x000A]wants to trade!
+Your Acquaintance {0x0100,0x0000}[0x000A]wants to trade!
+The Passerby {0x0100,0x0000}[0x000A]wants to trade!
+{0x0100,0x0000} is looking for[0x000A]someone to trade with!
+Let’s trade Pokémon!
+Play with {0x0100,0x0000}!
+Ask someone to Game Chat?
+Inviting your Friend {0x0100,0x0000}[0x000A]to talk over Game Chat!
+{0xBDFF:0x00B4}
+{0xBDFF:0x00B5}
+Cancel Game Chat invitation?
+{0xBDFF:0x00B7}
+Talking to {0x0100,0x0000}[0x000A]using Game Chat.
+Would you like to end[0x000A]this Game Chat?
+Ending this Game Chat...
+{0x0100,0x0000} ended the Game Chat.
+{0x0100,0x0000} invites you for[0x000A]a Game Chat!
+Let’s use Game Chat!
+Please wait until preparations[0x000A]are complete.
+The other person had to drop out.[0x000A]Ending Game Chat...
+{0x0100,0x0000}’s Trainer PR Video!
+See the Trainer PR Video?
+Asking to see your Friend[0x000A]{0x0100,0x0000}’s Trainer PR Video.
+Asking to see your Acquaintance[0x000A]{0x0100,0x0000}’s Trainer PR Video.
+Asking to see the Passerby[0x000A]{0x0100,0x0000}’s Trainer PR Video.
+Cancel Trainer PR Video transfer?
+{0xBDFF:0x00C6}
+{0xBDFF:0x00C7}
+The other party isn’t available.
+Your Friend {0x0100,0x0000} came[0x000A]to see your Trainer PR Video!
+Your Acquaintance {0x0100,0x0000} came[0x000A]to see your Trainer PR Video!
+The Passerby {0x0100,0x0000} came[0x000A]to see your Trainer PR Video!
+Show your Trainer PR Video?
+Sent your Trainer PR Video!
+The other person had to drop out.[0x000A]Canceling...
+Let’s enjoy O-Power with {0x0100,0x0000}!
+Use an O-Power!
+Receive an O-Power!
+Quit
+You don’t have any Pokémon,[0x000A]so you can’t use any O-Powers.
+{0x018B,0x0000}
+Add {0x0100,0x0000} to[0x000A]your Favorites List?
+Your Favorites List is full!
+Remove {0x0100,0x0000}[0x000A]from your Favorites List?
+Number of Favorites {0x0202,0x0000}/100
+You don’t have anyone in your Favorites[0x000A]List. When you find someone you like,[0x000A]register that person’s profile to the list.
+Your battery is about to run out.
+Your Nintendo 3DS system’s[0x000A]battery is low!
+Meet Other Players
+Connect to the Internet or go[0x000A]to a crowded place, and you[0x000A]can meet other players!
+Select People
+Tap the face icon, and you[0x000A]can play with that person![0x000A]If you see someone you’re[0x000A]interested in, tap that icon!
+Friends
+Friends are people on your[0x000A]Nintendo 3DS system’s friend list![0x000A]Play together with your Friends!
+Acquaintances
+Acquaintances are people you’ve[0x000A]communicated with before.[0x000A]Play together again, and you can[0x000A]register them in your friend list![0x000A]Try playing with your Acquaintances!
+Passersby
+Passersby are people who are[0x000A]playing somewhere in the world.[0x000A]If you play together, they will[0x000A]become Acquaintances![0x000A]Try playing with many people!
+Choose What to Do
+Tap the menu icon, and you can[0x000A]select many different ways to play,[0x000A]such as battling or trading!
+Link Trade
+You can trade with all kinds of[0x000A]people using the communication[0x000A]features. Do you want to[0x000A]Link Trade with someone?
+Link Battles
+Use the communication features to[0x000A]have Pokémon battles with many[0x000A]different people! Do you want to[0x000A]have a Link Battle with someone?
+Game Chat
+If a player is one of your Friends,[0x000A]you can use Game Chat to talk.[0x000A]Battle or trade while chatting[0x000A]with your Friends!
+GTS
+Use the GTS to trade Pokémon[0x000A]with people all over the world![0x000A][0x000A]Do you want to go to the GTS?
+Trainer PR Video
+Tap the icon of a player’s face[0x000A]to have that player show you[0x000A]a Trainer PR Video!
+{0xBDFF:0x00F2}
+{0xBDFF:0x00F3}
+O-Power
+You have energy for O-Powers[0x000A]stored up! O-Powers can be a[0x000A]big help on an adventure![0x000A]Use an O-Power on yourself[0x000A]or on another player?
+Favorites List
+You can save up to 100 profiles[0x000A]in your Favorites List![0x000A]Do you want to see the list?
+Shout-Out
+When something fun happens or[0x000A]you’re feeling good, let everybody[0x000A]know with a Shout-Out![0x000A]Do you want to let everybody know[0x000A]that something fun happened?
+Internet Play
+Connect to the Internet[0x000A]to play with people worldwide![0x000A][0x000A]Connect to the Internet?
+Game Sync
+When you use Game Sync,[0x000A]you connect to the Internet[0x000A]and you can exchange data with[0x000A]the Pokémon Global Link (PGL).[0x000A]Would you like to use Game Sync?
+{0xBDFF:0x00FE}
+{0xBDFF:0x00FF}
+{0xBDFF:0x0100}
+{0xBDFF:0x0101}
+Battle Spot
+This is where Trainers who are[0x000A]confident in their abilities battle.[0x000A]Battle in the Battle Spot?
+Profile
+There are some questions[0x000A]for you to answer![0x000A]Answer these questions and[0x000A]update your profile?
+PSS Settings
+Change PSS settings here![0x000A][0x000A]Check your current settings?
+Holo Caster
+A new message has arrived![0x000A][0x000A]Open the Holo Caster?
+Wonder Trade
+Trade Pokémon with a player[0x000A]somewhere in the world![0x000A]You won’t know what you will[0x000A]get until it arrives![0x000A]Will you make a Wonder Trade?
+{0xBDFF:0x010C}
+{0xBDFF:0x010D}
+{0xBDFF:0x010E}
+{0xBDFF:0x010F}
+{0xBDFF:0x0110}
+{0xBDFF:0x0111}
+{0xBDFF:0x0112}
+{0xBDFF:0x0113}
+{0xBDFF:0x0114}
+{0xBDFF:0x0115}
+{0xBDFF:0x0116}
+Remove {0x0100,0x0000} from[0x000A]your Acquaintances?
+{0x0100,0x0000} was removed[0x000A]from your Acquaintances.
+{0xBDFF:0x0119}
+{0xBDFF:0x011A}
+Battle
+Trade
+Battle Spot
+Profile
+Favorites List
+Shout-Out
+GTS
+O-Power
+Holo Caster
+Game Sync
+Wonder Trade
+PSS Settings
+Game Chat
+Trainer PR Video
+Nice!
+Congrats!
+Your Friend {0x0100,0x0000} wished you a happy birthday!
+Your Acquaintance {0x0100,0x0000} wished you a happy birthday!
+The Passerby {0x0100,0x0000} wished you a happy birthday!
+Your Friend {0x0100,0x0000} complimented you!
+Your Acquaintance {0x0100,0x0000} complimented you!
+The Passerby {0x0100,0x0000} complimented you!
+{0xBDFF:0x0131}
+PSS Settings
+Communication-Request Settings
+{0xBDFF:0x0134}
+Disable PSS Communication
+Trainer PR Video: {0xFF00,0x0002}Public{0xFF00,0x0000}
+Trainer PR Video: {0xFF00,0x0001}Private{0xFF00,0x0000}
+Game Chat: {0xFF00,0x0002}Enabled{0xFF00,0x0000}
+Game Chat: {0xFF00,0x0001}Disabled{0xFF00,0x0000}
+Tap to change which people you can[0x000A]use communication features with.
+You can receive requests from Friends.[0x000A]Is this OK?
+You can no longer receive requests[0x000A]from Friends. Is this OK?
+You can receive requests from[0x000A]Acquaintances. Is this OK?
+You can no longer receive requests[0x000A]from Acquaintances. Is this OK?
+You can receive requests from Passersby.[0x000A]Is this OK?
+You can no longer receive requests[0x000A]from Passersby. Is this OK?
+This will disable PSS communications.[0x000A]You will not be able to use the PSS[0x000A]while it is disabled. Is this OK?
+Disabling PSS communications and[0x000A]enabling the Nintendo 3DS system’s[0x000A]communication features.
+Restart PSS Communications
+Would you like to make your favorite[0x000A]Trainer PR Video public or private?
+Public
+Private
+You can use Game Chat to talk to[0x000A]your Friends.[0x000A]Use Game Chat?
+Enable Game Chat
+Disable Game Chat
+Turn on Game Chat when playing[0x000A]with this Friend?
+Turn off Game Chat when playing[0x000A]with this Friend?
+Game Chat settings are restricted by[0x000A]Parental Controls. You cannot change them.
+You said “Nice!” to {0x0100,0x0000}!
+You said “Congrats!” to {0x0100,0x0000}!
+Wireless communication is currently disabled.[0x000A]Please turn wireless communication on.
+Use Game Chat?
+Use Game Chat when a Friend[0x000A]replies to your request?
+The other player cannot use Game Chat,[0x000A]so it will be turned OFF.
+Cannot connect to the Internet[0x000A]due to Parental Control settings.
+???
+Please input the PIN if you want to remove[0x000A]the limitations set by the Parental Controls.
+To use this feature, a parent or guardian will[0x000A]need to unrestrict data sharing in the[0x000A]Child Online Privacy Protection section[0x000A]of the system’s Parental Controls.
+{0xBDFF:0x0157}
+Game Chat settings are restricted by[0x000A]Parental Controls. You cannot change them.
+If you play with this person, the Kalos Rules[0x000A]will apply. Is that OK?
+What are the Kalos Rules?
+The Kalos Rules[0x000A][0x000A]The Kalos Rules are for battles with people[0x000A]who are playing Pokémon X or Pokémon Y.[0x000A][0x000A]You won’t be able to use items or[0x000A]moves that have been newly added[0x000A]in Pokémon Omega Ruby[0x000A]and Pokémon Alpha Sapphire.
+You have at least one item or move that you[0x000A]cannot use while playing by the Kalos Rules.
+Info
+Back
+Battle Box
+Party Pokémon
+Banned
+Banned
+You can’t participate in the battle because you[0x000A]haven’t met the conditions of the Kalos Rules.
+Line up infrared transceivers with the leader.[0x000A]
+Please wait until preparations are complete.
+Line up infrared transceivers[0x000A]with everyone in the group.
+Line up infrared transceivers[0x000A]with {0x0200,0x0000} more pe{0x1101,0x0000,0x0504}rsonople.
+Friend code:
+If you play with these members, the[0x000A]Kalos Rules will apply. Is that OK?
+Not enough Pokémon.

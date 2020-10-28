@@ -1,0 +1,13 @@
+main_event_0130_sound_01=Sbam! Crack...
+main_event_0130_rival_01=Ehi, {0x0100,0x0000}! Hai sentito anche tu[0x000A]quel rumore? Che sarà stato?{0x0114,0x0005}
+main_event_0130_rival_02=Il cancello è aperto![0x000A]E dov’è finito il Wooloo di prima...?{0x0114,0x0005}
+main_event_0130_rival_03=In effetti era lì che dava testate... Forse è[0x000A]riuscito ad aprire il cancello ed è entrato...{0x0114,0x0005}
+main_event_0130_rival_04=L’ingresso a quella zona è vietato a tutti.{0xBE01}[0x000A]Una volta la nipote della Professoressa è entrata[0x000A]e se l’è vista davvero brutta...{0xBE01}[0x000A]Sapessi quante gliene hanno dette...!{0x0114,0x0005}
+main_event_0130_rival_05={0x0100,0x0000}, che facciamo?{0x0114,0x0005}
+main_event_0130_select_01=Dobbiamo aiutare quel Pokémon!
+main_event_0130_select_02=Non saprei...
+main_event_0130_rival_06=Sono d’accordo! Sarà anche pericoloso, ma non[0x000A]possiamo starcene con le mani in mano!{0x0114,0x0005}
+main_event_0130_rival_07=Ti capisco... Nemmeno io ho voglia di prendermi[0x000A]una tirata d’orecchi, eh...{0xBE01}[0x000A]Ma in realtà anche tu vuoi andare ad aiutare[0x000A]quel Pokémon, vero?{0x0114,0x0005}
+main_event_0130_rival_08=Allora è deciso! Sbrighiamoci, {0x0100,0x0000}!{0x0114,0x0005}
+main_event_0130_middlem_01={0xBDFF:0x000B}
+main_event_0130_rival_09=Non c’è tempo da perdere, {0x0100,0x0000}![0x000A]Dobbiamo salvare quel Pokémon!

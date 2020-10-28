@@ -1,0 +1,17 @@
+poke_waza_maboroshi_01_01=Es ist meine Berufung, Mysteriösen Pokémon[0x000A]Attacken beizubringen.{0xBE01}[0x000A]Ich mache zwar gerade Urlaub, aber es wäre[0x000A]mir dennoch ein Vergnügen, dein Pokémon{0xBE00}[0x000A]eine Attacke zu lehren.{0xBE01}[0x000A]Na, was sagst du?
+poke_waza_maboroshi_01_02=Sieh einer an! Dein Pokémon scheint diese[0x000A]Attacke bereits zu beherrschen!
+poke_waza_maboroshi_01_03=Wenn du Keldeo oder Meloetta im Team hättest,[0x000A]könnte ich ihnen eine Attacke beibringen...
+poke_waza_maboroshi_01_04=Soll ich einem deiner Pokémon eine Attacke[0x000A]beibringen?
+poke_waza_maboroshi_01_05=Gib mir einfach Bescheid, falls du es dir anders[0x000A]überlegen solltest.
+poke_waza_maboroshi_01_06=Tja, einem Ei kann selbst jemand von meinem[0x000A]Format keine Attacken beibringen!
+poke_waza_maboroshi_01_07=Dieses Pokémon kann beim besten Willen keine[0x000A]Attacke von mir erlernen.
+poke_waza_maboroshi_01_08=Nanu? Dein Pokémon scheint diese Attacke[0x000A]bereits zu beherrschen!
+poke_waza_maboroshi_01_09=Oje! Dieses Pokémon ist ja völlig ausgelaugt![0x000A]Es hat absolut keine Kraft mehr zu kämpfen...
+poke_waza_maboroshi_01_10={0x0102,0x0000} erlernt[0x000A]{0x0107,0x0001}!
+poke_waza_maboroshi_01_11=Nanu? Dein {0x0102,0x0000}...
+poke_waza_maboroshi_01_12={0x0102,0x0000} ist entschlossen zu kämpfen[0x000A]und hat die Resolutform angenommen!
+poke_waza_maboroshi_sys_01=Welche Attacke soll durch[0x000A]{0x0107,0x0000} ersetzt werden?
+poke_waza_maboroshi_sys_02={0x0102,0x0000} erlernt[0x000A]{0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+poke_waza_maboroshi_sys_03=Eins,{0xBE02:0x0014} zwei{0xBE02:0x0014} und{0xBE02:0x0014}... schwupp!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} hat {0x0107,0x0001}[0x000A]vergessen und {0x0107,0x0002} erlernt!{0xBE05,0x0004}{0xBE05,0x0001}
+poke_waza_maboroshi_sys_04={0x0102,0x0000} hat[0x000A]{0x0107,0x0001} nicht erlernt.
+poke_waza_maboroshi_01_13=Welchem Pokémon soll ich eine Attacke[0x000A]beibringen?

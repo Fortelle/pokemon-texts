@@ -1,0 +1,33 @@
+Na, wie sieht’s aus, {0x0100,0x0000}?[0x000A]Auf dem Weg zum Champ?
+Walter, der Arenaleiter von Malvenfroh City,[0x000A]setzt Elektro-Pokémon ein.{0xBE01}[0x000A]Stellst du dich ihm mit Wasser-Pokémon, wird sie[0x000A]glatt der Schlag treffen. Britzel, plumps und aus!{0xBE00}[0x000A]Die Schalter öffnen dir übrigens den Weg zum Arenaleiter.{0xBE01}[0x000A]Oder in Reimform: Willst du hin zu Walter,[0x000A]tritt auf die vielen Schalter!
+Hals- und Beinbruch!
+Wow! Du bist elektrisierend![0x000A]Du hast den Weg freigemacht!
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+Huch?[0x000A]Wie hast du’s geschafft, zu mir vorzudringen?
+Was sagst du da? Du hast alle Schalterrätsel gelöst?
+Wahahahaha![0x000A]Das is’ ja mal ’n Ding!
+Jetzt, wo der Umbau von Malvenfroh City gegessen ist,[0x000A]kann ich mich voll und ganz darauf konzentrieren,{0xBE00}[0x000A]meine kleinen Maschinchen zu bauen und mir mit{0xBE00}[0x000A]jungen Trainern wie dir Kämpfe zu liefern!
+Ich bin Walter, der Arenaleiter von Malvenfroh City,[0x000A]und dein Team macht sich besser schon mal{0xBE00}[0x000A]auf eine Ladung Starkstrom gefasst!
+{0xBDFF:0x0015}
+Du hast meinen Stromkreis unterbrochen und mir[0x000A]den Saft abgedreht. Hier hast du deinen Orden!
+{0x0100,0x0000} erhält den Dynamo-Orden[0x000A]von Walter!
+Mit dem Dynamo-Orden können Pokémon die VM-Attacke[0x000A]Zertrümmerer auch außerhalb von Kämpfen einsetzen.{0xBE01}[0x000A]Ab jetzt gehorchen dir außerdem alle Pokémon bis[0x000A]Level 40, selbst wenn du sie von anderen Leuten{0xBE00}[0x000A]erhalten hast!
+Und hier hast du noch ein kleines Extra...[0x000A]Nur keine Bescheidenheit! Nimm ruhig!
+Ein Pokémon, das Voltwechsel eingesetzt hat,[0x000A]kehrt sofort nach dem Angriff in seinen Pokéball{0xBE00}[0x000A]zurück und wird durch ein anderes Pokémon{0xBE00}[0x000A]aus deinem Team ersetzt.
+Junges Gemüse mit Talent sieht man hier viel zu selten.{0xBE01}[0x000A]Deshalb freut’s mich umso mehr, wenn plötzlich jemand[0x000A]von deinem Format vor mir steht!
+Wahahahaha![0x000A]Immer weiter so! Streng dich an, {0x1100,0x00FF,0x0705,0x0000}JungeMädchen!
+Pokémon-Arena von Malvenfroh City
+Pokémon-Arena von Malvenfroh City{0xBE01}[0x000A]Von Walter anerkannte Trainer:[0x000A]{0x0100,0x0000}
+Oh![0x000A]Bis zum Champ hast du es also gebracht!{0xBE01}[0x000A]Mir war bei unserer ersten Begegnung schon klar,[0x000A]dass du das Zeug dazu hast!{0xBE01}[0x000A]Ich setze auch weiterhin hohe Erwartungen[0x000A]in dich, hörst du?
+Pokémon-Arena von Malvenfroh City{0xBE01}[0x000A]Von Walter anerkannte Trainer:[0x000A]{0x0100,0x0000}{0xBE00}[0x000A]Heiko

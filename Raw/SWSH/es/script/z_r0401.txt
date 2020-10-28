@@ -1,0 +1,4 @@
+msg_r0401_npc1_01=Es normal querer llevar el uniforme de tu Líder[0x000A]de Gimnasio favorito.
+msg_r0401_npc2_01=Aunque a tu{0x1101,0x00FD,0x0100}s Pokémon no le{0x1101,0x00FD,0x0100}s haga falta[0x000A]descansar, una acampada con buena comida{0xBE00}[0x000A]resulta siempre una experiencia agradable.
+msg_r0401_npc2_02=Si tu{0x1101,0x00FD,0x0100}s Pokémon anda{0x1101,0x00FD,0x0100}n un poco pachucho{0x1101,0x00FD,0x0100}s, ¿por[0x000A]qué no montas tu tienda y cocinas algo?
+msg_r0401_npc_camp_01=Si acampas con tus Pokémon y juegas con ellos,[0x000A]vuestros lazos de amistad se estrecharán.{0xBE01}[0x000A]¡Y, por supuesto, también lo harán si cocináis y[0x000A]coméis juntos!{0xBE01}[0x000A]Si te apetece, hasta podéis pasaros por mi[0x000A]campamento. ¡Estáis invitados!

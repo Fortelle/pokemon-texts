@@ -1,0 +1,9 @@
+msg_t011r0201_youngf_01=Moi, je suis trop fan de Major Bob, de l’Arène[0x000A]de Carmin sur Mer !{0xBE01}[0x000A]Quoi ? T’as réussi à avoir sa dédicace ?![0x000A]Haaan, je suis trop jalouuuse !
+msg_t011r0201_youngf_02=T-tu es {0x0100,0x0000}, le Maître,[0x000A]c’est bien ça ?{0xBE01}[0x000A]J-je... je peux avoir un autographe ?!
+msg_t011r0201_adultm_01=Olga du Conseil 4 a vraiment la classe ![0x000A]Avec son regard qui glace le sang ! Brrr !{0xBE00}[0x000A]Ah, je fonds dès que je l’aperçois !
+msg_t011r0201_adultm_02=Oooh ! Maître !{0xBE01}[0x000A]Franchement, respect pour avoir mis une dégelée[0x000A]à Olga !
+msg_t011r0201_muscle_01=Aldo du Conseil 4, c’est mon idole ![0x000A]Tous ces muscles, ça me donne des frissons !
+msg_t011r0201_muscle_02=Félicitations pour être passé{0x1100,0x00FF,0x0100}e Maître !{0xBE01}[0x000A]Mais, dis-moi : ça fait quoi de voir Aldo en vrai ?[0x000A]C’est impressionnant, tant de muscles, hein ?
+msg_t011r0201_juvenilesf_01=Personne ne sait qui est le Champion de l’Arène[0x000A]de Jadielle... Il est trop mystérieux...{0xBE00}[0x000A]Je suis trop curieuse !
+msg_t011r0201_juvenilesf_02=Alors comme ça, le Champion de l’Arène de[0x000A]Jadielle faisait partie de la Team Rocket...{0xBE01}[0x000A]Mais tu as réussi à le vaincre malgré tout ![0x000A]Tu as toute mon admiration !
+test_00={0xBDFF:0x0008}

@@ -1,0 +1,81 @@
+Sì
+No
+Scanner isola
+Scanner QR
+{0x0101,0x0000}
+{0x0104,0x0000}
+Altezza
+Peso
+Luogo del rilevamento:
+Mele Mele
+Akala
+Ula Ula
+Poni
+{0x0105,0x0000}
+Tempo rimasto per la cattura:
+{0x0201,0x0000}:{0x0201,0x0001}
+Vuoi leggere le istruzioni per lo Scanner QR?
+Attivazione della fotocamera...
+Tieni premuto il pulsante R e inquadra il QR Code[0x000A]nella cornice di scansione.
+L’effetto dello Scanner isola è terminato.{0xBE01}
+Ricerca QR Code in corso.
+Impossibile leggere il QR Code.[0x000A]Riprova.
+Analisi del QR Code in corso.
+Potrebbe esserci un problema con la[0x000A]fotocamera della console.{0xBE01}[0x000A]Prova a spegnere e riaccendere la console.{0xBE01}
+L’analisi del QR Code è stata interrotta.{0xBE01}
+Questi dati appartengono a un Pokémon[0x000A]che vive nella regione di Alola.{0xBE01}[0x000A]Le informazioni del Pokédex[0x000A]sono state aggiornate.{0xBE01}
+Questi dati appartengono a un Pokémon[0x000A]che vive nella regione di Alola.{0xBE01}
+Questi dati appartengono a un Pokémon[0x000A]che non è originario di Alola.{0xBE01}
+Si è verificato un errore nella lettura del[0x000A]QR Code.{0xBE01}
+Impossibile leggere il QR Code con questa[0x000A]console.{0xBE01}
+Impossibile leggere questo QR Code[0x000A]con Pokémon Sole e Pokémon Luna.{0xBE01}[0x000A]Prova a leggerlo con un altro gioco Pokémon.{0xBE01}
+Hai ottenuto {0x0201,0x0000} punti.{0xBE01}
+Hai {0x0202,0x0000} punti in totale!{0xBE01}
+{0xBDFF:0x0021}
+Hai accumulato 100 punti![0x000A]Lo Scanner isola è pronto per essere attivato.{0xBE01}
+Scansioni disponibili esaurite.[0x000A]Al momento non puoi leggere altri QR Code.
+Hai letto un QR Code speciale!{0xBE01}
+Potrai leggere questo QR Code solo dopo[0x000A]aver conquistato la Lega Pokémon.{0xBE01}
+Questo QR Code è già stato letto.[0x000A]Leggi QR Code diversi per accumulare punti.{0xBE01}
+Hai accumulato 100 punti.[0x000A]Ora puoi attivare lo Scanner isola!
+Scansione della seguente area in corso:[0x000A]{0x0105,0x0000}
+Non hai abbastanza punti per usare lo Scanner[0x000A]isola. Accumula punti leggendo i QR Code.{0xBE01}
+{0xBDFF:0x002A}
+Cerca il Pokémon con questa silhouette nella[0x000A]zona in cui è stata rilevata la sua presenza!
+È stata rilevata la presenza di un Pokémon raro!{0xBE01}
+Nessun Pokémon raro rilevato nelle vicinanze.{0xBE01}
+Lo Scanner QR ti permette di leggere i QR Code[0x000A]per ottenere i dati dei Pokémon.[0x000A][0x000A]Ogni due ore viene resa disponibile una nuova[0x000A]scansione, fino a un massimo di dieci.
+Leggendo i QR Code otterrai dei punti.[0x000A][0x000A]Per ogni utilizzo dello Scanner isola sono[0x000A]necessari 100 punti.
+Grazie allo Scanner isola potrai condurre[0x000A]un’analisi approfondita di ogni isola di Alola[0x000A]e scovare dei Pokémon rari![0x000A][0x000A]Se viene rilevata la presenza di un Pokémon,[0x000A]vai subito a catturarlo!
+E non è tutto![0x000A][0x000A]Nel Pokédex puoi visualizzare i QR Code dei[0x000A]Pokémon che hai catturato. Questi QR Code[0x000A]contengono i dati dei Pokémon![0x000A][0x000A]Prova a leggere i QR Code del Pokédex dei[0x000A]tuoi amici!
+{0xBDFF:0x0032}
+{0xBDFF:0x0033}
+Attivazione della fotocamera...
+Tieni premuto il pulsante R e inquadra il QR Code[0x000A]nella cornice di scansione.
+Ricerca QR Code in corso.
+Lettura dei dati in corso.
+Il QR Code risulta danneggiato.[0x000A]Impossibile leggere il QR Code.{0xBE01}
+Lettura dei dati completata.{0xBE01}
+Questo è un QR Code Gara Privata.{0xBE01}
+Questo è un QR Code Gara in Diretta.{0xBE01}
+Questo è un QR Code Squadra Lotta.{0xBE01}
+Questo QR Code contiene i dati di un Pokémon.{0xBE01}
+Leggi un QR Code Squadra Lotta.{0xBE01}
+Leggi un QR Code Gara Privata.{0xBE01}
+Leggi un QR Code Gara in Diretta.{0xBE01}
+L’ID Sincrogioco è differente.[0x000A]Impossibile leggere il QR Code.{0xBE01}
+Impossibile leggere i dati.{0xBE01}
+Impossibile leggere i dati con questa console.{0xBE01}
+Impossibile analizzare questo QR Code[0x000A]con Pokémon Sole e Pokémon Luna.{0xBE01}[0x000A]Prova ad analizzarlo con un altro gioco Pokémon.{0xBE01}
+{0x0202,0x0000} punti
+Hai raggiunto 100 punti![0x000A]Lo Scanner isola è pronto per essere attivato.{0xBE01}
+{0x0204,0x0000,0x002E}
+QR Code analizzati:
+La fotocamera verrà disattivata.
+Questi dati appartengono a un Pokémon[0x000A]che vive nella regione di Alola.{0xBE01}[0x000A]I dati del Pokédex sono stati aggiornati.{0xBE01}[0x000A]Hai ricevuto un dono speciale!{0xBE01}[0x000A]Ricordati di ritirarlo dal postino nel negozio[0x000A]“Cimeli e rarità” della Zona Commerciale{0xBE00}[0x000A]di Hau’oli.{0xBE01}
+Questi dati appartengono a un Pokémon[0x000A]che vive nella regione di Alola.{0xBE01}[0x000A]Hai ricevuto un dono speciale!{0xBE01}[0x000A]Ricordati di ritirarlo dal postino nel negozio[0x000A]“Cimeli e rarità” della Zona Commerciale{0xBE00}[0x000A]di Hau’oli.{0xBE01}
+Questi dati appartengono a un Pokémon[0x000A]che vive nella regione di Alola.{0xBE01}
+Hai letto un QR Code prodigioso!{0xBE01}
+Hai letto un QR Code che contiene dati[0x000A]per il Pokédex di Alola!{0xBE01}
+Æther Paradise
+Ultramondo

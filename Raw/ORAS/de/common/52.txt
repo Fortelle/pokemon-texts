@@ -1,0 +1,40 @@
+Geheimbasis suchen
+Geheimbasis zeigen
+Mitteilung an andere Spieler
+Auf der SD Card speichern
+Du kannst einen QR Code scannen, um die[0x000A]Geheimbasen anderer Spieler zu laden.{0xBE01}[0x000A]Wenn du einen QR Code einliest, werden die[0x000A]Geheimbasen-Anordnung und die Nachricht{0xBE00}[0x000A]des jeweiligen Spielers empfangen.{0xBE00}[0x000A]Willst du fortfahren?
+Du hast die Möglichkeit, einen QR Code für[0x000A]deine Geheimbasis zu erstellen.{0xBE01}[0x000A]Er enthält deine Geheimbasen-Anordnung[0x000A]sowie die von dir eingegebene Nachricht.{0xBE01}[0x000A]Dieser QR Code kann auf der SD Card deines[0x000A]Nintendo 3DS-Systems gespeichert werden.
+Außenkamera wird gestartet...
+Richte den QR Code innerhalb des grünen[0x000A]Rahmens auf dem oberen Bildschirm aus[0x000A]und drücke den A-Knopf.
+Daten werden eingelesen...
+Daten wurden eingelesen.
+Daten konnten nicht eingelesen werden.
+Diese Geheimbasis befindet sich an[0x000A]derselben Stelle wie die deines Favoriten{0xBE00}[0x000A]{0x0100,0x0000}.{0xBE01}[0x000A]Die Daten konnten daher[0x000A]nicht eingelesen werden.
+Es wurde bereits die Höchstzahl[0x000A]an Favoriten registriert.{0xBE01}[0x000A]Die Daten konnten daher[0x000A]nicht eingelesen werden.{0xBE01}[0x000A]Lösche Favoriten, damit du neue[0x000A]Geheimbasen hinzufügen kannst.
+Der QR Code deiner eigenen Geheimbasis[0x000A]kann nicht gescannt werden.
+QR Code wird erstellt...
+QR Code wurde erstellt.
+Bei der Erstellung deines QR Code-Bildes[0x000A]ist ein Fehler aufgetreten.{0xBE01}[0x000A]Bitte versuche es noch einmal.
+QR Code wird auf der SD Card gepeichert...
+QR Code wurde auf der SD Card gespeichert.
+Die SD Card ist voll.[0x000A]Speichern nicht möglich.
+{0xBDFF:0x0014}
+Pokémon[0x000A]Omega Rubin
+Pokémon[0x000A]Alpha Saphir
+{0x0100,0x0001}
+{0x0205,0x0002,0x0020}
+Basis von {0x0100,0x0003}
+Besuch mich mal!
+{0x01AB,0x0004}
+QR Code einlesen
+Einlesen des QR Code-Bildes fehlgeschlagen.[0x000A]Bitte versuche es noch einmal.
+Was möchtest du tun?
+Lege eine Mitteilung an andere Spieler fest[0x000A]und speichere deinen QR Code.
+Geheimbasis „{0x01AA,0x0000}“
+Per QR Code geladene Geheimbasen werden[0x000A]automatisch zu deinen Favoriten hinzugefügt.{0xBE01}[0x000A]Vorsicht: Wenn deine Favoritenliste voll ist,[0x000A]kannst du keinen weiteren QR Code einlesen.
+Diese Geheimbasis wurde am selben[0x000A]Ort wie die {0x1100,0x0000,0x1616,0x0000}deines Geheim-Freundesdeiner Geheim-Freundin{0xBE00}[0x000A]{0x0100,0x0000} eingerichtet und{0xBE00}[0x000A]kann daher nicht geladen werden.
+Diese Geheimbasis wurde am selben[0x000A]Ort wie deine eingerichtet und kann{0xBE00}[0x000A]daher nicht geladen werden.
+Ja
+Nein
+Unzureichender Speicherplatz auf[0x000A]deiner Nintendo 3DS-Kamera.{0xBE01}[0x000A]Es konnten keine Fotodaten[0x000A]gespeichert werden.
+Der QR Code konnte nicht[0x000A]gespeichert werden.

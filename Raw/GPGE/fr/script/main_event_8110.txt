@@ -1,0 +1,12 @@
+msg_main8110_combat_01={0xFF00,0x0009}Aldo : {0xFF00,0x0000}Mon nom est Aldo, du Conseil 4 !
+msg_main8110_combat_05=Notre passion, à mes Pokémon et à moi,[0x000A]c’est la muscu !
+msg_main8110_combat_06=J’ai passé toute ma vie à m’entraîner avec mes[0x000A]Pokémon Combat, et c’est pas près de changer !
+msg_main8110_combat_07={0x0100,0x0000} !
+msg_main8110_combat_08=Ton {0x1101,0x00FD,0x0607}Pokémonéquipe, j’vais en faire du yaourt !
+msg_main8110_combat_09=À table !
+msg_shiba_01_p02_cave_d1402={0xBDFF:0x0006}
+msg_main8110_combat_02={0xFF00,0x0009}Aldo : {0xFF00,0x0000}Bien joué ![0x000A]Ton prochain adversaire t’attend !
+msg_main8110_combat_03={0xFF00,0x0009}Aldo : {0xFF00,0x0000}J’ai senti la puissance de ta détermination[0x000A]jusqu’ici, pendant ton combat contre Olga !
+msg_main8110_combat_10=Mais j’me démonterai pas ![0x000A]Laisse-moi te montrer toute la fougue indomptée{0xBE00}[0x000A]de mes Pokémon Combat !
+msg_main8110_combat_11=Yah !
+msg_main8110_combat_04=Zut ! Je crois qu’il faut qu’on retourne à la salle,[0x000A]mes Pokémon et moi !{0xBE01}[0x000A]Va falloir que je retonifie tout ça ![0x000A]Ne t’occupe pas de nous, fonce !

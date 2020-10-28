@@ -1,0 +1,14 @@
+msg_town009_kanban_01=Cinnabar Island:[0x000A]The Fiery Town of Burning Desire
+msg_town009_kanban_02=Cinnabar Lab
+msg_town009_kanban_03=Cinnabar Island Pokémon Gym[0x000A]Gym Leader: Blaine{0xBE00}[0x000A]The Hotheaded Quiz Master!
+msg_town009_door_01=The door is locked!{0xBE01}[0x000A]There’s a message written in small letters on[0x000A]the door...{0xBE01}[0x000A]“Quiz time![0x000A]Where’s the key that’ll let you into this Gym?{0xBE01}[0x000A]“Hint: The answer can be found somewhere in[0x000A]a building that is overgrown with greenery!”
+msg_town009_youngf_01_01=The Cinnabar Island Gym’s Blaine is an odd one.{0xBE01}[0x000A]He’s lived on the island since way before[0x000A]the Pokémon Lab was built.
+msg_town009_oldm_01_01=Scientists sometimes go into the Pokémon[0x000A]Mansion to carry out different experiments.
+msg_town009_poke_01=MAGMAR: Mamama!
+msg_town009_poke_02=STARYU: Yuuu...
+msg_masaki_01_p01_field_t009={0xBDFF:0x0008}
+msg_masaki_01_p02_field_t009={0xBDFF:0x0009}
+msg_masaki_01_p03_field_t009={0xBDFF:0x000A}
+msg_masaki_01_p04_field_t009={0xBDFF:0x000B}
+msg_masaki_01_p05_field_t009={0xBDFF:0x000C}
+msg_masaki_01_p06_field_t009={0xBDFF:0x000D}

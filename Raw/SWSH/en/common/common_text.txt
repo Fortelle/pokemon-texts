@@ -1,0 +1,5 @@
+msg_ui_common_text_01=Backup data has been loaded.[0x000A]Please note that this data will be saved when[0x000A]you save the game.
+msg_ui_common_text_02=There is no backup data, so you can’t load data.[0x000A]You’ll be returned to the title screen.
+msg_ui_common_text_03=Now saving...
+msg_ui_common_text_04=Your saved data is corrupted.[0x000A]Please delete the saved data from[0x000A]your system.
+msg_ui_common_text_05={0xBDFF:0x0004}

@@ -1,0 +1,7 @@
+main_event_0100_telop_01=Al día siguiente...
+main_event_0100_champion_01=Habéis pasado toda una noche con vuestros[0x000A]Pokémon.{0xBE01}[0x000A]¿A que os ha servido para conocerlos mejor y[0x000A]estrechar lazos con ellos?{0x0114,0x0004}
+main_event_0100_rival_01=¡La duda ofende, Lionel![0x000A]Y, fíjate, {0x0100,0x0000} {0x170C,0x0001,0x0001}{0x0101,0x0001}...{0xBE01}[0x000A]¡También se han hecho inseparables!{0x0114,0x0005}
+main_event_0100_champion_02=¡Así me gusta! Creed siempre en vosotros mismos[0x000A]y en vuestros Pokémon.{0xBE01}[0x000A]Si no dejáis de combatir y confiáis los unos en[0x000A]los otros, quizá algún día...{0x0114,0x0004}
+main_event_0100_champion_03=¡Lleguéis a ser rivales dignos del Campeón[0x000A]imbatible!{0x0114,0x0004}
+main_event_0100_rival_02=¡Eh! ¡Lionel, no hables en plural![0x000A]¡Aquí el que te va a ganar soy yo y lo sabes!{0x0114,0x0005}
+main_event_0100_rival_03=Pero, si te empeñas, no me queda otra... A partir[0x000A]de ahora eres mi rival oficial, {0x0100,0x0000}.{0xBE01}[0x000A]¡Y no pienso perder contra ti!{0x0114,0x0005}

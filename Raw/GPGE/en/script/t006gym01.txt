@@ -1,0 +1,12 @@
+msg_t006gym01_gym_01=I’ve been waiting for you, champ in the making!{0xBE01}[0x000A]Lt. Surge here is the Gym Leader in this city.[0x000A]He’s an expert on Electric-type Pokémon and{0xBE00}[0x000A]a real tough guy!{0xBE01}[0x000A]Flying- and Water-type Pokémon don’t do well[0x000A]matched up against Electric types.{0xBE01}[0x000A]You’ll also want to watch out so your Pokémon[0x000A]don’t get stuck paralyzed!{0xBE01}[0x000A]And here’s my last tip...{0xBE01}[0x000A]Lt. Surge is the cautious type.[0x000A]He’s put barriers between himself and the rest of{0xBE00}[0x000A]this room, so it won’t be easy getting to him.
+msg_t006gym01_gym_02=Whew!{0xBE01}[0x000A]That match was electric![0x000A]It was so blinding—I’m still seeing stars!
+msg_t006gym01_statue_01=Vermilion City Pokémon Gym[0x000A]Gym Leader: Lt. Surge{0xBE01}[0x000A]Certified Trainers:[0x000A]{0x0100,0x0001}
+msg_t006gym01_statue_02=Vermilion City Pokémon Gym[0x000A]Gym Leader: Lt. Surge{0xBE01}[0x000A]Certified Trainers:[0x000A]{0x0100,0x0001}, {0x0100,0x0000}
+msg_t006gym01_gomi_01=Nope![0x000A]There’s only trash here.
+msg_t006gym01_gomi_02=Hey![0x000A]There’s a switch under the trash?!{0xBE01}[0x000A]Let’s push it!
+msg_t006gym01_gomi_05=The first electric barrier was deactivated!
+msg_t006gym01_gomi_03=The second electric barrier was deactivated!{0xBE01}[0x000A]The electric barriers are completely gone now!
+msg_t006gym01_gomi_04=Hey![0x000A]The electric barrier was reactivated!
+msg_t006gym01_gomi_06=It’s a red trash can!
+msg_t006gym01_gomi_07=It’s a blue trash can!
+msg_t006gym01_gomi_08=You’ve already pushed the switch in this can.

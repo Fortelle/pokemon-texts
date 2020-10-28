@@ -1,0 +1,83 @@
+PP
+N.
+Niveau suivant
+PV
+Attaque
+Défense
+Atq. Spé.
+Déf. Spé.
+Vitesse
+{0xFF00,0x0002}[0xE08E]{0xFF00,0x0000}
+{0xFF00,0x0001}[0xE08F]{0xFF00,0x0000}
+{0xBDFF:0x000B}
+Résumé
+Capacités
+Catégorie
+Puissance
+Précision
+Statut
+Physique
+Spéciale
+Veuillez choisir un Pokémon.
+L’utiliser sur quel Pokémon[0xE07F]?
+Combattre avec quel Pokémon[0xE07F]?
+Changer
+Au combat
+Ne peut pas se battre
+Partenaire
+Soigner
+Résumé
+Capacités
+{0x0102,0x0001} est déjà au combat[0xE07F]!
+{0x0102,0x0001} n’a plus l’énergie pour[0x000A]combattre[0xE07F]!
+Un Œuf ne se bat pas, voyons[0xE07F]!
+Impossible d’échanger un Pokémon de votre[0x000A]partenaire avec l’un des vôtres[0xE07F]!
+{0x0102,0x0001} ne peut pas être échangé[0xE07F]!
+Soins PV/PP
+Soins statut
+Restaurer les PP de quelle capacité[0xE07F]?
+{0xBDFF:0x0026}
+{0xBDFF:0x0027}
+Soins PV/PP
+Soins statut
+{0xBDFF:0x002A}
+Balls
+Objets combat
+Dernier objet utilisé
+Utiliser
+{0xBDFF:0x002F}
+Impossible de viser quand il y a plus d’un[0x000A]Pokémon[0xE07F]!
+Il n’y a plus de place dans le PC[0xE07F]!
+Impossible de viser si aucun Pokémon n’est[0x000A]visible[0xE07F]!
+Il faut se concentrer pour bien lancer[0xE07F]!
+La capacité {0x0107,0x0001} empêche[0x000A]d’utiliser l’objet sur {0x0102,0x0000}[0xE07F]!
+Oui
+Non
+Envoyer un autre Pokémon
+Fuite
+Oublier une capacité
+Garder les anciennes capacités
+Changer de Pokémon
+Continuer sans changer
+Où envoyer ce Pokémon[0xE07F]?
+Restaurer quelle capacité[0xE07F]?
+Ça n’aura aucun effet[0xE07F]!
+C’est une capacité très importante[0xE07F]![0x000A]Le Pokémon ne peut pas l’oublier[0xE07F]!
+Arrêter
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}
+{0x0202,0x0000}
+×
+/
+/
+L
+Droite
+Gauche
+Centre
+{0x0204,0x0000,0xE07F}
+-
+En attente[0xE08D]
+{0x0102,0x0001} a déjà été sélectionné.
+Voyons, que dirait le Professeur Platane[0xE07F]?[0x000A]«[0xE07F]Il y a un temps pour chaque chose, il suffit{0xBE00}[0x000A]juste de ne pas s’emmêler les pinceaux[0xE07F]![0xE07F]»

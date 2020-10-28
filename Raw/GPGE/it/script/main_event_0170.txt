@@ -1,0 +1,16 @@
+msg_main0170_green_01={0xFF00,0x0009}???:{0xFF00,0x0000} Ehi, tu!
+msg_main0170_green_02={0xFF00,0x0009}???:{0xFF00,0x0000} Fammi indovinare... Tu sei {0x0100,0x0000},[0x000A]giusto?
+msg_main0170_select_01=Incredibile! Sono proprio io!
+msg_main0170_select_02=Come fai a saperlo?!
+msg_main0170_green_03=Ah, lo sapevo! Il mio istinto non mi tradisce mai!
+msg_main0170_green_04=Sei proprio come mio nonno ti aveva[0x000A]descritt{0x1100,0x00FF,0x0101}oa.
+msg_main0170_green_05={0xFF00,0x0009}Blu:{0xFF00,0x0000} Io sono Blu!{0xBE01}[0x000A]Mio nonno è il Professor Oak e mi ha raccontato[0x000A]di due giovani Allenatori partiti da Biancavilla,{0xBE00}[0x000A]proprio come me tanto tempo fa...{0xBE01}[0x000A]Appena me l’ha detto mi sono precipitato qui[0x000A]per vedere come ve la cavate!
+msg_main0170_green_06=Pensavo che ti avrebbe fatto comodo qualche[0x000A]dritta dall’Allenatore più forte che ci sia,{0xBE00}[0x000A]ovvero il sottoscritto...{0xBE01}[0x000A]Ma vedo che non ne hai avuto bisogno.
+msg_main0170_green_11=Ben fatto, piccolett{0x1100,0x00FF,0x0101}oa! Ti meriti un premio!
+msg_main0170_red_01={0xBDFF:0x0009}
+msg_main0170_green_07={0xBDFF:0x000A}
+msg_main0170_red_02={0xBDFF:0x000B}
+msg_main0170_dummy_01={0x0100,0x0000} riceve 5 {0xFF00,0x0006}Mega Ball{0xFF00,0x0000}[0x000A]da Blu!
+msg_main0170_green_08={0xFF00,0x0009}Blu:{0xFF00,0x0000} Con queste potrai catturare Pokémon[0x000A]più facilmente!{0xBE01}[0x000A]A proposito... Quello è un Pokédex, vero?[0x000A]Allora finalmente il nonno è riuscito a realizzarlo!
+msg_main0170_green_09=Quando ho cominciato io, il massimo della[0x000A]tecnologia era una matita e una mappa su cui{0xBE00}[0x000A]segnare gli habitat dei Pokémon che trovavamo{0xBE00}[0x000A]lungo il cammino...
+msg_main0170_green_10=Beh, mi raccomando! Impegnati al massimo[0x000A]per dare una mano al nonno!{0xBE00}[0x000A]Ci vediamo! Ciao ciao!

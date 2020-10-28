@@ -1,0 +1,16 @@
+msg_main8000_rock_01=Je suis Pierre ! Le Champion d’Argenta !
+msg_main8000_rock_06=Je crois en la grande force de la pierre !
+msg_main8000_rock_07=C’est pourquoi mes Pokémon sont du type Roche !
+msg_main8000_rock_08=Tu veux toujours m’affronter ?[0x000A]Même en sachant que tu vas perdre ?
+msg_main8000_rock_09=Très bien. En garde !
+msg_main8000_rock_02=En reconnaissance de ta victoire, voici...[0x000A]le Badge Roche !
+msg_main8000_sys_01=Vous obtenez le {0xFF00,0x0006}Badge Roche{0xFF00,0x0000} !
+msg_main8000_rock_03=Grâce au Badge Roche, tu pourras te faire obéir[0x000A]des Pokémon échangés jusqu’au niveau 20 !{0xBE01}[0x000A]Ah ! Tiens, prends ça, aussi.
+msg_main8000_sys_02=Vous obtenez la {0x0109,0x0001} {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000} !
+msg_main8000_rock_04=Les CT sont des Capsules Techniques.[0x000A]Tu peux les utiliser pour enseigner rapidement{0xBE00}[0x000A]et à coup sûr une capacité à un Pokémon.{0xBE01}[0x000A]En plus, c’est inusable, donc tu peux les utiliser[0x000A]sur autant de Pokémon que tu le veux !{0xBE01}[0x000A]Celle-ci contient Coup d’Boule ![0x000A]Elle permet aux Pokémon d’utiliser leur tête{0xBE00}[0x000A]pour infliger de gros dégâts à leur adversaire !
+msg_main8000_rock_05=Le monde est vaste et rempli de personnes qui[0x000A]ont toutes des aspirations différentes !{0xBE01}[0x000A]Certaines se passionnent pour les combats,[0x000A]tandis que d’autres se tournent vers l’éducation{0xBE00}[0x000A]de Pokémon...{0xBE01}[0x000A]Moi, par exemple, je m’entraîne à fond pour[0x000A]devenir Éleveur Pokémon !{0xBE01}[0x000A]Mais toi, tu m’as tout l’air d’avoir les qualités[0x000A]requises pour devenir un{0x1100,0x00FF,0x0100}e Dresseu{0x1100,0x00FF,0x0201}rse d’exception !{0xBE01}[0x000A]Je te conseille d’aller dans d’autres Arènes pour[0x000A]y tester tes compétences.
+msg_main8000_shortpants_01=Dis, t’es Dresseu{0x1100,0x00FF,0x0201}rse ?{0xBE01}[0x000A]Tu tombes bien, Pierre cherche un adversaire ![0x000A]Suis-moi !
+msg_main8000_shortpants_02=Si tu t’en sens capable, tu devrais essayer[0x000A]de te mesurer à lui ! Allez, salut !
+msg_main8000_shortpants_03=Oh, c’est le Badge Roche ![0x000A]C’est Pierre qui te l’a donné, non ?{0xBE01}[0x000A]Tu savais que plus tu as de Badges, plus il y a[0x000A]de choix dans les Boutiques Pokémon ?
+msg_main8000_shortpants_04=Au fait, les Boutiques Pokémon, c’est toujours[0x000A]les bâtiments bleus, en ville.
+msg_main8000_shortpants_05=Mais tu dois le savoir, à force ![0x000A]Y’en a partout !

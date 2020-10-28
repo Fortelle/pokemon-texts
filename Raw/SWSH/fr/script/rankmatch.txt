@@ -1,0 +1,8 @@
+msg_rankmatch_01=Je vais t’expliquer tout ce qu’il y a à savoir[0x000A]sur les combats classés !{0xBE01}[0x000A]Je vais faire en sorte que tes Pokémon[0x000A]puissent y participer.
+msg_rankmatch_02=Veux-tu faire participer un de tes Pokémon[0x000A]à un combat classé ?
+msg_rankmatch_03=Pas de souci. À la revoyure !
+msg_rankmatch_04=Quel Pokémon veux-tu inscrire ?
+msg_rankmatch_05={0x0101,0x0000} peut participer[0x000A]à un combat classé !
+msg_rankmatch_06={0x0101,0x0000} doit maintenant oublier[0x000A]toutes ses capacités pour apprendre celles{0xBE00}[0x000A]dont il a besoin pour ce combat classé. Ça te va ?
+msg_rankmatch_07=Attention, s’il connaît des capacités rares,[0x000A]il ne pourra peut-être plus les apprendre{0xBE00}[0x000A]par la suite. Ça te convient toujours ?
+msg_rankmatch_08=Et voilà ! {0x0101,0x0000} est prêt[0x000A]à participer à un combat classé !

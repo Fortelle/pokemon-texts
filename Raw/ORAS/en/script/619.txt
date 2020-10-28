@@ -1,0 +1,188 @@
+Welcome to the Battle Maison.[0x000A]I’m the receptionist.
+What would you like to do today?
+What would you like to hear about?
+This Battle Maison provides various[0x000A]battles with many Trainers.{0xBE01}[0x000A]You can choose from the following[0x000A]battle formats:{0xBE01}[0x000A]Single, Double, Triple, Rotation, or[0x000A]Multi Battles.{0xBE01}[0x000A]You’ll keep battling until you lose,[0x000A]and compete based on how many{0xBE00}[0x000A]people you can defeat.{0xBE01}[0x000A]Please note that if you lose even[0x000A]once, your winning streak will end,{0xBE00}[0x000A]and you’ll start from zero again.{0xBE01}[0x000A]Every time you defeat a Trainer,[0x000A]we’ll give you points called BP.{0xBE01}[0x000A]You’ll earn more BP as you keep[0x000A]winning, so do your best!
+Please note the following three points[0x000A]when you battle in the Battle Maison.{0xBE01}[0x000A]First, while you participate in battles here,[0x000A]Pokémon at levels higher than 50{0xBE00}[0x000A]will be reduced temporarily to Lv. 50.{0xBE01}[0x000A]Second, please note the number of[0x000A]Pokémon you need for a challenge.{0xBE01}[0x000A]You need three Pokémon for[0x000A]Single Battles,{0xBE00}[0x000A]four Pokémon for Double Battles,{0xBE00}[0x000A]six Pokémon for Triple Battles, and{0xBE00}[0x000A]four Pokémon for Rotation Battles.{0xBE01}[0x000A]For Multi Battles, each Trainer needs[0x000A]two Pokémon.{0xBE01}[0x000A]Third and last, all Pokémon and their items[0x000A]should be different.{0xBE01}[0x000A]But for Multi Battles, it’s OK for two players[0x000A]to have the same Pokémon or item.
+We hope to see you again.
+Which battle format do you want?
+Your record currently stands at[0x000A]{0x0203,0x0001,0x002C} {0x1101,0x0001,0x0D03}winstraight wins, young m{0x1100,0x00FF,0x0305}asteriss {0x0100,0x0000}.
+So you want to try the[0x000A]Single Battle challenge?
+So you want to try the[0x000A]Super Single Battle challenge?
+So you want to try the[0x000A]Double Battle challenge?
+So you want to try the[0x000A]Super Double Battle challenge?
+So you want to try the[0x000A]Triple Battle challenge?
+So you want to try the[0x000A]Super Triple Battle challenge?
+So you want to try the[0x000A]Rotation Battle challenge?
+So you want to try the[0x000A]Super Rotation Battle challenge?
+So you want to try the[0x000A]Multi Battle challenge?
+So you want to try the[0x000A]Super Multi Battle challenge?
+Do you want to communicate with another player[0x000A]and take this challenge together?
+You and the other player have[0x000A]chosen different battle formats.{0xBE01}[0x000A]Please discuss with the other player[0x000A]before you return.
+Please choose a Trainer[0x000A]to serve as your partner.
+All right. Let the consecutive[0x000A]Single Battle challenge begin.
+All right. Let the consecutive[0x000A]Super Single Battle challenge begin.
+All right. Let the consecutive[0x000A]Double Battle challenge begin.
+All right. Let the consecutive[0x000A]Super Double Battle challenge begin.
+All right. Let the consecutive[0x000A]Triple Battle challenge begin.
+All right. Let the consecutive[0x000A]Super Triple Battle challenge begin.
+All right. Let the consecutive[0x000A]Rotation Battle challenge begin.
+All right. Let the consecutive[0x000A]Super Rotation Battle challenge begin.
+All right. Let the consecutive[0x000A]Multi Battle challenge begin.
+All right. Let the consecutive[0x000A]Super Multi Battle challenge begin.
+Saving...[0x000A]Please wait.
+Congratulations!{0xBE01}[0x000A]I present you with these[0x000A]Battle Points for your victory{0xBE00}[0x000A]against the Battle Chatelaine!
+Congratulations!{0xBE01}[0x000A]I present you with these[0x000A]Battle Points for your victory{0xBE00}[0x000A]against the serious Battle Chatelaine!
+{0x0100,0x0000} received[0x000A]{0x0201,0x0005} BP!
+Now you can take on the consecutive Super Single Battle[0x000A]challenge, young m{0x1100,0x00FF,0x0305}asteriss {0x0100,0x0000}.
+Now you can take on the consecutive Super Double Battle[0x000A]challenge, young m{0x1100,0x00FF,0x0305}asteriss {0x0100,0x0000}.
+Now you can take on the consecutive[0x000A]Super Triple Battle challenge,{0xBE00}[0x000A]young m{0x1100,0x00FF,0x0305}asteriss {0x0100,0x0000}.
+Now you can take on the consecutive[0x000A]Super Rotation Battle challenge,{0xBE00}[0x000A]young m{0x1100,0x00FF,0x0305}asteriss {0x0100,0x0000}.
+Now you can take on the consecutive[0x000A]Super Multi Battle challenge,{0xBE00}[0x000A]young m{0x1100,0x00FF,0x0305}asteriss {0x0100,0x0000}.
+Thank you for participating.{0xBE01}[0x000A]The challenge for Single[0x000A]Battles has ended.{0xBE01}[0x000A]Next, please challenge[0x000A]Super Single Battles.
+Thank you for participating.{0xBE01}[0x000A]The challenge for Double[0x000A]Battles has ended.{0xBE01}[0x000A]Next, please challenge[0x000A]Super Double Battles.
+Thank you for participating.{0xBE01}[0x000A]The challenge for Triple[0x000A]Battles has ended.{0xBE01}[0x000A]Next, please challenge[0x000A]Super Triple Battles.
+Thank you for participating.{0xBE01}[0x000A]The challenge for Rotation[0x000A]Battles has ended.{0xBE01}[0x000A]Next, please challenge[0x000A]Super Rotation Battles.
+Thank you for participating.{0xBE01}[0x000A]The challenge for Multi[0x000A]Battles has ended.{0xBE01}[0x000A]Next, please challenge[0x000A]Super Multi Battles.
+Young m{0x1100,0x00FF,0x0305}asteriss {0x0100,0x0000}![0x000A]You won superbly!{0xBE01}[0x000A]To recognize your great achievement,[0x000A]we will erect a monument in the Battle Maison!
+Next is Battle No. {0x0203,0x0001,0x0000}.[0x000A]Would you like to keep battling?
+Next is Battle No. {0x0203,0x0001,0x0000},[0x000A]a battle against the Battle Chatelaine.{0xBE00}[0x000A]Now... Are you ready?
+Would you like to put your challenge on hold?
+The challenge was interrupted.
+Communicating. Please stand by...
+The music is currently set to Music {0x0200,0x0000}.[0x000A]Which music would you like?
+The music has been set.
+Battle
+Learn more
+Quit
+About the Battle Maison
+Rules of battle
+Challenge
+Single Battle
+Super Single Battle
+Double Battle
+Super Double Battle
+Triple Battle
+Super Triple Battle
+Multi Battle
+Super Multi Battle
+Continue battling
+Save record
+Take a break
+Music 1
+Music 2
+Music 3
+Music 4
+Change music
+{0xBDFF:0x004B}
+{0xBDFF:0x004C}
+{0xBDFF:0x004D}
+{0xBDFF:0x004E}
+{0xBDFF:0x004F}
+{0xBDFF:0x0050}
+{0xBDFF:0x0051}
+{0xBDFF:0x0052}
+{0xBDFF:0x0053}
+{0xBDFF:0x0054}
+{0xBDFF:0x0055}
+{0xBDFF:0x0056}
+{0xBDFF:0x0057}
+{0xBDFF:0x0058}
+{0xBDFF:0x0059}
+{0xBDFF:0x005A}
+{0xBDFF:0x005B}
+{0xBDFF:0x005C}
+{0xBDFF:0x005D}
+{0xBDFF:0x005E}
+{0xBDFF:0x005F}
+{0xBDFF:0x0060}
+{0xBDFF:0x0061}
+{0xBDFF:0x0062}
+{0xBDFF:0x0063}
+{0xBDFF:0x0064}
+{0xBDFF:0x0065}
+{0xBDFF:0x0066}
+{0xBDFF:0x0067}
+{0xBDFF:0x0068}
+{0xBDFF:0x0069}
+{0xBDFF:0x006A}
+When it’s you and me, {0x0100,0x0000}, I feel like[0x000A]we can both show off our best sides!{0xBE01}[0x000A]Let’s do it!
+Hmm...[0x000A]We didn’t seem to have it together this time...{0xBE01}[0x000A]Oh well! We’ll have to try harder next time!
+When I’m battling with you, {0x0100,0x0000},[0x000A]I feel like I could beat absolutely anyone!{0xBE01}[0x000A]Let’s totally do it again sometime!
+Ah. Right.[0x000A]That’s too bad, but maybe next time!
+Let’s do this!{0xBE01}[0x000A]I’m gonna give it my all, {0x0100,0x0000}![0x000A]Wait and see!
+Oops...[0x000A]Boy, they were tough, huh?{0xBE01}[0x000A]Let’s try to win next time![0x000A]I’ll try to get stronger, too!
+We did it, {0x0100,0x0000}!{0xBE01}[0x000A]Your team and mine together won’t lose to anyone!
+Aw, that’s a shame. But I get it...[0x000A]Let’s battle together again some other time!
+I hope you can bear with me, {0x0100,0x0000}!{0xBE01}[0x000A]I’m going to take this chance to study[0x000A]how a Champion fights from right up close!
+I’m s-sorry...{0xBE01}[0x000A]I guess me and my team[0x000A]just got in your way...
+Thank you so much, {0x0100,0x0000}!{0xBE01}[0x000A]Me and my Pokémon both gained a lot[0x000A]from being able to fight beside you!
+O-oh...[0x000A]That’s too bad...{0xBE01}[0x000A]I hope you’ll ask me[0x000A]again someday...
+Bwahahaha![0x000A]You wanna team up with me?{0xBE01}[0x000A]All right! This might be the strongest[0x000A]combo that Hoenn’s ever seen!
+Bwahahaha!{0xBE01}[0x000A]Even with a combo like you and me, looks like[0x000A]when you’re gonna lose, you’re gonna lose!{0xBE01}[0x000A]But I just can’t quit Pokémon battling, not as[0x000A]long as it sets my heart racing like this!
+Bwahahahaha!{0xBE01}[0x000A]Looks like teaming up with you and your team[0x000A]really gave us the chance to run wild out there!{0xBE01}[0x000A]Thanks for the good battle, ya little scamp!
+So we’re going to wrap things up here today?{0xBE01}[0x000A]Fair enough. But give me a shout next time[0x000A]you want a little tussle. I’ll be waiting!
+So you wish for the great Maxie[0x000A]to battle alongside you...{0xBE01}[0x000A]Hehehe...[0x000A]My heart trembles in anticipation!{0xBE00}[0x000A]This should be a fascinating battle!
+So the great Maxie has fallen, even[0x000A]when battling alongside your team...{0xBE01}[0x000A]I shall commit this curious phenomenon[0x000A]to memory. It had less than a 1 percent{0xBE00}[0x000A]probability of occurring, you know.
+Hehehe...hahaha!{0xBE01}[0x000A]This result was inevitable the moment[0x000A]the great Maxie joined hands with you!{0xBE01}[0x000A]Should another such opportunity occur,[0x000A]I anticipate a similarly beneficial outcome.
+All things must inevitably[0x000A]come to an end.{0xBE01}[0x000A]But I look forward to the[0x000A]prospect of a new beginning.
+I’d be honored.{0xBE01}[0x000A]I anticipate that battling together with[0x000A]you will help me realize something new!
+It is what it is.{0xBE01}[0x000A]We lost the battle, but I was[0x000A]still able to learn something.{0xBE00}[0x000A]Thank you.
+It is what it is.{0xBE01}[0x000A]So it is only natural that our[0x000A]Champion-level combo would win.
+I see.[0x000A]So this is the end for us today?{0xBE01}[0x000A]I don’t believe you gave it[0x000A]all you have in you.{0xBE01}[0x000A]The unplumbed depths of your[0x000A]true power are quite frightening.{0xBE01}[0x000A]Still, I look forward to battling[0x000A]together again someday.
+Scouting the Pike Queen—done.{0xBE01}[0x000A]Are there any Trainers who measure[0x000A]up to Scott’s expectations?
+The upper level is a viewing area[0x000A]for folks like us who don’t battle.{0xBE01}[0x000A]They sure fleece us for the privilege,[0x000A]but the matches you get to see are the best!
+Wh-who are you?[0x000A]The sight of you set{0xBE00}[0x000A]my Seviper shivering!
+I’ve been watching the matches from up here, but[0x000A]the Trainers here are rank amateurs to the last.{0xBE01}[0x000A]The only ones here who even begin to compare[0x000A]to me in terms of skill and beauty might be those{0xBE00}[0x000A]gaudy little girls calling themselves Battle Chatelaines.
+Slaaah...
+Wha— You want me to restore[0x000A]your Pokémon’s health?{0xBE01}[0x000A]Honestly, you people![0x000A]Can ye not see I’m off duty?{0xBE01}[0x000A]Do I look like I’ve got a device to[0x000A]heal ye tucked in my skirt pocket?{0xBE01}[0x000A]The Pokémon Center I work at[0x000A]never gives me a day off!{0xBE01}[0x000A]This is my first time off in 20 days.[0x000A]Leave me in peace, can ye?
+Did you see them? DID YOU?!{0xBE01}[0x000A]The stunning Battle Chatelaine sisters![0x000A]They’re here now!{0xBE01}[0x000A]Seeing them battle was like[0x000A]Cupid’s arrow right to my heart! BAM!
+An endless banquet for Trainers who have had[0x000A]their hearts captured by Pokémon battling...{0xBE01}[0x000A]For us serious battlers, this place is both the[0x000A]ultimate dream and our worst nightmare.
+{0xBDFF:0x008B}
+{0xBDFF:0x008C}
+{0xBDFF:0x008D}
+{0xBDFF:0x008E}
+{0xBDFF:0x008F}
+{0xBDFF:0x0090}
+{0xBDFF:0x0091}
+{0xBDFF:0x0092}
+{0xBDFF:0x0093}
+{0xBDFF:0x0094}
+{0xBDFF:0x0095}
+{0xBDFF:0x0096}
+{0xBDFF:0x0097}
+{0xBDFF:0x0098}
+{0xBDFF:0x0099}
+{0xBDFF:0x009A}
+{0xBDFF:0x009B}
+{0xBDFF:0x009C}
+{0xBDFF:0x009D}
+{0xBDFF:0x009E}
+{0xBDFF:0x009F}
+{0xBDFF:0x00A0}
+{0xBDFF:0x00A1}
+{0xBDFF:0x00A2}
+{0xBDFF:0x00A3}
+{0xBDFF:0x00A4}
+{0xBDFF:0x00A5}
+{0xBDFF:0x00A6}
+{0xBDFF:0x00A7}
+{0xBDFF:0x00A8}
+{0xBDFF:0x00A9}
+{0xBDFF:0x00AA}
+Here she comes,[0x000A]Battle Chatelaine Nita!
+Here she comes,[0x000A]Battle Chatelaine Evelyn!
+Here she comes,[0x000A]Battle Chatelaine Dana!
+Here she comes,[0x000A]Battle Chatelaine Morgan!
+Here they come, Battle Chatelaines[0x000A]Evelyn and Dana!
+Here they come, Battle Chatelaines[0x000A]Morgan and Evelyn!
+Here they come, Battle Chatelaines[0x000A]Morgan and Nita!
+Here they come, Battle Chatelaines[0x000A]Nita and Dana!
+Excuse me!{0xBE01}[0x000A]You didn’t save before you quit your[0x000A]challenge last time.{0xBE01}[0x000A]I am sorry, but you’ll have to start[0x000A]your challenge over again.
+I’m keeping records in the Battle Maison.[0x000A]Do you want to see your results?
+Which result do you want to see?
+Current record: {0x0203,0x0000,0x002C} straight win{0x1101,0x0000,0x0100}s[0x000A]Best record: {0x0203,0x0001,0x002C} straight win{0x1101,0x0001,0x0100}s
+Rotation Battle
+Super Rotation Battle
+Wireless communication is currently disabled.[0x000A]Please turn wireless communication on.
+You can’t battle together with the Pokémon[0x000A]that the other Trainer has.
+You can’t battle together with this Trainer.

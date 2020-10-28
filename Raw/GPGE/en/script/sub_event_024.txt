@@ -1,0 +1,13 @@
+msg_sub024_researcher_01=Hiya!{0xBE01}[0x000A]I am an important doctor.[0x000A]Yes, very well known indeed.{0xBE01}[0x000A]Here, I study rare Pokémon Fossils.{0xBE01}[0x000A]Hey![0x000A]Do you have a Fossil for me?
+msg_sub024_select_01=Helix Fossil
+msg_sub024_select_02=Dome Fossil
+msg_sub024_select_03=Old Amber
+msg_sub024_select_04=Quit
+msg_sub024_researcher_02=No![0x000A]Too bad!
+msg_sub024_researcher_03=Success!{0xBE01}[0x000A]The Fossil was {0x1302,0x0004}{0x0101,0x0004} as I thought!
+msg_sub024_sys_01=You got {0x1302,0x0004}{0x0101,0x0004} from the doctor!
+msg_sub024_researcher_04=Oh![0x000A]That is {0x1302,0x0002}{0x0109,0x0002}, it is!{0xBE01}[0x000A]It is a Fossil of {0x0101,0x0001}, a Pokémon[0x000A]that is already extinct!{0xBE01}[0x000A]Shall I use my Resurrection Machine to make[0x000A]that Pokémon live again?
+msg_sub024_researcher_05=So![0x000A]Give it here!
+msg_sub024_sys_02=You handed over the {0x0109,0x0002}[0x000A]to the odd doctor.
+msg_sub024_researcher_06={0xBDFF:0x000B}
+msg_sub024_researcher_07=Well then![0x000A]Come back soon!

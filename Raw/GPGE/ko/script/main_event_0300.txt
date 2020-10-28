@@ -1,0 +1,13 @@
+msg_main0300_rival_01=우와앗!
+msg_main0300_rival_02={0x0100,0x0001}: 아 우와[0x000A]{0x0100,0x0000} 큰일이야!{0xBE01}[0x000A]포켓... 말을... 히이익!!
+msg_main0300_dummy_01={0xBDFF:0x0002}
+msg_main0300_rival_03={0x0100,0x0001}: 하...[0x000A]후우 하아...{0xBE01}[0x000A]음~{0xBE01}[0x000A]나답지 않게[0x000A]이성을 잃고 말았네! 미안...
+msg_main0300_rival_04=이 앞에[0x000A]유명한 포켓몬 마니아가{0xBE00}[0x000A]살고 있대서{0xBE00}[0x000A]희귀한 포켓몬이 있으려나 하고{0xBE00}[0x000A]가봤거든!
+msg_main0300_rival_05=그런데 그곳에 뭐가 있었냐면...[0x000A]...놀라면 안 돼
+msg_main0300_rival_06=포켓몬 마니아 이수재라는[0x000A]녀석은 없고!!{0xBE01}[0x000A]사람의 말을 하는[0x000A]포켓몬이 있었어!!
+msg_main0300_rival_07=...히이익 무서워~![0x000A]{0x0100,0x0000}도 가까이 가면 안 돼!
+msg_rival_01_p01_field_t005={0xBDFF:0x0008}
+msg_rival_01_p02_field_t005={0xBDFF:0x0009}
+msg_rival_01_p03_field_t005={0xBDFF:0x000A}
+msg_rival_01_p05_field_t005={0xBDFF:0x000B}
+msg_rival_01_p06_field_t005={0xBDFF:0x000C}

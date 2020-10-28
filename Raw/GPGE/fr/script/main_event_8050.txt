@@ -1,0 +1,11 @@
+msg_main8050_poison_01={0xFF00,0x0009}Koga :{0xFF00,0x0000} Gwahahaha !
+msg_main8050_poison_06=Tu oses me défier ? Moi, le grand, le beau,[0x000A]le terrible Koga ?
+msg_main8050_poison_07=Par le sang de mes ancêtres, je vais gagner !
+msg_main8050_poison_08=Prépare-toi à affronter mes terribles Pokémon[0x000A]Poison !
+msg_gym06_01_02={0xBDFF:0x0004}
+msg_main8050_poison_02=Ouvre ta main, prépare ton esprit, car voici[0x000A]le Badge Âme !
+msg_main8050_sys_01=Vous obtenez le {0xFF00,0x0006}Badge Âme{0xFF00,0x0000} !
+msg_main8050_poison_03=Grâce au Badge Âme, tu peux maintenant[0x000A]te faire obéir par des Pokémon échangés{0xBE00}[0x000A]allant jusqu’au niveau {0x0201,0x0004}.{0xBE01}[0x000A]Attends ! Prends ceci également.
+msg_main8050_sys_02=Vous obtenez la {0x0109,0x0001} {0xFF00,0x0006}{0x0107,0x0002}{0xFF00,0x0000} !
+msg_main8050_poison_04=CT27 : Toxik !{0xBE01}[0x000A]Cette technique ancestrale est vieille d’au moins[0x000A]400 ans.
+msg_main8050_poison_05=Un Pokémon touché par Toxik perdra une[0x000A]quantité de PV de plus en plus importante{0xBE00}[0x000A]à chaque tour !{0xBE01}[0x000A]De quoi terroriser ses ennemis.

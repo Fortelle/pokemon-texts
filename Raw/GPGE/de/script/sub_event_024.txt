@@ -1,0 +1,13 @@
+msg_sub024_researcher_01=Hallo!{0xBE01}[0x000A]Ich bin ein wirklich superwichtiger[0x000A]Wissenschaftler hier!{0xBE01}[0x000A]Ich erforsche unermüdlich seltene Fossilien!{0xBE01}[0x000A]Und du, hmmm?[0x000A]Hast du ein wertvolles Fossil dabei?
+msg_sub024_select_01=Helixfossil
+msg_sub024_select_02=Domfossil
+msg_sub024_select_03=Altbernstein
+msg_sub024_select_04=Abbrechen
+msg_sub024_researcher_02=Hmmm, du hast also keins dabei...[0x000A]Das ist aber schade.
+msg_sub024_researcher_03=Das Experiment ist geglückt, hmmm!{0xBE01}[0x000A]Dein Fossil war ein {0x0101,0x0004}.[0x000A]Ganz, wie ich es vermutet hatte, hmmm!
+msg_sub024_sys_01={0x0101,0x0004} erhalten!
+msg_sub024_researcher_04=Hmmm! Ein {0x0109,0x0002}!{0xBE01}[0x000A]Ich denke, das ist ein Fossil des lange[0x000A]ausgestorbenen Pokémon {0x0101,0x0001}.{0xBE01}[0x000A]Dank der Maschine, die ich entworfen habe,[0x000A]kann ich es in ein Pokémon zurückverwandeln!{0xBE01}[0x000A]Möchtest du, dass ich das Fossil in ein Pokémon[0x000A]zurückverwandle?
+msg_sub024_researcher_05=Hmmm, nun mach schon! Gib es endlich her!
+msg_sub024_sys_02=Du gibst dem kauzigen Wissenschaftler[0x000A]{0x1606,0x0002}{0x0109,0x0002}.
+msg_sub024_researcher_06={0xBDFF:0x000B}
+msg_sub024_researcher_07=Hmmm, du kannst mich jederzeit besuchen[0x000A]kommen!

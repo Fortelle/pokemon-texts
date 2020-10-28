@@ -1,0 +1,101 @@
+Welcome to the Battle Chateau, my good sir.{0xBE01}[0x000A]How might I be able to assist you on this fine[0x000A]day, {0xFF00,0x0001}Baron {0x0100,0x0000}{0xFF00,0x0000}?
+Of course. It would be my pleasure to explain.{0xBE01}[0x000A]From this reception, you will find yourself able to[0x000A]issue a Writ of Invitation to the other Trainers who{0xBE00}[0x000A]frequent our humble Battle Chateau.{0xBE01}[0x000A]You will discover that there are some differences in[0x000A]the types of Trainers that will respond to your Writ,{0xBE00}[0x000A]depending on its variety.{0xBE01}[0x000A]It is my duty to inform you, however, that we do[0x000A]ask for a slight compensation for this service.
+I would be delighted to assist you.[0x000A]Which Writ of Invitation would you like issued?
+If we issue this Writ of Invitation, other Trainers[0x000A]will come to patronize our fair Battle Chateau with{0xBE00}[0x000A]greater frequency than they usually do.{0xBE01}[0x000A]In return for this service, we would ask you to pay[0x000A]the modest fee of ${0x0205,0x0004,0x002C}.{0xBE01}[0x000A]Are these terms agreeable to you?
+If we issue this silver Writ of Invitation, Trainers will[0x000A]flock to our fair Battle Chateau with all due haste.{0xBE01}[0x000A]In return for this service, we would ask you to pay[0x000A]the modest fee of ${0x0205,0x0004,0x002C}.{0xBE01}[0x000A]Are these terms agreeable to you?
+If we issue this gold Writ of Invitation, you could[0x000A]expect a particularly affluent class of Trainers to{0xBE00}[0x000A]likely patronize our fair Battle Chateau.{0xBE01}[0x000A]In return for this service, we would ask you to pay[0x000A]the modest fee of ${0x0205,0x0004,0x002C}.{0xBE01}[0x000A]Are these terms agreeable to you?
+If we issue this Writ of Challenge on your behalf,[0x000A]you will find that rather more motivated Trainers{0xBE00}[0x000A]will come to patronize our fair Battle Chateau.{0xBE01}[0x000A]In return for this service, we would ask you to pay[0x000A]the modest fee of ${0x0205,0x0004,0x002C}.{0xBE01}[0x000A]Are these terms agreeable to you?
+If we issue this blue Writ of Challenge on your[0x000A]behalf, you can expect rather more sedate and{0xBE00}[0x000A]serene battles with your fellow Trainers than you{0xBE00}[0x000A]might usually experience.{0xBE01}[0x000A]In return for this service, we ask you to pay[0x000A]the modest fee of ${0x0205,0x0004,0x002C}.{0xBE01}[0x000A]Are these terms agreeable to you?
+If we issue this red Writ of Challenge on your[0x000A]behalf, you will experience fierce and competitive{0xBE00}[0x000A]battles that go beyond your usual milieu.{0xBE01}[0x000A]In return for this service, we ask you to pay[0x000A]the modest fee of ${0x0205,0x0004,0x002C}.{0xBE01}[0x000A]Are these terms agreeable to you?
+Very good. Then I will issue this Writ at once.
+It is my great sorrow to inform you that[0x000A]you appear to lack sufficient funds.
+If there is anything else that I can possibly help[0x000A]you with, please do not hesitate to call on me.
+If we issue this black Writ of Challenge on your[0x000A]behalf, it will draw the most competitive and{0xBE00}[0x000A]most competent of opponents to you.{0xBE01}[0x000A]In return for this service, we would ask you to pay[0x000A]the modest fee of ${0x0205,0x0004,0x002C}.{0xBE01}[0x000A]Are these terms agreeable to you?
+{0x019F,0x0005} {0x0100,0x0000}.[0x000A]Farewell, my good sir.{0xBE01}[0x000A]Before you leave, I have pleasing news to share.{0xBE01}[0x000A]Due to your recent excellence in battle,[0x000A]you have been granted the title of{0xBE00}[0x000A]{0xFF00,0x0001}{0x019F,0x0006}{0xFF00,0x0000}.{0xBE01}[0x000A]My heartiest congratulations, sir.
+{0x019F,0x0005} {0x0100,0x0000}.[0x000A]Farewell, my lady.{0xBE01}[0x000A]Before you leave, I have pleasing news to share.{0xBE01}[0x000A]Due to your recent excellence in battle,[0x000A]you have been granted the title of{0xBE00}[0x000A]{0xFF00,0x0001}{0x019F,0x0006}{0xFF00,0x0000}.{0xBE01}[0x000A]My heartiest congratulations.
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+I hope that you will accept my most humble[0x000A]compliments on this wonderful day.{0xBE01}[0x000A]I look forward to having the opportunity to see you[0x000A]battle again here at the Battle Chateau.
+Sniff... Sniffle.[0x000A]Oh, sir. After all this time...{0xBE01}[0x000A]Even I, your humble servant, am so overcome with[0x000A]emotion that...it is hard to even say the words.{0xBE01}[0x000A]Sniff... Oh, sir, congratulations. My most humble[0x000A]and unworthy congratulations to you...{0xBE01}[0x000A]I wish from the bottom of my heart for your success[0x000A]in your new position...as {0xFF00,0x0001}Grand Duke{0xFF00,0x0000}!
+I’m afraid that we have already[0x000A]issued a standard Writ of Invitation.
+I am so terribly sorry, but it seems that your[0x000A]current funds would not cover that Writ.
+Welcome to the Battle Chateau.[0x000A]Is there anything I can help elucidate for you?
+This is an exclusive social club and battle arena[0x000A]that only the chosen few know about.{0xBE01}[0x000A]Gentlemen and lady Trainers of good character[0x000A]are here to provide an exquisite battle experience.{0xBE01}[0x000A]The Trainers who pass through our doors[0x000A]are the dazzling elite of Pokémon society,{0xBE00}[0x000A]all in search of something they lack.{0xBE01}[0x000A]Some come in search of a challenge...{0xBE01}[0x000A]Some come in search of glory...{0xBE01}[0x000A]Some come in search of the prize...{0xBE01}[0x000A]No matter the standing of your opponent, there is[0x000A]no holding back in the battles we hold here!{0xBE01}[0x000A]We wish our patrons to fulfill their wildest dreams[0x000A]of battle within these privileged walls.{0xBE01}[0x000A]We also take the liberty of awarding our patrons[0x000A]an aristocratic rank in keeping with their merits.{0xBE01}[0x000A]I hope that you will fight to your utmost and aim[0x000A]to elevate yourself to the highest of titles.
+The nobility system is the way we[0x000A]respectfully mark our Trainers’ strength.{0xBE01}[0x000A]Here in this Battle Chateau, your noble rank[0x000A]is the only thing that matters about you.{0xBE01}[0x000A]By battling the Trainers who patronize our[0x000A]Battle Chateau and achieving many victories,{0xBE00}[0x000A]you will be able to earn ever-loftier titles.{0xBE01}[0x000A]As your title improves, you will find even more[0x000A]Trainers flocking to our Battle Chateau.{0xBE01}[0x000A]You may also find yourself meeting some of the[0x000A]most esteemed members of the nobility.
+We sincerely hope that you will enjoy[0x000A]all that the Battle Chateau has to offer.
+Ladies and gentlemen...{0xBE01}[0x000A]Please turn your attention to the entrance and[0x000A]welcome the new {0xFF00,0x0001}Baron {0x0100,0x0002}{0xFF00,0x0000}.{0xBE01}[0x000A]We hope that you will all welcome him[0x000A]into our midst and train him in our ways.
+Ladies and gentlemen...{0xBE01}[0x000A]I am pleased to announce the arrival of[0x000A]{0xFF00,0x0001}Viscount {0x0100,0x0002}{0xFF00,0x0000} in the hall.
+Ladies and gentlemen...{0xBE01}[0x000A]I am pleased to announce the arrival of[0x000A]the esteemed {0xFF00,0x0001}Earl {0x0100,0x0002}{0xFF00,0x0000} in our hall.{0xBE01}[0x000A]We hope that you will all face him squarely in[0x000A]battle and not let your guard down.
+Ladies and gentlemen...{0xBE01}[0x000A]I am pleased to announce the arrival of[0x000A]the esteemed {0xFF00,0x0001}Marquis {0x0100,0x0002}{0xFF00,0x0000} in our hall.{0xBE01}[0x000A]I hope that those of you with sufficient confidence[0x000A]in your own ability will take up his challenge.
+Ladies and gentlemen...{0xBE01}[0x000A]It is my great honor to announce the arrival of[0x000A]the noble {0xFF00,0x0001}Duke {0x0100,0x0002}{0xFF00,0x0000} in our hall.{0xBE01}[0x000A]Please give him a round of applause and prepare[0x000A]yourselves for the battle of a lifetime.
+Send a Writ
+About Writs 1
+Cancel
+Writ of Invitation
+Silver Writ of Invitation
+Gold Writ of Invitation
+Writ of Challenge
+Blue Writ of Challenge
+Red Writ of Challenge
+This place
+The nobility
+Yes
+No
+---
+Black Writ of Challenge
+There are two things of which it is my duty[0x000A]to inform you regarding Writs of Invitation.{0xBE01}[0x000A]The first is that any Writ you choose to issue[0x000A]from the Battle Chateau will remain active{0xBE00}[0x000A]until midnight on the day of its issue.{0xBE01}[0x000A]The second is that while you may issue[0x000A]as many Writs as you desire, only the{0xBE00}[0x000A]last Writ you issue will be in effect.
+About Writs 2
+Ladies and gentlemen...{0xBE01}[0x000A]Please turn your attention to the entryway[0x000A]and welcome the new {0xFF00,0x0001}Baroness {0x0100,0x0002}{0xFF00,0x0000}.{0xBE01}[0x000A]We hope that you will all welcome her into[0x000A]our midst and train her in our ways.
+Ladies and gentlemen...{0xBE01}[0x000A]I am pleased to announce the arrival of[0x000A]{0xFF00,0x0001}Viscountess {0x0100,0x0002}{0xFF00,0x0000} in our hall.
+Ladies and gentlemen...{0xBE01}[0x000A]I am pleased to announce the arrival of[0x000A]the esteemed {0xFF00,0x0001}Countess {0x0100,0x0002}{0xFF00,0x0000} in our hall.{0xBE01}[0x000A]We hope that you will all face her squarely in[0x000A]battle and not let your guard down.
+Ladies and gentlemen...{0xBE01}[0x000A]I am pleased to announce the arrival of the[0x000A]esteemed {0xFF00,0x0001}Marchioness {0x0100,0x0002}{0xFF00,0x0000} in our hall.{0xBE01}[0x000A]I hope that those of you with sufficient confidence[0x000A]in your own ability will take up her challenge.
+Ladies and gentlemen...{0xBE01}[0x000A]It is my great honor to announce the arrival of[0x000A]the noble {0xFF00,0x0001}Duchess {0x0100,0x0002}{0xFF00,0x0000} in our hall.{0xBE01}[0x000A]Please give her a round of applause and prepare[0x000A]yourselves for the battle of a lifetime.
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+{0xBDFF:0x0036}
+{0xBDFF:0x0037}
+Sniff... Sniffle.[0x000A]Oh, my lady. After all this time...{0xBE01}[0x000A]Even I, your humble servant, am so overcome with[0x000A]emotion that...it is hard to even say the words...{0xBE01}[0x000A]Sniff... Oh, my lady, congratulations! My most[0x000A]humble and unworthy congratulations to you...{0xBE01}[0x000A]I wish from the bottom of my heart for your success[0x000A]in your new position...as {0xFF00,0x0001}Grand Duchess{0xFF00,0x0000}.
+Welcome to the Battle Chateau.[0x000A]How might I be of service to you today,{0xBE00}[0x000A]{0xFF00,0x0001}Viscount {0x0100,0x0000}{0xFF00,0x0000}?
+Welcome to the Battle Chateau.{0xBE01}[0x000A]If it is not the good {0xFF00,0x0001}Earl {0x0100,0x0000}{0xFF00,0x0000}![0x000A]How might I be of service today?
+Welcome to the Battle Chateau.{0xBE01}[0x000A]My apologies for any delay,[0x000A]{0xFF00,0x0001}Marquis {0x0100,0x0000}{0xFF00,0x0000}. How may I be of service?
+Welcome to the Battle Chateau.{0xBE01}[0x000A]We are delighted to welcome you back today,[0x000A]{0xFF00,0x0001}Duke {0x0100,0x0000}{0xFF00,0x0000}. How might I be of service?
+Welcome to the Battle Chateau.[0x000A]{0xFF00,0x0001}Baroness {0x0100,0x0000}{0xFF00,0x0000}, how might I be of{0xBE00}[0x000A]service to you today?
+Welcome to the Battle Chateau.[0x000A]How might I be of service to you today,{0xBE00}[0x000A]{0xFF00,0x0001}Viscountess {0x0100,0x0000}{0xFF00,0x0000}?
+Welcome to the Battle Chateau.{0xBE01}[0x000A]If it is not the good {0xFF00,0x0001}Countess {0x0100,0x0000}{0xFF00,0x0000}![0x000A]How might I be of service today?
+Welcome to the Battle Chateau.{0xBE01}[0x000A]I do apologize for any possible delay,[0x000A]{0xFF00,0x0001}Marchioness {0x0100,0x0000}{0xFF00,0x0000}.{0xBE00}[0x000A]How may I be of service?
+Welcome to the Battle Chateau.{0xBE01}[0x000A]We are delighted to welcome you back today,[0x000A]{0xFF00,0x0001}Duchess {0x0100,0x0000}{0xFF00,0x0000}. How can I be of service?
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+Welcome to the Battle Chateau.{0xBE01}[0x000A]It is an absolute honor to welcome you back,[0x000A]{0xFF00,0x0001}Grand Duke {0x0100,0x0000}{0xFF00,0x0000}.{0xBE01}[0x000A]How might I be of service today, sir?
+Welcome to the Battle Chateau.{0xBE01}[0x000A]It is an absolute honor to welcome you back,[0x000A]{0xFF00,0x0001}Grand Duchess {0x0100,0x0000}{0xFF00,0x0000}.{0xBE01}[0x000A]How might I be of service today, my lady?
+I’m afraid that we have already[0x000A]issued a silver Writ of Invitation.
+I’m afraid that we have already[0x000A]issued a gold Writ of Invitation.
+I’m afraid that we have already[0x000A]issued a Writ of Challenge.
+I’m afraid that we have already[0x000A]issued a blue Writ of Challenge.
+I’m afraid that we have already[0x000A]issued a red Writ of Challenge.
+I’m afraid that we have already[0x000A]issued a black Writ of Challenge.
+Ladies and gentlemen...[0x000A]The time has come at last...{0xBE01}[0x000A]To meet the holder of the grandest[0x000A]title of nobility in the Kalos region...{0xBE01}[0x000A]She is the best of battlers and[0x000A]the queen of all our hearts...{0xBE01}[0x000A]The {0xFF00,0x0001}Grand Duchess {0x0100,0x0002}{0xFF00,0x0000} has[0x000A]entered our hall!{0xBE01}[0x000A]There are no words that can capture the grace[0x000A]and elegance of Her Grand Ducal Highness!{0xBE00}[0x000A]I urge you all to experience her power!
+No less than I would expect from such an esteemed[0x000A]peer of the realm. I humbly accept your kindness.
+... ... ...
+To spare even a moment’s thought for a humble[0x000A]servant like me! You are too kind, {0x1100,0x00FF,0x0908}good sirfair lady...
+... ... ...
+I’m afraid that we have already[0x000A]issued one Writ of Invitation.{0xBE01}[0x000A]Are you sure you would like to[0x000A]proceed with issuing this one?
+I’m afraid that we have already[0x000A]issued a silver Writ of Invitation.{0xBE01}[0x000A]Are you sure you would like to[0x000A]proceed with issuing this one?
+I’m afraid that we have already[0x000A]issued a Writ of Challenge.{0xBE01}[0x000A]Are you sure you would like to[0x000A]proceed with issuing this one?
+I’m afraid that we have already[0x000A]issued a blue Writ of Challenge.{0xBE01}[0x000A]Are you sure you would like to[0x000A]proceed with issuing this one?
+I’m afraid that we have already[0x000A]issued a red Writ of Challenge.{0xBE01}[0x000A]Are you sure you would like to[0x000A]proceed with issuing this one?
+I’m afraid that we have already[0x000A]issued a black Writ of Challenge.{0xBE01}[0x000A]Are you sure you would like to[0x000A]proceed with issuing this one?
+How might I be of service today?
+Is there anything I can help you with?
+Baron
+Viscount
+Earl
+Marquis
+Duke
+Grand Duke
+Baroness
+Viscountess
+Countess
+Marchioness
+Duchess
+Grand Duchess

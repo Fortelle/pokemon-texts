@@ -1,0 +1,17 @@
+msg_main0910_rocketchief_01=阿波羅「{0x1100,0x00FF,0x0101}你妳是……！
+msg_main0910_rocketf_01=手下「阿波羅大人，[0x000A]那邊那孩子是誰呀？
+msg_main0910_rival_01={0x0100,0x0001}「{0x0100,0x0000}，[0x000A]那邊那個人是誰啊？
+msg_main0910_rocketf_02={0xBDFF:0x0003}
+msg_main0910_rival_02={0xBDFF:0x0004}
+msg_main0910_rocketchief_02=阿波羅「那是個[0x000A]愚蠢到膽敢妨礙我們，{0xBE00}[0x000A]但又十分優秀的孩子。
+msg_main0910_rival_03={0x0100,0x0001}「……也就是說，[0x000A]對我們來說，{0xBE00}[0x000A]他們才是礙事的一方嗎？
+msg_main0910_rocketf_03=手下「我說你呀！[0x000A]竟敢說阿波羅大人礙事！{0xBE00}[0x000A]是想被我們打到哭著回家嗎！？
+msg_main0910_rocketchief_03=阿波羅「冷靜點。{0xBE01}[0x000A]對付這樣的孩子，[0x000A]應該要這樣教訓才是。
+msg_main0910_dummy_01={0xBDFF:0x0009}
+msg_main0910_dummy_02={0xBDFF:0x000A}
+msg_main0910_rocketchief_04=阿波羅「原來{0x1100,0x00FF,0x0101}你妳上次贏過我[0x000A]並不是一時僥倖啊……{0xBE01}[0x000A]我完全明白了。[0x000A]現在起我會好好注意你們的。
+msg_main0910_rocketf_04=手下「讓開啦！
+msg_main0910_rival_04={0x0100,0x0001}「好痛！
+msg_main0910_rival_05=啊！[0x000A]那個手下掉了這個東西！
+msg_main0910_sys_01={0x0100,0x0000}從{0x0100,0x0001}那裡[0x000A]得到了{0xFF00,0x0006}鑰匙卡{0xFF00,0x0000}！
+msg_main0910_rival_06={0x0100,0x0001}「在成功拯救西爾佛之前，[0x000A]就暫時借用一下吧！

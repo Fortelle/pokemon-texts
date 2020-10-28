@@ -1,0 +1,5 @@
+msg_t0501pc0101_npc1_01=Salut ! J’ai plein de trucs sympa à partager,[0x000A]et puisque tu es venu{0x1100,0x00FF,0x0100}e me parler, tiens !
+msg_t0501pc0101_npc1_02=Laisse-moi t’en dire plus sur les fossiles.{0xBE01}[0x000A]Pour les restaurer, va donc voir la professeure[0x000A]qui est sur la Route 6.{0xBE01}[0x000A]Et si tu veux en obtenir d’autres, rends-toi[0x000A]dans les Terres Sauvages. Tu pourras alors soit{0xBE00}[0x000A]les chercher toi-même, soit demander de l’aide{0xBE00}[0x000A]aux Trou Brothers !
+msg_t0501pc0101_npc2_01=Il faut être vraiment motivé pour s’entraîner[0x000A]au karaté en montagne... Je suis impressionné !
+msg_t0501pc0101_npc3_01=Oh, vous savez, c’est mon Pokémon[0x000A]qui s’entraîne. Moi, je regarde.
+msg_t0501_pc0101_poke1_01_pop=Sissiiir !

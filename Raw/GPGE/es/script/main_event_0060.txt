@@ -1,0 +1,9 @@
+msg_main0060_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¡Espera!
+msg_main0060_rival_04={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¡Oye, {0x0100,0x0000}![0x000A]Sabes que un{0x1100,0x00FF,0x0705} buena buena{0xFF00,0x0006} Entrenador{0x1100,0x00FF,0x0100}a{0xFF00,0x0000} no se dedica{0xBE00}[0x000A]exclusivamente a capturar Pokémon, ¿verdad?{0xBE01}[0x000A]¡{0xFF00,0x0006}Combatir{0xFF00,0x0000} contra otros Entrenadores también[0x000A]es esencial!{0xBE01}[0x000A]Si quieres, podemos echar un combate para que[0x000A]veas de qué va la cosa.
+msg_main0060_rival_05=¡A por todas!
+msg_main0060_8rom_01={0xBDFF:0x0003}
+msg_main0060_rival_02={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Esto me pasa por ir de guay[0x000A]dándote lecciones... ¡Qué mal he quedado!{0xBE01}[0x000A]Debería haber entrenado a mi Pokémon un poco[0x000A]más antes de medirme contigo.
+msg_main0060_rival_06={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} ¡Toma ya!{0xBE01}[0x000A]No le des mucha importancia, ¿vale? Tan solo[0x000A]es tu primer combate.
+msg_main0060_rival_03=¡Ojalá podamos enfrentarnos de vez en cuando[0x000A]a partir de ahora!
+msg_main0060_doctor_01={0xFF00,0x0009}Oak:{0xFF00,0x0000} ¿Qué te ha parecido tu primer combate,[0x000A]{0x0100,0x0000}?{0xBE01}[0x000A]¡{0x0101,0x0002} rebosaba energía!
+msg_main0060_doctor_02={0xFF00,0x0009}Oak: {0xFF00,0x0000}La mejor forma de criar Pokémon fuertes[0x000A]es combatir contra Entrenadores de todo tipo.{0xBE01}[0x000A]¡Y, por supuesto, también es fundamental[0x000A]capturar montones de Pokémon!

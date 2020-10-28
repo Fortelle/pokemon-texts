@@ -1,0 +1,6 @@
+main_event_0030_rival_01=Purée, c’est quoi ce Sac ? T’avais pas plus grand ?{0xBE01}[0x000A]Remarque... C’est pas une mauvaise idée...[0x000A]Comme ça, même si mon frangin te refile{0xBE00}[0x000A]un Pokémon énorme, tu seras prêt{0x1100,0x00FF,0x0100}e !{0x0114,0x0005}
+main_event_0030_rival_05=Tiens, un Moumouton.[0x000A]Qu’est-ce que tu fais là, mon gros ?{0x0114,0x0005}
+main_event_0030_rival_02=Eh ! Oh ! Elle t’a rien fait, la barrière ![0x000A]Pas besoin de lui donner des coups de boule !{0x0114,0x0005}
+main_event_0030_rival_03=J’espère que t’as pas l’intention de la traverser !{0xBE01}[0x000A]Y’a des Pokémon dangereux qui rôdent[0x000A]dans la Forêt de Sleepwood !{0x0114,0x0005}
+main_event_0030_poke_01=Moumou ?
+main_event_0030_rival_04=Allez, on fait la course jusque chez moi ![0x000A]Le dernier arrivé est un Escargaume, ha ha ha !{0xBE01}[0x000A]T’y ressembles déjà pas mal, avec t{0x1100,0x00FF,0x0C08}a valiseon sac à dos,[0x000A]là ! T’as emporté toutes tes affaires ou quoi ?{0x0114,0x0005}

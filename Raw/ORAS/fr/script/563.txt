@@ -1,0 +1,33 @@
+Alors, on se donne à fond[0xE07F]?{0xBE01}[0x000A]Écoute[0xE07F]![0x000A]Ça te dirait de devenir Maître[0xE07F]?{0xBE01}[0x000A]J’suis pas Dresseur moi, mais je peux[0x000A]te donner des conseils pour gagner[0xE07F]!
+Marché conclu[0xE07F]?[0x000A]Ensemble, on va faire de toi un Maître Pokémon[0xE07F]!{0xBE01}[0x000A]Ton devoir en tant que Dresseur est de rassembler[0x000A]des Badges, comme tu le sais.{0xBE00}[0x000A]Mais attention[0xE07F]! Les Champions sont très forts[0xE07F]!{0xBE01}[0x000A]Alors c’est là que j’interviens[0xE07F]![0x000A]Pour te donner de bons conseils[0xE07F]!
+Roxanne, la Championne d’Arène de cette ville,[0x000A]utilise des Pokémon de type Roche.{0xBE01}[0x000A]Le type Roche se caractérise par sa résistance,[0x000A]mais il supporte mal les capacités de type Eau{0xBE00}[0x000A]et Plante.{0xBE01}[0x000A]Reviens me voir si tu arrives à battre la Championne[0x000A]d’Arène.{0xBE01}[0x000A]Allez, vas-y[0xE07F]!
+Waouh[0xE07F]! Quelle victoire époustouflante[0xE07F]![0x000A]Mes encouragements ont servi[0xE07F]!{0xBE01}[0x000A]Maintenant, vérifie ta Carte de Dresseur.{0xBE01}[0x000A]Le Badge Roche, que tu as obtenu,[0x000A]doit y être enregistré correctement.{0xBE01}[0x000A]Autrement dit…{0xBE01}[0x000A]Tu as fait le premier pas vers le rang[0x000A]de Maître[0xE07F]!{0xBE01}[0x000A]Tu peux être fi{0x1100,0x00FF,0x0302}erère de toi[0xE07F]!
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+J’étais sûre que ton équipe et toi parviendriez[0x000A]jusqu’à moi.{0xBE01}[0x000A]Accepterais-tu de me montrer comment tu te bats,[0x000A]et avec quels Pokémon[0xE07F]?
+{0xBDFF:0x000B}
+Je suis forcée de m’incliner…{0xBE01}[0x000A]Je te prie d’accepter ce Badge Roche officiel de la Ligue[0x000A]Pokémon.{0xBE01}[0x000A]Selon les règles, tout Dresseur qui parvient à me vaincre[0x000A]y a droit.
+{0x0100,0x0000} reçoit le Badge Roche de Roxanne.
+Le Badge Roche permet aux Pokémon d’utiliser la CS[0x000A]Coupe en dehors des combats.{0xBE01}[0x000A]Avec lui, les Pokémon de niveau 20 ou inférieur que[0x000A]l’on te confie t’obéiront au doigt et à l’œil.{0xBE01}[0x000A]Et enfin[0xE08D] j’ai pensé que ceci pourrait aussi t’être utile.
+Tomberoche provoque un éboulement qui inflige[0x000A]des dégâts à l’adversaire et affecte sa Vitesse.{0xBE01}[0x000A]Les CT permettent d’enseigner instantanément[0x000A]une capacité à un Pokémon.{0xBE01}[0x000A]Elles peuvent être réutilisées autant qu’on veut,[0x000A]alors n’hésite pas à t’en servir[0xE07F]!
+Puisque tu es si fort{0x1100,0x00FF,0x0100}e, je te recommande de défier[0x000A]les autres Champions.{0xBE01}[0x000A]Plus on affronte de Dresseurs, plus on apprend[0x000A]de choses.
+Arène de Mérouville
+Arène de Mérouville[0x000A]Championne : Roxanne{0xBE01}[0x000A]Dresseur certifié :[0x000A]{0x0100,0x0000}
+Bonjour[0xE07F]![0x000A]J’imagine que tu viens tenter ta chance[0xE07F]?
+Je m’appelle Roxanne.[0x000A]Je suis la Championne de Mérouville.
+Pour me hisser à ce niveau, j’ai mis en pratique tout[0x000A]ce que j’ai appris à l’École de Dresseurs Pokémon.
+Si tu parviens à me battre, je te remettrai un Badge[0x000A]qui prouvera ta valeur en tant que Dresseur.{0xBE00}[0x000A]Relèveras-tu mon défi[0xE07F]?
+J’espère que ta réponse sera positive.[0x000A]Je suis impatiente de t’affronter.{0xBE01}[0x000A]Mes respects.
+Plusieurs fossiles sont exposés.
+Il est écrit «[0xE07F]Bois pétrifié[0xE07F]» sur la plaque de description[0x000A]de ce fossile.
+Des outils servant à extraire les fossiles.
+Cet ambre est magnifique[0xE07F]!
+Il est écrit «[0xE07F]Roche de Kalos[0xE07F]» sur la plaque[0x000A]de description de cette pierre.{0xBE01}[0x000A]Elle proviendrait d’un lieu nommé Grotte Étincelante.
+Tu as donc atteint le niveau de Maître.[0x000A]Toutes mes félicitations[0xE07F]!{0xBE01}[0x000A]Je me souviens avec nostalgie de notre rencontre,[0x000A]et du moment où je t’ai remis le Badge Roche.{0xBE01}[0x000A]J’aimerais tant ressentir de nouveau l’émotion qui[0x000A]m’a envahie pendant notre combat…{0xBE01}[0x000A]J’espère avoir encore une fois l’occasion[0x000A]de t’affronter un jour[0xE07F]!
+J’ai parmi mes connaissances une personne répondant[0x000A]au nom de Pierre.{0xBE01}[0x000A]Quand on en vient à parler de gemmes rares ou de[0x000A]Pokémon Acier, je peux voir ses yeux briller et sentir{0xBE00}[0x000A]sa respiration s’accélérer…{0xBE01}[0x000A]L’expression sur son visage change alors du tout au tout,[0x000A]à tel point qu’il semble devenir quelqu’un d’autre.
+Arène de Mérouville[0x000A]Championne : Roxanne{0xBE01}[0x000A]Dresseurs certifiés :[0x000A]{0x0100,0x0000}, Timmy
+Cette maquette est intitulée «[0xE07F]Strates de la périphérie[0x000A]d’Autéquia[0xE07F]».{0xBE01}[0x000A]Il est écrit qu’il existe de nombreux fossiles enfouis[0x000A]dans les alentours de la ville.

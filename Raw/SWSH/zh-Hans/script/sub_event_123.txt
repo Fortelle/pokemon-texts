@@ -1,0 +1,15 @@
+sub_event_123_director_01=嘿！我是游戏总监！
+sub_event_123_director_02=哇！[0x000A]你正在努力完成宝可梦图鉴吗？
+sub_event_123_director_03=谢谢！[0x000A]要继续努力寻找宝可梦哦！
+sub_event_123_director_04=对了！这个护符送给你，[0x000A]它对捕捉宝可梦很有帮助的！
+sub_event_123_director_05=哪天你完成了宝可梦图鉴，[0x000A]记得告诉我一声啊！
+sub_event_123_director_06=要完成宝可梦图鉴确实不容易，[0x000A]但我希望你能继续努力！{0xBE01}[0x000A]完成图鉴之后，[0x000A]别忘了拿来让我看看哦！
+sub_event_123_director_07=……哇！好厉害！{0xBE01}[0x000A]你真的完成了宝可梦图鉴！
+sub_event_123_director_08=恭喜你！[0x000A]这真是太了不起了！
+sub_event_123_director_14=为了称赞你取得的这个伟大成就，[0x000A]请允许我对你进行表彰！
+sub_event_123_director_09=同时！请让我在你的联盟卡上[0x000A]加上这个标记！
+sub_event_123_director_10=这样就行了！
+sub_event_123_director_11=这实在太让我开心了！[0x000A]这个护符也送给你吧！
+sub_event_123_director_12=希望你对宝可梦的喜爱[0x000A]永远都不会改变！
+sub_event_123_director_13=恭喜你完成宝可梦图鉴！{0xBE01}[0x000A]呵呵，只要你想听，[0x000A]不管几次我都会表彰你的！
+sub_event_123_system_01=已在{0x0100,0x0000}的联盟卡上[0x000A]添加了完成图鉴的标记！

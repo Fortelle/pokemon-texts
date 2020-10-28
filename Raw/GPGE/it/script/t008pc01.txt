@@ -1,0 +1,6 @@
+msg_t008pc01_middlem_01=Un solo Pokémon forte non basta per vincere.{0xBE01}[0x000A]Allo stesso tempo, però, non è facile allenare[0x000A]molti Pokémon in modo equilibrato.
+msg_t008pc01_adultf_01=C’è un passaggio stretto a ovest di Smeraldopoli.{0xBE01}[0x000A]Porta alla Lega Pokémon, l’organizzazione[0x000A]di riferimento per tutti gli Allenatori.
+msg_t008pc01_boyscout_01=Se stai cercando di completare il Pokédex,[0x000A]ti consiglio di visitare il GO Park.
+msg_t008pc01_book_01=C’è una rivista intitolata[0x000A]“Pokérotocalco: le interviste”.
+msg_t008pc01_select_01=Vuoi leggerla?
+msg_t008pc01_book_02=Il presidente del Pokémon Fan Club ci rivela[0x000A]i suoi segreti:{0xBE01}[0x000A]“Quando si coccolano i Pokémon è importante[0x000A]avere un tocco molto leggero.{0xBE01}[0x000A]Per esempio, io accarezzo il mio Rapidash così...[0x000A]Seguendo delicatamente il verso del pelo...{0xBE01}[0x000A]... Ooh! Com’è liscio! È così piacevole al tatto...[0x000A]Come una leggera brezza che accarezza il viso...{0xBE01}[0x000A]E poi... È così liscio... Davvero irresistibile...![0x000A]Mh... Ehm... Che cosa stavo dicendo?”

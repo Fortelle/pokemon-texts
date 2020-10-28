@@ -1,0 +1,15 @@
+main_event_0570_counterw_01=你好，是道馆挑战者吧？[0x000A]乐意为你服务！
+main_event_0570_counterw_02=简单复习一下[0x000A]什么是道馆挑战吧。{0xBE01}[0x000A]你需要完成道馆任务，[0x000A]战胜道馆馆主，{0xBE00}[0x000A]集齐８个道馆徽章才行！
+main_event_0570_select_01=知道了
+main_event_0570_select_02=道馆任务？
+main_event_0570_counterw_03=那么，你要开始道馆挑战吗？
+main_event_0570_select_03=要！
+main_event_0570_select_04=等一下
+main_event_0570_counterw_04={0xFF00,0x0001}道馆任务{0xFF00,0x0000}好比测试身手，[0x000A]要先攻破这一关，{0xBE00}[0x000A]才能挑战道馆馆主。{0xBE01}[0x000A]每个宝可梦道馆都有[0x000A]不同的道馆任务。
+main_event_0570_counterw_05=如果你要开始道馆挑战的话，[0x000A]就请先换上竞技服吧。
+main_event_0570_counterw_06=道馆挑战开始！[0x000A]期待你的最佳表现！
+main_event_0570_counterw_07=你要再次挑战道馆任务吗？{0xBE01}[0x000A]送你一句我喜欢的成语吧！[0x000A]那就是……“永不放弃”！
+main_event_0570_counterw_08=恭喜你完成了道馆任务！{0xBE01}[0x000A]给你一个建议！[0x000A]那就是和道馆馆主比赛时，{0xBE00}[0x000A]一定要和宝可梦配合默契才行！
+main_event_0570_counterw_09=好吧！随时欢迎你来挑战。
+main_event_0570_counterw_10={0xBDFF:0x000D}
+main_event_0570_counterw_11={0xBDFF:0x000E}

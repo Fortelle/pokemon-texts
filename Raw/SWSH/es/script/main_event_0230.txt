@@ -1,0 +1,10 @@
+main_event_0230_rival_01=Esta es la primera vez que entras en un Centro[0x000A]Pokémon, ¿no?{0x0114,0x0005}
+main_event_0230_select_01=Sí
+main_event_0230_select_02=No
+main_event_0230_rival_02=Guay, entonces no necesitas que te explique[0x000A]cómo funciona todo.{0x0114,0x0005}
+main_event_0230_rival_03=¡Ya me lo olía! Pues como soy tan buen amigo, te[0x000A]voy a explicar todo lo que puedes hacer aquí.{0xBE01}[0x000A]¡Lo he leído en uno de los libros de mi hermano!{0x0114,0x0005}
+main_event_0230_rival_04=Mira, esta amable señorita de aquí cura a tus[0x000A]Pokémon en un pispás.{0x0114,0x0005}
+main_event_0230_rival_05=Y luego está este PC, donde se enviarán los[0x000A]Pokémon que atrapes y no quepan en tu equipo.{0xBE01}[0x000A]Puedes llevar encima hasta seis Pokémon.[0x000A]¡Que no se te olvide!{0x0114,0x0005}
+main_event_0230_youngm_01=¡En el mostrador de la Tienda Pokémon puedes[0x000A]comprar todo tipo de objetos útiles! A mí las{0xBE00}[0x000A]Pociones me han salvado de más de un aprieto.
+main_event_0230_middlem_01=¡Unos Entrenadores novatillos![0x000A]Os recomiendo hacer acopio de Pociones.
+main_event_0230_rival_06=¡Gracias, buena idea!{0xBE01}[0x000A]Yo me voy adelantando. Ya me pillas de camino[0x000A]a la Ruta 2 cuando acabes, {0x0100,0x0000}.{0x0114,0x0005}

@@ -1,0 +1,12 @@
+msg_t006gym01_gym_01=Je t’attendais, Champion{0x1100,0x00FF,0x0200}ne en herbe !{0xBE01}[0x000A]Major Bob a un surnom, ici : on l’appelle[0x000A]Mister Survolté !{0xBE01}[0x000A]C’est un expert en Pokémon Électrik, ce qui[0x000A]ne présage rien de bon pour les Pokémon Vol{0xBE00}[0x000A]et Eau !{0xBE01}[0x000A]Fais également attention à la paralysie que[0x000A]ses Pokémon peuvent infliger au{0x1101,0x00FD,0x0100}x tien{0x1101,0x00FD,0x0100}s !{0xBE01}[0x000A]Major Bob est très prudent ; ce ne sera pas[0x000A]simple d’arriver jusqu’à lui !
+msg_t006gym01_gym_02=Waouh ! Ce match était survolté !
+msg_t006gym01_statue_01=Arène Pokémon de Carmin sur Mer{0xBE01}[0x000A]Champion : Major Bob[0x000A]Vainqueurs : {0x0100,0x0001}
+msg_t006gym01_statue_02=Arène Pokémon de Carmin sur Mer{0xBE01}[0x000A]Champion : Major Bob[0x000A]Vainqueurs : {0x0100,0x0001},{0xBE00}[0x000A]{0x0100,0x0000}
+msg_t006gym01_gomi_01=Il n’y a rien que des détritus à l’intérieur.[0x000A]Dommage !
+msg_t006gym01_gomi_02=Oh ! Un bouton au fond de la poubelle ![0x000A]C’est dingue ! Appuyons dessus... *Clic*
+msg_t006gym01_gomi_05=La première barrière électrique est[0x000A]désactivée !
+msg_t006gym01_gomi_03=La deuxième barrière électrique est[0x000A]désactivée ! La voie est libre !
+msg_t006gym01_gomi_04=Oh non ! La barrière électrique est réapparue !
+msg_t006gym01_gomi_06=C’est une poubelle rouge !
+msg_t006gym01_gomi_07=C’est une poubelle bleue !
+msg_t006gym01_gomi_08=Vous avez déjà appuyé sur le bouton qui est[0x000A]au fond de cette poubelle.

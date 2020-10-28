@@ -1,0 +1,7 @@
+msg_t001r0201_sister_01=Oh! Hi, {0x0100,0x0000}!{0xBE01}[0x000A]Looking for {0x0100,0x0001}?[0x000A]He went to pick you up. Did you miss{0xBE00}[0x000A]each other?{0xBE01}[0x000A]He said that he was going to go to[0x000A]Professor Oak’s lab with you...
+msg_t001r0101_sister_02=Oh! Hi, {0x0100,0x0000}!{0xBE01}[0x000A]Looking for {0x0100,0x0001}?[0x000A]He went to pick you up. Did you miss{0xBE00}[0x000A]each other?{0xBE01}[0x000A]He said that he was going to go to[0x000A]Professor Oak’s lab with you...
+msg_t001r0101_sister_03={0x0100,0x0000}, I heard both you and[0x000A]{0x0100,0x0001} got a Pokémon!{0xBE01}[0x000A]I’m happy for you!
+msg_t001r0101_sister_04={0x0100,0x0000}, I heard both you and[0x000A]{0x0100,0x0001} got a Pokémon!{0xBE01}[0x000A]I’m happy for you!
+msg_t001r0201_map_02={0xBDFF:0x0004}
+msg_t001r0201_map_01=It’s a copy of Pokémon Journal!{0xBE01}[0x000A]It says, “If you cherish your Pokémon, they’ll love[0x000A]you in return!”
+msg_t001r0201_photo_01=It’s a picture of {0x0100,0x0001}!

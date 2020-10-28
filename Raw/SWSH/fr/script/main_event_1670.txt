@@ -1,0 +1,13 @@
+main_event_1670_telop_01=Le lendemain...
+main_event_1670_rival_01=C’est le jour J ![0x000A]J’espère que t’as bien dormi ?{0x0114,0x0005}
+main_event_1670_rival_02=Moi, j’ai grave le trac ! Je sais même pas pourquoi,[0x000A]vu que c’est pas moi qui vais combattre...{0x0114,0x0005}
+main_event_1670_stuff_01={0x0100,0x0000} ? Le Tournoi des Champions va[0x000A]commencer. Venez, je vais vous mener au stade.
+main_event_1670_rival_03=Oh ! D’où tu nous parles comme si de rien n’était ?[0x000A]On a pas oublié ce qui s’est passé hier !{0xBE01}[0x000A]Un pas de plus, et moi et {0x0101,0x0001},[0x000A]on te rétame !{0x0114,0x0005}
+main_event_1670_stuff_02=Attendez ! Il y a méprise ![0x000A]Je suis dans le camp des gentils, moi !
+main_event_1670_stuff_03=J’ai entendu parler des évènements d’hier...{0xBE01}[0x000A]Madame Liv est vraiment prête à tout[0x000A]pour assister notre président, vous comprenez...
+main_event_1670_stuff_04=Il semblerait qu’elle se soit formé une garde[0x000A]rapprochée qui n’hésite pas à avoir recours{0xBE00}[0x000A]à la force... mais je n’en fais pas partie !
+main_event_1670_stuff_05=Tous les employés présents aujourd’hui[0x000A]sont dignes de confiance, n’ayez crainte !
+main_event_1670_rival_04=Mouais... OK.[0x000A]Je suis moyen convaincu, mais bon.{0xBE01}[0x000A]Avec tout ça, c’est l’heure, {0x0100,0x0000} ![0x000A]J’ai trop hâte de voir ce combat !{0x0114,0x0005}
+main_event_1670_stuff_06=Souhaitez-vous que je vous accompagne[0x000A]au stade ?
+main_event_1670_stuff_07=Suivez-moi, je vous prie.
+main_event_1670_stuff_08=Pas de problème.{0xBE01}[0x000A]N’hésitez pas à revenir me voir si vous changez[0x000A]d’avis. Ou prenez un taxi volant, au choix !

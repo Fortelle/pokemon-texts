@@ -1,0 +1,4 @@
+msg_r0201_npc1_01=Pour se rentre dans les Terres Sauvages,[0x000A]rien de tel qu’un taxi volant !
+msg_r0301_npc2_01=Essaie donc de cuisiner un peu sur ton campement[0x000A]pour soigner t{0x1101,0x00FD,0x0202}ones Pokémon !{0xBE01}[0x000A]Utilise cette Baie, tu m’en diras des nouvelles !
+msg_r0301_npc2_02=Examine une tente pour te rendre sur un autre[0x000A]campement ! Vas-y, essaie avec la mienne !
+msg_r0301_npc3_01=Si un de tes précieux Pokémon est blessé,[0x000A]utilise une Potion pour le remettre sur pied !{0xBE01}[0x000A]S’il est empoisonné, utilise un Antidote[0x000A]pour le requinquer !{0xBE01}[0x000A]Fais le plein d’objets à la Boutique pour t’éviter[0x000A]des allers-retours laborieux au Centre Pokémon !

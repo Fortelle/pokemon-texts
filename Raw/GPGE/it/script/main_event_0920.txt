@@ -1,0 +1,16 @@
+msg_main0920_rocketchief_01={0xFF00,0x0009}Archer:{0xFF00,0x0000} Non un passo oltre!
+msg_main0920_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Uah! Ancora tu?!
+msg_main0920_rocketchief_02={0xFF00,0x0009}Archer:{0xFF00,0x0000} Sì, ancora io![0x000A]Non vi permetterò di arrivare dal capo!
+msg_main0920_rival_02={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Eh?![0x000A]Il capo, hai detto?
+msg_main0920_rival_03={0x0100,0x0000}, sai cosa significa questo?
+msg_main0920_select_01=Certo!
+msg_main0920_select_02=Giovanni è qui!
+msg_main0920_rival_04={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Quindi il Capo del[0x000A]Team Rocket si trova in questo edificio...!{0xBE01}[0x000A]Bene, in tal caso...
+msg_main0920_rival_05={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Vai, {0x0100,0x0000}![0x000A]È la nostra opportunità per sconfiggerlo!
+msg_main0920_rival_06=Io intanto penserò a questo bellimbusto!
+msg_main0920_rocketchief_03={0xFF00,0x0009}Archer:{0xFF00,0x0000} Ngh...[0x000A]Devo avvertire il capo!
+msg_main0920_rival_07={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Forza, {0x0100,0x0000}!{0xBE01}[0x000A]Vai a sconfiggere il Capo del Team Rocket[0x000A]una volta per tutte!
+msg_rival_01_p01_cave_d1007={0xBDFF:0x000C}
+msg_rival_01_p02_cave_d1007={0xBDFF:0x000D}
+msg_rival_01_p03_cave_d1007={0xBDFF:0x000E}
+msg_rival_01_p05_cave_d1007={0xBDFF:0x000F}

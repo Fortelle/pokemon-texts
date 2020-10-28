@@ -1,0 +1,14 @@
+sub_event_002_sister_01=Na, {0x0100,0x0000}![0x000A]Wie schlägst du dich so als Champ?{0x0114,0x000D}
+sub_event_002_sister_02=Wie du siehst, bin ich für meinen Teil ja eine[0x000A]ausgezeichnete Arenaleiterin.{0x0114,0x000D}
+sub_event_002_sister_03=Ich will den Leuten zeigen, dass man die Taktik[0x000A]und die Dynamik eines Kampfes auch ohne{0xBE00}[0x000A]Dynamax voll und ganz genießen kann.{0x0114,0x000D}
+sub_event_002_sister_04=Also, Champ! Was hältst du von einem[0x000A]Schaukampf?{0x0114,0x000D}
+sub_event_002_select_01=Aber immer!
+sub_event_002_select_02=Lieber ein andermal...
+sub_event_002_sister_05=Nur, damit wir uns nicht falsch verstehen:[0x000A]Ich bettele hier nicht um einen Kampf.{0xBE01}[0x000A]Ich gebe dir vielmehr die Möglichkeit,[0x000A]gegen mich anzutreten!{0x0114,0x000D}
+sub_event_002_sister_06=Tja, Spikeford ist nun mal ein Heimspiel für mich.[0x000A]Da ist es ganz normal, dass du Angst bekommst.{0x0114,0x000D}
+sub_event_002_sister_07=Nichts anderes hätte ich von dir erwartet![0x000A]Du bist echt ein toller Champ, {0x0100,0x0000}!{0x0114,0x000D}
+sub_event_002_sister_08=Ich hab da was für dich. Pass aber gut drauf auf,[0x000A]sonst kann ich sehr ungemütlich werden!{0x0114,0x000D}
+sub_event_002_sister_09=Schau ruhig wieder mal vorbei, wenn dir danach[0x000A]ist. Ich gebe dir gern ein paar Trainingseinheiten!{0x0114,0x000D}
+sub_event_002_sister_10=Da bist du ja wieder, {0x0100,0x0000}!{0xBE01}[0x000A]Du willst wohl gegen mich kämpfen, nicht wahr?[0x000A]Dann will ich mal nicht so sein! Kann’s losgehen?{0x0114,0x000D}
+sub_event_002_sister_11=Wenn es mir nicht mal gelingt, dich zu besiegen,[0x000A]dann habe ich meinen Bruder wohl doch noch{0xBE00}[0x000A]nicht übertroffen!{0x0114,0x000D}
+sub_event_002_sister_12=Kämpfe gegen einen Champ sind schon etwas[0x000A]Besonderes mit einer ganz eigenen Dynamik.{0xBE01}[0x000A]Schau bald mal wieder vorbei, okay?[0x000A]Morpeko freut sich auch schon!{0x0114,0x000D}

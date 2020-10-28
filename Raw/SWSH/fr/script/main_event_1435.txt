@@ -1,0 +1,9 @@
+main_event_1435_leader_01=Hé, {0x0100,0x0000} !{0x0114,0x0017}
+main_event_1435_leader_02=Désolé, j’ai oublié un truc. Deux, même.{0x0114,0x0017}
+main_event_1435_leader_04=D’abord, un petit cadeau bien mérité[0x000A]pour avoir terminé mon Arène comme un{0x1100,0x00FF,0x0100}e pro.{0xBE00}[0x000A]C’est la CT99 Abattage.{0x0114,0x0017}
+main_event_1435_leader_05=Et pendant que j’y suis...[0x000A]L’uniforme des champions : l’uniforme Dragon !{0x0114,0x0017}
+main_event_1435_leader_03=Challenger {0x0100,0x0000}, numéro {0x01C4,0x0001} ![0x000A]Tu as réussi le Défi des Arènes !{0xBE01}[0x000A]Maintenant, ce sont les Poké Masters[0x000A]qui commencent pour toi !{0xBE01}[0x000A]Tu vas pouvoir mettre ta force à l’épreuve !{0x0114,0x0017}
+main_event_1435_rivl_01=Roy ![0x000A]C’est moi qui vais mettre ta force à l’épreuve !{0x0114,0x0005}
+main_event_1435_leader_06=Aaah ! Et voilà le frérounet de Tarak ![0x000A]Je t’attendais, microbe !{0xBE01}[0x000A]Tu viens me parler d’épreuve, à moi ? Tu vas[0x000A]repartir en pleurant dans les jupes de ta mère !{0x0114,0x0017}
+main_event_1435_rivl_02=Ha ha ha ! J’aimerais bien voir ça ![0x000A]J’ai peaufiné ma tactique ! Attention les yeux !{0xBE01}[0x000A]Je vais entrer dans l’Histoire ! Je vais te battre,[0x000A]Roy, ensuite ce sera {0x0100,0x0000},{0xBE00}[0x000A]et pour finir, je vaincrai mon frangin !{0x0114,0x0005}
+main_event_1435_leader_07=Ciao, {0x0100,0x0000} ![0x000A]On remet ça quand tu veux !{0xBE01}[0x000A]Hésite pas à faire un tour dans les Terres[0x000A]Sauvages, histoire de t’entraîner à fond !{0x0114,0x0017}

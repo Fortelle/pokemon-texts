@@ -1,0 +1,10 @@
+msg_sub028_sys_01=자동판매기다![0x000A]마시고 싶은 음료수는...
+msg_sub028_select_01=맛있는물 {0xBD03,0x0000}{0x0202,0x0001}원
+msg_sub028_select_02=미네랄사이다 {0xBD03,0x0000}{0x0202,0x0001}원
+msg_sub028_select_03=후르츠밀크 {0xBD03,0x0000}{0x0202,0x0001}원
+msg_sub028_select_04=필요 없다
+msg_sub028_sys_02=돈이 부족하다!
+msg_sub028_sys_03={0x0109,0x0004}{0x1900,0x0003} 나왔다!
+msg_sub028_sys_04=더 이상 지닐 수 없다!
+msg_sub028_sys_05=그만뒀다!
+msg_sub028_sys_06=하나 더 살까?

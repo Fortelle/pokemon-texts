@@ -1,0 +1,8 @@
+main_event_1725_leader_01=Mary! Non puoi entrare qui!{0x0114,0x0016}
+main_event_1725_sister_01=Scusa, {0x0100,0x0000}!{0x0114,0x000D}
+main_event_1725_sister_02=Credevo che mio fratello mi avrebbe vendicata[0x000A]contro Laburno... e invece ha perso anche lui!{0x0114,0x000D}
+main_event_1725_sister_03=Ora per colpa tua tutti penseranno che siamo[0x000A]una famiglia di schiappe!{0x0114,0x000D}
+main_event_1725_leader_02=Ma piantala! La verità è che Laburno ha una[0x000A]forza incredibile.{0xBE01}[0x000A]Però io ho mostrato a tutti che si può lottare[0x000A]con fierezza anche senza Dynamax.{0x0114,0x0016}
+main_event_1725_sister_04=Proprio per questo volevo che vincessi!{0xBE01}[0x000A]Te lo meritavi davvero... È stata una delle[0x000A]migliori sfide che abbia mai visto.{0x0114,0x000D}
+main_event_1725_sister_05={0x0100,0x0000}, ora non mi resti che tu![0x000A]Non mi deludere! Faccio il tifo per te!{0x0114,0x000D}
+main_event_1725_leader_03=Scusa per questo trambusto subito prima[0x000A]dell’incontro...{0xBE01}[0x000A]Ad ogni modo, Laburno ti sta aspettando[0x000A]nell’arena. Vai e stai tranquill{0x1100,0x00FF,0x0101}oa...{0xBE00}[0x000A]So che ti farai valere!{0x0114,0x0016}

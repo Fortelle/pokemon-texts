@@ -1,0 +1,15 @@
+sub_event_123_director_01=Bonjour, je suis le réalisateur du jeu !
+sub_event_123_director_02=Mais que vois-je ?[0x000A]Tu cherches à compléter le Pokédex ?
+sub_event_123_director_03=Tu m’en vois ravi ![0x000A]Bon courage pour tous les trouver !
+sub_event_123_director_04=Mais j’y pense ![0x000A]J’ai ici un objet qui devrait t’être très utile !
+sub_event_123_director_05=Préviens-moi lorsque tu auras complété[0x000A]le Pokédex !
+sub_event_123_director_06=Compléter le Pokédex n’est pas une tâche facile,[0x000A]mais tu y parviendras si tu persévères !{0xBE01}[0x000A]Quand tu auras réussi, pense à me le montrer,[0x000A]d’accord ?
+sub_event_123_director_07=Mais... ! Je n’arrive pas à y croire ![0x000A]Tu as complété le Pokédex !
+sub_event_123_director_08=Toutes mes félicitations ![0x000A]Tu as accompli un véritable exploit !
+sub_event_123_director_14=Pour honorer ton exceptionnelle performance,[0x000A]laisse-moi te remettre ce magnifique diplôme !
+sub_event_123_director_09=Je vais rajouter un petit quelque chose[0x000A]sur ta carte de Ligue, tant que j’y suis !
+sub_event_123_director_10=Et hop, voilà !
+sub_event_123_director_11=Et comme je suis vraiment ravi de ta réussite,[0x000A]je t’offre ceci en prime !
+sub_event_123_director_12=J’espère que tu continueras de vouer un amour[0x000A]inconditionnel aux Pokémon !
+sub_event_123_director_13=Félicitations, pour ton Pokédex ![0x000A]Je ne me lasse pas de te le répéter, ha ha !
+sub_event_123_system_01=La marque d’achèvement du Pokédex[0x000A]a été apposée sur votre carte de Ligue !

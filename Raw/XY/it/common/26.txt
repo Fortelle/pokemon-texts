@@ -1,0 +1,97 @@
+{0x0102,0x0000}
+Punti base
+MAX!
+{0x0202,0x0000}
++ {0x0202,0x0000}
+- {0x0202,0x0000}
+{0x0102,0x0000} ha trovato[0x000A]un {0x010A,0x0001}!{0xBE02:0x001E}
+Vuoi che {0x0102,0x0000}[0x000A]usi il {0x010A,0x0001}?
+Vuoi buttare il {0x010A,0x0000}?
+{0x0102,0x0000} sta già[0x000A]beneficiando degli effetti[0x000A]del {0x010A,0x0001}.[0x000A]Se passerà al {0x010A,0x0002},[0x000A]il {0x010A,0x0001} non avrà[0x000A]più effetto.[0x000A]Vuoi usare il {0x010A,0x0002}?
+{0x0102,0x0000} sta già facendo[0x000A]l’Allenamento Base con[0x000A]il {0x010A,0x0001}.[0x000A]Se passerà al {0x010A,0x0002},[0x000A]dovrai buttare il vecchio[0x000A]{0x010A,0x0001}.[0x000A]Vuoi usare il {0x010A,0x0002}?
+Sembra che {0x0102,0x0000} non abbia voglia[0x000A]di dedicarsi all’Allenamento Base.{0xBE01}[0x000A]Tieni da parte il sacco di sabbia per quando[0x000A]sarà più in forma.
+Sembra che {0x0102,0x0000} sia di nuovo in[0x000A]forma. Adesso potrà dare il meglio di sé!
+Usa
+Butta
+Indietro
+Sì
+No
+
+◆{0x010A,0x0000}[0x000A]Allenamento Base veloce per far[0x000A]aumentare un po’ i punti base[0x000A]dei PS.
+◆{0x010A,0x0000}[0x000A]Allenamento Base medio per far[0x000A]aumentare discretamente i punti[0x000A]base dei PS.
+◆{0x010A,0x0000}[0x000A]Allenamento Base intensivo per[0x000A]far aumentare di molto i punti[0x000A]base dei PS.
+◆{0x010A,0x0000}[0x000A]Allenamento Base veloce per far[0x000A]aumentare un po’ i punti base[0x000A]dell’Attacco.
+◆{0x010A,0x0000}[0x000A]Allenamento Base medio per far[0x000A]aumentare discretamente i punti[0x000A]base dell’Attacco.
+◆{0x010A,0x0000}[0x000A]Allenamento Base intensivo per[0x000A]far aumentare di molto i punti[0x000A]base dell’Attacco.
+◆{0x010A,0x0000}[0x000A]Allenamento Base veloce per far[0x000A]aumentare un po’ i punti base[0x000A]della Difesa.
+◆{0x010A,0x0000}[0x000A]Allenamento Base medio per far[0x000A]aumentare discretamente i punti[0x000A]base della Difesa.
+◆{0x010A,0x0000}[0x000A]Allenamento Base intensivo per[0x000A]far aumentare di molto i punti[0x000A]base della Difesa.
+◆{0x010A,0x0000}[0x000A]Allenamento Base veloce per far[0x000A]aumentare un po’ i punti base[0x000A]dell’Attacco Speciale.
+◆{0x010A,0x0000}[0x000A]Allenamento Base medio per far[0x000A]aumentare discretamente i punti[0x000A]base dell’Attacco Speciale.
+◆{0x010A,0x0000}[0x000A]Allenamento Base intensivo per[0x000A]far aumentare di molto i punti[0x000A]base dell’Attacco Speciale.
+◆{0x010A,0x0000}[0x000A]Allenamento Base veloce per[0x000A]far aumentare un po’ i punti[0x000A]base della Difesa Speciale.
+◆{0x010A,0x0000}[0x000A]Allenamento Base medio per far[0x000A]aumentare discretamente i punti[0x000A]base della Difesa Speciale.
+◆{0x010A,0x0000}[0x000A]Allenamento Base intensivo per[0x000A]far aumentare di molto i punti[0x000A]base della Difesa Speciale.
+◆{0x010A,0x0000}[0x000A]Allenamento Base veloce per far[0x000A]aumentare un po’ i punti base[0x000A]della Velocità.
+◆{0x010A,0x0000}[0x000A]Allenamento Base medio per far[0x000A]aumentare discretamente i punti[0x000A]base della Velocità.
+◆{0x010A,0x0000}[0x000A]Allenamento Base intensivo per[0x000A]far aumentare di molto i punti[0x000A]base della Velocità.
+◆{0x010A,0x0000}[0x000A]Nel prossimo Super Allenamento[0x000A]il Pokémon guadagnerà più punti[0x000A]per i tiri andati a segno.
+◆{0x010A,0x0000}[0x000A]Nel prossimo Super Allenamento[0x000A]il Pokémon perderà meno punti[0x000A]quando viene colpito.
+◆{0x010A,0x0000}[0x000A]Nel prossimo Super Allenamento[0x000A]il Pokémon si muoverà[0x000A]più velocemente.
+◆{0x010A,0x0000}[0x000A]Nel prossimo Super Allenamento[0x000A]i tiri del Pokémon risulteranno[0x000A]più precisi.
+◆{0x010A,0x0000}[0x000A]Nel prossimo Super Allenamento[0x000A]i punti base ottenuti dal Pokémon[0x000A]saranno raddoppiati.
+◆{0x010A,0x0000}[0x000A]Sacco con il logo del Team Flare.[0x000A]Perfetto per sfogarsi...!
+◆{0x010A,0x0000}[0x000A]Riporta ai valori originali tutti[0x000A]i punti base del Pokémon.
+◆{0x010A,0x0000}[0x000A]Rafforza un po’ l’affetto del[0x000A]Pokémon per il suo Allenatore.
+Avanti![0x000A]Vediamo che cosa sai fare!
+Un due, un due...[0x000A]Forza!
+Tre, quattro... e al cinque dacci dentro!
+Ancora! Ancora![0x000A]Non risparmiare quei muscoli!
+La forza fa la differenza nelle lotte!
+La miglior difesa è l’attacco! Coraggio!
+Colpisci! Colpisci! Colpisciiii!
+Bisogna sudare per diventare più forti!
+Il miglior attacco è la difesa! Coraggio!
+Più veloce! Ancora più veloce![0x000A]Voglio sentire il vento soffiare!
+Così! Più veloce della luce!
+Sempre più veloce!
+Raddoppia! Raddoppia tutto!
+Energia! Energia![0x000A]Ti voglio al 200%!
+Dacci dentro se vuoi una ricompensa doppia!
+Vai così! Vai, vai! Non fermarti!
+Forza! Impeto![0x000A]Brucia quelle calorie!
+Colpisci nel nome della giustizia!
+Tutto qui quello che sai fare?!
+Insisti![0x000A]I tuoi sforzi saranno premiati!
+È un lavoro duro, ma ne vale la pena!
+Amore! Amicizia! Grinta!
+Per rafforzare i legami ci vuole costanza[0x000A]e dedizione, come per i muscoli!
+Così! La fiducia si guadagna con l’impegno!
+I punti base dei PS di {0x0102,0x0000}[0x000A]sono aumentati!
+I punti base dell’Attacco di {0x0102,0x0000}[0x000A]sono aumentati!
+I punti base della Difesa di {0x0102,0x0000}[0x000A]sono aumentati!
+I punti base dell’Attacco Speciale di[0x000A]{0x0102,0x0000} sono aumentati!
+I punti base della Difesa Speciale di[0x000A]{0x0102,0x0000} sono aumentati!
+I punti base della Velocità di {0x0102,0x0000}[0x000A]sono aumentati!
+Nel prossimo Super Allenamento, i tiri di[0x000A]{0x0102,0x0000} faranno più punti!
+Nel prossimo Super Allenamento,[0x000A]{0x0102,0x0000} perderà meno punti!
+Nel prossimo Super Allenamento,[0x000A]{0x0102,0x0000} sarà più veloce!
+Nel prossimo Super Allenamento, i tiri di[0x000A]{0x0102,0x0000} saranno più precisi!
+Nel prossimo Super Allenamento,[0x000A]{0x0102,0x0000} riceverà punti base doppi!
+{0x0102,0x0000} sprizza energia!
+Tutti i punti base di {0x0102,0x0000} sono[0x000A]stati riportati ai valori originali...
+L’affetto provato da {0x0102,0x0000} per[0x000A]{0x0100,0x0001} è aumentato un po’!
+Fantastico! Una forma smagliante è il primo[0x000A]passo per un futuro radioso!
+Incredibile quanto un Pokémon possa[0x000A]essere agile!
+Eccola! La supermossa!
+Questo è il SAV!{0xBE01}[0x000A]Allena intensamente i tuoi Pokémon per[0x000A]aiutarli a raggiungere una forma perfetta.{0xBE01}[0x000A]Per prima cosa, tocca l’icona del Super[0x000A]Allenamento in basso a sinistra.
+Per prima cosa, tocca l’icona del Super[0x000A]Allenamento in basso a sinistra.
+E ora vediamo come usare il sacco di sabbia.[0x000A]Tocca l’icona in basso a destra.
+Tocca l’icona in basso a destra.
+Scegli un sacco di sabbia dalla lista sulla[0x000A]sinistra e toccalo.
+Questo sacco di sabbia ti permetterà di[0x000A]allenare i tuoi Pokémon.{0xBE01}[0x000A]Tocca ripetutamente il touch screen per[0x000A]colpirlo e i risultati non si faranno attendere!{0xBE01}[0x000A]Se lasci il tuo Pokémon ad allenarsi da solo,[0x000A]colpirà il sacco più o meno ogni minuto.
+I punti base {0x1504,0x0001}{0x010D,0x0001} di[0x000A]{0x0102,0x0000} non possono più aumentare.{0xBE01}[0x000A]Non può usare il {0x010A,0x0002}.
+I punti base {0x1504,0x0001}{0x010D,0x0001} di[0x000A]{0x0102,0x0000} non possono più aumentare.{0xBE00}[0x000A]{0x1102,0x0001,0x0606,0x0606}Il suoLa suaI suoiLe sue {0x010D,0x0001} {0x1101,0x0001,0x0401}èsono al massimo!
+I punti base di {0x0102,0x0000}[0x000A]non possono più aumentare.{0xBE01}[0x000A]Non può usare il {0x010A,0x0002}.
+Sembra che {0x0102,0x0000} non abbia voglia[0x000A]di dedicarsi al Super Allenamento.{0xBE01}[0x000A]Fallo riprovare quando sarà più in forma.
+I punti base di {0x0102,0x0000}[0x000A]non possono più aumentare!

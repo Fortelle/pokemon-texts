@@ -1,0 +1,36 @@
+Der Professor erforscht die Entwicklung[0x000A]und den Wandel der Pokémon.{0xBE01}[0x000A]In jungen Jahren hat er offenbar sehr viel von[0x000A]Professor Eibe aus der Sinnoh-Region gelernt.
+Ich entwickele gerade ein Gerät,[0x000A]das mir bei meiner Forschung helfen wird.{0xBE01}[0x000A]Doch das ist alles andere als einfach![0x000A]Gedulde dich bitte, bis es vollendet ist!
+Hallo, {0x0100,0x0000}.{0xBE01}[0x000A]Ich habe ein Gerät entwickelt, das uns die[0x000A]Pokémon-Forschung deutlich erleichtern wird.{0xBE01}[0x000A]Du kannst es gerne ausprobieren, wenn du magst.[0x000A]Tester kann ich immer gebrauchen!
+Ich habe es „Pokémon-Radar“ getauft,[0x000A]kurz: „Pokéradar“.{0xBE01}[0x000A]Setze es im hohen Gras ein, um zu erfahren,[0x000A]wo sich in deiner Nähe Pokémon verstecken.{0xBE01}[0x000A]Es ist ein regelrechtes Wunder der Technik!
+Doch das ist noch längst nicht alles!{0xBE01}[0x000A]Spürst du ein Pokémon auf, sucht dieses[0x000A]Maschinchen nach weiteren Vertretern{0xBE00}[0x000A]derselben Pokémon-Art!{0xBE01}[0x000A]Eine Garantie, dass du auch ein Pokémon findest,[0x000A]tja, die gibt es hingegen leider nicht...
+Das Geniale am Pokéradar ist, dass man damit[0x000A]Pokémon derselben Art aufspüren kann.{0xBE01}[0x000A]Wie du sicher weißt, können verschiedene Pokémon[0x000A]derselben Art viele Unterschiede aufweisen.{0xBE01}[0x000A]Und um diese Unterschiede zu untersuchen,[0x000A]benötige ich Daten von möglichst vielen{0xBE00}[0x000A]Pokémon derselben Art.
+Auf dem Bildschirm des Großrechners dort wird[0x000A]das Pokémon angezeigt, das den Forschungs-{0xBE00}[0x000A]schwerpunkt des jeweiligen Tages darstellt.{0xBE01}[0x000A]Sei doch so gut und geh mir bei meiner[0x000A]Forschung zur Hand, wenn du Zeit hast.{0xBE01}[0x000A]Ich stelle dir gerne täglich meinen aktuellen[0x000A]Forschungsschwerpunkt vor.
+Hallo, {0x0100,0x0000}.{0xBE01}[0x000A]Schwerpunkt der heutigen Forschung ist[0x000A]das Pokémon {0x0101,0x0001}.{0xBE01}[0x000A]Vielen Dank im Voraus!
+Hallo, {0x0100,0x0000}.{0xBE01}[0x000A]Möchtest du mir deine Daten zu {0x0101,0x0001},[0x000A]dem Schwerpunkt der heutigen Forschung, zeigen?
+Oh, {0x0203,0x0002,0x0020} Pokémon...[0x000A]Danke für deine Bemühungen.
+Oh, {0x0203,0x0002,0x0020} Pokémon...[0x000A]Klasse! Vielen Dank!
+Oh, {0x0203,0x0002,0x0020} Pokémon...[0x000A]Das hilft mir sehr. Tausend Dank!
+Oh, {0x0203,0x0002,0x0020} Pokémon! Unglaublich!{0xBE01}[0x000A]Damit erweist du meiner Forschung einen[0x000A]sehr großen Dienst. Vielen lieben Dank!
+Hier, das ist ein kleines Dankeschön von mir!
+Denke daran: Ich zähle auf dich!
+Es gibt männliche und weibliche Pokémon[0x000A]sowie solche, deren Geschlecht unbekannt ist.{0xBE01}[0x000A]Zudem weist das Aussehen mancher Pokémon[0x000A]geschlechtsspezifische Unterschiede auf.
+Um die Bande zu seinen Pokémon zu stärken,[0x000A]gibt es nichts Besseres, als viel Zeit mit ihnen{0xBE00}[0x000A]zu verbringen.{0xBE01}[0x000A]Hier, diese Bälle werden dir bestimmt helfen!
+Mit einem Luxusball gefangene Pokémon[0x000A]freunden sich leichter mit dir an.
+Pokémon verfügen über rätselhafte Kräfte,[0x000A]die Fähigkeiten genannt werden.{0xBE01}[0x000A]Manche dieser Fähigkeiten entfalten ihre[0x000A]Wirkung während eines Kampfes,{0xBE01}[0x000A]andere wiederum, wenn du das Pokémon[0x000A]in deinem Team mit dir führst.
+Ich habe gehört, dass es ein Pokémon gibt,[0x000A]das man nur erforschen kann, wenn man eine{0xBE00}[0x000A]Waschmaschine und einen Fernseher hat!
+Dieser Großrechner fungiert als Verbindung[0x000A]zu anderen nützlichen Forschungshilfsmitteln.
+{0x0100,0x0000} schaltet den Großrechner ein.
+Welche Rekorde willst du einsehen?
+Schwerpunktrekord
+Neuester Rekord
+Alte Rekorde
+Abbrechen
+Schwerpunktrekord:[0x000A]{0x0203,0x0002,0x0020} {0x0101,0x0001}
+Es liegt kein Rekord vor.
+Neuester Rekord:[0x000A]{0x0203,0x0002,0x0020} {0x0101,0x0001}
+Es liegt kein Rekord vor.
+Alte Rekorde (Platz 1)[0x000A]{0x0203,0x0002,0x0020} {0x0101,0x0001}
+Alte Rekorde (Platz 2)[0x000A]{0x0203,0x0004,0x0020} {0x0101,0x0003}{0xBE01}[0x000A]Alte Rekorde (Platz 1)[0x000A]{0x0203,0x0002,0x0020} {0x0101,0x0001}
+Alte Rekorde (Platz 3)[0x000A]{0x0203,0x0006,0x0020} {0x0101,0x0005}{0xBE01}[0x000A]Alte Rekorde (Platz 2)[0x000A]{0x0203,0x0004,0x0020} {0x0101,0x0003}{0xBE01}[0x000A]Alte Rekorde (Platz 1)[0x000A]{0x0203,0x0002,0x0020} {0x0101,0x0001}
+Es liegen keine Rekorde vor.
+Es gibt kein schöneres Gefühl, als im Kampf mit[0x000A]seinen Pokémon auf einer Wellenlänge zu liegen.

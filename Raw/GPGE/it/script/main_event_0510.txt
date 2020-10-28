@@ -1,0 +1,11 @@
+msg_main0510_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Ehilà! Che sorpresa,[0x000A]{0x0100,0x0000}!
+msg_main0510_rival_02=Che ci fai qui?!{0xBE01}[0x000A]No-Non mi dire che...[0x000A]È successo qualcosa ai tuoi Pokémon...!
+msg_main0510_rival_07=Ah, menomale, che sollievo![0x000A]Mi hai fatto spaventare per un attimo!
+msg_main0510_rival_03=Beh, allora approfittiamone... {0x0100,0x0000}![0x000A]Fammi vedere quanto è in salute il tuo Pokémon!
+msg_main0510_rival_04=Beh, allora approfittiamone... {0x0100,0x0000}![0x000A]Fammi vedere quanto sono in salute{0xBE00}[0x000A]i tuoi Pokémon!
+msg_main0510_dummy_01={0xBDFF:0x0005}
+msg_main0510_rival_05=Oh no! La nostra lotta ha spaventato[0x000A]Cubone! Lo abbiamo fatto scappare...{0xBE01}[0x000A]{0x0100,0x0000}, hai presente Cubone?[0x000A]Porta un teschio sulla testa.
+msg_main0510_rival_06=Sembrava che stesse cercando qualcosa...[0x000A]Che si sia rifugiato su uno dei piani superiori?
+msg_rival_01_p01_cave_d1702={0xBDFF:0x0008}
+msg_rival_01_p02_cave_d1702={0xBDFF:0x0009}
+msg_rival_01_p03_cave_d1702={0xBDFF:0x000A}

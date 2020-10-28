@@ -1,0 +1,4 @@
+msg_t005r0201_poke_01={0xBDFF:0x0000}
+msg_t005r0201_youngf_01=¡Odio a esos tipejos del Team Rocket!{0xBE01}[0x000A]La pobre madre de Cubone... Intentó escapar[0x000A]de sus garras, ¡pero no lo consiguió!{0xBE01}[0x000A]Se la llevaron y, desde entonces, ya no la he[0x000A]vuelto a ver.
+msg_t005r0201_youngf_03={0xBDFF:0x0002}
+msg_t005r0201_youngf_02=El espectro que rondaba la Torre Pokémon ha[0x000A]desaparecido. ¡Alguien debe de haber calmado{0xBE00}[0x000A]su atormentada alma!{0xBE01}[0x000A]Y además un Entrenador ha adoptado al pobre[0x000A]Cubone. ¡Me alegro mucho!

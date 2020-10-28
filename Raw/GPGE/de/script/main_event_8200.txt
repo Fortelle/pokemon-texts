@@ -1,0 +1,9 @@
+msg_main8200_rival_01={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} {0x0100,0x0000}![0x000A]Bin ich froh, dich hier zu treffen!
+msg_main8200_rival_02=Ich hab’s geschafft! Ich hab die Top Vier[0x000A]besiegt und bin jetzt der neue Champ!
+msg_main8200_rival_07=Du erinnerst dich doch sicher noch an das,[0x000A]was uns der Professor erzählt hat, oder?{0xBE01}[0x000A]Als frischgebackener Champ muss ich mich jetzt[0x000A]in der Pokémon-Liga jeder Menge Trainer{0xBE00}[0x000A]stellen, um meinen Titel zu verteidigen.
+msg_main8200_rival_03=Du weißt gar nicht, wie froh ich bin, dass du[0x000A]{0x1100,0x00FF,0x1412,0x0000}mein erster Gegnermeine erste Gegnerin bist...
+msg_main8200_rival_08=Es gibt keinen Trainer, dem ich lieber zeigen will,[0x000A]wie weit ich es gebracht habe.
+msg_main8200_rival_04=Zeit für den Titelkampf, {0x0100,0x0000}![0x000A]Jetzt geht’s rund!
+msg_main8200_rival_05={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} Ich hab auf dich gewartet,[0x000A]Champ!
+msg_main8200_rival_06=Jeden Tag trainiere ich dafür, dich endlich[0x000A]schlagen zu können.{0xBE01}[0x000A]Und lass dir eins gesagt sein: Heute werde ich[0x000A]bestimmt nicht wieder verlieren!
+msg_rival_01_p01_cave_d1405={0xBDFF:0x0008}

@@ -1,0 +1,17 @@
+msg_sub020_sys_01=Un Pokémon endormi bloque le chemin.[0x000A]Il dort si paisiblement !
+msg_sub020_sys_02=Voulez-vous utiliser la Poké Flûte ?
+msg_sub020_sys_03=Vous jouez de la Poké Flûte.
+msg_sub020_sys_04=Ronflex se réveille !
+msg_sub020_sys_07=Il se lèche les babines en vous voyant !
+msg_sub020_fuji_01={0xFF00,0x0009}??? :{0xFF00,0x0000} {0x0100,0x0000} !
+msg_sub020_fuji_02={0xFF00,0x0009}M. Fuji :{0xFF00,0x0000} J’ai oublié de te dire quelque chose[0x000A]d’important quand je t’ai donné la Poké Flûte...
+msg_sub020_fuji_03=Ah, je vois que j’arrive à point nommé !
+msg_sub020_fuji_05=Voici un beau spécimen de Ronflex ![0x000A]Ce Pokémon a la fâcheuse tendance à prendre{0xBE00}[0x000A]la première chose qu’il voit au réveil pour de{0xBE00}[0x000A]la nourriture...{0xBE01}[0x000A]Dans sa confusion, il peut se montrer agressif.
+msg_sub020_fuji_06=Il devient alors très dangereux, mais il se calme[0x000A]si tu arrives à le vaincre !
+msg_sub020_fuji_07=Une fois battu, il peut être capturé comme[0x000A]n’importe quel autre Pokémon.
+msg_sub020_sys_06=Ronflex n’a pas les idées claires ![0x000A]Il vous attaque !
+msg_sub020_sys_05=Ronflex s’est calmé ! Il est reparti vers la[0x000A]montagne après avoir bâillé un grand coup !
+msg_sub020_fuji_08={0xFF00,0x0009}M. Fuji :{0xFF00,0x0000} Joli travail, {0x0100,0x0000} !
+msg_sub020_fuji_09={0xFF00,0x0009}M. Fuji :{0xFF00,0x0000} Oh, zut... Je suis désolé pour toi,[0x000A]{0x0100,0x0000}...
+msg_sub020_fuji_10=Il arrive parfois que certains Pokémon attaquent[0x000A]des Dresseurs, comme ce Ronflex vient de{0xBE00}[0x000A]le faire avec toi.{0xBE01}[0x000A]Dans ces cas-là, ne te laisse pas impressionner[0x000A]et vaincs-les pour avoir une chance de{0xBE00}[0x000A]les attraper !
+msg_sub020_fuji_11=Sur ce, je te laisse. Bonne continuation !

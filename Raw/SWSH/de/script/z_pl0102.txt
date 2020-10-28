@@ -1,0 +1,10 @@
+msg_pl0102_npc1_01=Entschuldige, aber hier haben nur befugte[0x000A]Personen Zutritt.
+msg_pl0102_npc4_01=Die erste Runde des Finalturniers steht bevor.{0xBE01}[0x000A]Bitte begib dich zum Kampfplatz, sobald du[0x000A]bereit bist.
+msg_pl0102_npc4_02=Das Halbfinale des Finalturniers steht bevor.{0xBE01}[0x000A]Bitte begib dich zum Kampfplatz, sobald du[0x000A]bereit bist.
+msg_pl0102_npc4_03=Die Endrunde des Finalturniers steht bevor!{0xBE01}[0x000A]Bitte begib dich zum Kampfplatz, sobald du[0x000A]bereit bist.
+msg_pl0102_npc4_07=Gleich ist es so weit. Das Champ-Match beginnt!{0xBE01}[0x000A]Bitte begib dich zum Kampfplatz, sobald du[0x000A]bereit bist.
+msg_pl0102_npc4_04=Das Vorturnier beginnt gleich!{0xBE01}[0x000A]Nur vier Trainer konnten die Arena-Challenge[0x000A]abschließen. Ich bin überaus gespannt, wer von{0xBE00}[0x000A]euch sich wohl durchsetzen wird.{0xBE01}[0x000A]Ach ja, bitte begib dich zum Kampfplatz, sobald[0x000A]du bereit bist.
+msg_pl0102_npc4_05=Endlich steht das entscheidende Match des[0x000A]Vorturniers bevor.{0xBE01}[0x000A]Wer hätte gedacht, dass gerade die beiden[0x000A]Trainer, die eine Empfehlung vom Champ haben,{0xBE00}[0x000A]hier gegeneinander antreten würden?{0xBE01}[0x000A]Bitte begib dich zum Kampfplatz, sobald du[0x000A]bereit bist.
+msg_pl0102_npc4_06=Die Eröffnungszeremonie des Finalturniers[0x000A]beginnt gleich!{0xBE01}[0x000A]Bitte begib dich zum Kampfplatz, sobald du[0x000A]bereit bist.
+msg_pl0102_npc2_01=Gleich ist es so weit! Das Finale unseres[0x000A]Vorturniers steht kurz bevor!{0xBE01}[0x000A]In diesem Kampf stehen sich die Challenger[0x000A]{0x0100,0x0000} und Hop gegenüber!{0xBE01}[0x000A]Sie beide haben eine Empfehlung von unserem[0x000A]Champ höchstpersönlich erhalten!
+msg_pl0102_npc3_01=Ich bin ein Kameramann von Macro TV. Äh...[0x000A]Du weißt schon, dass ich gerade am Filmen bin?

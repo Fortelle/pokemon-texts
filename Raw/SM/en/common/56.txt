@@ -1,0 +1,127 @@
+You are out of room for gifts.{0xBE01}[0x000A]Please check your Card Album and throw away[0x000A]some old Wonder Cards.{0xBE01}[0x000A]Pick up any gifts you haven’t yet received[0x000A]from the deliveryman in any Pokémon Center.{0xBE01}
+You can receive {0x0200,0x0000} more gift{0x1101,0x0000,0x0100}s. If you want to[0x000A]receive more gifts, pick up your gifts from{0xBE00}[0x000A]the deliveryman in any Pokémon Center first.{0xBE01}
+Please choose how you want to receive[0x000A]your gift.
+Infrared communication will be launched.{0xBE01}[0x000A]Face your Nintendo 3DS system toward the[0x000A]other system, and press the A Button.
+Searching for gifts...[0x000A]Progress: {0x0202,0x0000}/100
+There was a problem with receiving the gift.{0xBE01}
+{0xBDFF:0x0006}
+Attention!{0xBE01}[0x000A]If your battery runs out or you’re disconnected[0x000A]while you’re receiving a gift with a code or a{0xBE00}[0x000A]password, you will no longer be able to receive{0xBE00}[0x000A]the gift using the same code or password.{0xBE01}[0x000A]Please check your system’s battery.[0x000A]Please also make sure there is no{0xBE00}[0x000A]communication issue.{0xBE01}[0x000A]Would you like to receive a gift with a code or[0x000A]a password?
+You will be connected to the Internet.[0x000A]Would you like to continue?
+Connecting to the Internet...[0x000A]Please stand by.
+You failed to enter the correct code or[0x000A]password, so you can’t try reentering the code{0xBE00}[0x000A]for a while.{0xBE01}[0x000A]Please try again later.{0xBE01}
+Please enter the code or password.{0xBE01}
+Verifying it...[0x000A]Don’t turn off the power.
+The code or password is incorrect.[0x000A]Please check your code.{0xBE01}
+Do you want to try entering the code or[0x000A]password again?
+The gift was not there...{0xBE01}
+As you have already received this gift, you[0x000A]cannot get another one.{0xBE01}
+Do you want to give up on receiving this gift?
+Receiving your gift...[0x000A]Don’t turn off the power.
+You can receive this gift once a day.{0xBE01}[0x000A]As you have already received this gift today,[0x000A]you cannot get another one until tomorrow.{0xBE01}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+You can receive this gift once a day.{0xBE01}[0x000A]Please note that once you receive this gift,[0x000A]you cannot get another one until the next day.{0xBE01}
+The gift has been received.[0x000A]Please press the A Button.{0xBE01}
+What would you like to do with this[0x000A]Wonder Card?
+Is it OK to throw away this card?
+This card cannot be thrown away, because[0x000A]you have not picked up your gift yet.{0xBE01}
+Please select a card to swap with.
+Saving your Card Album...[0x000A]Don’t turn off the power.
+You are out of room for gifts.{0xBE01}[0x000A]Please start the game and pick up your gifts[0x000A]from the deliveryman in any Pokémon Center.{0xBE01}
+You are out of room for Wonder Cards.{0xBE01}[0x000A]You may not accept another gift until you throw[0x000A]away one or more Wonder Cards.
+Please throw away one card you no longer need[0x000A]to keep.{0xBE01}
+You must throw away one card to receive a gift.[0x000A]Is that OK?
+Is it OK to throw away this card?
+Please choose the topic you would like to[0x000A]learn about.
+There is no gift that you can receive now.{0xBE01}[0x000A]Please press the B Button or select Back[0x000A]to end communication.{0xBE01}
+The communication will end because there are[0x000A]no more gifts to receive.{0xBE01}
+The maximum amount of gifts you can receive[0x000A]per day is 10.{0xBE01}[0x000A]As you have already received 10 gifts today,[0x000A]you cannot receive any more gifts today.{0xBE01}[0x000A]You can receive gifts again tomorrow.{0xBE01}
+Wireless communication is currently disabled.[0x000A]Please turn wireless communication on.{0xBE01}
+Update data for this software has been found.{0xBE01}[0x000A]This update data is necessary to connect to[0x000A]the Internet.{0xBE01}[0x000A]Will you close this software and go to[0x000A]Nintendo eShop to download the data?
+Ending because you cannot connect to[0x000A]the Internet.{0xBE01}
+{0xBDFF:0x002C}
+The card has been thrown away.{0xBE01}
+You still have at least one gift you can receive.[0x000A]Is it OK to quit?
+The code or password is incorrect.[0x000A]Please check your code or password.{0xBE01}
+Your game cannot receive the gift provided by[0x000A]this code or password.{0xBE01}
+Your game cannot receive the gift provided[0x000A]by this code or password.{0xBE01}
+This code has already been used.{0xBE01}[0x000A]Once a code is used, it also cannot be used in[0x000A]another game.{0xBE01}
+You have already received the gift provided[0x000A]by this code or password.{0xBE01}
+This code has been used in another game.{0xBE01}
+You cannot yet receive the gift provided by this[0x000A]code or password.{0xBE01}
+The code or password has expired.[0x000A]You cannot receive the gift.{0xBE01}
+The code/password update failed...{0xBE01}[0x000A]You cannot receive the gift provided by this[0x000A]code or password.{0xBE01}
+Receive Gift
+Check the Card Album
+Read Info
+Yes
+No
+See Back
+See Front
+Discard
+Swap
+About the Card Album
+When the Album Is Full
+About Mystery Gift
+Get via Local Wireless
+Get via Internet
+Get via Infrared
+Get with Code/Password
+{0xBDFF:0x0048}
+Back
+{0x0200,0x0000}
+/
+Info
+Select the topic you would like to learn about.
+{0x012E,0x0000}
+{0x012E,0x0000}[0x000A]{0x012E,0x0001}[0x000A]{0x012E,0x0002}[0x000A]{0x012E,0x0003}[0x000A]{0x012E,0x0004}[0x000A]{0x012E,0x0005}[0x000A]{0x012E,0x0006}[0x000A]{0x012E,0x0007}
+{0x012D,0x0000}
+A Button: Done
+Wonder Card
+Date received
+{0x0201,0x0001}/{0x0201,0x0002}/20{0x0201,0x0000}
+{0x0201,0x0000}
+/
+{0x0201,0x0000}
+Distributing the gift...{0xFF00,0x0002}“{0x012E,0x0000}”{0xFF00,0x0000}
+Delivered[0x000A]・{0x0109,0x0000} × {0x0202,0x0001}
+Delivered[0x000A]・{0x0102,0x0000} Lv. {0x0202,0x0001}
+Delivered[0x000A]・{0x0205,0x0000,0x002C} BP
+Delivered[0x000A]・{0x0109,0x0000} × {0x0202,0x0001}[0x000A]・{0x0109,0x0002} × {0x0202,0x0003}
+Delivered[0x000A]・{0x0109,0x0000} × {0x0202,0x0001}[0x000A]・{0x0109,0x0002} × {0x0202,0x0003}[0x000A]・{0x0109,0x0004} × {0x0202,0x0005}
+Delivered[0x000A]・{0x0109,0x0000} × {0x0202,0x0001}[0x000A]・{0x0109,0x0002} × {0x0202,0x0003}[0x000A]・{0x0109,0x0004} × {0x0202,0x0005}[0x000A]・{0x0109,0x0006} × {0x0202,0x0007}
+Delivered[0x000A]・{0x0109,0x0000} × {0x0202,0x0001}[0x000A]・{0x0109,0x0002} × {0x0202,0x0003}[0x000A]・{0x0109,0x0004} × {0x0202,0x0005}[0x000A]・{0x0109,0x0006} × {0x0202,0x0007}[0x000A]・{0x0109,0x0008} × {0x0202,0x0009}
+Delivered[0x000A]・{0x0109,0x0000} × {0x0202,0x0001}[0x000A]・{0x0109,0x0002} × {0x0202,0x0003}[0x000A]・{0x0109,0x0004} × {0x0202,0x0005}[0x000A]・{0x0109,0x0006} × {0x0202,0x0007}[0x000A]・{0x0109,0x0008} × {0x0202,0x0009}[0x000A]・{0x0109,0x000A} × {0x0202,0x000B}
+{0xBD00,0x0003,0x0000,0x0000}Note: You have already received this gift.{0xBD01}
+{0xBD00,0x0003,0x0000,0x0000}Note: You can’t receive any more gifts today.{0xBD01}
+Delivered[0x000A]・a Pokémon Egg
+Card Album
+Delivered[0x000A]・{0x0102,0x0000} Lv. {0x0202,0x0001}[0x000A]・{0x1303,0x0002}{0x0109,0x0002}
+About Mystery Gifts
+About the Card Album
+When the Album Is Full
+Receive Gift
+Choose how you want to receive your gift.
+A Gift from the PGL
+Welcome to Mystery Gift![0x000A][0x000A]Mystery Gift allows you to receive great gifts[0x000A]through various communication modes.[0x000A][0x000A]Once you have received a gift, please go to any[0x000A]Pokémon Center and pick it up from[0x000A]the deliveryman.
+When you’ve received a Mystery Gift, its[0x000A]Wonder Card will be displayed in the[0x000A]Card Album.[0x000A][0x000A]Once you pick up the gift from the deliveryman,[0x000A]the card will get a stamp on it.[0x000A][0x000A]Make sure to pick up the gifts for any cards[0x000A]that haven’t been stamped.
+There is a limit to how many cards you can save[0x000A]in the Album. You can store up to 48 cards.[0x000A][0x000A]When the card slots are full, you will not be able[0x000A]to receive any more. Please delete some from[0x000A]the Album.
+There is a limit to how many cards you can save[0x000A]in the Album. You can store up to 48 cards.[0x000A][0x000A]When the card slots are full, you will not be able[0x000A]to receive any more. Please delete some from[0x000A]the Album.
+When you cannot receive gifts, please check[0x000A]the Card Album.[0x000A][0x000A]If it’s full with 48 Wonder Cards, choose a[0x000A]Wonder Card from a gift you’ve already picked[0x000A]up and press the A Button to throw it away.
+If you have gifts waiting, go to any Pokémon[0x000A]Center and pick them up from the deliveryman.
+If you have gifts waiting, go to any Pokémon[0x000A]Center and pick them up from the deliveryman.
+Mystery Gift allows you to receive great gifts[0x000A]through various communication modes.[0x000A][0x000A]Once you have received a gift, please go to any[0x000A]Pokémon Center, and pick it up from[0x000A]the deliveryman.
+There are various ways to receive gifts.[0x000A][0x000A]Choose one of the methods according to the[0x000A]instructions for the gift you want to receive.[0x000A]- Local Wireless[0x000A]- Internet[0x000A]- Infrared[0x000A]- Code/Password
+You haven’t received any gifts yet.{0xBE01}
+Delivered[0x000A]・Rainbow Bean × {0x0202,0x0000}
+Ending the communication...[0x000A]Please wait.
+You can’t use Nintendo eShop.{0xBE01}
+All Wonder Cards have been deleted from your[0x000A]Card Album.{0xBE01}
+A gift was found, but you can’t receive it with[0x000A]your current software.{0xBE01}
+{0xBDFF:0x007B}
+{0xBDFF:0x007C}
+{0xBDFF:0x007D}
+{0xBDFF:0x007E}

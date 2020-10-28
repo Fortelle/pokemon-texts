@@ -1,0 +1,16 @@
+msg_main0040_rival_01={0xBDFF:0x0000}
+msg_main0040_doctor_01={0xBDFF:0x0001}
+msg_main0040_doctor_02={0xBDFF:0x0002}
+msg_main0040_doctor_04={0xBDFF:0x0003}
+msg_main0040_doctor_05={0xBDFF:0x0004}
+msg_main0040_doctor_03=オーキド『こら　どこへいく！[0x000A]もどってこんか！
+msg_main0040_rival_02={0xBDFF:0x0006}
+msg_main0040_new_rival_01={0x0100,0x0001}『オーキドはかせ！{0xBE01}[0x000A]そこの　モンスターボール[0x000A]さっきは　２こ　だったのに{0xBE00}[0x000A]なぜか　３こに　ふえたんです！
+msg_main0040_new_doctor_01=オーキド『いやいや！[0x000A]ひとつは　さっき　{0x0100,0x0000}が{0xBE00}[0x000A]つかまえた　{0x0101,0x0002}　なんじゃ
+msg_main0040_new_rival_02={0x0100,0x0001}『{0x0100,0x0000}[0x000A]じぶんで　つかまえた　のか？
+msg_main0040_new_rival_03=わッ！　びっくりした
+msg_main0040_new_doctor_02=オーキド『うわっはは！[0x000A]なんだか　おもしろい　のう！
+msg_main0040_new_doctor_04={0x0100,0x0000}よ！[0x000A]こんどこそ　ボールを{0xBE00}[0x000A]しっかりと　てにとって　やりなさい！
+msg_main0040_new_doctor_03=さあ　{0x0101,0x0002}を[0x000A]こんどこそ　てに　いれるんじゃ！
+msg_main0040_new_rival_04={0x0100,0x0000}が　つかまえたの[0x000A]まんなかの　ボールに{0xBE00}[0x000A]はいってる　みたいだな
+msg_main0040_new_rival_05={0x0100,0x0001}『そっちじゃ　ないよって[0x000A]いってる　みたいだぞ！

@@ -1,0 +1,16 @@
+Sí
+No
+{0x0206,0x0008,0xE07F} $
+¿Quieres guardar la partida?
+Guardando...[0x000A]No apagues la consola.
+{0x0100,0x0000} ha guardado la partida.
+Ya hay una partida guardada, por lo que no[0x000A]es posible guardar ahora.{0xBE01}[0x000A]Para obtener más información, consulta el[0x000A]manual de instrucciones.
+No se ha podido guardar la partida.
+Has recibido a {0x0101,0x0000}.
+{0x0101,0x0000} se ha transferido a[0x000A]la {0x010B,0x0001}.
+Has recibido un mensaje en el Holomisor.
+¡{0x0100,0x0000}!{0xBE01}[0x000A]Veo que te has esforzado mucho.[0x000A]Ahora vete a descansar.{0xBE01}[0x000A]...
+¡Ya está! ¡Tu equipo Pokémon y tú estáis llenos[0x000A]de energía!{0xBE01}[0x000A]Voy a darte un consejo: si la salud, vamos, los[0x000A]PS de los Pokémon, disminuye mucho, siempre{0xBE00}[0x000A]puedes volver a casa para reponer fuerzas.{0xBE01}[0x000A]Todo Entrenador que se precie debe ser previsor,[0x000A]por eso convendría que compraras alguna Poción{0xBE00}[0x000A]en cualquier Tienda Pokémon si la aventura te va{0xBE00}[0x000A]a llevar lejos de casa. ¡Estas tiendas se encuentran{0xBE00}[0x000A]en muchos sitios, no solo en Pueblo Acuarela!{0xBE01}[0x000A]Pues nada, ve con cuidado.[0x000A]¡Muéstrale al mundo de qué pasta estás hech{0x1100,0x00FF,0x0101}oa!
+Primero vamos a devolverle la energía[0x000A]a tu equipo Pokémon.
+No olvides visitar un Centro Pokémon[0x000A]cuando tus Pokémon pierdan PS.{0xBE01}[0x000A]Si piensas viajar lejos, deberías[0x000A]hacerte con varias Pociones en{0xBE00}[0x000A]cualquier Tienda Pokémon.{0xBE01}[0x000A]¡Buena suerte!
+Tu equipo Pokémon ya está en plena forma.{0xBE01}[0x000A]¡Que te vaya bien!

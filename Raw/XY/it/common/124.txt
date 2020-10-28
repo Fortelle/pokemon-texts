@@ -1,0 +1,268 @@
+●●
+Ah! È apparso {0x1002}{0x1502,0x0000}{0x0101,0x0000} selvatico!
+Argh! È sbucato {0x1002}{0x1502,0x0000}{0x0101,0x0000} selvatico!
+Oh! È apparso {0x1002}{0x1502,0x0000}{0x0101,0x0000} selvatico!
+È apparso {0x1002}{0x1502,0x0000}{0x0101,0x0000} selvatico!
+Argh! Stavi per calpestare {0x1002}{0x1502,0x0000}{0x0101,0x0000}!
+È apparso {0x0101,0x0000}!
+Argh! È apparso un gruppo di Pokémon selvatici!
+Parte la sfida di {0x0100,0x0001}[0x000A]({0x010E,0x0000})!{0xBE01}
+Parte la sfida con {0x0100,0x0000}!{0xBE01}
+Parte la sfida di {0x0100,0x0001}[0x000A]({0x010E,0x0000}){0xBE00}[0x000A]e {0x0100,0x0003} ({0x010E,0x0002})!{0xBE01}
+Parte la sfida di {0x0100,0x0000} e {0x0100,0x0001}!{0xBE01}
+Avanti, {0x0102,0x0000}![0x000A]
+Avanti, {0x0102,0x0000} e {0x0102,0x0001}!
+Avanti, {0x0102,0x0000}, {0x0102,0x0001}[0x000A]e {0x0102,0x0002}!
+{0x0100,0x0001} ({0x010E,0x0000}) manda{0x1101,0x0001,0x0200}no[0x000A]in campo {0x0102,0x0002}!
+{0x0100,0x0001} ({0x010E,0x0000}) manda{0x1101,0x0001,0x0200}no[0x000A]in campo {0x0102,0x0002} e {0x0102,0x0003}!
+{0x0100,0x0001} ({0x010E,0x0000}) manda{0x1101,0x0001,0x0200}no[0x000A]in campo {0x0102,0x0002}, {0x0102,0x0003},{0xBE00}[0x000A]e {0x0102,0x0004}!
+{0x0100,0x0000} manda{0x1101,0x0000,0x0200}no in campo {0x0102,0x0001}!
+{0x0100,0x0000} manda{0x1101,0x0000,0x0200}no in campo {0x0102,0x0001}[0x000A]e {0x0102,0x0002}!
+{0x0100,0x0000} manda{0x1101,0x0000,0x0200}no in campo {0x0102,0x0001},[0x000A]{0x0102,0x0002} e {0x0102,0x0003}!
+La prossima scelta di {0x0100,0x0001}[0x000A]({0x010E,0x0000}) sarà {0x0102,0x0002}!{0xBE00}[0x000A]Vuoi cambiare Pokémon?
+Dai, {0x0102,0x0000}!
+Coraggio, {0x0102,0x0000}!
+Ancora un piccolo sforzo, {0x0102,0x0000}![0x000A]Non mollare!
+Il nemico è debole! Forza, {0x0102,0x0000}!
+{0x0102,0x0000}, è ora! Rientra!
+{0x0102,0x0000}, rientra!
+{0x0102,0x0000}, può bastare! Rientra!
+{0x0102,0x0000}, ok! Rientra!
+{0x0102,0x0000}, bene! Rientra!
+{0x0100,0x0001} ({0x010E,0x0000}) ritira{0x1101,0x0001,0x0200}no[0x000A]{0x0102,0x0002} dalla lotta!
+{0x0100,0x0000} ritira{0x1101,0x0000,0x0200}no {0x0102,0x0001} dalla lotta!
+Colpi inflitti: {0x0200,0x0000}!
+{0x0100,0x0000} usa{0x1101,0x0000,0x0200}no {0x0109,0x0001}!
+{0x0100,0x0000} usa{0x1101,0x0000,0x0200}no {0x0109,0x0001}!
+{0x0100,0x0001} ({0x010E,0x0000})[0x000A]usa{0x1101,0x0001,0x0200}no {0x0109,0x0002}!
+{0x0100,0x0000} lancia{0x1101,0x0000,0x0200}no {0x0109,0x0002}[0x000A]verso {0x0102,0x0001}!
+Non puoi usare il Mirabilancere adesso!
+I Pokémon di {0x0100,0x0000} ruotano verso sinistra!
+I Pokémon di {0x0100,0x0000} ruotano verso sinistra!
+I Pokémon di {0x0100,0x0000} ruotano verso destra!
+I Pokémon di {0x0100,0x0000} ruotano verso destra!
+{0x010C,0x0000} riceve {0x0206,0x0001,0x002E} Punt{0x1101,0x0001,0x0101}oi Esperienza!
+{0x010C,0x0000} riceve ben {0x0206,0x0001,0x002E}[0x000A]Punt{0x1101,0x0001,0x0101}oi Esperienza!
+I Punti Esperienza vengono condivisi[0x000A]grazie a Condividi Esperienza!
+Hai sconfitto {0x0100,0x0001}[0x000A]({0x010E,0x0000})!
+Hai sconfitto {0x0100,0x0001}[0x000A]({0x010E,0x0000}) e {0x0100,0x0003}{0xBE00}[0x000A]({0x010E,0x0002})!
+{0x0100,0x0001} ({0x010E,0x0000}) ha{0x1101,0x0001,0x0300}nno[0x000A]vinto la sfida!
+La sfida contro {0x0100,0x0001}[0x000A]({0x010E,0x0000}) si è conclusa in parità!
+Hai sconfitto {0x0100,0x0000}!
+Hai sconfitto {0x0100,0x0000} e {0x0100,0x0001}!
+{0x0100,0x0000} ha vinto la sfida!
+{0x0100,0x0000} e {0x0100,0x0001} hanno vinto la sfida!
+La sfida contro {0x0100,0x0000} si è conclusa in parità!
+La sfida contro {0x0100,0x0000} e {0x0100,0x0001}[0x000A]si è conclusa in parità!
+{0x0100,0x0000} non ha più Pokémon disponibili!{0xBE01}
+Nella confusione {0x0100,0x0000} fa cadere[0x000A]${0x0204,0x0001,0x002E}!
+{0x0100,0x0000} ha sborsato ${0x0204,0x0001,0x002E}!
+{0x0100,0x0000} è alle strette...
+{0x0100,0x0000} ha vinto ${0x0205,0x0001,0x002E}!{0xBE01}
+{0x0100,0x0000} ha raccolto ${0x0204,0x0001,0x002E}!
+{0x010C,0x0000} è salito al livello {0x0202,0x0001}!
+Oh, no! Il Pokémon è uscito dalla Poké Ball!
+Ah! Sembrava preso, eh? E invece no!
+Per un pelo!
+Nooo! C’eri quasi!
+Preso! {0x0101,0x0000} è stato catturato!
+I dati di {0x0101,0x0000} sono stati inseriti nel Pokédex.
+La Poké Ball è stata respinta!{0xBE01}[0x000A]Non puoi prendere i Pokémon altrui:[0x000A]è come rubare!
+Ma è inefficace!
+Cosa deve fare {0x010C,0x0000}?
+Tocca a {0x0100,0x0000}. Cosa deve fare?
+{0x010C,0x0000} sta aspettando indicazioni[0x000A]da {0x0100,0x0001}...
+Ma fallisce!
+Scampato pericolo!
+Tentativo di fuga fallito!
+Non è possibile scappare!
+{0x1002}{0x1501,0x0000}{0x0102,0x0000} selvatico è fuggito!
+Non puoi sottrarti alla lotta con un Allenatore!
+Vuoi rinunciare all’incontro?
+È superefficace!
+Non è molto efficace...
+È così confuso da colpirsi da solo!
+Brutto colpo!
+Ma non ha PP per sferrare la mossa!
+Grazie all’intervento di {0x0100,0x0000},[0x000A]{0x0102,0x0001} recupera PS!
+La luce solare diventa intensa!
+Inizia a piovere!
+Inizia una tempesta di sabbia!
+Inizia a grandinare!
+La nebbia comincia ad addensarsi!
+La luce solare torna normale!
+Smette di piovere!
+La tempesta di sabbia cessa!
+Smette di grandinare!
+La nebbia si dirada!
+Le condizioni atmosferiche non hanno alcun effetto!
+La tempesta di sabbia imperversa!
+La grandine imperversa!
+È un colpo da KO!
+{0x1501,0x0000}{0x0109,0x0000} indebolisce la potenza[0x000A]di {0x0107,0x0001}!
+{0x1501,0x0000}{0x0109,0x0000} consente di usare soltanto[0x000A]{0x0107,0x0001}!
+{0x1501,0x0000}{0x0109,0x0000} impedisce di usare[0x000A]mosse di stato!
+{0x010C,0x0000} può usare solo {0x0107,0x0001}!
+Tutte le modifiche alle statistiche sono state annullate!
+Ma non succede nulla!
+{0x0106,0x0001}[0x000A]di {0x0102,0x0000}!
+Magnitudo 4!
+Magnitudo 5!
+Magnitudo 6!
+Magnitudo 7!
+Magnitudo 8!
+Magnitudo 9!
+Magnitudo 10!!!
+Una campana ha suonato!
+Un gradevole profumo si diffonde nell’aria!
+I Pokémon si dividono i PS!
+La potenza delle mosse di tipo Fuoco diminuisce!
+L’effetto di Docciascudo è svanito!
+La potenza delle mosse di tipo Elettro diminuisce!
+L’effetto di Fangata è svanito!
+La dimensione distorta torna alla normalità!
+La gravità si intensifica!
+La gravità torna normale!
+Tutti i Pokémon che ascoltano Ultimocanto[0x000A]andranno KO dopo tre turni!
+Grazie a Metronomo, il Pokémon può sferrare[0x000A]la mossa {0x0107,0x0000}!
+Naturforza diventa {0x0107,0x0000}!
+Ci sono monete sparse ovunque!
+Troppo debole! Non può creare un sostituto!
+La Difesa della tua squadra aumenta grazie a Riflesso!
+La Difesa della squadra avversaria aumenta grazie[0x000A]a Riflesso!
+L’effetto di Riflesso sulla tua squadra è finito!
+L’effetto di Riflesso sulla squadra avversaria è finito!
+La Difesa Speciale della tua squadra aumenta[0x000A]grazie a Schermoluce!
+La Difesa Speciale della squadra avversaria aumenta[0x000A]grazie a Schermoluce!
+L’effetto di Schermoluce sulla tua squadra è finito!
+L’effetto di Schermoluce sulla squadra avversaria è finito!
+Un velo mistico ricopre la tua squadra!
+Un velo mistico ricopre la squadra avversaria!
+La tua squadra non è più protetta da Salvaguardia!
+La squadra avversaria non è più protetta da Salvaguardia!
+La tua squadra è avvolta dalla nebbia!
+La squadra avversaria è avvolta dalla nebbia!
+La nebbia intorno alla tua squadra si è diradata!
+La nebbia intorno alla squadra avversaria si è diradata!
+Comincia a soffiare Ventoincoda sulla tua squadra!
+Comincia a soffiare Ventoincoda sulla squadra avversaria!
+Ventoincoda non soffia più sulla tua squadra!
+Ventoincoda non soffia più sulla squadra avversaria!
+Fortuncanto protegge la tua squadra dai brutti colpi!
+Fortuncanto protegge la squadra avversaria dai brutti colpi!
+L’effetto di Fortuncanto sulla tua squadra è finito!
+L’effetto di Fortuncanto sulla squadra avversaria è finito!
+Ai piedi della tua squadra c’è una trappola di Punte!
+Ai piedi della squadra avversaria c’è una trappola di Punte!
+Ai piedi della tua squadra non c’è più la trappola di Punte!
+Ai piedi della squadra avversaria non c’è più la trappola[0x000A]di Punte!
+Ai piedi della tua squadra c’è una trappola di Fielepunte!
+Ai piedi della squadra avversaria c’è una trappola[0x000A]di Fielepunte!
+Ai piedi della tua squadra non c’è più la trappola[0x000A]di Fielepunte!
+Ai piedi della squadra avversaria non c’è più la trappola[0x000A]di Fielepunte!
+La tua squadra è circondata da rocce aguzze sospese[0x000A]in aria!
+La squadra avversaria è circondata da rocce aguzze[0x000A]sospese in aria!
+Levitoroccia non ha più effetto sulla tua squadra!
+Levitoroccia non ha più effetto sulla squadra avversaria!
+La tua squadra è protetta da Bodyguard!
+La squadra avversaria è protetta da Bodyguard!
+La tua squadra è protetta da Anticipo!
+La squadra avversaria è protetta da Anticipo!
+Appare un arcobaleno sulla tua squadra!
+Appare un arcobaleno sulla squadra avversaria!
+L’arcobaleno sulla tua squadra scompare!
+L’arcobaleno sulla squadra avversaria scompare!
+La tua squadra è circondata dalle fiamme!
+La squadra avversaria è circondata dalle fiamme!
+La tua squadra non è più circondata dalle fiamme!
+La squadra avversaria non è più circondata dalle fiamme!
+La tua squadra è circondata da una palude!
+La squadra avversaria è circondata da una palude!
+La tua squadra non è più circondata dalla palude!
+La squadra avversaria non è più circondata dalla palude!
+I Pokémon della tua squadra non riescono a mangiare[0x000A]le bacche per l’emozione!
+I Pokémon della squadra avversaria non riescono a[0x000A]mangiare le bacche per l’emozione!
+È stata creata una dimensione in cui Difesa[0x000A]e Difesa Speciale vengono scambiate!
+La dimensione non è più alterata: Difesa e Difesa Speciale[0x000A]sono tornate alla normalità!
+È stata creata una dimensione in cui gli strumenti dati[0x000A]ai Pokémon non hanno effetto!
+La dimensione non è più alterata e gli strumenti tornano[0x000A]ad avere effetto!
+{0x1501,0x0000}{0x0109,0x0000} incrementa la potenza[0x000A]di {0x0107,0x0001}!
+Il tempo è scaduto! La lotta finisce qui.
+La lotta è troppo lunga! La riproduzione viene interrotta!
+Stato Zen attivato!
+Stato Zen disattivato!
+Formidabile! Due mosse che diventano una![0x000A]È una mossa combinata!
+{0x010C,0x0000} non obbedisce!
+{0x010C,0x0000} sta ciondolando!
+{0x010C,0x0000} ti dà le spalle!
+{0x010C,0x0000} fa finta di niente!
+{0x010C,0x0000} ignora gli ordini!
+{0x010C,0x0000} fa un riposino!
+{0x010C,0x0000} ignora gli ordini e continua a dormire!
+Centramento!
+Ma qui non puoi usare questo strumento!
+{0x010C,0x0000} è intrappolato da Cadutalibera!
+La lotta finisce per abbandono.
+Ai piedi dei Pokémon cresce rigogliosa l’erba.
+L’erba sparisce.
+Ai piedi dei Pokémon si addensa la nebbia.
+La nebbia si dissolve.
+Ai piedi dei Pokémon si accumula dell’elettricità.
+L’elettricità svanisce.
+La tua squadra è protetta da Truccodifesa!
+La squadra avversaria è protetta da Truccodifesa!
+Ribaltappeto protegge da {0x0107,0x0000}!
+Una Rete Vischiosa viene stesa ai piedi della tua squadra!
+Una Rete Vischiosa viene stesa ai piedi della squadra[0x000A]avversaria!
+Le Rete Vischiosa ai piedi della tua squadra svanisce!
+Le Rete Vischiosa ai piedi della squadra avversaria[0x000A]svanisce!
+Il Pokémon non può usare la mossa perché non ha[0x000A]mangiato un bacca!
+{0x0100,0x0000} trova {0x1502,0x0001}{0x0109,0x0001}!
+{0x010C,0x0000} resiste al colpo per far bella figura con[0x000A]{0x0100,0x0001}.
+{0x010C,0x0000} si sveglia per non far preoccupare[0x000A]{0x0100,0x0001}!
+{0x010C,0x0000} neutralizza il veleno da solo[0x000A]per non far preoccupare {0x0100,0x0001}!
+{0x010C,0x0000} cura la scottatura soffiandoci sopra[0x000A]per non far preoccupare {0x0100,0x0001}!
+{0x010C,0x0000} guarisce dalla paralisi con le proprie forze[0x000A]per non far preoccupare {0x0100,0x0001}!
+{0x010C,0x0000} ce la mette tutta e riesce a sciogliere[0x000A]il ghiaccio per non far preoccupare {0x0100,0x0001}!
+{0x010C,0x0000} segue le indicazioni di {0x0100,0x0001}[0x000A]ed evita la mossa!
+{0x010C,0x0000} segue le indicazioni di {0x0100,0x0001}[0x000A]e infligge un brutto colpo!
+{0x010C,0x0000} si volta verso {0x0100,0x0001}[0x000A]e fa un cenno d’assenso!
+{0x010C,0x0000} guarda {0x0100,0x0001} con occhi[0x000A]pieni di fiducia!
+{0x010C,0x0000} ha piena fiducia nella strategia[0x000A]di {0x0100,0x0001}!
+Tra {0x010C,0x0000} e {0x0100,0x0001} c’è un’affinità[0x000A]perfetta!
+{0x010C,0x0000} guarda con curiosità la Borsa[0x000A]di {0x0100,0x0001}...
+{0x010C,0x0000} sprizza energia da tutti i pori!
+{0x010C,0x0000} vorrebbe giocare con {0x0100,0x0001},[0x000A]ma cerca di trattenersi...
+L’odore del Pokémon nemico attira l’interesse[0x000A]di {0x010C,0x0000}...
+{0x010C,0x0000} si rassicura sentendo l’odore[0x000A]di {0x0100,0x0001}...
+{0x010C,0x0000} si guarda attorno con curiosità...
+{0x010C,0x0000} sta ripensando a quando[0x000A]ha conosciuto {0x0100,0x0001}...
+{0x010C,0x0000} è un po’ emozionato.
+{0x010C,0x0000} è un po’ distratto...
+Sembra che {0x010C,0x0000} sia un po’ inquieto...
+{0x010C,0x0000} è un po’ su di giri.
+{0x010C,0x0000} è un po’ impaziente...
+Vai, {0x010C,0x0000}! Conto su di te!
+Ben fatto, {0x010C,0x0000}! Ora rientra!
+Bel colpo!
+{0x010C,0x0000} è tristissimo perché ha pochi PS...
+{0x010C,0x0000} è felice!
+Mmh...
+{0x018D,0x0000} ti invia il {0x0110,0x0001}!
+Hai sconfitto {0x0200,0x0000} Pokémon contemporaneamente!
+Trasformazione in Forma Spada!
+Trasformazione in Forma Scudo!
+La perquisizione rivela che {0x0102,0x0000}[0x000A]ha {0x1502,0x0001}{0x0109,0x0001}!
+Una sensazione di euforia si diffonde nell’aria!
+Questa mossa non funziona bene nella Lotta Aerea.
+Una pioggia di elettroni si rovescia sui Pokémon!
+Nel prossimo turno sarà impossibile scappare!
+Il pulviscolo esplode per reazione alla mossa[0x000A]{0x0107,0x0000}!
+({0x0200,0x0000}) Metronomo {0x0202,0x0001}：{0x0107,0x0002}
+Argh! Dall’erba è sbucato {0x1002}{0x1502,0x0000}{0x0101,0x0000}!
+Argh! Da sottoterra è sbucato {0x1002}{0x1502,0x0000}{0x0101,0x0000}!
+Argh! {0x1002}{0x1503,0x0000}{0x0101,0x0000} selvatico è sceso[0x000A]in picchiata su di te.
+Argh! {0x1002}{0x1503,0x0000}{0x0101,0x0000} è caduto giù dal soffitto!
+Argh! {0x1002}{0x1503,0x0000}{0x0101,0x0000} è sbucato fuori[0x000A]dall’immondizia!
+Il {0x0110,0x0001} usato da {0x018D,0x0000}[0x000A]è entrato in azione!
+Complimenti, {0x0100,0x0000}!

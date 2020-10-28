@@ -1,0 +1,7 @@
+main_event_0050_rival_01=Allez, viens, on fonce !{0x0114,0x0005}
+main_event_0050_rival_02=Fais juste gaffe, {0x0100,0x0000} !{0xBE01}[0x000A]Y’a souvent des Pokémon tapis dans les hautes[0x000A]herbes qui déboulent sans prévenir.{0x0114,0x0005}
+main_event_0050_rival_03=Moi, ça va, j’ai mon p’tit Moumouton,[0x000A]je peux me défendre.{0x0114,0x0005}
+main_event_0050_rival_04=Mais toi, t’as pas encore de Pokémon,[0x000A]donc t’approche pas trop des hautes herbes !{0x0114,0x0005}
+main_event_0050_rival_05={0xBDFF:0x0004}
+main_event_0050_rival_06={0xBDFF:0x0005}
+main_event_0050_rival_07={0xBDFF:0x0006}

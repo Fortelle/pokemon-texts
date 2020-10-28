@@ -1,0 +1,5 @@
+msg_ui_common_text_01=バックアップデータを　ロードしました[0x000A]レポートを　するときは[0x000A]このデータが　記録されますので[0x000A]ご注意ください
+msg_ui_common_text_02=バックアップデータが　ないので[0x000A]ロードできません[0x000A]タイトルへ　戻ります
+msg_ui_common_text_03=レポート中・・・
+msg_ui_common_text_04=レポートが　壊れています[0x000A]本体から　セーブデータを[0x000A]消して　ください
+msg_ui_common_text_05={0xBDFF:0x0004}

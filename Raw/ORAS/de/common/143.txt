@@ -1,0 +1,47 @@
+Ja
+Nein
+Möchtest du aufhören?
+Einzelkampf
+Doppelkampf
+Dreierkampf
+Reihumkampf
+Multikampf
+Normale Regeln
+Strenge Regeln
+Keine Einschränkungen
+Kolosseum
+Kampf-Pokémon
+Kampfbox
+Team-Pokémon
+{0xFF00,0x0002}♂{0xFF00,0x0000}
+{0xFF00,0x0001}♀{0xFF00,0x0000}
+{0xBDFF:0x0011}
+L
+{0x0202,0x0000}
+Position
+Nr. 1
+Nr. 2
+Nr. 3
+Nr. 4
+???
+Pokémon-Liste
+Beutel
+Kampf beginnen
+Wähle die Pokémon, die teilnehmen sollen.
+Warte auf Mitspieler...
+Ein Problem ist aufgetreten.[0x000A]Der Kampf wird abgebrochen.
+Es wurden nicht alle Bedingungen erfüllt.[0x000A]Teilnahme nicht möglich.
+Bitte warte einen Augenblick, bis die[0x000A]Vorbereitungen abgeschlossen sind.
+Bist du ein starker Kämpfer?
+Du hast den Kampf verlassen...
+Stark
+Durchschnittlich
+Schwach
+Die Kampfumgebung wird aktualisiert...[0x000A]Bitte warte einen Moment.
+Es gelten die Kalos-Regeln.
+Unter den Kampf-Teilnehmern befindet sich[0x000A]ein Spieler von Pokémon X oder Pokémon Y.[0x000A]Items und Attacken, die in Pokémon Omega[0x000A]Rubin oder Pokémon Alpha Saphir neu[0x000A]eingeführt wurden, können in diesem[0x000A]Kampf nicht verwendet werden.
+Weiter
+Details
+Verboten
+Verboten
+Zurück

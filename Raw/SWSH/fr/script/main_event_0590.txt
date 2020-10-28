@@ -1,0 +1,11 @@
+main_event_0590_leader1_01=Mon Arène est la première étape du Défi.[0x000A]Les Challengers défilent non-stop, ici.{0xBE01}[0x000A]C’est pour ça que je dois faire le tri[0x000A]avec une Mission qui ne pardonne pas.{0x0114,0x000E}
+main_event_0590_leader1_02=Mais toi, {0x0100,0x0000}, tu as accompli[0x000A]cette Mission haut la main !{0xBE00}[0x000A]Je n’en attendais pas moins de toi.{0x0114,0x000E}
+main_event_0590_leader1_03=Tu as de très bons instincts, en ce qui concerne[0x000A]les Pokémon. Tu les comprends.{0xBE01}[0x000A]Ce combat s’annonce serré ! Je vais devoir[0x000A]me servir de la puissance du {0xFF00,0x0006}Dynamax{0xFF00,0x0000}{0xBE00}[0x000A]si je ne veux pas que tu me coupes l’herbe{0xBE00}[0x000A]sous le pied !{0x0114,0x000E}
+main_event_0590_leader1_04=Ton entraînement a porté ses fruits !{0x0114,0x000E}
+main_event_0590_leader1_05=Je te donne donc ce Badge Plante !{0xBE01}[0x000A]C’est la preuve que tu as vaincu le premier[0x000A]Champion du Défi des Arènes.{0x0114,0x000E}
+main_event_0590_badge_01=Vous pouvez maintenant capturer des Pokémon[0x000A]jusqu’au niveau 25 !
+main_event_0590_leader1_06=Pour compléter le Défi, il va te falloir glaner[0x000A]les huit Badges des divers Champions.{0xBE01}[0x000A]Eh oui ! Tu as encore sept Champions[0x000A]à affronter et à vaincre ! Bonne chance !{0x0114,0x000E}
+main_event_0590_system_01=Voulez-vous retourner à la réception ?
+main_event_0590_counterw_01=Bravo pour ta victoire contre Percy ![0x000A]Tiens, une petite CT pour te féliciter !
+main_event_0590_counterw_03=Et cadeau de la maison : l’uniforme de Percy ![0x000A]Enfin, je veux dire... Ce n’est pas le sien, hein !{0xBE00}[0x000A]C’est le même que le sien, mais à ta taille.
+main_event_0590_counterw_02=Le Badge Plante te va à ravir ![0x000A]Continue comme ça, {0x0100,0x0000} !

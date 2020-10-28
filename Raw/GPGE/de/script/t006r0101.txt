@@ -1,0 +1,14 @@
+msg_t006r0101_fat_01_01=Schau mal! Hat mein Pikachu nicht einen[0x000A]niedlichen Schweif?
+msg_t006r0101_fat_01_02=Pah!{0xBE01}[0x000A]Mein Pikachu ist mindestens doppelt so süß!
+msg_t006r0101_youngf_01_01=Ich liebe mein Jurob![0x000A]Es quiekt, wenn ich es in den Arm nehme!
+msg_t006r0101_youngf_01_02=Ohoho!{0xBE01}[0x000A]Mein Jurob ist mindestens doppelt so niedlich!
+msg_t006r0101_poke_01={0xFF00,0x0009}Pikachu:{0xFF00,0x0000} Pikachu!
+msg_t006r0101_poke_02={0xFF00,0x0009}Jurob:{0xFF00,0x0000} Rooob!
+msg_t006r0101_stafff_01=Unser Vorsitzender redet ununterbrochen über[0x000A]Pokémon.
+msg_t006r0101_poster_01=Wenn ein Trainer voller Stolz von seinen[0x000A]Pokémon schwärmt, höre ihm aufmerksam zu!
+msg_t006r0101_poster_02=Wenn dir jemand etwas vorschwärmt, dann[0x000A]schwärme zehn Mal so schwärmerisch zurück!
+msg_t006r0101_poster_03=„Mein niedliches Gallopa!“
+msg_t006r0101_poster_04=„Mein geliebtes Ibitak!“
+msg_t006r0101_poster_05=„Ich und meine geliebten Pokémon!“
+msg_t006r0101_poster_06=Hier ist ein Magazin mit dem Titel:{0xBE01}[0x000A]„Meine Pokémon und ich – eine Freundschaft[0x000A]in Bildern“
+msg_workerw1_01_p02_t006_r0201={0xBDFF:0x000D}

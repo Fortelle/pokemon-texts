@@ -1,0 +1,5 @@
+msg_main1510_doctor_01={0xFF00,0x0009}Prof. Eich:{0xFF00,0x0000} Ähem!{0xBE01}[0x000A]Herzlichen Glückwunsch, {0x0100,0x0000}!
+msg_main1510_doctor_02=Das hier ist die Ruhmeshalle, in der alle Champs[0x000A]der Pokémon-Liga sowie ihre Pokémon für ihre{0xBE00}[0x000A]Heldentaten ausgezeichnet werden.
+msg_main1510_doctor_03=Wenn ein Trainer mit seinem Team in die[0x000A]Ruhmeshalle einzieht, werden ihre Namen{0xBE00}[0x000A]bei einer feierlichen Zeremonie hier verewigt.
+msg_main1510_doctor_04={0x0100,0x0000}, du hast hart gekämpft,[0x000A]um die Herausforderungen der Pokémon-Liga{0xBE00}[0x000A]zu bestehen!
+msg_main1510_doctor_05=Um das zu würdigen, wirst jetzt auch du[0x000A]zusammen mit deine{0x1101,0x00FD,0x0101}mn Pokémon hier verewigt.

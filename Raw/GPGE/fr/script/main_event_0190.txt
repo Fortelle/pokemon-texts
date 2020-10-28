@@ -1,0 +1,6 @@
+msg_main0190_musashi_01={0xFF00,0x0009}??? :{0xFF00,0x0000} Hé ! Mate un peu ce truc noir, là-bas ![0x000A]Ce serait pas un fossile ?
+msg_main0190_kojiro_01={0xFF00,0x0009}??? :{0xFF00,0x0000} Ah si, sûrement ! Miaouss, va chercher !
+msg_main0190_nyasu_01={0xFF00,0x0009}Miaouss : {0xFF00,0x0000}Miaaa ?!
+msg_main0190_musashi_02={0xFF00,0x0009}??? :{0xFF00,0x0000} Miaouss, arrête de faire des histoires[0x000A]et va chercher le fossile !
+msg_main0190_kojiro_02={0xFF00,0x0009}??? :{0xFF00,0x0000} Allez, Miaouss ! Sois un bon pépère ![0x000A]...{0xBE01}[0x000A]Mais pourquoi personne n’écoute jamais[0x000A]ce que je dis... ?
+msg_main0190_nyasu_02={0xFF00,0x0009}Miaouss : {0xFF00,0x0000}Mia ! Miaaa !

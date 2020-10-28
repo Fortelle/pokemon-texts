@@ -1,0 +1,5 @@
+msg_main1510_doctor_01={0xFF00,0x0009}Chen :{0xFF00,0x0000} Ahem !
+msg_main1510_doctor_02=Félicitations ! Te voilà au Panthéon !
+msg_main1510_doctor_03=C’est ici que les Maîtres de la Ligue et leurs[0x000A]Pokémon sont consacrés pour leurs prouesses{0xBE00}[0x000A]au combat !
+msg_main1510_doctor_04={0x0100,0x0000} ![0x000A]Tu as vraiment donné tout ce que tu avais{0xBE00}[0x000A]pour devenir Maître de la Ligue.
+msg_main1510_doctor_05=Encore bravo. Ton {0x1101,0x00FD,0x0607}Pokémonéquipe et toi faites désormais[0x000A]partie de l’Histoire de la Ligue Pokémon !

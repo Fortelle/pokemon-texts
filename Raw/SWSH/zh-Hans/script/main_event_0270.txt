@@ -1,0 +1,12 @@
+main_event_0270_rival_01=你看，是博士！{0x0114,0x0005}
+main_event_0270_champion_01=博士，您已经１００％解开[0x000A]极巨化的秘密了吗？{0x0114,0x0004}
+main_event_0270_doctor_01=不不，还差得远呢……[0x000A]现在依然是谜团重重啊。{0xBE01}[0x000A]我原本还期待孙女能继承研究……[0x000A]可惜，这似乎是我的一厢情愿啊。{0x0114,0x0042}
+main_event_0270_doctor_02=哎呀，对不起啊。[0x000A]我居然没发现有客人。{0x0114,0x0042}
+main_event_0270_doctor_03=我是木兰。[0x000A]年轻的训练家们，欢迎你们！{0xBE00}[0x000A]我们先进屋再聊吧。{0x0114,0x000A}
+main_event_0270_rival_02={0xBDFF:0x0005}
+main_event_0270_doctor_04={0xBDFF:0x0006}
+main_event_0270_champion_02={0xBDFF:0x0007}
+main_event_0270_doctor_05={0xBDFF:0x0008}
+main_event_0270_champion_03={0xBDFF:0x0009}
+main_event_0270_champion_04={0xBDFF:0x000A}
+main_event_0270_doctor_06={0xBDFF:0x000B}

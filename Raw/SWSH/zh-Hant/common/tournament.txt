@@ -1,0 +1,6 @@
+msg_ui_tournament_01={0x0100,0x0000}
+msg_ui_tournament_10=參賽者介紹。{0xBE01}
+msg_ui_tournament_11=第１回合比賽結果！{0xBE01}
+msg_ui_tournament_12=第２回合比賽結果！{0xBE01}
+msg_ui_tournament_13=決賽結果！！{0xBE01}
+msg_ui_tournament_14=第２回合比賽結果！{0xBE01}[0x000A]噢！奇巴納選手似乎[0x000A]漂亮地打敗了聶梓選手！{0xBE01}

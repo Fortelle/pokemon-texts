@@ -1,0 +1,10 @@
+main_event_0940_rival_01={0x0100,0x0000}...{0x0114,0x0005}
+main_event_0940_rival_02=Sto ancora pensando a quella storia là, che[0x000A]se perdo metto in imbarazzo mio fratello.{0xBE01}[0x000A]Non so cosa fare... sono confuso...{0x0114,0x0005}
+main_event_0940_rival_03=L’unica cosa che so è che devo diventare[0x000A]più forte ad ogni costo!{0xBE01}[0x000A]E per farlo, devo provarle tutte![0x000A]Aiutami e mettimi alla prova!{0x0114,0x0005}
+main_event_0940_select_01=Va bene!
+main_event_0940_select_02=Non ora...
+main_event_0940_rival_04=Ottimo! Scommetto che affrontare {0x1100,0x00FF,0x0202}illa mi{0x1100,0x00FF,0x0101}oa rivale[0x000A]più forte mi aiuterà a risolvere tutti i miei dubbi!{0xBE01}[0x000A]Ce la metterò tutta!{0x0114,0x0005}
+main_event_0940_rival_05=Ma come? Il tuo rivale è giù di morale[0x000A]e tu non lo aiuti?{0x0114,0x0005}
+main_event_0940_rival_06=Ho provato a cambiare i Pokémon per ampliare[0x000A]le mie possibilità...{0xBE00}[0x000A]Ma proprio non riesco a far girare la squadra.{0xBE01}[0x000A]Forse è questo il mio punto debole... ma non[0x000A]capisco come fare...{0x0114,0x0005}
+main_event_0940_rival_07=Io ammiro mio fratello perché è un Allenatore[0x000A]fenomenale!{0xBE01}[0x000A]Non voglio fargli fare brutta figura per colpa[0x000A]della mia debolezza!{0x0114,0x0005}
+main_event_0940_rival_08=Continuerò a mettermi alla prova...!{0xBE01}[0x000A]Scoverò dei Pokémon che mi permettano[0x000A]di esprimere al massimo il mio potenziale!{0x0114,0x0005}

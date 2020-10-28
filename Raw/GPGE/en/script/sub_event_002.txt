@@ -1,0 +1,7 @@
+msg_sub002_middlem_01=MAN: Hello there, laddie![0x000A]Have I got a deal just for you!{0xBE01}[0x000A]I’ll let you have a secret Pokémon—[0x000A]a Magikarp—for just [0xE300]500!{0xBE01}[0x000A]So, you’ll buy it, am I right?
+msg_sub002_middlem_02=MAN: Hello there, sweetie pie![0x000A]Have I got a deal just for you!{0xBE01}[0x000A]I’ll let you have a secret Pokémon—[0x000A]a Magikarp—for just [0xE300]500!{0xBE01}[0x000A]So, you’ll buy it, am I right?
+msg_sub002_sys_01=You paid an outrageous [0xE300]500 and bought[0x000A]the Magikarp.
+msg_sub002_middlem_03=No? You say no? I’m only doing this[0x000A]as a favor to you!
+msg_middlem1_01_p04_r004_r0101={0xBDFF:0x0004}
+msg_sub002_middlem_04=You’ll need more money than that!
+msg_sub002_middlem_05=MAN: Well, I don’t give refunds.[0x000A]You knew what you were getting!

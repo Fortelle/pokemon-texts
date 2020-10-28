@@ -1,0 +1,97 @@
+{0x0102,0x0000}
+Basiswert:
+MAX!
+{0x0202,0x0000}
++ {0x0202,0x0000}
+- {0x0202,0x0000}
+{0x0102,0x0000} hat einen[0x000A]{0x010A,0x0001} gefunden!{0xBE02:0x001E}
+Soll {0x0102,0x0000} mit dem[0x000A]{0x010A,0x0001} trainieren?
+Willst du den {0x010A,0x0000}[0x000A]wegwerfen?
+{0x0102,0x0000} spürt bereits die Wirkung[0x000A]des Trainings mit dem {0x010A,0x0001}.[0x000A]Wenn es jetzt mit dem {0x010A,0x0002}[0x000A]weitertrainiert, geht der Trainingseffekt[0x000A]von dem {0x010A,0x0001} verloren.[0x000A]Soll es wirklich mit dem {0x010A,0x0002}[0x000A]trainieren?
+{0x0102,0x0000} hat das Basistraining schon[0x000A]mit dem {0x010A,0x0001} begonnen.[0x000A]Steigt es jetzt auf den {0x010A,0x0002}[0x000A]um, geht der {0x010A,0x0001} verloren.[0x000A]Soll es wirklich mit dem {0x010A,0x0002}[0x000A]trainieren?
+{0x0102,0x0000} hat offenbar keine Lust[0x000A]aufs Basistraining.{0xBE01}[0x000A]Versuche es noch einmal, wenn es[0x000A]ein bisschen besser gelaunt ist!
+{0x0102,0x0000} hat offenbar[0x000A]ein kurzes Päuschen eingelegt.{0xBE01}[0x000A]Jetzt ist es wieder fit wie ein Turnschuh!
+Einsetzen
+Wegwerfen
+Zurück
+Ja
+Nein
+
+◆{0x010A,0x0000}[0x000A]Hilfsmittel für ein leichtes,[0x000A]kurzes KP-Training.
+◆{0x010A,0x0000}[0x000A]Hilfsmittel für ein mittelschweres,[0x000A]gewöhnliches KP-Training.
+◆{0x010A,0x0000}[0x000A]Hilfsmittel für ein hartes,[0x000A]forderndes KP-Training.
+◆{0x010A,0x0000}[0x000A]Hilfsmittel für ein leichtes,[0x000A]kurzes Angriffs-Training.
+◆{0x010A,0x0000}[0x000A]Hilfsmittel für ein mittelschweres,[0x000A]gewöhnliches Angriffs-Training.
+◆{0x010A,0x0000}[0x000A]Hilfsmittel für ein hartes,[0x000A]forderndes Angriffs-Training.
+◆{0x010A,0x0000}[0x000A]Hilfsmittel für ein leichtes,[0x000A]kurzes Verteidigungs-Training.
+◆{0x010A,0x0000}[0x000A]Hilfsmittel für ein mittelschweres,[0x000A]gewöhnliches Vert.-Training.
+◆{0x010A,0x0000}[0x000A]Hilfsmittel für ein hartes,[0x000A]forderndes Vert.-Training.
+◆{0x010A,0x0000}[0x000A]Hilfsmittel für ein leichtes,[0x000A]kurzes Sp.-Ang.-Training.
+◆{0x010A,0x0000}[0x000A]Hilfsmittel für ein mittelschweres,[0x000A]gewöhnliches Sp.-Ang.-Training.
+◆{0x010A,0x0000}[0x000A]Hilfsmittel für ein hartes,[0x000A]forderndes Sp.-Ang.-Training.
+◆{0x010A,0x0000}[0x000A]Hilfsmittel für ein leichtes,[0x000A]kurzes Sp.-Vert.-Training.
+◆{0x010A,0x0000}[0x000A]Hilfsmittel für ein mittelschweres,[0x000A]gewöhnliches Sp.-Vert.-Training.
+◆{0x010A,0x0000}[0x000A]Hilfsmittel für ein hartes,[0x000A]forderndes Sp.-Vert.-Training.
+◆{0x010A,0x0000}[0x000A]Hilfsmittel für ein leichtes,[0x000A]kurzes Initiative-Training.
+◆{0x010A,0x0000}[0x000A]Hilfsmittel für ein mittelschweres,[0x000A]gewöhnliches Initiative-Training.
+◆{0x010A,0x0000}[0x000A]Hilfsmittel für ein hartes,[0x000A]forderndes Initiative-Training.
+◆{0x010A,0x0000}[0x000A]Verstärkt den Schuss im nächsten[0x000A]Supertraining.
+◆{0x010A,0x0000}[0x000A]Macht das Pokémon im nächsten[0x000A]Supertraining etwas robuster.
+◆{0x010A,0x0000}[0x000A]Das Pokémon wird im nächsten[0x000A]Supertraining etwas wendiger.
+◆{0x010A,0x0000}[0x000A]Macht den Schuss im nächsten[0x000A]Supertraining präziser.
+◆{0x010A,0x0000}[0x000A]Verdoppelt den Basiswert-Bonus[0x000A]für das nächste Supertraining.
+◆{0x010A,0x0000}[0x000A]Ein Sandsack mit dem Logo von[0x000A]Team Flare. Eignet sich ganz[0x000A]hervorragend zum Abreagieren.
+◆{0x010A,0x0000}[0x000A]Setzt alle Basiswerte des[0x000A]Pokémon zurück.
+◆{0x010A,0x0000}[0x000A]Ein Sandsack, der das Pokémon[0x000A]etwas zutraulicher macht.
+Ausdauer ist der Schlüssel zum Erfolg!
+Eins und zwei und eins und zwei![0x000A]E-NER-GIE!
+Drei und vier und drei und vier![0x000A]E-NER-GIE!
+Schalte einfach auf Durchzug, wenn deine[0x000A]Muskeln nach einer Pause verlangen!
+In der Stärke liegt die Kraft!
+Angriff ist die beste Verteidigung!
+Hau rein! Lass alles raus!!
+Ohne Schweiß kein Preis!
+Verteidigung ist der beste Angriff!
+Das muss schneller gehen! Ich will den Knall[0x000A]hören, wenn du die Schallmauer durchbrichst!!
+Du musst schnell sein wie der Wind!
+Weile mit Eile!
+Wenn du dich ins Zeug legst,[0x000A]winkt ein doppelter Basiswert-Bonus!
+Ich will 100 Prozent Einsatz[0x000A]und 200 Prozent Leistung sehen!
+Bei Lektionen mit hohem Trainingseffekt lohnt[0x000A]sich der doppelte Basiswert-Bonus besonders!
+So ist’s gut! Immer weiter so![0x000A]Zeig allen, was du kannst!
+Mit diesem Sandsack verbrennst du Kalorien,[0x000A]als stündest du direkt in einer Sonneneruption!
+Zeig allen die eiserne Faust der Gerechtigkeit!
+Ist das etwa alles, was du draufhast?[0x000A]Willst du denn nicht besser werden?!
+All der Schweiß wird sich bezahlt machen![0x000A]Deine Anstrengungen sind nicht umsonst!
+Du willst es also auf die harte Tour, was?
+Das Training mit den Sandsäcken ist ein[0x000A]Ausdruck von Liebe und Freundschaft!
+Hartes Training und Muskelkraft sind die[0x000A]Grundsteine einer wunderbaren Freundschaft!
+So ist’s gut! Denk immer daran:[0x000A]Vertrauen muss man sich erst verdienen!
+Der KP-Basiswert von {0x0102,0x0000}[0x000A]ist angestiegen!
+Der Ang.-Basiswert von {0x0102,0x0000}[0x000A]ist angestiegen!
+Der Vert.-Basiswert von {0x0102,0x0000}[0x000A]ist angestiegen!
+Der Sp.-Ang.-Basiswert von {0x0102,0x0000}[0x000A]ist angestiegen!
+Der Sp.-Vert.-Basiswert von {0x0102,0x0000}[0x000A]ist angestiegen!
+Der Initiative-Basiswert von {0x0102,0x0000}[0x000A]ist angestiegen!
+Im nächsten Supertraining kannst du mit[0x000A]deinem Schuss noch mehr Punkte ergattern!
+Im nächsten Supertraining werden[0x000A]Punktabzüge verringert!
+Im nächsten Supertraining wird dein[0x000A]Pokémon wendiger!
+Im nächsten Supertraining wird der[0x000A]Schuss deines Pokémon präziser!
+Nach dem nächsten Supertraining erhältst[0x000A]du den doppelten Basiswert-Bonus!
+{0x0102,0x0000} ist voller Tatendrang!
+Alle Basiswerte von {0x0102,0x0000}[0x000A]wurden zurückgesetzt!
+{0x0102,0x0000} ist {0x0100,0x0001}[0x000A]gegenüber etwas zutraulicher geworden!
+Was für ein Anblick! So ein durchtrainiertes[0x000A]Pokémon sieht man selten!
+I-ich wusste nicht, dass ein Pokémon zu[0x000A]derart imposanten Bewegungen fähig ist!
+Hier kommt er – der K.O.-Schlag!!
+Willkommen beim Supertraining, kurz SPT![0x000A]Pokémon, die hier immer fleißig trainieren,{0xBE00}[0x000A]werden zu wahren Meister-Pokémon.{0xBE01}[0x000A]Berühre bitte zuerst die Schaltfläche mit[0x000A]dem Supertrainings-Symbol unten links!
+Bitte berühre zuerst die Schaltfläche mit[0x000A]dem Supertrainings-Symbol unten links.
+Versuche dich jetzt am Training mit[0x000A]Sandsäcken, auch Basistraining genannt.{0xBE01}[0x000A]Berühre hierfür die zugehörige[0x000A]Schaltfläche unten rechts.
+Bitte berühre die Schaltfläche für das Training[0x000A]mit Sandsäcken (Basistraining) unten rechts.
+Bitte wähle einen Sandsack aus der Liste[0x000A]auf der linken Seite des Touchscreens.
+Das hier ist der aktive Sandsack!{0xBE01}[0x000A]Lässt du dein Pokémon mit einem Sandsack[0x000A]trainieren, indem du es wiederholt darauf{0xBE00}[0x000A]einschlagen lässt, wirkt sich das positiv{0xBE00}[0x000A]auf seine Werte aus.{0xBE01}[0x000A]Ach übrigens: Wenn du deinem Pokémon[0x000A]keine Befehle gibst, schlägt es trotzdem{0xBE00}[0x000A]circa ein Mal pro Minute den Sandsack.{0xBE01}[0x000A]Ganz von alleine!
+Der {0x010D,0x0001}-Basiswert von[0x000A]{0x0102,0x0000} kann nicht mehr steigen.  {0xBE01}[0x000A]Es muss nicht mehr mit dem[0x000A]{0x010A,0x0002} trainieren.
+Der {0x010D,0x0001}-Basiswert von[0x000A]{0x0102,0x0000} kann nicht mehr steigen.  {0xBE01}[0x000A]Es ist jetzt ein {0x010D,0x0001}-Meister!
+Die Basiswerte von {0x0102,0x0000}[0x000A]können nicht mehr steigen.{0xBE01}[0x000A]Es muss nicht mehr mit dem[0x000A]{0x010A,0x0002} trainieren.
+{0x0102,0x0000} hat offenbar keine Lust[0x000A]aufs Supertraining.{0xBE01}[0x000A]Versuche es noch einmal, wenn es[0x000A]ein bisschen besser gelaunt ist!
+Die Basiswerte von {0x0102,0x0000}[0x000A]können nicht mehr steigen!

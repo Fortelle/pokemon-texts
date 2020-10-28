@@ -1,0 +1,12 @@
+sub_event_132_newmove_00=I sense great potential as a Trainer in you.{0xBE01}[0x000A]But it’s still a bit early... Please come back when[0x000A]you become the Champion.
+sub_event_132_newmove_01=Eek! Champion!{0xBE01}[0x000A]Do you want to teach your Pokémon the[0x000A]marvelous move {0x0107,0x0001}?
+sub_event_132_newmove_02=See you!
+sub_event_132_newmove_04=Oh, Champion. The Pokémon you are with[0x000A]right now can’t learn this move...
+sub_event_132_newmove_05=Which Pokémon do you want me to teach[0x000A]this move to?
+sub_event_132_newmove_06=Sorry. {0x0102,0x0001} can’t learn this move.
+sub_event_132_newmove_07=An Egg can’t learn this move!
+sub_event_132_newmove_08={0x0102,0x0001} already knows this move!
+sub_event_132_newmove_10=Which move should be forgotten?
+sub_event_132_newmove_sys_01={0x0102,0x0000} learned {0x0107,0x0001}!{0xBE05,0x0004}{0xBE05,0x0001}
+sub_event_132_newmove_sys_02=One...{0xBE02:0x0014}two...{0xBE02:0x0014}and...{0xBE02:0x0014}{0xBE02:0x0014}ta-da!{0xBE05,0x0003}{0xBE05,0x0000}{0xBE01}[0x000A]{0x0102,0x0000} forgot {0x0107,0x0001}!{0xBE01}[0x000A]And it learned {0x0107,0x0002} instead!{0xBE05,0x0004}{0xBE05,0x0001}
+sub_event_132_newmove_09=Steel Beam is an incredibly powerful move,[0x000A]but the user will take damage, too.

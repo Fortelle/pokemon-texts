@@ -1,0 +1,40 @@
+Hai acceso il PC.{0xBE01}
+A quale sistema vuoi accedere?
+PC di ???
+PC di Lanette
+Archivio
+{0xBDFF:0x0005}
+PC del Prof. Birch
+Spegni
+Deposita Pokémon
+Ritira Pokémon
+Sposta Pokémon
+Sposta strumenti
+Esci
+Deposita i Pokémon della tua squadra nei Box[0x000A]del Sistema Memoria.
+Ritira i Pokémon dai Box per metterli in squadra.
+Organizza i Pokémon nei Box o in squadra.
+Organizza gli strumenti dei Pokémon nei Box[0x000A]o in squadra.
+Esci dal Sistema Memoria.
+Complimenti per aver sconfitto il Campione!{0xBE01}[0x000A]Come ricompensa ricevi degli sfondi.{0xBE05,0x0000}{0xBE05,0x0001}{0xBE01}
+{0xBDFF:0x0013}
+1° completamento del gioco
+Guarda l’ultima foto
+Sala d’Onore
+Esci
+Guarda i Pokémon con cui hai completato il gioco[0x000A]la prima volta.
+Guarda l’ultima foto che hai scattato.
+Guarda i Pokémon con cui hai fatto il tuo ingresso[0x000A]nella Sala d’Onore.
+Esci dall’archivio.
+I dati della Sala d’Onore sono danneggiati.{0xBE01}[0x000A]Accedi nuovamente alla Sala d’Onore per ripristinarli.{0xBE01}
+Pokédex di Hoenn
+{0xBDFF:0x001E}
+{0xBDFF:0x001F}
+Pokédex Nazionale
+Esci
+Fai valutare al Prof. Birch il Pokédex di Hoenn.
+{0xBDFF:0x0023}
+{0xBDFF:0x0024}
+Fai valutare al Prof. Birch il Pokédex Nazionale.
+Esci dal PC del Prof. Birch
+Vuoi far valutare un altro Pokédex?

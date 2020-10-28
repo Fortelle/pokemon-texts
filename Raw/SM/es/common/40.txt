@@ -1,0 +1,111 @@
+Comunicación local establecida
+Conexión a internet establecida
+Botón Y: Salir
+Combate
+Intercambio
+Botón Y: Participar
+Jugadores bloqueados
+Intercambio en conexión
+GTS
+Intercambio prodigioso
+Combate en conexión
+Área de Combate
+Descargar reglamento
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+Combate Individual
+Combate Doble
+Combate Múltiple
+Battle Royale
+Botón Y: Añadir
+Sí
+No
+Comunicación inalámbrica desactivada
+{0xBDFF:0x0018}
+Aceptar
+¿Quieres salir de la Festi Plaza?
+Saliendo...[0x000A]Por favor, espera.
+{0x0100,0x0000} te reta a un Combate[0x000A]Individual.
+{0x0100,0x0000} te reta a un Combate[0x000A]Doble.
+{0x0100,0x0000} te reta a un Combate[0x000A]Múltiple.
+{0x0100,0x0000} te reta a batirte en un[0x000A]Battle Royale.
+¿Qué quieres hacer?
+¿Qué quieres hacer?
+Elige el criterio de búsqueda de participantes.
+Elige una modalidad de combate.
+Las personas que añadas a la lista de jugadores[0x000A]bloqueados no podrán comunicarse contigo.{0xBE01}[0x000A]¿Quieres añadir a esta persona a tu lista de[0x000A]jugadores bloqueados?
+Lista actualizada.{0xBE01}
+No se ha podido añadir a esta persona a tu lista[0x000A]de bloqueados porque tu tarjeta SD está llena.{0xBE01}[0x000A]Sal del juego y libera espacio de tu tarjeta SD.
+Proponiendo un Combate Individual...
+Proponiendo un Combate Doble...
+Proponiendo un Combate Múltiple...
+Proponiendo un Battle Royale...
+¡Todos han aceptado!
+{0x0100,0x0000} ha aceptado.
+{0x0100,0x0000} ha declinado la propuesta.{0xBE01}
+Buscando contrincantes...
+¡Has recibido una propuesta de[0x000A]{0x0100,0x0000}!
+¿Quieres cancelar la búsqueda de oponentes?
+¿Quieres cancelar tu propuesta?
+Has cancelado tu propuesta.
+Se ha interrumpido la conexión.{0xBE01}
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+Saliendo del minijuego...[0x000A]Espera, por favor.
+La comunicación inalámbrica está desactivada.[0x000A]Se va a interrumpir la operación.{0xBE01}
+{0xBDFF:0x0038}
+Solicitud en curso...[0x000A]Por favor, espera.
+Se ha interrumpido la comunicación.{0xBE01}
+{0xBDFF:0x003B}
+{0xBDFF:0x003C}
+{0xBDFF:0x003D}
+{0xBDFF:0x003E}
+Preparativos en curso...[0x000A]Por favor, espera.
+Proponiendo un intercambio en conexión...
+{0x0100,0x0000} te propone un intercambio en conexión.
+{0xBDFF:0x0042}
+{0xBDFF:0x0043}
+{0xBDFF:0x0044}
+{0xBDFF:0x0045}
+{0xBDFF:0x0046}
+“{0x01B5,0x0000}” en curso... Toca si quieres participar.
+{0xBDFF:0x0048}
+No se ha podido establecer la conexión debido[0x000A]a que la comunicación inalámbrica está[0x000A]desactivada.[0x000A][0x000A]Activa la comunicación inalámbrica.
+Ahora mismo no puedes realizar intercambios en[0x000A]conexión ni usar la GTS porque se produjo un[0x000A]error de conexión o la consola se apagó durante[0x000A]el transcurso del último intercambio o de la[0x000A]sesión de la GTS.[0x000A][0x000A]{0xFF00,0x0002}Inténtalo de nuevo más tarde.{0xFF00,0x0000}
+Para poder realizar intercambios necesitas[0x000A]contar con dos Pokémon por lo menos.[0x000A][0x000A]Atrapa unos cuantos e inténtalo de nuevo[0x000A]más tarde.
+No puedes recuperar el Pokémon que dejaste[0x000A]en la GTS porque tu equipo y tus cajas están[0x000A]llenos.[0x000A][0x000A]Organiza tus cajas y vuelve a entrar en la GTS.
+Necesitas contar con al menos dos Pokémon en[0x000A]tu equipo para librar un Combate Doble.[0x000A][0x000A]Organiza tu equipo e inténtalo de nuevo.
+El control parental no permite conectarse a[0x000A]internet.
+{0xBDFF:0x004F}
+{0xBDFF:0x0050}
+{0xBDFF:0x0051}
+{0xBDFF:0x0052}
+{0xBDFF:0x0053}
+{0xBDFF:0x0054}
+{0xBDFF:0x0055}
+{0xBDFF:0x0056}
+{0xBDFF:0x0057}
+{0xBDFF:0x0058}
+{0xBDFF:0x0059}
+{0xBDFF:0x005A}
+{0xBDFF:0x005B}
+{0xBDFF:0x005C}
+Tiempo:
+{0x0201,0x0000}
+{0x0200,0x0000}
+/
+{0x0100,0x0000}
+---
+¿Quieres salir del minijuego?
+{0x0201,0x0000}:{0x0201,0x0001}
+{0x01B5,0x0000}
+Tiempo restante:
+Puntuación total:
+Puntuación:
+Participantes:
+{0x0201,0x0000}
+:
+{0x0204,0x0000,0xE07F}
+{0x0202,0x0000}
+Botón Y: Salir

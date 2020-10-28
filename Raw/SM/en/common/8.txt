@@ -1,0 +1,102 @@
+Vs. Recorder
+A Vs. Recorder is a device that allows you to record[0x000A]battles such as Link Battles and battles at the Battle Spot[0x000A]and view them later.[0x000A][0x000A]It also allows you to reenact your opponent from the data[0x000A]recorded in the Vs. Recorder and let you battle against[0x000A]the opponent.
+You can make your Battle Videos recorded by your Vs.[0x000A]Recorder public, or search and view Battle Videos that[0x000A]are made public by other players.[0x000A]A Battle Video that is made public has a search code.[0x000A]Share the code with other people, and they can view the[0x000A]same video even if they are far away.
+Inverse Battle
+{0x0100,0x0000}
+Played:
+Registered:
+{0xBDFF:0x0007}
+{0x0206,0x0000,0x002C}
+{0x0201,0x0001}/{0x0201,0x0002}/{0x0203,0x0000,0x0000}
+{0x0203,0x0000,0x0000}-{0x0203,0x0001,0x0000}-{0x0203,0x0002,0x0000}-{0x0203,0x0003,0x0000}
+{0x0202,0x0000}
+:
+No. {0x0203,0x0000,0x002C}
+To view this Battle Video, you need the latest updated data.
+Turn:
+A win by knockout
+A win by decision because the time ran out
+A win by the opponent’s surrender
+A draw by decision
+Player 2
+Player 3
+Player 4
+/
+There is no Battle Video.[0x000A][0x000A]You can record up to 100 Battle Videos in the[0x000A]Link Battles, the Battle Spot, and so on.[0x000A][0x000A]Use Battle Videos to study battles!
+Link Battle
+Battle Spot
+Battle Tree
+Battle Royal Dome
+Online Competition
+Live Competition
+Friendly Competition
+Open the Vs. Recorder
+Search for a Battle Video
+Make a Battle Video public
+Yes
+No
+Multiple Delete
+Delete
+Switch
+Rewind the turn
+Skip the turn
+Quit
+Open the Vs. Recorder!
+What would you like to do?
+Checking the SD Card...[0x000A]Please don’t turn off the power.
+Corrupted Battle Videos have been deleted.{0xBE01}
+Checking the server...[0x000A]Don’t turn off the power.
+Your Vs. Recorder has successfully been[0x000A]connected to the Internet.{0xBE01}
+{0x0202,0x0000} Battle Videos you’ve selected[0x000A]will be deleted. Are you sure about this?
+Deleting one or more Battle Videos...[0x000A]Don’t turn off the power.
+Deleted!{0xBE01}
+Please choose a Battle Team to use for a[0x000A]mock battle.{0xBE01}
+Once you make this Battle Video public, you[0x000A]won’t be able to withdraw it until tomorrow.{0xBE01}[0x000A]Do you want to make this Battle Video public[0x000A]on the Internet?
+This Battle Video cannot be made public.{0xBE01}
+Sending the Battle Video...[0x000A]Don’t turn off the power.
+The Battle Video has been made public on[0x000A]the Internet.{0xBE01}
+Do you want to remove this Battle Video from[0x000A]public view?
+This Battle Video can’t be withdrawn[0x000A]until tomorrow.{0xBE01}
+The Battle Video has been removed from[0x000A]public view.{0xBE01}
+This Battle Video will be deleted.[0x000A]Are you sure about this?
+Searching for the Battle Video...
+The Battle Video couldn’t be found.{0xBE01}
+To view this Battle Video, you need the latest[0x000A]updated data.
+This Battle Video can’t be played.{0xBE01}
+Preparing to play the Battle Video...[0x000A]Please wait.
+Please choose an opponent for a mock battle.{0xBE01}
+Removing it from public viewing...[0x000A]Don’t turn off the power.
+Skipping the video...[0x000A]Please wait a moment.
+Communicating...[0x000A]Please wait.
+Single Battle
+Double Battle
+Battle Royal
+Multi Battle
+Link Battle
+Battle Spot
+Battle Tree
+Battle Royal Dome
+{0x011A,0x0000}
+Free Battle
+Rating Battle
+Special Battle
+Single
+Double
+Multi
+Super Single
+Super Double
+Super Multi
+Normal Rank
+Super Rank
+Hyper Rank
+Master Rank
+{0x011A,0x0000}
+A loss by knockout
+A loss by decision because the time ran out
+A loss by your surrender
+First Place
+Second Place
+Third Place
+Fourth Place
+Championships Battle
+You can’t make any more Battle Videos public.{0xBE01}[0x000A]The maximum number of Battle Videos you can[0x000A]make public is 10.{0xBE01}[0x000A]Please remove a Battle Video from public view[0x000A]or delete a Battle Video that has been{0xBE00}[0x000A]made public.{0xBE01}

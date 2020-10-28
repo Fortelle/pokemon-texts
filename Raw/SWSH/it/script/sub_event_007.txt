@@ -1,0 +1,17 @@
+sub_event_007_tokkun_01=Oh! Non mi dire! Sei diventat{0x1100,0x00FF,0x0101}oa Campione{0x1100,0x00FF,0x0300}ssa![0x000A]Ben fatto!{0xBE01}[0x000A]In tal caso, posso rendere più forti i Pokémon[0x000A]di livello 100 con un bell’Allenamento Pro!
+sub_event_007_tokkun_02=Oh...! C’è un piccolo problema.{0xBE01}[0x000A]Non mi sembra che tu abbia dei Tappi d’oro.[0x000A]E non vedo nemmeno dei Tappi d’argento...
+sub_event_007_tokkun_03=Quale Pokémon vuoi sottoporre[0x000A]all’Allenamento Pro?
+sub_event_007_tokkun_04=Uhm... Quel Pokémon non è ancora al livello[0x000A]giusto.{0xBE01}[0x000A]Se non è di livello 100, l’Allenamento Pro[0x000A]sarà troppo pesante per lui.
+sub_event_007_tokkun_05={0x0102,0x0001} è già così Pro che nemmeno[0x000A]un professionista come me può fare di meglio!
+sub_event_007_tokkun_06=Vuoi usare un Tappo d’oro o un Tappo[0x000A]d’argento?
+sub_event_007_tokkun_07=Vuoi potenziare tutte le statistiche?
+sub_event_007_tokkun_08=Quale statistica vuoi sottoporre[0x000A]all’Allenamento Pro?
+tokkun_01_01={0x0109,0x0000}: {0x0201,0x0001}
+tokkun_01_02=Esci
+tokkun_03_08=Alleniamoci!
+tokkun_10_01=Non è possibile migliorare ulteriormente[0x000A]questa statistica!
+tokkun_10_02=Non hai alcun {0x0109,0x0000}...
+sub_event_007_tokkun_09=Puff pant... Che sudata! {0x0102,0x0000}[0x000A]ora è più forte grazie all’Allenamento Pro!
+sub_event_007_tokkun_10=Vuoi allenare un altro Pokémon?
+sub_event_007_tokkun_11=Niente Allenamento Pro, allora?
+sub_event_007_tokkun_12=Torna da me quando sarai pront{0x1100,0x00FF,0x0101}oa[0x000A]per un Allenamento Pro!

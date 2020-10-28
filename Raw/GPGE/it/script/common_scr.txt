@@ -1,0 +1,11 @@
+msg_common_scr_yes=Sì
+msg_common_scr_no=No
+msg_common_money={0x0206,0x0008,0x002E} [0xE300]
+msg_common_money_02=Soldi
+msg_common_report_01=Vuoi salvare il gioco?
+msg_common_report_02=Salvataggio in corso.[0x000A]Non spegnere la console.
+msg_common_report_03={0x0100,0x0000} ha salvato il gioco.
+msg_common_report_04={0xBDFF:0x0007}
+msg_common_report_05=Il salvataggio non è riuscito.
+msg_common_getmoney_01={0x0100,0x0000} riceve {0x0207,0x0002,0x002E} [0xE300]!
+msg_common_pokeget_01={0x0100,0x0000} riceve {0x1502,0x0001}{0x0101,0x0001}!

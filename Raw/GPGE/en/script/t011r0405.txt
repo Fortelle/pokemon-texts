@@ -1,0 +1,8 @@
+msg_t011r0405_staffm_01_01=Team Rocket is in an uproar over some intruder.[0x000A]That’s you, right?
+msg_t011r0405_staffm_01_02=Team Rocket took off![0x000A]Did you get rid of them?{0xBE00}[0x000A]Thank you!
+msg_t011r0403_report_01=It’s a Pokémon Report!{0xBE01}[0x000A]The research section succeeded in creating[0x000A]Porygon, an artificial Pokémon created{0xBE00}[0x000A]by humans.
+msg_t011r0403_report_02=It’s a Pokémon Report!{0xBE01}[0x000A]Over 200 Pokémon moves have been confirmed.
+msg_t011r0403_report_03=It’s a Pokémon Report!{0xBE01}[0x000A]Some Pokémon have been confirmed to evolve[0x000A]when they are traded.
+msg_t011r0405_kanban_01=“Silph Co. Head Office[0x000A]5F”
+msg_t011r0405_rocketw_01_01=Don’t look at me!{0xBE01}[0x000A]I lost to a kid with a nasty look in his eyes.[0x000A]My Pokémon just don’t have any energy left...
+msg_studym1_01_p01_cave_d1005={0xBDFF:0x0007}

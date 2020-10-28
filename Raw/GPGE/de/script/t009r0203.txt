@@ -1,0 +1,4 @@
+msg_t009r0203_diary_01=Tagebuch: 6. Februar[0x000A]Aus Mew ist ein neues Pokémon entstanden!{0xBE01}[0x000A]Ich habe dem Kleinen den Namen Mewtu[0x000A]gegeben.
+msg_t009r0203_switch_01={0xBDFF:0x0001}
+msg_t009r0203_switch_02={0xBDFF:0x0002}
+msg_t009r0203_switch_03={0xBDFF:0x0003}

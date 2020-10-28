@@ -1,0 +1,13 @@
+msg_main0300_rival_01=AAAAAH!!!
+msg_main0300_rival_02={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} D-D-Das P--{0xBE01}[0x000A]Das P-P-Pokémon hat g-g-ge...{0xBE01}[0x000A]MUSS... MICH... BERUHIGEN...!
+msg_main0300_dummy_01={0xBDFF:0x0002}
+msg_main0300_rival_03={0xFF00,0x0009}{0x0100,0x0001}:{0xFF00,0x0000} *Keuch...*[0x000A]Oh Mann, also wirklich...{0xBE01}[0x000A]Tut mir leid, dass ich so ausgeflippt bin.[0x000A]Eigentlich hab ich ja Nerven aus Stahl, aber...
+msg_main0300_rival_04=Da hinten wohnt ein sehr bekannter Pokémaniac.{0xBE01}[0x000A]Ich hab mir gedacht, ich schau mal bei ihm[0x000A]vorbei. Er hat bestimmt ein paar seltene{0xBE00}[0x000A]Pokémon, die ich noch nicht gesehen hab.
+msg_main0300_rival_05=Aber als ich dort angekommen bin...{0xBE01}[0x000A]Und jetzt halt dich bitte fest!
+msg_main0300_rival_06=Da war Bill, der Pokémaniac, gar nicht da...{0xBE01}[0x000A]Stattdessen stand ich plötzlich vor einem[0x000A]Pokémon, das wie ein Mensch gesprochen hat!!
+msg_main0300_rival_07=Uff, wenn ich nur daran denke, läuft’s mir eiskalt[0x000A]den Rücken runter...{0xBE01}[0x000A]Halt dich am besten von seinem Haus fern,[0x000A]{0x0100,0x0000}! Ich zumindest werde einen{0xBE00}[0x000A]großen Bogen darum machen.
+msg_rival_01_p01_field_t005={0xBDFF:0x0008}
+msg_rival_01_p02_field_t005={0xBDFF:0x0009}
+msg_rival_01_p03_field_t005={0xBDFF:0x000A}
+msg_rival_01_p05_field_t005={0xBDFF:0x000B}
+msg_rival_01_p06_field_t005={0xBDFF:0x000C}

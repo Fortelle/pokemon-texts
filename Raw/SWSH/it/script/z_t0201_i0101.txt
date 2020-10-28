@@ -1,0 +1,8 @@
+msg_t0201i0101_plant_01=Queste piante richiedono molte cure,[0x000A]ma hanno tutte un ottimo aspetto.
+msg_t0201i0101_bg1_01=La lavagna è fitta di appunti...
+msg_t0201i0101_bg2_01=I dati dei grafici cambiano in continuazione...[0x000A]Sembrano delle misurazioni...
+msg_t0201i0101_poke1_01_pop={0xBDFF:0x0003}
+msg_t0201i0101_poke2_01_pop=Yaaaamper!
+msg_t0201i0101_bookshelf1_01=“L’evoluzione dei Pokémon”{0xBE01}[0x000A]I Pokémon non cambiano aspetto solo salendo[0x000A]di livello, ma in alcuni casi anche per l’influenza[0x000A]di determinati strumenti o luoghi.{0xBE01}[0x000A]Si pensa che ciò sia dovuto a particolari fattori[0x000A]fisiologici che gli permettono di cambiare[0x000A]aspetto e temperamento, ma nessuno è ancora[0x000A]riuscito a dimostrarlo.
+msg_t0201i0101_bookshelf2_01=“I Pokémon e il fenomeno Dynamax”{0xBE01}[0x000A]L’aumento spropositato delle dimensioni di un[0x000A]Pokémon, noto come “fenomeno Dynamax”,[0x000A]può essere osservato solo in determinati luoghi[0x000A]di Galar e in particolari condizioni.
+msg_t0201i0101_bookshelf2_02=“L’aumento di dimensioni dei Pokémon”{0xBE01}[0x000A]Generalmente, l’evoluzione permette[0x000A]ai Pokémon di aumentare di dimensioni e di[0x000A]diventare più potenti. Cercare di apparire più[0x000A]grandi è una strategia legata all’istinto[0x000A]di sopravvivenza.

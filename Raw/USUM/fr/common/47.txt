@@ -1,0 +1,228 @@
+{0x0100,0x0000}
+Ami
+{0x0124,0x0000}
+{0x0125,0x0000}
+・Date de rencontre : {0x0201,0x0002}/{0x0201,0x0001}/20{0x0201,0x0000}
+・Classement parmi les VIP : Nº {0x0202,0x0000}
+・Classement parmi les invités : Nº {0x0202,0x0000}
+・En train de faire un Échange Link...
+・En train de faire un Combat Solo...
+・En train de faire un Combat Duo...
+・En train de faire un Combat Multi...
+Invité
+VIP
+Combat Solo
+Combat Duo
+Bataille Royale
+Mini-quête
+Organiser une mini-quête
+Participer à une mini-quête
+{0x01B5,0x0000}
+Combats
+Échanges
+Possessions et dépenses
+Pokémania
+Meilleure journée
+Place Festival
+Divers
+{0x0202,0x0000}
+Combats
+Échanges
+Possessions et dépenses
+Pokémania
+Meilleure journée
+Place Festival
+Divers
+{0x01BC,0x0000}
+{0x0208,0x0000,0xE07F}
+{0x01B7,0x0000}
+{0x01B7,0x0000}
+Record battu[0xE07F]!
+Score à battre
+Limite de temps
+Festipièces reçues
+Meilleur score total
+Meilleur score individuel
+Score total
+Score individuel
+{0x0204,0x0000,0x0000}
+{0x0201,0x0000}
+:
+{0xBDFF:0x0032}
+{0x0202,0x0000}
+Entre {0x0202,0x0000} et {0x0202,0x0001}
+{0x0202,0x0000}
+Échanges Link
+Classements du VIP
+Classements de l’invité
+Sondage
+Scores des participants
+Liste noire
+Combat Multi
+・En train de faire une Bataille Royale...
+{0xBDFF:0x003E}
+・En train de faire les courses...
+・En pleine discussion...
+・En train de jouer sur la Place Festival...
+{0xFF00,0x0002}・Je veux me battre[0xE07F]!{0xFF00,0x0000}
+{0xFF00,0x0002}・Je veux échanger[0xE07F]!{0xFF00,0x0000}
+{0xFF00,0x0002}・Je veux participer aux mini-quêtes[0xE07F]!{0xFF00,0x0000}
+・En train d’utiliser la GTS...
+・En train de faire un Échange Miracle...
+・Connecté au Coin Combats...
+・En plein dans une mini-quête...
+・En pleine aventure...
+---
+・Rang de la Place Festival : {0x0202,0x0000}
+Nº
+Combats Link
+Coin Combats
+Arbre de Combat
+Pokémon sauvages combattus
+Défenses du titre de Maître
+Coups super efficaces
+Capacités Z utilisées
+-
+Échanges Link
+Échanges Miracle
+Échanges à la GTS
+Pokémon laissés à la GTS
+-
+-
+-
+-
+Poké Fèves récoltées
+Récoltes de Baies
+Argent dépensé
+PCo dépensés
+Habits possédés
+-
+-
+-
+Pokémon attrapés
+Œufs éclos
+Caresses
+Poké Fèves données
+Nombre de surnoms donnés
+Utilisations d’Appel-Monture
+-
+-
+Expérience totale
+Pokémon attrapés
+Évolutions de Pokémon
+Pokémon mis K.O.
+Dresseurs défiés
+-
+-
+-
+Rang de la Place Festival
+Participation aux mini-quêtes
+Stands conseillés
+Interactions avec les invités
+Festipièces utilisées
+-
+-
+-
+Chromatiques rencontrés
+Gains à la Loterie ID
+Augmentation des PP
+Changements de tenue
+Lectures de QR Code
+Photos prises
+Ultra-Exploration
+PCo Surf Démanta
+Actualiser
+Valider
+En savoir plus
+Retirer des VIP
+Arrêter
+Oui
+Non
+Appeler
+Participer
+Infos
+Retour
+Organiser
+Désinscrire
+Vous n’avez qu’un seul Pokémon.[0x000A]Vous aurez besoin de deux Pokémon ou plus[0x000A]pour commencer un Combat Duo.
+Votre console s’est éteinte pendant votre[0x000A]précédent échange ou pendant votre connexion[0x000A]à la GTS.[0x000A][0x000A]Vous devrez patienter {0x0201,0x0000} minute{0x1101,0x0000,0x0100}s avant[0x000A]de pouvoir réessayer.
+Vous n’avez qu’un seul Pokémon.[0x000A]Vous aurez besoin de deux Pokémon ou plus[0x000A]pour faire un échange.
+{0xBDFF:0x0095}
+Beaucoup de mini-quêtes sont déjà en cours sur[0x000A]Internet. Impossible d’en organiser une nouvelle.[0x000A][0x000A]Veuillez participer à une mini-quête déjà[0x000A]en cours.
+Vous n’avez pas de Festicket.[0x000A]Impossible d’organiser une nouvelle mini-quête.[0x000A][0x000A]Veuillez participer à une mini-quête déjà[0x000A]en cours.
+Moins de 30 minutes se sont écoulées depuis[0x000A]que vous avez organisé une mini-quête sur[0x000A]Internet pour la dernière fois.[0x000A][0x000A]Vous devrez patienter {0x0202,0x0001} minute{0x1101,0x0001,0x0100}s avant[0x000A]de pouvoir réessayer.
+Cette liste permet de voir les joueurs qui ont[0x000A]visité votre Place Festival.[0x000A][0x000A]Elle est divisée en trois groupes : Invités, VIP[0x000A]et Liste noire.
+Les invités sont les joueurs que vous avez[0x000A]rencontrés via les fonctions de communication.[0x000A]Vous pouvez en avoir jusqu’à 50.[0x000A][0x000A]Lorsqu’un 51[0xE0A6] invité arrive sur votre Place[0x000A]Festival, il prend la place du joueur avec lequel[0x000A]la connexion est la plus ancienne.
+Les VIP sont des joueurs que vous avez[0x000A]enregistrés pour empêcher qu’ils ne soient[0x000A]remplacés par d’autres invités.[0x000A][0x000A]Pour les enregistrer, parlez aux joueurs[0x000A]sur votre Place Festival et choisissez[0x000A]Enregistrer en tant que VIP.
+Vous pouvez enregistrer jusqu’à 50 VIP.[0x000A]Si vous voulez retirer quelqu’un de votre liste[0x000A]de VIP, choisissez ce joueur puis sélectionnez[0x000A]Retirer des VIP.
+Les joueurs inscrits sur votre liste noire[0x000A]n’apparaîtront pas sur votre Place Festival.[0x000A][0x000A]Vous ne pourrez pas non plus recevoir[0x000A]d’invitation à combattre ou échanger[0x000A]de la part de ces joueurs.
+Vous pouvez enregistrer jusqu’à 100 joueurs[0x000A]dans votre liste noire.[0x000A][0x000A]L’enregistrement est possible au moment[0x000A]où vous recevez une invitation à combattre[0x000A]ou à échanger.
+{0x0100,0x0000} ne peut pas se connecter[0x000A]en ce moment.{0xBE01}
+Données mises à jour[0xE07F]!{0xBE01}
+Voulez-vous vous connecter avec[0x000A]{0x0100,0x0000}[0xE07F]?
+{0x0100,0x0000} ne peut pas se connecter[0x000A]en ce moment.{0xBE01}
+Les joueurs ne pouvant pas se connecter ont[0x000A]été retirés de la liste.{0xBE01}[0x000A]Veuillez consulter la liste à nouveau.{0xBE01}
+{0xBDFF:0x00A4}
+{0xBDFF:0x00A5}
+Que voulez-vous faire avec {0x0100,0x0000}[0xE07F]?
+Voulez-vous désinscrire {0x0100,0x0000}[0x000A]de votre liste de VIP[0xE07F]?
+Désinscription {0x1408,0x0000}{0x0100,0x0000} terminée.{0xBE01}
+Si vous retirez cet utilisateur de votre liste[0x000A]noire, vous pourrez recevoir des invitations{0xBE00}[0x000A]de sa part.{0xBE01}[0x000A]Voulez-vous vraiment le retirer de votre liste[0x000A]noire[0xE07F]?
+Ce joueur a été retiré de votre liste noire.{0xBE01}
+Impossible de se connecter avec ce joueur[0x000A]pour le moment.{0xBE01}
+Voulez-vous participer à un Combat Solo[0xE07F]?
+Voulez-vous participer à un Combat Duo[0xE07F]?
+Voulez-vous participer à un Combat Multi[0xE07F]?
+Voulez-vous participer à une Bataille Royale[0xE07F]?
+Voulez-vous participer à un Échange Link[0xE07F]?
+Voulez-vous participer à une mini-quête[0xE07F]?
+Votre partie va être sauvegardée.[0x000A]Voulez-vous continuer[0xE07F]?
+Voulez-vous participer à cette mini-quête[0xE07F]?
+Voulez-vous organiser une mini-quête[0x000A]en échange d’un Festicket[0xE07F]?
+Voulez-vous sauvegarder[0xE07F]?
+Sauvegarde en cours...[0x000A]Ne pas éteindre la console.
+Score total : {0x0204,0x0000,0xE07F}   ★ : {0x0200,0x0001}[0x000A]Score individuel : {0x0204,0x0002,0xE07F}   ★ : {0x0200,0x0003}{0xBE01}
+Préparation en cours...[0x000A]Veuillez patienter.
+Nombre de ★ gagnées au total :[0x000A]{0x0201,0x0004}{0xBE01}[0x000A]Cela vous rapporte {0x0202,0x0005} Festipièce{0x1101,0x0005,0x0100}s[0xE07F]![0x000A]Félicitations[0xE07F]!{0xBE01}
+Nombre de ★ gagnées au total :[0x000A]{0x0201,0x0004}{0xBE01}[0x000A]Cela ne vous rapporte aucune Festipièce...[0x000A]Dommage...{0xBE01}
+Impossible de participer à cette mini-quête.[0x000A]Veuillez patienter un instant, puis réessayez.{0xBE01}
+Cette mini-quête n’est plus en cours que[0x000A]pour quelques instants ou vient de se finir.{0xBE00}[0x000A]Impossible d’y participer.{0xBE01}[0x000A]Veuillez choisir une autre mini-quête.{0xBE01}
+{0x0201,0x0000}:{0x0201,0x0001}
+La communication sans fil est désactivée.[0x000A]Activez la communication sans fil pour pouvoir{0xBE00}[0x000A]vous connecter.{0xBE01}
+Impossible de participer à cette mini-quête.[0x000A]Vous n’avez pas le stand nécessaire.{0xBE01}
+Impossible d’organiser une nouvelle mini-quête.{0xBE01}[0x000A]Veuillez participer à l’une de celles qui sont déjà[0x000A]ouvertes.{0xBE01}
+{0xBDFF:0x00C1}
+{0xBDFF:0x00C2}
+{0xBDFF:0x00C3}
+Voir Pokémon
+Désélectionner
+Voulez-vous sélectionner cette personne[0xE07F]?
+Impossible de sélectionner cette personne.
+Cette personne n’est pas venue vous rendre[0x000A]visite depuis un moment.{0xBE01}
+Grade {0x0201,0x0000}
+{0x0102,0x0000}
+L
+{0x0202,0x0000}
+{0x0107,0x0000}
+PV
+Attaque
+Défense
+Atq. Spé.
+Déf. Spé.
+Vitesse
+{0x0202,0x0000}
+/
+{0x0106,0x0000}
+{0x0109,0x0000}
+Vous pouvez regarder les photos partagées[0x000A]par vos invités et VIP.{0xBE01}[0x000A]Voulez-vous continuer[0xE07F]?
+{0x0181,0x0000}
+{0x0181,0x0000}
+{0x0181,0x0000}
+{0x0181,0x0000}
+{0x0181,0x0000}
+{0x0181,0x0000}
+{0x0181,0x0000}
+{0x0181,0x0000}
+{0x0181,0x0000}
+Tenue Poké Monture marine
+Tenue Poké Monture terrestre

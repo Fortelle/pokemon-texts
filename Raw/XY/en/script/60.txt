@@ -1,0 +1,90 @@
+Buy
+Sell
+No thanks!
+Welcome to the Poké Mart![0x000A]May I help you?
+Please come again!
+Is there anything else I may do for you?
+Money
+Poké Miles
+Battle Points
+${0x0206,0x0000,0x002C}
+${0x0204,0x0000,0x002C}
+{0xBDFF:0x000B}
+---
+{0x0206,0x0000,0x002C}
+{0x0204,0x0000,0x002C}
+Quit
+{0x0109,0x0000}
+In Bag:
+{0x0202,0x0000}
+
+
+×
+{0x0201,0x0000}
+{0x1001}{0x0109,0x0000}? Certainly.[0x000A]How many would you like?
+You don’t have enough money.
+You want {0x0201,0x0001} {0x1000}{0x0109,0x0000}.[0x000A]That will be ${0x0206,0x0002,0x002C}. Is that OK?
+You want {0x0201,0x0001} {0x1001}{0x0109,0x0000}.[0x000A]That will be ${0x0206,0x0002,0x002C}. Is that OK?
+Yes
+No
+Here you go.[0x000A]Thank you.
+You put away the {0x0109,0x0000} in the[0x000A]{0x0112,0x0001} Pocket.
+You can’t take any more of this item.
+You also get a Premier Ball[0x000A]as an added bonus.
+Welcome to the Technical Machine[0x000A]department! May I help you?
+You already have it!
+No. {0x0202,0x0000}, {0x0107,0x0001}?[0x000A]That will be ${0x0206,0x0002,0x002C}. OK?
+You put away {0x0107,0x0000}[0x000A]in the {0x0112,0x0001} Pocket.{0xBE01}
+Medicinal herbs from foreign countries.[0x000A]They make Pokémon healthy!{0xBE00}[0x000A]Come now. Buy them!
+Come back again![0x000A]Thank you! Thank you!
+Is there anything else I can help you with?
+How many {0x1001}{0x0109,0x0000}[0x000A]do you want to buy?
+You want {0x0201,0x0001} {0x0109,0x0000}{0x1000}![0x000A]That’s ${0x0206,0x0002,0x002C}.
+You want {0x0201,0x0001} {0x1001}{0x0109,0x0000}![0x000A]That’s ${0x0206,0x0002,0x002C}.
+Here you go! You bought![0x000A]Thank you! Thank you!
+You can’t carry no more!
+You don’t have no money!
+Welcome to the Stone Emporium.[0x000A]We sell various stones.
+We appreciate your patronage.[0x000A]Please come again.
+Is there anything else you wanted?
+{0x1001}{0x0109,0x0000}? Certainly.[0x000A]How many would you like to purchase?
+You want {0x0201,0x0001}.[0x000A]That will be ${0x0206,0x0002,0x002C}. Is that all right?
+You want {0x0201,0x0001}.[0x000A]That will be ${0x0206,0x0002,0x002C}. Is that all right?
+Here you go![0x000A]All our stones are “a-stone-ishing”!
+Oh my! You can’t have any more stones!
+I’m hesitant to say this, but you[0x000A]don’t seem to have enough money.
+Welcome to the Poké Ball Boutique![0x000A]We’re a Poké Ball specialty shop.
+Good-bye.[0x000A]Have a nice trip!
+Isn’t there anything else you wanted?
+Buy some extra Poké Balls. They’ll be useful.[0x000A]How many do you need?
+OK! You want {0x0201,0x0001}.[0x000A]That will be ${0x0206,0x0002,0x002C}!
+OK! I hope you catch great Pokémon.
+Oh, too full!{0xBE01}[0x000A]I don’t mean me! It’s your Bag![0x000A]Your Bag is too full to carry more Poké Balls.
+Sorry, but you don’t have enough money.
+Welcome![0x000A]We sell only the best Potions!
+Welcome! This is a specialized shop[0x000A]that sells only Poké Balls.
+I’ve traveled around the world and collected[0x000A]many different kinds of incense!
+You don’t have enough Poké Miles.
+You don’t have enough Battle Points.
+How many {0x1001}{0x0109,0x0000} would you[0x000A]like to trade for your Poké Miles?
+How many {0x1001}{0x0109,0x0000} would you[0x000A]like to trade for Battle Points?
+You want {0x0201,0x0001} {0x1000}{0x0109,0x0000}.[0x000A]That will be {0x0206,0x0002,0x002C} Poké Mile{0x1101,0x0002,0x0100}s. OK?
+You want {0x0201,0x0001} {0x1000}{0x0109,0x0000}.[0x000A]That will be {0x0206,0x0002,0x002C} BP. Is that OK?
+You want {0x0201,0x0001} {0x1001}{0x0109,0x0000}.[0x000A]That will be {0x0206,0x0002,0x002C} Poké Mile{0x1101,0x0002,0x0100}s. OK?
+You want {0x0201,0x0001} {0x1001}{0x0109,0x0000}.[0x000A]That will be {0x0206,0x0002,0x002C} BP. Is that OK?
+Here you go.[0x000A]Thank you.
+Here you go.[0x000A]Thank you.
+You can’t take any more of this item.
+You can’t take any more of this item.
+No. {0x0202,0x0000}, {0x0107,0x0001}, will be[0x000A]{0x0206,0x0002,0x002C} Poké Mile{0x1101,0x0002,0x0100}s. OK?
+No. {0x0202,0x0000}, {0x0107,0x0001}, will be[0x000A]{0x0206,0x0002,0x0000} BP. Is that OK?
+Would you like to trade[0x000A]Poké Miles for prizes?
+PokéMileage is the service that allows you[0x000A]to collect miles when you trade Pokémon or{0xBE00}[0x000A]pass by people.{0xBE01}[0x000A]Miles that you can get depend on the distance[0x000A]between two regions registered on the{0xBE00}[0x000A]Nintendo 3DS systems.{0xBE01}[0x000A]You can also collect a little bit of miles by[0x000A]walking in the Kalos region.{0xBE01}[0x000A]To check your current miles, please check[0x000A]Poké Miles on your Trainer Card.
+Collect Poké Miles and come again.
+Hello![0x000A]Welcome to the Exchange Service Corner.{0xBE01}[0x000A]Would you like to trade in your BP for some[0x000A]fabulous prizes?
+Collect Battle Points and come again!
+Yes
+No
+Info
+Oh! Cool Trainer![0x000A]Please buy lots of Poké Balls!
+You want {0x0201,0x0001}.[0x000A]That will be ${0x0206,0x0002,0x002C}!

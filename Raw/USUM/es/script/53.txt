@@ -1,0 +1,38 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+¡Oye, oye! ¡Echemos un combate Pokémon!{0x0114,0x0030}
+¡Oh, jo, jo! ¡Qué prisas, muchacho!{0xBE01}[0x000A]¡Qué menos que presentarte antes de combatir!{0x0114,0x0008}
+¡Vaaale!{0xBE01}[0x000A]¡Me llamo Tilo, soy el nieto del Kahuna y este es[0x000A]mi colega, {0x0101,0x0000}!{0x0114,0x0007}
+¡Tu {0x0101,0x0001} también mola un montón!{0x0114,0x0007}
+¿Te mola? ¡Gracias!
+¿Te gustan los Pokémon?
+¡Claro! ¡Así que venga, echemos un combate![0x000A]¡Aquí y ahora!{0xBE01}[0x000A]¡No sabes las ganas que tenía de conocerte! ¡He[0x000A]estado buscándote por todos lados!{0x0114,0x0007}
+No me gusta ver a los Pokémon combatir y[0x000A]hacerse daño, pero... me quedaré a animaros.{0x0114,0x0006}
+¡Genial! ¡Acabas de conseguir tu primer Pokémon[0x000A]y ya vas a echar tu primer combate!{0xBE01}[0x000A]¡Veamos cuál de los dos hace mejor uso de los[0x000A]movimientos de su Pokémon!{0x0114,0x0005}
+Me alegra ver que vas a darle a mi nieto la[0x000A]satisfacción de enfrentarse a ti.{0xBE01}[0x000A]Muy bien, luchad sin contenciones. Tengo ganas[0x000A]de ver de qué sois capaces vosotros dos.{0x0114,0x0008}
+Cuando quieras guardar tu progreso, abre el[0x000A]menú con el botón X y selecciona la opción{0xBE00}[0x000A]Guardar.{0xBE01}[0x000A]¡Así podrás volver a ese punto en cualquier[0x000A]momento!
+¿Esto no lo había hecho ya...? Me suena que ya[0x000A]había pasado por aquí...{0xBE01}[0x000A]¡Mecachis! ¡Tengo una memoria de Pokémon pez!{0xBE01}[0x000A]Si no quieres que te pase como a mí, será mejor[0x000A]que guardes con frecuencia o te olvidarás de{0xBE00}[0x000A]todo lo que has hecho hasta el momento...
+A veces le acaricio las roquitas del cuello a mi[0x000A]Rockruff para que vea lo mucho que lo quiero.{0xBE01}[0x000A]Aunque luego me quedo sin manos. ¡Es el precio[0x000A]a pagar por el amor de mi Pokémon!
+¡Tilo es un trozo de pan! ¡Parece mentira que sea[0x000A]familia del viejo Kaudan!
+Vi a unos niños haciéndoles perrerías a unos[0x000A]Pokémon y les dije que pararan si no querían{0xBE00}[0x000A]que el espíritu guardián los fulminase con un{0xBE00}[0x000A]Rayo.{0xBE01}[0x000A]¡Y luego se rieron en mi cara! Los niños de hoy[0x000A]en día no tienen respeto por nada...
+No creas que son los Pokémon los únicos que[0x000A]determinan el resultado de un combate: ¡los{0xBE00}[0x000A]Entrenadores también desempeñan un papel{0xBE00}[0x000A]fundamental!
+¡He estado con mis Pokémon desde que era[0x000A]pequeño y pienso hacerme viejo a su lado!
+La sangre de Kaudan, nuestro Kahuna, corre por[0x000A]las venas del joven Tilo, así que estoy seguro de{0xBE00}[0x000A]que combatir con él es todo un espectáculo.
+Las zonas de hierba alta son muy preciadas[0x000A]para los Entrenadores Pokémon: ¡esconden una{0xBE00}[0x000A]infinidad de Pokémon salvajes que esperan ser{0xBE00}[0x000A]capturados!
+¡Vamos, Tilo, tú puedes![0x000A]¡Dalo todo, {0x0101,0x0000}!
+¡Ruff, ruff!
+¡Ruff, rock!
+{0xBDFF:0x0020}
+{0xBDFF:0x0021}
+{0xBDFF:0x0022}
+{0xBDFF:0x0023}
+{0xBDFF:0x0024}
+{0xBDFF:0x0025}

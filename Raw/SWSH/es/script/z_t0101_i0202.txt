@@ -1,0 +1,13 @@
+msg_t0101_i0202_tv_01=Paul siempre ve los combates del Campeón en[0x000A]esta tele.
+msg_t0101_i0202_bed_01=Parece que la cama se ha hecho deprisa y[0x000A]corriendo...
+msg_t0101_i0202_desk_01=La estantería está repleta de libros que parecen[0x000A]muy complicados.
+msg_t0101_i0202_bed2_01=La cama está perfectamente hecha, aunque[0x000A]parece que nadie la ha usado en mucho tiempo.
+msg_t0101_i0202_training_01=Un banco para hacer ejercicio bastante[0x000A]traqueteado. Lo mismo los Pokémon también{0xBE00}[0x000A]lo utilizan para entrenar.
+msg_t0101_i0202_gureggru_01=Son pósters de los tres Pokémon más populares[0x000A]de Galar.
+msg_t0101_i0202_hats_01=Parece una colección de gorras.
+msg_t0101_i0202_npc1_01=Lionel está tan ocupado que apenas se prodiga[0x000A]por aquí.{0xBE01}[0x000A]Aun así, me gusta mantener su habitación como[0x000A]los chorros del oro.
+msg_t0101_i0202_npc1_02=Aunque ya no sea el vigente Campeón, Lionel[0x000A]sigue teniendo una agenda muy apretada y solo{0xBE00}[0x000A]se pasa por aquí muy de vez en cuando.{0xBE01}[0x000A]No le culpo. Está en la edad de aprovechar para[0x000A]hacer todo lo que se proponga.{0xBE00}[0x000A]¡Juventud, divino tesoro!
+msg_t0101_i0202_ball_01=Has recibido una Poké Ball que contiene un[0x000A]Charmander.
+msg_t0101_i0202_ball_02=Lees la nota adjunta a la Poké Ball.
+msg_t0101_i0202_ball_03=¡Hola, {0x0100,0x0000}![0x000A]Aquí te dejo a este Charmander tan especial[0x000A]para que lo cuides como tú sabes. ¡Hasta nuestro[0x000A]próximo combate, que espero será al rojo vivo![0x000A]Lionel
+msg_t0101_i0202_ball_04=No puedes recibir más Pokémon porque tus cajas[0x000A]están llenas.

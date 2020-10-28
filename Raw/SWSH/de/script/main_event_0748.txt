@@ -1,0 +1,11 @@
+main_event_0748_sister_01=Hallo, äh... {0x0100,0x0000}, richtig?[0x000A]Du bist ja noch ganz schön spät unterwegs.{0x0114,0x000D}
+main_event_0748_sister_02=Du hast doch bestimmt kurz Zeit, um mir[0x000A]bei etwas zu helfen, oder?{0xBE01}[0x000A]Ich will testen, ob ich bei der Arena-Challenge[0x000A]gewinnen kann.{0x0114,0x000D}
+main_event_0748_select_01=Na klar!
+main_event_0748_select_02=Äh, jetzt gleich? Puh...
+main_event_0748_sister_07=Hey, Moment mal!{0x0114,0x000D}
+main_event_0748_sister_08=Bevor du auf dein Zimmer gehst, tragen wir[0x000A]noch einen Pokémon-Kampf aus, klar?{0x0114,0x000D}
+main_event_0748_sister_03=Oh, was für ein Kampfgeist!{0x0114,0x000D}
+main_event_0748_sister_04=Hey, wo ist dein Kampfgeist?{0x0114,0x000D}
+main_event_0748_sister_05={0xBDFF:0x0008}
+main_event_0748_sister_06=Ich hau mich am besten ins Bett, um morgen[0x000A]fit zu sein. Du solltest auch schlafen gehen.{0x0114,0x000D}
+main_event_0748_poke1_01=Peko!{0x0114,0x0070}

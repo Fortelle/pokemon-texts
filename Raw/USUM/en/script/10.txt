@@ -1,0 +1,10 @@
+Yes
+No
+${0x0206,0x0008,0x002C}
+Would you like to save your adventure so far?
+Now saving your adventure...[0x000A]Don’t turn off the power.
+You saved the game.
+There’s already a saved game file,[0x000A]so you can’t save now.{0xBE01}[0x000A]Refer to the electronic manual for details.
+Saving failed.
+You received ${0x0207,0x0002,0x002C}!
+You received {0x0101,0x0001}!

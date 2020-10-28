@@ -1,0 +1,7 @@
+msg_sub002_middlem_01=Psst, eh, majete.{0xBE01}[0x000A]Tengo un CHO-LLA-ZO que no podrás rechazar.[0x000A]Y no creas que le ofrezco esto a cualquiera,{0xBE00}[0x000A]¿eh? Es porque me has caído bien.{0xBE01}[0x000A]Se trata de una auténtica joyita de Pokémon[0x000A]llamado Magikarp. Por ser tú, ¡te lo voy a dejar{0xBE00}[0x000A]por unos míseros 500 [0xE300]!{0xBE01}[0x000A]¿Qué me dices? ¿Te interesa?
+msg_sub002_middlem_02=Psst, eh, chiquilla.{0xBE01}[0x000A]Tengo un CHO-LLA-ZO que no podrás rechazar.[0x000A]Y no creas que le ofrezco esto a cualquiera,{0xBE00}[0x000A]¿eh? Es porque me has caído bien.{0xBE01}[0x000A]Se trata de una auténtica joyita de Pokémon[0x000A]llamado Magikarp. Por ser tú, ¡te lo voy a dejar{0xBE00}[0x000A]por unos míseros 500 [0xE300]!{0xBE01}[0x000A]¿Qué me dices? ¿Te interesa?
+msg_sub002_sys_01=Has pagado la escandalosa suma de 500 [0xE300] por[0x000A]un Magikarp.
+msg_sub002_middlem_03=Venga, te lo voy envolvien... ¿Cómo? ¿Que no[0x000A]te interesa? ¡Pero si es casi un regalo!
+msg_middlem1_01_p04_r004_r0101={0xBDFF:0x0004}
+msg_sub002_middlem_04=Parece que no te llega el dinero... Vuelve[0x000A]cuando hayas ahorrado un poco.
+msg_sub002_middlem_05=Lo siento, ¡no se aceptan devoluciones!

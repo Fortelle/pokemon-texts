@@ -1,0 +1,9 @@
+msg_main0182_system_01=Ce Pokémon est profondément endormi.{0xBE01}[0x000A]Vu la situation, lancer une Poké Ball ne marchera[0x000A]probablement pas...
+msg_main0182_musashi_01={0xFF00,0x0009}??? :{0xFF00,0x0000} Non, rien non plus par ici...
+msg_main0182_kojiro_01={0xFF00,0x0009}??? :{0xFF00,0x0000} Y’en a peut-être plus loin ?
+msg_main0182_musashi_02={0xFF00,0x0009}??? :{0xFF00,0x0000} Dis donc, morveu{0x1100,0x00FF,0x0201}xse ! On t’a jamais dit[0x000A]que c’était malpoli d’écouter aux portes ?!
+msg_main0182_kojiro_02={0xFF00,0x0009}??? :{0xFF00,0x0000} Ah bah bravo ! Je croyais que Miaouss[0x000A]était censé monter la garde !
+msg_main0182_nyasu_01={0xFF00,0x0009}Miaouss : {0xFF00,0x0000}Mia ?
+msg_main0182_musashi_03={0xFF00,0x0009}??? :{0xFF00,0x0000} Il paraît qu’il y a des fossiles rares enterrés[0x000A]dans le coin.{0xBE00}[0x000A]Mais bas les pattes, ils sont pour nous !{0xBE01}[0x000A]Toi, tu prends tes cliques et tes claques et tu[0x000A]t’arraches si tu veux pas te manger des claques,{0xBE00}[0x000A]justement.
+msg_main0182_kojiro_03={0xFF00,0x0009}??? :{0xFF00,0x0000} Ouais ! On va trouver les fossiles ![0x000A]Et on va se faire tout plein de fric avec !{0xBE00}[0x000A]C’est un plan en bé-ton !
+msg_main0182_musashi_04={0xFF00,0x0009}??? :{0xFF00,0x0000} Ho ho ho !

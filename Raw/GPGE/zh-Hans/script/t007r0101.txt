@@ -1,0 +1,9 @@
+msg_t007r0101_poke_01=喵喵：喵～～呜！
+msg_t007r0101_poke_02=皮皮：皮～皮皮～～！
+msg_t007r0101_poke_03=尼多兰：啾～啾唔～！
+msg_t007r0101_kanban_01=玉虹大厦[0x000A]……管理员室
+msg_t007r0101_oldf_01=被最爱的宝可梦们包围着，[0x000A]在这里细细品茶……{0xBE01}[0x000A]这对我来说[0x000A]是非常重要的一刻啊。
+msg_oldwoman1_01_p01_t007_r0101={0xBDFF:0x0005}
+msg_oldwoman1_01_p02_t007_r0101={0xBDFF:0x0006}
+msg_oldwoman1_01_p03_t007_r0101={0xBDFF:0x0007}
+msg_oldwoman1_01_p04_t007_r0101={0xBDFF:0x0008}

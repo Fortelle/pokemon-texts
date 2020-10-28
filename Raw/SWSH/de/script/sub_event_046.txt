@@ -1,0 +1,5 @@
+sub_event_046_npc_01=Ach... Hallo, Champ. Wer hätte gedacht, dass wir[0x000A]uns mal in einer Mine begegnen würden...{0x0114,0x0007}
+sub_event_046_npc_02=Ich vertrete Rose hier bei seiner gemeinnützigen[0x000A]Arbeit.{0x0114,0x0007}
+sub_event_046_npc_03=Rose hat früher ja selbst mal in einer Mine[0x000A]gearbeitet, musst du wissen.{0xBE01}[0x000A]Deshalb freut es mich ungemein, die gleiche Art[0x000A]von Arbeit verrichten zu dürfen wie er.{0xBE01}[0x000A]Ich bin sogar so glücklich, dass ich dir diese[0x000A]Ligakarte schenken möchte!{0x0114,0x0007}
+sub_event_046_npc_04=Keine Sorge, nimm nur! Ich besitze noch gut[0x000A]hundert Exemplare von Roses Ligakarte.{0xBE01}[0x000A]Und alle davon handsigniert!{0x0114,0x0007}
+sub_event_046_npc_05=Champ... Ich bin dir sehr dankbar dafür, dass du[0x000A]Endynalos aufgehalten hast.{0xBE01}[0x000A]Und ich weiß, dass auch Rose ähnlich[0x000A]empfindet... Das spüre ich.{0xBE01}[0x000A]Du musst wissen, dass er im Grunde einfach nur[0x000A]eine bessere Zukunft für unsere Region wollte...{0x0114,0x0007}

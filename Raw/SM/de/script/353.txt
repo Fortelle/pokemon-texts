@@ -1,0 +1,7 @@
+{0x0100,0x0000}!{0x0114,0x0007}
+Wir müssen sofort los![0x000A]Komm schon, worauf wartest du noch?!{0x0114,0x0007}
+Was ist denn los, Tali?[0x000A]Was soll die ganze Aufregung?{0x0114,0x0004}
+Oh, ich hatte Sie gar nicht gesehen.[0x000A]Schönen guten Tag!{0x0114,0x0007}
+Oh, ich hatte Sie gar nicht gesehen.[0x000A]Schönen guten Abend!{0x0114,0x0007}
+Für Erklärungen ist jetzt leider keine Zeit.[0x000A]Ich muss mir mal {0x0100,0x0000} für ein{0xBE00}[0x000A]Weilchen ausleihen!{0x0114,0x0007}
+Wenn wir uns nicht beeilen, legt das Schiff[0x000A]ohne uns ab!{0x0114,0x0007}

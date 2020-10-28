@@ -1,0 +1,8 @@
+msg_main0930_kojiro_01=¡Alto ahí, mocos{0x1100,0x00FF,0x0101}oa!
+msg_main0930_kojiro_02={0xFF00,0x0009}James:{0xFF00,0x0000} El jefe está en una reunión muy[0x000A]importante, así que ya puedes darte media{0xBE00}[0x000A]vuelta... ¡O prepárate para luchar!
+msg_main0930_poke_01={0xFF00,0x0009}Meowth:{0xFF00,0x0000} ¡Meoooow!
+msg_main0930_dummy_01={0xBDFF:0x0003}
+msg_main0930_dummy_02={0xBDFF:0x0004}
+msg_main0930_kojiro_03={0xFF00,0x0009}James:{0xFF00,0x0000} Siempre igual...
+msg_main0930_musashi_01={0xFF00,0x0009}Team Rocket:{0xFF00,0x0000} ¡El Team Rocket despega de[0x000A]nuevo!
+msg_main0930_musashi_back={0xFF00,0x0009}Jessie:{0xFF00,0x0000} Uh... ¡no podemos combatir si solo[0x000A]tienes un Pokémon!{0xBE01}[0x000A]Vuelve cuando tengas al menos dos Pokémon[0x000A]en tu equipo.

@@ -1,0 +1,7 @@
+main_event_0645_leader2_01=Tu es un{0x1100,0x00FF,0x0100}e Challenger, n’est-ce pas ?{0x0114,0x000F}
+main_event_0645_select_01=Excellente déduction.
+main_event_0645_select_02=Oui, c’est cela.
+main_event_0645_leader2_02=Et tu es parrainé{0x1100,0x00FF,0x0100}e par Tarak.{0x0114,0x000F}
+main_event_0645_leader2_03=Eh oui, nous autres Champions parlons souvent[0x000A]de toi ! Ta réputation te précède !{0x0114,0x000F}
+main_event_0645_leader2_05=Tiens, c’est pour toi. Je suppose que tu as envie[0x000A]d’en savoir plus sur moi.{0x0114,0x000F}
+main_event_0645_leader2_04=Retrouve-moi au Stade de Skifford.{0xBE01}[0x000A]S’il y a une chose que j’aime encore plus[0x000A]que la pêche, c’est un combat Pokémon !{0x0114,0x000F}

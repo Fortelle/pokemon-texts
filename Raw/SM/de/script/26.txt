@@ -1,0 +1,40 @@
+Du hast tief und fest geschlafen, was?[0x000A]Jetzt strotzt du sicher nur so vor Energie!{0x0114,0x0004}
+Und, {0x0100,0x0000}?[0x000A]Freust du dich schon auf Alolas Pokémon?{0x0114,0x0004}
+Und wie!
+Geht so...
+Und ob!
+Gute Frage...
+Das lobe ich mir! Ich würde ja auch viel lieber[0x000A]rausgehen, als hier die Kartons auszuräumen!{0x0114,0x0004}
+Ach was! Glaub mir, du wirst sie bestimmt[0x000A]schon ganz bald sehr zu schätzen wissen!{0x0114,0x0004}
+Wir leben jetzt schließlich in der Alola-Region,[0x000A]einem Inselparadies, das viele Touristen anzieht!{0xBE01}[0x000A]Da werden auch die einheimischen Pokémon[0x000A]bestimmt alle total lieb sein, ganz sicher!{0x0114,0x0004}
+Oh, es hat an der Tür geklingelt!{0xBE01}[0x000A]Das kann eigentlich nur Professor Kukui sein.[0x000A]Machst du ihm bitte auf, {0x0100,0x0000}?{0x0114,0x0004}
+Mauz!
+Hallo, {0x0100,0x0000}![0x000A]Ich bin’s, Professor Kukui!{0xBE01}[0x000A]Endlich lerne ich dich persönlich kennen![0x000A]Freut mich sehr!
+Die Reise nach Alola war bestimmt anstrengend[0x000A]und lang, was?{0x0114,0x0005}
+Kommst du mit der Zeitverschiebung zurecht?{0xBE01}[0x000A]Alola und Kanto sind ja ganz schön weit[0x000A]voneinander entfernt. Für dich fühlt es sich{0xBE00}[0x000A]bestimmt noch nicht wie Mittag an, oder?{0x0114,0x0005}
+Kommst du mit der Zeitverschiebung zurecht?{0xBE01}[0x000A]Alola und Kanto sind ja ganz schön weit[0x000A]voneinander entfernt. Für dich fühlt es sich{0xBE00}[0x000A]bestimmt noch nicht wie Abend an, oder?{0x0114,0x0005}
+Hallo, Professor Kukui![0x000A]Wir sind gestern in Alola eingetroffen.{0x0114,0x0004}
+Ah, die Dame des Hauses![0x000A]Ich war so frei, mich selbst hereinzulassen.{0xBE01}[0x000A]Ach, und das mit dem „Professor“ lassen wir[0x000A]lieber, wenn’s recht ist. Warum denn so formell?{0xBE00}[0x000A]Duzen wir uns doch einfach!{0xBE01}[0x000A]Ich heiße euch herzlich in Alola willkommen!{0x0114,0x0005}
+Vielen Dank!{0xBE01}[0x000A]Ich erinnere mich noch gut daran, wie Sie,[0x000A]ähm, ich meine natürlich du, damals gegen die{0xBE00}[0x000A]Arenaleiter von Kanto gekämpft hast.{0xBE01}[0x000A]Als wäre es gestern gewesen!{0xBE01}[0x000A]Seitdem faszinieren mich die Pokémon der[0x000A]Alola-Region, und jetzt bin ich endlich hier!{0x0114,0x0004}
+Haha! Ich war damals in Kanto, um dort[0x000A]Pokémon-Attacken zu erforschen.{0xBE01}[0x000A]Aber obwohl ich schon viel über das Thema[0x000A]wusste, haben mich die Arenaleiter ganz schön{0xBE00}[0x000A]alt aussehen lassen!{0x0114,0x0005}
+Aber genug von Kanto...[0x000A]Komm doch mit mir, {0x0100,0x0000}.{0xBE00}[0x000A]Lass uns die Nachbarstadt besuchen!{0xBE01}[0x000A]Dort kannst du den {0xFF00,0x0001}Inselkönig{0xFF00,0x0000} treffen und mit[0x000A]etwas Glück erhältst du auch ein Pokémon.{0x0114,0x0005}
+{0xBDFF:0x0014}
+Ein Pokémon?!
+Den Inselkönig?!
+Ja! Der Inselkönig gibt allen Kindern in Lili’i,[0x000A]die bereit sind, sich einem großen Abenteuer{0xBE00}[0x000A]zu stellen, liebend gerne ihr erstes Pokémon!{0xBE01}[0x000A]Er ist übrigens ein äußerst starker und[0x000A]erfahrener Pokémon-Trainer. Nur wenige{0xBE00}[0x000A]können ihm im Kampf das Wasser reichen.{0x0114,0x0005}
+Richtig! Der Inselkönig ist ein äußerst starker[0x000A]und erfahrener Pokémon-Trainer. Nur wenige{0xBE00}[0x000A]können ihm im Kampf das Wasser reichen.{0xBE01}[0x000A]Und er gibt allen Kindern in Lili’i, die bereit sind,[0x000A]sich einem großen Abenteuer zu stellen, liebend{0xBE00}[0x000A]gerne ihr erstes Pokémon!{0x0114,0x0005}
+Na, so was![0x000A]Und {0x1100,0x00FF,0x0302,0x0000}ersie bekommt echt ein Pokémon von ihm?{0xBE00}[0x000A]Der Inselkönig ist ja wirklich nett!{0x0114,0x0004}
+Worauf wartest du noch, {0x0100,0x0000}?[0x000A]Geh und hol schnell deine Sachen!{0xBE01}[0x000A]Deine Mütze und deinen Beutel findest du in[0x000A]einem der Umzugskartons in deinem Zimmer.{0xBE01}[0x000A]Ach, und vergiss nicht, einen Blick in deine[0x000A]Abenteuerfibel zu werfen!{0xBE01}[0x000A]Ich glaube, sie liegt auf dem Schreibtisch.{0x0114,0x0004}
+Oh! Na, da bin ich mal gespannt, was für eine[0x000A]Mütze du trägst!{0x0114,0x0005}
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}
+{0xBDFF:0x001E}
+{0xBDFF:0x001F}
+{0xBDFF:0x0020}
+{0xBDFF:0x0021}
+{0xBDFF:0x0022}
+{0xBDFF:0x0023}
+{0xBDFF:0x0024}
+{0xBDFF:0x0025}
+{0xBDFF:0x0026}
+{0xBDFF:0x0027}

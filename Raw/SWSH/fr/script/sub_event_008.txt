@@ -1,0 +1,17 @@
+sub_event_008_miniskirt_01=Ah ! Encore un horoscope qui tombe juste.[0x000A]Je le savais, les astres ne mentent jamais.
+sub_event_008_miniskirt_02=Oui ? C’est pour quoi ?[0x000A]Oh ! Toi aussi, tu veux connaître ton horoscope ?
+sub_event_008_miniskirt_03=Je vais te dire tout ce que tu veux savoir.[0x000A]Donne-moi ton mois de naissance !
+sub_event_008_miniskirt_16=Parfait, on a le mois ![0x000A]Maintenant, il me faut le jour !
+sub_event_008_miniskirt_04=Pas de souci ! Reviens me voir si tu veux savoir[0x000A]ce que les astres te réservent !
+sub_event_008_miniskirt_05=Voyons voir !
+sub_event_008_miniskirt_06=Tu es né{0x1100,0x00FF,0x0100}e le {0x0201,0x0002}/{0x0201,0x0001}, c’est ça ? Tu m’excuseras,[0x000A]mais l’astro, c’est une science exacte.
+sub_event_008_miniskirt_07=Ça arrive à tout le monde de se tromper ![0x000A]Tu es né{0x1100,0x00FF,0x0100}e quand, alors ?
+sub_event_008_miniskirt_cancel=Oh... Ça ne t’intéresse plus ?[0x000A]Une autre fois, peut-être !
+sub_event_008_miniskirt_08=Alors... tu es donc né{0x1100,0x00FF,0x0100}e le {0x0201,0x0002}/{0x0201,0x0001}...[0x000A]Voyons voir ce que donne ton thème astral !
+sub_event_008_miniskirt_09=Laisse-moi consulter mes grimoires...[0x000A]Voyons d’abord les transits et les éphémérides...
+sub_event_008_miniskirt_10=Mince alors, mon grimoire est tout taché.[0x000A]Ça doit être quand j’ai mangé mon goûter.
+sub_event_008_miniskirt_11=Je n’arrive même plus à déchiffrer les aspects,[0x000A]avec tout ce chocolat. C’est ennuyeux...
+sub_event_008_miniskirt_12=Ah ! Ne t’en fais pas, je vais y arriver quand[0x000A]même ! Les étoiles me guident, après tout !
+sub_event_008_miniskirt_13=Ta date de naissance révèle que tu es quelqu’un[0x000A]de... de formidable ! Et de chanceux !
+sub_event_008_miniskirt_14=Vu la position des astres, tu vas peut-être tomber[0x000A]sur un Pokémon légendaire !
+sub_event_008_miniskirt_15=Sur ce, je fais comme les étoiles : je file !

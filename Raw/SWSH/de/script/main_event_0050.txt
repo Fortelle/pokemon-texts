@@ -1,0 +1,7 @@
+main_event_0050_rival_01=Alles startklar? Dann los!{0x0114,0x0005}
+main_event_0050_rival_02=Aber pass auf, dass du dem hohen Gras nicht[0x000A]zu nahe kommst, okay?{0xBE01}[0x000A]Wie du weißt, streunen dort lauter wilde[0x000A]Pokémon rum.{0x0114,0x0005}
+main_event_0050_rival_03=Ich hab ja zum Glück mein Wolly, falls mich eines[0x000A]der wilden Pokémon angreifen sollte...{0x0114,0x0005}
+main_event_0050_rival_04=Aber du bist völlig wehrlos, weil du noch kein[0x000A]Pokémon hast. Also bleib weg vom hohen Gras!{0x0114,0x0005}
+main_event_0050_rival_05={0xBDFF:0x0004}
+main_event_0050_rival_06={0xBDFF:0x0005}
+main_event_0050_rival_07={0xBDFF:0x0006}

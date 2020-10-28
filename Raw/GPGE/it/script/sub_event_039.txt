@@ -1,0 +1,8 @@
+msg_sub039_policef_01=Ho appena catturato uno Squirtle che non faceva[0x000A]altro che combinare guai!{0xBE01}[0x000A]Avrebbe bisogno di un Allenatore capace che[0x000A]sappia dargli una raddrizzata...
+msg_sub039_policef_06=Oh, finora hai catturato {0x0208,0x0000,0x002E} Pokémon!
+msg_sub039_policef_02=Allora devi essere un{0x1100,0x00FF,0x0B0A} Allenator’Allenatrice in gamba!{0xBE01}[0x000A]Che ne dici di prenderti cura di questo[0x000A]Squirtle birichino?
+msg_sub039_policef_03=Va bene, allora te lo affido![0x000A]Mi raccomando, trattalo con cura!
+msg_sub039_policef_07=Avrei un favore da chiederti, ma prima devi[0x000A]catturare almeno {0x0202,0x0000} Pokémon!
+msg_sub039_policef_04=Capisco... E adesso cosa faccio?
+msg_sub039_policef_05=Come se la passa Squirtle?
+msg_sub039_poke_01={0xFF00,0x0009}Squirtle:{0xFF00,0x0000} Squirtle! Squirtle!

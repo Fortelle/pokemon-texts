@@ -1,0 +1,26 @@
+You will be connected to the Internet.[0x000A]Would you like to continue?
+Connecting to the Internet...[0x000A]Please stand by.
+Ending communication.[0x000A]Please wait.
+The communication mode was switched to[0x000A]local wireless communication.{0xBE01}
+You will now proceed to connect to the Internet.[0x000A]Your game will be saved. Is that OK?
+Connecting.[0x000A]Please stand by...
+You are now connected to the Internet.{0xBE01}
+Disconnecting from the Internet...
+The communication mode was switched to[0x000A]the Internet.{0xBE01}
+Is it OK to disconnect from the Internet?
+Ending communication.[0x000A]Please wait.
+The communication mode was switched to[0x000A]local wireless communication.{0xBE01}
+Connecting to the Pokémon Global Link.[0x000A]Please stand by...
+Game Sync failed because the Game Sync ID[0x000A]wasn’t registered at the Pokémon Global Link.{0xBE01}[0x000A]Please visit the Pokémon Global Link website[0x000A]and enter your Game Sync ID.{0xBE01}
+The server is busy.[0x000A]Quitting Game Sync...
+Game Sync was canceled because more time[0x000A]must pass before you can use Game Sync again.{0xBE01}[0x000A]Please wait a bit before trying Game Sync again.{0xBE01}
+Your game will be saved.[0x000A]Is that OK?
+Saving...[0x000A]Please wait.
+Game Sync is in progress...[0x000A]Don’t turn off the power.
+Yes
+No
+A Global Mission Is Happening Now![0x000A][0x000A]To register to participate in a global mission,[0x000A]please enter the castle and speak to the[0x000A]receptionist for global missions.
+Connecting to the server...[0x000A]Please stand by.
+Game Sync failed.{0xBE01}
+Checking the data...[0x000A]Please wait.
+You can’t connect to the Internet due to your[0x000A]Parental Control settings.{0xBE01}

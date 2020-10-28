@@ -1,0 +1,13 @@
+sub_event_011_master_01=Willkommen im Kampf-Café!
+sub_event_011_master_02=Nanu? Du hast heute aber schon gekämpft.[0x000A]Beehre uns doch bitte morgen wieder!
+sub_event_011_master_03=Du kannst bei uns ein Mal pro Tag kämpfen.[0x000A]Gewinnst du, gibt es zur Belohnung etwas Süßes{0xBE00}[0x000A]auf Kosten des Hauses!{0xBE01}[0x000A]Na, willst du es mal probieren?
+sub_event_011_master_04=Dann mal nichts wie los! Genehmigen wir uns ein[0x000A]kleines Päuschen voller Action!
+sub_event_011_master_05a=Der Kampf war so erfrischend wie ein Glas[0x000A]Kuhmuh-Milch!
+sub_event_011_master_05b=Der Kampf war so erquicklich wie ein Glas[0x000A]Limonade!
+sub_event_011_master_05c=Der Kampf war so exquisit wie eine Tasse[0x000A]Eneco-Kakao!
+sub_event_011_master_05d=Der Kampf war so prickelnd wie ein Glas[0x000A]Sananasaft!
+sub_event_011_master_05e=Der Kampf war so elegant wie eine Tasse[0x000A]Roserade-Tee!
+sub_event_011_master_05f=Der Kampf war so intensiv wie eine Tasse[0x000A]Granbull-Kaffee!
+sub_event_011_master_06=Hier kommt das süße Vergnügen, das ich dir[0x000A]versprochen hatte.
+sub_event_011_master_07=Entschuldigung, aber in unserem Café werden[0x000A]alle Kämpfe als Doppelkämpfe ausgetragen.{0xBE01}[0x000A]Schau hier bitte wieder vorbei, wenn du über[0x000A]mindestens zwei kampffähige Pokémon verfügst.
+sub_event_011_master_08=Wir freuen uns schon auf deinen nächsten[0x000A]Besuch!

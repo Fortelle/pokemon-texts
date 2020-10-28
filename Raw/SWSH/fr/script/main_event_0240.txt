@@ -1,0 +1,7 @@
+main_event_0240_rival_01=Dis, {0x0100,0x0000}...{0xBE01}[0x000A]Maintenant qu’on est Dresseurs et tout,[0x000A]il faudrait qu’on tente le {0xFF00,0x0006}Défi des Arènes{0xFF00,0x0000}, non ?{0x0114,0x0005}
+main_event_0240_select_01=Le quoi des quoi ?
+main_event_0240_select_02=Ah, oui, euh... Ça...
+main_event_0240_rival_02=Sérieux, tu connais pas ? Attends, je t’explique !{0xBE01}[0x000A]C’est une compétition annuelle où les Dresseurs[0x000A]de toute la région s’affrontent pour avoir le droit{0xBE00}[0x000A]de défier le Maître !{0x0114,0x0005}
+main_event_0240_rival_03=Mais il faut une Lettre de Recommandation[0x000A]pour pouvoir y participer.{0xBE01}[0x000A]Vu que Tarak nous traite de minus,[0x000A]je pense pas qu’il voudra nous aider...{0xBE01}[0x000A]Je pensais aller demander à la Professeure !{0x0114,0x0005}
+main_event_0240_rival_04=Ce serait trop bien si on participait ensemble,[0x000A]non ?{0xBE01}[0x000A]On pourrait se soutenir mutuellement,[0x000A]mais aussi s’encourager à se dépasser !{0x0114,0x0005}
+main_event_0240_rival_05=La Prof habite tout au bout de la Route 2 !{0xBE01}[0x000A]On pourra en profiter pour entraîner[0x000A]notre équipe en chemin !{0x0114,0x0005}

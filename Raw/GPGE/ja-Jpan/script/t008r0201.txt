@@ -1,0 +1,14 @@
+msg_t008r0201_goods_01=ポケモンの　カセキや[0x000A]珍しい　石が　飾ってある！
+msg_t008r0201_goods_02=古い　ポケモン　グッズが[0x000A]飾って　ある！
+msg_t008r0201_dig_01=ディグダ『あんなー
+msg_t008r0201_system_01={0x0100,0x0000}は　ディグダから[0x000A]{0xFF00,0x0006}きんのたま{0xFF00,0x0000}を　もらった！
+msg_t008r0201_dig_02=ディグダ『ともろー
+msg_workerm1_01_p01_t008_r0501={0xBDFF:0x0005}
+msg_workerm1_01_p02_t008_r0501={0xBDFF:0x0006}
+msg_workerm1_01_p03_t008_r0501={0xBDFF:0x0007}
+msg_workerm1_01_p04_t008_r0501={0xBDFF:0x0008}
+msg_workerm1_01_p05_t008_r0501={0xBDFF:0x0009}
+msg_workerm1_01_p06_t008_r0501={0xBDFF:0x000A}
+msg_workerm1_01_p06_t008_r0501_fm={0xBDFF:0x000B}
+msg_workerm1_01_p07_t008_r0501={0xBDFF:0x000C}
+msg_workerm1_01_p08_t008_r0501={0xBDFF:0x000D}

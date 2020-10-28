@@ -1,0 +1,126 @@
+Bienvenidoa al Árbol de Combate.
+¿En qué te puedo ayudar?
+¿Sobre qué tema quieres información?
+En el Árbol de Combate se citan Entrenadores de lo más variopinto para enfrentarse en todo tipo de combates. Puedes elegir entre las siguientes modalidades: Individual, Doble o Múltiple. Los jugadores han de combatir hasta que pierdan, con el objetivo de ser quien ostente el mayor número de victorias consecutivas. Es decir, que en cuanto sufras una derrota se detendrá el contador de victorias y tendrás que empezar de nuevo desde cero. Existen dos categorías de combate: los combates normales y los supercombates. Los supercombates de cada modalidad estarán disponibles cuando hayas superado cierto número de combates normales de la modalidad correspondiente. Por último, tras ganar a cualquier Entrenador recibes Puntos de Batalla, también llamados PB, que puedes canjear por premios o para reclutar Entrenadores. Cuantas más victorias consecutivas acumules, mayor será la cantidad de PB que recibas. Así que ya sabes: ¡el esfuerzo tiene su recompensa!
+Para disfrutar plenamente de lo que ofrece el Árbol de Combate, es mejor estar al corriente de las reglas. Presta atención, por favor. Lo primero que debes saber es que en los combates normales puedes usar cualquier Pokémon, pero en los supercombates, ciertos Pokémon están restringidos. Además, en los supercombates, los Pokémon que tengan un nivel superior a 50 pasarán automáticamente a tener Nv. 50. Luego, el número de Pokémon necesarios difiere según el tipo de combate en el que se participe: Tres Pokémon para Combates Individuales, cuatro para Combates Dobles y dos Pokémon por Entrenador en los Combates Múltiples. Por último, todos los Pokémon y sus respectivos objetos deben ser diferentes, aunque en los Combates Múltiples se permite repetir los mismos Pokémon y objetos.
+Espero verte pronto. Estaré a tu disposición si lo necesitas.
+¿En qué tipo de combate quieres participar?
+Tu racha de victorias consecutivas obtenidas hasta el momento asciende a <var>.
+¿Quieres participar en Combates Individuales?
+¿Quieres participar en Supercombates Individuales?
+¿Quieres participar en Combates Dobles?
+¿Quieres participar en Supercombates Dobles?
+Selecciona los Pokémon con los que deseas luchar.
+¿Quieres participar en Combates Múltiples?
+¿Quieres participar en Supercombates Múltiples?
+¿Quieres conectarte con un amigo para afrontar este reto en equipo?
+La opción elegida por tu amigo es diferente a la que has elegido tú. Ponte en contacto con tu amigo o amiga e inténtalo de nuevo.
+Elige con qué Entrenador quieres formar equipo.
+Muy bien. Prosigamos entonces con los Combates Individuales.
+Muy bien. Prosigamos entonces con los Supercombates Individuales.
+Muy bien. Prosigamos entonces con los Combates Dobles.
+Muy bien. Prosigamos entonces con los Supercombates Dobles.
+Muy bien. Prosigamos entonces con los Combates Múltiples.
+Muy bien. Prosigamos entonces con los Supercombates Múltiples.
+Guardando... Por favor, espera.
+¡Enhorabuena por tan magnífico combate! Derrotar a un Campeón Legendario se merece un obsequio: aquí tienes PB.
+¡Enhorabuena por tan magnífico combate! Derrotar a un Campeón Legendario cuando va a por todas merece un obsequio: aquí tienes PB.
+Has obtenido <var> PB.
+<var>, a partir de ahora ya puedes participar en los Supercombates Individuales.
+<var>, a partir de ahora ya puedes participar en los Supercombates Dobles.
+<var>, a partir de ahora ya puedes participar en los Supercombates Múltiples.
+Gracias por participar en el Árbol de Combate. Los retos de Combate Individual han finalizado por ahora. ¡No te olvides de disfrutar de los Supercombates Individuales!
+Gracias por participar en el Árbol de Combate. Los retos de Combate Doble han finalizado por ahora. ¡No te olvides de disfrutar de los Supercombates Dobles!
+Gracias por participar en el Árbol de Combate. Los retos de Combate Múltiple han finalizado por ahora. ¡No te olvides de disfrutar de los Supercombates Múltiples!
+¡Has obtenido un gran logro, cincuenta victorias consecutivas! Como obsequio por tan magnífica hazaña, te otorgamos un sello conmemorativo.
+El próximo combate será el número <var>. ¿Quieres que dé comienzo?
+El próximo combate será el número <var>. ¡Ve con cuidado, los Campeones Legendarios son duros de roer! ¿Quieres comenzar ya?
+¿Quieres pausar el reto?
+Se ha interrumpido el reto.
+Esperando a que se establezca la conexión...
+La melodía que suena ahora durante los combates es "<var>". Elige otra si quieres.
+Vale, la he cambiado a esa.
+Combatir
+Quiero información
+No quiero nada
+Sobre el Árbol de Combate
+Sobre las modalidades
+
+Combate Individual
+Supercombate Individual
+Combate Doble
+Supercombate Doble
+
+
+Combate Múltiple
+Supercombate Múltiple
+Continuar
+Guardar Vídeo de Combate
+Pausar
+♪Entrenador 2♪
+♪Pokémon salvaje 2♪
+♪Pokémon dominante♪
+♪Kahuna♪
+Cambiar la melodía
+
+Yo me encargo del registro del Árbol de Combate. ¿Quieres consultar tus resultados?
+¿Qué resultados deseas consultar?
+Tu racha actual es de <var>. Tu mejor racha hasta ahora es de <var>.
+La comunicación inalámbrica está desactivada. Usa el interruptor de la comunicación inalámbrica para activarla.
+
+No puedes combatir con ese jugador.
+Reclutar
+¡Para elegir a un compañero necesitas 10 PB!
+Para elegir a un compañero necesitas 10 PB. ¿Estás de acuerdo?
+¡No hay espacio para nadie más! ¿Quieres eliminar a alguien de la lista?
+Muy bien, no se elegirá <var>.
+Muy bien. Se ha añadido a tu lista de compañeros <var>.
+
+¡Enhorabuena, <var>! Has superado tu racha anterior de <var> victorias. Aquí tienes un premio.
+Aquí tienes otro premio.
+¡Te has enfrentado con éxito a muchísimos Entrenadores y Entrenadoras de todo el mundo! Gracias a esta gran experiencia has podido aprender un nuevo estilo de lanzamiento...
+Cuando participes en un Combate Múltiple podrás elegir como compañeros a Entrenadores a quienes hayas vencido en Combates Individuales o Dobles en el Árbol de Combate. La excepción son los Campeones Legendarios, a quienes no podrás seleccionar. Buena suerte y ojalá encuentres un compañero o compañera que sea de tu agrado.
+Acerca de los Compañeros
+♪Aquí llega Tilo♪
+♪Aquí llega Gladio♪
+♪Team Skull♪
+♪Comandante Skull♪
+♪Jefe del Team Skull♪
+♪Fundación Æther♪
+♪Presidenta Samina♪
+♪Presidenta Samina 2♪
+♪Ultraente♪
+♪Alto Mando♪
+♪Defendiendo el título♪
+♪Pokémon legendario♪
+♪Battle Royale♪
+♪Espíritu guardián♪
+♪Campeón Legendario♪
+♪Team Rainbow Rocket♪
+♪Giovanni♪
+♪Magno y Aquiles♪
+♪Helio♪
+♪Ghechis♪
+♪Lysson♪
+♪Unidad Ultra♪
+♪Necrozma♪
+♪Necrozma 2♪
+♪Mewtwo♪
+♪Pokémon de Kanto♪
+♪Pokémon de Hoenn♪
+♪Legendario de Hoenn 2♪
+♪Legendario de Hoenn♪
+♪Ho-Oh♪
+♪Lugia♪
+♪Legendario de Johto♪
+♪Legendario de Sinnoh 2♪
+♪Legendario de Sinnoh 3♪
+♪Legendario de Sinnoh♪
+♪Giratina♪
+♪Legendario de Teselia♪
+♪Legendario de Teselia 2♪
+♪Legendario de Kalos♪
+♪Entrenador♪
+♪Pokémon salvaje♪
+♪Aquí llega Tilo 2♪
+

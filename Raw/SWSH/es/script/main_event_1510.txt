@@ -1,0 +1,7 @@
+main_event_1510_staff_01=Bienvenid{0x1100,0x00FF,0x0101}oa, Aspirante {0x0100,0x0000}.[0x000A]Te estábamos esperando.{0xBE01}[0x000A]Ahora que la Copa de Campeones está a punto[0x000A]de comenzar, permíteme explicarte en qué{0xBE00}[0x000A]consisten las distintas fases.{0xBE01}[0x000A]Primero se celebra el Torneo de Medallistas,[0x000A]donde se enfrentan los Aspirantes que hayan{0xBE00}[0x000A]superado el desafío de los gimnasios.{0xBE01}[0x000A]A continuación, el ganador o ganadora deberá[0x000A]medirse contra los siete mejores Líderes de{0xBE00}[0x000A]Gimnasio de Galar en el Torneo de Finalistas.{0xBE01}[0x000A]Quien se alce con la victoria tendrá el honor de[0x000A]enfrentarse al mismísimo Lionel en persona en el{0xBE00}[0x000A]justamente llamado Encuentro de Campeones.
+main_event_1510_staff_02=Los encuentros darán comienzo en breve.[0x000A]Puedes pasar a prepararte.
+main_event_1510_rival_01={0xBDFF:0x0002}
+main_event_1510_rival_02={0xBDFF:0x0003}
+main_event_1510_staff_03=Tu oponente te aguarda ya en la cancha.
+main_event_1510_yellm_01=Anda, ¿tú por aquí? ¡Pues que gane el mejor!{0xBE01}[0x000A]Y como la mejor es Roxy, está cantado quién se[0x000A]va a llevar el micho al agua.{0x0114,0x0043}
+main_event_1510_yellw_01=¡Vamos a desgañitarnos animando a Roxy como[0x000A]buenos miembros del Team Yell!{0x0114,0x0044}

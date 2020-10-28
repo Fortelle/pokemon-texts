@@ -1,0 +1,282 @@
+Stai andando alla grande, {0x0100,0x0000}!{0x0114,0x0010}
+Oggi voglio farti conoscere una nuova struttura.{0xBE01}[0x000A]Ti propongo la {0x01B8,0x0002}[0x000A]{0x01B9,0x0000}{0xBE00}[0x000A]gestita da {0x1502,0x0001}{0x010E,0x0001}!{0x0114,0x0010}
+Uhm... Sei proprio sicur{0x1100,0x00FF,0x0101}oa?{0x0114,0x0010}
+Ecco, giusto per darti un’idea.{0x0114,0x0010}
+Quando il livello del tuo Festiplaza salirà,[0x000A]te ne parlerò di nuovo.{0xBE01}[0x000A]Ecco un regalo per te!{0x0114,0x0010}
+Alla prossima, continua così!{0x0114,0x0010}
+Bene, contatto subito[0x000A]{0x01B9,0x0000}!{0x0114,0x0010}
+Perfetto!{0xBE01}[0x000A]E continua così, mi raccomando!{0x0114,0x0010}
+{0xBDFF:0x0008}
+Stai andando benone, {0x0100,0x0000}!{0x0114,0x0010}
+Ho un regalino per te!{0xBE01}[0x000A]Ora potrai chiedere a chi viene in visita al tuo[0x000A]Festiplaza di consigliarti una nuova struttura.{0xBE01}[0x000A]Ti basterà dire:[0x000A]“Mi consigli una struttura?”.{0x0114,0x0010}
+Per poter aggiungere le strutture che ti[0x000A]consiglieranno i tuoi visitatori ti serviranno{0xBE00}[0x000A]dei festigettoni, quindi continua a darti da fare!{0x0114,0x0010}
+Stai andando benone, {0x0100,0x0000}!{0x0114,0x0010}
+Ho un regalino per te!{0xBE01}[0x000A]Ora potrai chiedere a chi viene in visita al tuo[0x000A]Festiplaza di consigliarti un articolo di{0xBE00}[0x000A]abbigliamento.{0xBE01}[0x000A]Ti basterà dire:[0x000A]“Il tuo look è fantastico!”.{0x0114,0x0010}
+Per ottenere gli articoli che ti consiglieranno[0x000A]i tuoi visitatori ti serviranno dei festigettoni,{0xBE00}[0x000A]quindi continua a darti da fare!{0x0114,0x0010}
+Stai andando benone, {0x0100,0x0000}!{0x0114,0x0010}
+Ho un regalino per te!{0xBE01}[0x000A]Ora potrai rendere più animato il tuo Festiplaza[0x000A]organizzando dei minigiochi.{0xBE01}[0x000A]Ti basterà parlare con l’addetta ai minigiochi[0x000A]davanti al castello. Vieni, ti accompagno.{0x0114,0x0010}
+Stai andando alla grande, {0x0100,0x0000}!{0x0114,0x0010}
+Sento di poter dormire sonni tranquilli affidando[0x000A]il Festiplaza a te!{0xBE01}[0x000A]Ora è tutto tuo! Perché non gli dai un nome?{0x0114,0x0010}
+“{0x01BA,0x0000}”...?[0x000A]Ma certo: “{0x01BA,0x0000}”!{0xBE01}[0x000A]{0x01B7,0x0001}[0x000A]{0x01B7,0x0002}{0xBE01}[0x000A]“{0x01BA,0x0000}”![0x000A]Suona proprio bene!
+Rendi il tuo Festiplaza sempre più ricco[0x000A]di attrattive!{0x0114,0x0010}
+Non preoccuparti, puoi cambiare il nome del tuo[0x000A]Festiplaza quando vuoi.{0x0114,0x0010}
+Stai andando benone, {0x0100,0x0000}!{0x0114,0x0010}
+Ho una sorpresa speciale per te.{0xBE01}[0x000A]Ora che sei {0x1100,0x00FF,0x0E0B}il Campionela Campionessa, meriti dei servizi[0x000A]premium!{0xBE01}[0x000A]Potrai trovarli nella bottega dei regali, nella[0x000A]spuntineria e nella ludoteca.{0xBE01}[0x000A]Vai a dare un’occhiata!{0x0114,0x0010}
+Rendi il tuo Festiplaza sempre più ricco[0x000A]di attrattive!{0x0114,0x0010}
+Stai andando benone, {0x0100,0x0000}!{0x0114,0x0010}
+Ho un regalino per te!{0xBE01}[0x000A]Ho preparato un sacco di musiche per cambiare[0x000A]l’atmosfera del tuo Festiplaza.{0xBE01}[0x000A]Vai al banco delle personalizzazioni per[0x000A]ascoltarle.{0x0114,0x0010}
+Rendi il tuo Festiplaza sempre più ricco[0x000A]di attrattive!{0x0114,0x0010}
+Vieni quando vuoi, {0x0100,0x0000}!
+Stai andando benone, {0x0100,0x0000}!{0x0114,0x0010}
+Ho un regalino per te!{0xBE01}[0x000A]Adesso puoi cambiare l’aspetto del castello.[0x000A]Se vuoi saperne di più, chiedi al banco delle{0xBE00}[0x000A]personalizzazioni.{0x0114,0x0010}
+Vieni quando vuoi, {0x0100,0x0000}!
+Rendi il tuo Festiplaza sempre più ricco[0x000A]di attrattive!{0x0114,0x0010}
+Vuoi {0x01B9,0x0000}[0x000A]nel tuo Festiplaza?
+Scegli una struttura da eliminare per far posto[0x000A]a quella nuova.
+Vuoi eliminare la struttura[0x000A]{0x01B9,0x0000}?
+Hai inaugurato una nuova struttura:[0x000A]{0x01B9,0x0000}!
+Uhm... Sei proprio sicur{0x1100,0x00FF,0x0101}oa?{0x0114,0x0010}
+Ora puoi farti consigliare strutture interessanti[0x000A]dai giocatori che incontri nel Festiplaza!
+Ora puoi dare un nuovo nome al tuo Festiplaza!
+Ora puoi cambiare la musica di sottofondo!
+Ora puoi rinnovare l’aspetto del castello[0x000A]ispirandoti al tema “Fiaba”!
+Ora puoi rinnovare l’aspetto del castello[0x000A]ispirandoti al tema “Chic”!
+Ora puoi rinnovare l’aspetto del castello[0x000A]ispirandoti al tema “Cinereo”!
+Ora potrai discutere di abbigliamento con[0x000A]i giocatori che incontri!
+Ora puoi divertirti con i minigiochi! Rivolgiti[0x000A]alla leggiadra fanciulla all’ingresso del castello.{0xBE01}[0x000A]Tramite le funzioni di comunicazione, potrai[0x000A]anche giocare insieme ad altri giocatori!
+Ora puoi impostare questo messaggio di saluto:[0x000A]{0xFF00,0x0002}{0x01B7,0x0000}{0xFF00,0x0000}
+{0xBDFF:0x002F}
+{0xBDFF:0x0030}
+{0xBDFF:0x0031}
+{0xBDFF:0x0032}
+{0xBDFF:0x0033}
+{0xBDFF:0x0034}
+Con questo computer puoi collegarti a Internet[0x000A]e usare varie funzioni. Cosa vuoi fare?
+ID Sincrogioco:[0x000A]{0x012D,0x0000}-{0x012D,0x0001}-{0x012D,0x0002}-{0x012D,0x0003}
+Cosa vuoi fare?
+Chi vuoi chiamare?
+Scegli un argomento.
+Scegli una struttura da spostare.
+Quale struttura vuoi mettere al suo posto?
+Scegli un tema per rinnovare l’aspetto[0x000A]del castello.
+Vuoi ispirarti a questo tema?
+Scegli una musica di sottofondo da quelle[0x000A]disponibili nel jukebox.
+Vuoi scegliere questa musica?
+Scegli un argomento.
+Hai ricevuto {0x0206,0x0004,0x002E} festigetton{0x1101,0x0004,0x0101}ei!
+Accedi ai Video Lotta
+Usa il Sincrogioco
+Visualizza ID Sincrogioco
+Esci
+Chiama un visitatore
+Info
+Un’altra volta...
+Le funzioni di comunicazione
+Tutto sul Festiplaza
+Come gestire un Festiplaza
+Tutto sui festigettoni
+Ho cambiato idea
+Cambia l’ordine delle strutture
+Cambia tema
+Cambia la musica di sottofondo
+Info
+Musica 1
+Musica 2
+Musica 3
+Musica 4
+Musica 5
+Musica 6
+Musica 7
+Musica 8
+Musica 9
+{0xFF00,0x0002}Musica 1{0xFF00,0x0000}
+{0xFF00,0x0002}Musica 2{0xFF00,0x0000}
+{0xFF00,0x0002}Musica 3{0xFF00,0x0000}
+{0xFF00,0x0002}Musica 4{0xFF00,0x0000}
+{0xFF00,0x0002}Musica 5{0xFF00,0x0000}
+{0xFF00,0x0002}Musica 6{0xFF00,0x0000}
+{0xFF00,0x0002}Musica 7{0xFF00,0x0000}
+{0xFF00,0x0002}Musica 8{0xFF00,0x0000}
+{0xFF00,0x0002}Musica 9{0xFF00,0x0000}
+1. {0x01B8,0x0000}
+2. {0x01B8,0x0000}
+3. {0x01B8,0x0000}
+4. {0x01B8,0x0000}
+5. {0x01B8,0x0000}
+6. {0x01B8,0x0000}
+7. {0x01B8,0x0000}
+{0xFF00,0x0002}1. {0x01B8,0x0000}{0xFF00,0x0000}
+{0xFF00,0x0002}2. {0x01B8,0x0000}{0xFF00,0x0000}
+{0xFF00,0x0002}3. {0x01B8,0x0000}{0xFF00,0x0000}
+{0xFF00,0x0002}4. {0x01B8,0x0000}{0xFF00,0x0000}
+{0xFF00,0x0002}5. {0x01B8,0x0000}{0xFF00,0x0000}
+{0xFF00,0x0002}6. {0x01B8,0x0000}{0xFF00,0x0000}
+{0xFF00,0x0002}7. {0x01B8,0x0000}{0xFF00,0x0000}
+Base
+Fiaba
+Chic
+Cinereo
+{0xFF00,0x0002}Base{0xFF00,0x0000}
+{0xFF00,0x0002}Fiaba{0xFF00,0x0000}
+{0xFF00,0x0002}Chic{0xFF00,0x0000}
+{0xFF00,0x0002}Cinereo{0xFF00,0x0000}
+Sì
+No
+Partecipa
+Controlla
+Cosa sono i minigiochi globali?
+Come faccio a partecipare?
+Sì
+Impostare le funzioni di comunicazione
+Notifiche del Festiplaza
+{0x0100,0x0000}, se vuoi incontrare un giocatore[0x000A]che sta visitando il tuo Festiplaza, chiedi a me!
+Puoi invitare qui un giocatore che sta visitando[0x000A]il tuo Festiplaza e fare conoscenza!
+Se hai bisogno di me, sono qui!
+Ciao, {0x0100,0x0000}! Vuoi sapere qualcosa[0x000A]sul Festiplaza? Chiedimi tutto quello che vuoi!
+Se hai bisogno di me, sono qui!
+Nel Festiplaza puoi interagire con altri giocatori[0x000A]tramite Internet o comunicazione locale.{0xBE01}[0x000A]Tocca le apposite icone sul touch screen per[0x000A]selezionare una modalità di comunicazione,{0xBE00}[0x000A]lottare o fare scambi.
+Il Festiplaza è un fantastico punto di incontro,[0x000A]reso possibile dalle funzioni di comunicazione.{0xBE01}[0x000A]Un’opportunità preziosa per entrare in contatto[0x000A]con i giocatori che vengono a trovarti!
+Questo è il tuo Festiplaza e tu ne sei[0x000A]l'organizzat{0x1100,0x00FF,0x100E}ore e animatorrice e animatrice.{0xBE01}[0x000A]Se i tuoi ospiti si divertiranno, ti regaleranno[0x000A]dei festigettoni.{0xBE01}[0x000A]Il totale di festigettoni è indice del tuo[0x000A]successo!
+I festigettoni sono la moneta del Festiplaza[0x000A]e servono per usare le strutture.{0xBE01}[0x000A]Divertiti a scoprire tutti i servizi e i vantaggi[0x000A]che offrono le varie strutture!
+Nel Festiplaza vengono raccolte informazioni[0x000A]sulla tua avventura, che vengono inviate{0xBE00}[0x000A]ai giocatori connessi.{0xBE01}[0x000A]Puoi cambiare queste impostazioni tramite[0x000A]l’icona del tuo profilo sul touch screen.
+Quando non ti trovi nel Festiplaza, apri il menu[0x000A]principale con il pulsante X e osserva il touch{0xBE00}[0x000A]screen per scoprire se ci sono novità.{0xBE01}[0x000A]Vuoi saperne di più?
+Se ci sono giocatori in visita al tuo Festiplaza[0x000A]tramite comunicazione locale, accanto{0xBE00}[0x000A]all’icona del castello comparirà un numero{0xBE00}[0x000A]che indica quanti sono.{0xBE01}[0x000A]Inoltre, se un visitatore ha una richiesta[0x000A]per te, sull’icona comparirà il simbolo “!”.
+Ciao, {0x0100,0x0000}!{0xBE01}[0x000A]Se vuoi personalizzare il tuo Festiplaza,[0x000A]chiedi pure a me.
+Alla prossima!
+Puoi selezionare due strutture da scambiare[0x000A]di posto. Sono elencate in senso antiorario,{0xBE00}[0x000A]dalla prima a destra dell’ingresso del castello.{0xBE01}[0x000A]La prima struttura della lista è quella che[0x000A]consiglierai ai tuoi visitatori.
+Provvedo subito!
+Quella struttura è già lì...
+È già utilizzato questo tema.
+Vuoi cambiare il tema del castello?[0x000A]Scegli quello che ti piace di più!
+È già selezionata questa musica di sottofondo.
+Ascolta le musiche del jukebox e scegli quella[0x000A]che preferisci.
+Qui puoi personalizzare il tuo Festiplaza!
+La musica del tuo Festiplaza è stata cambiata.
+Ciao, {0x0100,0x0000}![0x000A]Benvenut{0x1100,0x00FF,0x0101}oa ai minigiochi globali!
+A questi minigiochi possono partecipare[0x000A]giocatori di tutto il mondo.{0xBE01}[0x000A]Quando l’obiettivo viene raggiunto, tutti[0x000A]i giocatori registrati ricevono un premio.{0xBE01}[0x000A]Per partecipare è necessario un ID Sincrogioco,[0x000A]che potrai creare usando questo PC.
+Se non hai un ID Sincrogioco,[0x000A]creane uno adesso!
+Se hai bisogno di me, sono qui!
+Per partecipare è necessario un ID Sincrogioco.{0xBE01}[0x000A]Usa il PC qui accanto per generarne uno.
+I minigiochi globali sono minigiochi a cui possono[0x000A]partecipare giocatori di tutto il mondo.{0xBE01}[0x000A]Quando l’obiettivo viene raggiunto, tutti[0x000A]i giocatori che hanno partecipato ricevono{0xBE00}[0x000A]un premio.{0xBE01}[0x000A]Per partecipare è necessario un ID Sincrogioco.[0x000A]Puoi crearne uno usando il PC al banco.
+Per partecipare ai minigiochi globali devi[0x000A]connetterti a Internet.{0xBE01}[0x000A]Quando avrai battuto un record nei minigiochi,[0x000A]torna da me!
+Hai ricevuto un premio per un minigioco globale!
+Il capo è qui. Vai a parlargli!
+Ma sei davvero incredibile, {0x0100,0x0000}![0x000A]Un{0x1100,0x00FF,0x0605} veroa vera fuoriclasse!{0x0114,0x0010}
+Hai portato il tuo Festiplaza al livello 100![0x000A]Un risultato simile va detto al mondo intero!{0x0114,0x0010}
+{0x0100,0x0000}, il tuo Festiplaza è strepitoso!{0x0114,0x0010}
+Ho cambiato l’aspetto del castello.
+Ciao, {0x0100,0x0000}![0x000A]Benvenut{0x1100,0x00FF,0x0101}oa al Festiplaza!
+Ti aspettavamo!{0xBE01}[0x000A]Lo staff del Festiplaza è lieto di conoscerti[0x000A]ed è a tua disposizione!
+Se hai domande sul Festiplaza, vieni da me,[0x000A]al banco informazioni.
+Da questo PC puoi connetterti a Internet[0x000A]e accedere a varie funzioni.{0xBE01}[0x000A]Al momento sono disponibili i Video Lotta[0x000A]e il Sincrogioco.
+Parla con questa signorina se vuoi usare[0x000A]i minigiochi globali.{0xBE01}[0x000A]Potrai giocare insieme ad Allenatori di tutto il[0x000A]mondo per raggiungere un traguardo comune!{0xBE01}[0x000A]Per partecipare ai minigiochi globali dovrai[0x000A]collegarti a Internet.
+In fondo a sinistra c’è il banco delle visite.{0xBE01}[0x000A]Da lì potrai chiamare altri giocatori che stanno[0x000A]visitando il tuo Festiplaza e fare conoscenza.
+Il banco in fondo a destra invece è quello[0x000A]delle personalizzazioni.{0xBE01}[0x000A]Potrai cambiare la disposizione delle strutture[0x000A]e l’aspetto del tuo Festiplaza.
+Quando hai bisogno di qualcosa, siamo qui!
+Ecco {0x0100,0x0000}! Ora potrete parlare!
+{0x01B7,0x0000}
+{0x01B7,0x0000}
+Chiama un visitatore e fate conoscenza!
+Parla con l’addetto per cambiare la disposizione[0x000A]e l’aspetto del tuo Festiplaza!
+Dai un’occhiata al tuo profilo sul touch screen!
+Puoi trovare questa frase di saluto, ad esempio,[0x000A]nella categoria “Comunicazioni per i giocatori”!
+{0x0100,0x0000} è già qui.
+Ora potete parlare.
+Non è stato possibile chiamare il visitatore.
+I servizi premium sono stati sbloccati!
+In tutto hai {0x0206,0x0000,0x002E} FG.
+Il tuo Festiplaza ha raggiunto il livello {0x0202,0x0002}!
+Chrys è venuto a complimentarsi con te![0x000A]Vai a trovarlo per ricevere la tua ricompensa!
+{0xBDFF:0x00BD}
+{0xBDFF:0x00BE}
+{0xBDFF:0x00BF}
+{0xBDFF:0x00C0}
+{0xBDFF:0x00C1}
+{0xBDFF:0x00C2}
+{0xBDFF:0x00C3}
+{0xBDFF:0x00C4}
+{0xBDFF:0x00C5}
+{0xBDFF:0x00C6}
+{0xBDFF:0x00C7}
+{0xBDFF:0x00C8}
+{0xBDFF:0x00C9}
+{0xBDFF:0x00CA}
+{0xBDFF:0x00CB}
+{0xBDFF:0x00CC}
+{0xBDFF:0x00CD}
+{0xBDFF:0x00CE}
+{0xBDFF:0x00CF}
+{0xBDFF:0x00D0}
+{0xBDFF:0x00D1}
+{0xBDFF:0x00D2}
+{0xBDFF:0x00D3}
+{0xBDFF:0x00D4}
+{0xBDFF:0x00D5}
+{0xBDFF:0x00D6}
+{0xBDFF:0x00D7}
+{0xBDFF:0x00D8}
+{0xBDFF:0x00D9}
+{0xBDFF:0x00DA}
+{0xBDFF:0x00DB}
+{0xBDFF:0x00DC}
+{0xBDFF:0x00DD}
+{0xBDFF:0x00DE}
+{0xBDFF:0x00DF}
+{0xBDFF:0x00E0}
+{0xBDFF:0x00E1}
+{0xBDFF:0x00E2}
+{0xBDFF:0x00E3}
+{0xBDFF:0x00E4}
+{0xBDFF:0x00E5}
+{0xBDFF:0x00E6}
+{0xBDFF:0x00E7}
+{0xBDFF:0x00E8}
+{0xBDFF:0x00E9}
+{0xBDFF:0x00EA}
+{0xBDFF:0x00EB}
+{0xBDFF:0x00EC}
+{0xBDFF:0x00ED}
+{0xBDFF:0x00EE}
+{0xBDFF:0x00EF}
+{0xBDFF:0x00F0}
+{0xBDFF:0x00F1}
+{0xBDFF:0x00F2}
+{0xBDFF:0x00F3}
+{0xBDFF:0x00F4}
+{0xBDFF:0x00F5}
+{0xBDFF:0x00F6}
+{0xBDFF:0x00F7}
+{0xBDFF:0x00F8}
+{0xBDFF:0x00F9}
+{0xBDFF:0x00FA}
+{0xBDFF:0x00FB}
+{0xBDFF:0x00FC}
+{0xBDFF:0x00FD}
+{0xBDFF:0x00FE}
+{0xBDFF:0x00FF}
+{0xBDFF:0x0100}
+{0xBDFF:0x0101}
+{0xBDFF:0x0102}
+{0xBDFF:0x0103}
+{0xBDFF:0x0104}
+Ehi, tu! Non è che per caso ti interessano[0x000A]dei Tappi d’argento?
+Facciamo uno scambio: un Tappo d’argento per[0x000A]{0x0202,0x0000} cocci colorati!
+Quali cocci vuoi scambiare?
+Vuoi scambiare {0x0202,0x0000} {0x0109,0x0001}[0x000A]con un Tappo d’argento?
+Grazie mille![0x000A]Fanne buon uso, mi raccomando!
+Vuoi fare un altro scambio?
+Mi spiace, non hai abbastanza cocci colorati...{0xBE01}[0x000A]Torna quando avrai {0x0202,0x0000} cocci{0x1101,0x0000,0x0001}o dello stesso[0x000A]colore.
+Oh... Come preferisci...[0x000A]Se cambi idea, fammi sapere.
+{0x0202,0x0000} Cocci{0x1101,0x0000,0x0607}o Rosso Rossi
+{0x0202,0x0000} Cocci{0x1101,0x0000,0x0001}o Blu
+{0x0202,0x0000} Cocci{0x1101,0x0000,0x0708}o Giallo Gialli
+{0x0202,0x0000} Cocci{0x1101,0x0000,0x0607}o Verde Verdi
+Non m’interessa, grazie
+{0xBDFF:0x0112}
+{0xBDFF:0x0113}
+{0xBDFF:0x0114}
+{0xBDFF:0x0115}
+{0xBDFF:0x0116}
+...
+Comodissima questa sedia!
+{0xBDFF:0x0119}

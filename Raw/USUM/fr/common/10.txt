@@ -1,0 +1,251 @@
+{0x0102,0x0000}
+{0x0101,0x0000}
+{0x0202,0x0000}
+{0x0202,0x0000}
+{0x0201,0x0000}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+-
+l
+Nº Pokédex
+???
+Nom
+Type
+D.O.
+{0x0100,0x0000}
+PV
+/
+Attaque
+Défense
+Atq. Spé.
+Déf. Spé.
+Vitesse
+Nature
+{0x0108,0x0000}
+Talent
+{0x0106,0x0000}
+Objet
+{0x0109,0x0000}
+Capacités
+{0x0107,0x0000}
+{0x010B,0x0000}
+Juge
+Équipe
+{0xBDFF:0x0021}
+Groupe 1
+Groupe 2
+Groupe 3
+Déplacer
+Résumé
+Objet
+Marquer
+Relâcher
+Retirer
+Autres Boîtes
+Fonds
+Nom
+Ranger
+Donner
+Assigner
+Quitter
+Paysage 1
+Paysage 2
+Paysage 3
+Autres
+Forêt
+Ville
+Désert
+Savane
+Rochers
+Volcan
+Neige
+Grotte
+Plage
+Mer
+Rivière
+Ciel
+Centre Pokémon
+Métal
+Vichy
+Uni
+Retour
+OK
+Oui
+Non
+Voulez-vous quitter cet écran[0xE07F]?
+{0x0102,0x0000} sélectionné.
+Il vous faut au moins un Pokémon en forme[0xE07F]!
+Boîte sélectionnée.
+Voulez-vous renommer votre équipe[0xE07F]?
+Aller à quelle Boîte[0xE07F]?
+Choisissez un thème.
+Choisissez un fond.
+Prendre {0x1400,0x0000}{0x0109,0x0000}[0xE07F]?
+{0x0109,0x0000} rangé{0x1102,0x0000,0x0100,0x0201}eses dans le Sac.
+Vous avez trop d’exemplaires de cet objet[0xE07F]!
+Un Œuf ne peut pas tenir un objet.
+Veuillez effectuer le marquage.
+Relâcher ce Pokémon[0xE07F]?
+{0x0102,0x0000} a été relâché.
+Bye-bye, {0x0102,0x0000}[0xE07F]!
+Sélection : {0x0109,0x0000}
+Le Pokémon peut tenir un objet.
+Un Œuf ne peut pas être relâché[0xE07F]!
+Un Pokémon fusionné ne peut pas être relâché[0xE07F]!
+Impossible d’assigner un Œuf.
+À quelle équipe voulez-vous l’assigner[0xE07F]?
+Voulez-vous retourner à Poké Loisir[0xE07F]?
+Reprendre {0x1400,0x0000}{0x0109,0x0000}[0xE07F]?
+Vous avez repris {0x1400,0x0000}{0x0109,0x0000}[0xE07F]!
+Échanger
+Déposer
+Reprendre
+Quitter
+Oui
+Non
+Vous allez procéder à un échange de Pokémon.[0x000A]Continuer[0xE07F]?
+Voulez-vous le retirer de votre Équipe Combat[0x000A]et l’échanger[0xE07F]?
+Ce Pokémon ne peut pas être échangé.
+Vous avez besoin de ce Pokémon pour[0x000A]progresser dans l’aventure[0xE07F]!
+L’échange d’Œufs est impossible.
+Il est impossible d’échanger un Pokémon[0x000A]enregistré dans votre Équipe Combat.
+C’est un Pokémon très spécial.[0x000A]Vous ne pouvez pas l’échanger[0xE07F]!
+Ce Pokémon tient un objet très spécial.[0x000A]Vous ne pouvez pas l’échanger[0xE07F]!
+Communication en cours...[0x000A]Veuillez patienter.
+Votre Équipe Combat est verrouillée.[0x000A]Impossible de retirer ce Pokémon.
+Il est impossible de déplacer un Pokémon[0x000A]enregistré dans une Équipe Combat verrouillée.
+Votre Équipe Combat est verrouillée.[0x000A]Impossible de changer les objets tenus.
+Votre Équipe Combat est verrouillée.[0x000A]Impossible de marquer les Pokémon.
+Ce Pokémon vous a été confié par Sina.[0x000A]Vous ne pouvez pas le relâcher.
+Ce Pokémon vous a été confié par Sina.[0x000A]Vous ne pouvez pas l’échanger.
+Votre Équipe Combat est verrouillée.[0x000A]Impossible d’ajouter ce Pokémon.
+Impossible de relâcher un Pokémon enregistré[0x000A]dans votre Équipe Combat.
+Impossible d’ajouter un Pokémon d’une Équipe[0x000A]Combat à un groupe.
+En attente d’une réponse...[0x000A]Veuillez patienter.
+Encore :
+{0xBDFF:0x007D}
+Pas top...
+Passable...
+Bon[0xE07F]!
+Très bon[0xE07F]!
+Fantastique[0xE07F]!
+Exceptionnel[0xE07F]!
+Potentiel correct
+Potentiel supérieur à la moyenne
+Potentiel bien supérieur à la moyenne
+Potentiel exceptionnel[0xE07F]!
+Réinitial.
+Chercher
+
+Pokémon
+{0x0101,0x0000}
+Type 1
+{0x0103,0x0000}
+Type 2
+{0x0103,0x0000}
+Capacité
+{0x0107,0x0000}
+CT
+{0x0107,0x0000}
+Talent
+{0x0106,0x0000}
+Nature
+{0x0108,0x0000}
+Sexe
+[0xE08E]
+[0xE08F]
+?
+Objet
+{0x0109,0x0000}
+Marque
+Avec
+Sans
+Équipe Combat
+Dans une équipe
+Dans aucune équipe
+Équipe
+{0xBDFF:0x00A6}
+Définissez vos critères et appuyez sur Chercher[0x000A]pour activer la recherche.
+Choisissez la première lettre du nom du Pokémon recherché.
+Veuillez choisir un Pokémon.
+Choisissez le premier type du Pokémon recherché.
+Choisissez le second type du Pokémon recherché.
+Choisissez la première lettre du nom d’une capacité[0x000A]apprise par le Pokémon recherché.
+Choisissez une capacité.
+Sélectionnez une CT utilisable par le Pokémon recherché.
+Saisissez la première lettre du nom du talent possédé[0x000A]par le Pokémon recherché.
+Choisissez un talent.
+Choisissez la nature du Pokémon recherché.
+Choisissez le sexe du Pokémon recherché.
+Choisissez si le Pokémon recherché tient un objet ou non.
+Sélectionnez le marquage du Pokémon recherché.
+Permet d’examiner les Pokémon assignés à[0x000A]une Équipe Combat.
+Permet d’examiner les Pokémon assignés à[0x000A]l’Équipe Combat sélectionnée.
+{0x0103,0x0001}
+{0x0103,0x0002}
+{0x0107,0x0000}
+{0x0106,0x0000}
+{0x0108,0x0000}
+Progresse de façon équilibrée.
+Progresse rapidement en Attaque, lentement en Défense.
+Progresse rapidement en Attaque, lentement en Vitesse.
+Progresse rapidement en Attaque, lentement en[0x000A]Attaque Spéciale.
+Progresse rapidement en Attaque, lentement en[0x000A]Défense Spéciale.
+Progresse rapidement en Défense, lentement en Attaque.
+Progresse de façon équilibrée.
+Progresse rapidement en Défense, lentement en Vitesse.
+Progresse rapidement en Défense, lentement en[0x000A]Attaque Spéciale.
+Progresse rapidement en Défense, lentement en[0x000A]Défense Spéciale.
+Progresse rapidement en Vitesse, lentement en Attaque.
+Progresse rapidement en Vitesse, lentement en Défense.
+Progresse de façon équilibrée.
+Progresse rapidement en Vitesse, lentement en[0x000A]Attaque Spéciale.
+Progresse rapidement en Vitesse, lentement en[0x000A]Défense Spéciale.
+Progresse rapidement en Attaque Spéciale, lentement en[0x000A]Attaque.
+Progresse rapidement en Attaque Spéciale, lentement en[0x000A]Défense.
+Progresse rapidement en Attaque Spéciale, lentement en[0x000A]Vitesse.
+Progresse de façon équilibrée.
+Progresse rapidement en Attaque Spéciale, lentement en[0x000A]Défense Spéciale.
+Progresse rapidement en Défense Spéciale, lentement en[0x000A]Attaque.
+Progresse rapidement en Défense Spéciale, lentement en[0x000A]Défense.
+Progresse rapidement en Défense Spéciale, lentement en[0x000A]Vitesse.
+Progresse rapidement en Défense Spéciale, lentement en[0x000A]Attaque Spéciale.
+Progresse de façon équilibrée.
+{0xBDFF:0x00D5}
+{0x0200,0x0000}
+/
+Les Boîtes sont des réceptacles où vous pouvez[0x000A]déposer vos Pokémon.[0x000A][0x000A]Une fois déposés, vous pouvez les organiser[0x000A]comme bon vous semble.[0x000A][0x000A]Il est possible de vous connecter à vos Boîtes[0x000A]depuis le PC de n’importe quel Centre Pokémon.
+Il y a trois modes de sélection dans les Boîtes.[0x000A]Appuyez sur le bouton X pour passer d’un mode[0x000A]à l’autre.[0x000A][0x000A]Le premier mode permet de ranger les Boîtes,[0x000A]par exemple en intervertissant les Pokémon[0x000A]de la Boîte avec ceux de votre équipe, ou en[0x000A]les réorganisant selon votre goût.
+Le deuxième mode permet de ranger les objets[0x000A]tenus par les Pokémon.[0x000A][0x000A]Vous pouvez ainsi donner un objet à chaque[0x000A]Pokémon, ou intervertir les objets tenus par[0x000A]ces Pokémon.
+Le troisième mode permet de créer jusqu’à[0x000A]six Équipes Combat, composées de Pokémon[0x000A]prêts à se battre.[0x000A][0x000A]Il est possible d’enregistrer le même Pokémon[0x000A]dans plusieurs Équipes Combat, ce qui vous[0x000A]permet d’essayer toutes sortes de variations.
+START et SELECT permettent de changer[0x000A]les contrôles.[0x000A][0x000A]Les contrôles par défaut sont utilisés quand[0x000A]le curseur est rouge.[0x000A]Le curseur bleu permet d’intervertir rapidement[0x000A]les Pokémon.[0x000A]Enfin, le curseur vert permet de sélectionner[0x000A]plusieurs Pokémon d’un seul coup.
+Le bouton Y permet de chercher des Pokémon[0x000A]selon les critères de votre choix, par exemple[0x000A]en fonction de leur nom, de leur type ou[0x000A]des capacités qu’ils connaissent.
+{0xBDFF:0x00DE}
+Montrez-moi vos Pokémon[0xE07F]!
+J’aimerais obtenir ce Pokémon en échange[0x000A]du mien[0xE07F]!
+J’aimerais voir d’autres Pokémon.
+Je n’ai pas d’autre Pokémon.
+À votre bon cœur[0xE07F]!
+Merci[0xE07F]!
+Pardon.
+Au revoir[0xE07F]!
+J’aimerais échanger mon Pokémon contre[0x000A]un {0x0101,0x0000}[0xE07F]!
+Je regarde les stats du Pokémon...
+J’envoie {0x0101,0x0000} à l’échange.
+Je cherche un Pokémon...
+...
+Votre Pokémon
+Son Pokémon
+Interrompre
+L’autre joueur a interrompu l’échange.
+L’échange a été interrompu.
+Un problème avec le Pokémon de l’autre joueur[0x000A]rend tout échange impossible.
+Voulez-vous arrêter d’échanger des Pokémon[0xE07F]?
+Fin des échanges.
+Interruption de la connexion...[0x000A]Veuillez patienter.
+Si vous échangez ce Pokémon, vous récupérerez[0x000A]{0x1400,0x0000}{0x0109,0x0000}. Continuer[0xE07F]?
+Un problème avec votre Pokémon rend[0x000A]tout échange impossible.
+La communication a échoué.
+Au max[0xE07F]!
+Les Œufs n’ont rien à faire ici...
+Vous ne pouvez pas sélectionner ce Pokémon.

@@ -1,0 +1,17 @@
+main_event_1610_rival_01=L’ascensore continua a salire...{0x0114,0x0005}
+main_event_1610_rival_02=Toh... Che strano, s’è fermato...[0x000A]Eppure non siamo ancora arrivati...{0x0114,0x0005}
+main_event_1610_stuff1_01=Suppongo che voi siate degli Sfidapalestre.{0xBE01}[0x000A]Vi ringraziamo per aver partecipato al torneo,[0x000A]ma non possiamo lasciare che vi intromettiate{0xBE00}[0x000A]nei nostri affari.{0xBE01}[0x000A]La Rose Tower ospita gli uffici di aziende[0x000A]affiliate. E noi abbiamo il dovere di proteggerle!
+main_event_1610_stuff2_01=Questo ascensore è il fiore all’occhiello[0x000A]della Rose Tower.{0xBE00}[0x000A]È così spazioso che ci si può anche lottare!{0xBE01}[0x000A]È stato progettato dalla Macro Cosmos Edilizia,[0x000A]una delle aziende del gruppo!
+main_event_1610_stuff1_02=Dopo questa sconfitta, non ci resta altro che[0x000A]farci da parte...{0xBE01}[0x000A]Ma vi prego, non immischiatevi negli affari[0x000A]del presidente Rose.
+main_event_1610_stuff2_02=Gli ascensori della Macro Cosmos Edilizia[0x000A]sono costituiti solo da una piattaforma mobile.{0xBE01}[0x000A]Naturalmente questo può essere pericoloso[0x000A]e per questo sono circondati da speciali{0xBE00}[0x000A]barriere fatte di luce.{0xBE01}[0x000A]È una tecnologia all’avanguardia davvero[0x000A]sorprendente!
+main_event_1610_rival_03=Ma fammi capire... Lo staff della torre può[0x000A]fermare l’ascensore dall’esterno?{0xBE01}[0x000A]Di questo passo ce ne vorrà di tempo prima[0x000A]che arriviamo in cima!{0x0114,0x0005}
+main_event_1610_rival_05=Beh, intanto rimetto in sesto le nostre squadre.[0x000A]Se lo meritano proprio!{0x0114,0x0005}
+main_event_1610_stuff3_01=La torre è alta ben 300 metri!{0xBE01}[0x000A]Ora siamo esattamente a 150 metri dal suolo!
+main_event_1610_stuff4_01=Siamo della MC Assicurazioni.[0x000A]Spero che siate assicurati.
+main_event_1610_stuff3_02=In... In realtà io... soffro di vertigini!
+main_event_1610_stuff4_02=Purtroppo l’assicurazione non copre i danni[0x000A]derivanti dalle sconfitte...
+main_event_1610_stuff5_01=Siete quasi arrivati in cima, ma non fatevi[0x000A]illusioni: non vi lasceremo arrivare al presidente!
+main_event_1610_stuff6_01=L’altezza non mi spaventa!{0xBE01}[0x000A]Lavoro per la Macro Cosmos Aerolinee.[0x000A]Il cielo è il mio habitat naturale!
+main_event_1610_stuff5_02=Se pensate di poter arrivare in cima vi sbagliate[0x000A]di grosso!{0xBE01}[0x000A]Il presidente è semplicemente irraggiungibile.
+main_event_1610_stuff6_02=Negli edifici come questo, quelli che contano[0x000A]stanno ai piani alti!{0xBE01}[0x000A]Il presidente Rose è come una stella che splende[0x000A]alta nel firmamento.{0xBE01}[0x000A]È semplicemente il top of the world!
+main_event_1610_rival_04=A quanto pare manca davvero poco.[0x000A]Prepariamoci al tutto per tutto!{0x0114,0x0005}

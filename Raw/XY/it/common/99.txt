@@ -1,0 +1,718 @@
+???
+La Poké Ball dalle prestazioni migliori:[0x000A]cattura qualsiasi Pokémon selvatico senza[0x000A]mai fallire.
+Poké Ball dalle prestazioni eccellenti:[0x000A]fornisce maggiori probabilità di cattura rispetto[0x000A]alla Mega Ball.
+Poké Ball dalle ottime prestazioni:[0x000A]fornisce maggiori probabilità di cattura rispetto[0x000A]alla normale Poké Ball.
+Strumento dotato di capsula usato per catturare[0x000A]Pokémon selvatici. Si lancia contro il bersaglio[0x000A]come una palla.
+Poké Ball speciale, usata soltanto nella[0x000A]Gran Palude. È decorata con un motivo mimetico.
+Poké Ball un po’ diversa. Risulta particolarmente[0x000A]efficace sui Pokémon di tipo Acqua e Coleottero.
+Poké Ball un po’ diversa. Risulta particolarmente[0x000A]efficace sui Pokémon che vivono in acqua.
+Poké Ball un po’ diversa. Risulta particolarmente[0x000A]efficace sui Pokémon selvatici più deboli.
+Poké Ball un po’ diversa. Risulta particolarmente[0x000A]efficace sulle specie di Pokémon già catturate[0x000A]in precedenza.
+Poké Ball un po’ diversa che diventa[0x000A]progressivamente più efficace con l’aumentare[0x000A]dei turni in lotta.
+Poké Ball graziosa che rende più amichevoli[0x000A]i Pokémon selvatici catturati.
+Poké Ball poco comune realizzata appositamente[0x000A]per commemorare un particolare evento.
+Poké Ball un po’ diversa che rende più facile[0x000A]catturare Pokémon selvatici di notte o in luoghi[0x000A]bui come le grotte.
+Poké Ball curativa che ridà PS al Pokémon[0x000A]catturato e cura tutti i problemi di stato.
+Poké Ball un po’ diversa che facilita la cattura[0x000A]di un Pokémon selvatico se usata all’inizio[0x000A]della lotta.
+Poké Ball molto esclusiva creata per[0x000A]commemorare un evento speciale.
+Rimedio spray per le ferite.[0x000A]Restituisce 20 PS a un Pokémon.
+Rimedio spray.[0x000A]Cura un Pokémon dall’avvelenamento.
+Rimedio spray.[0x000A]Cura un Pokémon dalla scottatura.
+Rimedio spray.[0x000A]Cura un Pokémon dal congelamento.
+Rimedio spray.[0x000A]Sveglia un Pokémon addormentato.
+Rimedio spray.[0x000A]Cura un Pokémon dalla paralisi.
+Rimedio che restituisce tutti i PS a un Pokémon[0x000A]e cura i suoi problemi di stato.
+Rimedio spray per le ferite.[0x000A]Restituisce tutti i PS a un Pokémon.
+Rimedio spray per le ferite.[0x000A]Restituisce 200 PS a un Pokémon.
+Rimedio spray per le ferite.[0x000A]Restituisce 50 PS a un Pokémon.
+Rimedio spray.[0x000A]Cura tutti i problemi di stato di un Pokémon.
+Rimedio che rianima un Pokémon esausto[0x000A]e gli restituisce metà dei suoi PS massimi.
+Rimedio che rianima un Pokémon esausto[0x000A]restituendogli tutti i PS.
+Acqua ricca di sostanze minerali.[0x000A]Restituisce 50 PS a un Pokémon.
+Bevanda frizzante.[0x000A]Restituisce 60 PS a un Pokémon.
+Bevanda molto dolce.[0x000A]Restituisce 80 PS a un Pokémon.
+Latte ricco di sostanze nutrienti.[0x000A]Restituisce 100 PS a un Pokémon.
+Rimedio amarissimo in polvere.[0x000A]Restituisce 50 PS a un Pokémon.
+Radice amarissima.[0x000A]Restituisce 200 PS a un Pokémon.
+Rimedio amarissimo in polvere.[0x000A]Cura tutti i problemi di stato di un Pokémon.
+Erba medicinale amarissima.[0x000A]Rianima un Pokémon esausto e gli restituisce[0x000A]tutti i PS.
+Restituisce un massimo di 10 PP a una mossa[0x000A]a scelta tra quelle conosciute dal Pokémon.
+Restituisce tutti i PP a una mossa a scelta[0x000A]tra quelle conosciute dal Pokémon.
+Restituisce 10 PP a ciascuna delle mosse[0x000A]conosciute dal Pokémon.
+Restituisce tutti i PP a ogni mossa conosciuta[0x000A]dal Pokémon.
+Specialità tipica di Cuordilava.[0x000A]Cura tutti i problemi di stato di un Pokémon.
+Bevanda di puro succo di bacche.[0x000A]Restituisce 20 PS a un Pokémon.
+Rianima tutti i Pokémon esausti, restituendo loro[0x000A]anche tutti i PS.
+Bevanda nutriente per Pokémon.[0x000A]Aumenta i punti base dei PS.
+Bevanda nutriente per Pokémon.[0x000A]Aumenta i punti base dell’Attacco.
+Bevanda nutriente per Pokémon.[0x000A]Aumenta i punti base della Difesa.
+Bevanda nutriente per Pokémon.[0x000A]Aumenta i punti base della Velocità.
+Bevanda nutriente per Pokémon.[0x000A]Aumenta i punti base dell’Attacco Speciale.
+Caramella altamente energetica.[0x000A]Fa salire un Pokémon di un livello.
+Aumenta di poco i PP massimi di una mossa[0x000A]a scelta tra quelle conosciute dal Pokémon.
+Bevanda nutriente per Pokémon.[0x000A]Aumenta i punti base della Difesa Speciale.
+Porta al limite i PP massimi di una mossa[0x000A]a scelta tra quelle conosciute dal Pokémon.
+Specialità segreta dell’Antico Château.[0x000A]Cura tutti i problemi di stato di un Pokémon.
+Per cinque turni dopo l’uso, evita che le[0x000A]statistiche dei Pokémon della squadra[0x000A]dell’Allenatore diminuiscano.
+Aumenta la probabilità di sferrare brutti colpi.[0x000A]Si può usare una sola volta e l’effetto svanisce[0x000A]se il Pokémon è sostituito.
+Aumenta l’Attacco di un Pokémon in una lotta.[0x000A]L’effetto svanisce se il Pokémon è sostituito.
+Aumenta la Difesa di un Pokémon in una lotta.[0x000A]L’effetto svanisce se il Pokémon è sostituito.
+Aumenta la Velocità di un Pokémon in una lotta.[0x000A]L’effetto svanisce se il Pokémon è sostituito.
+Aumenta la precisione di un Pokémon in una[0x000A]lotta. L’effetto svanisce se il Pokémon[0x000A]è sostituito.
+Aumenta l’Attacco Speciale di un Pokémon[0x000A]in una lotta. L’effetto svanisce se il Pokémon[0x000A]è sostituito.
+Aumenta la Difesa Speciale di un Pokémon[0x000A]in una lotta. L’effetto svanisce se il Pokémon[0x000A]è sostituito.
+Bambola che attrae i Pokémon. È utile per fuggire[0x000A]dalla lotta con Pokémon selvatici.
+Strumento che attrae i Pokémon. È utile[0x000A]per fuggire dalla lotta con Pokémon selvatici.
+Flauto giocattolo fatto di vetro blu.
+Flauto giocattolo fatto di vetro giallo.
+Flauto giocattolo fatto di vetro rosso.
+Flauto giocattolo fatto di vetro nero.
+Flauto giocattolo fatto di vetro bianco.
+Sale purissimo rinvenuto nella Grotta Ondosa.
+Un bel guscio rinvenuto nella Grotta Ondosa.
+Un piccolo coccio rosso che con ogni probabilità[0x000A]è un frammento di un antico strumento.
+Un piccolo coccio blu che con ogni probabilità[0x000A]è un frammento di un antico strumento.
+Un piccolo coccio giallo che con ogni probabilità[0x000A]è un frammento di un antico strumento.
+Un piccolo coccio verde che con ogni probabilità[0x000A]è un frammento di un antico strumento.
+Strumento che evita l’incontro con i Pokémon[0x000A]selvatici deboli per 200 passi dopo l’utilizzo.
+Strumento che evita l’incontro con i Pokémon[0x000A]selvatici deboli per 250 passi dopo l’utilizzo.
+Corda lunga e resistente che si usa per fuggire[0x000A]in un batter d’occhio dalle grotte o da certi[0x000A]luoghi chiusi.
+Strumento che evita l’incontro con i Pokémon[0x000A]selvatici deboli per 100 passi dopo l’utilizzo.
+Pietra particolare che fa evolvere determinate[0x000A]specie di Pokémon. È rossa come il sole[0x000A]al tramonto.
+Pietra particolare che fa evolvere determinate[0x000A]specie di Pokémon. È nera come la notte.
+Pietra particolare che fa evolvere determinate[0x000A]specie di Pokémon. È gialla e arancione.
+Pietra particolare che fa evolvere determinate[0x000A]specie di Pokémon. Riporta l’immagine[0x000A]di un fulmine.
+Pietra particolare che fa evolvere determinate[0x000A]specie di Pokémon. Ha delle macchioline azzurre.
+Pietra particolare che fa evolvere determinate[0x000A]specie di Pokémon. Riporta l’immagine[0x000A]di una foglia.
+Fungo piccolo e raro.[0x000A]È discretamente apprezzato da alcuni intenditori.
+Fungo grande e raro.[0x000A]È molto apprezzato da alcuni intenditori.
+Perla piuttosto piccola dai graziosi riflessi[0x000A]argentei. Si può vendere a un prezzo piuttosto[0x000A]basso nei negozi.
+Perla piuttosto grande dai graziosi riflessi[0x000A]argentei. Si può vendere a un prezzo piuttosto[0x000A]alto nei negozi.
+Bella sabbia rossa dalla consistenza leggera[0x000A]e farinosa. Si può vendere a un prezzo piuttosto[0x000A]alto nei negozi.
+Frammento rosso acceso di una gemma.[0x000A]Si può vendere a un prezzo piuttosto alto[0x000A]nei negozi.
+Pepita d’oro puro dal luccichio sfavillante.[0x000A]Si può vendere a un prezzo piuttosto alto[0x000A]nei negozi.
+Squama graziosa, a forma di cuore e molto rara.[0x000A]Riflette tutti i colori dell’iride.
+Miele dolce dall’aroma intenso che attrae[0x000A]i Pokémon selvatici. Si può usare nelle grotte,[0x000A]nell’erba o su alberi speciali.
+Viene usato nelle regioni in cui si coltivano[0x000A]le bacche per concimare il terreno soffice.
+Viene usato nelle regioni in cui si coltivano[0x000A]le bacche per concimare il terreno soffice.
+Viene usato nelle regioni in cui si coltivano[0x000A]le bacche per concimare il terreno soffice.
+Viene usato nelle regioni in cui si coltivano[0x000A]le bacche per concimare il terreno soffice.
+Fossile di un Pokémon preistorico che viveva in[0x000A]mare. Sembra essere parte di una radice.
+Fossile di un Pokémon preistorico che viveva in[0x000A]mare. Sembra essere parte di un artiglio.
+Fossile di un Pokémon preistorico che viveva in[0x000A]mare. Sembra essere parte di una conchiglia.
+Fossile di un Pokémon preistorico che viveva in[0x000A]mare. Sembra essere parte di una corazza.
+Pezzo di ambra che contiene il materiale[0x000A]genetico di un Pokémon antico. È chiaro[0x000A]e di colore giallastro.
+Fossile di un Pokémon preistorico che viveva[0x000A]sulla terraferma. Sembra far parte di un collare.
+Fossile di un Pokémon preistorico che viveva[0x000A]sulla terraferma. Sembra far parte di un teschio.
+Osso di grande valore per l’archeologia[0x000A]Pokémon. Può essere venduto nei negozi[0x000A]a un prezzo piuttosto alto.
+Pietra particolare che fa evolvere determinate[0x000A]specie di Pokémon. Brilla di una luce abbagliante.
+Pietra particolare che fa evolvere determinate[0x000A]specie di Pokémon. È scura come le tenebre.
+Pietra particolare che fa evolvere determinate[0x000A]specie di Pokémon. È luccicante come gli occhi.
+Pietra particolare che fa evolvere determinate[0x000A]specie di Pokémon. È a forma di uovo.
+Strumento importante che impedisce il crollo[0x000A]di un pozzo di pietra. A volte dal suo interno[0x000A]provengono delle voci.
+Poliedro splendente da dare a Giratina.[0x000A]Aumenta la potenza delle mosse di tipo Drago[0x000A]e Spettro.
+-[0x000A]-[0x000A]-
+-[0x000A]-[0x000A]-
+-[0x000A]-[0x000A]-
+Modulo da dare a Genesect. Trasforma[0x000A]Tecnobotto in una mossa di tipo Acqua.
+Modulo da dare a Genesect. Trasforma[0x000A]Tecnobotto in una mossa di tipo Elettro.
+Modulo da dare a Genesect. Trasforma[0x000A]Tecnobotto in una mossa di tipo Fuoco.
+Modulo da dare a Genesect. Trasforma[0x000A]Tecnobotto in una mossa di tipo Ghiaccio.
+-[0x000A]-[0x000A]-
+-[0x000A]-[0x000A]-
+-[0x000A]-[0x000A]-
+-[0x000A]-[0x000A]-
+-[0x000A]-[0x000A]-
+-[0x000A]-[0x000A]-
+-[0x000A]-[0x000A]-
+-[0x000A]-[0x000A]-
+-[0x000A]-[0x000A]-
+-[0x000A]-[0x000A]-
+-[0x000A]-[0x000A]-
+-[0x000A]-[0x000A]-
+-[0x000A]-[0x000A]-
+-[0x000A]-[0x000A]-
+Cioccolato molto dolce.[0x000A]Restituisce 20 PS a un Pokémon.
+Sfera molto luminosa da dare a Dialga.[0x000A]Potenzia le mosse di tipo Drago e Acciaio.
+Sfera splendente da dare a Palkia.[0x000A]Potenzia le mosse di tipo Drago e Acqua.
+Carta da lettere ideale per presentarsi a qualcuno.[0x000A]Si può dare a un Pokémon affinché la consegni.
+Carta da lettere ideale per parlare di ciò che si[0x000A]ama.[0x000A]Si può dare a un Pokémon affinché la consegni.
+Carta da lettere ideale per scrivere un invito.[0x000A]Si può dare a un Pokémon affinché la consegni.
+Carta da lettere ideale per scrivere dei[0x000A]ringraziamenti.[0x000A]Si può dare a un Pokémon affinché la consegni.
+Carta da lettere ideale per scrivere una domanda.[0x000A]Si può dare a un Pokémon affinché la consegni.
+Carta da lettere ideale per scrivere un consiglio.[0x000A]Si può dare a un Pokémon affinché la consegni.
+Carta da lettere ideale per scrivere una risposta[0x000A]a un messaggio.[0x000A]Si può dare a un Pokémon affinché la consegni.
+Carta da lettere che riporta l’immagine[0x000A]di un ponte sospeso nel cielo.[0x000A]Si può dare a un Pokémon affinché la consegni.
+Carta da lettere che riporta l’immagine[0x000A]di un ponte mobile di colore rosso fuoco.[0x000A]Si può dare a un Pokémon affinché la consegni.
+Carta da lettere che riporta l’immagine[0x000A]di un ponte d’acciaio sospeso.[0x000A]Si può dare a un Pokémon affinché la consegni.
+Carta da lettere che riporta l’immagine[0x000A]di un ponte di mattoni.[0x000A]Si può dare a un Pokémon affinché la consegni.
+Carta da lettere che riporta l’immagine[0x000A]di un ponte ad arco.[0x000A]Si può dare a un Pokémon affinché la consegni.
+Se un Pokémon ha questa bacca, guarisce dalla[0x000A]paralisi.
+Se un Pokémon ha questa bacca, si risveglia[0x000A]dal sonno.
+Se un Pokémon ha questa bacca, guarisce[0x000A]dall’avvelenamento.
+Se un Pokémon ha questa bacca, guarisce dalle[0x000A]scottature.
+Se un Pokémon ha questa bacca, guarisce[0x000A]dal congelamento.
+Se un Pokémon ha questa bacca, può restituire[0x000A]10 PP a una mossa.
+Se un Pokémon ha questa bacca, recupera[0x000A]10 PS.
+Se un Pokémon ha questa bacca, guarisce[0x000A]dalla confusione.
+Se un Pokémon ha questa bacca, guarisce[0x000A]da qualsiasi problema di stato.
+Se un Pokémon ha questa bacca, recupera[0x000A]un po’ di PS.
+Se un Pokémon in difficoltà ha questa bacca,[0x000A]recupera dei PS. Se al Pokémon non piace[0x000A]il suo sapore, può causare confusione.
+Se un Pokémon in difficoltà ha questa bacca,[0x000A]recupera dei PS. Se al Pokémon non piace[0x000A]il suo sapore, può causare confusione.
+Se un Pokémon in difficoltà ha questa bacca,[0x000A]recupera dei PS. Se al Pokémon non piace[0x000A]il suo sapore, può causare confusione.
+Se un Pokémon in difficoltà ha questa bacca,[0x000A]recupera dei PS. Se al Pokémon non piace[0x000A]il suo sapore, può causare confusione.
+Se un Pokémon in difficoltà ha questa bacca,[0x000A]recupera dei PS. Se al Pokémon non piace[0x000A]il suo sapore, può causare confusione.
+Bacca molto rara a Unima.
+Bacca molto rara a Unima.
+Bacca molto rara a Unima.
+Bacca molto rara a Unima.
+Bacca molto rara a Unima.
+Usata su un Pokémon, lo rende più amichevole,[0x000A]ma ne riduce i punti base dei PS.
+Usata su un Pokémon, lo rende più amichevole,[0x000A]ma ne diminuisce i punti base dell’Attacco.
+Usata su un Pokémon, lo rende più amichevole,[0x000A]ma ne diminuisce i punti base della Difesa.
+Usata su un Pokémon, lo rende più amichevole,[0x000A]ma ne diminuisce i punti base dell’Attacco[0x000A]Speciale.
+Usata su un Pokémon, lo rende più amichevole,[0x000A]ma ne diminuisce i punti base della Difesa[0x000A]Speciale.
+Usata su un Pokémon, lo rende più amichevole,[0x000A]ma ne diminuisce i punti base della Velocità.
+Bacca molto rara a Unima.
+Bacca molto rara a Unima.
+Bacca molto rara a Unima.
+Bacca molto rara a Unima.
+Bacca molto rara a Unima.
+Bacca molto rara a Unima.
+Bacca molto rara a Unima.
+Bacca molto rara a Unima.
+Bacca molto rara a Unima.
+Se un Pokémon ha questa bacca, l’attacco[0x000A]superefficace di tipo Fuoco del nemico[0x000A]viene indebolito.
+Se un Pokémon ha questa bacca, l’attacco[0x000A]superefficace di tipo Acqua del nemico[0x000A]viene indebolito.
+Se un Pokémon ha questa bacca, l’attacco[0x000A]superefficace di tipo Elettro del nemico[0x000A]viene indebolito.
+Se un Pokémon ha questa bacca, l’attacco[0x000A]superefficace di tipo Erba del nemico[0x000A]viene indebolito.
+Se un Pokémon ha questa bacca, l’attacco[0x000A]superefficace di tipo Ghiaccio del nemico[0x000A]viene indebolito.
+Se un Pokémon ha questa bacca, l’attacco[0x000A]superefficace di tipo Lotta del nemico[0x000A]viene indebolito.
+Se un Pokémon ha questa bacca, l’attacco[0x000A]superefficace di tipo Veleno del nemico[0x000A]viene indebolito.
+Se un Pokémon ha questa bacca, l’attacco[0x000A]superefficace di tipo Terra del nemico[0x000A]viene indebolito.
+Se un Pokémon ha questa bacca, l’attacco[0x000A]superefficace di tipo Volante del nemico[0x000A]viene indebolito.
+Se un Pokémon ha questa bacca, l’attacco[0x000A]superefficace di tipo Psico del nemico[0x000A]viene indebolito.
+Se un Pokémon ha questa bacca, l’attacco[0x000A]superefficace di tipo Coleottero del nemico[0x000A]viene indebolito.
+Se un Pokémon ha questa bacca, l’attacco[0x000A]superefficace di tipo Roccia del nemico[0x000A]viene indebolito.
+Se un Pokémon ha questa bacca, l’attacco[0x000A]superefficace di tipo Spettro del nemico[0x000A]viene indebolito.
+Se un Pokémon ha questa bacca, l’attacco[0x000A]superefficace di tipo Drago del nemico[0x000A]viene indebolito.
+Se un Pokémon ha questa bacca, l’attacco[0x000A]superefficace di tipo Buio del nemico[0x000A]viene indebolito.
+Se un Pokémon ha questa bacca, l’attacco[0x000A]superefficace di tipo Acciaio del nemico[0x000A]viene indebolito.
+Se un Pokémon ha questa bacca, l’attacco[0x000A]di tipo Normale del nemico viene indebolito.
+Se il Pokémon che ha questa bacca si trova[0x000A]in difficoltà, il suo Attacco aumenta.
+Se il Pokémon che ha questa bacca si trova[0x000A]in difficoltà, la sua Difesa aumenta.
+Se il Pokémon che ha questa bacca si trova[0x000A]in difficoltà, la sua Velocità aumenta.
+Se il Pokémon che ha questa bacca si trova[0x000A]in difficoltà, il suo Attacco Speciale aumenta.
+Se il Pokémon che ha questa bacca si trova[0x000A]in difficoltà, la sua Difesa Speciale aumenta.
+Se il Pokémon che ha questa bacca si trova[0x000A]in difficoltà, la probabilità di sferrare brutti colpi[0x000A]aumenta.
+Se il Pokémon che ha questa bacca si trova[0x000A]in difficoltà, una delle sue statistiche aumenta[0x000A]di molto.
+Se il Pokémon che ha questa bacca è colpito da[0x000A]un attacco superefficace, i suoi PS vengono[0x000A]ripristinati.
+Se il Pokémon che ha questa bacca si trova[0x000A]in difficoltà, la precisione della sua[0x000A]mossa successiva aumenta.
+Se il Pokémon che ha questa bacca si trova[0x000A]in difficoltà, sferra la sua mossa per primo.[0x000A]Funziona una sola volta.
+Se un Pokémon ha questa bacca, chi attacca[0x000A]subirà danni se la sua mossa fisica va a segno.
+Se un Pokémon ha questa bacca, chi attacca[0x000A]subirà danni se la sua mossa speciale va a segno.
+Strumento da dare a un Pokémon.[0x000A]Emette un bagliore insidioso che riduce[0x000A]la precisione del nemico.
+Strumento da dare a un Pokémon.[0x000A]Ripristina le statistiche ridotte in lotta.[0x000A]Si può usare una sola volta.
+Strumento da dare a un Pokémon.[0x000A]Attrezzo pesante che riduce la Velocità ma aiuta[0x000A]la crescita delle statistiche.
+Se attivato, tutti i Pokémon della squadra[0x000A]ricevono Punti Esperienza dalla lotta anche[0x000A]se non vi hanno partecipato.
+Strumento da dare a un Pokémon.[0x000A]Leggero e affilato, ogni tanto permette di fare[0x000A]la prima mossa.
+Strumento da dare a un Pokémon.[0x000A]Campanella dal suono rassicurante che[0x000A]calma chi la usa rendendolo amichevole.
+Strumento monouso da dare a un[0x000A]Pokémon. Ne annulla l’infatuazione.
+Strumento da dare a un Pokémon.[0x000A]Questa benda aumenta l’Attacco, ma permette[0x000A]l’uso di una sola mossa.
+Strumento da dare a un Pokémon.[0x000A]Se chi lo usa arreca danni, può far tentennare[0x000A]il nemico.
+Strumento da dare a un Pokémon.[0x000A]Polvere argentea e brillante che potenzia[0x000A]le mosse di tipo Coleottero.
+Strumento da dare a un Pokémon.[0x000A]Se chi ce l’ha partecipa alla lotta, i guadagni[0x000A]raddoppiano.
+Strumento da dare a un Pokémon.[0x000A]Se chi ce l’ha è il primo della squadra, aiuta[0x000A]ad allontanare i Pokémon selvatici.
+Sfera miracolosa da dare a Latios o Latias.[0x000A]Aumenta l’Attacco Speciale e la Difesa Speciale.
+Strumento da dare a Clamperl.[0x000A]Dente dai bagliori argentei che aumenta[0x000A]l’Attacco Speciale.
+Strumento da dare a Clamperl.[0x000A]Squama dai bagliori rosei che aumenta[0x000A]la Difesa Speciale.
+Strumento da dare a un Pokémon.[0x000A]Permette di fuggire con successo da un[0x000A]Pokémon selvatico.
+Strumento da dare a un Pokémon.[0x000A]Chi ha questa pietra particolare evita l’evoluzione.
+Strumento da dare a un Pokémon.[0x000A]Chi ce l’ha può evitare un potenziale KO[0x000A]e rimanere con un solo PS.
+Strumento da dare a un Pokémon.[0x000A]Uovo pieno di felicità che aumenta[0x000A]i Punti Esperienza in lotta.
+Strumento da dare a un Pokémon.[0x000A]Lente che aumenta la probabilità di sferrare[0x000A]brutti colpi.
+Strumento da dare a un Pokémon.[0x000A]Speciale pellicola metallica che potenzia le mosse[0x000A]di tipo Acciaio.
+Strumento da dare a un Pokémon.[0x000A]Fa recuperare gradualmente i PS durante la lotta.
+Squama spessa e dura.[0x000A]Può averla un Pokémon di tipo Drago quando[0x000A]viene catturato.
+Strumento da dare a Pikachu.[0x000A]Sfera insolita che aumenta l’Attacco e l’Attacco[0x000A]Speciale.
+Strumento da dare a un Pokémon.[0x000A]Sabbia leggera e farinosa che potenzia le mosse[0x000A]di tipo Terra.
+Strumento da dare a un Pokémon.[0x000A]Pietra indistruttibile che potenzia le mosse[0x000A]di tipo Roccia.
+Strumento da dare a un Pokémon.[0x000A]Seme intriso di vita che potenzia le mosse[0x000A]di tipo Erba.
+Strumento da dare a un Pokémon.[0x000A]Inquietante paio di occhiali che potenzia le mosse[0x000A]di tipo Buio.
+Strumento da dare a un Pokémon.[0x000A]Cintura che potenzia la determinazione[0x000A]e le mosse di tipo Lotta.
+Strumento da dare a un Pokémon.[0x000A]Potente magnete che potenzia le mosse[0x000A]di tipo Elettro.
+Strumento da dare a un Pokémon.[0x000A]Gemma a forma di goccia che potenzia le mosse[0x000A]di tipo Acqua.
+Strumento da dare a un Pokémon.[0x000A]Becco lungo e affilato che potenzia le mosse[0x000A]di tipo Volante.
+Strumento da dare a un Pokémon.[0x000A]Aculeo piccolo e tossico che potenzia le mosse[0x000A]di tipo Veleno.
+Strumento da dare a un Pokémon.[0x000A]Pezzo di ghiaccio che respinge il calore[0x000A]e potenzia le mosse di tipo Ghiaccio.
+Strumento da dare a un Pokémon.[0x000A]Targa sinistra e inquietante che potenzia le mosse[0x000A]di tipo Spettro.
+Strumento da dare a un Pokémon.[0x000A]Cucchiaio dotato di potere telecinetico che[0x000A]potenzia le mosse di tipo Psico.
+Strumento da dare a un Pokémon.[0x000A]Sostanza combustibile che potenzia le mosse[0x000A]di tipo Fuoco.
+Strumento da dare a un Pokémon.[0x000A]Dente duro e affilato che potenzia le mosse[0x000A]di tipo Drago.
+Strumento da dare a un Pokémon.[0x000A]Sciarpa raffinata che potenzia le mosse[0x000A]di tipo Normale.
+Apparecchio trasparente pieno zeppo di dati[0x000A]di ogni tipo. È un prodotto della Silph SpA.
+Strumento da dare a un Pokémon.[0x000A]Chi ce l’ha recupera un po’ di PS ogni volta[0x000A]che infligge danni.
+Strumento da dare a un Pokémon.[0x000A]Incenso dal curioso aroma che potenzia le mosse[0x000A]di tipo Acqua.
+Strumento da dare a un Pokémon.[0x000A]Il suo aroma intenso riduce la precisione[0x000A]del nemico.
+Strumento da dare a Chansey.[0x000A]Guanti che aumentano molto la probabilità[0x000A]di sferrare brutti colpi.
+Strumento da dare a Ditto.[0x000A]Strana polvere finissima e al tempo stesso dura[0x000A]che migliora la Difesa.
+Strumento da dare a Cubone o Marowak.[0x000A]Osso duro che migliora l’Attacco.
+Strumento da dare a Farfetch’d.[0x000A]Lungo gambo di porro che aumenta molto[0x000A]la probabilità di sferrare brutti colpi.
+Strumento da dare a un Pokémon.[0x000A]Aumenta la “Classe” di chi l’indossa in una Gara.
+Strumento da dare a un Pokémon.[0x000A]Aumenta la “Bellezza” di chi l’indossa[0x000A]in una Gara.
+Strumento da dare a un Pokémon.[0x000A]Aumenta la “Grazia” di chi l’indossa in una Gara.
+Strumento da dare a un Pokémon.[0x000A]Aumenta l’“Acume” di chi l’indossa in una Gara.
+Strumento da dare a un Pokémon.[0x000A]Aumenta la “Grinta” di chi l’indossa in una Gara.
+Strumento da dare a un Pokémon.[0x000A]Lente d’ingrandimento che aumenta di poco[0x000A]la precisione delle mosse.
+Strumento da dare a un Pokémon.[0x000A]Fascia che potenzia di poco le mosse fisiche.
+Strumento da dare a un Pokémon.[0x000A]Paio di occhiali dalle lenti spesse che potenzia[0x000A]di poco le mosse speciali.
+Strumento da dare a un Pokémon.[0x000A]Cintura consumata che potenzia di poco[0x000A]le mosse superefficaci.
+Strumento da dare a un Pokémon.[0x000A]Allunga la durata delle mosse barriera come[0x000A]Schermoluce e Riflesso.
+Strumento da dare a un Pokémon.[0x000A]Potenzia le mosse a scapito di alcuni PS[0x000A]per ogni colpo.
+Strumento monouso da dare a un Pokémon.[0x000A]Permette l’uso immediato di una mossa che in[0x000A]genere richiede un turno prima di essere eseguita.
+Strumento da dare a un Pokémon.[0x000A]Sfera bizzarra che iperavvelena chi l’ha con sé[0x000A]in una lotta.
+Strumento da dare a un Pokémon.[0x000A]Sfera bizzarra che procura una scottatura[0x000A]a chi l’ha con sé in una lotta.
+Strumento da dare a Ditto.[0x000A]Questa strana polvere, fine e al contempo dura,[0x000A]aumenta la Velocità.
+Strumento da dare a un Pokémon.[0x000A]Se il Pokémon ha tutti i PS, eviterà un[0x000A]potenziale KO, rimanendo con un PS.
+Strumento da dare a un Pokémon.[0x000A]Se chi ce l’ha attacca dopo il nemico,[0x000A]la sua precisione aumenta.
+Strumento da dare a un Pokémon.[0x000A]Potenzia una mossa usata più volte di seguito.[0x000A]Il potenziamento svanisce al cambio di mossa.
+Riduce la Velocità e rende vulnerabili[0x000A]alle mosse di tipo Terra se chi ce l’ha è[0x000A]di tipo Volante o ha l’abilità Levitazione.
+Strumento da dare a un Pokémon.[0x000A]È tremendamente pesante e rende più lenti[0x000A]del normale.
+Gomitolo di filo rosso sottile da dare a un[0x000A]Pokémon. Se il Pokémon rimane infatuato,[0x000A]contagia anche il nemico.
+Strumento da dare a un Pokémon.[0x000A]Restituisce gradualmente PS ai Pokémon di tipo[0x000A]Veleno, ma danneggia tutti gli altri.
+Strumento da dare a un Pokémon.[0x000A]Allunga la durata della mossa Grandine.
+Strumento da dare a un Pokémon.[0x000A]Allunga la durata della mossa Terrempesta.
+Strumento da dare a un Pokémon.[0x000A]Allunga la durata della mossa Giornodisole.
+Strumento da dare a un Pokémon.[0x000A]Allunga la durata della mossa Pioggiadanza.
+Strumento da dare a un Pokémon.[0x000A]Prolunga gli attacchi multiturno come[0x000A]Avvolgibotta e Legatutto.
+Strumento da dare a un Pokémon.[0x000A]Stola che aumenta la Velocità, ma consente[0x000A]l’uso di una sola mossa.
+Strumento che danneggia chi ce l’ha a ogni[0x000A]turno. Può attaccarsi al nemico che lancia[0x000A]un attacco fisico.
+Strumento da dare a un Pokémon.[0x000A]Riduce la Velocità nella lotta ma permette ai punti[0x000A]base dell’Attacco di crescere più rapidamente.
+Strumento da dare a un Pokémon.[0x000A]Riduce la Velocità nella lotta ma permette ai punti[0x000A]base della Difesa di crescere più rapidamente.
+Strumento da dare a un Pokémon. Riduce la[0x000A]Velocità nella lotta ma permette ai punti base[0x000A]dell’Attacco Speciale di crescere più rapidamente.
+Strumento da dare a un Pokémon. Riduce la[0x000A]Velocità nella lotta ma permette ai punti base[0x000A]della Difesa Speciale di crescere più rapidamente.
+Strumento da dare a un Pokémon.[0x000A]Riduce la Velocità nella lotta ma permette ai punti[0x000A]base della Velocità di crescere più rapidamente.
+Strumento da dare a un Pokémon.[0x000A]Riduce la Velocità nella lotta ma permette ai punti[0x000A]base dei PS di crescere più rapidamente.
+Un Pokémon con questo robusto guscio può[0x000A]sfuggire al nemico anche se questi ha usato[0x000A]mosse o abilità intrappolanti.
+Strumento da dare a un Pokémon.[0x000A]Potenzia le mosse ruba-PS facendo recuperare[0x000A]un maggior numero di PS.
+Strumento da dare a un Pokémon.[0x000A]Questi occhiali aumentano l’Attacco Speciale,[0x000A]ma permettono l’uso di una sola mossa.
+Strumento da dare a un Pokémon.[0x000A]Lastra di pietra che potenzia le mosse[0x000A]di tipo Fuoco.
+Strumento da dare a un Pokémon.[0x000A]Lastra di pietra che potenzia le mosse[0x000A]di tipo Acqua.
+Strumento da dare a un Pokémon.[0x000A]Lastra di pietra che potenzia le mosse[0x000A]di tipo Elettro.
+Strumento da dare a un Pokémon.[0x000A]Lastra di pietra che potenzia le mosse[0x000A]di tipo Erba.
+Strumento da dare a un Pokémon.[0x000A]Lastra di pietra che potenzia le mosse[0x000A]di tipo Ghiaccio.
+Strumento da dare a un Pokémon.[0x000A]Lastra di pietra che potenzia le mosse[0x000A]di tipo Lotta.
+Strumento da dare a un Pokémon.[0x000A]Lastra di pietra che potenzia le mosse[0x000A]di tipo Veleno.
+Strumento da dare a un Pokémon.[0x000A]Lastra di pietra che potenzia le mosse[0x000A]di tipo Terra.
+Strumento da dare a un Pokémon.[0x000A]Lastra di pietra che potenzia le mosse[0x000A]di tipo Volante.
+Strumento da dare a un Pokémon.[0x000A]Lastra di pietra che potenzia le mosse[0x000A]di tipo Psico.
+Strumento da dare a un Pokémon.[0x000A]Lastra di pietra che potenzia le mosse[0x000A]di tipo Coleottero.
+Strumento da dare a un Pokémon.[0x000A]Lastra di pietra che potenzia le mosse[0x000A]di tipo Roccia.
+Strumento da dare a un Pokémon.[0x000A]Lastra di pietra che potenzia le mosse[0x000A]di tipo Spettro.
+Strumento da dare a un Pokémon.[0x000A]Lastra di pietra che potenzia le mosse[0x000A]di tipo Drago.
+Strumento da dare a un Pokémon.[0x000A]Lastra di pietra che potenzia le mosse[0x000A]di tipo Buio.
+Strumento da dare a un Pokémon.[0x000A]Lastra di pietra che potenzia le mosse[0x000A]di tipo Acciaio.
+Strumento da dare a un Pokémon.[0x000A]Incenso dal profumo esotico che potenzia[0x000A]le mosse di tipo Psico.
+Strumento da dare a un Pokémon.[0x000A]Incenso dal profumo esotico che potenzia[0x000A]le mosse di tipo Roccia.
+Strumento da dare a un Pokémon.[0x000A]Incenso dal profumo esotico che rende gonfi[0x000A]e lenti.
+Strumento da dare a un Pokémon.[0x000A]Incenso dal curioso aroma che potenzia le mosse[0x000A]di tipo Acqua.
+Strumento da dare a un Pokémon.[0x000A]Incenso dal profumo esotico che potenzia[0x000A]le mosse di tipo Erba.
+Strumento da dare a un Pokémon.[0x000A]Se chi ce l’ha partecipa alla lotta,[0x000A]i guadagni raddoppiano.
+Strumento da dare a un Pokémon.[0x000A]Se chi ce l’ha è il primo della squadra, aiuta[0x000A]ad allontanare i Pokémon selvatici.
+Strumento protettivo, molto duro e pesante,[0x000A]prediletto da un Pokémon in particolare.
+Scatola strapiena di energia elettrica.[0x000A]Piace a un Pokémon in particolare.
+Scatola strapiena di energia lavica.[0x000A]Piace a un Pokémon in particolare.
+Dispositivo trasparente strapieno di dati di dubbia[0x000A]origine. Non se ne conosce il produttore.
+Panno intriso di un’energia spirituale terribilmente[0x000A]forte. Piace a un Pokémon in particolare.
+Strumento da dare a un Pokémon.[0x000A]Artiglio che aumenta la probabilità di sferrare[0x000A]brutti colpi.
+Strumento da dare a un Pokémon.[0x000A]Chi ce l’ha può far tentennare il nemico colpito.
+Chi la usa affila i propri artigli, aumentando[0x000A]Attacco e precisione.
+Chi la usa attacca con artigli affilati che graffiano[0x000A]il nemico rapidamente e con grande forza.
+Chi la usa attacca il bersaglio facendo[0x000A]materializzare un misterioso raggio psichico[0x000A]che provoca danni fisici.
+Chi la usa, meditando, placa il proprio spirito[0x000A]per aumentare l’Attacco Speciale e[0x000A]la Difesa Speciale.
+Il bersaglio lascia il campo e viene sostituito.[0x000A]Mette fine alle lotte contro singoli Pokémon[0x000A]selvatici.
+Iperavvelena il nemico con una potente tossina.[0x000A]Il danno peggiora a ogni turno.
+Chi la usa causa una grandinata che dura[0x000A]cinque turni. Danneggia tutti i Pokémon[0x000A]tranne quelli di tipo Ghiaccio.
+Chi la usa tende i muscoli per gonfiare il corpo,[0x000A]aumentando Difesa e Attacco.
+Lancia uno speciale liquido tossico sul bersaglio.[0x000A]Se questi è avvelenato, il danno provocato[0x000A]raddoppia.
+Mossa singolare che cambia tipo a seconda[0x000A]del Pokémon che la usa.
+Chi la usa intensifica i raggi solari per cinque[0x000A]turni, potenziando le mosse di tipo Fuoco.
+Provoca il nemico inducendolo a usare solo[0x000A]mosse d’attacco per tre turni.
+Il nemico è colpito da un raggio di energia gelida[0x000A]che può anche congelarlo.
+Colpisce i nemici con una tremenda tempesta[0x000A]di ghiaccio che può anche congelarli.
+Colpisce il nemico con un potente raggio.[0x000A]Chi la usa salta il turno successivo per[0x000A]recuperare energia.
+Innalza una barriera di luce fantastica che riduce[0x000A]i danni degli attacchi speciali per sé e gli alleati[0x000A]per cinque turni.
+Permette di eludere tutti gli attacchi.[0x000A]Se usata in successione può fallire.
+Chi la usa provoca una forte pioggia per cinque[0x000A]turni, potenziando le mosse di tipo Acqua.
+Chi la usa sta fermo e riposa, recuperando[0x000A]metà dei propri PS massimi.
+Chi la usa crea un campo protettivo che[0x000A]evita problemi di stato per sé e gli alleati[0x000A]per cinque turni.
+Mossa che diventa tanto più potente quanto[0x000A]minore è il grado di affezione del Pokémon[0x000A]per il proprio Allenatore.
+Chi la usa assorbe luce al primo turno per[0x000A]proiettare un raggio intenso al turno successivo.
+Chi la usa lancia una pietra o un proiettile. Può[0x000A]colpire anche un bersaglio in volo e farlo cadere.
+Il bersaglio viene colpito da una potente scarica[0x000A]elettrica che può anche paralizzarlo.
+Il nemico è colpito da un lampo molto violento[0x000A]che può anche paralizzarlo.
+Chi la usa provoca un potente sisma che colpisce[0x000A]gli altri Pokémon in campo.
+Mossa che diventa tanto più potente quanto[0x000A]maggiore è il grado di affezione del Pokémon[0x000A]per il proprio Allenatore.
+Chi la usa scava al primo turno e attacca al[0x000A]successivo. Fuori dalla lotta fa uscire da alcuni[0x000A]luoghi.
+Il nemico viene colpito da una potente forza[0x000A]telecinetica che può anche ridurne la Difesa[0x000A]Speciale.
+Lancia sul nemico una sfera nera.[0x000A]Può anche ridurne la Difesa Speciale.
+Colpisce il nemico con una mano e rompe[0x000A]barriere come Riflesso e Schermoluce.
+Chi la usa si muove in fretta e crea copie[0x000A]illusorie di se stesso che aumentano la capacità[0x000A]di elusione.
+Innalza una barriera di luce fantastica che riduce[0x000A]i danni degli attacchi fisici per sé e gli alleati[0x000A]per cinque turni.
+Lancia un’onda di fango che attacca tutti[0x000A]i Pokémon nelle vicinanze. Può anche avvelenarli.
+Il nemico viene colpito da intense fiammate[0x000A]che possono anche scottarlo.
+Chi la usa attacca lanciando fango[0x000A]sul bersaglio. Può anche avvelenarlo.
+Causa una tempesta di sabbia per cinque turni[0x000A]che danneggia tutti i tipi in campo esclusi[0x000A]Terra, Roccia e Acciaio.
+Investe il nemico con un’intensa fiammata[0x000A]che fa terra bruciata. Può anche scottarlo.
+Colpisce il nemico con rocce. Inoltre, lo rallenta[0x000A]riducendone la Velocità.
+Chi la usa attacca il nemico a grande velocità.[0x000A]Questa mossa è infallibile.
+Chi la usa tormenta e fa infuriare il nemico,[0x000A]impedendogli di usare la stessa mossa[0x000A]due volte di seguito.
+Mossa d’attacco che raddoppia la potenza[0x000A]se chi la usa è scottato, avvelenato o paralizzato.
+Chi la usa si copre di fuoco e attacca il bersaglio.[0x000A]Concentrandosi aumenta, inoltre, la propria[0x000A]Velocità.
+Chi la usa dorme per due turni.[0x000A]Recupera però tutti i PS e guarisce da tutti i suoi[0x000A]problemi di stato.
+Se il nemico è del sesso opposto, s’infatua[0x000A]e diventa riluttante ad attaccare.
+Chi la usa attacca il bersaglio e può rubargli[0x000A]lo strumento, se non ne ha già uno.
+Chi la usa colpisce con un attacco fulmineo[0x000A]la parte inferiore del corpo del bersaglio,[0x000A]riducendone la Velocità.
+Attacca il bersaglio con una melodia. Se usata[0x000A]durante lo stesso turno da più Pokémon, i danni[0x000A]inflitti aumentano.
+Attacca il bersaglio con la propria voce[0x000A]echeggiante. Se usata a ripetizione da uno[0x000A]o più Pokémon il danno aumenta.
+Chi la usa sferra un potente attacco, ma il[0x000A]contraccolpo riduce di molto il suo Attacco[0x000A]Speciale.
+Colpisce il nemico con ali d’acciaio.[0x000A]Può anche aumentare la Difesa di chi la usa.
+Chi la usa si concentra e rilascia la sua forza.[0x000A]Può ridurre la Difesa Speciale del Pokémon[0x000A]colpito.
+Chi la usa attinge energia dalla natura e la scaglia[0x000A]contro il nemico. Può anche ridurne la Difesa[0x000A]Speciale.
+Chi la usa trattiene il colpo per impedire al nemico[0x000A]di andare KO, lasciandolo con almeno un PS.
+Chi la usa attacca il bersaglio con un getto[0x000A]d’acqua bollente che può anche scottarlo.
+Chi la usa lancia il suo strumento addosso[0x000A]al nemico. La forza e l’effetto dipendono[0x000A]dallo strumento.
+Chi la usa lancia un fascio di elettricità molto[0x000A]intensa. Può anche aumentare il proprio Attacco[0x000A]Speciale.
+Porta il bersaglio in cielo e lo scaglia a terra[0x000A]al turno successivo. Il bersaglio catturato[0x000A]non può muoversi.
+Attacca il nemico con una fiammata. Il fuoco[0x000A]distruggerà le bacche o alcuni tipi di strumenti[0x000A]che il Pokémon ha con sé.
+Chi la usa spinge via il bersaglio, costringendolo[0x000A]ad agire per ultimo.
+Fiamme intense di colore viola causano[0x000A]una scottatura al nemico.
+Attacca rapidamente il bersaglio.[0x000A]Se chi la usa non ha uno strumento, infligge[0x000A]al nemico grossi danni.
+Impedisce al nemico di usare il suo strumento[0x000A]e al suo Allenatore di usarne altri sul Pokémon.
+Chi la usa esplode e infligge danni agli altri[0x000A]Pokémon in campo, ma poi va KO.
+Chi la usa attacca con artigli d’ombra che[0x000A]colpiscono con gran forza.[0x000A]Probabile brutto colpo.
+Chi la usa accumula forza, poi attacca.[0x000A]La potenza raddoppia se agisce dopo il Pokémon[0x000A]nemico.
+Vendica un alleato messo KO. Se ciò è accaduto[0x000A]al turno precedente, il danno è maggiore.
+Chi la usa carica il nemico usando tutta la sua[0x000A]forza, ma al turno successivo deve riposarsi.
+Chi la usa leviga il proprio corpo per[0x000A]ridurne l’attrito. Aumenta di molto[0x000A]la Velocità.
+Investe il nemico con una luce abbagliante[0x000A]che ne riduce la precisione.
+Chi la usa colpisce il nemico dal basso con[0x000A]pietre affilate.[0x000A]Probabile brutto colpo.
+Chi usa questa mossa si tira indietro[0x000A]per farsi sostituire dopo aver sferrato l’attacco.
+Il nemico viene colpito da una debole scarica[0x000A]elettrica che, se va a segno, ne causa la paralisi.
+Chi la usa colpisce il nemico con un vortice[0x000A]rapidissimo. Più lento è chi la usa, maggiore[0x000A]è il danno.
+Danza frenetica che incrementa lo spirito[0x000A]combattivo. Chi la usa aumenta di molto[0x000A]il proprio Attacco.
+Colpisce i nemici opponendo resistenza[0x000A]e riducendo il loro Attacco Speciale.
+Chi la usa s’ipnotizza per copiare ogni modifica[0x000A]alle statistiche del bersaglio.
+Chi la usa calpesta il terreno e scatena un[0x000A]terremoto che danneggia i Pokémon nei paraggi,[0x000A]riducendone la Velocità.
+Chi la usa attacca il bersaglio con un soffio[0x000A]d’aria gelida.[0x000A]Brutto colpo assicurato.
+I nemici vengono colpiti da grandi massi[0x000A]che possono anche farli tentennare.
+Chi la usa colpisce il nemico usando le sue falci[0x000A]o i suoi artigli come se fossero delle forbici.
+Chi la usa fa volar via il bersaglio in modo che[0x000A]venga sostituito. Se il bersaglio è un singolo[0x000A]Pokémon selvatico, la lotta finisce.
+Chi la usa lancia un attacco che tormenta[0x000A]il bersaglio per quattro o cinque turni, durante[0x000A]i quali gli impedisce di fuggire.
+Il nemico è colpito da un tentacolo o da un arto[0x000A]intriso di una sostanza tossica che può anche[0x000A]avvelenarlo.
+Attacco che funziona solo su un nemico[0x000A]che dorme. Chi lo usa riceve metà dei PS[0x000A]persi dal nemico.
+Chi la usa intrappola il nemico con l’erba e[0x000A]lo fa cadere. Danneggia maggiormente i nemici[0x000A]più pesanti.
+Chi la usa provoca il bersaglio e lo confonde,[0x000A]facendo aumentare però di molto il suo Attacco.
+Chi la usa sfodera a caso una delle proprie mosse[0x000A]mentre sta dormendo.
+Chi usa questa mossa fa marcia indietro[0x000A]per farsi sostituire dopo aver sferrato l’attacco.
+Chi la usa crea una copia di se stesso usando[0x000A]alcuni PS.[0x000A]La copia serve come esca per il nemico.
+Chi la usa attacca raccogliendo e rilasciando[0x000A]energia luminosa. Può anche ridurre la Difesa[0x000A]Speciale del nemico.
+Chi la usa crea una dimensione in cui i Pokémon[0x000A]più lenti agiscono per primi per cinque turni.
+Attacca il nemico con artigli o falci affilate.[0x000A]Fuori dalla lotta si usa per tagliare piccoli alberi.
+Chi la usa si alza in volo per attaccare al turno[0x000A]seguente. Fuori dalla lotta permette di volare[0x000A]in città già visitate.
+Un’onda enorme sommerge il campo di lotta,[0x000A]colpendo tutti i Pokémon intorno a chi la scatena.[0x000A]Fuori dalla lotta si usa per spostarsi sull’acqua.
+Colpisce il nemico con un’enorme energia.[0x000A]Fuori dalla lotta si usa per spostare i massi.
+Carica il nemico a grande velocità e può farlo[0x000A]tentennare.[0x000A]Fuori dalla lotta fa risalire le cascate.
+Chi la usa si tuffa in acqua per emergere e[0x000A]attaccare al turno seguente.
+-[0x000A]-[0x000A]-
+-[0x000A]-[0x000A]-
+Utilissimo kit contenente strumenti per[0x000A]l’esplorazione. Permette di percorrere[0x000A]i tunnel sotterranei.
+Una sacca spaziosa e resistente usata per[0x000A]trasportare il bottino ottenuto nella miniera.
+Elenca le regole per le lotte. Nelle lotte in link[0x000A]puoi scegliere diversi set di regole da utilizzare.
+Strumento con cui individuare i Pokémon[0x000A]nascosti nell’erba. La batteria si ricarica[0x000A]mentre cammini.
+Scheda che elenca i Punti Lotta che hai ottenuto.
+Diario in cui viene annotata la tua avventura[0x000A]giorno per giorno.
+Contenitore per conservare i Bolli che possono[0x000A]essere applicati sulle Capsule delle Poké Ball.
+Scatola bella ed elegante per conservare i gadget[0x000A]usati per agghindare i Pokémon durante[0x000A]il Pokémon Musical.
+Sacchettino che può contenere dieci Bolli per[0x000A]decorare le Poké Ball.
+Blocco appunti utile per registrare gli amici e[0x000A]il loro codice amico e per tenere un resoconto[0x000A]dell’esperienza di gioco.
+Grande chiave usata per azionare la porta[0x000A]dell’Impianto Turbine. L’aveva con sé una[0x000A]Recluta del Team Galassia.
+Antico portafortuna fatto di ossa di Pokémon[0x000A]da portare all’anziana di Memoride.
+Chiave a scheda per disattivare i sistemi[0x000A]di sicurezza nella Sede Galassia. Se la si perde,[0x000A]si viene puniti.
+Catena mitica che pare essere collegata[0x000A]al Pokémon leggendario che ha creato[0x000A]la regione di Sinnoh.
+Utilissima mappa, consultabile in ogni situazione.[0x000A]Mostra anche la propria posizione in tempo reale.
+Apparecchio per trovare gli Allenatori che[0x000A]vogliono lottare. La batteria si ricarica[0x000A]camminando.
+Contenitore ottenuto al Casinò che può[0x000A]contenere fino a 50.000 Gettoni.
+Amo vecchio e rovinato. Si usa per pescare[0x000A]Pokémon selvatici in qualsiasi specchio d’acqua.
+Amo nuovo e di qualità. Si usa per pescare[0x000A]Pokémon selvatici in qualsiasi specchio d’acqua.
+Amo supertecnologico. Si usa per pescare[0x000A]Pokémon selvatici in qualsiasi specchio d’acqua.
+Annaffiatoio fatto a forma di Psyduck.[0x000A]Favorisce la crescita delle bacche piantate[0x000A]nel terreno soffice.
+Contenitore per conservare i Poffin cucinati[0x000A]con le bacche.
+Bici pieghevole che permette di spostarsi[0x000A]più velocemente che con le Scarpe da Corsa.
+Chiave di una suite vicino a un lago.[0x000A]Per ragioni misteriose, scompare spesso.
+Lettera del Prof. Oak con la richiesta di dirigerti[0x000A]verso il Percorso 224.
+Piuma che brilla come la luna. Pare che abbia[0x000A]il potere di allontanare gli incubi.
+Scheda che permette di entrare nella locanda[0x000A]di Canalipoli. L’ultimo timbro risale a 50 anni fa.
+Flauto che emette una melodia che sembra[0x000A]appartenere a un altro mondo. Non si sa[0x000A]chi l’abbia creato.
+Biglietto necessario per salire sulla M/N Acqua.[0x000A]C’è disegnata una nave.
+Tessera necessaria per partecipare alle[0x000A]Gare Pokémon. Riporta il disegno di un fiocco.
+Pietra che si è formata a seguito di un’intensa[0x000A]colata lavica. Il magma è rimasto intrappolato[0x000A]al suo interno.
+Pacchetto che sei stato incaricato di consegnare[0x000A]al tuo amico d’infanzia che ha lasciato Duefoglie.
+Coupon da scambiare con un PokéKron.[0x000A]Ne servono tre.
+Coupon da scambiare con un PokéKron.[0x000A]Ne servono tre.
+Coupon da scambiare con un PokéKron.[0x000A]Ne servono tre.
+Chiave del misterioso deposito del Team Galassia[0x000A]situato ai confini di Rupepoli.
+Rimedio fantastico distribuito dalla farmacia[0x000A]a Fiorlisopoli. Cura i problemi di stato[0x000A]di qualunque Pokémon.
+Fantastico dispositivo che registra le lotte[0x000A]tra amici o quelle che hanno luogo in alcuni[0x000A]edifici dedicati alla lotta.
+Un fiore, a volte offerto in bouquet, che[0x000A]esprime gratitudine in occasioni particolari,[0x000A]come i compleanni.
+Una sofisticata chiave da usare in un determinato[0x000A]luogo. Emette un impulso elettrico speciale che[0x000A]apre una porta.
+Contenitore molto pratico dove conservare[0x000A]fino a 99 Ghicocche diverse.
+Quaderno dove si registrano tutte le forme[0x000A]di Unown catturate.
+Accessorio tascabile che permette di coltivare[0x000A]bacche in qualunque luogo e momento.
+Dispositivo ultramoderno che indica la direzione[0x000A]in cui si trovano gli strumenti invisibili[0x000A]emettendo dei suoni.
+Carta per accumulare i punti del programma[0x000A]“Password Show” di Buena.
+Coda di origine sconosciuta dal sapore delizioso.[0x000A]Si vende a un prezzo piuttosto alto.
+Una campana antica. Produce un suono che dona[0x000A]pace al cuore.
+Chiave a scheda che apre le porte automatizzate[0x000A]della Torre Radio.
+Chiave che permette di aprire la porta all’interno[0x000A]del Fiortunnel.
+Strumento che serve a innaffiare.[0x000A]Permette un’ottima crescita delle bacche[0x000A]seminate nel Piantabacche.
+Una squama del Gyarados rosso apparso[0x000A]al Lago d’Ira. È rossa come il fuoco.
+Poké Bambola raffigurante Mime Jr. smarrita[0x000A]da Copiona.
+Biglietto necessario per viaggiare sul supertreno.[0x000A]Utilizzabile a volontà.
+Pezzo rubato alla Centrale Elettrica, essenziale[0x000A]per il generatore.
+Misteriosa piuma che brilla di luce argentea.
+Piuma magica dai mille colori.
+Uovo dai disegni bizzarri che si riceve da[0x000A]Mr. Pokémon. Non si sa che cosa contenga.
+Una Ghicocca di colore rosso.[0x000A]Emana un odore molto forte.
+Una Ghicocca di colore blu.[0x000A]Emana un odore un po’ acre.
+Una Ghicocca di colore giallo.[0x000A]Emana un profumo delicato.
+Una Ghicocca di colore verde.[0x000A]Emana un profumo intenso.
+Una Ghicocca di colore rosa.[0x000A]Emana un profumo dolce.
+Una Ghicocca di colore bianco.[0x000A]Non emana alcun odore.
+Una Ghicocca di colore nero.[0x000A]Emana un odore indefinibile.
+Poké Ball un po’ diversa particolarmente efficiente[0x000A]con i Pokémon bravi a scappare.
+Poké Ball un po’ diversa che funziona[0x000A]particolarmente bene con i Pokémon di livello[0x000A]inferiore a quello del proprio.
+Poké Ball un po’ diversa che funziona[0x000A]particolarmente bene con i Pokémon pescati[0x000A]con un Amo.
+Poké Ball un po’ diversa che funziona[0x000A]particolarmente bene con i Pokémon pesanti.
+Poké Ball speciale che funziona meglio con i[0x000A]Pokémon di sesso opposto a quello del proprio[0x000A]e della stessa specie.
+Poké Ball un po’ diversa che fa sì che i Pokémon[0x000A]selvatici con essa catturati si affezionino[0x000A]più rapidamente.
+Poké Ball un po’ diversa che funziona[0x000A]particolarmente bene con i Pokémon[0x000A]che si evolvono con una Pietralunare.
+Poké Ball speciale utilizzata solo nella[0x000A]Gara Pigliamosche.
+Poké Ball speciale utilizzata solo all’interno[0x000A]del Parco Amici.
+Album dove si possono sistemare le foto[0x000A]scattate durante quest’avventura.
+Lettore di musica che permette di immergersi[0x000A]in atmosfere rétro.[0x000A]Ha un solo pulsante per cambiare canzone.
+Una campana antica. Produce un suono[0x000A]che dona pace al cuore.
+Caramella tipica di Mogania.[0x000A]Souvenir dall’ottima reputazione.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero totale[0x000A]di vittorie.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero di[0x000A]ultimi posti.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero di sprint[0x000A]dei tuoi Pokémon.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero di salti[0x000A]dei tuoi Pokémon.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero di[0x000A]vittorie a Corsostacoli.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero di[0x000A]vittorie a Staffetta.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero di[0x000A]vittorie a Bandierina.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero di[0x000A]vittorie a Spaccalastra.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero di[0x000A]vittorie a Piattello.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero di[0x000A]vittorie a Neve Incrociata.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero di[0x000A]punti accumulati.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero di[0x000A]errori dei tuoi Pokémon.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero di[0x000A]punti persi.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero di azioni[0x000A]dei tuoi Pokémon.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero di[0x000A]cadute dei tuoi Pokémon.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero di[0x000A]vittorie a Fuori dal Ring.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero di[0x000A]vittorie a Trampoluci.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero di[0x000A]vittorie a Spingicerchio.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero di[0x000A]vittorie in link.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero di[0x000A]ultimi posti in link.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero di[0x000A]vittorie nelle gare.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero di[0x000A]ultimi posti nelle gare.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero di[0x000A]sostituzioni di Pokémon.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero di[0x000A]vittorie a Piazzagoal.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero di[0x000A]premi individuali.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda è registrato il numero di volte[0x000A]in cui hai toccato i Pokémon.
+Contiene i tuoi dati Pokéathlon.[0x000A]Su questa Scheda sono registrate le ore[0x000A]che hai passato a giocare.
+Sfera con riflessi verdi, che pare essere[0x000A]strettamente legata alle leggende della regione[0x000A]di Hoenn.
+Scrigno blindato che si apre solo con una chiave[0x000A]speciale.
+Sfera con riflessi rossi, che pare essere[0x000A]strettamente legata alle leggende della regione[0x000A]di Hoenn.
+Sfera con riflessi blu, che pare essere[0x000A]strettamente legata alle leggende della regione[0x000A]di Hoenn.
+Cristallo appena estratto dal suolo.[0x000A]Bellissimo malgrado sia ancora ricoperto di resti[0x000A]di roccia e terra.
+Squama misteriosa che fa evolvere determinate[0x000A]specie di Pokémon.[0x000A]Riflette i colori dell’arcobaleno.
+Misteriosa sfera evolutiva. Aumenta la Difesa[0x000A]e la Difesa Speciale di un Pokémon che può[0x000A]ancora evolversi.
+Pietra leggerissima che riduce il peso del[0x000A]Pokémon che l’ha con sé.
+Se il Pokémon che ha questo strumento è colpito[0x000A]da una mossa fisica, anche il nemico subisce[0x000A]dei danni.
+Permette al Pokémon che ha questo strumento[0x000A]di fluttuare in aria. Scoppia se il Pokémon[0x000A]è colpito da un attacco.
+Cartellino dal potere misterioso. Chi ce l’ha[0x000A]fa ritirare dalla lotta il Pokémon che lo ha colpito.
+Se un Pokémon ha questo strumento, le mosse[0x000A]che di norma non hanno effetto contro il suo tipo[0x000A]vanno a segno.
+Strumento da dare a un Pokémon che aumenta[0x000A]la potenza di mosse come Avvolgibotta e[0x000A]Legatutto.
+Bulbo monouso. Se il Pokémon che ha questo[0x000A]strumento subisce una mossa di tipo Acqua,[0x000A]il suo Attacco Speciale aumenta.
+Pila monouso. Se il Pokémon che ha questo[0x000A]strumento subisce un attacco di tipo Elettro,[0x000A]il suo Attacco aumenta.
+Se il Pokémon che ha questo strumento è colpito[0x000A]da un attacco, viene immediatamente sostituito[0x000A]da un compagno.
+Strumento da dare a un Pokémon.[0x000A]Gioiello che potenzia una sola volta le mosse[0x000A]di tipo Fuoco.
+Strumento da dare a un Pokémon.[0x000A]Gioiello che potenzia una sola volta le mosse[0x000A]di tipo Acqua.
+Strumento da dare a un Pokémon.[0x000A]Gioiello che potenzia una sola volta le mosse[0x000A]di tipo Elettro.
+Strumento da dare a un Pokémon.[0x000A]Gioiello che potenzia una sola volta le mosse[0x000A]di tipo Erba.
+Strumento da dare a un Pokémon.[0x000A]Gioiello che potenzia una sola volta le mosse[0x000A]di tipo Ghiaccio.
+Strumento da dare a un Pokémon.[0x000A]Gioiello che potenzia una sola volta le mosse[0x000A]di tipo Lotta.
+Strumento da dare a un Pokémon.[0x000A]Gioiello che potenzia una sola volta le mosse[0x000A]di tipo Veleno.
+Strumento da dare a un Pokémon.[0x000A]Gioiello che potenzia una sola volta le mosse[0x000A]di tipo Terra.
+Strumento da dare a un Pokémon.[0x000A]Gioiello che potenzia una sola volta le mosse[0x000A]di tipo Volante.
+Strumento da dare a un Pokémon.[0x000A]Gioiello che potenzia una sola volta le mosse[0x000A]di tipo Psico.
+Strumento da dare a un Pokémon.[0x000A]Gioiello che potenzia una sola volta le mosse[0x000A]di tipo Coleottero.
+Strumento da dare a un Pokémon.[0x000A]Gioiello che potenzia una sola volta le mosse[0x000A]di tipo Roccia.
+Strumento da dare a un Pokémon.[0x000A]Gioiello che potenzia una sola volta le mosse[0x000A]di tipo Spettro.
+Strumento da dare a un Pokémon.[0x000A]Gioiello che potenzia una sola volta le mosse[0x000A]di tipo Drago.
+Strumento da dare a un Pokémon.[0x000A]Gioiello che potenzia una sola volta le mosse[0x000A]di tipo Buio.
+Strumento da dare a un Pokémon.[0x000A]Gioiello che potenzia una sola volta le mosse[0x000A]di tipo Acciaio.
+Strumento da dare a un Pokémon.[0x000A]Gioiello che potenzia una sola volta le mosse[0x000A]di tipo Normale.
+Strumento da usare su un Pokémon.[0x000A]Ne aumenta di poco i punti base dei PS.
+Strumento da usare su un Pokémon.[0x000A]Ne aumenta di poco i punti base dell’Attacco.
+Strumento da usare su un Pokémon.[0x000A]Ne aumenta di poco i punti base della Difesa.
+Strumento da usare su un Pokémon.[0x000A]Ne aumenta di poco i punti base dell’Attacco[0x000A]Speciale.
+Strumento da usare su un Pokémon.[0x000A]Ne aumenta di poco i punti base della Difesa[0x000A]Speciale.
+Strumento da usare su un Pokémon.[0x000A]Ne aumenta di poco i punti base della Velocità.
+Piuma molto bella ma priva di qualsiasi utilità:[0x000A]non ha alcun effetto.
+Fossile di un Pokémon preistorico che viveva[0x000A]nel mare. Sembra essere parte del suo dorso.
+Fossile di un Pokémon preistorico che solcava[0x000A]i cieli. Sembra essere parte della sua ala.
+Biglietto speciale per l’Isola Libertà.[0x000A]La nave parte da Austropoli.
+Bilia misteriosa che racchiude l’energia di Unima[0x000A]ed è in grado di lanciare il Passapotere.
+Poké Ball onirica. Appare all’improvviso nella[0x000A]Borsa quando si è nel Bosco Intramondo.[0x000A]Può acchiappare qualsiasi Pokémon.
+Strumento che attrae i Pokémon. È utile per[0x000A]fuggire dalla lotta con Pokémon selvatici.
+Scatola bella ed elegante per conservare i gadget[0x000A]usati per agghindare i Pokémon durante[0x000A]il Pokémon Musical.
+Teschio di un Pokémon che sorvolava libero i mari[0x000A]senza temere neanche le più forti tempeste.
+Fungo raro che emana un profumo[0x000A]gradevolissimo. Si può vendere a un prezzo[0x000A]piuttosto alto nei negozi.
+Grossa pepita d’oro puro dal luccichio sfavillante.[0x000A]Si può vendere a un prezzo piuttosto alto[0x000A]nei negozi.
+Grosse perle dai riflessi argentei. Si possono[0x000A]vendere a un prezzo piuttosto alto nei negozi.
+Scheggia di cometa caduta al suolo. Si può[0x000A]vendere a un prezzo piuttosto alto nei negozi.
+Moneta di rame usata circa 3000 anni fa[0x000A]da un’antica civiltà.
+Moneta d’argento usata circa 3000 anni fa[0x000A]da un’antica civiltà.
+Moneta d’oro usata circa 3000 anni fa[0x000A]da un’antica civiltà.
+Vaso prodotto circa 3000 anni fa[0x000A]da un’antica civiltà.
+Braccialetto forgiato circa 3000 anni fa[0x000A]da un’antica civiltà.
+Statua scolpita circa 3000 anni fa[0x000A]da un’antica civiltà.
+Corona forgiata circa 3000 anni fa.[0x000A]da un’antica civiltà.
+Il famoso gelato di Austropoli. Cura tutti i[0x000A]problemi di stato di un Pokémon.
+Aumenta la probabilità di sferrare brutti colpi.[0x000A]Se usato più volte, l’effetto si somma,[0x000A]ma svanisce se il Pokémon è sostituito.
+Aumenta molto la Velocità di un Pokémon in[0x000A]una lotta. L’effetto svanisce se il Pokémon[0x000A]è sostituito.
+Aumenta molto l’Attacco Speciale di un Pokémon[0x000A]in una lotta. L’effetto svanisce se il Pokémon[0x000A]è sostituito.
+Aumenta molto la Difesa Speciale di un Pokémon[0x000A]in una lotta. L’effetto svanisce se il Pokémon[0x000A]è sostituito.
+Aumenta molto la Difesa di un Pokémon in[0x000A]una lotta. L’effetto svanisce se il Pokémon[0x000A]è sostituito.
+Aumenta molto l’Attacco di un Pokémon in[0x000A]una lotta. L’effetto svanisce se il Pokémon[0x000A]è sostituito.
+Aumenta molto la precisione di un Pokémon in[0x000A]una lotta. L’effetto svanisce se il Pokémon[0x000A]è sostituito.
+Aumenta moltissimo la Velocità di un Pokémon[0x000A]in una lotta. L’effetto svanisce se il Pokémon[0x000A]è sostituito.
+Aumenta moltissimo l’Attacco Speciale di un[0x000A]Pokémon in una lotta. L’effetto svanisce se il[0x000A]Pokémon è sostituito.
+Aumenta moltissimo la Difesa Speciale di un[0x000A]Pokémon in una lotta. L’effetto svanisce se il[0x000A]Pokémon è sostituito.
+Aumenta moltissimo la Difesa di un Pokémon[0x000A]in una lotta. L’effetto svanisce se il Pokémon[0x000A]è sostituito.
+Aumenta moltissimo l’Attacco di un Pokémon[0x000A]in una lotta. L’effetto svanisce se il Pokémon[0x000A]è sostituito.
+Aumenta moltissimo la precisione di un Pokémon[0x000A]in una lotta. L’effetto svanisce se il Pokémon[0x000A]è sostituito.
+Aumenta incredibilmente la Velocità di un[0x000A]Pokémon in una lotta. L’effetto svanisce[0x000A]se il Pokémon è sostituito.
+Aumenta incredibilmente l’Attacco Speciale di un[0x000A]Pokémon in una lotta. L’effetto svanisce se il[0x000A]Pokémon è sostituito.
+Aumenta incredibilmente la Difesa Speciale di un[0x000A]Pokémon in una lotta. L’effetto svanisce se il[0x000A]Pokémon è sostituito.
+Aumenta incredibilmente la Difesa di un Pokémon[0x000A]in una lotta. L’effetto svanisce se il Pokémon[0x000A]è sostituito.
+Aumenta incredibilmente l’Attacco di un Pokémon[0x000A]in una lotta. L’effetto svanisce se il Pokémon[0x000A]è sostituito.
+Aumenta incredibilmente la precisione di un[0x000A]Pokémon in una lotta. L’effetto svanisce se il[0x000A]Pokémon è sostituito.
+Se usato su un Pokémon della squadra,[0x000A]ne attiva l’abilità.
+Usandolo, un Pokémon della squadra lascerà[0x000A]il proprio strumento.
+Usandolo, un Pokémon della squadra userà[0x000A]immediatamente il proprio strumento.
+Usandolo, tutte le modifiche alle statistiche[0x000A]di un Pokémon della squadra saranno annullate.
+Aumenta moltissimo la probabilità di sferrare[0x000A]brutti colpi. L’effetto si può sommare, ma[0x000A]svanisce se il Pokémon è sostituito.
+Pietra in cui si è tramutato Reshiram quando[0x000A]ha perso la sua forma corporea.[0x000A]Attende la venuta di un eroe.
+Pietra in cui si è tramutato Zekrom quando[0x000A]ha perso la sua forma corporea.[0x000A]Attende la venuta di un eroe.
+Chi la usa si carica di elettricità per poi scagliarsi[0x000A]sul bersaglio, ma subisce dei danni per il[0x000A]contraccolpo.
+Chi la usa colpisce il nemico con un pugno[0x000A]in grado di frantumare anche la roccia.[0x000A]Può anche ridurne la Difesa.
+Chi la usa si mette a urlare per un po’, riducendo[0x000A]l’Attacco Speciale dei nemici.
+Ricetrasmittente all’avanguardia che permette[0x000A]di fare videochiamate con un gruppo massimo[0x000A]di quattro persone.
+Una pietra magica.
+Un’importante lettera che Wingull deve[0x000A]consegnare.
+Un’importante lettera che Wingull deve[0x000A]consegnare.
+Un’importante lettera che Wingull deve[0x000A]consegnare.
+Ricetrasmittente all’avanguardia che permette[0x000A]di fare videochiamate con un gruppo massimo[0x000A]di quattro persone.
+Apparecchio rettangolare usato per custodire[0x000A]i Premi ottenuti e tutte le informazioni che li[0x000A]riguardano.
+Cuneo che permette di fondere Kyurem[0x000A]con il Pokémon al quale era unito in origine.
+Cuneo che permette di separare Kyurem[0x000A]dal Pokémon con cui era fuso.
+Tessera che permette di accedere a una[0x000A]Riserva Naturale conosciuta da pochi.
+Misterioso amuleto di forma sferica che[0x000A]aumenta la probabilità di trovare Uova[0x000A]nella Pensione Pokémon.
+Misterioso amuleto luminoso che aumenta[0x000A]la probabilità di incontrare Pokémon cromatici.
+Carta magnetica necessaria per inserire[0x000A]la password sulla Fregata Plasma.
+Pezzo di stoffa perso al Bar Magazzino[0x000A]di Zefiropoli da un cliente abituale.[0x000A]Odora leggermente di Pokémon.
+Prototipo imperfetto di un dispositivo speciale[0x000A]ideato per risvegliare in modo forzato le capacità[0x000A]dei Pokémon.
+Interpoké rinvenuto nel parco giochi[0x000A]di Sciroccopoli.[0x000A]Pare che appartenga a un ragazzo.
+Interpoké rinvenuto nel parco giochi[0x000A]di Sciroccopoli.[0x000A]Pare che appartenga a una ragazza.
+Specchio misterioso che, riflettendo la verità,[0x000A]fa riacquistare ai Pokémon la loro forma originaria.
+Se il Pokémon viene colpito da una mossa contro[0x000A]cui è debole, l’Attacco e l’Attacco Speciale[0x000A]aumentano considerevolmente.
+Strumento da dare a un Pokémon.[0x000A]Questo corpetto aumenta la Difesa Speciale[0x000A]ma impedisce l’uso di mosse di stato.
+Dispositivo in grado di ricevere e riprodurre[0x000A]in qualsiasi momento comunicazioni olografiche.
+Lettera del Professor Platan per la mamma.[0x000A]Emana un delicato profumo.
+Pattini applicati alla suola delle scarpe.[0x000A]Permettono di pattinare e di eseguire figure.
+Strumento da dare a un Pokémon.[0x000A]Lastra di pietra che potenzia le mosse[0x000A]di tipo Folletto.
+Se usata su un Pokémon che ha due abilità,[0x000A]questa capsula permette di cambiare quella[0x000A]attiva.
+Una spuma soffice, delicata e leggermente dolce.[0x000A]Piace a un Pokémon in particolare.
+Una bustina che contiene aromi dal profumo[0x000A]piuttosto intenso.[0x000A]Piace a un Pokémon in particolare.
+Muschio luminoso monouso. Se il Pokémon[0x000A]che ha questo strumento subisce una mossa[0x000A]di tipo Acqua, la sua Difesa Speciale aumenta.
+Palla di neve monouso.[0x000A]Se il Pokémon che ce l’ha subisce una mossa[0x000A]di tipo Ghiaccio, il suo Attacco aumenta.
+Visiera che protegge dai danni legati alle[0x000A]condizioni atmosferiche e dalla maggior parte[0x000A]delle mosse che rilasciano polvere.
+Flauto dal suono meraviglioso che risveglia[0x000A]anche i Pokémon profondamente addormentati.
+Fertilizzante usato nell’orto delle bacche.[0x000A]Aumenta la quantità di bacche ottenute senza[0x000A]che siano necessarie cure particolari.
+Fertilizzante usato nell’orto delle bacche.[0x000A]Produce delle mutazioni inaspettate in base alla[0x000A]combinazione di bacche.
+Fertilizzante usato nell’orto delle bacche.[0x000A]Aumenta la quantità di bacche raccolte grazie[0x000A]a un’abbondante annaffiatura.
+Un fertilizzante incredibile che combina gli effetti[0x000A]di Fertilflorido, Fertilsorpresa e Fertilcopioso.
+Un esemplare delle misteriose Megapietre.[0x000A]Data a Gengar, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data a Gardevoir, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data ad Ampharos, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data a Venusaur, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data a Charizard, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data a Blastoise, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data a Mewtwo, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data a Mewtwo, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data a Blaziken, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data a Medicham, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data a Houndoom, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data ad Aggron, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data a Banette, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data a Tyranitar, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data a Scizor, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data a Pinsir, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data ad Aerodactyl, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data a Lucario, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data ad Abomasnow, gli permette[0x000A]di megaevolversi durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data a Kangaskhan, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data a Gyarados, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data ad Absol, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data a Charizard, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data ad Alakazam, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data a Heracross, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data a Mawile, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data a Manectric, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data a Garchomp, gli permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data a Latias, le permette di megaevolversi[0x000A]durante la lotta.
+Un esemplare delle misteriose Megapietre.[0x000A]Data a Latios, gli permette di megaevolversi[0x000A]durante la lotta.
+Se data a un Pokémon, indebolisce l’attacco[0x000A]superefficace di tipo Folletto del nemico.
+Bacca da dare a un Pokémon.[0x000A]Se chi ce l’ha subisce una mossa fisica,[0x000A]la sua Difesa aumenta.
+Bacca da dare a un Pokémon.[0x000A]Se chi ce l’ha subisce una mossa speciale,[0x000A]la sua Difesa Speciale aumenta.
+Strumento per annaffiare a forma di Lotad.[0x000A]Favorisce la crescita delle bacche piantate[0x000A]nel terreno soffice.
+Mossa che fa uso della forza della natura.[0x000A]Il suo effetto varia in base all’ambiente.
+Chi la usa emana un’aura impregnata di oscuri[0x000A]pensieri. Può anche far tentennare il Pokémon[0x000A]colpito.
+Rende i pugni più duri a ogni colpo inferto.[0x000A]Se i pugni vanno a segno, aumenta l’Attacco.
+Emette una luce potentissima che infligge danni[0x000A]al bersaglio.
+Chi la usa svela dei segreti al bersaglio,[0x000A]distraendolo e riducendone l’Attacco Speciale.
+Tesserino di riconoscimento che consente[0x000A]l’accesso alla Centrale di Kalos che si trova[0x000A]nel Percorso 13.
+Cerchio che nasconde un misterioso potere.[0x000A]Consente a un Pokémon che ha una[0x000A]Megapietra di megaevolversi durante la lotta.
+Un sasso piuttosto singolare che qualcuno[0x000A]potrebbe ritenere di valore.
+Un sasso qualsiasi che qualcuno potrebbe[0x000A]ritenere di valore.
+Buono che permette di avere uno sconto[0x000A]sugli acquisti nei negozi di abbigliamento.
+Tessera magnetica con il simbolo del Team Flare[0x000A]che attiva l’ascensore dei Laboratori Elisio.
+Biglietto che permette di salire liberamente[0x000A]sul treno a megavelocità che collega[0x000A]Luminopoli e Batikopoli.
+Prezioso riconoscimento conferito a coloro che[0x000A]si sono distinti per le gesta eccezionali nella[0x000A]regione di Kalos.
+Guida che contiene consigli utili per[0x000A]gli Allenatori in viaggio.[0x000A]È stata scritta da qualcuno di tua conoscenza.
+Statuetta raffigurante un Pokémon che viene[0x000A]considerato una divinità protettrice in alcuni[0x000A]luoghi molto lontani da Kalos.
+Un’elegante custodia per lenti a contatto.
+Un baule leggero ma estremamente capiente[0x000A]che può contenere qualsiasi capo[0x000A]d’abbigliamento.
+Un baule leggero ma estremamente capiente[0x000A]che può contenere qualsiasi capo[0x000A]d’abbigliamento.
+Un famoso dolce di Luminopoli.[0x000A]Può guarire un Pokémon da tutti i problemi[0x000A]di stato.
+Il famoso Yantafrollino di Yantaropoli.[0x000A]Cura tutti i problemi di stato di un Pokémon.
+Fossile di un Pokémon preistorico che viveva[0x000A]sulla terraferma. Sembra far parte di una grossa[0x000A]mascella.
+Fossile di un Pokémon preistorico che viveva[0x000A]sulla terraferma. Sembra far parte di una pinna.
+Un biglietto realizzato a mano da Bellocchio,[0x000A]dipinto con colori brillanti.
+Bici pieghevole che permette di spostarsi[0x000A]più velocemente che con le Scarpe da Corsa.
+Dispositivo in grado di ricevere e riprodurre[0x000A]in qualsiasi momento comunicazioni olografiche.
+Strumento da dare a un Pokémon.[0x000A]Gioiello che potenzia una sola volta le mosse[0x000A]di tipo Folletto.
+Megaciondolo che cela un misterioso potere.[0x000A]Consente a un Pokémon che abbia una[0x000A]Megapietra di megaevolversi durante la lotta.
+Megaguanto che cela un misterioso potere.[0x000A]Consente a un Pokémon che abbia una[0x000A]Megapietra di megaevolversi durante la lotta.

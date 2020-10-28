@@ -1,0 +1,11 @@
+sub_event_005_npc_01=エレズンよ　エレズン！{0xBE01}[0x000A]はっけん　された　タマゴを[0x000A]つれあるいていたら　うまれた{0xBE00}[0x000A]エレズンだよ！　あんた　そだててよ！{0xBE00}[0x000A]しびれる　ポケモン　なんだから！
+sub_event_005_poke1_01=ズンズーン！
+sub_event_005_npc_02=あと　こちらも！[0x000A]ポケモンに　あげると　そだつよ！
+sub_event_005_npc_03=タマゴは　あずかりやで！[0x000A]けいけんちアメは{0xBE00}[0x000A]マックスレイドバトルで　みつかるよ！
+sub_event_005_npc_04=ええ！　ポケモンを　うけとれない？[0x000A]どれだけ　ポケモンが　すきなのさ！
+sub_event_005_oldf_01={0xBDFF:0x0005}
+sub_event_005_oldf_02={0xBDFF:0x0006}
+sub_event_005_poke_01={0xBDFF:0x0007}
+sub_event_005_poke_02={0xBDFF:0x0008}
+sub_event_005_poke_03={0xBDFF:0x0009}
+sub_event_005_system_01={0xBDFF:0x000A}

@@ -1,0 +1,14 @@
+msg_t0501_g0201_npc1_01=Es gibt viele Arena-Challenger, die nach einer[0x000A]Weile das Handtuch geworfen haben.{0xBE01}[0x000A]Gib niemals auf, hörst du?
+msg_t0501_g0201_npc1_02=Ich stand selbst kurz davor, die Arena-Challenge[0x000A]einfach aufzugeben...{0xBE01}[0x000A]Aber dich und dein{0x1101,0x00FD,0x0100}e Pokémon kämpfen zu sehen,[0x000A]hat mich überzeugt, weiterzumachen!
+msg_t0501_g0201_npc2_01=Ich trainiere mein Team, während ich mich der[0x000A]Arena-Challenge widme.{0xBE01}[0x000A]Vielleicht sollte ich ein paar Pokémon aus[0x000A]meinem Team auswechseln...
+msg_t0501_g0201_npc2_02=Dein Match gegen den Geister-Arenaleiter[0x000A]hat mich inspiriert!
+msg_t0501_g0201_npc3_01=Du bist den ganzen Weg bis nach Passbeck[0x000A]gekommen, jetzt musst du einfach gewinnen!
+msg_t0501_g0201_npc3_02=Geschafft, du hast gewonnen! Du bist echt[0x000A]der Knaller, {0x0100,0x0000}!
+msg_t0501_g0201_npc3_03={0xBDFF:0x0006}
+msg_t0501_g0201_poke1_01_pop=Raaadar!
+msg_t0501_g0201_npc4_01_pop=Oh, {0x1100,0x00FF,0x0303,0x0000}dendie kenn ich aus dem[0x000A]Fernsehen!
+msg_t0501_g0201_npc4_02_pop=Was für ein starker Trainer!
+msg_t0501_g0201_npc4_03_pop=Wer ist der Champ?[0x000A]Du bist der Champ!
+msg_t0501_g0201_npc5_01_pop=Ein neuer[0x000A]Challenger!
+msg_t0501_g0201_npc5_02_pop=Ich bin dein neuer Fan!
+msg_t0501_g0201_npc5_03_pop=Champ! Kümmer dich gut[0x000A]um Galar, ja?

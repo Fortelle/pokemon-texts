@@ -1,0 +1,7 @@
+msg_t011pc01_woman_01=Pokémon’s growth rates differ from species[0x000A]to species.
+msg_t011pc01_gentleman_01=Silph Co. is widely known to all.{0xBE01}[0x000A]It’s a victim of its own fame. It attracted[0x000A]Team Rocket.
+msg_t011pc01_chilem_01_01=*sigh*{0xBE01}[0x000A]Wouldn’t it be great if the Elite Four came and[0x000A]stomped out Team Rocket?
+msg_t011pc01_chilem_01_02=Team Rocket took off![0x000A]We can go out safely again!{0xBE00}[0x000A]That’s great!
+msg_t011pc01_book_01=There’s a book called Pokémon Journal:[0x000A]Interviews.
+msg_t011pc01_select_01=Will you read it?
+msg_t011pc01_book_02=“In-depth coverage of the most famous guy in[0x000A]Saffron City—Karate Master!{0xBE01}[0x000A]“Interviewer: What is the secret of your strength?{0xBE01}[0x000A]“Karate Master: Hwaah! Ever since I opened this[0x000A]Fighting Dojo, I’ve been doing weight training{0xBE00}[0x000A]with Pokémon every single day.{0xBE01}[0x000A]“Look at this muscle! Look at this Pokémon![0x000A]We’re extremely well trained.{0xBE01}[0x000A]“Next month, a tournament will be held at the[0x000A]Saffron City Gym.{0xBE01}[0x000A]“No matter who challenges me, I’ll defeat them[0x000A]instantly with my fists!”

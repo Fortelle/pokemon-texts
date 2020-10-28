@@ -1,0 +1,13 @@
+Ja
+Nein
+Soll das Foto auf der SD Card[0x000A]gespeichert werden?
+Wenn du dein Foto nicht speicherst, geht es[0x000A]verloren. Möchtest du dennoch fortfahren?
+Foto wird gespeichert...[0x000A]Bitte das System nicht ausschalten.
+Das Foto wurde über die Kamera-Anwendung[0x000A]deines Nintendo 3DS-Systems gespeichert.
+Unzureichender Speicherplatz[0x000A]auf deiner SD Card.{0xBE01}[0x000A]Das Foto konnte nicht[0x000A]gespeichert werden.
+Unzureichender Speicherplatz auf[0x000A]deiner Nintendo 3DS-Kamera.{0xBE01}[0x000A]Es können keine weiteren Fotodaten[0x000A]gespeichert werden.{0xBE01}[0x000A]Der Speichervorgang[0x000A]ist fehlgeschlagen.
+Die Daten auf deiner SD Card sind[0x000A]fehlerhaft und wurden gelöscht.{0xBE01}[0x000A]Das Foto konnte nicht[0x000A]gespeichert werden.
+Der Speichervorgang[0x000A]ist fehlgeschlagen.
+{0x0201,0x0002}.{0x0201,0x0001}.20{0x0201,0x0000}　{0x0201,0x0003}:{0x0201,0x0004}
+{0xBDFF:0x000B}
+{0x0205,0x0005,0x0020}

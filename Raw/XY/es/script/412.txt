@@ -1,0 +1,20 @@
+¡Anda! ¡Una cara nueva! Toma.[0x000A]Creo que le darás buen uso.
+¡Y a esto también!
+En combate, es vital saber qué objeto usar en cada[0x000A]momento.{0xBE01}[0x000A]Elige bien e incluso podrás sacar a tu compañero[0x000A]de más de un apuro.
+Ten muy presente la relación entre tipos.{0xBE01}[0x000A]El profe nos dijo que Agua tiene ventaja frente[0x000A]a Fuego y que... Fuego vencía a Planta, ¡sí!{0xBE00}[0x000A]¡Ah! Planta viene bien contra Agua. ¿Te acordarás?
+Los Pokémon pueden llevar equipados ciertos[0x000A]objetos. Pero imagino que ya lo sabías, ¿no?
+Cada movimiento pertenece a un tipo[0x000A]determinado.{0xBE01}[0x000A]Y su potencia aumenta si coincide con[0x000A]el tipo del Pokémon que lo realiza.
+Tu equipo se fortalecerá incluso si te limitas[0x000A]a capturar Pokémon salvajes.{0xBE01}[0x000A]¡De hecho, uno de los míos subió de nivel[0x000A]después de una captura!
+En la pizarra hay una explicación sobre los[0x000A]cambios de estado que pueden sufrir los{0xBE00}[0x000A]Pokémon durante un combate.
+¿Cuál quieres ver?
+Si un Pokémon resulta envenenado durante el[0x000A]combate, sus PS disminuirán poco a poco.{0xBE01}[0x000A]El efecto continuará en los próximos combates que[0x000A]tengas, por lo que es necesario contrarrestarlo{0xBE00}[0x000A]mediante un Antídoto.
+Si un Pokémon resulta paralizado, su Velocidad se[0x000A]reduce, y puede que se vea totalmente incapaz de{0xBE00}[0x000A]utilizar movimientos.{0xBE01}[0x000A]El Pokémon seguirá paralizado incluso después del[0x000A]combate hasta que uses el objeto Antiparalizador.
+Si un Pokémon se queda dormido, no podrá[0x000A]ejecutar ningún ataque.{0xBE01}[0x000A]En ocasiones, se despertará por sí solo. Pero, si[0x000A]esto no ocurre antes de finalizar el combate,{0xBE00}[0x000A]permanecerá dormido hasta que uses Despertar.
+Si un Pokémon sufre quemaduras, no solo verá[0x000A]mermado su Ataque, sino que sus PS también{0xBE00}[0x000A]se reducirán un poco durante cada turno.{0xBE01}[0x000A]Permanecerá en este estado tras finalizar el[0x000A]combate, por lo que es preciso usar el objeto{0xBE00}[0x000A]Antiquemar.
+Si un Pokémon resulta congelado, no podrá[0x000A]hacer absolutamente nada.{0xBE01}[0x000A]A veces, saldrá de tal estado por sí solo, pero[0x000A]si no lo logra antes de terminar el combate,{0xBE00}[0x000A]tendrás que ayudarle tú usando Antihielo.
+Envenenado
+Paralizado
+Dormido
+Quemado
+Congelado
+Ninguno
