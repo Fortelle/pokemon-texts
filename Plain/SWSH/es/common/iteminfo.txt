@@ -418,14 +418,14 @@ Durante cinco turnos, los Pokémon que están en el suelo no sufren problemas de
 Durante cinco turnos, se potencian los movimientos de tipo Eléctrico y los Pokémon que están en contacto con el suelo no pueden quedarse dormidos.
 Durante cinco turnos, se potencian los movimientos de tipo Psíquico y los Pokémon que están en el suelo quedan protegidos contra movimientos con prioridad.
 El usuario lanza por la boca una singular llama a gran temperatura con la que ataca a su oponente y baja su Ataque Especial.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 Una saca donde guardar los objetos útiles para la exploración. Permite acceder al Subsuelo.
 Una saca grande y resistente utilizada para transportar el botín reunido en la mina de carbón.
 Recoge las normas de los combates. En los combates en conexión puedes elegir el conjunto de reglas que quieres usar.
@@ -836,9 +836,9 @@ Concentra el Poder Z en cristales que permiten a Mew convertir su Psíquico en u
 Concentra el Poder Z en cristales que permiten a los Pikachu que llevan gorra convertir su Rayo en un movimiento Z.
 Cristal que confiere el Poder Z al movimiento Rayo de los Pikachu que llevan gorra.
 
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
 Saco para guardar ingredientes, indispensable en la Jungla Umbría para superar la prueba de Lulú.
 Caña fabricada por la Capitana Nereida. Permite pescar los Pokémon escondidos en las rocas sumergidas.
 La máscara de luchador de Royale, el Enmascarado. Muy probablemente de factura propia.
@@ -846,7 +846,7 @@ Se puede canjear para organizar minijuegos en la Festi Plaza.
 Piedra con un misterioso brillo entregada por un Pokémon considerado como uno de los espíritus guardianes de Alola.
 Aumenta la Velocidad del portador si se siente intimidado.
 Dispositivo para almacenar células y núcleos de Zygarde. También es posible usarlo para enseñarle movimientos.
-- -[0x000A]-
+- - -
 Una piedra peculiar que hace evolucionar a algunos Pokémon. Presenta motivos que recuerdan a los cristales de hielo.
 Dispositivo dotado de un teclado numérico con el que llamar a diversas Pokémonturas.
 Un tipo especial de Poké Ball con la que resulta difícil atrapar Pokémon.
@@ -857,7 +857,7 @@ Néctar de ciertas flores de los parterres de la Avenida Royale, capaz de hacer 
 Néctar de ciertas flores de los Jardines de Poni, capaz de hacer cambiar de forma a una determinada especie de Pokémon.
 Flauta que se hace sonar como muestra de gratitud hacia el Pokémon legendario del sol.
 Flauta que se hace sonar como muestra de gratitud hacia el Pokémon legendario de la luna.
-- -[0x000A]-
+- - -
 Misteriosa nota que reza: "Te espero en una habitación del motel de la Ruta 8 en Akala".
 Una baya que puedes lanzar a un Pokémon salvaje para que resulte bastante más fácil capturarlo.
 Una baya que puedes lanzar a un Pokémon salvaje para que resulte mucho más fácil capturarlo.
@@ -865,11 +865,11 @@ Una baya que puedes lanzar a un Pokémon salvaje para tranquilizarlo bastante.
 Una baya que puedes lanzar a un Pokémon salvaje para tranquilizarlo mucho.
 Una baya que puedes lanzar a un Pokémon salvaje para aumentar bastante las probabilidades de conseguir un objeto tras capturarlo.
 Una baya que puedes lanzar a un Pokémon salvaje para aumentar mucho las probabilidades de conseguir un objeto tras capturarlo.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
 Llave que abre las puertas del Gimnasio de Isla Canela. En su diseño predomina el color rojo.
 Billete necesario para embarcar en el S. S. Anne. Tiene dibujado un barco.
 Dispositivo que permite ver cosas que, de otra forma, resultarían invisibles para el ojo humano. Fabricado por Silph S. A.
@@ -895,9 +895,9 @@ Preciosa concha de color blanco que quizá haya sido arrastrada por las corrient
 Una carta escrita en una hoja. Hay huellas de Pikachu estampadas en ella y parecen guardar algún significado.
 Una carta escrita en una hoja. Hay huellas de Eevee estampadas en ella y parecen guardar algún significado.
 Pequeño ramo de flores confeccionado con dedicación y esmero solo para ti.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
 Colonia que atrae a los Pokémon raros durante un breve espacio de tiempo.
 Colonia que atrae a los Pokémon raros y cuyo efecto es algo más duradero que el de la Colonia.
 Colonia que atrae a los Pokémon raros y cuyo efecto es algo más duradero que el de la Supercolonia.
@@ -1056,32 +1056,32 @@ Caramelo energético que aumenta todas las características de cierto Pokémon.
 Caramelo energético que aumenta todas las características de cierto Pokémon.
 Caramelo energético que aumenta todas las características de ciertos Pokémon.
 Caramelo energético que aumenta todas las características de cierto Pokémon.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 Una carta de recomendación necesaria para participar en el desafío de los gimnasios.
 Permite acceder en todo momento a tus Cajas del PC de los Centros Pokémon para dejar o sacar Pokémon.
 Piedra de poder misterioso hallada en la región de Galar. Se dice que quien encuentra una verá realizados sus sueños.
 Si lleva engarzada una Estrella Deseo y el portador se halla junto a un nodo energético, reacciona emitiendo una luz y permite dinamaxizar Pokémon.
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
 Sirve para pescar Pokémon salvajes en todo tipo de cuerpos de agua.
 Una bicicleta en la que puede activarse el turbo, al llevar al Pokémon Rotom incorporado en el motor.
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
 Un ingrediente para cocinar en el campamento. Si te apetece disfrutar de su delicioso sabor, basta con hervirlas.
 Un ingrediente para cocinar en el campamento. Las conservas de Darren son muy apreciadas por todo Galar.
 Un ingrediente para cocinar en el campamento. Las conservas de Bach son muy apreciadas por todo Galar.
@@ -1099,8 +1099,8 @@ Un ingrediente para cocinar en el campamento. Una mezcla muy sana de varios tipo
 Un ingrediente para cocinar en el campamento. A medida que pasa el tiempo se van volviendo más aceitosas.
 Un ingrediente para cocinar en el campamento. Con tan solo uno de estos huevos se consigue un plato gourmet.
 Este kit tiene todo lo necesario para montar una tienda de campaña y cocinar, ya sea en el Área Silvestre o en zonas de acampada.
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
 Cuenta una antigua leyenda que un valiente héroe blandió esta espada para hacer frente a un cataclismo, pero ahora está oxidada y en un estado lamentable.
 Cuenta una antigua leyenda que un valiente héroe asió este escudo para hacer frente a un cataclismo, pero ahora está oxidado y en un estado lamentable.
 Parte del fósil de un Pokémon prehistórico que surcaba los cielos. Su apariencia sigue siendo una incógnita.
@@ -1266,16 +1266,16 @@ Un ingrediente para cocinar en el campamento. Una pizca de esta extraña especia
 Al lanzar unos cuantos a un nido Pokémon, es posible que aparezca algún Pokémon Dinamax.
 Combinada con el Pokémon Rotom, esta bicicleta te permite usar un turbo y también desplazarte por encima del agua.
 Aumenta la probabilidad de lograr una captura crítica al llevarlo equipado. Curiosamente, apenas vibra.
-- -[0x000A]-
+- - -
 Carta de aspecto desgastado entregada por una niña y con un chico como destinatario.
 Un autógrafo firmado por todos los miembros de los Maximizers, el grupo musical más carismático de Galar.
 Publicación de la Profesora Sonia que trata de forma amena los recientes descubrimientos sobre las leyendas de la región de Galar.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 Un catálogo de los artilugios favoritos de Rotom que le permite introducirse o salir fácilmente de los mismos.
 Posibilita la aparición de <var> en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
 Posibilita la aparición de <var> en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.

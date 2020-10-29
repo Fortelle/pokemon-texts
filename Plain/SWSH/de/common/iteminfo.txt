@@ -112,26 +112,26 @@ Dieser besondere, eiförmige Stein hilft manchen Pokémon bei ihrer Entwicklung.
 Ein wichtiges Item, mit dem ein Steinturm repariert werden kann.
 Ein glühender Orb. Verstärkt Attacken vom Typ Drache und Geist, wenn Giratina ihn trägt.
 Ein aromatischer Tee mit leicht bitterem Geschmack. Genau das Richtige, um den Durst zu stillen.
-- -[0x000A]-
+- - -
 Das ist ein Autogramm von Major Bob, dem Arenaleiter von Orania City. Darauf steht: „Viel Glück, RekrutRekrutin!"
 Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Wasser um.
 Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Elektro um.
 Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Feuer um.
 Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Eis um.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 Ein überraschend leichter Koffer, in dem verschiedene Kleidungsstücke und Accessoires für Trainer und Pokémon verstaut werden können.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 Ein süßer Schokosnack, der die KP eines Pokémon um 20 Punkte auffüllt.
 Ein hell leuchtender Orb. Verstärkt Attacken vom Typ Drache und Stahl, wenn Dialga ihn trägt.
 Ein hell leuchtender Orb. Verstärkt Attacken vom Typ Drache und Wasser, wenn Palkia ihn trägt.
@@ -418,14 +418,14 @@ Schützt fünf Runden lang alle Pokémon, die den Boden berühren, vor Statuspro
 Hindert fünf Runden lang alle Pokémon, die den Boden berühren, am Einschlafen. Erhöht die Stärke von Elektro-Attacken.
 Verhindert für fünf Runden, dass Pokémon am Boden von Erstschlag-Attacken getroffen werden. Erhöht die Stärke von Psycho-Attacken.
 Der Anwender greift das Ziel an, indem er ihm eine besondere, heiße Flamme entgegenbläst. Der Spezial-Angriff des Zieles sinkt.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 Ein Sack voller hilfreicher Items für Erkundungsgänge. Öffnet den Untergrund.
 Ein fester Sack. Wird verwendet, um Beute aus der Kohlemine zu transportieren.
 Enthält die Kampfregeln. Bei Link-Kämpfen kannst du daraus die gewünschten Regeln wählen.
@@ -1056,32 +1056,32 @@ Ein Bonbon, das voller Energie steckt. Erhöht dauerhaft sämtliche Statuswerte 
 Ein Bonbon, das voller Energie steckt. Erhöht dauerhaft sämtliche Statuswerte eines bestimmten Pokémon.
 Ein Bonbon, das voller Energie steckt. Erhöht dauerhaft sämtliche Statuswerte eines bestimmten Pokémon.
 Ein Bonbon, das voller Energie steckt. Erhöht dauerhaft sämtliche Statuswerte eines bestimmten Pokémon.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 Ein Empfehlungsschreiben, das benötigt wird, um an der Arena-Challenge teilzunehmen.
 Ermöglicht jederzeit Zugriff auf die PC-Boxen im Pokémon-Center, um Pokémon abzulegen oder ins Team aufzunehmen.
 In Galar verstreute Steine, denen eine geheimnisvolle Energie innewohnt. Es wird erzählt, Wünsche gingen in Erfüllung, wenn man sie aufsammelt.
 Wenn man sich in der Nähe einer Energiequelle aufhält, leuchtet der darin eingearbeitete Wunschstern auf und ermöglicht die Dynamaximierung von Pokémon.
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
 Setzt man sie in der Nähe von Gewässern ein, kann man damit unterschiedliche Pokémon angeln.
 Ein Fahrrad mit einem Motor, in dem sich ein Rotom befindet. Dank des Rotom-Turbos erreicht das Rad absolute Spitzengeschwindigkeiten.
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
 Eine Zutat für PokéCamping-Mahlzeiten. Die kleinen groben Würstchen werden vor dem Verzehr gekocht.
 Eine Zutat für PokéCamping-Mahlzeiten. Diese von Leckerpaul vertriebene Dosennahrung erfreut sich in Galar überraschend hoher Beliebtheit.
 Eine Zutat für PokéCamping-Mahlzeiten. Diese von Bach vertriebene Dosennahrung erfreut sich in Galar überraschend hoher Beliebtheit.
@@ -1099,8 +1099,8 @@ Eine Zutat für PokéCamping-Mahlzeiten. Diese bunte Mischung aus verschiedenen 
 Eine Zutat für PokéCamping-Mahlzeiten. Diese Beilagen sind recht fettig, da sie schon vor einer Weile aus der Fritteuse geholt wurden.
 Eine Zutat für PokéCamping-Mahlzeiten. Ein einzelnes gekochtes Ei reicht aus, um die Qualität einer Speise deutlich anzuheben.
 Mit diesem Set ist es möglich, in der Naturzone sowie an anderen bestimmten Orten ein Zelt aufzuschlagen und dort zu kochen.
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
 Mit diesem Schwert soll ein Held einstmals großes Unheil abgewendet haben. Rost sowie der Zahn der Zeit haben jedoch ihre Spuren hinterlassen.
 Mit diesem Schild soll ein Held einstmals großes Unheil abgewendet haben. Rost sowie der Zahn der Zeit haben jedoch ihre Spuren hinterlassen.
 Teilstück des Fossils eines urzeitlichen Pokémon, das in grauer Vorzeit durch die Lüfte flog. Wie es zu Lebzeiten aussah, ist ein Rätsel.
@@ -1266,16 +1266,16 @@ Eine Zutat für PokéCamping-Mahlzeiten. Dieses geheimnisvolle Gewürz macht Cur
 Wirft man mehrere von ihnen in ein Pokémon-Nest, taucht eventuell ein Dynamax-Pokémon auf.
 Ein Fahrrad, in dem sich ein Rotom befindet. Es wurde nicht nur um den Rotom-Turbo erweitert, sondern kann sich jetzt auch auf dem Wasser fortbewegen.
 Ein mysteriöser Glücksbringer, der nur wenig wackelt und die Wahrscheinlichkeit erhöht, einen Superfang hinzulegen.
-- -[0x000A]-
+- - -
 Diesen Brief hast du von einem Mädchen erhalten, um ihn einem Jungen zu übergeben. Aus irgendeinem Grund sieht er schon etwas älter und vergilbt aus.
 Auf dieser Autogrammkarte haben alle Mitglieder der Maximizers unterschrieben. Die Band erfreut sich in der Galar-Region großer Beliebtheit.
 Dieses Buch wurde von Professor Sania herausgebracht. Es ist eine unterhaltsam geschriebene Abhandlung über neue Erkenntnisse zu Legenden der Galar-Region.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 Ein Katalog, der Rotoms Lieblingsgeräte auflistet. Mit diesem Katalog kann Rotom in Geräte schlüpfen und sie wieder verlassen.
 Dieses Item bewirkt, dass im Wachturm-Nest in der Naturzone ein <var> bis zum Ende des Tages erscheint, an dem das Item eingesetzt wurde.
 Dieses Item bewirkt, dass im Wachturm-Nest in der Naturzone ein <var> bis zum Ende des Tages erscheint, an dem das Item eingesetzt wurde.

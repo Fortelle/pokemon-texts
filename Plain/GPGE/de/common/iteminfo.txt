@@ -3,7 +3,7 @@ Der beste Ball! Damit fängst du garantiert jedes wilde Pokémon.
 Ein Ball mit hoher Erfolgsquote. Dem Superball in allen Punkten überlegen.
 Ein Ball mit guter Erfolgsquote. Dem Pokéball in allen Punkten überlegen.
 Damit fängst du wilde Pokémon. Du wirfst ihn wie einen normalen Ball. Das Design ähnelt dem einer Kapsel.
-- -[0x000A]-
+- - -
 Ein Ball, der sich besonders gut eignet, um Wasser- und Käfer-Pokémon zu fangen.
 Ein Ball, mit dem sich Pokémon, die im Wasser leben, besser fangen lassen.
 Ein Ball, dessen Erfolgsquote besonders bei Pokémon mit niedrigem Level sehr hoch ist.
@@ -61,7 +61,7 @@ Hebt den Initiative-Wert eines Pokémon im Kampf stark an. Die Wirkung wird mit 
 Hebt die Genauigkeit eines Pokémon im Kampf stark an. Die Wirkung wird mit dem Austausch des Pokémon beendet.
 Hebt den Spezial-Angriff eines Pokémon im Kampf stark an. Die Wirkung wird mit dem Austausch des Pokémon beendet.
 Hebt die Spezial-Verteidigung eines Pokémon im Kampf stark an. Die Wirkung wird mit dem Austausch des Pokémon beendet.
-- -[0x000A]-
+- - -
 Ein hübsches Item. Es ermöglicht die Flucht im Kampf gegen wilde Pokémon.
 Eine Spielzeugflöte aus blauem Glas. Weckt ein schlafendes Pokémon auf.
 Eine Spielzeugflöte aus gelbem Glas. Heilt Verwirrung.
@@ -112,26 +112,26 @@ Dieser besondere, eiförmige Stein hilft manchen Pokémon bei ihrer Entwicklung.
 Ein wichtiges Item, mit dem ein Steinturm repariert werden kann.
 Ein glühender Orb. Verstärkt Attacken vom Typ Drache und Geist, wenn Giratina ihn trägt.
 Ein aromatischer Tee mit leicht bitterem Geschmack. Genau das Richtige, um den Durst zu stillen.
-- -[0x000A]-
+- - -
 Das ist ein Autogramm von Major Bob, dem Arenaleiter von Orania City. Darauf steht: „Viel Glück, RekrutRekrutin!"
 Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Wasser um.
 Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Elektro um.
 Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Feuer um.
 Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Eis um.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 Ein überraschend leichter Koffer, in dem verschiedene Kleidungsstücke und Accessoires für Trainer und Pokémon verstaut werden können.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 Ein süßer Schokosnack, der die KP eines Pokémon um 20 Punkte auffüllt.
 Ein hell leuchtender Orb. Verstärkt Attacken vom Typ Drache und Stahl, wenn Dialga ihn trägt.
 Ein hell leuchtender Orb. Verstärkt Attacken vom Typ Drache und Wasser, wenn Palkia ihn trägt.
@@ -424,8 +424,8 @@ Eine riesige Flutwelle ergießt sich über das nähere Umfeld des Anwenders.
 Ein energiegeladener Kraftschlag trifft das Ziel. Außerdem lassen sich mit der Attacke schwere Felsen bewegen.
 Eine mächtige Attacke, die das Ziel eventuell zurückschrecken lässt. Sie macht Wasserfälle bezwingbar.
 Der Anwender greift mit einem Hieb an, der den Verteidigungs-Wert des Zieles senken kann. Damit können auch Steine zerschlagen werden.
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
 Ein Sack voller hilfreicher Items für Erkundungsgänge. Öffnet den Untergrund.
 Ein fester Sack. Wird verwendet, um Beute aus der Kohlemine zu transportieren.
 Enthält die Kampfregeln. Bei Link-Kämpfen kannst du daraus die gewünschten Regeln wählen.

@@ -3,7 +3,7 @@ La Poké Ball dalle prestazioni migliori: cattura qualsiasi Pokémon selvatico s
 Poké Ball dalle prestazioni eccellenti: fornisce maggiori probabilità di cattura rispetto alla Mega Ball.
 Poké Ball dalle ottime prestazioni: fornisce maggiori probabilità di cattura rispetto alla normale Poké Ball.
 Strumento dotato di capsula usato per catturare Pokémon selvatici. Si lancia contro il bersaglio come una palla.
-- -[0x000A]-
+- - -
 Poké Ball un po' diversa. Risulta particolarmente efficace sui Pokémon di tipo Acqua e Coleottero.
 Poké Ball un po' diversa. Risulta particolarmente efficace sui Pokémon che vivono in acqua.
 Poké Ball un po' diversa. Risulta particolarmente efficace sui Pokémon selvatici più deboli.
@@ -61,7 +61,7 @@ Aumenta di molto la Velocità di un Pokémon in una lotta. L'effetto svanisce se
 Aumenta di molto la precisione di un Pokémon in una lotta. L'effetto svanisce se il Pokémon è sostituito.
 Aumenta di molto l'Attacco Speciale di un Pokémon in una lotta. L'effetto svanisce se il Pokémon è sostituito.
 Aumenta di molto la Difesa Speciale di un Pokémon in una lotta. L'effetto svanisce se il Pokémon è sostituito.
-- -[0x000A]-
+- - -
 Strumento che attrae i Pokémon. È utile per fuggire dalla lotta con Pokémon selvatici.
 Flauto fatto di vetro blu. Ha il potere di risvegliare i Pokémon addormentati.
 Flauto fatto di vetro giallo. Ha il potere di guarire dalla confusione.
@@ -112,26 +112,26 @@ Pietra particolare che fa evolvere determinate specie di Pokémon. È a forma di
 Strumento importante che impedisce il crollo di un pozzo di pietra. A volte dal suo interno provengono delle voci.
 Poliedro splendente da dare a Giratina. Aumenta la potenza delle mosse di tipo Drago e Spettro.
 Un tè fragrante dal sapore amarognolo. Molto dissetante.
-- -[0x000A]-
+- - -
 È l'autografo di Lt. Surge, il Capopalestra di Aranciopoli. C'è scritto "Good luck!".
 Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Acqua.
 Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Elettro.
 Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Fuoco.
 Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Ghiaccio.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 Una valigia leggerissima che può contenere tutti i capi d'abbigliamento di un Allenatore e del suo compagno d'avventura.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 Cioccolato molto dolce. Restituisce 20 PS a un Pokémon.
 Sfera molto luminosa da dare a Dialga. Potenzia le mosse di tipo Drago e Acciaio.
 Sfera splendente da dare a Palkia. Potenzia le mosse di tipo Drago e Acqua.
@@ -424,8 +424,8 @@ Un'onda enorme sommerge il campo di lotta, colpendo tutti i Pokémon intorno a c
 Colpisce il nemico con un'enorme energia. Fuori dalla lotta si usa per spostare i massi.
 Carica il nemico a grande velocità e può farlo tentennare. Fuori dalla lotta fa risalire le cascate.
 Chi la usa colpisce il bersaglio con un pugno che può anche ridurne la Difesa. Fuori dalla lotta permette di frantumare le rocce.
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
 Utilissimo kit contenente strumenti per l'esplorazione. Permette di percorrere i tunnel sotterranei.
 Una sacca spaziosa e resistente usata per trasportare il bottino ottenuto nella miniera.
 Elenca le regole per le lotte. Nelle lotte in link puoi scegliere diversi set di regole da utilizzare.
@@ -835,10 +835,10 @@ Permette di creare cristalli carichi di Potere Z che consentono a Eevee di trasf
 Permette di creare cristalli carichi di Potere Z che consentono a Mew di trasformare la mossa Psichico in una mossa Z.
 Permette di creare cristalli carichi di Potere Z che consentono a Pikachu con il berretto di trasformare la mossa Fulmine in una mossa Z.
 Cristallo in cui è immagazzinato il Potere Z. Consente di trasformare la mossa Fulmine di Pikachu con il berretto in una mossa Z.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
 Sacchetto in cui mettere gli ingredienti trovati nella Giungla Ombrosa, necessari per la prova di Ibis.
 Canna da pesca con un Amo realizzato dal Capitano Suiren. Permette di pescare i Pokémon che si nascondono sott'acqua tra le rocce.
 Maschera di Mister Royale. Sembra che il famoso lottatore l'abbia realizzata personalmente.
@@ -846,7 +846,7 @@ Biglietto che permette di dare inizio a un minigioco nel Festiplaza.
 Pietra ricevuta dal Pokémon protettore di Alola. Dietro la sua lucentezza si nasconde un segreto.
 Data a un Pokémon, aumenta la Velocità se subisce Prepotenza. Se usata, fa sì che i Pokémon selvatici chiamino rinforzi a oltranza, quindi sparisce.
 Strumento che permette di raccogliere i nuclei e le cellule di Zygarde. Grazie ad esso è anche possibile insegnare delle mosse a questo Pokémon.
-- -[0x000A]-
+- - -
 Pietra particolare che fa evolvere determinate specie di Pokémon. Si intravede l'immagine di un fiocco di neve.
 Dispositivo che permette di chiamare i Pokémon del Poképassaggio digitando il numero corrispondente.
 Poké Ball speciale creata appositamente per catturare le Ultracreature. Non funziona bene con altre forme di vita.
@@ -857,7 +857,7 @@ Nettare ottenuto dai fiori delle aiuole di Viale Royale. Fa cambiare forma a una
 Nettare ottenuto dai fiori del Prato Poni. Fa cambiare forma a una determinata specie di Pokémon.
 Flauto il cui dolce suono esprime la riconoscenza degli esseri umani verso il Pokémon leggendario del sole.
 Flauto il cui dolce suono esprime la riconoscenza degli esseri umani verso il Pokémon leggendario della luna.
-- -[0x000A]-
+- - -
 Biglietto misterioso. C'è scritto: "Ti aspetto in una stanza del motel di Akala, lungo il Percorso 8".
 Bacca che facilita la cattura del Pokémon selvatico a cui viene data.
 Bacca che facilita di molto la cattura del Pokémon selvatico a cui viene data.
@@ -865,11 +865,11 @@ Bacca che calma il Pokémon selvatico a cui viene data.
 Bacca che calma molto il Pokémon selvatico a cui viene data.
 Bacca che rende più facile ottenere strumenti quando catturi il Pokémon a cui l'hai data.
 Bacca che rende molto più facile ottenere strumenti quando catturi il Pokémon a cui l'hai data.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
 Chiave della Palestra dell'Isola Cannella. È ornata da graziose decorazioni rosse.
 Biglietto per salire sulla Motonave Anna. C'è disegnata sopra una nave.
 Sonda che rivela i Pokémon invisibili, prodotta dalla Silph S.p.A.
@@ -895,9 +895,9 @@ Una bellissima conchiglia bianca, forse arrivata dalle regioni calde sulla scia 
 Una lettera scritta sulla foglia di un albero, dove le impronte di Pikachu sembrano formare delle frasi di senso compiuto.
 Una lettera scritta sulla foglia di un albero, dove le impronte di Eevee sembrano formare delle frasi di senso compiuto.
 Un piccolo mazzo di fiori composto con cura e amore per un Allenator'Allenatrice unicoa al mondo.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
 Profumo che attira Pokémon rari per un po' di tempo.
 Profumo che attira Pokémon rari. Il suo effetto dura più a lungo di quello del Profumo invito.
 Profumo che attira Pokémon rari. Il suo effetto dura più a lungo di quello del Superprofumo.

@@ -3,7 +3,7 @@ Assurément la Ball la plus performante. Elle permet de capturer à coup sûr un
 Une Ball très performante dont le taux de réussite est supérieur à celui de la Super Ball.
 Une Ball très performante dont le taux de réussite est supérieur à celui de la Poké Ball.
 Un objet semblable à une capsule, qui capture les Pokémon sauvages. Il suffit pour cela de le lancer comme une balle.
-- -[0x000A]-
+- - -
 Une Poké Ball un peu spéciale qui fonctionne particulièrement bien sur les Pokémon Eau ou Insecte.
 Une Poké Ball un peu spéciale qui fonctionne particulièrement bien sur les Pokémon sous-marins.
 Une Poké Ball un peu spéciale qui fonctionne particulièrement bien sur les Pokémon les plus faibles.
@@ -61,7 +61,7 @@ Augmente beaucoup la Vitesse pendant un combat. L'effet disparaît si le Pokémo
 Augmente beaucoup la Précision pendant un combat. L'effet disparaît si le Pokémon est retiré.
 Augmente beaucoup l'Attaque Spéciale pendant un combat. L'effet disparaît si le Pokémon est retiré.
 Augmente beaucoup la Défense Spéciale pendant un combat. L'effet disparaît si le Pokémon est retiré.
-- -[0x000A]-
+- - -
 Un objet qui attire les Pokémon. Permet de s'enfuir d'un combat contre un Pokémon sauvage.
 Un jouet en forme de flûte en verre bleu. Réveille un Pokémon endormi.
 Un jouet en forme de flûte en verre jaune. Soigne la confusion.
@@ -112,26 +112,26 @@ Une pierre étrange qui fait évoluer certaines espèces de Pokémon. Elle a la 
 Un objet très important qui empêche une tour en pierre de s'écrouler. Des voix en sortent parfois.
 Un mystérieux objet destiné à Giratina. Améliore les capacités de type Dragon et Spectre.
 Un thé aromatique légèrement amer. Il a des vertus désaltérantes.
-- -[0x000A]-
+- - -
 C'est un autographe de Major Bob, le Champion de l'Arène de Carmin sur Mer ! Il y a écrit « Good luck ! » dessus.
 Tenu par Genesect, ce module change la capacité Techno-Buster en une capacité de type Eau.
 Tenu par Genesect, ce module change la capacité Techno-Buster en une capacité de type Électrik.
 Tenu par Genesect, ce module change la capacité Techno-Buster en une capacité de type Feu.
 Tenu par Genesect, ce module change la capacité Techno-Buster en une capacité de type Glace.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 Une malle très légère qui contient vos costumes et ceux de votre partenaire.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 Un chocolat extrêmement sucré. Restaure 20 PV d'un Pokémon.
 Un orbe très brillant destiné à Dialga. Augmente la puissance des capacités de type Dragon et Acier.
 Un bel orbe luisant destiné à Palkia. Augmente la puissance des capacités de type Dragon et Eau.
@@ -424,8 +424,8 @@ Une énorme vague s'abat sur le champ de bataille.
 Le lanceur cogne l'ennemi de toutes ses forces. Permet aussi de déplacer des rochers.
 Le lanceur charge l'ennemi à une vitesse remarquable. Peut aussi l'apeurer. Permet aussi de franchir une cascade.
 Porte un coup de poing à l'ennemi qui peut baisser sa Défense. Peut aussi briser des rochers fissurés.
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
 Un sac contenant des objets utiles à l'exploration. Permet d'entrer dans le Souterrain.
 Un grand sac robuste utilisé pour transporter le butin obtenu dans la mine de charbon.
 La liste des règles de combat. Vous pouvez choisir les règles des combats en Link.
@@ -869,7 +869,7 @@ ITEMINFO_867
 ITEMINFO_868
 ITEMINFO_869
 ITEMINFO_870
-- -[0x000A]-
+- - -
 La clé de la porte de l'Arène de Cramois'Île. Elle est décorée en rouge.
 Un ticket nécessaire pour embarquer à bord de L'Océane. Il y a une image du navire dessus.
 Un appareil permettant de voir les Pokémon invisibles. Il est fabriqué par la Sylphe SARL.

@@ -3,7 +3,7 @@ The best Poké Ball with the ultimate level of performance. With it, you will ca
 An ultra-high-performance Poké Ball that provides a higher success rate for catching Pokémon than a Great Ball.
 A good, high-performance Poké Ball that provides a higher success rate for catching Pokémon than a standard Poké Ball.
 A device for catching wild Pokémon. It's thrown like a ball at a Pokémon, comfortably encapsulating its target.
-- -[0x000A]-
+- - -
 A somewhat different Poké Ball that is more effective when attempting to catch Water- or Bug-type Pokémon.
 A somewhat different Poké Ball that works especially well when catching Pokémon that live underwater.
 A somewhat different Poké Ball that becomes more effective the lower the level of the wild Pokémon.
@@ -61,7 +61,7 @@ An item that sharply boosts the Speed stat of a Pokémon during a battle. It wea
 An item that sharply boosts the accuracy of a Pokémon during a battle. It wears off once the Pokémon is withdrawn.
 An item that sharply boosts the Sp. Atk stat of a Pokémon during a battle. It wears off once the Pokémon is withdrawn.
 An item that sharply boosts the Sp. Def stat of a Pokémon during a battle. It wears off once the Pokémon is withdrawn.
-- -[0x000A]-
+- - -
 A toy that attracts the attention of a Pokémon. It guarantees escape from any battle with wild Pokémon.
 A flute made from blue glass. It awakens sleeping Pokémon.
 A flute made from yellow glass. It snaps Pokémon out of confusion.
@@ -112,26 +112,26 @@ A peculiar stone that can make certain species of Pokémon evolve. It's as round
 A vital item that is needed to keep a stone tower from collapsing. Voices can be heard from it occasionally.
 A glowing orb to be held by Giratina. It boosts the power of Dragon- and Ghost-type moves when it is held.
 Aromatic tea that has a slightly bitter taste. It soothes a dry throat.
-- -[0x000A]-
+- - -
 The autograph you got from the Vermilion City Gym Leader, Lt. Surge. He wrote, "Good luck!"
 A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Water type.
 A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Electric type.
 A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Fire type.
 A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Ice type.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 A very light trunk that can carry clothing for you and your Pokémon.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 A piece of cloyingly sweet chocolate. When consumed, it restores 20 HP to an injured Pokémon.
 A brightly gleaming orb to be held by Dialga. It boosts the power of Dragon- and Steel-type moves when it is held.
 A beautifully glowing orb to be held by Palkia. It boosts the power of Dragon- and Water-type moves when it is held.
@@ -424,8 +424,8 @@ The user attacks everything around it by swamping its surroundings with a giant 
 The target is slugged with a punch thrown at maximum power. This can also be used to move heavy boulders.
 The user charges at the target and may make it flinch. This can also be used to climb a waterfall.
 The user attacks with a punch. This may also lower the target's Defense stat. This move can also shatter rocks in the field.
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
 A bag filled with convenient tools for exploring. It provides access to the Underground in the Sinnoh region.
 A sturdy, spacious bag that is used to carry any treasures or loot obtained in the coal mine.
 It lists the rules for holding battles. For Link Battles, you may choose which set of rules you wish to use.
@@ -835,10 +835,10 @@ It converts Z-Power into crystals that upgrade Eevee's Last Resort to an exclusi
 It converts Z-Power into crystals that upgrade Mew's Psychic to an exclusive Z-Move.
 It converts Z-Power into crystals that upgrade a Thunderbolt by Pikachu in a cap to an exclusive Z-Move.
 This is a crystallized form of Z-Power. It upgrades a Thunderbolt by Pikachu in a cap to a Z-Move.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
 A bag to carry ingredients gathered during Mallow's trial in the jungle.
 A fishing rod made by Captain Lana. Cast a line over piles of underwater rocks to fish for wild aquatic Pokémon.
 The mask that belongs to The Masked Royal. This pro wrestler apparently sews his mask on a machine himself.
@@ -846,7 +846,7 @@ A ticket that allows you to host a mission in Festival Plaza.
 A stone entrusted by a Pokémon that has been venerated as a guardian deity in the Alola region. There is said to be some secret in how it sparkles.
 Using it makes wild Pokémon call for help a number of times. If held by a Pokémon, it boosts Speed when intimidated. It can be used only once.
 An item to store Zygarde Cores and Cells. You can also use it to teach Zygarde moves.
-- -[0x000A]-
+- - -
 A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable snowflake pattern.
 By entering certain numbers on this pager, you can summon Ride Pokémon in an instant.
 A special Poké Ball designed to catch Ultra Beasts. It has a low success rate for catching others.
@@ -857,7 +857,7 @@ A flower nectar obtained from the flowering shrubs on Royal Avenue. It changes t
 A flower nectar obtained at Poni Meadow. It changes the form of certain species of Pokémon.
 It is said that the tones it produces were offered up as an expression of gratitude to the Legendary Pokémon of the sun.
 It is said that the tones it produces were offered up as an expression of gratitude to the Legendary Pokémon of the moon.
-- -[0x000A]-
+- - -
 A mysterious card. Written on it is a request for you to go to a guest room in an Akala motel on Route 8.
 A Berry that makes it easier to catch Pokémon when given to them.
 A Berry that makes it drastically easier to catch Pokémon when given to them.
@@ -865,11 +865,11 @@ A Berry that calms wild Pokémon you're trying to catch when given to them.
 A Berry that calms wild Pokémon you're trying to catch drastically when given to them.
 A Berry that makes you more likely to get an item when given to Pokémon you're trying to catch.
 A Berry that makes you drastically more likely to get an item when given to Pokémon you're trying to catch.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
 The key that unlocks the front door of the Pokémon Gym on Cinnabar Island. It has a red decoration.
 The ticket required to board the S.S. Anne. It has a drawing of a ship on it.
 A scope that lets you see what cannot usually be seen. It is made by Silph Co.
@@ -895,9 +895,9 @@ A beautiful white shell that may have drifted from a sea in a warm region.
 A letter written on a leaf. Something is written using Pikachu's footprints.
 A letter written on a leaf. Something is written using Eevee's footprints.
 A small bouquet that was made with heart and soul for a single Trainer.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
 A glass bottle of perfume that makes rare Pokémon more likely to appear.
 A glass bottle of perfume that makes rare Pokémon more likely to appear. It lasts longer than a Lure.
 A glass bottle of perfume that makes rare Pokémon more likely to appear. It lasts longer than a Super Lure.

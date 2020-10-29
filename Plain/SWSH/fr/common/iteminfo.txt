@@ -112,26 +112,26 @@ Une pierre étrange qui fait évoluer certaines espèces de Pokémon. Elle a la 
 Un objet très important qui empêche une tour en pierre de s'écrouler. Des voix en sortent parfois.
 Un mystérieux objet destiné à Giratina. Améliore les capacités de types Dragon et Spectre.
 Un thé aromatique légèrement amer. Il a des vertus désaltérantes.
-- -[0x000A]-
+- - -
 C'est un autographe de Major Bob, le Champion de l'Arène de Carmin sur Mer ! Il y a écrit « Good luck ! » dessus.
 Tenu par Genesect, ce module change la capacité Techno-Buster en une capacité de type Eau.
 Tenu par Genesect, ce module change la capacité Techno-Buster en une capacité de type Électrik.
 Tenu par Genesect, ce module change la capacité Techno-Buster en une capacité de type Feu.
 Tenu par Genesect, ce module change la capacité Techno-Buster en une capacité de type Glace.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 Une malle très légère qui contient vos costumes et ceux de votre partenaire.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 Un chocolat extrêmement sucré. Restaure 20 PV d'un Pokémon.
 Un orbe très brillant destiné à Dialga. Augmente la puissance des capacités de types Dragon et Acier.
 Un bel orbe luisant destiné à Palkia. Augmente la puissance des capacités de types Dragon et Eau.
@@ -418,14 +418,14 @@ Pendant cinq tours, les Pokémon au sol ne peuvent pas subir d'altération de st
 Pendant cinq tours, le terrain se charge d'électricité. Les Pokémon au sol ne peuvent pas s'endormir et la puissance des capacités de type Électrik augmente.
 Pendant cinq tours, les Pokémon au sol ne peuvent plus subir d'attaques prioritaires et la puissance des capacités de type Psy augmente.
 Attaque avec des flammes brûlantes soufflées de la bouche du lanceur. Diminue l'Attaque Spéciale de l'ennemi.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 Un sac contenant des objets utiles à l'exploration. Permet d'entrer dans le Souterrain.
 Un grand sac robuste utilisé pour transporter le butin obtenu dans la mine de charbon.
 La liste des règles de combat. Permet de choisir les règles des combats en réseau.

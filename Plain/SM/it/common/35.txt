@@ -111,27 +111,27 @@ Pietra particolare che fa evolvere determinate specie di Pokémon. È luccicante
 Pietra particolare che fa evolvere determinate specie di Pokémon. È a forma di uovo.
 Strumento importante che impedisce il crollo di un pozzo di pietra. A volte dal suo interno provengono delle voci.
 Poliedro splendente da dare a Giratina. Aumenta la potenza delle mosse di tipo Drago e Spettro.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
 Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Acqua.
 Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Elettro.
 Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Fuoco.
 Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Ghiaccio.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 Cioccolato molto dolce. Restituisce 20 PS a un Pokémon.
 Sfera molto luminosa da dare a Dialga. Potenzia le mosse di tipo Drago e Acciaio.
 Sfera splendente da dare a Palkia. Potenzia le mosse di tipo Drago e Acqua.
@@ -424,8 +424,8 @@ Un'onda enorme sommerge il campo di lotta, colpendo tutti i Pokémon intorno a c
 Colpisce il nemico con un'enorme energia. Fuori dalla lotta si usa per spostare i massi.
 Carica il nemico a grande velocità e può farlo tentennare. Fuori dalla lotta fa risalire le cascate.
 Chi la usa colpisce il bersaglio con un pugno che può anche ridurne la Difesa. Fuori dalla lotta permette di frantumare le rocce.
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
 Utilissimo kit contenente strumenti per l'esplorazione. Permette di percorrere i tunnel sotterranei.
 Una sacca spaziosa e resistente usata per trasportare il bottino ottenuto nella miniera.
 Elenca le regole per le lotte. Nelle lotte in link puoi scegliere diversi set di regole da utilizzare.
@@ -835,10 +835,10 @@ Permette di creare cristalli carichi di Potere Z che consentono a Eevee di trasf
 Permette di creare cristalli carichi di Potere Z che consentono a Mew di trasformare la mossa Psichico in una mossa Z.
 Permette di creare cristalli carichi di Potere Z che consentono a Pikachu con il berretto di trasformare la mossa Fulmine in una mossa Z.
 Cristallo in cui è immagazzinato il Potere Z. Consente di trasformare la mossa Fulmine di Pikachu con il berretto in una mossa Z.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
 Sacchetto in cui mettere gli ingredienti trovati nella Giungla Ombrosa, necessari per la prova di Ibis.
 Canna da pesca con un Amo realizzato dal Capitano Suiren. Permette di pescare i Pokémon che si nascondono sott'acqua tra le rocce.
 Maschera di Mister Royale. Sembra che il famoso lottatore l'abbia realizzata personalmente.
@@ -846,7 +846,7 @@ Biglietto che permette di dare inizio a un minigioco nel Festiplaza.
 Pietra ricevuta dal Pokémon protettore di Alola. Dietro la sua lucentezza si nasconde un segreto.
 Data a un Pokémon, aumenta la Velocità se subisce Prepotenza. Se usata, aumenta la probabilità che i Pokémon selvatici chiamino rinforzi, quindi sparisce.
 Strumento che permette di raccogliere i nuclei e le cellule di Zygarde. Grazie ad esso è anche possibile insegnare delle mosse a questo Pokémon.
-- -[0x000A]-
+- - -
 Pietra particolare che fa evolvere determinate specie di Pokémon. Si intravede l'immagine di un fiocco di neve.
 Dispositivo che permette di chiamare i Pokémon del Poképassaggio digitando il numero corrispondente.
 Poké Ball speciale creata appositamente per catturare le Ultracreature. Non funziona bene con altre forme di vita.
@@ -857,51 +857,51 @@ Nettare ottenuto dai fiori delle aiuole di Viale Royale. Fa cambiare forma a una
 Nettare ottenuto dai fiori del Prato Poni. Fa cambiare forma a una determinata specie di Pokémon.
 Flauto il cui dolce suono esprime la riconoscenza degli esseri umani verso il Pokémon leggendario del sole.
 Flauto il cui dolce suono esprime la riconoscenza degli esseri umani verso il Pokémon leggendario della luna.
-- -[0x000A]-
+- - -
 Biglietto misterioso. C'è scritto: "Ti aspetto in una stanza del motel di Akala, lungo il Percorso 8".
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 Se un Pokémon ha questo strumento, l'effetto di una sua mossa o abilità che modifica il campo di lotta durerà più a lungo.
 Elimina gli effetti causati da attacchi diretti subiti dal Pokémon.
 Strumento da dare a un Pokémon. Fa aumentare la Difesa quando il terreno di lotta è nello stato di Campo Elettrico.
 Strumento da dare a un Pokémon. Fa aumentare la Difesa Speciale quando il terreno di lotta è nello stato di Campo Psichico.
 Strumento da dare a un Pokémon. Fa aumentare la Difesa Speciale quando il terreno di lotta è nello stato di Campo Nebbioso.
 Strumento da dare a un Pokémon. Fa aumentare la Difesa quando il terreno di lotta è nello stato di Campo Erboso.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 ROM contenente dati sul tipo Lotta in formato digitale. Permette a un certo Pokémon di cambiare tipo.
 ROM contenente dati sul tipo Volante in formato digitale. Permette a un certo Pokémon di cambiare tipo.
 ROM contenente dati sul tipo Veleno in formato digitale. Permette a un certo Pokémon di cambiare tipo.

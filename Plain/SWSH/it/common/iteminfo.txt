@@ -112,26 +112,26 @@ Pietra particolare che fa evolvere determinate specie di Pokémon. È a forma di
 Strumento importante che impedisce il crollo di un pozzo di pietra. A volte dal suo interno provengono delle voci.
 Poliedro splendente da dare a Giratina. Aumenta la potenza delle mosse di tipo Drago e Spettro.
 Un tè fragrante dal sapore amarognolo. Molto dissetante.
-- -[0x000A]-
+- - -
 È l'autografo di Lt. Surge, il Capopalestra di Aranciopoli. C'è scritto "Good luck!".
 Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Acqua.
 Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Elettro.
 Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Fuoco.
 Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Ghiaccio.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 Una valigia leggerissima che può contenere tutti i capi d'abbigliamento di un Allenatore e del suo compagno d'avventura.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 Cioccolato molto dolce. Restituisce 20 PS a un Pokémon.
 Sfera molto luminosa da dare a Dialga. Potenzia le mosse di tipo Drago e Acciaio.
 Sfera splendente da dare a Palkia. Potenzia le mosse di tipo Drago e Acqua.
@@ -418,14 +418,14 @@ Per cinque turni il terreno entra nello stato di Campo Nebbioso: i Pokémon a te
 Per cinque turni il terreno entra nello stato di Campo Elettrico: i Pokémon a terra non si addormentano e la potenza delle mosse di tipo Elettro aumenta.
 Per cinque turni il terreno entra nello stato di Campo Psichico: i Pokémon a terra non subiscono mosse ad alta priorità e le mosse di tipo Psico sono potenziate.
 Colpisce il bersaglio soffiandogli contro delle fiammate incredibilmente roventi, riducendone l'Attacco Speciale.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 Utilissimo kit contenente strumenti per l'esplorazione. Permette di percorrere i tunnel sotterranei.
 Una sacca spaziosa e resistente usata per trasportare il bottino ottenuto nella miniera.
 Elenca le regole per le lotte. Nelle lotte in link puoi scegliere diversi set di regole da utilizzare.
@@ -835,10 +835,10 @@ Permette di creare cristalli carichi di Potere Z che consentono a Eevee di trasf
 Permette di creare cristalli carichi di Potere Z che consentono a Mew di trasformare la mossa Psichico in una mossa Z.
 Permette di creare cristalli carichi di Potere Z che consentono a Pikachu con il berretto di trasformare la mossa Fulmine in una mossa Z.
 Cristallo in cui è immagazzinato il Potere Z. Consente di trasformare la mossa Fulmine di Pikachu con il berretto in una mossa Z.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
 Sacchetto in cui mettere gli ingredienti trovati nella Giungla Ombrosa, necessari per la prova di Ibis.
 Canna da pesca con un Amo realizzato dal Capitano Suiren. Permette di pescare i Pokémon che si nascondono sott'acqua tra le rocce.
 Maschera di Mister Royale. Sembra che il famoso lottatore l'abbia realizzata personalmente.
@@ -846,7 +846,7 @@ Biglietto che permette di dare inizio a un minigioco nel Festiplaza.
 Pietra ricevuta dal Pokémon protettore di Alola. Dietro la sua lucentezza si nasconde un segreto.
 Data a un Pokémon, aumenta la Velocità se subisce Prepotenza.
 Strumento che permette di raccogliere i nuclei e le cellule di Zygarde. Grazie ad esso è anche possibile insegnare delle mosse a questo Pokémon.
-- -[0x000A]-
+- - -
 Pietra particolare che fa evolvere determinate specie di Pokémon. Si intravede l'immagine di un fiocco di neve.
 Dispositivo che permette di chiamare i Pokémon del Poképassaggio digitando il numero corrispondente.
 Poké Ball speciale con cui è difficile catturare Pokémon.
@@ -857,7 +857,7 @@ Nettare ottenuto dai fiori delle aiuole di Viale Royale. Fa cambiare forma a una
 Nettare ottenuto dai fiori del Prato Poni. Fa cambiare forma a una determinata specie di Pokémon.
 Flauto il cui dolce suono esprime la riconoscenza degli esseri umani verso il Pokémon leggendario del sole.
 Flauto il cui dolce suono esprime la riconoscenza degli esseri umani verso il Pokémon leggendario della luna.
-- -[0x000A]-
+- - -
 Biglietto misterioso. C'è scritto: "Ti aspetto in una stanza del motel di Akala, lungo il Percorso 8".
 Bacca che facilita la cattura del Pokémon selvatico a cui viene data.
 Bacca che facilita di molto la cattura del Pokémon selvatico a cui viene data.
@@ -865,11 +865,11 @@ Bacca che calma il Pokémon selvatico a cui viene data.
 Bacca che calma molto il Pokémon selvatico a cui viene data.
 Bacca che rende più facile ottenere strumenti quando catturi il Pokémon a cui l'hai data.
 Bacca che rende molto più facile ottenere strumenti quando catturi il Pokémon a cui l'hai data.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
 Chiave della Palestra dell'Isola Cannella. È ornata da graziose decorazioni rosse.
 Biglietto per salire sulla Motonave Anna. C'è disegnata sopra una nave.
 Sonda che rivela i Pokémon invisibili, prodotta dalla Silph S.p.A.
@@ -895,9 +895,9 @@ Una bellissima conchiglia bianca, forse arrivata dalle regioni calde sulla scia 
 Una lettera scritta sulla foglia di un albero, dove le impronte di Pikachu sembrano formare delle frasi di senso compiuto.
 Una lettera scritta sulla foglia di un albero, dove le impronte di Eevee sembrano formare delle frasi di senso compiuto.
 Un piccolo mazzo di fiori composto con cura e amore per un Allenator'Allenatrice unicoa al mondo.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
 Profumo che attira Pokémon rari per un po' di tempo.
 Profumo che attira Pokémon rari. Il suo effetto dura più a lungo di quello del Profumo invito.
 Profumo che attira Pokémon rari. Il suo effetto dura più a lungo di quello del Superprofumo.
@@ -1056,32 +1056,32 @@ Una caramella piena zeppa di energia. Aumenta tutte le statistiche di determinat
 Una caramella piena zeppa di energia. Aumenta tutte le statistiche di determinati Pokémon.
 Una caramella piena zeppa di energia. Aumenta tutte le statistiche di determinati Pokémon.
 Una caramella piena zeppa di energia. Aumenta tutte le statistiche di determinati Pokémon.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 Lettera necessaria per partecipare alla Sfida delle Palestre.
 Permette di accedere in qualsiasi momento ai Box del PC del Centro Pokémon per depositare o ritirare i Pokémon.
 Pietra dal potere misterioso che si può trovare nella regione di Galar. Si dice che possa avverare i desideri di chi la trova.
 Contiene una Desiostella e quando si trova vicino a un punto energetico emette una luce che permette ai Pokémon di dynamaxizzarsi.
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
 Permette di pescare varie specie di Pokémon in qualsiasi specchio d'acqua.
 Una bicicletta che permette di mettere il turbo grazie al Rotom che è entrato nel suo motore.
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
 Uno degli ingredienti che puoi usare per cucinare in campeggio. Questo tipo di salsiccia va mangiato bollito.
 Uno degli ingredienti che puoi usare per cucinare in campeggio. Queste lattine vendute da Gustavo sono particolarmente amate dagli abitanti di Galar.
 Uno degli ingredienti che puoi usare per cucinare in campeggio. Queste scatolette vendute da Bach sono particolarmente amate dagli abitanti di Galar.
@@ -1099,8 +1099,8 @@ Uno degli ingredienti che puoi usare per cucinare in campeggio. Un assortimento 
 Uno degli ingredienti che puoi usare per cucinare in campeggio. È passato del tempo dal momento della frittura, per cui è un po' untuoso.
 Uno degli ingredienti che puoi usare per cucinare in campeggio. Basta una di queste Uova sode per creare un piatto d'alta qualità.
 Permette di montare una tenda e cucinare nelle Terre Selvagge o in altri luoghi adatti al campeggio.
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
 Si racconta che in passato un eroe riuscì a respingere la calamità servendosi di questa spada. Ora è tutta arrugginita e rovinata.
 Si racconta che in passato un eroe riuscì a respingere la calamità servendosi di questo scudo. Ora è tutto arrugginito e rovinato.
 Parte del fossile di un Pokémon preistorico che solcava i cieli. Nessuno sa quale fosse il suo aspetto.
@@ -1266,16 +1266,16 @@ Uno degli ingredienti per cucinare in campeggio. Basta un pizzico di questa spez
 Se ne lanci alcuni dentro una tana di Pokémon possono far comparire un Pokémon Dynamax.
 La presenza di Rotom non permette solo di usare il turbo, ma anche di correre sulla superficie dell'acqua.
 Misterioso amuleto che non oscilla molto. Aumenta la probabilità che si verifichi una cattura critica.
-- -[0x000A]-
+- - -
 Una lettera, indirizzata a un bambino, che ha l'aria di essere un po' consumata dal tempo. L'hai ricevuta in consegna da una bambina.
 Gli autografi di tutti i membri della banda più carismatica di Galar, i "Maximizers".
 Pubblicazione della Professoressa Sonia. Raccoglie tutte le ultime scoperte riguardanti le leggende di Galar in un libro scorrevole e informativo.
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
-- -[0x000A]-
+- - -
+- - -
+- - -
+- - -
+- - -
+- - -
 Contiene una lista degli apparecchi che piacciono a Rotom. Può essere usato per far entrare Rotom nel motore degli elettrodomestici o per farlo uscire.
 Strumento che fa apparire <var> nella dynatana della Torre Diroccata, nelle Terre Selvagge, fino alla fine del giorno in cui viene usato.
 Strumento che fa apparire <var> nella dynatana della Torre Diroccata, nelle Terre Selvagge, fino alla fine del giorno in cui viene usato.
