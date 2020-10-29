@@ -1,0 +1,11 @@
+{0xBDFF:0x0000}
+Cancelar
+{0xBDFF:0x0002}
+Cerrar
+Sí
+No
+{0xBDFF:0x0006}
+¿Quieres recargar la batería a cambio de[0x000A]Cupones TP?
+{0xBDFF:0x0008}
+¡Batería llena!
+La batería no se puede recargar porque ya está a plena[0x000A]capacidad.

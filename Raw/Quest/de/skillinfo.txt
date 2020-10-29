@@ -1,0 +1,244 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+{0xBDFF:0x001A}
+{0xBDFF:0x001B}
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}
+{0xBDFF:0x001E}
+{0xBDFF:0x001F}
+{0xBDFF:0x0020}
+{0xBDFF:0x0021}
+{0xBDFF:0x0022}
+{0xBDFF:0x0023}
+Der Anwender speit für eine[0x000A]Weile einen langen Strom aus[0x000A]Flammen. Getroffene Gegner[0x000A]nehmen stetig Schaden.[0x000A]Fügt Gegnern manchmal[0x000A]Verbrennungen zu.
+Der Anwender entfesselt eine[0x000A]große Welle und reitet darauf.[0x000A]Von der Welle erfasste Gegner[0x000A]erleiden Schaden.
+Der Anwender lässt einen Blitz[0x000A]vor sich einschlagen, der bei[0x000A]Gegnern in der Nähe Schaden[0x000A]verursacht. Paralysiert Gegner[0x000A]manchmal.
+Der Anwender pflanzt vor sich[0x000A]parasitäre Samen in den Boden.[0x000A]Gegner, die sich in dem Bereich[0x000A]aufhalten, nehmen stetig Schaden.[0x000A]Der Anwender absorbiert einen Teil[0x000A]des ausgeteilten Schadens und[0x000A]füllt damit seine eigenen KP auf.
+Der Anwender sammelt all[0x000A]seine Kraft und lässt einen[0x000A]verheerenden Lichtstrahl[0x000A]auf seine Gegner los.[0x000A]Getroffene Gegner erleiden[0x000A]sehr großen Schaden.
+Der Anwender verstreut vor sich[0x000A]heiße Glut, die beim Aufprall auf[0x000A]den Boden in drei Richtungen[0x000A]fliegt und getroffenen Gegnern[0x000A]schadet. Fügt Gegnern[0x000A]manchmal Verbrennungen zu.
+Der Anwender erschafft vor sich[0x000A]einen feurigen Pfad und stürmt[0x000A]über diesen auf Gegner zu,[0x000A]um Schaden zu verursachen.[0x000A]Fügt Gegnern manchmal[0x000A]Verbrennungen zu.
+Der Anwender erzeugt Flammen[0x000A]und schießt sie als Wirbel um[0x000A]sich, um getroffenen Gegnern[0x000A]zu schaden. Fügt Gegnern[0x000A]manchmal Verbrennungen zu.
+Der Anwender schlägt mit einer[0x000A]feurigen Faust zu und verursacht[0x000A]Schaden bei Gegnern direkt vor[0x000A]sich. Fügt Gegnern manchmal[0x000A]Verbrennungen zu.
+Der Anwender erzeugt um sich[0x000A]herum eine riesige Flamme und[0x000A]verursacht damit bei Gegnern[0x000A]in der Umgebung Schaden.[0x000A]Fügt Gegnern manchmal[0x000A]Verbrennungen zu.
+Der Anwender greift Gegner[0x000A]direkt vor sich mit unheimlichen[0x000A]Flammen an. Fügt Gegnern oft[0x000A]Verbrennungen zu.
+Der Anwender bündelt die Kraft[0x000A]des Feuers und erhöht so für[0x000A]eine Weile den Schaden, den[0x000A]er anrichtet.
+Der Anwender sprüht Blasen[0x000A]in drei Richtungen und verursacht[0x000A]Schaden bei getroffenen Gegnern.[0x000A]Senkt manchmal die[0x000A]Geschwindigkeit der Gegner.
+Der Anwender nähert sich[0x000A]Gegnern vor sich und lässt[0x000A]Säulen aus Wasser unter ihnen[0x000A]aus dem Boden schießen, die[0x000A]bei getroffenen Gegnern[0x000A]Schaden anrichten.
+Der Anwender lässt vier Säulen[0x000A]aus Wasser vor sich aus dem[0x000A]Boden schießen, die getroffenen[0x000A]Gegnern schaden.
+Der Anwender erzeugt um sich[0x000A]herum einen großen Strudel, der[0x000A]bei Gegnern in der Umgebung[0x000A]Schaden verursacht.
+Der Anwender zieht sich in[0x000A]seinen harten Panzer zurück[0x000A]und senkt so für eine Weile[0x000A]den Schaden, den er erleidet.
+{0xBDFF:0x0035}
+Der Anwender umgibt sich mit[0x000A]einem Schleier aus Wasser und[0x000A]füllt damit seine KP wieder auf.
+Der Anwender stürmt rasant[0x000A]nach vorn und verursacht dabei[0x000A]Schaden bei Gegnern vor sich.
+Der Anwender speichert[0x000A]Elektrizität und zielt damit auf[0x000A]Gegner vor sich, um Schaden[0x000A]zu verursachen. Paralysiert[0x000A]Gegner manchmal.
+Der Anwender entfesselt um[0x000A]sich herum eine riesige Ladung[0x000A]von Elektrizität und verursacht[0x000A]bei Gegnern in der Umgebung[0x000A]Schaden. Paralysiert Gegner[0x000A]manchmal.
+Der Anwender hüllt sich in[0x000A]Elektrizität und greift Gegner[0x000A]vor sich an. Paralysiert Gegner[0x000A]manchmal.
+Der Anwender speichert[0x000A]Elektrizität in seiner Faust und[0x000A]versetzt Gegnern direkt vor[0x000A]sich einen lähmenden Hieb.[0x000A]Paralysiert Gegner manchmal.
+Der Anwender sammelt[0x000A]Elektrizität in seinem Körper[0x000A]und erhöht so für eine Weile[0x000A]den Schaden, den er anrichtet,[0x000A]sowie seine Resistenz gegen[0x000A]negative Effekte.
+Der Anwender sammelt unter[0x000A]sich elektrische Energie und[0x000A]erhöht so für eine Weile den[0x000A]Schaden, den er anrichtet.
+Der Anwender legt direkt vor[0x000A]sich ein Netz aus Elektrizität[0x000A]aus und senkt für eine Weile[0x000A]die Geschwindigkeit getroffener[0x000A]Gegner.
+Der Anwender fügt Gegnern[0x000A]mit scharfen wirbelnden[0x000A]Blättern Schaden zu. Hohe[0x000A]Volltrefferquote.
+Der Anwender sammelt Licht[0x000A]und feuert dieses auf Gegner[0x000A]vor sich ab. Getroffene Gegner[0x000A]erleiden Schaden.
+Der Anwender nutzt Ranken,[0x000A]um Gegner vor sich wie mit[0x000A]Peitschenhieben anzugreifen.[0x000A]Getroffene Gegner erleiden[0x000A]Schaden.
+Der Anwender dreht sich im[0x000A]Kreis und wirbelt Blütenblätter[0x000A]umher. Richtet Schaden bei[0x000A]Gegnern in der Umgebung an.
+Der Anwender verstreut direkt[0x000A]vor sich lähmenden Puder.[0x000A]Paralysiert oft getroffene[0x000A]Gegner.
+Der Anwender erzeugt direkt[0x000A]vor sich eine einschläfernde[0x000A]Sporenwolke. Versetzt Gegner[0x000A]oft in Schlaf.
+Der Anwender greift Gegner[0x000A]vor sich an und verursacht[0x000A]Schaden. Ein Teil des[0x000A]ausgeteilten Schadens wird[0x000A]vom Anwender absorbiert, um[0x000A]seine eigenen KP aufzufüllen.
+Der Anwender absorbiert die[0x000A]Kraft des Lichtes und erhöht[0x000A]für eine Weile den Schaden,[0x000A]den er anrichtet.
+{0xBDFF:0x0047}
+Der Anwender entfesselt vor[0x000A]sich einen eiskalten Strahl,[0x000A]der bei Gegnern Schaden[0x000A]verursacht. Friert Gegner[0x000A]manchmal ein.
+Der Anwender lässt vor sich[0x000A]Eiszapfen niederprasseln, die[0x000A]getroffenen Gegnern schaden.[0x000A]Friert Gegner manchmal ein.
+Der Anwender dreht sich und[0x000A]erzeugt um sich herum einen[0x000A]Schneesturm. Gegner in der[0x000A]Umgebung erleiden Schaden.[0x000A]Friert Gegner manchmal ein.
+Der Anwender speichert Kälte[0x000A]in seiner Faust und versetzt[0x000A]Gegnern direkt vor sich einen[0x000A]eisigen Hieb. Friert Gegner[0x000A]manchmal ein.
+{0xBDFF:0x004C}
+Der Anwender hüllt sich in[0x000A]einen Schleier aus Licht und[0x000A]senkt so für eine Weile den[0x000A]Schaden, den er nimmt.
+{0xBDFF:0x004E}
+Der Anwender stößt eiskalte[0x000A]Windböen nach vorne aus und[0x000A]verursacht Schaden bei[0x000A]Gegnern. Senkt manchmal die[0x000A]Geschwindigkeit der Gegner.
+Der Anwender versetzt Gegnern[0x000A]direkt vor sich einen Hieb mit[0x000A]seiner steinharten Faust und[0x000A]verursacht Schaden. Erhöht[0x000A]oft den Schaden, den der[0x000A]Anwender anrichtet.
+Der Anwender visiert Gegner[0x000A]vor sich an, schlägt mit beiden[0x000A]Armen zu und verursacht so[0x000A]Schaden. Hohe Volltrefferquote.
+Der Anwender visiert Gegner[0x000A]vor sich an, rollt über sie[0x000A]hinweg und richtet so in seiner[0x000A]Umgebung Schaden an.
+Der Anwender visiert Gegner[0x000A]vor sich an, springt hoch und[0x000A]richtet aus dem Sprung mit[0x000A]dem Knie Schaden an.[0x000A]Der Anwender erleidet durch[0x000A]den Rückstoß selbst Schaden.
+Der Anwender dreht sich im[0x000A]Kreis und teilt dabei Tritte aus.[0x000A]Gegner in der Umgebung[0x000A]erleiden Schaden.
+Der Anwender versetzt Gegnern[0x000A]direkt vor sich mit aller Kraft[0x000A]einen Schlag. Verwirrt Gegner[0x000A]manchmal.
+Der Anwender spannt all seine[0x000A]Muskeln an. Erhöht für eine[0x000A]Weile den Schaden, den er[0x000A]anrichtet, und senkt gleichzeitig[0x000A]den Schaden, den er nimmt.
+Der Anwender versetzt Gegnern[0x000A]direkt vor sich einen Hieb und[0x000A]verursacht Schaden. Dabei[0x000A]zieht er Gegnern mit seiner[0x000A]Faust Kraft ab, mit der er seine[0x000A]eigenen KP auffüllt.
+Der Anwender stößt gewaltige[0x000A]Energie aus, fügt Gegnern in[0x000A]weiter Umgebung Schaden zu[0x000A]und zerteilt dabei Bäume und[0x000A]Felsen.
+Der Anwender schießt giftige[0x000A]Stacheln auf Gegner vor sich.[0x000A]Vergiftet getroffene Gegner[0x000A]manchmal.
+Der Anwender wirft giftigen[0x000A]Matsch auf den Boden, der[0x000A]dort zerplatzt und bei Gegnern[0x000A]in der Umgebung Schaden[0x000A]verursacht. Vergiftet Gegner[0x000A]manchmal.
+Der Anwender verbreitet giftige[0x000A]Gase in der Luft um sich herum,[0x000A]wodurch Gegner Schaden[0x000A]erleiden. Vergiftet Gegner[0x000A]manchmal.
+Der Anwender verflüssigt seine[0x000A]eigenen Körperzellen. Senkt für[0x000A]eine Weile den Schaden, den[0x000A]er nimmt.
+Der Anwender versprüht ein[0x000A]potentes Gift um sich herum[0x000A]und vergiftet damit oft[0x000A]getroffene Gegner.
+Der Anwender verstreut vor[0x000A]sich giftigen Puder. Vergiftet[0x000A]oft getroffene Gegner.
+Der Anwender verteilt vor sich[0x000A]giftige Substanzen. Erhöht[0x000A]manchmal den Schaden,[0x000A]den Gegner nehmen.
+Der Anwender wirft Matsch in[0x000A]drei Richtungen. Getroffene[0x000A]Gegner erleiden Schaden.[0x000A]Senkt manchmal die[0x000A]Geschwindigkeit der Gegner.
+Der Anwender wirft einen aus[0x000A]Knochen gefertigten Bumerang.[0x000A]Verursacht Schaden bei[0x000A]getroffenen Gegnern.
+Der Anwender wirft vor sich[0x000A]Schlamm auf den Boden, der[0x000A]dort zerplatzt und bei Gegnern[0x000A]in der Umgebung Schaden[0x000A]verursacht. Erhöht manchmal[0x000A]den Schaden, den diese[0x000A]nehmen.
+Der Anwender verteilt Stacheln[0x000A]vor sich auf dem Boden.[0x000A]Gegner, die auf diese treten,[0x000A]nehmen Schaden.
+Der Anwender verursacht ein[0x000A]Erdbeben und Gegner in der[0x000A]Nähe nehmen Schaden.
+Der Anwender gräbt ein Loch[0x000A]und bewegt sich unter der[0x000A]Erde auf Gegner vor sich zu.[0x000A]Er springt dann aus dem Boden[0x000A]hervor und verursacht Schaden.
+Der Anwender sammelt Sand[0x000A]auf und füllt so seine KP ein[0x000A]wenig auf.
+{0xBDFF:0x0067}
+Der Anwender greift mit seinem[0x000A]harten Schnabel Gegner direkt[0x000A]vor sich an und fügt ihnen[0x000A]Schaden zu.
+Der Anwender fliegt empor und[0x000A]visiert weit entfernte Gegner[0x000A]vor sich an, bevor er sich auf[0x000A]sie stürzt und ihnen Schaden[0x000A]zufügt.
+Der Anwender fliegt empor,[0x000A]um sich in Stellung zu bringen[0x000A]und fügt dann Gegnern direkt[0x000A]vor sich Schaden zu, indem er[0x000A]sich auf sie stürzt.[0x000A]Hohe Volltrefferquote.
+Der Anwender erzeugt vor sich[0x000A]einen kräftigen Wind.[0x000A]Getroffene Gegner in der[0x000A]Umgebung nehmen Schaden.
+Der Anwender erzeugt um sich[0x000A]herum einen tosenden Wind.[0x000A]Gegner in der Umgebung[0x000A]nehmen Schaden. Verwirrt[0x000A]Gegner manchmal.
+Der Anwender erzeugt einen[0x000A]kräftigen Wirbelwind und[0x000A]erhöht mit diesem für eine[0x000A]Weile seine Geschwindigkeit.
+Der Anwender ruht sich kurz[0x000A]aus und füllt so seine KP ein[0x000A]wenig auf.
+Der Anwender schlägt zweimal[0x000A]blitzschnell vor sich zu und[0x000A]verursacht so Schaden.
+Der Anwender schießt einen[0x000A]seltsamen Lichtstrahl in drei[0x000A]Richtungen. Getroffene[0x000A]Gegner erleiden Schaden.[0x000A]Verwirrt Gegner manchmal.
+Der Anwender konzentriert[0x000A]seinen Willen und rammt[0x000A]Gegner direkt vor sich mit[0x000A]seinem Kopf. Getroffene[0x000A]Gegner erleiden Schaden.
+Der Anwender erzeugt ein[0x000A]weitläufiges, seltsames[0x000A]Leuchten, das bei getroffenen[0x000A]Gegnern Schaden verursacht.[0x000A]Erhöht manchmal den Schaden,[0x000A]den diese nehmen.
+Der Anwender entspannt und[0x000A]macht sich leicht, wodurch für[0x000A]eine Weile seine Geschwindigkeit[0x000A]erhöht wird.
+Der Anwender erzeugt eine[0x000A]Wand um sich und senkt damit[0x000A]für eine Weile den Schaden,[0x000A]den er nimmt.
+Der Anwender hypnotisiert[0x000A]Gegner vor sich und versetzt[0x000A]sie damit oft in Schlaf.
+Der Anwender nutzt[0x000A]übersinnliche Kräfte, um[0x000A]sich zu teleportieren.
+Der Anwender nähert sich[0x000A]Gegnern vor sich und richtet[0x000A]mit Klingen aus Psycho-[0x000A]Energie Schaden an.[0x000A]Hohe Volltrefferquote.
+{0xBDFF:0x0078}
+Der Anwender erzeugt eine[0x000A]Wand aus Licht, die für eine[0x000A]Weile seine Resistenz gegen[0x000A]negative Effekte erhöht.
+Der Anwender erzeugt vor sich[0x000A]eine große Lichtkugel, welche[0x000A]sich in viele kleine Kugeln teilt,[0x000A]die in alle Richtungen fliegen.[0x000A]Getroffene Gegner in der[0x000A]Umgebung erleiden Schaden.
+Der Anwender schießt drei[0x000A]spitze Nadeln nach vorne ab.[0x000A]Getroffene Gegner erleiden[0x000A]Schaden.
+Der Anwender stürzt sich auf[0x000A]Gegner vor sich und richtet[0x000A]Schaden an.
+Der Anwender spinnt klebrige[0x000A]Fäden vor sich und senkt[0x000A]damit oft die Geschwindigkeit[0x000A]getroffener Gegner.
+Der Anwender rammt Gegner[0x000A]vor sich mit seinem harten,[0x000A]beeindruckenden Horn und[0x000A]richtet damit großen Schaden[0x000A]an.
+Der Anwender bestreut sich[0x000A]mit einem Wut erzeugenden[0x000A]Pulver und zieht dadurch alle[0x000A]Angriffe von Gegnern in der[0x000A]Umgebung auf sich.
+Der Anwender verstreut um sich[0x000A]Silberstaub im Wind und richtet bei[0x000A]getroffenen Gegnern Schaden an.[0x000A]Erhöht manchmal zufällig einen bis[0x000A]alle Statuswerte des Anwenders.
+Der Anwender saugt das Blut[0x000A]von Gegnern direkt vor sich und[0x000A]richtet Schaden an. Ein Teil des[0x000A]ausgeteilten Schadens wird vom[0x000A]Anwender absorbiert, um seine[0x000A]eigenen KP aufzufüllen.
+Der Anwender greift Gegner[0x000A]in der Umgebung an und[0x000A]macht dann kehrt, um dem[0x000A]Gegenangriff auszuweichen.
+Der Anwender wirft eine dunkle[0x000A]Kugel vor sich und richtet[0x000A]damit bei getroffenen Gegnern[0x000A]Schaden an. Erhöht manchmal[0x000A]den Schaden, den diese[0x000A]nehmen.
+Der Anwender leckt Gegner[0x000A]in der Umgebung mit seiner[0x000A]langen Zunge ab und[0x000A]verursacht so Schaden.[0x000A]Paralysiert Gegner manchmal.
+Der Anwender setzt Gegner in[0x000A]der Umgebung einem seltsamen[0x000A]Licht aus und verwirrt sie oft.
+{0xBDFF:0x0086}
+Der Anwender erschreckt[0x000A]Gegner direkt vor sich und[0x000A]verursacht damit Schaden.
+Der Anwender stürzt sich im[0x000A]Flug auf etwas entfernte Gegner[0x000A]und fügt ihnen Schaden zu.
+Der Anwender stößt eine[0x000A]Schockwelle aus seinem[0x000A]Maul aus. Getroffene Gegner[0x000A]erleiden Schaden.
+Der Anwender sammelt seine[0x000A]Kraft und dreht sich. Seine[0x000A]scharfen Klauen richten dabei[0x000A]bei Gegnern Schaden an.
+Der Anwender gerät in Raserei[0x000A]und richtet Schaden bei allen[0x000A]Gegnern an, die ihm im Weg[0x000A]stehen. Verwirrt den Anwender[0x000A]manchmal.
+Der Anwender erzeugt mehrere[0x000A]Wirbelstürme vor sich, die bei[0x000A]getroffenen Gegnern Schaden[0x000A]verursachen.
+Der Anwender führt fanatisch[0x000A]einen mystischen Tanz auf und[0x000A]erhöht so für eine Weile den[0x000A]Schaden, den er anrichtet,[0x000A]sowie seine Geschwindigkeit.
+Der Anwender lässt um sich[0x000A]herum Meteoriten herabstürzen,[0x000A]die bei getroffenen Gegnern[0x000A]Schaden anrichten. Senkt[0x000A]manchmal den Schaden, den[0x000A]der Anwender anrichtet.
+Der Anwender sucht sich etwas[0x000A]entfernte Gegner vor sich aus[0x000A]und fügt diesen mit einem Biss[0x000A]Schaden zu.
+Der Anwender prescht nach[0x000A]vorn und verursacht mit seinen[0x000A]Klauen Schaden bei Gegnern[0x000A]in der Umgebung.[0x000A]Hohe Volltrefferquote.
+Der Anwender löst sich in Luft[0x000A]auf und erscheint etwas weiter[0x000A]weg wieder. Von dort aus[0x000A]stürzt er sich auf Gegner und[0x000A]verursacht Schaden.
+Der Anwender stimuliert sein[0x000A]Gehirn durch finstere Gedanken[0x000A]und erhöht so für eine Weile[0x000A]den Schaden, den er anrichtet.
+Der Anwender schmeichelt[0x000A]Gegnern vor sich und verwirrt[0x000A]diese, erhöht aber gleichzeitig[0x000A]den Schaden, den sie[0x000A]anrichten, und senkt den[0x000A]Schaden, den sie nehmen.
+Der Anwender provoziert[0x000A]Gegner in der Umgebung und[0x000A]zieht so ihre Angriffe auf sich.
+Der Anwender greift Gegner[0x000A]vor sich mit harten Flügeln an[0x000A]und verursacht Schaden.[0x000A]Senkt manchmal den Schaden,[0x000A]den der Anwender nimmt.
+Der Anwender schwingt seinen[0x000A]harten Eisenschweif und richtet[0x000A]bei Gegnern in der Umgebung[0x000A]Schaden an. Erhöht manchmal[0x000A]den Schaden, den diese[0x000A]nehmen.
+Der Anwender greift Gegner[0x000A]vor sich mit seinen Stahlklauen[0x000A]an und verursacht Schaden.[0x000A]Erhöht manchmal den Schaden,[0x000A]den der Anwender anrichtet.
+Der Anwender macht seinen[0x000A]Körper hart wie Eisen und[0x000A]senkt so für eine Weile den[0x000A]Schaden, den er nimmt.
+Der Anwender lässt ein[0x000A]unangenehmes Geräusch[0x000A]ertönen, das wie Krallen auf[0x000A]Metall klingt. Erhöht oft den[0x000A]Schaden, den Gegner in der[0x000A]Nähe nehmen.
+Der Anwender bündelt Licht[0x000A]in sich und schießt einen[0x000A]Lichtstrahl nach vorn. Erhöht[0x000A]manchmal den Schaden, den[0x000A]Gegner nehmen.
+Der Anwender wirbelt umher,[0x000A]während er ein starkes Licht[0x000A]ausstrahlt. Getroffene Gegner[0x000A]nehmen Schaden.
+Der Anwender küsst Gegner[0x000A]direkt vor sich und zieht ihnen[0x000A]KP ab. Dabei absorbiert er[0x000A]einen Teil des ausgeteilten[0x000A]Schadens und füllt seine[0x000A]eigenen KP auf.
+Der Anwender lässt seinen[0x000A]Charme spielen und betört[0x000A]seine Gegner. Senkt oft den[0x000A]Schaden, den diese anrichten.
+Der Anwender gibt Gegnern[0x000A]direkt vor sich einen Kuss und[0x000A]verwirrt sie dadurch oft mit[0x000A]seiner Niedlichkeit.
+{0xBDFF:0x009F}
+Der Anwender knuddelt Gegner[0x000A]vor sich und richtet Schaden an.[0x000A]Senkt manchmal den Schaden,[0x000A]den Gegner anrichten.
+Der Anwender kratzt Gegner[0x000A]direkt vor sich mit harten,[0x000A]scharfen Klauen und richtet[0x000A]Schaden an.
+Der Anwender trifft Gegner[0x000A]direkt vor sich wiederholt mit[0x000A]rasanten Hieben und verursacht[0x000A]Schaden.
+Der Anwender stürzt sich[0x000A]blitzschnell auf Gegner vor[0x000A]sich und verursacht Schaden.
+Der Anwender rammt Gegner[0x000A]vor sich mit gewaltiger Kraft und[0x000A]richtet bei getroffenen Gegnern[0x000A]Schaden an. Der Anwender[0x000A]erleidet durch den Rückstoß[0x000A]selbst Schaden.
+Der Anwender springt auf der[0x000A]Stelle.
+Der Anwender schläft auf der[0x000A]Stelle ein und füllt so seine KP[0x000A]stark auf.
+Der Anwender füllt seine KP[0x000A]mit der Kraft von Eiern auf.
+Der Anwender nähert sich[0x000A]Gegnern vor sich und[0x000A]verursacht mit einem[0x000A]gewaltigen Hieb Schaden[0x000A]bei Gegnern direkt vor sich.
+Der Anwender greift mit seinem[0x000A]langen Schweif, Ranken oder[0x000A]Ähnlichem an und verursacht[0x000A]bei allen Gegnern in der[0x000A]Nähe Schaden.
+Der Anwender lenkt die[0x000A]Aufmerksamkeit der Gegner[0x000A]in der Umgebung auf sich und[0x000A]wird zum Ziel ihrer Angriffe.
+Der Anwender konzentriert drei[0x000A]Kräfte in sich, greift Gegner vor[0x000A]sich damit an und verursacht[0x000A]Schaden. Gegner werden[0x000A]manchmal paralysiert, eingefroren[0x000A]oder erleiden Verbrennungen.
+Der Anwender atmet tief ein,[0x000A]bündelt seine Kraft und erhöht[0x000A]so für eine Weile den Schaden,[0x000A]den er anrichtet.
+Der Anwender stärkt seine[0x000A]Muskulatur und senkt so für[0x000A]eine Weile den Schaden, den[0x000A]er nimmt.
+Der Anwender stampft kräftig[0x000A]auf und richtet bei Gegnern vor[0x000A]sich Schaden an.
+{0xBDFF:0x00AF}
+Der Anwender stößt niedliche[0x000A]Laute aus, nimmt damit Gegner[0x000A]in der Umgebung für sich ein[0x000A]und senkt dadurch oft den[0x000A]Schaden, den sie anrichten.
+Der Anwender funkelt Gegner[0x000A]in der Nähe böse an und jagt[0x000A]ihnen Angst ein. Erhöht oft den[0x000A]Schaden, den diese nehmen.
+Der Anwender singt und[0x000A]versetzt Gegner in der[0x000A]Umgebung mit seiner[0x000A]angenehmen Stimme oft[0x000A]in den Schlaf.
+Der Anwender stößt bizarre[0x000A]Schallwellen aus und verwirrt[0x000A]damit oft Gegner in der[0x000A]Umgebung.
+Der Anwender regeneriert[0x000A]seine Zellen und füllt so seine[0x000A]KP wieder auf.
+Der Anwender löst eine[0x000A]gewaltige Explosion aus, die[0x000A]bei Gegnern in der Umgebung[0x000A]großen Schaden anrichtet. Er[0x000A]nimmt dabei selbst so großen[0x000A]Schaden, dass er kampfunfähig[0x000A]wird.
+Der Anwender erzeugt einen[0x000A]Doppelgänger, der die[0x000A]Attacken der Gegner auf sich[0x000A]lenkt.
+Der Anwender erzeugt einen[0x000A]kräftigen Wind um sich, der[0x000A]getroffene Gegner davonwirbelt.
+Der Anwender speit Flammen[0x000A]auf den Boden. Getroffene[0x000A]Gegner nehmen Schaden[0x000A]und erleiden manchmal[0x000A]Verbrennungen.
+{0xBDFF:0x00B9}
+Der Anwender blendet Gegner[0x000A]in der Nähe mit einem gleißenden[0x000A]Blitz und senkt dadurch oft ihre[0x000A]Geschwindigkeit.
+Der Anwender kratzt Gegner[0x000A]direkt vor sich wiederholt und[0x000A]richtet Schaden an.
+Der Anwender hebt Steine auf[0x000A]und wirft diese nach vorn.[0x000A]Getroffene Gegner erleiden[0x000A]Schaden.
+Der Anwender rollt umher und[0x000A]richtet bei getroffenen Gegnern[0x000A]in der Umgebung Schaden an.
+Der Anwender lässt Säulen aus[0x000A]Stein vor sich aus dem Boden[0x000A]wachsen. Getroffene Gegner[0x000A]nehmen Schaden.
+Der Anwender wirft harte[0x000A]Felsen vor sich. Getroffene[0x000A]Gegner nehmen Schaden.
+Der Anwender poliert seine[0x000A]Oberfläche, senkt so den[0x000A]Luftwiderstand und erhöht[0x000A]für eine Weile seine eigene[0x000A]Geschwindigkeit.
+Der Anwender erzeugt um sich[0x000A]einen Sandsturm, der Gegnern[0x000A]Schaden zufügt.
+Der Anwender lässt direkt vor[0x000A]sich Felsen herabstürzen, die[0x000A]getroffenen Gegnern Schaden[0x000A]zufügen und manchmal ihre[0x000A]Geschwindigkeit senken.
+Der Anwender nutzt seine KP,[0x000A]um für eine Weile alle seine[0x000A]Statuswerte zu erhöhen.
+Der Anwender führt einen[0x000A]wilden Kampftanz auf, der für[0x000A]eine Weile den Schaden, den[0x000A]er anrichtet, erhöht.
+Der Anwender brüllt wild und[0x000A]lässt so Gegner in der[0x000A]Umgebung zurückschrecken.
+Der Anwender aktiviert Kräfte,[0x000A]die tief in seinem Inneren[0x000A]schlummern, und erhöht so für[0x000A]eine Weile den Schaden, den[0x000A]er anrichtet.
+Der Anwender leert seine[0x000A]Gedanken und vergisst alles.[0x000A]Erhöht so den Schaden, den[0x000A]er anrichtet, sowie seine[0x000A]Resistenz gegen negative[0x000A]Effekte.
+Der Anwender stößt heißen[0x000A]Atem aus. Getroffene Gegner[0x000A]nehmen Schaden und erleiden[0x000A]manchmal Verbrennungen.
+Der Anwender hüllt sich in[0x000A]Flammen, greift Gegner vor[0x000A]sich an und richtet bei[0x000A]getroffenen Gegnern[0x000A]Schaden an. Fügt ihnen[0x000A]manchmal Verbrennungen zu.
+{0xBDFF:0x00CA}
+{0xBDFF:0x00CB}
+{0xBDFF:0x00CC}
+{0xBDFF:0x00CD}
+{0xBDFF:0x00CE}
+{0xBDFF:0x00CF}
+{0xBDFF:0x00D0}
+{0xBDFF:0x00D1}
+{0xBDFF:0x00D2}
+{0xBDFF:0x00D3}
+{0xBDFF:0x00D4}
+{0xBDFF:0x00D5}
+{0xBDFF:0x00D6}
+{0xBDFF:0x00D7}
+{0xBDFF:0x00D8}
+{0xBDFF:0x00D9}
+{0xBDFF:0x00DA}
+{0xBDFF:0x00DB}
+Der Anwender hüllt sich in[0x000A]elektrische Energie, rennt auf[0x000A]Gegner zu und lässt dann im[0x000A]Sprung eine Ladung los, die[0x000A]getroffenen Gegnern schadet[0x000A]und sie manchmal paralysiert.
+Der Anwender fuchtelt wild[0x000A]herum. Getroffene Gegner[0x000A]erleiden Schaden.
+Der Anwender rammt Gegner[0x000A]vor sich mit aller Kraft und[0x000A]richtet Schaden an.
+Der Anwender springt zweimal[0x000A]nach vorn. Getroffene Gegner[0x000A]erleiden Schaden.
+{0xBDFF:0x00E0}
+{0xBDFF:0x00E1}
+{0xBDFF:0x00E2}
+{0xBDFF:0x00E3}
+{0xBDFF:0x00E4}
+{0xBDFF:0x00E5}
+{0xBDFF:0x00E6}
+{0xBDFF:0x00E7}
+{0xBDFF:0x00E8}
+{0xBDFF:0x00E9}
+{0xBDFF:0x00EA}
+Der Anwender motiviert sich[0x000A]und erhöht für eine Weile den[0x000A]Schaden, den er anrichtet,[0x000A]und senkt gleichzeitig den[0x000A]Schaden, den er nimmt.
+Der Anwender nähert sich[0x000A]Gegnern und verursacht eine[0x000A]Explosion, die bei allen Gegnern[0x000A]in der Umgebung Schaden[0x000A]anrichtet. Er nimmt dabei selbst[0x000A]so großen Schaden, dass er[0x000A]kampfunfähig wird.
+Der Anwender verstreut Eier[0x000A]um sich herum und richtet[0x000A]so bei getroffenen Gegnern[0x000A]Schaden an.
+Der Anwender konzentriert all[0x000A]seine Kraft, stürzt sich dann[0x000A]mit geballter Macht auf Gegner[0x000A]vor sich und richtet großen[0x000A]Schaden an.
+Der Anwender springt ohne[0x000A]Rücksicht auf Verluste auf[0x000A]Gegner vor sich zu und[0x000A]verursacht Schaden mit einer[0x000A]gezielten Attacke. Erhöht[0x000A]manchmal den Schaden,[0x000A]den der Anwender nimmt.
+Der Anwender schießt einige[0x000A]Samen auf einmal nach vorne[0x000A]und richtet damit bei getroffenen[0x000A]Gegnern Schaden an.
+Imitiert eine der Attacken,[0x000A]die das Pokémon beherrscht,[0x000A]in das Ditto sich verwandelt.
+Imitiert eine der Attacken,[0x000A]die das Pokémon beherrscht,[0x000A]in das Ditto sich verwandelt.
+Imitiert eine der Attacken,[0x000A]die das Pokémon beherrscht,[0x000A]in das Ditto sich verwandelt.

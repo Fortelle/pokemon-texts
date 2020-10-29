@@ -1,0 +1,4 @@
+{0x0114,0x0001}Hola, {0x0100,0x0009}. He aquí las noticias del día.
+{0x0114,0x0000}Olvídate de las noticias, Api. Lo que quiero es explorar[0x000A]la isla. Sal a realizar un reconocimiento previo del[0x000A]terreno, por favor.
+{0x0114,0x0001}De acuerdo. Iniciaré el reconocimiento de...
+{0x0114,0x0001}Error. Al no disponer de datos suficientes sobre la isla,[0x000A]mi protocolo de seguridad no me permite actuar sin la[0x000A]ayuda de un guía.

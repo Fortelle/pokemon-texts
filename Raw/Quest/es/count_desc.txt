@@ -1,0 +1,113 @@
+(?)
+Consigue {0x0202,0x0000} aliados de tipo Normal.
+Consigue {0x0202,0x0000} aliados de tipo Fuego.
+Consigue {0x0202,0x0000} aliados de tipo Agua.
+Consigue {0x0202,0x0000} aliados de tipo Eléctrico.
+Consigue {0x0202,0x0000} aliados de tipo Planta.
+Consigue {0x0202,0x0000} aliados de tipo Hielo.
+Consigue {0x0202,0x0000} aliados de tipo Lucha.
+Consigue {0x0202,0x0000} aliados de tipo Veneno.
+Consigue {0x0202,0x0000} aliados de tipo Tierra.
+Consigue {0x0202,0x0000} aliados de tipo Volador.
+Consigue {0x0202,0x0000} aliados de tipo Psíquico.
+Consigue {0x0202,0x0000} aliados de tipo Bicho.
+Consigue {0x0202,0x0000} aliados de tipo Roca.
+Consigue {0x0202,0x0000} aliados de tipo Fantasma.
+Consigue {0x0202,0x0000} aliados de tipo Dragón.
+Consigue {0x0202,0x0000} aliados de tipo Acero.
+Consigue {0x0202,0x0000} aliados de tipo Hada.
+Haz que los Pokémon suban de nivel[0x000A]{0x0203,0x0000,0x0000} veces.
+Haz subir al Nv. 50 a {0x0202,0x0000} Pokémon.
+Haz subir al Nv. 100 a {0x0202,0x0000} Pokémon.
+Alcanza un valor de ATQ de {0x0204,0x0000,0x0020}.
+Alcanza un valor de PS de {0x0204,0x0000,0x0020}.
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+Utiliza {0x0202,0x0000} movimientos diferentes.
+{0xBDFF:0x001A}
+Haz evolucionar {0x0202,0x0000} Pokémon.
+Haz que todos los Pokémon del equipo[0x000A]evolucionen a la vez.
+{0xBDFF:0x001D}
+{0xBDFF:0x001E}
+Haz de Articuno tu aliado.
+Haz de Zapdos tu aliado.
+Haz de Moltres tu aliado.
+Haz de Mewtwo tu aliado.
+Haz de Mew tu aliado.
+Haz de un Pokémon variocolor tu aliado.
+Completa {0x0203,0x0000,0x0000} expediciones.
+Obtén Cupones TP {0x0201,0x0000} veces en la tienda.
+Cocina {0x0202,0x0000} veces.
+Consigue {0x0203,0x0000,0x0000} piedras P.
+Registra {0x0202,0x0000} especies de Pokémon en la[0x000A]Pokédex.
+Realiza {0x0202,0x0000} sesiones de entrenamiento[0x000A]de nivel.
+Realiza {0x0202,0x0000} sesiones de entrenamiento[0x000A]de movimiento.
+Descubre {0x0201,0x0000} recetas de cocina.
+Haz que el equipo alcance una potencia[0x000A]de {0x0204,0x0000,0x0020}.
+Coloca un mínimo de 18 adornos en la base.
+Usa un movimiento tras haber equipado una[0x000A]Piedra Ráfaga.
+Usa un movimiento tras haber equipado una[0x000A]Piedra Expansión.
+Usa un movimiento tras haber equipado una[0x000A]Piedra Eco.
+Usa un movimiento tras haber equipado una[0x000A]Piedra Recarga.
+Usa un movimiento tras haber equipado una[0x000A]Piedra Ventaja.
+Usa un movimiento tras haber equipado una[0x000A]Piedra Reparto.
+Completa una línea de piedras P en un[0x000A]amuleto.
+Completa dos líneas de piedras P en un[0x000A]amuleto.
+Completa tres líneas de piedras P en un[0x000A]amuleto.
+Cocina con una Marmita de bronce.
+Cocina con una Marmita de plata.
+Cocina con una Marmita de oro.
+Parte de expedición con dos Pokémon que[0x000A]ataquen a distancia y uno cuerpo a cuerpo.
+Parte de expedición con dos Pokémon que[0x000A]ataquen cuerpo a cuerpo y uno a distancia.
+Parte de expedición únicamente con Pokémon[0x000A]que ataquen cuerpo a cuerpo.
+Parte de expedición únicamente con Pokémon[0x000A]que ataquen a distancia.
+Recicla {0x0202,0x0000} piedra{0x1101,0x0000,0x0100}s P.
+Derrota a {0x0203,0x0000,0x0000} Pokémon de tipo Normal.
+Derrota a {0x0203,0x0000,0x0000} Pokémon de tipo Fuego.
+Derrota a {0x0203,0x0000,0x0000} Pokémon de tipo Agua.
+Derrota a {0x0203,0x0000,0x0000} Pokémon de tipo Eléctrico.
+Derrota a {0x0203,0x0000,0x0000} Pokémon de tipo Planta.
+Derrota a {0x0203,0x0000,0x0000} Pokémon de tipo Hielo.
+Derrota a {0x0203,0x0000,0x0000} Pokémon de tipo Lucha.
+Derrota a {0x0203,0x0000,0x0000} Pokémon de tipo Veneno.
+Derrota a {0x0203,0x0000,0x0000} Pokémon de tipo Tierra.
+Derrota a {0x0203,0x0000,0x0000} Pokémon de tipo Volador.
+Derrota a {0x0203,0x0000,0x0000} Pokémon de tipo Psíquico.
+Derrota a {0x0203,0x0000,0x0000} Pokémon de tipo Bicho.
+Derrota a {0x0203,0x0000,0x0000} Pokémon de tipo Roca.
+Derrota a {0x0203,0x0000,0x0000} Pokémon de tipo Fantasma.
+Derrota a {0x0203,0x0000,0x0000} Pokémon de tipo Dragón.
+Derrota a {0x0203,0x0000,0x0000} Pokémon de tipo Acero.
+Derrota a {0x0203,0x0000,0x0000} Pokémon de tipo Hada.
+Parte de expedición con un equipo formado[0x000A]por tres Pokémon de tipo Normal.
+Parte de expedición con un equipo formado[0x000A]por tres Pokémon de tipo Fuego.
+Parte de expedición con un equipo formado[0x000A]por tres Pokémon de tipo Agua.
+Parte de expedición con un equipo formado[0x000A]por tres Pokémon de tipo Eléctrico.
+Parte de expedición con un equipo formado[0x000A]por tres Pokémon de tipo Planta.
+Parte de expedición con un equipo formado[0x000A]por tres Pokémon de tipo Hielo.
+Parte de expedición con un equipo formado[0x000A]por tres Pokémon de tipo Lucha.
+Parte de expedición con un equipo formado[0x000A]por tres Pokémon de tipo Veneno.
+Parte de expedición con un equipo formado[0x000A]por tres Pokémon de tipo Tierra.
+Parte de expedición con un equipo formado[0x000A]por tres Pokémon de tipo Volador.
+Parte de expedición con un equipo formado[0x000A]por tres Pokémon de tipo Psíquico.
+Parte de expedición con un equipo formado[0x000A]por tres Pokémon de tipo Bicho.
+Parte de expedición con un equipo formado[0x000A]por tres Pokémon de tipo Roca.
+Parte de expedición con un equipo formado[0x000A]por tres Pokémon de tipo Fantasma.
+Parte de expedición con un equipo formado[0x000A]por tres Pokémon de tipo Dragón.
+Parte de expedición con un equipo formado[0x000A]por tres Pokémon de tipo Acero.
+Parte de expedición con un equipo formado[0x000A]por tres Pokémon de tipo Hada.
+Supera la fase 1 de Isla Azar (12-1) {0x0202,0x0000} ve{0x1101,0x0000,0x0301}zces.
+Supera la fase 2 de Isla Azar (12-2) {0x0202,0x0000} ve{0x1101,0x0000,0x0301}zces.
+Supera la fase 3 de Isla Azar (12-3) {0x0202,0x0000} ve{0x1101,0x0000,0x0301}zces.
+Supera la fase 4 de Isla Azar (12-4) {0x0202,0x0000} ve{0x1101,0x0000,0x0301}zces.
+Supera la fase 5 de Isla Azar (12-5) {0x0202,0x0000} ve{0x1101,0x0000,0x0301}zces.
+Supera la fase 6 de Isla Azar (12-6) {0x0202,0x0000} ve{0x1101,0x0000,0x0301}zces.
+Supera la fase 7 de Isla Azar (12-7) {0x0202,0x0000} ve{0x1101,0x0000,0x0301}zces.
+Supera la fase 8 de Isla Azar (12-8) {0x0202,0x0000} ve{0x1101,0x0000,0x0301}zces.
+Supera la fase del jefe de Isla Azar {0x0202,0x0000} ve{0x1101,0x0000,0x0301}zces.
+Completa la Pokédex de Isla Rodacubo.
+{0xBDFF:0x006C}
+{0xBDFF:0x006D}
+{0xBDFF:0x006E}
+{0xBDFF:0x006F}
+{0xBDFF:0x0070}

@@ -1,0 +1,36 @@
+KP
+{0x0205,0x0000,0x0000}
+Ang.
+{0x0205,0x0000,0x0000}
+Lv.
+{0x0202,0x0000}
+Reg.-Zeit
+{0x0202,0x0000}
++{0x0205,0x0000,0x0000}
+-{0x0205,0x0000,0x0000}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0x0102,0x0000}
+{0x0206,0x0000,0x0000}
+{0x0204,0x0000,0x0000}
+Teamstärke
+Einsetzbare Attackensteine
+Effekt
+Pokémon-Stärke
+KP
+Ang.
+Steineffekte
+KP
+Ang.
+Volltrefferquote (%)
+Volltrefferschaden (%)
+Autom. KP-Heilung (%)
+KP-Heilung nach Treffer (%)
+KP-Heilung nach Sieg (%)
+Erholungszeit nach K.O. (%)
+KP nach K.O.-Erholung (%)
+Resistenz: Negative Effekte (%)
+Resistenz: Statusprobleme (%)
+Geschwindigkeit (%)
+Bingo-Bonus

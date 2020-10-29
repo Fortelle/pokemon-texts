@@ -1,0 +1,36 @@
+PS
+{0x0205,0x0000,0x002E}
+ATT
+{0x0205,0x0000,0x002E}
+L.
+{0x0202,0x0000}
+Tempo ric.
+{0x0202,0x0000}
++{0x0205,0x0000,0x002E}
+-{0x0205,0x0000,0x002E}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0x0102,0x0000}
+{0x0206,0x0000,0x002E}
+{0x0204,0x0000,0x002E}
+Potenza squadra
+Pietre mossa compatibili
+Effetto
+Potenza Pokémon
+PS
+ATT
+Potenza pietre
+PS
+ATT
+Probabilità brutti colpi (%)
+Danni da brutto colpo (%)
+Cura naturale PS (%)
+Cura PS colpendo (%)
+Cura PS causando KO (%)
+Tempo ripresa da KO (%)
+PS dopo la ripresa (%)
+Resistenza a effetti negativi (%)
+Resist. a problemi di stato (%)
+Velocità di movimento (%)
+Bonus tris

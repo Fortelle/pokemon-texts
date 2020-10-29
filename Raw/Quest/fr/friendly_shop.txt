@@ -1,0 +1,77 @@
+Vous n'avez pas assez de coupons BP.[0x000A]Vous pouvez en obtenir en cadeau à la Boutique[0x000A]Pokémon, ou bien en remplissant des objectifs.
+{0xBDFF:0x0001}
+{0x0201,0x0000}:{0x0201,0x0001}:{0x0201,0x0002}
+Acheter
+Extension Boîte Pokémon
+Vous pouvez accueillir {0x0202,0x0000}[0x000A]Pokémon de plus. ({0x0202,0x0001}/{0x0202,0x0002})
+Extension Boîte Gemmes
+Vous pouvez stocker[0x000A]{0x0202,0x0000} Gemmes-P de plus. ({0x0202,0x0001}/{0x0202,0x0002})
+Boutique Pokémon
+{0xBDFF:0x0009}
+Cadeau
+Décorations
+Extensions
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+Recevoir les coupons BP
+Suivant :
+{0xBDFF:0x0012}
+Vous avez reçu des coupons BP en bonus pour l'achat[0x000A]de ce contenu additionnel ! Chaque joueur ne peut bénéficier[0x000A]des coupons BP en bonus qu'une fois pour ce contenu.
+{0xBDFF:0x0014}
+Votre commande est arrivée !
+{0xBDFF:0x0016}
+Déjà reçu
+Coupons BP reçus.
+{0xBDFF:0x0019}
+{0xBDFF:0x001A}
+Les coupons BP sont extrêmement précieux et utiles.[0x000A]Pensez à les récupérer !
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}
+Pour obtenir du contenu additionnel, vous devez vous[0x000A]connecter au Nintendo eShop. Continuer ?
+Après avoir acheté le contenu additionnel, attendez[0x000A]la fin du téléchargement, puis redémarrez[0x000A]Pokémon Quest pour le mettre à jour.
+Nintendo eShop
+Contenu additionnel
+Voici des lots de décorations payants uniquement disponibles[0x000A]en contenus additionnels sur le Nintendo eShop.
+Voici des lots de décorations payant uniquement[0x000A]disponibles en contenus additionnels !
+En cadeau : des coupons BP utilisables dès obtention.
+En cadeau : des coupons BP utilisables dès obtention.
+Épuisé
+L'effet a été activé.
+{0xBDFF:0x0028}
+Lot d'Aventurier
+Super Lot d'Aventurier
+Hyper Lot d'Aventurier
+Lot d'Aventurier Trois-en-un
+Lot d'Aventurier Mini
+Gemme Multi-Tir
+Gemme Expansion
+Gemme Écho
+Gemme Hâte
+Gemme Maintien
+Gemme Unisson
+Vous avez reçu la Maquette Honor Ball en cadeau pour[0x000A]avoir acheté {0x0201,0x0000} décorations à la Boutique Pokémon !
+{0xBDFF:0x0035}
+{0xBDFF:0x0036}
+{0xBDFF:0x0037}
+{0xBDFF:0x0038}
+{0xBDFF:0x0039}
+Vous avez déjà reçu les coupons BP en bonus pour[0x000A]l'achat de ce contenu additionnel et ne pouvez pas en[0x000A]recevoir à nouveau. Le bonus de coupons BP n'est[0x000A]accordé qu'une fois par joueur pour ce contenu.
+Contenu additionnel
+Si vous achetez les trois Lots d'Aventurier contenant[0x000A]les Maquettes Poké Ball, vous recevrez[0x000A]la Maquette Master Ball en bonus.
+Seulement pour 72 h
+Lots promotionnels
+Bonus
+{0xBDFF:0x0040}
+- {0x0201,0x0000} %
+(1) Préparations de plats simultanées + 1[0x000A](2) Coupons BP obtenus en cadeau + 20[0x000A](3) Capacité maximale de la batterie + 1[0x000A]Bonus a : Nidoran♀ de N. 1 avec une capacité inédite[0x000A]Bonus b : Nidoran♂ de N. 1 avec une capacité inédite[0x000A]Bonus c : Coupons BP + 100
+(1) Préparations de plats simultanées + 1[0x000A](2) Coupons BP obtenus en cadeau + 30[0x000A](3) Capacité maximale de la batterie + 1[0x000A](4) Chances d'attirer plusieurs Pokémon avec les plats × 2[0x000A]Bonus a : Lokhlass de N. 1 avec une capacité inédite[0x000A]Bonus b : Coupons BP + 100
+(1) Préparations de plats simultanées + 1[0x000A](2) Coupons BP obtenus en cadeau + 40[0x000A](3) Capacité maximale de la batterie + 1[0x000A](4) Quantité d'ingrédients trouvés × 2[0x000A](5) Points d'expérience obtenus après quête × 2[0x000A]Bonus a : Ronflex de N. 1 avec une capacité inédite[0x000A]Bonus b : Coupons BP + 100
+(1) Lot d'Aventurier[0x000A](2) Super Lot d'Aventurier[0x000A](3) Hyper Lot d'Aventurier[0x000A]Bonus a : Nidoran♀ de N. 1 avec une capacité inédite[0x000A]Bonus b : Nidoran♂ de N. 1 avec une capacité inédite[0x000A]Bonus c : Lokhlass de N. 1 avec une capacité inédite[0x000A]Bonus d : Ronflex de N. 1 avec une capacité inédite[0x000A]Bonus e : Coupons BP + 300
+(1) Chances d'attirer plusieurs Pokémon avec les plats × 1,5[0x000A]Bonus a : Pikachu de N. 1 avec une capacité inédite[0x000A]Bonus b : Coupons BP + 200
+(1) Gemme Multi-Tir × 1[0x000A]Bonus a : Coupons BP + 100
+(1) Gemme Expansion × 1[0x000A]Bonus a : Coupons BP + 100
+(1) Gemme Écho × 1[0x000A]Bonus a : Coupons BP + 100
+(1) Gemme Hâte × 1[0x000A]Bonus a : Coupons BP + 100
+(1) Gemme Maintien × 1[0x000A]Bonus a : Coupons BP + 100
+(1) Gemme Unisson × 1[0x000A]Bonus a : Coupons BP + 100

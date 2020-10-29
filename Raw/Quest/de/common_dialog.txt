@@ -1,0 +1,11 @@
+{0xBDFF:0x0000}
+Abbrechen
+{0xBDFF:0x0002}
+Schließen
+Ja
+Nein
+{0xBDFF:0x0006}
+Möchtest du PS-Gutscheine verwenden,[0x000A]um die Batterie wieder aufzuladen?
+{0xBDFF:0x0008}
+Die Batterie wurde voll aufgeladen.
+Die Batterie ist voll.[0x000A]Du kannst sie nicht weiter aufladen.

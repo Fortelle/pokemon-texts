@@ -1,0 +1,26 @@
+Sparring
+Livello
+Mosse
+Pokémon
+Pokémon aiutanti
+Inizia
+Azzera
+Successo
+{0x0203,0x0000,0x002E}
+Per iniziare lo sparring è necessario scegliere[0x000A]un Pokémon da allenare e i suoi aiutanti.
+I Pokémon in squadra non possono fare da aiutanti.
+Questo Pokémon non otterrebbe alcun vantaggio[0x000A]dallo sparring perché ha già raggiunto il livello massimo.
+Lo sparring livello permette al Pokémon[0x000A]di guadagnare Punti Esperienza. Vuoi iniziare?
+Questo tipo di sparring permette al Pokémon di[0x000A]cambiare le mosse che conosce. Vuoi iniziare?
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+Dopo lo sparring, i Pokémon aiutanti lasceranno la base.
+Sì
+No
+Sparring per ottenere PE
+La quantità di PE ottenibili con lo sparring varia[0x000A]a seconda dei Pokémon che partecipano.
+Sparring per cambiare mosse
+Le mosse conosciute possono cambiare in modo casuale. Per[0x000A]vedere la descrizione di una mossa, tieni premuta la sua icona.
+{0xBDFF:0x0017}
+Tocca la mossa che vuoi cambiare.
+Non avrebbe effetto su {0x0101,0x0000}!

@@ -1,0 +1,60 @@
+Voulez-vous abandonner la quête ?[0x000A](Les objets trouvés disparaîtront.)
+Bien joué ![0x000A]{0x0102,0x0000} a évolué en {0x0101,0x0001} !
+Bien joué ![0x000A]{0x0102,0x0000} a évolué en {0x0101,0x0001} ![0x000A]{0x0102,0x0002} a évolué en {0x0101,0x0003} !
+Bien joué ![0x000A]{0x0102,0x0000} a évolué en {0x0101,0x0001} ![0x000A]{0x0102,0x0002} a évolué en {0x0101,0x0003} ![0x000A]{0x0102,0x0004} a évolué en {0x0101,0x0005} !
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0x0102,0x0000} oublie {0x0107,0x0001}[0x000A]et apprend {0x0107,0x0002} !
+Les Gemmes-P capacité ont été retirées.
+{0x0201,0x0000}:{0x0201,0x0001}
+{0x0201,0x0001}
+Votre équipe est à bout de forces.[0x000A]Vous pouvez utiliser des[0x000A]coupons BP pour récupérer[0x000A]les objets dénichés.
+Le temps est écoulé.[0x000A]Vous pouvez utiliser des[0x000A]coupons BP pour récupérer[0x000A]les objets dénichés.
+Récupérer
+Abandonner
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+Début de la quête !
+Quête terminée !
+{0x0102,0x0000} est revenu à lui !
+Le Boss est affaibli ! Encore un petit effort !
+Pokémon en vue !
+Le Pokémon qui vient d'apparaître a l'air puissant !
+Vous êtes cerné !
+Vous êtes cerné !
+De nouveaux Pokémon apparaissent !
+Le Pokémon qui vient d'apparaître a l'air puissant !
+Le Pokémon appelle du renfort !
+Un Pokémon plus fort est apparu !
+Le boss appelle du renfort !
+Un Pokémon super puissant est apparu !
+Mewtwo est apparu !
+{0xBDFF:0x0021}
+Un Pokémon très puissant est apparu !
+Un Pokémon très puissant a été appelé en renfort !
+Des Pokémon puissants sont apparus !
+Des Pokémon très puissants sont apparus !
+{0xBDFF:0x0026}
+{0xBDFF:0x0027}
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+{0xBDFF:0x002A}
+{0xBDFF:0x002B}
+{0xBDFF:0x002C}
+{0xBDFF:0x002D}
+{0xBDFF:0x002E}
+{0xBDFF:0x002F}
+{0xBDFF:0x0030}
+{0xBDFF:0x0031}
+FIN DE L'ASSAUT !
+Résultat de la quête
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+Niveau terminé !
+Souhaitez-vous utiliser des coupons BP pour récupérer[0x000A]les objets trouvés ?
+Auto
+{0xBDFF:0x0039}
+{0xBDFF:0x003A}
+{0xBDFF:0x003B}

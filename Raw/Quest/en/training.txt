@@ -1,0 +1,26 @@
+Training
+Level Up
+Move Learning
+Training Pokémon
+Supporting Pokémon
+Start Training
+Reset
+Success rate
+{0x0203,0x0000,0x0000}
+You need a Pokémon to train and[0x000A]a Pokémon to support for training.
+You can't choose one of your[0x000A]team's Pokémon to support.
+This Pokémon is at the maximum level,[0x000A]so it won't be affected by training anymore.
+Pokémon can gain Exp. from Level-Up Training.[0x000A]Would you like to start training?
+You can change a Pokémon's moves with training.[0x000A]Would you like to start training?
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+The supporting Pokémon will leave when training is over.
+Yes
+No
+Get Exp. from Training
+The amount of Exp. a Pokémon gets from[0x000A]training depends on the supporting Pokémon.
+Change Moves with Training
+The Pokémon's moves may change randomly.[0x000A]Press and hold the move icon to see its description.
+{0xBDFF:0x0017}
+Please choose the move you want to change.
+This training won't have any effect on {0x0101,0x0000}.

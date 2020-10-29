@@ -1,0 +1,65 @@
+Atq.
+{0xBDFF:0x0001}
+PV
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+TR de la capacité (%)
+Répétitions de la capacité
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+Zone d'attaque
+{0xBDFF:0x000A}
+Puissance d'Atq. (%)
+Multiplication des projectiles
+{0xBDFF:0x000D}
+Récupération auto. de PV (%)
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+Vitesse de déplacement (%)
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+Coups critiques (%)
+Dégâts critiques (%)
+Durée de réanimation (%)
+PV après réanimation (%)
+Taille du Pokémon (%)
+Résistance à : {0x016A,0x0000} (%)
+{0xBDFF:0x0020}
+Durée des boosts (%)
+{0xBDFF:0x0022}
+Durée des malus (%)
+Distance de recul (%)
+{0xBDFF:0x0025}
+{0xBDFF:0x0026}
+Zone de partage des boosts (%)
+PV récupérés après dégâts (%)
+PV récupérés après K.O. (%)
+Atq. des capacités {0x0103,0x0000} (%)
+TR des capacités {0x0103,0x0000} (%)
+Dégâts {0x0103,0x0000} subis (%)
+Coups critiques subis (%)
+PV gagnés à chaque assaut (%)
+TR des attaques normales (%)
+Résistance aux malus (%)
+Résistance aux altérations (%)
+Coups critiques (%)
+Coups critiques (%)
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+Durée de réanimation (%)
+PV après réanimation (%)
+{0xBDFF:0x0038}
+PV récupérés après dégâts (%)
+PV récupérés après K.O. (%)
+{0xBDFF:0x003B}
+Résistance aux malus (%)
+Résistance aux altérations (%)
+{0xBDFF:0x003E}
+{0xBDFF:0x003F}
+TR de la capacité (%)

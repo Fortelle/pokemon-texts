@@ -1,0 +1,65 @@
+ATK
+{0xBDFF:0x0001}
+HP
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+Move Wait Time (%)
+Number of Move Repetitions
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+Attack Width
+{0xBDFF:0x000A}
+Move's ATK (%)
+Move's Number of Shots
+{0xBDFF:0x000D}
+Natural HP Healing (%)
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+Movement Speed (%)
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+Critical Hit Rate (%)
+Critical Hit Damage (%)
+Time to Recover (%)
+HP upon Recovery (%)
+Pokémon Size Change (%)
+Resistant to {0x016A,0x0000} (%)
+{0xBDFF:0x0020}
+↑ Effect Duration (%)
+{0xBDFF:0x0022}
+↓ Effect Duration (%)
+Own Knockback Distance (%)
+{0xBDFF:0x0025}
+{0xBDFF:0x0026}
+↑ Effects for Buddies (%)
+Hit Healing (%)
+Healing from K.O. (%)
+ATK of {0x0103,0x0000}-Type Moves (%)
+{0x0103,0x0000}-Type Moves Wait (%)
+{0x0103,0x0000}-Type Damage Taken (%)
+Taking Critical Hits Rate (%)
+Healing per Wave (%)
+Wait for Standard Attacks (%)
+Resistant to ↓ Effects (%)
+Resistant to Status Conditions (%)
+Critical Hit Rate (%)
+Critical Hit Rate (%)
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+Time to Recover (%)
+HP upon Recovery (%)
+{0xBDFF:0x0038}
+Hit Healing (%)
+Healing from K.O. (%)
+{0xBDFF:0x003B}
+Resistant to ↓ Effects (%)
+Resistant to Status Conditions (%)
+{0xBDFF:0x003E}
+{0xBDFF:0x003F}
+Move Wait Time (%)

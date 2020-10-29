@@ -1,0 +1,244 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+{0xBDFF:0x001A}
+{0xBDFF:0x001B}
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}
+{0xBDFF:0x001E}
+{0xBDFF:0x001F}
+{0xBDFF:0x0020}
+{0xBDFF:0x0021}
+{0xBDFF:0x0022}
+{0xBDFF:0x0023}
+Il Pokémon lancia una fiammata[0x000A]che infligge gradualmente[0x000A]danni ai nemici colpiti.[0x000A]Può anche scottarli.
+Il Pokémon genera una grande[0x000A]onda e la cavalca, infliggendo[0x000A]danni a tutti i nemici che travolge.
+Il Pokémon scaglia un fulmine[0x000A]nell'area davanti a sé,[0x000A]infliggendo danni ai nemici[0x000A]nelle vicinanze.[0x000A]Può anche paralizzarli.
+Il Pokémon pianta nell'area[0x000A]davanti a sé dei semi che[0x000A]gli permettono di curarsi[0x000A]sottraendo gradualmente[0x000A]PS ai nemici.
+Il Pokémon raccoglie le energie[0x000A]ed emette un potente raggio[0x000A]luminoso, infliggendo danni[0x000A]devastanti ai nemici colpiti.
+Il Pokémon lancia nell'area[0x000A]davanti a sé delle fiammelle[0x000A]che, al contatto col suolo,[0x000A]si disperdono in tre direzioni[0x000A]infliggendo danni ai nemici[0x000A]colpiti. Può anche scottarli.
+Il Pokémon traccia un percorso[0x000A]infuocato nell'area davanti[0x000A]a sé e carica, infliggendo danni[0x000A]ai nemici che travolge.[0x000A]Può anche scottarli.
+Il Pokémon scatena intorno a[0x000A]sé un turbine di fuoco che[0x000A]infligge danni ai nemici colpiti.[0x000A]Può anche scottarli.
+Il Pokémon colpisce i nemici[0x000A]di fronte a sé con un pugno[0x000A]ardente che causa danni.[0x000A]Può anche scottarli.
+Il Pokémon sprigiona una[0x000A]fiammata scarlatta intorno a sé,[0x000A]infliggendo danni ai nemici.[0x000A]Può anche scottarli.
+Il Pokémon attacca i nemici[0x000A]di fronte a sé con fiamme[0x000A]sinistre che spesso causano[0x000A]una scottatura.
+Il Pokémon concentra in sé[0x000A]il potere del fuoco per aumentare[0x000A]temporaneamente i danni inflitti.
+Il Pokémon lancia bolle in tre[0x000A]direzioni, infliggendo danni ai[0x000A]nemici colpiti.[0x000A]Può anche ridurne la velocità[0x000A]di movimento.
+Il Pokémon si avvicina ai nemici[0x000A]nell'area davanti a sé e crea[0x000A]delle colonne d'acqua ai loro[0x000A]piedi, infliggendogli danni.
+Il Pokémon lancia nell'area[0x000A]davanti a sé quattro colonne[0x000A]d'acqua che infliggono danni[0x000A]ai nemici colpiti.
+Il Pokémon scatena un turbine[0x000A]d'acqua che infligge danni ai[0x000A]nemici intorno a sé.
+Il Pokémon si ritira nel suo[0x000A]duro guscio per ridurre[0x000A]temporaneamente i danni[0x000A]subiti.
+{0xBDFF:0x0035}
+Il Pokémon si avvolge in un[0x000A]velo d'acqua e recupera PS.
+Il Pokémon carica i nemici[0x000A]nell'area davanti a sé[0x000A]a grandissima velocità,[0x000A]infliggendogli danni.
+Il Pokémon accumula elettricità[0x000A]e la scarica sui nemici nell'area[0x000A]davanti a sé, infliggendogli[0x000A]danni. Può anche paralizzarli.
+Il Pokémon emette una potente[0x000A]scarica elettrica che infligge[0x000A]danni ai nemici intorno a sé.[0x000A]Può anche paralizzarli.
+Il Pokémon si riveste di[0x000A]elettricità e carica i nemici[0x000A]nell'area davanti a sé.[0x000A]Può anche paralizzarli.
+Il Pokémon colpisce i nemici[0x000A]di fronte a sé con un pugno[0x000A]carico di elettricità.[0x000A]Può anche paralizzarli.
+Il Pokémon si carica di elettricità[0x000A]e aumenta temporaneamente[0x000A]i danni inflitti e la resistenza[0x000A]agli effetti negativi.
+Il Pokémon accumula elettricità[0x000A]ai suoi piedi e aumenta[0x000A]temporaneamente i danni inflitti.
+Il Pokémon getta di fronte a sé[0x000A]una ragnatela elettrica che[0x000A]riduce temporaneamente la[0x000A]velocità di movimento dei nemici[0x000A]che vi restano intrappolati.
+Il Pokémon lancia foglie[0x000A]taglienti che infliggono danni[0x000A]ai nemici.[0x000A]Probabile brutto colpo.
+Il Pokémon assorbe la luce e[0x000A]la proietta nell'area davanti[0x000A]a sé, causando danni ai nemici[0x000A]colpiti.
+Il Pokémon brandisce liane[0x000A]simili a fruste con cui infligge[0x000A]danni ai nemici nell'area[0x000A]davanti a sé.
+Il Pokémon volteggia sul posto[0x000A]spargendo petali che infliggono[0x000A]danni ai nemici intorno.
+Il Pokémon crea una nuvola[0x000A]di polvere che investe i nemici[0x000A]di fronte a sé e spesso[0x000A]li paralizza.
+Il Pokémon sparge di fronte[0x000A]a sé delle spore che spesso[0x000A]fanno addormentare i nemici.
+Il Pokémon attacca i nemici[0x000A]nell'area davanti a sé e[0x000A]assorbe una quantità di PS pari[0x000A]a una parte dei danni inferti.
+Il Pokémon assorbe la luce per[0x000A]aumentare temporaneamente[0x000A]i danni inflitti.
+{0xBDFF:0x0047}
+Il Pokémon emette un raggio[0x000A]gelido che infligge danni[0x000A]ai nemici nell'area davanti a sé.[0x000A]Può anche congelarli.
+Il Pokémon fa cadere nell'area[0x000A]davanti a sé delle stalattiti di[0x000A]ghiaccio che infliggono danni[0x000A]ai nemici.[0x000A]Può anche congelarli.
+Il Pokémon scatena intorno a sé[0x000A]una tempesta di ghiaccio che[0x000A]infligge danni ai nemici.[0x000A]Può anche congelarli.
+Il Pokémon colpisce i nemici[0x000A]di fronte a sé con un pugno[0x000A]gelato. Può anche congelarli.
+{0xBDFF:0x004C}
+Il Pokémon si riveste di un[0x000A]velo di luce per ridurre[0x000A]temporaneamente i danni[0x000A]subiti.
+{0xBDFF:0x004E}
+Il Pokémon infligge danni ai[0x000A]nemici nell'area davanti a sé[0x000A]con una folata di aria gelida che[0x000A]può anche ridurne la velocità[0x000A]di movimento.
+Il Pokémon colpisce i nemici di[0x000A]fronte a sé con pugni durissimi.[0x000A]Spesso aumenta i danni inflitti.
+Il Pokémon salta sui nemici[0x000A]nell'area davanti a sé e gli[0x000A]infligge danni colpendoli[0x000A]con entrambe le braccia.[0x000A]Probabile brutto colpo.
+Il Pokémon si lancia sui nemici[0x000A]nell'area davanti a sé girando[0x000A]in tondo e infligge danni a[0x000A]quelli che travolge.
+Il Pokémon carica i nemici[0x000A]nell'area davanti a sé, salta e[0x000A]li colpisce con una ginocchiata.[0x000A]Tuttavia, subisce danni per[0x000A]il contraccolpo.
+Il Pokémon infligge danni ai[0x000A]nemici intorno a sé con un[0x000A]calcio rotante.
+Il Pokémon raccoglie tutte le[0x000A]sue energie e colpisce i nemici[0x000A]di fronte a sé con dei pugni.[0x000A]Può anche confonderli.
+Il Pokémon gonfia i muscoli[0x000A]più che può per aumentare[0x000A]temporaneamente i danni[0x000A]inflitti e ridurre i danni subiti.
+Il Pokémon sferra pugni[0x000A]colpendo i nemici di fronte[0x000A]a sé e assorbe la loro energia,[0x000A]recuperando PS.
+Il Pokémon colpisce i nemici[0x000A]liberando un'energia tale da[0x000A]distruggere alberi e rocce[0x000A]in un'ampia area.
+Il Pokémon lancia sui nemici[0x000A]nell'area davanti a sé degli[0x000A]aculei tossici che possono[0x000A]anche avvelenarli.
+Il Pokémon lancia a terra[0x000A]una massa tossica che,[0x000A]disperdendosi, infligge danni[0x000A]ai nemici intorno.[0x000A]Può anche avvelenarli.
+Il Pokémon sparge intorno a sé[0x000A]una nube di veleno che infligge[0x000A]danni ai nemici.[0x000A]Può anche avvelenarli.
+Il Pokémon altera la sua[0x000A]struttura cellulare passando[0x000A]allo stato liquido per ridurre[0x000A]i danni subiti.
+Il Pokémon sparge intorno a sé[0x000A]una potente tossina che spesso[0x000A]avvelena i nemici colpiti.
+Il Pokémon investe i nemici[0x000A]nell'area davanti a sé con[0x000A]una nuvola di polvere tossica[0x000A]che spesso li avvelena.
+Il Pokémon spruzza nell'area[0x000A]davanti a sé una sostanza[0x000A]tossica che può aumentare[0x000A]i danni subiti dai nemici.
+Il Pokémon getta fango in tre[0x000A]direzioni per infliggere danni[0x000A]ai nemici colpiti.[0x000A]Può anche ridurne la velocità[0x000A]di movimento.
+Il Pokémon lancia un osso[0x000A]come se fosse un boomerang,[0x000A]infliggendo danni ai nemici colpiti.
+Il Pokémon lancia nell'area[0x000A]davanti a sé una compatta[0x000A]palla di fango che, al contatto[0x000A]col suolo, schizza i nemici[0x000A]intorno e gli infligge danni.[0x000A]Può anche aumentare i[0x000A]danni subiti dai nemici.
+Il Pokémon piazza nell'area[0x000A]davanti a sé una trappola di[0x000A]punte che danneggia i nemici[0x000A]che la calpestano.
+Il Pokémon provoca un sisma[0x000A]che colpisce i nemici intorno[0x000A]a sé.
+Il Pokémon scava una fossa[0x000A]nell'area davanti a sé, poi[0x000A]sbuca da sotto ai piedi dei[0x000A]nemici e gli infligge danni.
+Il Pokémon accumula sabbia[0x000A]ai propri piedi per recuperare[0x000A]alcuni PS.
+{0xBDFF:0x0067}
+Il Pokémon infligge danni ai[0x000A]nemici di fronte a sé attaccandoli[0x000A]con un becco aguzzo.
+Il Pokémon si alza in volo[0x000A]nell'area davanti a sé e[0x000A]piomba sui nemici lontani[0x000A]infliggendogli danni.
+Il Pokémon si alza in volo e[0x000A]piomba sui nemici di fronte[0x000A]a sé infliggendogli danni.[0x000A]Probabile brutto colpo.
+Il Pokémon solleva una folata[0x000A]di vento che avvolge i nemici[0x000A]davanti a sé e gli infligge danni.
+Il Pokémon scatena un vento[0x000A]fortissimo che infligge danni[0x000A]ai nemici intorno a sé e può[0x000A]anche confonderli.
+Il Pokémon scatena un[0x000A]potente turbine che aumenta[0x000A]temporaneamente la sua[0x000A]velocità di movimento.
+Il Pokémon si riposa per un[0x000A]po' e recupera alcuni PS.
+Il Pokémon vibra due rapidi[0x000A]fendenti nell'area davanti a sé.
+Il Pokémon emette dei raggi[0x000A]speciali in tre direzioni che[0x000A]infliggono danni ai nemici colpiti.[0x000A]Può anche confonderli.
+Il Pokémon concentra le energie[0x000A]mentali nella testa e si lancia[0x000A]contro i nemici di fronte a sé,[0x000A]infliggendo danni a quelli[0x000A]che colpisce.
+Il Pokémon emette un'intensa[0x000A]luce misteriosa che infligge[0x000A]danni. Può anche aumentare[0x000A]i danni subiti dai nemici.
+Il Pokémon rilassa il proprio[0x000A]corpo per renderlo più leggero[0x000A]e far salire temporaneamente[0x000A]la sua velocità di movimento.
+Il Pokémon innalza una[0x000A]barriera intorno a sé per[0x000A]ridurre temporaneamente[0x000A]i danni subiti.
+Il Pokémon usa la suggestione[0x000A]ipnotica sui nemici nell'area[0x000A]davanti a sé.[0x000A]Spesso li fa addormentare.
+Il Pokémon usa i suoi poteri[0x000A]psichici per teletrasportarsi.
+Il Pokémon scatta nell'area[0x000A]davanti a sé e colpisce i nemici[0x000A]con lame fatte di forza psichica.[0x000A]Probabile brutto colpo.
+{0xBDFF:0x0078}
+Il Pokémon innalza una barriera di[0x000A]luce e aumenta temporaneamente[0x000A]la resistenza agli effetti negativi.
+Il Pokémon crea davanti a sé[0x000A]una grande sfera di luce, che[0x000A]si suddivide in tante piccole[0x000A]sfere e infligge danni ai nemici[0x000A]intorno.
+Il Pokémon scaglia tre spine[0x000A]appuntite nell'area davanti[0x000A]a sé, infliggendo danni ai[0x000A]nemici colpiti.
+Il Pokémon si lancia sui[0x000A]nemici nell'area davanti[0x000A]a sé, infliggendogli danni.
+Il Pokémon lancia nell'area[0x000A]davanti a sé della seta[0x000A]appiccicosa che spesso[0x000A]riduce la velocità di movimento[0x000A]dei nemici colpiti.
+Il Pokémon colpisce i nemici[0x000A]nell'area davanti a sé con il[0x000A]suo robusto e imponente corno,[0x000A]infliggendogli gravi danni.
+Il Pokémon si cosparge di[0x000A]una polvere irritante, diventando[0x000A]bersaglio dei nemici intorno.
+Il Pokémon colpisce i nemici[0x000A]intorno a sé con un forte vento[0x000A]di polvere di squame, infliggendogli[0x000A]danni. Può anche attivare effetti[0x000A]positivi casuali.
+Il Pokémon succhia il sangue[0x000A]dei nemici di fronte a sé e[0x000A]assorbe una quantità di PS pari[0x000A]a una parte dei danni inferti.
+Il Pokémon attacca i nemici[0x000A]intorno a sé e poi indietreggia[0x000A]per schivare il contrattacco.
+Il Pokémon lancia sui nemici[0x000A]nell'area davanti a sé una[0x000A]sfera scura che infligge danni[0x000A]a quelli che colpisce.[0x000A]Può anche aumentare i danni[0x000A]subiti dai nemici.
+Il Pokémon lecca i nemici[0x000A]intorno a sé con la sua lunga[0x000A]lingua e gli infligge danni.[0x000A]Può anche paralizzarli.
+Il Pokémon colpisce i nemici[0x000A]intorno a sé con una luce[0x000A]funesta che spesso li confonde.
+{0xBDFF:0x0086}
+Il Pokémon cerca di prendere[0x000A]alla sprovvista i nemici di fronte[0x000A]a sé, infliggendo danni a quelli[0x000A]che si spaventano.
+Il Pokémon si lancia con fare[0x000A]minaccioso sui nemici a breve[0x000A]distanza, infliggendogli danni.
+Il Pokémon genera un'onda[0x000A]d'urto dalla bocca, infliggendo[0x000A]danni ai nemici che colpisce.
+Il Pokémon raccoglie le forze[0x000A]e carica i nemici, infliggendogli[0x000A]danni con i suoi artigli affilati[0x000A]mentre rotea.
+Il Pokémon sfoga la sua ira[0x000A]attaccando tutti i nemici[0x000A]che gli capitano a tiro e[0x000A]infliggendogli danni, ma può[0x000A]anche confondere se stesso.
+Il Pokémon scatena nell'area[0x000A]davanti a sé dei tornado che[0x000A]infliggono danni ai nemici[0x000A]che investono.
+Il Pokémon esegue una danza[0x000A]mistica e vigorosa che aumenta[0x000A]temporaneamente i danni inflitti[0x000A]e la sua velocità di movimento.
+Il Pokémon fa cadere intorno a[0x000A]sé delle meteore che infliggono[0x000A]danni ai nemici colpiti.[0x000A]Dopodiché l'entità dei danni[0x000A]che infligge può diminuire.
+Il Pokémon sceglie un bersaglio[0x000A]poco distante nell'area davanti[0x000A]a sé e lo morde, infliggendogli[0x000A]danni.
+Il Pokémon scatta in avanti e[0x000A]colpisce i nemici intorno a sé,[0x000A]infliggendogli danni.[0x000A]Probabile brutto colpo.
+Il Pokémon scompare per[0x000A]un attimo e riappare a breve[0x000A]distanza, lanciandosi sui[0x000A]nemici e infliggendogli danni.
+Il Pokémon stimola il cervello[0x000A]pensando a cose cattive per[0x000A]aumentare temporaneamente[0x000A]i danni inflitti.
+Il Pokémon lusinga i nemici[0x000A]nell'area davanti a sé e[0x000A]li confonde, ma aumenta[0x000A]i danni che infliggono e[0x000A]riduce quelli che subiscono.
+Il Pokémon provoca i nemici[0x000A]intorno a sé e diventa[0x000A]il bersaglio dei loro attacchi.
+Il Pokémon colpisce i nemici[0x000A]nell'area davanti a sé con ali[0x000A]d'acciaio, infliggendogli danni.[0x000A]Può anche ridurre i danni[0x000A]che subisce.
+Il Pokémon infligge danni[0x000A]ai nemici intorno a sé agitando[0x000A]la sua robusta coda d'acciaio.[0x000A]Può anche aumentare i danni[0x000A]subiti dai nemici.
+Il Pokémon infligge danni[0x000A]ai nemici nell'area davanti[0x000A]a sé graffiandoli con i suoi[0x000A]artigli d'acciaio. Può anche[0x000A]aumentare i danni inflitti.
+Il Pokémon rende la sua pelle[0x000A]dura come il ferro per ridurre[0x000A]temporaneamente i danni subiti.
+Il Pokémon emette un orribile[0x000A]stridio simile a quello prodotto[0x000A]dal metallo e spesso aumenta[0x000A]i danni subiti dai nemici nelle[0x000A]vicinanze.
+Il Pokémon concentra la sua[0x000A]energia luminosa e lancia[0x000A]un raggio nell'area davanti[0x000A]a sé. Può anche aumentare[0x000A]i danni subiti dai nemici.
+Il Pokémon emette una luce[0x000A]potentissima e gira in tondo,[0x000A]infliggendo danni ai nemici[0x000A]che colpisce.
+Il Pokémon bacia i nemici di[0x000A]fronte a sé e assorbe una[0x000A]quantità di PS pari a una parte[0x000A]dei danni inferti.
+Il Pokémon ammalia i nemici[0x000A]per renderli meno cauti e[0x000A]spesso riduce i danni che[0x000A]infliggono.
+Il Pokémon bacia i nemici di[0x000A]fronte a sé con una dolcezza[0x000A]angelica. Spesso li confonde.
+{0xBDFF:0x009F}
+Il Pokémon attacca i nemici[0x000A]nell'area davanti a sé[0x000A]con delle carinerie.[0x000A]Può anche ridurre i danni[0x000A]che infliggono.
+Il Pokémon infligge danni[0x000A]ai nemici di fronte a sé[0x000A]graffiandoli con artigli[0x000A]duri e acuminati.
+Il Pokémon infligge danni ai[0x000A]nemici di fronte a sé con una[0x000A]velocissima scarica di pugni.
+Il Pokémon carica i nemici[0x000A]nell'area davanti a sé a[0x000A]una velocità impressionante,[0x000A]infliggendogli danni.
+Il Pokémon si lancia in una[0x000A]carica spericolata contro[0x000A]i nemici nell'area davanti[0x000A]a sé e infligge danni a tutti[0x000A]quelli che travolge.[0x000A]Tuttavia, subisce danni[0x000A]per il contraccolpo.
+Il Pokémon salta sul posto.
+Il Pokémon si addormenta[0x000A]e recupera molti PS.
+Il Pokémon recupera PS grazie[0x000A]all'energia del suo uovo.
+Il Pokémon si avvicina ai nemici[0x000A]nell'area davanti a sé e infligge[0x000A]danni a quelli che si ritrova di[0x000A]fronte con un pugno poderoso.
+Il Pokémon infligge danni a tutti[0x000A]i nemici nelle vicinanze usando[0x000A]la coda, una liana o qualcosa[0x000A]di simile.
+Il Pokémon attira su di sé[0x000A]l'attenzione dei nemici che[0x000A]ha intorno, diventando il loro[0x000A]bersaglio.
+Il Pokémon si riveste di tre[0x000A]diversi tipi di energia e attacca[0x000A]i nemici nell'area davanti a sé,[0x000A]infliggendogli danni.[0x000A]Può anche scottarli, paralizzarli[0x000A]o congelarli.
+Il Pokémon fa un respiro profondo[0x000A]e si concentra per aumentare[0x000A]temporaneamente i danni inflitti.
+Il Pokémon raccoglie le forze[0x000A]e tonifica tutti i suoi muscoli[0x000A]per ridurre temporaneamente[0x000A]i danni subiti.
+Il Pokémon infligge danni ai[0x000A]nemici nell'area davanti a sé[0x000A]calpestandoli con un grosso[0x000A]piede.
+{0xBDFF:0x00AF}
+Il Pokémon distrae i nemici[0x000A]intorno con un tenero ruggito[0x000A]e spesso riduce i danni che[0x000A]infliggono.
+Il Pokémon terrorizza i nemici[0x000A]nelle vicinanze con uno sguardo[0x000A]fulminante e intimidatorio,[0x000A]spesso aumentando i danni che[0x000A]subiscono.
+Il Pokémon canta con voce[0x000A]suadente una ninnananna[0x000A]che fa spesso addormentare[0x000A]i nemici intorno.
+Il Pokémon genera dal proprio[0x000A]corpo strane onde acustiche[0x000A]che spesso confondono[0x000A]i nemici intorno.
+Il Pokémon rigenera le sue[0x000A]cellule e recupera PS.
+Il Pokémon provoca una[0x000A]grande esplosione che causa[0x000A]gravi danni ai nemici intorno[0x000A]a sé, ma va KO.
+Il Pokémon crea una copia di se[0x000A]stesso, che diventa il bersaglio[0x000A]degli attacchi nemici.
+Il Pokémon scatena intorno[0x000A]a sé un forte vento che fa[0x000A]arretrare i nemici che colpisce.
+Il Pokémon emette un'intensa[0x000A]fiammata che fa terra bruciata[0x000A]e infligge danni ai nemici colpiti.[0x000A]Può anche scottarli.
+{0xBDFF:0x00B9}
+Il Pokémon investe i nemici[0x000A]intorno a sé con una luce[0x000A]abbagliante che spesso ne[0x000A]riduce la velocità di movimento.
+Il Pokémon infligge danni[0x000A]ai nemici di fronte a sé[0x000A]graffiandoli ripetutamente.
+Il Pokémon raccoglie delle pietre[0x000A]e le lancia nell'area davanti a sé,[0x000A]infliggendo danni ai nemici[0x000A]che colpisce.
+Il Pokémon ruota verso[0x000A]i nemici intorno a sé e infligge[0x000A]danni a quelli che travolge.
+Il Pokémon erige nell'area[0x000A]davanti a sé dei pilastri di pietra[0x000A]che infliggono danni ai nemici[0x000A]colpiti.
+Il Pokémon lancia un pesante[0x000A]masso nell'area davanti a sé,[0x000A]infliggendo danni ai nemici che[0x000A]colpisce.
+Il Pokémon leviga il proprio[0x000A]corpo per ridurne l'attrito e[0x000A]aumentare temporaneamente[0x000A]la velocità di movimento.
+Il Pokémon causa una tempesta[0x000A]di sabbia che infligge danni ai[0x000A]nemici intorno a sé.
+Il Pokémon fa cadere delle[0x000A]rocce che infliggono danni[0x000A]ai nemici di fronte a sé e[0x000A]possono anche ridurne[0x000A]la velocità di movimento.
+Il Pokémon attiva[0x000A]temporaneamente gli effetti[0x000A]positivi in cambio di una parte[0x000A]dei suoi PS.
+Il Pokémon si lancia in una[0x000A]danza frenetica che incrementa[0x000A]il suo spirito combattivo e[0x000A]aumenta temporaneamente[0x000A]i danni inflitti.
+Il Pokémon emette un ruggito[0x000A]potente che fa arretrare[0x000A]i nemici intorno a sé.
+Il Pokémon medita per[0x000A]risvegliare la propria forza[0x000A]interiore e aumentare[0x000A]temporaneamente i danni[0x000A]inflitti.
+Il Pokémon svuota un po'[0x000A]la mente per dimenticare[0x000A]i problemi e aumentare[0x000A]allo stesso tempo i danni[0x000A]inflitti e la resistenza[0x000A]agli effetti negativi.
+Il Pokémon investe i nemici[0x000A]nell'area davanti a sé con[0x000A]un soffio d'aria incandescente[0x000A]che infligge danni ai nemici[0x000A]colpiti e può anche scottarli.
+Il Pokémon si copre di fuoco[0x000A]e carica i nemici nell'area[0x000A]davanti a sé, infliggendo[0x000A]danni a quelli che colpisce.[0x000A]Può anche scottarli.
+{0xBDFF:0x00CA}
+{0xBDFF:0x00CB}
+{0xBDFF:0x00CC}
+{0xBDFF:0x00CD}
+{0xBDFF:0x00CE}
+{0xBDFF:0x00CF}
+{0xBDFF:0x00D0}
+{0xBDFF:0x00D1}
+{0xBDFF:0x00D2}
+{0xBDFF:0x00D3}
+{0xBDFF:0x00D4}
+{0xBDFF:0x00D5}
+{0xBDFF:0x00D6}
+{0xBDFF:0x00D7}
+{0xBDFF:0x00D8}
+{0xBDFF:0x00D9}
+{0xBDFF:0x00DA}
+{0xBDFF:0x00DB}
+Il Pokémon si riveste di[0x000A]elettricità, balza sui nemici[0x000A]e infligge danni a quelli che[0x000A]colpisce con le sue scariche.[0x000A]Può anche paralizzarli.
+Il Pokémon si dimena per[0x000A]attaccare e infligge danni[0x000A]ai nemici che colpisce.
+Il Pokémon colpisce i nemici[0x000A]nell'area davanti a sé[0x000A]investendoli con tutto il corpo.
+Il Pokémon fa due grandi balzi[0x000A]nell'area davanti a sé,[0x000A]infliggendo danni ai nemici[0x000A]su cui ricade.
+{0xBDFF:0x00E0}
+{0xBDFF:0x00E1}
+{0xBDFF:0x00E2}
+{0xBDFF:0x00E3}
+{0xBDFF:0x00E4}
+{0xBDFF:0x00E5}
+{0xBDFF:0x00E6}
+{0xBDFF:0x00E7}
+{0xBDFF:0x00E8}
+{0xBDFF:0x00E9}
+{0xBDFF:0x00EA}
+Il Pokémon si tira su di morale,[0x000A]aumentando temporaneamente[0x000A]i danni inflitti e riducendo[0x000A]quelli subiti.
+Il Pokémon si avvicina ai nemici[0x000A]ed esplode. Infligge danni a[0x000A]tutti quelli che ha intorno,[0x000A]ma poi va KO.
+Il Pokémon tira delle uova[0x000A]intorno a sé e infligge danni[0x000A]ai nemici che colpisce.
+Il Pokémon usa tutta la sua[0x000A]forza per caricare i nemici[0x000A]davanti a sé, infliggendogli[0x000A]gravi danni.
+Il Pokémon si avventa sui[0x000A]nemici nell'area davanti[0x000A]a sé e gli infligge danni[0x000A]con un singolo attacco.[0x000A]Tuttavia, può anche[0x000A]aumentare i danni subiti.
+Il Pokémon spara diversi semi[0x000A]allo stesso tempo, infliggendo[0x000A]danni ai nemici nell'area[0x000A]davanti a sé.
+Ditto sfrutta una delle[0x000A]mosse del Pokémon in[0x000A]cui si è trasformato.
+Ditto sfrutta una delle[0x000A]mosse del Pokémon in[0x000A]cui si è trasformato.
+Ditto sfrutta una delle[0x000A]mosse del Pokémon in[0x000A]cui si è trasformato.

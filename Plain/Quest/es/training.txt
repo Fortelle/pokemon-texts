@@ -1,0 +1,26 @@
+Entrenamiento
+Nivel
+Movimiento
+Pokémon
+Pokémon de apoyo
+Comenzar
+Nuevo
+Potencial de éxito
+<var>
+Para iniciar el entrenamiento necesitas un Pokémon que realice la sesión y uno o varios Pokémon de apoyo.
+No puedes designar como Pokémon de apoyo a un miembro de tu equipo.
+Este Pokémon ya ha alcanzado su nivel máximo, por lo que no puede beneficiarse del entrenamiento.
+Con el entrenamiento de nivel el Pokémon ganará experiencia. ¿Quieres iniciar la sesión?
+El entrenamiento de movimiento permite modificar los movimientos del Pokémon. ¿Quieres iniciar la sesión?
+
+
+Los Pokémon de apoyo se irán al terminar la sesión.
+Sí
+No
+Gana experiencia
+La cantidad de experiencia acumulada variará en función del Pokémon de apoyo.
+Cambia movimientos
+Es posible que un movimiento cambie por otro. Toca sobre el icono para ver su descripción.
+
+Toca el movimiento que quieres cambiar.
+El entrenamiento no tendría efecto sobre <var>.

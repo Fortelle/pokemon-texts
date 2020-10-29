@@ -1,0 +1,61 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+Realiza sesiones de entrenamiento para liberar espacio[0x000A]o visita la Tienda Pokémon para aumentar el número de[0x000A]aliados que puedes tener.
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0x0200,0x0000}
+{0x0200,0x0000}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+Adornos
+{0xBDFF:0x0017}
+Preparativos en curso...[0x000A]Mientras tanto, sigue explorando la isla.
+¡Equipa al Pokémon con la piedra P que has[0x000A]encontrado!
+{0xBDFF:0x001A}
+{0xBDFF:0x001B}
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}
+¡Enhorabuena! Has conseguido un nuevo aliado[0x000A]Pokémon. ¡Sigue así para tener cada vez más[0x000A]compañeros!
+¡Añade a tus nuevos aliados al equipo de exploradores!
+{0xBDFF:0x0020}
+{0xBDFF:0x0021}
+{0xBDFF:0x0022}
+{0xBDFF:0x0023}
+{0xBDFF:0x0024}
+{0xBDFF:0x0025}
+{0xBDFF:0x0026}
+¡{0x0102,0x0000} es ahora tu aliado!
+Ya no puedes añadir más aliados.
+El plato estará listo cuando hayas completado[0x000A]{0x0201,0x0000} expedici{0x1101,0x0000,0x0402}ónones. ¿Prefieres usar Cupones TP para[0x000A]activar la cocina exprés y evitar la espera?
+{0xBDFF:0x002A}
+Adornos
+Registrado en la Pokédex
+Ya puedes empezar a cocinar. Usa los ingredientes que[0x000A]vayas encontrando en Isla Rodacubo en la elaboración[0x000A]de suculentas recetas para los Pokémon.
+{0xBDFF:0x002E}
+Esta vez puedes usar Cupones TP para terminar de[0x000A]preparar la receta al instante.
+{0xBDFF:0x0030}
+Queda:
+Cocina exprés
+Disponible tras la adquisición de contenido adicional.
+Disponible tras la adquisición de contenido adicional.[0x000A]¿Quieres visitar Nintendo e-Shop?
+¡Has obtenido un logro principal![0x000A]¿Quieres consultar la lista?
+¡Has obtenido varios logros principales![0x000A]¿Quieres consultar la lista?
+No tienes espacio para más aliados, pero puedes[0x000A]ampliarlo realizando sesiones de entrenamiento o[0x000A]adquiriendo estuches en la tienda.
+Entrenar
+Adquirir estuche
+Tu Marmita está vacía. ¿Quieres empezar a preparar un[0x000A]plato antes de partir de expedición?
+La función Auto añade ingredientes a la Marmita de[0x000A]forma aleatoria.
+Los platos que prepares no estarán listos hasta que[0x000A]hayas completado un cierto número de expediciones.[0x000A]¡Asegúrate de llenar la Marmita antes de partir!

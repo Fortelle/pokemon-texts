@@ -1,0 +1,61 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+Schaffe zunächst durchs Spezialtraining[0x000A]oder den Pokémon-Supermarkt Platz[0x000A]für zusätzliche Pokémon-Freunde.
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0x0200,0x0000}
+{0x0200,0x0000}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+Deko-Objekte
+{0xBDFF:0x0017}
+Hier werden noch Vorbereitungen getroffen...[0x000A]Geh weiter auf Erkundung, bis alles fertig ist.
+Gib den bei der Erkundung gefundenen P-Stein[0x000A]deinem neuen Pokémon-Freund!
+{0xBDFF:0x001A}
+{0xBDFF:0x001B}
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}
+Glückwunsch![0x000A]Du hast dich mit einem neuen Pokémon angefreundet![0x000A]Versuche, noch mehr Pokémon-Freunde zu finden!
+Füge deine neuen Pokémon-Freunde[0x000A]deinem Erkundungsteam hinzu!
+{0xBDFF:0x0020}
+{0xBDFF:0x0021}
+{0xBDFF:0x0022}
+{0xBDFF:0x0023}
+{0xBDFF:0x0024}
+{0xBDFF:0x0025}
+{0xBDFF:0x0026}
+Mit {0x0102,0x0000} angefreundet!
+Kein Platz für weitere Freunde!
+Noch {0x0201,0x0000} Erkundung{0x1101,0x0000,0x0200}en, dann ist das Gericht fertig.[0x000A]Möchtest du PS-Gutscheine verwenden,[0x000A]um es sofort fertigzukochen?
+{0xBDFF:0x002A}
+Deko-Objekte
+Im Pokédex registriert!
+Zum Kochen ist alles bereit![0x000A]Benutze die Zutaten, die du auf Kubo-Eiland findest,[0x000A]um Gerichte für Pokémon zuzubereiten.
+{0xBDFF:0x002E}
+Hier sind ein paar PS-Gutscheine.[0x000A]Nutze sie, um das Gericht sofort fertigzustellen.
+{0xBDFF:0x0030}
+Noch
+Jetzt fertigstellen
+Dies wird freigeschaltet, wenn du zusätzliche Inhalte[0x000A]erwirbst.
+Dies wird freigeschaltet, wenn du zusätzliche Inhalte[0x000A]erwirbst.[0x000A]Möchtest du zum Nintendo eShop?
+Du hast eine Hauptaufgabe abgeschlossen![0x000A]Möchtest du deine Erfolge einsehen?
+Du hast Hauptaufgaben abgeschlossen![0x000A]Möchtest du deine Erfolge einsehen?
+Du hast keinen Platz für weitere Freunde. Mehr Platz[0x000A]kannst du schaffen, indem du mit Pokémon das[0x000A]Spezialtraining durchführst oder Box-Erweiterungen[0x000A]im Pokémon-Supermarkt kaufst.
+Spezialtraining
+Box-Erweiterung
+Der Kochtopf ist leer.[0x000A]Setze doch ein neues Gericht auf, bevor du wieder auf[0x000A]Erkundung gehst.
+Du kannst Zutaten auch zufällig auswählen und in den[0x000A]Kochtopf geben, indem du die gelbe Schaltfläche rechts[0x000A]berührst.
+Gerichte werden fertiggestellt, während du wiederholt[0x000A]auf Erkundung gehst. Vergiss nicht, immer ein Gericht[0x000A]aufzusetzen, bevor du zu einer Erkundung aufbrichst.

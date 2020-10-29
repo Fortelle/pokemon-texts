@@ -1,0 +1,113 @@
+???
+Trova {0x0202,0x0000} alleati di tipo Normale.
+Trova {0x0202,0x0000} alleati di tipo Fuoco.
+Trova {0x0202,0x0000} alleati di tipo Acqua.
+Trova {0x0202,0x0000} alleati di tipo Elettro.
+Trova {0x0202,0x0000} alleati di tipo Erba.
+Trova {0x0202,0x0000} alleati di tipo Ghiaccio.
+Trova {0x0202,0x0000} alleati di tipo Lotta.
+Trova {0x0202,0x0000} alleati di tipo Veleno.
+Trova {0x0202,0x0000} alleati di tipo Terra.
+Trova {0x0202,0x0000} alleati di tipo Volante.
+Trova {0x0202,0x0000} alleati di tipo Psico.
+Trova {0x0202,0x0000} alleati di tipo Coleottero.
+Trova {0x0202,0x0000} alleati di tipo Roccia.
+Trova {0x0202,0x0000} alleati di tipo Spettro.
+Trova {0x0202,0x0000} alleati di tipo Drago.
+Trova {0x0202,0x0000} alleati di tipo Acciaio.
+Trova {0x0202,0x0000} alleati di tipo Folletto.
+Fai salire di livello i Pokémon {0x0203,0x0000,0x002E} volte.
+Porta {0x0202,0x0000} Pokémon al L. 50.
+Porta {0x0202,0x0000} Pokémon al L. 100.
+Porta a {0x0204,0x0000,0x002E} l'Attacco di un Pokémon.
+Porta a {0x0204,0x0000,0x002E} i PS di un Pokémon.
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+Usa {0x0202,0x0000} mosse diverse.
+{0xBDFF:0x001A}
+Fai evolvere {0x0202,0x0000} Pokémon.
+Fai evolvere tutti i Pokémon[0x000A]in squadra in una sola volta.
+{0xBDFF:0x001D}
+{0xBDFF:0x001E}
+Alleati con Articuno.
+Alleati con Zapdos.
+Alleati con Moltres.
+Alleati con Mewtwo.
+Alleati con Mew.
+Alleati con un Pokémon cromatico.
+Completa {0x0203,0x0000,0x002E} esplorazioni.
+Ricevi dei coupon PM {0x0201,0x0000} volte.
+Cucina {0x0202,0x0000} volte.
+Ottieni {0x0203,0x0000,0x002E} pietre P.
+Registra {0x0202,0x0000} Pokémon nel Pokédex.
+Usa lo sparring livello {0x0202,0x0000} volte.
+Usa lo sparring mosse {0x0202,0x0000} volte.
+Scopri {0x0201,0x0000} ricette.
+Porta a {0x0204,0x0000,0x002E} la potenza della squadra.
+Metti 18 decorazioni nella base.
+Usa una mossa collegata[0x000A]alla Pietra Multicolpo.
+Usa una mossa collegata[0x000A]alla Pietra Estensione.
+Usa una mossa collegata[0x000A]alla Pietra Bis.
+Usa una mossa collegata[0x000A]alla Pietra Ricarica.
+Usa una mossa collegata[0x000A]alla Pietra Durata.
+Usa una mossa collegata[0x000A]alla Pietra Unisono.
+Fai un tris su un Amuleto P.
+Fai due tris su un Amuleto P.
+Fai tre tris su un Amuleto P.
+Cucina con un Pentolone di bronzo.
+Cucina con un Pentolone d'argento.
+Cucina con un Pentolone d'oro.
+Esplora l'isola con due Pokémon a distanza[0x000A]e uno in prima linea.
+Esplora l'isola con due Pokémon in prima linea[0x000A]e uno a distanza.
+Esplora l'isola solo con Pokémon[0x000A]in prima linea.
+Esplora l'isola solo con Pokémon a distanza.
+Ricicla {0x0202,0x0000} pietr{0x1101,0x0000,0x0101}ae P.
+Sconfiggi {0x0203,0x0000,0x002E} Pokémon di tipo Normale.
+Sconfiggi {0x0203,0x0000,0x002E} Pokémon di tipo Fuoco.
+Sconfiggi {0x0203,0x0000,0x002E} Pokémon di tipo Acqua.
+Sconfiggi {0x0203,0x0000,0x002E} Pokémon di tipo Elettro.
+Sconfiggi {0x0203,0x0000,0x002E} Pokémon di tipo Erba.
+Sconfiggi {0x0203,0x0000,0x002E} Pokémon di tipo Ghiaccio.
+Sconfiggi {0x0203,0x0000,0x002E} Pokémon di tipo Lotta.
+Sconfiggi {0x0203,0x0000,0x002E} Pokémon di tipo Veleno.
+Sconfiggi {0x0203,0x0000,0x002E} Pokémon di tipo Terra.
+Sconfiggi {0x0203,0x0000,0x002E} Pokémon di tipo Volante.
+Sconfiggi {0x0203,0x0000,0x002E} Pokémon di tipo Psico.
+Sconfiggi {0x0203,0x0000,0x002E} Pokémon di tipo Coleottero.
+Sconfiggi {0x0203,0x0000,0x002E} Pokémon di tipo Roccia.
+Sconfiggi {0x0203,0x0000,0x002E} Pokémon di tipo Spettro.
+Sconfiggi {0x0203,0x0000,0x002E} Pokémon di tipo Drago.
+Sconfiggi {0x0203,0x0000,0x002E} Pokémon di tipo Acciaio.
+Sconfiggi {0x0203,0x0000,0x002E} Pokémon di tipo Folletto.
+Esplora l'isola con tre Pokémon[0x000A]di tipo Normale in squadra.
+Esplora l'isola con tre Pokémon[0x000A]di tipo Fuoco in squadra.
+Esplora l'isola con tre Pokémon[0x000A]di tipo Acqua in squadra.
+Esplora l'isola con tre Pokémon[0x000A]di tipo Elettro in squadra.
+Esplora l'isola con tre Pokémon[0x000A]di tipo Erba in squadra.
+Esplora l'isola con tre Pokémon[0x000A]di tipo Ghiaccio in squadra.
+Esplora l'isola con tre Pokémon[0x000A]di tipo Lotta in squadra.
+Esplora l'isola con tre Pokémon[0x000A]di tipo Veleno in squadra.
+Esplora l'isola con tre Pokémon[0x000A]di tipo Terra in squadra.
+Esplora l'isola con tre Pokémon[0x000A]di tipo Volante in squadra.
+Esplora l'isola con tre Pokémon[0x000A]di tipo Psico in squadra.
+Esplora l'isola con tre Pokémon[0x000A]di tipo Coleottero in squadra.
+Esplora l'isola con tre Pokémon[0x000A]di tipo Roccia in squadra.
+Esplora l'isola con tre Pokémon[0x000A]di tipo Spettro in squadra.
+Esplora l'isola con tre Pokémon[0x000A]di tipo Drago in squadra.
+Esplora l'isola con tre Pokémon[0x000A]di tipo Acciaio in squadra.
+Esplora l'isola con tre Pokémon[0x000A]di tipo Folletto in squadra.
+Esplora {0x0202,0x0000} volt{0x1101,0x0000,0x0101}ae il livello 12-1[0x000A]dell'Isola delle Sorprese.
+Esplora {0x0202,0x0000} volt{0x1101,0x0000,0x0101}ae il livello 12-2[0x000A]dell'Isola delle Sorprese.
+Esplora {0x0202,0x0000} volt{0x1101,0x0000,0x0101}ae il livello 12-3[0x000A]dell'Isola delle Sorprese.
+Esplora {0x0202,0x0000} volt{0x1101,0x0000,0x0101}ae il livello 12-4[0x000A]dell'Isola delle Sorprese.
+Esplora {0x0202,0x0000} volt{0x1101,0x0000,0x0101}ae il livello 12-5[0x000A]dell'Isola delle Sorprese.
+Esplora {0x0202,0x0000} volt{0x1101,0x0000,0x0101}ae il livello 12-6[0x000A]dell'Isola delle Sorprese.
+Esplora {0x0202,0x0000} volt{0x1101,0x0000,0x0101}ae il livello 12-7[0x000A]dell'Isola delle Sorprese.
+Esplora {0x0202,0x0000} volt{0x1101,0x0000,0x0101}ae il livello 12-8[0x000A]dell'Isola delle Sorprese.
+Esplora {0x0202,0x0000} volt{0x1101,0x0000,0x0101}ae il livello BOSS[0x000A]dell'Isola delle Sorprese.
+Completa il Pokédex dell'Isola Cubetti.
+{0xBDFF:0x006C}
+{0xBDFF:0x006D}
+{0xBDFF:0x006E}
+{0xBDFF:0x006F}
+{0xBDFF:0x0070}

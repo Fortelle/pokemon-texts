@@ -1,0 +1,65 @@
+ATQ
+{0xBDFF:0x0001}
+PS
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+TR del movimiento (%)
+Repetición del movimiento
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+Radio de ataque
+{0xBDFF:0x000A}
+ATQ del movimiento (%)
+N.º de proyectiles
+{0xBDFF:0x000D}
+Autocuración de PS (%)
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+Velocidad (%)
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+Golpes críticos (%)
+Daño crítico (%)
+Recuperación rápida (%)
+PS al recuperarse (%)
+Tamaño del Pokémon (%)
+Resistencia a: {0x016A,0x0000} (%)
+{0xBDFF:0x0020}
+Duración efectos positiv. (%)
+{0xBDFF:0x0022}
+Duración efectos neg. (%)
+Distancia retroceso (%)
+{0xBDFF:0x0025}
+{0xBDFF:0x0026}
+Efectos positiv. aliados (%)
+Curación PS al dañar (%)
+Curación PS al debilitar (%)
+ATQ mov. tipo {0x0103,0x0000} (%)
+TR mov. tipo {0x0103,0x0000} (%)
+Daño de tipo {0x0103,0x0000} (%)
+Golpes críticos recibidos (%)
+Curación tras oleada (%)
+TR de ataques normales (%)
+Resistencia efectos neg. (%)
+Resistencia probl. estado (%)
+Golpes críticos (%)
+Golpes críticos (%)
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+Recuperación rápida (%)
+PS al recuperarse (%)
+{0xBDFF:0x0038}
+Curación PS al dañar (%)
+Curación PS al debilitar (%)
+{0xBDFF:0x003B}
+Resistencia efectos neg. (%)
+Resistencia probl. estado (%)
+{0xBDFF:0x003E}
+{0xBDFF:0x003F}
+TR del movimiento (%)

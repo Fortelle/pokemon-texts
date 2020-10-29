@@ -1,0 +1,65 @@
+ATT
+{0xBDFF:0x0001}
+PS
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+Tempo ricarica mossa (%)
+Ripetizione mossa
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+Ampiezza attacco
+{0xBDFF:0x000A}
+ATT mossa (%)
+Numero colpi
+{0xBDFF:0x000D}
+Cura naturale PS (%)
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+Velocità di movimento (%)
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+Probabilità brutti colpi (%)
+Danni da brutto colpo (%)
+Tempo ripresa da KO (%)
+PS dopo la ripresa (%)
+Modifica taglia Pokémon (%)
+Resistenza: {0x016A,0x0000} (%)
+{0xBDFF:0x0020}
+Durata effetti positivi (%)
+{0xBDFF:0x0022}
+Durata effetti nocivi (%)
+Proprio arretramento (%)
+{0xBDFF:0x0025}
+{0xBDFF:0x0026}
+Effetti positivi per gli alleati (%)
+Cura PS colpendo (%)
+Cura PS causando KO (%)
+ATT mosse {0x0103,0x0000} (%)
+Tempo ric. mosse {0x0103,0x0000} (%)
+Danni da mosse {0x0103,0x0000} (%)
+Probab. di subire brutti colpi (%)
+Cura PS a ogni ondata (%)
+Tempo ric. attacchi autom. (%)
+Resistenza a effetti negativi (%)
+Resist. a problemi di stato (%)
+Probabilità brutti colpi (%)
+Probabilità brutti colpi (%)
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+Tempo ripresa da KO (%)
+PS dopo la ripresa (%)
+{0xBDFF:0x0038}
+Cura PS colpendo (%)
+Cura PS causando KO (%)
+{0xBDFF:0x003B}
+Resistenza a effetti negativi (%)
+Resist. a problemi di stato (%)
+{0xBDFF:0x003E}
+{0xBDFF:0x003F}
+Tempo ricarica mossa (%)

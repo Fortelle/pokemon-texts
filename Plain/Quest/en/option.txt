@@ -1,0 +1,190 @@
+Agree to Terms of Service
+Have you read and do you agree to the above Terms of Service?
+No
+Yes
+WARNING
+If you do not agree to the Terms of Service, you cannot use this application.
+An error has occurred. Error ID: <var>
+An error has occurred.
+That name cannot be used.
+Names can't be longer than 12 characters.
+An error has occurred. Please check your connection and try again a little later.
+An error has occurred. Please check your connection and try again a little later. Error ID: <var>
+Please grant permission in your phone's Settings for this application to use push notifications.
+The birth date you entered is invalid.
+Connectivity error. To register as a player, you must be connected to the internet. Please check your connection and try again.
+Device time error. The time settings for your device have changed since the last time you played. This may lead to issues with your data. Be sure your time is set correctly before playing.
+Error: The time settings for your device have changed. You cannot receive PM Tickets if 22 hours have not passed since you last received them.
+The next time you will be able to receive PM Tickets is: <var>/<var>/<var>, <var>:<var>(your device's time)
+Transfer failed. Connectivity error. Please check your connection and try again.
+Transfer failed. The Backup ID or Backup Key that you entered has an error. Please try entering the ID or Key created on your previous device again.
+You must wait at least three days from your last data restore to be able to restore your backup data again.
+This ID is already in use. Please enter a different ID.
+You must be connected to the internet to give a nickname.
+Try again later to change the nickname by using the button on your home screen.
+Do it later
+Please set up your Facebook account from your device Settings.
+To use this function, you must give this application permission to access your phone's storage.
+Go to Settings
+Image failed to save.
+Purchase error. Your decorations purchase was unable to be completed. Please restart the application and try the purchase process again.
+ID input error. IDs must be between four and 16 characters in length.
+Error: Unable to complete your purchase of additional contents that was interrupted. Please restart the application and open the additional contents list to try the purchase process again. Error ID: <var>
+Error: Unable to retrieve product information. Please check your connection, allow some time to pass, and try again.
+Your age does not meet the requirement, so you cannot purchase additional contents.
+Error: You are using an older version of the application. Please try again after updating the application to the latest version. Error ID: <var>
+Error: The transfer process is underway on another device. Please try again later. Error ID: <var>
+Error: Your backup data is corrupt. Please check your connection and try again. If the situation still doesn't improve, please contact us for support. (Support ID: <var><var><var><var>) Error ID: <var>
+Error: Your backup data is corrupt. Please check your connection and try again. If the situation still doesn't improve, please contact us for support.
+(Support ID: <var><var><var><var>) Error ID: <var>
+Error: Your backup data is corrupt. Please check your connection and try again. If the situation still doesn't improve, please contact us for support. (Support ID: <var><var><var><var>) Error ID: <var>
+Error: Your backup data is corrupt. Please check your connection and try again. If the situation still doesn't improve, please contact us for support.
+(Support ID: <var><var><var><var>) Error ID: <var>
+
+Retry
+Error: Please check your connection, allow some time to pass, and try again. Error ID: <var>
+Error: You are using an older version of the application. Please try again after updating the application to the latest version. Error ID: <var>
+Your data has been reset. Please restart the application.
+Error: The transfer process is underway on another device. Please try again later. Error ID: <var>
+Error: The transfer process timed out. Please restart the application and try again from the beginning. Error ID: <var>
+Error: A corrupt receipt has been detected, so the process will be interrupted. If you are unable to receive a product you have purchased, please contact us for support (support ID: <var><var><var><var>). Error ID: <var>
+Error: A corrupt receipt has been detected, so the process will be interrupted. If you are unable to receive a product you have purchased, please contact us for support.
+(support ID: <var><var><var><var>). Error ID: <var>
+You have already purchased all of the additional contents.
+Support
+Would you like to go to the support site?
+Your Support ID
+Copy
+Support ID
+Your Support ID has been copied.
+Message from the Support Team
+No new messages.
+The Support Team has sent you a gift! Please accept it.
+Get it
+You received a <var>.
+You received <var> × <var>.
+<var> came to your base camp.
+You can cook more dishes at the same time now.
+(Application version: <var>)
+There has been a change made to the Terms of Service / Privacy Policy.
+This application can be played in full without spending any money. (There are items available for purchase.) Please see the Terms of Service for more information about purchases. If you are a minor, please have an adult (like your mom or dad!) read through the Terms of Use with you before you begin playing. Be sure that you have a parent or guardian's permission before you purchase any items, and make the purchase together!
+Getting Started
+If it's your first time playing, please select New Start. If you have backup data to load, please select Load Data.
+Transfer Data
+New Start
+Confirm Age
+Please enter the month and year you were born in.
+Birth Year
+Birth Month
+OK
+YYYY
+MM
+Confirm Age
+Is this correct?
+Birth Month and Year
+<var>, <var>
+You cannot change this setting later.
+News
+An update has arrived! Visit your online store to update the application.
+To Store
+Communicating...
+CONTINUE
+Let's pick back up from where you left off.
+You can make a backup of your data just in case the worst should happen. Then you can continue your game—even on another device!
+Transferring Data
+Please enter the ID and Key you registered on your other device.
+Backup ID
+Backup Key
+Note: After you transfer your backup data onto this device, you will no longer be able to play with the same data on your previous device. You will also be unable to move your data to any other device for a three-day period.
+Cancel
+Transfer Data
+Data Transferred!
+Your backup game data has been successfully transferred to this device. Please restart the application.
+Restoring data...
+Transferring Data
+The backup data from this device is being used on another device. Would you like to reset your game on this device and start over?
+Support
+Resetting data...
+Resetting Data
+If you reset your game, any data saved on this device will be lost. Are you sure you want to reset?
+Cancel
+Reset
+Resetting Data
+Your game data has been reset. The application will now close. Please open the application again to begin your new game.
+Data Backup
+You can create a backup of your current data. This backup data can be loaded onto another device, if you wish.
+Data Backup Warnings
+Data Backup Settings
+Backup ID
+Set
+Please enter an ID that is four to 16 characters long.
+Confirm
+<var> You cannot change your ID later. Are you sure you want to use this ID?
+
+
+Setting...
+Your settings have been saved and you have been issued a Backup Key. You will need both your Backup ID and your Backup Key when you want to move your data to another device.
+Tip: Write down or take a screenshot of your Backup Key, and keep it safe where others won't discover it.
+Create Backup
+Last Backup Created
+Confirm ID and Key
+Backup ID
+Backup Key
+Confirm
+Having read the warnings, do you still want to create a backup of your current game data?
+Cancel
+Yes
+Complete
+Your backup data has been created.
+Your backup data has been updated.
+Transfer Warnings
+
+About Data Transfer
+You can only transfer backup data when first starting this game. When you set your own Backup ID, a Backup Key will be generated for you automatically. You will need both your Backup ID and this Backup Key to transfer your backup data to a new device, so be sure to keep a record of both.
+You can transfer your play data from the title screen. If you create a backup ID, a backup key will be created automatically.
+You will need your backup ID and backup key in order to transfer your play data, so please store them securely after they have been issued.
+Warnings
+•The Backup ID and Backup Key do not expire. •When you've finished transferring data, be advised that you will be unable to transfer to another device for three days. •When you've finished transferring data, you will not be able to play on your old device with the same data. If you would like to play on your old device, please start a new game. •It is only possible to transfer data the first time you start up the app from the title screen after you've changed devices. •If you have purchased Decorations since your last Backup, you will not be able to transfer them unless you Backup again. •When transferring to a different OS, you won't be able to transfer Decorations you purchased. Note: You can transfer Decorations to a device with the same OS. •Make sure you have a strong connection to the internet before transferring data. •When this app is no longer supported, you will not be able to backup or transfer your data.
+•The Backup ID and Backup Key do not expire. •When you've finished transferring data, be advised that you will be unable to transfer to another device for <var> days. •When you've finished transferring data, you will not be able to play on your old device with the same data. If you would like to play on your old device, please start a new game.
+•You can transfer your play data from the title screen. •Make sure you have a strong connection to the internet before transferring data. •When this app is no longer supported, you will not be able to backup or transfer your data.
+<var>/<var>/<var>
+<var>:<var>
+An ID and a Key are needed to transfer data. Please confirm with the button below.
+Note: Please do not input personal information.
+There is no backup data.
+
+SHARE
+Image saved!
+Photos
+Share with everybody!
+SHARE
+SAVE
+The image will be saved on your device.
+Purchase
+Purchase Complete
+The error that happened the last time you were purchasing Decorations was fixed and the purchase has now completed successfully.
+Age Confirmation
+Did you get permission to purchase Decorations from your parent or guardian?
+You can't purchase Decorations without permission from your parent or guardian.
+Unable to Purchase
+You've already purchased some items that you haven't received yet. Head to the shop to pick them up!
+Get the items that you've already purchased but haven't received yet.
+Note: Even if you do not purchase this product, you will be able to purchase the Pikachu Surfboard with PM Tickets after 72 hours have passed. Note: Even if there is some difficulty that prevents the purchase temporarily, you will no longer be able to purchase the Mini Expedition Pack after 72 hours.
+Note: Even if you do not purchase this product, you will be able to purchase the Pikachu Surfboard with PM Tickets after 72 hours have passed.
+Note: Even if there is some difficulty that prevents the purchase temporarily, you will no longer be able to purchase the Mini Expedition Pack after 72 hours.
+You purchased <var>.
+Error: Your purchase of additional contents was unable to be completed. Please restart the application and open the additional contents list to try the purchase process again. Error ID: <var>
+You cannot use the Back button now.
+The application will be closed. Are you sure you want to exit?
+Close Application
+Loading...
+Please wait...
+Saving Screenshots
+Saved!
+An error has occurred.
+You can pick up your PM Tickets!
+MoBee's battery is now full!
+Pokémon are visiting your base camp!
+Explore Tumblecube Island!
+Your Pokémon are waiting for you!
+Tap to start

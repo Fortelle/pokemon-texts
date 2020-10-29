@@ -1,0 +1,36 @@
+HP
+{0x0205,0x0000,0x0000}
+ATK
+{0x0205,0x0000,0x0000}
+Lv.
+{0x0202,0x0000}
+WAIT
+{0x0202,0x0000}
++{0x0205,0x0000,0x0000}
+-{0x0205,0x0000,0x0000}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0x0102,0x0000}
+{0x0206,0x0000,0x0000}
+{0x0204,0x0000,0x002C}
+Team Strength
+Move Stones you can attach
+Effect
+Pokémon's Strength
+HP
+ATK
+Stones' Strength
+HP
+ATK
+Critical Hit Rate (%)
+Critical Hit Damage (%)
+Natural Healing (%)
+Hit Healing (%)
+Healing from K.O. (%)
+Time to Recover (%)
+HP upon Recovery (%)
+Resistant to ↓ Effects (%)
+Resistant to Status Conditions (%)
+Movement Speed (%)
+Bingo Bonus

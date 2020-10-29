@@ -1,0 +1,36 @@
+PS
+{0x0205,0x0000,0x0020}
+ATQ
+{0x0205,0x0000,0x0020}
+Nv.
+{0x0202,0x0000}
+TR
+{0x0202,0x0000}
++{0x0205,0x0000,0xE07F}
+-{0x0205,0x0000,0xE07F}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0x0102,0x0000}
+{0x0206,0x0000,0x0020}
+{0x0204,0x0000,0x0020}
+POT equipo
+Piedras movimiento compatibles
+Efecto
+POT Pokémon
+PS
+ATQ
+POT piedras
+PS
+ATQ
+Golpes críticos (%)
+Daño crítico (%)
+Autocuración de PS (%)
+Curación PS al dañar (%)
+Curación PS al debilitar (%)
+Recuperación rápida (%)
+PS al recuperarse (%)
+Resistencia efectos neg. (%)
+Resistencia probl. estado (%)
+Velocidad (%)
+Bonus por línea

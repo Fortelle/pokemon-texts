@@ -1,0 +1,190 @@
+Termini di utilizzo
+Accetti i termini di utilizzo del servizio?
+No
+Sì
+Avviso
+Per usare questa applicazione è necessario[0x000A]accettare i termini di utilizzo del servizio.
+Si è verificato un errore.[0x000A]Codice errore: {0x0209,0x0000,0x0000}
+Si è verificato un errore.
+Questo nome non si può usare.
+Scegli un nome di massimo 12 caratteri.
+Si è verificato un errore.[0x000A]Controlla la connessione e riprova più tardi.
+Si è verificato un errore.[0x000A]Controlla la connessione e riprova più tardi.[0x000A]Codice errore: {0x0209,0x0000,0x0000}
+Attiva le notifiche push dalle impostazioni del tuo[0x000A]dispositivo.
+Inserisci una data di nascita valida.
+Errore connessione[0x000A][0x000A]Per eseguire la registrazione utente[0x000A]è necessario essere connessi a Internet.[0x000A]Controlla la connessione e riprova.
+Errore data/ora[0x000A][0x000A]Rilevate modifiche nelle impostazioni di data e ora del[0x000A]dispositivo che potrebbero causare problemi con i dati[0x000A]di gioco. Assicurati di impostare data e ora corrette.
+Errore[0x000A]Rilevate modifiche nelle impostazioni di data e ora[0x000A]del dispositivo. I coupon PM non si possono ricevere[0x000A]prima che siano trascorse 22 ore.
+Prossima occasione di riceverli:[0x000A]{0x0201,0x0000}/{0x0201,0x0000}/{0x0203,0x0000,0x0000} {0x0201,0x0000}:{0x0201,0x0000} (ora del dispositivo).
+Errore trasferimento[0x000A][0x000A]Errore di comunicazione.[0x000A]Controlla la connessione e riprova.
+Errore trasferimento[0x000A][0x000A]ID trasferimento o chiave trasferimento errati.[0x000A]Controlla i dati e riprova.
+Per eseguire un nuovo trasferimento dei dati di gioco[0x000A]è necessario attendere almeno tre giorni dall'ultimo[0x000A]trasferimento.
+Questo ID è già stato usato.[0x000A]Inserisci un altro ID.
+Per impostare il proprio nome è necessario essere[0x000A]connessi a Internet.
+Riprova più tardi toccando l'icona in alto.
+Ok
+Aggiungi un account Facebook dalle impostazioni[0x000A]del tuo dispositivo.
+Per usare questa funzione è necessario autorizzare[0x000A]l'applicazione ad accedere alla memoria[0x000A]del dispositivo.
+Impostazioni
+Errore salvataggio. Condivisione non riuscita.
+Errore acquisto[0x000A][0x000A]Non è stato possibile completare l'acquisto[0x000A]delle decorazioni.[0x000A]Riavvia l'applicazione e riprova.
+Errore inserimento ID[0x000A][0x000A]L'ID deve avere una lunghezza compresa fra 4 e 16[0x000A]caratteri.
+Errore[0x000A]L'acquisto di un contenuto aggiuntivo è stato interrotto.[0x000A]Riavvia l'applicazione e torna alla schermata[0x000A]dei contenuti aggiuntivi.[0x000A]Codice errore: {0x0209,0x0000,0x0000}
+Errore[0x000A]Non è possibile recuperare le informazioni sul prodotto.[0x000A]Controlla la connessione e riprova più tardi.
+Non è possibile acquistare i contenuti aggiuntivi[0x000A]perché non hai i requisiti di età necessari.
+Errore[0x000A]La versione dell'applicazione in uso è obsoleta.[0x000A]Aggiorna l'applicazione e riprova.[0x000A]Codice errore: {0x0209,0x0000,0x0000}
+Errore[0x000A]Trasferimento dei dati su un altro dispositivo in corso.[0x000A]Riprova più tardi.[0x000A]Codice errore: {0x0209,0x0000,0x0000}
+Errore[0x000A]Dati di gioco non validi.[0x000A]Controlla la connessione e riprova.[0x000A]Se il problema persiste, contatta il servizio clienti.[0x000A](ID cliente: {0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000})[0x000A]Codice errore: {0x0209,0x0000,0x0000}
+Errore[0x000A]Dati di gioco non validi.[0x000A]Controlla la connessione e riprova.[0x000A]Se il problema persiste, contatta il servizio clienti.
+(ID cliente: {0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000})[0x000A]Codice errore: {0x0209,0x0000,0x0000}
+Errore[0x000A]Dati non validi.[0x000A]Controlla la connessione e riprova.[0x000A]Se il problema persiste, contatta il servizio clienti.[0x000A](ID cliente: {0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000})[0x000A]Codice errore: {0x0209,0x0000,0x0000}
+Errore[0x000A]Dati non validi.[0x000A]Controlla la connessione e riprova.[0x000A]Se il problema persiste, contatta il servizio clienti.
+(ID cliente: {0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000})[0x000A]Codice errore: {0x0209,0x0000,0x0000}
+{0xBDFF:0x002A}
+Riprova
+Errore[0x000A]Controlla la connessione e riprova più tardi.[0x000A]Codice errore: {0x0209,0x0000,0x0000}
+Errore[0x000A]La versione dell'applicazione in uso è obsoleta.[0x000A]Aggiorna l'applicazione e riprova.[0x000A]Codice errore: {0x0209,0x0000,0x0000}
+I dati di gioco sono stati cancellati.[0x000A]Riavvia l'applicazione.
+Errore[0x000A]Trasferimento dei dati su un altro dispositivo in corso.[0x000A]Riprova più tardi.[0x000A]Codice errore: {0x0209,0x0000,0x0000}
+Errore[0x000A]Il trasferimento non si è concluso in tempo.[0x000A]Riavvia l'applicazione e riprova dall'inizio.[0x000A]Codice errore: {0x0209,0x0000,0x0000}
+Errore[0x000A]Rilevata ricevuta non valida. L'operazione verrà[0x000A]interrotta. Se non riesci a ricevere il prodotto acquistato[0x000A]contatta il servizio clienti.[0x000A](ID cliente: {0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000})[0x000A]Codice errore: {0x0209,0x0000,0x0000}
+Errore[0x000A]Rilevata ricevuta non valida. L'operazione verrà[0x000A]interrotta. Se non riesci a ricevere il prodotto acquistato[0x000A]contatta il servizio clienti.
+(ID cliente: {0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000})[0x000A]Codice errore: {0x0209,0x0000,0x0000}
+Hai già acquistato tutti i contenuti aggiuntivi.
+Servizio clienti
+Vuoi andare al sito del servizio clienti?
+Tuo ID cliente
+Copia
+ID cliente
+Il testo è stato copiato.
+Notifiche servizio clienti
+Non ci sono notifiche.
+Hai ricevuto un regalo dal servizio clienti!
+Ricevi
+Hai ricevuto:[0x000A]{0x010A,0x0000}
+Hai ricevuto:[0x000A]{0x010A,0x0000} x{0x0204,0x0000,0x002E}
+{0x0101,0x0000} è arrivato nella base!
+Ora puoi cucinare più piatti contemporaneamente.
+Versione applicazione: {0x0209,0x0000,0x0000}
+Sono state apportate modifiche ai termini di utilizzo[0x000A]e all'informativa sulla privacy.
+Questa applicazione è gratuita e potrai svolgere[0x000A]il gioco nella sua interezza senza alcun costo.[0x000A]Sarà possibile acquistare alcuni strumenti.[0x000A]Per altre informazioni, consulta i termini di utilizzo[0x000A]del servizio.[0x000A]Gli utenti di età inferiore ai 18 anni devono leggere[0x000A]i termini di utilizzo insieme ai genitori o a chi ne fa[0x000A]le veci. Per eseguire acquisti nel gioco, tali utenti[0x000A]devono ottenere l'autorizzazione dei genitori o di chi[0x000A]ne fa le veci.
+Per iniziare
+Seleziona "Gioca" per iniziare a giocare o "Trasferisci"[0x000A]per trasferire i dati di gioco da un altro dispositivo.
+Trasferisci
+Gioca
+Verifica dell'età
+Inserisci la tua data di nascita (anno e mese).
+Anno
+Mese
+Ok
+AAAA
+MM
+Verifica dell'età
+Controlla i dati inseriti.
+Mese e anno:
+{0x0201,0x0001}/{0x0203,0x0000,0x0000}
+Una volta iniziato il gioco, non potrai più modificare[0x000A]questi dati.
+Avviso
+È disponibile un aggiornamento![0x000A]Puoi scaricarlo dall'apposito negozio.
+Aggiorna
+Connessione...
+Continua
+Il gioco riprenderà da dove è stato interrotto.
+Per evitare inconvenienti, fai un backup del tuo gioco.[0x000A]Potrai così trasferire i dati di gioco su un altro[0x000A]dispositivo.
+Trasferimento dati
+Inserisci l'ID e la chiave di trasferimento generati[0x000A]tramite il dispositivo da cui vuoi trasferire i dati.
+ID trasferimento
+Chiave trasferimento
+Attenzione: una volta trasferiti i dati di gioco, non[0x000A]potrai più giocare usando il dispositivo di origine.[0x000A]Per eseguire un nuovo trasferimento dei dati[0x000A]di gioco, dovrai attendere tre giorni.
+Annulla
+Trasferisci
+Trasferimento riuscito
+Trasferimento dati di gioco completato.[0x000A]Riavvia l'applicazione.
+Ripristino dati in corso...
+Trasferimento dati
+I dati di gioco presenti su questo dispositivo sono[0x000A]ora utilizzati su un altro dispositivo.[0x000A]Vuoi cancellare i dati di gioco presenti su questo[0x000A]dispositivo e ricominciare il gioco dall'inizio?
+Servizio clienti
+Sì
+Cancellazione dati
+Attenzione: i dati di gioco presenti sul dispositivo[0x000A]verranno cancellati. Vuoi continuare?
+No
+Sì
+Cancellazione dati
+I dati di gioco sono stati cancellati.[0x000A]L'applicazione verrà chiusa. Riavvia l'applicazione.
+Trasferimento dati
+È possibile salvare i dati di gioco presenti su questo[0x000A]dispositivo per trasferirli su un altro dispositivo.
+Info trasferimento
+Crea un ID trasferimento
+ID trasferimento
+Registra ID
+• L'ID dev'essere compreso fra 4 e 16 caratteri.
+Conferma
+{0x0209,0x0000,0x0000}[0x000A]Questo ID non potrà essere modificato in seguito.[0x000A]Vuoi continuare?
+{0xBDFF:0x007A}
+{0xBDFF:0x007B}
+Registrazione ID...
+È stata generata una chiave trasferimento per i tuoi dati[0x000A]di gioco. Per trasferire i dati su un nuovo dispositivo[0x000A]avrai bisogno sia dell'ID, sia della chiave trasferimento.
+Prendi nota della chiave trasferimento o salva questa[0x000A]immagine e conservala in un luogo sicuro.
+Salva dati
+Ultimo salvataggio
+ID e chiave trasferimento
+ID trasferimento
+Chiave trasferimento
+Conferma
+Assicurati di aver letto attentamente le informazioni[0x000A]di trasferimento. Vuoi continuare?
+Annulla
+Sì
+Fatto!
+È stato eseguito un backup dei dati di gioco.
+I dati di gioco salvati sono stati aggiornati.
+Attenzione
+{0xBDFF:0x008C}
+Trasferimento dati di gioco
+Puoi trasferire i dati di gioco su un nuovo dispositivo[0x000A]solo la prima volta che avvii il gioco.[0x000A]Tramite l'ID trasferimento immesso, viene generata[0x000A]una chiave trasferimento. Per eseguire il trasferimento[0x000A]avrai bisogno di entrambi questi dati, quindi conservali[0x000A]con cura.
+Puoi trasferire i dati di gioco su un nuovo dispositivo[0x000A]solo dalla schermata del titolo.[0x000A]Tramite l'ID trasferimento immesso, viene generata[0x000A]una chiave trasferimento.
+Per eseguire il trasferimento avrai bisogno di entrambi[0x000A]questi dati, quindi conservali con cura.
+Avvertenze
+• L'ID trasferimento e la chiave trasferimento non hanno[0x000A]scadenza e sono sempre validi.[0x000A]• Una volta trasferiti i dati su un dispositivo, non potrai[0x000A]eseguire altri trasferimenti di dati per tre giorni.[0x000A]• Quando trasferisci i dati, assicurati che la connessione[0x000A]Internet sia stabile.[0x000A]• Dopo il trasferimento, se vuoi continuare a giocare con[0x000A]il dispositivo di origine, non potrai usare gli stessi dati,[0x000A]ma dovrai ricominciare il gioco dall'inizio.[0x000A]• Puoi trasferire i dati di gioco solo quando avvii il gioco[0x000A]per la prima volta.[0x000A][0x000A]• Se ottieni delle decorazioni dopo aver preparato i dati[0x000A]per il trasferimento, non verranno trasferite sul nuovo[0x000A]dispositivo. Per trasferirle, dovrai effettuare un nuovo[0x000A]salvataggio dei dati.[0x000A]• Se trasferisci i dati su un dispositivo con un sistema[0x000A]operativo diverso, non potrai trasferire le decorazioni[0x000A]acquistate.[0x000A]• Se trasferisci i dati su un dispositivo con lo stesso[0x000A]sistema operativo, le decorazioni verranno trasferite[0x000A]correttamente.[0x000A]• La funzione di trasferimento dei dati e i dati stessi[0x000A]non saranno più utilizzabili in caso di un'eventuale[0x000A]cessazione del supporto dell'applicazione.
+• L'ID trasferimento e la chiave trasferimento non hanno[0x000A]scadenza e sono sempre validi.[0x000A]• Una volta trasferiti i dati su un dispositivo, non potrai[0x000A]eseguire altri trasferimenti di dati per {0x0201,0x0000} giorni.[0x000A]• Quando trasferisci i dati, assicurati che la connessione[0x000A]Internet sia stabile.[0x000A]• Dopo il trasferimento, se vuoi continuare a giocare con[0x000A]il dispositivo di origine, non potrai usare gli stessi dati,[0x000A]ma dovrai ricominciare il gioco dall'inizio.
+• Puoi trasferire i dati di gioco dalla schermata del titolo.[0x000A]• La funzione di trasferimento dei dati e i dati stessi[0x000A]non saranno più utilizzabili in caso di un'eventuale[0x000A]cessazione del supporto dell'applicazione.
+{0x0201,0x0000}/{0x0201,0x0000}/{0x0203,0x0000,0x0000}
+{0x0201,0x0000}:{0x0201,0x0000}
+Usa l'ID e la chiave trasferimento per trasferire i[0x000A]dati. Premi il pulsante in basso per visualizzarli.
+• Assicurati di non inserire dati personali.
+Dati di gioco non presenti.
+{0xBDFF:0x009A}
+Condividi
+Immagine salvata.
+Condividi la foto!
+Condividi con gli amici!
+Condividi
+Salva
+La foto verrà salvata sul dispositivo.
+Acquisti
+Acquisto completato
+L'acquisto di decorazioni durante il quale si era[0x000A]verificato un errore è stato ora completato[0x000A]correttamente.
+Verifica dell'età
+Hai il permesso di un genitore o di chi ne fa le veci[0x000A]per acquistare le decorazioni?
+Per comprare le decorazioni è necessaria[0x000A]l'autorizzazione di un genitore o di chi ne fa le veci.
+Impossibile acquistare
+Hai un'operazione di acquisto in sospeso.[0x000A]Vai al negozio per completare l'operazione.
+Completa l'operazione di acquisto in sospeso.
+• Il Surf Pikachu sarà disponibile in cambio di[0x000A]coupon PM dopo 72 ore, anche per chi non avrà[0x000A]acquistato questo prodotto.[0x000A]• Al termine delle 72 ore il Minikit esplorazione[0x000A]non potrà più essere acquistato, anche nel caso in cui[0x000A]l'acquisto non sia stato possibile per problemi tecnici.
+• Il Surf Pikachu sarà disponibile in cambio di[0x000A]coupon PM dopo 72 ore, anche per chi non avrà[0x000A]acquistato questo prodotto.
+• Al termine delle 72 ore il Minikit esplorazione[0x000A]non potrà più essere acquistato, anche nel caso in cui[0x000A]l'acquisto non sia stato possibile per problemi tecnici.
+Nuovo acquisto:[0x000A]{0x010A,0x0000}
+Errore[0x000A]Non è stato possibile completare l'acquisto[0x000A]del contenuto aggiuntivo. Riavvia l'applicazione[0x000A]e torna alla schermata dei contenuti aggiuntivi.[0x000A]Codice errore: {0x0209,0x0000,0x0000}
+Non è possibile usare il tasto Indietro del dispositivo.
+Vuoi chiudere l'applicazione?
+Chiusura
+Caricamento
+Si prega di attendere.
+Salvataggio immagine
+L'immagine è stata salvata.
+Si è verificato un errore.
+Coupon PM disponibili!
+Batteria Pokébee carica!
+Nuovi Pokémon nella base!
+Torna a esplorare l'Isola Cubetti!
+I Pokémon ti aspettano!
+Tocca per iniziare

@@ -1,0 +1,77 @@
+Du hast nicht genug PS-Gutscheine.[0x000A]PS-Gutscheine kannst du als Mitgliedsbonus im Supermarkt[0x000A]oder als Belohnung für erfüllte Aufgaben erhalten.
+{0xBDFF:0x0001}
+{0x0201,0x0000}:{0x0201,0x0001}:{0x0201,0x0002}
+Kaufen
+Pokémon-Box-Erweiterung
+Platz für {0x0202,0x0000} weitere Pokémon-[0x000A]Freunde (Platz derzeit: {0x0202,0x0001}/{0x0202,0x0002}).
+Stein-Box-Erweiterung
+Platz für {0x0202,0x0000} weitere P-Steine[0x000A](Platz derzeit: {0x0202,0x0001}/{0x0202,0x0002}).
+Pokémon-Supermarkt
+{0xBDFF:0x0009}
+Mitgliedsbonus
+Deko-Objekte
+Box-Erweiterung
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+PS-Gutscheine abholen
+Noch
+{0xBDFF:0x0012}
+Für den Kauf zusätzlicher Inhalte hast du PS-Gutscheine[0x000A]als Bonus erhalten. PS-Gutscheine werden je Nutzer nur[0x000A]ein Mal als Bonus für diese zusätzlichen Inhalte vergeben.
+{0xBDFF:0x0014}
+Deine Bestellung wurde geliefert:
+{0xBDFF:0x0016}
+Im Besitz
+PS-Gutscheine erhalten!
+{0xBDFF:0x0019}
+{0xBDFF:0x001A}
+PS-Gutscheine sind wertvoll![0x000A]Vergiss nicht, sie dir regelmäßig abzuholen.
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}
+Möchtest du zum Nintendo eShop,[0x000A]um zusätzliche Inhalte zu erwerben?
+Wenn du zusätzliche Inhalte erworben hast,[0x000A]schließe bitte Pokémon Quest, nachdem[0x000A]der Download abgeschlossen ist. Öffne das[0x000A]Spiel dann erneut, um die Inhalte zu nutzen.
+Zum Nintendo eShop
+Zusätzliche Inhalte
+Spezielle Pakete mit Deko-Objekten, die nur als kostenpflichtige[0x000A]zusätzliche Inhalte im Nintendo eShop verfügbar sind!
+Spezielle Pakete mit Deko-Objekten, die nur als[0x000A]kostenpflichtige zusätzliche Inhalte verfügbar sind!
+Als Bonus erhältst du PS-Gutscheine,[0x000A]die du sofort einsetzen kannst.
+Als Bonus erhältst du PS-Gutscheine,[0x000A]die du sofort einsetzen kannst.
+Ausverkauft
+Der Effekt wurde aktiviert.
+{0xBDFF:0x0028}
+Erkundungspaket
+Super-Erkundungspaket
+Hyper-Erkundungspaket
+Erkundungspaket (Dreierset)
+Erkundungspaket (Mini)
+Streustein
+Expansionsstein
+Wiederholungsstein
+Schnellfeuerstein
+Haltbarkeitsstein
+Solidaritätsstein
+Du hast insgesamt {0x0201,0x0000} Deko-Objekte[0x000A]im Pokémon-Supermarkt gekauft.[0x000A]Als Treuebonus erhältst du ein Premierball-Modell!
+{0xBDFF:0x0035}
+{0xBDFF:0x0036}
+{0xBDFF:0x0037}
+{0xBDFF:0x0038}
+{0xBDFF:0x0039}
+Du hast die Bonus-PS-Gutscheine für den Kauf dieses[0x000A]zusätzlichen Inhalts schon abgeholt. Du kannst sie nicht[0x000A]erneut erhalten. PS-Gutscheine werden je Nutzer nur ein[0x000A]Mal als Bonus für diesen zusätzlichen Inhalt vergeben.
+Zusätzliche Inhalte
+Wenn du alle drei Erkundungspakete mit Ball-Modellen[0x000A]kaufst, erhältst du zusätzlich das Meisterball-Modell[0x000A]als Deko-Objekt.
+Nur 72 Stunden verfügbar
+Spezielles Paket-Set
+Bonus
+{0xBDFF:0x0040}
+{0x0201,0x0000} % Rabatt
+(1) Gleichzeitig kochende Gerichte + 1[0x000A](2) PS-Gutscheine durch den Mitgliedsbonus + 20[0x000A](3) Maximale Kapazität der Batterie + 1[0x000A](a) Bonus: Nidoran♀ (Lv. 1) mit besonderer Attacke[0x000A](b) Bonus: Nidoran♂ (Lv. 1) mit besonderer Attacke[0x000A](c) Bonus: PS-Gutscheine + 100
+(1) Gleichzeitig kochende Gerichte + 1[0x000A](2) PS-Gutscheine durch den Mitgliedsbonus + 30[0x000A](3) Maximale Kapazität der Batterie + 1[0x000A](4) Chance, mit Gerichten mehrere Pokémon anzulocken × 2[0x000A](a) Bonus: Lapras (Lv. 1) mit besonderer Attacke[0x000A](b) Bonus: PS-Gutscheine + 100
+(1) Gleichzeitig kochende Gerichte + 1[0x000A](2) PS-Gutscheine durch den Mitgliedsbonus + 40[0x000A](3) Maximale Kapazität der Batterie + 1[0x000A](4) Fundmenge aller Zutaten × 2[0x000A](5) Erfahrung durch Erkundungen × 2[0x000A](a) Bonus: Relaxo (Lv. 1) mit besonderer Attacke[0x000A](b) Bonus: PS-Gutscheine + 100
+(1) Erkundungspaket[0x000A](2) Super-Erkundungspaket[0x000A](3) Hyper-Erkundungspaket[0x000A](a) Bonus: Nidoran♀ (Lv. 1) mit besonderer Attacke[0x000A](b) Bonus: Nidoran♂ (Lv. 1) mit besonderer Attacke[0x000A](c) Bonus: Lapras (Lv. 1) mit besonderer Attacke[0x000A](d) Bonus: Relaxo (Lv. 1) mit besonderer Attacke[0x000A](e) Bonus: PS-Gutscheine + 300
+(1) Chance, mit Gerichten mehrere Pokémon anzulocken × 1,5[0x000A](a) Bonus: Pikachu (Lv. 1) mit besonderer Attacke[0x000A](b) Bonus: PS-Gutscheine + 200
+(1) Streustein × 1[0x000A](a) Bonus: PS-Gutscheine + 100
+(1) Expansionsstein × 1[0x000A](a) Bonus: PS-Gutscheine + 100
+(1) Wiederholungsstein × 1[0x000A](a) Bonus: PS-Gutscheine + 100
+(1) Schnellfeuerstein × 1[0x000A](a) Bonus: PS-Gutscheine + 100
+(1) Haltbarkeitsstein × 1[0x000A](a) Bonus: PS-Gutscheine + 100
+(1) Solidaritätsstein × 1[0x000A](a) Bonus: PS-Gutscheine + 100

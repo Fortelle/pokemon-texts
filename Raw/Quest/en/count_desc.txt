@@ -1,0 +1,113 @@
+???
+Make {0x0202,0x0000} Normal-type buddies.
+Make {0x0202,0x0000} Fire-type buddies.
+Make {0x0202,0x0000} Water-type buddies.
+Make {0x0202,0x0000} Electric-type buddies.
+Make {0x0202,0x0000} Grass-type buddies.
+Make {0x0202,0x0000} Ice-type buddies.
+Make {0x0202,0x0000} Fighting-type buddies.
+Make {0x0202,0x0000} Poison-type buddies.
+Make {0x0202,0x0000} Ground-type buddies.
+Make {0x0202,0x0000} Flying-type buddies.
+Make {0x0202,0x0000} Psychic-type buddies.
+Make {0x0202,0x0000} Bug-type buddies.
+Make {0x0202,0x0000} Rock-type buddies.
+Make {0x0202,0x0000} Ghost-type buddies.
+Make {0x0202,0x0000} Dragon-type buddies.
+Make {0x0202,0x0000} Steel-type buddies.
+Make {0x0202,0x0000} Fairy-type buddies.
+Level up {0x0203,0x0000,0x002C} times.
+Get {0x0202,0x0000} Pokémon to Lv. 50.
+Get {0x0202,0x0000} Pokémon to Lv. 100.
+Achieve a maximum ATK of {0x0204,0x0000,0x002C}.
+Achieve a maximum HP of {0x0204,0x0000,0x002C}.
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+Use {0x0202,0x0000} kinds of moves.
+{0xBDFF:0x001A}
+Evolve {0x0202,0x0000} Pokémon.
+Make your whole team evolve at once.
+{0xBDFF:0x001D}
+{0xBDFF:0x001E}
+Make Articuno your buddy.
+Make Zapdos your buddy.
+Make Moltres your buddy.
+Make Mewtwo your buddy.
+Make Mew your buddy.
+Make a Shiny Pokémon your buddy.
+Go on {0x0203,0x0000,0x002C} successful[0x000A]expeditions on the island.
+Receive PM Tickets from[0x000A]the Poké Mart {0x0201,0x0000} times.
+Cook a dish {0x0202,0x0000} times.
+Get {0x0203,0x0000,0x002C} Power Stones.
+Register {0x0202,0x0000} species in your Pokédex.
+Do Level-Up Training {0x0202,0x0000} times.
+Do Move-Learning Training {0x0202,0x0000} times.
+Collect {0x0201,0x0000} cooking recipes.
+Reach a team strength of {0x0204,0x0000,0x002C}.
+Put 18 decorations at your base camp.
+Attach a Scattershot Stone[0x000A]and use a move.
+Attach a Broadburst Stone[0x000A]and use a move.
+Attach a Whack-Whack Stone[0x000A]and use a move.
+Attach a Wait Less Stone[0x000A]and use a move.
+Attach a Stay Strong Stone[0x000A]and use a move.
+Attach a Sharing Stone[0x000A]and use a move.
+Get a bingo.
+Get a double bingo.
+Get a triple bingo.
+Cook with a bronze cooking pot.
+Cook with a silver cooking pot.
+Cook with a gold cooking pot.
+Go on expeditions with two long-range[0x000A]Pokémon and one close-range Pokémon.
+Go on expeditions with two close-range[0x000A]Pokémon and one long-range Pokémon.
+Go on expeditions with only[0x000A]close-range Pokémon.
+Go on expeditions with only[0x000A]long-range Pokémon.
+Recycle this many Power Stones: {0x0202,0x0000}.
+Defeat {0x0203,0x0000,0x002C} Normal-type Pokémon.
+Defeat {0x0203,0x0000,0x002C} Fire-type Pokémon.
+Defeat {0x0203,0x0000,0x002C} Water-type Pokémon.
+Defeat {0x0203,0x0000,0x002C} Electric-type Pokémon.
+Defeat {0x0203,0x0000,0x002C} Grass-type Pokémon.
+Defeat {0x0203,0x0000,0x002C} Ice-type Pokémon.
+Defeat {0x0203,0x0000,0x002C} Fighting-type Pokémon.
+Defeat {0x0203,0x0000,0x002C} Poison-type Pokémon.
+Defeat {0x0203,0x0000,0x002C} Ground-type Pokémon.
+Defeat {0x0203,0x0000,0x002C} Flying-type Pokémon.
+Defeat {0x0203,0x0000,0x002C} Psychic-type Pokémon.
+Defeat {0x0203,0x0000,0x002C} Bug-type Pokémon.
+Defeat {0x0203,0x0000,0x002C} Rock-type Pokémon.
+Defeat {0x0203,0x0000,0x002C} Ghost-type Pokémon.
+Defeat {0x0203,0x0000,0x002C} Dragon-type Pokémon.
+Defeat {0x0203,0x0000,0x002C} Steel-type Pokémon.
+Defeat {0x0203,0x0000,0x002C} Fairy-type Pokémon.
+Go on an expedition with a team[0x000A]of 3 Normal-type Pokémon.
+Go on an expedition with a team[0x000A]of 3 Fire-type Pokémon.
+Go on an expedition with a team[0x000A]of 3 Water-type Pokémon.
+Go on an expedition with a team[0x000A]of 3 Electric-type Pokémon.
+Go on an expedition with a team[0x000A]of 3 Grass-type Pokémon.
+Go on an expedition with a team[0x000A]of 3 Ice-type Pokémon.
+Go on an expedition with a team[0x000A]of 3 Fighting-type Pokémon.
+Go on an expedition with a team[0x000A]of 3 Poison-type Pokémon.
+Go on an expedition with a team[0x000A]of 3 Ground-type Pokémon.
+Go on an expedition with a team[0x000A]of 3 Flying-type Pokémon.
+Go on an expedition with a team[0x000A]of 3 Psychic-type Pokémon.
+Go on an expedition with a team[0x000A]of 3 Bug-type Pokémon.
+Go on an expedition with a team[0x000A]of 3 Rock-type Pokémon.
+Go on an expedition with a team[0x000A]of 3 Ghost-type Pokémon.
+Go on an expedition with a team[0x000A]of 3 Dragon-type Pokémon.
+Go on an expedition with a team[0x000A]of 3 Steel-type Pokémon.
+Go on an expedition with a team[0x000A]of 3 Fairy-type Pokémon.
+Go on {0x0202,0x0000} successful expedition on[0x000A]Happenstance Island 12-1. 
+Go on {0x0202,0x0000} successful expedition on[0x000A]Happenstance Island 12-2. 
+Go on {0x0202,0x0000} successful expedition on[0x000A]Happenstance Island 12-3. 
+Go on {0x0202,0x0000} successful expedition on[0x000A]Happenstance Island 12-4. 
+Go on {0x0202,0x0000} successful expedition on[0x000A]Happenstance Island 12-5. 
+Go on {0x0202,0x0000} successful expedition on[0x000A]Happenstance Island 12-6. 
+Go on {0x0202,0x0000} successful expedition on[0x000A]Happenstance Island 12-7. 
+Go on {0x0202,0x0000} successful expedition on[0x000A]Happenstance Island 12-8. 
+Go on {0x0202,0x0000} successful expedition on[0x000A]Happenstance Island BOSS. 
+Complete the Tumblecube Island Pokédex.
+{0xBDFF:0x006C}
+{0xBDFF:0x006D}
+{0xBDFF:0x006E}
+{0xBDFF:0x006F}
+{0xBDFF:0x0070}

@@ -1,0 +1,113 @@
+???
+Accueillir {0x0202,0x0000} Pokémon de type Normal.
+Accueillir {0x0202,0x0000} Pokémon de type Feu.
+Accueillir {0x0202,0x0000} Pokémon de type Eau.
+Accueillir {0x0202,0x0000} Pokémon de type Électrik.
+Accueillir {0x0202,0x0000} Pokémon de type Plante.
+Accueillir {0x0202,0x0000} Pokémon de type Glace.
+Accueillir {0x0202,0x0000} Pokémon de type Combat.
+Accueillir {0x0202,0x0000} Pokémon de type Poison.
+Accueillir {0x0202,0x0000} Pokémon de type Sol.
+Accueillir {0x0202,0x0000} Pokémon de type Vol.
+Accueillir {0x0202,0x0000} Pokémon de type Psy.
+Accueillir {0x0202,0x0000} Pokémon de type Insecte.
+Accueillir {0x0202,0x0000} Pokémon de type Roche.
+Accueillir {0x0202,0x0000} Pokémon de type Spectre.
+Accueillir {0x0202,0x0000} Pokémon de type Dragon.
+Accueillir {0x0202,0x0000} Pokémon de type Acier.
+Accueillir {0x0202,0x0000} Pokémon de type Fée.
+Faire monter ses Pokémon de niveau[0x000A]{0x0203,0x0000,0x0020} fois.
+Faire monter {0x0202,0x0000} Pokémon au niveau 50.
+Faire monter {0x0202,0x0000} Pokémon au niveau 100.
+Atteindre une puissance d'Attaque[0x000A]de {0x0204,0x0000,0x0020}.
+Atteindre {0x0204,0x0000,0x0020} PV.
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+Utiliser {0x0202,0x0000} catégories de capacités[0x000A]différentes.
+{0xBDFF:0x001A}
+Faire évoluer des Pokémon {0x0202,0x0000} fois.
+Faire évoluer tous les Pokémon d'une équipe[0x000A]en même temps.
+{0xBDFF:0x001D}
+{0xBDFF:0x001E}
+Accueillir Artikodin.
+Accueillir Électhor.
+Accueillir Sulfura.
+Accueillir Mewtwo.
+Accueillir Mew.
+Accueillir un Pokémon chromatique.
+Terminer {0x0203,0x0000,0x0020} quêtes.
+Récupérer des coupons à la Boutique {0x0201,0x0000} fois.
+Cuisiner {0x0202,0x0000} fois.
+Récupérer {0x0203,0x0000,0x0020} Gemmes-P.
+Enregistrer {0x0202,0x0000} espèces de Pokémon[0x000A]différentes dans le Pokédex.
+Faire monter {0x0202,0x0000} Pokémon de niveau grâce[0x000A]aux exercices.
+Utiliser les exercices {0x0202,0x0000} fois pour[0x000A]enseigner une capacité à un Pokémon.
+Découvrir {0x0201,0x0000} recettes.
+Atteindre une puissance d'équipe de {0x0204,0x0000,0x0020}.
+Poser 18 décorations sur la base.
+Équiper un Pokémon d'une Gemme Multi-Tir[0x000A]et utiliser une capacité.
+Équiper un Pokémon d'une Gemme Expansion[0x000A]et utiliser une capacité.
+Équiper un Pokémon d'une Gemme Écho[0x000A]et utiliser une capacité.
+Équiper un Pokémon d'une Gemme Hâte[0x000A]et utiliser une capacité.
+Équiper un Pokémon d'une Gemme Maintien[0x000A]et utiliser une capacité.
+Équiper un Pokémon d'une Gemme Unisson[0x000A]et utiliser une capacité.
+Réaliser un Bingo.
+Réaliser deux Bingos.
+Réaliser trois Bingos.
+Cuisiner dans un Chaudron en bronze.
+Cuisiner dans un Chaudron en argent.
+Cuisiner dans un Chaudron en or.
+Explorer l'île avec un Pokémon[0x000A]au corps à corps et deux à distance.
+Explorer l'île avec deux Pokémon au[0x000A]corps à corps et un à distance.
+Explorer l'île avec tous les Pokémon[0x000A]au corps à corps.
+Explorer l'île avec tous les Pokémon[0x000A]à distance.
+Recycler {0x0202,0x0000} Gemmes-P.
+Vaincre {0x0203,0x0000,0x0020} Pokémon de type Normal.
+Vaincre {0x0203,0x0000,0x0020} Pokémon de type Feu.
+Vaincre {0x0203,0x0000,0x0020} Pokémon de type Eau.
+Vaincre {0x0203,0x0000,0x0020} Pokémon de type Électrik.
+Vaincre {0x0203,0x0000,0x0020} Pokémon de type Plante.
+Vaincre {0x0203,0x0000,0x0020} Pokémon de type Glace.
+Vaincre {0x0203,0x0000,0x0020} Pokémon de type Combat.
+Vaincre {0x0203,0x0000,0x0020} Pokémon de type Poison.
+Vaincre {0x0203,0x0000,0x0020} Pokémon de type Sol.
+Vaincre {0x0203,0x0000,0x0020} Pokémon de type Vol.
+Vaincre {0x0203,0x0000,0x0020} Pokémon de type Psy.
+Vaincre {0x0203,0x0000,0x0020} Pokémon de type Insecte.
+Vaincre {0x0203,0x0000,0x0020} Pokémon de type Roche.
+Vaincre {0x0203,0x0000,0x0020} Pokémon de type Spectre.
+Vaincre {0x0203,0x0000,0x0020} Pokémon de type Dragon.
+Vaincre {0x0203,0x0000,0x0020} Pokémon de type Acier.
+Vaincre {0x0203,0x0000,0x0020} Pokémon de type Fée.
+Mener une quête avec une équipe composée[0x000A]de trois Pokémon de type Normal.
+Mener une quête avec une équipe composée[0x000A]de trois Pokémon de type Feu.
+Mener une quête avec une équipe composée[0x000A]de trois Pokémon de type Eau.
+Mener une quête avec une équipe composée[0x000A]de trois Pokémon de type Électrik.
+Mener une quête avec une équipe composée[0x000A]de trois Pokémon de type Plante.
+Mener une quête avec une équipe composée[0x000A]de trois Pokémon de type Glace.
+Mener une quête avec une équipe composée[0x000A]de trois Pokémon de type Combat.
+Mener une quête avec une équipe composée[0x000A]de trois Pokémon de type Poison.
+Mener une quête avec une équipe composée[0x000A]de trois Pokémon de type Sol.
+Mener une quête avec une équipe composée[0x000A]de trois Pokémon de type Vol.
+Mener une quête avec une équipe composée[0x000A]de trois Pokémon de type Psy.
+Mener une quête avec une équipe composée[0x000A]de trois Pokémon de type Insecte.
+Mener une quête avec une équipe composée[0x000A]de trois Pokémon de type Roche.
+Mener une quête avec une équipe composée[0x000A]de trois Pokémon de type Spectre.
+Mener une quête avec une équipe composée[0x000A]de trois Pokémon de type Dragon.
+Mener une quête avec une équipe composée[0x000A]de trois Pokémon de type Acier.
+Mener une quête avec une équipe composée[0x000A]de trois Pokémon de type Fée.
+Terminer l'Île Ohazar 12-1 {0x0202,0x0000} fois.
+Terminer l'Île Ohazar 12-2 {0x0202,0x0000} fois.
+Terminer l'Île Ohazar 12-3 {0x0202,0x0000} fois.
+Terminer l'Île Ohazar 12-4 {0x0202,0x0000} fois.
+Terminer l'Île Ohazar 12-5 {0x0202,0x0000} fois.
+Terminer l'Île Ohazar 12-6 {0x0202,0x0000} fois.
+Terminer l'Île Ohazar 12-7 {0x0202,0x0000} fois.
+Terminer l'Île Ohazar 12-8 {0x0202,0x0000} fois.
+Battre le boss de l'Île Ohazar {0x0202,0x0000} fois.
+Compléter le Pokédex de l'Île Trois-Dés.
+{0xBDFF:0x006C}
+{0xBDFF:0x006D}
+{0xBDFF:0x006E}
+{0xBDFF:0x006F}
+{0xBDFF:0x0070}

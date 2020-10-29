@@ -1,0 +1,244 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+{0xBDFF:0x001A}
+{0xBDFF:0x001B}
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}
+{0xBDFF:0x001E}
+{0xBDFF:0x001F}
+{0xBDFF:0x0020}
+{0xBDFF:0x0021}
+{0xBDFF:0x0022}
+{0xBDFF:0x0023}
+Le lanceur souffle une grande[0x000A]flamme qui consume peu à peu[0x000A]les PV des cibles qu'elle touche.[0x000A]Peut les brûler.
+Le lanceur surfe sur une grosse[0x000A]vague et fonce droit devant pour[0x000A]infliger des dégâts aux ennemis[0x000A]pris dans la houle.
+La foudre s'abat devant[0x000A]le lanceur et inflige[0x000A]des dégâts aux ennemis[0x000A]situés devant lui.[0x000A]Peut les paralyser.
+Le lanceur plante des graines[0x000A]devant lui qui absorbent peu[0x000A]à peu les PV des ennemis qui les[0x000A]touchent. Le lanceur récupère[0x000A]une partie des PV perdus par[0x000A]les ennemis.
+Après avoir concentré son[0x000A]énergie, le lanceur tire un[0x000A]puissant laser qui inflige[0x000A]d'énormes dégâts à quiconque[0x000A]se trouve sur sa trajectoire.
+Des flammèches se répandent[0x000A]dans trois directions devant[0x000A]le lanceur et infligent des[0x000A]dégâts aux ennemis situés[0x000A]sur leur passage.[0x000A]Peut les brûler.
+Le lanceur trace un chemin[0x000A]de feu devant lui et charge[0x000A]en infligeant des dégâts aux[0x000A]ennemis sur son passage.[0x000A]Peut les brûler.
+Une spirale de flammes entoure[0x000A]le lanceur et inflige des dégâts[0x000A]aux ennemis à portée.[0x000A]Peut les brûler.
+Le lanceur concentre des[0x000A]flammes dans son poing et[0x000A]inflige des dégâts aux[0x000A]ennemis situés en face de lui.[0x000A]Peut les brûler.
+Une gigantesque flamme[0x000A]écarlate s'élève autour du[0x000A]lanceur et inflige des dégâts[0x000A]aux ennemis alentour.[0x000A]Peut les brûler.
+Nimbé de flammes lugubres,[0x000A]le lanceur frappe les ennemis[0x000A]situés devant lui et a[0x000A]de grandes chances de[0x000A]les brûler.
+Le lanceur fait temporairement[0x000A]appel à la puissance des[0x000A]flammes pour augmenter[0x000A]les dégâts qu'il inflige.
+Le lanceur projette de l'écume[0x000A]dans trois directions pour[0x000A]infliger des dégâts aux ennemis.[0x000A]Peut ralentir leurs déplacements.
+Le lanceur se rapproche[0x000A]des ennemis situés devant lui[0x000A]et soulève des colonnes d'eau[0x000A]qui leur infligent des dégâts.
+Le lanceur fait jaillir quatre[0x000A]colonnes d'eau devant lui[0x000A]qui infligent des dégâts aux[0x000A]ennemis.
+Un tourbillon se déchaîne[0x000A]autour du lanceur et inflige des[0x000A]dégâts aux ennemis alentour.
+Le lanceur s'abrite[0x000A]temporairement sous une[0x000A]carapace robuste pour[0x000A]diminuer les dégâts subis.
+{0xBDFF:0x0035}
+Le lanceur se couvre d'un voile[0x000A]aquatique pour regagner[0x000A]des PV.
+Le lanceur fonce sur les ennemis[0x000A]à une vitesse aveuglante[0x000A]pour leur infliger des dégâts.
+Après avoir accumulé de[0x000A]l'énergie, le lanceur envoie[0x000A]une décharge électrique[0x000A]devant lui pour infliger[0x000A]des dégâts aux ennemis.[0x000A]Peut les paralyser.
+Le lanceur déchaîne une[0x000A]violente décharge électrique[0x000A]autour de lui et inflige des[0x000A]dégâts aux ennemis alentour.[0x000A]Peut les paralyser.
+Le lanceur s'entoure d'une[0x000A]aura électrique et fonce droit[0x000A]sur les ennemis.[0x000A]Peut les paralyser.
+Le lanceur concentre de[0x000A]l'électricité dans son poing[0x000A]et assène un coup survolté[0x000A]aux ennemis situés en face[0x000A]de lui.[0x000A]Peut les paralyser.
+Le lanceur se charge en[0x000A]électricité pour augmenter[0x000A]temporairement les dégâts[0x000A]qu'il inflige et sa résistance[0x000A]aux malus.
+Le lanceur concentre de[0x000A]l'électricité à ses pieds pour[0x000A]augmenter temporairement[0x000A]les dégâts qu'il inflige.
+Le lanceur envoie un filet[0x000A]électrifié devant lui pour[0x000A]ralentir temporairement le[0x000A]déplacement des ennemis.
+Le lanceur décoche des[0x000A]feuilles pour trancher les[0x000A]ennemis.[0x000A]Taux de critique élevé.
+Le lanceur concentre de la[0x000A]lumière et la projette devant[0x000A]lui. Les ennemis situés sur[0x000A]la trajectoire du tir subissent[0x000A]des dégâts.
+Le lanceur fait claquer une[0x000A]liane comme un fouet pour[0x000A]infliger des dégâts aux ennemis[0x000A]situés en face de lui.
+Le lanceur tournoie sur place[0x000A]en dispersant des pétales qui[0x000A]infligent des dégâts aux[0x000A]ennemis alentour.
+Le lanceur répand devant lui[0x000A]une poudre qui a de grandes[0x000A]chances de paralyser les[0x000A]ennemis qu'elle touche.
+Le lanceur souffle devant lui[0x000A]des spores qui ont de grandes[0x000A]chances d'endormir les ennemis.
+Le lanceur frappe les ennemis[0x000A]situés devant lui, puis absorbe[0x000A]une partie des dégâts infligés[0x000A]pour recouvrer des PV.
+Le lanceur absorbe de la lumière[0x000A]pour augmenter temporairement[0x000A]les dégâts qu'il inflige.
+{0xBDFF:0x0047}
+Le lanceur projette un rayon[0x000A]réfrigérant devant lui pour[0x000A]infliger des dégâts aux ennemis.[0x000A]Peut les geler.
+Des morceaux de glace[0x000A]tombent devant le lanceur[0x000A]et infligent des dégâts aux[0x000A]ennemis.[0x000A]Peut les geler.
+Le lanceur crée un tourbillon[0x000A]de neige qui blesse les ennemis[0x000A]situés à portée.[0x000A]Peut les geler.
+Le lanceur concentre de l'air[0x000A]froid dans son poing et assène[0x000A]un coup glacial aux ennemis[0x000A]situés en face de lui.[0x000A]Peut les geler.
+{0xBDFF:0x004C}
+Un voile protecteur diminue[0x000A]temporairement les dégâts[0x000A]subis par le lanceur.
+{0xBDFF:0x004E}
+Le lanceur souffle un air glacial[0x000A]qui inflige des dégâts aux[0x000A]ennemis situés devant lui.[0x000A]Peut aussi ralentir leurs[0x000A]déplacements.
+Le lanceur assène un puissant[0x000A]coup de poing aux ennemis[0x000A]situés devant lui.[0x000A]A de grandes chances[0x000A]d'augmenter les dégâts infligés.
+Le lanceur bondit sur les[0x000A]ennemis situés en face[0x000A]de lui et les taillade.[0x000A]Taux de critique élevé.
+Le lanceur se rue sur les[0x000A]ennemis en décrivant de grands[0x000A]cercles, et leur inflige des dégâts[0x000A]en les emportant au passage.
+Le lanceur fonce sur les[0x000A]ennemis et les blesse[0x000A]d'un magistral coup sauté.[0x000A]Il subit cependant quelques[0x000A]dégâts suite au contrecoup.
+Un violent coup de pied[0x000A]circulaire qui inflige des dégâts[0x000A]aux ennemis alentour.
+Le lanceur concentre toute sa[0x000A]force dans un puissant coup[0x000A]de poing qui blesse les[0x000A]ennemis situés en face de lui.[0x000A]Peut les rendre confus.
+Le lanceur gonfle ses muscles[0x000A]pour augmenter temporairement[0x000A]les dégâts qu'il inflige et diminuer[0x000A]ceux qu'il subit.
+Le lanceur inflige un coup de[0x000A]poing aux ennemis situés devant[0x000A]lui et absorbe leurs PV.
+Le lanceur libère autour de lui[0x000A]une onde de choc qui inflige[0x000A]des dégâts aux ennemis et[0x000A]détruit les arbres et rochers[0x000A]à portée.
+Le lanceur projette des dards[0x000A]devant lui.[0x000A]Peut empoisonner les ennemis.
+Le lanceur projette une masse[0x000A]toxique qui s'écrase au sol[0x000A]et blesse les ennemis situés[0x000A]dans la zone d'impact.[0x000A]Peut les empoisonner.
+Le lanceur répand un nuage[0x000A]toxique qui inflige des dégâts[0x000A]aux ennemis alentour.[0x000A]Peut les empoisonner.
+Le lanceur modifie sa structure[0x000A]cellulaire afin de prendre une[0x000A]forme liquide et réduire[0x000A]temporairement les dégâts[0x000A]subis.
+Le lanceur tournoie en[0x000A]répandant autour de lui[0x000A]une immonde substance qui[0x000A]empoisonne tous les ennemis[0x000A]qu'elle touche.
+Le lanceur répand devant lui[0x000A]une poudre qui a des chances[0x000A]d'empoisonner les ennemis.
+Le lanceur crache devant lui[0x000A]un venin qui blesse les[0x000A]ennemis touchés.[0x000A]Peut augmenter les dégâts[0x000A]qu'ils subissent.
+Le lanceur projette de la boue[0x000A]dans trois directions pour[0x000A]infliger des dégâts aux ennemis.[0x000A]Peut ralentir leurs déplacements.
+Le lanceur envoie un os comme[0x000A]un boomerang et inflige des[0x000A]dégâts aux ennemis touchés.
+Le lanceur projette devant lui[0x000A]une grosse masse de boue[0x000A]qui éclate au contact du sol et[0x000A]inflige des dégâts aux ennemis[0x000A]alentour.[0x000A]Peut augmenter les dégâts[0x000A]qu'ils subissent.
+Le lanceur disperse des picots[0x000A]qui infligent des dégâts aux[0x000A]ennemis qui marchent dessus.
+Le lanceur déclenche un[0x000A]tremblement de terre qui[0x000A]blesse les ennemis alentour.
+Le lanceur creuse un tunnel[0x000A]jusqu'aux ennemis situés[0x000A]devant lui et jaillit pour leur[0x000A]infliger des dégâts.
+Le lanceur rassemble du sable[0x000A]sous ses pieds pour récupérer[0x000A]quelques PV.
+{0xBDFF:0x0067}
+Le lanceur attaque les ennemis[0x000A]situés en face de lui avec son[0x000A]bec tranchant pour leur infliger[0x000A]des dégâts.
+Le lanceur s'envole, puis fond[0x000A]sur les ennemis éloignés pour[0x000A]leur infliger des dégâts.
+Le lanceur s'envole, puis fond[0x000A]sur les ennemis situés devant[0x000A]lui pour leur infliger des dégâts.[0x000A]Taux de critique élevé.
+Un vent violent balaie les[0x000A]ennemis situés devant le[0x000A]lanceur et leur inflige des[0x000A]dégâts.
+Une bourrasque se lève autour[0x000A]du lanceur et inflige des[0x000A]dégâts aux ennemis alentour.[0x000A]Peut les rendre confus.
+Le lanceur déclenche une[0x000A]tornade pour augmenter[0x000A]temporairement sa vitesse[0x000A]de déplacement.
+Le lanceur se repose pendant[0x000A]un court instant pour récupérer[0x000A]quelques PV.
+Le lanceur fend rapidement[0x000A]l'air devant lui à deux reprises.
+Le lanceur diffuse une étrange[0x000A]lumière dans trois directions[0x000A]pour infliger des dégâts aux[0x000A]ennemis.[0x000A]Peut les rendre confus.
+Le lanceur concentre sa force[0x000A]mentale dans son front et[0x000A]frappe les ennemis situés[0x000A]en face de lui pour leur infliger[0x000A]des dégâts.
+Le lanceur émet une lumière[0x000A]intense et mystérieuse pour[0x000A]infliger des dégâts aux[0x000A]ennemis touchés.[0x000A]Peut augmenter les dégâts[0x000A]qu'ils subissent.
+Le lanceur détend ses muscles[0x000A]pour augmenter temporairement[0x000A]sa vitesse de déplacement.
+Un mur entoure le lanceur[0x000A]et réduit temporairement[0x000A]les dégâts subis.
+Le lanceur hypnotise les[0x000A]ennemis situés devant lui[0x000A]et a de grandes chances de[0x000A]les endormir.
+Le lanceur se téléporte.
+Le lanceur s'approche[0x000A]des ennemis et leur inflige[0x000A]des dégâts avec une lame[0x000A]psychique.[0x000A]Taux de critique élevé.
+{0xBDFF:0x0078}
+Le lanceur crée un mur[0x000A]de lumière qui augmente[0x000A]temporairement sa résistance[0x000A]aux malus.
+Le lanceur crée une grande[0x000A]sphère de lumière devant lui.[0x000A]Celle-ci se brise en une[0x000A]multitude de fragments qui[0x000A]se dispersent et infligent des[0x000A]dégâts aux ennemis touchés.
+Le lanceur projette trois[0x000A]aiguilles devant lui pour[0x000A]infliger des dégâts aux[0x000A]ennemis touchés.
+Le lanceur bondit sur les[0x000A]ennemis situés devant lui[0x000A]pour leur infliger des dégâts.
+Le lanceur tire devant lui des[0x000A]fils collants qui ont de[0x000A]grandes chances de ralentir[0x000A]les déplacements[0x000A]des ennemis touchés.
+Le lanceur empale de sa corne[0x000A]acérée les ennemis situés[0x000A]devant lui et leur inflige de[0x000A]gros dégâts.
+Le lanceur se couvre d'une[0x000A]poudre aux effets irritants[0x000A]qui attire l'attention des[0x000A]ennemis alentour.
+Le lanceur sème autour de lui[0x000A]des écailles poudreuses qui[0x000A]blessent les ennemis touchés.[0x000A]Peut augmenter jusqu'à quatre[0x000A]de ses stats au hasard.
+Le lanceur suce le sang[0x000A]des ennemis situés en face[0x000A]de lui et absorbe une partie[0x000A]des dégâts infligés pour[0x000A]récupérer des PV.
+Le lanceur inflige des dégâts[0x000A]aux ennemis alentour,[0x000A]puis recule pour esquiver[0x000A]les contre-attaques.
+Le lanceur projette devant lui[0x000A]une masse sombre qui blesse[0x000A]les ennemis touchés.[0x000A]Peut augmenter les dégâts[0x000A]qu'ils subissent.
+Le lanceur donne un coup[0x000A]de langue aux ennemis situés[0x000A]autour de lui et leur inflige[0x000A]des dégâts.[0x000A]Peut les paralyser.
+Le lanceur émet une étrange[0x000A]lumière qui a de grandes[0x000A]chances de rendre les ennemis[0x000A]alentour confus.
+{0xBDFF:0x0086}
+Le lanceur surprend les[0x000A]ennemis situés devant lui[0x000A]et leur inflige des dégâts.
+Le lanceur plonge violemment[0x000A]sur les ennemis à une distance[0x000A]moyenne pour leur infliger[0x000A]des dégâts.
+Le lanceur projette une onde[0x000A]de choc qui inflige des dégâts[0x000A]aux ennemis touchés.
+Le lanceur se concentre[0x000A]et s'élance en tourbillonnant,[0x000A]toutes griffes dehors, pour[0x000A]infliger des dégâts aux[0x000A]ennemis.
+Le lanceur laisse libre cours[0x000A]à sa colère et inflige des[0x000A]dégâts aux ennemis croisés[0x000A]pendant sa course folle.[0x000A]Peut le rendre confus.
+Plusieurs tornades se lèvent[0x000A]devant le lanceur et infligent[0x000A]des dégâts aux ennemis.
+Le lanceur exécute une danse[0x000A]mystérieuse pour augmenter[0x000A]temporairement les dégâts[0x000A]qu'il inflige et sa vitesse[0x000A]de déplacement.
+Le lanceur fait tomber une[0x000A]pluie de météorites autour de[0x000A]lui qui inflige des dégâts aux[0x000A]ennemis touchés.[0x000A]Peut baisser les dégâts[0x000A]qu'il inflige.
+Le lanceur choisit un ennemi[0x000A]situé à une distance moyenne[0x000A]et le mord pour lui infliger[0x000A]des dégâts.
+Le lanceur fonce devant lui en[0x000A]tranchant les ennemis alentour.[0x000A]Taux de critique élevé.
+Le lanceur disparaît un court[0x000A]instant et se téléporte un peu[0x000A]plus loin, puis fonce sur les[0x000A]ennemis pour leur infliger[0x000A]des dégâts.
+Le lanceur utilise ses pensées[0x000A]négatives pour augmenter[0x000A]temporairement les dégâts[0x000A]qu'il inflige.
+Le lanceur flatte les ennemis[0x000A]alentour pour les rendre[0x000A]confus, mais augmente aussi[0x000A]les dégâts qu'ils infligent, et[0x000A]diminue ceux qu'ils subissent.
+Le lanceur provoque les[0x000A]ennemis alentour pour attirer[0x000A]leurs attaques.
+Le lanceur fonce sur les[0x000A]ennemis situés devant lui et[0x000A]leur inflige des dégâts en[0x000A]déployant ses ailes robustes.[0x000A]Peut diminuer les dégâts[0x000A]qu'il subit.
+Le lanceur blesse les ennemis[0x000A]alentour d'un solide coup[0x000A]de queue.[0x000A]Peut augmenter les dégâts[0x000A]qu'ils subissent.
+Le lanceur lacère les ennemis[0x000A]situés devant lui et leur inflige[0x000A]des dégâts.[0x000A]Peut augmenter ces derniers.
+Le lanceur rend sa peau dure[0x000A]comme de l'acier pour réduire[0x000A]temporairement les dégâts[0x000A]subis.
+Le lanceur émet un son[0x000A]strident qui a de grandes[0x000A]chances d'augmenter[0x000A]les dégâts subis par [0x000A]les ennemis proches.
+Le lanceur concentre de[0x000A]la lumière, puis projette un[0x000A]rayon devant lui.[0x000A]Peut augmenter les dégâts[0x000A]subis par les ennemis.
+Le lanceur se déplace en[0x000A]émettant une puissante[0x000A]lumière qui inflige des dégâts[0x000A]aux ennemis touchés.
+Le lanceur embrasse les[0x000A]ennemis situés devant lui et[0x000A]absorbe une partie des dégâts[0x000A]infligés pour récupérer des PV.
+Le lanceur détourne l'attention[0x000A]des ennemis et a de grandes[0x000A]chances de baisser les dégâts[0x000A]qu'ils infligent.
+Le lanceur embrasse[0x000A]tendrement les ennemis situés[0x000A]devant lui et a de grandes[0x000A]chances de les rendre confus.
+{0xBDFF:0x009F}
+Le lanceur enlace les ennemis[0x000A]situés devant lui pour leur infliger[0x000A]des dégâts.[0x000A]Peut baisser les dégâts[0x000A]qu'ils infligent.
+Le lanceur griffe les ennemis[0x000A]situés devant lui pour leur infliger[0x000A]des dégâts.
+Le lanceur exécute une série[0x000A]de coups de poing rapides[0x000A]pour infliger des dégâts aux[0x000A]ennemis situés devant lui.
+Le lanceur fonce sur les[0x000A]ennemis situés devant lui à[0x000A]la vitesse de la lumière pour[0x000A]leur infliger des dégâts.
+Le lanceur charge violemment[0x000A]les ennemis situés devant lui[0x000A]pour leur infliger des dégâts.[0x000A]L'impact lui fait aussi perdre[0x000A]une petite quantité de PV.
+Le lanceur frétille sur place.
+Le lanceur s'endort sur place[0x000A]pour récupérer une grande[0x000A]quantité de PV.
+Le lanceur tire parti des[0x000A]propriétés des œufs pour[0x000A]restaurer ses PV.
+Le lanceur se rapproche et[0x000A]assène un puissant coup de[0x000A]poing pour infliger des dégâts[0x000A]aux ennemis situés devant lui.
+Le lanceur fouette tous les[0x000A]ennemis proches avec l'un[0x000A]de ses membres pour leur[0x000A]infliger des dégâts.
+Le lanceur attire l'attention[0x000A]des ennemis alentour pour[0x000A]encaisser leurs attaques.
+Le lanceur concentre trois types[0x000A]d'énergie, puis fonce droit[0x000A]devant lui en infligeant des[0x000A]dégâts aux ennemis.[0x000A]Peut les brûler, les paralyser[0x000A]ou les geler.
+Le lanceur prend une grande[0x000A]inspiration et se concentre[0x000A]pour augmenter temporairement[0x000A]les dégâts qu'il inflige.
+Le lanceur rassemble toutes[0x000A]ses forces pour durcir son[0x000A]corps et réduire temporairement[0x000A]les dégâts subis.
+Le lanceur saute pour écraser[0x000A]violemment les ennemis situés[0x000A]devant lui et leur infliger[0x000A]des dégâts.
+{0xBDFF:0x00AF}
+Le lanceur pousse un cri qui[0x000A]surprend les ennemis alentour.[0x000A]A des chances de baisser[0x000A]les dégâts qu'ils infligent.
+Le lanceur fixe d'un regard[0x000A]noir les ennemis alentour[0x000A]pour les apeurer.[0x000A]A de grandes chances[0x000A]d'augmenter les dégâts[0x000A]qu'ils subissent.
+Le lanceur chante.[0x000A]A de grandes chances[0x000A]d'endormir les ennemis[0x000A]alentour.
+Le lanceur émet une curieuse[0x000A]onde sonore.[0x000A]A de grandes chances[0x000A]de rendre les ennemis[0x000A]alentour confus.
+Le lanceur régénère ses[0x000A]cellules pour restaurer ses PV.
+Le lanceur déclenche une[0x000A]puissante explosion qui[0x000A]inflige de gros dégâts aux[0x000A]ennemis proches, mais qui[0x000A]le met K.O.
+Le lanceur fait apparaître[0x000A]un clone qui attire les attaques[0x000A]ennemies.
+Le lanceur déchaîne un vent[0x000A]violent autour de lui qui éjecte[0x000A]les ennemis pris dans la tempête.
+Le lanceur souffle une flamme[0x000A]devant lui qui embrase le sol[0x000A]et inflige des dégâts[0x000A]aux ennemis touchés.[0x000A]Peut aussi les brûler.
+{0xBDFF:0x00B9}
+Le lanceur émet une lumière[0x000A]intense qui éblouit les ennemis[0x000A]alentour et a de grandes[0x000A]chances de baisser leur vitesse[0x000A]de déplacement.
+Le lanceur lacère plusieurs fois[0x000A]les ennemis situés devant lui[0x000A]pour leur infliger des dégâts.
+Le lanceur projette des rochers[0x000A]sur les ennemis situés devant[0x000A]lui pour leur infliger des dégâts.
+Le lanceur tournoie et inflige[0x000A]des dégâts aux ennemis[0x000A]sur sa trajectoire.
+Le lanceur fait pousser[0x000A]des piliers devant lui pour[0x000A]frapper les ennemis et[0x000A]leur infliger des dégâts.
+Le lanceur projette un rocher[0x000A]sur les ennemis situés devant[0x000A]lui pour leur infliger des dégâts.
+Le lanceur polit son corps pour[0x000A]diminuer sa résistance au vent[0x000A]et augmenter temporairement[0x000A]sa vitesse de déplacement.
+Le lanceur soulève du sable[0x000A]autour de lui pour infliger[0x000A]des dégâts aux ennemis.
+Le lanceur fait tomber des[0x000A]rochers devant lui pour infliger[0x000A]des dégâts aux ennemis.[0x000A]Peut ralentir leurs déplacements.
+Le lanceur sacrifie des PV pour[0x000A]augmenter temporairement[0x000A]toutes ses stats.
+Le lanceur danse[0x000A]frénétiquement pour[0x000A]augmenter temporairement[0x000A]les dégâts qu'il inflige.
+Le lanceur pousse un grand[0x000A]cri qui éjecte les ennemis[0x000A]alentour.
+Le lanceur puise dans son[0x000A]potentiel intérieur pour[0x000A]augmenter temporairement[0x000A]les dégâts qu'il inflige.
+Le lanceur fait le vide dans[0x000A]son esprit pour augmenter[0x000A]les dégâts qu'il inflige et[0x000A]sa résistance aux malus.
+Le lanceur propulse une vague[0x000A]de chaleur pour infliger des[0x000A]dégâts aux ennemis situés[0x000A]devant lui.[0x000A]Peut les brûler.
+Le lanceur s'enveloppe de[0x000A]feu et fonce sur les ennemis[0x000A]situés devant lui pour leur[0x000A]infliger des dégâts.[0x000A]Peut les brûler.
+{0xBDFF:0x00CA}
+{0xBDFF:0x00CB}
+{0xBDFF:0x00CC}
+{0xBDFF:0x00CD}
+{0xBDFF:0x00CE}
+{0xBDFF:0x00CF}
+{0xBDFF:0x00D0}
+{0xBDFF:0x00D1}
+{0xBDFF:0x00D2}
+{0xBDFF:0x00D3}
+{0xBDFF:0x00D4}
+{0xBDFF:0x00D5}
+{0xBDFF:0x00D6}
+{0xBDFF:0x00D7}
+{0xBDFF:0x00D8}
+{0xBDFF:0x00D9}
+{0xBDFF:0x00DA}
+{0xBDFF:0x00DB}
+Le lanceur accumule de[0x000A]l'électricité et saute sur les[0x000A]ennemis, avant d'envoyer[0x000A]une décharge qui blesse les[0x000A]cibles au contact.[0x000A]Peut les paralyser.
+Le lanceur se démène et inflige[0x000A]des dégâts aux ennemis[0x000A]qui le touchent.
+Le lanceur heurte de toutes[0x000A]ses forces les ennemis situés[0x000A]devant lui pour leur infliger[0x000A]des dégâts.
+Le lanceur bondit en avant[0x000A]à deux reprises pour infliger[0x000A]des dégâts aux ennemis[0x000A]touchés.
+{0xBDFF:0x00E0}
+{0xBDFF:0x00E1}
+{0xBDFF:0x00E2}
+{0xBDFF:0x00E3}
+{0xBDFF:0x00E4}
+{0xBDFF:0x00E5}
+{0xBDFF:0x00E6}
+{0xBDFF:0x00E7}
+{0xBDFF:0x00E8}
+{0xBDFF:0x00E9}
+{0xBDFF:0x00EA}
+Le lanceur gagne en confiance[0x000A]pour augmenter temporairement[0x000A]les dégâts qu'il inflige et baisser[0x000A]ceux qu'il subit.
+Le lanceur se rapproche des[0x000A]ennemis alentour pour se faire[0x000A]exploser et leur infliger des[0x000A]dégâts. L'attaque met aussi[0x000A]le lanceur K.O.
+Le lanceur envoie autour de[0x000A]lui des œufs qui infligent[0x000A]des dégâts à tous les ennemis[0x000A]touchés.
+Le lanceur concentre toute sa[0x000A]force avant de fondre sur les[0x000A]ennemis situés devant lui pour[0x000A]leur infliger de gros dégâts.
+Le lanceur se jette sur les[0x000A]ennemis situés devant lui[0x000A]pour leur infliger des dégâts.[0x000A]Peut augmenter ceux[0x000A]qu'il subit.
+Le lanceur envoie simultanément[0x000A]plusieurs graines devant lui qui[0x000A]infligent des dégâts aux ennemis[0x000A]touchés.
+Métamorph utilise l'une[0x000A]des capacités connues par[0x000A]le Pokémon dont il a pris[0x000A]la forme.
+Métamorph utilise l'une[0x000A]des capacités connues par[0x000A]le Pokémon dont il a pris[0x000A]la forme.
+Métamorph utilise l'une[0x000A]des capacités connues par[0x000A]le Pokémon dont il a pris[0x000A]la forme.

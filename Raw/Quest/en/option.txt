@@ -1,0 +1,190 @@
+Agree to Terms of Service
+Have you read and do you agree[0x000A]to the above Terms of Service?
+No
+Yes
+WARNING
+If you do not agree to the Terms of Service,[0x000A]you cannot use this application.
+An error has occurred.[0x000A][0x000A]Error ID: {0x0209,0x0000,0x0000}
+An error has occurred.
+That name cannot be used.
+Names can't be longer than 12 characters.
+An error has occurred.[0x000A][0x000A]Please check your connection and[0x000A]try again a little later.
+An error has occurred.[0x000A]Please check your connection[0x000A]and try again a little later.[0x000A]Error ID: {0x0209,0x0000,0x0000}
+Please grant permission in your[0x000A]phone's Settings for this application[0x000A]to use push notifications.
+The birth date you entered is invalid.
+Connectivity error.[0x000A]To register as a player, you must[0x000A]be connected to the internet.[0x000A]Please check your connection[0x000A]and try again.
+Device time error.[0x000A]The time settings for your device have changed since[0x000A]the last time you played. This may lead to issues[0x000A]with your data. Be sure your time is[0x000A]set correctly before playing.
+Error: The time settings for your device have changed.[0x000A]You cannot receive PM Tickets if 22 hours have not[0x000A]passed since you last received them.
+The next time you will be able to receive PM Tickets is:[0x000A]{0x0201,0x0000}/{0x0201,0x0000}/{0x0203,0x0000,0x0000}, {0x0201,0x0000}:{0x0201,0x0000}(your device's time)[0x000A]
+Transfer failed.[0x000A]Connectivity error.[0x000A]Please check your connection[0x000A]and try again.
+Transfer failed.[0x000A]The Backup ID or Backup Key that you entered has[0x000A]an error. Please try entering the ID or Key created[0x000A]on your previous device again.
+You must wait at least three days from your last data[0x000A]restore to be able to restore your backup data again.
+This ID is already in use.[0x000A]Please enter a different ID.
+You must be connected to[0x000A]the internet to give a nickname.
+Try again later to change the nickname by using[0x000A]the button on your home screen.
+Do it later
+Please set up your Facebook account from[0x000A]your device Settings.
+To use this function, you must give this application[0x000A]permission to access your phone's storage.
+Go to Settings
+Image failed to save.
+Purchase error.[0x000A]Your decorations purchase was unable[0x000A]to be completed. Please restart the application[0x000A]and try the purchase process again.
+ID input error.[0x000A]IDs must be between four and 16 characters in length.
+Error: Unable to complete your purchase of additional[0x000A]contents that was interrupted. Please restart the[0x000A]application and open the additional contents list to try[0x000A]the purchase process again.[0x000A]Error ID: {0x0209,0x0000,0x0000}
+Error: Unable to retrieve product information. Please[0x000A]check your connection, allow some time to pass, and try again.
+Your age does not meet the requirement,[0x000A]so you cannot purchase additional contents.
+Error: You are using an older version of the application.[0x000A]Please try again after updating the application to the latest version.[0x000A]Error ID: {0x0209,0x0000,0x0000}
+Error: The transfer process is underway[0x000A]on another device. Please try again later.[0x000A]Error ID: {0x0209,0x0000,0x0000}
+Error: Your backup data is corrupt. Please check your[0x000A]connection and try again. If the situation still doesn't[0x000A]improve, please contact us for support.[0x000A](Support ID: {0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000})[0x000A]Error ID: {0x0209,0x0000,0x0000}
+Error: Your backup data is corrupt. Please check your[0x000A]connection and try again. If the situation still doesn't[0x000A]improve, please contact us for support.
+(Support ID: {0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000})[0x000A]Error ID: {0x0209,0x0000,0x0000}
+Error: Your backup data is corrupt. Please check your[0x000A]connection and try again. If the situation still doesn't[0x000A]improve, please contact us for support.[0x000A](Support ID: {0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000})[0x000A]Error ID: {0x0209,0x0000,0x0000}
+Error: Your backup data is corrupt. Please check your[0x000A]connection and try again. If the situation still doesn't[0x000A]improve, please contact us for support.
+(Support ID: {0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000})[0x000A]Error ID: {0x0209,0x0000,0x0000}
+{0xBDFF:0x002A}
+Retry
+Error: Please check your connection, allow some time to[0x000A]pass, and try again.[0x000A]Error ID: {0x0209,0x0000,0x0000}
+Error: You are using an older version of the application.[0x000A]Please try again after updating the application to the latest version.[0x000A]Error ID: {0x0209,0x0000,0x0000}
+Your data has been reset. Please restart the application.
+Error: The transfer process is underway[0x000A]on another device. Please try again later.[0x000A]Error ID: {0x0209,0x0000,0x0000}
+Error: The transfer process timed out. Please restart[0x000A]the application and try again from the beginning.[0x000A]Error ID: {0x0209,0x0000,0x0000}
+Error: A corrupt receipt has been detected, so the[0x000A]process will be interrupted. If you are unable to receive[0x000A]a product you have purchased, please contact us for[0x000A]support (support ID: {0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000}).[0x000A]Error ID: {0x0209,0x0000,0x0000}
+Error: A corrupt receipt has been detected, so the[0x000A]process will be interrupted. If you are unable to receive[0x000A]a product you have purchased, please contact us for[0x000A]support.
+(support ID: {0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000}).[0x000A]Error ID: {0x0209,0x0000,0x0000}
+You have already purchased all of the additional contents.
+Support
+Would you like to go to the support site?
+Your Support ID
+Copy
+Support ID
+Your Support ID has been copied.
+Message from the Support Team
+No new messages.
+The Support Team has sent you a gift![0x000A]Please accept it.
+Get it
+You received a {0x010A,0x0000}.
+You received {0x010A,0x0000} × {0x0204,0x0000,0x0000}.
+{0x0101,0x0000} came to your base camp.
+You can cook more dishes at the same time now.
+(Application version: {0x0209,0x0000,0x0000})
+There has been a change made[0x000A]to the Terms of Service / Privacy Policy.
+This application can be played in full[0x000A]without spending any money.[0x000A](There are items available for purchase.)[0x000A][0x000A]Please see the Terms of Service for[0x000A]more information about purchases.[0x000A]If you are a minor, please have an adult[0x000A](like your mom or dad!) read through[0x000A]the Terms of Use with you before[0x000A]you begin playing.[0x000A][0x000A]Be sure that you have a parent or guardian's[0x000A]permission before you purchase any items,[0x000A]and make the purchase together!
+Getting Started
+If it's your first time playing, please select New Start.[0x000A]If you have backup data to load, please select Load Data.
+Transfer Data
+New Start
+Confirm Age
+Please enter the month and year you were born in.
+Birth Year
+Birth Month
+OK
+YYYY
+MM
+Confirm Age
+Is this correct?
+Birth Month and Year
+{0x0201,0x0001}, {0x0203,0x0000,0x0000}
+You cannot change this setting later.
+News
+An update has arrived![0x000A]Visit your online store to update the application.
+To Store
+Communicating...
+CONTINUE
+Let's pick back up from where you left off.
+You can make a backup of your data just in case the[0x000A]worst should happen. Then you can continue your[0x000A]game—even on another device!
+Transferring Data
+Please enter the ID and Key you registered on your other device.
+Backup ID
+Backup Key
+Note: After you transfer your backup data onto this device,[0x000A]you will no longer be able to play with the same data on[0x000A]your previous device. You will also be unable to move[0x000A]your data to any other device for a three-day period.
+Cancel
+Transfer Data
+Data Transferred!
+Your backup game data has been[0x000A]successfully transferred to this device.[0x000A]Please restart the application.
+Restoring data...
+Transferring Data
+The backup data from this device[0x000A]is being used on another device.[0x000A]Would you like to reset your game on[0x000A]this device and start over?
+Support
+Resetting data...
+Resetting Data
+If you reset your game, any data saved on this device[0x000A]will be lost. Are you sure you want to reset?
+Cancel
+Reset
+Resetting Data
+Your game data has been reset. The application will[0x000A]now close. Please open the application again[0x000A]to begin your new game.
+Data Backup
+You can create a backup of your current data.[0x000A]This backup data can be loaded onto[0x000A]another device, if you wish.
+Data Backup Warnings
+Data Backup Settings
+Backup ID
+Set
+Please enter an ID that is four to 16 characters long.
+Confirm
+{0x0209,0x0000,0x0000}[0x000A][0x000A]You cannot change your ID later.[0x000A]Are you sure you want to use this ID?
+{0xBDFF:0x007A}
+{0xBDFF:0x007B}
+Setting...
+Your settings have been saved and you[0x000A]have been issued a Backup Key.[0x000A]You will need both your Backup ID and[0x000A]your Backup Key when you want[0x000A]to move your data to another device.
+Tip: Write down or take a screenshot of your Backup[0x000A]Key, and keep it safe where others won't discover it.
+Create Backup
+Last Backup Created
+Confirm ID and Key
+Backup ID
+Backup Key
+Confirm
+Having read the warnings, do you still want to create[0x000A]a backup of your current game data?
+Cancel
+Yes
+Complete
+Your backup data has been created.
+Your backup data has been updated.
+Transfer Warnings
+{0xBDFF:0x008C}
+About Data Transfer
+You can only transfer backup data[0x000A]when first starting this game.[0x000A]When you set your own Backup ID,[0x000A]a Backup Key will be generated for[0x000A]you automatically.[0x000A]You will need both your Backup ID[0x000A]and this Backup Key to transfer your[0x000A]backup data to a new device,[0x000A]so be sure to keep a record of both.
+You can transfer your play data from the title screen.[0x000A]If you create a backup ID, a backup key will be[0x000A]created automatically.
+You will need your backup ID and backup key in order[0x000A]to transfer your play data, so please store them[0x000A]securely after they have been issued.
+Warnings
+•The Backup ID and Backup Key do not expire.[0x000A]•When you've finished transferring data, be[0x000A]advised that you will be unable to transfer[0x000A]to another device for three days.[0x000A]•When you've finished transferring data, you[0x000A]will not be able to play on your old device[0x000A]with the same data. If you would like to play[0x000A]on your old device, please start a new game.[0x000A]•It is only possible to transfer data the first[0x000A]time you start up the app from[0x000A]the title screen after you've changed devices.[0x000A][0x000A]•If you have purchased Decorations since your last[0x000A]Backup, you will not be able to transfer them unless you[0x000A]Backup again.[0x000A]•When transferring to a different OS, you won't[0x000A]be able to transfer Decorations you purchased.[0x000A]Note: You can transfer Decorations to a device with[0x000A]the same OS.[0x000A]•Make sure you have a strong connection to[0x000A]the internet before transferring data.[0x000A]•When this app is no longer supported, you will not be[0x000A]able to backup or transfer your data.
+•The Backup ID and Backup Key do not expire.[0x000A]•When you've finished transferring data, be[0x000A]advised that you will be unable to transfer[0x000A]to another device for {0x0201,0x0000} days.[0x000A]•When you've finished transferring data, you[0x000A]will not be able to play on your old device[0x000A]with the same data. If you would like to play[0x000A]on your old device, please start a new game.
+•You can transfer your play data from the title screen.[0x000A]•Make sure you have a strong connection to[0x000A]the internet before transferring data.[0x000A]•When this app is no longer supported, you will not be[0x000A]able to backup or transfer your data.
+{0x0201,0x0000}/{0x0201,0x0000}/{0x0203,0x0000,0x0000}
+{0x0201,0x0000}:{0x0201,0x0000}
+An ID and a Key are needed to transfer data.[0x000A]Please confirm with the button below.
+Note: Please do not input personal information.
+There is no backup data.
+{0xBDFF:0x009A}
+SHARE
+Image saved!
+Photos
+Share with everybody!
+SHARE
+SAVE
+The image will be saved on your device.
+Purchase
+Purchase Complete
+The error that happened the last time you were[0x000A]purchasing Decorations was fixed[0x000A]and the purchase has now completed successfully.
+Age Confirmation
+Did you get permission to purchase[0x000A]Decorations from your parent or guardian?
+You can't purchase Decorations without[0x000A]permission from your parent or guardian.
+Unable to Purchase
+You've already purchased some items that you haven't[0x000A]received yet. Head to the shop to pick them up!
+Get the items that you've already purchased[0x000A]but haven't received yet.
+Note: Even if you do not purchase this product, you[0x000A]will be able to purchase the Pikachu Surfboard with[0x000A]PM Tickets after 72 hours have passed.[0x000A]Note: Even if there is some difficulty that prevents the[0x000A]purchase temporarily, you will no longer be able to[0x000A]purchase the Mini Expedition Pack after 72 hours.
+Note: Even if you do not purchase this product, you[0x000A]will be able to purchase the Pikachu Surfboard with[0x000A]PM Tickets after 72 hours have passed.
+Note: Even if there is some difficulty that prevents the[0x000A]purchase temporarily, you will no longer be able to[0x000A]purchase the Mini Expedition Pack after 72 hours.
+You purchased {0x010A,0x0000}.
+Error: Your purchase of additional contents was unable[0x000A]to be completed. Please restart the application and[0x000A]open the additional contents list to try the purchase process again.[0x000A]Error ID: {0x0209,0x0000,0x0000}
+You cannot use the Back button now.
+The application will be closed.[0x000A]Are you sure you want to exit?
+Close Application
+Loading...
+Please wait...
+Saving Screenshots
+Saved!
+An error has occurred.
+You can pick up your PM Tickets!
+MoBee's battery is now full!
+Pokémon are visiting your base camp!
+Explore Tumblecube Island!
+Your Pokémon are waiting for you!
+Tap to start

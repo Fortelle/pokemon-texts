@@ -1,0 +1,26 @@
+Training
+Level
+Attacken
+Pokémon
+Trainingshelfer
+Trainieren
+Neu
+Erfolgsrate
+<var>
+Für das Spezialtraining benötigst du ein Pokémon, das trainieren soll, und mindestens einen Trainingshelfer.
+Pokémon, die Teil eines Teams sind, können keine Trainingshelfer sein.
+Dieses Pokémon ist schon auf dem maximalen Level. Das Leveltraining hätte bei ihm keine Wirkung.
+Beim Leveltraining erhält ein Pokémon Erfahrungspunkte. Möchtest du mit dem Spezialtraining beginnen?
+Beim Attackentraining änderst du die Attacke eines Pokémon. Möchtest du mit dem Spezialtraining beginnen?
+
+
+Trainingshelfer verabschieden sich nach dem Training.
+Ja
+Nein
+Erfahrung durch Leveltraining
+Pokémon erhalten durch Training Erfahrungspunkte. Die Menge unterscheidet sich je nach Trainingshelfer.
+Attacken durch Attackentraining
+Die Attacken des Pokémon können sich zufällig ändern. Halte das Attackensymbol gedrückt, um Details zu lesen.
+
+Berühre die Attacke, die sich ändern soll.
+Das Attackentraining hätte keine Wirkung auf <var>.

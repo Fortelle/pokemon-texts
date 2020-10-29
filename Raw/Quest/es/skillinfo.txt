@@ -1,0 +1,244 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+{0xBDFF:0x001A}
+{0xBDFF:0x001B}
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}
+{0xBDFF:0x001E}
+{0xBDFF:0x001F}
+{0xBDFF:0x0020}
+{0xBDFF:0x0021}
+{0xBDFF:0x0022}
+{0xBDFF:0x0023}
+Ataca con una gran ráfaga de[0x000A]fuego que daña poco a poco[0x000A]a los objetivos alcanzados.[0x000A]Puede causar quemaduras.
+Genera una gran ola con la[0x000A]que carga hacia delante. Daña[0x000A]a los enemigos a los que[0x000A]alcanza.
+Hace caer frente a sí un[0x000A]potente rayo que daña a los[0x000A]rivales cercanos. Puede[0x000A]paralizar.
+Planta semillas que absorben[0x000A]poco a poco PS de los rivales[0x000A]en su rango de alcance. El[0x000A]usuario asimila parte de los[0x000A]PS sustraídos.
+Concentra energía y la lanza[0x000A]en un potente ataque que[0x000A]inflige un daño tremendo a[0x000A]los enemigos alcanzados.
+Lanza una llamarada que se[0x000A]separa en tres direcciones al[0x000A]chocar contra el suelo y daña[0x000A]a los enemigos a su alcance.[0x000A]Puede causar quemaduras.
+Crea frente a sí una senda de[0x000A]llamas y carga para infligir[0x000A]daño a los enemigos que[0x000A]encuentra a su paso. Puede[0x000A]causar quemaduras.
+Crea una espiral de fuego a[0x000A]su alrededor que daña a los[0x000A]enemigos alcanzados. Puede[0x000A]causar quemaduras.
+Ataca a los enemigos frente a[0x000A]sí con un fuerte puñetazo[0x000A]ardiente. Puede causar[0x000A]quemaduras.
+Llamas carmesíes envuelven al[0x000A]usuario e infligen daño a los[0x000A]rivales adyacentes. Puede[0x000A]causar quemaduras.
+Invoca siniestras llamas con[0x000A]las que ataca a los enemigos[0x000A]que tiene delante y a menudo[0x000A]les provoca quemaduras.
+Concentra poder ígneo para[0x000A]aumentar el daño que causa[0x000A]de forma temporal.
+Lanza burbujas en tres[0x000A]direcciones y causa daño a[0x000A]los enemigos a su alcance.[0x000A]También puede reducir su[0x000A]velocidad de desplazamiento.
+El usuario se acerca a los[0x000A]enemigos frente a sí y levanta[0x000A]columnas de agua con las que[0x000A]les inflige daño.
+Levanta frente a sí cuatro[0x000A]columnas de agua que causan[0x000A]daño a los enemigos a los que[0x000A]alcanzan.
+Genera a su alrededor un[0x000A]torbellino de agua que daña[0x000A]a los enemigos adyacentes.
+El usuario se resguarda en su[0x000A]dura coraza y reduce por un[0x000A]tiempo el daño que recibe.
+{0xBDFF:0x0035}
+El usuario se cubre con un[0x000A]velo de agua que le ayuda a[0x000A]recuperar PS.
+Carga a gran velocidad hacia[0x000A]los enemigos que tiene delante[0x000A]para infligirles daño.
+Acumula electricidad y luego[0x000A]la libera contra los enemigos[0x000A]frente a sí, causándoles daño.[0x000A]Puede paralizar.
+Emite una tremenda descarga[0x000A]eléctrica a su alrededor con la[0x000A]que daña a los enemigos[0x000A]adyacentes. Puede paralizar.
+El usuario carga su cuerpo de[0x000A]electricidad y arremete contra[0x000A]los enemigos que tiene frente[0x000A]a sí. Puede paralizar.
+Concentra electricidad para[0x000A]propinar un aturdidor puñetazo[0x000A]al enemigo frente a sí. Puede[0x000A]paralizar.
+Concentra electricidad para[0x000A]aumentar temporalmente tanto[0x000A]el daño que causa como su[0x000A]resistencia frente a efectos[0x000A]negativos.
+Acumula electricidad a sus[0x000A]pies para aumentar el daño[0x000A]que causa de forma temporal.
+Extiende una telaraña eléctrica[0x000A]frente a sí para ralentizar la[0x000A]velocidad de desplazamiento[0x000A]de los enemigos de forma[0x000A]temporal.
+Lanza hojas cortantes que[0x000A]dañan al enemigo. Suele[0x000A]propinar un golpe crítico.
+Almacena luz y la libera hacia[0x000A]delante, causando daño a los[0x000A]enemigos alcanzados.
+Blande cepas como si fueran[0x000A]látigos para golpear y causar[0x000A]daño a los enemigos que tiene[0x000A]delante.
+Da vueltas sobre sí lanzando[0x000A]pétalos para infligir daño a los[0x000A]enemigos adyacentes.
+Esparce frente a sí un polvo[0x000A]aturdidor que a menudo[0x000A]paraliza a los enemigos que[0x000A]alcanza.
+Libera frente a sí esporas[0x000A]somníferas que a menudo[0x000A]duermen a los enemigos.
+Ataca a los enemigos frente a[0x000A]sí y recupera PS equivalentes[0x000A]a una parte del daño infligido.
+Concentra luz para aumentar[0x000A]el daño que causa de forma[0x000A]temporal.
+{0xBDFF:0x0047}
+Lanza un rayo gélido que[0x000A]inflige daño a los enemigos[0x000A]que tiene delante. Puede[0x000A]congelar.
+Hace caer frente a sí grandes[0x000A]carámbanos para infligir daño[0x000A]a los enemigos. Puede[0x000A]congelar.
+Genera a su alrededor una[0x000A]tormenta helada que daña a[0x000A]los enemigos adyacentes.[0x000A]Puede congelar.
+Concentra frío para propinar[0x000A]un puñetazo helado a los[0x000A]enemigos que tiene delante.[0x000A]Puede congelar.
+{0xBDFF:0x004C}
+El usuario se cubre con un[0x000A]velo protector para reducir[0x000A]de forma temporal el daño[0x000A]recibido.
+{0xBDFF:0x004E}
+Libera un soplo de aire helado[0x000A]que daña a los enemigos que[0x000A]tiene delante. Puede reducir su[0x000A]velocidad de desplazamiento.
+Propina un tremendo puñetazo[0x000A]a los enemigos que tiene[0x000A]delante. A menudo aumenta el[0x000A]daño que causa el usuario.
+Salta hacia los enemigos que[0x000A]tiene delante y los golpea con[0x000A]las extremidades anteriores.[0x000A]Suele asestar un golpe crítico.
+El usuario se lanza en una[0x000A]espiral destructora e inflige[0x000A]daño a los enemigos que[0x000A]encuentra a su paso.
+Carga hacia los enemigos que[0x000A]tiene delante, salta y les pega[0x000A]un fuerte rodillazo. El usuario[0x000A]también recibe daños.
+Inflige daño a los enemigos[0x000A]adyacentes con una patada[0x000A]giratoria.
+Concentra su energía para[0x000A]propinar un puñetazo a los[0x000A]oponentes que tiene delante.[0x000A]Puede confundir.
+Robustece el cuerpo para[0x000A]aumentar de forma temporal[0x000A]el daño que causa y reducir[0x000A]el que recibe.
+Propina un puñetazo a los[0x000A]enemigos que tiene delante,[0x000A]causándoles daño a la vez que[0x000A]recupera PS.
+Libera una potente onda de[0x000A]energía a su alrededor que[0x000A]inflige daño a los enemigos y[0x000A]destroza los árboles y rocas[0x000A]que encuentra a su paso.
+Lanza hacia delante agujas[0x000A]tóxicas que pueden envenenar[0x000A]a los enemigos alcanzados.
+Arroja una masa de residuos[0x000A]tóxicos que se esparcen al[0x000A]chocar contra el suelo y dañan[0x000A]a los enemigos a su alrededor.[0x000A]Puede envenenar.
+Esparce veneno a su alrededor[0x000A]para causar daño a los[0x000A]enemigos. Puede envenenar.
+Transforma su estructura[0x000A]celular para volverse líquido y[0x000A]reducir de forma temporal el[0x000A]daño que recibe.
+Libera a su alrededor una[0x000A]potente toxina que a menudo[0x000A]envenena a los enemigos a los[0x000A]que alcanza.
+Libera a su alrededor un[0x000A]polvo tóxico que a menudo[0x000A]envenena a los enemigos a los[0x000A]que alcanza.
+Escupe frente a sí un veneno[0x000A]que puede aumentar el daño[0x000A]que reciben los enemigos.
+Lanza lodo en tres direcciones[0x000A]para dañar a los enemigos[0x000A]alcanzados. Puede ralentizar[0x000A]sus movimientos.
+Lanza un hueso a modo de[0x000A]bumerán e inflige daño a los[0x000A]oponentes alcanzados.
+Lanza una bola de fango que[0x000A]explota al tocar el suelo e[0x000A]inflige daño a los enemigos a[0x000A]su alrededor. Puede aumentar[0x000A]el daño que reciben los[0x000A]enemigos afectados.
+Esparce púas frente a sí[0x000A]para infligir daño a los[0x000A]enemigos que las pisen.
+Genera un terremoto que daña[0x000A]a los enemigos adyacentes.
+Excava un agujero con el que[0x000A]se sitúa bajo los enemigos que[0x000A]tiene delante y les inflige daño[0x000A]cuando sale a la superficie.
+Acumula arena bajo sus pies[0x000A]para recuperar algunos PS.
+{0xBDFF:0x0067}
+Ataca a los enemigos que[0x000A]tiene delante con un afilado[0x000A]pico para infligirles daño.
+Alza el vuelo y se lanza en[0x000A]picado sobre los enemigos[0x000A]lejanos que tiene delante para[0x000A]infligirles daño.
+Alza el vuelo y carga contra[0x000A]los enemigos que tiene justo[0x000A]delante. Suele propinar un[0x000A]golpe crítico.
+Levanta un potente vendaval[0x000A]frente a sí que envuelve a los[0x000A]enemigos infligiéndoles daño.
+Levanta un fuerte vendaval en[0x000A]torno a sí que inflige daño a[0x000A]los enemigos adyacentes.[0x000A]Puede confundir.
+Genera un fuerte remolino para[0x000A]aumentar de forma temporal su[0x000A]velocidad de desplazamiento.
+El usuario se toma un pequeño[0x000A]descanso para recuperar[0x000A]algunos PS.
+Inflige daño a los enemigos[0x000A]frente a sí con dos fugaces[0x000A]cortes.
+Lanza un extraño rayo en tres[0x000A]direcciones que inflige daño a[0x000A]los enemigos alcanzados.[0x000A]Puede confundir.
+Concentra energía psíquica en[0x000A]la cabeza para golpear a los[0x000A]enemigos frente a sí e infligir[0x000A]daño.
+Lanza un intenso y misterioso[0x000A]rayo de luz que daña a los[0x000A]enemigos a los que alcanza y[0x000A]que puede aumentar el daño[0x000A]que reciben.
+El usuario se relaja para poder[0x000A]aumentar de forma temporal su[0x000A]velocidad de desplazamiento.
+Crea una barrera protectora[0x000A]a su alrededor que reduce de[0x000A]forma temporal el daño[0x000A]recibido.
+Sugestiona a los enemigos[0x000A]frente a sí y a menudo logra[0x000A]que caigan dormidos.
+Usa poderes extrasensoriales[0x000A]para teletransportarse.
+Avanza e inflige daño a los[0x000A]enemigos con un filo espiritual.[0x000A]Suele propinar un golpe[0x000A]crítico.
+{0xBDFF:0x0078}
+Crea una pared de luz que[0x000A]reduce de forma temporal la[0x000A]probabilidad de sufrir efectos[0x000A]negativos.
+Crea ante sí una gran esfera[0x000A]de luz que se disgrega en[0x000A]diminutas bolas que dañan a[0x000A]los enemigos en su rango de[0x000A]alcance.
+Lanza hacia delante tres afiladas [0x000A]púas que infligen daño a los[0x000A]enemigos alcanzados.
+El usuario se abalanza sobre[0x000A]los enemigos frente a sí para[0x000A]infligirles daño.
+Lanza hacia delante un hilo[0x000A]viscoso que suele reducir la[0x000A]velocidad de desplazamiento[0x000A]de los enemigos alcanzados.
+Embiste a los enemigos a su[0x000A]alcance con un imponente[0x000A]cuerno causándoles gran[0x000A]daño.
+El usuario se cubre con un[0x000A]polvo irritante para centrar[0x000A]sobre sí la atención de los[0x000A]rivales.
+Esparce una nube de escamas[0x000A]a su alrededor y causa daño a[0x000A]los enemigos alcanzados.[0x000A]Puede potenciar las[0x000A]características del usuario y su[0x000A]resistencia a los problemas de[0x000A]estado.
+Absorbe la sangre de los[0x000A]enemigos que tiene delante[0x000A]y recupera PS equivalentes a[0x000A]una parte del daño causado.
+Ataca a los enemigos a su[0x000A]alrededor y retrocede para[0x000A]esquivar el contraataque.
+Lanza frente a sí una bola[0x000A]oscura que daña a los[0x000A]enemigos alcanzados. Puede[0x000A]aumentar el daño que reciben.
+Lame a los enemigos que tiene[0x000A]a su alrededor con una larga[0x000A]lengua causándoles daño.[0x000A]Puede paralizar.
+El usuario emite una luz[0x000A]siniestra que a menudo[0x000A]confunde a los enemigos a su[0x000A]alrededor.
+{0xBDFF:0x0086}
+Sorprende a los enemigos[0x000A]frente a sí causándoles daño.
+El usuario se abalanza contra[0x000A]los enemigos situados a media[0x000A]distancia para infligirles daño.
+Libera una onda de choque[0x000A]por la boca que inflige daño[0x000A]a los oponentes alcanzados.
+Concentra energía y carga[0x000A]dando vueltas para dañar a los[0x000A]enemigos con afiladas garras.
+Monta en cólera y daña a[0x000A]todos los enemigos que[0x000A]encuentra a su paso. Puede[0x000A]confundir al usuario.
+Genera frente a sí unos[0x000A]violentos tornados que dañan[0x000A]a todos los enemigos que[0x000A]encuentran a su paso.
+Ejecuta un baile místico y[0x000A]vigoroso para aumentar de[0x000A]forma temporal el daño que[0x000A]causa y su velocidad de[0x000A]desplazamiento.
+Hace caer grandes meteoritos[0x000A]a su alrededor que infligen[0x000A]daño a los enemigos a los que[0x000A]alcanzan. Puede reducir el[0x000A]daño que causa el usuario.
+Elige un objetivo a media[0x000A]distancia y le asesta un[0x000A]potente mordisco.
+Carga frontalmente y acuchilla[0x000A]a los enemigos a su alrededor.[0x000A]Suele asestar un golpe crítico.
+Desaparece un instante para[0x000A]desplazarse a media distancia[0x000A]y cargar contra los enemigos.
+Estimula su cerebro con ideas[0x000A]negativas para potenciar de[0x000A]forma temporal el daño que[0x000A]causa al enemigo.
+Halaga a los enemigos frente[0x000A]a sí para confundirlos, pero[0x000A]también aumenta el daño que[0x000A]causan y reduce el que[0x000A]reciben.
+Provoca a los enemigos a su[0x000A]alrededor para acaparar toda[0x000A]su atención.
+Carga contra los enemigos[0x000A]que tiene delante y les causa[0x000A]daño con sus duras alas.[0x000A]Puede reducir el daño que[0x000A]recibe el usuario.
+Inflige daño a los enemigos a[0x000A]su alrededor golpeándolos con[0x000A]su cola dura como el acero.[0x000A]Puede aumentar el daño que[0x000A]reciben.
+Araña con garras de acero[0x000A]a los enemigos que tiene[0x000A]delante. Puede aumentar el[0x000A]daño que causa el usuario.
+Hace que su piel se vuelva[0x000A]dura como el hierro para[0x000A]reducir de forma temporal[0x000A]el daño recibido.
+Emite un horrible chirrido[0x000A]metálico que a menudo[0x000A]aumenta el daño que reciben[0x000A]los enemigos cercanos.
+Concentra en un único punto[0x000A]toda su energía luminosa y la[0x000A]libera. Puede aumentar el daño[0x000A]que reciben los enemigos.
+El usuario se desplaza girando[0x000A]sobre sí mismo y emite una[0x000A]potente luz que inflige daño a[0x000A]todos los enemigos[0x000A]alcanzados.
+Besa a los enemigos frente a[0x000A]sí y absorbe PS equivalentes[0x000A]a una parte del daño infligido.
+Engatusa a los enemigos[0x000A]adyacentes para que bajen[0x000A]la guardia y reduce a menudo[0x000A]el daño que causan.
+Besa con dulzura angelical a[0x000A]los enemigos frente a sí y a[0x000A]menudo los deja confundidos.
+{0xBDFF:0x009F}
+Daña a los enemigos frente[0x000A]a sí haciéndoles carantoñas.[0x000A]Puede reducir el daño que[0x000A]causan.
+Araña a los enemigos frente a[0x000A]sí con garras duras y afiladas.
+Daña a los enemigos que tiene[0x000A]delante con una sucesión de[0x000A]puñetazos a gran velocidad.
+Daña a los enemigos cargando[0x000A]contra ellos a gran velocidad.
+Carga hacia delante con gran[0x000A]ímpetu dañando a todos los[0x000A]enemigos a los que alcanza. El[0x000A]usuario también se daña a sí[0x000A]mismo.
+Salta sin desplazarse de lugar.
+El usuario se queda dormido[0x000A]y recupera una gran cantidad[0x000A]de PS.
+Utiliza la energía de un huevo[0x000A]para recuperar PS.
+El usuario se aproxima a los[0x000A]enemigos que tiene delante y[0x000A]les propina un potente[0x000A]puñetazo.
+Golpea a todos los enemigos[0x000A]adyacentes con su cola, cepa[0x000A]o apéndice similar.
+Llama la atención de los[0x000A]enemigos a su alrededor para[0x000A]convertirse en objetivo.
+Imbuye su cuerpo de tres tipos[0x000A]de energía para atacar a los[0x000A]enemigos frente a sí. Puede[0x000A]quemar, paralizar o congelar.
+El usuario respira hondo y[0x000A]concentra energía para[0x000A]aumentar temporalmente el[0x000A]daño que causa.
+Concentra energía en su[0x000A]cuerpo para endurecerlo y[0x000A]reducir por un tiempo el daño[0x000A]recibido.
+Pisotea a los enemigos frente[0x000A]a sí para infligirles daño.
+{0xBDFF:0x00AF}
+Emite un suave gruñido que[0x000A]distrae a los enemigos a su[0x000A]alrededor y les hace bajar la[0x000A]guardia, reduciendo a menudo[0x000A]el daño que causan.
+Lanza una mirada intimidatoria[0x000A]a los enemigos cercanos,[0x000A]aumentando a menudo el daño[0x000A]que reciben.
+Entona una agradable melodía[0x000A]que a menudo envuelve en un[0x000A]profundo sueño a los[0x000A]enemigos a su alrededor.
+Emite unas peculiares ondas[0x000A]sonoras que a menudo causan[0x000A]confusión a los enemigos a su[0x000A]alrededor.
+Recupera PS mediante[0x000A]regeneración celular.
+Genera una gran explosión que[0x000A]causa un daño devastador a[0x000A]los enemigos a su alrededor.[0x000A]Pierde todos sus PS.
+Crea una copia de sí mismo[0x000A]que actúa como señuelo para[0x000A]los ataques enemigos.
+Genera un fuerte vendaval a[0x000A]su alrededor que hace salir[0x000A]despedidos a los enemigos[0x000A]alcanzados.
+Prende un fuego en el suelo[0x000A]que daña a los enemigos[0x000A]alcanzados. Puede causar[0x000A]quemaduras.
+{0xBDFF:0x00B9}
+Deslumbra a los enemigos a[0x000A]su alrededor con una luz[0x000A]cegadora que a menudo[0x000A]reduce su velocidad de[0x000A]desplazamiento.
+Araña repetidamente a los[0x000A]enemigos frente a sí para[0x000A]infligirles daño.
+Alza una roca y la arroja contra[0x000A]los enemigos frente a sí para[0x000A]causarles daños.
+Gira sobre sí mismo causando[0x000A]daño a todos los enemigos[0x000A]con los que choca.
+Levanta columnas de roca a[0x000A]los pies de los rivales que[0x000A]tiene delante para infligirles[0x000A]daño.
+Lanza rocas afiladas frente[0x000A]a sí que dañan a todos los[0x000A]enemigos a los que alcanzan.
+Pule su cuerpo para mejorar la[0x000A]aerodinámica y aumentar de[0x000A]forma temporal su velocidad[0x000A]de desplazamiento.
+Genera una tormenta de arena[0x000A]a su alrededor para infligir[0x000A]daños a los enemigos.
+Hace que caigan rocas sobre[0x000A]los enemigos que tiene delante[0x000A]causándoles daño. También[0x000A]puede reducir su velocidad[0x000A]de desplazamiento.
+Usa parte de sus propios PS[0x000A]para aumentar temporalmente[0x000A]todas sus características.
+Ejecuta una danza guerrera[0x000A]para aumentar el daño que[0x000A]causa de forma temporal.
+Profiere un violento rugido que[0x000A]hace huir a los enemigos a su[0x000A]alrededor.
+Medita para despertar su[0x000A]fuerza interior y potenciar[0x000A]temporalmente el daño que[0x000A]causa.
+Vacía la mente para olvidar sus[0x000A]preocupaciones y aumentar de[0x000A]forma temporal el daño que[0x000A]causa y su resistencia a sufrir[0x000A]efectos negativos.
+Exhala un aliento abrasador[0x000A]que daña a los enemigos[0x000A]alcanzados. Puede causar[0x000A]quemaduras.
+Se cubre de fuego y carga[0x000A]contra los enemigos frente[0x000A]a sí para infligirles daño.[0x000A]Puede causar quemaduras.
+{0xBDFF:0x00CA}
+{0xBDFF:0x00CB}
+{0xBDFF:0x00CC}
+{0xBDFF:0x00CD}
+{0xBDFF:0x00CE}
+{0xBDFF:0x00CF}
+{0xBDFF:0x00D0}
+{0xBDFF:0x00D1}
+{0xBDFF:0x00D2}
+{0xBDFF:0x00D3}
+{0xBDFF:0x00D4}
+{0xBDFF:0x00D5}
+{0xBDFF:0x00D6}
+{0xBDFF:0x00D7}
+{0xBDFF:0x00D8}
+{0xBDFF:0x00D9}
+{0xBDFF:0x00DA}
+{0xBDFF:0x00DB}
+Imbuye todo su cuerpo de[0x000A]electricidad, se lanza contra[0x000A]los enemigos y causa daño[0x000A]a los que alcanza con una[0x000A]descarga. Puede paralizar.
+Se agita con rabia para infligir[0x000A]daño a todos los enemigos[0x000A]alcanzados.
+Choca con todas sus fuerzas[0x000A]contra los enemigos frente a[0x000A]sí para infligirles daño.
+Realiza dos saltos de gran[0x000A]altura y daña con cada uno a[0x000A]los enemigos frente a sí.
+{0xBDFF:0x00E0}
+{0xBDFF:0x00E1}
+{0xBDFF:0x00E2}
+{0xBDFF:0x00E3}
+{0xBDFF:0x00E4}
+{0xBDFF:0x00E5}
+{0xBDFF:0x00E6}
+{0xBDFF:0x00E7}
+{0xBDFF:0x00E8}
+{0xBDFF:0x00E9}
+{0xBDFF:0x00EA}
+Reúne coraje para aumentar[0x000A]de forma temporal el daño que[0x000A]causa y reducir el que recibe.
+El usuario se acerca a los[0x000A]enemigos a su alrededor y[0x000A]provoca una gran explosión[0x000A]para infligirles daño. Pierde[0x000A]todos sus PS.
+Lanza huevos a su alrededor[0x000A]causando daño a todos los[0x000A]enemigos alcanzados.
+Almacena energía antes de[0x000A]cargar contra los enemigos[0x000A]frente a sí para causarles un[0x000A]gran daño.
+Salta hacia los enemigos que[0x000A]tiene delante y les asesta un[0x000A]gran golpe. Puede aumentar el[0x000A]daño que recibe el usuario.
+Lanza frente a sí un puñado de[0x000A]semillas que infligen daño a[0x000A]todos los enemigos[0x000A]alcanzados.
+Copia uno de los movimientos[0x000A]que conoce el Pokémon al que[0x000A]imita.
+Copia uno de los movimientos[0x000A]que conoce el Pokémon al que[0x000A]imita.
+Copia uno de los movimientos[0x000A]que conoce el Pokémon al que[0x000A]imita.

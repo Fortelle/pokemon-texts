@@ -1,0 +1,244 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+{0xBDFF:0x001A}
+{0xBDFF:0x001B}
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}
+{0xBDFF:0x001E}
+{0xBDFF:0x001F}
+{0xBDFF:0x0020}
+{0xBDFF:0x0021}
+{0xBDFF:0x0022}
+{0xBDFF:0x0023}
+Lance-Flammes
+Surf
+Fatal-Foudre
+Vampigraine
+Ultralaser
+Flammèche
+Boutefeu
+Danse Flamme
+Poing de Feu
+Ébullilave
+Feu Follet
+Nitrocharge
+Écume
+Cascade
+Hydrocanon
+Siphon
+Repli
+{0xBDFF:0x0035}
+Anneau Hydro
+Aqua-Jet
+Éclair
+Tonnerre
+Étincelle
+Poing-Éclair
+Chargeur
+Champ Électrifié
+Toile Élek
+Tranch'Herbe
+Lance-Soleil
+Fouet Lianes
+Danse-Fleur
+Para-Spore
+Spore
+Méga-Sangsue
+Synthèse
+{0xBDFF:0x0047}
+Laser Glace
+Chute Glace
+Blizzard
+Poing-Glace
+{0xBDFF:0x004C}
+Voile Aurore
+{0xBDFF:0x004E}
+Vent Glace
+Poing Boost
+Coup-Croix
+Sacrifice
+Pied Voltige
+Mawashi Geri
+Dynamopoing
+Gonflette
+Vampipoing
+Éclate-Roc
+Dard-Venin
+Bomb-Beurk
+Purédpois
+Acidarmure
+Toxik
+Poudre Toxik
+Piège de Venin
+Coud'Boue
+Osmerang
+Boue-Bombe
+Picots
+Séisme
+Tunnel
+Amass'Sable
+{0xBDFF:0x0067}
+Bec Vrille
+Vol
+Piqué
+Tornade
+Vent Violent
+Vent Arrière
+Atterrissage
+Aéropique
+Rafale Psy
+Psykoud'Boul
+Psyko
+Hâte
+Bouclier
+Hypnose
+Téléport
+Coupe Psycho
+{0xBDFF:0x0078}
+Mur Lumière
+Frappe Psy
+Dard-Nuée
+Furie-Bond
+Sécrétion
+Mégacorne
+Poudre Fureur
+Vent Argenté
+Vampirisme
+Demi-Tour
+Ball'Ombre
+Léchouille
+Onde Folie
+{0xBDFF:0x0086}
+Étonnement
+Dracocharge
+Dracochoc
+Dracogriffe
+Colère
+Ouragan
+Danse Draco
+Draco Météore
+Mâchouille
+Tranche-Nuit
+Coup Bas
+Machination
+Flatterie
+Provoc
+Aile d'Acier
+Queue de Fer
+Griffe Acier
+Mur de Fer
+Strido-Son
+Luminocanon
+Éclat Magique
+Vampibaiser
+Charme
+Doux Baiser
+{0xBDFF:0x009F}
+Câlinerie
+Griffe
+Poing Comète
+Vitesse Extrême
+Bélier
+Trempette
+Repos
+E-Coque
+Ultimapoing
+Souplesse
+Par Ici
+Triplattaque
+Puissance
+Armure
+Écrasement
+{0xBDFF:0x00AF}
+Rugissement
+Groz'Yeux
+Berceuse
+Ultrason
+Soin
+Explosion
+Clonage
+Cyclone
+Déflagration
+{0xBDFF:0x00B9}
+Flash
+Combo-Griffe
+Jet-Pierres
+Roulade
+Piège de Roc
+Boule Roc
+Poliroche
+Tempête de Sable
+Tomberoche
+Cognobidon
+Danse-Lames
+Hurlement
+Yoga
+Amnésie
+Canicule
+Roue de Feu
+{0xBDFF:0x00CA}
+{0xBDFF:0x00CB}
+{0xBDFF:0x00CC}
+{0xBDFF:0x00CD}
+{0xBDFF:0x00CE}
+{0xBDFF:0x00CF}
+{0xBDFF:0x00D0}
+{0xBDFF:0x00D1}
+{0xBDFF:0x00D2}
+{0xBDFF:0x00D3}
+{0xBDFF:0x00D4}
+{0xBDFF:0x00D5}
+{0xBDFF:0x00D6}
+{0xBDFF:0x00D7}
+{0xBDFF:0x00D8}
+{0xBDFF:0x00D9}
+{0xBDFF:0x00DA}
+{0xBDFF:0x00DB}
+Électacle
+Fléau
+Charge
+Rebond
+{0xBDFF:0x00E0}
+{0xBDFF:0x00E1}
+{0xBDFF:0x00E2}
+{0xBDFF:0x00E3}
+{0xBDFF:0x00E4}
+{0xBDFF:0x00E5}
+{0xBDFF:0x00E6}
+{0xBDFF:0x00E7}
+{0xBDFF:0x00E8}
+{0xBDFF:0x00E9}
+{0xBDFF:0x00EA}
+Rengorgement
+Destruction
+Bomb'Œuf
+Giga Impact
+Close Combat
+Balle Graine
+Morphing
+Morphing
+Morphing

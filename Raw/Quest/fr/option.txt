@@ -1,0 +1,190 @@
+Conditions d'utilisation
+Acceptez-vous les conditions d'utilisation ci-dessus ?
+Non
+Oui
+Attention !
+Vous devez accepter les conditions d'utilisation[0x000A]pour jouer à ce jeu.
+Une erreur s'est produite.[0x000A]Code d'erreur : {0x0209,0x0000,0x0000}
+Une erreur s'est produite.
+Vous ne pouvez pas saisir ce nom.
+Les noms sont limités à 12 caractères.
+Erreur[0x000A]Vérifiez votre connexion avant de réessayer.
+Erreur[0x000A]Veuillez vérifier votre connexion avant de réessayer.[0x000A]Code d'erreur : {0x0209,0x0000,0x0000}
+Veuillez activer les notifications Push depuis les paramètres[0x000A]de votre appareil.
+Date invalide.
+Erreur[0x000A]Vous devez être connecté à Internet[0x000A]pour enregistrer un utilisateur.[0x000A]Vérifiez votre connexion et réessayez.[0x000A]Code d'erreur : {0x0209,0x0000,0x0000}
+Erreur[0x000A]L'horloge de l'appareil a été modifiée. Vous devez attendre[0x000A]22 heures après avoir obtenu vos coupons BP pour pouvoir[0x000A]en recevoir à nouveau.[0x000A]Prochains coupons BP : le {0x0201,0x0000}/{0x0201,0x0000}/{0x0203,0x0000,0x0000} à {0x0201,0x0000}:{0x0201,0x0000} (heure de l'appareil)
+Erreur[0x000A]L'horloge de l'appareil a été modifiée. Vous devez[0x000A]attendre 22 heures après avoir obtenu vos coupons BP[0x000A]pour en recevoir à nouveau.
+Prochains coupons BP :[0x000A]le {0x0201,0x0000}/{0x0201,0x0000}/{0x0203,0x0000,0x0000} à {0x0201,0x0000}:{0x0201,0x0000} (heure de l'appareil)
+Erreur de transfert[0x000A]La communication a échoué.[0x000A]Veuillez vérifier votre connexion et réessayer.
+Erreur de transfert[0x000A]Votre ID transfert ou clé transfert est invalide.[0x000A]Veuillez vérifier les données et réessayer.
+Vous devez attendre au moins 3 jours après un transfert[0x000A]avant de pouvoir transférer à nouveau vos données.
+Cet ID existe déjà. Veuillez en choisir un autre.
+Erreur[0x000A]Vous devez vous connecter à Internet pour[0x000A]pouvoir nommer votre personnage.[0x000A]Veuillez vérifier votre connexion puis réessayer.[0x000A]Code d'erreur : {0x0209,0x0000,0x0000}
+Vous pourrez modifier le nom de votre personnage en utilisant[0x000A]le bouton en haut de l'écran titre.
+Veuillez réessayer
+Veuillez configurer votre compte Facebook dans[0x000A]les paramètres de votre appareil.
+Pour utiliser cette fonction, vous devez autoriser[0x000A]l'application à accéder à l'espace de stockage[0x000A]de l'appareil.
+Paramètres
+L'image n'a pas pu être enregistrée.
+Erreur[0x000A]L'achat du contenu additionnel a échoué.[0x000A]Veuillez redémarrer l'application et ouvrir à nouveau[0x000A]la liste des contenus additionnels pour le compléter.[0x000A]Code d'erreur : {0x0209,0x0000,0x0000}
+Erreur d'ID[0x000A]Un ID doit comprendre entre 4 et 16 caractères.
+Erreur[0x000A]L'achat du contenu additionnel en cours d'interruption a échoué.[0x000A]Veuillez redémarrer l'application et ouvrir à nouveau[0x000A]la liste des contenus additionnels pour le compléter.[0x000A]Code d'erreur : {0x0209,0x0000,0x0000}
+Erreur : [0x000A]Impossible d'acquérir les données de l'article.[0x000A]Veuillez vérifier votre connexion, puis attendez[0x000A]quelques instants avant de réessayer.
+Achat du contenu additionnel impossible.[0x000A]Vous n'avez pas l'âge requis.
+Erreur[0x000A]La version de l'application est obsolète.[0x000A]Veuillez mettre l'application à jour, puis réessayez.[0x000A]Code d'erreur : {0x0209,0x0000,0x0000}
+Erreur[0x000A]Le transfert de sauvegarde est en cours d'exécution[0x000A]sur un autre appareil. Veuillez patienter, puis réessayez.[0x000A]Code d'erreur : {0x0209,0x0000,0x0000}
+Erreur[0x000A]Les données de sauvegarde sont corrompues.[0x000A]Si la situation n'est pas résolue après avoir vérifié[0x000A]votre connexion, veuillez contacter le service client.[0x000A](ID service client : {0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000})[0x000A]Code d'erreur : {0x0209,0x0000,0x0000}
+Erreur[0x000A]Les données de sauvegarde sont corrompues.[0x000A]Si la situation n'est pas résolue après avoir vérifié[0x000A]votre connexion, veuillez contacter le service client.
+(ID service client : {0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000})[0x000A]Code d'erreur : {0x0209,0x0000,0x0000}
+Erreur[0x000A]Les données sont corrompues.[0x000A]Si la situation n'est pas résolue après avoir vérifié[0x000A]votre connexion, veuillez contacter le service client.[0x000A](ID service client : {0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000})[0x000A]Code d'erreur : {0x0209,0x0000,0x0000}
+Erreur[0x000A]Les données sont corrompues.[0x000A]Veuillez tout d'abord vérifier votre connexion.[0x000A]Si la situation n'est pas résolue malgré[0x000A]une connexion fiable, veuillez contacter le service client.
+(ID service client : {0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000})[0x000A]Code d'erreur : {0x0209,0x0000,0x0000}
+{0xBDFF:0x002A}
+Réessayer
+Erreur[0x000A]Veuillez vérifier votre connexion, puis attendez quelques instants[0x000A]avant de réessayer.[0x000A]Code d'erreur : {0x0209,0x0000,0x0000}
+Erreur[0x000A]La version de l'application est obsolète.[0x000A]Veuillez mettre l'application à jour, puis réessayez.[0x000A]Code d'erreur : {0x0209,0x0000,0x0000}
+Les données ont été réinitialisées.[0x000A]Veuillez redémarrer l'application.
+Erreur[0x000A]Le transfert de sauvegarde est en cours d'exécution[0x000A]sur un autre appareil. Veuillez patienter, puis réessayez.[0x000A]Code d'erreur : {0x0209,0x0000,0x0000}
+Erreur[0x000A]Le transfert s'est arrêté avant la fin de son exécution.[0x000A]Veuillez redémarrer l'application[0x000A]et recommencer le transfert.[0x000A]Code d'erreur : {0x0209,0x0000,0x0000}
+Erreur[0x000A]La facture est erronée et le processus a été interrompu.[0x000A]Si vous ne parvenez pas à obtenir les articles que vous avez[0x000A]achetés, veuillez contacter le service client.[0x000A](ID service client : {0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000})[0x000A]Code d'erreur : {0x0209,0x0000,0x0000}
+Erreur[0x000A]La facture est erronée et le processus a été interrompu.[0x000A]Si vous ne parvenez pas à obtenir les articles que vous[0x000A]avez achetés, veuillez contacter le service client.
+(ID service client : {0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000}{0x0103,0x0000})[0x000A]Code d'erreur : {0x0209,0x0000,0x0000}
+Tous les contenus additionnels ont été achetés.
+Service client
+Vous allez accéder à une page Internet. Continuer ?
+Votre ID client
+Copier
+ID client
+Votre ID client a été copié dans le presse-papier.
+Messages du service client
+Aucune annonce
+Vous avez reçu un cadeau de la part du service client !
+Recevoir
+Article obtenu : {0x010A,0x0000}
+Articles obtenus : {0x010A,0x0000} × {0x0204,0x0000,0x0020}
+{0x0101,0x0000} a débarqué sur votre base !
+Un nouveau Chaudron a été ajouté.
+(Version de l'application : {0x0209,0x0000,0x0000})
+Un changement a été effectué dans les conditions d'utilisation /[0x000A]la politique de confidentialité.
+Vous pouvez utiliser l'intégralité de cette application[0x000A]sans frais. (Des objets sont disponibles à l'achat.)[0x000A][0x000A]Veuillez lire les conditions d'utilisation pour obtenir[0x000A]davantage d'informations sur les achats.[0x000A][0x000A]Si vous êtes mineur, demandez à un adulte (parent, tuteur)[0x000A]de lire ces conditions d'utilisation avec vous avant d'utiliser[0x000A]cette application.[0x000A][0x000A]Veuillez obtenir l'approbation de votre tuteur légal avant[0x000A]d'acheter un objet, ou effectuez cet achat ensemble.
+Avant-propos
+Si vous jouez pour la première fois,[0x000A]touchez NOUVELLE PARTIE.[0x000A]Si vous avez déjà une sauvegarde sur un autre appareil,[0x000A]choisissez TRANSFERT DE SAUVEGARDE.
+Transfert de sauvegarde
+Nouvelle partie
+Votre âge
+Veuillez saisir vos mois et année de naissance.
+Année
+Mois
+OK
+AAAA
+MM
+Vérifier l'âge
+Les informations sont-elles correctes ?
+Mois et année :
+{0x0201,0x0001}/{0x0203,0x0000,0x0000}
+Vous ne pourrez pas modifier ces informations après[0x000A]avoir commencé le jeu.
+Mise à jour
+Une mise à jour est disponible ! Vous pouvez la télécharger[0x000A]dès maintenant !
+Mettre à jour
+Communication en cours...
+Continuer
+Reprise de la partie depuis la dernière interruption.
+Par précaution, il est conseillé de créer une sauvegarde[0x000A]de vos données. Ainsi, vous pourrez récupérer[0x000A]votre partie sur un autre appareil !
+Transfert de données
+Veuillez saisir l'ID et la clé que vous avez obtenus[0x000A]sur l'autre appareil.
+ID transfert
+Clé transfert
+Note : Une fois le transfert votre sauvegarde effectué,[0x000A]vous ne pourrez plus reprendre votre partie sur l'ancien[0x000A]appareil. Notez également que vous devrez attendre[0x000A]3 jours avant de faire un nouveau transfert.
+Annuler
+Lancer le transfert
+Transfert terminé
+Le transfert de la sauvegarde a été effectué.[0x000A]Veuillez redémarrer l'application.
+Rétablissement des données...
+Transfert de données
+Les données de cet appareil ont été transférées vers[0x000A]un autre appareil. Voulez-vous réinitialiser votre jeu[0x000A]pour le recommencer depuis le début ?
+Contact
+Réinitialiser
+Réinitialisation
+Si vous réinitialisez votre jeu, toutes les données présentes[0x000A]sur cet appareil seront effacées. Réinitialiser quand même ?
+Non
+Oui
+Réinitialisation
+Vos données de jeu ont été réinitialisées. L'application[0x000A]va maintenant se fermer. Veuillez attendre avant[0x000A]de redémarrer le jeu.
+Sauvegarde de données
+Il est possible de sauvegarder vos données de jeu actuelles[0x000A]pour, par exemple, les transférer vers un nouvel appareil.
+Informations importantes
+Paramètres de sauvegarde
+ID transfert
+Créer
+Veuillez entrer un identifiant de 4 à 16 caractères.
+Confirmer
+{0x0209,0x0000,0x0000}[0x000A][0x000A]Cet ID ne pourra pas être modifié ultérieurement.[0x000A]Voulez-vous continuer ?
+{0xBDFF:0x007A}
+{0xBDFF:0x007B}
+Création de l'ID...
+Données de jeu sauvegardées ! Une clé transfert a été générée.[0x000A]Pour transférer vos données de jeu vers un autre appareil,[0x000A]utilisez l'ID et la clé transfert.
+Notez la clé transfert ou faites une capture d'écran,[0x000A]et conservez-la à l'abri des regards indiscrets.
+Sauvegarder les données
+Dernière sauvegarde
+ID et clé transfert
+ID transfert
+Clé transfert
+Confirmer
+Avez-vous pris connaissance des avertissements avant[0x000A]de procéder à une sauvegarde de vos données ?
+Non
+Oui
+Terminé
+Vos données ont été sauvegardées.
+Vos données de sauvegarde ont été mises à jour.
+Avertissements sur le transfert
+{0xBDFF:0x008C}
+Attention
+Il n'est possible de transférer vos données que depuis[0x000A]l'écran titre. Lorsque vous créez votre ID transfert,[0x000A]le jeu génère automatiquement une clé transfert[0x000A]correspondante. Pour transférer vos données,[0x000A]vous aurez besoin de l'ID et de la clé,[0x000A]aussi conservez-les précieusement.
+Il n'est possible de transférer vos données que depuis[0x000A]l'écran titre. Lorsque vous créez votre ID transfert,[0x000A]le jeu génère automatiquement une clé transfert[0x000A]correspondante.
+Pour transférer vos données, vous aurez besoin de[0x000A]l'ID et de la clé, aussi conservez-les précieusement.
+Attention
+* Vos ID transfert et clé transfert n'ont aucune date d'expiration.[0x000A]* Après un transfert, vous ne pourrez pas transférer de nouveau[0x000A]vos données pendant {0x0201,0x0000} jours.[0x000A]* Après un transfert, vous ne pourrez plus utiliser les données[0x000A]pour jouer ou vous connecter sur votre ancien appareil.[0x000A]Si vous voulez encore jouer sur votre ancien appareil,[0x000A]vous devrez commencer une nouvelle partie.[0x000A]* Le transfert de sauvegarde s'effectue depuis l'écran titre.[0x000A]* Le transfert de données doit s'effectuer avec une bonne[0x000A]connexion Internet.[0x000A]* Les copies de sauvegarde et le transfert de données[0x000A]ne pourront plus être utilisés si cette application n'est plus[0x000A]supportée.
+* Vos ID transfert et clé transfert n'ont aucune date d'expiration.[0x000A]* Après un transfert, vous ne pourrez pas transférer de nouveau[0x000A]vos données pendant {0x0201,0x0000} jours.[0x000A]* Après un transfert, vous ne pourrez plus utiliser les données[0x000A]pour jouer ou vous connecter sur votre ancien appareil.[0x000A]Si vous voulez encore jouer sur votre ancien appareil,[0x000A]vous devrez commencer une nouvelle partie.
+* Le transfert de sauvegarde s'effectue depuis l'écran titre.[0x000A]* Le transfert de données doit s'effectuer avec une bonne[0x000A]connexion Internet.[0x000A]* Les copies de sauvegarde et le transfert de données[0x000A]ne pourront plus être utilisés si cette application n'est plus[0x000A]supportée.
+{0x0201,0x0000}/{0x0201,0x0000}/{0x0203,0x0000,0x0000}
+{0x0201,0x0000}:{0x0201,0x0000}
+ID et clé nécessaires.[0x000A]Touchez ce bouton pour les afficher.
+* Évitez de saisir vos données personnelles.
+Données de sauvegarde introuvables
+{0xBDFF:0x009A}
+Partager
+Image enregistrée
+Photo
+Partagez-la avec vos amis !
+Partager
+Enregistrer
+La photo a été enregistrée dans votre appareil.
+Acheter
+Achat effectué
+L'erreur lors de votre dernière tentative d'achat de[0x000A]contenu additionnel a été corrigée, et l'achat a maintenant[0x000A]été validé.
+Vérification d'âge
+Avez-vous l'autorisation de votre tuteur légal pour[0x000A]poursuivre votre achat ?
+Impossible d'effectuer des achats sans l'autorisation[0x000A]de votre tuteur légal.
+Erreur[0x000A]L'achat de contenu additionnel a échoué.[0x000A]Vérifiez votre connexion Internet, puis patientez[0x000A]quelques instants avant de réessayer.[0x000A]Code d'erreur : {0x0209,0x0000,0x0000}
+Vos achats précédents n'ont pas été validés.[0x000A]Rendez-vous dans la Boutique Pokémon pour terminer[0x000A]vos achats.
+Veuillez récupérer les objets que vous avez[0x000A]précédemment achetés.
+* Vous n'avez pas besoin d'acheter cet article pour obtenir[0x000A]la Planche Pikachu. Celle-ci sera disponible en échange[0x000A]de coupons BP après 72 heures.[0x000A]* La vente du Lot d'Aventurier Mini s'achèvera au bout de[0x000A]72 heures, et ce même si pendant cette période, l'achat est[0x000A]momentanément impossible à cause d'un problème technique.
+* Vous n'avez pas besoin d'acheter cet article pour obtenir[0x000A]la Planche Pikachu. Celle-ci sera disponible en échange[0x000A]de coupons BP après 72 heures.
+* La vente du Lot d'Aventurier Mini s'achèvera au bout de[0x000A]72 heures, même si, pendant cette période, l'achat est[0x000A]momentanément impossible à cause d'un problème technique.
+Achat effectué : {0x010A,0x0000}
+Erreur[0x000A]L'achat du contenu additionnel a échoué.[0x000A]Veuillez redémarrer l'application et ouvrir à nouveau[0x000A]la liste des contenus additionnels pour le compléter.[0x000A]Code d'erreur : {0x0209,0x0000,0x0000}
+Vous ne pouvez pas utiliser le bouton Retour[0x000A]maintenant.
+Voulez-vous fermer l'application ?
+Fermer
+Préparation...
+Veuillez patienter...
+Sauvegarder
+Sauvegarde réussie !
+Une erreur est survenue.
+Des coupons BP vous attendent !
+La batterie de Pokapi est pleine !
+Des Pokémon ont débarqué sur votre base !
+Poursuivez vos quêtes sur l'Île Trois-Dés !
+Vos Pokémon vous attendent !
+Touchez pour commencer

@@ -1,0 +1,11 @@
+{0xBDFF:0x0000}
+Annulla
+{0xBDFF:0x0002}
+Chiudi
+Sì
+No
+{0xBDFF:0x0006}
+Vuoi ricaricare la batteria[0x000A]usando dei coupon PM?
+{0xBDFF:0x0008}
+La batteria è carica.
+La batteria è già carica![0x000A]Non si può caricare più di così.

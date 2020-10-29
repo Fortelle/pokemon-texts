@@ -1,0 +1,11 @@
+{0xBDFF:0x0000}
+Annuler
+{0xBDFF:0x0002}
+Fermer
+Oui
+Non
+{0xBDFF:0x0006}
+Voulez-vous utiliser des coupons BP[0x000A]pour recharger la batterie ?
+{0xBDFF:0x0008}
+La batterie est pleine !
+La batterie est déjà pleine et ne peut pas[0x000A]être rechargée.

@@ -1,0 +1,11 @@
+{0xBDFF:0x0000}
+Quit
+{0xBDFF:0x0002}
+Close
+Yes
+No
+{0xBDFF:0x0006}
+Would you like to use PM Tickets[0x000A]to recharge your battery?
+{0xBDFF:0x0008}
+Your battery is full.
+Your battery is full, so you can't recharge it.

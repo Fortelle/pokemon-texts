@@ -1,0 +1,26 @@
+Exercice
+Niveau
+Capacité
+Pokémon à entraîner
+Pokémon de soutien
+Commencer
+Réinitialiser
+Taux de réussite
+{0x0203,0x0000,0x0020}
+Pour lancer un exercice, il vous faut un Pokémon[0x000A]à entraîner et un Pokémon en soutien.
+Les Pokémon présents dans votre équipe ne peuvent pas[0x000A]être appelés en soutien pour un exercice.
+Ce Pokémon est déjà à son niveau maximum et[0x000A]ne tirera rien d'un exercice.
+Cet exercice permet au Pokémon de gagner[0x000A]des points d'expérience. Commencer ?
+Cet exercice permet de changer les capacités[0x000A]des Pokémon. Commencer ?
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+Les Pokémon de soutien s'en iront à la fin de l'exercice.
+Oui
+Non
+Gain de points d'expérience
+Le Pokémon gagne plus ou moins d'expérience selon[0x000A]les Pokémon qui l'aident au cours de l'exercice.
+Changement de capacités
+Une capacité peut changer aléatoirement. Touchez longuement[0x000A]l'icône de capacité pour lire sa description.
+{0xBDFF:0x0017}
+Touchez la capacité que vous souhaitez changer.
+Cet exercice n'aura aucun effet sur {0x0101,0x0000}.

@@ -1,0 +1,244 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+{0xBDFF:0x001A}
+{0xBDFF:0x001B}
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}
+{0xBDFF:0x001E}
+{0xBDFF:0x001F}
+{0xBDFF:0x0020}
+{0xBDFF:0x0021}
+{0xBDFF:0x0022}
+{0xBDFF:0x0023}
+The user continuously[0x000A]breathes out long flames[0x000A]for a while. Deals damage to[0x000A]enemies as long as they[0x000A]remain in the flames.[0x000A]Sometimes burns enemies.
+The user creates a wide[0x000A]wave and charges forward on it.[0x000A]Deals damage to enemies[0x000A]caught in the wave.
+The user strikes the area in[0x000A]front of itself with[0x000A]a lightning bolt. Deals[0x000A]damage to nearby enemies.[0x000A]Sometimes paralyzes enemies.
+The user plants a seed on the[0x000A]ground in front of itself.[0x000A]Enemies in range are[0x000A]gradually damaged.[0x000A]Part of the damage dealt is[0x000A]absorbed to restore[0x000A]the user's HP.
+The user stores up power and[0x000A]then fires a tremendous beam[0x000A]at enemies.[0x000A]Deals severe damage to[0x000A]enemies it hits.
+The user fires sparks in front of[0x000A]itself that split and run in three[0x000A]directions when they hit[0x000A]the ground. Deals damage[0x000A]to enemies they hit.[0x000A]Sometimes burns enemies.
+The user creates a path of[0x000A]flames in front of itself and[0x000A]charges forward along it.[0x000A]Deals damage to enemies.[0x000A]Sometimes burns enemies.
+The user creates flames all[0x000A]around itself and fires them off[0x000A]in a spiral. Deals damage[0x000A]to enemies they hit.[0x000A]Sometimes burns enemies.
+The user imbues its fist with[0x000A]the power of flames,[0x000A]and strikes enemies directly[0x000A]in front of it with[0x000A]a burning punch.[0x000A]Deals damage and[0x000A]sometimes burns enemies.
+The user spouts scarlet[0x000A]flames all around itself.[0x000A]Deals damage to enemies[0x000A]around it.[0x000A]Sometimes burns enemies.
+The user drapes itself with[0x000A]sinister flames and attacks[0x000A]enemies directly in front of it.[0x000A]Often burns enemies.
+The user stores up the power[0x000A]of flames, raising the damage it[0x000A]deals for a while.
+The user fires bubbles in[0x000A]three directions.[0x000A]Deals damage to enemies hit by[0x000A]the bubbles and sometimes lowers[0x000A]their movement speed.
+The user approaches enemies[0x000A]in front of itself and creates a[0x000A]pillar of water beneath them.[0x000A]This deals damage to enemies[0x000A]it hits.
+The user shoots four pillars of[0x000A]water up from the ground and[0x000A]sends them out in front of itself.[0x000A]Deals damage to enemies hit by them.
+The user creates a whirlpool[0x000A]around itself.[0x000A]Deals damage to enemies[0x000A]around the user.
+The user withdraws into its[0x000A]hard shell, reducing[0x000A]the amount of damage it[0x000A]takes for a while.
+{0xBDFF:0x0035}
+The user envelops itself in[0x000A]a veil made of water, restoring[0x000A]some of its HP.
+The user charges at enemies in[0x000A]front of itself with tremendous[0x000A]speed, dealing damage to them.
+After storing up electricity, the[0x000A]user fires it toward enemies in[0x000A]front of itself, dealing damage[0x000A]to them.[0x000A]Sometimes paralyzes enemies.
+The user discharges[0x000A]tremendous electricity[0x000A]all around itself. Deals damage[0x000A]to enemies around the user.[0x000A]Sometimes paralyzes enemies.
+The user charges its body with[0x000A]electricity and charges toward[0x000A]enemies in front of itself.[0x000A]Sometimes paralyzes enemies.
+The user charges its fist with[0x000A]electricity and unleashes a[0x000A]shocking punch on enemies[0x000A]directly in front of itself,[0x000A]sometimes paralyzing them.
+The user stores up electricity,[0x000A]raising the damage it deals[0x000A]and making it resistant to[0x000A]negative effects for a while.
+The user gathers electrical[0x000A]power beneath itself, raising the[0x000A]damage it deals for a while.
+The user spreads an electric[0x000A]net out directly in front of itself,[0x000A]lowering the movement speed[0x000A]of enemies hit by it for a while.
+The user launches[0x000A]sharp-edged leaves to slash[0x000A]at enemies, damaging them.[0x000A]Critical hits land more easily.
+The user gathers light and[0x000A]unleashes it in front of itself,[0x000A]dealing damage to enemies[0x000A]hit by it.
+The user strikes enemies in[0x000A]front of itself with[0x000A]whiplike vines. Deals damage[0x000A]to enemies hit by them.
+The user spins in place,[0x000A]scattering petals that deal[0x000A]damage to enemies around it.
+The user scatters numbing[0x000A]powder directly in front[0x000A]of itself. Often paralyzes[0x000A]enemies hit by it.
+The user scatters[0x000A]sleep-inducing spores directly[0x000A]in front of itself, often making[0x000A]enemies fall asleep.
+The user attacks enemies in[0x000A]front of itself, dealing damage[0x000A]to them. Some of the damage[0x000A]dealt is absorbed by the user,[0x000A]restoring its HP.
+The user absorbs light, raising[0x000A]the damage it deals for a while.
+{0xBDFF:0x0047}
+The user fires an icy-cold[0x000A]beam at enemies in front[0x000A]of itself. Deals damage to[0x000A]enemies and sometimes[0x000A]freezes them.
+The user drops frigid icicles in[0x000A]front of itself. Deals damage to[0x000A]enemies hit by them and[0x000A]sometimes freezes them.
+The user moves about while[0x000A]creating a blizzard centered[0x000A]on itself. Deals damage to[0x000A]enemies around the user and[0x000A]sometimes freezes them.
+The user chills its fist and[0x000A]unleashes a freezing punch[0x000A]on enemies directly in front of it.[0x000A]Sometimes freezes enemies.
+{0xBDFF:0x004C}
+The user cloaks itself in a veil[0x000A]of light, reducing the amount[0x000A]of damage it takes for a while.
+{0xBDFF:0x004E}
+The user sends a freezing gust[0x000A]of chilled air at enemies in front[0x000A]of itself, damaging them.[0x000A]Sometimes lowers enemies'[0x000A]movement speed.
+The user delivers a punch with[0x000A]its hard fist to enemies directly[0x000A]in front of itself, damaging[0x000A]them. Often raises the amount[0x000A]of damage the user deals.
+The user jumps toward[0x000A]enemies in front of itself and[0x000A]smacks them with a[0x000A]two-handed chop, damaging[0x000A]them. Critical hits land[0x000A]more easily.
+The user spins toward enemies[0x000A]in front of itself, smashing[0x000A]into them. Deals damage to[0x000A]enemies hit by the user[0x000A]as it whirls around.
+After charging toward enemies[0x000A]in front of itself, the user jumps[0x000A]up and deals damage with a[0x000A]knee kick. The user also takes[0x000A]recoil damage.
+The user kicks as it spins in[0x000A]place, dealing damage to[0x000A]surrounding enemies.
+The user punches enemies[0x000A]directly in front of itself with[0x000A]its full, concentrated power.[0x000A]Sometimes confuses enemies.
+The user tenses its muscles to[0x000A]bulk up its body, raising[0x000A]the damage it deals for a while.[0x000A]This also reduces the damage[0x000A]the user takes.
+The user fires a punch at[0x000A]enemies directly in front of[0x000A]itself, damaging them. It also[0x000A]absorbs power with its fist,[0x000A]restoring its own HP.
+The user unleashes its fury,[0x000A]damaging enemies in a broad[0x000A]area nearby and destroying[0x000A]surrounding trees and rocks.
+The user fires a poisonous[0x000A]stinger at enemies in front of[0x000A]itself. Sometimes poisons[0x000A]enemies hit by it.
+The user shoots out a glob of[0x000A]sludge that splits open when it[0x000A]hits the ground, damaging[0x000A]surrounding enemies.[0x000A]Sometimes poisons enemies.
+The user spews poison around[0x000A]itself, damaging enemies.[0x000A]Sometimes poisons enemies.
+The user alters its cellular[0x000A]structure to liquefy itself,[0x000A]reducing the damage it takes[0x000A]for a while.
+The user sprays a powerful[0x000A]poison around itself, often[0x000A]poisoning enemies hit by it.
+The user scatters poison[0x000A]powder in front of itself, often[0x000A]poisoning enemies hit by it.
+The user spews poison in front[0x000A]of itself, sometimes raising the[0x000A]amount of damage enemies take.
+The user hurls mud in three[0x000A]directions, dealing[0x000A]damage to enemies hit by it.[0x000A]Sometimes reduces their[0x000A]movement speed.
+The user throws a boomerang[0x000A]made of bone, damaging[0x000A]enemies hit by it.
+The user throws a lump of mud[0x000A]in front of itself that splits[0x000A]open when it hits the ground,[0x000A]damaging surrounding enemies[0x000A]and sometimes raising[0x000A]the amount of damage[0x000A]they take.
+The user scatters spikes in[0x000A]front of itself, damaging[0x000A]enemies that step on them.
+The user causes an[0x000A]earthquake that damages[0x000A]surrounding enemies.
+The user digs a tunnel to travel[0x000A]beneath the feet of enemies in[0x000A]front of itself, then pops out from[0x000A]beneath them to damage them.
+The user gathers sand[0x000A]from beneath itself,[0x000A]restoring a bit of its HP.
+{0xBDFF:0x0067}
+The user attacks enemies[0x000A]directly in front of itself with its[0x000A]sharp beak, damaging them.
+The user flies toward enemies[0x000A]far in front of itself,[0x000A]then swoops down to deal[0x000A]damage to them.
+After flying up and bracing[0x000A]itself, the user charges at[0x000A]enemies directly in front of[0x000A]itself, damaging them.[0x000A]Critical hits land more easily.
+The user sends an intense[0x000A]gust of wind out in front of[0x000A]itself that whirls around and[0x000A]damages enemies hit by it.
+The user whips up an intense[0x000A]wind around itself, damaging[0x000A]surrounding enemies and[0x000A]sometimes confusing them.
+The user creates an intense[0x000A]swirling wind that raises its[0x000A]movement speed for a while.
+The user briefly rests its body,[0x000A]restoring a bit of its HP.
+The user quickly slashes[0x000A]in front of itself twice,[0x000A]dealing damage.
+The user sends peculiar rays[0x000A]of light out in three directions,[0x000A]damaging enemies hit by them.[0x000A]Sometimes confuses enemies.
+The user focuses its willpower[0x000A]to its head, then smashes it into[0x000A]enemies directly in front of itself,[0x000A]dealing damage to enemies hit by it.
+The user creates a large,[0x000A]mysterious light and fires[0x000A]it out, dealing damage[0x000A]to enemies hit by it.[0x000A]Sometimes raises[0x000A]the amount of damage[0x000A]they take.
+The user relaxes and lightens[0x000A]its body, raising its movement[0x000A]speed for a while.
+The user throws up a wall[0x000A]around itself, lowering[0x000A]the amount of damage it[0x000A]takes for a while.
+The user employs hypnotic[0x000A]suggestion, often making[0x000A]enemies in front of itself[0x000A]fall asleep.
+The user utilizes its psychic[0x000A]powers to teleport.
+After moving forward, the user[0x000A]deals damage to enemies[0x000A]with blades formed by[0x000A]psychic power. Critical hits[0x000A]land more easily.
+{0xBDFF:0x0078}
+The user creates a wall of light,[0x000A]making it harder for it to be[0x000A]affected by negative effects[0x000A]for a while.
+The user creates a large orb of[0x000A]light in front of itself.[0x000A]The orb then splits into many[0x000A]smaller ones that fly out in all[0x000A]directions, dealing damage to[0x000A]surrounding enemies.
+The user shoots three sharp[0x000A]spikes in front of itself,[0x000A]damaging enemies hit by them.
+The user lunges toward[0x000A]enemies in front of itself,[0x000A]damaging them.
+The user spews a sticky thread[0x000A]in three directions, creating[0x000A]nets that will damage[0x000A]enemies and often lower[0x000A]their movement speed.
+Using its tough and impressive[0x000A]horn, the user rams into[0x000A]enemies in front of itself with[0x000A]no letup, dealing huge damage[0x000A]to them.
+The user scatters a cloud of[0x000A]irritating powder on itself,[0x000A]causing surrounding enemies[0x000A]to target it.
+Scales carried by the wind[0x000A]swirl around the user,[0x000A]damaging enemies hit by them.[0x000A]Some or all of the user's stats[0x000A]sometimes rise at random.
+The user drains the blood of[0x000A]enemies directly in front of[0x000A]itself, damaging them. Part of[0x000A]the damage dealt is absorbed[0x000A]to restore the user's HP.
+After attacking surrounding[0x000A]enemies, the user moves[0x000A]back to dodge[0x000A]enemies' counterattacks.
+The user hurls a shadowy blob[0x000A]in front of itself, damaging[0x000A]enemies hit by it.[0x000A]Sometimes raises[0x000A]the amount of damage[0x000A]they take.
+The user licks enemies all[0x000A]around itself with its long[0x000A]tongue, damaging them.[0x000A]Sometimes paralyzes enemies.
+The user exposes surrounding[0x000A]enemies to a sinister ray, often[0x000A]confusing them.
+{0xBDFF:0x0086}
+The user tries to startle[0x000A]enemies directly in front of[0x000A]itself, damaging those taken[0x000A]by surprise.
+The user flies into enemies[0x000A]a short distance from[0x000A]itself with great intensity,[0x000A]damaging them.
+The user sends a shock wave[0x000A]flying from its mouth, damaging[0x000A]enemies hit by it.
+The user gathers its strength,[0x000A]then charges forward while[0x000A]spinning, damaging enemies[0x000A]with its sharp claws.
+The user rampages about,[0x000A]attacking and damaging any[0x000A]enemies in its path. Sometimes[0x000A]confuses the user.
+The user whips up several[0x000A]tornadoes and sends them out[0x000A]in front of itself, damaging[0x000A]enemies hit by them.
+The user vigorously performs a[0x000A]mystic, powerful dance that[0x000A]raises the amount of damage it[0x000A]deals and its movement speed[0x000A]for a while.
+The user summons several[0x000A]meteors down around itself,[0x000A]damaging enemies hit by them.[0x000A]Sometimes reduces the amount[0x000A]of damage the user deals.
+The user takes aim and then[0x000A]bites on to enemies a short[0x000A]distance in front of itself,[0x000A]damaging them.
+The user dashes forward,[0x000A]slashing surrounding enemies[0x000A]and damaging them. Critical[0x000A]hits land more easily.
+The user briefly disappears[0x000A]and moves a short distance.[0x000A]It then charges toward[0x000A]enemies, damaging them.
+The user stimulates its brain by[0x000A]thinking bad thoughts, raising[0x000A]the amount of damage it deals[0x000A]for a while.
+The user flatters enemies in[0x000A]front of itself, which confuses[0x000A]them but raises the amount of[0x000A]damage they deal and reduces[0x000A]the amount of damage they take.
+The user taunts surrounding[0x000A]enemies, forcing them[0x000A]to target it.
+The user charges at enemies in[0x000A]front of itself and smacks them[0x000A]with its hard wings,[0x000A]dealing damage.[0x000A]Sometimes reduces[0x000A]the amount of damage[0x000A]the user takes.
+The user swings its steel-hard[0x000A]tail, damaging surrounding[0x000A]enemies and sometimes[0x000A]raising the amount of damage[0x000A]they take.
+The user rakes enemies in front[0x000A]of itself with its steel claws,[0x000A]dealing damage.[0x000A]Sometimes raises the amount[0x000A]of damage the user deals.
+The user hardens its skin until[0x000A]it's like iron, lowering the[0x000A]damage it takes for a while.
+Enemies near the user are[0x000A]forced to listen to a horrible[0x000A]sound like metal scraping,[0x000A]often raising the amount of[0x000A]damage they take.
+The user focuses all of its light[0x000A]energy into a single point and[0x000A]fires a beam in front of itself,[0x000A]sometimes raising the amount[0x000A]of damage enemies take.
+The user moves about as it[0x000A]emits a powerful flash that[0x000A]damages enemies hit by it.
+The user kisses enemies[0x000A]directly in front of itself and[0x000A]damages them. Part of the[0x000A]damage dealt restores[0x000A]the user's HP.
+The user makes surrounding[0x000A]enemies less wary with its cute[0x000A]behavior, often reducing[0x000A]the amount of damage[0x000A]they deal.
+The user kisses enemies[0x000A]directly in front of itself with a[0x000A]sweet, angelic kiss that[0x000A]often confuses them.
+{0xBDFF:0x009F}
+The user plays rough with[0x000A]enemies in front of itself,[0x000A]damaging them.[0x000A]Sometimes lowers the damage[0x000A]enemies deal.
+The user rakes its hard,[0x000A]pointed claws over enemies[0x000A]directly in front of itself,[0x000A]damaging them.
+The user unleashes a flurry of[0x000A]punches on enemies directly in[0x000A]front of itself, damaging them.
+The user charges into enemies[0x000A]in front of itself with blinding[0x000A]speed, damaging them.
+The user slams into enemies in[0x000A]front of itself with a reckless,[0x000A]full-body charge, damaging all[0x000A]enemies hit by it. The user also[0x000A]takes recoil damage.
+The user splashes in place.
+The user rests in place, greatly[0x000A]restoring its HP.
+The user restores its HP with[0x000A]the power of eggs.
+After approaching enemies in[0x000A]front of itself, the user slugs[0x000A]enemies directly in front of[0x000A]itself with a muscle-packed[0x000A]punch, damaging them.
+The user slams nearby[0x000A]enemies with a long tail,[0x000A]vines, or the like,[0x000A]damaging all of them.
+The user grabs the attention[0x000A]of surrounding enemies,[0x000A]forcing them to target it.
+The user's body is imbued[0x000A]with three powers as it attacks[0x000A]enemies in front of itself,[0x000A]damaging them.[0x000A]Sometimes burns, paralyzes,[0x000A]or freezes enemies.
+The user takes a deep breath[0x000A]and focuses, raising the[0x000A]amount of damage it deals[0x000A]for a while.
+The user stiffens all the[0x000A]muscles in its body, lowering[0x000A]the damage it takes for a while.
+The user stomps on enemies[0x000A]in front of itself with a big foot,[0x000A]damaging them.
+{0xBDFF:0x00AF}
+The user growls in an[0x000A]endearing way, making[0x000A]surrounding enemies less wary[0x000A]and often reducing the amount[0x000A]of damage they deal.
+The user glares at nearby[0x000A]enemies to intimidate them,[0x000A]often raising the amount of[0x000A]damage they take.
+The user sings to enemies around[0x000A]itself with its calming voice, often[0x000A]putting them to sleep.
+The user generates odd sound[0x000A]waves from its body, often[0x000A]confusing surrounding enemies.
+Restoring its own cells, the[0x000A]user restores its HP.
+The user causes a tremendous[0x000A]explosion, dealing huge damage[0x000A]to surrounding enemies.[0x000A]The trade-off is that the user[0x000A]takes enough damage[0x000A]to knock itself out.
+The user puts out a substitute[0x000A]for itself that enemies are[0x000A]forced to attack.
+The user whips up a strong[0x000A]wind around itself, blowing[0x000A]away enemies hit by it.
+The user sprays an[0x000A]all-consuming fire on the[0x000A]ground, damaging enemies hit[0x000A]by it and sometimes burning them.
+{0xBDFF:0x00B9}
+The user suddenly flashes a[0x000A]bright light at surrounding[0x000A]enemies, often lowering their[0x000A]movement speed.
+The user repeatedly swipes at[0x000A]enemies directly in front of[0x000A]itself, damaging them.
+The user picks up two rocks[0x000A]and hurls them in front of itself,[0x000A]damaging enemies hit by them.
+The user spins around,[0x000A]damaging surrounding[0x000A]enemies it smashes into.
+The user creates pillars of[0x000A]stone from the ground,[0x000A]damaging enemies hit by them.
+The user hurls hard rocks in[0x000A]front of itself, damaging[0x000A]enemies hit by them.
+The user polishes its body to[0x000A]reduce drag, raising its[0x000A]movement speed for a while.
+The user creates a sandstorm[0x000A]around itself, damaging[0x000A]enemies hit by it.
+The user drops boulders[0x000A]directly in front of itself,[0x000A]damaging enemies hit by them[0x000A]and sometimes lowering their[0x000A]movement speed.
+The user uses its own HP to[0x000A]raise all of its stats for a while.
+With a frenetic dance to uplift[0x000A]the fighting spirit, the user[0x000A]raises the amount of damage it[0x000A]deals for a while.
+The user roars intensely,[0x000A]blowing away[0x000A]surrounding enemies.
+The user meditates to awaken[0x000A]the power deep within its body,[0x000A]raising the amount of damage it[0x000A]deals for a while.
+The user temporarily empties[0x000A]its mind to forget its concerns,[0x000A]raising the amount of damage it[0x000A]deals and making it more[0x000A]resistant to negative effects.
+The user exhales hot breath[0x000A]in front of itself, damaging[0x000A]enemies hit by it and[0x000A]sometimes burning them.
+The user cloaks itself in fire[0x000A]and charges forward,[0x000A]damaging enemies it hits and[0x000A]sometimes burning them.
+{0xBDFF:0x00CA}
+{0xBDFF:0x00CB}
+{0xBDFF:0x00CC}
+{0xBDFF:0x00CD}
+{0xBDFF:0x00CE}
+{0xBDFF:0x00CF}
+{0xBDFF:0x00D0}
+{0xBDFF:0x00D1}
+{0xBDFF:0x00D2}
+{0xBDFF:0x00D3}
+{0xBDFF:0x00D4}
+{0xBDFF:0x00D5}
+{0xBDFF:0x00D6}
+{0xBDFF:0x00D7}
+{0xBDFF:0x00D8}
+{0xBDFF:0x00D9}
+{0xBDFF:0x00DA}
+{0xBDFF:0x00DB}
+After electrifying itself and[0x000A]charging toward enemies, the[0x000A]user jumps and discharges[0x000A]electricity, damaging enemies[0x000A]hit by it and sometimes[0x000A]paralyzing them.
+The user flails about,[0x000A]damaging enemies it hits.
+The user smashes into[0x000A]enemies in front of itself[0x000A]with all its might,[0x000A]damaging them.
+The user bounces forward high[0x000A]into the air twice, damaging[0x000A]enemies it hits.
+{0xBDFF:0x00E0}
+{0xBDFF:0x00E1}
+{0xBDFF:0x00E2}
+{0xBDFF:0x00E3}
+{0xBDFF:0x00E4}
+{0xBDFF:0x00E5}
+{0xBDFF:0x00E6}
+{0xBDFF:0x00E7}
+{0xBDFF:0x00E8}
+{0xBDFF:0x00E9}
+{0xBDFF:0x00EA}
+The user is roused, raising the[0x000A]amount of damage it deals and[0x000A]reducing the amount of[0x000A]damage it takes for a while.
+The user approaches enemies[0x000A]and causes an explosion,[0x000A]damaging all surrounding[0x000A]enemies. The trade-off is that[0x000A]the user takes enough[0x000A]damage to knock itself out.
+The user scatters eggs around[0x000A]itself, damaging enemies hit[0x000A]by them.
+The user focuses every bit of[0x000A]its power and charges toward[0x000A]enemies in front of itself,[0x000A]dealing huge damage to them.
+The user gets right up on[0x000A]enemies in front of itself and[0x000A]smacks them with a single[0x000A]blow, damaging them.[0x000A]Sometimes raises the amount[0x000A]of damage the user takes.
+The user sends several seeds[0x000A]flying out in front of itself[0x000A]simultaneously, damaging[0x000A]enemies hit by them.
+When Ditto transforms into[0x000A]another Pokémon, this[0x000A]changes into a move that[0x000A]Pokémon can learn.
+When Ditto transforms into[0x000A]another Pokémon, this[0x000A]changes into a move that[0x000A]Pokémon can learn.
+When Ditto transforms into[0x000A]another Pokémon, this[0x000A]changes into a move that[0x000A]Pokémon can learn.

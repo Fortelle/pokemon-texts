@@ -1,0 +1,65 @@
+Ang.
+{0xBDFF:0x0001}
+KP
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+Attacken-Reg.-Zeit (%)
+Wiederholter Angriff
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+Attacken-Ausmaß
+{0xBDFF:0x000A}
+Attacken-Ang. (%)
+Attacken-Projektilzahl
+{0xBDFF:0x000D}
+Autom. KP-Heilung (%)
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+Geschwindigkeit (%)
+{0xBDFF:0x0018}
+{0xBDFF:0x0019}
+Volltrefferquote (%)
+Volltrefferschaden (%)
+Erholungszeit nach K.O. (%)
+KP nach K.O.-Erholung (%)
+Pokémon-Größenänderung (%)
+Resistenz: {0x016A,0x0000} (%)
+{0xBDFF:0x0020}
+Dauer positiver Effekte (%)
+{0xBDFF:0x0022}
+Dauer negativer Effekte (%)
+Eigene Rückpralldistanz (%)
+{0xBDFF:0x0025}
+{0xBDFF:0x0026}
+Positive Effekte fürs Team (%)
+KP-Heilung nach Treffer (%)
+KP-Heilung nach Sieg (%)
+Attacken-Ang. ({0x0103,0x0000}) (%)
+Attacken-Reg.-Zeit ({0x0103,0x0000}) (%)
+Schaden durch Typ {0x0103,0x0000} (%)
+Gegner-Volltrefferquote (%)
+KP-Heilung pro Angriffswelle (%)
+Standard-Attacken-Reg.-Zeit (%)
+Resistenz: Negative Effekte (%)
+Resistenz: Statusprobleme (%)
+Volltrefferquote (%)
+Volltrefferquote (%)
+{0xBDFF:0x0034}
+{0xBDFF:0x0035}
+Erholungszeit nach K.O. (%)
+KP nach K.O.-Erholung (%)
+{0xBDFF:0x0038}
+KP-Heilung nach Treffer (%)
+KP-Heilung nach Sieg (%)
+{0xBDFF:0x003B}
+Resistenz: Negative Effekte (%)
+Resistenz: Statusprobleme (%)
+{0xBDFF:0x003E}
+{0xBDFF:0x003F}
+Attacken-Reg.-Zeit (%)

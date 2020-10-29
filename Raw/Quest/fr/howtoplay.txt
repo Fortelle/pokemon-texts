@@ -1,0 +1,78 @@
+Les Pokémon se déplacent[0x000A]tout seuls vers les ennemis et[0x000A]les attaquent automatiquement.
+{0xBDFF:0x0001}
+Toutes les 22 heures[0x000A]environ, des Pokémon[0x000A]viendront visiter votre base.[0x000A]Vous aurez la possibilité[0x000A]de les accueillir dans[0x000A]votre équipe.
+Les Pokémon rares[0x000A]que vous croisez pendant[0x000A]les quêtes sont également[0x000A]susceptibles de venir[0x000A]dans votre base.
+{0xBDFF:0x0004}
+Vous pouvez aussi attirer[0x000A]des types particuliers[0x000A]de Pokémon en cuisinant[0x000A]des plats qu'ils adorent.
+Touchez les ingrédients et[0x000A]placez-les dans le Chaudron.
+Une fois tous les ingrédients[0x000A]dans le Chaudron, la cuisson[0x000A]peut commencer.
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+Les Amulettes-P sont de[0x000A]mystérieux accessoires[0x000A]que portent les Pokémon[0x000A]vivant sur l'Île Trois-Dés.
+Placez des Gemmes-P dans[0x000A]les encoches pour augmenter[0x000A]les stats d'un Pokémon, comme[0x000A]l'Attaque ou le nombre de PV.
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+L'Île Ohazar est un lieu étrange.[0x000A]Sa forme et les Pokémon que[0x000A]vous y croisez changent à[0x000A]chaque visite.
+Qui sait, vous pourrez[0x000A]peut-être y trouver des[0x000A]Pokémon qui ne vivent[0x000A]qu'ici !
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+La Boutique Pokémon vous[0x000A]permet d'acheter des objets [0x000A]fort utiles pour vos quêtes[0x000A]sur l'Île Trois-Dés.
+Pour effectuer des achats,[0x000A]il vous faut des coupons BP.
+Vous pouvez en recevoir[0x000A]en cadeau régulièrement.
+{0xBDFF:0x001B}
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}
+Vous pouvez placer vos[0x000A]décorations sur votre base.
+Sélectionnez une décoration,[0x000A]puis touchez l'emplacement[0x000A]où vous souhaitez l'installer.
+L'effet des décorations[0x000A]s'active à partir du moment[0x000A]où vous les possédez dans[0x000A]votre inventaire, que vous[0x000A]les ayez installées sur[0x000A]la base ou non.
+{0xBDFF:0x0021}
+Pour utiliser une capacité[0x000A]apprise par un Pokémon,[0x000A]il suffit de toucher l'icône[0x000A]correspondante.
+Les Gemmes-P sont des[0x000A]objets importants qui[0x000A]renforcent vos Pokémon[0x000A]quand ils en sont équipés.
+Les Gemmes-P obtenues[0x000A]seront de plus en plus[0x000A]puissantes à mesure que[0x000A]vous progresserez dans[0x000A]l'aventure.
+{0xBDFF:0x0025}
+Les Gemmes-P capacité[0x000A]sont des objets spéciaux[0x000A]qui permettent d'améliorer[0x000A]les capacités.
+Vous pouvez placer ces[0x000A]gemmes dans les encoches[0x000A]de couleur identique, qui[0x000A]sont elles-mêmes reliées[0x000A]aux capacités.
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+{0xBDFF:0x002A}
+{0xBDFF:0x002B}
+{0xBDFF:0x002C}
+{0xBDFF:0x002D}
+{0xBDFF:0x002E}
+Les décorations sont des[0x000A]objets qui facilitent grandement[0x000A]l'exploration de l'île.
+Elles disposent d'effets spéciaux[0x000A]qui s'activent automatiquement[0x000A]dès lors que vous les possédez.
+Vous pouvez aussi les[0x000A]utiliser pour décorer votre[0x000A]base. Pour cela, touchez[0x000A]le bouton Décoration.
+{0xBDFF:0x0032}
+{0xBDFF:0x0033}
+{0xBDFF:0x0034}
+Les Pokémon attirés par[0x000A]votre cuisine dépendent[0x000A]des plats que vous[0x000A]préparez.
+Vous pouvez préparer une[0x000A]grande variété de mets en[0x000A]mélangeant différents types[0x000A]d'ingrédients.
+Vous pouvez consulter la[0x000A]composition et les préférences[0x000A]des Pokémon depuis le menu[0x000A]Recettes.
+Il existe également une[0x000A]recette secrète appréciée[0x000A]par certains Pokémon[0x000A]très particuliers.
+Les Pokémon peuvent faire[0x000A]des exercices pour monter[0x000A]de niveau et apprendre[0x000A]de nouvelles capacités.
+Pour participer à l'un de[0x000A]ces exercices, vous aurez[0x000A]besoin de l'aide d'autres[0x000A]Pokémon.
+Après avoir contribué à[0x000A]un exercice, les Pokémon[0x000A]qui vous ont aidé vous quitteront.
+Vous avez obtenu le Chaudron[0x000A]de bronze.
+Vous pouvez choisir[0x000A]un Chaudron en bronze[0x000A]en touchant le bouton[0x000A]de modification.
+Avec ce Chaudron, vous devez[0x000A]utiliser plus d'ingrédients,[0x000A]mais en contrepartie, vous[0x000A]attirerez des Pokémon de[0x000A]niveau supérieur à 16.
+En outre, avec un Chaudron[0x000A]en bronze, les Pokémon[0x000A]attirés posséderont[0x000A]de meilleures stats[0x000A]de PV et d'Attaque.
+Vous pouvez démarrer[0x000A]une quête en touchant[0x000A]l'icône d'un niveau.
+Le but de ce jeu est[0x000A]d'explorer l'île pour[0x000A]découvrir ses trésors.
+La puissance de votre équipe[0x000A]est calculée à partir du nombre[0x000A]de PV et de la stat d'Attaque[0x000A]des Pokémon qui la composent.
+La puissance des ennemis[0x000A]que vous rencontrez dans[0x000A]les quêtes est affichée[0x000A]dans chaque icône[0x000A]des niveaux.[0x000A]Utilisez-la comme repère[0x000A]pour composer[0x000A]votre équipe.
+Les Pokémon dont le type[0x000A]est identique à celui du niveau[0x000A]bénéficient d'un bonus de[0x000A]PV et d'Attaque.
+Le temps de cuisson de[0x000A]vos plats est déterminé par[0x000A]le nombre de quêtes que[0x000A]vous terminez.
+Vous pouvez aussi utiliser[0x000A]des coupons BP pour[0x000A]terminer une préparation[0x000A]sans attendre.
+Vous pouvez obtenir des[0x000A]récompenses pour chaque[0x000A]activité de l'Île Trois-Dés.
+Vous pouvez notamment[0x000A]obtenir des coupons BP,[0x000A]qui vous seront très utiles[0x000A]dans l'aventure.
+Certains objets ne peuvent[0x000A]être obtenus qu'en[0x000A]récompense après avoir[0x000A]accompli des objectifs.
+Si vous ne parvenez plus à[0x000A]progresser dans l'aventure,[0x000A]il est conseillé de vous tourner[0x000A]vers ces objectifs.
+En effectuant des quêtes,[0x000A]les détecteurs de Pokapi[0x000A]se sont activés, et pendant[0x000A]un certain laps de temps,[0x000A]il pourra trouver des objets[0x000A]plus facilement !
+Au cours de la prochaine[0x000A]quête, vous trouverez à coup[0x000A]sûr une Gemme-P rare dotée[0x000A]d'un effet spécial !
+Appuyez sur le bouton[0x000A]Pierre Stase pour faire [0x000A]tenir celle-ci au Pokémon[0x000A]et l'empêcher d'évoluer.

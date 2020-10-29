@@ -1,0 +1,26 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+{0xBDFF:0x0005}
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+Fällt deine Wahl auf das defensive {0x0101,0x0000},[0x000A]das schützende Wurzeln in den Boden schlägt und[0x000A]dadurch viel einstecken kann?
+Fällt deine Wahl auf das offensive {0x0101,0x0000}, das mit[0x000A]der Kraft seiner Flammen alles lichterloh brennen lässt?
+Fällt deine Wahl auf das ausbalancierte {0x0101,0x0000},[0x000A]das sich wie Wasser allen Gegebenheiten anpassen kann?
+Fällt deine Wahl auf das offensive {0x0101,0x0000},[0x000A]das voller elektrisierender Attacken steckt?
+Fällt deine Wahl auf das ausbalancierte {0x0101,0x0000},[0x000A]das seine Gegner trickreich an der Nase herumführt?
+Ja
+Nein
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+Dein Name ist {0x0100,0x0000}, richtig?[0x000A](Du hast 12 Zeichen zur Verfügung.)
+Wähle das Pokémon, mit dem du dich[0x000A]anfreunden möchtest, indem du es berührst.

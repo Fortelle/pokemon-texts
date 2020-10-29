@@ -1,0 +1,61 @@
+{0xBDFF:0x0000}
+{0xBDFF:0x0001}
+{0xBDFF:0x0002}
+{0xBDFF:0x0003}
+{0xBDFF:0x0004}
+Augmentez la capacité d'accueil de votre base[0x000A]avec la Boutique Pokémon, ou libérez de la place[0x000A]grâce aux exercices.
+{0xBDFF:0x0006}
+{0xBDFF:0x0007}
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+{0xBDFF:0x000C}
+{0xBDFF:0x000D}
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0x0200,0x0000}
+{0x0200,0x0000}
+{0xBDFF:0x0013}
+{0xBDFF:0x0014}
+{0xBDFF:0x0015}
+Décoration
+{0xBDFF:0x0017}
+En cours de préparation...[0x000A]Pourquoi ne pas faire une nouvelle quête[0x000A]en attendant la fin de la cuisson ?
+Placez les Gemmes-P que vous avez obtenues pendant[0x000A]les quêtes sur l'Amulette-P des Pokémon !
+{0xBDFF:0x001A}
+{0xBDFF:0x001B}
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}
+Bravo ! Vous avez accueilli un nouveau Pokémon ![0x000A]Continuez sur cette voie et attirez-en davantage !
+Intégrez dans votre équipe les Pokémon que vous[0x000A]avez accueillis et partez accomplir des quêtes !
+{0xBDFF:0x0020}
+{0xBDFF:0x0021}
+{0xBDFF:0x0022}
+{0xBDFF:0x0023}
+{0xBDFF:0x0024}
+{0xBDFF:0x0025}
+{0xBDFF:0x0026}
+{0x0102,0x0000} vous a rejoint !
+Vous ne pouvez plus accueillir de Pokémon.
+Nombre de quêtes à finir pour que le plat soit prêt : {0x0201,0x0000}.[0x000A]Préférez-vous utiliser vos coupons BP à la place ?
+{0xBDFF:0x002A}
+Décoration
+Ajouté au Pokédex !
+Vous pouvez commencer à cuisiner.[0x000A]Utilisez les ingrédients trouvés sur l'Île Trois-Dés pour[0x000A]préparer de bons petits plats pour les Pokémon.
+{0xBDFF:0x002E}
+Voici des coupons BP gratuits, pour vous permettre de[0x000A]terminer la cuisson plus vite pour cette fois.
+{0xBDFF:0x0030}
+Quêtes :
+Cuisson rapide
+Vous pourrez l'utiliser après avoir acheté[0x000A]le contenu additionnel.
+Vous pourrez l'utiliser après avoir acheté[0x000A]le contenu additionnel.[0x000A]Voulez-vous vous rendre sur le Nintendo eShop ?
+Vous avez atteint un objectif principal ![0x000A]Voulez-vous consulter le menu ?
+Vous avez atteint des objectifs principaux ![0x000A]Voulez-vous consulter le menu ?
+Vous ne pouvez plus accueillir de Pokémon.[0x000A]Faites-les contribuer à un exercice ou procurez-vous[0x000A]une extension de Boîte Pokémon pour obtenir[0x000A]plus d'espace.
+Exercice
+Extension
+Votre Chaudron est vide.[0x000A]Préparez un deuxième plat avant de partir en quête.
+Touchez le bouton Auto pour choisir des ingrédients[0x000A]aléatoirement.
+Effectuez des quêtes pour mettre fin à la cuisson[0x000A]des plats. Évitez de partir à l'aventure en laissant[0x000A]le Chaudron vide !

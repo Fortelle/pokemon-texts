@@ -1,0 +1,78 @@
+Pokémon laufen von selbst[0x000A]auf Gegner zu und greifen[0x000A]sie an.
+{0xBDFF:0x0001}
+Etwa alle 22 Stunden[0x000A]besuchen dich Pokémon[0x000A]in deiner Basis, die sich[0x000A]mit dir anfreunden wollen.
+Auch seltene Pokémon,[0x000A]die du auf Erkundungen[0x000A]getroffen hast, schauen[0x000A]ab und zu mal vorbei.
+{0xBDFF:0x0004}
+Wenn du kochst, werden[0x000A]Pokémon, die das Gericht[0x000A]besonders gerne mögen,[0x000A]zu deiner Basis gelockt.
+Berühre eine Zutat und[0x000A]ziehe sie in den Kochtopf,[0x000A]um sie deinem Gericht[0x000A]hinzuzufügen.
+Wenn der Kochtopf voll ist,[0x000A]kann es losgehen.
+{0xBDFF:0x0008}
+{0xBDFF:0x0009}
+{0xBDFF:0x000A}
+{0xBDFF:0x000B}
+P-Amulette sind mysteriöse[0x000A]Anhänger, die von den[0x000A]Pokémon auf Kubo-Eiland[0x000A]getragen werden.
+Wenn du einen P-Stein[0x000A]in die Fassung eines[0x000A]P-Amuletts einsetzt,[0x000A]kannst du dadurch den[0x000A]KP- oder Ang.-Wert des[0x000A]Pokémon erhöhen.
+{0xBDFF:0x000E}
+{0xBDFF:0x000F}
+{0xBDFF:0x0010}
+{0xBDFF:0x0011}
+{0xBDFF:0x0012}
+{0xBDFF:0x0013}
+Die Zufallsinsel ist wahrlich[0x000A]mysteriös. Ihr Aussehen[0x000A]und die Pokémon, auf die[0x000A]du dort triffst, können sich[0x000A]von Besuch zu Besuch[0x000A]unterscheiden.
+Vielleicht erwarten dich[0x000A]dort besondere Pokémon,[0x000A]die nirgendwo sonst leben.
+{0xBDFF:0x0016}
+{0xBDFF:0x0017}
+Im Pokémon-Supermarkt[0x000A]kannst du allerlei nützliche[0x000A]Dinge kaufen, die dir bei[0x000A]Erkundungen weiterhelfen.
+Um dort einkaufen zu[0x000A]können, benötigst du[0x000A]PS-Gutscheine.
+PS-Gutscheine kannst du[0x000A]in regelmäßigen Abständen[0x000A]durch den Mitgliedsbonus[0x000A]erhalten.
+{0xBDFF:0x001B}
+{0xBDFF:0x001C}
+{0xBDFF:0x001D}
+Du kannst die Deko-Objekte,[0x000A]die du erhalten hast, in[0x000A]deiner Basis aufstellen.
+Stelle ein Deko-Objekt auf,[0x000A]indem du einen Platz[0x000A]berührst, der zur Größe[0x000A]des Objekts passt.
+Der Effekt eines Deko-[0x000A]Objekts wird sofort nach[0x000A]Erhalt aktiviert. Seine[0x000A]Platzierung in der Basis[0x000A]spielt dabei keine Rolle.
+{0xBDFF:0x0021}
+Pokémon beherrschen[0x000A]Attacken. Berühre das[0x000A]Symbol einer Attacke,[0x000A]um sie einzusetzen.
+P-Steine sind wichtige[0x000A]Items, die Pokémon[0x000A]stärker machen.
+Je weiter du bei den Stufen[0x000A]kommst, desto stärker[0x000A]werden auch die P-Steine,[0x000A]die du dort finden kannst.
+{0xBDFF:0x0025}
+Ein Attackenstein ist ein[0x000A]besonderes Item, mit dem[0x000A]du Attacken optimieren[0x000A]kannst.
+In eine Fassung, die an eine[0x000A]Attacke gebunden ist, kannst[0x000A]du einen Attackenstein in[0x000A]einer der Farben einsetzen,[0x000A]die in der Fassung angezeigt[0x000A]werden.
+{0xBDFF:0x0028}
+{0xBDFF:0x0029}
+{0xBDFF:0x002A}
+{0xBDFF:0x002B}
+{0xBDFF:0x002C}
+{0xBDFF:0x002D}
+{0xBDFF:0x002E}
+Deko-Objekte sind sehr[0x000A]nützlich, da sie Erkundungen[0x000A]ergiebiger werden lassen.
+Deko-Objekte besitzen[0x000A]verschiedene Effekte, die[0x000A]sich von selbst aktivieren,[0x000A]sobald du das jeweilige[0x000A]Deko-Objekt erhältst.
+Du kannst sie über die[0x000A]Schaltfläche "Deko-Objekte"[0x000A]in der Basis nach Belieben[0x000A]aufstellen.
+{0xBDFF:0x0032}
+{0xBDFF:0x0033}
+{0xBDFF:0x0034}
+Welche Pokémon-Arten[0x000A]vom Kochen angelockt[0x000A]werden, hängt vom fertigen[0x000A]Gericht ab.
+Es gibt viele verschiedene[0x000A]Gerichte, die durch die[0x000A]jeweilige Kombination der[0x000A]verwendeten Zutaten[0x000A]entstehen.
+Du kannst im Kochtopf-[0x000A]Menü nachsehen, welche[0x000A]Pokémon eine bestimmte[0x000A]Kombination an Zutaten[0x000A]besonders mögen.
+Es gibt auch geheime[0x000A]Rezepte, für die ganz[0x000A]spezielle Pokémon eine[0x000A]Vorliebe haben.
+Durch das Spezialtraining[0x000A]können Pokémon andere[0x000A]Attacken erlernen oder[0x000A]Erfahrungspunkte erhalten.
+Um ein Spezialtraining[0x000A]durchzuführen, benötigst[0x000A]du die Unterstützung von[0x000A]Pokémon, die bei dem[0x000A]Training helfen.
+Nach Abschluss des[0x000A]Spezialtrainings musst[0x000A]du dich von diesen[0x000A]Trainingshelfern[0x000A]verabschieden.
+Du hast einen bronzenen[0x000A]Kochtopf erhalten.
+Über die Kochtopf-[0x000A]Schaltfläche kannst du[0x000A]den bronzenen Kochtopf[0x000A]auswählen.
+So verbrauchst du zwar[0x000A]mehr Zutaten, aber der[0x000A]Level der angelockten[0x000A]Pokémon beträgt dafür[0x000A]mindestens 16.
+Außerdem kommen mit[0x000A]dem bronzenen Kochtopf[0x000A]Pokémon in die Basis,[0x000A]deren KP- und Ang.-Werte[0x000A]höher sind als die ihrer[0x000A]Artgenossen.
+Berühre ein Gebiet, um es[0x000A]zu erkunden.
+Das Ziel des Spiels ist es,[0x000A]die Insel immer weiter zu[0x000A]erkunden und die hier[0x000A]schlummernden Schätze[0x000A]zu finden.
+Die Teamstärke ergibt sich[0x000A]aus der Summe der KP- und[0x000A]Ang.-Werte der Pokémon in[0x000A]deinem Team.
+Für jede Stufe wird die[0x000A]jeweilige Gegnerstärke[0x000A]angezeigt. Deine[0x000A]Teamstärke sollte[0x000A]sich daran orientieren.
+Pokémon, die über den[0x000A]Bonus-Typ der Stufe[0x000A]verfügen, erhalten einen[0x000A]Bonus zu ihren KP- und[0x000A]Ang.-Werten.
+Ein Gericht fertigzustellen[0x000A]dauert einige Erkundungen[0x000A]lang.
+Wenn du PS-Gutscheine[0x000A]nutzt, kannst du Gerichte[0x000A]auch sofort fertigkochen.
+Für verschiedene Aktivitäten[0x000A]auf Kubo-Eiland erhältst du[0x000A]Items als Belohnung.
+Dazu gehören auch[0x000A]wertvolle PS-Gutscheine.
+Es gibt auch Items, die[0x000A]du nur als Belohnung[0x000A]für erfüllte Aufgaben[0x000A]bekommen kannst.
+Wenn du bei der Erkundung[0x000A]von Kubo-Eiland nicht[0x000A]vorankommst, versuche[0x000A]dich doch an den Aufgaben.
+Durch deine Erkundungen[0x000A]hat sich der Item-Sensor[0x000A]der Pokébi verbessert. Sie[0x000A]kann nun vorübergehend[0x000A]mehr Items entdecken.
+Bei der nächsten Erkundung[0x000A]findest du dann garantiert[0x000A]einen seltenen P-Stein,[0x000A]der einen besonderen[0x000A]Effekt hat.
+Über die Ewigstein-[0x000A]Schaltfläche kannst du[0x000A]einem Pokémon einen[0x000A]Ewigstein geben, der[0x000A]dessen Entwicklung[0x000A]verhindert.
