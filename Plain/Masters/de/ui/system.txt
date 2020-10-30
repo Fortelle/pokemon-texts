@@ -1,0 +1,7 @@
+Noch [Digit:3digits ] [DE:Qty S="Tag" P="Tage" ]
+Vor [Digit:2digits ] [DE:Qty S="Minute" P="Minuten" ]
+Vor [Digit:2digits ] [DE:Qty S="Stunde" P="Stunden" ]
+Vor [Digit:2digits ] [DE:Qty S="Tag" P="Tagen" ]
+Vor über [Digit:2digits ] [DE:Qty S="Tag" P="Tagen" ]
+Bis [Name:DateTime ]
+Pokémon Masters

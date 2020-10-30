@@ -1,0 +1,19 @@
+1=총 [Digit:3digits ]일 로그인하자
+2=버디즈를 [Digit:3digits ]종류 동료로 만들자
+3=아이템을 획득하자 : "[Name:Item ]"
+4=팀 능력치를 [Digit:6digits ] 이상으로 만들자
+5=한계돌파를 [Digit:6digits ]회 실행하자
+7="[Name:QuestTitle ]"[Kor:Particle char="wo" ] [Digit:6digits ]회 클리어하자
+20=포켓몬을 [Digit:6digits ]회 진화시키자
+9=[Digit:6digits ] 종류의 버디즈를 Lv.[Digit:3digits ] 이상으로 만들자
+10=닌텐도 어카운트와 연동하자
+11=장비 강화를 [Digit:6digits ]회 실행하자
+12=도구 교환으로 도구를 [Digit:6digits ]번 획득하자
+15=아래의 팀을 편성하여 "[Name:QuestTitle ]"[Kor:Particle char="wo" ] [Digit:6digits ]회 클리어하자
+15_element=・[Name:TrainerName ]&\n　[Name:PokemonName ]
+16=아래 타입으로 팀을 편성하여 "[Name:QuestTitle ]"[Kor:Particle char="wo" ] "[Digit:6digits ]"회 클리어하자
+16_element=・[Name:Type ]
+17=버디즈를 [Digit:6digits ]회 강화하자
+18=코인을 [Digit:9digits ]개 획득하자
+21=배틀이 있는 에리어를 클리어하자
+19=모험을 멀티로 클리어하자

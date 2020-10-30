@@ -1,0 +1,19 @@
+1=Logge dich [Digit:3digits ] [DE:Qty S="Tag" P="Tage" ] ein!
+2=Freunde dich mit [Digit:3digits ] verschiedenen\nGefährten an!
+3=Erhalte das Item [Name:Item ]!
+4=Erhöhe die Kraft des Teams auf mindestens [Digit:6digits ]!
+5=Führe [Digit:6digits ] Mal einen Limitbruch durch!
+7=Schließe „[Name:QuestTitle ]“ [Digit:6digits ]  Mal ab!
+20=Entwickle [Digit:6digits ] Mal ein Pokémon!
+9=Bringe [Digit:6digits ] [DE:Qty S="Gefährtengespann" P="Gefährten" ] auf mindestens Lv. [Digit:3digits ]!
+10=Verknüpfe die App mit deinem Nintendo-Account!
+11=Verstärke [Digit:6digits ] Mal Ausrüstung!
+12=Erhalte [Digit:6digits ] Mal Items durch\nItem-Tausch!
+15=Schließe mit diesem Team [Digit:6digits ]  Mal „[Name:QuestTitle ]“ ab:
+15_element=[Name:TrainerName ] &\n[Name:PokemonName ]
+16=Schließe mit einem Team dieses Typs [Digit:6digits ] Mal „[Name:QuestTitle ]“ ab:
+16_element=[Name:Type ]
+17=Erhöhe [Digit:6digits ] Mal den Level von Gefährten!
+18=Erhalte [Digit:9digits ] Münzen!
+21=Schließe ein Gebiet ab, in dem\ngekämpft wird.
+19=Schließe ein Abenteuer im Multimodus ab!

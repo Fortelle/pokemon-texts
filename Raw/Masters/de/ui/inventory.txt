@@ -1,0 +1,12 @@
+inventory/login_bonus=„[Name:LoginBonus ]“-Bonus
+inventory/temporary_item=Item-Limit überschritten
+inventory/lottery_bonus=Gefährtensuche-Items
+inventory/compensation_1=Entschädigung
+inventory/compensation_2=Fehler-Entschädigung
+inventory/compensation_3=Geschenke
+inventory/compensation_4=Fehler-Entschädigung
+inventory/maintenance_compensation=Wartungs-Entschädigung
+inventory/maintenance_delay_compensation=Wartungs-Entschädigung
+inventory/campaign_1=„[Name:Campaign ]“-Geschenke
+inventory/campaign_2=„[Name:Campaign ]“-Abschlussbonus
+inventory/autosold_item=

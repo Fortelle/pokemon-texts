@@ -1,0 +1,163 @@
+Shop
+Sync Pair Scout
+Purchase Gems
+Exchange Items
+Complete Purchase
+
+Exchange Gear
+
+Commercial Transactions
+Payment Laws
+Purchase Limits
+
+
+Complete Purchase
+If an error occurs while you are purchasing gems, or you were disconnected during the purchase process, you can complete the process that was interrupted. Would you like to complete your purchase?
+
+Purchase completed.
+We didn't find any purchases that were interrupted. Note: There is a possibility that the purchase process has already been completed. Please restart the app and check how many gems you have.
+Transaction Failed
+The purchase/exchange process has failed. Please try again later.
+Purchase/Exchange Complete
+You exchanged for: [Name:Item ]
+Cancel Purchase/Exchange
+Purchase/exchange canceled.
+Warning
+OK
+
+
+
+
+
+
+
+Purchase Gems
+Special Discount
+Close
+OK
+Limit Exceeded
+You can't purchase any more gems because you would exceed the limit. Please reduce your number of gems before purchasing more. Note: The limit for how many paid gems you can have is [Digit:5digits ].
+Warning
+You have purchased [Digit:6digits ] gems this month. Please be careful not to buy too many.
+
+Yes
+Purchase Cancelation
+Purchase canceled.
+Purchase Complete
+You purchased a product.
+Spending Notifications
+For your own protection, we can inform you each time you exceed a certain gem purchase limit per month. To turn notifications on, go to Settings on your Poryphone and turn on spending notifications.
+The number of gems you can purchase per month is [Digit:6digits ]. You have already purchased [Digit:6digits ] this month.
+You can't purchase any more gems.
+You can purchase up to [Digit:6digits ] gems per month. You have already purchased [Digit:6digits ] this month.
+Minors need the permission of their parent or guardian when purchasing gems. Do you have the permission of your parent or guardian?
+Spending Notifications
+Purchase
+Item Exchange
+
+Exchanged
+Exchange
+Exchange
+Event
+General
+
+
+
+Exchange Complete
+Your exchange has been completed.
+
+Available after: [Name:QuestTitle ], [Name:QuestTitle ]
+
+Items Required
+
+Use the items above for this exchange?
+Use the coins above for this exchange?
+Use the coins and items above for this exchange?
+Unlocked!
+Move gauge +1
+You have no items to exchange.
+Limit exceeded—you can't exchange.
+General
+
+
+Sync Pair Scout
+Scout Points
+Sync Pair Scout
+Sync Pair Scout ×10
+Daily Discount
+Paid
+Close
+Offering Rate
+Limit [Digit:2digits ]!
+
+
+Limit [Digit:2digits ]!
+Scout points max! Scout the sync pair you want!
+Offering Rate
+[Name:TrainerName ] [Name:PokemonName ]
+Scout Points
+Current Scout Points
+When you reach the max, you can scout any one sync pair you want!
+Bonus
+Confirm
+Do you want to use [Digit:4digits ] gems to scout 10 sync pairs?
+Your Gems
+Non-paid
+Paid
+Do you want to use [Digit:4digits ] paid gems to scout 10 sync pairs?
+
+
+
+
+
+
+Offering Rate
+Notes
+5★Guaranteed
+
+The offering rate for each ★ is rounded off past the fourth decimal, so adding them all up may not equal 100%. We do not round the actual offering rate up or down. The offering rate applies to each instance of sync pair scouting, so there is no guarantee that you will get any one sync pair, even if you scout many times in a row. You may get sync pairs that you have already acquired when you scout. When scouting, sync pairs are shown with unevolved Pokémon even if you have previously acquired and evolved them. When you see a * displayed after a Pokémon name in the offering rate, that means that sync pair can evolve their Pokémon through an Evolution sync pair story.
+The offering rate for each ★ is rounded off past the fourth decimal, so adding them all up may not equal 100%. We do not round the actual offering rate up or down. The offering rate applies to each instance of sync pair scouting, so there is no guarantee that you will get any one sync pair, even if you scout many times in a row. You may get sync pairs that you have already acquired when you scout. When scouting, sync pairs are shown with unevolved Pokémon even if you have previously acquired and evolved them. The tenth sync pair scouted is selected from a pool of only 5★ sync pairs. You can see the offering rate for these draws by tapping the Only 5★ button on the offering rate screen. When you see a * displayed after a Pokémon name in the offering rate, that means that sync pair can evolve their Pokémon through an Evolution sync pair story.
+Notice
+The number of rewards you receive from each sync pair scout is fixed. During the next period when you receive a bonus with your sync pair scout, the number of times you can receive a bonus will be refreshed. The rewards will be sent to your Present Box.
+Sync Pair Scout Result
+Bonus
+Again
+Your scout points are at max. Choose the sync pair you want.
+Do you want to use [Digit:3digits ] gems to scout one sync pair?
+Do you want to use [Digit:3digits ] paid gems to scout one sync pair?
+Insufficient Gems
+You don't have enough gems to scout sync pairs. Would you like to go to the gem purchase screen?
+
+
+Your scout points will return to 0 when this sync pair scout event ends. Your scout points will not carry over. You can only choose from sync pairs that are being offered through this sync pair scout.
+The period to claim this sync pair has ended. You can't go back without claiming them.
+Claim by: [Name:DateTime ] You won't be able to claim them after this time. Please go to the sync pair scout screen to claim them.
+
+Usage Notes
+
+
+
+Video
+This will play a video of the featured sync pair's sync move. The following will be included during the game: • Trainer voice-over • Sync move name Note: Some Trainers may not have a voice.
+Do not show me this again. (Info can be found in FAQ.)
+[Name:TrainerName ] and [Name:PokemonName ]'s sync move went up to Lv. [Digit:1digit ]!
+Upgrade
+Sync Pairs
+This will use your paid gems. When scouting, sync pairs are shown with unevolved Pokémon even if you have previously acquired and evolved them.
+This will use your non-paid gems. When scouting, sync pairs are shown with unevolved Pokémon even if you have previously acquired and evolved them.
+Bonus Items
+Exchange Gear
+Gear
+Filter
+Sort
+Coins
+Exchange
+Confirm
+Gear to Exchange
+Exchange this gear for coins?
+You can't get back gear you exchange.
+No
+Yes
+Exchange Complete
+You exchanged your gear!
+OK

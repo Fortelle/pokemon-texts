@@ -1,0 +1,464 @@
+Prevents the Pokémon from getting poisoned or badly poisoned.
+Prevents the Pokémon from getting burned.
+Prevents the Pokémon from getting paralyzed.
+Prevents the Pokémon from becoming frozen.
+Protects the Pokémon from damage from a hailstorm.
+Protects the Pokémon from damage from a sandstorm.
+Sp. Def increases 50% in a sandstorm.
+Prevents the Pokémon from falling asleep.
+Prevents the Pokémon from becoming confused.
+Prevents the Pokémon from flinching.
+Prevents the Pokémon from becoming trapped.
+Reduces damage from being poisoned or badly poisoned.
+Reduces damage from being poisoned or badly poisoned.
+Reduces damage from being poisoned or badly poisoned.
+Reduces damage from being poisoned or badly poisoned.
+Reduces damage from being poisoned or badly poisoned.
+Reduces damage from being poisoned or badly poisoned.
+Reduces damage from being poisoned or badly poisoned.
+Reduces damage from being poisoned or badly poisoned.
+Reduces damage from being poisoned or badly poisoned.
+Reduces the chance of actions failing when paralyzed. Mitigates the reduction of Speed due to paralysis.
+Reduces the chance of actions failing when paralyzed. Mitigates the reduction of Speed due to paralysis.
+Reduces the chance of actions failing when paralyzed. Mitigates the reduction of Speed due to paralysis.
+Reduces the chance of actions failing when paralyzed. Mitigates the reduction of Speed due to paralysis.
+Reduces the chance of actions failing when paralyzed. Mitigates the reduction of Speed due to paralysis.
+Reduces the chance of actions failing when paralyzed. Mitigates the reduction of Speed due to paralysis.
+Reduces the chance of actions failing when paralyzed. Mitigates the reduction of Speed due to paralysis.
+Reduces the chance of actions failing when paralyzed. Mitigates the reduction of Speed due to paralysis.
+Reduces the chance of actions failing when paralyzed. Mitigates the reduction of Speed due to paralysis.
+Shortens time spent asleep.
+Shortens time spent asleep.
+Shortens time spent asleep.
+Shortens time spent asleep.
+Shortens time spent asleep.
+Shortens time spent asleep.
+Shortens time spent asleep.
+Shortens time spent asleep.
+Shortens time spent asleep.
+Reduces damage from being burned. Mitigates the reduction of Attack due to being burned.
+Reduces damage from being burned. Mitigates the reduction of Attack due to being burned.
+Reduces damage from being burned. Mitigates the reduction of Attack due to being burned.
+Reduces damage from being burned. Mitigates the reduction of Attack due to being burned.
+Reduces damage from being burned. Mitigates the reduction of Attack due to being burned.
+Reduces damage from being burned. Mitigates the reduction of Attack due to being burned.
+Reduces damage from being burned. Mitigates the reduction of Attack due to being burned.
+Reduces damage from being burned. Mitigates the reduction of Attack due to being burned.
+Reduces damage from being burned. Mitigates the reduction of Attack due to being burned.
+Shortens time spent frozen.
+Shortens time spent frozen.
+Shortens time spent frozen.
+Shortens time spent frozen.
+Shortens time spent frozen.
+Shortens time spent frozen.
+Shortens time spent frozen.
+Shortens time spent frozen.
+Shortens time spent frozen.
+Reduces the chance of attacking oneself due to confusion.
+Reduces the chance of attacking oneself due to confusion.
+Reduces the chance of attacking oneself due to confusion.
+Reduces the chance of attacking oneself due to confusion.
+Reduces the chance of attacking oneself due to confusion.
+Reduces the chance of attacking oneself due to confusion.
+Reduces the chance of attacking oneself due to confusion.
+Reduces the chance of attacking oneself due to confusion.
+Reduces the chance of attacking oneself due to confusion.
+Shortens time spent flinching.
+Shortens time spent flinching.
+Shortens time spent flinching.
+Shortens time spent flinching.
+Shortens time spent flinching.
+Shortens time spent flinching.
+Shortens time spent flinching.
+Shortens time spent flinching.
+Shortens time spent flinching.
+Reduces damage from being trapped.
+Reduces damage from being trapped.
+Reduces damage from being trapped.
+Reduces damage from being trapped.
+Reduces damage from being trapped.
+Reduces damage from being trapped.
+Reduces damage from being trapped.
+Reduces damage from being trapped.
+Reduces damage from being trapped.
+Nullifies further conditions inflicted upon the Pokémon after status conditions and flinching, confused, and trapped conditions are removed from it.
+Mitigates the reduction of Attack.
+Mitigates the reduction of Attack.
+Mitigates the reduction of Attack.
+Mitigates the reduction of Attack.
+Mitigates the reduction of Attack.
+Mitigates the reduction of Attack.
+Mitigates the reduction of Attack.
+Mitigates the reduction of Attack.
+Mitigates the reduction of Attack.
+Mitigates the reduction of Defense.
+Mitigates the reduction of Defense.
+Mitigates the reduction of Defense.
+Mitigates the reduction of Defense.
+Mitigates the reduction of Defense.
+Mitigates the reduction of Defense.
+Mitigates the reduction of Defense.
+Mitigates the reduction of Defense.
+Mitigates the reduction of Defense.
+Mitigates the reduction of Sp. Atk.
+Mitigates the reduction of Sp. Atk.
+Mitigates the reduction of Sp. Atk.
+Mitigates the reduction of Sp. Atk.
+Mitigates the reduction of Sp. Atk.
+Mitigates the reduction of Sp. Atk.
+Mitigates the reduction of Sp. Atk.
+Mitigates the reduction of Sp. Atk.
+Mitigates the reduction of Sp. Atk.
+Mitigates the reduction of Sp. Def.
+Mitigates the reduction of Sp. Def.
+Mitigates the reduction of Sp. Def.
+Mitigates the reduction of Sp. Def.
+Mitigates the reduction of Sp. Def.
+Mitigates the reduction of Sp. Def.
+Mitigates the reduction of Sp. Def.
+Mitigates the reduction of Sp. Def.
+Mitigates the reduction of Sp. Def.
+Mitigates the reduction of Speed.
+Mitigates the reduction of Speed.
+Mitigates the reduction of Speed.
+Mitigates the reduction of Speed.
+Mitigates the reduction of Speed.
+Mitigates the reduction of Speed.
+Mitigates the reduction of Speed.
+Mitigates the reduction of Speed.
+Mitigates the reduction of Speed.
+Mitigates the reduction of accuracy.
+Mitigates the reduction of accuracy.
+Mitigates the reduction of accuracy.
+Mitigates the reduction of accuracy.
+Mitigates the reduction of accuracy.
+Mitigates the reduction of accuracy.
+Mitigates the reduction of accuracy.
+Mitigates the reduction of accuracy.
+Mitigates the reduction of accuracy.
+Mitigates the reduction of evasiveness.
+Mitigates the reduction of evasiveness.
+Mitigates the reduction of evasiveness.
+Mitigates the reduction of evasiveness.
+Mitigates the reduction of evasiveness.
+Mitigates the reduction of evasiveness.
+Mitigates the reduction of evasiveness.
+Mitigates the reduction of evasiveness.
+Mitigates the reduction of evasiveness.
+If any stat is reduced, mitigates the reduction of that stat.
+If any stat is reduced, mitigates the reduction of that stat.
+If any stat is reduced, mitigates the reduction of that stat.
+If any stat is reduced, mitigates the reduction of that stat.
+If any stat is reduced, mitigates the reduction of that stat.
+If any stat is reduced, mitigates the reduction of that stat.
+If any stat is reduced, mitigates the reduction of that stat.
+If any stat is reduced, mitigates the reduction of that stat.
+If any stat is reduced, mitigates the reduction of that stat.
+After using a sync move, heals status conditions, removes confused and trapped conditions, and restores any stats that were lowered.
+At the start of the battle, reduces by 1 the countdown until a sync move can be used.
+At the start of the battle, reduces by 2 the countdown until a sync move can be used.
+At the start of the battle, reduces by 3 the countdown until a sync move can be used.
+At the start of the battle, reduces by 4 the countdown until a sync move can be used.
+At the start of the battle, reduces by 5 the countdown until a sync move can be used.
+At the start of the battle, reduces by 6 the countdown until a sync move can be used.
+At the start of the battle, reduces by 7 the countdown until a sync move can be used.
+At the start of the battle, reduces by 8 the countdown until a sync move can be used.
+At the start of the battle, reduces by 9 the countdown until a sync move can be used.
+After using a sync move, reduces by 1 the upper value of the countdown until a sync move can be used.
+After using a sync move, reduces by 2 the upper value of the countdown until a sync move can be used.
+After using a sync move, reduces by 3 the upper value of the countdown until a sync move can be used.
+After using a sync move, reduces by 4 the upper value of the countdown until a sync move can be used.
+After using a sync move, reduces by 5 the upper value of the countdown until a sync move can be used.
+After using a sync move, reduces by 6 the upper value of the countdown until a sync move can be used.
+After using a sync move, reduces by 7 the upper value of the countdown until a sync move can be used.
+After using a sync move, reduces by 8 the upper value of the countdown until a sync move can be used.
+After using a sync move, reduces by 9 the upper value of the countdown until a sync move can be used.
+Makes sync moves attack all Pokémon.
+Attack cannot be lowered.
+Defense cannot be lowered.
+Sp. Atk cannot be lowered.
+Sp. Def cannot be lowered.
+Speed cannot be lowered.
+Accuracy cannot be lowered.
+Evasiveness cannot be lowered.
+Critical-hit rate cannot be lowered.
+Stats cannot be lowered.
+The Pokémon is protected against critical hits.
+Raises the chance of inflicting status conditions with the additional effects of moves.
+Raises the chance of inflicting status conditions with the additional effects of moves.
+Raises the chance of inflicting status conditions with the additional effects of moves.
+Raises the chance of inflicting status conditions with the additional effects of moves.
+Raises the chance of inflicting status conditions with the additional effects of moves.
+Raises the chance of inflicting status conditions with the additional effects of moves.
+Raises the chance of inflicting status conditions with the additional effects of moves.
+Raises the chance of inflicting status conditions with the additional effects of moves.
+Raises the chance of inflicting status conditions with the additional effects of moves.
+Raises the chance of inflicting the flinching, confused, or trapped condition with the additional effects of moves.
+Raises the chance of inflicting the flinching, confused, or trapped condition with the additional effects of moves.
+Raises the chance of inflicting the flinching, confused, or trapped condition with the additional effects of moves.
+Raises the chance of inflicting the flinching, confused, or trapped condition with the additional effects of moves.
+Raises the chance of inflicting the flinching, confused, or trapped condition with the additional effects of moves.
+Raises the chance of inflicting the flinching, confused, or trapped condition with the additional effects of moves.
+Raises the chance of inflicting the flinching, confused, or trapped condition with the additional effects of moves.
+Raises the chance of inflicting the flinching, confused, or trapped condition with the additional effects of moves.
+Raises the chance of inflicting the flinching, confused, or trapped condition with the additional effects of moves.
+Raises the chance of lowering stat values with the additional effects of moves.
+Raises the chance of lowering stat values with the additional effects of moves.
+Raises the chance of lowering stat values with the additional effects of moves.
+Raises the chance of lowering stat values with the additional effects of moves.
+Raises the chance of lowering stat values with the additional effects of moves.
+Raises the chance of lowering stat values with the additional effects of moves.
+Raises the chance of lowering stat values with the additional effects of moves.
+Raises the chance of lowering stat values with the additional effects of moves.
+Raises the chance of lowering stat values with the additional effects of moves.
+Powers up moves in a pinch.
+Powers up moves in a pinch.
+Powers up moves in a pinch.
+Powers up moves in a pinch.
+Powers up moves in a pinch.
+Powers up moves in a pinch.
+Powers up moves in a pinch.
+Powers up moves in a pinch.
+Powers up moves in a pinch.
+Powers up moves in a sandstorm.
+Powers up moves in a sandstorm.
+Powers up moves in a sandstorm.
+Powers up moves in a sandstorm.
+Powers up moves in a sandstorm.
+Powers up moves in a sandstorm.
+Powers up moves in a sandstorm.
+Powers up moves in a sandstorm.
+Powers up moves in a sandstorm.
+Powers up moves if the Pokémon is affected by a status condition.
+Powers up moves if the Pokémon is affected by a status condition.
+Powers up moves if the Pokémon is affected by a status condition.
+Powers up moves if the Pokémon is affected by a status condition.
+Powers up moves if the Pokémon is affected by a status condition.
+Powers up moves if the Pokémon is affected by a status condition.
+Powers up moves if the Pokémon is affected by a status condition.
+Powers up moves if the Pokémon is affected by a status condition.
+Powers up moves if the Pokémon is affected by a status condition.
+Powers up moves that are super effective.
+Powers up moves that are super effective.
+Powers up moves that are super effective.
+Powers up moves that are super effective.
+Powers up moves that are super effective.
+Powers up moves that are super effective.
+Powers up moves that are super effective.
+Powers up moves that are super effective.
+Powers up moves that are super effective.
+The fuller the move gauge, the more this powers up moves.
+The fuller the move gauge, the more this powers up moves.
+The fuller the move gauge, the more this powers up moves.
+The fuller the move gauge, the more this powers up moves.
+The fuller the move gauge, the more this powers up moves.
+The fuller the move gauge, the more this powers up moves.
+The fuller the move gauge, the more this powers up moves.
+The fuller the move gauge, the more this powers up moves.
+The fuller the move gauge, the more this powers up moves.
+If the Pokémon enters battle with full HP, allows it to endure a single overwhelming attack with 1 HP left.
+Moves never miss.
+Stats cannot be lowered in a sandstorm.
+Lowers the Attack of all opposing sync pairs when the Pokémon enters a battle.
+Lowers the Attack of all opposing sync pairs when the Pokémon enters a battle.
+Lowers the Attack of all opposing sync pairs when the Pokémon enters a battle.
+Lowers the Attack of all opposing sync pairs when the Pokémon enters a battle.
+Lowers the Attack of all opposing sync pairs when the Pokémon enters a battle.
+Lowers the Attack of all opposing sync pairs when the Pokémon enters a battle.
+Lowers the Attack of all opposing sync pairs when the Pokémon enters a battle.
+Lowers the Attack of all opposing sync pairs when the Pokémon enters a battle.
+Lowers the Attack of all opposing sync pairs when the Pokémon enters a battle.
+When a critical hit lands, raises the chance of making the target flinch, become confused, or become trapped with the additional effect of the move.
+When a critical hit lands, raises the chance of making the target flinch, become confused, or become trapped with the additional effect of the move.
+When a critical hit lands, raises the chance of making the target flinch, become confused, or become trapped with the additional effect of the move.
+When a critical hit lands, raises the chance of making the target flinch, become confused, or become trapped with the additional effect of the move.
+When a critical hit lands, raises the chance of making the target flinch, become confused, or become trapped with the additional effect of the move.
+When a critical hit lands, raises the chance of making the target flinch, become confused, or become trapped with the additional effect of the move.
+When a critical hit lands, raises the chance of making the target flinch, become confused, or become trapped with the additional effect of the move.
+When a critical hit lands, raises the chance of making the target flinch, become confused, or become trapped with the additional effect of the move.
+When a critical hit lands, raises the chance of making the target flinch, become confused, or become trapped with the additional effect of the move.
+Powers up moves when those moves land critical hits.
+Powers up moves when those moves land critical hits.
+Powers up moves when those moves land critical hits.
+Powers up moves when those moves land critical hits.
+Powers up moves when those moves land critical hits.
+Powers up moves when those moves land critical hits.
+Powers up moves when those moves land critical hits.
+Powers up moves when those moves land critical hits.
+Powers up moves when those moves land critical hits.
+Raises the Pokémon's Speed when it lands a critical hit.
+Raises the Pokémon's Speed when it lands a critical hit.
+Raises the Pokémon's Speed when it lands a critical hit.
+Raises the Pokémon's Speed when it lands a critical hit.
+Raises the Pokémon's Speed when it lands a critical hit.
+Raises the Pokémon's Speed when it lands a critical hit.
+Raises the Pokémon's Speed when it lands a critical hit.
+Raises the Pokémon's Speed when it lands a critical hit.
+Raises the Pokémon's Speed when it lands a critical hit.
+Raises the Pokémon's critical-hit rate when it lands a critical hit.
+Raises the Pokémon's critical-hit rate when it lands a critical hit.
+Raises the Pokémon's critical-hit rate when it lands a critical hit.
+Raises the Pokémon's critical-hit rate when it lands a critical hit.
+Raises the Pokémon's critical-hit rate when it lands a critical hit.
+Raises the Pokémon's critical-hit rate when it lands a critical hit.
+Raises the Pokémon's critical-hit rate when it lands a critical hit.
+Raises the Pokémon's critical-hit rate when it lands a critical hit.
+Raises the Pokémon's critical-hit rate when it lands a critical hit.
+Restores a bit of the Pokémon's HP once during battle when the Pokémon is in a pinch.
+Restores a bit of the Pokémon's HP once during battle when the Pokémon is in a pinch.
+Restores a bit of the Pokémon's HP once during battle when the Pokémon is in a pinch.
+Restores a bit of the Pokémon's HP once during battle when the Pokémon is in a pinch.
+Restores a bit of the Pokémon's HP once during battle when the Pokémon is in a pinch.
+Restores a bit of the Pokémon's HP once during battle when the Pokémon is in a pinch.
+Restores a bit of the Pokémon's HP once during battle when the Pokémon is in a pinch.
+Restores a bit of the Pokémon's HP once during battle when the Pokémon is in a pinch.
+Restores a bit of the Pokémon's HP once during battle when the Pokémon is in a pinch.
+Restores the Pokémon's HP whenever it takes an action during a hailstorm.
+Restores the Pokémon's HP whenever it takes an action during a hailstorm.
+Restores the Pokémon's HP whenever it takes an action during a hailstorm.
+Restores the Pokémon's HP whenever it takes an action during a hailstorm.
+Restores the Pokémon's HP whenever it takes an action during a hailstorm.
+Restores the Pokémon's HP whenever it takes an action during a hailstorm.
+Restores the Pokémon's HP whenever it takes an action during a hailstorm.
+Restores the Pokémon's HP whenever it takes an action during a hailstorm.
+Restores the Pokémon's HP whenever it takes an action during a hailstorm.
+Boosts the Pokémon's evasiveness in a sandstorm.
+Quickly charges the move gauge when the weather is rainy.
+Quickly charges the move gauge when the weather is rainy.
+Quickly charges the move gauge when the weather is rainy.
+Quickly charges the move gauge when the weather is rainy.
+Quickly charges the move gauge when the weather is rainy.
+Quickly charges the move gauge when the weather is rainy.
+Quickly charges the move gauge when the weather is rainy.
+Quickly charges the move gauge when the weather is rainy.
+Quickly charges the move gauge when the weather is rainy.
+Quickly charges the move gauge when the weather is sunny.
+Quickly charges the move gauge when the weather is sunny.
+Quickly charges the move gauge when the weather is sunny.
+Quickly charges the move gauge when the weather is sunny.
+Quickly charges the move gauge when the weather is sunny.
+Quickly charges the move gauge when the weather is sunny.
+Quickly charges the move gauge when the weather is sunny.
+Quickly charges the move gauge when the weather is sunny.
+Quickly charges the move gauge when the weather is sunny.
+Quickly charges the move gauge when the Pokémon is affected by a status condition.
+Quickly charges the move gauge when the Pokémon is affected by a status condition.
+Quickly charges the move gauge when the Pokémon is affected by a status condition.
+Quickly charges the move gauge when the Pokémon is affected by a status condition.
+Quickly charges the move gauge when the Pokémon is affected by a status condition.
+Quickly charges the move gauge when the Pokémon is affected by a status condition.
+Quickly charges the move gauge when the Pokémon is affected by a status condition.
+Quickly charges the move gauge when the Pokémon is affected by a status condition.
+Quickly charges the move gauge when the Pokémon is affected by a status condition.
+Reduces damage when the Pokémon is in a pinch and is hit by a physical attack.
+Reduces damage when the Pokémon is in a pinch and is hit by a physical attack.
+Reduces damage when the Pokémon is in a pinch and is hit by a physical attack.
+Reduces damage when the Pokémon is in a pinch and is hit by a physical attack.
+Reduces damage when the Pokémon is in a pinch and is hit by a physical attack.
+Reduces damage when the Pokémon is in a pinch and is hit by a physical attack.
+Reduces damage when the Pokémon is in a pinch and is hit by a physical attack.
+Reduces damage when the Pokémon is in a pinch and is hit by a physical attack.
+Reduces damage when the Pokémon is in a pinch and is hit by a physical attack.
+The Pokémon is not affected by status conditions when the weather is sunny.
+Occasionally raises the Pokémon's Speed after it uses a move.
+Occasionally raises the Pokémon's Speed after it uses a move.
+Occasionally raises the Pokémon's Speed after it uses a move.
+Occasionally raises the Pokémon's Speed after it uses a move.
+Occasionally raises the Pokémon's Speed after it uses a move.
+Occasionally raises the Pokémon's Speed after it uses a move.
+Occasionally raises the Pokémon's Speed after it uses a move.
+Occasionally raises the Pokémon's Speed after it uses a move.
+Occasionally raises the Pokémon's Speed after it uses a move.
+Occasionally removes all status conditions of all allied sync pairs after the Pokémon uses a move.
+Occasionally removes all status conditions of all allied sync pairs after the Pokémon uses a move.
+Occasionally removes all status conditions of all allied sync pairs after the Pokémon uses a move.
+Occasionally removes all status conditions of all allied sync pairs after the Pokémon uses a move.
+Occasionally removes all status conditions of all allied sync pairs after the Pokémon uses a move.
+Occasionally removes all status conditions of all allied sync pairs after the Pokémon uses a move.
+Occasionally removes all status conditions of all allied sync pairs after the Pokémon uses a move.
+Occasionally removes all status conditions of all allied sync pairs after the Pokémon uses a move.
+Occasionally removes all status conditions of all allied sync pairs after the Pokémon uses a move.
+When the Pokémon uses a move to attack, ignores the damage-reducing effects on the opponent's field of play.
+Occasionally raises the Pokémon's Attack when one of its attacks is successful.
+Occasionally raises the Pokémon's Attack when one of its attacks is successful.
+Occasionally raises the Pokémon's Attack when one of its attacks is successful.
+Occasionally raises the Pokémon's Attack when one of its attacks is successful.
+Occasionally raises the Pokémon's Attack when one of its attacks is successful.
+Occasionally raises the Pokémon's Attack when one of its attacks is successful.
+Occasionally raises the Pokémon's Attack when one of its attacks is successful.
+Occasionally raises the Pokémon's Attack when one of its attacks is successful.
+Occasionally raises the Pokémon's Attack when one of its attacks is successful.
+Occasionally lowers the target's Defense when an attack against it is successful.
+Occasionally lowers the target's Defense when an attack against it is successful.
+Occasionally lowers the target's Defense when an attack against it is successful.
+Occasionally lowers the target's Defense when an attack against it is successful.
+Occasionally lowers the target's Defense when an attack against it is successful.
+Occasionally lowers the target's Defense when an attack against it is successful.
+Occasionally lowers the target's Defense when an attack against it is successful.
+Occasionally lowers the target's Defense when an attack against it is successful.
+Occasionally lowers the target's Defense when an attack against it is successful.
+Powers up moves when unity bonus is in effect.
+Powers up moves when unity bonus is in effect.
+Powers up moves when unity bonus is in effect.
+Powers up moves when unity bonus is in effect.
+Powers up moves when unity bonus is in effect.
+Powers up moves when unity bonus is in effect.
+Powers up moves when unity bonus is in effect.
+Powers up moves when unity bonus is in effect.
+Powers up moves when unity bonus is in effect.
+Normal-type moves become Fairy-type moves.
+Normal-type moves become Flying-type moves.
+Normal-type moves become Water-type moves.
+Normal-type moves become Fire-type moves.
+Normal-type moves become Electric-type moves.
+Normal-type moves become Grass-type moves.
+Normal-type moves become Rock-type moves.
+Normal-type moves become Ground-type moves.
+Normal-type moves become Psychic-type moves.
+Normal-type moves become Bug-type moves.
+Normal-type moves become Ice-type moves.
+Normal-type moves become Dark-type moves.
+Normal-type moves become Steel-type moves.
+Normal-type moves become Ghost-type moves.
+Normal-type moves become Poison-type moves.
+Normal-type moves become Fighting-type moves.
+Normal-type moves become Dragon-type moves.
+The Pokémon uses Explosion immediately before fainting.
+Transfers half the amount of this sync pair's raised stats to the sync pair that will switch in when this sync pair faints.
+Raises the chance of success for status moves that inflict status conditions.
+Raises the chance of success for status moves that inflict status conditions.
+Raises the chance of success for status moves that inflict status conditions.
+Raises the chance of success for status moves that inflict status conditions.
+Raises the chance of success for status moves that inflict status conditions.
+Raises the chance of success for status moves that inflict status conditions.
+Raises the chance of success for status moves that inflict status conditions.
+Raises the chance of success for status moves that inflict status conditions.
+Raises the chance of success for status moves that inflict status conditions.
+Occasionally raises the Pokémon's Defense after it uses a move.
+Occasionally raises the Pokémon's Defense after it uses a move.
+Occasionally raises the Pokémon's Defense after it uses a move.
+Occasionally raises the Pokémon's Defense after it uses a move.
+Occasionally raises the Pokémon's Defense after it uses a move.
+Occasionally raises the Pokémon's Defense after it uses a move.
+Occasionally raises the Pokémon's Defense after it uses a move.
+Occasionally raises the Pokémon's Defense after it uses a move.
+Occasionally raises the Pokémon's Defense after it uses a move.
+Reduces damage when the Pokémon is attacked by Normal-type moves.
+Reduces damage when the Pokémon is attacked by Fire-type moves.
+Reduces damage when the Pokémon is attacked by Water-type moves.
+Reduces damage when the Pokémon is attacked by Electric-type moves.
+Reduces damage when the Pokémon is attacked by Grass-type moves.
+Reduces damage when the Pokémon is attacked by Ice-type moves.
+Reduces damage when the Pokémon is attacked by Fighting-type moves.
+Reduces damage when the Pokémon is attacked by Poison-type moves.
+Reduces damage when the Pokémon is attacked by Ground-type moves.
+Reduces damage when the Pokémon is attacked by Flying-type moves.
+Reduces damage when the Pokémon is attacked by Psychic-type moves.
+Reduces damage when the Pokémon is attacked by Bug-type moves.
+Reduces damage when the Pokémon is attacked by Rock-type moves.
+Reduces damage when the Pokémon is attacked by Ghost-type moves.
+Reduces damage when the Pokémon is attacked by Dragon-type moves.
+Reduces damage when the Pokémon is attacked by Dark-type moves.
+Reduces damage when the Pokémon is attacked by Steel-type moves.
+Reduces damage when the Pokémon is attacked by Fairy-type moves.
+Changes to Blade Forme when the Pokémon attacks. Changes to Shield Forme when the Pokémon uses King's Shield or switches out.

@@ -1,0 +1,464 @@
+Giftschutz
+Brandschutz
+Paralyseschutz
+Gefrierschutz
+Hagelschutz
+Sandsturmschutz
+Sandsturm-Sp.-Vert.↑
+Schlafschutz
+Verwirrungsschutz
+Schreckschutz
+Umschlingschutz
+Giftresistenz 1
+Giftresistenz 2
+Giftresistenz 3
+Giftresistenz 4
+Giftresistenz 5
+Giftresistenz 6
+Giftresistenz 7
+Giftresistenz 8
+Giftresistenz 9
+Paralyseresistenz 1
+Paralyseresistenz 2
+Paralyseresistenz 3
+Paralyseresistenz 4
+Paralyseresistenz 5
+Paralyseresistenz 6
+Paralyseresistenz 7
+Paralyseresistenz 8
+Paralyseresistenz 9
+Schlafresistenz 1
+Schlafresistenz 2
+Schlafresistenz 3
+Schlafresistenz 4
+Schlafresistenz 5
+Schlafresistenz 6
+Schlafresistenz 7
+Schlafresistenz 8
+Schlafresistenz 9
+Brandresistenz 1
+Brandresistenz 2
+Brandresistenz 3
+Brandresistenz 4
+Brandresistenz 5
+Brandresistenz 6
+Brandresistenz 7
+Brandresistenz 8
+Brandresistenz 9
+Gefrierresistenz 1
+Gefrierresistenz 2
+Gefrierresistenz 3
+Gefrierresistenz 4
+Gefrierresistenz 5
+Gefrierresistenz 6
+Gefrierresistenz 7
+Gefrierresistenz 8
+Gefrierresistenz 9
+Verwirrungsresistenz 1
+Verwirrungsresistenz 2
+Verwirrungsresistenz 3
+Verwirrungsresistenz 4
+Verwirrungsresistenz 5
+Verwirrungsresistenz 6
+Verwirrungsresistenz 7
+Verwirrungsresistenz 8
+Verwirrungsresistenz 9
+Schreckresistenz 1
+Schreckresistenz 2
+Schreckresistenz 3
+Schreckresistenz 4
+Schreckresistenz 5
+Schreckresistenz 6
+Schreckresistenz 7
+Schreckresistenz 8
+Schreckresistenz 9
+Umschlingresistenz 1
+Umschlingresistenz 2
+Umschlingresistenz 3
+Umschlingresistenz 4
+Umschlingresistenz 5
+Umschlingresistenz 6
+Umschlingresistenz 7
+Umschlingresistenz 8
+Umschlingresistenz 9
+Problemschutz
+Angriff↓-Resistenz 1
+Angriff↓-Resistenz 2
+Angriff↓-Resistenz 3
+Angriff↓-Resistenz 4
+Angriff↓-Resistenz 5
+Angriff↓-Resistenz 6
+Angriff↓-Resistenz 7
+Angriff↓-Resistenz 8
+Angriff↓-Resistenz 9
+Vert.↓-Resistenz 1
+Vert.↓-Resistenz 2
+Vert.↓-Resistenz 3
+Vert.↓-Resistenz 4
+Vert.↓-Resistenz 5
+Vert.↓-Resistenz 6
+Vert.↓-Resistenz 7
+Vert.↓-Resistenz 8
+Vert.↓-Resistenz 9
+Sp.-Ang.↓-Resistenz 1
+Sp.-Ang.↓-Resistenz 2
+Sp.-Ang.↓-Resistenz 3
+Sp.-Ang.↓-Resistenz 4
+Sp.-Ang.↓-Resistenz 5
+Sp.-Ang.↓-Resistenz 6
+Sp.-Ang.↓-Resistenz 7
+Sp.-Ang.↓-Resistenz 8
+Sp.-Ang.↓-Resistenz 9
+Sp.-Vert.↓-Resistenz 1
+Sp.-Vert.↓-Resistenz 2
+Sp.-Vert.↓-Resistenz 3
+Sp.-Vert.↓-Resistenz 4
+Sp.-Vert.↓-Resistenz 5
+Sp.-Vert.↓-Resistenz 6
+Sp.-Vert.↓-Resistenz 7
+Sp.-Vert.↓-Resistenz 8
+Sp.-Vert.↓-Resistenz 9
+Init.↓-Resistenz 1
+Init.↓-Resistenz 2
+Init.↓-Resistenz 3
+Init.↓-Resistenz 4
+Init.↓-Resistenz 5
+Init.↓-Resistenz 6
+Init.↓-Resistenz 7
+Init.↓-Resistenz 8
+Init.↓-Resistenz 9
+Genauigk.↓-Resistenz 1
+Genauigk.↓-Resistenz 2
+Genauigk.↓-Resistenz 3
+Genauigk.↓-Resistenz 4
+Genauigk.↓-Resistenz 5
+Genauigk.↓-Resistenz 6
+Genauigk.↓-Resistenz 7
+Genauigk.↓-Resistenz 8
+Genauigk.↓-Resistenz 9
+Fluchtw.↓-Resistenz 1
+Fluchtw.↓-Resistenz 2
+Fluchtw.↓-Resistenz 3
+Fluchtw.↓-Resistenz 4
+Fluchtw.↓-Resistenz 5
+Fluchtw.↓-Resistenz 6
+Fluchtw.↓-Resistenz 7
+Fluchtw.↓-Resistenz 8
+Fluchtw.↓-Resistenz 9
+Werte↓-Resistenz 1
+Werte↓-Resistenz 2
+Werte↓-Resistenz 3
+Werte↓-Resistenz 4
+Werte↓-Resistenz 5
+Werte↓-Resistenz 6
+Werte↓-Resistenz 7
+Werte↓-Resistenz 8
+Werte↓-Resistenz 9
+GA-Komplettaufhebung
+GA-Countdown↓ 1
+GA-Countdown↓ 2
+GA-Countdown↓ 3
+GA-Countdown↓ 4
+GA-Countdown↓ 5
+GA-Countdown↓ 6
+GA-Countdown↓ 7
+GA-Countdown↓ 8
+GA-Countdown↓ 9
+MAX-GA-Countdown↓ 1
+MAX-GA-Countdown↓ 2
+MAX-GA-Countdown↓ 3
+MAX-GA-Countdown↓ 4
+MAX-GA-Countdown↓ 5
+MAX-GA-Countdown↓ 6
+MAX-GA-Countdown↓ 7
+MAX-GA-Countdown↓ 8
+MAX-GA-Countdown↓ 9
+
+Angriff↓-Schutz
+Vert.↓-Schutz
+Sp.-Ang.↓-Schutz
+Sp.-Vert.↓-Schutz
+Init.↓-Schutz
+Genauigk.↓-Schutz
+Fluchtw.↓-Schutz
+Volltr.-Qu.↓-Schutz
+Werte↓-Schutz
+Volltrefferschutz
+Zusatzproblemchance↑ 1
+Zusatzproblemchance↑ 2
+Zusatzproblemchance↑ 3
+Zusatzproblemchance↑ 4
+Zusatzproblemchance↑ 5
+Zusatzproblemchance↑ 6
+Zusatzproblemchance↑ 7
+Zusatzproblemchance↑ 8
+Zusatzproblemchance↑ 9
+Störungschance↑ 1
+Störungschance↑ 2
+Störungschance↑ 3
+Störungschance↑ 4
+Störungschance↑ 5
+Störungschance↑ 6
+Störungschance↑ 7
+Störungschance↑ 8
+Störungschance↑ 9
+Senkungschance↑ 1
+Senkungschance↑ 2
+Senkungschance↑ 3
+Senkungschance↑ 4
+Senkungschance↑ 5
+Senkungschance↑ 6
+Senkungschance↑ 7
+Senkungschance↑ 8
+Senkungschance↑ 9
+Notfallstärke↑ 1
+Notfallstärke↑ 2
+Notfallstärke↑ 3
+Notfallstärke↑ 4
+Notfallstärke↑ 5
+Notfallstärke↑ 6
+Notfallstärke↑ 7
+Notfallstärke↑ 8
+Notfallstärke↑ 9
+Sandsturmstärke↑ 1
+Sandsturmstärke↑ 2
+Sandsturmstärke↑ 3
+Sandsturmstärke↑ 4
+Sandsturmstärke↑ 5
+Sandsturmstärke↑ 6
+Sandsturmstärke↑ 7
+Sandsturmstärke↑ 8
+Sandsturmstärke↑ 9
+Problemstärke↑ 1
+Problemstärke↑ 2
+Problemstärke↑ 3
+Problemstärke↑ 4
+Problemstärke↑ 5
+Problemstärke↑ 6
+Problemstärke↑ 7
+Problemstärke↑ 8
+Problemstärke↑ 9
+Effektivitätsstärke↑ 1
+Effektivitätsstärke↑ 2
+Effektivitätsstärke↑ 3
+Effektivitätsstärke↑ 4
+Effektivitätsstärke↑ 5
+Effektivitätsstärke↑ 6
+Effektivitätsstärke↑ 7
+Effektivitätsstärke↑ 8
+Effektivitätsstärke↑ 9
+Leistenstärke↑ 1
+Leistenstärke↑ 2
+Leistenstärke↑ 3
+Leistenstärke↑ 4
+Leistenstärke↑ 5
+Leistenstärke↑ 6
+Leistenstärke↑ 7
+Leistenstärke↑ 8
+Leistenstärke↑ 9
+Topform-K.O.-Schutz
+Treffergarantie
+Sands.-Werte↓-Schutz
+Gegnerangriff↓ 1
+Gegnerangriff↓ 2
+Gegnerangriff↓ 3
+Gegnerangriff↓ 4
+Gegnerangriff↓ 5
+Gegnerangriff↓ 6
+Gegnerangriff↓ 7
+Gegnerangriff↓ 8
+Gegnerangriff↓ 9
+Volltrefferstörung↑ 1
+Volltrefferstörung↑ 2
+Volltrefferstörung↑ 3
+Volltrefferstörung↑ 4
+Volltrefferstörung↑ 5
+Volltrefferstörung↑ 6
+Volltrefferstörung↑ 7
+Volltrefferstörung↑ 8
+Volltrefferstörung↑ 9
+Volltrefferstärke↑ 1
+Volltrefferstärke↑ 2
+Volltrefferstärke↑ 3
+Volltrefferstärke↑ 4
+Volltrefferstärke↑ 5
+Volltrefferstärke↑ 6
+Volltrefferstärke↑ 7
+Volltrefferstärke↑ 8
+Volltrefferstärke↑ 9
+Volltreffer-Init.↑ 1
+Volltreffer-Init.↑ 2
+Volltreffer-Init.↑ 3
+Volltreffer-Init.↑ 4
+Volltreffer-Init.↑ 5
+Volltreffer-Init.↑ 6
+Volltreffer-Init.↑ 7
+Volltreffer-Init.↑ 8
+Volltreffer-Init.↑ 9
+Volltrefferquote↑ 1
+Volltrefferquote↑ 2
+Volltrefferquote↑ 3
+Volltrefferquote↑ 4
+Volltrefferquote↑ 5
+Volltrefferquote↑ 6
+Volltrefferquote↑ 7
+Volltrefferquote↑ 8
+Volltrefferquote↑ 9
+Notfallheilung 1
+Notfallheilung 2
+Notfallheilung 3
+Notfallheilung 4
+Notfallheilung 5
+Notfallheilung 6
+Notfallheilung 7
+Notfallheilung 8
+Notfallheilung 9
+Hagelheilung 1
+Hagelheilung 2
+Hagelheilung 3
+Hagelheilung 4
+Hagelheilung 5
+Hagelheilung 6
+Hagelheilung 7
+Hagelheilung 8
+Hagelheilung 9
+Sandsturm-Fluchtw.↑
+Regen-Leiste↑ 1
+Regen-Leiste↑ 2
+Regen-Leiste↑ 3
+Regen-Leiste↑ 4
+Regen-Leiste↑ 5
+Regen-Leiste↑ 6
+Regen-Leiste↑ 7
+Regen-Leiste↑ 8
+Regen-Leiste↑ 9
+Sonnen-Leiste↑ 1
+Sonnen-Leiste↑ 2
+Sonnen-Leiste↑ 3
+Sonnen-Leiste↑ 4
+Sonnen-Leiste↑ 5
+Sonnen-Leiste↑ 6
+Sonnen-Leiste↑ 7
+Sonnen-Leiste↑ 8
+Sonnen-Leiste↑ 9
+Problem-Leiste↑ 1
+Problem-Leiste↑ 2
+Problem-Leiste↑ 3
+Problem-Leiste↑ 4
+Problem-Leiste↑ 5
+Problem-Leiste↑ 6
+Problem-Leiste↑ 7
+Problem-Leiste↑ 8
+Problem-Leiste↑ 9
+Notfallschaden↓ 1
+Notfallschaden↓ 2
+Notfallschaden↓ 3
+Notfallschaden↓ 4
+Notfallschaden↓ 5
+Notfallschaden↓ 6
+Notfallschaden↓ 7
+Notfallschaden↓ 8
+Notfallschaden↓ 9
+Sonnen-Problemschutz
+Attacken-Initiative↑ 1
+Attacken-Initiative↑ 2
+Attacken-Initiative↑ 3
+Attacken-Initiative↑ 4
+Attacken-Initiative↑ 5
+Attacken-Initiative↑ 6
+Attacken-Initiative↑ 7
+Attacken-Initiative↑ 8
+Attacken-Initiative↑ 9
+Teamproblemaufhebung 1
+Teamproblemaufhebung 2
+Teamproblemaufhebung 3
+Teamproblemaufhebung 4
+Teamproblemaufhebung 5
+Teamproblemaufhebung 6
+Teamproblemaufhebung 7
+Teamproblemaufhebung 8
+Teamproblemaufhebung 9
+Effektüberwindung
+Treffer-Angriff↑ 1
+Treffer-Angriff↑ 2
+Treffer-Angriff↑ 3
+Treffer-Angriff↑ 4
+Treffer-Angriff↑ 5
+Treffer-Angriff↑ 6
+Treffer-Angriff↑ 7
+Treffer-Angriff↑ 8
+Treffer-Angriff↑ 9
+Treffer-Vert.↓ 1
+Treffer-Vert.↓ 2
+Treffer-Vert.↓ 3
+Treffer-Vert.↓ 4
+Treffer-Vert.↓ 5
+Treffer-Vert.↓ 6
+Treffer-Vert.↓ 7
+Treffer-Vert.↓ 8
+Treffer-Vert.↓ 9
+Harmoniestärke↑ 1
+Harmoniestärke↑ 2
+Harmoniestärke↑ 3
+Harmoniestärke↑ 4
+Harmoniestärke↑ 5
+Harmoniestärke↑ 6
+Harmoniestärke↑ 7
+Harmoniestärke↑ 8
+Harmoniestärke↑ 9
+Feen-Wechsel
+Flug-Wechsel
+Wasser-Wechsel
+Feuer-Wechsel
+Elektro-Wechsel
+Pflanzen-Wechsel
+Gesteins-Wechsel
+Boden-Wechsel
+Psycho-Wechsel
+Käfer-Wechsel
+Eis-Wechsel
+Unlicht-Wechsel
+Stahl-Wechsel
+Geister-Wechsel
+Gift-Wechsel
+Kampf-Wechsel
+Drachen-Wechsel
+K.O.-Explosion
+K.O.-Werteübergabe
+Statusproblemchance↑ 1
+Statusproblemchance↑ 2
+Statusproblemchance↑ 3
+Statusproblemchance↑ 4
+Statusproblemchance↑ 5
+Statusproblemchance↑ 6
+Statusproblemchance↑ 7
+Statusproblemchance↑ 8
+Statusproblemchance↑ 9
+Attacken-Vert.↑ 1
+Attacken-Vert.↑ 2
+Attacken-Vert.↑ 3
+Attacken-Vert.↑ 4
+Attacken-Vert.↑ 5
+Attacken-Vert.↑ 6
+Attacken-Vert.↑ 7
+Attacken-Vert.↑ 8
+Attacken-Vert.↑ 9
+Normal-Abwehr
+Feuer-Abwehr
+Wasser-Abwehr
+Elektro-Abwehr
+Pflanzen-Abwehr
+Eis-Abwehr
+Kampf-Abwehr
+Gift-Abwehr
+Boden-Abwehr
+Flug-Abwehr
+Psycho-Abwehr
+Käfer-Abwehr
+Gesteins-Abwehr
+Geister-Abwehr
+Drachen-Abwehr
+Unlicht-Abwehr
+Stahl-Abwehr
+Feen-Abwehr
+Taktikwechsel

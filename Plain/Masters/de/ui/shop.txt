@@ -1,0 +1,163 @@
+Laden
+Gefährtensuche
+Juwelen-Kauf
+Item-Tausch
+Kauf abschließen
+
+Ausrüstungstausch
+
+Handelstransaktionen
+Zahlungsgesetze
+Kauflimit
+
+
+Kauf abschließen
+Wenn während eines Juwelenkaufs ein Fehler auftritt oder deine Verbindung unterbrochen wird, kannst du den unterbrochenen Vorgang dennoch abschließen. Möchtest du deinen Kauf abschließen?
+
+Der Kauf wurde abgeschlossen.
+Es wurden keine unbeendeten Kaufvorgänge gefunden. Hinweis: Es kann sein, dass der Kauf schon abgeschlossen wurde. Bitte starte die App neu und überprüfe die Anzahl deiner Juwelen.
+Kauf fehlgeschlagen
+Der Kauf konnte nicht durchgeführt werden. Warte etwas und versuche es anschließend erneut.
+Kauf abgeschlossen
+[Name:Item ] erhalten!
+Kauf abgebrochen
+Der Kauf wurde abgebrochen.
+Hinweis
+OK
+
+
+
+
+
+
+
+Juwelen-Kauf
+Sonderrabatt
+Schließen
+OK
+Limit überschritten
+Du kannst keine weiteren Juwelen kaufen, da du sonst das Limit überschreiten würdest. Verbrauche einige deiner Juwelen, bevor du neue kaufst. Hinweis: Die Obergrenze an gekauften Juwelen beträgt [Digit:5digits ].
+Hinweis
+Die Anzahl deiner in diesem Monat gekauften Juwelen beträgt: [Digit:6digits ]. Bitte achte darauf, nicht zu viele zu kaufen.
+
+OK
+Kauf abgebrochen
+Der Kauf wurde abgebrochen.
+Kauf abgeschlossen
+Du hast die Ware gekauft.
+Ausgabenwarnung
+Zu deinem eigenen Schutz kannst du dich benachrichtigen lassen, wenn deine Juwelenkäufe ein bestimmtes Limit pro Monat überschreiten. Die Ausgabenwarnung kann im Poryfon unter „Einstellungen" aktiviert werden.
+Die monatliche Obergrenze für Juwelenkäufe liegt bei [Digit:6digits ]. Du hast diesen Monat bisher [Digit:6digits ] gekauft.
+Du kannst keine weiteren Juwelen kaufen.
+Die monatliche Obergrenze für Juwelenkäufe liegt bei [Digit:6digits ]. Du hast diesen Monat bisher [Digit:6digits ] gekauft.
+Minderjährige Nutzer benötigen zum Kauf von Juwelen die Zustimmung ihrer Eltern oder eines Erziehungsberechtigten. Hast du die Zustimmung eingeholt?
+Ausgabenwarnung
+Kaufen
+Item-Tausch
+
+Tauschen
+Tauschen
+Ungenügend
+Event
+Normal
+
+
+
+Tausch abgeschlossen
+Der Tausch wurde abgeschlossen.
+
+Tauschbar nach Abschluss von „[Name:QuestTitle ]" ([Name:QuestTitle ])
+
+Benötigte Items
+
+Möchtest du diese Items einsetzen, um den Tausch auszuführen?
+Möchtest du diese Münzen einsetzen, um den Tausch auszuführen?
+Möchtest du diese Items und Münzen einsetzen, um den Tausch auszuführen?
+Freigeschaltet!
+Die Attackenleiste wurde um ein Segment erweitert.
+Keine eintauschbaren Items vorhanden.
+Limit überschritten. Tausch nicht möglich.
+Normal
+
+
+Gefährtensuche
+G-Suche- Punkte
+Gefährtensuche
+Gefährtensuche × 10
+Tagesangebot
+Gekauft
+Schließen
+Erscheinungsrate
+Limit: [Digit:2digits ]
+
+
+Limit: [Digit:2digits ]
+Maximale G-Suche-Punkte Beliebige Gefährtensuche
+Erscheinungsrate
+
+Gefährtensuche-Punkte
+Aktuelle Gefährtensuche-Punkte
+Wenn du das Punkte-Maximum erreichst, kannst du nach einem beliebigen Gefährtengespann suchen!
+Mit Bonus
+Bestätigen
+[Digit:4digits ] Juwelen einsetzen, um 10 Gefährtensuchen durchzuführen?
+Deine Juwelen
+Kostenlos
+Gekauft
+[Digit:4digits ] gekaufte Juwelen einsetzen, um 10 Gefährtensuchen durchzuführen?
+
+
+
+
+
+
+Erscheinungsrate
+Wichtige Hinweise
+Garantiert 5 ★!
+
+Die Erscheinungsraten für ★ werden nach der vierten Dezimalstelle aufgerundet, es kann also sein, dass sie addiert nicht 100 % ergeben. Die tatsächliche Erscheinungsrate wird nicht auf- oder abgerundet. Die Erscheinungsrate gilt für jede durchgeführte Gefährtensuche. Selbst wenn du eine Gefährtensuche mehrmals hintereinander durchführst, heißt das also nicht notwendigerweise, dass du ein bestimmtes Gefährtengespann erhalten wirst. Es ist möglich, dass du durch die Gefährtensuche die gleichen Gefährten erhältst. Selbst wenn du Gefährten schon hast und sich bei ihnen das Pokémon schon entwickelt hat, wird das Pokémon vor der Entwicklung angezeigt, wenn du sie durch Gefährtensuchen erhältst. Steht bei der Erscheinungsrate hinter dem Pokémon-Namen ein *, heißt das, dass sich das Pokémon durch eine Entwicklungs-Episode entwickeln kann.
+Die Erscheinungsraten für ★ werden nach der vierten Dezimalstelle aufgerundet, es kann also sein, dass sie addiert nicht 100 % ergeben. Die tatsächliche Erscheinungsrate wird nicht auf- oder abgerundet. Die Erscheinungsrate gilt für jede durchgeführte Gefährtensuche. Selbst wenn du eine Gefährtensuche mehrmals hintereinander durchführst, heißt das also nicht notwendigerweise, dass du ein bestimmtes Gefährtengespann erhalten wirst. Es ist möglich, dass du durch die Gefährtensuche die gleichen Gefährten erhältst. Selbst wenn du Gefährten schon hast und sich bei ihnen das Pokémon schon entwickelt hat, wird das Pokémon vor der Entwicklung angezeigt, wenn du sie durch Gefährtensuchen erhältst. Bei der 10. Gefährtensuche wird nur aus Gefährten mit 5 ★ gezogen. Die Erscheinungsrate für die Ziehung aus Gefährten mit 5 ★ findest du bei der Erscheinungsratenanzeige unter „Garantiert 5 ★!". Steht bei der Erscheinungsrate hinter dem Pokémon-Namen ein *, heißt das, dass sich das Pokémon durch eine Entwicklungs-Episode entwickeln kann.
+Wichtige Hinweise
+Die Anzahl der Boni, die du für jede Gefährtensuche erhältst, ist festgelegt. Beim nächsten Zeitraum für Gefährtensuchen mit Bonus wird die Anzahl der Boni, die du erhalten kannst, wiederhergestellt. Die Boni werden in deine Geschenkbox geschickt.
+Ergebnis der Gefährtensuche
+Bonus
+Noch einmal
+Du hast die maximale Anzahl an Gefährtensuche-Punkten erreicht. Wähle 1 beliebiges Gefährtengespann.
+[Digit:3digits ] [DE:Qty S="Juwel" P="Juwelen" ] einsetzen, um eine Gefährtensuche durchzuführen?
+[Digit:3digits ] [DE:Qty S="gekauftes Juwel" P="gekaufte Juwelen" ] einsetzen, um eine Gefährtensuche durchzuführen?
+Nicht genug Juwelen
+Du hast nicht genügend Juwelen für eine Gefährtensuche. Möchtest du zum Juwelenkauf-Bildschirm wechseln?
+
+
+Hinweis: Deine Gefährtensuche-Punkte fallen auf Null zurück, wenn dieser Event vorbei ist. Sie werden nicht zum nächsten Event mitgenommen. Du kannst nur Gefährten auswählen, die im Rahmen dieser Gefährtensuche angeboten werden.
+Der Abholzeitraum für dieses Gefährtengespann ist abgelaufen. Du kannst nicht zurückkehren, ohne es zu abzuholen.
+Abholungszeitraum: bis [Name:DateTime ] Ist der Zeitraum abgelaufen, kannst du sie nicht mehr abholen. Hole sie bitte über das Gefährtensuche-Menü ab.
+
+Nutzungshinweise
+
+
+
+Video abspielen
+Spielt das Video der Gefährtenattacke der Gefährten ab. • Im Spiel beinhaltet es die Stimme des  Trainers und den Namen der Attacke. • Es kann bei einigen Trainern  auch vorkommen, dass keine Stimme  vorhanden ist.
+Hinweis nicht mehr anzeigen. (Informationen können unter „Häufig gestellte Fragen" gefunden werden.)
+Die Gefährtenattacke von [Name:TrainerName ] & [Name:PokemonName ] ist jetzt auf Lv. [Digit:1digit ]
+Verstärken
+Gefährten
+Hinweis: Dadurch werden gekaufte Juwelen verbraucht. Selbst wenn du Gefährten schon hast und sich bei ihnen das Pokémon schon entwickelt hat, wird das Pokémon vor der Entwicklung angezeigt, wenn du sie durch Gefährtensuchen erhältst.
+Hinweis: Dadurch werden kostenlose Juwelen verbraucht. Selbst wenn du Gefährten schon hast und sich bei ihnen das Pokémon schon entwickelt hat, wird das Pokémon vor der Entwicklung angezeigt, wenn du sie durch Gefährtensuchen erhältst.
+Bonusübersicht
+Ausrüstungstausch
+Ausrüstung
+Filter
+Sortieren
+Münzen
+Tauschen
+Bestätigen
+Einzutauschende Ausrüstung
+Möchtest du diese Ausrüstung eintauschen?
+Hinweis: Der Tausch von Ausrüstung kann nicht rückgängig gemacht werden.
+Nein
+Ja
+Tausch abgeschlossen
+Ausrüstung wurde eingetauscht!
+OK

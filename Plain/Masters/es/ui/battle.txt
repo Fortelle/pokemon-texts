@@ -1,0 +1,127 @@
+AUTO
+Débil
+Siguiente
+¿Con qué compi quieres usarlo?
+¡Supereficaz!
+¡Crítico!
+Envenenado
+Quemado
+Confuso
+Bajo ataduras
+Secuela
+Paralizado
+Rebote
+¡Falló!
+Fallido
+[Name:Move ]
+[Name:Move ]
+Barra combo
+¡El golpe decisivo!
+Gravemente envenenado
+¡Relevo!
+¡Genial!
+¡Cuidado!
+¡Cuento contigo!
+Conexión inestable
+Error de comunicación
+La conexión con el servidor es inestable y se ha interrumpido. Podrás terminar el combate en curso, pero los compis de tu bando serán controlados por IA.
+Conexión interrumpida
+¡Voy a esforzarme!
+¡Voy a darlo todo!
+Contraataque
+Protección
+¡Curadme!
+¡Al ataque!
+¡Defendámonos!
+¡Saboteadlos!
+¡Fortalecedme!
+Perdón...
+¡Curación va!
+¡Fuerza va!
+¡Ataco!
+¡Voy a defender!
+¡Saboteo!
+¡No puedo!
+Quemado
+Congelado
+Paralizado
+Envenenado
+Gravemente envenenado
+Dormido
+Confuso
+Ha retrocedido
+Resistente
+Inevitable
+Va a aguantar
+Recupera PS
+Siguiente crítico
+Bajo ataduras
+Inmun. estado
+Sig. certero
+Contraataque
+Protección
+Ataque [Digit:1digit ]
+Defensa [Digit:1digit ]
+At. Esp. [Digit:1digit ]
+Def. Esp. [Digit:1digit ]
+Velocidad [Digit:1digit ]
+Evasión [Digit:1digit ]
+Precisión [Digit:1digit ]
+Prob. crítico [Digit:1digit ]
+At. físicos ↓
+At. especiales ↓
+Rebote probl. estado
+Rebote ↓ caract.
+Bloqueo at. estado
+Bloqueo caract. ↓
+Bloqueo críticos
+Bloqueo probl. estado
+No relevable
+Barra mov. acelerada
+Combinado obstaculizado
+Combinado acortado
+Movimiento compi
+¡Relevo!
+¡Mov. compi listo!
+¡Allá va!
+¡Vale!
+¡A la ofensiva!
+¡A la defensiva!
+Izquierda
+Centro
+Derecha
+Iconos tácticos
+Emoticonos
+Emoticono [Digit:1digit ]
+Supereficaz
+×<attr size='78'>[Digit:1digit ]</attr>
+¡Combo interrumpido!
+¡Bonus eficacia!
+¡Al máximo!
+VS.
+¡Combo!
+¡Frenesí combo!
+más
+Botín:
+¡Victoria!
+Experiencia
+Nv.
+Siguiente nivel:
+
+MÁX.
+¡Haz nuevos amigos!
+Enviar solicitudes de amistad
+Enviar solicitud
+Cancelar
+Amigos
+Vale
+¡[Name:PokemonName ] usa un movimiento compi!
+¡Prepárate, [Name:TrainerNameAndType ] te desafía a un combate!
+¡[Name:PokemonName ] se ha debilitado!
+¡Has ganado el combate contra [Name:TrainerNameAndType ]!
+¡No quedan compis para combatir!
+Mirando
+¿Vuelves al Centro Pokémon?
+Confirmar
+¿Seguro que quieres volver al Centro Pokémon? <attr color='eb1414'>Aviso: No recibirás ningún premio aunque tus amigos ganen.</attr>
+¡Has perdido el combate contra [Name:TrainerNameAndType ]!

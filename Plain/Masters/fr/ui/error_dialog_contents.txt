@@ -1,0 +1,51 @@
+Une erreur est survenue. Le jeu va redémarrer.
+Vérifiez votre connexion, puis réessayez.
+Une opération de maintenance est en cours. Le jeu va redémarrer.
+Une opération de maintenance est en cours. Veuillez nous excuser pour la gêne occasionnée. Le jeu va redémarrer.
+Une opération de maintenance est en cours. Elle devrait s'achever à [Name:DateTime ] (heure susceptible d'être modifiée). Veuillez nous excuser pour la gêne occasionnée. Le jeu va redémarrer.
+Une opération de maintenance est en cours. Veuillez nous excuser pour la gêne occasionnée. Nous vous communiquerons l'heure de fin approximative de l'opération dès que possible. Le jeu va redémarrer.
+L'opération de maintenance a été prolongée. Veuillez nous excuser pour la gêne occasionnée. Le jeu va redémarrer.
+L'opération de maintenance a été prolongée. Veuillez nous excuser pour la gêne occasionnée. Nous vous communiquerons l'heure de fin approximative de l'opération dès que possible. Le jeu va redémarrer.
+L'opération de maintenance a été prolongée. Veuillez nous excuser pour la gêne occasionnée. L'opération de maintenance se poursuivra jusqu'à [Name:DateTime ] Cette heure est susceptible d'être modifiée. Le jeu va redémarrer.
+L'opération de maintenance a été prolongée. Veuillez nous excuser pour la gêne occasionnée. Nous vous communiquerons l'heure de fin approximative de l'opération dès que possible. Vous recevrez ultérieurement des informations sur votre dédommagement. Le jeu va redémarrer.
+
+
+
+
+Cette application n'est pas disponible dans votre pays/région. Le jeu va redémarrer.
+L'heure de votre appareil ne semble pas correspondre à l'heure réelle. Veuillez vérifier les paramètres de l'horloge de votre appareil.
+Une erreur est survenue. Retour à la boutique. Veuillez vérifier votre connexion et toucher « Achat de Diamants » à nouveau.
+En attente de l'autorisation d'un parent ou tuteur légal. Une fois l'autorisation obtenue, veuillez redémarrer le jeu ou toucher « Finaliser un achat » dans la boutique.
+Les achats sont limités sur ce compte. Le jeu va redémarrer.
+Une erreur est survenue lors de l'achat. Le jeu va redémarrer.
+Des anomalies ont été détectées pendant la transaction. Veuillez toucher « Finaliser un achat » dans la boutique.
+Cet objet n'est plus disponible à l'échange.
+Les conditions d'utilisation du compte Nintendo associé ont été mises à jour. Le jeu va redémarrer.
+Le compte Nintendo associé ne peut pas être utilisé. Veuillez vérifier l'état de votre compte sur le site officiel des comptes Nintendo.
+Une erreur est survenue lors de l'association avec le compte Nintendo. Le jeu va redémarrer.
+Le navigateur n'a pas pu se lancer pour afficher la page du compte Nintendo. Veuillez vérifier que vos paramètres autorisent le lancement de votre navigateur.
+D'autres données de jeu sont associées à ce compte Nintendo. Veuillez choisir un compte Nintendo n'ayant pas encore été associé à des données de jeu.
+Vos données de jeu ne sont plus associées à votre compte Nintendo. Veuillez vous rendre dans la section « Compte » du menu du Porygophone pour les associer de nouveau.
+Vos données de jeu ne sont plus associées à votre compte Nintendo. Le jeu va redémarrer.
+Veuillez accepter les nouvelles conditions d'utilisation de votre compte Nintendo.
+Vos données de jeu vont être de nouveau associées au compte Nintendo auquel elles étaient précédemment associées.
+Les conditions d'utilisation du compte Nintendo n'ont pas été acceptées. Le jeu va redémarrer.
+Vos données de jeu n'ont pas pu être associées à votre compte Nintendo. Le jeu va redémarrer.
+Le téléchargement a échoué. Le jeu va redémarrer.
+Vous n'avez pas assez d'espace libre sur votre appareil. Veuillez libérer <attr color='E84140'>environ [Digit:3digits ] Mo</attr> d'espace de stockage et réessayer.
+ver [Digit:8digits ]
+ID client
+Ce compte ne peut pas être utilisé pour le moment.
+Service client
+Conditions d'utilisation
+Une nouvelle version du jeu est disponible. Le jeu va redémarrer.
+Une nouvelle version de l'application est disponible. Le jeu va ouvrir le magasin d'applications pour la télécharger.
+Code d'erreur
+Cet Appel Duo n'est plus disponible.
+Une erreur est survenue. Retour à la boutique. Veuillez vérifier votre connexion et toucher « Appel Duo » à nouveau.
+Cet Appel Duo n'est plus disponible.
+Une erreur est survenue lors de l'Appel Duo. Le jeu va redémarrer.
+<attr color='E84140'>[Digit:3digits ] Ko</attr> d'espace libre requis. Veuillez libérer de l'espace sur votre appareil et réessayer.
+Ce compte Nintendo est associé à un autre appareil. Le jeu va se reconnecter sur votre appareil actuel.
+L'heure de votre appareil est différente de l'heure réelle. Veuillez la régler dans les paramètres de votre appareil. Fermeture du jeu.
+Aucune donnée de sauvegarde sur ce compte. Veuillez supprimer le jeu, puis le réinstaller. Fermeture du jeu.

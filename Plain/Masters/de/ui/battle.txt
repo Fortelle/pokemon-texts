@@ -1,0 +1,127 @@
+AUTO
+Schwäche
+Als Nächstes:
+Auf welche Gefährten anwenden?
+Sehr effektiv!
+Volltreffer!
+Vergiftung
+Verbrennung
+Verwirrung
+Umschlingung
+Rückstoß
+Paralyse
+Reflexion
+Verfehlt!
+Fehlschlag
+[Name:Move ]
+[Name:Move ]
+Serienladung
+Wähle diese Gefährten!
+Schwer vergiftet
+Auswechseln
+Gut!
+Achtung!
+Sehr erfreut!
+Instabile Verbindung
+Verbindungsfehler
+Die Verbindung zum Server wurde wegen einer instabilen Internetverbindung getrennt. Der Pokémon-Kampf wird fortgesetzt, aber die Gefährten deiner Freunde sind nun computergesteuert.
+Verbindung getrennt
+Es wird ernst!
+Es wird richtig ernst!
+Konter
+Schutzschild
+Heile mich!
+Greif an!
+Verteidige!
+Störe sie!
+Verstärke!
+Tut mir leid...
+Ich heile dich!
+Ich verstärke!
+Ich greif an!
+Ich verteidige!
+Ich störe sie!
+Nicht möglich!
+Verbrennung
+Gefroren
+Paralysiert
+Vergiftet
+Schwer vergiftet
+Schläft
+Verwirrt
+Zurückgeschreckt
+Resistenzschub
+Weicht nicht aus
+Übersteht K.O.
+Heilt sich
+Folgevolltreffer
+Umschlingung
+Status-Schutz
+Folgetreffer
+Konter
+Schutzschild
+Angriff [Digit:1digit ]
+Vert. [Digit:1digit ]
+Sp.-Ang. [Digit:1digit ]
+Sp.-Vert. [Digit:1digit ]
+Initiative [Digit:1digit ]
+Fluchtwert [Digit:1digit ]
+Genauigkeit [Digit:1digit ]
+Volltrefferquote [Digit:1digit ]
+Physischer Schaden↓
+Spezial-Schaden↓
+Problemreflexion
+Werte↓-Reflexion
+Status-Block
+Werte↓-Schutz
+Volltrefferschutz
+Keine Probleme
+Kein Wechsel
+Attackenleiste↑
+Serienstörung
+Serienkürzung
+Gefährtenattacke
+Wechsel!
+GA bereit!
+Los!
+OK!
+Ich greife an!
+Ich verteidige!
+Links
+Mitte
+Rechts
+Strategiestempel
+Ausdrucksstempel
+Ausdrucksstempel [Digit:1digit ]
+Sehr effektiv
+×<attr size='78'> [Digit:1digit ]</attr>
+Serie unterbrochen...
+Sehr-effektiv-Bonus!
+MAX!
+VS.
+Serie!
+Harmoniechance!
+Noch:
+Erhalten:
+Gewonnen!
+Erfahrungspunkte
+Lv.
+Nächster Lv.
+Noch:
+MAX
+Freunde dich mit deinen Mitstreitern an!
+Freundschaftsanfragen
+Anfragen
+Widerrufen
+Aktuelle Freundesanzahl
+OK
+[Name:PokemonName ] setzt eine Gefährtenattacke ein!
+[Name:TrainerNameAndType ] fordert dich heraus!
+[Name:PokemonName ] wurde besiegt!
+Du besiegst [Name:TrainerNameAndType ]!
+Du hast keine kampffähigen Gefährten mehr!
+Schaut zu
+Ins Pokémon-Center zurückkehren?
+Bestätigen
+Möchtest du wirklich ins Pokémon-Center zurückkehren? <attr color='eb1414'>Hinweis: Wenn du jetzt zurückkehrst, bekommst du keine Belohnung, wenn dein Mitstreiter gewinnt.</attr>
+Du verlierst gegen [Name:TrainerNameAndType ]!

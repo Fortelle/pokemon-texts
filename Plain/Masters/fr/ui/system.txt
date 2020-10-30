@@ -1,0 +1,7 @@
+[Digit:3digits ] jour[FR:Qty P="s" ] restant[FR:Qty P="s" ]
+Il y a [Digit:2digits ] minute[FR:Qty P="s" ]
+Il y a [Digit:2digits ] heure[FR:Qty P="s" ]
+Il y a [Digit:2digits ] jour[FR:Qty P="s" ]
+Il y a + de [Digit:2digits ] jour[FR:Qty P="s" ]
+Jusqu'au [Name:DateTime ]
+Pokémon Masters

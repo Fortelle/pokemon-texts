@@ -1,0 +1,199 @@
+N.
+
+
+Gauche
+Centre
+Droite
+
+N.
+MAX
+
+Obtenu
+Équipe
+
+
+
+
+
+
+
+
+
+
+Nº 1
+Nº 2
+Nº 3
+Sac
+Disponible après avoir fini : « [Name:QuestTitle ] »
+Débloqué
+OK
+Oui
+Non
+Fermer
+Annuler
+Suivant
+Chargement...
+Allez !
+Connexion...
+Confirmation
+Quitter
+Voulez-vous quitter cette aventure et retourner au Centre Pokémon ?
+Voulez-vous vraiment quitter ?
+Retour au Centre Pokémon...
+Attention
+Confirmer
+Le jeu va redémarrer et revenir à l'écran titre. Voulez-vous continuer ?
+Description
+Obtenu !
+Le jeu va redémarrer et revenir à l'écran titre. Voulez-vous continuer ?
+Quitter le jeu ?
+[Name:TrainerName ]
+N.
+
+MAX
+Prochain niveau
+PV
+Attaque
+Défense
+Atq. Spé.
+Déf. Spé.
+Vitesse
+Rôle
+Faiblesse
+Ce Duo apparaîtra souvent au Centre Pokémon.
+[Name:PokemonName ]
+[Name:Move ]
+[Name:Move ]
+[Name:Move ]
+Catégorie
+Puissance
+Précision
+Cible
+Effets
+Capacité
+Talent passif
+
+
+
+
+Type
+
+
+
+N. 1
+N. MAX
+Au N. max
+Au N. 1
+Stats du Duo quand il sera au niveau maximum, à la rareté maximale, et aura appris toutes les capacités et talents passifs.
+
+
+Pas appris
+
+Pas appris
+[Name:Move ]
+
+Vous avez obtenu 1 [Name:Item ] !
+Encore [Digit:1digit ] Badge[FR:Qty P="s" ] à obtenir !
+Vous avez tous les Badges ! En route pour le WPM !
+
+
+[Name:TrainerName ]
+ & [Name:PokemonName ]
+[Name:TrainerName ]
+
+Capacité Duo
+N.
+[Digit:1digit ]
+/[Digit:1digit ]
+Capacité Duo N. MAX
+[Name:Item ]
+Nouvelle classe obtenue !
+Classe obtenue : [Name:ClassName ]
+Niveau ↑ !
+AUTO
+Passer
+Voulez-vous passer la conversation ?
+Quoi ? [Name:PokemonName ] évolue !
+Évolution !
+Nouvelle capacité Duo :
+[Name:Move ]
+Félicitations ! [Name:PokemonName ] a évolué en [Name:PokemonName ] !
+Filtre
+Type
+Capacité
+Capacité Duo
+Faiblesse
+Nombre d'★
+Classe
+Attaquant
+Tacticien
+Soutien
+Retirer filtres
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tous
+Retirer filtre
+Fermer
+Trier
+
+
+OK
+
+
+Rôle
+Bandana
+Bracelet
+Broche
+Choisir
+Catégorie
+Nombre d'★
+Capacité Duo
+PV
+Attaque
+Défense
+Atq. Spé.
+Déf. Spé.
+Vitesse
+Rôle
+Faiblesse
+Niveau max ↑
+Niveau
+Ordre d'obtention
+Points de potentiel
+Type
+Catégorie
+
+
+
+
+Nº
+N. max. débloqué
+Niveau ↑ !
+N.
+Potentiel augmenté !
+Transfert terminé
+Vos données de jeu de votre compte Nintendo ont bien été transférées sur cet appareil. Veuillez relancer l'application pour utiliser ces données de jeu.
+Compte associé
+Votre compte Nintendo a bien été associé à cet appareil.
+Alertes d'achat
+Vous pouvez choisir de recevoir une alerte quand la quantité de Diamants achetés en un mois dépasse une certaine limite. Voulez-vous activer cette alerte ? <attr color='EB1414' size="18">Vous pouvez modifier vos préférences à tout moment dans les paramètres.</attr>
+Vous pouvez modifier vos préférences à tout moment depuis le menu Paramètres.
+Vos paramètres d'alerte ont été enregistrés. Vous recevrez une alerte lorsque vous achèterez plus de 3 000, 6 000 et 10 000 Diamants en un mois, et tous les 20 000 Diamants par la suite.
+Duos

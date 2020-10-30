@@ -1,0 +1,163 @@
+Tienda
+Reclutamiento
+Comprar joyas
+Canjear objetos
+Finalizar compra
+
+Canjear accesorios
+
+Transacciones comerciales específicas
+Legislación relativa a los pagos
+Límite de compra
+
+
+Finalizar compra
+Es posible finalizar una compra pendiente de joyas aunque se interrumpa el proceso o se produzca algún error. ¿Quieres finalizar la compra?
+
+Compra finalizada
+No hay ninguna compra pendiente. Es posible que la compra ya haya sido finalizada. Reinicia la aplicación y comprueba el número de joyas que tienes.
+Transacción fallida
+No se ha podido procesar la compra. Espera un poco antes de intentarlo de nuevo.
+Compra finalizada
+Tu compra: [Name:Item ]
+Compra cancelada
+Se ha cancelado la compra.
+Atención
+Vale
+
+
+
+
+
+
+
+Comprar joyas
+Oferta especial
+Cerrar
+Vale
+Límite excedido
+No puedes comprar más joyas porque has excedido el límite. Vuelve a intentarlo cuando hayas utilizado algunas. Límite de joyas de pago: [Digit:5digits ].
+Atención
+Joyas compradas este mes: [Digit:6digits ] ¡Recuerda comprar con moderación!
+
+Sí
+Cancelar compra
+Se ha cancelado la compra.
+Compra finalizada
+La compra se ha completado con éxito.
+Alerta límite de compra
+Por tu propia seguridad, puedes recibir notificaciones cuando la cantidad de joyas que compres en un mes supere un límite determinado. Para activar esta función, accede a "Ajustes" desde el menú del Porygófono y activa la función "Alerta límite de compra".
+Puedes comprar un máximo de [Digit:6digits ] joyas al mes. Joyas compradas este mes: [Digit:6digits ].
+No puedes comprar más joyas.
+Puedes comprar un máximo de [Digit:6digits ] joyas al mes. Joyas compradas este mes: [Digit:6digits ].
+Los usuarios menores de edad no pueden comprar joyas a menos que reciban la autorización de un padre o tutor legal. ¿Has recibido la autorización de un padre o tutor legal?
+Sobre la alerta límite de compra
+Comprar
+Canjear objetos
+
+Canjear
+Canjear
+Insuficientes
+De evento
+Normales
+
+
+
+Canje finalizado
+El canje se ha completado con éxito.
+
+Disponible tras completar "[Name:QuestTitle ]" ([Name:QuestTitle ]).
+
+Objetos necesarios
+
+¿Quieres canjear estos objetos por el objeto que se muestra arriba?
+¿Quieres usar monedas para canjear el objeto que se muestra arriba?
+¿Canjeas estos objetos y monedas por el objeto que se muestra arriba?
+¡Barra mov. aumentada!
+La barra de movimientos ha aumentado en una unidad.
+No tienes objetos que puedas canjear.
+Has alcanzado el máximo de objetos. No se puede realizar el canje.
+Normales
+
+
+Reclutamiento
+Puntos reclut.
+Reclutamiento de compis
+Reclutamiento de compis ×10
+Chollo del día
+De pago
+Cerrar
+Tasas de aparición
+Límite: [Digit:2digits ]
+
+
+Límite: [Digit:2digits ]
+¡Puntos reclut. al máximo! ¡Recluta nuevos compis!
+Tasas de aparición
+[Name:TrainerName ] [Name:PokemonName ]
+Puntos reclutamiento
+Puntos de reclutamiento actuales
+Cuando alcances el máximo, podrás reclutar a la pareja de compis que elijas.
+¡Con bonus!
+Confirmar
+¿Quieres gastar [Digit:4digits ] joyas en diez reclutamientos de compis?
+Tus joyas
+Sin coste
+De pago
+¿Quieres gastar [Digit:4digits ] joyas de pago en diez reclutamientos de compis?
+
+
+
+movimiento compi
+
+
+Tasas de aparición
+Notas
+5★ garantizadas
+
+Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del cuarto decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento. Las tasas de aparición de cada pareja de compis se aplican cada vez que se efectúa un reclutamiento, de modo que realizarlo de forma consecutiva no garantiza la obtención de dicha pareja de compis. Es posible obtener una pareja de compis repetida en un reclutamiento. Aunque el Pokémon de la pareja de compis ya obtenida haya evolucionado, en la pantalla de reclutamiento aparecerá siempre la primera fase evolutiva. Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantalla de las tasas de aparición podrán evolucionar tras completar el episodio de evolución correspondiente.
+Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del cuarto decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento. Las tasas de aparición de cada pareja de compis se aplican cada vez que se efectúa un reclutamiento, de modo que realizarlo de forma consecutiva no garantiza la obtención de dicha pareja de compis. Es posible obtener una pareja de compis repetida en un reclutamiento. Aunque el Pokémon de la pareja de compis ya obtenida haya evolucionado, en la pantalla de reclutamiento aparecerá siempre la primera fase evolutiva. En la décima sesión de reclutamiento aparecerán solo parejas de compis de 5★. Para comprobar las tasas de aparición que se aplican a este reclutamiento, toca "5★ garantizadas". Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantalla de tasas de aparición podrán evolucionar tras completar el episodio de evolución correspondiente.
+Información importante
+El número de bonus que puedes obtener al realizar reclutamientos es limitado. Este se restablecerá cada vez que dé comienzo un nuevo período de reclutamiento con bonus. Los bonus se enviarán a la caja de regalos.
+Resultados del reclutamiento
+Bonus obtenidos
+Repetir
+¡Puntos de reclutamiento al máximo! ¡Elige a los compis que quieras!
+¿Quieres gastar [Digit:3digits ] joyas en un reclutamiento?
+¿Quieres gastar [Digit:3digits ] joyas de pago en un reclutamiento?
+Joyas insuficientes
+No tienes suficientes joyas para realizar un reclutamiento. ¿Quieres ir a la pantalla de compra de joyas?
+
+
+Nota: Tus puntos de reclutamiento pasarán a cero cuando termine el período de este evento de reclutamiento. No puedes transferir los puntos de reclutamiento. Solo podrás elegir a parejas de compis que entren dentro de este reclutamiento específico.
+El plazo para la recepción de estos compis ha terminado y no puedes volver sin recibirlos.
+Plazo de recepción de compis hasta: [Name:DateTime ] No podrás recibirlos una vez terminado el plazo. Podrás encontrarlos en la pantalla de reclutamiento.
+
+Advertencia de uso
+
+
+
+Vídeos
+Puedes ver vídeos de los movimientos compi de los compis destacados antes de desbloquearlos. En el juego, además se incluirán los nombres de los movimientos y las voces del Entrenador (puede que algunos Entrenadores no tengan voz).
+No volver a mostrar. (Puedes consultar esta información en las preguntas frecuentes.)
+El movimiento compi de [Name:TrainerName ] y [Name:PokemonName ] ha alcanzado el Nv. [Digit:1digit ].
+Mejorar
+Compis
+Nota: Se usarán joyas de pago. Aunque el Pokémon de una pareja de compis haya evolucionado, si reclutas una pareja de compis idéntica, el Pokémon aparecerá siempre en su primera fase evolutiva.
+Nota: Se usarán joyas sin coste. Aunque el Pokémon de una pareja de compis haya evolucionado, si reclutas una pareja de compis idéntica, el Pokémon aparecerá siempre en su primera fase evolutiva.
+Lista de bonificaciones
+Canjear accesorios
+Accesorios
+Filtrar
+Ordenar
+Monedas
+Canjear
+Confirmar
+Accesorios para canjear
+¿Seguro que quieres canjearlos?
+Aviso: Una vez canjeados, no podrás recuperarlos.
+No
+Sí
+Canje finalizado
+¡El canje se ha completado con éxito!
+Vale

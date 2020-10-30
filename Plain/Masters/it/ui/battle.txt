@@ -1,0 +1,127 @@
+AUTO
+Debol.
+IN ARRIVO
+Su quale Unità?
+Superefficace!
+Brutto colpo!
+Avvelen.
+Scottato
+Confuso
+Imprig.
+Contraccolpo
+Paralizz.
+Specchio
+Mancato!
+Fallito
+[Name:Move ]
+[Name:Move ]
+COMBINAZIONE
+Questa Unità è quella decisiva!
+Iperavv.
+Sostituzione
+Bene!
+Attenzione!
+Conto su di te!
+Connessione instabile
+Errore di connessione
+Collegamento al server non riuscito a causa di connessione instabile. La lotta continuerà ma le Unità alleate saranno controllate dalla IA.
+Connessione interrotta
+Ora si fa sul serio!
+Motivazione max!
+Contrattacco
+Protezione
+Curami!
+Attacchiamo!
+Difendiamoci!
+Ostacoliamoli!
+Urge rinforzo!
+Scusate...
+Curo io!
+Rinforzo io!
+Attacco io!
+Difendo io!
+Li ostacolo io!
+Non posso!
+Scottato
+Congelato
+Paralizzato
+Avvelenato
+Iperavvelenato
+Addormentato
+Confuso
+Tentenna
+Più resistente
+Non può evitare
+Resistenza
+Recupero PS
+Pross. brutto colpo
+Imprigionato
+Immun. prob. stato
+Pross. infallibile
+Contrattacco
+Protezione
+Attacco [Digit:1digit ]
+Difesa [Digit:1digit ]
+Att. Sp. [Digit:1digit ]
+Dif. Sp. [Digit:1digit ]
+Velocità [Digit:1digit ]
+Elusione [Digit:1digit ]
+Precisione [Digit:1digit ]
+Prob. brutti colpi [Digit:1digit ]
+Danni fisici ↓
+Danni speciali ↓
+Riflette prob. stato
+Riflette riduz. stat.
+Blocco mosse stato
+Blocco riduz. stat.
+Blocco brutti colpi
+Blocco prob. stato
+Blocco sostituz.
+Accel. barra mosse
+Ostacolo combinaz.
+Combichance ↓
+Unimossa
+Sostituisco!
+Unimossa ok!
+Rimozione
+Ok!
+Vado in attacco!
+Vado in difesa!
+Sinistra
+Centro
+Destra
+Adesivi tattici
+Adesivi umore
+Adesivi umore [Digit:1digit ]
+Superefficace
+×<attr size='78'>[Digit:1digit ]</attr>
+Combo interrotta...
+Bonus efficacia!
+MAX!
+VS
+Combo!
+Combichance!
+Ancora
+Ricompense
+VITTORIA!
+Esperienza
+L.
+Prossimo livello
+tra:
+MAX
+Fai amicizia con i tuoi alleati!
+Richieste di amicizia
+Invia richiesta
+Annulla richiesta
+Numero attuale di amici
+Ok
+[Name:PokemonName ] usa un'Unimossa!
+Parte la sfida di [Name:TrainerNameAndType ]!
+[Name:PokemonName ] non ha più energie!
+Hai sconfitto [Name:TrainerNameAndType ]!
+[Name:PlayerNickname ] non ha più Unità disponibili!
+Panchina
+Vuoi tornare al Centro Pokémon?
+Conferma
+Vuoi davvero tornare al Centro Pokémon? <attr color='eb1414'>Se torni ora, non potrai ricevere le ricompense in caso di vittoria del tuo gruppo.</attr>
+[Name:TrainerNameAndType ] ha vinto la sfida!

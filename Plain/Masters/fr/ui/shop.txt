@@ -1,0 +1,163 @@
+Boutique
+Appel Duo
+Achat de Diamants
+Échange d'objets
+Finaliser un achat
+
+Échange équipement
+
+Transactions commerciales spécifiées
+Lois relatives aux paiements
+Limite d'achat
+
+
+Finalisation de l'achat
+Vous pouvez finaliser un achat de Diamants interrompu par une erreur ou une déconnexion. Voulez-vous finaliser votre achat ?
+
+Achat finalisé
+Aucun achat interrompu trouvé. Il est possible que vos achats interrompus aient déjà été finalisés. Veuillez redémarrer l'application et vérifier votre total de Diamants.
+Échec de la transaction
+L'achat/échange a échoué. Veuillez réessayer plus tard.
+Achat/échange finalisé
+Obtenu : [Name:Item ]
+Annuler l'achat/échange
+Achat/échange annulé
+Attention
+OK
+
+
+
+
+
+
+
+Achat de Diamants
+Promotion
+Fermer
+OK
+Limite dépassée
+Vous ne pouvez pas acheter de Diamants car vous dépasseriez la limite. Veuillez en utiliser avant d'en acheter à nouveau. La limite de Diamants payants est de [Digit:5digits ].
+Attention
+Diamants achetés ce mois-ci : [Digit:6digits ] Attention à ne pas trop en acheter.
+
+Oui
+Annulation de l'achat
+L'achat a été annulé.
+Achat finalisé
+Vous avez acheté un produit.
+Alertes d'achat
+Pour votre sécurité, nous pouvons vous alerter si vous achetez une certaine quantité de Diamants en un mois. Vous pouvez activer ces alertes depuis le menu « Paramètres » du Porygophone.
+Vous pouvez acheter jusqu'à [Digit:6digits ] Diamants par mois. Vous en avez acheté [Digit:6digits ] ce mois-ci.
+Vous ne pouvez plus acheter de Diamants.
+Vous pouvez acheter jusqu'à [Digit:6digits ] Diamants par mois. Vous en avez acheté [Digit:6digits ] ce mois-ci.
+Les utilisateurs mineurs ont besoin de l'autorisation d'un parent ou tuteur légal pour acheter des Diamants. Avez-vous reçu l'autorisation de votre parent ou tuteur légal ?
+Alertes d'achat
+Acheter
+Échange d'objets
+
+Échange
+Échanger
+Insuffisant
+Évènement
+Standard
+
+
+
+Échange finalisé
+L'échange a été finalisé.
+
+Disponible après avoir terminé : « [Name:QuestTitle ] » ([Name:QuestTitle ])
+
+Objets nécessaires
+
+Voulez-vous échanger les objets ci-dessus contre l'objet du haut ?
+Voulez-vous utiliser ces Pièces ?
+Voulez-vous échanger les objets et les Pièces ci-dessus contre l'objet du haut ?
+Jauge Capacité accrue
+Un segment a été ajouté à votre Jauge Capacité.
+Vous n'avez pas d'objet à échanger.
+Limite atteinte. Échange impossible.
+Standard
+
+
+Appel Duo
+Pts d'Appel Duo
+Appel Duo
+10 Appels Duo
+Promo du jour
+Payant
+Fermer
+Chances d'obtention
+Limité à [Digit:2digits ]
+
+
+Limité à [Digit:2digits ]
+Points d'Appel Duo au max ! Appelez le Duo de votre choix !
+Chances d'obtention
+
+Points d'Appel Duo
+Vos Points d'Appel Duo :
+Quand vous aurez atteint le maximum de points, vous pourrez appeler le Duo de votre choix.
+Bonus inclus
+Confirmation
+Voulez-vous utiliser [Digit:4digits ] Diamants pour passer 10 Appels Duo ?
+Vos Diamants
+Non payants
+Payants
+Voulez-vous utiliser [Digit:4digits ] Diamants payants pour passer 10 Appels Duo ?
+
+
+
+capacité Duo
+
+
+Chances d'obtention
+Avertissement
+5★ garanti !
+
+Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la quatrième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur. Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout. Il est possible qu'un même Duo apparaisse plusieurs fois. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats. Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon à travers un épisode d'évolution.
+Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la quatrième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur. Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout. Il est possible qu'un même Duo apparaisse plusieurs fois. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats. Le dixième Appel Duo vous permettra d'obtenir un Duo 5★. Pour connaître les pourcentages utilisés lors de l'Appel Duo garantissant un Duo 5★, touchez le bouton « 5★ garanti ! » sur l'écran de pourcentages. Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon à travers un épisode d'évolution.
+Avertissement
+Le nombre de bonus pouvant être reçus lors de chaque Appel Duo est déterminé à l'avance. Ce nombre sera réinitialisé lorsque la prochaine période d'Appel Duo avec bonus inclus commencera. Les bonus seront envoyés sur la page « Cadeaux ».
+Résultats de l'Appel Duo
+Bonus
+Recommencer
+Vos points d'Appel Duo sont au max. Vous pouvez choisir un Duo.
+Voulez-vous utiliser [Digit:3digits ] Diamants pour passer un Appel Duo ?
+Voulez-vous utiliser [Digit:3digits ] Diamants payants pour passer un Appel Duo ?
+Diamants insuffisants
+Vous n'avez pas assez de Diamants pour passer un Appel Duo. Voulez-vous afficher l'écran d'achat de Diamants ?
+
+
+Remarque : vos points d'Appel Duo tomberont à 0 quand cet Appel Duo ne sera plus disponible. Les points d'Appel Duo ne peuvent pas être transférés. Vous ne pourrez choisir que parmi les Duos de cet Appel Duo.
+La période de réception de ce Duo est terminée. Vous devez le récupérer maintenant.
+À récupérer avant : [Name:DateTime ] Vous ne pourrez plus recevoir ce Duo après cette date. Veuillez le récupérer à l'écran d'Appel Duo.
+
+Avertissements
+
+
+
+Vidéos
+Permet de voir en vidéo les capacités Duo des Duos mis en avant. En jeu, le nom de la capacité et une réplique du Dresseur apparaîtra dans chaque vidéo (certains Dresseurs resteront toutefois muets).
+Les informations ne s'affichant qu'une fois peuvent être trouvées dans la FAQ.
+La capacité Duo de [Name:TrainerName ] & [Name:PokemonName ] est montée au niveau [Digit:1digit ].
+Renforcement
+Duo
+Remarque : vos Diamants payants seront utilisés. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats.
+Remarque : les Diamants non payants seront utilisés. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats.
+Liste des bonus
+Échanger équipement
+Équipement
+Filtrer
+Trier
+Pièces
+Vendre
+Confirmation
+Équipement à échanger
+Voulez-vous échanger cet équipement ?
+Vous ne pourrez pas récupérer l'équipement échangé.
+Non
+Oui
+Échange terminé
+Vous avez échangé votre équipement.
+OK

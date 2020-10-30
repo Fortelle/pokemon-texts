@@ -1,0 +1,464 @@
+Inmunidad Veneno
+Inmunidad Quemaduras
+Inmunidad Parálisis
+Inmun. Congelación
+Inmunidad Granizo
+Inmunidad Arena
+Coraza Arena
+Inmunidad Sueño
+Inmunidad Confusión
+Inmunidad Retroceso
+Inmunidad Ataduras
+Resistencia Veneno +1
+Resistencia Veneno +2
+Resistencia Veneno +3
+Resistencia Veneno +4
+Resistencia Veneno +5
+Resistencia Veneno +6
+Resistencia Veneno +7
+Resistencia Veneno +8
+Resistencia Veneno +9
+Resist. Parálisis +1
+Resist. Parálisis +2
+Resist. Parálisis +3
+Resist. Parálisis +4
+Resist. Parálisis +5
+Resist. Parálisis +6
+Resist. Parálisis +7
+Resist. Parálisis +8
+Resist. Parálisis +9
+Resistencia Sueño +1
+Resistencia Sueño +2
+Resistencia Sueño +3
+Resistencia Sueño +4
+Resistencia Sueño +5
+Resistencia Sueño +6
+Resistencia Sueño +7
+Resistencia Sueño +8
+Resistencia Sueño +9
+Resist. Quemaduras +1
+Resist. Quemaduras +2
+Resist. Quemaduras +3
+Resist. Quemaduras +4
+Resist. Quemaduras +5
+Resist. Quemaduras +6
+Resist. Quemaduras +7
+Resist. Quemaduras +8
+Resist. Quemaduras +9
+Resist. Congelación +1
+Resist. Congelación +2
+Resist. Congelación +3
+Resist. Congelación +4
+Resist. Congelación +5
+Resist. Congelación +6
+Resist. Congelación +7
+Resist. Congelación +8
+Resist. Congelación +9
+Resist. Confusión +1
+Resist. Confusión +2
+Resist. Confusión +3
+Resist. Confusión +4
+Resist. Confusión +5
+Resist. Confusión +6
+Resist. Confusión +7
+Resist. Confusión +8
+Resist. Confusión +9
+Resist. Retroceso +1
+Resist. Retroceso +2
+Resist. Retroceso +3
+Resist. Retroceso +4
+Resist. Retroceso +5
+Resist. Retroceso +6
+Resist. Retroceso +7
+Resist. Retroceso +8
+Resist. Retroceso +9
+Resistencia Ataduras +1
+Resistencia Ataduras +2
+Resistencia Ataduras +3
+Resistencia Ataduras +4
+Resistencia Ataduras +5
+Resistencia Ataduras +6
+Resistencia Ataduras +7
+Resistencia Ataduras +8
+Resistencia Ataduras +9
+Inocuidad
+Resistencia At. ↓ +1
+Resistencia At. ↓ +2
+Resistencia At. ↓ +3
+Resistencia At. ↓ +4
+Resistencia At. ↓ +5
+Resistencia At. ↓ +6
+Resistencia At. ↓ +7
+Resistencia At. ↓ +8
+Resistencia At. ↓ +9
+Resistencia Def. ↓ +1
+Resistencia Def. ↓ +2
+Resistencia Def. ↓ +3
+Resistencia Def. ↓ +4
+Resistencia Def. ↓ +5
+Resistencia Def. ↓ +6
+Resistencia Def. ↓ +7
+Resistencia Def. ↓ +8
+Resistencia Def. ↓ +9
+Resist. At. Esp. ↓ +1
+Resist. At. Esp. ↓ +2
+Resist. At. Esp. ↓ +3
+Resist. At. Esp. ↓ +4
+Resist. At. Esp. ↓ +5
+Resist. At. Esp. ↓ +6
+Resist. At. Esp. ↓ +7
+Resist. At. Esp. ↓ +8
+Resist. At. Esp. ↓ +9
+Resist. Def. Esp. ↓ +1
+Resist. Def. Esp. ↓ +2
+Resist. Def. Esp. ↓ +3
+Resist. Def. Esp. ↓ +4
+Resist. Def. Esp. ↓ +5
+Resist. Def. Esp. ↓ +6
+Resist. Def. Esp. ↓ +7
+Resist. Def. Esp. ↓ +8
+Resist. Def. Esp. ↓ +9
+Resistencia Vel. ↓ +1
+Resistencia Vel. ↓ +2
+Resistencia Vel. ↓ +3
+Resistencia Vel. ↓ +4
+Resistencia Vel. ↓ +5
+Resistencia Vel. ↓ +6
+Resistencia Vel. ↓ +7
+Resistencia Vel. ↓ +8
+Resistencia Vel. ↓ +9
+Resist. Precisión ↓ +1
+Resist. Precisión ↓ +2
+Resistencia Precisión ↓ +3
+Resist. Precisión ↓ +4
+Resist. Precisión ↓ +5
+Resist. Precisión ↓ +6
+Resist. Precisión ↓ +7
+Resist. Precisión ↓ +8
+Resist. Precisión ↓ +9
+Resist. Evasión ↓ +1
+Resist. Evasión ↓ +2
+Resist. Evasión ↓ +3
+Resist. Evasión ↓ +4
+Resist. Evasión ↓ +5
+Resist. Evasión ↓ +6
+Resist. Evasión ↓ +7
+Resist. Evasión ↓ +8
+Resist. Evasión ↓ +9
+Resist. Caract. ↓ +1
+Resist. Caract. ↓ +2
+Resist. Caract. ↓ +3
+Resist. Caract. ↓ +4
+Resist. Caract. ↓ +5
+Resist. Caract. ↓ +6
+Resist. Caract. ↓ +7
+Resist. Caract. ↓ +8
+Resist. Caract. ↓ +9
+Restauración
+Furor +1
+Furor +2
+Furor +3
+Furor +4
+Furor +5
+Furor +6
+Furor +7
+Furor +8
+Furor +9
+Euforia +1
+Euforia +2
+Euforia +3
+Euforia +4
+Euforia +5
+Euforia +6
+Euforia +7
+Euforia +8
+Euforia +9
+
+Inmunidad At. ↓
+Inmunidad Def. ↓
+Inmunidad At. Esp. ↓
+Inmun. Def. Esp. ↓
+Inmunidad Vel. ↓
+Inmunidad Prec. ↓
+Inmunidad Evasión ↓
+Inmunidad Crítico ↓
+Inmunidad Caract. ↓
+Inmunidad Críticos
+Aire Nocivo +1
+Aire Nocivo +2
+Aire Nocivo +3
+Aire Nocivo +4
+Aire Nocivo +5
+Aire Nocivo +6
+Aire Nocivo +7
+Aire Nocivo +8
+Aire Nocivo +9
+Incordio +1
+Incordio +2
+Incordio +3
+Incordio +4
+Incordio +5
+Incordio +6
+Incordio +7
+Incordio +8
+Incordio +9
+Viento en Popa +1
+Viento en Popa +2
+Viento en Popa +3
+Viento en Popa +4
+Viento en Popa +5
+Viento en Popa +6
+Viento en Popa +7
+Viento en Popa +8
+Viento en Popa +9
+Ultravínculo +1
+Ultravínculo +2
+Ultravínculo +3
+Ultravínculo +4
+Ultravínculo +5
+Ultravínculo +6
+Ultravínculo +7
+Ultravínculo +8
+Ultravínculo +9
+Impulso Arena +1
+Impulso Arena +2
+Impulso Arena +3
+Impulso Arena +4
+Impulso Arena +5
+Impulso Arena +6
+Impulso Arena +7
+Impulso Arena +8
+Impulso Arena +9
+Osadía +1
+Osadía +2
+Osadía +3
+Osadía +4
+Osadía +5
+Osadía +6
+Osadía +7
+Osadía +8
+Osadía +9
+Ultraeficacia +1
+Ultraeficacia +2
+Ultraeficacia +3
+Ultraeficacia +4
+Ultraeficacia +5
+Ultraeficacia +6
+Ultraeficacia +7
+Ultraeficacia +8
+Ultraeficacia +9
+Condensador +1
+Condensador +2
+Condensador +3
+Condensador +4
+Condensador +5
+Condensador +6
+Condensador +7
+Condensador +8
+Condensador +9
+Imbatible
+Vista Aguda
+Barrido Arena
+Bravata +1
+Bravata +2
+Bravata +3
+Bravata +4
+Bravata +5
+Bravata +6
+Bravata +7
+Bravata +8
+Bravata +9
+Crítico Ruin +1
+Crítico Ruin +2
+Crítico Ruin +3
+Crítico Ruin +4
+Crítico Ruin +5
+Crítico Ruin +6
+Crítico Ruin +7
+Crítico Ruin +8
+Crítico Ruin +9
+Crítico Potente +1
+Crítico Potente +2
+Crítico Potente +3
+Crítico Potente +4
+Crítico Potente +5
+Crítico Potente +6
+Crítico Potente +7
+Crítico Potente +8
+Crítico Potente +9
+Crítico Veloz +1
+Crítico Veloz +2
+Crítico Veloz +3
+Crítico Veloz +4
+Crítico Veloz +5
+Crítico Veloz +6
+Crítico Veloz +7
+Crítico Veloz +8
+Crítico Veloz +9
+Criticombo +1
+Criticombo +2
+Criticombo +3
+Criticombo +4
+Criticombo +5
+Criticombo +6
+Criticombo +7
+Criticombo +8
+Criticombo +9
+Remedio +1
+Remedio +2
+Remedio +3
+Remedio +4
+Remedio +5
+Remedio +6
+Remedio +7
+Remedio +8
+Remedio +9
+Remedio Gélido +1
+Remedio Gélido +2
+Remedio Gélido +3
+Remedio Gélido +4
+Remedio Gélido +5
+Remedio Gélido +6
+Remedio Gélido +7
+Remedio Gélido +8
+Remedio Gélido +9
+Evasión Arena
+Velocidad Pluvial +1
+Velocidad Pluvial +2
+Velocidad Pluvial +3
+Velocidad Pluvial +4
+Velocidad Pluvial +5
+Velocidad Pluvial +6
+Velocidad Pluvial +7
+Velocidad Pluvial +8
+Velocidad Pluvial +9
+Velocidad Solar +1
+Velocidad Solar +2
+Velocidad Solar +3
+Velocidad Solar +4
+Velocidad Solar +5
+Velocidad Solar +6
+Velocidad Solar +7
+Velocidad Solar +8
+Velocidad Solar +9
+Velocidad Aflicción +1
+Velocidad Aflicción +2
+Velocidad Aflicción +3
+Velocidad Aflicción +4
+Velocidad Aflicción +5
+Velocidad Aflicción +6
+Velocidad Aflicción +7
+Velocidad Aflicción +8
+Velocidad Aflicción +9
+Último Aliento +1
+Último Aliento +2
+Último Aliento +3
+Último Aliento +4
+Último Aliento +5
+Último Aliento +6
+Último Aliento +7
+Último Aliento +8
+Último Aliento +9
+Inmunidad Solar
+Acción Veloz +1
+Acción Veloz +2
+Acción Veloz +3
+Acción Veloz +4
+Acción Veloz +5
+Acción Veloz +6
+Acción Veloz +7
+Acción Veloz +8
+Acción Veloz +9
+Acción Curativa +1
+Acción Curativa +2
+Acción Curativa +3
+Acción Curativa +4
+Acción Curativa +5
+Acción Curativa +6
+Acción Curativa +7
+Acción Curativa +8
+Acción Curativa +9
+Ataque Penetrante
+Ataque Alzado +1
+Ataque Alzado +2
+Ataque Alzado +3
+Ataque Alzado +4
+Ataque Alzado +5
+Ataque Alzado +6
+Ataque Alzado +7
+Ataque Alzado +8
+Ataque Alzado +9
+Tumbadefensas +1
+Tumbadefensas +2
+Tumbadefensas +3
+Tumbadefensas +4
+Tumbadefensas +5
+Tumbadefensas +6
+Tumbadefensas +7
+Tumbadefensas +8
+Tumbadefensas +9
+Combo Mejora +1
+Combo Mejora +2
+Combo Mejora +3
+Combo Mejora +4
+Combo Mejora +5
+Combo Mejora +6
+Combo Mejora +7
+Combo Mejora +8
+Combo Mejora +9
+Cambio Hada
+Cambio Volador
+Cambio Agua
+Cambio Fuego
+Cambio Eléctrico
+Cambio Planta
+Cambio Roca
+Cambio Tierra
+Cambio Psíquico
+Cambio Bicho
+Cambio Hielo
+Cambio Siniestro
+Cambio Acero
+Cambio Fantasma
+Cambio Veneno
+Cambio Lucha
+Cambio Dragón
+Regalo Final
+Pase de Testigo
+Granuja +1
+Granuja +2
+Granuja +3
+Granuja +4
+Granuja +5
+Granuja +6
+Granuja +7
+Granuja +8
+Granuja +9
+Estoico +1
+Estoico +2
+Estoico +3
+Estoico +4
+Estoico +5
+Estoico +6
+Estoico +7
+Estoico +8
+Estoico +9
+Mitiga Normal
+Mitiga Fuego
+Mitiga Agua
+Mitiga Eléctrico
+Mitiga Planta
+Mitiga Hielo
+Mitiga Lucha
+Mitiga Veneno
+Mitiga Tierra
+Mitiga Volador
+Mitiga Psíquico
+Mitiga Bicho
+Mitiga Roca
+Mitiga Fantasma
+Mitiga Dragón
+Mitiga Siniestro
+Mitiga Acero
+Mitiga Hada
+Cambio Táctico

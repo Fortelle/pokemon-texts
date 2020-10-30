@@ -1,0 +1,6 @@
+PS [Digit:5digits ]
+Ataque [Digit:5digits ]
+Defensa [Digit:5digits ]
+Ataque Especial [Digit:5digits ]
+Defensa Especial [Digit:5digits ]
+Velocidad [Digit:5digits ]

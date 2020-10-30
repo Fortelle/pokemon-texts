@@ -1,0 +1,7 @@
+[Digit:3digits ] día[ES:Qty P="s" ]
+Hace [Digit:2digits ] minuto[ES:Qty P="s" ]
+Hace [Digit:2digits ] hora[ES:Qty P="s" ]
+Hace [Digit:2digits ] día[ES:Qty P="s" ]
+Hace más de [Digit:2digits ] día[ES:Qty P="s" ]
+Hasta el [Name:DateTime ]
+Pokémon Masters

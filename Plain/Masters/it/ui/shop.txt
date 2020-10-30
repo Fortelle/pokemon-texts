@@ -1,0 +1,163 @@
+Negozio
+Ricerca Unità
+Acquisto gemme
+Scambio strumenti
+Completa acquisto
+
+Scambio accessori
+
+Transazioni commerciali
+Leggi relative ai pagamenti
+Limiti di acquisto
+
+
+Completa acquisto
+Se si verifica un errore durante l'acquisto di gemme o una disconnessione durante il processo di acquisto, è possibile completare il processo interrotto. Vuoi completare l'acquisto?
+
+Acquisto completato.
+Non sono stati trovati acquisti interrotti. Il processo di acquisto potrebbe già essere andato a buon fine. Riavvia l'app e controlla il numero di gemme in tuo possesso.
+Acquisto non riuscito
+L'acquisto non è riuscito. Riprova più tardi.
+Acquisto completato
+Hai ottenuto: [Name:Item ]
+Acquisto annullato
+L'acquisto è stato annullato.
+Attenzione
+Ok
+
+
+
+
+
+
+
+Acquisto gemme
+Offerta speciale
+Chiudi
+Ok
+Limite superato
+Non puoi comprare altre gemme perché supererebbero il limite. Riduci il numero di gemme prima di comprarne altre. Attenzione: puoi avere al massimo [Digit:5digits ] gemme a pagamento.
+Attenzione
+Questo mese hai comprato [Digit:6digits ] gemme. Fai attenzione a non comprarne troppe.
+
+Sì
+Acquisto annullato
+L'acquisto è stato annullato.
+Acquisto completato
+Hai comprato un prodotto.
+Notifiche
+Per la tua sicurezza, puoi ricevere una notifica ogni volta che il numero di gemme acquistate in un mese supera determinate soglie. Per attivare le notifiche, seleziona "Impostazioni" nel menu del Porygofono e poi tocca "On" in "Notifiche spese".
+Puoi comprare massimo [Digit:6digits ] gemme al mese. Questo mese hai già comprato [Digit:6digits ] gemme.
+Non puoi comprare altre gemme.
+Puoi comprare massimo [Digit:6digits ] gemme al mese. Questo mese hai già comprato [Digit:6digits ] gemme.
+I minorenni devono aver ricevuto l'autorizzazione dei genitori o di chi ne fa le veci per poter comprare delle gemme. Hai ottenuto l'autorizzazione di un genitore o di chi ne fa le veci?
+Notifiche spese
+Acquisto
+Scambio strumenti
+
+Scambiati
+Scambia
+Materiali insufficienti
+Evento
+Comuni
+
+
+
+Scambio completato
+Lo scambio è stato completato.
+
+Completa: [Name:QuestTitle ], "[Name:QuestTitle ]"
+
+Hai bisogno di
+
+Vuoi usare questi strumenti per fare lo scambio?
+Vuoi usare queste monete per fare lo scambio?
+Vuoi usare le monete e gli strumenti qui sopra per fare lo scambio?
+Barretta sbloccata!
+Il numero di barrette nella barra mosse è aumentato di 1.
+Non hai strumenti da scambiare
+Limite superato. Impossibile scambiare.
+Comuni
+
+
+Ricerca Unità
+Punti Unicerca
+Ricerca Unità
+Ricerca Unità x10
+Offerta di oggi
+A pagamento
+Chiudi
+Tasso comparsa
+Max [Digit:2digits ] v[IT:Qty S="." P="v." ]
+
+
+Max [Digit:2digits ] v[IT:Qty S="." P="v." ]
+Punti Unicerca al massimo! Cerca un'Unità a piacere!
+Tasso comparsa
+
+Punti Unicerca
+I tuoi punti Unicerca attuali
+Quando raggiungerai il massimo dei punti, potrai cercare un'Unità a scelta!
+Bonus incluso
+Conferma
+Vuoi usare [Digit:4digits ] gemme per fare dieci ricerche Unità di fila?
+Gemme in Borsa
+Senza costo
+A pagamento
+Vuoi usare [Digit:4digits ] gemme a pagamento per fare dieci ricerche Unità di fila?
+
+
+
+
+
+
+Tasso comparsa
+Informazioni importanti
+Unità con 5★ garantita 
+
+Il tasso di comparsa per numero di ★ è arrotondato oltre la quarta cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%. Il tasso di comparsa effettivo non viene arrotondato per eccesso o per difetto. A ogni ricerca Unità si applica lo stesso tasso di comparsa, pertanto ripetere la ricerca Unità più volte di seguito non garantisce la comparsa di una determinata Unità. È possibile che la stessa Unità compaia più volte nella ricerca. Anche se il Pokémon di un'Unità già ottenuta si è evoluto, le Unità identiche nella ricerca Unità saranno visualizzate con un Pokémon non ancora evoluto. I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa dell'Unità, possono evolversi tramite episodio evolutivo.
+Il tasso di comparsa per numero di ★ è arrotondato oltre la quarta cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%. Il tasso di comparsa effettivo non viene arrotondato per eccesso o per difetto. A ogni ricerca Unità si applica lo stesso tasso di comparsa, pertanto ripetere la ricerca Unità più volte di seguito non garantisce la comparsa di una determinata Unità. È possibile che la stessa Unità compaia più volte nella ricerca. Anche se il Pokémon di un'Unità già ottenuta si è evoluto, le Unità identiche nella ricerca Unità saranno visualizzate con un Pokémon non ancora evoluto. Nella decima estrazione, la selezione avverrà solo tra Unità con 5★. Per consultare il tasso di comparsa delle estrazioni che selezionano solo Unità con 5★, tocca il pulsante "Unità con 5★ garantita" nella schermata del tasso di comparsa. I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa dell'Unità, possono evolversi tramite episodio evolutivo.
+Informazioni importanti
+- Il numero di bonus ricevuti da ogni ricerca Unità è prestabilito. - Il numero di volte in cui è possibile ricevere un bonus verrà ripristinato durante il periodo successivo di ricerche Unità che prevedono bonus. - I bonus appariranno nel menu Regali.
+Risultati della ricerca Unità
+Bonus
+Nuova ricerca
+Hai raggiunto il massimo dei punti Unicerca. Scegli l'Unità che preferisci.
+Vuoi usare [Digit:3digits ] gemm[IT:Qty S="a" P="e" ] per fare una ricerca Unità?
+Vuoi usare [Digit:3digits ] gemm[IT:Qty S="a" P="e" ] a pagamento per fare una ricerca Unità?
+Gemme insufficienti
+Non hai abbastanza gemme per fare una ricerca Unità. Vuoi andare alla schermata di acquisto delle gemme?
+
+
+I punti Unicerca torneranno a 0 al termine del periodo di validità di questa ricerca Unità. I punti non verranno trasferiti nei nuovi periodi. Puoi scegliere solo tra le Unità disponibili nel corso di questa ricerca Unità.
+Il periodo per accettare questa Unità è terminato, perciò non puoi tornare indietro senza accettarla.
+Scadenza per la ricezione: [Name:DateTime ]. Superata la scadenza, non potrai più ricevere l'Unità. Apri la schermata "Ricerca Unità" per ricevere l'Unità.
+
+Avvertenze sull'utilizzo
+
+
+
+Riproduci video
+Riproduci il video dell'Unimossa dell'Unità in vetrina. Nel gioco saranno inclusi anche la voce dell'Allenatore e il nome dell'Unimossa. Attenzione: alcuni Allenatori non hanno battute.
+Spunta qui per non visualizzare più. Puoi trovare queste informazioni anche in "Domande frequenti".
+L'Unimossa di [Name:TrainerName ] e [Name:PokemonName ] è salita al livello [Digit:1digit ].
+Rinforzo
+Unità
+Verranno usate le gemme a pagamento. Nella ricerca Unità, le Unità sono mostrate con Pokémon non evoluti, anche se le hai già ottenute e ne hai fatto evolvere il Pokémon.
+Verranno usate le gemme senza costo. Nella ricerca Unità, le Unità sono mostrate con Pokémon non evoluti, anche se le hai già ottenute e ne hai fatto evolvere il Pokémon.
+Lista bonus
+Scambio accessori
+Accessori
+Filtra
+Ordina
+Monete
+Scambia
+Conferma
+Accessori da scambiare
+Vuoi scambiare questi accessori?
+Attenzione: una volta scambiati, gli accessori non potranno essere recuperati.
+No
+Sì
+Scambio completato
+Scambio effettuato con successo!
+Ok

@@ -1,0 +1,80 @@
+Paramètres
+Fermer
+Réinitialisation des paramètres
+Réinitialiser
+Combat
+Mode AUTO
+Mode AUTO rapide
+Mode AUTO automatique
+Vitesse des combats
+Ordre des actions
+Accélère les combats en mode AUTO.
+Active le mode AUTO si aucun ordre n'est donné pendant un moment.
+Affiche l'ordre des actions des alliés et des ennemis sous forme de liste.
+Oui
+Non
+Normal
+Rapide
+Très rapide
+Certains paramètres ne peuvent pas être modifiés en mode coop.
+Passer les animations
+Passe automatiquement les animations en combat.
+Conserver les paramètres
+Conserve les paramètres modifiés pendant un combat.
+Interface de combat
+PV des ennemis
+Affiche les PV des Duos ennemis.
+Cible uniquement
+Tous
+Cibles
+Affiche les cibles de chaque Duo ou seulement du joueur.
+Joueur seulement
+Les Duos utiliseront leurs capacités automatiquement en combat.
+Son
+Musique
+Effets sonores
+Voix (Dresseurs)
+Voix (Pokémon)
+Système
+Changer de surnom
+Modifier
+Veuillez entrer votre surnom.
+Vous pourrez le changer à nouveau dans [Digit:2digits ] jour[FR:Qty P="s" ].
+Langue des voix des personnages
+
+Alertes d'achat
+Notifications Push
+Langue du jeu
+Japonais
+Anglais
+Qualité des graphismes
+Diminuez la qualité des graphismes pour améliorer la performance du jeu.
+Faible
+Moyenne
+Élevée
+Maximale
+Nom du joueur
+Veuillez entrer votre surnom.
+Vous pouvez changer de surnom tous les 30 jours.
+Non
+Oui
+
+Erreur dans le nom
+Vous ne pouvez pas utiliser ce nom.
+Vous pourrez changer de surnom plus tard.
+Confirmation
+Les paramètres sonores vont être réinitialisés. Voulez-vous continuer ?
+Les paramètres système vont être réinitialisés. Voulez-vous continuer ?
+Votre aventure va être réinitialisée. Voulez-vous continuer ?
+Les paramètres de combat vont être réinitialisés. Voulez-vous continuer ?
+Paramètres mis à jour. Retour à l'écran titre.
+Voulez-vous utiliser ce surnom ?
+Ce surnom est trop long.
+Maximum : 14 caractères
+Maximum : 14 caractères
+Maximum : 10 caractères
+N'utilisez pas votre vrai nom.
+Aventure
+Défilement automatique
+Les dialogues défileront automatiquement.
+Accélération des dialogues

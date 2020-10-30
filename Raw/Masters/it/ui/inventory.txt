@@ -1,0 +1,12 @@
+inventory/login_bonus=Ricompensa [Name:LoginBonus ]
+inventory/temporary_item=Strumento per cui non c'è spazio in Borsa
+inventory/lottery_bonus=Strumento ottenuto con la ricerca Unità
+inventory/compensation_1=Compensazione
+inventory/compensation_2=Compensazione (bug)
+inventory/compensation_3=Regalo
+inventory/compensation_4=Compensazione (bug)
+inventory/maintenance_compensation=Compensazione (manutenzione)
+inventory/maintenance_delay_compensation=Compensazione (manutenzione)
+inventory/campaign_1=Regalo [Name:Campaign ]
+inventory/campaign_2=Premio [Name:Campaign ]
+inventory/autosold_item=

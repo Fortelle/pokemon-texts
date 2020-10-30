@@ -1,0 +1,80 @@
+Ajustes
+Cerrar
+Restablecer los ajustes
+Restablecer
+Combate
+Modo auto
+Modo auto rápido
+Modo auto automático
+Velocidad del combate
+Mostrar orden de acciones
+Los combates se desarrollarán más deprisa con el modo auto activado.
+El modo auto se activará si no se detecta ninguna actividad.
+Muestra una lista ordenada de las acciones de ambos bandos.
+SÍ
+NO
+Normal
+Rápida
+Muy rápida
+Algunas opciones no pueden modificarse durante el modo multijugador.
+Omisión automática
+Las animaciones del combate se omitirán automáticamente.
+Conservar ajustes
+Se conservarán los ajustes que modifiques durante un combate.
+Interfaz de combate
+Mostrar barra PS rival
+Muestra la barra de PS de los compis del bando rival.
+Solo seleccionados
+Todos
+Selección de objetivos
+Muestra el objetivo que cada compi tiene seleccionado.
+Solo uno mismo
+Los compis actuarán de forma independiente durante el combate.
+Sonido
+Música
+Efectos
+Voces de los Entrenadores
+Voces de los Pokémon
+Sistema
+Cambiar apodo
+Cambiar
+Introduce tu apodo.
+No podrás volver a cambiarlo hasta dentro de [Digit:2digits ] día[ES:Qty P="s" ].
+Idioma de las voces
+
+Alerta límite de compra
+Notificaciones push
+Idioma
+Japonés
+Inglés
+Calidad de los gráficos
+Cuanto más baja sea la calidad de los gráficos, mejor será el rendimiento del juego, aunque habrá menos detalle.
+Baja
+Media
+Alta
+Máxima
+Nombre del jugador
+Introduce tu apodo.
+Aviso: Una vez cambiado el apodo, deberás esperar un período de 30 días para poder volver a cambiarlo.
+No
+Sí
+
+Error en el nombre
+Ese nombre no es válido.
+Aviso: Podrás modificarlo más adelante.
+Confirmar
+¿Seguro que quieres restablecer los ajustes de sonido?
+¿Seguro que quieres restablecer los ajustes del sistema?
+¿Seguro que quieres restablecer los ajustes de la aventura?
+¿Seguro que quieres restablecer los ajustes de los combates?
+Se han guardado los ajustes. Volverás a la pantalla del título.
+¿Te parece bien este nombre?
+Has excedido el máximo de caracteres.
+Máximo de 14 caracteres.
+Máximo de 14 caracteres.
+Máximo de 10 caracteres.
+Aviso: No utilices tu nombre real.
+Aventura
+Diálogos automáticos
+Los diálogos se sucederán de forma automática.
+Aceleración de diálogos

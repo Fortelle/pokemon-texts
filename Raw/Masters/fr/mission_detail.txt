@@ -1,0 +1,19 @@
+1=Connectez-vous une fois par jour pendant [Digit:3digits ] jour[FR:Qty P="s" ].
+2=Obtenez [Digit:3digits ] Duos différents.
+3=Obtenez : [Name:Item ]
+4=Ayez une équipe de Force [Digit:6digits ] ou plus.
+5=Repoussez une limite de niveau [Digit:6digits ] fois.
+7=Finissez « [Name:QuestTitle ] » [Digit:6digits ] fois.
+20=Faites évoluer des Pokémon [Digit:6digits ] fois.
+9=Faites atteindre le N. [Digit:3digits ] à [Digit:6digits ] Duo[FR:Qty P="s" ].
+10=Associez votre jeu à votre compte Nintendo.
+11=Renforcez de l'équipement [Digit:6digits ] fois.
+12=Obtenez [Digit:6digits ] objet[FR:Qty P="s" ] par échange.
+15=Finissez « [Name:QuestTitle ] » [Digit:6digits ] fois avec l'équipe suivante :
+15_element=• [Name:TrainerName ] &\n  [Name:PokemonName ]
+16=Finissez « [Name:QuestTitle ] » [Digit:6digits ] fois en utilisant une équipe du type suivant :
+16_element=・ [Name:Type ]
+17=Renforcez des Duos [Digit:6digits ] fois.
+18=Obtenez [Digit:9digits ] Pièces.
+21=Finissez une zone avec un combat.
+19=Finissez l'aventure en coop.

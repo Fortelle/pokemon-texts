@@ -1,0 +1,19 @@
+1=Inicia sesión [Digit:3digits ] día[ES:Qty P="s" ].
+2=Consigue [Digit:3digits ] pareja[ES:Qty P="s" ] de compis.
+3=Consigue el siguiente objeto: [Name:Item ].
+4=Haz que tu equipo alcance una fuerza de [Digit:6digits ] o más.
+5=Aumenta el nivel máximo de tus compis [Digit:6digits ] ve[ES:Qty S="z" P="ces" ].
+7=Completa [Digit:6digits ] ve[ES:Qty S="z" P="ces" ] la ubicación "[Name:QuestTitle ]".
+20=Evoluciona Pokémon [Digit:6digits ] ve[ES:Qty S="z" P="ces" ].
+9=Haz que [Digit:6digits Sep="default" ] compi[ES:Qty P="s" ] alcancen el\nNv. [Digit:3digits ].
+10=Vincula una cuenta Nintendo.
+11=Mejora accesorios [Digit:6digits ] ve[ES:Qty S="z" P="ces" ].
+12=Consigue [Digit:6digits Sep="default" ] objeto[ES:Qty P="s" ] mediante\nintercambios.
+15=Completa [Digit:6digits ] ve[ES:Qty S="z" P="ces" ] la ubicación "[Name:QuestTitle ]" con el siguiente equipo:
+15_element=• [Name:TrainerName ]\ny [Name:PokemonName ]
+16=Completa la ubicación \n"[Name:QuestTitle ]"\n[Digit:6digits Sep="default" ] ve[ES:Qty S="z" P="ces" ] usando el siguiente tipo:
+16_element=• [Name:Type ]
+17=Fortalece a tus compis [Digit:6digits ] ve[ES:Qty S="z" P="ces" ].
+18=Consigue [Digit:9digits ] monedas.
+21=Completa ubicaciones con combates\nen solitario.
+19=Completa ubicaciones junto a otros\njugadores.

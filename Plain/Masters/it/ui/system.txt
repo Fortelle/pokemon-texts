@@ -1,0 +1,7 @@
+Ancora [Digit:3digits ] g[IT:Qty S="." P="g." ]
+[Digit:2digits ] minut[IT:Qty S="o" P="i" ] fa
+[Digit:2digits ] or[IT:Qty S="a" P="e" ] fa
+[Digit:2digits ] giorn[IT:Qty S="o" P="i" ] fa
+Più di [Digit:2digits ] gg. fa
+Termine: [Name:DateTime ]
+Pokémon Masters

@@ -1,0 +1,464 @@
+Immu. Empoisonnement
+Immunité Brûlure
+Immunité Paralysie
+Immunité Gel
+Immunité Grêle
+Immunité Sable
+Cocon de Sable
+Immunité Sommeil
+Immunité Confusion
+Immunité Peur
+Immunité Ligotage
+Résist. Empoisonnem. 1
+Résist. Empoisonnem. 2
+Résist. Empoisonnem. 3
+Résist. Empoisonnem. 4
+Résist. Empoisonnem. 5
+Résist. Empoisonnem. 6
+Résist. Empoisonnem. 7
+Résist. Empoisonnem. 8
+Résist. Empoisonnem. 9
+Résistance Paralysie 1
+Résistance Paralysie 2
+Résistance Paralysie 3
+Résistance Paralysie 4
+Résistance Paralysie 5
+Résistance Paralysie 6
+Résistance Paralysie 7
+Résistance Paralysie 8
+Résistance Paralysie 9
+Résistance Sommeil 1
+Résistance Sommeil 2
+Résistance Sommeil 3
+Résistance Sommeil 4
+Résistance Sommeil 5
+Résistance Sommeil 6
+Résistance Sommeil 7
+Résistance Sommeil 8
+Résistance Sommeil 9
+Résistance Brûlure 1
+Résistance Brûlure 2
+Résistance Brûlure 3
+Résistance Brûlure 4
+Résistance Brûlure 5
+Résistance Brûlure 6
+Résistance Brûlure 7
+Résistance Brûlure 8
+Résistance Brûlure 9
+Résistance Gel 1
+Résistance Gel 2
+Résistance Gel 3
+Résistance Gel 4
+Résistance Gel 5
+Résistance Gel 6
+Résistance Gel 7
+Résistance Gel 8
+Résistance Gel 9
+Résistance Confusion 1
+Résistance Confusion 2
+Résistance Confusion 3
+Résistance Confusion 4
+Résistance Confusion 5
+Résistance Confusion 6
+Résistance Confusion 7
+Résistance Confusion 8
+Résistance Confusion 9
+Résistance Peur 1
+Résistance Peur 2
+Résistance Peur 3
+Résistance Peur 4
+Résistance Peur 5
+Résistance Peur 6
+Résistance Peur 7
+Résistance Peur 8
+Résistance Peur 9
+Résistance Ligotage 1
+Résistance Ligotage 2
+Résistance Ligotage 3
+Résistance Ligotage 4
+Résistance Ligotage 5
+Résistance Ligotage 6
+Résistance Ligotage 7
+Résistance Ligotage 8
+Résistance Ligotage 9
+Résilience
+Résistance ↓Attaque 1
+Résistance ↓Attaque 2
+Résistance ↓Attaque 3
+Résistance ↓Attaque 4
+Résistance ↓Attaque 5
+Résistance ↓Attaque 6
+Résistance ↓Attaque 7
+Résistance ↓Attaque 8
+Résistance ↓Attaque 9
+Résistance ↓Défense 1
+Résistance ↓Défense 2
+Résistance ↓Défense 3
+Résistance ↓Défense 4
+Résistance ↓Défense 5
+Résistance ↓Défense 6
+Résistance ↓Défense 7
+Résistance ↓Défense 8
+Résistance ↓Défense 9
+Résist. ↓Atq. Spé. 1
+Résist. ↓Atq. Spé. 2
+Résist. ↓Atq. Spé. 3
+Résist. ↓Atq. Spé. 4
+Résist. ↓Atq. Spé. 5
+Résist. ↓Atq. Spé. 6
+Résist. ↓Atq. Spé. 7
+Résist. ↓Atq. Spé. 8
+Résist. ↓Atq. Spé. 9
+Résist. ↓Déf. Spé. 1
+Résist. ↓Déf. Spé. 2
+Résist. ↓Déf. Spé. 3
+Résist. ↓Déf. Spé. 4
+Résist. ↓Déf. Spé. 5
+Résist. ↓Déf. Spé. 6
+Résist. ↓Déf. Spé. 7
+Résist. ↓Déf. Spé. 8
+Résist. ↓Déf. Spé. 9
+Résistance ↓Vitesse 1
+Résistance ↓Vitesse 2
+Résistance ↓Vitesse 3
+Résistance ↓Vitesse 4
+Résistance ↓Vitesse 5
+Résistance ↓Vitesse 6
+Résistance ↓Vitesse 7
+Résistance ↓Vitesse 8
+Résistance ↓Vitesse 9
+Résist. ↓Précision 1
+Résist. ↓Précision 2
+Résist. ↓Précision 3
+Résist. ↓Précision 4
+Résist. ↓Précision 5
+Résist. ↓Précision 6
+Résist. ↓Précision 7
+Résist. ↓Précision 8
+Résist. ↓Précision 9
+Résistance ↓Esquive 1
+Résistance ↓Esquive 2
+Résistance ↓Esquive 3
+Résistance ↓Esquive 4
+Résistance ↓Esquive 5
+Résistance ↓Esquive 6
+Résistance ↓Esquive 7
+Résistance ↓Esquive 8
+Résistance ↓Esquive 9
+Résistance ↓Stats 1
+Résistance ↓Stats 2
+Résistance ↓Stats 3
+Résistance ↓Stats 4
+Résistance ↓Stats 5
+Résistance ↓Stats 6
+Résistance ↓Stats 7
+Résistance ↓Stats 8
+Résistance ↓Stats 9
+Restauration
+Cœur Fier 1
+Cœur Fier 2
+Cœur Fier 3
+Cœur Fier 4
+Cœur Fier 5
+Cœur Fier 6
+Cœur Fier 7
+Cœur Fier 8
+Cœur Fier 9
+Combativité 1
+Combativité 2
+Combativité 3
+Combativité 4
+Combativité 5
+Combativité 6
+Combativité 7
+Combativité 8
+Combativité 9
+
+Immunité ↓Attaque
+Immunité ↓Défense
+Immunité ↓Atq. Spé.
+Immunité ↓Déf. Spé.
+Immunité ↓Vitesse
+Immunité ↓Précision
+Immunité ↓Esquive
+Immu. ↓Taux Crit.
+Immunité ↓Stats
+Immunité Critique
+Air Nocif 1
+Air Nocif 2
+Air Nocif 3
+Air Nocif 4
+Air Nocif 5
+Air Nocif 6
+Air Nocif 7
+Air Nocif 8
+Air Nocif 9
+Tourmenteur 1
+Tourmenteur 2
+Tourmenteur 3
+Tourmenteur 4
+Tourmenteur 5
+Tourmenteur 6
+Tourmenteur 7
+Tourmenteur 8
+Tourmenteur 9
+Pleine Forme 1
+Pleine Forme 2
+Pleine Forme 3
+Pleine Forme 4
+Pleine Forme 5
+Pleine Forme 6
+Pleine Forme 7
+Pleine Forme 8
+Pleine Forme 9
+Liens Profonds 1
+Liens Profonds 2
+Liens Profonds 3
+Liens Profonds 4
+Liens Profonds 5
+Liens Profonds 6
+Liens Profonds 7
+Liens Profonds 8
+Liens Profonds 9
+Pouvoir Sable 1
+Pouvoir Sable 2
+Pouvoir Sable 3
+Pouvoir Sable 4
+Pouvoir Sable 5
+Pouvoir Sable 6
+Pouvoir Sable 7
+Pouvoir Sable 8
+Pouvoir Sable 9
+Puissance Altération 1
+Puissance Altération 2
+Puissance Altération 3
+Puissance Altération 4
+Puissance Altération 5
+Puissance Altération 6
+Puissance Altération 7
+Puissance Altération 8
+Puissance Altération 9
+Ultra-Efficace 1
+Ultra-Efficace 2
+Ultra-Efficace 3
+Ultra-Efficace 4
+Ultra-Efficace 5
+Ultra-Efficace 6
+Ultra-Efficace 7
+Ultra-Efficace 8
+Ultra-Efficace 9
+Condensateur 1
+Condensateur 2
+Condensateur 3
+Condensateur 4
+Condensateur 5
+Condensateur 6
+Condensateur 7
+Condensateur 8
+Condensateur 9
+Coriacité
+Œil Aiguisé
+Balaie-Sable
+Dissuasion 1
+Dissuasion 2
+Dissuasion 3
+Dissuasion 4
+Dissuasion 5
+Dissuasion 6
+Dissuasion 7
+Dissuasion 8
+Dissuasion 9
+Critique Brutal 1
+Critique Brutal 2
+Critique Brutal 3
+Critique Brutal 4
+Critique Brutal 5
+Critique Brutal 6
+Critique Brutal 7
+Critique Brutal 8
+Critique Brutal 9
+Puissance Critique 1
+Puissance Critique 2
+Puissance Critique 3
+Puissance Critique 4
+Puissance Critique 5
+Puissance Critique 6
+Puissance Critique 7
+Puissance Critique 8
+Puissance Critique 9
+Critique Rapide 1
+Critique Rapide 2
+Critique Rapide 3
+Critique Rapide 4
+Critique Rapide 5
+Critique Rapide 6
+Critique Rapide 7
+Critique Rapide 8
+Critique Rapide 9
+Critiques en Chaîne 1
+Critiques en Chaîne 2
+Critiques en Chaîne 3
+Critiques en Chaîne 4
+Critiques en Chaîne 5
+Critiques en Chaîne 6
+Critiques en Chaîne 7
+Critiques en Chaîne 8
+Critiques en Chaîne 9
+Premiers Soins 1
+Premiers Soins 2
+Premiers Soins 3
+Premiers Soins 4
+Premiers Soins 5
+Premiers Soins 6
+Premiers Soins 7
+Premiers Soins 8
+Premiers Soins 9
+Cryophilie 1
+Cryophilie 2
+Cryophilie 3
+Cryophilie 4
+Cryophilie 5
+Cryophilie 6
+Cryophilie 7
+Cryophilie 8
+Cryophilie 9
+Esquive Sable
+Turbo Pluie 1
+Turbo Pluie 2
+Turbo Pluie 3
+Turbo Pluie 4
+Turbo Pluie 5
+Turbo Pluie 6
+Turbo Pluie 7
+Turbo Pluie 8
+Turbo Pluie 9
+Turbo Soleil 1
+Turbo Soleil 2
+Turbo Soleil 3
+Turbo Soleil 4
+Turbo Soleil 5
+Turbo Soleil 6
+Turbo Soleil 7
+Turbo Soleil 8
+Turbo Soleil 9
+Turbo Altération 1
+Turbo Altération 2
+Turbo Altération 3
+Turbo Altération 4
+Turbo Altération 5
+Turbo Altération 6
+Turbo Altération 7
+Turbo Altération 8
+Turbo Altération 9
+Dos au Mur 1
+Dos au Mur 2
+Dos au Mur 3
+Dos au Mur 4
+Dos au Mur 5
+Dos au Mur 6
+Dos au Mur 7
+Dos au Mur 8
+Dos au Mur 9
+Protection Solaire
+Célérité 1
+Célérité 2
+Célérité 3
+Célérité 4
+Célérité 5
+Célérité 6
+Célérité 7
+Célérité 8
+Célérité 9
+Traitement Alliés 1
+Traitement Alliés 2
+Traitement Alliés 3
+Traitement Alliés 4
+Traitement Alliés 5
+Traitement Alliés 6
+Traitement Alliés 7
+Traitement Alliés 8
+Traitement Alliés 9
+Transperceur
+Attaque Furie 1
+Attaque Furie 2
+Attaque Furie 3
+Attaque Furie 4
+Attaque Furie 5
+Attaque Furie 6
+Attaque Furie 7
+Attaque Furie 8
+Attaque Furie 9
+Déstabilisateur 1
+Déstabilisateur 2
+Déstabilisateur 3
+Déstabilisateur 4
+Déstabilisateur 5
+Déstabilisateur 6
+Déstabilisateur 7
+Déstabilisateur 8
+Déstabilisateur 9
+Renforce-Combo 1
+Renforce-Combo 2
+Renforce-Combo 3
+Renforce-Combo 4
+Renforce-Combo 5
+Renforce-Combo 6
+Renforce-Combo 7
+Renforce-Combo 8
+Renforce-Combo 9
+Conversion Fée
+Conversion Vol
+Conversion Eau
+Conversion Feu
+Conversion Électrik
+Conversion Plante
+Conversion Roche
+Conversion Sol
+Conversion Psy
+Conversion Insecte
+Conversion Glace
+Conversion Ténèbres
+Conversion Acier
+Conversion Spectre
+Conversion Poison
+Conversion Combat
+Conversion Dragon
+Cadeau d'Adieu
+Passe-Bâton
+Délinquant 1
+Délinquant 2
+Délinquant 3
+Délinquant 4
+Délinquant 5
+Délinquant 6
+Délinquant 7
+Délinquant 8
+Délinquant 9
+Stoïque 1
+Stoïque 2
+Stoïque 3
+Stoïque 4
+Stoïque 5
+Stoïque 6
+Stoïque 7
+Stoïque 8
+Stoïque 9
+Résistance Normal
+Résistance Feu
+Résistance Eau
+Résistance Électrik
+Résistance Plante
+Résistance Glace
+Résistance Combat
+Résistance Poison
+Résistance Sol
+Résistance Vol
+Résistance Psy
+Résistance Insecte
+Résistance Roche
+Résistance Spectre
+Résistance Dragon
+Résistance Ténèbres
+Résistance Acier
+Résistance Fée
+Déclic Tactique

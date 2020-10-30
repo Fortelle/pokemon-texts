@@ -1,0 +1,127 @@
+AUTO
+Weakness
+NEXT
+Which sync pair do you want to use it on?
+Super effective!
+Critical hit!
+Poisoned
+Burned
+Confused
+Trapped
+Recoil
+Paralyzed
+Reflect
+Miss!
+Failure
+[Name:Move ]
+[Name:Move ]
+Unity
+Go with this sync pair!
+Badly Poisoned
+Switch!
+Nice!
+Watch out!
+Let's do this!
+Unstable connection!
+Connection error!
+Due to instability, the connection to the server was lost. The battle will continue, but your allied sync pairs will become AI.
+Connection lost!
+Uh-oh!
+Uh-oh! Oh no!
+Counter!
+Protect!
+Heal me!
+Attack together!
+Defend together!
+Disrupt 'em!
+Strengthen me!
+Sorry...
+Healing!
+Strengthening!
+Attacking!
+Defending!
+Disrupting!
+I can't use it!
+Burned
+Frozen
+Paralyzed
+Poisoned
+Badly Poisoned
+Asleep
+Confused
+Flinching
+Resistance up!
+Can't dodge!
+Endure...
+Healing...
+Critical hit next!
+Trapped!
+Negate conditions
+Sure hit next!
+Counter!
+Protect!
+Attack [Digit:1digit ]
+Defense [Digit:1digit ]
+Sp. Atk [Digit:1digit ]
+Sp. Def [Digit:1digit ]
+Speed [Digit:1digit ]
+Evasiveness [Digit:1digit ]
+Accuracy [Digit:1digit ]
+Critical-Hit Rate [Digit:1digit ]
+Physical damage ↓
+Special damage ↓
+Reflect status conditions!
+Reflect stat reductions!
+Status move defense
+Stat reduction defense
+Critical hit defense
+Status condition defense
+Can't switch!
+Move gauge acceleration
+Unity disrupted!
+Chain time reduced!
+Sync Move
+Switching!
+Sync move ready!
+Freed!
+OK!
+Helping attack!
+Helping defend!
+Left
+Center
+Right
+Strategy Emote
+Trainer Emote
+Trainer Emote [Digit:1digit ]
+Super effective
+×<attr size='78'>[Digit:1digit ]</attr>
+Chain interrupted...
+Supereffective bonus!
+Maxed!
+VS
+Chain!
+Unity bonus!
+Remaining:
+Received: 
+Victory!
+XP
+Lv.
+XP to level up:
+ 
+MAX
+Make friends with your teammates!
+Friend request
+Request
+Cancel request
+Current friends
+OK
+[Name:PokemonName ]'s sync move!
+You are challenged by [Name:TrainerNameAndType ]!
+[Name:PokemonName ] fainted!
+You defeated [Name:TrainerNameAndType ]!
+[Name:PlayerNickname ]'s team has no more sync pairs that can fight!
+Spectating
+Return to the Pokémon Center?
+Confirm
+Are you sure you want to return to the Pokémon Center? Note: If you go back now, you won't receive the reward if your friends win.
+You lost to [Name:TrainerNameAndType ]!

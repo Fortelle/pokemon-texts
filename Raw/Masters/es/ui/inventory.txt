@@ -1,0 +1,12 @@
+inventory/login_bonus=Premio [Name:LoginBonus ]
+inventory/temporary_item=Límite superado
+inventory/lottery_bonus=Objetos de reclutamiento
+inventory/compensation_1=Compensación
+inventory/compensation_2=Compensación (error)
+inventory/compensation_3=Regalos
+inventory/compensation_4=Compensación (error)
+inventory/maintenance_compensation=Compensación (mantenimiento)
+inventory/maintenance_delay_compensation=Compensación (mantenimiento)
+inventory/campaign_1=Regalo: [Name:Campaign ]
+inventory/campaign_2=Premios: [Name:Campaign ]
+inventory/autosold_item=

@@ -1,0 +1,127 @@
+AUTO
+Faiblesse
+Suivant
+Sur quel Duo voulez-vous utiliser cet objet ?
+Super efficace !
+Coup critique !
+Poison
+Brûlure
+Confusion
+Ligotage
+Contrecoup
+Paralysie
+Renvoi
+Raté !
+Raté
+[Name:Move ]
+[Name:Move ]
+Jauge Combo
+Le coup de grâce !
+Poison grave
+Changer
+Bien !
+Danger !
+Merci !
+Mauvaise connexion
+Erreur de connexion
+La connexion est instable, et vous avez été déconnecté du serveur. Le combat va continuer, mais les Duos alliés vont être remplacés par des IA.
+Connexion interrompue
+Je vais faire de mon mieux !
+Je vais tout donner !
+Riposte
+Abri
+Soignez-moi !
+À l'attaque !
+Protégez-vous !
+Bloquez-le !
+Boostez-moi !
+Pardon...
+Je te soigne !
+Je te booste !
+J'attaque !
+Je me protège !
+Je le bloque !
+Impossible !
+Brûlure
+Gel
+Paralysie
+Poison
+Poison grave
+Sommeil
+Confusion
+Peur
+Résistance +
+Esquive impossible
+Prêt à encaisser
+Régénération
+Coup critique assuré
+Ligotage
+Immunité statuts
+Prochain coup assuré
+Riposte
+Abri
+Attaque [Digit:1digit ]
+Défense [Digit:1digit ]
+Attaque Spéciale [Digit:1digit ]
+Défense Spéciale [Digit:1digit ]
+Vitesse [Digit:1digit ]
+Esquive [Digit:1digit ]
+Précision [Digit:1digit ]
+Taux de critiques [Digit:1digit ]
+Dégâts physiques ↓
+Dégâts spéciaux ↓
+Renvoi statuts
+Renvoi baisses de stats
+Anti-capa. statut
+Anti-baisses de stats
+Anti-critiques
+Anti-altérations
+Changement impossible
+Accélération Jauge Capa.
+Synchro entravée
+Synchro raccourcie
+Capacité Duo
+Je change !
+Cap. Duo prête !
+Libéré !
+OK !
+Soutien offensif
+Soutien défensif
+Gauche
+Centre
+Droite
+Icône Stratégie
+Icône Réaction
+Icône Réaction [Digit:1digit ]
+Super efficace !
+× <attr size='78'>[Digit:1digit ]</attr>
+Combo interrompu...
+Bonus d'efficacité !
+MAX !
+Contre
+Combo !
+Combo Synchro !
+Encore
+Récompense
+VICTOIRE !
+Expérience
+N.
+Prochain N.
+dans
+MAX
+Devenez amis avec vos coéquipiers !
+Invitations
+Inviter
+Annuler
+Nombre d'amis
+OK
+[Name:PokemonName ] utilise une capacité Duo !
+[Name:TrainerNameAndType ] veut se battre !
+[Name:PokemonName ] est K.O. !
+Vous avez battu [Name:TrainerNameAndType ] !
+[Name:PlayerNickname ] et ses équipiers n'ont plus de Duo en état de combattre !
+Visionnage
+Revenir au Centre Pokémon ?
+Confirmer
+Voulez-vous vraiment revenir au Centre Pokémon ? <attr color='eb1414'>Si vous rentrez maintenant, vous n'obtiendrez pas de récompense si vos alliés gagnent.</attr>
+[Name:TrainerNameAndType ] vous a battu[FR:Gen Ref="255" F="e" ] !

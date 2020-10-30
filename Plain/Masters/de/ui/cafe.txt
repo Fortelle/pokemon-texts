@@ -1,0 +1,265 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Level erhöhen
+
+Lv.
+MAX
+Nächster Lv. in:
+Noch
+KP
+Angriff
+Vert.
+Sp.-Ang.
+Sp.-Vert.
+Initiative
+Zurücksetzen
+OK
+Level erhöhen
+Möchtest du diese Items einsetzen, um den Level zu erhöhen?
+Nein
+Ja
+
+
+Team
+Team ändern
+Level erhöhen
+Limitbruch
+Potenzial erhöhen
+Att./Fähigk. erlernen
+Ausrüstung verstärken
+Team ändern
+Kraft
+[Name:TrainerName ]
+Lv.
+MAX
+Rolle
+Schwäche
+
+[Name:PokemonName ]
+[Name:Move ]
+
+Filter
+
+
+
+
+
+Teamauswahl
+Einzel
+Multi
+
+
+Nr. [Digit:2digits ]
+
+Kraft
+Auflösen
+Anordnen
+Auflösen
+
+Team-Empfehlung
+Bitte wähle den Typ des Teams.
+Keiner
+
+
+
+
+
+Auflösen
+Empfehlung
+
+
+Willst du dir ein Team empfehlen lassen?
+Du kannst nicht alle Teams auflösen.
+
+
+
+
+
+Nr. [Digit:2digits ]
+Teamname
+
+
+Gib einen Namen für dein Team ein.
+[Name:TrainerName ]
+[Name:PokemonName ]
+
+
+
+Team [Digit:2digits ]
+Bist du mit dem Namen einverstanden?
+Soll das Team aufgelöst werden?
+Gefährten und Ausrüstung gehen dabei nicht verloren.
+Kraft
+Gefährten
+Leer
+Empfehlung
+Einzelteam
+Multiteam
+Die Gefährten in der mittleren Position können nicht entfernt werden.
+Diese Gefährten befinden sich in der mittleren Position und können daher nicht ausgewählt werden.
+Es befindet sich bereits ein Trainer mit identischem Namen im Team. Bitte wähle andere Gefährten.
+Teamauswahl
+Es können nicht alle Gefährten entfernt werden.
+Ausgewählt
+Limitbruch
+Level-Limit
+
+OK
+Max. Limit erreicht
+Bestätigen
+Möchtest du diese Items einsetzen, um mit einem Limitbruch die Levelobergrenze zu erhöhen?
+Limitbruch!
+Level-Limit [Digit:3digits ]
+Benötigte Items
+Im Besitz
+Ausrüstung verstärken
+Basis auswählen
+MAX
+Grenzbruch
+Ausrüstung
+Tauschen
+Filter
+Sortieren
+Ausrüstung verstärken
+Grenze durchbrechen
+OK
+Basisausrüstung
+Benötigte Items
+Münzen
+OK
+Bestätigen
+Benötigte Items
+Münzen
+Möchtest du diese Items zum Verstärken einsetzen?
+Nein
+Ja
+Verstärkt!
+Weiterverstärken
+OK
+Bändchen
+Bandana
+Brosche
+Spezial-Items
+Alle
+Grenzbruch
+Bruch
+Grenzbruch
+Lv.
+Möchtest du diese Items für einen Grenzbruch einsetzen?
+Hinweis: Ein Ausrüstungsitem mit Lv. 2 oder höher wurde als Material ausgewählt.
+Nein
+Ja
+Neuer Grenzbruch
+OK
+Grenzbruch!
+Du hast keine passenden Items.
+Potenzial erhöhen
+
+Möchtest du diese Items einsetzen, um die Anzahl der ★ zu erhöhen?
+
+
+Noch
+Bestätigen
+Der Nutzungszeitraum des Items ist abgelaufen. Es kann nicht mehr verwendet werden.
+
+Potenzial erhöht!
+
+Nutzungszeitraum abgelaufen
+
+Leer
+Ausrüstung ändern
+OK
+Att./Fähigk. erlernen
+
+
+Typ
+
+Kategorie
+
+Stärke
+Genauigkeit
+Reichweite
+
+Zusatzeffekt
+
+
+
+
+
+Attacke
+Passivfähigkeit
+OK
+
+
+Möchtest du diese Items einsetzen, um die Attacke zu erlernen?
+Neue Attacke erlernt!
+
+
+
+
+
+
+Möchtest du diese Items einsetzen, um die Passivfähigkeit zu erlernen?
+Neue Passivfähigkeit erlernt!
+
+Erlernt

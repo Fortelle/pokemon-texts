@@ -1,0 +1,6 @@
+PV [Digit:5digits ]
+Attaque [Digit:5digits ]
+Défense [Digit:5digits ]
+Attaque Spéciale [Digit:5digits ]
+Défense Spéciale [Digit:5digits ]
+Vitesse [Digit:5digits ]

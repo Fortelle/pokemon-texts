@@ -1,0 +1,6 @@
+KP: [Digit:5digits ]
+Angriff: [Digit:5digits ]
+Verteidigung: [Digit:5digits ]
+Spezial-Angriff: [Digit:5digits ]
+Spezial-Verteidigung: [Digit:5digits ]
+Initiative: [Digit:5digits ]

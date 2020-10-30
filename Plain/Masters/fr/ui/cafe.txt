@@ -1,0 +1,265 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monter de niveau
+
+N.
+MAX
+Prochain niveau
+Encore
+PV
+Attaque
+Défense
+Atq. Spé.
+Déf. Spé.
+Vitesse
+Réinitialiser
+OK
+Renforcer
+Voulez-vous utiliser ces objets pour renforcer ce Duo ?
+Non
+Oui
+
+
+Équipe
+Modifier équipe
+Monter de niveau
+Repousser la limite
+Augmenter potentiel
+Capacités et talents
+Renforcer l'équipement
+Modifier l'équipe
+Force
+[Name:TrainerName ]
+N.
+MAX
+Rôle
+Faiblesse
+
+[Name:PokemonName ]
+[Name:Move ]
+
+Filtre
+
+
+
+
+
+Équipes
+Solo
+Coop
+
+
+Nº [Digit:2digits ]
+
+Force
+Dissoudre
+Réarranger
+Dissoudre
+
+Équipe recommandée
+Choisissez un type :
+Aucun
+
+
+
+
+
+Dissoudre
+Recommandé
+
+
+Utiliser l'équipe recommandée ?
+Impossible de dissoudre toutes les équipes.
+
+
+
+
+
+Nº [Digit:2digits ]
+Nom de l'équipe
+
+
+Donnez un nom à cette équipe.
+[Name:TrainerName ]
+[Name:PokemonName ]
+
+
+
+Équipe [Digit:2digits ]
+Confirmer le nom de l'équipe ?
+Voulez-vous dissoudre l'équipe ?
+Vous ne perdrez ni les Duos ni leur équipement.
+Force
+Duo
+Vide
+Conseillé
+Équipe solo
+Équipe coop
+Impossible de retirer le Duo du centre.
+Le Duo est positionné au centre. Impossible de le sélectionner.
+Un Dresseur identique est déjà sélectionné. Veuillez choisir un autre Duo.
+Équipes
+Impossible de retirer tous les Duos.
+Sélection
+Repousser la limite
+Limite de N.
+
+OK
+Limite atteinte
+Confirmation
+Voulez-vous utiliser ces objets pour repousser la limite de niveau ?
+Limite ↑ !
+Niveau max : [Digit:3digits ]
+Objets nécessaires
+Sac :
+Renforcer l'équipement
+Choisir l'objet de base
+MAX
+Débloquer N.
+Équipement
+Vendre
+Filtrer
+Trier
+Renforcer
+Débloquer N. max.
+OK
+Objet de base
+Objets nécessaires
+Pièces
+OK
+Valider
+Objets nécessaires
+Pièces
+Utiliser ces objets ?
+Non
+Oui
+Objet renforcé !
+Continuer
+OK
+Bracelet
+Bandana
+Broche
+
+
+Débloquer N. max.
+N. débloqué
+Débloquer
+N.
+Débloquer le niveau max. ?
+Attention : objets de N. 2 ou plus choisis
+Non
+Oui
+Continuer
+OK
+Objet sublimé !
+Aucun objet disponible.
+Augmenter potentiel
+
+Voulez-vous utiliser cet objet pour augmenter le potentiel ?
+
+
+Encore
+Valider
+La date d'utilisation d'au moins un des objets sélectionnés est expirée. Utilisation impossible. 
+
+Potentiel augmenté !
+
+Limite atteinte
+
+Vide
+Changer d'équipement
+OK
+Capacités et talents
+
+
+Type
+
+Catégorie
+
+Puissance
+Précision
+Cible
+
+Effet
+
+
+
+
+
+Capacité
+Talent passif
+OK
+
+
+Voulez-vous utiliser ces objets pour apprendre la capacité ?
+Capacité apprise !
+
+
+
+
+
+
+Voulez-vous utiliser ces objets pour apprendre le talent passif ?
+Talent appris !
+
+Appris
