@@ -1,0 +1,25 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Create project",
+            "type": "shell",
+            "command": "git worktree add ../${workspaceFolderBasename}-${input:gameKey} -b ${input:gameKey} init",
+        },
+        {
+            "label": "Edit project",
+            "type": "shell",
+            "command": "git worktree add ../${workspaceFolderBasename}-${input:gameKey} ${input:gameKey}",
+        }
+    ],
+    "inputs": [
+        {
+          "type": "promptString",
+          "id": "gameKey",
+          "description": "Input game key",
+          "default": "game"
+        }
+    ]
+}
