@@ -1,0 +1,11 @@
+What is your name?
+What would you like to nickname your <var>?
+Please enter the code or password.
+What is your rival's name?
+Please enter a name.
+That name contains a word you can't use.
+
+
+Please enter a name.
+The code or password is invalid.
+You can't use "<var>" in a name.
