@@ -1,0 +1,3308 @@
+!
+!
+!
+!
+<var> utilise Écras'Face !
+<var> sauvage utilise Écras'Face !
+<var> ennemi utilise Écras'Face !
+<var> <var> utilise Écras'Face !
+<var> utilise Poing Karaté !
+<var> sauvage utilise Poing Karaté !
+<var> ennemi utilise Poing Karaté !
+<var> <var> utilise Poing Karaté !
+<var> utilise Torgnoles !
+<var> sauvage utilise Torgnoles !
+<var> ennemi utilise Torgnoles !
+<var> <var> utilise Torgnoles !
+<var> utilise Poing Comète !
+<var> sauvage utilise Poing Comète !
+<var> ennemi utilise Poing Comète !
+<var> <var> utilise Poing Comète !
+<var> utilise Ultimapoing !
+<var> sauvage utilise Ultimapoing !
+<var> ennemi utilise Ultimapoing !
+<var> <var> utilise Ultimapoing !
+<var> utilise Jackpot !
+<var> sauvage utilise Jackpot !
+<var> ennemi utilise Jackpot !
+<var> <var> utilise Jackpot !
+<var> utilise Poing Feu !
+<var> sauvage utilise Poing Feu !
+<var> ennemi utilise Poing Feu !
+<var> <var> utilise Poing Feu !
+<var> utilise Poing Glace !
+<var> sauvage utilise Poing Glace !
+<var> ennemi utilise Poing Glace !
+<var> <var> utilise Poing Glace !
+<var> utilise Poing Éclair !
+<var> sauvage utilise Poing Éclair !
+<var> ennemi utilise Poing Éclair !
+<var> <var> utilise Poing Éclair !
+<var> utilise Griffe !
+<var> sauvage utilise Griffe !
+<var> ennemi utilise Griffe !
+<var> <var> utilise Griffe !
+<var> utilise Force Poigne !
+<var> sauvage utilise Force Poigne !
+<var> ennemi utilise Force Poigne !
+<var> <var> utilise Force Poigne !
+<var> utilise Guillotine !
+<var> sauvage utilise Guillotine !
+<var> ennemi utilise Guillotine !
+<var> <var> utilise Guillotine !
+<var> utilise Coupe-Vent !
+<var> sauvage utilise Coupe-Vent !
+<var> ennemi utilise Coupe-Vent !
+<var> <var> utilise Coupe-Vent !
+<var> utilise Danse Lames !
+<var> sauvage utilise Danse Lames !
+<var> ennemi utilise Danse Lames !
+<var> <var> utilise Danse Lames !
+<var> utilise Coupe !
+<var> sauvage utilise Coupe !
+<var> ennemi utilise Coupe !
+<var> <var> utilise Coupe !
+<var> utilise Tornade !
+<var> sauvage utilise Tornade !
+<var> ennemi utilise Tornade !
+<var> <var> utilise Tornade !
+<var> utilise Cru-Ailes !
+<var> sauvage utilise Cru-Ailes !
+<var> ennemi utilise Cru-Ailes !
+<var> <var> utilise Cru-Ailes !
+<var> utilise Cyclone !
+<var> sauvage utilise Cyclone !
+<var> ennemi utilise Cyclone !
+<var> <var> utilise Cyclone !
+<var> utilise Vol !
+<var> sauvage utilise Vol !
+<var> ennemi utilise Vol !
+<var> <var> utilise Vol !
+<var> utilise Étreinte !
+<var> sauvage utilise Étreinte !
+<var> ennemi utilise Étreinte !
+<var> <var> utilise Étreinte !
+<var> utilise Souplesse !
+<var> sauvage utilise Souplesse !
+<var> ennemi utilise Souplesse !
+<var> <var> utilise Souplesse !
+<var> utilise Fouet Lianes !
+<var> sauvage utilise Fouet Lianes !
+<var> ennemi utilise Fouet Lianes !
+<var> <var> utilise Fouet Lianes !
+<var> utilise Écrasement !
+<var> sauvage utilise Écrasement !
+<var> ennemi utilise Écrasement !
+<var> <var> utilise Écrasement !
+<var> utilise Double Pied !
+<var> sauvage utilise Double Pied !
+<var> ennemi utilise Double Pied !
+<var> <var> utilise Double Pied !
+<var> utilise Ultimawashi !
+<var> sauvage utilise Ultimawashi !
+<var> ennemi utilise Ultimawashi !
+<var> <var> utilise Ultimawashi !
+<var> utilise Pied Sauté !
+<var> sauvage utilise Pied Sauté !
+<var> ennemi utilise Pied Sauté !
+<var> <var> utilise Pied Sauté !
+<var> utilise Mawashi Geri !
+<var> sauvage utilise Mawashi Geri !
+<var> ennemi utilise Mawashi Geri !
+<var> <var> utilise Mawashi Geri !
+<var> utilise Jet de Sable !
+<var> sauvage utilise Jet de Sable !
+<var> ennemi utilise Jet de Sable !
+<var> <var> utilise Jet de Sable !
+<var> utilise Coup d'Boule !
+<var> sauvage utilise Coup d'Boule !
+<var> ennemi utilise Coup d'Boule !
+<var> <var> utilise Coup d'Boule !
+<var> utilise Koud'Korne !
+<var> sauvage utilise Koud'Korne !
+<var> ennemi utilise Koud'Korne !
+<var> <var> utilise Koud'Korne !
+<var> utilise Furie !
+<var> sauvage utilise Furie !
+<var> ennemi utilise Furie !
+<var> <var> utilise Furie !
+<var> utilise Empal'Korne !
+<var> sauvage utilise Empal'Korne !
+<var> ennemi utilise Empal'Korne !
+<var> <var> utilise Empal'Korne !
+<var> utilise Charge !
+<var> sauvage utilise Charge !
+<var> ennemi utilise Charge !
+<var> <var> utilise Charge !
+<var> utilise Plaquage !
+<var> sauvage utilise Plaquage !
+<var> ennemi utilise Plaquage !
+<var> <var> utilise Plaquage !
+<var> utilise Ligotage !
+<var> sauvage utilise Ligotage !
+<var> ennemi utilise Ligotage !
+<var> <var> utilise Ligotage !
+<var> utilise Bélier !
+<var> sauvage utilise Bélier !
+<var> ennemi utilise Bélier !
+<var> <var> utilise Bélier !
+<var> utilise Mania !
+<var> sauvage utilise Mania !
+<var> ennemi utilise Mania !
+<var> <var> utilise Mania !
+<var> utilise Damoclès !
+<var> sauvage utilise Damoclès !
+<var> ennemi utilise Damoclès !
+<var> <var> utilise Damoclès !
+<var> utilise Mimi-Queue !
+<var> sauvage utilise Mimi-Queue !
+<var> ennemi utilise Mimi-Queue !
+<var> <var> utilise Mimi-Queue !
+<var> utilise Dard-Venin !
+<var> sauvage utilise Dard-Venin !
+<var> ennemi utilise Dard-Venin !
+<var> <var> utilise Dard-Venin !
+<var> utilise Double Dard !
+<var> sauvage utilise Double Dard !
+<var> ennemi utilise Double Dard !
+<var> <var> utilise Double Dard !
+<var> utilise Dard-Nuée !
+<var> sauvage utilise Dard-Nuée !
+<var> ennemi utilise Dard-Nuée !
+<var> <var> utilise Dard-Nuée !
+<var> utilise Groz'Yeux !
+<var> sauvage utilise Groz'Yeux !
+<var> ennemi utilise Groz'Yeux !
+<var> <var> utilise Groz'Yeux !
+<var> utilise Morsure !
+<var> sauvage utilise Morsure !
+<var> ennemi utilise Morsure !
+<var> <var> utilise Morsure !
+<var> utilise Rugissement !
+<var> sauvage utilise Rugissement !
+<var> ennemi utilise Rugissement !
+<var> <var> utilise Rugissement !
+<var> utilise Hurlement !
+<var> sauvage utilise Hurlement !
+<var> ennemi utilise Hurlement !
+<var> <var> utilise Hurlement !
+<var> utilise Berceuse !
+<var> sauvage utilise Berceuse !
+<var> ennemi utilise Berceuse !
+<var> <var> utilise Berceuse !
+<var> utilise Ultrason !
+<var> sauvage utilise Ultrason !
+<var> ennemi utilise Ultrason !
+<var> <var> utilise Ultrason !
+<var> utilise Sonic Boom !
+<var> sauvage utilise Sonic Boom !
+<var> ennemi utilise Sonic Boom !
+<var> <var> utilise Sonic Boom !
+<var> utilise Entrave !
+<var> sauvage utilise Entrave !
+<var> ennemi utilise Entrave !
+<var> <var> utilise Entrave !
+<var> utilise Acide !
+<var> sauvage utilise Acide !
+<var> ennemi utilise Acide !
+<var> <var> utilise Acide !
+<var> utilise Flammèche !
+<var> sauvage utilise Flammèche !
+<var> ennemi utilise Flammèche !
+<var> <var> utilise Flammèche !
+<var> utilise Lance-Flammes !
+<var> sauvage utilise Lance-Flammes !
+<var> ennemi utilise Lance-Flammes !
+<var> <var> utilise Lance-Flammes !
+<var> utilise Brume !
+<var> sauvage utilise Brume !
+<var> ennemi utilise Brume !
+<var> <var> utilise Brume !
+<var> utilise Pistolet à O !
+<var> sauvage utilise Pistolet à O !
+<var> ennemi utilise Pistolet à O !
+<var> <var> utilise Pistolet à O !
+<var> utilise Hydrocanon !
+<var> sauvage utilise Hydrocanon !
+<var> ennemi utilise Hydrocanon !
+<var> <var> utilise Hydrocanon !
+<var> utilise Surf !
+<var> sauvage utilise Surf !
+<var> ennemi utilise Surf !
+<var> <var> utilise Surf !
+<var> utilise Laser Glace !
+<var> sauvage utilise Laser Glace !
+<var> ennemi utilise Laser Glace !
+<var> <var> utilise Laser Glace !
+<var> utilise Blizzard !
+<var> sauvage utilise Blizzard !
+<var> ennemi utilise Blizzard !
+<var> <var> utilise Blizzard !
+<var> utilise Rafale Psy !
+<var> sauvage utilise Rafale Psy !
+<var> ennemi utilise Rafale Psy !
+<var> <var> utilise Rafale Psy !
+<var> utilise Bulles d'O !
+<var> sauvage utilise Bulles d'O !
+<var> ennemi utilise Bulles d'O !
+<var> <var> utilise Bulles d'O !
+<var> utilise Onde Boréale !
+<var> sauvage utilise Onde Boréale !
+<var> ennemi utilise Onde Boréale !
+<var> <var> utilise Onde Boréale !
+<var> utilise Ultralaser !
+<var> sauvage utilise Ultralaser !
+<var> ennemi utilise Ultralaser !
+<var> <var> utilise Ultralaser !
+<var> utilise Picpic !
+<var> sauvage utilise Picpic !
+<var> ennemi utilise Picpic !
+<var> <var> utilise Picpic !
+<var> utilise Bec Vrille !
+<var> sauvage utilise Bec Vrille !
+<var> ennemi utilise Bec Vrille !
+<var> <var> utilise Bec Vrille !
+<var> utilise Sacrifice !
+<var> sauvage utilise Sacrifice !
+<var> ennemi utilise Sacrifice !
+<var> <var> utilise Sacrifice !
+<var> utilise Balayage !
+<var> sauvage utilise Balayage !
+<var> ennemi utilise Balayage !
+<var> <var> utilise Balayage !
+<var> utilise Riposte !
+<var> sauvage utilise Riposte !
+<var> ennemi utilise Riposte !
+<var> <var> utilise Riposte !
+<var> utilise Frappe Atlas !
+<var> sauvage utilise Frappe Atlas !
+<var> ennemi utilise Frappe Atlas !
+<var> <var> utilise Frappe Atlas !
+<var> utilise Force !
+<var> sauvage utilise Force !
+<var> ennemi utilise Force !
+<var> <var> utilise Force !
+<var> utilise Vole-Vie !
+<var> sauvage utilise Vole-Vie !
+<var> ennemi utilise Vole-Vie !
+<var> <var> utilise Vole-Vie !
+<var> utilise Méga-Sangsue !
+<var> sauvage utilise Méga-Sangsue !
+<var> ennemi utilise Méga-Sangsue !
+<var> <var> utilise Méga-Sangsue !
+<var> utilise Vampigraine !
+<var> sauvage utilise Vampigraine !
+<var> ennemi utilise Vampigraine !
+<var> <var> utilise Vampigraine !
+<var> utilise Croissance !
+<var> sauvage utilise Croissance !
+<var> ennemi utilise Croissance !
+<var> <var> utilise Croissance !
+<var> utilise Tranch'Herbe !
+<var> sauvage utilise Tranch'Herbe !
+<var> ennemi utilise Tranch'Herbe !
+<var> <var> utilise Tranch'Herbe !
+<var> utilise Lance-Soleil !
+<var> sauvage utilise Lance-Soleil !
+<var> ennemi utilise Lance-Soleil !
+<var> <var> utilise Lance-Soleil !
+<var> utilise Poudre Toxik !
+<var> sauvage utilise Poudre Toxik !
+<var> ennemi utilise Poudre Toxik !
+<var> <var> utilise Poudre Toxik !
+<var> utilise Para-Spore !
+<var> sauvage utilise Para-Spore !
+<var> ennemi utilise Para-Spore !
+<var> <var> utilise Para-Spore !
+<var> utilise Poudre Dodo !
+<var> sauvage utilise Poudre Dodo !
+<var> ennemi utilise Poudre Dodo !
+<var> <var> utilise Poudre Dodo !
+<var> utilise Danse Fleurs !
+<var> sauvage utilise Danse Fleurs !
+<var> ennemi utilise Danse Fleurs !
+<var> <var> utilise Danse Fleurs !
+<var> utilise Sécrétion !
+<var> sauvage utilise Sécrétion !
+<var> ennemi utilise Sécrétion !
+<var> <var> utilise Sécrétion !
+<var> utilise Draco-Rage !
+<var> sauvage utilise Draco-Rage !
+<var> ennemi utilise Draco-Rage !
+<var> <var> utilise Draco-Rage !
+<var> utilise Danse Flammes !
+<var> sauvage utilise Danse Flammes !
+<var> ennemi utilise Danse Flammes !
+<var> <var> utilise Danse Flammes !
+<var> utilise Éclair !
+<var> sauvage utilise Éclair !
+<var> ennemi utilise Éclair !
+<var> <var> utilise Éclair !
+<var> utilise Tonnerre !
+<var> sauvage utilise Tonnerre !
+<var> ennemi utilise Tonnerre !
+<var> <var> utilise Tonnerre !
+<var> utilise Cage Éclair !
+<var> sauvage utilise Cage Éclair !
+<var> ennemi utilise Cage Éclair !
+<var> <var> utilise Cage Éclair !
+<var> utilise Fatal-Foudre !
+<var> sauvage utilise Fatal-Foudre !
+<var> ennemi utilise Fatal-Foudre !
+<var> <var> utilise Fatal-Foudre !
+<var> utilise Jet-Pierres !
+<var> sauvage utilise Jet-Pierres !
+<var> ennemi utilise Jet-Pierres !
+<var> <var> utilise Jet-Pierres !
+<var> utilise Séisme !
+<var> sauvage utilise Séisme !
+<var> ennemi utilise Séisme !
+<var> <var> utilise Séisme !
+<var> utilise Abîme !
+<var> sauvage utilise Abîme !
+<var> ennemi utilise Abîme !
+<var> <var> utilise Abîme !
+<var> utilise Tunnel !
+<var> sauvage utilise Tunnel !
+<var> ennemi utilise Tunnel !
+<var> <var> utilise Tunnel !
+<var> utilise Toxik !
+<var> sauvage utilise Toxik !
+<var> ennemi utilise Toxik !
+<var> <var> utilise Toxik !
+<var> utilise Choc Mental !
+<var> sauvage utilise Choc Mental !
+<var> ennemi utilise Choc Mental !
+<var> <var> utilise Choc Mental !
+<var> utilise Psyko !
+<var> sauvage utilise Psyko !
+<var> ennemi utilise Psyko !
+<var> <var> utilise Psyko !
+<var> utilise Hypnose !
+<var> sauvage utilise Hypnose !
+<var> ennemi utilise Hypnose !
+<var> <var> utilise Hypnose !
+<var> utilise Yoga !
+<var> sauvage utilise Yoga !
+<var> ennemi utilise Yoga !
+<var> <var> utilise Yoga !
+<var> utilise Hâte !
+<var> sauvage utilise Hâte !
+<var> ennemi utilise Hâte !
+<var> <var> utilise Hâte !
+<var> utilise Vive-Attaque !
+<var> sauvage utilise Vive-Attaque !
+<var> ennemi utilise Vive-Attaque !
+<var> <var> utilise Vive-Attaque !
+<var> utilise Frénésie !
+<var> sauvage utilise Frénésie !
+<var> ennemi utilise Frénésie !
+<var> <var> utilise Frénésie !
+<var> utilise Téléport !
+<var> sauvage utilise Téléport !
+<var> ennemi utilise Téléport !
+<var> <var> utilise Téléport !
+<var> utilise Ombre Nocturne !
+<var> sauvage utilise Ombre Nocturne !
+<var> ennemi utilise Ombre Nocturne !
+<var> <var> utilise Ombre Nocturne !
+<var> utilise Copie !
+<var> sauvage utilise Copie !
+<var> ennemi utilise Copie !
+<var> <var> utilise Copie !
+<var> utilise Grincement !
+<var> sauvage utilise Grincement !
+<var> ennemi utilise Grincement !
+<var> <var> utilise Grincement !
+<var> utilise Reflet !
+<var> sauvage utilise Reflet !
+<var> ennemi utilise Reflet !
+<var> <var> utilise Reflet !
+<var> utilise Soin !
+<var> sauvage utilise Soin !
+<var> ennemi utilise Soin !
+<var> <var> utilise Soin !
+<var> utilise Armure !
+<var> sauvage utilise Armure !
+<var> ennemi utilise Armure !
+<var> <var> utilise Armure !
+<var> utilise Lilliput !
+<var> sauvage utilise Lilliput !
+<var> ennemi utilise Lilliput !
+<var> <var> utilise Lilliput !
+<var> utilise Brouillard !
+<var> sauvage utilise Brouillard !
+<var> ennemi utilise Brouillard !
+<var> <var> utilise Brouillard !
+<var> utilise Onde Folie !
+<var> sauvage utilise Onde Folie !
+<var> ennemi utilise Onde Folie !
+<var> <var> utilise Onde Folie !
+<var> utilise Repli !
+<var> sauvage utilise Repli !
+<var> ennemi utilise Repli !
+<var> <var> utilise Repli !
+<var> utilise Boul'Armure !
+<var> sauvage utilise Boul'Armure !
+<var> ennemi utilise Boul'Armure !
+<var> <var> utilise Boul'Armure !
+<var> utilise Bouclier !
+<var> sauvage utilise Bouclier !
+<var> ennemi utilise Bouclier !
+<var> <var> utilise Bouclier !
+<var> utilise Mur Lumière !
+<var> sauvage utilise Mur Lumière !
+<var> ennemi utilise Mur Lumière !
+<var> <var> utilise Mur Lumière !
+<var> utilise Buée Noire !
+<var> sauvage utilise Buée Noire !
+<var> ennemi utilise Buée Noire !
+<var> <var> utilise Buée Noire !
+<var> utilise Protection !
+<var> sauvage utilise Protection !
+<var> ennemi utilise Protection !
+<var> <var> utilise Protection !
+<var> utilise Puissance !
+<var> sauvage utilise Puissance !
+<var> ennemi utilise Puissance !
+<var> <var> utilise Puissance !
+<var> utilise Patience !
+<var> sauvage utilise Patience !
+<var> ennemi utilise Patience !
+<var> <var> utilise Patience !
+<var> utilise Métronome !
+<var> sauvage utilise Métronome !
+<var> ennemi utilise Métronome !
+<var> <var> utilise Métronome !
+<var> utilise Mimique !
+<var> sauvage utilise Mimique !
+<var> ennemi utilise Mimique !
+<var> <var> utilise Mimique !
+<var> utilise Destruction !
+<var> sauvage utilise Destruction !
+<var> ennemi utilise Destruction !
+<var> <var> utilise Destruction !
+<var> utilise Bombe Œuf !
+<var> sauvage utilise Bombe Œuf !
+<var> ennemi utilise Bombe Œuf !
+<var> <var> utilise Bombe Œuf !
+<var> utilise Léchouille !
+<var> sauvage utilise Léchouille !
+<var> ennemi utilise Léchouille !
+<var> <var> utilise Léchouille !
+<var> utilise Purédpois !
+<var> sauvage utilise Purédpois !
+<var> ennemi utilise Purédpois !
+<var> <var> utilise Purédpois !
+<var> utilise Détritus !
+<var> sauvage utilise Détritus !
+<var> ennemi utilise Détritus !
+<var> <var> utilise Détritus !
+<var> utilise Massd'Os !
+<var> sauvage utilise Massd'Os !
+<var> ennemi utilise Massd'Os !
+<var> <var> utilise Massd'Os !
+<var> utilise Déflagration !
+<var> sauvage utilise Déflagration !
+<var> ennemi utilise Déflagration !
+<var> <var> utilise Déflagration !
+<var> utilise Cascade !
+<var> sauvage utilise Cascade !
+<var> ennemi utilise Cascade !
+<var> <var> utilise Cascade !
+<var> utilise Claquoir !
+<var> sauvage utilise Claquoir !
+<var> ennemi utilise Claquoir !
+<var> <var> utilise Claquoir !
+<var> utilise Météores !
+<var> sauvage utilise Météores !
+<var> ennemi utilise Météores !
+<var> <var> utilise Météores !
+<var> utilise Coud'Krâne !
+<var> sauvage utilise Coud'Krâne !
+<var> ennemi utilise Coud'Krâne !
+<var> <var> utilise Coud'Krâne !
+<var> utilise Picanon !
+<var> sauvage utilise Picanon !
+<var> ennemi utilise Picanon !
+<var> <var> utilise Picanon !
+<var> utilise Constriction !
+<var> sauvage utilise Constriction !
+<var> ennemi utilise Constriction !
+<var> <var> utilise Constriction !
+<var> utilise Amnésie !
+<var> sauvage utilise Amnésie !
+<var> ennemi utilise Amnésie !
+<var> <var> utilise Amnésie !
+<var> utilise Télékinésie !
+<var> sauvage utilise Télékinésie !
+<var> ennemi utilise Télékinésie !
+<var> <var> utilise Télékinésie !
+<var> utilise E-Coque !
+<var> sauvage utilise E-Coque !
+<var> ennemi utilise E-Coque !
+<var> <var> utilise E-Coque !
+<var> utilise Pied Voltige !
+<var> sauvage utilise Pied Voltige !
+<var> ennemi utilise Pied Voltige !
+<var> <var> utilise Pied Voltige !
+<var> utilise Regard Médusant !
+<var> sauvage utilise Regard Médusant !
+<var> ennemi utilise Regard Médusant !
+<var> <var> utilise Regard Médusant !
+<var> utilise Dévorêve !
+<var> sauvage utilise Dévorêve !
+<var> ennemi utilise Dévorêve !
+<var> <var> utilise Dévorêve !
+<var> utilise Gaz Toxik !
+<var> sauvage utilise Gaz Toxik !
+<var> ennemi utilise Gaz Toxik !
+<var> <var> utilise Gaz Toxik !
+<var> utilise Pilonnage !
+<var> sauvage utilise Pilonnage !
+<var> ennemi utilise Pilonnage !
+<var> <var> utilise Pilonnage !
+<var> utilise Vampirisme !
+<var> sauvage utilise Vampirisme !
+<var> ennemi utilise Vampirisme !
+<var> <var> utilise Vampirisme !
+<var> utilise Grobisou !
+<var> sauvage utilise Grobisou !
+<var> ennemi utilise Grobisou !
+<var> <var> utilise Grobisou !
+<var> utilise Piqué !
+<var> sauvage utilise Piqué !
+<var> ennemi utilise Piqué !
+<var> <var> utilise Piqué !
+<var> utilise Morphing !
+<var> sauvage utilise Morphing !
+<var> ennemi utilise Morphing !
+<var> <var> utilise Morphing !
+<var> utilise Écume !
+<var> sauvage utilise Écume !
+<var> ennemi utilise Écume !
+<var> <var> utilise Écume !
+<var> utilise Uppercut !
+<var> sauvage utilise Uppercut !
+<var> ennemi utilise Uppercut !
+<var> <var> utilise Uppercut !
+<var> utilise Spore !
+<var> sauvage utilise Spore !
+<var> ennemi utilise Spore !
+<var> <var> utilise Spore !
+<var> utilise Flash !
+<var> sauvage utilise Flash !
+<var> ennemi utilise Flash !
+<var> <var> utilise Flash !
+<var> utilise Vague Psy !
+<var> sauvage utilise Vague Psy !
+<var> ennemi utilise Vague Psy !
+<var> <var> utilise Vague Psy !
+<var> utilise Trempette !
+<var> sauvage utilise Trempette !
+<var> ennemi utilise Trempette !
+<var> <var> utilise Trempette !
+<var> utilise Acidarmure !
+<var> sauvage utilise Acidarmure !
+<var> ennemi utilise Acidarmure !
+<var> <var> utilise Acidarmure !
+<var> utilise Pince-Masse !
+<var> sauvage utilise Pince-Masse !
+<var> ennemi utilise Pince-Masse !
+<var> <var> utilise Pince-Masse !
+<var> utilise Explosion !
+<var> sauvage utilise Explosion !
+<var> ennemi utilise Explosion !
+<var> <var> utilise Explosion !
+<var> utilise Combo-Griffe !
+<var> sauvage utilise Combo-Griffe !
+<var> ennemi utilise Combo-Griffe !
+<var> <var> utilise Combo-Griffe !
+<var> utilise Osmerang !
+<var> sauvage utilise Osmerang !
+<var> ennemi utilise Osmerang !
+<var> <var> utilise Osmerang !
+<var> utilise Repos !
+<var> sauvage utilise Repos !
+<var> ennemi utilise Repos !
+<var> <var> utilise Repos !
+<var> utilise Éboulement !
+<var> sauvage utilise Éboulement !
+<var> ennemi utilise Éboulement !
+<var> <var> utilise Éboulement !
+<var> utilise Croc de Mort !
+<var> sauvage utilise Croc de Mort !
+<var> ennemi utilise Croc de Mort !
+<var> <var> utilise Croc de Mort !
+<var> utilise Affûtage !
+<var> sauvage utilise Affûtage !
+<var> ennemi utilise Affûtage !
+<var> <var> utilise Affûtage !
+<var> utilise Conversion !
+<var> sauvage utilise Conversion !
+<var> ennemi utilise Conversion !
+<var> <var> utilise Conversion !
+<var> utilise Triplattaque !
+<var> sauvage utilise Triplattaque !
+<var> ennemi utilise Triplattaque !
+<var> <var> utilise Triplattaque !
+<var> utilise Croc Fatal !
+<var> sauvage utilise Croc Fatal !
+<var> ennemi utilise Croc Fatal !
+<var> <var> utilise Croc Fatal !
+<var> utilise Tranche !
+<var> sauvage utilise Tranche !
+<var> ennemi utilise Tranche !
+<var> <var> utilise Tranche !
+<var> utilise Clonage !
+<var> sauvage utilise Clonage !
+<var> ennemi utilise Clonage !
+<var> <var> utilise Clonage !
+<var> utilise Lutte !
+<var> sauvage utilise Lutte !
+<var> ennemi utilise Lutte !
+<var> <var> utilise Lutte !
+<var> utilise Gribouille !
+<var> sauvage utilise Gribouille !
+<var> ennemi utilise Gribouille !
+<var> <var> utilise Gribouille !
+<var> utilise Triple Pied !
+<var> sauvage utilise Triple Pied !
+<var> ennemi utilise Triple Pied !
+<var> <var> utilise Triple Pied !
+<var> utilise Larcin !
+<var> sauvage utilise Larcin !
+<var> ennemi utilise Larcin !
+<var> <var> utilise Larcin !
+<var> utilise Toile !
+<var> sauvage utilise Toile !
+<var> ennemi utilise Toile !
+<var> <var> utilise Toile !
+<var> utilise Lire-Esprit !
+<var> sauvage utilise Lire-Esprit !
+<var> ennemi utilise Lire-Esprit !
+<var> <var> utilise Lire-Esprit !
+<var> utilise Cauchemar !
+<var> sauvage utilise Cauchemar !
+<var> ennemi utilise Cauchemar !
+<var> <var> utilise Cauchemar !
+<var> utilise Roue de Feu !
+<var> sauvage utilise Roue de Feu !
+<var> ennemi utilise Roue de Feu !
+<var> <var> utilise Roue de Feu !
+<var> utilise Ronflement !
+<var> sauvage utilise Ronflement !
+<var> ennemi utilise Ronflement !
+<var> <var> utilise Ronflement !
+<var> utilise Malédiction !
+<var> sauvage utilise Malédiction !
+<var> ennemi utilise Malédiction !
+<var> <var> utilise Malédiction !
+<var> utilise Gigotage !
+<var> sauvage utilise Gigotage !
+<var> ennemi utilise Gigotage !
+<var> <var> utilise Gigotage !
+<var> utilise Conversion 2 !
+<var> sauvage utilise Conversion 2 !
+<var> ennemi utilise Conversion 2 !
+<var> <var> utilise Conversion 2 !
+<var> utilise Aéroblast !
+<var> sauvage utilise Aéroblast !
+<var> ennemi utilise Aéroblast !
+<var> <var> utilise Aéroblast !
+<var> utilise Spore Coton !
+<var> sauvage utilise Spore Coton !
+<var> ennemi utilise Spore Coton !
+<var> <var> utilise Spore Coton !
+<var> utilise Contre !
+<var> sauvage utilise Contre !
+<var> ennemi utilise Contre !
+<var> <var> utilise Contre !
+<var> utilise Dépit !
+<var> sauvage utilise Dépit !
+<var> ennemi utilise Dépit !
+<var> <var> utilise Dépit !
+<var> utilise Poudreuse !
+<var> sauvage utilise Poudreuse !
+<var> ennemi utilise Poudreuse !
+<var> <var> utilise Poudreuse !
+<var> utilise Abri !
+<var> sauvage utilise Abri !
+<var> ennemi utilise Abri !
+<var> <var> utilise Abri !
+<var> utilise Mach Punch !
+<var> sauvage utilise Mach Punch !
+<var> ennemi utilise Mach Punch !
+<var> <var> utilise Mach Punch !
+<var> utilise Grimace !
+<var> sauvage utilise Grimace !
+<var> ennemi utilise Grimace !
+<var> <var> utilise Grimace !
+<var> utilise Feinte !
+<var> sauvage utilise Feinte !
+<var> ennemi utilise Feinte !
+<var> <var> utilise Feinte !
+<var> utilise Doux Baiser !
+<var> sauvage utilise Doux Baiser !
+<var> ennemi utilise Doux Baiser !
+<var> <var> utilise Doux Baiser !
+<var> utilise Cognobidon !
+<var> sauvage utilise Cognobidon !
+<var> ennemi utilise Cognobidon !
+<var> <var> utilise Cognobidon !
+<var> utilise Bombe Beurk !
+<var> sauvage utilise Bombe Beurk !
+<var> ennemi utilise Bombe Beurk !
+<var> <var> utilise Bombe Beurk !
+<var> utilise Coud'Boue !
+<var> sauvage utilise Coud'Boue !
+<var> ennemi utilise Coud'Boue !
+<var> <var> utilise Coud'Boue !
+<var> utilise Octazooka !
+<var> sauvage utilise Octazooka !
+<var> ennemi utilise Octazooka !
+<var> <var> utilise Octazooka !
+<var> utilise Picots !
+<var> sauvage utilise Picots !
+<var> ennemi utilise Picots !
+<var> <var> utilise Picots !
+<var> utilise Élecanon !
+<var> sauvage utilise Élecanon !
+<var> ennemi utilise Élecanon !
+<var> <var> utilise Élecanon !
+<var> utilise Clairvoyance !
+<var> sauvage utilise Clairvoyance !
+<var> ennemi utilise Clairvoyance !
+<var> <var> utilise Clairvoyance !
+<var> utilise Lien du Destin !
+<var> sauvage utilise Lien du Destin !
+<var> ennemi utilise Lien du Destin !
+<var> <var> utilise Lien du Destin !
+<var> utilise Requiem !
+<var> sauvage utilise Requiem !
+<var> ennemi utilise Requiem !
+<var> <var> utilise Requiem !
+<var> utilise Vent Glace !
+<var> sauvage utilise Vent Glace !
+<var> ennemi utilise Vent Glace !
+<var> <var> utilise Vent Glace !
+<var> utilise Détection !
+<var> sauvage utilise Détection !
+<var> ennemi utilise Détection !
+<var> <var> utilise Détection !
+<var> utilise Charge Os !
+<var> sauvage utilise Charge Os !
+<var> ennemi utilise Charge Os !
+<var> <var> utilise Charge Os !
+<var> utilise Verrouillage !
+<var> sauvage utilise Verrouillage !
+<var> ennemi utilise Verrouillage !
+<var> <var> utilise Verrouillage !
+<var> utilise Colère !
+<var> sauvage utilise Colère !
+<var> ennemi utilise Colère !
+<var> <var> utilise Colère !
+<var> utilise Tempête de Sable !
+<var> sauvage utilise Tempête de Sable !
+<var> ennemi utilise Tempête de Sable !
+<var> <var> utilise Tempête de Sable !
+<var> utilise Giga-Sangsue !
+<var> sauvage utilise Giga-Sangsue !
+<var> ennemi utilise Giga-Sangsue !
+<var> <var> utilise Giga-Sangsue !
+<var> utilise Ténacité !
+<var> sauvage utilise Ténacité !
+<var> ennemi utilise Ténacité !
+<var> <var> utilise Ténacité !
+<var> utilise Charme !
+<var> sauvage utilise Charme !
+<var> ennemi utilise Charme !
+<var> <var> utilise Charme !
+<var> utilise Roulade !
+<var> sauvage utilise Roulade !
+<var> ennemi utilise Roulade !
+<var> <var> utilise Roulade !
+<var> utilise Faux-Chage !
+<var> sauvage utilise Faux-Chage !
+<var> ennemi utilise Faux-Chage !
+<var> <var> utilise Faux-Chage !
+<var> utilise Vantardise !
+<var> sauvage utilise Vantardise !
+<var> ennemi utilise Vantardise !
+<var> <var> utilise Vantardise !
+<var> utilise Lait à Boire !
+<var> sauvage utilise Lait à Boire !
+<var> ennemi utilise Lait à Boire !
+<var> <var> utilise Lait à Boire !
+<var> utilise Étincelle !
+<var> sauvage utilise Étincelle !
+<var> ennemi utilise Étincelle !
+<var> <var> utilise Étincelle !
+<var> utilise Taillade !
+<var> sauvage utilise Taillade !
+<var> ennemi utilise Taillade !
+<var> <var> utilise Taillade !
+<var> utilise Ailes d'Acier !
+<var> sauvage utilise Ailes d'Acier !
+<var> ennemi utilise Ailes d'Acier !
+<var> <var> utilise Ailes d'Acier !
+<var> utilise Regard Noir !
+<var> sauvage utilise Regard Noir !
+<var> ennemi utilise Regard Noir !
+<var> <var> utilise Regard Noir !
+<var> utilise Attraction !
+<var> sauvage utilise Attraction !
+<var> ennemi utilise Attraction !
+<var> <var> utilise Attraction !
+<var> utilise Blabla Dodo !
+<var> sauvage utilise Blabla Dodo !
+<var> ennemi utilise Blabla Dodo !
+<var> <var> utilise Blabla Dodo !
+<var> utilise Glas de Soin !
+<var> sauvage utilise Glas de Soin !
+<var> ennemi utilise Glas de Soin !
+<var> <var> utilise Glas de Soin !
+<var> utilise Retour !
+<var> sauvage utilise Retour !
+<var> ennemi utilise Retour !
+<var> <var> utilise Retour !
+<var> utilise Cadeau !
+<var> sauvage utilise Cadeau !
+<var> ennemi utilise Cadeau !
+<var> <var> utilise Cadeau !
+<var> utilise Frustration !
+<var> sauvage utilise Frustration !
+<var> ennemi utilise Frustration !
+<var> <var> utilise Frustration !
+<var> utilise Rune Protect !
+<var> sauvage utilise Rune Protect !
+<var> ennemi utilise Rune Protect !
+<var> <var> utilise Rune Protect !
+<var> utilise Balance !
+<var> sauvage utilise Balance !
+<var> ennemi utilise Balance !
+<var> <var> utilise Balance !
+<var> utilise Feu Sacré !
+<var> sauvage utilise Feu Sacré !
+<var> ennemi utilise Feu Sacré !
+<var> <var> utilise Feu Sacré !
+<var> utilise Ampleur !
+<var> sauvage utilise Ampleur !
+<var> ennemi utilise Ampleur !
+<var> <var> utilise Ampleur !
+<var> utilise Dynamo-Poing !
+<var> sauvage utilise Dynamo-Poing !
+<var> ennemi utilise Dynamo-Poing !
+<var> <var> utilise Dynamo-Poing !
+<var> utilise Mégacorne !
+<var> sauvage utilise Mégacorne !
+<var> ennemi utilise Mégacorne !
+<var> <var> utilise Mégacorne !
+<var> utilise Draco-Souffle !
+<var> sauvage utilise Draco-Souffle !
+<var> ennemi utilise Draco-Souffle !
+<var> <var> utilise Draco-Souffle !
+<var> utilise Relais !
+<var> sauvage utilise Relais !
+<var> ennemi utilise Relais !
+<var> <var> utilise Relais !
+<var> utilise Encore !
+<var> sauvage utilise Encore !
+<var> ennemi utilise Encore !
+<var> <var> utilise Encore !
+<var> utilise Poursuite !
+<var> sauvage utilise Poursuite !
+<var> ennemi utilise Poursuite !
+<var> <var> utilise Poursuite !
+<var> utilise Tour Rapide !
+<var> sauvage utilise Tour Rapide !
+<var> ennemi utilise Tour Rapide !
+<var> <var> utilise Tour Rapide !
+<var> utilise Doux Parfum !
+<var> sauvage utilise Doux Parfum !
+<var> ennemi utilise Doux Parfum !
+<var> <var> utilise Doux Parfum !
+<var> utilise Queue de Fer !
+<var> sauvage utilise Queue de Fer !
+<var> ennemi utilise Queue de Fer !
+<var> <var> utilise Queue de Fer !
+<var> utilise Griffe Acier !
+<var> sauvage utilise Griffe Acier !
+<var> ennemi utilise Griffe Acier !
+<var> <var> utilise Griffe Acier !
+<var> utilise Corps Perdu !
+<var> sauvage utilise Corps Perdu !
+<var> ennemi utilise Corps Perdu !
+<var> <var> utilise Corps Perdu !
+<var> utilise Aurore !
+<var> sauvage utilise Aurore !
+<var> ennemi utilise Aurore !
+<var> <var> utilise Aurore !
+<var> utilise Synthèse !
+<var> sauvage utilise Synthèse !
+<var> ennemi utilise Synthèse !
+<var> <var> utilise Synthèse !
+<var> utilise Rayon Lune !
+<var> sauvage utilise Rayon Lune !
+<var> ennemi utilise Rayon Lune !
+<var> <var> utilise Rayon Lune !
+<var> utilise Puissance Cachée !
+<var> sauvage utilise Puissance Cachée !
+<var> ennemi utilise Puissance Cachée !
+<var> <var> utilise Puissance Cachée !
+<var> utilise Coup Croix !
+<var> sauvage utilise Coup Croix !
+<var> ennemi utilise Coup Croix !
+<var> <var> utilise Coup Croix !
+<var> utilise Ouragan !
+<var> sauvage utilise Ouragan !
+<var> ennemi utilise Ouragan !
+<var> <var> utilise Ouragan !
+<var> utilise Danse Pluie !
+<var> sauvage utilise Danse Pluie !
+<var> ennemi utilise Danse Pluie !
+<var> <var> utilise Danse Pluie !
+<var> utilise Zénith !
+<var> sauvage utilise Zénith !
+<var> ennemi utilise Zénith !
+<var> <var> utilise Zénith !
+<var> utilise Mâchouille !
+<var> sauvage utilise Mâchouille !
+<var> ennemi utilise Mâchouille !
+<var> <var> utilise Mâchouille !
+<var> utilise Voile Miroir !
+<var> sauvage utilise Voile Miroir !
+<var> ennemi utilise Voile Miroir !
+<var> <var> utilise Voile Miroir !
+<var> utilise Boost !
+<var> sauvage utilise Boost !
+<var> ennemi utilise Boost !
+<var> <var> utilise Boost !
+<var> utilise Vitesse Extrême !
+<var> sauvage utilise Vitesse Extrême !
+<var> ennemi utilise Vitesse Extrême !
+<var> <var> utilise Vitesse Extrême !
+<var> utilise Pouvoir Antique !
+<var> sauvage utilise Pouvoir Antique !
+<var> ennemi utilise Pouvoir Antique !
+<var> <var> utilise Pouvoir Antique !
+<var> utilise Ball'Ombre !
+<var> sauvage utilise Ball'Ombre !
+<var> ennemi utilise Ball'Ombre !
+<var> <var> utilise Ball'Ombre !
+<var> utilise Prescience !
+<var> sauvage utilise Prescience !
+<var> ennemi utilise Prescience !
+<var> <var> utilise Prescience !
+<var> utilise Éclate-Roc !
+<var> sauvage utilise Éclate-Roc !
+<var> ennemi utilise Éclate-Roc !
+<var> <var> utilise Éclate-Roc !
+<var> utilise Siphon !
+<var> sauvage utilise Siphon !
+<var> ennemi utilise Siphon !
+<var> <var> utilise Siphon !
+<var> utilise Baston !
+<var> sauvage utilise Baston !
+<var> ennemi utilise Baston !
+<var> <var> utilise Baston !
+<var> utilise Bluff !
+<var> sauvage utilise Bluff !
+<var> ennemi utilise Bluff !
+<var> <var> utilise Bluff !
+<var> utilise Brouhaha !
+<var> sauvage utilise Brouhaha !
+<var> ennemi utilise Brouhaha !
+<var> <var> utilise Brouhaha !
+<var> utilise Stockage !
+<var> sauvage utilise Stockage !
+<var> ennemi utilise Stockage !
+<var> <var> utilise Stockage !
+<var> utilise Relâche !
+<var> sauvage utilise Relâche !
+<var> ennemi utilise Relâche !
+<var> <var> utilise Relâche !
+<var> utilise Avale !
+<var> sauvage utilise Avale !
+<var> ennemi utilise Avale !
+<var> <var> utilise Avale !
+<var> utilise Canicule !
+<var> sauvage utilise Canicule !
+<var> ennemi utilise Canicule !
+<var> <var> utilise Canicule !
+<var> utilise Grêle !
+<var> sauvage utilise Grêle !
+<var> ennemi utilise Grêle !
+<var> <var> utilise Grêle !
+<var> utilise Tourmente !
+<var> sauvage utilise Tourmente !
+<var> ennemi utilise Tourmente !
+<var> <var> utilise Tourmente !
+<var> utilise Flatterie !
+<var> sauvage utilise Flatterie !
+<var> ennemi utilise Flatterie !
+<var> <var> utilise Flatterie !
+<var> utilise Feu Follet !
+<var> sauvage utilise Feu Follet !
+<var> ennemi utilise Feu Follet !
+<var> <var> utilise Feu Follet !
+<var> utilise Souvenir !
+<var> sauvage utilise Souvenir !
+<var> ennemi utilise Souvenir !
+<var> <var> utilise Souvenir !
+<var> utilise Façade !
+<var> sauvage utilise Façade !
+<var> ennemi utilise Façade !
+<var> <var> utilise Façade !
+<var> utilise Mitra-Poing !
+<var> sauvage utilise Mitra-Poing !
+<var> ennemi utilise Mitra-Poing !
+<var> <var> utilise Mitra-Poing !
+<var> utilise Stimulant !
+<var> sauvage utilise Stimulant !
+<var> ennemi utilise Stimulant !
+<var> <var> utilise Stimulant !
+<var> utilise Par Ici !
+<var> sauvage utilise Par Ici !
+<var> ennemi utilise Par Ici !
+<var> <var> utilise Par Ici !
+<var> utilise Force Nature !
+<var> sauvage utilise Force Nature !
+<var> ennemi utilise Force Nature !
+<var> <var> utilise Force Nature !
+<var> utilise Chargeur !
+<var> sauvage utilise Chargeur !
+<var> ennemi utilise Chargeur !
+<var> <var> utilise Chargeur !
+<var> utilise Provoc !
+<var> sauvage utilise Provoc !
+<var> ennemi utilise Provoc !
+<var> <var> utilise Provoc !
+<var> utilise Coup d'Main !
+<var> sauvage utilise Coup d'Main !
+<var> ennemi utilise Coup d'Main !
+<var> <var> utilise Coup d'Main !
+<var> utilise Tour de Magie !
+<var> sauvage utilise Tour de Magie !
+<var> ennemi utilise Tour de Magie !
+<var> <var> utilise Tour de Magie !
+<var> utilise Imitation !
+<var> sauvage utilise Imitation !
+<var> ennemi utilise Imitation !
+<var> <var> utilise Imitation !
+<var> fait un Vœu !
+<var> sauvage fait un Vœu !
+<var> ennemi fait un Vœu !
+<var> <var> fait un Vœu !
+<var> utilise Assistance !
+<var> sauvage utilise Assistance !
+<var> ennemi utilise Assistance !
+<var> <var> utilise Assistance !
+<var> utilise Racines !
+<var> sauvage utilise Racines !
+<var> ennemi utilise Racines !
+<var> <var> utilise Racines !
+<var> utilise Surpuissance !
+<var> sauvage utilise Surpuissance !
+<var> ennemi utilise Surpuissance !
+<var> <var> utilise Surpuissance !
+<var> utilise Reflet Magik !
+<var> sauvage utilise Reflet Magik !
+<var> ennemi utilise Reflet Magik !
+<var> <var> utilise Reflet Magik !
+<var> utilise Recyclage !
+<var> sauvage utilise Recyclage !
+<var> ennemi utilise Recyclage !
+<var> <var> utilise Recyclage !
+<var> utilise Vendetta !
+<var> sauvage utilise Vendetta !
+<var> ennemi utilise Vendetta !
+<var> <var> utilise Vendetta !
+<var> utilise Casse-Brique !
+<var> sauvage utilise Casse-Brique !
+<var> ennemi utilise Casse-Brique !
+<var> <var> utilise Casse-Brique !
+<var> utilise Bâillement !
+<var> sauvage utilise Bâillement !
+<var> ennemi utilise Bâillement !
+<var> <var> utilise Bâillement !
+<var> utilise Sabotage !
+<var> sauvage utilise Sabotage !
+<var> ennemi utilise Sabotage !
+<var> <var> utilise Sabotage !
+<var> utilise Effort !
+<var> sauvage utilise Effort !
+<var> ennemi utilise Effort !
+<var> <var> utilise Effort !
+<var> utilise Éruption !
+<var> sauvage utilise Éruption !
+<var> ennemi utilise Éruption !
+<var> <var> utilise Éruption !
+<var> utilise Échange !
+<var> sauvage utilise Échange !
+<var> ennemi utilise Échange !
+<var> <var> utilise Échange !
+<var> utilise Possessif !
+<var> sauvage utilise Possessif !
+<var> ennemi utilise Possessif !
+<var> <var> utilise Possessif !
+<var> utilise Régénération !
+<var> sauvage utilise Régénération !
+<var> ennemi utilise Régénération !
+<var> <var> utilise Régénération !
+<var> utilise Rancune !
+<var> sauvage utilise Rancune !
+<var> ennemi utilise Rancune !
+<var> <var> utilise Rancune !
+<var> utilise Saisie !
+<var> sauvage utilise Saisie !
+<var> ennemi utilise Saisie !
+<var> <var> utilise Saisie !
+<var> utilise Force Cachée !
+<var> sauvage utilise Force Cachée !
+<var> ennemi utilise Force Cachée !
+<var> <var> utilise Force Cachée !
+<var> utilise Plongée !
+<var> sauvage utilise Plongée !
+<var> ennemi utilise Plongée !
+<var> <var> utilise Plongée !
+<var> utilise Cogne !
+<var> sauvage utilise Cogne !
+<var> ennemi utilise Cogne !
+<var> <var> utilise Cogne !
+<var> utilise Camouflage !
+<var> sauvage utilise Camouflage !
+<var> ennemi utilise Camouflage !
+<var> <var> utilise Camouflage !
+<var> utilise Lumi-Queue !
+<var> sauvage utilise Lumi-Queue !
+<var> ennemi utilise Lumi-Queue !
+<var> <var> utilise Lumi-Queue !
+<var> utilise Lumi-Éclat !
+<var> sauvage utilise Lumi-Éclat !
+<var> ennemi utilise Lumi-Éclat !
+<var> <var> utilise Lumi-Éclat !
+<var> utilise Ball'Brume !
+<var> sauvage utilise Ball'Brume !
+<var> ennemi utilise Ball'Brume !
+<var> <var> utilise Ball'Brume !
+<var> utilise Danse Plumes !
+<var> sauvage utilise Danse Plumes !
+<var> ennemi utilise Danse Plumes !
+<var> <var> utilise Danse Plumes !
+<var> utilise Danse Folle !
+<var> sauvage utilise Danse Folle !
+<var> ennemi utilise Danse Folle !
+<var> <var> utilise Danse Folle !
+<var> utilise Pied Brûleur !
+<var> sauvage utilise Pied Brûleur !
+<var> ennemi utilise Pied Brûleur !
+<var> <var> utilise Pied Brûleur !
+<var> utilise Lance-Boue !
+<var> sauvage utilise Lance-Boue !
+<var> ennemi utilise Lance-Boue !
+<var> <var> utilise Lance-Boue !
+<var> utilise Ball'Glace !
+<var> sauvage utilise Ball'Glace !
+<var> ennemi utilise Ball'Glace !
+<var> <var> utilise Ball'Glace !
+<var> utilise Poing Dard !
+<var> sauvage utilise Poing Dard !
+<var> ennemi utilise Poing Dard !
+<var> <var> utilise Poing Dard !
+<var> utilise Paresse !
+<var> sauvage utilise Paresse !
+<var> ennemi utilise Paresse !
+<var> <var> utilise Paresse !
+<var> utilise Mégaphone !
+<var> sauvage utilise Mégaphone !
+<var> ennemi utilise Mégaphone !
+<var> <var> utilise Mégaphone !
+<var> utilise Crochet Venin !
+<var> sauvage utilise Crochet Venin !
+<var> ennemi utilise Crochet Venin !
+<var> <var> utilise Crochet Venin !
+<var> utilise Éclate Griffe !
+<var> sauvage utilise Éclate Griffe !
+<var> ennemi utilise Éclate Griffe !
+<var> <var> utilise Éclate Griffe !
+<var> utilise Rafale Feu !
+<var> sauvage utilise Rafale Feu !
+<var> ennemi utilise Rafale Feu !
+<var> <var> utilise Rafale Feu !
+<var> utilise Hydroblast !
+<var> sauvage utilise Hydroblast !
+<var> ennemi utilise Hydroblast !
+<var> <var> utilise Hydroblast !
+<var> utilise Poing Météore !
+<var> sauvage utilise Poing Météore !
+<var> ennemi utilise Poing Météore !
+<var> <var> utilise Poing Météore !
+<var> utilise Étonnement !
+<var> sauvage utilise Étonnement !
+<var> ennemi utilise Étonnement !
+<var> <var> utilise Étonnement !
+<var> utilise Ball'Météo !
+<var> sauvage utilise Ball'Météo !
+<var> ennemi utilise Ball'Météo !
+<var> <var> utilise Ball'Météo !
+<var> utilise Aromathérapie !
+<var> sauvage utilise Aromathérapie !
+<var> ennemi utilise Aromathérapie !
+<var> <var> utilise Aromathérapie !
+<var> utilise Croco Larme !
+<var> sauvage utilise Croco Larme !
+<var> ennemi utilise Croco Larme !
+<var> <var> utilise Croco Larme !
+<var> utilise Tranch'Air !
+<var> sauvage utilise Tranch'Air !
+<var> ennemi utilise Tranch'Air !
+<var> <var> utilise Tranch'Air !
+<var> utilise Surchauffe !
+<var> sauvage utilise Surchauffe !
+<var> ennemi utilise Surchauffe !
+<var> <var> utilise Surchauffe !
+<var> utilise Flair !
+<var> sauvage utilise Flair !
+<var> ennemi utilise Flair !
+<var> <var> utilise Flair !
+<var> utilise Tomberoche !
+<var> sauvage utilise Tomberoche !
+<var> ennemi utilise Tomberoche !
+<var> <var> utilise Tomberoche !
+<var> utilise Vent Argenté !
+<var> sauvage utilise Vent Argenté !
+<var> ennemi utilise Vent Argenté !
+<var> <var> utilise Vent Argenté !
+<var> utilise Strido-Son !
+<var> sauvage utilise Strido-Son !
+<var> ennemi utilise Strido-Son !
+<var> <var> utilise Strido-Son !
+<var> utilise Siffl'Herbe !
+<var> sauvage utilise Siffl'Herbe !
+<var> ennemi utilise Siffl'Herbe !
+<var> <var> utilise Siffl'Herbe !
+<var> utilise Chatouille !
+<var> sauvage utilise Chatouille !
+<var> ennemi utilise Chatouille !
+<var> <var> utilise Chatouille !
+<var> utilise Force Cosmique !
+<var> sauvage utilise Force Cosmique !
+<var> ennemi utilise Force Cosmique !
+<var> <var> utilise Force Cosmique !
+<var> utilise Giclédo !
+<var> sauvage utilise Giclédo !
+<var> ennemi utilise Giclédo !
+<var> <var> utilise Giclédo !
+<var> utilise Rayon Signal !
+<var> sauvage utilise Rayon Signal !
+<var> ennemi utilise Rayon Signal !
+<var> <var> utilise Rayon Signal !
+<var> utilise Poing Ombre !
+<var> sauvage utilise Poing Ombre !
+<var> ennemi utilise Poing Ombre !
+<var> <var> utilise Poing Ombre !
+<var> utilise Extrasenseur !
+<var> sauvage utilise Extrasenseur !
+<var> ennemi utilise Extrasenseur !
+<var> <var> utilise Extrasenseur !
+<var> utilise Stratopercut !
+<var> sauvage utilise Stratopercut !
+<var> ennemi utilise Stratopercut !
+<var> <var> utilise Stratopercut !
+<var> utilise Tourbi-Sable !
+<var> sauvage utilise Tourbi-Sable !
+<var> ennemi utilise Tourbi-Sable !
+<var> <var> utilise Tourbi-Sable !
+<var> utilise Glaciation !
+<var> sauvage utilise Glaciation !
+<var> ennemi utilise Glaciation !
+<var> <var> utilise Glaciation !
+<var> utilise Ocroupi !
+<var> sauvage utilise Ocroupi !
+<var> ennemi utilise Ocroupi !
+<var> <var> utilise Ocroupi !
+<var> utilise Balle Graine !
+<var> sauvage utilise Balle Graine !
+<var> ennemi utilise Balle Graine !
+<var> <var> utilise Balle Graine !
+<var> utilise Aéropique !
+<var> sauvage utilise Aéropique !
+<var> ennemi utilise Aéropique !
+<var> <var> utilise Aéropique !
+<var> utilise Stalactite !
+<var> sauvage utilise Stalactite !
+<var> ennemi utilise Stalactite !
+<var> <var> utilise Stalactite !
+<var> utilise Mur de Fer !
+<var> sauvage utilise Mur de Fer !
+<var> ennemi utilise Mur de Fer !
+<var> <var> utilise Mur de Fer !
+<var> utilise Barrage !
+<var> sauvage utilise Barrage !
+<var> ennemi utilise Barrage !
+<var> <var> utilise Barrage !
+<var> utilise Grondement !
+<var> sauvage utilise Grondement !
+<var> ennemi utilise Grondement !
+<var> <var> utilise Grondement !
+<var> utilise Draco-Griffe !
+<var> sauvage utilise Draco-Griffe !
+<var> ennemi utilise Draco-Griffe !
+<var> <var> utilise Draco-Griffe !
+<var> utilise Végé-Attaque !
+<var> sauvage utilise Végé-Attaque !
+<var> ennemi utilise Végé-Attaque !
+<var> <var> utilise Végé-Attaque !
+<var> utilise Gonflette !
+<var> sauvage utilise Gonflette !
+<var> ennemi utilise Gonflette !
+<var> <var> utilise Gonflette !
+<var> utilise Rebond !
+<var> sauvage utilise Rebond !
+<var> ennemi utilise Rebond !
+<var> <var> utilise Rebond !
+<var> utilise Tir de Boue !
+<var> sauvage utilise Tir de Boue !
+<var> ennemi utilise Tir de Boue !
+<var> <var> utilise Tir de Boue !
+<var> utilise Queue-Poison !
+<var> sauvage utilise Queue-Poison !
+<var> ennemi utilise Queue-Poison !
+<var> <var> utilise Queue-Poison !
+<var> utilise Implore !
+<var> sauvage utilise Implore !
+<var> ennemi utilise Implore !
+<var> <var> utilise Implore !
+<var> utilise Électacle !
+<var> sauvage utilise Électacle !
+<var> ennemi utilise Électacle !
+<var> <var> utilise Électacle !
+<var> utilise Feuille Magik !
+<var> sauvage utilise Feuille Magik !
+<var> ennemi utilise Feuille Magik !
+<var> <var> utilise Feuille Magik !
+<var> utilise Tourniquet !
+<var> sauvage utilise Tourniquet !
+<var> ennemi utilise Tourniquet !
+<var> <var> utilise Tourniquet !
+<var> utilise Plénitude !
+<var> sauvage utilise Plénitude !
+<var> ennemi utilise Plénitude !
+<var> <var> utilise Plénitude !
+<var> utilise Lame Feuille !
+<var> sauvage utilise Lame Feuille !
+<var> ennemi utilise Lame Feuille !
+<var> <var> utilise Lame Feuille !
+<var> utilise Danse Draco !
+<var> sauvage utilise Danse Draco !
+<var> ennemi utilise Danse Draco !
+<var> <var> utilise Danse Draco !
+<var> utilise Boule Roc !
+<var> sauvage utilise Boule Roc !
+<var> ennemi utilise Boule Roc !
+<var> <var> utilise Boule Roc !
+<var> utilise Onde de Choc !
+<var> sauvage utilise Onde de Choc !
+<var> ennemi utilise Onde de Choc !
+<var> <var> utilise Onde de Choc !
+<var> utilise Vibraqua !
+<var> sauvage utilise Vibraqua !
+<var> ennemi utilise Vibraqua !
+<var> <var> utilise Vibraqua !
+<var> utilise Vœu Destructeur !
+<var> sauvage utilise Vœu Destructeur !
+<var> ennemi utilise Vœu Destructeur !
+<var> <var> utilise Vœu Destructeur !
+<var> utilise Psycho-Boost !
+<var> sauvage utilise Psycho-Boost !
+<var> ennemi utilise Psycho-Boost !
+<var> <var> utilise Psycho-Boost !
+<var> utilise Atterrissage !
+<var> sauvage utilise Atterrissage !
+<var> ennemi utilise Atterrissage !
+<var> <var> utilise Atterrissage !
+<var> utilise Gravité !
+<var> sauvage utilise Gravité !
+<var> ennemi utilise Gravité !
+<var> <var> utilise Gravité !
+<var> utilise Œil Miracle !
+<var> sauvage utilise Œil Miracle !
+<var> ennemi utilise Œil Miracle !
+<var> <var> utilise Œil Miracle !
+<var> utilise Réveil Forcé !
+<var> sauvage utilise Réveil Forcé !
+<var> ennemi utilise Réveil Forcé !
+<var> <var> utilise Réveil Forcé !
+<var> utilise Marto-Poing !
+<var> sauvage utilise Marto-Poing !
+<var> ennemi utilise Marto-Poing !
+<var> <var> utilise Marto-Poing !
+<var> utilise Gyroballe !
+<var> sauvage utilise Gyroballe !
+<var> ennemi utilise Gyroballe !
+<var> <var> utilise Gyroballe !
+<var> utilise Vœu Soin !
+<var> sauvage utilise Vœu Soin !
+<var> ennemi utilise Vœu Soin !
+<var> <var> utilise Vœu Soin !
+<var> utilise Saumure !
+<var> sauvage utilise Saumure !
+<var> ennemi utilise Saumure !
+<var> <var> utilise Saumure !
+<var> utilise Don Naturel !
+<var> sauvage utilise Don Naturel !
+<var> ennemi utilise Don Naturel !
+<var> <var> utilise Don Naturel !
+<var> utilise Ruse !
+<var> sauvage utilise Ruse !
+<var> ennemi utilise Ruse !
+<var> <var> utilise Ruse !
+<var> utilise Picore !
+<var> sauvage utilise Picore !
+<var> ennemi utilise Picore !
+<var> <var> utilise Picore !
+<var> utilise Vent Arrière !
+<var> sauvage utilise Vent Arrière !
+<var> ennemi utilise Vent Arrière !
+<var> <var> utilise Vent Arrière !
+<var> utilise Acupression !
+<var> sauvage utilise Acupression !
+<var> ennemi utilise Acupression !
+<var> <var> utilise Acupression !
+<var> utilise Fulmifer !
+<var> sauvage utilise Fulmifer !
+<var> ennemi utilise Fulmifer !
+<var> <var> utilise Fulmifer !
+<var> utilise Demi-Tour !
+<var> sauvage utilise Demi-Tour !
+<var> ennemi utilise Demi-Tour !
+<var> <var> utilise Demi-Tour !
+<var> utilise Close Combat !
+<var> sauvage utilise Close Combat !
+<var> ennemi utilise Close Combat !
+<var> <var> utilise Close Combat !
+<var> utilise Représailles !
+<var> sauvage utilise Représailles !
+<var> ennemi utilise Représailles !
+<var> <var> utilise Représailles !
+<var> utilise Assurance !
+<var> sauvage utilise Assurance !
+<var> ennemi utilise Assurance !
+<var> <var> utilise Assurance !
+<var> utilise Embargo !
+<var> sauvage utilise Embargo !
+<var> ennemi utilise Embargo !
+<var> <var> utilise Embargo !
+<var> utilise Dégommage !
+<var> sauvage utilise Dégommage !
+<var> ennemi utilise Dégommage !
+<var> <var> utilise Dégommage !
+<var> utilise Échange Psy !
+<var> sauvage utilise Échange Psy !
+<var> ennemi utilise Échange Psy !
+<var> <var> utilise Échange Psy !
+<var> utilise Atout !
+<var> sauvage utilise Atout !
+<var> ennemi utilise Atout !
+<var> <var> utilise Atout !
+<var> utilise Anti-Soin !
+<var> sauvage utilise Anti-Soin !
+<var> ennemi utilise Anti-Soin !
+<var> <var> utilise Anti-Soin !
+<var> utilise Essorage !
+<var> sauvage utilise Essorage !
+<var> ennemi utilise Essorage !
+<var> <var> utilise Essorage !
+<var> utilise Astuce Force !
+<var> sauvage utilise Astuce Force !
+<var> ennemi utilise Astuce Force !
+<var> <var> utilise Astuce Force !
+<var> utilise Suc Digestif !
+<var> sauvage utilise Suc Digestif !
+<var> ennemi utilise Suc Digestif !
+<var> <var> utilise Suc Digestif !
+<var> utilise Air Veinard !
+<var> sauvage utilise Air Veinard !
+<var> ennemi utilise Air Veinard !
+<var> <var> utilise Air Veinard !
+<var> utilise Moi d'Abord !
+<var> sauvage utilise Moi d'Abord !
+<var> ennemi utilise Moi d'Abord !
+<var> <var> utilise Moi d'Abord !
+<var> utilise Photocopie !
+<var> sauvage utilise Photocopie !
+<var> ennemi utilise Photocopie !
+<var> <var> utilise Photocopie !
+<var> utilise Permuforce !
+<var> sauvage utilise Permuforce !
+<var> ennemi utilise Permuforce !
+<var> <var> utilise Permuforce !
+<var> utilise Permugarde !
+<var> sauvage utilise Permugarde !
+<var> ennemi utilise Permugarde !
+<var> <var> utilise Permugarde !
+<var> utilise Punition !
+<var> sauvage utilise Punition !
+<var> ennemi utilise Punition !
+<var> <var> utilise Punition !
+<var> utilise Dernier Recours !
+<var> sauvage utilise Dernier Recours !
+<var> ennemi utilise Dernier Recours !
+<var> <var> utilise Dernier Recours !
+<var> utilise Soucigraine !
+<var> sauvage utilise Soucigraine !
+<var> ennemi utilise Soucigraine !
+<var> <var> utilise Soucigraine !
+<var> utilise Coup Bas !
+<var> sauvage utilise Coup Bas !
+<var> ennemi utilise Coup Bas !
+<var> <var> utilise Coup Bas !
+<var> utilise Pics Toxik !
+<var> sauvage utilise Pics Toxik !
+<var> ennemi utilise Pics Toxik !
+<var> <var> utilise Pics Toxik !
+<var> utilise Permucœur !
+<var> sauvage utilise Permucœur !
+<var> ennemi utilise Permucœur !
+<var> <var> utilise Permucœur !
+<var> utilise Anneau Hydro !
+<var> sauvage utilise Anneau Hydro !
+<var> ennemi utilise Anneau Hydro !
+<var> <var> utilise Anneau Hydro !
+<var> utilise Vol Magnétik !
+<var> sauvage utilise Vol Magnétik !
+<var> ennemi utilise Vol Magnétik !
+<var> <var> utilise Vol Magnétik !
+<var> utilise Boutefeu !
+<var> sauvage utilise Boutefeu !
+<var> ennemi utilise Boutefeu !
+<var> <var> utilise Boutefeu !
+<var> utilise Forte-Paume !
+<var> sauvage utilise Forte-Paume !
+<var> ennemi utilise Forte-Paume !
+<var> <var> utilise Forte-Paume !
+<var> utilise Aurasphère !
+<var> sauvage utilise Aurasphère !
+<var> ennemi utilise Aurasphère !
+<var> <var> utilise Aurasphère !
+<var> utilise Poliroche !
+<var> sauvage utilise Poliroche !
+<var> ennemi utilise Poliroche !
+<var> <var> utilise Poliroche !
+<var> utilise Direct Toxik !
+<var> sauvage utilise Direct Toxik !
+<var> ennemi utilise Direct Toxik !
+<var> <var> utilise Direct Toxik !
+<var> utilise Vibrobscur !
+<var> sauvage utilise Vibrobscur !
+<var> ennemi utilise Vibrobscur !
+<var> <var> utilise Vibrobscur !
+<var> utilise Tranche-Nuit !
+<var> sauvage utilise Tranche-Nuit !
+<var> ennemi utilise Tranche-Nuit !
+<var> <var> utilise Tranche-Nuit !
+<var> utilise Hydro-Queue !
+<var> sauvage utilise Hydro-Queue !
+<var> ennemi utilise Hydro-Queue !
+<var> <var> utilise Hydro-Queue !
+<var> utilise Canon Graine !
+<var> sauvage utilise Canon Graine !
+<var> ennemi utilise Canon Graine !
+<var> <var> utilise Canon Graine !
+<var> utilise Lame d'Air !
+<var> sauvage utilise Lame d'Air !
+<var> ennemi utilise Lame d'Air !
+<var> <var> utilise Lame d'Air !
+<var> utilise Plaie Croix !
+<var> sauvage utilise Plaie Croix !
+<var> ennemi utilise Plaie Croix !
+<var> <var> utilise Plaie Croix !
+<var> utilise Bourdon !
+<var> sauvage utilise Bourdon !
+<var> ennemi utilise Bourdon !
+<var> <var> utilise Bourdon !
+<var> utilise Draco-Choc !
+<var> sauvage utilise Draco-Choc !
+<var> ennemi utilise Draco-Choc !
+<var> <var> utilise Draco-Choc !
+<var> utilise Draco-Charge !
+<var> sauvage utilise Draco-Charge !
+<var> ennemi utilise Draco-Charge !
+<var> <var> utilise Draco-Charge !
+<var> utilise Rayon Gemme !
+<var> sauvage utilise Rayon Gemme !
+<var> ennemi utilise Rayon Gemme !
+<var> <var> utilise Rayon Gemme !
+<var> utilise Vampi-Poing !
+<var> sauvage utilise Vampi-Poing !
+<var> ennemi utilise Vampi-Poing !
+<var> <var> utilise Vampi-Poing !
+<var> utilise Onde Vide !
+<var> sauvage utilise Onde Vide !
+<var> ennemi utilise Onde Vide !
+<var> <var> utilise Onde Vide !
+<var> utilise Exploforce !
+<var> sauvage utilise Exploforce !
+<var> ennemi utilise Exploforce !
+<var> <var> utilise Exploforce !
+<var> utilise Éco-Sphère !
+<var> sauvage utilise Éco-Sphère !
+<var> ennemi utilise Éco-Sphère !
+<var> <var> utilise Éco-Sphère !
+<var> utilise Rapace !
+<var> sauvage utilise Rapace !
+<var> ennemi utilise Rapace !
+<var> <var> utilise Rapace !
+<var> utilise Telluriforce !
+<var> sauvage utilise Telluriforce !
+<var> ennemi utilise Telluriforce !
+<var> <var> utilise Telluriforce !
+<var> utilise Passe-Passe !
+<var> sauvage utilise Passe-Passe !
+<var> ennemi utilise Passe-Passe !
+<var> <var> utilise Passe-Passe !
+<var> utilise Giga Impact !
+<var> sauvage utilise Giga Impact !
+<var> ennemi utilise Giga Impact !
+<var> <var> utilise Giga Impact !
+<var> utilise Machination !
+<var> sauvage utilise Machination !
+<var> ennemi utilise Machination !
+<var> <var> utilise Machination !
+<var> utilise Pisto-Poing !
+<var> sauvage utilise Pisto-Poing !
+<var> ennemi utilise Pisto-Poing !
+<var> <var> utilise Pisto-Poing !
+<var> utilise Avalanche !
+<var> sauvage utilise Avalanche !
+<var> ennemi utilise Avalanche !
+<var> <var> utilise Avalanche !
+<var> utilise Éclats Glace !
+<var> sauvage utilise Éclats Glace !
+<var> ennemi utilise Éclats Glace !
+<var> <var> utilise Éclats Glace !
+<var> utilise Griffe Ombre !
+<var> sauvage utilise Griffe Ombre !
+<var> ennemi utilise Griffe Ombre !
+<var> <var> utilise Griffe Ombre !
+<var> utilise Crocs Éclair !
+<var> sauvage utilise Crocs Éclair !
+<var> ennemi utilise Crocs Éclair !
+<var> <var> utilise Crocs Éclair !
+<var> utilise Crocs Givre !
+<var> sauvage utilise Crocs Givre !
+<var> ennemi utilise Crocs Givre !
+<var> <var> utilise Crocs Givre !
+<var> utilise Crocs Feu !
+<var> sauvage utilise Crocs Feu !
+<var> ennemi utilise Crocs Feu !
+<var> <var> utilise Crocs Feu !
+<var> utilise Ombre Portée !
+<var> sauvage utilise Ombre Portée !
+<var> ennemi utilise Ombre Portée !
+<var> <var> utilise Ombre Portée !
+<var> utilise Boue-Bombe !
+<var> sauvage utilise Boue-Bombe !
+<var> ennemi utilise Boue-Bombe !
+<var> <var> utilise Boue-Bombe !
+<var> utilise Coupe Psycho !
+<var> sauvage utilise Coupe Psycho !
+<var> ennemi utilise Coupe Psycho !
+<var> <var> utilise Coupe Psycho !
+<var> utilise Psykoud'Boul !
+<var> sauvage utilise Psykoud'Boul !
+<var> ennemi utilise Psykoud'Boul !
+<var> <var> utilise Psykoud'Boul !
+<var> utilise Miroi-Tir !
+<var> sauvage utilise Miroi-Tir !
+<var> ennemi utilise Miroi-Tir !
+<var> <var> utilise Miroi-Tir !
+<var> utilise Luminocanon !
+<var> sauvage utilise Luminocanon !
+<var> ennemi utilise Luminocanon !
+<var> <var> utilise Luminocanon !
+<var> utilise Escalade !
+<var> sauvage utilise Escalade !
+<var> ennemi utilise Escalade !
+<var> <var> utilise Escalade !
+<var> utilise Anti-Brume !
+<var> sauvage utilise Anti-Brume !
+<var> ennemi utilise Anti-Brume !
+<var> <var> utilise Anti-Brume !
+<var> utilise Distorsion !
+<var> sauvage utilise Distorsion !
+<var> ennemi utilise Distorsion !
+<var> <var> utilise Distorsion !
+<var> utilise Draco-Météore !
+<var> sauvage utilise Draco-Météore !
+<var> ennemi utilise Draco-Météore !
+<var> <var> utilise Draco-Météore !
+<var> utilise Coup d'Jus !
+<var> sauvage utilise Coup d'Jus !
+<var> ennemi utilise Coup d'Jus !
+<var> <var> utilise Coup d'Jus !
+<var> utilise Ébullilave !
+<var> sauvage utilise Ébullilave !
+<var> ennemi utilise Ébullilave !
+<var> <var> utilise Ébullilave !
+<var> utilise Tempête Verte !
+<var> sauvage utilise Tempête Verte !
+<var> ennemi utilise Tempête Verte !
+<var> <var> utilise Tempête Verte !
+<var> utilise Mégafouet !
+<var> sauvage utilise Mégafouet !
+<var> ennemi utilise Mégafouet !
+<var> <var> utilise Mégafouet !
+<var> utilise Roc-Boulet !
+<var> sauvage utilise Roc-Boulet !
+<var> ennemi utilise Roc-Boulet !
+<var> <var> utilise Roc-Boulet !
+<var> utilise Poison Croix !
+<var> sauvage utilise Poison Croix !
+<var> ennemi utilise Poison Croix !
+<var> <var> utilise Poison Croix !
+<var> utilise Détricanon !
+<var> sauvage utilise Détricanon !
+<var> ennemi utilise Détricanon !
+<var> <var> utilise Détricanon !
+<var> utilise Tête de Fer !
+<var> sauvage utilise Tête de Fer !
+<var> ennemi utilise Tête de Fer !
+<var> <var> utilise Tête de Fer !
+<var> utilise Bombe Aimant !
+<var> sauvage utilise Bombe Aimant !
+<var> ennemi utilise Bombe Aimant !
+<var> <var> utilise Bombe Aimant !
+<var> utilise Lame de Roc !
+<var> sauvage utilise Lame de Roc !
+<var> ennemi utilise Lame de Roc !
+<var> <var> utilise Lame de Roc !
+<var> utilise Séduction !
+<var> sauvage utilise Séduction !
+<var> ennemi utilise Séduction !
+<var> <var> utilise Séduction !
+<var> utilise Piège de Roc !
+<var> sauvage utilise Piège de Roc !
+<var> ennemi utilise Piège de Roc !
+<var> <var> utilise Piège de Roc !
+<var> utilise Nœud Herbe !
+<var> sauvage utilise Nœud Herbe !
+<var> ennemi utilise Nœud Herbe !
+<var> <var> utilise Nœud Herbe !
+<var> utilise Babil !
+<var> sauvage utilise Babil !
+<var> ennemi utilise Babil !
+<var> <var> utilise Babil !
+<var> utilise Jugement !
+<var> sauvage utilise Jugement !
+<var> ennemi utilise Jugement !
+<var> <var> utilise Jugement !
+<var> utilise Piqûre !
+<var> sauvage utilise Piqûre !
+<var> ennemi utilise Piqûre !
+<var> <var> utilise Piqûre !
+<var> utilise Rayon Chargé !
+<var> sauvage utilise Rayon Chargé !
+<var> ennemi utilise Rayon Chargé !
+<var> <var> utilise Rayon Chargé !
+<var> utilise Martobois !
+<var> sauvage utilise Martobois !
+<var> ennemi utilise Martobois !
+<var> <var> utilise Martobois !
+<var> utilise Aqua-Jet !
+<var> sauvage utilise Aqua-Jet !
+<var> ennemi utilise Aqua-Jet !
+<var> <var> utilise Aqua-Jet !
+<var> utilise Appel Attaque !
+<var> sauvage utilise Appel Attaque !
+<var> ennemi utilise Appel Attaque !
+<var> <var> utilise Appel Attaque !
+<var> utilise Appel Défense !
+<var> sauvage utilise Appel Défense !
+<var> ennemi utilise Appel Défense !
+<var> <var> utilise Appel Défense !
+<var> utilise Appel Soins !
+<var> sauvage utilise Appel Soins !
+<var> ennemi utilise Appel Soins !
+<var> <var> utilise Appel Soins !
+<var> utilise Fracass'Tête !
+<var> sauvage utilise Fracass'Tête !
+<var> ennemi utilise Fracass'Tête !
+<var> <var> utilise Fracass'Tête !
+<var> utilise Coup Double !
+<var> sauvage utilise Coup Double !
+<var> ennemi utilise Coup Double !
+<var> <var> utilise Coup Double !
+<var> utilise Hurle-Temps !
+<var> sauvage utilise Hurle-Temps !
+<var> ennemi utilise Hurle-Temps !
+<var> <var> utilise Hurle-Temps !
+<var> utilise Spatio-Rift !
+<var> sauvage utilise Spatio-Rift !
+<var> ennemi utilise Spatio-Rift !
+<var> <var> utilise Spatio-Rift !
+<var> utilise Danse Lune !
+<var> sauvage utilise Danse Lune !
+<var> ennemi utilise Danse Lune !
+<var> <var> utilise Danse Lune !
+<var> utilise Presse !
+<var> sauvage utilise Presse !
+<var> ennemi utilise Presse !
+<var> <var> utilise Presse !
+<var> utilise Vortex Magma !
+<var> sauvage utilise Vortex Magma !
+<var> ennemi utilise Vortex Magma !
+<var> <var> utilise Vortex Magma !
+<var> utilise Trou Noir !
+<var> sauvage utilise Trou Noir !
+<var> ennemi utilise Trou Noir !
+<var> <var> utilise Trou Noir !
+<var> utilise Fulmigraine !
+<var> sauvage utilise Fulmigraine !
+<var> ennemi utilise Fulmigraine !
+<var> <var> utilise Fulmigraine !
+<var> utilise Vent Mauvais !
+<var> sauvage utilise Vent Mauvais !
+<var> ennemi utilise Vent Mauvais !
+<var> <var> utilise Vent Mauvais !
+<var> utilise Revenant !
+<var> sauvage utilise Revenant !
+<var> ennemi utilise Revenant !
+<var> <var> utilise Revenant !
+<var> utilise Aiguisage !
+<var> sauvage utilise Aiguisage !
+<var> ennemi utilise Aiguisage !
+<var> <var> utilise Aiguisage !
+<var> utilise Garde Large !
+<var> sauvage utilise Garde Large !
+<var> ennemi utilise Garde Large !
+<var> <var> utilise Garde Large !
+<var> utilise Partage Garde !
+<var> sauvage utilise Partage Garde !
+<var> ennemi utilise Partage Garde !
+<var> <var> utilise Partage Garde !
+<var> utilise Partage Force !
+<var> sauvage utilise Partage Force !
+<var> ennemi utilise Partage Force !
+<var> <var> utilise Partage Force !
+<var> utilise Zone Étrange !
+<var> sauvage utilise Zone Étrange !
+<var> ennemi utilise Zone Étrange !
+<var> <var> utilise Zone Étrange !
+<var> utilise Choc Psy !
+<var> sauvage utilise Choc Psy !
+<var> ennemi utilise Choc Psy !
+<var> <var> utilise Choc Psy !
+<var> utilise Choc Venin !
+<var> sauvage utilise Choc Venin !
+<var> ennemi utilise Choc Venin !
+<var> <var> utilise Choc Venin !
+<var> utilise Allègement !
+<var> sauvage utilise Allègement !
+<var> ennemi utilise Allègement !
+<var> <var> utilise Allègement !
+<var> utilise Poudre Fureur !
+<var> sauvage utilise Poudre Fureur !
+<var> ennemi utilise Poudre Fureur !
+<var> <var> utilise Poudre Fureur !
+<var> utilise Lévikinésie !
+<var> sauvage utilise Lévikinésie !
+<var> ennemi utilise Lévikinésie !
+<var> <var> utilise Lévikinésie !
+<var> utilise Zone Magique !
+<var> sauvage utilise Zone Magique !
+<var> ennemi utilise Zone Magique !
+<var> <var> utilise Zone Magique !
+<var> utilise Anti-Air !
+<var> sauvage utilise Anti-Air !
+<var> ennemi utilise Anti-Air !
+<var> <var> utilise Anti-Air !
+<var> utilise Yama Arashi !
+<var> sauvage utilise Yama Arashi !
+<var> ennemi utilise Yama Arashi !
+<var> <var> utilise Yama Arashi !
+<var> utilise Rebondifeu !
+<var> sauvage utilise Rebondifeu !
+<var> ennemi utilise Rebondifeu !
+<var> <var> utilise Rebondifeu !
+<var> utilise Cradovague !
+<var> sauvage utilise Cradovague !
+<var> ennemi utilise Cradovague !
+<var> <var> utilise Cradovague !
+<var> utilise Papillodanse !
+<var> sauvage utilise Papillodanse !
+<var> ennemi utilise Papillodanse !
+<var> <var> utilise Papillodanse !
+<var> utilise Tacle Lourd !
+<var> sauvage utilise Tacle Lourd !
+<var> ennemi utilise Tacle Lourd !
+<var> <var> utilise Tacle Lourd !
+<var> utilise Synchropeine !
+<var> sauvage utilise Synchropeine !
+<var> ennemi utilise Synchropeine !
+<var> <var> utilise Synchropeine !
+<var> utilise Boule Élek !
+<var> sauvage utilise Boule Élek !
+<var> ennemi utilise Boule Élek !
+<var> <var> utilise Boule Élek !
+<var> utilise Détrempage !
+<var> sauvage utilise Détrempage !
+<var> ennemi utilise Détrempage !
+<var> <var> utilise Détrempage !
+<var> utilise Nitrocharge !
+<var> sauvage utilise Nitrocharge !
+<var> ennemi utilise Nitrocharge !
+<var> <var> utilise Nitrocharge !
+<var> utilise Enroulement !
+<var> sauvage utilise Enroulement !
+<var> ennemi utilise Enroulement !
+<var> <var> utilise Enroulement !
+<var> utilise Balayette !
+<var> sauvage utilise Balayette !
+<var> ennemi utilise Balayette !
+<var> <var> utilise Balayette !
+<var> utilise Bombe Acide !
+<var> sauvage utilise Bombe Acide !
+<var> ennemi utilise Bombe Acide !
+<var> <var> utilise Bombe Acide !
+<var> utilise Tricherie !
+<var> sauvage utilise Tricherie !
+<var> ennemi utilise Tricherie !
+<var> <var> utilise Tricherie !
+<var> utilise Rayon Simple !
+<var> sauvage utilise Rayon Simple !
+<var> ennemi utilise Rayon Simple !
+<var> <var> utilise Rayon Simple !
+<var> utilise Ten-Danse !
+<var> sauvage utilise Ten-Danse !
+<var> ennemi utilise Ten-Danse !
+<var> <var> utilise Ten-Danse !
+<var> utilise Après Vous !
+<var> sauvage utilise Après Vous !
+<var> ennemi utilise Après Vous !
+<var> <var> utilise Après Vous !
+<var> utilise Chant Canon !
+<var> sauvage utilise Chant Canon !
+<var> ennemi utilise Chant Canon !
+<var> <var> utilise Chant Canon !
+<var> utilise Écho !
+<var> sauvage utilise Écho !
+<var> ennemi utilise Écho !
+<var> <var> utilise Écho !
+<var> utilise Attrition !
+<var> sauvage utilise Attrition !
+<var> ennemi utilise Attrition !
+<var> <var> utilise Attrition !
+<var> utilise Bain de Smog !
+<var> sauvage utilise Bain de Smog !
+<var> ennemi utilise Bain de Smog !
+<var> <var> utilise Bain de Smog !
+<var> utilise Force Ajoutée !
+<var> sauvage utilise Force Ajoutée !
+<var> ennemi utilise Force Ajoutée !
+<var> <var> utilise Force Ajoutée !
+<var> utilise Prévention !
+<var> sauvage utilise Prévention !
+<var> ennemi utilise Prévention !
+<var> <var> utilise Prévention !
+<var> utilise Interversion !
+<var> sauvage utilise Interversion !
+<var> ennemi utilise Interversion !
+<var> <var> utilise Interversion !
+<var> utilise Ébullition !
+<var> sauvage utilise Ébullition !
+<var> ennemi utilise Ébullition !
+<var> <var> utilise Ébullition !
+<var> utilise Exuviation !
+<var> sauvage utilise Exuviation !
+<var> ennemi utilise Exuviation !
+<var> <var> utilise Exuviation !
+<var> utilise Vibra Soin !
+<var> sauvage utilise Vibra Soin !
+<var> ennemi utilise Vibra Soin !
+<var> <var> utilise Vibra Soin !
+<var> utilise Châtiment !
+<var> sauvage utilise Châtiment !
+<var> ennemi utilise Châtiment !
+<var> <var> utilise Châtiment !
+<var> utilise Chute Libre !
+<var> sauvage utilise Chute Libre !
+<var> ennemi utilise Chute Libre !
+<var> <var> utilise Chute Libre !
+<var> utilise Chgt Vitesse !
+<var> sauvage utilise Chgt Vitesse !
+<var> ennemi utilise Chgt Vitesse !
+<var> <var> utilise Chgt Vitesse !
+<var> utilise Projection !
+<var> sauvage utilise Projection !
+<var> ennemi utilise Projection !
+<var> <var> utilise Projection !
+<var> utilise Calcination !
+<var> sauvage utilise Calcination !
+<var> ennemi utilise Calcination !
+<var> <var> utilise Calcination !
+<var> utilise À la Queue !
+<var> sauvage utilise À la Queue !
+<var> ennemi utilise À la Queue !
+<var> <var> utilise À la Queue !
+<var> utilise Acrobatie !
+<var> sauvage utilise Acrobatie !
+<var> ennemi utilise Acrobatie !
+<var> <var> utilise Acrobatie !
+<var> utilise Copie-Type !
+<var> sauvage utilise Copie-Type !
+<var> ennemi utilise Copie-Type !
+<var> <var> utilise Copie-Type !
+<var> utilise Vengeance !
+<var> sauvage utilise Vengeance !
+<var> ennemi utilise Vengeance !
+<var> <var> utilise Vengeance !
+<var> utilise Tout ou Rien !
+<var> sauvage utilise Tout ou Rien !
+<var> ennemi utilise Tout ou Rien !
+<var> <var> utilise Tout ou Rien !
+<var> utilise Passe-Cadeau !
+<var> sauvage utilise Passe-Cadeau !
+<var> ennemi utilise Passe-Cadeau !
+<var> <var> utilise Passe-Cadeau !
+<var> utilise Feu d'Enfer !
+<var> sauvage utilise Feu d'Enfer !
+<var> ennemi utilise Feu d'Enfer !
+<var> <var> utilise Feu d'Enfer !
+<var> utilise Aire d'Eau !
+<var> sauvage utilise Aire d'Eau !
+<var> ennemi utilise Aire d'Eau !
+<var> <var> utilise Aire d'Eau !
+<var> utilise Aire de Feu !
+<var> sauvage utilise Aire de Feu !
+<var> ennemi utilise Aire de Feu !
+<var> <var> utilise Aire de Feu !
+<var> utilise Aire d'Herbe !
+<var> sauvage utilise Aire d'Herbe !
+<var> ennemi utilise Aire d'Herbe !
+<var> <var> utilise Aire d'Herbe !
+<var> utilise Change Éclair !
+<var> sauvage utilise Change Éclair !
+<var> ennemi utilise Change Éclair !
+<var> <var> utilise Change Éclair !
+<var> utilise Survinsecte !
+<var> sauvage utilise Survinsecte !
+<var> ennemi utilise Survinsecte !
+<var> <var> utilise Survinsecte !
+<var> utilise Piétisol !
+<var> sauvage utilise Piétisol !
+<var> ennemi utilise Piétisol !
+<var> <var> utilise Piétisol !
+<var> utilise Souffle Glacé !
+<var> sauvage utilise Souffle Glacé !
+<var> ennemi utilise Souffle Glacé !
+<var> <var> utilise Souffle Glacé !
+<var> utilise Draco-Queue !
+<var> sauvage utilise Draco-Queue !
+<var> ennemi utilise Draco-Queue !
+<var> <var> utilise Draco-Queue !
+<var> utilise Rengorgement !
+<var> sauvage utilise Rengorgement !
+<var> ennemi utilise Rengorgement !
+<var> <var> utilise Rengorgement !
+<var> utilise Toile Élek !
+<var> sauvage utilise Toile Élek !
+<var> ennemi utilise Toile Élek !
+<var> <var> utilise Toile Élek !
+<var> utilise Éclair Fou !
+<var> sauvage utilise Éclair Fou !
+<var> ennemi utilise Éclair Fou !
+<var> <var> utilise Éclair Fou !
+<var> utilise Tunnelier !
+<var> sauvage utilise Tunnelier !
+<var> ennemi utilise Tunnelier !
+<var> <var> utilise Tunnelier !
+<var> utilise Double Baffe !
+<var> sauvage utilise Double Baffe !
+<var> ennemi utilise Double Baffe !
+<var> <var> utilise Double Baffe !
+<var> utilise Crève-Cœur !
+<var> sauvage utilise Crève-Cœur !
+<var> ennemi utilise Crève-Cœur !
+<var> <var> utilise Crève-Cœur !
+<var> utilise Encornebois !
+<var> sauvage utilise Encornebois !
+<var> ennemi utilise Encornebois !
+<var> <var> utilise Encornebois !
+<var> utilise Lame Sainte !
+<var> sauvage utilise Lame Sainte !
+<var> ennemi utilise Lame Sainte !
+<var> <var> utilise Lame Sainte !
+<var> utilise Coqui-Lame !
+<var> sauvage utilise Coqui-Lame !
+<var> ennemi utilise Coqui-Lame !
+<var> <var> utilise Coqui-Lame !
+<var> utilise Tacle Feu !
+<var> sauvage utilise Tacle Feu !
+<var> ennemi utilise Tacle Feu !
+<var> <var> utilise Tacle Feu !
+<var> utilise Phytomixeur !
+<var> sauvage utilise Phytomixeur !
+<var> ennemi utilise Phytomixeur !
+<var> <var> utilise Phytomixeur !
+<var> utilise Bulldoboule !
+<var> sauvage utilise Bulldoboule !
+<var> ennemi utilise Bulldoboule !
+<var> <var> utilise Bulldoboule !
+<var> utilise Cotogarde !
+<var> sauvage utilise Cotogarde !
+<var> ennemi utilise Cotogarde !
+<var> <var> utilise Cotogarde !
+<var> utilise Explonuit !
+<var> sauvage utilise Explonuit !
+<var> ennemi utilise Explonuit !
+<var> <var> utilise Explonuit !
+<var> utilise Frappe Psy !
+<var> sauvage utilise Frappe Psy !
+<var> ennemi utilise Frappe Psy !
+<var> <var> utilise Frappe Psy !
+<var> utilise Plumo-Queue !
+<var> sauvage utilise Plumo-Queue !
+<var> ennemi utilise Plumo-Queue !
+<var> <var> utilise Plumo-Queue !
+<var> utilise Vent Violent !
+<var> sauvage utilise Vent Violent !
+<var> ennemi utilise Vent Violent !
+<var> <var> utilise Vent Violent !
+<var> utilise Peignée !
+<var> sauvage utilise Peignée !
+<var> ennemi utilise Peignée !
+<var> <var> utilise Peignée !
+<var> utilise Lancécrou !
+<var> sauvage utilise Lancécrou !
+<var> ennemi utilise Lancécrou !
+<var> <var> utilise Lancécrou !
+<var> utilise Incendie !
+<var> sauvage utilise Incendie !
+<var> ennemi utilise Incendie !
+<var> <var> utilise Incendie !
+<var> utilise Techno-Buster !
+<var> sauvage utilise Techno-Buster !
+<var> ennemi utilise Techno-Buster !
+<var> <var> utilise Techno-Buster !
+<var> utilise Chant Antique !
+<var> sauvage utilise Chant Antique !
+<var> ennemi utilise Chant Antique !
+<var> <var> utilise Chant Antique !
+<var> utilise Lame Ointe !
+<var> sauvage utilise Lame Ointe !
+<var> ennemi utilise Lame Ointe !
+<var> <var> utilise Lame Ointe !
+<var> utilise Ère Glaciaire !
+<var> sauvage utilise Ère Glaciaire !
+<var> ennemi utilise Ère Glaciaire !
+<var> <var> utilise Ère Glaciaire !
+<var> utilise Charge Foudre !
+<var> sauvage utilise Charge Foudre !
+<var> ennemi utilise Charge Foudre !
+<var> <var> utilise Charge Foudre !
+<var> utilise Flamme Bleue !
+<var> sauvage utilise Flamme Bleue !
+<var> ennemi utilise Flamme Bleue !
+<var> <var> utilise Flamme Bleue !
+<var> utilise Danse du Feu !
+<var> sauvage utilise Danse du Feu !
+<var> ennemi utilise Danse du Feu !
+<var> <var> utilise Danse du Feu !
+<var> utilise Éclair Gelé !
+<var> sauvage utilise Éclair Gelé !
+<var> ennemi utilise Éclair Gelé !
+<var> <var> utilise Éclair Gelé !
+<var> utilise Feu Glacé !
+<var> sauvage utilise Feu Glacé !
+<var> ennemi utilise Feu Glacé !
+<var> <var> utilise Feu Glacé !
+<var> utilise Aboiement !
+<var> sauvage utilise Aboiement !
+<var> ennemi utilise Aboiement !
+<var> <var> utilise Aboiement !
+<var> utilise Chute Glace !
+<var> sauvage utilise Chute Glace !
+<var> ennemi utilise Chute Glace !
+<var> <var> utilise Chute Glace !
+<var> utilise Coup Victoire !
+<var> sauvage utilise Coup Victoire !
+<var> ennemi utilise Coup Victoire !
+<var> <var> utilise Coup Victoire !
+<var> utilise Flamme Croix !
+<var> sauvage utilise Flamme Croix !
+<var> ennemi utilise Flamme Croix !
+<var> <var> utilise Flamme Croix !
+<var> utilise Éclair Croix !
+<var> sauvage utilise Éclair Croix !
+<var> ennemi utilise Éclair Croix !
+<var> <var> utilise Éclair Croix !
+<var> utilise Flying Press !
+<var> sauvage utilise Flying Press !
+<var> ennemi utilise Flying Press !
+<var> <var> utilise Flying Press !
+<var> utilise Tatamigaeshi !
+<var> sauvage utilise Tatamigaeshi !
+<var> ennemi utilise Tatamigaeshi !
+<var> <var> utilise Tatamigaeshi !
+<var> utilise Éructation !
+<var> sauvage utilise Éructation !
+<var> ennemi utilise Éructation !
+<var> <var> utilise Éructation !
+<var> utilise Fertilisation !
+<var> sauvage utilise Fertilisation !
+<var> ennemi utilise Fertilisation !
+<var> <var> utilise Fertilisation !
+<var> utilise Toile Gluante !
+<var> sauvage utilise Toile Gluante !
+<var> ennemi utilise Toile Gluante !
+<var> <var> utilise Toile Gluante !
+<var> utilise Dard Mortel !
+<var> sauvage utilise Dard Mortel !
+<var> ennemi utilise Dard Mortel !
+<var> <var> utilise Dard Mortel !
+<var> utilise Hantise !
+<var> sauvage utilise Hantise !
+<var> ennemi utilise Hantise !
+<var> <var> utilise Hantise !
+<var> utilise Halloween !
+<var> sauvage utilise Halloween !
+<var> ennemi utilise Halloween !
+<var> <var> utilise Halloween !
+<var> utilise Râle Mâle !
+<var> sauvage utilise Râle Mâle !
+<var> ennemi utilise Râle Mâle !
+<var> <var> utilise Râle Mâle !
+<var> utilise Déluge Plasmique !
+<var> sauvage utilise Déluge Plasmique !
+<var> ennemi utilise Déluge Plasmique !
+<var> <var> utilise Déluge Plasmique !
+<var> utilise Parabocharge !
+<var> sauvage utilise Parabocharge !
+<var> ennemi utilise Parabocharge !
+<var> <var> utilise Parabocharge !
+<var> utilise Maléfice Sylvain !
+<var> sauvage utilise Maléfice Sylvain !
+<var> ennemi utilise Maléfice Sylvain !
+<var> <var> utilise Maléfice Sylvain !
+<var> utilise Tempête Florale !
+<var> sauvage utilise Tempête Florale !
+<var> ennemi utilise Tempête Florale !
+<var> <var> utilise Tempête Florale !
+<var> utilise Lyophilisation !
+<var> sauvage utilise Lyophilisation !
+<var> ennemi utilise Lyophilisation !
+<var> <var> utilise Lyophilisation !
+<var> utilise Voix Enjôleuse !
+<var> sauvage utilise Voix Enjôleuse !
+<var> ennemi utilise Voix Enjôleuse !
+<var> <var> utilise Voix Enjôleuse !
+<var> utilise Dernier Mot !
+<var> sauvage utilise Dernier Mot !
+<var> ennemi utilise Dernier Mot !
+<var> <var> utilise Dernier Mot !
+<var> utilise Renversement !
+<var> sauvage utilise Renversement !
+<var> ennemi utilise Renversement !
+<var> <var> utilise Renversement !
+<var> utilise Vampibaiser !
+<var> sauvage utilise Vampibaiser !
+<var> ennemi utilise Vampibaiser !
+<var> <var> utilise Vampibaiser !
+<var> utilise Vigilance !
+<var> sauvage utilise Vigilance !
+<var> ennemi utilise Vigilance !
+<var> <var> utilise Vigilance !
+<var> utilise Garde Florale !
+<var> sauvage utilise Garde Florale !
+<var> ennemi utilise Garde Florale !
+<var> <var> utilise Garde Florale !
+<var> utilise Champ Herbu !
+<var> sauvage utilise Champ Herbu !
+<var> ennemi utilise Champ Herbu !
+<var> <var> utilise Champ Herbu !
+<var> utilise Champ Brumeux !
+<var> sauvage utilise Champ Brumeux !
+<var> ennemi utilise Champ Brumeux !
+<var> <var> utilise Champ Brumeux !
+<var> utilise Électrisation !
+<var> sauvage utilise Électrisation !
+<var> ennemi utilise Électrisation !
+<var> <var> utilise Électrisation !
+<var> utilise Câlinerie !
+<var> sauvage utilise Câlinerie !
+<var> ennemi utilise Câlinerie !
+<var> <var> utilise Câlinerie !
+<var> utilise Vent Féérique !
+<var> sauvage utilise Vent Féérique !
+<var> ennemi utilise Vent Féérique !
+<var> <var> utilise Vent Féérique !
+<var> utilise Pouvoir Lunaire !
+<var> sauvage utilise Pouvoir Lunaire !
+<var> ennemi utilise Pouvoir Lunaire !
+<var> <var> utilise Pouvoir Lunaire !
+<var> utilise Bang Sonique !
+<var> sauvage utilise Bang Sonique !
+<var> ennemi utilise Bang Sonique !
+<var> <var> utilise Bang Sonique !
+<var> utilise Verrou Enchanté !
+<var> sauvage utilise Verrou Enchanté !
+<var> ennemi utilise Verrou Enchanté !
+<var> <var> utilise Verrou Enchanté !
+<var> utilise Bouclier Royal !
+<var> sauvage utilise Bouclier Royal !
+<var> ennemi utilise Bouclier Royal !
+<var> <var> utilise Bouclier Royal !
+<var> utilise Camaraderie !
+<var> sauvage utilise Camaraderie !
+<var> ennemi utilise Camaraderie !
+<var> <var> utilise Camaraderie !
+<var> utilise Confidence !
+<var> sauvage utilise Confidence !
+<var> ennemi utilise Confidence !
+<var> <var> utilise Confidence !
+<var> utilise Orage Adamantin !
+<var> sauvage utilise Orage Adamantin !
+<var> ennemi utilise Orage Adamantin !
+<var> <var> utilise Orage Adamantin !
+<var> utilise Jet de Vapeur !
+<var> sauvage utilise Jet de Vapeur !
+<var> ennemi utilise Jet de Vapeur !
+<var> <var> utilise Jet de Vapeur !
+<var> utilise TrouDimensionnel !
+<var> sauvage utilise TrouDimensionnel !
+<var> ennemi utilise TrouDimensionnel !
+<var> <var> utilise TrouDimensionnel !
+<var> utilise Sheauriken !
+<var> sauvage utilise Sheauriken !
+<var> ennemi utilise Sheauriken !
+<var> <var> utilise Sheauriken !
+<var> utilise Feu Ensorcelé !
+<var> sauvage utilise Feu Ensorcelé !
+<var> ennemi utilise Feu Ensorcelé !
+<var> <var> utilise Feu Ensorcelé !
+<var> utilise Pico-Défense !
+<var> sauvage utilise Pico-Défense !
+<var> ennemi utilise Pico-Défense !
+<var> <var> utilise Pico-Défense !
+<var> utilise Brume Capiteuse !
+<var> sauvage utilise Brume Capiteuse !
+<var> ennemi utilise Brume Capiteuse !
+<var> <var> utilise Brume Capiteuse !
+<var> utilise Ondes Étranges !
+<var> sauvage utilise Ondes Étranges !
+<var> ennemi utilise Ondes Étranges !
+<var> <var> utilise Ondes Étranges !
+<var> utilise Piège de Venin !
+<var> sauvage utilise Piège de Venin !
+<var> ennemi utilise Piège de Venin !
+<var> <var> utilise Piège de Venin !
+<var> utilise Nuée de Poudre !
+<var> sauvage utilise Nuée de Poudre !
+<var> ennemi utilise Nuée de Poudre !
+<var> <var> utilise Nuée de Poudre !
+<var> utilise Géo-Contrôle !
+<var> sauvage utilise Géo-Contrôle !
+<var> ennemi utilise Géo-Contrôle !
+<var> <var> utilise Géo-Contrôle !
+<var> utilise Magné-Contrôle !
+<var> sauvage utilise Magné-Contrôle !
+<var> ennemi utilise Magné-Contrôle !
+<var> <var> utilise Magné-Contrôle !
+<var> utilise Étrennes !
+<var> sauvage utilise Étrennes !
+<var> ennemi utilise Étrennes !
+<var> <var> utilise Étrennes !
+<var> utilise Champ Électrifié !
+<var> sauvage utilise Champ Électrifié !
+<var> ennemi utilise Champ Électrifié !
+<var> <var> utilise Champ Électrifié !
+<var> utilise Éclat Magique !
+<var> sauvage utilise Éclat Magique !
+<var> ennemi utilise Éclat Magique !
+<var> <var> utilise Éclat Magique !
+<var> utilise Célébration !
+<var> sauvage utilise Célébration !
+<var> ennemi utilise Célébration !
+<var> <var> utilise Célébration !
+<var> utilise Mains Jointes !
+<var> sauvage utilise Mains Jointes !
+<var> ennemi utilise Mains Jointes !
+<var> <var> utilise Mains Jointes !
+<var> utilise Regard Touchant !
+<var> sauvage utilise Regard Touchant !
+<var> ennemi utilise Regard Touchant !
+<var> <var> utilise Regard Touchant !
+<var> utilise Frotte-Frimousse !
+<var> sauvage utilise Frotte-Frimousse !
+<var> ennemi utilise Frotte-Frimousse !
+<var> <var> utilise Frotte-Frimousse !
+<var> utilise Retenue !
+<var> sauvage utilise Retenue !
+<var> ennemi utilise Retenue !
+<var> <var> utilise Retenue !
+<var> utilise Harcèlement !
+<var> sauvage utilise Harcèlement !
+<var> ennemi utilise Harcèlement !
+<var> <var> utilise Harcèlement !
+<var> utilise Poing Boost !
+<var> sauvage utilise Poing Boost !
+<var> ennemi utilise Poing Boost !
+<var> <var> utilise Poing Boost !
+<var> utilise Mort'Ailes !
+<var> sauvage utilise Mort'Ailes !
+<var> ennemi utilise Mort'Ailes !
+<var> <var> utilise Mort'Ailes !
+<var> utilise Myria-Flèches !
+<var> sauvage utilise Myria-Flèches !
+<var> ennemi utilise Myria-Flèches !
+<var> <var> utilise Myria-Flèches !
+<var> utilise Myria-Vagues !
+<var> sauvage utilise Myria-Vagues !
+<var> ennemi utilise Myria-Vagues !
+<var> <var> utilise Myria-Vagues !
+<var> utilise Force Chtonienne !
+<var> sauvage utilise Force Chtonienne !
+<var> ennemi utilise Force Chtonienne !
+<var> <var> utilise Force Chtonienne !
+<var> utilise Lumière du Néant !
+<var> sauvage utilise Lumière du Néant !
+<var> ennemi utilise Lumière du Néant !
+<var> <var> utilise Lumière du Néant !
+<var> utilise Onde Originelle !
+<var> sauvage utilise Onde Originelle !
+<var> ennemi utilise Onde Originelle !
+<var> <var> utilise Onde Originelle !
+<var> utilise Lame Pangéenne !
+<var> sauvage utilise Lame Pangéenne !
+<var> ennemi utilise Lame Pangéenne !
+<var> <var> utilise Lame Pangéenne !
+<var> utilise Draco-Ascension !
+<var> sauvage utilise Draco-Ascension !
+<var> ennemi utilise Draco-Ascension !
+<var> <var> utilise Draco-Ascension !
+<var> utilise Furie Dimension !
+<var> sauvage utilise Furie Dimension !
+<var> ennemi utilise Furie Dimension !
+<var> <var> utilise Furie Dimension !
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<var> utilise Amass'Sable !
+<var> sauvage utilise Amass'Sable !
+<var> ennemi utilise Amass'Sable !
+<var> <var> utilise Amass'Sable !
+<var> utilise Escarmouche !
+<var> sauvage utilise Escarmouche !
+<var> ennemi utilise Escarmouche !
+<var> <var> utilise Escarmouche !
+<var> utilise Blockhaus !
+<var> sauvage utilise Blockhaus !
+<var> ennemi utilise Blockhaus !
+<var> <var> utilise Blockhaus !
+<var> utilise Tisse Ombre !
+<var> sauvage utilise Tisse Ombre !
+<var> ennemi utilise Tisse Ombre !
+<var> <var> utilise Tisse Ombre !
+<var> utilise Dark Lariat !
+<var> sauvage utilise Dark Lariat !
+<var> ennemi utilise Dark Lariat !
+<var> <var> utilise Dark Lariat !
+<var> utilise Aria de l'Écume !
+<var> sauvage utilise Aria de l'Écume !
+<var> ennemi utilise Aria de l'Écume !
+<var> <var> utilise Aria de l'Écume !
+<var> utilise Marteau de Glace !
+<var> sauvage utilise Marteau de Glace !
+<var> ennemi utilise Marteau de Glace !
+<var> <var> utilise Marteau de Glace !
+<var> utilise Soin Floral !
+<var> sauvage utilise Soin Floral !
+<var> ennemi utilise Soin Floral !
+<var> <var> utilise Soin Floral !
+<var> utilise Cavalerie Lourde !
+<var> sauvage utilise Cavalerie Lourde !
+<var> ennemi utilise Cavalerie Lourde !
+<var> <var> utilise Cavalerie Lourde !
+<var> utilise Vole-Force !
+<var> sauvage utilise Vole-Force !
+<var> ennemi utilise Vole-Force !
+<var> <var> utilise Vole-Force !
+<var> utilise Lame Solaire !
+<var> sauvage utilise Lame Solaire !
+<var> ennemi utilise Lame Solaire !
+<var> <var> utilise Lame Solaire !
+<var> utilise Feuillage !
+<var> sauvage utilise Feuillage !
+<var> ennemi utilise Feuillage !
+<var> <var> utilise Feuillage !
+<var> utilise Projecteur !
+<var> sauvage utilise Projecteur !
+<var> ennemi utilise Projecteur !
+<var> <var> utilise Projecteur !
+<var> utilise Fil Toxique !
+<var> sauvage utilise Fil Toxique !
+<var> ennemi utilise Fil Toxique !
+<var> <var> utilise Fil Toxique !
+<var> utilise Affilage !
+<var> sauvage utilise Affilage !
+<var> ennemi utilise Affilage !
+<var> <var> utilise Affilage !
+<var> utilise Engrenage !
+<var> sauvage utilise Engrenage !
+<var> ennemi utilise Engrenage !
+<var> <var> utilise Engrenage !
+<var> utilise Exécu-Son !
+<var> sauvage utilise Exécu-Son !
+<var> ennemi utilise Exécu-Son !
+<var> <var> utilise Exécu-Son !
+<var> utilise Boule Pollen !
+<var> sauvage utilise Boule Pollen !
+<var> ennemi utilise Boule Pollen !
+<var> <var> utilise Boule Pollen !
+<var> utilise Ancrage !
+<var> sauvage utilise Ancrage !
+<var> ennemi utilise Ancrage !
+<var> <var> utilise Ancrage !
+<var> utilise Champ Psychique !
+<var> sauvage utilise Champ Psychique !
+<var> ennemi utilise Champ Psychique !
+<var> <var> utilise Champ Psychique !
+<var> utilise Furie-Bond !
+<var> sauvage utilise Furie-Bond !
+<var> ennemi utilise Furie-Bond !
+<var> <var> utilise Furie-Bond !
+<var> utilise Fouet de Feu !
+<var> sauvage utilise Fouet de Feu !
+<var> ennemi utilise Fouet de Feu !
+<var> <var> utilise Fouet de Feu !
+<var> utilise Arrogance !
+<var> sauvage utilise Arrogance !
+<var> ennemi utilise Arrogance !
+<var> <var> utilise Arrogance !
+<var> utilise Flamme Ultime !
+<var> sauvage utilise Flamme Ultime !
+<var> ennemi utilise Flamme Ultime !
+<var> <var> utilise Flamme Ultime !
+<var> utilise Permuvitesse !
+<var> sauvage utilise Permuvitesse !
+<var> ennemi utilise Permuvitesse !
+<var> <var> utilise Permuvitesse !
+<var> utilise Estocorne !
+<var> sauvage utilise Estocorne !
+<var> ennemi utilise Estocorne !
+<var> <var> utilise Estocorne !
+<var> utilise Purification !
+<var> sauvage utilise Purification !
+<var> ennemi utilise Purification !
+<var> <var> utilise Purification !
+<var> utilise Danse Éveil !
+<var> sauvage utilise Danse Éveil !
+<var> ennemi utilise Danse Éveil !
+<var> <var> utilise Danse Éveil !
+<var> utilise Sanction Suprême !
+<var> sauvage utilise Sanction Suprême !
+<var> ennemi utilise Sanction Suprême !
+<var> <var> utilise Sanction Suprême !
+<var> utilise Botte Sucrette !
+<var> sauvage utilise Botte Sucrette !
+<var> ennemi utilise Botte Sucrette !
+<var> <var> utilise Botte Sucrette !
+<var> utilise Sommation !
+<var> sauvage utilise Sommation !
+<var> ennemi utilise Sommation !
+<var> <var> utilise Sommation !
+<var> utilise Bec-Canon !
+<var> sauvage utilise Bec-Canon !
+<var> ennemi utilise Bec-Canon !
+<var> <var> utilise Bec-Canon !
+<var> utilise Vibrécaille !
+<var> sauvage utilise Vibrécaille !
+<var> ennemi utilise Vibrécaille !
+<var> <var> utilise Vibrécaille !
+<var> utilise Draco-Marteau !
+<var> sauvage utilise Draco-Marteau !
+<var> ennemi utilise Draco-Marteau !
+<var> <var> utilise Draco-Marteau !
+<var> utilise Centrifugifle !
+<var> sauvage utilise Centrifugifle !
+<var> ennemi utilise Centrifugifle !
+<var> <var> utilise Centrifugifle !
+<var> utilise Voile Aurore !
+<var> sauvage utilise Voile Aurore !
+<var> ennemi utilise Voile Aurore !
+<var> <var> utilise Voile Aurore !
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<var> utilise Carapiège !
+<var> sauvage utilise Carapiège !
+<var> ennemi utilise Carapiège !
+<var> <var> utilise Carapiège !
+<var> utilise Canon Floral !
+<var> sauvage utilise Canon Floral !
+<var> ennemi utilise Canon Floral !
+<var> <var> utilise Canon Floral !
+<var> utilise Psycho-Croc !
+<var> sauvage utilise Psycho-Croc !
+<var> ennemi utilise Psycho-Croc !
+<var> <var> utilise Psycho-Croc !
+<var> utilise Trépignement !
+<var> sauvage utilise Trépignement !
+<var> ennemi utilise Trépignement !
+<var> <var> utilise Trépignement !
+<var> utilise Os Ombre !
+<var> sauvage utilise Os Ombre !
+<var> ennemi utilise Os Ombre !
+<var> <var> utilise Os Ombre !
+<var> utilise Vif Roc !
+<var> sauvage utilise Vif Roc !
+<var> ennemi utilise Vif Roc !
+<var> <var> utilise Vif Roc !
+<var> utilise Aqua-Brèche !
+<var> sauvage utilise Aqua-Brèche !
+<var> ennemi utilise Aqua-Brèche !
+<var> <var> utilise Aqua-Brèche !
+<var> utilise Laser Prisme !
+<var> sauvage utilise Laser Prisme !
+<var> ennemi utilise Laser Prisme !
+<var> <var> utilise Laser Prisme !
+<var> utilise Clepto-Mânes !
+<var> sauvage utilise Clepto-Mânes !
+<var> ennemi utilise Clepto-Mânes !
+<var> <var> utilise Clepto-Mânes !
+<var> utilise Choc Météore !
+<var> sauvage utilise Choc Météore !
+<var> ennemi utilise Choc Météore !
+<var> <var> utilise Choc Météore !
+<var> utilise Rayon Spectral !
+<var> sauvage utilise Rayon Spectral !
+<var> ennemi utilise Rayon Spectral !
+<var> <var> utilise Rayon Spectral !
+<var> utilise Larme à l'Œil !
+<var> sauvage utilise Larme à l'Œil !
+<var> ennemi utilise Larme à l'Œil !
+<var> <var> utilise Larme à l'Œil !
+<var> utilise Électrikipik !
+<var> sauvage utilise Électrikipik !
+<var> ennemi utilise Électrikipik !
+<var> <var> utilise Électrikipik !
+<var> utilise Ire de la Nature !
+<var> sauvage utilise Ire de la Nature !
+<var> ennemi utilise Ire de la Nature !
+<var> <var> utilise Ire de la Nature !
+<var> utilise Coup Varia-Type !
+<var> sauvage utilise Coup Varia-Type !
+<var> ennemi utilise Coup Varia-Type !
+<var> <var> utilise Coup Varia-Type !
+
+
+
+
+<var> utilise Caboche-Kaboum !
+<var> sauvage utilise Caboche-Kaboum !
+<var> ennemi utilise Caboche-Kaboum !
+<var> <var> utilise Caboche-Kaboum !
+<var> utilise Plasma Punch !
+<var> sauvage utilise Plasma Punch !
+<var> ennemi utilise Plasma Punch !
+<var> <var> utilise Plasma Punch !
+<var> utilise Photo-Geyser !
+<var> sauvage utilise Photo-Geyser !
+<var> ennemi utilise Photo-Geyser !
+<var> <var> utilise Photo-Geyser !
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<var> utilise Pika-Sprint !
+<var> sauvage utilise Pika-Sprint !
+<var> ennemi utilise Pika-Sprint !
+<var> <var> utilise Pika-Sprint !
+<var> utilise Pika-Splash !
+<var> sauvage utilise Pika-Splash !
+<var> ennemi utilise Pika-Splash !
+<var> <var> utilise Pika-Splash !
+<var> utilise Pika-Piqué !
+<var> sauvage utilise Pika-Piqué !
+<var> ennemi utilise Pika-Piqué !
+<var> <var> utilise Pika-Piqué !
+<var> utilise Pika-Fracas !
+<var> sauvage utilise Pika-Fracas !
+<var> ennemi utilise Pika-Fracas !
+<var> <var> utilise Pika-Fracas !
+<var> utilise Évo-Thalasso !
+<var> sauvage utilise Évo-Thalasso !
+<var> ennemi utilise Évo-Thalasso !
+<var> <var> utilise Évo-Thalasso !
+<var> utilise Évo-Dynamo !
+<var> sauvage utilise Évo-Dynamo !
+<var> ennemi utilise Évo-Dynamo !
+<var> <var> utilise Évo-Dynamo !
+<var> utilise Évo-Flambo !
+<var> sauvage utilise Évo-Flambo !
+<var> ennemi utilise Évo-Flambo !
+<var> <var> utilise Évo-Flambo !
+<var> utilise Évo-Psycho !
+<var> sauvage utilise Évo-Psycho !
+<var> ennemi utilise Évo-Psycho !
+<var> <var> utilise Évo-Psycho !
+<var> utilise Évo-Ténébro !
+<var> sauvage utilise Évo-Ténébro !
+<var> ennemi utilise Évo-Ténébro !
+<var> <var> utilise Évo-Ténébro !
+<var> utilise Évo-Écolo !
+<var> sauvage utilise Évo-Écolo !
+<var> ennemi utilise Évo-Écolo !
+<var> <var> utilise Évo-Écolo !
+<var> utilise Évo-Congélo !
+<var> sauvage utilise Évo-Congélo !
+<var> ennemi utilise Évo-Congélo !
+<var> <var> utilise Évo-Congélo !
+<var> utilise Évo-Fabulo !
+<var> sauvage utilise Évo-Fabulo !
+<var> ennemi utilise Évo-Fabulo !
+<var> <var> utilise Évo-Fabulo !
+<var> utilise Évo-Chardasso !
+<var> sauvage utilise Évo-Chardasso !
+<var> ennemi utilise Évo-Chardasso !
+<var> <var> utilise Évo-Chardasso !
+<var> utilise Écrous d'Poing !
+<var> sauvage utilise Écrous d'Poing !
+<var> ennemi utilise Écrous d'Poing !
+<var> <var> utilise Écrous d'Poing !
+<var> utilise Gardomax !
+<var> sauvage utilise Gardomax !
+<var> ennemi utilise Gardomax !
+<var> <var> utilise Gardomax !
+<var> utilise Canon Dynamax !
+<var> sauvage utilise Canon Dynamax !
+<var> ennemi utilise Canon Dynamax !
+<var> <var> utilise Canon Dynamax !
+<var> utilise Tir de Précision !
+<var> sauvage utilise Tir de Précision !
+<var> ennemi utilise Tir de Précision !
+<var> <var> utilise Tir de Précision !
+<var> utilise Croque Fort !
+<var> sauvage utilise Croque Fort !
+<var> ennemi utilise Croque Fort !
+<var> <var> utilise Croque Fort !
+<var> utilise Garde-à-Joues !
+<var> sauvage utilise Garde-à-Joues !
+<var> ennemi utilise Garde-à-Joues !
+<var> <var> utilise Garde-à-Joues !
+<var> utilise Ultime Bastion !
+<var> sauvage utilise Ultime Bastion !
+<var> ennemi utilise Ultime Bastion !
+<var> <var> utilise Ultime Bastion !
+<var> utilise Goudronnage !
+<var> sauvage utilise Goudronnage !
+<var> ennemi utilise Goudronnage !
+<var> <var> utilise Goudronnage !
+<var> utilise Poudre Magique !
+<var> sauvage utilise Poudre Magique !
+<var> ennemi utilise Poudre Magique !
+<var> <var> utilise Poudre Magique !
+<var> utilise Draco-Flèches !
+<var> sauvage utilise Draco-Flèches !
+<var> ennemi utilise Draco-Flèches !
+<var> <var> utilise Draco-Flèches !
+<var> utilise Thérémonie !
+<var> sauvage utilise Thérémonie !
+<var> ennemi utilise Thérémonie !
+<var> <var> utilise Thérémonie !
+<var> utilise Octoprise !
+<var> sauvage utilise Octoprise !
+<var> ennemi utilise Octoprise !
+<var> <var> utilise Octoprise !
+<var> utilise Prise de Bec !
+<var> sauvage utilise Prise de Bec !
+<var> ennemi utilise Prise de Bec !
+<var> <var> utilise Prise de Bec !
+<var> utilise Branchicrok !
+<var> sauvage utilise Branchicrok !
+<var> ennemi utilise Branchicrok !
+<var> <var> utilise Branchicrok !
+<var> utilise Change-Côté !
+<var> sauvage utilise Change-Côté !
+<var> ennemi utilise Change-Côté !
+<var> <var> utilise Change-Côté !
+<var> utilise Pyromax !
+<var> sauvage utilise Pyromax !
+<var> ennemi utilise Pyromax !
+<var> <var> utilise Pyromax !
+<var> utilise Insectomax !
+<var> sauvage utilise Insectomax !
+<var> ennemi utilise Insectomax !
+<var> <var> utilise Insectomax !
+<var> utilise Fulguromax !
+<var> sauvage utilise Fulguromax !
+<var> ennemi utilise Fulguromax !
+<var> <var> utilise Fulguromax !
+<var> utilise Normalomax !
+<var> sauvage utilise Normalomax !
+<var> ennemi utilise Normalomax !
+<var> <var> utilise Normalomax !
+<var> utilise Pugilomax !
+<var> sauvage utilise Pugilomax !
+<var> ennemi utilise Pugilomax !
+<var> <var> utilise Pugilomax !
+<var> utilise Spectromax !
+<var> sauvage utilise Spectromax !
+<var> ennemi utilise Spectromax !
+<var> <var> utilise Spectromax !
+<var> utilise Cryomax !
+<var> sauvage utilise Cryomax !
+<var> ennemi utilise Cryomax !
+<var> <var> utilise Cryomax !
+<var> utilise Toxinomax !
+<var> sauvage utilise Toxinomax !
+<var> ennemi utilise Toxinomax !
+<var> <var> utilise Toxinomax !
+<var> utilise Hydromax !
+<var> sauvage utilise Hydromax !
+<var> ennemi utilise Hydromax !
+<var> <var> utilise Hydromax !
+<var> utilise Aéromax !
+<var> sauvage utilise Aéromax !
+<var> ennemi utilise Aéromax !
+<var> <var> utilise Aéromax !
+<var> utilise Enchantomax !
+<var> sauvage utilise Enchantomax !
+<var> ennemi utilise Enchantomax !
+<var> <var> utilise Enchantomax !
+<var> utilise Dracomax !
+<var> sauvage utilise Dracomax !
+<var> ennemi utilise Dracomax !
+<var> <var> utilise Dracomax !
+<var> utilise Psychomax !
+<var> sauvage utilise Psychomax !
+<var> ennemi utilise Psychomax !
+<var> <var> utilise Psychomax !
+<var> utilise Lithomax !
+<var> sauvage utilise Lithomax !
+<var> ennemi utilise Lithomax !
+<var> <var> utilise Lithomax !
+<var> utilise Sismomax !
+<var> sauvage utilise Sismomax !
+<var> ennemi utilise Sismomax !
+<var> <var> utilise Sismomax !
+<var> utilise Sinistromax !
+<var> sauvage utilise Sinistromax !
+<var> ennemi utilise Sinistromax !
+<var> <var> utilise Sinistromax !
+<var> utilise Phytomax !
+<var> sauvage utilise Phytomax !
+<var> ennemi utilise Phytomax !
+<var> <var> utilise Phytomax !
+<var> utilise Métallomax !
+<var> sauvage utilise Métallomax !
+<var> ennemi utilise Métallomax !
+<var> <var> utilise Métallomax !
+<var> utilise Dracacophonie !
+<var> sauvage utilise Dracacophonie !
+<var> ennemi utilise Dracacophonie !
+<var> <var> utilise Dracacophonie !
+<var> utilise Big Splash !
+<var> sauvage utilise Big Splash !
+<var> ennemi utilise Big Splash !
+<var> <var> utilise Big Splash !
+<var> utilise Nappage !
+<var> sauvage utilise Nappage !
+<var> ennemi utilise Nappage !
+<var> <var> utilise Nappage !
+<var> utilise Tambour Battant !
+<var> sauvage utilise Tambour Battant !
+<var> ennemi utilise Tambour Battant !
+<var> <var> utilise Tambour Battant !
+<var> utilise Troquenard !
+<var> sauvage utilise Troquenard !
+<var> ennemi utilise Troquenard !
+<var> <var> utilise Troquenard !
+<var> utilise Ballon Brûlant !
+<var> sauvage utilise Ballon Brûlant !
+<var> ennemi utilise Ballon Brûlant !
+<var> <var> utilise Ballon Brûlant !
+<var> utilise Gladius Maximus !
+<var> sauvage utilise Gladius Maximus !
+<var> ennemi utilise Gladius Maximus !
+<var> <var> utilise Gladius Maximus !
+<var> utilise Aegis Maxima !
+<var> sauvage utilise Aegis Maxima !
+<var> ennemi utilise Aegis Maxima !
+<var> <var> utilise Aegis Maxima !
+<var> utilise Roue Libre !
+<var> sauvage utilise Roue Libre !
+<var> ennemi utilise Roue Libre !
+<var> <var> utilise Roue Libre !
+<var> utilise Abattage !
+<var> sauvage utilise Abattage !
+<var> ennemi utilise Abattage !
+<var> <var> utilise Abattage !
+<var> utilise Tapotige !
+<var> sauvage utilise Tapotige !
+<var> ennemi utilise Tapotige !
+<var> <var> utilise Tapotige !
+<var> utilise Overdrive !
+<var> sauvage utilise Overdrive !
+<var> ennemi utilise Overdrive !
+<var> <var> utilise Overdrive !
+<var> utilise Acide Malique !
+<var> sauvage utilise Acide Malique !
+<var> ennemi utilise Acide Malique !
+<var> <var> utilise Acide Malique !
+<var> utilise Force G !
+<var> sauvage utilise Force G !
+<var> ennemi utilise Force G !
+<var> <var> utilise Force G !
+<var> utilise Choc Émotionnel !
+<var> sauvage utilise Choc Émotionnel !
+<var> ennemi utilise Choc Émotionnel !
+<var> <var> utilise Choc Émotionnel !
+<var> utilise Vapeur Féérique !
+<var> sauvage utilise Vapeur Féérique !
+<var> ennemi utilise Vapeur Féérique !
+<var> <var> utilise Vapeur Féérique !
+<var> utilise Fontaine de Vie !
+<var> sauvage utilise Fontaine de Vie !
+<var> ennemi utilise Fontaine de Vie !
+<var> <var> utilise Fontaine de Vie !
+<var> utilise Blocage !
+<var> sauvage utilise Blocage !
+<var> ennemi utilise Blocage !
+<var> <var> utilise Blocage !
+<var> utilise Fourbette !
+<var> sauvage utilise Fourbette !
+<var> ennemi utilise Fourbette !
+<var> <var> utilise Fourbette !
+<var> utilise Joute Astrale !
+<var> sauvage utilise Joute Astrale !
+<var> ennemi utilise Joute Astrale !
+<var> <var> utilise Joute Astrale !
+<var> utilise Laser Infinimax !
+<var> sauvage utilise Laser Infinimax !
+<var> ennemi utilise Laser Infinimax !
+<var> <var> utilise Laser Infinimax !
+<var> utilise Métalaser !
+<var> sauvage utilise Métalaser !
+<var> ennemi utilise Métalaser !
+<var> <var> utilise Métalaser !
+<var> utilise Vaste Pouvoir !
+<var> sauvage utilise Vaste Pouvoir !
+<var> ennemi utilise Vaste Pouvoir !
+<var> <var> utilise Vaste Pouvoir !
+<var> utilise Métalliroue !
+<var> sauvage utilise Métalliroue !
+<var> ennemi utilise Métalliroue !
+<var> <var> utilise Métalliroue !
+<var> utilise Rafale Écailles !
+<var> sauvage utilise Rafale Écailles !
+<var> ennemi utilise Rafale Écailles !
+<var> <var> utilise Rafale Écailles !
+<var> utilise Laser Météore !
+<var> sauvage utilise Laser Météore !
+<var> ennemi utilise Laser Météore !
+<var> <var> utilise Laser Météore !
+<var> utilise Kokiyarme !
+<var> sauvage utilise Kokiyarme !
+<var> ennemi utilise Kokiyarme !
+<var> <var> utilise Kokiyarme !
+<var> utilise Explo-Brume !
+<var> sauvage utilise Explo-Brume !
+<var> ennemi utilise Explo-Brume !
+<var> <var> utilise Explo-Brume !
+<var> utilise Gliss'Herbe !
+<var> sauvage utilise Gliss'Herbe !
+<var> ennemi utilise Gliss'Herbe !
+<var> <var> utilise Gliss'Herbe !
+<var> utilise Monte-Tension !
+<var> sauvage utilise Monte-Tension !
+<var> ennemi utilise Monte-Tension !
+<var> <var> utilise Monte-Tension !
+<var> utilise Champlification !
+<var> sauvage utilise Champlification !
+<var> ennemi utilise Champlification !
+<var> <var> utilise Champlification !
+<var> utilise Ravage Rampant !
+<var> sauvage utilise Ravage Rampant !
+<var> ennemi utilise Ravage Rampant !
+<var> <var> utilise Ravage Rampant !
+<var> utilise Feu Envieux !
+<var> sauvage utilise Feu Envieux !
+<var> ennemi utilise Feu Envieux !
+<var> <var> utilise Feu Envieux !
+<var> utilise Cent Rancunes !
+<var> sauvage utilise Cent Rancunes !
+<var> ennemi utilise Cent Rancunes !
+<var> <var> utilise Cent Rancunes !
+<var> utilise Esprit Frappeur !
+<var> sauvage utilise Esprit Frappeur !
+<var> ennemi utilise Esprit Frappeur !
+<var> <var> utilise Esprit Frappeur !
+<var> utilise Gaz Corrosif !
+<var> sauvage utilise Gaz Corrosif !
+<var> ennemi utilise Gaz Corrosif !
+<var> <var> utilise Gaz Corrosif !
+<var> utilise Coaching !
+<var> sauvage utilise Coaching !
+<var> ennemi utilise Coaching !
+<var> <var> utilise Coaching !
+<var> utilise Eau Revoir !
+<var> sauvage utilise Eau Revoir !
+<var> ennemi utilise Eau Revoir !
+<var> <var> utilise Eau Revoir !
+<var> utilise Triple Axel !
+<var> sauvage utilise Triple Axel !
+<var> ennemi utilise Triple Axel !
+<var> <var> utilise Triple Axel !
+<var> utilise Double Volée !
+<var> sauvage utilise Double Volée !
+<var> ennemi utilise Double Volée !
+<var> <var> utilise Double Volée !
+<var> utilise Sable Ardent !
+<var> sauvage utilise Sable Ardent !
+<var> ennemi utilise Sable Ardent !
+<var> <var> utilise Sable Ardent !
+<var> utilise Selve Salvatrice !
+<var> sauvage utilise Selve Salvatrice !
+<var> ennemi utilise Selve Salvatrice !
+<var> <var> utilise Selve Salvatrice !
+<var> utilise Poing Obscur !
+<var> sauvage utilise Poing Obscur !
+<var> ennemi utilise Poing Obscur !
+<var> <var> utilise Poing Obscur !
+<var> utilise Torrent de Coups !
+<var> sauvage utilise Torrent de Coups !
+<var> ennemi utilise Torrent de Coups !
+<var> <var> utilise Torrent de Coups !
+<var> utilise Voltageôle !
+<var> sauvage utilise Voltageôle !
+<var> ennemi utilise Voltageôle !
+<var> <var> utilise Voltageôle !
+<var> utilise Draco-Énergie !
+<var> sauvage utilise Draco-Énergie !
+<var> ennemi utilise Draco-Énergie !
+<var> <var> utilise Draco-Énergie !
+<var> utilise Regard Glaçant !
+<var> sauvage utilise Regard Glaçant !
+<var> ennemi utilise Regard Glaçant !
+<var> <var> utilise Regard Glaçant !
+<var> utilise Fureur Ardente !
+<var> sauvage utilise Fureur Ardente !
+<var> ennemi utilise Fureur Ardente !
+<var> <var> utilise Fureur Ardente !
+<var> utilise Coup Fulgurant !
+<var> sauvage utilise Coup Fulgurant !
+<var> ennemi utilise Coup Fulgurant !
+<var> <var> utilise Coup Fulgurant !
+<var> utilise Lance de Glace !
+<var> sauvage utilise Lance de Glace !
+<var> ennemi utilise Lance de Glace !
+<var> <var> utilise Lance de Glace !
+<var> utilise Éclat Spectral !
+<var> sauvage utilise Éclat Spectral !
+<var> ennemi utilise Éclat Spectral !
+<var> <var> utilise Éclat Spectral !
+<var> utilise Sort Sinistre !
+<var> sauvage utilise Sort Sinistre !
+<var> ennemi utilise Sort Sinistre !
+<var> <var> utilise Sort Sinistre !

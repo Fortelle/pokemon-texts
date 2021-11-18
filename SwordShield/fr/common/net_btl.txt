@@ -1,0 +1,99 @@
+Combat Solo
+Combat Duo
+Combat Multi
+<var>
+Équipe A (1)
+Équipe A (2)
+Équipe B (1)
+Équipe B (2)
+Connexion en cours... Veuillez patienter.
+Voulez-vous annuler le combat ?
+Un participant a mis fin à la communication. Fin du combat.
+Fin de la communication...
+Un joueur va être sélectionné pour choisir les règles du combat.
+En Combat Multi, il faut aussi choisir la répartition des équipes.
+Choisissez qui va décider des règles.
+Sélection de la personne qui décidera des règles en cours. Veuillez patienter.
+<var> n'a pas souhaité choisir les règles.
+<var> est en train de décider des règles.
+Choisissez les règles de combat.
+Souhaitez-vous opter pour ces règles ?
+Voulez-vous laisser un autre joueur décider des règles ?
+Envoi des données des règles en cours... Veuillez patienter.
+Sélectionnez votre équipe, puis commencez le combat.
+Voulez-vous sélectionner des règles de combat différentes ?
+Envoi de votre réponse : vous ne souhaitez pas combattre en suivant ces règles.
+Au moins une personne ne peut participer à ce combat avec les règles actuelles. Retour à la sélection.
+Si vous ne pouvez pas participer à un combat avec les règles actuelles, sélectionnez l'option « Changer de règles ».
+En attente d'autres joueurs... Veuillez patienter.
+Choisissez les Pokémon participants.
+Qui sera en position <var> ?
+Sélection des équipes en cours... Veuillez patienter.
+Voulez-vous continuer à jouer ?
+En attente d'une réponse de votre partenaire.
+Début d'un autre combat avec les mêmes règles.
+Début d'un autre combat avec des règles différentes.
+Oui
+Non
+Décider soi-même
+Laisser un adversaire décider
+ Confirmer
+ Retour
+Sélectionner une équipe
+Participation impossible
+Que le combat commence !
+Jouer avec les mêmes règles
+Jouer avec des règles différentes
+<var>
+Tout le monde
+Non
+Non
+Sélection automatique
+<var>
+Retour
+ Quitter
+ Informations
+ Sélectionner
+ Terminer
+ Retour
+ Vérifier
+ Changer
+ Consulter les règles
+Sélection en cours...
+Terminé !
+Règles normales
+Règles de la Tour de Combat
+Sans restrictions
+Équipe participante :
+Non sélectionnée
+<var>
+Musique de combat
+<var>
+Choisissez l'équipe avec laquelle combattre.
+Un problème a été détecté dans les données des règles reçues. Retour à la sélection.
+Les données des règles reçues sont corrompues. Retour à la sélection.
+Voulez-vous laisser un autre joueur décider des règles ?
+Envoi des données des règles en cours... Veuillez patienter.
+Un problème a été détecté dans les données des règles envoyées. Veuillez reprendre la sélection depuis le début.
+Les données des règles envoyées sont corrompues. Veuillez reprendre la sélection depuis le début.
+Retour à la sélection des règles.
+Un problème a été détecté dans l'Équipe Combat sélectionnée.
+Un problème a été détecté dans l'Équipe Combat d'un adversaire.
+Vous ne pouvez pas recevoir la carte de votre adversaire car votre album est plein.
+Voulez-vous recevoir la carte de Ligue d'un adversaire ?
+De qui souhaitez-vous recevoir la carte de Ligue ?
+Vous avez reçu la carte !
+Vous ne pouvez plus recevoir de cartes, car votre album de cartes de Ligue est plein.
+Voulez-vous également recevoir la carte de Ligue de quelqu'un d'autre ?
+Voulez-vous ajouter <var> à votre liste noire ?
+Cette personne est déjà sur votre liste noire.
+Vous ne pourrez plus jouer en réseau avec les personnes ajoutées à la liste noire. Voulez-vous continuer malgré tout ? (Il sera possible de débloquer ces personnes.)
+Votre liste noire a été mise à jour.
+Qui voulez-vous ajouter à votre liste noire ?
+Voulez-vous ajouter quelqu'un d'autre à votre liste noire ?
+Choisissez l'équipe avec laquelle combattre.
+Choisissez la formation des équipes.
+<var>
+Changer de règles
+Dans ce combat, les autres joueurs peuvent voir les surnoms de vos Pokémon.
+Quitter

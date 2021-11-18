@@ -1,0 +1,3308 @@
+!
+!
+!
+!
+<var> usa Botta!
+<var> selvatico usa Botta!
+<var> nemico usa Botta!
+<var> di <var> usa Botta!
+<var> usa Colpokarate!
+<var> selvatico usa Colpokarate!
+<var> nemico usa Colpokarate!
+<var> di <var> usa Colpokarate!
+<var> usa Doppiasberla!
+<var> selvatico usa Doppiasberla!
+<var> nemico usa Doppiasberla!
+<var> di <var> usa Doppiasberla!
+<var> usa Cometapugno!
+<var> selvatico usa Cometapugno!
+<var> nemico usa Cometapugno!
+<var> di <var> usa Cometapugno!
+<var> usa Megapugno!
+<var> selvatico usa Megapugno!
+<var> nemico usa Megapugno!
+<var> di <var> usa Megapugno!
+<var> usa Giornopaga!
+<var> selvatico usa Giornopaga!
+<var> nemico usa Giornopaga!
+<var> di <var> usa Giornopaga!
+<var> usa Fuocopugno!
+<var> selvatico usa Fuocopugno!
+<var> nemico usa Fuocopugno!
+<var> di <var> usa Fuocopugno!
+<var> usa Gelopugno!
+<var> selvatico usa Gelopugno!
+<var> nemico usa Gelopugno!
+<var> di <var> usa Gelopugno!
+<var> usa Tuonopugno!
+<var> selvatico usa Tuonopugno!
+<var> nemico usa Tuonopugno!
+<var> di <var> usa Tuonopugno!
+<var> usa Graffio!
+<var> selvatico usa Graffio!
+<var> nemico usa Graffio!
+<var> di <var> usa Graffio!
+<var> usa Presa!
+<var> selvatico usa Presa!
+<var> nemico usa Presa!
+<var> di <var> usa Presa!
+<var> usa Ghigliottina!
+<var> selvatico usa Ghigliottina!
+<var> nemico usa Ghigliottina!
+<var> di <var> usa Ghigliottina!
+<var> usa Ventagliente!
+<var> selvatico usa Ventagliente!
+<var> nemico usa Ventagliente!
+<var> di <var> usa Ventagliente!
+<var> usa Danzaspada!
+<var> selvatico usa Danzaspada!
+<var> nemico usa Danzaspada!
+<var> di <var> usa Danzaspada!
+<var> usa Taglio!
+<var> selvatico usa Taglio!
+<var> nemico usa Taglio!
+<var> di <var> usa Taglio!
+<var> usa Raffica!
+<var> selvatico usa Raffica!
+<var> nemico usa Raffica!
+<var> di <var> usa Raffica!
+<var> usa Attacco d'Ala!
+<var> selvatico usa Attacco d'Ala!
+<var> nemico usa Attacco d'Ala!
+<var> di <var> usa Attacco d'Ala!
+<var> usa Turbine!
+<var> selvatico usa Turbine!
+<var> nemico usa Turbine!
+<var> di <var> usa Turbine!
+<var> usa Volo!
+<var> selvatico usa Volo!
+<var> nemico usa Volo!
+<var> di <var> usa Volo!
+<var> usa Legatutto!
+<var> selvatico usa Legatutto!
+<var> nemico usa Legatutto!
+<var> di <var> usa Legatutto!
+<var> usa Schianto!
+<var> selvatico usa Schianto!
+<var> nemico usa Schianto!
+<var> di <var> usa Schianto!
+<var> usa Frustata!
+<var> selvatico usa Frustata!
+<var> nemico usa Frustata!
+<var> di <var> usa Frustata!
+<var> usa Pestone!
+<var> selvatico usa Pestone!
+<var> nemico usa Pestone!
+<var> di <var> usa Pestone!
+<var> usa Doppiocalcio!
+<var> selvatico usa Doppiocalcio!
+<var> nemico usa Doppiocalcio!
+<var> di <var> usa Doppiocalcio!
+<var> usa Megacalcio!
+<var> selvatico usa Megacalcio!
+<var> nemico usa Megacalcio!
+<var> di <var> usa Megacalcio!
+<var> usa Calciosalto!
+<var> selvatico usa Calciosalto!
+<var> nemico usa Calciosalto!
+<var> di <var> usa Calciosalto!
+<var> usa Calciorullo!
+<var> selvatico usa Calciorullo!
+<var> nemico usa Calciorullo!
+<var> di <var> usa Calciorullo!
+<var> usa Turbosabbia!
+<var> selvatico usa Turbosabbia!
+<var> nemico usa Turbosabbia!
+<var> di <var> usa Turbosabbia!
+<var> usa Bottintesta!
+<var> selvatico usa Bottintesta!
+<var> nemico usa Bottintesta!
+<var> di <var> usa Bottintesta!
+<var> usa Incornata!
+<var> selvatico usa Incornata!
+<var> nemico usa Incornata!
+<var> di <var> usa Incornata!
+<var> usa Furia!
+<var> selvatico usa Furia!
+<var> nemico usa Furia!
+<var> di <var> usa Furia!
+<var> usa Perforcorno!
+<var> selvatico usa Perforcorno!
+<var> nemico usa Perforcorno!
+<var> di <var> usa Perforcorno!
+<var> usa Azione!
+<var> selvatico usa Azione!
+<var> nemico usa Azione!
+<var> di <var> usa Azione!
+<var> usa Corposcontro!
+<var> selvatico usa Corposcontro!
+<var> nemico usa Corposcontro!
+<var> di <var> usa Corposcontro!
+<var> usa Avvolgibotta!
+<var> selvatico usa Avvolgibotta!
+<var> nemico usa Avvolgibotta!
+<var> di <var> usa Avvolgibotta!
+<var> usa Riduttore!
+<var> selvatico usa Riduttore!
+<var> nemico usa Riduttore!
+<var> di <var> usa Riduttore!
+<var> usa Colpo!
+<var> selvatico usa Colpo!
+<var> nemico usa Colpo!
+<var> di <var> usa Colpo!
+<var> usa Sdoppiatore!
+<var> selvatico usa Sdoppiatore!
+<var> nemico usa Sdoppiatore!
+<var> di <var> usa Sdoppiatore!
+<var> usa Colpocoda!
+<var> selvatico usa Colpocoda!
+<var> nemico usa Colpocoda!
+<var> di <var> usa Colpocoda!
+<var> usa Velenospina!
+<var> selvatico usa Velenospina!
+<var> nemico usa Velenospina!
+<var> di <var> usa Velenospina!
+<var> usa Doppio Ago!
+<var> selvatico usa Doppio Ago!
+<var> nemico usa Doppio Ago!
+<var> di <var> usa Doppio Ago!
+<var> usa Missilspillo!
+<var> selvatico usa Missilspillo!
+<var> nemico usa Missilspillo!
+<var> di <var> usa Missilspillo!
+<var> usa Fulmisguardo!
+<var> selvatico usa Fulmisguardo!
+<var> nemico usa Fulmisguardo!
+<var> di <var> usa Fulmisguardo!
+<var> usa Morso!
+<var> selvatico usa Morso!
+<var> nemico usa Morso!
+<var> di <var> usa Morso!
+<var> usa Ruggito!
+<var> selvatico usa Ruggito!
+<var> nemico usa Ruggito!
+<var> di <var> usa Ruggito!
+<var> usa Boato!
+<var> selvatico usa Boato!
+<var> nemico usa Boato!
+<var> di <var> usa Boato!
+<var> usa Canto!
+<var> selvatico usa Canto!
+<var> nemico usa Canto!
+<var> di <var> usa Canto!
+<var> usa Supersuono!
+<var> selvatico usa Supersuono!
+<var> nemico usa Supersuono!
+<var> di <var> usa Supersuono!
+<var> usa Sonicboom!
+<var> selvatico usa Sonicboom!
+<var> nemico usa Sonicboom!
+<var> di <var> usa Sonicboom!
+<var> usa Inibitore!
+<var> selvatico usa Inibitore!
+<var> nemico usa Inibitore!
+<var> di <var> usa Inibitore!
+<var> usa Acido!
+<var> selvatico usa Acido!
+<var> nemico usa Acido!
+<var> di <var> usa Acido!
+<var> usa Braciere!
+<var> selvatico usa Braciere!
+<var> nemico usa Braciere!
+<var> di <var> usa Braciere!
+<var> usa Lanciafiamme!
+<var> selvatico usa Lanciafiamme!
+<var> nemico usa Lanciafiamme!
+<var> di <var> usa Lanciafiamme!
+<var> usa Nebbia!
+<var> selvatico usa Nebbia!
+<var> nemico usa Nebbia!
+<var> di <var> usa Nebbia!
+<var> usa Pistolacqua!
+<var> selvatico usa Pistolacqua!
+<var> nemico usa Pistolacqua!
+<var> di <var> usa Pistolacqua!
+<var> usa Idropompa!
+<var> selvatico usa Idropompa!
+<var> nemico usa Idropompa!
+<var> di <var> usa Idropompa!
+<var> usa Surf!
+<var> selvatico usa Surf!
+<var> nemico usa Surf!
+<var> di <var> usa Surf!
+<var> usa Geloraggio!
+<var> selvatico usa Geloraggio!
+<var> nemico usa Geloraggio!
+<var> di <var> usa Geloraggio!
+<var> usa Bora!
+<var> selvatico usa Bora!
+<var> nemico usa Bora!
+<var> di <var> usa Bora!
+<var> usa Psicoraggio!
+<var> selvatico usa Psicoraggio!
+<var> nemico usa Psicoraggio!
+<var> di <var> usa Psicoraggio!
+<var> usa Bollaraggio!
+<var> selvatico usa Bollaraggio!
+<var> nemico usa Bollaraggio!
+<var> di <var> usa Bollaraggio!
+<var> usa Raggiaurora!
+<var> selvatico usa Raggiaurora!
+<var> nemico usa Raggiaurora!
+<var> di <var> usa Raggiaurora!
+<var> usa Iper Raggio!
+<var> selvatico usa Iper Raggio!
+<var> nemico usa Iper Raggio!
+<var> di <var> usa Iper Raggio!
+<var> usa Beccata!
+<var> selvatico usa Beccata!
+<var> nemico usa Beccata!
+<var> di <var> usa Beccata!
+<var> usa Perforbecco!
+<var> selvatico usa Perforbecco!
+<var> nemico usa Perforbecco!
+<var> di <var> usa Perforbecco!
+<var> usa Sottomissione!
+<var> selvatico usa Sottomissione!
+<var> nemico usa Sottomissione!
+<var> di <var> usa Sottomissione!
+<var> usa Colpo Basso!
+<var> selvatico usa Colpo Basso!
+<var> nemico usa Colpo Basso!
+<var> di <var> usa Colpo Basso!
+<var> usa Contrattacco!
+<var> selvatico usa Contrattacco!
+<var> nemico usa Contrattacco!
+<var> di <var> usa Contrattacco!
+<var> usa Movimento Sismico!
+<var> selvatico usa Movimento Sismico!
+<var> nemico usa Movimento Sismico!
+<var> di <var> usa Movimento Sismico!
+<var> usa Forza!
+<var> selvatico usa Forza!
+<var> nemico usa Forza!
+<var> di <var> usa Forza!
+<var> usa Assorbimento!
+<var> selvatico usa Assorbimento!
+<var> nemico usa Assorbimento!
+<var> di <var> usa Assorbimento!
+<var> usa Megassorbimento!
+<var> selvatico usa Megassorbimento!
+<var> nemico usa Megassorbimento!
+<var> di <var> usa Megassorbimento!
+<var> usa Parassiseme!
+<var> selvatico usa Parassiseme!
+<var> nemico usa Parassiseme!
+<var> di <var> usa Parassiseme!
+<var> usa Crescita!
+<var> selvatico usa Crescita!
+<var> nemico usa Crescita!
+<var> di <var> usa Crescita!
+<var> usa Foglielama!
+<var> selvatico usa Foglielama!
+<var> nemico usa Foglielama!
+<var> di <var> usa Foglielama!
+<var> usa Solarraggio!
+<var> selvatico usa Solarraggio!
+<var> nemico usa Solarraggio!
+<var> di <var> usa Solarraggio!
+<var> usa Velenpolvere!
+<var> selvatico usa Velenpolvere!
+<var> nemico usa Velenpolvere!
+<var> di <var> usa Velenpolvere!
+<var> usa Paralizzante!
+<var> selvatico usa Paralizzante!
+<var> nemico usa Paralizzante!
+<var> di <var> usa Paralizzante!
+<var> usa Sonnifero!
+<var> selvatico usa Sonnifero!
+<var> nemico usa Sonnifero!
+<var> di <var> usa Sonnifero!
+<var> usa Petalodanza!
+<var> selvatico usa Petalodanza!
+<var> nemico usa Petalodanza!
+<var> di <var> usa Petalodanza!
+<var> usa Millebave!
+<var> selvatico usa Millebave!
+<var> nemico usa Millebave!
+<var> di <var> usa Millebave!
+<var> usa Ira di Drago!
+<var> selvatico usa Ira di Drago!
+<var> nemico usa Ira di Drago!
+<var> di <var> usa Ira di Drago!
+<var> usa Turbofuoco!
+<var> selvatico usa Turbofuoco!
+<var> nemico usa Turbofuoco!
+<var> di <var> usa Turbofuoco!
+<var> usa Tuonoshock!
+<var> selvatico usa Tuonoshock!
+<var> nemico usa Tuonoshock!
+<var> di <var> usa Tuonoshock!
+<var> usa Fulmine!
+<var> selvatico usa Fulmine!
+<var> nemico usa Fulmine!
+<var> di <var> usa Fulmine!
+<var> usa Tuononda!
+<var> selvatico usa Tuononda!
+<var> nemico usa Tuononda!
+<var> di <var> usa Tuononda!
+<var> usa Tuono!
+<var> selvatico usa Tuono!
+<var> nemico usa Tuono!
+<var> di <var> usa Tuono!
+<var> usa Sassata!
+<var> selvatico usa Sassata!
+<var> nemico usa Sassata!
+<var> di <var> usa Sassata!
+<var> usa Terremoto!
+<var> selvatico usa Terremoto!
+<var> nemico usa Terremoto!
+<var> di <var> usa Terremoto!
+<var> usa Abisso!
+<var> selvatico usa Abisso!
+<var> nemico usa Abisso!
+<var> di <var> usa Abisso!
+<var> usa Fossa!
+<var> selvatico usa Fossa!
+<var> nemico usa Fossa!
+<var> di <var> usa Fossa!
+<var> usa Tossina!
+<var> selvatico usa Tossina!
+<var> nemico usa Tossina!
+<var> di <var> usa Tossina!
+<var> usa Confusione!
+<var> selvatico usa Confusione!
+<var> nemico usa Confusione!
+<var> di <var> usa Confusione!
+<var> usa Psichico!
+<var> selvatico usa Psichico!
+<var> nemico usa Psichico!
+<var> di <var> usa Psichico!
+<var> usa Ipnosi!
+<var> selvatico usa Ipnosi!
+<var> nemico usa Ipnosi!
+<var> di <var> usa Ipnosi!
+<var> usa Meditazione!
+<var> selvatico usa Meditazione!
+<var> nemico usa Meditazione!
+<var> di <var> usa Meditazione!
+<var> usa Agilità!
+<var> selvatico usa Agilità!
+<var> nemico usa Agilità!
+<var> di <var> usa Agilità!
+<var> usa Attacco Rapido!
+<var> selvatico usa Attacco Rapido!
+<var> nemico usa Attacco Rapido!
+<var> di <var> usa Attacco Rapido!
+<var> usa Ira!
+<var> selvatico usa Ira!
+<var> nemico usa Ira!
+<var> di <var> usa Ira!
+<var> usa Teletrasporto!
+<var> selvatico usa Teletrasporto!
+<var> nemico usa Teletrasporto!
+<var> di <var> usa Teletrasporto!
+<var> usa Ombra Notturna!
+<var> selvatico usa Ombra Notturna!
+<var> nemico usa Ombra Notturna!
+<var> di <var> usa Ombra Notturna!
+<var> usa Mimica!
+<var> selvatico usa Mimica!
+<var> nemico usa Mimica!
+<var> di <var> usa Mimica!
+<var> usa Stridio!
+<var> selvatico usa Stridio!
+<var> nemico usa Stridio!
+<var> di <var> usa Stridio!
+<var> usa Doppioteam!
+<var> selvatico usa Doppioteam!
+<var> nemico usa Doppioteam!
+<var> di <var> usa Doppioteam!
+<var> usa Ripresa!
+<var> selvatico usa Ripresa!
+<var> nemico usa Ripresa!
+<var> di <var> usa Ripresa!
+<var> usa Rafforzatore!
+<var> selvatico usa Rafforzatore!
+<var> nemico usa Rafforzatore!
+<var> di <var> usa Rafforzatore!
+<var> usa Minimizzato!
+<var> selvatico usa Minimizzato!
+<var> nemico usa Minimizzato!
+<var> di <var> usa Minimizzato!
+<var> usa Muro di Fumo!
+<var> selvatico usa Muro di Fumo!
+<var> nemico usa Muro di Fumo!
+<var> di <var> usa Muro di Fumo!
+<var> usa Stordiraggio!
+<var> selvatico usa Stordiraggio!
+<var> nemico usa Stordiraggio!
+<var> di <var> usa Stordiraggio!
+<var> usa Ritirata!
+<var> selvatico usa Ritirata!
+<var> nemico usa Ritirata!
+<var> di <var> usa Ritirata!
+<var> usa Ricciolscudo!
+<var> selvatico usa Ricciolscudo!
+<var> nemico usa Ricciolscudo!
+<var> di <var> usa Ricciolscudo!
+<var> usa Barriera!
+<var> selvatico usa Barriera!
+<var> nemico usa Barriera!
+<var> di <var> usa Barriera!
+<var> usa Schermoluce!
+<var> selvatico usa Schermoluce!
+<var> nemico usa Schermoluce!
+<var> di <var> usa Schermoluce!
+<var> usa Nube!
+<var> selvatico usa Nube!
+<var> nemico usa Nube!
+<var> di <var> usa Nube!
+<var> usa Riflesso!
+<var> selvatico usa Riflesso!
+<var> nemico usa Riflesso!
+<var> di <var> usa Riflesso!
+<var> usa Focalenergia!
+<var> selvatico usa Focalenergia!
+<var> nemico usa Focalenergia!
+<var> di <var> usa Focalenergia!
+<var> usa Pazienza!
+<var> selvatico usa Pazienza!
+<var> nemico usa Pazienza!
+<var> di <var> usa Pazienza!
+<var> usa Metronomo!
+<var> selvatico usa Metronomo!
+<var> nemico usa Metronomo!
+<var> di <var> usa Metronomo!
+<var> usa Speculmossa!
+<var> selvatico usa Speculmossa!
+<var> nemico usa Speculmossa!
+<var> di <var> usa Speculmossa!
+<var> usa Autodistruzione!
+<var> selvatico usa Autodistruzione!
+<var> nemico usa Autodistruzione!
+<var> di <var> usa Autodistruzione!
+<var> usa Uovobomba!
+<var> selvatico usa Uovobomba!
+<var> nemico usa Uovobomba!
+<var> di <var> usa Uovobomba!
+<var> usa Leccata!
+<var> selvatico usa Leccata!
+<var> nemico usa Leccata!
+<var> di <var> usa Leccata!
+<var> usa Smog!
+<var> selvatico usa Smog!
+<var> nemico usa Smog!
+<var> di <var> usa Smog!
+<var> usa Fango!
+<var> selvatico usa Fango!
+<var> nemico usa Fango!
+<var> di <var> usa Fango!
+<var> usa Ossoclava!
+<var> selvatico usa Ossoclava!
+<var> nemico usa Ossoclava!
+<var> di <var> usa Ossoclava!
+<var> usa Fuocobomba!
+<var> selvatico usa Fuocobomba!
+<var> nemico usa Fuocobomba!
+<var> di <var> usa Fuocobomba!
+<var> usa Cascata!
+<var> selvatico usa Cascata!
+<var> nemico usa Cascata!
+<var> di <var> usa Cascata!
+<var> usa Tenaglia!
+<var> selvatico usa Tenaglia!
+<var> nemico usa Tenaglia!
+<var> di <var> usa Tenaglia!
+<var> usa Comete!
+<var> selvatico usa Comete!
+<var> nemico usa Comete!
+<var> di <var> usa Comete!
+<var> usa Capocciata!
+<var> selvatico usa Capocciata!
+<var> nemico usa Capocciata!
+<var> di <var> usa Capocciata!
+<var> usa Sparalance!
+<var> selvatico usa Sparalance!
+<var> nemico usa Sparalance!
+<var> di <var> usa Sparalance!
+<var> usa Limitazione!
+<var> selvatico usa Limitazione!
+<var> nemico usa Limitazione!
+<var> di <var> usa Limitazione!
+<var> usa Amnesia!
+<var> selvatico usa Amnesia!
+<var> nemico usa Amnesia!
+<var> di <var> usa Amnesia!
+<var> usa Cinèsi!
+<var> selvatico usa Cinèsi!
+<var> nemico usa Cinèsi!
+<var> di <var> usa Cinèsi!
+<var> usa Covauova!
+<var> selvatico usa Covauova!
+<var> nemico usa Covauova!
+<var> di <var> usa Covauova!
+<var> usa Calcinvolo!
+<var> selvatico usa Calcinvolo!
+<var> nemico usa Calcinvolo!
+<var> di <var> usa Calcinvolo!
+<var> usa Sguardo Feroce!
+<var> selvatico usa Sguardo Feroce!
+<var> nemico usa Sguardo Feroce!
+<var> di <var> usa Sguardo Feroce!
+<var> usa Mangiasogni!
+<var> selvatico usa Mangiasogni!
+<var> nemico usa Mangiasogni!
+<var> di <var> usa Mangiasogni!
+<var> usa Velenogas!
+<var> selvatico usa Velenogas!
+<var> nemico usa Velenogas!
+<var> di <var> usa Velenogas!
+<var> usa Attacco Pioggia!
+<var> selvatico usa Attacco Pioggia!
+<var> nemico usa Attacco Pioggia!
+<var> di <var> usa Attacco Pioggia!
+<var> usa Sanguisuga!
+<var> selvatico usa Sanguisuga!
+<var> nemico usa Sanguisuga!
+<var> di <var> usa Sanguisuga!
+<var> usa Demonbacio!
+<var> selvatico usa Demonbacio!
+<var> nemico usa Demonbacio!
+<var> di <var> usa Demonbacio!
+<var> usa Aeroattacco!
+<var> selvatico usa Aeroattacco!
+<var> nemico usa Aeroattacco!
+<var> di <var> usa Aeroattacco!
+<var> usa Trasformazione!
+<var> selvatico usa Trasformazione!
+<var> nemico usa Trasformazione!
+<var> di <var> usa Trasformazione!
+<var> usa Bolla!
+<var> selvatico usa Bolla!
+<var> nemico usa Bolla!
+<var> di <var> usa Bolla!
+<var> usa Stordipugno!
+<var> selvatico usa Stordipugno!
+<var> nemico usa Stordipugno!
+<var> di <var> usa Stordipugno!
+<var> usa Spora!
+<var> selvatico usa Spora!
+<var> nemico usa Spora!
+<var> di <var> usa Spora!
+<var> usa Flash!
+<var> selvatico usa Flash!
+<var> nemico usa Flash!
+<var> di <var> usa Flash!
+<var> usa Psiconda!
+<var> selvatico usa Psiconda!
+<var> nemico usa Psiconda!
+<var> di <var> usa Psiconda!
+<var> usa Splash!
+<var> selvatico usa Splash!
+<var> nemico usa Splash!
+<var> di <var> usa Splash!
+<var> usa Scudo Acido!
+<var> selvatico usa Scudo Acido!
+<var> nemico usa Scudo Acido!
+<var> di <var> usa Scudo Acido!
+<var> usa Martellata!
+<var> selvatico usa Martellata!
+<var> nemico usa Martellata!
+<var> di <var> usa Martellata!
+<var> usa Esplosione!
+<var> selvatico usa Esplosione!
+<var> nemico usa Esplosione!
+<var> di <var> usa Esplosione!
+<var> usa Sfuriate!
+<var> selvatico usa Sfuriate!
+<var> nemico usa Sfuriate!
+<var> di <var> usa Sfuriate!
+<var> usa Ossomerang!
+<var> selvatico usa Ossomerang!
+<var> nemico usa Ossomerang!
+<var> di <var> usa Ossomerang!
+<var> usa Riposo!
+<var> selvatico usa Riposo!
+<var> nemico usa Riposo!
+<var> di <var> usa Riposo!
+<var> usa Frana!
+<var> selvatico usa Frana!
+<var> nemico usa Frana!
+<var> di <var> usa Frana!
+<var> usa Iperzanna!
+<var> selvatico usa Iperzanna!
+<var> nemico usa Iperzanna!
+<var> di <var> usa Iperzanna!
+<var> usa Affilatore!
+<var> selvatico usa Affilatore!
+<var> nemico usa Affilatore!
+<var> di <var> usa Affilatore!
+<var> usa Conversione!
+<var> selvatico usa Conversione!
+<var> nemico usa Conversione!
+<var> di <var> usa Conversione!
+<var> usa Tripletta!
+<var> selvatico usa Tripletta!
+<var> nemico usa Tripletta!
+<var> di <var> usa Tripletta!
+<var> usa Superzanna!
+<var> selvatico usa Superzanna!
+<var> nemico usa Superzanna!
+<var> di <var> usa Superzanna!
+<var> usa Lacerazione!
+<var> selvatico usa Lacerazione!
+<var> nemico usa Lacerazione!
+<var> di <var> usa Lacerazione!
+<var> usa Sostituto!
+<var> selvatico usa Sostituto!
+<var> nemico usa Sostituto!
+<var> di <var> usa Sostituto!
+<var> usa Scontro!
+<var> selvatico usa Scontro!
+<var> nemico usa Scontro!
+<var> di <var> usa Scontro!
+<var> usa Schizzo!
+<var> selvatico usa Schizzo!
+<var> nemico usa Schizzo!
+<var> di <var> usa Schizzo!
+<var> usa Triplocalcio!
+<var> selvatico usa Triplocalcio!
+<var> nemico usa Triplocalcio!
+<var> di <var> usa Triplocalcio!
+<var> usa Furto!
+<var> selvatico usa Furto!
+<var> nemico usa Furto!
+<var> di <var> usa Furto!
+<var> usa Ragnatela!
+<var> selvatico usa Ragnatela!
+<var> nemico usa Ragnatela!
+<var> di <var> usa Ragnatela!
+<var> usa Leggimente!
+<var> selvatico usa Leggimente!
+<var> nemico usa Leggimente!
+<var> di <var> usa Leggimente!
+<var> usa Incubo!
+<var> selvatico usa Incubo!
+<var> nemico usa Incubo!
+<var> di <var> usa Incubo!
+<var> usa Ruotafuoco!
+<var> selvatico usa Ruotafuoco!
+<var> nemico usa Ruotafuoco!
+<var> di <var> usa Ruotafuoco!
+<var> usa Russare!
+<var> selvatico usa Russare!
+<var> nemico usa Russare!
+<var> di <var> usa Russare!
+<var> usa Maledizione!
+<var> selvatico usa Maledizione!
+<var> nemico usa Maledizione!
+<var> di <var> usa Maledizione!
+<var> usa Flagello!
+<var> selvatico usa Flagello!
+<var> nemico usa Flagello!
+<var> di <var> usa Flagello!
+<var> usa Conversione2!
+<var> selvatico usa Conversione2!
+<var> nemico usa Conversione2!
+<var> di <var> usa Conversione2!
+<var> usa Aerocolpo!
+<var> selvatico usa Aerocolpo!
+<var> nemico usa Aerocolpo!
+<var> di <var> usa Aerocolpo!
+<var> usa Cottonspora!
+<var> selvatico usa Cottonspora!
+<var> nemico usa Cottonspora!
+<var> di <var> usa Cottonspora!
+<var> usa Contropiede!
+<var> selvatico usa Contropiede!
+<var> nemico usa Contropiede!
+<var> di <var> usa Contropiede!
+<var> usa Dispetto!
+<var> selvatico usa Dispetto!
+<var> nemico usa Dispetto!
+<var> di <var> usa Dispetto!
+<var> usa Polneve!
+<var> selvatico usa Polneve!
+<var> nemico usa Polneve!
+<var> di <var> usa Polneve!
+<var> usa Protezione!
+<var> selvatico usa Protezione!
+<var> nemico usa Protezione!
+<var> di <var> usa Protezione!
+<var> usa Pugnorapido!
+<var> selvatico usa Pugnorapido!
+<var> nemico usa Pugnorapido!
+<var> di <var> usa Pugnorapido!
+<var> usa Visotruce!
+<var> selvatico usa Visotruce!
+<var> nemico usa Visotruce!
+<var> di <var> usa Visotruce!
+<var> usa Finta!
+<var> selvatico usa Finta!
+<var> nemico usa Finta!
+<var> di <var> usa Finta!
+<var> usa Dolcebacio!
+<var> selvatico usa Dolcebacio!
+<var> nemico usa Dolcebacio!
+<var> di <var> usa Dolcebacio!
+<var> usa Panciamburo!
+<var> selvatico usa Panciamburo!
+<var> nemico usa Panciamburo!
+<var> di <var> usa Panciamburo!
+<var> usa Fangobomba!
+<var> selvatico usa Fangobomba!
+<var> nemico usa Fangobomba!
+<var> di <var> usa Fangobomba!
+<var> usa Fangosberla!
+<var> selvatico usa Fangosberla!
+<var> nemico usa Fangosberla!
+<var> di <var> usa Fangosberla!
+<var> usa Octazooka!
+<var> selvatico usa Octazooka!
+<var> nemico usa Octazooka!
+<var> di <var> usa Octazooka!
+<var> usa Punte!
+<var> selvatico usa Punte!
+<var> nemico usa Punte!
+<var> di <var> usa Punte!
+<var> usa Falcecannone!
+<var> selvatico usa Falcecannone!
+<var> nemico usa Falcecannone!
+<var> di <var> usa Falcecannone!
+<var> usa Preveggenza!
+<var> selvatico usa Preveggenza!
+<var> nemico usa Preveggenza!
+<var> di <var> usa Preveggenza!
+<var> usa Destinobbligato!
+<var> selvatico usa Destinobbligato!
+<var> nemico usa Destinobbligato!
+<var> di <var> usa Destinobbligato!
+<var> usa Ultimocanto!
+<var> selvatico usa Ultimocanto!
+<var> nemico usa Ultimocanto!
+<var> di <var> usa Ultimocanto!
+<var> usa Ventogelato!
+<var> selvatico usa Ventogelato!
+<var> nemico usa Ventogelato!
+<var> di <var> usa Ventogelato!
+<var> usa Individua!
+<var> selvatico usa Individua!
+<var> nemico usa Individua!
+<var> di <var> usa Individua!
+<var> usa Ossoraffica!
+<var> selvatico usa Ossoraffica!
+<var> nemico usa Ossoraffica!
+<var> di <var> usa Ossoraffica!
+<var> usa Localizza!
+<var> selvatico usa Localizza!
+<var> nemico usa Localizza!
+<var> di <var> usa Localizza!
+<var> usa Oltraggio!
+<var> selvatico usa Oltraggio!
+<var> nemico usa Oltraggio!
+<var> di <var> usa Oltraggio!
+<var> usa Terrempesta!
+<var> selvatico usa Terrempesta!
+<var> nemico usa Terrempesta!
+<var> di <var> usa Terrempesta!
+<var> usa Gigassorbimento!
+<var> selvatico usa Gigassorbimento!
+<var> nemico usa Gigassorbimento!
+<var> di <var> usa Gigassorbimento!
+<var> usa Resistenza!
+<var> selvatico usa Resistenza!
+<var> nemico usa Resistenza!
+<var> di <var> usa Resistenza!
+<var> usa Fascino!
+<var> selvatico usa Fascino!
+<var> nemico usa Fascino!
+<var> di <var> usa Fascino!
+<var> usa Rotolamento!
+<var> selvatico usa Rotolamento!
+<var> nemico usa Rotolamento!
+<var> di <var> usa Rotolamento!
+<var> usa Falsofinale!
+<var> selvatico usa Falsofinale!
+<var> nemico usa Falsofinale!
+<var> di <var> usa Falsofinale!
+<var> usa Bullo!
+<var> selvatico usa Bullo!
+<var> nemico usa Bullo!
+<var> di <var> usa Bullo!
+<var> usa Buonlatte!
+<var> selvatico usa Buonlatte!
+<var> nemico usa Buonlatte!
+<var> di <var> usa Buonlatte!
+<var> usa Scintilla!
+<var> selvatico usa Scintilla!
+<var> nemico usa Scintilla!
+<var> di <var> usa Scintilla!
+<var> usa Tagliofuria!
+<var> selvatico usa Tagliofuria!
+<var> nemico usa Tagliofuria!
+<var> di <var> usa Tagliofuria!
+<var> usa Alacciaio!
+<var> selvatico usa Alacciaio!
+<var> nemico usa Alacciaio!
+<var> di <var> usa Alacciaio!
+<var> usa Malosguardo!
+<var> selvatico usa Malosguardo!
+<var> nemico usa Malosguardo!
+<var> di <var> usa Malosguardo!
+<var> usa Attrazione!
+<var> selvatico usa Attrazione!
+<var> nemico usa Attrazione!
+<var> di <var> usa Attrazione!
+<var> usa Sonnolalia!
+<var> selvatico usa Sonnolalia!
+<var> nemico usa Sonnolalia!
+<var> di <var> usa Sonnolalia!
+<var> usa Rintoccasana!
+<var> selvatico usa Rintoccasana!
+<var> nemico usa Rintoccasana!
+<var> di <var> usa Rintoccasana!
+<var> usa Ritorno!
+<var> selvatico usa Ritorno!
+<var> nemico usa Ritorno!
+<var> di <var> usa Ritorno!
+<var> usa Regalino!
+<var> selvatico usa Regalino!
+<var> nemico usa Regalino!
+<var> di <var> usa Regalino!
+<var> usa Frustrazione!
+<var> selvatico usa Frustrazione!
+<var> nemico usa Frustrazione!
+<var> di <var> usa Frustrazione!
+<var> usa Salvaguardia!
+<var> selvatico usa Salvaguardia!
+<var> nemico usa Salvaguardia!
+<var> di <var> usa Salvaguardia!
+<var> usa Malcomune!
+<var> selvatico usa Malcomune!
+<var> nemico usa Malcomune!
+<var> di <var> usa Malcomune!
+<var> usa Magifuoco!
+<var> selvatico usa Magifuoco!
+<var> nemico usa Magifuoco!
+<var> di <var> usa Magifuoco!
+<var> usa Magnitudo!
+<var> selvatico usa Magnitudo!
+<var> nemico usa Magnitudo!
+<var> di <var> usa Magnitudo!
+<var> usa Dinamipugno!
+<var> selvatico usa Dinamipugno!
+<var> nemico usa Dinamipugno!
+<var> di <var> usa Dinamipugno!
+<var> usa Megacorno!
+<var> selvatico usa Megacorno!
+<var> nemico usa Megacorno!
+<var> di <var> usa Megacorno!
+<var> usa Dragospiro!
+<var> selvatico usa Dragospiro!
+<var> nemico usa Dragospiro!
+<var> di <var> usa Dragospiro!
+<var> usa Staffetta!
+<var> selvatico usa Staffetta!
+<var> nemico usa Staffetta!
+<var> di <var> usa Staffetta!
+<var> usa Ripeti!
+<var> selvatico usa Ripeti!
+<var> nemico usa Ripeti!
+<var> di <var> usa Ripeti!
+<var> usa Inseguimento!
+<var> selvatico usa Inseguimento!
+<var> nemico usa Inseguimento!
+<var> di <var> usa Inseguimento!
+<var> usa Rapigiro!
+<var> selvatico usa Rapigiro!
+<var> nemico usa Rapigiro!
+<var> di <var> usa Rapigiro!
+<var> usa Profumino!
+<var> selvatico usa Profumino!
+<var> nemico usa Profumino!
+<var> di <var> usa Profumino!
+<var> usa Codacciaio!
+<var> selvatico usa Codacciaio!
+<var> nemico usa Codacciaio!
+<var> di <var> usa Codacciaio!
+<var> usa Ferrartigli!
+<var> selvatico usa Ferrartigli!
+<var> nemico usa Ferrartigli!
+<var> di <var> usa Ferrartigli!
+<var> usa Vitaltiro!
+<var> selvatico usa Vitaltiro!
+<var> nemico usa Vitaltiro!
+<var> di <var> usa Vitaltiro!
+<var> usa Mattindoro!
+<var> selvatico usa Mattindoro!
+<var> nemico usa Mattindoro!
+<var> di <var> usa Mattindoro!
+<var> usa Sintesi!
+<var> selvatico usa Sintesi!
+<var> nemico usa Sintesi!
+<var> di <var> usa Sintesi!
+<var> usa Lucelunare!
+<var> selvatico usa Lucelunare!
+<var> nemico usa Lucelunare!
+<var> di <var> usa Lucelunare!
+<var> usa Introforza!
+<var> selvatico usa Introforza!
+<var> nemico usa Introforza!
+<var> di <var> usa Introforza!
+<var> usa Incrocolpo!
+<var> selvatico usa Incrocolpo!
+<var> nemico usa Incrocolpo!
+<var> di <var> usa Incrocolpo!
+<var> usa Tornado!
+<var> selvatico usa Tornado!
+<var> nemico usa Tornado!
+<var> di <var> usa Tornado!
+<var> usa Pioggiadanza!
+<var> selvatico usa Pioggiadanza!
+<var> nemico usa Pioggiadanza!
+<var> di <var> usa Pioggiadanza!
+<var> usa Giornodisole!
+<var> selvatico usa Giornodisole!
+<var> nemico usa Giornodisole!
+<var> di <var> usa Giornodisole!
+<var> usa Sgranocchio!
+<var> selvatico usa Sgranocchio!
+<var> nemico usa Sgranocchio!
+<var> di <var> usa Sgranocchio!
+<var> usa Specchiovelo!
+<var> selvatico usa Specchiovelo!
+<var> nemico usa Specchiovelo!
+<var> di <var> usa Specchiovelo!
+<var> usa Psicamisù!
+<var> selvatico usa Psicamisù!
+<var> nemico usa Psicamisù!
+<var> di <var> usa Psicamisù!
+<var> usa Extrarapido!
+<var> selvatico usa Extrarapido!
+<var> nemico usa Extrarapido!
+<var> di <var> usa Extrarapido!
+<var> usa Forzantica!
+<var> selvatico usa Forzantica!
+<var> nemico usa Forzantica!
+<var> di <var> usa Forzantica!
+<var> usa Palla Ombra!
+<var> selvatico usa Palla Ombra!
+<var> nemico usa Palla Ombra!
+<var> di <var> usa Palla Ombra!
+<var> usa Divinazione!
+<var> selvatico usa Divinazione!
+<var> nemico usa Divinazione!
+<var> di <var> usa Divinazione!
+<var> usa Spaccaroccia!
+<var> selvatico usa Spaccaroccia!
+<var> nemico usa Spaccaroccia!
+<var> di <var> usa Spaccaroccia!
+<var> usa Mulinello!
+<var> selvatico usa Mulinello!
+<var> nemico usa Mulinello!
+<var> di <var> usa Mulinello!
+<var> usa Picchiaduro!
+<var> selvatico usa Picchiaduro!
+<var> nemico usa Picchiaduro!
+<var> di <var> usa Picchiaduro!
+<var> usa Bruciapelo!
+<var> selvatico usa Bruciapelo!
+<var> nemico usa Bruciapelo!
+<var> di <var> usa Bruciapelo!
+<var> usa Baraonda!
+<var> selvatico usa Baraonda!
+<var> nemico usa Baraonda!
+<var> di <var> usa Baraonda!
+<var> usa Accumulo!
+<var> selvatico usa Accumulo!
+<var> nemico usa Accumulo!
+<var> di <var> usa Accumulo!
+<var> usa Sfoghenergia!
+<var> selvatico usa Sfoghenergia!
+<var> nemico usa Sfoghenergia!
+<var> di <var> usa Sfoghenergia!
+<var> usa Introenergia!
+<var> selvatico usa Introenergia!
+<var> nemico usa Introenergia!
+<var> di <var> usa Introenergia!
+<var> usa Ondacalda!
+<var> selvatico usa Ondacalda!
+<var> nemico usa Ondacalda!
+<var> di <var> usa Ondacalda!
+<var> usa Grandine!
+<var> selvatico usa Grandine!
+<var> nemico usa Grandine!
+<var> di <var> usa Grandine!
+<var> usa Attaccalite!
+<var> selvatico usa Attaccalite!
+<var> nemico usa Attaccalite!
+<var> di <var> usa Attaccalite!
+<var> usa Adulazione!
+<var> selvatico usa Adulazione!
+<var> nemico usa Adulazione!
+<var> di <var> usa Adulazione!
+<var> usa Fuocofatuo!
+<var> selvatico usa Fuocofatuo!
+<var> nemico usa Fuocofatuo!
+<var> di <var> usa Fuocofatuo!
+<var> usa Memento!
+<var> selvatico usa Memento!
+<var> nemico usa Memento!
+<var> di <var> usa Memento!
+<var> usa Facciata!
+<var> selvatico usa Facciata!
+<var> nemico usa Facciata!
+<var> di <var> usa Facciata!
+<var> usa Centripugno!
+<var> selvatico usa Centripugno!
+<var> nemico usa Centripugno!
+<var> di <var> usa Centripugno!
+<var> usa Maniereforti!
+<var> selvatico usa Maniereforti!
+<var> nemico usa Maniereforti!
+<var> di <var> usa Maniereforti!
+<var> usa Sonoqui!
+<var> selvatico usa Sonoqui!
+<var> nemico usa Sonoqui!
+<var> di <var> usa Sonoqui!
+<var> usa Naturforza!
+<var> selvatico usa Naturforza!
+<var> nemico usa Naturforza!
+<var> di <var> usa Naturforza!
+<var> usa Sottocarica!
+<var> selvatico usa Sottocarica!
+<var> nemico usa Sottocarica!
+<var> di <var> usa Sottocarica!
+<var> usa Provocazione!
+<var> selvatico usa Provocazione!
+<var> nemico usa Provocazione!
+<var> di <var> usa Provocazione!
+<var> usa Altruismo!
+<var> selvatico usa Altruismo!
+<var> nemico usa Altruismo!
+<var> di <var> usa Altruismo!
+<var> usa Raggiro!
+<var> selvatico usa Raggiro!
+<var> nemico usa Raggiro!
+<var> di <var> usa Raggiro!
+<var> usa Giocodiruolo!
+<var> selvatico usa Giocodiruolo!
+<var> nemico usa Giocodiruolo!
+<var> di <var> usa Giocodiruolo!
+<var> usa Desiderio!
+<var> selvatico usa Desiderio!
+<var> nemico usa Desiderio!
+<var> di <var> usa Desiderio!
+<var> usa Assistente!
+<var> selvatico usa Assistente!
+<var> nemico usa Assistente!
+<var> di <var> usa Assistente!
+<var> usa Radicamento!
+<var> selvatico usa Radicamento!
+<var> nemico usa Radicamento!
+<var> di <var> usa Radicamento!
+<var> usa Troppoforte!
+<var> selvatico usa Troppoforte!
+<var> nemico usa Troppoforte!
+<var> di <var> usa Troppoforte!
+<var> usa Magivelo!
+<var> selvatico usa Magivelo!
+<var> nemico usa Magivelo!
+<var> di <var> usa Magivelo!
+<var> usa Riciclo!
+<var> selvatico usa Riciclo!
+<var> nemico usa Riciclo!
+<var> di <var> usa Riciclo!
+<var> usa Vendetta!
+<var> selvatico usa Vendetta!
+<var> nemico usa Vendetta!
+<var> di <var> usa Vendetta!
+<var> usa Breccia!
+<var> selvatico usa Breccia!
+<var> nemico usa Breccia!
+<var> di <var> usa Breccia!
+<var> usa Sbadiglio!
+<var> selvatico usa Sbadiglio!
+<var> nemico usa Sbadiglio!
+<var> di <var> usa Sbadiglio!
+<var> usa Privazione!
+<var> selvatico usa Privazione!
+<var> nemico usa Privazione!
+<var> di <var> usa Privazione!
+<var> usa Rimonta!
+<var> selvatico usa Rimonta!
+<var> nemico usa Rimonta!
+<var> di <var> usa Rimonta!
+<var> usa Eruzione!
+<var> selvatico usa Eruzione!
+<var> nemico usa Eruzione!
+<var> di <var> usa Eruzione!
+<var> usa Baratto!
+<var> selvatico usa Baratto!
+<var> nemico usa Baratto!
+<var> di <var> usa Baratto!
+<var> usa Esclusiva!
+<var> selvatico usa Esclusiva!
+<var> nemico usa Esclusiva!
+<var> di <var> usa Esclusiva!
+<var> usa Rinfrescata!
+<var> selvatico usa Rinfrescata!
+<var> nemico usa Rinfrescata!
+<var> di <var> usa Rinfrescata!
+<var> usa Rancore!
+<var> selvatico usa Rancore!
+<var> nemico usa Rancore!
+<var> di <var> usa Rancore!
+<var> usa Scippo!
+<var> selvatico usa Scippo!
+<var> nemico usa Scippo!
+<var> di <var> usa Scippo!
+<var> usa Forzasegreta!
+<var> selvatico usa Forzasegreta!
+<var> nemico usa Forzasegreta!
+<var> di <var> usa Forzasegreta!
+<var> usa Sub!
+<var> selvatico usa Sub!
+<var> nemico usa Sub!
+<var> di <var> usa Sub!
+<var> usa Sberletese!
+<var> selvatico usa Sberletese!
+<var> nemico usa Sberletese!
+<var> di <var> usa Sberletese!
+<var> usa Camuffamento!
+<var> selvatico usa Camuffamento!
+<var> nemico usa Camuffamento!
+<var> di <var> usa Camuffamento!
+<var> usa Codadiluce!
+<var> selvatico usa Codadiluce!
+<var> nemico usa Codadiluce!
+<var> di <var> usa Codadiluce!
+<var> usa Abbagliante!
+<var> selvatico usa Abbagliante!
+<var> nemico usa Abbagliante!
+<var> di <var> usa Abbagliante!
+<var> usa Foschisfera!
+<var> selvatico usa Foschisfera!
+<var> nemico usa Foschisfera!
+<var> di <var> usa Foschisfera!
+<var> usa Danzadipiume!
+<var> selvatico usa Danzadipiume!
+<var> nemico usa Danzadipiume!
+<var> di <var> usa Danzadipiume!
+<var> usa Strampadanza!
+<var> selvatico usa Strampadanza!
+<var> nemico usa Strampadanza!
+<var> di <var> usa Strampadanza!
+<var> usa Calciardente!
+<var> selvatico usa Calciardente!
+<var> nemico usa Calciardente!
+<var> di <var> usa Calciardente!
+<var> usa Fangata!
+<var> selvatico usa Fangata!
+<var> nemico usa Fangata!
+<var> di <var> usa Fangata!
+<var> usa Palla Gelo!
+<var> selvatico usa Palla Gelo!
+<var> nemico usa Palla Gelo!
+<var> di <var> usa Palla Gelo!
+<var> usa Pugnospine!
+<var> selvatico usa Pugnospine!
+<var> nemico usa Pugnospine!
+<var> di <var> usa Pugnospine!
+<var> usa Pigro!
+<var> selvatico usa Pigro!
+<var> nemico usa Pigro!
+<var> di <var> usa Pigro!
+<var> usa Granvoce!
+<var> selvatico usa Granvoce!
+<var> nemico usa Granvoce!
+<var> di <var> usa Granvoce!
+<var> usa Velenodenti!
+<var> selvatico usa Velenodenti!
+<var> nemico usa Velenodenti!
+<var> di <var> usa Velenodenti!
+<var> usa Tritartigli!
+<var> selvatico usa Tritartigli!
+<var> nemico usa Tritartigli!
+<var> di <var> usa Tritartigli!
+<var> usa Incendio!
+<var> selvatico usa Incendio!
+<var> nemico usa Incendio!
+<var> di <var> usa Incendio!
+<var> usa Idrocannone!
+<var> selvatico usa Idrocannone!
+<var> nemico usa Idrocannone!
+<var> di <var> usa Idrocannone!
+<var> usa Meteorpugno!
+<var> selvatico usa Meteorpugno!
+<var> nemico usa Meteorpugno!
+<var> di <var> usa Meteorpugno!
+<var> usa Sgomento!
+<var> selvatico usa Sgomento!
+<var> nemico usa Sgomento!
+<var> di <var> usa Sgomento!
+<var> usa Palla Clima!
+<var> selvatico usa Palla Clima!
+<var> nemico usa Palla Clima!
+<var> di <var> usa Palla Clima!
+<var> usa Aromaterapia!
+<var> selvatico usa Aromaterapia!
+<var> nemico usa Aromaterapia!
+<var> di <var> usa Aromaterapia!
+<var> usa Falselacrime!
+<var> selvatico usa Falselacrime!
+<var> nemico usa Falselacrime!
+<var> di <var> usa Falselacrime!
+<var> usa Aerasoio!
+<var> selvatico usa Aerasoio!
+<var> nemico usa Aerasoio!
+<var> di <var> usa Aerasoio!
+<var> usa Vampata!
+<var> selvatico usa Vampata!
+<var> nemico usa Vampata!
+<var> di <var> usa Vampata!
+<var> usa Segugio!
+<var> selvatico usa Segugio!
+<var> nemico usa Segugio!
+<var> di <var> usa Segugio!
+<var> usa Rocciotomba!
+<var> selvatico usa Rocciotomba!
+<var> nemico usa Rocciotomba!
+<var> di <var> usa Rocciotomba!
+<var> usa Ventargenteo!
+<var> selvatico usa Ventargenteo!
+<var> nemico usa Ventargenteo!
+<var> di <var> usa Ventargenteo!
+<var> usa Ferrostrido!
+<var> selvatico usa Ferrostrido!
+<var> nemico usa Ferrostrido!
+<var> di <var> usa Ferrostrido!
+<var> usa Meloderba!
+<var> selvatico usa Meloderba!
+<var> nemico usa Meloderba!
+<var> di <var> usa Meloderba!
+<var> usa Solletico!
+<var> selvatico usa Solletico!
+<var> nemico usa Solletico!
+<var> di <var> usa Solletico!
+<var> usa Cosmoforza!
+<var> selvatico usa Cosmoforza!
+<var> nemico usa Cosmoforza!
+<var> di <var> usa Cosmoforza!
+<var> usa Zampillo!
+<var> selvatico usa Zampillo!
+<var> nemico usa Zampillo!
+<var> di <var> usa Zampillo!
+<var> usa Segnoraggio!
+<var> selvatico usa Segnoraggio!
+<var> nemico usa Segnoraggio!
+<var> di <var> usa Segnoraggio!
+<var> usa Pugnodombra!
+<var> selvatico usa Pugnodombra!
+<var> nemico usa Pugnodombra!
+<var> di <var> usa Pugnodombra!
+<var> usa Extrasenso!
+<var> selvatico usa Extrasenso!
+<var> nemico usa Extrasenso!
+<var> di <var> usa Extrasenso!
+<var> usa Stramontante!
+<var> selvatico usa Stramontante!
+<var> nemico usa Stramontante!
+<var> di <var> usa Stramontante!
+<var> usa Sabbiotomba!
+<var> selvatico usa Sabbiotomba!
+<var> nemico usa Sabbiotomba!
+<var> di <var> usa Sabbiotomba!
+<var> usa Purogelo!
+<var> selvatico usa Purogelo!
+<var> nemico usa Purogelo!
+<var> di <var> usa Purogelo!
+<var> usa Fanghiglia!
+<var> selvatico usa Fanghiglia!
+<var> nemico usa Fanghiglia!
+<var> di <var> usa Fanghiglia!
+<var> usa Semitraglia!
+<var> selvatico usa Semitraglia!
+<var> nemico usa Semitraglia!
+<var> di <var> usa Semitraglia!
+<var> usa Aeroassalto!
+<var> selvatico usa Aeroassalto!
+<var> nemico usa Aeroassalto!
+<var> di <var> usa Aeroassalto!
+<var> usa Gelolancia!
+<var> selvatico usa Gelolancia!
+<var> nemico usa Gelolancia!
+<var> di <var> usa Gelolancia!
+<var> usa Ferroscudo!
+<var> selvatico usa Ferroscudo!
+<var> nemico usa Ferroscudo!
+<var> di <var> usa Ferroscudo!
+<var> usa Blocco!
+<var> selvatico usa Blocco!
+<var> nemico usa Blocco!
+<var> di <var> usa Blocco!
+<var> usa Gridodilotta!
+<var> selvatico usa Gridodilotta!
+<var> nemico usa Gridodilotta!
+<var> di <var> usa Gridodilotta!
+<var> usa Dragartigli!
+<var> selvatico usa Dragartigli!
+<var> nemico usa Dragartigli!
+<var> di <var> usa Dragartigli!
+<var> usa Radicalbero!
+<var> selvatico usa Radicalbero!
+<var> nemico usa Radicalbero!
+<var> di <var> usa Radicalbero!
+<var> usa Granfisico!
+<var> selvatico usa Granfisico!
+<var> nemico usa Granfisico!
+<var> di <var> usa Granfisico!
+<var> usa Rimbalzo!
+<var> selvatico usa Rimbalzo!
+<var> nemico usa Rimbalzo!
+<var> di <var> usa Rimbalzo!
+<var> usa Colpodifango!
+<var> selvatico usa Colpodifango!
+<var> nemico usa Colpodifango!
+<var> di <var> usa Colpodifango!
+<var> usa Velenocoda!
+<var> selvatico usa Velenocoda!
+<var> nemico usa Velenocoda!
+<var> di <var> usa Velenocoda!
+<var> usa Supplica!
+<var> selvatico usa Supplica!
+<var> nemico usa Supplica!
+<var> di <var> usa Supplica!
+<var> usa Locomovolt!
+<var> selvatico usa Locomovolt!
+<var> nemico usa Locomovolt!
+<var> di <var> usa Locomovolt!
+<var> usa Fogliamagica!
+<var> selvatico usa Fogliamagica!
+<var> nemico usa Fogliamagica!
+<var> di <var> usa Fogliamagica!
+<var> usa Docciascudo!
+<var> selvatico usa Docciascudo!
+<var> nemico usa Docciascudo!
+<var> di <var> usa Docciascudo!
+<var> usa Calmamente!
+<var> selvatico usa Calmamente!
+<var> nemico usa Calmamente!
+<var> di <var> usa Calmamente!
+<var> usa Fendifoglia!
+<var> selvatico usa Fendifoglia!
+<var> nemico usa Fendifoglia!
+<var> di <var> usa Fendifoglia!
+<var> usa Dragodanza!
+<var> selvatico usa Dragodanza!
+<var> nemico usa Dragodanza!
+<var> di <var> usa Dragodanza!
+<var> usa Cadutamassi!
+<var> selvatico usa Cadutamassi!
+<var> nemico usa Cadutamassi!
+<var> di <var> usa Cadutamassi!
+<var> usa Ondashock!
+<var> selvatico usa Ondashock!
+<var> nemico usa Ondashock!
+<var> di <var> usa Ondashock!
+<var> usa Idropulsar!
+<var> selvatico usa Idropulsar!
+<var> nemico usa Idropulsar!
+<var> di <var> usa Idropulsar!
+<var> usa Obbliderio!
+<var> selvatico usa Obbliderio!
+<var> nemico usa Obbliderio!
+<var> di <var> usa Obbliderio!
+<var> usa Psicoslancio!
+<var> selvatico usa Psicoslancio!
+<var> nemico usa Psicoslancio!
+<var> di <var> usa Psicoslancio!
+<var> usa Trespolo!
+<var> selvatico usa Trespolo!
+<var> nemico usa Trespolo!
+<var> di <var> usa Trespolo!
+<var> usa Gravità!
+<var> selvatico usa Gravità!
+<var> nemico usa Gravità!
+<var> di <var> usa Gravità!
+<var> usa Miracolvista!
+<var> selvatico usa Miracolvista!
+<var> nemico usa Miracolvista!
+<var> di <var> usa Miracolvista!
+<var> usa Svegliopacca!
+<var> selvatico usa Svegliopacca!
+<var> nemico usa Svegliopacca!
+<var> di <var> usa Svegliopacca!
+<var> usa Martelpugno!
+<var> selvatico usa Martelpugno!
+<var> nemico usa Martelpugno!
+<var> di <var> usa Martelpugno!
+<var> usa Vortexpalla!
+<var> selvatico usa Vortexpalla!
+<var> nemico usa Vortexpalla!
+<var> di <var> usa Vortexpalla!
+<var> usa Curardore!
+<var> selvatico usa Curardore!
+<var> nemico usa Curardore!
+<var> di <var> usa Curardore!
+<var> usa Acquadisale!
+<var> selvatico usa Acquadisale!
+<var> nemico usa Acquadisale!
+<var> di <var> usa Acquadisale!
+<var> usa Dononaturale!
+<var> selvatico usa Dononaturale!
+<var> nemico usa Dononaturale!
+<var> di <var> usa Dononaturale!
+<var> usa Fintoattacco!
+<var> selvatico usa Fintoattacco!
+<var> nemico usa Fintoattacco!
+<var> di <var> usa Fintoattacco!
+<var> usa Spennata!
+<var> selvatico usa Spennata!
+<var> nemico usa Spennata!
+<var> di <var> usa Spennata!
+<var> usa Ventoincoda!
+<var> selvatico usa Ventoincoda!
+<var> nemico usa Ventoincoda!
+<var> di <var> usa Ventoincoda!
+<var> usa Acupressione!
+<var> selvatico usa Acupressione!
+<var> nemico usa Acupressione!
+<var> di <var> usa Acupressione!
+<var> usa Metalscoppio!
+<var> selvatico usa Metalscoppio!
+<var> nemico usa Metalscoppio!
+<var> di <var> usa Metalscoppio!
+<var> usa Retromarcia!
+<var> selvatico usa Retromarcia!
+<var> nemico usa Retromarcia!
+<var> di <var> usa Retromarcia!
+<var> usa Zuffa!
+<var> selvatico usa Zuffa!
+<var> nemico usa Zuffa!
+<var> di <var> usa Zuffa!
+<var> usa Rivincita!
+<var> selvatico usa Rivincita!
+<var> nemico usa Rivincita!
+<var> di <var> usa Rivincita!
+<var> usa Garanzia!
+<var> selvatico usa Garanzia!
+<var> nemico usa Garanzia!
+<var> di <var> usa Garanzia!
+<var> usa Divieto!
+<var> selvatico usa Divieto!
+<var> nemico usa Divieto!
+<var> di <var> usa Divieto!
+<var> usa Lancio!
+<var> selvatico usa Lancio!
+<var> nemico usa Lancio!
+<var> di <var> usa Lancio!
+<var> usa Psicotransfer!
+<var> selvatico usa Psicotransfer!
+<var> nemico usa Psicotransfer!
+<var> di <var> usa Psicotransfer!
+<var> usa Asso!
+<var> selvatico usa Asso!
+<var> nemico usa Asso!
+<var> di <var> usa Asso!
+<var> usa Anticura!
+<var> selvatico usa Anticura!
+<var> nemico usa Anticura!
+<var> di <var> usa Anticura!
+<var> usa Strizzata!
+<var> selvatico usa Strizzata!
+<var> nemico usa Strizzata!
+<var> di <var> usa Strizzata!
+<var> usa Ingannoforza!
+<var> selvatico usa Ingannoforza!
+<var> nemico usa Ingannoforza!
+<var> di <var> usa Ingannoforza!
+<var> usa Gastroacido!
+<var> selvatico usa Gastroacido!
+<var> nemico usa Gastroacido!
+<var> di <var> usa Gastroacido!
+<var> usa Fortuncanto!
+<var> selvatico usa Fortuncanto!
+<var> nemico usa Fortuncanto!
+<var> di <var> usa Fortuncanto!
+<var> usa Precedenza!
+<var> selvatico usa Precedenza!
+<var> nemico usa Precedenza!
+<var> di <var> usa Precedenza!
+<var> usa Copione!
+<var> selvatico usa Copione!
+<var> nemico usa Copione!
+<var> di <var> usa Copione!
+<var> usa Barattoforza!
+<var> selvatico usa Barattoforza!
+<var> nemico usa Barattoforza!
+<var> di <var> usa Barattoforza!
+<var> usa Barattoscudo!
+<var> selvatico usa Barattoscudo!
+<var> nemico usa Barattoscudo!
+<var> di <var> usa Barattoscudo!
+<var> usa Punizione!
+<var> selvatico usa Punizione!
+<var> nemico usa Punizione!
+<var> di <var> usa Punizione!
+<var> usa Ultimascelta!
+<var> selvatico usa Ultimascelta!
+<var> nemico usa Ultimascelta!
+<var> di <var> usa Ultimascelta!
+<var> usa Affannoseme!
+<var> selvatico usa Affannoseme!
+<var> nemico usa Affannoseme!
+<var> di <var> usa Affannoseme!
+<var> usa Sbigoattacco!
+<var> selvatico usa Sbigoattacco!
+<var> nemico usa Sbigoattacco!
+<var> di <var> usa Sbigoattacco!
+<var> usa Fielepunte!
+<var> selvatico usa Fielepunte!
+<var> nemico usa Fielepunte!
+<var> di <var> usa Fielepunte!
+<var> usa Cuorbaratto!
+<var> selvatico usa Cuorbaratto!
+<var> nemico usa Cuorbaratto!
+<var> di <var> usa Cuorbaratto!
+<var> usa Acquanello!
+<var> selvatico usa Acquanello!
+<var> nemico usa Acquanello!
+<var> di <var> usa Acquanello!
+<var> usa Magnetascesa!
+<var> selvatico usa Magnetascesa!
+<var> nemico usa Magnetascesa!
+<var> di <var> usa Magnetascesa!
+<var> usa Fuococarica!
+<var> selvatico usa Fuococarica!
+<var> nemico usa Fuococarica!
+<var> di <var> usa Fuococarica!
+<var> usa Palmoforza!
+<var> selvatico usa Palmoforza!
+<var> nemico usa Palmoforza!
+<var> di <var> usa Palmoforza!
+<var> usa Forzasfera!
+<var> selvatico usa Forzasfera!
+<var> nemico usa Forzasfera!
+<var> di <var> usa Forzasfera!
+<var> usa Lucidatura!
+<var> selvatico usa Lucidatura!
+<var> nemico usa Lucidatura!
+<var> di <var> usa Lucidatura!
+<var> usa Velenpuntura!
+<var> selvatico usa Velenpuntura!
+<var> nemico usa Velenpuntura!
+<var> di <var> usa Velenpuntura!
+<var> usa Neropulsar!
+<var> selvatico usa Neropulsar!
+<var> nemico usa Neropulsar!
+<var> di <var> usa Neropulsar!
+<var> usa Nottesferza!
+<var> selvatico usa Nottesferza!
+<var> nemico usa Nottesferza!
+<var> di <var> usa Nottesferza!
+<var> usa Idrondata!
+<var> selvatico usa Idrondata!
+<var> nemico usa Idrondata!
+<var> di <var> usa Idrondata!
+<var> usa Semebomba!
+<var> selvatico usa Semebomba!
+<var> nemico usa Semebomba!
+<var> di <var> usa Semebomba!
+<var> usa Eterelama!
+<var> selvatico usa Eterelama!
+<var> nemico usa Eterelama!
+<var> di <var> usa Eterelama!
+<var> usa Forbice X!
+<var> selvatico usa Forbice X!
+<var> nemico usa Forbice X!
+<var> di <var> usa Forbice X!
+<var> usa Ronzio!
+<var> selvatico usa Ronzio!
+<var> nemico usa Ronzio!
+<var> di <var> usa Ronzio!
+<var> usa Dragopulsar!
+<var> selvatico usa Dragopulsar!
+<var> nemico usa Dragopulsar!
+<var> di <var> usa Dragopulsar!
+<var> usa Dragofuria!
+<var> selvatico usa Dragofuria!
+<var> nemico usa Dragofuria!
+<var> di <var> usa Dragofuria!
+<var> usa Gemmoforza!
+<var> selvatico usa Gemmoforza!
+<var> nemico usa Gemmoforza!
+<var> di <var> usa Gemmoforza!
+<var> usa Assorbipugno!
+<var> selvatico usa Assorbipugno!
+<var> nemico usa Assorbipugno!
+<var> di <var> usa Assorbipugno!
+<var> usa Vuotonda!
+<var> selvatico usa Vuotonda!
+<var> nemico usa Vuotonda!
+<var> di <var> usa Vuotonda!
+<var> usa Focalcolpo!
+<var> selvatico usa Focalcolpo!
+<var> nemico usa Focalcolpo!
+<var> di <var> usa Focalcolpo!
+<var> usa Energipalla!
+<var> selvatico usa Energipalla!
+<var> nemico usa Energipalla!
+<var> di <var> usa Energipalla!
+<var> usa Baldeali!
+<var> selvatico usa Baldeali!
+<var> nemico usa Baldeali!
+<var> di <var> usa Baldeali!
+<var> usa Geoforza!
+<var> selvatico usa Geoforza!
+<var> nemico usa Geoforza!
+<var> di <var> usa Geoforza!
+<var> usa Rapidscambio!
+<var> selvatico usa Rapidscambio!
+<var> nemico usa Rapidscambio!
+<var> di <var> usa Rapidscambio!
+<var> usa Gigaimpatto!
+<var> selvatico usa Gigaimpatto!
+<var> nemico usa Gigaimpatto!
+<var> di <var> usa Gigaimpatto!
+<var> usa Congiura!
+<var> selvatico usa Congiura!
+<var> nemico usa Congiura!
+<var> di <var> usa Congiura!
+<var> usa Pugnoscarica!
+<var> selvatico usa Pugnoscarica!
+<var> nemico usa Pugnoscarica!
+<var> di <var> usa Pugnoscarica!
+<var> usa Slavina!
+<var> selvatico usa Slavina!
+<var> nemico usa Slavina!
+<var> di <var> usa Slavina!
+<var> usa Geloscheggia!
+<var> selvatico usa Geloscheggia!
+<var> nemico usa Geloscheggia!
+<var> di <var> usa Geloscheggia!
+<var> usa Ombrartigli!
+<var> selvatico usa Ombrartigli!
+<var> nemico usa Ombrartigli!
+<var> di <var> usa Ombrartigli!
+<var> usa Fulmindenti!
+<var> selvatico usa Fulmindenti!
+<var> nemico usa Fulmindenti!
+<var> di <var> usa Fulmindenti!
+<var> usa Gelodenti!
+<var> selvatico usa Gelodenti!
+<var> nemico usa Gelodenti!
+<var> di <var> usa Gelodenti!
+<var> usa Rogodenti!
+<var> selvatico usa Rogodenti!
+<var> nemico usa Rogodenti!
+<var> di <var> usa Rogodenti!
+<var> usa Furtivombra!
+<var> selvatico usa Furtivombra!
+<var> nemico usa Furtivombra!
+<var> di <var> usa Furtivombra!
+<var> usa Pantanobomba!
+<var> selvatico usa Pantanobomba!
+<var> nemico usa Pantanobomba!
+<var> di <var> usa Pantanobomba!
+<var> usa Psicotaglio!
+<var> selvatico usa Psicotaglio!
+<var> nemico usa Psicotaglio!
+<var> di <var> usa Psicotaglio!
+<var> usa Cozzata Zen!
+<var> selvatico usa Cozzata Zen!
+<var> nemico usa Cozzata Zen!
+<var> di <var> usa Cozzata Zen!
+<var> usa Cristalcolpo!
+<var> selvatico usa Cristalcolpo!
+<var> nemico usa Cristalcolpo!
+<var> di <var> usa Cristalcolpo!
+<var> usa Cannonflash!
+<var> selvatico usa Cannonflash!
+<var> nemico usa Cannonflash!
+<var> di <var> usa Cannonflash!
+<var> usa Scalaroccia!
+<var> selvatico usa Scalaroccia!
+<var> nemico usa Scalaroccia!
+<var> di <var> usa Scalaroccia!
+<var> usa Scacciabruma!
+<var> selvatico usa Scacciabruma!
+<var> nemico usa Scacciabruma!
+<var> di <var> usa Scacciabruma!
+<var> usa Distortozona!
+<var> selvatico usa Distortozona!
+<var> nemico usa Distortozona!
+<var> di <var> usa Distortozona!
+<var> usa Dragobolide!
+<var> selvatico usa Dragobolide!
+<var> nemico usa Dragobolide!
+<var> di <var> usa Dragobolide!
+<var> usa Scarica!
+<var> selvatico usa Scarica!
+<var> nemico usa Scarica!
+<var> di <var> usa Scarica!
+<var> usa Lavasbuffo!
+<var> selvatico usa Lavasbuffo!
+<var> nemico usa Lavasbuffo!
+<var> di <var> usa Lavasbuffo!
+<var> usa Verdebufera!
+<var> selvatico usa Verdebufera!
+<var> nemico usa Verdebufera!
+<var> di <var> usa Verdebufera!
+<var> usa Vigorcolpo!
+<var> selvatico usa Vigorcolpo!
+<var> nemico usa Vigorcolpo!
+<var> di <var> usa Vigorcolpo!
+<var> usa Devastomasso!
+<var> selvatico usa Devastomasso!
+<var> nemico usa Devastomasso!
+<var> di <var> usa Devastomasso!
+<var> usa Velenocroce!
+<var> selvatico usa Velenocroce!
+<var> nemico usa Velenocroce!
+<var> di <var> usa Velenocroce!
+<var> usa Sporcolancio!
+<var> selvatico usa Sporcolancio!
+<var> nemico usa Sporcolancio!
+<var> di <var> usa Sporcolancio!
+<var> usa Metaltestata!
+<var> selvatico usa Metaltestata!
+<var> nemico usa Metaltestata!
+<var> di <var> usa Metaltestata!
+<var> usa Bombagnete!
+<var> selvatico usa Bombagnete!
+<var> nemico usa Bombagnete!
+<var> di <var> usa Bombagnete!
+<var> usa Pietrataglio!
+<var> selvatico usa Pietrataglio!
+<var> nemico usa Pietrataglio!
+<var> di <var> usa Pietrataglio!
+<var> usa Incanto!
+<var> selvatico usa Incanto!
+<var> nemico usa Incanto!
+<var> di <var> usa Incanto!
+<var> usa Levitoroccia!
+<var> selvatico usa Levitoroccia!
+<var> nemico usa Levitoroccia!
+<var> di <var> usa Levitoroccia!
+<var> usa Laccioerboso!
+<var> selvatico usa Laccioerboso!
+<var> nemico usa Laccioerboso!
+<var> di <var> usa Laccioerboso!
+<var> usa Schiamazzo!
+<var> selvatico usa Schiamazzo!
+<var> nemico usa Schiamazzo!
+<var> di <var> usa Schiamazzo!
+<var> usa Giudizio!
+<var> selvatico usa Giudizio!
+<var> nemico usa Giudizio!
+<var> di <var> usa Giudizio!
+<var> usa Coleomorso!
+<var> selvatico usa Coleomorso!
+<var> nemico usa Coleomorso!
+<var> di <var> usa Coleomorso!
+<var> usa Raggioscossa!
+<var> selvatico usa Raggioscossa!
+<var> nemico usa Raggioscossa!
+<var> di <var> usa Raggioscossa!
+<var> usa Mazzuolegno!
+<var> selvatico usa Mazzuolegno!
+<var> nemico usa Mazzuolegno!
+<var> di <var> usa Mazzuolegno!
+<var> usa Acquagetto!
+<var> selvatico usa Acquagetto!
+<var> nemico usa Acquagetto!
+<var> di <var> usa Acquagetto!
+<var> usa Comandourto!
+<var> selvatico usa Comandourto!
+<var> nemico usa Comandourto!
+<var> di <var> usa Comandourto!
+<var> usa Comandoscudo!
+<var> selvatico usa Comandoscudo!
+<var> nemico usa Comandoscudo!
+<var> di <var> usa Comandoscudo!
+<var> usa Comandocura!
+<var> selvatico usa Comandocura!
+<var> nemico usa Comandocura!
+<var> di <var> usa Comandocura!
+<var> usa Zuccata!
+<var> selvatico usa Zuccata!
+<var> nemico usa Zuccata!
+<var> di <var> usa Zuccata!
+<var> usa Doppiosmash!
+<var> selvatico usa Doppiosmash!
+<var> nemico usa Doppiosmash!
+<var> di <var> usa Doppiosmash!
+<var> usa Fragortempo!
+<var> selvatico usa Fragortempo!
+<var> nemico usa Fragortempo!
+<var> di <var> usa Fragortempo!
+<var> usa Fendispazio!
+<var> selvatico usa Fendispazio!
+<var> nemico usa Fendispazio!
+<var> di <var> usa Fendispazio!
+<var> usa Lunardanza!
+<var> selvatico usa Lunardanza!
+<var> nemico usa Lunardanza!
+<var> di <var> usa Lunardanza!
+<var> usa Sbriciolmano!
+<var> selvatico usa Sbriciolmano!
+<var> nemico usa Sbriciolmano!
+<var> di <var> usa Sbriciolmano!
+<var> usa Magmaclisma!
+<var> selvatico usa Magmaclisma!
+<var> nemico usa Magmaclisma!
+<var> di <var> usa Magmaclisma!
+<var> usa Vuototetro!
+<var> selvatico usa Vuototetro!
+<var> nemico usa Vuototetro!
+<var> di <var> usa Vuototetro!
+<var> usa Infuriaseme!
+<var> selvatico usa Infuriaseme!
+<var> nemico usa Infuriaseme!
+<var> di <var> usa Infuriaseme!
+<var> usa Funestovento!
+<var> selvatico usa Funestovento!
+<var> nemico usa Funestovento!
+<var> di <var> usa Funestovento!
+<var> usa Oscurotuffo!
+<var> selvatico usa Oscurotuffo!
+<var> nemico usa Oscurotuffo!
+<var> di <var> usa Oscurotuffo!
+<var> usa Unghiaguzze!
+<var> selvatico usa Unghiaguzze!
+<var> nemico usa Unghiaguzze!
+<var> di <var> usa Unghiaguzze!
+<var> usa Bodyguard!
+<var> selvatico usa Bodyguard!
+<var> nemico usa Bodyguard!
+<var> di <var> usa Bodyguard!
+<var> usa Paridifesa!
+<var> selvatico usa Paridifesa!
+<var> nemico usa Paridifesa!
+<var> di <var> usa Paridifesa!
+<var> usa Pariattacco!
+<var> selvatico usa Pariattacco!
+<var> nemico usa Pariattacco!
+<var> di <var> usa Pariattacco!
+<var> usa Mirabilzona!
+<var> selvatico usa Mirabilzona!
+<var> nemico usa Mirabilzona!
+<var> di <var> usa Mirabilzona!
+<var> usa Psicoshock!
+<var> selvatico usa Psicoshock!
+<var> nemico usa Psicoshock!
+<var> di <var> usa Psicoshock!
+<var> usa Velenoshock!
+<var> selvatico usa Velenoshock!
+<var> nemico usa Velenoshock!
+<var> di <var> usa Velenoshock!
+<var> usa Sganciapesi!
+<var> selvatico usa Sganciapesi!
+<var> nemico usa Sganciapesi!
+<var> di <var> usa Sganciapesi!
+<var> usa Polverabbia!
+<var> selvatico usa Polverabbia!
+<var> nemico usa Polverabbia!
+<var> di <var> usa Polverabbia!
+<var> usa Telecinesi!
+<var> selvatico usa Telecinesi!
+<var> nemico usa Telecinesi!
+<var> di <var> usa Telecinesi!
+<var> usa Magicozona!
+<var> selvatico usa Magicozona!
+<var> nemico usa Magicozona!
+<var> di <var> usa Magicozona!
+<var> usa Abbattimento!
+<var> selvatico usa Abbattimento!
+<var> nemico usa Abbattimento!
+<var> di <var> usa Abbattimento!
+<var> usa Tempestretta!
+<var> selvatico usa Tempestretta!
+<var> nemico usa Tempestretta!
+<var> di <var> usa Tempestretta!
+<var> usa Pirolancio!
+<var> selvatico usa Pirolancio!
+<var> nemico usa Pirolancio!
+<var> di <var> usa Pirolancio!
+<var> usa Fangonda!
+<var> selvatico usa Fangonda!
+<var> nemico usa Fangonda!
+<var> di <var> usa Fangonda!
+<var> usa Eledanza!
+<var> selvatico usa Eledanza!
+<var> nemico usa Eledanza!
+<var> di <var> usa Eledanza!
+<var> usa Pesobomba!
+<var> selvatico usa Pesobomba!
+<var> nemico usa Pesobomba!
+<var> di <var> usa Pesobomba!
+<var> usa Sincrumore!
+<var> selvatico usa Sincrumore!
+<var> nemico usa Sincrumore!
+<var> di <var> usa Sincrumore!
+<var> usa Energisfera!
+<var> selvatico usa Energisfera!
+<var> nemico usa Energisfera!
+<var> di <var> usa Energisfera!
+<var> usa Inondazione!
+<var> selvatico usa Inondazione!
+<var> nemico usa Inondazione!
+<var> di <var> usa Inondazione!
+<var> usa Nitrocarica!
+<var> selvatico usa Nitrocarica!
+<var> nemico usa Nitrocarica!
+<var> di <var> usa Nitrocarica!
+<var> usa Arrotola!
+<var> selvatico usa Arrotola!
+<var> nemico usa Arrotola!
+<var> di <var> usa Arrotola!
+<var> usa Calciobasso!
+<var> selvatico usa Calciobasso!
+<var> nemico usa Calciobasso!
+<var> di <var> usa Calciobasso!
+<var> usa Acidobomba!
+<var> selvatico usa Acidobomba!
+<var> nemico usa Acidobomba!
+<var> di <var> usa Acidobomba!
+<var> usa Ripicca!
+<var> selvatico usa Ripicca!
+<var> nemico usa Ripicca!
+<var> di <var> usa Ripicca!
+<var> usa Ondisinvolta!
+<var> selvatico usa Ondisinvolta!
+<var> nemico usa Ondisinvolta!
+<var> di <var> usa Ondisinvolta!
+<var> usa Saltamicizia!
+<var> selvatico usa Saltamicizia!
+<var> nemico usa Saltamicizia!
+<var> di <var> usa Saltamicizia!
+<var> usa Cortesia!
+<var> selvatico usa Cortesia!
+<var> nemico usa Cortesia!
+<var> di <var> usa Cortesia!
+<var> usa Coro!
+<var> selvatico usa Coro!
+<var> nemico usa Coro!
+<var> di <var> usa Coro!
+<var> usa Echeggiavoce!
+<var> selvatico usa Echeggiavoce!
+<var> nemico usa Echeggiavoce!
+<var> di <var> usa Echeggiavoce!
+<var> usa Insidia!
+<var> selvatico usa Insidia!
+<var> nemico usa Insidia!
+<var> di <var> usa Insidia!
+<var> usa Pulifumo!
+<var> selvatico usa Pulifumo!
+<var> nemico usa Pulifumo!
+<var> di <var> usa Pulifumo!
+<var> usa Veicolaforza!
+<var> selvatico usa Veicolaforza!
+<var> nemico usa Veicolaforza!
+<var> di <var> usa Veicolaforza!
+<var> usa Anticipo!
+<var> selvatico usa Anticipo!
+<var> nemico usa Anticipo!
+<var> di <var> usa Anticipo!
+<var> usa Cambiaposto!
+<var> selvatico usa Cambiaposto!
+<var> nemico usa Cambiaposto!
+<var> di <var> usa Cambiaposto!
+<var> usa Idrovampata!
+<var> selvatico usa Idrovampata!
+<var> nemico usa Idrovampata!
+<var> di <var> usa Idrovampata!
+<var> usa Gettaguscio!
+<var> selvatico usa Gettaguscio!
+<var> nemico usa Gettaguscio!
+<var> di <var> usa Gettaguscio!
+<var> usa Ondasana!
+<var> selvatico usa Ondasana!
+<var> nemico usa Ondasana!
+<var> di <var> usa Ondasana!
+<var> usa Sciagura!
+<var> selvatico usa Sciagura!
+<var> nemico usa Sciagura!
+<var> di <var> usa Sciagura!
+<var> usa Cadutalibera!
+<var> selvatico usa Cadutalibera!
+<var> nemico usa Cadutalibera!
+<var> di <var> usa Cadutalibera!
+<var> usa Cambiomarcia!
+<var> selvatico usa Cambiomarcia!
+<var> nemico usa Cambiomarcia!
+<var> di <var> usa Cambiomarcia!
+<var> usa Ribaltiro!
+<var> selvatico usa Ribaltiro!
+<var> nemico usa Ribaltiro!
+<var> di <var> usa Ribaltiro!
+<var> usa Bruciatutto!
+<var> selvatico usa Bruciatutto!
+<var> nemico usa Bruciatutto!
+<var> di <var> usa Bruciatutto!
+<var> usa Spintone!
+<var> selvatico usa Spintone!
+<var> nemico usa Spintone!
+<var> di <var> usa Spintone!
+<var> usa Acrobazia!
+<var> selvatico usa Acrobazia!
+<var> nemico usa Acrobazia!
+<var> di <var> usa Acrobazia!
+<var> usa Riflettipo!
+<var> selvatico usa Riflettipo!
+<var> nemico usa Riflettipo!
+<var> di <var> usa Riflettipo!
+<var> usa Nemesi!
+<var> selvatico usa Nemesi!
+<var> nemico usa Nemesi!
+<var> di <var> usa Nemesi!
+<var> usa Azzardo!
+<var> selvatico usa Azzardo!
+<var> nemico usa Azzardo!
+<var> di <var> usa Azzardo!
+<var> usa Cediregalo!
+<var> selvatico usa Cediregalo!
+<var> nemico usa Cediregalo!
+<var> di <var> usa Cediregalo!
+<var> usa Marchiatura!
+<var> selvatico usa Marchiatura!
+<var> nemico usa Marchiatura!
+<var> di <var> usa Marchiatura!
+<var> usa Acquapatto!
+<var> selvatico usa Acquapatto!
+<var> nemico usa Acquapatto!
+<var> di <var> usa Acquapatto!
+<var> usa Fiammapatto!
+<var> selvatico usa Fiammapatto!
+<var> nemico usa Fiammapatto!
+<var> di <var> usa Fiammapatto!
+<var> usa Erbapatto!
+<var> selvatico usa Erbapatto!
+<var> nemico usa Erbapatto!
+<var> di <var> usa Erbapatto!
+<var> usa Invertivolt!
+<var> selvatico usa Invertivolt!
+<var> nemico usa Invertivolt!
+<var> di <var> usa Invertivolt!
+<var> usa Entomoblocco!
+<var> selvatico usa Entomoblocco!
+<var> nemico usa Entomoblocco!
+<var> di <var> usa Entomoblocco!
+<var> usa Battiterra!
+<var> selvatico usa Battiterra!
+<var> nemico usa Battiterra!
+<var> di <var> usa Battiterra!
+<var> usa Alitogelido!
+<var> selvatico usa Alitogelido!
+<var> nemico usa Alitogelido!
+<var> di <var> usa Alitogelido!
+<var> usa Codadrago!
+<var> selvatico usa Codadrago!
+<var> nemico usa Codadrago!
+<var> di <var> usa Codadrago!
+<var> usa Cuordileone!
+<var> selvatico usa Cuordileone!
+<var> nemico usa Cuordileone!
+<var> di <var> usa Cuordileone!
+<var> usa Elettrotela!
+<var> selvatico usa Elettrotela!
+<var> nemico usa Elettrotela!
+<var> di <var> usa Elettrotela!
+<var> usa Sprizzalampo!
+<var> selvatico usa Sprizzalampo!
+<var> nemico usa Sprizzalampo!
+<var> di <var> usa Sprizzalampo!
+<var> usa Giravvita!
+<var> selvatico usa Giravvita!
+<var> nemico usa Giravvita!
+<var> di <var> usa Giravvita!
+<var> usa Doppiocolpo!
+<var> selvatico usa Doppiocolpo!
+<var> nemico usa Doppiocolpo!
+<var> di <var> usa Doppiocolpo!
+<var> usa Cuorestampo!
+<var> selvatico usa Cuorestampo!
+<var> nemico usa Cuorestampo!
+<var> di <var> usa Cuorestampo!
+<var> usa Legnicorno!
+<var> selvatico usa Legnicorno!
+<var> nemico usa Legnicorno!
+<var> di <var> usa Legnicorno!
+<var> usa Spadasolenne!
+<var> selvatico usa Spadasolenne!
+<var> nemico usa Spadasolenne!
+<var> di <var> usa Spadasolenne!
+<var> usa Conchilama!
+<var> selvatico usa Conchilama!
+<var> nemico usa Conchilama!
+<var> di <var> usa Conchilama!
+<var> usa Marchiafuoco!
+<var> selvatico usa Marchiafuoco!
+<var> nemico usa Marchiafuoco!
+<var> di <var> usa Marchiafuoco!
+<var> usa Vorticerba!
+<var> selvatico usa Vorticerba!
+<var> nemico usa Vorticerba!
+<var> di <var> usa Vorticerba!
+<var> usa Rulloduro!
+<var> selvatico usa Rulloduro!
+<var> nemico usa Rulloduro!
+<var> di <var> usa Rulloduro!
+<var> usa Cotonscudo!
+<var> selvatico usa Cotonscudo!
+<var> nemico usa Cotonscudo!
+<var> di <var> usa Cotonscudo!
+<var> usa Urtoscuro!
+<var> selvatico usa Urtoscuro!
+<var> nemico usa Urtoscuro!
+<var> di <var> usa Urtoscuro!
+<var> usa Psicobotta!
+<var> selvatico usa Psicobotta!
+<var> nemico usa Psicobotta!
+<var> di <var> usa Psicobotta!
+<var> usa Spazzasberla!
+<var> selvatico usa Spazzasberla!
+<var> nemico usa Spazzasberla!
+<var> di <var> usa Spazzasberla!
+<var> usa Tifone!
+<var> selvatico usa Tifone!
+<var> nemico usa Tifone!
+<var> di <var> usa Tifone!
+<var> usa Ricciolata!
+<var> selvatico usa Ricciolata!
+<var> nemico usa Ricciolata!
+<var> di <var> usa Ricciolata!
+<var> usa Ingracolpo!
+<var> selvatico usa Ingracolpo!
+<var> nemico usa Ingracolpo!
+<var> di <var> usa Ingracolpo!
+<var> usa Sparafuoco!
+<var> selvatico usa Sparafuoco!
+<var> nemico usa Sparafuoco!
+<var> di <var> usa Sparafuoco!
+<var> usa Tecnobotto!
+<var> selvatico usa Tecnobotto!
+<var> nemico usa Tecnobotto!
+<var> di <var> usa Tecnobotto!
+<var> usa Cantoantico!
+<var> selvatico usa Cantoantico!
+<var> nemico usa Cantoantico!
+<var> di <var> usa Cantoantico!
+<var> usa Spadamistica!
+<var> selvatico usa Spadamistica!
+<var> nemico usa Spadamistica!
+<var> di <var> usa Spadamistica!
+<var> usa Gelamondo!
+<var> selvatico usa Gelamondo!
+<var> nemico usa Gelamondo!
+<var> di <var> usa Gelamondo!
+<var> usa Lucesiluro!
+<var> selvatico usa Lucesiluro!
+<var> nemico usa Lucesiluro!
+<var> di <var> usa Lucesiluro!
+<var> usa Fuocoblu!
+<var> selvatico usa Fuocoblu!
+<var> nemico usa Fuocoblu!
+<var> di <var> usa Fuocoblu!
+<var> usa Voldifuoco!
+<var> selvatico usa Voldifuoco!
+<var> nemico usa Voldifuoco!
+<var> di <var> usa Voldifuoco!
+<var> usa Elettrogelo!
+<var> selvatico usa Elettrogelo!
+<var> nemico usa Elettrogelo!
+<var> di <var> usa Elettrogelo!
+<var> usa Vampagelida!
+<var> selvatico usa Vampagelida!
+<var> nemico usa Vampagelida!
+<var> di <var> usa Vampagelida!
+<var> usa Urlorabbia!
+<var> selvatico usa Urlorabbia!
+<var> nemico usa Urlorabbia!
+<var> di <var> usa Urlorabbia!
+<var> usa Scagliagelo!
+<var> selvatico usa Scagliagelo!
+<var> nemico usa Scagliagelo!
+<var> di <var> usa Scagliagelo!
+<var> usa Generatore V!
+<var> selvatico usa Generatore V!
+<var> nemico usa Generatore V!
+<var> di <var> usa Generatore V!
+<var> usa Incrofiamma!
+<var> selvatico usa Incrofiamma!
+<var> nemico usa Incrofiamma!
+<var> di <var> usa Incrofiamma!
+<var> usa Incrotuono!
+<var> selvatico usa Incrotuono!
+<var> nemico usa Incrotuono!
+<var> di <var> usa Incrotuono!
+<var> usa Schiacciatuffo!
+<var> selvatico usa Schiacciatuffo!
+<var> nemico usa Schiacciatuffo!
+<var> di <var> usa Schiacciatuffo!
+<var> usa Ribaltappeto!
+<var> selvatico usa Ribaltappeto!
+<var> nemico usa Ribaltappeto!
+<var> di <var> usa Ribaltappeto!
+<var> usa Rutto!
+<var> selvatico usa Rutto!
+<var> nemico usa Rutto!
+<var> di <var> usa Rutto!
+<var> usa Aracampo!
+<var> selvatico usa Aracampo!
+<var> nemico usa Aracampo!
+<var> di <var> usa Aracampo!
+<var> usa Rete Vischiosa!
+<var> selvatico usa Rete Vischiosa!
+<var> nemico usa Rete Vischiosa!
+<var> di <var> usa Rete Vischiosa!
+<var> usa Pungiglione!
+<var> selvatico usa Pungiglione!
+<var> nemico usa Pungiglione!
+<var> di <var> usa Pungiglione!
+<var> usa Spettrotuffo!
+<var> selvatico usa Spettrotuffo!
+<var> nemico usa Spettrotuffo!
+<var> di <var> usa Spettrotuffo!
+<var> usa Halloween!
+<var> selvatico usa Halloween!
+<var> nemico usa Halloween!
+<var> di <var> usa Halloween!
+<var> usa Urlo!
+<var> selvatico usa Urlo!
+<var> nemico usa Urlo!
+<var> di <var> usa Urlo!
+<var> usa Pioggiaplasma!
+<var> selvatico usa Pioggiaplasma!
+<var> nemico usa Pioggiaplasma!
+<var> di <var> usa Pioggiaplasma!
+<var> usa Caricaparabola!
+<var> selvatico usa Caricaparabola!
+<var> nemico usa Caricaparabola!
+<var> di <var> usa Caricaparabola!
+<var> usa Boscomalocchio!
+<var> selvatico usa Boscomalocchio!
+<var> nemico usa Boscomalocchio!
+<var> di <var> usa Boscomalocchio!
+<var> usa Fiortempesta!
+<var> selvatico usa Fiortempesta!
+<var> nemico usa Fiortempesta!
+<var> di <var> usa Fiortempesta!
+<var> usa Liofilizzazione!
+<var> selvatico usa Liofilizzazione!
+<var> nemico usa Liofilizzazione!
+<var> di <var> usa Liofilizzazione!
+<var> usa Incantavoce!
+<var> selvatico usa Incantavoce!
+<var> nemico usa Incantavoce!
+<var> di <var> usa Incantavoce!
+<var> usa Monito!
+<var> selvatico usa Monito!
+<var> nemico usa Monito!
+<var> di <var> usa Monito!
+<var> usa Sottosopra!
+<var> selvatico usa Sottosopra!
+<var> nemico usa Sottosopra!
+<var> di <var> usa Sottosopra!
+<var> usa Assorbibacio!
+<var> selvatico usa Assorbibacio!
+<var> nemico usa Assorbibacio!
+<var> di <var> usa Assorbibacio!
+<var> usa Truccodifesa!
+<var> selvatico usa Truccodifesa!
+<var> nemico usa Truccodifesa!
+<var> di <var> usa Truccodifesa!
+<var> usa Fiordifesa!
+<var> selvatico usa Fiordifesa!
+<var> nemico usa Fiordifesa!
+<var> di <var> usa Fiordifesa!
+<var> usa Campo Erboso!
+<var> selvatico usa Campo Erboso!
+<var> nemico usa Campo Erboso!
+<var> di <var> usa Campo Erboso!
+<var> usa Campo Nebbioso!
+<var> selvatico usa Campo Nebbioso!
+<var> nemico usa Campo Nebbioso!
+<var> di <var> usa Campo Nebbioso!
+<var> usa Elettrocontagio!
+<var> selvatico usa Elettrocontagio!
+<var> nemico usa Elettrocontagio!
+<var> di <var> usa Elettrocontagio!
+<var> usa Carineria!
+<var> selvatico usa Carineria!
+<var> nemico usa Carineria!
+<var> di <var> usa Carineria!
+<var> usa Vento di Fata!
+<var> selvatico usa Vento di Fata!
+<var> nemico usa Vento di Fata!
+<var> di <var> usa Vento di Fata!
+<var> usa Forza Lunare!
+<var> selvatico usa Forza Lunare!
+<var> nemico usa Forza Lunare!
+<var> di <var> usa Forza Lunare!
+<var> usa Ondaboato!
+<var> selvatico usa Ondaboato!
+<var> nemico usa Ondaboato!
+<var> di <var> usa Ondaboato!
+<var> usa Blocco Fatato!
+<var> selvatico usa Blocco Fatato!
+<var> nemico usa Blocco Fatato!
+<var> di <var> usa Blocco Fatato!
+<var> usa Scudo Reale!
+<var> selvatico usa Scudo Reale!
+<var> nemico usa Scudo Reale!
+<var> di <var> usa Scudo Reale!
+<var> usa Simpatia!
+<var> selvatico usa Simpatia!
+<var> nemico usa Simpatia!
+<var> di <var> usa Simpatia!
+<var> usa Confidenza!
+<var> selvatico usa Confidenza!
+<var> nemico usa Confidenza!
+<var> di <var> usa Confidenza!
+<var> usa Diamantempesta!
+<var> selvatico usa Diamantempesta!
+<var> nemico usa Diamantempesta!
+<var> di <var> usa Diamantempesta!
+<var> usa Vaporscoppio!
+<var> selvatico usa Vaporscoppio!
+<var> nemico usa Vaporscoppio!
+<var> di <var> usa Vaporscoppio!
+<var> usa Forodimensionale!
+<var> selvatico usa Forodimensionale!
+<var> nemico usa Forodimensionale!
+<var> di <var> usa Forodimensionale!
+<var> usa Acqualame!
+<var> selvatico usa Acqualame!
+<var> nemico usa Acqualame!
+<var> di <var> usa Acqualame!
+<var> usa Magifiamma!
+<var> selvatico usa Magifiamma!
+<var> nemico usa Magifiamma!
+<var> di <var> usa Magifiamma!
+<var> usa Agodifesa!
+<var> selvatico usa Agodifesa!
+<var> nemico usa Agodifesa!
+<var> di <var> usa Agodifesa!
+<var> usa Nebularoma!
+<var> selvatico usa Nebularoma!
+<var> nemico usa Nebularoma!
+<var> di <var> usa Nebularoma!
+<var> usa Elettromistero!
+<var> selvatico usa Elettromistero!
+<var> nemico usa Elettromistero!
+<var> di <var> usa Elettromistero!
+<var> usa Velenotrappola!
+<var> selvatico usa Velenotrappola!
+<var> nemico usa Velenotrappola!
+<var> di <var> usa Velenotrappola!
+<var> usa Pulviscoppio!
+<var> selvatico usa Pulviscoppio!
+<var> nemico usa Pulviscoppio!
+<var> di <var> usa Pulviscoppio!
+<var> usa Geocontrollo!
+<var> selvatico usa Geocontrollo!
+<var> nemico usa Geocontrollo!
+<var> di <var> usa Geocontrollo!
+<var> usa Controllo Polare!
+<var> selvatico usa Controllo Polare!
+<var> nemico usa Controllo Polare!
+<var> di <var> usa Controllo Polare!
+<var> usa Cuccagna!
+<var> selvatico usa Cuccagna!
+<var> nemico usa Cuccagna!
+<var> di <var> usa Cuccagna!
+<var> usa Campo Elettrico!
+<var> selvatico usa Campo Elettrico!
+<var> nemico usa Campo Elettrico!
+<var> di <var> usa Campo Elettrico!
+<var> usa Magibrillio!
+<var> selvatico usa Magibrillio!
+<var> nemico usa Magibrillio!
+<var> di <var> usa Magibrillio!
+<var> usa Auguri!
+<var> selvatico usa Auguri!
+<var> nemico usa Auguri!
+<var> di <var> usa Auguri!
+<var> usa Mano nella Mano!
+<var> selvatico usa Mano nella Mano!
+<var> nemico usa Mano nella Mano!
+<var> di <var> usa Mano nella Mano!
+<var> usa Occhioni Teneri!
+<var> selvatico usa Occhioni Teneri!
+<var> nemico usa Occhioni Teneri!
+<var> di <var> usa Occhioni Teneri!
+<var> usa Elettrococcola!
+<var> selvatico usa Elettrococcola!
+<var> nemico usa Elettrococcola!
+<var> di <var> usa Elettrococcola!
+<var> usa Riguardo!
+<var> selvatico usa Riguardo!
+<var> nemico usa Riguardo!
+<var> di <var> usa Riguardo!
+<var> usa Assillo!
+<var> selvatico usa Assillo!
+<var> nemico usa Assillo!
+<var> di <var> usa Assillo!
+<var> usa Crescipugno!
+<var> selvatico usa Crescipugno!
+<var> nemico usa Crescipugno!
+<var> di <var> usa Crescipugno!
+<var> usa Ali del Fato!
+<var> selvatico usa Ali del Fato!
+<var> nemico usa Ali del Fato!
+<var> di <var> usa Ali del Fato!
+<var> usa Mille Frecce!
+<var> selvatico usa Mille Frecce!
+<var> nemico usa Mille Frecce!
+<var> di <var> usa Mille Frecce!
+<var> usa Mille Onde!
+<var> selvatico usa Mille Onde!
+<var> nemico usa Mille Onde!
+<var> di <var> usa Mille Onde!
+<var> usa Forza Tellurica!
+<var> selvatico usa Forza Tellurica!
+<var> nemico usa Forza Tellurica!
+<var> di <var> usa Forza Tellurica!
+<var> usa Luce Nefasta!
+<var> selvatico usa Luce Nefasta!
+<var> nemico usa Luce Nefasta!
+<var> di <var> usa Luce Nefasta!
+<var> usa Primopulsar!
+<var> selvatico usa Primopulsar!
+<var> nemico usa Primopulsar!
+<var> di <var> usa Primopulsar!
+<var> usa Spade Telluriche!
+<var> selvatico usa Spade Telluriche!
+<var> nemico usa Spade Telluriche!
+<var> di <var> usa Spade Telluriche!
+<var> usa Ascesa del Drago!
+<var> selvatico usa Ascesa del Drago!
+<var> nemico usa Ascesa del Drago!
+<var> di <var> usa Ascesa del Drago!
+<var> usa Urtodimensionale!
+<var> selvatico usa Urtodimensionale!
+<var> nemico usa Urtodimensionale!
+<var> di <var> usa Urtodimensionale!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<var> usa Sabbiaccumulo!
+<var> selvatico usa Sabbiaccumulo!
+<var> nemico usa Sabbiaccumulo!
+<var> di <var> usa Sabbiaccumulo!
+<var> usa Schermaglia!
+<var> selvatico usa Schermaglia!
+<var> nemico usa Schermaglia!
+<var> di <var> usa Schermaglia!
+<var> usa Fortino!
+<var> selvatico usa Fortino!
+<var> nemico usa Fortino!
+<var> di <var> usa Fortino!
+<var> usa Cucitura d'Ombra!
+<var> selvatico usa Cucitura d'Ombra!
+<var> nemico usa Cucitura d'Ombra!
+<var> di <var> usa Cucitura d'Ombra!
+<var> usa Braccioteso!
+<var> selvatico usa Braccioteso!
+<var> nemico usa Braccioteso!
+<var> di <var> usa Braccioteso!
+<var> usa Canto Effimero!
+<var> selvatico usa Canto Effimero!
+<var> nemico usa Canto Effimero!
+<var> di <var> usa Canto Effimero!
+<var> usa Martelgelo!
+<var> selvatico usa Martelgelo!
+<var> nemico usa Martelgelo!
+<var> di <var> usa Martelgelo!
+<var> usa Cura Floreale!
+<var> selvatico usa Cura Floreale!
+<var> nemico usa Cura Floreale!
+<var> di <var> usa Cura Floreale!
+<var> usa Forza Equina!
+<var> selvatico usa Forza Equina!
+<var> nemico usa Forza Equina!
+<var> di <var> usa Forza Equina!
+<var> usa Assorbiforza!
+<var> selvatico usa Assorbiforza!
+<var> nemico usa Assorbiforza!
+<var> di <var> usa Assorbiforza!
+<var> usa Lama Solare!
+<var> selvatico usa Lama Solare!
+<var> nemico usa Lama Solare!
+<var> di <var> usa Lama Solare!
+<var> usa Fogliame!
+<var> selvatico usa Fogliame!
+<var> nemico usa Fogliame!
+<var> di <var> usa Fogliame!
+<var> usa Riflettore!
+<var> selvatico usa Riflettore!
+<var> nemico usa Riflettore!
+<var> di <var> usa Riflettore!
+<var> usa Velenotela!
+<var> selvatico usa Velenotela!
+<var> nemico usa Velenotela!
+<var> di <var> usa Velenotela!
+<var> usa Concentrazione!
+<var> selvatico usa Concentrazione!
+<var> nemico usa Concentrazione!
+<var> di <var> usa Concentrazione!
+<var> usa Marciainpiù!
+<var> selvatico usa Marciainpiù!
+<var> nemico usa Marciainpiù!
+<var> di <var> usa Marciainpiù!
+<var> usa Colpo Infernale!
+<var> selvatico usa Colpo Infernale!
+<var> nemico usa Colpo Infernale!
+<var> di <var> usa Colpo Infernale!
+<var> usa Sferapolline!
+<var> selvatico usa Sferapolline!
+<var> nemico usa Sferapolline!
+<var> di <var> usa Sferapolline!
+<var> usa Colpo d'Ancora!
+<var> selvatico usa Colpo d'Ancora!
+<var> nemico usa Colpo d'Ancora!
+<var> di <var> usa Colpo d'Ancora!
+<var> usa Campo Psichico!
+<var> selvatico usa Campo Psichico!
+<var> nemico usa Campo Psichico!
+<var> di <var> usa Campo Psichico!
+<var> usa Assalto!
+<var> selvatico usa Assalto!
+<var> nemico usa Assalto!
+<var> di <var> usa Assalto!
+<var> usa Frusta di Fuoco!
+<var> selvatico usa Frusta di Fuoco!
+<var> nemico usa Frusta di Fuoco!
+<var> di <var> usa Frusta di Fuoco!
+<var> usa Tracotanza!
+<var> selvatico usa Tracotanza!
+<var> nemico usa Tracotanza!
+<var> di <var> usa Tracotanza!
+<var> usa Ultima Fiamma!
+<var> selvatico usa Ultima Fiamma!
+<var> nemico usa Ultima Fiamma!
+<var> di <var> usa Ultima Fiamma!
+<var> usa Velociscambio!
+<var> selvatico usa Velociscambio!
+<var> nemico usa Velociscambio!
+<var> di <var> usa Velociscambio!
+<var> usa Sottilcorno!
+<var> selvatico usa Sottilcorno!
+<var> nemico usa Sottilcorno!
+<var> di <var> usa Sottilcorno!
+<var> usa Purificazione!
+<var> selvatico usa Purificazione!
+<var> nemico usa Purificazione!
+<var> di <var> usa Purificazione!
+<var> usa Mutadanza!
+<var> selvatico usa Mutadanza!
+<var> nemico usa Mutadanza!
+<var> di <var> usa Mutadanza!
+<var> usa Nucleocastigo!
+<var> selvatico usa Nucleocastigo!
+<var> nemico usa Nucleocastigo!
+<var> di <var> usa Nucleocastigo!
+<var> usa Tropicalcio!
+<var> selvatico usa Tropicalcio!
+<var> nemico usa Tropicalcio!
+<var> di <var> usa Tropicalcio!
+<var> usa Imposizione!
+<var> selvatico usa Imposizione!
+<var> nemico usa Imposizione!
+<var> di <var> usa Imposizione!
+<var> usa Cannonbecco!
+<var> selvatico usa Cannonbecco!
+<var> nemico usa Cannonbecco!
+<var> di <var> usa Cannonbecco!
+<var> usa Clamorsquame!
+<var> selvatico usa Clamorsquame!
+<var> nemico usa Clamorsquame!
+<var> di <var> usa Clamorsquame!
+<var> usa Marteldrago!
+<var> selvatico usa Marteldrago!
+<var> nemico usa Marteldrago!
+<var> di <var> usa Marteldrago!
+<var> usa Vorticolpo!
+<var> selvatico usa Vorticolpo!
+<var> nemico usa Vorticolpo!
+<var> di <var> usa Vorticolpo!
+<var> usa Velaurora!
+<var> selvatico usa Velaurora!
+<var> nemico usa Velaurora!
+<var> di <var> usa Velaurora!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<var> usa Gusciotrappola!
+<var> selvatico usa Gusciotrappola!
+<var> nemico usa Gusciotrappola!
+<var> di <var> usa Gusciotrappola!
+<var> usa Cannonfiore!
+<var> selvatico usa Cannonfiore!
+<var> nemico usa Cannonfiore!
+<var> di <var> usa Cannonfiore!
+<var> usa Psicozanna!
+<var> selvatico usa Psicozanna!
+<var> nemico usa Psicozanna!
+<var> di <var> usa Psicozanna!
+<var> usa Battipiedi!
+<var> selvatico usa Battipiedi!
+<var> nemico usa Battipiedi!
+<var> di <var> usa Battipiedi!
+<var> usa Ossotetro!
+<var> selvatico usa Ossotetro!
+<var> nemico usa Ossotetro!
+<var> di <var> usa Ossotetro!
+<var> usa Rocciarapida!
+<var> selvatico usa Rocciarapida!
+<var> nemico usa Rocciarapida!
+<var> di <var> usa Rocciarapida!
+<var> usa Idrobreccia!
+<var> selvatico usa Idrobreccia!
+<var> nemico usa Idrobreccia!
+<var> di <var> usa Idrobreccia!
+<var> usa Prismalaser!
+<var> selvatico usa Prismalaser!
+<var> nemico usa Prismalaser!
+<var> di <var> usa Prismalaser!
+<var> usa Ombrafurto!
+<var> selvatico usa Ombrafurto!
+<var> nemico usa Ombrafurto!
+<var> di <var> usa Ombrafurto!
+<var> usa Astrocarica!
+<var> selvatico usa Astrocarica!
+<var> nemico usa Astrocarica!
+<var> di <var> usa Astrocarica!
+<var> usa Raggio d'Ombra!
+<var> selvatico usa Raggio d'Ombra!
+<var> nemico usa Raggio d'Ombra!
+<var> di <var> usa Raggio d'Ombra!
+<var> usa Occhionilucidi!
+<var> selvatico usa Occhionilucidi!
+<var> nemico usa Occhionilucidi!
+<var> di <var> usa Occhionilucidi!
+<var> usa Elettropizzico!
+<var> selvatico usa Elettropizzico!
+<var> nemico usa Elettropizzico!
+<var> di <var> usa Elettropizzico!
+<var> usa Ira della Natura!
+<var> selvatico usa Ira della Natura!
+<var> nemico usa Ira della Natura!
+<var> di <var> usa Ira della Natura!
+<var> usa Multiattacco!
+<var> selvatico usa Multiattacco!
+<var> nemico usa Multiattacco!
+<var> di <var> usa Multiattacco!
+
+
+
+
+<var> usa Sbalorditesta!
+<var> selvatico usa Sbalorditesta!
+<var> nemico usa Sbalorditesta!
+<var> di <var> usa Sbalorditesta!
+<var> usa Pugni Plasma!
+<var> selvatico usa Pugni Plasma!
+<var> nemico usa Pugni Plasma!
+<var> di <var> usa Pugni Plasma!
+<var> usa Geyser Fotonico!
+<var> selvatico usa Geyser Fotonico!
+<var> nemico usa Geyser Fotonico!
+<var> di <var> usa Geyser Fotonico!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<var> usa Sprintaboom!
+<var> selvatico usa Sprintaboom!
+<var> nemico usa Sprintaboom!
+<var> di <var> usa Sprintaboom!
+<var> usa Surfasplash!
+<var> selvatico usa Surfasplash!
+<var> nemico usa Surfasplash!
+<var> di <var> usa Surfasplash!
+<var> usa Piombaflap!
+<var> selvatico usa Piombaflap!
+<var> nemico usa Piombaflap!
+<var> di <var> usa Piombaflap!
+<var> usa Pikasaetta!
+<var> selvatico usa Pikasaetta!
+<var> nemico usa Pikasaetta!
+<var> di <var> usa Pikasaetta!
+<var> usa Bollaslurp!
+<var> selvatico usa Bollaslurp!
+<var> nemico usa Bollaslurp!
+<var> di <var> usa Bollaslurp!
+<var> usa Elettrozap!
+<var> selvatico usa Elettrozap!
+<var> nemico usa Elettrozap!
+<var> di <var> usa Elettrozap!
+<var> usa Fiammabam!
+<var> selvatico usa Fiammabam!
+<var> nemico usa Fiammabam!
+<var> di <var> usa Fiammabam!
+<var> usa Auraswoosh!
+<var> selvatico usa Auraswoosh!
+<var> nemico usa Auraswoosh!
+<var> di <var> usa Auraswoosh!
+<var> usa Zona Buiabuia!
+<var> selvatico usa Zona Buiabuia!
+<var> nemico usa Zona Buiabuia!
+<var> di <var> usa Zona Buiabuia!
+<var> usa Bombafrush!
+<var> selvatico usa Bombafrush!
+<var> nemico usa Bombafrush!
+<var> di <var> usa Bombafrush!
+<var> usa Scricchiagelo!
+<var> selvatico usa Scricchiagelo!
+<var> nemico usa Scricchiagelo!
+<var> di <var> usa Scricchiagelo!
+<var> usa Sbrilluccibufera!
+<var> selvatico usa Sbrilluccibufera!
+<var> nemico usa Sbrilluccibufera!
+<var> di <var> usa Sbrilluccibufera!
+<var> usa Eeveempatto!
+<var> selvatico usa Eeveempatto!
+<var> nemico usa Eeveempatto!
+<var> di <var> usa Eeveempatto!
+<var> usa Pugni Corazzati!
+<var> selvatico usa Pugni Corazzati!
+<var> nemico usa Pugni Corazzati!
+<var> di <var> usa Pugni Corazzati!
+<var> usa Dynabarriera!
+<var> selvatico usa Dynabarriera!
+<var> nemico usa Dynabarriera!
+<var> di <var> usa Dynabarriera!
+<var> usa Cannone Dynamax!
+<var> selvatico usa Cannone Dynamax!
+<var> nemico usa Cannone Dynamax!
+<var> di <var> usa Cannone Dynamax!
+<var> usa Tiromirato!
+<var> selvatico usa Tiromirato!
+<var> nemico usa Tiromirato!
+<var> di <var> usa Tiromirato!
+<var> usa Morsostretto!
+<var> selvatico usa Morsostretto!
+<var> nemico usa Morsostretto!
+<var> di <var> usa Morsostretto!
+<var> usa Riempiguance!
+<var> selvatico usa Riempiguance!
+<var> nemico usa Riempiguance!
+<var> di <var> usa Riempiguance!
+<var> usa Spalle al Muro!
+<var> selvatico usa Spalle al Muro!
+<var> nemico usa Spalle al Muro!
+<var> di <var> usa Spalle al Muro!
+<var> usa Colpocatrame!
+<var> selvatico usa Colpocatrame!
+<var> nemico usa Colpocatrame!
+<var> di <var> usa Colpocatrame!
+<var> usa Magipolvere!
+<var> selvatico usa Magipolvere!
+<var> nemico usa Magipolvere!
+<var> di <var> usa Magipolvere!
+<var> usa Dragofrecce!
+<var> selvatico usa Dragofrecce!
+<var> nemico usa Dragofrecce!
+<var> di <var> usa Dragofrecce!
+<var> usa Ora del Tè!
+<var> selvatico usa Ora del Tè!
+<var> nemico usa Ora del Tè!
+<var> di <var> usa Ora del Tè!
+<var> usa Tentacolock!
+<var> selvatico usa Tentacolock!
+<var> nemico usa Tentacolock!
+<var> di <var> usa Tentacolock!
+<var> usa Beccoshock!
+<var> selvatico usa Beccoshock!
+<var> nemico usa Beccoshock!
+<var> di <var> usa Beccoshock!
+<var> usa Branchiomorso!
+<var> selvatico usa Branchiomorso!
+<var> nemico usa Branchiomorso!
+<var> di <var> usa Branchiomorso!
+<var> usa Cambiocampo!
+<var> selvatico usa Cambiocampo!
+<var> nemico usa Cambiocampo!
+<var> di <var> usa Cambiocampo!
+<var> usa Dynafiammata!
+<var> selvatico usa Dynafiammata!
+<var> nemico usa Dynafiammata!
+<var> di <var> usa Dynafiammata!
+<var> usa Dynainsetto!
+<var> selvatico usa Dynainsetto!
+<var> nemico usa Dynainsetto!
+<var> di <var> usa Dynainsetto!
+<var> usa Dynasaetta!
+<var> selvatico usa Dynasaetta!
+<var> nemico usa Dynasaetta!
+<var> di <var> usa Dynasaetta!
+<var> usa Dynattacco!
+<var> selvatico usa Dynattacco!
+<var> nemico usa Dynattacco!
+<var> di <var> usa Dynattacco!
+<var> usa Dynapugno!
+<var> selvatico usa Dynapugno!
+<var> nemico usa Dynapugno!
+<var> di <var> usa Dynapugno!
+<var> usa Dynavuoto!
+<var> selvatico usa Dynavuoto!
+<var> nemico usa Dynavuoto!
+<var> di <var> usa Dynavuoto!
+<var> usa Dynagelo!
+<var> selvatico usa Dynagelo!
+<var> nemico usa Dynagelo!
+<var> di <var> usa Dynagelo!
+<var> usa Dynacorrosione!
+<var> selvatico usa Dynacorrosione!
+<var> nemico usa Dynacorrosione!
+<var> di <var> usa Dynacorrosione!
+<var> usa Dynaflusso!
+<var> selvatico usa Dynaflusso!
+<var> nemico usa Dynaflusso!
+<var> di <var> usa Dynaflusso!
+<var> usa Dynajet!
+<var> selvatico usa Dynajet!
+<var> nemico usa Dynajet!
+<var> di <var> usa Dynajet!
+<var> usa Dynafata!
+<var> selvatico usa Dynafata!
+<var> nemico usa Dynafata!
+<var> di <var> usa Dynafata!
+<var> usa Dynadragone!
+<var> selvatico usa Dynadragone!
+<var> nemico usa Dynadragone!
+<var> di <var> usa Dynadragone!
+<var> usa Dynapsiche!
+<var> selvatico usa Dynapsiche!
+<var> nemico usa Dynapsiche!
+<var> di <var> usa Dynapsiche!
+<var> usa Dynamacigno!
+<var> selvatico usa Dynamacigno!
+<var> nemico usa Dynamacigno!
+<var> di <var> usa Dynamacigno!
+<var> usa Dynasisma!
+<var> selvatico usa Dynasisma!
+<var> nemico usa Dynasisma!
+<var> di <var> usa Dynasisma!
+<var> usa Dynatenebre!
+<var> selvatico usa Dynatenebre!
+<var> nemico usa Dynatenebre!
+<var> di <var> usa Dynatenebre!
+<var> usa Dynaflora!
+<var> selvatico usa Dynaflora!
+<var> nemico usa Dynaflora!
+<var> di <var> usa Dynaflora!
+<var> usa Dynametallo!
+<var> selvatico usa Dynametallo!
+<var> nemico usa Dynametallo!
+<var> di <var> usa Dynametallo!
+<var> usa Dracofonia!
+<var> selvatico usa Dracofonia!
+<var> nemico usa Dracofonia!
+<var> di <var> usa Dracofonia!
+<var> usa Schiacciacorpo!
+<var> selvatico usa Schiacciacorpo!
+<var> nemico usa Schiacciacorpo!
+<var> di <var> usa Schiacciacorpo!
+<var> usa Decorazione!
+<var> selvatico usa Decorazione!
+<var> nemico usa Decorazione!
+<var> di <var> usa Decorazione!
+<var> usa Tamburattacco!
+<var> selvatico usa Tamburattacco!
+<var> nemico usa Tamburattacco!
+<var> di <var> usa Tamburattacco!
+<var> usa Tagliola!
+<var> selvatico usa Tagliola!
+<var> nemico usa Tagliola!
+<var> di <var> usa Tagliola!
+<var> usa Palla Infuocata!
+<var> selvatico usa Palla Infuocata!
+<var> nemico usa Palla Infuocata!
+<var> di <var> usa Palla Infuocata!
+<var> usa Taglio Maestoso!
+<var> selvatico usa Taglio Maestoso!
+<var> nemico usa Taglio Maestoso!
+<var> di <var> usa Taglio Maestoso!
+<var> usa Colpo Maestoso!
+<var> selvatico usa Colpo Maestoso!
+<var> nemico usa Colpo Maestoso!
+<var> di <var> usa Colpo Maestoso!
+<var> usa Ruota d'Aura!
+<var> selvatico usa Ruota d'Aura!
+<var> nemico usa Ruota d'Aura!
+<var> di <var> usa Ruota d'Aura!
+<var> usa Vastoimpatto!
+<var> selvatico usa Vastoimpatto!
+<var> nemico usa Vastoimpatto!
+<var> di <var> usa Vastoimpatto!
+<var> usa Ramostoccata!
+<var> selvatico usa Ramostoccata!
+<var> nemico usa Ramostoccata!
+<var> di <var> usa Ramostoccata!
+<var> usa Overdrive!
+<var> selvatico usa Overdrive!
+<var> nemico usa Overdrive!
+<var> di <var> usa Overdrive!
+<var> usa Acido Malico!
+<var> selvatico usa Acido Malico!
+<var> nemico usa Acido Malico!
+<var> di <var> usa Acido Malico!
+<var> usa Forza G!
+<var> selvatico usa Forza G!
+<var> nemico usa Forza G!
+<var> di <var> usa Forza G!
+<var> usa Frantumanima!
+<var> selvatico usa Frantumanima!
+<var> nemico usa Frantumanima!
+<var> di <var> usa Frantumanima!
+<var> usa Vapore Incantato!
+<var> selvatico usa Vapore Incantato!
+<var> nemico usa Vapore Incantato!
+<var> di <var> usa Vapore Incantato!
+<var> usa Goccia Vitale!
+<var> selvatico usa Goccia Vitale!
+<var> nemico usa Goccia Vitale!
+<var> di <var> usa Goccia Vitale!
+<var> usa Sbarramento!
+<var> selvatico usa Sbarramento!
+<var> nemico usa Sbarramento!
+<var> di <var> usa Sbarramento!
+<var> usa Supplicolpo!
+<var> selvatico usa Supplicolpo!
+<var> nemico usa Supplicolpo!
+<var> di <var> usa Supplicolpo!
+<var> usa Sfolgorassalto!
+<var> selvatico usa Sfolgorassalto!
+<var> nemico usa Sfolgorassalto!
+<var> di <var> usa Sfolgorassalto!
+<var> usa Raggio Infinito!
+<var> selvatico usa Raggio Infinito!
+<var> nemico usa Raggio Infinito!
+<var> di <var> usa Raggio Infinito!
+<var> usa Raggio d'Acciaio!
+<var> selvatico usa Raggio d'Acciaio!
+<var> nemico usa Raggio d'Acciaio!
+<var> di <var> usa Raggio d'Acciaio!
+<var> usa Vastenergia!
+<var> selvatico usa Vastenergia!
+<var> nemico usa Vastenergia!
+<var> di <var> usa Vastenergia!
+<var> usa Ferrorullo!
+<var> selvatico usa Ferrorullo!
+<var> nemico usa Ferrorullo!
+<var> di <var> usa Ferrorullo!
+<var> usa Squamacolpo!
+<var> selvatico usa Squamacolpo!
+<var> nemico usa Squamacolpo!
+<var> di <var> usa Squamacolpo!
+<var> usa Raggiometeora!
+<var> selvatico usa Raggiometeora!
+<var> nemico usa Raggiometeora!
+<var> di <var> usa Raggiometeora!
+<var> usa Armaguscio!
+<var> selvatico usa Armaguscio!
+<var> nemico usa Armaguscio!
+<var> di <var> usa Armaguscio!
+<var> usa Nebbioscoppio!
+<var> selvatico usa Nebbioscoppio!
+<var> nemico usa Nebbioscoppio!
+<var> di <var> usa Nebbioscoppio!
+<var> usa Erboscivolata!
+<var> selvatico usa Erboscivolata!
+<var> nemico usa Erboscivolata!
+<var> di <var> usa Erboscivolata!
+<var> usa Elettroimpennata!
+<var> selvatico usa Elettroimpennata!
+<var> nemico usa Elettroimpennata!
+<var> di <var> usa Elettroimpennata!
+<var> usa Campopulsar!
+<var> selvatico usa Campopulsar!
+<var> nemico usa Campopulsar!
+<var> di <var> usa Campopulsar!
+<var> usa Strisciacolpo!
+<var> selvatico usa Strisciacolpo!
+<var> nemico usa Strisciacolpo!
+<var> di <var> usa Strisciacolpo!
+<var> usa Fiamminvidia!
+<var> selvatico usa Fiamminvidia!
+<var> nemico usa Fiamminvidia!
+<var> di <var> usa Fiamminvidia!
+<var> usa Sfogarabbia!
+<var> selvatico usa Sfogarabbia!
+<var> nemico usa Sfogarabbia!
+<var> di <var> usa Sfogarabbia!
+<var> usa Poltergeist!
+<var> selvatico usa Poltergeist!
+<var> nemico usa Poltergeist!
+<var> di <var> usa Poltergeist!
+<var> usa Gas Corrosivo!
+<var> selvatico usa Gas Corrosivo!
+<var> nemico usa Gas Corrosivo!
+<var> di <var> usa Gas Corrosivo!
+<var> usa Coaching!
+<var> selvatico usa Coaching!
+<var> nemico usa Coaching!
+<var> di <var> usa Coaching!
+<var> usa Virata!
+<var> selvatico usa Virata!
+<var> nemico usa Virata!
+<var> di <var> usa Virata!
+<var> usa Triplo Axel!
+<var> selvatico usa Triplo Axel!
+<var> nemico usa Triplo Axel!
+<var> di <var> usa Triplo Axel!
+<var> usa Doppia Ala!
+<var> selvatico usa Doppia Ala!
+<var> nemico usa Doppia Ala!
+<var> di <var> usa Doppia Ala!
+<var> usa Sabbiardente!
+<var> selvatico usa Sabbiardente!
+<var> nemico usa Sabbiardente!
+<var> di <var> usa Sabbiardente!
+<var> usa Giunglacura!
+<var> selvatico usa Giunglacura!
+<var> nemico usa Giunglacura!
+<var> di <var> usa Giunglacura!
+<var> usa Pugnotenebra!
+<var> selvatico usa Pugnotenebra!
+<var> nemico usa Pugnotenebra!
+<var> di <var> usa Pugnotenebra!
+<var> usa Idroraffica!
+<var> selvatico usa Idroraffica!
+<var> nemico usa Idroraffica!
+<var> di <var> usa Idroraffica!
+<var> usa Elettrogabbia!
+<var> selvatico usa Elettrogabbia!
+<var> nemico usa Elettrogabbia!
+<var> di <var> usa Elettrogabbia!
+<var> usa Dragoenergia!
+<var> selvatico usa Dragoenergia!
+<var> nemico usa Dragoenergia!
+<var> di <var> usa Dragoenergia!
+<var> usa Sguardo Gelido!
+<var> selvatico usa Sguardo Gelido!
+<var> nemico usa Sguardo Gelido!
+<var> di <var> usa Sguardo Gelido!
+<var> usa Furia Ardente!
+<var> selvatico usa Furia Ardente!
+<var> nemico usa Furia Ardente!
+<var> di <var> usa Furia Ardente!
+<var> usa Calcio Tonante!
+<var> selvatico usa Calcio Tonante!
+<var> nemico usa Calcio Tonante!
+<var> di <var> usa Calcio Tonante!
+<var> usa Lancia Glaciale!
+<var> selvatico usa Lancia Glaciale!
+<var> nemico usa Lancia Glaciale!
+<var> di <var> usa Lancia Glaciale!
+<var> usa Schegge Astrali!
+<var> selvatico usa Schegge Astrali!
+<var> nemico usa Schegge Astrali!
+<var> di <var> usa Schegge Astrali!
+<var> usa Inquietantesimo!
+<var> selvatico usa Inquietantesimo!
+<var> nemico usa Inquietantesimo!
+<var> di <var> usa Inquietantesimo!

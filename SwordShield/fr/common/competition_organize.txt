@@ -1,0 +1,71 @@
+Veuillez choisir les détails du tournoi.
+ Sélectionner
+ Retour
+Choisissez la date du tournoi.
+Choisissez l'heure de début du tournoi.
+Choisissez l'heure de fin du tournoi.
+Choisissez le nombre de combats possibles.
+Choisissez le temps imparti.
+Oui
+Non
+Tous les joueurs
+Seuls les possesseurs de mon identifiant
+Oui
+Non
+Retour
+Voulez-vous télécharger les règles de combat supplémentaires ?
+Veuillez choisir qui peut participer au tournoi.
+Voulez-vous ajouter un sous-titre au nom du tournoi ?
+Organisation du tournoi
+Nom du tournoi
+<var>
+<var>
+Règles
+Combat Solo
+Combat Duo
+Règles normales
+Règles de la Tour de Combat
+Sans restrictions
+
+<var>
+Durée du tournoi
+Du <var>/<var>/<var> à <var>:<var>
+au
+<var>/<var>/<var> à <var>:<var>
+Participants possibles
+Tous les joueurs
+Seuls les possesseurs de mon identifiant
+Organiser
+Attention !
+Vous ne pouvez pas annuler le tournoi.
+Nombre de combats
+<var> maximum
+Temps imparti
+Temps individuel : <var> minutes
+Temps total : <var> minutes
+À déterminer
+<var>/<var>/<var>
+<var>/<var>/<var> à <var>:00
+<var>/<var>/<var> à <var>:59
+Durée du tournoi
+Le <var>/<var>/<var> de --:-- à --:--
+Le <var>/<var>/<var> de <var>:<var> à --:--
+Le <var>/<var>/<var> de <var>:<var> à <var>:<var>
+<var> maximum
+Temps individuel : <var> minutes / Temps total : <var> minutes
+Temps individuel : <var> minutes / Temps total : sans limite
+Temps individuel : sans limite / Temps total : <var> minutes
+Envoi des règles en cours... Ne pas débrancher le câble réseau.
+Les règles ont été envoyées.
+L'envoi des règles a échoué.
+Envoyer les règles
+Commencer l'envoi
+Envoyez les règles à plusieurs personnes en même temps via communication sans fil locale.
+Envoyez les règles à quelqu'un via réseau local.
+ Annuler l'envoi
+Envoi des règles en cours... Pour annuler, appuyez sur le bouton B.
+L'envoi a été interrompu.
+En attente de la connexion...
+Connectez-vous à l'autre joueur avec le câble réseau.
+Commencer l'envoi
+Appuyez sur le bouton pour commencer l'envoi.

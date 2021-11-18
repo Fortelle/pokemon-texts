@@ -1,0 +1,16 @@
+Das ist ein Automat für gehaltvolle Getränke. Was möchtest du kaufen?
+KP-Plus
+Protein
+Eisen
+Kalzium
+Zink
+Carbon
+Wie viele <var> möchtest du kaufen?
+<var> <var> ₽
+Abbrechen
+Du hast kein Getränk gekauft.
+Noch mehr kannst du davon nicht tragen!
+Du hast nicht genug Geld!
+Du hast <var> <var> erhalten!
+Noch mal das Gleiche kaufen
+Etwas anderes kaufen

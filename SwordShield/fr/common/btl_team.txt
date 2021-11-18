@@ -1,0 +1,45 @@
+Que voulez-vous faire avec <var> ?
+Emprunt <var>
+Équipe
+<var>
+N. <var>
+♂
+♀
+Veuillez sélectionner une Équipe Combat.
+Veuillez sélectionner une Équipe Combat du type choisi.
+ Confirmer
+ Retour
+
+ Enregistrer une équipe
+Vous avez choisi « <var> ». Voulez-vous confirmer ?
+Toute Équipe Combat inscrite à une compétition est verrouillée jusqu'à la fin de celle-ci. Il est impossible de déplacer les Pokémon d'une équipe verrouillée, de les échanger, ou de changer leurs objets tenus. Voulez-vous vraiment inscrire « <var> » à cette compétition ?
+Oui
+Non
+Il y a un problème avec au moins un Pokémon de cette Équipe Combat.
+Au moins un de vos Pokémon connaît une capacité interdite.
+Vous n'avez pas assez de Pokémon pour participer.
+Les Œufs ne peuvent pas participer.
+Vous avez trop de Pokémon pour participer.
+Il vous manque un ou plusieurs Pokémon nécessaires pour participer.
+Au moins un de vos Pokémon connaît une capacité interdite.
+Au moins un de vos Pokémon ne peut pas participer.
+Au moins un de vos Pokémon tient un objet interdit.
+Le niveau d'un ou plusieurs de vos Pokémon n'est pas conforme aux règles.
+Vous avez inclus au moins deux Pokémon de la même espèce.
+Il y a au moins deux Pokémon tenant le même objet.
+Vous avez sélectionné trop de Pokémon spéciaux.
+Vous ne remplissez pas les conditions pour participer au combat.
+Aucun problème n'a été détecté pour cette Équipe Combat.
+Vous pouvez emprunter une équipe.
+Communication en cours... Veuillez patienter.
+Vous ne pouvez pas utiliser d'Équipe d'emprunt.
+Au moins un Pokémon n'a pas l'icône de conformité.
+Vérifier
+Vous n'avez pas d'Équipe Combat. Veuillez en créer une.
+Vous n'avez pas d'Équipe Combat. Rendez-vous dans vos Boîtes pour en enregistrer une.
+Boîtes PC
+Cette Équipe Combat est verrouillée, car elle participe à une compétition live. Vous ne pouvez donc pas l'utiliser.
+Cette Équipe Combat est verrouillée, car elle participe à une compétition officielle. Vous ne pouvez donc pas l'utiliser.
+Cette Équipe Combat est verrouillée, car elle participe à un tournoi amical. Vous ne pouvez donc pas l'utiliser.
+Souhaitez-vous enregistrer l'équipe « <var> » ?
+Vide

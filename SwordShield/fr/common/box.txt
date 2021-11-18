@@ -1,0 +1,583 @@
+Équipe
+<var>
+<var> N. <var>
+<var>
+Boîte PC
+Aperçu
+Recherche
+<var>
+♂
+♀
+N. <var>
+<var>
+Nº <var>
+<var>
+-
+???
+<var>
+PV
+<var>/<var>
+<var>
+<var>
+Attaque
+Défense
+Atq. Spé.
+Déf. Spé.
+Vitesse
+<var>
+Talent
+<var>
+Objet
+<var>
+-
+<var>
+Niveau Dynamax
+Pokémon
+Objets
+Équipe Combat
+Normal
+Multi-sélection
+ Sélection facile
+<var>
+Infos sur la Boîte PC
+<var>
+<var> est sélectionné.
+Déplacer
+Résumé du Pokémon
+Objet
+ Marquer
+Relâcher
+Retour
+Cette sélection vous convient-elle ?
+Veuillez effectuer le marquage.
+Voulez-vous relâcher ce Pokémon ?
+Oui
+Non
+Vous avez relâché <var>. Adieu, <var> !
+Un Œuf ne peut pas être relâché !
+Vous ne pouvez pas relâcher <var> s'il a été fusionné.
+Vous ne pouvez pas relâcher <var> s'il a été uni à un autre Pokémon.
+Vous ne pouvez pas relâcher un Pokémon enregistré dans une Équipe Combat.
+Il vous faut au moins un Pokémon capable de se battre dans votre équipe !
+Vous ne pouvez pas relâcher un Pokémon qui tient un objet spécial.
+Boîte sélectionnée.
+Autres Boîtes
+Thèmes
+Nom
+Choisissez un thème.
+Thème 1
+Thème 2
+Thème 3
+Thème 4
+Thème 5
+Thème 6
+Thème 7
+Thème 8
+Thème 9
+Thème 10
+Thème 11
+Thème 12
+Thème 13
+Thème 14
+Thème 15
+Thème 16
+Thème 17
+Thème 18
+Thème 19
+Sélection : <var>
+Déplacer
+Ranger
+Vous avez rangé <var> dans votre Sac.
+Vous avez trop d'exemplaires de cet objet !
+Voulez-vous prendre <var> ?
+Ce Pokémon peut tenir un objet.
+Donner
+Un Œuf ne peut pas tenir d'objet !
+Ajouter à une Équipe Combat
+Déplacer
+Désélectionner
+Il est impossible de déplacer un Pokémon enregistré dans une Équipe Combat verrouillée.
+Votre Équipe Combat est verrouillée. Impossible de retirer ce Pokémon.
+Votre Équipe Combat est verrouillée. Impossible de changer les objets tenus.
+Votre Équipe Combat est verrouillée. Impossible de marquer les Pokémon.
+Votre Équipe Combat est verrouillée. Impossible d'ajouter ce Pokémon.
+Voulez-vous renommer votre équipe ?
+Impossible d'assigner un Œuf.
+Définissez vos critères et appuyez sur Chercher pour activer la recherche.
+Pokémon
+Type 1
+Type 2
+Capacité apprise
+CT compatible
+Talent
+Nature
+Sexe
+Objet
+Marque
+Équipe Combat
+<var>
+<var>
+<var>
+<var>
+<var>
+<var>
+♂
+♀
+?
+<var>
+Avec
+Sans
+<var>
+Choisissez la première lettre du nom du Pokémon recherché.
+Veuillez choisir un Pokémon.
+Choisissez le premier type du Pokémon recherché.
+Choisissez le second type du Pokémon recherché.
+Choisissez la première lettre du nom d'une capacité apprise par le Pokémon recherché.
+Choisissez une capacité.
+Sélectionnez une CT utilisable par le Pokémon recherché.
+Saisissez la première lettre du nom du talent possédé par le Pokémon recherché.
+Choisissez un talent.
+Choisissez la nature du Pokémon recherché.
+Choisissez le sexe du Pokémon recherché.
+Choisissez si le Pokémon recherché tient un objet ou non.
+Sélectionnez le marquage du Pokémon recherché.
+
+Permet d'examiner les Pokémon assignés à l'Équipe Combat sélectionnée.
+<var>
+<var>
+<var>
+<var>
+<var>
+Progresse de façon équilibrée.
+Progresse rapidement en Attaque, lentement en Défense.
+Progresse rapidement en Attaque, lentement en Vitesse.
+Progresse rapidement en Attaque, lentement en Attaque Spéciale.
+Progresse rapidement en Attaque, lentement en Défense Spéciale.
+Progresse rapidement en Défense, lentement en Attaque.
+Progresse de façon équilibrée.
+Progresse rapidement en Défense, lentement en Vitesse.
+Progresse rapidement en Défense, lentement en Attaque Spéciale.
+Progresse rapidement en Défense, lentement en Défense Spéciale.
+Progresse rapidement en Vitesse, lentement en Attaque.
+Progresse rapidement en Vitesse, lentement en Défense.
+Progresse de façon équilibrée.
+Progresse rapidement en Vitesse, lentement en Attaque Spéciale.
+Progresse rapidement en Vitesse, lentement en Défense Spéciale.
+Progresse rapidement en Attaque Spéciale, lentement en Attaque.
+Progresse rapidement en Attaque Spéciale, lentement en Défense.
+Progresse rapidement en Attaque Spéciale, lentement en Vitesse.
+Progresse de façon équilibrée.
+Progresse rapidement en Attaque Spéciale, lentement en Défense Spéciale.
+Progresse rapidement en Défense Spéciale, lentement en Attaque.
+Progresse rapidement en Défense Spéciale, lentement en Défense.
+Progresse rapidement en Défense Spéciale, lentement en Vitesse.
+Progresse rapidement en Défense Spéciale, lentement en Attaque Spéciale.
+Progresse de façon équilibrée.
+Partenaire
+<var>
+En attente d'une réponse... Veuillez patienter.
+L'échange a été interrompu.
+L'autre joueur a choisi d'annuler l'échange. L'échange a donc été interrompu.
+L'autre joueur a interrompu l'échange. Fin de l'échange.
+Voulez-vous arrêter d'échanger des Pokémon ?
+Un problème avec le Pokémon de l'autre joueur rend tout échange impossible.
+Un problème avec votre Pokémon rend tout échange impossible.
+Attention ! Si une erreur de communication survient ou que votre console s'éteint pendant un échange, vous ne pourrez plus échanger de Pokémon pendant quelque temps.
+Sauvegarde en cours... Ne pas éteindre la console.
+Communication en cours... Veuillez patienter.
+Voulez-vous recevoir la carte de Ligue de votre partenaire d'échange ?
+Voulez-vous échanger votre <var> contre <var> de votre partenaire ?
+Cet Œuf ne peut pas être échangé.
+Échanger
+Valider
+<var>/<var>
+<var>
+Ce Pokémon ne peut pas être échangé.
+Aucun de vos Pokémon ne peut être échangé.
+L'échange d'Œufs est impossible.
+Il est impossible d'échanger un Pokémon enregistré dans une Équipe Combat.
+Ce Pokémon tient un objet très spécial. Vous ne pouvez pas l'échanger !
+Voulez-vous ajouter <var> à votre liste noire ?
+Vous ne pourrez plus jouer en réseau avec les personnes ajoutées à la liste noire. Voulez-vous continuer malgré tout ? (Il sera possible de débloquer ces personnes.)
+Vous avez ajouté cette personne à votre liste noire. Fin de l'échange.
+Cette personne est déjà sur votre liste noire.
+L'ajout de cette personne à votre liste noire a échoué.
+ Sélectionner
+Résumé du Pokémon du partenaire
+
+Vous ne pouvez pas changer l'objet tenu par un Pokémon destiné à l'Échange Magique.
+Vous ne pouvez pas modifier les marques d'un Pokémon destiné à l'Échange Magique.
+Vous ne pouvez pas relâcher un Pokémon destiné à l'Échange Magique.
+Vous ne pouvez pas déplacer un Pokémon destiné à l'Échange Magique.
+Vous ne pouvez pas ajouter un Pokémon destiné à l'Échange Magique à une Équipe Combat.
+Vous ne pouvez pas sélectionner un Œuf.
+Vous ne pouvez pas sélectionner un Pokémon appartenant à une Équipe Combat.
+Vous ne pouvez pas sélectionner un Pokémon destiné à l'Échange Magique.
+Vous ne pouvez pas sélectionner un Pokémon de votre équipe.
+Votre sélection est trop grande.
+Vous ne pouvez pas sélectionner un Pokémon K.O.
+Ce Pokémon est trop exceptionnel pour être échangé par Échange Magique.
+Vous ne pouvez pas sélectionner ce Pokémon !
+Aucun Pokémon ne peut être sélectionné.
+
+ Retour
+ Changer les commandes
+ Changer le mode
+ Infos
+ Chercher
+ Réinitialiser
+ Ne pas afficher
+ Tout sélectionner
+ Juge
+Potentiel correct
+Potentiel supérieur à la moyenne
+Potentiel bien supérieur à la moyenne
+Potentiel exceptionnel !
+Pas top...
+Passable...
+Bon !
+Très bon !
+Fantastique !
+Exceptionnel !
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Au max !
+
+

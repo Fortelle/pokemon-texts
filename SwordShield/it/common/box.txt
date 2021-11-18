@@ -1,0 +1,583 @@
+Squadra
+<var>
+<var>   L. <var>
+<var>
+Box
+Lista
+Ricerca
+<var>
+♂
+♀
+L. <var>
+<var>
+Nº <var>
+<var>
+-
+???
+<var>
+PS
+<var>/<var>
+<var>
+<var>
+Attacco
+Difesa
+Att. Sp.
+Dif. Sp.
+Velocità
+<var>
+Abilità
+<var>
+Strumento
+<var>
+-
+<var>
+Livello Dynamax
+Pokémon
+Strumenti
+Squadre Lotta
+ Selez. normale
+ Selez. multipla
+ Selez. rapida
+<var>
+Info Box
+<var>
+Pokémon selezionato: <var>
+Sposta
+Info
+Strumento
+Segna
+Libera
+Indietro
+Puoi selezionare più Pokémon. Vuoi continuare lo stesso?
+Scegli uno o più simboli.
+Vuoi davvero liberarlo?
+Sì
+No
+Hai liberato <var>. Addio, <var>!
+Non puoi liberare un Uovo!
+Non puoi liberare <var> endofuso!
+Non puoi liberare <var> unito a un altro Pokémon!
+Non puoi liberare un Pokémon registrato in una Squadra Lotta.
+Devi avere almeno un Pokémon in forma con te.
+Questo Pokémon ha uno strumento speciale e non può essere liberato.
+Cosa vuoi fare?
+Cambia Box
+Sfondo
+Nome
+Scegli un tema.
+Sfondo 1
+Sfondo 2
+Sfondo 3
+Sfondo 4
+Sfondo 5
+Sfondo 6
+Sfondo 7
+Sfondo 8
+Sfondo 9
+Sfondo 10
+Sfondo 11
+Sfondo 12
+Sfondo 13
+Sfondo 14
+Sfondo 15
+Sfondo 16
+Sfondo 17
+Sfondo 18
+Sfondo 19
+Hai selezionato <var>!
+Sposta
+In Borsa
+Hai messo <var> in Borsa.
+Hai raggiunto il limite per questo strumento!
+Vuoi prendere <var>?
+Il Pokémon può avere uno strumento.
+Dai
+Non puoi dare uno strumento a un Uovo!
+Registra
+Sposta
+Rimuovi
+In questo momento la Squadra Lotta è bloccata. Non puoi spostare i Pokémon.
+In questo momento la Squadra Lotta è bloccata. Non puoi rimuovere i Pokémon.
+In questo momento la Squadra Lotta è bloccata. Non puoi cambiare gli strumenti.
+In questo momento la Squadra Lotta è bloccata. Non puoi aggiungere o rimuovere simboli.
+La Squadra Lotta è bloccata! Non puoi registrare altri Pokémon.
+Vuoi cambiare il nome della squadra?
+Non puoi registrare un Uovo!
+Imposta dei criteri e seleziona "Cerca" per visualizzare i risultati.
+Pokémon
+Tipo 1
+Tipo 2
+Mossa
+MT compatibile
+Abilità
+Natura
+Sesso
+Strumento
+Simboli
+Squadra Lotta
+<var>
+<var>
+<var>
+<var>
+<var>
+<var>
+♂
+♀
+Sconosciuto
+<var>
+Con strumento
+Senza strumento
+<var>
+Scegli la prima lettera del Pokémon da cercare.
+Scegli un Pokémon.
+Scegli il primo tipo.
+Scegli il secondo tipo.
+Scegli la prima lettera della mossa da cercare.
+Scegli una mossa.
+Scegli una MT per cercare i Pokémon che possono usare la mossa corrispondente.
+Scegli la prima lettera dell'abilità da cercare.
+Scegli un'abilità.
+Scegli la natura del Pokémon.
+Scegli il sesso del Pokémon.
+Cerca i Pokémon con o senza uno strumento.
+Cerca i Pokémon che hanno dei simboli.
+
+Cerca i Pokémon registrati nella squadra selezionata.
+<var>
+<var>
+<var>
+<var>
+<var>
+Il Pokémon cresce in modo equilibrato.
+L'Attacco tende a crescere di più. La Difesa tende a crescere di meno.
+L'Attacco tende a crescere di più. La Velocità tende a crescere di meno.
+L'Attacco tende a crescere di più. L'Attacco Speciale tende a crescere di meno.
+L'Attacco tende a crescere di più. La Difesa Speciale tende a crescere di meno.
+La Difesa tende a crescere di più. L'Attacco tende a crescere di meno.
+Il Pokémon cresce in modo equilibrato.
+La Difesa tende a crescere di più. La Velocità tende a crescere di meno.
+La Difesa tende a crescere di più. L'Attacco Speciale tende a crescere di meno.
+La Difesa tende a crescere di più. La Difesa Speciale tende a crescere di meno.
+La Velocità tende a crescere di più. L'Attacco tende a crescere di meno.
+La Velocità tende a crescere di più. La Difesa tende a crescere di meno.
+Il Pokémon cresce in modo equilibrato.
+La Velocità tende a crescere di più. L'Attacco Speciale tende a crescere di meno.
+La Velocità tende a crescere di più. La Difesa Speciale tende a crescere di meno.
+L'Attacco Speciale tende a crescere di più. L'Attacco tende a crescere di meno.
+L'Attacco Speciale tende a crescere di più. La Difesa tende a crescere di meno.
+L'Attacco Speciale tende a crescere di più. La Velocità tende a crescere di meno.
+Il Pokémon cresce in modo equilibrato.
+L'Attacco Speciale tende a crescere di più. La Difesa Speciale tende a crescere di meno.
+La Difesa Speciale tende a crescere di più. L'Attacco tende a crescere di meno.
+La Difesa Speciale tende a crescere di più. La Difesa tende a crescere di meno.
+La Difesa Speciale tende a crescere di più. La Velocità tende a crescere di meno.
+La Difesa Speciale tende a crescere di più. L'Attacco Speciale tende a crescere di meno.
+Il Pokémon cresce in modo equilibrato.
+Scambio con:
+<var>
+In attesa della risposta dell'altro giocatore...
+Lo scambio è stato annullato.
+L'altro giocatore ha scelto di terminare lo scambio. Lo scambio verrà annullato.
+L'altro giocatore ha annullato lo scambio.
+Vuoi uscire dagli scambi?
+C'è un problema con il Pokémon dell'altro giocatore. Non è possibile eseguire lo scambio.
+C'è un problema con il tuo Pokémon. Non è possibile eseguire lo scambio.
+Attenzione! Se durante uno scambio la console si spegne o si verifica un errore di comunicazione, per un po' non potrai fare scambi.
+Salvataggio in corso. Non spegnere la console.
+Comunicazione in corso. Attendi...
+Vuoi ricevere la Card Lega Pokémon dell'altro Allenatore?
+Vuoi scambiare il tuo <var> con <var> dell'altro Allenatore?
+Questo Uovo non può essere scambiato.
+Scambia
+Seleziona
+<var>/<var>
+<var>
+Questo Pokémon non può essere scambiato.
+Non hai Pokémon da scambiare.
+Non puoi scambiare un Uovo.
+Non puoi scambiare un Pokémon registrato nella Squadra Lotta.
+Questo Pokémon ha uno strumento speciale e non può essere scambiato.
+Vuoi aggiungere <var> alla lista degli utenti bloccati?
+Non potrai giocare tramite le funzioni di comunicazione con gli utenti bloccati. Vuoi davvero bloccare questo utente? (È possibile sbloccarlo in seguito)
+Hai aggiunto il giocatore alla lista degli utenti bloccati. Lo scambio avrà termine.
+Questa persona è già stata aggiunta alla lista degli utenti bloccati.
+Non è stato possibile aggiungere il giocatore alla lista degli utenti bloccati.
+ Ok
+Guarda le info dell'altro Pokémon
+
+Non puoi modificare lo strumento di un Pokémon selezionato per uno scambio magico.
+Non puoi aggiungere o rimuovere simboli a un Pokémon selezionato per uno scambio magico.
+Non puoi liberare un Pokémon selezionato per uno scambio magico.
+Non puoi spostare un Pokémon selezionato per uno scambio magico.
+Non puoi registrare in una Squadra Lotta un Pokémon selezionato per uno scambio magico.
+Non puoi scegliere un Uovo.
+Non puoi scegliere un Pokémon della Squadra Lotta.
+Non puoi scegliere un Pokémon selezionato per uno scambio magico.
+Non puoi scegliere un Pokémon della squadra.
+Non puoi selezionare altri Pokémon.
+Non puoi scegliere un Pokémon esausto.
+Questo Pokémon è troppo speciale per poter essere scambiato tramite scambio magico!
+Non puoi scegliere quel Pokémon.
+Non ci sono Pokémon selezionabili.
+
+ Esci
+ Cambia tipo di selezione
+ Cambia visualizzazione
+ Info
+ Cerca
+ Azzera
+Nascondi
+ Selezione automatica
+ Valutazione
+Potenziale discreto
+Potenziale sopra la media
+Potenziale ottimo
+Potenziale eccellente!
+Mediocre
+Sufficiente
+Normale
+Notevole
+Eccellente
+Stellare
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Al top
+
+
