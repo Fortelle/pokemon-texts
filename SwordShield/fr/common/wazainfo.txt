@@ -292,7 +292,7 @@ Cette capacité ne peut pas être utilisée. Il est recommandé de l'oublier, m�
 Le lanceur plonge sous l'eau au premier tour et frappe au second.
 Un déluge de coups adressés avec la paume qui frappe de deux à cinq fois d'affilée.
 Cette capacité ne peut pas être utilisée. Il est recommandé de l'oublier, même s'il sera impossible de se la remémorer une fois oubliée.
-Le lanceur regarde un flash lumineux fixement. Augmente énormément son Attaque Spéciale.
+Cette capacité ne peut pas être utilisée. Il est recommandé de l'oublier, même s'il sera impossible de se la remémorer une fois oubliée.
 Le lanceur libère un éclair lumineux. Peut aussi baisser la Défense Spéciale de l'ennemi.
 Une bulle de brume inflige des dégâts à l'ennemi. Peut aussi réduire son Attaque Spéciale.
 Une montagne de plumes ensevelit l'ennemi et réduit beaucoup son Attaque.
@@ -352,7 +352,7 @@ Le lanceur projette un rocher sur l'ennemi de deux à cinq fois d'affilée.
 Le lanceur envoie un choc électrique rapide à l'ennemi. Impossible à esquiver.
 Le lanceur envoie un puissant jet d'eau sur l'ennemi. Peut le rendre confus.
 Le lanceur génère une sphère lumineuse qu'il projette sur l'ennemi deux tours plus tard.
-Attaque l'ennemi à pleine puissance. Le contrecoup baisse beaucoup l'Attaque Spéciale du lanceur.
+Cette capacité ne peut pas être utilisée. Il est recommandé de l'oublier, même s'il sera impossible de se la remémorer une fois oubliée.
 Le lanceur atterrit et se repose. Restaure jusqu'à la moitié de ses PV max.
 Pendant cinq tours, les Pokémon Vol ou qui ont Lévitation deviennent sensibles aux capacités Sol, et les capacités volantes deviennent inutilisables.
 Cette capacité ne peut pas être utilisée. Il est recommandé de l'oublier, même s'il sera impossible de se la remémorer une fois oubliée.
@@ -389,7 +389,7 @@ Cette capacité ne peut être utilisée qu'après que le lanceur a utilisé tout
 Plante sur la cible une graine qui la rend soucieuse et remplace son talent par Insomnia, l'empêchant ainsi de dormir.
 Permet au lanceur de frapper en priorité. Échoue si l'ennemi ne prépare pas une attaque.
 Lance des pics autour de l'ennemi. Ils empoisonnent les ennemis qui entrent au combat.
-Le lanceur utilise un pouvoir psychique pour échanger ses changements de stats avec la cible.
+Cette capacité ne peut pas être utilisée. Il est recommandé de l'oublier, même s'il sera impossible de se la remémorer une fois oubliée.
 Un voile d'eau recouvre le lanceur et régénère ses PV à chaque tour.
 Le lanceur utilise l'électricité pour générer un champ magnétique et léviter durant cinq tours.
 Le lanceur s'embrase avant de charger l'ennemi. Le choc blesse aussi gravement le lanceur. Peut brûler l'ennemi.
@@ -817,3 +817,11 @@ Le lanceur projette du sable chauffé à blanc sur l'ennemi. Peut aussi brûler 
 Le lanceur fait appel au pouvoir de la jungle pour restaurer les PV et soigner les altérations d'état de ses alliés et de lui-même.
 Le lanceur assène un coup puissant à l'ennemi. Cette technique qui inflige toujours un coup critique est réservée à ceux qui maîtrisent la puissance des Ténèbres.
 Le lanceur assène trois coups fluides à l'ennemi. Cette technique qui inflige toujours un coup critique est réservée à ceux qui maîtrisent la puissance de l'Eau.
+Le lanceur frappe l'ennemi, et le piège dans une prison électrique qui dure de quatre à cinq tours.
+Le lanceur utilise son énergie vitale pour attaquer l'ennemi. Moins il a de PV, moins l'attaque est puissante.
+Les yeux du lanceur tirent des rayons psychiques. Peut aussi geler l'ennemi.
+Le lanceur canalise sa colère et la transforme en aura brûlante, avec laquelle il attaque l'ennemi. Peut aussi l'apeurer.
+Le lanceur assène un coup de pied à la cible à la vitesse de l'éclair. Baisse aussi la Défense de la cible.
+Le lanceur attaque l'ennemi avec une lance de glace entourée d'un blizzard.
+Le lanceur attaque l'ennemi avec une multitude de petits spectres.
+Le lanceur attaque avec de puissants pouvoirs psychiques et retire 3 PP de la dernière capacité de l'ennemi.

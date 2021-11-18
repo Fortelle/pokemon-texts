@@ -292,7 +292,7 @@ Diese Attacke kann nicht eingesetzt werden. Du solltest dein Pokémon sie verges
 Anwender taucht in Runde 1 ab und greift in Runde 2 aus der Tiefe an.
 Schläge mit geradem Arm, die das Ziel zwei- bis fünfmal treffen.
 Diese Attacke kann nicht eingesetzt werden. Du solltest dein Pokémon sie vergessen lassen. Beachte aber, dass es sich danach nicht wieder an sie erinnern kann.
-Ein blinkendes Licht, das den Spezial-Angriff drastisch erhöht.
+Diese Attacke kann nicht eingesetzt werden. Du solltest dein Pokémon sie vergessen lassen. Beachte aber, dass es sich danach nicht wieder an sie erinnern kann.
 Angriff mit einem grellem Licht, der die Spezial-Verteidigung des Zieles eventuell senkt.
 Angriff mit einer Nebelwolke aus Daunen. Senkt eventuell den Spezial-Angriff des Zieles.
 Hüllt das Ziel in Daunen und senkt dessen Angriffs-Wert stark.
@@ -352,7 +352,7 @@ Wirft zwei- bis fünfmal in Folge Felsblöcke auf das Ziel.
 Angriff mit schnellem Elektro-Schlag. Ausweichen nicht möglich.
 Angriff mit Wasserwelle, die das Ziel eventuell verwirren kann.
 Angriff mit gebündeltem Licht erfolgt zwei Runden nach Attackeneinsatz.
-Angriff mit voller Kraft, der den Spezial-Angriff des Anwenders durch den Rückstoß stark senkt.
+Diese Attacke kann nicht eingesetzt werden. Du solltest dein Pokémon sie vergessen lassen. Beachte aber, dass es sich danach nicht wieder an sie erinnern kann.
 Anwender landet und ruht sich aus. KP des Anwenders werden um 50 % der maximalen KP aufgefüllt.
 Ermöglicht es, Flug-Pokémon oder Pokémon mit der Fähigkeit Schwebe mit Boden-Attacken zu treffen. Verhindert Attacken, bei denen der Anwender fliegt.
 Diese Attacke kann nicht eingesetzt werden. Du solltest dein Pokémon sie vergessen lassen. Beachte aber, dass es sich danach nicht wieder an sie erinnern kann.
@@ -389,7 +389,7 @@ Diese Attacke kann nur eingesetzt werden, nachdem alle verfügbaren Attacken aus
 Ziel wird bepflanzt. Seine Fähigkeit wandelt sich zu Insomnia und hindert es daran, einzuschlafen.
 Erstschlag-Attacke, die aber nur gelingt, wenn das Ziel gerade eine Attacke vorbereitet, die KP-Schaden zufügen würde.
 Anwender legt eine Falle mit Giftdornen aus. In den Kampf eingewechselte gegnerische Pokémon werden vergiftet.
-Anwender setzt Psycho-Kräfte ein, um Statusveränderungen des Zieles mit den eigenen zu tauschen.
+Diese Attacke kann nicht eingesetzt werden. Du solltest dein Pokémon sie vergessen lassen. Beachte aber, dass es sich danach nicht wieder an sie erinnern kann.
 Anwender umgibt sich mit einem Schleier aus Wasser. Dabei regeneriert er einige KP pro Runde.
 Anwender schwebt für fünf Runden durch elektrisch erzeugten Magnetismus.
 Anwender hüllt sich in Flammen und stürmt auf das Ziel zu, das dadurch eventuell Verbrennungen erleidet. Anwender nimmt selbst großen Schaden.
@@ -817,3 +817,11 @@ Der Anwender greift das Ziel mit brennend heißem Sand an und fügt ihm eventuel
 Der Anwender wird eins mit dem Dschungel und heilt bei sich und seinen am Kampf beteiligten Mitstreitern KP und hebt jegliche Statusprobleme auf.
 Der Anwender hat den Stil des Unlichts gemeistert und führt einen fokussierten, harten Schlag mit Volltreffergarantie aus.
 Der Anwender hat den Stil des Wassers gemeistert und führt mit fließenden Bewegungen drei Angriffe in Folge mit Volltreffergarantie aus.
+Das Ziel wird für vier bis fünf Runden in einem elektrischen Käfig gefangen.
+Der Anwender wandelt seine Lebenskraft in Energie um und greift gegnerische Pokémon an. Je höher seine KP sind, desto mehr Schaden wird angerichtet.
+Der Anwender greift das Ziel mit Psycho-Kräften an, die er aus seinen Augen abschießt. Das Ziel friert eventuell ein.
+Der Anwender wandelt seinen Zorn in eine flammende Aura um und greift damit gegnerische Pokémon an. Diese schrecken eventuell zurück.
+Der Anwender bringt das Ziel mit blitzschnellen Bewegungen durcheinander und tritt dann zu. Senkt die Verteidigung des Zieles.
+Der Anwender wirft eine in einen Blizzard gehüllte Lanze aus Eis auf gegnerische Pokémon.
+Der Anwender greift gegnerische Pokémon mit vielen kleinen Spukgestalten an.
+Der Anwender greift mit gewaltigen Psycho-Kräften an. Die AP der letzten Attacke des Zieles werden um 3 Punkte gesenkt.

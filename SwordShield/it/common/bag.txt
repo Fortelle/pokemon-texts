@@ -130,6 +130,7 @@ I PP sono stati ricaricati.
 <var> sale al livello <var>!
 Non si può usare su un Pokémon esausto.
 Non puoi effettuare la separazione perché la tua squadra è al completo.
+Non puoi effettuare la separazione perché la tua squadra è al completo.
 Condividi Esperienza attivato!
 Condividi Esperienza disattivato!
 La mossa <var> impedisce di usare lo strumento su <var>!
@@ -141,11 +142,16 @@ PP
 Sali
 Scendi
 Non puoi sottoporre un Pokémon esausto all'Endofusione.
+Non puoi unirlo a un Pokémon esausto.
 Non puoi sottoporre questo Pokémon all'Endofusione.
+Non puoi unirlo a questo Pokémon.
 Non puoi sottoporre un Uovo all'Endofusione.
+Non puoi unirlo a un Uovo.
+Non puoi effettuare la separazione perché la tua squadra è al completo.
 Non puoi effettuare la separazione perché la tua squadra è al completo.
 <var> ha cambiato forma!
 Quale Pokémon vuoi sottoporre all'Endofusione?
+A quale Pokémon vuoi unirlo?
 Ha dimenticato <var>!
 <var> ha dimenticato <var>...
 Non si può usare su un Uovo.
@@ -176,6 +182,8 @@ Falciatrice
 Quale articolo vuoi ordinare?
 Nella dynatana delle Terre Selvagge è apparso <var>!
 È già apparso un Pokémon nella dynatana delle Terre Selvagge!
+Cambia forma
+Cambia abilità
 Vuoi combinare gli strumenti selezionati?
 È l'unico strumento di questo tipo che hai. Vuoi continuare lo stesso?
 A quale Pokémon vuoi insegnarla?

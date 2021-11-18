@@ -130,6 +130,7 @@ Se han restaurado los PP.
 ¡<var> ha subido al Nv. <var>!
 No se puede usar con un Pokémon debilitado.
 No se puede realizar la separación porque tu equipo está completo.
+No se puede realizar la separación porque tu equipo está completo.
 Has activado el objeto Repartir Experiencia.
 Has desactivado el objeto Repartir Experiencia.
 ¡El efecto de <var> impide que puedas usar el objeto con <var>!
@@ -141,11 +142,16 @@ PP
 Montar
 Bajar
 No se puede fusionar con un Pokémon debilitado.
+No se puede unir a un Pokémon debilitado.
 No se puede fusionar con este Pokémon.
+No se puede unir a este Pokémon.
 No se puede fusionar con un Huevo.
+No se puede unir a un Huevo.
+No se puede realizar la separación porque tu equipo está completo.
 No se puede realizar la separación porque tu equipo está completo.
 ¡<var> ha cambiado de forma!
 ¿Con qué Pokémon quieres fusionarlo?
+¿A qué Pokémon quieres unirlo?
 ¡Ha olvidado <var>!
 <var> ha olvidado <var>...
 No se puede usar con un Huevo.
@@ -176,6 +182,8 @@ Cortacésped
 ¿Qué aparato quieres pedir?
 ¡Se ha avistado un <var> en el nido Dinamax de la Atalaya!
 Ya ha aparecido un Pokémon en el nido Dinamax de la Atalaya.
+Cambiar forma
+Cambiar habilidad
 ¿Quieres combinar los objetos seleccionados?
 Solo tienes una unidad de este objeto. ¿Seguro que quieres continuar?
 ¿Qué Pokémon quieres que lo aprenda?

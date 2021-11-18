@@ -56,6 +56,7 @@ Non
 Vous avez relâché <var>. Adieu, <var> !
 Un Œuf ne peut pas être relâché !
 Vous ne pouvez pas relâcher <var> s'il a été fusionné.
+Vous ne pouvez pas relâcher <var> s'il a été uni à un autre Pokémon.
 Vous ne pouvez pas relâcher un Pokémon enregistré dans une Équipe Combat.
 Il vous faut au moins un Pokémon capable de se battre dans votre équipe !
 Vous ne pouvez pas relâcher un Pokémon qui tient un objet spécial.

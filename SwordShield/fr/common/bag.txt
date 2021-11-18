@@ -130,6 +130,7 @@ Les PP sont restaurés.
 <var> monte au N. <var> !
 Vous ne pouvez pas utiliser cet objet sur un Pokémon K.O.
 Vous ne pouvez pas les séparer car votre équipe est pleine.
+Vous ne pouvez pas les séparer car votre équipe est pleine.
 Le Multi Exp est activé.
 Le Multi Exp est désactivé.
 La capacité <var> empêche d'utiliser l'objet sur <var> !
@@ -140,12 +141,17 @@ PP
 
 Monter
 Descendre
-Vous ne pouvez pas fusiorber avec un Pokémon K.O.
-Vous ne pouvez pas fusiorber avec ce Pokémon.
-Vous ne pouvez pas fusiorber avec un Œuf.
+Vous ne pouvez pas fusionner avec un Pokémon K.O.
+Vous ne pouvez pas l'unir à un Pokémon K.O.
+Vous ne pouvez pas fusionner avec ce Pokémon.
+Vous ne pouvez pas l'unir à ce Pokémon.
+Vous ne pouvez pas fusionner avec un Œuf.
+Vous ne pouvez pas l'unir à un Œuf.
+Vous ne pouvez pas les séparer car votre équipe est pleine.
 Vous ne pouvez pas les séparer car votre équipe est pleine.
 <var> a changé de forme !
 Avec quel Pokémon voulez-vous le fusionner ?
+À quel Pokémon voulez-vous l'unir ?
 Il a oublié <var> !
 <var> a oublié <var>...
 Vous ne pouvez pas l'utiliser sur un Œuf.
@@ -176,6 +182,8 @@ Tondeuse
 Quel appareil électrique souhaitez-vous commander ?
 Un <var> est apparu dans l'antre géant des Terres Sauvages !
 Il y a déjà un Pokémon dans l'antre géant.
+Changer de forme
+Changer de talent
 Voulez-vous vraiment fusionner ces objets ?
 Vous n'avez qu'un seul exemplaire de cet objet. Voulez-vous vraiment le sélectionner ?
 À quel Pokémon voulez-vous l'enseigner ?

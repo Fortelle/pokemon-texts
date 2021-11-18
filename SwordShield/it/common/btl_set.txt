@@ -2050,3 +2050,17 @@ Fallisce su <var>!
 Fallisce <var> selvatico!
 Fallisce <var> nemico!
 Fallisce <var> di <var>!
+<var> intrappola <var>!
+<var> selvatico intrappola <var>!
+<var> nemico intrappola <var>!
+<var> di <var> intrappola <var>!
+<var> intrappola <var> selvatico!
+<var> selvatico intrappola <var> selvatico!
+<var> intrappola <var> nemico!
+<var> nemico intrappola <var> nemico!
+<var> intrappola <var> di <var>!
+<var> di <var> intrappola <var> di <var>!
+<var> ha due abilità!
+<var> selvatico ha due abilità!
+<var> nemico ha due abilità!
+<var> di <var> ha due abilità!

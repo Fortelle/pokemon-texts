@@ -16,6 +16,7 @@ Spielersuche
 Link-Tausch
 Link-Kampf
 Dyna-Raid
+
 Verschiedenes
  Auswählen
  Beenden
@@ -63,8 +64,11 @@ Es wurden keine Sticker gefunden, die deinen Filterkriterien entsprechen.
 
 
 
+
+
 Speichervorgang... Bitte warte einen Moment.
 Um an diesem Dyna-Raid teilnehmen zu können, brauchst du ein Passwort. Möchtest du fortfahren?
+
 
 
 
@@ -338,3 +342,5 @@ Bei dem ausgewählten Pokémon liegt ein Problem vor.
 Bei der Datenübertragung ist ein Fehler aufgetreten.
 Online-Verbindung
 Lokale Verbindung
+Du hast <var> auf einem Dynamax-Abenteuer besiegt!
+Du hast <var> auf einem Dynamax-Abenteuer besiegt!

@@ -130,6 +130,7 @@ PP was restored!
 <var> grew to Lv. <var>!
 This can't be used on a fainted Pokémon.
 You can't separate the Pokémon now. There's not enough room in your party.
+You can't separate the Pokémon now. There's not enough room in your party.
 The Exp. Share has been turned on.
 The Exp. Share has been turned off.
 The item can't be used on <var> because of <var>'s effects!
@@ -141,11 +142,16 @@ PP
 Ride on your bike
 Get off your bike
 It can't be fused with a Pokémon that has fainted.
+It can't be united with a Pokémon that's fainted.
 It can't be fused with that Pokémon.
+It can't be united with that Pokémon.
 It can't be fused with an Egg.
+It can't be united with an Egg.
+You can't separate the Pokémon now. There's not enough room in your party.
 You can't separate the Pokémon now. There's not enough room in your party.
 <var> transformed!
 Which Pokémon do you want to fuse this Pokémon with?
+Which Pokémon do you want to unite Calyrex with?
 The Pokémon forgot <var>!
 <var> forgot <var>...
 You can't use it on an Egg.
@@ -176,6 +182,8 @@ Lawn mower
 Which appliance would you like to order?
 <var> appeared in the Watchtower Lair in the Wild Area!
 A Pokémon has already appeared in the Watchtower Lair.
+Change form
+Change Ability
 The selected items will be combined. Is that OK?
 You only have one of this item. Are you sure you want to add it?
 Which Pokémon do you want to teach it to?

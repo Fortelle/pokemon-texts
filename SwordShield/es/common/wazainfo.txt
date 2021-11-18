@@ -292,7 +292,7 @@ Este movimiento no se puede usar, por lo que sería mejor olvidarlo, aunque eso 
 El usuario se sumerge en el primer turno y ataca en el segundo.
 Fuertes empujones que golpean de dos a cinco veces seguidas.
 Este movimiento no se puede usar, por lo que sería mejor olvidarlo, aunque eso implique que no se pueda recordar posteriormente.
-Se concentra en una ráfaga de luz que sube muchísimo el Ataque Especial.
+Este movimiento no se puede usar, por lo que sería mejor olvidarlo, aunque eso implique que no se pueda recordar posteriormente.
 Fogonazo de luz que puede bajar la Defensa Especial del objetivo.
 Banco de niebla que puede bajar el Ataque Especial del objetivo.
 Envuelve al objetivo con un manto de plumas para reducir mucho su Ataque.
@@ -352,7 +352,7 @@ Lanza pedruscos al objetivo de dos a cinco veces consecutivas.
 Ataque eléctrico muy rápido e ineludible.
 Ataca con un potente chorro de agua. Puede confundir al objetivo.
 Concentra un haz de luz y ataca dos turnos después.
-Ataque en toda regla que baja mucho el Ataque Especial de quien lo usa.
+Este movimiento no se puede usar, por lo que sería mejor olvidarlo, aunque eso implique que no se pueda recordar posteriormente.
 Aterriza sobre la superficie para descansar. Recupera hasta la mitad del total de sus PS.
 Durante cinco turnos, se anulan los movimientos que alzan el vuelo y los Pokémon de tipo Volador o que levitan son vulnerables a movimientos de tipo Tierra.
 Este movimiento no se puede usar, por lo que sería mejor olvidarlo, aunque eso implique que no se pueda recordar posteriormente.
@@ -389,7 +389,7 @@ Este movimiento solo puede utilizarse tras haber usado al menos una vez todos lo
 Planta una semilla en el objetivo que le causa pesar. Sustituye la habilidad del objetivo por Insomnio y le impide dormirse.
 Permite atacar con prioridad. Falla si el objetivo no está preparando ningún ataque.
 Lanza una trampa de púas tóxicas a los pies del objetivo. El veneno afecta a los Pokémon oponentes que entran en combate.
-Usa la fuerza mental para intercambiar con el objetivo los cambios en las características.
+Este movimiento no se puede usar, por lo que sería mejor olvidarlo, aunque eso implique que no se pueda recordar posteriormente.
 Un manto de agua cubre al Pokémon que lo usa. Recupera algunos PS en cada turno.
 Levita gracias a un campo magnético generado por electricidad durante cinco turnos.
 El Pokémon se cubre de llamas y carga contra el objetivo, aunque él también recibe daño. Puede quemar.
@@ -817,3 +817,11 @@ Ataca al objetivo arrojándole arena a temperaturas muy elevadas. Puede causar q
 Al entrar en plena armonía con la selva, el usuario cura problemas de estado y restaura PS no solo de sí mismo, sino también de los aliados presentes en el terreno.
 Golpe devastador que requiere un absoluto dominio de las artes siniestras. Siempre asesta un golpe crítico.
 El usuario, dominador absoluto del líquido elemento, golpea hasta tres veces con movimientos fluidos. Siempre asesta un golpe crítico.
+El objetivo queda atrapado en una jaula electrificada que permanece en el terreno de cuatro a cinco turnos.
+El usuario convierte su fuerza vital en una energía con la que ataca al objetivo. Cuantos menos PS tenga el usuario, menor será la potencia del movimiento.
+A través de sus ojos emite poderes psíquicos con los que ataca al objetivo, al que puede llegar a congelar.
+El usuario convierte su ira en un aura flamígera para lanzar su ataque. Puede amedrentar al objetivo.
+El usuario desconcierta al rival con movimientos centelleantes y le propina una patada. Baja la Defensa del objetivo.
+El usuario ataca al objetivo lanzándole un carámbano de hielo envuelto en una ventisca.
+El usuario ataca al objetivo lanzándole una ingente cantidad de pequeños fantasmas.
+El usuario ataca con un poder psíquico de inmensa potencia y elimina 3 PP del último movimiento que haya usado el objetivo.

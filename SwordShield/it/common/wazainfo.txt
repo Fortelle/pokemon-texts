@@ -292,7 +292,7 @@ Questa mossa non può essere usata. È consigliabile farla dimenticare al Pokém
 Chi la usa si tuffa in acqua per emergere e attaccare al turno successivo.
 Raffica di ceffoni che colpisce da due a cinque volte di fila.
 Questa mossa non può essere usata. È consigliabile farla dimenticare al Pokémon. Tuttavia, una volta dimenticata, non potrà più essere ricordata.
-Chi la usa fissa una luce forte per concentrarsi e aumentare moltissimo l'Attacco Speciale.
+Questa mossa non può essere usata. È consigliabile farla dimenticare al Pokémon. Tuttavia, una volta dimenticata, non potrà più essere ricordata.
 Chi la usa scatena un'esplosione abbagliante che può anche ridurre la Difesa Speciale del Pokémon colpito.
 Una sfera di nebbia avvolge e danneggia il bersaglio. Può anche ridurne l'Attacco Speciale.
 Chi la usa circonda il bersaglio con un turbinio di piume riducendo di molto il suo Attacco.
@@ -352,7 +352,7 @@ Colpisce il bersaglio con dei massi pesanti lanciati in rapida successione. Il n
 Chi la usa colpisce il bersaglio con una scossa di elettricità. È impossibile eludere questa mossa.
 Il bersaglio viene colpito da un getto d'acqua potentissimo che può anche confonderlo.
 Intenso fascio di luce che colpisce il bersaglio dopo due turni dall'uso della mossa.
-Chi la usa sferra un potente attacco, ma il contraccolpo riduce di molto il suo Attacco Speciale.
+Questa mossa non può essere usata. È consigliabile farla dimenticare al Pokémon. Tuttavia, una volta dimenticata, non potrà più essere ricordata.
 Chi la usa sta fermo e riposa, recuperando metà dei propri PS massimi.
 Per cinque turni rende vulnerabili alle mosse di tipo Terra i Pokémon con Levitazione o di tipo Volante. Non è possibile usare mosse che fanno volare.
 Questa mossa non può essere usata. È consigliabile farla dimenticare al Pokémon. Tuttavia, una volta dimenticata, non potrà più essere ricordata.
@@ -389,7 +389,7 @@ Per usare questa mossa, bisogna prima avvalersi in lotta di tutte le altre mosse
 Un seme che causa ansia viene piantato sul bersaglio. Ne muta l'abilità in Insonnia e ne previene o rimuove il sonno.
 Chi la usa attacca con alta priorità, ma fallisce se il bersaglio non sta preparando un attacco.
 Chi la usa piazza una trappola di punte che avvelenano i nemici che scendono in campo.
-Chi la usa sfrutta la sua forza psichica per scambiare le modifiche alle statistiche con il bersaglio.
+Questa mossa non può essere usata. È consigliabile farla dimenticare al Pokémon. Tuttavia, una volta dimenticata, non potrà più essere ricordata.
 Chi la usa si avvolge in un velo d'acqua. Recupera alcuni PS a ogni turno.
 Chi la usa si solleva in aria per cinque turni grazie a un campo elettromagnetico.
 Chi la usa si ricopre di fuoco e carica il bersaglio, ma subisce il contraccolpo. Può anche scottare il Pokémon colpito.
@@ -817,3 +817,11 @@ Chi la usa attacca il bersaglio scagliandogli addosso della sabbia incandescente
 Il Pokémon diventa tutt'uno con la giungla, ripristinando i PS e curando i problemi di stato per sé e per l'alleato in campo.
 Il Pokémon sferra un singolo colpo potentissimo, massima espressione dello stile di tipo Buio. Brutto colpo assicurato.
 Il Pokémon sferra una fluida serie di tre attacchi, massima espressione dello stile di tipo Acqua. Brutto colpo assicurato.
+Il Pokémon attacca il bersaglio imprigionandolo in una gabbia di elettricità, che sprigiona corrente per quattro o cinque turni.
+Il Pokémon attacca i nemici convertendo la propria forza vitale in energia. La potenza della mossa cala man mano che i PS diminuiscono.
+Il Pokémon attacca rilasciando energia psichica dagli occhi. Può congelare il bersaglio.
+Il Pokémon attacca trasformando la sua rabbia in un'aura simile a fiamme. Può anche far tentennare i nemici.
+Il Pokémon sferra calci al bersaglio dopo averlo distratto con movimenti fulminei, riducendone la Difesa.
+Il Pokémon attacca i nemici scagliando una lancia di ghiaccio accompagnata da una tormenta di neve.
+Il Pokémon attacca i nemici scatenandogli contro una miriade di piccoli spettri.
+Il Pokémon attacca con i suoi potenti poteri psichici. Sottrae tre PP all'ultima mossa usata dal nemico.

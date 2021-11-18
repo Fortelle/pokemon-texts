@@ -16,6 +16,7 @@ Seeking
 Link Trade
 Link Battle
 Max Raid Battle
+
 Chatter
  Confirm
  Quit
@@ -63,8 +64,11 @@ No stamps were found for that search filter.
 
 
 
+
+
 Your game is being saved. Just a moment...
 The host has set a Link Code to join in this Max Raid Battle. Would you like to continue?
+
 
 
 
@@ -338,3 +342,5 @@ There is a problem with the Pokémon you've selected.
 Communication failed.
 Internet
 Local Communication
+I defeated <var> on a Dynamax Adventure!
+I defeated <var> on a Dynamax Adventure!

@@ -16,6 +16,7 @@ Buscando
 Intercambio en conexión
 Combate en conexión
 Incursión Dinamax
+
 Vida cotidiana
  Confirmar
  Salir
@@ -63,8 +64,11 @@ No se ha encontrado ningún sticker que se ajuste a tus criterios de búsqueda.
 
 
 
+
+
 Guardando... Espera unos instantes.
 Para acceder a esta Incursión Dinamax es necesario un código. ¿Quieres continuar?
+
 
 
 
@@ -338,3 +342,5 @@ Se ha detectado un problema con alguno de tus Pokémon.
 Se ha producido un error de conexión.
 Internet
 Comunicación local
+¡He derrotado a <var> en una Aventura Dinamax!
+¡He derrotado a <var> en una Aventura Dinamax!

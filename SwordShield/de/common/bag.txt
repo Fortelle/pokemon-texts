@@ -130,6 +130,7 @@ AP wurden aufgefüllt!
 <var> erreicht Lv. <var>!
 Das kann nicht auf ein kampfunfähiges Pokémon angewendet werden.
 Du kannst das Pokémon nicht teilen, da dein Team voll ist.
+Du kannst die Pokémon nicht trennen, da dein Team voll ist.
 EP-Teiler wurde eingeschaltet.
 EP-Teiler wurde ausgeschaltet.
 <var> verhindert den Einsatz des Items bei <var>!
@@ -141,11 +142,16 @@ AP
 Aufsteigen
 Absteigen
 Mit kampfunfähigen Pokémon ist eine Fusion nicht möglich.
+Mit kampfunfähigen Pokémon ist eine Verbindung nicht möglich.
 Mit diesem Pokémon ist eine Fusion nicht möglich.
+Mit diesem Pokémon ist eine Verbindung nicht möglich.
 Mit einem Ei ist eine Fusion nicht möglich.
+Mit einem Ei ist eine Verbindung nicht möglich.
 Du kannst das Pokémon nicht teilen, da dein Team voll ist.
+Du kannst die Pokémon nicht trennen, da dein Team voll ist.
 <var> hat seine Form verändert!
 Mit welchem Pokémon fusionieren?
+Mit welchem Pokémon verbinden?
 <var> wurde vergessen!
 <var> hat <var> vergessen...
 Das kann nicht auf ein Ei angewendet werden!
@@ -176,6 +182,8 @@ Rasenmäher
 Welches Haushaltsgerät möchtest du bestellen?
 <var> ist im Wachturm-Nest in der Naturzone aufgetaucht!
 Es ist bereits ein Pokémon im Wachturm-Nest aufgetaucht.
+Form ändern
+Fähigkeit ändern
 Möchtest du die ausgewählten Items kombinieren?
 Du besitzt nur ein Exemplar dieses Items. Möchtest du trotzdem fortfahren?
 Welches Pokémon soll die Attacke erlernen?

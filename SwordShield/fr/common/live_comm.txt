@@ -16,6 +16,7 @@ Recherche en cours
 Échange réseau
 Combat réseau
 Raid Dynamax
+
 Autres activités
  Sélectionner
  Quitter
@@ -63,8 +64,11 @@ Aucun sticker ne correspond à votre recherche.
 
 
 
+
+
 Sauvegarde en cours... Veuillez patienter.
 Ce raid Dynamax est protégé par un mot de passe. Voulez-vous y participer ?
+
 
 
 
@@ -338,3 +342,5 @@ Il y a un problème avec le Pokémon que vous avez sélectionné.
 La connexion a échoué.
 Internet
 Mode sans fil local
+J'ai battu <var> lors d'une expédition Dynamax !
+J'ai battu <var> lors d'une expédition Dynamax !

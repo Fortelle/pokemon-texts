@@ -113,6 +113,19 @@ Cuando tus Pokémon no se encuentren bien, puedes acampar y preparar deliciosos 
 ¡Has encontrado una nota! Cuando te encuentres en el Área Silvestre, mueve la palanca derecha para controlar la cámara o púlsala para alejarla y ver mejor tus alrededores. Pulsa el botón L para situar la cámara detrás del personaje.
 ¡Has encontrado una nota! En el Área Silvestre abunda una forma de energía conocida como vatios (W). Cuando veas que un brillo envuelve un nido Pokémon o a un Pokémon salvaje, ¡significa que podrás agenciarte algunos vatios! Algunos Entrenadores del Área Silvestre estarán dispuestos a canjear diversos objetos por vatios.
 <var>
+Hay algo escrito en este antiguo pedestal. ¿Quieres leerlo?
+7 de mayo Nuestras antes exuberantes tierras son ahora un páramo yermo y desolado donde la vegetación se marchita y las cosechas no prosperan. Se ha vuelto una tierra fría de nieves vírgenes.
+Hace pocos días apareció entre las nieves un Pokémon que portaba una corona. Su aspecto cansado y magullado conmovió a las gentes de la villa, así que lo hemos acogido para curarle las heridas.
+18 de agosto Gracias a los remedios de nuestros ancestros, el misterioso invitado se ha recuperado. El gesto de abrir las manos le infunde temor, por lo que cerramos los puños en su presencia.
+Al recobrar las fuerzas, una radiante luz azul comenzó a manar de su interior y, como por arte de magia, nuestros campos prosperan de nuevo. Suponemos que es su forma de agradecernos nuestra hospitalidad.
+30 de noviembre La villa está recuperando el verdor y la lozanía de antaño. La tierra vuelve a la vida y las semillas germinan por doquier. A ojos de los lugareños, nuestro misterioso visitante es ahora todo un rey.
+Hace tiempo que una misteriosa criatura acecha nuestras cosechas, mas el rey, completamente repuesto, un día habló nuestra lengua y declaró que reprendería con firmeza al ladrón.
+2 de enero La desbocada criatura se postró ante nuestro rey y se ha convertido en su amado corcel. Nuestras gentes poseen ahora una fe ciega en el rey.
+Hemos erigido un templo en torno a la plántula del árbol sagrado en la alta montaña, venerada por nuestros ancestros, en honor a nuestro rey. Para afianzar la unión con su corcel, también hemos depositado unas riendas como ofrenda.
+21 de abril Nuestro rey ha propiciado una opípara cosecha en estos lares nevados y yermos desde tiempos inmemoriales. La Meseta de la Corona estará eternamente en deuda con él.
+Mientras no se rompa el fuerte vínculo que une a nuestras gentes con su rey, estas tierras seguirán produciendo abundantes cosechas e inundando el paisaje de verdor y lozanía.
+
+
 ¡He encontrado un Pokémon increíble! Te lo enseño si me das <var> W.
 ¡¿Vas a dejar pasar esta oportunidad?! Mira que como luego te arrepientas...
 ¡Vas a ver qué Pokémon tan genial!
@@ -128,11 +141,25 @@ Vamos a devolverle la energía a tu equipo Pokémon.
 Tu Pokémon ya estás Pokémon ya están en plena forma. ¡Te deseo suerte!
 ¡Tu Pokémon se has Pokémon se han quedado sin fuerzas! Será mejor que los dejes descansar en el dojo.
 ¡Tu Pokémon ya estás Pokémon ya están en plena forma!
+¡Tu Pokémon se has Pokémon se han quedado sin fuerzas! Será mejor que los dejes descansar en la posada.
+¡Tu Pokémon ya estás Pokémon ya están en plena forma!
 ¡Hola, caracola! ¿Te gustan los bonguris? ¡Porque he encontrado un montón! Los cambio por <var> W cada uno. ¿Quieres?
 ¿No quieres mis bonguris? ¡Con lo que cuesta encontrarlos!
 ¡Aquí tienes! ¡Mira qué hermosura!
 El Cramobot es una máquina prodigiosa que se encuentra en el dojo. Si le metes cuatro bonguris, ¡es posible que te cree una Poké Ball de lo más rara!
 ¡Lo siento, pero no te llegan los vatios! Reúne algunos más y te daré los bonguris que quieras.
+Todos los jóvenes se han ido a las grandes ciudades. Aquí ya solo quedamos gente mayor con nuestros Pokémon, y nos las tenemos que apañar como bien podemos...
+En la villa somos autosuficientes. ¡Tan solo cultivamos lo que nos comemos y no desperdiciamos ni un solo recurso!
+El truco para caminar por el hielo es pisar con firmeza con toda la planta del pie y hundirlo un poquito. Verás como así no te resbalas.
+Cada año se hace más duro aguantar estas bajas temperaturas...
+Me temo que en esta villa no hay nada de interés más allá de esa vieja estatua... Aun así, ¡espero que te sientas como en casa!
+¿Ya has ido a ver la estatua del Rey de las Cosechas?
+Casa del alcalde
+Posada
+La puerta está cerrada con llave, así que no puedes entrar de momento.
+Hay una nota en la puerta. "Estoy en el huerto del Lecho del Gigante.                                            ̶El alcalde"
+Es una estatua del Rey de las Cosechas. ¡Tiene una corona muy grande!
+Hay una bandera grande y roja fijada al suelo.
 
 
 

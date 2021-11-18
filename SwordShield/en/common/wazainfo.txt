@@ -292,7 +292,7 @@ This move can't be used. It's recommended that this move is forgotten. Once forg
 Diving on the first turn, the user floats up and attacks on the next turn.
 The user lets loose a flurry of open-palmed arm thrusts that hit two to five times in a row.
 This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
-The user stares at flashing lights to focus its mind, drastically raising its Sp. Atk stat.
+This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
 The user lets loose a damaging burst of light. This may also lower the target's Sp. Def stat.
 A mist-like flurry of down envelops and damages the target. This may also lower the target's Sp. Atk stat.
 The user covers the target's body with a mass of down that harshly lowers its Attack stat.
@@ -352,7 +352,7 @@ The user hurls hard rocks at the target. Two to five rocks are launched in a row
 The user strikes the target with a quick jolt of electricity. This attack never misses.
 The user attacks the target with a pulsing blast of water. This may also confuse the target.
 Two turns after this move is used, a concentrated bundle of light blasts the target.
-The user attacks the target at full power. The attack's recoil harshly lowers the user's Sp. Atk stat.
+This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
 The user lands and rests its body. This move restores the user's HP by up to half of its max HP.
 This move enables Flying-type Pokémon or Pokémon with the Levitate Ability to be hit by Ground-type moves. Moves that involve flying can't be used.
 This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
@@ -389,7 +389,7 @@ This move can be used only after the user has used all the other moves it knows 
 A seed that causes worry is planted on the target. It prevents sleep by making the target's Ability Insomnia.
 This move enables the user to attack first. This move fails if the target is not readying an attack.
 The user lays a trap of poison spikes at the feet of the opposing team. The spikes will poison opposing Pokémon that switch into battle.
-The user employs its psychic power to switch stat changes with the target.
+This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
 The user envelops itself in a veil made of water. It regains some HP every turn.
 The user levitates using electrically generated magnetism for five turns.
 The user cloaks itself in fire and charges the target. This also damages the user quite a lot. This attack may leave the target with a burn.
@@ -806,7 +806,7 @@ The user attacks with electric voltage rising from the ground. This move's power
 The user utilizes the power of the terrain to attack. This move's type and power changes depending on the terrain when it's used.
 The user skitters behind the target to attack. This also lowers the target's Sp. Atk stat.
 The user attacks with energy from jealousy. This leaves all opposing Pokémon that have had their stats boosted during the turn with a burn.
-The user lashes out to vent its frustration toward the target. If its stats were lowered during the turn, the power of this move is doubled.
+The user lashes out to vent its frustration toward the target. If the user's stats were lowered during this turn, the power of this move is doubled.
 The user attacks the target by controlling the target's item. The move fails if the target doesn't have an item.
 The user surrounds everything around it with highly acidic gas and melts away items they hold.
 The user properly coaches its ally Pokémon, boosting their Attack and Defense stats.
@@ -817,3 +817,11 @@ The user throws scorching sand at the target to attack. This may also leave the 
 The user becomes one with the jungle, restoring HP and healing any status conditions of itself and its ally Pokémon in battle.
 The user, having mastered the Dark style, strikes the target with a fierce blow. This attack always results in a critical hit.
 The user, having mastered the Water style, strikes the target with a flowing motion three times in a row. This attack always results in a critical hit.
+The user traps the target in a cage of sparking electricity for four to five turns.
+Converting its life-force into power, the user attacks opposing Pokémon. The lower the user's HP, the lower the move's power.
+The user shoots its psychic power from its eyes to attack. This may also leave the target frozen.
+The user transforms its wrath into a fire-like aura to attack. This may also make opposing Pokémon flinch.
+The user overwhelms the target with lightning-like movement before delivering a kick. This also lowers the target's Defense stat.
+The user attacks by hurling a blizzard-cloaked icicle lance at opposing Pokémon.
+The user attacks by sending a frightful amount of small ghosts at opposing Pokémon.
+The user attacks with its tremendous psychic power. This also removes 3 PP from the target's last move.
