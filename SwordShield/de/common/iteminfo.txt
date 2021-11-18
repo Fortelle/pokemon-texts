@@ -3,7 +3,7 @@ Der beste Ball! Damit fängst du garantiert jedes wilde Pokémon.
 Ein Ball mit hoher Erfolgsquote. Dem Superball in allen Punkten überlegen.
 Ein Ball mit guter Erfolgsquote. Dem Pokéball in allen Punkten überlegen.
 Damit fängst du wilde Pokémon. Du wirfst ihn wie einen normalen Ball. Das Design ähnelt dem einer Kapsel.
-Ein Ball, der nur in Safari-Zonen eingesetzt wird. Er besticht durch sein Tarnfarbenmuster.
+Ein besonderer Ball, der in der Safari-Zone der Kanto-Region und im Großmoor der Sinnoh-Region eingesetzt wird.
 Ein Ball, der sich besonders gut eignet, um Wasser- und Käfer-Pokémon zu fangen.
 Ein Ball, mit dem sich Pokémon, die im Wasser leben, besser fangen lassen.
 Ein Ball, dessen Erfolgsquote besonders bei Pokémon mit niedrigem Level sehr hoch ist.
@@ -497,7 +497,7 @@ Ein Ball, der sich besonders gut eignet, um Pokémon mit hohem Körpergewicht zu
 Ein Ball, der sich besonders gut eignet, um Pokémon zu fangen, die ein anderes Geschlecht haben als dein Pokémon.
 Ein besonderer Ball, der die Sympathie von gefangenen Pokémon sofort ansteigen lässt.
 Ein Ball, der sich besonders gut eignet, um Pokémon zu fangen, die sich durch einen Mondstein entwickeln.
-Ein Ball, der nur beim Käferturnier eingesetzt wird.
+Ein besonderer Ball, der beim Käferturnier der Johto-Region eingesetzt wird.
 Ein Ball, der nur im Park der Freunde eingesetzt wird.
 Ein Album, in dem du Erinnerungsfotos aufbewahren kannst, die du auf deinen Reisen geschossen hast.
 Ein Abspielgerät, das Musik aus einer längst vergangenen Zeit spielt. Lässt sich durch simplen Knopfdruck bedienen.
@@ -845,7 +845,7 @@ Die Maske von Mask Royale. Der Profi-Wrestler hat sie selbst mit der Nähmaschin
 Ein Ticket, mit dem man auf dem Festival-Plaza Spektakel veranstalten kann.
 Ein Stein, den du von einem der Schutzpatrone Alolas erhalten hast. Es heißt, dass sich hinter dem Glitzern ein Geheimnis verberge.
 Als getragenes Item erhöht er bei Pokémon, die unter dem Einfluss von Bedroher stehen, die Initiative.
-Ein Gegenstand zum Sammeln der Kerne und Zellen des Pokémon Zygarde. Mit ihm können Zygarde auch Attacken beigebracht werden.
+Ein Gegenstand, der die Kerne und Zellen des Pokémon Zygarde enthält. Mit ihm kann Zygarde seine Form ändern.
 -
 Dieser spezielle Stein löst bei bestimmten Pokémon die Entwicklung aus. Er hat ein Schneeflockenmuster.
 Ein Gerät, mit dem durch die Eingabe einer Nummer das entsprechende Pokémon für PokéMobil gerufen wird.
@@ -1121,7 +1121,7 @@ Erleidet der Träger eine Senkung seiner Statuswerte, wird er mit einem Team-Mit
 Der Träger wird nicht mehr durch Fallen und andere Objekte beeinträchtigt, die auf dem Boden liegen.
 Schlägt eine Attacke des Anwenders mangels Genauigkeit fehl, steigt im Gegenzug dessen Initiative stark an.
 Senkt die Initiative des Trägers, wenn Bizarroraum wirkt.
-Der Träger ist gegen diverse Wetterphänomene geschützt.
+Der Träger ist gegen die Effekte von Regen und starkem Sonnenlicht geschützt.
 Ein Bonbon, das voller Energie steckt. Beim Verzehr erhält das Pokémon eine sehr geringe Menge an Erfahrungspunkten.
 Ein Bonbon, das voller Energie steckt. Beim Verzehr erhält das Pokémon eine geringe Menge an Erfahrungspunkten.
 Ein Bonbon, das voller Energie steckt. Beim Verzehr erhält das Pokémon eine gewisse Menge an Erfahrungspunkten.
@@ -1577,3 +1577,14 @@ Dieses Item bewirkt, dass im Wachturm-Nest in der Naturzone ein <var> bis zum En
 Dieses Item bewirkt, dass im Wachturm-Nest in der Naturzone ein <var> bis zum Ende des Tages erscheint, an dem das Item eingesetzt wurde.
 Dieses Item bewirkt, dass im Wachturm-Nest in der Naturzone ein <var> bis zum Ende des Tages erscheint, an dem das Item eingesetzt wurde.
 Dieses Item bewirkt, dass im Wachturm-Nest in der Naturzone ein <var> bis zum Ende des Tages erscheint, an dem das Item eingesetzt wurde.
+Honig, der von dynamaximierten Honweisel hergestellt wird und den Geschmack einer Dyna-Suppe abrundet. Verfügt über denselben Effekt wie Top-Beleber.
+Ein Pilz, der über die Eigenschaft verfügt, die Gestalt von Dynamax-Pokémon zu ändern. Im Kampf hebt er alle Statuswerte eines Pokémon an.
+Ein Zweig eines Baumes namens Galarnuss, der in Teilen der Galar-Region wächst. Er dient als Material zur Herstellung von Schmuck für ein bestimmtes Pokémon.
+Ein Armreif, der aus Galarnuss-Zweigen gewoben wird. Galar-Flegmon freuen sich, wenn sie diesen anlegen dürfen.
+Wer diese Karte bei sich trägt, erhält in Boutiquen und Friseursalons eine größere Auswahl.
+Ein Pass, mit dem du zur Rüstungsinsel gelangst. Zeige ihn dem Personal am Brassbury-Bahnhof.
+Ein glitzernd weißes Fahrrad, das dank Rotom über einen Turbo verfügt und auf dem Wasser gefahren werden kann. Versprüht weiße Funken.
+Ein gleißend schwarzes Fahrrad, das dank Rotom über einen Turbo verfügt und auf dem Wasser gefahren werden kann. Versprüht schwarz-rote Funken.
+Ein Glücksbringer, der Pokémon mehr Erfahrungspunkte erhalten lässt. Im Inneren scheint eine Art Maschine zu stecken.
+Ein seltenes Gestein, das auf der Rüstungsinsel zu finden ist. Gibst du es einem Sammler auf der Insel, passiert etwas Gutes.
+Ein mysteriöser, individueller Glücksbringer, der die Wahrscheinlichkeit erhöht, Pokémon zu finden, die über ein Zeichen verfügen.

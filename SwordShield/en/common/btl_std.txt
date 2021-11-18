@@ -413,35 +413,35 @@ It can't use the move because it doesn't have a Berry!
 Now is not the time for that!
 Now is not the time to run away!
 Can't escape!
-Your ally's Attack rose!
-Your ally's Defense rose!
-Your ally's Sp. Atk rose!
-Your ally's Sp. Def rose!
-Your ally's Speed rose!
-Your ally's accuracy rose!
-Your ally's evasiveness rose!
-Your ally's Attack rose sharply!
-Your ally's Defense rose sharply!
-Your ally's Sp. Atk rose sharply!
-Your ally's Sp. Def rose sharply!
-Your ally's Speed rose sharply!
-Your ally's accuracy rose sharply!
-Your ally's evasiveness rose sharply!
-Your ally's Attack fell!
-Your ally's Defense fell!
-Your ally's Sp. Atk fell!
-Your ally's Sp. Def fell!
-Your ally's Speed fell!
-Your ally's accuracy fell!
-Your ally's evasiveness fell!
-Your ally's Attack harshly fell!
-Your ally's Defense harshly fell!
-Your ally's Sp. Atk harshly fell!
-Your ally's Sp. Def harshly fell!
-Your ally's Speed harshly fell!
-Your ally's accuracy harshly fell!
-Your ally's evasiveness harshly fell!
-All of your allies are getting pumped!
+The Attack of your ally Pokémon rose!
+The Defense of your ally Pokémon rose!
+The Sp. Atk of your ally Pokémon rose!
+The Sp. Def of your ally Pokémon rose!
+The Speed of your ally Pokémon rose!
+The accuracy of your ally Pokémon rose!
+The evasiveness of your ally Pokémon rose!
+The Attack of your ally Pokémon rose sharply!
+The Defense of your ally Pokémon rose sharply!
+The Sp. Atk of your ally Pokémon rose sharply!
+The Sp. Def of your ally Pokémon rose sharply!
+The Speed of your ally Pokémon rose sharply!
+The accuracy of your ally Pokémon rose sharply!
+The evasiveness of your ally Pokémon rose sharply!
+The Attack of your ally Pokémon fell!
+The Defense of your ally Pokémon fell!
+The Sp. Atk of your ally Pokémon fell!
+The Sp. Def of your ally Pokémon fell!
+The Speed of your ally Pokémon fell!
+The accuracy of your ally Pokémon fell!
+The evasiveness of your ally Pokémon fell!
+The Attack of your ally Pokémon harshly fell!
+The Defense of your ally Pokémon harshly fell!
+The Sp. Atk of your ally Pokémon harshly fell!
+The Sp. Def of your ally Pokémon harshly fell!
+The Speed of your ally Pokémon harshly fell!
+The accuracy of your ally Pokémon harshly fell!
+The evasiveness of your ally Pokémon harshly fell!
+Your ally Pokémon are getting pumped!
 Your ally Pokémon got poisoned!
 Your ally Pokémon got paralyzed and may be unable to move!
 Your ally Pokémon fell asleep!
@@ -525,3 +525,9 @@ Go! <var>! <var> <var> sent out <var>!
 Go! <var>! <var> sent out <var>!
 The opposing Pokémon's PP was reduced!
 <var> sent out <var>!
+Your ally Pokémon got trapped with vines!
+The opposing Pokémon got trapped with vines!
+Your ally Pokémon got caught in the vortex of water!
+The opposing Pokémon got caught in the vortex of water!
+Oh! It's a fast Slowpoke! Defeat it, and take back the Dojo Uniform!
+Fast Slowpoke are the master's Pokémon! You can't catch them!

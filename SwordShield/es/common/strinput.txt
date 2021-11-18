@@ -24,8 +24,8 @@ Introduce tu día de nacimiento.
 Por ejemplo, si naciste el 2 de enero, introduce 02 y 01.
 ¿Naciste el <var> del <var>?
 Introduce la fecha correcta.
-Puedes crear un código de cuatro dígitos.
-Introduce un código de cuatro dígitos.
+Puedes crear un código de ocho dígitos.
+Introduce un código de ocho dígitos.
 Introduce un ID de torneo.
 Introduce un número de grupo.
 Introduce el ID del equipo que quieres tomar prestado.

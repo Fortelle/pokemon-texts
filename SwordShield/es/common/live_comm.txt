@@ -117,7 +117,7 @@ Combate Individual
 Combate Doble
 Combate Múltiple
 Código
-<var>
+<var> <var>
 Restablecer
 Iniciar combate
 Elige la modalidad del combate.
@@ -139,7 +139,7 @@ Si estableces un código, solo podrás conectarte con los jugadores que lo conoz
 
 
 Código
-<var>
+<var> <var>
 
 
 Escoge tu icono.
@@ -312,7 +312,7 @@ El intercambio mágico es una forma muy especial de realizar un intercambio en c
 ¿Quieres iniciar el intercambio?
 Establecer código
 Iniciar
-Este es tu código actual: <var> ¿Quieres continuar?
+Este es tu código actual: <var> <var> ¿Quieres continuar?
 No se ha establecido ningún código. Sin código, es posible que te conectes con otra persona en vez de con la que quieres jugar. ¿Quieres continuar?
 ¿Quieres añadir a <var> a la lista de jugadores bloqueados?
 No podrás volver a comunicarte con quienes añadas a la lista de jugadores bloqueados. ¿Quieres añadir a esta persona a la lista? (Podrás desbloquearla más adelante).

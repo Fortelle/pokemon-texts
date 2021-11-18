@@ -3,7 +3,7 @@ La Poké Ball dalle prestazioni migliori: cattura qualsiasi Pokémon selvatico s
 Poké Ball dalle prestazioni eccellenti: fornisce maggiori probabilità di cattura rispetto alla Mega Ball.
 Poké Ball dalle ottime prestazioni: fornisce maggiori probabilità di cattura rispetto alla normale Poké Ball.
 Strumento dotato di capsula usato per catturare Pokémon selvatici. Si lancia contro il bersaglio come una palla.
-Poké Ball speciale, usata soltanto nella Gran Palude. È decorata con un motivo mimetico.
+Poké Ball speciale usata in passato nella Zona Safari di Kanto e nella Gran Palude di Sinnoh.
 Poké Ball un po' diversa. Risulta particolarmente efficace sui Pokémon di tipo Acqua e Coleottero.
 Poké Ball un po' diversa. Risulta particolarmente efficace sui Pokémon che vivono in acqua.
 Poké Ball un po' diversa. Risulta particolarmente efficace sui Pokémon selvatici più deboli.
@@ -497,7 +497,7 @@ Poké Ball un po' diversa che funziona particolarmente bene con i Pokémon pesan
 Poké Ball speciale che funziona meglio con i Pokémon di sesso opposto a quello del proprio e della stessa specie.
 Poké Ball un po' diversa che fa sì che i Pokémon selvatici con essa catturati si affezionino più rapidamente.
 Poké Ball un po' diversa che funziona particolarmente bene con i Pokémon che si evolvono con una Pietralunare.
-Poké Ball speciale utilizzata solo nella Gara Pigliamosche.
+Poké Ball speciale usata in passato nella Gara Pigliamosche di Johto.
 Poké Ball speciale utilizzata solo all'interno del Parco Amici.
 Album dove si possono sistemare le foto scattate durante quest'avventura.
 Lettore di musica che permette di immergersi in atmosfere rétro. Ha un solo pulsante per cambiare canzone.
@@ -845,7 +845,7 @@ Maschera di Mister Royale. Sembra che il famoso lottatore l'abbia realizzata per
 Biglietto che permette di dare inizio a un minigioco nel Festiplaza.
 Pietra ricevuta dal Pokémon protettore di Alola. Dietro la sua lucentezza si nasconde un segreto.
 Data a un Pokémon, aumenta la Velocità se subisce Prepotenza.
-Strumento che permette di raccogliere i nuclei e le cellule di Zygarde. Grazie ad esso è anche possibile insegnare delle mosse a questo Pokémon.
+Strumento che contiene i nuclei e le cellule di Zygarde. Grazie ad esso è possibile far cambiare forma al Pokémon.
 - - -
 Pietra particolare che fa evolvere determinate specie di Pokémon. Si intravede l'immagine di un fiocco di neve.
 Dispositivo che permette di chiamare i Pokémon del Poképassaggio digitando il numero corrispondente.
@@ -1121,7 +1121,7 @@ Strumento da dare a un Pokémon. Se le sue statistiche diminuiscono, viene sosti
 Protegge il Pokémon che ce l'ha dagli effetti di trappole e di altri ostacoli piazzati ai suoi piedi.
 Se una mossa non va a segno a causa della scarsa precisione, la Velocità aumenta considerevolmente.
 Se un Pokémon ha questo strumento quando il campo di lotta è sotto l'effetto di Distortozona, la sua Velocità diminuisce.
-Strumento da dare a un Pokémon. Protegge dagli effetti causati da qualunque condizione atmosferica.
+Strumento da dare a un Pokémon. Protegge dagli effetti causati dalla pioggia e dalla luce solare intensa.
 Caramella altamente energetica che aumenta di pochissimo i Punti Esperienza di un Pokémon.
 Caramella altamente energetica che aumenta di poco i Punti Esperienza di un Pokémon.
 Caramella altamente energetica che aumenta moderatamente i Punti Esperienza di un Pokémon.
@@ -1577,3 +1577,14 @@ Strumento che fa apparire <var> nella dynatana della Torre Diroccata, nelle Terr
 Strumento che fa apparire <var> nella dynatana della Torre Diroccata, nelle Terre Selvagge, fino alla fine del giorno in cui viene usato.
 Strumento che fa apparire <var> nella dynatana della Torre Diroccata, nelle Terre Selvagge, fino alla fine del giorno in cui viene usato.
 Strumento che fa apparire <var> nella dynatana della Torre Diroccata, nelle Terre Selvagge, fino alla fine del giorno in cui viene usato.
+Miele prodotto dai Vespiquen dynamaxizzati. Se aggiunto alla Zuppamax la rende molto saporita. Ha anche gli stessi effetti di un Revitalizzante Max.
+Un fungo con il potere di modificare la forma dei Pokémon Dynamax. Se usato durante la lotta, aumenta tutte le statistiche.
+Un ramo di Galarnoce, un albero che cresce in alcune zone di Galar. Viene usato per realizzare accessori per un certo Pokémon.
+Un bracciale ottenuto intrecciando Rami Galarnoce. Gli Slowpoke di Galar amano indossarlo.
+Una tessera che amplia la scelta di acconciature disponibili dai Parrucchieri e di articoli acquistabili nei Negozi di vestiti.
+Un pass necessario per raggiungere l'Isola dell'Armatura. Mostralo al personale della Stazione di Brassbury.
+Una bicicletta dotata del turbo che può anche spostarsi in acqua grazie ai poteri di Rotom. È di un bianco sfavillante.
+Una bicicletta dotata del turbo che può anche spostarsi in acqua grazie ai poteri di Rotom. È di colore nero scintillante ed emana una luce rossastra.
+Un amuleto che fa aumentare i Punti Esperienza che i Pokémon possono ottenere. Pare che contenga dei componenti meccanici.
+Una pietra rara che si può trovare sull'Isola dell'Armatura. Se la consegni a un collezionista di quella zona, potresti guadagnarci qualcosa.
+Misterioso e singolare amuleto che rende più facile incontrare Pokémon con un emblema.

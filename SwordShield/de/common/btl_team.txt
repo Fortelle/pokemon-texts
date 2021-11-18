@@ -6,6 +6,7 @@ Lv. <var>
 ♂
 ♀
 Bitte wähle ein Kampfteam aus.
+Bitte wähle ein Kampfteam vom passenden Typ aus.
  Auswählen
  Zurück
 
@@ -32,6 +33,7 @@ Mit diesem Kampfteam gibt es kein Problem.
 Du kannst dir ein Team ausleihen.
 Verbindung wird hergestellt... Bitte warte einen Moment.
 Es kann kein Leihteam eingesetzt werden.
+Mindestens eines der Pokémon verfügt nicht über ein Kampfregel-Symbol.
 Überprüfen
 Es ist kein Kampfteam verfügbar. Bitte stelle ein Kampfteam zusammen.
 Es ist kein Kampfteam verfügbar. Bitte registriere Pokémon in deinen Boxen, um ein Kampfteam erstellen zu können.

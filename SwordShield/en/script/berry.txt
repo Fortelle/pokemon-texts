@@ -1,21 +1,21 @@
-It's a Berry tree. Do you want to shake it?
+It's a tree where Pokémon hoard their food. Do you want to shake it?
 Yes
 No
-It's a Berry tree. But there are no Berries right now...
+It's a tree where Pokémon hoard their food. But it looks like there's nothing here now...
 <var> fell from the tree!
 <var> and <var> fell from the tree!
 <var>, <var>, and <var> fell from the tree!
 Shake it more
 Quit
-You picked up the Berry that fell from the tree!
-You picked up the Berries that fell from the tree!
+You picked up what fell from the tree!
+You picked up everything that fell from the tree!
 You got <var> <var>.
 You got <var> <var>.
 
 Other Pokémon nearby took all the <var> away...
-Other Pokémon nearby took all the Berries away...
-There is <var> Berry on the ground.
-There are <var> Berries on the ground.
+Other Pokémon nearby took away everything that fell from the tree...
+So far, <var> thing has fallen to the ground.
+So far, <var> things have fallen to the ground.
 Three <var> fell from the tree!
 Two <var> and one <var> fell from the tree!
 Two <var> fell from the tree!

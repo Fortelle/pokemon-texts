@@ -117,7 +117,7 @@ Single Battle
 Double Battle
 Multi Battle
 Link Code
-<var>
+<var> <var>
 Reset
 Start battle
 What battle format are you interested in?
@@ -139,7 +139,7 @@ If you and another player set the same Link Code, you can be sure to connect wit
 
 
 Link Code
-<var>
+<var> <var>
 
 
 Choose a player icon to represent yourself!
@@ -312,7 +312,7 @@ Let's trade some League Cards! You can also cancel your request by selecting ano
 Would you like to start trading?
 Set Link Code
 Start trading
-You've set your Link Code to be: <var>. Would you like to trade using this Link Code?
+You've set your Link Code to be: <var> <var>. Would you like to trade using this Link Code?
 You haven't set a Link Code. Without a Link Code, you might be connected to someone other than the person you meant to play together with. Would you like to continue?
 Would you like to add <var> to your block list?
 You won't be able to connect again with any player you add to your block list. Are you sure you want to block this player? (It's possible to unblock the player again.)

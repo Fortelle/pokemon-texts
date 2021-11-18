@@ -257,3 +257,5 @@ Augmente l'Attaque, mais empêche d'utiliser toute autre capacité que celle uti
 Si un Pokémon avec Gaz Inhibiteur est sur le terrain, les effets des talents de tous les autres Pokémon sont annulés.
 Protège le Pokémon et ses alliés contre toutes les altérations de statut liées à l'empoisonnement.
 À la fin de chaque tour, le Pokémon alterne entre ses formes Mode Rassasié et Mode Affamé.
+Permet parfois au Pokémon d'agir en premier.
+Si le Pokémon utilise une attaque directe, celle-ci pourra passer outre les protections de la cible.

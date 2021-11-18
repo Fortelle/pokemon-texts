@@ -257,3 +257,5 @@ Boosts the Pokémon's Attack stat but only allows the use of the first selected 
 If the Pokémon with Neutralizing Gas is in the battle, the effects of all Pokémon's Abilities will be nullified or will not be triggered.
 Protects the Pokémon and its ally Pokémon from being poisoned.
 The Pokémon changes its form, alternating between its Full Belly Mode and Hangry Mode after the end of each turn.
+Enables the Pokémon to move first occasionally.
+If the Pokémon uses moves that make direct contact, it can attack the target even if the target protects itself.

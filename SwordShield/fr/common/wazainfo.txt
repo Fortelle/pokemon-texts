@@ -132,7 +132,7 @@ Le lanceur baisse la tête pour augmenter sa Défense au premier tour et percute
 Cette capacité ne peut pas être utilisée. Il est recommandé de l'oublier, même s'il sera impossible de se la remémorer une fois oubliée.
 Cette capacité ne peut pas être utilisée. Il est recommandé de l'oublier, même s'il sera impossible de se la remémorer une fois oubliée.
 Le lanceur fait le vide dans son esprit pour oublier ses soucis. Augmente beaucoup sa Défense Spéciale.
-Cette capacité ne peut pas être utilisée. Il est recommandé de l'oublier, même s'il sera impossible de se la remémorer une fois oubliée.
+Le lanceur distrait l'ennemi en pliant une cuillère, ce qui baisse sa Précision.
 Le lanceur récupère jusqu'à la moitié de ses PV max.
 Le lanceur s'élance pour effectuer un coup de genou sauté. S'il échoue, le lanceur se blesse.
 Le lanceur intimide l'ennemi grâce à son regard terrifiant pour le paralyser.
@@ -795,3 +795,25 @@ Le lanceur fait semblant de se prosterner et utilise ses cheveux pour poignarder
 Le lanceur attaque son adversaire avec son poireau. Toutefois, cette action le fait vaciller et il doit se reposer au tour suivant.
 L'attaque la plus puissante d'Éthernatos sous sa forme originelle. S'il l'utilise, il devra se reposer au tour suivant.
 Le lanceur concentre du métal issu de tout son corps en un rayon qu'il projette violemment sur sa cible. Il subit aussi des dégâts.
+Le lanceur attaque la cible avec ses pouvoirs psychiques. Si un Champ Psychique est actif, la puissance de cette capacité augmente et elle touche tous les ennemis.
+Une attaque qui inflige des dégâts et fait disparaître le champ actif, mais qui échoue s'il n'y en a pas à ce moment.
+Le lanceur projette des écailles sur la cible de deux à cinq fois d'affilée. Augmente la Vitesse, mais diminue la Défense.
+Le lanceur concentre l'énergie cosmique au premier tour, ce qui augmente son Attaque Spéciale, et frappe au second.
+Une attaque physique ou spéciale, en fonction de ce qui est le plus efficace contre la cible. Peut aussi empoisonner.
+Le lanceur frappe tous les Pokémon autour de lui en explosant, ce qui le met K.O. La puissance de cette attaque augmente si un Champ Brumeux est actif.
+Le lanceur attaque l'ennemi en glissant sur le terrain. Frappe toujours en priorité si un Champ Herbu est actif.
+Des éclairs surgissent du sol et frappent l'ennemi. La puissance de cette attaque est doublée si la cible est sur un Champ Électrifié.
+Une attaque qui tire sa force des champs. Son type et sa puissance varient selon le champ actif.
+Le lanceur rampe derrière l'ennemi pour l'attaquer. Baisse l'Attaque Spéciale de la cible.
+Le lanceur attaque sa cible avec toute sa jalousie. Cette capacité brûle tout Pokémon dont les stats ont augmenté pendant ce tour.
+Le lanceur frappe l'ennemi avec toute sa rancune. Si les stats du lanceur ont diminué pendant ce tour, la puissance de cette attaque est doublée.
+Le lanceur manipule l'objet tenu par l'ennemi pour l'attaquer. Échoue si la cible ne tient rien.
+Un gaz corrosif qui enveloppe tous les Pokémon alentour et qui dissout les objets qu'ils tiennent.
+Le lanceur coache ses alliés, augmentant ainsi leur Attaque et leur Défense.
+Après son attaque, le lanceur revient à toute vitesse et change de place avec un Pokémon de l'équipe prêt au combat.
+Une salve composée de un à trois coups de pied dont la puissance augmente à chaque coup porté.
+Le lanceur frappe l'ennemi avec ses ailes deux fois d'affilée.
+Le lanceur projette du sable chauffé à blanc sur l'ennemi. Peut aussi brûler la cible.
+Le lanceur fait appel au pouvoir de la jungle pour restaurer les PV et soigner les altérations d'état de ses alliés et de lui-même.
+Le lanceur assène un coup puissant à l'ennemi. Cette technique qui inflige toujours un coup critique est réservée à ceux qui maîtrisent la puissance des Ténèbres.
+Le lanceur assène trois coups fluides à l'ennemi. Cette technique qui inflige toujours un coup critique est réservée à ceux qui maîtrisent la puissance de l'Eau.

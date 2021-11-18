@@ -117,7 +117,7 @@ Einzelkampf
 Doppelkampf
 Multikampf
 Passwort
-<var>
+<var> <var>
 Neu
 Kampf beginnen
 Bitte wähle eine Kampfart.
@@ -139,7 +139,7 @@ Wenn du ein Passwort eingibst, können sich nur Spieler mit dir verbinden, die d
 
 
 Passwort
-<var>
+<var> <var>
 
 
 Bitte wähle ein Bild für dein Profil aus.
@@ -312,7 +312,7 @@ Es wird nach Ligakarten gesucht... Du kannst den Suchvorgang abbrechen, indem du
 Möchtest du den Tausch starten?
 Passwort eingeben
 Tauschen
-Du hast das folgende Passwort festgelegt: <var> Möchtest du mit diesem Passwort fortfahren?
+Du hast das folgende Passwort festgelegt: <var> <var> Möchtest du mit diesem Passwort fortfahren?
 Du hast kein Passwort eingegeben. Ohne Passwort wirst du eventuell mit einem beliebigen Spieler verbunden und nicht mit der Person, mit der du spielen möchtest. Möchtest du fortfahren?
 Möchtest du <var> auf deine Sperrliste setzen?
 Mit einem gesperrten Spieler kannst du nicht über die Kommunikationsfunktionen spielen. Willst du den Spieler wirklich sperren? (Du kannst Spieler auch wieder entsperren.)

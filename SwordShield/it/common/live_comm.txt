@@ -117,7 +117,7 @@ Lotta in Singolo
 Lotta in Doppio
 Lotta Multipla
 Password
-<var>
+<var> <var>
 Resetta
 Inizia la lotta
 Scegli con quali regole lottare.
@@ -139,7 +139,7 @@ Se imposti una password, potrai usare le funzioni di comunicazione solo con i gi
 
 
 Password
-<var>
+<var> <var>
 
 
 Scegli un'immagine per il tuo profilo.
@@ -312,7 +312,7 @@ Sarà avviato lo scambio di Card della Lega Pokémon. Puoi interrompere lo scamb
 Vuoi iniziare lo scambio?
 Imposta password
 Inizia
-La password è: <var> Vuoi continuare?
+La password è: <var> <var> Vuoi continuare?
 Hai scelto di non usare una password. Questo significa che potrebbe connettersi con te una persona diversa da quella con cui volevi giocare. Vuoi continuare?
 Vuoi aggiungere <var> alla lista degli utenti bloccati?
 Non potrai giocare tramite le funzioni di comunicazione con gli utenti bloccati. Vuoi davvero bloccare questo utente? (È possibile sbloccarlo in seguito)

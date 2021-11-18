@@ -3,7 +3,7 @@ Assurément la Poké Ball la plus performante. Elle permet de capturer à coup s
 Une Poké Ball très performante dont le taux de réussite est supérieur à celui de la Super Ball.
 Une Poké Ball très performante dont le taux de réussite est supérieur à celui de la Poké Ball.
 Un objet semblable à une capsule, qui capture les Pokémon sauvages. Il suffit pour cela de le lancer comme une balle.
-Une Poké Ball spéciale dont l'usage est réservé au Parc Safari. Elle est décorée d'un motif camouflage.
+Une Poké Ball spéciale anciennement utilisée au Parc Safari de Kanto et au Grand Marais de Sinnoh.
 Une Poké Ball un peu spéciale qui fonctionne particulièrement bien sur les Pokémon Eau ou Insecte.
 Une Poké Ball un peu spéciale qui fonctionne particulièrement bien sur les Pokémon sous-marins.
 Une Poké Ball un peu spéciale qui fonctionne particulièrement bien sur les Pokémon les plus faibles.
@@ -497,7 +497,7 @@ Une Poké Ball un peu spéciale qui fonctionne particulièrement bien sur les Po
 Une Poké Ball un peu spéciale qui fonctionne mieux sur un Pokémon de sexe opposé.
 Une Poké Ball un peu spéciale qui permet de rendre rapidement amicaux les Pokémon sauvages attrapés avec celle-ci.
 Une Poké Ball un peu spéciale qui fonctionne particulièrement bien sur les Pokémon évoluant avec une Pierre Lune.
-Une Poké Ball spéciale utilisée au Concours de Capture d'insecte.
+Une Poké Ball spéciale anciennement utilisée au Concours de Capture d'insecte de Johto.
 Une Poké Ball spéciale utilisée au Parc des Amis.
 Un album décoré de photos souvenirs prises pendant le voyage.
 Un lecteur de musique qui permet de se plonger dans une atmosphère rétro. Une pression suffit pour changer de mode.
@@ -845,7 +845,7 @@ Le masque de Royal Mask ! On raconte que ce catcheur professionnel aurait cous
 Permet de commencer une mini-quête sur la Place Festival.
 Une pierre donnée par un Pokémon gardien d'Alola. Son éclat cache un secret.
 Objet à tenir. Si le porteur subit une Intimidation, sa Vitesse augmente.
-Un artefact permettant de rassembler les Cellules et Cœurs de Zygarde, ainsi que de lui apprendre des capacités particulières.
+Un artefact dans lequel les Cellules et Cœurs de Zygarde ont été rassemblés. Il permet à Zygarde de changer de forme.
 ITEMINFO_848
 Une pierre étrange qui fait évoluer certaines espèces de Pokémon. Un flocon de neige semble dessiné dessus.
 Un appareil permettant d'appeler une Poké Monture instantanément en tapant le bon numéro.
@@ -1121,7 +1121,7 @@ Objet à tenir. Si le porteur subit une baisse de stats, il revient vers son Dre
 Le porteur ne subit plus les effets des pièges ou autres entraves posés sur le terrain.
 Si un Pokémon manque sa cible parce qu'une capacité a peu de Précision, sa Vitesse augmente beaucoup.
 Objet à tenir. Baisse la Vitesse du porteur lorsque la capacité Distorsion est active.
-Objet à tenir. Protège le porteur des effets de la météo.
+Objet à tenir. Protège le porteur des effets de la pluie et des rayons du soleil.
 Un bonbon plein d'énergie. Il permet à un Pokémon de gagner un petit peu de Points d'Expérience.
 Un bonbon plein d'énergie. Il permet à un Pokémon de gagner un peu de Points d'Expérience.
 Un bonbon plein d'énergie. Il permet à un Pokémon de gagner quelques Points d'Expérience.
@@ -1577,3 +1577,14 @@ Un objet faisant apparaître un <var> dans l'antre géant de la Tour en ruines d
 Un objet faisant apparaître un <var> dans l'antre géant de la Tour en ruines des Terres Sauvages jusqu'à la fin de la journée.
 Un objet faisant apparaître un <var> dans l'antre géant de la Tour en ruines des Terres Sauvages jusqu'à la fin de la journée.
 Un objet faisant apparaître un <var> dans l'antre géant de la Tour en ruines des Terres Sauvages jusqu'à la fin de la journée.
+Un miel crémeux produit par un Apireine Dynamax qui permet d'adoucir le goût de la Maxi Soupe. Il a également le même effet qu'un Rappel Max.
+Un champignon pouvant modifier l'apparence des Pokémon Dynamax. Utilisé en combat, il augmente toutes les stats d'un Pokémon.
+Une branche de Galanoa, un arbre qui pousse dans certains endroits de Galar. Elle sert à fabriquer des accessoires pour un Pokémon en particulier.
+Un bracelet confectionné à partir de Branches Galanoa. Les Ramoloss de Galar adorent en porter.
+Une carte permettant d'accéder à un plus vaste choix d'articles dans les boutiques chics et à davantage de coiffures dans les salons Salle à Mèche.
+Un pass pour se rendre à Isolarmure. Montrez-le à l'employé de la Gare de Brasswick.
+Une bicyclette qui permet de mettre le turbo et de se déplacer sur l'eau grâce à Motisma. D'une blancheur éclatante, elle projette des étincelles sur son passage.
+Une bicyclette qui permet de mettre le turbo et de se déplacer sur l'eau grâce à Motisma. Son noir crépusculaire brille d'une lueur rouge.
+Un charme permettant aux Pokémon de gagner davantage de Points d'Expérience. Il renferme une espèce de mécanisme.
+Un minerai rare que l'on trouve à Isolarmure. Vous pourriez avoir une bonne surprise en le donnant à un collectionneur de l'île.
+Un charme mystérieux qui permet de rencontrer plus facilement des Pokémon avec des insignes.

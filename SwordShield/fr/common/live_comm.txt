@@ -117,7 +117,7 @@ Combat Solo
 Combat Duo
 Combat Multi
 Mot de passe
-<var>
+<var> <var>
 Réinitialiser
 Commencer le combat
 Veuillez choisir un format de combat.
@@ -139,7 +139,7 @@ Si vous saisissez un mot de passe, seuls les joueurs utilisant ce même mot de p
 
 
 Mot de passe
-<var>
+<var> <var>
 
 
 Choisissez une image de profil.
@@ -312,7 +312,7 @@ Vous allez échanger votre carte de Ligue avec un autre joueur ! Vous pouvez a
 Vous allez maintenant effectuer un échange. Choisissez l'option qui vous intéresse.
 Saisir un mot de passe
 Échanger
-Le mot de passe est « <var> ». Voulez-vous procéder à l'échange ?
+Le mot de passe est « <var> <var> ». Voulez-vous procéder à l'échange ?
 Vous n'avez pas saisi de mot de passe. Sans mot de passe, il est possible que vous soyez connecté à une autre personne que celle avec laquelle vous voulez jouer. Voulez-vous continuer ?
 Voulez-vous ajouter <var> à votre liste noire ?
 Vous ne pourrez plus jouer en réseau avec les personnes ajoutées à la liste noire. Voulez-vous continuer malgré tout ? (Il sera possible de débloquer ces personnes.)

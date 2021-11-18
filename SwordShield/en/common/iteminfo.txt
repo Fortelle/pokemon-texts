@@ -3,7 +3,7 @@ The best Poké Ball with the ultimate level of performance. With it, you will ca
 An ultra-high-performance Poké Ball that provides a higher success rate for catching Pokémon than a Great Ball.
 A good, high-performance Poké Ball that provides a higher success rate for catching Pokémon than a standard Poké Ball.
 A device for catching wild Pokémon. It's thrown like a ball at a Pokémon, comfortably encapsulating its target.
-A special Poké Ball that is used only in the Great Marsh. It is recognizable by the camouflage pattern decorating it.
+A special Poké Ball that was used in the Safari Zone in the Kanto region and in the Great Marsh in the Sinnoh region.
 A somewhat different Poké Ball that is more effective when attempting to catch Water- or Bug-type Pokémon.
 A somewhat different Poké Ball that works especially well when catching Pokémon that live underwater.
 A somewhat different Poké Ball that becomes more effective the lower the level of the wild Pokémon.
@@ -497,7 +497,7 @@ A Poké Ball that is better than usual at catching very heavy Pokémon.
 A Poké Ball that works best when catching a Pokémon that is of the opposite gender of your Pokémon.
 A strange Poké Ball that will make the wild Pokémon caught with it more friendly toward you immediately.
 A Poké Ball that will make it easier to catch Pokémon that can evolve using a Moon Stone.
-A special Poké Ball that is used during the Bug-Catching Contest.
+A special Poké Ball that was used during the Bug-Catching Contest in the Johto region.
 A special Poké Ball for the Pal Park.
 A nice photo album for storing all the photos taken along your adventure.
 A music player that allows you to listen to nostalgic songs. It's operated with the flip of a single switch.
@@ -845,7 +845,7 @@ The mask that belongs to The Masked Royal. This pro wrestler apparently sews his
 A ticket that allows you to host a mission in Festival Plaza.
 A stone entrusted by a Pokémon that has been venerated as a guardian deity in the Alola region. There is said to be some secret in how it sparkles.
 If held by a Pokémon, it boosts Speed when intimidated.
-An item to store Zygarde Cores and Cells. You can also use it to teach Zygarde moves.
+An item in which Zygarde Cores and Cells are gathered. You can also use it to change Zygarde's forms.
 - - -
 A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable snowflake pattern.
 By entering certain numbers on this pager, you can summon Ride Pokémon in an instant.
@@ -1121,7 +1121,7 @@ An item to be held by a Pokémon. When the holder's stats are lowered, it will b
 These boots prevent the effects of traps set on the battlefield.
 Raises Speed sharply when a Pokémon misses with a move because of accuracy.
 An item to be held by a Pokémon. Lowers Speed when Trick Room takes effect.
-An item to be held by a Pokémon. This sturdy umbrella protects the holder from the effects of weather.
+An item to be held by a Pokémon. This sturdy umbrella protects the holder from the effects of rain and harsh sunlight.
 A candy that is packed with energy. When consumed, it will grant a single Pokémon a very small amount of Exp. Points.
 A candy that is packed with energy. When consumed, it will grant a single Pokémon a small amount of Exp. Points.
 A candy that is packed with energy. When consumed, it will grant a single Pokémon a moderate amount of Exp. Points.
@@ -1577,3 +1577,14 @@ An item that causes <var> to appear from the Watchtower Lair in the Wild Area un
 An item that causes <var> to appear from the Watchtower Lair in the Wild Area until the end of the day.
 An item that causes <var> to appear from the Watchtower Lair in the Wild Area until the end of the day.
 An item that causes <var> to appear from the Watchtower Lair in the Wild Area until the end of the day.
+Honey that Dynamax Vespiquen produces. Adding this honey to Max Soup makes the taste very smooth. It also has the same effect as a Max Revive.
+Mushrooms that have the power of changing Dynamax forms. They boost all stats of a Pokémon during battle.
+A twig from a species of tree called Galarica that grows in certain areas around the Galar region. It's a material for an accessory for a certain Pokémon.
+A cuff made from woven-together Galarica Twigs. Giving it to Galarian Slowpoke makes the Pokémon very happy.
+A card that increases the selection in boutiques and hair salons.
+A pass to go to the Isle of Armor. Show it to the rail staff at Wedgehurst Station.
+This bike can do a turbo boost and run on the water using Rotom's power. It's a sparkling white that shines brilliantly.
+This bike can do a turbo boost and run on the water using Rotom's power. It's a glistening black that shines reddish-black.
+A charm that increases the Exp. Points that Pokémon can get. A machine-like object is inside the charm.
+Rare ore that can be obtained on the Isle of Armor. Something good will happen if you give it to a collector on the Isle of Armor.
+A mysterious and unique charm that increases the chance of finding a Pokémon with a mark.

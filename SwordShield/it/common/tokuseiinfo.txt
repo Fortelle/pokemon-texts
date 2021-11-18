@@ -257,3 +257,5 @@ Aumenta l'Attacco ma costringe il Pokémon a usare solo la prima mossa seleziona
 Se in campo c'è un Pokémon con Gas Reagente, gli effetti delle abilità di tutti gli altri Pokémon vengono annullati o non si attivano.
 Protegge il Pokémon e gli alleati dai problemi di stato causati dal veleno.
 Alla fine di ogni turno cambia forma, alternando tra Motivo Panciapiena e Motivo Panciavuota.
+A volte permette al Pokémon di agire per primo.
+Quando il Pokémon utilizza un attacco diretto, gli effetti di mosse protettive vengono ignorati.

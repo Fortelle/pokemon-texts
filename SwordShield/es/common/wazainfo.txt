@@ -132,7 +132,7 @@ El usuario se prepara y sube su Defensa en el primer turno y en el segundo arrem
 Este movimiento no se puede usar, por lo que sería mejor olvidarlo, aunque eso implique que no se pueda recordar posteriormente.
 Este movimiento no se puede usar, por lo que sería mejor olvidarlo, aunque eso implique que no se pueda recordar posteriormente.
 El usuario olvida sus preocupaciones y aumenta mucho la Defensa Especial.
-Este movimiento no se puede usar, por lo que sería mejor olvidarlo, aunque eso implique que no se pueda recordar posteriormente.
+Dobla una cuchara para distraer al objetivo y bajar su nivel de Precisión.
 Restaura la mitad de los PS máximos del usuario.
 El usuario salta muy alto y da un rodillazo. Si falla, se hará daño.
 Intimida y asusta al objetivo con la mirada para dejarlo paralizado.
@@ -795,3 +795,25 @@ El usuario finge hacer una reverencia y aprovecha la ocasión para ensartar al o
 El usuario agita violentamente su grueso puerro para atacar, pero el mareo que le provocan las sacudidas le impide moverse en el turno siguiente.
 Este es el mayor ataque de Eternatus una vez adquirida su forma original. No puede moverse en el turno siguiente.
 Utiliza el acero de su cuerpo para disparar un potente rayo. También hiere al agresor.
+El usuario ataca al objetivo con sus poderes psíquicos. Cuando se usa en conjunción con un campo psíquico, aumenta su potencia e inflige daño a todos los rivales.
+El usuario lanza su ataque y destruye el campo activo en el terreno de combate, y falla si no hay ninguno en ese momento.
+Lanza escamas al objetivo de dos a cinco veces seguidas. Aumenta la Velocidad del usuario, pero reduce su Defensa.
+El usuario dedica el primer turno a aumentar su Ataque Especial acumulando energía cósmica y lanza su ofensiva contra el objetivo en el segundo.
+El usuario lanza un ataque físico o especial en función de cuál inflija más daño. Puede envenenar al objetivo.
+El usuario ataca a todos a su alrededor, pero se debilita de inmediato. La potencia del movimiento aumenta si el terreno está cubierto por un campo de niebla.
+Ataca al objetivo deslizándose sobre el terreno de combate. Este movimiento tiene prioridad alta cuando el terreno está cubierto por un campo de hierba.
+Ataca con una descarga eléctrica que surge del terreno de combate. La potencia del movimiento se duplica si el rival se ve afectado por un campo eléctrico.
+El usuario ataca aprovechando la energía del campo activo, que determina tanto el tipo como la potencia del movimiento.
+Ataca al objetivo por la espalda de forma subrepticia y además reduce su Ataque Especial.
+Ataca al objetivo con la energía generada por la envidia y causa quemaduras a los Pokémon cuyas características hayan aumentado en ese turno.
+Ataca al rival presa de la rabia. Si el usuario ha sufrido una reducción de características en ese turno, la potencia del movimiento se duplica.
+El usuario ataca utilizando el objeto que lleva el rival. Si no tiene ninguno equipado, el movimiento falla.
+El usuario libera un gas cáustico que envuelve a todos los que se encuentren alrededor y derrite por completo los objetos que lleven equipados.
+El usuario imparte indicaciones precisas a sus aliados, que ven aumentados su Ataque y su Defensa.
+Tras atacar, el usuario da paso a toda prisa a otro Pokémon del equipo.
+Patea hasta tres veces seguidas y cada vez más fuerte.
+Ataca al adversario golpeándolo dos veces con las alas.
+Ataca al objetivo arrojándole arena a temperaturas muy elevadas. Puede causar quemaduras.
+Al entrar en plena armonía con la selva, el usuario cura problemas de estado y restaura PS no solo de sí mismo, sino también de los aliados presentes en el terreno.
+Golpe devastador que requiere un absoluto dominio de las artes siniestras. Siempre asesta un golpe crítico.
+El usuario, dominador absoluto del líquido elemento, golpea hasta tres veces con movimientos fluidos. Siempre asesta un golpe crítico.
