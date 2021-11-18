@@ -1,0 +1,9 @@
+Möchtest du ein Trinkgeld geben?
+Wie viel möchtest du geben?
+Abbrechen
+<var> $
+<var> $
+<var> $
+<var> $
+Du hast <var> $ Trinkgeld gegeben.
+Du hast nicht genügend Geld.

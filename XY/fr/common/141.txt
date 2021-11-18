@@ -1,0 +1,166 @@
+AURAS ACTIVES :
+SUR LE TERRAIN
+EN COMBAT
+Soi
+Autrui
+Annuler
+Utiliser sur soi
+Utiliser sur autrui
+<var>
+<var> a activé une <var>.
+<var>:<var>
+x
+<var>
+Coût
+Choisissez l'O-Aura à utiliser.
+N. 1
+N. 2
+N. 3
+S
+MAX
+Aura Rencontre
+Aura Discrétion
+Aura Éclosion
+Aura Amitié
+Aura Soldes
+Aura Récup' PV
+Aura Récup' PP
+Aura Récup' Totale
+Aura Expérience
+Aura Gain
+Aura Capture
+Aura Critique
+Aura Attaque
+Aura Défense
+Aura Vitesse
+Aura Atq. Spé.
+Aura Déf. Spé.
+Aura Précision
+Aura Rencontre N. 1
+Aura Rencontre N. 2
+Aura Rencontre N. 3
+Aura Discrétion N. 1
+Aura Discrétion N. 2
+Aura Discrétion N. 3
+Aura Éclosion N. 1
+Aura Éclosion N. 2
+Aura Éclosion N. 3
+Aura Éclosion S
+Aura Éclosion MAX
+Aura Amitié N. 1
+Aura Amitié N. 2
+Aura Amitié N. 3
+Aura Amitié S
+Aura Amitié MAX
+Aura Soldes N. 1
+Aura Soldes N. 2
+Aura Soldes N. 3
+Aura Soldes S
+Aura Soldes MAX
+Aura Récup' PV N. 1
+Aura Récup' PV N. 2
+Aura Récup' PV N. 3
+Aura Récup' PP N. 1
+Aura Récup' PP N. 2
+Aura Récup' PP N. 3
+Aura Récup' Totale
+Aura Expérience N. 1
+Aura Expérience N. 2
+Aura Expérience N. 3
+Aura Expérience S
+Aura Expérience MAX
+Aura Gain N. 1
+Aura Gain N. 2
+Aura Gain N. 3
+Aura Gain S
+Aura Gain MAX
+Aura Capture N. 1
+Aura Capture N. 2
+Aura Capture N. 3
+Aura Capture S
+Aura Capture MAX
+Aura Critique N. 1
+Aura Critique N. 2
+Aura Critique N. 3
+Aura Attaque N. 1
+Aura Attaque N. 2
+Aura Attaque N. 3
+Aura Défense N. 1
+Aura Défense N. 2
+Aura Défense N. 3
+Aura Vitesse N. 1
+Aura Vitesse N. 2
+Aura Vitesse N. 3
+Aura Atq. Spé. N. 1
+Aura Atq. Spé. N. 2
+Aura Atq. Spé. N. 3
+Aura Déf. Spé. N. 1
+Aura Déf. Spé. N. 2
+Aura Déf. Spé. N. 3
+Aura Précision N. 1
+Aura Précision N. 2
+Aura Précision N. 3
+La probabilité de rencontrer des Pokémon sauvages augmente légèrement. L'effet dure 3 minutes.
+La probabilité de rencontrer des Pokémon sauvages augmente nettement. L'effet dure 3 minutes.
+La probabilité de rencontrer des Pokémon sauvages augmente énormément. L'effet dure 3 minutes.
+La probabilité de rencontrer des Pokémon sauvages diminue légèrement. L'effet dure 3 minutes.
+La probabilité de rencontrer des Pokémon sauvages diminue nettement. L'effet dure 3 minutes.
+La probabilité de rencontrer des Pokémon sauvages diminue énormément. L'effet dure 3 minutes.
+La vitesse d'éclosion des Œufs pendant la marche augmente légèrement. L'effet dure 3 minutes.
+La vitesse d'éclosion des Œufs pendant la marche augmente nettement. L'effet dure 3 minutes.
+La vitesse d'éclosion des Œufs pendant la marche augmente énormément. L'effet dure 3 minutes.
+La vitesse d'éclosion des Œufs pendant la marche augmente énormément. L'effet dure 8 minutes.
+La vitesse d'éclosion des Œufs pendant la marche augmente énormément. L'effet dure 60 minutes.
+Les Pokémon se lient un peu plus facilement à leur Dresseur. L'effet dure 3 minutes.
+Les Pokémon se lient bien plus facilement à leur Dresseur. L'effet dure 3 minutes.
+Les Pokémon se lient beaucoup plus facilement à leur Dresseur. L'effet dure 3 minutes.
+Les Pokémon se lient beaucoup plus facilement à leur Dresseur. L'effet dure 8 minutes.
+Les Pokémon se lient beaucoup plus facilement à leur Dresseur. L'effet dure 60 minutes.
+10 % de réduction dans les Boutiques Pokémon. L'effet dure 3 minutes.
+25 % de réduction dans les Boutiques Pokémon. L'effet dure 3 minutes.
+50 % de réduction dans les Boutiques Pokémon. L'effet dure 3 minutes.
+50 % de réduction dans les Boutiques Pokémon. L'effet dure 8 minutes.
+50 % de réduction dans les Boutiques Pokémon. L'effet dure 60 minutes.
+Quand cette Aura est utilisée, le Pokémon en tête de l'équipe regagne un peu d'énergie.
+Quand cette Aura est utilisée, le Pokémon en tête de l'équipe regagne pas mal d'énergie.
+Quand cette Aura est utilisée, le Pokémon en tête de l'équipe regagne beaucoup d'énergie.
+Quand cette Aura est utilisée, le Pokémon en tête de l'équipe regagne un peu de PP.
+Quand cette Aura est utilisée, le Pokémon en tête de l'équipe regagne pas mal de PP.
+Quand cette Aura est utilisée, le Pokémon en tête de l'équipe regagne beaucoup de PP.
+Le Dresseur qui reçoit cette Aura voit tous les Pokémon de son équipe être totalement soignés.
+Le nombre de Points Exp. gagnés à la fin du combat augmente légèrement. L'effet dure 3 minutes.
+Le nombre de Points Exp. gagnés à la fin du combat augmente nettement. L'effet dure 3 minutes.
+Le nombre de Points Exp. gagnés à la fin du combat augmente énormément. L'effet dure 3 minutes.
+Le nombre de Points Exp. gagnés à la fin du combat augmente énormément. L'effet dure 8 minutes.
+Le nombre de Points Exp. gagnés à la fin du combat augmente énormément. L'effet dure 60 minutes.
+La somme d'argent gagnée à la fin du combat augmente légèrement. L'effet dure 3 minutes.
+La somme d'argent gagnée à la fin du combat augmente nettement. L'effet dure 3 minutes.
+La somme d'argent gagnée à la fin du combat augmente énormément. L'effet dure 3 minutes.
+La somme d'argent gagnée à la fin du combat augmente énormément. L'effet dure 8 minutes.
+La somme d'argent gagnée à la fin du combat augmente énormément. L'effet dure 60 minutes.
+La probabilité d'attraper les Pokémon augmente légèrement. L'effet dure 3 minutes.
+La probabilité d'attraper les Pokémon augmente nettement. L'effet dure 3 minutes.
+La probabilité d'attraper les Pokémon augmente énormément. L'effet dure 3 minutes.
+La probabilité d'attraper les Pokémon augmente énormément. L'effet dure 8 minutes.
+La probabilité d'attraper les Pokémon augmente énormément. L'effet dure 60 minutes.
+La probabilité que le Pokémon en tête de l'équipe inflige des coups critiques en combat augmente légèrement.
+La probabilité que le Pokémon en tête de l'équipe inflige des coups critiques en combat augmente nettement.
+La probabilité que le Pokémon en tête de l'équipe inflige des coups critiques en combat augmente énormément.
+L'Attaque du Pokémon en tête de l'équipe augmente légèrement en combat.
+L'Attaque du Pokémon en tête de l'équipe augmente nettement en combat.
+L'Attaque du Pokémon en tête de l'équipe augmente énormément en combat.
+La Défense du Pokémon en tête de l'équipe augmente légèrement en combat.
+La Défense du Pokémon en tête de l'équipe augmente nettement en combat.
+La Défense du Pokémon en tête de l'équipe augmente énormément en combat.
+La Vitesse du Pokémon en tête de l'équipe augmente légèrement en combat.
+La Vitesse du Pokémon en tête de l'équipe augmente nettement en combat.
+La Vitesse du Pokémon en tête de l'équipe augmente énormément en combat.
+L'Attaque Spéciale du Pokémon en tête de l'équipe augmente légèrement en combat.
+L'Attaque Spéciale du Pokémon en tête de l'équipe augmente nettement en combat.
+L'Attaque Spéciale du Pokémon en tête de l'équipe augmente énormément en combat.
+La Défense Spéciale du Pokémon en tête de l'équipe augmente légèrement en combat.
+La Défense Spéciale du Pokémon en tête de l'équipe augmente nettement en combat.
+La Défense Spéciale du Pokémon en tête de l'équipe augmente énormément en combat.
+La Précision du Pokémon en tête de l'équipe augmente légèrement en combat.
+La Précision du Pokémon en tête de l'équipe augmente nettement en combat.
+La Précision du Pokémon en tête de l'équipe augmente énormément en combat.

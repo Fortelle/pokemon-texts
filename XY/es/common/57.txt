@@ -1,0 +1,345 @@
+Amigos
+Conocidos
+Transeúntes
+
+Establecer las reglas
+Dejar que el rival elija las reglas
+Has cambiado de consola. Actualizando la lista de contactos del PSS...
+<var>
+<var>...
+<var>
+Combatir con alguien junto a ti
+Combatir con alguien próximo a ti
+Combatir con alguien lejos de ti
+Intercambiar con alguien junto a ti
+Intercambiar con alguien próximo a ti
+Intercambiar con alguien lejos de ti
+Com. por infrarrojos
+Comunicación local
+Internet
+
+
+Sí
+No
+
+¿Quieres transmitir un mensaje a los demás jugadores?
+Has enviado a los demás el siguiente mensaje: "<var>".
+¿Quieres cambiar el mensaje actual: "<var>"?
+Por favor, espera.
+Cuando la otra persona esté lista, coloca tu transmisor de infrarrojos frente al suyo.
+Las reglas que has establecido no coinciden con las elegidas por el resto de participantes.
+¡Uno de los jugadores tiene que establecer las reglas!
+Podéis separar los transmisores de infrarrojos. Esperad un momento, por favor.
+
+
+
+
+
+Se ha excedido el número de participantes, por lo que no podréis jugar juntos.
+
+¿A quién quieres elegir?
+
+Invitar a amigos o conocidos
+
+
+Vas a invitar a estos jugadores. ¿Estás de acuerdo?
+Retando a un combate a tu amigoa <var>...
+Retando a un combate a <var>, de la lista de conocidos...
+Retando a un combate a <var>, de la lista de transeúntes...
+Buscando adversarios para un combate...
+¿Quieres cancelar la solicitud de combate?
+Jugar con <var>
+¿Quieres proponer un Combate Individual con reglas normales?
+¿Quieres proponer un Combate Individual con restricciones?
+¿Quieres proponer un Combate Individual sin restricciones?
+¿Quieres proponer un Combate Doble con reglas normales?
+¿Quieres proponer un Combate Doble con restricciones?
+¿Quieres proponer un Combate Doble sin restricciones?
+¿Quieres proponer un Combate Triple con reglas normales?
+¿Quieres proponer un Combate Triple con restricciones?
+¿Quieres proponer un Combate Triple sin restricciones?
+¿Quieres proponer un Combate Rotatorio con reglas normales?
+¿Quieres proponer un Combate Rotatorio con restricciones?
+¿Quieres proponer un Combate Rotatorio sin restricciones?
+
+
+
+Has recibido un <var> de tu amigoa <var>.
+Has recibido un <var> de <var>, de tu lista de conocidos.
+Has recibido un <var> de <var>, de la lista de transeúntes.
+¡Has usado un <var>!
+¡<var> ha usado <var>!
+
+¿Quieres usarlo con <var>?
+¡El nivel del <var> ha aumentado!
+¡<var> ha adquirido <var>!
+¿Quieres recibir el poder de <var>?
+Elige la clase de combate que quieres disputar.
+Combate
+Número de jugadores
+Dos
+Cuatro
+Modalidad
+Combate Individual
+Combate Doble
+Combate Triple
+Combate Rotatorio
+Combate Múltiple
+Reglas
+Reglas normales
+Con restricciones
+Sin restricciones
+
+Con hándicap
+Sin hándicap
+Vale
+
+
+
+
+¡Tu amigoa <var> te ha retado a un combate!
+¡<var>, de tu lista de conocidos, te ha retado a un combate!
+<var>, de la lista de transeúntes, te ha retado a un combate.
+El combate se disputará con estas reglas. ¿Estás de acuerdo?
+El combate se ha cancelado porque falta alguno de los participantes.
+No puedes participar porque no reúnes los requisitos necesarios.
+
+
+¿Te apetece disputar un Combate Individual con reglas normales?
+¿Te apetece disputar un Combate Individual con restricciones?
+¿Te apetece disputar un Combate Individual sin restricciones?
+¿Te apetece disputar un Combate Doble con reglas normales?
+¿Te apetece disputar un Combate Doble con restricciones?
+¿Te apetece disputar un Combate Doble sin restricciones?
+¿Te apetece disputar un Combate Triple con reglas normales?
+¿Te apetece disputar un Combate Triple con restricciones?
+¿Te apetece disputar un Combate Triple sin restricciones?
+¿Te apetece disputar un Combate Rotatorio con reglas normales?
+¿Te apetece disputar un Combate Rotatorio con restricciones?
+¿Te apetece disputar un Combate Rotatorio sin restricciones?
+¿Te apetece disputar un Combate Múltiple con reglas normales?
+¿Te apetece disputar un Combate Múltiple con restricciones?
+¿Te apetece disputar un Combate Múltiple sin restricciones?
+Ultimando los preparativos... Espera un momento, por favor.
+
+<var> está buscando contrincantes.
+Buscando jugadores para Comb. Múltiple.
+
+<var>
+Líder
+Respuesta pendiente
+Esperando...
+Número de Pokémon:
+Sin restricciones
+Al menos 2
+Al menos 3
+
+3
+4
+6
+De 1 a 3
+Nivel de los Pokémon:
+Todos al Nivel 50
+Nivel 50 como máximo
+Sin restricciones
+Pokémon especiales:
+Permitidos
+No permitidos
+Mismos objetos:
+Permitidos
+No permitidos
+Mismos Pokémon:
+Permitidos
+No permitidos
+Hándicap:
+Sí
+No
+
+
+Proponiendo un intercambio a tu amigoa <var>...
+Proponiendo un intercambio a <var>, de la lista de conocidos...
+Proponiendo un intercambio a <var>, de la lista de transeúntes...
+Buscando jugadores para un intercambio...
+¿Quieres cancelar la solicitud de intercambio?
+
+
+¿Quieres intercambiar Pokémon?
+
+
+Necesitas al menos dos Pokémon si quieres hacer intercambios.
+Tanto tus cajas como tu equipo están llenos. El intercambio no se puede llevar a cabo.
+Tienes al menos un Pokémon que no se puede seleccionar.
+El intercambio se ha cancelado debido a que el otro jugador no está disponible.
+Tu amigoa <var> te propone un intercambio.
+<var>, de la lista de conocidos, te propone un intercambio.
+<var>, de la lista de transeúntes, te propone un intercambio.
+<var> está buscando jugadores para intercambiar Pokémon.
+¿Te apetece intercambiar Pokémon?
+Charlar con <var>
+¿Quieres iniciar un chat de voz?
+Proponiendo un chat de voz a tu amigoa <var>...
+
+
+¿Quieres cancelar la solicitud de chat de voz?
+
+Chat de voz con <var>
+¿Quieres finalizar este chat de voz?
+Finalizando el chat de voz...
+<var> ha finalizado el chat de voz.
+¡<var> te ha invitado a un chat de voz!
+¿Te apetece un chat de voz?
+Ultimando preparativos... Espera un momento, por favor.
+El chat de voz se ha cancelado porque el otro jugador no está disponible.
+<var> está difundiendo su vídeo de presentación.
+¿Quieres ver su vídeo de presentación?
+Solicitando permiso a tu amigoa <var>...
+Solicitando permiso a <var>, de la lista de conocidos...
+Solicitando permiso a <var>, de la lista de transeúntes...
+¿Quieres cancelar la solicitud de permiso para ver el vídeo de presentación?
+
+
+No se ha recibido la autorización necesaria por parte de la otra persona.
+Tu amigoa <var> quiere ver tu vídeo de presentación.
+<var>, de la lista de conocidos, quiere ver tu vídeo de presentación.
+<var>, de la lista de transeúntes, quiere ver tu vídeo de presentación.
+¿Quieres enseñarle tu vídeo de presentación?
+Has enviado tu vídeo de presentación.
+Se ha cancelado el proceso porque el otro jugador no está disponible.
+<var> y los Poderes O
+Enviarle un Poder O
+Recibir un Poder O
+Salir
+No puedes utilizar el Poder O porque no tienes ningún Pokémon.
+<var>
+¿Quieres registrar a <var> en tu lista de favoritos?
+¡Tu lista de favoritos está llena!
+¿Quieres eliminar a <var> de tu lista de favoritos?
+N.º de favoritos: <var>/100
+Tu lista de favoritos no contiene entradas. Para añadir uno a la lista, registra su perfil.
+Batería baja
+¡La batería de la consola está a punto de agotarse!
+Interactuar con otros jugadores
+Conéctate a internet o ve a sitios repletos de gente para interactuar con más jugadores.
+Elegir jugadores
+Si tocas el icono de una persona, podrás jugar con ella. Si alguien despierta tu interés, ¡no lo dudes y pulsa su icono!
+Amigos
+Tus amigos son aquellos jugadores que has registrado en la lista de amigos de tu Nintendo 3DS. ¡Pásalo bomba con tus amistades!
+Conocidos
+Se definen como conocidos aquellas personas con las que hayas jugado. Si juegas otra vez con ellos, podrás registrarlos en tu lista de amigos. ¡Pásalo pipa con tus conocidos!
+Transeúntes
+Los transeúntes son jugadores que se hallan en cualquier parte del mundo. Si juegas con ellos, pasarán a incluirse en la lista de conocidos.
+Elegir modos de juego
+Si tocas el icono de menú situado en la parte superior de la pantalla táctil, podrás elegir a qué quieres jugar. Los combates o intercambios son dos de las opciones disponibles.
+Intercambios en conexión
+Mediante la conexión inalámbrica puedes intercambiar Pokémon con muchos otros jugadores. ¿Quieres hacer un intercambio en conexión?
+Combates en conexión
+Mediante la conexión inalámbrica puedes combatir con muchos otros jugadores. ¿Quieres disputar un combate en conexión?
+Chat de voz
+Si el otro jugador está en tu lista de amigos, podrás mantener un chat de voz con esa persona. Así podréis hablar mientras combatís o realizáis intercambios.
+GTS
+Utiliza la GTS para intercambiar Pokémon con jugadores ubicados en cualquier parte del mundo. ¿Quieres utilizar la GTS?
+Vídeo de presentación
+Toca el icono de cualquier jugador para ver su vídeo de presentación.
+
+
+Poder O
+¡Has acumulado Poder O! El Poder O puede resultar útil en la aventura, tanto para ti como para otro jugador. ¿Quieres utilizarlo?
+Favoritos
+Puedes registrar un máximo de 100 jugadores en tu lista de favoritos. ¿Quieres consultar tu lista?
+Saludo
+Si quieres gritar a los cuatro vientos lo feliz que te sientes o simplemente saludar a los jugadores, pulsa el icono de saludo y envía un mensaje. ¿Quieres decirles algo?
+Jugar a través de internet
+Si te conectas a internet, podrás jugar con gente de cualquier parte del mundo. ¿Quieres conectarte a internet?
+Sincronizar Juego
+Mediante esta función, podrás utilizar los servicios de PGL si te conectas a internet. ¿Quieres usar Sincronizar Juego?
+
+
+
+
+Área de Combate
+Aquí es donde se reúne la flor y nata de los Entrenadores procedentes de todas partes del mundo. ¿Quieres acceder al Área de Combate?
+Perfil
+Hay un cuestionario listo para ti. ¿Te gustaría responder unas cuantas preguntas para añadir la información a tu perfil?
+Configuración de PSS
+Utiliza esta opción para cambiar los ajustes de la comunicación del PSS. ¿Deseas comprobar la configuración actual?
+Holomisor
+¡Tienes un mensaje nuevo! ¿Quieres activar el Holomisor para verlo?
+Intercambio prodigioso
+Intercambia Pokémon con un jugador de cualquier lugar del mundo. No sabrás qué Pokémon te tocará hasta que lo recibas. ¿Te gustaría probar fortuna?
+
+
+
+
+
+
+
+
+
+
+
+¿Deseas eliminar a <var> de tu lista de conocidos?
+Se ha eliminado a <var> de tu lista de conocidos.
+
+
+Combate
+Intercambio
+Área de Combate
+Perfil
+Favoritos
+Saludo
+GTS
+Poder O
+Holomisor
+Sincronizar Juego
+Intercambio prodigioso
+Configuración de PSS
+Chat de voz
+Vídeo de presentación
+¡Qué chulo!
+Felicidades
+¡Tu amigoa <var> te ha felicitado por tu cumpleaños!
+¡<var>, de la lista de conocidos, te ha felicitado por tu cumpleaños!
+¡<var>, de la lista de transeúntes, te ha felicitado por tu cumpleaños!
+Tu amigoa <var> te ha dicho: "¡Qué chulo!".
+<var>, de la lista de conocidos, te ha dicho: "¡Qué chulo!".
+<var>, de la lista de transeúntes, te ha dicho: "¡Qué chulo!".
+
+Configuración de PSS
+Configurar permisos de conexión
+
+Desactivar la conexión del PSS
+Mostrar vídeo de presentación: Sí
+Mostrar vídeo de presentación: No
+Chat de voz: Activado
+Chat de voz: Desactivado
+Toca las opciones para decidir con qué categoría de usuarios quieres jugar.
+¿Deseas recibir solicitudes de tus amigos?
+¿Deseas dejar de recibir solicitudes de tus amigos?
+¿Deseas recibir solicitudes de jugadores en la lista de conocidos?
+¿Deseas dejar de recibir solicitudes de jugadores en la lista de conocidos?
+¿Deseas recibir solicitudes de jugadores en la lista de transeúntes?
+¿Deseas dejar de recibir solicitudes de jugadores en la lista de transeúntes?
+Si desactivas la conexión del PSS, no podrás utilizar esta función para jugar con los demás. ¿Seguro que quieres desactivarla?
+Se ha desactivado la conexión del PSS. La comunicación inalámbrica de la consola Nintendo 3DS está ahora activa.
+Reactivar la conexión del PSS
+¿Quieres mostrar tu vídeo de presentación a los demás jugadores?
+Sí
+No
+El chat de voz te permite hablar con jugadores que se encuentren lejos. ¿Quieres activarlo?
+Sí
+No
+¿Quieres activar el chat de voz mientras juegas con esta persona?
+¿Quieres desactivar el chat de voz mientras juegas con esta persona?
+El control parental no permite cambiar la configuración del chat de voz.
+Le has dicho "¡Qué chulo!" a <var>.
+Le has dicho "¡Felicidades!" a <var>.
+La conexión inalámbrica está desactivada.
+¿Quieres utilizar el chat de voz?
+¿Deseas activar el chat de voz cuando un amigo acepte tu solicitud?
+El chat de voz se desactivará, ya que el otro jugador no puede utilizarlo.
+El control parental no permite conectarse a internet.
+(?)
+Introduce el código de seguridad para desactivar el control parental.
+Ajusta la protección de privacidad en línea para los menores mediante las opciones de control parental en la configuración de la consola.
+
+El código de seguridad es incorrecto. No puedes utilizar el chat de voz.

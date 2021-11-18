@@ -1,0 +1,345 @@
+Amis
+Copains
+Passants
+
+Choisir les règles
+Laisser le partenaire choisir les règles
+Vous avez changé de console. Votre liste de contacts a été mise à jour !
+<var>
+<var>...
+<var>
+Combattre avec quelqu'un à côté de vous
+Combattre avec quelqu'un à proximité
+Combattre avec quelqu'un loin de vous
+Échanger avec quelqu'un à côté de vous
+Échanger avec quelqu'un à proximité
+Échanger avec quelqu'un loin de vous
+Via infrarouge
+Mode sans fil local
+Internet
+
+
+Oui
+Non
+
+Partagez votre joie avec les autres joueurs !
+Vous diffusez le message suivant : « <var> »
+Voulez-vous modifier votre message ? « <var> »
+Veuillez patienter.
+Quand votre partenaire sera prêt, orientez vos ports infrarouges l'un vers l'autre !
+Votre partenaire ne veut pas faire la même chose que vous…
+L'un de vous doit choisir les règles du combat !
+Veuillez éloigner les ports infrarouges des consoles et patienter quelques instants.
+
+
+
+
+
+Il y a déjà trop de joueurs. Vous ne pouvez pas les rejoindre.
+
+Qui voulez-vous choisir ?
+
+Inviter vos amis ou vos copains
+
+
+Voulez-vous inviter ces joueurs ?
+Vous invitez votre amie <var> à se battre !
+Vous invitez votre copainine <var> à se battre !
+Vous invitez <var>, une passante, à se battre !
+Recherche d'un adversaire !
+Annuler le combat ?
+Rencontre avec <var> !
+Voulez-vous proposer un Combat Solo avec règles normales ?
+Voulez-vous proposer un Combat Solo avec règles strictes ?
+Voulez-vous proposer un Combat Solo avec règles « Tout est permis » ?
+Voulez-vous proposer un Combat Duo avec règles normales ?
+Voulez-vous proposer un Combat Duo avec règles strictes ?
+Voulez-vous proposer un Combat Duo avec règles « Tout est permis » ?
+Voulez-vous proposer un Combat Trio avec règles normales ?
+Voulez-vous proposer un Combat Trio avec règles strictes ?
+Voulez-vous proposer un Combat Trio avec règles « Tout est permis » ?
+Voulez-vous proposer un Combat Rotatif avec règles normales ?
+Voulez-vous proposer un Combat Rotatif avec règles strictes ?
+Voulez-vous proposer un Combat Rotatif avec règles « Tout est permis » ?
+
+
+
+Votre amie <var> utilise son <var> sur vous !
+Votre copainine <var> utilise son <var> sur vous !
+<var>, une passante, utilise son <var> sur vous !
+Vous utilisez une <var> !
+Vous utilisez l'<var> de <var> !
+
+Voulez-vous l'utiliser sur <var> ?
+Le niveau de l'<var> a augmenté !
+<var> peut maintenant utiliser l'<var> !
+Voulez-vous recevoir l'O-Aura de <var> ?
+Définissez les paramètres du combat.
+Combat
+Nombre de participants
+Combat à deux
+Combat à quatre
+Type de combat
+Combat Solo
+Combat Duo
+Combat Trio
+Combat Rotatif
+Combat Multi
+Règles
+Règles normales
+Règles strictes
+Tout est permis
+
+Avec handicap
+Sans handicap
+OK !
+
+
+
+
+Votre amie <var> vous propose un combat !
+Votre copainine <var> vous propose un combat !
+<var>, une passante, vous propose un combat !
+Le combat suivra ces règles ! Les acceptez-vous ?
+Un problème est survenu. Fin de la rencontre.
+Vous ne remplissez pas les conditions. Impossible de participer.
+
+
+Faisons un Combat Solo ! (Règles normales)
+Faisons un Combat Solo ! (Règles strictes)
+Faisons un Combat Solo ! (Règles « Tout est permis »)
+Faisons un Combat Duo ! (Règles normales)
+Faisons un Combat Duo ! (Règles strictes)
+Faisons un Combat Duo ! (Règles « Tout est permis »)
+Faisons un Combat Trio ! (Règles normales)
+Faisons un Combat Trio ! (Règles strictes)
+Faisons un Combat Trio ! (Règles « Tout est permis »)
+Faisons un Combat Rotatif ! (Règles normales)
+Faisons un Combat Rotatif ! (Règles strictes)
+Faisons un Combat Rotatif ! (Règles « Tout est permis »)
+Faisons un Combat Multi ! (Règles strictes)
+Faisons un Combat Multi ! (Règles normales)
+Faisons un Combat Multi ! (Règles « Tout est permis »)
+En cours… Veuillez patienter.
+
+<var> cherche des joueurs !
+Qui veut faire un Combat Multi ?
+
+<var>
+: meneur
+: invité
+: en attente
+Nombre de Pokémon
+: Sans restrictions
+: 2 ou plus
+: 3 ou plus
+
+: 3
+: 4
+: 6
+: De 1 à 3
+Niveau des Pokémon
+: Tous à 50
+: 50 ou moins
+: Sans restrictions
+Pokémon spéciaux
+: Autorisés
+: Interdits
+Objets tenus identiques
+: Autorisés
+: Interdits
+Pokémon identiques
+: Autorisés
+: Interdits
+Handicap
+: Avec
+: Sans
+
+
+Vous proposez un échange à votre amie <var> !
+Vous proposez un échange à votre copainine <var> !
+Vous proposez un échange à <var>, une passante !
+Recherche d'un partenaire d'échange…
+Annuler l'échange ?
+
+
+Voulez-vous faire un échange ?
+
+
+Vous devez posséder au moins deux Pokémon pour faire un échange !
+Échange impossible : votre équipe et vos Boîtes PC sont pleines !
+Au moins un de vos Pokémon ne peut pas être sélectionné.
+Votre partenaire ne peut pas continuer. Fin de la session d'échange.
+Votre amie <var> vous propose un échange !
+Votre copainine <var> vous propose un échange !
+<var>, une passante, vous propose un échange !
+<var> veut faire un échange !
+Échangeons des Pokémon !
+Rencontre avec <var> !
+Voulez-vous l'inviter à un chat vocal ?
+Vous proposez un chat vocal à votre amie <var>.
+
+
+Voulez-vous retirer la proposition de chat vocal ?
+
+Chat vocal en cours avec <var> !
+Voulez-vous mettre fin au chat vocal ?
+Fin du chat vocal.
+<var> a mis fin au chat vocal.
+<var> vous invite à un chat vocal !
+Je t'invite à un chat vocal !
+En cours… Veuillez patienter.
+Votre partenaire ne peut pas continuer. Arrêt du chat vocal.
+<var> diffuse sa Vidéo Dresseur !
+Voulez-vous voir sa Vidéo Dresseur ?
+En attente de la Vidéo Dresseur de votre amie <var>…
+En attente de la Vidéo Dresseur de votre copainine <var>…
+En attente de la Vidéo Dresseur de <var>, une passante…
+Voulez-vous annuler la requête de Vidéo Dresseur ?
+
+
+L'autre joueur ne peut pas continuer.
+Votre amie <var> veut regarder votre Vidéo Dresseur !
+Votre copainine <var> veut regarder votre Vidéo Dresseur !
+<var>, une passante, veut regarder votre Vidéo Dresseur !
+Voulez-vous montrer votre Vidéo Dresseur ?
+Votre Vidéo Dresseur a été envoyée !
+L'autre joueur ne peut pas continuer.
+<var> utilise une O-Aura !
+Utiliser une O-Aura !
+Recevoir l'O-Aura !
+Ignorer
+Vous n'avez pas de Pokémon. Vous ne pouvez pas utiliser l'O-Aura.
+<var>
+Voulez-vous enregistrer <var> dans vos favoris ?
+Enregistrement impossible. Il n'y a plus de place dans vos favoris !
+Voulez-vous effacer <var> de vos favoris ?
+Dresseurs favoris : <var>/100
+Aucun Dresseur dans votre liste de favoris. Pour en ajouter un, enregistrez son profil !
+Batterie faible
+Attention, batterie faible !
+Rencontrer d'autres joueurs
+Connectez-vous à Internet ou rendez-vous dans des endroits où beaucoup de monde se croise pour rencontrer d'autres joueurs !
+Choisir un joueur
+Touchez l'icône d'un joueur pour jouer avec lui ! Si vous croisez quelqu'un d'intéressant, touchez son icône !
+Amis
+Les « amis » sont les joueurs enregistrés dans la liste d'amis de votre console Nintendo 3DS. S'ils sont connectés, profitez-en pour jouer avec eux !
+Copains
+Les « copains » sont les joueurs avec qui vous avez joué. N'hésitez pas à jouer encore avec eux, et vous pourrez les ajouter à votre liste d'amis !
+Passants
+Les « passants » sont des gens connectés au jeu depuis n'importe où dans le monde. Jouez avec eux et vous pourrez en faire des « copains » !
+Choisir ce que vous voulez faire
+Touchez une icône dans le menu pour choisir ce que vous voulez faire, par exemple un combat ou un échange.
+Échange Link
+Grâce aux fonctions de communication, vous pourrez échanger des Pokémon avec un grand nombre de joueurs ! Voulez-vous faire un Échange Link ?
+Combat Link
+Grâce aux fonctions de communication, vous pourrez faire des combats de Pokémon avec un grand nombre de joueurs ! Voulez-vous faire un Combat Link ?
+Chat vocal
+Grâce à cette option, vous pourrez utiliser le chat vocal pour discuter avec vos amis connectés, tout en faisant des échanges ou des combats !
+GTS
+Grâce à cette option, vous pourrez échanger des Pokémon avec des gens du monde entier ! Voulez-vous utiliser la GTS ?
+Vidéo Dresseur
+Touchez l'icône d'un joueur pour voir sa Vidéo Dresseur !
+
+
+O-Aura
+Une O-Aura est disponible ! Voulez-vous utiliser ce pouvoir, fort utile dans votre aventure, sur vous ou sur un autre joueur ?
+Favoris
+Vous pouvez enregistrer jusqu'à 100 profils de Dresseurs dans vos favoris ! Voulez-vous consulter votre liste ?
+Salutation
+Si vous avez un coup de chance, ou que quelque chose vous remplit de joie, touchez le symbole « Salutation » pour rendre votre bonheur public !
+Jouer sur Internet
+Grâce à cette option, vous pourrez jouer avec des personnes du monde entier ! Voulez-vous vous connecter à Internet ?
+Synchro-Jeu
+Permet d'utiliser le Pokémon Global Link en se connectant à Internet. Voulez-vous utiliser la Synchro-Jeu ?
+
+
+
+
+Coin combats
+C'est là que les joueurs les plus puissants du monde entier se rassemblent. Voulez-vous relever le défi du coin combats ?
+Profil
+Il y a un questionnaire rien que pour vous ! Voulez-vous y répondre pour enrichir votre profil ?
+Réglages PSS
+Permet de changer les réglages du PSS. Voulez-vous les vérifier ?
+Holokit
+Vous avez un nouveau message ! Voulez-vous consulter votre Holokit ?
+Échange miracle
+Permet d'échanger vos Pokémon avec n'importe qui dans le monde ! Impossible de savoir quel Pokémon est envoyé avant de l'avoir reçu ! Voulez-vous tenter votre chance ?
+
+
+
+
+
+
+
+
+
+
+
+Voulez-vous effacer <var> de votre liste de copains ?
+<var> n'est plus dans votre liste de copains.
+
+
+Combat
+Échange
+Coin combats
+Profil
+Favoris
+Salutation
+GTS
+O-Aura
+Holokit
+Synchro-Jeu
+Échange miracle
+Réglages PSS
+Chat vocal
+Vidéo Dresseur
+Bravo !
+Bon anniv' !
+Votre amie <var> vous a souhaité un bon anniversaire !
+Votre copainine <var> vous a souhaité un bon anniversaire !
+<var>, une passante, vous a souhaité un bon anniversaire !
+Votre amie <var> vous a dit « Bravo » !
+Votre copainine <var> vous a dit « Bravo » !
+<var>, une passante, vous a dit « Bravo » !
+
+Réglages PSS
+Requêtes de connexion acceptées
+
+Fermer la connexion au PSS
+Vidéo Dresseur : Publique
+Vidéo Dresseur : Privée
+Chat vocal : Activé
+Chat vocal : Désactivé
+Permet de sélectionner qui pourra vous envoyer des invitations.
+Voulez-vous activer cette fonction ? Vous pourrez recevoir des invitations de vos amis.
+Voulez-vous désactiver cette fonction ? Vous ne recevrez plus d'invitations de vos amis.
+Voulez-vous activer cette fonction ? Vous pourrez recevoir des invitations de vos copains.
+Voulez-vous désactiver cette fonction ? Vous ne recevrez plus d'invitations de vos copains.
+Voulez-vous activer cette fonction ? Vous pourrez recevoir des invitations des passants.
+Voulez-vous désactiver cette fonction ? Vous ne recevrez plus d'invitations des passants.
+Le PSS va être déconnecté. Vous ne pourrez pas l'utiliser s'il est déconnecté. Confirmer ?
+PSS déconnecté. Les fonctions de communication de la console Nintendo 3DS sont activées.
+Rétablir la connexion au PSS
+Choisissez si vous voulez rendre publique votre Vidéo Dresseur, ou si vous préférez la garder privée.
+Publique
+Privée
+Le chat vocal vous permet de converser avec d'autres joueurs. Voulez-vous activer le chat vocal ?
+Activer le chat vocal
+Désactiver le chat vocal
+Voulez-vous activer le chat vocal lorsque vous jouez avec cette personne ?
+Voulez-vous désactiver le chat vocal lorsque vous jouez avec cette personne ?
+Contrôle parental actif : vous ne pouvez pas changer les paramètres du chat vocal.
+Vous avez dit « Bravo ! » à <var>.
+Vous avez dit « Bon anniv' ! » à <var>.
+La communication sans fil est désactivée.
+Voulez-vous commencer un chat vocal ?
+Voulez-vous activer le chat vocal si un ami répond ?
+Les paramètres de la console de l'autre joueur empêchent l'activation du chat vocal.
+Contrôle parental actif : vous ne pouvez pas vous connecter à Internet.
+???
+Pour désactiver le contrôle parental, veuillez saisir le code secret.
+Veuillez paramétrer la protection de la vie privée des enfants en ligne dans le contrôle parental.
+
+Le code secret est erroné. Impossible d'utiliser le chat vocal.
