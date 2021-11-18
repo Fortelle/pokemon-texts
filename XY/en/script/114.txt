@@ -1,0 +1,21 @@
+Good morning! I have a delivery from the Pokémon Global Link for you.
+Hello! I have a delivery from the Pokémon Global Link for you.
+Good evening! I have a delivery from the Pokémon Global Link for you.
+I don't have any deliveries from the Pokémon Global Link for you right now. Please check back later!
+Hmmm... It looks like your Bag is full. Please come back after you've made some room.
+I'll be waiting right here for you to come pick up your delivery.
+It looks like your Bag is full, so I can't give you the rest of your delivery. Please come back after you've made some room.
+<var> received a delivery of <var> items!
+
+Here are the contents of your delivery.
+<var>: <var> <var>: <var>
+<var>: <var>
+That's all for this delivery, a total of <var> items.
+I have a delivery of <var> items for you! Would you like to see the contents of this delivery?
+
+
+Receive
+Check
+Cancel
+Yes
+No

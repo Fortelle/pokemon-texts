@@ -1,0 +1,83 @@
+PP
+Lv.
+NEXT LV.
+HP
+ATTACK
+DEFENSE
+SP. ATK
+SP. DEF
+SPEED
+♂
+♀
+
+SUMMARY
+CHECK MOVES
+CATEGORY
+POWER
+ACCURACY
+STATUS
+PHYSICAL
+SPECIAL
+Choose a Pokémon.
+Use on which Pokémon?
+Battle using which Pokémon?
+SWITCH
+IN BATTLE
+CANNOT BATTLE
+PARTNER'S
+RESTORE
+SUMMARY
+CHECK MOVES
+<var> is already in battle!
+<var> has no energy left to battle!
+An Egg can't battle!
+You cannot decide for your partner!
+<var> can't be switched out!
+RESTORE HP/PP
+RESTORE STATUS
+Restore which move?
+
+
+HP/PP RESTORE
+STATUS RESTORE
+
+POKÉ BALLS
+BATTLE ITEMS
+LAST USED ITEM
+USE
+
+It's no good! It's impossible to aim unless there is only one Pokémon!
+There is no room left in the PC!
+It's no good! It's impossible to aim at a Pokémon that's not in sight!
+It's impossible to aim without being focused!
+<var>'s effect prevents the item's use on <var>!
+YES
+NO
+USE NEXT POKÉMON
+RUN
+FORGET
+KEEP OLD MOVES!
+SWITCH POKÉMON
+KEEP BATTLING
+Use it where?
+Restore which move?
+It won't have any effect.
+HM moves can't be forgotten now.
+QUIT
+
+
+
+
+<var>
+×
+/
+/
+L
+Right
+Left
+Center
+<var>
+-
+Standing by
+<var> has already been selected.
+Sycamore's words echoed... There's a time and place for everything, but not now.
