@@ -1,0 +1,30 @@
+Décorer la Base Secrète
+Choix des décos
+Placez des décos pour personnaliser votre Base Secrète.
+ : Déplacer le curseur
+ : Choisir l'endroit
+ : Choisir la déco
+ : Arrêter de décorer
+ : Ouvrir la liste des décos
+ : Déplacer la déco
+ : Poser la déco
+ : Réinitialiser la position
+ : Revenir à la liste des décos
+ : Ranger la déco
+ : Faire pivoter la déco
+Place restante :
+<var>
+Vous ne pouvez pas poser cela ici !
+Votre Base Secrète vous plaît-elle ainsi ?
+Oui
+Non
+Choisissez la catégorie des décos.
+<var>
+Impossible de ranger le marqueur « Vous Êtes Ici » !
+Impossible de ranger une déco qu'un Ami Secret utilise !
+Vous ne pouvez placer qu'une seule source de lumière !
+Vous ne pouvez pas poser davantage de décos !
+Vous n'avez pas de déco à poser !
+Vous ne pouvez pas faire pivoter cette déco !
+Cette déco ne peut être posée que sur une cloison !
+x <var>

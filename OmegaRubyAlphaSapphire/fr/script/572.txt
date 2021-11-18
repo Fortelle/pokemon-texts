@@ -1,0 +1,115 @@
+Dis, dis ! C'est la première fois que tu viens ici, non ? Ce n'est pas une cafét' comme les autres. Même pour déjeuner, il y a des règles à respecter. Mais rassure-toi, je suis un habitué et je vais tout t'expliquer.
+Règle numéro 1 ! Il faut commander au comptoir ! Tu fais ton choix entre les trois plats, puis le personnel te remet une alarme. Règle numéro 2 ! On s'assied et on patiente ! Il y a plus ou moins d'attente en fonction du plat choisi. Bref, tu repères un siège vide et tu t'assieds en attendant que ton repas soit prêt ! Attention, c'est ici que ça se corse ! Pendant que tu attends, d'autres Dresseurs vont venir te défier pour essayer de te voler ta place ! Si tu veux pouvoir manger, il te faudra gagner ! Règle numéro 3 ! Bon appétit ! Quand l'alarme sonne, tu dois aller chercher ton repas au comptoir. Ensuite, il ne te reste plus qu'à manger. Alors, ça va ? Pas trop compliqué ?
+Et si tu commandais quelque chose pour essayer ? Comme c'est ta première fois, je te conseille le Sandwich du Hameau. C'est le produit phare d'une nouvelle chaîne de fast-foods qui vient d'Unys. Leur menu est assez léger, les gamins qui sont fans de Combat Solo adorent.
+Allez, bye ! Profite bien de la Cantine Lavandia !
+Oh, c'est toi ? Tu tombes bien ! J'avais justement un truc à te dire !
+Maintenant que l'effet de mode est passé, plus besoin de faire la queue pour déguster un Magné-Beignet. C'est la spécialité de Lavandia. La pâte contient un mélange de graines. On la cuit dans un moule bien chaud, et quand les beignets sont bien gonflés, on les nappe d'une sauce spéciale de Johto. Les couples et les jeunes qui aiment les Combats Duo adorent.
+Tu devrais essayer ! Allez, à plus !
+Oh, c'est toi ? Tu tombes bien ! J'ai justement un truc à te dire !
+Comme les amateurs se sont un peu calmés, on peut enfin déguster des Nouilles Lavandia sans faire la queue. Imagine des nouilles aussi douces qu'un bisou de Rondoudou, dans un bouillon doré comme le soleil, avec une pile d'assaisonnements aussi haute que le Mont Chimnée. Les fanas de Combat Trio ne peuvent pas résister à cette spécialité de Lavandia. C'est LE plat légendaire qui a fait la réputation de la Cantine Lavandia.
+Ça donne envie d'y goûter, non ? Mais ne mange pas des Nouilles Lavandia qui veut. Il faut être prêt à tout ! À plus !
+J'ai perdu… J'ai perdu ma chaise… Je ne me suis jamais senti chez moi… Ni à la maison ni à l'école… Cette chaise, c'était mon royaume à moi, et j'ai tout fait pour le défendre. C'est comme ça que je suis devenu le Roi de la Cafét'… Mais ça ne m'intéresse plus… Je peux la laisser, maintenant… Depuis que tu m'as battu, j'ai compris qu'un royaume, ça ne se défend pas, ça se construit.
+Je te nomme Roi de la Cafét', deuxième du nom ! Tu l'as bien mérité. Quant à moi, je vais aller me construire un royaume…
+Je te nomme Reine de la Cafét', première du nom. Tu l'as bien mérité. Quant à moi, je vais aller me construire un royaume…
+Deuxième roi de la Cafét', je te confie la Cantine Lavandia. J'espère qu'on se croisera à nouveau. Bye bye !
+L'alarme sonne ! Allez chercher votre repas.
+Un menu Sandwich du Hameau ? Ce sera <var> $, s'il vous plaît.
+Composé d'un sandwich aux Baies accompagné de Baies grillées, le menu Sandwich du Hameau est idéal pour les petites faims. Nous le recommandons également aux enfants qui découvrent le Combat Solo.
+J'ai bien noté votre commande. Tenez, prenez cette alarme. Votre repas sera prêt dans <var> tours. Allez donc vous asseoir, en attendant.
+C'est embarrassant d'avoir à vous le signaler, mais vous n'avez pas assez d'argent.
+Je suis désolé, mais ce plat est réservé aux Dresseurs qui sont accompagnés par au moins <var> Pokémon.
+Merci de votre patience ! Votre menu Sandwich du Hameau est servi.
+Vous arrivez pile au bon moment ! Ça sort tout juste du four. Régalez-vous ! Et je vous rajoute ça. Pas de façons, c'est la maison qui invite !
+C'est vraiment dommage, le pain est légèrement brûlé. J'espère que ça ne se sentira pas trop au goût.
+Trop tard ! Acceptez nos excuses, mais nous avons écoulé tout notre stock pour aujourd'hui.
+Très bien. Revenez quand vous voudrez.
+Hé, pour qui tu te prends ?! Cette chaise, je l'ai vue en premier !
+Je n'ai plus qu'à me trouver une autre chaise…
+Si tu veux cette chaise, il te faudra la gagner ! Du moins, si tu veux avoir le privilège de manger !
+Le privilège de manger vient de me passer sous le nez…
+C'est cette chaise qu'il me faut, et pas une autre ! Si tu ne me cèdes pas la place, je vais devoir avoir recours à la force !
+Dommage… J'aurais bien voulu m'asseoir.
+Pousse-toi de MA place ! Si tu n'es pas contente, bats-toi !
+Je ne peux rien contre toi. Je vais essayer ailleurs.
+Il me semble que vous vous êtes assise à MA place par mégarde. Si vous ne revenez pas très vite à la raison, je me verrai contrainte d'ordonner à mes Fées de vous lancer une terrible malédiction.
+Malotrue ! Vous avez égratigné ma chaise !
+Aimeriez-vous un Magné-Beignet ? Ça coûte <var> $.
+Comme leur nom l'indique, les Magné-Beignets sont tout ronds, comme Magnéti ! Ils sont très populaires auprès des jeunes couples qui aiment les Combats Duo et veulent se faire plaisir sans pour autant se ruiner !
+Et un Magné-Beignet, un ! Tenez, prenez cette alarme. Votre beignet sera cuit dans <var> tours. Allez donc vous asseoir, en attendant.
+C'est une blague, j'espère ! Vous n'avez pas assez d'argent.
+Désolé, mais pour commander un Magné-Beignet, vous devez être accompagnée d'au moins <var> Pokémon.
+Et voilà ! J'espère que vous n'avez pas trop attendu ! Un Magné-Beignet bien croustillant !
+Vous arrivez au bon moment ! Les beignets sortent tout juste du four ! Allez, prenez ça en plus, ça me fait plaisir de vous l'offrir.
+Vu l'heure à laquelle vous arrivez, il a un peu refroidi…
+Le problème, c'est qu'aujourd'hui, on a déjà tout vendu. Revenez nous voir demain…
+Ah bon ? À la prochaine, alors !
+C'est ma place, ici. Si cela ne te convient pas, dégaine tes Poké Balls !
+Je te laisse ma place pour aujourd'hui. Mais la prochaine fois, tu ne gagneras pas !
+Hé ho ! Pousse-toi de là ! Cette chaise est à moi !
+Hé ho ! Tu te débrouilles bien ! Je rentre chez moi pour aujourd'hui.
+Non mais… tu te prends pour qui, au juste ? Ça va, t'es à l'aise sur MA chaise ?
+Non mais… tu te prends pour qui ? À cause de toi, mon Magné-Beignet va être froid !
+Je pense qu'il y a une légère confusion. Ce n'est pas parce que cette chaise est vide que vous êtes libre de vous y asseoir.
+Comment osez-vous me battre ! Ne seriez-vous pas… lea légendaire…
+Quel culot !
+Pfff… De toute façon, je n'ai même pas faim.
+Un plat a encore plus de saveur quand on le déguste assis sur une chaise volée.
+Chauffe la place pour moi. Je reviendrai la réclamer.
+Des Nouilles Lavandia ? C'est <var> $ le bol.
+Ici, on ne prépare QUE des Nouilles Lavandia. Je ne sais pas pourquoi, ça attire les adeptes du Combat Trio.
+Tiens, prends cette alarme. Tes nouilles seront prêtes dans <var> tours. Assieds-toi bien gentiment, en attendant.
+Le compte n'y est pas, petite.
+Si tu veux goûter à mes nouilles, il va te falloir au moins <var> Pokémon !
+Tiens, ton bol de Nouilles Lavandia !
+Eh bien… Attends… Tu n'es pas comme tout le monde… Tiens, prends ça !
+Je ne m'attendais pas à ce que tu le battes ET à ce que tu arrives à temps pour tes nouilles !
+Elles sont trop cuites, fallait pas tant traîner.
+On n'a plus de nouilles, désolé. Faudra repasser demain.
+Grrr…
+Hé, minusgamine ! Si j'étais toi, je m'éloignerais de cette chaise…
+Tu sais pas à qui tu as affaire… Ici, c'est le territoire du Roi de la Cafét'.
+J'ai du mal à croire qu'une minus comme toi ait vaincu mon collègue !
+Grrr… Les mioches ne sont plus ce qu'ils étaient. Les temps sont durs, comme les œufs dans mes nouilles !
+Ha ha ! La chance me sourit enfin ! À moi cette chaise ! À moi les Nouilles Lavandia bien chaudes !
+Noooon ! Il faut que je trouve un autre siège fissa ou mes nouilles vont refroidir !
+Mon chef m'a prêté son équipe juste pour aujourd'hui ! Il est hors de question que je perde ! Cette chaise est à MOI !!!
+L'équipe de mon chef ! Vaincue ! Mais… qui es-tu, au juste ?
+J'ai pas pour habitude d'affronter les mioches. Allez, va jouer plus loin.
+Quelle force pour une mioche ! Se pourrait-il que tu sois…
+Prépare-toi au pire !
+Le chef ne m'avait pas préparé à ça ! Comment as-tu fait ?
+Ha ha ! Enfin un adversaire à ma hauteur !
+Rien à faire. T'es vraiment trop forte.
+J'étais sûr que tu allais gagner. Depuis notre première rencontre, j'ai su qu'un beau jour, on se retrouverait ainsi face à face. Mais tu n'aurais jamais dû t'asseoir sur cette chaise. Seul le Roi de la Cafét' peut s'attabler ici… et le Roi de la Cafét', c'est moi ! Il est temps de te montrer de quel bois je me chauffe ! Je me demande bien ce qui sera cuit en premier : tes nouilles ou toi ?
+Prépare-toi à bouger tes fesses de là !
+Hu hu hu…
+Le titre de Roi et cette chaise sont à MOI !
+Grrrr… Je n'abandonnerai jamais ! Nous nous retrouverons !
+Commander
+Explications
+Annuler
+Les sandwiches d'Unys sont mes préférés, et ceux de mes Pokémon.
+Baies acidulées et pain bien moelleux, ça chatouille les papilles ! ♪
+Super ! Aujourd'hui, j'ai réussi à m'asseoir ! J'ai bien fait d'emprunter les Pokémon de papa.
+Tu savais qu'il y a un Roi, ici ?
+Miam miam miam ! C'est trop boooooon !
+Beurk, cette Baie est un peu trop acide à mon goût. Je vais la donner à mon Pokémon.
+Ici, c'est la Cantine Lavandia, mais on l'appelle aussi « Cafét' de Combat », vu que les Dresseurs sont obligés de se battre pour un siège.
+J'espère que mon alarme ne va pas trop tarder à sonner. Comme ça, je pourrais manger sans avoir à me battre.
+Je ne sais pas ce qu'il y a dans cette sauce, mais elle déchire !
+Je vais te raconter un petit secret. Chaque plat met un certain temps à être préparé. Mieux vaut arriver juste au bon moment.
+Ils ne font pas de plats à emporter ? J'aurais bien voulu en faire profiter les Pokémon qui sont restés chez moi.
+Autant se presser de tout avaler tant qu'IL n'est pas là.
+Slurp slurp ! Mmmmm… C'est trop bon.
+Tu connais Glacia, du Conseil 4 ? Je l'ai déjà croisée ici. J'ai rarement vu quelqu'un manger des nouilles aussi vite. Elle doit aimer les plats épicés.
+À mon avis, ça ne sert plus à rien de faire la queue, il ne doit pas leur rester grand-chose à cette heure-ci.
+Ça fait trois heures que je fais la queue, j'espère que je n'attends pas pour rien.
+Hé ! Fais la queue comme tout le monde !
+Je ne sens plus mes jambes… À mon âge, on ne peut pas rester debout à attendre si longtemps.
+Tu as remarqué que les plats sont protégés par une cloche ? Le patron trouve que ça fait chic, du coup, il les importe de Kalos.
+<var> regarde son alarme. Le repas sera prêt dans <var> tours.
+Gnom, gnom… Ils ont eu la main lourde sur le sel, aujourd'hui !
+Voyons voir… Qu'est-ce que je vais bien pouvoir manger aujourd'hui ?
+Il y a un écriteau sur lequel on peut lire : « Porte de service, entrée interdite aux visiteurs. »
+Les clients peuvent déposer leur vaisselle ici quand ils ont fini de manger !
+Une nouvelle reine est née ! Je te confie la Cantine Lavandia ! Nous nous reverrons peut-être sur la longue route de la bonne cuisine… Sur ce, à la revoyure !
