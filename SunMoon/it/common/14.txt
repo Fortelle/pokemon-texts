@@ -1,0 +1,2880 @@
+!
+!
+!
+!
+<var> usa Botta Z!
+<var> selvatico usa Botta Z!
+<var> nemico usa Botta Z!
+<var> dominante usa Botta Z!
+<var> usa Colpokarate Z!
+<var> selvatico usa Colpokarate Z!
+<var> nemico usa Colpokarate Z!
+<var> dominante usa Colpokarate Z!
+<var> usa Doppiasberla Z!
+<var> selvatico usa Doppiasberla Z!
+<var> nemico usa Doppiasberla Z!
+<var> dominante usa Doppiasberla Z!
+<var> usa Cometapugno Z!
+<var> selvatico usa Cometapugno Z!
+<var> nemico usa Cometapugno Z!
+<var> dominante usa Cometapugno Z!
+<var> usa Megapugno Z!
+<var> selvatico usa Megapugno Z!
+<var> nemico usa Megapugno Z!
+<var> dominante usa Megapugno Z!
+<var> usa Giornopaga Z!
+<var> selvatico usa Giornopaga Z!
+<var> nemico usa Giornopaga Z!
+<var> dominante usa Giornopaga Z!
+<var> usa Fuocopugno Z!
+<var> selvatico usa Fuocopugno Z!
+<var> nemico usa Fuocopugno Z!
+<var> dominante usa Fuocopugno Z!
+<var> usa Gelopugno Z!
+<var> selvatico usa Gelopugno Z!
+<var> nemico usa Gelopugno Z!
+<var> dominante usa Gelopugno Z!
+<var> usa Tuonopugno Z!
+<var> selvatico usa Tuonopugno Z!
+<var> nemico usa Tuonopugno Z!
+<var> dominante usa Tuonopugno Z!
+<var> usa Graffio Z!
+<var> selvatico usa Graffio Z!
+<var> nemico usa Graffio Z!
+<var> dominante usa Graffio Z!
+<var> usa Presa Z!
+<var> selvatico usa Presa Z!
+<var> nemico usa Presa Z!
+<var> dominante usa Presa Z!
+<var> usa Ghigliottina Z!
+<var> selvatico usa Ghigliottina Z!
+<var> nemico usa Ghigliottina Z!
+<var> dominante usa Ghigliottina Z!
+<var> usa Ventagliente Z!
+<var> selvatico usa Ventagliente Z!
+<var> nemico usa Ventagliente Z!
+<var> dominante usa Ventagliente Z!
+<var> usa Danzaspada Z!
+<var> selvatico usa Danzaspada Z!
+<var> nemico usa Danzaspada Z!
+<var> dominante usa Danzaspada Z!
+<var> usa Taglio Z!
+<var> selvatico usa Taglio Z!
+<var> nemico usa Taglio Z!
+<var> dominante usa Taglio Z!
+<var> usa Raffica Z!
+<var> selvatico usa Raffica Z!
+<var> nemico usa Raffica Z!
+<var> dominante usa Raffica Z!
+<var> usa Attacco d'Ala Z!
+<var> selvatico usa Attacco d'Ala Z!
+<var> nemico usa Attacco d'Ala Z!
+<var> dominante usa Attacco d'Ala Z!
+<var> usa Turbine Z!
+<var> selvatico usa Turbine Z!
+<var> nemico usa Turbine Z!
+<var> dominante usa Turbine Z!
+<var> usa Volo Z!
+<var> selvatico usa Volo Z!
+<var> nemico usa Volo Z!
+<var> dominante usa Volo Z!
+<var> usa Legatutto Z!
+<var> selvatico usa Legatutto Z!
+<var> nemico usa Legatutto Z!
+<var> dominante usa Legatutto Z!
+<var> usa Schianto Z!
+<var> selvatico usa Schianto Z!
+<var> nemico usa Schianto Z!
+<var> dominante usa Schianto Z!
+<var> usa Frustata Z!
+<var> selvatico usa Frustata Z!
+<var> nemico usa Frustata Z!
+<var> dominante usa Frustata Z!
+<var> usa Pestone Z!
+<var> selvatico usa Pestone Z!
+<var> nemico usa Pestone Z!
+<var> dominante usa Pestone Z!
+<var> usa Doppiocalcio Z!
+<var> selvatico usa Doppiocalcio Z!
+<var> nemico usa Doppiocalcio Z!
+<var> dominante usa Doppiocalcio Z!
+<var> usa Megacalcio Z!
+<var> selvatico usa Megacalcio Z!
+<var> nemico usa Megacalcio Z!
+<var> dominante usa Megacalcio Z!
+<var> usa Calciosalto Z!
+<var> selvatico usa Calciosalto Z!
+<var> nemico usa Calciosalto Z!
+<var> dominante usa Calciosalto Z!
+<var> usa Calciorullo Z!
+<var> selvatico usa Calciorullo Z!
+<var> nemico usa Calciorullo Z!
+<var> dominante usa Calciorullo Z!
+<var> usa Turbosabbia Z!
+<var> selvatico usa Turbosabbia Z!
+<var> nemico usa Turbosabbia Z!
+<var> dominante usa Turbosabbia Z!
+<var> usa Bottintesta Z!
+<var> selvatico usa Bottintesta Z!
+<var> nemico usa Bottintesta Z!
+<var> dominante usa Bottintesta Z!
+<var> usa Incornata Z!
+<var> selvatico usa Incornata Z!
+<var> nemico usa Incornata Z!
+<var> dominante usa Incornata Z!
+<var> usa Furia Z!
+<var> selvatico usa Furia Z!
+<var> nemico usa Furia Z!
+<var> dominante usa Furia Z!
+<var> usa Perforcorno Z!
+<var> selvatico usa Perforcorno Z!
+<var> nemico usa Perforcorno Z!
+<var> dominante usa Perforcorno Z!
+<var> usa Azione Z!
+<var> selvatico usa Azione Z!
+<var> nemico usa Azione Z!
+<var> dominante usa Azione Z!
+<var> usa Corposcontro Z!
+<var> selvatico usa Corposcontro Z!
+<var> nemico usa Corposcontro Z!
+<var> dominante usa Corposcontro Z!
+<var> usa Avvolgibotta Z!
+<var> selvatico usa Avvolgibotta Z!
+<var> nemico usa Avvolgibotta Z!
+<var> dominante usa Avvolgibotta Z!
+<var> usa Riduttore Z!
+<var> selvatico usa Riduttore Z!
+<var> nemico usa Riduttore Z!
+<var> dominante usa Riduttore Z!
+<var> usa Colpo Z!
+<var> selvatico usa Colpo Z!
+<var> nemico usa Colpo Z!
+<var> dominante usa Colpo Z!
+<var> usa Sdoppiatore Z!
+<var> selvatico usa Sdoppiatore Z!
+<var> nemico usa Sdoppiatore Z!
+<var> dominante usa Sdoppiatore Z!
+<var> usa Colpocoda Z!
+<var> selvatico usa Colpocoda Z!
+<var> nemico usa Colpocoda Z!
+<var> dominante usa Colpocoda Z!
+<var> usa Velenospina Z!
+<var> selvatico usa Velenospina Z!
+<var> nemico usa Velenospina Z!
+<var> dominante usa Velenospina Z!
+<var> usa Doppio Ago Z!
+<var> selvatico usa Doppio Ago Z!
+<var> nemico usa Doppio Ago Z!
+<var> dominante usa Doppio Ago Z!
+<var> usa Missilspillo Z!
+<var> selvatico usa Missilspillo Z!
+<var> nemico usa Missilspillo Z!
+<var> dominante usa Missilspillo Z!
+<var> usa Fulmisguardo Z!
+<var> selvatico usa Fulmisguardo Z!
+<var> nemico usa Fulmisguardo Z!
+<var> dominante usa Fulmisguardo Z!
+<var> usa Morso Z!
+<var> selvatico usa Morso Z!
+<var> nemico usa Morso Z!
+<var> dominante usa Morso Z!
+<var> usa Ruggito Z!
+<var> selvatico usa Ruggito Z!
+<var> nemico usa Ruggito Z!
+<var> dominante usa Ruggito Z!
+<var> usa Boato Z!
+<var> selvatico usa Boato Z!
+<var> nemico usa Boato Z!
+<var> dominante usa Boato Z!
+<var> usa Canto Z!
+<var> selvatico usa Canto Z!
+<var> nemico usa Canto Z!
+<var> dominante usa Canto Z!
+<var> usa Supersuono Z!
+<var> selvatico usa Supersuono Z!
+<var> nemico usa Supersuono Z!
+<var> dominante usa Supersuono Z!
+<var> usa Sonicboom Z!
+<var> selvatico usa Sonicboom Z!
+<var> nemico usa Sonicboom Z!
+<var> dominante usa Sonicboom Z!
+<var> usa Inibitore Z!
+<var> selvatico usa Inibitore Z!
+<var> nemico usa Inibitore Z!
+<var> dominante usa Inibitore Z!
+<var> usa Acido Z!
+<var> selvatico usa Acido Z!
+<var> nemico usa Acido Z!
+<var> dominante usa Acido Z!
+<var> usa Braciere Z!
+<var> selvatico usa Braciere Z!
+<var> nemico usa Braciere Z!
+<var> dominante usa Braciere Z!
+<var> usa Lanciafiamme Z!
+<var> selvatico usa Lanciafiamme Z!
+<var> nemico usa Lanciafiamme Z!
+<var> dominante usa Lanciafiamme Z!
+<var> usa Nebbia Z!
+<var> selvatico usa Nebbia Z!
+<var> nemico usa Nebbia Z!
+<var> dominante usa Nebbia Z!
+<var> usa Pistolacqua Z!
+<var> selvatico usa Pistolacqua Z!
+<var> nemico usa Pistolacqua Z!
+<var> dominante usa Pistolacqua Z!
+<var> usa Idropompa Z!
+<var> selvatico usa Idropompa Z!
+<var> nemico usa Idropompa Z!
+<var> dominante usa Idropompa Z!
+<var> usa Surf Z!
+<var> selvatico usa Surf Z!
+<var> nemico usa Surf Z!
+<var> dominante usa Surf Z!
+<var> usa Geloraggio Z!
+<var> selvatico usa Geloraggio Z!
+<var> nemico usa Geloraggio Z!
+<var> dominante usa Geloraggio Z!
+<var> usa Bora Z!
+<var> selvatico usa Bora Z!
+<var> nemico usa Bora Z!
+<var> dominante usa Bora Z!
+<var> usa Psicoraggio Z!
+<var> selvatico usa Psicoraggio Z!
+<var> nemico usa Psicoraggio Z!
+<var> dominante usa Psicoraggio Z!
+<var> usa Bollaraggio Z!
+<var> selvatico usa Bollaraggio Z!
+<var> nemico usa Bollaraggio Z!
+<var> dominante usa Bollaraggio Z!
+<var> usa Raggiaurora Z!
+<var> selvatico usa Raggiaurora Z!
+<var> nemico usa Raggiaurora Z!
+<var> dominante usa Raggiaurora Z!
+<var> usa Iper Raggio Z!
+<var> selvatico usa Iper Raggio Z!
+<var> nemico usa Iper Raggio Z!
+<var> dominante usa Iper Raggio Z!
+<var> usa Beccata Z!
+<var> selvatico usa Beccata Z!
+<var> nemico usa Beccata Z!
+<var> dominante usa Beccata Z!
+<var> usa Perforbecco Z!
+<var> selvatico usa Perforbecco Z!
+<var> nemico usa Perforbecco Z!
+<var> dominante usa Perforbecco Z!
+<var> usa Sottomissione Z!
+<var> selvatico usa Sottomissione Z!
+<var> nemico usa Sottomissione Z!
+<var> dominante usa Sottomissione Z!
+<var> usa Colpo Basso Z!
+<var> selvatico usa Colpo Basso Z!
+<var> nemico usa Colpo Basso Z!
+<var> dominante usa Colpo Basso Z!
+<var> usa Contrattacco Z!
+<var> selvatico usa Contrattacco Z!
+<var> nemico usa Contrattacco Z!
+<var> dominante usa Contrattacco Z!
+<var> usa Movimento Sismico Z!
+<var> selvatico usa Movimento Sismico Z!
+<var> nemico usa Movimento Sismico Z!
+<var> dominante usa Movimento Sismico Z!
+<var> usa Forza Z!
+<var> selvatico usa Forza Z!
+<var> nemico usa Forza Z!
+<var> dominante usa Forza Z!
+<var> usa Assorbimento Z!
+<var> selvatico usa Assorbimento Z!
+<var> nemico usa Assorbimento Z!
+<var> dominante usa Assorbimento Z!
+<var> usa Megassorbimento Z!
+<var> selvatico usa Megassorbimento Z!
+<var> nemico usa Megassorbimento Z!
+<var> dominante usa Megassorbimento Z!
+<var> usa Parassiseme Z!
+<var> selvatico usa Parassiseme Z!
+<var> nemico usa Parassiseme Z!
+<var> dominante usa Parassiseme Z!
+<var> usa Crescita Z!
+<var> selvatico usa Crescita Z!
+<var> nemico usa Crescita Z!
+<var> dominante usa Crescita Z!
+<var> usa Foglielama Z!
+<var> selvatico usa Foglielama Z!
+<var> nemico usa Foglielama Z!
+<var> dominante usa Foglielama Z!
+<var> usa Solarraggio Z!
+<var> selvatico usa Solarraggio Z!
+<var> nemico usa Solarraggio Z!
+<var> dominante usa Solarraggio Z!
+<var> usa Velenpolvere Z!
+<var> selvatico usa Velenpolvere Z!
+<var> nemico usa Velenpolvere Z!
+<var> dominante usa Velenpolvere Z!
+<var> usa Paralizzante Z!
+<var> selvatico usa Paralizzante Z!
+<var> nemico usa Paralizzante Z!
+<var> dominante usa Paralizzante Z!
+<var> usa Sonnifero Z!
+<var> selvatico usa Sonnifero Z!
+<var> nemico usa Sonnifero Z!
+<var> dominante usa Sonnifero Z!
+<var> usa Petalodanza Z!
+<var> selvatico usa Petalodanza Z!
+<var> nemico usa Petalodanza Z!
+<var> dominante usa Petalodanza Z!
+<var> usa Millebave Z!
+<var> selvatico usa Millebave Z!
+<var> nemico usa Millebave Z!
+<var> dominante usa Millebave Z!
+<var> usa Ira di Drago Z!
+<var> selvatico usa Ira di Drago Z!
+<var> nemico usa Ira di Drago Z!
+<var> dominante usa Ira di Drago Z!
+<var> usa Turbofuoco Z!
+<var> selvatico usa Turbofuoco Z!
+<var> nemico usa Turbofuoco Z!
+<var> dominante usa Turbofuoco Z!
+<var> usa Tuonoshock Z!
+<var> selvatico usa Tuonoshock Z!
+<var> nemico usa Tuonoshock Z!
+<var> dominante usa Tuonoshock Z!
+<var> usa Fulmine Z!
+<var> selvatico usa Fulmine Z!
+<var> nemico usa Fulmine Z!
+<var> dominante usa Fulmine Z!
+<var> usa Tuononda Z!
+<var> selvatico usa Tuononda Z!
+<var> nemico usa Tuononda Z!
+<var> dominante usa Tuononda Z!
+<var> usa Tuono Z!
+<var> selvatico usa Tuono Z!
+<var> nemico usa Tuono Z!
+<var> dominante usa Tuono Z!
+<var> usa Sassata Z!
+<var> selvatico usa Sassata Z!
+<var> nemico usa Sassata Z!
+<var> dominante usa Sassata Z!
+<var> usa Terremoto Z!
+<var> selvatico usa Terremoto Z!
+<var> nemico usa Terremoto Z!
+<var> dominante usa Terremoto Z!
+<var> usa Abisso Z!
+<var> selvatico usa Abisso Z!
+<var> nemico usa Abisso Z!
+<var> dominante usa Abisso Z!
+<var> usa Fossa Z!
+<var> selvatico usa Fossa Z!
+<var> nemico usa Fossa Z!
+<var> dominante usa Fossa Z!
+<var> usa Tossina Z!
+<var> selvatico usa Tossina Z!
+<var> nemico usa Tossina Z!
+<var> dominante usa Tossina Z!
+<var> usa Confusione Z!
+<var> selvatico usa Confusione Z!
+<var> nemico usa Confusione Z!
+<var> dominante usa Confusione Z!
+<var> usa Psichico Z!
+<var> selvatico usa Psichico Z!
+<var> nemico usa Psichico Z!
+<var> dominante usa Psichico Z!
+<var> usa Ipnosi Z!
+<var> selvatico usa Ipnosi Z!
+<var> nemico usa Ipnosi Z!
+<var> dominante usa Ipnosi Z!
+<var> usa Meditazione Z!
+<var> selvatico usa Meditazione Z!
+<var> nemico usa Meditazione Z!
+<var> dominante usa Meditazione Z!
+<var> usa Agilità Z!
+<var> selvatico usa Agilità Z!
+<var> nemico usa Agilità Z!
+<var> dominante usa Agilità Z!
+<var> usa Attacco Rapido Z!
+<var> selvatico usa Attacco Rapido Z!
+<var> nemico usa Attacco Rapido Z!
+<var> dominante usa Attacco Rapido Z!
+<var> usa Ira Z!
+<var> selvatico usa Ira Z!
+<var> nemico usa Ira Z!
+<var> dominante usa Ira Z!
+<var> usa Teletrasporto Z!
+<var> selvatico usa Teletrasporto Z!
+<var> nemico usa Teletrasporto Z!
+<var> dominante usa Teletrasporto Z!
+<var> usa Ombra Notturna Z!
+<var> selvatico usa Ombra Notturna Z!
+<var> nemico usa Ombra Notturna Z!
+<var> dominante usa Ombra Notturna Z!
+<var> usa Mimica Z!
+<var> selvatico usa Mimica Z!
+<var> nemico usa Mimica Z!
+<var> dominante usa Mimica Z!
+<var> usa Stridio Z!
+<var> selvatico usa Stridio Z!
+<var> nemico usa Stridio Z!
+<var> dominante usa Stridio Z!
+<var> usa Doppioteam Z!
+<var> selvatico usa Doppioteam Z!
+<var> nemico usa Doppioteam Z!
+<var> dominante usa Doppioteam Z!
+<var> usa Ripresa Z!
+<var> selvatico usa Ripresa Z!
+<var> nemico usa Ripresa Z!
+<var> dominante usa Ripresa Z!
+<var> usa Rafforzatore Z!
+<var> selvatico usa Rafforzatore Z!
+<var> nemico usa Rafforzatore Z!
+<var> dominante usa Rafforzatore Z!
+<var> usa Minimizzato Z!
+<var> selvatico usa Minimizzato Z!
+<var> nemico usa Minimizzato Z!
+<var> dominante usa Minimizzato Z!
+<var> usa Muro di Fumo Z!
+<var> selvatico usa Muro di Fumo Z!
+<var> nemico usa Muro di Fumo Z!
+<var> dominante usa Muro di Fumo Z!
+<var> usa Stordiraggio Z!
+<var> selvatico usa Stordiraggio Z!
+<var> nemico usa Stordiraggio Z!
+<var> dominante usa Stordiraggio Z!
+<var> usa Ritirata Z!
+<var> selvatico usa Ritirata Z!
+<var> nemico usa Ritirata Z!
+<var> dominante usa Ritirata Z!
+<var> usa Ricciolscudo Z!
+<var> selvatico usa Ricciolscudo Z!
+<var> nemico usa Ricciolscudo Z!
+<var> dominante usa Ricciolscudo Z!
+<var> usa Barriera Z!
+<var> selvatico usa Barriera Z!
+<var> nemico usa Barriera Z!
+<var> dominante usa Barriera Z!
+<var> usa Schermoluce Z!
+<var> selvatico usa Schermoluce Z!
+<var> nemico usa Schermoluce Z!
+<var> dominante usa Schermoluce Z!
+<var> usa Nube Z!
+<var> selvatico usa Nube Z!
+<var> nemico usa Nube Z!
+<var> dominante usa Nube Z!
+<var> usa Riflesso Z!
+<var> selvatico usa Riflesso Z!
+<var> nemico usa Riflesso Z!
+<var> dominante usa Riflesso Z!
+<var> usa Focalenergia Z!
+<var> selvatico usa Focalenergia Z!
+<var> nemico usa Focalenergia Z!
+<var> dominante usa Focalenergia Z!
+<var> usa Pazienza Z!
+<var> selvatico usa Pazienza Z!
+<var> nemico usa Pazienza Z!
+<var> dominante usa Pazienza Z!
+<var> usa Metronomo Z!
+<var> selvatico usa Metronomo Z!
+<var> nemico usa Metronomo Z!
+<var> dominante usa Metronomo Z!
+<var> usa Speculmossa Z!
+<var> selvatico usa Speculmossa Z!
+<var> nemico usa Speculmossa Z!
+<var> dominante usa Speculmossa Z!
+<var> usa Autodistruzione Z!
+<var> selvatico usa Autodistruzione Z!
+<var> nemico usa Autodistruzione Z!
+<var> dominante usa Autodistruzione Z!
+<var> usa Uovobomba Z!
+<var> selvatico usa Uovobomba Z!
+<var> nemico usa Uovobomba Z!
+<var> dominante usa Uovobomba Z!
+<var> usa Leccata Z!
+<var> selvatico usa Leccata Z!
+<var> nemico usa Leccata Z!
+<var> dominante usa Leccata Z!
+<var> usa Smog Z!
+<var> selvatico usa Smog Z!
+<var> nemico usa Smog Z!
+<var> dominante usa Smog Z!
+<var> usa Fango Z!
+<var> selvatico usa Fango Z!
+<var> nemico usa Fango Z!
+<var> dominante usa Fango Z!
+<var> usa Ossoclava Z!
+<var> selvatico usa Ossoclava Z!
+<var> nemico usa Ossoclava Z!
+<var> dominante usa Ossoclava Z!
+<var> usa Fuocobomba Z!
+<var> selvatico usa Fuocobomba Z!
+<var> nemico usa Fuocobomba Z!
+<var> dominante usa Fuocobomba Z!
+<var> usa Cascata Z!
+<var> selvatico usa Cascata Z!
+<var> nemico usa Cascata Z!
+<var> dominante usa Cascata Z!
+<var> usa Tenaglia Z!
+<var> selvatico usa Tenaglia Z!
+<var> nemico usa Tenaglia Z!
+<var> dominante usa Tenaglia Z!
+<var> usa Comete Z!
+<var> selvatico usa Comete Z!
+<var> nemico usa Comete Z!
+<var> dominante usa Comete Z!
+<var> usa Capocciata Z!
+<var> selvatico usa Capocciata Z!
+<var> nemico usa Capocciata Z!
+<var> dominante usa Capocciata Z!
+<var> usa Sparalance Z!
+<var> selvatico usa Sparalance Z!
+<var> nemico usa Sparalance Z!
+<var> dominante usa Sparalance Z!
+<var> usa Limitazione Z!
+<var> selvatico usa Limitazione Z!
+<var> nemico usa Limitazione Z!
+<var> dominante usa Limitazione Z!
+<var> usa Amnesia Z!
+<var> selvatico usa Amnesia Z!
+<var> nemico usa Amnesia Z!
+<var> dominante usa Amnesia Z!
+<var> usa Cinèsi Z!
+<var> selvatico usa Cinèsi Z!
+<var> nemico usa Cinèsi Z!
+<var> dominante usa Cinèsi Z!
+<var> usa Covauova Z!
+<var> selvatico usa Covauova Z!
+<var> nemico usa Covauova Z!
+<var> dominante usa Covauova Z!
+<var> usa Calcinvolo Z!
+<var> selvatico usa Calcinvolo Z!
+<var> nemico usa Calcinvolo Z!
+<var> dominante usa Calcinvolo Z!
+<var> usa Sguardo Feroce Z!
+<var> selvatico usa Sguardo Feroce Z!
+<var> nemico usa Sguardo Feroce Z!
+<var> dominante usa Sguardo Feroce Z!
+<var> usa Mangiasogni Z!
+<var> selvatico usa Mangiasogni Z!
+<var> nemico usa Mangiasogni Z!
+<var> dominante usa Mangiasogni Z!
+<var> usa Velenogas Z!
+<var> selvatico usa Velenogas Z!
+<var> nemico usa Velenogas Z!
+<var> dominante usa Velenogas Z!
+<var> usa Attacco Pioggia Z!
+<var> selvatico usa Attacco Pioggia Z!
+<var> nemico usa Attacco Pioggia Z!
+<var> dominante usa Attacco Pioggia Z!
+<var> usa Sanguisuga Z!
+<var> selvatico usa Sanguisuga Z!
+<var> nemico usa Sanguisuga Z!
+<var> dominante usa Sanguisuga Z!
+<var> usa Demonbacio Z!
+<var> selvatico usa Demonbacio Z!
+<var> nemico usa Demonbacio Z!
+<var> dominante usa Demonbacio Z!
+<var> usa Aeroattacco Z!
+<var> selvatico usa Aeroattacco Z!
+<var> nemico usa Aeroattacco Z!
+<var> dominante usa Aeroattacco Z!
+<var> usa Trasformazione Z!
+<var> selvatico usa Trasformazione Z!
+<var> nemico usa Trasformazione Z!
+<var> dominante usa Trasformazione Z!
+<var> usa Bolla Z!
+<var> selvatico usa Bolla Z!
+<var> nemico usa Bolla Z!
+<var> dominante usa Bolla Z!
+<var> usa Stordipugno Z!
+<var> selvatico usa Stordipugno Z!
+<var> nemico usa Stordipugno Z!
+<var> dominante usa Stordipugno Z!
+<var> usa Spora Z!
+<var> selvatico usa Spora Z!
+<var> nemico usa Spora Z!
+<var> dominante usa Spora Z!
+<var> usa Flash Z!
+<var> selvatico usa Flash Z!
+<var> nemico usa Flash Z!
+<var> dominante usa Flash Z!
+<var> usa Psiconda Z!
+<var> selvatico usa Psiconda Z!
+<var> nemico usa Psiconda Z!
+<var> dominante usa Psiconda Z!
+<var> usa Splash Z!
+<var> selvatico usa Splash Z!
+<var> nemico usa Splash Z!
+<var> dominante usa Splash Z!
+<var> usa Scudo Acido Z!
+<var> selvatico usa Scudo Acido Z!
+<var> nemico usa Scudo Acido Z!
+<var> dominante usa Scudo Acido Z!
+<var> usa Martellata Z!
+<var> selvatico usa Martellata Z!
+<var> nemico usa Martellata Z!
+<var> dominante usa Martellata Z!
+<var> usa Esplosione Z!
+<var> selvatico usa Esplosione Z!
+<var> nemico usa Esplosione Z!
+<var> dominante usa Esplosione Z!
+<var> usa Sfuriate Z!
+<var> selvatico usa Sfuriate Z!
+<var> nemico usa Sfuriate Z!
+<var> dominante usa Sfuriate Z!
+<var> usa Ossomerang Z!
+<var> selvatico usa Ossomerang Z!
+<var> nemico usa Ossomerang Z!
+<var> dominante usa Ossomerang Z!
+<var> usa Riposo Z!
+<var> selvatico usa Riposo Z!
+<var> nemico usa Riposo Z!
+<var> dominante usa Riposo Z!
+<var> usa Frana Z!
+<var> selvatico usa Frana Z!
+<var> nemico usa Frana Z!
+<var> dominante usa Frana Z!
+<var> usa Iperzanna Z!
+<var> selvatico usa Iperzanna Z!
+<var> nemico usa Iperzanna Z!
+<var> dominante usa Iperzanna Z!
+<var> usa Affilatore Z!
+<var> selvatico usa Affilatore Z!
+<var> nemico usa Affilatore Z!
+<var> dominante usa Affilatore Z!
+<var> usa Conversione Z!
+<var> selvatico usa Conversione Z!
+<var> nemico usa Conversione Z!
+<var> dominante usa Conversione Z!
+<var> usa Tripletta Z!
+<var> selvatico usa Tripletta Z!
+<var> nemico usa Tripletta Z!
+<var> dominante usa Tripletta Z!
+<var> usa Superzanna Z!
+<var> selvatico usa Superzanna Z!
+<var> nemico usa Superzanna Z!
+<var> dominante usa Superzanna Z!
+<var> usa Lacerazione Z!
+<var> selvatico usa Lacerazione Z!
+<var> nemico usa Lacerazione Z!
+<var> dominante usa Lacerazione Z!
+<var> usa Sostituto Z!
+<var> selvatico usa Sostituto Z!
+<var> nemico usa Sostituto Z!
+<var> dominante usa Sostituto Z!
+<var> usa Scontro Z!
+<var> selvatico usa Scontro Z!
+<var> nemico usa Scontro Z!
+<var> dominante usa Scontro Z!
+<var> usa Schizzo Z!
+<var> selvatico usa Schizzo Z!
+<var> nemico usa Schizzo Z!
+<var> dominante usa Schizzo Z!
+<var> usa Triplocalcio Z!
+<var> selvatico usa Triplocalcio Z!
+<var> nemico usa Triplocalcio Z!
+<var> dominante usa Triplocalcio Z!
+<var> usa Furto Z!
+<var> selvatico usa Furto Z!
+<var> nemico usa Furto Z!
+<var> dominante usa Furto Z!
+<var> usa Ragnatela Z!
+<var> selvatico usa Ragnatela Z!
+<var> nemico usa Ragnatela Z!
+<var> dominante usa Ragnatela Z!
+<var> usa Leggimente Z!
+<var> selvatico usa Leggimente Z!
+<var> nemico usa Leggimente Z!
+<var> dominante usa Leggimente Z!
+<var> usa Incubo Z!
+<var> selvatico usa Incubo Z!
+<var> nemico usa Incubo Z!
+<var> dominante usa Incubo Z!
+<var> usa Ruotafuoco Z!
+<var> selvatico usa Ruotafuoco Z!
+<var> nemico usa Ruotafuoco Z!
+<var> dominante usa Ruotafuoco Z!
+<var> usa Russare Z!
+<var> selvatico usa Russare Z!
+<var> nemico usa Russare Z!
+<var> dominante usa Russare Z!
+<var> usa Maledizione Z!
+<var> selvatico usa Maledizione Z!
+<var> nemico usa Maledizione Z!
+<var> dominante usa Maledizione Z!
+<var> usa Flagello Z!
+<var> selvatico usa Flagello Z!
+<var> nemico usa Flagello Z!
+<var> dominante usa Flagello Z!
+<var> usa Conversione2 Z!
+<var> selvatico usa Conversione2 Z!
+<var> nemico usa Conversione2 Z!
+<var> dominante usa Conversione2 Z!
+<var> usa Aerocolpo Z!
+<var> selvatico usa Aerocolpo Z!
+<var> nemico usa Aerocolpo Z!
+<var> dominante usa Aerocolpo Z!
+<var> usa Cottonspora Z!
+<var> selvatico usa Cottonspora Z!
+<var> nemico usa Cottonspora Z!
+<var> dominante usa Cottonspora Z!
+<var> usa Contropiede Z!
+<var> selvatico usa Contropiede Z!
+<var> nemico usa Contropiede Z!
+<var> dominante usa Contropiede Z!
+<var> usa Dispetto Z!
+<var> selvatico usa Dispetto Z!
+<var> nemico usa Dispetto Z!
+<var> dominante usa Dispetto Z!
+<var> usa Polneve Z!
+<var> selvatico usa Polneve Z!
+<var> nemico usa Polneve Z!
+<var> dominante usa Polneve Z!
+<var> usa Protezione Z!
+<var> selvatico usa Protezione Z!
+<var> nemico usa Protezione Z!
+<var> dominante usa Protezione Z!
+<var> usa Pugnorapido Z!
+<var> selvatico usa Pugnorapido Z!
+<var> nemico usa Pugnorapido Z!
+<var> dominante usa Pugnorapido Z!
+<var> usa Visotruce Z!
+<var> selvatico usa Visotruce Z!
+<var> nemico usa Visotruce Z!
+<var> dominante usa Visotruce Z!
+<var> usa Finta Z!
+<var> selvatico usa Finta Z!
+<var> nemico usa Finta Z!
+<var> dominante usa Finta Z!
+<var> usa Dolcebacio Z!
+<var> selvatico usa Dolcebacio Z!
+<var> nemico usa Dolcebacio Z!
+<var> dominante usa Dolcebacio Z!
+<var> usa Panciamburo Z!
+<var> selvatico usa Panciamburo Z!
+<var> nemico usa Panciamburo Z!
+<var> dominante usa Panciamburo Z!
+<var> usa Fangobomba Z!
+<var> selvatico usa Fangobomba Z!
+<var> nemico usa Fangobomba Z!
+<var> dominante usa Fangobomba Z!
+<var> usa Fangosberla Z!
+<var> selvatico usa Fangosberla Z!
+<var> nemico usa Fangosberla Z!
+<var> dominante usa Fangosberla Z!
+<var> usa Octazooka Z!
+<var> selvatico usa Octazooka Z!
+<var> nemico usa Octazooka Z!
+<var> dominante usa Octazooka Z!
+<var> usa Punte Z!
+<var> selvatico usa Punte Z!
+<var> nemico usa Punte Z!
+<var> dominante usa Punte Z!
+<var> usa Falcecannone Z!
+<var> selvatico usa Falcecannone Z!
+<var> nemico usa Falcecannone Z!
+<var> dominante usa Falcecannone Z!
+<var> usa Preveggenza Z!
+<var> selvatico usa Preveggenza Z!
+<var> nemico usa Preveggenza Z!
+<var> dominante usa Preveggenza Z!
+<var> usa Destinobbligato Z!
+<var> selvatico usa Destinobbligato Z!
+<var> nemico usa Destinobbligato Z!
+<var> dominante usa Destinobbligato Z!
+<var> usa Ultimocanto Z!
+<var> selvatico usa Ultimocanto Z!
+<var> nemico usa Ultimocanto Z!
+<var> dominante usa Ultimocanto Z!
+<var> usa Ventogelato Z!
+<var> selvatico usa Ventogelato Z!
+<var> nemico usa Ventogelato Z!
+<var> dominante usa Ventogelato Z!
+<var> usa Individua Z!
+<var> selvatico usa Individua Z!
+<var> nemico usa Individua Z!
+<var> dominante usa Individua Z!
+<var> usa Ossoraffica Z!
+<var> selvatico usa Ossoraffica Z!
+<var> nemico usa Ossoraffica Z!
+<var> dominante usa Ossoraffica Z!
+<var> usa Localizza Z!
+<var> selvatico usa Localizza Z!
+<var> nemico usa Localizza Z!
+<var> dominante usa Localizza Z!
+<var> usa Oltraggio Z!
+<var> selvatico usa Oltraggio Z!
+<var> nemico usa Oltraggio Z!
+<var> dominante usa Oltraggio Z!
+<var> usa Terrempesta Z!
+<var> selvatico usa Terrempesta Z!
+<var> nemico usa Terrempesta Z!
+<var> dominante usa Terrempesta Z!
+<var> usa Gigassorbimento Z!
+<var> selvatico usa Gigassorbimento Z!
+<var> nemico usa Gigassorbimento Z!
+<var> dominante usa Gigassorbimento Z!
+<var> usa Resistenza Z!
+<var> selvatico usa Resistenza Z!
+<var> nemico usa Resistenza Z!
+<var> dominante usa Resistenza Z!
+<var> usa Fascino Z!
+<var> selvatico usa Fascino Z!
+<var> nemico usa Fascino Z!
+<var> dominante usa Fascino Z!
+<var> usa Rotolamento Z!
+<var> selvatico usa Rotolamento Z!
+<var> nemico usa Rotolamento Z!
+<var> dominante usa Rotolamento Z!
+<var> usa Falsofinale Z!
+<var> selvatico usa Falsofinale Z!
+<var> nemico usa Falsofinale Z!
+<var> dominante usa Falsofinale Z!
+<var> usa Bullo Z!
+<var> selvatico usa Bullo Z!
+<var> nemico usa Bullo Z!
+<var> dominante usa Bullo Z!
+<var> usa Buonlatte Z!
+<var> selvatico usa Buonlatte Z!
+<var> nemico usa Buonlatte Z!
+<var> dominante usa Buonlatte Z!
+<var> usa Scintilla Z!
+<var> selvatico usa Scintilla Z!
+<var> nemico usa Scintilla Z!
+<var> dominante usa Scintilla Z!
+<var> usa Tagliofuria Z!
+<var> selvatico usa Tagliofuria Z!
+<var> nemico usa Tagliofuria Z!
+<var> dominante usa Tagliofuria Z!
+<var> usa Alacciaio Z!
+<var> selvatico usa Alacciaio Z!
+<var> nemico usa Alacciaio Z!
+<var> dominante usa Alacciaio Z!
+<var> usa Malosguardo Z!
+<var> selvatico usa Malosguardo Z!
+<var> nemico usa Malosguardo Z!
+<var> dominante usa Malosguardo Z!
+<var> usa Attrazione Z!
+<var> selvatico usa Attrazione Z!
+<var> nemico usa Attrazione Z!
+<var> dominante usa Attrazione Z!
+<var> usa Sonnolalia Z!
+<var> selvatico usa Sonnolalia Z!
+<var> nemico usa Sonnolalia Z!
+<var> dominante usa Sonnolalia Z!
+<var> usa Rintoccasana Z!
+<var> selvatico usa Rintoccasana Z!
+<var> nemico usa Rintoccasana Z!
+<var> dominante usa Rintoccasana Z!
+<var> usa Ritorno Z!
+<var> selvatico usa Ritorno Z!
+<var> nemico usa Ritorno Z!
+<var> dominante usa Ritorno Z!
+<var> usa Regalino Z!
+<var> selvatico usa Regalino Z!
+<var> nemico usa Regalino Z!
+<var> dominante usa Regalino Z!
+<var> usa Frustrazione Z!
+<var> selvatico usa Frustrazione Z!
+<var> nemico usa Frustrazione Z!
+<var> dominante usa Frustrazione Z!
+<var> usa Salvaguardia Z!
+<var> selvatico usa Salvaguardia Z!
+<var> nemico usa Salvaguardia Z!
+<var> dominante usa Salvaguardia Z!
+<var> usa Malcomune Z!
+<var> selvatico usa Malcomune Z!
+<var> nemico usa Malcomune Z!
+<var> dominante usa Malcomune Z!
+<var> usa Magifuoco Z!
+<var> selvatico usa Magifuoco Z!
+<var> nemico usa Magifuoco Z!
+<var> dominante usa Magifuoco Z!
+<var> usa Magnitudo Z!
+<var> selvatico usa Magnitudo Z!
+<var> nemico usa Magnitudo Z!
+<var> dominante usa Magnitudo Z!
+<var> usa Dinamipugno Z!
+<var> selvatico usa Dinamipugno Z!
+<var> nemico usa Dinamipugno Z!
+<var> dominante usa Dinamipugno Z!
+<var> usa Megacorno Z!
+<var> selvatico usa Megacorno Z!
+<var> nemico usa Megacorno Z!
+<var> dominante usa Megacorno Z!
+<var> usa Dragospiro Z!
+<var> selvatico usa Dragospiro Z!
+<var> nemico usa Dragospiro Z!
+<var> dominante usa Dragospiro Z!
+<var> usa Staffetta Z!
+<var> selvatico usa Staffetta Z!
+<var> nemico usa Staffetta Z!
+<var> dominante usa Staffetta Z!
+<var> usa Ripeti Z!
+<var> selvatico usa Ripeti Z!
+<var> nemico usa Ripeti Z!
+<var> dominante usa Ripeti Z!
+<var> usa Inseguimento Z!
+<var> selvatico usa Inseguimento Z!
+<var> nemico usa Inseguimento Z!
+<var> dominante usa Inseguimento Z!
+<var> usa Rapigiro Z!
+<var> selvatico usa Rapigiro Z!
+<var> nemico usa Rapigiro Z!
+<var> dominante usa Rapigiro Z!
+<var> usa Profumino Z!
+<var> selvatico usa Profumino Z!
+<var> nemico usa Profumino Z!
+<var> dominante usa Profumino Z!
+<var> usa Codacciaio Z!
+<var> selvatico usa Codacciaio Z!
+<var> nemico usa Codacciaio Z!
+<var> dominante usa Codacciaio Z!
+<var> usa Ferrartigli Z!
+<var> selvatico usa Ferrartigli Z!
+<var> nemico usa Ferrartigli Z!
+<var> dominante usa Ferrartigli Z!
+<var> usa Vitaltiro Z!
+<var> selvatico usa Vitaltiro Z!
+<var> nemico usa Vitaltiro Z!
+<var> dominante usa Vitaltiro Z!
+<var> usa Mattindoro Z!
+<var> selvatico usa Mattindoro Z!
+<var> nemico usa Mattindoro Z!
+<var> dominante usa Mattindoro Z!
+<var> usa Sintesi Z!
+<var> selvatico usa Sintesi Z!
+<var> nemico usa Sintesi Z!
+<var> dominante usa Sintesi Z!
+<var> usa Lucelunare Z!
+<var> selvatico usa Lucelunare Z!
+<var> nemico usa Lucelunare Z!
+<var> dominante usa Lucelunare Z!
+<var> usa Introforza Z!
+<var> selvatico usa Introforza Z!
+<var> nemico usa Introforza Z!
+<var> dominante usa Introforza Z!
+<var> usa Incrocolpo Z!
+<var> selvatico usa Incrocolpo Z!
+<var> nemico usa Incrocolpo Z!
+<var> dominante usa Incrocolpo Z!
+<var> usa Tornado Z!
+<var> selvatico usa Tornado Z!
+<var> nemico usa Tornado Z!
+<var> dominante usa Tornado Z!
+<var> usa Pioggiadanza Z!
+<var> selvatico usa Pioggiadanza Z!
+<var> nemico usa Pioggiadanza Z!
+<var> dominante usa Pioggiadanza Z!
+<var> usa Giornodisole Z!
+<var> selvatico usa Giornodisole Z!
+<var> nemico usa Giornodisole Z!
+<var> dominante usa Giornodisole Z!
+<var> usa Sgranocchio Z!
+<var> selvatico usa Sgranocchio Z!
+<var> nemico usa Sgranocchio Z!
+<var> dominante usa Sgranocchio Z!
+<var> usa Specchiovelo Z!
+<var> selvatico usa Specchiovelo Z!
+<var> nemico usa Specchiovelo Z!
+<var> dominante usa Specchiovelo Z!
+<var> usa Psicamisù Z!
+<var> selvatico usa Psicamisù Z!
+<var> nemico usa Psicamisù Z!
+<var> dominante usa Psicamisù Z!
+<var> usa Extrarapido Z!
+<var> selvatico usa Extrarapido Z!
+<var> nemico usa Extrarapido Z!
+<var> dominante usa Extrarapido Z!
+<var> usa Forzantica Z!
+<var> selvatico usa Forzantica Z!
+<var> nemico usa Forzantica Z!
+<var> dominante usa Forzantica Z!
+<var> usa Palla Ombra Z!
+<var> selvatico usa Palla Ombra Z!
+<var> nemico usa Palla Ombra Z!
+<var> dominante usa Palla Ombra Z!
+<var> usa Divinazione Z!
+<var> selvatico usa Divinazione Z!
+<var> nemico usa Divinazione Z!
+<var> dominante usa Divinazione Z!
+<var> usa Spaccaroccia Z!
+<var> selvatico usa Spaccaroccia Z!
+<var> nemico usa Spaccaroccia Z!
+<var> dominante usa Spaccaroccia Z!
+<var> usa Mulinello Z!
+<var> selvatico usa Mulinello Z!
+<var> nemico usa Mulinello Z!
+<var> dominante usa Mulinello Z!
+<var> usa Picchiaduro Z!
+<var> selvatico usa Picchiaduro Z!
+<var> nemico usa Picchiaduro Z!
+<var> dominante usa Picchiaduro Z!
+<var> usa Bruciapelo Z!
+<var> selvatico usa Bruciapelo Z!
+<var> nemico usa Bruciapelo Z!
+<var> dominante usa Bruciapelo Z!
+<var> usa Baraonda Z!
+<var> selvatico usa Baraonda Z!
+<var> nemico usa Baraonda Z!
+<var> dominante usa Baraonda Z!
+<var> usa Accumulo Z!
+<var> selvatico usa Accumulo Z!
+<var> nemico usa Accumulo Z!
+<var> dominante usa Accumulo Z!
+<var> usa Sfoghenergia Z!
+<var> selvatico usa Sfoghenergia Z!
+<var> nemico usa Sfoghenergia Z!
+<var> dominante usa Sfoghenergia Z!
+<var> usa Introenergia Z!
+<var> selvatico usa Introenergia Z!
+<var> nemico usa Introenergia Z!
+<var> dominante usa Introenergia Z!
+<var> usa Ondacalda Z!
+<var> selvatico usa Ondacalda Z!
+<var> nemico usa Ondacalda Z!
+<var> dominante usa Ondacalda Z!
+<var> usa Grandine Z!
+<var> selvatico usa Grandine Z!
+<var> nemico usa Grandine Z!
+<var> dominante usa Grandine Z!
+<var> usa Attaccalite Z!
+<var> selvatico usa Attaccalite Z!
+<var> nemico usa Attaccalite Z!
+<var> dominante usa Attaccalite Z!
+<var> usa Adulazione Z!
+<var> selvatico usa Adulazione Z!
+<var> nemico usa Adulazione Z!
+<var> dominante usa Adulazione Z!
+<var> usa Fuocofatuo Z!
+<var> selvatico usa Fuocofatuo Z!
+<var> nemico usa Fuocofatuo Z!
+<var> dominante usa Fuocofatuo Z!
+<var> usa Memento Z!
+<var> selvatico usa Memento Z!
+<var> nemico usa Memento Z!
+<var> dominante usa Memento Z!
+<var> usa Facciata Z!
+<var> selvatico usa Facciata Z!
+<var> nemico usa Facciata Z!
+<var> dominante usa Facciata Z!
+<var> usa Centripugno Z!
+<var> selvatico usa Centripugno Z!
+<var> nemico usa Centripugno Z!
+<var> dominante usa Centripugno Z!
+<var> usa Maniereforti Z!
+<var> selvatico usa Maniereforti Z!
+<var> nemico usa Maniereforti Z!
+<var> dominante usa Maniereforti Z!
+<var> usa Sonoqui Z!
+<var> selvatico usa Sonoqui Z!
+<var> nemico usa Sonoqui Z!
+<var> dominante usa Sonoqui Z!
+<var> usa Naturforza Z!
+<var> selvatico usa Naturforza Z!
+<var> nemico usa Naturforza Z!
+<var> dominante usa Naturforza Z!
+<var> usa Sottocarica Z!
+<var> selvatico usa Sottocarica Z!
+<var> nemico usa Sottocarica Z!
+<var> dominante usa Sottocarica Z!
+<var> usa Provocazione Z!
+<var> selvatico usa Provocazione Z!
+<var> nemico usa Provocazione Z!
+<var> dominante usa Provocazione Z!
+<var> usa Altruismo Z!
+<var> selvatico usa Altruismo Z!
+<var> nemico usa Altruismo Z!
+<var> dominante usa Altruismo Z!
+<var> usa Raggiro Z!
+<var> selvatico usa Raggiro Z!
+<var> nemico usa Raggiro Z!
+<var> dominante usa Raggiro Z!
+<var> usa Giocodiruolo Z!
+<var> selvatico usa Giocodiruolo Z!
+<var> nemico usa Giocodiruolo Z!
+<var> dominante usa Giocodiruolo Z!
+<var> usa Desiderio Z!
+<var> selvatico usa Desiderio Z!
+<var> nemico usa Desiderio Z!
+<var> dominante usa Desiderio Z!
+<var> usa Assistente Z!
+<var> selvatico usa Assistente Z!
+<var> nemico usa Assistente Z!
+<var> dominante usa Assistente Z!
+<var> usa Radicamento Z!
+<var> selvatico usa Radicamento Z!
+<var> nemico usa Radicamento Z!
+<var> dominante usa Radicamento Z!
+<var> usa Troppoforte Z!
+<var> selvatico usa Troppoforte Z!
+<var> nemico usa Troppoforte Z!
+<var> dominante usa Troppoforte Z!
+<var> usa Magivelo Z!
+<var> selvatico usa Magivelo Z!
+<var> nemico usa Magivelo Z!
+<var> dominante usa Magivelo Z!
+<var> usa Riciclo Z!
+<var> selvatico usa Riciclo Z!
+<var> nemico usa Riciclo Z!
+<var> dominante usa Riciclo Z!
+<var> usa Vendetta Z!
+<var> selvatico usa Vendetta Z!
+<var> nemico usa Vendetta Z!
+<var> dominante usa Vendetta Z!
+<var> usa Breccia Z!
+<var> selvatico usa Breccia Z!
+<var> nemico usa Breccia Z!
+<var> dominante usa Breccia Z!
+<var> usa Sbadiglio Z!
+<var> selvatico usa Sbadiglio Z!
+<var> nemico usa Sbadiglio Z!
+<var> dominante usa Sbadiglio Z!
+<var> usa Privazione Z!
+<var> selvatico usa Privazione Z!
+<var> nemico usa Privazione Z!
+<var> dominante usa Privazione Z!
+<var> usa Rimonta Z!
+<var> selvatico usa Rimonta Z!
+<var> nemico usa Rimonta Z!
+<var> dominante usa Rimonta Z!
+<var> usa Eruzione Z!
+<var> selvatico usa Eruzione Z!
+<var> nemico usa Eruzione Z!
+<var> dominante usa Eruzione Z!
+<var> usa Baratto Z!
+<var> selvatico usa Baratto Z!
+<var> nemico usa Baratto Z!
+<var> dominante usa Baratto Z!
+<var> usa Esclusiva Z!
+<var> selvatico usa Esclusiva Z!
+<var> nemico usa Esclusiva Z!
+<var> dominante usa Esclusiva Z!
+<var> usa Rinfrescata Z!
+<var> selvatico usa Rinfrescata Z!
+<var> nemico usa Rinfrescata Z!
+<var> dominante usa Rinfrescata Z!
+<var> usa Rancore Z!
+<var> selvatico usa Rancore Z!
+<var> nemico usa Rancore Z!
+<var> dominante usa Rancore Z!
+<var> usa Scippo Z!
+<var> selvatico usa Scippo Z!
+<var> nemico usa Scippo Z!
+<var> dominante usa Scippo Z!
+<var> usa Forzasegreta Z!
+<var> selvatico usa Forzasegreta Z!
+<var> nemico usa Forzasegreta Z!
+<var> dominante usa Forzasegreta Z!
+<var> usa Sub Z!
+<var> selvatico usa Sub Z!
+<var> nemico usa Sub Z!
+<var> dominante usa Sub Z!
+<var> usa Sberletese Z!
+<var> selvatico usa Sberletese Z!
+<var> nemico usa Sberletese Z!
+<var> dominante usa Sberletese Z!
+<var> usa Camuffamento Z!
+<var> selvatico usa Camuffamento Z!
+<var> nemico usa Camuffamento Z!
+<var> dominante usa Camuffamento Z!
+<var> usa Codadiluce Z!
+<var> selvatico usa Codadiluce Z!
+<var> nemico usa Codadiluce Z!
+<var> dominante usa Codadiluce Z!
+<var> usa Abbagliante Z!
+<var> selvatico usa Abbagliante Z!
+<var> nemico usa Abbagliante Z!
+<var> dominante usa Abbagliante Z!
+<var> usa Foschisfera Z!
+<var> selvatico usa Foschisfera Z!
+<var> nemico usa Foschisfera Z!
+<var> dominante usa Foschisfera Z!
+<var> usa Danzadipiume Z!
+<var> selvatico usa Danzadipiume Z!
+<var> nemico usa Danzadipiume Z!
+<var> dominante usa Danzadipiume Z!
+<var> usa Strampadanza Z!
+<var> selvatico usa Strampadanza Z!
+<var> nemico usa Strampadanza Z!
+<var> dominante usa Strampadanza Z!
+<var> usa Calciardente Z!
+<var> selvatico usa Calciardente Z!
+<var> nemico usa Calciardente Z!
+<var> dominante usa Calciardente Z!
+<var> usa Fangata Z!
+<var> selvatico usa Fangata Z!
+<var> nemico usa Fangata Z!
+<var> dominante usa Fangata Z!
+<var> usa Palla Gelo Z!
+<var> selvatico usa Palla Gelo Z!
+<var> nemico usa Palla Gelo Z!
+<var> dominante usa Palla Gelo Z!
+<var> usa Pugnospine Z!
+<var> selvatico usa Pugnospine Z!
+<var> nemico usa Pugnospine Z!
+<var> dominante usa Pugnospine Z!
+<var> usa Pigro Z!
+<var> selvatico usa Pigro Z!
+<var> nemico usa Pigro Z!
+<var> dominante usa Pigro Z!
+<var> usa Granvoce Z!
+<var> selvatico usa Granvoce Z!
+<var> nemico usa Granvoce Z!
+<var> dominante usa Granvoce Z!
+<var> usa Velenodenti Z!
+<var> selvatico usa Velenodenti Z!
+<var> nemico usa Velenodenti Z!
+<var> dominante usa Velenodenti Z!
+<var> usa Tritartigli Z!
+<var> selvatico usa Tritartigli Z!
+<var> nemico usa Tritartigli Z!
+<var> dominante usa Tritartigli Z!
+<var> usa Incendio Z!
+<var> selvatico usa Incendio Z!
+<var> nemico usa Incendio Z!
+<var> dominante usa Incendio Z!
+<var> usa Idrocannone Z!
+<var> selvatico usa Idrocannone Z!
+<var> nemico usa Idrocannone Z!
+<var> dominante usa Idrocannone Z!
+<var> usa Meteorpugno Z!
+<var> selvatico usa Meteorpugno Z!
+<var> nemico usa Meteorpugno Z!
+<var> dominante usa Meteorpugno Z!
+<var> usa Sgomento Z!
+<var> selvatico usa Sgomento Z!
+<var> nemico usa Sgomento Z!
+<var> dominante usa Sgomento Z!
+<var> usa Palla Clima Z!
+<var> selvatico usa Palla Clima Z!
+<var> nemico usa Palla Clima Z!
+<var> dominante usa Palla Clima Z!
+<var> usa Aromaterapia Z!
+<var> selvatico usa Aromaterapia Z!
+<var> nemico usa Aromaterapia Z!
+<var> dominante usa Aromaterapia Z!
+<var> usa Falselacrime Z!
+<var> selvatico usa Falselacrime Z!
+<var> nemico usa Falselacrime Z!
+<var> dominante usa Falselacrime Z!
+<var> usa Aerasoio Z!
+<var> selvatico usa Aerasoio Z!
+<var> nemico usa Aerasoio Z!
+<var> dominante usa Aerasoio Z!
+<var> usa Vampata Z!
+<var> selvatico usa Vampata Z!
+<var> nemico usa Vampata Z!
+<var> dominante usa Vampata Z!
+<var> usa Segugio Z!
+<var> selvatico usa Segugio Z!
+<var> nemico usa Segugio Z!
+<var> dominante usa Segugio Z!
+<var> usa Rocciotomba Z!
+<var> selvatico usa Rocciotomba Z!
+<var> nemico usa Rocciotomba Z!
+<var> dominante usa Rocciotomba Z!
+<var> usa Ventargenteo Z!
+<var> selvatico usa Ventargenteo Z!
+<var> nemico usa Ventargenteo Z!
+<var> dominante usa Ventargenteo Z!
+<var> usa Ferrostrido Z!
+<var> selvatico usa Ferrostrido Z!
+<var> nemico usa Ferrostrido Z!
+<var> dominante usa Ferrostrido Z!
+<var> usa Meloderba Z!
+<var> selvatico usa Meloderba Z!
+<var> nemico usa Meloderba Z!
+<var> dominante usa Meloderba Z!
+<var> usa Solletico Z!
+<var> selvatico usa Solletico Z!
+<var> nemico usa Solletico Z!
+<var> dominante usa Solletico Z!
+<var> usa Cosmoforza Z!
+<var> selvatico usa Cosmoforza Z!
+<var> nemico usa Cosmoforza Z!
+<var> dominante usa Cosmoforza Z!
+<var> usa Zampillo Z!
+<var> selvatico usa Zampillo Z!
+<var> nemico usa Zampillo Z!
+<var> dominante usa Zampillo Z!
+<var> usa Segnoraggio Z!
+<var> selvatico usa Segnoraggio Z!
+<var> nemico usa Segnoraggio Z!
+<var> dominante usa Segnoraggio Z!
+<var> usa Pugnodombra Z!
+<var> selvatico usa Pugnodombra Z!
+<var> nemico usa Pugnodombra Z!
+<var> dominante usa Pugnodombra Z!
+<var> usa Extrasenso Z!
+<var> selvatico usa Extrasenso Z!
+<var> nemico usa Extrasenso Z!
+<var> dominante usa Extrasenso Z!
+<var> usa Stramontante Z!
+<var> selvatico usa Stramontante Z!
+<var> nemico usa Stramontante Z!
+<var> dominante usa Stramontante Z!
+<var> usa Sabbiotomba Z!
+<var> selvatico usa Sabbiotomba Z!
+<var> nemico usa Sabbiotomba Z!
+<var> dominante usa Sabbiotomba Z!
+<var> usa Purogelo Z!
+<var> selvatico usa Purogelo Z!
+<var> nemico usa Purogelo Z!
+<var> dominante usa Purogelo Z!
+<var> usa Fanghiglia Z!
+<var> selvatico usa Fanghiglia Z!
+<var> nemico usa Fanghiglia Z!
+<var> dominante usa Fanghiglia Z!
+<var> usa Semitraglia Z!
+<var> selvatico usa Semitraglia Z!
+<var> nemico usa Semitraglia Z!
+<var> dominante usa Semitraglia Z!
+<var> usa Aeroassalto Z!
+<var> selvatico usa Aeroassalto Z!
+<var> nemico usa Aeroassalto Z!
+<var> dominante usa Aeroassalto Z!
+<var> usa Gelolancia Z!
+<var> selvatico usa Gelolancia Z!
+<var> nemico usa Gelolancia Z!
+<var> dominante usa Gelolancia Z!
+<var> usa Ferroscudo Z!
+<var> selvatico usa Ferroscudo Z!
+<var> nemico usa Ferroscudo Z!
+<var> dominante usa Ferroscudo Z!
+<var> usa Blocco Z!
+<var> selvatico usa Blocco Z!
+<var> nemico usa Blocco Z!
+<var> dominante usa Blocco Z!
+<var> usa Gridodilotta Z!
+<var> selvatico usa Gridodilotta Z!
+<var> nemico usa Gridodilotta Z!
+<var> dominante usa Gridodilotta Z!
+<var> usa Dragartigli Z!
+<var> selvatico usa Dragartigli Z!
+<var> nemico usa Dragartigli Z!
+<var> dominante usa Dragartigli Z!
+<var> usa Radicalbero Z!
+<var> selvatico usa Radicalbero Z!
+<var> nemico usa Radicalbero Z!
+<var> dominante usa Radicalbero Z!
+<var> usa Granfisico Z!
+<var> selvatico usa Granfisico Z!
+<var> nemico usa Granfisico Z!
+<var> dominante usa Granfisico Z!
+<var> usa Rimbalzo Z!
+<var> selvatico usa Rimbalzo Z!
+<var> nemico usa Rimbalzo Z!
+<var> dominante usa Rimbalzo Z!
+<var> usa Colpodifango Z!
+<var> selvatico usa Colpodifango Z!
+<var> nemico usa Colpodifango Z!
+<var> dominante usa Colpodifango Z!
+<var> usa Velenocoda Z!
+<var> selvatico usa Velenocoda Z!
+<var> nemico usa Velenocoda Z!
+<var> dominante usa Velenocoda Z!
+<var> usa Supplica Z!
+<var> selvatico usa Supplica Z!
+<var> nemico usa Supplica Z!
+<var> dominante usa Supplica Z!
+<var> usa Locomovolt Z!
+<var> selvatico usa Locomovolt Z!
+<var> nemico usa Locomovolt Z!
+<var> dominante usa Locomovolt Z!
+<var> usa Fogliamagica Z!
+<var> selvatico usa Fogliamagica Z!
+<var> nemico usa Fogliamagica Z!
+<var> dominante usa Fogliamagica Z!
+<var> usa Docciascudo Z!
+<var> selvatico usa Docciascudo Z!
+<var> nemico usa Docciascudo Z!
+<var> dominante usa Docciascudo Z!
+<var> usa Calmamente Z!
+<var> selvatico usa Calmamente Z!
+<var> nemico usa Calmamente Z!
+<var> dominante usa Calmamente Z!
+<var> usa Fendifoglia Z!
+<var> selvatico usa Fendifoglia Z!
+<var> nemico usa Fendifoglia Z!
+<var> dominante usa Fendifoglia Z!
+<var> usa Dragodanza Z!
+<var> selvatico usa Dragodanza Z!
+<var> nemico usa Dragodanza Z!
+<var> dominante usa Dragodanza Z!
+<var> usa Cadutamassi Z!
+<var> selvatico usa Cadutamassi Z!
+<var> nemico usa Cadutamassi Z!
+<var> dominante usa Cadutamassi Z!
+<var> usa Ondashock Z!
+<var> selvatico usa Ondashock Z!
+<var> nemico usa Ondashock Z!
+<var> dominante usa Ondashock Z!
+<var> usa Idropulsar Z!
+<var> selvatico usa Idropulsar Z!
+<var> nemico usa Idropulsar Z!
+<var> dominante usa Idropulsar Z!
+<var> usa Obbliderio Z!
+<var> selvatico usa Obbliderio Z!
+<var> nemico usa Obbliderio Z!
+<var> dominante usa Obbliderio Z!
+<var> usa Psicoslancio Z!
+<var> selvatico usa Psicoslancio Z!
+<var> nemico usa Psicoslancio Z!
+<var> dominante usa Psicoslancio Z!
+<var> usa Trespolo Z!
+<var> selvatico usa Trespolo Z!
+<var> nemico usa Trespolo Z!
+<var> dominante usa Trespolo Z!
+<var> usa Gravità Z!
+<var> selvatico usa Gravità Z!
+<var> nemico usa Gravità Z!
+<var> dominante usa Gravità Z!
+<var> usa Miracolvista Z!
+<var> selvatico usa Miracolvista Z!
+<var> nemico usa Miracolvista Z!
+<var> dominante usa Miracolvista Z!
+<var> usa Svegliopacca Z!
+<var> selvatico usa Svegliopacca Z!
+<var> nemico usa Svegliopacca Z!
+<var> dominante usa Svegliopacca Z!
+<var> usa Martelpugno Z!
+<var> selvatico usa Martelpugno Z!
+<var> nemico usa Martelpugno Z!
+<var> dominante usa Martelpugno Z!
+<var> usa Vortexpalla Z!
+<var> selvatico usa Vortexpalla Z!
+<var> nemico usa Vortexpalla Z!
+<var> dominante usa Vortexpalla Z!
+<var> usa Curardore Z!
+<var> selvatico usa Curardore Z!
+<var> nemico usa Curardore Z!
+<var> dominante usa Curardore Z!
+<var> usa Acquadisale Z!
+<var> selvatico usa Acquadisale Z!
+<var> nemico usa Acquadisale Z!
+<var> dominante usa Acquadisale Z!
+<var> usa Dononaturale Z!
+<var> selvatico usa Dononaturale Z!
+<var> nemico usa Dononaturale Z!
+<var> dominante usa Dononaturale Z!
+<var> usa Fintoattacco Z!
+<var> selvatico usa Fintoattacco Z!
+<var> nemico usa Fintoattacco Z!
+<var> dominante usa Fintoattacco Z!
+<var> usa Spennata Z!
+<var> selvatico usa Spennata Z!
+<var> nemico usa Spennata Z!
+<var> dominante usa Spennata Z!
+<var> usa Ventoincoda Z!
+<var> selvatico usa Ventoincoda Z!
+<var> nemico usa Ventoincoda Z!
+<var> dominante usa Ventoincoda Z!
+<var> usa Acupressione Z!
+<var> selvatico usa Acupressione Z!
+<var> nemico usa Acupressione Z!
+<var> dominante usa Acupressione Z!
+<var> usa Metalscoppio Z!
+<var> selvatico usa Metalscoppio Z!
+<var> nemico usa Metalscoppio Z!
+<var> dominante usa Metalscoppio Z!
+<var> usa Retromarcia Z!
+<var> selvatico usa Retromarcia Z!
+<var> nemico usa Retromarcia Z!
+<var> dominante usa Retromarcia Z!
+<var> usa Zuffa Z!
+<var> selvatico usa Zuffa Z!
+<var> nemico usa Zuffa Z!
+<var> dominante usa Zuffa Z!
+<var> usa Rivincita Z!
+<var> selvatico usa Rivincita Z!
+<var> nemico usa Rivincita Z!
+<var> dominante usa Rivincita Z!
+<var> usa Garanzia Z!
+<var> selvatico usa Garanzia Z!
+<var> nemico usa Garanzia Z!
+<var> dominante usa Garanzia Z!
+<var> usa Divieto Z!
+<var> selvatico usa Divieto Z!
+<var> nemico usa Divieto Z!
+<var> dominante usa Divieto Z!
+<var> usa Lancio Z!
+<var> selvatico usa Lancio Z!
+<var> nemico usa Lancio Z!
+<var> dominante usa Lancio Z!
+<var> usa Psicotrasfer Z!
+<var> selvatico usa Psicotrasfer Z!
+<var> nemico usa Psicotrasfer Z!
+<var> dominante usa Psicotrasfer Z!
+<var> usa Asso Z!
+<var> selvatico usa Asso Z!
+<var> nemico usa Asso Z!
+<var> dominante usa Asso Z!
+<var> usa Anticura Z!
+<var> selvatico usa Anticura Z!
+<var> nemico usa Anticura Z!
+<var> dominante usa Anticura Z!
+<var> usa Strizzata Z!
+<var> selvatico usa Strizzata Z!
+<var> nemico usa Strizzata Z!
+<var> dominante usa Strizzata Z!
+<var> usa Ingannoforza Z!
+<var> selvatico usa Ingannoforza Z!
+<var> nemico usa Ingannoforza Z!
+<var> dominante usa Ingannoforza Z!
+<var> usa Gastroacido Z!
+<var> selvatico usa Gastroacido Z!
+<var> nemico usa Gastroacido Z!
+<var> dominante usa Gastroacido Z!
+<var> usa Fortuncanto Z!
+<var> selvatico usa Fortuncanto Z!
+<var> nemico usa Fortuncanto Z!
+<var> dominante usa Fortuncanto Z!
+<var> usa Precedenza Z!
+<var> selvatico usa Precedenza Z!
+<var> nemico usa Precedenza Z!
+<var> dominante usa Precedenza Z!
+<var> usa Copione Z!
+<var> selvatico usa Copione Z!
+<var> nemico usa Copione Z!
+<var> dominante usa Copione Z!
+<var> usa Barattoforza Z!
+<var> selvatico usa Barattoforza Z!
+<var> nemico usa Barattoforza Z!
+<var> dominante usa Barattoforza Z!
+<var> usa Barattoscudo Z!
+<var> selvatico usa Barattoscudo Z!
+<var> nemico usa Barattoscudo Z!
+<var> dominante usa Barattoscudo Z!
+<var> usa Punizione Z!
+<var> selvatico usa Punizione Z!
+<var> nemico usa Punizione Z!
+<var> dominante usa Punizione Z!
+<var> usa Ultimascelta Z!
+<var> selvatico usa Ultimascelta Z!
+<var> nemico usa Ultimascelta Z!
+<var> dominante usa Ultimascelta Z!
+<var> usa Affannoseme Z!
+<var> selvatico usa Affannoseme Z!
+<var> nemico usa Affannoseme Z!
+<var> dominante usa Affannoseme Z!
+<var> usa Sbigoattacco Z!
+<var> selvatico usa Sbigoattacco Z!
+<var> nemico usa Sbigoattacco Z!
+<var> dominante usa Sbigoattacco Z!
+<var> usa Fielepunte Z!
+<var> selvatico usa Fielepunte Z!
+<var> nemico usa Fielepunte Z!
+<var> dominante usa Fielepunte Z!
+<var> usa Cuorbaratto Z!
+<var> selvatico usa Cuorbaratto Z!
+<var> nemico usa Cuorbaratto Z!
+<var> dominante usa Cuorbaratto Z!
+<var> usa Acquanello Z!
+<var> selvatico usa Acquanello Z!
+<var> nemico usa Acquanello Z!
+<var> dominante usa Acquanello Z!
+<var> usa Magnetascesa Z!
+<var> selvatico usa Magnetascesa Z!
+<var> nemico usa Magnetascesa Z!
+<var> dominante usa Magnetascesa Z!
+<var> usa Fuococarica Z!
+<var> selvatico usa Fuococarica Z!
+<var> nemico usa Fuococarica Z!
+<var> dominante usa Fuococarica Z!
+<var> usa Palmoforza Z!
+<var> selvatico usa Palmoforza Z!
+<var> nemico usa Palmoforza Z!
+<var> dominante usa Palmoforza Z!
+<var> usa Forzasfera Z!
+<var> selvatico usa Forzasfera Z!
+<var> nemico usa Forzasfera Z!
+<var> dominante usa Forzasfera Z!
+<var> usa Lucidatura Z!
+<var> selvatico usa Lucidatura Z!
+<var> nemico usa Lucidatura Z!
+<var> dominante usa Lucidatura Z!
+<var> usa Velenpuntura Z!
+<var> selvatico usa Velenpuntura Z!
+<var> nemico usa Velenpuntura Z!
+<var> dominante usa Velenpuntura Z!
+<var> usa Neropulsar Z!
+<var> selvatico usa Neropulsar Z!
+<var> nemico usa Neropulsar Z!
+<var> dominante usa Neropulsar Z!
+<var> usa Nottesferza Z!
+<var> selvatico usa Nottesferza Z!
+<var> nemico usa Nottesferza Z!
+<var> dominante usa Nottesferza Z!
+<var> usa Idrondata Z!
+<var> selvatico usa Idrondata Z!
+<var> nemico usa Idrondata Z!
+<var> dominante usa Idrondata Z!
+<var> usa Semebomba Z!
+<var> selvatico usa Semebomba Z!
+<var> nemico usa Semebomba Z!
+<var> dominante usa Semebomba Z!
+<var> usa Eterelama Z!
+<var> selvatico usa Eterelama Z!
+<var> nemico usa Eterelama Z!
+<var> dominante usa Eterelama Z!
+<var> usa Forbice X Z!
+<var> selvatico usa Forbice X Z!
+<var> nemico usa Forbice X Z!
+<var> dominante usa Forbice X Z!
+<var> usa Ronzio Z!
+<var> selvatico usa Ronzio Z!
+<var> nemico usa Ronzio Z!
+<var> dominante usa Ronzio Z!
+<var> usa Dragopulsar Z!
+<var> selvatico usa Dragopulsar Z!
+<var> nemico usa Dragopulsar Z!
+<var> dominante usa Dragopulsar Z!
+<var> usa Dragofuria Z!
+<var> selvatico usa Dragofuria Z!
+<var> nemico usa Dragofuria Z!
+<var> dominante usa Dragofuria Z!
+<var> usa Gemmoforza Z!
+<var> selvatico usa Gemmoforza Z!
+<var> nemico usa Gemmoforza Z!
+<var> dominante usa Gemmoforza Z!
+<var> usa Assorbipugno Z!
+<var> selvatico usa Assorbipugno Z!
+<var> nemico usa Assorbipugno Z!
+<var> dominante usa Assorbipugno Z!
+<var> usa Vuotonda Z!
+<var> selvatico usa Vuotonda Z!
+<var> nemico usa Vuotonda Z!
+<var> dominante usa Vuotonda Z!
+<var> usa Focalcolpo Z!
+<var> selvatico usa Focalcolpo Z!
+<var> nemico usa Focalcolpo Z!
+<var> dominante usa Focalcolpo Z!
+<var> usa Energipalla Z!
+<var> selvatico usa Energipalla Z!
+<var> nemico usa Energipalla Z!
+<var> dominante usa Energipalla Z!
+<var> usa Baldeali Z!
+<var> selvatico usa Baldeali Z!
+<var> nemico usa Baldeali Z!
+<var> dominante usa Baldeali Z!
+<var> usa Geoforza Z!
+<var> selvatico usa Geoforza Z!
+<var> nemico usa Geoforza Z!
+<var> dominante usa Geoforza Z!
+<var> usa Rapidscambio Z!
+<var> selvatico usa Rapidscambio Z!
+<var> nemico usa Rapidscambio Z!
+<var> dominante usa Rapidscambio Z!
+<var> usa Gigaimpatto Z!
+<var> selvatico usa Gigaimpatto Z!
+<var> nemico usa Gigaimpatto Z!
+<var> dominante usa Gigaimpatto Z!
+<var> usa Congiura Z!
+<var> selvatico usa Congiura Z!
+<var> nemico usa Congiura Z!
+<var> dominante usa Congiura Z!
+<var> usa Pugnoscarica Z!
+<var> selvatico usa Pugnoscarica Z!
+<var> nemico usa Pugnoscarica Z!
+<var> dominante usa Pugnoscarica Z!
+<var> usa Slavina Z!
+<var> selvatico usa Slavina Z!
+<var> nemico usa Slavina Z!
+<var> dominante usa Slavina Z!
+<var> usa Geloscheggia Z!
+<var> selvatico usa Geloscheggia Z!
+<var> nemico usa Geloscheggia Z!
+<var> dominante usa Geloscheggia Z!
+<var> usa Ombrartigli Z!
+<var> selvatico usa Ombrartigli Z!
+<var> nemico usa Ombrartigli Z!
+<var> dominante usa Ombrartigli Z!
+<var> usa Fulmindenti Z!
+<var> selvatico usa Fulmindenti Z!
+<var> nemico usa Fulmindenti Z!
+<var> dominante usa Fulmindenti Z!
+<var> usa Gelodenti Z!
+<var> selvatico usa Gelodenti Z!
+<var> nemico usa Gelodenti Z!
+<var> dominante usa Gelodenti Z!
+<var> usa Rogodenti Z!
+<var> selvatico usa Rogodenti Z!
+<var> nemico usa Rogodenti Z!
+<var> dominante usa Rogodenti Z!
+<var> usa Furtivombra Z!
+<var> selvatico usa Furtivombra Z!
+<var> nemico usa Furtivombra Z!
+<var> dominante usa Furtivombra Z!
+<var> usa Pantanobomba Z!
+<var> selvatico usa Pantanobomba Z!
+<var> nemico usa Pantanobomba Z!
+<var> dominante usa Pantanobomba Z!
+<var> usa Psicotaglio Z!
+<var> selvatico usa Psicotaglio Z!
+<var> nemico usa Psicotaglio Z!
+<var> dominante usa Psicotaglio Z!
+<var> usa Cozzata Zen Z!
+<var> selvatico usa Cozzata Zen Z!
+<var> nemico usa Cozzata Zen Z!
+<var> dominante usa Cozzata Zen Z!
+<var> usa Cristalcolpo Z!
+<var> selvatico usa Cristalcolpo Z!
+<var> nemico usa Cristalcolpo Z!
+<var> dominante usa Cristalcolpo Z!
+<var> usa Cannonflash Z!
+<var> selvatico usa Cannonflash Z!
+<var> nemico usa Cannonflash Z!
+<var> dominante usa Cannonflash Z!
+<var> usa Scalaroccia Z!
+<var> selvatico usa Scalaroccia Z!
+<var> nemico usa Scalaroccia Z!
+<var> dominante usa Scalaroccia Z!
+<var> usa Scacciabruma Z!
+<var> selvatico usa Scacciabruma Z!
+<var> nemico usa Scacciabruma Z!
+<var> dominante usa Scacciabruma Z!
+<var> usa Distortozona Z!
+<var> selvatico usa Distortozona Z!
+<var> nemico usa Distortozona Z!
+<var> dominante usa Distortozona Z!
+<var> usa Dragobolide Z!
+<var> selvatico usa Dragobolide Z!
+<var> nemico usa Dragobolide Z!
+<var> dominante usa Dragobolide Z!
+<var> usa Scarica Z!
+<var> selvatico usa Scarica Z!
+<var> nemico usa Scarica Z!
+<var> dominante usa Scarica Z!
+<var> usa Lavasbuffo Z!
+<var> selvatico usa Lavasbuffo Z!
+<var> nemico usa Lavasbuffo Z!
+<var> dominante usa Lavasbuffo Z!
+<var> usa Verdebufera Z!
+<var> selvatico usa Verdebufera Z!
+<var> nemico usa Verdebufera Z!
+<var> dominante usa Verdebufera Z!
+<var> usa Vigorcolpo Z!
+<var> selvatico usa Vigorcolpo Z!
+<var> nemico usa Vigorcolpo Z!
+<var> dominante usa Vigorcolpo Z!
+<var> usa Devastomasso Z!
+<var> selvatico usa Devastomasso Z!
+<var> nemico usa Devastomasso Z!
+<var> dominante usa Devastomasso Z!
+<var> usa Velenocroce Z!
+<var> selvatico usa Velenocroce Z!
+<var> nemico usa Velenocroce Z!
+<var> dominante usa Velenocroce Z!
+<var> usa Sporcolancio Z!
+<var> selvatico usa Sporcolancio Z!
+<var> nemico usa Sporcolancio Z!
+<var> dominante usa Sporcolancio Z!
+<var> usa Metaltestata Z!
+<var> selvatico usa Metaltestata Z!
+<var> nemico usa Metaltestata Z!
+<var> dominante usa Metaltestata Z!
+<var> usa Bombagnete Z!
+<var> selvatico usa Bombagnete Z!
+<var> nemico usa Bombagnete Z!
+<var> dominante usa Bombagnete Z!
+<var> usa Pietrataglio Z!
+<var> selvatico usa Pietrataglio Z!
+<var> nemico usa Pietrataglio Z!
+<var> dominante usa Pietrataglio Z!
+<var> usa Incanto Z!
+<var> selvatico usa Incanto Z!
+<var> nemico usa Incanto Z!
+<var> dominante usa Incanto Z!
+<var> usa Levitoroccia Z!
+<var> selvatico usa Levitoroccia Z!
+<var> nemico usa Levitoroccia Z!
+<var> dominante usa Levitoroccia Z!
+<var> usa Laccioerboso Z!
+<var> selvatico usa Laccioerboso Z!
+<var> nemico usa Laccioerboso Z!
+<var> dominante usa Laccioerboso Z!
+<var> usa Schiamazzo Z!
+<var> selvatico usa Schiamazzo Z!
+<var> nemico usa Schiamazzo Z!
+<var> dominante usa Schiamazzo Z!
+<var> usa Giudizio Z!
+<var> selvatico usa Giudizio Z!
+<var> nemico usa Giudizio Z!
+<var> dominante usa Giudizio Z!
+<var> usa Coleomorso Z!
+<var> selvatico usa Coleomorso Z!
+<var> nemico usa Coleomorso Z!
+<var> dominante usa Coleomorso Z!
+<var> usa Raggioscossa Z!
+<var> selvatico usa Raggioscossa Z!
+<var> nemico usa Raggioscossa Z!
+<var> dominante usa Raggioscossa Z!
+<var> usa Mazzuolegno Z!
+<var> selvatico usa Mazzuolegno Z!
+<var> nemico usa Mazzuolegno Z!
+<var> dominante usa Mazzuolegno Z!
+<var> usa Acquagetto Z!
+<var> selvatico usa Acquagetto Z!
+<var> nemico usa Acquagetto Z!
+<var> dominante usa Acquagetto Z!
+<var> usa Comandourto Z!
+<var> selvatico usa Comandourto Z!
+<var> nemico usa Comandourto Z!
+<var> dominante usa Comandourto Z!
+<var> usa Comandoscudo Z!
+<var> selvatico usa Comandoscudo Z!
+<var> nemico usa Comandoscudo Z!
+<var> dominante usa Comandoscudo Z!
+<var> usa Comandocura Z!
+<var> selvatico usa Comandocura Z!
+<var> nemico usa Comandocura Z!
+<var> dominante usa Comandocura Z!
+<var> usa Zuccata Z!
+<var> selvatico usa Zuccata Z!
+<var> nemico usa Zuccata Z!
+<var> dominante usa Zuccata Z!
+<var> usa Doppiosmash Z!
+<var> selvatico usa Doppiosmash Z!
+<var> nemico usa Doppiosmash Z!
+<var> dominante usa Doppiosmash Z!
+<var> usa Fragortempo Z!
+<var> selvatico usa Fragortempo Z!
+<var> nemico usa Fragortempo Z!
+<var> dominante usa Fragortempo Z!
+<var> usa Fendispazio Z!
+<var> selvatico usa Fendispazio Z!
+<var> nemico usa Fendispazio Z!
+<var> dominante usa Fendispazio Z!
+<var> usa Lunardanza Z!
+<var> selvatico usa Lunardanza Z!
+<var> nemico usa Lunardanza Z!
+<var> dominante usa Lunardanza Z!
+<var> usa Sbriciolmano Z!
+<var> selvatico usa Sbriciolmano Z!
+<var> nemico usa Sbriciolmano Z!
+<var> dominante usa Sbriciolmano Z!
+<var> usa Magmaclisma Z!
+<var> selvatico usa Magmaclisma Z!
+<var> nemico usa Magmaclisma Z!
+<var> dominante usa Magmaclisma Z!
+<var> usa Vuototetro Z!
+<var> selvatico usa Vuototetro Z!
+<var> nemico usa Vuototetro Z!
+<var> dominante usa Vuototetro Z!
+<var> usa Infuriaseme Z!
+<var> selvatico usa Infuriaseme Z!
+<var> nemico usa Infuriaseme Z!
+<var> dominante usa Infuriaseme Z!
+<var> usa Funestovento Z!
+<var> selvatico usa Funestovento Z!
+<var> nemico usa Funestovento Z!
+<var> dominante usa Funestovento Z!
+<var> usa Oscurotuffo Z!
+<var> selvatico usa Oscurotuffo Z!
+<var> nemico usa Oscurotuffo Z!
+<var> dominante usa Oscurotuffo Z!
+<var> usa Unghiaguzze Z!
+<var> selvatico usa Unghiaguzze Z!
+<var> nemico usa Unghiaguzze Z!
+<var> dominante usa Unghiaguzze Z!
+<var> usa Bodyguard Z!
+<var> selvatico usa Bodyguard Z!
+<var> nemico usa Bodyguard Z!
+<var> dominante usa Bodyguard Z!
+<var> usa Paridifesa Z!
+<var> selvatico usa Paridifesa Z!
+<var> nemico usa Paridifesa Z!
+<var> dominante usa Paridifesa Z!
+<var> usa Pariattacco Z!
+<var> selvatico usa Pariattacco Z!
+<var> nemico usa Pariattacco Z!
+<var> dominante usa Pariattacco Z!
+<var> usa Mirabilzona Z!
+<var> selvatico usa Mirabilzona Z!
+<var> nemico usa Mirabilzona Z!
+<var> dominante usa Mirabilzona Z!
+<var> usa Psicoshock Z!
+<var> selvatico usa Psicoshock Z!
+<var> nemico usa Psicoshock Z!
+<var> dominante usa Psicoshock Z!
+<var> usa Velenoshock Z!
+<var> selvatico usa Velenoshock Z!
+<var> nemico usa Velenoshock Z!
+<var> dominante usa Velenoshock Z!
+<var> usa Sganciapesi Z!
+<var> selvatico usa Sganciapesi Z!
+<var> nemico usa Sganciapesi Z!
+<var> dominante usa Sganciapesi Z!
+<var> usa Polverabbia Z!
+<var> selvatico usa Polverabbia Z!
+<var> nemico usa Polverabbia Z!
+<var> dominante usa Polverabbia Z!
+<var> usa Telecinesi Z!
+<var> selvatico usa Telecinesi Z!
+<var> nemico usa Telecinesi Z!
+<var> dominante usa Telecinesi Z!
+<var> usa Magicozona Z!
+<var> selvatico usa Magicozona Z!
+<var> nemico usa Magicozona Z!
+<var> dominante usa Magicozona Z!
+<var> usa Abbattimento Z!
+<var> selvatico usa Abbattimento Z!
+<var> nemico usa Abbattimento Z!
+<var> dominante usa Abbattimento Z!
+<var> usa Tempestretta Z!
+<var> selvatico usa Tempestretta Z!
+<var> nemico usa Tempestretta Z!
+<var> dominante usa Tempestretta Z!
+<var> usa Pirolancio Z!
+<var> selvatico usa Pirolancio Z!
+<var> nemico usa Pirolancio Z!
+<var> dominante usa Pirolancio Z!
+<var> usa Fangonda Z!
+<var> selvatico usa Fangonda Z!
+<var> nemico usa Fangonda Z!
+<var> dominante usa Fangonda Z!
+<var> usa Eledanza Z!
+<var> selvatico usa Eledanza Z!
+<var> nemico usa Eledanza Z!
+<var> dominante usa Eledanza Z!
+<var> usa Pesobomba Z!
+<var> selvatico usa Pesobomba Z!
+<var> nemico usa Pesobomba Z!
+<var> dominante usa Pesobomba Z!
+<var> usa Sincrumore Z!
+<var> selvatico usa Sincrumore Z!
+<var> nemico usa Sincrumore Z!
+<var> dominante usa Sincrumore Z!
+<var> usa Energisfera Z!
+<var> selvatico usa Energisfera Z!
+<var> nemico usa Energisfera Z!
+<var> dominante usa Energisfera Z!
+<var> usa Inondazione Z!
+<var> selvatico usa Inondazione Z!
+<var> nemico usa Inondazione Z!
+<var> dominante usa Inondazione Z!
+<var> usa Nitrocarica Z!
+<var> selvatico usa Nitrocarica Z!
+<var> nemico usa Nitrocarica Z!
+<var> dominante usa Nitrocarica Z!
+<var> usa Arrotola Z!
+<var> selvatico usa Arrotola Z!
+<var> nemico usa Arrotola Z!
+<var> dominante usa Arrotola Z!
+<var> usa Calciobasso Z!
+<var> selvatico usa Calciobasso Z!
+<var> nemico usa Calciobasso Z!
+<var> dominante usa Calciobasso Z!
+<var> usa Acidobomba Z!
+<var> selvatico usa Acidobomba Z!
+<var> nemico usa Acidobomba Z!
+<var> dominante usa Acidobomba Z!
+<var> usa Ripicca Z!
+<var> selvatico usa Ripicca Z!
+<var> nemico usa Ripicca Z!
+<var> dominante usa Ripicca Z!
+<var> usa Ondisinvolta Z!
+<var> selvatico usa Ondisinvolta Z!
+<var> nemico usa Ondisinvolta Z!
+<var> dominante usa Ondisinvolta Z!
+<var> usa Saltamicizia Z!
+<var> selvatico usa Saltamicizia Z!
+<var> nemico usa Saltamicizia Z!
+<var> dominante usa Saltamicizia Z!
+<var> usa Cortesia Z!
+<var> selvatico usa Cortesia Z!
+<var> nemico usa Cortesia Z!
+<var> dominante usa Cortesia Z!
+<var> usa Coro Z!
+<var> selvatico usa Coro Z!
+<var> nemico usa Coro Z!
+<var> dominante usa Coro Z!
+<var> usa Echeggiavoce Z!
+<var> selvatico usa Echeggiavoce Z!
+<var> nemico usa Echeggiavoce Z!
+<var> dominante usa Echeggiavoce Z!
+<var> usa Insidia Z!
+<var> selvatico usa Insidia Z!
+<var> nemico usa Insidia Z!
+<var> dominante usa Insidia Z!
+<var> usa Pulifumo Z!
+<var> selvatico usa Pulifumo Z!
+<var> nemico usa Pulifumo Z!
+<var> dominante usa Pulifumo Z!
+<var> usa Veicolaforza Z!
+<var> selvatico usa Veicolaforza Z!
+<var> nemico usa Veicolaforza Z!
+<var> dominante usa Veicolaforza Z!
+<var> usa Anticipo Z!
+<var> selvatico usa Anticipo Z!
+<var> nemico usa Anticipo Z!
+<var> dominante usa Anticipo Z!
+<var> usa Cambiaposto Z!
+<var> selvatico usa Cambiaposto Z!
+<var> nemico usa Cambiaposto Z!
+<var> dominante usa Cambiaposto Z!
+<var> usa Idrovampata Z!
+<var> selvatico usa Idrovampata Z!
+<var> nemico usa Idrovampata Z!
+<var> dominante usa Idrovampata Z!
+<var> usa Gettaguscio Z!
+<var> selvatico usa Gettaguscio Z!
+<var> nemico usa Gettaguscio Z!
+<var> dominante usa Gettaguscio Z!
+<var> usa Ondasana Z!
+<var> selvatico usa Ondasana Z!
+<var> nemico usa Ondasana Z!
+<var> dominante usa Ondasana Z!
+<var> usa Sciagura Z!
+<var> selvatico usa Sciagura Z!
+<var> nemico usa Sciagura Z!
+<var> dominante usa Sciagura Z!
+<var> usa Cadutalibera Z!
+<var> selvatico usa Cadutalibera Z!
+<var> nemico usa Cadutalibera Z!
+<var> dominante usa Cadutalibera Z!
+<var> usa Cambiomarcia Z!
+<var> selvatico usa Cambiomarcia Z!
+<var> nemico usa Cambiomarcia Z!
+<var> dominante usa Cambiomarcia Z!
+<var> usa Ribaltiro Z!
+<var> selvatico usa Ribaltiro Z!
+<var> nemico usa Ribaltiro Z!
+<var> dominante usa Ribaltiro Z!
+<var> usa Bruciatutto Z!
+<var> selvatico usa Bruciatutto Z!
+<var> nemico usa Bruciatutto Z!
+<var> dominante usa Bruciatutto Z!
+<var> usa Spintone Z!
+<var> selvatico usa Spintone Z!
+<var> nemico usa Spintone Z!
+<var> dominante usa Spintone Z!
+<var> usa Acrobazia Z!
+<var> selvatico usa Acrobazia Z!
+<var> nemico usa Acrobazia Z!
+<var> dominante usa Acrobazia Z!
+<var> usa Riflettipo Z!
+<var> selvatico usa Riflettipo Z!
+<var> nemico usa Riflettipo Z!
+<var> dominante usa Riflettipo Z!
+<var> usa Nemesi Z!
+<var> selvatico usa Nemesi Z!
+<var> nemico usa Nemesi Z!
+<var> dominante usa Nemesi Z!
+<var> usa Azzardo Z!
+<var> selvatico usa Azzardo Z!
+<var> nemico usa Azzardo Z!
+<var> dominante usa Azzardo Z!
+<var> usa Cediregalo Z!
+<var> selvatico usa Cediregalo Z!
+<var> nemico usa Cediregalo Z!
+<var> dominante usa Cediregalo Z!
+<var> usa Marchiatura Z!
+<var> selvatico usa Marchiatura Z!
+<var> nemico usa Marchiatura Z!
+<var> dominante usa Marchiatura Z!
+<var> usa Acquapatto Z!
+<var> selvatico usa Acquapatto Z!
+<var> nemico usa Acquapatto Z!
+<var> dominante usa Acquapatto Z!
+<var> usa Fiammapatto Z!
+<var> selvatico usa Fiammapatto Z!
+<var> nemico usa Fiammapatto Z!
+<var> dominante usa Fiammapatto Z!
+<var> usa Erbapatto Z!
+<var> selvatico usa Erbapatto Z!
+<var> nemico usa Erbapatto Z!
+<var> dominante usa Erbapatto Z!
+<var> usa Invertivolt Z!
+<var> selvatico usa Invertivolt Z!
+<var> nemico usa Invertivolt Z!
+<var> dominante usa Invertivolt Z!
+<var> usa Entomoblocco Z!
+<var> selvatico usa Entomoblocco Z!
+<var> nemico usa Entomoblocco Z!
+<var> dominante usa Entomoblocco Z!
+<var> usa Battiterra Z!
+<var> selvatico usa Battiterra Z!
+<var> nemico usa Battiterra Z!
+<var> dominante usa Battiterra Z!
+<var> usa Alitogelido Z!
+<var> selvatico usa Alitogelido Z!
+<var> nemico usa Alitogelido Z!
+<var> dominante usa Alitogelido Z!
+<var> usa Codadrago Z!
+<var> selvatico usa Codadrago Z!
+<var> nemico usa Codadrago Z!
+<var> dominante usa Codadrago Z!
+<var> usa Cuordileone Z!
+<var> selvatico usa Cuordileone Z!
+<var> nemico usa Cuordileone Z!
+<var> dominante usa Cuordileone Z!
+<var> usa Elettrotela Z!
+<var> selvatico usa Elettrotela Z!
+<var> nemico usa Elettrotela Z!
+<var> dominante usa Elettrotela Z!
+<var> usa Sprizzalampo Z!
+<var> selvatico usa Sprizzalampo Z!
+<var> nemico usa Sprizzalampo Z!
+<var> dominante usa Sprizzalampo Z!
+<var> usa Giravvita Z!
+<var> selvatico usa Giravvita Z!
+<var> nemico usa Giravvita Z!
+<var> dominante usa Giravvita Z!
+<var> usa Doppiocolpo Z!
+<var> selvatico usa Doppiocolpo Z!
+<var> nemico usa Doppiocolpo Z!
+<var> dominante usa Doppiocolpo Z!
+<var> usa Cuorestampo Z!
+<var> selvatico usa Cuorestampo Z!
+<var> nemico usa Cuorestampo Z!
+<var> dominante usa Cuorestampo Z!
+<var> usa Legnicorno Z!
+<var> selvatico usa Legnicorno Z!
+<var> nemico usa Legnicorno Z!
+<var> dominante usa Legnicorno Z!
+<var> usa Spadasolenne Z!
+<var> selvatico usa Spadasolenne Z!
+<var> nemico usa Spadasolenne Z!
+<var> dominante usa Spadasolenne Z!
+<var> usa Conchilama Z!
+<var> selvatico usa Conchilama Z!
+<var> nemico usa Conchilama Z!
+<var> dominante usa Conchilama Z!
+<var> usa Marchiafuoco Z!
+<var> selvatico usa Marchiafuoco Z!
+<var> nemico usa Marchiafuoco Z!
+<var> dominante usa Marchiafuoco Z!
+<var> usa Vorticerba Z!
+<var> selvatico usa Vorticerba Z!
+<var> nemico usa Vorticerba Z!
+<var> dominante usa Vorticerba Z!
+<var> usa Rulloduro Z!
+<var> selvatico usa Rulloduro Z!
+<var> nemico usa Rulloduro Z!
+<var> dominante usa Rulloduro Z!
+<var> usa Cotonscudo Z!
+<var> selvatico usa Cotonscudo Z!
+<var> nemico usa Cotonscudo Z!
+<var> dominante usa Cotonscudo Z!
+<var> usa Urtoscuro Z!
+<var> selvatico usa Urtoscuro Z!
+<var> nemico usa Urtoscuro Z!
+<var> dominante usa Urtoscuro Z!
+<var> usa Psicobotta Z!
+<var> selvatico usa Psicobotta Z!
+<var> nemico usa Psicobotta Z!
+<var> dominante usa Psicobotta Z!
+<var> usa Spazzasberla Z!
+<var> selvatico usa Spazzasberla Z!
+<var> nemico usa Spazzasberla Z!
+<var> dominante usa Spazzasberla Z!
+<var> usa Tifone Z!
+<var> selvatico usa Tifone Z!
+<var> nemico usa Tifone Z!
+<var> dominante usa Tifone Z!
+<var> usa Ricciolata Z!
+<var> selvatico usa Ricciolata Z!
+<var> nemico usa Ricciolata Z!
+<var> dominante usa Ricciolata Z!
+<var> usa Ingracolpo Z!
+<var> selvatico usa Ingracolpo Z!
+<var> nemico usa Ingracolpo Z!
+<var> dominante usa Ingracolpo Z!
+<var> usa Sparafuoco Z!
+<var> selvatico usa Sparafuoco Z!
+<var> nemico usa Sparafuoco Z!
+<var> dominante usa Sparafuoco Z!
+<var> usa Tecnobotto Z!
+<var> selvatico usa Tecnobotto Z!
+<var> nemico usa Tecnobotto Z!
+<var> dominante usa Tecnobotto Z!
+<var> usa Cantoantico Z!
+<var> selvatico usa Cantoantico Z!
+<var> nemico usa Cantoantico Z!
+<var> dominante usa Cantoantico Z!
+<var> usa Spadamistica Z!
+<var> selvatico usa Spadamistica Z!
+<var> nemico usa Spadamistica Z!
+<var> dominante usa Spadamistica Z!
+<var> usa Gelamondo Z!
+<var> selvatico usa Gelamondo Z!
+<var> nemico usa Gelamondo Z!
+<var> dominante usa Gelamondo Z!
+<var> usa Lucesiluro Z!
+<var> selvatico usa Lucesiluro Z!
+<var> nemico usa Lucesiluro Z!
+<var> dominante usa Lucesiluro Z!
+<var> usa Fuocoblu Z!
+<var> selvatico usa Fuocoblu Z!
+<var> nemico usa Fuocoblu Z!
+<var> dominante usa Fuocoblu Z!
+<var> usa Voldifuoco Z!
+<var> selvatico usa Voldifuoco Z!
+<var> nemico usa Voldifuoco Z!
+<var> dominante usa Voldifuoco Z!
+<var> usa Elettrogelo Z!
+<var> selvatico usa Elettrogelo Z!
+<var> nemico usa Elettrogelo Z!
+<var> dominante usa Elettrogelo Z!
+<var> usa Vampagelida Z!
+<var> selvatico usa Vampagelida Z!
+<var> nemico usa Vampagelida Z!
+<var> dominante usa Vampagelida Z!
+<var> usa Urlorabbia Z!
+<var> selvatico usa Urlorabbia Z!
+<var> nemico usa Urlorabbia Z!
+<var> dominante usa Urlorabbia Z!
+<var> usa Scagliagelo Z!
+<var> selvatico usa Scagliagelo Z!
+<var> nemico usa Scagliagelo Z!
+<var> dominante usa Scagliagelo Z!
+<var> usa Generatore V Z!
+<var> selvatico usa Generatore V Z!
+<var> nemico usa Generatore V Z!
+<var> dominante usa Generatore V Z!
+<var> usa Incrofiamma Z!
+<var> selvatico usa Incrofiamma Z!
+<var> nemico usa Incrofiamma Z!
+<var> dominante usa Incrofiamma Z!
+<var> usa Incrotuono Z!
+<var> selvatico usa Incrotuono Z!
+<var> nemico usa Incrotuono Z!
+<var> dominante usa Incrotuono Z!
+<var> usa Schiacciatuffo Z!
+<var> selvatico usa Schiacciatuffo Z!
+<var> nemico usa Schiacciatuffo Z!
+<var> dominante usa Schiacciatuffo Z!
+<var> usa Ribaltappeto Z!
+<var> selvatico usa Ribaltappeto Z!
+<var> nemico usa Ribaltappeto Z!
+<var> dominante usa Ribaltappeto Z!
+<var> usa Rutto Z!
+<var> selvatico usa Rutto Z!
+<var> nemico usa Rutto Z!
+<var> dominante usa Rutto Z!
+<var> usa Aracampo Z!
+<var> selvatico usa Aracampo Z!
+<var> nemico usa Aracampo Z!
+<var> dominante usa Aracampo Z!
+<var> usa Rete Vischiosa Z!
+<var> selvatico usa Rete Vischiosa Z!
+<var> nemico usa Rete Vischiosa Z!
+<var> dominante usa Rete Vischiosa Z!
+<var> usa Pungiglione Z!
+<var> selvatico usa Pungiglione Z!
+<var> nemico usa Pungiglione Z!
+<var> dominante usa Pungiglione Z!
+<var> usa Spettrotuffo Z!
+<var> selvatico usa Spettrotuffo Z!
+<var> nemico usa Spettrotuffo Z!
+<var> dominante usa Spettrotuffo Z!
+<var> usa Halloween Z!
+<var> selvatico usa Halloween Z!
+<var> nemico usa Halloween Z!
+<var> dominante usa Halloween Z!
+<var> usa Urlo Z!
+<var> selvatico usa Urlo Z!
+<var> nemico usa Urlo Z!
+<var> dominante usa Urlo Z!
+<var> usa Pioggiaplasma Z!
+<var> selvatico usa Pioggiaplasma Z!
+<var> nemico usa Pioggiaplasma Z!
+<var> dominante usa Pioggiaplasma Z!
+<var> usa Caricaparabola Z!
+<var> selvatico usa Caricaparabola Z!
+<var> nemico usa Caricaparabola Z!
+<var> dominante usa Caricaparabola Z!
+<var> usa Boscomalocchio Z!
+<var> selvatico usa Boscomalocchio Z!
+<var> nemico usa Boscomalocchio Z!
+<var> dominante usa Boscomalocchio Z!
+<var> usa Fiortempesta Z!
+<var> selvatico usa Fiortempesta Z!
+<var> nemico usa Fiortempesta Z!
+<var> dominante usa Fiortempesta Z!
+<var> usa Liofilizzazione Z!
+<var> selvatico usa Liofilizzazione Z!
+<var> nemico usa Liofilizzazione Z!
+<var> dominante usa Liofilizzazione Z!
+<var> usa Incantavoce Z!
+<var> selvatico usa Incantavoce Z!
+<var> nemico usa Incantavoce Z!
+<var> dominante usa Incantavoce Z!
+<var> usa Monito Z!
+<var> selvatico usa Monito Z!
+<var> nemico usa Monito Z!
+<var> dominante usa Monito Z!
+<var> usa Sottosopra Z!
+<var> selvatico usa Sottosopra Z!
+<var> nemico usa Sottosopra Z!
+<var> dominante usa Sottosopra Z!
+<var> usa Assorbibacio Z!
+<var> selvatico usa Assorbibacio Z!
+<var> nemico usa Assorbibacio Z!
+<var> dominante usa Assorbibacio Z!
+<var> usa Truccodifesa Z!
+<var> selvatico usa Truccodifesa Z!
+<var> nemico usa Truccodifesa Z!
+<var> dominante usa Truccodifesa Z!
+<var> usa Fiordifesa Z!
+<var> selvatico usa Fiordifesa Z!
+<var> nemico usa Fiordifesa Z!
+<var> dominante usa Fiordifesa Z!
+<var> usa Campo Erboso Z!
+<var> selvatico usa Campo Erboso Z!
+<var> nemico usa Campo Erboso Z!
+<var> dominante usa Campo Erboso Z!
+<var> usa Campo Nebbioso Z!
+<var> selvatico usa Campo Nebbioso Z!
+<var> nemico usa Campo Nebbioso Z!
+<var> dominante usa Campo Nebbioso Z!
+<var> usa Elettrocontagio Z!
+<var> selvatico usa Elettrocontagio Z!
+<var> nemico usa Elettrocontagio Z!
+<var> dominante usa Elettrocontagio Z!
+<var> usa Carineria Z!
+<var> selvatico usa Carineria Z!
+<var> nemico usa Carineria Z!
+<var> dominante usa Carineria Z!
+<var> usa Vento di Fata Z!
+<var> selvatico usa Vento di Fata Z!
+<var> nemico usa Vento di Fata Z!
+<var> dominante usa Vento di Fata Z!
+<var> usa Forza Lunare Z!
+<var> selvatico usa Forza Lunare Z!
+<var> nemico usa Forza Lunare Z!
+<var> dominante usa Forza Lunare Z!
+<var> usa Ondaboato Z!
+<var> selvatico usa Ondaboato Z!
+<var> nemico usa Ondaboato Z!
+<var> dominante usa Ondaboato Z!
+<var> usa Blocco Fatato Z!
+<var> selvatico usa Blocco Fatato Z!
+<var> nemico usa Blocco Fatato Z!
+<var> dominante usa Blocco Fatato Z!
+<var> usa Scudo Reale Z!
+<var> selvatico usa Scudo Reale Z!
+<var> nemico usa Scudo Reale Z!
+<var> dominante usa Scudo Reale Z!
+<var> usa Simpatia Z!
+<var> selvatico usa Simpatia Z!
+<var> nemico usa Simpatia Z!
+<var> dominante usa Simpatia Z!
+<var> usa Confidenza Z!
+<var> selvatico usa Confidenza Z!
+<var> nemico usa Confidenza Z!
+<var> dominante usa Confidenza Z!
+<var> usa Diamantempesta Z!
+<var> selvatico usa Diamantempesta Z!
+<var> nemico usa Diamantempesta Z!
+<var> dominante usa Diamantempesta Z!
+<var> usa Vaporscoppio Z!
+<var> selvatico usa Vaporscoppio Z!
+<var> nemico usa Vaporscoppio Z!
+<var> dominante usa Vaporscoppio Z!
+<var> usa Forodimensionale Z!
+<var> selvatico usa Forodimensionale Z!
+<var> nemico usa Forodimensionale Z!
+<var> dominante usa Forodimensionale Z!
+<var> usa Acqualame Z!
+<var> selvatico usa Acqualame Z!
+<var> nemico usa Acqualame Z!
+<var> dominante usa Acqualame Z!
+<var> usa Magifiamma Z!
+<var> selvatico usa Magifiamma Z!
+<var> nemico usa Magifiamma Z!
+<var> dominante usa Magifiamma Z!
+<var> usa Agodifesa Z!
+<var> selvatico usa Agodifesa Z!
+<var> nemico usa Agodifesa Z!
+<var> dominante usa Agodifesa Z!
+<var> usa Nebularoma Z!
+<var> selvatico usa Nebularoma Z!
+<var> nemico usa Nebularoma Z!
+<var> dominante usa Nebularoma Z!
+<var> usa Elettromistero Z!
+<var> selvatico usa Elettromistero Z!
+<var> nemico usa Elettromistero Z!
+<var> dominante usa Elettromistero Z!
+<var> usa Velenotrappola Z!
+<var> selvatico usa Velenotrappola Z!
+<var> nemico usa Velenotrappola Z!
+<var> dominante usa Velenotrappola Z!
+<var> usa Pulviscoppio Z!
+<var> selvatico usa Pulviscoppio Z!
+<var> nemico usa Pulviscoppio Z!
+<var> dominante usa Pulviscoppio Z!
+<var> usa Geocontrollo Z!
+<var> selvatico usa Geocontrollo Z!
+<var> nemico usa Geocontrollo Z!
+<var> dominante usa Geocontrollo Z!
+<var> usa Controllo Polare Z!
+<var> selvatico usa Controllo Polare Z!
+<var> nemico usa Controllo Polare Z!
+<var> dominante usa Controllo Polare Z!
+<var> usa Cuccagna Z!
+<var> selvatico usa Cuccagna Z!
+<var> nemico usa Cuccagna Z!
+<var> dominante usa Cuccagna Z!
+<var> usa Campo Elettrico Z!
+<var> selvatico usa Campo Elettrico Z!
+<var> nemico usa Campo Elettrico Z!
+<var> dominante usa Campo Elettrico Z!
+<var> usa Magibrillio Z!
+<var> selvatico usa Magibrillio Z!
+<var> nemico usa Magibrillio Z!
+<var> dominante usa Magibrillio Z!
+<var> usa Auguri Z!
+<var> selvatico usa Auguri Z!
+<var> nemico usa Auguri Z!
+<var> dominante usa Auguri Z!
+<var> usa Mano nella Mano Z!
+<var> selvatico usa Mano nella Mano Z!
+<var> nemico usa Mano nella Mano Z!
+<var> dominante usa Mano nella Mano Z!
+<var> usa Occhioni Teneri Z!
+<var> selvatico usa Occhioni Teneri Z!
+<var> nemico usa Occhioni Teneri Z!
+<var> dominante usa Occhioni Teneri Z!
+<var> usa Elettrococcola Z!
+<var> selvatico usa Elettrococcola Z!
+<var> nemico usa Elettrococcola Z!
+<var> dominante usa Elettrococcola Z!
+<var> usa Riguardo Z!
+<var> selvatico usa Riguardo Z!
+<var> nemico usa Riguardo Z!
+<var> dominante usa Riguardo Z!
+<var> usa Assillo Z!
+<var> selvatico usa Assillo Z!
+<var> nemico usa Assillo Z!
+<var> dominante usa Assillo Z!
+<var> usa Crescipugno Z!
+<var> selvatico usa Crescipugno Z!
+<var> nemico usa Crescipugno Z!
+<var> dominante usa Crescipugno Z!
+<var> usa Ali del Fato Z!
+<var> selvatico usa Ali del Fato Z!
+<var> nemico usa Ali del Fato Z!
+<var> dominante usa Ali del Fato Z!
+<var> usa Mille Frecce Z!
+<var> selvatico usa Mille Frecce Z!
+<var> nemico usa Mille Frecce Z!
+<var> dominante usa Mille Frecce Z!
+<var> usa Mille Onde Z!
+<var> selvatico usa Mille Onde Z!
+<var> nemico usa Mille Onde Z!
+<var> dominante usa Mille Onde Z!
+<var> usa Forza Tellurica Z!
+<var> selvatico usa Forza Tellurica Z!
+<var> nemico usa Forza Tellurica Z!
+<var> dominante usa Forza Tellurica Z!
+<var> usa Luce Nefasta Z!
+<var> selvatico usa Luce Nefasta Z!
+<var> nemico usa Luce Nefasta Z!
+<var> dominante usa Luce Nefasta Z!
+<var> usa Primopulsar Z!
+<var> selvatico usa Primopulsar Z!
+<var> nemico usa Primopulsar Z!
+<var> dominante usa Primopulsar Z!
+<var> usa Spade Telluriche Z!
+<var> selvatico usa Spade Telluriche Z!
+<var> nemico usa Spade Telluriche Z!
+<var> dominante usa Spade Telluriche Z!
+<var> usa Ascesa del Drago Z!
+<var> selvatico usa Ascesa del Drago Z!
+<var> nemico usa Ascesa del Drago Z!
+<var> dominante usa Ascesa del Drago Z!
+<var> usa Urtodimensionale Z!
+<var> selvatico usa Urtodimensionale Z!
+<var> nemico usa Urtodimensionale Z!
+<var> dominante usa Urtodimensionale Z!
+<var> usa Carica Travolgente!
+<var> selvatico usa Carica Travolgente!
+<var> nemico usa Carica Travolgente!
+<var> dominante usa Carica Travolgente!
+<var> usa Carica Travolgente!
+<var> selvatico usa Carica Travolgente!
+<var> nemico usa Carica Travolgente!
+<var> dominante usa Carica Travolgente!
+<var> usa Iperscarica Furiosa!
+<var> selvatico usa Iperscarica Furiosa!
+<var> nemico usa Iperscarica Furiosa!
+<var> dominante usa Iperscarica Furiosa!
+<var> usa Iperscarica Furiosa!
+<var> selvatico usa Iperscarica Furiosa!
+<var> nemico usa Iperscarica Furiosa!
+<var> dominante usa Iperscarica Furiosa!
+<var> usa Picchiata Devastante!
+<var> selvatico usa Picchiata Devastante!
+<var> nemico usa Picchiata Devastante!
+<var> dominante usa Picchiata Devastante!
+<var> usa Picchiata Devastante!
+<var> selvatico usa Picchiata Devastante!
+<var> nemico usa Picchiata Devastante!
+<var> dominante usa Picchiata Devastante!
+<var> usa Acidiluvio Corrosivo!
+<var> selvatico usa Acidiluvio Corrosivo!
+<var> nemico usa Acidiluvio Corrosivo!
+<var> dominante usa Acidiluvio Corrosivo!
+<var> usa Acidiluvio Corrosivo!
+<var> selvatico usa Acidiluvio Corrosivo!
+<var> nemico usa Acidiluvio Corrosivo!
+<var> dominante usa Acidiluvio Corrosivo!
+<var> usa Furore della Terra!
+<var> selvatico usa Furore della Terra!
+<var> nemico usa Furore della Terra!
+<var> dominante usa Furore della Terra!
+<var> usa Furore della Terra!
+<var> selvatico usa Furore della Terra!
+<var> nemico usa Furore della Terra!
+<var> dominante usa Furore della Terra!
+<var> usa Gigamacigno Polverizzante!
+<var> selvatico usa Gigamacigno Polverizzante!
+<var> nemico usa Gigamacigno Polverizzante!
+<var> dominante usa Gigamacigno Polverizzante!
+<var> usa Gigamacigno Polverizzante!
+<var> selvatico usa Gigamacigno Polverizzante!
+<var> nemico usa Gigamacigno Polverizzante!
+<var> dominante usa Gigamacigno Polverizzante!
+<var> usa Bozzolo Fatale!
+<var> selvatico usa Bozzolo Fatale!
+<var> nemico usa Bozzolo Fatale!
+<var> dominante usa Bozzolo Fatale!
+<var> usa Bozzolo Fatale!
+<var> selvatico usa Bozzolo Fatale!
+<var> nemico usa Bozzolo Fatale!
+<var> dominante usa Bozzolo Fatale!
+<var> usa Abbraccio Spettrale!
+<var> selvatico usa Abbraccio Spettrale!
+<var> nemico usa Abbraccio Spettrale!
+<var> dominante usa Abbraccio Spettrale!
+<var> usa Abbraccio Spettrale!
+<var> selvatico usa Abbraccio Spettrale!
+<var> nemico usa Abbraccio Spettrale!
+<var> dominante usa Abbraccio Spettrale!
+<var> usa Spirale Perforante!
+<var> selvatico usa Spirale Perforante!
+<var> nemico usa Spirale Perforante!
+<var> dominante usa Spirale Perforante!
+<var> usa Spirale Perforante!
+<var> selvatico usa Spirale Perforante!
+<var> nemico usa Spirale Perforante!
+<var> dominante usa Spirale Perforante!
+<var> usa Fiammobomba Detonante!
+<var> selvatico usa Fiammobomba Detonante!
+<var> nemico usa Fiammobomba Detonante!
+<var> dominante usa Fiammobomba Detonante!
+<var> usa Fiammobomba Detonante!
+<var> selvatico usa Fiammobomba Detonante!
+<var> nemico usa Fiammobomba Detonante!
+<var> dominante usa Fiammobomba Detonante!
+<var> usa Idrovortice Abissale!
+<var> selvatico usa Idrovortice Abissale!
+<var> nemico usa Idrovortice Abissale!
+<var> dominante usa Idrovortice Abissale!
+<var> usa Idrovortice Abissale!
+<var> selvatico usa Idrovortice Abissale!
+<var> nemico usa Idrovortice Abissale!
+<var> dominante usa Idrovortice Abissale!
+<var> usa Floriscoppio Sfolgorante!
+<var> selvatico usa Floriscoppio Sfolgorante!
+<var> nemico usa Floriscoppio Sfolgorante!
+<var> dominante usa Floriscoppio Sfolgorante!
+<var> usa Floriscoppio Sfolgorante!
+<var> selvatico usa Floriscoppio Sfolgorante!
+<var> nemico usa Floriscoppio Sfolgorante!
+<var> dominante usa Floriscoppio Sfolgorante!
+<var> usa Gigascarica Folgorante!
+<var> selvatico usa Gigascarica Folgorante!
+<var> nemico usa Gigascarica Folgorante!
+<var> dominante usa Gigascarica Folgorante!
+<var> usa Gigascarica Folgorante!
+<var> selvatico usa Gigascarica Folgorante!
+<var> nemico usa Gigascarica Folgorante!
+<var> dominante usa Gigascarica Folgorante!
+<var> usa Impatto Psicocinetico!
+<var> selvatico usa Impatto Psicocinetico!
+<var> nemico usa Impatto Psicocinetico!
+<var> dominante usa Impatto Psicocinetico!
+<var> usa Impatto Psicocinetico!
+<var> selvatico usa Impatto Psicocinetico!
+<var> nemico usa Impatto Psicocinetico!
+<var> dominante usa Impatto Psicocinetico!
+<var> usa Criodistruzione Polare!
+<var> selvatico usa Criodistruzione Polare!
+<var> nemico usa Criodistruzione Polare!
+<var> dominante usa Criodistruzione Polare!
+<var> usa Criodistruzione Polare!
+<var> selvatico usa Criodistruzione Polare!
+<var> nemico usa Criodistruzione Polare!
+<var> dominante usa Criodistruzione Polare!
+<var> usa Dragoschianto Finale!
+<var> selvatico usa Dragoschianto Finale!
+<var> nemico usa Dragoschianto Finale!
+<var> dominante usa Dragoschianto Finale!
+<var> usa Dragoschianto Finale!
+<var> selvatico usa Dragoschianto Finale!
+<var> nemico usa Dragoschianto Finale!
+<var> dominante usa Dragoschianto Finale!
+<var> usa Buco Nero del Non Ritorno!
+<var> selvatico usa Buco Nero del Non Ritorno!
+<var> nemico usa Buco Nero del Non Ritorno!
+<var> dominante usa Buco Nero del Non Ritorno!
+<var> usa Buco Nero del Non Ritorno!
+<var> selvatico usa Buco Nero del Non Ritorno!
+<var> nemico usa Buco Nero del Non Ritorno!
+<var> dominante usa Buco Nero del Non Ritorno!
+<var> usa Astroimpatto Fatato!
+<var> selvatico usa Astroimpatto Fatato!
+<var> nemico usa Astroimpatto Fatato!
+<var> dominante usa Astroimpatto Fatato!
+<var> usa Astroimpatto Fatato!
+<var> selvatico usa Astroimpatto Fatato!
+<var> nemico usa Astroimpatto Fatato!
+<var> dominante usa Astroimpatto Fatato!
+<var> usa Super Pikaboom!
+<var> selvatico usa Super Pikaboom!
+<var> nemico usa Super Pikaboom!
+<var> dominante usa Super Pikaboom!
+<var> usa Sabbiaccumulo Z!
+<var> selvatico usa Sabbiaccumulo Z!
+<var> nemico usa Sabbiaccumulo Z!
+<var> dominante usa Sabbiaccumulo Z!
+<var> usa Schermaglia Z!
+<var> selvatico usa Schermaglia Z!
+<var> nemico usa Schermaglia Z!
+<var> dominante usa Schermaglia Z!
+<var> usa Fortino Z!
+<var> selvatico usa Fortino Z!
+<var> nemico usa Fortino Z!
+<var> dominante usa Fortino Z!
+<var> usa Cucitura d'Ombra Z!
+<var> selvatico usa Cucitura d'Ombra Z!
+<var> nemico usa Cucitura d'Ombra Z!
+<var> dominante usa Cucitura d'Ombra Z!
+<var> usa Braccioteso Z!
+<var> selvatico usa Braccioteso Z!
+<var> nemico usa Braccioteso Z!
+<var> dominante usa Braccioteso Z!
+<var> usa Canto Effimero Z!
+<var> selvatico usa Canto Effimero Z!
+<var> nemico usa Canto Effimero Z!
+<var> dominante usa Canto Effimero Z!
+<var> usa Martelgelo Z!
+<var> selvatico usa Martelgelo Z!
+<var> nemico usa Martelgelo Z!
+<var> dominante usa Martelgelo Z!
+<var> usa Cura Floreale Z!
+<var> selvatico usa Cura Floreale Z!
+<var> nemico usa Cura Floreale Z!
+<var> dominante usa Cura Floreale Z!
+<var> usa Forza Equina Z!
+<var> selvatico usa Forza Equina Z!
+<var> nemico usa Forza Equina Z!
+<var> dominante usa Forza Equina Z!
+<var> usa Assorbiforza Z!
+<var> selvatico usa Assorbiforza Z!
+<var> nemico usa Assorbiforza Z!
+<var> dominante usa Assorbiforza Z!
+<var> usa Lama Solare Z!
+<var> selvatico usa Lama Solare Z!
+<var> nemico usa Lama Solare Z!
+<var> dominante usa Lama Solare Z!
+<var> usa Fogliame Z!
+<var> selvatico usa Fogliame Z!
+<var> nemico usa Fogliame Z!
+<var> dominante usa Fogliame Z!
+<var> usa Riflettore Z!
+<var> selvatico usa Riflettore Z!
+<var> nemico usa Riflettore Z!
+<var> dominante usa Riflettore Z!
+<var> usa Velenotela Z!
+<var> selvatico usa Velenotela Z!
+<var> nemico usa Velenotela Z!
+<var> dominante usa Velenotela Z!
+<var> usa Concentrazione Z!
+<var> selvatico usa Concentrazione Z!
+<var> nemico usa Concentrazione Z!
+<var> dominante usa Concentrazione Z!
+<var> usa Marciainpiù Z!
+<var> selvatico usa Marciainpiù Z!
+<var> nemico usa Marciainpiù Z!
+<var> dominante usa Marciainpiù Z!
+<var> usa Colpo Infernale Z!
+<var> selvatico usa Colpo Infernale Z!
+<var> nemico usa Colpo Infernale Z!
+<var> dominante usa Colpo Infernale Z!
+<var> usa Sferapolline Z!
+<var> selvatico usa Sferapolline Z!
+<var> nemico usa Sferapolline Z!
+<var> dominante usa Sferapolline Z!
+<var> usa Colpo d'Ancora Z!
+<var> selvatico usa Colpo d'Ancora Z!
+<var> nemico usa Colpo d'Ancora Z!
+<var> dominante usa Colpo d'Ancora Z!
+<var> usa Campo Psichico Z!
+<var> selvatico usa Campo Psichico Z!
+<var> nemico usa Campo Psichico Z!
+<var> dominante usa Campo Psichico Z!
+<var> usa Assalto Z!
+<var> selvatico usa Assalto Z!
+<var> nemico usa Assalto Z!
+<var> dominante usa Assalto Z!
+<var> usa Frusta di Fuoco Z!
+<var> selvatico usa Frusta di Fuoco Z!
+<var> nemico usa Frusta di Fuoco Z!
+<var> dominante usa Frusta di Fuoco Z!
+<var> usa Tracotanza Z!
+<var> selvatico usa Tracotanza Z!
+<var> nemico usa Tracotanza Z!
+<var> dominante usa Tracotanza Z!
+<var> usa Ultima Fiamma Z!
+<var> selvatico usa Ultima Fiamma Z!
+<var> nemico usa Ultima Fiamma Z!
+<var> dominante usa Ultima Fiamma Z!
+<var> usa Velociscambio Z!
+<var> selvatico usa Velociscambio Z!
+<var> nemico usa Velociscambio Z!
+<var> dominante usa Velociscambio Z!
+<var> usa Sottilcorno Z!
+<var> selvatico usa Sottilcorno Z!
+<var> nemico usa Sottilcorno Z!
+<var> dominante usa Sottilcorno Z!
+<var> usa Purificazione Z!
+<var> selvatico usa Purificazione Z!
+<var> nemico usa Purificazione Z!
+<var> dominante usa Purificazione Z!
+<var> usa Mutadanza Z!
+<var> selvatico usa Mutadanza Z!
+<var> nemico usa Mutadanza Z!
+<var> dominante usa Mutadanza Z!
+<var> usa Nucleocastigo Z!
+<var> selvatico usa Nucleocastigo Z!
+<var> nemico usa Nucleocastigo Z!
+<var> dominante usa Nucleocastigo Z!
+<var> usa Tropicalcio Z!
+<var> selvatico usa Tropicalcio Z!
+<var> nemico usa Tropicalcio Z!
+<var> dominante usa Tropicalcio Z!
+<var> usa Imposizione Z!
+<var> selvatico usa Imposizione Z!
+<var> nemico usa Imposizione Z!
+<var> dominante usa Imposizione Z!
+<var> usa Cannonbecco Z!
+<var> selvatico usa Cannonbecco Z!
+<var> nemico usa Cannonbecco Z!
+<var> dominante usa Cannonbecco Z!
+<var> usa Clamorsquame Z!
+<var> selvatico usa Clamorsquame Z!
+<var> nemico usa Clamorsquame Z!
+<var> dominante usa Clamorsquame Z!
+<var> usa Marteldrago Z!
+<var> selvatico usa Marteldrago Z!
+<var> nemico usa Marteldrago Z!
+<var> dominante usa Marteldrago Z!
+<var> usa Vorticolpo Z!
+<var> selvatico usa Vorticolpo Z!
+<var> nemico usa Vorticolpo Z!
+<var> dominante usa Vorticolpo Z!
+<var> usa Velaurora Z!
+<var> selvatico usa Velaurora Z!
+<var> nemico usa Velaurora Z!
+<var> dominante usa Velaurora Z!
+<var> usa Dardoassalto Spettrale!
+<var> selvatico usa Dardoassalto Spettrale!
+<var> nemico usa Dardoassalto Spettrale!
+<var> dominante usa Dardoassalto Spettrale!
+<var> usa Iperschianto delle Tenebre!
+<var> selvatico usa Iperschianto delle Tenebre!
+<var> nemico usa Iperschianto delle Tenebre!
+<var> dominante usa Iperschianto delle Tenebre!
+<var> usa Sinfonia del Mare!
+<var> selvatico usa Sinfonia del Mare!
+<var> nemico usa Sinfonia del Mare!
+<var> dominante usa Sinfonia del Mare!
+<var> usa Collera del Guardiano!
+<var> selvatico usa Collera del Guardiano!
+<var> nemico usa Collera del Guardiano!
+<var> dominante usa Collera del Guardiano!
+<var> usa Colpo Eptastellare Rubanima!
+<var> selvatico usa Colpo Eptastellare Rubanima!
+<var> nemico usa Colpo Eptastellare Rubanima!
+<var> dominante usa Colpo Eptastellare Rubanima!
+<var> usa Elettrosurf Folgorante!
+<var> selvatico usa Elettrosurf Folgorante!
+<var> nemico usa Elettrosurf Folgorante!
+<var> dominante usa Elettrosurf Folgorante!
+<var> usa Adesso Faccio sul Serio!
+<var> selvatico usa Adesso Faccio sul Serio!
+<var> nemico usa Adesso Faccio sul Serio!
+<var> dominante usa Adesso Faccio sul Serio!
+<var> usa Potenziamento Eevolutivo!
+<var> selvatico usa Potenziamento Eevolutivo!
+<var> nemico usa Potenziamento Eevolutivo!
+<var> dominante usa Potenziamento Eevolutivo!
+<var> usa Supernova delle Origini!
+<var> selvatico usa Supernova delle Origini!
+<var> nemico usa Supernova delle Origini!
+<var> dominante usa Supernova delle Origini!
+<var> usa Gusciotrappola Z!
+<var> selvatico usa Gusciotrappola Z!
+<var> nemico usa Gusciotrappola Z!
+<var> dominante usa Gusciotrappola Z!
+<var> usa Cannonfiore Z!
+<var> selvatico usa Cannonfiore Z!
+<var> nemico usa Cannonfiore Z!
+<var> dominante usa Cannonfiore Z!
+<var> usa Psicozanna Z!
+<var> selvatico usa Psicozanna Z!
+<var> nemico usa Psicozanna Z!
+<var> dominante usa Psicozanna Z!
+<var> usa Battipiedi Z!
+<var> selvatico usa Battipiedi Z!
+<var> nemico usa Battipiedi Z!
+<var> dominante usa Battipiedi Z!
+<var> usa Ossotetro Z!
+<var> selvatico usa Ossotetro Z!
+<var> nemico usa Ossotetro Z!
+<var> dominante usa Ossotetro Z!
+<var> usa Rocciarapida Z!
+<var> selvatico usa Rocciarapida Z!
+<var> nemico usa Rocciarapida Z!
+<var> dominante usa Rocciarapida Z!
+<var> usa Idrobreccia Z!
+<var> selvatico usa Idrobreccia Z!
+<var> nemico usa Idrobreccia Z!
+<var> dominante usa Idrobreccia Z!
+<var> usa Prismalaser Z!
+<var> selvatico usa Prismalaser Z!
+<var> nemico usa Prismalaser Z!
+<var> dominante usa Prismalaser Z!
+<var> usa Ombrafurto Z!
+<var> selvatico usa Ombrafurto Z!
+<var> nemico usa Ombrafurto Z!
+<var> dominante usa Ombrafurto Z!
+<var> usa Astrocarica Z!
+<var> selvatico usa Astrocarica Z!
+<var> nemico usa Astrocarica Z!
+<var> dominante usa Astrocarica Z!
+<var> usa Raggio d'Ombra Z!
+<var> selvatico usa Raggio d'Ombra Z!
+<var> nemico usa Raggio d'Ombra Z!
+<var> dominante usa Raggio d'Ombra Z!
+<var> usa Occhionilucidi Z!
+<var> selvatico usa Occhionilucidi Z!
+<var> nemico usa Occhionilucidi Z!
+<var> dominante usa Occhionilucidi Z!
+<var> usa Elettropizzico Z!
+<var> selvatico usa Elettropizzico Z!
+<var> nemico usa Elettropizzico Z!
+<var> dominante usa Elettropizzico Z!
+<var> usa Ira della Natura Z!
+<var> selvatico usa Ira della Natura Z!
+<var> nemico usa Ira della Natura Z!
+<var> dominante usa Ira della Natura Z!
+<var> usa Multiattacco Z!
+<var> selvatico usa Multiattacco Z!
+<var> nemico usa Multiattacco Z!
+<var> dominante usa Multiattacco Z!
+<var> usa Iperfulmine!
+<var> selvatico usa Iperfulmine!
+<var> nemico usa Iperfulmine!
+<var> dominante usa Iperfulmine!

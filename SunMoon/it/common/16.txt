@@ -1,0 +1,158 @@
+
+
+Sole intenso
+Quando i raggi solari sono intensi, la potenza delle mosse di tipo Fuoco aumenta e quella delle mosse di tipo Acqua diminuisce.
+Pioggia
+Quando piove, la potenza delle mosse di tipo Acqua aumenta e quella delle mosse di tipo Fuoco diminuisce.
+Tempesta di sabbia
+Quando infuria una tempesta di sabbia, tutti i Pokémon subiscono danni a ogni turno, eccetto quelli di tipo Terra, Roccia e Acciaio. Inoltre, la Difesa Speciale dei Pokémon di tipo Roccia aumenta.
+Grandine
+Quando grandina, tutti i Pokémon subiscono danni a ogni turno, eccetto quelli di tipo Ghiaccio.
+Campo Elettrico
+Impedisce che i Pokémon a contatto con il terreno di lotta si addormentino per cinque turni. Potenzia le mosse di tipo Elettro.
+Campo Erboso
+Fa recuperare PS ai Pokémon a contatto con il terreno di lotta per cinque turni. Potenzia le mosse di tipo Erba.
+Campo Nebbioso
+Protegge i Pokémon a contatto con il terreno di lotta da problemi di stato per cinque turni. Dimezza i danni causati da mosse di tipo Drago.
+Distortozona
+Per cinque turni, i Pokémon più lenti agiscono per primi.
+Magicozona
+Annulla l'effetto degli strumenti di tutti i Pokémon per cinque turni.
+Mirabilzona
+Scambia la Difesa e la Difesa Speciale di tutti i Pokémon per cinque turni.
+Brutto colpo ↑
+La probabilità di sferrare un brutto colpo aumenta.
+Confusione
+Il Pokémon rischia di danneggiare se stesso per un periodo che va da uno a quattro turni.
+Infatuazione
+Il Pokémon è riluttante ad attaccare se il bersaglio è del sesso opposto.
+Incubo
+Il Pokémon perde PS a ogni turno mentre dorme.
+Sonnolenza
+Il Pokémon si addormenta alla fine del turno successivo a quello in cui ha subito la mossa.
+Ripeti
+Obbliga il Pokémon a ripetere la mossa <var> per tre volte.
+Nessuna abilità
+L'abilità del Pokémon è stata neutralizzata e non ha effetto.
+Attaccalite
+Il Pokémon non può usare la stessa mossa due volte di seguito.
+Ventoincoda
+Per quattro turni, la Velocità del Pokémon raddoppia.
+Fortuncanto
+Il Pokémon non può subire brutti colpi.
+Rancore
+Se il Pokémon va KO, i PP della mossa che lo ha messo fuori gioco vengono azzerati.
+Anticura
+Il Pokémon non può recuperare PS con mosse, abilità o con lo strumento che ha con sé per cinque turni.
+Identificazione
+Il Pokémon può essere colpito da mosse che in genere non avrebbero effetto e subisce gli attacchi indipendentemente da un eventuale aumento dell'elusione.
+Inibitore
+Il Pokémon non può usare la mossa <var> per quattro turni.
+Antifuga
+Il Pokémon non può fuggire o essere sostituito.
+Localizza
+La prossima mossa usata dal Pokémon andrà a segno immancabilmente.
+Divieto
+Impedisce al Pokémon di usare il suo strumento e all'Allenatore di usare strumenti sul Pokémon per cinque turni.
+Sottocarica
+Raddoppia la potenza della mossa di tipo Elettro usata dal Pokémon dopo Sottocarica.
+Gravità
+Per cinque turni, le mosse vanno a segno più facilmente, i Pokémon di tipo Volante o con l'abilità Levitazione sono vulnerabili alle mosse di tipo Terra e le mosse che fanno volare non possono essere utilizzate.
+Nebbia
+Impedisce la diminuzione delle statistiche per cinque turni.
+Salvaguardia
+Protegge dai problemi di stato per cinque turni.
+Levitoroccia
+Danneggia i Pokémon che entrano in campo.
+Accumulo
+La Difesa e la Difesa Speciale del Pokémon aumentano ogni volta che accumula energia.
+Provocazione
+Costringe a usare solo mosse che causano danni.
+Telecinesi
+Per tre turni, il Pokémon sarà colpito immancabilmente da tutte le mosse tranne quelle che mandano KO in un colpo solo. In compenso, il Pokémon non può essere colpito dalle mosse di tipo Terra.
+Magnetascesa
+Il Pokémon non può essere colpito da mosse di tipo Terra per cinque turni.
+Fielepunte
+Avvelena i Pokémon che scendono in campo, eccetto quelli di tipo Volante o con l'abilità Levitazione.
+Fangata
+Dimezza la potenza delle mosse di tipo Elettro per cinque turni.
+Desiderio
+Il Pokémon recupererà metà dei PS totali nel turno successivo all'uso della mossa Desiderio.
+Rete Vischiosa
+La Velocità dei Pokémon che entrano in campo diminuisce.
+Radicamento
+Il Pokémon recupera PS alla fine di ogni turno e non può essere sostituito perché ha messo le radici.
+Maledizione
+Fa perdere PS alla fine di ogni turno.
+Halloween
+Il Pokémon adesso è anche di tipo Spettro.
+Schermoluce
+La potenza degli attacchi speciali subiti viene dimezzata per cinque turni dall'attivazione dell'effetto.
+Riflesso
+La potenza degli attacchi fisici subiti viene dimezzata per cinque turni dall'attivazione dell'effetto.
+Esclusiva
+I nemici di un Pokémon che ha usato Esclusiva non possono usare le mosse conosciute anche da lui.
+Ultimocanto
+I Pokémon che hanno ascoltato Ultimocanto andranno KO dopo 3 turni.
+Punte
+Infligge danni ai Pokémon quando scendono in campo, eccetto quelli di tipo Volante o con l'abilità Levitazione.
+Docciascudo
+Dimezza la potenza delle mosse di tipo Fuoco per cinque turni.
+Destinobbligato
+Chi manda KO questo Pokémon finisce KO.
+Boscomalocchio
+Il Pokémon adesso è anche di tipo Erba.
+Parassiseme
+Il Pokémon perde PS alla fine di ogni turno e li fa recuperare a chi ha usato la mossa.
+Localizza
+La prossima mossa usata sul Pokémon localizzato andrà a segno immancabilmente.
+Imprigionamento
+Il Pokémon è intrappolato e subisce danni a ogni turno.
+Pazienza
+Il Pokémon incassa gli attacchi per due turni, poi contrattacca infliggendo il doppio dei danni ricevuti.
+Oltraggio
+Il Pokémon sfoga la sua ira e attacca per due o tre turni prima di essere lasciato in preda alla confusione.
+Colpo
+Il Pokémon sfoga la sua ira e attacca per due o tre turni prima di essere lasciato in preda alla confusione.
+Petalodanza
+Il Pokémon sfoga la sua ira e attacca per due o tre turni prima di essere lasciato in preda alla confusione.
+Iperavvelenamento
+Il Pokémon è iperavvelenato e la quantità di PS che perde aumenta a ogni turno.
+Attacco futuro
+Il Pokémon subisce danni dopo due turni dal momento in cui è stato colpito dalla mossa.
+Baraonda
+Il Pokémon attacca per tre turni provocando un frastuono che non permette a nessuno di addormentarsi.
+Acquanello
+Il Pokémon è avvolto in un velo d'acqua che gli fa recuperare PS a ogni turno.
+Sganciapesi
+Il peso corporeo del Pokémon diminuisce e la sua Velocità aumenta di molto.
+Abbattimento
+Il Pokémon viene colpito e cade a terra.
+Blocco Fatato
+Nel turno successivo a quello in cui la mossa è stata usata, nessun Pokémon può lasciare il campo di lotta.
+Arcobaleno
+La probabilità che si attivino gli effetti aggiuntivi delle mosse aumenta.
+Palude
+Riduce la Velocità dei Pokémon in campo a 1/4.
+Mare di fuoco
+Infligge danni a ogni turno a tutti i Pokémon nel campo alleato o nel campo nemico eccetto quelli di tipo Fuoco.
+Sole accecante
+La luce solare accecante potenzia le mosse di tipo Fuoco e neutralizza le mosse di tipo Acqua.
+Acquazzone
+L'acquazzone potenzia le mosse di tipo Acqua e neutralizza le mosse di tipo Fuoco.
+Vento misterioso
+Soffia una corrente d'aria misteriosa. Gli attacchi superefficaci contro il tipo Volante vengono indeboliti.
+Campo Psichico
+Per cinque turni i Pokémon a contatto con il terreno di lotta non subiscono danni dalle mosse con priorità alta. La potenza delle mosse di tipo Psico aumenta.
+Colpo Infernale
+Per due turni impedisce di usare mosse basate sul suono.
+Velaurora
+La potenza degli attacchi speciali e fisici subiti viene dimezzata per cinque turni.
+Concentrazione
+L'attacco sferrato nel turno successivo a quello in cui è stata usata Concentrazione causa sempre un brutto colpo.
+
+
+
+
+
+

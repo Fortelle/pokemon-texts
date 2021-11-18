@@ -1,0 +1,2880 @@
+!
+!
+!
+!
+<var> utilise Écras'Face Z !
+<var> sauvage utilise Écras'Face Z !
+<var> ennemi utilise Écras'Face Z !
+<var> Dominant utilise Écras'Face Z !
+<var> utilise Poing-Karaté Z !
+<var> sauvage utilise Poing-Karaté Z !
+<var> ennemi utilise Poing-Karaté Z !
+<var> Dominant utilise Poing-Karaté Z !
+<var> utilise Torgnoles Z !
+<var> sauvage utilise Torgnoles Z !
+<var> ennemi utilise Torgnoles Z !
+<var> Dominant utilise Torgnoles Z !
+<var> utilise Poing Comète Z !
+<var> sauvage utilise Poing Comète Z !
+<var> ennemi utilise Poing Comète Z !
+<var> Dominant utilise Poing Comète Z !
+<var> utilise Ultimapoing Z !
+<var> sauvage utilise Ultimapoing Z !
+<var> ennemi utilise Ultimapoing Z !
+<var> Dominant utilise Ultimapoing Z !
+<var> utilise Jackpot Z !
+<var> sauvage utilise Jackpot Z !
+<var> ennemi utilise Jackpot Z !
+<var> Dominant utilise Jackpot Z !
+<var> utilise Poing de Feu Z !
+<var> sauvage utilise Poing de Feu Z !
+<var> ennemi utilise Poing de Feu Z !
+<var> Dominant utilise Poing de Feu Z !
+<var> utilise Poing-Glace Z !
+<var> sauvage utilise Poing-Glace Z !
+<var> ennemi utilise Poing-Glace Z !
+<var> Dominant utilise Poing-Glace Z !
+<var> utilise Poing-Éclair Z !
+<var> sauvage utilise Poing-Éclair Z !
+<var> ennemi utilise Poing-Éclair Z !
+<var> Dominant utilise Poing-Éclair Z !
+<var> utilise Griffe Z !
+<var> sauvage utilise Griffe Z !
+<var> ennemi utilise Griffe Z !
+<var> Dominant utilise Griffe Z !
+<var> utilise Force Poigne Z !
+<var> sauvage utilise Force Poigne Z !
+<var> ennemi utilise Force Poigne Z !
+<var> Dominant utilise Force Poigne Z !
+<var> utilise Guillotine Z !
+<var> sauvage utilise Guillotine Z !
+<var> ennemi utilise Guillotine Z !
+<var> Dominant utilise Guillotine Z !
+<var> utilise Coupe-Vent Z !
+<var> sauvage utilise Coupe-Vent Z !
+<var> ennemi utilise Coupe-Vent Z !
+<var> Dominant utilise Coupe-Vent Z !
+<var> utilise Danse-Lames Z !
+<var> sauvage utilise Danse-Lames Z !
+<var> ennemi utilise Danse-Lames Z !
+<var> Dominant utilise Danse-Lames Z !
+<var> utilise Coupe Z !
+<var> sauvage utilise Coupe Z !
+<var> ennemi utilise Coupe Z !
+<var> Dominant utilise Coupe Z !
+<var> utilise Tornade Z !
+<var> sauvage utilise Tornade Z !
+<var> ennemi utilise Tornade Z !
+<var> Dominant utilise Tornade Z !
+<var> utilise Cru-Aile Z !
+<var> sauvage utilise Cru-Aile Z !
+<var> ennemi utilise Cru-Aile Z !
+<var> Dominant utilise Cru-Aile Z !
+<var> utilise Cyclone Z !
+<var> sauvage utilise Cyclone Z !
+<var> ennemi utilise Cyclone Z !
+<var> Dominant utilise Cyclone Z !
+<var> utilise Vol Z !
+<var> sauvage utilise Vol Z !
+<var> ennemi utilise Vol Z !
+<var> Dominant utilise Vol Z !
+<var> utilise Étreinte Z !
+<var> sauvage utilise Étreinte Z !
+<var> ennemi utilise Étreinte Z !
+<var> Dominant utilise Étreinte Z !
+<var> utilise Souplesse Z !
+<var> sauvage utilise Souplesse Z !
+<var> ennemi utilise Souplesse Z !
+<var> Dominant utilise Souplesse Z !
+<var> utilise Fouet Lianes Z !
+<var> sauvage utilise Fouet Lianes Z !
+<var> ennemi utilise Fouet Lianes Z !
+<var> Dominant utilise Fouet Lianes Z !
+<var> utilise Écrasement Z !
+<var> sauvage utilise Écrasement Z !
+<var> ennemi utilise Écrasement Z !
+<var> Dominant utilise Écrasement Z !
+<var> utilise Double Pied Z !
+<var> sauvage utilise Double Pied Z !
+<var> ennemi utilise Double Pied Z !
+<var> Dominant utilise Double Pied Z !
+<var> utilise Ultimawashi Z !
+<var> sauvage utilise Ultimawashi Z !
+<var> ennemi utilise Ultimawashi Z !
+<var> Dominant utilise Ultimawashi Z !
+<var> utilise Pied Sauté Z !
+<var> sauvage utilise Pied Sauté Z !
+<var> ennemi utilise Pied Sauté Z !
+<var> Dominant utilise Pied Sauté Z !
+<var> utilise Mawashi Geri Z !
+<var> sauvage utilise Mawashi Geri Z !
+<var> ennemi utilise Mawashi Geri Z !
+<var> Dominant utilise Mawashi Geri Z !
+<var> utilise Jet de Sable Z !
+<var> sauvage utilise Jet de Sable Z !
+<var> ennemi utilise Jet de Sable Z !
+<var> Dominant utilise Jet de Sable Z !
+<var> utilise Coup d'Boule Z !
+<var> sauvage utilise Coup d'Boule Z !
+<var> ennemi utilise Coup d'Boule Z !
+<var> Dominant utilise Coup d'Boule Z !
+<var> utilise Koud'Korne Z !
+<var> sauvage utilise Koud'Korne Z !
+<var> ennemi utilise Koud'Korne Z !
+<var> Dominant utilise Koud'Korne Z !
+<var> utilise Furie Z !
+<var> sauvage utilise Furie Z !
+<var> ennemi utilise Furie Z !
+<var> Dominant utilise Furie Z !
+<var> utilise Empal'Korne Z !
+<var> sauvage utilise Empal'Korne Z !
+<var> ennemi utilise Empal'Korne Z !
+<var> Dominant utilise Empal'Korne Z !
+<var> utilise Charge Z !
+<var> sauvage utilise Charge Z !
+<var> ennemi utilise Charge Z !
+<var> Dominant utilise Charge Z !
+<var> utilise Plaquage Z !
+<var> sauvage utilise Plaquage Z !
+<var> ennemi utilise Plaquage Z !
+<var> Dominant utilise Plaquage Z !
+<var> utilise Ligotage Z !
+<var> sauvage utilise Ligotage Z !
+<var> ennemi utilise Ligotage Z !
+<var> Dominant utilise Ligotage Z !
+<var> utilise Bélier Z !
+<var> sauvage utilise Bélier Z !
+<var> ennemi utilise Bélier Z !
+<var> Dominant utilise Bélier Z !
+<var> utilise Mania Z !
+<var> sauvage utilise Mania Z !
+<var> ennemi utilise Mania Z !
+<var> Dominant utilise Mania Z !
+<var> utilise Damoclès Z !
+<var> sauvage utilise Damoclès Z !
+<var> ennemi utilise Damoclès Z !
+<var> Dominant utilise Damoclès Z !
+<var> utilise Mimi-Queue Z !
+<var> sauvage utilise Mimi-Queue Z !
+<var> ennemi utilise Mimi-Queue Z !
+<var> Dominant utilise Mimi-Queue Z !
+<var> utilise Dard-Venin Z !
+<var> sauvage utilise Dard-Venin Z !
+<var> ennemi utilise Dard-Venin Z !
+<var> Dominant utilise Dard-Venin Z !
+<var> utilise Double-Dard Z !
+<var> sauvage utilise Double-Dard Z !
+<var> ennemi utilise Double-Dard Z !
+<var> Dominant utilise Double-Dard Z !
+<var> utilise Dard-Nuée Z !
+<var> sauvage utilise Dard-Nuée Z !
+<var> ennemi utilise Dard-Nuée Z !
+<var> Dominant utilise Dard-Nuée Z !
+<var> utilise Groz'Yeux Z !
+<var> sauvage utilise Groz'Yeux Z !
+<var> ennemi utilise Groz'Yeux Z !
+<var> Dominant utilise Groz'Yeux Z !
+<var> utilise Morsure Z !
+<var> sauvage utilise Morsure Z !
+<var> ennemi utilise Morsure Z !
+<var> Dominant utilise Morsure Z !
+<var> utilise Rugissement Z !
+<var> sauvage utilise Rugissement Z !
+<var> ennemi utilise Rugissement Z !
+<var> Dominant utilise Rugissement Z !
+<var> utilise Hurlement Z !
+<var> sauvage utilise Hurlement Z !
+<var> ennemi utilise Hurlement Z !
+<var> Dominant utilise Hurlement Z !
+<var> utilise Berceuse Z !
+<var> sauvage utilise Berceuse Z !
+<var> ennemi utilise Berceuse Z !
+<var> Dominant utilise Berceuse Z !
+<var> utilise Ultrason Z !
+<var> sauvage utilise Ultrason Z !
+<var> ennemi utilise Ultrason Z !
+<var> Dominant utilise Ultrason Z !
+<var> utilise Sonicboom Z !
+<var> sauvage utilise Sonicboom Z !
+<var> ennemi utilise Sonicboom Z !
+<var> Dominant utilise Sonicboom Z !
+<var> utilise Entrave Z !
+<var> sauvage utilise Entrave Z !
+<var> ennemi utilise Entrave Z !
+<var> Dominant utilise Entrave Z !
+<var> utilise Acide Z !
+<var> sauvage utilise Acide Z !
+<var> ennemi utilise Acide Z !
+<var> Dominant utilise Acide Z !
+<var> utilise Flammèche Z !
+<var> sauvage utilise Flammèche Z !
+<var> ennemi utilise Flammèche Z !
+<var> Dominant utilise Flammèche Z !
+<var> utilise Lance-Flammes Z !
+<var> sauvage utilise Lance-Flammes Z !
+<var> ennemi utilise Lance-Flammes Z !
+<var> Dominant utilise Lance-Flammes Z !
+<var> utilise Brume Z !
+<var> sauvage utilise Brume Z !
+<var> ennemi utilise Brume Z !
+<var> Dominant utilise Brume Z !
+<var> utilise Pistolet à O Z !
+<var> sauvage utilise Pistolet à O Z !
+<var> ennemi utilise Pistolet à O Z !
+<var> Dominant utilise Pistolet à O Z !
+<var> utilise Hydrocanon Z !
+<var> sauvage utilise Hydrocanon Z !
+<var> ennemi utilise Hydrocanon Z !
+<var> Dominant utilise Hydrocanon Z !
+<var> utilise Surf Z !
+<var> sauvage utilise Surf Z !
+<var> ennemi utilise Surf Z !
+<var> Dominant utilise Surf Z !
+<var> utilise Laser Glace Z !
+<var> sauvage utilise Laser Glace Z !
+<var> ennemi utilise Laser Glace Z !
+<var> Dominant utilise Laser Glace Z !
+<var> utilise Blizzard Z !
+<var> sauvage utilise Blizzard Z !
+<var> ennemi utilise Blizzard Z !
+<var> Dominant utilise Blizzard Z !
+<var> utilise Rafale Psy Z !
+<var> sauvage utilise Rafale Psy Z !
+<var> ennemi utilise Rafale Psy Z !
+<var> Dominant utilise Rafale Psy Z !
+<var> utilise Bulles d'O Z !
+<var> sauvage utilise Bulles d'O Z !
+<var> ennemi utilise Bulles d'O Z !
+<var> Dominant utilise Bulles d'O Z !
+<var> utilise Onde Boréale Z !
+<var> sauvage utilise Onde Boréale Z !
+<var> ennemi utilise Onde Boréale Z !
+<var> Dominant utilise Onde Boréale Z !
+<var> utilise Ultralaser Z !
+<var> sauvage utilise Ultralaser Z !
+<var> ennemi utilise Ultralaser Z !
+<var> Dominant utilise Ultralaser Z !
+<var> utilise Picpic Z !
+<var> sauvage utilise Picpic Z !
+<var> ennemi utilise Picpic Z !
+<var> Dominant utilise Picpic Z !
+<var> utilise Bec Vrille Z !
+<var> sauvage utilise Bec Vrille Z !
+<var> ennemi utilise Bec Vrille Z !
+<var> Dominant utilise Bec Vrille Z !
+<var> utilise Sacrifice Z !
+<var> sauvage utilise Sacrifice Z !
+<var> ennemi utilise Sacrifice Z !
+<var> Dominant utilise Sacrifice Z !
+<var> utilise Balayage Z !
+<var> sauvage utilise Balayage Z !
+<var> ennemi utilise Balayage Z !
+<var> Dominant utilise Balayage Z !
+<var> utilise Riposte Z !
+<var> sauvage utilise Riposte Z !
+<var> ennemi utilise Riposte Z !
+<var> Dominant utilise Riposte Z !
+<var> utilise Frappe Atlas Z !
+<var> sauvage utilise Frappe Atlas Z !
+<var> ennemi utilise Frappe Atlas Z !
+<var> Dominant utilise Frappe Atlas Z !
+<var> utilise Force Z !
+<var> sauvage utilise Force Z !
+<var> ennemi utilise Force Z !
+<var> Dominant utilise Force Z !
+<var> utilise Vol-Vie Z !
+<var> sauvage utilise Vol-Vie Z !
+<var> ennemi utilise Vol-Vie Z !
+<var> Dominant utilise Vol-Vie Z !
+<var> utilise Méga-Sangsue Z !
+<var> sauvage utilise Méga-Sangsue Z !
+<var> ennemi utilise Méga-Sangsue Z !
+<var> Dominant utilise Méga-Sangsue Z !
+<var> utilise Vampigraine Z !
+<var> sauvage utilise Vampigraine Z !
+<var> ennemi utilise Vampigraine Z !
+<var> Dominant utilise Vampigraine Z !
+<var> utilise Croissance Z !
+<var> sauvage utilise Croissance Z !
+<var> ennemi utilise Croissance Z !
+<var> Dominant utilise Croissance Z !
+<var> utilise Tranch'Herbe Z !
+<var> sauvage utilise Tranch'Herbe Z !
+<var> ennemi utilise Tranch'Herbe Z !
+<var> Dominant utilise Tranch'Herbe Z !
+<var> utilise Lance-Soleil Z !
+<var> sauvage utilise Lance-Soleil Z !
+<var> ennemi utilise Lance-Soleil Z !
+<var> Dominant utilise Lance-Soleil Z !
+<var> utilise Poudre Toxik Z !
+<var> sauvage utilise Poudre Toxik Z !
+<var> ennemi utilise Poudre Toxik Z !
+<var> Dominant utilise Poudre Toxik Z !
+<var> utilise Para-Spore Z !
+<var> sauvage utilise Para-Spore Z !
+<var> ennemi utilise Para-Spore Z !
+<var> Dominant utilise Para-Spore Z !
+<var> utilise Poudre Dodo Z !
+<var> sauvage utilise Poudre Dodo Z !
+<var> ennemi utilise Poudre Dodo Z !
+<var> Dominant utilise Poudre Dodo Z !
+<var> utilise Danse-Fleur Z !
+<var> sauvage utilise Danse-Fleur Z !
+<var> ennemi utilise Danse-Fleur Z !
+<var> Dominant utilise Danse-Fleur Z !
+<var> utilise Sécrétion Z !
+<var> sauvage utilise Sécrétion Z !
+<var> ennemi utilise Sécrétion Z !
+<var> Dominant utilise Sécrétion Z !
+<var> utilise Draco-Rage Z !
+<var> sauvage utilise Draco-Rage Z !
+<var> ennemi utilise Draco-Rage Z !
+<var> Dominant utilise Draco-Rage Z !
+<var> utilise Danse Flamme Z !
+<var> sauvage utilise Danse Flamme Z !
+<var> ennemi utilise Danse Flamme Z !
+<var> Dominant utilise Danse Flamme Z !
+<var> utilise Éclair Z !
+<var> sauvage utilise Éclair Z !
+<var> ennemi utilise Éclair Z !
+<var> Dominant utilise Éclair Z !
+<var> utilise Tonnerre Z !
+<var> sauvage utilise Tonnerre Z !
+<var> ennemi utilise Tonnerre Z !
+<var> Dominant utilise Tonnerre Z !
+<var> utilise Cage-Éclair Z !
+<var> sauvage utilise Cage-Éclair Z !
+<var> ennemi utilise Cage-Éclair Z !
+<var> Dominant utilise Cage-Éclair Z !
+<var> utilise Fatal-Foudre Z !
+<var> sauvage utilise Fatal-Foudre Z !
+<var> ennemi utilise Fatal-Foudre Z !
+<var> Dominant utilise Fatal-Foudre Z !
+<var> utilise Jet-Pierres Z !
+<var> sauvage utilise Jet-Pierres Z !
+<var> ennemi utilise Jet-Pierres Z !
+<var> Dominant utilise Jet-Pierres Z !
+<var> utilise Séisme Z !
+<var> sauvage utilise Séisme Z !
+<var> ennemi utilise Séisme Z !
+<var> Dominant utilise Séisme Z !
+<var> utilise Abîme Z !
+<var> sauvage utilise Abîme Z !
+<var> ennemi utilise Abîme Z !
+<var> Dominant utilise Abîme Z !
+<var> utilise Tunnel Z !
+<var> sauvage utilise Tunnel Z !
+<var> ennemi utilise Tunnel Z !
+<var> Dominant utilise Tunnel Z !
+<var> utilise Toxik Z !
+<var> sauvage utilise Toxik Z !
+<var> ennemi utilise Toxik Z !
+<var> Dominant utilise Toxik Z !
+<var> utilise Choc Mental Z !
+<var> sauvage utilise Choc Mental Z !
+<var> ennemi utilise Choc Mental Z !
+<var> Dominant utilise Choc Mental Z !
+<var> utilise Psyko Z !
+<var> sauvage utilise Psyko Z !
+<var> ennemi utilise Psyko Z !
+<var> Dominant utilise Psyko Z !
+<var> utilise Hypnose Z !
+<var> sauvage utilise Hypnose Z !
+<var> ennemi utilise Hypnose Z !
+<var> Dominant utilise Hypnose Z !
+<var> utilise Yoga Z !
+<var> sauvage utilise Yoga Z !
+<var> ennemi utilise Yoga Z !
+<var> Dominant utilise Yoga Z !
+<var> utilise Hâte Z !
+<var> sauvage utilise Hâte Z !
+<var> ennemi utilise Hâte Z !
+<var> Dominant utilise Hâte Z !
+<var> utilise Vive-Attaque Z !
+<var> sauvage utilise Vive-Attaque Z !
+<var> ennemi utilise Vive-Attaque Z !
+<var> Dominant utilise Vive-Attaque Z !
+<var> utilise Frénésie Z !
+<var> sauvage utilise Frénésie Z !
+<var> ennemi utilise Frénésie Z !
+<var> Dominant utilise Frénésie Z !
+<var> utilise Téléport Z !
+<var> sauvage utilise Téléport Z !
+<var> ennemi utilise Téléport Z !
+<var> Dominant utilise Téléport Z !
+<var> utilise Ombre Nocturne Z !
+<var> sauvage utilise Ombre Nocturne Z !
+<var> ennemi utilise Ombre Nocturne Z !
+<var> Dominant utilise Ombre Nocturne Z !
+<var> utilise Copie Z !
+<var> sauvage utilise Copie Z !
+<var> ennemi utilise Copie Z !
+<var> Dominant utilise Copie Z !
+<var> utilise Grincement Z !
+<var> sauvage utilise Grincement Z !
+<var> ennemi utilise Grincement Z !
+<var> Dominant utilise Grincement Z !
+<var> utilise Reflet Z !
+<var> sauvage utilise Reflet Z !
+<var> ennemi utilise Reflet Z !
+<var> Dominant utilise Reflet Z !
+<var> utilise Soin Z !
+<var> sauvage utilise Soin Z !
+<var> ennemi utilise Soin Z !
+<var> Dominant utilise Soin Z !
+<var> utilise Armure Z !
+<var> sauvage utilise Armure Z !
+<var> ennemi utilise Armure Z !
+<var> Dominant utilise Armure Z !
+<var> utilise Lilliput Z !
+<var> sauvage utilise Lilliput Z !
+<var> ennemi utilise Lilliput Z !
+<var> Dominant utilise Lilliput Z !
+<var> utilise Brouillard Z !
+<var> sauvage utilise Brouillard Z !
+<var> ennemi utilise Brouillard Z !
+<var> Dominant utilise Brouillard Z !
+<var> utilise Onde Folie Z !
+<var> sauvage utilise Onde Folie Z !
+<var> ennemi utilise Onde Folie Z !
+<var> Dominant utilise Onde Folie Z !
+<var> utilise Repli Z !
+<var> sauvage utilise Repli Z !
+<var> ennemi utilise Repli Z !
+<var> Dominant utilise Repli Z !
+<var> utilise Boul'Armure Z !
+<var> sauvage utilise Boul'Armure Z !
+<var> ennemi utilise Boul'Armure Z !
+<var> Dominant utilise Boul'Armure Z !
+<var> utilise Bouclier Z !
+<var> sauvage utilise Bouclier Z !
+<var> ennemi utilise Bouclier Z !
+<var> Dominant utilise Bouclier Z !
+<var> utilise Mur Lumière Z !
+<var> sauvage utilise Mur Lumière Z !
+<var> ennemi utilise Mur Lumière Z !
+<var> Dominant utilise Mur Lumière Z !
+<var> utilise Buée Noire Z !
+<var> sauvage utilise Buée Noire Z !
+<var> ennemi utilise Buée Noire Z !
+<var> Dominant utilise Buée Noire Z !
+<var> utilise Protection Z !
+<var> sauvage utilise Protection Z !
+<var> ennemi utilise Protection Z !
+<var> Dominant utilise Protection Z !
+<var> utilise Puissance Z !
+<var> sauvage utilise Puissance Z !
+<var> ennemi utilise Puissance Z !
+<var> Dominant utilise Puissance Z !
+<var> utilise Patience Z !
+<var> sauvage utilise Patience Z !
+<var> ennemi utilise Patience Z !
+<var> Dominant utilise Patience Z !
+<var> utilise Métronome Z !
+<var> sauvage utilise Métronome Z !
+<var> ennemi utilise Métronome Z !
+<var> Dominant utilise Métronome Z !
+<var> utilise Mimique Z !
+<var> sauvage utilise Mimique Z !
+<var> ennemi utilise Mimique Z !
+<var> Dominant utilise Mimique Z !
+<var> utilise Destruction Z !
+<var> sauvage utilise Destruction Z !
+<var> ennemi utilise Destruction Z !
+<var> Dominant utilise Destruction Z !
+<var> utilise Bomb'Œuf Z !
+<var> sauvage utilise Bomb'Œuf Z !
+<var> ennemi utilise Bomb'Œuf Z !
+<var> Dominant utilise Bomb'Œuf Z !
+<var> utilise Léchouille Z !
+<var> sauvage utilise Léchouille Z !
+<var> ennemi utilise Léchouille Z !
+<var> Dominant utilise Léchouille Z !
+<var> utilise Purédpois Z !
+<var> sauvage utilise Purédpois Z !
+<var> ennemi utilise Purédpois Z !
+<var> Dominant utilise Purédpois Z !
+<var> utilise Détritus Z !
+<var> sauvage utilise Détritus Z !
+<var> ennemi utilise Détritus Z !
+<var> Dominant utilise Détritus Z !
+<var> utilise Massd'Os Z !
+<var> sauvage utilise Massd'Os Z !
+<var> ennemi utilise Massd'Os Z !
+<var> Dominant utilise Massd'Os Z !
+<var> utilise Déflagration Z !
+<var> sauvage utilise Déflagration Z !
+<var> ennemi utilise Déflagration Z !
+<var> Dominant utilise Déflagration Z !
+<var> utilise Cascade Z !
+<var> sauvage utilise Cascade Z !
+<var> ennemi utilise Cascade Z !
+<var> Dominant utilise Cascade Z !
+<var> utilise Claquoir Z !
+<var> sauvage utilise Claquoir Z !
+<var> ennemi utilise Claquoir Z !
+<var> Dominant utilise Claquoir Z !
+<var> utilise Météores Z !
+<var> sauvage utilise Météores Z !
+<var> ennemi utilise Météores Z !
+<var> Dominant utilise Météores Z !
+<var> utilise Coud'Krâne Z !
+<var> sauvage utilise Coud'Krâne Z !
+<var> ennemi utilise Coud'Krâne Z !
+<var> Dominant utilise Coud'Krâne Z !
+<var> utilise Picanon Z !
+<var> sauvage utilise Picanon Z !
+<var> ennemi utilise Picanon Z !
+<var> Dominant utilise Picanon Z !
+<var> utilise Constriction Z !
+<var> sauvage utilise Constriction Z !
+<var> ennemi utilise Constriction Z !
+<var> Dominant utilise Constriction Z !
+<var> utilise Amnésie Z !
+<var> sauvage utilise Amnésie Z !
+<var> ennemi utilise Amnésie Z !
+<var> Dominant utilise Amnésie Z !
+<var> utilise Télékinésie Z !
+<var> sauvage utilise Télékinésie Z !
+<var> ennemi utilise Télékinésie Z !
+<var> Dominant utilise Télékinésie Z !
+<var> utilise E-Coque Z !
+<var> sauvage utilise E-Coque Z !
+<var> ennemi utilise E-Coque Z !
+<var> Dominant utilise E-Coque Z !
+<var> utilise Pied Voltige Z !
+<var> sauvage utilise Pied Voltige Z !
+<var> ennemi utilise Pied Voltige Z !
+<var> Dominant utilise Pied Voltige Z !
+<var> utilise Regard Médusant Z !
+<var> sauvage utilise Regard Médusant Z !
+<var> ennemi utilise Regard Médusant Z !
+<var> Dominant utilise Regard Médusant Z !
+<var> utilise Dévorêve Z !
+<var> sauvage utilise Dévorêve Z !
+<var> ennemi utilise Dévorêve Z !
+<var> Dominant utilise Dévorêve Z !
+<var> utilise Gaz Toxik Z !
+<var> sauvage utilise Gaz Toxik Z !
+<var> ennemi utilise Gaz Toxik Z !
+<var> Dominant utilise Gaz Toxik Z !
+<var> utilise Pilonnage Z !
+<var> sauvage utilise Pilonnage Z !
+<var> ennemi utilise Pilonnage Z !
+<var> Dominant utilise Pilonnage Z !
+<var> utilise Vampirisme Z !
+<var> sauvage utilise Vampirisme Z !
+<var> ennemi utilise Vampirisme Z !
+<var> Dominant utilise Vampirisme Z !
+<var> utilise Grobisou Z !
+<var> sauvage utilise Grobisou Z !
+<var> ennemi utilise Grobisou Z !
+<var> Dominant utilise Grobisou Z !
+<var> utilise Piqué Z !
+<var> sauvage utilise Piqué Z !
+<var> ennemi utilise Piqué Z !
+<var> Dominant utilise Piqué Z !
+<var> utilise Morphing Z !
+<var> sauvage utilise Morphing Z !
+<var> ennemi utilise Morphing Z !
+<var> Dominant utilise Morphing Z !
+<var> utilise Écume Z !
+<var> sauvage utilise Écume Z !
+<var> ennemi utilise Écume Z !
+<var> Dominant utilise Écume Z !
+<var> utilise Uppercut Z !
+<var> sauvage utilise Uppercut Z !
+<var> ennemi utilise Uppercut Z !
+<var> Dominant utilise Uppercut Z !
+<var> utilise Spore Z !
+<var> sauvage utilise Spore Z !
+<var> ennemi utilise Spore Z !
+<var> Dominant utilise Spore Z !
+<var> utilise Flash Z !
+<var> sauvage utilise Flash Z !
+<var> ennemi utilise Flash Z !
+<var> Dominant utilise Flash Z !
+<var> utilise Vague Psy Z !
+<var> sauvage utilise Vague Psy Z !
+<var> ennemi utilise Vague Psy Z !
+<var> Dominant utilise Vague Psy Z !
+<var> utilise Trempette Z !
+<var> sauvage utilise Trempette Z !
+<var> ennemi utilise Trempette Z !
+<var> Dominant utilise Trempette Z !
+<var> utilise Acidarmure Z !
+<var> sauvage utilise Acidarmure Z !
+<var> ennemi utilise Acidarmure Z !
+<var> Dominant utilise Acidarmure Z !
+<var> utilise Pince-Masse Z !
+<var> sauvage utilise Pince-Masse Z !
+<var> ennemi utilise Pince-Masse Z !
+<var> Dominant utilise Pince-Masse Z !
+<var> utilise Explosion Z !
+<var> sauvage utilise Explosion Z !
+<var> ennemi utilise Explosion Z !
+<var> Dominant utilise Explosion Z !
+<var> utilise Combo-Griffe Z !
+<var> sauvage utilise Combo-Griffe Z !
+<var> ennemi utilise Combo-Griffe Z !
+<var> Dominant utilise Combo-Griffe Z !
+<var> utilise Osmerang Z !
+<var> sauvage utilise Osmerang Z !
+<var> ennemi utilise Osmerang Z !
+<var> Dominant utilise Osmerang Z !
+<var> utilise Repos Z !
+<var> sauvage utilise Repos Z !
+<var> ennemi utilise Repos Z !
+<var> Dominant utilise Repos Z !
+<var> utilise Éboulement Z !
+<var> sauvage utilise Éboulement Z !
+<var> ennemi utilise Éboulement Z !
+<var> Dominant utilise Éboulement Z !
+<var> utilise Croc de Mort Z !
+<var> sauvage utilise Croc de Mort Z !
+<var> ennemi utilise Croc de Mort Z !
+<var> Dominant utilise Croc de Mort Z !
+<var> utilise Affûtage Z !
+<var> sauvage utilise Affûtage Z !
+<var> ennemi utilise Affûtage Z !
+<var> Dominant utilise Affûtage Z !
+<var> utilise Conversion Z !
+<var> sauvage utilise Conversion Z !
+<var> ennemi utilise Conversion Z !
+<var> Dominant utilise Conversion Z !
+<var> utilise Triplattaque Z !
+<var> sauvage utilise Triplattaque Z !
+<var> ennemi utilise Triplattaque Z !
+<var> Dominant utilise Triplattaque Z !
+<var> utilise Croc Fatal Z !
+<var> sauvage utilise Croc Fatal Z !
+<var> ennemi utilise Croc Fatal Z !
+<var> Dominant utilise Croc Fatal Z !
+<var> utilise Tranche Z !
+<var> sauvage utilise Tranche Z !
+<var> ennemi utilise Tranche Z !
+<var> Dominant utilise Tranche Z !
+<var> utilise Clonage Z !
+<var> sauvage utilise Clonage Z !
+<var> ennemi utilise Clonage Z !
+<var> Dominant utilise Clonage Z !
+<var> utilise Lutte Z !
+<var> sauvage utilise Lutte Z !
+<var> ennemi utilise Lutte Z !
+<var> Dominant utilise Lutte Z !
+<var> utilise Gribouille Z !
+<var> sauvage utilise Gribouille Z !
+<var> ennemi utilise Gribouille Z !
+<var> Dominant utilise Gribouille Z !
+<var> utilise Triple Pied Z !
+<var> sauvage utilise Triple Pied Z !
+<var> ennemi utilise Triple Pied Z !
+<var> Dominant utilise Triple Pied Z !
+<var> utilise Larcin Z !
+<var> sauvage utilise Larcin Z !
+<var> ennemi utilise Larcin Z !
+<var> Dominant utilise Larcin Z !
+<var> utilise Toile Z !
+<var> sauvage utilise Toile Z !
+<var> ennemi utilise Toile Z !
+<var> Dominant utilise Toile Z !
+<var> utilise Lire-Esprit Z !
+<var> sauvage utilise Lire-Esprit Z !
+<var> ennemi utilise Lire-Esprit Z !
+<var> Dominant utilise Lire-Esprit Z !
+<var> utilise Cauchemar Z !
+<var> sauvage utilise Cauchemar Z !
+<var> ennemi utilise Cauchemar Z !
+<var> Dominant utilise Cauchemar Z !
+<var> utilise Roue de Feu Z !
+<var> sauvage utilise Roue de Feu Z !
+<var> ennemi utilise Roue de Feu Z !
+<var> Dominant utilise Roue de Feu Z !
+<var> utilise Ronflement Z !
+<var> sauvage utilise Ronflement Z !
+<var> ennemi utilise Ronflement Z !
+<var> Dominant utilise Ronflement Z !
+<var> utilise Malédiction Z !
+<var> sauvage utilise Malédiction Z !
+<var> ennemi utilise Malédiction Z !
+<var> Dominant utilise Malédiction Z !
+<var> utilise Fléau Z !
+<var> sauvage utilise Fléau Z !
+<var> ennemi utilise Fléau Z !
+<var> Dominant utilise Fléau Z !
+<var> utilise Conversion 2 Z !
+<var> sauvage utilise Conversion 2 Z !
+<var> ennemi utilise Conversion 2 Z !
+<var> Dominant utilise Conversion 2 Z !
+<var> utilise Aéroblast Z !
+<var> sauvage utilise Aéroblast Z !
+<var> ennemi utilise Aéroblast Z !
+<var> Dominant utilise Aéroblast Z !
+<var> utilise Spore Coton Z !
+<var> sauvage utilise Spore Coton Z !
+<var> ennemi utilise Spore Coton Z !
+<var> Dominant utilise Spore Coton Z !
+<var> utilise Contre Z !
+<var> sauvage utilise Contre Z !
+<var> ennemi utilise Contre Z !
+<var> Dominant utilise Contre Z !
+<var> utilise Dépit Z !
+<var> sauvage utilise Dépit Z !
+<var> ennemi utilise Dépit Z !
+<var> Dominant utilise Dépit Z !
+<var> utilise Poudreuse Z !
+<var> sauvage utilise Poudreuse Z !
+<var> ennemi utilise Poudreuse Z !
+<var> Dominant utilise Poudreuse Z !
+<var> utilise Abri Z !
+<var> sauvage utilise Abri Z !
+<var> ennemi utilise Abri Z !
+<var> Dominant utilise Abri Z !
+<var> utilise Mach Punch Z !
+<var> sauvage utilise Mach Punch Z !
+<var> ennemi utilise Mach Punch Z !
+<var> Dominant utilise Mach Punch Z !
+<var> utilise Grimace Z !
+<var> sauvage utilise Grimace Z !
+<var> ennemi utilise Grimace Z !
+<var> Dominant utilise Grimace Z !
+<var> utilise Feinte Z !
+<var> sauvage utilise Feinte Z !
+<var> ennemi utilise Feinte Z !
+<var> Dominant utilise Feinte Z !
+<var> utilise Doux Baiser Z !
+<var> sauvage utilise Doux Baiser Z !
+<var> ennemi utilise Doux Baiser Z !
+<var> Dominant utilise Doux Baiser Z !
+<var> utilise Cognobidon Z !
+<var> sauvage utilise Cognobidon Z !
+<var> ennemi utilise Cognobidon Z !
+<var> Dominant utilise Cognobidon Z !
+<var> utilise Bomb-Beurk Z !
+<var> sauvage utilise Bomb-Beurk Z !
+<var> ennemi utilise Bomb-Beurk Z !
+<var> Dominant utilise Bomb-Beurk Z !
+<var> utilise Coud'Boue Z !
+<var> sauvage utilise Coud'Boue Z !
+<var> ennemi utilise Coud'Boue Z !
+<var> Dominant utilise Coud'Boue Z !
+<var> utilise Octazooka Z !
+<var> sauvage utilise Octazooka Z !
+<var> ennemi utilise Octazooka Z !
+<var> Dominant utilise Octazooka Z !
+<var> utilise Picots Z !
+<var> sauvage utilise Picots Z !
+<var> ennemi utilise Picots Z !
+<var> Dominant utilise Picots Z !
+<var> utilise Élecanon Z !
+<var> sauvage utilise Élecanon Z !
+<var> ennemi utilise Élecanon Z !
+<var> Dominant utilise Élecanon Z !
+<var> utilise Clairvoyance Z !
+<var> sauvage utilise Clairvoyance Z !
+<var> ennemi utilise Clairvoyance Z !
+<var> Dominant utilise Clairvoyance Z !
+<var> utilise Prélèvem. Destin Z !
+<var> sauvage utilise Prélèvem. Destin Z !
+<var> ennemi utilise Prélèvem. Destin Z !
+<var> Dominant utilise Prélèvem. Destin Z !
+<var> utilise Requiem Z !
+<var> sauvage utilise Requiem Z !
+<var> ennemi utilise Requiem Z !
+<var> Dominant utilise Requiem Z !
+<var> utilise Vent Glace Z !
+<var> sauvage utilise Vent Glace Z !
+<var> ennemi utilise Vent Glace Z !
+<var> Dominant utilise Vent Glace Z !
+<var> utilise Détection Z !
+<var> sauvage utilise Détection Z !
+<var> ennemi utilise Détection Z !
+<var> Dominant utilise Détection Z !
+<var> utilise Charge-Os Z !
+<var> sauvage utilise Charge-Os Z !
+<var> ennemi utilise Charge-Os Z !
+<var> Dominant utilise Charge-Os Z !
+<var> utilise Verrouillage Z !
+<var> sauvage utilise Verrouillage Z !
+<var> ennemi utilise Verrouillage Z !
+<var> Dominant utilise Verrouillage Z !
+<var> utilise Colère Z !
+<var> sauvage utilise Colère Z !
+<var> ennemi utilise Colère Z !
+<var> Dominant utilise Colère Z !
+<var> utilise Tempête de Sable Z !
+<var> sauvage utilise Tempête de Sable Z !
+<var> ennemi utilise Tempête de Sable Z !
+<var> Dominant utilise Tempête de Sable Z !
+<var> utilise Giga-Sangsue Z !
+<var> sauvage utilise Giga-Sangsue Z !
+<var> ennemi utilise Giga-Sangsue Z !
+<var> Dominant utilise Giga-Sangsue Z !
+<var> utilise Ténacité Z !
+<var> sauvage utilise Ténacité Z !
+<var> ennemi utilise Ténacité Z !
+<var> Dominant utilise Ténacité Z !
+<var> utilise Charme Z !
+<var> sauvage utilise Charme Z !
+<var> ennemi utilise Charme Z !
+<var> Dominant utilise Charme Z !
+<var> utilise Roulade Z !
+<var> sauvage utilise Roulade Z !
+<var> ennemi utilise Roulade Z !
+<var> Dominant utilise Roulade Z !
+<var> utilise Faux-Chage Z !
+<var> sauvage utilise Faux-Chage Z !
+<var> ennemi utilise Faux-Chage Z !
+<var> Dominant utilise Faux-Chage Z !
+<var> utilise Vantardise Z !
+<var> sauvage utilise Vantardise Z !
+<var> ennemi utilise Vantardise Z !
+<var> Dominant utilise Vantardise Z !
+<var> utilise Lait à Boire Z !
+<var> sauvage utilise Lait à Boire Z !
+<var> ennemi utilise Lait à Boire Z !
+<var> Dominant utilise Lait à Boire Z !
+<var> utilise Étincelle Z !
+<var> sauvage utilise Étincelle Z !
+<var> ennemi utilise Étincelle Z !
+<var> Dominant utilise Étincelle Z !
+<var> utilise Taillade Z !
+<var> sauvage utilise Taillade Z !
+<var> ennemi utilise Taillade Z !
+<var> Dominant utilise Taillade Z !
+<var> utilise Aile d'Acier Z !
+<var> sauvage utilise Aile d'Acier Z !
+<var> ennemi utilise Aile d'Acier Z !
+<var> Dominant utilise Aile d'Acier Z !
+<var> utilise Regard Noir Z !
+<var> sauvage utilise Regard Noir Z !
+<var> ennemi utilise Regard Noir Z !
+<var> Dominant utilise Regard Noir Z !
+<var> utilise Attraction Z !
+<var> sauvage utilise Attraction Z !
+<var> ennemi utilise Attraction Z !
+<var> Dominant utilise Attraction Z !
+<var> utilise Blabla Dodo Z !
+<var> sauvage utilise Blabla Dodo Z !
+<var> ennemi utilise Blabla Dodo Z !
+<var> Dominant utilise Blabla Dodo Z !
+<var> utilise Glas de Soin Z !
+<var> sauvage utilise Glas de Soin Z !
+<var> ennemi utilise Glas de Soin Z !
+<var> Dominant utilise Glas de Soin Z !
+<var> utilise Retour Z !
+<var> sauvage utilise Retour Z !
+<var> ennemi utilise Retour Z !
+<var> Dominant utilise Retour Z !
+<var> utilise Cadeau Z !
+<var> sauvage utilise Cadeau Z !
+<var> ennemi utilise Cadeau Z !
+<var> Dominant utilise Cadeau Z !
+<var> utilise Frustration Z !
+<var> sauvage utilise Frustration Z !
+<var> ennemi utilise Frustration Z !
+<var> Dominant utilise Frustration Z !
+<var> utilise Rune Protect Z !
+<var> sauvage utilise Rune Protect Z !
+<var> ennemi utilise Rune Protect Z !
+<var> Dominant utilise Rune Protect Z !
+<var> utilise Balance Z !
+<var> sauvage utilise Balance Z !
+<var> ennemi utilise Balance Z !
+<var> Dominant utilise Balance Z !
+<var> utilise Feu Sacré Z !
+<var> sauvage utilise Feu Sacré Z !
+<var> ennemi utilise Feu Sacré Z !
+<var> Dominant utilise Feu Sacré Z !
+<var> utilise Ampleur Z !
+<var> sauvage utilise Ampleur Z !
+<var> ennemi utilise Ampleur Z !
+<var> Dominant utilise Ampleur Z !
+<var> utilise Dynamopoing Z !
+<var> sauvage utilise Dynamopoing Z !
+<var> ennemi utilise Dynamopoing Z !
+<var> Dominant utilise Dynamopoing Z !
+<var> utilise Mégacorne Z !
+<var> sauvage utilise Mégacorne Z !
+<var> ennemi utilise Mégacorne Z !
+<var> Dominant utilise Mégacorne Z !
+<var> utilise Dracosouffle Z !
+<var> sauvage utilise Dracosouffle Z !
+<var> ennemi utilise Dracosouffle Z !
+<var> Dominant utilise Dracosouffle Z !
+<var> utilise Relais Z !
+<var> sauvage utilise Relais Z !
+<var> ennemi utilise Relais Z !
+<var> Dominant utilise Relais Z !
+<var> utilise Encore Z !
+<var> sauvage utilise Encore Z !
+<var> ennemi utilise Encore Z !
+<var> Dominant utilise Encore Z !
+<var> utilise Poursuite Z !
+<var> sauvage utilise Poursuite Z !
+<var> ennemi utilise Poursuite Z !
+<var> Dominant utilise Poursuite Z !
+<var> utilise Tour Rapide Z !
+<var> sauvage utilise Tour Rapide Z !
+<var> ennemi utilise Tour Rapide Z !
+<var> Dominant utilise Tour Rapide Z !
+<var> utilise Doux Parfum Z !
+<var> sauvage utilise Doux Parfum Z !
+<var> ennemi utilise Doux Parfum Z !
+<var> Dominant utilise Doux Parfum Z !
+<var> utilise Queue de Fer Z !
+<var> sauvage utilise Queue de Fer Z !
+<var> ennemi utilise Queue de Fer Z !
+<var> Dominant utilise Queue de Fer Z !
+<var> utilise Griffe Acier Z !
+<var> sauvage utilise Griffe Acier Z !
+<var> ennemi utilise Griffe Acier Z !
+<var> Dominant utilise Griffe Acier Z !
+<var> utilise Corps Perdu Z !
+<var> sauvage utilise Corps Perdu Z !
+<var> ennemi utilise Corps Perdu Z !
+<var> Dominant utilise Corps Perdu Z !
+<var> utilise Aurore Z !
+<var> sauvage utilise Aurore Z !
+<var> ennemi utilise Aurore Z !
+<var> Dominant utilise Aurore Z !
+<var> utilise Synthèse Z !
+<var> sauvage utilise Synthèse Z !
+<var> ennemi utilise Synthèse Z !
+<var> Dominant utilise Synthèse Z !
+<var> utilise Rayon Lune Z !
+<var> sauvage utilise Rayon Lune Z !
+<var> ennemi utilise Rayon Lune Z !
+<var> Dominant utilise Rayon Lune Z !
+<var> utilise Puissance Cachée Z !
+<var> sauvage utilise Puissance Cachée Z !
+<var> ennemi utilise Puissance Cachée Z !
+<var> Dominant utilise Puissance Cachée Z !
+<var> utilise Coup-Croix Z !
+<var> sauvage utilise Coup-Croix Z !
+<var> ennemi utilise Coup-Croix Z !
+<var> Dominant utilise Coup-Croix Z !
+<var> utilise Ouragan Z !
+<var> sauvage utilise Ouragan Z !
+<var> ennemi utilise Ouragan Z !
+<var> Dominant utilise Ouragan Z !
+<var> utilise Danse Pluie Z !
+<var> sauvage utilise Danse Pluie Z !
+<var> ennemi utilise Danse Pluie Z !
+<var> Dominant utilise Danse Pluie Z !
+<var> utilise Zénith Z !
+<var> sauvage utilise Zénith Z !
+<var> ennemi utilise Zénith Z !
+<var> Dominant utilise Zénith Z !
+<var> utilise Mâchouille Z !
+<var> sauvage utilise Mâchouille Z !
+<var> ennemi utilise Mâchouille Z !
+<var> Dominant utilise Mâchouille Z !
+<var> utilise Voile Miroir Z !
+<var> sauvage utilise Voile Miroir Z !
+<var> ennemi utilise Voile Miroir Z !
+<var> Dominant utilise Voile Miroir Z !
+<var> utilise Boost Z !
+<var> sauvage utilise Boost Z !
+<var> ennemi utilise Boost Z !
+<var> Dominant utilise Boost Z !
+<var> utilise Vitesse Extrême Z !
+<var> sauvage utilise Vitesse Extrême Z !
+<var> ennemi utilise Vitesse Extrême Z !
+<var> Dominant utilise Vitesse Extrême Z !
+<var> utilise Pouvoir Antique Z !
+<var> sauvage utilise Pouvoir Antique Z !
+<var> ennemi utilise Pouvoir Antique Z !
+<var> Dominant utilise Pouvoir Antique Z !
+<var> utilise Ball'Ombre Z !
+<var> sauvage utilise Ball'Ombre Z !
+<var> ennemi utilise Ball'Ombre Z !
+<var> Dominant utilise Ball'Ombre Z !
+<var> utilise Prescience Z !
+<var> sauvage utilise Prescience Z !
+<var> ennemi utilise Prescience Z !
+<var> Dominant utilise Prescience Z !
+<var> utilise Éclate-Roc Z !
+<var> sauvage utilise Éclate-Roc Z !
+<var> ennemi utilise Éclate-Roc Z !
+<var> Dominant utilise Éclate-Roc Z !
+<var> utilise Siphon Z !
+<var> sauvage utilise Siphon Z !
+<var> ennemi utilise Siphon Z !
+<var> Dominant utilise Siphon Z !
+<var> utilise Baston Z !
+<var> sauvage utilise Baston Z !
+<var> ennemi utilise Baston Z !
+<var> Dominant utilise Baston Z !
+<var> utilise Bluff Z !
+<var> sauvage utilise Bluff Z !
+<var> ennemi utilise Bluff Z !
+<var> Dominant utilise Bluff Z !
+<var> utilise Brouhaha Z !
+<var> sauvage utilise Brouhaha Z !
+<var> ennemi utilise Brouhaha Z !
+<var> Dominant utilise Brouhaha Z !
+<var> utilise Stockage Z !
+<var> sauvage utilise Stockage Z !
+<var> ennemi utilise Stockage Z !
+<var> Dominant utilise Stockage Z !
+<var> utilise Relâche Z !
+<var> sauvage utilise Relâche Z !
+<var> ennemi utilise Relâche Z !
+<var> Dominant utilise Relâche Z !
+<var> utilise Avale Z !
+<var> sauvage utilise Avale Z !
+<var> ennemi utilise Avale Z !
+<var> Dominant utilise Avale Z !
+<var> utilise Canicule Z !
+<var> sauvage utilise Canicule Z !
+<var> ennemi utilise Canicule Z !
+<var> Dominant utilise Canicule Z !
+<var> utilise Grêle Z !
+<var> sauvage utilise Grêle Z !
+<var> ennemi utilise Grêle Z !
+<var> Dominant utilise Grêle Z !
+<var> utilise Tourmente Z !
+<var> sauvage utilise Tourmente Z !
+<var> ennemi utilise Tourmente Z !
+<var> Dominant utilise Tourmente Z !
+<var> utilise Flatterie Z !
+<var> sauvage utilise Flatterie Z !
+<var> ennemi utilise Flatterie Z !
+<var> Dominant utilise Flatterie Z !
+<var> utilise Feu Follet Z !
+<var> sauvage utilise Feu Follet Z !
+<var> ennemi utilise Feu Follet Z !
+<var> Dominant utilise Feu Follet Z !
+<var> utilise Souvenir Z !
+<var> sauvage utilise Souvenir Z !
+<var> ennemi utilise Souvenir Z !
+<var> Dominant utilise Souvenir Z !
+<var> utilise Façade Z !
+<var> sauvage utilise Façade Z !
+<var> ennemi utilise Façade Z !
+<var> Dominant utilise Façade Z !
+<var> utilise Mitra-Poing Z !
+<var> sauvage utilise Mitra-Poing Z !
+<var> ennemi utilise Mitra-Poing Z !
+<var> Dominant utilise Mitra-Poing Z !
+<var> utilise Stimulant Z !
+<var> sauvage utilise Stimulant Z !
+<var> ennemi utilise Stimulant Z !
+<var> Dominant utilise Stimulant Z !
+<var> utilise Par Ici Z !
+<var> sauvage utilise Par Ici Z !
+<var> ennemi utilise Par Ici Z !
+<var> Dominant utilise Par Ici Z !
+<var> utilise Force-Nature Z !
+<var> sauvage utilise Force-Nature Z !
+<var> ennemi utilise Force-Nature Z !
+<var> Dominant utilise Force-Nature Z !
+<var> utilise Chargeur Z !
+<var> sauvage utilise Chargeur Z !
+<var> ennemi utilise Chargeur Z !
+<var> Dominant utilise Chargeur Z !
+<var> utilise Provoc Z !
+<var> sauvage utilise Provoc Z !
+<var> ennemi utilise Provoc Z !
+<var> Dominant utilise Provoc Z !
+<var> utilise Coup d'Main Z !
+<var> sauvage utilise Coup d'Main Z !
+<var> ennemi utilise Coup d'Main Z !
+<var> Dominant utilise Coup d'Main Z !
+<var> utilise Tourmagik Z !
+<var> sauvage utilise Tourmagik Z !
+<var> ennemi utilise Tourmagik Z !
+<var> Dominant utilise Tourmagik Z !
+<var> utilise Imitation Z !
+<var> sauvage utilise Imitation Z !
+<var> ennemi utilise Imitation Z !
+<var> Dominant utilise Imitation Z !
+<var> fait un Vœu Z !
+<var> sauvage fait un Vœu Z !
+<var> ennemi fait un Vœu Z !
+<var> Dominant fait un Vœu Z !
+<var> utilise Assistance Z !
+<var> sauvage utilise Assistance Z !
+<var> ennemi utilise Assistance Z !
+<var> Dominant utilise Assistance Z !
+<var> utilise Racines Z !
+<var> sauvage utilise Racines Z !
+<var> ennemi utilise Racines Z !
+<var> Dominant utilise Racines Z !
+<var> utilise Surpuissance Z !
+<var> sauvage utilise Surpuissance Z !
+<var> ennemi utilise Surpuissance Z !
+<var> Dominant utilise Surpuissance Z !
+<var> utilise Reflet Magik Z !
+<var> sauvage utilise Reflet Magik Z !
+<var> ennemi utilise Reflet Magik Z !
+<var> Dominant utilise Reflet Magik Z !
+<var> utilise Recyclage Z !
+<var> sauvage utilise Recyclage Z !
+<var> ennemi utilise Recyclage Z !
+<var> Dominant utilise Recyclage Z !
+<var> utilise Vendetta Z !
+<var> sauvage utilise Vendetta Z !
+<var> ennemi utilise Vendetta Z !
+<var> Dominant utilise Vendetta Z !
+<var> utilise Casse-Brique Z !
+<var> sauvage utilise Casse-Brique Z !
+<var> ennemi utilise Casse-Brique Z !
+<var> Dominant utilise Casse-Brique Z !
+<var> utilise Bâillement Z !
+<var> sauvage utilise Bâillement Z !
+<var> ennemi utilise Bâillement Z !
+<var> Dominant utilise Bâillement Z !
+<var> utilise Sabotage Z !
+<var> sauvage utilise Sabotage Z !
+<var> ennemi utilise Sabotage Z !
+<var> Dominant utilise Sabotage Z !
+<var> utilise Effort Z !
+<var> sauvage utilise Effort Z !
+<var> ennemi utilise Effort Z !
+<var> Dominant utilise Effort Z !
+<var> utilise Éruption Z !
+<var> sauvage utilise Éruption Z !
+<var> ennemi utilise Éruption Z !
+<var> Dominant utilise Éruption Z !
+<var> utilise Échange Z !
+<var> sauvage utilise Échange Z !
+<var> ennemi utilise Échange Z !
+<var> Dominant utilise Échange Z !
+<var> utilise Possessif Z !
+<var> sauvage utilise Possessif Z !
+<var> ennemi utilise Possessif Z !
+<var> Dominant utilise Possessif Z !
+<var> utilise Régénération Z !
+<var> sauvage utilise Régénération Z !
+<var> ennemi utilise Régénération Z !
+<var> Dominant utilise Régénération Z !
+<var> utilise Rancune Z !
+<var> sauvage utilise Rancune Z !
+<var> ennemi utilise Rancune Z !
+<var> Dominant utilise Rancune Z !
+<var> utilise Saisie Z !
+<var> sauvage utilise Saisie Z !
+<var> ennemi utilise Saisie Z !
+<var> Dominant utilise Saisie Z !
+<var> utilise Force Cachée Z !
+<var> sauvage utilise Force Cachée Z !
+<var> ennemi utilise Force Cachée Z !
+<var> Dominant utilise Force Cachée Z !
+<var> utilise Plongée Z !
+<var> sauvage utilise Plongée Z !
+<var> ennemi utilise Plongée Z !
+<var> Dominant utilise Plongée Z !
+<var> utilise Cogne Z !
+<var> sauvage utilise Cogne Z !
+<var> ennemi utilise Cogne Z !
+<var> Dominant utilise Cogne Z !
+<var> utilise Camouflage Z !
+<var> sauvage utilise Camouflage Z !
+<var> ennemi utilise Camouflage Z !
+<var> Dominant utilise Camouflage Z !
+<var> utilise Lumiqueue Z !
+<var> sauvage utilise Lumiqueue Z !
+<var> ennemi utilise Lumiqueue Z !
+<var> Dominant utilise Lumiqueue Z !
+<var> utilise Lumi-Éclat Z !
+<var> sauvage utilise Lumi-Éclat Z !
+<var> ennemi utilise Lumi-Éclat Z !
+<var> Dominant utilise Lumi-Éclat Z !
+<var> utilise Ball'Brume Z !
+<var> sauvage utilise Ball'Brume Z !
+<var> ennemi utilise Ball'Brume Z !
+<var> Dominant utilise Ball'Brume Z !
+<var> utilise Danse-Plume Z !
+<var> sauvage utilise Danse-Plume Z !
+<var> ennemi utilise Danse-Plume Z !
+<var> Dominant utilise Danse-Plume Z !
+<var> utilise Danse-Folle Z !
+<var> sauvage utilise Danse-Folle Z !
+<var> ennemi utilise Danse-Folle Z !
+<var> Dominant utilise Danse-Folle Z !
+<var> utilise Pied Brûleur Z !
+<var> sauvage utilise Pied Brûleur Z !
+<var> ennemi utilise Pied Brûleur Z !
+<var> Dominant utilise Pied Brûleur Z !
+<var> utilise Lance-Boue Z !
+<var> sauvage utilise Lance-Boue Z !
+<var> ennemi utilise Lance-Boue Z !
+<var> Dominant utilise Lance-Boue Z !
+<var> utilise Ball'Glace Z !
+<var> sauvage utilise Ball'Glace Z !
+<var> ennemi utilise Ball'Glace Z !
+<var> Dominant utilise Ball'Glace Z !
+<var> utilise Poing Dard Z !
+<var> sauvage utilise Poing Dard Z !
+<var> ennemi utilise Poing Dard Z !
+<var> Dominant utilise Poing Dard Z !
+<var> utilise Paresse Z !
+<var> sauvage utilise Paresse Z !
+<var> ennemi utilise Paresse Z !
+<var> Dominant utilise Paresse Z !
+<var> utilise Mégaphone Z !
+<var> sauvage utilise Mégaphone Z !
+<var> ennemi utilise Mégaphone Z !
+<var> Dominant utilise Mégaphone Z !
+<var> utilise Crochet Venin Z !
+<var> sauvage utilise Crochet Venin Z !
+<var> ennemi utilise Crochet Venin Z !
+<var> Dominant utilise Crochet Venin Z !
+<var> utilise Éclate Griffe Z !
+<var> sauvage utilise Éclate Griffe Z !
+<var> ennemi utilise Éclate Griffe Z !
+<var> Dominant utilise Éclate Griffe Z !
+<var> utilise Rafale Feu Z !
+<var> sauvage utilise Rafale Feu Z !
+<var> ennemi utilise Rafale Feu Z !
+<var> Dominant utilise Rafale Feu Z !
+<var> utilise Hydroblast Z !
+<var> sauvage utilise Hydroblast Z !
+<var> ennemi utilise Hydroblast Z !
+<var> Dominant utilise Hydroblast Z !
+<var> utilise Poing Météore Z !
+<var> sauvage utilise Poing Météore Z !
+<var> ennemi utilise Poing Météore Z !
+<var> Dominant utilise Poing Météore Z !
+<var> utilise Étonnement Z !
+<var> sauvage utilise Étonnement Z !
+<var> ennemi utilise Étonnement Z !
+<var> Dominant utilise Étonnement Z !
+<var> utilise Ball'Météo Z !
+<var> sauvage utilise Ball'Météo Z !
+<var> ennemi utilise Ball'Météo Z !
+<var> Dominant utilise Ball'Météo Z !
+<var> utilise Aromathérapie Z !
+<var> sauvage utilise Aromathérapie Z !
+<var> ennemi utilise Aromathérapie Z !
+<var> Dominant utilise Aromathérapie Z !
+<var> utilise Croco Larme Z !
+<var> sauvage utilise Croco Larme Z !
+<var> ennemi utilise Croco Larme Z !
+<var> Dominant utilise Croco Larme Z !
+<var> utilise Tranch'Air Z !
+<var> sauvage utilise Tranch'Air Z !
+<var> ennemi utilise Tranch'Air Z !
+<var> Dominant utilise Tranch'Air Z !
+<var> utilise Surchauffe Z !
+<var> sauvage utilise Surchauffe Z !
+<var> ennemi utilise Surchauffe Z !
+<var> Dominant utilise Surchauffe Z !
+<var> utilise Flair Z !
+<var> sauvage utilise Flair Z !
+<var> ennemi utilise Flair Z !
+<var> Dominant utilise Flair Z !
+<var> utilise Tomberoche Z !
+<var> sauvage utilise Tomberoche Z !
+<var> ennemi utilise Tomberoche Z !
+<var> Dominant utilise Tomberoche Z !
+<var> utilise Vent Argenté Z !
+<var> sauvage utilise Vent Argenté Z !
+<var> ennemi utilise Vent Argenté Z !
+<var> Dominant utilise Vent Argenté Z !
+<var> utilise Strido-Son Z !
+<var> sauvage utilise Strido-Son Z !
+<var> ennemi utilise Strido-Son Z !
+<var> Dominant utilise Strido-Son Z !
+<var> utilise Siffl'Herbe Z !
+<var> sauvage utilise Siffl'Herbe Z !
+<var> ennemi utilise Siffl'Herbe Z !
+<var> Dominant utilise Siffl'Herbe Z !
+<var> utilise Chatouille Z !
+<var> sauvage utilise Chatouille Z !
+<var> ennemi utilise Chatouille Z !
+<var> Dominant utilise Chatouille Z !
+<var> utilise Force Cosmik Z !
+<var> sauvage utilise Force Cosmik Z !
+<var> ennemi utilise Force Cosmik Z !
+<var> Dominant utilise Force Cosmik Z !
+<var> utilise Giclédo Z !
+<var> sauvage utilise Giclédo Z !
+<var> ennemi utilise Giclédo Z !
+<var> Dominant utilise Giclédo Z !
+<var> utilise Rayon Signal Z !
+<var> sauvage utilise Rayon Signal Z !
+<var> ennemi utilise Rayon Signal Z !
+<var> Dominant utilise Rayon Signal Z !
+<var> utilise Poing Ombre Z !
+<var> sauvage utilise Poing Ombre Z !
+<var> ennemi utilise Poing Ombre Z !
+<var> Dominant utilise Poing Ombre Z !
+<var> utilise Extrasenseur Z !
+<var> sauvage utilise Extrasenseur Z !
+<var> ennemi utilise Extrasenseur Z !
+<var> Dominant utilise Extrasenseur Z !
+<var> utilise Stratopercut Z !
+<var> sauvage utilise Stratopercut Z !
+<var> ennemi utilise Stratopercut Z !
+<var> Dominant utilise Stratopercut Z !
+<var> utilise Tourbi-Sable Z !
+<var> sauvage utilise Tourbi-Sable Z !
+<var> ennemi utilise Tourbi-Sable Z !
+<var> Dominant utilise Tourbi-Sable Z !
+<var> utilise Glaciation Z !
+<var> sauvage utilise Glaciation Z !
+<var> ennemi utilise Glaciation Z !
+<var> Dominant utilise Glaciation Z !
+<var> utilise Ocroupi Z !
+<var> sauvage utilise Ocroupi Z !
+<var> ennemi utilise Ocroupi Z !
+<var> Dominant utilise Ocroupi Z !
+<var> utilise Balle Graine Z !
+<var> sauvage utilise Balle Graine Z !
+<var> ennemi utilise Balle Graine Z !
+<var> Dominant utilise Balle Graine Z !
+<var> utilise Aéropique Z !
+<var> sauvage utilise Aéropique Z !
+<var> ennemi utilise Aéropique Z !
+<var> Dominant utilise Aéropique Z !
+<var> utilise Stalagtite Z !
+<var> sauvage utilise Stalagtite Z !
+<var> ennemi utilise Stalagtite Z !
+<var> Dominant utilise Stalagtite Z !
+<var> utilise Mur de Fer Z !
+<var> sauvage utilise Mur de Fer Z !
+<var> ennemi utilise Mur de Fer Z !
+<var> Dominant utilise Mur de Fer Z !
+<var> utilise Barrage Z !
+<var> sauvage utilise Barrage Z !
+<var> ennemi utilise Barrage Z !
+<var> Dominant utilise Barrage Z !
+<var> utilise Grondement Z !
+<var> sauvage utilise Grondement Z !
+<var> ennemi utilise Grondement Z !
+<var> Dominant utilise Grondement Z !
+<var> utilise Dracogriffe Z !
+<var> sauvage utilise Dracogriffe Z !
+<var> ennemi utilise Dracogriffe Z !
+<var> Dominant utilise Dracogriffe Z !
+<var> utilise Végé-Attak Z !
+<var> sauvage utilise Végé-Attak Z !
+<var> ennemi utilise Végé-Attak Z !
+<var> Dominant utilise Végé-Attak Z !
+<var> utilise Gonflette Z !
+<var> sauvage utilise Gonflette Z !
+<var> ennemi utilise Gonflette Z !
+<var> Dominant utilise Gonflette Z !
+<var> utilise Rebond Z !
+<var> sauvage utilise Rebond Z !
+<var> ennemi utilise Rebond Z !
+<var> Dominant utilise Rebond Z !
+<var> utilise Tir de Boue Z !
+<var> sauvage utilise Tir de Boue Z !
+<var> ennemi utilise Tir de Boue Z !
+<var> Dominant utilise Tir de Boue Z !
+<var> utilise Queue-Poison Z !
+<var> sauvage utilise Queue-Poison Z !
+<var> ennemi utilise Queue-Poison Z !
+<var> Dominant utilise Queue-Poison Z !
+<var> utilise Implore Z !
+<var> sauvage utilise Implore Z !
+<var> ennemi utilise Implore Z !
+<var> Dominant utilise Implore Z !
+<var> utilise Électacle Z !
+<var> sauvage utilise Électacle Z !
+<var> ennemi utilise Électacle Z !
+<var> Dominant utilise Électacle Z !
+<var> utilise Feuille Magik Z !
+<var> sauvage utilise Feuille Magik Z !
+<var> ennemi utilise Feuille Magik Z !
+<var> Dominant utilise Feuille Magik Z !
+<var> utilise Tourniquet Z !
+<var> sauvage utilise Tourniquet Z !
+<var> ennemi utilise Tourniquet Z !
+<var> Dominant utilise Tourniquet Z !
+<var> utilise Plénitude Z !
+<var> sauvage utilise Plénitude Z !
+<var> ennemi utilise Plénitude Z !
+<var> Dominant utilise Plénitude Z !
+<var> utilise Lame-Feuille Z !
+<var> sauvage utilise Lame-Feuille Z !
+<var> ennemi utilise Lame-Feuille Z !
+<var> Dominant utilise Lame-Feuille Z !
+<var> utilise Danse Draco Z !
+<var> sauvage utilise Danse Draco Z !
+<var> ennemi utilise Danse Draco Z !
+<var> Dominant utilise Danse Draco Z !
+<var> utilise Boule Roc Z !
+<var> sauvage utilise Boule Roc Z !
+<var> ennemi utilise Boule Roc Z !
+<var> Dominant utilise Boule Roc Z !
+<var> utilise Onde de Choc Z !
+<var> sauvage utilise Onde de Choc Z !
+<var> ennemi utilise Onde de Choc Z !
+<var> Dominant utilise Onde de Choc Z !
+<var> utilise Vibraqua Z !
+<var> sauvage utilise Vibraqua Z !
+<var> ennemi utilise Vibraqua Z !
+<var> Dominant utilise Vibraqua Z !
+<var> utilise Carnareket Z !
+<var> sauvage utilise Carnareket Z !
+<var> ennemi utilise Carnareket Z !
+<var> Dominant utilise Carnareket Z !
+<var> utilise Psycho Boost Z !
+<var> sauvage utilise Psycho Boost Z !
+<var> ennemi utilise Psycho Boost Z !
+<var> Dominant utilise Psycho Boost Z !
+<var> utilise Atterrissage Z !
+<var> sauvage utilise Atterrissage Z !
+<var> ennemi utilise Atterrissage Z !
+<var> Dominant utilise Atterrissage Z !
+<var> utilise Gravité Z !
+<var> sauvage utilise Gravité Z !
+<var> ennemi utilise Gravité Z !
+<var> Dominant utilise Gravité Z !
+<var> utilise Œil Miracle Z !
+<var> sauvage utilise Œil Miracle Z !
+<var> ennemi utilise Œil Miracle Z !
+<var> Dominant utilise Œil Miracle Z !
+<var> utilise Réveil Forcé Z !
+<var> sauvage utilise Réveil Forcé Z !
+<var> ennemi utilise Réveil Forcé Z !
+<var> Dominant utilise Réveil Forcé Z !
+<var> utilise Marto-Poing Z !
+<var> sauvage utilise Marto-Poing Z !
+<var> ennemi utilise Marto-Poing Z !
+<var> Dominant utilise Marto-Poing Z !
+<var> utilise Gyroballe Z !
+<var> sauvage utilise Gyroballe Z !
+<var> ennemi utilise Gyroballe Z !
+<var> Dominant utilise Gyroballe Z !
+<var> utilise Vœu Soin Z !
+<var> sauvage utilise Vœu Soin Z !
+<var> ennemi utilise Vœu Soin Z !
+<var> Dominant utilise Vœu Soin Z !
+<var> utilise Saumure Z !
+<var> sauvage utilise Saumure Z !
+<var> ennemi utilise Saumure Z !
+<var> Dominant utilise Saumure Z !
+<var> utilise Don Naturel Z !
+<var> sauvage utilise Don Naturel Z !
+<var> ennemi utilise Don Naturel Z !
+<var> Dominant utilise Don Naturel Z !
+<var> utilise Ruse Z !
+<var> sauvage utilise Ruse Z !
+<var> ennemi utilise Ruse Z !
+<var> Dominant utilise Ruse Z !
+<var> utilise Picore Z !
+<var> sauvage utilise Picore Z !
+<var> ennemi utilise Picore Z !
+<var> Dominant utilise Picore Z !
+<var> utilise Vent Arrière Z !
+<var> sauvage utilise Vent Arrière Z !
+<var> ennemi utilise Vent Arrière Z !
+<var> Dominant utilise Vent Arrière Z !
+<var> utilise Acupression Z !
+<var> sauvage utilise Acupression Z !
+<var> ennemi utilise Acupression Z !
+<var> Dominant utilise Acupression Z !
+<var> utilise Fulmifer Z !
+<var> sauvage utilise Fulmifer Z !
+<var> ennemi utilise Fulmifer Z !
+<var> Dominant utilise Fulmifer Z !
+<var> utilise Demi-Tour Z !
+<var> sauvage utilise Demi-Tour Z !
+<var> ennemi utilise Demi-Tour Z !
+<var> Dominant utilise Demi-Tour Z !
+<var> utilise Close Combat Z !
+<var> sauvage utilise Close Combat Z !
+<var> ennemi utilise Close Combat Z !
+<var> Dominant utilise Close Combat Z !
+<var> utilise Représailles Z !
+<var> sauvage utilise Représailles Z !
+<var> ennemi utilise Représailles Z !
+<var> Dominant utilise Représailles Z !
+<var> utilise Assurance Z !
+<var> sauvage utilise Assurance Z !
+<var> ennemi utilise Assurance Z !
+<var> Dominant utilise Assurance Z !
+<var> utilise Embargo Z !
+<var> sauvage utilise Embargo Z !
+<var> ennemi utilise Embargo Z !
+<var> Dominant utilise Embargo Z !
+<var> utilise Dégommage Z !
+<var> sauvage utilise Dégommage Z !
+<var> ennemi utilise Dégommage Z !
+<var> Dominant utilise Dégommage Z !
+<var> utilise Échange Psy Z !
+<var> sauvage utilise Échange Psy Z !
+<var> ennemi utilise Échange Psy Z !
+<var> Dominant utilise Échange Psy Z !
+<var> utilise Atout Z !
+<var> sauvage utilise Atout Z !
+<var> ennemi utilise Atout Z !
+<var> Dominant utilise Atout Z !
+<var> utilise Anti-Soin Z !
+<var> sauvage utilise Anti-Soin Z !
+<var> ennemi utilise Anti-Soin Z !
+<var> Dominant utilise Anti-Soin Z !
+<var> utilise Essorage Z !
+<var> sauvage utilise Essorage Z !
+<var> ennemi utilise Essorage Z !
+<var> Dominant utilise Essorage Z !
+<var> utilise Astuce Force Z !
+<var> sauvage utilise Astuce Force Z !
+<var> ennemi utilise Astuce Force Z !
+<var> Dominant utilise Astuce Force Z !
+<var> utilise Suc Digestif Z !
+<var> sauvage utilise Suc Digestif Z !
+<var> ennemi utilise Suc Digestif Z !
+<var> Dominant utilise Suc Digestif Z !
+<var> utilise Air Veinard Z !
+<var> sauvage utilise Air Veinard Z !
+<var> ennemi utilise Air Veinard Z !
+<var> Dominant utilise Air Veinard Z !
+<var> utilise Moi d'Abord Z !
+<var> sauvage utilise Moi d'Abord Z !
+<var> ennemi utilise Moi d'Abord Z !
+<var> Dominant utilise Moi d'Abord Z !
+<var> utilise Photocopie Z !
+<var> sauvage utilise Photocopie Z !
+<var> ennemi utilise Photocopie Z !
+<var> Dominant utilise Photocopie Z !
+<var> utilise Permuforce Z !
+<var> sauvage utilise Permuforce Z !
+<var> ennemi utilise Permuforce Z !
+<var> Dominant utilise Permuforce Z !
+<var> utilise Permugarde Z !
+<var> sauvage utilise Permugarde Z !
+<var> ennemi utilise Permugarde Z !
+<var> Dominant utilise Permugarde Z !
+<var> utilise Punition Z !
+<var> sauvage utilise Punition Z !
+<var> ennemi utilise Punition Z !
+<var> Dominant utilise Punition Z !
+<var> utilise Dernier Recours Z !
+<var> sauvage utilise Dernier Recours Z !
+<var> ennemi utilise Dernier Recours Z !
+<var> Dominant utilise Dernier Recours Z !
+<var> utilise Soucigraine Z !
+<var> sauvage utilise Soucigraine Z !
+<var> ennemi utilise Soucigraine Z !
+<var> Dominant utilise Soucigraine Z !
+<var> utilise Coup Bas Z !
+<var> sauvage utilise Coup Bas Z !
+<var> ennemi utilise Coup Bas Z !
+<var> Dominant utilise Coup Bas Z !
+<var> utilise Pics Toxik Z !
+<var> sauvage utilise Pics Toxik Z !
+<var> ennemi utilise Pics Toxik Z !
+<var> Dominant utilise Pics Toxik Z !
+<var> utilise Permucœur Z !
+<var> sauvage utilise Permucœur Z !
+<var> ennemi utilise Permucœur Z !
+<var> Dominant utilise Permucœur Z !
+<var> utilise Anneau Hydro Z !
+<var> sauvage utilise Anneau Hydro Z !
+<var> ennemi utilise Anneau Hydro Z !
+<var> Dominant utilise Anneau Hydro Z !
+<var> utilise Vol Magnétik Z !
+<var> sauvage utilise Vol Magnétik Z !
+<var> ennemi utilise Vol Magnétik Z !
+<var> Dominant utilise Vol Magnétik Z !
+<var> utilise Boutefeu Z !
+<var> sauvage utilise Boutefeu Z !
+<var> ennemi utilise Boutefeu Z !
+<var> Dominant utilise Boutefeu Z !
+<var> utilise Forte-Paume Z !
+<var> sauvage utilise Forte-Paume Z !
+<var> ennemi utilise Forte-Paume Z !
+<var> Dominant utilise Forte-Paume Z !
+<var> utilise Aurasphère Z !
+<var> sauvage utilise Aurasphère Z !
+<var> ennemi utilise Aurasphère Z !
+<var> Dominant utilise Aurasphère Z !
+<var> utilise Poliroche Z !
+<var> sauvage utilise Poliroche Z !
+<var> ennemi utilise Poliroche Z !
+<var> Dominant utilise Poliroche Z !
+<var> utilise Direct Toxik Z !
+<var> sauvage utilise Direct Toxik Z !
+<var> ennemi utilise Direct Toxik Z !
+<var> Dominant utilise Direct Toxik Z !
+<var> utilise Vibrobscur Z !
+<var> sauvage utilise Vibrobscur Z !
+<var> ennemi utilise Vibrobscur Z !
+<var> Dominant utilise Vibrobscur Z !
+<var> utilise Tranche-Nuit Z !
+<var> sauvage utilise Tranche-Nuit Z !
+<var> ennemi utilise Tranche-Nuit Z !
+<var> Dominant utilise Tranche-Nuit Z !
+<var> utilise Hydroqueue Z !
+<var> sauvage utilise Hydroqueue Z !
+<var> ennemi utilise Hydroqueue Z !
+<var> Dominant utilise Hydroqueue Z !
+<var> utilise Canon Graine Z !
+<var> sauvage utilise Canon Graine Z !
+<var> ennemi utilise Canon Graine Z !
+<var> Dominant utilise Canon Graine Z !
+<var> utilise Lame d'Air Z !
+<var> sauvage utilise Lame d'Air Z !
+<var> ennemi utilise Lame d'Air Z !
+<var> Dominant utilise Lame d'Air Z !
+<var> utilise Plaie-Croix Z !
+<var> sauvage utilise Plaie-Croix Z !
+<var> ennemi utilise Plaie-Croix Z !
+<var> Dominant utilise Plaie-Croix Z !
+<var> utilise Bourdon Z !
+<var> sauvage utilise Bourdon Z !
+<var> ennemi utilise Bourdon Z !
+<var> Dominant utilise Bourdon Z !
+<var> utilise Dracochoc Z !
+<var> sauvage utilise Dracochoc Z !
+<var> ennemi utilise Dracochoc Z !
+<var> Dominant utilise Dracochoc Z !
+<var> utilise Dracocharge Z !
+<var> sauvage utilise Dracocharge Z !
+<var> ennemi utilise Dracocharge Z !
+<var> Dominant utilise Dracocharge Z !
+<var> utilise Rayon Gemme Z !
+<var> sauvage utilise Rayon Gemme Z !
+<var> ennemi utilise Rayon Gemme Z !
+<var> Dominant utilise Rayon Gemme Z !
+<var> utilise Vampipoing Z !
+<var> sauvage utilise Vampipoing Z !
+<var> ennemi utilise Vampipoing Z !
+<var> Dominant utilise Vampipoing Z !
+<var> utilise Onde Vide Z !
+<var> sauvage utilise Onde Vide Z !
+<var> ennemi utilise Onde Vide Z !
+<var> Dominant utilise Onde Vide Z !
+<var> utilise Exploforce Z !
+<var> sauvage utilise Exploforce Z !
+<var> ennemi utilise Exploforce Z !
+<var> Dominant utilise Exploforce Z !
+<var> utilise Éco-Sphère Z !
+<var> sauvage utilise Éco-Sphère Z !
+<var> ennemi utilise Éco-Sphère Z !
+<var> Dominant utilise Éco-Sphère Z !
+<var> utilise Rapace Z !
+<var> sauvage utilise Rapace Z !
+<var> ennemi utilise Rapace Z !
+<var> Dominant utilise Rapace Z !
+<var> utilise Telluriforce Z !
+<var> sauvage utilise Telluriforce Z !
+<var> ennemi utilise Telluriforce Z !
+<var> Dominant utilise Telluriforce Z !
+<var> utilise Passe-Passe Z !
+<var> sauvage utilise Passe-Passe Z !
+<var> ennemi utilise Passe-Passe Z !
+<var> Dominant utilise Passe-Passe Z !
+<var> utilise Giga Impact Z !
+<var> sauvage utilise Giga Impact Z !
+<var> ennemi utilise Giga Impact Z !
+<var> Dominant utilise Giga Impact Z !
+<var> utilise Machination Z !
+<var> sauvage utilise Machination Z !
+<var> ennemi utilise Machination Z !
+<var> Dominant utilise Machination Z !
+<var> utilise Pisto-Poing Z !
+<var> sauvage utilise Pisto-Poing Z !
+<var> ennemi utilise Pisto-Poing Z !
+<var> Dominant utilise Pisto-Poing Z !
+<var> utilise Avalanche Z !
+<var> sauvage utilise Avalanche Z !
+<var> ennemi utilise Avalanche Z !
+<var> Dominant utilise Avalanche Z !
+<var> utilise Éclats Glace Z !
+<var> sauvage utilise Éclats Glace Z !
+<var> ennemi utilise Éclats Glace Z !
+<var> Dominant utilise Éclats Glace Z !
+<var> utilise Griffe Ombre Z !
+<var> sauvage utilise Griffe Ombre Z !
+<var> ennemi utilise Griffe Ombre Z !
+<var> Dominant utilise Griffe Ombre Z !
+<var> utilise Crocs Éclair Z !
+<var> sauvage utilise Crocs Éclair Z !
+<var> ennemi utilise Crocs Éclair Z !
+<var> Dominant utilise Crocs Éclair Z !
+<var> utilise Crocs Givre Z !
+<var> sauvage utilise Crocs Givre Z !
+<var> ennemi utilise Crocs Givre Z !
+<var> Dominant utilise Crocs Givre Z !
+<var> utilise Crocs Feu Z !
+<var> sauvage utilise Crocs Feu Z !
+<var> ennemi utilise Crocs Feu Z !
+<var> Dominant utilise Crocs Feu Z !
+<var> utilise Ombre Portée Z !
+<var> sauvage utilise Ombre Portée Z !
+<var> ennemi utilise Ombre Portée Z !
+<var> Dominant utilise Ombre Portée Z !
+<var> utilise Boue-Bombe Z !
+<var> sauvage utilise Boue-Bombe Z !
+<var> ennemi utilise Boue-Bombe Z !
+<var> Dominant utilise Boue-Bombe Z !
+<var> utilise Coupe Psycho Z !
+<var> sauvage utilise Coupe Psycho Z !
+<var> ennemi utilise Coupe Psycho Z !
+<var> Dominant utilise Coupe Psycho Z !
+<var> utilise Psykoud'Boul Z !
+<var> sauvage utilise Psykoud'Boul Z !
+<var> ennemi utilise Psykoud'Boul Z !
+<var> Dominant utilise Psykoud'Boul Z !
+<var> utilise Miroi-Tir Z !
+<var> sauvage utilise Miroi-Tir Z !
+<var> ennemi utilise Miroi-Tir Z !
+<var> Dominant utilise Miroi-Tir Z !
+<var> utilise Luminocanon Z !
+<var> sauvage utilise Luminocanon Z !
+<var> ennemi utilise Luminocanon Z !
+<var> Dominant utilise Luminocanon Z !
+<var> utilise Escalade Z !
+<var> sauvage utilise Escalade Z !
+<var> ennemi utilise Escalade Z !
+<var> Dominant utilise Escalade Z !
+<var> utilise Anti-Brume Z !
+<var> sauvage utilise Anti-Brume Z !
+<var> ennemi utilise Anti-Brume Z !
+<var> Dominant utilise Anti-Brume Z !
+<var> utilise Distorsion Z !
+<var> sauvage utilise Distorsion Z !
+<var> ennemi utilise Distorsion Z !
+<var> Dominant utilise Distorsion Z !
+<var> utilise Draco Météore Z !
+<var> sauvage utilise Draco Météore Z !
+<var> ennemi utilise Draco Météore Z !
+<var> Dominant utilise Draco Météore Z !
+<var> utilise Coup d'Jus Z !
+<var> sauvage utilise Coup d'Jus Z !
+<var> ennemi utilise Coup d'Jus Z !
+<var> Dominant utilise Coup d'Jus Z !
+<var> utilise Ébullilave Z !
+<var> sauvage utilise Ébullilave Z !
+<var> ennemi utilise Ébullilave Z !
+<var> Dominant utilise Ébullilave Z !
+<var> utilise Tempête Verte Z !
+<var> sauvage utilise Tempête Verte Z !
+<var> ennemi utilise Tempête Verte Z !
+<var> Dominant utilise Tempête Verte Z !
+<var> utilise Mégafouet Z !
+<var> sauvage utilise Mégafouet Z !
+<var> ennemi utilise Mégafouet Z !
+<var> Dominant utilise Mégafouet Z !
+<var> utilise Roc-Boulet Z !
+<var> sauvage utilise Roc-Boulet Z !
+<var> ennemi utilise Roc-Boulet Z !
+<var> Dominant utilise Roc-Boulet Z !
+<var> utilise Poison-Croix Z !
+<var> sauvage utilise Poison-Croix Z !
+<var> ennemi utilise Poison-Croix Z !
+<var> Dominant utilise Poison-Croix Z !
+<var> utilise Détricanon Z !
+<var> sauvage utilise Détricanon Z !
+<var> ennemi utilise Détricanon Z !
+<var> Dominant utilise Détricanon Z !
+<var> utilise Tête de Fer Z !
+<var> sauvage utilise Tête de Fer Z !
+<var> ennemi utilise Tête de Fer Z !
+<var> Dominant utilise Tête de Fer Z !
+<var> utilise Bombaimant Z !
+<var> sauvage utilise Bombaimant Z !
+<var> ennemi utilise Bombaimant Z !
+<var> Dominant utilise Bombaimant Z !
+<var> utilise Lame de Roc Z !
+<var> sauvage utilise Lame de Roc Z !
+<var> ennemi utilise Lame de Roc Z !
+<var> Dominant utilise Lame de Roc Z !
+<var> utilise Séduction Z !
+<var> sauvage utilise Séduction Z !
+<var> ennemi utilise Séduction Z !
+<var> Dominant utilise Séduction Z !
+<var> utilise Piège de Roc Z !
+<var> sauvage utilise Piège de Roc Z !
+<var> ennemi utilise Piège de Roc Z !
+<var> Dominant utilise Piège de Roc Z !
+<var> utilise Nœud Herbe Z !
+<var> sauvage utilise Nœud Herbe Z !
+<var> ennemi utilise Nœud Herbe Z !
+<var> Dominant utilise Nœud Herbe Z !
+<var> utilise Babil Z !
+<var> sauvage utilise Babil Z !
+<var> ennemi utilise Babil Z !
+<var> Dominant utilise Babil Z !
+<var> utilise Jugement Z !
+<var> sauvage utilise Jugement Z !
+<var> ennemi utilise Jugement Z !
+<var> Dominant utilise Jugement Z !
+<var> utilise Piqûre Z !
+<var> sauvage utilise Piqûre Z !
+<var> ennemi utilise Piqûre Z !
+<var> Dominant utilise Piqûre Z !
+<var> utilise Rayon Chargé Z !
+<var> sauvage utilise Rayon Chargé Z !
+<var> ennemi utilise Rayon Chargé Z !
+<var> Dominant utilise Rayon Chargé Z !
+<var> utilise Martobois Z !
+<var> sauvage utilise Martobois Z !
+<var> ennemi utilise Martobois Z !
+<var> Dominant utilise Martobois Z !
+<var> utilise Aqua-Jet Z !
+<var> sauvage utilise Aqua-Jet Z !
+<var> ennemi utilise Aqua-Jet Z !
+<var> Dominant utilise Aqua-Jet Z !
+<var> utilise Appel Attaque Z !
+<var> sauvage utilise Appel Attaque Z !
+<var> ennemi utilise Appel Attaque Z !
+<var> Dominant utilise Appel Attaque Z !
+<var> utilise Appel Défense Z !
+<var> sauvage utilise Appel Défense Z !
+<var> ennemi utilise Appel Défense Z !
+<var> Dominant utilise Appel Défense Z !
+<var> utilise Appel Soins Z !
+<var> sauvage utilise Appel Soins Z !
+<var> ennemi utilise Appel Soins Z !
+<var> Dominant utilise Appel Soins Z !
+<var> utilise Fracass'Tête Z !
+<var> sauvage utilise Fracass'Tête Z !
+<var> ennemi utilise Fracass'Tête Z !
+<var> Dominant utilise Fracass'Tête Z !
+<var> utilise Coup Double Z !
+<var> sauvage utilise Coup Double Z !
+<var> ennemi utilise Coup Double Z !
+<var> Dominant utilise Coup Double Z !
+<var> utilise Hurle-Temps Z !
+<var> sauvage utilise Hurle-Temps Z !
+<var> ennemi utilise Hurle-Temps Z !
+<var> Dominant utilise Hurle-Temps Z !
+<var> utilise Spatio-Rift Z !
+<var> sauvage utilise Spatio-Rift Z !
+<var> ennemi utilise Spatio-Rift Z !
+<var> Dominant utilise Spatio-Rift Z !
+<var> utilise Danse-Lune Z !
+<var> sauvage utilise Danse-Lune Z !
+<var> ennemi utilise Danse-Lune Z !
+<var> Dominant utilise Danse-Lune Z !
+<var> utilise Presse Z !
+<var> sauvage utilise Presse Z !
+<var> ennemi utilise Presse Z !
+<var> Dominant utilise Presse Z !
+<var> utilise Vortex Magma Z !
+<var> sauvage utilise Vortex Magma Z !
+<var> ennemi utilise Vortex Magma Z !
+<var> Dominant utilise Vortex Magma Z !
+<var> utilise Trou Noir Z !
+<var> sauvage utilise Trou Noir Z !
+<var> ennemi utilise Trou Noir Z !
+<var> Dominant utilise Trou Noir Z !
+<var> utilise Fulmigraine Z !
+<var> sauvage utilise Fulmigraine Z !
+<var> ennemi utilise Fulmigraine Z !
+<var> Dominant utilise Fulmigraine Z !
+<var> utilise Vent Mauvais Z !
+<var> sauvage utilise Vent Mauvais Z !
+<var> ennemi utilise Vent Mauvais Z !
+<var> Dominant utilise Vent Mauvais Z !
+<var> utilise Revenant Z !
+<var> sauvage utilise Revenant Z !
+<var> ennemi utilise Revenant Z !
+<var> Dominant utilise Revenant Z !
+<var> utilise Aiguisage Z !
+<var> sauvage utilise Aiguisage Z !
+<var> ennemi utilise Aiguisage Z !
+<var> Dominant utilise Aiguisage Z !
+<var> utilise Garde Large Z !
+<var> sauvage utilise Garde Large Z !
+<var> ennemi utilise Garde Large Z !
+<var> Dominant utilise Garde Large Z !
+<var> utilise Partage Garde Z !
+<var> sauvage utilise Partage Garde Z !
+<var> ennemi utilise Partage Garde Z !
+<var> Dominant utilise Partage Garde Z !
+<var> utilise Partage Force Z !
+<var> sauvage utilise Partage Force Z !
+<var> ennemi utilise Partage Force Z !
+<var> Dominant utilise Partage Force Z !
+<var> utilise Zone Étrange Z !
+<var> sauvage utilise Zone Étrange Z !
+<var> ennemi utilise Zone Étrange Z !
+<var> Dominant utilise Zone Étrange Z !
+<var> utilise Choc Psy Z !
+<var> sauvage utilise Choc Psy Z !
+<var> ennemi utilise Choc Psy Z !
+<var> Dominant utilise Choc Psy Z !
+<var> utilise Choc Venin Z !
+<var> sauvage utilise Choc Venin Z !
+<var> ennemi utilise Choc Venin Z !
+<var> Dominant utilise Choc Venin Z !
+<var> utilise Allègement Z !
+<var> sauvage utilise Allègement Z !
+<var> ennemi utilise Allègement Z !
+<var> Dominant utilise Allègement Z !
+<var> utilise Poudre Fureur Z !
+<var> sauvage utilise Poudre Fureur Z !
+<var> ennemi utilise Poudre Fureur Z !
+<var> Dominant utilise Poudre Fureur Z !
+<var> utilise Lévikinésie Z !
+<var> sauvage utilise Lévikinésie Z !
+<var> ennemi utilise Lévikinésie Z !
+<var> Dominant utilise Lévikinésie Z !
+<var> utilise Zone Magique Z !
+<var> sauvage utilise Zone Magique Z !
+<var> ennemi utilise Zone Magique Z !
+<var> Dominant utilise Zone Magique Z !
+<var> utilise Anti-Air Z !
+<var> sauvage utilise Anti-Air Z !
+<var> ennemi utilise Anti-Air Z !
+<var> Dominant utilise Anti-Air Z !
+<var> utilise Yama Arashi Z !
+<var> sauvage utilise Yama Arashi Z !
+<var> ennemi utilise Yama Arashi Z !
+<var> Dominant utilise Yama Arashi Z !
+<var> utilise Rebondifeu Z !
+<var> sauvage utilise Rebondifeu Z !
+<var> ennemi utilise Rebondifeu Z !
+<var> Dominant utilise Rebondifeu Z !
+<var> utilise Cradovague Z !
+<var> sauvage utilise Cradovague Z !
+<var> ennemi utilise Cradovague Z !
+<var> Dominant utilise Cradovague Z !
+<var> utilise Papillodanse Z !
+<var> sauvage utilise Papillodanse Z !
+<var> ennemi utilise Papillodanse Z !
+<var> Dominant utilise Papillodanse Z !
+<var> utilise Tacle Lourd Z !
+<var> sauvage utilise Tacle Lourd Z !
+<var> ennemi utilise Tacle Lourd Z !
+<var> Dominant utilise Tacle Lourd Z !
+<var> utilise Synchropeine Z !
+<var> sauvage utilise Synchropeine Z !
+<var> ennemi utilise Synchropeine Z !
+<var> Dominant utilise Synchropeine Z !
+<var> utilise Boule Élek Z !
+<var> sauvage utilise Boule Élek Z !
+<var> ennemi utilise Boule Élek Z !
+<var> Dominant utilise Boule Élek Z !
+<var> utilise Détrempage Z !
+<var> sauvage utilise Détrempage Z !
+<var> ennemi utilise Détrempage Z !
+<var> Dominant utilise Détrempage Z !
+<var> utilise Nitrocharge Z !
+<var> sauvage utilise Nitrocharge Z !
+<var> ennemi utilise Nitrocharge Z !
+<var> Dominant utilise Nitrocharge Z !
+<var> utilise Enroulement Z !
+<var> sauvage utilise Enroulement Z !
+<var> ennemi utilise Enroulement Z !
+<var> Dominant utilise Enroulement Z !
+<var> utilise Balayette Z !
+<var> sauvage utilise Balayette Z !
+<var> ennemi utilise Balayette Z !
+<var> Dominant utilise Balayette Z !
+<var> utilise Bombe Acide Z !
+<var> sauvage utilise Bombe Acide Z !
+<var> ennemi utilise Bombe Acide Z !
+<var> Dominant utilise Bombe Acide Z !
+<var> utilise Tricherie Z !
+<var> sauvage utilise Tricherie Z !
+<var> ennemi utilise Tricherie Z !
+<var> Dominant utilise Tricherie Z !
+<var> utilise Rayon Simple Z !
+<var> sauvage utilise Rayon Simple Z !
+<var> ennemi utilise Rayon Simple Z !
+<var> Dominant utilise Rayon Simple Z !
+<var> utilise Ten-danse Z !
+<var> sauvage utilise Ten-danse Z !
+<var> ennemi utilise Ten-danse Z !
+<var> Dominant utilise Ten-danse Z !
+<var> utilise Après Vous Z !
+<var> sauvage utilise Après Vous Z !
+<var> ennemi utilise Après Vous Z !
+<var> Dominant utilise Après Vous Z !
+<var> utilise Chant Canon Z !
+<var> sauvage utilise Chant Canon Z !
+<var> ennemi utilise Chant Canon Z !
+<var> Dominant utilise Chant Canon Z !
+<var> utilise Écho Z !
+<var> sauvage utilise Écho Z !
+<var> ennemi utilise Écho Z !
+<var> Dominant utilise Écho Z !
+<var> utilise Attrition Z !
+<var> sauvage utilise Attrition Z !
+<var> ennemi utilise Attrition Z !
+<var> Dominant utilise Attrition Z !
+<var> utilise Bain de Smog Z !
+<var> sauvage utilise Bain de Smog Z !
+<var> ennemi utilise Bain de Smog Z !
+<var> Dominant utilise Bain de Smog Z !
+<var> utilise Force Ajoutée Z !
+<var> sauvage utilise Force Ajoutée Z !
+<var> ennemi utilise Force Ajoutée Z !
+<var> Dominant utilise Force Ajoutée Z !
+<var> utilise Prévention Z !
+<var> sauvage utilise Prévention Z !
+<var> ennemi utilise Prévention Z !
+<var> Dominant utilise Prévention Z !
+<var> utilise Interversion Z !
+<var> sauvage utilise Interversion Z !
+<var> ennemi utilise Interversion Z !
+<var> Dominant utilise Interversion Z !
+<var> utilise Ébullition Z !
+<var> sauvage utilise Ébullition Z !
+<var> ennemi utilise Ébullition Z !
+<var> Dominant utilise Ébullition Z !
+<var> utilise Exuviation Z !
+<var> sauvage utilise Exuviation Z !
+<var> ennemi utilise Exuviation Z !
+<var> Dominant utilise Exuviation Z !
+<var> utilise Vibra Soin Z !
+<var> sauvage utilise Vibra Soin Z !
+<var> ennemi utilise Vibra Soin Z !
+<var> Dominant utilise Vibra Soin Z !
+<var> utilise Châtiment Z !
+<var> sauvage utilise Châtiment Z !
+<var> ennemi utilise Châtiment Z !
+<var> Dominant utilise Châtiment Z !
+<var> utilise Chute Libre Z !
+<var> sauvage utilise Chute Libre Z !
+<var> ennemi utilise Chute Libre Z !
+<var> Dominant utilise Chute Libre Z !
+<var> utilise Chgt Vitesse Z !
+<var> sauvage utilise Chgt Vitesse Z !
+<var> ennemi utilise Chgt Vitesse Z !
+<var> Dominant utilise Chgt Vitesse Z !
+<var> utilise Projection Z !
+<var> sauvage utilise Projection Z !
+<var> ennemi utilise Projection Z !
+<var> Dominant utilise Projection Z !
+<var> utilise Calcination Z !
+<var> sauvage utilise Calcination Z !
+<var> ennemi utilise Calcination Z !
+<var> Dominant utilise Calcination Z !
+<var> utilise À la Queue Z !
+<var> sauvage utilise À la Queue Z !
+<var> ennemi utilise À la Queue Z !
+<var> Dominant utilise À la Queue Z !
+<var> utilise Acrobatie Z !
+<var> sauvage utilise Acrobatie Z !
+<var> ennemi utilise Acrobatie Z !
+<var> Dominant utilise Acrobatie Z !
+<var> utilise Copie Type Z !
+<var> sauvage utilise Copie Type Z !
+<var> ennemi utilise Copie Type Z !
+<var> Dominant utilise Copie Type Z !
+<var> utilise Vengeance Z !
+<var> sauvage utilise Vengeance Z !
+<var> ennemi utilise Vengeance Z !
+<var> Dominant utilise Vengeance Z !
+<var> utilise Tout ou Rien Z !
+<var> sauvage utilise Tout ou Rien Z !
+<var> ennemi utilise Tout ou Rien Z !
+<var> Dominant utilise Tout ou Rien Z !
+<var> utilise Passe-Cadeau Z !
+<var> sauvage utilise Passe-Cadeau Z !
+<var> ennemi utilise Passe-Cadeau Z !
+<var> Dominant utilise Passe-Cadeau Z !
+<var> utilise Feu d'Enfer Z !
+<var> sauvage utilise Feu d'Enfer Z !
+<var> ennemi utilise Feu d'Enfer Z !
+<var> Dominant utilise Feu d'Enfer Z !
+<var> utilise Aire d'Eau Z !
+<var> sauvage utilise Aire d'Eau Z !
+<var> ennemi utilise Aire d'Eau Z !
+<var> Dominant utilise Aire d'Eau Z !
+<var> utilise Aire de Feu Z !
+<var> sauvage utilise Aire de Feu Z !
+<var> ennemi utilise Aire de Feu Z !
+<var> Dominant utilise Aire de Feu Z !
+<var> utilise Aire d'Herbe Z !
+<var> sauvage utilise Aire d'Herbe Z !
+<var> ennemi utilise Aire d'Herbe Z !
+<var> Dominant utilise Aire d'Herbe Z !
+<var> utilise Change Éclair Z !
+<var> sauvage utilise Change Éclair Z !
+<var> ennemi utilise Change Éclair Z !
+<var> Dominant utilise Change Éclair Z !
+<var> utilise Survinsecte Z !
+<var> sauvage utilise Survinsecte Z !
+<var> ennemi utilise Survinsecte Z !
+<var> Dominant utilise Survinsecte Z !
+<var> utilise Piétisol Z !
+<var> sauvage utilise Piétisol Z !
+<var> ennemi utilise Piétisol Z !
+<var> Dominant utilise Piétisol Z !
+<var> utilise Souffle Glacé Z !
+<var> sauvage utilise Souffle Glacé Z !
+<var> ennemi utilise Souffle Glacé Z !
+<var> Dominant utilise Souffle Glacé Z !
+<var> utilise Draco-Queue Z !
+<var> sauvage utilise Draco-Queue Z !
+<var> ennemi utilise Draco-Queue Z !
+<var> Dominant utilise Draco-Queue Z !
+<var> utilise Rengorgement Z !
+<var> sauvage utilise Rengorgement Z !
+<var> ennemi utilise Rengorgement Z !
+<var> Dominant utilise Rengorgement Z !
+<var> utilise Toile Élek Z !
+<var> sauvage utilise Toile Élek Z !
+<var> ennemi utilise Toile Élek Z !
+<var> Dominant utilise Toile Élek Z !
+<var> utilise Éclair Fou Z !
+<var> sauvage utilise Éclair Fou Z !
+<var> ennemi utilise Éclair Fou Z !
+<var> Dominant utilise Éclair Fou Z !
+<var> utilise Tunnelier Z !
+<var> sauvage utilise Tunnelier Z !
+<var> ennemi utilise Tunnelier Z !
+<var> Dominant utilise Tunnelier Z !
+<var> utilise Double Baffe Z !
+<var> sauvage utilise Double Baffe Z !
+<var> ennemi utilise Double Baffe Z !
+<var> Dominant utilise Double Baffe Z !
+<var> utilise Crève-Cœur Z !
+<var> sauvage utilise Crève-Cœur Z !
+<var> ennemi utilise Crève-Cœur Z !
+<var> Dominant utilise Crève-Cœur Z !
+<var> utilise Encornebois Z !
+<var> sauvage utilise Encornebois Z !
+<var> ennemi utilise Encornebois Z !
+<var> Dominant utilise Encornebois Z !
+<var> utilise Lame Sainte Z !
+<var> sauvage utilise Lame Sainte Z !
+<var> ennemi utilise Lame Sainte Z !
+<var> Dominant utilise Lame Sainte Z !
+<var> utilise Coquilame Z !
+<var> sauvage utilise Coquilame Z !
+<var> ennemi utilise Coquilame Z !
+<var> Dominant utilise Coquilame Z !
+<var> utilise Tacle Feu Z !
+<var> sauvage utilise Tacle Feu Z !
+<var> ennemi utilise Tacle Feu Z !
+<var> Dominant utilise Tacle Feu Z !
+<var> utilise Phytomixeur Z !
+<var> sauvage utilise Phytomixeur Z !
+<var> ennemi utilise Phytomixeur Z !
+<var> Dominant utilise Phytomixeur Z !
+<var> utilise Bulldoboule Z !
+<var> sauvage utilise Bulldoboule Z !
+<var> ennemi utilise Bulldoboule Z !
+<var> Dominant utilise Bulldoboule Z !
+<var> utilise Cotogarde Z !
+<var> sauvage utilise Cotogarde Z !
+<var> ennemi utilise Cotogarde Z !
+<var> Dominant utilise Cotogarde Z !
+<var> utilise Explonuit Z !
+<var> sauvage utilise Explonuit Z !
+<var> ennemi utilise Explonuit Z !
+<var> Dominant utilise Explonuit Z !
+<var> utilise Frappe Psy Z !
+<var> sauvage utilise Frappe Psy Z !
+<var> ennemi utilise Frappe Psy Z !
+<var> Dominant utilise Frappe Psy Z !
+<var> utilise Plumo-Queue Z !
+<var> sauvage utilise Plumo-Queue Z !
+<var> ennemi utilise Plumo-Queue Z !
+<var> Dominant utilise Plumo-Queue Z !
+<var> utilise Vent Violent Z !
+<var> sauvage utilise Vent Violent Z !
+<var> ennemi utilise Vent Violent Z !
+<var> Dominant utilise Vent Violent Z !
+<var> utilise Peignée Z !
+<var> sauvage utilise Peignée Z !
+<var> ennemi utilise Peignée Z !
+<var> Dominant utilise Peignée Z !
+<var> utilise Lancécrou Z !
+<var> sauvage utilise Lancécrou Z !
+<var> ennemi utilise Lancécrou Z !
+<var> Dominant utilise Lancécrou Z !
+<var> utilise Incendie Z !
+<var> sauvage utilise Incendie Z !
+<var> ennemi utilise Incendie Z !
+<var> Dominant utilise Incendie Z !
+<var> utilise Techno-Buster Z !
+<var> sauvage utilise Techno-Buster Z !
+<var> ennemi utilise Techno-Buster Z !
+<var> Dominant utilise Techno-Buster Z !
+<var> utilise Chant Antique Z !
+<var> sauvage utilise Chant Antique Z !
+<var> ennemi utilise Chant Antique Z !
+<var> Dominant utilise Chant Antique Z !
+<var> utilise Lame Ointe Z !
+<var> sauvage utilise Lame Ointe Z !
+<var> ennemi utilise Lame Ointe Z !
+<var> Dominant utilise Lame Ointe Z !
+<var> utilise Ère Glaciaire Z !
+<var> sauvage utilise Ère Glaciaire Z !
+<var> ennemi utilise Ère Glaciaire Z !
+<var> Dominant utilise Ère Glaciaire Z !
+<var> utilise Charge Foudre Z !
+<var> sauvage utilise Charge Foudre Z !
+<var> ennemi utilise Charge Foudre Z !
+<var> Dominant utilise Charge Foudre Z !
+<var> utilise Flamme Bleue Z !
+<var> sauvage utilise Flamme Bleue Z !
+<var> ennemi utilise Flamme Bleue Z !
+<var> Dominant utilise Flamme Bleue Z !
+<var> utilise Danse du Feu Z !
+<var> sauvage utilise Danse du Feu Z !
+<var> ennemi utilise Danse du Feu Z !
+<var> Dominant utilise Danse du Feu Z !
+<var> utilise Éclair Gelé Z !
+<var> sauvage utilise Éclair Gelé Z !
+<var> ennemi utilise Éclair Gelé Z !
+<var> Dominant utilise Éclair Gelé Z !
+<var> utilise Feu Glacé Z !
+<var> sauvage utilise Feu Glacé Z !
+<var> ennemi utilise Feu Glacé Z !
+<var> Dominant utilise Feu Glacé Z !
+<var> utilise Aboiement Z !
+<var> sauvage utilise Aboiement Z !
+<var> ennemi utilise Aboiement Z !
+<var> Dominant utilise Aboiement Z !
+<var> utilise Chute Glace Z !
+<var> sauvage utilise Chute Glace Z !
+<var> ennemi utilise Chute Glace Z !
+<var> Dominant utilise Chute Glace Z !
+<var> utilise Coup Victoire Z !
+<var> sauvage utilise Coup Victoire Z !
+<var> ennemi utilise Coup Victoire Z !
+<var> Dominant utilise Coup Victoire Z !
+<var> utilise Flamme Croix Z !
+<var> sauvage utilise Flamme Croix Z !
+<var> ennemi utilise Flamme Croix Z !
+<var> Dominant utilise Flamme Croix Z !
+<var> utilise Éclair Croix Z !
+<var> sauvage utilise Éclair Croix Z !
+<var> ennemi utilise Éclair Croix Z !
+<var> Dominant utilise Éclair Croix Z !
+<var> utilise Flying Press Z !
+<var> sauvage utilise Flying Press Z !
+<var> ennemi utilise Flying Press Z !
+<var> Dominant utilise Flying Press Z !
+<var> utilise Tatamigaeshi Z !
+<var> sauvage utilise Tatamigaeshi Z !
+<var> ennemi utilise Tatamigaeshi Z !
+<var> Dominant utilise Tatamigaeshi Z !
+<var> utilise Éructation Z !
+<var> sauvage utilise Éructation Z !
+<var> ennemi utilise Éructation Z !
+<var> Dominant utilise Éructation Z !
+<var> utilise Fertilisation Z !
+<var> sauvage utilise Fertilisation Z !
+<var> ennemi utilise Fertilisation Z !
+<var> Dominant utilise Fertilisation Z !
+<var> utilise Toile Gluante Z !
+<var> sauvage utilise Toile Gluante Z !
+<var> ennemi utilise Toile Gluante Z !
+<var> Dominant utilise Toile Gluante Z !
+<var> utilise Dard Mortel Z !
+<var> sauvage utilise Dard Mortel Z !
+<var> ennemi utilise Dard Mortel Z !
+<var> Dominant utilise Dard Mortel Z !
+<var> utilise Hantise Z !
+<var> sauvage utilise Hantise Z !
+<var> ennemi utilise Hantise Z !
+<var> Dominant utilise Hantise Z !
+<var> utilise Halloween Z !
+<var> sauvage utilise Halloween Z !
+<var> ennemi utilise Halloween Z !
+<var> Dominant utilise Halloween Z !
+<var> utilise Râle Mâle Z !
+<var> sauvage utilise Râle Mâle Z !
+<var> ennemi utilise Râle Mâle Z !
+<var> Dominant utilise Râle Mâle Z !
+<var> utilise DélugePlasmique Z !
+<var> sauvage utilise DélugePlasmique Z !
+<var> ennemi utilise DélugePlasmique Z !
+<var> Dominant utilise DélugePlasmique Z !
+<var> utilise Parabocharge Z !
+<var> sauvage utilise Parabocharge Z !
+<var> ennemi utilise Parabocharge Z !
+<var> Dominant utilise Parabocharge Z !
+<var> utilise Maléfice Sylvain Z !
+<var> sauvage utilise Maléfice Sylvain Z !
+<var> ennemi utilise Maléfice Sylvain Z !
+<var> Dominant utilise Maléfice Sylvain Z !
+<var> utilise Tempête Florale Z !
+<var> sauvage utilise Tempête Florale Z !
+<var> ennemi utilise Tempête Florale Z !
+<var> Dominant utilise Tempête Florale Z !
+<var> utilise Lyophilisation Z !
+<var> sauvage utilise Lyophilisation Z !
+<var> ennemi utilise Lyophilisation Z !
+<var> Dominant utilise Lyophilisation Z !
+<var> utilise Voix Enjôleuse Z !
+<var> sauvage utilise Voix Enjôleuse Z !
+<var> ennemi utilise Voix Enjôleuse Z !
+<var> Dominant utilise Voix Enjôleuse Z !
+<var> utilise Dernier Mot Z !
+<var> sauvage utilise Dernier Mot Z !
+<var> ennemi utilise Dernier Mot Z !
+<var> Dominant utilise Dernier Mot Z !
+<var> utilise Renversement Z !
+<var> sauvage utilise Renversement Z !
+<var> ennemi utilise Renversement Z !
+<var> Dominant utilise Renversement Z !
+<var> utilise Vampibaiser Z !
+<var> sauvage utilise Vampibaiser Z !
+<var> ennemi utilise Vampibaiser Z !
+<var> Dominant utilise Vampibaiser Z !
+<var> utilise Vigilance Z !
+<var> sauvage utilise Vigilance Z !
+<var> ennemi utilise Vigilance Z !
+<var> Dominant utilise Vigilance Z !
+<var> utilise Garde Florale Z !
+<var> sauvage utilise Garde Florale Z !
+<var> ennemi utilise Garde Florale Z !
+<var> Dominant utilise Garde Florale Z !
+<var> utilise Champ Herbu Z !
+<var> sauvage utilise Champ Herbu Z !
+<var> ennemi utilise Champ Herbu Z !
+<var> Dominant utilise Champ Herbu Z !
+<var> utilise Champ Brumeux Z !
+<var> sauvage utilise Champ Brumeux Z !
+<var> ennemi utilise Champ Brumeux Z !
+<var> Dominant utilise Champ Brumeux Z !
+<var> utilise Électrisation Z !
+<var> sauvage utilise Électrisation Z !
+<var> ennemi utilise Électrisation Z !
+<var> Dominant utilise Électrisation Z !
+<var> utilise Câlinerie Z !
+<var> sauvage utilise Câlinerie Z !
+<var> ennemi utilise Câlinerie Z !
+<var> Dominant utilise Câlinerie Z !
+<var> utilise Vent Féérique Z !
+<var> sauvage utilise Vent Féérique Z !
+<var> ennemi utilise Vent Féérique Z !
+<var> Dominant utilise Vent Féérique Z !
+<var> utilise Pouvoir Lunaire Z !
+<var> sauvage utilise Pouvoir Lunaire Z !
+<var> ennemi utilise Pouvoir Lunaire Z !
+<var> Dominant utilise Pouvoir Lunaire Z !
+<var> utilise Bang Sonique Z !
+<var> sauvage utilise Bang Sonique Z !
+<var> ennemi utilise Bang Sonique Z !
+<var> Dominant utilise Bang Sonique Z !
+<var> utilise Verrou Enchanté Z !
+<var> sauvage utilise Verrou Enchanté Z !
+<var> ennemi utilise Verrou Enchanté Z !
+<var> Dominant utilise Verrou Enchanté Z !
+<var> utilise Bouclier Royal Z !
+<var> sauvage utilise Bouclier Royal Z !
+<var> ennemi utilise Bouclier Royal Z !
+<var> Dominant utilise Bouclier Royal Z !
+<var> utilise Camaraderie Z !
+<var> sauvage utilise Camaraderie Z !
+<var> ennemi utilise Camaraderie Z !
+<var> Dominant utilise Camaraderie Z !
+<var> utilise Confidence Z !
+<var> sauvage utilise Confidence Z !
+<var> ennemi utilise Confidence Z !
+<var> Dominant utilise Confidence Z !
+<var> utilise Orage Adamantin Z !
+<var> sauvage utilise Orage Adamantin Z !
+<var> ennemi utilise Orage Adamantin Z !
+<var> Dominant utilise Orage Adamantin Z !
+<var> utilise Jet de Vapeur Z !
+<var> sauvage utilise Jet de Vapeur Z !
+<var> ennemi utilise Jet de Vapeur Z !
+<var> Dominant utilise Jet de Vapeur Z !
+<var> utilise TrouDimensionnel Z !
+<var> sauvage utilise TrouDimensionnel Z !
+<var> ennemi utilise TrouDimensionnel Z !
+<var> Dominant utilise TrouDimensionnel Z !
+<var> utilise Sheauriken Z !
+<var> sauvage utilise Sheauriken Z !
+<var> ennemi utilise Sheauriken Z !
+<var> Dominant utilise Sheauriken Z !
+<var> utilise Feu Ensorcelé Z !
+<var> sauvage utilise Feu Ensorcelé Z !
+<var> ennemi utilise Feu Ensorcelé Z !
+<var> Dominant utilise Feu Ensorcelé Z !
+<var> utilise Pico-Défense Z !
+<var> sauvage utilise Pico-Défense Z !
+<var> ennemi utilise Pico-Défense Z !
+<var> Dominant utilise Pico-Défense Z !
+<var> utilise Brume Capiteuse Z !
+<var> sauvage utilise Brume Capiteuse Z !
+<var> ennemi utilise Brume Capiteuse Z !
+<var> Dominant utilise Brume Capiteuse Z !
+<var> utilise Ondes Étranges Z !
+<var> sauvage utilise Ondes Étranges Z !
+<var> ennemi utilise Ondes Étranges Z !
+<var> Dominant utilise Ondes Étranges Z !
+<var> utilise Piège de Venin Z !
+<var> sauvage utilise Piège de Venin Z !
+<var> ennemi utilise Piège de Venin Z !
+<var> Dominant utilise Piège de Venin Z !
+<var> utilise Nuée de Poudre Z !
+<var> sauvage utilise Nuée de Poudre Z !
+<var> ennemi utilise Nuée de Poudre Z !
+<var> Dominant utilise Nuée de Poudre Z !
+<var> utilise Géo-Contrôle Z !
+<var> sauvage utilise Géo-Contrôle Z !
+<var> ennemi utilise Géo-Contrôle Z !
+<var> Dominant utilise Géo-Contrôle Z !
+<var> utilise Magné-Contrôle Z !
+<var> sauvage utilise Magné-Contrôle Z !
+<var> ennemi utilise Magné-Contrôle Z !
+<var> Dominant utilise Magné-Contrôle Z !
+<var> utilise Étrennes Z !
+<var> sauvage utilise Étrennes Z !
+<var> ennemi utilise Étrennes Z !
+<var> Dominant utilise Étrennes Z !
+<var> utilise Champ Électrifié Z !
+<var> sauvage utilise Champ Électrifié Z !
+<var> ennemi utilise Champ Électrifié Z !
+<var> Dominant utilise Champ Électrifié Z !
+<var> utilise Éclat Magique Z !
+<var> sauvage utilise Éclat Magique Z !
+<var> ennemi utilise Éclat Magique Z !
+<var> Dominant utilise Éclat Magique Z !
+<var> utilise Célébration Z !
+<var> sauvage utilise Célébration Z !
+<var> ennemi utilise Célébration Z !
+<var> Dominant utilise Célébration Z !
+<var> utilise Mains Jointes Z !
+<var> sauvage utilise Mains Jointes Z !
+<var> ennemi utilise Mains Jointes Z !
+<var> Dominant utilise Mains Jointes Z !
+<var> utilise Regard Touchant Z !
+<var> sauvage utilise Regard Touchant Z !
+<var> ennemi utilise Regard Touchant Z !
+<var> Dominant utilise Regard Touchant Z !
+<var> utilise Frotte-Frimousse Z !
+<var> sauvage utilise Frotte-Frimousse Z !
+<var> ennemi utilise Frotte-Frimousse Z !
+<var> Dominant utilise Frotte-Frimousse Z !
+<var> utilise Retenue Z !
+<var> sauvage utilise Retenue Z !
+<var> ennemi utilise Retenue Z !
+<var> Dominant utilise Retenue Z !
+<var> utilise Harcèlement Z !
+<var> sauvage utilise Harcèlement Z !
+<var> ennemi utilise Harcèlement Z !
+<var> Dominant utilise Harcèlement Z !
+<var> utilise Poing Boost Z !
+<var> sauvage utilise Poing Boost Z !
+<var> ennemi utilise Poing Boost Z !
+<var> Dominant utilise Poing Boost Z !
+<var> utilise Mort-Ailes Z !
+<var> sauvage utilise Mort-Ailes Z !
+<var> ennemi utilise Mort-Ailes Z !
+<var> Dominant utilise Mort-Ailes Z !
+<var> utilise Myria-Flèches Z !
+<var> sauvage utilise Myria-Flèches Z !
+<var> ennemi utilise Myria-Flèches Z !
+<var> Dominant utilise Myria-Flèches Z !
+<var> utilise Myria-Vagues Z !
+<var> sauvage utilise Myria-Vagues Z !
+<var> ennemi utilise Myria-Vagues Z !
+<var> Dominant utilise Myria-Vagues Z !
+<var> utilise Force Chtonienne Z !
+<var> sauvage utilise Force Chtonienne Z !
+<var> ennemi utilise Force Chtonienne Z !
+<var> Dominant utilise Force Chtonienne Z !
+<var> utilise Lumière du Néant Z !
+<var> sauvage utilise Lumière du Néant Z !
+<var> ennemi utilise Lumière du Néant Z !
+<var> Dominant utilise Lumière du Néant Z !
+<var> utilise Onde Originelle Z !
+<var> sauvage utilise Onde Originelle Z !
+<var> ennemi utilise Onde Originelle Z !
+<var> Dominant utilise Onde Originelle Z !
+<var> utilise Lame Pangéenne Z !
+<var> sauvage utilise Lame Pangéenne Z !
+<var> ennemi utilise Lame Pangéenne Z !
+<var> Dominant utilise Lame Pangéenne Z !
+<var> utilise Draco Ascension Z !
+<var> sauvage utilise Draco Ascension Z !
+<var> ennemi utilise Draco Ascension Z !
+<var> Dominant utilise Draco Ascension Z !
+<var> utilise Furie Dimension Z !
+<var> sauvage utilise Furie Dimension Z !
+<var> ennemi utilise Furie Dimension Z !
+<var> Dominant utilise Furie Dimension Z !
+<var> utilise Turbo-Charge Bulldozer !
+<var> sauvage utilise Turbo-Charge Bulldozer !
+<var> ennemi utilise Turbo-Charge Bulldozer !
+<var> Dominant utilise Turbo-Charge Bulldozer !
+<var> utilise Turbo-Charge Bulldozer !
+<var> sauvage utilise Turbo-Charge Bulldozer !
+<var> ennemi utilise Turbo-Charge Bulldozer !
+<var> Dominant utilise Turbo-Charge Bulldozer !
+<var> utilise Combo Hyper-Furie !
+<var> sauvage utilise Combo Hyper-Furie !
+<var> ennemi utilise Combo Hyper-Furie !
+<var> Dominant utilise Combo Hyper-Furie !
+<var> utilise Combo Hyper-Furie !
+<var> sauvage utilise Combo Hyper-Furie !
+<var> ennemi utilise Combo Hyper-Furie !
+<var> Dominant utilise Combo Hyper-Furie !
+<var> utilise Piqué Supersonique !
+<var> sauvage utilise Piqué Supersonique !
+<var> ennemi utilise Piqué Supersonique !
+<var> Dominant utilise Piqué Supersonique !
+<var> utilise Piqué Supersonique !
+<var> sauvage utilise Piqué Supersonique !
+<var> ennemi utilise Piqué Supersonique !
+<var> Dominant utilise Piqué Supersonique !
+<var> utilise Déluge Causti-Toxique !
+<var> sauvage utilise Déluge Causti-Toxique !
+<var> ennemi utilise Déluge Causti-Toxique !
+<var> Dominant utilise Déluge Causti-Toxique !
+<var> utilise Déluge Causti-Toxique !
+<var> sauvage utilise Déluge Causti-Toxique !
+<var> ennemi utilise Déluge Causti-Toxique !
+<var> Dominant utilise Déluge Causti-Toxique !
+<var> utilise Éruption Géo-Sismique !
+<var> sauvage utilise Éruption Géo-Sismique !
+<var> ennemi utilise Éruption Géo-Sismique !
+<var> Dominant utilise Éruption Géo-Sismique !
+<var> utilise Éruption Géo-Sismique !
+<var> sauvage utilise Éruption Géo-Sismique !
+<var> ennemi utilise Éruption Géo-Sismique !
+<var> Dominant utilise Éruption Géo-Sismique !
+<var> utilise Apocalypse Gigalithique !
+<var> sauvage utilise Apocalypse Gigalithique !
+<var> ennemi utilise Apocalypse Gigalithique !
+<var> Dominant utilise Apocalypse Gigalithique !
+<var> utilise Apocalypse Gigalithique !
+<var> sauvage utilise Apocalypse Gigalithique !
+<var> ennemi utilise Apocalypse Gigalithique !
+<var> Dominant utilise Apocalypse Gigalithique !
+<var> utilise Cocon Fatal !
+<var> sauvage utilise Cocon Fatal !
+<var> ennemi utilise Cocon Fatal !
+<var> Dominant utilise Cocon Fatal !
+<var> utilise Cocon Fatal !
+<var> sauvage utilise Cocon Fatal !
+<var> ennemi utilise Cocon Fatal !
+<var> Dominant utilise Cocon Fatal !
+<var> utilise Appel des Ombres Éternelles !
+<var> sauvage utilise Appel des Ombres Éternelles !
+<var> ennemi utilise Appel des Ombres Éternelles !
+<var> Dominant utilise Appel des Ombres Éternelles !
+<var> utilise Appel des Ombres Éternelles !
+<var> sauvage utilise Appel des Ombres Éternelles !
+<var> ennemi utilise Appel des Ombres Éternelles !
+<var> Dominant utilise Appel des Ombres Éternelles !
+<var> utilise Vrille Maximum !
+<var> sauvage utilise Vrille Maximum !
+<var> ennemi utilise Vrille Maximum !
+<var> Dominant utilise Vrille Maximum !
+<var> utilise Vrille Maximum !
+<var> sauvage utilise Vrille Maximum !
+<var> ennemi utilise Vrille Maximum !
+<var> Dominant utilise Vrille Maximum !
+<var> utilise Pyro-Explosion Cataclysmique !
+<var> sauvage utilise Pyro-Explosion Cataclysmique !
+<var> ennemi utilise Pyro-Explosion Cataclysmique !
+<var> Dominant utilise Pyro-Explosion Cataclysmique !
+<var> utilise Pyro-Explosion Cataclysmique !
+<var> sauvage utilise Pyro-Explosion Cataclysmique !
+<var> ennemi utilise Pyro-Explosion Cataclysmique !
+<var> Dominant utilise Pyro-Explosion Cataclysmique !
+<var> utilise Super Tourbillon Abyssal !
+<var> sauvage utilise Super Tourbillon Abyssal !
+<var> ennemi utilise Super Tourbillon Abyssal !
+<var> Dominant utilise Super Tourbillon Abyssal !
+<var> utilise Super Tourbillon Abyssal !
+<var> sauvage utilise Super Tourbillon Abyssal !
+<var> ennemi utilise Super Tourbillon Abyssal !
+<var> Dominant utilise Super Tourbillon Abyssal !
+<var> utilise Pétalexplosion Éblouissante !
+<var> sauvage utilise Pétalexplosion Éblouissante !
+<var> ennemi utilise Pétalexplosion Éblouissante !
+<var> Dominant utilise Pétalexplosion Éblouissante !
+<var> utilise Pétalexplosion Éblouissante !
+<var> sauvage utilise Pétalexplosion Éblouissante !
+<var> ennemi utilise Pétalexplosion Éblouissante !
+<var> Dominant utilise Pétalexplosion Éblouissante !
+<var> utilise Fulguro-Lance Gigavolt !
+<var> sauvage utilise Fulguro-Lance Gigavolt !
+<var> ennemi utilise Fulguro-Lance Gigavolt !
+<var> Dominant utilise Fulguro-Lance Gigavolt !
+<var> utilise Fulguro-Lance Gigavolt !
+<var> sauvage utilise Fulguro-Lance Gigavolt !
+<var> ennemi utilise Fulguro-Lance Gigavolt !
+<var> Dominant utilise Fulguro-Lance Gigavolt !
+<var> utilise Psycho-Pulvérisation EX !
+<var> sauvage utilise Psycho-Pulvérisation EX !
+<var> ennemi utilise Psycho-Pulvérisation EX !
+<var> Dominant utilise Psycho-Pulvérisation EX !
+<var> utilise Psycho-Pulvérisation EX !
+<var> sauvage utilise Psycho-Pulvérisation EX !
+<var> ennemi utilise Psycho-Pulvérisation EX !
+<var> Dominant utilise Psycho-Pulvérisation EX !
+<var> utilise Laser Cryogénique !
+<var> sauvage utilise Laser Cryogénique !
+<var> ennemi utilise Laser Cryogénique !
+<var> Dominant utilise Laser Cryogénique !
+<var> utilise Laser Cryogénique !
+<var> sauvage utilise Laser Cryogénique !
+<var> ennemi utilise Laser Cryogénique !
+<var> Dominant utilise Laser Cryogénique !
+<var> utilise Chaos Draconique !
+<var> sauvage utilise Chaos Draconique !
+<var> ennemi utilise Chaos Draconique !
+<var> Dominant utilise Chaos Draconique !
+<var> utilise Chaos Draconique !
+<var> sauvage utilise Chaos Draconique !
+<var> ennemi utilise Chaos Draconique !
+<var> Dominant utilise Chaos Draconique !
+<var> utilise Trou Noir des Ombres !
+<var> sauvage utilise Trou Noir des Ombres !
+<var> ennemi utilise Trou Noir des Ombres !
+<var> Dominant utilise Trou Noir des Ombres !
+<var> utilise Trou Noir des Ombres !
+<var> sauvage utilise Trou Noir des Ombres !
+<var> ennemi utilise Trou Noir des Ombres !
+<var> Dominant utilise Trou Noir des Ombres !
+<var> utilise Impact Choupinova !
+<var> sauvage utilise Impact Choupinova !
+<var> ennemi utilise Impact Choupinova !
+<var> Dominant utilise Impact Choupinova !
+<var> utilise Impact Choupinova !
+<var> sauvage utilise Impact Choupinova !
+<var> ennemi utilise Impact Choupinova !
+<var> Dominant utilise Impact Choupinova !
+<var> utilise Pikachute Foudroyante !
+<var> sauvage utilise Pikachute Foudroyante !
+<var> ennemi utilise Pikachute Foudroyante !
+<var> Dominant utilise Pikachute Foudroyante !
+<var> utilise Amass'Sable Z !
+<var> sauvage utilise Amass'Sable Z !
+<var> ennemi utilise Amass'Sable Z !
+<var> Dominant utilise Amass'Sable Z !
+<var> utilise Escarmouche Z !
+<var> sauvage utilise Escarmouche Z !
+<var> ennemi utilise Escarmouche Z !
+<var> Dominant utilise Escarmouche Z !
+<var> utilise Blockhaus Z !
+<var> sauvage utilise Blockhaus Z !
+<var> ennemi utilise Blockhaus Z !
+<var> Dominant utilise Blockhaus Z !
+<var> utilise Tisse Ombre Z !
+<var> sauvage utilise Tisse Ombre Z !
+<var> ennemi utilise Tisse Ombre Z !
+<var> Dominant utilise Tisse Ombre Z !
+<var> utilise Dark Lariat Z !
+<var> sauvage utilise Dark Lariat Z !
+<var> ennemi utilise Dark Lariat Z !
+<var> Dominant utilise Dark Lariat Z !
+<var> utilise Aria de l'Écume Z !
+<var> sauvage utilise Aria de l'Écume Z !
+<var> ennemi utilise Aria de l'Écume Z !
+<var> Dominant utilise Aria de l'Écume Z !
+<var> utilise Marteau de Glace Z !
+<var> sauvage utilise Marteau de Glace Z !
+<var> ennemi utilise Marteau de Glace Z !
+<var> Dominant utilise Marteau de Glace Z !
+<var> utilise Soin Floral Z !
+<var> sauvage utilise Soin Floral Z !
+<var> ennemi utilise Soin Floral Z !
+<var> Dominant utilise Soin Floral Z !
+<var> utilise Cavalerie Lourde Z !
+<var> sauvage utilise Cavalerie Lourde Z !
+<var> ennemi utilise Cavalerie Lourde Z !
+<var> Dominant utilise Cavalerie Lourde Z !
+<var> utilise Vol-Force Z !
+<var> sauvage utilise Vol-Force Z !
+<var> ennemi utilise Vol-Force Z !
+<var> Dominant utilise Vol-Force Z !
+<var> utilise Lame Solaire Z !
+<var> sauvage utilise Lame Solaire Z !
+<var> ennemi utilise Lame Solaire Z !
+<var> Dominant utilise Lame Solaire Z !
+<var> utilise Feuillage Z !
+<var> sauvage utilise Feuillage Z !
+<var> ennemi utilise Feuillage Z !
+<var> Dominant utilise Feuillage Z !
+<var> utilise Projecteur Z !
+<var> sauvage utilise Projecteur Z !
+<var> ennemi utilise Projecteur Z !
+<var> Dominant utilise Projecteur Z !
+<var> utilise Fil Toxique Z !
+<var> sauvage utilise Fil Toxique Z !
+<var> ennemi utilise Fil Toxique Z !
+<var> Dominant utilise Fil Toxique Z !
+<var> utilise Affilage Z !
+<var> sauvage utilise Affilage Z !
+<var> ennemi utilise Affilage Z !
+<var> Dominant utilise Affilage Z !
+<var> utilise Engrenage Z !
+<var> sauvage utilise Engrenage Z !
+<var> ennemi utilise Engrenage Z !
+<var> Dominant utilise Engrenage Z !
+<var> utilise Exécu-Son Z !
+<var> sauvage utilise Exécu-Son Z !
+<var> ennemi utilise Exécu-Son Z !
+<var> Dominant utilise Exécu-Son Z !
+<var> utilise Boule Pollen Z !
+<var> sauvage utilise Boule Pollen Z !
+<var> ennemi utilise Boule Pollen Z !
+<var> Dominant utilise Boule Pollen Z !
+<var> utilise Ancrage Z !
+<var> sauvage utilise Ancrage Z !
+<var> ennemi utilise Ancrage Z !
+<var> Dominant utilise Ancrage Z !
+<var> utilise Champ Psychique Z !
+<var> sauvage utilise Champ Psychique Z !
+<var> ennemi utilise Champ Psychique Z !
+<var> Dominant utilise Champ Psychique Z !
+<var> utilise Furie-Bond Z !
+<var> sauvage utilise Furie-Bond Z !
+<var> ennemi utilise Furie-Bond Z !
+<var> Dominant utilise Furie-Bond Z !
+<var> utilise Fouet de Feu Z !
+<var> sauvage utilise Fouet de Feu Z !
+<var> ennemi utilise Fouet de Feu Z !
+<var> Dominant utilise Fouet de Feu Z !
+<var> utilise Arrogance Z !
+<var> sauvage utilise Arrogance Z !
+<var> ennemi utilise Arrogance Z !
+<var> Dominant utilise Arrogance Z !
+<var> utilise Flamme Ultime Z !
+<var> sauvage utilise Flamme Ultime Z !
+<var> ennemi utilise Flamme Ultime Z !
+<var> Dominant utilise Flamme Ultime Z !
+<var> utilise Permuvitesse Z !
+<var> sauvage utilise Permuvitesse Z !
+<var> ennemi utilise Permuvitesse Z !
+<var> Dominant utilise Permuvitesse Z !
+<var> utilise Estocorne Z !
+<var> sauvage utilise Estocorne Z !
+<var> ennemi utilise Estocorne Z !
+<var> Dominant utilise Estocorne Z !
+<var> utilise Purification Z !
+<var> sauvage utilise Purification Z !
+<var> ennemi utilise Purification Z !
+<var> Dominant utilise Purification Z !
+<var> utilise Danse Éveil Z !
+<var> sauvage utilise Danse Éveil Z !
+<var> ennemi utilise Danse Éveil Z !
+<var> Dominant utilise Danse Éveil Z !
+<var> utilise Sanction Suprême Z !
+<var> sauvage utilise Sanction Suprême Z !
+<var> ennemi utilise Sanction Suprême Z !
+<var> Dominant utilise Sanction Suprême Z !
+<var> utilise Botte Sucrette Z !
+<var> sauvage utilise Botte Sucrette Z !
+<var> ennemi utilise Botte Sucrette Z !
+<var> Dominant utilise Botte Sucrette Z !
+<var> utilise Sommation Z !
+<var> sauvage utilise Sommation Z !
+<var> ennemi utilise Sommation Z !
+<var> Dominant utilise Sommation Z !
+<var> utilise Bec-Canon Z !
+<var> sauvage utilise Bec-Canon Z !
+<var> ennemi utilise Bec-Canon Z !
+<var> Dominant utilise Bec-Canon Z !
+<var> utilise Vibrécaille Z !
+<var> sauvage utilise Vibrécaille Z !
+<var> ennemi utilise Vibrécaille Z !
+<var> Dominant utilise Vibrécaille Z !
+<var> utilise Draco-Marteau Z !
+<var> sauvage utilise Draco-Marteau Z !
+<var> ennemi utilise Draco-Marteau Z !
+<var> Dominant utilise Draco-Marteau Z !
+<var> utilise Centrifugifle Z !
+<var> sauvage utilise Centrifugifle Z !
+<var> ennemi utilise Centrifugifle Z !
+<var> Dominant utilise Centrifugifle Z !
+<var> utilise Voile Aurore Z !
+<var> sauvage utilise Voile Aurore Z !
+<var> ennemi utilise Voile Aurore Z !
+<var> Dominant utilise Voile Aurore Z !
+<var> utilise Fureur des Plumes Spectrales !
+<var> sauvage utilise Fureur des Plumes Spectrales !
+<var> ennemi utilise Fureur des Plumes Spectrales !
+<var> Dominant utilise Fureur des Plumes Spectrales !
+<var> utilise Dark Body Press !
+<var> sauvage utilise Dark Body Press !
+<var> ennemi utilise Dark Body Press !
+<var> Dominant utilise Dark Body Press !
+<var> utilise Symphonie des Ondines !
+<var> sauvage utilise Symphonie des Ondines !
+<var> ennemi utilise Symphonie des Ondines !
+<var> Dominant utilise Symphonie des Ondines !
+<var> utilise Colère du Gardien d'Alola !
+<var> sauvage utilise Colère du Gardien d'Alola !
+<var> ennemi utilise Colère du Gardien d'Alola !
+<var> Dominant utilise Colère du Gardien d'Alola !
+<var> utilise Fauche-Âme des Sept Étoiles !
+<var> sauvage utilise Fauche-Âme des Sept Étoiles !
+<var> ennemi utilise Fauche-Âme des Sept Étoiles !
+<var> Dominant utilise Fauche-Âme des Sept Étoiles !
+<var> utilise Électro-Surf Survolté !
+<var> sauvage utilise Électro-Surf Survolté !
+<var> ennemi utilise Électro-Surf Survolté !
+<var> Dominant utilise Électro-Surf Survolté !
+<var> utilise Gare au Ronflex !
+<var> sauvage utilise Gare au Ronflex !
+<var> ennemi utilise Gare au Ronflex !
+<var> Dominant utilise Gare au Ronflex !
+<var> utilise Neuf pour Un !
+<var> sauvage utilise Neuf pour Un !
+<var> ennemi utilise Neuf pour Un !
+<var> Dominant utilise Neuf pour Un !
+<var> utilise Supernova Originelle !
+<var> sauvage utilise Supernova Originelle !
+<var> ennemi utilise Supernova Originelle !
+<var> Dominant utilise Supernova Originelle !
+<var> utilise Carapiège Z !
+<var> sauvage utilise Carapiège Z !
+<var> ennemi utilise Carapiège Z !
+<var> Dominant utilise Carapiège Z !
+<var> utilise Canon Floral Z !
+<var> sauvage utilise Canon Floral Z !
+<var> ennemi utilise Canon Floral Z !
+<var> Dominant utilise Canon Floral Z !
+<var> utilise Psycho-Croc Z !
+<var> sauvage utilise Psycho-Croc Z !
+<var> ennemi utilise Psycho-Croc Z !
+<var> Dominant utilise Psycho-Croc Z !
+<var> utilise Trépignement Z !
+<var> sauvage utilise Trépignement Z !
+<var> ennemi utilise Trépignement Z !
+<var> Dominant utilise Trépignement Z !
+<var> utilise Os'Ombre Z !
+<var> sauvage utilise Os'Ombre Z !
+<var> ennemi utilise Os'Ombre Z !
+<var> Dominant utilise Os'Ombre Z !
+<var> utilise Vif Roc Z !
+<var> sauvage utilise Vif Roc Z !
+<var> ennemi utilise Vif Roc Z !
+<var> Dominant utilise Vif Roc Z !
+<var> utilise Aqua-Brèche Z !
+<var> sauvage utilise Aqua-Brèche Z !
+<var> ennemi utilise Aqua-Brèche Z !
+<var> Dominant utilise Aqua-Brèche Z !
+<var> utilise Laser Prisme Z !
+<var> sauvage utilise Laser Prisme Z !
+<var> ennemi utilise Laser Prisme Z !
+<var> Dominant utilise Laser Prisme Z !
+<var> utilise Clepto-Mânes Z !
+<var> sauvage utilise Clepto-Mânes Z !
+<var> ennemi utilise Clepto-Mânes Z !
+<var> Dominant utilise Clepto-Mânes Z !
+<var> utilise Choc Météore Z !
+<var> sauvage utilise Choc Météore Z !
+<var> ennemi utilise Choc Météore Z !
+<var> Dominant utilise Choc Météore Z !
+<var> utilise Rayon Spectral Z !
+<var> sauvage utilise Rayon Spectral Z !
+<var> ennemi utilise Rayon Spectral Z !
+<var> Dominant utilise Rayon Spectral Z !
+<var> utilise Larme à l'Œil Z !
+<var> sauvage utilise Larme à l'Œil Z !
+<var> ennemi utilise Larme à l'Œil Z !
+<var> Dominant utilise Larme à l'Œil Z !
+<var> utilise Électrikipik Z !
+<var> sauvage utilise Électrikipik Z !
+<var> ennemi utilise Électrikipik Z !
+<var> Dominant utilise Électrikipik Z !
+<var> utilise Ire de la Nature Z !
+<var> sauvage utilise Ire de la Nature Z !
+<var> ennemi utilise Ire de la Nature Z !
+<var> Dominant utilise Ire de la Nature Z !
+<var> utilise Coup Varia-Type Z !
+<var> sauvage utilise Coup Varia-Type Z !
+<var> ennemi utilise Coup Varia-Type Z !
+<var> Dominant utilise Coup Varia-Type Z !
+<var> utilise Giga-Tonnerre !
+<var> sauvage utilise Giga-Tonnerre !
+<var> ennemi utilise Giga-Tonnerre !
+<var> Dominant utilise Giga-Tonnerre !
