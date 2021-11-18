@@ -1,0 +1,606 @@
+Pokémon: Let's Go, Pikachu!
+Pokémon: Let's Go, Eevee!
+DEVELOPMENT STAFF
+DIRECTOR
+Junichi Masuda
+FIELD PROGRAMMING
+SECTION DIRECTOR
+Yuya Ikeuchi
+SYSTEM PROGRAMMING
+SECTION DIRECTOR
+Toru Nagihashi
+GRAPHICS
+SECTION DIRECTOR
+Takao Unno
+PLANNING
+SECTION DIRECTOR
+Masafumi Saito
+FIELD PROGRAMMING
+LEAD: Yuya Ikeuchi
+Naoki Sugawara
+Shinichi Kawazoe
+Nozomu Saito
+Takashi Arai
+EVENT PROGRAMMING
+LEAD: Miyuki Iwasawa
+Takumi Harada
+Takuya Iguchi
+Tatsuji Miyashita
+SYSTEM PROGRAMMING
+LEAD: Masayuki Onoue
+Koji Kawada
+Masanori Kanamaru
+Toshikatsu Tozawa
+Shimon Sakamoto
+CATCH PROGRAMMING
+Tomoya Hasegawa
+BATTLE PROGRAMMING
+Nobuhiko Ariizumi
+Toshihiro Obata
+COMMUNICATION FEATURES / UI PROGRAMMING
+LEAD: Toru Nagihashi
+Shin Kosaka
+Kei Fujita
+Katsumi Ohno
+Hiroyuki Nakamura
+Yuya Fukushima
+Manabu Ishioka
+LIBRARY TOOL PROGRAMMING
+PRODUCT MANAGER: Sosuke Tamada
+LEAD: Ryota Takeuchi
+Makoto Takebe
+Naoya Uematsu
+Yam Nathanael
+Syo Araki
+Morihiko Kiryu
+Masanori Kanamaru
+Masateru Ishiguro
+Shinya Goto
+TECHNICAL ART
+LEAD: Kenta Kawano
+Yuki Yamamoto
+Tomoya Kanehira
+DESIGN ART
+LEAD: Takao Unno
+Tomomi Kaneko
+Misaki Hashimoto
+HyunJung Lee
+Haruka Nakamura
+3D MAP GRAPHICS
+LEAD: Kensaku Nabana
+Haruka Nakamura
+Hayato Endo
+Shigeaki Ishibashi
+Naoki Goda
+Jinyoung Sung
+Mayumi Shigeno
+Sawako Okada
+Miho Ujiie
+Shinya Nirasawa
+Ryotaro Ohto
+Marina Takai
+Maiko Fujiwara
+Haruka Tochigi
+Hiroki Fuchino
+　
+WINDS CO., LTD.
+　
+DIGITAL WORKS Entertainment Inc.
+CHARACTER MODELING
+LEAD: Sakiko Maeda
+Hitomi Imaizumi
+Yutan Cheng
+Hideki Iwata
+Takuya Shimazoe
+Mai Hasegawa
+Shinji Tamano
+Yoshihiro Ohtsuka
+Daisuke Miyagawa
+Hiroyuki Fukumoto
+Yugo Hayashi
+Tomoyuki Isonuma
+Makoto Kobayashi
+Hiromitsu Mori
+Shigeki Ao
+Masanari Kubo
+Chua Pei San
+Liew Hoi Leong
+Suresh Kumar
+Mousa Ishak
+Shivesh Sharma
+Peter Vincent Adviento
+Raveen Rajadorai
+Pranaw Gorkhali Pradhan
+Prakhar Bhatnagar
+Dale Stromberg
+Ng Hui Rong
+Muhammad Azraie Bin Ahzan
+Satoru Goto
+Ayaka Yamazaki
+Miyoshi Tanabe
+Taizo Hiramoto
+　
+Polygon Pictures Inc.
+Silver Ant PPI Sdn. Bhd.
+　
+RAYLINE STUDIO Inc.
+MOTION DESIGN
+LEAD: Natsumi Inoue
+Mariko Yoshida
+Aoi Inaba
+Mai Takano
+Haruka Umemura
+Bonsoo Koo
+Kazuya Fujinami
+Yasuko Motoki
+Akihiro Iwata
+Eri Yamamoto
+Erika Yokoe
+Yuji Unuma
+Jiro Hanzawa
+　
+CREEK & RIVER Co., Ltd.
+MOVIES / SPECIAL EFFECTS
+LEAD: Kojiro Matsuyama
+Toshimitsu Arai
+Yosuke Uematsu
+Hitomi Ogawa
+UI GRAPHIC DESIGN
+LEAD: Erika Kuga
+Mitsuhiro Ariga
+Marie Honda
+Momoka Takasu
+MOVIE GRAPHIC DESIGN
+Mayuka Yoshikawa
+POKÉMON 3D GRAPHIC DESIGN
+HyunJung Lee
+Toshifumi Kano
+Asuka Yagi
+Jiefeng Ryou
+Masaki Higashimoto
+Ryan Flynn
+　
+SMILEAXE Co.,Ltd.
+　
+PlayLinks Inc.
+SCENARIO
+Hitomi Sato
+Ryota Muranaka
+STORY PLANNING
+LEAD: Katsunori Suginaka
+Yuya Watanabe
+Ryota Muranaka
+Yoshikazu Kojima
+Rena Koda
+MOVIE DESIGN
+Katsunori Suginaka
+Ryota Muranaka
+STORYBOARD DESIGN
+Romanov Higa
+SCENARIO MOVIE GRAPHIC DESIGN
+Romanov Higa
+Tomohiro Miyaguchi
+Kentaro Tanaka
+　
+Studio-RF
+GAME DESIGN
+LEAD: Masafumi Saito
+Tetsuji Ohta
+Teruyuki Shimoyamada
+Hiroto Ito
+Miku Yoshida
+Yuki Asada
+Koji Nishino
+Rei Murayama
+CATCH & BATTLE GAME DESIGN
+LEAD: Hiroto Ito
+Koji Nishino
+DATA DESIGN
+Koji Nishino
+Hiroto Ito
+Miku Yoshida
+Masafumi Saito
+Takashi Koyama
+Motoki Nakajima
+Takuma Nishimura
+Keita Okamoto
+Rei Murayama
+UI PLANNING
+Tetsuji Ohta
+COMMUNICATION FEATURES PLANNING
+Teruyuki Shimoyamada
+PIKACHU VOICE
+Ikue Otani
+EEVEE VOICE
+Aoi Yuki
+VOICE RECORDING DIRECTOR
+Masafumi Mima
+RECORDING COORDINATION
+Takeshi Nishina
+Daisuke Ihara
+RECORDING ENGINEER
+Nobuhira Hirano
+Ryoko Nashimoto
+MUSIC
+Shota Kageyama
+ORIGINAL MUSIC
+Junichi Masuda
+GUITAR
+Hiroaki Tsutsumi
+VIOLIN
+Kon Shirasu
+MIXING ENGINEER
+Yoshiyuki Watanabe
+（VICTOR STUDIO）
+MASTERING ENGINEER
+Takahiro Uchida
+（FLAIR MASTERING WORKS）
+SOUND EFFECTS
+Hitoshi Okamoto
+POKÉMON CHARACTER DESIGN
+Misaki Hashimoto
+Hironobu Yoshida
+POKÉMON MODEL CREATION COORDINATORS
+LEAD: Tetsuya Watanabe
+Takao Unno
+HyunJung Lee
+Hitomi Imaizumi
+Kenta Kawano
+Yuki Yamamoto
+Katsumi Ohno
+Naoya Uematsu
+Yuta Nakai
+Masayuki Osaka
+Junya Tateishi
+Kenta Kaniwa
+Takashi Saeki
+Miyuki Ebizuka
+Daiki Takano
+Tokuri Suzuki
+Fumitaka Ono
+Kazuma Saika
+Yuka Inoue
+Teruyuki Namimatsu
+Minhee Kim
+POKÉMON 3D MODELING
+Pokémon CG Studio
+（Creatures Inc.）
+ENGLISH LOCALIZATION
+Yasuhiro Usui
+Mikiko Ryu
+Mayu Todo
+Bryan Olsson
+Yuriko Iwasaki
+Yohei Sugiyama
+ENGLISH TRANSLATION
+Hisato Yamamori
+Jillian Nonaka
+Sayuri Munday
+Ben Regal
+Bryson Clark
+Shawn Williams-Brown
+Jordan Blanco
+ENGLISH EDITING
+Blaise Selby
+Kellyn Ballard
+Rei Nakazawa
+EUROPEAN LOCALISATION
+Kaori Aoki
+Makiko Wakai
+Nami Kusumoto
+Suirei Okata
+Maya Yoshida
+Nobuko Sugahara
+Rei Haberberg
+Owen Preece
+Ritsuko Oshu
+Hannah Vassallo
+Guillaume Didier
+Pierre Gauthier
+Bertrand Lecocq
+Elena Nardo
+Cyril Schultz
+Emanuel Turchetta
+FRENCH TRANSLATION
+Lylia Khrissate
+Olivia Bonnal
+Aymeric Forgit
+Olivier Hagué
+Sarah Provost
+FRENCH EDITING
+Clémence Amoric
+Matthieu Béthencourt
+Franck Couée
+Violette Giang
+Marine Vallée
+GERMAN TRANSLATION
+Christopher Derbort
+Michael Ecke
+Susanne Becker
+Daniel Heucher
+Sophie Jueterbock
+Kathleen Kalms
+GERMAN EDITING
+Ireneusz Radko
+Juliana Niederwanger
+Alina Linnenweber
+Sina Moelleken
+Claudia Thon
+Barbara Schweinzer
+ITALIAN TRANSLATION
+Marco Sartori
+Guido Scarabello
+Altan Couvert
+Francesca Serci
+Annarita Spera
+Manuela Suriano
+ITALIAN EDITING
+Fabio Giusti
+Silvia De Bellis
+Marco Locatelli
+Valentina Menale
+Guendalina Pirruccio
+Alice Troiani
+SPANISH TRANSLATION
+Servando Doval Díaz
+Alberto Gracia Castellano
+Pablo Gismero Calvo
+Enrique Joga Elvira
+Diego Luque de la Campa
+Gabriel San Martín Fernández
+SPANISH EDITING
+Virginia Paradés Gurrea
+Isabel Zarco Manjavacas
+Irene Mascaró Genestar
+Mariona Pera i de Miguel
+Eva Rodríguez Graña
+Píndaro Vargas-Farías
+KOREAN TRANSLATION & EDITING
+Mihwa Choi
+Jieun Byun
+Youngjun Park
+Eunbi Jo
+Hyesung Yang
+CHINESE LOCALIZATION
+Keisuke Fukushima
+CHINESE TRANSLATION & EDITING
+Chungte Huang
+Youna Wu
+Sin Hang Yeung
+Jun Yuan
+Claudia Chan
+ENGLISH & EUROPEAN LOCALIZATION SUPPORT
+Jeff Hines
+Robert Colling
+Tadasu Hasegawa
+Marvin Andrews
+Steve Stratton (AltaSource Group)
+ENGLISH LOCALIZATION SUPPORT
+Yuki Hirata
+Akiko Kasugayama
+Joel Simon
+Theresa Apolinario
+EUROPEAN LOCALISATION SUPPORT
+Canela Rodal
+Patrick Thorenz
+Ryoko Sawabe
+KOREAN LOCALIZATION SUPPORT
+Hyokjin Jung
+Dongyeon Kim
+Soonil Kim
+Siyoung An
+Inseon Song
+SPECIAL THANKS—LOCALIZATION
+Katia Percca Ragas
+Thomas Candland
+Mary Rayes
+NOE Communication
+Coordinator Group
+TECHNICAL SUPPORT
+Soichi Yamamoto
+Shuhei Furukawa
+Kyohei Minato
+Hiroaki Gohara
+Satoru Miyahara
+Shotaro Iwanaga
+DEBUG MANAGEMENT
+Motoki Nakajima
+Takahiro Kumasaka
+Masao Yamabe
+Emi Kashiuda
+Takuya Inoue
+DEBUG
+Mario Club Co., Ltd.
+DIGITAL HEARTS Co., Ltd.
+NOA PRODUCT TESTING
+Kentaro Nishimura
+Kirk Buchanan
+Q Dequina
+Tomoko Mikami
+Kaylee Lewis
+Brette Levitan
+Nami Jamesson
+Kathy Huguenard
+Evan Wright
+Pablo Reyes
+Danny Morris
+Product Testing Technicians
+EUROPEAN QA COORDINATION
+Marco Gruden
+Daniele Alibrandi
+NOE QUALITY ASSURANCE
+Christopher Hannah
+Damien Brichard
+Guillaume Deschamps
+Yannick Carrey
+Emilien de Salles Costa
+Julien Llopart
+Julien Veron
+Yannick Simonklein
+Pasquale Gianluca Miceli
+Valeria Castellino
+Francesco Fonte
+Marzia Faustinelli
+Gabriele Cuscino
+Michaela Koch
+Peter Eiselt
+Sarah Nist
+Sandra Pommer
+Hannah Siebert
+Sebastian Jende
+Jessica Sánchez Herrera
+Mercedes Dólera Hernández
+David Martín Navarro
+Daniel Picazo Millán
+Pole To Win UK Ltd. (London Studio)
+NOK TESTING & QUALITY ASSURANCE
+Hyokjin Jung
+Kyoungim Na
+Eodo Lee
+Pole To Win Korea Co., Ltd.
+CHINESE PRODUCT TESTING
+Ming Xu
+Deguang Yan
+Huiming Hu
+Yayun Ling
+ARTWORK
+Yasuko Takahashi
+Megumi Mizutani
+Kazuma Koda
+kawayoo
+ENGLISH & EUROPEAN GRAPHIC DESIGN
+Chris Franc
+Hiromi Kimura
+Mark Pedini
+Dan Stephens
+CHINESE ARTWORK
+Yi Peng
+SPECIAL THANKS
+Kenji Matsushima
+Chihiro Hayashi
+Suguru Nakatsui
+Atsushi Terachi
+Junya Ikuta
+Tzuen Huang
+Yuichiro Mori
+Yu Narisada
+Yoshimi Kawaguchi
+Miho Murata
+Emi Takeishi
+Shiho Haraguchi
+Kenji Tominaga
+Tomohiro Kuroiwa
+Yoshio Tajiri
+Teiko Sasaki
+Yuichiro Yamamoto
+Nagaaki Fukase
+Misako Ito
+Fumiya Takahashi
+Hirokazu Tanaka
+Hiroyuki Jinnai
+Kenjiro Ito
+Atsushi Sugimoto
+Toshio Miyahara
+Eisuke Kasejima
+Taku Kawamoto
+Masami Tanaka
+Susumu Fukunaga
+Keita Hirobe
+Yasunori Suenaga
+Shoichi Obora
+Sho Yoshimoto
+Shinsuke Kato
+Seiji Iwata
+Takaki Matoba
+Nobue Ito
+Nobuhiro Sawabe
+Takeshi Masuda
+Retsuji Nomoto
+Gen Fujii
+Hidenaga Katakami
+Gakuji Nomoto
+Takashi Orikata
+Yoriomi Uego
+Jiro Koga
+Kenji Yanagisawa
+Yasuto Nishida
+Yusuke Tomita
+Michiko Takizawa
+Junko Tamura
+Kenichi Arai
+Misuzu Kanayama
+Emiko Yoshino
+Shusaku Egami
+Satoshi Ogawa
+Takayuki Sindo
+Osamu Fujita
+Takahiro Ohnishi
+Shohei Furuta
+Kenji Okubo
+Gaku Susai
+Jaiboem Lim
+Jihye Lee
+Hidekazu Taguchi
+Pokémon: Let's Go, Pikachu!
+Pokémon: Let's Go, Eevee!
+CONCEPT
+Junichi Masuda
+POKÉ BALL PLUS DEVELOPMENT
+Kazuhiro Maruyama
+Ryuju Maeno
+Hiroki Soji
+Hiroyuki Takeuchi
+Kohei Odanaka
+Masaya Takei
+Riyu Tamura
+POKÉMON GO PAIRING DEVELOPMENT ASSISTANCE
+Niantic, Inc. 
+　
+OPENING CINEMATIC CREATION
+TYO Inc.
+　
+CREATIVE SUPERVISOR
+Ken Sugimori
+INFORMATION COORDINATORS
+Yuta Nakai
+Tsuyoshi Ichikawa
+Ayane Morita
+COORDINATORS
+Shunsuke Kohori
+Minyu Hsu
+Akira Kojima
+Hayato Yoshimura
+Yuki Okada
+Kei Ninomiya
+Noriko Nakagawa
+PRODUCED BY
+Shigeru Ohmori
+Hitoshi Yamagami
+Akira Kinashi
+Mikiko Ohashi
+Takanori Sowa
+Shin Uwai
+GENERAL PRODUCER
+Junichi Masuda
+Shinya Takahashi
+Takato Utsunomiya
+EXECUTIVE PRODUCERS
+Satoshi Tajiri
+Shuntaro Furukawa
+Tsunekazu Ishihara
+Pokémon: Let's Go, Pikachu!
+Pokémon: Let's Go, Eevee!
+DEVELOPED BY
+GAME FREAK inc.
+(C)2018 Pokémon.
+(C)1995-2018 Nintendo
+(C)1995-2018 Creatures Inc.
+(C)1995-2018 GAME FREAK inc.
+Nintendo, The Pokémon Company and
+GAME FREAK inc. are the authors of
+this software for the purpose of copyright.
+All rights reserved.
+Nintendo, The Pokémon Company et
+GAME FREAK inc. sont les auteurs de ce
+logiciel au regard du droit d'auteur.
+Tous droits réservés.
