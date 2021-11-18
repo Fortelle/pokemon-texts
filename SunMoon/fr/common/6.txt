@@ -1,0 +1,40 @@
+Valider
+Créer une Équipe Combat
+Consulter les règles
+Oui
+Non
+Lire un QR Code
+Intervertir
+Consulter les règles
+Choix d'une Équipe Combat
+<var>
+♂
+♀
+<var>
+<var>
+/
+Lecture du QR Code
+l
+Équipe
+Impossible de faire participer un Œuf.
+Votre équipe n'a pas assez de Pokémon.
+Votre équipe a trop de Pokémon.
+Au moins un Pokémon obligatoire n'est pas présent dans votre équipe.
+Au moins un de vos Pokémon connaît une capacité interdite.
+Au moins un de vos Pokémon ne peut pas participer.
+Au moins un de vos Pokémon porte un objet interdit.
+Au moins un de vos Pokémon n'a pas le niveau demandé.
+Plusieurs de vos Pokémon sont de la même espèce.
+Plusieurs de vos Pokémon portent le même objet.
+Votre équipe inclut trop de Pokémon spéciaux.
+Une Équipe Combat QR ne peut pas participer.
+Vous ne remplissez pas les conditions nécessaires pour participer.
+Cette équipe est inscrite à une Compétition Live. Elle est verrouillée et ne peut pas être utilisée.
+Cette Équipe Combat est inscrite à une Compétition Internet. Elle est verrouillée et ne peut pas être utilisée.
+Toute Équipe Combat inscrite à une Compétition est verrouillée jusqu'à la fin de celle-ci. Il est impossible de déplacer les Pokémon d'une équipe verrouillée, de les échanger, ou de changer leurs objets tenus. Voulez-vous vraiment inscrire <var> à cette Compétition ?
+Choisissez une Équipe Combat
+Aucune Équipe Combat. Veuillez en créer une.
+Voulez-vous participer avec cette équipe ?
+Il y a un problème avec un ou plusieurs Pokémon de votre Équipe Combat.
+Vérification de l'Équipe Combat...
+Cette Équipe Combat est inscrite à un Tournoi Amical. Elle est verrouillée et ne peut pas être utilisée.

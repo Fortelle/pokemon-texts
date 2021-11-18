@@ -1,0 +1,10 @@
+Das ist ein Getränkeautomat. Was möchtest du trinken?
+<var> <var> $
+Abbrechen
+Du hast kein Getränk gekauft.
+Noch mehr kannst du davon nicht tragen!
+Du hast nicht genug Geld!
+<var> erhalten!
+Möchtest du noch mehr kaufen?
+Du Glückspilz! Du erhältst eine Flasche <var> gratis obendrauf!
+Ein Getränkeautomat! Alle Getränke, die du magst... sind ausverkauft!

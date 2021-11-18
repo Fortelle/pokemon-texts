@@ -1,0 +1,38 @@
+Verbindung wird hergestellt... Bitte warte einen Moment.
+Was wollt ihr machen?
+Möchtest du das Spielen via Link beenden?
+Verbindung wird getrennt...
+Du überlässt die Entscheidung <var>.
+Der andere Spieler hat die Verbindung getrennt.
+Verbindung wird hergestellt... Bitte warte einen Moment.
+Einzelkampf wurde ausgewählt.
+Doppelkampf wurde ausgewählt.
+Battle Royale wurde ausgewählt.
+Link-Tausch wurde ausgewählt.
+<var> überlässt die Entscheidung dir.
+Der letzte Link-Tausch beziehungsweise die letzte Nutzung der GTS von <var> wurde durch einen Verbindungsfehler, unerwartetes Ausschalten des Systems oder aus ähnlichen Ursachen abgebrochen. <var> kann daher vorübergehend keine Pokémon tauschen. Bitte versucht es später noch einmal.
+Euer letzter Link-Tausch beziehungsweise eure letzte Nutzung der GTS wurde durch einen Verbindungsfehler, unerwartetes Ausschalten des Systems oder aus ähnlichen Ursachen abgebrochen. Daher könnt ihr momentan keinen Link-Tausch durchführen. Bitte versucht es später noch einmal.
+<var> hat nur ein Pokémon und kann deswegen keinen Tausch durchführen.
+Ihr beiden habt jeweils nur ein Pokémon und könnt deswegen keinen Tausch durchführen.
+<var> hat nicht mindestens zwei Pokémon im Team oder in den Boxen und kann deswegen nicht an einem Doppelkampf teilnehmen.
+Ihr beiden habt nicht jeweils mindestens zwei Pokémon in eurem Team oder euren Boxen und könnt deswegen nicht an einem Doppelkampf teilnehmen.
+<var>
+Einzelkampf
+Doppelkampf
+
+Link-Tausch
+Den anderen Spieler entscheiden lassen
+<var> trifft die Entscheidung...
+Ihr tragt einen Einzelkampf aus. Dafür müssen beide Spieler jeweils mindestens ein Pokémon haben.
+Ihr tragt einen Doppelkampf aus. Dafür müssen beide Spieler jeweils mindestens zwei Pokémon in ihrem Team oder ihren Boxen haben.
+Ihr tauscht Pokémon miteinander. Dafür müssen beide Spieler jeweils mindestens zwei Pokémon haben.
+Ihr tragt einen Einzelkampf aus. Dafür müssen beide Spieler jeweils mindestens ein Pokémon haben.
+Du überlasst dem anderen Spieler die Entscheidung, was ihr machen wollt.
+Einzelkampf, Doppelkampf und Link-Tausch können ausgewählt werden.
+Link-Tausch
+Einzelkampf
+Doppelkampf
+
+Den anderen Spieler entscheiden lassen
+Ja
+Nein

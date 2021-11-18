@@ -1,0 +1,10 @@
+C'est un distributeur ! Quelle boisson voulez-vous acheter ?
+<var> <var> $
+Aucune
+Pas de boisson pour cette fois !
+Plus de place dans le Sac !
+Pas assez d'argent !
+<var> !
+Voulez-vous acheter une autre boisson ?
+Youpi ! Une autre bouteille <var> est tombée !
+C'est un distributeur ! Dommage, toutes les boissons ont été vendues !
