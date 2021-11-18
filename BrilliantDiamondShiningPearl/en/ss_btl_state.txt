@@ -1,0 +1,122 @@
+Harsh Sunlight
+The harsh sunlight weather condition.It boosts the power of Fire-type moves and lowers the power of Water-type moves.
+Rain
+The rain weather condition.It boosts the power of Water-type moves and lowers the power of Fire-type moves.
+Sandstorm
+The sandstorm weather condition.At the end of each turn, it damages all Pokémon that are not Rock, Ground, or Steel types.It boosts the Sp. Def of Rock-type Pokémon.
+Hail
+The hail weather condition.At the end of each turn, it damages all Pokémon that are not Ice types.
+Trick Room
+Slower Pokémon get to move first for five turns.
+Critical Hit Boost
+The Pokémon is more likely to land critical hits.
+Confusion
+The Pokémon may hurt itself in its confusion.The effect lasts for one to four turns.
+Infatuation
+The Pokémon is less likely to unleash an attack on Pokémon of the opposite gender.
+Electric Terrain
+For five turns, Pokémon on the ground won't fall asleep.The power of Electric-type moves is boosted.
+Encore
+Due to Encore, the Pokémon can use only<var> for three turns.
+No Ability
+The Pokémon's Ability loses its effect.
+Torment
+The Pokémon can't use the same move twice in a row.
+Tailwind
+The Speed stats of a Pokémon and its allies are doubled for four turns.
+Grudge
+If the Pokémon faints by an opponent's move,the PP of that move will be reduced to 0.
+Grassy Terrain
+For five turns, Pokémon on the ground will have a little HP restored at the end of each turn.The power of Grass-type moves is boosted.
+Misty Terrain
+For five turns, Pokémon on the ground won't get any status conditions.Damage from Dragon-type moves is halved.
+Move Disabled
+For four turns, the Pokémon will be unable to use <var>.
+Can't Escape
+The Pokémon can't flee or be switched out.
+Lock-On
+The next move used by the Pokémon will be sure to hit the target that was locked on to.
+Magic Room
+Pokémon can't use their held items for five turns.
+Charge
+The power of an Electric-type move will be doubled if used in the turn after charging.
+Gravity
+Moves are more likely to hit for five turns.Ground-type moves will hit Flying-type Pokémon and Pokémon with the Levitate Ability.Moves that require action midair can't be used.
+Mist
+The Pokémon's stats won't be lowered for five turns.
+Safeguard
+The Pokémon is protected from status conditions for five turns.
+Stealth Rock
+Pokémon that switch into battle will take damage.
+Stockpile
+The Pokémon's Defense and Sp. Def stats go up while stockpiling.
+Taunt
+The Pokémon can only use moves that deal damage.
+
+
+Magnet Rise
+Ground-type moves won't hit the Pokémon for five turns.
+Toxic Spikes
+Pokémon that switch into battle will be poisoned.Flying-type Pokémon or Pokémon with the Levitate Ability will not be affected.
+Wonder Room
+Pokémon's Defense and Sp. Def are swapped for five turns.
+Wish
+The Pokémon in this spot will have its HP restored on the turn after Wish was used.
+Ingrain
+The Pokémon regains some HP at the end of each turn.Ingrained Pokémon can't be switched out.
+Curse
+The Pokémon takes damage at the end of each turn.
+Drowsy
+The Pokémon will fall asleep at the end of the turn if it remains on the battlefield.
+Light Screen
+Damage from special moves is halved for five turns.
+Reflect
+Damage from physical moves is halved for five turns.
+Imprison
+If a Pokémon affected by Imprison knows any moves also known by the user of Imprison, it is prevented from using those moves.
+Counting Down
+All Pokémon in this battle state will faint after three turns.
+Spikes
+Pokémon that switch into battle will take damage.Flying-type Pokémon or Pokémon with the Levitate Ability will not be affected.
+Destiny Bond
+If the Pokémon is knocked out by an opponent,that opponent will also faint.
+Sticky Web
+Pokémon that switch into battle will have their Speed lowered.
+Leech Seed
+Leech Seed steals some of the Pokémon's HP at the end of each turn and gives it to the opponent.
+Lock-On
+Any move used against a locked-on target will be sure to hit.
+Bound
+The Pokémon is bound and takes damage every turn.
+
+
+Outrage
+The Pokémon rampages and attacks for two to three turns. It then becomes confused.
+Rampaging
+The Pokémon rampages and attacks for two to three turns. It then becomes confused.
+Petal Dance
+The Pokémon rampages and attacks for two to three turns. It then becomes confused.
+Badly Poisoned
+The Pokémon is badly poisoned. The damage the Pokémon takes from the poison worsens every turn.
+Uproar
+The Pokémon attacks and causes an uproar for three turns. During this time, no Pokémon can fall asleep.
+Aqua Ring
+The Pokémon is enveloped in a veil made of water. It regains some HP every turn.
+Smack Down
+The Pokémon has been knocked out of the sky and has fallen to the ground.
+Autotomize
+The Pokémon's weight is reduced, and its Speed is sharply increased.
+
+
+Throat Chop
+The Pokémon can't use any sound-based moves for two turns.
+Laser Focus
+The next move used will always result in a critical hit.
+
+
+
+
+
+
+Aurora Veil
+For five turns, the power of special and physical moves will be halved.

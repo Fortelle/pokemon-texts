@@ -1,0 +1,230 @@
+Equipo
+<var>
+<var> Nv. <var>
+<var>
+Caja en uso
+Ver cajas
+Búsqueda
+<var>
+♂
+♀
+Nv. <var>
+<var>
+N.º <var>
+<var>
+<var>
+PS
+<var>/<var>
+Ataque
+Defensa
+At. Esp.
+Def. Esp.
+Velocidad
+<var>
+Naturaleza
+<var>
+Habilidad
+<var>
+Objeto
+<var>
+—
+<var>
+Nivel Dinamax
+Pokémon
+Con objeto
+Equipo Combate
+Normal
+Multiselección
+Organizar
+<var>
+<var><var> ha sido seleccionado.
+Mover
+Datos
+Objeto
+Marcar
+Liberar
+Salir
+Aún puedes seleccionar más.¿Quieres continuar de todos modos?
+¿Quieres liberar a este Pokémon?
+Sí
+No
+Has liberado a <var>.¡Adiós, <var>!
+No puedes liberar Huevos.
+No puedes liberar un <var> fusionado.
+No puedes liberar los Pokémon registrados en tu Equipo de Combate.
+¡Necesitas al menos un Pokémon en forma!
+No puedes liberar Pokémon que lleven objetos especiales.
+¿Qué quieres hacer?
+Ir a otra caja
+Cambiar fondo
+Cambiar nombre
+Fondo 1
+Fondo 2
+Fondo 3
+Fondo 4
+Fondo 5
+Fondo 6
+Fondo 7
+Fondo 8
+Fondo 9
+Fondo 10
+Fondo 11
+Fondo 12
+Fondo 13
+Fondo 14
+Fondo 15
+Fondo 16
+Fondo 17
+Fondo 18
+Fondo 19
+Has seleccionado<var><var>.
+Mover
+Bolsa
+Has guardado<var><var>.
+No te caben más en la Bolsa.
+¿Quieres coger<var><var>?
+Puede llevar un objeto.
+Dar
+Los Huevos no pueden llevar objetos.
+Registrar
+Mover
+Cancelar
+Tu Equipo de Combate está bloqueado.No puedes mover los Pokémon.
+Tu Equipo de Combate está bloqueado.No puedes retirar Pokémon.
+Tu Equipo de Combate está bloqueado.No se pueden cambiar los objetos.
+Tu Equipo de Combate está bloqueado.No puedes poner ni quitar marcas.
+Tu Equipo de Combate está bloqueado.No puedes registrar más Pokémon.
+¿Quieres cambiar el nombre del equipo?
+Elige los requisitos y selecciona "Buscar" para activar el filtro.
+Pokémon
+Tipo 1
+Tipo 2
+Movimiento
+MT compatible
+Habilidad
+Naturaleza
+Sexo
+Objeto
+Marca
+Equipo Combate
+<var>
+<var>
+<var>
+<var>
+<var>
+<var>
+♂
+♀
+Desconocido
+Con objeto
+Sin objeto
+<var>
+—
+Elige la inicial del nombre del Pokémon.
+Elige un Pokémon.
+Elige el primer tipo.
+Elige el segundo tipo.
+Elige la inicial del movimiento.
+Elige un movimiento.
+Elige una MT para buscar Pokémon que puedan aprender el movimiento correspondiente.
+Elige la inicial de la habilidad.
+Elige una habilidad.
+Elige la naturaleza del Pokémon.
+Elige el sexo del Pokémon.
+Elige si quieres que el Pokémon lleve o no algún objeto.
+Elige una marca para que se muestren solo los Pokémon que la tengan.
+Elige un Equipo de Combate para que solo se muestren los Pokémon que tiene registrados.
+<var>
+<var>
+<var>
+<var>
+<var>
+Desarrolla las características de forma equilibrada.
+Tiene facilidad para desarrollar el Ataque.Tiene dificultad para desarrollar la Defensa.
+Tiene facilidad para desarrollar el Ataque.Tiene dificultad para desarrollar la Velocidad.
+Tiene facilidad para desarrollar el Ataque.Tiene dificultad para desarrollar el Ataque Especial.
+Tiene facilidad para desarrollar el Ataque.Tiene dificultad para desarrollar la Defensa Especial.
+Tiene facilidad para desarrollar la Defensa.Tiene dificultad para desarrollar el Ataque.
+Desarrolla las características de forma equilibrada.
+Tiene facilidad para desarrollar la Defensa.Tiene dificultad para desarrollar la Velocidad.
+Tiene facilidad para desarrollar la Defensa.Tiene dificultad para desarrollar el Ataque Especial.
+Tiene facilidad para desarrollar la Defensa.Tiene dificultad para desarrollar la Defensa Especial.
+Tiene facilidad para desarrollar la Velocidad.Tiene dificultad para desarrollar el Ataque.
+Tiene facilidad para desarrollar la Velocidad.Tiene dificultad para desarrollar la Defensa.
+Desarrolla las características de forma equilibrada.
+Tiene facilidad para desarrollar la Velocidad.Tiene dificultad para desarrollar el Ataque Especial.
+Tiene facilidad para desarrollar la Velocidad.Tiene dificultad para desarrollar la Defensa Especial.
+Tiene facilidad para desarrollar el Ataque Especial.Tiene dificultad para desarrollar el Ataque.
+Tiene facilidad para desarrollar el Ataque Especial.Tiene dificultad para desarrollar la Defensa.
+Tiene facilidad para desarrollar el Ataque Especial.Tiene dificultad para desarrollar la Velocidad.
+Desarrolla las características de forma equilibrada.
+Tiene facilidad para desarrollar el Ataque Especial.Tiene dificultad para desarrollar la Defensa Especial.
+Tiene facilidad para desarrollar la Defensa Especial.Tiene dificultad para desarrollar el Ataque.
+Tiene facilidad para desarrollar la Defensa Especial.Tiene dificultad para desarrollar la Defensa.
+Tiene facilidad para desarrollar la Defensa Especial.Tiene dificultad para desarrollar la Velocidad.
+Tiene facilidad para desarrollar la Defensa Especial.Tiene dificultad para desarrollar el Ataque Especial.
+Desarrolla las características de forma equilibrada.
+Intercambiar con
+<var>
+Esperando la respuesta del otro jugador...
+Se ha cancelado el intercambio.
+Has cancelado el intercambio.
+El otro jugador ha cancelado el intercambio.
+¿Quieres dar por finalizado el intercambio?
+No se puede realizar el intercambio porque hay un problema con el Pokémon del otro jugador.
+No se puede realizar el intercambio porque hay un problema con tu Pokémon.
+¡Aviso!Si se produce un error de conexión o se apaga la consola durante el intercambio de Pokémon,tendrás que esperar un rato antes de intentarlo de nuevo.
+Guardando...No apagues la consola.
+Conectando...Por favor, espera.
+¿Quieres recibir la Tarjeta de Liga del otro jugador?
+¿Quieres intercambiar tu <var> por el <var> del otro jugador?
+No puedes intercambiar este Huevo.
+Intercambiar
+Confirmar
+<var>/<var>
+<var>
+Nv. <var>
+No puedes intercambiar este Pokémon.
+No tienes ningún Pokémon que puedas intercambiar.
+No puedes intercambiar Huevos.
+Este Pokémon está registrado en tu Equipo de Combate, por lo que no lo puedes intercambiar.
+¿Quieres añadir a <var> a la lista de jugadores bloqueados?
+No podrás volver a comunicarte con quienes añadas a la lista de jugadores bloqueados.¿Quieres añadir a esta persona a la lista?(Podrás desbloquearla más adelante).
+Has añadido a esta persona a la lista de jugadores bloqueados. Se anulará el intercambio.
+Ya has añadido a esta persona a la lista de jugadores bloqueados.
+ Seleccionar
+Ver información del equipo rival
+<var> ha sido seleccionado.
+<var>
+Intercambio con<var>
+No es posible intercambiar un Pokémon cuya Poké Ball está decorada.
+¡Te quedarás sin Pokémon!
+No puedes seleccionar un Huevo.
+No puedes seleccionar un Pokémon que esté registrado en tu Equipo de Combate.
+<var> lleva<var><var>.¿Seguro que quieres intercambiarlo?
+No puedes seleccionar un Pokémon que forme parte de tu equipo.
+No puedes seleccionar más Pokémon.
+No puedes seleccionar un Pokémon debilitado.
+No puedes registrar Huevos.
+No puedes seleccionar un Pokémon especial para un intercambio prodigioso.
+ Atrás
+ Modo de selección
+ Vista de la caja
+ Datos
+ Buscar
+ Eliminar filtros
+ Selección automática
+ Juez
+ Organizar
+Potencial aceptable
+Potencial superior a la media
+Potencial notable
+Potencial extraordinario
+Cojea un poco
+No está mal
+Notable
+Genial
+Espectacular
+Inmejorable
+¡Al máximo!
+Marcar

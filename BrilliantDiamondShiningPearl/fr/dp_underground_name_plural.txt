@@ -1,0 +1,939 @@
+
+Sphères Rouges S
+Sphères Bleues S
+Sphères Vertes S
+Sphères Prismes S
+Sphères Pâles S
+Sphères Rouges L
+Sphères Bleues L
+Sphères Vertes L
+Sphères Prismes L
+Sphères Pâles L
+Rappels
+Rappels Max
+Tessons Rouges
+Tessons Bleus
+Tessons Jaunes
+Tessons Verts
+Pierres Soleil
+Pierres Lune
+Pierres Feu
+Pierres Foudre
+Pierres Eau
+Pierres Plante
+Pierres Ovales
+Pierres Stase
+Clés de Voûte
+Morceaux d'Étoiles
+Écailles Cœur
+Fossiles Racines
+Fossiles Griffes
+Nautiles
+Fossiles Dômes
+Vieux Ambres
+Fossiles Armures
+Fossiles Crânes
+Os Rares
+Lumargiles
+Balles Fer
+Roches Glace
+Roches Lisses
+Roches Chaudes
+Roches Humides
+Éclats Étranges S
+Éclats Étranges L
+Pierres Dures
+Plaques Flamme
+Plaques Hydro
+Plaques Volt
+Plaques Herbe
+Plaques Glace
+Plaques Poing
+Plaques Toxicité
+Plaques Terre
+Plaques Ciel
+Plaques Esprit
+Plaques Insecte
+Plaques Roc
+Plaques Fantôme
+Plaques Draco
+Plaques Ombre
+Plaques Fer
+Plaques Pixie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Socles Carrés XS
+Socles Carrés S
+Socles Carrés M
+Socles Carrés L
+Socles Ronds XS
+Socles Ronds M
+Socles Ronds L
+Socles Trapèzes XS
+Socles Trapèzes S
+Socles Trapèzes M
+Socles Trapèzes L
+Socles Transparents XS
+Socles Transparents S
+Socles Transparents M
+Socles Transparents L
+Socles de l'Aube L
+Socles de l'Aube XL
+Socles de la Nuit L
+Socles de la Nuit XL
+Socles Diamant L
+Socles Diamant XL
+Socles Perle L
+Socles Perle XL
+Socles Giradroite XS
+Socles Giradroite M
+Socles Giradroite L
+Socles Giragauche XS
+Socles Giragauche M
+Socles Giragauche L
+Foreuses
+CT01
+CT02
+CT03
+CT04
+CT05
+CT06
+CT07
+CT08
+CT09
+CT10
+CT11
+CT12
+CT13
+CT14
+CT15
+CT16
+CT17
+CT18
+CT19
+CT20
+CT21
+CT22
+CT23
+CT24
+CT25
+CT26
+CT27
+CT28
+CT29
+CT30
+CT31
+CT32
+CT33
+CT34
+CT35
+CT36
+CT37
+CT38
+CT39
+CT40
+CT41
+CT42
+CT43
+CT44
+CT45
+CT46
+CT47
+CT48
+CT49
+CT50
+CT51
+CT52
+CT53
+CT54
+CT55
+CT56
+CT57
+CT58
+CT59
+CT60
+CT61
+CT62
+CT63
+CT64
+CT65
+CT66
+CT67
+CT68
+CT69
+CT70
+CT71
+CT72
+CT73
+CT74
+CT75
+CT76
+CT77
+CT78
+CT79
+CT80
+CT81
+CT82
+CT83
+CT84
+CT85
+CT86
+CT87
+CT88
+CT89
+CT90
+CT91
+CT92
+Statues de Bulbizarre
+Statues d'Herbizarre
+Statues de Florizarre
+Statues de Salamèche
+Statues de Reptincel
+Statues de Dracaufeu
+Statues de Carapuce
+Statues de Carabaffe
+Statues de Tortank
+Statues de Pikachu
+Statues de Nidoqueen
+Statues de Nidoking
+Statues de Mélofée
+Statues de Goupix
+Statues de Rondoudou
+Statues de Mystherbe
+Statues de Miaouss
+Statues de Psykokwak
+Statues d'Arcanin
+Statues de Tartard
+Statues d'Alakazam
+Statues de Mackogneur
+Statues de Tentacruel
+Statues de Racaillou
+Statues de Galopa
+Statues de Ramoloss
+Statues de Canarticho
+Statues d'Ectoplasma
+Statues d'Osselait
+Statues d'Excelangue
+Statues de Smogogo
+Statues de Leveinard
+Statues de Kangourex
+Statues de Poissoroy
+Statues de M. Mime
+Statues de Tauros
+Statues de Magicarpe
+Statues de Léviator
+Statues de Lokhlass
+Statues de Métamorph
+Statues d'Évoli
+Statues d'Aquali
+Statues de Voltali
+Statues de Pyroli
+Statues de Porygon
+Statues d'Amonistar
+Statues de Ronflex
+Statues de Dracolosse
+Statues de Germignon
+Statues de Macronium
+Statues de Méganium
+Statues de Héricendre
+Statues de Feurisson
+Statues de Typhlosion
+Statues de Kaiminus
+Statues de Crocrodil
+Statues d'Aligatueur
+Statues de Fouinar
+Statues de Noarfang
+Statues de Nostenfer
+Statues de Togepi
+Statues de Pharamp
+Statues de Joliflor
+Statues de Marill
+Statues de Simularbre
+Statues de Capumain
+Statues de Tournegrin
+Statues de Maraiste
+Statues de Mentali
+Statues de Noctali
+Statues de Cornèbre
+Statues de Zarbi
+Statues de Qulbutoké
+Statues de Girafarig
+Statues d'Insolourdo
+Statues de Steelix
+Statues de Snubbull
+Statues de Cizayox
+Statues de Scarhino
+Statues de Volcaropod
+Statues d'Octillery
+Statues de Démanta
+Statues de Queulorior
+Statues d'Écrémeuh
+Statues de Tyranocif
+Statues d'Arcko
+Statues de Massko
+Statues de Jungko
+Statues de Poussifeu
+Statues de Galifeu
+Statues de Braségali
+Statues de Gobou
+Statues de Flobio
+Statues de Laggron
+Statues de Charmillon
+Statues de Papinox
+Statues de Ludicolo
+Statues de Bekipan
+Statues de Gardevoir
+Statues de Balignon
+Statues de Monaflèmit
+Statues de Ninjask
+Statues de Brouhabam
+Statues de Skitty
+Statues de Ténéfix
+Statues de Mysdibule
+Statues de Galeking
+Statues de Charmina
+Statues d'Élecsprint
+Statues de Posipi
+Statues de Négapi
+Statues de Muciole
+Statues de Lumivole
+Statues de Rosélia
+Statues de Sharpedo
+Statues de Wailmer
+Statues de Camérupt
+Statues de Chartor
+Statues de Spinda
+Statues de Libégon
+Statues de Cacturne
+Statues d'Altaria
+Statues de Mangriff
+Statues de Séviper
+Statues de Séléroc
+Statues de Solaroc
+Statues de Barbicha
+Statues de Kaorine
+Statues de Vacilys
+Statues de Milobellus
+Statues de Morphéo
+Statues de Kecleon
+Statues de Tropius
+Statues d'Éoko
+Statues d'Absol
+Statues d'Obalie
+Statues de Coquiperl
+Statues de Relicanth
+Statues de Lovdisc
+Statues de Drattak
+Statues de Métalosse
+Statues de Tortipouss
+Statues de Boskara
+Statues de Torterra
+Statues de Ouisticram
+Statues de Chimpenfeu
+Statues de Simiabraz
+Statues de Tiplouf
+Statues de Prinplouf
+Statues de Pingoléon
+Statues d'Étouraptor
+Statues de Castorno
+Statues de Crikzik
+Statues de Luxray
+Statues de Rozbouton
+Statues de Roserade
+Statues de Kranidos
+Statues de Bastiodon
+Statues de Cheniti
+Statues de Cheniselle
+Statues de Papilord
+Statues d'Apireine
+Statues de Pachirisu
+Statues de Mustéflott
+Statues de Ceribou
+Statues de Tritosor
+Statues de Capidextre
+Statues de Baudrive
+Statues de Laporeille
+Statues de Magirêve
+Statues de Corboss
+Statues de Chaffreux
+Statues de Moufflair
+Statues d'Archéodong
+Statues de Ptiravi
+Statues de Pijako
+Statues de Spiritomb
+Statues de Carchacrok
+Statues de Lucario
+Statues d'Hippodocus
+Statues de Drascore
+Statues de Cradopaud
+Statues de Vortente
+Statues de Luminéon
+Statues de Blizzaroi
+Statues de Dimoret
+Statues de Magnézone
+Statues de Rhinastoc
+Statues de Bouldeneu
+Statues d'Élekable
+Statues de Maganon
+Statues de Togekiss
+Statues de Yanmega
+Statues de Phyllali
+Statues de Givrali
+Statues de Scorvol
+Statues de Mammochon
+Statues de Porygon-Z
+Statues de Gallame
+Statues de Tarinorme
+Statues de Noctunoir
+Statues de Momartik
+Statues de Motisma
+Statues de Motisma
+Statues de Motisma
+Statues de Motisma
+Statues de Motisma
+Statues de Motisma
+Statues d'Artikodin
+Statues d'Électhor
+Statues de Sulfura
+Statues de Mewtwo
+Statues de Raikou
+Statues d'Entei
+Statues de Suicune
+Statues de Lugia
+Statues de Ho-Oh
+Statues de Regirock
+Statues de Regice
+Statues de Registeel
+Statues de Latias
+Statues de Latios
+Statues de Kyogre
+Statues de Groudon
+Statues de Rayquaza
+Statues de Bulbizarre 
+Statues d'Herbizarre 
+Statues de Florizarre 
+Statues de Salamèche 
+Statues de Reptincel 
+Statues de Dracaufeu 
+Statues de Carapuce 
+Statues de Carabaffe 
+Statues de Tortank 
+Statues de Pikachu 
+Statues de Nidoqueen 
+Statues de Nidoking 
+Statues de Mélofée 
+Statues de Goupix 
+Statues de Rondoudou 
+Statues de Mystherbe 
+Statues de Miaouss 
+Statues de Psykokwak 
+Statues d'Arcanin 
+Statues de Tartard 
+Statues d'Alakazam 
+Statues de Mackogneur 
+Statues de Tentacruel 
+Statues de Racaillou 
+Statues de Galopa 
+Statues de Ramoloss 
+Statues de Canarticho 
+Statues d'Ectoplasma 
+Statues d'Osselait 
+Statues d'Excelangue 
+Statues de Smogogo 
+Statues de Leveinard 
+Statues de Kangourex 
+Statues de Poissoroy 
+Statues de M. Mime 
+Statues de Tauros 
+Statues de Magicarpe 
+Statues de Léviator 
+Statues de Lokhlass 
+Statues de Métamorph 
+Statues d'Évoli 
+Statues d'Aquali 
+Statues de Voltali 
+Statues de Pyroli 
+Statues de Porygon 
+Statues d'Amonistar 
+Statues de Ronflex 
+Statues de Dracolosse 
+Statues de Germignon 
+Statues de Macronium 
+Statues de Méganium 
+Statues de Héricendre 
+Statues de Feurisson 
+Statues de Typhlosion 
+Statues de Kaiminus 
+Statues de Crocrodil 
+Statues d'Aligatueur 
+Statues de Fouinar 
+Statues de Noarfang 
+Statues de Nostenfer 
+Statues de Togepi 
+Statues de Pharamp 
+Statues de Joliflor 
+Statues de Marill 
+Statues de Simularbre 
+Statues de Capumain 
+Statues de Tournegrin 
+Statues de Maraiste 
+Statues de Mentali 
+Statues de Noctali 
+Statues de Cornèbre 
+Statues de Zarbi 
+Statues de Qulbutoké 
+Statues de Girafarig 
+Statues d'Insolourdo 
+Statues de Steelix 
+Statues de Snubbull 
+Statues de Cizayox 
+Statues de Scarhino 
+Statues de Volcaropod 
+Statues d'Octillery 
+Statues de Démanta 
+Statues de Queulorior 
+Statues d'Écrémeuh 
+Statues de Tyranocif 
+Statues d'Arcko 
+Statues de Massko 
+Statues de Jungko 
+Statues de Poussifeu 
+Statues de Galifeu 
+Statues de Braségali 
+Statues de Gobou 
+Statues de Flobio 
+Statues de Laggron 
+Statues de Charmillon 
+Statues de Papinox 
+Statues de Ludicolo 
+Statues de Bekipan 
+Statues de Gardevoir 
+Statues de Balignon 
+Statues de Monaflèmit 
+Statues de Ninjask 
+Statues de Brouhabam 
+Statues de Skitty 
+Statues de Ténéfix 
+Statues de Mysdibule 
+Statues de Galeking 
+Statues de Charmina 
+Statues d'Élecsprint 
+Statues de Posipi 
+Statues de Négapi 
+Statues de Muciole 
+Statues de Lumivole 
+Statues de Rosélia 
+Statues de Sharpedo 
+Statues de Wailmer 
+Statues de Camérupt 
+Statues de Chartor 
+Statues de Spinda 
+Statues de Libégon 
+Statues de Cacturne 
+Statues d'Altaria 
+Statues de Mangriff 
+Statues de Séviper 
+Statues de Séléroc 
+Statues de Solaroc 
+Statues de Barbicha 
+Statues de Kaorine 
+Statues de Vacilys 
+Statues de Milobellus 
+Statues de Morphéo 
+Statues de Kecleon 
+Statues de Tropius 
+Statues d'Éoko 
+Statues d'Absol 
+Statues d'Obalie 
+Statues de Coquiperl 
+Statues de Relicanth 
+Statues de Lovdisc 
+Statues de Drattak 
+Statues de Métalosse 
+Statues de Tortipouss 
+Statues de Boskara 
+Statues de Torterra 
+Statues de Ouisticram 
+Statues de Chimpenfeu 
+Statues de Simiabraz 
+Statues de Tiplouf 
+Statues de Prinplouf 
+Statues de Pingoléon 
+Statues d'Étouraptor 
+Statues de Castorno 
+Statues de Crikzik 
+Statues de Luxray 
+Statues de Rozbouton 
+Statues de Roserade 
+Statues de Kranidos 
+Statues de Bastiodon 
+Statues de Cheniti 
+Statues de Cheniselle 
+Statues de Papilord 
+Statues d'Apireine 
+Statues de Pachirisu 
+Statues de Mustéflott 
+Statues de Ceribou 
+Statues de Tritosor 
+Statues de Capidextre 
+Statues de Baudrive 
+Statues de Laporeille 
+Statues de Magirêve 
+Statues de Corboss 
+Statues de Chaffreux 
+Statues de Moufflair 
+Statues d'Archéodong 
+Statues de Ptiravi 
+Statues de Pijako 
+Statues de Spiritomb 
+Statues de Carchacrok 
+Statues de Lucario 
+Statues d'Hippodocus 
+Statues de Drascore 
+Statues de Cradopaud 
+Statues de Vortente 
+Statues de Luminéon 
+Statues de Blizzaroi 
+Statues de Dimoret 
+Statues de Magnézone 
+Statues de Rhinastoc 
+Statues de Bouldeneu 
+Statues d'Élekable 
+Statues de Maganon 
+Statues de Togekiss 
+Statues de Yanmega 
+Statues de Phyllali 
+Statues de Givrali 
+Statues de Scorvol 
+Statues de Mammochon 
+Statues de Porygon-Z 
+Statues de Gallame 
+Statues de Tarinorme 
+Statues de Noctunoir 
+Statues de Momartik 
+Statues de Motisma 
+Statues de Motisma 
+Statues de Motisma 
+Statues de Motisma 
+Statues de Motisma 
+Statues de Motisma 
+CT93
+CT94
+CT95
+CT96
+CT97
+CT98
+CT99
+CT100
+Socles Carrés XL
+Socles Ronds XL
+Socles Trapèzes XL
+Socles Transparents XL
+Socles Giradroite XL
+Socles Giragauche XL

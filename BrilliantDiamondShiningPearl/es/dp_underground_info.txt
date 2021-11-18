@@ -1,0 +1,939 @@
+
+Pequeña gema roja que brilla como el fuego.
+Pequeña gema azul que brilla como el hielo.
+Pequeña gema verde que brilla como la hierba.
+Pequeña gema maciza y transparente.
+Pequeña gema blanca que brilla con siete colores.
+Gema roja de gran tamaño que brilla como el fuego.
+Gema azul de gran tamaño que brilla como el hielo.
+Gema verde de gran tamaño que brilla como la hierba.
+Gema de gran tamaño, maciza y transparente.
+Gema blanca de gran tamaño que brilla con siete colores.
+Medicina que revive a un Pokémon debilitado y le devuelve la mitad de sus PS.
+Medicina que revive a un Pokémon debilitado y le devuelve todos sus PS.
+Un pequeño fragmento rojo. Parece formar parte de algún tipo de herramienta antigua.
+Un pequeño fragmento azul. Parece formar parte de algún tipo de herramienta antigua.
+Un pequeño fragmento amarillo. Parece formar parte de algún tipo de herramienta antigua.
+Un pequeño fragmento verde. Parece formar parte de algún tipo de herramienta antigua.
+Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es roja como el núcleo del sol.
+Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es oscura como la noche.
+Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es amarilla con una marca naranja.
+Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Tiene grabado un rayo.
+Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es de color azul.
+Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Tiene grabada una hoja.
+Una piedra peculiar que hace evolucionar a algunos Pokémon. Tiene forma de huevo.
+El Pokémon que lleva esta piedra mágica no evoluciona.
+Vital para impedir que una torre de piedra se derrumbe.A veces se oyen voces en su interior.
+Fragmento de una bonita gema roja que puede venderse muy caro en las tiendas.
+Una bella y rara escama con forma de corazón que más de uno apreciará si se la entregas.
+Fósil de un Pokémon prehistórico que vivía en el fondo del mar. Parece ser parte de una raíz.
+Fósil de un Pokémon prehistórico que vivía en el fondo del mar. Parece ser parte de una garra.
+Fósil de un Pokémon prehistórico que vivía en el fondo del mar. Parece ser un fragmento de concha marina.
+Fósil de un Pokémon prehistórico que vivía en el fondo del mar. Parece ser un fragmento de caparazón.
+Fragmento de ámbar que contiene información genética de un Pokémon prehistórico. Es de color amarillo.
+Fósil de un Pokémon prehistórico terrestre. Parece ser parte de una protección ósea del cuello.
+Fósil de un Pokémon prehistórico terrestre. Parece ser parte de una cabeza.
+Un hueso de gran valor para la arqueología Pokémon.Puede alcanzar un alto precio en las tiendas.
+Prolonga la duración de barreras como las creadas por Reflejo y Pantalla de Luz. Debe llevarlo un Pokémon.
+Reduce la Velocidad. Los Pokémon que levitan y los de tipo Volador se tornan sensibles a movimientos de tipo Tierra.
+Prolonga la duración del movimiento Granizo que use el Pokémon que la lleva.
+Prolonga la duración del movimiento Tormenta de Arena que use el Pokémon que la lleva.
+Prolonga la duración del movimiento Día Soleado que use el Pokémon que la lleva.
+Prolonga la duración del movimiento Danza Lluvia que use el Pokémon que la lleva.
+Una pequeña esquirla de la que emana una misteriosa energía y en cuyo interior se aprecia un motivo que recuerda a una rosa rugosa Hansa.
+Una gran esquirla de la que emana una misteriosa energía y en cuyo interior se aprecia un motivo que recuerda a una rosa rugosa Hansa.
+Debe llevarla un Pokémon. La robustez de la piedra fortalece los movimientos de tipo Roca.
+Tabla de piedra que potencia los movimientos de tipo Fuego. Debe llevarla un Pokémon.
+Tabla de piedra que potencia los movimientos de tipo Agua. Debe llevarla un Pokémon.
+Tabla de piedra que potencia los movimientos de tipo Eléctrico. Debe llevarla un Pokémon.
+Tabla de piedra que potencia los movimientos de tipo Planta. Debe llevarla un Pokémon.
+Tabla de piedra que potencia los movimientos de tipo Hielo. Debe llevarla un Pokémon.
+Tabla de piedra que potencia los movimientos de tipo Lucha. Debe llevarla un Pokémon.
+Tabla de piedra que potencia los movimientos de tipo Veneno. Debe llevarla un Pokémon.
+Tabla de piedra que potencia los movimientos de tipo Tierra. Debe llevarla un Pokémon.
+Tabla de piedra que potencia los movimientos de tipo Volador. Debe llevarla un Pokémon.
+Tabla de piedra que potencia los movimientos de tipo Psíquico. Debe llevarla un Pokémon.
+Tabla de piedra que potencia los movimientos de tipo Bicho. Debe llevarla un Pokémon.
+Tabla de piedra que potencia los movimientos de tipo Roca. Debe llevarla un Pokémon.
+Tabla de piedra que potencia los movimientos de tipo Fantasma. Debe llevarla un Pokémon.
+Tabla de piedra que potencia los movimientos de tipo Dragón. Debe llevarla un Pokémon.
+Tabla de piedra que potencia los movimientos de tipo Siniestro. Debe llevarla un Pokémon.
+Tabla de piedra que potencia los movimientos de tipo Acero. Debe llevarla un Pokémon.
+Tabla de piedra que potencia los movimientos de tipo Hada. Debe llevarla un Pokémon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Peana cuadrada de tamaño muy pequeño tallada en piedra.
+Peana cuadrada de tamaño pequeño tallada en piedra.
+Peana cuadrada tallada en piedra.
+Peana cuadrada de gran tamaño tallada en piedra.
+Peana circular de tamaño muy pequeño tallada en piedra.
+Peana circular tallada en piedra.
+Peana circular de gran tamaño tallada en piedra.
+Peana trapezoidal de tamaño muy pequeño tallada en piedra robusta.
+Peana trapezoidal de tamaño pequeño tallada en piedra robusta.
+Peana trapezoidal tallada en piedra robusta.
+Peana trapezoidal de gran tamaño tallada en piedra robusta.
+Peana de tamaño muy pequeño que deja atravesar la luz por completo.
+Peana de tamaño pequeño que deja atravesar la luz por completo.
+Peana que deja atravesar la luz por completo.
+Peana de gran tamaño que deja atravesar la luz por completo.
+Peana de gran tamaño que representa la calidez de un nuevo y esperanzador amanecer.
+Peana de tamaño enorme que representa la calidez de un nuevo y esperanzador amanecer.
+Peana de gran tamaño que representa la fría soledad de la noche.
+Peana de tamaño enorme que representa la fría soledad de la noche.
+Peana de gran tamaño que refulge a través del tiempo como un diamante brillante.
+Peana de tamaño enorme que refulge a través del tiempo como un diamante brillante.
+Peana de gran tamaño que ilumina el espacio como una perla reluciente.
+Peana de tamaño enorme que ilumina el espacio como una perla reluciente.
+Peana circular de tamaño pequeño que gira hacia la derecha.
+Peana circular que gira hacia la derecha.
+Peana circular de gran tamaño que gira hacia la derecha.
+Peana circular de tamaño pequeño que gira hacia la izquierda.
+Peana circular que gira hacia la izquierda.
+Peana circular de gran tamaño que gira hacia la izquierda.
+Taladro de un solo uso que sirve para perforar un muro y construir una Base Secreta en su interior.
+Se concentra para dar un puñetazo. Falla si se sufre un golpe antes de su uso.
+Araña al objetivo con garras afiladas.
+Ataca con un potente chorro de agua. Puede confundir al objetivo.
+Aumenta la concentración y calma el espíritu para subir el Ataque Especial y la Defensa Especial.
+Se lleva al objetivo, que es cambiado por otro Pokémon. Si es un Pokémon salvaje, acaba el combate.
+Envenena gravemente al objetivo y causa un daño mayor en cada turno.
+Tormenta de granizo que dura cinco turnos. Hiere a todos los Pokémon excepto a los de tipo Hielo.
+Robustece el cuerpo para subir el Ataque y la Defensa.
+Dispara rápido de dos a cinco ráfagas de semillas de manera consecutiva.
+Quien lo usa se concentra y potencia su Ataque y su Ataque Especial.
+Hace que se intensifique el efecto del sol durante cinco turnos, lo que potencia los movimientos de tipo Fuego y debilita los de tipo Agua.
+Enfurece al objetivo para que solo use movimientos de ataque durante tres turnos.
+Rayo de hielo que puede llegar a congelar.
+Tormenta de hielo que puede llegar a congelar.
+Es eficaz, pero el atacante deberá descansar en el siguiente turno.
+Pared de luz que reduce durante cinco turnos el daño producido por los ataques especiales.
+Frena todos los ataques, pero puede fallar si se usa repetidamente.
+Genera una fuerte lluvia que refuerza los movimientos de tipo Agua durante cinco turnos y debilita los de tipo Fuego.
+Un ataque que absorbe nutrientes. Quien lo usa recupera la mitad de los PS del daño que produce.
+Un escudo que protege de problemas de estado, como el sueño o la parálisis, durante cinco turnos.
+Inflige daño a los oponentes con una potente luz.
+El usuario absorbe luz en el primer turno y en el segundo lanza un potente rayo de energía.
+Ataca con una cola férrea y puede bajar la Defensa del objetivo.
+Potente ataque eléctrico que puede paralizar al objetivo.
+Un poderoso rayo que daña al objetivo y puede paralizarlo.
+Un terremoto que afecta a todos los Pokémon que estén a su alrededor.
+Ataque rápido dirigido a los pies del objetivo que le hace perder Velocidad.
+El usuario cava durante el primer turno y ataca en el segundo. También sirve para salir de ciertas zonas.
+Fuerte ataque telequinético que puede bajar la Defensa Especial del objetivo.
+Lanza una bola oscura que puede bajar la Defensa Especial del objetivo.
+Potente ataque que también es capaz de destruir barreras como Pantalla de Luz y Reflejo.
+Crea copias de sí mismo para mejorar la Evasión.
+Pared de luz que reduce durante cinco turnos el daño producido por los ataques físicos.
+Ataque eléctrico muy rápido e ineludible.
+Ataca con una gran ráfaga de fuego que puede causar quemaduras.
+Arroja residuos al objetivo. Puede llegar a envenenar.
+Tormenta de arena que dura cinco turnos y hiere a todos, excepto a los de tipo Roca, Tierra y Acero,y aumenta la Defensa Especial de los de tipo Roca.
+Llama intensa que chamusca y puede causar quemaduras.
+Tira rocas que detienen al objetivo y bajan su Velocidad.
+El usuario lanza un ataque muy rápido e ineludible.
+Atormenta y enfurece al objetivo, que no puede usar dos veces seguidas el mismo movimiento.
+Si el usuario está quemado, paralizado o envenenado,ataca con el doble de potencia.
+Tras atacar, el usuario vuelve a toda prisa para dar paso a otro Pokémon del equipo.
+Restaura todos los PS y cura todos los problemas de estado del usuario, que se duerme los dos turnos siguientes.
+Si el objetivo es del sexo opuesto, se enamorará y bajará la posibilidad de que ataque.
+El agresor ataca y le quita el objeto al objetivo siempre y cuando no lleve ninguno.
+Alas macizas que golpean al objetivo y pueden subir la Defensa del usuario.
+Usa el poder psíquico para intercambiar habilidades con el objetivo.
+Ataca arrojando agua hirviendo al objetivo. Puede causar quemaduras.
+Ataque en toda regla que baja mucho el Ataque Especial de quien lo usa.
+Aterriza sobre la superficie para descansar.Recupera hasta la mitad del total de sus PS.
+Agudiza la concentración mental y libera su poder.Puede disminuir la Defensa Especial del objetivo.
+Aúna fuerzas de la naturaleza y libera su ataque.Puede disminuir la Defensa Especial del objetivo.
+Ataque moderado que no debilita al objetivo y le deja al menos 1 PS.
+Si al objetivo le queda la mitad o menos de sus PS, el ataque será el doble de fuerte.
+El usuario lanza contra el objetivo el objeto que lleva.La fuerza del ataque y su efecto varían según el objeto.
+Lanza un rayo eléctrico contra el objetivo. Puede subir el Ataque Especial de quien lo usa.
+Resiste cualquier ataque y deja al menos 1 PS.Puede fallar si se usa repetidamente.
+Abre mucho la boca y libera una onda de choque que ataca al objetivo.
+Un golpe que drena energía. El Pokémon recupera la mitad de los PS arrebatados al objetivo.
+Siniestra llama morada que produce quemaduras.
+El usuario crea una onda sónica dañina moviendo su cuerpo que también puede disminuir la Defensa Especial del objetivo.
+Estimula su cerebro pensando en cosas malas.Aumenta mucho el Ataque Especial.
+El atacante causa una grandísima explosión y hiere a todos a su alrededor. El usuario se debilita de inmediato.
+Ataca con una garra afilada hecha de sombras.Suele ser crítico.
+El usuario contraataca con el doble de fuerza si el objetivo usa un movimiento antes.
+Recicla y así recupera un objeto equipado de un solo uso que ya haya sido empleado durante el combate.
+El usuario carga contra el objetivo con toda la fuerza que tiene y descansa durante el siguiente turno.
+Reduce la resistencia puliendo su cuerpo. Aumenta mucho la Velocidad.
+Luz cegadora que baja la Precisión del objetivo.También puede usarse para iluminar lugares oscuros.
+Clava piedras muy afiladas al objetivo. Suele ser crítico.
+Este ataque inflige el doble de daño a un objetivo que haya golpeado al usuario en ese mismo turno.
+Una ligera descarga que paraliza al objetivo si lo alcanza.
+Embiste al objetivo con un potente ataque giratorio.Cuanto más lento es el usuario, más daño causa.
+Baile frenético que aumenta mucho el Ataque.
+Una trampa de rocas que flota en el aire y daña a los objetivos que entran en combate.
+Quien lo usa se sume en un trance y copia cualquier cambio que haya en las características de su objetivo.
+Chillido desagradable que baja el Ataque Especial del rival.
+Libera una horrible aura llena de malos pensamientos que puede amedrentar al objetivo.
+Lanza grandes pedruscos. Puede amedrentar al objetivo.
+Cruza las guadañas o las garras para atacar al objetivo como si fueran unas tijeras.
+Mientras duerme, usa uno de sus movimientos elegido al azar.
+Sacudida sísmica que afecta a los demás Pokémon adyacentes y también reduce su Velocidad.
+Pincha al objetivo con un tentáculo o brazo envenenado. Puede llegar a envenenar al objetivo.
+Restaura al usuario la mitad del daño causado a un objetivo dormido.
+Enreda al objetivo con hierba y lo derriba. Cuanto más pesado es el objetivo, más daño inflige.
+Provoca confusión en el objetivo, pero también sube mucho su Ataque.
+Picotea al objetivo. Si este sostiene una baya, la picotea también y obtiene sus efectos.
+Tras atacar, el usuario vuelve a toda prisa para dar paso a otro Pokémon del equipo.
+Utiliza parte de los PS propios para crear un sustituto que actúa como señuelo.
+El usuario concentra toda la luz del cuerpo y la libera.Puede bajar la Defensa Especial del objetivo.
+Crea un espacio extraño en el que los Pokémon lentos se mueven primero durante cinco turnos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Uno de los movimientos ocultos del Poké Reloj.Corta al adversario con garras, guadañas, etc.
+Uno de los movimientos ocultos del Poké Reloj.El usuario vuela en el primer turno y ataca en el segundo.
+Uno de los movimientos ocultos del Poké Reloj.Inunda el terreno de combate con una ola gigante.
+Uno de los movimientos ocultos del Poké Reloj.Propina un potente puñetazo con todas sus fuerzas.
+Uno de los movimientos ocultos del Poké Reloj.Potente viento que destruye barreras como Pantalla de Luz y Reflejo y reduce la Evasión del objetivo.
+Uno de los movimientos ocultos del Poké Reloj.Ataque con los puños. Puede bajar la Defensa del objetivo.
+Uno de los movimientos ocultos del Poké Reloj.Embiste con un gran impulso que puede llegar a amedrentar.
+Uno de los movimientos ocultos del Poké Reloj.Ataque de derribo que puede confundir al rival.
+Peana cuadrada de tamaño enorme tallada en piedra.
+Peana circular de tamaño enorme tallada en piedra.
+Peana trapezoidal de tamaño enorme tallada en piedra robusta.
+Peana de tamaño enorme que deja atravesar la luz por completo.
+Peana circular de tamaño enorme que gira hacia la derecha.
+Peana circular de tamaño enorme que gira hacia la izquierda.

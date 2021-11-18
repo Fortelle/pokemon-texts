@@ -1,0 +1,939 @@
+
+Une sphère de petite taille, qui brille d'un rouge évoquant les flammes.
+Une sphère de petite taille, qui brille d'un bleu évoquant la glace.
+Une sphère de petite taille, qui brille d'un vert évoquant la lumière qui traverse les feuillages.
+Une sphère de petite taille parfaitement transparente.
+Une sphère de petite taille, qui brille des sept couleurs de l'arc-en-ciel.
+Une sphère de grande taille, qui brille d'un rouge évoquant les flammes.
+Une sphère de grande taille, qui brille d'un bleu évoquant la glace.
+Une sphère de grande taille, qui brille d'un vert évoquant la lumière qui traverse les feuillages.
+Une sphère de grande taille parfaitement transparente.
+Une sphère de grande taille, qui brille des sept couleurs de l'arc-en-ciel.
+Un médicament qui ranime un Pokémon K.O. et restaure la moitié de ses PV max.
+Un médicament qui ranime un Pokémon K.O. et restaure tous ses PV.
+Un petit tesson rouge.Il semble provenir d'un objet très ancien.
+Un petit tesson bleu.Il semble provenir d'un objet très ancien.
+Un petit tesson jaune.Il semble provenir d'un objet très ancien.
+Un petit tesson vert.Il semble provenir d'un objet très ancien.
+Une pierre étrange qui fait évoluer certaines espèces de Pokémon. Elle est rouge comme le soleil couchant.
+Une pierre étrange qui fait évoluer certaines espèces de Pokémon. Elle est sombre comme la nuit.
+Une pierre étrange qui fait évoluer certaines espèces de Pokémon. Elle est jaune et orange.
+Une pierre étrange qui fait évoluer certaines espèces de Pokémon. Un éclair est dessiné dessus.
+Une pierre étrange qui fait évoluer certaines espèces de Pokémon. Elle est de couleur bleue.
+Une pierre étrange qui fait évoluer certaines espèces de Pokémon. Une feuille est dessinée dessus.
+Une pierre étrange qui fait évoluer certaines espèces de Pokémon. Elle a la forme d'un œuf.
+Objet à tenir. Une pierre merveilleuse empêchant l'évolution.
+Un objet très important qui empêche une tour en pierre de s'écrouler. Des voix en sortent parfois.
+Un fragment de gemme qui brille d'un éclat rouge.Peut être vendu à bon prix en magasin.
+Une écaille très rare et jolie en forme de cœur.Certaines personnes sont ravies quand on leur en donne une.
+Le fossile d'un ancien Pokémon aquatique.On dirait un morceau de racine.
+Le fossile d'un ancien Pokémon aquatique.On dirait un morceau de griffe.
+Le fossile d'un ancien Pokémon aquatique.On dirait un morceau de coquillage.
+Le fossile d'un ancien Pokémon aquatique.On dirait un morceau de carapace.
+Un morceau d'ambre contenant l'ADN d'un ancien Pokémon. Il est de couleur jaune.
+Le fossile d'un Pokémon préhistorique terrestre.On dirait un morceau de collerette osseuse.
+Le fossile d'un Pokémon préhistorique terrestre.On dirait un morceau de crâne.
+Un os d'une grande valeur pour l'archéologie Pokémon.Peut être vendu à bon prix en magasin.
+Objet à tenir. Prolonge la durée des capacités barrières telles que Mur Lumière et Protection.
+Objet à tenir. Réduit la Vitesse. Rend les porteurs de type Vol, ainsi que ceux en lévitation, sensibles aux capacités de type Sol.
+Objet à tenir. Prolonge la durée de la capacité Grêle utilisée par le porteur.
+Objet à tenir. Prolonge la durée de la capacité Tempête de Sable utilisée par le porteur.
+Objet à tenir. Prolonge la durée de la capacité Zénith utilisée par le porteur.
+Objet à tenir. Prolonge la durée de la capacité Danse Pluie utilisée par le porteur.
+Un petit éclat qui dégage une étrange énergie.On aperçoit à l'intérieur un motif qui rappelle la variété de fleurs Rosa rugosa.
+Un gros éclat qui dégage une étrange énergie.On aperçoit à l'intérieur un motif qui rappelle la variété de fleurs Rosa rugosa.
+Objet à tenir. Une pierre incassable qui augmente la puissance des capacités de type Roche.
+Objet à tenir. Une tablette en pierre augmentant la puissance des capacités de type Feu.
+Objet à tenir. Une tablette en pierre augmentant la puissance des capacités de type Eau.
+Objet à tenir. Une tablette en pierre augmentant la puissance des capacités de type Électrik.
+Objet à tenir. Une tablette en pierre augmentant la puissance des capacités de type Plante.
+Objet à tenir. Une tablette en pierre augmentant la puissance des capacités de type Glace.
+Objet à tenir. Une tablette en pierre augmentant la puissance des capacités de type Combat.
+Objet à tenir. Une tablette en pierre augmentant la puissance des capacités de type Poison.
+Objet à tenir. Une tablette en pierre augmentant la puissance des capacités de type Sol.
+Objet à tenir. Une tablette en pierre augmentant la puissance des capacités de type Vol.
+Objet à tenir. Une tablette en pierre augmentant la puissance des capacités de type Psy.
+Objet à tenir. Une tablette en pierre augmentant la puissance des capacités de type Insecte.
+Objet à tenir. Une tablette en pierre augmentant la puissance des capacités de type Roche.
+Objet à tenir. Une tablette en pierre augmentant la puissance des capacités de type Spectre.
+Objet à tenir. Une tablette en pierre augmentant la puissance des capacités de type Dragon.
+Objet à tenir. Une tablette en pierre augmentant la puissance des capacités de type Ténèbres.
+Objet à tenir. Une tablette en pierre augmentant la puissance des capacités de type Acier.
+Objet à tenir. Une tablette en pierre augmentant la puissance des capacités de type Fée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Un minuscule socle carré en pierre.
+Un petit socle carré en pierre.
+Un socle carré en pierre.
+Un grand socle carré en pierre.
+Un minuscule socle rond en pierre.
+Un socle rond en pierre.
+Un grand socle rond en pierre.
+Un minuscule socle en pierre particulièrement lourd,en forme de trapèze.
+Un petit socle en pierre particulièrement lourd,en forme de trapèze.
+Un socle en pierre particulièrement lourd, en forme de trapèze.
+Un grand socle en pierre particulièrement lourd,en forme de trapèze.
+Un minuscule socle parfaitement transparent.
+Un petit socle parfaitement transparent.
+Un socle parfaitement transparent.
+Un grand socle parfaitement transparent.
+Un grand socle qui évoque la chaleur d'un lever de soleil porteur d'espoir.
+Un immense socle qui évoque la chaleur d'un lever de soleil porteur d'espoir.
+Un grand socle qui évoque la froide tristesse d'une nuit solitaire.
+Un immense socle qui évoque la froide tristesse d'une nuit solitaire.
+Un grand socle qui illumine le temps comme un diamant étincelant.
+Un immense socle qui illumine le temps comme un diamant étincelant.
+Un grand socle qui illumine l'espace comme une perle scintillante.
+Un immense socle qui illumine l'espace comme une perle scintillante.
+Un minuscule socle rond qui tourne vers la droite.
+Un socle rond qui tourne vers la droite.
+Un grand socle rond qui tourne vers la droite.
+Un minuscule socle rond qui tourne vers la gauche.
+Un socle rond qui tourne vers la gauche.
+Un grand socle rond qui tourne vers la gauche.
+Une foreuse à usage unique qui permet de construire une Base Secrète en perçant un mur.
+Le lanceur se concentre avant d'attaquer.Échoue s'il est touché avant d'avoir frappé.
+Le lanceur lacère l'ennemi de ses grandes griffes aiguisées.
+Le lanceur envoie un puissant jet d'eau sur l'ennemi.Peut le rendre confus.
+Le lanceur se concentre et fait le vide dans son esprit pour augmenter son Attaque Spéciale et sa Défense Spéciale.
+Effraie le Pokémon ennemi et le remplace par un autre.Lors d'un combat contre un Pokémon sauvage seul,met fin au combat.
+Empoisonne gravement l'ennemi.Les dégâts dus au poison augmentent à chaque tour.
+Invoque une tempête de grêle qui dure cinq tours.Blesse tous les Pokémon, sauf ceux de type Glace.
+Le lanceur tend ses muscles pour se gonfler,ce qui booste son Attaque et sa Défense.
+Le lanceur mitraille l'ennemi avec une rafale de graines.De deux à cinq rafales sont lancées à la suite.
+Le lanceur se rengorge.Augmente l'Attaque et l'Attaque Spéciale.
+Fait briller le soleil pendant cinq tours, augmentant la puissance des capacités de type Feu et baissant celle des capacités de type Eau.
+Provoque l'ennemi. L'oblige à n'utiliser que des attaques pendant trois tours.
+Un rayon de glace frappe l'ennemi.Peut aussi le geler.
+Une violente tempête de neige s'abat sur l'ennemi.Peut aussi le geler.
+Projette un puissant rayon sur l'ennemi.Le lanceur doit se reposer au tour suivant.
+Crée un fabuleux mur de lumière qui réduit les dégâts causés par les capacités spéciales pendant cinq tours.
+Le lanceur se protège de toutes les attaques.Peut échouer si utilisée plusieurs fois de suite.
+Invoque de fortes pluies qui durent cinq tours,augmentant la puissance des capacités de type Eau et baissant celle des capacités de type Feu.
+Une attaque qui convertit la moitié des dégâts infligés en PV pour le lanceur.
+Crée un champ protecteur qui empêche toutes les altérations de statut pendant cinq tours.
+Libère une puissante décharge lumineuse qui inflige des dégâts à l'ennemi.
+Absorbe la lumière au premier tour et envoie un rayon puissant au tour suivant.
+Attaque l'ennemi avec une queue de fer.Peut aussi baisser sa Défense.
+Une grosse décharge électrique tombe sur l'ennemi.Peut aussi le paralyser.
+La foudre tombe sur l'ennemi pour lui infliger des dégâts. Peut aussi le paralyser.
+Le lanceur provoque un tremblement de terre touchant tous les Pokémon autour de lui.
+Un coup rapide qui affecte la mobilité de l'ennemi et diminue sa Vitesse.
+Le lanceur creuse un tunnel au premier tour et frappe au second. Permet également de sortir d'une grotte,entre autres.
+Une puissante force télékinétique frappe l'ennemi.Peut aussi faire baisser sa Défense Spéciale.
+Projette une grande ombre sur l'ennemi.Peut aussi faire baisser sa Défense Spéciale.
+Le lanceur attaque avec le tranchant de la main.Permet aussi de briser les barrières comme Mur Lumière et Protection.
+Le lanceur se déplace si vite qu'il crée des copies illusoires de lui-même, augmentant son Esquive.
+Crée un fabuleux mur de lumière qui réduit les dégâts causés par les capacités physiques pendant cinq tours.
+Le lanceur envoie un choc électrique rapide à l'ennemi.Impossible à esquiver.
+L'ennemi reçoit un torrent de flammes.Peut aussi le brûler.
+Des détritus toxiques sont projetés sur l'ennemi.Peut aussi l'empoisonner.
+Une tempête de sable blesse tous les Pokémon pendant cinq tours, sauf ceux de type Roche, Sol ou Acier.Augmente la Défense Spéciale des Pokémon Roche.
+Un déluge de flammes ardentes submerge l'ennemi.Peut aussi le brûler.
+Des rochers frappent l'ennemi.Réduit aussi sa Vitesse.
+Le lanceur prend l'ennemi de vitesse et le lacère.N'échoue jamais.
+Le lanceur irrite l'ennemi pour l'empêcher d'utiliser la même capacité deux fois de suite.
+Une attaque dont la puissance double lorsque le lanceur est empoisonné, paralysé ou brûlé.
+Après son attaque, le lanceur revient à toute vitesse et change de place avec un Pokémon de l'équipe prêt au combat.
+Le lanceur regagne tous ses PV et soigne ses altérations de statut, puis il dort pendant deux tours.
+Si l'ennemi est du sexe opposé, il tombe amoureux et rechigne alors à attaquer.
+Le lanceur attaque la cible et vole son objet.Le lanceur ne peut rien voler s'il tient déjà un objet.
+Le lanceur frappe l'ennemi avec des ailes d'acier.Peut aussi augmenter la Défense du lanceur.
+Le lanceur utilise ses pouvoirs psychiques pour échanger son talent avec la cible.
+L'ennemi est attaqué par un jet d'eau bouillante.Peut aussi le brûler.
+Attaque l'ennemi à pleine puissance.Le contrecoup baisse beaucoup l'Attaque Spéciale du lanceur.
+Le lanceur atterrit et se repose.Restaure jusqu'à la moitié de ses PV max.
+Le lanceur rassemble ses forces et laisse éclater son pouvoir. Peut aussi baisser la Défense Spéciale de l'ennemi.
+Utilise les pouvoirs de la nature pour attaquer l'ennemi.Peut aussi baisser sa Défense Spéciale.
+Le lanceur retient ses coups pour que l'ennemi garde au moins 1 PV et ne tombe pas K.O.
+Cette attaque est deux fois plus puissante lorsque l'ennemi a moins de la moitié de ses PV.
+Le lanceur envoie l'objet qu'il tient sur l'ennemi.La puissance et les effets dépendent de l'objet.
+Le lanceur tire un rayon chargé d'électricité.Peut aussi augmenter son Attaque Spéciale.
+Le lanceur résiste aux attaques avec 1 PV.Peut échouer si utilisée plusieurs fois de suite.
+Le lanceur ouvre la bouche pour envoyer une onde de choc qui frappe l'ennemi.
+Un coup de poing qui draine l'énergie.Convertit la moitié des dégâts infligés en PV pour le lanceur.
+Lance un bouquet de flammes maléfiques à l'ennemi pour lui infliger une brûlure.
+Le lanceur fait vibrer son corps pour lancer une vague sonique. Peut aussi baisser la Défense Spéciale de l'ennemi.
+Stimule l'esprit par de mauvaises pensées.Augmente beaucoup l'Attaque Spéciale du lanceur.
+Le lanceur explose et inflige des dégâts à tous les Pokémon autour de lui. Met K.O. le lanceur.
+Attaque avec une griffe puissante faite d'ombres.Taux de critiques élevé.
+Le lanceur concentre son énergie puis attaque.La puissance de cette capacité est doublée si le lanceur agit après l'ennemi.
+Recycle un objet tenu à usage unique déjà utilisé lors du combat pour pouvoir l'utiliser à nouveau.
+Le lanceur charge l'ennemi de toute sa puissance et doit ensuite se reposer au tour suivant.
+Le lanceur polit son corps pour diminuer sa résistance au vent. Augmente beaucoup la Vitesse.
+Une explosion lumineuse qui baisse la Précision de l'ennemi.Permet aussi d'éclairer les grottes trop sombres.
+Fait surgir des pierres aiguisées sous l'ennemi.Taux de critiques élevé.
+Une capacité dont la puissance est doublée si le lanceur a été blessé par l'ennemi durant le tour.
+Un faible choc électrique frappe l'ennemi.Si l'attaque le touche, celui-ci est paralysé.
+Le lanceur effectue une rotation et frappe l'ennemi.Plus la Vitesse du lanceur est basse par rapport à celle de sa cible, plus il inflige de dégâts.
+Une danse frénétique qui exalte l'esprit combatif.Augmente beaucoup l'Attaque du lanceur.
+Lance des pierres flottantes autour de l'ennemi,qui blessent tout adversaire entrant au combat.
+Une autohypnose qui permet au lanceur de copier les changements de stats de la cible.
+Le lanceur hurle sur l'ennemi.Baisse l'Attaque Spéciale de l'ennemi.
+Le lanceur dégage une horrible aura chargée de pensées maléfiques. Peut aussi apeurer l'ennemi.
+Envoie de gros rochers sur l'ennemi pour infliger des dégâts. Peut aussi l'apeurer.
+Le lanceur taillade l'ennemi en utilisant ses faux ou ses griffes comme une paire de ciseaux.
+Le lanceur utilise une de ses capacités au hasard pendant qu'il dort.
+Le lanceur piétine le sol et inflige des dégâts à tous les Pokémon autour de lui. Baisse aussi leur Vitesse.
+Attaque l'ennemi avec un tentacule, un bras,ou un autre membre plein de poison.Peut aussi l'empoisonner.
+Le lanceur mange le rêve de l'ennemi endormi et récupère en PV la moitié des dégâts infligés.
+L'ennemi est piégé dans de l'herbe qui le fait trébucher.Plus il est lourd, plus la puissance de cette capacité augmente.
+Fait enrager la cible et la plonge dans la confusion,mais augmente beaucoup son Attaque.
+Le lanceur picore la cible.Si cette dernière tient une Baie, le lanceur la mange et profite de ses effets.
+Après son attaque, le lanceur revient à toute vitesse et change de place avec un Pokémon de l'équipe prêt au combat.
+Le lanceur crée un clone en sacrifiant quelques PV.Ce clone sert de leurre.
+Le lanceur concentre son énergie lumineuse et la fait exploser.Peut aussi baisser la Défense Spéciale de l'ennemi.
+Le lanceur crée une zone mystérieuse où les Pokémon les plus lents frappent en priorité pendant cinq tours.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Une des capacités secrètes de la Pokémontre.Coupe l'ennemi avec des lames ou des griffes.
+Une des capacités secrètes de la Pokémontre.Le lanceur s'envole au premier tour et frappe au second.
+Une des capacités secrètes de la Pokémontre.Une énorme vague s'abat sur le champ de bataille et inflige des dégâts à tous les Pokémon autour du lanceur.
+Une des capacités secrètes de la Pokémontre.Le lanceur cogne l'ennemi de toutes ses forces.
+Une des capacités secrètes de la Pokémontre. Disperse certains effets mis en place par l'ennemi, tels que Protection ou Mur Lumière. Diminue aussi son Esquive.
+Une des capacités secrètes de la Pokémontre.Porte un coup de poing à l'ennemi, ce qui peut baisser sa Défense.
+Une des capacités secrètes de la Pokémontre.Le lanceur charge l'ennemi à une vitesse remarquable,ce qui peut l'apeurer.
+Une des capacités secrètes de la Pokémontre.Le lanceur charge l'ennemi, ce qui peut rendre ce dernier confus.
+Un immense socle carré en pierre.
+Un immense socle rond en pierre.
+Un immense socle en pierre particulièrement lourd,en forme de trapèze.
+Un immense socle parfaitement transparent.
+Un immense socle rond qui pivote vers la droite.
+Un immense socle rond qui pivote vers la gauche.
