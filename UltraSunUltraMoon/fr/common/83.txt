@@ -1,0 +1,38 @@
+Communication en cours... Veuillez patienter.
+Que voulez-vous faire ?
+Voulez-vous arrêter de jouer ensemble ?
+Déconnexion...
+Vous laissez <var> décider...
+La connexion a été interrompue.
+Communication en cours... Veuillez patienter.
+Choisi : Combat Solo
+Choisi : Combat Duo
+Choisi : Bataille Royale
+Choisi : Échange Link
+<var> vous laisse le choix. Que voulez-vous faire ?
+<var> ne peut pas faire d'échange pour le moment, car une erreur de connexion ou d'alimentation est survenue durant son dernier échange ou sa dernière connexion à la GTS. Veuillez patienter un certain temps avant de proposer un nouvel échange.
+Vous ne pouvez pas faire d'échange pour le moment, car une erreur de connexion ou d'alimentation est survenue durant votre dernier échange ou votre dernière connexion à la GTS. Veuillez patienter un certain temps avant de proposer un nouvel échange.
+<var> n'a qu'un Pokémon. Impossible de faire un échange.
+Votre partenaire et vous n'avez qu'un Pokémon. Impossible de faire un échange.
+<var> n'a qu'un Pokémon dans son équipe ou ses Boîtes PC. Impossible de faire un Combat Duo.
+Votre partenaire et vous n'avez qu'un Pokémon dans vos équipes ou vos Boîtes PC. Impossible de faire un Combat Duo.
+<var>
+Combat Solo
+Combat Duo
+
+Échange Link
+Laisser l'autre joueur décider
+<var> fait son choix...
+Permet de lancer un combat de Pokémon. Chaque Dresseur a besoin d'au moins un Pokémon admissible.
+Permet de lancer un combat de Pokémon. Chaque Dresseur a besoin d'au moins deux Pokémon admissibles dans son équipe ou dans ses Boîtes.
+Permet d'échanger des Pokémon. Chaque Dresseur a besoin d'au moins deux Pokémon.
+Permet de lancer un combat de Pokémon. Chaque Dresseur a besoin d'au moins un Pokémon admissible.
+Permet de laisser l'autre joueur décider de ce que vous allez faire.
+Choix entre Combat Solo, Combat Duo et Échange Link.
+Échange Link
+Combat Solo
+Combat Duo
+
+Laisser l'autre joueur décider
+Oui
+Non

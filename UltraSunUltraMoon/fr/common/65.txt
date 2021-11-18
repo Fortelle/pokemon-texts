@@ -1,0 +1,135 @@
+Communication en cours... Veuillez patienter.
+Choisissez la personne qui décidera des règles.
+Sélection de la personne qui décidera des règles. Si vous affrontez un adversaire qui joue à Pokémon Soleil ou Pokémon Lune, veuillez sélectionner « Décider soi-même ».
+Sélection de la personne qui décidera des règles et de la répartition des équipes en Combat Multi. Si l'un des participants joue à Pokémon Soleil ou Pokémon Lune, veuillez sélectionner « Décider soi-même ».
+Sélection de la personne qui décidera des règles en cours. Veuillez patienter.
+Choisissez les règles de combat.
+Envoi des données des règles en cours... Veuillez patienter.
+Les données des règles envoyées sont corrompues. Veuillez reprendre la sélection depuis le début.
+Un problème a été détecté dans les données des règles envoyées. Veuillez reprendre la sélection depuis le début.
+Un problème a été détecté dans les données des règles reçues. Retour à la sélection.
+Les données des règles reçues sont corrompues. Retour à la sélection.
+Au moins une personne ne peut participer à ce combat avec les règles actuelles. Retour à la sélection.
+Retour à la sélection des règles.
+En attente d'autres joueurs... Veuillez patienter.
+
+Veuillez sélectionner les équipes.
+Sélection des équipes en cours... Veuillez patienter.
+Qui sera en position <var> ?
+Choisissez les Pokémon participants.
+Voulez-vous continuer à jouer ?
+Vous avez décidé d'abandonner le combat.
+En attente d'une réponse de votre partenaire.
+Début d'un autre combat avec des règles différentes.
+Quelqu'un a décidé de quitter la partie.
+Début d'un autre combat avec des règles différentes.
+Début d'un autre combat avec les mêmes règles.
+Voulez-vous sélectionner des règles de combat différentes ?
+Envoi de votre réponse : vous ne souhaitez pas combattre en suivant ces règles.
+
+Voulez-vous annuler le combat ?
+Fin de la communication...
+Un participant a mis fin à la communication. Fin du combat.
+Si vous ne pouvez pas participer à un combat avec les règles actuelles, sélectionnez l'option Participation impossible.
+Choisissez qui va décider des règles.
+Voulez-vous laisser un autre joueur décider des règles ?
+<var> est en train de décider des règles.
+<var> a refusé de décider des règles.
+Sélectionnez votre équipe, puis commencez le combat.
+
+Un problème a été détecté dans l'Équipe Combat sélectionnée.
+Veuillez vérifier vos Pokémon et recommencer la sélection.
+Vous ne pouvez pas affronter l'Équipe Combat de votre adversaire car il vous manque les dernières données additionnelles. Votre adversaire va recommencer la sélection de son équipe.
+Un problème a été détecté dans l'Équipe Combat de votre adversaire.
+Décider soi-même
+Laisser un adversaire décider
+Jouer avec des règles différentes
+Jouer avec les mêmes règles
+
+
+
+Que le combat commence !
+Équipe participante :
+<var>
+Participation impossible
+Non sélectionnée
+Équipe A (1)
+Équipe A (2)
+Équipe B (1)
+Équipe B (2)
+---
+<var>
+Confirmer les équipes
+Oui
+Non
+<var>
+Sélection automatique
+Retour
+Nouvelle sélection
+Confirmer
+<var>
+Sélection en cours...
+Terminé !
+
+
+1
+2
+3
+4
+
+---
+
+Combat Solo
+Combat Duo
+Combat Multi
+Bataille Royale
+Règles normales
+Règles strictes
+Sans restrictions
+♪ Dresseur Pokémon (2)
+♪ Pokémon sauvage (2)
+♪ Pokémon Dominant
+♪ Doyen/Doyenne
+♪ Tili
+♪ VS Gladio
+♪ Team Skull
+♪ Admin Team Skull
+♪ Boss Team Skull
+♪ Fondation Æther
+♪ Elsa-Mina
+♪ Elsa-Mina (2)
+♪ Ultra-Chimère
+♪ VS Conseil 4
+♪ Défense du titre de Maître
+♪ Pokémon légendaire
+♪ Bataille Royale
+♪ Gardien de l'île
+♪ Dresseur de légende
+♪ Team Rainbow Rocket
+♪ Giovanni
+♪ Max et Arthur
+♪ Hélio
+♪ Ghetis
+♪ Boss Team Flare
+♪ Ultra-Commando
+♪ Necrozma
+♪ Necrozma (2)
+♪ Mewtwo
+♪ Pokémon de Kanto
+♪ Pokémon de Hoenn
+♪ Légende de Hoenn (2)
+♪ Légende de Hoenn
+♪ Ho-Oh
+♪ Lugia
+♪ Légende de Johto
+♪ Légende de Sinnoh (2)
+♪ Légende de Sinnoh (3)
+♪ Légende de Sinnoh
+♪ Giratina
+♪ Légende d'Unys
+♪ Légende d'Unys (2)
+♪ Légende de Kalos
+♪ Dresseur Pokémon
+♪ Pokémon sauvage
+♪ Tili (2)
+

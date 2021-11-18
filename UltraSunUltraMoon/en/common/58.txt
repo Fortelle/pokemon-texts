@@ -1,0 +1,45 @@
+The SD Card is full. You can't download data.
+No data was found on the server. Please try again later.
+Communication with the server was interrupted.
+Communication ended due to an error.
+Communication with the other Trainer was interrupted.
+Communication with the server was interrupted.
+Communication failed.
+Failed to connect with the other Trainer. Please start again from the beginning.
+The infrared transceiver may be broken. Please start again from the beginning. If the problem persists, please contact Nintendo Customer Service.
+The infrared connection failed. Please choose the same game option as the communication partner.
+An error has occurred on the server. Please try again. (Error Code: 090-0230)
+An error has occurred on the server. Please try again. (Error Code: 090-0231)
+The server is undergoing maintenance. Please try again later. (Error Code: 090-0232)
+An error has occurred on the Pokémon Global Link server. Please try again. (Error Code: 090-0200)
+An error has occurred on the Pokémon Global Link server. Please try again. (Error Code: 090-0201)
+An error has occurred on the Pokémon Global Link server. Please try again. (Error Code: 090-0202)
+An error has occurred on the Pokémon Global Link server. Please try again. (Error Code: 090-0203)
+An error has occurred on the Pokémon Global Link server. Disconnect from the Internet and try again. (Error Code: 090-0204)
+An error has occurred on the Pokémon Global Link server. Please try again. (Error Code: 090-0205)
+An error has occurred on the Pokémon Global Link server. Please try again. (Error Code: 090-0206)
+Game Sync was canceled because more time must pass before you can use Game Sync again. Please wait a bit before trying Game Sync again. (Error Code: 090-0207)
+An error has occurred on the Pokémon Global Link server. Please try again. (Error Code: 090-0208)
+An error has occurred on the Pokémon Global Link server. Please try again. (Error Code: 090-0209)
+You can't connect to the Pokémon Global Link due to ongoing maintenance. Please wait, and then try again. (Error Code: 090-0210)
+The connection of this software to the Pokémon Global Link is no longer supported. http://www.pokemon-gl.com (Error Code: 090-0211)
+An error has occurred on the Pokémon Global Link server. Please wait awhile, and then try again. (HTTP Error: 500)
+An error has occurred on the Pokémon Global Link server. Please wait awhile, and then try again. (HTTP Error: 502)
+An error has occurred on the Pokémon Global Link server. Please wait awhile, and then try again. (HTTP Error: 503)
+
+An error has occurred on the authentication-code server. Please try again. (Error Code: 090-0200)
+An error has occurred on the authentication-code server. Please try again. (Error Code: 090-0201)
+An error has occurred on the authentication-code server. Please try again. (Error Code: 090-0202)
+An error has occurred on the authentication-code server. Please try again. (Error Code: 090-0203)
+An error has occurred on the authentication-code server. Please try again. (Error Code: 090-0204)
+An error has occurred on the authentication-code server. Please try again. (Error Code: 090-0205)
+An error has occurred on the authentication-code server. Please try again. (Error Code: 090-0206)
+You can't connect to the authentication-code server due to ongoing maintenance. Please wait awhile, and then try again. (Error Code: 090-0210)
+The connection of Pokémon Sun and Pokémon Moon to the Pokémon Global Link is no longer supported. (Error Code: 090-0211)
+An error has occurred on the authentication-code server. Please wait awhile, and then try again. (HTTP Error: 500)
+An error has occurred on the authentication-code server. Please wait awhile, and then try again. (HTTP Error: 502)
+An error has occurred on the authentication-code server. Please wait awhile, and then try again. (HTTP Error: 503)
+The connection to Pokémon Global Link from this saved data has been denied. (Error Code: 090-0212)
+Game Sync from this saved data is denied. (Error Code: 090-0213)
+The SD Card could not be recognized. Press the POWER Button and insert the SD Card again.
+A communication error has occurred. Press the POWER Button and end the game.

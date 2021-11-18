@@ -1,0 +1,167 @@
+Argent
+
+Points de Combat
+Festipièces
+<var> $
+<var> $
+---
+
+<var> PCo
+<var> FP
+Quitter
+<var>
+<var>
+Permet de revenir à l'écran précédent.
+Dans le Sac :
+<var>
+×
+<var>
+Et voici !
+Vous n'avez pas assez d'argent.
+Vous n'avez plus de place pour cet objet !
+Oui
+Non
+Bienvenue à la Boutique Pokémon ! Que désirez-vous ?
+Bienvenue à la Boutique Pokémon, Maître ! Que désirez-vous ?
+Acheter
+Vendre
+Quitter
+Nous espérons vous revoir bientôt !
+Souhaitez-vous autre chose ?
+Combien <var> vous faut-il ?
+Alors, <var> <var>... Cela vous fera <var> $ !
+Alors, <var> <var>... Cela vous fera <var> $ !
+Achat rangé dans la Poche <var>.
+Nous vous offrons une Honor Ball en cadeau.
+Oh, mais vous avez un coupon ! Vous avez droit à une remise de <var> $.
+Vous pouvez utiliser votre coupon pour autant d'achats que vous voulez aujourd'hui ! N'hésitez pas à vous en servir !
+Bienvenue au point de vente des Capsules Techniques ! En quoi puis-je vous aider ?
+Vous possédez déjà cette CT.
+La CT<var> <var> ? Cela fera <var> $.
+La CT <var> a été rangée dans la Poche <var>.
+Ah, vous tombez bien ! Vous voulez échanger vos Points de Combat contre des objets, c'est bien ça ?
+Continuez à accumuler des Points de Combat et revenez me voir ! Promis, hein ?
+Ah là là, c'est vraiment dommage... Vous n'avez pas assez de Points de Combat...
+Combien <var> voulez-vous ?
+Alors, <var> <var>, ça fait <var> PCo. OK ?
+Alors, <var> <var>, ça fait <var> PCo. OK ?
+
+C'est fini pour aujourd'hui. Revenez demain !
+C'est fini pour aujourd'hui. Revenez demain !
+Alors, 1 <var>... Cela vous fera <var> FP !
+Alors, 1 <var>... Cela vous fera <var> FP !
+Voici pour vous. Au plaisir de vous revoir.
+Voici pour vous. Au plaisir de vous revoir.
+Vous rangez votre achat dans la Poche <var>.
+Je prends vos Festipièces !
+Je prends vos Festipièces !
+Vous n'avez pas assez de Festipièces...
+Vous n'avez pas assez de Festipièces...
+Vous ne pouvez pas en porter davantage !
+Vous ne pouvez pas en porter davantage !
+Choisissez un Pokémon.
+Choisissez un Pokémon.
+Cela n'aura aucun effet sur ce Pokémon.
+Cela n'aura aucun effet sur ce Pokémon.
+
+
+
+
+
+
+
+
+Bienvenue ! Ça vous dirait que j'enseigne une capacité à un Pokémon contre des PCo ?
+Accumulez des PCo et revenez me voir !
+À quel Pokémon voulez-vous l'apprendre ?
+Veuillez choisir une capacité à oublier pour apprendre <var>.
+<var> n'a pas appris <var> !
+1, 2, … … Tadaa ! <var> oublie <var>. Et…
+<var> apprend <var> !
+Dois-je enseigner d'autres capacités à un Pokémon ?
+Ah ! Ce Pokémon a l'air de déjà connaître cette capacité.
+Ah ! Ce Pokémon a l'air de ne pas pouvoir apprendre cette capacité.
+Je prends vos Points de Combat. Merci bien !
+Je regrette, mais vous n'avez pas assez de Points de Combat...
+Souhaiteriez-vous acquérir l'un de nos délicieux encens ?
+J'espère vous revoir bientôt !
+Désirez-vous autre chose ?
+Combien en désirez-vous ?
+<var> <var> ? Cela fera <var> $.
+<var> <var> ? Cela fera <var> $.
+Voilà pour vous ! Merci de votre visite !
+Je crois que vous ne pouvez pas en porter davantage...
+Mais vous n'avez pas assez d'argent !
+B'jour à toi ! Mes r'mèdes à base de plantes arrachent, mais y marchent comme pas deux !
+R'viens donc une aut' fois !
+Tu veux aut' chose ?
+T'en veux combien ?
+<var> <var>, ça fait <var> $. Ça t'va ?
+<var> <var>, ça fait <var> $. Ça t'va ?
+Le compte y est ! Tu m'en diras des nouvelles !
+T'en as déjà trop, toi !
+Désolé, mais t'as pas assez d'sous !
+Bienvenue à la Joaillerie Alyxia !
+Revenez nous voir !
+Désirez-vous autre chose ?
+Combien dois-je vous en préparer ?
+<var> <var>, pour un total de <var> $. Cela vous convient-il ?
+<var> <var>, pour un total de <var> $. Cela vous convient-il ?
+Et voilà ! Je vous ai tout empaqueté avec soin !
+Vous n'avez pas assez de place ! Comment faites-vous pour transporter tout ça, d'ailleurs ?
+Pardon, mais je crains que vous ne puissiez pas vous le permettre.
+Hé ! La mode, ça t'intéresse ? T'as pas envie de rafraîchir ton look ?
+Reviens me voir quand tu te seras acheté un peu de bon goût.
+Il y a un autre article qui t'intéresse ?
+Combien en veux-tu ?
+<var> <var> ? <var> $, donc. OK ?
+<var> <var> ? <var> $, donc. OK ?
+Ça donnera un coup de frais à ton look, et ça, c'est pas du luxe !
+Le problème, quand on dépense sans compter, c'est quand on ne peut plus rien porter de plus.
+Moi non plus, je ne regarde pas les prix quand j'achète de belles choses. Mais toi, tu devrais.
+Bienvenue !
+À bientôt !
+Excusez-moi, mais... est-ce que je peux voir le Cristal Z qui brille dans votre main ?
+Oh ! J'en déduis que vous avez triomphé de l'Épreuve d'Althéo...
+Oh ! J'en déduis que vous avez triomphé de l'Épreuve de Néphie...
+Oh ! J'en déduis que vous avez triomphé de l'Épreuve de Kiawe...
+Oh ! J'en déduis que vous avez triomphé de l'Épreuve de Barbara...
+Oh ! J'en déduis que vous avez triomphé de l'Épreuve de Chrys...
+Oh ! J'en déduis que vous avez triomphé de l'Épreuve de Margie...
+Oh ! J'en déduis que vous avez triomphé de l'Épreuve du Grand Canyon de Poni...
+Félicitations ! Pour fêter cela, permettez-moi d'augmenter le nombre de produits en vente !
+Alola a enfin son premier Maître ! Il faut célébrer votre triomphe... et votre visite chez nous !
+Mais votre voyage ne s'arrête pas avec l'obtention du titre de Maître.
+Comptez sur les Boutiques Pokémon pour continuer à vous épauler dans vos aventures !
+Attention, ça va brader ! Qu'est-ce que vous voulez, aujourd'hui ?
+Merci ! À la prochaine !
+Et vous voulez quoi d'autre ?
+<var> ? Combien en voulez-vous ?
+Alors, <var> <var>... Ça vous fera <var> $ !
+Alors, <var> <var>... Ça vous fera <var> $ !
+Vous m'en direz des nouvelles ! Merci, et à la prochaine !
+J'ai bien peur que le compte n'y soit pas...
+Ah, c'est dommage, mais vous pouvez pas en porter plus !
+Désirez-vous autre chose ?
+Voici pour vous. Au plaisir de vous revoir.
+Vous ne pouvez pas en porter davantage !
+Tiens, bonjour à vous ! Vous voulez échanger vos Points de Combat contre nos trésors, c'est bien ça ?
+Continuez à accumuler des Points de Combat et revenez me voir !
+Ah là là, c'est vraiment dommage... Vous n'avez pas assez de Points de Combat...
+Combien <var> voulez-vous ?
+Alors, <var> <var>, ça fait <var> PCo. Ça vous va ?
+Alors, <var> <var>, ça fait <var> PCo. Ça vous va ?
+Désirez-vous autre chose ?
+Et voici !
+Vous en avez trop !
+Bienvenue ! Vous pouvez échanger vos Points de Coolitude ici pour obtenir divers prix ! Ou bien s'agit-il de Points de Combat... ? ... Bref, vos PCo ! Voulez-vous en échanger contre un prix ?
+Revenez me voir quand vous aurez des PCo à échanger !
+Ah, vous n'avez pas assez de PCo... Désolée !
+Combien de <var> voulez-vous ?
+Vous voulez <var> <var>, c'est bien ça ? Ça fera <var> PCo !
+Vous voulez <var> <var>, c'est bien ça ? Ça fera <var> PCo !
+Désirez-vous autre chose ?
+Et voici !
+J'ai bien peur que vous en ayez déjà trop sur vous...
+Vous avez réussi l'Épreuve d'Oléa ?
+Félicitations ! Bon, cela ne changera rien à nos étalages, mais nous restons à votre service !
