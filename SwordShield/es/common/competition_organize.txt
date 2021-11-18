@@ -1,0 +1,71 @@
+Configura los datos del torneo.
+ Confirmar
+ Atrás
+Selecciona el período de duración.
+Selecciona la fecha de inicio.
+Selecciona la fecha de clausura.
+Selecciona el número máximo de combates.
+Selecciona las reglas para los límites de tiempo.
+Descargar
+No descargar
+Cualquier jugador
+Solo jugadores que conozcan el ID
+Sí
+No
+Atrás
+¿Quieres descargar reglamentos adicionales?
+Selecciona quién puede inscribirse en el torneo.
+¿Quieres ponerle un subtítulo al torneo?
+Organización del torneo
+Nombre del torneo
+<var>
+<var>
+Reglas
+Combate Individual
+Combate Doble
+Reglas normales
+Reglas de la Torre Batalla
+Sin restricciones
+
+<var>
+Período
+Del <var>/<var>/<var> (<var>:<var>)
+al
+<var>/<var>/<var> (<var>:<var>)
+Jugadores permitidos
+Cualquier jugador
+Solo jugadores que conozcan el ID
+Organizar
+¡Aviso!
+No puedes cancelar el torneo.
+Número de combates
+Hasta <var>
+Tiempo límite
+Tu tiempo: <var> min
+Tiempo total: <var> min
+Sin configurar
+<var>/<var>/<var>
+<var>/<var>/<var> (<var>:00)
+<var>/<var>/<var> (<var>:59)
+Período
+El <var>/<var>/<var> de --:-- a --:--
+El <var>/<var>/<var> de <var>:<var> a --:--
+El <var>/<var>/<var> de <var>:<var> a <var>:<var>
+Hasta <var>
+Tu tiempo: <var> min/Tiempo total: <var> min
+Tu tiempo: <var> min/Tiempo total: Sin límite
+Tu tiempo: Sin límite/Tiempo total: <var> min
+Distribuyendo el reglamento... No desconectes el cable LAN.
+Se ha distribuido el reglamento.
+El reglamento no se ha distribuido correctamente.
+Distribución de reglamentos
+Iniciar distribución
+El reglamento se enviará a otros jugadores mediante comunicación local.
+El reglamento se enviará a otro jugador mediante comunicación LAN.
+ Interrumpir distribución
+Distribuyendo el reglamento... Pulsa el botón B para cancelar.
+Se ha cancelado la distribución.
+Esperando para conectar...
+Utiliza un cable LAN para conectarte con otro jugador.
+Iniciar distribución
+Pulsa el botón para iniciar la distribución.

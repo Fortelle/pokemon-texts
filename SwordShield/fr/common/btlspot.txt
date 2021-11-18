@@ -1,0 +1,500 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Veuillez choisir un mode de jeu.
+ Aide
+ Sélectionner
+ Retour
+
+
+Veuillez choisir un format de combat.
+ Capture d'écran
+À quelle compétition souhaitez-vous vous inscrire ?
+ S'inscrire
+ Règlement
+ Informations
+Vous pouvez annuler l'inscription de la personne choisie.
+ Vérifier les équipes
+ Valider
+ Annuler
+Faire un nouveau combat
+Changer d'Équipe Combat
+Arrêter
+Oui
+Non
+Combat Solo
+Combat Duo
+Retour
+Oui
+
+
+Vérifier de nouveau
+Oui
+Non
+Oui
+Non
+Format de combat
+Combat Solo
+Combat Solo
+Combat Duo
+Combat Duo
+Combat classé
+Combat amical
+Compétition officielle
+Tournoi amical
+Compétition Internet
+<var>
+N. <var>
+<var>
+<var>
+<var>
+<var>
+<var>
+Du <var>/<var>/<var> à <var>:<var>
+au
+<var>/<var>/<var> à <var>:<var>
+<var>
+Période
+<var>
+/
+<var>
+Informations
+Nom de la compétition
+Nom de la compétition
+ID Compétition
+ID Compétition
+ID Compétition
+Organisateur
+Limite de temps
+Temps individuel : <var> minutes
+Temps total : <var> minutes
+Nombre de combats
+Temps de combat
+Temps de combat
+Format
+Nombre de Pokémon
+Niveau des Pokémon
+Niveau des Pokémon
+Pokémon spéciaux
+Mêmes Pokémon
+Mêmes objets
+Nombre d'inscrits
+Pokémon autorisés
+
+<var> minutes
+<var> minutes
+<var> minutes
+<var> par jour maximum
+<var>:<var> - <var>:<var>
+Règles normales
+Règles de la Tour de Combat
+Sans restrictions
+<var>
+<var>
+Sans restrictions
+<var> ou plus
+<var> ou moins
+Jusqu'au niveau <var>
+Tous au niveau <var>
+Au niveau <var>
+Autorisés
+Interdits
+Autorisés
+Interdits
+<var>
+Pokémon rencontrés à Galar uniquement
+Tous les Pokémon
+
+De <var> à <var>
+En Combat Solo, chaque Dresseur envoie un Pokémon à la fois au combat.
+En Combat Duo, chaque Dresseur envoie deux Pokémon à la fois au combat.
+Voici les résultats de la dernière compétition officielle.
+Voici les résultats du dernier tournoi amical.
+Stade de Combat
+Combat amical
+Combat classé
+Compétition Internet
+Équipes d'emprunt
+Télécharger un règlement
+Ce mode vous permet de combattre librement sans vous soucier du classement.
+Ce mode vous permet de combattre pour la gloire de se hisser au sommet du classement.
+Ce mode vous permet de participer aux compétitions en cours.
+Ici, vous pouvez emprunter l'Équipe Combat d'un autre joueur ou partager la vôtre.
+Vous pouvez télécharger divers règlements propres à chaque format de combat.
+
+
+
+
+
+
+
+
+Cadeaux
+Vous pouvez recevoir ici les objets et PCo remportés lors de combats classés.
+Saison <var>
+Du <var>/<var>/<var> à <var>:<var>
+au
+<var>/<var>/<var> à <var>:<var>
+Combat Solo
+Combat Duo
+Niveau Débutant
+Niveau Poké Ball
+Niveau Super Ball
+Niveau Hyper Ball
+Niveau Master Ball
+Rang
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+MAX
+
+
+Classement
+Nº <var>
+Voulez-vous rendre les informations relatives à votre Équipe Combat visibles à votre adversaire ?
+
+
+
+
+
+
+
+
+Les résultats de vos combats ont été pris en compte !
+Vous avez atteint le rang supérieur ! Félicitations !
+Vous avez atteint le rang maximal ! Félicitations !
+♪ dummy 1
+Recherche d'un adversaire en cours...
+Le combat va bientôt commencer !
+Aucun adversaire n'a été trouvé. Veuillez réessayer ultérieurement.
+Nombre de combats
+<var>
+Victoires
+<var>
+Défaites
+<var>
+Cote
+<var>
+Chercher une compétition officielle
+Participer à une compétition officielle
+Chercher un tournoi amical
+Organiser un tournoi amical
+Participer à un tournoi amical
+Résultats des compétitions précédentes
+Les inscriptions sont ouvertes !
+Cette option vous permet de choisir une compétition officielle à laquelle vous inscrire.
+Cette option vous permet de participer à une compétition officielle à laquelle vous êtes inscrit.
+Cette option vous permet de choisir un tournoi amical auquel vous inscrire.
+Cette option vous permet d'organiser un tournoi amical et de recruter des participants.
+Cette option vous permet de participer à un tournoi amical auquel vous êtes inscrit.
+Cette option vous permet de voir votre classement dans la compétition précédente.
+
+
+
+
+
+
+
+
+
+
+Compétition officielle
+Tournoi amical
+Combattre
+Licence Numérique
+Voir les infos sur la compétition
+Liste des participants
+Se désinscrire
+Cote
+<var>
+Classement actuel
+Nº <var>
+Calcul en cours...
+Aucun
+Cette option vous permet de combattre un adversaire pour évoluer dans le classement.
+Cette option vous permet de visualiser les données de cette compétition.
+Cette option vous permet de voir le format de combat utilisé pendant cette compétition.
+Cette option vous permet de voir la liste des participants à la compétition.
+Cette option vous permet de vous désinscrire de cette compétition.
+Résultats des compétitions précédentes
+Score final
+Votre classement
+Nº <var>
+Cote finale
+<var>
+Tournois amicaux
+Chercher dans la liste
+Saisir un ID Compétition
+Veuillez sélectionner un format de combat.
+Cette option vous permet de choisir un tournoi depuis la liste des compétitions ouvertes.
+Cette option vous permet de saisir un ID Compétition pour vous inscrire.
+Informations
+Nom de la compétition
+
+
+ID Compétition
+
+Organisateur
+
+Période de la compétition
+
+
+
+
+
+
+Limite de temps
+Temps individuel
+<var> minutes
+Temps total
+<var> minutes
+Nombre d'inscrits
+<var>
+
+Pokémon autorisés
+Pokémon du Pokédex de Galar
+Pokémon du Pokédex national
+Voulez-vous vous inscrire à cette compétition ?
+Le système va vérifier si votre Équipe Combat ne comporte aucun Pokémon interdit.
+Compétitions ouvertes
+<var>
+Nom de la compétition
+<var>
+<var>
+Nombre d'inscrits
+<var>
+Période
+Du <var>/<var>/<var> à <var>:<var>
+au
+<var>/<var>/<var> à <var>:<var>
+Organisateur
+<var>
+Licence Numérique
+Nombre de combats
+<var>
+Victoires
+<var>
+Défaites
+<var>
+Voici les informations relatives à la compétition à laquelle vous participez actuellement.
+Enregistrement d'une Équipe Combat avant le début de votre premier combat.
+
+
+
+
+
+
+
+La saison est terminée. Veuillez patienter jusqu'à la prochaine saison.
+Récupération des données en cours... Ne pas éteindre la console.
+Le règlement a été mis à jour.
+Connexion en cours... Ne pas éteindre la console.
+Une erreur de connexion est survenue. Veuillez recommencer depuis le début.
+Voulez-vous continuer de combattre ?
+Une nouvelle saison a commencé ! Votre rang a été modifié en raison du changement de saison.
+La saison est terminée.
+La mise à jour de vos résultats prendra un peu de temps. Voulez-vous continuer de combattre ?
+Vérification des données de la compétition... Ne pas éteindre la console.
+La compétition à laquelle vous avez pris part est terminée. Votre Équipe Combat est déverrouillée.
+Si vous déclarez forfait, vous ne pourrez plus participer à cette compétition. Voulez-vous abandonner la compétition « <var> » ?
+Cela signifie que vous ne pourrez plus reprendre la compétition « <var> ». Voulez-vous vraiment annuler votre participation ?
+Votre participation à la compétition a été annulée. Votre Équipe Combat est déverrouillée.
+Il n'y a pas de compétition ouverte pour le moment.
+La compétition à laquelle vous avez pris part est maintenant terminée.
+Vous ne pouvez pas participer à cette compétition.
+Veuillez sélectionner une Équipe Combat pour participer à cette compétition.
+La compétition à laquelle vous êtes inscrit n'a pas encore commencé.
+Vous avez déclaré forfait avant la fin de cette compétition.
+Votre inscription a été enregistrée et votre Équipe Combat est maintenant verrouillée. Les préparatifs pour votre participation à la compétition sont terminés.
+Vous ne pouvez pas combattre à cette heure-ci. Pour savoir à quels horaires vous pouvez le faire, consultez le site officiel de Pokémon.
+Vous avez atteint le nombre maximal de combats pour aujourd'hui. Vous ne pouvez pas prendre part à un autre combat avant demain.
+Une erreur de connexion est survenue.
+Recherche de compétitions en cours...
+Aucune compétition n'a été trouvée.
+Aucune compétition n'a été trouvée. Veuillez vérifier que l'ID Compétition a été saisi correctement.
+Le système va vérifier si votre Équipe Combat ne comporte aucun Pokémon interdit.
+
+Impossible de vous réinscrire à une compétition que vous avez abandonnée.
+La période d'inscription de cette compétition est terminée.
+Impossible de vous inscrire à cette compétition.
+Votre inscription a été validée !
+Voulez-vous voir l'Équipe Combat de votre adversaire ?
+Création de la compétition en cours... Veuillez patienter.
+Échec de la création de la compétition. Veuillez réessayer.
+Les données de la compétition ont été créées avec succès ! Partagez l'ID Compétition avec vos amis pour participer tous ensemble ! Si vous avez choisi d'ouvrir la compétition à tout le monde et de réunir au moins un certain nombre de participants, d'autres joueurs pourront s'inscrire à la compétition en la sélectionnant dans la liste.
+Vous pouvez consulter les informations relatives aux compétitions que vous avez créées quand vous le voulez depuis le menu « Compétitions ».
+Il y a un problème avec un ou plusieurs Pokémon inscrits.
+Voulez-vous rendre les informations relatives à votre Équipe Combat visibles à votre adversaire ?
+Vous avez reçu <var> PCo !
+
+Vous avez reçu <var> !
+
+
+
+
+
+Vous avez atteint le plus haut rang ! Félicitations ! Pour célébrer cet exploit, chaque Pokémon de votre Équipe Combat reçoit un Ruban Top du Classement !
+Vous avez atteint le rang supérieur ! Félicitations ! Pour célébrer cet exploit, voici quelques PCo !
+Merci de continuer de jouer aux combats classés ! Voici <var> en cadeau !
+Voici votre classement pour la saison précédente en Combat Solo : <var>, rang <var> ! Une récompense vous attend ! Pour la recevoir, sélectionnez « Cadeau Mystère ».
+Dans ce combat, les autres joueurs peuvent voir les surnoms de vos Pokémon.
+Les résultats de la compétition sont disponibles ! Pour les connaître, sélectionnez l'option « Résultats de la dernière compétition »
+Vous n'avez pas encore récupéré la récompense de la compétition officielle précédente. Pour la recevoir, sélectionnez « Cadeau Mystère ».
+Vous avez atteint le niveau Master Ball ! Félicitations ! Poursuivez les combats pour tenter d'atteindre le meilleur rang au sein de ce niveau !
+Voici votre classement pour la saison précédente en Combat Solo : Niveau Master Ball, rang MAX ! Vous finissez à la place numéro <var> ! Une récompense vous attend ! Pour la recevoir, sélectionnez « Cadeau Mystère ».
+La réception des données du combat amical a échoué.
+La réception des données nécessaires au combat a échoué.
+Vous ne pouvez pas vous inscrire à cette compétition, car un autre utilisateur de cette console est déjà inscrit.
+Voici votre classement pour la saison précédente en Combat Duo : <var>, rang <var> ! Une récompense vous attend ! Pour la recevoir, sélectionnez « Cadeau Mystère ».
+Voici votre classement pour la saison précédente en Combat Duo : Niveau Master Ball, rang MAX ! Vous finissez nº <var> dans le classement ! Une récompense vous attend ! Pour la recevoir, sélectionnez « Cadeau Mystère ».
+Le calcul des résultats de la dernière compétition à laquelle vous avez participé est en cours. Veuillez patientez jusqu'à l'obtention de ces résultats.
+Recherche d'un adversaire en cours...
+Un adversaire a été trouvé !
+Votre combat contre <var> va commencer !
+Votre combat contre <var> (rang <var>) va commencer !
+Votre combat contre <var> (nº <var> dans le classement) va commencer !
+Votre combat contre <var> (cote <var>) va commencer !
+Aucun adversaire n'a été trouvé. Veuillez réessayer ultérieurement.
+Aucune mise à jour n'est disponible.
+Vous avez gagné des points !
+Vous avez perdu des points.
+Vous êtes maintenant nº <var> dans le classement !
+Vous avez gagné assez de points pour atteindre le rang supérieur !
+Vous avez atteint le rang MAX !
+Vous avez atteint le niveau Poké Ball !
+Vous avez atteint le niveau Super Ball !
+Vous avez atteint le niveau Hyper Ball !
+Vous avez atteint le niveau Master Ball !
+Actualiser le rang
+Avant de participer à une compétition, veuillez lire les avertissements suivants. Si vous êtes mineur, veuillez les lire accompagné d'un parent ou d'un tuteur.
+Si vous vous êtes placés dans le haut du classement d'une compétition déterminant les joueurs invités aux compétitions live organisées au Japon, il se peut que The Pokémon Company vous contacte via l'adresse e-mail liée à votre compte Nintendo.
+Dans le cas des compétitions où vous pouvez recevoir des points sur votre compte au Club des Dresseurs Pokémon, la date de naissance indiquée sur votre compte Nintendo doit correspondre à celle de votre compte au Club des Dresseurs Pokémon. Si les dates ne correspondent pas, vous ne recevrez aucun point.
+
+Je participe à cette compétition en ayant lu et accepté ses règles de combat, ses conditions de participation, les avertissements la concernant, etc., tels que formulés dans les nouvelles des jeux Pokémon Épée et Pokémon Bouclier ainsi que sur les sites officiels Pokémon de The Pokémon Company et de ses filiales.
+Un seul utilisateur par console est autorisé à participer à cette compétition. Si vous vous inscrivez à une compétition, il sera donc impossible pour un autre utilisateur de cette console de s'inscrire à cette compétition via Pokémon Épée.
+Un seul utilisateur par console est autorisé à participer à cette compétition. Si vous vous inscrivez à une compétition, il sera donc impossible pour un autre utilisateur de cette console de s'inscrire à cette compétition via Pokémon Bouclier.
