@@ -1,0 +1,185 @@
+USE
+DISCARD
+REGISTER
+GIVE
+
+WALK
+
+CANCEL
+
+
+
+
+
+
+DESELECT
+
+
+/
+—
+
+
+♂
+♀
+L
+
+
+
+
+
+
+
+
+×
+
+
+<var> selected.
+
+This is a Key Item. You can't throw it away.
+Throw away how many <var>?
+Threw away <var> <var>.
+
+Is it OK to throw away <var> <var>?
+
+Your father's words echo in your mind... "<var>! This isn't the time for that!"
+
+
+<var> used the <var>.
+Since a repellent's effects still linger, you can't use this now.
+<var> used the <var>! The likelihood of encountering Pokémon increased!
+<var> used the <var>! The likelihood of encountering Pokémon decreased!
+TM<var> <var>
+HM<var> <var>
+
+
+
+
+
+PP
+POWER
+ACCURACY
+CATEGORY
+
+
+TYPE
+Nothing
+
+
+
+Sorted items by type!
+Sorted items by name!
+Sorted items from most to fewest held!
+Sorted items from fewest to most held!
+
+
+
+
+
+
+
+How do you want to sort your items?
+By Type
+By Name
+From Most
+From Fewest
+By Number
+
+Sorted items by number!
+
+Give to which Pokémon?
+<var> is already holding <var>. Would you like to switch the two items?
+The Pokémon is now holding the <var>.
+Took the Pokémon's <var> and gave it the <var>.
+Use on which Pokémon?
+Teach which Pokémon?
+The <var> can't be held.
+
+Booted up a TM.
+Booted up an HM.
+It contained <var>. Teach <var> to <var>?
+<var> wants to learn the move <var>. However, <var> already knows four moves. Should a move be deleted and replaced with <var>?
+Which move should be forgotten?
+1, 2, and... ... ... Ta-da! <var> forgot how to use <var>. And... <var> learned <var>!
+Give up on learning the move <var>?
+<var> did not learn <var>.
+<var> and <var> are not compatible. <var> can't be learned.
+<var> already knows <var>.
+<var> learned <var>!
+<var>
+It won't have any effect.
+<var>'s HP was restored by <var> points.
+<var> was cured of poisoning.
+<var> was cured of paralysis.
+<var>'s burn was healed.
+<var> was thawed out.
+PP was restored.
+<var> recovered from fainting!
+<var> became healthy.
+<var>'s PP increased.
+<var>'s base <var> rose!
+There's no Pokémon.
+<var> woke up!
+MAX HP
+ATTACK
+DEFENSE
+SP. ATK
+SP. DEF
+SPEED
++ <var>
+<var> was elevated to Lv. <var>!
+ATTACK
+DEFENSE
+SP. ATK
+SP. DEF
+SPEED
+HP
+<var> became more friendly. However, its base <var> fell!
+<var> adores you! Its base <var> fell!
+<var> became more friendly. Its base <var> can't go lower.
+Restore which move?
+Boost the PP of which move?
+ABLE!
+UNABLE!
+LEARNED
+ABLE!
+UNABLE!
+LAST USED ITEMS
+HELD ITEM
+Do what with the <var> on <var>?
+You can register up to four items to use with the Ready button.
+Would you like to change <var>'s Ability to <var>?
+<var>'s Ability changed to <var>!
+It cannot be fused with that Pokémon.
+It cannot be fused with that fainted Pokémon.
+It cannot be fused with an Egg.
+You have no room to separate the Pokémon.
+Fuse with which Pokémon?
+This can't be used on the fainted Pokémon.
+<var> changed Forme!
+<var>
+$<var>
+The Exp. Share was turned on.
+The Exp. Share was turned off.
+You don't have any contact lenses.
+You have <var> lenses.
+You have <var> and <var> lenses.
+You have <var>, <var>, and <var> lenses!
+You have <var>, <var>, <var>, and <var> lenses!
+You have <var> tickets.
+
+MONEY
+How many <var> will you sell?
+I can pay $<var>. Would that be OK?
+Turned over the <var> and received $<var>.
+Turned over the <var> and received $<var>.
+<var>? Oh no, I can't buy thatose.
+On
+Off
+Put away
+The Bag is full.
+BATTLE EFFECTS
+CONTEST EFFECTS
+APPEAL
+JAMMING
+<var> used a <var>! Now you're more likely to encounter high-level Pokémon!
+<var> used a <var>! Now you're more likely to encounter low-level Pokémon!

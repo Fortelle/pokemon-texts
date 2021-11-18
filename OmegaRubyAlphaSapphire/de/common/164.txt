@@ -1,0 +1,185 @@
+Einsetzen
+Müll
+Registrieren
+Geben
+
+Laufen
+
+Zurück
+
+
+
+
+
+
+Aufheben
+
+
+/
+-
+
+
+♂
+♀
+L
+
+
+
+
+
+
+
+
+x
+
+
+<var> ausgewählt.
+
+Basis-Items können nicht weggeworfen werden!
+Wie viele <var> sollen in den Müll wandern?
+<var> Exemplare des Items <var> wurden weggeworfen.
+
+Willst du wirklich <var> Exemplare des Items <var> wegwerfen?
+
+Vati sagt immer: „Dies ist weder die rechte Zeit noch der rechte Ort dafür!"
+
+
+<var> setzt das Item <var> ein.
+Das Schutz-Item wirkt noch!
+<var> hat das Item <var> eingesetzt! Dadurch steigt die Wahrscheinlichkeit, wilden Pokémon zu begegnen.
+<var> hat das Item <var> eingesetzt! Dadurch sinkt die Wahrscheinlichkeit, wilden Pokémon zu begegnen.
+Nr. <var> <var>
+VM<var> <var>
+
+
+
+
+
+AP
+Stärke
+Genauigkeit
+Kategorie
+
+
+Typ
+Nichts
+
+
+
+So, jetzt ist alles fein säuberlich nach Kategorie sortiert!
+So, jetzt ist alles fein säuberlich alphabetisch sortiert!
+So, jetzt ist alles fein säuberlich nach Anzahl (absteigend) sortiert!
+So, jetzt ist alles fein säuberlich nach Anzahl (aufsteigend) sortiert!
+
+
+
+
+
+
+
+Wonach möchtest du sortieren?
+Kategorie
+Alphabet
+Anzahl (abst.)
+Anzahl (aufst.)
+Numerisch
+
+So, jetzt ist alles fein säuberlich nach Nummern sortiert!
+
+Welchem Pokémon zum Tragen geben?
+<var> trägt bereits das Item <var>. Sollen die Items ausgetauscht werden?
+<var> wird nun getragen.
+<var> zurückgenommen und <var> zum Tragen gegeben.
+Auf welches Pokémon anwenden?
+Welches Pokémon erlernen lassen?
+Das Item <var> kann keinem Pokémon zum Tragen gegeben werden.
+
+Eine TM wurde aktiviert.
+Eine VM wurde aktiviert.
+Sie enthält <var>. Soll <var> die Attacke <var> beigebracht werden?
+<var> versucht, <var> zu erlernen. Aber <var> kann nur maximal vier Attacken erlernen. Soll eine andere Attacke durch <var> ersetzt werden?
+Welche Attacke soll vergessen werden?
+Eins, zwei und... schwupp! <var> hat <var> vergessen und <var> erlernt!
+Aufgeben, <var> zu erlernen?
+<var> hat <var> nicht erlernt.
+<var> und <var> sind nicht kompatibel. <var> kann nicht erlernt werden.
+<var> kennt <var> bereits.
+<var> erlernt <var>!
+<var>
+Es wird keine Wirkung haben.
+Die KP von <var> wurden um <var> Punkte aufgefüllt!
+Die Vergiftung von <var> wurde geheilt!
+Die Paralyse von <var> wurde aufgehoben!
+Verbrennungen von <var> wurden geheilt!
+<var> wurde aufgetaut!
+AP wurden aufgefüllt!
+<var> hat sich wieder erholt!
+<var> erholte sich!
+AP von <var> wurden angehoben!
+Der <var>-Basiswert von <var> wurde angehoben!
+Kein Pokémon vorhanden!
+<var> ist aufgewacht!
+Max. KP
+Ang.
+Vert.
+Sp.-Ang.
+Sp.-Vert.
+Init.
++ <var>
+<var> erreicht Lv. <var>!
+Ang.
+Vert.
+Sp.-Ang.
+Sp.-Vert.
+Init.
+KP
+<var> wird zahm. Der <var>-Basiswert sinkt.
+<var> vergöttert dich! Der <var>-Basiswert sinkt.
+<var> wird zahm. Der <var>-Basiswert sinkt nicht mehr.
+Welche Attacke soll aufgefüllt werden?
+AP welcher Attacke anheben?
+Erlernbar!
+Nicht erlernbar!
+Bereits erlernt!
+O.K.!
+Nicht möglich!
+Zuletzt verwendete Items
+Getragenes Item
+Wie möchtest du <var> auf <var> anwenden?
+Auf dem Y-Knopf können höchstens vier Items registriert werden!
+Soll die Fähigkeit von <var> zu <var> geändert werden?
+Die Fähigkeit von <var> wurde zu <var> geändert!
+Mit diesem Pokémon ist eine Fusion nicht möglich.
+Mit kampfunfähigen Pokémon ist eine Fusion nicht möglich.
+Mit einem Ei ist eine Fusion nicht möglich.
+Du kannst das Pokémon nicht teilen, da dein Team voll ist.
+Mit welchem Pokémon fusionieren?
+Das kann nicht auf ein kampfunfähiges Pokémon angewendet werden.
+<var> verändert seine Form!
+<var>
+<var> $
+EP-Teiler wurde eingeschaltet.
+EP-Teiler wurde ausgeschaltet.
+Keine Kontaktlinsen vorhanden!
+Farbe der vorhandenen Linsen: <var>.
+Farben der vorhandenen Linsen: <var> und <var>.
+Farben der vorhandenen Linsen: <var>, <var> und <var>.
+Farben der vorhandenen Linsen: <var>, <var>, <var> und <var>.
+Du besitzt <var> Tickets.
+
+Geld
+Wie viele <var> verkaufst du?
+Dafür gebe ich dir <var> $. Bist du damit einverstanden?
+<var> im Tausch gegen <var> $ übergeben.
+<var> im Tausch gegen <var> $ übergeben.
+<var>? Es tut mir leid, aber das kann ich nicht kaufen.
+Anschalten
+Ausschalten
+Verstauen
+Du hast keinen Platz dafür!
+Kampf-Attacke
+Wettbewerbs-Attacke
+Ausdruckskraft
+Störfaktor
+<var> hat die <var> eingesetzt! Dadurch steigt die Wahrscheinlichkeit, wilden Pokémon mit hohem Level zu begegnen.
+<var> hat die <var> eingesetzt! Dadurch steigt die Wahrscheinlichkeit, wilden Pokémon mit niedrigem Level zu begegnen.

@@ -1,0 +1,185 @@
+Usar
+Tirar
+Asignar
+Dar
+
+Andar
+
+Salir
+
+
+
+
+
+
+Anular asignación
+
+
+/
+-
+
+
+♂
+♀
+L
+
+
+
+
+
+
+
+
+ x
+
+
+Has seleccionado <var>.
+
+Este objeto es muy importante. ¡No puedes tirarlo!
+¿Cuántoas <var> quieres tirar?
+¡Has tirado <var> <var>!
+
+¿Seguro que quieres tirar <var> <var>?
+
+Las palabras de tu padre te vienen a la memoria: "¡Cada cosa en su momento!".
+
+
+¡<var> ha usado <var>!
+El Repelente sigue haciendo efecto. No puedes usar otro todavía.
+¡<var> ha usado <var>! ¡<var> se encontrará con más Pokémon salvajes!
+¡<var> ha usado <var>! ¡<var> se encontrará con menos Pokémon salvajes!
+MT<var> <var>
+MO<var> <var>
+
+
+
+
+
+PP
+Potencia
+Precisión
+Categoría
+
+
+Tipo
+Vacío
+
+
+
+Los objetos se han ordenado por clase.
+Los objetos se han ordenado alfabéticamente.
+Los objetos se han ordenado de mayor a menor número de unidades.
+Los objetos se han ordenado de menor a mayor número de unidades.
+
+
+
+
+
+
+
+¿Cómo quieres ordenar tus objetos?
+Por clase
+Alfabéticamente
+De más a menos
+De menos a más
+Por número
+
+Se han ordenado por número.
+
+¿A qué Pokémon quieres darle este objeto?
+¡<var> ya lleva <var>! ¿Quieres cambiar un objeto por otro?
+Le has dado <var> al Pokémon.
+Has cogido <var> que tenía y le has dado <var>.
+¿Con qué Pokémon quieres usar este objeto?
+¿Qué Pokémon quieres que lo aprenda?
+No puedes darle <var> a un Pokémon.
+
+MT activada.
+MO activada.
+Contiene el movimiento <var>. ¿Quieres enseñarle <var> a <var>?
+<var> quiere aprender el movimiento <var>. Pero <var> ya conoce cuatro movimientos. ¿Quieres sustituir uno de esos movimientos por <var>?
+¿Qué movimiento quieres que olvide?
+1, 2 y... ¡puf! ¡<var> ha olvidado cómo utilizar <var>! Y... ¡<var> ha aprendido <var>!
+¿Prefieres que no aprenda <var>?
+<var> no ha aprendido <var>.
+<var> y <var> son incompatibles. El Pokémon no puede aprender ese movimiento.
+<var> ya conoce <var>.
+¡<var> ha aprendido <var>!
+<var>
+No tendría ningún efecto.
+<var> ha recuperado <var> PS.
+<var> se ha curado del envenenamiento.
+<var> se ha curado de la parálisis.
+<var> ya no tiene quemaduras.
+<var> ya no está congelado.
+Se han restaurado los PP.
+¡<var> ya no está debilitado!
+<var> ha recuperado su estado normal.
+Los PP de <var> han aumentado.
+Los puntos de base <var> de <var> han aumentado.
+¡No hay ningún Pokémon!
+<var> se ha despertado.
+PS MÁX.
+Ataque
+Defensa
+At. Esp.
+Def. Esp.
+Velocidad
++ <var>
+¡<var> ha subido al Nivel <var>!
+Ataque
+Defensa
+At. Esp.
+Def. Esp.
+Velocidad
+PS
+<var> se ha vuelto más amable. ¡Pero tiene menos <var> de base!
+<var> te adora. ¡Pero sus <var> de base han disminuido!
+<var> se ha vuelto más amable. ¡Sus <var> de base ya no pueden bajar más!
+¿Qué movimiento quieres restaurar?
+¿De qué movimiento quieres aumentar los PP?
+Sí puede
+No puede
+Ya lo conoce
+Apto
+No apto
+Últimos objetos usados
+Objeto que lleva
+¿Qué quieres hacer con <var> y <var>?
+Puedes asignar hasta cuatro objetos al botón de acceso rápido.
+¿Quieres que la habilidad de <var> pase a ser <var>?
+Ahora la habilidad de <var> es <var>.
+No se puede fusionar con ese Pokémon.
+No se puede fusionar con un Pokémon debilitado.
+No se puede fusionar con un Huevo.
+No se puede realizar la separación porque tu equipo está completo.
+¿Con qué Pokémon quieres que se fusione?
+No se puede usar con un Pokémon debilitado.
+¡<var> ha cambiado de forma!
+<var>
+<var> $
+Has activado Repartir Exp.
+Has desactivado Repartir Exp.
+No tienes lentillas.
+Color de las lentillas: <var>.
+Color de las lentillas: <var> y <var>.
+Color de las lentillas: <var>, <var> y <var>.
+Color de las lentillas: <var>, <var>, <var> y <var>.
+Tienes <var> Boletos.
+
+Dinero
+¿Cuántoas <var> quieres vender?
+Puedo pagarte <var> $. ¿Te parece bien?
+¡Recibes <var> $ por la venta <var>!
+¡Recibes <var> $ por la venta <var>!
+No, lo siento. No puedo comprar eso.
+Encender
+Apagar
+Guardar
+No te caben más en la Bolsa.
+Mov. de combate
+Mov. de concurso
+Exhibición
+Interferencia
+¡<var> ha usado <var>! ¡<var> se encontrará con más Pokémon de nivel alto!
+¡<var> ha usado <var>! ¡<var> se encontrará con más Pokémon de nivel bajo!
